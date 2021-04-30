@@ -1,1 +1,1 @@
-var mnemonic = "benefit cushion coach foot curious panic thumb ginger bridge word siren purity";
+var mnemonic = "enforce choice symptom honey another fatigue leave pipe cruel custom spice eagle";

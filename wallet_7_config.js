@@ -1,1 +1,1 @@
-var mnemonic = "birth rigid hand question recall edit jealous news egg magic duty potato";
+var mnemonic = "kiwi own okay bright jeans exit opera under season anchor grab pool";

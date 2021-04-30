@@ -1,1 +1,1 @@
-var mnemonic = "point busy earth destroy hidden math enact train dune avoid puppy ladder";
+var mnemonic = "yellow farm mother master lunar average game misery west few kingdom timber";

@@ -1,1 +1,1 @@
-var mnemonic = "hill bachelor feel scrap utility media clap open main kid muscle obey";
+var mnemonic = "silk vessel approve view welcome bottom faint sorry mask kitchen donor then";

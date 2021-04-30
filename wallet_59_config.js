@@ -1,1 +1,1 @@
-var mnemonic = "salute flavor return stem youth lazy napkin control recipe erase way best";
+var mnemonic = "raven crisp depth deny pulse giant airport hold can success dynamic barrel";

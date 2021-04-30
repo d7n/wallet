@@ -1,1 +1,1 @@
-var mnemonic = "border lounge kidney wire talent already vibrant badge lumber letter feel equip";
+var mnemonic = "idle memory similar pitch rescue voice today talk custom border worth inner";

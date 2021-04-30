@@ -1,1 +1,1 @@
-var mnemonic = "fork grief zone quit sail make spoon decade bus exile pig during";
+var mnemonic = "winner involve afford there razor blame biology over fence strategy connect slot";

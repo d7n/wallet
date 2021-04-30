@@ -1,1 +1,1 @@
-var mnemonic = "outside manage dinner mosquito push armor matrix world clinic usual wreck pumpkin";
+var mnemonic = "mimic prevent purpose shine code chuckle buffalo kidney misery monitor elite wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid syrup reopen over exist someone guide drip know joy verify diary";
+var mnemonic = "minor cousin goose sketch front word elbow pulse slender topple option also";

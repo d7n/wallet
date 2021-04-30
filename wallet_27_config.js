@@ -1,1 +1,1 @@
-var mnemonic = "pull across urge retreat force mother stand shy good sauce gain raven";
+var mnemonic = "eternal swallow start people cart control casino load away supply wedding flag";

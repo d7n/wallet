@@ -1,1 +1,1 @@
-var mnemonic = "very door rather firm vivid during joy seat medal scissors cargo crop";
+var mnemonic = "machine slide action attract bulk various jaguar bulk guilt mule meat remind";

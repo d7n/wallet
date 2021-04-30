@@ -1,1 +1,1 @@
-var mnemonic = "trigger brick tongue news disorder morning hint bid frown olive time goose";
+var mnemonic = "depend corn elephant boil lamp fluid deputy best harbor duty poverty crunch";

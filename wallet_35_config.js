@@ -1,1 +1,1 @@
-var mnemonic = "crowd volcano can endorse enrich success virus toddler champion clown waste banner";
+var mnemonic = "hat submit theme tube code bean blood review oil soccer wheat private";

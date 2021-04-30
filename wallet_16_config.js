@@ -1,1 +1,1 @@
-var mnemonic = "flavor deer inmate board fence trophy scout squirrel love involve ride fortune";
+var mnemonic = "crash special emerge emotion fan heart view choice shadow tail island twice";

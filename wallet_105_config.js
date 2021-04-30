@@ -1,1 +1,1 @@
-var mnemonic = "wrist ridge juice right trigger tenant tell vintage search caught cliff bone";
+var mnemonic = "unveil lion drill resemble erase zero speak jealous solve add wedding surface";

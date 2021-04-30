@@ -1,1 +1,1 @@
-var mnemonic = "grass crater book entire atom purchase baby couple brass february debris course";
+var mnemonic = "acquire access firm insect torch husband bamboo abandon notable page panda inch";

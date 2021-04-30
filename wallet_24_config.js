@@ -1,1 +1,1 @@
-var mnemonic = "idea lunch false swift brass matrix tiger danger asthma body transfer birth";
+var mnemonic = "chalk traffic upper wreck draw raccoon useful bulb vessel candy empower word";

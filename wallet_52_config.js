@@ -1,1 +1,1 @@
-var mnemonic = "step soldier spread poverty squirrel hazard over neutral history balance fun grunt";
+var mnemonic = "dentist raven float monkey submit volume flag exclude phrase remain tornado enlist";

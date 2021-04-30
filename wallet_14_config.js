@@ -1,1 +1,1 @@
-var mnemonic = "system wheel cabbage session click cricket energy huge rebuild fortune various toast";
+var mnemonic = "stadium run sibling nest aerobic possible welcome wealth always bundle chaos goddess";

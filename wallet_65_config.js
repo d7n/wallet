@@ -1,1 +1,1 @@
-var mnemonic = "knife yard romance diesel snack gym potato marriage filter electric flash repeat";
+var mnemonic = "negative team obscure virtual income tennis flag allow smoke potato team desk";

@@ -1,1 +1,1 @@
-var mnemonic = "outside wisdom rookie dash found route believe pole collect sort sponsor enrich";
+var mnemonic = "total museum plunge frown destroy keen lumber radar shoe there bargain insane";

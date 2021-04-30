@@ -1,1 +1,1 @@
-var mnemonic = "derive father trash response way glow solid coffee damp exhibit escape vital";
+var mnemonic = "load only avoid convince already kangaroo panel bomb spring truly state bird";

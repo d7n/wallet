@@ -1,1 +1,1 @@
-var mnemonic = "essay behind earth define waste visual december panic crew enjoy route roof";
+var mnemonic = "dynamic unaware wheat weather dry vivid blind captain someone festival flush enact";

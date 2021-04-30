@@ -1,1 +1,1 @@
-var mnemonic = "curtain suffer kidney frown clever toilet similar emotion goddess drip when clog";
+var mnemonic = "cousin arrive little worth draft swap range build spare inch require whale";

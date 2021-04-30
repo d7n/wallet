@@ -1,1 +1,1 @@
-var mnemonic = "toast sound walnut hero foam control dust rebuild bracket bullet tomato remove";
+var mnemonic = "debris elephant agree sorry what bubble system tape actor return embody sell";

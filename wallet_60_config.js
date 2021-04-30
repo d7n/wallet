@@ -1,1 +1,1 @@
-var mnemonic = "carry movie cute nominee artwork spin correct need garage rough confirm network";
+var mnemonic = "breeze caution surface paper auction define myth security banana conduct decide okay";

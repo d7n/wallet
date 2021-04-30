@@ -1,1 +1,1 @@
-var mnemonic = "shoot safe picture whip spread pigeon clog emerge casual mosquito rude match";
+var mnemonic = "crumble hurry wide easy update connect assault bridge drift tonight cool flip";

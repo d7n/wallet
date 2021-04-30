@@ -1,1 +1,1 @@
-var mnemonic = "family divorce adjust injury object announce riot girl furnace hockey lemon oblige";
+var mnemonic = "magnet turtle skirt distance eternal hunt baby liar inform donor jazz lunar";

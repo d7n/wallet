@@ -1,1 +1,1 @@
-var mnemonic = "equip become attract erosion bone burden boss all option mobile jaguar hair";
+var mnemonic = "make virus midnight sea nation toss outside dragon danger magic emerge arena";

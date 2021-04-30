@@ -1,1 +1,1 @@
-var mnemonic = "mercy into lecture lawsuit empty boring happy faith moon inside twenty extend";
+var mnemonic = "ginger interest defy suit february patch rural cherry update faith bring wave";

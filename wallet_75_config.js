@@ -1,1 +1,1 @@
-var mnemonic = "thunder bacon awful jar digital famous spirit embody dust detail monster extend";
+var mnemonic = "arctic crunch shiver first grow avocado bitter mesh hold air imitate effort";

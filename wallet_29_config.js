@@ -1,1 +1,1 @@
-var mnemonic = "super alert deal knee hurdle evil tiny unlock network vacuum ankle define";
+var mnemonic = "history arrest silly upon bridge box wool riot cousin usual snap walnut";

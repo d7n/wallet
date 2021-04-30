@@ -1,1 +1,1 @@
-var mnemonic = "auto trick flush hair ritual blind donor feel life spell bullet spread";
+var mnemonic = "you distance hat beach save tilt crowd cube together spell can thought";

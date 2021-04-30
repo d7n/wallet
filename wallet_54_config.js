@@ -1,1 +1,1 @@
-var mnemonic = "bachelor brand wait limb ignore fly virus field joke abandon design fix";
+var mnemonic = "series sick ripple open menu congress mango brush december purity credit father";

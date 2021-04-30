@@ -1,1 +1,1 @@
-var mnemonic = "fame finger hurry skin recipe duck spring medal dirt side laptop ordinary";
+var mnemonic = "evolve wrap rhythm boil brown shift typical echo supply shock network deposit";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase link fluid useless material prevent order slight prepare arrive can faculty";
+var mnemonic = "tortoise web almost hybrid million hole regular chunk antenna vacant empower olive";

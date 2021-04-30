@@ -1,1 +1,1 @@
-var mnemonic = "lunch object seat gold sudden catch atom mother feel capable air fossil";
+var mnemonic = "outside adapt midnight heavy ring rely warfare timber deputy remind produce glass";

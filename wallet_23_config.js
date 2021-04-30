@@ -1,1 +1,1 @@
-var mnemonic = "mechanic basic sheriff rapid mule inherit humor lamp lamp live never nuclear";
+var mnemonic = "twelve forum begin feed double normal cigar require lonely eagle any sun";

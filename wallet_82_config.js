@@ -1,1 +1,1 @@
-var mnemonic = "media number chase bless gap fresh scorpion script fee bless orchard mystery";
+var mnemonic = "escape bunker cupboard liquid impulse roast symbol real icon general ladder apple";

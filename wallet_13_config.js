@@ -1,1 +1,1 @@
-var mnemonic = "wide release scrub boost famous profit settle ritual gentle excess wedding nuclear";
+var mnemonic = "razor resemble believe anger voice trade rookie trap later cause transfer coach";

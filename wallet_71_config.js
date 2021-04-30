@@ -1,1 +1,1 @@
-var mnemonic = "face sight hungry clump various width link history toss derive rhythm run";
+var mnemonic = "chunk sport heavy blade urban purity sauce stick disease eight pipe stock";

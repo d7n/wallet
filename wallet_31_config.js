@@ -1,1 +1,1 @@
-var mnemonic = "coil palm belt february clarify unfold portion property stock sunny bag hero";
+var mnemonic = "true rice kiwi spell federal anchor script family swap olive focus chase";

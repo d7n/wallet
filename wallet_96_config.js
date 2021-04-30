@@ -1,1 +1,1 @@
-var mnemonic = "upon march century claw final myself honey village forest kangaroo speed kid";
+var mnemonic = "upon plastic annual wing boil census affair embrace clip iron idle crew";

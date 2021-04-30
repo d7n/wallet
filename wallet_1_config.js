@@ -1,1 +1,1 @@
-var mnemonic = "time diary buddy harbor long patch brain point acquire soldier naive tuition";
+var mnemonic = "mimic tiny debris bridge pig erode lucky metal suit absurd voyage upon";

@@ -1,1 +1,1 @@
-var mnemonic = "blue traffic desert digital devote jacket object betray science sorry plastic life";
+var mnemonic = "divorce please finger squeeze better wash manual become sun route toy title";

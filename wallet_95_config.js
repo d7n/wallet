@@ -1,1 +1,1 @@
-var mnemonic = "economy pottery much cargo taxi project domain twenty wood lift derive sound";
+var mnemonic = "arrow cabbage produce purchase keep equal prison year common call elevator benefit";

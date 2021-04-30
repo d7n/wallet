@@ -1,1 +1,1 @@
-var mnemonic = "judge sweet pattern copper amused east relief any slam kitten account modify";
+var mnemonic = "deliver picnic yellow leaf cram defense rough butter luggage speed lamp veteran";

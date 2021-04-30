@@ -1,1 +1,1 @@
-var mnemonic = "movie cluster build bottom impact buddy column random obey fine original frost";
+var mnemonic = "bracket best drama soccer whale company super decrease load web maple train";

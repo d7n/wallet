@@ -1,1 +1,1 @@
-var mnemonic = "hard spring help found amount fabric stove tray practice capital clip spy";
+var mnemonic = "same cotton over loyal burst need kitten catch survey pause spirit meat";

@@ -1,1 +1,1 @@
-var mnemonic = "vintage setup absurd output kitchen wrestle elegant mystery gentle divert attend scatter";
+var mnemonic = "pudding north artwork lizard fix control better put south wish mushroom entry";

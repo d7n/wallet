@@ -1,1 +1,1 @@
-var mnemonic = "blouse initial spot book hawk arctic mixture celery planet nasty short sock";
+var mnemonic = "rookie twin acoustic flee million twelve defy deposit brother holiday foster champion";

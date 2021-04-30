@@ -1,1 +1,1 @@
-var mnemonic = "buffalo frost soap radio usual own robot man during private motion renew";
+var mnemonic = "tent convince mix cinnamon witness noble that motor piece throw trick lady";

@@ -1,1 +1,1 @@
-var mnemonic = "tank soda park sick science print toast original dial angry glory crunch";
+var mnemonic = "talent cloth pepper alley miracle dwarf gain pizza umbrella engage orange appear";

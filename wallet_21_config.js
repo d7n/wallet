@@ -1,1 +1,1 @@
-var mnemonic = "panic little miss material cube suffer fashion ship distance boost above palm";
+var mnemonic = "cause salute despair anxiety mimic tower wool disease monitor gym water tattoo";

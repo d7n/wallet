@@ -1,1 +1,1 @@
-var mnemonic = "pull this aim razor angle easy purity valid tiny wire fatigue middle";
+var mnemonic = "dream flag travel rough clip agent news vehicle student index obscure caught";

@@ -1,1 +1,1 @@
-var mnemonic = "lab blur endorse security patch faculty buyer apart describe culture mix plunge";
+var mnemonic = "enhance judge woman shoulder energy lion update swarm bitter jazz donor light";

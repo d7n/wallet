@@ -1,1 +1,1 @@
-var mnemonic = "plunge february syrup judge fiscal ozone security uncover sniff humor royal future";
+var mnemonic = "symbol broken margin drama eagle focus faith same exit among large recall";

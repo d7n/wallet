@@ -1,1 +1,1 @@
-var mnemonic = "dune soldier theory gaze side good cost game plastic divorce enjoy gallery";
+var mnemonic = "twin copper turn artwork bag best stay grace marriage orphan leader language";

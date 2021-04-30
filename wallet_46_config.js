@@ -1,1 +1,1 @@
-var mnemonic = "west betray loop rookie such coffee pelican decade canvas burger myth fiber";
+var mnemonic = "crouch flag slot emerge scrub forget repeat exclude forum expire just crumble";

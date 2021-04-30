@@ -1,1 +1,1 @@
-var mnemonic = "express snake armed guide jump mixed crash liquid sleep ranch bitter finish";
+var mnemonic = "list excess hen horror venture genre limb inside culture march item name";

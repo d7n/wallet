@@ -1,1 +1,1 @@
-var mnemonic = "capable tenant lab oppose domain naive easily usage fortune short nice flavor";
+var mnemonic = "funny nerve chimney castle scrub off wagon bird fancy fuel visual detect";

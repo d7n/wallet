@@ -1,1 +1,1 @@
-var mnemonic = "wonder magnet knee glad face lottery equal machine sport include position install";
+var mnemonic = "mass beach lucky fatal faculty spy invest undo only garbage phone december";

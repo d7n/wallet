@@ -1,1 +1,1 @@
-var mnemonic = "gym gadget island truth such notable flip almost era talent crisp shine";
+var mnemonic = "black super lottery endorse crowd major almost crash rug exhibit nose earth";

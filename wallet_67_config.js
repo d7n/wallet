@@ -1,1 +1,1 @@
-var mnemonic = "local frozen venue stay famous bachelor shadow coast another over tooth mimic";
+var mnemonic = "kitten milk horse enrich boat below town kangaroo dust keep now mistake";

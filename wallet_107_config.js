@@ -1,1 +1,1 @@
-var mnemonic = "chair uniform leg limit defy lizard artwork vintage favorite cancel critic allow";
+var mnemonic = "wife retreat awkward park winter escape harsh century liberty love such odor";

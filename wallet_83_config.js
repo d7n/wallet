@@ -1,1 +1,1 @@
-var mnemonic = "brief session finger stock dress various awesome sweet toe focus flush lemon";
+var mnemonic = "clinic hurt tribe drift inform buffalo expire jar shoe man endorse exile";

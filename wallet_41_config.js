@@ -1,1 +1,1 @@
-var mnemonic = "member water mango recipe betray ripple cannon float speed crumble young nurse";
+var mnemonic = "luggage merge peanut either item refuse you picture fall always bracket pass";

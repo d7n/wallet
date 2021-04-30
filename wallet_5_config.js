@@ -1,1 +1,1 @@
-var mnemonic = "timber safe way fee cheese ensure charge off taste know earth puppy";
+var mnemonic = "leopard chunk metal nephew wait stereo vault similar business develop deputy march";

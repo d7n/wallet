@@ -1,1 +1,1 @@
-var mnemonic = "brass connect cabin below forget excite solar make fortune notable misery girl";
+var mnemonic = "arm one motor aisle south check vast review mushroom shock hospital sword";

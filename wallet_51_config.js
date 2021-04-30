@@ -1,1 +1,1 @@
-var mnemonic = "donor pave code royal artefact love come shoulder toward dentist spirit observe";
+var mnemonic = "that wool tourist suit knock afraid main employ rare antenna kiss pledge";

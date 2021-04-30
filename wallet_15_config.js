@@ -1,1 +1,1 @@
-var mnemonic = "bring dilemma ride melody foot squirrel axis unique guess panther wife above";
+var mnemonic = "process nest rabbit barely drastic copy lamp divert account fuel vital draft";

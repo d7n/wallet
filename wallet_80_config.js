@@ -1,1 +1,1 @@
-var mnemonic = "muscle wreck mosquito print still win soccer fix pretty hurry route twice";
+var mnemonic = "hub choose chaos media absent organ problem draw brief sunny fluid absurd";

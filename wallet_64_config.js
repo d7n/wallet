@@ -1,1 +1,1 @@
-var mnemonic = "slogan kangaroo stomach bunker eye bicycle galaxy hill uncover organ disagree sign";
+var mnemonic = "flock diet peasant doll mango surprise gym exact fruit fantasy cradle speed";

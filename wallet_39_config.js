@@ -1,1 +1,1 @@
-var mnemonic = "picnic kidney enact very fix have upset laptop lyrics open blade nothing";
+var mnemonic = "spare issue put try shallow top feature obscure slush six boy dignity";

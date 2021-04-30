@@ -1,1 +1,1 @@
-var mnemonic = "sense domain room patch weird palace mirror hotel lunar suit bomb property";
+var mnemonic = "kite because crater stock ranch visit vicious scatter peanut umbrella immune nasty";

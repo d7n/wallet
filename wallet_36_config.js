@@ -1,1 +1,1 @@
-var mnemonic = "worry wedding symptom rare search alley above special gospel blur clog canal";
+var mnemonic = "donor upper rely soldier cube great icon ready armed size cradle million";

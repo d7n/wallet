@@ -1,1 +1,1 @@
-var mnemonic = "furnace exclude dismiss will camp phrase light gas silver spray wave dash";
+var mnemonic = "coyote all mixture denial panel sea insect rabbit one track tornado check";

@@ -1,1 +1,1 @@
-var mnemonic = "invite rug catch team improve sand immense various exhaust stage dove item";
+var mnemonic = "behave carry acid rubber abuse brother supreme twin salute vocal river effort";

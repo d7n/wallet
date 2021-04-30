@@ -1,1 +1,1 @@
-var mnemonic = "glare tennis pulse manage health spirit rare act hollow tired pottery truck";
+var mnemonic = "pledge alien era bottom trash inside pulp later snack mobile offer select";

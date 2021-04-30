@@ -1,1 +1,1 @@
-var mnemonic = "fish struggle blouse diary logic honey sibling ill cricket pumpkin trip club";
+var mnemonic = "grace board own beyond hope razor water stumble frozen assist pact clump";

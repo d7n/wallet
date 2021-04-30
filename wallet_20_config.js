@@ -1,1 +1,1 @@
-var mnemonic = "moment never demand asthma fancy shoulder still combine submit quote dance velvet";
+var mnemonic = "disease return level melody beauty mistake muscle renew witness naive net gorilla";

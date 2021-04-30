@@ -1,1 +1,1 @@
-var mnemonic = "gesture enough library inherit family clinic speed size design liar section wine";
+var mnemonic = "increase warfare surge paper novel absorb extra chronic aware fringe screen animal";

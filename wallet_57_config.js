@@ -1,1 +1,1 @@
-var mnemonic = "movie extra right display cover key palace blossom process birth where business";
+var mnemonic = "soldier guilt butter able inject canyon mad best width define acid engine";

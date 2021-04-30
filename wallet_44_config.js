@@ -1,1 +1,1 @@
-var mnemonic = "mass where snake glare write note melt sniff truly clarify eyebrow reject";
+var mnemonic = "moon goat matrix era orphan yellow pretty afraid spoil auction fury clap";

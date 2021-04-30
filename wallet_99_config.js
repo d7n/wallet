@@ -1,1 +1,1 @@
-var mnemonic = "reward law rabbit inner library believe cycle desert begin syrup basic balcony";
+var mnemonic = "property broken share price mad kick evidence strike later gaze draft inside";

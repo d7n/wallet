@@ -1,1 +1,1 @@
-var mnemonic = "problem shrug pulp slow fitness lens gym surround swallow push diesel require";
+var mnemonic = "found sauce submit sentence conduct admit exist cruel wisdom snack tree nut";

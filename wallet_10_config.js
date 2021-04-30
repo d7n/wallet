@@ -1,1 +1,1 @@
-var mnemonic = "chapter donate gold trick pig urge journey bronze orphan stove motion illegal";
+var mnemonic = "stuff ordinary awake journey cage remove inform cannon dream wear farm loop";
