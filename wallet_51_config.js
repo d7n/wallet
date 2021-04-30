@@ -1,1 +1,1 @@
-var mnemonic = "cruel sausage phrase wife seminar buffalo success nephew velvet lounge gospel liquid";
+var mnemonic = "fold try fog link symbol vital develop moon still north elevator alpha";

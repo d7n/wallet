@@ -1,1 +1,1 @@
-var mnemonic = "awful oak describe drama surge eye blind draft fantasy victory idea spring";
+var mnemonic = "shiver expect truck glide black check brother model design grocery code catalog";

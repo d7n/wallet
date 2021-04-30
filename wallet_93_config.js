@@ -1,1 +1,1 @@
-var mnemonic = "cabin innocent excite term human shoot voyage country draw reward earth april";
+var mnemonic = "parrot inherit high case jaguar camera rather visa economy track goddess harsh";

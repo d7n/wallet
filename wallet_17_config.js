@@ -1,1 +1,1 @@
-var mnemonic = "scout distance push promote virtual crash ostrich artefact belt unveil enjoy pluck";
+var mnemonic = "grief trial define script parrot useless lab excuse domain identify cry dizzy";

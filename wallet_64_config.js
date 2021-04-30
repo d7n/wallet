@@ -1,1 +1,1 @@
-var mnemonic = "black captain shed kiwi rather nominee true tent pluck invite suggest sock";
+var mnemonic = "genius attack crane hundred company song thrive polar axis issue aim little";

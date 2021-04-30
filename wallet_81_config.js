@@ -1,1 +1,1 @@
-var mnemonic = "fix swing admit angle wool gadget latin bicycle cushion april assist music";
+var mnemonic = "possible hurry purchase skull comic path twice call path carbon document flower";

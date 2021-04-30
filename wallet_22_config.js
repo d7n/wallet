@@ -1,1 +1,1 @@
-var mnemonic = "patient tuition liberty bag flip pledge story common eager educate clap blush";
+var mnemonic = "bike leave walnut rich robot cinnamon false sort hello mad object primary";

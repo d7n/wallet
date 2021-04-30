@@ -1,1 +1,1 @@
-var mnemonic = "noodle side library mother world announce food mushroom under drink blast satoshi";
+var mnemonic = "club donkey drink idea sock salt cheese become follow march shop emotion";

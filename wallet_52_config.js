@@ -1,1 +1,1 @@
-var mnemonic = "glide shift oyster build scale shift next faint robot rotate purchase gauge";
+var mnemonic = "spy local spawn hockey peanut tower symptom play enter salmon host music";

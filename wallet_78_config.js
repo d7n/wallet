@@ -1,1 +1,1 @@
-var mnemonic = "globe unveil mesh envelope common equal tag visit method option what forget";
+var mnemonic = "deer expect kite milk pink learn foster pledge armed gloom accident oxygen";

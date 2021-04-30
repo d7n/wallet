@@ -1,1 +1,1 @@
-var mnemonic = "noble level era capital clever alert material test curious rescue acquire thank";
+var mnemonic = "dry tomato bar correct expose surprise prepare exhibit able spy coyote night";

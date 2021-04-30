@@ -1,1 +1,1 @@
-var mnemonic = "diary cancel trumpet height one menu system tool flag lock saddle science";
+var mnemonic = "curtain flash choice mixture alpha destroy drill dawn trend bounce chapter split";

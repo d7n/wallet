@@ -1,1 +1,1 @@
-var mnemonic = "limit trouble girl prize crush fence thing oil caught myth hill mountain";
+var mnemonic = "perfect earth diagram crush barely language devote barely live gauge citizen afford";

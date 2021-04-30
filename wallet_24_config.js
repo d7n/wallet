@@ -1,1 +1,1 @@
-var mnemonic = "hamster song danger force service spike camera canyon disease estate tower march";
+var mnemonic = "supreme balance style lamp desk sun payment decline depend lawn curtain equal";

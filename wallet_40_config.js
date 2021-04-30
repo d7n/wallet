@@ -1,1 +1,1 @@
-var mnemonic = "claim ice alter cash plate sausage art snow wife donor wire flower";
+var mnemonic = "upon below slush boring initial source satoshi try setup curve joy gaze";

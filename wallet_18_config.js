@@ -1,1 +1,1 @@
-var mnemonic = "rack fruit trash dizzy fuel alley excite miracle biology misery warm desk";
+var mnemonic = "finger female exit spread clinic cat assume pretty buzz reopen double nurse";

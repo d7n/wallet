@@ -1,1 +1,1 @@
-var mnemonic = "super payment symbol tattoo rabbit cook comic kite write wreck secret fork";
+var mnemonic = "stone series leaf wasp deposit voice shaft shift kick animal raven helmet";

@@ -1,1 +1,1 @@
-var mnemonic = "destroy leaf best asthma seminar flee trade arch photo execute mercy casual";
+var mnemonic = "wait crumble blame emerge barely avocado learn cry feel gadget frown laundry";

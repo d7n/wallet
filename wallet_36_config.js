@@ -1,1 +1,1 @@
-var mnemonic = "sunset language cost parrot music grocery trumpet client raven disorder any matrix";
+var mnemonic = "motion settle lizard weapon arrow act choice roast nothing athlete spawn calm";

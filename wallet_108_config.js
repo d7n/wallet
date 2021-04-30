@@ -1,1 +1,1 @@
-var mnemonic = "another casual wife canyon bacon speak endorse tooth trial suit buyer surround";
+var mnemonic = "consider pony desert number bicycle debris trap eyebrow almost picture grid young";

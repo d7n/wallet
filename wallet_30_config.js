@@ -1,1 +1,1 @@
-var mnemonic = "parent leopard sport lens chapter maze birth october burden pool cake bachelor";
+var mnemonic = "special anchor forget subway note aim balance six spoil lyrics donor gospel";

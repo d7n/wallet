@@ -1,1 +1,1 @@
-var mnemonic = "cement orbit nice diesel grass gain they delay limit crystal cherry female";
+var mnemonic = "achieve file stone supply unit deny sail glide razor mail repair dinner";

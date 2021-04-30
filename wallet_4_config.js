@@ -1,1 +1,1 @@
-var mnemonic = "robust hurdle grab since dilemma shrug next until buddy nest guide lab";
+var mnemonic = "enable discover husband gauge puppy mixture there educate nothing piano such submit";

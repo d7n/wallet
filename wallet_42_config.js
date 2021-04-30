@@ -1,1 +1,1 @@
-var mnemonic = "spell remind catalog merge foot harbor soap knife hero mixture idea ahead";
+var mnemonic = "steel cloth derive siege plunge labor topic lecture detail total multiply suggest";

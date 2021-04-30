@@ -1,1 +1,1 @@
-var mnemonic = "unlock glance cart dress blur column marine cloud ripple humble sketch sheriff";
+var mnemonic = "tray clump balcony clog lottery history strategy trust pyramid dismiss exile cup";

@@ -1,1 +1,1 @@
-var mnemonic = "apple depth simple follow relief core sell jaguar alpha cargo model edit";
+var mnemonic = "apple bubble harbor drama heart royal castle warm illegal icon frown large";

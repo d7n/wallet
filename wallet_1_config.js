@@ -1,1 +1,1 @@
-var mnemonic = "obscure cool scatter much rhythm hire escape story hero assault catch kid";
+var mnemonic = "online race subject expand cinnamon shield perfect filter rapid person pepper proof";

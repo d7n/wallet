@@ -1,1 +1,1 @@
-var mnemonic = "shine amused frog about finger patch faculty candy battle bitter slow force";
+var mnemonic = "fancy choice voice pair tray suspect wash nose march borrow flight huge";

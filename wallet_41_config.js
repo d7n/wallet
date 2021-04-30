@@ -1,1 +1,1 @@
-var mnemonic = "review bright diet omit damage genius fade beyond where blanket unusual shy";
+var mnemonic = "around upon raccoon cheap village smooth boring goat mobile breeze photo guess";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle rescue report captain remove valve plunge control cereal trap grow trial";
+var mnemonic = "cheap arrange position alley much skate wise task square daring dilemma doctor";

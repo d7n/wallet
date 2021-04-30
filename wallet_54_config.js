@@ -1,1 +1,1 @@
-var mnemonic = "print stool omit furnace squeeze spot merry stool exchange nice put seed";
+var mnemonic = "idle west narrow space success brick attitude pull dish cook brother corn";

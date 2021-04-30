@@ -1,1 +1,1 @@
-var mnemonic = "uphold daughter alpha else disorder magnet zoo agent thought rule often entire";
+var mnemonic = "delay scan flock wear mail later advance puzzle system brisk issue same";

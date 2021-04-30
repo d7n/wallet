@@ -1,1 +1,1 @@
-var mnemonic = "miss wheat grocery lawsuit cool suggest copper equip hawk move still minimum";
+var mnemonic = "comic spare lesson radio circle walnut shoulder sleep idea gym view drop";

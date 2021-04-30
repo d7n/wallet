@@ -1,1 +1,1 @@
-var mnemonic = "annual expand fat flock swing dignity utility bicycle question volume oxygen debate";
+var mnemonic = "moral planet resource speed glad hold minute just umbrella actor flight embrace";

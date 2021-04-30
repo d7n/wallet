@@ -1,1 +1,1 @@
-var mnemonic = "canvas check extend such horn salad genuine detect almost proof tiny six";
+var mnemonic = "gossip cloth strong crane rich drive public wine kick file people critic";

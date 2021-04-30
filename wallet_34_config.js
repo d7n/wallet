@@ -1,1 +1,1 @@
-var mnemonic = "run cattle drink mechanic catch enhance luggage achieve father indoor apology cattle";
+var mnemonic = "choice swear patch latin make loyal almost miracle slam brain step march";

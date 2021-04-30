@@ -1,1 +1,1 @@
-var mnemonic = "slender repeat clerk boat legal bonus split infant force walnut injury assume";
+var mnemonic = "burden panel soldier oyster year income raise divide crater grocery narrow north";

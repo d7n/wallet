@@ -1,1 +1,1 @@
-var mnemonic = "lava huge false twin marriage multiply certain enroll unhappy clap key make";
+var mnemonic = "little author wonder vocal zero opera candy umbrella adult kangaroo deal resist";

@@ -1,1 +1,1 @@
-var mnemonic = "monster grace exclude mushroom wine hire close burden measure regular dynamic wolf";
+var mnemonic = "depend burst bubble taxi clever thought marine hobby property output wet unique";

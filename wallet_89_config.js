@@ -1,1 +1,1 @@
-var mnemonic = "milk three setup replace admit coast flight arrange found jelly toilet potato";
+var mnemonic = "whip into hollow carpet leopard keen suit slush matrix lucky venue polar";

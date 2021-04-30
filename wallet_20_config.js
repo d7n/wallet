@@ -1,1 +1,1 @@
-var mnemonic = "wheel acoustic cake lock tragic news brain warrior pen shed blame banana";
+var mnemonic = "grass merge biology boat decline taste shiver agent cactus suit unlock reunion";

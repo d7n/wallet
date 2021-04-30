@@ -1,1 +1,1 @@
-var mnemonic = "phone equip arm village digital wine odor obey when antenna snack warm";
+var mnemonic = "suffer fame forget impact glimpse risk gossip merry satisfy spring crew tube";

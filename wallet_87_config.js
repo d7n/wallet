@@ -1,1 +1,1 @@
-var mnemonic = "response fever hollow coach story away among grit ill violin empower tube";
+var mnemonic = "cruel help thunder asthma person tackle material health venue oil magnet truck";

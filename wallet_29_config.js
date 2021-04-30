@@ -1,1 +1,1 @@
-var mnemonic = "salon merge beef sausage announce fluid style swim project draw tennis critic";
+var mnemonic = "large must history shop piece material cover despair card link town pride";

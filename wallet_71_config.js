@@ -1,1 +1,1 @@
-var mnemonic = "rule panel size kiss illegal abuse snap find divide cover parade upon";
+var mnemonic = "welcome chimney again supreme follow person boost clap useful setup youth defy";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend wheat protect ill leader spring need arrange market lobster enforce mix";
+var mnemonic = "discover rifle loud wrap denial vast hire sad sheriff adjust face hungry";

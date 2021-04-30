@@ -1,1 +1,1 @@
-var mnemonic = "motor wife wagon penalty coil mosquito bright win trend giggle become knife";
+var mnemonic = "fresh satoshi mistake globe hair same blind cherry duty lecture enjoy dumb";

@@ -1,1 +1,1 @@
-var mnemonic = "vintage shrug pelican route circle pioneer rebuild motor mosquito eyebrow snack region";
+var mnemonic = "crater stable renew bitter leopard cake receive boss panel turkey feed impact";

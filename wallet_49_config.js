@@ -1,1 +1,1 @@
-var mnemonic = "few announce resist bachelor season warfare attend liquid author pupil color myself";
+var mnemonic = "fog focus egg sick wrong canoe hawk inspire shock club erode able";

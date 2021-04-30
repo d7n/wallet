@@ -1,1 +1,1 @@
-var mnemonic = "scheme meadow shell athlete enlist paper sauce hair mixture economy style salad";
+var mnemonic = "caution dismiss steak diagram margin manual angle owner team exhibit arrive leave";

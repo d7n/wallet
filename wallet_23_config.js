@@ -1,1 +1,1 @@
-var mnemonic = "dash frog slogan confirm service roof twenty marriage vacuum like oxygen install";
+var mnemonic = "please pigeon ridge pioneer affair else sustain tobacco doll embody move journey";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel flash fold wing subject whale image hawk album chuckle opera spatial";
+var mnemonic = "kick release bone task combine surface gather tell trophy duck patrol note";

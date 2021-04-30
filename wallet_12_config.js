@@ -1,1 +1,1 @@
-var mnemonic = "bridge tiny dog fancy skull token wagon nuclear away across job design";
+var mnemonic = "potato robot lottery innocent steel fee assist crack father company float cart";

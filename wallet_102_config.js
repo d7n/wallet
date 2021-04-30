@@ -1,1 +1,1 @@
-var mnemonic = "purity smart prosper escape hold kitten invest truth tonight auction help cannon";
+var mnemonic = "taste peasant enact rookie follow term limit write canvas field between focus";

@@ -1,1 +1,1 @@
-var mnemonic = "forget wild shed torch announce alpha fork wash march thought lock army";
+var mnemonic = "palm world east siren merge icon poverty guess admit oblige security judge";

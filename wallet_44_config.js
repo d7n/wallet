@@ -1,1 +1,1 @@
-var mnemonic = "rain peasant wink sudden fan time boat woman burst helmet oak area";
+var mnemonic = "sand circle labor sick bracket crazy canal winner liberty violin flower mammal";

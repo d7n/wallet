@@ -1,1 +1,1 @@
-var mnemonic = "tilt emerge reject knife color fiscal dream original gap educate setup balance";
+var mnemonic = "dinner clean immense armor process intact ticket lens income expand adult apology";

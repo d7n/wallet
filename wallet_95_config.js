@@ -1,1 +1,1 @@
-var mnemonic = "card borrow badge custom fiber laugh kiss tornado drastic choice picture poem";
+var mnemonic = "suspect tuna note limit thing guilt sibling payment drum move cancel dad";

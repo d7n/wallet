@@ -1,1 +1,1 @@
-var mnemonic = "female scale turkey student length replace van rescue alpha mix ball unable";
+var mnemonic = "latin valley earth cat dish second curious toilet fresh razor thunder brush";

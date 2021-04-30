@@ -1,1 +1,1 @@
-var mnemonic = "raven happy essay organ luggage fringe true busy rather flush relax piece";
+var mnemonic = "course notable deputy huge milk coil poverty fashion room cup bottom priority";

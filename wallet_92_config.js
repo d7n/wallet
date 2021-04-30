@@ -1,1 +1,1 @@
-var mnemonic = "trend dentist hill dove hat fashion ugly shove pottery honey torch immense";
+var mnemonic = "lumber fall mistake usual retire execute dish link album relief light civil";

@@ -1,1 +1,1 @@
-var mnemonic = "mountain quote what escape glad circle current amused bonus luggage obvious moral";
+var mnemonic = "lion unaware embrace invite ostrich spike budget cake next affair mirror become";

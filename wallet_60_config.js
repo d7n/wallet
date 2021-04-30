@@ -1,1 +1,1 @@
-var mnemonic = "start churn tired illegal knee judge word solar equal until strike wheel";
+var mnemonic = "bundle brave thank wrong finish mystery tiger master alert genius symptom actual";

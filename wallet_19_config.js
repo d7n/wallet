@@ -1,1 +1,1 @@
-var mnemonic = "near gauge return transfer oblige model focus ring right deputy annual text";
+var mnemonic = "barrel laundry wage curious tobacco misery mansion certain fire talent wrestle valve";

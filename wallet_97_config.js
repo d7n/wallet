@@ -1,1 +1,1 @@
-var mnemonic = "buyer exchange above few siege response medal type scout middle lyrics boring";
+var mnemonic = "space theme valid aspect normal sure eager punch kiss limb flavor that";

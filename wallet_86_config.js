@@ -1,1 +1,1 @@
-var mnemonic = "alone cave fresh staff evolve milk blind grant reopen flavor metal aunt";
+var mnemonic = "audit anchor pigeon sentence dance play deal course wear live west tent";

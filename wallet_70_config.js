@@ -1,1 +1,1 @@
-var mnemonic = "change rocket melt produce survey tilt boil pen scrub saddle express finger";
+var mnemonic = "picnic saddle brain bubble mushroom hard lottery boss blossom acoustic thing shine";

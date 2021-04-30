@@ -1,1 +1,1 @@
-var mnemonic = "select brown draw present prosper unaware faint sibling extend squirrel labor stage";
+var mnemonic = "plunge broken rich cable style like another plate economy canyon comic autumn";

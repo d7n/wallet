@@ -1,1 +1,1 @@
-var mnemonic = "grace century zebra vault tuna bacon region else chef young scout alert";
+var mnemonic = "trust awesome craft vault cancel dizzy usual decade transfer busy shoe flip";

@@ -1,1 +1,1 @@
-var mnemonic = "race parade lawsuit analyst argue giraffe finish remind glow replace first analyst";
+var mnemonic = "cabin august define once venture female aunt squeeze pear idea mule input";

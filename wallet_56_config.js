@@ -1,1 +1,1 @@
-var mnemonic = "middle beef aisle success pattern tuition library cash radar puzzle daughter alarm";
+var mnemonic = "smart appear vicious artefact much deputy second appear empower spray iron current";

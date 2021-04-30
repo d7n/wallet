@@ -1,1 +1,1 @@
-var mnemonic = "ball name detect dignity rigid hawk split hope glance spy pizza snack";
+var mnemonic = "party chest stove bronze staff click future giggle junk scatter lumber dash";

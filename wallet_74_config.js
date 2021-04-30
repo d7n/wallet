@@ -1,1 +1,1 @@
-var mnemonic = "wage awkward aunt often size problem beach excess when mixed method toward";
+var mnemonic = "supply panel fade brick vibrant enjoy plastic possible enrich lift kitten vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "brick safe eye grocery window voyage boil auto margin resource scout nut";
+var mnemonic = "minimum piano switch cat exhibit furnace scare armor curve orchard struggle runway";

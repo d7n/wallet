@@ -1,1 +1,1 @@
-var mnemonic = "clean cube approve problem expand river side skate metal talent pottery biology";
+var mnemonic = "name deal junior kiwi rent game witness reason frozen hazard kangaroo wedding";

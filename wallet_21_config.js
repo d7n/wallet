@@ -1,1 +1,1 @@
-var mnemonic = "post cliff paddle hello enter flat stock leave laundry frog garden soda";
+var mnemonic = "blood vocal base skill mushroom pepper elite disagree diet purpose verb peasant";

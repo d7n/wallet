@@ -1,1 +1,1 @@
-var mnemonic = "fork erupt melt knee drive sing submit sniff puppy crowd hidden churn";
+var mnemonic = "pumpkin ivory harsh gather boring brown since badge mosquito original pencil grocery";

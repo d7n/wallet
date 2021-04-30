@@ -1,1 +1,1 @@
-var mnemonic = "clump champion audit flat wrist earth exchange biology inch tortoise cactus liquid";
+var mnemonic = "rescue attend news magnet require inner kiwi repeat disagree pistol funny soup";

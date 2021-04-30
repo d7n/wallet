@@ -1,1 +1,1 @@
-var mnemonic = "curtain carpet castle cool above enter brush fragile labor robust return success";
+var mnemonic = "deliver burger creek dad awful media grief liquid drip rate tray able";

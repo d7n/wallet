@@ -1,1 +1,1 @@
-var mnemonic = "over swing sea paddle improve about coin silly wheel denial opera half";
+var mnemonic = "sheriff swallow text outside pull famous audit grit first orphan stay lucky";

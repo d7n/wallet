@@ -1,1 +1,1 @@
-var mnemonic = "dwarf you mad tiny hurt weekend culture attract obtain rapid park park";
+var mnemonic = "divert genuine mask hundred dish sight gloom dynamic machine acid hundred mad";

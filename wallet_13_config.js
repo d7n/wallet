@@ -1,1 +1,1 @@
-var mnemonic = "exclude three public hammer scrub zero crazy upper city industry loan eight";
+var mnemonic = "portion fiber gather essence vital extra now sell level vibrant beach physical";

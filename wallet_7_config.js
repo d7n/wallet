@@ -1,1 +1,1 @@
-var mnemonic = "aisle frown truly silver bunker resist burst foster divide crazy stairs wire";
+var mnemonic = "good despair aware catch castle punch such adjust injury lucky certain midnight";

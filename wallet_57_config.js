@@ -1,1 +1,1 @@
-var mnemonic = "fuel human tornado embark surface rural noise now crop wisdom zebra enhance";
+var mnemonic = "trumpet quantum find snow pass oak brief great immune rocket actress reason";

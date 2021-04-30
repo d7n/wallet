@@ -1,1 +1,1 @@
-var mnemonic = "series gather endorse cause say fringe lemon siren penalty coyote record divide";
+var mnemonic = "flock tobacco favorite typical skin tail neck three heavy live kite choose";

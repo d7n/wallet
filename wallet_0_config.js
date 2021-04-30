@@ -1,1 +1,1 @@
-var mnemonic = "sad gesture swim around pair fly document depend unknown marine furnace off";
+var mnemonic = "buyer hero guide high shy exchange fat legal bargain flower error camera";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan expect sense story share song liar canoe aspect lemon refuse height";
+var mnemonic = "surge card notable flat cargo filter must rain lawsuit raven sausage piece";

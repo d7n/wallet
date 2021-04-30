@@ -1,1 +1,1 @@
-var mnemonic = "trash hammer brave fruit guide cart parade okay shock together appear east";
+var mnemonic = "forest trouble fade quantum sort please glass pulp obtain icon erase narrow";

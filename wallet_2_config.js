@@ -1,1 +1,1 @@
-var mnemonic = "segment reveal erode early extend beach fox diet brick govern need another";
+var mnemonic = "black tiger empower today bench raccoon song equal camera sight capital retreat";

@@ -1,1 +1,1 @@
-var mnemonic = "march expose fragile tackle section two alpha pair inflict kiwi process eternal";
+var mnemonic = "peace aware visual draft cereal approve roast bar subway slight carry erode";

@@ -1,1 +1,1 @@
-var mnemonic = "captain orchard fatigue crazy debate bubble never chalk cup town boost group";
+var mnemonic = "excuse jeans raven throw lake tenant dash mirror divide immense tragic convince";

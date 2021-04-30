@@ -1,1 +1,1 @@
-var mnemonic = "burger clean equal jaguar prefer dance ginger promote still immense coach prison";
+var mnemonic = "option token sheriff acquire enough hold razor rain roast snap cement margin";

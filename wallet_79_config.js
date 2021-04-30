@@ -1,1 +1,1 @@
-var mnemonic = "calm peace cost trick inspire student broccoli hello live slush suit grape";
+var mnemonic = "rigid december chalk aim field possible dwarf media document crazy fuel case";
