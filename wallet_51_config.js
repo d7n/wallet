@@ -1,1 +1,1 @@
-var mnemonic = "talk tumble select rigid exotic express giraffe forget village range wave pen";
+var mnemonic = "head crouch panel adapt rent gas bottom vote cherry hair phone wish";

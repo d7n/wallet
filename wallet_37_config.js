@@ -1,1 +1,1 @@
-var mnemonic = "magic valid helmet bid episode slow follow exist merge wonder hire figure";
+var mnemonic = "have clutch lucky jewel double gauge green laugh smooth hub teach project";

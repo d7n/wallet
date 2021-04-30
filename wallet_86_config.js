@@ -1,1 +1,1 @@
-var mnemonic = "fringe seat decrease easy add never gasp jump point catalog inject peanut";
+var mnemonic = "miss leaf shallow barrel hold lake assume hazard power siege insect furnace";

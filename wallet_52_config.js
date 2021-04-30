@@ -1,1 +1,1 @@
-var mnemonic = "proud toss wagon federal notable expect want hair soup will someone subject";
+var mnemonic = "sock jacket foot buffalo buffalo super luggage guitar hunt solution code balcony";

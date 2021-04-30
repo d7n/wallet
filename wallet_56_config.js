@@ -1,1 +1,1 @@
-var mnemonic = "this brush decorate pyramid apology wreck drama slim renew toy wrist suit";
+var mnemonic = "twin announce acoustic retreat ethics train jar force rescue involve labor cupboard";

@@ -1,1 +1,1 @@
-var mnemonic = "strong skirt win robot cry bachelor catch undo upgrade patch aim swift";
+var mnemonic = "fiction home diary better abandon address curious source cinnamon engage shuffle joy";

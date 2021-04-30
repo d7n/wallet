@@ -1,1 +1,1 @@
-var mnemonic = "oyster toy online loud minor ridge daughter deny ten stool oxygen enlist";
+var mnemonic = "embark egg apart prize pepper mix include immune wisdom noodle cannon smooth";

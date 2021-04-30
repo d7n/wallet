@@ -1,1 +1,1 @@
-var mnemonic = "limit innocent helmet walnut scene proof roof crazy swallow present cube buffalo";
+var mnemonic = "roof maple lunar city hand blast human manage legal ignore cherry choose";

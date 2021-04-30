@@ -1,1 +1,1 @@
-var mnemonic = "truth region fury now erupt gown bless pull dragon degree time dumb";
+var mnemonic = "art escape whisper thunder siren sweet truly dad lawsuit riot place husband";

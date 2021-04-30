@@ -1,1 +1,1 @@
-var mnemonic = "veteran unfold tonight legal rally arctic story fan cake impose pitch exit";
+var mnemonic = "sauce situate sunset where tank tattoo then keen text tone circle total";

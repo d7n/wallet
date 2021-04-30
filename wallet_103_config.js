@@ -1,1 +1,1 @@
-var mnemonic = "shy bundle emotion club beyond know jealous bullet early used require cat";
+var mnemonic = "fiscal guard blanket mad snack shield half walk invest fade tag soda";

@@ -1,1 +1,1 @@
-var mnemonic = "smart easy misery boost game material dose dose sponsor drink century lab";
+var mnemonic = "year island brown idle goat point palace piano bench yellow lend apology";

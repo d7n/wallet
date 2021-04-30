@@ -1,1 +1,1 @@
-var mnemonic = "nothing banner task scene easily life aunt surprise lawn scissors knee path";
+var mnemonic = "nerve rug skill humble chair wealth suffer pitch vivid wrong asset toy";

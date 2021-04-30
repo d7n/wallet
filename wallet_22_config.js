@@ -1,1 +1,1 @@
-var mnemonic = "evolve stairs clean hidden cactus unfair wealth bronze viable cross nose empower";
+var mnemonic = "pigeon token shadow metal mother dry couple front agree category jewel drift";

@@ -1,1 +1,1 @@
-var mnemonic = "forest vanish arrest roast tape thunder flush door neither unfair enlist female";
+var mnemonic = "insect engine country music click forget august crash hard unhappy need cube";

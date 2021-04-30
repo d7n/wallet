@@ -1,1 +1,1 @@
-var mnemonic = "seek poverty romance muffin height among powder involve brass become mimic solid";
+var mnemonic = "grant unfair cup royal present lucky live forget hen only course parent";

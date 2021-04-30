@@ -1,1 +1,1 @@
-var mnemonic = "trade write web raise enough outer bleak distance foam spoon episode kick";
+var mnemonic = "smile vapor couch orbit peanut dwarf badge frog oxygen cube enroll birth";

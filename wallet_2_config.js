@@ -1,1 +1,1 @@
-var mnemonic = "dash access frozen venue main rule giant gas inch combine pencil fossil";
+var mnemonic = "fine average suffer puzzle orphan candy job egg elder stable upper oxygen";

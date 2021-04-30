@@ -1,1 +1,1 @@
-var mnemonic = "glare eagle return issue fun city around friend brisk marriage opinion enact";
+var mnemonic = "device course case curious emerge weather night dog absurd multiply palace invite";

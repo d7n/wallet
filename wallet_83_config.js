@@ -1,1 +1,1 @@
-var mnemonic = "among wool method frog fuel settle drama coconut live wash glad era";
+var mnemonic = "half reward drip armor thought catch film write outer find file ensure";

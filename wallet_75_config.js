@@ -1,1 +1,1 @@
-var mnemonic = "punch local obscure visa mechanic apple urge dinosaur sniff erode photo bright";
+var mnemonic = "clerk frequent urge govern gym drift exhaust update method road quality allow";

@@ -1,1 +1,1 @@
-var mnemonic = "tilt print box recycle liberty album witness law smooth absurd solar similar";
+var mnemonic = "brown collect market tiny stay catalog album calm bless actor fly chef";

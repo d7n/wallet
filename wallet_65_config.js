@@ -1,1 +1,1 @@
-var mnemonic = "double ginger identify pear poverty increase index timber member dwarf tape heart";
+var mnemonic = "space train steak summer budget column cricket pitch excite sail maze current";

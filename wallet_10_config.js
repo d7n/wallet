@@ -1,1 +1,1 @@
-var mnemonic = "million brush chalk length gasp logic bomb transfer drum knife muscle great";
+var mnemonic = "walk voice sunny cream canal major example comic dove hunt forest about";

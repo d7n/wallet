@@ -1,1 +1,1 @@
-var mnemonic = "airport puzzle clown core sun depend void section afford lava blush cheap";
+var mnemonic = "add size harbor novel six dismiss copy repair put south certain kite";

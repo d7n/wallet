@@ -1,1 +1,1 @@
-var mnemonic = "fix jeans girl slice sell suspect magnet peace voice ecology used spring";
+var mnemonic = "wedding glass furnace orange order predict together sunny win knee tent squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "cement oak digital chair disease they penalty benefit will donate era team";
+var mnemonic = "clip park stage dove dirt tobacco boy farm dinner cupboard guitar ramp";

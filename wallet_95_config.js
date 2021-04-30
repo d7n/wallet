@@ -1,1 +1,1 @@
-var mnemonic = "domain soldier output action offer snow jeans able great refuse half duck";
+var mnemonic = "fame hybrid sleep benefit able project common win claw already bright chase";

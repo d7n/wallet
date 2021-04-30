@@ -1,1 +1,1 @@
-var mnemonic = "fog alone loyal response usual drastic sweet chicken guess repeat chicken tumble";
+var mnemonic = "upon ball cabin radio cost pluck actress army beef enhance motion mechanic";

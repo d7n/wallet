@@ -1,1 +1,1 @@
-var mnemonic = "huge evoke mask fresh hockey prosper dignity lunar slender tray property busy";
+var mnemonic = "agree comfort company advance blanket fire cage enlist parade purse pudding inherit";

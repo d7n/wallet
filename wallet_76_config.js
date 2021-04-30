@@ -1,1 +1,1 @@
-var mnemonic = "elephant aware draft fat chimney girl fashion carbon yellow round imitate learn";
+var mnemonic = "ceiling spare anxiety celery crucial hurt hungry custom other simple provide amount";

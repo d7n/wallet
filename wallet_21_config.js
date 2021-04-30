@@ -1,1 +1,1 @@
-var mnemonic = "reflect leaf naive gain purse axis flee frown level motor fit race";
+var mnemonic = "diagram volume meadow vivid goat rotate love beauty cactus shoe modify cotton";

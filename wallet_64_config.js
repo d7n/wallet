@@ -1,1 +1,1 @@
-var mnemonic = "path obey popular ship work stage figure moment parrot flame parade flash";
+var mnemonic = "prefer tower jump husband diary update hockey real liberty elephant obey soft";

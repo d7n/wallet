@@ -1,1 +1,1 @@
-var mnemonic = "faculty copper noble wedding agree laptop enforce quote suit episode strike rebuild";
+var mnemonic = "simple fog rapid salmon cook laugh fault divorce trigger keep universe math";

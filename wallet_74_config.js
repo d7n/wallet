@@ -1,1 +1,1 @@
-var mnemonic = "fossil wolf laptop tuition clown laugh amount sound bunker once sure they";
+var mnemonic = "verify foot weird weapon home move case punch sketch version infant knock";

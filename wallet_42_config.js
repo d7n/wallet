@@ -1,1 +1,1 @@
-var mnemonic = "palm note sound grief fan dress ramp year text universe invite tomorrow";
+var mnemonic = "misery negative cheese reunion fold object achieve royal outer evil assume wet";

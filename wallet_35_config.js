@@ -1,1 +1,1 @@
-var mnemonic = "six shock muscle typical fall six force blossom pistol shock mean nose";
+var mnemonic = "rail play then neck child dry nice marble put cry science vault";

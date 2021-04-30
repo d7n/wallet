@@ -1,1 +1,1 @@
-var mnemonic = "gravity glare fee width onion strike hill wait trim tell subject among";
+var mnemonic = "chef frown pattern script useless crunch innocent sausage news spider replace wide";

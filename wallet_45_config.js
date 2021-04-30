@@ -1,1 +1,1 @@
-var mnemonic = "depart decrease warfare visit daughter genre true increase girl student scorpion chief";
+var mnemonic = "trend raccoon equal zero rubber toward inform island mansion little peasant bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "sketch version hub hard shiver process mistake plate junior kiss legal prevent";
+var mnemonic = "galaxy ripple flat rare snake jewel useless eager wife recall ring civil";

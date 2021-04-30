@@ -1,1 +1,1 @@
-var mnemonic = "ramp mystery nothing panel mask whip flee name velvet grain humor attitude";
+var mnemonic = "mention theory rotate armed correct cabin vicious exact canal gap chase solve";

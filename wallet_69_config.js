@@ -1,1 +1,1 @@
-var mnemonic = "apology swarm phone clump boost dish wrestle axis fluid aspect mule column";
+var mnemonic = "legend just century soda predict hammer ugly cat love swear salt input";

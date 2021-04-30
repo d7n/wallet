@@ -1,1 +1,1 @@
-var mnemonic = "token dove lyrics rhythm shift custom era swing letter minor august curtain";
+var mnemonic = "diesel cricket vital organ style border slice case bronze cream vintage sing";

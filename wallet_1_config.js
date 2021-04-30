@@ -1,1 +1,1 @@
-var mnemonic = "cup chaos mystery blossom arch velvet seek april rotate hungry tribe ring";
+var mnemonic = "atom guilt wealth enforce blush inject lesson kind action modify region idle";

@@ -1,1 +1,1 @@
-var mnemonic = "doll where stove accident equip clean pride asset negative bus sphere duty";
+var mnemonic = "spoil diagram climb rookie sing sunny spatial icon swamp wild half spider";

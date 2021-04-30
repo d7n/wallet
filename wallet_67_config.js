@@ -1,1 +1,1 @@
-var mnemonic = "act click monkey pair trust chimney decrease divert blood friend innocent canvas";
+var mnemonic = "ticket pumpkin where danger father cave dice right helmet ethics genre kitchen";

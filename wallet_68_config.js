@@ -1,1 +1,1 @@
-var mnemonic = "boost unknown rather hotel domain exclude pizza silver trick often depend often";
+var mnemonic = "behind food cross legend divert join rally ripple more light age butter";

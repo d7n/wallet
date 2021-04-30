@@ -1,1 +1,1 @@
-var mnemonic = "crop improve vault churn culture attract range famous hair genre vote enemy";
+var mnemonic = "method critic jungle image tomato awesome skin kid quality water hip scatter";

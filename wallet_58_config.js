@@ -1,1 +1,1 @@
-var mnemonic = "become marine segment keep replace camera absurd donor author step armed gas";
+var mnemonic = "version will attract derive sentence alley lecture box badge transfer dutch payment";

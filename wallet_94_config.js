@@ -1,1 +1,1 @@
-var mnemonic = "south rib syrup merry badge divorce layer glory hurdle cream disagree often";
+var mnemonic = "addict kiss dawn afford zoo crucial eight approve direct win patch enrich";

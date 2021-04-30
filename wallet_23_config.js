@@ -1,1 +1,1 @@
-var mnemonic = "rotate awkward opera online program enemy action claim path cabin then sister";
+var mnemonic = "stuff clutch flight cement road rose camera initial vocal animal prosper aunt";

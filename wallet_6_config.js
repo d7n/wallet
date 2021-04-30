@@ -1,1 +1,1 @@
-var mnemonic = "they nature image beyond reduce rent list short this shed purse muffin";
+var mnemonic = "bronze rally wheat stable august arrest good prefer diary host slender mesh";

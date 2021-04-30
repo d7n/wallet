@@ -1,1 +1,1 @@
-var mnemonic = "session question valley fiber great frog future side vicious seek about scissors";
+var mnemonic = "dove fox correct clump inform orbit during clown girl screen visit cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "wear leisure execute wet harbor pave hollow boss member left pig adapt";
+var mnemonic = "core episode surround artist kid season spray program carpet venue hair material";

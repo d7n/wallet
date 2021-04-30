@@ -1,1 +1,1 @@
-var mnemonic = "sadness either clinic saddle april scheme prepare sniff just recall duty firm";
+var mnemonic = "bronze capable woman owner vital thank skirt jump lake innocent drink occur";

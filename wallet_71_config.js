@@ -1,1 +1,1 @@
-var mnemonic = "upon lawn pulse ring deal inch ankle rabbit pride palace brisk tip";
+var mnemonic = "obscure rib wine model task lake medal aunt shrimp venue deal mushroom";

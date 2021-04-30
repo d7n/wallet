@@ -1,1 +1,1 @@
-var mnemonic = "capable panel awake flag pizza toward ghost buzz item velvet draw chapter";
+var mnemonic = "cup envelope scissors silly tray float broom interest verify elevator coil service";

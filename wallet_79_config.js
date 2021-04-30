@@ -1,1 +1,1 @@
-var mnemonic = "welcome elegant culture noise zero letter door glove when sand diagram transfer";
+var mnemonic = "raise sister brisk news credit family entry empower use noble into age";

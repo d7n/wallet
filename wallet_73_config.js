@@ -1,1 +1,1 @@
-var mnemonic = "matrix diet indicate rough pottery design off beef report liberty ridge person";
+var mnemonic = "airport rich naive wedding video pattern weekend summer way street asset object";

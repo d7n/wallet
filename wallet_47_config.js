@@ -1,1 +1,1 @@
-var mnemonic = "anchor student estate occur usual seed claim raven crane exotic isolate mystery";
+var mnemonic = "knife office medal famous boil grant stuff bind march library dust woman";

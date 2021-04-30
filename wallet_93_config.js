@@ -1,1 +1,1 @@
-var mnemonic = "mind luggage wonder damage column decorate advance miracle flat obvious mass surprise";
+var mnemonic = "super salon earn rice nation impact farm unique august allow distance music";

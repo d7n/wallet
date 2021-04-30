@@ -1,1 +1,1 @@
-var mnemonic = "sugar what expand grid payment shiver exotic dawn maple try surface drill";
+var mnemonic = "hurry load normal behave bone bounce episode analyst potato solve gap valley";

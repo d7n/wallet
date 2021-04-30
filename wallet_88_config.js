@@ -1,1 +1,1 @@
-var mnemonic = "medal slight salad rifle distance level chalk trash critic fever bulk real";
+var mnemonic = "pencil rival echo jazz solid polar enjoy earn merge universe insane type";

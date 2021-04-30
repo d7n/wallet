@@ -1,1 +1,1 @@
-var mnemonic = "subject post unable same forward giraffe story stick lend tissue hero heavy";
+var mnemonic = "cash evil okay setup mirror pride tower gaze symbol absurd frozen wedding";

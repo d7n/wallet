@@ -1,1 +1,1 @@
-var mnemonic = "term health apple music tortoise alone dignity furnace empower unable ribbon shrug";
+var mnemonic = "stuff ripple ability foster sponsor spider elephant anger sniff siege width inspire";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle polar sorry leg public arm promote matter process fabric ugly reform";
+var mnemonic = "cube exhaust police cargo math skate inform record into leave tenant stage";

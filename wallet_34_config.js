@@ -1,1 +1,1 @@
-var mnemonic = "kitchen grocery race calm own welcome rule trick change shuffle skull lyrics";
+var mnemonic = "toss ripple walnut trade inside differ pioneer panel scissors puzzle surge cabbage";

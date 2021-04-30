@@ -1,1 +1,1 @@
-var mnemonic = "style record cube seminar twice nice wasp duck fun aunt kitten flip";
+var mnemonic = "label champion select flip bottom carry void know list solution sight erosion";

@@ -1,1 +1,1 @@
-var mnemonic = "era mutual cigar real used panther walk join pupil people occur kiss";
+var mnemonic = "name catch deny slender grief royal between enjoy fade please sunset cup";

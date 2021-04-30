@@ -1,1 +1,1 @@
-var mnemonic = "blush rule garage census excuse tide curtain artist tip act sword market";
+var mnemonic = "globe math trend tag punch twist silent local explain tape ranch robust";

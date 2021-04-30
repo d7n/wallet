@@ -1,1 +1,1 @@
-var mnemonic = "marriage tattoo tomato agree enemy unusual gauge utility candy element vault symbol";
+var mnemonic = "card afford speak media couch mutual child sentence essence rookie peace diesel";

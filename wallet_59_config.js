@@ -1,1 +1,1 @@
-var mnemonic = "dinner orbit rely tattoo fever move return have point author meat bread";
+var mnemonic = "actor when team hope hunt service omit hole carpet address diagram evil";

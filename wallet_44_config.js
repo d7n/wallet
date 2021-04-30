@@ -1,1 +1,1 @@
-var mnemonic = "grit throw elbow spot fresh chat humor girl symbol paddle vessel oxygen";
+var mnemonic = "melody crush produce bulb half crater tiny elder local aisle heavy giggle";

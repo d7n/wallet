@@ -1,1 +1,1 @@
-var mnemonic = "emerge decide spin clown grace couple video inquiry ketchup holiday kind dash";
+var mnemonic = "deer rely clerk price alley suffer swing rug seat crush ribbon anxiety";

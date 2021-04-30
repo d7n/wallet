@@ -1,1 +1,1 @@
-var mnemonic = "example planet mask man task review uphold aunt crouch verify install visual";
+var mnemonic = "same steel priority couple retire hawk muscle summer brother route inject point";

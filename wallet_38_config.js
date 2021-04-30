@@ -1,1 +1,1 @@
-var mnemonic = "monster urge ask victory absent grass brave winner shuffle morning alien horror";
+var mnemonic = "promote south whale robust fiscal myself myself alcohol crawl swim weapon trade";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil ahead journey reveal pretty whale six taste nephew couple flip satoshi";
+var mnemonic = "crash abstract retire angle grunt believe fantasy tag era two flock unfold";

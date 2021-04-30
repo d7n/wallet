@@ -1,1 +1,1 @@
-var mnemonic = "woman great early demise estate error secret normal impact rally system earth";
+var mnemonic = "cherry sword muscle quote alpha used simple hole ill liquid story all";

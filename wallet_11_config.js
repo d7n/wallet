@@ -1,1 +1,1 @@
-var mnemonic = "federal airport consider control clean neglect drum tenant awesome syrup scene burden";
+var mnemonic = "mistake canvas stool frog alter provide shield luggage beach play shed gap";

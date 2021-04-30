@@ -1,1 +1,1 @@
-var mnemonic = "web leopard drama stick awful predict glove session sing barely lady twice";
+var mnemonic = "suggest eye top high tourist pistol room bulb depth extend upon remove";

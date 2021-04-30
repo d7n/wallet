@@ -1,1 +1,1 @@
-var mnemonic = "oak stuff aspect wise record across clarify valid audit wolf floor knife";
+var mnemonic = "matter draft record enter super measure clog lady gun essay turtle alley";

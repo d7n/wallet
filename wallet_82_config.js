@@ -1,1 +1,1 @@
-var mnemonic = "express ten sentence rib hurt swing kick trend motor fancy split about";
+var mnemonic = "hurt laptop opera about aunt chalk plunge human change cinnamon anxiety twenty";

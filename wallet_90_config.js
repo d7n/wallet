@@ -1,1 +1,1 @@
-var mnemonic = "discover mutual coast dinner step occur artist produce stumble common diary avoid";
+var mnemonic = "purse step loyal squirrel offer season pepper avocado target buddy confirm diary";

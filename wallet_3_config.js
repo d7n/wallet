@@ -1,1 +1,1 @@
-var mnemonic = "denial quick multiply praise aisle brass genuine pond park scatter cereal supply";
+var mnemonic = "balance forward believe soda recipe science special sad mother afraid capable exile";

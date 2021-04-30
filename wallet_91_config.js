@@ -1,1 +1,1 @@
-var mnemonic = "differ unveil mandate corn lizard umbrella behave dignity upper hawk elite guard";
+var mnemonic = "fix next holiday board glimpse detect vehicle race aunt inhale magic weasel";

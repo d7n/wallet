@@ -1,1 +1,1 @@
-var mnemonic = "alone accident bracket opera marine dilemma essay bomb super carry autumn output";
+var mnemonic = "age fatal dwarf dignity mad rigid step parrot physical penalty olive medal";

@@ -1,1 +1,1 @@
-var mnemonic = "annual history work tape hotel helmet switch nephew spin cave disagree rough";
+var mnemonic = "noble oxygen spirit garden cancel crowd income icon kick elder pool tilt";

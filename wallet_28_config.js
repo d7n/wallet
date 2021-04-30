@@ -1,1 +1,1 @@
-var mnemonic = "pulp brave cement bounce daughter civil exact actress pause disorder spot fine";
+var mnemonic = "disease enhance eyebrow setup silver leaf there guilt upset rhythm bullet lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "scout feel industry diary cheese bullet final solution cannon diary swarm unusual";
+var mnemonic = "movie comfort nurse confirm orange acid predict helmet pear hip paper rail";

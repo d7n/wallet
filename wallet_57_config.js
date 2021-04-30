@@ -1,1 +1,1 @@
-var mnemonic = "when outdoor basic pyramid enough frozen cover blanket onion live list power";
+var mnemonic = "already achieve panel remind gasp insect mistake sample local beyond enjoy enhance";

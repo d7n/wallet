@@ -1,1 +1,1 @@
-var mnemonic = "shaft coffee mango erode general mail someone silver tongue outdoor marine spider";
+var mnemonic = "toast tray pass holiday miracle cabbage march make unit special duck giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic ordinary expose shuffle travel beef stove bird used bargain rigid quantum";
+var mnemonic = "transfer occur glow code melt sponsor nice east corn negative crunch menu";

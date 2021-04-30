@@ -1,1 +1,1 @@
-var mnemonic = "kidney kick sick feel void trumpet soup question elephant extra merit wink";
+var mnemonic = "giraffe jazz marriage coffee violin cloud fortune paddle rain pistol abstract when";

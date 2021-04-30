@@ -1,1 +1,1 @@
-var mnemonic = "basic dizzy mobile vast turn sail relief brother verb normal leader refuse";
+var mnemonic = "option pattern surface example image mail pride border tomato neck sick mobile";

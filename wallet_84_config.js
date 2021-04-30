@@ -1,1 +1,1 @@
-var mnemonic = "excess protect kiss dry away sudden hybrid undo afford cereal secret hawk";
+var mnemonic = "rail tuition bread bubble round nominee aspect black sport rhythm silk thought";

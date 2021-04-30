@@ -1,1 +1,1 @@
-var mnemonic = "sort filter pretty matter retreat year winter clever leisure else summer artwork";
+var mnemonic = "laugh blush filter rubber walk tennis punch latin deer neck ivory change";

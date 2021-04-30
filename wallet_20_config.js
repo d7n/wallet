@@ -1,1 +1,1 @@
-var mnemonic = "abuse begin oyster hunt team pact company used true rapid infant vital";
+var mnemonic = "expect often middle universe tribe grape spirit smile raccoon east dial aim";
