@@ -1,1 +1,1 @@
-var mnemonic = "west long together reason front tail inspire smile bike face flat mass";
+var mnemonic = "notice way ribbon doll medal advice settle man stage argue torch consider";

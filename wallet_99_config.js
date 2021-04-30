@@ -1,1 +1,1 @@
-var mnemonic = "case tragic impose shrimp similar album dentist movie action squirrel flavor nephew";
+var mnemonic = "argue brain fade input volume stay glass quick lady enter robot sting";

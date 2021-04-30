@@ -1,1 +1,1 @@
-var mnemonic = "tonight talk early memory nation decade salute attract govern few level drill";
+var mnemonic = "purpose foot fall fork picnic company window mouse camera casino law sting";

@@ -1,1 +1,1 @@
-var mnemonic = "exercise vessel praise home potato order decide romance immune please winter dirt";
+var mnemonic = "economy public prevent jump admit clutch correct isolate shock raven corn hover";

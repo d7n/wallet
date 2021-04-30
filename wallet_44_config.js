@@ -1,1 +1,1 @@
-var mnemonic = "spawn silent fluid decade tribe powder please find unique frown alone beauty";
+var mnemonic = "spy angry educate report jazz emotion size rebuild between more moon tilt";

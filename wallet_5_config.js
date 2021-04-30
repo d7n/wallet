@@ -1,1 +1,1 @@
-var mnemonic = "merry path hurry mountain vote sight cloud umbrella scene hundred awesome humor";
+var mnemonic = "trip great cage police brain thought length entire quit grace snap clutch";

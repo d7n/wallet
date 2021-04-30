@@ -1,1 +1,1 @@
-var mnemonic = "arch antique struggle rotate elegant ship situate hazard minute quiz alter speed";
+var mnemonic = "fox ranch hello vacuum ready crowd sketch shrimp plate what eager fame";

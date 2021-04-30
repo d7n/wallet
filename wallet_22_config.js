@@ -1,1 +1,1 @@
-var mnemonic = "sphere drop lecture final process account mean try duty morning umbrella remember";
+var mnemonic = "place arch bonus urban field major aerobic glory lunch tired melt soon";

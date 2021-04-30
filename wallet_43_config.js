@@ -1,1 +1,1 @@
-var mnemonic = "carbon orbit manual rally knee tide viable omit doll fantasy velvet behave";
+var mnemonic = "cute evolve carpet vendor slam price travel people stamp slide situate gas";

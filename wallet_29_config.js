@@ -1,1 +1,1 @@
-var mnemonic = "shy become six leader identify theory west bunker chat kind soccer dial";
+var mnemonic = "diagram shine catalog announce top tooth blossom fancy olive tiger broom visual";

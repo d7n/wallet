@@ -1,1 +1,1 @@
-var mnemonic = "fossil hybrid result swift poem sample narrow scare car submit choose shaft";
+var mnemonic = "walnut section weapon quantum stock menu upon alone ridge since slab message";

@@ -1,1 +1,1 @@
-var mnemonic = "replace domain parrot opinion bamboo alpha review very mule evoke purse skate";
+var mnemonic = "sad aware enact enough wheat lava slot crazy change way convince myth";

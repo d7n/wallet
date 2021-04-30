@@ -1,1 +1,1 @@
-var mnemonic = "nurse sunset case sunny day gesture earth admit focus catalog flower lava";
+var mnemonic = "shop regular couple switch puppy almost initial canyon step sheriff ugly solid";

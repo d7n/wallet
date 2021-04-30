@@ -1,1 +1,1 @@
-var mnemonic = "stool first purpose position corn evidence luxury reward ecology actress retire crisp";
+var mnemonic = "honey caught curtain drift fork tenant open pause shine ghost hockey disorder";

@@ -1,1 +1,1 @@
-var mnemonic = "fan pull wild worth embody layer scrub cereal party cable endorse tongue";
+var mnemonic = "ready clay hidden sight small sail tag brave hub crazy puzzle bike";

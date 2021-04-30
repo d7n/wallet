@@ -1,1 +1,1 @@
-var mnemonic = "fun protect zero rib crucial squirrel liberty gravity inch normal number donkey";
+var mnemonic = "shell recycle opera feature wage tomato vivid buyer candy dignity pupil ignore";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage stone risk scheme ghost tired sunny leg neglect chuckle frown evoke";
+var mnemonic = "story party century year barrel upper shadow load diesel armor tuna tenant";

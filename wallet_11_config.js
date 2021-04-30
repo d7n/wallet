@@ -1,1 +1,1 @@
-var mnemonic = "adapt road wool behave minor danger note potato inhale gravity mask riot";
+var mnemonic = "together glass hurry total cream useful uniform aware glare poverty tilt dice";

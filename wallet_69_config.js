@@ -1,1 +1,1 @@
-var mnemonic = "armor soup online crazy amused skill year company then liberty tower balcony";
+var mnemonic = "service divide list gossip badge cover ride decrease cheap system chapter obey";

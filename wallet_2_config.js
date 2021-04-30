@@ -1,1 +1,1 @@
-var mnemonic = "undo stand whip shoe gasp hen general receive adjust media cereal decline";
+var mnemonic = "pattern sad garment actor lava maximum simple path tornado note twelve argue";

@@ -1,1 +1,1 @@
-var mnemonic = "race auto remove crack inner leader tourist aerobic taxi toddler island inner";
+var mnemonic = "north gun pistol lumber under spell rival west horse oxygen better render";

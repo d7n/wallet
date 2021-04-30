@@ -1,1 +1,1 @@
-var mnemonic = "shallow unfold huge aware cruise home able essay liquid desert grow retreat";
+var mnemonic = "blade laundry lamp length symptom viable hawk anger belt noodle dose enroll";

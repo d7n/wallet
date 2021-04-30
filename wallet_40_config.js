@@ -1,1 +1,1 @@
-var mnemonic = "first boss apology humble iron depth bread good earth come ability reflect";
+var mnemonic = "famous basket engage lawsuit belt kiwi broken renew shield soap humble address";

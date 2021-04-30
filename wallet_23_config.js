@@ -1,1 +1,1 @@
-var mnemonic = "mean debris select vivid step tooth jealous volcano scheme hawk neck hungry";
+var mnemonic = "thunder clinic mystery jelly flash first pride risk kangaroo author humble aware";

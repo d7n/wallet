@@ -1,1 +1,1 @@
-var mnemonic = "pigeon veteran blur kangaroo wash tissue afford grab rug leave mind goat";
+var mnemonic = "rail rotate ensure south culture bind owner very describe reason eye sheriff";

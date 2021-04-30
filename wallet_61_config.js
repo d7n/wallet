@@ -1,1 +1,1 @@
-var mnemonic = "siren scissors powder jeans loop film sustain trap vacant whale icon parade";
+var mnemonic = "top arctic cupboard client question alien essay spoil laptop candy permit script";

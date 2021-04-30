@@ -1,1 +1,1 @@
-var mnemonic = "cactus author coil crowd output team double elbow injury cricket enforce enrich";
+var mnemonic = "spend assume dignity hope edge faint injury second wine destroy try champion";

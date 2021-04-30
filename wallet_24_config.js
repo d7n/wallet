@@ -1,1 +1,1 @@
-var mnemonic = "credit fade asthma size scheme movie pool border toddler surge boring mosquito";
+var mnemonic = "sand steak nuclear chief what model great major suggest observe wedding amount";

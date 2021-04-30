@@ -1,1 +1,1 @@
-var mnemonic = "siege wear never fortune dwarf pulse access review buzz west spoon kite";
+var mnemonic = "able tuna umbrella glance noise squirrel corn harvest inherit wink question modify";

@@ -1,1 +1,1 @@
-var mnemonic = "vanish loud interest sheriff survey mountain monitor glance fame cotton rocket catch";
+var mnemonic = "bulk lunar picnic divide purchase design reduce congress exercise mountain load dog";

@@ -1,1 +1,1 @@
-var mnemonic = "caught mosquito behave patrol caution chair funny photo radar flip reward inherit";
+var mnemonic = "tag siren eternal prosper critic chaos hotel fence rude gossip bullet only";

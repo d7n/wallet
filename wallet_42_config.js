@@ -1,1 +1,1 @@
-var mnemonic = "web siege kingdom mixture hello major response happy glue cruise actor seed";
+var mnemonic = "believe rapid lady leaf term social giggle grain duck razor present crater";

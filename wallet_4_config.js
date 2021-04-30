@@ -1,1 +1,1 @@
-var mnemonic = "wise quiz whale need wool next legal casino curious picture enrich spy";
+var mnemonic = "soldier glimpse noodle slight program member cart sunny rose office short ostrich";

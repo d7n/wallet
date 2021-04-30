@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon torch hen assault smile vital arrow virtual use venue life kitchen";
+var mnemonic = "rough reunion viable isolate media decide mandate potato soccer stay boy universe";

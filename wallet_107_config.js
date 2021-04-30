@@ -1,1 +1,1 @@
-var mnemonic = "tomato taxi setup range jeans message base flight crazy recycle figure insane";
+var mnemonic = "tiger forward rather habit drip try health have ancient mammal island cause";

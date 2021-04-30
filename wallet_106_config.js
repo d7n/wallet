@@ -1,1 +1,1 @@
-var mnemonic = "uncover response buddy fringe amazing target eight cargo tape garlic must matter";
+var mnemonic = "outside word learn usual balcony west twenty valid shallow toy effort glide";

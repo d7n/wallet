@@ -1,1 +1,1 @@
-var mnemonic = "budget race enrich shop soft consider enforce speed blossom balcony toilet enough";
+var mnemonic = "adapt velvet reward useful hour then apart among damp seek medal useful";

@@ -1,1 +1,1 @@
-var mnemonic = "clever stuff supply dial illness joy such senior will clay shadow issue";
+var mnemonic = "sign chat lizard seminar please thrive talent charge split hungry jacket hip";

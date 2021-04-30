@@ -1,1 +1,1 @@
-var mnemonic = "coffee film pretty ensure salad clinic push hawk dirt idea material main";
+var mnemonic = "knock all box earth wait airport comfort income laugh vessel leopard axis";

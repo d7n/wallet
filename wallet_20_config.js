@@ -1,1 +1,1 @@
-var mnemonic = "alley initial chimney trend plastic fatal gadget afraid express will room spot";
+var mnemonic = "unable congress humble color sick ring deliver base nuclear since can oil";

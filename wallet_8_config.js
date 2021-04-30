@@ -1,1 +1,1 @@
-var mnemonic = "best box film coast hawk silver palm secret library method divorce toss";
+var mnemonic = "unique salmon repair tongue hazard fever planet gate sun motor robot radar";

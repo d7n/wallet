@@ -1,1 +1,1 @@
-var mnemonic = "deer giant robot regret solid pass view moral cry half battle adult";
+var mnemonic = "actor path umbrella advance modify connect vivid chief neither head toddler grit";

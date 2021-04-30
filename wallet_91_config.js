@@ -1,1 +1,1 @@
-var mnemonic = "install left explain around cause pulp make rate airport top fame gather";
+var mnemonic = "baby front hope mushroom crush priority evoke double defense buddy tobacco sock";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange sad liquid window replace cupboard foam pig tape crop manual stumble";
+var mnemonic = "guard hill bitter layer flock prevent solution fatal lunch track vocal celery";

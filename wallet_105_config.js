@@ -1,1 +1,1 @@
-var mnemonic = "song immense name orange brief prefer hamster shallow lunch gravity rookie enable";
+var mnemonic = "end mask text joke napkin clock science radar entire trouble door old";

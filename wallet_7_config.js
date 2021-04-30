@@ -1,1 +1,1 @@
-var mnemonic = "distance negative solid response simple swear sweet gun trigger grit table equip";
+var mnemonic = "stomach happy oppose indoor error under piece advice inform bind page alarm";

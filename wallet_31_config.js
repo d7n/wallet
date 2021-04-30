@@ -1,1 +1,1 @@
-var mnemonic = "lizard cash country route loan cloud prefer develop already siren random solid";
+var mnemonic = "blush party pony clock bird hidden elephant gadget economy mistake cook draft";

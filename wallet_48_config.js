@@ -1,1 +1,1 @@
-var mnemonic = "immense message public room salt maid area own zone cute icon organ";
+var mnemonic = "page bag detail machine put brain mushroom thing conduct absent stairs fat";

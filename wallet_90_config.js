@@ -1,1 +1,1 @@
-var mnemonic = "rookie diagram lobster brown away toe expire empty balcony slam demise wise";
+var mnemonic = "prepare funny multiply above copper unknown swallow betray shiver feel host vault";

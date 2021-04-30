@@ -1,1 +1,1 @@
-var mnemonic = "present once chapter detail fever fame light inmate behind ancient sample spray";
+var mnemonic = "mimic atom what engage eagle typical blind eight embody fantasy route insane";

@@ -1,1 +1,1 @@
-var mnemonic = "stadium twelve law symbol middle pizza toe pact vague tired exhibit wool";
+var mnemonic = "core memory depth endless snap major age return zebra ecology rail buffalo";

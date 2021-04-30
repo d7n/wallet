@@ -1,1 +1,1 @@
-var mnemonic = "mixed blue stay meadow hold width glare lazy void size month west";
+var mnemonic = "nurse alter blast start novel post fan document fossil breeze account dizzy";

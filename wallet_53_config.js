@@ -1,1 +1,1 @@
-var mnemonic = "way giant dwarf shift habit learn camp embody whip solid path mom";
+var mnemonic = "drill rude dragon onion own aspect confirm phone utility unaware rapid jacket";

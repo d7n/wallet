@@ -1,1 +1,1 @@
-var mnemonic = "bargain eye bachelor fun conduct page amused reason used yellow mammal tunnel";
+var mnemonic = "cart exist inquiry alley there debate other trap napkin shallow fish melt";

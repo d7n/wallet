@@ -1,1 +1,1 @@
-var mnemonic = "sleep ecology scrub grunt decorate arena peanut any phone artefact under awake";
+var mnemonic = "judge fancy young pizza breeze error develop because vapor decide taste various";

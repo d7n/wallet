@@ -1,1 +1,1 @@
-var mnemonic = "attack use pattern merge hundred face fold dwarf shop planet bubble pet";
+var mnemonic = "lunch refuse refuse near bid young barrel crater inside primary wasp dream";

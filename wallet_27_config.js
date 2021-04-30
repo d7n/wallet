@@ -1,1 +1,1 @@
-var mnemonic = "cluster deliver detail coin hire behind olympic vapor water convince emotion illegal";
+var mnemonic = "cram usual mouse scheme push parent discover royal able tortoise give deny";

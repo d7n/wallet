@@ -1,1 +1,1 @@
-var mnemonic = "divide wash retreat bar whale primary stumble because dream link plunge glow";
+var mnemonic = "gesture axis bar stem hollow radio minimum potato junk major head this";

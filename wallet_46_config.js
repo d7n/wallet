@@ -1,1 +1,1 @@
-var mnemonic = "eye wide dynamic among inject morning owner replace hill north equip wool";
+var mnemonic = "sheriff matter dutch fiber gorilla outdoor crazy term level stove spatial wait";

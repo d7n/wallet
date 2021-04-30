@@ -1,1 +1,1 @@
-var mnemonic = "abuse ribbon bus goddess autumn cannon police book trim silly echo noodle";
+var mnemonic = "infant female sadness shrimp lake tank topple cactus head hurt engine gravity";

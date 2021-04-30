@@ -1,1 +1,1 @@
-var mnemonic = "gasp rookie install swing slab stable long helmet primary gravity clock this";
+var mnemonic = "solution pulse vintage orchard gravity shoot blast snow close rival real palm";

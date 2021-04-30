@@ -1,1 +1,1 @@
-var mnemonic = "gauge remind spatial hobby corn balcony estate detail ranch arch above sauce";
+var mnemonic = "grit vendor hundred found reopen club royal junk primary palace tunnel pudding";

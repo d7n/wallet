@@ -1,1 +1,1 @@
-var mnemonic = "disease strike horse hover grace anxiety toe grow post vibrant sand survey";
+var mnemonic = "paper anchor bright buzz talent mixed horror eye gasp emotion afford equip";

@@ -1,1 +1,1 @@
-var mnemonic = "love flash design great fever general mixed energy inflict spell above vessel";
+var mnemonic = "real dragon section attract armed update valley still rookie question curious express";

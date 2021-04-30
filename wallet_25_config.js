@@ -1,1 +1,1 @@
-var mnemonic = "spawn slot orbit check exit month solid noble ridge black where admit";
+var mnemonic = "nest token race title bracket envelope dirt galaxy monitor warfare clock buzz";

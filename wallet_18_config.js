@@ -1,1 +1,1 @@
-var mnemonic = "minimum mechanic school antique random jewel once february coil journey long syrup";
+var mnemonic = "inner amateur limb coil grid stool month pipe inherit side magic master";

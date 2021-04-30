@@ -1,1 +1,1 @@
-var mnemonic = "hood human fortune chaos grief salon normal toss absurd metal crisp room";
+var mnemonic = "squirrel people motion damage fresh mountain sword use swim idle friend broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion feed divide swamp divide hockey divide ecology clay camera phone produce";
+var mnemonic = "universe easy myth foster alert indoor despair trust mosquito lemon notable car";

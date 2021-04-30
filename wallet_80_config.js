@@ -1,1 +1,1 @@
-var mnemonic = "donate trial three trade endorse parrot winter hire plunge local salute shine";
+var mnemonic = "admit prize pear hard before thought topple often away way police engage";

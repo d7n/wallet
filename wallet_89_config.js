@@ -1,1 +1,1 @@
-var mnemonic = "object decline license fat kind comfort repair mesh loyal notable junk erase";
+var mnemonic = "bargain arrow core bread bean female disease uncover regular history box tonight";

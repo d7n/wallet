@@ -1,1 +1,1 @@
-var mnemonic = "wife banner maid version chest lawsuit lock shield million limb change sock";
+var mnemonic = "arch reveal street caught rival rival call struggle olympic elegant bamboo right";

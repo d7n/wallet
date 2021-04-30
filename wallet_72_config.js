@@ -1,1 +1,1 @@
-var mnemonic = "draw drop exhaust reduce betray edit toe slab enrich taste rug sunset";
+var mnemonic = "grocery noise eternal car remember drip produce into option pulp mountain robust";

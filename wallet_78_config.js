@@ -1,1 +1,1 @@
-var mnemonic = "sort usual bottom butter forget hint bless holiday blind spatial diet secret";
+var mnemonic = "mass disagree moral bar mask gospel grit cave human hybrid inch attend";

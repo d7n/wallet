@@ -1,1 +1,1 @@
-var mnemonic = "supply marriage rib horror lyrics whale time play output slide inmate oven";
+var mnemonic = "hurt erase bullet lion layer replace kidney kitten error ridge canoe pear";

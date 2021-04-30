@@ -1,1 +1,1 @@
-var mnemonic = "angle trust race often muffin open open safe skirt flower nice drink";
+var mnemonic = "lock diamond answer yellow ready answer duck shoe learn salmon pond wire";

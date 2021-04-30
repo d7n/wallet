@@ -1,1 +1,1 @@
-var mnemonic = "panther heart gravity garage busy wall still caught auto enhance piano ill";
+var mnemonic = "crazy glue leisure portion secret athlete carry enroll source afraid humble kangaroo";

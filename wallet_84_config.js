@@ -1,1 +1,1 @@
-var mnemonic = "harbor uniform lift inner alone odor blanket clog weird despair achieve amazing";
+var mnemonic = "expand scale border rural reward sibling ready depend seed flavor motion argue";

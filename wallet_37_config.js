@@ -1,1 +1,1 @@
-var mnemonic = "crime cat bacon split sleep trip topic fall hello trip bus speed";
+var mnemonic = "boring refuse discover vanish permit divert immense record dinosaur add deny side";

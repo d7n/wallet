@@ -1,1 +1,1 @@
-var mnemonic = "erosion proof mixed couple social tone spare juice win panic board crunch";
+var mnemonic = "squirrel speed beach animal forest guard talk cactus pony kiwi owner trust";

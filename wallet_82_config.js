@@ -1,1 +1,1 @@
-var mnemonic = "another buyer lab crazy blouse earn push segment similar neck actor lemon";
+var mnemonic = "join chat alone pole book oven false puzzle quantum museum wedding hover";

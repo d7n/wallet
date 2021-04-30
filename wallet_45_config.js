@@ -1,1 +1,1 @@
-var mnemonic = "delay initial dream barrel trash teach master chair choose fee tone arrest";
+var mnemonic = "panel man hole tattoo yard lawn monster charge left exile frame agree";

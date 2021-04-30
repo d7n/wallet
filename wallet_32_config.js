@@ -1,1 +1,1 @@
-var mnemonic = "venture dice scrap special exercise middle antenna raven label vintage debris promote";
+var mnemonic = "picture expire anxiety long custom autumn hawk attack input shove coast wonder";

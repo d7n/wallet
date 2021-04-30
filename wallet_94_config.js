@@ -1,1 +1,1 @@
-var mnemonic = "echo deal rebuild dial vault job hand sunny palm brother uncle sun";
+var mnemonic = "sudden guard real response blouse mean speed manage jaguar vote ask blame";

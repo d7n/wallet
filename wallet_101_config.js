@@ -1,1 +1,1 @@
-var mnemonic = "employ lunar purse cabbage divide traffic unlock rebel city relax slot climb";
+var mnemonic = "parade turtle power sugar below text legend unknown decorate polar tornado ribbon";

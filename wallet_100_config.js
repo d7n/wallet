@@ -1,1 +1,1 @@
-var mnemonic = "notice measure sail drip sword bamboo expire drill trash tired base onion";
+var mnemonic = "occur feature spot wear inquiry warrior pioneer neutral hybrid hand humor adapt";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness question body scorpion demand lava visit crazy amateur rifle affair visit";
+var mnemonic = "tent daring square curious shaft fantasy type advice gadget voyage able truth";
