@@ -1,1 +1,1 @@
-var mnemonic = "time deputy dash shed safe cruise audit ranch box sword dry clean";
+var mnemonic = "left jungle cement furnace opera will buzz resource stumble popular work review";

@@ -1,1 +1,1 @@
-var mnemonic = "cram target swarm dry dress minimum faint stay next appear mouse useful";
+var mnemonic = "grant sad process dinner carry arrive patient voice screen jelly hero rescue";

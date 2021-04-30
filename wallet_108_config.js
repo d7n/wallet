@@ -1,1 +1,1 @@
-var mnemonic = "tattoo welcome rent option battle boost item orphan dwarf card symptom author";
+var mnemonic = "bitter enter grunt distance praise flip barrel casual lizard trip truly husband";

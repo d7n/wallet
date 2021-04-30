@@ -1,1 +1,1 @@
-var mnemonic = "digital treat axis injury earth modify tenant budget mango genre mosquito hotel";
+var mnemonic = "risk help play alcohol issue catalog relax page vibrant cactus salute depend";

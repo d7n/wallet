@@ -1,1 +1,1 @@
-var mnemonic = "fork domain trim correct dash estate various ugly chat owner vacant reform";
+var mnemonic = "doll ancient razor buzz slogan sentence fold transfer lady laugh elephant spy";

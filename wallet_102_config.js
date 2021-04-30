@@ -1,1 +1,1 @@
-var mnemonic = "include student engine erosion easily man fatal laugh file cloud tilt diagram";
+var mnemonic = "rabbit enhance orphan put pride target husband year maid able kite senior";

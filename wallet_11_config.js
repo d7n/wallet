@@ -1,1 +1,1 @@
-var mnemonic = "local combine result smoke exist mimic coach rent social hospital rotate cave";
+var mnemonic = "involve venture truck cinnamon robust cat mammal wedding giant priority symbol flag";

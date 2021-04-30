@@ -1,1 +1,1 @@
-var mnemonic = "plug old voyage away inject right deal isolate foster essence sample pepper";
+var mnemonic = "interest year donor annual win until rookie voice imitate check average shock";

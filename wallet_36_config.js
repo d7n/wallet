@@ -1,1 +1,1 @@
-var mnemonic = "lady tourist dune clinic crack bag dolphin fog radar draw rib humble";
+var mnemonic = "bounce oven mean hen sail okay pencil ride beauty milk cigar ignore";

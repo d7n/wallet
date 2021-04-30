@@ -1,1 +1,1 @@
-var mnemonic = "pigeon blossom dry cram actress west only park afraid wide gather across";
+var mnemonic = "evil morning faith crumble identify aim rifle sort elite example rate enough";

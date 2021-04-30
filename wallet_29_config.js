@@ -1,1 +1,1 @@
-var mnemonic = "offer aim venue flag ball park jewel forest despair public cook pact";
+var mnemonic = "harbor great type soup buddy myth cat nuclear into nuclear rate vacant";

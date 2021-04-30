@@ -1,1 +1,1 @@
-var mnemonic = "hybrid scrub blind tortoise seek fabric cradle glide essence sudden rude later";
+var mnemonic = "range melody asset obey museum because lake hole stairs curtain twice dice";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil detail window jaguar impose text turkey risk pink juice royal release";
+var mnemonic = "else bubble bullet hockey clerk man hold sun imitate portion hub shadow";

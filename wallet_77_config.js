@@ -1,1 +1,1 @@
-var mnemonic = "fragile bargain almost hat soccer spray matrix dinosaur outdoor wool profit motion";
+var mnemonic = "elder strong rain mosquito bamboo virus powder upon pear paper above update";

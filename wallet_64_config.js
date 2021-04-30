@@ -1,1 +1,1 @@
-var mnemonic = "pact message cannon certain final puzzle gorilla cigar inquiry antenna typical column";
+var mnemonic = "gospel vault mirror approve truck heart stem army donkey gym help boat";

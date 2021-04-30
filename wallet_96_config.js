@@ -1,1 +1,1 @@
-var mnemonic = "define shine portion essay grief shuffle sample harsh grief tree inject obvious";
+var mnemonic = "elevator gentle inspire add diesel vacuum legend obscure base void patch limb";

@@ -1,1 +1,1 @@
-var mnemonic = "frog bargain ill group month fan twelve denial foot useful method page";
+var mnemonic = "glue glide affair code culture extra peanut auction waste tone before scout";

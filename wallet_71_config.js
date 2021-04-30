@@ -1,1 +1,1 @@
-var mnemonic = "wire erode nurse steel hint visual truck grace other green dutch ordinary";
+var mnemonic = "garage ensure region error science account company dune toddler daring primary oven";

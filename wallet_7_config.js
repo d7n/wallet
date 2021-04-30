@@ -1,1 +1,1 @@
-var mnemonic = "hover question economy message kangaroo roof now glue favorite funny arrange security";
+var mnemonic = "fix pigeon weekend portion adjust elevator anchor month air old language urge";

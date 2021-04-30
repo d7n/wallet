@@ -1,1 +1,1 @@
-var mnemonic = "proof pond axis alcohol author shaft ginger lamp genuine accuse purchase tool";
+var mnemonic = "alarm noble sentence soon time toss lyrics swamp struggle sound medal regular";

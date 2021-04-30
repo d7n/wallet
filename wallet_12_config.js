@@ -1,1 +1,1 @@
-var mnemonic = "rich logic people scare type adult cattle vicious silent enhance bread also";
+var mnemonic = "rate escape jealous weather prison filter awesome danger portion length small oven";

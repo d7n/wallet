@@ -1,1 +1,1 @@
-var mnemonic = "tell blouse quote setup youth neglect scatter nurse dish sad paper sheriff";
+var mnemonic = "dial rural shock peace devote budget trade column erase fox electric corn";

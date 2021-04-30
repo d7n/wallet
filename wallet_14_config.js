@@ -1,1 +1,1 @@
-var mnemonic = "wing detail large follow impulse say veteran earth real vocal mention actress";
+var mnemonic = "purse mean exotic imitate verb spoil visual awkward share pattern tip hat";

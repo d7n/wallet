@@ -1,1 +1,1 @@
-var mnemonic = "gym subject smooth biology acoustic slice salute spy effort scatter route pitch";
+var mnemonic = "fame whip pattern fence twin unusual earth plate search palm bring wave";

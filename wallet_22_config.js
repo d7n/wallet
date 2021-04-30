@@ -1,1 +1,1 @@
-var mnemonic = "woman deny duck evil midnight grow rely squeeze teach hawk bag canal";
+var mnemonic = "cube path shiver earn place normal strategy sort carbon scrub amateur behind";

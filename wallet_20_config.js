@@ -1,1 +1,1 @@
-var mnemonic = "million craft submit inject stable shallow clock diary unique stable sand december";
+var mnemonic = "sustain glow account alert abuse group idle ozone legend coral saddle sketch";

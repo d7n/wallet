@@ -1,1 +1,1 @@
-var mnemonic = "marble purpose example engage magnet crime unit ski weasel few spot save";
+var mnemonic = "region jazz cream narrow hole volume install wash prison punch wet ostrich";

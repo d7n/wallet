@@ -1,1 +1,1 @@
-var mnemonic = "card neutral beyond minimum write word three foil elevator iron early security";
+var mnemonic = "please abuse essay diamond magic enhance student yard shaft increase frown plug";

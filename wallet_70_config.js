@@ -1,1 +1,1 @@
-var mnemonic = "creek venue soldier green bring marble observe work kind confirm inject convince";
+var mnemonic = "dolphin trouble guitar response buyer flash army cross globe knee father install";

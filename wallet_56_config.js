@@ -1,1 +1,1 @@
-var mnemonic = "frequent increase lyrics view maid sleep come please mechanic amateur true soft";
+var mnemonic = "monkey height mutual there exotic cousin tray thumb street quick assume soda";

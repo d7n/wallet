@@ -1,1 +1,1 @@
-var mnemonic = "peace silly must coral public visit spread first early citizen aim pluck";
+var mnemonic = "pottery civil neck repeat twenty mistake bonus announce rough scene tent welcome";

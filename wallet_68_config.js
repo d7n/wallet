@@ -1,1 +1,1 @@
-var mnemonic = "burger away view toe noodle piece drift velvet nothing chimney virus pink";
+var mnemonic = "power bounce weapon citizen midnight birth lawn broccoli buzz require old hen";

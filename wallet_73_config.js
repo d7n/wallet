@@ -1,1 +1,1 @@
-var mnemonic = "wine stay anxiety giraffe ribbon plunge february define twist bargain stone mixture";
+var mnemonic = "aisle emerge horn penalty history road favorite cloud foster obvious employ master";

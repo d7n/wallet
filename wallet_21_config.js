@@ -1,1 +1,1 @@
-var mnemonic = "cherry lunar foam already night empower grid razor false endless monkey detect";
+var mnemonic = "dinosaur clap runway panda summer degree prevent picture make notice rifle they";

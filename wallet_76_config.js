@@ -1,1 +1,1 @@
-var mnemonic = "cause pride asset palm engage draw boost source mixture disorder glory reveal";
+var mnemonic = "science pudding satoshi olive measure pass style beach state prison stock undo";

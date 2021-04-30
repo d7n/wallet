@@ -1,1 +1,1 @@
-var mnemonic = "around hole dizzy remain female know point unusual layer outer marriage depend";
+var mnemonic = "bread utility account worth pretty dynamic sport engine panel must sock what";

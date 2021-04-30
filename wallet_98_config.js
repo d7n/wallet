@@ -1,1 +1,1 @@
-var mnemonic = "canyon caught busy enact country initial purity borrow tiny island journey toddler";
+var mnemonic = "shuffle enjoy gravity cushion under stick arrange yard shallow alarm foster sugar";

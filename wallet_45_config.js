@@ -1,1 +1,1 @@
-var mnemonic = "reunion ticket fruit enter apple matter catalog lion hurdle nephew food veteran";
+var mnemonic = "display oil market endless ramp utility squirrel glory prize mango mass believe";

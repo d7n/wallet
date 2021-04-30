@@ -1,1 +1,1 @@
-var mnemonic = "sorry liberty forum frozen pony throw top capital artist shoulder vehicle hurdle";
+var mnemonic = "access narrow quote camp under table sauce unaware describe concert eight injury";

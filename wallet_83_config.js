@@ -1,1 +1,1 @@
-var mnemonic = "unveil tomorrow vendor fork reflect gasp repeat cargo awesome august orient baby";
+var mnemonic = "furnace kitchen pledge blush glue fat rib autumn soft divert rebel moral";

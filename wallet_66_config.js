@@ -1,1 +1,1 @@
-var mnemonic = "calm never cheap leopard series kind plunge poem air evil feature oblige";
+var mnemonic = "hold lunar girl tongue write like fantasy erosion surprise maid valve void";

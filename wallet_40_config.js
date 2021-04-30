@@ -1,1 +1,1 @@
-var mnemonic = "secret orphan hen diary rebel cricket obtain original hat brain dragon tooth";
+var mnemonic = "kangaroo blouse where cream eight mad round amount cry amateur mercy purity";

@@ -1,1 +1,1 @@
-var mnemonic = "card federal explain celery alone start reflect chalk skate cram note feel";
+var mnemonic = "zebra liberty enter cactus pudding glove column hole possible guard faith prison";

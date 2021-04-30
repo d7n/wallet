@@ -1,1 +1,1 @@
-var mnemonic = "near rescue pave pattern wine famous swap wear gadget nut claim annual";
+var mnemonic = "gap ripple velvet worth present shuffle master wide syrup cry six absorb";

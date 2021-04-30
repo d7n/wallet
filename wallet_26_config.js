@@ -1,1 +1,1 @@
-var mnemonic = "easily solid bone mansion double sweet decade close apart message begin pyramid";
+var mnemonic = "uniform advice symptom planet purpose dove holiday kite peanut drop profit burst";

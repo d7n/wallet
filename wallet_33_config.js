@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit learn high project hold purchase birth render insect century truck write";
+var mnemonic = "effort student industry portion one render outside accuse soon safe mechanic snack";

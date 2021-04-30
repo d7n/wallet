@@ -1,1 +1,1 @@
-var mnemonic = "village opera assume digital picnic version sentence fish hawk wheat trust major";
+var mnemonic = "illness swift slender frame clerk actual cactus have expect please service festival";

@@ -1,1 +1,1 @@
-var mnemonic = "slice sentence coach ensure master wheat kite news parent display climb pair";
+var mnemonic = "ladder sponsor fatigue chalk reward donor gravity blast hill judge spawn month";

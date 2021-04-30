@@ -1,1 +1,1 @@
-var mnemonic = "carpet control plastic bunker report logic donate laptop woman humble alert crunch";
+var mnemonic = "tone seminar taste search arrest sniff cotton aware ankle bean drama chimney";

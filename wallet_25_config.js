@@ -1,1 +1,1 @@
-var mnemonic = "motor loan butter satisfy robot magic umbrella fade mandate forest climb buddy";
+var mnemonic = "unit develop sight miracle air silent museum smart cash put option disagree";

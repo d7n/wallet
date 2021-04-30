@@ -1,1 +1,1 @@
-var mnemonic = "author essay urge walk bronze view champion move describe opera benefit lava";
+var mnemonic = "feel proof typical sick adapt light ancient vivid pudding include city original";

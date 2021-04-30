@@ -1,1 +1,1 @@
-var mnemonic = "blossom drift field limb bracket symptom crane fee original fan enact novel";
+var mnemonic = "corn capital shed congress person total rebel blind dirt steel obscure head";

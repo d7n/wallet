@@ -1,1 +1,1 @@
-var mnemonic = "tumble stadium sheriff cluster leopard glance find nature sell mouse man panel";
+var mnemonic = "couch sustain midnight dirt digital build retire budget picnic food utility upset";

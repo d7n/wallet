@@ -1,1 +1,1 @@
-var mnemonic = "sphere grow exhibit know write tail bird vintage firm casual legend decrease";
+var mnemonic = "box unit grunt betray chalk win fly finish next occur bitter subject";

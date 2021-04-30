@@ -1,1 +1,1 @@
-var mnemonic = "dose future side orient mimic heart clay model regular alpha damp build";
+var mnemonic = "shoulder vanish miracle dilemma elite stool fine nest leader mention execute hawk";

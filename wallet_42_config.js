@@ -1,1 +1,1 @@
-var mnemonic = "genuine before section cream expire child surface slot blanket health account cage";
+var mnemonic = "beach village club rent joke drop crowd arrange flavor else girl notice";

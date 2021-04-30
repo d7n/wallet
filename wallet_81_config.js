@@ -1,1 +1,1 @@
-var mnemonic = "blanket drastic lawn brand poet sibling donor rather mutual whale cable cruise";
+var mnemonic = "burst aerobic curious body gossip order couple offer humor jealous draw segment";

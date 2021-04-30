@@ -1,1 +1,1 @@
-var mnemonic = "about crazy broom casual void evolve tent jealous because tool list original";
+var mnemonic = "ivory cherry whip barrel grow abandon monkey expose split satoshi combine border";

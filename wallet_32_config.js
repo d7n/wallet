@@ -1,1 +1,1 @@
-var mnemonic = "never defy cable furnace camera live panda power citizen mail enough flash";
+var mnemonic = "mobile effort group secret shed response gadget champion script soda will click";

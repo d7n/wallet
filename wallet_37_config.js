@@ -1,1 +1,1 @@
-var mnemonic = "steel jaguar manage liquid detail feel fame dignity fork crew lava snack";
+var mnemonic = "evoke swift swim sudden canyon involve mass arrange swim link pull one";

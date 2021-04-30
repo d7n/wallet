@@ -1,1 +1,1 @@
-var mnemonic = "hood latin reform between grace faint alien leisure near sniff fork awful";
+var mnemonic = "mind purchase possible naive taste scene habit property elephant orbit average scout";

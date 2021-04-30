@@ -1,1 +1,1 @@
-var mnemonic = "donkey scrap fetch advice uncover tuna draw essay fiber thing job addict";
+var mnemonic = "stick useful odor enter leisure common glance guard fresh help away path";

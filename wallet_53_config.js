@@ -1,1 +1,1 @@
-var mnemonic = "pledge stool property staff figure economy bunker man winner dirt federal fit";
+var mnemonic = "toast uniform badge cargo bacon comfort unveil great dream attitude three receive";

@@ -1,1 +1,1 @@
-var mnemonic = "color person picnic design spend guess cactus ready scorpion region world romance";
+var mnemonic = "camera trigger fitness omit goddess balance tragic exchange salad blind abuse family";

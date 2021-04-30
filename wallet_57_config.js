@@ -1,1 +1,1 @@
-var mnemonic = "opinion harsh surprise they fiction exclude target unhappy void spread final describe";
+var mnemonic = "naive dizzy select melody upon wine midnight entire eager gap wall case";

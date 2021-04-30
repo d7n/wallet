@@ -1,1 +1,1 @@
-var mnemonic = "soft narrow repeat left country peace angle ketchup waste analyst demise spin";
+var mnemonic = "apology apology citizen miracle hire inch tray silk describe usual phone business";

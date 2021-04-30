@@ -1,1 +1,1 @@
-var mnemonic = "wear world fat step empty multiply afford flag lunch glory jump million";
+var mnemonic = "mandate caught unable tree achieve cereal nuclear require blouse fruit front chronic";

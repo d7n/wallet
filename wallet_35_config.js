@@ -1,1 +1,1 @@
-var mnemonic = "hunt island soon banana fiber analyst aspect harsh palm oven decade trap";
+var mnemonic = "dizzy brush satisfy kite actual buffalo stem hospital admit sample math camp";

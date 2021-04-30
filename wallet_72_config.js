@@ -1,1 +1,1 @@
-var mnemonic = "tobacco unusual habit sudden dignity jump reflect remind tree train fossil shove";
+var mnemonic = "maid sugar they sword receive orphan utility task bottom cup deposit supply";

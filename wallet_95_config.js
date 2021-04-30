@@ -1,1 +1,1 @@
-var mnemonic = "later clump output lobster iron debate shoulder shine neck punch badge blast";
+var mnemonic = "twelve country tower jeans sibling general also deny scrub wisdom jewel blur";

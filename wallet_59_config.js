@@ -1,1 +1,1 @@
-var mnemonic = "youth talent output dynamic frame fitness pulse monitor address february region token";
+var mnemonic = "illegal beach grit faculty core bleak pottery glide phone stand step mushroom";

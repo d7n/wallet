@@ -1,1 +1,1 @@
-var mnemonic = "repeat drip metal match immense crumble beyond angle athlete adjust vocal truth";
+var mnemonic = "flat picnic answer borrow army same middle poverty flavor index carbon output";

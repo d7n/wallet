@@ -1,1 +1,1 @@
-var mnemonic = "once human drill average toddler eagle gun panda cotton truck crowd volume";
+var mnemonic = "ginger mimic document announce olive claw jaguar share select deliver jazz anger";

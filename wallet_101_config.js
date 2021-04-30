@@ -1,1 +1,1 @@
-var mnemonic = "cement blush hockey federal west layer film stamp salmon suspect peace arrive";
+var mnemonic = "soap robust message library valid resist fortune struggle shove movie company earn";

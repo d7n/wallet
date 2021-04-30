@@ -1,1 +1,1 @@
-var mnemonic = "kingdom increase lunar uniform put frame kitten okay town reveal palm young";
+var mnemonic = "paddle left find robot jazz window gorilla all air mention sea gesture";

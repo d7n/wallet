@@ -1,1 +1,1 @@
-var mnemonic = "bunker delay budget degree seminar grunt trial flower exhibit demise envelope soon";
+var mnemonic = "order critic broken figure unit prefer mother rice very during upset depth";

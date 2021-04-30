@@ -1,1 +1,1 @@
-var mnemonic = "half inherit flee bitter organ miracle arm slam region defense engage valve";
+var mnemonic = "leader consider vivid garage jealous warfare twist penalty deliver december reflect gather";

@@ -1,1 +1,1 @@
-var mnemonic = "people rich bubble motion oxygen useful civil tag upper shrimp begin erupt";
+var mnemonic = "cart warm lunar small distance vote sadness glory blind aerobic hawk either";

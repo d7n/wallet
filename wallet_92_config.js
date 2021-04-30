@@ -1,1 +1,1 @@
-var mnemonic = "school tube faith black dawn choose describe unhappy common lucky slab impose";
+var mnemonic = "soon since mirror october celery vapor other simple sunset amount kit laptop";

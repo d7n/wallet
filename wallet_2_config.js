@@ -1,1 +1,1 @@
-var mnemonic = "crane funny better sail stage soul manual excuse pattern gym endorse render";
+var mnemonic = "chimney wreck concert laundry faint razor soul announce purse reward neither pelican";

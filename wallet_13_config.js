@@ -1,1 +1,1 @@
-var mnemonic = "digital horn display rapid long armor census test clog lobster burger permit";
+var mnemonic = "split custom sure approve husband fiber good uncle nest coffee juice inside";

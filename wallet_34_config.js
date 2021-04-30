@@ -1,1 +1,1 @@
-var mnemonic = "donate blanket bar intact toe luggage wrist fitness advance lab maid limb";
+var mnemonic = "olive wheat lunch shell warfare awesome scorpion actress together culture cannon author";

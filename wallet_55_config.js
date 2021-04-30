@@ -1,1 +1,1 @@
-var mnemonic = "awesome skirt permit curtain spell work peasant dove noise jump super pass";
+var mnemonic = "wrong patient awake game net glare prosper decrease change note onion collect";

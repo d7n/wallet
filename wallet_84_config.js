@@ -1,1 +1,1 @@
-var mnemonic = "learn woman couple column cage another double roast one unique pretty inject";
+var mnemonic = "siege gas voyage dream dice truth toddler siege range solution boil type";

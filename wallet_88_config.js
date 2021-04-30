@@ -1,1 +1,1 @@
-var mnemonic = "script stable wage rebuild security situate tragic fetch stamp treat engage maze";
+var mnemonic = "portion spawn rain february cereal furnace member hard ketchup cause hamster attack";

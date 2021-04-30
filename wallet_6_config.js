@@ -1,1 +1,1 @@
-var mnemonic = "radar truck mule filter cover grocery work list wall busy camp absent";
+var mnemonic = "route drift bitter letter crisp plug later skate void tray film ankle";

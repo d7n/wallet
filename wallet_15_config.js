@@ -1,1 +1,1 @@
-var mnemonic = "manual cactus clay demise buyer stomach shuffle ramp swim among depart bread";
+var mnemonic = "fragile flight vendor during owner wash fiber autumn fever about champion daring";

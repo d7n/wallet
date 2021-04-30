@@ -1,1 +1,1 @@
-var mnemonic = "drop front during cloud across morning argue penalty fuel moral grow buddy";
+var mnemonic = "autumn pilot silk already smile text hard exhaust enter true swim all";

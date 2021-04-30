@@ -1,1 +1,1 @@
-var mnemonic = "output inflict height shove slogan rude copper convince mansion shoe eagle gift";
+var mnemonic = "expand arena glass female festival lecture crime loyal permit then february dove";

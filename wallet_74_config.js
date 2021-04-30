@@ -1,1 +1,1 @@
-var mnemonic = "pretty run robust perfect wrong moon neck slogan mistake reveal inside today";
+var mnemonic = "panel kangaroo defy pole spend toast improve ivory stand help bubble forest";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy pulp icon bright mad describe panel corn toward help foam nose";
+var mnemonic = "dust ensure adapt other search brother abuse candy husband tonight reduce real";

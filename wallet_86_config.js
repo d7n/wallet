@@ -1,1 +1,1 @@
-var mnemonic = "garage shadow climb rival control verify unique tissue noise execute ill multiply";
+var mnemonic = "educate charge tent reform electric street smoke major reflect muscle mass avocado";

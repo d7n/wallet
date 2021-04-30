@@ -1,1 +1,1 @@
-var mnemonic = "step fatigue myth roof soul unhappy fox found tongue spy mix oven";
+var mnemonic = "aspect easy hire joke abuse club cargo jump rug unit diamond charge";

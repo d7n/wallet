@@ -1,1 +1,1 @@
-var mnemonic = "pig toast pelican exit giggle avocado demise merge attitude lamp pizza under";
+var mnemonic = "borrow coyote path toy category shed neither test subject ignore result relief";

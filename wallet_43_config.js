@@ -1,1 +1,1 @@
-var mnemonic = "panel visual crucial roof blade carbon any column ginger next sphere destroy";
+var mnemonic = "weekend crucial design identify exclude cigar erase acid pudding weasel absent resist";

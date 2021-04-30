@@ -1,1 +1,1 @@
-var mnemonic = "mammal runway slogan brave other cricket nasty rent apology fever congress message";
+var mnemonic = "forest record junior width goat solar about imitate forum kid margin dinosaur";

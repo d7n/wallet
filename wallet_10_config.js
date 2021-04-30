@@ -1,1 +1,1 @@
-var mnemonic = "tennis congress enrich clap laundry rubber stuff kiwi cube slush enact audit";
+var mnemonic = "snap develop giggle narrow funny school kangaroo punch crush health survey safe";
