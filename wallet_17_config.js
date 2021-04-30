@@ -1,1 +1,1 @@
-var mnemonic = "feel proof typical sick adapt light ancient vivid pudding include city original";
+var mnemonic = "panel quantum paper topple source crazy reflect ice quarter wasp spot scorpion";

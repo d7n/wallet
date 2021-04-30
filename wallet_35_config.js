@@ -1,1 +1,1 @@
-var mnemonic = "dizzy brush satisfy kite actual buffalo stem hospital admit sample math camp";
+var mnemonic = "humble wine misery coconut picnic satoshi field salon deposit visit inspire loop";

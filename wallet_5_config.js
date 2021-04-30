@@ -1,1 +1,1 @@
-var mnemonic = "evil morning faith crumble identify aim rifle sort elite example rate enough";
+var mnemonic = "chapter nation program maid crawl pelican beef excuse spring file ramp glove";

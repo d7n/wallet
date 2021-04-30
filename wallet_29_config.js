@@ -1,1 +1,1 @@
-var mnemonic = "harbor great type soup buddy myth cat nuclear into nuclear rate vacant";
+var mnemonic = "impose vital key code spider roast business filter garbage wrestle buddy replace";

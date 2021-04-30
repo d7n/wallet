@@ -1,1 +1,1 @@
-var mnemonic = "shuffle enjoy gravity cushion under stick arrange yard shallow alarm foster sugar";
+var mnemonic = "skin immense ostrich spoon pitch seed husband pumpkin shoulder page ugly useless";

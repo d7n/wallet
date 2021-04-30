@@ -1,1 +1,1 @@
-var mnemonic = "bitter enter grunt distance praise flip barrel casual lizard trip truly husband";
+var mnemonic = "step essay copy open waste swap solid nasty regret decrease dove give";

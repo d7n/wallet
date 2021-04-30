@@ -1,1 +1,1 @@
-var mnemonic = "alarm noble sentence soon time toss lyrics swamp struggle sound medal regular";
+var mnemonic = "fine lumber local siren denial tag nurse nothing funny artefact fork you";

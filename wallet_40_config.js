@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo blouse where cream eight mad round amount cry amateur mercy purity";
+var mnemonic = "leg evil orient other canal science edge east number supreme join pool";

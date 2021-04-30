@@ -1,1 +1,1 @@
-var mnemonic = "monkey height mutual there exotic cousin tray thumb street quick assume soda";
+var mnemonic = "grain sign broken between flush spatial opera seek walnut surround reveal wrestle";

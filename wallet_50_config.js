@@ -1,1 +1,1 @@
-var mnemonic = "tail decade worry dish gloom phone half play idle process asthma life";
+var mnemonic = "you riot lawsuit cancel bless clarify exit family exile script eternal pulse";

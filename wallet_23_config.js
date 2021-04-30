@@ -1,1 +1,1 @@
-var mnemonic = "ivory cherry whip barrel grow abandon monkey expose split satoshi combine border";
+var mnemonic = "clarify lock beyond intact flight idle suffer rude there sense lesson hundred";

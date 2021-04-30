@@ -1,1 +1,1 @@
-var mnemonic = "weekend crucial design identify exclude cigar erase acid pudding weasel absent resist";
+var mnemonic = "tip decade awful gas pass saddle hawk slow cart riot frost only";

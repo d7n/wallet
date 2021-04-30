@@ -1,1 +1,1 @@
-var mnemonic = "fix pigeon weekend portion adjust elevator anchor month air old language urge";
+var mnemonic = "enjoy time pattern orient soldier river float twin salad art celery record";

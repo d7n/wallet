@@ -1,1 +1,1 @@
-var mnemonic = "camera trigger fitness omit goddess balance tragic exchange salad blind abuse family";
+var mnemonic = "glow level chair scene flame diesel gate hub miss track unusual dove";

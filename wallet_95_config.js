@@ -1,1 +1,1 @@
-var mnemonic = "twelve country tower jeans sibling general also deny scrub wisdom jewel blur";
+var mnemonic = "proud security general total helmet smooth champion giant worth naive people clerk";

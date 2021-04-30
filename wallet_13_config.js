@@ -1,1 +1,1 @@
-var mnemonic = "split custom sure approve husband fiber good uncle nest coffee juice inside";
+var mnemonic = "lobster cloud wage rack night jacket before cabbage wedding ready west cousin";

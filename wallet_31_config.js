@@ -1,1 +1,1 @@
-var mnemonic = "couch sustain midnight dirt digital build retire budget picnic food utility upset";
+var mnemonic = "inquiry jeans copy among include sorry waste educate problem flame region mimic";

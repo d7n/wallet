@@ -1,1 +1,1 @@
-var mnemonic = "sustain glow account alert abuse group idle ozone legend coral saddle sketch";
+var mnemonic = "resist hammer demise cage oak icon assume permit police tribe salmon enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "beach village club rent joke drop crowd arrange flavor else girl notice";
+var mnemonic = "daring truck blue hope immense afraid answer true issue man twin prevent";

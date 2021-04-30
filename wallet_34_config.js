@@ -1,1 +1,1 @@
-var mnemonic = "olive wheat lunch shell warfare awesome scorpion actress together culture cannon author";
+var mnemonic = "utility silent couch deer coin sentence tired film layer bus profit power";

@@ -1,1 +1,1 @@
-var mnemonic = "educate charge tent reform electric street smoke major reflect muscle mass avocado";
+var mnemonic = "one invite husband city safe crunch salmon cage piano cook burden rose";

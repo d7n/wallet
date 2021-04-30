@@ -1,1 +1,1 @@
-var mnemonic = "dust ensure adapt other search brother abuse candy husband tonight reduce real";
+var mnemonic = "card humble swallow obey frozen midnight tree lady result asset ahead traffic";

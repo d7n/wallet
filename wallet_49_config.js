@@ -1,1 +1,1 @@
-var mnemonic = "glue glide affair code culture extra peanut auction waste tone before scout";
+var mnemonic = "into scout soon attack script clinic giraffe power grape coconut dignity wonder";

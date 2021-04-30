@@ -1,1 +1,1 @@
-var mnemonic = "whisper kidney sauce identify enlist scorpion square head during duty execute reform";
+var mnemonic = "hundred myth vital gorilla bright tail notice cool awake trip fold ball";

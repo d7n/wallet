@@ -1,1 +1,1 @@
-var mnemonic = "gospel vault mirror approve truck heart stem army donkey gym help boat";
+var mnemonic = "accident panel spare chest disorder vast tank develop armor latin bread enhance";

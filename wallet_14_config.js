@@ -1,1 +1,1 @@
-var mnemonic = "purse mean exotic imitate verb spoil visual awkward share pattern tip hat";
+var mnemonic = "pattern desk author outer vault universe wrong similar drive mask victory initial";

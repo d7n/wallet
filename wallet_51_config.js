@@ -1,1 +1,1 @@
-var mnemonic = "grant sad process dinner carry arrive patient voice screen jelly hero rescue";
+var mnemonic = "code usual mind trial size garage bird appear analyst warfare name trip";

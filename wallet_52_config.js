@@ -1,1 +1,1 @@
-var mnemonic = "fame whip pattern fence twin unusual earth plate search palm bring wave";
+var mnemonic = "urban farm term race rely dry giggle monkey wealth group suffer blouse";

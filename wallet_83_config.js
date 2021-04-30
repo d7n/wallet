@@ -1,1 +1,1 @@
-var mnemonic = "furnace kitchen pledge blush glue fat rib autumn soft divert rebel moral";
+var mnemonic = "favorite toy manage art vote into iron write session tissue much diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "interest year donor annual win until rookie voice imitate check average shock";
+var mnemonic = "tragic bus east kit hello address six pelican festival organ boat cushion";

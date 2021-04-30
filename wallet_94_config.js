@@ -1,1 +1,1 @@
-var mnemonic = "left jungle cement furnace opera will buzz resource stumble popular work review";
+var mnemonic = "toilet hero fame egg citizen floor noble duty guide asset account despair";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery civil neck repeat twenty mistake bonus announce rough scene tent welcome";
+var mnemonic = "nurse cereal glass park cycle six rather angry discover dice first toilet";

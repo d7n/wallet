@@ -1,1 +1,1 @@
-var mnemonic = "risk help play alcohol issue catalog relax page vibrant cactus salute depend";
+var mnemonic = "spice jungle decrease guilt elevator wrap end beach name rib candy tiny";

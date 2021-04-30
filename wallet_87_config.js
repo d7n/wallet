@@ -1,1 +1,1 @@
-var mnemonic = "paddle left find robot jazz window gorilla all air mention sea gesture";
+var mnemonic = "deny unaware marble tell renew lucky pilot pear inherit guess click confirm";

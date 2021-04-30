@@ -1,1 +1,1 @@
-var mnemonic = "mind purchase possible naive taste scene habit property elephant orbit average scout";
+var mnemonic = "will exile enough hire flash quality intact hold clinic boil enable edit";

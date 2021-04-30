@@ -1,1 +1,1 @@
-var mnemonic = "dumb tube hybrid obvious segment alpha inject viable point aunt obvious essay";
+var mnemonic = "tube must tomorrow hip inspire advance mercy echo chat matrix cute filter";

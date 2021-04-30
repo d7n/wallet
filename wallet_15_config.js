@@ -1,1 +1,1 @@
-var mnemonic = "fragile flight vendor during owner wash fiber autumn fever about champion daring";
+var mnemonic = "aerobic now dinner palace control float entire general hurt tennis faculty adjust";

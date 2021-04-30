@@ -1,1 +1,1 @@
-var mnemonic = "power bounce weapon citizen midnight birth lawn broccoli buzz require old hen";
+var mnemonic = "fabric bus sustain bitter sand happy birth list cable suffer good empty";

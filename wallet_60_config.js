@@ -1,1 +1,1 @@
-var mnemonic = "range melody asset obey museum because lake hole stairs curtain twice dice";
+var mnemonic = "shop visit front update prize artist manual edge march job fat guilt";

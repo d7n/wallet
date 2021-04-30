@@ -1,1 +1,1 @@
-var mnemonic = "toast uniform badge cargo bacon comfort unveil great dream attitude three receive";
+var mnemonic = "bracket brain orphan culture develop sausage gather cake risk write aisle exact";

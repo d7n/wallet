@@ -1,1 +1,1 @@
-var mnemonic = "route drift bitter letter crisp plug later skate void tray film ankle";
+var mnemonic = "absurd mad change blood correct liquid truly trim estate club manage rain";

@@ -1,1 +1,1 @@
-var mnemonic = "burst aerobic curious body gossip order couple offer humor jealous draw segment";
+var mnemonic = "roof quiz salmon lumber fringe giggle heavy six find crowd away shy";

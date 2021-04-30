@@ -1,1 +1,1 @@
-var mnemonic = "dolphin trouble guitar response buyer flash army cross globe knee father install";
+var mnemonic = "toilet pole business viable feel ocean regular width illness glance near orient";

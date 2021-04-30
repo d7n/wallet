@@ -1,1 +1,1 @@
-var mnemonic = "rabbit enhance orphan put pride target husband year maid able kite senior";
+var mnemonic = "rug conduct sunset shine arch marriage tuition volume execute almost merge paddle";

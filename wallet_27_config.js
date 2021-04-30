@@ -1,1 +1,1 @@
-var mnemonic = "leader consider vivid garage jealous warfare twist penalty deliver december reflect gather";
+var mnemonic = "diesel state fan put loan one gun bulb blast tent apology hidden";

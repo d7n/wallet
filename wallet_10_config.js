@@ -1,1 +1,1 @@
-var mnemonic = "snap develop giggle narrow funny school kangaroo punch crush health survey safe";
+var mnemonic = "parent walk surface regular bunker insect deal rural insane symbol negative jeans";

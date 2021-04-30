@@ -1,1 +1,1 @@
-var mnemonic = "cube path shiver earn place normal strategy sort carbon scrub amateur behind";
+var mnemonic = "perfect december liberty call brick hockey fashion bag demise grief horse drop";

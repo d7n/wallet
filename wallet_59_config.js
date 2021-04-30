@@ -1,1 +1,1 @@
-var mnemonic = "illegal beach grit faculty core bleak pottery glide phone stand step mushroom";
+var mnemonic = "veteran door erode drive grain doll spawn muffin robot ozone powder devote";

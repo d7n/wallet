@@ -1,1 +1,1 @@
-var mnemonic = "announce bundle vicious income distance sorry flash armor awake actual avocado swing";
+var mnemonic = "hello pepper point best mixed space follow arrow exist install maple drop";

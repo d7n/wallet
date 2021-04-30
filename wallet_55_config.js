@@ -1,1 +1,1 @@
-var mnemonic = "wrong patient awake game net glare prosper decrease change note onion collect";
+var mnemonic = "top riot mimic gather frequent spoon alone loan approve open client about";

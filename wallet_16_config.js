@@ -1,1 +1,1 @@
-var mnemonic = "benefit infant bar oppose confirm sun pledge hedgehog hobby birth size sugar";
+var mnemonic = "situate jelly invite dad common velvet damage crawl talent good season trade";

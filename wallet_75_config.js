@@ -1,1 +1,1 @@
-var mnemonic = "corn capital shed congress person total rebel blind dirt steel obscure head";
+var mnemonic = "april design bind roof april regular guard obey once raise series humor";

@@ -1,1 +1,1 @@
-var mnemonic = "stick useful odor enter leisure common glance guard fresh help away path";
+var mnemonic = "scale sheriff biology ridge cute prepare physical bitter much prize dynamic canvas";

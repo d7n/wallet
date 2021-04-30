@@ -1,1 +1,1 @@
-var mnemonic = "naive dizzy select melody upon wine midnight entire eager gap wall case";
+var mnemonic = "achieve rival frost brave sheriff arrange series siren pattern ancient voice possible";

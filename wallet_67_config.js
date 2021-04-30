@@ -1,1 +1,1 @@
-var mnemonic = "tone seminar taste search arrest sniff cotton aware ankle bean drama chimney";
+var mnemonic = "honey sight fox vague defense frown deposit swift small fossil proud debris";

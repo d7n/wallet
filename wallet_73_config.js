@@ -1,1 +1,1 @@
-var mnemonic = "aisle emerge horn penalty history road favorite cloud foster obvious employ master";
+var mnemonic = "damp arch symptom loop monitor twin object swallow few border spoil shuffle";

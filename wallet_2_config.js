@@ -1,1 +1,1 @@
-var mnemonic = "chimney wreck concert laundry faint razor soul announce purse reward neither pelican";
+var mnemonic = "idea crush anxiety aim height town boring advance neglect blind include juice";

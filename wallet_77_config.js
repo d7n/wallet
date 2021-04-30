@@ -1,1 +1,1 @@
-var mnemonic = "elder strong rain mosquito bamboo virus powder upon pear paper above update";
+var mnemonic = "brave glimpse response bulk december attend decline grace merit enforce short issue";

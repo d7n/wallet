@@ -1,1 +1,1 @@
-var mnemonic = "forest record junior width goat solar about imitate forum kid margin dinosaur";
+var mnemonic = "toss deposit butter genre attract apple soccer split camp air smart badge";

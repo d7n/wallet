@@ -1,1 +1,1 @@
-var mnemonic = "involve venture truck cinnamon robust cat mammal wedding giant priority symbol flag";
+var mnemonic = "verify system spread can square rebuild olive resist special steak olive spell";

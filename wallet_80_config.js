@@ -1,1 +1,1 @@
-var mnemonic = "fuel swap paper august mean income month rib gossip wait effort acoustic";
+var mnemonic = "ladder pelican discover holiday canal across machine toss citizen anchor route chuckle";

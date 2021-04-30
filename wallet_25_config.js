@@ -1,1 +1,1 @@
-var mnemonic = "unit develop sight miracle air silent museum smart cash put option disagree";
+var mnemonic = "accident female puppy bunker escape entire payment shoe present utility palace barely";

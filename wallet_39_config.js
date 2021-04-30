@@ -1,1 +1,1 @@
-var mnemonic = "dial rural shock peace devote budget trade column erase fox electric corn";
+var mnemonic = "pact retreat car custom raccoon piano harsh absorb cake must proof open";

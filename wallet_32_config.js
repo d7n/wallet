@@ -1,1 +1,1 @@
-var mnemonic = "mobile effort group secret shed response gadget champion script soda will click";
+var mnemonic = "dry sail eager measure tortoise skirt radar tumble entry mule rural decorate";

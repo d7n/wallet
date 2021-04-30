@@ -1,1 +1,1 @@
-var mnemonic = "fruit fossil image hood sleep remove rural tired van chronic mammal thing";
+var mnemonic = "about undo pottery around organ staff protect embrace couple arrest viable rice";

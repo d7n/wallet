@@ -1,1 +1,1 @@
-var mnemonic = "shift cabin grow laugh order party deliver vault biology author insect trophy";
+var mnemonic = "stock quote cattle friend bright hour coral barely open excess rebuild cousin";

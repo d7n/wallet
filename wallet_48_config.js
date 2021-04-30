@@ -1,1 +1,1 @@
-var mnemonic = "expand arena glass female festival lecture crime loyal permit then february dove";
+var mnemonic = "find inspire elevator quality unveil speak pepper dumb aisle ceiling original first";

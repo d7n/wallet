@@ -1,1 +1,1 @@
-var mnemonic = "aspect easy hire joke abuse club cargo jump rug unit diamond charge";
+var mnemonic = "ginger stone banana law inside subject swamp sniff sure primary oven kidney";

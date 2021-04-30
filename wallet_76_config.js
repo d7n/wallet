@@ -1,1 +1,1 @@
-var mnemonic = "science pudding satoshi olive measure pass style beach state prison stock undo";
+var mnemonic = "idea ten blind daring shy chest village bottom know trick coin possible";

@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur clap runway panda summer degree prevent picture make notice rifle they";
+var mnemonic = "will stumble brush maximum mountain draw bar faint cluster dignity trash thought";

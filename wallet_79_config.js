@@ -1,1 +1,1 @@
-var mnemonic = "shoulder vanish miracle dilemma elite stool fine nest leader mention execute hawk";
+var mnemonic = "recall drum heavy blade harsh hurry confirm admit taxi glue skirt gap";

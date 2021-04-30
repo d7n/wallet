@@ -1,1 +1,1 @@
-var mnemonic = "autumn pilot silk already smile text hard exhaust enter true swim all";
+var mnemonic = "pencil chalk glue anger split heavy welcome faculty adult wasp artist artwork";

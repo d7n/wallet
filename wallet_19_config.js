@@ -1,1 +1,1 @@
-var mnemonic = "borrow coyote path toy category shed neither test subject ignore result relief";
+var mnemonic = "tilt sell corn wash profit orbit make enact bring buzz mention innocent";

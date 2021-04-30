@@ -1,1 +1,1 @@
-var mnemonic = "cart warm lunar small distance vote sadness glory blind aerobic hawk either";
+var mnemonic = "dignity resemble rent keen evolve wonder erode govern plastic neck help sword";

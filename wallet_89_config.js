@@ -1,1 +1,1 @@
-var mnemonic = "order critic broken figure unit prefer mother rice very during upset depth";
+var mnemonic = "foil movie item history sketch time success riot barrel lounge wage escape";

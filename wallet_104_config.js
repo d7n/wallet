@@ -1,1 +1,1 @@
-var mnemonic = "bread utility account worth pretty dynamic sport engine panel must sock what";
+var mnemonic = "asset solve pave mixed slam scan wink menu piano drop assist weather";

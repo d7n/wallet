@@ -1,1 +1,1 @@
-var mnemonic = "company stable monitor remember write someone monitor usage before rug garage skate";
+var mnemonic = "monitor what select swear dish carpet clap sure jeans phone neutral uncover";

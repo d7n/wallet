@@ -1,1 +1,1 @@
-var mnemonic = "uniform advice symptom planet purpose dove holiday kite peanut drop profit burst";
+var mnemonic = "gasp either believe duck debris alter wild divide canyon ozone north kid";

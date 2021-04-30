@@ -1,1 +1,1 @@
-var mnemonic = "else bubble bullet hockey clerk man hold sun imitate portion hub shadow";
+var mnemonic = "grain scan sleep link toilet answer check melt control thought wire all";

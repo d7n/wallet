@@ -1,1 +1,1 @@
-var mnemonic = "illness swift slender frame clerk actual cactus have expect please service festival";
+var mnemonic = "flight relax liquid stage tell title virtual hollow morning nose later radio";

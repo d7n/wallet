@@ -1,1 +1,1 @@
-var mnemonic = "zebra liberty enter cactus pudding glove column hole possible guard faith prison";
+var mnemonic = "rent water rural title around stereo evidence hammer trip live error mixed";

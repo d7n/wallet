@@ -1,1 +1,1 @@
-var mnemonic = "region jazz cream narrow hole volume install wash prison punch wet ostrich";
+var mnemonic = "state abuse noble owner pluck dentist green dizzy warm voyage swarm soup";

@@ -1,1 +1,1 @@
-var mnemonic = "panel kangaroo defy pole spend toast improve ivory stand help bubble forest";
+var mnemonic = "range myth own turkey cloud cattle usual clog behind polar talent blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "rate escape jealous weather prison filter awesome danger portion length small oven";
+var mnemonic = "swift large obscure ketchup enough filter decorate sunny glance frozen rack pencil";

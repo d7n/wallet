@@ -1,1 +1,1 @@
-var mnemonic = "please abuse essay diamond magic enhance student yard shaft increase frown plug";
+var mnemonic = "drift miracle used conduct honey draft photo logic cloth sponsor zoo alcohol";

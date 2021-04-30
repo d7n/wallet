@@ -1,1 +1,1 @@
-var mnemonic = "maid sugar they sword receive orphan utility task bottom cup deposit supply";
+var mnemonic = "clog orbit purchase theory raw describe oyster second view miracle audit tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "garage ensure region error science account company dune toddler daring primary oven";
+var mnemonic = "news stadium confirm average item inject song horn family box sunset shock";

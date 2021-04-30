@@ -1,1 +1,1 @@
-var mnemonic = "portion spawn rain february cereal furnace member hard ketchup cause hamster attack";
+var mnemonic = "already solution quality core refuse biology naive boil bronze chuckle easy apart";
