@@ -1,1 +1,1 @@
-var mnemonic = "picture sight truck slide short bring throw problem program settle bar impulse";
+var mnemonic = "decade coach write fall athlete invite retire present gesture crazy tumble jelly";

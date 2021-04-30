@@ -1,1 +1,1 @@
-var mnemonic = "bind brisk scan kit still fold trick blur argue magnet rifle actual";
+var mnemonic = "wage outdoor tenant limb panther page stand secret wear attend glad fault";

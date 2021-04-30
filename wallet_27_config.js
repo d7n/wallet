@@ -1,1 +1,1 @@
-var mnemonic = "nation problem code cause butter laugh label east tuition seminar memory lizard";
+var mnemonic = "negative pepper artefact bleak kangaroo coin occur weekend occur torch ecology either";

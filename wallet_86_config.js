@@ -1,1 +1,1 @@
-var mnemonic = "curious smooth draw scorpion inner elbow sea cube mimic wage library noodle";
+var mnemonic = "lady game bulb twin sing behind finger art team orient person drift";

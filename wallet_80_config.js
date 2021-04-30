@@ -1,1 +1,1 @@
-var mnemonic = "curtain birth slender wheel occur giraffe erupt general brisk glance possible arctic";
+var mnemonic = "wheat best news gallery one slogan marine private become scene illegal cluster";

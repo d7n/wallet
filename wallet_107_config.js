@@ -1,1 +1,1 @@
-var mnemonic = "music cushion depth vacant jewel atom beach merge solve vehicle roof permit";
+var mnemonic = "crawl fiction smart appear blossom kind soul price genre satoshi pole dust";

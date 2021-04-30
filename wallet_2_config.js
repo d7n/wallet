@@ -1,1 +1,1 @@
-var mnemonic = "grief miracle isolate aerobic inform squeeze secret balcony kiss beauty unit actor";
+var mnemonic = "stable attack garage know visual dose drop mixed taxi angry prevent random";

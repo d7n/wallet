@@ -1,1 +1,1 @@
-var mnemonic = "snow detail rate slam attend major dress move pill admit spirit truck";
+var mnemonic = "short fiscal chest make two ask grass lion attitude mad unaware govern";

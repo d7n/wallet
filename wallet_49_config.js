@@ -1,1 +1,1 @@
-var mnemonic = "match fix wink lumber range wave promote laundry outdoor real sugar cool";
+var mnemonic = "club hurdle skirt wild lawsuit beauty demand oil ring rural diary lady";

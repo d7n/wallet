@@ -1,1 +1,1 @@
-var mnemonic = "ask gift goose deliver outer black frozen still eyebrow lake once glue";
+var mnemonic = "enrich balcony lumber universe six ridge dove choice hold pet endorse sibling";

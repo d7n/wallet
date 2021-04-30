@@ -1,1 +1,1 @@
-var mnemonic = "board sketch quantum region priority engine rural wolf pass junior castle gesture";
+var mnemonic = "news zebra pupil unknown whale provide pony blood funny route ask decline";

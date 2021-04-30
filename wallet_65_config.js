@@ -1,1 +1,1 @@
-var mnemonic = "leopard right valley island small clinic shy long cheese light dash ugly";
+var mnemonic = "valid acquire toss letter pizza timber bamboo reunion annual city pool note";

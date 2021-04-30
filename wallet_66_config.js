@@ -1,1 +1,1 @@
-var mnemonic = "defense dutch loop lens snow jelly grid sadness ticket steel seed maze";
+var mnemonic = "dizzy auction veteran decline effort clinic swamp hip agent frame prefer ticket";

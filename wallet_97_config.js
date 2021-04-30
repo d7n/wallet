@@ -1,1 +1,1 @@
-var mnemonic = "lens mimic jelly volume rack nut stay differ core real uniform plunge";
+var mnemonic = "picnic chapter rule kit short guess age drama airport danger hurt message";

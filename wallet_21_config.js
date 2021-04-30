@@ -1,1 +1,1 @@
-var mnemonic = "mango fantasy canoe original turn where rather young primary pioneer velvet recycle";
+var mnemonic = "arctic dirt cereal million dune north blouse unfair wing six fruit embody";

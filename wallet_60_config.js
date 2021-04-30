@@ -1,1 +1,1 @@
-var mnemonic = "roast accuse swim blush similar popular number rug uncover tackle allow indicate";
+var mnemonic = "index settle render menu wolf afford side end spirit fit primary marble";

@@ -1,1 +1,1 @@
-var mnemonic = "dust someone laptop card marble humor edge tunnel history gate replace reveal";
+var mnemonic = "coast erode private airport admit trust fun punch peace festival birth cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "crew merry present east reform change luxury scale art door harbor notable";
+var mnemonic = "suspect ignore pave beach gesture belt dawn polar adjust drastic flock easy";

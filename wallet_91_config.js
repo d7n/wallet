@@ -1,1 +1,1 @@
-var mnemonic = "cheap next vague category race caught exotic garbage minor grocery renew alcohol";
+var mnemonic = "discover program atom worry habit soon differ bargain calm admit mouse skull";

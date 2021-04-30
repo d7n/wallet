@@ -1,1 +1,1 @@
-var mnemonic = "what kidney security festival effort sustain text kangaroo turn farm trip primary";
+var mnemonic = "trumpet medal lamp gun doctor reflect absorb message above actor immense course";

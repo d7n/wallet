@@ -1,1 +1,1 @@
-var mnemonic = "discover govern refuse demand worry pioneer tribe differ swift winner genius label";
+var mnemonic = "grow transfer tag stick way neck region vanish visa iron safe fit";

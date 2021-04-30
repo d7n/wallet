@@ -1,1 +1,1 @@
-var mnemonic = "deliver transfer armor order gospel mansion quick ceiling define brown fiscal mixed";
+var mnemonic = "account flush during ripple discover nation asset return float sting jealous sword";

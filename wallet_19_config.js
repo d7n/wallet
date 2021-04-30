@@ -1,1 +1,1 @@
-var mnemonic = "rescue tower purse photo inject lazy mixed title cargo field gauge consider";
+var mnemonic = "orange broccoli brisk gate verify approve assault put enter illegal moon major";

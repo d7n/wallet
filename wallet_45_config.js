@@ -1,1 +1,1 @@
-var mnemonic = "city mesh curtain lend tornado family private night situate provide match conduct";
+var mnemonic = "boring basic retreat interest thumb toddler carbon sure thrive stamp embrace silent";

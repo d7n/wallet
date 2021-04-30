@@ -1,1 +1,1 @@
-var mnemonic = "ability ozone wild random sphere praise seminar injury stage duck boat work";
+var mnemonic = "kid correct forum people stand final piano speed two glad wash paper";

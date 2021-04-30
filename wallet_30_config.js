@@ -1,1 +1,1 @@
-var mnemonic = "truck slender bundle people rebel permit innocent food entire budget quantum crash";
+var mnemonic = "taste sail depart neutral family impose music typical more hard venture meadow";

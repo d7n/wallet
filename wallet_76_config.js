@@ -1,1 +1,1 @@
-var mnemonic = "rib pear wealth monkey tip state ill craft garbage clarify famous fossil";
+var mnemonic = "dismiss owner march army friend wagon ignore nose truly habit orange flag";

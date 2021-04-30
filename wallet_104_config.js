@@ -1,1 +1,1 @@
-var mnemonic = "symbol world tank stomach shine measure poem give farm bridge turn digital";
+var mnemonic = "width flee debris moral tiny crew funny million surface boil flock marble";

@@ -1,1 +1,1 @@
-var mnemonic = "planet doctor legend fun execute shuffle sorry maze marine battle flock bar";
+var mnemonic = "square gold volume dutch use mobile science call liar nut spoon life";

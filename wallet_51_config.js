@@ -1,1 +1,1 @@
-var mnemonic = "tomato shy wide purpose arch giraffe gaze intact dinner mushroom detect hamster";
+var mnemonic = "reopen manual switch track corn build pond soon slice grocery reunion beauty";

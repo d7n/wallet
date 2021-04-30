@@ -1,1 +1,1 @@
-var mnemonic = "denial light member solve tackle card eternal tourist elbow south damage fall";
+var mnemonic = "north crawl dawn hole flip quit resource same dice reform drift acid";

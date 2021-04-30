@@ -1,1 +1,1 @@
-var mnemonic = "episode elevator digital bulk fade one melody cable gallery supply october zebra";
+var mnemonic = "relief outside debate panther estate mind alcohol tongue sheriff usage exclude elder";

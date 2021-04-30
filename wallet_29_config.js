@@ -1,1 +1,1 @@
-var mnemonic = "daughter tornado license lamp beauty syrup begin unit scare shuffle inquiry execute";
+var mnemonic = "fiscal illegal addict section fetch wolf muffin cry screen mutual hockey mass";

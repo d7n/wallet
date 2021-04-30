@@ -1,1 +1,1 @@
-var mnemonic = "person hedgehog trip vocal enforce proud step cupboard affair cool undo tooth";
+var mnemonic = "pulp reject right resource glow imitate horror main physical coast frog total";

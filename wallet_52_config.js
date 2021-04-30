@@ -1,1 +1,1 @@
-var mnemonic = "luggage vapor office layer crystal pony gas school slide hazard name stumble";
+var mnemonic = "march vote top crisp update faint example coyote picture office pond quiz";

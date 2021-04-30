@@ -1,1 +1,1 @@
-var mnemonic = "harvest physical drift tongue action quick cigar ordinary month pave inflict logic";
+var mnemonic = "acid yellow indicate machine split want text surround coil floor gift shoot";

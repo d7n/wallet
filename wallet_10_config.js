@@ -1,1 +1,1 @@
-var mnemonic = "sound fence alert domain shy love bulk miss cheese universe distance runway";
+var mnemonic = "width leopard notable hungry alien spirit expect mirror air hire also about";

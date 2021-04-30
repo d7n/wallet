@@ -1,1 +1,1 @@
-var mnemonic = "rich space silver category depth cable attitude remember mother uncover eternal wedding";
+var mnemonic = "diagram swarm protect cannon mechanic clown rose volume soup pulp always enhance";

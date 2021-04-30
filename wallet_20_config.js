@@ -1,1 +1,1 @@
-var mnemonic = "spot record depend manage demise boss identify wagon giggle oval object prison";
+var mnemonic = "mutual ranch pledge evidence avoid summer tortoise original invest dismiss memory swarm";

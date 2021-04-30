@@ -1,1 +1,1 @@
-var mnemonic = "shrimp mobile clip where release hair erase double north wolf habit warfare";
+var mnemonic = "dolphin price rhythm private use stamp blouse adapt debris industry dove universe";

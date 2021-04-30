@@ -1,1 +1,1 @@
-var mnemonic = "hello inform cube deer truck rival chicken oblige camera dance island critic";
+var mnemonic = "cross rack myself raise assume what soap clutch garage middle image like";

@@ -1,1 +1,1 @@
-var mnemonic = "master intact suit deer rich gossip test grape mention farm hat wasp";
+var mnemonic = "hurdle burst ranch sudden next dream scare attend oppose wide shrug tool";

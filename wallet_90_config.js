@@ -1,1 +1,1 @@
-var mnemonic = "danger donor almost common allow armed gift material direct ice office helmet";
+var mnemonic = "alien area size clutch protect confirm gaze remove security story what economy";

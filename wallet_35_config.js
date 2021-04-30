@@ -1,1 +1,1 @@
-var mnemonic = "lab between erosion monkey unable crawl seat tip bar van grace crunch";
+var mnemonic = "pilot theory cherry company poverty melody mixture valley light wood season drink";

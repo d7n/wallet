@@ -1,1 +1,1 @@
-var mnemonic = "end beef flock doll approve rebuild ice install razor rule output crucial";
+var mnemonic = "solution auto lady unhappy trap soap duty view cake moment multiply party";

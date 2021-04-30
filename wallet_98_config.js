@@ -1,1 +1,1 @@
-var mnemonic = "prosper aerobic surge asthma cash extra column supply arena atom collect void";
+var mnemonic = "female autumn cart rifle bulk snap veteran wrestle glow price consider gentle";

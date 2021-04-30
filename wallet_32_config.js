@@ -1,1 +1,1 @@
-var mnemonic = "lobster timber husband typical shed spoon paddle join puppy wealth cereal enter";
+var mnemonic = "rough sock level rough movie empty very blanket gaze remember salt short";

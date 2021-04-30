@@ -1,1 +1,1 @@
-var mnemonic = "thank loyal sleep female blossom satisfy august custom ten print toy duck";
+var mnemonic = "offer animal spider silly write fiscal child february orphan ice loan young";

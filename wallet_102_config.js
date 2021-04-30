@@ -1,1 +1,1 @@
-var mnemonic = "scheme core rail mom width long crime beauty gaze baby august voice";
+var mnemonic = "learn series spider zoo squeeze gun seat learn dumb entry skin cry";

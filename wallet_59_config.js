@@ -1,1 +1,1 @@
-var mnemonic = "velvet consider absent connect stand warrior envelope chronic public ladder because walk";
+var mnemonic = "fragile wrist faith arena double ritual board pride plate party motion unusual";

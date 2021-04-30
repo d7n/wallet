@@ -1,1 +1,1 @@
-var mnemonic = "jar dress image subject february town video book weird few fish develop";
+var mnemonic = "lend kitchen phrase ring dad sing blanket initial still link apart wear";

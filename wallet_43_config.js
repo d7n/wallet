@@ -1,1 +1,1 @@
-var mnemonic = "humble decide away winter normal vessel bid ahead music tiger panda world";
+var mnemonic = "cube below engage short design purity river live cactus sort oppose valve";

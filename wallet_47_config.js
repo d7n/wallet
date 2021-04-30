@@ -1,1 +1,1 @@
-var mnemonic = "deny rough scan wage merit weasel surround banner general zone habit library";
+var mnemonic = "life damage inherit diesel enforce machine foot slim pulp sleep muscle pledge";

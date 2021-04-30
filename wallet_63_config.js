@@ -1,1 +1,1 @@
-var mnemonic = "venture rack awful differ stem globe man apart situate muffin just figure";
+var mnemonic = "erosion nephew conduct example school find believe penalty collect hill whale much";

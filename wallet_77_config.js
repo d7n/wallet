@@ -1,1 +1,1 @@
-var mnemonic = "palm family bless game sea make cube curious write able model cat";
+var mnemonic = "book scare quality foster erase roof habit crisp blouse avocado speak eyebrow";

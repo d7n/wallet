@@ -1,1 +1,1 @@
-var mnemonic = "amazing author possible panther pair increase rose century slide giant slogan churn";
+var mnemonic = "border will play elevator easily kick rule couch witness level office fluid";

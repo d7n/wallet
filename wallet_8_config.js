@@ -1,1 +1,1 @@
-var mnemonic = "lecture inquiry window quick sock artist glue frame appear misery gather rent";
+var mnemonic = "spend exit pill call vote pistol display traffic remain only oblige stadium";

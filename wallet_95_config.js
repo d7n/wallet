@@ -1,1 +1,1 @@
-var mnemonic = "giggle notice confirm clinic file sister beauty puppy boil win able ten";
+var mnemonic = "sock foster air gather act spoon hello flash maze prevent stool angry";

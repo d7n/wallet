@@ -1,1 +1,1 @@
-var mnemonic = "wife bulb announce marble belt legend meadow response stay broom copper nothing";
+var mnemonic = "noble turkey traffic vicious elevator hundred drastic prize toddler loop kitten thumb";

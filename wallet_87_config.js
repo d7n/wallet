@@ -1,1 +1,1 @@
-var mnemonic = "cheap beauty envelope crucial summer recall analyst glue cinnamon spell city pupil";
+var mnemonic = "person differ build monster toss icon opinion live axis boss defense hello";

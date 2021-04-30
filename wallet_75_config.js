@@ -1,1 +1,1 @@
-var mnemonic = "outside giggle grape fantasy under upset human sound there joke wide sugar";
+var mnemonic = "neglect wage depth ancient shine dutch tip equal rabbit admit farm silver";

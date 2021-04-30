@@ -1,1 +1,1 @@
-var mnemonic = "chapter kid demand core prefer tank crop stomach spell release pudding fruit";
+var mnemonic = "uniform deal sausage wheel you soap kid moment follow once control group";

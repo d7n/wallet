@@ -1,1 +1,1 @@
-var mnemonic = "hat around shaft bridge remain good desert van float flee trouble quarter";
+var mnemonic = "drum benefit actual whale goddess aunt clean lift female please disease enough";

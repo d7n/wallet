@@ -1,1 +1,1 @@
-var mnemonic = "doll mind radar lumber clean exotic grid panic zebra civil left blur";
+var mnemonic = "junior employ annual cattle crawl dose ill obvious life usage meadow budget";

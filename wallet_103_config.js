@@ -1,1 +1,1 @@
-var mnemonic = "know pudding hidden brisk orange glare language exclude hope worth kidney stand";
+var mnemonic = "mansion author slot mirror reflect post label host camp concert infant grain";

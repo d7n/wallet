@@ -1,1 +1,1 @@
-var mnemonic = "buffalo wire answer spatial park runway inmate whale riot item paper dignity";
+var mnemonic = "ketchup sibling dance volume fetch whale coil elevator surprise brown method cabin";

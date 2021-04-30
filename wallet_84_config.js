@@ -1,1 +1,1 @@
-var mnemonic = "candy gas cook sure anger shine virtual romance truly marine exact zoo";
+var mnemonic = "monkey lava cheap bitter orbit board half assume involve fit accuse duty";

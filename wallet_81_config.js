@@ -1,1 +1,1 @@
-var mnemonic = "injury hood climb skirt prepare rate observe bottom cruel multiply seed island";
+var mnemonic = "just hamster tree affair toss gun this pave sister code inherit thunder";

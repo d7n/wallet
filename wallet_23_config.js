@@ -1,1 +1,1 @@
-var mnemonic = "lemon hurdle lizard face tell grunt market anxiety debris black tent chimney";
+var mnemonic = "remind guilt flavor evidence loop wall dove poet lizard service friend once";

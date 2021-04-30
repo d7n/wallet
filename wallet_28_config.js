@@ -1,1 +1,1 @@
-var mnemonic = "angry suit code taxi escape young vital piece bonus soul leg theme";
+var mnemonic = "replace upper enjoy tackle original ecology view erode reopen ivory mercy unfair";

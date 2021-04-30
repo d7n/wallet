@@ -1,1 +1,1 @@
-var mnemonic = "maid resemble left critic weird refuse price spare frog casino over sail";
+var mnemonic = "gloom neither wool river mandate apple mail swarm flavor crowd fantasy boring";

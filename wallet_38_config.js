@@ -1,1 +1,1 @@
-var mnemonic = "panther museum green history yard slow destroy lonely secret bachelor romance crystal";
+var mnemonic = "find spray chimney during move sock monster flavor run mosquito extend company";

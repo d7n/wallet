@@ -1,1 +1,1 @@
-var mnemonic = "gadget arch wrist wrong boring toss flee vast emotion scheme document alone";
+var mnemonic = "usual profit donate danger prefer prize face forward depart certain ghost hen";

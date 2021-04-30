@@ -1,1 +1,1 @@
-var mnemonic = "car solve now faint advice stomach help tenant moral category trigger legend";
+var mnemonic = "ugly found art stove garage canyon swear parrot sort vote canal cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz original clay provide you cupboard aware addict amused acoustic project quarter";
+var mnemonic = "theory cement social screen bacon lady novel fly boss drop flame nothing";

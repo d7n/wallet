@@ -1,1 +1,1 @@
-var mnemonic = "behind cruel future garage depend favorite bulk visual tail marine ability chief";
+var mnemonic = "time keen coin pretty security solution monster jazz orbit orchard blush onion";

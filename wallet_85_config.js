@@ -1,1 +1,1 @@
-var mnemonic = "kitten arrest black script pilot arm sound drop ghost judge zero hover";
+var mnemonic = "puppy final stomach shallow print nest unlock brand vapor index drill spring";

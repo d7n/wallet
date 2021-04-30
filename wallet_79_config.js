@@ -1,1 +1,1 @@
-var mnemonic = "poem garage uncover above assist embrace best phrase hire pencil solve seminar";
+var mnemonic = "kiwi first scrap sniff world profit boss cradle south parrot soon valley";

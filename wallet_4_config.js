@@ -1,1 +1,1 @@
-var mnemonic = "pink squirrel excite best exact rib inherit hotel indoor divorce left initial";
+var mnemonic = "tomorrow route idea broom learn prison slight dizzy video local team news";

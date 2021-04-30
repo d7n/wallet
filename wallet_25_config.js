@@ -1,1 +1,1 @@
-var mnemonic = "slender horn feed material travel honey parade mutual eye crack slender couple";
+var mnemonic = "gap market black spy toddler lunch pigeon master diesel nothing cherry gate";

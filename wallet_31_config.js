@@ -1,1 +1,1 @@
-var mnemonic = "void vast inherit sound rose glove battle grant desk rice entire record";
+var mnemonic = "rural hello confirm trouble wire genius primary crouch submit actor circle where";

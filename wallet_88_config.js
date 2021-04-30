@@ -1,1 +1,1 @@
-var mnemonic = "economy wasp wrestle web trigger marine shrug tornado cake next topic bargain";
+var mnemonic = "mouse glass west method muffin combine subway defy fashion filter sister slim";

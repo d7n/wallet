@@ -1,1 +1,1 @@
-var mnemonic = "stem verb walnut better quality cable kind today discover grape heart live";
+var mnemonic = "tone planet mother border sunny across shiver ill arrest size bunker cushion";

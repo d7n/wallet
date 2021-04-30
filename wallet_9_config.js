@@ -1,1 +1,1 @@
-var mnemonic = "riot kiss echo offer kite venue regret armed exile keen lucky mystery";
+var mnemonic = "tackle camp apple record digital garment menu day hill coffee knee grow";

@@ -1,1 +1,1 @@
-var mnemonic = "kiwi rotate work jungle farm clay envelope alcohol potato fit sphere letter";
+var mnemonic = "bright satoshi voyage twelve venue business satoshi bachelor glove side mistake rhythm";

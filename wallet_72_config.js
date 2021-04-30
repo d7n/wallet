@@ -1,1 +1,1 @@
-var mnemonic = "radio unfold child winner adult ostrich black neutral run horse calm noble";
+var mnemonic = "neck excite toy behind dentist clown rocket reopen illegal require gym wink";

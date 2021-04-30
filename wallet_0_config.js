@@ -1,1 +1,1 @@
-var mnemonic = "tribe poem any minor aware actress flavor fork stadium cruel arrive trigger";
+var mnemonic = "dentist reunion since blanket foster curious another board input print appear upgrade";

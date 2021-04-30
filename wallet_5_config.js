@@ -1,1 +1,1 @@
-var mnemonic = "start stadium pencil tower alley virtual scale bundle riot govern lamp glove";
+var mnemonic = "need control holiday disorder profit crunch swamp hire account common super laugh";

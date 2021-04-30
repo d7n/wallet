@@ -1,1 +1,1 @@
-var mnemonic = "ecology pelican ketchup juice moment hour thing trim rather tiger broccoli oven";
+var mnemonic = "globe switch chat during hungry sketch shallow sample purpose crowd rib arrow";

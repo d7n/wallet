@@ -1,1 +1,1 @@
-var mnemonic = "priority exhibit office image oak vapor exhibit renew cheese ignore hurry cruise";
+var mnemonic = "law kiwi glare open identify year surge nominee laptop ticket select oak";

@@ -1,1 +1,1 @@
-var mnemonic = "anger spider flash blanket ivory sort swing sentence local vote organ poet";
+var mnemonic = "debris violin suffer spend head fossil clerk decade please address mystery forget";
