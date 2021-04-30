@@ -1,1 +1,1 @@
-var mnemonic = "ugly blade joy rifle addict leaf ball shaft route time brush head";
+var mnemonic = "luggage valid famous act rhythm taste differ rather pipe glare mixed minute";

@@ -1,1 +1,1 @@
-var mnemonic = "marine whale father wife trim cement peanut high plunge dry vast shiver";
+var mnemonic = "toss furnace doctor very theory flavor gas happy year leave turn profit";

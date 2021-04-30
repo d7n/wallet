@@ -1,1 +1,1 @@
-var mnemonic = "field client behind sock moment coast movie else rough possible follow today";
+var mnemonic = "again exercise dish amused antenna warrior gloom lens blossom estate jump leisure";

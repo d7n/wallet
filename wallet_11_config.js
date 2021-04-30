@@ -1,1 +1,1 @@
-var mnemonic = "benefit town hood load chair laptop aisle time false decorate false modify";
+var mnemonic = "naive mercy tragic shoulder symptom boring nest try warfare image reveal ask";

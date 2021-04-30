@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow demise evidence canal net stage solar process unable clap chapter turn";
+var mnemonic = "place expose blast popular energy modify six abstract song floor fringe brown";

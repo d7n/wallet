@@ -1,1 +1,1 @@
-var mnemonic = "meat fury despair sight polar great angle public latin unique guess visual";
+var mnemonic = "banana orient dolphin erupt decorate camera reform actor lens camp green duck";

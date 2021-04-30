@@ -1,1 +1,1 @@
-var mnemonic = "green soul company street balance abuse grow nuclear card find achieve winner";
+var mnemonic = "wool match elite merge relief banana seat build uncover slot recipe actor";

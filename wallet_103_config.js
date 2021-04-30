@@ -1,1 +1,1 @@
-var mnemonic = "gospel bless endorse similar rebel donate shell resist spell tray prepare ask";
+var mnemonic = "stuff slow possible street potato fee uphold ghost excite entry owner canoe";

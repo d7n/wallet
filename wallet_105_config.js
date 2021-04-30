@@ -1,1 +1,1 @@
-var mnemonic = "sponsor rich outdoor enjoy float weekend gold join anchor umbrella monster chuckle";
+var mnemonic = "sad onion treat menu easy guitar require input husband camp prepare furnace";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy load bulk snack hub control history axis report fine indicate era";
+var mnemonic = "this obvious equip photo secret history stove unhappy suggest ozone divert thrive";

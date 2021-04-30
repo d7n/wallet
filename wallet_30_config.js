@@ -1,1 +1,1 @@
-var mnemonic = "silly feed chair laugh morning young material second glide ticket toddler knock";
+var mnemonic = "monitor recycle neutral awesome reject two stock version settle despair lazy you";

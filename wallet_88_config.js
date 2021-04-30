@@ -1,1 +1,1 @@
-var mnemonic = "mention stage benefit gadget smooth scrub chest subject because zone trophy level";
+var mnemonic = "drama unhappy chair fox voyage explain honey music fortune spin foot enforce";

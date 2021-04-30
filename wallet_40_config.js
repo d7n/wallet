@@ -1,1 +1,1 @@
-var mnemonic = "quit uphold joy afraid glory orphan fox crater avoid output clip bicycle";
+var mnemonic = "topic penalty borrow derive illness slush crunch rapid mistake nuclear eternal nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard title patrol govern toy stone digital alert frozen brother cave report";
+var mnemonic = "addict learn gravity silver segment grid drastic pet material oxygen remove wrestle";

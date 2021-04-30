@@ -1,1 +1,1 @@
-var mnemonic = "hollow next inquiry subway ski design typical magnet habit file walk earn";
+var mnemonic = "ancient maple mandate become air impulse cat intact total brother ranch sample";

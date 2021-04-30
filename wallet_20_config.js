@@ -1,1 +1,1 @@
-var mnemonic = "amateur high material camera alcohol style culture corn liquid skin coffee annual";
+var mnemonic = "turkey spin quarter cycle asset crisp thrive drama pig sell cart lobster";

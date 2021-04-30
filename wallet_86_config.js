@@ -1,1 +1,1 @@
-var mnemonic = "drip maximum quantum below neutral ask dolphin volume correct erode dwarf blind";
+var mnemonic = "iron genuine science churn apple tray nasty trap love electric dry series";

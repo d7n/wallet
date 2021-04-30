@@ -1,1 +1,1 @@
-var mnemonic = "naive real black empty bar melt input pride bring own slab impose";
+var mnemonic = "stove sibling elevator feel carry upon ritual explain boost slim huge coil";

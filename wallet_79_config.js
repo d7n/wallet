@@ -1,1 +1,1 @@
-var mnemonic = "rather chief idea visual curious endorse finish easy suspect utility okay skirt";
+var mnemonic = "fold cruise hospital horror duty wheel service kingdom build voyage eager shrug";

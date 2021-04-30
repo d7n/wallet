@@ -1,1 +1,1 @@
-var mnemonic = "shallow bless genius provide team witness school ketchup shock lucky gain mail";
+var mnemonic = "unknown farm release keen multiply love enlist wheat warfare ticket peace prepare";

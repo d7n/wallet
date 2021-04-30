@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow oval crush stereo attend unveil cinnamon exercise powder emerge capital slow";
+var mnemonic = "endorse base relief skill already cycle drink vintage front twist police report";

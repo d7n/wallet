@@ -1,1 +1,1 @@
-var mnemonic = "angry canyon truth creek saddle real neck donor say balcony equal erode";
+var mnemonic = "april shallow away weapon dance canyon cotton right bronze razor vocal light";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle raw banana walk range spider input dizzy option bacon outdoor narrow";
+var mnemonic = "must ticket orchard title cereal hollow print soon fashion hammer caution warfare";

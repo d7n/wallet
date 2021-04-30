@@ -1,1 +1,1 @@
-var mnemonic = "divert assault camera peace nation gap rotate virtual glance volume dance cool";
+var mnemonic = "master will comfort thing pattern faculty slogan galaxy settle immune dizzy cotton";

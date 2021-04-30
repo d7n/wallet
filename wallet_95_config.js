@@ -1,1 +1,1 @@
-var mnemonic = "brother chest error snow muscle repeat great trade advice water during congress";
+var mnemonic = "model wool snow glare solve fatal robust outdoor throw disease female craft";

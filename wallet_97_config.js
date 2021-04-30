@@ -1,1 +1,1 @@
-var mnemonic = "parent drink fashion enroll employ soccer upon foam plate flame obey void";
+var mnemonic = "milk march ritual rug accuse rib rule dawn parrot robust genre priority";

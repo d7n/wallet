@@ -1,1 +1,1 @@
-var mnemonic = "attack team banner cruel swallow legend unfold define hire street swing general";
+var mnemonic = "pool business garbage pole early struggle slab lizard front furnace upgrade bless";

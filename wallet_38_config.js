@@ -1,1 +1,1 @@
-var mnemonic = "travel mountain project first fortune custom blossom guilt desk chaos head tray";
+var mnemonic = "unlock harvest surge whale acid mango naive choice blush again awful cheese";

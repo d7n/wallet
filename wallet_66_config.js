@@ -1,1 +1,1 @@
-var mnemonic = "faint ski fatal clinic brisk sniff define escape despair scrap grocery twist";
+var mnemonic = "antenna split normal swarm profit drastic melt joy fat napkin shine nephew";

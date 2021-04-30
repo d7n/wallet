@@ -1,1 +1,1 @@
-var mnemonic = "ritual cabbage leopard spoon prevent mad mutual hurdle coffee unfold hero curious";
+var mnemonic = "various dog relax twice sugar loud kiss jewel tobacco vote private resource";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit act screen civil glory clinic belt vacant bomb weather illegal ocean";
+var mnemonic = "spread miss sketch photo slim mixture spider earn inspire fork error lamp";

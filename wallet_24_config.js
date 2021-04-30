@@ -1,1 +1,1 @@
-var mnemonic = "south flat neither ability bachelor orphan produce usual ensure apart switch jaguar";
+var mnemonic = "room glory target firm develop merge soon strike funny grab shrug mom";

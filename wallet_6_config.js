@@ -1,1 +1,1 @@
-var mnemonic = "rifle tape pioneer duck wreck absurd deputy vibrant master okay excite alter";
+var mnemonic = "coffee typical insect medal canal crew clerk bitter version purity junk fence";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon title mention park bind goat dress devote surge river hood fire";
+var mnemonic = "brown dutch actor panther hotel pause still page tumble boil fold crisp";

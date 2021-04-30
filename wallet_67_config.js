@@ -1,1 +1,1 @@
-var mnemonic = "music erupt useful soda dawn great swallow indicate hazard quality expire trial";
+var mnemonic = "express rebuild book captain taste better bracket discover tiger rotate endorse silly";

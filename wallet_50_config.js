@@ -1,1 +1,1 @@
-var mnemonic = "now abuse rabbit rare pave armed chef december acquire energy click into";
+var mnemonic = "burger kite injury obvious rotate sea spray liar enter giggle wedding trash";

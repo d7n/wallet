@@ -1,1 +1,1 @@
-var mnemonic = "hard village mad attitude pony peasant syrup culture right large dance kit";
+var mnemonic = "giant grunt leader frost put boost funny bag fetch false cereal scrub";

@@ -1,1 +1,1 @@
-var mnemonic = "color spatial ridge net boost edge kangaroo cricket car destroy pumpkin dumb";
+var mnemonic = "gentle citizen cost hospital vapor flash odor recall rare possible sock vendor";

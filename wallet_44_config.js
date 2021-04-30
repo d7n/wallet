@@ -1,1 +1,1 @@
-var mnemonic = "festival palace spike sample denial army virus mammal labor win crane amount";
+var mnemonic = "skin inflict double evoke era river height quality ranch equal code tray";

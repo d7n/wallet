@@ -1,1 +1,1 @@
-var mnemonic = "blouse dose genuine buzz flavor edge outer curious humor fault garlic frozen";
+var mnemonic = "dress enrich fog alien disease abandon analyst find salute vital front reveal";

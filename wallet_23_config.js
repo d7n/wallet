@@ -1,1 +1,1 @@
-var mnemonic = "leg regular they grape worth move follow small mad marble purpose dish";
+var mnemonic = "crew olive uniform elegant mammal pause law unlock defy ankle candy never";

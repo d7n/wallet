@@ -1,1 +1,1 @@
-var mnemonic = "dial sand arrange turn afraid marble roof never poem term mansion achieve";
+var mnemonic = "wife wood security system risk surround citizen transfer expand decide day absorb";

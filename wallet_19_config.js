@@ -1,1 +1,1 @@
-var mnemonic = "rely mango inquiry special unknown daring embrace gospel illegal twist horn lock";
+var mnemonic = "panic corn mean jar call dinosaur economy install such client enact fabric";

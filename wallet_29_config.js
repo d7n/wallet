@@ -1,1 +1,1 @@
-var mnemonic = "civil program visa trap east lamp sustain gun artwork border cool purpose";
+var mnemonic = "fury keen antique say vendor congress taste myself garlic radar horn matrix";

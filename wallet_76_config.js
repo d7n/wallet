@@ -1,1 +1,1 @@
-var mnemonic = "mass sure end myth interest pencil destroy wild child bleak hat inmate";
+var mnemonic = "junk gorilla parrot adapt ginger piano bachelor dumb first soda apple mouse";

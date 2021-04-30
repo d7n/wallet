@@ -1,1 +1,1 @@
-var mnemonic = "logic leisure brisk merry estate female nominee property pledge price like valve";
+var mnemonic = "tornado spawn fall wheat sick ladder obey double grant sample salt mechanic";

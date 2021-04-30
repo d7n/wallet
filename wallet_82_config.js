@@ -1,1 +1,1 @@
-var mnemonic = "junk pilot hire jeans mask scissors coast hill kidney tackle visual between";
+var mnemonic = "strong cheese snake worth tourist awake analyst final conduct atom mutual half";

@@ -1,1 +1,1 @@
-var mnemonic = "funny stand sheriff typical chest loop carbon put sponsor resource answer tiger";
+var mnemonic = "print retreat village blouse burst depth car slim ice now work market";

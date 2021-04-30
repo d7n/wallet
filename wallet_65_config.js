@@ -1,1 +1,1 @@
-var mnemonic = "fog hub night wise orphan genuine minimum wool marble team village clever";
+var mnemonic = "kind firm vibrant repair real blush dress car stamp disease tomato liquid";

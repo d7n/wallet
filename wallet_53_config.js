@@ -1,1 +1,1 @@
-var mnemonic = "prosper video talk satisfy execute they stool honey hero normal water merry";
+var mnemonic = "office youth loyal artefact dignity shield mad visit source betray manual raise";

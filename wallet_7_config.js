@@ -1,1 +1,1 @@
-var mnemonic = "kiss burden frequent alpha range concert describe zebra moral layer argue shallow";
+var mnemonic = "route output forget custom axis path elder mammal today because still mango";

@@ -1,1 +1,1 @@
-var mnemonic = "mix name barely actress key clutch walk intact carpet master wave energy";
+var mnemonic = "evil fashion advice code expose decrease series armed can climb feel world";

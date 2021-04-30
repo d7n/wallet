@@ -1,1 +1,1 @@
-var mnemonic = "renew weekend table any fluid symptom autumn velvet ill medal oven hunt";
+var mnemonic = "apart rug victory unusual report road despair annual auction receive fantasy verb";

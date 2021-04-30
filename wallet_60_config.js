@@ -1,1 +1,1 @@
-var mnemonic = "page index caught book oyster apart naive twenty silly purchase photo limb";
+var mnemonic = "divide tobacco street neck away patch sight quiz sick moment few letter";

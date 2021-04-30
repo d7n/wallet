@@ -1,1 +1,1 @@
-var mnemonic = "anchor unknown fatigue pen remember daughter few zone blanket blood crowd actress";
+var mnemonic = "vintage word filter police start case various over border young sweet ecology";

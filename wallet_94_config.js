@@ -1,1 +1,1 @@
-var mnemonic = "damp govern music dress cry boring force liberty bomb item forget bird";
+var mnemonic = "include little swear slow door settle arrow maximum elephant rifle owner message";

@@ -1,1 +1,1 @@
-var mnemonic = "choose panda duck salad process excuse awake multiply dream cake waste strategy";
+var mnemonic = "version interest own section town elder menu sudden pig shoe daughter sand";

@@ -1,1 +1,1 @@
-var mnemonic = "arm muffin valid omit ribbon finish share old squeeze venue believe behind";
+var mnemonic = "oval token noise excess clay diesel fan match mango radar actor pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "found soon boring thank labor bracket language major regular room enter isolate";
+var mnemonic = "weekend goddess junk cage dragon produce smile mixed burden uncover kiss beyond";

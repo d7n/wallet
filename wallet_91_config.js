@@ -1,1 +1,1 @@
-var mnemonic = "quality earth tail slot blood still trade skin spatial teach bridge flee";
+var mnemonic = "pear purchase yellow leisure scrub ocean arm stumble copper snap ride stereo";

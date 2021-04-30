@@ -1,1 +1,1 @@
-var mnemonic = "throw where moon cement dove laptop fuel credit lion saddle stool bounce";
+var mnemonic = "ripple mansion first time kingdom interest dash elite sign innocent core sad";

@@ -1,1 +1,1 @@
-var mnemonic = "clean stock power patient opinion hamster cash dad mammal entire era post";
+var mnemonic = "please much grape trade shrimp cargo mosquito never plug height ability uniform";

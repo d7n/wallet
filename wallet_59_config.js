@@ -1,1 +1,1 @@
-var mnemonic = "razor tomato valid spider topple often female rail next differ rain coach";
+var mnemonic = "express chronic shock minor trial myself defy absent square father dolphin dizzy";

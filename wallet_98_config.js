@@ -1,1 +1,1 @@
-var mnemonic = "siege envelope shoe barrel napkin debate often save prosper galaxy travel sound";
+var mnemonic = "elite degree unfold giant ski miss write begin index expire response wife";

@@ -1,1 +1,1 @@
-var mnemonic = "noise plate antique expect age skirt popular food still cable rocket lock";
+var mnemonic = "gentle honey endorse cherry sting magnet absent holiday tide settle more water";

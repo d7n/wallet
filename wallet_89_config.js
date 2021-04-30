@@ -1,1 +1,1 @@
-var mnemonic = "push extend dance dress parrot attend ethics sting neck blossom despair solar";
+var mnemonic = "derive lottery gentle essence kind indicate hurt gas nurse spray onion absorb";

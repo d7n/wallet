@@ -1,1 +1,1 @@
-var mnemonic = "until syrup keep start wonder switch mimic attack system order village tube";
+var mnemonic = "plunge fatal kiss like cliff system brave corn enlist left welcome gauge";

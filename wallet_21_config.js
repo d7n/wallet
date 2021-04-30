@@ -1,1 +1,1 @@
-var mnemonic = "oyster strong best pencil cushion truck sniff mass mask double lamp daughter";
+var mnemonic = "gentle album oak cry acoustic upset extend protect hundred endorse liquid donor";

@@ -1,1 +1,1 @@
-var mnemonic = "voyage morning nature practice material switch obscure expect flag luxury churn remember";
+var mnemonic = "obtain air basket six crawl insane argue oak tortoise tennis small dose";

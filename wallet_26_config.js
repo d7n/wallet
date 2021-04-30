@@ -1,1 +1,1 @@
-var mnemonic = "fossil also spell record pave shop three visa walk idle nerve bright";
+var mnemonic = "duty fat merit six learn tenant eyebrow nerve earth erosion emerge peanut";

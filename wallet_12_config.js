@@ -1,1 +1,1 @@
-var mnemonic = "during tape pear valid other feature spoil essay shrimp purpose outside canal";
+var mnemonic = "pudding buzz valid satisfy clinic beauty make fit praise enrich deliver fuel";

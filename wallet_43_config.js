@@ -1,1 +1,1 @@
-var mnemonic = "alcohol royal hello horse pumpkin allow reduce hand divorce craft lounge thing";
+var mnemonic = "useful lamp empty wage gloom vessel talent slender play brief virtual alone";

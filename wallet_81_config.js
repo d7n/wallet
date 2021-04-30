@@ -1,1 +1,1 @@
-var mnemonic = "stumble blue royal tell orbit grape gasp loop donate melt kick style";
+var mnemonic = "wish filter jacket offer cover afford age diagram beauty citizen demand expose";

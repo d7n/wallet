@@ -1,1 +1,1 @@
-var mnemonic = "dentist family erode surprise evoke select twin hour tuna select vital ginger";
+var mnemonic = "buzz trade crime muffin decrease above high lawsuit ghost dog wait bonus";

@@ -1,1 +1,1 @@
-var mnemonic = "idle people aim beyond silk link actress bunker neglect clarify toss heart";
+var mnemonic = "attitude intact level detect muscle that table reason capital next tooth police";

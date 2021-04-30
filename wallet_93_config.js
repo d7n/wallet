@@ -1,1 +1,1 @@
-var mnemonic = "robust betray future urban shift intact gain digital mom wisdom reveal render";
+var mnemonic = "garlic ready truck sibling praise search remove bus dawn fancy then ostrich";

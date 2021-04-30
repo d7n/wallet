@@ -1,1 +1,1 @@
-var mnemonic = "visual key vintage expose fan script unhappy rail obtain system frost junk";
+var mnemonic = "glare cushion soap puzzle story myself spawn measure wool endorse hamster upgrade";

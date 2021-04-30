@@ -1,1 +1,1 @@
-var mnemonic = "test initial electric eye forward announce around smoke wool antique test pact";
+var mnemonic = "glare under kid correct balcony opera draw cart record credit lab trap";

@@ -1,1 +1,1 @@
-var mnemonic = "world poem oil artefact eyebrow grant carry ride crop kick trip depart";
+var mnemonic = "goat quantum sleep tray symptom wedding vehicle hybrid tape scrap crime gym";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh trick wash teach input bunker camp denial display demise express mouse";
+var mnemonic = "cloth grunt polar enter exile song code balcony glimpse card balcony often";

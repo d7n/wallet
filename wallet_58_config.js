@@ -1,1 +1,1 @@
-var mnemonic = "secret current angle fall paddle latin cup beauty best video act skirt";
+var mnemonic = "fine moon radar tree version fall awful arrange battle sample enhance open";

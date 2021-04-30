@@ -1,1 +1,1 @@
-var mnemonic = "grass dynamic blossom first brief matrix clown fuel popular odor tonight session";
+var mnemonic = "hockey lava index jungle slow fan host pen half receive path stay";

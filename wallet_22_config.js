@@ -1,1 +1,1 @@
-var mnemonic = "master upper surge capital avoid subway knee around kick media armed embrace";
+var mnemonic = "report exclude cover blue town useless pause obtain ice verb dignity jar";

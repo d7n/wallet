@@ -1,1 +1,1 @@
-var mnemonic = "tonight grid hurdle crystal size alcohol shove wrist season water amount chase";
+var mnemonic = "pool gravity force chest dynamic build talk kitchen play immense fork lamp";

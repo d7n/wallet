@@ -1,1 +1,1 @@
-var mnemonic = "appear blanket candy buffalo idle distance demand trust parent this cloud frown";
+var mnemonic = "garage rely clump morning hen agent rifle stamp little logic couch there";

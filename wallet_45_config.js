@@ -1,1 +1,1 @@
-var mnemonic = "chief aspect job pigeon thumb radio planet echo electric kid iron weekend";
+var mnemonic = "sea skill front advice polar hire scheme zebra forum evoke diesel rate";

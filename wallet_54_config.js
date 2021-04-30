@@ -1,1 +1,1 @@
-var mnemonic = "language bring pottery iron culture mind oven bag resist squirrel olympic cart";
+var mnemonic = "picnic cream mix maid recipe ship man humor peasant spice oil run";

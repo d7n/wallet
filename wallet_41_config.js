@@ -1,1 +1,1 @@
-var mnemonic = "fuel minimum insane defense only twice leaf popular crouch cream output call";
+var mnemonic = "isolate flip pitch cement blame script park spell theme refuse help muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "oxygen whip orbit census mammal virus garage suit security night slight muffin";
+var mnemonic = "stadium fine citizen ring car nurse child tank bunker loud curtain hedgehog";
