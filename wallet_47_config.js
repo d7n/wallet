@@ -1,1 +1,1 @@
-var mnemonic = "hollow start become insect time huge abstract wet slice breeze struggle rifle";
+var mnemonic = "minor wage repair sentence dignity replace flower banana scrub praise picture dilemma";

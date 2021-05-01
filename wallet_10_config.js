@@ -1,1 +1,1 @@
-var mnemonic = "dream spike gun vote cement purpose erosion walnut apology nasty air sleep";
+var mnemonic = "taste seed pitch draw pave number eager custom explain table tell purity";

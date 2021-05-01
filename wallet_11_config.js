@@ -1,1 +1,1 @@
-var mnemonic = "north affair return faith pluck start allow inhale gap merit exotic monitor";
+var mnemonic = "wage sugar replace fiscal tape left news until replace enable exact garden";

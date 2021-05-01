@@ -1,1 +1,1 @@
-var mnemonic = "travel sing bleak expose answer cricket enlist journey one honey addict horror";
+var mnemonic = "inmate debris nose already earn toddler gossip amused owner trigger fruit churn";

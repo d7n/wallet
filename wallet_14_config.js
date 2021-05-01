@@ -1,1 +1,1 @@
-var mnemonic = "cause jeans ozone beach output average easy wheel purse profit about own";
+var mnemonic = "clutch nature lake pulse grant toy other annual shove cushion dilemma symbol";

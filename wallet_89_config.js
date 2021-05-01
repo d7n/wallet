@@ -1,1 +1,1 @@
-var mnemonic = "steel rice impulse dwarf cup ask oblige uncle settle wedding stick dry";
+var mnemonic = "mother lunch debris list man face goddess drip deputy hundred make engine";

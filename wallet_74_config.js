@@ -1,1 +1,1 @@
-var mnemonic = "potato yellow grunt tunnel core faculty wide glide radio few must wool";
+var mnemonic = "ripple morning hire comfort host payment unfold name maid cheese problem drift";

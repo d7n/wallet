@@ -1,1 +1,1 @@
-var mnemonic = "bleak surround oven trap vendor original clump enter rely crawl abstract ceiling";
+var mnemonic = "eyebrow desk tip local wool decide tree measure round range thunder october";

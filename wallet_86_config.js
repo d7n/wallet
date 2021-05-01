@@ -1,1 +1,1 @@
-var mnemonic = "mesh winter still ring seed ridge crime inject inquiry valid bar combine";
+var mnemonic = "hen talent uphold filter three flat child accident vocal armed body glad";

@@ -1,1 +1,1 @@
-var mnemonic = "daring volume poet erupt leader join boat pet story wasp mesh sick";
+var mnemonic = "like trigger melt width actual inherit position strategy walk manual despair cube";

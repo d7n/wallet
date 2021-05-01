@@ -1,1 +1,1 @@
-var mnemonic = "distance reform vocal sketch boost make federal frame anxiety size voyage blouse";
+var mnemonic = "witness frame unaware napkin cluster still eagle purity mutual age possible account";

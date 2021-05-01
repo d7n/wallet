@@ -1,1 +1,1 @@
-var mnemonic = "copper peace cattle charge picture build explain deputy common shell smile hedgehog";
+var mnemonic = "orchard hotel brown road window state wrestle diary phone alpha artwork govern";

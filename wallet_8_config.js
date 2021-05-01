@@ -1,1 +1,1 @@
-var mnemonic = "pig travel page truth effort helmet salt luxury ethics grass under hedgehog";
+var mnemonic = "special asthma stadium ball burden fabric paddle pencil demise shoulder miracle range";

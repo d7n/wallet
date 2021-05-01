@@ -1,1 +1,1 @@
-var mnemonic = "sunny recycle shoot assault grace later source fix portion employ spike absorb";
+var mnemonic = "rain kite output horse orient manage twelve west fan over can use";

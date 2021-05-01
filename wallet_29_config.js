@@ -1,1 +1,1 @@
-var mnemonic = "rough retire shallow chicken reduce hello elegant palace merit peace subject giant";
+var mnemonic = "urge sphere elite rebel civil garage bid ticket news wool element easy";

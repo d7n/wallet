@@ -1,1 +1,1 @@
-var mnemonic = "axis churn just lens aunt close huge lottery extend bread garage impulse";
+var mnemonic = "common easy auction jar blind depart permit fancy eager pupil shove note";

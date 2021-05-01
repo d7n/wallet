@@ -1,1 +1,1 @@
-var mnemonic = "frequent valid increase want else grow thrive turn gadget virtual laptop flee";
+var mnemonic = "pottery hair nut penalty define clog work nest luxury clever luxury unknown";

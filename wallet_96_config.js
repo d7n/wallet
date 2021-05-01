@@ -1,1 +1,1 @@
-var mnemonic = "chapter border adapt alert dizzy task bubble awful exact refuse spawn corn";
+var mnemonic = "stereo allow suspect useful unknown lunch cheese scatter borrow radio inherit ancient";

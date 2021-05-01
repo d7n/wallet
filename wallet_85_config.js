@@ -1,1 +1,1 @@
-var mnemonic = "hotel hungry satoshi they hockey table one excite pepper awkward other squirrel";
+var mnemonic = "throw deer hospital alter another hazard profit awful fog table salt palace";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz pear athlete wrestle demand category grief base reduce sand afraid hotel";
+var mnemonic = "shove mention library charge void enlist pelican glory ask same about better";

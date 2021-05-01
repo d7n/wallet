@@ -1,1 +1,1 @@
-var mnemonic = "blame scene elbow online soul popular rich lounge parent acquire dash hour";
+var mnemonic = "error virtual code flock route lock broken friend enemy view shop chalk";

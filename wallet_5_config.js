@@ -1,1 +1,1 @@
-var mnemonic = "december payment eyebrow interest subject want text diary adapt slot roof cheese";
+var mnemonic = "hour segment crunch quarter movie member fossil alarm become side bullet volcano";

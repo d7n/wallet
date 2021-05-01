@@ -1,1 +1,1 @@
-var mnemonic = "connect impulse friend dwarf review reject else blossom alley rail creek ribbon";
+var mnemonic = "buyer unhappy inject yard iron recall tornado mechanic piece review token action";

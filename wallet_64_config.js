@@ -1,1 +1,1 @@
-var mnemonic = "grunt draft female garage surprise silver punch quit first hurry crew dance";
+var mnemonic = "squirrel olympic year fat woman twin thumb wisdom sudden require wheat inmate";

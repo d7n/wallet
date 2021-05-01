@@ -1,1 +1,1 @@
-var mnemonic = "adult space quote twice pudding build blue initial minor ramp cake airport";
+var mnemonic = "physical random screen involve pudding flat bargain ladder clever kick anger tunnel";

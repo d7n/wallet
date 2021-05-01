@@ -1,1 +1,1 @@
-var mnemonic = "leg cook pulse used asset useless step seven agree raise local element";
+var mnemonic = "piece sponsor crater donkey spirit rail bleak book reason radio hunt produce";

@@ -1,1 +1,1 @@
-var mnemonic = "please enable fat frame future increase start adjust topple rail legal civil";
+var mnemonic = "purpose flip real drum patrol discover nest country throw unable episode object";

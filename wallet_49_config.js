@@ -1,1 +1,1 @@
-var mnemonic = "frog drama client choice unfold garbage brain fragile orphan dust nerve switch";
+var mnemonic = "drift garment bullet nerve deliver skill version aerobic around shop whip slide";

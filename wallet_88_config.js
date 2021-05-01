@@ -1,1 +1,1 @@
-var mnemonic = "isolate emerge again opera owner avoid party film violin eagle dirt small";
+var mnemonic = "novel picnic climb coffee vault nest rapid cart neck physical monster private";

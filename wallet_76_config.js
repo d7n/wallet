@@ -1,1 +1,1 @@
-var mnemonic = "pretty orbit crash bitter meadow case round ten faculty define gift camera";
+var mnemonic = "zoo peanut thought expose blanket wrestle plug whale jacket baby nose rough";

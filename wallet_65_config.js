@@ -1,1 +1,1 @@
-var mnemonic = "film bar language blast glove oil crawl unhappy attitude certain easy chase";
+var mnemonic = "coil tomato flat flee planet monitor farm delay indoor equal frame limb";

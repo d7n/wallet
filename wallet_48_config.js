@@ -1,1 +1,1 @@
-var mnemonic = "connect spice sing grant order ensure cement cash demand wrap defense brown";
+var mnemonic = "suspect vague ecology potato athlete tired elephant inner flavor toast garage feel";

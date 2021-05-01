@@ -1,1 +1,1 @@
-var mnemonic = "capable any noble favorite bicycle boat tenant scissors brown thumb target pudding";
+var mnemonic = "feature rebuild future cricket tuna alter other cruel fork happy burden matrix";

@@ -1,1 +1,1 @@
-var mnemonic = "under unhappy judge neutral differ unfold then final example income violin uncover";
+var mnemonic = "catalog sphere ski unusual foster evoke kangaroo recipe differ require divide session";

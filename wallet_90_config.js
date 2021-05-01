@@ -1,1 +1,1 @@
-var mnemonic = "planet eager eagle sleep satoshi funny stove emerge private one inject hub";
+var mnemonic = "marine invite gold scrap private accuse butter oxygen champion skull boss cry";

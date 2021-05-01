@@ -1,1 +1,1 @@
-var mnemonic = "reason taste usage muscle moon youth day crash chief inside woman patch";
+var mnemonic = "crisp laugh false cousin hollow copper illegal advice awful only oyster suffer";

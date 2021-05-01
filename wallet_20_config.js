@@ -1,1 +1,1 @@
-var mnemonic = "sad market smooth glow injury juice blind design gun true manual answer";
+var mnemonic = "shrimp inquiry shock engage drum clump decrease price enough twist tennis method";

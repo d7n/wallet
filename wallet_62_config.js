@@ -1,1 +1,1 @@
-var mnemonic = "crunch dizzy fish dinner brush try helmet safe crumble talk orbit ozone";
+var mnemonic = "spy flower upset jungle pond wide laptop twice frown exit film kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "collect catch embark verb balance excuse imitate cook warm pole keen space";
+var mnemonic = "sound fortune broccoli minimum luggage quantum brother proud ceiling onion rough charge";

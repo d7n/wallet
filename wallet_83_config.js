@@ -1,1 +1,1 @@
-var mnemonic = "course round coil oven essay swift intact toss hobby mimic renew verify";
+var mnemonic = "eagle opinion diary conduct cinnamon vault diamond noble despair march burden siren";

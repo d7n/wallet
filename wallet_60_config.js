@@ -1,1 +1,1 @@
-var mnemonic = "thunder tonight attend old birth harbor kidney boy dinosaur begin nephew window";
+var mnemonic = "security dish undo excite large ivory parrot people leave delay tribe rice";

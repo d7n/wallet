@@ -1,1 +1,1 @@
-var mnemonic = "next town romance dirt version throw angle trip arch hip snap refuse";
+var mnemonic = "december reason method sauce copper cabbage fish kind define absurd what volcano";

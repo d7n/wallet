@@ -1,1 +1,1 @@
-var mnemonic = "melody bitter cave comfort kingdom mango clock help slice tent poverty upset";
+var mnemonic = "grid dirt shuffle few harbor dinosaur own stairs nominee crisp oppose taste";

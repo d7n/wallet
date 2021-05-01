@@ -1,1 +1,1 @@
-var mnemonic = "peace mistake mutual deposit soccer minimum tank afford adapt dismiss agree solid";
+var mnemonic = "empower palm genuine avoid grocery skate pen duty result resource venture tragic";

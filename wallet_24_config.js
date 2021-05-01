@@ -1,1 +1,1 @@
-var mnemonic = "honey liberty guess kick bread this veteran tackle share river art kidney";
+var mnemonic = "address proof useless recall tone leopard tired slim reflect awake hold bacon";

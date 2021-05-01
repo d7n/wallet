@@ -1,1 +1,1 @@
-var mnemonic = "chat possible hawk pole power evil report earth alien south vanish chaos";
+var mnemonic = "artefact loyal crucial space lava citizen trend name finish color repeat lottery";

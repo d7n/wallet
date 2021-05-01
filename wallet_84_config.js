@@ -1,1 +1,1 @@
-var mnemonic = "rubber swift leave custom episode stem muscle tissue prize possible update warm";
+var mnemonic = "call jump afford virus else warm runway dizzy great color pull replace";

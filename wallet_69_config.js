@@ -1,1 +1,1 @@
-var mnemonic = "water arctic supreme catalog pretty actual attitude clump carbon approve simple swap";
+var mnemonic = "width trick series budget pepper hunt rapid outside pink sauce slim unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "fury unknown faculty desk pool cake stage isolate comic noodle victory source";
+var mnemonic = "team female ostrich web direct require sign engine ride burst weird predict";

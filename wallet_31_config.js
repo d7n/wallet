@@ -1,1 +1,1 @@
-var mnemonic = "fish business relief rice rent stereo winter stem shiver there luxury gap";
+var mnemonic = "lizard gesture will fit wide lab echo photo route lady keen clarify";

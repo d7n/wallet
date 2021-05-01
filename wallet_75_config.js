@@ -1,1 +1,1 @@
-var mnemonic = "scale defense book popular trim observe love output example submit convince over";
+var mnemonic = "donkey spice fiscal spoil spell powder alarm scale broken height peanut boss";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol round bargain rich again flag dove sudden galaxy mail rent mule";
+var mnemonic = "movie dynamic flush used public dwarf salon pepper work alarm reveal bar";

@@ -1,1 +1,1 @@
-var mnemonic = "animal clay bachelor blade script lyrics repair name day stage warrior wet";
+var mnemonic = "present embrace nasty tape alpha coast clump gun connect mandate rule arm";

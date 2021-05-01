@@ -1,1 +1,1 @@
-var mnemonic = "pelican invite idle sweet trust phone grace open poem rug allow civil";
+var mnemonic = "box emotion used spice promote original involve slam upper brief title antique";

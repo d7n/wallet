@@ -1,1 +1,1 @@
-var mnemonic = "scatter soul enrich scheme absurd lab logic doll strategy hungry clerk naive";
+var mnemonic = "very web expect perfect tortoise about utility slight cigar novel news swallow";

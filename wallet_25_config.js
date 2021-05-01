@@ -1,1 +1,1 @@
-var mnemonic = "poverty team bind mean airport guess chat chief comfort iron rapid credit";
+var mnemonic = "injury fiber curve smile advance two explain garlic echo thumb leopard invite";

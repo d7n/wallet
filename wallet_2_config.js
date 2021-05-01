@@ -1,1 +1,1 @@
-var mnemonic = "wink misery stand labor sorry sphere join casual poverty drift crane sister";
+var mnemonic = "anger sight size follow zero lend ribbon ignore inside isolate unusual reason";

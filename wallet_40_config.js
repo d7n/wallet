@@ -1,1 +1,1 @@
-var mnemonic = "essence worth spare steak drum vocal urge copy accident safe manage mixture";
+var mnemonic = "cup cotton horror pudding shift satisfy crawl distance today glove risk adapt";

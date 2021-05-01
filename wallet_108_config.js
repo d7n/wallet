@@ -1,1 +1,1 @@
-var mnemonic = "portion evidence garbage bunker call letter romance brisk used hero net hat";
+var mnemonic = "mesh two maze equal venture avocado volcano laptop rebel rather ranch ocean";

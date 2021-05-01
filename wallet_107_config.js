@@ -1,1 +1,1 @@
-var mnemonic = "repair hello soda mercy miss lamp cool replace boring ethics fatigue tooth";
+var mnemonic = "hybrid response affair pattern orbit ice sheriff sunset ghost favorite pottery saddle";

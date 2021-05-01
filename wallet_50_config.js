@@ -1,1 +1,1 @@
-var mnemonic = "awkward volume kid avocado credit include main access wing remember doctor twin";
+var mnemonic = "bonus glue chaos crop sign furnace fly diagram remind ecology lunar grape";

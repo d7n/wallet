@@ -1,1 +1,1 @@
-var mnemonic = "then slow toilet people deposit conduct jump carbon uncle focus trumpet off";
+var mnemonic = "market laundry cabbage replace spy giraffe satisfy engage program side enroll judge";

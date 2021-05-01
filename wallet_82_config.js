@@ -1,1 +1,1 @@
-var mnemonic = "whip machine stable grace thrive replace spawn release seat melody menu side";
+var mnemonic = "code diet clerk apart purchase left output transfer skirt define key guess";

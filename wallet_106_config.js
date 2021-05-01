@@ -1,1 +1,1 @@
-var mnemonic = "spider goose render into exotic phone pretty mango ball fashion thrive steel";
+var mnemonic = "size net zone voice practice cereal vague stadium unlock stone brown lend";

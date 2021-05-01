@@ -1,1 +1,1 @@
-var mnemonic = "huge panel plastic praise eternal turkey merge raccoon calm seat net lyrics";
+var mnemonic = "census deputy athlete helmet ski toilet either flush cradle hover soldier arena";

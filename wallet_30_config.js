@@ -1,1 +1,1 @@
-var mnemonic = "winter tuition impact quality siege zebra track metal tourist health royal gallery";
+var mnemonic = "say vicious wolf bar series mad gallery ethics moral dignity dish rocket";

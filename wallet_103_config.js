@@ -1,1 +1,1 @@
-var mnemonic = "live sustain culture sibling figure clean among rifle trigger custom test receive";
+var mnemonic = "current public unable roast museum cloth become diagram basket myth fabric crop";

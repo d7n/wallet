@@ -1,1 +1,1 @@
-var mnemonic = "sail candy jacket benefit rhythm wreck inside coconut robot library drive thought";
+var mnemonic = "pride dinosaur crazy caution trade window small axis flat dress response stuff";

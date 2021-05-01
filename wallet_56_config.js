@@ -1,1 +1,1 @@
-var mnemonic = "pride wool craft pumpkin canal addict capital refuse various enact skin horn";
+var mnemonic = "patient shift keen cactus core salad memory twin toss dial apart spring";

@@ -1,1 +1,1 @@
-var mnemonic = "circle vicious barely physical vivid trouble view follow stage junk saddle shadow";
+var mnemonic = "put chicken point online devote there hand alpha problem sleep bitter useful";

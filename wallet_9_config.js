@@ -1,1 +1,1 @@
-var mnemonic = "blush legal slight shoulder sponsor medal version pupil bounce hurdle general tiny";
+var mnemonic = "taste olympic gentle impulse conduct column payment suspect ill ball roast arrange";

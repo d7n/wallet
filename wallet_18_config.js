@@ -1,1 +1,1 @@
-var mnemonic = "amused ice science muffin mouse dad reflect sorry business venture dog moment";
+var mnemonic = "loud slow tattoo suffer security car account eager enrich kiss armed enact";

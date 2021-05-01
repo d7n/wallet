@@ -1,1 +1,1 @@
-var mnemonic = "window used possible tilt rabbit birth pitch enter riot someone large hidden";
+var mnemonic = "poet conduct dish seat cabbage property scrap network top unfold sand butter";

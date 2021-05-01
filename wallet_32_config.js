@@ -1,1 +1,1 @@
-var mnemonic = "senior arch stove chalk empty stamp pilot chapter fragile control hunt sight";
+var mnemonic = "canal detail suspect inflict crater athlete aunt loyal rebel film provide senior";

@@ -1,1 +1,1 @@
-var mnemonic = "bird vibrant liquid sample hotel entry coin cousin attitude this bounce patrol";
+var mnemonic = "eternal buyer empower left price wave certain neither security lion milk win";

@@ -1,1 +1,1 @@
-var mnemonic = "credit raise cube phone garment alpha mosquito swing manual hen long raise";
+var mnemonic = "dust inflict busy rescue such logic march slide solution square once media";

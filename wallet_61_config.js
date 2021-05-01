@@ -1,1 +1,1 @@
-var mnemonic = "garlic custom audit actress math reunion panic convince claw tackle clock april";
+var mnemonic = "despair pottery hobby reflect want coast waste enroll candy couple sad year";

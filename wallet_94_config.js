@@ -1,1 +1,1 @@
-var mnemonic = "bless crop fat eager harsh mixture off diamond multiply leopard advice enlist";
+var mnemonic = "undo step author gaze trim match define saddle thought taste high couple";

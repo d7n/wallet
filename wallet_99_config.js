@@ -1,1 +1,1 @@
-var mnemonic = "turkey emotion myself answer antenna convince test drip afraid shoulder bike purchase";
+var mnemonic = "eager shed earn cement cart average employ clerk city naive unveil strike";

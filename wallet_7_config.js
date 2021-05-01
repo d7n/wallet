@@ -1,1 +1,1 @@
-var mnemonic = "miss cycle shoe like cotton orphan elevator prosper ride pitch glow that";
+var mnemonic = "clip leaf obtain side rival fire inch supply west machine first future";

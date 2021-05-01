@@ -1,1 +1,1 @@
-var mnemonic = "forest shuffle cruel regular multiply stick typical cube copper april illegal coyote";
+var mnemonic = "twenty jungle human myth text elbow pond volcano struggle argue guard relax";

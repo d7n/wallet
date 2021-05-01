@@ -1,1 +1,1 @@
-var mnemonic = "concert way ethics sentence lizard grit approve cable item employ rigid lonely";
+var mnemonic = "chicken program census silk glimpse glare flash off nut child seminar lonely";

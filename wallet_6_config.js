@@ -1,1 +1,1 @@
-var mnemonic = "rebel crisp kiwi account amazing beach theme congress promote cry face fee";
+var mnemonic = "salmon level future dress broom ugly extra salon test immense blood define";
