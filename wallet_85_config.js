@@ -1,1 +1,1 @@
-var mnemonic = "public motion head canoe still marine taste rule alien ladder melt oval";
+var mnemonic = "claw clown suggest seven picture snake arch issue van jewel pilot pool";

@@ -1,1 +1,1 @@
-var mnemonic = "journey test brick slush sausage collect assume since hazard water vapor fruit";
+var mnemonic = "pilot auction mobile purchase shop brand girl fresh element member loan theme";

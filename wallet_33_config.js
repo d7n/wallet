@@ -1,1 +1,1 @@
-var mnemonic = "door pig two enough economy donor audit please furnace tongue relax wine";
+var mnemonic = "gasp sail cigar like divorce display awesome run used remove melody tonight";

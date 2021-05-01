@@ -1,1 +1,1 @@
-var mnemonic = "round differ hidden clog then junk expire wreck wine own cost true";
+var mnemonic = "concert mind goat mango entire antenna news addict hole bleak family boat";

@@ -1,1 +1,1 @@
-var mnemonic = "industry stand damp carpet aerobic insect explain prevent baby amused section tell";
+var mnemonic = "rely swarm base welcome ticket title consider absent escape fetch sunny oak";

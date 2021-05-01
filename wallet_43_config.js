@@ -1,1 +1,1 @@
-var mnemonic = "scheme satoshi shoulder volcano fragile twenty moral play oven explain pact agree";
+var mnemonic = "mule december link voice mom forward churn bleak hub opinion spatial desk";

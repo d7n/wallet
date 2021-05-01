@@ -1,1 +1,1 @@
-var mnemonic = "require inhale hunt owner auction delay display aisle near become false luxury";
+var mnemonic = "slim weapon suspect spoil claim alien lock coil mail cereal party mechanic";

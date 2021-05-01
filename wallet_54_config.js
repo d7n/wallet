@@ -1,1 +1,1 @@
-var mnemonic = "review rough depend van honey price artist banana exhaust double excite turtle";
+var mnemonic = "record wild lake goose world maze swallow text match parrot shuffle coach";

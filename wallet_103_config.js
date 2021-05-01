@@ -1,1 +1,1 @@
-var mnemonic = "submit ghost brave air machine oyster lazy another paddle account kitchen toast";
+var mnemonic = "stamp inmate early raise equal horror crime insect vehicle rubber swim east";

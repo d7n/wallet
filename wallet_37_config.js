@@ -1,1 +1,1 @@
-var mnemonic = "unique clap tool lens october glad update broccoli unfold produce behind arrange";
+var mnemonic = "garage patch teach bench armed pass final monster skull coffee credit bicycle";

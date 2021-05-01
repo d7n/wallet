@@ -1,1 +1,1 @@
-var mnemonic = "dog animal bitter evolve damp mixture burden cactus chronic soldier grid only";
+var mnemonic = "clown jungle penalty leg more smoke about million gravity wonder connect poem";

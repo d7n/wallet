@@ -1,1 +1,1 @@
-var mnemonic = "erosion tool water lyrics tooth emerge change wasp liberty toilet rigid flat";
+var mnemonic = "trial alpha tone empower panic hill dismiss wide puppy creek must harbor";

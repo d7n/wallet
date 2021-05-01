@@ -1,1 +1,1 @@
-var mnemonic = "rose soldier curious ramp pet attend whale used boy require around eternal";
+var mnemonic = "seven split insect crack dumb describe latin lucky ginger onion act actor";

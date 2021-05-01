@@ -1,1 +1,1 @@
-var mnemonic = "nature crane sister nest aunt retire dismiss solution people indoor evidence young";
+var mnemonic = "check carpet weekend print lemon faint worry cake find carbon bright arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "once cloud wasp link welcome problem oval grunt rent swallow ignore trim";
+var mnemonic = "they jump glance domain river require bulk olive town addict ivory culture";

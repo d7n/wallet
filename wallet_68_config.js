@@ -1,1 +1,1 @@
-var mnemonic = "warm issue autumn clutch need castle useless already trim have license type";
+var mnemonic = "swear blast minimum source faculty must since review solve burden ghost settle";

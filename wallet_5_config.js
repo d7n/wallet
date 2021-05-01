@@ -1,1 +1,1 @@
-var mnemonic = "pony salad tag fold lab range cruel rocket marriage museum eye gap";
+var mnemonic = "output input reopen swim false exact fan clock tiger garden daring chair";

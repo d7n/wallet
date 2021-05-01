@@ -1,1 +1,1 @@
-var mnemonic = "ask torch beyond night jealous wood donate excess milk mesh save dog";
+var mnemonic = "quick broccoli banana wrestle come spatial scene rude gloom rule skin major";

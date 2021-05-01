@@ -1,1 +1,1 @@
-var mnemonic = "life genuine morning empty spare size ski buffalo battle faith input bid";
+var mnemonic = "water pottery candy husband potato piano file derive seminar check main bargain";

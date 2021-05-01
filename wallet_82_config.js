@@ -1,1 +1,1 @@
-var mnemonic = "day wealth resource athlete false drop bonus all space spider letter beauty";
+var mnemonic = "quick kick source spring silly mechanic army desert airport boat rib fringe";

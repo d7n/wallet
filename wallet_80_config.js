@@ -1,1 +1,1 @@
-var mnemonic = "lonely fence shaft whip gather harsh grab security split never oak dumb";
+var mnemonic = "private capable asthma cook arrange pencil deliver van dilemma uncle casual ensure";

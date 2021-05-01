@@ -1,1 +1,1 @@
-var mnemonic = "blame section lava prepare inmate reopen finger moon auction adult suspect year";
+var mnemonic = "tonight hurdle century hospital ill decade fancy welcome educate toward clarify delay";

@@ -1,1 +1,1 @@
-var mnemonic = "present crack place debate poem endorse indicate february across cake accident satisfy";
+var mnemonic = "dice come market liberty silver despair carpet much combine dog hour fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "planet main blind brisk range toward parent small wealth pottery chef cave";
+var mnemonic = "purity velvet rich cheese antenna weekend opera latin adult young swift amused";

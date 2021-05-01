@@ -1,1 +1,1 @@
-var mnemonic = "transfer robust grid voyage abandon deliver renew wrestle chapter august corn parrot";
+var mnemonic = "depend history grant reunion region lemon choose orphan notable orange recall claim";

@@ -1,1 +1,1 @@
-var mnemonic = "airport island spring reject trial hamster helmet excuse shop size climb parrot";
+var mnemonic = "salt double property change include cup demise response want swear drink pistol";

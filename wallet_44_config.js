@@ -1,1 +1,1 @@
-var mnemonic = "caught wheel index age patient script before vendor knee remind grit famous";
+var mnemonic = "horn crunch quote life throw goat angle office board trend creek fog";

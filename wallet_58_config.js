@@ -1,1 +1,1 @@
-var mnemonic = "anxiety spider security push holiday depart picnic bag special october obscure firm";
+var mnemonic = "resource sock course voice switch off deal then thumb battle cause staff";

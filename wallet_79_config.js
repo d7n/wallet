@@ -1,1 +1,1 @@
-var mnemonic = "work volume later divorce unaware pattern twenty zoo head potato subject sausage";
+var mnemonic = "palace detail base lock say license pet rocket disagree exhibit purity antique";

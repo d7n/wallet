@@ -1,1 +1,1 @@
-var mnemonic = "account suit noodle rhythm price cart rack various glove glimpse civil shine";
+var mnemonic = "clinic sugar road cage state fetch panic monster liberty sport pony rebuild";

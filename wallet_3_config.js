@@ -1,1 +1,1 @@
-var mnemonic = "crouch render pluck surge earn slot rhythm benefit bundle wealth valley spin";
+var mnemonic = "rich program picture side lunar math lift negative ivory taste wood toddler";

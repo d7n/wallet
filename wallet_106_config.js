@@ -1,1 +1,1 @@
-var mnemonic = "job pave candy local mom bicycle will agent donor source excite ensure";
+var mnemonic = "verify elite raven tiny depart door drip saddle violin subway crouch case";

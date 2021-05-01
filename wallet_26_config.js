@@ -1,1 +1,1 @@
-var mnemonic = "stool network window lunar half artist laugh soul receive rule pizza trust";
+var mnemonic = "gym merit shallow link category ticket arch cactus floor famous stumble acoustic";

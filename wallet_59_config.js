@@ -1,1 +1,1 @@
-var mnemonic = "eye boost dutch lumber dust sudden hedgehog fetch lucky health motor lawsuit";
+var mnemonic = "energy account search upgrade quick demise alarm grant idea pole twice final";

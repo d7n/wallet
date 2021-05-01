@@ -1,1 +1,1 @@
-var mnemonic = "endless autumn say process regular harvest mosquito awake shed ordinary skirt find";
+var mnemonic = "stand harbor trim cram perfect cash cloud genre subject bright glow march";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter parrot bacon sing better kitten board mass vacant sunny slow year";
+var mnemonic = "hurry mom lion pride dirt burst property course hat logic age share";

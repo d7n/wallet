@@ -1,1 +1,1 @@
-var mnemonic = "embody favorite unusual add quit crane vibrant borrow problem model denial impose";
+var mnemonic = "fruit floor badge crop grape spawn mosquito robust bone twin involve own";

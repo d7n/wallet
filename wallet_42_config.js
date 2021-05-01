@@ -1,1 +1,1 @@
-var mnemonic = "bright message rug property coffee push expect want avocado stairs quiz unique";
+var mnemonic = "route fashion biology hobby soldier maximum lend glad remove spray blush oblige";

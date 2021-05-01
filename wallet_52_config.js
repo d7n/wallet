@@ -1,1 +1,1 @@
-var mnemonic = "sign retreat mean vital fault slight zebra frown income slot brain alarm";
+var mnemonic = "drift gift congress shield famous pudding help amazing midnight food kingdom dance";

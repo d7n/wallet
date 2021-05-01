@@ -1,1 +1,1 @@
-var mnemonic = "rely robust put already ocean room like cage inflict office gravity relief";
+var mnemonic = "march dinner exhibit ostrich enough loyal fox fiction absorb emotion keep glance";

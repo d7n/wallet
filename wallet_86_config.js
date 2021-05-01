@@ -1,1 +1,1 @@
-var mnemonic = "crisp segment squirrel assault medal uncle churn claim awkward real canal borrow";
+var mnemonic = "else coin chaos image violin captain screen rail turtle antique eagle worth";

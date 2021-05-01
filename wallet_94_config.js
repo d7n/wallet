@@ -1,1 +1,1 @@
-var mnemonic = "debate remind patrol quiz cool educate tuna rookie begin scheme worth auto";
+var mnemonic = "maid story ankle profit celery guard parade detail come peasant grit argue";

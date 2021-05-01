@@ -1,1 +1,1 @@
-var mnemonic = "icon cake foil veteran typical inmate awake sunny aspect tiny pencil unveil";
+var mnemonic = "disease robust waste boring topple maximum mouse tell vocal embrace vault suffer";

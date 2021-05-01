@@ -1,1 +1,1 @@
-var mnemonic = "typical cash hill anxiety soldier oval satisfy panther drop entire brother amazing";
+var mnemonic = "moral sand patch trap prosper kite banana strong tool raise trick hello";

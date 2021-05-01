@@ -1,1 +1,1 @@
-var mnemonic = "merry nominee insane traffic ramp benefit speed ability fiction reunion say trim";
+var mnemonic = "guard escape uphold crunch cause among elegant among double fit member risk";

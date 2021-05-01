@@ -1,1 +1,1 @@
-var mnemonic = "cry grant drop spread sock switch live topic dwarf sad favorite walk";
+var mnemonic = "peanut define symbol left seed chronic fragile stumble make evil balcony wife";

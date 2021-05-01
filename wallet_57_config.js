@@ -1,1 +1,1 @@
-var mnemonic = "wide tape relax dumb column prefer benefit retire invest fantasy post citizen";
+var mnemonic = "mechanic shop volume ribbon duty rude what box creek soap language capital";

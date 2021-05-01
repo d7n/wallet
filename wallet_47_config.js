@@ -1,1 +1,1 @@
-var mnemonic = "interest great long man scheme session shuffle saddle visual field loyal brave";
+var mnemonic = "captain potato digital truly mammal choose panel pistol cable palace job faint";

@@ -1,1 +1,1 @@
-var mnemonic = "cool early panic hard add ski moment rebuild oil keen mixed rail";
+var mnemonic = "hard review era outside ready foam spawn hurry flush index now below";

@@ -1,1 +1,1 @@
-var mnemonic = "pulse sustain depart obvious wire subway can night panda latin proof sunset";
+var mnemonic = "gesture merit romance ice uncover donkey green throw garbage topple together sense";

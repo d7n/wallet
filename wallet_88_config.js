@@ -1,1 +1,1 @@
-var mnemonic = "wrong sibling empower glance focus quote thought dry project claw shiver weather";
+var mnemonic = "potato harbor armed unhappy witness venture oppose light roof give unveil develop";

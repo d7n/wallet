@@ -1,1 +1,1 @@
-var mnemonic = "crew fade lawn robust depart virus rifle awkward away tube primary alpha";
+var mnemonic = "dove maid access suggest poem wash wrong attitude erase own pilot tomato";

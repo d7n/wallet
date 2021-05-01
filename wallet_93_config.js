@@ -1,1 +1,1 @@
-var mnemonic = "dizzy like original wear mirror popular mandate economy enlist session select dragon";
+var mnemonic = "claw off web swim child review aisle thank news trip inform allow";

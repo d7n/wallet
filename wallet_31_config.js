@@ -1,1 +1,1 @@
-var mnemonic = "fish canal surge enroll sponsor park pave blind humor moral jazz innocent";
+var mnemonic = "repeat angry mandate check ring like fruit civil poverty later wrestle damp";

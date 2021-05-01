@@ -1,1 +1,1 @@
-var mnemonic = "inch minute clump horn abandon image gauge hair never cause ancient snap";
+var mnemonic = "culture wish series rare smile pistol attract velvet will legal bag pencil";

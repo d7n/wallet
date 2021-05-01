@@ -1,1 +1,1 @@
-var mnemonic = "monster prosper seed insect marine hood news toe short steak cabin assist";
+var mnemonic = "train flag donate visa annual shop deposit kiwi walnut animal aerobic velvet";

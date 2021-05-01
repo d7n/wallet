@@ -1,1 +1,1 @@
-var mnemonic = "direct daring matrix jaguar broom early essence river avocado exercise shed limb";
+var mnemonic = "diagram arrest toe plate hurry neck notable surface cream pizza cool royal";

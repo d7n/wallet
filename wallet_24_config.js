@@ -1,1 +1,1 @@
-var mnemonic = "fence until loud apology client young wet crumble rural census swim cupboard";
+var mnemonic = "sunny gun essay icon conduct company purse inquiry census prefer flee focus";

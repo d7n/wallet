@@ -1,1 +1,1 @@
-var mnemonic = "present elevator glide useless leader item until panther inflict verify term tape";
+var mnemonic = "undo toe cannon claw retire discover sister input school cattle eager offer";

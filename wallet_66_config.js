@@ -1,1 +1,1 @@
-var mnemonic = "alert hard aware general burden polar debris family scrap pistol special piano";
+var mnemonic = "cycle three trick deputy lottery garment trap zoo tide skirt spider inquiry";

@@ -1,1 +1,1 @@
-var mnemonic = "weather swear parade job assault grain enhance side obtain clump jar remember";
+var mnemonic = "outside endless hammer fun napkin client truth wheat taxi satisfy crucial science";

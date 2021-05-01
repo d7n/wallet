@@ -1,1 +1,1 @@
-var mnemonic = "puppy soccer dice canal sadness will case nest struggle can zone grain";
+var mnemonic = "brief critic cat era horse yellow awesome ancient cash burger tattoo rule";

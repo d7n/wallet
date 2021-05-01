@@ -1,1 +1,1 @@
-var mnemonic = "cream genuine able boost sugar rubber cement write settle vast steak tag";
+var mnemonic = "banner screen hammer marriage give analyst video crew water key garbage tip";

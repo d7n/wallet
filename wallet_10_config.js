@@ -1,1 +1,1 @@
-var mnemonic = "east token boat health vibrant enhance inherit pill vast cave canal shield";
+var mnemonic = "social antenna tilt champion thank speak legend eyebrow swing word love begin";

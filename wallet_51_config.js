@@ -1,1 +1,1 @@
-var mnemonic = "duck leader speed vital wheel primary swim scrap latin stand badge setup";
+var mnemonic = "artwork flower bleak laptop staff rude alien join voyage car cage visual";

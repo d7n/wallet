@@ -1,1 +1,1 @@
-var mnemonic = "concert scissors owner nuclear robust cement relax motion voyage gun sunny require";
+var mnemonic = "ramp deputy any sure priority arm example athlete border meat skill scout";

@@ -1,1 +1,1 @@
-var mnemonic = "ice alter unknown dog author check vicious beyond census globe mercy universe";
+var mnemonic = "tag ship warm wealth miss mushroom input blood apple galaxy submit huge";

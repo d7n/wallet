@@ -1,1 +1,1 @@
-var mnemonic = "rule biology roof outdoor segment fatigue sadness cliff kitchen deposit fire motor";
+var mnemonic = "flower bus toss sleep pudding ethics increase host soul foot harbor despair";

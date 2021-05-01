@@ -1,1 +1,1 @@
-var mnemonic = "rigid umbrella title banana key moment interest mountain future area marriage harvest";
+var mnemonic = "disagree cabbage gorilla moon trigger narrow reject universe when steak turn gloom";

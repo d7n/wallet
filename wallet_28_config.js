@@ -1,1 +1,1 @@
-var mnemonic = "gorilla history permit slab taxi clock amazing cherry grid demand remove pause";
+var mnemonic = "neck cluster brown flower crater tornado actor capital shuffle around weather federal";

@@ -1,1 +1,1 @@
-var mnemonic = "wave easily spawn fly force swim fashion shed frog girl silk hockey";
+var mnemonic = "genuine rival random crew viable unknown secret goose record fancy pair theory";

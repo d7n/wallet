@@ -1,1 +1,1 @@
-var mnemonic = "about car gown enhance lend immune improve salmon child mystery melt cross";
+var mnemonic = "cake thought chaos voice seven prison warm all brush foil two range";

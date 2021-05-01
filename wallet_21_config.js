@@ -1,1 +1,1 @@
-var mnemonic = "victory annual region flush police royal crowd forest trash screen party welcome";
+var mnemonic = "mule relief camera badge reflect scare square airport message thrive cost mix";

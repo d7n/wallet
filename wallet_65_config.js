@@ -1,1 +1,1 @@
-var mnemonic = "group frost autumn donate degree organ sword luxury cross easily physical clinic";
+var mnemonic = "sight burger gown blood oyster search toe potato abandon sort hole cliff";

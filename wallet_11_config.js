@@ -1,1 +1,1 @@
-var mnemonic = "fluid physical run spring giggle glue area hero small candy ozone range";
+var mnemonic = "entire beauty journey addict noodle disagree next volcano sort alert armed together";

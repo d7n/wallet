@@ -1,1 +1,1 @@
-var mnemonic = "smart oppose enable beyond ostrich exotic indoor face attack permit assist gaze";
+var mnemonic = "weird hobby illegal little number garden differ tide horn talk climb hero";

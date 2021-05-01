@@ -1,1 +1,1 @@
-var mnemonic = "air buyer mean kiss throw color notable clog short inspire gain enough";
+var mnemonic = "dash ladder parrot enroll brain design change brick album noise symbol pluck";

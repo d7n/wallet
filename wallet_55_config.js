@@ -1,1 +1,1 @@
-var mnemonic = "pizza comic cloth gold avoid enhance ticket talk left art fresh leader";
+var mnemonic = "chimney video point advance motion profit spike donor twin artefact wild phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter spread tent celery glue orchard labor issue box elbow flash fame";
+var mnemonic = "sell gospel critic have emotion fruit lyrics rule high blast junior scrub";

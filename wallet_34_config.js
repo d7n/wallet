@@ -1,1 +1,1 @@
-var mnemonic = "boy capable jaguar heavy brass bubble weapon divide siren leg shaft giraffe";
+var mnemonic = "skirt spice abuse crucial volcano zero foot miss december deputy dove route";

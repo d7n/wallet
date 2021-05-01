@@ -1,1 +1,1 @@
-var mnemonic = "update until square doctor situate unveil music outdoor few just lazy blossom";
+var mnemonic = "health trend immune dentist used pattern sheriff stock make rack width off";

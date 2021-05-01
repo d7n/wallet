@@ -1,1 +1,1 @@
-var mnemonic = "tongue cheese slight accuse know spring entry open cargo quick minimum fury";
+var mnemonic = "retire employ aim gas payment pipe praise enter time entry together man";

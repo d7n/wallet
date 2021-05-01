@@ -1,1 +1,1 @@
-var mnemonic = "fuel large flip security chief enlist omit cinnamon now cook system wait";
+var mnemonic = "spring treat item drop employ raise stand festival fossil retreat region guess";

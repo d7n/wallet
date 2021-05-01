@@ -1,1 +1,1 @@
-var mnemonic = "popular army sad basic bid surprise lake retire miracle battle cloud reward";
+var mnemonic = "turtle twice steel fatigue giraffe marble divert charge mother dust scare still";

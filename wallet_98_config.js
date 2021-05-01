@@ -1,1 +1,1 @@
-var mnemonic = "pause essence diet enhance isolate toddler cloud ranch forward convince turkey attitude";
+var mnemonic = "eager live doll siren inhale worry brick bone same thing doctor viable";

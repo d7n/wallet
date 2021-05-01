@@ -1,1 +1,1 @@
-var mnemonic = "above machine float warfare pledge bean truly eternal hockey attack theme brass";
+var mnemonic = "useful current worth employ tiny truck round person shallow audit inflict swing";

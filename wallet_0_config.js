@@ -1,1 +1,1 @@
-var mnemonic = "bright universe prosper slender timber element try enforce analyst angle sea own";
+var mnemonic = "cricket wink lawsuit lift tired behind axis allow tongue family net ozone";

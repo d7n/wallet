@@ -1,1 +1,1 @@
-var mnemonic = "struggle old anxiety destroy cheese cry ecology pride core ball fish reward";
+var mnemonic = "squeeze praise teach rely love arctic damage surround obscure surprise park weekend";

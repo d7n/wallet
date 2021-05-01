@@ -1,1 +1,1 @@
-var mnemonic = "modify bind mercy wood add visit traffic flock photo urban sorry seat";
+var mnemonic = "what veteran promote stock kidney satisfy daughter vacant urban negative soap praise";
