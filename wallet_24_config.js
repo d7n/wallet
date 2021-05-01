@@ -1,1 +1,1 @@
-var mnemonic = "merry elegant dream two melt pottery old price crystal fall payment hedgehog";
+var mnemonic = "caught hub advance time comic area want topic result popular sword forum";

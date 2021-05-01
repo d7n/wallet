@@ -1,1 +1,1 @@
-var mnemonic = "coast color fuel health loyal volcano client hurry pudding display squeeze owner";
+var mnemonic = "eyebrow bless inquiry undo mind detect proof bike runway staff distance pistol";

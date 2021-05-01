@@ -1,1 +1,1 @@
-var mnemonic = "parade maximum below firm address tenant digital title shuffle narrow spike limb";
+var mnemonic = "one inch flavor question solution multiply live party security coast define satoshi";

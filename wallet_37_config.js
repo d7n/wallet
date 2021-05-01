@@ -1,1 +1,1 @@
-var mnemonic = "school bracket camp myself zoo cheese truly garment unfold purse since outside";
+var mnemonic = "field seminar multiply melt turkey rebuild ready dad news manual vocal ring";

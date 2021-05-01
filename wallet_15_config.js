@@ -1,1 +1,1 @@
-var mnemonic = "hamster mix waste kangaroo side appear master crawl couple plug example gauge";
+var mnemonic = "yard endless execute lens sunny about era unique fashion swear roof unhappy";

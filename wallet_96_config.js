@@ -1,1 +1,1 @@
-var mnemonic = "valve lawn school phone practice lawsuit beauty post tiger vote aerobic weapon";
+var mnemonic = "vicious veteran immense suspect kingdom taxi surprise repeat tissue nominee curious rigid";

@@ -1,1 +1,1 @@
-var mnemonic = "youth trap urge amateur cost head pink battle fall empty cabbage prepare";
+var mnemonic = "alpha apple melt jealous onion fresh galaxy advance plunge spread paper coffee";

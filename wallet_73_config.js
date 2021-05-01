@@ -1,1 +1,1 @@
-var mnemonic = "more merry pave crouch execute humble walnut rebel symbol gate discover digital";
+var mnemonic = "furnace romance question drill prosper make midnight clog unhappy boat engine screen";

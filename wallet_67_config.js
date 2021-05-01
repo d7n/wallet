@@ -1,1 +1,1 @@
-var mnemonic = "hope farm drill unit accident liquid abuse rely tent awful ticket keep";
+var mnemonic = "black potato captain riot rally perfect tomato figure alone once field rich";

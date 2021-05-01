@@ -1,1 +1,1 @@
-var mnemonic = "leisure speak ahead primary party slender ribbon glory add sunny buyer invite";
+var mnemonic = "drift renew ready rug twin balance cotton large pulse excite recall soccer";

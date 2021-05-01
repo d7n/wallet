@@ -1,1 +1,1 @@
-var mnemonic = "plastic shadow mammal cabbage wood lounge jealous length order area torch wire";
+var mnemonic = "wait change artefact plug rice under feel fit media wrong image drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "brain ring suit blind rabbit shield biology trim miracle estate exotic gym";
+var mnemonic = "slim bird green zoo canvas wish horror vivid fatal raccoon print segment";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive crime distance move key know close one empty cream across dance";
+var mnemonic = "hero daughter minimum lens era offer still valid taste smoke pride aunt";

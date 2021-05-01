@@ -1,1 +1,1 @@
-var mnemonic = "predict obscure rifle danger citizen material game drastic rather level lawsuit lazy";
+var mnemonic = "chronic ripple quit nation fancy april cloth innocent city joy devote length";

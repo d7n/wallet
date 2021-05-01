@@ -1,1 +1,1 @@
-var mnemonic = "media follow uphold symptom trumpet silent clown raccoon height dress gravity remain";
+var mnemonic = "oppose turkey current follow glare retreat spike plunge tissue imitate chase injury";

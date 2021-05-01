@@ -1,1 +1,1 @@
-var mnemonic = "toward city intact venture improve health fetch among slice someone legend solar";
+var mnemonic = "room morning metal tooth reduce flash believe uniform picture safe curve member";

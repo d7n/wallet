@@ -1,1 +1,1 @@
-var mnemonic = "charge faculty sand ginger remain neutral ridge forward cash wreck assist twin";
+var mnemonic = "glare horse harsh tank choice orbit bar balcony mountain trade canyon exclude";

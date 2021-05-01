@@ -1,1 +1,1 @@
-var mnemonic = "frown degree lobster detail stick despair normal junior obvious leg desert garment";
+var mnemonic = "pelican dolphin budget frame special jeans mimic pyramid boss ostrich immune fresh";

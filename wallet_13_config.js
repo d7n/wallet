@@ -1,1 +1,1 @@
-var mnemonic = "erase flip false stable grow task syrup myself solar pair silver pitch";
+var mnemonic = "thing core team derive mobile must topple spawn invite legal album hint";

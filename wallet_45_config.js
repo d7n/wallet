@@ -1,1 +1,1 @@
-var mnemonic = "hurry casino elegant repair glance raven cheese box flag train inform copy";
+var mnemonic = "ill uphold exhaust drastic slab hobby cheap orchard game also cattle frown";

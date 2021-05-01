@@ -1,1 +1,1 @@
-var mnemonic = "afford success offer bright innocent acid express film anchor drill diagram amount";
+var mnemonic = "cabin rail climb begin best airport monster erupt install tackle gap effort";

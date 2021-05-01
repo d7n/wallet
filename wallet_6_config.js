@@ -1,1 +1,1 @@
-var mnemonic = "wedding enlist hill retreat guess protect where earth net depend pair flight";
+var mnemonic = "alcohol tennis left congress culture mean rifle pause mule final vast crawl";

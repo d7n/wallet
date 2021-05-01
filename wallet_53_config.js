@@ -1,1 +1,1 @@
-var mnemonic = "picnic raise rebel opera patrol bless chronic detect tattoo picture rib discover";
+var mnemonic = "spatial soccer coil nation object hello theory monster remind whisper predict awake";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator neutral loop defense bring popular gesture federal evil pledge better weasel";
+var mnemonic = "account valve nose radio hip sustain quick chat hard gauge liquid famous";

@@ -1,1 +1,1 @@
-var mnemonic = "train security pair goddess tuition rent fat draft awesome tumble october judge";
+var mnemonic = "major enact kingdom defense fix night curtain text repeat hurt thing meadow";

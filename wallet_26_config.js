@@ -1,1 +1,1 @@
-var mnemonic = "collect surge relax gossip warfare toward large task current endless main egg";
+var mnemonic = "permit lab prepare pear inmate broccoli hurry kitchen degree process walnut hour";

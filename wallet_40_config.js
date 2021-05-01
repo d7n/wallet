@@ -1,1 +1,1 @@
-var mnemonic = "hollow country mirror cost enforce language prevent arctic neutral anxiety mad country";
+var mnemonic = "icon despair staff exist suffer suggest palm apart angle traffic brief pretty";

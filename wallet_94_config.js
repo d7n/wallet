@@ -1,1 +1,1 @@
-var mnemonic = "submit pioneer finger zebra hand second filter nothing course maple board since";
+var mnemonic = "mad setup ice tennis family divorce survey trumpet plunge orphan ugly mosquito";

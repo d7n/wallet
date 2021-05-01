@@ -1,1 +1,1 @@
-var mnemonic = "ladder hello noise novel kiss judge brother alert correct unlock chest jacket";
+var mnemonic = "program produce thumb actor shock nose measure sister resemble eager employ game";

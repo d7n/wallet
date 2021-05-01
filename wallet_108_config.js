@@ -1,1 +1,1 @@
-var mnemonic = "dust resource brand tired palace corn response step salute civil snack narrow";
+var mnemonic = "total outdoor dial daughter consider appear timber vocal skill shed surge cancel";

@@ -1,1 +1,1 @@
-var mnemonic = "rose transfer final swarm trick leisure enemy high special walnut travel track";
+var mnemonic = "flame risk bonus save this pioneer fun axis twelve dinosaur reject refuse";

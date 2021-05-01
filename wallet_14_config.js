@@ -1,1 +1,1 @@
-var mnemonic = "alarm trick caution album rural sample stool blossom margin label neck target";
+var mnemonic = "erosion force select episode nation voyage wasp sign wheat enough hard street";

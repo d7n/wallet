@@ -1,1 +1,1 @@
-var mnemonic = "original gesture pudding average senior lamp team color later ride issue protect";
+var mnemonic = "sister first dance lunar crush team adjust spread fee input eyebrow cause";

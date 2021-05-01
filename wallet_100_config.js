@@ -1,1 +1,1 @@
-var mnemonic = "endorse lumber combine gather habit earn discover daring barrel slow urge knee";
+var mnemonic = "vacant detect siege bike chat knife hobby spray clay leader palm donkey";

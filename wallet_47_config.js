@@ -1,1 +1,1 @@
-var mnemonic = "device soda amazing swear insane image fox return weapon keen point behave";
+var mnemonic = "verify shadow ritual marine wrap enroll later loud shrimp direct grid open";

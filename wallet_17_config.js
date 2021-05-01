@@ -1,1 +1,1 @@
-var mnemonic = "expect you brick crop room toss basic neglect forget summer mistake salmon";
+var mnemonic = "elephant adult claw dawn beauty license ship flower awake mechanic frog door";

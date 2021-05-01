@@ -1,1 +1,1 @@
-var mnemonic = "guilt like skate early cereal blanket effort tribe hint two vital ski";
+var mnemonic = "bread liar chalk start island about order sun album ability purse glad";

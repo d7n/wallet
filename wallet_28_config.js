@@ -1,1 +1,1 @@
-var mnemonic = "among coffee join canyon science donate evolve claw inquiry adapt foil west";
+var mnemonic = "nest helmet shine frown right float recall imitate total truly critic special";

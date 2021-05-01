@@ -1,1 +1,1 @@
-var mnemonic = "reopen balcony venue valley section remove own vast potato dish reopen oven";
+var mnemonic = "uphold grit steak power sphere dune lottery age measure jungle sense onion";

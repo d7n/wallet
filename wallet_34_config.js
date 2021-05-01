@@ -1,1 +1,1 @@
-var mnemonic = "laugh deputy heavy harbor thrive nation rice useless extra follow speed toe";
+var mnemonic = "hobby sketch metal choice elevator crawl pioneer mechanic permit among mechanic topple";

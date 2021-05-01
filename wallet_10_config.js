@@ -1,1 +1,1 @@
-var mnemonic = "exile deposit split obey space unveil social onion crawl column number explain";
+var mnemonic = "metal foil venture melt wagon shoot possible invite horse jazz dentist heart";

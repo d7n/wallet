@@ -1,1 +1,1 @@
-var mnemonic = "dizzy want rubber kiwi narrow tired burger divide siege control glass crush";
+var mnemonic = "skate fine cake umbrella utility nephew juice easily cause zero wheat power";

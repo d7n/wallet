@@ -1,1 +1,1 @@
-var mnemonic = "nation program aerobic bubble liar sword evidence guard debate upgrade tent promote";
+var mnemonic = "topple key energy resource garment measure fluid churn kangaroo silk intact calm";

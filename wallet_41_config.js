@@ -1,1 +1,1 @@
-var mnemonic = "better abuse wreck imitate chicken funny hello melody lazy divorce barrel march";
+var mnemonic = "once salad snack vanish runway permit tiger zebra silly visa middle apart";

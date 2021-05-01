@@ -1,1 +1,1 @@
-var mnemonic = "genre loyal summer elevator sunset balance fan measure athlete alarm fragile situate";
+var mnemonic = "truck exclude then dilemma test save round choose celery october cargo regular";

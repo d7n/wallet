@@ -1,1 +1,1 @@
-var mnemonic = "nuclear session eyebrow alcohol view use resemble primary exhibit alcohol solar cheese";
+var mnemonic = "sense extra answer wood thunder cliff spatial space coyote level outdoor half";

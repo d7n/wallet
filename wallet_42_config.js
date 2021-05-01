@@ -1,1 +1,1 @@
-var mnemonic = "jump mean excess ski start dirt napkin donor enroll stable place economy";
+var mnemonic = "bright peace traffic exact one need sad poem spell casual wear lumber";

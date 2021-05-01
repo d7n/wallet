@@ -1,1 +1,1 @@
-var mnemonic = "rude vibrant correct vast caution harbor cry purse satoshi rib badge nurse";
+var mnemonic = "glare stable wedding melody universe capable hockey awake warrior enough engage kitten";

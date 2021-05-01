@@ -1,1 +1,1 @@
-var mnemonic = "alarm illness glow broccoli uphold wet brick image genuine surge state purchase";
+var mnemonic = "faint depend drop camera mirror quality across square fury door off palm";

@@ -1,1 +1,1 @@
-var mnemonic = "net logic dirt scout vicious truck habit rigid engage where patrol timber";
+var mnemonic = "faint health small loop solar energy tonight return agent liar sheriff tackle";

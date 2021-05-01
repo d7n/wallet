@@ -1,1 +1,1 @@
-var mnemonic = "beauty brother broken dance typical float board clump wagon seed kick gravity";
+var mnemonic = "flag easily spatial strategy under angle expose theme resource box crunch juice";

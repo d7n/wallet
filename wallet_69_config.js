@@ -1,1 +1,1 @@
-var mnemonic = "advance steel magnet energy blast smoke diagram rent lion fox utility across";
+var mnemonic = "autumn hero cruel hour enough south cat sunset rib library fire prize";

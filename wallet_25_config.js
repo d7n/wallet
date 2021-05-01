@@ -1,1 +1,1 @@
-var mnemonic = "fun foot cream answer cash run rigid april guilt cigar normal normal";
+var mnemonic = "spoil repair volcano sheriff equal powder prize sunny wealth among rule wing";

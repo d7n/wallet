@@ -1,1 +1,1 @@
-var mnemonic = "plastic chief twice stumble hotel cross polar light clarify liar render excite";
+var mnemonic = "equip appear endless furnace laptop all welcome debris bounce uphold open vessel";

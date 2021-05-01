@@ -1,1 +1,1 @@
-var mnemonic = "load kangaroo energy tired convince unknown silk again doll sock bulb aerobic";
+var mnemonic = "boil under discover view weird arch drill execute trip pumpkin sun expose";

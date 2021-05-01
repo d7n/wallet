@@ -1,1 +1,1 @@
-var mnemonic = "sketch relief praise anxiety hint core hour knife nut during bullet side";
+var mnemonic = "sorry review legend duty solar basic iron vendor bulb toddler ensure clever";

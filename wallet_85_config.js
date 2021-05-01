@@ -1,1 +1,1 @@
-var mnemonic = "load morning parent boil rather garbage mom cousin follow option actual embark";
+var mnemonic = "bounce drink tobacco slender decline oyster fatal cost cluster street robust better";

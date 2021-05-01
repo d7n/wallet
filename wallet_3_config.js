@@ -1,1 +1,1 @@
-var mnemonic = "cliff typical label deliver spin coconut sibling wall calm wasp glass earth";
+var mnemonic = "veteran cotton pear close almost entire path nerve future reopen during mobile";

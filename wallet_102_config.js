@@ -1,1 +1,1 @@
-var mnemonic = "episode lion glad foot alley margin siege slice arch unfair animal room";
+var mnemonic = "cruel harvest wall across guess sort palace mind that long shift movie";

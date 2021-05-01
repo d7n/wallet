@@ -1,1 +1,1 @@
-var mnemonic = "fashion shop spirit quiz hip session skate guilt cactus lobster advice town";
+var mnemonic = "convince program coral drink paper stove street super win erode then cereal";

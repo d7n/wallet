@@ -1,1 +1,1 @@
-var mnemonic = "tackle act popular leave luxury solar dawn keep victory cruel body risk";
+var mnemonic = "rural remember arm purity lunar develop brain discover enough discover life first";

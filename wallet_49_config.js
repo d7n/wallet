@@ -1,1 +1,1 @@
-var mnemonic = "rhythm chaos cube laptop swift suspect enable craft pet narrow pioneer allow";
+var mnemonic = "govern risk camp flock another envelope believe horn few comic churn rabbit";

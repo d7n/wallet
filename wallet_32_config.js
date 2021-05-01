@@ -1,1 +1,1 @@
-var mnemonic = "figure melody slender shock hunt cat arm below fine theme stock list";
+var mnemonic = "outside clever there universe dawn certain south cream bar junior dose loop";

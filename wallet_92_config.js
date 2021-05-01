@@ -1,1 +1,1 @@
-var mnemonic = "release asset nurse cabin harbor fiction wolf near luggage write license afford";
+var mnemonic = "joke fantasy tackle oak salon habit unique slight robot vanish someone lunch";

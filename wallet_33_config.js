@@ -1,1 +1,1 @@
-var mnemonic = "year blood glory choose enact gain topic reopen spawn output moon fetch";
+var mnemonic = "ready fine shallow empower suit sort try error baby settle thunder guard";

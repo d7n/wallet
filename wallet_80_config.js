@@ -1,1 +1,1 @@
-var mnemonic = "use void host parrot chaos situate identify stage session lazy office floor";
+var mnemonic = "high earth ill enough shy rough panther sight pill moon scatter noodle";

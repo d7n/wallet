@@ -1,1 +1,1 @@
-var mnemonic = "flip strong hill crack brief tissue alert summer repair jacket theory tool";
+var mnemonic = "exotic wing captain hip hint interest flower tube taxi clay sponsor usual";

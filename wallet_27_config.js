@@ -1,1 +1,1 @@
-var mnemonic = "tool join pottery glove wear cluster minimum wrong add crucial sister sing";
+var mnemonic = "pear stable picture lumber once danger glimpse dial gate expect nuclear eagle";

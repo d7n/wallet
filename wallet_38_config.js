@@ -1,1 +1,1 @@
-var mnemonic = "weird sock flag man list advice brain magic dismiss worth pull endorse";
+var mnemonic = "pyramid trust impulse asthma tragic lobster capable segment tell wait tool shoot";

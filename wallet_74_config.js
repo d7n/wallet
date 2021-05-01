@@ -1,1 +1,1 @@
-var mnemonic = "copy wolf hungry neither resemble raw vehicle boy labor midnight era heavy";
+var mnemonic = "donkey ghost pride youth unveil ranch bone live coyote violin grid pulse";

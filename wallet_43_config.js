@@ -1,1 +1,1 @@
-var mnemonic = "onion width hungry throw seek define fan second cargo visit powder soldier";
+var mnemonic = "tool blast toward carbon title liar attack tissue delay never custom amused";

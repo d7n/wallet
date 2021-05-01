@@ -1,1 +1,1 @@
-var mnemonic = "fly enable quote hungry comic exercise vast sauce hazard earn hero wink";
+var mnemonic = "offer quantum invite swap unfair tilt wisdom course obey core arrange sheriff";

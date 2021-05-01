@@ -1,1 +1,1 @@
-var mnemonic = "struggle reward civil law royal shoot ocean outside flock people course accuse";
+var mnemonic = "photo magnet neglect daughter short tuna ensure brisk route upper chest rhythm";

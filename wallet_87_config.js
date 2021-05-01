@@ -1,1 +1,1 @@
-var mnemonic = "siege mosquito orbit extra tobacco foot simple cousin hazard mule lounge wire";
+var mnemonic = "second juice pear cover menu ketchup ring salad alley wet venture spray";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude sorry vote sleep glue dignity unusual chief meat future decide stairs";
+var mnemonic = "tragic curtain lens spin follow post zone direct daring morning else tongue";

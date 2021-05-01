@@ -1,1 +1,1 @@
-var mnemonic = "diet huge student cheese shrug airport slab asset bar boat twenty tiger";
+var mnemonic = "battle sort dwarf utility laugh verify room multiply credit force genre essence";

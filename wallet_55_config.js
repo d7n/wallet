@@ -1,1 +1,1 @@
-var mnemonic = "river mercy miracle frozen only mansion wrestle deputy comfort mistake between trap";
+var mnemonic = "transfer hammer despair apart into mushroom occur negative core knock vague noble";

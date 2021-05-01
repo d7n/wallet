@@ -1,1 +1,1 @@
-var mnemonic = "lobster express must novel guard utility gas change eye album urge guilt";
+var mnemonic = "disagree express allow turtle effort knife cake tube erase merge suffer banana";

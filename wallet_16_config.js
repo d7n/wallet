@@ -1,1 +1,1 @@
-var mnemonic = "poverty front round tent impact toss always round expand injury dismiss finger";
+var mnemonic = "world recycle jump cricket improve idea luggage same twist demand sword noble";

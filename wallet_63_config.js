@@ -1,1 +1,1 @@
-var mnemonic = "uncle resist panther donkey empower piece observe parent print flash miss indoor";
+var mnemonic = "color major scene van choice invite seven agree grant fitness universe cover";

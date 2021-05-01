@@ -1,1 +1,1 @@
-var mnemonic = "blouse heavy parent embody mimic repair mix share radio figure cherry dentist";
+var mnemonic = "invite frown pitch inherit pretty nation hope wife member boring cart play";

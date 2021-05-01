@@ -1,1 +1,1 @@
-var mnemonic = "firm abstract armor usage glass crouch power dash crop earth cricket old";
+var mnemonic = "purpose blame rough song neutral equal venue hill blur help hotel clown";

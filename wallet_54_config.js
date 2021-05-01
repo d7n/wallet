@@ -1,1 +1,1 @@
-var mnemonic = "behind fruit business fashion slogan ball rapid treat table virus above void";
+var mnemonic = "juice wait network wise flush cigar spare mail atom prepare wall addict";

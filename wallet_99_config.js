@@ -1,1 +1,1 @@
-var mnemonic = "kid custom where slam cabin fiscal wing mountain camp secret gown kit";
+var mnemonic = "jacket copper sand elite few stadium firm ten sick typical wing predict";

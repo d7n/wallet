@@ -1,1 +1,1 @@
-var mnemonic = "filter video hotel more industry diamond royal walnut control real mind woman";
+var mnemonic = "save pupil abuse human elephant air music drastic pause ripple boring subway";

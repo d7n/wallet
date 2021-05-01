@@ -1,1 +1,1 @@
-var mnemonic = "chalk busy arrow ranch donate total venue laundry reunion mom alone spring";
+var mnemonic = "end swamp hungry unlock flash body cat same aisle room agree song";

@@ -1,1 +1,1 @@
-var mnemonic = "lamp they turn portion lava price idle deer under rabbit evil gallery";
+var mnemonic = "glance proud inhale absorb day slight phone right add machine oblige loud";

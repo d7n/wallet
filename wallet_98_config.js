@@ -1,1 +1,1 @@
-var mnemonic = "account lemon park extend light elite bracket receive dinner mango emotion license";
+var mnemonic = "can lock merry grocery island prison tail area embody lobster cactus error";

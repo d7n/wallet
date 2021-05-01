@@ -1,1 +1,1 @@
-var mnemonic = "similar finger light night series fix common much high guess pact green";
+var mnemonic = "grass put dilemma word hold more tomato marriage setup mix angry gossip";

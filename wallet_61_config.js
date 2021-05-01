@@ -1,1 +1,1 @@
-var mnemonic = "force shine leave original since actress hip disorder night breeze congress type";
+var mnemonic = "egg vacuum keep evidence snack letter frame gate mix rough avoid pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "pen visa mansion shiver distance basic trade matter movie shadow stereo opera";
+var mnemonic = "merry chapter visit seek flee blush choose genre fruit wisdom traffic arrive";

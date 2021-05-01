@@ -1,1 +1,1 @@
-var mnemonic = "world force debate member destroy olive alien decade code document angry clever";
+var mnemonic = "torch scene demand chief aspect absurd bargain real lamp rug one inmate";

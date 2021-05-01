@@ -1,1 +1,1 @@
-var mnemonic = "just faint help income grace stadium extend asset marine fee gossip fresh";
+var mnemonic = "wine flee rude expire lock dice ketchup jewel dash grief brass aerobic";

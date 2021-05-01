@@ -1,1 +1,1 @@
-var mnemonic = "aim fashion illegal summer space matrix miss cart alone sentence gown good";
+var mnemonic = "print around wagon slim much impulse detect penalty issue century menu attend";
