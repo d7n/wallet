@@ -1,1 +1,1 @@
-var mnemonic = "solve bamboo trouble tide fashion rent scan rescue island walk source clock";
+var mnemonic = "live vapor beef feed spin elite seminar jungle work marble poverty math";

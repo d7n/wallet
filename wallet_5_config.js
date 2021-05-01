@@ -1,1 +1,1 @@
-var mnemonic = "chicken void dwarf alter illegal move april page trash rent december swing";
+var mnemonic = "scene because harbor old kite excess wheat inch replace piano hand ski";

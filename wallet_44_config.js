@@ -1,1 +1,1 @@
-var mnemonic = "episode settle rapid kidney potato eyebrow wage welcome good mango before mirror";
+var mnemonic = "debris present iron display elite divert poverty end split hip club skirt";

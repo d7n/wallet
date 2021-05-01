@@ -1,1 +1,1 @@
-var mnemonic = "fluid hedgehog dentist nerve paddle joy upset metal fringe aim merit sustain";
+var mnemonic = "liberty nuclear brother inform night super kick gate transfer can spread dad";

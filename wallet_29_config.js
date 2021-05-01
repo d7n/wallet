@@ -1,1 +1,1 @@
-var mnemonic = "icon candy gasp expose beef rely goose purity capital answer image office";
+var mnemonic = "fancy relief smooth rich salon equip risk runway bread finger vote autumn";

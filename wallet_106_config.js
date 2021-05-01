@@ -1,1 +1,1 @@
-var mnemonic = "digital claim sketch smooth miracle opera faith ticket couple total intact dignity";
+var mnemonic = "below despair bird coffee sauce nose royal throw hub enough carbon motor";

@@ -1,1 +1,1 @@
-var mnemonic = "damp news physical diesel draw aim noodle soda damp news abuse defy";
+var mnemonic = "focus vibrant mail focus visual remain ball buffalo galaxy face code jump";

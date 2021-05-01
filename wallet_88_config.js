@@ -1,1 +1,1 @@
-var mnemonic = "idea achieve stumble youth crouch piece replace rough penalty glide paddle carbon";
+var mnemonic = "expand rapid museum output mad car they tragic stamp arrest dog coconut";

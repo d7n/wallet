@@ -1,1 +1,1 @@
-var mnemonic = "cause lend fossil provide display polar differ black gauge upon raccoon crew";
+var mnemonic = "antique hover detail weather senior grace unfair corn talent pumpkin axis join";

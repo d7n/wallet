@@ -1,1 +1,1 @@
-var mnemonic = "ask feel green future coast clay shield delay vague any click dynamic";
+var mnemonic = "mind voice track hungry void animal warrior buyer move razor cup route";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage phrase fork sample transfer aim boil wisdom wise verify whisper slab";
+var mnemonic = "kiss gather hip science clinic supreme middle sniff animal ignore rough large";

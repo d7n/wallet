@@ -1,1 +1,1 @@
-var mnemonic = "repeat bar reform noise valid entry steak payment jungle allow endless rebuild";
+var mnemonic = "dynamic absent celery field office lottery sunset clerk tape wine fly journey";

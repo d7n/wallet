@@ -1,1 +1,1 @@
-var mnemonic = "number pen pepper pulse path ordinary blouse sphere turn lake device alcohol";
+var mnemonic = "struggle diet relief used warrior process walk topic educate you edit mirror";

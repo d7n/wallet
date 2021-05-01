@@ -1,1 +1,1 @@
-var mnemonic = "pact run father urge memory mom base venture glory also denial hand";
+var mnemonic = "acid summer rice forget stem myth athlete stone feel loud follow reject";

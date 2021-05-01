@@ -1,1 +1,1 @@
-var mnemonic = "bean enact uphold notable learn title robust fix dolphin city train wire";
+var mnemonic = "impulse essay trust humor sock peace worry include guess repair host monkey";

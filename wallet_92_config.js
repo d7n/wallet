@@ -1,1 +1,1 @@
-var mnemonic = "poet eagle hill success hard sunny clinic kid panther snow cup carry";
+var mnemonic = "rug tuition notice dolphin increase fine diesel hunt wet axis parent valley";

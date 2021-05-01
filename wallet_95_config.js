@@ -1,1 +1,1 @@
-var mnemonic = "orient offer stereo coast mouse bomb ready wedding planet pioneer caution craft";
+var mnemonic = "marble crowd material ostrich afford relief window usage video fiber eagle portion";

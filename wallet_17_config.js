@@ -1,1 +1,1 @@
-var mnemonic = "report rally decrease panther prevent pudding harvest risk snake remove shock kiss";
+var mnemonic = "use lawn pepper legal easy hospital enroll chalk hello motion robot gallery";

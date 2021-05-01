@@ -1,1 +1,1 @@
-var mnemonic = "note clinic silly twelve verify cluster office thrive flavor shaft attract immune";
+var mnemonic = "album wish trust craft era inside motor glory awkward file glass certain";

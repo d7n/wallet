@@ -1,1 +1,1 @@
-var mnemonic = "motion nasty build topic present giant coyote put denial battle office ensure";
+var mnemonic = "initial engage love air just puppy usage memory club stomach siege bone";

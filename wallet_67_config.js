@@ -1,1 +1,1 @@
-var mnemonic = "victory skin burden report eye child razor jungle dress decade churn pond";
+var mnemonic = "message oppose such case mansion meadow tail pulse certain turtle where basic";

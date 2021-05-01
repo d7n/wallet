@@ -1,1 +1,1 @@
-var mnemonic = "route project flame cabin achieve afraid inch canal despair husband try employ";
+var mnemonic = "picnic slight orchard gorilla sudden moment river hero clown trick muscle flip";

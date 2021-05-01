@@ -1,1 +1,1 @@
-var mnemonic = "skin crop never always argue help easily mail carry mutual distance scorpion";
+var mnemonic = "addict point arrange receive auction domain crush ill clarify modify monster valve";

@@ -1,1 +1,1 @@
-var mnemonic = "review crawl execute during tackle sweet acid round paddle desk envelope document";
+var mnemonic = "wine cup cruel caught spatial cruise hockey naive goose gesture unit sad";

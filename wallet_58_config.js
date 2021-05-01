@@ -1,1 +1,1 @@
-var mnemonic = "soccer relax afford fall please advice cruise upset source sunset desk ladder";
+var mnemonic = "visit frog churn muffin guess mobile coin spirit length satoshi obey anger";

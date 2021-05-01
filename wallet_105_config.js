@@ -1,1 +1,1 @@
-var mnemonic = "pulp next correct later social car sign small clump elephant nest author";
+var mnemonic = "tennis foster supply brand cattle organ outer garbage east live december hover";

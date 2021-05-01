@@ -1,1 +1,1 @@
-var mnemonic = "slim nice ignore hat ensure purpose squirrel betray example lift valley poverty";
+var mnemonic = "domain option audit capable excite slender method silver green play scheme squeeze";

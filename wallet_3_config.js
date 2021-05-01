@@ -1,1 +1,1 @@
-var mnemonic = "talent moment inside inspire apology amateur fresh basic scout slot lunar thumb";
+var mnemonic = "kidney pink tower hotel slim enrich goddess visit hamster tool banana must";

@@ -1,1 +1,1 @@
-var mnemonic = "gorilla edge volcano fitness wait pepper clock ridge orient output banner earth";
+var mnemonic = "cruise soon kick eagle furnace minor trouble rocket elder dose vapor tribe";

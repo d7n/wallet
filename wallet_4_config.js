@@ -1,1 +1,1 @@
-var mnemonic = "camera arena borrow undo access success rose crouch year nation garbage dolphin";
+var mnemonic = "cute garage gap twist shine tilt option priority knock author inquiry very";

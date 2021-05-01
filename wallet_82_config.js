@@ -1,1 +1,1 @@
-var mnemonic = "damage omit enjoy anger legal small zone crew gauge mutual scrub what";
+var mnemonic = "rich glide spot rib fault anchor head disorder nose unit firm major";

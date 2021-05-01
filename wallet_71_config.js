@@ -1,1 +1,1 @@
-var mnemonic = "cluster report purse move sentence mule blade connect holiday egg lamp elder";
+var mnemonic = "road flush choose skirt game spread tissue glare hard throw bridge hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer wrestle cradle husband whale home dial thought glow radio sting car";
+var mnemonic = "mango act student copper hockey jazz echo reason supply crush jewel sunny";

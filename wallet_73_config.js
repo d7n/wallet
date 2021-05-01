@@ -1,1 +1,1 @@
-var mnemonic = "phone sausage panel damage fault dawn head congress exile scout disagree mirror";
+var mnemonic = "olive adult void festival pond similar coin dad arrange rebuild found syrup";

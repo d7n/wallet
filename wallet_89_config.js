@@ -1,1 +1,1 @@
-var mnemonic = "spy swarm town heavy spike void drastic unaware smile still huge boy";
+var mnemonic = "dinner leaf cup crumble disagree remind any yard hard butter famous win";

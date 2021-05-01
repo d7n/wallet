@@ -1,1 +1,1 @@
-var mnemonic = "exhibit ill hungry husband warrior local network help skirt economy roast miss";
+var mnemonic = "spoil syrup charge jar crash tone pear puzzle glare wing shock unfair";

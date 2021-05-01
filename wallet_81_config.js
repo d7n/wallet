@@ -1,1 +1,1 @@
-var mnemonic = "muscle evil harsh fuel game winner bulb traffic release human auction fetch";
+var mnemonic = "live chalk humor patient average discover scale club couch original lady dress";

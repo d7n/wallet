@@ -1,1 +1,1 @@
-var mnemonic = "wave document blood next buzz quality defense goat oppose invest knife stage";
+var mnemonic = "turn sphere length car scissors venture prepare innocent junior wagon enjoy neck";

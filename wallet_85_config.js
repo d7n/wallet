@@ -1,1 +1,1 @@
-var mnemonic = "puppy cliff wool reward tornado wait into blind country opera have subway";
+var mnemonic = "viable wink define nation still sort until crazy civil frequent know tiger";

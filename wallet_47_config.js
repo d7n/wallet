@@ -1,1 +1,1 @@
-var mnemonic = "chase clerk rude canyon kind fluid aisle envelope impact venture evoke situate";
+var mnemonic = "photo odor auto dice struggle hello fault muscle practice object same film";

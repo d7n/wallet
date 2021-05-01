@@ -1,1 +1,1 @@
-var mnemonic = "fruit test clarify visual hand acoustic clarify believe attack simple code arena";
+var mnemonic = "sort alley fit toast top nature relief trend can brisk vocal idle";

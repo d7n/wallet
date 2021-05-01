@@ -1,1 +1,1 @@
-var mnemonic = "bubble first shallow upon deer accident traffic arch pattern rebel leopard abandon";
+var mnemonic = "torch lobster clever elbow blind alter together parent vicious dirt company spike";

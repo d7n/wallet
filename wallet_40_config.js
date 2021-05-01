@@ -1,1 +1,1 @@
-var mnemonic = "notable over depend armed flash raven rough settle rug baby valley permit";
+var mnemonic = "remain owner achieve arrest switch luxury someone deputy rare voice coyote print";

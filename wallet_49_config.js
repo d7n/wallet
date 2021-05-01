@@ -1,1 +1,1 @@
-var mnemonic = "mixture airport rain fun marble bring smooth spatial cage over wait hunt";
+var mnemonic = "cereal seat inhale question duty toddler narrow extra transfer acquire host carry";

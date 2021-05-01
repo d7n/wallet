@@ -1,1 +1,1 @@
-var mnemonic = "rural engine defense muscle scan have drink hole mystery unique split april";
+var mnemonic = "more various legal pioneer shy hundred mention vague match ball document maximum";

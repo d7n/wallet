@@ -1,1 +1,1 @@
-var mnemonic = "media calm route number wreck pistol priority oxygen tomorrow brother torch between";
+var mnemonic = "buyer absurd drill panther agent tiny town rail use erode quick artwork";

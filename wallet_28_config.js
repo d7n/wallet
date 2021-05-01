@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur owner budget holiday spider train grape barely volcano object list giggle";
+var mnemonic = "flip viable family eyebrow assume build remind alpha call trim measure roof";

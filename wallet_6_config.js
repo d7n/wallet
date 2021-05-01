@@ -1,1 +1,1 @@
-var mnemonic = "clump awake intact chief boy electric van else plunge diesel jewel page";
+var mnemonic = "project wasp prize copper brief wrong tongue wish hybrid ice maple wash";

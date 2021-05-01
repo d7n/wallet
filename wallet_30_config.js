@@ -1,1 +1,1 @@
-var mnemonic = "believe stick differ intact girl pitch estate fitness satoshi meadow coast frequent";
+var mnemonic = "seed private donor possible fabric window away jaguar strong scare vapor erupt";

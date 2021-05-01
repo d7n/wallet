@@ -1,1 +1,1 @@
-var mnemonic = "mother tuna prepare sphere rebel valve skate polar victory female rain target";
+var mnemonic = "rescue road three beach worth flat total episode decorate must wedding embody";

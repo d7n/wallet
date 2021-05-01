@@ -1,1 +1,1 @@
-var mnemonic = "lottery silly patrol distance limb among boring lawsuit execute crew prosper honey";
+var mnemonic = "genre ensure dune suffer network isolate myth ordinary harvest gorilla alert exile";

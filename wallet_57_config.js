@@ -1,1 +1,1 @@
-var mnemonic = "robot ocean debate style envelope play erupt dignity thing talk chat inquiry";
+var mnemonic = "wine unveil airport inflict rare cost suspect ice obey over catalog mind";

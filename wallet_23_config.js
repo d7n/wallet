@@ -1,1 +1,1 @@
-var mnemonic = "elder violin robot struggle infant staff hold margin salute alpha foot describe";
+var mnemonic = "slogan merit usual bargain lottery visa reason today sudden blush found pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol chase risk option best police solution arch tornado lecture equal grit";
+var mnemonic = "eyebrow gas insane cake client baby fire unfair milk catch weird refuse";

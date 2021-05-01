@@ -1,1 +1,1 @@
-var mnemonic = "tumble mass advance shift distance bind ticket crush absorb glide avocado clump";
+var mnemonic = "kick mouse warm often joy tide evil coil apology marine rebel hello";

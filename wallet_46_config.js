@@ -1,1 +1,1 @@
-var mnemonic = "radio advice awkward winner silent robot cook major clutch round zone animal";
+var mnemonic = "just orphan talent inmate hen cable finger exist parade sibling hint hood";

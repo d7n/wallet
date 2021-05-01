@@ -1,1 +1,1 @@
-var mnemonic = "wrong love harbor mobile tail onion forum crime belt glimpse layer catch";
+var mnemonic = "exist rice educate spatial mistake horror trumpet divide door warfare trumpet profit";

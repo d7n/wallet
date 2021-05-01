@@ -1,1 +1,1 @@
-var mnemonic = "just please ramp force admit ordinary scare reunion machine receive private stove";
+var mnemonic = "elbow flag scare fall bring father ski antique speed prison another slide";

@@ -1,1 +1,1 @@
-var mnemonic = "survey tornado deposit silver sorry two welcome improve all evoke devote gesture";
+var mnemonic = "vault much scrub ready average silly ring cliff title trigger flower garbage";

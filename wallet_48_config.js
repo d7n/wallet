@@ -1,1 +1,1 @@
-var mnemonic = "annual chalk double alert hole blossom car water reflect behind broom turkey";
+var mnemonic = "endorse couch thing fall must mule kingdom ozone fiber this evolve bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "second spin tunnel first powder bacon snack security update innocent universe meat";
+var mnemonic = "project food gas rigid afraid rival hurdle chest topic rain joke exhaust";

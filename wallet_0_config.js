@@ -1,1 +1,1 @@
-var mnemonic = "where cupboard cluster dutch sponsor lend option melt mirror autumn path exact";
+var mnemonic = "simple ceiling find together crowd fox album tape umbrella avoid ancient nasty";

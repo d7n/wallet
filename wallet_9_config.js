@@ -1,1 +1,1 @@
-var mnemonic = "budget smoke entry feature later lyrics innocent merit trust improve clever boring";
+var mnemonic = "mosquito tag proof amateur order kiss seek copper brisk question youth afford";

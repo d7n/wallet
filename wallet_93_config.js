@@ -1,1 +1,1 @@
-var mnemonic = "common visa lottery sword coast market cause lunar trophy fire artwork city";
+var mnemonic = "rescue evolve eye project busy bless purchase emerge face normal drink melody";

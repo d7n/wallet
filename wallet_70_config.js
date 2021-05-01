@@ -1,1 +1,1 @@
-var mnemonic = "stage miss soda club outdoor sniff pepper betray fragile stove hero pull";
+var mnemonic = "blind sustain middle divert glow swarm under wish oak hello sing afraid";

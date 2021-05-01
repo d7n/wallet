@@ -1,1 +1,1 @@
-var mnemonic = "remember churn praise aunt ladder venture impact become cattle skill solution dismiss";
+var mnemonic = "erupt predict february pink meat vapor love educate glance climb excite spray";

@@ -1,1 +1,1 @@
-var mnemonic = "melody wise bench bunker captain arrive submit theme earth please over lab";
+var mnemonic = "wrap unaware kiwi innocent prize rapid noble unique hurry steel boy toe";

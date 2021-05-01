@@ -1,1 +1,1 @@
-var mnemonic = "fine cement click toss tribe fatigue under opera raccoon gun mutual chat";
+var mnemonic = "view sentence action leader grace mad match pair flee obvious culture stadium";

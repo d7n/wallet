@@ -1,1 +1,1 @@
-var mnemonic = "rely rate arm decorate drink volcano august razor fragile gift hire nurse";
+var mnemonic = "sunny shove parrot bottom common toe bulb connect nurse embark broom hawk";

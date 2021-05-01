@@ -1,1 +1,1 @@
-var mnemonic = "maximum improve clutch amused amount bracket ketchup burger produce island border travel";
+var mnemonic = "canvas cabin rate orbit never engage solution neutral legend naive baby eagle";

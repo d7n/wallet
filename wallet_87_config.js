@@ -1,1 +1,1 @@
-var mnemonic = "earth deal crash hope awake human crash churn cover lucky scatter sense";
+var mnemonic = "salute route scene reject torch close dial vivid decide entire scorpion figure";

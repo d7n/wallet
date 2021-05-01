@@ -1,1 +1,1 @@
-var mnemonic = "excuse timber either wait trust choice smoke bread stay trick thumb direct";
+var mnemonic = "actual cloud crack cube sand traffic then loyal clutch wife pepper void";

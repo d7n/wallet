@@ -1,1 +1,1 @@
-var mnemonic = "eternal damp artwork bronze favorite maid guilt web neutral fade twist trend";
+var mnemonic = "cup runway drum artist any thunder pulse human total lounge energy palm";

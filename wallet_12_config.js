@@ -1,1 +1,1 @@
-var mnemonic = "child have exchange arrest cage organ emerge head gospel fitness lesson more";
+var mnemonic = "mimic device noise retire risk panda disease stuff advice question liberty rapid";

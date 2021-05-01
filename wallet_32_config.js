@@ -1,1 +1,1 @@
-var mnemonic = "tunnel glass age puppy finger gravity sting knife idea barely rare electric";
+var mnemonic = "art future grant food report emotion promote poet squirrel point real tortoise";

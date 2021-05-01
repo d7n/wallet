@@ -1,1 +1,1 @@
-var mnemonic = "very proud actor laugh truth remain track worth innocent outside afford barrel";
+var mnemonic = "banana shy merry clock wrestle that mushroom submit inflict talent banner enlist";

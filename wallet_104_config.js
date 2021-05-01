@@ -1,1 +1,1 @@
-var mnemonic = "input once zoo wagon actual ozone jealous immune coil razor hurry clinic";
+var mnemonic = "olive initial loud clump ocean exit bacon dutch universe skirt okay quit";

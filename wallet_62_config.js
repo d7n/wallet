@@ -1,1 +1,1 @@
-var mnemonic = "mean symbol bonus guilt chuckle palace danger material orchard dress enjoy page";
+var mnemonic = "property element much leave owner knife bicycle olympic train crystal jazz garden";

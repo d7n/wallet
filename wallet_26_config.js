@@ -1,1 +1,1 @@
-var mnemonic = "rice provide absorb timber impose common open quantum firm inside age original";
+var mnemonic = "elevator lobster patrol siege swamp cereal aisle tilt birth insane satisfy company";

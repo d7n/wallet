@@ -1,1 +1,1 @@
-var mnemonic = "liberty ketchup butter pink present simple peanut illegal trip milk auto steak";
+var mnemonic = "deny crystal stove skin legal quiz muffin convince disease climb face private";

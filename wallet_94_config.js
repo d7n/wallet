@@ -1,1 +1,1 @@
-var mnemonic = "scene domain tumble message impulse family slow loud wave sudden major month";
+var mnemonic = "casual addict shield happy casino broom giraffe mango select install cave dose";

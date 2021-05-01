@@ -1,1 +1,1 @@
-var mnemonic = "someone chunk stamp type involve grocery hawk gossip tomorrow doctor naive token";
+var mnemonic = "caught luggage earn track oxygen return half unfair interest deliver ride crime";

@@ -1,1 +1,1 @@
-var mnemonic = "barrel scissors primary journey tired crack silly december turtle member grace answer";
+var mnemonic = "spend sunset unusual pen boss term give spatial enrich bid zero table";

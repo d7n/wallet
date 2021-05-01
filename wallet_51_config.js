@@ -1,1 +1,1 @@
-var mnemonic = "quote visa because supply orbit question trumpet kangaroo cement scan pyramid country";
+var mnemonic = "purpose detail month venue solid black pyramid satoshi capital coyote unlock auction";

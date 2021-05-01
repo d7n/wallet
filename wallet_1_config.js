@@ -1,1 +1,1 @@
-var mnemonic = "forget reflect state alarm local gorilla knock degree timber menu spice foil";
+var mnemonic = "work deposit access toast survey route soul south donkey bread sting hockey";

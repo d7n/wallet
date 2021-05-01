@@ -1,1 +1,1 @@
-var mnemonic = "liberty bird gossip mimic transfer food girl zero pulp focus like hawk";
+var mnemonic = "give canvas fly pig cliff quote mule boost security tiny zebra method";

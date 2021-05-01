@@ -1,1 +1,1 @@
-var mnemonic = "lesson tag velvet traffic truck result barely auction steak patient ghost hungry";
+var mnemonic = "nephew essay skill nature person harsh sweet plastic liar tenant hungry knife";

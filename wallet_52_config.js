@@ -1,1 +1,1 @@
-var mnemonic = "adjust leader response lava naive brain easily inherit finish impose index jazz";
+var mnemonic = "home tag easy flock toast argue seven vintage already evidence point cube";

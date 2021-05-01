@@ -1,1 +1,1 @@
-var mnemonic = "churn eager click consider kingdom dignity human anger damp group brush find";
+var mnemonic = "cart replace pact topic armor face behind legend shadow cousin polar awake";
