@@ -1,1 +1,1 @@
-var mnemonic = "alley hybrid fog trouble plastic sponsor horn narrow post pudding ready another";
+var mnemonic = "alert crane kitchen eyebrow verb acquire black winter purse fruit swear fault";

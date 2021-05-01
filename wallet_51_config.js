@@ -1,1 +1,1 @@
-var mnemonic = "clutch inmate crouch entry roof catalog duck hint trial annual isolate worth";
+var mnemonic = "install warrior admit source remind man arena other barely champion muscle vanish";

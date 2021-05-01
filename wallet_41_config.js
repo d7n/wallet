@@ -1,1 +1,1 @@
-var mnemonic = "among aim purity test grunt divorce upper upset turkey border nuclear input";
+var mnemonic = "debate news skate system tool family clinic slush shell drive city object";

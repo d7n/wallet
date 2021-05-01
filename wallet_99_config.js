@@ -1,1 +1,1 @@
-var mnemonic = "deliver claim portion enable giggle aerobic unique priority that laugh vacant fitness";
+var mnemonic = "liar social drastic uphold bounce fabric couple super rebel culture damage rug";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain dragon cycle inspire proud miracle entire diet fiction guard oil lunar";
+var mnemonic = "tomorrow useless pear need magic topic subway mix brain body soft equip";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain spot shoulder barrel replace network violin slush prepare dilemma brown youth";
+var mnemonic = "turtle month keep eyebrow faculty salute antenna hill sketch boil dry mask";

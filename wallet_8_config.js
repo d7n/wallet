@@ -1,1 +1,1 @@
-var mnemonic = "erupt trick rule mouse horror story together fiber net captain arrow arrow";
+var mnemonic = "barely enrich tomorrow rose imitate olympic owner wealth focus season fish diesel";

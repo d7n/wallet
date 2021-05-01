@@ -1,1 +1,1 @@
-var mnemonic = "strategy random middle dog useless argue bright depend casual seed nothing worth";
+var mnemonic = "camp gasp pulp dress fatal route hen skill tiny rain order patch";

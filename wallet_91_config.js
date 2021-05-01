@@ -1,1 +1,1 @@
-var mnemonic = "enough legal practice pilot phrase chunk polar relief era soccer wild garment";
+var mnemonic = "symbol hockey large cherry stamp pen three blade wire unit solid age";

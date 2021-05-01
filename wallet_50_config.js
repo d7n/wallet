@@ -1,1 +1,1 @@
-var mnemonic = "beyond rib meat hat fall estate lawn bread assault enhance fruit century";
+var mnemonic = "sunny dilemma voice beauty vendor person prefer novel ramp bag crane core";

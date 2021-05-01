@@ -1,1 +1,1 @@
-var mnemonic = "vote journey vital panel diet eye improve option print orbit coast state";
+var mnemonic = "rally claw path case easily copper outdoor half erode oven sell garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "try sweet valley girl drum liberty jaguar plastic evolve curve together shrug";
+var mnemonic = "loan grow supreme volume festival turn fee fly puppy follow solar bargain";

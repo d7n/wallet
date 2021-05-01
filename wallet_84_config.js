@@ -1,1 +1,1 @@
-var mnemonic = "beauty flavor actor various kidney arm upset creek toy pill yellow supply";
+var mnemonic = "click lottery token guitar pet pipe render tag vivid craft rally royal";

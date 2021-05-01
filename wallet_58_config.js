@@ -1,1 +1,1 @@
-var mnemonic = "able copy truly twice gadget result document asset crowd room chaos twelve";
+var mnemonic = "crack wood dutch above lava tool voice fancy lawsuit shrimp mountain jacket";

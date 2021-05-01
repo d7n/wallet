@@ -1,1 +1,1 @@
-var mnemonic = "fire actress early fiction element radar volume october arctic replace crime cement";
+var mnemonic = "ethics rain stock deny around unique race hazard basic detail code hurt";

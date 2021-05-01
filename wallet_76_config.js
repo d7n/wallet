@@ -1,1 +1,1 @@
-var mnemonic = "phrase roast garbage blue universe start heavy chaos crew winter dentist year";
+var mnemonic = "negative trophy clap open praise roast release slide ecology hurdle leader agent";

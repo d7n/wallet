@@ -1,1 +1,1 @@
-var mnemonic = "draft gold that trust symbol weapon awkward canvas truly gown flock myth";
+var mnemonic = "canoe tragic barrel like road spy mammal fabric divide solid undo bundle";

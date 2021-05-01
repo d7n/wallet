@@ -1,1 +1,1 @@
-var mnemonic = "flee glad often rule tobacco battle rare original soft video blind awake";
+var mnemonic = "blood embark square tribe response fit fury over peanut abstract lake forget";

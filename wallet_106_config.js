@@ -1,1 +1,1 @@
-var mnemonic = "stable female enlist weather teach move float stay crater father tape soft";
+var mnemonic = "divert sell tube pen casual paper steel deny heart dignity amused clerk";

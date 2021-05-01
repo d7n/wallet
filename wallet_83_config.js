@@ -1,1 +1,1 @@
-var mnemonic = "duck spare drum school hello road amateur desk venue carpet horn distance";
+var mnemonic = "yard sudden parade recall conduct charge sick nose like assault jeans lion";

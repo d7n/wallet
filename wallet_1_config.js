@@ -1,1 +1,1 @@
-var mnemonic = "crater talk silver milk bracket brick enough original spoon someone immense cradle";
+var mnemonic = "jewel olympic harsh stamp mercy kingdom method deposit loyal exile sword glare";

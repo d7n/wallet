@@ -1,1 +1,1 @@
-var mnemonic = "crowd system unable video denial leisure result rapid denial quick state garlic";
+var mnemonic = "emerge pause gown approve major riot talk dose auto address twelve century";

@@ -1,1 +1,1 @@
-var mnemonic = "silk embark pudding truth expect tag regret cliff body admit dentist pill";
+var mnemonic = "wealth hospital dumb pen spice absurd into usual fabric vendor copy candy";

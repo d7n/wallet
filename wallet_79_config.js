@@ -1,1 +1,1 @@
-var mnemonic = "balcony six shield sight unknown garage yard scheme hat abandon check view";
+var mnemonic = "crazy also funny bonus evoke found half snake will hope math axis";

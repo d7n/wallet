@@ -1,1 +1,1 @@
-var mnemonic = "embrace story episode series buzz fence guard cart hawk blouse clarify athlete";
+var mnemonic = "green present wave rifle member payment spider adjust master layer reject oblige";

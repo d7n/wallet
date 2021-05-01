@@ -1,1 +1,1 @@
-var mnemonic = "noise manual junk fault need switch warfare claim maid foam glow next";
+var mnemonic = "kite grain pave garment diet ticket metal loyal clinic appear crystal hole";

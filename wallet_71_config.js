@@ -1,1 +1,1 @@
-var mnemonic = "robust grab genuine snap useless stay cactus into deny win height unaware";
+var mnemonic = "entire abandon drive today village discover auction chunk room mistake admit quiz";

@@ -1,1 +1,1 @@
-var mnemonic = "venue wide fun chair good model october hint rack prevent tape horror";
+var mnemonic = "task senior torch volume ivory little tilt panel inquiry pizza salon juice";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor author invite final thumb tooth buyer swarm cake modify frog dish";
+var mnemonic = "alpha omit reunion dizzy wood universe annual endless high clean minute immune";

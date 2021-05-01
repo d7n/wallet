@@ -1,1 +1,1 @@
-var mnemonic = "crystal provide sample flock middle regular push pond few lawn brother thumb";
+var mnemonic = "object skill cook churn hawk arctic bless wait smooth tooth spend educate";

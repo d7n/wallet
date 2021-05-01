@@ -1,1 +1,1 @@
-var mnemonic = "grit price song phrase lumber blast patrol card laptop include early rent";
+var mnemonic = "symptom demand shiver gap slim path puppy toy portion sleep loan job";

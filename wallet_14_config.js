@@ -1,1 +1,1 @@
-var mnemonic = "fog delay south trigger opinion caught appear pet anger hat thank course";
+var mnemonic = "head bleak hollow three version crack profit donate bundle hill notable family";

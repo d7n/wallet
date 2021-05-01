@@ -1,1 +1,1 @@
-var mnemonic = "else critic wild style ask then lawsuit rocket pact silent wait taxi";
+var mnemonic = "demise scorpion simple margin script initial away luxury album hole finger just";

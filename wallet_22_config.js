@@ -1,1 +1,1 @@
-var mnemonic = "stereo farm mimic cycle style elephant travel sail win cash betray rug";
+var mnemonic = "baby three stem minimum access cruel sniff casino knee female deer afford";

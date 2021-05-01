@@ -1,1 +1,1 @@
-var mnemonic = "broom surprise enlist frog hip fatigue flag tell globe consider exercise ride";
+var mnemonic = "draft boil unfold youth together syrup interest health cute sick elevator dolphin";

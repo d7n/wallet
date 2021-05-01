@@ -1,1 +1,1 @@
-var mnemonic = "gap judge screen autumn face dash hamster video roast grief nice wife";
+var mnemonic = "neglect boss clump cabin saddle whale absorb review vacuum path pet own";

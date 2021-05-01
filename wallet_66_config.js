@@ -1,1 +1,1 @@
-var mnemonic = "also joy midnight taxi only fever size hamster finish onion repeat flip";
+var mnemonic = "bid test dynamic quote weasel seed dream grace pioneer goddess upon easily";

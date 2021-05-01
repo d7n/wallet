@@ -1,1 +1,1 @@
-var mnemonic = "unfair perfect iron prison buzz universe acoustic junior forum vivid someone fee";
+var mnemonic = "artist earn burst plug spike eternal correct sign dial ketchup grid perfect";

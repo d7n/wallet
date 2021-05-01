@@ -1,1 +1,1 @@
-var mnemonic = "verb cement picnic hamster stone advance faith talk since spawn reflect soap";
+var mnemonic = "code essence raven rescue suit grit broccoli void civil dynamic hammer place";

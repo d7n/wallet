@@ -1,1 +1,1 @@
-var mnemonic = "retreat pass rely such country visual when survey blossom brown today unfold";
+var mnemonic = "term urge seven wash recycle sketch divide obtain amateur place hurt bid";

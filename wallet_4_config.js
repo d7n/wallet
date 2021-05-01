@@ -1,1 +1,1 @@
-var mnemonic = "edit glove annual name elite abandon tower hedgehog refuse own crystal human";
+var mnemonic = "space tell attack supreme connect harvest comic minute chat alone silent luggage";

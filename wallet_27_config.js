@@ -1,1 +1,1 @@
-var mnemonic = "reward poverty small woman course escape husband drift neither question coil fly";
+var mnemonic = "volcano valid describe liar limb twelve nurse gold hamster zebra child brain";

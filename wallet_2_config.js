@@ -1,1 +1,1 @@
-var mnemonic = "element swear spider food tenant prosper enhance taxi concert purity rug unfair";
+var mnemonic = "blade leisure valid miracle pistol picture type short evidence trade quit light";

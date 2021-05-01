@@ -1,1 +1,1 @@
-var mnemonic = "century antique hundred curious motor defy cross job best corn ethics ivory";
+var mnemonic = "equal rough raven input calm banner food embark thrive riot dust kidney";

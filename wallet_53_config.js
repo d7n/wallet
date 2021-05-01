@@ -1,1 +1,1 @@
-var mnemonic = "heart velvet use fiscal sunny lady theory crystal secret lunar knock talk";
+var mnemonic = "physical sort cry three round song practice empty odor reflect market upgrade";

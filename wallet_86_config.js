@@ -1,1 +1,1 @@
-var mnemonic = "scorpion frequent social search mass virtual eye brave carpet marble vapor cheap";
+var mnemonic = "tumble coffee brown fringe cost abuse echo fog stay add guilt seven";

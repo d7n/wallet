@@ -1,1 +1,1 @@
-var mnemonic = "seed mosquito sign pottery reward prison giant pretty title inhale chronic place";
+var mnemonic = "swim unfold tide purity simple food century until talent large twist october";

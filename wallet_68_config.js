@@ -1,1 +1,1 @@
-var mnemonic = "episode hunt short topic minor update west bridge spoon pause mercy pull";
+var mnemonic = "kit tattoo control quality reveal harvest ship ski idea punch genius arctic";

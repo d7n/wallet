@@ -1,1 +1,1 @@
-var mnemonic = "enhance seek mean decrease essence cat column bag noble destroy sure always";
+var mnemonic = "bid scatter spray shallow finger point ostrich pumpkin wealth fly resist holiday";

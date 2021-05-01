@@ -1,1 +1,1 @@
-var mnemonic = "auto brave hobby timber lawn furnace nature onion tuition cherry empty say";
+var mnemonic = "coil where fee explain rare face ozone wide middle eyebrow slab horror";

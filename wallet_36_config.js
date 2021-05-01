@@ -1,1 +1,1 @@
-var mnemonic = "tail enhance tank wear wheat expose regret hair tunnel bacon rich illegal";
+var mnemonic = "destroy slice write limb helmet what during midnight sample tissue tribe equal";

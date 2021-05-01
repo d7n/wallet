@@ -1,1 +1,1 @@
-var mnemonic = "sentence simple flat rough require frozen daring crazy drum now nest scissors";
+var mnemonic = "same bread social meadow vendor text crime october roof bicycle popular gas";

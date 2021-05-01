@@ -1,1 +1,1 @@
-var mnemonic = "palm artist similar toward evidence scene alarm infant peace light brass goddess";
+var mnemonic = "celery begin help believe run core punch husband tone spray spin ozone";

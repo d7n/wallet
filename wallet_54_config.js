@@ -1,1 +1,1 @@
-var mnemonic = "jazz early adjust page beach average before digital arctic region next tragic";
+var mnemonic = "symptom tired rival shaft cost usage soup lab kingdom apology total become";

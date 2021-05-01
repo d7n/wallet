@@ -1,1 +1,1 @@
-var mnemonic = "coyote rifle judge walnut like mimic polar walk fantasy copper spell staff";
+var mnemonic = "cradle retire vapor turn guide suffer twelve kiwi sad must lumber stable";

@@ -1,1 +1,1 @@
-var mnemonic = "exhibit kit program raise cruel wash drip ghost autumn announce screen meat";
+var mnemonic = "trend family crowd visit urge captain hollow kind want enact push collect";

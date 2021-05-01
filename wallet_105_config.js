@@ -1,1 +1,1 @@
-var mnemonic = "issue minor ignore melt wood cupboard glimpse another salute monitor estate rival";
+var mnemonic = "exile drink recycle burden person animal resource pyramid common tilt ostrich click";

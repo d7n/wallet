@@ -1,1 +1,1 @@
-var mnemonic = "love shrug dog collect slam box student leg capital smoke kingdom question";
+var mnemonic = "strong roof ostrich sport box hood account kick act pause place abuse";

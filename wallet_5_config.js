@@ -1,1 +1,1 @@
-var mnemonic = "citizen notable agree vast clever curtain dance crush between boat front inside";
+var mnemonic = "hammer satisfy pattern expect thing air hole cash trouble forward document next";

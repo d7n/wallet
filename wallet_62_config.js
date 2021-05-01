@@ -1,1 +1,1 @@
-var mnemonic = "just park drama trophy hire gun admit click lumber feature profit gallery";
+var mnemonic = "access tornado episode speak casual peace helmet duck nest vapor loud banner";

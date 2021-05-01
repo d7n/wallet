@@ -1,1 +1,1 @@
-var mnemonic = "mechanic phone laugh cousin market reunion attend concert pen agree vault cinnamon";
+var mnemonic = "trumpet where rich shoe lend endorse magnet heart one image wedding hub";

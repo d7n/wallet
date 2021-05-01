@@ -1,1 +1,1 @@
-var mnemonic = "boat symptom hunt siren fat spot wild jealous common enlist approve library";
+var mnemonic = "weasel robot skin want before fit motion pumpkin derive typical friend exit";

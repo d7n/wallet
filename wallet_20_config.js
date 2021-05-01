@@ -1,1 +1,1 @@
-var mnemonic = "party glimpse sea material clip valve flame dumb stadium young cousin phrase";
+var mnemonic = "ceiling aerobic staff romance client mixture argue bunker find ladder become upper";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy reject cube slab nasty brave inherit chalk monitor bronze kingdom recycle";
+var mnemonic = "make finish lobster wash chicken tuition supreme rocket tenant eight century case";

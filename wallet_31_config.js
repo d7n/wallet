@@ -1,1 +1,1 @@
-var mnemonic = "empty tomato silk attack still coast coconut object audit cycle laptop square";
+var mnemonic = "garlic glimpse swing room oven ghost orbit wool trigger mean allow general";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost rubber sustain section badge satoshi pelican strong thumb attitude safe limit";
+var mnemonic = "cruise oven mango tourist cement wrap afraid soccer shed dutch physical fringe";

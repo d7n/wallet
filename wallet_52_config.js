@@ -1,1 +1,1 @@
-var mnemonic = "burger fuel action modify endorse produce volume horn bicycle clinic panther spend";
+var mnemonic = "figure siege expire return mango expose slender prevent enhance faith sponsor space";

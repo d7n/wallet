@@ -1,1 +1,1 @@
-var mnemonic = "dust length base butter give mad glass exile physical noise common discover";
+var mnemonic = "denial blush eagle broken devote word person script verb hidden royal lonely";

@@ -1,1 +1,1 @@
-var mnemonic = "hybrid blood scan camera home any master olympic myth title abandon bird";
+var mnemonic = "another leader present bleak swap elbow say party cabin guess receive hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "flip casual retire seek off derive owner boil awake thumb glow income";
+var mnemonic = "collect fire sweet dress claw photo ritual armor person claw elevator claw";

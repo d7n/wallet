@@ -1,1 +1,1 @@
-var mnemonic = "survey away tourist decline kid illness code menu bind child tackle matter";
+var mnemonic = "lazy sort firm toss cushion sunny eternal melt light shoe monitor mirror";

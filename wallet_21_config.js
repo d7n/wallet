@@ -1,1 +1,1 @@
-var mnemonic = "hole cage anchor razor elbow price bracket express cherry nasty earth brand";
+var mnemonic = "ritual winner plunge chalk nominee jazz clutch reflect monitor shallow veteran survey";

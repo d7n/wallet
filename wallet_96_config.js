@@ -1,1 +1,1 @@
-var mnemonic = "obtain spoil all giggle shop mass peanut rifle vintage diamond copy husband";
+var mnemonic = "town thumb moon bus seven squeeze term time clerk appear boy adult";

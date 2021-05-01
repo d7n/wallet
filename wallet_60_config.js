@@ -1,1 +1,1 @@
-var mnemonic = "spirit help submit knee bitter entire smile use naive utility pretty jazz";
+var mnemonic = "practice lamp submit tunnel wool february horn undo spot train trend wheel";

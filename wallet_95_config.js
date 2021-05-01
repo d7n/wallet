@@ -1,1 +1,1 @@
-var mnemonic = "satoshi loud enforce oyster inmate fruit artist express luxury neck fragile solar";
+var mnemonic = "divorce reveal post capital horn derive gesture guitar limit rescue worry host";

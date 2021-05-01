@@ -1,1 +1,1 @@
-var mnemonic = "weasel donor flip lunch carry torch exhibit exotic boost casual accuse volume";
+var mnemonic = "prevent leg okay clog garage assume destroy poet unit boss rug apology";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans melt trick update transfer option snow payment ordinary pond blast occur";
+var mnemonic = "erase cat trick bundle exchange trade fit sphere situate math such repeat";

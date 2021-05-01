@@ -1,1 +1,1 @@
-var mnemonic = "someone style can ability dose blur novel bench advice major flower fly";
+var mnemonic = "flag demand surround clutch cook various hawk practice sibling beef toddler winner";

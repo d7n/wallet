@@ -1,1 +1,1 @@
-var mnemonic = "benefit october water harbor transfer island machine carry hole desert lemon distance";
+var mnemonic = "boost model stadium never tape position weekend receive alpha zero empty attend";

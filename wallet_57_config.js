@@ -1,1 +1,1 @@
-var mnemonic = "best idea loud clump exhibit spoil hope eye dune tent genre cart";
+var mnemonic = "portion point wine wing fashion unknown reflect thumb oxygen hawk sustain add";

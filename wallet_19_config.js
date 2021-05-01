@@ -1,1 +1,1 @@
-var mnemonic = "inherit lizard tissue charge two chimney angry bounce alien ghost dice ankle";
+var mnemonic = "happy horror expect expect comfort unusual below wage life awkward heart tragic";

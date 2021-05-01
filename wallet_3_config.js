@@ -1,1 +1,1 @@
-var mnemonic = "battle merit pulse bench gown degree program tuition manual client segment alpha";
+var mnemonic = "juice flock tourist two kitten business fold chief leg kiss relief stone";

@@ -1,1 +1,1 @@
-var mnemonic = "curve push call glory diet help upper member humble antenna parent rib";
+var mnemonic = "frequent hat token umbrella chapter sorry champion emerge start you dolphin eyebrow";

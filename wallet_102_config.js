@@ -1,1 +1,1 @@
-var mnemonic = "valid avocado bitter clinic fabric salute fuel pen deputy bomb easy success";
+var mnemonic = "crater have hollow rich hamster segment hand gaze sibling heart cereal circle";

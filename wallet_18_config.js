@@ -1,1 +1,1 @@
-var mnemonic = "rally entire organ science march alter loud hero morning display pet toilet";
+var mnemonic = "measure smart table option use convince vapor tooth way road farm note";

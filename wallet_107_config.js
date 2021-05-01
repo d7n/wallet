@@ -1,1 +1,1 @@
-var mnemonic = "panel dentist rough giggle visual assault affair only tortoise mind dumb whisper";
+var mnemonic = "position phone renew rookie become problem alter hint radio steel clean case";

@@ -1,1 +1,1 @@
-var mnemonic = "hire remove cable foot vague estate dove victory fee identify neither venture";
+var mnemonic = "tent field forum mosquito unable upon barrel bacon bean hawk health tumble";

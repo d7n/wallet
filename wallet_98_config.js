@@ -1,1 +1,1 @@
-var mnemonic = "cabin sweet remember slight expire domain try demand undo stand arm defy";
+var mnemonic = "repeat endless anger bicycle food pumpkin flower long extend horse spend wire";

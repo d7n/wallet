@@ -1,1 +1,1 @@
-var mnemonic = "pair palace camera trade cool again party base genuine ivory rug trust";
+var mnemonic = "vague neck resemble dismiss ball wheel make orient capable viable depth pumpkin";

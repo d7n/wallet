@@ -1,1 +1,1 @@
-var mnemonic = "disease cheap wage season evolve coin fury axis verb shrug talent grass";
+var mnemonic = "child valve sound kangaroo describe bring segment lucky razor bamboo atom camera";

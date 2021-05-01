@@ -1,1 +1,1 @@
-var mnemonic = "can laugh tonight absent real palm gown rate chief giant dizzy fault";
+var mnemonic = "muffin recipe occur orchard seek weird cash door join yellow wealth race";

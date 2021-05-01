@@ -1,1 +1,1 @@
-var mnemonic = "couch soap bird yellow section lab chunk move medal wide pair false";
+var mnemonic = "gaze tattoo odor aware reject come tiger real blade glare minimum retire";
