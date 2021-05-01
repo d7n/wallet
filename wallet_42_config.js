@@ -1,1 +1,1 @@
-var mnemonic = "between waste labor mean across struggle scrap police ceiling truck clarify more";
+var mnemonic = "property oblige way impulse lounge effort sell swap siege region rabbit toward";

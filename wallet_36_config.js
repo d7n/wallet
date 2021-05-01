@@ -1,1 +1,1 @@
-var mnemonic = "detail fat theme toddler hurt forum athlete young cattle program simple card";
+var mnemonic = "process spike amazing desert rural deposit rigid wheat animal unit galaxy carbon";

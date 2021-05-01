@@ -1,1 +1,1 @@
-var mnemonic = "able august monitor glove barely minimum word forest question ethics pond envelope";
+var mnemonic = "donor ladder neglect lawsuit forward spawn motor radio tip gauge you prevent";

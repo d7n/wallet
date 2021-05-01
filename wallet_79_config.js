@@ -1,1 +1,1 @@
-var mnemonic = "motion boil regret olive gauge audit tuition cheese load often perfect slim";
+var mnemonic = "inflict fence differ goose yard debris sting lonely achieve hurry give gauge";

@@ -1,1 +1,1 @@
-var mnemonic = "arm sphere shaft animal select metal expand bacon normal various foam limb";
+var mnemonic = "table stock edge innocent enable swift increase digital crumble cousin crowd client";

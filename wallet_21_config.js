@@ -1,1 +1,1 @@
-var mnemonic = "nerve panel away illegal glow spread issue easy insane usage slide hub";
+var mnemonic = "arm trap surface fox mixture happy else paper bachelor inject marine dress";

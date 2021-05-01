@@ -1,1 +1,1 @@
-var mnemonic = "club inspire give boost grunt direct vendor under assault slight loud outside";
+var mnemonic = "cricket believe cream trophy celery brave arrow tourist promote diagram pledge degree";

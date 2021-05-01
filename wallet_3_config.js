@@ -1,1 +1,1 @@
-var mnemonic = "buffalo hammer give clip garment salute marble fortune trophy wrap company blind";
+var mnemonic = "ride rhythm chalk lonely pen field approve buddy ride luxury south exercise";

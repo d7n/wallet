@@ -1,1 +1,1 @@
-var mnemonic = "acid daughter barely sorry isolate umbrella exercise valid swear negative bid note";
+var mnemonic = "lend ability earn middle remind scare parent hundred order success muffin cruise";

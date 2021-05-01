@@ -1,1 +1,1 @@
-var mnemonic = "attitude clog often news arch pistol loud lake force find short term";
+var mnemonic = "wet body math section like victory scorpion donate oven duty slogan tail";

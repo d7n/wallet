@@ -1,1 +1,1 @@
-var mnemonic = "ask interest type they exhaust tomorrow easy shoe useful fly beef summer";
+var mnemonic = "upper simple test urge garden bubble local split scale cross october swift";

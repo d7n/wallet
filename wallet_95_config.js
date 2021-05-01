@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow october alert random second junk inquiry aim degree nose drink check";
+var mnemonic = "mix output lecture advice monster between network pet excuse treat medal second";

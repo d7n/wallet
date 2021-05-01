@@ -1,1 +1,1 @@
-var mnemonic = "sun bacon canvas refuse cave forum pill craft pair image finish capital";
+var mnemonic = "youth animal spike enable enter drip flower engine already climb pilot riot";

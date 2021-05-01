@@ -1,1 +1,1 @@
-var mnemonic = "snack juice small vintage crumble clog sick claim hire grab amount divide";
+var mnemonic = "warm main panel monster similar wire tell proud gap equip dance focus";

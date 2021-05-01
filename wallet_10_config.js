@@ -1,1 +1,1 @@
-var mnemonic = "adult vessel magnet cluster reward guide fiscal raven illegal adult divorce item";
+var mnemonic = "hope argue this life cereal aspect unable glad elite settle school hedgehog";

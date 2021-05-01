@@ -1,1 +1,1 @@
-var mnemonic = "olympic fiction veteran better busy rare average awful success pair tornado capital";
+var mnemonic = "feed swamp remind because present sword sustain nut income dial cost mushroom";

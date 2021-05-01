@@ -1,1 +1,1 @@
-var mnemonic = "express latin bullet shiver milk toy guess true tattoo battle scare year";
+var mnemonic = "spatial course large crystal original time blossom reduce capital angle water narrow";

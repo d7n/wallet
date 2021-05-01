@@ -1,1 +1,1 @@
-var mnemonic = "elegant curious marriage life kid rare fantasy flag pitch wait rapid begin";
+var mnemonic = "drop tribe always clean discover stuff ginger oil struggle field bulb emerge";

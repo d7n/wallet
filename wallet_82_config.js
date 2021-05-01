@@ -1,1 +1,1 @@
-var mnemonic = "outdoor obey off rely priority lucky leaf dad afford arch jazz keep";
+var mnemonic = "merge border bulb muffin exotic card subway add sweet kiss push armed";

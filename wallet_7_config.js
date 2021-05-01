@@ -1,1 +1,1 @@
-var mnemonic = "denial alone oblige provide favorite attitude weapon fault pilot purity wreck title";
+var mnemonic = "stumble erase parent cluster federal crunch result fatigue gesture general brave local";

@@ -1,1 +1,1 @@
-var mnemonic = "because spot market help shoe alien obtain license dynamic supply upset reveal";
+var mnemonic = "bounce dignity black siren busy immune slide visa nature mouse pink blue";

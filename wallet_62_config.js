@@ -1,1 +1,1 @@
-var mnemonic = "buffalo crane oval toddler cool praise mom foot intact expose text holiday";
+var mnemonic = "remember picnic tooth design jealous panda erosion emerge ecology notice kiwi useless";

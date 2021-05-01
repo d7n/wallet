@@ -1,1 +1,1 @@
-var mnemonic = "marble collect document survey phone eternal harvest boil beauty million era point";
+var mnemonic = "cinnamon gift sport anxiety scrap obvious belt custom tongue trim dignity maple";

@@ -1,1 +1,1 @@
-var mnemonic = "obey record spatial blood invest point frown special arrange auto patrol fiscal";
+var mnemonic = "furnace pave north grace vital shoot broccoli spatial couple glance language harsh";

@@ -1,1 +1,1 @@
-var mnemonic = "door arrive velvet proud hybrid garlic submit squirrel office option enough blue";
+var mnemonic = "depth crawl pottery beef produce only release chaos ill where uphold shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "rely couple vendor media again approve cross between car fox guitar camp";
+var mnemonic = "eight teach coast artefact sort record summer coin they please change unique";

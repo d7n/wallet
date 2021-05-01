@@ -1,1 +1,1 @@
-var mnemonic = "push range hungry nurse flag trap gym nasty time coffee cart erupt";
+var mnemonic = "gold length arrow cross desk antenna vague guard second mimic nasty film";

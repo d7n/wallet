@@ -1,1 +1,1 @@
-var mnemonic = "blush dizzy guess voice filter anchor pattern unveil assume bullet whisper shrimp";
+var mnemonic = "include cradle truth indicate blue final fish honey cycle zone link melody";

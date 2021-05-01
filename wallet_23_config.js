@@ -1,1 +1,1 @@
-var mnemonic = "enlist off stool stuff pattern infant modify flower grief during level leave";
+var mnemonic = "olympic crew add throw energy olympic genre minor pitch rocket funny group";

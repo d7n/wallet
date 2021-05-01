@@ -1,1 +1,1 @@
-var mnemonic = "below destroy funny private axis come final shove clump flush milk people";
+var mnemonic = "join pretty catalog coach pen fitness satoshi help vacant sell debris axis";

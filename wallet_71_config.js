@@ -1,1 +1,1 @@
-var mnemonic = "category priority dynamic mystery hobby copper twenty you mansion skill magnet arrive";
+var mnemonic = "labor assume flush lazy feature wine give capable main extra size charge";

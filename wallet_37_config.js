@@ -1,1 +1,1 @@
-var mnemonic = "body manual relief blade frog task fruit predict bench gallery muffin salmon";
+var mnemonic = "major top citizen deputy devote floor lawn dry wonder fault amazing feel";

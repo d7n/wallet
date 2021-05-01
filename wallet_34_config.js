@@ -1,1 +1,1 @@
-var mnemonic = "skirt clip matter lawsuit power ghost hood amazing elder romance brief enjoy";
+var mnemonic = "special inch odor process prison draw learn humble gesture limb stadium insane";

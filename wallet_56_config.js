@@ -1,1 +1,1 @@
-var mnemonic = "oyster elite blanket happy summer square puzzle chest grab popular raise fame";
+var mnemonic = "frown switch zoo dignity tragic diet excess history increase ball cattle south";

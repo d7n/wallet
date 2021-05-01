@@ -1,1 +1,1 @@
-var mnemonic = "fire useless crouch arrow raise symbol shoulder blame current sight usage client";
+var mnemonic = "sunset draft pepper vessel category toward grain snow island shadow ahead turkey";

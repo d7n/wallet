@@ -1,1 +1,1 @@
-var mnemonic = "change crop push august often firm tragic fox cause squeeze start cool";
+var mnemonic = "trumpet element nasty inmate river brain submit buddy calm oil glad derive";

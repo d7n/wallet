@@ -1,1 +1,1 @@
-var mnemonic = "cream story cheese move juice weapon minimum asthma marble cattle rival aim";
+var mnemonic = "orange curve else fatal unique moral nose smooth young erase leg excite";

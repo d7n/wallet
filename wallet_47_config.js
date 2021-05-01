@@ -1,1 +1,1 @@
-var mnemonic = "return lesson skull dumb dentist cannon response liquid worth venture large december";
+var mnemonic = "sugar rescue electric aspect uncover cherry comic coast tip soldier swamp village";

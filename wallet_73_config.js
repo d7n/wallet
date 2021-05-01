@@ -1,1 +1,1 @@
-var mnemonic = "meat erosion debris pretty wear always spatial wire couple guitar forum pear";
+var mnemonic = "half smooth mixed bulb panda oval girl rebuild vicious bundle firm clump";

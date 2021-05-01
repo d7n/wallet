@@ -1,1 +1,1 @@
-var mnemonic = "ability spray ecology airport one mixture gesture sting engine mail ribbon peasant";
+var mnemonic = "curve asthma address arctic trend assist edge library harvest rubber segment order";

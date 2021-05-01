@@ -1,1 +1,1 @@
-var mnemonic = "nurse come pilot claim draw trim clever clever develop rule key mistake";
+var mnemonic = "future slender coach inject call dinner pave vicious very broom vintage stable";

@@ -1,1 +1,1 @@
-var mnemonic = "club bamboo hawk hammer account nurse vanish dignity talent finish naive grace";
+var mnemonic = "volcano kit rhythm such echo minor farm lesson hour often hole must";

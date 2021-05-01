@@ -1,1 +1,1 @@
-var mnemonic = "endorse list split meat age fish proud air smile result wrap spawn";
+var mnemonic = "glove mechanic arrive tortoise original wood helmet where domain leisure fly boy";

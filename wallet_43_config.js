@@ -1,1 +1,1 @@
-var mnemonic = "bitter pattern opinion index arctic deliver category glass used hover two clutch";
+var mnemonic = "dune hair planet forest original ill height escape daughter act wood mail";

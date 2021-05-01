@@ -1,1 +1,1 @@
-var mnemonic = "digital outdoor script public message between cover around media range smile protect";
+var mnemonic = "bunker salon custom super absurd betray flavor vehicle desert elite sheriff away";

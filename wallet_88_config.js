@@ -1,1 +1,1 @@
-var mnemonic = "ozone cash often only wonder thunder ripple before proof pistol talk reveal";
+var mnemonic = "piece grow large cricket parent clever level jewel curious scatter ivory abstract";

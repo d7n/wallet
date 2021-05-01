@@ -1,1 +1,1 @@
-var mnemonic = "tunnel fish profit safe bridge fuel defense state change sleep orphan picture";
+var mnemonic = "believe remember oppose walnut bless neglect assume fine push census pave useless";

@@ -1,1 +1,1 @@
-var mnemonic = "giraffe diagram win velvet industry please gym entire crack hip cable merry";
+var mnemonic = "gesture venue depart furnace dune banner expire smoke this april sphere ocean";

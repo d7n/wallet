@@ -1,1 +1,1 @@
-var mnemonic = "session below winter canvas delay famous acoustic when divorce art clap glue";
+var mnemonic = "auto east parade save level drop receive olive season defy vibrant seat";

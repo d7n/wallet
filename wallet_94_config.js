@@ -1,1 +1,1 @@
-var mnemonic = "sorry abstract pulse harbor oyster castle metal sketch feed civil pottery bamboo";
+var mnemonic = "stuff funny festival because access yard oak ladder relief plunge auto minimum";

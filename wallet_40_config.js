@@ -1,1 +1,1 @@
-var mnemonic = "tackle museum flight impact drift loud satisfy license thing tower puzzle draft";
+var mnemonic = "rich reduce left quiz door old property morning step credit course meat";

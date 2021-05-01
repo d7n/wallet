@@ -1,1 +1,1 @@
-var mnemonic = "spare blush unlock nephew inhale window again spoon daughter horror kingdom film";
+var mnemonic = "idle banner label deposit always creek tone topple board maximum live display";

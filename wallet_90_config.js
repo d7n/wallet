@@ -1,1 +1,1 @@
-var mnemonic = "orchard barrel senior payment vague public ginger hybrid crater exhibit abandon reject";
+var mnemonic = "daughter crumble series baby true buddy hedgehog paper other require crowd elevator";

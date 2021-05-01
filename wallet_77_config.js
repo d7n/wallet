@@ -1,1 +1,1 @@
-var mnemonic = "innocent swim liquid cloth dish climb illegal review slide holiday cradle lake";
+var mnemonic = "ethics cash manual random job wasp attitude penalty razor rare vendor enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo wet party alert portion banana steel fuel educate front dismiss scheme";
+var mnemonic = "setup lesson cat monkey paper verify token surprise panel peasant siege pole";

@@ -1,1 +1,1 @@
-var mnemonic = "enough music boost enhance nation domain still rough duck genre young average";
+var mnemonic = "cake bleak square wire rail essay prevent inflict ecology crumble admit betray";

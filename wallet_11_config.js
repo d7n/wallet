@@ -1,1 +1,1 @@
-var mnemonic = "write tattoo among bunker spirit sign already wrestle very violin square earth";
+var mnemonic = "coast verify crumble trend paddle blame main replace sense hobby kangaroo expose";

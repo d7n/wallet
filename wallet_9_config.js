@@ -1,1 +1,1 @@
-var mnemonic = "puppy clump street suspect world wedding twenty orbit sport narrow powder hip";
+var mnemonic = "output grain oval lumber success guide version sibling twelve chicken write emotion";

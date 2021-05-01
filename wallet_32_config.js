@@ -1,1 +1,1 @@
-var mnemonic = "depend initial west tourist gate fee decide market opinion pilot try trial";
+var mnemonic = "patch name rail faint also gospel seat original palace panic chalk buddy";

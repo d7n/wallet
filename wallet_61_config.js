@@ -1,1 +1,1 @@
-var mnemonic = "feature problem unveil sketch height play fox bounce jelly fatigue only talk";
+var mnemonic = "such try reason pencil build priority rival erode disease search season badge";

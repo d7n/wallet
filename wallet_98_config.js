@@ -1,1 +1,1 @@
-var mnemonic = "few erosion swim alley box fat master flight spice test flavor struggle";
+var mnemonic = "lazy usual chest slow tumble scorpion mean trigger whale crawl match catalog";

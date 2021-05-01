@@ -1,1 +1,1 @@
-var mnemonic = "capital laugh obscure crop advice soldier insect average below atom slim story";
+var mnemonic = "theory nothing pistol flower tag smoke february green coast mass affair viable";

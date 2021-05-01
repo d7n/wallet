@@ -1,1 +1,1 @@
-var mnemonic = "figure tail absurd surround absent build scene science market basket remove capital";
+var mnemonic = "close tilt climb shoe attract always hurdle walk public asset ill chat";

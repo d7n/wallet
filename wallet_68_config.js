@@ -1,1 +1,1 @@
-var mnemonic = "loyal clump party thought miracle reflect curve tree beef horn bubble curious";
+var mnemonic = "olympic rabbit target section basket range apology hobby capable jaguar bracket forest";

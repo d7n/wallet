@@ -1,1 +1,1 @@
-var mnemonic = "pet diamond match wife scan six sibling enact tiny process pig zebra";
+var mnemonic = "link leave wild floor scorpion polar orange eternal ahead derive car design";

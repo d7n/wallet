@@ -1,1 +1,1 @@
-var mnemonic = "tube chair average quick flower page basket dry shell exotic chicken casual";
+var mnemonic = "icon sustain this still replace fiscal mistake feel place humor cabbage source";

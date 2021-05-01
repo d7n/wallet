@@ -1,1 +1,1 @@
-var mnemonic = "profit blood firm reopen ill cable bronze woman fitness tower couch asthma";
+var mnemonic = "deer clap brass stock kind twelve oxygen glory prefer service course issue";

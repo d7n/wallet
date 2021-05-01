@@ -1,1 +1,1 @@
-var mnemonic = "brother leader cross layer antique youth crazy knock visa expand deny milk";
+var mnemonic = "summer various mention know open planet stage early river lab delay clean";

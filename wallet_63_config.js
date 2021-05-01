@@ -1,1 +1,1 @@
-var mnemonic = "gather fury depart undo relax promote picture boat clog security onion spray";
+var mnemonic = "liberty glide balance tiny stamp oxygen breeze observe process never spray glue";

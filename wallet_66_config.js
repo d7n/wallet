@@ -1,1 +1,1 @@
-var mnemonic = "quarter slight belt brand history mammal share harbor still surround away pact";
+var mnemonic = "nuclear evil sad quit envelope page short predict actual reject measure merge";

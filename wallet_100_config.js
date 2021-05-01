@@ -1,1 +1,1 @@
-var mnemonic = "mix wood army asset middle person orient symbol maximum jewel finish jungle";
+var mnemonic = "twice edit inflict neglect embody walnut pupil throw mouse iron layer syrup";

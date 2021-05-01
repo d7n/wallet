@@ -1,1 +1,1 @@
-var mnemonic = "coast sting burden modify hunt choice weekend easily chase supply thrive cousin";
+var mnemonic = "heart moral easy anchor enrich clever tree false staff waste equal news";

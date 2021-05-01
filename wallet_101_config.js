@@ -1,1 +1,1 @@
-var mnemonic = "debate under begin quick exact buyer front faculty anchor mean design grace";
+var mnemonic = "correct token siege caution inner convince debate flight reflect music buffalo unveil";

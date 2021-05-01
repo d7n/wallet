@@ -1,1 +1,1 @@
-var mnemonic = "toss twelve heart job mandate leopard mail bird biology can dog firm";
+var mnemonic = "improve extend buffalo venture ethics dentist second spread eye hour blind consider";

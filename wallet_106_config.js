@@ -1,1 +1,1 @@
-var mnemonic = "example sing rice slush pact section save dad bleak double cabbage arctic";
+var mnemonic = "alter ride myth blur daring second group exercise timber skill priority code";

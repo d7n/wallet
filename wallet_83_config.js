@@ -1,1 +1,1 @@
-var mnemonic = "umbrella various glare ecology dutch draft pumpkin depend code disorder evoke mouse";
+var mnemonic = "raw entire fragile now north basic close reopen misery grass meadow clog";

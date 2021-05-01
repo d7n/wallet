@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon snap orange leg ill swear wreck zebra deer wife suggest orange";
+var mnemonic = "logic unfold mercy region excess yellow pigeon kitchen price kid hero fashion";

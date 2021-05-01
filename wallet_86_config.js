@@ -1,1 +1,1 @@
-var mnemonic = "share rich rough series ugly post grant pistol jar disagree that school";
+var mnemonic = "label erode manual lesson install junior spell aerobic pulp confirm job priority";

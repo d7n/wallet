@@ -1,1 +1,1 @@
-var mnemonic = "foster enemy kick wage episode sure feature small sample mother melody unhappy";
+var mnemonic = "inform garment embody veteran dash danger shield session car common citizen person";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt deny combine walnut tunnel setup aspect head execute code jar vote";
+var mnemonic = "know strategy horror bright slow round cereal draw lunar ribbon lemon spider";

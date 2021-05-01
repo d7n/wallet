@@ -1,1 +1,1 @@
-var mnemonic = "orchard spider elegant width property reveal gift sunny style nice spread language";
+var mnemonic = "protect foil chief change alcohol beach parade tray pretty actor month chimney";

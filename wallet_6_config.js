@@ -1,1 +1,1 @@
-var mnemonic = "inspire prevent memory photo barrel bean secret hen fiscal noodle almost market";
+var mnemonic = "west believe drum wasp best myself web hurt way strategy original cactus";

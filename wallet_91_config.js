@@ -1,1 +1,1 @@
-var mnemonic = "lemon reopen bonus twin fiber pretty put umbrella unique surprise eternal mixture";
+var mnemonic = "gown obscure noodle nominee carbon first mix force asthma minimum vivid vague";

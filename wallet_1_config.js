@@ -1,1 +1,1 @@
-var mnemonic = "excite unfair uncover armor move flash excite timber guitar display crisp olympic";
+var mnemonic = "spin man indicate rebuild great service wrestle emotion elite tennis atom faculty";

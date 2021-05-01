@@ -1,1 +1,1 @@
-var mnemonic = "pear depend drum winner price flee artist stamp token attract opera clinic";
+var mnemonic = "coil adult domain effort glove faculty fringe hundred verb jazz define vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "trick planet cry setup cloud report luggage hurt clock future smart near";
+var mnemonic = "sudden antenna sure tide rifle badge bitter muscle enable double same symptom";

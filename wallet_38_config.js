@@ -1,1 +1,1 @@
-var mnemonic = "lake grief sign glass upon silver smile skate attend raven urban brave";
+var mnemonic = "pig method swallow goddess celery hope effort permit modify able basket hen";

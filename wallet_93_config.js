@@ -1,1 +1,1 @@
-var mnemonic = "dad loyal fun spread cram power chase nest praise bright cannon pill";
+var mnemonic = "vanish vicious sibling weird hospital merry report update code swap hip rely";

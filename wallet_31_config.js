@@ -1,1 +1,1 @@
-var mnemonic = "mutual accuse ivory soap defy dizzy right term work lonely habit stick";
+var mnemonic = "pattern trend foot clay ancient catch ivory moment rescue allow casual medal";

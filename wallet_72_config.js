@@ -1,1 +1,1 @@
-var mnemonic = "toilet rack term art chimney camera extra glue organ chunk elegant about";
+var mnemonic = "dish hand scrub time crowd deposit route start enforce improve minute scrub";

@@ -1,1 +1,1 @@
-var mnemonic = "gesture make limb canoe vast unknown stomach book question select tragic hockey";
+var mnemonic = "fat walnut enough party obey rib pact symbol wealth guess slam grit";

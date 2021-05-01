@@ -1,1 +1,1 @@
-var mnemonic = "fragile track rebel artist vital slide uncover violin angle laundry scissors text";
+var mnemonic = "scissors anxiety medal current search strong timber false yard address ritual retreat";
