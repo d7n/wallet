@@ -1,1 +1,1 @@
-var mnemonic = "fantasy task spell buzz member dust pride steak cook dune trick faculty";
+var mnemonic = "sample picnic electric wide tonight black stock cereal fatigue assault winter entry";

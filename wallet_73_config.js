@@ -1,1 +1,1 @@
-var mnemonic = "hand seminar fine ill rabbit subject stand pizza calm body salt era";
+var mnemonic = "cricket program focus supply float meat soon thing thrive eternal media seed";

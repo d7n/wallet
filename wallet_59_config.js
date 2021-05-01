@@ -1,1 +1,1 @@
-var mnemonic = "roof there enlist young keep still tongue scare energy orphan one provide";
+var mnemonic = "inform marriage unaware teach solve unfair knee siren ugly sport tuition risk";

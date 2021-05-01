@@ -1,1 +1,1 @@
-var mnemonic = "clerk amazing kitten fossil invest gown tag release welcome twin swift cup";
+var mnemonic = "sock joy warrior squeeze beyond advice gossip hello duty what soon motor";

@@ -1,1 +1,1 @@
-var mnemonic = "utility solution behave this exclude scorpion immune tongue plunge nest captain poem";
+var mnemonic = "describe logic blur canyon vehicle syrup ivory dwarf art depth effort assume";

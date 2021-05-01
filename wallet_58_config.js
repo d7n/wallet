@@ -1,1 +1,1 @@
-var mnemonic = "job chunk gain chunk deny void sign liar awake leaf speak toward";
+var mnemonic = "sister winter mistake loyal cream twist zoo unique waste cloud raven team";

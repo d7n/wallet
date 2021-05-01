@@ -1,1 +1,1 @@
-var mnemonic = "parent stairs drum hub window beyond property visa beyond judge document pull";
+var mnemonic = "drill alpha elegant father holiday term salt embark invest museum captain era";

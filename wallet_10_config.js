@@ -1,1 +1,1 @@
-var mnemonic = "aware situate blouse second sound session frame kingdom setup kiwi zoo nasty";
+var mnemonic = "axis junior shaft enact child push basket critic erode program asset mutual";

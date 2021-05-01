@@ -1,1 +1,1 @@
-var mnemonic = "candy merit menu tool bunker stuff dance rate avoid black clarify art";
+var mnemonic = "hero armor wild believe spot screen merry uncle indicate medal liquid tennis";

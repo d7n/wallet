@@ -1,1 +1,1 @@
-var mnemonic = "tower space viable ride chicken winter peasant moral lawn immense error cage";
+var mnemonic = "robust shell produce scrap butter lonely delay elephant street manage monitor note";

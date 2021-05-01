@@ -1,1 +1,1 @@
-var mnemonic = "leopard blush must salute afraid pause turn menu swap vacuum ankle knife";
+var mnemonic = "poet focus shoulder merge round purchase record dash silver shuffle frost vocal";

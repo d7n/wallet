@@ -1,1 +1,1 @@
-var mnemonic = "tissue maze wrist subject shove lumber absurd suffer drill term mutual include";
+var mnemonic = "state defense ice parade bamboo beef stick venture sense carpet render rigid";

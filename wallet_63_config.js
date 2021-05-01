@@ -1,1 +1,1 @@
-var mnemonic = "spin false tree unlock chef blind wine base episode history level reject";
+var mnemonic = "monster island relief blast public note level obtain main barrel where desk";

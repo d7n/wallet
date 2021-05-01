@@ -1,1 +1,1 @@
-var mnemonic = "gun crew ocean goat census lumber park blind area melody toe carpet";
+var mnemonic = "young organ upset cry slab before island novel domain orphan turn essence";

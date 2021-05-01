@@ -1,1 +1,1 @@
-var mnemonic = "unhappy fresh end major bunker fault invite banner camera entry tip bicycle";
+var mnemonic = "sight unit kitten leg today talent seek glance one town sister fossil";

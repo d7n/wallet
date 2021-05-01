@@ -1,1 +1,1 @@
-var mnemonic = "busy tackle topic fringe just situate balcony cement whip trumpet witness thing";
+var mnemonic = "police still kiwi top various approve idea sure crumble swear anchor female";

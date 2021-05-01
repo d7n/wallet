@@ -1,1 +1,1 @@
-var mnemonic = "differ trigger exotic breeze loud away anxiety smooth relax inquiry shrimp moon";
+var mnemonic = "chapter antenna priority shield wink swim history device cream model dinosaur rib";

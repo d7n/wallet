@@ -1,1 +1,1 @@
-var mnemonic = "actor mushroom march broken receive icon please virtual release yellow situate bacon";
+var mnemonic = "denial material assist plunge sentence indoor pilot roof orbit grab chaos wire";

@@ -1,1 +1,1 @@
-var mnemonic = "biology obtain sheriff answer item sugar firm rhythm mom husband ignore attitude";
+var mnemonic = "airport ten juice utility grocery boost state milk exchange luggage control include";

@@ -1,1 +1,1 @@
-var mnemonic = "merge stairs acoustic question nasty baby health album keen trial tent consider";
+var mnemonic = "oppose dignity piano empower exit refuse word middle staff pelican shift spy";

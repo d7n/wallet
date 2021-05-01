@@ -1,1 +1,1 @@
-var mnemonic = "world hammer day waste flavor corn peace excuse winter visa analyst mixture";
+var mnemonic = "pretty uncover rubber truth super add finger educate flight plate film orbit";

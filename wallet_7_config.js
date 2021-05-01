@@ -1,1 +1,1 @@
-var mnemonic = "feel pink poverty lemon fatigue sister follow inquiry canal fashion author aunt";
+var mnemonic = "lyrics sleep review inquiry accident stone together pupil bird insane horse assault";

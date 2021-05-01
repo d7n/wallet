@@ -1,1 +1,1 @@
-var mnemonic = "squeeze parade school dance piece dutch wall shoe sting layer alpha inform";
+var mnemonic = "grief middle open stadium nice ankle illness face seven metal cycle beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "fame assault fatal onion advice length ignore day awkward faculty camp enable";
+var mnemonic = "door couple nerve point domain alarm rough kidney milk shed analyst gravity";

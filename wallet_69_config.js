@@ -1,1 +1,1 @@
-var mnemonic = "question exchange course bundle embark ball error stable argue harbor country pass";
+var mnemonic = "mistake alley fiber border waste match pig music critic hat dove inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "master spice message story hobby vital spice sleep cute burden domain leopard";
+var mnemonic = "garbage obey fuel celery border next decline tuna immense empower spoon permit";

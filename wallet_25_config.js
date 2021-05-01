@@ -1,1 +1,1 @@
-var mnemonic = "thunder creek behind acquire bulk key zoo artefact cave dragon lyrics subway";
+var mnemonic = "abandon cradle blue wrist expand blade clog angle label master range pig";

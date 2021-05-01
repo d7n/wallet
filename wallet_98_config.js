@@ -1,1 +1,1 @@
-var mnemonic = "example excuse mandate crucial lizard clean stand clerk bonus alley leader grunt";
+var mnemonic = "cotton place apology blue come budget orient barrel birth question shaft top";

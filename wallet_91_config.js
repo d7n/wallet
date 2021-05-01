@@ -1,1 +1,1 @@
-var mnemonic = "steel pigeon title bus thunder useless uphold early suffer artefact pistol claim";
+var mnemonic = "virus left snow miracle sniff dad scatter leave tilt follow earth toilet";

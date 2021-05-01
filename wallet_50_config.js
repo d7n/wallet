@@ -1,1 +1,1 @@
-var mnemonic = "guide naive will labor flee impact essay brisk sniff sign comic glass";
+var mnemonic = "trade narrow fame unique trick empower reopen tooth vanish ski million rocket";

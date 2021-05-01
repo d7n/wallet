@@ -1,1 +1,1 @@
-var mnemonic = "icon attack teach moment iron spot stamp behave theme acquire twin donor";
+var mnemonic = "deposit axis anchor rotate balcony follow because fluid very draft drastic weekend";

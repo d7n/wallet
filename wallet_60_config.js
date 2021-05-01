@@ -1,1 +1,1 @@
-var mnemonic = "safe soft ordinary rely hurdle earth tell distance survey energy spread kiss";
+var mnemonic = "dismiss void educate sunny soap rebel oven puzzle series boost casual thunder";

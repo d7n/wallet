@@ -1,1 +1,1 @@
-var mnemonic = "december aunt fold since bulk uncle symbol theory broom fringe debris floor";
+var mnemonic = "yellow cross wet boost bread alter receive float hair south soccer valley";

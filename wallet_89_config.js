@@ -1,1 +1,1 @@
-var mnemonic = "easily logic penalty already win opera pluck fun lawsuit engine case ocean";
+var mnemonic = "surge note anxiety cheese plunge above side pill price youth solid exercise";

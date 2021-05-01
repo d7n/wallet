@@ -1,1 +1,1 @@
-var mnemonic = "scene good exhibit baby drift poem law wood broom budget guitar once";
+var mnemonic = "bubble desert lumber flag left adult blur shadow thing empower entire swim";

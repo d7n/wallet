@@ -1,1 +1,1 @@
-var mnemonic = "kitchen pizza mammal seminar later mother stem save file flame velvet remain";
+var mnemonic = "profit venue okay school fee decline man length hold grit trade code";

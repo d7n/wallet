@@ -1,1 +1,1 @@
-var mnemonic = "lottery dream update solve lemon boost cinnamon veteran another weekend number finger";
+var mnemonic = "labor acquire current debris whip dragon sound firm divide find system desk";

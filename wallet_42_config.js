@@ -1,1 +1,1 @@
-var mnemonic = "winner manage morning cover shrug buyer seminar pepper response oak shuffle average";
+var mnemonic = "brown happy buzz arrange much era penalty lobster oblige belt inmate smoke";

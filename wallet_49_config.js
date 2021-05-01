@@ -1,1 +1,1 @@
-var mnemonic = "peace brand say method cruise dash require place tissue grace tonight mosquito";
+var mnemonic = "monster rack guess school paper velvet verify dignity pony just metal slim";

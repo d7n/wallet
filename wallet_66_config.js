@@ -1,1 +1,1 @@
-var mnemonic = "time skill olympic jazz flush clinic crack sand crack shock pretty dune";
+var mnemonic = "window fame seek collect window alter shaft space rifle middle exact nerve";

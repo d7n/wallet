@@ -1,1 +1,1 @@
-var mnemonic = "replace coach purity behave town pledge talent garbage comic fly empty fly";
+var mnemonic = "alpha age dentist grow shield unit barrel nothing device hundred output dinosaur";

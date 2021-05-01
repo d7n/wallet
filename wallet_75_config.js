@@ -1,1 +1,1 @@
-var mnemonic = "damage civil electric trophy cluster visit easy cabbage rubber grape tape meat";
+var mnemonic = "survey casino trophy recycle opera finish shock crime various ignore game verb";

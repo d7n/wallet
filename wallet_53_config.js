@@ -1,1 +1,1 @@
-var mnemonic = "boring wood like indicate ice donkey educate stove tent hurdle wave garment";
+var mnemonic = "lab bounce solid regret grief want lecture soup mirror intact custom arrest";

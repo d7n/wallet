@@ -1,1 +1,1 @@
-var mnemonic = "convince reopen educate atom danger gun device never wish hint entire ancient";
+var mnemonic = "middle lyrics arctic expect omit wait injury limit mean genius fury broccoli";

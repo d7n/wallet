@@ -1,1 +1,1 @@
-var mnemonic = "mushroom retire occur lava witness improve want suffer flush chest length bid";
+var mnemonic = "crazy festival joke dose solution bottom legend pause wide country nose magnet";

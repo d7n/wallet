@@ -1,1 +1,1 @@
-var mnemonic = "dune battle execute kitten grocery split indicate guitar lobster outer bronze radio";
+var mnemonic = "enroll high upon virtual notice riot pulse game protect excess birth hurdle";

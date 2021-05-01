@@ -1,1 +1,1 @@
-var mnemonic = "vintage warfare such differ use suspect tag you subway daughter excess portion";
+var mnemonic = "there worry always century ketchup puzzle heart follow cattle have sad movie";

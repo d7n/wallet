@@ -1,1 +1,1 @@
-var mnemonic = "digital pattern setup bring bunker guide mobile hamster ethics daring license surround";
+var mnemonic = "floor chunk team dice entry north organ slogan bitter man animal say";

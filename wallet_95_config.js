@@ -1,1 +1,1 @@
-var mnemonic = "pill soda current whale music jewel stage cube tobacco above circle wood";
+var mnemonic = "lyrics wool repair steak meadow rifle solar access mango syrup mystery hunt";

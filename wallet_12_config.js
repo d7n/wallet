@@ -1,1 +1,1 @@
-var mnemonic = "payment kingdom view merge word vanish shine alley clap lift twice action";
+var mnemonic = "hen finish cube series torch faculty before credit veteran elephant critic morning";

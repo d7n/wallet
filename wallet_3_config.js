@@ -1,1 +1,1 @@
-var mnemonic = "actor need push aunt scan exclude beef tackle solution damp other extra";
+var mnemonic = "panic repeat asthma impose glory tiger civil coin pair various tag refuse";

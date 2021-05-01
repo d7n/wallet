@@ -1,1 +1,1 @@
-var mnemonic = "nut yard vicious feel circle friend bounce stamp spawn cloud wait roof";
+var mnemonic = "climb strong expose people age scout clutch praise solid foam still exercise";

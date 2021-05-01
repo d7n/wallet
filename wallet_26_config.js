@@ -1,1 +1,1 @@
-var mnemonic = "parent job noodle polar outdoor gossip phone recipe bicycle rifle force chief";
+var mnemonic = "into essay vote sea wonder bachelor battle defy month uncle club clock";

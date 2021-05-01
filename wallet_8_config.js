@@ -1,1 +1,1 @@
-var mnemonic = "job fox crazy record alone metal orange visit under latin knife clerk";
+var mnemonic = "session lonely reflect click quarter hand borrow sound pulp fuel pear spoon";

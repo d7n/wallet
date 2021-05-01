@@ -1,1 +1,1 @@
-var mnemonic = "zoo daring fog fancy mandate topple rack analyst retreat twice front shy";
+var mnemonic = "venue bind window guide basic unit favorite brother project frozen moon iron";

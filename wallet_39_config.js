@@ -1,1 +1,1 @@
-var mnemonic = "scare ticket cross liquid excuse wash stage senior measure biology guard common";
+var mnemonic = "autumn caution whip elder region answer quit enemy sell spell canoe coral";

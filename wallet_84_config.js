@@ -1,1 +1,1 @@
-var mnemonic = "olympic update noble easy chaos find flee purity face happy coffee hour";
+var mnemonic = "blush soft grace jungle faculty rhythm clap jazz heart shift grape tuna";

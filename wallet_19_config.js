@@ -1,1 +1,1 @@
-var mnemonic = "season pluck blush flat use once release bid history cart couch undo";
+var mnemonic = "ensure state amused fog wolf clean sword all hockey swift next banana";

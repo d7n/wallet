@@ -1,1 +1,1 @@
-var mnemonic = "fun gym arrow grocery head parade impulse gravity profit valley liberty raise";
+var mnemonic = "scan chief awake display stage waste chase cram anxiety border question that";

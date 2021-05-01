@@ -1,1 +1,1 @@
-var mnemonic = "nest drastic ship rain exclude twelve potato blind usage orbit zero fee";
+var mnemonic = "must champion wet general door shuffle tomorrow danger food call receive stereo";

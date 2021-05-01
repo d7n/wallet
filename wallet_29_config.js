@@ -1,1 +1,1 @@
-var mnemonic = "session genuine forest clarify frog when screen dog pledge mercy inject write";
+var mnemonic = "scheme comic pupil typical giraffe title copper radio member unusual idle liberty";

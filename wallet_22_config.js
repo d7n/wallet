@@ -1,1 +1,1 @@
-var mnemonic = "holiday ticket whale dinner dignity finish silver filter play bitter talk make";
+var mnemonic = "rely light way local uphold coach parade lyrics surface answer agree unfair";

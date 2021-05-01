@@ -1,1 +1,1 @@
-var mnemonic = "prize oak door science accuse fat slide smile twelve answer muscle heavy";
+var mnemonic = "cushion soldier trumpet love law else liquid fringe foster baby rate reform";

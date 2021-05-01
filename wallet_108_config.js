@@ -1,1 +1,1 @@
-var mnemonic = "rookie cabbage eight ill shift blade seminar peasant avoid first quick easy";
+var mnemonic = "update acoustic diesel liquid stick pumpkin wisdom robot couch chest gossip park";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy alone fragile hour floor traffic result rain stand wage promote slam";
+var mnemonic = "effort fitness story husband ecology scatter silk number cupboard belt hotel penalty";

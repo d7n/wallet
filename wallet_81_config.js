@@ -1,1 +1,1 @@
-var mnemonic = "busy head kite power boss nurse heart breeze error cable biology awful";
+var mnemonic = "tide defense hip slot crater crowd palace shop similar lonely leave transfer";

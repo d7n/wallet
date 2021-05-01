@@ -1,1 +1,1 @@
-var mnemonic = "gallery please address sketch version dinner width staff coach visual drop surprise";
+var mnemonic = "episode monkey accuse valve force crucial ordinary reunion hat entry include derive";

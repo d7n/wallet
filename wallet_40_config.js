@@ -1,1 +1,1 @@
-var mnemonic = "relief undo ball enroll that slender tumble chronic exhibit print else sand";
+var mnemonic = "weather actor stem sustain glass thunder sheriff funny junk swamp sorry sponsor";

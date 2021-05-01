@@ -1,1 +1,1 @@
-var mnemonic = "police crunch glory warrior truly draft build engine barrel benefit smart fossil";
+var mnemonic = "display reunion quit joke battle truly wide suspect finish neck diesel aunt";

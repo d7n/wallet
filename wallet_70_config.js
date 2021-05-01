@@ -1,1 +1,1 @@
-var mnemonic = "duty asset absorb clutch method hidden size blood truth face tell climb";
+var mnemonic = "survey affair theory away ensure rigid tunnel film mobile credit census lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "flag arctic knee inform capital frequent game merry turkey page spatial mask";
+var mnemonic = "border panel next hotel mad symbol shuffle bike grief silk spring robust";

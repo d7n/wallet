@@ -1,1 +1,1 @@
-var mnemonic = "ship quote boat area record admit return dinosaur column top east master";
+var mnemonic = "snap melt hair make spice oppose panther opinion cruise humor exchange brave";

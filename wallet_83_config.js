@@ -1,1 +1,1 @@
-var mnemonic = "gown text convince genuine abandon decrease fruit release today camp penalty diesel";
+var mnemonic = "help slow tiger motion escape scale salt stay ritual upper job salute";

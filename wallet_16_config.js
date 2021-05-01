@@ -1,1 +1,1 @@
-var mnemonic = "such ketchup nasty fix allow owner enable cabbage blush you suffer jealous";
+var mnemonic = "stick worth wealth ribbon water scrap dog donor alley cheese make flame";

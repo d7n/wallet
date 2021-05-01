@@ -1,1 +1,1 @@
-var mnemonic = "gallery pride claw cost develop hair squirrel keen alien program flush inhale";
+var mnemonic = "achieve salute hire enemy year dirt polar firm race describe tail chief";

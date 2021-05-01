@@ -1,1 +1,1 @@
-var mnemonic = "welcome artefact where remove journey trust doll expand title raw outside age";
+var mnemonic = "legend keep cute obvious radio inflict much today kingdom lonely release sorry";

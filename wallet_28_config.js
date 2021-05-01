@@ -1,1 +1,1 @@
-var mnemonic = "lecture output adapt clerk diet era before alter choose relief wreck busy";
+var mnemonic = "dolphin stand van problem awake target gadget gossip mobile response ghost joke";

@@ -1,1 +1,1 @@
-var mnemonic = "decade quit witness sleep cigar pull exchange cheese super immense remind bind";
+var mnemonic = "butter lecture bench ensure cave wait tribe spice alter holiday vessel olympic";

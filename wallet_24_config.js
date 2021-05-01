@@ -1,1 +1,1 @@
-var mnemonic = "tumble scan obscure attract swarm merit ride way push illness stove faculty";
+var mnemonic = "wine eyebrow mosquito seat express tent fiction announce series pear teach hotel";

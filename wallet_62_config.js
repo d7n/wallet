@@ -1,1 +1,1 @@
-var mnemonic = "any embody soccer ensure result sample basket term purchase sea beef material";
+var mnemonic = "guilt pottery weird glove motion camera left awesome ranch wish jazz useless";

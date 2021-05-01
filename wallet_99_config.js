@@ -1,1 +1,1 @@
-var mnemonic = "defy horn bonus upset clarify road author replace light wheat congress pond";
+var mnemonic = "pigeon knife elder eagle glare fit board rifle issue extra mansion foster";

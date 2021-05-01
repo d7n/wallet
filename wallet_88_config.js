@@ -1,1 +1,1 @@
-var mnemonic = "dust rose obey they color believe around dice animal apple wrist funny";
+var mnemonic = "food void impact spider motion skate game odor digital lava all clock";

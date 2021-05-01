@@ -1,1 +1,1 @@
-var mnemonic = "marble trust slender logic cluster ceiling broom reason bubble defy endless name";
+var mnemonic = "depend sentence track town fresh rescue taxi female biology deny lion biology";

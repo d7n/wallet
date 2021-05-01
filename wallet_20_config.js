@@ -1,1 +1,1 @@
-var mnemonic = "shine lucky undo almost angry spread load duck display family knee rocket";
+var mnemonic = "forget spoon route need wonder give term cactus woman game kidney rabbit";

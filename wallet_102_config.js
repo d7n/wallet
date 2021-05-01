@@ -1,1 +1,1 @@
-var mnemonic = "eagle drama champion play list powder crater crack hurdle vast govern bubble";
+var mnemonic = "weather slam decrease gate sibling charge slab claw moon major length possible";
