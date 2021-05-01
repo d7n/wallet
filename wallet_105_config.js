@@ -1,1 +1,1 @@
-var mnemonic = "exile drink recycle burden person animal resource pyramid common tilt ostrich click";
+var mnemonic = "main radio foil elegant visual course shrimp practice man honey jacket destroy";

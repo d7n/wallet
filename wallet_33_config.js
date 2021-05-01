@@ -1,1 +1,1 @@
-var mnemonic = "knee reason volume select barely unhappy share property wage dust field conduct";
+var mnemonic = "mobile initial boost happy cancel mean nuclear rate wish much cost spy";

@@ -1,1 +1,1 @@
-var mnemonic = "blade leisure valid miracle pistol picture type short evidence trade quit light";
+var mnemonic = "token shadow trim awkward trip axis olympic pact retire solution table shield";

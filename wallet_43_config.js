@@ -1,1 +1,1 @@
-var mnemonic = "celery begin help believe run core punch husband tone spray spin ozone";
+var mnemonic = "couple spray clip prepare burger pluck north opera wall rural celery thought";

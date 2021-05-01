@@ -1,1 +1,1 @@
-var mnemonic = "physical sort cry three round song practice empty odor reflect market upgrade";
+var mnemonic = "learn estate heavy scout inherit sing acoustic dutch ozone mistake color bring";

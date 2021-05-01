@@ -1,1 +1,1 @@
-var mnemonic = "space tell attack supreme connect harvest comic minute chat alone silent luggage";
+var mnemonic = "amazing label away arena narrow elder public goose inherit such near girl";

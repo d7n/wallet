@@ -1,1 +1,1 @@
-var mnemonic = "barely enrich tomorrow rose imitate olympic owner wealth focus season fish diesel";
+var mnemonic = "omit goat easily finish amateur bright betray exact adult panda hood cement";

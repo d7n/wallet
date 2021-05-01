@@ -1,1 +1,1 @@
-var mnemonic = "flavor odor buffalo casino inflict surprise earth game flee alien pave beach";
+var mnemonic = "all recall decrease region calm receive bronze because crazy dream skill abandon";

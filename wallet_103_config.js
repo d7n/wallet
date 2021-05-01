@@ -1,1 +1,1 @@
-var mnemonic = "artist earn burst plug spike eternal correct sign dial ketchup grid perfect";
+var mnemonic = "thunder material endorse gaze suit month east normal web list salmon recipe";

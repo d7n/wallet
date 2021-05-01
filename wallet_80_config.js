@@ -1,1 +1,1 @@
-var mnemonic = "kite grain pave garment diet ticket metal loyal clinic appear crystal hole";
+var mnemonic = "gravity hold hub ceiling staff spirit sand library card identify leisure print";

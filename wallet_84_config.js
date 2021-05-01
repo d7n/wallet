@@ -1,1 +1,1 @@
-var mnemonic = "click lottery token guitar pet pipe render tag vivid craft rally royal";
+var mnemonic = "horror enable theme ill harsh salon title feel ten depth guilt used";

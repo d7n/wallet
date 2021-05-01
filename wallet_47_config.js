@@ -1,1 +1,1 @@
-var mnemonic = "vague neck resemble dismiss ball wheel make orient capable viable depth pumpkin";
+var mnemonic = "velvet indoor canal candy cargo celery ceiling access opinion yellow depend pony";

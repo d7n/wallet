@@ -1,1 +1,1 @@
-var mnemonic = "ritual winner plunge chalk nominee jazz clutch reflect monitor shallow veteran survey";
+var mnemonic = "orange ladder camera boy gap innocent empower girl either inner sense burger";

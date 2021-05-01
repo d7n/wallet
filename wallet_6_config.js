@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow useless pear need magic topic subway mix brain body soft equip";
+var mnemonic = "sleep enemy attend weather seed pond age miss day sea giant evoke";

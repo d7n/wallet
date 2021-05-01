@@ -1,1 +1,1 @@
-var mnemonic = "coil where fee explain rare face ozone wide middle eyebrow slab horror";
+var mnemonic = "inhale plate ginger oven wait cute possible strike outside tuition tide engine";

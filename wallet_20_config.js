@@ -1,1 +1,1 @@
-var mnemonic = "ceiling aerobic staff romance client mixture argue bunker find ladder become upper";
+var mnemonic = "silly primary shoe ripple laundry noise monster dove cloud claim dolphin flip";

@@ -1,1 +1,1 @@
-var mnemonic = "swim unfold tide purity simple food century until talent large twist october";
+var mnemonic = "future tuition clock toilet resemble blur check peace spatial season scout project";

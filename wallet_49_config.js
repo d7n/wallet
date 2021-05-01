@@ -1,1 +1,1 @@
-var mnemonic = "cruise oven mango tourist cement wrap afraid soccer shed dutch physical fringe";
+var mnemonic = "oil burden gift water jazz mesh actress guilt badge ship coast pattern";

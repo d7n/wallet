@@ -1,1 +1,1 @@
-var mnemonic = "make finish lobster wash chicken tuition supreme rocket tenant eight century case";
+var mnemonic = "sweet control viable diary farm effort danger defense whale enable north rhythm";

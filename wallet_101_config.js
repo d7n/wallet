@@ -1,1 +1,1 @@
-var mnemonic = "blood embark square tribe response fit fury over peanut abstract lake forget";
+var mnemonic = "tiny lemon protect prepare amused grid change inspire mix sugar code coin";

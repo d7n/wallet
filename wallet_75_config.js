@@ -1,1 +1,1 @@
-var mnemonic = "loan grow supreme volume festival turn fee fly puppy follow solar bargain";
+var mnemonic = "skill wet need coffee very moment private unhappy limb gospel feature sibling";

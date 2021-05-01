@@ -1,1 +1,1 @@
-var mnemonic = "denial blush eagle broken devote word person script verb hidden royal lonely";
+var mnemonic = "occur loan wisdom wild spread earth process modify amateur crazy drive organ";

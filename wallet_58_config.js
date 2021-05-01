@@ -1,1 +1,1 @@
-var mnemonic = "crack wood dutch above lava tool voice fancy lawsuit shrimp mountain jacket";
+var mnemonic = "pole clever machine wrap measure knock panther glide lumber stem clinic hotel";

@@ -1,1 +1,1 @@
-var mnemonic = "theory bless light symbol agent soda squirrel sentence misery clever panda width";
+var mnemonic = "assault what grape have worry heavy congress board husband poem surround ensure";

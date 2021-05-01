@@ -1,1 +1,1 @@
-var mnemonic = "deposit pave ritual oak remember glove meat jeans legal hold lend usage";
+var mnemonic = "country rich track that gain need copy tobacco winter syrup magnet wise";

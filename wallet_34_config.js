@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin robust alley festival dog awesome burst title egg kick route company";
+var mnemonic = "wire soldier pitch fork network old abandon pyramid hundred chalk detail turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "child valve sound kangaroo describe bring segment lucky razor bamboo atom camera";
+var mnemonic = "lecture segment minute good produce sponsor sign asthma december rose nephew miss";

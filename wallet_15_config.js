@@ -1,1 +1,1 @@
-var mnemonic = "rally claw path case easily copper outdoor half erode oven sell garbage";
+var mnemonic = "erase major notice vital duck nasty lamp open person pull caution bunker";

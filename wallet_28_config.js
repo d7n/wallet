@@ -1,1 +1,1 @@
-var mnemonic = "north mesh produce midnight planet mango moon wing camp chicken love gorilla";
+var mnemonic = "palm print memory suggest circle setup neither delay walk praise fatal harvest";

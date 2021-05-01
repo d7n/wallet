@@ -1,1 +1,1 @@
-var mnemonic = "code essence raven rescue suit grit broccoli void civil dynamic hammer place";
+var mnemonic = "endless midnight summer barely tail jungle gravity zero marriage coast pole analyst";

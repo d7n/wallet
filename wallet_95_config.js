@@ -1,1 +1,1 @@
-var mnemonic = "divorce reveal post capital horn derive gesture guitar limit rescue worry host";
+var mnemonic = "describe zebra reform diamond pizza move saddle express idle tag rose repeat";

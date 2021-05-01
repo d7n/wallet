@@ -1,1 +1,1 @@
-var mnemonic = "term urge seven wash recycle sketch divide obtain amateur place hurt bid";
+var mnemonic = "emotion tank utility throw chronic ridge guide panda suggest tumble buffalo toward";

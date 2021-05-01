@@ -1,1 +1,1 @@
-var mnemonic = "lazy sort firm toss cushion sunny eternal melt light shoe monitor mirror";
+var mnemonic = "notice crash weekend club rely tobacco album rally fit pear club chunk";

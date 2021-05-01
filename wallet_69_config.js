@@ -1,1 +1,1 @@
-var mnemonic = "same bread social meadow vendor text crime october roof bicycle popular gas";
+var mnemonic = "rose ask question cluster attract process time view wine divorce tobacco because";

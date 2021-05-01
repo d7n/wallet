@@ -1,1 +1,1 @@
-var mnemonic = "symptom tired rival shaft cost usage soup lab kingdom apology total become";
+var mnemonic = "young bonus piano sponsor rule push tooth make escape until wing school";

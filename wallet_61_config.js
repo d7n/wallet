@@ -1,1 +1,1 @@
-var mnemonic = "repair flag hint rule mix shaft chat canal prevent salon wire joy";
+var mnemonic = "fatigue unique country unlock vapor pink bachelor salon satoshi right include mechanic";

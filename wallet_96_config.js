@@ -1,1 +1,1 @@
-var mnemonic = "town thumb moon bus seven squeeze term time clerk appear boy adult";
+var mnemonic = "elbow easy shadow evolve trouble next tortoise exhibit indoor brass bar cross";

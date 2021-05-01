@@ -1,1 +1,1 @@
-var mnemonic = "repeat endless anger bicycle food pumpkin flower long extend horse spend wire";
+var mnemonic = "priority soap laundry hood arrive scrap dust theme nasty twist pluck turn";

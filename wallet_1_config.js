@@ -1,1 +1,1 @@
-var mnemonic = "jewel olympic harsh stamp mercy kingdom method deposit loyal exile sword glare";
+var mnemonic = "giant jelly hidden silk sister evil narrow celery blue simple hungry ball";

@@ -1,1 +1,1 @@
-var mnemonic = "object skill cook churn hawk arctic bless wait smooth tooth spend educate";
+var mnemonic = "receive actor push river romance foot perfect decrease bus year remove swim";

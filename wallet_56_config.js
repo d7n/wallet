@@ -1,1 +1,1 @@
-var mnemonic = "another leader present bleak swap elbow say party cabin guess receive hungry";
+var mnemonic = "pretty club square mirror volcano they muffin other helmet huge half jelly";

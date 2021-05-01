@@ -1,1 +1,1 @@
-var mnemonic = "equal rough raven input calm banner food embark thrive riot dust kidney";
+var mnemonic = "fresh card field frost rice forest crystal sausage identify term noise estate";

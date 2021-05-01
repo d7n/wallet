@@ -1,1 +1,1 @@
-var mnemonic = "destroy slice write limb helmet what during midnight sample tissue tribe equal";
+var mnemonic = "random margin crop sugar execute address air deal top pistol gorilla grunt";

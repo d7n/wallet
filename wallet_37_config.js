@@ -1,1 +1,1 @@
-var mnemonic = "dog dove manage regular conduct bulk volcano knee fame cabbage switch jump";
+var mnemonic = "acoustic file club subway gift task major dutch equal ugly vague panic";

@@ -1,1 +1,1 @@
-var mnemonic = "strong roof ostrich sport box hood account kick act pause place abuse";
+var mnemonic = "caution trumpet fresh occur vital east room cash online stumble custom worth";

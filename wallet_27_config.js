@@ -1,1 +1,1 @@
-var mnemonic = "volcano valid describe liar limb twelve nurse gold hamster zebra child brain";
+var mnemonic = "click gentle toy cement fantasy verb assault state price panda funny horn";

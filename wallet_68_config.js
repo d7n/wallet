@@ -1,1 +1,1 @@
-var mnemonic = "kit tattoo control quality reveal harvest ship ski idea punch genius arctic";
+var mnemonic = "merge buyer speed iron grain unfair decorate reopen wink rich absent settle";

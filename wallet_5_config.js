@@ -1,1 +1,1 @@
-var mnemonic = "hammer satisfy pattern expect thing air hole cash trouble forward document next";
+var mnemonic = "napkin want nurse salute merge weather worry assault toss capital route jelly";

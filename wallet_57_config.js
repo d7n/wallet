@@ -1,1 +1,1 @@
-var mnemonic = "portion point wine wing fashion unknown reflect thumb oxygen hawk sustain add";
+var mnemonic = "arm undo assume rate sense engine scare shoot blouse deer neglect deliver";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy also funny bonus evoke found half snake will hope math axis";
+var mnemonic = "exotic dad gain grunt drive august grocery patient liquid hockey plate rival";

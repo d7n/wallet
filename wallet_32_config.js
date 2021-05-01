@@ -1,1 +1,1 @@
-var mnemonic = "symptom demand shiver gap slim path puppy toy portion sleep loan job";
+var mnemonic = "venue double rule tuition device love debate lobster desk public ritual vote";

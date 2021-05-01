@@ -1,1 +1,1 @@
-var mnemonic = "gaze tattoo odor aware reject come tiger real blade glare minimum retire";
+var mnemonic = "air kiwi adjust arrest annual suggest expose hat seminar raw naive guitar";

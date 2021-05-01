@@ -1,1 +1,1 @@
-var mnemonic = "practice lamp submit tunnel wool february horn undo spot train trend wheel";
+var mnemonic = "memory rude now patch melt angle repeat essence series decorate sniff length";

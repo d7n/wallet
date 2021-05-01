@@ -1,1 +1,1 @@
-var mnemonic = "install warrior admit source remind man arena other barely champion muscle vanish";
+var mnemonic = "myth civil advice notice domain appear win simple walk shiver extra share";

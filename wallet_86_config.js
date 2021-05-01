@@ -1,1 +1,1 @@
-var mnemonic = "tumble coffee brown fringe cost abuse echo fog stay add guilt seven";
+var mnemonic = "hub protect float milk enlist wrong situate unfold prepare payment frown race";

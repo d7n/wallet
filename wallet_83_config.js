@@ -1,1 +1,1 @@
-var mnemonic = "yard sudden parade recall conduct charge sick nose like assault jeans lion";
+var mnemonic = "citizen poet math void boil skull salute razor mimic rapid involve toast";

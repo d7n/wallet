@@ -1,1 +1,1 @@
-var mnemonic = "easily fee risk frequent uphold reject news truth gap garbage enforce solar";
+var mnemonic = "quarter canvas drama length border dash rare assist perfect found abstract movie";

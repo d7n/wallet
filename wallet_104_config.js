@@ -1,1 +1,1 @@
-var mnemonic = "turtle month keep eyebrow faculty salute antenna hill sketch boil dry mask";
+var mnemonic = "music impulse board dynamic essence bicycle tuition inject sheriff vote armed upper";

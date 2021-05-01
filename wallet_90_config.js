@@ -1,1 +1,1 @@
-var mnemonic = "power dutch fuel rib family place gift guard gospel denial total nation";
+var mnemonic = "slim soup hybrid easy cupboard similar because soap future guide enlist marine";

@@ -1,1 +1,1 @@
-var mnemonic = "alert crane kitchen eyebrow verb acquire black winter purse fruit swear fault";
+var mnemonic = "iron arctic ship wide blast wagon bless basket neutral crowd flash flash";

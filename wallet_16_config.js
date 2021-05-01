@@ -1,1 +1,1 @@
-var mnemonic = "trend family crowd visit urge captain hollow kind want enact push collect";
+var mnemonic = "cabbage shiver lawsuit column course walk dice already govern crouch apart parade";

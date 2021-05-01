@@ -1,1 +1,1 @@
-var mnemonic = "muffin recipe occur orchard seek weird cash door join yellow wealth race";
+var mnemonic = "grid erupt slogan act balance orbit quit blouse giant panda blur human";

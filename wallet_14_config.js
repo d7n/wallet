@@ -1,1 +1,1 @@
-var mnemonic = "head bleak hollow three version crack profit donate bundle hill notable family";
+var mnemonic = "bunker behind govern elegant earn catalog toss life dad castle social random";

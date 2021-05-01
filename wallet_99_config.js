@@ -1,1 +1,1 @@
-var mnemonic = "liar social drastic uphold bounce fabric couple super rebel culture damage rug";
+var mnemonic = "skirt found purpose garment team hotel gravity isolate lobster pistol sponsor barrel";

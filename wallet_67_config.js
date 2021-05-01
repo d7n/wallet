@@ -1,1 +1,1 @@
-var mnemonic = "prevent leg okay clog garage assume destroy poet unit boss rug apology";
+var mnemonic = "essence aerobic market correct toe endless make upper broccoli dove stadium obtain";

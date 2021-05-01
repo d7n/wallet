@@ -1,1 +1,1 @@
-var mnemonic = "access tornado episode speak casual peace helmet duck nest vapor loud banner";
+var mnemonic = "purpose tortoise belt question swap minor name excess major useless piano crime";

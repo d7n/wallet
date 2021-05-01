@@ -1,1 +1,1 @@
-var mnemonic = "universe develop false innocent above wife cover flip dial erupt hen uncover";
+var mnemonic = "wife color mechanic elevator liquid current cousin trouble blue evoke ring town";

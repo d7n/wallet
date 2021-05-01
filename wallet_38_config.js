@@ -1,1 +1,1 @@
-var mnemonic = "frequent hat token umbrella chapter sorry champion emerge start you dolphin eyebrow";
+var mnemonic = "wealth smile skirt relief gospel board borrow what pave away first night";

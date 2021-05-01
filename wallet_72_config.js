@@ -1,1 +1,1 @@
-var mnemonic = "erase cat trick bundle exchange trade fit sphere situate math such repeat";
+var mnemonic = "also congress volume color engine target multiply move fortune raise glory fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "toy filter forget cause immune admit client chuckle leg clinic grief yard";
+var mnemonic = "hidden gather raccoon unfair lake frequent waste match give club evolve shy";

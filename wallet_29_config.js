@@ -1,1 +1,1 @@
-var mnemonic = "hammer eye modify slight brick animal disagree crystal thing atom hamster analyst";
+var mnemonic = "wise vague that chuckle scrap solve ice excess guess pretty circle rally";

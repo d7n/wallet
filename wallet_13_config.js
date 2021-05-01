@@ -1,1 +1,1 @@
-var mnemonic = "cradle retire vapor turn guide suffer twelve kiwi sad must lumber stable";
+var mnemonic = "resource year monster gas book depend glove nasty tail ecology wedding mistake";

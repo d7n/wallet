@@ -1,1 +1,1 @@
-var mnemonic = "canoe tragic barrel like road spy mammal fabric divide solid undo bundle";
+var mnemonic = "tape riot settle bonus plate caught veteran desert title people core veteran";

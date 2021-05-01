@@ -1,1 +1,1 @@
-var mnemonic = "entire abandon drive today village discover auction chunk room mistake admit quiz";
+var mnemonic = "tenant patch loan rookie document image people hood caution mansion maze empower";

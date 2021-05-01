@@ -1,1 +1,1 @@
-var mnemonic = "trumpet where rich shoe lend endorse magnet heart one image wedding hub";
+var mnemonic = "vital young echo carbon evolve clinic swift believe armed lumber impulse flight";

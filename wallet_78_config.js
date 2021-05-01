@@ -1,1 +1,1 @@
-var mnemonic = "only disorder moon drift rely ramp life holiday tilt cruel typical web";
+var mnemonic = "supply beach mean letter unhappy seven label vote aware field sort aerobic";

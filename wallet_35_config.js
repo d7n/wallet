@@ -1,1 +1,1 @@
-var mnemonic = "task senior torch volume ivory little tilt panel inquiry pizza salon juice";
+var mnemonic = "high know sugar planet casual trophy other hurdle borrow maple aware put";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge pause gown approve major riot talk dose auto address twelve century";
+var mnemonic = "crisp once please illegal scissors fork thought illegal inflict leg doctor become";

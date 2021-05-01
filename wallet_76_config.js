@@ -1,1 +1,1 @@
-var mnemonic = "negative trophy clap open praise roast release slide ecology hurdle leader agent";
+var mnemonic = "shrimp enough way across advice ring audit battle cup desk city reform";

@@ -1,1 +1,1 @@
-var mnemonic = "alpha omit reunion dizzy wood universe annual endless high clean minute immune";
+var mnemonic = "curious mention text syrup enable inject change magic arrest install loan file";

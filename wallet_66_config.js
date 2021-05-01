@@ -1,1 +1,1 @@
-var mnemonic = "bid test dynamic quote weasel seed dream grace pioneer goddess upon easily";
+var mnemonic = "salmon spice silent chat feel cancel myth dream alert trap before shell";

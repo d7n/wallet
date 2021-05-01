@@ -1,1 +1,1 @@
-var mnemonic = "position phone renew rookie become problem alter hint radio steel clean case";
+var mnemonic = "sick fabric net dream bag sea theory enact slogan paddle crop high";

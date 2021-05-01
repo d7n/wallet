@@ -1,1 +1,1 @@
-var mnemonic = "garlic glimpse swing room oven ghost orbit wool trigger mean allow general";
+var mnemonic = "senior final obtain enjoy flavor list diary family genius prosper fiber embrace";

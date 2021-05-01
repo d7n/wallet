@@ -1,1 +1,1 @@
-var mnemonic = "draft boil unfold youth together syrup interest health cute sick elevator dolphin";
+var mnemonic = "gate spring vast sense credit derive minute stand orbit razor skirt army";

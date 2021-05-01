@@ -1,1 +1,1 @@
-var mnemonic = "tent field forum mosquito unable upon barrel bacon bean hawk health tumble";
+var mnemonic = "motor home piano swear pistol minimum cabbage magnet chief autumn breeze public";

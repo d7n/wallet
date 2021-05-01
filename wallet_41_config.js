@@ -1,1 +1,1 @@
-var mnemonic = "debate news skate system tool family clinic slush shell drive city object";
+var mnemonic = "access found cruise flame shadow basic camera acid vast liar minute pepper";

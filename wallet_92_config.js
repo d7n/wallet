@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo tackle provide parrot afford devote fee endless jelly scissors mammal tide";
+var mnemonic = "endless casino danger nice candy agree execute unit march trip change differ";

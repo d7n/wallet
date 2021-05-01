@@ -1,1 +1,1 @@
-var mnemonic = "flag demand surround clutch cook various hawk practice sibling beef toddler winner";
+var mnemonic = "visual marine blame random toast denial concert artist monster click wage wrong";

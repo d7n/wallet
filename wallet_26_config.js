@@ -1,1 +1,1 @@
-var mnemonic = "glance protect script okay leg spread dose cereal price shoe ahead load";
+var mnemonic = "onion cry vast project hat armed budget sauce crop ridge stomach bird";

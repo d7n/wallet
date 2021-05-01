@@ -1,1 +1,1 @@
-var mnemonic = "option connect net force life myth oval parrot loud shadow device comfort";
+var mnemonic = "exhaust friend burger wife entire cover visual heart neglect garden dust rookie";

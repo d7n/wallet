@@ -1,1 +1,1 @@
-var mnemonic = "collect fire sweet dress claw photo ritual armor person claw elevator claw";
+var mnemonic = "trumpet diamond world repeat spatial text envelope impulse digital maple verify palm";
