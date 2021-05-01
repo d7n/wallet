@@ -1,1 +1,1 @@
-var mnemonic = "year february flush embark crane knee fabric hunt phrase raven august exchange";
+var mnemonic = "select false one song salad regular vital race breeze chief mobile stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "skirt foil pledge naive blame illegal matrix proof razor raw grunt donate";
+var mnemonic = "spin drill divide observe shine buffalo tone rule glory wink wrong defy";

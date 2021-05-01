@@ -1,1 +1,1 @@
-var mnemonic = "system lawn various pottery reopen regular blouse sausage double cargo truth exclude";
+var mnemonic = "girl pool dynamic glide fresh property joy gossip identify perfect main parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet squeeze quarter veteran pilot rose absorb purpose artist scorpion guilt ancient";
+var mnemonic = "demand live design lamp rain fog arctic emotion manual dismiss toss wine";

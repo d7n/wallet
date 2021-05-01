@@ -1,1 +1,1 @@
-var mnemonic = "erosion nephew garbage already purity journey seat lava tone control love defense";
+var mnemonic = "online lumber bring popular maid relax between section october property accuse write";

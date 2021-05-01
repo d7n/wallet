@@ -1,1 +1,1 @@
-var mnemonic = "secret world valley flash lunch goddess much wonder penalty main culture salute";
+var mnemonic = "flat rack tiny core together clump film tomorrow exile ramp sweet please";

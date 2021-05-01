@@ -1,1 +1,1 @@
-var mnemonic = "laugh latin couch novel hammer myth actress apart unit barely meat purpose";
+var mnemonic = "lend window blur easily fun total situate explain afford day crazy rain";

@@ -1,1 +1,1 @@
-var mnemonic = "brass nothing siege spin duty bread other teach clock gospel use wisdom";
+var mnemonic = "pear vote wage this oxygen creek sibling alarm aunt behave equal front";

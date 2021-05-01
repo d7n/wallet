@@ -1,1 +1,1 @@
-var mnemonic = "cactus place develop decide ceiling bracket answer noodle must tortoise female path";
+var mnemonic = "olympic fade online moment bubble puzzle man forest fantasy wink weasel level";

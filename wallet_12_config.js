@@ -1,1 +1,1 @@
-var mnemonic = "water treat comic earth avocado perfect couple mean shed day feature secret";
+var mnemonic = "inherit sure skirt menu grit welcome taxi ahead bread retreat devote oval";

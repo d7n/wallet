@@ -1,1 +1,1 @@
-var mnemonic = "banner broken message used owner inspire twist inform general wreck table flash";
+var mnemonic = "often order decide squeeze repeat media then actual glory utility spread post";

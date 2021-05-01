@@ -1,1 +1,1 @@
-var mnemonic = "wish canyon cigar forget mesh eager main grunt tumble army divide occur";
+var mnemonic = "aim flag dance plastic detect thought duck advice reform record clean illegal";

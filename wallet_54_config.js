@@ -1,1 +1,1 @@
-var mnemonic = "fiber define ticket sniff tumble notice excite mercy lemon core hockey jungle";
+var mnemonic = "final special orchard elevator pelican will dismiss engage smooth soon kit damage";

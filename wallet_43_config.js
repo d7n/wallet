@@ -1,1 +1,1 @@
-var mnemonic = "common crunch frequent blush arm year street mansion enable witness chair yard";
+var mnemonic = "fatigue wear good disorder wheel grain volcano sweet inject coast sketch solve";

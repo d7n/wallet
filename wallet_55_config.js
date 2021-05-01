@@ -1,1 +1,1 @@
-var mnemonic = "parrot educate dinosaur subway zone then cross adapt exit coin wrap despair";
+var mnemonic = "theory alert uncle ozone library actor report desk siren spirit tank blouse";

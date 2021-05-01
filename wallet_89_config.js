@@ -1,1 +1,1 @@
-var mnemonic = "village laugh left baby relax century announce enable snow adjust neglect level";
+var mnemonic = "become fee setup rule valley dish junior small chief hub live ankle";

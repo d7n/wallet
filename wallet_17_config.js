@@ -1,1 +1,1 @@
-var mnemonic = "fringe angry raccoon hedgehog muscle whisper youth treat tell enemy maze outdoor";
+var mnemonic = "steel good crawl post dog struggle focus move item sentence cover bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "sad hole around library alone weather place view current polar busy cube";
+var mnemonic = "hello solar hurdle oppose alley jungle baby casino peanut ancient smoke need";

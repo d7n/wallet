@@ -1,1 +1,1 @@
-var mnemonic = "access know large eager hazard parent diary opera wasp soldier between bus";
+var mnemonic = "canal shove disagree river carry laugh across toy mercy mandate citizen fix";

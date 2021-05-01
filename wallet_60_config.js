@@ -1,1 +1,1 @@
-var mnemonic = "box run ill kiss margin trial dose grab sadness tower kitchen whisper";
+var mnemonic = "oyster monster ripple peasant icon void tower fall urban suggest large inch";

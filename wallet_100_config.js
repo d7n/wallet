@@ -1,1 +1,1 @@
-var mnemonic = "rare viable design erupt drum chalk husband mixture unusual scan genius bulb";
+var mnemonic = "tape armor choose indoor produce jaguar hour bone evolve struggle federal confirm";

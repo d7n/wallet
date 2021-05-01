@@ -1,1 +1,1 @@
-var mnemonic = "weekend hedgehog field tongue quit level quiz emerge addict tide clutch purity";
+var mnemonic = "swap trade truck twist style laugh aspect fan custom push movie october";

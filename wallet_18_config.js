@@ -1,1 +1,1 @@
-var mnemonic = "vault poet gadget until foster obtain indoor net visit frown buzz riot";
+var mnemonic = "play order once rescue antenna divert caught square devote title payment patient";

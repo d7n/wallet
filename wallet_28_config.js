@@ -1,1 +1,1 @@
-var mnemonic = "loud response scare tool obtain style world bulb vault inform patient shrimp";
+var mnemonic = "sea bonus blame puzzle slam soda remember share gauge pill tone unique";

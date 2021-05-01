@@ -1,1 +1,1 @@
-var mnemonic = "benefit giggle inquiry nation useful system cancel praise tube smooth dog dumb";
+var mnemonic = "useless among milk safe soon frame century equal gloom twelve scheme yard";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow document mix switch hammer sorry south travel saddle bulb drip hotel";
+var mnemonic = "quantum reform fancy imitate debris rapid file bright devote liquid consider wisdom";

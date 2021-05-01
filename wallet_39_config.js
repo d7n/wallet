@@ -1,1 +1,1 @@
-var mnemonic = "sponsor pepper turn dutch vast switch midnight empower bench virtual warrior enforce";
+var mnemonic = "board dad purpose awkward convince final supply card apology wine adult purity";

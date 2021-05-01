@@ -1,1 +1,1 @@
-var mnemonic = "blade near thought jelly bag garment stool stay explain cigar pigeon weekend";
+var mnemonic = "situate pilot space stem pass action process note better wet sibling fold";

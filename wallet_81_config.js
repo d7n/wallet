@@ -1,1 +1,1 @@
-var mnemonic = "improve wealth lucky enable kind total wrestle fee daring vote shop conduct";
+var mnemonic = "enlist caught jewel music someone stage jeans large easily cry way brass";

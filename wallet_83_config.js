@@ -1,1 +1,1 @@
-var mnemonic = "visit above winter sponsor match depart decorate salon coil trip disease zebra";
+var mnemonic = "damage muscle until put lazy seek flash concert festival habit post immune";

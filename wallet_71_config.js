@@ -1,1 +1,1 @@
-var mnemonic = "problem exist taste decrease spend damp text danger pizza abuse insect mechanic";
+var mnemonic = "endorse harsh inquiry amused label approve try weasel marble embrace sweet analyst";

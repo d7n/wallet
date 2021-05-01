@@ -1,1 +1,1 @@
-var mnemonic = "enjoy fee chuckle dilemma wrestle mechanic borrow dash media item fence large";
+var mnemonic = "earth pluck invest farm where broken amount legend valley pluck message accident";

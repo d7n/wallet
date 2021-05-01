@@ -1,1 +1,1 @@
-var mnemonic = "crash desk cereal satisfy spring off taste knee erosion shrug vocal early";
+var mnemonic = "latin decrease hobby avocado age balance illness all thumb category banner transfer";

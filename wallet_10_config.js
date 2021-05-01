@@ -1,1 +1,1 @@
-var mnemonic = "magnet detail artwork hurt where awkward garden carbon choice increase giant olympic";
+var mnemonic = "thrive history system cliff cloud crowd case blame frown pool spray uncover";

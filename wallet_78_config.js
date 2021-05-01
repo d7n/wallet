@@ -1,1 +1,1 @@
-var mnemonic = "cute purse awkward album draw reject ask vacuum chicken syrup extend myself";
+var mnemonic = "tower unfair grain slim boss accident turtle monitor dragon raw amateur target";

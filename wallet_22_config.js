@@ -1,1 +1,1 @@
-var mnemonic = "various wash electric impose chalk album venue walk focus lottery clip swap";
+var mnemonic = "tragic inspire vendor permit muffin dawn cabbage know know trend mixture urban";

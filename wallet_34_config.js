@@ -1,1 +1,1 @@
-var mnemonic = "sense board dice have sun south bachelor derive stable cabin lyrics satisfy";
+var mnemonic = "attack once share banner blue mixed elite ceiling property other juice car";

@@ -1,1 +1,1 @@
-var mnemonic = "wash name section nasty crunch figure despair fever between escape diesel vivid";
+var mnemonic = "front picture today tackle picnic decorate crunch year brush enough hover addict";

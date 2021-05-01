@@ -1,1 +1,1 @@
-var mnemonic = "film almost midnight sunny text solar jungle patch try void supply tragic";
+var mnemonic = "explain senior snack mask help text wolf dream sing enhance leave biology";

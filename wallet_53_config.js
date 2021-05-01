@@ -1,1 +1,1 @@
-var mnemonic = "few curtain leopard like banner deal cake crouch bubble juice focus mule";
+var mnemonic = "infant skate way earth keep deposit insect bounce grid gesture limb void";

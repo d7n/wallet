@@ -1,1 +1,1 @@
-var mnemonic = "extra fitness sock donate picture sun tell slender wood wrestle dawn hunt";
+var mnemonic = "kind gate wet guitar kitchen exact cupboard apology next pizza smile act";

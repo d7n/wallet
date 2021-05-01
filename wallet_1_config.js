@@ -1,1 +1,1 @@
-var mnemonic = "pink surface uncover imitate cliff output resemble turkey zebra decade bright buzz";
+var mnemonic = "oblige say clump address page fossil exist pigeon peasant sudden rival episode";

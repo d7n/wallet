@@ -1,1 +1,1 @@
-var mnemonic = "gun social ostrich auction injury property festival better seat grant trial waste";
+var mnemonic = "depart sugar interest duck owner vibrant course suspect dial hurt roof fiction";

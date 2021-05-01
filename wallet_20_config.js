@@ -1,1 +1,1 @@
-var mnemonic = "expire cabin grid okay ski have marble rally soup thank awake sail";
+var mnemonic = "flee term vacuum jewel water human ten face erosion connect capital country";

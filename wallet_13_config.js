@@ -1,1 +1,1 @@
-var mnemonic = "accuse lyrics apple victory sick camera advice spare manage sad foam notable";
+var mnemonic = "develop income middle bomb pill scrub increase nerve crazy pigeon acoustic series";

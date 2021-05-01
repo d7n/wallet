@@ -1,1 +1,1 @@
-var mnemonic = "bless aisle clutch canvas degree habit wagon caught cage trend system traffic";
+var mnemonic = "idle movie online team rally story dad ecology advance nut rescue circle";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble rail nest armor mom produce sport vague inflict ten camera guitar";
+var mnemonic = "atom buyer puzzle traffic bar wonder donor excuse damp tattoo trend negative";

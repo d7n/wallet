@@ -1,1 +1,1 @@
-var mnemonic = "file parade message stool spot riot subway alley blossom identify museum base";
+var mnemonic = "second decrease please film anger crazy paper water pause lazy waste jungle";

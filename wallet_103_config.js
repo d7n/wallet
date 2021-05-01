@@ -1,1 +1,1 @@
-var mnemonic = "cash whisper alarm avoid all wet hair minute matter dash venue weather";
+var mnemonic = "carpet media pool okay remain home pupil seek sadness hover capable phone";

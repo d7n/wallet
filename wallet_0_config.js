@@ -1,1 +1,1 @@
-var mnemonic = "shuffle jealous reject lecture boss amused swing capital crater vapor option between";
+var mnemonic = "cannon truth minor armed wild mom stuff stomach day poverty tide nest";

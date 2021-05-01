@@ -1,1 +1,1 @@
-var mnemonic = "farm human mutual slender north meat into end quote derive demand bless";
+var mnemonic = "pledge aspect dragon east simple venture walk clock kiwi tool snake globe";

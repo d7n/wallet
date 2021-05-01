@@ -1,1 +1,1 @@
-var mnemonic = "movie wrist evil lab feature vehicle liberty dwarf earn quick above brown";
+var mnemonic = "leader audit fury obvious judge super gate strategy mushroom fog crack rail";

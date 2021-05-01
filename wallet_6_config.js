@@ -1,1 +1,1 @@
-var mnemonic = "organ fantasy final moon egg size tone way crouch lock palm eager";
+var mnemonic = "laptop crime million govern real extra peanut ghost much develop letter canyon";

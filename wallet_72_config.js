@@ -1,1 +1,1 @@
-var mnemonic = "permit good pair catalog waste protect gadget drink frozen resemble athlete page";
+var mnemonic = "blush border calm present weather breeze fall vapor alien cycle slush dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt curve hint raccoon decrease muffin extend river flavor limb long suggest";
+var mnemonic = "patrol mountain mix ghost upgrade output federal sphere early mosquito pear knock";

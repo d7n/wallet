@@ -1,1 +1,1 @@
-var mnemonic = "usual mean sad omit coin wild rely minor warfare amateur script remind";
+var mnemonic = "van coconut anxiety bachelor trade depth dilemma inquiry all post iron piece";

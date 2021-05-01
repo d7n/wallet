@@ -1,1 +1,1 @@
-var mnemonic = "public odor spend keep tree sound relief zoo frame absurd remain speed";
+var mnemonic = "link depart hour owner coil assault physical reason awesome desert squeeze honey";

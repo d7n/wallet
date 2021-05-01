@@ -1,1 +1,1 @@
-var mnemonic = "giggle electric later cross twin fitness kite drift manage vibrant craft excuse";
+var mnemonic = "matrix brush remain yard convince swim ramp sentence picture journey grain often";

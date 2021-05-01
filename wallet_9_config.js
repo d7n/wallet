@@ -1,1 +1,1 @@
-var mnemonic = "umbrella tunnel shoot snake forward digital trial round piano leopard sea sport";
+var mnemonic = "creek document short catalog gun inherit sword manual comfort quit myself foster";

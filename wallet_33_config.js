@@ -1,1 +1,1 @@
-var mnemonic = "exotic slide lizard expire luggage dose essay blood stay wasp midnight lock";
+var mnemonic = "pulse stick movie curve crash because spring push swarm remember axis vital";

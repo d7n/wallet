@@ -1,1 +1,1 @@
-var mnemonic = "solution olympic split eagle approve blame soda round stock elite wrestle visual";
+var mnemonic = "smile grass cherry pelican myself ability clip panda cricket aerobic paper bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "weather awful moral denial parrot tilt water pumpkin lecture slim dumb credit";
+var mnemonic = "resemble clog endorse distance tenant cloth elegant shield click close scheme mountain";

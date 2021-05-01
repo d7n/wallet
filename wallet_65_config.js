@@ -1,1 +1,1 @@
-var mnemonic = "coach tell asthma kangaroo arena key drum suit view dose cover shift";
+var mnemonic = "will response baby enjoy match ten kiss spy ten insect trial roast";

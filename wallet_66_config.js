@@ -1,1 +1,1 @@
-var mnemonic = "act dutch fox text pilot elite wall health asset nothing whip appear";
+var mnemonic = "sibling crazy claw real limb sign possible silk switch summer wing quality";

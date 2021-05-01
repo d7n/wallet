@@ -1,1 +1,1 @@
-var mnemonic = "sure daughter oppose senior weapon street mushroom eight barrel aerobic tool draw";
+var mnemonic = "artefact shoulder dentist dismiss usual mother crop monitor abuse sight hover educate";

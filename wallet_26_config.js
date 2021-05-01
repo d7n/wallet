@@ -1,1 +1,1 @@
-var mnemonic = "work gravity notable stamp sick balance curtain cream monkey trash live pear";
+var mnemonic = "vote lecture luggage enforce safe predict sun wrist feed legend rebuild artist";

@@ -1,1 +1,1 @@
-var mnemonic = "path tourist vendor estate ozone wide estate picnic dumb diamond lawsuit witness";
+var mnemonic = "now able hobby fringe gadget rail rival wild shove course cliff tomorrow";

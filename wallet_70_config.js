@@ -1,1 +1,1 @@
-var mnemonic = "hour book onion bulk feel aerobic casino believe wear unit expect ring";
+var mnemonic = "weather duck novel bitter wonder inform season dentist column country security area";

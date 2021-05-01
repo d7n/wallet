@@ -1,1 +1,1 @@
-var mnemonic = "drastic suggest attract august shrug cousin brush awesome ridge seek lunar treat";
+var mnemonic = "master soccer reduce rather image buyer wagon decrease clock fame float smart";

@@ -1,1 +1,1 @@
-var mnemonic = "surround lonely retreat sheriff shadow history sniff neglect rabbit off fancy market";
+var mnemonic = "grunt earth tenant hand glove castle orient echo hidden salute question soldier";

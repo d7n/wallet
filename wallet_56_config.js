@@ -1,1 +1,1 @@
-var mnemonic = "jar burger fitness hat potato velvet pumpkin jar supply decline barely rotate";
+var mnemonic = "enable soul soon industry engine electric ankle office include bag glow virus";

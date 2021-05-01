@@ -1,1 +1,1 @@
-var mnemonic = "jelly enlist loyal stool post cute cinnamon term case daughter reject village";
+var mnemonic = "kite noise planet duck inquiry gown parade cover track belt typical crane";

@@ -1,1 +1,1 @@
-var mnemonic = "answer clog slide distance funny sugar mixed lend loud unveil kitchen vast";
+var mnemonic = "panel panic fence wrestle hockey laundry dash shift salad burden panther nature";

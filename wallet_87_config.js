@@ -1,1 +1,1 @@
-var mnemonic = "shy three congress floor biology text gain swamp collect name follow wall";
+var mnemonic = "drink phone brief inch review easily around panel high close traffic network";

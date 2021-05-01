@@ -1,1 +1,1 @@
-var mnemonic = "fat recipe forest vivid catalog develop slab real immune rebuild video forum";
+var mnemonic = "liberty panel guess able use simple upon toddler matter term payment cabbage";

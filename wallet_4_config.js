@@ -1,1 +1,1 @@
-var mnemonic = "box skull solar august age luggage tackle lab crack ripple gold harvest";
+var mnemonic = "voyage deliver correct shove state depth choose oppose obscure ball latin weapon";

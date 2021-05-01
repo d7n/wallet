@@ -1,1 +1,1 @@
-var mnemonic = "lumber castle design dove physical trick dignity program predict clog chef empower";
+var mnemonic = "huge arch cloth patch cancel budget deliver sleep top blade print dose";

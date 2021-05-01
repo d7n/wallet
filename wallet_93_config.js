@@ -1,1 +1,1 @@
-var mnemonic = "diamond cousin across arrange coconut decorate melody purse maple pistol family unique";
+var mnemonic = "better unable radar naive demise vapor sign damage antique solution afford interest";

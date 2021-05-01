@@ -1,1 +1,1 @@
-var mnemonic = "fantasy recipe laugh silk bread figure tenant author bacon timber trip symptom";
+var mnemonic = "earth strike chunk people buzz entire clinic thank extend impulse inject hobby";

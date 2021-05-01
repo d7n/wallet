@@ -1,1 +1,1 @@
-var mnemonic = "scare tennis illegal erase elevator tree disagree robot argue thumb city capable";
+var mnemonic = "vintage gloom bounce already arm choice furnace puppy glue scene social cheese";

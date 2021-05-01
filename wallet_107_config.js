@@ -1,1 +1,1 @@
-var mnemonic = "vendor actress trip reform language setup muffin airport pause wreck nest judge";
+var mnemonic = "produce faint habit wheat demise crumble bulk image denial gospel chuckle cube";

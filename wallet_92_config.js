@@ -1,1 +1,1 @@
-var mnemonic = "dumb wave confirm garment actor during degree name seat uncover razor border";
+var mnemonic = "need august smooth vague sauce room swift pull athlete sure review cinnamon";

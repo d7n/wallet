@@ -1,1 +1,1 @@
-var mnemonic = "tag put crash survey empty asset raven pill defy rebel rate coil";
+var mnemonic = "young parade master motion sudden scheme push crane top giggle unlock toilet";

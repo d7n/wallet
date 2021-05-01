@@ -1,1 +1,1 @@
-var mnemonic = "typical echo always round industry music slogan bid paddle catalog helmet crouch";
+var mnemonic = "soft scrub cradle acoustic ozone bullet flip olive cram affair february imitate";

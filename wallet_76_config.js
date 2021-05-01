@@ -1,1 +1,1 @@
-var mnemonic = "absent valley garage shed day used toddler term six office nice talent";
+var mnemonic = "swift imitate file velvet razor hobby vast paper seek food deputy sure";

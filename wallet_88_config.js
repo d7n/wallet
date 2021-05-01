@@ -1,1 +1,1 @@
-var mnemonic = "dune acquire damp wrap rubber comfort avoid easily mistake buffalo maid diary";
+var mnemonic = "valley eagle tomorrow enforce similar increase rhythm account gospel solution library tell";

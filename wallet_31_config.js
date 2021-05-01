@@ -1,1 +1,1 @@
-var mnemonic = "board elegant clap owner cricket open interest oven cute clog retreat rebuild";
+var mnemonic = "powder dawn scrap tomorrow sustain minor behave crisp credit slim nice front";

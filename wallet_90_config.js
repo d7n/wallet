@@ -1,1 +1,1 @@
-var mnemonic = "swear ride angry summer train middle utility worry large love object sadness";
+var mnemonic = "giraffe stuff rely stick chest trash nuclear gossip virtual speed pass husband";

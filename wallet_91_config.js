@@ -1,1 +1,1 @@
-var mnemonic = "peace ten arm fragile crew canal slush cement flush belt deer text";
+var mnemonic = "damp vote also exit display okay fantasy grab hole toss truck stamp";

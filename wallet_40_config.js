@@ -1,1 +1,1 @@
-var mnemonic = "film sail mansion economy hundred grief hollow raise leaf connect depend panic";
+var mnemonic = "scissors always leave forward proud shrug bulk update celery glory giraffe about";
