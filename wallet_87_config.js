@@ -1,1 +1,1 @@
-var mnemonic = "allow hobby version zone invite remove oven turn tornado nation dish travel";
+var mnemonic = "siege mosquito orbit extra tobacco foot simple cousin hazard mule lounge wire";

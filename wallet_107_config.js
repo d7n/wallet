@@ -1,1 +1,1 @@
-var mnemonic = "mouse six swamp smooth pride wood main silver diet view believe mobile";
+var mnemonic = "ladder hello noise novel kiss judge brother alert correct unlock chest jacket";

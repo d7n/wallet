@@ -1,1 +1,1 @@
-var mnemonic = "erode sound cute much gate element nest ticket phone tonight middle damage";
+var mnemonic = "weird sock flag man list advice brain magic dismiss worth pull endorse";

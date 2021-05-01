@@ -1,1 +1,1 @@
-var mnemonic = "soft early flame chronic indicate sniff item print robust cruel organ usage";
+var mnemonic = "cube crop update wage jacket tourist alcohol entry fatigue flush marble wink";

@@ -1,1 +1,1 @@
-var mnemonic = "tragic rhythm coconut mandate effort skull step busy foster battle hour sand";
+var mnemonic = "kid custom where slam cabin fiscal wing mountain camp secret gown kit";

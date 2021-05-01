@@ -1,1 +1,1 @@
-var mnemonic = "diesel consider way skill solution aunt tornado property bread blanket slot problem";
+var mnemonic = "toward city intact venture improve health fetch among slice someone legend solar";

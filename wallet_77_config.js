@@ -1,1 +1,1 @@
-var mnemonic = "mother gloom anchor cable scene front athlete engage shield duty cancel unit";
+var mnemonic = "load kangaroo energy tired convince unknown silk again doll sock bulb aerobic";

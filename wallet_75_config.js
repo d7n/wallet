@@ -1,1 +1,1 @@
-var mnemonic = "essay fit truck program layer aunt forget canal initial hub major gallery";
+var mnemonic = "alarm illness glow broccoli uphold wet brick image genuine surge state purchase";

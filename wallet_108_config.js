@@ -1,1 +1,1 @@
-var mnemonic = "gesture bench curious enable exile unable process vintage edge sentence nose illegal";
+var mnemonic = "dust resource brand tired palace corn response step salute civil snack narrow";

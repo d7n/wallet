@@ -1,1 +1,1 @@
-var mnemonic = "page cram weapon coyote bring boost exact portion bonus patch antique duty";
+var mnemonic = "valve lawn school phone practice lawsuit beauty post tiger vote aerobic weapon";

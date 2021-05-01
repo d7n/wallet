@@ -1,1 +1,1 @@
-var mnemonic = "loud market eight smart ordinary album auto album inmate mad fox life";
+var mnemonic = "flip strong hill crack brief tissue alert summer repair jacket theory tool";

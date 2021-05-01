@@ -1,1 +1,1 @@
-var mnemonic = "giant omit spy vanish country relax whisper robot dad dilemma day ocean";
+var mnemonic = "world force debate member destroy olive alien decade code document angry clever";

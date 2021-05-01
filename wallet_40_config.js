@@ -1,1 +1,1 @@
-var mnemonic = "vehicle because convince rookie category exhaust interest useful end arrive rather faith";
+var mnemonic = "hollow country mirror cost enforce language prevent arctic neutral anxiety mad country";

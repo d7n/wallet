@@ -1,1 +1,1 @@
-var mnemonic = "interest bulk pigeon ring armed unlock echo raven ice guard that zero";
+var mnemonic = "sketch relief praise anxiety hint core hour knife nut during bullet side";

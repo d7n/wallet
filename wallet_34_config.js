@@ -1,1 +1,1 @@
-var mnemonic = "muffin merit monitor soda pelican cover cage opinion quality wink wall digital";
+var mnemonic = "laugh deputy heavy harbor thrive nation rice useless extra follow speed toe";

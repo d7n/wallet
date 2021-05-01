@@ -1,1 +1,1 @@
-var mnemonic = "fame hundred current air naive strategy foot switch wash kind actual mistake";
+var mnemonic = "charge faculty sand ginger remain neutral ridge forward cash wreck assist twin";

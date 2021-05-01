@@ -1,1 +1,1 @@
-var mnemonic = "blade output blossom lazy sell mirror civil winter hill enable lizard dance";
+var mnemonic = "clog multiply coconut fish garage soccer door soup ramp wine awake edge";

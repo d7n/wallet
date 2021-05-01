@@ -1,1 +1,1 @@
-var mnemonic = "fall announce gown height step acquire scrub affair wonder magnet today increase";
+var mnemonic = "plastic chief twice stumble hotel cross polar light clarify liar render excite";

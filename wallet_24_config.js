@@ -1,1 +1,1 @@
-var mnemonic = "random depth ensure clog purse canyon auction mad bulk say exit super";
+var mnemonic = "merry elegant dream two melt pottery old price crystal fall payment hedgehog";

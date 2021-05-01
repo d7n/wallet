@@ -1,1 +1,1 @@
-var mnemonic = "basic toddler camp require alien front enjoy paper garden hazard adult goat";
+var mnemonic = "device soda amazing swear insane image fox return weapon keen point behave";

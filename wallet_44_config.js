@@ -1,1 +1,1 @@
-var mnemonic = "web aerobic sign awkward plastic canoe tortoise salt acoustic switch bacon file";
+var mnemonic = "blind solve bottom uniform guilt steak help trouble verify spawn perfect friend";

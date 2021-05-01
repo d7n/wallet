@@ -1,1 +1,1 @@
-var mnemonic = "dumb enemy laptop youth dash stand label advice wage caution captain female";
+var mnemonic = "behind fruit business fashion slogan ball rapid treat table virus above void";

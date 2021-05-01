@@ -1,1 +1,1 @@
-var mnemonic = "response bread produce lonely car notable manage medal coffee plastic warfare supply";
+var mnemonic = "badge arctic text later fade news once matter resemble style text evoke";

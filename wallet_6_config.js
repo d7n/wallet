@@ -1,1 +1,1 @@
-var mnemonic = "never cry cradle ostrich hurt choice company receive dolphin symbol caution switch";
+var mnemonic = "wedding enlist hill retreat guess protect where earth net depend pair flight";

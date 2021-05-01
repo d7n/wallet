@@ -1,1 +1,1 @@
-var mnemonic = "town lonely produce dismiss axis aunt top razor ecology hair chase tip";
+var mnemonic = "green charge real pink urban draft dumb cricket flock famous bless card";

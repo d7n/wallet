@@ -1,1 +1,1 @@
-var mnemonic = "spike atom moment aerobic this during help ability biology erosion quote nation";
+var mnemonic = "similar finger light night series fix common much high guess pact green";

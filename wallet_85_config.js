@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo between half wrong resemble issue manage rhythm expose onion stool also";
+var mnemonic = "load morning parent boil rather garbage mom cousin follow option actual embark";

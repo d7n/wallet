@@ -1,1 +1,1 @@
-var mnemonic = "tank city direct enrich amateur decide hundred device owner cruise menu rude";
+var mnemonic = "force shine leave original since actress hip disorder night breeze congress type";

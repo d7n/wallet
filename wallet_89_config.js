@@ -1,1 +1,1 @@
-var mnemonic = "surge nice acquire dad sea family supply position novel bounce timber practice";
+var mnemonic = "brain ring suit blind rabbit shield biology trim miracle estate exotic gym";

@@ -1,1 +1,1 @@
-var mnemonic = "story ladder lemon always delay inner lava mammal remind inform humble turn";
+var mnemonic = "use void host parrot chaos situate identify stage session lazy office floor";

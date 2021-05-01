@@ -1,1 +1,1 @@
-var mnemonic = "illegal reunion audit hand length friend gossip deer dice wish menu guitar";
+var mnemonic = "just faint help income grace stadium extend asset marine fee gossip fresh";

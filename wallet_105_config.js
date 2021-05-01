@@ -1,1 +1,1 @@
-var mnemonic = "hat consider hawk blue topple primary evolve field wrong ask fire onion";
+var mnemonic = "aim fashion illegal summer space matrix miss cart alone sentence gown good";

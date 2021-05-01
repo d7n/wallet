@@ -1,1 +1,1 @@
-var mnemonic = "diamond pretty bid local depart eager bean survey source unfair genuine skirt";
+var mnemonic = "frown degree lobster detail stick despair normal junior obvious leg desert garment";

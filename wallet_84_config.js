@@ -1,1 +1,1 @@
-var mnemonic = "vacant adapt vehicle canyon pretty guard kingdom phone view cube employ mountain";
+var mnemonic = "youth trap urge amateur cost head pink battle fall empty cabbage prepare";

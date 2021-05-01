@@ -1,1 +1,1 @@
-var mnemonic = "gun broken drum student hole fruit unfold table large decide tube predict";
+var mnemonic = "hope farm drill unit accident liquid abuse rely tent awful ticket keep";

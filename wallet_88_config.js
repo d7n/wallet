@@ -1,1 +1,1 @@
-var mnemonic = "fish reform enrich feature love miracle put live vital battle frown blur";
+var mnemonic = "reopen balcony venue valley section remove own vast potato dish reopen oven";

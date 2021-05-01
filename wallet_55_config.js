@@ -1,1 +1,1 @@
-var mnemonic = "flash thrive inhale chicken skate unaware know love energy route below shoulder";
+var mnemonic = "river mercy miracle frozen only mansion wrestle deputy comfort mistake between trap";

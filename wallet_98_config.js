@@ -1,1 +1,1 @@
-var mnemonic = "crane easily that clap skull squeeze shine judge before cupboard fit hurry";
+var mnemonic = "account lemon park extend light elite bracket receive dinner mango emotion license";

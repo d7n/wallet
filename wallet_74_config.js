@@ -1,1 +1,1 @@
-var mnemonic = "song gold hungry pizza arrive weather nation boost winter flavor company talent";
+var mnemonic = "copy wolf hungry neither resemble raw vehicle boy labor midnight era heavy";

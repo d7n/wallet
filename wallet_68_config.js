@@ -1,1 +1,1 @@
-var mnemonic = "wild limb earth horse impose crater wagon ask antique salt sad rural";
+var mnemonic = "liberty coil book piece apart butter odor raven gesture tuna escape hip";

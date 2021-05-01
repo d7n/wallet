@@ -1,1 +1,1 @@
-var mnemonic = "grow hammer mom voice walk impact mercy person legal away funny clock";
+var mnemonic = "filter video hotel more industry diamond royal walnut control real mind woman";

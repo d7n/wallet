@@ -1,1 +1,1 @@
-var mnemonic = "torch palm summer pass tree feed major ivory nuclear rail absent oxygen";
+var mnemonic = "more merry pave crouch execute humble walnut rebel symbol gate discover digital";

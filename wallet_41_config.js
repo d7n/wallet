@@ -1,1 +1,1 @@
-var mnemonic = "belt decrease physical replace salute odor whip ocean fatigue girl monkey giggle";
+var mnemonic = "better abuse wreck imitate chicken funny hello melody lazy divorce barrel march";

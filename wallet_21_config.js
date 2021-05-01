@@ -1,1 +1,1 @@
-var mnemonic = "head utility metal keep video actor foot goddess wise marine universe close";
+var mnemonic = "nation program aerobic bubble liar sword evidence guard debate upgrade tent promote";

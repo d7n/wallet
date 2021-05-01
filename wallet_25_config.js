@@ -1,1 +1,1 @@
-var mnemonic = "almost wagon snow solid picnic main broccoli you gas surge hurdle bronze";
+var mnemonic = "fun foot cream answer cash run rigid april guilt cigar normal normal";

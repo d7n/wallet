@@ -1,1 +1,1 @@
-var mnemonic = "render panda sense armor april humble hair drink behind mother neither all";
+var mnemonic = "guilt like skate early cereal blanket effort tribe hint two vital ski";

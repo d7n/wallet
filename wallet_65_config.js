@@ -1,1 +1,1 @@
-var mnemonic = "balance tongue reform flower lake lemon symbol oblige account surprise champion chapter";
+var mnemonic = "net logic dirt scout vicious truck habit rigid engage where patrol timber";

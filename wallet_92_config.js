@@ -1,1 +1,1 @@
-var mnemonic = "forward hello occur young another safe faculty glue car bracket meat dance";
+var mnemonic = "release asset nurse cabin harbor fiction wolf near luggage write license afford";

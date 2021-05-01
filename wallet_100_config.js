@@ -1,1 +1,1 @@
-var mnemonic = "circle anxiety acoustic rough enact brisk adjust vacant rug skull horse survey";
+var mnemonic = "endorse lumber combine gather habit earn discover daring barrel slow urge knee";

@@ -1,1 +1,1 @@
-var mnemonic = "bean produce wreck clutch source punch enforce mountain bamboo ship prosper father";
+var mnemonic = "poverty front round tent impact toss always round expand injury dismiss finger";

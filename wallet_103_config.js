@@ -1,1 +1,1 @@
-var mnemonic = "tape saddle couple above dog staff asthma bus struggle gauge any garage";
+var mnemonic = "dizzy want rubber kiwi narrow tired burger divide siege control glass crush";

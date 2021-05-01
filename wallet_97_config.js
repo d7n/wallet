@@ -1,1 +1,1 @@
-var mnemonic = "process verb wash error conduct bargain engine damp betray dune clever water";
+var mnemonic = "will fortune grunt deer notable nice wet surround pride moon strong toy";

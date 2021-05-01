@@ -1,1 +1,1 @@
-var mnemonic = "text lyrics learn vicious actor pride multiply witness shrug youth rose scrap";
+var mnemonic = "leisure speak ahead primary party slender ribbon glory add sunny buyer invite";

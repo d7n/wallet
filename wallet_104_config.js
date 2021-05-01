@@ -1,1 +1,1 @@
-var mnemonic = "enroll among proof when story video angry action advance biology safe become";
+var mnemonic = "front funny motion tone potato odor memory boss confirm rack excite prize";

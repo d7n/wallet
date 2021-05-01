@@ -1,1 +1,1 @@
-var mnemonic = "prison vapor total method devote report average flee notice evidence home chunk";
+var mnemonic = "jump mean excess ski start dirt napkin donor enroll stable place economy";

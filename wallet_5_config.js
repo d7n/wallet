@@ -1,1 +1,1 @@
-var mnemonic = "salon cheese pipe jealous tonight gallery hurry cinnamon hill dose resist tribe";
+var mnemonic = "calm basket path spoil calm ski vacant rude resist fun faculty solution";

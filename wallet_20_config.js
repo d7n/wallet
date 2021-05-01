@@ -1,1 +1,1 @@
-var mnemonic = "champion clog shop screen comic rebuild right pistol thought nuclear put leader";
+var mnemonic = "predict obscure rifle danger citizen material game drastic rather level lawsuit lazy";

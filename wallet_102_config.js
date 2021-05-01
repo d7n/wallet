@@ -1,1 +1,1 @@
-var mnemonic = "prison dress segment zoo sudden circle crash journey thank hour copper rate";
+var mnemonic = "episode lion glad foot alley margin siege slice arch unfair animal room";

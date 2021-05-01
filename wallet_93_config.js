@@ -1,1 +1,1 @@
-var mnemonic = "style moon music clinic luggage help flip ice tape trade sure pass";
+var mnemonic = "coast color fuel health loyal volcano client hurry pudding display squeeze owner";

@@ -1,1 +1,1 @@
-var mnemonic = "acoustic tired owner urban unknown almost episode night two chief isolate stage";
+var mnemonic = "uncle resist panther donkey empower piece observe parent print flash miss indoor";

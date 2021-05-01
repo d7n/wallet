@@ -1,1 +1,1 @@
-var mnemonic = "addict very solution electric antenna mirror erase anger material job traffic online";
+var mnemonic = "train security pair goddess tuition rent fat draft awesome tumble october judge";

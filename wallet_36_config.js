@@ -1,1 +1,1 @@
-var mnemonic = "space duty autumn home blouse note board retire trouble magnet day seek";
+var mnemonic = "slim fancy battle post afraid over able unknown one coconut educate manual";

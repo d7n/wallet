@@ -1,1 +1,1 @@
-var mnemonic = "mercy coin skirt brick miss admit bench list turkey alone grow stage";
+var mnemonic = "exile deposit split obey space unveil social onion crawl column number explain";

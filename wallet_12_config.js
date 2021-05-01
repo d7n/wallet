@@ -1,1 +1,1 @@
-var mnemonic = "inch similar sound hip ugly average control drip vast market online banana";
+var mnemonic = "nuclear session eyebrow alcohol view use resemble primary exhibit alcohol solar cheese";

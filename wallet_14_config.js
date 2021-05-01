@@ -1,1 +1,1 @@
-var mnemonic = "client menu anxiety dizzy pact video pioneer voice now wall knock infant";
+var mnemonic = "alarm trick caution album rural sample stool blossom margin label neck target";

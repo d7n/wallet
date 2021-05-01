@@ -1,1 +1,1 @@
-var mnemonic = "goddess require only casino seed enact kit thought noise debris oyster cruise";
+var mnemonic = "struggle reward civil law royal shoot ocean outside flock people course accuse";

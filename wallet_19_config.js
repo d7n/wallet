@@ -1,1 +1,1 @@
-var mnemonic = "reduce nasty liar impact raw flat gas garlic quantum mistake mixture license";
+var mnemonic = "blouse heavy parent embody mimic repair mix share radio figure cherry dentist";

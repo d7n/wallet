@@ -1,1 +1,1 @@
-var mnemonic = "razor accuse mind video forest bonus cry aspect duck motion wait real";
+var mnemonic = "beauty brother broken dance typical float board clump wagon seed kick gravity";

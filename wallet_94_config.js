@@ -1,1 +1,1 @@
-var mnemonic = "bulk truck outside guilt execute maple husband chimney cram surface wedding walnut";
+var mnemonic = "submit pioneer finger zebra hand second filter nothing course maple board since";

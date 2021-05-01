@@ -1,1 +1,1 @@
-var mnemonic = "buzz item orchard situate lab cash slight clap trouble second give crop";
+var mnemonic = "cliff typical label deliver spin coconut sibling wall calm wasp glass earth";

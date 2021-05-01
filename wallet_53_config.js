@@ -1,1 +1,1 @@
-var mnemonic = "address blue stage width lazy shuffle royal two flight pyramid fatigue direct";
+var mnemonic = "picnic raise rebel opera patrol bless chronic detect tattoo picture rib discover";

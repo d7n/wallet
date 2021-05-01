@@ -1,1 +1,1 @@
-var mnemonic = "inflict primary exclude cargo mandate fix supply powder cradle canal enough knife";
+var mnemonic = "rose transfer final swarm trick leisure enemy high special walnut travel track";

@@ -1,1 +1,1 @@
-var mnemonic = "cheap again list weasel sauce open bounce sea tent rebuild vendor food";
+var mnemonic = "advance steel magnet energy blast smoke diagram rent lion fox utility across";

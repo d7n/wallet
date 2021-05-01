@@ -1,1 +1,1 @@
-var mnemonic = "universe lunch science glow casual gossip core onion sun monkey prosper tiny";
+var mnemonic = "firm abstract armor usage glass crouch power dash crop earth cricket old";

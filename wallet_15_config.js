@@ -1,1 +1,1 @@
-var mnemonic = "recall floor evil cloth quiz seven good soul wheel super hip various";
+var mnemonic = "hamster mix waste kangaroo side appear master crawl couple plug example gauge";

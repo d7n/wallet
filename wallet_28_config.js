@@ -1,1 +1,1 @@
-var mnemonic = "vast penalty monitor expect asset clean admit knock crumble parent december reform";
+var mnemonic = "among coffee join canyon science donate evolve claw inquiry adapt foil west";

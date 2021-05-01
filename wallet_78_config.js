@@ -1,1 +1,1 @@
-var mnemonic = "key account drink bicycle idea unfair struggle enlist desk boost push cry";
+var mnemonic = "parade maximum below firm address tenant digital title shuffle narrow spike limb";

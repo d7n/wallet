@@ -1,1 +1,1 @@
-var mnemonic = "humble april cannon below blood observe immense fitness punch emotion crane wagon";
+var mnemonic = "expect you brick crop room toss basic neglect forget summer mistake salmon";

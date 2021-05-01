@@ -1,1 +1,1 @@
-var mnemonic = "found flush thing trumpet father shoe neutral object answer coral decade reform";
+var mnemonic = "arrive crime distance move key know close one empty cream across dance";

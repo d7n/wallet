@@ -1,1 +1,1 @@
-var mnemonic = "copy pretty jewel turkey meat benefit peace candy size crucial hill such";
+var mnemonic = "tattoo burden job elegant pattern diamond gather minimum report talk industry mean";

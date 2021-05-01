@@ -1,1 +1,1 @@
-var mnemonic = "mail tortoise pill sting habit decide sweet boss awful actual ask snack";
+var mnemonic = "erase flip false stable grow task syrup myself solar pair silver pitch";

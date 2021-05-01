@@ -1,1 +1,1 @@
-var mnemonic = "video destroy acoustic wrap retire jaguar unhappy dress sustain emotion motion tired";
+var mnemonic = "diet huge student cheese shrug airport slab asset bar boat twenty tiger";

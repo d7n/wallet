@@ -1,1 +1,1 @@
-var mnemonic = "sister tongue chief carpet connect thing object sponsor bring acquire embrace inflict";
+var mnemonic = "genre loyal summer elevator sunset balance fan measure athlete alarm fragile situate";

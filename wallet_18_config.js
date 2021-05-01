@@ -1,1 +1,1 @@
-var mnemonic = "exclude fix angry photo mind protect sun fresh below title october venue";
+var mnemonic = "pen visa mansion shiver distance basic trade matter movie shadow stereo opera";

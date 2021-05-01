@@ -1,1 +1,1 @@
-var mnemonic = "dilemma edge grain dash opera evil simple tone unfair bread lobster seed";
+var mnemonic = "rhythm chaos cube laptop swift suspect enable craft pet narrow pioneer allow";
