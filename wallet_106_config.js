@@ -1,1 +1,1 @@
-var mnemonic = "recycle pitch render heavy message sweet fury truck drop arrange coconut carry";
+var mnemonic = "leave elevator identify together laptop lunar diamond quit solution buzz ginger tomato";

@@ -1,1 +1,1 @@
-var mnemonic = "kit crime jewel hat swamp earn banner nominee calm already trash file";
+var mnemonic = "tobacco latin able vacant buddy broken leisure drive tornado winter mean asthma";

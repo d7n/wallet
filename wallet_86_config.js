@@ -1,1 +1,1 @@
-var mnemonic = "clever frozen broom lesson sketch segment harsh tone horn mirror tomato exhibit";
+var mnemonic = "involve fall keep rib inspire bubble fit decline violin goose else depart";

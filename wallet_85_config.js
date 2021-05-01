@@ -1,1 +1,1 @@
-var mnemonic = "still moment giant reduce head latin sadness blush search convince hamster oblige";
+var mnemonic = "grief fog fashion honey apart record airport rose second ozone winner worth";

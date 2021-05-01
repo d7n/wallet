@@ -1,1 +1,1 @@
-var mnemonic = "caught cage exhibit owner weather jeans make test horse emerge bonus pink";
+var mnemonic = "exhaust scale coach hammer sniff cause gather friend lab urban arrange scan";

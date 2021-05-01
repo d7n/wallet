@@ -1,1 +1,1 @@
-var mnemonic = "smooth cancel dragon alpha legend lake illegal lamp release skirt throw put";
+var mnemonic = "embody comfort shoulder zone unlock feature lobster crane glance best purchase whip";

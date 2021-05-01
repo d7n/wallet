@@ -1,1 +1,1 @@
-var mnemonic = "finger business sign change patrol decorate van mass purse empty agree bullet";
+var mnemonic = "decide own scissors behind echo ranch useful wrist same forest hat sport";

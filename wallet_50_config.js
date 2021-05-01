@@ -1,1 +1,1 @@
-var mnemonic = "media convince pottery regular culture drift plug pill grow food abuse rival";
+var mnemonic = "street garlic dust game vendor ankle supply depart window unhappy okay police";

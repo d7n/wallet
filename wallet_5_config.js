@@ -1,1 +1,1 @@
-var mnemonic = "acoustic wheat fish squirrel tiny body artist volcano shuffle song noise correct";
+var mnemonic = "humble evolve parade peace stadium token doctor car minimum art wrap meadow";

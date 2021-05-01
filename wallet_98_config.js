@@ -1,1 +1,1 @@
-var mnemonic = "mistake seminar click motion neck next input brush rescue rack unfair rather";
+var mnemonic = "negative taste december popular again wool win square mule luggage worth swim";

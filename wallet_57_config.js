@@ -1,1 +1,1 @@
-var mnemonic = "section size slogan leaf vapor ribbon wedding subway order diary blanket school";
+var mnemonic = "lyrics dutch lemon mobile control upgrade glass catch finger noble tongue wedding";

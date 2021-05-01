@@ -1,1 +1,1 @@
-var mnemonic = "enjoy sustain square rich river merry void clock fashion genre syrup adjust";
+var mnemonic = "front tide tent tragic flash ordinary virus mesh ask together country finish";

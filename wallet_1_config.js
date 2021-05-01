@@ -1,1 +1,1 @@
-var mnemonic = "busy over estate accident receive riot wealth inch income hunt mail symbol";
+var mnemonic = "armed weather pony gun lava prosper income alley test swing brother armed";

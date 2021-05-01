@@ -1,1 +1,1 @@
-var mnemonic = "inmate genuine cycle glow lonely still protect decorate coach dad hold spoon";
+var mnemonic = "cousin torch romance nuclear border lamp aim tunnel pond document youth lion";

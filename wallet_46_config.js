@@ -1,1 +1,1 @@
-var mnemonic = "tackle milk vintage wear half coil meadow black turn resist door argue";
+var mnemonic = "magic birth army awful when witness ski cruel broken shrimp kick lobster";

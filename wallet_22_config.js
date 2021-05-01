@@ -1,1 +1,1 @@
-var mnemonic = "raven hurry pluck learn asthma era purse apart impulse boring rotate trash";
+var mnemonic = "human boring aware soup diagram vicious juice spice field wood elevator play";

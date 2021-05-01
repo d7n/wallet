@@ -1,1 +1,1 @@
-var mnemonic = "author verb fiber father someone cannon above senior piece uniform deliver morning";
+var mnemonic = "feel mule country onion camera elbow buzz dice trial vessel recipe bird";

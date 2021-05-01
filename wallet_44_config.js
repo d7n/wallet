@@ -1,1 +1,1 @@
-var mnemonic = "bacon combine usage steak hint scrap tornado green peasant twenty kitten cause";
+var mnemonic = "bid flock latin crush index deny fan ankle promote soldier easy universe";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit team human latin warm pigeon bag good direct build route captain";
+var mnemonic = "hazard rural nice category spoon stool hope close notice scare reason jealous";

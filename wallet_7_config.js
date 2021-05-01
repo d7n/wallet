@@ -1,1 +1,1 @@
-var mnemonic = "salad merit notable visit dad cotton arrange company sense parrot mouse light";
+var mnemonic = "young thing blood clerk good rural retreat vital join fabric goose mistake";

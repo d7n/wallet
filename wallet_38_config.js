@@ -1,1 +1,1 @@
-var mnemonic = "puzzle method spoil fiber come loyal discover wrist casino then enlist reunion";
+var mnemonic = "acid iron print toilet inquiry open predict bronze slush segment public quality";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar weasel double summer idle surface mistake mushroom ready used coin tide";
+var mnemonic = "render notice crop toilet visit unable lend hidden sister inmate hint audit";

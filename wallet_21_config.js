@@ -1,1 +1,1 @@
-var mnemonic = "mutual bracket copy tomato grief agent index feature prosper sketch hedgehog urge";
+var mnemonic = "glance core exotic bundle gap erase invite canal stove still table confirm";

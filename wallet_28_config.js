@@ -1,1 +1,1 @@
-var mnemonic = "tunnel pave lesson reward junk reject sea easily embrace better coyote also";
+var mnemonic = "mystery tuition thrive veteran pigeon winner endorse spare dismiss menu more lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "diamond sure betray scorpion blue social way daughter project pride unusual mimic";
+var mnemonic = "intact judge senior memory answer diary inform stereo path lock sing dune";

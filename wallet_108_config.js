@@ -1,1 +1,1 @@
-var mnemonic = "edit anxiety cheese truth alter desk hold survey saddle jealous into sort";
+var mnemonic = "pepper debris artist lobster body flash liquid time original hat fluid grunt";

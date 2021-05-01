@@ -1,1 +1,1 @@
-var mnemonic = "paddle extend insane minor mirror quiz sound knock filter upgrade prison detail";
+var mnemonic = "tragic olympic theme expect drink analyst mule cycle suspect claim almost spider";

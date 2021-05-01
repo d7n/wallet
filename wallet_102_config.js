@@ -1,1 +1,1 @@
-var mnemonic = "kick vintage tuition heavy bitter trend hold employ attack lab remove cup";
+var mnemonic = "bring bird ability unfold slim above scheme eternal later power style evoke";

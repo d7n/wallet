@@ -1,1 +1,1 @@
-var mnemonic = "section clinic poet gadget coast north label green indicate witness blur earn";
+var mnemonic = "cheese civil clown bargain text brisk vacant joy resource artefact awful flavor";

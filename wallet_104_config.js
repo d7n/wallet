@@ -1,1 +1,1 @@
-var mnemonic = "swing release pair horn joy giant scrap now more method private midnight";
+var mnemonic = "nuclear carbon clutch leg vague creek meat network salute embark pitch spin";

@@ -1,1 +1,1 @@
-var mnemonic = "heart addict brass enforce harsh mosquito muscle deer ring clog peasant cave";
+var mnemonic = "trash vanish wealth opera nominee cereal year offer party raven cereal prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon trip debris glad until scrap remember false again antique you lend";
+var mnemonic = "nest unlock sound alley bacon music indicate gather ladder detail emotion seminar";

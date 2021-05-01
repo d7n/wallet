@@ -1,1 +1,1 @@
-var mnemonic = "dignity betray cage cushion soul robust honey any robot liar idle lucky";
+var mnemonic = "quote hair enjoy fish april nation stereo analyst swarm power afford achieve";

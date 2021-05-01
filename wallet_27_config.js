@@ -1,1 +1,1 @@
-var mnemonic = "such claw cruel float main glide solve metal radio waste chuckle slogan";
+var mnemonic = "claw someone knee gallery slight session return vocal main faint plug cable";

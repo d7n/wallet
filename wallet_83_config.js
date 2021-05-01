@@ -1,1 +1,1 @@
-var mnemonic = "rookie canyon web later keen arena arrest crazy upset hover basic worth";
+var mnemonic = "payment control elder merit flat bring captain wolf march tragic state zero";

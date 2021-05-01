@@ -1,1 +1,1 @@
-var mnemonic = "daughter guitar flee woman state aisle stumble shield wall mention praise insane";
+var mnemonic = "other faint side rate truck enrich hurt destroy poem between medal buffalo";

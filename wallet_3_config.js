@@ -1,1 +1,1 @@
-var mnemonic = "slush inch benefit panda bright sea act security choose bullet math busy";
+var mnemonic = "axis illegal receive tragic child wash gold into vivid breeze fetch patrol";

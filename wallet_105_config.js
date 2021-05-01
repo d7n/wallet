@@ -1,1 +1,1 @@
-var mnemonic = "donkey kitten shuffle almost essence host trust envelope salon indoor rain festival";
+var mnemonic = "urban month doctor wreck rain palm else era inherit trouble cover region";

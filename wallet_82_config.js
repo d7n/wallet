@@ -1,1 +1,1 @@
-var mnemonic = "video erosion dice analyst physical collect property author transfer sibling fault trip";
+var mnemonic = "rain old resemble spare obey immune torch room know ordinary guess nation";

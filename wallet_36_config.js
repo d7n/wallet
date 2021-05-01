@@ -1,1 +1,1 @@
-var mnemonic = "people tip clerk brain pretty brave dizzy argue dose celery novel whip";
+var mnemonic = "bunker adjust visit keen clever torch balance hire fatigue tobacco pepper element";

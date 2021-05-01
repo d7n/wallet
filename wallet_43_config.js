@@ -1,1 +1,1 @@
-var mnemonic = "cover govern portion doctor laundry step cage broccoli reduce two erosion idea";
+var mnemonic = "tape lounge twice suggest indoor side alien frozen couple blade happy roast";

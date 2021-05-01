@@ -1,1 +1,1 @@
-var mnemonic = "awkward head cry twenty steel romance hero sport genius print thank develop";
+var mnemonic = "document icon tube torch crack either hungry bar thunder eager enough piano";

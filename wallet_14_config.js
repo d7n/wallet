@@ -1,1 +1,1 @@
-var mnemonic = "canal split guess axis amateur shop digital noble verify point ahead increase";
+var mnemonic = "regret bid unhappy renew immense avocado charge stick female expect brisk fault";

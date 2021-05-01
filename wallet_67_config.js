@@ -1,1 +1,1 @@
-var mnemonic = "fatigue bacon purity eager baby measure brand board exhibit copper slender bid";
+var mnemonic = "fruit retire obtain media room bracket album target weekend cushion view ignore";

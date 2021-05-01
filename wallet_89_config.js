@@ -1,1 +1,1 @@
-var mnemonic = "priority panic home seat dish damp alter glow rhythm choose deny feed";
+var mnemonic = "fringe insane fiber parent cross loyal announce carbon fiction reflect lounge below";

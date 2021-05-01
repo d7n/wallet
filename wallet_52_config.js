@@ -1,1 +1,1 @@
-var mnemonic = "suggest box lucky allow cage history bundle lens gun suggest swing broccoli";
+var mnemonic = "siege example elder spider gold swift document amused visit hole fix message";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic fog tongue divorce one cradle basic list inflict thrive noise next";
+var mnemonic = "bargain top spider vintage foster theory enjoy galaxy half embody chapter hurt";

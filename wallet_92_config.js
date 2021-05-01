@@ -1,1 +1,1 @@
-var mnemonic = "grow kitten blood frown front clinic tape flag excuse there profit avoid";
+var mnemonic = "demise glance frown save taste muffin banana media local cheap jealous upon";

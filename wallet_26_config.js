@@ -1,1 +1,1 @@
-var mnemonic = "tortoise coin action deputy wait stove improve quiz elbow indoor tomato veteran";
+var mnemonic = "bag position trick camera beyond collect junk bless double buffalo worry stereo";

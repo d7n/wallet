@@ -1,1 +1,1 @@
-var mnemonic = "crowd century path stereo adjust trend tree today bean error material hire";
+var mnemonic = "badge fall addict beach eagle innocent plunge gadget file unaware wall ginger";

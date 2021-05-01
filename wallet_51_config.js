@@ -1,1 +1,1 @@
-var mnemonic = "squirrel trade riot three exile rocket network mail almost digital spread brave";
+var mnemonic = "volume naive maximum skull sea frequent awesome situate frame year provide speed";

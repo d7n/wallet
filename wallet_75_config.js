@@ -1,1 +1,1 @@
-var mnemonic = "suffer output rebel orbit major steel magnet salmon absorb crop wing now";
+var mnemonic = "giant census cube stage breeze distance news verify honey toddler cluster beyond";

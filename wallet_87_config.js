@@ -1,1 +1,1 @@
-var mnemonic = "below cargo fish denial skill various sure orbit pupil cute category slow";
+var mnemonic = "suspect silent library mask stick pill swim history onion find sponsor front";

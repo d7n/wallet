@@ -1,1 +1,1 @@
-var mnemonic = "artefact tree hello novel remove whip forward rose congress net hundred magic";
+var mnemonic = "era price escape item gesture evil slam bracket clay upgrade liquid dumb";

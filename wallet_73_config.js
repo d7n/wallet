@@ -1,1 +1,1 @@
-var mnemonic = "federal worry disagree parade faculty wine argue donkey police review ski joke";
+var mnemonic = "basket fitness soon sibling phone access number cereal hat sign price wreck";

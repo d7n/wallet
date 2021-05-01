@@ -1,1 +1,1 @@
-var mnemonic = "rural foam always weasel jeans viable put absorb page turtle orange demise";
+var mnemonic = "detect output doctor nice swift mistake armed arrow arrive hockey huge leisure";

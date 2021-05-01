@@ -1,1 +1,1 @@
-var mnemonic = "hollow cotton require tragic school visit interest music make second reveal print";
+var mnemonic = "trend monster net bike zero fan ready card turkey borrow civil affair";

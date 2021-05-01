@@ -1,1 +1,1 @@
-var mnemonic = "cram master theory mirror real require train live burger suspect drink library";
+var mnemonic = "wheat hurdle latin any basket patch judge maze fruit hood glue mechanic";

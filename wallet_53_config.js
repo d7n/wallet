@@ -1,1 +1,1 @@
-var mnemonic = "news sniff warm december leader update mercy heavy lens vintage rule cost";
+var mnemonic = "prefer crisp describe total eternal brown reduce basic bicycle voice brown slam";

@@ -1,1 +1,1 @@
-var mnemonic = "thing hope inmate conduct olympic mesh tooth install urge isolate boss wash";
+var mnemonic = "orchard math search almost glide tray jewel number cave rhythm detect acquire";

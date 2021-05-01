@@ -1,1 +1,1 @@
-var mnemonic = "civil front lawn settle praise mind ill jewel original air gasp blur";
+var mnemonic = "goat moral gospel else idea fork dumb custom laundry frown art shaft";

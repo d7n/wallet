@@ -1,1 +1,1 @@
-var mnemonic = "surprise slim candy fitness always talk sight core bracket mom debate try";
+var mnemonic = "rice legend dwarf depend legend art tiger upset gas clip mango know";

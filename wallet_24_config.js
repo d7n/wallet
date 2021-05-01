@@ -1,1 +1,1 @@
-var mnemonic = "grant region beyond stumble toss clip battle plastic bleak route afford lion";
+var mnemonic = "crowd moment soul other prevent wonder heart system service derive order illness";

@@ -1,1 +1,1 @@
-var mnemonic = "hat erosion ripple addict swift sport calm that sight position disagree tennis";
+var mnemonic = "program zero noble field bachelor misery cash six huge modify hunt salad";

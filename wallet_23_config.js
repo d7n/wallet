@@ -1,1 +1,1 @@
-var mnemonic = "step explain fresh entire spy during anchor high strong wife define orbit";
+var mnemonic = "picture spider design duck cinnamon armor drum aspect side enhance child nose";

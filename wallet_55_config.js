@@ -1,1 +1,1 @@
-var mnemonic = "submit obey swift canoe eagle sense orchard leave copper guitar cabin emotion";
+var mnemonic = "jelly reflect depart fit immense pistol update place clean imitate alarm circle";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome fly welcome top net harvest volume connect chat draw census misery";
+var mnemonic = "flame insect ginger tiny drill scorpion cancel angle lyrics split brush state";

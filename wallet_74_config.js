@@ -1,1 +1,1 @@
-var mnemonic = "journey vote multiply orphan increase wear blood type object trigger tomato hub";
+var mnemonic = "embrace tuna staff under model flat skirt uniform romance that arctic lazy";

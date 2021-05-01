@@ -1,1 +1,1 @@
-var mnemonic = "odor caution power flip repeat traffic clog online volcano eagle order employ";
+var mnemonic = "unit hood rich cave hedgehog wire interest reveal deer science wish wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "start run bulb rare peace theme snap until sing toast evoke lion";
+var mnemonic = "rug enrich rebuild mobile people panel animal manual miss rule spatial grab";

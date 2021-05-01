@@ -1,1 +1,1 @@
-var mnemonic = "shock long suffer rack pitch dumb more similar lumber limit weekend clown";
+var mnemonic = "desk pact please race jazz cruise develop wall aisle vague tongue grid";

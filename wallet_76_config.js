@@ -1,1 +1,1 @@
-var mnemonic = "limit spin sweet pave hospital humble depend layer just very office identify";
+var mnemonic = "plug reunion bench gauge toss celery tobacco faint latin seed candy rose";

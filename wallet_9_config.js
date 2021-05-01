@@ -1,1 +1,1 @@
-var mnemonic = "okay option auto actor globe soft chair trigger window cannon faith repair";
+var mnemonic = "tower episode author mind liberty garbage source vapor hollow pitch copy olympic";

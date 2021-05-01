@@ -1,1 +1,1 @@
-var mnemonic = "ramp hero absorb describe oyster portion ribbon twist reflect ridge left jaguar";
+var mnemonic = "walnut sing physical issue mobile setup disagree virtual come other know opinion";

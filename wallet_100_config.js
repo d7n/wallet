@@ -1,1 +1,1 @@
-var mnemonic = "senior loyal tip inhale clown already autumn access finish unknown satoshi hazard";
+var mnemonic = "prepare illness story glue run special proud risk town harvest case awful";

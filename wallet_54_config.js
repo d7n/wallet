@@ -1,1 +1,1 @@
-var mnemonic = "false gasp print blade avoid tornado drill typical furnace toe uniform chaos";
+var mnemonic = "window flat educate clay light among absorb slight federal off odor drip";

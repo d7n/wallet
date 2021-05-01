@@ -1,1 +1,1 @@
-var mnemonic = "when round trade sheriff labor small forward shoot improve level brand tomato";
+var mnemonic = "plastic canal earn task fortune time car fly mango own shallow tennis";

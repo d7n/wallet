@@ -1,1 +1,1 @@
-var mnemonic = "tennis imitate early avocado grow aim input auto wheel black ensure useless";
+var mnemonic = "trip orbit pitch lab affair among swim royal filter anxiety real want";

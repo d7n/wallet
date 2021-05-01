@@ -1,1 +1,1 @@
-var mnemonic = "match course office swamp draft devote behave analyst armed begin young prefer";
+var mnemonic = "rice ocean entire scrap girl pizza cloth table key sample forget poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "train labor chicken make gallery bundle lift minute pride yellow enable arm";
+var mnemonic = "inflict knee moon husband praise crazy exact abstract ignore urban disagree almost";

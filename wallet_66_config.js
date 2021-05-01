@@ -1,1 +1,1 @@
-var mnemonic = "filter level cannon supply extend expire enrich forward clip aisle hollow pair";
+var mnemonic = "trash check liquid buyer right equal approve napkin drink sport library prevent";

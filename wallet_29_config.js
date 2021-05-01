@@ -1,1 +1,1 @@
-var mnemonic = "author broom tilt safe skin palace gauge together educate trick slice noise";
+var mnemonic = "title gallery sponsor point scale despair spin slice catalog monster garbage vocal";

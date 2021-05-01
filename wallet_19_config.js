@@ -1,1 +1,1 @@
-var mnemonic = "clay talent hard boil clap mandate fitness range shove genius push trial";
+var mnemonic = "hope rally tide rival rice squeeze unfold gas capable cigar verify squeeze";

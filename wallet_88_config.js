@@ -1,1 +1,1 @@
-var mnemonic = "pigeon aspect unusual torch science faint divert magnet minimum bleak abstract pumpkin";
+var mnemonic = "chair nasty mix multiply innocent blame social wool artwork match diesel tennis";

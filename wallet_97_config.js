@@ -1,1 +1,1 @@
-var mnemonic = "powder acid sea hint report verify hotel hollow dash fan skate crush";
+var mnemonic = "happy shoot regular orchard summer expect fun bench sponsor cherry fiscal swift";

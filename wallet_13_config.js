@@ -1,1 +1,1 @@
-var mnemonic = "script raven fossil citizen future orchard joke nominee liberty rose bleak ancient";
+var mnemonic = "atom all morning opera fossil today enemy any course account observe giant";

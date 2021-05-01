@@ -1,1 +1,1 @@
-var mnemonic = "link company video junior raw winner usage misery blast dune kind bounce";
+var mnemonic = "raise come nuclear game bulb false aspect chimney fun ridge word business";

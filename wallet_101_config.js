@@ -1,1 +1,1 @@
-var mnemonic = "replace bridge reveal vivid rain trim blood cheese lake august elbow note";
+var mnemonic = "note ice zebra type clutch dance another junk recall payment frog silk";

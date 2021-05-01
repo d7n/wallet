@@ -1,1 +1,1 @@
-var mnemonic = "animal sock resource kingdom broken spring balcony net sight shop dumb ankle";
+var mnemonic = "practice will link art imitate draft drift trigger phone expect card left";
