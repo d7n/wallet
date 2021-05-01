@@ -1,1 +1,1 @@
-var mnemonic = "vocal they envelope eye clutch inform jeans mix wine element wall pattern";
+var mnemonic = "tunnel glass age puppy finger gravity sting knife idea barely rare electric";

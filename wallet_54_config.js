@@ -1,1 +1,1 @@
-var mnemonic = "horse provide eager provide stomach mind quick laptop fence drastic gain valley";
+var mnemonic = "volcano junk enough unveil reunion chest aim vanish dignity disorder wise earth";

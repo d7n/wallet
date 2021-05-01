@@ -1,1 +1,1 @@
-var mnemonic = "attitude safe maximum year misery genre pluck pact response rabbit over clever";
+var mnemonic = "survey tornado deposit silver sorry two welcome improve all evoke devote gesture";

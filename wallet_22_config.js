@@ -1,1 +1,1 @@
-var mnemonic = "pave duck heavy uphold abandon rail divide congress display nothing habit select";
+var mnemonic = "liberty bird gossip mimic transfer food girl zero pulp focus like hawk";

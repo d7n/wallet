@@ -1,1 +1,1 @@
-var mnemonic = "city choice tobacco fancy issue amazing afford arrange swear thing flavor ethics";
+var mnemonic = "repeat bar reform noise valid entry steak payment jungle allow endless rebuild";

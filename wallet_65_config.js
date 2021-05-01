@@ -1,1 +1,1 @@
-var mnemonic = "warfare swap digital disease wealth public live skate skin solution fatal squirrel";
+var mnemonic = "very proud actor laugh truth remain track worth innocent outside afford barrel";

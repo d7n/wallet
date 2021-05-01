@@ -1,1 +1,1 @@
-var mnemonic = "boil auction romance just essence crazy genre crew stadium actress already bronze";
+var mnemonic = "spy swarm town heavy spike void drastic unaware smile still huge boy";

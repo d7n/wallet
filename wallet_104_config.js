@@ -1,1 +1,1 @@
-var mnemonic = "artist dune liar that gentle ahead must fine flee journey planet photo";
+var mnemonic = "input once zoo wagon actual ozone jealous immune coil razor hurry clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "online coil setup gauge joy sadness praise discover plunge pistol suspect build";
+var mnemonic = "knee same sunset same chase design pilot future display mind frown timber";

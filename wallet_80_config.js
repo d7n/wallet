@@ -1,1 +1,1 @@
-var mnemonic = "payment hope tide market oyster vacuum leisure lion pair grain minute run";
+var mnemonic = "pact run father urge memory mom base venture glory also denial hand";

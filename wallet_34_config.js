@@ -1,1 +1,1 @@
-var mnemonic = "analyst toast move abstract theme tooth verify quiz rural cargo easy muscle";
+var mnemonic = "barrel scissors primary journey tired crack silly december turtle member grace answer";

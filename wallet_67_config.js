@@ -1,1 +1,1 @@
-var mnemonic = "canyon market goddess sight work list jewel eternal donor pumpkin little toddler";
+var mnemonic = "victory skin burden report eye child razor jungle dress decade churn pond";

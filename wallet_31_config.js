@@ -1,1 +1,1 @@
-var mnemonic = "express eye kingdom update bless gauge rare caught retreat brave fresh fish";
+var mnemonic = "someone chunk stamp type involve grocery hawk gossip tomorrow doctor naive token";

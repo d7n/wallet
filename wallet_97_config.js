@@ -1,1 +1,1 @@
-var mnemonic = "person sausage thank ethics chicken approve produce wire casino direct month uniform";
+var mnemonic = "cause lend fossil provide display polar differ black gauge upon raccoon crew";

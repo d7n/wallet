@@ -1,1 +1,1 @@
-var mnemonic = "game minor minimum spoon interest danger chief warfare lounge industry endless ignore";
+var mnemonic = "bean enact uphold notable learn title robust fix dolphin city train wire";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige speed live drip verify target antenna marble sort grit forest polar";
+var mnemonic = "fruit test clarify visual hand acoustic clarify believe attack simple code arena";

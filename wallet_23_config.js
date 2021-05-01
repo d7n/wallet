@@ -1,1 +1,1 @@
-var mnemonic = "exit zoo gasp language panel black wonder very wine puzzle client forget";
+var mnemonic = "elder violin robot struggle infant staff hold margin salute alpha foot describe";

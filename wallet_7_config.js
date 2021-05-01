@@ -1,1 +1,1 @@
-var mnemonic = "erase ring saddle lift panther taste seminar must tank piano mobile love";
+var mnemonic = "rural engine defense muscle scan have drink hole mystery unique split april";

@@ -1,1 +1,1 @@
-var mnemonic = "day elite tunnel earn ski remain vessel cheese artist account hope top";
+var mnemonic = "stage miss soda club outdoor sniff pepper betray fragile stove hero pull";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic under casual rough license gravity enrich tired bleak choice romance program";
+var mnemonic = "mixture airport rain fun marble bring smooth spatial cage over wait hunt";

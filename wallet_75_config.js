@@ -1,1 +1,1 @@
-var mnemonic = "private online outer increase secret select thing crush father couple glance throw";
+var mnemonic = "maximum improve clutch amused amount bracket ketchup burger produce island border travel";

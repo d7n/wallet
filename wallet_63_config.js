@@ -1,1 +1,1 @@
-var mnemonic = "hood exact snack siege loud globe world cement goat ethics arena forget";
+var mnemonic = "eternal damp artwork bronze favorite maid guilt web neutral fade twist trend";

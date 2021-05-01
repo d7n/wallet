@@ -1,1 +1,1 @@
-var mnemonic = "mouse team end plastic winter angle noodle shove address deliver long believe";
+var mnemonic = "robot ocean debate style envelope play erupt dignity thing talk chat inquiry";

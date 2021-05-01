@@ -1,1 +1,1 @@
-var mnemonic = "offer photo fruit doctor town hard prepare stereo sick issue primary student";
+var mnemonic = "melody wise bench bunker captain arrive submit theme earth please over lab";

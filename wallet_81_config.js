@@ -1,1 +1,1 @@
-var mnemonic = "have whale circle thank economy wave hello thank hidden special gas hammer";
+var mnemonic = "muscle evil harsh fuel game winner bulb traffic release human auction fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor arrow ramp scrub spice token duck frost aunt trip build crazy";
+var mnemonic = "poet eagle hill success hard sunny clinic kid panther snow cup carry";

@@ -1,1 +1,1 @@
-var mnemonic = "news sure snow refuse wing cushion february paper try inner smart time";
+var mnemonic = "myself dream trash excite enlist choice weather someone brave blanket hole toddler";

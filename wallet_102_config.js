@@ -1,1 +1,1 @@
-var mnemonic = "unknown learn success reunion avocado raven next envelope kangaroo punch sing engine";
+var mnemonic = "favorite alley wheel today inmate multiply vehicle spell radio age atom payment";

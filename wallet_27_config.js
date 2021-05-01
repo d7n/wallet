@@ -1,1 +1,1 @@
-var mnemonic = "soup void electric problem family essay wide shiver vendor adapt remain near";
+var mnemonic = "churn eager click consider kingdom dignity human anger damp group brush find";

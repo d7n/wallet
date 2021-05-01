@@ -1,1 +1,1 @@
-var mnemonic = "imitate combine move urge evoke private property agree throw across rude destroy";
+var mnemonic = "since damp penalty nose mercy cigar carpet danger verify level pudding skirt";

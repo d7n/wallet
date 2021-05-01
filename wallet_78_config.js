@@ -1,1 +1,1 @@
-var mnemonic = "leader leader possible slogan van wear cluster deputy victory multiply spy decorate";
+var mnemonic = "rely rate arm decorate drink volcano august razor fragile gift hire nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "remind display gospel muscle blossom grab whisper loop wash update youth path";
+var mnemonic = "chicken void dwarf alter illegal move april page trash rent december swing";

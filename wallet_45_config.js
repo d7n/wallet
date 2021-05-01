@@ -1,1 +1,1 @@
-var mnemonic = "extra walk together retreat december wheat wisdom word student heart track copper";
+var mnemonic = "bubble first shallow upon deer accident traffic arch pattern rebel leopard abandon";

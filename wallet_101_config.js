@@ -1,1 +1,1 @@
-var mnemonic = "patch deer love raw machine blossom record outside enrich tape dynamic pencil";
+var mnemonic = "device beyond valid mobile hand confirm sponsor toilet million attract elephant vendor";

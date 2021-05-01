@@ -1,1 +1,1 @@
-var mnemonic = "spy immense rent crane logic birth faint fire hen fancy visual slush";
+var mnemonic = "mean symbol bonus guilt chuckle palace danger material orchard dress enjoy page";

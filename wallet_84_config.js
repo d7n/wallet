@@ -1,1 +1,1 @@
-var mnemonic = "brand brain barrel tool figure ankle knee render sight wealth bubble bacon";
+var mnemonic = "one maximum whale bracket unable entire small sure iron lady okay fire";

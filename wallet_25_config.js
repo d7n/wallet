@@ -1,1 +1,1 @@
-var mnemonic = "bird fossil burst follow leader collect insect local excite answer seed illegal";
+var mnemonic = "pioneer wrestle cradle husband whale home dial thought glow radio sting car";

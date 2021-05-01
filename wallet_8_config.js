@@ -1,1 +1,1 @@
-var mnemonic = "caution timber version awesome next under nut deliver start crystal latin thing";
+var mnemonic = "mother tuna prepare sphere rebel valve skate polar victory female rain target";

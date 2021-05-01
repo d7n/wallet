@@ -1,1 +1,1 @@
-var mnemonic = "lazy undo wave such omit rude climb work utility wine try loud";
+var mnemonic = "damp news physical diesel draw aim noodle soda damp news abuse defy";

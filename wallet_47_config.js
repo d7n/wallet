@@ -1,1 +1,1 @@
-var mnemonic = "convince juice eight provide twice cinnamon endless balcony violin sugar peanut humble";
+var mnemonic = "chase clerk rude canyon kind fluid aisle envelope impact venture evoke situate";

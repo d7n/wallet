@@ -1,1 +1,1 @@
-var mnemonic = "crowd loop defense degree letter action usage screen bright street lion spell";
+var mnemonic = "exhibit ill hungry husband warrior local network help skirt economy roast miss";

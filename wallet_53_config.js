@@ -1,1 +1,1 @@
-var mnemonic = "hope belt horror retire clay ritual true hockey quality catalog wall punch";
+var mnemonic = "diagram obtain easily faculty winner believe firm snap index diet flame bulb";

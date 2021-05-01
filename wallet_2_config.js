@@ -1,1 +1,1 @@
-var mnemonic = "steak you feed member coach kitten grief where feel general culture text";
+var mnemonic = "door vacuum begin finger beef holiday fiscal category program lady raven style";

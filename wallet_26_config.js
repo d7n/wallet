@@ -1,1 +1,1 @@
-var mnemonic = "claw palm aisle morning oyster grass move wrap sock shine plug dynamic";
+var mnemonic = "rice provide absorb timber impose common open quantum firm inside age original";

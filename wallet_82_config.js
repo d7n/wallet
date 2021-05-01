@@ -1,1 +1,1 @@
-var mnemonic = "inflict marble drink since jazz behind myself spirit safe frog margin turtle";
+var mnemonic = "damage omit enjoy anger legal small zone crew gauge mutual scrub what";

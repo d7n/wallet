@@ -1,1 +1,1 @@
-var mnemonic = "moon toe other cry slam deposit safe soda tenant repair provide candy";
+var mnemonic = "number pen pepper pulse path ordinary blouse sphere turn lake device alcohol";

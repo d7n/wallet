@@ -1,1 +1,1 @@
-var mnemonic = "same express into task slow liquid diagram tag mail protect plate urban";
+var mnemonic = "fine cement click toss tribe fatigue under opera raccoon gun mutual chat";

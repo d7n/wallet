@@ -1,1 +1,1 @@
-var mnemonic = "sand protect hole clap lumber sniff fox bicycle mimic plug answer crystal";
+var mnemonic = "hazard guide code loop space satoshi army age devote warm harbor door";

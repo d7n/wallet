@@ -1,1 +1,1 @@
-var mnemonic = "tray cause nest unveil eye scan wine cause vivid program wonder coil";
+var mnemonic = "lottery silly patrol distance limb among boring lawsuit execute crew prosper honey";

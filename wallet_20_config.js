@@ -1,1 +1,1 @@
-var mnemonic = "expose goddess regret nurse elbow balance tape step girl wide indoor bind";
+var mnemonic = "skin crop never always argue help easily mail carry mutual distance scorpion";

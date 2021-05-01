@@ -1,1 +1,1 @@
-var mnemonic = "relax spare sadness taste expose anchor blanket wrist increase twice way century";
+var mnemonic = "adjust leader response lava naive brain easily inherit finish impose index jazz";

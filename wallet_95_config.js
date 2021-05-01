@@ -1,1 +1,1 @@
-var mnemonic = "account still cause invest rice game obscure help motor solve yard genre";
+var mnemonic = "orient offer stereo coast mouse bomb ready wedding planet pioneer caution craft";

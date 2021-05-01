@@ -1,1 +1,1 @@
-var mnemonic = "cereal hurt visual cruise remove nurse diesel atom harvest mass credit end";
+var mnemonic = "second spin tunnel first powder bacon snack security update innocent universe meat";

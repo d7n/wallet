@@ -1,1 +1,1 @@
-var mnemonic = "village during media reject today inside man worth actual close crazy cliff";
+var mnemonic = "garbage phrase fork sample transfer aim boil wisdom wise verify whisper slab";

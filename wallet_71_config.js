@@ -1,1 +1,1 @@
-var mnemonic = "entire shadow company truth trade puppy senior pony visa foam brand dentist";
+var mnemonic = "cluster report purse move sentence mule blade connect holiday egg lamp elder";

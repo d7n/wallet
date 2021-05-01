@@ -1,1 +1,1 @@
-var mnemonic = "spy demand rabbit resource burger twist crane bench soda budget situate hurdle";
+var mnemonic = "forget reflect state alarm local gorilla knock degree timber menu spice foil";

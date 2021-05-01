@@ -1,1 +1,1 @@
-var mnemonic = "body electric fringe reduce domain pig leader arrange license drip bone episode";
+var mnemonic = "report rally decrease panther prevent pudding harvest risk snake remove shock kiss";

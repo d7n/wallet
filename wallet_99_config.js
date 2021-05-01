@@ -1,1 +1,1 @@
-var mnemonic = "ankle funny park awesome exact embark drift girl debris scare powder session";
+var mnemonic = "idea moment either oblige minimum menu whip glide brick click game mosquito";

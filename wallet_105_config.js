@@ -1,1 +1,1 @@
-var mnemonic = "segment canyon royal jelly fiction chuckle saddle dish occur suspect reflect laptop";
+var mnemonic = "pulp next correct later social car sign small clump elephant nest author";

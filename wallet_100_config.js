@@ -1,1 +1,1 @@
-var mnemonic = "boy tomorrow level olive story minimum course quarter click until enrich panel";
+var mnemonic = "twin want document ecology ask believe noodle ready entry globe sniff renew";

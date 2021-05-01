@@ -1,1 +1,1 @@
-var mnemonic = "identify zero identify quit column program deny dish kiss youth airport inside";
+var mnemonic = "notable over depend armed flash raven rough settle rug baby valley permit";

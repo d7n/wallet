@@ -1,1 +1,1 @@
-var mnemonic = "oppose develop planet mixed brave time supply toast vendor sponsor face frog";
+var mnemonic = "lady link cross stand fee frozen glide trumpet kite shift mistake phrase";

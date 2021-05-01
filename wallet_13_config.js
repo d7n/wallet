@@ -1,1 +1,1 @@
-var mnemonic = "oval deliver organ gadget airport churn ghost layer excite vacant address egg";
+var mnemonic = "note clinic silly twelve verify cluster office thrive flavor shaft attract immune";

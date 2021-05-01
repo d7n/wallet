@@ -1,1 +1,1 @@
-var mnemonic = "family torch guess hand syrup gravity flock stable change protect board assume";
+var mnemonic = "fluid hedgehog dentist nerve paddle joy upset metal fringe aim merit sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "that struggle element abuse sister brick rough cost okay talent because connect";
+var mnemonic = "believe stick differ intact girl pitch estate fitness satoshi meadow coast frequent";

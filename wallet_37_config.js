@@ -1,1 +1,1 @@
-var mnemonic = "end try liquid furnace journey amazing input regret waste rigid endless onion";
+var mnemonic = "media calm route number wreck pistol priority oxygen tomorrow brother torch between";

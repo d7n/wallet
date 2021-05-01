@@ -1,1 +1,1 @@
-var mnemonic = "disease bar biology order input lesson security ability october wide patch penalty";
+var mnemonic = "idea achieve stumble youth crouch piece replace rough penalty glide paddle carbon";

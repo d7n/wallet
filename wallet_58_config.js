@@ -1,1 +1,1 @@
-var mnemonic = "void tackle border must false exchange toddler bulb story crisp luxury payment";
+var mnemonic = "soccer relax afford fall please advice cruise upset source sunset desk ladder";

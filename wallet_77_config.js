@@ -1,1 +1,1 @@
-var mnemonic = "magnet next combine jar write paper unfold sister couple soda base sentence";
+var mnemonic = "pause observe cinnamon charge eagle bid north solar goose energy electric start";

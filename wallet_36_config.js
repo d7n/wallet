@@ -1,1 +1,1 @@
-var mnemonic = "mad survey elegant sauce gravity pupil glow potato viable primary smile hollow";
+var mnemonic = "ask feel green future coast clay shield delay vague any click dynamic";

@@ -1,1 +1,1 @@
-var mnemonic = "modify elbow property include civil drop keen story series envelope morning upset";
+var mnemonic = "remember churn praise aunt ladder venture impact become cattle skill solution dismiss";

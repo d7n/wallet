@@ -1,1 +1,1 @@
-var mnemonic = "fantasy way pear silent scrap lazy suffer climb cigar link force sketch";
+var mnemonic = "icon candy gasp expose beef rely goose purity capital answer image office";

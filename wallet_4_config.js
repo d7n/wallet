@@ -1,1 +1,1 @@
-var mnemonic = "will siren soon sense win nation blush milk napkin long ketchup bitter";
+var mnemonic = "camera arena borrow undo access success rose crouch year nation garbage dolphin";

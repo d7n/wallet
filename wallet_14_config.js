@@ -1,1 +1,1 @@
-var mnemonic = "enrich inject stamp bamboo sea cross volume security agree head define brass";
+var mnemonic = "gorilla edge volcano fitness wait pepper clock ridge orient output banner earth";

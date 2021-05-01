@@ -1,1 +1,1 @@
-var mnemonic = "develop wage round burger guilt planet can supply flat install cave grain";
+var mnemonic = "child have exchange arrest cage organ emerge head gospel fitness lesson more";

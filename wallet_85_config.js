@@ -1,1 +1,1 @@
-var mnemonic = "gauge spring stadium seed strike debate spawn tuition salute swamp fashion cake";
+var mnemonic = "puppy cliff wool reward tornado wait into blind country opera have subway";

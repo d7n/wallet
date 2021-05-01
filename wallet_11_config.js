@@ -1,1 +1,1 @@
-var mnemonic = "good peace all govern increase defense forward plug decide cushion annual swift";
+var mnemonic = "elevator filter undo supreme light party practice chief ceiling scorpion wedding core";

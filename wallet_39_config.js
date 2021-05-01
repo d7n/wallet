@@ -1,1 +1,1 @@
-var mnemonic = "cliff state train answer pink boil strike around mango detect hollow soda";
+var mnemonic = "dumb viable drama exit praise advance elbow metal shoe host column person";

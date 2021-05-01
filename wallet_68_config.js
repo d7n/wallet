@@ -1,1 +1,1 @@
-var mnemonic = "wise problem kid march knock book exit focus delay private minimum fitness";
+var mnemonic = "just please ramp force admit ordinary scare reunion machine receive private stove";

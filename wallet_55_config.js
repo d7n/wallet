@@ -1,1 +1,1 @@
-var mnemonic = "taste world diary edge city plug middle illegal anger pyramid jump infant";
+var mnemonic = "saddle twenty input middle click major heart label uncle blood merge design";

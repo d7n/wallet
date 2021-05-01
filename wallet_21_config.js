@@ -1,1 +1,1 @@
-var mnemonic = "feature pottery crime present puppy early romance recall roast common use kick";
+var mnemonic = "lesson tag velvet traffic truck result barely auction steak patient ghost hungry";

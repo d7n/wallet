@@ -1,1 +1,1 @@
-var mnemonic = "dismiss barrel pledge detect response deer promote rhythm arrow notable coast absorb";
+var mnemonic = "annual chalk double alert hole blossom car water reflect behind broom turkey";

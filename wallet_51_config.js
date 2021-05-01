@@ -1,1 +1,1 @@
-var mnemonic = "castle rapid spoil run violin six regular blame amount antique text pledge";
+var mnemonic = "quote visa because supply orbit question trumpet kangaroo cement scan pyramid country";

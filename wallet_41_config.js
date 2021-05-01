@@ -1,1 +1,1 @@
-var mnemonic = "lonely cherry melt mechanic anger antenna dream choice custom erosion arrest fine";
+var mnemonic = "slim nice ignore hat ensure purpose squirrel betray example lift valley poverty";

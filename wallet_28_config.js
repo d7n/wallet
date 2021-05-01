@@ -1,1 +1,1 @@
-var mnemonic = "bless unlock august buddy result angle veteran dose wolf damage panther average";
+var mnemonic = "dinosaur owner budget holiday spider train grape barely volcano object list giggle";

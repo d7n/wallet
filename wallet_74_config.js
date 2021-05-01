@@ -1,1 +1,1 @@
-var mnemonic = "medal flight elder inch pencil recall carbon win list spider anxiety rifle";
+var mnemonic = "solve bamboo trouble tide fashion rent scan rescue island walk source clock";

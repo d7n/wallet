@@ -1,1 +1,1 @@
-var mnemonic = "cart main mirror series story truth tray quarter guitar roof cluster afraid";
+var mnemonic = "wrong love harbor mobile tail onion forum crime belt glimpse layer catch";

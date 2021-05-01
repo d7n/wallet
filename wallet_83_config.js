@@ -1,1 +1,1 @@
-var mnemonic = "misery road tide glance inch roast ankle tuition armed hat truly solution";
+var mnemonic = "phrase cargo fix noodle credit mule ship floor retire under key movie";

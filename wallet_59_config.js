@@ -1,1 +1,1 @@
-var mnemonic = "slow term menu cricket apart protect phone amused kid purchase wrestle aunt";
+var mnemonic = "review crawl execute during tackle sweet acid round paddle desk envelope document";
