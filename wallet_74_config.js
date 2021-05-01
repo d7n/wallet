@@ -1,1 +1,1 @@
-var mnemonic = "lunar trash leaf ring pencil forest eyebrow scout reveal paper system transfer";
+var mnemonic = "hidden search prison bridge blade glow soup cruel blouse exercise aunt acquire";

@@ -1,1 +1,1 @@
-var mnemonic = "issue large return canyon motor order trial crater maze age blossom casual";
+var mnemonic = "belt slide actual average rhythm rookie bone elite purse shield inch weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "accident oyster struggle distance foam pear trip vague clean goddess vivid diagram";
+var mnemonic = "beyond album focus congress correct victory shed section tray shallow firm direct";

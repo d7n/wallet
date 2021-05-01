@@ -1,1 +1,1 @@
-var mnemonic = "release there snow arrange easily tuna that disease swallow voice lucky wedding";
+var mnemonic = "aunt wrist recycle express grape photo auto today case antenna music witness";

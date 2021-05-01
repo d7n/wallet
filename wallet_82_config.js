@@ -1,1 +1,1 @@
-var mnemonic = "relax angry topic call ghost flat march trumpet enough stool jump pause";
+var mnemonic = "zone evolve exclude excite worth bargain bench match fence length master service";

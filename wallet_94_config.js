@@ -1,1 +1,1 @@
-var mnemonic = "avocado delay pet afraid song wasp walnut concert cave cereal chase nest";
+var mnemonic = "zero output indoor join then maid almost supply corn gorilla country hungry";

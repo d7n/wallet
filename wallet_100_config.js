@@ -1,1 +1,1 @@
-var mnemonic = "hub fury cotton general cousin payment board grow hint alpha cool rose";
+var mnemonic = "miss song nurse search razor patient buyer swing child can play situate";

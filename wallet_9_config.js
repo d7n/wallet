@@ -1,1 +1,1 @@
-var mnemonic = "seven surround undo misery notice season barely tribe shy genuine vapor aspect";
+var mnemonic = "gap intact gym endless volume vacant increase jungle small stairs alter soup";

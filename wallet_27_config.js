@@ -1,1 +1,1 @@
-var mnemonic = "diagram stick shiver ocean million airport empower roof tourist unfair image airport";
+var mnemonic = "switch gesture scan dolphin saddle flush very ski effort pass famous rack";

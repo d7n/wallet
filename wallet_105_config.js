@@ -1,1 +1,1 @@
-var mnemonic = "recipe gauge cactus fence odor brisk caution utility casual nice clutch draw";
+var mnemonic = "afford clean when hollow pen among resist ability help urban advance cheap";

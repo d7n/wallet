@@ -1,1 +1,1 @@
-var mnemonic = "butter depth ceiling damp black expose suit plug wasp mushroom cluster net";
+var mnemonic = "park burden crew order idea food crush entry antenna feature danger spot";

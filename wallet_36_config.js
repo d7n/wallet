@@ -1,1 +1,1 @@
-var mnemonic = "street hunt edit rotate obtain tip pole like medal virtual cream embark";
+var mnemonic = "diary parrot outer wrist tide crouch flock gain market ketchup shiver ankle";

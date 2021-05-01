@@ -1,1 +1,1 @@
-var mnemonic = "hill nose great print photo token truth few peace enter coyote avoid";
+var mnemonic = "thrive joke toddler violin nurse three guilt certain sausage huge hobby dad";

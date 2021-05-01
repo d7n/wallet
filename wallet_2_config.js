@@ -1,1 +1,1 @@
-var mnemonic = "clock weather portion cause buffalo grain parade small comic chair ecology coil";
+var mnemonic = "acoustic core box surround boat shiver pact valid elder click border tray";

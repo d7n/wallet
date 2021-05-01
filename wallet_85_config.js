@@ -1,1 +1,1 @@
-var mnemonic = "claim rib tomorrow fee scale like doctor wasp two dad female wing";
+var mnemonic = "silk kick dawn cool insect crowd swear ceiling parent also injury thank";

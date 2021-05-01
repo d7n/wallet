@@ -1,1 +1,1 @@
-var mnemonic = "senior shoulder spider motor festival fee velvet hospital rough scrub carry express";
+var mnemonic = "actor language spirit permit comfort ocean jazz thrive observe cactus prosper car";

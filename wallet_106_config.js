@@ -1,1 +1,1 @@
-var mnemonic = "busy ill high dwarf empty enlist health cram hazard sadness head torch";
+var mnemonic = "bacon label female trip minute pen journey thumb neither concert theory truly";

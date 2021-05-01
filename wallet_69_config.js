@@ -1,1 +1,1 @@
-var mnemonic = "old truck spend glance success burst enemy donkey oval false camera theory";
+var mnemonic = "observe blood market spirit desert car shop surface face two easily table";

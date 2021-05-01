@@ -1,1 +1,1 @@
-var mnemonic = "album relax illegal visual museum basket suspect inflict must diary miss cream";
+var mnemonic = "stool cart issue eagle old menu frozen comfort pitch cigar wood clarify";

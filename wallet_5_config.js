@@ -1,1 +1,1 @@
-var mnemonic = "weasel enforce pause rain razor elevator absorb parrot during jazz peasant pyramid";
+var mnemonic = "pyramid stage park undo finger twist whip shrug power same venue true";

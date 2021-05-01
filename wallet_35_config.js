@@ -1,1 +1,1 @@
-var mnemonic = "monster flavor execute mule multiply broccoli youth pass vault label female opera";
+var mnemonic = "guilt half swear eager teach frozen capital sample jealous afford abstract obvious";

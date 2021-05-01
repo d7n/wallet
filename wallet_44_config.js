@@ -1,1 +1,1 @@
-var mnemonic = "knee insect paper typical piano grunt vault rose fiscal material spider state";
+var mnemonic = "weird prison truck defense clap question churn depend flash swear reason pass";

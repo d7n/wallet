@@ -1,1 +1,1 @@
-var mnemonic = "rubber cram fashion front ready cricket brass height print entry whip response";
+var mnemonic = "obscure produce roast culture depend doctor sand tortoise grid pony slogan fuel";

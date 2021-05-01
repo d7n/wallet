@@ -1,1 +1,1 @@
-var mnemonic = "author era abandon nothing sniff box rocket stairs pave excite theory fee";
+var mnemonic = "jump attract glad great search prosper dilemma urge category whip loop memory";

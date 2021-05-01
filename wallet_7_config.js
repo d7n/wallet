@@ -1,1 +1,1 @@
-var mnemonic = "print valley gadget state goat speed setup frequent husband clip knife gloom";
+var mnemonic = "tooth rival easy couple idea amazing pride much ginger pencil radio top";

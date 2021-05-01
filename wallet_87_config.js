@@ -1,1 +1,1 @@
-var mnemonic = "coconut crazy prevent never climb reunion jewel giraffe depart winter attend baby";
+var mnemonic = "spirit hero taxi improve priority oblige common section divide correct invest earth";

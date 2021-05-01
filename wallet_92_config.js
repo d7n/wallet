@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow since uncle amateur rack deer muscle hill topic wagon father school";
+var mnemonic = "polar annual grief walnut indicate rocket toddler moment mobile trumpet awkward raise";

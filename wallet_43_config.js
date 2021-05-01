@@ -1,1 +1,1 @@
-var mnemonic = "point welcome lemon entire icon orchard rare wait rug gauge agree rug";
+var mnemonic = "enrich gold sunset delay deliver gasp mango potato silk unfair immune mushroom";

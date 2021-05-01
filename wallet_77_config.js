@@ -1,1 +1,1 @@
-var mnemonic = "practice royal palace digital taste memory slush buddy city barely enable oxygen";
+var mnemonic = "exact winter celery shoulder surround enrich sight park ski raccoon fresh february";

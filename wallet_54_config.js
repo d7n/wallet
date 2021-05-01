@@ -1,1 +1,1 @@
-var mnemonic = "palm rhythm meadow toss series sort typical neither usual balcony decide museum";
+var mnemonic = "rib era rocket milk degree clown square ivory share hair people chair";

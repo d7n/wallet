@@ -1,1 +1,1 @@
-var mnemonic = "combine exit month stumble away great cement gloom cluster purchase brand eternal";
+var mnemonic = "ordinary secret bind lounge rack pact cabbage parrot blouse spring ship vault";

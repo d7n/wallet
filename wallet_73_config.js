@@ -1,1 +1,1 @@
-var mnemonic = "answer ramp iron okay cream label jar embrace urge silver alien universe";
+var mnemonic = "luxury invite onion torch sample obtain forward quote pause solve save change";

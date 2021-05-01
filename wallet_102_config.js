@@ -1,1 +1,1 @@
-var mnemonic = "will nasty language tonight tail social mix depend fresh glove sail now";
+var mnemonic = "certain defense firm laugh account limb sad boost cycle cereal behave dish";

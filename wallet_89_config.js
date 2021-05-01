@@ -1,1 +1,1 @@
-var mnemonic = "rack enter beef tray method lamp rely expand spring swap sick inch";
+var mnemonic = "ozone bamboo process hawk ride history guide lend weather deal gain prepare";

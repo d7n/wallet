@@ -1,1 +1,1 @@
-var mnemonic = "wave walk invest taxi spawn apple other satisfy team want orphan attitude";
+var mnemonic = "inner train bread scale version hazard choose aware attack sand process dice";

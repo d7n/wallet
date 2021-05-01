@@ -1,1 +1,1 @@
-var mnemonic = "banana fluid cover kit shrimp puzzle describe seek easily list tourist month";
+var mnemonic = "attract marine prosper jewel chunk enemy scale wrestle welcome thought oven brick";

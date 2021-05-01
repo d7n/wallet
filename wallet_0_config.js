@@ -1,1 +1,1 @@
-var mnemonic = "unhappy snow nation firm device noble desert derive junior absorb piece planet";
+var mnemonic = "solution frequent gap slim issue dry picture glue another blade envelope hidden";

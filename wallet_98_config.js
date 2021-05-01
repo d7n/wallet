@@ -1,1 +1,1 @@
-var mnemonic = "situate wood tackle axis wild hurt someone sun earn direct ladder pencil";
+var mnemonic = "obscure uncover weasel hire repair stick neutral receive route fresh fall notice";

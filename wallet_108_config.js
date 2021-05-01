@@ -1,1 +1,1 @@
-var mnemonic = "wish between lucky save hip spice elevator health relax envelope lawn palace";
+var mnemonic = "cool notice matrix local used aim off glad artefact relax view address";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness forget spray priority cherry audit cook wash bunker meadow select zoo";
+var mnemonic = "ship opera mother farm potato own rookie solve pretty blanket solution fan";

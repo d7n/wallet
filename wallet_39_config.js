@@ -1,1 +1,1 @@
-var mnemonic = "tray happy thought eight climb deliver nature chief exhibit predict dirt source";
+var mnemonic = "catalog pole orphan organ doll execute certain trophy outer fix clay banner";

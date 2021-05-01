@@ -1,1 +1,1 @@
-var mnemonic = "midnight avoid enlist mimic adapt laugh caught wool tone buffalo deer suffer";
+var mnemonic = "airport novel behind attitude strike jazz bring roof tree round crouch extra";

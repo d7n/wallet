@@ -1,1 +1,1 @@
-var mnemonic = "act seek floor torch father wing exotic history bubble gloom cinnamon shoot";
+var mnemonic = "rural mammal section pudding during theme bunker session answer pretty monster shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "wide obvious mimic neck tumble word brush twice ostrich later organ sound";
+var mnemonic = "defense manual dial mad color mushroom crumble denial jeans group black fish";

@@ -1,1 +1,1 @@
-var mnemonic = "round knock shrug maze short nasty power load jelly letter mirror spoil";
+var mnemonic = "rug satisfy tool history lamp mesh plug among image have gift bright";

@@ -1,1 +1,1 @@
-var mnemonic = "tilt train bless grant wonder defy rule reduce disagree paddle pizza much";
+var mnemonic = "parade trouble always bulb shove firm dress oak ten smart come iron";

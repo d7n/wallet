@@ -1,1 +1,1 @@
-var mnemonic = "chronic ocean click panic garden attack income key swim hockey river owner";
+var mnemonic = "wise inherit stumble raw ecology winter write nose trade project vehicle ivory";

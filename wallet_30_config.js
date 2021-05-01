@@ -1,1 +1,1 @@
-var mnemonic = "warrior pizza method either business private mouse seed measure vast unusual curtain";
+var mnemonic = "useful fault pink rural festival second evidence dash brisk index immense unhappy";

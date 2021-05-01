@@ -1,1 +1,1 @@
-var mnemonic = "demise discover shock kick eyebrow enable method soon march insect stick fit";
+var mnemonic = "sick torch either code chapter ability soup post drop acquire avoid when";

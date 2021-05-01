@@ -1,1 +1,1 @@
-var mnemonic = "snack wife pitch strategy purchase index lift heavy assault bridge thrive rich";
+var mnemonic = "source neutral hurdle great marble bicycle dwarf cannon mimic follow stereo solid";

@@ -1,1 +1,1 @@
-var mnemonic = "intact faith apart supreme race antique force effort reject pyramid want crack";
+var mnemonic = "old speak pudding foot case require broom erosion radio shock debate basket";

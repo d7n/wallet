@@ -1,1 +1,1 @@
-var mnemonic = "key motion galaxy oxygen raven heart essay foot afraid clay fortune whisper";
+var mnemonic = "wait hub tenant sniff tape once mammal cloud casino dial light tank";

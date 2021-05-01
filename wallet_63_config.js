@@ -1,1 +1,1 @@
-var mnemonic = "praise recycle debris truly peace combine approve element eye ill robust fluid";
+var mnemonic = "skirt life famous flower panther style ticket account boring fancy income tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "tone habit unfair eight humor renew crash pottery primary defense burst damage";
+var mnemonic = "grab dance slogan tuna narrow between scout code dilemma equip finger arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "interest tray picnic coil plastic embrace desk debate honey exotic enable where";
+var mnemonic = "fruit grunt return now harvest country fancy tank loud image agent tobacco";

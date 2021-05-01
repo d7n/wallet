@@ -1,1 +1,1 @@
-var mnemonic = "note cruise cable card interest release afraid diary mesh throw leader circle";
+var mnemonic = "dry brush aunt square begin sense rely smoke burst syrup bitter apology";

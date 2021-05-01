@@ -1,1 +1,1 @@
-var mnemonic = "soldier drive coin guide lounge finish march soda couch autumn release write";
+var mnemonic = "setup payment lounge rent settle addict quit theme cereal monster dentist rice";

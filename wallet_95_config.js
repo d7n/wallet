@@ -1,1 +1,1 @@
-var mnemonic = "raven average song dilemma invest soda attack mercy exhibit claim sheriff lava";
+var mnemonic = "glass plug pluck amount glare wheel garden host kitten relax job mention";

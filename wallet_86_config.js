@@ -1,1 +1,1 @@
-var mnemonic = "blast pudding globe bless crater tragic gasp behind joy abuse gesture engine";
+var mnemonic = "space shift legal between trust tuna bracket crash favorite multiply parade steel";

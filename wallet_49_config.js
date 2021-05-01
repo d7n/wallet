@@ -1,1 +1,1 @@
-var mnemonic = "awake diesel soda regret today quote stool crystal exit document call fix";
+var mnemonic = "talent gauge fetch weekend marble amount answer liar stone ceiling echo film";

@@ -1,1 +1,1 @@
-var mnemonic = "civil tray retreat bag assault game ripple dynamic venue enjoy zoo talk";
+var mnemonic = "equal minute sauce turkey equal mad page tuition beef cycle come wool";

@@ -1,1 +1,1 @@
-var mnemonic = "general endorse possible easily portion mixture artefact evoke gate hood mail cupboard";
+var mnemonic = "angle enable machine estate soda inflict picnic tiger display market deny cushion";

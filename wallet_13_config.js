@@ -1,1 +1,1 @@
-var mnemonic = "tooth bargain cannon hazard mesh basic panic pear oblige print message plastic";
+var mnemonic = "blush earn deliver rifle shop turkey mix toe sponsor nominee pass tape";

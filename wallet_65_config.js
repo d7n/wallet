@@ -1,1 +1,1 @@
-var mnemonic = "soup waste table improve balcony love stadium vessel gaze exercise thumb gain";
+var mnemonic = "wheel ladder mention police trumpet hip bacon wonder bulb post raven tissue";

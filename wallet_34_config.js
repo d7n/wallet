@@ -1,1 +1,1 @@
-var mnemonic = "grace bike aunt suffer bid crawl ginger jump hazard addict vital reveal";
+var mnemonic = "solution earth catalog rough under hamster child script daughter cruel blame release";

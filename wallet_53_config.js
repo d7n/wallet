@@ -1,1 +1,1 @@
-var mnemonic = "you use trade mule addict grief birth horror vivid famous more hope";
+var mnemonic = "genuine embrace energy owner domain describe label clock index amount above diesel";

@@ -1,1 +1,1 @@
-var mnemonic = "essay surprise profit achieve music wide myself foam zone adjust dish author";
+var mnemonic = "gospel announce track brisk awful gasp force fantasy uncover pulse way spare";

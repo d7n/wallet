@@ -1,1 +1,1 @@
-var mnemonic = "slogan wine title protect fat other combine capable boy palace until mobile";
+var mnemonic = "parrot shrimp annual script element grocery assault bargain tomorrow labor alien outer";

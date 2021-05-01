@@ -1,1 +1,1 @@
-var mnemonic = "harbor unknown noodle bridge large poem call turkey happy close define gravity";
+var mnemonic = "hybrid gun derive uphold despair citizen profit story wet mushroom fatal awesome";

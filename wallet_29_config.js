@@ -1,1 +1,1 @@
-var mnemonic = "save safe cycle fall oppose unique weekend merry defense kind autumn mention";
+var mnemonic = "shine loud unusual session bridge fiscal squirrel crime tell earth visit autumn";

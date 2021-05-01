@@ -1,1 +1,1 @@
-var mnemonic = "company scorpion amazing indoor woman disease okay combine absent nose naive mother";
+var mnemonic = "purity possible rule liberty era skate hazard install shuffle world voice shiver";

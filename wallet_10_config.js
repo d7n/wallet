@@ -1,1 +1,1 @@
-var mnemonic = "fringe volcano below kiss hurdle notice swamp there valley version ghost keen";
+var mnemonic = "tennis phone initial chunk oyster visa biology dune gloom law refuse output";

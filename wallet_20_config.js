@@ -1,1 +1,1 @@
-var mnemonic = "swing future equal bracket sweet hill knee assist vessel sausage fortune knife";
+var mnemonic = "dirt over tuna olympic fiscal brush differ neglect exact grid fire loyal";

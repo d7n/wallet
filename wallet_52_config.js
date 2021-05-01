@@ -1,1 +1,1 @@
-var mnemonic = "essence lobster glance elegant wisdom island clutch yard frog gap guitar consider";
+var mnemonic = "trial rug wash infant penalty oak mother domain later peasant lumber quarter";

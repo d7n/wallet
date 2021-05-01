@@ -1,1 +1,1 @@
-var mnemonic = "hero feature alcohol enable erase hope budget beauty glad artwork lazy jungle";
+var mnemonic = "caught tonight load blade drill patrol chest ceiling east enjoy jungle cabin";

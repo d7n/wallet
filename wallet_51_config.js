@@ -1,1 +1,1 @@
-var mnemonic = "gold imitate fade fossil invite chief snack collect dignity core shine series";
+var mnemonic = "equip drift stand supply online error aunt utility task peasant uphold sick";

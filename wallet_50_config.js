@@ -1,1 +1,1 @@
-var mnemonic = "submit drill broom youth anxiety leisure name walnut toilet thing shuffle tired";
+var mnemonic = "shell economy put second gravity congress phone crush bright govern layer truck";

@@ -1,1 +1,1 @@
-var mnemonic = "spider physical length tooth loyal nest artwork border write arrest puppy audit";
+var mnemonic = "puppy file pulse identify island era magnet subway van that rate pattern";

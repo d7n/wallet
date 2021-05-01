@@ -1,1 +1,1 @@
-var mnemonic = "ketchup task humor slab topple infant pen unusual fever submit near excuse";
+var mnemonic = "sniff scale shell absorb maze icon stamp satisfy movie bleak actor fitness";

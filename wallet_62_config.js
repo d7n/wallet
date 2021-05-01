@@ -1,1 +1,1 @@
-var mnemonic = "island shoe reason rifle exact enroll wife any traffic hip expand affair";
+var mnemonic = "curtain expand furnace apple bulb adjust carbon elder square fury clarify file";

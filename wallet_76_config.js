@@ -1,1 +1,1 @@
-var mnemonic = "cousin lounge position punch suspect average seven illegal know pony march ready";
+var mnemonic = "ramp addict casual kick swap spy news romance awake arrive denial prevent";

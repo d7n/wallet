@@ -1,1 +1,1 @@
-var mnemonic = "this stuff check fluid badge voyage carpet panda paddle spirit ill play";
+var mnemonic = "carbon earth bonus firm recipe scene song banana waste help gadget drop";

@@ -1,1 +1,1 @@
-var mnemonic = "bullet answer noodle exhaust west alarm hockey swim wait also sister crush";
+var mnemonic = "rotate click prize fish hazard tenant mechanic riot festival fancy cigar render";

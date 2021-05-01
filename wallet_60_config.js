@@ -1,1 +1,1 @@
-var mnemonic = "direct infant electric grass mosquito cannon unknown kick noodle sunset army hour";
+var mnemonic = "scale move rain three record hotel minimum happy seven banner spread script";

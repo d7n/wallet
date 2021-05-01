@@ -1,1 +1,1 @@
-var mnemonic = "text trouble educate stick yard upper you lawsuit almost path guilt foam";
+var mnemonic = "miracle size amused acquire feature scare useful icon empower wrist fury favorite";

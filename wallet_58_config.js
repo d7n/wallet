@@ -1,1 +1,1 @@
-var mnemonic = "spare buffalo gaze glide list lift toast police fly run chaos absorb";
+var mnemonic = "arrange mobile turkey gospel program fiction fitness educate visa dawn trip fresh";

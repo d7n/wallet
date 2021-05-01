@@ -1,1 +1,1 @@
-var mnemonic = "limb flag sweet trick immense cabin away day media net flavor sword";
+var mnemonic = "quarter pudding cage spin stool squirrel certain chase pill trap scare wire";

@@ -1,1 +1,1 @@
-var mnemonic = "novel twice diary crater plunge shove taste check sniff upon good deliver";
+var mnemonic = "march draft route come grain attract festival hover exact canvas shadow collect";

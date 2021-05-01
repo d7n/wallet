@@ -1,1 +1,1 @@
-var mnemonic = "chef purpose exit sad unhappy gold shell sausage idea excuse crane cry";
+var mnemonic = "vocal favorite address audit awesome amazing novel dream solve huge moral october";

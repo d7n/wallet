@@ -1,1 +1,1 @@
-var mnemonic = "wall dog boy purchase disagree slide produce vicious one survey umbrella oppose";
+var mnemonic = "crawl cabin hollow minor fashion bounce dutch divide spatial ridge skirt weird";
