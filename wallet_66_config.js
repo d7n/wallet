@@ -1,1 +1,1 @@
-var mnemonic = "august capable trial normal manage era hawk impulse trumpet flash pill wasp";
+var mnemonic = "differ olive various razor text guide bottom control great odor resource joke";

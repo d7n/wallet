@@ -1,1 +1,1 @@
-var mnemonic = "hard drive neck because loud famous clock soldier purpose monster abstract method";
+var mnemonic = "ride crouch situate jacket unhappy fatal gossip today balance genius neither bench";

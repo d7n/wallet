@@ -1,1 +1,1 @@
-var mnemonic = "oven load visual spread try grocery tongue session animal lounge morning helmet";
+var mnemonic = "august maple pattern like village very supply ask thing fold fringe kit";

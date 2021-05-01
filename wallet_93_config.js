@@ -1,1 +1,1 @@
-var mnemonic = "sentence cat grid dish night resist purse mechanic tired inch argue trumpet";
+var mnemonic = "flush surface depart smart layer woman reveal perfect first rice mouse climb";

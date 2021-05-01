@@ -1,1 +1,1 @@
-var mnemonic = "junior wool treat dynamic shift blush resource curious govern forum deny nation";
+var mnemonic = "session photo jewel unusual caution novel start tooth author awful peasant mother";

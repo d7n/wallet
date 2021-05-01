@@ -1,1 +1,1 @@
-var mnemonic = "frequent reveal super horse cross grape test fitness remember female define wasp";
+var mnemonic = "myself okay melt hollow naive mirror paddle city lava tenant lonely trophy";

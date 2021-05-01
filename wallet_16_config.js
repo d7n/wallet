@@ -1,1 +1,1 @@
-var mnemonic = "enemy blood cloth into cradle whip version that lake rain best output";
+var mnemonic = "lemon when secret pen shine govern fatal speed deny together wink october";

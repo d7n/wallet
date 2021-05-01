@@ -1,1 +1,1 @@
-var mnemonic = "quality moral hobby loyal inhale grit soft mansion limit magnet fiscal pattern";
+var mnemonic = "sail skill broccoli wrong cliff captain senior record chaos celery fox base";

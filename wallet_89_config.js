@@ -1,1 +1,1 @@
-var mnemonic = "frown index rent airport steak limit winner salute sick lazy all sugar";
+var mnemonic = "kitchen various hungry main joy better seat thank engine mushroom solution hockey";

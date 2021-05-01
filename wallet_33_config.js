@@ -1,1 +1,1 @@
-var mnemonic = "help boy save student dolphin cousin curve pipe retire depart object disorder";
+var mnemonic = "final wet exhaust steel choose cool obey unusual only aim snow lizard";

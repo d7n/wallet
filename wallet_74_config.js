@@ -1,1 +1,1 @@
-var mnemonic = "penalty stadium wheat limb review involve cheap target sister melt rent turn";
+var mnemonic = "habit curious visit position timber item siren ancient chunk toy couple funny";

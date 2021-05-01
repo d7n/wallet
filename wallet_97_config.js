@@ -1,1 +1,1 @@
-var mnemonic = "clip october second corn together muffin jungle cabbage army tray jewel boy";
+var mnemonic = "surge because cruise vessel sleep unit organ output voyage history stem fever";

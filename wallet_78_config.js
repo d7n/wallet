@@ -1,1 +1,1 @@
-var mnemonic = "bulk riot all this vacuum moon garment country emerge total divide pet";
+var mnemonic = "reopen lonely timber cattle million grain simple december output between history attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "order uncle renew tent stick belt bean sing sea speak cream heart";
+var mnemonic = "thunder kitchen hand van decrease deliver carpet level special soon loud whip";

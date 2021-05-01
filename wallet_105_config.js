@@ -1,1 +1,1 @@
-var mnemonic = "holiday proof inhale dust fuel magnet educate neither north seek recycle state";
+var mnemonic = "cruel actual happy empty december kid math cover edge uncover pear head";

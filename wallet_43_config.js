@@ -1,1 +1,1 @@
-var mnemonic = "chair luggage affair invest shift vault plug bicycle horn birth text tattoo";
+var mnemonic = "jeans jungle welcome avoid market prefer country gap donate girl venture spot";

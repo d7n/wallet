@@ -1,1 +1,1 @@
-var mnemonic = "topic labor vivid saddle gorilla minute flight session excess math teach spare";
+var mnemonic = "member horror radio gain deliver frown absent weasel kiwi material client brass";

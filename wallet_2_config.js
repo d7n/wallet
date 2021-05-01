@@ -1,1 +1,1 @@
-var mnemonic = "game drive romance goat diamond display damp thrive wave rich system mechanic";
+var mnemonic = "erosion combine utility service laundry brief park pill language essay glance bless";

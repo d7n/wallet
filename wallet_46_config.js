@@ -1,1 +1,1 @@
-var mnemonic = "omit pottery zone lab world snow say solve pause strategy public possible";
+var mnemonic = "butter salt vintage magic biology cloud nominee firm since magnet army dentist";

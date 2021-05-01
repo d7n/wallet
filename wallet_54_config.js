@@ -1,1 +1,1 @@
-var mnemonic = "laundry sock fiction cactus unlock country sphere morning olive coach bitter deliver";
+var mnemonic = "group wolf middle unable sheriff ignore castle found garment mesh assist decade";

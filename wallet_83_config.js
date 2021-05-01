@@ -1,1 +1,1 @@
-var mnemonic = "tide dune like blossom budget parade antique lecture arrow clerk eight industry";
+var mnemonic = "later unfold balcony deliver misery uphold recipe rough copy grid hurry oval";

@@ -1,1 +1,1 @@
-var mnemonic = "sea duck quarter stuff embrace siege word decrease federal guess dignity limit";
+var mnemonic = "urban welcome manual possible visual regret vintage dune industry nephew gospel again";

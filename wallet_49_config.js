@@ -1,1 +1,1 @@
-var mnemonic = "fold drink example chest strategy judge spare stereo that arrive ring mammal";
+var mnemonic = "portion only siege unveil tackle quarter chimney elbow rate game report whisper";

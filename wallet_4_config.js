@@ -1,1 +1,1 @@
-var mnemonic = "divorce palm trophy grab hold seat bulb royal obey tilt era bridge";
+var mnemonic = "lake oppose suggest idle six hat seat draft beauty spawn water another";

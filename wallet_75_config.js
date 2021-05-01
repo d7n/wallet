@@ -1,1 +1,1 @@
-var mnemonic = "planet reunion dad talk despair immense enlist skin job foster wild trick";
+var mnemonic = "frozen sting involve consider story girl scissors spawn potato napkin health ethics";

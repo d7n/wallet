@@ -1,1 +1,1 @@
-var mnemonic = "bus expose desk quality amount again feed security dizzy fade else purse";
+var mnemonic = "vendor spider opinion mass barrel spell finger coach offer breeze genuine hero";

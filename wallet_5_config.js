@@ -1,1 +1,1 @@
-var mnemonic = "tooth alien school fit south scare document tennis six dune reform stable";
+var mnemonic = "simple day duty state hidden shadow area era media envelope space develop";

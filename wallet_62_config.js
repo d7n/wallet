@@ -1,1 +1,1 @@
-var mnemonic = "fluid current liar annual pilot useful family mansion thought series gain arena";
+var mnemonic = "river marble winter pizza dune direct three siren fabric twist excite merry";

@@ -1,1 +1,1 @@
-var mnemonic = "proof holiday machine rail fatal bone suit nature tilt tape few stable";
+var mnemonic = "door risk convince pupil coast mobile grit misery amount oblige twist gaze";

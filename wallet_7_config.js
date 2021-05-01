@@ -1,1 +1,1 @@
-var mnemonic = "model type taxi involve end behind tiny legal dust merge silk fetch";
+var mnemonic = "movie drill casino explain thing ugly universe basket chalk around wise demise";

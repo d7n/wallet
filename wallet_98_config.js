@@ -1,1 +1,1 @@
-var mnemonic = "game bring resemble mother catalog reject spin cruel safe add sing vicious";
+var mnemonic = "nasty fruit labor yellow caution owner neglect motor fine topple crunch escape";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch edit fringe tattoo rifle anchor deposit cry blue donate decide cricket";
+var mnemonic = "kitten utility april blush bunker negative sponsor crash pen deposit april stairs";

@@ -1,1 +1,1 @@
-var mnemonic = "genuine pig horn lesson trophy garment wisdom skate unit gown enhance tribe";
+var mnemonic = "secret custom tomato limit raven wealth wing exhaust goose error early wagon";

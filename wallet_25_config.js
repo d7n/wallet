@@ -1,1 +1,1 @@
-var mnemonic = "cricket blade elegant arrive demand cat enable swarm duck fun arrive awesome";
+var mnemonic = "render media nasty diary chest lamp meadow cement twenty edit nasty income";

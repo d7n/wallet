@@ -1,1 +1,1 @@
-var mnemonic = "card nerve mass pyramid ridge rate abuse smoke push pilot stuff apart";
+var mnemonic = "urge border manage bone brass trial key slab plunge error into begin";

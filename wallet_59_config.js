@@ -1,1 +1,1 @@
-var mnemonic = "cube series bunker battle keep cruel wage trade frown blur great attitude";
+var mnemonic = "mad october tribe alpha carpet squirrel crisp leave negative stamp floor famous";

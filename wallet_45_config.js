@@ -1,1 +1,1 @@
-var mnemonic = "mom universe claim ranch innocent fiscal insect rude fiction spring hair pretty";
+var mnemonic = "picnic aim cash inject joke napkin stone morning robot rather depend federal";

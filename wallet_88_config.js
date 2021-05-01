@@ -1,1 +1,1 @@
-var mnemonic = "photo kangaroo aisle duck visit arch gossip advice title expand apart tiger";
+var mnemonic = "fly sentence custom various state very vibrant lunar ride bottom month reunion";

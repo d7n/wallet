@@ -1,1 +1,1 @@
-var mnemonic = "box skill cheap ability bulk soda scout crouch soon discover science common";
+var mnemonic = "rocket lava cup bread trust vault visual nominee demand drama police short";

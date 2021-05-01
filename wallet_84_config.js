@@ -1,1 +1,1 @@
-var mnemonic = "saddle shove child smooth cry sadness gaze expand ship coil reduce toss";
+var mnemonic = "try issue soup velvet cash west buddy hidden butter legal develop render";

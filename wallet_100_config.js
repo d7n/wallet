@@ -1,1 +1,1 @@
-var mnemonic = "man acoustic trim march target bird estate rather chase adjust detect assault";
+var mnemonic = "until actual ankle left worry friend maze peanut beyond album marine media";

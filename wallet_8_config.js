@@ -1,1 +1,1 @@
-var mnemonic = "regret tuition fish delay legend like mind before produce sword floor force";
+var mnemonic = "rigid dad used second situate hat only cliff hedgehog exercise olympic doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter age depend plunge tomato draft taste latin accuse ghost daughter cute";
+var mnemonic = "loyal oven person check journey detect use symbol output umbrella claim save";

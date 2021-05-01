@@ -1,1 +1,1 @@
-var mnemonic = "icon cherry shift apart picnic humble chalk birth shine royal call hurdle";
+var mnemonic = "crew decline dizzy supreme seat female amateur fruit trip child veteran want";

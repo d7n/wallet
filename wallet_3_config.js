@@ -1,1 +1,1 @@
-var mnemonic = "patient index voice burger brass road chalk horror become actual hamster dish";
+var mnemonic = "ceiling twelve busy issue page copy believe crush expose solve raise kangaroo";

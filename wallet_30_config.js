@@ -1,1 +1,1 @@
-var mnemonic = "pyramid unit eye tribe bread warm knock turn decrease desert taste spoil";
+var mnemonic = "pepper prize broccoli produce cable tongue ability cargo hybrid toe latin coyote";

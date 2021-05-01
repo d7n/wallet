@@ -1,1 +1,1 @@
-var mnemonic = "kitten cushion total tomorrow arrest slush brave kingdom you spirit slim pepper";
+var mnemonic = "promote gown biology mention black bird just crane gift stand rent plate";

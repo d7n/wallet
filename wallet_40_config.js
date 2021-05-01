@@ -1,1 +1,1 @@
-var mnemonic = "credit decide insect about average cause clump aspect inch short flavor pink";
+var mnemonic = "demise sentence enter divert whale pistol room alley symbol asset staff barrel";

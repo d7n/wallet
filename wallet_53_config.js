@@ -1,1 +1,1 @@
-var mnemonic = "alter copper banner divide razor equal main shell regular sample family path";
+var mnemonic = "ocean bamboo sail task wonder drop wisdom know scrap unfold badge clean";

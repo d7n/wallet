@@ -1,1 +1,1 @@
-var mnemonic = "blood attract spirit health link olive carry recall knife earth core tip";
+var mnemonic = "remove shell where sausage know romance weather sweet advance master man bean";

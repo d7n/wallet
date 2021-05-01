@@ -1,1 +1,1 @@
-var mnemonic = "bone twice image alcohol warm cotton slow hello upon disease must exercise";
+var mnemonic = "resist now fragile old message wedding goat rural gospel demise wealth bench";

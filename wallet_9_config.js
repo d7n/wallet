@@ -1,1 +1,1 @@
-var mnemonic = "sport similar network avocado frog shrug rude robot dog embrace region depend";
+var mnemonic = "shrimp brass ugly dinner key estate resource endorse goddess either odor despair";

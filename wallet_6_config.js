@@ -1,1 +1,1 @@
-var mnemonic = "tiny check autumn crucial maple orange south drama result crater unit street";
+var mnemonic = "mind share judge dice bubble duty traffic beauty gesture include develop hunt";

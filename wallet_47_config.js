@@ -1,1 +1,1 @@
-var mnemonic = "pigeon develop claw rhythm review knee organ reduce provide above behind banana";
+var mnemonic = "train snack soup sea disagree fox act item ozone olive depend latin";

@@ -1,1 +1,1 @@
-var mnemonic = "uniform little bless trade thrive junk ankle island depend pig bulb pulp";
+var mnemonic = "gown boring sponsor hero multiply humor palace sing child arm canoe bacon";

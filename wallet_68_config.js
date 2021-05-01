@@ -1,1 +1,1 @@
-var mnemonic = "core race delay teach brother myth blood tank day shop despair blood";
+var mnemonic = "process prosper promote lunar address panther thunder caught divert tail legend skull";

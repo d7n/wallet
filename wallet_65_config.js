@@ -1,1 +1,1 @@
-var mnemonic = "casino craft include siren search eagle idea derive invest army image dynamic";
+var mnemonic = "rude ginger flash another bunker frost cousin deer key stay wasp unable";

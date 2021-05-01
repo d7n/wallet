@@ -1,1 +1,1 @@
-var mnemonic = "rhythm diet rigid fat harvest auto awake midnight beach side area language";
+var mnemonic = "cash plunge thumb dizzy shoot joy outdoor summer easy country amateur drip";

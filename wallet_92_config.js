@@ -1,1 +1,1 @@
-var mnemonic = "stomach bonus loan tumble ridge essay isolate book balcony agent tragic blouse";
+var mnemonic = "glass across invite vicious palace muffin try race mistake warfare mask tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth hen divide detail art blind sing share begin brush reduce hub";
+var mnemonic = "asthma dice record dune shoe camp field future blast woman online lend";

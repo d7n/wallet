@@ -1,1 +1,1 @@
-var mnemonic = "pioneer patch emotion era reveal wrist canyon asset stove adapt rural update";
+var mnemonic = "cost ridge still trumpet affair hospital parrot stamp version eager sort load";

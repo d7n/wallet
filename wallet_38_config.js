@@ -1,1 +1,1 @@
-var mnemonic = "pool glory borrow basic choose tunnel shrimp demise laptop diesel humor man";
+var mnemonic = "remind million ahead bamboo uniform wedding fiber turn short copper canvas imitate";

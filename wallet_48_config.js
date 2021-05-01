@@ -1,1 +1,1 @@
-var mnemonic = "version catalog clown custom clip amateur prepare small orphan bacon bundle sister";
+var mnemonic = "attract combine salon umbrella tool movie scheme common enact topple proof noodle";

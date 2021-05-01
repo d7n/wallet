@@ -1,1 +1,1 @@
-var mnemonic = "public achieve twice hair illegal chase square solution mechanic badge dismiss lyrics";
+var mnemonic = "canal index analyst cruel dilemma lion worth bulb squeeze outside word nice";

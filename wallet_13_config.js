@@ -1,1 +1,1 @@
-var mnemonic = "choose agree unhappy round tobacco blame saddle ship fall swap question mimic";
+var mnemonic = "normal tattoo execute craft federal sorry match unhappy broken real pass fit";

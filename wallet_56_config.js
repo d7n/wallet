@@ -1,1 +1,1 @@
-var mnemonic = "wise cousin umbrella hand emotion room cargo roast unable sorry autumn supreme";
+var mnemonic = "beyond donkey tourist motor wheel alpha banner tortoise smoke sport unhappy joke";

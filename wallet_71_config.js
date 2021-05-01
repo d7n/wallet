@@ -1,1 +1,1 @@
-var mnemonic = "melody abuse verify finger glue scatter bounce weird drum train mask fruit";
+var mnemonic = "aspect try piano limit family body shadow order range cushion student review";

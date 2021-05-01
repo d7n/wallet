@@ -1,1 +1,1 @@
-var mnemonic = "alert parrot castle vocal minute comic rug very hand token misery casino";
+var mnemonic = "what skirt pave slim park february distance onion vanish ivory mutual pulse";

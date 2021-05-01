@@ -1,1 +1,1 @@
-var mnemonic = "captain camp pioneer gift recall obvious slight flavor spray risk float bleak";
+var mnemonic = "dilemma woman buzz laptop vicious text dial allow purpose reunion budget select";

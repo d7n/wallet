@@ -1,1 +1,1 @@
-var mnemonic = "spider alpha diamond rib depend base more october edit effort ritual party";
+var mnemonic = "drastic borrow reflect assist round fold spring ugly erupt gesture clerk company";

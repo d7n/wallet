@@ -1,1 +1,1 @@
-var mnemonic = "laptop pitch hammer skill float rent outer aim waste matter edit junior";
+var mnemonic = "major pole index wait love rural change scan bronze puzzle inspire slim";

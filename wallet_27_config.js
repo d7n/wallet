@@ -1,1 +1,1 @@
-var mnemonic = "trend tip marriage good faculty merry sense season crime castle toilet model";
+var mnemonic = "leader easy iron kingdom sting silly torch steak never humble program bamboo";

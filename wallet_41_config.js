@@ -1,1 +1,1 @@
-var mnemonic = "tackle liberty cute guilt boil come earn coyote traffic mesh drum liquid";
+var mnemonic = "wealth taxi auto demise citizen ahead arena desert office initial truck slot";

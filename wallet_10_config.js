@@ -1,1 +1,1 @@
-var mnemonic = "identify inherit novel verify fuel fee nature mass near office dial evil";
+var mnemonic = "suit couple color shock mosquito toward already wrap click fix bind pool";

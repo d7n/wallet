@@ -1,1 +1,1 @@
-var mnemonic = "expand stable ankle elite reduce wagon toward step similar road brave produce";
+var mnemonic = "mule dune health acoustic forest luxury can glory slush town potato myth";

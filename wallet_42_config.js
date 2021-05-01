@@ -1,1 +1,1 @@
-var mnemonic = "minor acid appear ball cool easily seek chief inspire direct relax sibling";
+var mnemonic = "wage bless spatial slow thing travel minor hollow raw pilot hold brand";

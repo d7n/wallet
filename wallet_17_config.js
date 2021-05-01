@@ -1,1 +1,1 @@
-var mnemonic = "disorder narrow sketch envelope awkward fresh corn cook solar company tip ball";
+var mnemonic = "body rude refuse earth sock dry era sentence grid express vague lumber";

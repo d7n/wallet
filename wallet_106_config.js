@@ -1,1 +1,1 @@
-var mnemonic = "pen clip canal promote enjoy regular fish buffalo unusual soft tumble verify";
+var mnemonic = "rural swarm cause daring survey panther apart order direct post subway cloth";

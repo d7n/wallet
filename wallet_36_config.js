@@ -1,1 +1,1 @@
-var mnemonic = "hold crew have corn taxi offer lyrics train refuse use vanish orchard";
+var mnemonic = "flip baby category whip merge flash pioneer weather hospital blood olympic trip";

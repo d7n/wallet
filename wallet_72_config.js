@@ -1,1 +1,1 @@
-var mnemonic = "left gospel math twin welcome panel orange left attitude total frown collect";
+var mnemonic = "minute kingdom vanish write sick lion cheese apology pulse start sign brain";

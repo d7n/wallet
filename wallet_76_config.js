@@ -1,1 +1,1 @@
-var mnemonic = "drama harvest bamboo exist mistake castle cluster cargo visual goat fossil dolphin";
+var mnemonic = "gown dignity gossip sure sniff clog that please damage citizen battle choice";

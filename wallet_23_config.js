@@ -1,1 +1,1 @@
-var mnemonic = "lemon cram please sort fluid girl smoke jealous frown arm crash awful";
+var mnemonic = "grit north sniff tobacco black cage course mansion easy witness scene robust";

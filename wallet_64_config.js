@@ -1,1 +1,1 @@
-var mnemonic = "chalk vocal sphere rely toss shell blanket divide usage wear close zebra";
+var mnemonic = "theme phrase brush wait alter blind total company double else globe slim";

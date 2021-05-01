@@ -1,1 +1,1 @@
-var mnemonic = "sheriff coffee prize forward assist dwarf toss urge swallow piece vivid zebra";
+var mnemonic = "increase gold duck message myth leisure lumber donor age record crack document";

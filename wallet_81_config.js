@@ -1,1 +1,1 @@
-var mnemonic = "doctor attend sword street expect behind birth struggle glance total pact razor";
+var mnemonic = "soup search belt prevent fiscal matter exile bubble mouse mixture human decade";

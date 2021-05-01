@@ -1,1 +1,1 @@
-var mnemonic = "blind message budget source ticket kiss tilt super marriage just bitter govern";
+var mnemonic = "stuff orbit impose member occur goose rain scheme mimic nature horse tenant";

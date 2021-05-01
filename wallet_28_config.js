@@ -1,1 +1,1 @@
-var mnemonic = "mammal pull panther addict casino april pencil kiwi sing cost night crazy";
+var mnemonic = "sentence tumble defy six build rely prevent hole snow addict radio target";

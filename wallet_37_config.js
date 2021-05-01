@@ -1,1 +1,1 @@
-var mnemonic = "truly pull average leave vehicle turtle innocent cream custom envelope need gesture";
+var mnemonic = "call blanket motor elevator surge heavy plastic special giggle knee grief divert";

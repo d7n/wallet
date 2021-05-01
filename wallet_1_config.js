@@ -1,1 +1,1 @@
-var mnemonic = "borrow chunk salad congress awful asset prevent trick region home grunt hold";
+var mnemonic = "churn time little modify left reopen stage penalty area palm salad heart";
