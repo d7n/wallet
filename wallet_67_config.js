@@ -1,1 +1,1 @@
-var mnemonic = "survey please hammer birth enact already edit display grape supreme maple lumber";
+var mnemonic = "nuclear elevator team physical parrot entry print ketchup project tuition ball affair";

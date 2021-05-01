@@ -1,1 +1,1 @@
-var mnemonic = "ensure state amused fog wolf clean sword all hockey swift next banana";
+var mnemonic = "cross vicious health junior immense journey vicious evidence process uncle spring annual";

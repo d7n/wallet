@@ -1,1 +1,1 @@
-var mnemonic = "help slow tiger motion escape scale salt stay ritual upper job salute";
+var mnemonic = "cost setup skirt host cost scheme drive minor salmon razor enact middle";

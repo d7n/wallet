@@ -1,1 +1,1 @@
-var mnemonic = "floor chunk team dice entry north organ slogan bitter man animal say";
+var mnemonic = "endorse car access normal miss present upon fever host glance two inspire";

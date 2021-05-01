@@ -1,1 +1,1 @@
-var mnemonic = "effort fitness story husband ecology scatter silk number cupboard belt hotel penalty";
+var mnemonic = "brand chunk awake bachelor myself lady size blue meat today border large";

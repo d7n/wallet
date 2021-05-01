@@ -1,1 +1,1 @@
-var mnemonic = "yellow cross wet boost bread alter receive float hair south soccer valley";
+var mnemonic = "universe letter consider jelly replace palace chase song company primary street hat";

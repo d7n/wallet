@@ -1,1 +1,1 @@
-var mnemonic = "guilt pottery weird glove motion camera left awesome ranch wish jazz useless";
+var mnemonic = "clever admit ahead table boring upon weekend phrase sword evolve begin offer";

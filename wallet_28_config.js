@@ -1,1 +1,1 @@
-var mnemonic = "dolphin stand van problem awake target gadget gossip mobile response ghost joke";
+var mnemonic = "valley lamp type slogan wagon erase rely wire expose find exhaust giant";

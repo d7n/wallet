@@ -1,1 +1,1 @@
-var mnemonic = "achieve salute hire enemy year dirt polar firm race describe tail chief";
+var mnemonic = "pencil enjoy castle truly save horror lend switch girl quiz party neither";

@@ -1,1 +1,1 @@
-var mnemonic = "pigeon knife elder eagle glare fit board rifle issue extra mansion foster";
+var mnemonic = "camera invite puzzle undo surface clerk galaxy upgrade square design cancel eternal";

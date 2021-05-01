@@ -1,1 +1,1 @@
-var mnemonic = "bubble desert lumber flag left adult blur shadow thing empower entire swim";
+var mnemonic = "eyebrow text loan average estate kite animal ahead shallow movie soap quiz";

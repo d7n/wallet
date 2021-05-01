@@ -1,1 +1,1 @@
-var mnemonic = "describe logic blur canyon vehicle syrup ivory dwarf art depth effort assume";
+var mnemonic = "cousin current blood jungle jar delay dust dune symptom fabric tunnel own";

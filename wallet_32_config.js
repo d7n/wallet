@@ -1,1 +1,1 @@
-var mnemonic = "giggle cotton enact aspect song fruit goat capital pitch pitch arch elbow";
+var mnemonic = "cave inject entry purse entire resemble reform grief music canvas predict trap";

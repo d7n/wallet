@@ -1,1 +1,1 @@
-var mnemonic = "panic repeat asthma impose glory tiger civil coin pair various tag refuse";
+var mnemonic = "surprise crack lonely sun book shoot impact mule tenant swing deer sphere";

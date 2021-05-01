@@ -1,1 +1,1 @@
-var mnemonic = "hen finish cube series torch faculty before credit veteran elephant critic morning";
+var mnemonic = "fall acid snap wagon night empty gravity shy venture chicken zero balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "axis junior shaft enact child push basket critic erode program asset mutual";
+var mnemonic = "occur tide broccoli lend follow lesson muffin chunk choice goat crop green";

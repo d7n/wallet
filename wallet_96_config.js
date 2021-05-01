@@ -1,1 +1,1 @@
-var mnemonic = "climb strong expose people age scout clutch praise solid foam still exercise";
+var mnemonic = "night fuel winter welcome street coast retreat grocery cable maple jungle rebel";

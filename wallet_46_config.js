@@ -1,1 +1,1 @@
-var mnemonic = "hero armor wild believe spot screen merry uncle indicate medal liquid tennis";
+var mnemonic = "nasty render hole rate safe raccoon slogan episode repair flush work convince";

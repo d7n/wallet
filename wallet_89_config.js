@@ -1,1 +1,1 @@
-var mnemonic = "surge note anxiety cheese plunge above side pill price youth solid exercise";
+var mnemonic = "leisure wheat online chronic concert unveil shallow frozen radar gospel excite insect";

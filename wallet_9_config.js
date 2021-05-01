@@ -1,1 +1,1 @@
-var mnemonic = "robust shell produce scrap butter lonely delay elephant street manage monitor note";
+var mnemonic = "bacon cement someone chunk prison project ski cage hundred local alter army";

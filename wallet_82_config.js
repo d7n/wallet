@@ -1,1 +1,1 @@
-var mnemonic = "deposit axis anchor rotate balcony follow because fluid very draft drastic weekend";
+var mnemonic = "adapt cannon meadow school silent butter front accuse convince blade cabin staff";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit ability peasant when wedding avoid perfect twice buzz river ranch doctor";
+var mnemonic = "search found bless bright unlock domain tomorrow tuna tomorrow ozone glad utility";

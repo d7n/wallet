@@ -1,1 +1,1 @@
-var mnemonic = "mistake alley fiber border waste match pig music critic hat dove inherit";
+var mnemonic = "genius seek pudding clock save acid inhale eager person embody joy shed";

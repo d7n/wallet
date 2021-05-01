@@ -1,1 +1,1 @@
-var mnemonic = "blush soft grace jungle faculty rhythm clap jazz heart shift grape tuna";
+var mnemonic = "pelican elephant gather vehicle source sketch enough rigid unhappy pottery harbor toast";

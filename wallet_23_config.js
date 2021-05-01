@@ -1,1 +1,1 @@
-var mnemonic = "tortoise behind detail spatial able gossip know gallery category weekend decline claw";
+var mnemonic = "pond wood about dilemma glue length capital stock wrestle erase type spring";

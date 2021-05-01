@@ -1,1 +1,1 @@
-var mnemonic = "scheme comic pupil typical giraffe title copper radio member unusual idle liberty";
+var mnemonic = "smoke cave trap aunt pull divert trend scorpion quick wear wealth amused";

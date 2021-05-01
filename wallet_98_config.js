@@ -1,1 +1,1 @@
-var mnemonic = "cotton place apology blue come budget orient barrel birth question shaft top";
+var mnemonic = "shadow allow kitten legend cereal alone cool donkey weather pledge brick boy";

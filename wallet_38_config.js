@@ -1,1 +1,1 @@
-var mnemonic = "sight unit kitten leg today talent seek glance one town sister fossil";
+var mnemonic = "phrase bird input flat sick liquid myself coffee fork eight club melt";

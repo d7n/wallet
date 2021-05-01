@@ -1,1 +1,1 @@
-var mnemonic = "lyrics sleep review inquiry accident stone together pupil bird insane horse assault";
+var mnemonic = "large estate melt bus fatigue smoke clever tank artefact tackle gown slogan";

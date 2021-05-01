@@ -1,1 +1,1 @@
-var mnemonic = "virus left snow miracle sniff dad scatter leave tilt follow earth toilet";
+var mnemonic = "sun swift mistake adult prevent base sun stumble risk gadget glue lawsuit";

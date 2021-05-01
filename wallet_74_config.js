@@ -1,1 +1,1 @@
-var mnemonic = "episode monkey accuse valve force crucial ordinary reunion hat entry include derive";
+var mnemonic = "soul latin chaos space pluck hybrid drop fiscal simple fatal used medal";

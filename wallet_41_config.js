@@ -1,1 +1,1 @@
-var mnemonic = "join reward pumpkin limit maple bus coil drastic staff alert vicious february";
+var mnemonic = "human search scare install share alert zoo close bicycle icon luxury mule";

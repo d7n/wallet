@@ -1,1 +1,1 @@
-var mnemonic = "survey affair theory away ensure rigid tunnel film mobile credit census lawn";
+var mnemonic = "believe flock agree kitchen visa cotton bullet peasant expose balcony miracle spot";

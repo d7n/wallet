@@ -1,1 +1,1 @@
-var mnemonic = "flag coffee exhaust fortune million night harsh leader flower found rabbit clock";
+var mnemonic = "gas rebel vote canvas verb doctor story dirt window embody best visit";

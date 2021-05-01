@@ -1,1 +1,1 @@
-var mnemonic = "butter lecture bench ensure cave wait tribe spice alter holiday vessel olympic";
+var mnemonic = "salmon trend drop surprise ridge story humor fee rebuild used acquire salad";

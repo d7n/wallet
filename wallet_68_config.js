@@ -1,1 +1,1 @@
-var mnemonic = "symbol burden accuse thumb flag happy barely skull ten wonder defy various";
+var mnemonic = "patrol rhythm shy relief clog run potato half lumber clay remind soccer";

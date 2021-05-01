@@ -1,1 +1,1 @@
-var mnemonic = "must champion wet general door shuffle tomorrow danger food call receive stereo";
+var mnemonic = "ring dust ripple plate mobile husband scare harsh ancient science water fall";

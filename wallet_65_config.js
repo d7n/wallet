@@ -1,1 +1,1 @@
-var mnemonic = "recipe pole bench magic skirt task shift trophy shrimp pass cloud ugly";
+var mnemonic = "potato tired skin window state regret royal weather decrease life eternal trash";

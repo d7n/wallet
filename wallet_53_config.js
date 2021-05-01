@@ -1,1 +1,1 @@
-var mnemonic = "lab bounce solid regret grief want lecture soup mirror intact custom arrest";
+var mnemonic = "chat matter unable zoo rule night license ugly police huge monster detail";

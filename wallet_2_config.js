@@ -1,1 +1,1 @@
-var mnemonic = "cube dinner skill smart health will busy today throw void series science";
+var mnemonic = "shell hello scheme drink exotic hair swim able charge sadness dad ozone";

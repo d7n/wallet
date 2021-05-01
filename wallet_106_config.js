@@ -1,1 +1,1 @@
-var mnemonic = "state defense ice parade bamboo beef stick venture sense carpet render rigid";
+var mnemonic = "nominee waste define royal salute brown vicious parrot universe woman slow gasp";

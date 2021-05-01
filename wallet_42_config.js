@@ -1,1 +1,1 @@
-var mnemonic = "brown happy buzz arrange much era penalty lobster oblige belt inmate smoke";
+var mnemonic = "vacuum unveil future buffalo horror board alarm swallow derive toss wage misery";

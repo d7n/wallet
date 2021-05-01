@@ -1,1 +1,1 @@
-var mnemonic = "donate curve during return furnace suffer song smile economy profit wasp current";
+var mnemonic = "tree sheriff hint ball world force human member comfort rose wall come";

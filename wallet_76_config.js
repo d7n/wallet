@@ -1,1 +1,1 @@
-var mnemonic = "profit venue okay school fee decline man length hold grit trade code";
+var mnemonic = "wave siege large horror sell turn fossil limb wheat behave afford laptop";

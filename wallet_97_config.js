@@ -1,1 +1,1 @@
-var mnemonic = "young organ upset cry slab before island novel domain orphan turn essence";
+var mnemonic = "umbrella melt uncle awake cave note shrimp flee gym woman resemble endless";

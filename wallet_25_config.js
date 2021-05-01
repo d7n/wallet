@@ -1,1 +1,1 @@
-var mnemonic = "abandon cradle blue wrist expand blade clog angle label master range pig";
+var mnemonic = "patch fee siren true print carbon suit orient galaxy vacant office limb";

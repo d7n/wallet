@@ -1,1 +1,1 @@
-var mnemonic = "cricket program focus supply float meat soon thing thrive eternal media seed";
+var mnemonic = "tonight bitter olive follow save critic siren arrive soap become section accident";

@@ -1,1 +1,1 @@
-var mnemonic = "weather slam decrease gate sibling charge slab claw moon major length possible";
+var mnemonic = "father size tube tissue card wedding truly leisure ability horn fog patch";

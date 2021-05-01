@@ -1,1 +1,1 @@
-var mnemonic = "autumn caution whip elder region answer quit enemy sell spell canoe coral";
+var mnemonic = "hunt toe forest maximum wear agree shuffle piece yellow humor winner another";

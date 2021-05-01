@@ -1,1 +1,1 @@
-var mnemonic = "poet focus shoulder merge round purchase record dash silver shuffle frost vocal";
+var mnemonic = "sunny airport quote easily pyramid small leaf dolphin shove flush bring input";

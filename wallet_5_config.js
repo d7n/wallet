@@ -1,1 +1,1 @@
-var mnemonic = "denial material assist plunge sentence indoor pilot roof orbit grab chaos wire";
+var mnemonic = "same bus slab amateur suggest office symptom define surround answer load situate";

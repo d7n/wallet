@@ -1,1 +1,1 @@
-var mnemonic = "favorite trophy shy typical conduct huge afraid dry supply tiny injury mystery";
+var mnemonic = "raccoon evil hat basket begin attack jealous organ coin recycle west category";

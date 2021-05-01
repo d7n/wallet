@@ -1,1 +1,1 @@
-var mnemonic = "rely light way local uphold coach parade lyrics surface answer agree unfair";
+var mnemonic = "dish youth moon section flight episode art hen slab culture sick swear";

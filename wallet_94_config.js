@@ -1,1 +1,1 @@
-var mnemonic = "labor acquire current debris whip dragon sound firm divide find system desk";
+var mnemonic = "luxury derive snake truck hawk alone asset squeeze grass tooth humor employ";

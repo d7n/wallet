@@ -1,1 +1,1 @@
-var mnemonic = "window fame seek collect window alter shaft space rifle middle exact nerve";
+var mnemonic = "upset security curve enforce dose before luggage visual silent worry salute cat";

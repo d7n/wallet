@@ -1,1 +1,1 @@
-var mnemonic = "police still kiwi top various approve idea sure crumble swear anchor female";
+var mnemonic = "assist blame plate dawn cereal west section enjoy festival nuclear sure minimum";

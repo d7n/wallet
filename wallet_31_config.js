@@ -1,1 +1,1 @@
-var mnemonic = "snap melt hair make spice oppose panther opinion cruise humor exchange brave";
+var mnemonic = "oval evolve travel stamp clarify tool oil crop typical loop display acid";

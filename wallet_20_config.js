@@ -1,1 +1,1 @@
-var mnemonic = "forget spoon route need wonder give term cactus woman game kidney rabbit";
+var mnemonic = "arena alarm space ensure firm wheat inject curve cake prevent style repair";

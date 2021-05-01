@@ -1,1 +1,1 @@
-var mnemonic = "pretty uncover rubber truth super add finger educate flight plate film orbit";
+var mnemonic = "pizza alley record winter invite immense east dragon diet satoshi garment load";

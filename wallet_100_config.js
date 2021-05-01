@@ -1,1 +1,1 @@
-var mnemonic = "culture echo guitar inner actor liquid ugly upset gift bitter drastic youth";
+var mnemonic = "lazy fabric useless barely marine drip want idea family shrimp course host";

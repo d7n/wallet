@@ -1,1 +1,1 @@
-var mnemonic = "square genre salt surprise mixed among carpet tool insect bargain brave opera";
+var mnemonic = "mandate nose element just caution slim position festival field floor excite enact";

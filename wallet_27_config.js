@@ -1,1 +1,1 @@
-var mnemonic = "airport ten juice utility grocery boost state milk exchange luggage control include";
+var mnemonic = "cover behave until fossil crazy tonight hour water plug injury notice captain";

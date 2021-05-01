@@ -1,1 +1,1 @@
-var mnemonic = "oppose dignity piano empower exit refuse word middle staff pelican shift spy";
+var mnemonic = "inner any bridge cruise stomach position spawn road plug urban moment glass";

@@ -1,1 +1,1 @@
-var mnemonic = "middle lyrics arctic expect omit wait injury limit mean genius fury broccoli";
+var mnemonic = "stuff crawl pioneer thrive want approve jacket antenna warfare venue owner proud";

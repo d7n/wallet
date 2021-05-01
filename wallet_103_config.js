@@ -1,1 +1,1 @@
-var mnemonic = "display reunion quit joke battle truly wide suspect finish neck diesel aunt";
+var mnemonic = "average lizard alone heavy book cream love wrap donkey doctor level meat";

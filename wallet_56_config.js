@@ -1,1 +1,1 @@
-var mnemonic = "weasel wagon soap lock group wing unlock spatial fee decide expose hawk";
+var mnemonic = "punch excuse mosquito dog appear thing increase raise infant solve matter friend";

@@ -1,1 +1,1 @@
-var mnemonic = "session lonely reflect click quarter hand borrow sound pulp fuel pear spoon";
+var mnemonic = "bike smart better ski gym inner feed before shuffle rough general auction";

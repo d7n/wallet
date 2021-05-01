@@ -1,1 +1,1 @@
-var mnemonic = "happy caught candy left roof push gorilla strategy reopen battle false inhale";
+var mnemonic = "coach possible cable vast unveil hen century industry ring hobby grain jazz";

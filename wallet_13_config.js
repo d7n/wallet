@@ -1,1 +1,1 @@
-var mnemonic = "crazy festival joke dose solution bottom legend pause wide country nose magnet";
+var mnemonic = "chuckle still era truth soul limb crazy sad robust clever erode charge";

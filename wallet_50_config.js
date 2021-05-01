@@ -1,1 +1,1 @@
-var mnemonic = "trade narrow fame unique trick empower reopen tooth vanish ski million rocket";
+var mnemonic = "cabbage extra female matrix impose labor saddle year dry say relax amount";

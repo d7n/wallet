@@ -1,1 +1,1 @@
-var mnemonic = "grief middle open stadium nice ankle illness face seven metal cycle beyond";
+var mnemonic = "certain melt uncle drill visit heavy trumpet pipe strategy garbage loyal nuclear";

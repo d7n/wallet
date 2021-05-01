@@ -1,1 +1,1 @@
-var mnemonic = "inform marriage unaware teach solve unfair knee siren ugly sport tuition risk";
+var mnemonic = "lunar craft pluck work grit black yellow brain south mix submit pigeon";

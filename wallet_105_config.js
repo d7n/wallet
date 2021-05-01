@@ -1,1 +1,1 @@
-var mnemonic = "sock joy warrior squeeze beyond advice gossip hello duty what soon motor";
+var mnemonic = "position resist bean stadium tray chief secret fee choice era piece axis";

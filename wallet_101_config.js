@@ -1,1 +1,1 @@
-var mnemonic = "mean fetch stove jump huge artefact puzzle denial decide anger below method";
+var mnemonic = "decade round item hope text plug level behind oppose attend tobacco urban";

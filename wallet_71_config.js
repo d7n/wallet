@@ -1,1 +1,1 @@
-var mnemonic = "chapter antenna priority shield wink swim history device cream model dinosaur rib";
+var mnemonic = "online park trumpet group reason awesome oblige thought cube trend like fan";

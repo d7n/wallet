@@ -1,1 +1,1 @@
-var mnemonic = "wine eyebrow mosquito seat express tent fiction announce series pear teach hotel";
+var mnemonic = "deer win hotel adapt dilemma eager drama inject symptom team sniff load";

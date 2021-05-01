@@ -1,1 +1,1 @@
-var mnemonic = "cushion soldier trumpet love law else liquid fringe foster baby rate reform";
+var mnemonic = "few clerk catalog whale settle pave easy fuel barrel ahead heart drift";

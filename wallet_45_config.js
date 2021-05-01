@@ -1,1 +1,1 @@
-var mnemonic = "advance clown burden desert labor face seminar traffic index album jungle future";
+var mnemonic = "nice diet heart loud pause oxygen smooth despair thrive myth physical ready";

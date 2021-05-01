@@ -1,1 +1,1 @@
-var mnemonic = "food void impact spider motion skate game odor digital lava all clock";
+var mnemonic = "cry more visual reduce garlic innocent unhappy hundred cram horror chapter ball";

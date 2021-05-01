@@ -1,1 +1,1 @@
-var mnemonic = "update acoustic diesel liquid stick pumpkin wisdom robot couch chest gossip park";
+var mnemonic = "ocean bunker element neck excuse faint garden sick cradle expose gossip brown";

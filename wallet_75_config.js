@@ -1,1 +1,1 @@
-var mnemonic = "survey casino trophy recycle opera finish shock crime various ignore game verb";
+var mnemonic = "mistake wolf bonus castle tone cabin equal bomb eight pride craft one";

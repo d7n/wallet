@@ -1,1 +1,1 @@
-var mnemonic = "stick worth wealth ribbon water scrap dog donor alley cheese make flame";
+var mnemonic = "mind coil plug mechanic gun jacket bag april spin health engage offer";

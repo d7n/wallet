@@ -1,1 +1,1 @@
-var mnemonic = "try claw delay often eagle shed helmet palace custom infant season buffalo";
+var mnemonic = "rose path call taste chapter half fitness true morning lazy slam frame";

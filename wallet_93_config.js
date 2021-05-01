@@ -1,1 +1,1 @@
-var mnemonic = "depend sentence track town fresh rescue taxi female biology deny lion biology";
+var mnemonic = "cage style equip student shine umbrella dance lion celery leisure now predict";

@@ -1,1 +1,1 @@
-var mnemonic = "motion van pet example legend grace monster curious scorpion shoe pattern moral";
+var mnemonic = "road hover enhance grain aim pink trouble carry afford acoustic side shuffle";
