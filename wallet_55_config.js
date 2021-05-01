@@ -1,1 +1,1 @@
-var mnemonic = "grunt social obtain yard slim chuckle few canal knife holiday razor cliff";
+var mnemonic = "parrot educate dinosaur subway zone then cross adapt exit coin wrap despair";

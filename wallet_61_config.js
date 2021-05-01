@@ -1,1 +1,1 @@
-var mnemonic = "decide cage memory brass abandon sphere install pledge fee hand shoe ladder";
+var mnemonic = "stick rude work action flame garbage reflect vicious season seed puppy lizard";

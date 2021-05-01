@@ -1,1 +1,1 @@
-var mnemonic = "buzz hobby enhance appear tent property crater october museum ahead donkey plastic";
+var mnemonic = "tag put crash survey empty asset raven pill defy rebel rate coil";

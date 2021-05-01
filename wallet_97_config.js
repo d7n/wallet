@@ -1,1 +1,1 @@
-var mnemonic = "gossip coin settle inside swim demand flower bid slice suspect slogan tower";
+var mnemonic = "banner broken message used owner inspire twist inform general wreck table flash";

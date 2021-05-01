@@ -1,1 +1,1 @@
-var mnemonic = "mixture actress crack thunder kiss leisure beauty brisk small tape web cabin";
+var mnemonic = "lumber castle design dove physical trick dignity program predict clog chef empower";

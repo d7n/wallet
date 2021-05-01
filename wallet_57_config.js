@@ -1,1 +1,1 @@
-var mnemonic = "impulse basket tip program slight kiwi slot title power this father entry";
+var mnemonic = "path tourist vendor estate ozone wide estate picnic dumb diamond lawsuit witness";

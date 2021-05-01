@@ -1,1 +1,1 @@
-var mnemonic = "velvet security boil sentence entry before express fat powder three abstract kitten";
+var mnemonic = "dumb wave confirm garment actor during degree name seat uncover razor border";

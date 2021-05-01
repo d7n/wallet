@@ -1,1 +1,1 @@
-var mnemonic = "vanish response salt kick unique husband crouch manage vast ceiling approve rose";
+var mnemonic = "bubble rail nest armor mom produce sport vague inflict ten camera guitar";

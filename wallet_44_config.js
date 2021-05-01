@@ -1,1 +1,1 @@
-var mnemonic = "sleep betray daughter obtain faith tonight hawk volcano bulb then design expand";
+var mnemonic = "surround lonely retreat sheriff shadow history sniff neglect rabbit off fancy market";

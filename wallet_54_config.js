@@ -1,1 +1,1 @@
-var mnemonic = "style fresh note enroll spray outside liquid tragic kitchen mom solve flight";
+var mnemonic = "fiber define ticket sniff tumble notice excite mercy lemon core hockey jungle";

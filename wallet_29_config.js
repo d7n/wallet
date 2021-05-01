@@ -1,1 +1,1 @@
-var mnemonic = "glove advance engage farm eternal expire wedding bronze meadow find wool pelican";
+var mnemonic = "miracle culture crunch drop flavor lazy soon spirit moral snake rebuild swallow";

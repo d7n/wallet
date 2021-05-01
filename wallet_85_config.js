@@ -1,1 +1,1 @@
-var mnemonic = "success saddle hip balance auction more warfare trial cinnamon fatigue regular mention";
+var mnemonic = "typical echo always round industry music slogan bid paddle catalog helmet crouch";

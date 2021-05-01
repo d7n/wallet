@@ -1,1 +1,1 @@
-var mnemonic = "echo tuna siege broken nut category appear cage magic size now develop";
+var mnemonic = "enjoy fee chuckle dilemma wrestle mechanic borrow dash media item fence large";

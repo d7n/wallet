@@ -1,1 +1,1 @@
-var mnemonic = "seed demise ecology month marriage before mule subject meat level such camera";
+var mnemonic = "movie wrist evil lab feature vehicle liberty dwarf earn quick above brown";

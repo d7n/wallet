@@ -1,1 +1,1 @@
-var mnemonic = "ivory fox erode slide slogan tunnel close situate sugar cotton target price";
+var mnemonic = "permit good pair catalog waste protect gadget drink frozen resemble athlete page";

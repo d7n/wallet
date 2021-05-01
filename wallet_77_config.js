@@ -1,1 +1,1 @@
-var mnemonic = "universe perfect diet ill bronze kit cereal account point donor clinic snow";
+var mnemonic = "weather awful moral denial parrot tilt water pumpkin lecture slim dumb credit";

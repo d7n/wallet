@@ -1,1 +1,1 @@
-var mnemonic = "nature pencil shiver sail burst cabbage shallow over crane safe album bus";
+var mnemonic = "fantasy recipe laugh silk bread figure tenant author bacon timber trip symptom";

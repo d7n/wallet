@@ -1,1 +1,1 @@
-var mnemonic = "egg ladder today flame phrase viable deny donor multiply abstract actor erosion";
+var mnemonic = "improve wealth lucky enable kind total wrestle fee daring vote shop conduct";

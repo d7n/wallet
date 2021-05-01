@@ -1,1 +1,1 @@
-var mnemonic = "blue matter next paddle armor alert vague talent that airport brief awesome";
+var mnemonic = "hour book onion bulk feel aerobic casino believe wear unit expect ring";

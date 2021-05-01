@@ -1,1 +1,1 @@
-var mnemonic = "symptom parent oak knock surprise penalty flag legend same cliff ten tank";
+var mnemonic = "expire cabin grid okay ski have marble rally soup thank awake sail";

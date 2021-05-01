@@ -1,1 +1,1 @@
-var mnemonic = "palm need suit dream movie agree enact head curious wet truth repeat";
+var mnemonic = "accuse lyrics apple victory sick camera advice spare manage sad foam notable";

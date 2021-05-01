@@ -1,1 +1,1 @@
-var mnemonic = "behave proud magnet chapter achieve emerge harsh govern minor sing record time";
+var mnemonic = "mandate assault wish essay rent stuff arena penalty occur train cram tired";

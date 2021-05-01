@@ -1,1 +1,1 @@
-var mnemonic = "artist lamp collect town side catch brain knife transfer around remain strategy";
+var mnemonic = "vendor actress trip reform language setup muffin airport pause wreck nest judge";

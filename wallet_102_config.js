@@ -1,1 +1,1 @@
-var mnemonic = "sleep cage shiver genuine fun finish client during among nerve prepare nut";
+var mnemonic = "film almost midnight sunny text solar jungle patch try void supply tragic";

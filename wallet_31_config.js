@@ -1,1 +1,1 @@
-var mnemonic = "turtle leopard vintage chalk pill any tail visa remind wheel stumble danger";
+var mnemonic = "board elegant clap owner cricket open interest oven cute clog retreat rebuild";

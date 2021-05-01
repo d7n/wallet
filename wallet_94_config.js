@@ -1,1 +1,1 @@
-var mnemonic = "mirror choose emerge buffalo enemy buddy arch coconut history citizen glad mix";
+var mnemonic = "wash name section nasty crunch figure despair fever between escape diesel vivid";

@@ -1,1 +1,1 @@
-var mnemonic = "space stomach distance enroll equal middle visual major draw deer come cotton";
+var mnemonic = "solution olympic split eagle approve blame soda round stock elite wrestle visual";

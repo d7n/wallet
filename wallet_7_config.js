@@ -1,1 +1,1 @@
-var mnemonic = "rack suffer vacant panda useful pretty actress cook diesel love horror tell";
+var mnemonic = "pulp quiz hood marine odor visa response north hospital foot arctic fork";

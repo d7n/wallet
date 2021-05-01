@@ -1,1 +1,1 @@
-var mnemonic = "vessel coil cheese kick eager raccoon warfare deal planet supreme season century";
+var mnemonic = "visit above winter sponsor match depart decorate salon coil trip disease zebra";

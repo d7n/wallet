@@ -1,1 +1,1 @@
-var mnemonic = "resource leader foil want dish jazz train phrase shove garage garden turn";
+var mnemonic = "shy three congress floor biology text gain swamp collect name follow wall";

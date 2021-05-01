@@ -1,1 +1,1 @@
-var mnemonic = "odor dog acid remain attack armor equal spare shell hundred junk bar";
+var mnemonic = "stereo height rare neutral volume want pause gun turkey void ordinary pencil";

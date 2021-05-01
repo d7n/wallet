@@ -1,1 +1,1 @@
-var mnemonic = "glue duty swim range melt know use join civil object impose snap";
+var mnemonic = "public odor spend keep tree sound relief zoo frame absurd remain speed";

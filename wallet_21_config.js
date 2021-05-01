@@ -1,1 +1,1 @@
-var mnemonic = "green cricket rally gas dinner dad stand wheel zero attract valve index";
+var mnemonic = "secret world valley flash lunch goddess much wonder penalty main culture salute";

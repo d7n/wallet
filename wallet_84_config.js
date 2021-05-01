@@ -1,1 +1,1 @@
-var mnemonic = "borrow legend chapter eye pass draft kit donor gas glad sunset syrup";
+var mnemonic = "giggle electric later cross twin fitness kite drift manage vibrant craft excuse";

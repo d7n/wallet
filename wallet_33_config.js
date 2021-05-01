@@ -1,1 +1,1 @@
-var mnemonic = "ahead defy early merit still promote section lecture hurt human project conduct";
+var mnemonic = "exotic slide lizard expire luggage dose essay blood stay wasp midnight lock";

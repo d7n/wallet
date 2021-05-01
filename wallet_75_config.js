@@ -1,1 +1,1 @@
-var mnemonic = "tip produce post bench parent siege coil truly detect either oyster short";
+var mnemonic = "answer clog slide distance funny sugar mixed lend loud unveil kitchen vast";

@@ -1,1 +1,1 @@
-var mnemonic = "happy input tattoo month fat remember own luxury possible frog provide kitten";
+var mnemonic = "sponsor pepper turn dutch vast switch midnight empower bench virtual warrior enforce";

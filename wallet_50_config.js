@@ -1,1 +1,1 @@
-var mnemonic = "lamp whip world sick erosion cup skill sorry indoor update dress duck";
+var mnemonic = "fat recipe forest vivid catalog develop slab real immune rebuild video forum";

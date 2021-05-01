@@ -1,1 +1,1 @@
-var mnemonic = "hub sugar amateur piano fiction boring change digital vault vessel paddle guess";
+var mnemonic = "skirt foil pledge naive blame illegal matrix proof razor raw grunt donate";

@@ -1,1 +1,1 @@
-var mnemonic = "issue food depart elder pole heart ridge pause hungry forest defense vicious";
+var mnemonic = "object force arrow page shy soup embody shy gravity shiver web fun";

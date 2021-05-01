@@ -1,1 +1,1 @@
-var mnemonic = "token apple erosion negative upgrade speak comfort shadow naive matrix fiber misery";
+var mnemonic = "year february flush embark crane knee fabric hunt phrase raven august exchange";

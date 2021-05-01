@@ -1,1 +1,1 @@
-var mnemonic = "fee common cute dust lift hidden husband neutral tonight term tongue lawsuit";
+var mnemonic = "loud response scare tool obtain style world bulb vault inform patient shrimp";

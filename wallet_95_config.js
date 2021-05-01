@@ -1,1 +1,1 @@
-var mnemonic = "fortune remember dwarf bright tonight small switch element cruise diamond state scheme";
+var mnemonic = "debate soldier verb laugh vital music crucial save kit volcano syrup ball";

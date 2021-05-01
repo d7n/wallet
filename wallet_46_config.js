@@ -1,1 +1,1 @@
-var mnemonic = "slot finish fat category velvet empty extend cross age swim category arrive";
+var mnemonic = "crash desk cereal satisfy spring off taste knee erosion shrug vocal early";

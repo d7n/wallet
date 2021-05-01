@@ -1,1 +1,1 @@
-var mnemonic = "width day tired taxi sunny cargo bitter easily useful cost degree virtual";
+var mnemonic = "sure daughter oppose senior weapon street mushroom eight barrel aerobic tool draw";

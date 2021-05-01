@@ -1,1 +1,1 @@
-var mnemonic = "merit resource behave price panic correct ride zoo click father rapid east";
+var mnemonic = "access know large eager hazard parent diary opera wasp soldier between bus";

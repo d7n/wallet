@@ -1,1 +1,1 @@
-var mnemonic = "ahead high put whisper hint tuna typical visa promote trend armor cool";
+var mnemonic = "slot jeans unaware today bulb sugar ill similar explain such bulb oyster";

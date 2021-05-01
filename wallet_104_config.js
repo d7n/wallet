@@ -1,1 +1,1 @@
-var mnemonic = "sadness parade welcome rare equip race bargain reject clog mad margin ice";
+var mnemonic = "gun social ostrich auction injury property festival better seat grant trial waste";

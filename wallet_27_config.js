@@ -1,1 +1,1 @@
-var mnemonic = "hammer drama tail ability park before lemon unusual core quit husband wrist";
+var mnemonic = "extra fitness sock donate picture sun tell slender wood wrestle dawn hunt";

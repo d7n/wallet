@@ -1,1 +1,1 @@
-var mnemonic = "define address armed shift pioneer best team portion tissue kid stage dumb";
+var mnemonic = "box run ill kiss margin trial dose grab sadness tower kitchen whisper";

@@ -1,1 +1,1 @@
-var mnemonic = "kitchen issue couple era else once polar board ethics round ask radar";
+var mnemonic = "drastic suggest attract august shrug cousin brush awesome ridge seek lunar treat";

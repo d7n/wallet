@@ -1,1 +1,1 @@
-var mnemonic = "pass hobby term cannon answer sing mistake error furnace warrior depth clutch";
+var mnemonic = "fringe angry raccoon hedgehog muscle whisper youth treat tell enemy maze outdoor";

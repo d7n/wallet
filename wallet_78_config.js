@@ -1,1 +1,1 @@
-var mnemonic = "dolphin town miss cool dove method trick often isolate ginger material worry";
+var mnemonic = "cute purse awkward album draw reject ask vacuum chicken syrup extend myself";

@@ -1,1 +1,1 @@
-var mnemonic = "large churn fence success normal dune hello divorce parade account employ price";
+var mnemonic = "bless aisle clutch canvas degree habit wagon caught cage trend system traffic";

@@ -1,1 +1,1 @@
-var mnemonic = "inside glad toss such mask width crunch board winter spawn argue play";
+var mnemonic = "erosion nephew garbage already purity journey seat lava tone control love defense";

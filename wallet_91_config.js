@@ -1,1 +1,1 @@
-var mnemonic = "soup captain banana usual spike clinic birth mad puzzle segment vast furnace";
+var mnemonic = "peace ten arm fragile crew canal slush cement flush belt deer text";

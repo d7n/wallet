@@ -1,1 +1,1 @@
-var mnemonic = "silly track forward tilt swing north wish journey crumble inch debris crumble";
+var mnemonic = "cash whisper alarm avoid all wet hair minute matter dash venue weather";

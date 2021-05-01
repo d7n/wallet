@@ -1,1 +1,1 @@
-var mnemonic = "alert stadium venture copy short obey fetch awake village unhappy page mistake";
+var mnemonic = "blade near thought jelly bag garment stool stay explain cigar pigeon weekend";

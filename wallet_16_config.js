@@ -1,1 +1,1 @@
-var mnemonic = "donkey vast normal swamp spider scorpion artist august foster good try volume";
+var mnemonic = "laugh latin couch novel hammer myth actress apart unit barely meat purpose";

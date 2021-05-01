@@ -1,1 +1,1 @@
-var mnemonic = "remember secret lock prize scheme chest antique obscure leader fringe bronze famous";
+var mnemonic = "grunt curve hint raccoon decrease muffin extend river flavor limb long suggest";

@@ -1,1 +1,1 @@
-var mnemonic = "taste quiz problem payment crater head sunset nut change toilet shift pelican";
+var mnemonic = "shallow document mix switch hammer sorry south travel saddle bulb drip hotel";

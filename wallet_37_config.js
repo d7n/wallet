@@ -1,1 +1,1 @@
-var mnemonic = "laugh fragile crater resource item useful narrow disagree stumble matrix royal jelly";
+var mnemonic = "usual mean sad omit coin wild rely minor warfare amateur script remind";

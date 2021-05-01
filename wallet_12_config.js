@@ -1,1 +1,1 @@
-var mnemonic = "rough banana boil short ill deposit gossip reason unhappy jazz salon lazy";
+var mnemonic = "water treat comic earth avocado perfect couple mean shed day feature secret";

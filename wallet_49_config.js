@@ -1,1 +1,1 @@
-var mnemonic = "mimic plunge jacket shallow permit bean purity bone steel exact vibrant wrong";
+var mnemonic = "fatal gold bus vacant patrol under strong help dilemma dish virtual price";

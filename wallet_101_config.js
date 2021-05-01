@@ -1,1 +1,1 @@
-var mnemonic = "erase inner kick double joke angry busy region fever can bag then";
+var mnemonic = "solution merge globe letter indoor harsh area rose craft foam hazard host";

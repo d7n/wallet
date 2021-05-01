@@ -1,1 +1,1 @@
-var mnemonic = "chicken long comic bounce main boil bread vivid cheese impulse property mix";
+var mnemonic = "jar burger fitness hat potato velvet pumpkin jar supply decline barely rotate";

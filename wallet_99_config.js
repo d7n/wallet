@@ -1,1 +1,1 @@
-var mnemonic = "scrub hair fiscal erosion ski bundle fork chest raven satisfy fish member";
+var mnemonic = "lounge awake machine fluid code wrestle erode web wealth false pen public";

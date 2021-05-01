@@ -1,1 +1,1 @@
-var mnemonic = "solution edge wave combine bargain build announce there wolf erosion dice carbon";
+var mnemonic = "sad hole around library alone weather place view current polar busy cube";

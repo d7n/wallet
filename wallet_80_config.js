@@ -1,1 +1,1 @@
-var mnemonic = "equip audit pig level borrow shoulder diesel author nothing damp knife memory";
+var mnemonic = "weekend hedgehog field tongue quit level quiz emerge addict tide clutch purity";

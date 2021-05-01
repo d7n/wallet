@@ -1,1 +1,1 @@
-var mnemonic = "force drip midnight giraffe give shed way art ball away enrich early";
+var mnemonic = "cactus place develop decide ceiling bracket answer noodle must tortoise female path";

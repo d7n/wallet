@@ -1,1 +1,1 @@
-var mnemonic = "rescue march barely soon dawn hole crawl silent silver april resource motion";
+var mnemonic = "wish canyon cigar forget mesh eager main grunt tumble army divide occur";

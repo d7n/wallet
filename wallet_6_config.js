@@ -1,1 +1,1 @@
-var mnemonic = "current size clay rich celery grape boring assume pyramid budget wall chronic";
+var mnemonic = "organ fantasy final moon egg size tone way crouch lock palm eager";

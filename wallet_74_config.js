@@ -1,1 +1,1 @@
-var mnemonic = "melt high dry ill shield divert shy indicate increase learn leave tape";
+var mnemonic = "jelly enlist loyal stool post cute cinnamon term case daughter reject village";

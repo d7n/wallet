@@ -1,1 +1,1 @@
-var mnemonic = "basket crater derive cup thank insane future crater ecology feed chat alien";
+var mnemonic = "magnet detail artwork hurt where awkward garden carbon choice increase giant olympic";

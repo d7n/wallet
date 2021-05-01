@@ -1,1 +1,1 @@
-var mnemonic = "remember olympic snack fatal harsh zebra vehicle garage sword borrow inhale view";
+var mnemonic = "work gravity notable stamp sick balance curtain cream monkey trash live pear";

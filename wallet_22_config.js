@@ -1,1 +1,1 @@
-var mnemonic = "amazing scare turn will bag life wood scrap popular ivory screen document";
+var mnemonic = "various wash electric impose chalk album venue walk focus lottery clip swap";

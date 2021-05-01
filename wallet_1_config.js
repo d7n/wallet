@@ -1,1 +1,1 @@
-var mnemonic = "lounge ride popular super message filter moon volume patient kite search mesh";
+var mnemonic = "pink surface uncover imitate cliff output resemble turkey zebra decade bright buzz";

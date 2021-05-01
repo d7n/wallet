@@ -1,1 +1,1 @@
-var mnemonic = "chicken eternal accuse oven forget bag cross vintage ghost excess shallow found";
+var mnemonic = "film sail mansion economy hundred grief hollow raise leaf connect depend panic";

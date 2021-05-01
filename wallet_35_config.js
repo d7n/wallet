@@ -1,1 +1,1 @@
-var mnemonic = "math matrix drive pattern any super toddler fatigue wash frozen family unique";
+var mnemonic = "virtual sample desk vintage boss kiss regular course flat busy endless envelope";

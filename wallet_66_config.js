@@ -1,1 +1,1 @@
-var mnemonic = "scare guitar twin minimum deer fine defy barely faint salon fiber cradle";
+var mnemonic = "act dutch fox text pilot elite wall health asset nothing whip appear";

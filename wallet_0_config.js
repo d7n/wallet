@@ -1,1 +1,1 @@
-var mnemonic = "crush taxi satisfy truth club quarter interest license fatal collect beyond floor";
+var mnemonic = "shuffle jealous reject lecture boss amused swing capital crater vapor option between";

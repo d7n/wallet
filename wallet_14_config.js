@@ -1,1 +1,1 @@
-var mnemonic = "social design object plug give kiss peanut oven middle scheme apart talk";
+var mnemonic = "scene vapor biology knife loan flash rate charge rich neutral december dragon";

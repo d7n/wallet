@@ -1,1 +1,1 @@
-var mnemonic = "volume pave fluid art photo gather pistol marriage cry suspect favorite lift";
+var mnemonic = "powder ridge wrist tornado black turn census neutral silver identify clever camera";

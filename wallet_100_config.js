@@ -1,1 +1,1 @@
-var mnemonic = "fiction bright confirm brand soft clutch unfair chair vibrant history ritual menu";
+var mnemonic = "rare viable design erupt drum chalk husband mixture unusual scan genius bulb";

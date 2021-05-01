@@ -1,1 +1,1 @@
-var mnemonic = "abandon path abandon define chuckle require axis candy renew gather twist inform";
+var mnemonic = "erosion candy hurt tomorrow rug purse seminar dawn pool before riot pink";

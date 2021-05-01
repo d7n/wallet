@@ -1,1 +1,1 @@
-var mnemonic = "maid humor hawk peanut cat gasp online february wolf chronic honey pass";
+var mnemonic = "chapter material subway rule ankle assume ring grant fat drink occur sock";

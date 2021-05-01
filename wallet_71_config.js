@@ -1,1 +1,1 @@
-var mnemonic = "cash stick screen inmate reopen earn solid rescue holiday embrace frown bacon";
+var mnemonic = "problem exist taste decrease spend damp text danger pizza abuse insect mechanic";

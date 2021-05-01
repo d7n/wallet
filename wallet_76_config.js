@@ -1,1 +1,1 @@
-var mnemonic = "abuse often much loud scare solid pass rent atom fire sell cabbage";
+var mnemonic = "absent valley garage shed day used toddler term six office nice talent";

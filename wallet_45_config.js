@@ -1,1 +1,1 @@
-var mnemonic = "unfair stamp pupil canal rose century shrimp bamboo wrong busy punch slush";
+var mnemonic = "system lawn various pottery reopen regular blouse sausage double cargo truth exclude";

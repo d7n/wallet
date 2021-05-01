@@ -1,1 +1,1 @@
-var mnemonic = "tourist chapter there dust dune mom paper crucial kit scissors health feature";
+var mnemonic = "scare tennis illegal erase elevator tree disagree robot argue thumb city capable";

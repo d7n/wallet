@@ -1,1 +1,1 @@
-var mnemonic = "blossom peace sun lend curious morning vault blade crane rich extend make";
+var mnemonic = "diamond cousin across arrange coconut decorate melody purse maple pistol family unique";

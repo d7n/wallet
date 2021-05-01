@@ -1,1 +1,1 @@
-var mnemonic = "float paddle shine soap garlic spider recipe wisdom laugh sting hundred silk";
+var mnemonic = "hire under clump consider athlete stool ready wolf between cover horn mammal";

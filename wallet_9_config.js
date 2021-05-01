@@ -1,1 +1,1 @@
-var mnemonic = "either barrel child lumber pair category wedding maximum roast choose chair wage";
+var mnemonic = "umbrella tunnel shoot snake forward digital trial round piano leopard sea sport";

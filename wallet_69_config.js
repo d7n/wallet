@@ -1,1 +1,1 @@
-var mnemonic = "cushion witness sail siege learn cloth fiber pyramid worth scheme sting worry";
+var mnemonic = "file parade message stool spot riot subway alley blossom identify museum base";

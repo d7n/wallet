@@ -1,1 +1,1 @@
-var mnemonic = "good extend system soon mosquito depart twice during despair tiny piece gesture";
+var mnemonic = "common crunch frequent blush arm year street mansion enable witness chair yard";

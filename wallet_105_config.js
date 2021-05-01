@@ -1,1 +1,1 @@
-var mnemonic = "biology bottom shock dirt into kidney pyramid ship bottom lake crush option";
+var mnemonic = "chronic punch basket turtle neglect toss dignity proud cabbage young maximum home";

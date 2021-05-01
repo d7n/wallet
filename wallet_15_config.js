@@ -1,1 +1,1 @@
-var mnemonic = "budget december recall muffin romance saddle label bunker mountain cupboard hedgehog advance";
+var mnemonic = "sweet squeeze quarter veteran pilot rose absorb purpose artist scorpion guilt ancient";
