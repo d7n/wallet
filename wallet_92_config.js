@@ -1,1 +1,1 @@
-var mnemonic = "fatigue cover verb elbow link violin erupt change bean snap tragic pupil";
+var mnemonic = "subject barely love loan sleep minor describe scrub obvious casual sausage energy";

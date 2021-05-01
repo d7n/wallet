@@ -1,1 +1,1 @@
-var mnemonic = "comfort virus warfare bean eight double digital grass climb ivory cable unfair";
+var mnemonic = "comic oak supply copper pen cheap brief wage force palace afford desert";

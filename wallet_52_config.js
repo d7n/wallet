@@ -1,1 +1,1 @@
-var mnemonic = "switch puzzle powder room spatial thrive eye sustain exile lucky market income";
+var mnemonic = "room access mind prefer soup cake zone goose bring curtain denial clarify";

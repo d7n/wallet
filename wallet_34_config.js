@@ -1,1 +1,1 @@
-var mnemonic = "venue produce still comic diesel drama success deny market glove project tuna";
+var mnemonic = "adjust trigger olive pizza false wasp narrow cook dutch all usual wonder";

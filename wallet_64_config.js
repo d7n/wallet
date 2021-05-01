@@ -1,1 +1,1 @@
-var mnemonic = "rough drum giant double calm ball hurt insect steel begin practice wedding";
+var mnemonic = "achieve afford thank when innocent success genius sleep spin blossom forest federal";

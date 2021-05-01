@@ -1,1 +1,1 @@
-var mnemonic = "wire hungry diamond olive expire chalk such focus canal carry coach police";
+var mnemonic = "rely code bring tunnel calm creek excite defense potato clever speed private";

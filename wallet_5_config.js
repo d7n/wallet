@@ -1,1 +1,1 @@
-var mnemonic = "horn oyster settle advance deliver cabin van degree bike eternal update genre";
+var mnemonic = "tube picture reform caution pink fever exile edit liberty decline verify infant";

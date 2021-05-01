@@ -1,1 +1,1 @@
-var mnemonic = "patrol obvious company sudden excess cruise cool sniff argue steel deer group";
+var mnemonic = "argue federal run sniff range false renew winner pluck please liberty reflect";

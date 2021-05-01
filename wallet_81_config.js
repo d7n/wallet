@@ -1,1 +1,1 @@
-var mnemonic = "innocent bracket crew move female duty west green chronic remind short tower";
+var mnemonic = "gain behave leg spirit civil kiwi small purse craft open sphere bright";

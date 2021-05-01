@@ -1,1 +1,1 @@
-var mnemonic = "bachelor visual oven chuckle man adult off control short primary essay kidney";
+var mnemonic = "leisure cart plug nest trend crisp swarm sense onion notice position vague";

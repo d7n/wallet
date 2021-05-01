@@ -1,1 +1,1 @@
-var mnemonic = "moral later elder absurd shuffle stage system curious couch album legend require";
+var mnemonic = "flee basic upset tennis dash clever initial order blast salad fringe bleak";

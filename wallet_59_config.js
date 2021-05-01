@@ -1,1 +1,1 @@
-var mnemonic = "try inmate piano problem grass end seat fog drift train barely toy";
+var mnemonic = "hill great gym vital asthma pride impact husband outside belt offer lawsuit";

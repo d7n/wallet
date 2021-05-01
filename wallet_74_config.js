@@ -1,1 +1,1 @@
-var mnemonic = "sketch inflict taxi shoot inside shoe grunt amazing transfer green potato crazy";
+var mnemonic = "blast stem winner broccoli laundry allow tank consider spare fly sample tone";

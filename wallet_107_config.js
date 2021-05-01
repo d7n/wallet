@@ -1,1 +1,1 @@
-var mnemonic = "muscle kick shaft bottom rabbit empty ill bread effort alert hair priority";
+var mnemonic = "shed cry hospital buffalo loan boss chest boost sport suit evolve explain";

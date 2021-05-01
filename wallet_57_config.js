@@ -1,1 +1,1 @@
-var mnemonic = "key gap gossip giraffe exist popular sound pottery neutral venue mixture visit";
+var mnemonic = "humor police flush slot path maximum kiwi anchor link acquire mask practice";

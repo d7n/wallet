@@ -1,1 +1,1 @@
-var mnemonic = "mask then lake device recipe abstract jealous goat dune napkin vessel tower";
+var mnemonic = "debate parent robot picture enjoy spot sun artist adult athlete legend connect";

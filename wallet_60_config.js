@@ -1,1 +1,1 @@
-var mnemonic = "scorpion scale ecology jazz wrist blast april garment allow valley change bean";
+var mnemonic = "middle crouch kangaroo absurd curious age two visit spring evolve desk ride";

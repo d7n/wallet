@@ -1,1 +1,1 @@
-var mnemonic = "brush actor spatial brick mango job oven control nuclear slow ill hand";
+var mnemonic = "lift south anchor deliver brisk ankle crumble bless dune problem sentence giraffe";

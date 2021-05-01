@@ -1,1 +1,1 @@
-var mnemonic = "spike peasant traffic only name moon young misery tackle estate plate museum";
+var mnemonic = "myth tornado stereo file year spread drip save agree fitness close example";

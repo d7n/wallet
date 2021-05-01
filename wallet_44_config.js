@@ -1,1 +1,1 @@
-var mnemonic = "amazing state gentle solve tiger glow basic quarter assault broken seek brick";
+var mnemonic = "cook pass balance service age boy upgrade note antenna deposit mosquito cycle";

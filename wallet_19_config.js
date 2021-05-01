@@ -1,1 +1,1 @@
-var mnemonic = "hotel mesh latin gold write cage run sibling enjoy eight wheat soul";
+var mnemonic = "risk real ecology sample library theme secret together lumber unit exotic rude";

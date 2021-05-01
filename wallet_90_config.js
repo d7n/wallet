@@ -1,1 +1,1 @@
-var mnemonic = "soft pepper empty melody quality master addict call orange then lizard modify";
+var mnemonic = "angry choose century wine into torch dinner lonely all maze laptop hollow";

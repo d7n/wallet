@@ -1,1 +1,1 @@
-var mnemonic = "angle area tennis lottery polar firm maximum harsh range hold display treat";
+var mnemonic = "edit wolf tobacco scrap arrest bottom hawk modify gossip version supreme blast";

@@ -1,1 +1,1 @@
-var mnemonic = "frog morning joke alien culture recipe apology jeans captain clog property assist";
+var mnemonic = "mom cloth pride elephant ginger bonus quit culture father plunge velvet range";

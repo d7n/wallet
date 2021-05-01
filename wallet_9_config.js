@@ -1,1 +1,1 @@
-var mnemonic = "lens artefact crystal short knife business cloth tumble worth adjust urge clarify";
+var mnemonic = "excess car verify young shoulder room river helmet wait brand pledge accuse";

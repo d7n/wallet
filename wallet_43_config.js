@@ -1,1 +1,1 @@
-var mnemonic = "final frequent just tag olympic oppose deer regret spice grass abandon window";
+var mnemonic = "soup language version banana burst again cigar idle style debris valley high";

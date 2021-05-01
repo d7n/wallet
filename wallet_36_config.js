@@ -1,1 +1,1 @@
-var mnemonic = "merge combine quarter carry rare there walk alpha acoustic load inmate cabin";
+var mnemonic = "oil tobacco mountain sheriff february parade increase cart spray tank pipe sense";

@@ -1,1 +1,1 @@
-var mnemonic = "horse solid enrich collect code mammal tide club dune tackle margin stomach";
+var mnemonic = "obey giraffe friend marine hen next social hill story warfare adult pony";

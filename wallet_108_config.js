@@ -1,1 +1,1 @@
-var mnemonic = "bulb width purchase noise hospital rebuild protect control grab rotate sun cheese";
+var mnemonic = "summer ill diesel outdoor coil black figure siren water margin pyramid vote";

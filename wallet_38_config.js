@@ -1,1 +1,1 @@
-var mnemonic = "casino early fog sight boat axis enrich lava mistake awesome lesson foam";
+var mnemonic = "topic test draft fiber bar abandon similar napkin key sing correct town";

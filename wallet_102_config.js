@@ -1,1 +1,1 @@
-var mnemonic = "purchase orphan put tip biology tell typical position either stay wish zone";
+var mnemonic = "race company index copy border scorpion warfare sad safe snap scorpion plastic";

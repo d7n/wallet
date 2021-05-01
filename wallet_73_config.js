@@ -1,1 +1,1 @@
-var mnemonic = "misery inherit movie caught aspect play panther broken faculty more capable aisle";
+var mnemonic = "same balance theory husband unknown check shove check baby flash ship breeze";

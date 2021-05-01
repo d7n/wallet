@@ -1,1 +1,1 @@
-var mnemonic = "shallow unique fine banner trick hope theme height exhibit water easily issue";
+var mnemonic = "stamp bridge logic attend rib catalog seat omit mammal solution carbon notice";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran mail world kangaroo lake popular what silly find insane together slight";
+var mnemonic = "gospel eight slab transfer wrong pass mixture sea helmet coast lumber cousin";

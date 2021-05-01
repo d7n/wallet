@@ -1,1 +1,1 @@
-var mnemonic = "coffee source approve portion betray puzzle steak busy hope museum interest settle";
+var mnemonic = "fatal august life two evoke safe sketch sign ski garlic peace vote";

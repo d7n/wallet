@@ -1,1 +1,1 @@
-var mnemonic = "snap jelly parrot giant wage color artwork toy typical embrace boss enter";
+var mnemonic = "pulp abstract radio diary grant degree throw require layer gospel slot vicious";

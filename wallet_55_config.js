@@ -1,1 +1,1 @@
-var mnemonic = "believe rebel festival limit type interest crush job echo hint notable away";
+var mnemonic = "goat dash genius sauce client trash dad elder erase beach dignity inquiry";

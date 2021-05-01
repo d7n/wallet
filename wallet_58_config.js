@@ -1,1 +1,1 @@
-var mnemonic = "rather crouch giggle ginger into panther object person ranch pipe excuse road";
+var mnemonic = "fat vapor object wave keep visit couch ribbon cage you old other";

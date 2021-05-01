@@ -1,1 +1,1 @@
-var mnemonic = "video suffer shed embark toward such major wear crowd endorse foam solid";
+var mnemonic = "vault illness shuffle super best captain syrup argue exclude deposit demand banner";

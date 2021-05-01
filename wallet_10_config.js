@@ -1,1 +1,1 @@
-var mnemonic = "electric wonder reason that all aerobic hurry quality offer solution waste spare";
+var mnemonic = "hunt heavy pitch fury stamp aim alpha royal welcome find orphan oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "verb oyster vivid thunder lady jump sight such have slogan valid replace";
+var mnemonic = "thunder punch twist pudding control clarify host inspire alpha outside merit latin";

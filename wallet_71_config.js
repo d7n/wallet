@@ -1,1 +1,1 @@
-var mnemonic = "outdoor observe bridge mandate owner board scatter salmon estate human amount device";
+var mnemonic = "manage husband food devote post green section warrior crack rail exhaust mean";

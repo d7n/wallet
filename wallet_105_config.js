@@ -1,1 +1,1 @@
-var mnemonic = "grace inmate cloud weapon anchor still develop figure toilet inflict bonus pulp";
+var mnemonic = "must clump network novel faith travel brain skill define issue illness warrior";

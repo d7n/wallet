@@ -1,1 +1,1 @@
-var mnemonic = "emerge film bright season whip since legal emotion tourist air year razor";
+var mnemonic = "wreck erode black pelican core warrior flush spawn upset receive vast amazing";

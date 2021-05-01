@@ -1,1 +1,1 @@
-var mnemonic = "upgrade mystery slab success health neither bundle depth jealous catalog vibrant cover";
+var mnemonic = "ecology demand stable ghost excite donor rocket draw faith uphold gossip armed";

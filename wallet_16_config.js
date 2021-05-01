@@ -1,1 +1,1 @@
-var mnemonic = "song pink alone bronze cement myself sister clap young float step push";
+var mnemonic = "scissors name fluid alarm element carpet chef smart recipe palm mix iron";

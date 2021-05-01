@@ -1,1 +1,1 @@
-var mnemonic = "such truth mass trade citizen infant rent note volume gospel error magnet";
+var mnemonic = "asset shock unlock glove piece year suit stairs worth topic grow emerge";

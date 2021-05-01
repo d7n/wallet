@@ -1,1 +1,1 @@
-var mnemonic = "sphere visual boat cloud flag leg tattoo stock earth fall design cigar";
+var mnemonic = "relief tone hobby dutch year key mistake kitchen trick august senior initial";

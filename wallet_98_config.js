@@ -1,1 +1,1 @@
-var mnemonic = "flee treat arch pretty capable congress chalk degree pool they organ aunt";
+var mnemonic = "target spider cheap round extend cup rate cruise silver denial uniform rookie";

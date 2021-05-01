@@ -1,1 +1,1 @@
-var mnemonic = "match brand salute blanket shed warfare day close trend beach banner joke";
+var mnemonic = "rebuild stone donate sorry seed surface brisk grass exact property detail oak";

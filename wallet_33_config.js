@@ -1,1 +1,1 @@
-var mnemonic = "peace bind grow immense surround ostrich viable rely flag pupil follow announce";
+var mnemonic = "draw pear wheat science frame dog monitor enroll frog sad wedding list";

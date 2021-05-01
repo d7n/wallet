@@ -1,1 +1,1 @@
-var mnemonic = "unveil key certain gold protect soda ahead corn bullet sea wave fortune";
+var mnemonic = "visit recipe orchard neither bid outer antique conduct bachelor able settle unfold";

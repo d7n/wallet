@@ -1,1 +1,1 @@
-var mnemonic = "eight unusual arm bubble glove town please master install brief slow moral";
+var mnemonic = "manage frozen label wife cloud just garden ready wish turn feature topic";

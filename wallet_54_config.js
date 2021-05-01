@@ -1,1 +1,1 @@
-var mnemonic = "dilemma escape doctor number muscle middle ladder rack vacant economy blouse stamp";
+var mnemonic = "limit merry split pause fitness explain kit coffee damp draft subway pony";

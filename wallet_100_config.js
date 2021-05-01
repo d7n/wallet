@@ -1,1 +1,1 @@
-var mnemonic = "outer between grow scout half donkey inch machine timber poet lamp rare";
+var mnemonic = "scrub valley valve weapon call slight patient laundry absurd rotate tackle alcohol";

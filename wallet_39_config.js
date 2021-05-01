@@ -1,1 +1,1 @@
-var mnemonic = "where mutual edit aunt dynamic bitter blade subject bench search buffalo water";
+var mnemonic = "stool odor edge remember frost pride soap office select chat prefer price";

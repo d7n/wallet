@@ -1,1 +1,1 @@
-var mnemonic = "shield combine practice section solid urge forward scan access business umbrella struggle";
+var mnemonic = "cereal jungle roast father current scare exile west assault boss kitten pool";

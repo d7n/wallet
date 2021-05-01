@@ -1,1 +1,1 @@
-var mnemonic = "result language base matter aunt electric farm gadget feel novel skirt fiscal";
+var mnemonic = "jar vanish leaf nothing chapter anchor salute market secret pencil impulse coach";

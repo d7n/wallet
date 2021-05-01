@@ -1,1 +1,1 @@
-var mnemonic = "crash rigid giggle exotic slide solid fire receive spray poverty gesture glass";
+var mnemonic = "current list satisfy enjoy human record nice orbit arrive evolve deny pledge";

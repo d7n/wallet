@@ -1,1 +1,1 @@
-var mnemonic = "vibrant confirm insane slight cotton exact bleak pilot rose gorilla harvest discover";
+var mnemonic = "worth dragon torch capable youth chest subject silent unhappy cheap random taxi";

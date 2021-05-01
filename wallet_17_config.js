@@ -1,1 +1,1 @@
-var mnemonic = "idea pen simple square wrist census village super brass small congress cereal";
+var mnemonic = "always phrase visit hover velvet swim change thrive head add choose mirror";

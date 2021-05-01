@@ -1,1 +1,1 @@
-var mnemonic = "device used grape spot repair turn river case faint vivid radio wisdom";
+var mnemonic = "ghost clean mistake car frown know zoo enjoy harsh recipe addict simple";

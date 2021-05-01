@@ -1,1 +1,1 @@
-var mnemonic = "fatigue achieve powder aware produce tower cup bike crew joy wagon danger";
+var mnemonic = "wave swear seat ticket help speak wise spin ill hero witness ride";

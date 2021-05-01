@@ -1,1 +1,1 @@
-var mnemonic = "sibling can void decline wagon text street use convince display mail ice";
+var mnemonic = "custom world ensure tell kid mansion usage voice check brick humble check";

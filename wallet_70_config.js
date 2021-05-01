@@ -1,1 +1,1 @@
-var mnemonic = "motion immense space antique start hospital acoustic palm vendor pistol cloud that";
+var mnemonic = "refuse urban release crush fish shove pigeon exact away click three enrich";

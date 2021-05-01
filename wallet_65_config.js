@@ -1,1 +1,1 @@
-var mnemonic = "rural gate fly lemon smile bring also purse kite drop whisper zone";
+var mnemonic = "leader fatal voice vibrant rigid object humble mango ugly dynamic truck trouble";

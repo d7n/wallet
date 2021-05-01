@@ -1,1 +1,1 @@
-var mnemonic = "quantum noodle robot solid organ sorry grain nut powder void buyer bright";
+var mnemonic = "celery surround wheel cage crush glory army search pig eternal guitar exist";

@@ -1,1 +1,1 @@
-var mnemonic = "between caution churn health major frequent wife crime tool badge maple reflect";
+var mnemonic = "false clip cry plunge basket pluck cruel habit diary room humor asthma";

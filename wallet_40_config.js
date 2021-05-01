@@ -1,1 +1,1 @@
-var mnemonic = "bonus quantum inside nature weird uncover bullet sand teach code announce similar";
+var mnemonic = "narrow erode fruit hip they loud scissors inflict critic brass palace border";

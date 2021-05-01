@@ -1,1 +1,1 @@
-var mnemonic = "emerge pond rally flight ahead bid toss select gold exercise resist betray";
+var mnemonic = "bone involve silent answer forest rabbit bag hour subway fish visual guess";

@@ -1,1 +1,1 @@
-var mnemonic = "alone genre over cloth volcano culture diet push half soldier dream desert";
+var mnemonic = "picnic lecture suggest embark daughter draft capital dad foot bottom champion imitate";

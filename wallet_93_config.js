@@ -1,1 +1,1 @@
-var mnemonic = "erode merry depth shadow phrase pole ancient hint pact fee mass anger";
+var mnemonic = "move album wheat daughter point stock file edge library once join diamond";

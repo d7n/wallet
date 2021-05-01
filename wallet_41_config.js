@@ -1,1 +1,1 @@
-var mnemonic = "plastic tiny busy near badge priority myth term shadow tooth security junior";
+var mnemonic = "leave mechanic output select brick category tell fluid final lock husband degree";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse clap elder goose setup valley enlist test select prize february enroll";
+var mnemonic = "evoke remember reflect hawk focus please vote common youth base flock pudding";

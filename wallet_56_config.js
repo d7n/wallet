@@ -1,1 +1,1 @@
-var mnemonic = "economy beyond finger reason pudding glide must obscure claim own scrub arena";
+var mnemonic = "rude object apology screen sail check erode trip erupt clean broom either";

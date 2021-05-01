@@ -1,1 +1,1 @@
-var mnemonic = "wish little range pet horror young rule into point scan corn dilemma";
+var mnemonic = "law inform walnut tattoo arrow belt gas limb dog patrol pluck dice";

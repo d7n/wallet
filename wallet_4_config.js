@@ -1,1 +1,1 @@
-var mnemonic = "rural current inject oil barely entry name pet eye orbit they buyer";
+var mnemonic = "uphold solid brand trigger east churn question lady dose noise napkin artwork";

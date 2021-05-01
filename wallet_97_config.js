@@ -1,1 +1,1 @@
-var mnemonic = "sick hat matrix suffer clock impose junior attitude act canvas shock olympic";
+var mnemonic = "blind raccoon dutch same category canyon pluck slim inch lawsuit manual afraid";

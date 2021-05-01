@@ -1,1 +1,1 @@
-var mnemonic = "topic exact pave fix rack black cactus fury aim comfort shift grape";
+var mnemonic = "shift course walnut judge hazard myself world about cheese obvious celery fix";

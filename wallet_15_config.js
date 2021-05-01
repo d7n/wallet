@@ -1,1 +1,1 @@
-var mnemonic = "demand obtain desk great sound hero apart bronze girl soda mixed paper";
+var mnemonic = "mention toddler solution ticket palm art end soul promote weather easy tongue";

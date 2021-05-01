@@ -1,1 +1,1 @@
-var mnemonic = "museum remind foil ladder puzzle shift decade response metal judge body wise";
+var mnemonic = "raven recycle motor truth diagram indoor region quote awesome oval joy taste";

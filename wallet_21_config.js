@@ -1,1 +1,1 @@
-var mnemonic = "february sad wood person brown guard anger cup neck stick develop escape";
+var mnemonic = "uniform useful shrimp trick cloud unusual solar enlist grunt squirrel sweet glue";

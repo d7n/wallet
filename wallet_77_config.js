@@ -1,1 +1,1 @@
-var mnemonic = "thought movie blouse maple capital denial become twenty rookie segment crumble resist";
+var mnemonic = "accident wrestle earth miracle canyon napkin throw beyond cliff round diagram sail";

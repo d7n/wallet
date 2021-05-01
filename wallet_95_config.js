@@ -1,1 +1,1 @@
-var mnemonic = "convince shop oval group brass rate sorry useless brush speak end execute";
+var mnemonic = "antenna lion hello chef essay lava churn combine envelope twist inner used";

@@ -1,1 +1,1 @@
-var mnemonic = "hold usage bubble negative rich upper force august video amount hold order";
+var mnemonic = "power tag prize snack denial more fetch festival play topple mouse jacket";

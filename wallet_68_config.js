@@ -1,1 +1,1 @@
-var mnemonic = "grab furnace own abuse frost vanish unusual sister sudden oblige flower test";
+var mnemonic = "you about bronze risk stairs soup final relax icon grid garlic unique";

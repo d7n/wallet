@@ -1,1 +1,1 @@
-var mnemonic = "maid forest entire domain tuna february upgrade fit fruit document absurd ask";
+var mnemonic = "woman estate life what volume evoke fluid fun stuff motor foot spare";

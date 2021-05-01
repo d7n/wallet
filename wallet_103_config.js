@@ -1,1 +1,1 @@
-var mnemonic = "toward popular portion scene mansion segment grain gesture that drastic regular absorb";
+var mnemonic = "insane thumb type sell health undo announce stock drastic cute recall skull";

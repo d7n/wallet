@@ -1,1 +1,1 @@
-var mnemonic = "holiday earth logic coast old time finger this jungle train attitude image";
+var mnemonic = "orient great gesture genuine rich avoid bamboo kitchen excite spoon enough damage";
