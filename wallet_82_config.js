@@ -1,1 +1,1 @@
-var mnemonic = "rich glide spot rib fault anchor head disorder nose unit firm major";
+var mnemonic = "marriage guitar juice frown wet breeze invite limb fancy member glass aerobic";

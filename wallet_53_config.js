@@ -1,1 +1,1 @@
-var mnemonic = "twenty click flavor rule piano entry trouble track army team shine twin";
+var mnemonic = "equal pause police rate wood zoo direct wait promote exit viable unit";

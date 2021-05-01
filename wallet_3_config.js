@@ -1,1 +1,1 @@
-var mnemonic = "kidney pink tower hotel slim enrich goddess visit hamster tool banana must";
+var mnemonic = "vocal blur trouble humor boil disease cash oval despair tooth robot knock";

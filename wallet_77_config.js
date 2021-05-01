@@ -1,1 +1,1 @@
-var mnemonic = "lucky smart flower trade bacon cushion afford enhance oxygen issue spoil fork";
+var mnemonic = "adjust dynamic slam vessel panel muffin quit scorpion atom expire girl course";

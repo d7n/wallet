@@ -1,1 +1,1 @@
-var mnemonic = "property element much leave owner knife bicycle olympic train crystal jazz garden";
+var mnemonic = "film aspect sausage mountain aunt thing ivory busy trap excuse short view";

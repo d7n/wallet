@@ -1,1 +1,1 @@
-var mnemonic = "visit frog churn muffin guess mobile coin spirit length satoshi obey anger";
+var mnemonic = "obvious limb loyal muffin whip alley start hint stick leave planet measure";

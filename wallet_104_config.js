@@ -1,1 +1,1 @@
-var mnemonic = "olive initial loud clump ocean exit bacon dutch universe skirt okay quit";
+var mnemonic = "express release fragile auction liar describe couple kid fade cattle bread clump";

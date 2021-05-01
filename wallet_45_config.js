@@ -1,1 +1,1 @@
-var mnemonic = "torch lobster clever elbow blind alter together parent vicious dirt company spike";
+var mnemonic = "piece profit amateur cry funny spin upper ketchup gesture viable index potato";

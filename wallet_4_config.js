@@ -1,1 +1,1 @@
-var mnemonic = "cute garage gap twist shine tilt option priority knock author inquiry very";
+var mnemonic = "antenna mushroom meadow divert man sort cute agree march student exhaust high";

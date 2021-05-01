@@ -1,1 +1,1 @@
-var mnemonic = "erupt predict february pink meat vapor love educate glance climb excite spray";
+var mnemonic = "bamboo silk radio ridge puzzle verify design cost stable human bunker entry";

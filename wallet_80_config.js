@@ -1,1 +1,1 @@
-var mnemonic = "acid summer rice forget stem myth athlete stone feel loud follow reject";
+var mnemonic = "marine cook coin figure speak depend segment lucky debate mix relief trim";

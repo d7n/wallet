@@ -1,1 +1,1 @@
-var mnemonic = "elbow flag scare fall bring father ski antique speed prison another slide";
+var mnemonic = "cake mushroom velvet fatal attack session east steel dial page indicate catalog";

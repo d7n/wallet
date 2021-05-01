@@ -1,1 +1,1 @@
-var mnemonic = "give canvas fly pig cliff quote mule boost security tiny zebra method";
+var mnemonic = "hunt play around rotate latin gravity muscle vacuum law prevent expand uniform";

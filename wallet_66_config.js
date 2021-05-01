@@ -1,1 +1,1 @@
-var mnemonic = "dynamic absent celery field office lottery sunset clerk tape wine fly journey";
+var mnemonic = "opera ability attack smooth board wool right orient can mountain hope dilemma";

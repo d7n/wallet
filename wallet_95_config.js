@@ -1,1 +1,1 @@
-var mnemonic = "marble crowd material ostrich afford relief window usage video fiber eagle portion";
+var mnemonic = "knee have fit soccer orient achieve axis cliff tired invite speed whale";

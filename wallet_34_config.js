@@ -1,1 +1,1 @@
-var mnemonic = "spend sunset unusual pen boss term give spatial enrich bid zero table";
+var mnemonic = "drama civil tank donate elegant found fancy detect intact shiver security universe";

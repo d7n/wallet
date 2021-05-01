@@ -1,1 +1,1 @@
-var mnemonic = "road flush choose skirt game spread tissue glare hard throw bridge hunt";
+var mnemonic = "dance bundle rent evidence table nerve sing plunge grocery kitten snow title";

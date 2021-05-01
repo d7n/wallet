@@ -1,1 +1,1 @@
-var mnemonic = "antique hover detail weather senior grace unfair corn talent pumpkin axis join";
+var mnemonic = "october file sketch satisfy curve make subway avocado girl bachelor pony business";

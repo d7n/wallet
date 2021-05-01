@@ -1,1 +1,1 @@
-var mnemonic = "reunion obey require farm truck glow mirror shell bounce husband impact current";
+var mnemonic = "payment clog strike portion improve area garbage hurt trim earth execute right";

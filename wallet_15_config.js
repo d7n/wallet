@@ -1,1 +1,1 @@
-var mnemonic = "genre ensure dune suffer network isolate myth ordinary harvest gorilla alert exile";
+var mnemonic = "main flame drama now field grow vault dinosaur pupil chronic tenant pink";

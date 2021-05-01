@@ -1,1 +1,1 @@
-var mnemonic = "vault much scrub ready average silly ring cliff title trigger flower garbage";
+var mnemonic = "inquiry chief autumn burden build that april average brass suit put reform";

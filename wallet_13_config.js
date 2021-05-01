@@ -1,1 +1,1 @@
-var mnemonic = "album wish trust craft era inside motor glory awkward file glass certain";
+var mnemonic = "tribe pen habit robust upset program discover shallow melt drama crater chief";

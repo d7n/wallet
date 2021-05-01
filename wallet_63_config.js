@@ -1,1 +1,1 @@
-var mnemonic = "cup runway drum artist any thunder pulse human total lounge energy palm";
+var mnemonic = "cry fiber trap rally nest average autumn arch amused depth foster disease";

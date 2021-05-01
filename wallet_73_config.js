@@ -1,1 +1,1 @@
-var mnemonic = "olive adult void festival pond similar coin dad arrange rebuild found syrup";
+var mnemonic = "immune screen metal jelly slender letter draft cycle veteran poet senior pink";

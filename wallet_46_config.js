@@ -1,1 +1,1 @@
-var mnemonic = "just orphan talent inmate hen cable finger exist parade sibling hint hood";
+var mnemonic = "trim upper prefer impose east mountain coil disorder salute man slow hand";

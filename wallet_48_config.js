@@ -1,1 +1,1 @@
-var mnemonic = "endorse couch thing fall must mule kingdom ozone fiber this evolve bridge";
+var mnemonic = "under receive extend sting bring tumble mistake license oval coral mistake genuine";

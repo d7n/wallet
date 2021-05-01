@@ -1,1 +1,1 @@
-var mnemonic = "wear base because leave apart custom absorb broom toy under afford glory";
+var mnemonic = "spatial warm click piano lab canyon swarm lumber quarter volume expose dignity";

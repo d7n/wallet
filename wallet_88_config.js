@@ -1,1 +1,1 @@
-var mnemonic = "expand rapid museum output mad car they tragic stamp arrest dog coconut";
+var mnemonic = "toy crack tide guard expect upon bid sleep van nut material dial";

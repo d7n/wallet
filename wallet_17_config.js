@@ -1,1 +1,1 @@
-var mnemonic = "use lawn pepper legal easy hospital enroll chalk hello motion robot gallery";
+var mnemonic = "hollow sort lounge cotton color peanut become scrap extend very hour enforce";

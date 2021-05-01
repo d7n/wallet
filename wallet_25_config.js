@@ -1,1 +1,1 @@
-var mnemonic = "mango act student copper hockey jazz echo reason supply crush jewel sunny";
+var mnemonic = "tape one aware canvas casual ivory inform kingdom vocal various quarter hunt";

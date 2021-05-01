@@ -1,1 +1,1 @@
-var mnemonic = "stick sister arctic nature genuine vibrant carbon hire crawl trip use exile";
+var mnemonic = "figure opera victory army glance fame potato pact pluck net couple acid";

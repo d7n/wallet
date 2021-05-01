@@ -1,1 +1,1 @@
-var mnemonic = "own obvious near interest face priority hurdle cargo select share battle hedgehog";
+var mnemonic = "into real appear range true lawsuit enroll guilt sponsor good shy boost";

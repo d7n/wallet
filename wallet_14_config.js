@@ -1,1 +1,1 @@
-var mnemonic = "cruise soon kick eagle furnace minor trouble rocket elder dose vapor tribe";
+var mnemonic = "month purse fade return together ring total east vital infant orbit wait";

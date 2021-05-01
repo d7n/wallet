@@ -1,1 +1,1 @@
-var mnemonic = "area elevator prevent split visual ritual dizzy congress mango thunder enemy bonus";
+var mnemonic = "toward art furnace left artwork appear endorse episode satoshi cattle any perfect";

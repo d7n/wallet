@@ -1,1 +1,1 @@
-var mnemonic = "simple ceiling find together crowd fox album tape umbrella avoid ancient nasty";
+var mnemonic = "wire recycle zero section uncover box leave discover inmate solution ordinary abstract";

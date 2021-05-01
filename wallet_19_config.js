@@ -1,1 +1,1 @@
-var mnemonic = "kiss gather hip science clinic supreme middle sniff animal ignore rough large";
+var mnemonic = "nasty express music defense jungle region stage suspect mule sound donor song";

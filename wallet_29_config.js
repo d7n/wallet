@@ -1,1 +1,1 @@
-var mnemonic = "fancy relief smooth rich salon equip risk runway bread finger vote autumn";
+var mnemonic = "fault recipe depth moral inspire gravity innocent junior cement retreat dad vocal";

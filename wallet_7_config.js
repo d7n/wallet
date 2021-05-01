@@ -1,1 +1,1 @@
-var mnemonic = "more various legal pioneer shy hundred mention vague match ball document maximum";
+var mnemonic = "axis invest noodle earn simple valid slim afford garbage volcano dumb stumble";

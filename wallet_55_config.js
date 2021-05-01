@@ -1,1 +1,1 @@
-var mnemonic = "trophy chimney demand parade digital room relax tank vast report copy rubber";
+var mnemonic = "puppy stock fix owner danger toss grass magnet library volcano firm pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "help staff flavor much mom truth jungle fantasy clown seminar soccer firm";
+var mnemonic = "blanket there real will swift pave asset skull over inside educate gain";

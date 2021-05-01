@@ -1,1 +1,1 @@
-var mnemonic = "rug tuition notice dolphin increase fine diesel hunt wet axis parent valley";
+var mnemonic = "wasp mansion make learn bag swamp useless honey jealous shrug hotel oppose";

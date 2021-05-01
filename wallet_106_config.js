@@ -1,1 +1,1 @@
-var mnemonic = "below despair bird coffee sauce nose royal throw hub enough carbon motor";
+var mnemonic = "vivid word pigeon night table thought balance farm ability upset rough where";

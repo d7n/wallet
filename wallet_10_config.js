@@ -1,1 +1,1 @@
-var mnemonic = "park yellow honey switch defense burden private obtain poem helmet space deal";
+var mnemonic = "weapon tortoise symptom destroy local salute special must access sentence swift click";

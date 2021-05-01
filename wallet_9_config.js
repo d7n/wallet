@@ -1,1 +1,1 @@
-var mnemonic = "mosquito tag proof amateur order kiss seek copper brisk question youth afford";
+var mnemonic = "attend pause spoon ankle trade today stock flee crisp cereal pepper topic";

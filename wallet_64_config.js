@@ -1,1 +1,1 @@
-var mnemonic = "struggle diet relief used warrior process walk topic educate you edit mirror";
+var mnemonic = "desert alley liar garden useful case hero race roast answer forget subway";

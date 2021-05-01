@@ -1,1 +1,1 @@
-var mnemonic = "ostrich rib current battle sibling predict view gather analyst until short practice";
+var mnemonic = "choice scale axis employ link check average pigeon gym ritual stock inside";

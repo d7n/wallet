@@ -1,1 +1,1 @@
-var mnemonic = "focus vibrant mail focus visual remain ball buffalo galaxy face code jump";
+var mnemonic = "eager exhibit dirt alarm glow throw learn salad energy swim size vault";

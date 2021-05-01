@@ -1,1 +1,1 @@
-var mnemonic = "tennis foster supply brand cattle organ outer garbage east live december hover";
+var mnemonic = "boil this amateur deer primary seek tired recipe result name garage mule";

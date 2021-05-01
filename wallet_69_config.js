@@ -1,1 +1,1 @@
-var mnemonic = "project food gas rigid afraid rival hurdle chest topic rain joke exhaust";
+var mnemonic = "rail canal antique knife tattoo clock shiver broccoli moment blade powder stomach";

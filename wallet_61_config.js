@@ -1,1 +1,1 @@
-var mnemonic = "kick mouse warm often joy tide evil coil apology marine rebel hello";
+var mnemonic = "token always park scorpion february chef unhappy spot illness secret drum hint";

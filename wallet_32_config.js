@@ -1,1 +1,1 @@
-var mnemonic = "art future grant food report emotion promote poet squirrel point real tortoise";
+var mnemonic = "enter foil answer captain fix credit park shrug resource arrange vast possible";

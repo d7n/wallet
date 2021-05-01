@@ -1,1 +1,1 @@
-var mnemonic = "sunny shove parrot bottom common toe bulb connect nurse embark broom hawk";
+var mnemonic = "forum rich medal cube record shy that charge arctic dinosaur knife physical";

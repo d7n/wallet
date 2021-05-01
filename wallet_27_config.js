@@ -1,1 +1,1 @@
-var mnemonic = "cart replace pact topic armor face behind legend shadow cousin polar awake";
+var mnemonic = "giant custom bless bird ecology envelope mail uniform gloom truly anger sausage";

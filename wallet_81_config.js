@@ -1,1 +1,1 @@
-var mnemonic = "live chalk humor patient average discover scale club couch original lady dress";
+var mnemonic = "system torch plate tonight point cotton rose proof absorb squeeze soft brush";

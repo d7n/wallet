@@ -1,1 +1,1 @@
-var mnemonic = "remain owner achieve arrest switch luxury someone deputy rare voice coyote print";
+var mnemonic = "excuse find heavy monitor gown giggle stem energy casino spike obvious salt";

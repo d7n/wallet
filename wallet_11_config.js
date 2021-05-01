@@ -1,1 +1,1 @@
-var mnemonic = "prepare relax element bachelor remove movie wheel arctic used present pledge book";
+var mnemonic = "loan glove share nice pond bracket budget blossom base list boat habit";

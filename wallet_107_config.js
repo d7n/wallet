@@ -1,1 +1,1 @@
-var mnemonic = "exist rice educate spatial mistake horror trumpet divide door warfare trumpet profit";
+var mnemonic = "clock trust fish enough abstract essence public matrix afford wage tilt horror";

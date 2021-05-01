@@ -1,1 +1,1 @@
-var mnemonic = "wrap unaware kiwi innocent prize rapid noble unique hurry steel boy toe";
+var mnemonic = "unit mention absurd rubber planet cost public permit advice keen hybrid buzz";

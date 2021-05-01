@@ -1,1 +1,1 @@
-var mnemonic = "rescue road three beach worth flat total episode decorate must wedding embody";
+var mnemonic = "arena cost visit sleep eyebrow avocado shuffle pet liar exhaust employ gas";

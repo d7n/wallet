@@ -1,1 +1,1 @@
-var mnemonic = "blind sustain middle divert glow swarm under wish oak hello sing afraid";
+var mnemonic = "poem silly test talk fever snake scissors above excite cup wrong mechanic";

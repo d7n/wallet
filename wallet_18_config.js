@@ -1,1 +1,1 @@
-var mnemonic = "deny crystal stove skin legal quiz muffin convince disease climb face private";
+var mnemonic = "glare energy person daughter possible vital strike grain rely bounce arctic rail";

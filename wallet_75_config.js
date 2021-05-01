@@ -1,1 +1,1 @@
-var mnemonic = "canvas cabin rate orbit never engage solution neutral legend naive baby eagle";
+var mnemonic = "field mechanic gun table road alcohol lock whale pipe real logic luggage";

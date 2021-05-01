@@ -1,1 +1,1 @@
-var mnemonic = "debris present iron display elite divert poverty end split hip club skirt";
+var mnemonic = "file ghost eagle net lift diagram warm heart ginger opera save virtual";

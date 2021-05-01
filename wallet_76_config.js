@@ -1,1 +1,1 @@
-var mnemonic = "zoo permit december festival similar arch regret relax version moment rice again";
+var mnemonic = "travel smoke black amount margin ill scheme pride olympic across dog notice";

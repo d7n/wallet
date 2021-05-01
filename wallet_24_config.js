@@ -1,1 +1,1 @@
-var mnemonic = "impulse essay trust humor sock peace worry include guess repair host monkey";
+var mnemonic = "reunion debris trophy talk divide thunder tape rapid kite front unfold flash";

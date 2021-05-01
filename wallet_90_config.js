@@ -1,1 +1,1 @@
-var mnemonic = "sort alley fit toast top nature relief trend can brisk vocal idle";
+var mnemonic = "hurdle culture party scorpion banner cricket capital affair hobby describe stable endorse";

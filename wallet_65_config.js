@@ -1,1 +1,1 @@
-var mnemonic = "banana shy merry clock wrestle that mushroom submit inflict talent banner enlist";
+var mnemonic = "two damp phrase pudding all oak scrap alley chunk embody demand asset";

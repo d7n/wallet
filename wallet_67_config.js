@@ -1,1 +1,1 @@
-var mnemonic = "message oppose such case mansion meadow tail pulse certain turtle where basic";
+var mnemonic = "pony effort bench lab element napkin rule enhance guide canyon shield exhibit";

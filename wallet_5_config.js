@@ -1,1 +1,1 @@
-var mnemonic = "scene because harbor old kite excess wheat inch replace piano hand ski";
+var mnemonic = "quit deer genius intact tattoo result pig inspire wife talk narrow hint";

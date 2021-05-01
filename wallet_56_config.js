@@ -1,1 +1,1 @@
-var mnemonic = "view sentence action leader grace mad match pair flee obvious culture stadium";
+var mnemonic = "cement cotton athlete turkey barely gravity obvious jewel invest vintage cheese awful";

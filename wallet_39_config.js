@@ -1,1 +1,1 @@
-var mnemonic = "real wish away case tip visual spoon save category rather spray expire";
+var mnemonic = "hawk hole gallery clap atom must dolphin relief category snake poverty nation";

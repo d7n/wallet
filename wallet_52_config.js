@@ -1,1 +1,1 @@
-var mnemonic = "home tag easy flock toast argue seven vintage already evidence point cube";
+var mnemonic = "lonely stable neck various define winter entire song rose girl canoe exclude";

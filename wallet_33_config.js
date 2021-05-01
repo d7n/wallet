@@ -1,1 +1,1 @@
-var mnemonic = "twist solve victory pull during hunt ghost silent science work inform decrease";
+var mnemonic = "rough equip humble final crack ladder crime kite more shy grocery guide";

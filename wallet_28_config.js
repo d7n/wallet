@@ -1,1 +1,1 @@
-var mnemonic = "flip viable family eyebrow assume build remind alpha call trim measure roof";
+var mnemonic = "quantum wait express turtle occur illness style pear narrow wheat earth nice";

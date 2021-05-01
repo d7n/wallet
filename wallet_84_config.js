@@ -1,1 +1,1 @@
-var mnemonic = "capital field harbor setup evolve useless learn brother version stove false dutch";
+var mnemonic = "palm arch bounce volcano load frost entry squirrel shift tone burst put";

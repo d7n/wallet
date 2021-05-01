@@ -1,1 +1,1 @@
-var mnemonic = "live vapor beef feed spin elite seminar jungle work marble poverty math";
+var mnemonic = "strong ozone energy bridge elephant pistol tennis bar sugar valve bitter total";

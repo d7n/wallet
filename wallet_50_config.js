@@ -1,1 +1,1 @@
-var mnemonic = "picnic slight orchard gorilla sudden moment river hero clown trick muscle flip";
+var mnemonic = "soap today giggle recycle nice setup ketchup thumb sausage now harvest wasp";

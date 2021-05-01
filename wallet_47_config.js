@@ -1,1 +1,1 @@
-var mnemonic = "photo odor auto dice struggle hello fault muscle practice object same film";
+var mnemonic = "matrix stadium record grocery engage rack cake apple creek nature winner buzz";

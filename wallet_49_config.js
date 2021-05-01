@@ -1,1 +1,1 @@
-var mnemonic = "cereal seat inhale question duty toddler narrow extra transfer acquire host carry";
+var mnemonic = "jealous actress wrong almost worry area throw feature dilemma setup struggle market";

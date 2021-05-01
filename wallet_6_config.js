@@ -1,1 +1,1 @@
-var mnemonic = "project wasp prize copper brief wrong tongue wish hybrid ice maple wash";
+var mnemonic = "bullet tilt nuclear ensure identify magnet february wheat huge oval scale faith";

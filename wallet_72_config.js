@@ -1,1 +1,1 @@
-var mnemonic = "scare ribbon shrug dinosaur survey tuition laundry fix slush duck depart vapor";
+var mnemonic = "analyst eagle speak sort access kitten black canoe stay will drive fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue evolve eye project busy bless purchase emerge face normal drink melody";
+var mnemonic = "van atom caution install deposit home fine fantasy filter harvest very sentence";

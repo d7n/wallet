@@ -1,1 +1,1 @@
-var mnemonic = "casual addict shield happy casino broom giraffe mango select install cave dose";
+var mnemonic = "wood improve leader dinner region cargo possible sock evil slide vicious scare";

@@ -1,1 +1,1 @@
-var mnemonic = "dinner leaf cup crumble disagree remind any yard hard butter famous win";
+var mnemonic = "parrot wave possible assault crush good couch wasp film yellow version return";

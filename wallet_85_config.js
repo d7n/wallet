@@ -1,1 +1,1 @@
-var mnemonic = "viable wink define nation still sort until crazy civil frequent know tiger";
+var mnemonic = "awesome pottery eight roof goddess dad obey replace actual pony trend valley";

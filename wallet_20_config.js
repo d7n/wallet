@@ -1,1 +1,1 @@
-var mnemonic = "addict point arrange receive auction domain crush ill clarify modify monster valve";
+var mnemonic = "brother shock pulp cheap dry keen remove regret alarm move party brief";

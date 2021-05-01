@@ -1,1 +1,1 @@
-var mnemonic = "mind voice track hungry void animal warrior buyer move razor cup route";
+var mnemonic = "glare glue usage sure census canal winter ice weapon taste exist galaxy";

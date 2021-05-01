@@ -1,1 +1,1 @@
-var mnemonic = "buyer absurd drill panther agent tiny town rail use erode quick artwork";
+var mnemonic = "tray shrug bring inch face deposit surface float cram grid error seek";

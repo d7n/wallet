@@ -1,1 +1,1 @@
-var mnemonic = "mimic device noise retire risk panda disease stuff advice question liberty rapid";
+var mnemonic = "lion traffic alpha donate laundry admit combine bean lamp dinosaur blouse glance";
