@@ -1,1 +1,1 @@
-var mnemonic = "glass plug pluck amount glare wheel garden host kitten relax job mention";
+var mnemonic = "clock fresh common board bright disease engage sudden mix height angry sword";

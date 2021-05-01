@@ -1,1 +1,1 @@
-var mnemonic = "sick torch either code chapter ability soup post drop acquire avoid when";
+var mnemonic = "stairs limb elevator letter quality guilt boost since axis section debate foam";

@@ -1,1 +1,1 @@
-var mnemonic = "rib era rocket milk degree clown square ivory share hair people chair";
+var mnemonic = "decide text noble behind fly pass over glad escape cash energy cable";

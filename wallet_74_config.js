@@ -1,1 +1,1 @@
-var mnemonic = "hidden search prison bridge blade glow soup cruel blouse exercise aunt acquire";
+var mnemonic = "echo short primary mean solution inner now push comfort alert auto plug";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt wrist recycle express grape photo auto today case antenna music witness";
+var mnemonic = "release core okay notable fresh crack federal bird mind boss year mind";

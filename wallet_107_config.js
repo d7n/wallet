@@ -1,1 +1,1 @@
-var mnemonic = "defense manual dial mad color mushroom crumble denial jeans group black fish";
+var mnemonic = "plug pear dutch hand secret scene punch adult glove hungry elevator urban";

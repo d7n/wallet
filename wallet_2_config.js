@@ -1,1 +1,1 @@
-var mnemonic = "acoustic core box surround boat shiver pact valid elder click border tray";
+var mnemonic = "staff odor velvet steak nature stool steel wrap festival slim despair differ";

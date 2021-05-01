@@ -1,1 +1,1 @@
-var mnemonic = "miss song nurse search razor patient buyer swing child can play situate";
+var mnemonic = "flag media salt bulk orphan just spoil fluid vessel decade nephew frog";

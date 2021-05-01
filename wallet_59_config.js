@@ -1,1 +1,1 @@
-var mnemonic = "ship opera mother farm potato own rookie solve pretty blanket solution fan";
+var mnemonic = "major dynamic else gasp bag visual shaft fashion obtain achieve foot delay";

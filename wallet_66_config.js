@@ -1,1 +1,1 @@
-var mnemonic = "expose ramp genre buffalo sentence smile vague offer mind pistol green lamp";
+var mnemonic = "fuel must bright monitor rescue plug slab supply expand salmon kiss top";

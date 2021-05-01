@@ -1,1 +1,1 @@
-var mnemonic = "belt slide actual average rhythm rookie bone elite purse shield inch weapon";
+var mnemonic = "section input next voyage trend snow neck sort else stairs human memory";

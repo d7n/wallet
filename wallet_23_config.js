@@ -1,1 +1,1 @@
-var mnemonic = "airport novel behind attitude strike jazz bring roof tree round crouch extra";
+var mnemonic = "retreat jealous coach vibrant panic rather mom route work inquiry behave you";

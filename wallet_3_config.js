@@ -1,1 +1,1 @@
-var mnemonic = "parade trouble always bulb shove firm dress oak ten smart come iron";
+var mnemonic = "mercy buzz erode reduce happy blame source barely electric love turkey before";

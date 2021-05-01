@@ -1,1 +1,1 @@
-var mnemonic = "true brand garbage snake effort satisfy season fit inquiry moon hover dynamic";
+var mnemonic = "silent october alley payment throw twelve pilot cruise mercy coral grant myself";

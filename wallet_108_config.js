@@ -1,1 +1,1 @@
-var mnemonic = "cool notice matrix local used aim off glad artefact relax view address";
+var mnemonic = "image seat trap involve physical divide spell swamp oppose about bleak equip";

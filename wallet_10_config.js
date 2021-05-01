@@ -1,1 +1,1 @@
-var mnemonic = "tennis phone initial chunk oyster visa biology dune gloom law refuse output";
+var mnemonic = "uncover barely tobacco urge rescue tooth fatal lumber assault eyebrow erase palm";

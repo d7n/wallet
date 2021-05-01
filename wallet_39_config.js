@@ -1,1 +1,1 @@
-var mnemonic = "catalog pole orphan organ doll execute certain trophy outer fix clay banner";
+var mnemonic = "visual stand mass seek car thunder box patch catalog one general tonight";

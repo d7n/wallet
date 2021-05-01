@@ -1,1 +1,1 @@
-var mnemonic = "gap intact gym endless volume vacant increase jungle small stairs alter soup";
+var mnemonic = "beauty earth local hard stereo organ coach physical rookie segment picnic unique";

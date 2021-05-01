@@ -1,1 +1,1 @@
-var mnemonic = "rug satisfy tool history lamp mesh plug among image have gift bright";
+var mnemonic = "hollow want shaft input bamboo color shoe fat glad together wing scheme";

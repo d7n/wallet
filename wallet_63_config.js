@@ -1,1 +1,1 @@
-var mnemonic = "skirt life famous flower panther style ticket account boring fancy income tragic";
+var mnemonic = "age vicious gauge fade element vendor moment laugh indoor smile utility worth";

@@ -1,1 +1,1 @@
-var mnemonic = "solution earth catalog rough under hamster child script daughter cruel blame release";
+var mnemonic = "royal village meadow degree beach gossip near wild balance all fade urban";

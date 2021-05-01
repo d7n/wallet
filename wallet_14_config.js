@@ -1,1 +1,1 @@
-var mnemonic = "equal minute sauce turkey equal mad page tuition beef cycle come wool";
+var mnemonic = "end inherit motor ancient clog mansion tenant rookie lunch kitchen ethics speak";

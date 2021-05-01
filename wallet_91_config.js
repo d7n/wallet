@@ -1,1 +1,1 @@
-var mnemonic = "stairs wedding abstract melt math vacuum unusual hammer razor exotic piano normal";
+var mnemonic = "this peace reopen valley clever jaguar action trick kidney will buddy address";

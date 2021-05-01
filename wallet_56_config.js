@@ -1,1 +1,1 @@
-var mnemonic = "cruel crowd program credit mistake topic oak stuff eight settle coil wave";
+var mnemonic = "border wild review delay weather lock category rival sheriff cannon behave holiday";

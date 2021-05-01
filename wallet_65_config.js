@@ -1,1 +1,1 @@
-var mnemonic = "wheel ladder mention police trumpet hip bacon wonder bulb post raven tissue";
+var mnemonic = "unable siren puppy bicycle inject intact balance chicken sibling gas seat unaware";

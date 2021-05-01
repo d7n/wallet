@@ -1,1 +1,1 @@
-var mnemonic = "name rapid unfold captain mask language lazy tide all lawsuit pilot matter";
+var mnemonic = "sponsor tongue old visit volume earn law liar valve ginger industry double";

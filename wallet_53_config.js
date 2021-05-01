@@ -1,1 +1,1 @@
-var mnemonic = "genuine embrace energy owner domain describe label clock index amount above diesel";
+var mnemonic = "oxygen barely security injury runway guide fence pluck foam host beach ritual";

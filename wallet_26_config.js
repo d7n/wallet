@@ -1,1 +1,1 @@
-var mnemonic = "suggest caught wash place ignore desk rabbit dial culture suggest weird lobster";
+var mnemonic = "version dolphin fat certain used police panic result industry neither smoke dream";

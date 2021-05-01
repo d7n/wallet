@@ -1,1 +1,1 @@
-var mnemonic = "pyramid stage park undo finger twist whip shrug power same venue true";
+var mnemonic = "lock shell exact enlist term museum element slam spend result ball trophy";

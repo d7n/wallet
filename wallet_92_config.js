@@ -1,1 +1,1 @@
-var mnemonic = "polar annual grief walnut indicate rocket toddler moment mobile trumpet awkward raise";
+var mnemonic = "analyst wolf wool indicate mutual defy friend sibling book night space burden";

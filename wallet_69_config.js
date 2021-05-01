@@ -1,1 +1,1 @@
-var mnemonic = "observe blood market spirit desert car shop surface face two easily table";
+var mnemonic = "damage sadness tiny multiply toe auction cherry match lawsuit room suit surge";

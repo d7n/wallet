@@ -1,1 +1,1 @@
-var mnemonic = "elevator sunny swap useless shrimp onion attend sight legal clog obey soccer";
+var mnemonic = "submit bind plunge immense first border arrange rather worry joke vault wing";

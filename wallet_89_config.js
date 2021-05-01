@@ -1,1 +1,1 @@
-var mnemonic = "ozone bamboo process hawk ride history guide lend weather deal gain prepare";
+var mnemonic = "bomb carbon ability you history ginger wet seven token bomb smile question";

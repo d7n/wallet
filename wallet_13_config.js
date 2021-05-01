@@ -1,1 +1,1 @@
-var mnemonic = "blush earn deliver rifle shop turkey mix toe sponsor nominee pass tape";
+var mnemonic = "lucky cash youth drive attract match aisle purpose innocent clown gym help";

@@ -1,1 +1,1 @@
-var mnemonic = "exact winter celery shoulder surround enrich sight park ski raccoon fresh february";
+var mnemonic = "expire blush profit bronze enlist like involve weasel essence ethics earn magic";

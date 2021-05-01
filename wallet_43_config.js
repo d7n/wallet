@@ -1,1 +1,1 @@
-var mnemonic = "enrich gold sunset delay deliver gasp mango potato silk unfair immune mushroom";
+var mnemonic = "tackle steak zebra knock gauge pepper myself zero angry coffee execute seek";

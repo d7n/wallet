@@ -1,1 +1,1 @@
-var mnemonic = "useful fault pink rural festival second evidence dash brisk index immense unhappy";
+var mnemonic = "swap sight effort cube scissors enact detect attitude piano chair satisfy truly";

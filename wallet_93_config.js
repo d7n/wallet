@@ -1,1 +1,1 @@
-var mnemonic = "raven cupboard twenty cheese project vicious sponsor sound problem front next month";
+var mnemonic = "bar target doll garlic water hello setup exist tank keen business anxiety";

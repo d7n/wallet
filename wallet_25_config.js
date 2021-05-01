@@ -1,1 +1,1 @@
-var mnemonic = "purity possible rule liberty era skate hazard install shuffle world voice shiver";
+var mnemonic = "tone armor fun collect vital east fantasy limb sand example employ thunder";

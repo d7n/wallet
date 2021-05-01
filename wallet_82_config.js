@@ -1,1 +1,1 @@
-var mnemonic = "zone evolve exclude excite worth bargain bench match fence length master service";
+var mnemonic = "age coast unlock wagon rather acoustic oil phrase royal trust desert bind";

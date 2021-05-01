@@ -1,1 +1,1 @@
-var mnemonic = "grab dance slogan tuna narrow between scout code dilemma equip finger arrange";
+var mnemonic = "there base together spend between palm segment smooth uncle drink behind flight";

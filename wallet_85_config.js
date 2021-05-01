@@ -1,1 +1,1 @@
-var mnemonic = "silk kick dawn cool insect crowd swear ceiling parent also injury thank";
+var mnemonic = "faint seminar exercise siren plastic initial post game frame stone motor loud";

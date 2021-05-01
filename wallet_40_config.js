@@ -1,1 +1,1 @@
-var mnemonic = "miracle size amused acquire feature scare useful icon empower wrist fury favorite";
+var mnemonic = "cattle over reject giggle prefer ability visit dinosaur siren armed illegal budget";

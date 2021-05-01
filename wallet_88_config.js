@@ -1,1 +1,1 @@
-var mnemonic = "rural mammal section pudding during theme bunker session answer pretty monster shoot";
+var mnemonic = "legal letter left slight prepare flash mutual two ranch fantasy wealth baby";

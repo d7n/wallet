@@ -1,1 +1,1 @@
-var mnemonic = "horse fish promote true swim echo salt option problem destroy foster unfold";
+var mnemonic = "review quit estate measure smooth seven fork shed mansion funny liar robust";

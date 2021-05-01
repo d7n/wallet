@@ -1,1 +1,1 @@
-var mnemonic = "dilemma core very discover orient slab october plate laptop any fresh sphere";
+var mnemonic = "angry antique roast page buzz ginger juice belt clown stem rent plastic";

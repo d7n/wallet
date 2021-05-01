@@ -1,1 +1,1 @@
-var mnemonic = "actor language spirit permit comfort ocean jazz thrive observe cactus prosper car";
+var mnemonic = "tape math mountain energy nasty celery fury quote catalog peasant almost dragon";

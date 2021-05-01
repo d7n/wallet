@@ -1,1 +1,1 @@
-var mnemonic = "hybrid gun derive uphold despair citizen profit story wet mushroom fatal awesome";
+var mnemonic = "define subject maple tail sign alpha upper thunder sing chair clown push";

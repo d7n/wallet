@@ -1,1 +1,1 @@
-var mnemonic = "stool cart issue eagle old menu frozen comfort pitch cigar wood clarify";
+var mnemonic = "twin orchard argue color seat slim size picnic electric blade treat swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "trial rug wash infant penalty oak mother domain later peasant lumber quarter";
+var mnemonic = "ancient journey weather multiply ill surface foil echo place price board people";

@@ -1,1 +1,1 @@
-var mnemonic = "afford clean when hollow pen among resist ability help urban advance cheap";
+var mnemonic = "color bargain media mother grief logic skin jump focus melody debris benefit";

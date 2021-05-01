@@ -1,1 +1,1 @@
-var mnemonic = "guilt half swear eager teach frozen capital sample jealous afford abstract obvious";
+var mnemonic = "card sort virus waste dumb menu jelly clap cheese betray turkey flight";

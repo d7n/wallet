@@ -1,1 +1,1 @@
-var mnemonic = "wave naive release wall zero team install gesture art guess tenant glass";
+var mnemonic = "good page cliff cause hire moon aware pride vocal pear maid mosquito";

@@ -1,1 +1,1 @@
-var mnemonic = "casino discover consider champion marine weekend gospel mushroom lucky final inquiry penalty";
+var mnemonic = "man region immune interest puzzle broken yard section finger rain list juice";

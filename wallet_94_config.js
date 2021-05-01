@@ -1,1 +1,1 @@
-var mnemonic = "zero output indoor join then maid almost supply corn gorilla country hungry";
+var mnemonic = "regret fine treat broccoli alcohol voice evidence best venture devote cycle express";

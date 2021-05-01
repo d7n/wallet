@@ -1,1 +1,1 @@
-var mnemonic = "old speak pudding foot case require broom erosion radio shock debate basket";
+var mnemonic = "wet slim interest rain device fix then bamboo fix expire rapid anchor";

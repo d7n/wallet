@@ -1,1 +1,1 @@
-var mnemonic = "crawl cabin hollow minor fashion bounce dutch divide spatial ridge skirt weird";
+var mnemonic = "brush spin warfare mind session story forward wing provide early suggest planet";

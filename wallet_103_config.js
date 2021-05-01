@@ -1,1 +1,1 @@
-var mnemonic = "parrot shrimp annual script element grocery assault bargain tomorrow labor alien outer";
+var mnemonic = "lecture soup silver fix laugh hood web raw rebuild tennis tree mix";

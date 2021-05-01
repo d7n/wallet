@@ -1,1 +1,1 @@
-var mnemonic = "equip drift stand supply online error aunt utility task peasant uphold sick";
+var mnemonic = "leisure grab liberty wing thrive involve measure noble miss faith gallery ask";

@@ -1,1 +1,1 @@
-var mnemonic = "vocal favorite address audit awesome amazing novel dream solve huge moral october";
+var mnemonic = "later tobacco virus guilt lounge holiday spirit shoot hub october prison ugly";

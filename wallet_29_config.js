@@ -1,1 +1,1 @@
-var mnemonic = "shine loud unusual session bridge fiscal squirrel crime tell earth visit autumn";
+var mnemonic = "raw orchard embark inmate village one lava shallow ladder purchase stable enter";

@@ -1,1 +1,1 @@
-var mnemonic = "setup payment lounge rent settle addict quit theme cereal monster dentist rice";
+var mnemonic = "fix rich eye report amazing idea reward cheese twice mad rely circle";

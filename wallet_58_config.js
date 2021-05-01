@@ -1,1 +1,1 @@
-var mnemonic = "arrange mobile turkey gospel program fiction fitness educate visa dawn trip fresh";
+var mnemonic = "borrow bread nation nose garden loyal spy blue snow earn hunt draw";

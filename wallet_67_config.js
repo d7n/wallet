@@ -1,1 +1,1 @@
-var mnemonic = "wait hub tenant sniff tape once mammal cloud casino dial light tank";
+var mnemonic = "bind pigeon eagle spawn iron trigger indoor attract senior hurt false permit";

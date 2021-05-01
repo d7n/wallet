@@ -1,1 +1,1 @@
-var mnemonic = "attract marine prosper jewel chunk enemy scale wrestle welcome thought oven brick";
+var mnemonic = "expect leader siren agree shallow defense pact accident type hawk panic dune";

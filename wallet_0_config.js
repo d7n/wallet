@@ -1,1 +1,1 @@
-var mnemonic = "solution frequent gap slim issue dry picture glue another blade envelope hidden";
+var mnemonic = "survey analyst merge bracket plate check shuffle present thank cook dilemma woman";

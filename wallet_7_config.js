@@ -1,1 +1,1 @@
-var mnemonic = "tooth rival easy couple idea amazing pride much ginger pencil radio top";
+var mnemonic = "resist oil salmon embrace food crime element such swap cannon helmet eager";

@@ -1,1 +1,1 @@
-var mnemonic = "ramp addict casual kick swap spy news romance awake arrive denial prevent";
+var mnemonic = "place axis broccoli trap winter expand slow category gate veteran room south";

@@ -1,1 +1,1 @@
-var mnemonic = "weird prison truck defense clap question churn depend flash swear reason pass";
+var mnemonic = "smart letter exclude plug maid physical moment dog venue invest amused busy";

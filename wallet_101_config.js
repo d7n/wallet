@@ -1,1 +1,1 @@
-var mnemonic = "source neutral hurdle great marble bicycle dwarf cannon mimic follow stereo solid";
+var mnemonic = "novel quiz stuff clay boy topic boss assist have rigid bitter sea";

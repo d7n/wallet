@@ -1,1 +1,1 @@
-var mnemonic = "bacon label female trip minute pen journey thumb neither concert theory truly";
+var mnemonic = "talent captain two force umbrella spend impact question cargo night scare fitness";

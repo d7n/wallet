@@ -1,1 +1,1 @@
-var mnemonic = "scale move rain three record hotel minimum happy seven banner spread script";
+var mnemonic = "crash misery cycle barrel visit insect destroy beach veteran chuckle weather unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "park burden crew order idea food crush entry antenna feature danger spot";
+var mnemonic = "poem devote field express saddle tree release tonight treat cat fury champion";

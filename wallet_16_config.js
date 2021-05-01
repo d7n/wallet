@@ -1,1 +1,1 @@
-var mnemonic = "check daughter point blanket calm session boy trumpet honey crawl ridge fever";
+var mnemonic = "once sausage chase myself below lock pupil truth oppose hard spray crumble";

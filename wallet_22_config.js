@@ -1,1 +1,1 @@
-var mnemonic = "beyond album focus congress correct victory shed section tray shallow firm direct";
+var mnemonic = "people brown veteran reflect such scale boost scene clog hidden book exact";

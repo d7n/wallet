@@ -1,1 +1,1 @@
-var mnemonic = "hire luxury garage tonight deputy inquiry chase thank prize whip rapid choice";
+var mnemonic = "vital convince catalog relief fancy rigid define mansion ecology rug edit knife";

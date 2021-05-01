@@ -1,1 +1,1 @@
-var mnemonic = "quarter pudding cage spin stool squirrel certain chase pill trap scare wire";
+var mnemonic = "attract educate dream hurdle setup catch discover bunker whip pilot fit curtain";

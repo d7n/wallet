@@ -1,1 +1,1 @@
-var mnemonic = "angle enable machine estate soda inflict picnic tiger display market deny cushion";
+var mnemonic = "draft winner company pencil match noble holiday time modify vacuum hammer logic";

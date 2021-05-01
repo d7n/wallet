@@ -1,1 +1,1 @@
-var mnemonic = "dirt over tuna olympic fiscal brush differ neglect exact grid fire loyal";
+var mnemonic = "collect say segment agent adult swim galaxy robust reduce trust easy leave";

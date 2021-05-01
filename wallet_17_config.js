@@ -1,1 +1,1 @@
-var mnemonic = "inner train bread scale version hazard choose aware attack sand process dice";
+var mnemonic = "pause shiver hollow curve south lake believe early replace segment voice grocery";

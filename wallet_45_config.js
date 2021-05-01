@@ -1,1 +1,1 @@
-var mnemonic = "sniff scale shell absorb maze icon stamp satisfy movie bleak actor fitness";
+var mnemonic = "design typical test wood right reward fiscal photo recipe remember emotion vehicle";

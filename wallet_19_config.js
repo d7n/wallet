@@ -1,1 +1,1 @@
-var mnemonic = "gospel announce track brisk awful gasp force fantasy uncover pulse way spare";
+var mnemonic = "warrior shock foot ride oven ignore perfect broken monster arrange ticket rival";

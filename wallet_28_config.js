@@ -1,1 +1,1 @@
-var mnemonic = "payment trophy idea job task escape gravity cricket fetch among slab kangaroo";
+var mnemonic = "mobile axis rural library afford knock helmet fluid cage frog impact slight";

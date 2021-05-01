@@ -1,1 +1,1 @@
-var mnemonic = "caught tonight load blade drill patrol chest ceiling east enjoy jungle cabin";
+var mnemonic = "lottery also measure quit oblige bread shed boost insane attitude unfold universe";

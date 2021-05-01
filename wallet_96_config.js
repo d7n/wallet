@@ -1,1 +1,1 @@
-var mnemonic = "rotate click prize fish hazard tenant mechanic riot festival fancy cigar render";
+var mnemonic = "conduct skate penalty tissue coil garlic dolphin symbol stool drama home electric";

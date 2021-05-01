@@ -1,1 +1,1 @@
-var mnemonic = "wise inherit stumble raw ecology winter write nose trade project vehicle ivory";
+var mnemonic = "used affair easily will betray resist advance cross erupt device second educate";

@@ -1,1 +1,1 @@
-var mnemonic = "jump attract glad great search prosper dilemma urge category whip loop memory";
+var mnemonic = "produce cost frequent gown purpose peanut frozen document twin moon amazing slogan";

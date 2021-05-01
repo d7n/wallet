@@ -1,1 +1,1 @@
-var mnemonic = "luxury invite onion torch sample obtain forward quote pause solve save change";
+var mnemonic = "reunion hurt evidence canyon spawn rule bread shallow mosquito hood faith element";

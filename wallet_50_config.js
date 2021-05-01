@@ -1,1 +1,1 @@
-var mnemonic = "shell economy put second gravity congress phone crush bright govern layer truck";
+var mnemonic = "left able live shrimp claim axis clog loud moral argue ship erode";

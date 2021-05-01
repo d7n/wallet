@@ -1,1 +1,1 @@
-var mnemonic = "switch gesture scan dolphin saddle flush very ski effort pass famous rack";
+var mnemonic = "basket car flight list stage candy symptom document skull occur earn endorse";

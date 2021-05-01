@@ -1,1 +1,1 @@
-var mnemonic = "truly witness damp tissue prosper fossil worth keep develop industry fog life";
+var mnemonic = "chuckle upset swamp stool fly piano cabbage item yellow alone occur puppy";
