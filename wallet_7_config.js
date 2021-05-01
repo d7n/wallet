@@ -1,1 +1,1 @@
-var mnemonic = "axis invest noodle earn simple valid slim afford garbage volcano dumb stumble";
+var mnemonic = "salad merit notable visit dad cotton arrange company sense parrot mouse light";

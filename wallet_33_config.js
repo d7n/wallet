@@ -1,1 +1,1 @@
-var mnemonic = "rough equip humble final crack ladder crime kite more shy grocery guide";
+var mnemonic = "sugar weasel double summer idle surface mistake mushroom ready used coin tide";

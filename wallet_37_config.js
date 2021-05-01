@@ -1,1 +1,1 @@
-var mnemonic = "tray shrug bring inch face deposit surface float cram grid error seek";
+var mnemonic = "when round trade sheriff labor small forward shoot improve level brand tomato";

@@ -1,1 +1,1 @@
-var mnemonic = "silk cement enact spray chuckle wood lend sister nut impose escape chest";
+var mnemonic = "dinosaur remind theory critic rude frog honey depart pelican flight harbor digital";

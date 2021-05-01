@@ -1,1 +1,1 @@
-var mnemonic = "soap today giggle recycle nice setup ketchup thumb sausage now harvest wasp";
+var mnemonic = "media convince pottery regular culture drift plug pill grow food abuse rival";

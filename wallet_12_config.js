@@ -1,1 +1,1 @@
-var mnemonic = "lion traffic alpha donate laundry admit combine bean lamp dinosaur blouse glance";
+var mnemonic = "shock long suffer rack pitch dumb more similar lumber limit weekend clown";

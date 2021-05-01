@@ -1,1 +1,1 @@
-var mnemonic = "marine cook coin figure speak depend segment lucky debate mix relief trim";
+var mnemonic = "kit crime jewel hat swamp earn banner nominee calm already trash file";

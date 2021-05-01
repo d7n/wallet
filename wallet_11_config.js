@@ -1,1 +1,1 @@
-var mnemonic = "loan glove share nice pond bracket budget blossom base list boat habit";
+var mnemonic = "match course office swamp draft devote behave analyst armed begin young prefer";

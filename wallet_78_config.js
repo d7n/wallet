@@ -1,1 +1,1 @@
-var mnemonic = "forum rich medal cube record shy that charge arctic dinosaur knife physical";
+var mnemonic = "dinner prepare gift danger guess allow effort lend future example flag grocery";

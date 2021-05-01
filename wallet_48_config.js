@@ -1,1 +1,1 @@
-var mnemonic = "under receive extend sting bring tumble mistake license oval coral mistake genuine";
+var mnemonic = "dignity betray cage cushion soul robust honey any robot liar idle lucky";

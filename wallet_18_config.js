@@ -1,1 +1,1 @@
-var mnemonic = "glare energy person daughter possible vital strike grain rely bounce arctic rail";
+var mnemonic = "train labor chicken make gallery bundle lift minute pride yellow enable arm";

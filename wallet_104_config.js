@@ -1,1 +1,1 @@
-var mnemonic = "express release fragile auction liar describe couple kid fade cattle bread clump";
+var mnemonic = "swing release pair horn joy giant scrap now more method private midnight";

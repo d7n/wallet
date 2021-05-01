@@ -1,1 +1,1 @@
-var mnemonic = "attend pause spoon ankle trade today stock flee crisp cereal pepper topic";
+var mnemonic = "okay option auto actor globe soft chair trigger window cannon faith repair";

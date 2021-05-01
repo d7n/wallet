@@ -1,1 +1,1 @@
-var mnemonic = "have region build where claw deposit tank bind grant one misery talk";
+var mnemonic = "below cargo fish denial skill various sure orbit pupil cute category slow";

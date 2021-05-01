@@ -1,1 +1,1 @@
-var mnemonic = "vivid word pigeon night table thought balance farm ability upset rough where";
+var mnemonic = "recycle pitch render heavy message sweet fury truck drop arrange coconut carry";

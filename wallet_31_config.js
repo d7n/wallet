@@ -1,1 +1,1 @@
-var mnemonic = "chalk movie awful situate purity guide fashion pumpkin have fantasy member actor";
+var mnemonic = "enjoy sustain square rich river merry void clock fashion genre syrup adjust";

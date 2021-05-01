@@ -1,1 +1,1 @@
-var mnemonic = "drama civil tank donate elegant found fancy detect intact shiver security universe";
+var mnemonic = "author verb fiber father someone cannon above senior piece uniform deliver morning";

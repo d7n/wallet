@@ -1,1 +1,1 @@
-var mnemonic = "nasty express music defense jungle region stage suspect mule sound donor song";
+var mnemonic = "clay talent hard boil clap mandate fitness range shove genius push trial";

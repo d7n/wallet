@@ -1,1 +1,1 @@
-var mnemonic = "cry fiber trap rally nest average autumn arch amused depth foster disease";
+var mnemonic = "forward fabric bicycle address smooth fabric lecture home genuine magnet lottery clever";

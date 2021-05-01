@@ -1,1 +1,1 @@
-var mnemonic = "into real appear range true lawsuit enroll guilt sponsor good shy boost";
+var mnemonic = "link company video junior raw winner usage misery blast dune kind bounce";

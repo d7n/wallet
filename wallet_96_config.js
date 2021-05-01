@@ -1,1 +1,1 @@
-var mnemonic = "inquiry chief autumn burden build that april average brass suit put reform";
+var mnemonic = "surprise slim candy fitness always talk sight core bracket mom debate try";

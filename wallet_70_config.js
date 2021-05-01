@@ -1,1 +1,1 @@
-var mnemonic = "poem silly test talk fever snake scissors above excite cup wrong mechanic";
+var mnemonic = "odor caution power flip repeat traffic clog online volcano eagle order employ";

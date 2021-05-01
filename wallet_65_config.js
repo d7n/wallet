@@ -1,1 +1,1 @@
-var mnemonic = "two damp phrase pudding all oak scrap alley chunk embody demand asset";
+var mnemonic = "quality wisdom daughter theory leisure dinosaur cricket file fetch plate must slush";

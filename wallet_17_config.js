@@ -1,1 +1,1 @@
-var mnemonic = "hollow sort lounge cotton color peanut become scrap extend very hour enforce";
+var mnemonic = "hat erosion ripple addict swift sport calm that sight position disagree tennis";

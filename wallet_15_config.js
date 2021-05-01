@@ -1,1 +1,1 @@
-var mnemonic = "main flame drama now field grow vault dinosaur pupil chronic tenant pink";
+var mnemonic = "crowd century path stereo adjust trend tree today bean error material hire";

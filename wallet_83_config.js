@@ -1,1 +1,1 @@
-var mnemonic = "payment clog strike portion improve area garbage hurt trim earth execute right";
+var mnemonic = "rookie canyon web later keen arena arrest crazy upset hover basic worth";

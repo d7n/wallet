@@ -1,1 +1,1 @@
-var mnemonic = "matrix stadium record grocery engage rack cake apple creek nature winner buzz";
+var mnemonic = "tuna danger lesson quit kitten regular debris inch frame where error game";

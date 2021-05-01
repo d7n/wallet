@@ -1,1 +1,1 @@
-var mnemonic = "bamboo silk radio ridge puzzle verify design cost stable human bunker entry";
+var mnemonic = "puzzle method spoil fiber come loyal discover wrist casino then enlist reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "piece profit amateur cry funny spin upper ketchup gesture viable index potato";
+var mnemonic = "zoo lawsuit sponsor tooth snow blame answer write dial include dwarf assault";

@@ -1,1 +1,1 @@
-var mnemonic = "regret bread bike impulse charge brush lunch gorilla prosper raccoon unlock horn";
+var mnemonic = "edit anxiety cheese truth alter desk hold survey saddle jealous into sort";

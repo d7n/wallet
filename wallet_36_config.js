@@ -1,1 +1,1 @@
-var mnemonic = "glare glue usage sure census canal winter ice weapon taste exist galaxy";
+var mnemonic = "people tip clerk brain pretty brave dizzy argue dose celery novel whip";

@@ -1,1 +1,1 @@
-var mnemonic = "right grocery myself machine winter skate family fury carry snow flower piece";
+var mnemonic = "clever frozen broom lesson sketch segment harsh tone horn mirror tomato exhibit";

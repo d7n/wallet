@@ -1,1 +1,1 @@
-var mnemonic = "file ghost eagle net lift diagram warm heart ginger opera save virtual";
+var mnemonic = "bacon combine usage steak hint scrap tornado green peasant twenty kitten cause";

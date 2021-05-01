@@ -1,1 +1,1 @@
-var mnemonic = "obvious limb loyal muffin whip alley start hint stick leave planet measure";
+var mnemonic = "rural foam always weasel jeans viable put absorb page turtle orange demise";

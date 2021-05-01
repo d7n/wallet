@@ -1,1 +1,1 @@
-var mnemonic = "immune screen metal jelly slender letter draft cycle veteran poet senior pink";
+var mnemonic = "federal worry disagree parade faculty wine argue donkey police review ski joke";

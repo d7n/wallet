@@ -1,1 +1,1 @@
-var mnemonic = "wood improve leader dinner region cargo possible sock evil slide vicious scare";
+var mnemonic = "heart addict brass enforce harsh mosquito muscle deer ring clog peasant cave";

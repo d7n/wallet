@@ -1,1 +1,1 @@
-var mnemonic = "enter foil answer captain fix credit park shrug resource arrange vast possible";
+var mnemonic = "live churn mushroom autumn patient ranch tunnel mom merge lawsuit miss spend";

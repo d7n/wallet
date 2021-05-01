@@ -1,1 +1,1 @@
-var mnemonic = "palm arch bounce volcano load frost entry squirrel shift tone burst put";
+var mnemonic = "daughter guitar flee woman state aisle stumble shield wall mention praise insane";

@@ -1,1 +1,1 @@
-var mnemonic = "quit deer genius intact tattoo result pig inspire wife talk narrow hint";
+var mnemonic = "acoustic wheat fish squirrel tiny body artist volcano shuffle song noise correct";

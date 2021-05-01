@@ -1,1 +1,1 @@
-var mnemonic = "scale sad monitor suit able display tooth practice sausage space heavy group";
+var mnemonic = "thing hope inmate conduct olympic mesh tooth install urge isolate boss wash";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle culture party scorpion banner cricket capital affair hobby describe stable endorse";
+var mnemonic = "certain want injury episode vivid loop matrix lemon strong goat history version";

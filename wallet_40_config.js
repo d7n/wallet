@@ -1,1 +1,1 @@
-var mnemonic = "excuse find heavy monitor gown giggle stem energy casino spike obvious salt";
+var mnemonic = "diamond sure betray scorpion blue social way daughter project pride unusual mimic";

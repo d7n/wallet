@@ -1,1 +1,1 @@
-var mnemonic = "token always park scorpion february chef unhappy spot illness secret drum hint";
+var mnemonic = "hollow cotton require tragic school visit interest music make second reveal print";

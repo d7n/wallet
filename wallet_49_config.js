@@ -1,1 +1,1 @@
-var mnemonic = "jealous actress wrong almost worry area throw feature dilemma setup struggle market";
+var mnemonic = "animal sock resource kingdom broken spring balcony net sight shop dumb ankle";

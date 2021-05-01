@@ -1,1 +1,1 @@
-var mnemonic = "figure opera victory army glance fame potato pact pluck net couple acid";
+var mnemonic = "glove gown fault frown lock orchard proof magnet vehicle mom hour reflect";

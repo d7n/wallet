@@ -1,1 +1,1 @@
-var mnemonic = "bring nice select jelly maple among liberty evidence opera toast share clock";
+var mnemonic = "zone admit avoid husband breeze guilt december smart wide tonight busy cycle";

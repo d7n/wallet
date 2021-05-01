@@ -1,1 +1,1 @@
-var mnemonic = "blanket there real will swift pave asset skull over inside educate gain";
+var mnemonic = "kick vintage tuition heavy bitter trend hold employ attack lab remove cup";

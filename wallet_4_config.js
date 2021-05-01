@@ -1,1 +1,1 @@
-var mnemonic = "antenna mushroom meadow divert man sort cute agree march student exhaust high";
+var mnemonic = "arctic fog tongue divorce one cradle basic list inflict thrive noise next";

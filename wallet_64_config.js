@@ -1,1 +1,1 @@
-var mnemonic = "desert alley liar garden useful case hero race roast answer forget subway";
+var mnemonic = "apple slide school few visit discover fancy three long where satoshi glare";

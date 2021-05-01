@@ -1,1 +1,1 @@
-var mnemonic = "eager exhibit dirt alarm glow throw learn salad energy swim size vault";
+var mnemonic = "cram master theory mirror real require train live burger suspect drink library";

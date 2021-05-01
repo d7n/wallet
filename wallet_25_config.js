@@ -1,1 +1,1 @@
-var mnemonic = "tape one aware canvas casual ivory inform kingdom vocal various quarter hunt";
+var mnemonic = "awkward head cry twenty steel romance hero sport genius print thank develop";

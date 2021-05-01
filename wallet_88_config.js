@@ -1,1 +1,1 @@
-var mnemonic = "toy crack tide guard expect upon bid sleep van nut material dial";
+var mnemonic = "pigeon aspect unusual torch science faint divert magnet minimum bleak abstract pumpkin";

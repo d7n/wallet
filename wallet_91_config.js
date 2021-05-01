@@ -1,1 +1,1 @@
-var mnemonic = "unit mention absurd rubber planet cost public permit advice keen hybrid buzz";
+var mnemonic = "city doll defy random calm december lunar struggle advance concert job daring";

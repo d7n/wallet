@@ -1,1 +1,1 @@
-var mnemonic = "any prevent swim shadow wedding recycle misery sentence brisk wheel cereal upset";
+var mnemonic = "clarify sound ignore milk claim choice topple element capable identify drum chief";

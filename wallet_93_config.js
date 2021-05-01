@@ -1,1 +1,1 @@
-var mnemonic = "van atom caution install deposit home fine fantasy filter harvest very sentence";
+var mnemonic = "brief depth tongue net clown concert settle shoot pride identify army wash";

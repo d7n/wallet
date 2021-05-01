@@ -1,1 +1,1 @@
-var mnemonic = "knee have fit soccer orient achieve axis cliff tired invite speed whale";
+var mnemonic = "caught cage exhibit owner weather jeans make test horse emerge bonus pink";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial warm click piano lab canyon swarm lumber quarter volume expose dignity";
+var mnemonic = "artefact tree hello novel remove whip forward rose congress net hundred magic";

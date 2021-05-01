@@ -1,1 +1,1 @@
-var mnemonic = "hunt play around rotate latin gravity muscle vacuum law prevent expand uniform";
+var mnemonic = "raven hurry pluck learn asthma era purse apart impulse boring rotate trash";

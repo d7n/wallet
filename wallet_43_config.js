@@ -1,1 +1,1 @@
-var mnemonic = "science candy idea stone balance squeeze uncle still drift traffic physical define";
+var mnemonic = "cover govern portion doctor laundry step cage broccoli reduce two erosion idea";

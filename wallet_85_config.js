@@ -1,1 +1,1 @@
-var mnemonic = "awesome pottery eight roof goddess dad obey replace actual pony trend valley";
+var mnemonic = "still moment giant reduce head latin sadness blush search convince hamster oblige";

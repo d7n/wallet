@@ -1,1 +1,1 @@
-var mnemonic = "wire recycle zero section uncover box leave discover inmate solution ordinary abstract";
+var mnemonic = "paddle extend insane minor mirror quiz sound knock filter upgrade prison detail";

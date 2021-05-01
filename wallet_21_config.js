@@ -1,1 +1,1 @@
-var mnemonic = "elevator song clock fog fever trumpet equip imitate dose later crush speed";
+var mnemonic = "mutual bracket copy tomato grief agent index feature prosper sketch hedgehog urge";

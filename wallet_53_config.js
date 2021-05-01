@@ -1,1 +1,1 @@
-var mnemonic = "equal pause police rate wood zoo direct wait promote exit viable unit";
+var mnemonic = "news sniff warm december leader update mercy heavy lens vintage rule cost";

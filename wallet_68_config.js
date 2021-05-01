@@ -1,1 +1,1 @@
-var mnemonic = "cake mushroom velvet fatal attack session east steel dial page indicate catalog";
+var mnemonic = "awesome fly welcome top net harvest volume connect chat draw census misery";

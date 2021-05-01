@@ -1,1 +1,1 @@
-var mnemonic = "choice scale axis employ link check average pigeon gym ritual stock inside";
+var mnemonic = "false gasp print blade avoid tornado drill typical furnace toe uniform chaos";

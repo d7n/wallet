@@ -1,1 +1,1 @@
-var mnemonic = "brother shock pulp cheap dry keen remove regret alarm move party brief";
+var mnemonic = "civil front lawn settle praise mind ill jewel original air gasp blur";

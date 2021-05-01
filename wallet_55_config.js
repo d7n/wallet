@@ -1,1 +1,1 @@
-var mnemonic = "puppy stock fix owner danger toss grass magnet library volcano firm pulp";
+var mnemonic = "submit obey swift canoe eagle sense orchard leave copper guitar cabin emotion";

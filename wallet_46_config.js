@@ -1,1 +1,1 @@
-var mnemonic = "trim upper prefer impose east mountain coil disorder salute man slow hand";
+var mnemonic = "tackle milk vintage wear half coil meadow black turn resist door argue";

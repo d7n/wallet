@@ -1,1 +1,1 @@
-var mnemonic = "parrot wave possible assault crush good couch wasp film yellow version return";
+var mnemonic = "priority panic home seat dish damp alter glow rhythm choose deny feed";

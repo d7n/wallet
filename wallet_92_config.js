@@ -1,1 +1,1 @@
-var mnemonic = "wasp mansion make learn bag swamp useless honey jealous shrug hotel oppose";
+var mnemonic = "grow kitten blood frown front clinic tape flag excuse there profit avoid";

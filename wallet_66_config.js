@@ -1,1 +1,1 @@
-var mnemonic = "opera ability attack smooth board wool right orient can mountain hope dilemma";
+var mnemonic = "filter level cannon supply extend expire enrich forward clip aisle hollow pair";

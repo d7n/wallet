@@ -1,1 +1,1 @@
-var mnemonic = "arena cost visit sleep eyebrow avocado shuffle pet liar exhaust employ gas";
+var mnemonic = "start run bulb rare peace theme snap until sing toast evoke lion";

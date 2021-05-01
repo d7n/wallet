@@ -1,1 +1,1 @@
-var mnemonic = "country under snack hospital pull wash monkey wine elbow perfect swing detect";
+var mnemonic = "problem price hidden visit broom hospital ensure reason diesel plunge shine ignore";

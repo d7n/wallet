@@ -1,1 +1,1 @@
-var mnemonic = "clock trust fish enough abstract essence public matrix afford wage tilt horror";
+var mnemonic = "hello expose step often rug shoot spawn pulse yard injury ugly candy";

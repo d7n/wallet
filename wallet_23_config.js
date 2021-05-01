@@ -1,1 +1,1 @@
-var mnemonic = "copper girl extend tribe false light choose piano ketchup aim icon slow";
+var mnemonic = "step explain fresh entire spy during anchor high strong wife define orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust dynamic slam vessel panel muffin quit scorpion atom expire girl course";
+var mnemonic = "suggest random toilet liberty heart custom strategy over rescue move orange question";

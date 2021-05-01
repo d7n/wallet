@@ -1,1 +1,1 @@
-var mnemonic = "fault recipe depth moral inspire gravity innocent junior cement retreat dad vocal";
+var mnemonic = "author broom tilt safe skin palace gauge together educate trick slice noise";

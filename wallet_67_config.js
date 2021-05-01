@@ -1,1 +1,1 @@
-var mnemonic = "pony effort bench lab element napkin rule enhance guide canyon shield exhibit";
+var mnemonic = "fatigue bacon purity eager baby measure brand board exhibit copper slender bid";

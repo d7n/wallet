@@ -1,1 +1,1 @@
-var mnemonic = "bullet tilt nuclear ensure identify magnet february wheat huge oval scale faith";
+var mnemonic = "smooth cancel dragon alpha legend lake illegal lamp release skirt throw put";

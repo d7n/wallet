@@ -1,1 +1,1 @@
-var mnemonic = "october file sketch satisfy curve make subway avocado girl bachelor pony business";
+var mnemonic = "powder acid sea hint report verify hotel hollow dash fan skate crush";

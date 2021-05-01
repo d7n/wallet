@@ -1,1 +1,1 @@
-var mnemonic = "control major silent genre sick dad tiny visa ten endorse notable choice";
+var mnemonic = "busy over estate accident receive riot wealth inch income hunt mail symbol";

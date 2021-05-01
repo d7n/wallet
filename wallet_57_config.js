@@ -1,1 +1,1 @@
-var mnemonic = "region ranch exact time crawl churn robust file acquire intact music desert";
+var mnemonic = "section size slogan leaf vapor ribbon wedding subway order diary blanket school";

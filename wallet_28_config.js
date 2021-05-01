@@ -1,1 +1,1 @@
-var mnemonic = "quantum wait express turtle occur illness style pear narrow wheat earth nice";
+var mnemonic = "tunnel pave lesson reward junk reject sea easily embrace better coyote also";

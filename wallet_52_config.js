@@ -1,1 +1,1 @@
-var mnemonic = "lonely stable neck various define winter entire song rose girl canoe exclude";
+var mnemonic = "suggest box lucky allow cage history bundle lens gun suggest swing broccoli";

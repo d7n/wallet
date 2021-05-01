@@ -1,1 +1,1 @@
-var mnemonic = "boil this amateur deer primary seek tired recipe result name garage mule";
+var mnemonic = "donkey kitten shuffle almost essence host trust envelope salon indoor rain festival";

@@ -1,1 +1,1 @@
-var mnemonic = "strong ozone energy bridge elephant pistol tennis bar sugar valve bitter total";
+var mnemonic = "journey vote multiply orphan increase wear blood type object trigger tomato hub";

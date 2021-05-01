@@ -1,1 +1,1 @@
-var mnemonic = "hawk hole gallery clap atom must dolphin relief category snake poverty nation";
+var mnemonic = "spike decade bid pepper link thank brother ski bitter seed increase harbor";

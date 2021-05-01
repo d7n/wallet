@@ -1,1 +1,1 @@
-var mnemonic = "spatial grid plug limb useless phrase few fossil drum ankle leg cushion";
+var mnemonic = "tortoise coin action deputy wait stove improve quiz elbow indoor tomato veteran";

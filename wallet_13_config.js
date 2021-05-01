@@ -1,1 +1,1 @@
-var mnemonic = "tribe pen habit robust upset program discover shallow melt drama crater chief";
+var mnemonic = "script raven fossil citizen future orchard joke nominee liberty rose bleak ancient";

@@ -1,1 +1,1 @@
-var mnemonic = "film aspect sausage mountain aunt thing ivory busy trap excuse short view";
+var mnemonic = "finger business sign change patrol decorate van mass purse empty agree bullet";

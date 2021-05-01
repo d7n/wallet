@@ -1,1 +1,1 @@
-var mnemonic = "month purse fade return together ring total east vital infant orbit wait";
+var mnemonic = "canal split guess axis amateur shop digital noble verify point ahead increase";
