@@ -1,1 +1,1 @@
-var mnemonic = "exotic dad gain grunt drive august grocery patient liquid hockey plate rival";
+var mnemonic = "neutral prefer armor feature hover predict galaxy scene beauty sword inhale cat";

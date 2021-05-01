@@ -1,1 +1,1 @@
-var mnemonic = "venue double rule tuition device love debate lobster desk public ritual vote";
+var mnemonic = "chimney step april caution exchange level vital stick adjust wash assist achieve";

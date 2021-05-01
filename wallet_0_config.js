@@ -1,1 +1,1 @@
-var mnemonic = "tape riot settle bonus plate caught veteran desert title people core veteran";
+var mnemonic = "nephew meadow sauce two reject moment bamboo token pelican muffin tunnel market";

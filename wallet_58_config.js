@@ -1,1 +1,1 @@
-var mnemonic = "pole clever machine wrap measure knock panther glide lumber stem clinic hotel";
+var mnemonic = "alcohol october tenant symptom force chuckle diary grunt now noise people power";

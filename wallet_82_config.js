@@ -1,1 +1,1 @@
-var mnemonic = "air kiwi adjust arrest annual suggest expose hat seminar raw naive guitar";
+var mnemonic = "absent panel wrap chef angle boost diet silly float prepare spy couch";

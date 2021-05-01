@@ -1,1 +1,1 @@
-var mnemonic = "giant jelly hidden silk sister evil narrow celery blue simple hungry ball";
+var mnemonic = "bomb rubber raise hero advance salmon pigeon paddle topic purse mesh second";

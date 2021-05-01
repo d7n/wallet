@@ -1,1 +1,1 @@
-var mnemonic = "click gentle toy cement fantasy verb assault state price panda funny horn";
+var mnemonic = "fire dose dismiss target price must youth father laundry seat bird mobile";

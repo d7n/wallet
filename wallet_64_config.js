@@ -1,1 +1,1 @@
-var mnemonic = "all recall decrease region calm receive bronze because crazy dream skill abandon";
+var mnemonic = "afraid defy dirt demand penalty affair flat express elite around shrimp enable";

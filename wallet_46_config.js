@@ -1,1 +1,1 @@
-var mnemonic = "fresh card field frost rice forest crystal sausage identify term noise estate";
+var mnemonic = "unhappy flavor bachelor quarter expect language cost staff belt result special such";

@@ -1,1 +1,1 @@
-var mnemonic = "future tuition clock toilet resemble blur check peace spatial season scout project";
+var mnemonic = "chunk lion magnet prosper card law museum ahead drastic pact short coil";

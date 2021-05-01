@@ -1,1 +1,1 @@
-var mnemonic = "lecture segment minute good produce sponsor sign asthma december rose nephew miss";
+var mnemonic = "regret expose cycle utility tissue cushion lawsuit lawn idea banner social oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet indoor canal candy cargo celery ceiling access opinion yellow depend pony";
+var mnemonic = "become repeat garment festival fee farm cart notice spin boil jeans chaos";

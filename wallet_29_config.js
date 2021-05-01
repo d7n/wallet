@@ -1,1 +1,1 @@
-var mnemonic = "wise vague that chuckle scrap solve ice excess guess pretty circle rally";
+var mnemonic = "few trip bike render village organ require valve excess aim always verb";

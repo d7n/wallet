@@ -1,1 +1,1 @@
-var mnemonic = "rose ask question cluster attract process time view wine divorce tobacco because";
+var mnemonic = "nose action arch end endless pool panther swift behind increase cancel forum";

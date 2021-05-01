@@ -1,1 +1,1 @@
-var mnemonic = "supply beach mean letter unhappy seven label vote aware field sort aerobic";
+var mnemonic = "game book announce cruel become save cinnamon soap smart stuff wrap amused";

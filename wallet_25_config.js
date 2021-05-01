@@ -1,1 +1,1 @@
-var mnemonic = "notice crash weekend club rely tobacco album rally fit pear club chunk";
+var mnemonic = "parrot media avoid lizard gospel during lecture educate maple cabin net moment";

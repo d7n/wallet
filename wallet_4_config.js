@@ -1,1 +1,1 @@
-var mnemonic = "amazing label away arena narrow elder public goose inherit such near girl";
+var mnemonic = "admit crater belt mule pave have dog intact drift style swing panther";

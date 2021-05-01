@@ -1,1 +1,1 @@
-var mnemonic = "bunker behind govern elegant earn catalog toss life dad castle social random";
+var mnemonic = "insect beyond pupil lab legend blame goat delay vanish business finger bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "oil burden gift water jazz mesh actress guilt badge ship coast pattern";
+var mnemonic = "job version help chuckle success parrot aunt knock unveil dish giraffe current";

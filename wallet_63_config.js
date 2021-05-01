@@ -1,1 +1,1 @@
-var mnemonic = "thunder jewel select expect tattoo hurdle powder mansion twenty banana dirt trip";
+var mnemonic = "more twenty visit theme media ball script cry ketchup banana lumber there";

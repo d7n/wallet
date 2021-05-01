@@ -1,1 +1,1 @@
-var mnemonic = "learn estate heavy scout inherit sing acoustic dutch ozone mistake color bring";
+var mnemonic = "truck bring float make short pig cost swap lunar close observe betray";

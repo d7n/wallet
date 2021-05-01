@@ -1,1 +1,1 @@
-var mnemonic = "nephew fit save year phone learn injury train absurd west glimpse select";
+var mnemonic = "true dog sell develop truth chimney purchase good arrange slim february arm";

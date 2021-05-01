@@ -1,1 +1,1 @@
-var mnemonic = "erase major notice vital duck nasty lamp open person pull caution bunker";
+var mnemonic = "abuse head enhance case organ sight guess shoot proud predict ancient attend";

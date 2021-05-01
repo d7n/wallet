@@ -1,1 +1,1 @@
-var mnemonic = "elbow easy shadow evolve trouble next tortoise exhibit indoor brass bar cross";
+var mnemonic = "torch debate cattle expose cupboard steak dog join core sketch lab divorce";

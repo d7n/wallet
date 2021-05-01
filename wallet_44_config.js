@@ -1,1 +1,1 @@
-var mnemonic = "vital young echo carbon evolve clinic swift believe armed lumber impulse flight";
+var mnemonic = "treat cash repair beauty tank inside impact same manual poet attack loop";

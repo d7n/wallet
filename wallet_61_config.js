@@ -1,1 +1,1 @@
-var mnemonic = "fatigue unique country unlock vapor pink bachelor salon satoshi right include mechanic";
+var mnemonic = "response plastic accuse summer oval middle interest analyst brown sunny squeeze design";

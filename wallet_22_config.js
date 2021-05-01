@@ -1,1 +1,1 @@
-var mnemonic = "gasp case dash renew bone remove moral hazard include surprise matrix puzzle";
+var mnemonic = "funny coral system asthma lucky alley future cannon frequent mountain tape manage";

@@ -1,1 +1,1 @@
-var mnemonic = "silly primary shoe ripple laundry noise monster dove cloud claim dolphin flip";
+var mnemonic = "spring praise bag cup win monitor clay near level office onion seed";

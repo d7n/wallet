@@ -1,1 +1,1 @@
-var mnemonic = "sleep detail cheese surge gossip earn chef scrub wrong swing gold render";
+var mnemonic = "unit bus minute juice vacuum tobacco cradle render label what concert rely";

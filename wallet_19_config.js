@@ -1,1 +1,1 @@
-var mnemonic = "increase slide kit jacket lunch service short nose obey unfair fragile skill";
+var mnemonic = "bracket grant tenant please sword victory loan border bean gloom alarm travel";

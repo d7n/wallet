@@ -1,1 +1,1 @@
-var mnemonic = "away transfer plug define warm saddle force spray frame hole team liquid";
+var mnemonic = "deliver soft december park since tool such tilt comfort furnace scan bone";

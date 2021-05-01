@@ -1,1 +1,1 @@
-var mnemonic = "main radio foil elegant visual course shrimp practice man honey jacket destroy";
+var mnemonic = "wait party scheme sponsor tackle arctic life know record submit reveal miracle";

@@ -1,1 +1,1 @@
-var mnemonic = "orange ladder camera boy gap innocent empower girl either inner sense burger";
+var mnemonic = "material slam alien issue luggage sell absurd inner august garage east boss";

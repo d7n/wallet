@@ -1,1 +1,1 @@
-var mnemonic = "shrimp enough way across advice ring audit battle cup desk city reform";
+var mnemonic = "differ power like laundry boat gorilla scheme upgrade inside carpet settle capital";

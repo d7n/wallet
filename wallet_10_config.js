@@ -1,1 +1,1 @@
-var mnemonic = "virtual keep salad explain input enough keep state dumb path stamp upper";
+var mnemonic = "expect sunny fee topic scout ladder ignore lucky melody barrel hover space";

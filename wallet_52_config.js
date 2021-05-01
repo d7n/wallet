@@ -1,1 +1,1 @@
-var mnemonic = "sadness salmon town sort enrich double guide employ bulb dentist rain hair";
+var mnemonic = "weather cup enrich output fortune legal dream damp deer deliver beach curtain";

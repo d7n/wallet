@@ -1,1 +1,1 @@
-var mnemonic = "skill wet need coffee very moment private unhappy limb gospel feature sibling";
+var mnemonic = "victory scheme puppy evil apology floor giraffe rocket plunge equal enforce tank";

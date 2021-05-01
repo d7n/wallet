@@ -1,1 +1,1 @@
-var mnemonic = "skirt found purpose garment team hotel gravity isolate lobster pistol sponsor barrel";
+var mnemonic = "absent mixture air small grid lake brief real course nephew cinnamon addict";

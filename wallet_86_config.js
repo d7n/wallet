@@ -1,1 +1,1 @@
-var mnemonic = "hub protect float milk enlist wrong situate unfold prepare payment frown race";
+var mnemonic = "depart ramp squeeze drama crystal slab bomb express lumber beach wave drip";

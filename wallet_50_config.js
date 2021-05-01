@@ -1,1 +1,1 @@
-var mnemonic = "pill until nation wrap gap scheme forget opinion flavor height liquid best";
+var mnemonic = "myself away whip episode rigid style benefit element entire history chest patch";

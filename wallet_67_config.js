@@ -1,1 +1,1 @@
-var mnemonic = "essence aerobic market correct toe endless make upper broccoli dove stadium obtain";
+var mnemonic = "movie sound boring moral soda play thing olympic budget remind sure body";

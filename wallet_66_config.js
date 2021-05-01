@@ -1,1 +1,1 @@
-var mnemonic = "salmon spice silent chat feel cancel myth dream alert trap before shell";
+var mnemonic = "mask glare enough million hundred can fabric credit tilt when equal twist";

@@ -1,1 +1,1 @@
-var mnemonic = "visual marine blame random toast denial concert artist monster click wage wrong";
+var mnemonic = "tonight giggle shrimp fruit mimic undo humble join identify web unit share";

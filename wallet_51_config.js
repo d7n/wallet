@@ -1,1 +1,1 @@
-var mnemonic = "myth civil advice notice domain appear win simple walk shiver extra share";
+var mnemonic = "outdoor venue champion dismiss undo garbage slot clever satoshi waste rotate input";

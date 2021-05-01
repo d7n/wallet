@@ -1,1 +1,1 @@
-var mnemonic = "trumpet diamond world repeat spatial text envelope impulse digital maple verify palm";
+var mnemonic = "gorilla chief raccoon dynamic suffer hungry couple suspect wet nice inquiry patient";

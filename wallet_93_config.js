@@ -1,1 +1,1 @@
-var mnemonic = "motor home piano swear pistol minimum cabbage magnet chief autumn breeze public";
+var mnemonic = "tortoise swing net spoon together rocket truly since market kiss main wave";

@@ -1,1 +1,1 @@
-var mnemonic = "endless casino danger nice candy agree execute unit march trip change differ";
+var mnemonic = "frequent before double very ramp client black olive target decade kiwi three";

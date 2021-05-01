@@ -1,1 +1,1 @@
-var mnemonic = "access found cruise flame shadow basic camera acid vast liar minute pepper";
+var mnemonic = "alter summer wish seed crater actress slender vacant vital habit illegal exhibit";

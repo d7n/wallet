@@ -1,1 +1,1 @@
-var mnemonic = "omit goat easily finish amateur bright betray exact adult panda hood cement";
+var mnemonic = "visual only scene planet hundred flat march dynamic leaf always believe laugh";

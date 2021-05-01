@@ -1,1 +1,1 @@
-var mnemonic = "sleep enemy attend weather seed pond age miss day sea giant evoke";
+var mnemonic = "popular hour old pull protect category drink arrange reopen toward mention ginger";

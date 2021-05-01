@@ -1,1 +1,1 @@
-var mnemonic = "inquiry raccoon print yard weasel crane execute fly lounge subway suggest sniff";
+var mnemonic = "defy suffer guard scene arrive steak sail move hen play cattle guilt";

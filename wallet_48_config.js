@@ -1,1 +1,1 @@
-var mnemonic = "hidden gather raccoon unfair lake frequent waste match give club evolve shy";
+var mnemonic = "hungry critic skate wrestle thought winner energy mercy picnic radio wife palace";

@@ -1,1 +1,1 @@
-var mnemonic = "sick fabric net dream bag sea theory enact slogan paddle crop high";
+var mnemonic = "scrap company entire dial two crater brisk toddler impact trash fall sudden";

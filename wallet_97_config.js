@@ -1,1 +1,1 @@
-var mnemonic = "gate spring vast sense credit derive minute stand orbit razor skirt army";
+var mnemonic = "old glove glimpse poem already chapter smoke palm party mechanic outside deer";

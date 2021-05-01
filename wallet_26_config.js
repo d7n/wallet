@@ -1,1 +1,1 @@
-var mnemonic = "onion cry vast project hat armed budget sauce crop ridge stomach bird";
+var mnemonic = "season athlete dwarf garlic perfect solid town child glance vote narrow faculty";

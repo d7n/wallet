@@ -1,1 +1,1 @@
-var mnemonic = "priority soap laundry hood arrive scrap dust theme nasty twist pluck turn";
+var mnemonic = "tackle sea keep color subway consider section gorilla soul daring neither garage";

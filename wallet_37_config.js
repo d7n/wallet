@@ -1,1 +1,1 @@
-var mnemonic = "acoustic file club subway gift task major dutch equal ugly vague panic";
+var mnemonic = "fix toddler piano bike door crew buyer draw erupt liquid social nose";

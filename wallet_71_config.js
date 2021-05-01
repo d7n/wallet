@@ -1,1 +1,1 @@
-var mnemonic = "tenant patch loan rookie document image people hood caution mansion maze empower";
+var mnemonic = "course way rocket universe mirror scene drink fee decorate credit fence run";

@@ -1,1 +1,1 @@
-var mnemonic = "citizen poet math void boil skull salute razor mimic rapid involve toast";
+var mnemonic = "faint concert sport size arctic dentist prevent jewel idea true fault olympic";

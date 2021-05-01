@@ -1,1 +1,1 @@
-var mnemonic = "emotion tank utility throw chronic ridge guide panda suggest tumble buffalo toward";
+var mnemonic = "inch scare crane execute hen traffic eight employ dream behave bone island";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic honey census diet unfold label poet salute seat action reward scrap";
+var mnemonic = "banana swallow artefact canoe radio blast city amount top pyramid search dignity";

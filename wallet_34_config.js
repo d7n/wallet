@@ -1,1 +1,1 @@
-var mnemonic = "wire soldier pitch fork network old abandon pyramid hundred chalk detail turtle";
+var mnemonic = "cradle average long improve year gown connect orbit glad scene battle deposit";

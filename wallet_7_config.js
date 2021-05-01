@@ -1,1 +1,1 @@
-var mnemonic = "inhale plate ginger oven wait cute possible strike outside tuition tide engine";
+var mnemonic = "key truck decide roast torch happy diet giggle onion direct egg dash";

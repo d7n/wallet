@@ -1,1 +1,1 @@
-var mnemonic = "receive actor push river romance foot perfect decrease bus year remove swim";
+var mnemonic = "bottom alter address drink narrow mixture daring thumb potato guilt multiply uniform";

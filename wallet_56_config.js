@@ -1,1 +1,1 @@
-var mnemonic = "pretty club square mirror volcano they muffin other helmet huge half jelly";
+var mnemonic = "drink exhaust verb toy unfair column universe table action praise grunt reason";

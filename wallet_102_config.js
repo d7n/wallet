@@ -1,1 +1,1 @@
-var mnemonic = "sad artefact soft acoustic pond valve practice nurse govern stone cycle motor";
+var mnemonic = "enforce margin nurse notice shoot vapor ensure despair gun palm job supreme";

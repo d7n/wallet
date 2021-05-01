@@ -1,1 +1,1 @@
-var mnemonic = "sweet control viable diary farm effort danger defense whale enable north rhythm";
+var mnemonic = "course clap language battle egg exit banner later aisle multiply trade scissors";

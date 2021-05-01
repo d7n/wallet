@@ -1,1 +1,1 @@
-var mnemonic = "country rich track that gain need copy tobacco winter syrup magnet wise";
+var mnemonic = "kick divide remove pistol museum pink rather depend unit will dawn tiger";

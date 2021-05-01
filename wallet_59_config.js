@@ -1,1 +1,1 @@
-var mnemonic = "caution trumpet fresh occur vital east room cash online stumble custom worth";
+var mnemonic = "manual ripple expire museum inherit stable ship soda identify live crack dinosaur";

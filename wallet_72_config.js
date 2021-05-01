@@ -1,1 +1,1 @@
-var mnemonic = "also congress volume color engine target multiply move fortune raise glory fragile";
+var mnemonic = "minute muscle pact poverty key robot female thank arena slow virtual oblige";

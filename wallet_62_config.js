@@ -1,1 +1,1 @@
-var mnemonic = "purpose tortoise belt question swap minor name excess major useless piano crime";
+var mnemonic = "face smart discover endless gold cherry enough empower love rescue merge fatal";

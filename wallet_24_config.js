@@ -1,1 +1,1 @@
-var mnemonic = "iron arctic ship wide blast wagon bless basket neutral crowd flash flash";
+var mnemonic = "patient garment save genius quantum blur rib roast spirit kangaroo rebuild sick";

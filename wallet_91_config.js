@@ -1,1 +1,1 @@
-var mnemonic = "apology box normal mirror beach thunder arch country soccer metal mass old";
+var mnemonic = "school brain risk gap roast glare rich half dolphin poem blush powder";

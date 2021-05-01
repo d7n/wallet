@@ -1,1 +1,1 @@
-var mnemonic = "endless midnight summer barely tail jungle gravity zero marriage coast pole analyst";
+var mnemonic = "awful collect doctor polar clip shadow all buzz call mention stamp day";

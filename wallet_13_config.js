@@ -1,1 +1,1 @@
-var mnemonic = "resource year monster gas book depend glove nasty tail ecology wedding mistake";
+var mnemonic = "east silk shock shield victory balance scheme guide veteran sample beauty daring";

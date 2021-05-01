@@ -1,1 +1,1 @@
-var mnemonic = "cabbage shiver lawsuit column course walk dice already govern crouch apart parade";
+var mnemonic = "assault clever minute bulb toy crystal youth coconut mean vast burger chronic";

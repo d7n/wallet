@@ -1,1 +1,1 @@
-var mnemonic = "know giant mule violin scan trick solar option double equal stem lift";
+var mnemonic = "jewel raccoon lamp unaware include belt slim hill seat toe vivid actress";

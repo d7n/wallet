@@ -1,1 +1,1 @@
-var mnemonic = "tiny lemon protect prepare amused grid change inspire mix sugar code coin";
+var mnemonic = "exclude rack cream bind route bitter account drip miss power fly intact";

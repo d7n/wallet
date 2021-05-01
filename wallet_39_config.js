@@ -1,1 +1,1 @@
-var mnemonic = "assault what grape have worry heavy congress board husband poem surround ensure";
+var mnemonic = "very push neglect wire subject miracle sun dizzy term session void ramp";

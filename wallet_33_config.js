@@ -1,1 +1,1 @@
-var mnemonic = "mobile initial boost happy cancel mean nuclear rate wish much cost spy";
+var mnemonic = "thrive shed crawl okay fire length kid mention curtain bless rely west";

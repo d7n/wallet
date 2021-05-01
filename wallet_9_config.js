@@ -1,1 +1,1 @@
-var mnemonic = "rotate spawn view cotton meat dignity escape pretty horse success collect sugar";
+var mnemonic = "glide canvas blur scorpion mirror bless margin program frame animal jar source";

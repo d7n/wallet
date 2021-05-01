@@ -1,1 +1,1 @@
-var mnemonic = "describe zebra reform diamond pizza move saddle express idle tag rose repeat";
+var mnemonic = "social loop camera flee crumble club spirit miracle lunch invest angry goddess";

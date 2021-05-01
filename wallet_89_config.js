@@ -1,1 +1,1 @@
-var mnemonic = "occur loan wisdom wild spread earth process modify amateur crazy drive organ";
+var mnemonic = "present income allow canyon join distance level praise kiwi muffin vague hospital";

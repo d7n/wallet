@@ -1,1 +1,1 @@
-var mnemonic = "arm undo assume rate sense engine scare shoot blouse deer neglect deliver";
+var mnemonic = "neither buyer gadget ginger good derive today garlic edit summer innocent vendor";

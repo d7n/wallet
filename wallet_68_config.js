@@ -1,1 +1,1 @@
-var mnemonic = "merge buyer speed iron grain unfair decorate reopen wink rich absent settle";
+var mnemonic = "useful asthma change cactus style child crazy know fever energy inflict upper";

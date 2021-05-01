@@ -1,1 +1,1 @@
-var mnemonic = "curious mention text syrup enable inject change magic arrest install loan file";
+var mnemonic = "often hope tape crisp unhappy hat charge letter invite sentence puzzle work";

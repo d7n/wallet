@@ -1,1 +1,1 @@
-var mnemonic = "grid erupt slogan act balance orbit quit blouse giant panda blur human";
+var mnemonic = "hover then model blind sea reform sweet elder pink comfort traffic cruise";

@@ -1,1 +1,1 @@
-var mnemonic = "senior final obtain enjoy flavor list diary family genius prosper fiber embrace";
+var mnemonic = "slot coffee belt design snake middle teach cruel outdoor season fork current";

@@ -1,1 +1,1 @@
-var mnemonic = "high know sugar planet casual trophy other hurdle borrow maple aware put";
+var mnemonic = "hard primary state same buyer maid eagle canoe fashion fortune east wise";

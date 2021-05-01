@@ -1,1 +1,1 @@
-var mnemonic = "napkin want nurse salute merge weather worry assault toss capital route jelly";
+var mnemonic = "hold voyage question nothing tornado twin tower boil clog ketchup rescue say";

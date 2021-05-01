@@ -1,1 +1,1 @@
-var mnemonic = "quarter canvas drama length border dash rare assist perfect found abstract movie";
+var mnemonic = "salon absurd mail fork minor profit slim rigid emerge naive dumb bird";

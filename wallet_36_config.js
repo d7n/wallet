@@ -1,1 +1,1 @@
-var mnemonic = "random margin crop sugar execute address air deal top pistol gorilla grunt";
+var mnemonic = "way index zero reunion slide alarm thrive island crunch female winner abstract";

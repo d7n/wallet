@@ -1,1 +1,1 @@
-var mnemonic = "crater trip genius output desk select trip shield steel bird vague sand";
+var mnemonic = "decade exist medal access space august wreck hire siren page dismiss over";

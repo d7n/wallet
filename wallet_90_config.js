@@ -1,1 +1,1 @@
-var mnemonic = "slim soup hybrid easy cupboard similar because soap future guide enlist marine";
+var mnemonic = "drama aisle tail giant weasel expire episode shop decrease broccoli topple media";
