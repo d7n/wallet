@@ -1,1 +1,1 @@
-var mnemonic = "flat capital misery street useful reason bleak mask corn own barrel wear";
+var mnemonic = "endorse list split meat age fish proud air smile result wrap spawn";

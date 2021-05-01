@@ -1,1 +1,1 @@
-var mnemonic = "vacuum unveil future buffalo horror board alarm swallow derive toss wage misery";
+var mnemonic = "between waste labor mean across struggle scrap police ceiling truck clarify more";

@@ -1,1 +1,1 @@
-var mnemonic = "chat matter unable zoo rule night license ugly police huge monster detail";
+var mnemonic = "pass bundle enable blame offer rule machine tip famous gain fashion total";

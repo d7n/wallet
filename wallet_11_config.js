@@ -1,1 +1,1 @@
-var mnemonic = "ring dust ripple plate mobile husband scare harsh ancient science water fall";
+var mnemonic = "write tattoo among bunker spirit sign already wrestle very violin square earth";

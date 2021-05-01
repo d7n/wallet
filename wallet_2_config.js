@@ -1,1 +1,1 @@
-var mnemonic = "shell hello scheme drink exotic hair swim able charge sadness dad ozone";
+var mnemonic = "digital outdoor script public message between cover around media range smile protect";

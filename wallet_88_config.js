@@ -1,1 +1,1 @@
-var mnemonic = "cry more visual reduce garlic innocent unhappy hundred cram horror chapter ball";
+var mnemonic = "ozone cash often only wonder thunder ripple before proof pistol talk reveal";

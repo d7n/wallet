@@ -1,1 +1,1 @@
-var mnemonic = "today feed stamp confirm cousin wide reveal favorite document lawsuit journey traffic";
+var mnemonic = "orchard barrel senior payment vague public ginger hybrid crater exhibit abandon reject";

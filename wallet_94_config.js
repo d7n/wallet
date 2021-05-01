@@ -1,1 +1,1 @@
-var mnemonic = "luxury derive snake truck hawk alone asset squeeze grass tooth humor employ";
+var mnemonic = "sorry abstract pulse harbor oyster castle metal sketch feed civil pottery bamboo";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow above enforce leader solution curve equip there fog survey flavor road";
+var mnemonic = "nerve panel away illegal glow spread issue easy insane usage slide hub";

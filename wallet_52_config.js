@@ -1,1 +1,1 @@
-var mnemonic = "recipe walk agent pulp truth begin sight urge company mail meat sunset";
+var mnemonic = "able august monitor glove barely minimum word forest question ethics pond envelope";

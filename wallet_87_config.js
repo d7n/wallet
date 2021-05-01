@@ -1,1 +1,1 @@
-var mnemonic = "affair daring all forget door year blade need report easy hip shell";
+var mnemonic = "club inspire give boost grunt direct vendor under assault slight loud outside";

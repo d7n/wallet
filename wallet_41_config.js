@@ -1,1 +1,1 @@
-var mnemonic = "human search scare install share alert zoo close bicycle icon luxury mule";
+var mnemonic = "tunnel fish profit safe bridge fuel defense state change sleep orphan picture";

@@ -1,1 +1,1 @@
-var mnemonic = "maid text current bean pilot soda bachelor silly mass envelope donate road";
+var mnemonic = "snack juice small vintage crumble clog sick claim hire grab amount divide";

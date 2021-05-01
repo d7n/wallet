@@ -1,1 +1,1 @@
-var mnemonic = "raccoon evil hat basket begin attack jealous organ coin recycle west category";
+var mnemonic = "hill now witness scout rare gym bicycle wine cheese begin blur caution";

@@ -1,1 +1,1 @@
-var mnemonic = "dish youth moon section flight episode art hen slab culture sick swear";
+var mnemonic = "illness earth mistake return state inject divide bench lens mystery release want";

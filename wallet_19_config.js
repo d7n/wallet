@@ -1,1 +1,1 @@
-var mnemonic = "cross vicious health junior immense journey vicious evidence process uncle spring annual";
+var mnemonic = "fire useless crouch arrow raise symbol shoulder blame current sight usage client";

@@ -1,1 +1,1 @@
-var mnemonic = "genius seek pudding clock save acid inhale eager person embody joy shed";
+var mnemonic = "club bamboo hawk hammer account nurse vanish dignity talent finish naive grace";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt toe forest maximum wear agree shuffle piece yellow humor winner another";
+var mnemonic = "below destroy funny private axis come final shove clump flush milk people";

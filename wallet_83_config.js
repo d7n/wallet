@@ -1,1 +1,1 @@
-var mnemonic = "cost setup skirt host cost scheme drive minor salmon razor enact middle";
+var mnemonic = "umbrella various glare ecology dutch draft pumpkin depend code disorder evoke mouse";

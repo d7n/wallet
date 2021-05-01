@@ -1,1 +1,1 @@
-var mnemonic = "patrol rhythm shy relief clog run potato half lumber clay remind soccer";
+var mnemonic = "loyal clump party thought miracle reflect curve tree beef horn bubble curious";

@@ -1,1 +1,1 @@
-var mnemonic = "coach possible cable vast unveil hen century industry ring hobby grain jazz";
+var mnemonic = "round tumble equal seven bunker enough ahead song fresh lunch supply betray";

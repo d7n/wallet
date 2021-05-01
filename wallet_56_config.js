@@ -1,1 +1,1 @@
-var mnemonic = "punch excuse mosquito dog appear thing increase raise infant solve matter friend";
+var mnemonic = "oyster elite blanket happy summer square puzzle chest grab popular raise fame";

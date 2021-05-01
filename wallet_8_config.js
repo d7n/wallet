@@ -1,1 +1,1 @@
-var mnemonic = "bike smart better ski gym inner feed before shuffle rough general auction";
+var mnemonic = "blush dizzy guess voice filter anchor pattern unveil assume bullet whisper shrimp";

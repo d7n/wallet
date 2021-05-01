@@ -1,1 +1,1 @@
-var mnemonic = "road hover enhance grain aim pink trouble carry afford acoustic side shuffle";
+var mnemonic = "toss twelve heart job mandate leopard mail bird biology can dog firm";

@@ -1,1 +1,1 @@
-var mnemonic = "potato tired skin window state regret royal weather decrease life eternal trash";
+var mnemonic = "session below winter canvas delay famous acoustic when divorce art clap glue";

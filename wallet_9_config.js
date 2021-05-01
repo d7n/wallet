@@ -1,1 +1,1 @@
-var mnemonic = "bacon cement someone chunk prison project ski cage hundred local alter army";
+var mnemonic = "puppy clump street suspect world wedding twenty orbit sport narrow powder hip";

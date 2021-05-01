@@ -1,1 +1,1 @@
-var mnemonic = "pencil enjoy castle truly save horror lend switch girl quiz party neither";
+var mnemonic = "elegant curious marriage life kid rare fantasy flag pitch wait rapid begin";

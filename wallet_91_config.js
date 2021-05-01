@@ -1,1 +1,1 @@
-var mnemonic = "sun swift mistake adult prevent base sun stumble risk gadget glue lawsuit";
+var mnemonic = "lemon reopen bonus twin fiber pretty put umbrella unique surprise eternal mixture";

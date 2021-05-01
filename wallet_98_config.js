@@ -1,1 +1,1 @@
-var mnemonic = "shadow allow kitten legend cereal alone cool donkey weather pledge brick boy";
+var mnemonic = "few erosion swim alley box fat master flight spice test flavor struggle";

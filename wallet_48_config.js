@@ -1,1 +1,1 @@
-var mnemonic = "gas rebel vote canvas verb doctor story dirt window embody best visit";
+var mnemonic = "attitude clog often news arch pistol loud lake force find short term";

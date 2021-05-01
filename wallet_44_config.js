@@ -1,1 +1,1 @@
-var mnemonic = "endorse car access normal miss present upon fever host glance two inspire";
+var mnemonic = "gesture make limb canoe vast unknown stomach book question select tragic hockey";

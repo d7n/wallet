@@ -1,1 +1,1 @@
-var mnemonic = "payment soul snap blood devote cereal sock scene lazy crack enough title";
+var mnemonic = "profit blood firm reopen ill cable bronze woman fitness tower couch asthma";

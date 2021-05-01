@@ -1,1 +1,1 @@
-var mnemonic = "large estate melt bus fatigue smoke clever tank artefact tackle gown slogan";
+var mnemonic = "denial alone oblige provide favorite attitude weapon fault pilot purity wreck title";

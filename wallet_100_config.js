@@ -1,1 +1,1 @@
-var mnemonic = "lazy fabric useless barely marine drip want idea family shrimp course host";
+var mnemonic = "mix wood army asset middle person orient symbol maximum jewel finish jungle";

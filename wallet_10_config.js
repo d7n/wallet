@@ -1,1 +1,1 @@
-var mnemonic = "occur tide broccoli lend follow lesson muffin chunk choice goat crop green";
+var mnemonic = "adult vessel magnet cluster reward guide fiscal raven illegal adult divorce item";

@@ -1,1 +1,1 @@
-var mnemonic = "sword pause rule raise enlist carpet noise ridge spoil giggle ill cricket";
+var mnemonic = "motion boil regret olive gauge audit tuition cheese load often perfect slim";

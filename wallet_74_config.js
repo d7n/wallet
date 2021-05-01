@@ -1,1 +1,1 @@
-var mnemonic = "soul latin chaos space pluck hybrid drop fiscal simple fatal used medal";
+var mnemonic = "spare blush unlock nephew inhale window again spoon daughter horror kingdom film";

@@ -1,1 +1,1 @@
-var mnemonic = "stuff crawl pioneer thrive want approve jacket antenna warfare venue owner proud";
+var mnemonic = "share rich rough series ugly post grant pistol jar disagree that school";

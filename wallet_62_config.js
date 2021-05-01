@@ -1,1 +1,1 @@
-var mnemonic = "clever admit ahead table boring upon weekend phrase sword evolve begin offer";
+var mnemonic = "buffalo crane oval toddler cool praise mom foot intact expose text holiday";

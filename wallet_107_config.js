@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow text loan average estate kite animal ahead shallow movie soap quiz";
+var mnemonic = "figure tail absurd surround absent build scene science market basket remove capital";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage extra female matrix impose labor saddle year dry say relax amount";
+var mnemonic = "spring assume path include picture daring undo margin acid point trial quick";

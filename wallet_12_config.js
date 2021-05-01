@@ -1,1 +1,1 @@
-var mnemonic = "fall acid snap wagon night empty gravity shy venture chicken zero balcony";
+var mnemonic = "foam asset useful similar pitch wheat equip fix magnet daughter punch rabbit";

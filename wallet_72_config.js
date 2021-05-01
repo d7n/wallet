@@ -1,1 +1,1 @@
-var mnemonic = "family inherit dinosaur ice come work beef sudden raven kiss ready front";
+var mnemonic = "toilet rack term art chimney camera extra glue organ chunk elegant about";

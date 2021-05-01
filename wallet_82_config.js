@@ -1,1 +1,1 @@
-var mnemonic = "adapt cannon meadow school silent butter front accuse convince blade cabin staff";
+var mnemonic = "outdoor obey off rely priority lucky leaf dad afford arch jazz keep";

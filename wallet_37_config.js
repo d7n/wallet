@@ -1,1 +1,1 @@
-var mnemonic = "few clerk catalog whale settle pave easy fuel barrel ahead heart drift";
+var mnemonic = "body manual relief blade frog task fruit predict bench gallery muffin salmon";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella melt uncle awake cave note shrimp flee gym woman resemble endless";
+var mnemonic = "rely couple vendor media again approve cross between car fox guitar camp";

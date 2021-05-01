@@ -1,1 +1,1 @@
-var mnemonic = "ocean bunker element neck excuse faint garden sick cradle expose gossip brown";
+var mnemonic = "category summer inspire uncle lady say speak pizza priority bullet unfold world";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget vacuum inner cage capital protect gaze day walk tongue embark snake";
+var mnemonic = "text scout host defy brush invite truck lobster ripple wave topic drama";

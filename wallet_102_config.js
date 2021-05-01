@@ -1,1 +1,1 @@
-var mnemonic = "father size tube tissue card wedding truly leisure ability horn fog patch";
+var mnemonic = "arm sphere shaft animal select metal expand bacon normal various foam limb";

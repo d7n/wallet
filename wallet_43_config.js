@@ -1,1 +1,1 @@
-var mnemonic = "seven emerge useful chest vintage step remove buffalo rotate fit milk matrix";
+var mnemonic = "bitter pattern opinion index arctic deliver category glass used hover two clutch";

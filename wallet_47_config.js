@@ -1,1 +1,1 @@
-var mnemonic = "inner any bridge cruise stomach position spawn road plug urban moment glass";
+var mnemonic = "return lesson skull dumb dentist cannon response liquid worth venture large december";

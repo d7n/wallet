@@ -1,1 +1,1 @@
-var mnemonic = "arena alarm space ensure firm wheat inject curve cake prevent style repair";
+var mnemonic = "push range hungry nurse flag trap gym nasty time coffee cart erupt";

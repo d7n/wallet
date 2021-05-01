@@ -1,1 +1,1 @@
-var mnemonic = "surprise crack lonely sun book shoot impact mule tenant swing deer sphere";
+var mnemonic = "buffalo hammer give clip garment salute marble fortune trophy wrap company blind";

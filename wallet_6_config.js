@@ -1,1 +1,1 @@
-var mnemonic = "rude unit region arrange muffin child claw egg tumble outer brave you";
+var mnemonic = "inspire prevent memory photo barrel bean secret hen fiscal noodle almost market";

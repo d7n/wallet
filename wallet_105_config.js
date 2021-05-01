@@ -1,1 +1,1 @@
-var mnemonic = "position resist bean stadium tray chief secret fee choice era piece axis";
+var mnemonic = "brother leader cross layer antique youth crazy knock visa expand deny milk";

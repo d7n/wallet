@@ -1,1 +1,1 @@
-var mnemonic = "nominee waste define royal salute brown vicious parrot universe woman slow gasp";
+var mnemonic = "example sing rice slush pact section save dad bleak double cabbage arctic";

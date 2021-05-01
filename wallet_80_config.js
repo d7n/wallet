@@ -1,1 +1,1 @@
-var mnemonic = "universe letter consider jelly replace palace chase song company primary street hat";
+var mnemonic = "orchard spider elegant width property reveal gift sunny style nice spread language";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke cave trap aunt pull divert trend scorpion quick wear wealth amused";
+var mnemonic = "wrap caution rapid copper keep disorder demand bulk kangaroo video toddler inject";

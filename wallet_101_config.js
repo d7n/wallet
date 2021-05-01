@@ -1,1 +1,1 @@
-var mnemonic = "decade round item hope text plug level behind oppose attend tobacco urban";
+var mnemonic = "debate under begin quick exact buyer front faculty anchor mean design grace";

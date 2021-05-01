@@ -1,1 +1,1 @@
-var mnemonic = "night fuel winter welcome street coast retreat grocery cable maple jungle rebel";
+var mnemonic = "door arrive velvet proud hybrid garlic submit squirrel office option enough blue";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure wheat online chronic concert unveil shallow frozen radar gospel excite insect";
+var mnemonic = "giraffe diagram win velvet industry please gym entire crack hip cable merry";

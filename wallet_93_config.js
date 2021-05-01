@@ -1,1 +1,1 @@
-var mnemonic = "cage style equip student shine umbrella dance lion celery leisure now predict";
+var mnemonic = "dad loyal fun spread cram power chase nest praise bright cannon pill";

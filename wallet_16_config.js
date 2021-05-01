@@ -1,1 +1,1 @@
-var mnemonic = "mind coil plug mechanic gun jacket bag april spin health engage offer";
+var mnemonic = "accuse harsh large renew desert verb oval glow talent expire stem flip";

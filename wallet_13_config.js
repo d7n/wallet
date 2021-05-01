@@ -1,1 +1,1 @@
-var mnemonic = "chuckle still era truth soul limb crazy sad robust clever erode charge";
+var mnemonic = "bamboo wet party alert portion banana steel fuel educate front dismiss scheme";

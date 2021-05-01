@@ -1,1 +1,1 @@
-var mnemonic = "online park trumpet group reason awesome oblige thought cube trend like fan";
+var mnemonic = "category priority dynamic mystery hobby copper twenty you mansion skill magnet arrive";

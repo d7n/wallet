@@ -1,1 +1,1 @@
-var mnemonic = "picture infant call various labor grid scissors tenant sun dial kitchen horror";
+var mnemonic = "tube chair average quick flower page basket dry shell exotic chicken casual";

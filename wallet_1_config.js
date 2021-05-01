@@ -1,1 +1,1 @@
-var mnemonic = "donkey crime verify degree moon settle glue core glad plug make victory";
+var mnemonic = "excite unfair uncover armor move flash excite timber guitar display crisp olympic";

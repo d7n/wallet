@@ -1,1 +1,1 @@
-var mnemonic = "response daring napkin life torch asset cheap aspect proud hope film enemy";
+var mnemonic = "tackle museum flight impact drift loud satisfy license thing tower puzzle draft";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake wolf bonus castle tone cabin equal bomb eight pride craft one";
+var mnemonic = "cinnamon snap orange leg ill swear wreck zebra deer wife suggest orange";

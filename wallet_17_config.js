@@ -1,1 +1,1 @@
-var mnemonic = "damp pet bargain struggle figure tissue vault evoke bubble inform radar above";
+var mnemonic = "group fan help debate good palm traffic mind amateur heart vital survey";

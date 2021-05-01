@@ -1,1 +1,1 @@
-var mnemonic = "search found bless bright unlock domain tomorrow tuna tomorrow ozone glad utility";
+var mnemonic = "obey record spatial blood invest point frown special arrange auto patrol fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "upset security curve enforce dose before luggage visual silent worry salute cat";
+var mnemonic = "quarter slight belt brand history mammal share harbor still surround away pact";

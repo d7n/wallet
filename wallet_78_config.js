@@ -1,1 +1,1 @@
-var mnemonic = "salmon trend drop surprise ridge story humor fee rebuild used acquire salad";
+var mnemonic = "trick planet cry setup cloud report luggage hurt clock future smart near";

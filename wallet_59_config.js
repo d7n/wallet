@@ -1,1 +1,1 @@
-var mnemonic = "lunar craft pluck work grit black yellow brain south mix submit pigeon";
+var mnemonic = "dress unveil patrol betray neither galaxy grow very barrel drive feed pudding";

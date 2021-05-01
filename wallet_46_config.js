@@ -1,1 +1,1 @@
-var mnemonic = "nasty render hole rate safe raccoon slogan episode repair flush work convince";
+var mnemonic = "cream story cheese move juice weapon minimum asthma marble cattle rival aim";

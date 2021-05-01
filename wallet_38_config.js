@@ -1,1 +1,1 @@
-var mnemonic = "phrase bird input flat sick liquid myself coffee fork eight club melt";
+var mnemonic = "lake grief sign glass upon silver smile skate attend raven urban brave";

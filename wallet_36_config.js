@@ -1,1 +1,1 @@
-var mnemonic = "else elbow vacant this once hope amateur cloud huge cotton museum planet";
+var mnemonic = "detail fat theme toddler hurt forum athlete young cattle program simple card";

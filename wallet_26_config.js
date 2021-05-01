@@ -1,1 +1,1 @@
-var mnemonic = "walnut sketch cook system album horror pudding quiz term weekend subject setup";
+var mnemonic = "enough music boost enhance nation domain still rough duck genre young average";

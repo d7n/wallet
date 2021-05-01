@@ -1,1 +1,1 @@
-var mnemonic = "believe flock agree kitchen visa cotton bullet peasant expose balcony miracle spot";
+var mnemonic = "capital laugh obscure crop advice soldier insect average below atom slim story";

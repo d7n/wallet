@@ -1,1 +1,1 @@
-var mnemonic = "raw diamond hello romance print trap fabric zone ankle census mom object";
+var mnemonic = "fragile track rebel artist vital slide uncover violin angle laundry scissors text";

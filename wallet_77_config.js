@@ -1,1 +1,1 @@
-var mnemonic = "pizza alley record winter invite immense east dragon diet satoshi garment load";
+var mnemonic = "innocent swim liquid cloth dish climb illegal review slide holiday cradle lake";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight bitter olive follow save critic siren arrive soap become section accident";
+var mnemonic = "meat erosion debris pretty wear always spatial wire couple guitar forum pear";

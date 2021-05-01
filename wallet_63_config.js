@@ -1,1 +1,1 @@
-var mnemonic = "cruise rug nephew obey kitchen moon prize trip strike border exit pet";
+var mnemonic = "gather fury depart undo relax promote picture boat clog security onion spray";

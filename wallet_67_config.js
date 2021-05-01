@@ -1,1 +1,1 @@
-var mnemonic = "nuclear elevator team physical parrot entry print ketchup project tuition ball affair";
+var mnemonic = "change crop push august often firm tragic fox cause squeeze start cool";

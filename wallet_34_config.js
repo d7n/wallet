@@ -1,1 +1,1 @@
-var mnemonic = "mandate nose element just caution slim position festival field floor excite enact";
+var mnemonic = "skirt clip matter lawsuit power ghost hood amazing elder romance brief enjoy";

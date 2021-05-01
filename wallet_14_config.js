@@ -1,1 +1,1 @@
-var mnemonic = "sunny airport quote easily pyramid small leaf dolphin shove flush bring input";
+var mnemonic = "because spot market help shoe alien obtain license dynamic supply upset reveal";

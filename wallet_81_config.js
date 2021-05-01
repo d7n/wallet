@@ -1,1 +1,1 @@
-var mnemonic = "quick purpose runway rebuild report lady extra able rely digital visa drum";
+var mnemonic = "express latin bullet shiver milk toy guess true tattoo battle scare year";

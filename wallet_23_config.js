@@ -1,1 +1,1 @@
-var mnemonic = "pond wood about dilemma glue length capital stock wrestle erase type spring";
+var mnemonic = "enlist off stool stuff pattern infant modify flower grief during level leave";

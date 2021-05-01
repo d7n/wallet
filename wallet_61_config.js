@@ -1,1 +1,1 @@
-var mnemonic = "cousin current blood jungle jar delay dust dune symptom fabric tunnel own";
+var mnemonic = "feature problem unveil sketch height play fox bounce jelly fatigue only talk";

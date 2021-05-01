@@ -1,1 +1,1 @@
-var mnemonic = "cave inject entry purse entire resemble reform grief music canvas predict trap";
+var mnemonic = "depend initial west tourist gate fee decide market opinion pilot try trial";

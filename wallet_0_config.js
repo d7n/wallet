@@ -1,1 +1,1 @@
-var mnemonic = "rose path call taste chapter half fitness true morning lazy slam frame";
+var mnemonic = "absurd erase now swing spice hour develop minor check manual lift measure";

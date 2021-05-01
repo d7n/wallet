@@ -1,1 +1,1 @@
-var mnemonic = "same bus slab amateur suggest office symptom define surround answer load situate";
+var mnemonic = "sun bacon canvas refuse cave forum pill craft pair image finish capital";

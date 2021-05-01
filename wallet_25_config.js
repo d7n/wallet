@@ -1,1 +1,1 @@
-var mnemonic = "patch fee siren true print carbon suit orient galaxy vacant office limb";
+var mnemonic = "olympic fiction veteran better busy rare average awful success pair tornado capital";
