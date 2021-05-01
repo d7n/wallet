@@ -1,1 +1,1 @@
-var mnemonic = "taste olympic gentle impulse conduct column payment suspect ill ball roast arrange";
+var mnemonic = "benefit october water harbor transfer island machine carry hole desert lemon distance";

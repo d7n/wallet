@@ -1,1 +1,1 @@
-var mnemonic = "forest science industry idle seminar minor zero supply casino switch flame dumb";
+var mnemonic = "stereo farm mimic cycle style elephant travel sail win cash betray rug";

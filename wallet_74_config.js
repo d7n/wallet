@@ -1,1 +1,1 @@
-var mnemonic = "ripple morning hire comfort host payment unfold name maid cheese problem drift";
+var mnemonic = "strategy random middle dog useless argue bright depend casual seed nothing worth";

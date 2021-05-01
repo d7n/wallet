@@ -1,1 +1,1 @@
-var mnemonic = "drift garment bullet nerve deliver skill version aerobic around shop whip slide";
+var mnemonic = "ghost rubber sustain section badge satoshi pelican strong thumb attitude safe limit";

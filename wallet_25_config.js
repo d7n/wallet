@@ -1,1 +1,1 @@
-var mnemonic = "injury fiber curve smile advance two explain garlic echo thumb leopard invite";
+var mnemonic = "survey away tourist decline kid illness code menu bind child tackle matter";

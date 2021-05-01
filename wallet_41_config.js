@@ -1,1 +1,1 @@
-var mnemonic = "error virtual code flock route lock broken friend enemy view shop chalk";
+var mnemonic = "among aim purity test grunt divorce upper upset turkey border nuclear input";

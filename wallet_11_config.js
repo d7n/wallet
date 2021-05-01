@@ -1,1 +1,1 @@
-var mnemonic = "wage sugar replace fiscal tape left news until replace enable exact garden";
+var mnemonic = "someone style can ability dose blur novel bench advice major flower fly";

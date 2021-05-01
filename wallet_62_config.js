@@ -1,1 +1,1 @@
-var mnemonic = "spy flower upset jungle pond wide laptop twice frown exit film kitchen";
+var mnemonic = "just park drama trophy hire gun admit click lumber feature profit gallery";

@@ -1,1 +1,1 @@
-var mnemonic = "hybrid response affair pattern orbit ice sheriff sunset ghost favorite pottery saddle";
+var mnemonic = "panel dentist rough giggle visual assault affair only tortoise mind dumb whisper";

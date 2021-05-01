@@ -1,1 +1,1 @@
-var mnemonic = "clutch nature lake pulse grant toy other annual shove cushion dilemma symbol";
+var mnemonic = "fog delay south trigger opinion caught appear pet anger hat thank course";

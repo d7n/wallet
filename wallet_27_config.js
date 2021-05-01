@@ -1,1 +1,1 @@
-var mnemonic = "movie dynamic flush used public dwarf salon pepper work alarm reveal bar";
+var mnemonic = "reward poverty small woman course escape husband drift neither question coil fly";

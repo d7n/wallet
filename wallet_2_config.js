@@ -1,1 +1,1 @@
-var mnemonic = "anger sight size follow zero lend ribbon ignore inside isolate unusual reason";
+var mnemonic = "element swear spider food tenant prosper enhance taxi concert purity rug unfair";

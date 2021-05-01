@@ -1,1 +1,1 @@
-var mnemonic = "piece sponsor crater donkey spirit rail bleak book reason radio hunt produce";
+var mnemonic = "bargain spot shoulder barrel replace network violin slush prepare dilemma brown youth";

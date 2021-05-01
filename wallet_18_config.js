@@ -1,1 +1,1 @@
-var mnemonic = "loud slow tattoo suffer security car account eager enrich kiss armed enact";
+var mnemonic = "rally entire organ science march alter loud hero morning display pet toilet";

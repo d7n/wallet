@@ -1,1 +1,1 @@
-var mnemonic = "despair pottery hobby reflect want coast waste enroll candy couple sad year";
+var mnemonic = "atom stage stand kitchen whip coil dog release knee drama shop ugly";

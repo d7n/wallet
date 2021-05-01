@@ -1,1 +1,1 @@
-var mnemonic = "crisp laugh false cousin hollow copper illegal advice awful only oyster suffer";
+var mnemonic = "battle merit pulse bench gown degree program tuition manual client segment alpha";

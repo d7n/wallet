@@ -1,1 +1,1 @@
-var mnemonic = "shrimp inquiry shock engage drum clump decrease price enough twist tennis method";
+var mnemonic = "party glimpse sea material clip valve flame dumb stadium young cousin phrase";

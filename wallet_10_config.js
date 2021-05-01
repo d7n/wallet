@@ -1,1 +1,1 @@
-var mnemonic = "taste seed pitch draw pave number eager custom explain table tell purity";
+var mnemonic = "boat symptom hunt siren fat spot wild jealous common enlist approve library";

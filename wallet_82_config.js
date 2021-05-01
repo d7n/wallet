@@ -1,1 +1,1 @@
-var mnemonic = "code diet clerk apart purchase left output transfer skirt define key guess";
+var mnemonic = "couch soap bird yellow section lab chunk move medal wide pair false";

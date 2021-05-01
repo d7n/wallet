@@ -1,1 +1,1 @@
-var mnemonic = "donkey spice fiscal spoil spell powder alarm scale broken height peanut boss";
+var mnemonic = "try sweet valley girl drum liberty jaguar plastic evolve curve together shrug";

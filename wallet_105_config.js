@@ -1,1 +1,1 @@
-var mnemonic = "meat theme finger trip position punch combine border black basic taste coconut";
+var mnemonic = "issue minor ignore melt wood cupboard glimpse another salute monitor estate rival";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel olympic year fat woman twin thumb wisdom sudden require wheat inmate";
+var mnemonic = "vast kite uphold like tonight solve snack tuna develop milk lawsuit sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "rice expect portion road prefer bird trash physical enough fortune enact electric";
+var mnemonic = "balcony six shield sight unknown garage yard scheme hat abandon check view";

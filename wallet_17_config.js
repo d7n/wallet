@@ -1,1 +1,1 @@
-var mnemonic = "twenty jungle human myth text elbow pond volcano struggle argue guard relax";
+var mnemonic = "elegant absent steel betray swallow client oak reward basket place focus crawl";

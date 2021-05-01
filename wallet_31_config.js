@@ -1,1 +1,1 @@
-var mnemonic = "lizard gesture will fit wide lab echo photo route lady keen clarify";
+var mnemonic = "empty tomato silk attack still coast coconut object audit cycle laptop square";

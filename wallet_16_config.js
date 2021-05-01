@@ -1,1 +1,1 @@
-var mnemonic = "poet conduct dish seat cabbage property scrap network top unfold sand butter";
+var mnemonic = "exhibit kit program raise cruel wash drip ghost autumn announce screen meat";

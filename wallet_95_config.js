@@ -1,1 +1,1 @@
-var mnemonic = "very web expect perfect tortoise about utility slight cigar novel news swallow";
+var mnemonic = "satoshi loud enforce oyster inmate fruit artist express luxury neck fragile solar";

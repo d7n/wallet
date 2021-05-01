@@ -1,1 +1,1 @@
-var mnemonic = "hire crystal inmate room vehicle horror spatial combine verb twist behave young";
+var mnemonic = "broom surprise enlist frog hip fatigue flag tell globe consider exercise ride";

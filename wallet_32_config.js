@@ -1,1 +1,1 @@
-var mnemonic = "canal detail suspect inflict crater athlete aunt loyal rebel film provide senior";
+var mnemonic = "grit price song phrase lumber blast patrol card laptop include early rent";

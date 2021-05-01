@@ -1,1 +1,1 @@
-var mnemonic = "width trick series budget pepper hunt rapid outside pink sauce slim unlock";
+var mnemonic = "sentence simple flat rough require frozen daring crazy drum now nest scissors";

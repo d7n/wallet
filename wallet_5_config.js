@@ -1,1 +1,1 @@
-var mnemonic = "hour segment crunch quarter movie member fossil alarm become side bullet volcano";
+var mnemonic = "citizen notable agree vast clever curtain dance crush between boat front inside";

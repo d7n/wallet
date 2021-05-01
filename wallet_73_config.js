@@ -1,1 +1,1 @@
-var mnemonic = "census deputy athlete helmet ski toilet either flush cradle hover soldier arena";
+var mnemonic = "crystal provide sample flock middle regular push pond few lawn brother thumb";

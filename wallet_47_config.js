@@ -1,1 +1,1 @@
-var mnemonic = "minor wage repair sentence dignity replace flower banana scrub praise picture dilemma";
+var mnemonic = "pair palace camera trade cool again party base genuine ivory rug trust";

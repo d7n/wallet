@@ -1,1 +1,1 @@
-var mnemonic = "daring sleep gadget inch suggest casino knee park broken whale crumble romance";
+var mnemonic = "curve push call glory diet help upper member humble antenna parent rib";

@@ -1,1 +1,1 @@
-var mnemonic = "mother lunch debris list man face goddess drip deputy hundred make engine";
+var mnemonic = "dust length base butter give mad glass exile physical noise common discover";

@@ -1,1 +1,1 @@
-var mnemonic = "shove mention library charge void enlist pelican glory ask same about better";
+var mnemonic = "heart velvet use fiscal sunny lady theory crystal secret lunar knock talk";

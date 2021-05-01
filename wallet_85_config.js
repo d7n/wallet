@@ -1,1 +1,1 @@
-var mnemonic = "throw deer hospital alter another hazard profit awful fog table salt palace";
+var mnemonic = "deputy reject cube slab nasty brave inherit chalk monitor bronze kingdom recycle";

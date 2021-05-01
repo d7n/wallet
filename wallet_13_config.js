@@ -1,1 +1,1 @@
-var mnemonic = "acquire field morning before enforce imitate rather stamp collect panda service spring";
+var mnemonic = "coyote rifle judge walnut like mimic polar walk fantasy copper spell staff";

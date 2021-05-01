@@ -1,1 +1,1 @@
-var mnemonic = "eager shed earn cement cart average employ clerk city naive unveil strike";
+var mnemonic = "deliver claim portion enable giggle aerobic unique priority that laugh vacant fitness";

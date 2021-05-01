@@ -1,1 +1,1 @@
-var mnemonic = "next squeeze horror clay auto nephew treat exist destroy fit also fox";
+var mnemonic = "else critic wild style ask then lawsuit rocket pact silent wait taxi";

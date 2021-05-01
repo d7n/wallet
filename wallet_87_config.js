@@ -1,1 +1,1 @@
-var mnemonic = "pottery hair nut penalty define clog work nest luxury clever luxury unknown";
+var mnemonic = "flip casual retire seek off derive owner boil awake thumb glow income";

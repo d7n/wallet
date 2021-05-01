@@ -1,1 +1,1 @@
-var mnemonic = "together helmet fashion sorry stomach struggle peanut chronic canoe lazy column long";
+var mnemonic = "genuine fiction focus bronze proud clinic inflict nice loyal people suit guess";

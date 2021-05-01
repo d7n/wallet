@@ -1,1 +1,1 @@
-var mnemonic = "suspect vague ecology potato athlete tired elephant inner flavor toast garage feel";
+var mnemonic = "ceiling bracket include marble summer quit learn rebel present require wage jeans";

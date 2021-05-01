@@ -1,1 +1,1 @@
-var mnemonic = "spoon lazy submit hurdle town zebra course weekend prevent tattoo urge attract";
+var mnemonic = "also joy midnight taxi only fever size hamster finish onion repeat flip";

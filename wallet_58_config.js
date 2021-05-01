@@ -1,1 +1,1 @@
-var mnemonic = "song silent material cotton hidden blouse penalty replace orchard sunset tissue tip";
+var mnemonic = "able copy truly twice gadget result document asset crowd room chaos twelve";

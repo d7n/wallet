@@ -1,1 +1,1 @@
-var mnemonic = "sample essay october agent mom apart this scatter property ball jelly reopen";
+var mnemonic = "robust grab genuine snap useless stay cactus into deny win height unaware";

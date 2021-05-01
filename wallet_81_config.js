@@ -1,1 +1,1 @@
-var mnemonic = "crawl ticket include genius ahead bar note sweet pass mystery monster magic";
+var mnemonic = "vendor author invite final thumb tooth buyer swarm cake modify frog dish";

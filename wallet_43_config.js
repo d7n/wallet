@@ -1,1 +1,1 @@
-var mnemonic = "eternal buyer empower left price wave certain neither security lion milk win";
+var mnemonic = "palm artist similar toward evidence scene alarm infant peace light brass goddess";

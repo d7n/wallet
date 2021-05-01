@@ -1,1 +1,1 @@
-var mnemonic = "urge sphere elite rebel civil garage bid ticket news wool element easy";
+var mnemonic = "caught matter month flag jewel february ramp era mouse pulse praise few";

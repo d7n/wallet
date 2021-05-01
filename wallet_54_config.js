@@ -1,1 +1,1 @@
-var mnemonic = "rain kite output horse orient manage twelve west fan over can use";
+var mnemonic = "jazz early adjust page beach average before digital arctic region next tragic";

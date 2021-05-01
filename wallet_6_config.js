@@ -1,1 +1,1 @@
-var mnemonic = "salmon level future dress broom ugly extra salon test immense blood define";
+var mnemonic = "bargain dragon cycle inspire proud miracle entire diet fiction guard oil lunar";

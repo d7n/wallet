@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow desk tip local wool decide tree measure round range thunder october";
+var mnemonic = "valid avocado bitter clinic fabric salute fuel pen deputy bomb easy success";

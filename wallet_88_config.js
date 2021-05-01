@@ -1,1 +1,1 @@
-var mnemonic = "novel picnic climb coffee vault nest rapid cart neck physical monster private";
+var mnemonic = "enhance seek mean decrease essence cat column bag noble destroy sure always";

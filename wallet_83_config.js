@@ -1,1 +1,1 @@
-var mnemonic = "eagle opinion diary conduct cinnamon vault diamond noble despair march burden siren";
+var mnemonic = "duck spare drum school hello road amateur desk venue carpet horn distance";

@@ -1,1 +1,1 @@
-var mnemonic = "market laundry cabbage replace spy giraffe satisfy engage program side enroll judge";
+var mnemonic = "eight tooth lunar crisp seed earth farm cupboard want cross there vibrant";

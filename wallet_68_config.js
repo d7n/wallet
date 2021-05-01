@@ -1,1 +1,1 @@
-var mnemonic = "box emotion used spice promote original involve slam upper brief title antique";
+var mnemonic = "episode hunt short topic minor update west bridge spoon pause mercy pull";

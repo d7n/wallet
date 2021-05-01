@@ -1,1 +1,1 @@
-var mnemonic = "patient shift keen cactus core salad memory twin toss dial apart spring";
+var mnemonic = "hybrid blood scan camera home any master olympic myth title abandon bird";

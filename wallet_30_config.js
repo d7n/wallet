@@ -1,1 +1,1 @@
-var mnemonic = "say vicious wolf bar series mad gallery ethics moral dignity dish rocket";
+var mnemonic = "disease cheap wage season evolve coin fury axis verb shrug talent grass";

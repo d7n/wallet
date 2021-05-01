@@ -1,1 +1,1 @@
-var mnemonic = "physical random screen involve pudding flat bargain ladder clever kick anger tunnel";
+var mnemonic = "inherit lizard tissue charge two chimney angry bounce alien ghost dice ankle";

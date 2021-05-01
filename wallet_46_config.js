@@ -1,1 +1,1 @@
-var mnemonic = "alone rack tooth man retire swamp brass lecture powder confirm knife truth";
+var mnemonic = "century antique hundred curious motor defy cross job best corn ethics ivory";

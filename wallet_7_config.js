@@ -1,1 +1,1 @@
-var mnemonic = "clip leaf obtain side rival fire inch supply west machine first future";
+var mnemonic = "auto brave hobby timber lawn furnace nature onion tuition cherry empty say";

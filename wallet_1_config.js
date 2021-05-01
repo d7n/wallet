@@ -1,1 +1,1 @@
-var mnemonic = "purpose flip real drum patrol discover nest country throw unable episode object";
+var mnemonic = "crater talk silver milk bracket brick enough original spoon someone immense cradle";

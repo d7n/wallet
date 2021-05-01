@@ -1,1 +1,1 @@
-var mnemonic = "ozone blur bachelor make tribe lemon build turtle armed panic source perfect";
+var mnemonic = "vote journey vital panel diet eye improve option print orbit coast state";

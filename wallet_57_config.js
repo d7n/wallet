@@ -1,1 +1,1 @@
-var mnemonic = "orchard hotel brown road window state wrestle diary phone alpha artwork govern";
+var mnemonic = "best idea loud clump exhibit spoil hope eye dune tent genre cart";

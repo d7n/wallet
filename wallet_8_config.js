@@ -1,1 +1,1 @@
-var mnemonic = "special asthma stadium ball burden fabric paddle pencil demise shoulder miracle range";
+var mnemonic = "erupt trick rule mouse horror story together fiber net captain arrow arrow";

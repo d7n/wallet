@@ -1,1 +1,1 @@
-var mnemonic = "sound fortune broccoli minimum luggage quantum brother proud ceiling onion rough charge";
+var mnemonic = "hole cage anchor razor elbow price bracket express cherry nasty earth brand";

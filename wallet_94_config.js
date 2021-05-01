@@ -1,1 +1,1 @@
-var mnemonic = "undo step author gaze trim match define saddle thought taste high couple";
+var mnemonic = "plastic trade cherry detail hockey ridge pipe depart salt square pizza chuckle";

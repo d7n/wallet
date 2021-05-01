@@ -1,1 +1,1 @@
-var mnemonic = "address proof useless recall tone leopard tired slim reflect awake hold bacon";
+var mnemonic = "alley hybrid fog trouble plastic sponsor horn narrow post pudding ready another";

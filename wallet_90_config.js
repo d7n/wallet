@@ -1,1 +1,1 @@
-var mnemonic = "marine invite gold scrap private accuse butter oxygen champion skull boss cry";
+var mnemonic = "direct until suggest essay health verify banner actual squirrel verb beyond office";

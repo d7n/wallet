@@ -1,1 +1,1 @@
-var mnemonic = "wealth deer cube almost under job acquire awkward champion situate street sense";
+var mnemonic = "cabin sweet remember slight expire domain try demand undo stand arm defy";

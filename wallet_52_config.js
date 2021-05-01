@@ -1,1 +1,1 @@
-var mnemonic = "artefact loyal crucial space lava citizen trend name finish color repeat lottery";
+var mnemonic = "burger fuel action modify endorse produce volume horn bicycle clinic panther spend";

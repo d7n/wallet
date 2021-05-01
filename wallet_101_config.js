@@ -1,1 +1,1 @@
-var mnemonic = "present embrace nasty tape alpha coast clump gun connect mandate rule arm";
+var mnemonic = "flee glad often rule tobacco battle rare original soft video blind awake";

@@ -1,1 +1,1 @@
-var mnemonic = "current public unable roast museum cloth become diagram basket myth fabric crop";
+var mnemonic = "unfair perfect iron prison buzz universe acoustic junior forum vivid someone fee";

@@ -1,1 +1,1 @@
-var mnemonic = "put chicken point online devote there hand alpha problem sleep bitter useful";
+var mnemonic = "embrace story episode series buzz fence guard cart hawk blouse clarify athlete";

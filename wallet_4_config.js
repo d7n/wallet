@@ -1,1 +1,1 @@
-var mnemonic = "like trigger melt width actual inherit position strategy walk manual despair cube";
+var mnemonic = "edit glove annual name elite abandon tower hedgehog refuse own crystal human";

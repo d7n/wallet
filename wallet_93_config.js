@@ -1,1 +1,1 @@
-var mnemonic = "pride dinosaur crazy caution trade window small axis flat dress response stuff";
+var mnemonic = "hire remove cable foot vague estate dove victory fee identify neither venture";

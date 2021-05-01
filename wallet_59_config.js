@@ -1,1 +1,1 @@
-var mnemonic = "fortune mention toss wage scan parrot furnace cattle spare little will security";
+var mnemonic = "love shrug dog collect slam box student leg capital smoke kingdom question";

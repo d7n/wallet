@@ -1,1 +1,1 @@
-var mnemonic = "stereo allow suspect useful unknown lunch cheese scatter borrow radio inherit ancient";
+var mnemonic = "obtain spoil all giggle shop mass peanut rifle vintage diamond copy husband";

@@ -1,1 +1,1 @@
-var mnemonic = "witness frame unaware napkin cluster still eagle purity mutual age possible account";
+var mnemonic = "column dog inside control quantum ordinary tackle easily blouse pill volcano walk";

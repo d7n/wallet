@@ -1,1 +1,1 @@
-var mnemonic = "mesh two maze equal venture avocado volcano laptop rebel rather ranch ocean";
+var mnemonic = "gap judge screen autumn face dash hamster video roast grief nice wife";

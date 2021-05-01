@@ -1,1 +1,1 @@
-var mnemonic = "brain report best disease gasp goddess city gallery grief pilot forget struggle";
+var mnemonic = "add addict speed author horror media income refuse vibrant pave rigid gesture";

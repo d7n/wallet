@@ -1,1 +1,1 @@
-var mnemonic = "grid dirt shuffle few harbor dinosaur own stairs nominee crisp oppose taste";
+var mnemonic = "enough legal practice pilot phrase chunk polar relief era soccer wild garment";

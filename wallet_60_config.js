@@ -1,1 +1,1 @@
-var mnemonic = "security dish undo excite large ivory parrot people leave delay tribe rice";
+var mnemonic = "spirit help submit knee bitter entire smile use naive utility pretty jazz";

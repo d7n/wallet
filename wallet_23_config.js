@@ -1,1 +1,1 @@
-var mnemonic = "ivory science finish deposit crime about buzz credit uniform seek remain guilt";
+var mnemonic = "silk embark pudding truth expect tag regret cliff body admit dentist pill";

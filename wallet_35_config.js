@@ -1,1 +1,1 @@
-var mnemonic = "kid island reform knife unfair repeat slight food yard poet lesson buyer";
+var mnemonic = "venue wide fun chair good model october hint rack prevent tape horror";

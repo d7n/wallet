@@ -1,1 +1,1 @@
-var mnemonic = "dust inflict busy rescue such logic march slide solution square once media";
+var mnemonic = "spatial indoor spot sphere enable decade craft damage hurry rug claim unfold";

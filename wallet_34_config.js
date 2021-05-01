@@ -1,1 +1,1 @@
-var mnemonic = "feature rebuild future cricket tuna alter other cruel fork happy burden matrix";
+var mnemonic = "tonight exhibit canoe client pelican strike diagram social tell fever vacant brown";

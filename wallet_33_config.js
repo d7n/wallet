@@ -1,1 +1,1 @@
-var mnemonic = "furnace park mule castle next sun scan flash agent odor west sign";
+var mnemonic = "issue amount fly off casual drip lounge one crunch cloth super gaze";

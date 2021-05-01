@@ -1,1 +1,1 @@
-var mnemonic = "near zero social ball angle salt patrol genre deposit dinosaur scrub city";
+var mnemonic = "mechanic phone laugh cousin market reunion attend concert pen agree vault cinnamon";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate debris nose already earn toddler gossip amused owner trigger fruit churn";
+var mnemonic = "draft gold that trust symbol weapon awkward canvas truly gown flock myth";

@@ -1,1 +1,1 @@
-var mnemonic = "team female ostrich web direct require sign engine ride burst weird predict";
+var mnemonic = "clutch inmate crouch entry roof catalog duck hint trial annual isolate worth";

@@ -1,1 +1,1 @@
-var mnemonic = "coil tomato flat flee planet monitor farm delay indoor equal frame limb";
+var mnemonic = "can laugh tonight absent real palm gown rate chief giant dizzy fault";

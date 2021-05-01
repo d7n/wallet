@@ -1,1 +1,1 @@
-var mnemonic = "size net zone voice practice cereal vague stadium unlock stone brown lend";
+var mnemonic = "stable female enlist weather teach move float stay crater father tape soft";

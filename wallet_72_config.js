@@ -1,1 +1,1 @@
-var mnemonic = "buyer unhappy inject yard iron recall tornado mechanic piece review token action";
+var mnemonic = "jeans melt trick update transfer option snow payment ordinary pond blast occur";
