@@ -1,1 +1,1 @@
-var mnemonic = "picture width bleak avocado glance fence file tiger clinic choose close awful";
+var mnemonic = "tip movie start dentist couple found now comfort neglect coyote leave art";

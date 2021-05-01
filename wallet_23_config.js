@@ -1,1 +1,1 @@
-var mnemonic = "anger craft region jar shadow labor gun ill vague air east soda";
+var mnemonic = "frown slim click debris occur tone parade inhale solve text tiny village";

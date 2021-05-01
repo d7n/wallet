@@ -1,1 +1,1 @@
-var mnemonic = "mixed above gas resource assume winner hamster canal dust color relax thing";
+var mnemonic = "install delay story wise wrestle once kind ball clerk family icon tent";

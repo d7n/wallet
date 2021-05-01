@@ -1,1 +1,1 @@
-var mnemonic = "puppy bulk reduce version guard romance panic salon today hungry lawn sign";
+var mnemonic = "spike gaze retreat always few butter diamond damp arrive weapon matrix enhance";

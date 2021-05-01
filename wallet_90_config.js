@@ -1,1 +1,1 @@
-var mnemonic = "pupil monkey eternal scene response fish mule medal have fever style excite";
+var mnemonic = "uphold elevator wheat green vacant job permit honey flush impose tragic acoustic";

@@ -1,1 +1,1 @@
-var mnemonic = "stem valid visit attend master meadow spy put thank typical again garbage";
+var mnemonic = "tell ceiling useful marble confirm trouble bottom hole fancy vast assume swap";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire rib monitor few pink road blind urban bid resemble main food";
+var mnemonic = "catch twist belt bright garage human final journey chase safe vintage wrong";

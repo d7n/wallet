@@ -1,1 +1,1 @@
-var mnemonic = "curtain arrange guide debate trophy repair hungry hockey flush thunder curtain trash";
+var mnemonic = "raven inch crew transfer good follow sphere program rich hunt game science";

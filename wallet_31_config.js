@@ -1,1 +1,1 @@
-var mnemonic = "that lottery also correct use belt forest benefit number scorpion cannon course";
+var mnemonic = "debate shrug goose swift course outer earth keen sort spider skirt awkward";

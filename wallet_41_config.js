@@ -1,1 +1,1 @@
-var mnemonic = "spoon switch cattle grace deer crater broom wish oil they camera lock";
+var mnemonic = "myth dial cigar decade cover very filter bitter title width spike blame";

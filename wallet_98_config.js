@@ -1,1 +1,1 @@
-var mnemonic = "system photo notice spider time monitor bulb just endorse rack spoil fashion";
+var mnemonic = "jaguar sugar measure mammal shield again type weird trash famous there latin";

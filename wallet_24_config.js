@@ -1,1 +1,1 @@
-var mnemonic = "join expose elephant cotton night barrel rib civil meadow leave fantasy galaxy";
+var mnemonic = "moon okay rich record glory prefer snake pudding render cattle normal quality";

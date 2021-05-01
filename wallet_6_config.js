@@ -1,1 +1,1 @@
-var mnemonic = "math sail write female cycle insane throw size husband accident ceiling junk";
+var mnemonic = "script jaguar hamster day wash response clever ocean find similar despair desk";

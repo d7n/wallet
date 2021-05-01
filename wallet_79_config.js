@@ -1,1 +1,1 @@
-var mnemonic = "enable mind annual give shadow loan depth obey leave test style media";
+var mnemonic = "devote thumb captain random ancient region soap paper slot elder injury mercy";

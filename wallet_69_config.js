@@ -1,1 +1,1 @@
-var mnemonic = "clinic tunnel tube drive jacket gate balcony jar immense lamp cotton want";
+var mnemonic = "system canal click border tackle diet early problem point ladder cliff bread";

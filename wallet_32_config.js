@@ -1,1 +1,1 @@
-var mnemonic = "lounge kiss divide van receive danger afford useless fancy parrot giant endorse";
+var mnemonic = "boost kind educate cabbage trial correct latin offer rail submit radio insane";

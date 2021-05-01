@@ -1,1 +1,1 @@
-var mnemonic = "cradle ahead neglect odor broccoli nose slice note mechanic spirit link permit";
+var mnemonic = "remind nothing prize fish budget close front skin spice desert arm rice";

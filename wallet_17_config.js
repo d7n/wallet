@@ -1,1 +1,1 @@
-var mnemonic = "rack local access blossom turkey cluster spell sausage angle south brick build";
+var mnemonic = "immune pill laugh happy budget diesel castle rally wrong tenant force insect";

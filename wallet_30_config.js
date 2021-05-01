@@ -1,1 +1,1 @@
-var mnemonic = "present panic wet diary permit bitter island disorder soldier assault eye crash";
+var mnemonic = "become quit excite basket vague disease solve ensure cricket express fortune history";

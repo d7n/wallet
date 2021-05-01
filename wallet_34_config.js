@@ -1,1 +1,1 @@
-var mnemonic = "champion clip raccoon anger object bus describe wrist crowd betray reason trial";
+var mnemonic = "clog flight rather divert maid vintage oil friend salt device april between";

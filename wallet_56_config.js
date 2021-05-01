@@ -1,1 +1,1 @@
-var mnemonic = "seek chimney foam iron neglect example gap fruit neglect year near term";
+var mnemonic = "prize clog will length dawn flower october clean drill flag more mass";

@@ -1,1 +1,1 @@
-var mnemonic = "crop liar wash south rubber arrest forward enemy hand room skate now";
+var mnemonic = "logic black wolf dilemma stumble earn junk wagon sick divorce tired jaguar";

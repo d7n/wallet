@@ -1,1 +1,1 @@
-var mnemonic = "mango destroy refuse olympic anger buddy such unhappy hazard short tennis client";
+var mnemonic = "simple pass aunt laptop replace market viable cup skin tissue version warfare";

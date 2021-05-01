@@ -1,1 +1,1 @@
-var mnemonic = "kitchen where section mind stone maple hungry property junior retire scale rude";
+var mnemonic = "airport pottery mesh abuse wide deliver right hold train flock fuel enemy";

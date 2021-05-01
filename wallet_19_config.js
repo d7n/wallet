@@ -1,1 +1,1 @@
-var mnemonic = "hood net sure usage ten clock fiber paddle quality reflect time fabric";
+var mnemonic = "dutch pelican end junk beauty annual cancel true name review music sense";

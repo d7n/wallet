@@ -1,1 +1,1 @@
-var mnemonic = "beauty shoulder advance candy flash help weasel ecology stairs head old lemon";
+var mnemonic = "split tray require roast rose book cigar same hair couple lawn glory";

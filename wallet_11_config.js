@@ -1,1 +1,1 @@
-var mnemonic = "burden slide rebel retire charge art various top arrange all debris entire";
+var mnemonic = "damp crew hidden barrel carbon evolve width enemy sniff produce mechanic wash";

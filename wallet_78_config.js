@@ -1,1 +1,1 @@
-var mnemonic = "situate welcome endless shock attitude cannon today bless length feed flip person";
+var mnemonic = "weekend swing rich offer crumble orphan undo drink attack accuse emotion buyer";

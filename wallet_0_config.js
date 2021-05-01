@@ -1,1 +1,1 @@
-var mnemonic = "right wrong cradle impulse glad crouch truly lazy canoe mushroom today equal";
+var mnemonic = "fish hope resist exclude prefer use stamp borrow divert museum ugly chair";

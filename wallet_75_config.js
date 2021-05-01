@@ -1,1 +1,1 @@
-var mnemonic = "news snake acoustic edit expose split admit question process buzz scrub coast";
+var mnemonic = "pact winner carpet pole clump during squeeze hammer exile increase trim spot";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster false layer potato vapor today puzzle icon cream destroy vessel parent";
+var mnemonic = "pledge frown lunch plug sea tourist female maze combine tired pistol brain";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma exist weekend filter vault material corn render female monitor crumble island";
+var mnemonic = "chef custom prepare style author tuna lawn stairs ugly water glance ribbon";

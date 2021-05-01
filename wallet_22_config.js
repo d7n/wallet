@@ -1,1 +1,1 @@
-var mnemonic = "shiver auction brush own company diary orchard swim eagle trigger wear portion";
+var mnemonic = "beauty clown suffer caution trick open dizzy winter walk denial shoulder cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "region that hand debate jacket person speed quit pizza great palm harbor";
+var mnemonic = "pause crowd faculty mom subway supreme box auction erosion era link harvest";

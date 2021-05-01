@@ -1,1 +1,1 @@
-var mnemonic = "jump weather snake basic pistol hole crazy attract feed twin give boring";
+var mnemonic = "will mention warrior riot episode consider decade differ disagree visit spring pear";

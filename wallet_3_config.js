@@ -1,1 +1,1 @@
-var mnemonic = "orient business large weasel absorb minimum noodle dynamic simple horror more super";
+var mnemonic = "file try fog frost tenant first chief stove course immense glide good";

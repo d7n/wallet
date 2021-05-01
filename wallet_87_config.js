@@ -1,1 +1,1 @@
-var mnemonic = "exotic guard comfort easy library used olive boil spring lunch spin gesture";
+var mnemonic = "jaguar circle speak fruit bundle robot roast region scene vehicle panel exercise";

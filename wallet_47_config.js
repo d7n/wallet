@@ -1,1 +1,1 @@
-var mnemonic = "flee lady police brave trash must quote trend north warm citizen ship";
+var mnemonic = "salute phone bicycle enable live sort never indoor depth suffer nature match";

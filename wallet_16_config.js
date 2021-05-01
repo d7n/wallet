@@ -1,1 +1,1 @@
-var mnemonic = "search knife party bacon salmon raccoon motor enhance heavy innocent interest busy";
+var mnemonic = "knife priority recipe account yard exhibit smart stairs helmet opera access pulse";

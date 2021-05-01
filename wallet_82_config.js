@@ -1,1 +1,1 @@
-var mnemonic = "click leopard spot manage trap become taxi clog subway explain demise taste";
+var mnemonic = "female certain blame finger device eager light stomach rally confirm enrich spray";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract alarm style flower legal session umbrella witness real major art broccoli";
+var mnemonic = "weekend below cat baby breeze yard proof mystery stomach pear prevent file";

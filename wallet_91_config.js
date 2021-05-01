@@ -1,1 +1,1 @@
-var mnemonic = "orange trick boost bless pudding cart deliver avocado risk vacant finger armed";
+var mnemonic = "young siren art action trophy wrong great rug entire stable claim famous";

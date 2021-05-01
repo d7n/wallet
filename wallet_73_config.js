@@ -1,1 +1,1 @@
-var mnemonic = "junior crisp suspect matrix smooth attend stumble vague evoke grain trap sing";
+var mnemonic = "humor embrace drop filter want clerk unknown member enough vibrant flat grass";

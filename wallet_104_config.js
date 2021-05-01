@@ -1,1 +1,1 @@
-var mnemonic = "hobby verify ten access robust elite piece wreck safe fold blush prefer";
+var mnemonic = "maple shoe increase farm rib old mail weird roof fortune gain kit";

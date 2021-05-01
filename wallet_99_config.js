@@ -1,1 +1,1 @@
-var mnemonic = "toe warrior tide tent wrist laptop fiber sing baby pattern ignore ice";
+var mnemonic = "guitar pitch chief fiscal insane network fiscal suggest gesture truck stomach renew";

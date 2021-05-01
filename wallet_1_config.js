@@ -1,1 +1,1 @@
-var mnemonic = "wood across defense skill merry iron history various link jungle deposit speak";
+var mnemonic = "stem letter exotic explain aspect wet movie syrup fresh ring unfair piece";

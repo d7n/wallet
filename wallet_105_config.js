@@ -1,1 +1,1 @@
-var mnemonic = "junk patch survey mix rack rabbit agent beyond flame fruit annual title";
+var mnemonic = "match river industry puzzle rack payment deny wild shoe purity manage ski";

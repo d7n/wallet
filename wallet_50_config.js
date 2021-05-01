@@ -1,1 +1,1 @@
-var mnemonic = "dish truck that old twist what impulse twin loan private inherit half";
+var mnemonic = "chair label cream grant dragon win issue slush hammer cushion miracle twin";

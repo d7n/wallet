@@ -1,1 +1,1 @@
-var mnemonic = "okay list easily benefit metal pink bright leg venture room float public";
+var mnemonic = "rifle great rabbit banana brisk inject remain decline buzz kingdom easily claim";

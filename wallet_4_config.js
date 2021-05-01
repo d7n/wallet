@@ -1,1 +1,1 @@
-var mnemonic = "siege among neither adapt lottery differ require entire inflict mixed oyster wear";
+var mnemonic = "hotel odor rent alcohol cloth very balance joy champion stairs boost cherry";

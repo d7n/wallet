@@ -1,1 +1,1 @@
-var mnemonic = "jealous entry release drastic soon own convince column girl tray outdoor perfect";
+var mnemonic = "bulb crucial limit fold bamboo panther sibling state follow tackle discover true";

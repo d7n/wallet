@@ -1,1 +1,1 @@
-var mnemonic = "supreme confirm empower grunt soccer capital thrive modify army exist sudden rabbit";
+var mnemonic = "puzzle royal dog winner reunion shrug pizza genre buzz sing easily rare";

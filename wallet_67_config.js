@@ -1,1 +1,1 @@
-var mnemonic = "pair globe february camp spawn wave melody entire enforce silver junior finger";
+var mnemonic = "quarter bless ticket below when want start sand ring siren banner occur";

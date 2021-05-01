@@ -1,1 +1,1 @@
-var mnemonic = "supply crisp jealous salute cart frame another kitchen renew arrive material shell";
+var mnemonic = "steel canvas head peanut pull road timber garlic barrel usage mass asthma";

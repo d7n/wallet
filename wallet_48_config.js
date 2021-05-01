@@ -1,1 +1,1 @@
-var mnemonic = "blue rack zoo gap almost catalog crucial mystery aunt depth world cruise";
+var mnemonic = "step change wheat recycle exit current curtain mistake business such museum guard";

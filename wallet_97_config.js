@@ -1,1 +1,1 @@
-var mnemonic = "topple rose smile tube into decorate manual barely flight vanish tourist purchase";
+var mnemonic = "peanut canoe chicken coffee artist word hurt pen organ jealous actress write";

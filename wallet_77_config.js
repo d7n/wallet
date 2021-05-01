@@ -1,1 +1,1 @@
-var mnemonic = "erosion before expand letter what spoil task culture stick seat race shoot";
+var mnemonic = "alter ski pair have crush snow ceiling sense what cute old drive";

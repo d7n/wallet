@@ -1,1 +1,1 @@
-var mnemonic = "relief round abandon path flower ranch wrist sausage fire suit initial vehicle";
+var mnemonic = "aunt vanish sword fee toe mansion pudding can theory slogan gloom mercy";

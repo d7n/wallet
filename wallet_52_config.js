@@ -1,1 +1,1 @@
-var mnemonic = "caught dry nest apart grab accident collect option add truth either false";
+var mnemonic = "clutch asthma case custom blue theory zoo enact chapter pilot mule adjust";

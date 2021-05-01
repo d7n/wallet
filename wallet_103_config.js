@@ -1,1 +1,1 @@
-var mnemonic = "castle next capital shiver skull lucky until crouch sample frost song embark";
+var mnemonic = "salmon scare carpet wedding gas crack kick just word noise true fox";

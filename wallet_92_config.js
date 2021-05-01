@@ -1,1 +1,1 @@
-var mnemonic = "blade verify nice smooth battle rude crumble veteran unable borrow lava fossil";
+var mnemonic = "nose cannon sun aerobic ramp artwork loan fossil pumpkin milk lounge margin";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber review force cement manage amused beauty judge love embody option silent";
+var mnemonic = "august idea rent chase cattle clip little shield chase when silver buddy";

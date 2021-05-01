@@ -1,1 +1,1 @@
-var mnemonic = "pause buffalo arm obey defy skin elder fiscal license obscure gloom engine";
+var mnemonic = "gadget sand inspire science dish giraffe inhale pepper disease birth engage slender";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce know morning hollow frame renew mixed ship frequent adapt worry miss";
+var mnemonic = "shadow crowd boost jazz ozone quote glow hazard thought garden rifle author";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon mistake thought bunker desert clarify length pumpkin pluck attract initial crime";
+var mnemonic = "repeat vapor clay guess always slim two tooth dirt clutch excuse panel";

@@ -1,1 +1,1 @@
-var mnemonic = "good believe chapter tower sense clip wall evolve view rate steel cushion";
+var mnemonic = "unusual trophy silly myth face shy sunset spare chaos dismiss song false";

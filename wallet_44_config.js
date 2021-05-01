@@ -1,1 +1,1 @@
-var mnemonic = "fold mad together essay ugly praise warrior alien trophy asset ginger pulse";
+var mnemonic = "matter twist sad tumble today depth home torch pipe crouch hawk tourist";

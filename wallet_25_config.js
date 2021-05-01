@@ -1,1 +1,1 @@
-var mnemonic = "broom dad donate picnic unlock clarify prevent burger hero negative orange cloud";
+var mnemonic = "normal visit violin mutual hard relax appear enlist exhibit stand keep torch";

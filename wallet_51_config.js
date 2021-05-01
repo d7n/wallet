@@ -1,1 +1,1 @@
-var mnemonic = "carbon bullet script arch report used apology govern foam next slogan love";
+var mnemonic = "surge found industry document jaguar stereo endorse scale flock middle divert penalty";

@@ -1,1 +1,1 @@
-var mnemonic = "make hundred wheat indoor crane purity index plate story mind wagon audit";
+var mnemonic = "crawl learn problem vintage damage degree exit conduct cotton pipe diagram update";

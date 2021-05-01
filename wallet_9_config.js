@@ -1,1 +1,1 @@
-var mnemonic = "relief flag crater spread dial diary attack exist cute fault behind culture";
+var mnemonic = "gap try sibling always seed thrive exhibit year april orbit width rocket";

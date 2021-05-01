@@ -1,1 +1,1 @@
-var mnemonic = "detect smooth label quote bronze paper man dune broom gallery table kitten";
+var mnemonic = "beyond replace license kitchen clown always credit still call rent gas oil";

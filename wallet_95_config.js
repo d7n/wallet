@@ -1,1 +1,1 @@
-var mnemonic = "region hover noodle salute office fiction approve uncover trigger mammal chunk casual";
+var mnemonic = "curtain express immense any bone bind spin know web chimney sadness peanut";

@@ -1,1 +1,1 @@
-var mnemonic = "stereo faith child south pottery strong twist deliver above enable aisle solve";
+var mnemonic = "bonus adjust retreat goddess gesture rather tired hole another swift address rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "slice relax approve barely gas town doll offer tooth broom pistol agent";
+var mnemonic = "crouch spare antique goose violin window spawn hard scrub version solution doctor";

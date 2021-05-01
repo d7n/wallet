@@ -1,1 +1,1 @@
-var mnemonic = "once secret must aim card unit worth bulb crazy injury carry foam";
+var mnemonic = "learn admit wink thing enlist private manual glow recall cluster gain corn";

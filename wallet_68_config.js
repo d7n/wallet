@@ -1,1 +1,1 @@
-var mnemonic = "liberty remember mass inmate pupil gate inch trash scatter practice roast romance";
+var mnemonic = "patient scrub slice genre end banner about grit merry clarify fluid subway";

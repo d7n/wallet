@@ -1,1 +1,1 @@
-var mnemonic = "total evolve satisfy enhance bind village early nephew ready come cool tomorrow";
+var mnemonic = "more near muffin poem addict double rack stumble someone neck country mad";

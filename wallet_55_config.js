@@ -1,1 +1,1 @@
-var mnemonic = "middle spot vote tree type word advance dash certain visual switch speed";
+var mnemonic = "rookie daughter video crime slide embark monster grab fine finish possible calm";

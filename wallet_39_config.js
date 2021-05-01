@@ -1,1 +1,1 @@
-var mnemonic = "output evidence neglect cube menu middle climb poem relief cram club market";
+var mnemonic = "agent sudden circle document stomach opinion spider torch define carpet essence shallow";

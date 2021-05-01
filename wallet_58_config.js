@@ -1,1 +1,1 @@
-var mnemonic = "tackle decade drip embrace peace dish hint scissors damp regret hammer tornado";
+var mnemonic = "accident staff hair achieve stick silver warrior blood token fun please shuffle";

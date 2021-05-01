@@ -1,1 +1,1 @@
-var mnemonic = "act daring couple leader season ivory three trap boat luggage forum magic";
+var mnemonic = "nation appear athlete hood wagon eagle uphold pink prize winter taste inside";

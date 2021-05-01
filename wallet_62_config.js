@@ -1,1 +1,1 @@
-var mnemonic = "economy volume wet napkin about throw risk oblige ocean quality estate mean";
+var mnemonic = "assist dolphin save biology crush innocent extra auto spatial upset myself click";

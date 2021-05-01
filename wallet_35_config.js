@@ -1,1 +1,1 @@
-var mnemonic = "tortoise wrap lava weekend gasp goat slush wish satisfy vibrant fire start";
+var mnemonic = "multiply elbow only vanish furnace reject toast unhappy bottom behave heavy alley";

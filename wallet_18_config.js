@@ -1,1 +1,1 @@
-var mnemonic = "engage catalog balance index sunny monitor point bubble juice owner check quit";
+var mnemonic = "shoe faint extra glad floor solution silver patch cherry nerve display neglect";

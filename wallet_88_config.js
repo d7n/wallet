@@ -1,1 +1,1 @@
-var mnemonic = "omit bracket until space door slender pluck hockey iron ivory anger write";
+var mnemonic = "muscle poverty wool awful approve major usual blade confirm neck grace hungry";

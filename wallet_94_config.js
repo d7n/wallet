@@ -1,1 +1,1 @@
-var mnemonic = "episode sleep achieve ridge thrive amateur divert march normal eagle game purchase";
+var mnemonic = "bacon demand usual method tomato change mom hip below during drum marble";

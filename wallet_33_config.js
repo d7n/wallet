@@ -1,1 +1,1 @@
-var mnemonic = "siege aspect wasp once dust offer limit draw salt blur wrestle seek";
+var mnemonic = "bus split mind cause skill year talk snow scatter tag kingdom marine";

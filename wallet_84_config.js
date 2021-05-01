@@ -1,1 +1,1 @@
-var mnemonic = "industry uncover host marble sure print barely senior eyebrow envelope merge easy";
+var mnemonic = "daring obvious motor near seat wagon false run captain know choice where";

@@ -1,1 +1,1 @@
-var mnemonic = "amused shove else odor neither powder buffalo broom figure unit square left";
+var mnemonic = "market target attack double okay hockey surprise drum undo carbon occur climb";

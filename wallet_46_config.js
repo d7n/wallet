@@ -1,1 +1,1 @@
-var mnemonic = "grab canoe absurd brick arrange fiber egg document hood matrix fault lift";
+var mnemonic = "oyster seed outer myself mask exhaust correct recall promote snow bird divert";
