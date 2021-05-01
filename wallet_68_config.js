@@ -1,1 +1,1 @@
-var mnemonic = "patient scrub slice genre end banner about grit merry clarify fluid subway";
+var mnemonic = "bright quit gain lemon mango pole assault modify ice uncle attract glare";

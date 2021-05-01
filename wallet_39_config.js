@@ -1,1 +1,1 @@
-var mnemonic = "agent sudden circle document stomach opinion spider torch define carpet essence shallow";
+var mnemonic = "wasp phone reveal situate bless business congress cotton educate brief hurt net";

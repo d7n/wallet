@@ -1,1 +1,1 @@
-var mnemonic = "nation appear athlete hood wagon eagle uphold pink prize winter taste inside";
+var mnemonic = "soft dune broccoli neglect token planet cruise cover mouse label armor figure";

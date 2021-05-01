@@ -1,1 +1,1 @@
-var mnemonic = "spike gaze retreat always few butter diamond damp arrive weapon matrix enhance";
+var mnemonic = "coconut parade exist upper world truth fortune endless wave flavor canyon beyond";

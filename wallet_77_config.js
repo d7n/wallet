@@ -1,1 +1,1 @@
-var mnemonic = "alter ski pair have crush snow ceiling sense what cute old drive";
+var mnemonic = "text document salute awake trip hen snap rabbit key deputy insect cherry";

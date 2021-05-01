@@ -1,1 +1,1 @@
-var mnemonic = "scatter chunk unknown wreck book blossom begin seven tree speak model toast";
+var mnemonic = "fatal text dawn village decorate coyote circle also fragile trim remind piano";

@@ -1,1 +1,1 @@
-var mnemonic = "become quit excite basket vague disease solve ensure cricket express fortune history";
+var mnemonic = "tell stove awkward actress melody fire reject quote fortune useful slogan obvious";

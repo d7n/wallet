@@ -1,1 +1,1 @@
-var mnemonic = "remind nothing prize fish budget close front skin spice desert arm rice";
+var mnemonic = "leisure again wear test blossom captain barely monitor pudding hand polar moral";

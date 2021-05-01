@@ -1,1 +1,1 @@
-var mnemonic = "boost kind educate cabbage trial correct latin offer rail submit radio insane";
+var mnemonic = "brand hope member disagree dose expect all arctic warrior scorpion dial arch";

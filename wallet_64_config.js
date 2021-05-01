@@ -1,1 +1,1 @@
-var mnemonic = "catch twist belt bright garage human final journey chase safe vintage wrong";
+var mnemonic = "view wasp clap abuse obey left flavor lesson define turn promote project";

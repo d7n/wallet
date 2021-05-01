@@ -1,1 +1,1 @@
-var mnemonic = "curtain express immense any bone bind spin know web chimney sadness peanut";
+var mnemonic = "scale pig strong tired mix scale patient file ecology income bounce absurd";

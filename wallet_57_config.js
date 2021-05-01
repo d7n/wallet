@@ -1,1 +1,1 @@
-var mnemonic = "bulb crucial limit fold bamboo panther sibling state follow tackle discover true";
+var mnemonic = "clap trash empower attend leave neutral story similar reject volume eye talk";

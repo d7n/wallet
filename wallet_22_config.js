@@ -1,1 +1,1 @@
-var mnemonic = "beauty clown suffer caution trick open dizzy winter walk denial shoulder cluster";
+var mnemonic = "forget green melt place salon hen pitch bag short weapon ignore pepper";

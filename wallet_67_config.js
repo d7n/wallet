@@ -1,1 +1,1 @@
-var mnemonic = "quarter bless ticket below when want start sand ring siren banner occur";
+var mnemonic = "pair two kit snake tongue clerk tonight peasant hollow concert they base";

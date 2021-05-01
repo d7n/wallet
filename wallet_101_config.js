@@ -1,1 +1,1 @@
-var mnemonic = "crawl learn problem vintage damage degree exit conduct cotton pipe diagram update";
+var mnemonic = "bullet mystery ugly imitate armed stamp true face romance digital mail inject";

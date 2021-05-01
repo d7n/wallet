@@ -1,1 +1,1 @@
-var mnemonic = "rifle great rabbit banana brisk inject remain decline buzz kingdom easily claim";
+var mnemonic = "fury feel always eternal lion planet seed empower engage wolf critic civil";

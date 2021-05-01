@@ -1,1 +1,1 @@
-var mnemonic = "crouch spare antique goose violin window spawn hard scrub version solution doctor";
+var mnemonic = "subway fault raccoon lend receive inquiry display radio hint hole lesson lamp";

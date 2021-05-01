@@ -1,1 +1,1 @@
-var mnemonic = "female certain blame finger device eager light stomach rally confirm enrich spray";
+var mnemonic = "steel earn razor absorb flash refuse add rebuild dial expect dash possible";

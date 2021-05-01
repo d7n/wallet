@@ -1,1 +1,1 @@
-var mnemonic = "stem letter exotic explain aspect wet movie syrup fresh ring unfair piece";
+var mnemonic = "barrel drop element trophy zone valid awkward game giant thank tumble end";

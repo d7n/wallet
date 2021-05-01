@@ -1,1 +1,1 @@
-var mnemonic = "hotel odor rent alcohol cloth very balance joy champion stairs boost cherry";
+var mnemonic = "sun local three process design large auction fork coyote flight metal fee";

@@ -1,1 +1,1 @@
-var mnemonic = "will mention warrior riot episode consider decade differ disagree visit spring pear";
+var mnemonic = "afford same hire unaware desk swallow capable maid special parent alpha start";

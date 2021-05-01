@@ -1,1 +1,1 @@
-var mnemonic = "salute phone bicycle enable live sort never indoor depth suffer nature match";
+var mnemonic = "comic prize coyote damp attend occur early soft knock fetch impulse ensure";

@@ -1,1 +1,1 @@
-var mnemonic = "humor embrace drop filter want clerk unknown member enough vibrant flat grass";
+var mnemonic = "snap pigeon walnut tomato focus before please arrest inspire license struggle electric";

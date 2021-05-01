@@ -1,1 +1,1 @@
-var mnemonic = "bus split mind cause skill year talk snow scatter tag kingdom marine";
+var mnemonic = "dismiss panda own cruise window worry frost elite because judge corn conduct";

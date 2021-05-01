@@ -1,1 +1,1 @@
-var mnemonic = "sketch fever column vendor picnic planet network kidney together crawl this say";
+var mnemonic = "same magic umbrella effort mirror bracket innocent roof ginger inch until wet";

@@ -1,1 +1,1 @@
-var mnemonic = "method media grape misery broken pig slide april margin aware speed above";
+var mnemonic = "manage warrior lion table taste snack deliver prepare detect mutual problem dice";

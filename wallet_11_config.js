@@ -1,1 +1,1 @@
-var mnemonic = "damp crew hidden barrel carbon evolve width enemy sniff produce mechanic wash";
+var mnemonic = "scan always wonder friend boring dog name book feel option foam distance";

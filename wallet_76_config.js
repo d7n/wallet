@@ -1,1 +1,1 @@
-var mnemonic = "simple pass aunt laptop replace market viable cup skin tissue version warfare";
+var mnemonic = "ethics dynamic waste elevator position weird congress cat nurse primary response mammal";

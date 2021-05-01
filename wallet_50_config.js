@@ -1,1 +1,1 @@
-var mnemonic = "chair label cream grant dragon win issue slush hammer cushion miracle twin";
+var mnemonic = "runway penalty sunset avocado occur mad flag horror narrow parrot hill ship";

@@ -1,1 +1,1 @@
-var mnemonic = "faculty couple ritual orchard shrimp sugar eight rifle amateur cargo host order";
+var mnemonic = "spawn brother scatter horn column salon grant innocent clarify number unfold depend";

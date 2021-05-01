@@ -1,1 +1,1 @@
-var mnemonic = "kid horror drip museum shoulder milk despair display slender three relax shove";
+var mnemonic = "wage mean run ring chief chalk defense joke basket network during behave";

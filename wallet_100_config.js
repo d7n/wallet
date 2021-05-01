@@ -1,1 +1,1 @@
-var mnemonic = "pause crowd faculty mom subway supreme box auction erosion era link harvest";
+var mnemonic = "beauty prosper fashion member slot visit trash labor nation surge sail gospel";

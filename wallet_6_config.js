@@ -1,1 +1,1 @@
-var mnemonic = "script jaguar hamster day wash response clever ocean find similar despair desk";
+var mnemonic = "october horn world robust virus decade fiscal anchor collect feel canoe digital";

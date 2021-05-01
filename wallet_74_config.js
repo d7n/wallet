@@ -1,1 +1,1 @@
-var mnemonic = "gadget sand inspire science dish giraffe inhale pepper disease birth engage slender";
+var mnemonic = "mammal donor ten shove health must strong main under dove mixed forget";

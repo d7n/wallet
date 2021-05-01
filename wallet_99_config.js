@@ -1,1 +1,1 @@
-var mnemonic = "guitar pitch chief fiscal insane network fiscal suggest gesture truck stomach renew";
+var mnemonic = "silk group bullet admit toy autumn neither swap december tired typical century";

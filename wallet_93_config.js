@@ -1,1 +1,1 @@
-var mnemonic = "airport pottery mesh abuse wide deliver right hold train flock fuel enemy";
+var mnemonic = "assist daring exclude lizard eye giggle car owner title pottery west tree";

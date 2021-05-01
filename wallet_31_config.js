@@ -1,1 +1,1 @@
-var mnemonic = "debate shrug goose swift course outer earth keen sort spider skirt awkward";
+var mnemonic = "market quality door useless chimney until this brass random duty gauge tray";

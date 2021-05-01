@@ -1,1 +1,1 @@
-var mnemonic = "more near muffin poem addict double rack stumble someone neck country mad";
+var mnemonic = "first skull mirror hammer expire bronze robust animal act negative viable crush";

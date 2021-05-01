@@ -1,1 +1,1 @@
-var mnemonic = "steel canvas head peanut pull road timber garlic barrel usage mass asthma";
+var mnemonic = "fitness media banner memory goddess finish office exercise naive earn explain rely";

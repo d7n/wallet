@@ -1,1 +1,1 @@
-var mnemonic = "fat rebuild sail refuse lunch cactus bullet museum daughter glide razor voyage";
+var mnemonic = "someone rocket version congress dream hunt enter athlete average nation awkward emerge";

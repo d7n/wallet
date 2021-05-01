@@ -1,1 +1,1 @@
-var mnemonic = "jaguar sugar measure mammal shield again type weird trash famous there latin";
+var mnemonic = "ride era caution violin squirrel fitness science hawk brand brand diagram middle";

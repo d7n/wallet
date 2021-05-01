@@ -1,1 +1,1 @@
-var mnemonic = "system canal click border tackle diet early problem point ladder cliff bread";
+var mnemonic = "rubber upper atom warrior spawn return leopard since gesture current flavor page";

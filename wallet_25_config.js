@@ -1,1 +1,1 @@
-var mnemonic = "normal visit violin mutual hard relax appear enlist exhibit stand keep torch";
+var mnemonic = "puppy sample bind risk account assist fork hollow what snake today ring";

@@ -1,1 +1,1 @@
-var mnemonic = "knife priority recipe account yard exhibit smart stairs helmet opera access pulse";
+var mnemonic = "armor old cake device spot width away entire night illness mercy seek";

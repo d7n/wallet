@@ -1,1 +1,1 @@
-var mnemonic = "logic black wolf dilemma stumble earn junk wagon sick divorce tired jaguar";
+var mnemonic = "nominee find satisfy parent return topple average imitate inform client protect frost";

@@ -1,1 +1,1 @@
-var mnemonic = "daring obvious motor near seat wagon false run captain know choice where";
+var mnemonic = "spoil believe garment train outdoor become fancy owner edge regular renew sorry";

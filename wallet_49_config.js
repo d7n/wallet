@@ -1,1 +1,1 @@
-var mnemonic = "beyond replace license kitchen clown always credit still call rent gas oil";
+var mnemonic = "shy siege novel sing ordinary scatter wisdom fresh elegant protect around bring";

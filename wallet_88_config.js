@@ -1,1 +1,1 @@
-var mnemonic = "muscle poverty wool awful approve major usual blade confirm neck grace hungry";
+var mnemonic = "approve quit regular mango uniform expire easy run safe cattle suggest token";

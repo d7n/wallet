@@ -1,1 +1,1 @@
-var mnemonic = "maple shoe increase farm rib old mail weird roof fortune gain kit";
+var mnemonic = "opinion gentle polar kitten soccer adjust gown raise economy town project pilot";

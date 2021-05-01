@@ -1,1 +1,1 @@
-var mnemonic = "river critic anchor affair sick nuclear blanket opera kind protect about pupil";
+var mnemonic = "enter again over clock decorate what load crash addict phone box result";

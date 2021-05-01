@@ -1,1 +1,1 @@
-var mnemonic = "fish hope resist exclude prefer use stamp borrow divert museum ugly chair";
+var mnemonic = "zoo famous wall wire summer frost style spoon innocent improve couch extra";

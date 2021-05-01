@@ -1,1 +1,1 @@
-var mnemonic = "chef custom prepare style author tuna lawn stairs ugly water glance ribbon";
+var mnemonic = "sample slim play knock welcome pluck donate dose joy taste citizen want";

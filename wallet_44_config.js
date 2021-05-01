@@ -1,1 +1,1 @@
-var mnemonic = "matter twist sad tumble today depth home torch pipe crouch hawk tourist";
+var mnemonic = "call fly satoshi utility stumble seven human armor grace sphere foster exotic";

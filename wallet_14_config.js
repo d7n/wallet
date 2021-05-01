@@ -1,1 +1,1 @@
-var mnemonic = "vanish speak lobster demand scatter apology miss shiver early dolphin normal casual";
+var mnemonic = "amount whale gown pizza glow fatigue orphan brass hawk nice stuff decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow crowd boost jazz ozone quote glow hazard thought garden rifle author";
+var mnemonic = "draw captain void vacuum taxi neglect target various thunder romance subway drive";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle royal dog winner reunion shrug pizza genre buzz sing easily rare";
+var mnemonic = "oval same pact ring gesture legal joke float across tomato tent friend";

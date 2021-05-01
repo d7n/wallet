@@ -1,1 +1,1 @@
-var mnemonic = "oyster seed outer myself mask exhaust correct recall promote snow bird divert";
+var mnemonic = "icon fresh skate notice sight cat fan crush simple cliff thank brush";

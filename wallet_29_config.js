@@ -1,1 +1,1 @@
-var mnemonic = "unusual trophy silly myth face shy sunset spare chaos dismiss song false";
+var mnemonic = "blur paddle mask joy mixed element van uncover mansion want enhance excess";

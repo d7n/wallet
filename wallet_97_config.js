@@ -1,1 +1,1 @@
-var mnemonic = "peanut canoe chicken coffee artist word hurt pen organ jealous actress write";
+var mnemonic = "rice carpet mention assist comfort stand pulp nuclear swap medal cushion crush";

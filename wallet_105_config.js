@@ -1,1 +1,1 @@
-var mnemonic = "match river industry puzzle rack payment deny wild shoe purity manage ski";
+var mnemonic = "waste shove dizzy spider upset kiwi thank strategy narrow planet weird lift";

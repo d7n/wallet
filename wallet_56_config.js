@@ -1,1 +1,1 @@
-var mnemonic = "prize clog will length dawn flower october clean drill flag more mass";
+var mnemonic = "vault evil love relax gap timber assault conduct quiz belt toilet egg";

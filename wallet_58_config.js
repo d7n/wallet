@@ -1,1 +1,1 @@
-var mnemonic = "accident staff hair achieve stick silver warrior blood token fun please shuffle";
+var mnemonic = "shadow swear robot awesome lunar cannon rough window grunt trap mobile inquiry";

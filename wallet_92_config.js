@@ -1,1 +1,1 @@
-var mnemonic = "nose cannon sun aerobic ramp artwork loan fossil pumpkin milk lounge margin";
+var mnemonic = "visa satoshi biology dune follow tumble vehicle jump trophy favorite already plunge";

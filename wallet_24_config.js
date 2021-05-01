@@ -1,1 +1,1 @@
-var mnemonic = "moon okay rich record glory prefer snake pudding render cattle normal quality";
+var mnemonic = "option fun boy scatter cute exercise effort unaware sketch prosper spoon arena";

@@ -1,1 +1,1 @@
-var mnemonic = "step change wheat recycle exit current curtain mistake business such museum guard";
+var mnemonic = "expect relief edit magic cruise spike salt puppy dog scale peanut human";

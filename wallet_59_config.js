@@ -1,1 +1,1 @@
-var mnemonic = "tip movie start dentist couple found now comfort neglect coyote leave art";
+var mnemonic = "bargain bird host vital tired unique flower fit bunker garage page deputy";

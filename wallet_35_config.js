@@ -1,1 +1,1 @@
-var mnemonic = "multiply elbow only vanish furnace reject toast unhappy bottom behave heavy alley";
+var mnemonic = "skill chimney dismiss tumble bunker monitor crash drift surface same gospel media";

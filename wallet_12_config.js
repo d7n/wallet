@@ -1,1 +1,1 @@
-var mnemonic = "bonus adjust retreat goddess gesture rather tired hole another swift address rifle";
+var mnemonic = "wood fatigue giraffe glow federal giggle draft derive modify parade fish cute";

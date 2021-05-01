@@ -1,1 +1,1 @@
-var mnemonic = "clog flight rather divert maid vintage oil friend salt device april between";
+var mnemonic = "village banana lift next armor bracket system lend female timber two amused";

@@ -1,1 +1,1 @@
-var mnemonic = "gap try sibling always seed thrive exhibit year april orbit width rocket";
+var mnemonic = "quality hungry pact shiver vibrant method donor south cage also virtual orphan";

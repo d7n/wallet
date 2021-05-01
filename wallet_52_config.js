@@ -1,1 +1,1 @@
-var mnemonic = "clutch asthma case custom blue theory zoo enact chapter pilot mule adjust";
+var mnemonic = "museum include border embark naive sail clip differ hungry income local repair";

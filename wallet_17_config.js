@@ -1,1 +1,1 @@
-var mnemonic = "immune pill laugh happy budget diesel castle rally wrong tenant force insect";
+var mnemonic = "business forest acoustic source wagon scorpion regular target beef lab valley atom";

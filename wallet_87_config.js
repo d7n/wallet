@@ -1,1 +1,1 @@
-var mnemonic = "jaguar circle speak fruit bundle robot roast region scene vehicle panel exercise";
+var mnemonic = "earth any fantasy effort remember develop confirm learn talent curve swift spawn";

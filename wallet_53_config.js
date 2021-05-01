@@ -1,1 +1,1 @@
-var mnemonic = "lady harbor special zebra acoustic lottery keep kind faculty family orient urge";
+var mnemonic = "galaxy poem carpet immense wreck sure under convince cloth brisk riot surface";

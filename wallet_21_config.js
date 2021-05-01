@@ -1,1 +1,1 @@
-var mnemonic = "install delay story wise wrestle once kind ball clerk family icon tent";
+var mnemonic = "slender poem country chase enhance job man torch knock cave unhappy security";

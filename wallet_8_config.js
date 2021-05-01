@@ -1,1 +1,1 @@
-var mnemonic = "raven inch crew transfer good follow sphere program rich hunt game science";
+var mnemonic = "start rare skill defy client slow bleak kidney ship enemy sand tunnel";

@@ -1,1 +1,1 @@
-var mnemonic = "assist dolphin save biology crush innocent extra auto spatial upset myself click";
+var mnemonic = "jewel high hope pear program payment potato label elephant afraid style inherit";

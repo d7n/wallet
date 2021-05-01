@@ -1,1 +1,1 @@
-var mnemonic = "salmon scare carpet wedding gas crack kick just word noise true fox";
+var mnemonic = "day labor claw unfair lock velvet awesome noble jealous twice you siren";

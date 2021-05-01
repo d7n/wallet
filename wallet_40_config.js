@@ -1,1 +1,1 @@
-var mnemonic = "aunt vanish sword fee toe mansion pudding can theory slogan gloom mercy";
+var mnemonic = "shine essay bunker parade matrix garage menu deposit science unlock define bamboo";

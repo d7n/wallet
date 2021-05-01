@@ -1,1 +1,1 @@
-var mnemonic = "file try fog frost tenant first chief stove course immense glide good";
+var mnemonic = "diary advice opinion ketchup pole mail machine lemon oil novel broom ice";

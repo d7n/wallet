@@ -1,1 +1,1 @@
-var mnemonic = "little write achieve say surprise onion autumn right tenant laugh flock three";
+var mnemonic = "close december wrap family edit nest imitate raven tiny assume recall faculty";

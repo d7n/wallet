@@ -1,1 +1,1 @@
-var mnemonic = "soccer monitor cigar water infant undo nurse dragon end proud cream embrace";
+var mnemonic = "age grant unveil estate priority egg before fruit sail machine load mango";

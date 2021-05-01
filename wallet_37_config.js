@@ -1,1 +1,1 @@
-var mnemonic = "pledge frown lunch plug sea tourist female maze combine tired pistol brain";
+var mnemonic = "fade sponsor expect stem drift local derive crime soda wrap bread witness";

@@ -1,1 +1,1 @@
-var mnemonic = "devote thumb captain random ancient region soap paper slot elder injury mercy";
+var mnemonic = "embark stomach alien cruise record comic north quote state damage taxi legend";

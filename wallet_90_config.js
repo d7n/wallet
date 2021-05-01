@@ -1,1 +1,1 @@
-var mnemonic = "uphold elevator wheat green vacant job permit honey flush impose tragic acoustic";
+var mnemonic = "expect loan evil require fury orbit sustain there true dwarf clay eyebrow";

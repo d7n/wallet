@@ -1,1 +1,1 @@
-var mnemonic = "split tray require roast rose book cigar same hair couple lawn glory";
+var mnemonic = "allow faculty demand neutral wine pride fury dial dilemma common middle chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "surge found industry document jaguar stereo endorse scale flock middle divert penalty";
+var mnemonic = "treat slush tomorrow bulb noble buddy test bamboo hobby gift magnet reflect";

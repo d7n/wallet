@@ -1,1 +1,1 @@
-var mnemonic = "boring possible unusual concert light typical stamp output goose useless raven finish";
+var mnemonic = "snap proof drill ability bundle drop anxiety salmon super insane actual anger";

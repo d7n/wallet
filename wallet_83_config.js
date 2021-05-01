@@ -1,1 +1,1 @@
-var mnemonic = "repeat vapor clay guess always slim two tooth dirt clutch excuse panel";
+var mnemonic = "fox small recycle depart retreat asset pulse year kitten crack pause indoor";

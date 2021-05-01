@@ -1,1 +1,1 @@
-var mnemonic = "frown slim click debris occur tone parade inhale solve text tiny village";
+var mnemonic = "half modify lunch east tennis path next carry marble thought index vacuum";

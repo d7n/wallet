@@ -1,1 +1,1 @@
-var mnemonic = "learn admit wink thing enlist private manual glow recall cluster gain corn";
+var mnemonic = "situate dream million scout mention warrior seven suggest ability bus once traffic";

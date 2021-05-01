@@ -1,1 +1,1 @@
-var mnemonic = "weekend swing rich offer crumble orphan undo drink attack accuse emotion buyer";
+var mnemonic = "canyon priority agree arctic vote tragic magic surface rifle name junk toddler";

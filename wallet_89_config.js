@@ -1,1 +1,1 @@
-var mnemonic = "online primary able approve salt grass yellow snack seed bench village acoustic";
+var mnemonic = "amazing tuna expose river ability drastic clown broccoli witness claw orphan reflect";

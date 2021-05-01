@@ -1,1 +1,1 @@
-var mnemonic = "dutch pelican end junk beauty annual cancel true name review music sense";
+var mnemonic = "fortune lend clutch alien ready runway goat duty plate enforce lion glimpse";

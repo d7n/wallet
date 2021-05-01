@@ -1,1 +1,1 @@
-var mnemonic = "pact winner carpet pole clump during squeeze hammer exile increase trim spot";
+var mnemonic = "exhaust scorpion bread please certain income vicious velvet suggest dog parrot gallery";
