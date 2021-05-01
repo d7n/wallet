@@ -1,1 +1,1 @@
-var mnemonic = "hockey better approve shove armed kingdom resist company muffin pluck clay palm";
+var mnemonic = "farm rubber disease range govern sword silent bid better moral silent churn";

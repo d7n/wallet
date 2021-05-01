@@ -1,1 +1,1 @@
-var mnemonic = "limit brass canal diesel best slam mirror bench tray mandate soccer fancy";
+var mnemonic = "water kick label hire width tuna spin again talent axis unlock rug";

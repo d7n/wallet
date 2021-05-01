@@ -1,1 +1,1 @@
-var mnemonic = "all tape gallery office breeze drastic loop slot easy this sand reason";
+var mnemonic = "age hood supply animal kangaroo year recipe teach effort divide daring follow";

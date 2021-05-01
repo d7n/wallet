@@ -1,1 +1,1 @@
-var mnemonic = "foam betray eight art magnet hole prosper float over rapid dice tourist";
+var mnemonic = "skin prosper general account feel segment room cry seminar lyrics unfold model";

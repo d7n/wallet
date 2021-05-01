@@ -1,1 +1,1 @@
-var mnemonic = "morning noodle evidence matter token rare habit push dutch pudding police stomach";
+var mnemonic = "shift crop muscle car alcohol grace squeeze small inmate monkey what boring";

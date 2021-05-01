@@ -1,1 +1,1 @@
-var mnemonic = "local differ improve target want toilet caution trade fine tell bone gap";
+var mnemonic = "scene swear patient achieve mobile merry stock weekend gentle voyage pipe chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "wish ankle barrel mixture course give midnight favorite coral uniform elephant surface";
+var mnemonic = "cycle dragon wet boost home float subject river sleep apart enemy worth";

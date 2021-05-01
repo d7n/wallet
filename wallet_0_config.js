@@ -1,1 +1,1 @@
-var mnemonic = "mimic chimney net vanish glide lecture dynamic cool loyal old butter company";
+var mnemonic = "excess alter album liquid start dawn have glove super frog ancient family";

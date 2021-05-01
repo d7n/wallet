@@ -1,1 +1,1 @@
-var mnemonic = "nose cupboard weather robot scene yard call that afraid flight rebel judge";
+var mnemonic = "item cost veteran coffee install young symbol expect hidden correct bleak reject";

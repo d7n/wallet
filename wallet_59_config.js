@@ -1,1 +1,1 @@
-var mnemonic = "awkward glad neutral chuckle raccoon talk lazy kick drive trouble resist fringe";
+var mnemonic = "tone mean seven village cabin century topic test canal tiger indoor tape";

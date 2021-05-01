@@ -1,1 +1,1 @@
-var mnemonic = "worry theory bind tribe industry that output staff rough flag can cheap";
+var mnemonic = "spell tuna truly one tiny glide hello mom online diamond drink potato";

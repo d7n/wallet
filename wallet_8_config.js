@@ -1,1 +1,1 @@
-var mnemonic = "that trophy blush wide raven market couple mail stage champion bench kiwi";
+var mnemonic = "review tilt tiny misery fossil must genre illness either can slogan reduce";

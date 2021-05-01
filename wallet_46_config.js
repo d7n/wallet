@@ -1,1 +1,1 @@
-var mnemonic = "nice any mixture help reason ship spy chaos empty movie that enemy";
+var mnemonic = "level amused million expand wool capable search profit engage glue top plate";

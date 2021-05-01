@@ -1,1 +1,1 @@
-var mnemonic = "above oval reopen sing abuse disagree clip squeeze midnight biology shift pool";
+var mnemonic = "save focus warm second faint anchor enrich bike mother issue cover develop";

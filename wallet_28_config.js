@@ -1,1 +1,1 @@
-var mnemonic = "uniform impulse review essence usual tissue cost advance bird chronic permit betray";
+var mnemonic = "explain square base sponsor abstract cram bulb next above ozone enlist verb";

@@ -1,1 +1,1 @@
-var mnemonic = "owner slight robot dirt citizen slow radar brief consider become uniform album";
+var mnemonic = "adult afford price draft thrive inhale meat insane shock exercise timber solution";

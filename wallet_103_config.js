@@ -1,1 +1,1 @@
-var mnemonic = "armor total decrease duck aspect diary wasp sheriff chase boil joke erase";
+var mnemonic = "panel ginger exhaust phone cinnamon jelly jump before doctor patch lens enable";

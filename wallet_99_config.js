@@ -1,1 +1,1 @@
-var mnemonic = "upgrade planet little feel stem flower share bar neck worry noble reflect";
+var mnemonic = "fire come cry drop occur seat convince unknown mixed vacuum armed develop";

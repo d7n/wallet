@@ -1,1 +1,1 @@
-var mnemonic = "unknown bike eager verb become client guide sweet episode layer family crack";
+var mnemonic = "code view veteran that family often pride fossil street steak essence gown";

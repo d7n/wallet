@@ -1,1 +1,1 @@
-var mnemonic = "song acoustic mass change prize pigeon develop bomb injury lunch erosion horror";
+var mnemonic = "skin exercise bachelor okay basket primary obtain canvas pitch brave spice code";

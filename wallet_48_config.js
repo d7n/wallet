@@ -1,1 +1,1 @@
-var mnemonic = "hollow cancel bargain test angle matrix owner depth pottery brick already excite";
+var mnemonic = "foster charge slice gossip bean lumber upon chest use ocean catalog decrease";

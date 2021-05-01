@@ -1,1 +1,1 @@
-var mnemonic = "skill become trip possible churn village yard great solve day midnight fresh";
+var mnemonic = "thumb bamboo track insect silver wild trumpet method flash aisle hard grit";

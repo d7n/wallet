@@ -1,1 +1,1 @@
-var mnemonic = "child twenty tumble deny glow horn mirror marble hill snow hedgehog plastic";
+var mnemonic = "damp fuel feature museum session cost ladder process layer minor wrap dance";

@@ -1,1 +1,1 @@
-var mnemonic = "perfect alert robot price gasp tip paper include powder opinion shrug way";
+var mnemonic = "robust monkey pull same task fever eyebrow broken weekend famous empty screen";

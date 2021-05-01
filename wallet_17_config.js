@@ -1,1 +1,1 @@
-var mnemonic = "square sheriff actress match father town enforce later bright canyon miracle super";
+var mnemonic = "reflect mansion stairs victory common setup domain project ankle top solution better";

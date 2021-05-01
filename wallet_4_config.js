@@ -1,1 +1,1 @@
-var mnemonic = "pear baby citizen mushroom else distance chief thunder bamboo shadow share cute";
+var mnemonic = "latin rough antique heavy crew blame veteran amount response eight silk vacuum";

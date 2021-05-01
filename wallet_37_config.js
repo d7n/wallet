@@ -1,1 +1,1 @@
-var mnemonic = "profit alley gospel afraid bless dignity zone nerve three ceiling subway inmate";
+var mnemonic = "pig century diesel arena design pretty lottery swap olive deposit truck resemble";

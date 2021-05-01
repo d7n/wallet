@@ -1,1 +1,1 @@
-var mnemonic = "modify want bright glide output medal leisure wet obscure almost purpose hockey";
+var mnemonic = "settle earn just oppose swallow travel foam purity auto error cheap ill";

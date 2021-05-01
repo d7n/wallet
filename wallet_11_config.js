@@ -1,1 +1,1 @@
-var mnemonic = "moon disease sport object adult taste undo marine bicycle much spice owner";
+var mnemonic = "describe merge into client pistol token damp tell long axis paddle style";

@@ -1,1 +1,1 @@
-var mnemonic = "economy pair affair sudden cigar critic thank ankle leave rabbit put south";
+var mnemonic = "engage circle fault jar fox gravity act message ride capital echo midnight";

@@ -1,1 +1,1 @@
-var mnemonic = "move mechanic wrist bounce bounce globe antenna arm rely powder pink stem";
+var mnemonic = "output rail rifle any call physical consider electric crush identify vibrant walk";

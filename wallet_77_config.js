@@ -1,1 +1,1 @@
-var mnemonic = "bubble kite weapon desk cute step replace advice inhale erupt famous clean";
+var mnemonic = "screen dilemma paper urge obtain front frame ankle cruel near cliff marriage";

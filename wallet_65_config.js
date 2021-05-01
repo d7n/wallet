@@ -1,1 +1,1 @@
-var mnemonic = "radar regular furnace vicious camp essence blast quality captain earth protect depth";
+var mnemonic = "art apology pilot other second pigeon reduce life detail when dutch few";

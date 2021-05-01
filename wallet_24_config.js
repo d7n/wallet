@@ -1,1 +1,1 @@
-var mnemonic = "bag final stumble analyst chapter silly tired length cement initial sauce cruise";
+var mnemonic = "maze hood trial laundry math guilt awesome someone smart burst beauty pole";

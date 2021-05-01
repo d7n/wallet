@@ -1,1 +1,1 @@
-var mnemonic = "educate cool clog casual harbor arrange dash manage drama produce citizen waste";
+var mnemonic = "wood upset surprise silver sudden frequent disagree busy cattle nut phrase transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "parade habit pottery acoustic lady keen enforce seed error report narrow help";
+var mnemonic = "month sand senior crucial lock lift like team arrest input tip control";

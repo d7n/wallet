@@ -1,1 +1,1 @@
-var mnemonic = "random robust impulse soldier unhappy pill address caught myth bomb pluck payment";
+var mnemonic = "discover shuffle letter term crazy matter give screen myself crawl wear parrot";

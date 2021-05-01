@@ -1,1 +1,1 @@
-var mnemonic = "nice laugh hole puppy crunch mutual attitude element tourist until provide canvas";
+var mnemonic = "turn luggage cream render physical soda slice exist run thrive balcony voyage";

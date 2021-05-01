@@ -1,1 +1,1 @@
-var mnemonic = "seminar else finger flavor stool bar test thank noodle before mandate cup";
+var mnemonic = "web rose credit slab dawn depend card layer strong close predict crouch";

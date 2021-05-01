@@ -1,1 +1,1 @@
-var mnemonic = "physical clog hybrid impose soap depth pulse heavy oven make stick during";
+var mnemonic = "bench anxiety receive curious sample bracket jelly scene best ceiling maple chimney";

@@ -1,1 +1,1 @@
-var mnemonic = "barrel toe weasel awesome leisure police dream certain dynamic vessel forum husband";
+var mnemonic = "embark gaze spell drift enhance hand fringe cousin hip sustain verify warrior";

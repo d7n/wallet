@@ -1,1 +1,1 @@
-var mnemonic = "nice someone host color tomato truth monster elbow valid gather oblige element";
+var mnemonic = "cart violin segment thunder piano naive spin pioneer arch cereal erode funny";

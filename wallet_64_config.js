@@ -1,1 +1,1 @@
-var mnemonic = "gate room despair noble motor carpet chuckle ten success mesh sustain loan";
+var mnemonic = "tower parade poverty barely holiday exit birth choose pride expand quiz section";

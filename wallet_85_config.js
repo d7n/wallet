@@ -1,1 +1,1 @@
-var mnemonic = "brief copper domain manual grit extend mixture snake chief song huge shrimp";
+var mnemonic = "celery shoe sign excess quarter dune clarify test collect favorite negative wealth";

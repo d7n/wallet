@@ -1,1 +1,1 @@
-var mnemonic = "fly teach tourist amused dove lend ordinary gallery observe kiwi employ nothing";
+var mnemonic = "loyal client steel release high winner reunion cram urban unknown height stadium";

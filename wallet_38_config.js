@@ -1,1 +1,1 @@
-var mnemonic = "believe cousin bundle excess face garlic elegant bachelor antenna almost dolphin soda";
+var mnemonic = "web frost absurd grow impact hobby stereo truck mountain garbage choose kick";

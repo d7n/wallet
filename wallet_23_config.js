@@ -1,1 +1,1 @@
-var mnemonic = "next submit kiss expand spoon zebra magic elbow canvas benefit awake cute";
+var mnemonic = "chimney bargain swarm chimney scare spare festival fringe matter mistake visual struggle";

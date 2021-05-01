@@ -1,1 +1,1 @@
-var mnemonic = "glove biology nut world taste number setup payment silent powder junk snake";
+var mnemonic = "thought film wide flip blossom meat want throw length airport unusual rare";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid east broom you sniff choice trick crumble hammer fortune crop bottom";
+var mnemonic = "swim speak man lounge pink inside quit vast render valid sustain oyster";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer random orient spell sorry obscure parent gasp coral rural expose wise";
+var mnemonic = "wink milk marriage cart session naive fitness broccoli trumpet genre message census";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle squeeze crop pretty want sport carry champion giant green shop crush";
+var mnemonic = "monster brisk tired soccer rural core vapor dish awkward echo hamster close";

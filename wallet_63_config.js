@@ -1,1 +1,1 @@
-var mnemonic = "visa cable oxygen woman daring machine work clerk captain image naive just";
+var mnemonic = "elephant time front skull jazz trash cupboard magic myth sing define song";

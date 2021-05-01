@@ -1,1 +1,1 @@
-var mnemonic = "actress thrive next ring wedding image shrug hat decrease radio tornado ski";
+var mnemonic = "animal brother razor intact insane novel all elevator depend payment buzz weird";

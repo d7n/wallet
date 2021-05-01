@@ -1,1 +1,1 @@
-var mnemonic = "club ugly phrase crowd razor junior copy upon kingdom task juice grab";
+var mnemonic = "average quiz cost force month canyon focus review kite suspect chair opera";

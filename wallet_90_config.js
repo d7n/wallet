@@ -1,1 +1,1 @@
-var mnemonic = "destroy smile wrong flash spell afraid frost skin unaware acquire castle napkin";
+var mnemonic = "ability arm tooth chimney shiver addict lift retire hair clog expose bulk";

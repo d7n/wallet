@@ -1,1 +1,1 @@
-var mnemonic = "angle bottom private scout old orbit school own detect warfare coffee elder";
+var mnemonic = "acoustic mail flight blame enemy bring tackle walk wall monster injury warm";

@@ -1,1 +1,1 @@
-var mnemonic = "few venue initial genuine left level post example wisdom coach wrestle open";
+var mnemonic = "secret virtual doctor urban stereo harsh gadget travel capital world check dentist";

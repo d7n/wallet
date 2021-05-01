@@ -1,1 +1,1 @@
-var mnemonic = "warfare path select only card universe push ramp fragile siren electric depth";
+var mnemonic = "pulse achieve library marriage wealth famous vintage body sea canyon uncle obscure";

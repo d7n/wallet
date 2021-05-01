@@ -1,1 +1,1 @@
-var mnemonic = "casual weather hobby round join nothing paddle crouch funny job squeeze follow";
+var mnemonic = "infant leaf february slight skate account push relief sense spell review door";

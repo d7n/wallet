@@ -1,1 +1,1 @@
-var mnemonic = "between pelican tennis spend spice wood shove multiply pretty renew thank become";
+var mnemonic = "knee magnet orient salad ready avoid busy fold project home saddle confirm";

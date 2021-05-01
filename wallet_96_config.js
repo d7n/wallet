@@ -1,1 +1,1 @@
-var mnemonic = "good eagle glass split history enlist yard flame retreat bleak film mouse";
+var mnemonic = "tooth space finger combine castle shuffle fashion library hub vague faculty drastic";

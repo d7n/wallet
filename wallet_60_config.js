@@ -1,1 +1,1 @@
-var mnemonic = "prison shadow pull fetch street milk prison excuse chef increase dragon choose";
+var mnemonic = "own match coffee deposit over gold topple connect action wasp rally hill";

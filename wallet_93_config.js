@@ -1,1 +1,1 @@
-var mnemonic = "favorite any risk bronze control edge novel lizard hard clown tuna muscle";
+var mnemonic = "upper core kidney timber lava bring agent enough smooth lobster fitness nurse";

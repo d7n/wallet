@@ -1,1 +1,1 @@
-var mnemonic = "inflict vintage quote practice resemble vault twelve error column differ napkin nature";
+var mnemonic = "arrange illegal theory more maid access enforce orbit crater sand simple consider";

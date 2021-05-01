@@ -1,1 +1,1 @@
-var mnemonic = "depart praise leader lab diet indicate reopen put myself rug carpet pull";
+var mnemonic = "learn phone unfold twenty immune capable rubber push indoor parent nice option";

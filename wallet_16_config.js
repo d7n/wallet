@@ -1,1 +1,1 @@
-var mnemonic = "aerobic already remain include gap reunion spice column tube park method method";
+var mnemonic = "pull glad can march mechanic blur wine permit faculty chief where daughter";

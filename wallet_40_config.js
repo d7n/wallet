@@ -1,1 +1,1 @@
-var mnemonic = "catch brown always over voice differ harvest spend day defense apology melt";
+var mnemonic = "tell select address correct melt egg glare unhappy token leisure glide chase";

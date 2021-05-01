@@ -1,1 +1,1 @@
-var mnemonic = "opinion level salad detail inherit fruit hurt obvious retreat rely above sweet";
+var mnemonic = "resist light report arctic control shoe trip gallery clip rival very matter";

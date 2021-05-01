@@ -1,1 +1,1 @@
-var mnemonic = "become inspire total vibrant tribe man brief earth cheese ladder member reject";
+var mnemonic = "bottom alcohol gesture nominee exit pudding enable fade pepper change gesture fly";

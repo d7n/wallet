@@ -1,1 +1,1 @@
-var mnemonic = "use fly fat scatter park canvas bonus extend shallow brain dream squirrel";
+var mnemonic = "million page tomato thunder beef hospital shop target noodle hole document admit";

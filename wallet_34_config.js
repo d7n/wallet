@@ -1,1 +1,1 @@
-var mnemonic = "surround lake oblige web oak segment infant solution vapor cricket element can";
+var mnemonic = "describe warrior skate nation ritual aspect physical beauty shadow lake age heavy";

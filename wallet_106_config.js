@@ -1,1 +1,1 @@
-var mnemonic = "diary voice trumpet royal wear bind short culture various bunker board floor";
+var mnemonic = "manual setup type notice orphan erosion unveil lake need output shove panther";

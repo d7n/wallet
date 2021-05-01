@@ -1,1 +1,1 @@
-var mnemonic = "insect ride cloth neck radio method snack because menu receive crack dizzy";
+var mnemonic = "equal ahead slam check flash busy prepare affair measure loop turtle middle";

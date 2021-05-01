@@ -1,1 +1,1 @@
-var mnemonic = "clip party swear summer brush sad above faculty neck curve heart minimum";
+var mnemonic = "enact gasp glare cupboard diesel north random leisure benefit worth stool clip";

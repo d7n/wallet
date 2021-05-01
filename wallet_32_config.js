@@ -1,1 +1,1 @@
-var mnemonic = "culture earn envelope ball around cause bridge chronic topple smooth naive three";
+var mnemonic = "record orange abuse tide mule hen into supply upon captain wish spy";

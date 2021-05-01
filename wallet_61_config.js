@@ -1,1 +1,1 @@
-var mnemonic = "orange funny loud sign wire develop doctor tag pencil patch arch planet";
+var mnemonic = "slogan bitter anchor toward pair picnic frog speak trouble penalty west deal";

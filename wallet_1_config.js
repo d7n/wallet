@@ -1,1 +1,1 @@
-var mnemonic = "damage choice swift neck mesh maximum knife frog acquire use cereal good";
+var mnemonic = "hire kitten south harsh elephant predict dignity nerve excuse memory lunch cliff";

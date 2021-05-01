@@ -1,1 +1,1 @@
-var mnemonic = "genuine range piece execute peasant range town express wood bone shift prosper";
+var mnemonic = "crew flavor traffic consider pony sadness wisdom adult figure tissue young young";

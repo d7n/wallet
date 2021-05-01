@@ -1,1 +1,1 @@
-var mnemonic = "poem banana exist athlete decide group grunt tone chuckle evolve smile impulse";
+var mnemonic = "foot meadow strike today edge mechanic steak shine blossom gauge strike pretty";

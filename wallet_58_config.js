@@ -1,1 +1,1 @@
-var mnemonic = "quarter pony share use noodle flavor hover crime reason license guitar below";
+var mnemonic = "enforce onion exchange cheap panel million agent more recycle item sound impose";

@@ -1,1 +1,1 @@
-var mnemonic = "bright jelly relief define claim empower ability input trouble label enact warm";
+var mnemonic = "improve clock phrase issue rubber lens put spend echo robust coin steel";

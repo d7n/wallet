@@ -1,1 +1,1 @@
-var mnemonic = "nominee fresh logic record diagram bicycle october cluster tourist mouse plate decrease";
+var mnemonic = "garbage animal flock hybrid pole exit dose fury blue nature start rabbit";

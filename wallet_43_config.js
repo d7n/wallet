@@ -1,1 +1,1 @@
-var mnemonic = "sunset seed winner hill gauge volume frog public shed raccoon plastic rely";
+var mnemonic = "deer whisper grief pupil plug extend win city group rural cabbage walk";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew thumb awake auto window that width sort account what hill famous";
+var mnemonic = "liquid glimpse floor board inject camera diet rack ensure aerobic gravity galaxy";

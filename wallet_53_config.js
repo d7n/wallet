@@ -1,1 +1,1 @@
-var mnemonic = "spice carry ritual eternal meadow junk stamp segment burden miss mango agent";
+var mnemonic = "recipe window spell wonder flip thought size volcano upgrade material nose cause";

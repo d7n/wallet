@@ -1,1 +1,1 @@
-var mnemonic = "robust latin now clay embrace snake estate noise real doctor van advice";
+var mnemonic = "artist magnet garden kick ski chapter mouse lamp fold carbon purchase shallow";

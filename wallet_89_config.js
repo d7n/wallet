@@ -1,1 +1,1 @@
-var mnemonic = "amount goat canyon carbon cover fuel increase wood coach battle announce pool";
+var mnemonic = "cotton liar wood rail solution donate leopard give evolve advance cotton shrug";

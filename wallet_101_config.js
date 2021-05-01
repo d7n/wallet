@@ -1,1 +1,1 @@
-var mnemonic = "inch board require globe physical gun tent dwarf maze hat above ten";
+var mnemonic = "orphan transfer school detect civil brown column among dune repair zoo please";
