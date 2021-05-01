@@ -1,1 +1,1 @@
-var mnemonic = "gift gas rose punch motion loyal bomb wish warfare castle despair core";
+var mnemonic = "saddle fuel tattoo labor vessel glide cousin wish illness source month ribbon";

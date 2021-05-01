@@ -1,1 +1,1 @@
-var mnemonic = "virus organ palm siren weird mention lesson apology sock armor curtain skin";
+var mnemonic = "demise extra strong banana theme ribbon hobby frozen rally team relief bulk";

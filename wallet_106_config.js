@@ -1,1 +1,1 @@
-var mnemonic = "horn kid lava auction artwork trash drink appear manual pink loan hard";
+var mnemonic = "perfect jaguar often clump monitor left item bring coil fiscal mammal sheriff";

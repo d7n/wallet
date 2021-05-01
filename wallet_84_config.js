@@ -1,1 +1,1 @@
-var mnemonic = "labor treat hint bacon transfer vanish reopen bundle cabbage double trim reopen";
+var mnemonic = "provide gym affair tail opinion coast universe float limit phrase faculty leave";

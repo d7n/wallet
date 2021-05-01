@@ -1,1 +1,1 @@
-var mnemonic = "pair net idle detect test huge clerk flip warm cave neutral west";
+var mnemonic = "bridge hazard insane source island seek device hire put album apple damage";

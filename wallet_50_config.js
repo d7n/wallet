@@ -1,1 +1,1 @@
-var mnemonic = "abuse vintage poem cute pact dragon castle found ready aisle chest patch";
+var mnemonic = "tray body twenty topic remain wise curtain athlete parent banana throw champion";

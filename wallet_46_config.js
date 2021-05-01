@@ -1,1 +1,1 @@
-var mnemonic = "oxygen long exact cinnamon square limit clerk level dash shiver crane output";
+var mnemonic = "raven sing discover length host kind skin cinnamon steak shuffle observe badge";

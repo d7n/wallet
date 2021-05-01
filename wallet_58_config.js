@@ -1,1 +1,1 @@
-var mnemonic = "tonight example pig afford improve island kick differ prepare clever better fresh";
+var mnemonic = "fat fresh grid outside raise model record consider boss estate sustain opinion";

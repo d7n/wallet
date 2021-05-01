@@ -1,1 +1,1 @@
-var mnemonic = "tide phone child hub feature ramp orbit lecture casino pizza dream below";
+var mnemonic = "decide farm lunch buyer trend wait electric fee annual cube design proud";

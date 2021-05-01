@@ -1,1 +1,1 @@
-var mnemonic = "insane check core bread another sick marriage arena radio piece system family";
+var mnemonic = "metal one output skirt try focus consider february talent soccer demise smoke";

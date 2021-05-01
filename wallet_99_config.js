@@ -1,1 +1,1 @@
-var mnemonic = "business obvious pulse rug silk kiwi stay lion retire math job tattoo";
+var mnemonic = "arrive food tourist thrive shiver must begin true method kidney material tribe";

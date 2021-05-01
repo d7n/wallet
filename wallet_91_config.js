@@ -1,1 +1,1 @@
-var mnemonic = "joy transfer family broken town tail era run foil boss tobacco approve";
+var mnemonic = "put enrich possible replace gap truth swap lunch note about also grass";

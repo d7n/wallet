@@ -1,1 +1,1 @@
-var mnemonic = "time leg situate peace table engage chapter elite conduct depart wasp media";
+var mnemonic = "load slim poet glare shine bicycle story write obey social search poem";

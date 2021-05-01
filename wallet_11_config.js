@@ -1,1 +1,1 @@
-var mnemonic = "nation great adapt layer impact wage kitten quality scare way denial prefer";
+var mnemonic = "strong tenant exit run toilet tool access drip avoid claw royal urban";

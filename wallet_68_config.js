@@ -1,1 +1,1 @@
-var mnemonic = "coffee cigar churn party someone effort planet stick castle tomorrow ivory exhaust";
+var mnemonic = "cross bone panda answer giant churn beef hunt napkin evidence follow usual";

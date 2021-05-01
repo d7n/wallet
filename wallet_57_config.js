@@ -1,1 +1,1 @@
-var mnemonic = "physical roof guilt match blue picnic advance tomorrow alcohol timber address enact";
+var mnemonic = "kidney post couple hair great novel vault balance public fault obtain once";

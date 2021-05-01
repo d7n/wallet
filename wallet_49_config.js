@@ -1,1 +1,1 @@
-var mnemonic = "safe acid ginger voice people produce alien exhibit special process window rapid";
+var mnemonic = "time stairs bronze bitter question recall almost common matter brown bubble gallery";

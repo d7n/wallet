@@ -1,1 +1,1 @@
-var mnemonic = "heavy make fan vapor elbow decide dutch release scissors bring nominee cable";
+var mnemonic = "collect razor toddler pretty stumble leaf still purse potato topple wasp claim";

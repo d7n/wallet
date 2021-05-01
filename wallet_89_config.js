@@ -1,1 +1,1 @@
-var mnemonic = "major choose sudden label thank prepare guilt permit erosion budget art pause";
+var mnemonic = "allow baby eyebrow travel search funny crunch trim spice robust kit kit";

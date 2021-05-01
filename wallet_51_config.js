@@ -1,1 +1,1 @@
-var mnemonic = "orphan jungle shoe inside aim awesome unit surface valve shove bone pyramid";
+var mnemonic = "hungry cable kind gift purchase nephew divert park roast blush lawsuit enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "level polar loan dolphin kiwi acoustic couple file morning evidence piano people";
+var mnemonic = "front erupt twin kitchen knife flush canvas exclude leader crucial danger rare";

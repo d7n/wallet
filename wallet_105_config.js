@@ -1,1 +1,1 @@
-var mnemonic = "scatter liar abuse unfold produce bracket off ball tunnel follow vacuum account";
+var mnemonic = "scan humble hybrid ride leg test brick bench layer aspect shrug romance";

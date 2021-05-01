@@ -1,1 +1,1 @@
-var mnemonic = "drum chief vast chunk energy tray exclude salmon honey mule want when";
+var mnemonic = "raise erode cycle suit valid shallow clown pear solve cherry learn visual";

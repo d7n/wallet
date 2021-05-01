@@ -1,1 +1,1 @@
-var mnemonic = "legal remain right film oval alone insect sock harvest stay flush sport";
+var mnemonic = "inmate valley install wise tank chef smooth anxiety laundry eternal dinner vault";

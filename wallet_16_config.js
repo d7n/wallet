@@ -1,1 +1,1 @@
-var mnemonic = "review ocean core sunny smoke assist wing casino lesson talk patient stone";
+var mnemonic = "file anchor cotton clap trust fork stick alter occur train tide dignity";

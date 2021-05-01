@@ -1,1 +1,1 @@
-var mnemonic = "setup purity humor toward turtle equip poem inside movie suggest venue coconut";
+var mnemonic = "vacant lounge grit escape foster vanish inform hat zone pyramid demise step";

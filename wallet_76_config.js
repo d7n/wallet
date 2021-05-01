@@ -1,1 +1,1 @@
-var mnemonic = "bargain acoustic swift yellow fossil increase adult trophy inform vault scissors clog";
+var mnemonic = "congress spy agree solution canal shy piece fee fan sustain embark cool";

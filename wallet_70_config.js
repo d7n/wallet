@@ -1,1 +1,1 @@
-var mnemonic = "urge dilemma panda ignore demand dish fiscal math hidden display slender net";
+var mnemonic = "spoil possible around arena giraffe detail symbol head stem chief true scrub";

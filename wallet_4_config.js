@@ -1,1 +1,1 @@
-var mnemonic = "leg entry physical bundle infant very deposit bag sad myself thought couch";
+var mnemonic = "empty credit man cruel mobile image forget live pudding check pig praise";

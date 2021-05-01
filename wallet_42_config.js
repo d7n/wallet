@@ -1,1 +1,1 @@
-var mnemonic = "find gasp bring educate alarm embrace next garment guilt blade coach vast";
+var mnemonic = "illegal sport label creek fork merry security lion autumn cost spring shuffle";

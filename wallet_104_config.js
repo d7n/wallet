@@ -1,1 +1,1 @@
-var mnemonic = "benefit unable heart asthma iron feed video burden mad neither mechanic senior";
+var mnemonic = "ordinary enroll treat already cable witness appear salute mind pistol bottom cover";

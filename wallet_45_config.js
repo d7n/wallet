@@ -1,1 +1,1 @@
-var mnemonic = "craft decorate quantum annual maximum kick switch file someone meadow junior demise";
+var mnemonic = "basket know pottery right unveil transfer stadium author retreat group census hand";

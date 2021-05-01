@@ -1,1 +1,1 @@
-var mnemonic = "gossip area era enrich case they damp innocent undo walnut stairs major";
+var mnemonic = "wagon cushion uphold medal purpose mix cycle quantum crazy brand jewel lazy";

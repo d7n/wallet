@@ -1,1 +1,1 @@
-var mnemonic = "ask joke south slab absent cave doll glory reason bone rubber budget";
+var mnemonic = "shallow plug project convince sport output thank slight earth popular drift ramp";

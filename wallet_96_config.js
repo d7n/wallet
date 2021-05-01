@@ -1,1 +1,1 @@
-var mnemonic = "pluck bar ramp ecology essay blossom divide surround pause cactus nasty traffic";
+var mnemonic = "economy rain maid belt blossom sauce lazy cloud rude system word torch";

@@ -1,1 +1,1 @@
-var mnemonic = "toy favorite half chaos injury puzzle holiday ankle put state undo phrase";
+var mnemonic = "grass outer work solid suit print text intact section lab disagree amateur";

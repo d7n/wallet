@@ -1,1 +1,1 @@
-var mnemonic = "embrace nut diary okay flat latin inhale sibling style turkey grit lunar";
+var mnemonic = "uphold brown young cherry write near flavor borrow struggle faith audit husband";

@@ -1,1 +1,1 @@
-var mnemonic = "boost defense thrive heart duck economy escape one burst sad purity noble";
+var mnemonic = "stage awful fetch animal rocket game day theme give only again guilt";

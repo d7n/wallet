@@ -1,1 +1,1 @@
-var mnemonic = "credit flag among design extend virus announce armor envelope cruise industry hood";
+var mnemonic = "script potato visa liar morning phrase fetch change isolate sick year creek";

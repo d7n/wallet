@@ -1,1 +1,1 @@
-var mnemonic = "spoil raccoon famous adapt gather divorce kick wolf blame magnet trash melt";
+var mnemonic = "ivory aerobic chicken meat latin inherit case essence tip average bitter december";

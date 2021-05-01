@@ -1,1 +1,1 @@
-var mnemonic = "horror brief dad wise equal school mammal knock size quick avoid smart";
+var mnemonic = "possible tower island vapor voice crystal icon crane arrow decline dad adult";

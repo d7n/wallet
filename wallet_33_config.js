@@ -1,1 +1,1 @@
-var mnemonic = "across peace alcohol argue together point vital cheese judge squeeze want blind";
+var mnemonic = "renew middle music replace common intact velvet relief ivory run cable tank";

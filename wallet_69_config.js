@@ -1,1 +1,1 @@
-var mnemonic = "arena observe force elder favorite force under later frown ball forum ask";
+var mnemonic = "kangaroo reward usual escape bar fiber retire uphold indicate limit actual evolve";

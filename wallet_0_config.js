@@ -1,1 +1,1 @@
-var mnemonic = "hero glove alcohol sail tell regular globe chalk must mask burden ridge";
+var mnemonic = "crop power else source denial tag broken upgrade amused damp illegal tower";

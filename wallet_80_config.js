@@ -1,1 +1,1 @@
-var mnemonic = "anxiety magnet gas curve path south size syrup easily sentence pair flight";
+var mnemonic = "enroll give public cricket flash movie carpet crash episode dwarf share perfect";

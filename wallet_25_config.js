@@ -1,1 +1,1 @@
-var mnemonic = "beauty extra never like bomb dice mesh broccoli input library rate mystery";
+var mnemonic = "choose muscle royal you dad bracket float pledge either friend benefit search";

@@ -1,1 +1,1 @@
-var mnemonic = "silly dinner prevent other flock move cook toward talent squirrel harvest economy";
+var mnemonic = "fall casual cancel cabbage jewel finger candy subject correct hamster aim mistake";

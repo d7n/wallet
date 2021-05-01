@@ -1,1 +1,1 @@
-var mnemonic = "fitness ahead mad scale cricket orphan casual case flat cover rail spice";
+var mnemonic = "robot kite away tool tone unhappy muscle medal argue machine onion index";

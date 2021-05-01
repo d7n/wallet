@@ -1,1 +1,1 @@
-var mnemonic = "identify tent boy globe rich turkey spice then axis cotton jeans bleak";
+var mnemonic = "group clown bag deal lake unique doll execute relax daughter naive puzzle";

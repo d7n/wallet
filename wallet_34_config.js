@@ -1,1 +1,1 @@
-var mnemonic = "stage spell poem marine violin anger tired accuse defy brain clip clarify";
+var mnemonic = "siege indoor ocean heart very leopard defense answer morning style pyramid age";

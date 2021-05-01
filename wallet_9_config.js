@@ -1,1 +1,1 @@
-var mnemonic = "script face vocal gift usual pet picnic alert tornado change faith disorder";
+var mnemonic = "often tree tube play picnic rigid fiber such year vapor false screen";

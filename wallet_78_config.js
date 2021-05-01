@@ -1,1 +1,1 @@
-var mnemonic = "choice first never control snap pistol slam nothing pencil surface render romance";
+var mnemonic = "someone cannon uncover slogan aisle index symbol potato glove century among index";

@@ -1,1 +1,1 @@
-var mnemonic = "surge action attack maid swarm family loan slight payment juice school loan";
+var mnemonic = "auction find pulp spice couple hope nephew body symptom globe debate castle";

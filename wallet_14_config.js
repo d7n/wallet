@@ -1,1 +1,1 @@
-var mnemonic = "bunker syrup legal pyramid that pizza bargain cage jeans wink impose orphan";
+var mnemonic = "traffic base water link extend dry swallow credit large prefer cart vague";

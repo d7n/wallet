@@ -1,1 +1,1 @@
-var mnemonic = "work list future train identify artist zoo point annual virus draw eager";
+var mnemonic = "forget enjoy infant envelope siren sibling page huge nest crater disorder depend";

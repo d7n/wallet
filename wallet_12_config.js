@@ -1,1 +1,1 @@
-var mnemonic = "outside pudding cricket kitchen shed suspect miss dismiss hat purity much clutch";
+var mnemonic = "blur lizard mirror torch blouse valve hire veteran athlete estate essay net";

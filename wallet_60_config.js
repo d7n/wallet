@@ -1,1 +1,1 @@
-var mnemonic = "radio panda version huge over can mind party help matter axis clown";
+var mnemonic = "surface lesson wise repeat grain surprise keen utility fine misery broom casual";

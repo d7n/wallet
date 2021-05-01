@@ -1,1 +1,1 @@
-var mnemonic = "curve benefit voice dash cave reunion viable actress eagle future among fringe";
+var mnemonic = "hotel trophy cactus rule duck monkey unfold toddler moral walnut rose uncle";

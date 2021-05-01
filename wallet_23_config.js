@@ -1,1 +1,1 @@
-var mnemonic = "clog cave hard danger assist giant task bless decorate click around tornado";
+var mnemonic = "visual climb all joy manage silk wine end acquire beauty uphold crazy";

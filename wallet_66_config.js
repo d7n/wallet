@@ -1,1 +1,1 @@
-var mnemonic = "venue element option ivory forget poem curve comfort question client exotic keen";
+var mnemonic = "network mesh brisk cargo blade labor clever radar embody scorpion army antenna";

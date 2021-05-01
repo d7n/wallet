@@ -1,1 +1,1 @@
-var mnemonic = "frame scan alien boss lonely ankle diamond together extend absent fee crisp";
+var mnemonic = "fabric predict smoke faint lemon symbol grow depart trap embark wet squirrel";

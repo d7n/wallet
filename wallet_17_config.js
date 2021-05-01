@@ -1,1 +1,1 @@
-var mnemonic = "token bean auto host special load pyramid vendor drive wine very topic";
+var mnemonic = "office series since muffin crunch profit viable know below good daughter page";

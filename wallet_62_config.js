@@ -1,1 +1,1 @@
-var mnemonic = "level myth put private great curious one copper woman record century blur";
+var mnemonic = "toddler return student ladder artefact category grape disorder brand clump degree this";

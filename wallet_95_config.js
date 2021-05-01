@@ -1,1 +1,1 @@
-var mnemonic = "feel swap bonus camp kit debris dance balcony slush online menu mosquito";
+var mnemonic = "brick allow grant drastic dash bamboo hint dawn casino they analyst federal";

@@ -1,1 +1,1 @@
-var mnemonic = "decade rookie country shell boy sleep solid owner atom boat open budget";
+var mnemonic = "fluid birth scrap illness slogan little lounge roast window awake fatal quarter";

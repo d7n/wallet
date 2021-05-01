@@ -1,1 +1,1 @@
-var mnemonic = "produce sand soon either junior math steel zero absorb try lion release";
+var mnemonic = "alien inmate feel chimney frown any expose shadow grain bicycle spread diary";

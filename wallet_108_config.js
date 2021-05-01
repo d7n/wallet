@@ -1,1 +1,1 @@
-var mnemonic = "quick alpha lobster visa gorilla exist leg open glad inhale firm cute";
+var mnemonic = "coffee nasty junior world kit pyramid flush flame clog rail movie wait";

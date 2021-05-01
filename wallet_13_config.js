@@ -1,1 +1,1 @@
-var mnemonic = "board viable develop melt defy tragic level antenna judge vendor conduct income";
+var mnemonic = "pencil crouch regret smile laugh decade focus polar wolf silk orange banana";

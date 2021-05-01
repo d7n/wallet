@@ -1,1 +1,1 @@
-var mnemonic = "elegant route upon reform orient afford trip job toy forum assist machine";
+var mnemonic = "rapid sustain buddy cheese shiver discover electric assault velvet talent tiger quiz";

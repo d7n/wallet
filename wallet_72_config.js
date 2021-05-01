@@ -1,1 +1,1 @@
-var mnemonic = "absorb frost early lift slice tuna page search scan grain sphere spirit";
+var mnemonic = "rain yellow control gasp slogan zoo demise build salt segment sweet culture";

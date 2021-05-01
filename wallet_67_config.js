@@ -1,1 +1,1 @@
-var mnemonic = "basic coil bonus mention elegant obtain brave life improve airport attend wise";
+var mnemonic = "duck scissors annual before pet assault effort unfair method race turkey soap";

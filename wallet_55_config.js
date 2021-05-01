@@ -1,1 +1,1 @@
-var mnemonic = "scan riot powder live fetch thrive group okay axis this virtual half";
+var mnemonic = "crouch keen chicken grain annual tray boring step ridge want choose spring";

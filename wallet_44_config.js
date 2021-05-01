@@ -1,1 +1,1 @@
-var mnemonic = "swim couple runway coffee ask nut outer anxiety glad goose birth disorder";
+var mnemonic = "enemy bus fortune mention grace close train warrior slot invite traffic attack";

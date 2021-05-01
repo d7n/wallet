@@ -1,1 +1,1 @@
-var mnemonic = "monster income elephant canyon inner guess vessel jewel return foster entire leopard";
+var mnemonic = "oven color robust tray observe alcohol blue pass farm parent wise chapter";

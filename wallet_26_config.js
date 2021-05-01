@@ -1,1 +1,1 @@
-var mnemonic = "kind episode unique same shiver village meat side odor toilet economy student";
+var mnemonic = "perfect same erosion benefit provide pyramid future casino believe unknown fun same";

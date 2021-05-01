@@ -1,1 +1,1 @@
-var mnemonic = "expire remain badge fog sound twice jelly digital always special fatal omit";
+var mnemonic = "payment champion island dune present leisure story project fine private melt engine";

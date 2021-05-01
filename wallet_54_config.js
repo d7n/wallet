@@ -1,1 +1,1 @@
-var mnemonic = "forest puzzle bird talk seat trend knock pet pair salon snow general";
+var mnemonic = "code raise error hurdle airport silk ripple pave state gold type excuse";

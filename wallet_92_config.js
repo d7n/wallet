@@ -1,1 +1,1 @@
-var mnemonic = "angry crime pioneer sausage evidence enhance enact manual warm drum unlock clog";
+var mnemonic = "hold range envelope inject expand impose theory notice engine stone solution maid";

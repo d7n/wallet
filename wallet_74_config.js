@@ -1,1 +1,1 @@
-var mnemonic = "parade scale firm palace tail hundred iron crater dignity siege vapor damp";
+var mnemonic = "model cloth hollow hole client crunch guess toilet thrive parade multiply animal";

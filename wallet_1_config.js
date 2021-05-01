@@ -1,1 +1,1 @@
-var mnemonic = "pluck search success tool awful myself split venture seminar toy sphere payment";
+var mnemonic = "economy tape build indicate dice click save enrich actual august scale train";

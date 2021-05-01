@@ -1,1 +1,1 @@
-var mnemonic = "silver heart oyster sound joke current utility author scale cause lend exclude";
+var mnemonic = "sister entire genuine enough parent abstract change crazy orchard burst bulb vessel";

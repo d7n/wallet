@@ -1,1 +1,1 @@
-var mnemonic = "strike essay pact human mask dinosaur gasp dilemma scan hen cabbage place";
+var mnemonic = "achieve major demise angle pepper shock viable what squirrel tuition pony spring";

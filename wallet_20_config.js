@@ -1,1 +1,1 @@
-var mnemonic = "earn invite consider wild nose pulp shrimp stock grunt turtle rely boost";
+var mnemonic = "sadness delay raise inherit cheap nature hurdle keep bulb slight gym sword";

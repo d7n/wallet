@@ -1,1 +1,1 @@
-var mnemonic = "panther buyer satisfy width scale polar wire elevator badge improve puzzle crucial";
+var mnemonic = "great hazard picture year equal chicken pizza tell plastic rib diagram feel";

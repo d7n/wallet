@@ -1,1 +1,1 @@
-var mnemonic = "soldier bean glory virtual dust picture apple state sad humor draft clean";
+var mnemonic = "cost laundry year crush kite major recipe secret office badge jump door";

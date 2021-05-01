@@ -1,1 +1,1 @@
-var mnemonic = "sponsor hundred long debris collect fresh brown kite guide stumble raise stereo";
+var mnemonic = "shoot acid salad balcony address pitch outside keep round sphere drift theory";

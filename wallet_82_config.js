@@ -1,1 +1,1 @@
-var mnemonic = "umbrella sunset kangaroo flip know into crack dizzy sand base rival modify";
+var mnemonic = "tunnel desert choose hurry learn noise escape oyster biology fox aerobic teach";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum major cigar cousin rebuild oak modify bar cupboard enemy danger swallow";
+var mnemonic = "perfect protect lady casual cost seed carpet night gossip echo pony nephew";

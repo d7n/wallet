@@ -1,1 +1,1 @@
-var mnemonic = "satoshi gather disorder erode file sand legal puppy travel lobster illegal soldier";
+var mnemonic = "join alert whale fancy twenty century hazard chase floor split defy science";

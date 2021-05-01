@@ -1,1 +1,1 @@
-var mnemonic = "fetch audit pole pistol confirm dolphin pumpkin garment asthma champion mouse social";
+var mnemonic = "cloud dragon theme pulp mirror length farm raven speed always cram cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "item crane attend force civil clutch guilt merge april yard catalog aerobic";
+var mnemonic = "jacket sight valve stumble fantasy sustain orange chronic rack apple saddle erase";

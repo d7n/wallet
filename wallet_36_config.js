@@ -1,1 +1,1 @@
-var mnemonic = "hotel spawn fall length master owner garlic around enjoy join pyramid erase";
+var mnemonic = "differ toy front quality play hint duty duck vivid pig record fork";

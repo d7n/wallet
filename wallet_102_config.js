@@ -1,1 +1,1 @@
-var mnemonic = "category deny crack monkey cushion island shine custom engage range tornado loyal";
+var mnemonic = "fine saddle panel radio define goat disorder sunset habit silly account transfer";
