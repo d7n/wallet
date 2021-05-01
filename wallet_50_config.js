@@ -1,1 +1,1 @@
-var mnemonic = "remain gospel shed rice destroy act pen galaxy tennis sponsor chase all";
+var mnemonic = "blur fame valley churn purity general gadget denial reopen shrug expect blur";

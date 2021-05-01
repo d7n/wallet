@@ -1,1 +1,1 @@
-var mnemonic = "deliver ecology toy gesture cloth fold salt page peace stadium vote prison";
+var mnemonic = "skate enlist pumpkin alcohol float flavor order april timber motor clip pill";

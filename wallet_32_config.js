@@ -1,1 +1,1 @@
-var mnemonic = "budget soft box matter amount siren civil together into rent response jungle";
+var mnemonic = "soldier shift tattoo scrub close grape speak trophy ask symbol offer brush";

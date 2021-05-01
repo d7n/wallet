@@ -1,1 +1,1 @@
-var mnemonic = "desk tube denial autumn illegal nurse friend exist clown crane april father";
+var mnemonic = "flash text onion aware shaft humble word attack pattern fuel subway ketchup";

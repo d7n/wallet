@@ -1,1 +1,1 @@
-var mnemonic = "expect vocal useless injury rug absorb tail horn you fine topic garage";
+var mnemonic = "load stage virtual play brisk silver pigeon evidence armed magic attract measure";

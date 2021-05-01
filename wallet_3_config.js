@@ -1,1 +1,1 @@
-var mnemonic = "frozen autumn hazard peasant someone melt kiwi album feel vault luggage noble";
+var mnemonic = "bread century caught lounge mosquito better jungle logic crane wide photo club";

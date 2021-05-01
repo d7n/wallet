@@ -1,1 +1,1 @@
-var mnemonic = "blanket kitchen flip cheap brain angry heavy vintage language laptop swim near";
+var mnemonic = "shove disease demand original weasel meat able appear ship stand pass vapor";

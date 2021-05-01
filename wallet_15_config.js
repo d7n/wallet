@@ -1,1 +1,1 @@
-var mnemonic = "trust embody describe amateur slim sauce pet virtual erupt broken course able";
+var mnemonic = "speak beef domain swarm leg liar couple discover check trim name clinic";

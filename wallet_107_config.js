@@ -1,1 +1,1 @@
-var mnemonic = "whip oval season depend piece foam weapon penalty truly young enough path";
+var mnemonic = "abstract dry true hamster ancient target ethics moment below science core into";

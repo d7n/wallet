@@ -1,1 +1,1 @@
-var mnemonic = "tackle undo ladder desk urban wealth arena swallow laugh special shine border";
+var mnemonic = "destroy chef humble leave sweet mushroom afford era wall rocket health thumb";

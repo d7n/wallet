@@ -1,1 +1,1 @@
-var mnemonic = "series cheese bind focus east benefit mansion coyote business later mango grape";
+var mnemonic = "crew biology hat view matter one damp seat south lend permit scrap";

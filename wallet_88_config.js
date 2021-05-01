@@ -1,1 +1,1 @@
-var mnemonic = "poverty buzz shrimp robot improve motion latin fluid fashion matter obey tuition";
+var mnemonic = "utility angle owner chase length type sound found horse hour survey bridge";

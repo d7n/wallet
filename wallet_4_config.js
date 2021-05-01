@@ -1,1 +1,1 @@
-var mnemonic = "glide harvest today divert educate spoil gather latin exercise dutch devote almost";
+var mnemonic = "right off organ dignity gift blouse explain receive trial father broom garment";

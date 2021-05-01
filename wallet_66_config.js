@@ -1,1 +1,1 @@
-var mnemonic = "alley victory bulk come erupt boil cash already fall require alarm neither";
+var mnemonic = "royal truth property page scale coral rookie sentence utility exhaust eternal easy";

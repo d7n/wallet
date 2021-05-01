@@ -1,1 +1,1 @@
-var mnemonic = "hole evoke announce title sniff obtain dose donor chair describe celery crumble";
+var mnemonic = "dismiss flat coach hover riot dad shift pudding negative lend ahead tuition";

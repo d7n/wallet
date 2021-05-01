@@ -1,1 +1,1 @@
-var mnemonic = "happy pass loyal conduct melt rubber fruit mesh word pepper outside drift";
+var mnemonic = "wheat panel pen habit slight wet naive turtle earth canal combine print";

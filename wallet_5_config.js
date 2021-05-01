@@ -1,1 +1,1 @@
-var mnemonic = "submit dizzy foot raise dizzy enable become gift drop cargo oppose daughter";
+var mnemonic = "define coffee always spot kingdom solution road begin gas twin open receive";

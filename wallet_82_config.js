@@ -1,1 +1,1 @@
-var mnemonic = "grocery found bind swallow head green enhance cable work simple buyer jaguar";
+var mnemonic = "when private secret marble lemon air guard student pig inject cool jealous";

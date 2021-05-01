@@ -1,1 +1,1 @@
-var mnemonic = "monster slot release glad soon spend under glad crawl above lecture rotate";
+var mnemonic = "regret champion there polar humor cinnamon rather owner idea image fat analyst";

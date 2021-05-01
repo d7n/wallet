@@ -1,1 +1,1 @@
-var mnemonic = "always live segment learn measure rude food crash program issue hub always";
+var mnemonic = "upgrade ribbon system stage offer twin poem scrap amused pattern day web";

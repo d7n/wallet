@@ -1,1 +1,1 @@
-var mnemonic = "scare route divorce army rely owner crisp imitate measure laundry nephew mandate";
+var mnemonic = "aisle aware tribe cause wisdom sound van ketchup sort nurse consider concert";

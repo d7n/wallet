@@ -1,1 +1,1 @@
-var mnemonic = "sustain jungle tray snow guilt sock amateur middle pig gravity habit grain";
+var mnemonic = "crew street soap wave taxi rookie used festival traffic invite reveal surface";

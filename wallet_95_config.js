@@ -1,1 +1,1 @@
-var mnemonic = "base audit market invest kit hammer one reform observe priority hood powder";
+var mnemonic = "client quick just artefact eyebrow mountain blind ivory purchase elbow hawk tissue";

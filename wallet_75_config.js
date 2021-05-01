@@ -1,1 +1,1 @@
-var mnemonic = "rib since aisle cup penalty master runway ill purse rapid banana prefer";
+var mnemonic = "scrap envelope tape property cricket enrich kingdom tourist number ability track anger";

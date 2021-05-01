@@ -1,1 +1,1 @@
-var mnemonic = "carbon moment able expect solution street guide scorpion reject head legend illness";
+var mnemonic = "task swing cream protect lava random all illness artefact test cram mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "myth material dove suit wisdom jaguar peasant seminar fine boil episode wheat";
+var mnemonic = "exotic mutual mean prefer recipe idea industry fit sibling increase decline road";

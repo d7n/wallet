@@ -1,1 +1,1 @@
-var mnemonic = "merge pave patrol bronze brand cannon glare sand skill harvest submit girl";
+var mnemonic = "humor supply credit onion damp critic theory immune local illegal unlock where";

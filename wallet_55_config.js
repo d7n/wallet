@@ -1,1 +1,1 @@
-var mnemonic = "wreck have luxury fragile mixed panic brain economy census neutral club leaf";
+var mnemonic = "pencil sound settle anxiety fix chapter stone vehicle abstract cigar false order";

@@ -1,1 +1,1 @@
-var mnemonic = "lend bar argue mouse galaxy jump bacon valve west give attend same";
+var mnemonic = "pretty plug include allow become range indicate buyer swim liquid town mule";

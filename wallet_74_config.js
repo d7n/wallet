@@ -1,1 +1,1 @@
-var mnemonic = "rough crack rose appear diamond rebuild cushion worth drastic slush topple topic";
+var mnemonic = "powder outer real bracket mesh unaware pond coach peace finger result fit";

@@ -1,1 +1,1 @@
-var mnemonic = "derive way boost maple carbon banana popular view doll target fever capital";
+var mnemonic = "spawn bag fragile tag fine benefit miss seat knife tip depend addict";

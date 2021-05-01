@@ -1,1 +1,1 @@
-var mnemonic = "butter fly secret fury forward alert around grant have sphere organ rather";
+var mnemonic = "say simple earn crater fan hole sadness space vault multiply medal depend";

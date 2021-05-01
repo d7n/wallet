@@ -1,1 +1,1 @@
-var mnemonic = "hair notice fee ten tiger strong weekend frog slender object secret initial";
+var mnemonic = "vault rabbit present leader spend element cherry brand swap stomach pepper tortoise";

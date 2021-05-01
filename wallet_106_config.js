@@ -1,1 +1,1 @@
-var mnemonic = "fork tower balcony owner nothing announce adapt throw benefit chapter pause magnet";
+var mnemonic = "balance trumpet knife monkey endless security jungle claw throw galaxy tissue half";

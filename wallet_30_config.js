@@ -1,1 +1,1 @@
-var mnemonic = "color type position country utility tooth dirt shadow carry rather position outside";
+var mnemonic = "gold fantasy tray ethics between captain copy waste kit hedgehog upgrade fat";

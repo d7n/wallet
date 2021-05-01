@@ -1,1 +1,1 @@
-var mnemonic = "chimney prevent draw lake increase easy stable learn transfer float sketch pitch";
+var mnemonic = "party zero wasp six nature view artist lake couple enlist elite logic";

@@ -1,1 +1,1 @@
-var mnemonic = "mansion enable change harbor foster craft crisp galaxy rebuild clean shy practice";
+var mnemonic = "prepare sauce faint disagree surface lecture spot news tumble canvas multiply reduce";

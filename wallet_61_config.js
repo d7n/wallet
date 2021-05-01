@@ -1,1 +1,1 @@
-var mnemonic = "thrive industry relief immense improve good proud jungle corn crawl witness advance";
+var mnemonic = "shop medal lamp protect reward friend time confirm pond body cheese argue";

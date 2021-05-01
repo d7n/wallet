@@ -1,1 +1,1 @@
-var mnemonic = "basic grunt surprise seed design electric mimic evoke also chalk edge weird";
+var mnemonic = "foster visa zero disease captain cherry inject hope brief solid catch cram";

@@ -1,1 +1,1 @@
-var mnemonic = "cheap make term vocal used siren hen resemble filter idea video cash";
+var mnemonic = "devote shift coffee trade zebra demand sun sustain lend ketchup soldier clip";

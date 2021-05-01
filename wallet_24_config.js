@@ -1,1 +1,1 @@
-var mnemonic = "tattoo harvest item nose laundry devote high surge net swamp original alpha";
+var mnemonic = "illness theory age pact indoor quality tray release want gallery acoustic busy";

@@ -1,1 +1,1 @@
-var mnemonic = "click predict glare thought medal umbrella help insane sting duck punch company";
+var mnemonic = "fat camp oven trash element wrist retire lion faith estate dance session";

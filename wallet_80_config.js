@@ -1,1 +1,1 @@
-var mnemonic = "ability bar amount hurdle ring when dutch abandon calm goddess enforce betray";
+var mnemonic = "sock axis jelly bag illness ripple cluster clarify wheat maximum radio enforce";

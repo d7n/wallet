@@ -1,1 +1,1 @@
-var mnemonic = "quality ozone section swift teach minor draft keen actual ivory code target";
+var mnemonic = "hole involve fatigue decrease oblige duty marine describe addict mention immune assume";

@@ -1,1 +1,1 @@
-var mnemonic = "script able amount nurse slab steak bulb can captain honey steel friend";
+var mnemonic = "volume shallow pause ask cry waste burst gold verify edge cluster wave";

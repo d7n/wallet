@@ -1,1 +1,1 @@
-var mnemonic = "flame curve rate please catch mobile tip phrase general build forget coconut";
+var mnemonic = "gallery say fee thrive you party bless ecology state need point raw";

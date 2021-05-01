@@ -1,1 +1,1 @@
-var mnemonic = "trade bright throw camp metal dirt put boss deposit differ bright stock";
+var mnemonic = "canyon lamp about rigid sheriff quote record laptop fish target search crack";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect cereal clutch steak test begin success borrow alert wait nature hello";
+var mnemonic = "symbol change broccoli youth moment mango reveal chat blossom attack season obey";

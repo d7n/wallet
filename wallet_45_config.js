@@ -1,1 +1,1 @@
-var mnemonic = "double ship slam solution garbage goose scare give rigid pigeon beyond change";
+var mnemonic = "extra eyebrow slam fragile increase wood debate hold note soldier situate magic";

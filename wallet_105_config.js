@@ -1,1 +1,1 @@
-var mnemonic = "kiwi cable people slim limb wife program chair vacuum surface return orange";
+var mnemonic = "abuse spare artwork humble cup explain wonder bullet roast rather surface humble";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard soft follow primary energy cross spray affair obvious source shell entire";
+var mnemonic = "together enjoy sound innocent always someone become gallery garden divert roof point";

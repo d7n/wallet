@@ -1,1 +1,1 @@
-var mnemonic = "filter silent exercise pigeon basic index era winter enact pattern alien wife";
+var mnemonic = "oval eagle fold elite concert use pond ship ability donor case eternal";

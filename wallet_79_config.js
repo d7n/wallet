@@ -1,1 +1,1 @@
-var mnemonic = "slot emotion impact impose segment captain monitor glare usage plate shine law";
+var mnemonic = "vocal confirm pepper alter swap gallery grant issue rebel first allow suspect";

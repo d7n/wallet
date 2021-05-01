@@ -1,1 +1,1 @@
-var mnemonic = "auction van artwork expect uniform lion matrix nominee young media bitter fly";
+var mnemonic = "quality elevator enjoy slush salt design wide bus walk message hurdle toddler";

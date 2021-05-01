@@ -1,1 +1,1 @@
-var mnemonic = "love cover obtain clever design scare bargain lunch ten vicious once brick";
+var mnemonic = "rotate bachelor width absorb hole true abandon earth category raven chaos error";

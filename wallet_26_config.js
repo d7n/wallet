@@ -1,1 +1,1 @@
-var mnemonic = "sort tuna ahead expect obvious column twist silver fiction behind village rich";
+var mnemonic = "patient position track sting syrup check borrow media toast pumpkin trim december";

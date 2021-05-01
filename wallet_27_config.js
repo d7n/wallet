@@ -1,1 +1,1 @@
-var mnemonic = "swing figure bamboo grain blur cushion strong supply icon guard ship zoo";
+var mnemonic = "country hotel stove exotic human behind attitude govern adapt right host camp";

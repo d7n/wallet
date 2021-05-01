@@ -1,1 +1,1 @@
-var mnemonic = "juice soap reject rug piece awesome couch home grow liquid endorse truth";
+var mnemonic = "response rally draw item shrug exclude found fame weather panther arena inflict";

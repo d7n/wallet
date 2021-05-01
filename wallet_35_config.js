@@ -1,1 +1,1 @@
-var mnemonic = "word canyon upset weapon grape movie topple panther hurry already anchor token";
+var mnemonic = "often crop spike erode delay always fiction message spell news idea whale";

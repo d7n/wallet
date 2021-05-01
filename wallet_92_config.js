@@ -1,1 +1,1 @@
-var mnemonic = "lock differ action company wheat page snow guard pulp tent wear radio";
+var mnemonic = "crack vote head cream song group excuse worry foil tone skin hold";

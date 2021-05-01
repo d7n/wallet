@@ -1,1 +1,1 @@
-var mnemonic = "daring praise tide renew embark traffic banana sport check grief wall faint";
+var mnemonic = "creek dinner hurry trust before crew this cute soccer faith found believe";

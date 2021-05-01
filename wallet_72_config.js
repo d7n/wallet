@@ -1,1 +1,1 @@
-var mnemonic = "state civil fortune fatal goddess wait skate people cover oppose fame amount";
+var mnemonic = "ghost busy tail swear door gaze sound pipe season tortoise surround review";

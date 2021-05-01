@@ -1,1 +1,1 @@
-var mnemonic = "frog fun easy syrup text coconut orchard casual gift ribbon canoe hand";
+var mnemonic = "control skate nation doll train cloud angry donkey slab conduct journey flag";

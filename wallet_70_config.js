@@ -1,1 +1,1 @@
-var mnemonic = "high lyrics faculty finger strategy before worth junk soda tennis mind caution";
+var mnemonic = "wild predict lake during milk traffic model fatal sail elbow ensure club";

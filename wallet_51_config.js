@@ -1,1 +1,1 @@
-var mnemonic = "deer trophy soft heart survey doll hip prefer enjoy book mule cause";
+var mnemonic = "donor husband forward father just happy dad tuition movie forest write common";

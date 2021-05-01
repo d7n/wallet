@@ -1,1 +1,1 @@
-var mnemonic = "trade sudden first page flee result cradle uniform narrow inflict census gloom";
+var mnemonic = "little upper bitter ugly describe antenna stomach rocket hockey cry small jewel";

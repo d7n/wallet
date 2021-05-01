@@ -1,1 +1,1 @@
-var mnemonic = "usage crisp later coach robot era photo diagram venture level you cotton";
+var mnemonic = "fossil rigid abstract picture address hurry proud museum clinic hope major month";

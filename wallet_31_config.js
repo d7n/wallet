@@ -1,1 +1,1 @@
-var mnemonic = "fiction fault usage hood yard banana census youth knock jazz siren fury";
+var mnemonic = "term swarm trouble quarter tunnel lunch company mirror file wool churn carbon";

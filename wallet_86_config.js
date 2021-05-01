@@ -1,1 +1,1 @@
-var mnemonic = "shadow drama surround increase enhance analyst blur funny differ narrow sphere vast";
+var mnemonic = "outer neither twenty end board knock poverty fan weapon banana limb lecture";

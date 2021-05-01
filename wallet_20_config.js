@@ -1,1 +1,1 @@
-var mnemonic = "harbor dilemma recycle tomorrow ghost cute include flat van symbol lawn wagon";
+var mnemonic = "ship blue purchase fiber burden hammer next arctic rose drop peasant turkey";

@@ -1,1 +1,1 @@
-var mnemonic = "antenna glow myself list pudding main lemon key topple eight alter shallow";
+var mnemonic = "milk version rack riot warm hen assault call curve pave tooth pull";

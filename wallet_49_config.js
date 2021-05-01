@@ -1,1 +1,1 @@
-var mnemonic = "easily oblige suspect rug table acquire hope expose measure addict polar fashion";
+var mnemonic = "pluck blood december carbon genius space appear host public hero cherry text";

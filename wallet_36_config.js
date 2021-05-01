@@ -1,1 +1,1 @@
-var mnemonic = "hundred lock manage worry acquire inject innocent hungry script major fit drip";
+var mnemonic = "seek cigar one soon vanish require remind insect oyster humble bonus jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "wait story fine settle muffin buddy copy resemble opinion news shiver wrong";
+var mnemonic = "peasant month electric boss push jeans deliver produce finger birth leopard piano";

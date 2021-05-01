@@ -1,1 +1,1 @@
-var mnemonic = "much trim crowd entry ginger arrange decline ketchup state body waste arctic";
+var mnemonic = "cheap settle convince gallery brief liberty sword blood caught mixed jump tomato";

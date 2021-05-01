@@ -1,1 +1,1 @@
-var mnemonic = "region medal hub zero teach wasp clown usage promote slab father salon";
+var mnemonic = "quantum pact hope assume pioneer allow squeeze rib bounce matter infant number";

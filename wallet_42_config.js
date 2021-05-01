@@ -1,1 +1,1 @@
-var mnemonic = "capable lonely jacket sustain select detail drastic replace little wrong police neglect";
+var mnemonic = "charge wine follow ivory solve glare under defy horror chef attitude myself";

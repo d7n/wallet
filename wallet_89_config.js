@@ -1,1 +1,1 @@
-var mnemonic = "sight stick battle fame vintage case correct output fancy grief setup cook";
+var mnemonic = "finish robust brother inject sorry valve aunt combine device tilt cup wasp";

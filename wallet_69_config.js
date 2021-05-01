@@ -1,1 +1,1 @@
-var mnemonic = "rule behave silver tribe ginger lunch sheriff item grass degree raise end";
+var mnemonic = "eyebrow borrow chalk nephew churn clump limit humble surge asset warrior thought";

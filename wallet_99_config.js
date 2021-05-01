@@ -1,1 +1,1 @@
-var mnemonic = "ski globe hazard carry defense canoe dove quote advance earth resist front";
+var mnemonic = "access pole advance shallow pumpkin theory learn captain abstract advice burst egg";

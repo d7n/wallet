@@ -1,1 +1,1 @@
-var mnemonic = "book people denial sight pull crisp coin bitter plate similar quit girl";
+var mnemonic = "firm phone panther empty garbage quiz pear below wave answer way parrot";

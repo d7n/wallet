@@ -1,1 +1,1 @@
-var mnemonic = "charge auto energy immense tenant craft auction miss sister cram predict head";
+var mnemonic = "such pepper blush dust season favorite salute punch insect sound river clinic";

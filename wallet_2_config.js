@@ -1,1 +1,1 @@
-var mnemonic = "song three scan spice smoke protect tourist satisfy result glance sniff axis";
+var mnemonic = "select neutral castle corn depart west crime trip spice design poem canoe";

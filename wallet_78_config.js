@@ -1,1 +1,1 @@
-var mnemonic = "token dial blast lava wet help short skull hole upper wire vote";
+var mnemonic = "state sugar wear evidence dawn divide outside kick cover drive noise hen";

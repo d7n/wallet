@@ -1,1 +1,1 @@
-var mnemonic = "picnic zero aim people zebra bundle shoot regular chronic fish post poem";
+var mnemonic = "defense vague pair attend flame drop steel doll front burst attitude tobacco";
