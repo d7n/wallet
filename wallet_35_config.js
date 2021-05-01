@@ -1,1 +1,1 @@
-var mnemonic = "border august van cloth guilt where tourist mass track initial symbol much";
+var mnemonic = "shoulder lawn weather castle toe young shoot chaos junior spring lobster inmate";

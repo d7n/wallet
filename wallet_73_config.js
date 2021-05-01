@@ -1,1 +1,1 @@
-var mnemonic = "canal shove disagree river carry laugh across toy mercy mandate citizen fix";
+var mnemonic = "armed over hidden patrol use fish bacon finger crumble patrol case account";

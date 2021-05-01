@@ -1,1 +1,1 @@
-var mnemonic = "party venue engine chief swamp abstract note ordinary furnace eternal live color";
+var mnemonic = "quick fossil camp echo rapid because peace horn equip rich receive door";

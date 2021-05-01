@@ -1,1 +1,1 @@
-var mnemonic = "atom buyer puzzle traffic bar wonder donor excuse damp tattoo trend negative";
+var mnemonic = "unique toe you swamp sheriff earth alarm absorb one raw alter return";

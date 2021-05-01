@@ -1,1 +1,1 @@
-var mnemonic = "vintage gloom bounce already arm choice furnace puppy glue scene social cheese";
+var mnemonic = "orphan palace child trophy supreme crater sea march awake shove famous mandate";

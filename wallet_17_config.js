@@ -1,1 +1,1 @@
-var mnemonic = "steel good crawl post dog struggle focus move item sentence cover bleak";
+var mnemonic = "suffer keen plate skull avocado mushroom point trick satoshi worry target humor";

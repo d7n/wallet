@@ -1,1 +1,1 @@
-var mnemonic = "actor divide slush bulb angry income edit buzz toss come public shed";
+var mnemonic = "loud crane special mirror begin choose lava subway tomato daring spare seed";

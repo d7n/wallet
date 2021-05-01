@@ -1,1 +1,1 @@
-var mnemonic = "online lumber bring popular maid relax between section october property accuse write";
+var mnemonic = "become park valley make width affair language depend title among goat safe";

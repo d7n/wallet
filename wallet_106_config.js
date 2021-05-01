@@ -1,1 +1,1 @@
-var mnemonic = "antenna claim embark notice very coin bomb hotel roast tired hat treat";
+var mnemonic = "protect unfair suffer song injury leisure picnic burger ramp symbol electric burst";

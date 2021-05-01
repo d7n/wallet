@@ -1,1 +1,1 @@
-var mnemonic = "select false one song salad regular vital race breeze chief mobile stereo";
+var mnemonic = "enforce pioneer vast shop zone yellow tide liberty police belt dinosaur race";

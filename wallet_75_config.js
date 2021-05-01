@@ -1,1 +1,1 @@
-var mnemonic = "panel panic fence wrestle hockey laundry dash shift salad burden panther nature";
+var mnemonic = "silent wrap curtain wood entry section tilt december misery kitchen orient drip";

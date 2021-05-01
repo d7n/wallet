@@ -1,1 +1,1 @@
-var mnemonic = "whisper media merry liquid suffer crumble sponsor quiz build order expire patient";
+var mnemonic = "lamp scout ask target print crisp undo urge exercise van miss basic";

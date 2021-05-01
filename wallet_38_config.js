@@ -1,1 +1,1 @@
-var mnemonic = "idle movie online team rally story dad ecology advance nut rescue circle";
+var mnemonic = "quantum birth guitar raw warfare slab make dilemma ball vehicle wagon tobacco";

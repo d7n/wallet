@@ -1,1 +1,1 @@
-var mnemonic = "laptop crime million govern real extra peanut ghost much develop letter canyon";
+var mnemonic = "bar vapor current will drift whale economy spin science rich duty hen";

@@ -1,1 +1,1 @@
-var mnemonic = "aisle april city slight climb north submit until mansion license sight section";
+var mnemonic = "sock fatigue loop leaf security castle faith volcano repeat diary emerge joy";

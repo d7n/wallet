@@ -1,1 +1,1 @@
-var mnemonic = "remain opinion subway strong bundle worth phrase portion buffalo clarify sunny tennis";
+var mnemonic = "govern crop crumble inquiry feed captain empty congress huge page actual pipe";

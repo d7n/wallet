@@ -1,1 +1,1 @@
-var mnemonic = "soft scrub cradle acoustic ozone bullet flip olive cram affair february imitate";
+var mnemonic = "theme shop army bless embark soldier build target air brick economy vanish";

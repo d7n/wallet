@@ -1,1 +1,1 @@
-var mnemonic = "earth pluck invest farm where broken amount legend valley pluck message accident";
+var mnemonic = "leg office era end race badge reflect discover enhance panic profit access";

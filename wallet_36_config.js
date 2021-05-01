@@ -1,1 +1,1 @@
-var mnemonic = "useless among milk safe soon frame century equal gloom twelve scheme yard";
+var mnemonic = "loan ketchup burger leaf adapt heavy spread book second short shock spoon";

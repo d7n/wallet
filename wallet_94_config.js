@@ -1,1 +1,1 @@
-var mnemonic = "front picture today tackle picnic decorate crunch year brush enough hover addict";
+var mnemonic = "across pull camera inspire rice arch inch roof much invite unaware abandon";

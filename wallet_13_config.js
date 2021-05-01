@@ -1,1 +1,1 @@
-var mnemonic = "develop income middle bomb pill scrub increase nerve crazy pigeon acoustic series";
+var mnemonic = "relief manual feed member machine antenna veteran lecture oil fabric south solution";

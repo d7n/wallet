@@ -1,1 +1,1 @@
-var mnemonic = "inherit sure skirt menu grit welcome taxi ahead bread retreat devote oval";
+var mnemonic = "unit chef purity helmet machine regret type slush impulse bleak column comfort";

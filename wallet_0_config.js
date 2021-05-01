@@ -1,1 +1,1 @@
-var mnemonic = "cannon truth minor armed wild mom stuff stomach day poverty tide nest";
+var mnemonic = "try useless depend iron entire rapid misery gas tuition undo course sauce";

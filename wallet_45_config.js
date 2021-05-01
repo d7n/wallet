@@ -1,1 +1,1 @@
-var mnemonic = "girl pool dynamic glide fresh property joy gossip identify perfect main parrot";
+var mnemonic = "grape test wear word borrow twelve multiply foot question crash crush muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "depart sugar interest duck owner vibrant course suspect dial hurt roof fiction";
+var mnemonic = "worry asthma debate burst chair below question awesome demise horror enough spice";

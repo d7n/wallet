@@ -1,1 +1,1 @@
-var mnemonic = "patrol mountain mix ghost upgrade output federal sphere early mosquito pear knock";
+var mnemonic = "prefer fatigue vibrant include camera slice rather space panther arm truly verb";

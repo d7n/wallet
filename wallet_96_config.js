@@ -1,1 +1,1 @@
-var mnemonic = "master soccer reduce rather image buyer wagon decrease clock fame float smart";
+var mnemonic = "food uphold black help cloud behave pink metal faculty gaze tool mountain";

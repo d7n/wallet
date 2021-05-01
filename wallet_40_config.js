@@ -1,1 +1,1 @@
-var mnemonic = "scissors always leave forward proud shrug bulk update celery glory giraffe about";
+var mnemonic = "pilot salon curve rare post broom swamp mechanic electric left broken price";

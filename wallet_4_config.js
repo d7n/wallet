@@ -1,1 +1,1 @@
-var mnemonic = "voyage deliver correct shove state depth choose oppose obscure ball latin weapon";
+var mnemonic = "foot year identify sport cherry possible bomb key twice bread anger note";

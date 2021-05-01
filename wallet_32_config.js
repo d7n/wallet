@@ -1,1 +1,1 @@
-var mnemonic = "spin drill divide observe shine buffalo tone rule glory wink wrong defy";
+var mnemonic = "dice life wool armor gentle fly clarify away soup grief helmet fine";

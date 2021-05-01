@@ -1,1 +1,1 @@
-var mnemonic = "oyster monster ripple peasant icon void tower fall urban suggest large inch";
+var mnemonic = "cup cattle eternal dentist escape agree piano fence rough inquiry winter clarify";

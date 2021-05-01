@@ -1,1 +1,1 @@
-var mnemonic = "endorse harsh inquiry amused label approve try weasel marble embrace sweet analyst";
+var mnemonic = "input balcony color magic loyal cake render elite devote come sibling question";

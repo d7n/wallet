@@ -1,1 +1,1 @@
-var mnemonic = "clog world sad annual slight approve hood dream domain grit enrich measure";
+var mnemonic = "peasant hire naive shrimp oyster when brick message tip video betray key";

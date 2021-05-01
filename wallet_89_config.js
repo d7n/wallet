@@ -1,1 +1,1 @@
-var mnemonic = "become fee setup rule valley dish junior small chief hub live ankle";
+var mnemonic = "already plastic dutch expand cereal describe example fee key burst wisdom advance";

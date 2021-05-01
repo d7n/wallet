@@ -1,1 +1,1 @@
-var mnemonic = "tomato just property curve heart cover trend rigid win castle youth evidence";
+var mnemonic = "casino frame slim run regular genius account rescue first copy fork bone";

@@ -1,1 +1,1 @@
-var mnemonic = "drink phone brief inch review easily around panel high close traffic network";
+var mnemonic = "snake beef short art impact sing defy sign concert earn save wine";

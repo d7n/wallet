@@ -1,1 +1,1 @@
-var mnemonic = "tape armor choose indoor produce jaguar hour bone evolve struggle federal confirm";
+var mnemonic = "wisdom pistol sock venture pride grid language fall fiber spare clean equal";

@@ -1,1 +1,1 @@
-var mnemonic = "explain senior snack mask help text wolf dream sing enhance leave biology";
+var mnemonic = "vast critic parrot move fabric neither edit lesson design twelve again grape";

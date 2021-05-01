@@ -1,1 +1,1 @@
-var mnemonic = "latin decrease hobby avocado age balance illness all thumb category banner transfer";
+var mnemonic = "sample clinic crawl cash equip leader noble word glide milk loan someone";

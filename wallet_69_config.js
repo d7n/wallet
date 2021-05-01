@@ -1,1 +1,1 @@
-var mnemonic = "second decrease please film anger crazy paper water pause lazy waste jungle";
+var mnemonic = "resource blossom hand patrol success urban this recipe expose hurt card potato";

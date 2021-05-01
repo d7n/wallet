@@ -1,1 +1,1 @@
-var mnemonic = "powder dawn scrap tomorrow sustain minor behave crisp credit slim nice front";
+var mnemonic = "laptop enhance more immune defy train retreat wine upgrade obscure harsh spell";

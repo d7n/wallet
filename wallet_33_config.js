@@ -1,1 +1,1 @@
-var mnemonic = "pulse stick movie curve crash because spring push swarm remember axis vital";
+var mnemonic = "traffic nose quiz option unusual avocado entry test result bind sun artist";

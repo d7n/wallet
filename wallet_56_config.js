@@ -1,1 +1,1 @@
-var mnemonic = "enable soul soon industry engine electric ankle office include bag glow virus";
+var mnemonic = "rack opinion canal cloth attract grid inquiry now ridge because blue sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "kite noise planet duck inquiry gown parade cover track belt typical crane";
+var mnemonic = "forest word disorder muscle liquid humble alley dumb rhythm snap lab undo";

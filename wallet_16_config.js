@@ -1,1 +1,1 @@
-var mnemonic = "lend window blur easily fun total situate explain afford day crazy rain";
+var mnemonic = "ladder marble improve impose keep alter alter sing emotion harsh van tomorrow";

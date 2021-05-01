@@ -1,1 +1,1 @@
-var mnemonic = "olympic fade online moment bubble puzzle man forest fantasy wink weasel level";
+var mnemonic = "shift goat then alone skirt visit fox license second raw evidence guard";

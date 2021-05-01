@@ -1,1 +1,1 @@
-var mnemonic = "flee term vacuum jewel water human ten face erosion connect capital country";
+var mnemonic = "tower mind clog sleep evidence rent blouse whale simple tuna nuclear ancient";

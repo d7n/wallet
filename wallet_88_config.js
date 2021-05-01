@@ -1,1 +1,1 @@
-var mnemonic = "valley eagle tomorrow enforce similar increase rhythm account gospel solution library tell";
+var mnemonic = "enjoy depart glow apart blouse artist share tornado siege scissors hat elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "hello solar hurdle oppose alley jungle baby casino peanut ancient smoke need";
+var mnemonic = "jaguar broccoli thunder undo clerk prize rude edge main eight cabin master";

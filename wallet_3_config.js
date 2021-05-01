@@ -1,1 +1,1 @@
-var mnemonic = "earth strike chunk people buzz entire clinic thank extend impulse inject hobby";
+var mnemonic = "rare gasp annual sword click umbrella make outdoor bone vote spring roast";

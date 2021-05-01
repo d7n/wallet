@@ -1,1 +1,1 @@
-var mnemonic = "pledge aspect dragon east simple venture walk clock kiwi tool snake globe";
+var mnemonic = "fantasy sport rule piece road switch venue helmet nice piano ancient insect";

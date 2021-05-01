@@ -1,1 +1,1 @@
-var mnemonic = "kind gate wet guitar kitchen exact cupboard apology next pizza smile act";
+var mnemonic = "deny salute angle broccoli pride cover cheap pulse deny hole boost welcome";

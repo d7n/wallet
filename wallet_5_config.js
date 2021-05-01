@@ -1,1 +1,1 @@
-var mnemonic = "trumpet flight buffalo mistake actor hazard pioneer grit rather quick close goat";
+var mnemonic = "chest illness sick disease zero junk country bullet armed large sweet funny";

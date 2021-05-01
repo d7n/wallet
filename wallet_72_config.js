@@ -1,1 +1,1 @@
-var mnemonic = "blush border calm present weather breeze fall vapor alien cycle slush dirt";
+var mnemonic = "ecology tuna wage police frequent gate jeans mango trumpet fossil picnic play";

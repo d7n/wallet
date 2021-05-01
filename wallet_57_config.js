@@ -1,1 +1,1 @@
-var mnemonic = "now able hobby fringe gadget rail rival wild shove course cliff tomorrow";
+var mnemonic = "rack foster oil joke orchard lottery spoil man forget owner enforce uncle";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble clog endorse distance tenant cloth elegant shield click close scheme mountain";
+var mnemonic = "fragile invite hobby surround public damage teach cigar fun repeat luggage boss";

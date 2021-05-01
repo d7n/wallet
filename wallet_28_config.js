@@ -1,1 +1,1 @@
-var mnemonic = "sea bonus blame puzzle slam soda remember share gauge pill tone unique";
+var mnemonic = "about grocery clap circle patient option deliver raccoon decline lesson turkey bronze";

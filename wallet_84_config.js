@@ -1,1 +1,1 @@
-var mnemonic = "matrix brush remain yard convince swim ramp sentence picture journey grain often";
+var mnemonic = "maze fury music arrange female life output oblige filter tank range cat";

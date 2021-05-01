@@ -1,1 +1,1 @@
-var mnemonic = "infant skate way earth keep deposit insect bounce grid gesture limb void";
+var mnemonic = "web drum switch pizza obey hour garage state harsh stairs dumb label";

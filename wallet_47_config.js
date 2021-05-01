@@ -1,1 +1,1 @@
-var mnemonic = "budget fruit extra stereo paddle festival spread market satisfy treat area wrap";
+var mnemonic = "sausage thing people kite reason crumble movie blossom culture airport warrior silver";

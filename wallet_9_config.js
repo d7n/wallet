@@ -1,1 +1,1 @@
-var mnemonic = "creek document short catalog gun inherit sword manual comfort quit myself foster";
+var mnemonic = "soda anger charge toddler mercy urban accident ribbon affair must remove record";

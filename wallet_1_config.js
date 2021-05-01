@@ -1,1 +1,1 @@
-var mnemonic = "oblige say clump address page fossil exist pigeon peasant sudden rival episode";
+var mnemonic = "afraid educate lonely long awake twist vacuum rice humor inspire pretty exhaust";

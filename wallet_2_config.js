@@ -1,1 +1,1 @@
-var mnemonic = "young parade master motion sudden scheme push crane top giggle unlock toilet";
+var mnemonic = "educate various cinnamon scrap mesh absent inside whale fury portion advance decrease";

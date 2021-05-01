@@ -1,1 +1,1 @@
-var mnemonic = "theory alert uncle ozone library actor report desk siren spirit tank blouse";
+var mnemonic = "coast cannon library bronze that mango tribe aspect figure suit blossom ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "vote lecture luggage enforce safe predict sun wrist feed legend rebuild artist";
+var mnemonic = "approve phrase cotton capital material stool fashion surround flip credit flight dial";

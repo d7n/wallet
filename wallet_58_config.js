@@ -1,1 +1,1 @@
-var mnemonic = "leader audit fury obvious judge super gate strategy mushroom fog crack rail";
+var mnemonic = "check invest use impulse tone bone elephant blush slam kiss theme input";

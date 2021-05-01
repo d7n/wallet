@@ -1,1 +1,1 @@
-var mnemonic = "huge arch cloth patch cancel budget deliver sleep top blade print dose";
+var mnemonic = "uncover minimum pyramid habit portion click much left camp access pilot connect";

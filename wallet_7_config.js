@@ -1,1 +1,1 @@
-var mnemonic = "organ shaft box build leave expose use speed hover anger hybrid grit";
+var mnemonic = "twist onion tattoo modify venue lizard verify rotate dumb fossil milk ginger";

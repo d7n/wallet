@@ -1,1 +1,1 @@
-var mnemonic = "link depart hour owner coil assault physical reason awesome desert squeeze honey";
+var mnemonic = "else enemy pulse grief case quarter rural mad warfare lottery orchard rose";

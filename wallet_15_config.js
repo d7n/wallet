@@ -1,1 +1,1 @@
-var mnemonic = "demand live design lamp rain fog arctic emotion manual dismiss toss wine";
+var mnemonic = "immense daughter solid jump point skin evil conduct lemon toward this pepper";

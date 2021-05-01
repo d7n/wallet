@@ -1,1 +1,1 @@
-var mnemonic = "better unable radar naive demise vapor sign damage antique solution afford interest";
+var mnemonic = "among blossom young coach young birth voice initial nurse salute inherit bread";

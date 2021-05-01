@@ -1,1 +1,1 @@
-var mnemonic = "swift imitate file velvet razor hobby vast paper seek food deputy sure";
+var mnemonic = "foam prepare clog captain leave neither trip omit define powder lake faint";

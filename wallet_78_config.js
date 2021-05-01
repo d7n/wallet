@@ -1,1 +1,1 @@
-var mnemonic = "tower unfair grain slim boss accident turtle monitor dragon raw amateur target";
+var mnemonic = "ice differ they apology proud teach cloud laugh sign spot turkey dry";

@@ -1,1 +1,1 @@
-var mnemonic = "board dad purpose awkward convince final supply card apology wine adult purity";
+var mnemonic = "theme bridge hawk dolphin claw sibling attend write dial tide winner pig";

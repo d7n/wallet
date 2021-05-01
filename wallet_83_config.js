@@ -1,1 +1,1 @@
-var mnemonic = "damage muscle until put lazy seek flash concert festival habit post immune";
+var mnemonic = "imitate rhythm size black slab arrange then village orchard connect fiscal skate";

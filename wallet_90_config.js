@@ -1,1 +1,1 @@
-var mnemonic = "giraffe stuff rely stick chest trash nuclear gossip virtual speed pass husband";
+var mnemonic = "urge hockey edge drum end wrestle blue recipe dignity mass husband family";

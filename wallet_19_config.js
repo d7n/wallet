@@ -1,1 +1,1 @@
-var mnemonic = "smile grass cherry pelican myself ability clip panda cricket aerobic paper bomb";
+var mnemonic = "music divide vehicle decide retire involve biology ketchup acquire trend solid wife";

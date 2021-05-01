@@ -1,1 +1,1 @@
-var mnemonic = "finish ocean high merge clean tail sort trick wall parrot nurse exact";
+var mnemonic = "century space matter margin file hedgehog width promote witness squeeze own matrix";

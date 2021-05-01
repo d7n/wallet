@@ -1,1 +1,1 @@
-var mnemonic = "degree service abstract clay enhance what stomach road lecture switch emerge federal";
+var mnemonic = "card walnut swim rack inspire sweet siren stem reflect uncover bone frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "drive double junior sponsor toward scare exchange leader rural merry goat suffer";
+var mnemonic = "dinner hat muffin garage toy buddy warm style mouse top liberty flower";

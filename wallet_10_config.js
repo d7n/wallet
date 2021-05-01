@@ -1,1 +1,1 @@
-var mnemonic = "thrive history system cliff cloud crowd case blame frown pool spray uncover";
+var mnemonic = "muscle youth naive dice bacon holiday melody manage size auto limb chaos";

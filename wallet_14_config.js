@@ -1,1 +1,1 @@
-var mnemonic = "source garment square tornado mammal abandon execute exist cat deer enact impose";
+var mnemonic = "bring spy cream truth birth oyster ramp mixture unfold ancient liar curious";

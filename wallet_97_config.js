@@ -1,1 +1,1 @@
-var mnemonic = "often order decide squeeze repeat media then actual glory utility spread post";
+var mnemonic = "expire about surprise select fat angle flower finger when dice song code";

@@ -1,1 +1,1 @@
-var mnemonic = "weather duck novel bitter wonder inform season dentist column country security area";
+var mnemonic = "century concert buzz protect window word certain crack calm portion salon surround";

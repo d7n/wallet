@@ -1,1 +1,1 @@
-var mnemonic = "quantum reform fancy imitate debris rapid file bright devote liquid consider wisdom";
+var mnemonic = "dance manage parent gown topic chat bomb south waste shell bounce evidence";

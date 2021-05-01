@@ -1,1 +1,1 @@
-var mnemonic = "final special orchard elevator pelican will dismiss engage smooth soon kit damage";
+var mnemonic = "fence into route produce curve typical kit wife retire dinner shoe carbon";

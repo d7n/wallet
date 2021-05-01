@@ -1,1 +1,1 @@
-var mnemonic = "uphold taste gallery journey wire zero alcohol obey path eternal hospital range";
+var mnemonic = "three away draft luxury choice fiction heavy maid camera venture maple elbow";

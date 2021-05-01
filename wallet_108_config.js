@@ -1,1 +1,1 @@
-var mnemonic = "artefact shoulder dentist dismiss usual mother crop monitor abuse sight hover educate";
+var mnemonic = "long scorpion mountain nasty seven involve plug shift wagon tube exit liquid";

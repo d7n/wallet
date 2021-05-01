@@ -1,1 +1,1 @@
-var mnemonic = "produce faint habit wheat demise crumble bulk image denial gospel chuckle cube";
+var mnemonic = "oak earth enhance split stable addict penalty electric entire inspire gospel ahead";

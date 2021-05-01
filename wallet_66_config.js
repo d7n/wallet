@@ -1,1 +1,1 @@
-var mnemonic = "sibling crazy claw real limb sign possible silk switch summer wing quality";
+var mnemonic = "noise arena pitch pelican tank venture february comfort water case account salmon";

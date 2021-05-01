@@ -1,1 +1,1 @@
-var mnemonic = "protect amused inform pet edit picture illness young vicious steak fever grape";
+var mnemonic = "memory then media luggage include laugh absorb clump square frost miss expand";

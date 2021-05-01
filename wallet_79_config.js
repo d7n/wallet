@@ -1,1 +1,1 @@
-var mnemonic = "aim flag dance plastic detect thought duck advice reform record clean illegal";
+var mnemonic = "sudden paper garlic ankle syrup unfold glad length now plunge reflect diet";

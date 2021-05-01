@@ -1,1 +1,1 @@
-var mnemonic = "attack once share banner blue mixed elite ceiling property other juice car";
+var mnemonic = "dragon gather unable scare post own illegal outdoor color tank galaxy stereo";

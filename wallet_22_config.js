@@ -1,1 +1,1 @@
-var mnemonic = "tragic inspire vendor permit muffin dawn cabbage know know trend mixture urban";
+var mnemonic = "hint betray sleep market dance hospital replace exist squeeze abstract mandate crane";

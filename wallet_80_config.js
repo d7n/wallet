@@ -1,1 +1,1 @@
-var mnemonic = "swap trade truck twist style laugh aspect fan custom push movie october";
+var mnemonic = "solve solid suspect render sleep miracle flame left gown water helmet bread";

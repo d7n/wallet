@@ -1,1 +1,1 @@
-var mnemonic = "fatigue wear good disorder wheel grain volcano sweet inject coast sketch solve";
+var mnemonic = "right birth also end hidden there tape real rotate curtain shop inform";

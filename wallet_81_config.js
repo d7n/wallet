@@ -1,1 +1,1 @@
-var mnemonic = "enlist caught jewel music someone stage jeans large easily cry way brass";
+var mnemonic = "basket talk lizard protect acoustic inherit obtain normal light cactus alien dawn";

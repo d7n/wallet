@@ -1,1 +1,1 @@
-var mnemonic = "liberty panel guess able use simple upon toddler matter term payment cabbage";
+var mnemonic = "arena tomato strategy canal skin truly fish tobacco ridge burger jelly silent";

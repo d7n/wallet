@@ -1,1 +1,1 @@
-var mnemonic = "flat rack tiny core together clump film tomorrow exile ramp sweet please";
+var mnemonic = "truck segment quick link brisk suit brisk very pledge glare venue raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt earth tenant hand glove castle orient echo hidden salute question soldier";
+var mnemonic = "detail infant certain october olympic duty expose butter open bike rate turtle";

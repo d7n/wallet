@@ -1,1 +1,1 @@
-var mnemonic = "pear vote wage this oxygen creek sibling alarm aunt behave equal front";
+var mnemonic = "detail nephew camera promote quick upper traffic warfare embody crop loud eagle";
