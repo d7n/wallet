@@ -1,1 +1,1 @@
-var mnemonic = "believe remember oppose walnut bless neglect assume fine push census pave useless";
+var mnemonic = "cheap make term vocal used siren hen resemble filter idea video cash";

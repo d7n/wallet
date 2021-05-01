@@ -1,1 +1,1 @@
-var mnemonic = "auction icon put ready endorse conduct still pride combine iron conduct pottery";
+var mnemonic = "usage crisp later coach robot era photo diagram venture level you cotton";

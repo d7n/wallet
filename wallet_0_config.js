@@ -1,1 +1,1 @@
-var mnemonic = "soda orchard biology scrap diet exhibit confirm brand cover labor clutch grit";
+var mnemonic = "ostrich excuse mad melt endorse wrong barely stand bird flight company spatial";

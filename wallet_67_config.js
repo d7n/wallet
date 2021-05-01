@@ -1,1 +1,1 @@
-var mnemonic = "trumpet element nasty inmate river brain submit buddy calm oil glad derive";
+var mnemonic = "suspect cereal clutch steak test begin success borrow alert wait nature hello";

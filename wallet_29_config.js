@@ -1,1 +1,1 @@
-var mnemonic = "inner crack pet just canvas naive deal cushion gaze license oil waste";
+var mnemonic = "picnic zero aim people zebra bundle shoot regular chronic fish post poem";

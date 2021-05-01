@@ -1,1 +1,1 @@
-var mnemonic = "rich reduce left quiz door old property morning step credit course meat";
+var mnemonic = "expect vocal useless injury rug absorb tail horn you fine topic garage";

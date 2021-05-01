@@ -1,1 +1,1 @@
-var mnemonic = "liberty glide balance tiny stamp oxygen breeze observe process never spray glue";
+var mnemonic = "film leisure organ enable solid soap menu tape relief quality economy merry";

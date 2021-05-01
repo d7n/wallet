@@ -1,1 +1,1 @@
-var mnemonic = "arm trap surface fox mixture happy else paper bachelor inject marine dress";
+var mnemonic = "script able amount nurse slab steak bulb can captain honey steel friend";

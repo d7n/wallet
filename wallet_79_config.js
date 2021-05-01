@@ -1,1 +1,1 @@
-var mnemonic = "inflict fence differ goose yard debris sting lonely achieve hurry give gauge";
+var mnemonic = "slot emotion impact impose segment captain monitor glare usage plate shine law";

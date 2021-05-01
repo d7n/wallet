@@ -1,1 +1,1 @@
-var mnemonic = "gesture venue depart furnace dune banner expire smoke this april sphere ocean";
+var mnemonic = "sight stick battle fame vintage case correct output fancy grief setup cook";

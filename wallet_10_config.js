@@ -1,1 +1,1 @@
-var mnemonic = "hope argue this life cereal aspect unable glad elite settle school hedgehog";
+var mnemonic = "donkey toy hedgehog jeans danger primary make waste episode pet taste copper";

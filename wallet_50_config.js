@@ -1,1 +1,1 @@
-var mnemonic = "armor bind deputy author smoke expire gather aunt crack umbrella allow duty";
+var mnemonic = "remain gospel shed rice destroy act pen galaxy tennis sponsor chase all";

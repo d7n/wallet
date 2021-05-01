@@ -1,1 +1,1 @@
-var mnemonic = "know strategy horror bright slow round cereal draw lunar ribbon lemon spider";
+var mnemonic = "swing figure bamboo grain blur cushion strong supply icon guard ship zoo";

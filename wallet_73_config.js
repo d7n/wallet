@@ -1,1 +1,1 @@
-var mnemonic = "half smooth mixed bulb panda oval girl rebuild vicious bundle firm clump";
+var mnemonic = "mansion enable change harbor foster craft crisp galaxy rebuild clean shy practice";

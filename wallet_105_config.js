@@ -1,1 +1,1 @@
-var mnemonic = "summer various mention know open planet stage early river lab delay clean";
+var mnemonic = "kiwi cable people slim limb wife program chair vacuum surface return orange";

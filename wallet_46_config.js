@@ -1,1 +1,1 @@
-var mnemonic = "orange curve else fatal unique moral nose smooth young erase leg excite";
+var mnemonic = "daring praise tide renew embark traffic banana sport check grief wall faint";

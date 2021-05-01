@@ -1,1 +1,1 @@
-var mnemonic = "stumble erase parent cluster federal crunch result fatigue gesture general brave local";
+var mnemonic = "illness rug sport hub bicycle anchor cloud predict cruel diamond float middle";

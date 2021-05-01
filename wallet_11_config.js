@@ -1,1 +1,1 @@
-var mnemonic = "coast verify crumble trend paddle blame main replace sense hobby kangaroo expose";
+var mnemonic = "fluid tide receive robust admit culture gain wine spice replace stand abandon";

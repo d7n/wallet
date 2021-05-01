@@ -1,1 +1,1 @@
-var mnemonic = "squeeze annual flame object inform marine crawl segment visa make panic chest";
+var mnemonic = "color type position country utility tooth dirt shadow carry rather position outside";

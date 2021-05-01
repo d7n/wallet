@@ -1,1 +1,1 @@
-var mnemonic = "property oblige way impulse lounge effort sell swap siege region rabbit toward";
+var mnemonic = "capable lonely jacket sustain select detail drastic replace little wrong police neglect";

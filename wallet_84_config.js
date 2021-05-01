@@ -1,1 +1,1 @@
-var mnemonic = "snow alarm trip display upon method magnet limb baby setup argue inform";
+var mnemonic = "merge pave patrol bronze brand cannon glare sand skill harvest submit girl";

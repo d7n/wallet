@@ -1,1 +1,1 @@
-var mnemonic = "coil adult domain effort glove faculty fringe hundred verb jazz define vocal";
+var mnemonic = "double wealth frequent tenant unable wife sting river unable vital puzzle immense";

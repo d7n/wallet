@@ -1,1 +1,1 @@
-var mnemonic = "spatial course large crystal original time blossom reduce capital angle water narrow";
+var mnemonic = "region medal hub zero teach wasp clown usage promote slab father salon";

@@ -1,1 +1,1 @@
-var mnemonic = "ride rhythm chalk lonely pen field approve buddy ride luxury south exercise";
+var mnemonic = "frozen autumn hazard peasant someone melt kiwi album feel vault luggage noble";

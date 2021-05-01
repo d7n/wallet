@@ -1,1 +1,1 @@
-var mnemonic = "future slender coach inject call dinner pave vicious very broom vintage stable";
+var mnemonic = "cradle pelican pipe spring liquid enough regular exist decrease fresh enhance admit";

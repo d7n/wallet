@@ -1,1 +1,1 @@
-var mnemonic = "sunset draft pepper vessel category toward grain snow island shadow ahead turkey";
+var mnemonic = "monster slot release glad soon spend under glad crawl above lecture rotate";

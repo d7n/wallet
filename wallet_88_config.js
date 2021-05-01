@@ -1,1 +1,1 @@
-var mnemonic = "piece grow large cricket parent clever level jewel curious scatter ivory abstract";
+var mnemonic = "poverty buzz shrimp robot improve motion latin fluid fashion matter obey tuition";

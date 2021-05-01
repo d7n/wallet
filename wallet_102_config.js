@@ -1,1 +1,1 @@
-var mnemonic = "table stock edge innocent enable swift increase digital crumble cousin crowd client";
+var mnemonic = "love cover obtain clever design scare bargain lunch ten vicious once brick";

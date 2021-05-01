@@ -1,1 +1,1 @@
-var mnemonic = "correct token siege caution inner convince debate flight reflect music buffalo unveil";
+var mnemonic = "gown matter mention liberty very rookie taxi immune toilet churn royal boring";

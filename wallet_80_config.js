@@ -1,1 +1,1 @@
-var mnemonic = "protect foil chief change alcohol beach parade tray pretty actor month chimney";
+var mnemonic = "ability bar amount hurdle ring when dutch abandon calm goddess enforce betray";

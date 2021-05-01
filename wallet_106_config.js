@@ -1,1 +1,1 @@
-var mnemonic = "alter ride myth blur daring second group exercise timber skill priority code";
+var mnemonic = "fork tower balcony owner nothing announce adapt throw benefit chapter pause magnet";

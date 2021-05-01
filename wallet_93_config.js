@@ -1,1 +1,1 @@
-var mnemonic = "vanish vicious sibling weird hospital merry report update code swap hip rely";
+var mnemonic = "antenna glow myself list pudding main lemon key topple eight alter shallow";

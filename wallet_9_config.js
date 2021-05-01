@@ -1,1 +1,1 @@
-var mnemonic = "output grain oval lumber success guide version sibling twelve chicken write emotion";
+var mnemonic = "myth material dove suit wisdom jaguar peasant seminar fine boil episode wheat";

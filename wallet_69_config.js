@@ -1,1 +1,1 @@
-var mnemonic = "volcano kit rhythm such echo minor farm lesson hour often hole must";
+var mnemonic = "rule behave silver tribe ginger lunch sheriff item grass degree raise end";

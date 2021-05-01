@@ -1,1 +1,1 @@
-var mnemonic = "bunker salon custom super absurd betray flavor vehicle desert elite sheriff away";
+var mnemonic = "song three scan spice smoke protect tourist satisfy result glance sniff axis";

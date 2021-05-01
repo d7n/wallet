@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon gift sport anxiety scrap obvious belt custom tongue trim dignity maple";
+var mnemonic = "razor poet trick toss dance balcony crunch ozone any ignore grass palace";

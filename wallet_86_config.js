@@ -1,1 +1,1 @@
-var mnemonic = "label erode manual lesson install junior spell aerobic pulp confirm job priority";
+var mnemonic = "shadow drama surround increase enhance analyst blur funny differ narrow sphere vast";

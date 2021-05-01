@@ -1,1 +1,1 @@
-var mnemonic = "flee spoon toy aerobic allow equip insane minimum lava occur design inner";
+var mnemonic = "trigger random keep warfare waste around monkey fold march vivid deposit sudden";

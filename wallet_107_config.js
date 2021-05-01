@@ -1,1 +1,1 @@
-var mnemonic = "close tilt climb shoe attract always hurdle walk public asset ill chat";
+var mnemonic = "whip oval season depend piece foam weapon penalty truly young enough path";

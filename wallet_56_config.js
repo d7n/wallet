@@ -1,1 +1,1 @@
-var mnemonic = "frown switch zoo dignity tragic diet excess history increase ball cattle south";
+var mnemonic = "charge auto energy immense tenant craft auction miss sister cram predict head";

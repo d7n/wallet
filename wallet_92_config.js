@@ -1,1 +1,1 @@
-var mnemonic = "deer clap brass stock kind twelve oxygen glory prefer service course issue";
+var mnemonic = "lock differ action company wheat page snow guard pulp tent wear radio";

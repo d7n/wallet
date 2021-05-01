@@ -1,1 +1,1 @@
-var mnemonic = "setup lesson cat monkey paper verify token surprise panel peasant siege pole";
+var mnemonic = "pupil mosquito only surround upset chalk ask isolate sketch banner matrix because";

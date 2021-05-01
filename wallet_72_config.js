@@ -1,1 +1,1 @@
-var mnemonic = "dish hand scrub time crowd deposit route start enforce improve minute scrub";
+var mnemonic = "state civil fortune fatal goddess wait skate people cover oppose fame amount";

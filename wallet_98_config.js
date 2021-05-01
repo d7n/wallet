@@ -1,1 +1,1 @@
-var mnemonic = "lazy usual chest slow tumble scorpion mean trigger whale crawl match catalog";
+var mnemonic = "carbon moment able expect solution street guide scorpion reject head legend illness";

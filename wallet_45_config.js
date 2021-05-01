@@ -1,1 +1,1 @@
-var mnemonic = "inform garment embody veteran dash danger shield session car common citizen person";
+var mnemonic = "double ship slam solution garbage goose scare give rigid pigeon beyond change";

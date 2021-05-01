@@ -1,1 +1,1 @@
-var mnemonic = "ethics cash manual random job wasp attitude penalty razor rare vendor enlist";
+var mnemonic = "wink park fence company resemble injury ripple bunker gravity night pill can";

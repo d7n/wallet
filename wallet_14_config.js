@@ -1,1 +1,1 @@
-var mnemonic = "bounce dignity black siren busy immune slide visa nature mouse pink blue";
+var mnemonic = "blanket kitchen flip cheap brain angry heavy vintage language laptop swim near";

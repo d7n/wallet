@@ -1,1 +1,1 @@
-var mnemonic = "include cradle truth indicate blue final fish honey cycle zone link melody";
+var mnemonic = "trade sudden first page flee result cradle uniform narrow inflict census gloom";

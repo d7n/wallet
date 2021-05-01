@@ -1,1 +1,1 @@
-var mnemonic = "link leave wild floor scorpion polar orange eternal ahead derive car design";
+var mnemonic = "word canyon upset weapon grape movie topple panther hurry already anchor token";

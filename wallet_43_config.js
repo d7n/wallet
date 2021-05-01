@@ -1,1 +1,1 @@
-var mnemonic = "dune hair planet forest original ill height escape daughter act wood mail";
+var mnemonic = "unlock vehicle cousin model idle age maple dream vibrant fresh eyebrow twist";

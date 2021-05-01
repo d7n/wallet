@@ -1,1 +1,1 @@
-var mnemonic = "west believe drum wasp best myself web hurt way strategy original cactus";
+var mnemonic = "lawsuit absorb angle bind course derive ignore giraffe awkward flame interest orient";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter crumble series baby true buddy hedgehog paper other require crowd elevator";
+var mnemonic = "derive method improve beyond remain peasant across tourist wait body tuition lizard";

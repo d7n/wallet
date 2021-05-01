@@ -1,1 +1,1 @@
-var mnemonic = "stuff funny festival because access yard oak ladder relief plunge auto minimum";
+var mnemonic = "tool fit buyer avocado velvet exotic fabric live bubble couch powder future";

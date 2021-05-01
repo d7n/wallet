@@ -1,1 +1,1 @@
-var mnemonic = "auto east parade save level drop receive olive season defy vibrant seat";
+var mnemonic = "flame curve rate please catch mobile tip phrase general build forget coconut";

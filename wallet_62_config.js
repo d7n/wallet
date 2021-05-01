@@ -1,1 +1,1 @@
-var mnemonic = "remember picnic tooth design jealous panda erosion emerge ecology notice kiwi useless";
+var mnemonic = "wait story fine settle muffin buddy copy resemble opinion news shiver wrong";

@@ -1,1 +1,1 @@
-var mnemonic = "cricket believe cream trophy celery brave arrow tourist promote diagram pledge degree";
+var mnemonic = "butter fly secret fury forward alert around grant have sphere organ rather";

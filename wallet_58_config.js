@@ -1,1 +1,1 @@
-var mnemonic = "icon sustain this still replace fiscal mistake feel place humor cabbage source";
+var mnemonic = "hazard soft follow primary energy cross spray affair obvious source shell entire";

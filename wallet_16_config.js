@@ -1,1 +1,1 @@
-var mnemonic = "novel napkin find win lonely anger purse stem diagram action canal social";
+var mnemonic = "book people denial sight pull crisp coin bitter plate similar quit girl";

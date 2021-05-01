@@ -1,1 +1,1 @@
-var mnemonic = "join pretty catalog coach pen fitness satoshi help vacant sell debris axis";
+var mnemonic = "inch mad inherit employ trade capable melody lady hungry solar quality mind";

@@ -1,1 +1,1 @@
-var mnemonic = "major top citizen deputy devote floor lawn dry wonder fault amazing feel";
+var mnemonic = "happy pass loyal conduct melt rubber fruit mesh word pepper outside drift";

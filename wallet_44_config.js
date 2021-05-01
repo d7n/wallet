@@ -1,1 +1,1 @@
-var mnemonic = "fat walnut enough party obey rib pact symbol wealth guess slam grit";
+var mnemonic = "derive way boost maple carbon banana popular view doll target fever capital";

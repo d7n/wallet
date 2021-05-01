@@ -1,1 +1,1 @@
-var mnemonic = "mix output lecture advice monster between network pet excuse treat medal second";
+var mnemonic = "base audit market invest kit hammer one reform observe priority hood powder";

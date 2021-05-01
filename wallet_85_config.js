@@ -1,1 +1,1 @@
-var mnemonic = "fox develop nasty donkey tongue shrimp episode brisk canyon sphere reform six";
+var mnemonic = "always live segment learn measure rude food crash program issue hub always";

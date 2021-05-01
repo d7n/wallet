@@ -1,1 +1,1 @@
-var mnemonic = "theory nothing pistol flower tag smoke february green coast mass affair viable";
+var mnemonic = "high lyrics faculty finger strategy before worth junk soda tennis mind caution";

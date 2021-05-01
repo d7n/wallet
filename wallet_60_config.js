@@ -1,1 +1,1 @@
-var mnemonic = "warm main panel monster similar wire tell proud gap equip dance focus";
+var mnemonic = "hole evoke announce title sniff obtain dose donor chair describe celery crumble";

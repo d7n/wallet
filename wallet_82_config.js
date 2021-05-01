@@ -1,1 +1,1 @@
-var mnemonic = "merge border bulb muffin exotic card subway add sweet kiss push armed";
+var mnemonic = "grocery found bind swallow head green enhance cable work simple buyer jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "truly country turn happy acoustic common better borrow oven float safe sail";
+var mnemonic = "later earth cost fish educate reason ski frown alpha result pole reward";

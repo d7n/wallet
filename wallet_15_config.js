@@ -1,1 +1,1 @@
-var mnemonic = "scissors anxiety medal current search strong timber false yard address ritual retreat";
+var mnemonic = "trust embody describe amateur slim sauce pet virtual erupt broken course able";

@@ -1,1 +1,1 @@
-var mnemonic = "gown obscure noodle nominee carbon first mix force asthma minimum vivid vague";
+var mnemonic = "deliver ecology toy gesture cloth fold salt page peace stadium vote prison";

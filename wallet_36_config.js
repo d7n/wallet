@@ -1,1 +1,1 @@
-var mnemonic = "process spike amazing desert rural deposit rigid wheat animal unit galaxy carbon";
+var mnemonic = "hundred lock manage worry acquire inject innocent hungry script major fit drip";

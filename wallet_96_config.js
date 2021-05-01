@@ -1,1 +1,1 @@
-var mnemonic = "depth crawl pottery beef produce only release chaos ill where uphold shoot";
+var mnemonic = "trade bright throw camp metal dirt put boss deposit differ bright stock";

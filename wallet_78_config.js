@@ -1,1 +1,1 @@
-var mnemonic = "sudden antenna sure tide rifle badge bitter muscle enable double same symptom";
+var mnemonic = "token dial blast lava wet help short skull hole upper wire vote";

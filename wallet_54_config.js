@@ -1,1 +1,1 @@
-var mnemonic = "curve asthma address arctic trend assist edge library harvest rubber segment order";
+var mnemonic = "click predict glare thought medal umbrella help insane sting duck punch company";

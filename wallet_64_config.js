@@ -1,1 +1,1 @@
-var mnemonic = "human matrix wear depend panic giraffe alcohol stock ripple peasant mix toss";
+var mnemonic = "basic grunt surprise seed design electric mimic evoke also chalk edge weird";

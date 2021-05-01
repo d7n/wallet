@@ -1,1 +1,1 @@
-var mnemonic = "upper simple test urge garden bubble local split scale cross october swift";
+var mnemonic = "glide harvest today divert educate spoil gather latin exercise dutch devote almost";

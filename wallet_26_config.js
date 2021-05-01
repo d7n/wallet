@@ -1,1 +1,1 @@
-var mnemonic = "cake bleak square wire rail essay prevent inflict ecology crumble admit betray";
+var mnemonic = "sort tuna ahead expect obvious column twist silver fiction behind village rich";

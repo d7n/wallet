@@ -1,1 +1,1 @@
-var mnemonic = "heart moral easy anchor enrich clever tree false staff waste equal news";
+var mnemonic = "tattoo harvest item nose laundry devote high surge net swamp original alpha";

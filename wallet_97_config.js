@@ -1,1 +1,1 @@
-var mnemonic = "eight teach coast artefact sort record summer coin they please change unique";
+var mnemonic = "series cheese bind focus east benefit mansion coyote business later mango grape";

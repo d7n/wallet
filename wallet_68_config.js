@@ -1,1 +1,1 @@
-var mnemonic = "olympic rabbit target section basket range apology hobby capable jaguar bracket forest";
+var mnemonic = "sustain jungle tray snow guilt sock amateur middle pig gravity habit grain";

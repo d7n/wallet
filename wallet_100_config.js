@@ -1,1 +1,1 @@
-var mnemonic = "twice edit inflict neglect embody walnut pupil throw mouse iron layer syrup";
+var mnemonic = "juice soap reject rug piece awesome couch home grow liquid endorse truth";

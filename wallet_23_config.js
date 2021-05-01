@@ -1,1 +1,1 @@
-var mnemonic = "olympic crew add throw energy olympic genre minor pitch rocket funny group";
+var mnemonic = "tackle undo ladder desk urban wealth arena swallow laugh special shine border";

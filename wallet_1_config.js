@@ -1,1 +1,1 @@
-var mnemonic = "spin man indicate rebuild great service wrestle emotion elite tennis atom faculty";
+var mnemonic = "hair notice fee ten tiger strong weekend frog slender object secret initial";

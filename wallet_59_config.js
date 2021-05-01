@@ -1,1 +1,1 @@
-var mnemonic = "disease renew help tuition nominee palm shoulder phrase cup hub iron jar";
+var mnemonic = "grain supreme glove enable agent situate vendor filter tag affair mean couch";

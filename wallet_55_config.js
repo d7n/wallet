@@ -1,1 +1,1 @@
-var mnemonic = "scene various sunset mandate plastic recycle sword critic merry object ocean write";
+var mnemonic = "wreck have luxury fragile mixed panic brain economy census neutral club leaf";

@@ -1,1 +1,1 @@
-var mnemonic = "raw entire fragile now north basic close reopen misery grass meadow clog";
+var mnemonic = "canal live swap silly hold shrug young bean rabbit tenant ancient worry";

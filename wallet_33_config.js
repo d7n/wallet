@@ -1,1 +1,1 @@
-var mnemonic = "drop tribe always clean discover stuff ginger oil struggle field bulb emerge";
+var mnemonic = "frog fun easy syrup text coconut orchard casual gift ribbon canoe hand";

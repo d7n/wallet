@@ -1,1 +1,1 @@
-var mnemonic = "glove mechanic arrive tortoise original wood helmet where domain leisure fly boy";
+var mnemonic = "easily oblige suspect rug table acquire hope expose measure addict polar fashion";

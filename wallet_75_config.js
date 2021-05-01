@@ -1,1 +1,1 @@
-var mnemonic = "logic unfold mercy region excess yellow pigeon kitchen price kid hero fashion";
+var mnemonic = "rib since aisle cup penalty master runway ill purse rapid banana prefer";

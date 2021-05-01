@@ -1,1 +1,1 @@
-var mnemonic = "labor assume flush lazy feature wine give capable main extra size charge";
+var mnemonic = "scare route divorce army rely owner crisp imitate measure laundry nephew mandate";

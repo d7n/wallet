@@ -1,1 +1,1 @@
-var mnemonic = "wet body math section like victory scorpion donate oven duty slogan tail";
+var mnemonic = "auction van artwork expect uniform lion matrix nominee young media bitter fly";

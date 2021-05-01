@@ -1,1 +1,1 @@
-var mnemonic = "bacon flip flavor letter panda now proud advice hour profit voyage kangaroo";
+var mnemonic = "much trim crowd entry ginger arrange decline ketchup state body waste arctic";

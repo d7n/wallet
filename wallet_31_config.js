@@ -1,1 +1,1 @@
-var mnemonic = "pattern trend foot clay ancient catch ivory moment rescue allow casual medal";
+var mnemonic = "fiction fault usage hood yard banana census youth knock jazz siren fury";

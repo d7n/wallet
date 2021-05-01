@@ -1,1 +1,1 @@
-var mnemonic = "special inch odor process prison draw learn humble gesture limb stadium insane";
+var mnemonic = "filter silent exercise pigeon basic index era winter enact pattern alien wife";
