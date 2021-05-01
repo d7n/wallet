@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog proof october upset property require before turn scout arch pencil follow";
+var mnemonic = "round borrow toy wasp daughter again song meadow breeze actress display scrap";

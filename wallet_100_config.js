@@ -1,1 +1,1 @@
-var mnemonic = "power bring ordinary fever sick sand left trust caution labor narrow sock";
+var mnemonic = "man acoustic trim march target bird estate rather chase adjust detect assault";

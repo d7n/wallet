@@ -1,1 +1,1 @@
-var mnemonic = "copper knock fox hen detail situate supply grow civil bike zone helmet";
+var mnemonic = "east provide certain clog squirrel profit win debris panther salute problem iron";

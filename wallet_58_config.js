@@ -1,1 +1,1 @@
-var mnemonic = "around cigar famous alert absorb aware tray input noble man hammer bargain";
+var mnemonic = "alert parrot castle vocal minute comic rug very hand token misery casino";

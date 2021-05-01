@@ -1,1 +1,1 @@
-var mnemonic = "salute power brown steel divorce own radar culture east test siren foot";
+var mnemonic = "frequent reveal super horse cross grape test fitness remember female define wasp";

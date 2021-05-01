@@ -1,1 +1,1 @@
-var mnemonic = "target goddess blood debris analyst entire soap original usual badge loop inquiry";
+var mnemonic = "game drive romance goat diamond display damp thrive wave rich system mechanic";

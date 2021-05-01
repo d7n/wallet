@@ -1,1 +1,1 @@
-var mnemonic = "toy acid fever ill peace crane network middle hub gas cloth side";
+var mnemonic = "patient index voice burger brass road chalk horror become actual hamster dish";

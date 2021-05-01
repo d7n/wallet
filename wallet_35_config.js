@@ -1,1 +1,1 @@
-var mnemonic = "suit visa another praise creek tip muscle fade attract huge over couple";
+var mnemonic = "card nerve mass pyramid ridge rate abuse smoke push pilot stuff apart";

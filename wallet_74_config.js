@@ -1,1 +1,1 @@
-var mnemonic = "title year sheriff trophy super effort screen comic final chase stomach spread";
+var mnemonic = "penalty stadium wheat limb review involve cheap target sister melt rent turn";

@@ -1,1 +1,1 @@
-var mnemonic = "century cereal always cattle night all faculty visual barrel cube tuna coyote";
+var mnemonic = "laptop pitch hammer skill float rent outer aim waste matter edit junior";

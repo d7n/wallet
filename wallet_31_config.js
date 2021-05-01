@@ -1,1 +1,1 @@
-var mnemonic = "race frozen exercise budget nurse rice column core light gorilla wing pole";
+var mnemonic = "crouch edit fringe tattoo rifle anchor deposit cry blue donate decide cricket";

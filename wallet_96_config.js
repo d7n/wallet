@@ -1,1 +1,1 @@
-var mnemonic = "pill outdoor empower dream detect design wave gun wrestle sadness sunset alien";
+var mnemonic = "oval exact shrimp funny perfect balcony duty social wonder glare vintage pretty";

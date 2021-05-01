@@ -1,1 +1,1 @@
-var mnemonic = "isolate argue canvas leg rude mad guess stairs clump gun witness across";
+var mnemonic = "fluid current liar annual pilot useful family mansion thought series gain arena";

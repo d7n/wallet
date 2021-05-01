@@ -1,1 +1,1 @@
-var mnemonic = "sheriff degree harvest indicate myself cat scene wrap loud world impact section";
+var mnemonic = "cricket blade elegant arrive demand cat enable swarm duck fun arrive awesome";

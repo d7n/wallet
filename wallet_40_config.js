@@ -1,1 +1,1 @@
-var mnemonic = "sausage act endorse mechanic genuine sudden boil tattoo index novel grunt afraid";
+var mnemonic = "credit decide insect about average cause clump aspect inch short flavor pink";

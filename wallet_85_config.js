@@ -1,1 +1,1 @@
-var mnemonic = "lemon bitter old smart short feature image throw rose parade birth strike";
+var mnemonic = "sea duck quarter stuff embrace siege word decrease federal guess dignity limit";

@@ -1,1 +1,1 @@
-var mnemonic = "tattoo vault stem host kick initial shield galaxy time rice valley mad";
+var mnemonic = "public achieve twice hair illegal chase square solution mechanic badge dismiss lyrics";

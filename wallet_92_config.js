@@ -1,1 +1,1 @@
-var mnemonic = "chronic mountain cook equal vast ketchup lunch long earn joke aerobic tornado";
+var mnemonic = "stomach bonus loan tumble ridge essay isolate book balcony agent tragic blouse";

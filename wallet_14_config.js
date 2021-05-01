@@ -1,1 +1,1 @@
-var mnemonic = "agent dust celery muffin oil patrol future diary frozen stumble push upset";
+var mnemonic = "genuine pig horn lesson trophy garment wisdom skate unit gown enhance tribe";

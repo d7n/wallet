@@ -1,1 +1,1 @@
-var mnemonic = "siren top artist party shove fluid rhythm myself galaxy early beyond tank";
+var mnemonic = "kitten cushion total tomorrow arrest slush brave kingdom you spirit slim pepper";

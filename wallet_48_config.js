@@ -1,1 +1,1 @@
-var mnemonic = "perfect already throw begin market before impulse excess equal able chaos defy";
+var mnemonic = "version catalog clown custom clip amateur prepare small orphan bacon bundle sister";

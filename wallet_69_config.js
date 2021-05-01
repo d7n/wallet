@@ -1,1 +1,1 @@
-var mnemonic = "must vibrant recycle other vanish atom loud wide daughter provide prevent success";
+var mnemonic = "quote baby human drop carry school grant extend exercise marble beef prevent";

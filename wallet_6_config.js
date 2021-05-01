@@ -1,1 +1,1 @@
-var mnemonic = "lyrics reward two trophy siege demand resource clock drastic strike canal nation";
+var mnemonic = "tiny check autumn crucial maple orange south drama result crater unit street";

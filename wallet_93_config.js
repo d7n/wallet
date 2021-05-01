@@ -1,1 +1,1 @@
-var mnemonic = "bulb belt furnace relax game peanut observe muffin cricket couch number trigger";
+var mnemonic = "sentence cat grid dish night resist purse mechanic tired inch argue trumpet";

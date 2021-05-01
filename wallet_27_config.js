@@ -1,1 +1,1 @@
-var mnemonic = "travel exist please gun slide moral shiver emotion travel sniff glue cover";
+var mnemonic = "trend tip marriage good faculty merry sense season crime castle toilet model";

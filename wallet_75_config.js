@@ -1,1 +1,1 @@
-var mnemonic = "danger hotel rifle woman issue cloth shrug pass into model demand clinic";
+var mnemonic = "planet reunion dad talk despair immense enlist skin job foster wild trick";

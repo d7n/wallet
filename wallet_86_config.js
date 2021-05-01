@@ -1,1 +1,1 @@
-var mnemonic = "worry lounge old scrap admit picnic security street drill morning deal enact";
+var mnemonic = "crumble maze word banana power chest cannon report deal buyer scan disease";

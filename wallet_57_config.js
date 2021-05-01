@@ -1,1 +1,1 @@
-var mnemonic = "zoo bind order rocket coach pulse broken depend foot where vintage seek";
+var mnemonic = "famous finger loyal square history broken problem traffic baby anchor primary dad";

@@ -1,1 +1,1 @@
-var mnemonic = "truck awful color adult lake bleak lava broken license version tornado demand";
+var mnemonic = "tooth alien school fit south scare document tennis six dune reform stable";

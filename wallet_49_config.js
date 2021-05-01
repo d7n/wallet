@@ -1,1 +1,1 @@
-var mnemonic = "forget milk gadget move exact swap sibling ghost sorry fault hockey pledge";
+var mnemonic = "fold drink example chest strategy judge spare stereo that arrive ring mammal";

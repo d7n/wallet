@@ -1,1 +1,1 @@
-var mnemonic = "vague phone hover bright way vintage about athlete layer edge session frog";
+var mnemonic = "blind message budget source ticket kiss tilt super marriage just bitter govern";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology life patch width north canyon way master already access paper friend";
+var mnemonic = "alter copper banner divide razor equal main shell regular sample family path";

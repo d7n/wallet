@@ -1,1 +1,1 @@
-var mnemonic = "chase boil solve annual gasp love limb inhale shallow among earth play";
+var mnemonic = "pyramid unit eye tribe bread warm knock turn decrease desert taste spoil";

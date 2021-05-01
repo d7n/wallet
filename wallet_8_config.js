@@ -1,1 +1,1 @@
-var mnemonic = "game avoid tenant museum forum tobacco anxiety rain clip giggle grass best";
+var mnemonic = "regret tuition fish delay legend like mind before produce sword floor force";

@@ -1,1 +1,1 @@
-var mnemonic = "raven view eye soon manual evoke apology fragile taste drop jar project";
+var mnemonic = "wide dance roast suggest fortune kitten sport seven marble hire over metal";

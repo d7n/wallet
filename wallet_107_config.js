@@ -1,1 +1,1 @@
-var mnemonic = "valve pig panther chicken leave gesture stamp face inform space finish ticket";
+var mnemonic = "bone twice image alcohol warm cotton slow hello upon disease must exercise";

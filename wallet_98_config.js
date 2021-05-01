@@ -1,1 +1,1 @@
-var mnemonic = "stick swim attitude veteran butter urge tomorrow rail problem idea tornado alien";
+var mnemonic = "game bring resemble mother catalog reject spin cruel safe add sing vicious";

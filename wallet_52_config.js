@@ -1,1 +1,1 @@
-var mnemonic = "elephant cargo camp gather absurd catch gentle claw legend brave offer citizen";
+var mnemonic = "crumble area glow obtain brass utility odor cost region catalog behind solve";

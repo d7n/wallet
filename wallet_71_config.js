@@ -1,1 +1,1 @@
-var mnemonic = "eight frozen couch rubber science ready barrel oven path believe brush skill";
+var mnemonic = "melody abuse verify finger glue scatter bounce weird drum train mask fruit";

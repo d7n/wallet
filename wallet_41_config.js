@@ -1,1 +1,1 @@
-var mnemonic = "jeans wet snake trial hurry acid enemy grant toddler lawn engage begin";
+var mnemonic = "tackle liberty cute guilt boil come earn coyote traffic mesh drum liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "noble bounce scare spray early amazing clutch sausage critic stadium skirt lazy";
+var mnemonic = "drama harvest bamboo exist mistake castle cluster cargo visual goat fossil dolphin";

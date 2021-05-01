@@ -1,1 +1,1 @@
-var mnemonic = "predict solar glare globe idle october result cricket creek twist window elite";
+var mnemonic = "bus expose desk quality amount again feed security dizzy fade else purse";

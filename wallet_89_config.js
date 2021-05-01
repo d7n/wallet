@@ -1,1 +1,1 @@
-var mnemonic = "nation fabric expand orient timber roof update split roast still risk hybrid";
+var mnemonic = "frown index rent airport steak limit winner salute sick lazy all sugar";

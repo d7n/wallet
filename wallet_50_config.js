@@ -1,1 +1,1 @@
-var mnemonic = "miss net increase embrace agent luxury carry pattern cycle urge panic over";
+var mnemonic = "daughter age depend plunge tomato draft taste latin accuse ghost daughter cute";

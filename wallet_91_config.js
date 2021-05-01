@@ -1,1 +1,1 @@
-var mnemonic = "cherry indoor lawn calm make nut grow gas infant view found canyon";
+var mnemonic = "chalk video huge lonely enrich change punch city volume lesson remind fever";

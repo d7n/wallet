@@ -1,1 +1,1 @@
-var mnemonic = "swallow dice reunion observe click throw cargo valley bamboo essay mystery control";
+var mnemonic = "derive student key view donor blush region twelve great scorpion ankle crunch";

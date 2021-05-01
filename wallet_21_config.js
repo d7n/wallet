@@ -1,1 +1,1 @@
-var mnemonic = "caught ordinary find weather jelly dish wild violin garden obtain aisle winter";
+var mnemonic = "age quantum song midnight twice eight disagree cannon marriage loud model cherry";

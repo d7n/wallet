@@ -1,1 +1,1 @@
-var mnemonic = "foil suspect era silk great sketch arrive sting van remain family tree";
+var mnemonic = "proof holiday machine rail fatal bone suit nature tilt tape few stable";

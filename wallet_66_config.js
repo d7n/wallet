@@ -1,1 +1,1 @@
-var mnemonic = "occur brush service material vote skull square gravity element opera cannon coral";
+var mnemonic = "august capable trial normal manage era hawk impulse trumpet flash pill wasp";

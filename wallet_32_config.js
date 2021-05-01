@@ -1,1 +1,1 @@
-var mnemonic = "embark hover photo enemy album mammal favorite forest dolphin love village wasp";
+var mnemonic = "cloth hen divide detail art blind sing share begin brush reduce hub";

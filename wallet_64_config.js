@@ -1,1 +1,1 @@
-var mnemonic = "swing define right awkward cool canvas ribbon all space meadow spy tenant";
+var mnemonic = "chalk vocal sphere rely toss shell blanket divide usage wear close zebra";

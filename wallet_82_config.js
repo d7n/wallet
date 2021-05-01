@@ -1,1 +1,1 @@
-var mnemonic = "wolf nasty pulp call update truth afford estate weird invest maple lava";
+var mnemonic = "uniform little bless trade thrive junk ankle island depend pig bulb pulp";

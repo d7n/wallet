@@ -1,1 +1,1 @@
-var mnemonic = "fold orphan cushion sad border lecture ladder annual gospel frame roof danger";
+var mnemonic = "pigeon develop claw rhythm review knee organ reduce provide above behind banana";

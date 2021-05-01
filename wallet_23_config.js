@@ -1,1 +1,1 @@
-var mnemonic = "approve planet spend dirt merry wing arrive window put machine staff oppose";
+var mnemonic = "lemon cram please sort fluid girl smoke jealous frown arm crash awful";

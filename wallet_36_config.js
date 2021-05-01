@@ -1,1 +1,1 @@
-var mnemonic = "choose rocket release insane bean father oppose wagon portion air approve client";
+var mnemonic = "hold crew have corn taxi offer lyrics train refuse use vanish orchard";

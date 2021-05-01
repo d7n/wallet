@@ -1,1 +1,1 @@
-var mnemonic = "appear organ gun midnight write step chicken empty choice flat river worth";
+var mnemonic = "expand stable ankle elite reduce wagon toward step similar road brave produce";

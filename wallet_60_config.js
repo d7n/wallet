@@ -1,1 +1,1 @@
-var mnemonic = "network seed army stage modify radar finger arctic cry road face parent";
+var mnemonic = "rhythm diet rigid fat harvest auto awake midnight beach side area language";

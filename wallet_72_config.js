@@ -1,1 +1,1 @@
-var mnemonic = "demise cotton leisure bright pave select champion struggle reward work result network";
+var mnemonic = "left gospel math twin welcome panel orange left attitude total frown collect";

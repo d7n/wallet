@@ -1,1 +1,1 @@
-var mnemonic = "lucky interest betray gallery poem december ocean ugly inject style sail tone";
+var mnemonic = "mammal pull panther addict casino april pencil kiwi sing cost night crazy";

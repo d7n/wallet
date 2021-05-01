@@ -1,1 +1,1 @@
-var mnemonic = "smile lottery infant festival sugar index urban frequent wealth hold elegant panda";
+var mnemonic = "photo kangaroo aisle duck visit arch gossip advice title expand apart tiger";

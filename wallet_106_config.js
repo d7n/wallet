@@ -1,1 +1,1 @@
-var mnemonic = "cycle pony salute merry curious rib pottery air punch where dignity mirror";
+var mnemonic = "pen clip canal promote enjoy regular fish buffalo unusual soft tumble verify";

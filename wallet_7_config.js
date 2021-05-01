@@ -1,1 +1,1 @@
-var mnemonic = "long virtual lounge pumpkin risk galaxy noodle around card angry disagree someone";
+var mnemonic = "model type taxi involve end behind tiny legal dust merge silk fetch";

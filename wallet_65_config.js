@@ -1,1 +1,1 @@
-var mnemonic = "script thank spoil snow rural surprise begin turtle economy athlete excess stuff";
+var mnemonic = "casino craft include siren search eagle idea derive invest army image dynamic";

@@ -1,1 +1,1 @@
-var mnemonic = "latin cannon tourist search message bread flag useless knife cabbage evoke armor";
+var mnemonic = "evil symbol name wrap degree school prosper sense enlist depth exercise lend";

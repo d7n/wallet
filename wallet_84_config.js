@@ -1,1 +1,1 @@
-var mnemonic = "assault first shoulder regret virus hammer arch crop early chronic ship blouse";
+var mnemonic = "saddle shove child smooth cry sadness gaze expand ship coil reduce toss";

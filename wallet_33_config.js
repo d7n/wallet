@@ -1,1 +1,1 @@
-var mnemonic = "what truck mention kingdom lava prison kitten suit brisk ocean address consider";
+var mnemonic = "help boy save student dolphin cousin curve pipe retire depart object disorder";

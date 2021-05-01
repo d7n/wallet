@@ -1,1 +1,1 @@
-var mnemonic = "try dish vital sphere force pencil mouse frame warfare grit pipe night";
+var mnemonic = "pioneer patch emotion era reveal wrist canyon asset stove adapt rural update";

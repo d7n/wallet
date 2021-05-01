@@ -1,1 +1,1 @@
-var mnemonic = "cupboard clump worth pact vanish impact cake little when actual model best";
+var mnemonic = "icon cherry shift apart picnic humble chalk birth shine royal call hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "orient faculty open iron job baby bundle stumble forest country snow pizza";
+var mnemonic = "cube series bunker battle keep cruel wage trade frown blur great attitude";

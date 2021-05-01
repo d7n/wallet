@@ -1,1 +1,1 @@
-var mnemonic = "region dolphin begin doctor civil chat flush mammal artwork border sport orphan";
+var mnemonic = "disorder narrow sketch envelope awkward fresh corn cook solar company tip ball";

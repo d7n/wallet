@@ -1,1 +1,1 @@
-var mnemonic = "cram velvet neither need harbor satisfy attend attitude giraffe wave anchor toward";
+var mnemonic = "choose agree unhappy round tobacco blame saddle ship fall swap question mimic";

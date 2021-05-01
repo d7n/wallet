@@ -1,1 +1,1 @@
-var mnemonic = "what injury run judge opera idle survey police expose tattoo bright token";
+var mnemonic = "blood attract spirit health link olive carry recall knife earth core tip";

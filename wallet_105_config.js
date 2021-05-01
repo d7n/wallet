@@ -1,1 +1,1 @@
-var mnemonic = "earn offer hand peace brisk reason ski harvest mention adjust broccoli unhappy";
+var mnemonic = "holiday proof inhale dust fuel magnet educate neither north seek recycle state";

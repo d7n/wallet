@@ -1,1 +1,1 @@
-var mnemonic = "atom fiscal bunker decorate tumble subway urge enemy festival bulb chaos nasty";
+var mnemonic = "spider alpha diamond rib depend base more october edit effort ritual party";

@@ -1,1 +1,1 @@
-var mnemonic = "other bulk cloth report cook sponsor focus evil raw visual welcome nerve";
+var mnemonic = "omit pottery zone lab world snow say solve pause strategy public possible";

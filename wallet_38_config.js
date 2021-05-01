@@ -1,1 +1,1 @@
-var mnemonic = "arctic conduct water cream door vault combine common hair produce train short";
+var mnemonic = "pool glory borrow basic choose tunnel shrimp demise laptop diesel humor man";

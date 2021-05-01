@@ -1,1 +1,1 @@
-var mnemonic = "ripple wrestle panic clog mango accuse system betray chapter trust step token";
+var mnemonic = "junior wool treat dynamic shift blush resource curious govern forum deny nation";

@@ -1,1 +1,1 @@
-var mnemonic = "timber limb anxiety drive shoe focus direct exotic mixed cabin mad vacant";
+var mnemonic = "seat action museum staff fee attitude reflect mechanic fork toy wage become";

@@ -1,1 +1,1 @@
-var mnemonic = "person volcano misery scout refuse endless drop brass enough inject oval join";
+var mnemonic = "core race delay teach brother myth blood tank day shop despair blood";

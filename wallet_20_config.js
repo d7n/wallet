@@ -1,1 +1,1 @@
-var mnemonic = "nothing script rough idea diamond veteran license pottery six neck festival waste";
+var mnemonic = "clap gap amazing announce salon initial embark march outside lens region winner";

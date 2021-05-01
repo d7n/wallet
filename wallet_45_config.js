@@ -1,1 +1,1 @@
-var mnemonic = "ball isolate hotel move comic smooth trick punch wine effort good hobby";
+var mnemonic = "mom universe claim ranch innocent fiscal insect rude fiction spring hair pretty";

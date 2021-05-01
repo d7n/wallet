@@ -1,1 +1,1 @@
-var mnemonic = "enhance bamboo voice connect violin mosquito enforce casual antique purity guard copy";
+var mnemonic = "box skill cheap ability bulk soda scout crouch soon discover science common";

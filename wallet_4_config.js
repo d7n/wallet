@@ -1,1 +1,1 @@
-var mnemonic = "begin rib enhance mansion wash ginger replace north tenant couple jump pony";
+var mnemonic = "divorce palm trophy grab hold seat bulb royal obey tilt era bridge";
