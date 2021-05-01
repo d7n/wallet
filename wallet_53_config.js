@@ -1,1 +1,1 @@
-var mnemonic = "oval merit awkward course isolate resemble gym wisdom pumpkin flee wonder federal";
+var mnemonic = "sweet aim couch margin aerobic lucky analyst cart limit side lab practice";

@@ -1,1 +1,1 @@
-var mnemonic = "hold range envelope inject expand impose theory notice engine stone solution maid";
+var mnemonic = "woman salmon family provide property elbow april artefact common offer spot review";

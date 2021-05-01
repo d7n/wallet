@@ -1,1 +1,1 @@
-var mnemonic = "provide gym affair tail opinion coast universe float limit phrase faculty leave";
+var mnemonic = "fly prosper nuclear deputy vibrant amazing require raccoon fatal keep gun sound";

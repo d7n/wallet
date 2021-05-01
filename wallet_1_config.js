@@ -1,1 +1,1 @@
-var mnemonic = "economy tape build indicate dice click save enrich actual august scale train";
+var mnemonic = "circle edit trade jelly quiz slow target knife derive caught seven course";

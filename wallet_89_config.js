@@ -1,1 +1,1 @@
-var mnemonic = "allow baby eyebrow travel search funny crunch trim spice robust kit kit";
+var mnemonic = "regret canvas abstract parent item column motor vibrant aisle zoo correct tattoo";

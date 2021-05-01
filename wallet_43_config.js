@@ -1,1 +1,1 @@
-var mnemonic = "grass outer work solid suit print text intact section lab disagree amateur";
+var mnemonic = "tunnel version bleak flag certain awake state pet amazing member accident guide";

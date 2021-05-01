@@ -1,1 +1,1 @@
-var mnemonic = "scan humble hybrid ride leg test brick bench layer aspect shrug romance";
+var mnemonic = "sting ankle doctor inform aunt scrap love ranch peanut afford brave illegal";

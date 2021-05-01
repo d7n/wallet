@@ -1,1 +1,1 @@
-var mnemonic = "kidney post couple hair great novel vault balance public fault obtain once";
+var mnemonic = "flower small elbow average obey tragic universe theory feature loud super quantum";

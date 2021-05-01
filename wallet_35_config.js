@@ -1,1 +1,1 @@
-var mnemonic = "bitter define garbage language problem annual steel waste artist vacuum best urban";
+var mnemonic = "weasel drastic strong upset smart twist uncle sunny lesson harsh fashion quantum";

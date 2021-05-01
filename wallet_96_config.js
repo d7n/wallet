@@ -1,1 +1,1 @@
-var mnemonic = "economy rain maid belt blossom sauce lazy cloud rude system word torch";
+var mnemonic = "price peace artefact chase key embark picture throw coffee cigar glue wedding";

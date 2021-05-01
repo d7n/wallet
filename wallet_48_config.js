@@ -1,1 +1,1 @@
-var mnemonic = "join alert whale fancy twenty century hazard chase floor split defy science";
+var mnemonic = "dawn able salmon jump fish analyst online grain tired coast caught manual";

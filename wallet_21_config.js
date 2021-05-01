@@ -1,1 +1,1 @@
-var mnemonic = "fluid birth scrap illness slogan little lounge roast window awake fatal quarter";
+var mnemonic = "material hire fiscal body exchange asthma visual page wagon ostrich vibrant vast";

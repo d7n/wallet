@@ -1,1 +1,1 @@
-var mnemonic = "demise extra strong banana theme ribbon hobby frozen rally team relief bulk";
+var mnemonic = "ivory happy price bomb around chuckle now zebra blast cherry purse polar";

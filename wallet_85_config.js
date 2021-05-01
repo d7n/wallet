@@ -1,1 +1,1 @@
-var mnemonic = "oven color robust tray observe alcohol blue pass farm parent wise chapter";
+var mnemonic = "absurd flush firm hurdle hurdle dance rail govern gaze dash learn lava";

@@ -1,1 +1,1 @@
-var mnemonic = "sister entire genuine enough parent abstract change crazy orchard burst bulb vessel";
+var mnemonic = "bone length desk phone box simple void absent clarify top mesh silly";

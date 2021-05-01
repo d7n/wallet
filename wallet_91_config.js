@@ -1,1 +1,1 @@
-var mnemonic = "put enrich possible replace gap truth swap lunch note about also grass";
+var mnemonic = "giraffe bone heart meat vibrant safe banana cute mansion apology prize borrow";

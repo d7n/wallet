@@ -1,1 +1,1 @@
-var mnemonic = "fat fresh grid outside raise model record consider boss estate sustain opinion";
+var mnemonic = "faith oppose magic catch fringe impose access truly pelican appear anger sport";

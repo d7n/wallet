@@ -1,1 +1,1 @@
-var mnemonic = "payment champion island dune present leisure story project fine private melt engine";
+var mnemonic = "robust loyal green alter ghost frost fossil snap inject fabric sell when";

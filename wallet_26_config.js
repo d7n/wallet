@@ -1,1 +1,1 @@
-var mnemonic = "perfect same erosion benefit provide pyramid future casino believe unknown fun same";
+var mnemonic = "easily warfare staff sugar feature large tape luxury cousin manage ask retire";

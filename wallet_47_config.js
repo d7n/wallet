@@ -1,1 +1,1 @@
-var mnemonic = "bridge hazard insane source island seek device hire put album apple damage";
+var mnemonic = "interest diet ankle kid ketchup blush divide island message scorpion stick adapt";

@@ -1,1 +1,1 @@
-var mnemonic = "cost laundry year crush kite major recipe secret office badge jump door";
+var mnemonic = "valid marriage farm adjust drill robot tag mystery clock radar ethics kangaroo";

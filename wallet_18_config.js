@@ -1,1 +1,1 @@
-var mnemonic = "hundred razor fix choice picnic bachelor cup foster deer ladder casino result";
+var mnemonic = "make caught bar cook expand father alert crew ozone guitar boost audit";

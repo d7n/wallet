@@ -1,1 +1,1 @@
-var mnemonic = "rare dose witness vote load write cool foster brass garment seek pelican";
+var mnemonic = "faint dwarf usage cluster stone expect hollow paper cliff ten bubble like";

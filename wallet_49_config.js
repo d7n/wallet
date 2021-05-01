@@ -1,1 +1,1 @@
-var mnemonic = "time stairs bronze bitter question recall almost common matter brown bubble gallery";
+var mnemonic = "onion alter nephew fitness fade turtle assist wing effort wreck horror hope";

@@ -1,1 +1,1 @@
-var mnemonic = "differ toy front quality play hint duty duck vivid pig record fork";
+var mnemonic = "crime remain vacant crunch tank tiny notable enemy general buyer mixture pig";

@@ -1,1 +1,1 @@
-var mnemonic = "load slim poet glare shine bicycle story write obey social search poem";
+var mnemonic = "erase sight narrow anger start canvas problem label bomb picture friend bar";

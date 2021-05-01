@@ -1,1 +1,1 @@
-var mnemonic = "vacant lounge grit escape foster vanish inform hat zone pyramid demise step";
+var mnemonic = "wedding result steak recycle speak cement pretty jump remind annual owner violin";

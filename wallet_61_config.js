@@ -1,1 +1,1 @@
-var mnemonic = "decide farm lunch buyer trend wait electric fee annual cube design proud";
+var mnemonic = "ginger quick cabin divert enhance help miss have much liar rigid lunar";

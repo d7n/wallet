@@ -1,1 +1,1 @@
-var mnemonic = "wagon cushion uphold medal purpose mix cycle quantum crazy brand jewel lazy";
+var mnemonic = "kingdom there genre top leader paddle goddess pulp hero simple round concert";

@@ -1,1 +1,1 @@
-var mnemonic = "group clown bag deal lake unique doll execute relax daughter naive puzzle";
+var mnemonic = "short giraffe acid romance orphan alien rare throw crowd solid verify gain";

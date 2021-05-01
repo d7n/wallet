@@ -1,1 +1,1 @@
-var mnemonic = "monitor swift patch steel razor rabbit shrimp job frame palm achieve glass";
+var mnemonic = "square spoon color result owner kiwi trap gym joke tattoo old term";

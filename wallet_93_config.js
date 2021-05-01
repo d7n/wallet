@@ -1,1 +1,1 @@
-var mnemonic = "notable file supply person hockey output romance attend excess bone beauty wedding";
+var mnemonic = "screen rapid license rifle beauty series minute limit deer obscure garbage merit";

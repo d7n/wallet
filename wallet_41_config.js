@@ -1,1 +1,1 @@
-var mnemonic = "stage awful fetch animal rocket game day theme give only again guilt";
+var mnemonic = "sword summer drop popular debris chase potato divorce moral acquire hope close";

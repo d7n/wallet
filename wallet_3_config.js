@@ -1,1 +1,1 @@
-var mnemonic = "alien inmate feel chimney frown any expose shadow grain bicycle spread diary";
+var mnemonic = "language legal direct impulse tornado vendor vacuum curious install lonely corn knock";

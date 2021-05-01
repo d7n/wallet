@@ -1,1 +1,1 @@
-var mnemonic = "crouch keen chicken grain annual tray boring step ridge want choose spring";
+var mnemonic = "moral bid good champion mushroom switch later include expose ladder review during";

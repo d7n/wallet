@@ -1,1 +1,1 @@
-var mnemonic = "game disease rent pioneer people trick emotion sleep multiply sick utility delay";
+var mnemonic = "pencil beach bulb later lobster silk duty dress oyster process lumber defy";

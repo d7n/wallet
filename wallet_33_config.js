@@ -1,1 +1,1 @@
-var mnemonic = "renew middle music replace common intact velvet relief ivory run cable tank";
+var mnemonic = "together wisdom shaft educate average around orbit bottom tattoo exist lobster heavy";

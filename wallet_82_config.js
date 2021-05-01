@@ -1,1 +1,1 @@
-var mnemonic = "tunnel desert choose hurry learn noise escape oyster biology fox aerobic teach";
+var mnemonic = "grocery fancy birth vacuum street still educate convince soda awake safe stool";

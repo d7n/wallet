@@ -1,1 +1,1 @@
-var mnemonic = "female panel label carpet piece dad margin worry knock buddy guide scan";
+var mnemonic = "utility leave junior glow caution until lumber distance october post absurd bleak";

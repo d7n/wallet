@@ -1,1 +1,1 @@
-var mnemonic = "office series since muffin crunch profit viable know below good daughter page";
+var mnemonic = "flag jazz toss best topic milk planet arctic glove combine oil front";

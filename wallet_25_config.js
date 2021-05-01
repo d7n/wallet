@@ -1,1 +1,1 @@
-var mnemonic = "choose muscle royal you dad bracket float pledge either friend benefit search";
+var mnemonic = "word alley bamboo age enter sign kangaroo fat announce cash repair spare";

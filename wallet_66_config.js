@@ -1,1 +1,1 @@
-var mnemonic = "network mesh brisk cargo blade labor clever radar embody scorpion army antenna";
+var mnemonic = "base this bacon mix wood glad biology vital cabbage vote luxury under";

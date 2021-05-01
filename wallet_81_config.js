@@ -1,1 +1,1 @@
-var mnemonic = "saddle fuel tattoo labor vessel glide cousin wish illness source month ribbon";
+var mnemonic = "student wage theory play champion want expire cook cook dawn okay cloth";

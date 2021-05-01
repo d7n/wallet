@@ -1,1 +1,1 @@
-var mnemonic = "perfect jaguar often clump monitor left item bring coil fiscal mammal sheriff";
+var mnemonic = "update dish point mixed rice lamp acid rain thank traffic member swap";

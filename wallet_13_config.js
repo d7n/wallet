@@ -1,1 +1,1 @@
-var mnemonic = "pencil crouch regret smile laugh decade focus polar wolf silk orange banana";
+var mnemonic = "pupil lunch motor profit tiny piece horn coast announce ozone remember right";

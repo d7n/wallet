@@ -1,1 +1,1 @@
-var mnemonic = "fall casual cancel cabbage jewel finger candy subject correct hamster aim mistake";
+var mnemonic = "position hold exit invite copper tower excuse kiss nut pottery this must";

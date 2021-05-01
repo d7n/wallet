@@ -1,1 +1,1 @@
-var mnemonic = "shoot acid salad balcony address pitch outside keep round sphere drift theory";
+var mnemonic = "brain fatigue absorb crouch club escape lunch fever basic divide bring egg";

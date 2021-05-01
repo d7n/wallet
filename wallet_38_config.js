@@ -1,1 +1,1 @@
-var mnemonic = "achieve major demise angle pepper shock viable what squirrel tuition pony spring";
+var mnemonic = "issue luggage fall fuel cereal advice utility hint wild material cricket tomorrow";

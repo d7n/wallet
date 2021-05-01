@@ -1,1 +1,1 @@
-var mnemonic = "metal one output skirt try focus consider february talent soccer demise smoke";
+var mnemonic = "express tackle dizzy rib result deer hundred armed turtle fancy skirt duty";

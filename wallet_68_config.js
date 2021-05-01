@@ -1,1 +1,1 @@
-var mnemonic = "cross bone panda answer giant churn beef hunt napkin evidence follow usual";
+var mnemonic = "hub business health list pole broom general mirror gain chat link donor";

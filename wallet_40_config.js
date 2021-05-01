@@ -1,1 +1,1 @@
-var mnemonic = "uphold brown young cherry write near flavor borrow struggle faith audit husband";
+var mnemonic = "shoulder ladder health stairs slide horn casual chest close fluid before group";

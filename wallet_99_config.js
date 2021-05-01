@@ -1,1 +1,1 @@
-var mnemonic = "arrive food tourist thrive shiver must begin true method kidney material tribe";
+var mnemonic = "world fancy peace miss snake boil pause dynamic remove maze dress decrease";

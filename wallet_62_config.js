@@ -1,1 +1,1 @@
-var mnemonic = "toddler return student ladder artefact category grape disorder brand clump degree this";
+var mnemonic = "layer runway hedgehog match ginger allow jealous canyon slender margin brown post";

@@ -1,1 +1,1 @@
-var mnemonic = "robot kite away tool tone unhappy muscle medal argue machine onion index";
+var mnemonic = "thing table marriage hip party brave orchard present call soon judge obscure";

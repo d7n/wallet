@@ -1,1 +1,1 @@
-var mnemonic = "hungry cable kind gift purchase nephew divert park roast blush lawsuit enlist";
+var mnemonic = "draft siren oppose diet mad help like egg barely damp margin reason";

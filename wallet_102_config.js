@@ -1,1 +1,1 @@
-var mnemonic = "fine saddle panel radio define goat disorder sunset habit silly account transfer";
+var mnemonic = "purse tape ramp invite gasp rate six height rule solution cereal reward";

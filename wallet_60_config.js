@@ -1,1 +1,1 @@
-var mnemonic = "surface lesson wise repeat grain surprise keen utility fine misery broom casual";
+var mnemonic = "surprise slight kidney save damp shed spice belt vanish tissue cool excess";

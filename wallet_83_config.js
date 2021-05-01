@@ -1,1 +1,1 @@
-var mnemonic = "hotel trophy cactus rule duck monkey unfold toddler moral walnut rose uncle";
+var mnemonic = "state space curtain team phone example priority agree quiz diet butter found";

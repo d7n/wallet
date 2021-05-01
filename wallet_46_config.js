@@ -1,1 +1,1 @@
-var mnemonic = "raven sing discover length host kind skin cinnamon steak shuffle observe badge";
+var mnemonic = "connect mansion cinnamon fly symptom famous owner cost strategy ramp whisper glory";

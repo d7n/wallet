@@ -1,1 +1,1 @@
-var mnemonic = "front erupt twin kitchen knife flush canvas exclude leader crucial danger rare";
+var mnemonic = "pudding admit imitate bamboo fitness hidden mean flower fence curve report matter";

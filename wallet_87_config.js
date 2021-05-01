@@ -1,1 +1,1 @@
-var mnemonic = "brick jeans company misery toast cinnamon word pig planet insect item ugly";
+var mnemonic = "foot pilot holiday shift erupt choice kiwi nerve lottery half proof sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "basket know pottery right unveil transfer stadium author retreat group census hand";
+var mnemonic = "drive saddle verb pulp panic diesel alpha hurt pudding wolf caught way";

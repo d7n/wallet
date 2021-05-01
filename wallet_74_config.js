@@ -1,1 +1,1 @@
-var mnemonic = "model cloth hollow hole client crunch guess toilet thrive parade multiply animal";
+var mnemonic = "renew cancel razor avoid twelve sauce review label waste flush rude cause";

@@ -1,1 +1,1 @@
-var mnemonic = "someone cannon uncover slogan aisle index symbol potato glove century among index";
+var mnemonic = "utility slim powder undo enrich evolve safe chapter dentist rhythm file subject";

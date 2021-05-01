@@ -1,1 +1,1 @@
-var mnemonic = "praise base animal bomb stamp chronic toward raise wrong riot power talent";
+var mnemonic = "talk gun grace cycle two magic employ want spot host detail humor";

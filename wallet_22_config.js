@@ -1,1 +1,1 @@
-var mnemonic = "forget enjoy infant envelope siren sibling page huge nest crater disorder depend";
+var mnemonic = "argue box squirrel ring animal cup seek record purpose fame remember endless";

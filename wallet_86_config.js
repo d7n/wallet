@@ -1,1 +1,1 @@
-var mnemonic = "inmate valley install wise tank chef smooth anxiety laundry eternal dinner vault";
+var mnemonic = "enemy vendor minor denial cause era stable dwarf drift tomorrow century verify";

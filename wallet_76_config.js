@@ -1,1 +1,1 @@
-var mnemonic = "congress spy agree solution canal shy piece fee fan sustain embark cool";
+var mnemonic = "purpose parent call crumble bean thing orbit issue party fetch faith fade";

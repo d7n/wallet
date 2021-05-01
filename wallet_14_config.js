@@ -1,1 +1,1 @@
-var mnemonic = "traffic base water link extend dry swallow credit large prefer cart vague";
+var mnemonic = "ankle grant rescue theory tissue undo fall faith ignore banner steel glare";

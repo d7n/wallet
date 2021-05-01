@@ -1,1 +1,1 @@
-var mnemonic = "jacket sight valve stumble fantasy sustain orange chronic rack apple saddle erase";
+var mnemonic = "inflict follow obey dinner idle shoulder wise polar cement lemon stand palm";

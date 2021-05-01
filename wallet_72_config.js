@@ -1,1 +1,1 @@
-var mnemonic = "rain yellow control gasp slogan zoo demise build salt segment sweet culture";
+var mnemonic = "basic grief equal butter cause evil scissors call direct bamboo disease purchase";

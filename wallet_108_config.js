@@ -1,1 +1,1 @@
-var mnemonic = "coffee nasty junior world kit pyramid flush flame clog rail movie wait";
+var mnemonic = "draft stomach require mimic spatial thing equip amazing topic original nation onion";

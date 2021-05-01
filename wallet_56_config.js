@@ -1,1 +1,1 @@
-var mnemonic = "ivory aerobic chicken meat latin inherit case essence tip average bitter december";
+var mnemonic = "equip eye cake lottery angry fall state able only wave mouse virus";

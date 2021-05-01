@@ -1,1 +1,1 @@
-var mnemonic = "collect razor toddler pretty stumble leaf still purse potato topple wasp claim";
+var mnemonic = "emerge spy theme van neither garden push ketchup cheese sibling column pepper";

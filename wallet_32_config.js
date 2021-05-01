@@ -1,1 +1,1 @@
-var mnemonic = "cloud dragon theme pulp mirror length farm raven speed always cram cherry";
+var mnemonic = "popular reform siege brain amazing grain disease finger dolphin kangaroo rabbit abandon";

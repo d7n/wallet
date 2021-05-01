@@ -1,1 +1,1 @@
-var mnemonic = "sadness delay raise inherit cheap nature hurdle keep bulb slight gym sword";
+var mnemonic = "rapid fall lab tilt hub truck coffee chef lady usage anxiety stairs";

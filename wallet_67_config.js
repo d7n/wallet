@@ -1,1 +1,1 @@
-var mnemonic = "duck scissors annual before pet assault effort unfair method race turkey soap";
+var mnemonic = "scout muffin vicious despair empty recycle knee village pluck kind scrub tattoo";

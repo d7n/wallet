@@ -1,1 +1,1 @@
-var mnemonic = "ordinary enroll treat already cable witness appear salute mind pistol bottom cover";
+var mnemonic = "birth resist laptop physical curve other dream shell hurry interest hurdle curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll give public cricket flash movie carpet crash episode dwarf share perfect";
+var mnemonic = "pyramid asset one recipe witness nominee smoke eight kiwi attitude copy stone";

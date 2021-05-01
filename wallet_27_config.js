@@ -1,1 +1,1 @@
-var mnemonic = "country jacket example still staff neglect gown same anger melody extra cushion";
+var mnemonic = "dilemma mushroom edit saddle use gather design glow orphan trip upon lamp";

@@ -1,1 +1,1 @@
-var mnemonic = "crop power else source denial tag broken upgrade amused damp illegal tower";
+var mnemonic = "roast hard like want find flower ethics ghost flame keep vanish crystal";

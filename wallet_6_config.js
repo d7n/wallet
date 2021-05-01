@@ -1,1 +1,1 @@
-var mnemonic = "scale sword today few build zebra glow neutral mandate suffer upset unable";
+var mnemonic = "pipe flower cherry win coyote vacant act liberty denial club treat south";

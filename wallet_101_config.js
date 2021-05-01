@@ -1,1 +1,1 @@
-var mnemonic = "example ecology seat carpet amount hazard file loud setup town stadium peanut";
+var mnemonic = "journey slab gospel travel gather consider worth maximum medal festival modify couple";

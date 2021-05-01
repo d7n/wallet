@@ -1,1 +1,1 @@
-var mnemonic = "rapid sustain buddy cheese shiver discover electric assault velvet talent tiger quiz";
+var mnemonic = "sure then across thunder pitch original announce tennis foster inquiry one employ";

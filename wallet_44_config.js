@@ -1,1 +1,1 @@
-var mnemonic = "enemy bus fortune mention grace close train warrior slot invite traffic attack";
+var mnemonic = "inject fence prefer machine oak lamp visa shop install language submit orange";

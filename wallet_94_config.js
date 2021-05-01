@@ -1,1 +1,1 @@
-var mnemonic = "perfect protect lady casual cost seed carpet night gossip echo pony nephew";
+var mnemonic = "deal cement toilet mushroom retreat spin hungry unusual cactus slush joke wisdom";
