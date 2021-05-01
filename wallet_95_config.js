@@ -1,1 +1,1 @@
-var mnemonic = "antenna lion hello chef essay lava churn combine envelope twist inner used";
+var mnemonic = "inch minute clump horn abandon image gauge hair never cause ancient snap";

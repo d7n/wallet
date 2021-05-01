@@ -1,1 +1,1 @@
-var mnemonic = "jar vanish leaf nothing chapter anchor salute market secret pencil impulse coach";
+var mnemonic = "crew fade lawn robust depart virus rifle awkward away tube primary alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "subject barely love loan sleep minor describe scrub obvious casual sausage energy";
+var mnemonic = "planet main blind brisk range toward parent small wealth pottery chef cave";

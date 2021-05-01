@@ -1,1 +1,1 @@
-var mnemonic = "mom cloth pride elephant ginger bonus quit culture father plunge velvet range";
+var mnemonic = "struggle old anxiety destroy cheese cry ecology pride core ball fish reward";

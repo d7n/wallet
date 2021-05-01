@@ -1,1 +1,1 @@
-var mnemonic = "tube picture reform caution pink fever exile edit liberty decline verify infant";
+var mnemonic = "pony salad tag fold lab range cruel rocket marriage museum eye gap";

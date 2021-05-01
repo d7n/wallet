@@ -1,1 +1,1 @@
-var mnemonic = "left also awkward purpose pulse empty flock history there donkey employ key";
+var mnemonic = "fish canal surge enroll sponsor park pave blind humor moral jazz innocent";

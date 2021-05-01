@@ -1,1 +1,1 @@
-var mnemonic = "type become piece lunar oblige soldier casual address black pony animal window";
+var mnemonic = "duck leader speed vital wheel primary swim scrap latin stand badge setup";

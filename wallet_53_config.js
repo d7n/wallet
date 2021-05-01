@@ -1,1 +1,1 @@
-var mnemonic = "monkey pool leader soul under tribe chapter scatter crime tone earn enhance";
+var mnemonic = "endless autumn say process regular harvest mosquito awake shed ordinary skirt find";

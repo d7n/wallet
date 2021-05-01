@@ -1,1 +1,1 @@
-var mnemonic = "manage husband food devote post green section warrior crack rail exhaust mean";
+var mnemonic = "thing material agree warm honey pear split upset exchange emotion census expose";

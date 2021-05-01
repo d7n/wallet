@@ -1,1 +1,1 @@
-var mnemonic = "rude object apology screen sail check erode trip erupt clean broom either";
+var mnemonic = "industry stand damp carpet aerobic insect explain prevent baby amused section tell";

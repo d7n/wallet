@@ -1,1 +1,1 @@
-var mnemonic = "scissors name fluid alarm element carpet chef smart recipe palm mix iron";
+var mnemonic = "ice alter unknown dog author check vicious beyond census globe mercy universe";

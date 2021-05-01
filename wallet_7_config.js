@@ -1,1 +1,1 @@
-var mnemonic = "edit wolf tobacco scrap arrest bottom hawk modify gossip version supreme blast";
+var mnemonic = "rely robust put already ocean room like cage inflict office gravity relief";

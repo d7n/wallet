@@ -1,1 +1,1 @@
-var mnemonic = "fatal august life two evoke safe sketch sign ski garlic peace vote";
+var mnemonic = "cry grant drop spread sock switch live topic dwarf sad favorite walk";

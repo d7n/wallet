@@ -1,1 +1,1 @@
-var mnemonic = "mention toddler solution ticket palm art end soul promote weather easy tongue";
+var mnemonic = "tongue cheese slight accuse know spring entry open cargo quick minimum fury";

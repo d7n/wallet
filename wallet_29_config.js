@@ -1,1 +1,1 @@
-var mnemonic = "relief tone hobby dutch year key mistake kitchen trick august senior initial";
+var mnemonic = "present elevator glide useless leader item until panther inflict verify term tape";

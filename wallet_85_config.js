@@ -1,1 +1,1 @@
-var mnemonic = "steak mask cricket guitar smoke decorate situate stage chaos sense resist leg";
+var mnemonic = "public motion head canoe still marine taste rule alien ladder melt oval";

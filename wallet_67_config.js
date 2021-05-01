@@ -1,1 +1,1 @@
-var mnemonic = "flee basic upset tennis dash clever initial order blast salad fringe bleak";
+var mnemonic = "journey test brick slush sausage collect assume since hazard water vapor fruit";

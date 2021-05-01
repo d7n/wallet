@@ -1,1 +1,1 @@
-var mnemonic = "debate parent robot picture enjoy spot sun artist adult athlete legend connect";
+var mnemonic = "educate useful wasp asthma hospital state stock round deal sweet beach mask";

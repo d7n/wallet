@@ -1,1 +1,1 @@
-var mnemonic = "gospel eight slab transfer wrong pass mixture sea helmet coast lumber cousin";
+var mnemonic = "fence until loud apology client young wet crumble rural census swim cupboard";

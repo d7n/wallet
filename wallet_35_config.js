@@ -1,1 +1,1 @@
-var mnemonic = "busy winner smile clap super access miracle elephant token chronic bar census";
+var mnemonic = "quarter parrot bacon sing better kitten board mass vacant sunny slow year";

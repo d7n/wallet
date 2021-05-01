@@ -1,1 +1,1 @@
-var mnemonic = "renew proof mask sunset silver open chicken snake horse rifle inform gold";
+var mnemonic = "about car gown enhance lend immune improve salmon child mystery melt cross";

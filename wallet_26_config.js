@@ -1,1 +1,1 @@
-var mnemonic = "bone involve silent answer forest rabbit bag hour subway fish visual guess";
+var mnemonic = "stool network window lunar half artist laugh soul receive rule pizza trust";

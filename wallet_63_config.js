@@ -1,1 +1,1 @@
-var mnemonic = "ecology demand stable ghost excite donor rocket draw faith uphold gossip armed";
+var mnemonic = "direct daring matrix jaguar broom early essence river avocado exercise shed limb";

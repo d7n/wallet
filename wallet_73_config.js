@@ -1,1 +1,1 @@
-var mnemonic = "same balance theory husband unknown check shove check baby flash ship breeze";
+var mnemonic = "wave easily spawn fly force swim fashion shed frog girl silk hockey";

@@ -1,1 +1,1 @@
-var mnemonic = "must clump network novel faith travel brain skill define issue illness warrior";
+var mnemonic = "typical cash hill anxiety soldier oval satisfy panther drop entire brother amazing";

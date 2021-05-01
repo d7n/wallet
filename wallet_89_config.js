@@ -1,1 +1,1 @@
-var mnemonic = "pulp abstract radio diary grant degree throw require layer gospel slot vicious";
+var mnemonic = "dog animal bitter evolve damp mixture burden cactus chronic soldier grid only";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt heavy pitch fury stamp aim alpha royal welcome find orphan oppose";
+var mnemonic = "east token boat health vibrant enhance inherit pill vast cave canal shield";

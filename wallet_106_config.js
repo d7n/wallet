@@ -1,1 +1,1 @@
-var mnemonic = "ghost clean mistake car frown know zoo enjoy harsh recipe addict simple";
+var mnemonic = "job pave candy local mom bicycle will agent donor source excite ensure";

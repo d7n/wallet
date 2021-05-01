@@ -1,1 +1,1 @@
-var mnemonic = "vault illness shuffle super best captain syrup argue exclude deposit demand banner";
+var mnemonic = "alert hard aware general burden polar debris family scrap pistol special piano";

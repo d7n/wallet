@@ -1,1 +1,1 @@
-var mnemonic = "risk real ecology sample library theme secret together lumber unit exotic rude";
+var mnemonic = "pulse sustain depart obvious wire subway can night panda latin proof sunset";

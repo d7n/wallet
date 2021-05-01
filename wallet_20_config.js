@@ -1,1 +1,1 @@
-var mnemonic = "enter unaware fresh omit climb sheriff armed gesture advance cinnamon step prefer";
+var mnemonic = "van hover desk option burst infant story dynamic crop liquid enjoy alien";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder punch twist pudding control clarify host inspire alpha outside merit latin";
+var mnemonic = "rigid umbrella title banana key moment interest mountain future area marriage harvest";

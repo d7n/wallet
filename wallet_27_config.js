@@ -1,1 +1,1 @@
-var mnemonic = "visit recipe orchard neither bid outer antique conduct bachelor able settle unfold";
+var mnemonic = "concert scissors owner nuclear robust cement relax motion voyage gun sunny require";

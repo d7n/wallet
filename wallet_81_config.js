@@ -1,1 +1,1 @@
-var mnemonic = "gain behave leg spirit civil kiwi small purse craft open sphere bright";
+var mnemonic = "wrist aspect copy grunt media cash print craft hello afford excuse ahead";

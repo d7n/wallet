@@ -1,1 +1,1 @@
-var mnemonic = "uniform useful shrimp trick cloud unusual solar enlist grunt squirrel sweet glue";
+var mnemonic = "victory annual region flush police royal crowd forest trash screen party welcome";

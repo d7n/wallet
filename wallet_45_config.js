@@ -1,1 +1,1 @@
-var mnemonic = "false clip cry plunge basket pluck cruel habit diary room humor asthma";
+var mnemonic = "rule biology roof outdoor segment fatigue sadness cliff kitchen deposit fire motor";

@@ -1,1 +1,1 @@
-var mnemonic = "wreck erode black pelican core warrior flush spawn upset receive vast amazing";
+var mnemonic = "smart oppose enable beyond ostrich exotic indoor face attack permit assist gaze";

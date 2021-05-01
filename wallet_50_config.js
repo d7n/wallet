@@ -1,1 +1,1 @@
-var mnemonic = "because giraffe random arena junior reopen rifle annual rabbit excuse morning owner";
+var mnemonic = "fuel large flip security chief enlist omit cinnamon now cook system wait";

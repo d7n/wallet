@@ -1,1 +1,1 @@
-var mnemonic = "else glide ostrich funny primary region renew glow bone cry fossil above";
+var mnemonic = "spin mystery toast always moral bulb describe nature roast stumble tired afford";

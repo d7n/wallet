@@ -1,1 +1,1 @@
-var mnemonic = "you about bronze risk stairs soup final relax icon grid garlic unique";
+var mnemonic = "warm issue autumn clutch need castle useless already trim have license type";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust trigger olive pizza false wasp narrow cook dutch all usual wonder";
+var mnemonic = "boy capable jaguar heavy brass bubble weapon divide siren leg shaft giraffe";

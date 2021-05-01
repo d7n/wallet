@@ -1,1 +1,1 @@
-var mnemonic = "uphold solid brand trigger east churn question lady dose noise napkin artwork";
+var mnemonic = "once cloud wasp link welcome problem oval grunt rent swallow ignore trim";

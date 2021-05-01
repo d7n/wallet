@@ -1,1 +1,1 @@
-var mnemonic = "near extra alarm honey under umbrella course equip hurt bulb child stone";
+var mnemonic = "object match squeeze eagle wine keen leave piece aim sea outdoor across";

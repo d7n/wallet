@@ -1,1 +1,1 @@
-var mnemonic = "custom world ensure tell kid mansion usage voice check brick humble check";
+var mnemonic = "work volume later divorce unaware pattern twenty zoo head potato subject sausage";

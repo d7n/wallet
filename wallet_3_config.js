@@ -1,1 +1,1 @@
-var mnemonic = "crane father hundred small inject fix giggle abuse transfer blur story rack";
+var mnemonic = "crouch render pluck surge earn slot rhythm benefit bundle wealth valley spin";

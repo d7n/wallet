@@ -1,1 +1,1 @@
-var mnemonic = "fat vapor object wave keep visit couch ribbon cage you old other";
+var mnemonic = "anxiety spider security push holiday depart picnic bag special october obscure firm";

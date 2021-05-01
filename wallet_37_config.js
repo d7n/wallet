@@ -1,1 +1,1 @@
-var mnemonic = "obey giraffe friend marine hen next social hill story warfare adult pony";
+var mnemonic = "unique clap tool lens october glad update broccoli unfold produce behind arrange";

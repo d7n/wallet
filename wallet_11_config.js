@@ -1,1 +1,1 @@
-var mnemonic = "stamp bridge logic attend rib catalog seat omit mammal solution carbon notice";
+var mnemonic = "fluid physical run spring giggle glue area hero small candy ozone range";

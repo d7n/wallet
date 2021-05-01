@@ -1,1 +1,1 @@
-var mnemonic = "hill great gym vital asthma pride impact husband outside belt offer lawsuit";
+var mnemonic = "eye boost dutch lumber dust sudden hedgehog fetch lucky health motor lawsuit";

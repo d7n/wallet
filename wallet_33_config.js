@@ -1,1 +1,1 @@
-var mnemonic = "draw pear wheat science frame dog monitor enroll frog sad wedding list";
+var mnemonic = "door pig two enough economy donor audit please furnace tongue relax wine";

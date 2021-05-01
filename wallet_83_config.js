@@ -1,1 +1,1 @@
-var mnemonic = "orient great gesture genuine rich avoid bamboo kitchen excite spoon enough damage";
+var mnemonic = "gown web sting spin manage piano gorilla truth service barely kite acoustic";

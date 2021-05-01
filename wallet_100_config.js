@@ -1,1 +1,1 @@
-var mnemonic = "scrub valley valve weapon call slight patient laundry absurd rotate tackle alcohol";
+var mnemonic = "update until square doctor situate unveil music outdoor few just lazy blossom";

@@ -1,1 +1,1 @@
-var mnemonic = "cook pass balance service age boy upgrade note antenna deposit mosquito cycle";
+var mnemonic = "caught wheel index age patient script before vendor knee remind grit famous";

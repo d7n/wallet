@@ -1,1 +1,1 @@
-var mnemonic = "picnic lecture suggest embark daughter draft capital dad foot bottom champion imitate";
+var mnemonic = "bright message rug property coffee push expect want avocado stairs quiz unique";

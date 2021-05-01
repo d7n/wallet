@@ -1,1 +1,1 @@
-var mnemonic = "frog rude movie hedgehog trend leg buffalo stuff wave coach nephew symbol";
+var mnemonic = "modify bind mercy wood add visit traffic flock photo urban sorry seat";

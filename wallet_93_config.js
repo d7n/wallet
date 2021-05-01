@@ -1,1 +1,1 @@
-var mnemonic = "move album wheat daughter point stock file edge library once join diamond";
+var mnemonic = "dizzy like original wear mirror popular mandate economy enlist session select dragon";

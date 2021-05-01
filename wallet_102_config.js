@@ -1,1 +1,1 @@
-var mnemonic = "race company index copy border scorpion warfare sad safe snap scorpion plastic";
+var mnemonic = "cool early panic hard add ski moment rebuild oil keen mixed rail";

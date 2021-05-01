@@ -1,1 +1,1 @@
-var mnemonic = "asset shock unlock glove piece year suit stairs worth topic grow emerge";
+var mnemonic = "ask torch beyond night jealous wood donate excess milk mesh save dog";

@@ -1,1 +1,1 @@
-var mnemonic = "blind raccoon dutch same category canyon pluck slim inch lawsuit manual afraid";
+var mnemonic = "blame section lava prepare inmate reopen finger moon auction adult suspect year";

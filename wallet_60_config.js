@@ -1,1 +1,1 @@
-var mnemonic = "middle crouch kangaroo absurd curious age two visit spring evolve desk ride";
+var mnemonic = "razor ankle direct upon struggle hollow scale envelope equip process raven ask";

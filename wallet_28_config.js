@@ -1,1 +1,1 @@
-var mnemonic = "rely code bring tunnel calm creek excite defense potato clever speed private";
+var mnemonic = "gorilla history permit slab taxi clock amazing cherry grid demand remove pause";

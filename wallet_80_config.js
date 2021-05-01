@@ -1,1 +1,1 @@
-var mnemonic = "say bulb session chunk enact return clock struggle loan fitness suggest decline";
+var mnemonic = "lonely fence shaft whip gather harsh grab security split never oak dumb";

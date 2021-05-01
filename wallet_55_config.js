@@ -1,1 +1,1 @@
-var mnemonic = "goat dash genius sauce client trash dad elder erase beach dignity inquiry";
+var mnemonic = "pizza comic cloth gold avoid enhance ticket talk left art fresh leader";

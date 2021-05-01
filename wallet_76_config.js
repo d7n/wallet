@@ -1,1 +1,1 @@
-var mnemonic = "evoke remember reflect hawk focus please vote common youth base flock pudding";
+var mnemonic = "business economy drink peanut wild denial helmet erode mandate wide tray window";

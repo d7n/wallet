@@ -1,1 +1,1 @@
-var mnemonic = "twelve way desert arrest swamp still bright bone beach palm cheese brother";
+var mnemonic = "merry nominee insane traffic ramp benefit speed ability fiction reunion say trim";

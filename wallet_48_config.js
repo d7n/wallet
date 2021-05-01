@@ -1,1 +1,1 @@
-var mnemonic = "worth dragon torch capable youth chest subject silent unhappy cheap random taxi";
+var mnemonic = "embody favorite unusual add quit crane vibrant borrow problem model denial impose";

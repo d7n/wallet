@@ -1,1 +1,1 @@
-var mnemonic = "room access mind prefer soup cake zone goose bring curtain denial clarify";
+var mnemonic = "sign retreat mean vital fault slight zebra frown income slot brain alarm";

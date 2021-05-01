@@ -1,1 +1,1 @@
-var mnemonic = "shed cry hospital buffalo loan boss chest boost sport suit evolve explain";
+var mnemonic = "erosion tool water lyrics tooth emerge change wasp liberty toilet rigid flat";

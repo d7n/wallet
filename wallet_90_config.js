@@ -1,1 +1,1 @@
-var mnemonic = "angry choose century wine into torch dinner lonely all maze laptop hollow";
+var mnemonic = "above machine float warfare pledge bean truly eternal hockey attack theme brass";

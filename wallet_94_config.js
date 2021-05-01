@@ -1,1 +1,1 @@
-var mnemonic = "current list satisfy enjoy human record nice orbit arrive evolve deny pledge";
+var mnemonic = "debate remind patrol quiz cool educate tuna rookie begin scheme worth auto";

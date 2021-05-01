@@ -1,1 +1,1 @@
-var mnemonic = "target spider cheap round extend cup rate cruise silver denial uniform rookie";
+var mnemonic = "pause essence diet enhance isolate toddler cloud ranch forward convince turkey attitude";

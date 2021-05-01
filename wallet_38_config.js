@@ -1,1 +1,1 @@
-var mnemonic = "topic test draft fiber bar abandon similar napkin key sing correct town";
+var mnemonic = "caution chapter someone observe unable trigger gossip talent beyond lyrics riot gorilla";

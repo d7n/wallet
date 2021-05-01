@@ -1,1 +1,1 @@
-var mnemonic = "lift south anchor deliver brisk ankle crumble bless dune problem sentence giraffe";
+var mnemonic = "popular army sad basic bid surprise lake retire miracle battle cloud reward";

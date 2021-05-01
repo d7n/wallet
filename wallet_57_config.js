@@ -1,1 +1,1 @@
-var mnemonic = "humor police flush slot path maximum kiwi anchor link acquire mask practice";
+var mnemonic = "wide tape relax dumb column prefer benefit retire invest fantasy post citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "insane thumb type sell health undo announce stock drastic cute recall skull";
+var mnemonic = "submit ghost brave air machine oyster lazy another paddle account kitchen toast";

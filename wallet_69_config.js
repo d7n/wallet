@@ -1,1 +1,1 @@
-var mnemonic = "woman estate life what volume evoke fluid fun stuff motor foot spare";
+var mnemonic = "nature crane sister nest aunt retire dismiss solution people indoor evidence young";

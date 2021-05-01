@@ -1,1 +1,1 @@
-var mnemonic = "right eager exchange magnet dumb become jeans pelican maze bomb sketch above";
+var mnemonic = "neglect supply color vehicle drum depth crime vacuum lake sleep tragic logic";

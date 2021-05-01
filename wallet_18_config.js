@@ -1,1 +1,1 @@
-var mnemonic = "cereal jungle roast father current scare exile west assault boss kitten pool";
+var mnemonic = "hero boost twin camp gap quick race reunion wrap video bacon urban";

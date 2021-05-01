@@ -1,1 +1,1 @@
-var mnemonic = "wave swear seat ticket help speak wise spin ill hero witness ride";
+var mnemonic = "require inhale hunt owner auction delay display aisle near become false luxury";

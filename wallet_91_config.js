@@ -1,1 +1,1 @@
-var mnemonic = "law inform walnut tattoo arrow belt gas limb dog patrol pluck dice";
+var mnemonic = "airport island spring reject trial hamster helmet excuse shop size climb parrot";

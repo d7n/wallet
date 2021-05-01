@@ -1,1 +1,1 @@
-var mnemonic = "power tag prize snack denial more fetch festival play topple mouse jacket";
+var mnemonic = "account suit noodle rhythm price cart rack various glove glimpse civil shine";

@@ -1,1 +1,1 @@
-var mnemonic = "refuse urban release crush fish shove pigeon exact away click three enrich";
+var mnemonic = "air buyer mean kiss throw color notable clog short inspire gain enough";

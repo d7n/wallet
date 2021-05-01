@@ -1,1 +1,1 @@
-var mnemonic = "summer ill diesel outdoor coil black figure siren water margin pyramid vote";
+var mnemonic = "icon cake foil veteran typical inmate awake sunny aspect tiny pencil unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom gaze virus weapon jelly mother ready lonely crime portion raven elder";
+var mnemonic = "happy venture baby beef diamond loyal large nominee uncle enrich retire logic";

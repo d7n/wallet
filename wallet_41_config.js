@@ -1,1 +1,1 @@
-var mnemonic = "leave mechanic output select brick category tell fluid final lock husband degree";
+var mnemonic = "present crack place debate poem endorse indicate february across cake accident satisfy";

@@ -1,1 +1,1 @@
-var mnemonic = "argue federal run sniff range false renew winner pluck please liberty reflect";
+var mnemonic = "interest great long man scheme session shuffle saddle visual field loyal brave";

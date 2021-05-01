@@ -1,1 +1,1 @@
-var mnemonic = "tennis copy kick size draft furnace cement rug charge board abandon able";
+var mnemonic = "monster prosper seed insect marine hood news toe short steak cabin assist";

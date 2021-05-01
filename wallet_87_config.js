@@ -1,1 +1,1 @@
-var mnemonic = "manage frozen label wife cloud just garden ready wish turn feature topic";
+var mnemonic = "puppy soccer dice canal sadness will case nest struggle can zone grain";

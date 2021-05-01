@@ -1,1 +1,1 @@
-var mnemonic = "celery surround wheel cage crush glory army search pig eternal guitar exist";
+var mnemonic = "aisle trip net hen drip bike athlete ostrich where wait rapid roast";

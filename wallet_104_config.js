@@ -1,1 +1,1 @@
-var mnemonic = "raven recycle motor truth diagram indoor region quote awesome oval joy taste";
+var mnemonic = "profit ecology small rent inhale pig reward limit issue short fury sunset";

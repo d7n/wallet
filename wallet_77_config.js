@@ -1,1 +1,1 @@
-var mnemonic = "accident wrestle earth miracle canyon napkin throw beyond cliff round diagram sail";
+var mnemonic = "place method bag lazy team obvious about acoustic winner spoon assault leisure";

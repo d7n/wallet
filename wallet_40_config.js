@@ -1,1 +1,1 @@
-var mnemonic = "narrow erode fruit hip they loud scissors inflict critic brass palace border";
+var mnemonic = "layer endless melody arm exist perfect notice message remind maze recall polar";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve afford thank when innocent success genius sleep spin blossom forest federal";
+var mnemonic = "life genuine morning empty spare size ski buffalo battle faith input bid";

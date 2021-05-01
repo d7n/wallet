@@ -1,1 +1,1 @@
-var mnemonic = "rebuild stone donate sorry seed surface brisk grass exact property detail oak";
+var mnemonic = "bright universe prosper slender timber element try enforce analyst angle sea own";
