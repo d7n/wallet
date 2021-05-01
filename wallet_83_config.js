@@ -1,1 +1,1 @@
-var mnemonic = "state space curtain team phone example priority agree quiz diet butter found";
+var mnemonic = "pledge hurry entry pepper beyond beach mom sentence nothing jacket metal mandate";

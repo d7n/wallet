@@ -1,1 +1,1 @@
-var mnemonic = "shoulder ladder health stairs slide horn casual chest close fluid before group";
+var mnemonic = "crater army warfare attack satisfy blue alarm lesson net violin insect steak";

@@ -1,1 +1,1 @@
-var mnemonic = "make caught bar cook expand father alert crew ozone guitar boost audit";
+var mnemonic = "refuse envelope coast pact hen focus pass flight dinosaur radar age balance";

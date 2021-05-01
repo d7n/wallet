@@ -1,1 +1,1 @@
-var mnemonic = "scout muffin vicious despair empty recycle knee village pluck kind scrub tattoo";
+var mnemonic = "dial online duty figure chat blood march decorate absent spread slight bus";

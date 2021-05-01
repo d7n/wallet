@@ -1,1 +1,1 @@
-var mnemonic = "inflict follow obey dinner idle shoulder wise polar cement lemon stand palm";
+var mnemonic = "alone series utility nurse easily broccoli fox empower ask century derive pen";

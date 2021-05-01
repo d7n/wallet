@@ -1,1 +1,1 @@
-var mnemonic = "draft stomach require mimic spatial thing equip amazing topic original nation onion";
+var mnemonic = "faint moment captain mass letter there wild strike choice bring keep volume";

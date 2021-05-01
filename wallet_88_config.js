@@ -1,1 +1,1 @@
-var mnemonic = "phrase dwarf stuff announce invite parade jazz toddler oven system earn hat";
+var mnemonic = "enter unveil siege radio wait level icon season cloth cruise any soup";

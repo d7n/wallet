@@ -1,1 +1,1 @@
-var mnemonic = "short giraffe acid romance orphan alien rare throw crowd solid verify gain";
+var mnemonic = "target depart laundry output vehicle social detect chimney cart pitch slot stereo";

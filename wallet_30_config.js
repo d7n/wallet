@@ -1,1 +1,1 @@
-var mnemonic = "utility leave junior glow caution until lumber distance october post absurd bleak";
+var mnemonic = "truth position people canvas embrace black tell sugar buyer sphere coin pole";

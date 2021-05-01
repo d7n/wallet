@@ -1,1 +1,1 @@
-var mnemonic = "drive saddle verb pulp panic diesel alpha hurt pudding wolf caught way";
+var mnemonic = "spin before present custom style magic box proud sister slender puzzle fruit";

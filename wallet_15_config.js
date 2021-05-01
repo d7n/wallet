@@ -1,1 +1,1 @@
-var mnemonic = "emerge spy theme van neither garden push ketchup cheese sibling column pepper";
+var mnemonic = "talent coil involve rely slight acquire glow genius master glove panic question";

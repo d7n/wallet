@@ -1,1 +1,1 @@
-var mnemonic = "interest diet ankle kid ketchup blush divide island message scorpion stick adapt";
+var mnemonic = "enemy dash noise key club wife police oblige nothing poet cherry range";

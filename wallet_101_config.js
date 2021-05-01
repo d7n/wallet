@@ -1,1 +1,1 @@
-var mnemonic = "journey slab gospel travel gather consider worth maximum medal festival modify couple";
+var mnemonic = "pluck clip rally kite discover comic artefact meat finish snap moment promote";

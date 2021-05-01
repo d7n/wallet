@@ -1,1 +1,1 @@
-var mnemonic = "woman salmon family provide property elbow april artefact common offer spot review";
+var mnemonic = "make immense dust melody install butter cabbage harvest paddle close cost interest";

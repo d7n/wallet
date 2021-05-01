@@ -1,1 +1,1 @@
-var mnemonic = "absurd flush firm hurdle hurdle dance rail govern gaze dash learn lava";
+var mnemonic = "mom review open tooth orbit leisure umbrella clutch flee give truth sponsor";

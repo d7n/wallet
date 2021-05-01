@@ -1,1 +1,1 @@
-var mnemonic = "world fancy peace miss snake boil pause dynamic remove maze dress decrease";
+var mnemonic = "verify diary carpet begin innocent forward cute little cross educate wire hollow";

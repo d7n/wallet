@@ -1,1 +1,1 @@
-var mnemonic = "thing table marriage hip party brave orchard present call soon judge obscure";
+var mnemonic = "behind taxi pupil coast bundle actual barrel city head wet autumn file";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise slight kidney save damp shed spice belt vanish tissue cool excess";
+var mnemonic = "acquire warfare jaguar forward behave lamp bar debate puppy gravity pond slide";

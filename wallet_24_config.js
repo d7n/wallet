@@ -1,1 +1,1 @@
-var mnemonic = "cherry tell alarm ring burger dolphin dog index iron final gas journey";
+var mnemonic = "nuclear impact surprise pipe front ability accuse version bag grace input autumn";

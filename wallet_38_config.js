@@ -1,1 +1,1 @@
-var mnemonic = "issue luggage fall fuel cereal advice utility hint wild material cricket tomorrow";
+var mnemonic = "party swarm wear chef picture question comfort sphere rapid erosion modify view";

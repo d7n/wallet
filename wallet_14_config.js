@@ -1,1 +1,1 @@
-var mnemonic = "ankle grant rescue theory tissue undo fall faith ignore banner steel glare";
+var mnemonic = "foster wheat present carry scene mirror green pottery conduct diagram dignity oblige";

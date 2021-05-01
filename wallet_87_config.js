@@ -1,1 +1,1 @@
-var mnemonic = "foot pilot holiday shift erupt choice kiwi nerve lottery half proof sentence";
+var mnemonic = "vital entry annual diesel know menu parade raise affair unaware sheriff perfect";

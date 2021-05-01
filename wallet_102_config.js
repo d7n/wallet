@@ -1,1 +1,1 @@
-var mnemonic = "purse tape ramp invite gasp rate six height rule solution cereal reward";
+var mnemonic = "truth ghost torch alcohol fossil horse excess explain arm about permit buzz";

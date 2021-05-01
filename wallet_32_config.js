@@ -1,1 +1,1 @@
-var mnemonic = "popular reform siege brain amazing grain disease finger dolphin kangaroo rabbit abandon";
+var mnemonic = "wine drill direct phrase write banner verify truth beauty mom abandon dignity";

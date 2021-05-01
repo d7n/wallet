@@ -1,1 +1,1 @@
-var mnemonic = "ginger quick cabin divert enhance help miss have much liar rigid lunar";
+var mnemonic = "mix prize elevator saddle push liquid camp spoil crystal boat people cool";

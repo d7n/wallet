@@ -1,1 +1,1 @@
-var mnemonic = "ice author course play empty cook fuel improve rent supreme captain change";
+var mnemonic = "puppy catch drop duty mandate harbor library insect chronic other sad dust";

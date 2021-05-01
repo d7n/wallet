@@ -1,1 +1,1 @@
-var mnemonic = "draft siren oppose diet mad help like egg barely damp margin reason";
+var mnemonic = "summer define review neglect cactus fit double pond tumble squeeze wedding romance";

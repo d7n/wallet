@@ -1,1 +1,1 @@
-var mnemonic = "hub business health list pole broom general mirror gain chat link donor";
+var mnemonic = "dolphin license drum crew novel where chuckle long hunt then debris rate";

@@ -1,1 +1,1 @@
-var mnemonic = "pluck puppy daring defy hollow zone bleak citizen text fluid seminar symbol";
+var mnemonic = "orchard gorilla struggle blossom bronze garage uncle merry hawk jump rally title";

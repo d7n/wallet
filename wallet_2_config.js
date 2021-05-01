@@ -1,1 +1,1 @@
-var mnemonic = "express tackle dizzy rib result deer hundred armed turtle fancy skirt duty";
+var mnemonic = "ridge disease warrior permit time limit manage eternal system describe address couple";

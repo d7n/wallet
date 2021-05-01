@@ -1,1 +1,1 @@
-var mnemonic = "base this bacon mix wood glad biology vital cabbage vote luxury under";
+var mnemonic = "clock battle burger tortoise swamp machine small clutch outer language book unique";

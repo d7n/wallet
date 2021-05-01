@@ -1,1 +1,1 @@
-var mnemonic = "utility slim powder undo enrich evolve safe chapter dentist rhythm file subject";
+var mnemonic = "skull harbor lumber index foam obtain perfect soup length observe sunny analyst";

@@ -1,1 +1,1 @@
-var mnemonic = "word alley bamboo age enter sign kangaroo fat announce cash repair spare";
+var mnemonic = "cool rescue firm supply name cheap right sad pencil tortoise disease have";

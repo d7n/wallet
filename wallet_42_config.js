@@ -1,1 +1,1 @@
-var mnemonic = "summer finger funny raccoon yard purchase sister marble hammer accident axis garden";
+var mnemonic = "ethics cash limb priority wage drill define novel plastic fan correct final";

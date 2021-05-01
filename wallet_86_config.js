@@ -1,1 +1,1 @@
-var mnemonic = "enemy vendor minor denial cause era stable dwarf drift tomorrow century verify";
+var mnemonic = "arm palm mixture sudden dose banner income coin puzzle feature nose table";

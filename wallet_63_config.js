@@ -1,1 +1,1 @@
-var mnemonic = "pudding admit imitate bamboo fitness hidden mean flower fence curve report matter";
+var mnemonic = "toddler doll chuckle tornado cruise armor scare subject rose truck satisfy mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "where elite pulp exchange baby promote clock crunch then just expose same";
+var mnemonic = "arena enable wagon rubber ghost trim link fire various bronze retire govern";

@@ -1,1 +1,1 @@
-var mnemonic = "onion alter nephew fitness fade turtle assist wing effort wreck horror hope";
+var mnemonic = "goddess little pet shock rival mercy such cloth weather similar maze pulp";

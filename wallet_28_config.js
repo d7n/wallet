@@ -1,1 +1,1 @@
-var mnemonic = "bone length desk phone box simple void absent clarify top mesh silly";
+var mnemonic = "correct lunch bamboo talent title biology invest aisle atom cook daughter trick";

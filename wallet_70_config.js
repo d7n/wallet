@@ -1,1 +1,1 @@
-var mnemonic = "talent payment social spray unknown merry initial exercise basic shy admit pen";
+var mnemonic = "useless mango fashion twelve eye figure found hurdle ticket diagram inhale uncover";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid fall lab tilt hub truck coffee chef lady usage anxiety stairs";
+var mnemonic = "blouse nose cancel approve seven pen release mother endless element cook escape";

@@ -1,1 +1,1 @@
-var mnemonic = "faith oppose magic catch fringe impose access truly pelican appear anger sport";
+var mnemonic = "strong gloom now limit leg second real slight permit nurse finger grape";

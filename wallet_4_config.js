@@ -1,1 +1,1 @@
-var mnemonic = "survey apart unfold yellow dove razor chunk amateur crew number cargo kiss";
+var mnemonic = "love mutual awful half insect source sound fatal annual ugly color dismiss";

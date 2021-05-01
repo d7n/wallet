@@ -1,1 +1,1 @@
-var mnemonic = "boat file flip into nurse ordinary charge share already mammal sense join";
+var mnemonic = "parrot twist hotel mystery grain topple trigger buyer best chimney weather across";

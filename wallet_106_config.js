@@ -1,1 +1,1 @@
-var mnemonic = "update dish point mixed rice lamp acid rain thank traffic member swap";
+var mnemonic = "much ignore blue subject fire senior daughter snake limit cigar already bottom";

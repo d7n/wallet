@@ -1,1 +1,1 @@
-var mnemonic = "fly prosper nuclear deputy vibrant amazing require raccoon fatal keep gun sound";
+var mnemonic = "clock curious shoe lion neck topple mutual town gasp goddess divorce chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "deal cement toilet mushroom retreat spin hungry unusual cactus slush joke wisdom";
+var mnemonic = "cloud orange bargain refuse net girl clap sorry spoon plastic route crazy";

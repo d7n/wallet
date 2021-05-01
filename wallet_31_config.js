@@ -1,1 +1,1 @@
-var mnemonic = "square spoon color result owner kiwi trap gym joke tattoo old term";
+var mnemonic = "ten wet crystal seat hedgehog clinic mind use employ monster size aim";

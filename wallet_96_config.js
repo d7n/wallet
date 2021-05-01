@@ -1,1 +1,1 @@
-var mnemonic = "price peace artefact chase key embark picture throw coffee cigar glue wedding";
+var mnemonic = "indoor hundred insane favorite inspire decrease flame cloth gate young dwarf impact";

@@ -1,1 +1,1 @@
-var mnemonic = "exclude text hip luggage favorite oppose guide tragic wealth tooth fence crystal";
+var mnemonic = "simple divide begin gown tackle cousin width switch enforce alter man sense";

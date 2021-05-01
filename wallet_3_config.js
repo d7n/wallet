@@ -1,1 +1,1 @@
-var mnemonic = "language legal direct impulse tornado vendor vacuum curious install lonely corn knock";
+var mnemonic = "wheat box open foster series champion switch similar load round neck mix";

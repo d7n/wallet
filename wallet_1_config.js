@@ -1,1 +1,1 @@
-var mnemonic = "circle edit trade jelly quiz slow target knife derive caught seven course";
+var mnemonic = "else satisfy grow stumble flock nation cup vibrant chef vehicle theory body";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma mushroom edit saddle use gather design glow orphan trip upon lamp";
+var mnemonic = "spider space rough minor brief denial enable either essence wrong exhaust unaware";

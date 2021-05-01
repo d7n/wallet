@@ -1,1 +1,1 @@
-var mnemonic = "roast hard like want find flower ethics ghost flame keep vanish crystal";
+var mnemonic = "quarter alien salon surround maximum flee unveil source gauge say choose witness";

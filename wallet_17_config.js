@@ -1,1 +1,1 @@
-var mnemonic = "flag jazz toss best topic milk planet arctic glove combine oil front";
+var mnemonic = "secret turkey source trim horror tooth jazz trend defy they copy mule";

@@ -1,1 +1,1 @@
-var mnemonic = "argue box squirrel ring animal cup seek record purpose fame remember endless";
+var mnemonic = "syrup stairs noise input increase sorry keen true festival garden head wrap";

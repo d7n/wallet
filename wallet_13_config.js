@@ -1,1 +1,1 @@
-var mnemonic = "pupil lunch motor profit tiny piece horn coast announce ozone remember right";
+var mnemonic = "rate deny pink gap obscure gorilla fold omit chronic fever trigger potato";

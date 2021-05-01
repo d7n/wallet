@@ -1,1 +1,1 @@
-var mnemonic = "sword summer drop popular debris chase potato divorce moral acquire hope close";
+var mnemonic = "unaware miss green kind ahead anger educate average impose approve chunk twelve";

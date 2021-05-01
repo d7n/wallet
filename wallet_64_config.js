@@ -1,1 +1,1 @@
-var mnemonic = "faint dwarf usage cluster stone expect hollow paper cliff ten bubble like";
+var mnemonic = "primary glimpse series nut again cactus dress outer trust pill work marriage";

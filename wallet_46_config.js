@@ -1,1 +1,1 @@
-var mnemonic = "connect mansion cinnamon fly symptom famous owner cost strategy ramp whisper glory";
+var mnemonic = "client cabbage lab possible vanish maple electric idea armed saddle cherry priority";

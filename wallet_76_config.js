@@ -1,1 +1,1 @@
-var mnemonic = "purpose parent call crumble bean thing orbit issue party fetch faith fade";
+var mnemonic = "gadget around still crystal person rude awake kidney original already box split";

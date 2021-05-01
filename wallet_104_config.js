@@ -1,1 +1,1 @@
-var mnemonic = "birth resist laptop physical curve other dream shell hurry interest hurdle curtain";
+var mnemonic = "ketchup alone drive utility bulb aware one usage web payment raw border";

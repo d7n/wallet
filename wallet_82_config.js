@@ -1,1 +1,1 @@
-var mnemonic = "grocery fancy birth vacuum street still educate convince soda awake safe stool";
+var mnemonic = "clean air twelve napkin sword retreat spirit unknown eager easy sponsor decade";

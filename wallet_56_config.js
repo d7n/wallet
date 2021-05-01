@@ -1,1 +1,1 @@
-var mnemonic = "equip eye cake lottery angry fall state able only wave mouse virus";
+var mnemonic = "interest axis flight chalk combine hospital bachelor type there practice light lyrics";

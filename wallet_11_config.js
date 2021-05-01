@@ -1,1 +1,1 @@
-var mnemonic = "cactus guess accuse disease toy invest large demise box mammal dream note";
+var mnemonic = "patch security memory enroll mouse around share hamster multiply multiply price lake";

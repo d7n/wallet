@@ -1,1 +1,1 @@
-var mnemonic = "sting ankle doctor inform aunt scrap love ranch peanut afford brave illegal";
+var mnemonic = "truck radar easily decade spread undo around install canoe purse orange glance";

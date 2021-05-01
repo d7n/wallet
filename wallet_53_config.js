@@ -1,1 +1,1 @@
-var mnemonic = "sweet aim couch margin aerobic lucky analyst cart limit side lab practice";
+var mnemonic = "flush common adult liquid ride hero process flight person cannon industry wrestle";

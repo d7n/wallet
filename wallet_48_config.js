@@ -1,1 +1,1 @@
-var mnemonic = "dawn able salmon jump fish analyst online grain tired coast caught manual";
+var mnemonic = "spot speed absurd noise radar soda stool know connect number shrug sorry";

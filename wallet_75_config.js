@@ -1,1 +1,1 @@
-var mnemonic = "wedding result steak recycle speak cement pretty jump remind annual owner violin";
+var mnemonic = "roast job thumb fossil bitter initial orbit into pave drip mind plug";

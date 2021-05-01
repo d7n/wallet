@@ -1,1 +1,1 @@
-var mnemonic = "material hire fiscal body exchange asthma visual page wagon ostrich vibrant vast";
+var mnemonic = "task safe vacant angle soup firm quit lawn crowd discover love thrive";

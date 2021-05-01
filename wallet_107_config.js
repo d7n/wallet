@@ -1,1 +1,1 @@
-var mnemonic = "hospital useful display deposit acoustic federal memory place cat display lend cattle";
+var mnemonic = "person spell quarter destroy police immense wheat develop frequent wrist damp where";

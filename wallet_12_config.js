@@ -1,1 +1,1 @@
-var mnemonic = "faith tide share inner ramp search organ detect spy sponsor arm term";
+var mnemonic = "senior pistol direct brush lounge hybrid famous symptom olive future orphan trim";

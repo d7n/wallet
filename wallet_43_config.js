@@ -1,1 +1,1 @@
-var mnemonic = "tunnel version bleak flag certain awake state pet amazing member accident guide";
+var mnemonic = "dirt peace neck estate tenant napkin aunt erupt fluid draw issue move";

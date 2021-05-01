@@ -1,1 +1,1 @@
-var mnemonic = "moral bid good champion mushroom switch later include expose ladder review during";
+var mnemonic = "silk swing steak veteran catch shell uncover soldier place hunt column river";

@@ -1,1 +1,1 @@
-var mnemonic = "cause soap trade shadow diet nasty tuition fire amused inquiry what bargain";
+var mnemonic = "topple century distance maze census stick mirror fiber frost bone behave leopard";

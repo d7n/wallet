@@ -1,1 +1,1 @@
-var mnemonic = "vague nest broccoli patient female lake model endless asset three pudding indicate";
+var mnemonic = "fiber present dismiss aunt alley give digital among mail private borrow tribe";

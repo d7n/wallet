@@ -1,1 +1,1 @@
-var mnemonic = "ivory happy price bomb around chuckle now zebra blast cherry purse polar";
+var mnemonic = "detect gloom fault menu foot you vacant year amount pudding gold fat";

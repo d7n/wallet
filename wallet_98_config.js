@@ -1,1 +1,1 @@
-var mnemonic = "position hold exit invite copper tower excuse kiss nut pottery this must";
+var mnemonic = "attitude merit curious river start asthma stage device only pear mixture load";

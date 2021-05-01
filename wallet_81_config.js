@@ -1,1 +1,1 @@
-var mnemonic = "student wage theory play champion want expire cook cook dawn okay cloth";
+var mnemonic = "mixture inform ball mask nation breeze draft view flame mother multiply ability";

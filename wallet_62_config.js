@@ -1,1 +1,1 @@
-var mnemonic = "layer runway hedgehog match ginger allow jealous canyon slender margin brown post";
+var mnemonic = "west void aunt small million weasel jealous divert deny vocal catch extend";

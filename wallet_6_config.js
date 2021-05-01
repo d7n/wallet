@@ -1,1 +1,1 @@
-var mnemonic = "pipe flower cherry win coyote vacant act liberty denial club treat south";
+var mnemonic = "social pulse prison hole stock this deputy sorry amazing gloom fresh sheriff";

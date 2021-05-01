@@ -1,1 +1,1 @@
-var mnemonic = "pyramid asset one recipe witness nominee smoke eight kiwi attitude copy stone";
+var mnemonic = "car make laptop autumn smart second web spring idle seed embark tissue";

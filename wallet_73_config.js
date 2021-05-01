@@ -1,1 +1,1 @@
-var mnemonic = "senior brave topple shallow orange circle ghost sugar fetch rural march betray";
+var mnemonic = "exit cake valid cat leopard maximum vivid ladder approve tobacco problem meadow";

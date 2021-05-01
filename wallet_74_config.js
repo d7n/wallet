@@ -1,1 +1,1 @@
-var mnemonic = "renew cancel razor avoid twelve sauce review label waste flush rude cause";
+var mnemonic = "adjust radar cream round demand twelve sight acquire client foster silent body";

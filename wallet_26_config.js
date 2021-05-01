@@ -1,1 +1,1 @@
-var mnemonic = "easily warfare staff sugar feature large tape luxury cousin manage ask retire";
+var mnemonic = "cook ramp business wink vanish cargo maximum fine south brother salt gorilla";

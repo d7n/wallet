@@ -1,1 +1,1 @@
-var mnemonic = "brain fatigue absorb crouch club escape lunch fever basic divide bring egg";
+var mnemonic = "verify autumn orchard brain crunch blind art anxiety tail common fringe magnet";

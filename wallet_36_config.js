@@ -1,1 +1,1 @@
-var mnemonic = "crime remain vacant crunch tank tiny notable enemy general buyer mixture pig";
+var mnemonic = "another bomb drop differ charge bring buddy sphere poem element oil target";
