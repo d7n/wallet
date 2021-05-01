@@ -1,1 +1,1 @@
-var mnemonic = "strong gloom now limit leg second real slight permit nurse finger grape";
+var mnemonic = "inherit envelope junk push calm skin month year find jar second jeans";

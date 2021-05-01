@@ -1,1 +1,1 @@
-var mnemonic = "social pulse prison hole stock this deputy sorry amazing gloom fresh sheriff";
+var mnemonic = "horse insane praise oppose oblige degree success priority clever foot fitness patient";

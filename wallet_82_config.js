@@ -1,1 +1,1 @@
-var mnemonic = "clean air twelve napkin sword retreat spirit unknown eager easy sponsor decade";
+var mnemonic = "initial rude intact barely north stock blue cup blanket choice there impulse";

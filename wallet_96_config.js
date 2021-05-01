@@ -1,1 +1,1 @@
-var mnemonic = "indoor hundred insane favorite inspire decrease flame cloth gate young dwarf impact";
+var mnemonic = "tent injury island shallow aspect deliver bulb blind chat monitor fiction shaft";

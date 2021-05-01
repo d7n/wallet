@@ -1,1 +1,1 @@
-var mnemonic = "behind taxi pupil coast bundle actual barrel city head wet autumn file";
+var mnemonic = "tissue street invite leader pull cat repeat learn sail purpose wisdom benefit";

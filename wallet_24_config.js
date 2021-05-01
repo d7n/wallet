@@ -1,1 +1,1 @@
-var mnemonic = "nuclear impact surprise pipe front ability accuse version bag grace input autumn";
+var mnemonic = "boat coach mouse fatal bubble cash cook camp baby brave beef acid";

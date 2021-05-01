@@ -1,1 +1,1 @@
-var mnemonic = "crater army warfare attack satisfy blue alarm lesson net violin insect steak";
+var mnemonic = "ready muscle toast enforce radio steel kitchen chimney place coach hazard ceiling";

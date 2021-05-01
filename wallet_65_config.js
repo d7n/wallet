@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow fall cruise slim wife wine team body law jaguar canoe apple";
+var mnemonic = "eternal permit slender vacant pen media swarm bright step solve true grass";

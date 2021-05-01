@@ -1,1 +1,1 @@
-var mnemonic = "wheat box open foster series champion switch similar load round neck mix";
+var mnemonic = "siren circle advance seminar giraffe quality mosquito moment father logic proud stable";

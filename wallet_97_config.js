@@ -1,1 +1,1 @@
-var mnemonic = "parrot twist hotel mystery grain topple trigger buyer best chimney weather across";
+var mnemonic = "winner gorilla alarm link uphold silk tuition broom coach foster expire disorder";

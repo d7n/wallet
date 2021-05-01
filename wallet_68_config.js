@@ -1,1 +1,1 @@
-var mnemonic = "dolphin license drum crew novel where chuckle long hunt then debris rate";
+var mnemonic = "balcony silly edit dwarf film code west nose drum mom month metal";

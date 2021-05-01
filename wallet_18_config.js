@@ -1,1 +1,1 @@
-var mnemonic = "refuse envelope coast pact hen focus pass flight dinosaur radar age balance";
+var mnemonic = "focus lonely novel gasp sugar squeeze pave violin direct thrive emerge person";

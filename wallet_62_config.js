@@ -1,1 +1,1 @@
-var mnemonic = "west void aunt small million weasel jealous divert deny vocal catch extend";
+var mnemonic = "rapid endorse load play harbor phrase blanket purchase gravity wild walk shift";

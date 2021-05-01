@@ -1,1 +1,1 @@
-var mnemonic = "quarter alien salon surround maximum flee unveil source gauge say choose witness";
+var mnemonic = "two rib toilet egg garbage glass again manage broom oil bargain critic";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge hurry entry pepper beyond beach mom sentence nothing jacket metal mandate";
+var mnemonic = "envelope oblige session foot save finger fitness little change yellow method unit";

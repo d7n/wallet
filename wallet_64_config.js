@@ -1,1 +1,1 @@
-var mnemonic = "primary glimpse series nut again cactus dress outer trust pill work marriage";
+var mnemonic = "anxiety hidden mind inner struggle glue effort solar road advice verify twist";

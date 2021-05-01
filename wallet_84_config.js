@@ -1,1 +1,1 @@
-var mnemonic = "clock curious shoe lion neck topple mutual town gasp goddess divorce chaos";
+var mnemonic = "tragic similar mail warrior typical ghost ozone shine pink help icon often";

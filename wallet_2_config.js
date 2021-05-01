@@ -1,1 +1,1 @@
-var mnemonic = "ridge disease warrior permit time limit manage eternal system describe address couple";
+var mnemonic = "survey athlete apart caught hazard holiday soldier basket axis kiss horse range";

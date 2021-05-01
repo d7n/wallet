@@ -1,1 +1,1 @@
-var mnemonic = "cloud orange bargain refuse net girl clap sorry spoon plastic route crazy";
+var mnemonic = "twist mechanic swift exchange trim choose game electric chaos modify noise glide";

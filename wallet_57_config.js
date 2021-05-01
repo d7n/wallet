@@ -1,1 +1,1 @@
-var mnemonic = "tiny sock wreck fiction gorilla endless spoil remember dragon symbol march mansion";
+var mnemonic = "whale feed public sell flame muffin energy little silly cheese october weird";

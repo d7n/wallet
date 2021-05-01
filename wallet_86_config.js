@@ -1,1 +1,1 @@
-var mnemonic = "arm palm mixture sudden dose banner income coin puzzle feature nose table";
+var mnemonic = "judge kidney vault outer unfold obscure afraid wedding baby empower gain length";

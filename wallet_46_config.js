@@ -1,1 +1,1 @@
-var mnemonic = "client cabbage lab possible vanish maple electric idea armed saddle cherry priority";
+var mnemonic = "expect mass good expose response lens matter skirt field book other stem";

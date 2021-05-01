@@ -1,1 +1,1 @@
-var mnemonic = "attitude merit curious river start asthma stage device only pear mixture load";
+var mnemonic = "expand sentence flash distance liberty penalty year cliff width carpet oven fatigue";

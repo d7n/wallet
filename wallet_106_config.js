@@ -1,1 +1,1 @@
-var mnemonic = "much ignore blue subject fire senior daughter snake limit cigar already bottom";
+var mnemonic = "view blue moon pattern quick gym response trouble zebra cry social census";

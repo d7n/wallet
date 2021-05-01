@@ -1,1 +1,1 @@
-var mnemonic = "secret turkey source trim horror tooth jazz trend defy they copy mule";
+var mnemonic = "animal scorpion village culture rocket essay denial luggage face august divorce today";

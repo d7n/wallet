@@ -1,1 +1,1 @@
-var mnemonic = "truth position people canvas embrace black tell sugar buyer sphere coin pole";
+var mnemonic = "rug brush wreck position call conduct express exhaust cannon promote throw vocal";

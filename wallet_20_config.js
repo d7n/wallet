@@ -1,1 +1,1 @@
-var mnemonic = "blouse nose cancel approve seven pen release mother endless element cook escape";
+var mnemonic = "layer grain helmet firm abuse open live gospel sing lawn blame often";

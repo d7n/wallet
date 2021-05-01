@@ -1,1 +1,1 @@
-var mnemonic = "senior pistol direct brush lounge hybrid famous symptom olive future orphan trim";
+var mnemonic = "staff middle wisdom force wing stock peasant essence pitch arrow profit thunder";

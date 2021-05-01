@@ -1,1 +1,1 @@
-var mnemonic = "silk swing steak veteran catch shell uncover soldier place hunt column river";
+var mnemonic = "harsh judge fossil fit diesel attract patch news boy market urge tiger";

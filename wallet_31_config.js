@@ -1,1 +1,1 @@
-var mnemonic = "ten wet crystal seat hedgehog clinic mind use employ monster size aim";
+var mnemonic = "stem entry aerobic seek hidden ridge glimpse humor skull moral hold pass";

@@ -1,1 +1,1 @@
-var mnemonic = "oxygen crucial tunnel tackle image average film glue lucky old digital expire";
+var mnemonic = "portion auction bottom topple history blush envelope planet spirit drip mom local";

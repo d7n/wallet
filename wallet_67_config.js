@@ -1,1 +1,1 @@
-var mnemonic = "dial online duty figure chat blood march decorate absent spread slight bus";
+var mnemonic = "example trend execute social side oval weasel three sell account social glow";

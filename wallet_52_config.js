@@ -1,1 +1,1 @@
-var mnemonic = "puppy catch drop duty mandate harbor library insect chronic other sad dust";
+var mnemonic = "wedding tag bunker innocent avocado isolate exact school eagle pull mystery dinner";

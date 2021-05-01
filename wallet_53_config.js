@@ -1,1 +1,1 @@
-var mnemonic = "flush common adult liquid ride hero process flight person cannon industry wrestle";
+var mnemonic = "boil harbor breeze occur believe bacon debate crawl stumble van decorate symptom";

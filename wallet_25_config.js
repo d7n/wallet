@@ -1,1 +1,1 @@
-var mnemonic = "cool rescue firm supply name cheap right sad pencil tortoise disease have";
+var mnemonic = "slogan congress left tooth casino this junk release wire pave trial heavy";

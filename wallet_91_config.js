@@ -1,1 +1,1 @@
-var mnemonic = "shrug crack supply citizen squirrel mad space ill giggle novel enhance follow";
+var mnemonic = "differ jelly problem diary angry convince clerk parade make length orphan goat";

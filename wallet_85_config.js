@@ -1,1 +1,1 @@
-var mnemonic = "mom review open tooth orbit leisure umbrella clutch flee give truth sponsor";
+var mnemonic = "wage ignore cancel south danger harbor meat minor eight swallow engage vicious";

@@ -1,1 +1,1 @@
-var mnemonic = "shy tube confirm arch magnet clay bamboo woman ribbon person crime cry";
+var mnemonic = "grace girl festival river twenty minor tank october below draft modify core";

@@ -1,1 +1,1 @@
-var mnemonic = "patch security memory enroll mouse around share hamster multiply multiply price lake";
+var mnemonic = "ticket whale text army label spin ensure gloom bargain among yellow unveil";

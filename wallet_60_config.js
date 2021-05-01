@@ -1,1 +1,1 @@
-var mnemonic = "acquire warfare jaguar forward behave lamp bar debate puppy gravity pond slide";
+var mnemonic = "female tiny famous dignity fuel advice media banner recycle fitness seed umbrella";

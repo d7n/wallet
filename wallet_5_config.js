@@ -1,1 +1,1 @@
-var mnemonic = "simple divide begin gown tackle cousin width switch enforce alter man sense";
+var mnemonic = "stand visit kiwi beauty real space elegant hundred mule air crumble ability";

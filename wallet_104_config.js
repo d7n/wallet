@@ -1,1 +1,1 @@
-var mnemonic = "ketchup alone drive utility bulb aware one usage web payment raw border";
+var mnemonic = "bless wreck ill cat security faint stem aware base cherry family symbol";

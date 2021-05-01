@@ -1,1 +1,1 @@
-var mnemonic = "ethics cash limb priority wage drill define novel plastic fan correct final";
+var mnemonic = "tuition embrace critic way object frog liberty host river nominee donate pig";

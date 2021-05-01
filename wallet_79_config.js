@@ -1,1 +1,1 @@
-var mnemonic = "fuel marble long wheel water develop soon depend lunar text two lawsuit";
+var mnemonic = "silent anxiety evolve critic peace loyal chapter flash hole sort good shine";

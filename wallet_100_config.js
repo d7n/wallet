@@ -1,1 +1,1 @@
-var mnemonic = "image under because click fiber squirrel country gentle vintage smile process enact";
+var mnemonic = "under ticket wait home draft during price artefact walk buyer broccoli task";

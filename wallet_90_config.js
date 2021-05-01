@@ -1,1 +1,1 @@
-var mnemonic = "verify autumn orchard brain crunch blind art anxiety tail common fringe magnet";
+var mnemonic = "industry scatter inherit access pen zebra number worry seed expand correct dance";

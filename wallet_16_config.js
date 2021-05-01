@@ -1,1 +1,1 @@
-var mnemonic = "orchard gorilla struggle blossom bronze garage uncle merry hawk jump rally title";
+var mnemonic = "decline rocket motor magnet gather stadium island room pact supply height cereal";

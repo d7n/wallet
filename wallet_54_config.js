@@ -1,1 +1,1 @@
-var mnemonic = "topple century distance maze census stick mirror fiber frost bone behave leopard";
+var mnemonic = "concert idle finish they shop denial ritual chuckle wife merit robot audit";

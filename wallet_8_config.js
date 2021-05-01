@@ -1,1 +1,1 @@
-var mnemonic = "chunk maple tissue congress subject tattoo leader guard caution hold above arrange";
+var mnemonic = "secret maid involve entire ticket slot east frown margin dinner neutral shaft";

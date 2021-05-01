@@ -1,1 +1,1 @@
-var mnemonic = "toddler doll chuckle tornado cruise armor scare subject rose truck satisfy mercy";
+var mnemonic = "dismiss donor palace essay umbrella level common pattern build year debris cause";

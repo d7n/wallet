@@ -1,1 +1,1 @@
-var mnemonic = "spider space rough minor brief denial enable either essence wrong exhaust unaware";
+var mnemonic = "shield point behind grief link mixture define any eye embark asset question";

@@ -1,1 +1,1 @@
-var mnemonic = "useless mango fashion twelve eye figure found hurdle ticket diagram inhale uncover";
+var mnemonic = "capable deer dream diagram style margin want chair dinner pig town flee";

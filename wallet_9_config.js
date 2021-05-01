@@ -1,1 +1,1 @@
-var mnemonic = "fiber present dismiss aunt alley give digital among mail private borrow tribe";
+var mnemonic = "work discover prevent catalog child crazy coffee layer curtain primary ethics crush";

@@ -1,1 +1,1 @@
-var mnemonic = "rate deny pink gap obscure gorilla fold omit chronic fever trigger potato";
+var mnemonic = "envelope choice machine chaos ketchup emotion music basket topic verb choice raw";

@@ -1,1 +1,1 @@
-var mnemonic = "mixture inform ball mask nation breeze draft view flame mother multiply ability";
+var mnemonic = "seat mule interest trophy razor silk scene pencil aware protect two ensure";

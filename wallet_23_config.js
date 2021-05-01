@@ -1,1 +1,1 @@
-var mnemonic = "arena enable wagon rubber ghost trim link fire various bronze retire govern";
+var mnemonic = "spread analyst dirt crew elbow flock visual salmon toward stable utility evolve";

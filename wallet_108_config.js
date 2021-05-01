@@ -1,1 +1,1 @@
-var mnemonic = "faint moment captain mass letter there wild strike choice bring keep volume";
+var mnemonic = "update hurt curious onion bag position enable joy denial meat tenant crouch";

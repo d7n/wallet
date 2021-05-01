@@ -1,1 +1,1 @@
-var mnemonic = "summer define review neglect cactus fit double pond tumble squeeze wedding romance";
+var mnemonic = "wave abandon pudding donate giraffe clinic still imitate engage stereo effort day";

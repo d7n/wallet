@@ -1,1 +1,1 @@
-var mnemonic = "truth ghost torch alcohol fossil horse excess explain arm about permit buzz";
+var mnemonic = "praise parrot pave tell power rice engage stem blood run dice fun";

@@ -1,1 +1,1 @@
-var mnemonic = "scene float swim love abuse girl shove ginger toddler sport umbrella crater";
+var mnemonic = "treat voyage metal nut possible various ghost close direct elite quick size";

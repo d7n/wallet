@@ -1,1 +1,1 @@
-var mnemonic = "foster wheat present carry scene mirror green pottery conduct diagram dignity oblige";
+var mnemonic = "tent negative forward doll enforce city clutch document fox dance live mercy";

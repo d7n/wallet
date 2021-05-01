@@ -1,1 +1,1 @@
-var mnemonic = "else satisfy grow stumble flock nation cup vibrant chef vehicle theory body";
+var mnemonic = "weather logic drop keen fix market heart noise keep brass tip torch";

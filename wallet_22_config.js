@@ -1,1 +1,1 @@
-var mnemonic = "syrup stairs noise input increase sorry keen true festival garden head wrap";
+var mnemonic = "excuse glad nest bachelor pet energy believe sponsor vapor salute dismiss napkin";

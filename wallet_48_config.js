@@ -1,1 +1,1 @@
-var mnemonic = "spot speed absurd noise radar soda stool know connect number shrug sorry";
+var mnemonic = "among employ argue argue vital web pole slim sand property fault poem";

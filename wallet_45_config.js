@@ -1,1 +1,1 @@
-var mnemonic = "spin before present custom style magic box proud sister slender puzzle fruit";
+var mnemonic = "salon tiny blush oblige damp piano reduce shove magic joke celery tennis";

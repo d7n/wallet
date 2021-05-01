@@ -1,1 +1,1 @@
-var mnemonic = "firm tag trim suffer shy brother midnight grid cushion benefit plate rapid";
+var mnemonic = "violin rocket remind bar fitness easy forget since man industry exist silk";

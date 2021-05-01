@@ -1,1 +1,1 @@
-var mnemonic = "enter unveil siege radio wait level icon season cloth cruise any soup";
+var mnemonic = "three mountain silk become regular large siren wonder broom negative pilot wedding";

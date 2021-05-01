@@ -1,1 +1,1 @@
-var mnemonic = "tail dragon edge correct zone uniform alley degree post ethics bright juice";
+var mnemonic = "obey million nose cover forum swear large humor cage decorate trigger brother";

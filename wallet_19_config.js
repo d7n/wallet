@@ -1,1 +1,1 @@
-var mnemonic = "target depart laundry output vehicle social detect chimney cart pitch slot stereo";
+var mnemonic = "sorry term skate cabin state tip rug lunch float upgrade comic apology";

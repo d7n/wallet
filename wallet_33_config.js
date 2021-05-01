@@ -1,1 +1,1 @@
-var mnemonic = "day gravity master electric piece kidney want engage catch impact betray collect";
+var mnemonic = "surprise ability cotton race scrub casino story minute knock bonus bean drink";

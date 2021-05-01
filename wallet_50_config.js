@@ -1,1 +1,1 @@
-var mnemonic = "sick network child first now uncover poem wall exclude sport payment wire";
+var mnemonic = "cinnamon undo little green wage north pink advice away dune mask famous";

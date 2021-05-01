@@ -1,1 +1,1 @@
-var mnemonic = "enemy dash noise key club wife police oblige nothing poet cherry range";
+var mnemonic = "spoil judge mule stumble clarify rent goat eager foil scatter ill include";

@@ -1,1 +1,1 @@
-var mnemonic = "okay replace cupboard motion matter suggest motor auto news sketch muscle staff";
+var mnemonic = "walnut hollow celery coral hotel action pretty hundred model cousin wide reform";

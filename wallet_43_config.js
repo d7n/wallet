@@ -1,1 +1,1 @@
-var mnemonic = "dirt peace neck estate tenant napkin aunt erupt fluid draw issue move";
+var mnemonic = "exhaust wool ivory region tissue device funny shove fame client utility wisdom";

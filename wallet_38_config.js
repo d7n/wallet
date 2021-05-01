@@ -1,1 +1,1 @@
-var mnemonic = "party swarm wear chef picture question comfort sphere rapid erosion modify view";
+var mnemonic = "seminar say speak view virus husband mercy marine aim attack tattoo object";

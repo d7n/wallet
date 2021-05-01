@@ -1,1 +1,1 @@
-var mnemonic = "detect gloom fault menu foot you vacant year amount pudding gold fat";
+var mnemonic = "follow dilemma reform mountain park envelope gauge kitten scout dilemma virus boring";

@@ -1,1 +1,1 @@
-var mnemonic = "interest axis flight chalk combine hospital bachelor type there practice light lyrics";
+var mnemonic = "oblige wear note away fault sure salt post faint rifle defense antique";

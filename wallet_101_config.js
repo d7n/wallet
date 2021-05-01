@@ -1,1 +1,1 @@
-var mnemonic = "pluck clip rally kite discover comic artefact meat finish snap moment promote";
+var mnemonic = "crush unfold chair marriage dry side plate science club license party tissue";

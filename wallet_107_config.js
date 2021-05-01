@@ -1,1 +1,1 @@
-var mnemonic = "person spell quarter destroy police immense wheat develop frequent wrist damp where";
+var mnemonic = "pistol click weasel impose what priority parade remember behind devote pluck retire";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess little pet shock rival mercy such cloth weather similar maze pulp";
+var mnemonic = "common dance old hand runway tell chest midnight group simple mail estate";

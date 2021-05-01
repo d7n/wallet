@@ -1,1 +1,1 @@
-var mnemonic = "gadget around still crystal person rude awake kidney original already box split";
+var mnemonic = "federal stumble minute text thought divide atom kid noodle acid hockey fashion";

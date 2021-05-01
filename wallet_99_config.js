@@ -1,1 +1,1 @@
-var mnemonic = "verify diary carpet begin innocent forward cute little cross educate wire hollow";
+var mnemonic = "scene divert piano slush unknown donor oval electric chef corn either broken";

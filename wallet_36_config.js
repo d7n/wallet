@@ -1,1 +1,1 @@
-var mnemonic = "another bomb drop differ charge bring buddy sphere poem element oil target";
+var mnemonic = "cradle cave pull tent size viable funny review auction rather crystal ocean";

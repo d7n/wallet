@@ -1,1 +1,1 @@
-var mnemonic = "task safe vacant angle soup firm quit lawn crowd discover love thrive";
+var mnemonic = "very rate fix swift inhale lizard seven stove focus onion danger choice";

@@ -1,1 +1,1 @@
-var mnemonic = "cook ramp business wink vanish cargo maximum fine south brother salt gorilla";
+var mnemonic = "liquid track liberty frozen park foot sudden february lawn evil link finger";

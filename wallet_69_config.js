@@ -1,1 +1,1 @@
-var mnemonic = "open short water few solar birth taxi draw trial media clump odor";
+var mnemonic = "wrist rocket dynamic faculty aware visual ride another shock embody trap impulse";

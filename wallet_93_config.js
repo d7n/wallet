@@ -1,1 +1,1 @@
-var mnemonic = "gap clutch fence oblige chief aspect dice antenna apart hard maximum bubble";
+var mnemonic = "planet way magic swap table hero boring bounce family stick measure reward";

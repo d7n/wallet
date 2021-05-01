@@ -1,1 +1,1 @@
-var mnemonic = "make immense dust melody install butter cabbage harvest paddle close cost interest";
+var mnemonic = "glide reason gate pause amount program person duck sleep pond warrior charge";

@@ -1,1 +1,1 @@
-var mnemonic = "love mutual awful half insect source sound fatal annual ugly color dismiss";
+var mnemonic = "bind comfort lion speed misery shoe midnight inflict elephant report mixture soldier";

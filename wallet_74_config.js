@@ -1,1 +1,1 @@
-var mnemonic = "adjust radar cream round demand twelve sight acquire client foster silent body";
+var mnemonic = "myth horror glide stone ribbon live panic tribe school lamp gossip dirt";

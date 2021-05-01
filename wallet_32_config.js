@@ -1,1 +1,1 @@
-var mnemonic = "wine drill direct phrase write banner verify truth beauty mom abandon dignity";
+var mnemonic = "satoshi cancel vague mechanic silver razor timber orange still grocery make boost";

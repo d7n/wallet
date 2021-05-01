@@ -1,1 +1,1 @@
-var mnemonic = "exit cake valid cat leopard maximum vivid ladder approve tobacco problem meadow";
+var mnemonic = "interest silent pear cool web pilot stage combine rain aim rate proof";

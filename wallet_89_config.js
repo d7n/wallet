@@ -1,1 +1,1 @@
-var mnemonic = "mammal dress weasel wedding bike diet grace used destroy amateur learn mass";
+var mnemonic = "near still slab choose strike crisp merge conduct reason royal inherit pretty";
