@@ -1,1 +1,1 @@
-var mnemonic = "day labor claw unfair lock velvet awesome noble jealous twice you siren";
+var mnemonic = "brass cart wrestle grocery wrist simple near fish region rate door peasant";

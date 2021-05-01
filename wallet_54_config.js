@@ -1,1 +1,1 @@
-var mnemonic = "coconut parade exist upper world truth fortune endless wave flavor canyon beyond";
+var mnemonic = "pear couch twice snack enact fitness catalog echo among car patrol apart";

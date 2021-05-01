@@ -1,1 +1,1 @@
-var mnemonic = "start rare skill defy client slow bleak kidney ship enemy sand tunnel";
+var mnemonic = "embrace polar garden creek robust peace public style rebuild guilt tiger truth";

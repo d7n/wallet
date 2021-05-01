@@ -1,1 +1,1 @@
-var mnemonic = "armor old cake device spot width away entire night illness mercy seek";
+var mnemonic = "endless nephew you this police remember divorce adjust mystery smart wash spatial";

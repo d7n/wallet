@@ -1,1 +1,1 @@
-var mnemonic = "treat slush tomorrow bulb noble buddy test bamboo hobby gift magnet reflect";
+var mnemonic = "affair spike grape midnight pet inspire box team surprise stem true palace";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy sample bind risk account assist fork hollow what snake today ring";
+var mnemonic = "door athlete odor also mesh donkey shuffle segment aisle tip upset dolphin";

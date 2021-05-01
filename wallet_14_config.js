@@ -1,1 +1,1 @@
-var mnemonic = "amount whale gown pizza glow fatigue orphan brass hawk nice stuff decorate";
+var mnemonic = "height enrich found vibrant awful rhythm demise often when update explain purity";

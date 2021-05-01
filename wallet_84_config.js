@@ -1,1 +1,1 @@
-var mnemonic = "spoil believe garment train outdoor become fancy owner edge regular renew sorry";
+var mnemonic = "want faint cherry rug cash moon tribe fitness apple need address hip";

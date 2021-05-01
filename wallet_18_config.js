@@ -1,1 +1,1 @@
-var mnemonic = "chief social foam fork lobster diary oval battle enough bracket regular now";
+var mnemonic = "mushroom use whisper traffic panther uniform process under immune scare magnet genuine";

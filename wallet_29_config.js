@@ -1,1 +1,1 @@
-var mnemonic = "blur paddle mask joy mixed element van uncover mansion want enhance excess";
+var mnemonic = "spoil glance bone scrap win clip paddle drop favorite parent pottery trash";

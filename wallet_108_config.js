@@ -1,1 +1,1 @@
-var mnemonic = "age grant unveil estate priority egg before fruit sail machine load mango";
+var mnemonic = "crew dawn mountain connect loan convince bus swallow timber shift flame dance";

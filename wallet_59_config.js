@@ -1,1 +1,1 @@
-var mnemonic = "bargain bird host vital tired unique flower fit bunker garage page deputy";
+var mnemonic = "learn talk spot hungry voice brain crowd they orbit tent relax donate";

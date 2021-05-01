@@ -1,1 +1,1 @@
-var mnemonic = "allow faculty demand neutral wine pride fury dial dilemma common middle chronic";
+var mnemonic = "inherit meadow aspect novel galaxy spin wish decorate exit license topple airport";

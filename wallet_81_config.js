@@ -1,1 +1,1 @@
-var mnemonic = "afford same hire unaware desk swallow capable maid special parent alpha start";
+var mnemonic = "edit kitchen shove slot confirm vague sock bind deal neglect response seat";

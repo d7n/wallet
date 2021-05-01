@@ -1,1 +1,1 @@
-var mnemonic = "future luggage forget rule cherry shrimp interest addict priority lunar secret artist";
+var mnemonic = "style faith damp involve fine ghost admit salmon gold flock torch point";

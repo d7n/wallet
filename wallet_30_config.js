@@ -1,1 +1,1 @@
-var mnemonic = "tell stove awkward actress melody fire reject quote fortune useful slogan obvious";
+var mnemonic = "question lizard setup way surprise session mandate tired plastic good fire ribbon";

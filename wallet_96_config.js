@@ -1,1 +1,1 @@
-var mnemonic = "someone rocket version congress dream hunt enter athlete average nation awkward emerge";
+var mnemonic = "chuckle chaos island glimpse cram faculty tower exist venture boring risk rib";

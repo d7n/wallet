@@ -1,1 +1,1 @@
-var mnemonic = "jewel high hope pear program payment potato label elephant afraid style inherit";
+var mnemonic = "auction dawn finish faculty hand grant tuition patrol palace approve dose donate";

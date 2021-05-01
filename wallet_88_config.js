@@ -1,1 +1,1 @@
-var mnemonic = "approve quit regular mango uniform expire easy run safe cattle suggest token";
+var mnemonic = "patient party blood act sure agent result verify lunar skull share bleak";

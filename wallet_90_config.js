@@ -1,1 +1,1 @@
-var mnemonic = "expect loan evil require fury orbit sustain there true dwarf clay eyebrow";
+var mnemonic = "survey simple sword example omit limit note apart empty forget before slim";

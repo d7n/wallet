@@ -1,1 +1,1 @@
-var mnemonic = "nominee find satisfy parent return topple average imitate inform client protect frost";
+var mnemonic = "cactus lawsuit rookie few globe either despair print exhaust tongue intact flat";

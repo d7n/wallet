@@ -1,1 +1,1 @@
-var mnemonic = "ethics dynamic waste elevator position weird congress cat nurse primary response mammal";
+var mnemonic = "river approve junior damage carpet enact potato tuition bag grocery comfort pill";

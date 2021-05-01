@@ -1,1 +1,1 @@
-var mnemonic = "vault evil love relax gap timber assault conduct quiz belt toilet egg";
+var mnemonic = "treat erosion distance coast oak husband gauge margin alley pattern warfare brief";

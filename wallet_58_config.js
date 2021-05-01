@@ -1,1 +1,1 @@
-var mnemonic = "shadow swear robot awesome lunar cannon rough window grunt trap mobile inquiry";
+var mnemonic = "shoot square exclude copy napkin glow river country river film team ball";

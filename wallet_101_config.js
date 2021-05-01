@@ -1,1 +1,1 @@
-var mnemonic = "bullet mystery ugly imitate armed stamp true face romance digital mail inject";
+var mnemonic = "ritual prize stumble horror melt joke palm color pluck brand flat castle";

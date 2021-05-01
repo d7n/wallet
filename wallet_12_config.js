@@ -1,1 +1,1 @@
-var mnemonic = "wood fatigue giraffe glow federal giggle draft derive modify parade fish cute";
+var mnemonic = "prize drama course speak route submit oak soup later hamster come pair";

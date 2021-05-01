@@ -1,1 +1,1 @@
-var mnemonic = "rubber upper atom warrior spawn return leopard since gesture current flavor page";
+var mnemonic = "normal harsh snack session surface sketch juice clip online shoot inquiry reopen";

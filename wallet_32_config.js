@@ -1,1 +1,1 @@
-var mnemonic = "brand hope member disagree dose expect all arctic warrior scorpion dial arch";
+var mnemonic = "during lizard short decrease name scare april west toddler negative ancient pilot";

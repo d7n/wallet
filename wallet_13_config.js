@@ -1,1 +1,1 @@
-var mnemonic = "enter again over clock decorate what load crash addict phone box result";
+var mnemonic = "acoustic next enjoy odor evil thank quick early buddy round peace armed";

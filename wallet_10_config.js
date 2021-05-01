@@ -1,1 +1,1 @@
-var mnemonic = "sample slim play knock welcome pluck donate dose joy taste citizen want";
+var mnemonic = "all clinic dynamic lift modify journey that spare security make series since";

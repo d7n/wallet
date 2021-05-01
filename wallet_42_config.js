@@ -1,1 +1,1 @@
-var mnemonic = "soft dune broccoli neglect token planet cruise cover mouse label armor figure";
+var mnemonic = "emotion chronic crouch pitch leg long snack open canoe access repair mimic";

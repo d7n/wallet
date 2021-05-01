@@ -1,1 +1,1 @@
-var mnemonic = "scan always wonder friend boring dog name book feel option foam distance";
+var mnemonic = "fruit picnic lava easy click copper you riot protect limit denial border";

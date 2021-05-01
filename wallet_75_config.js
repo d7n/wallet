@@ -1,1 +1,1 @@
-var mnemonic = "exhaust scorpion bread please certain income vicious velvet suggest dog parrot gallery";
+var mnemonic = "brush fossil pigeon cave drop knife model flag emotion assume soap symptom";

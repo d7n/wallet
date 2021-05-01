@@ -1,1 +1,1 @@
-var mnemonic = "scale pig strong tired mix scale patient file ecology income bounce absurd";
+var mnemonic = "snake valve indicate sphere various parent grid elephant blame rhythm curve wish";

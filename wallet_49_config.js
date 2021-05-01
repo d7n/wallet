@@ -1,1 +1,1 @@
-var mnemonic = "shy siege novel sing ordinary scatter wisdom fresh elegant protect around bring";
+var mnemonic = "client jazz host rookie mouse coin clump game hope slam shuffle clever";

@@ -1,1 +1,1 @@
-var mnemonic = "village banana lift next armor bracket system lend female timber two amused";
+var mnemonic = "major aware palace identify use ice hen chuckle rigid glory distance bonus";

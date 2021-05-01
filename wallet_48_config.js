@@ -1,1 +1,1 @@
-var mnemonic = "expect relief edit magic cruise spike salt puppy dog scale peanut human";
+var mnemonic = "aim tomorrow payment bird ancient puppy math razor floor museum shrug universe";

@@ -1,1 +1,1 @@
-var mnemonic = "skill chimney dismiss tumble bunker monitor crash drift surface same gospel media";
+var mnemonic = "verb manual seed cushion sausage swarm despair fruit prison history endless airport";

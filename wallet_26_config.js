@@ -1,1 +1,1 @@
-var mnemonic = "jewel add vague moral false quit perfect catch hunt attack trade desk";
+var mnemonic = "oxygen crater pepper become dolphin fancy mesh dance brush regular hard jar";

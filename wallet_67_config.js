@@ -1,1 +1,1 @@
-var mnemonic = "pair two kit snake tongue clerk tonight peasant hollow concert they base";
+var mnemonic = "dial canoe desk envelope decade later upset across legal weapon creek void";

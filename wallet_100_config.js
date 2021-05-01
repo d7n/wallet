@@ -1,1 +1,1 @@
-var mnemonic = "beauty prosper fashion member slot visit trash labor nation surge sail gospel";
+var mnemonic = "rapid harvest violin midnight people bonus impulse fuel deliver dial fat track";

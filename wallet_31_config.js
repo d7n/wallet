@@ -1,1 +1,1 @@
-var mnemonic = "market quality door useless chimney until this brass random duty gauge tray";
+var mnemonic = "embrace when inquiry before fox credit squirrel spawn lesson robust retreat worth";

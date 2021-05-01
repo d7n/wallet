@@ -1,1 +1,1 @@
-var mnemonic = "october horn world robust virus decade fiscal anchor collect feel canoe digital";
+var mnemonic = "trade surround water shy begin slender buddy echo forum total romance margin";

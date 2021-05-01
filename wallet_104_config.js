@@ -1,1 +1,1 @@
-var mnemonic = "opinion gentle polar kitten soccer adjust gown raise economy town project pilot";
+var mnemonic = "timber stumble bonus embark boat expect report promote amateur lawsuit soda frequent";

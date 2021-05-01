@@ -1,1 +1,1 @@
-var mnemonic = "spawn brother scatter horn column salon grant innocent clarify number unfold depend";
+var mnemonic = "differ uphold patient jazz stuff cake crumble captain wood girl reduce scheme";

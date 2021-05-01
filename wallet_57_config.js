@@ -1,1 +1,1 @@
-var mnemonic = "clap trash empower attend leave neutral story similar reject volume eye talk";
+var mnemonic = "beach rude private impact wild garlic garbage ready tortoise during accident bench";

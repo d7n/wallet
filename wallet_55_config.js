@@ -1,1 +1,1 @@
-var mnemonic = "there fault rotate tube oyster hint agent fly famous zero vessel barrel";
+var mnemonic = "end industry round lake light neither evidence ripple fatal sword rice ranch";

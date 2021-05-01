@@ -1,1 +1,1 @@
-var mnemonic = "situate dream million scout mention warrior seven suggest ability bus once traffic";
+var mnemonic = "shoe stay cart actress crater winter rotate topic chase decline aware emerge";

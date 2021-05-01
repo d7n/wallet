@@ -1,1 +1,1 @@
-var mnemonic = "oval same pact ring gesture legal joke float across tomato tent friend";
+var mnemonic = "faculty occur item dentist weather merge throw recycle rescue fantasy video today";

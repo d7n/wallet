@@ -1,1 +1,1 @@
-var mnemonic = "fortune lend clutch alien ready runway goat duty plate enforce lion glimpse";
+var mnemonic = "jump credit toe attitude skin have upper spoon idle expect scheme jaguar";

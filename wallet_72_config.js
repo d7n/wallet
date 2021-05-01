@@ -1,1 +1,1 @@
-var mnemonic = "fitness media banner memory goddess finish office exercise naive earn explain rely";
+var mnemonic = "love pudding aisle social option guide truth echo frown country soap rude";

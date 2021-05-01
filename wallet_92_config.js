@@ -1,1 +1,1 @@
-var mnemonic = "visa satoshi biology dune follow tumble vehicle jump trophy favorite already plunge";
+var mnemonic = "embark section veteran water invest frost case excess liar glare any rent";

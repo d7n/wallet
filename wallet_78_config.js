@@ -1,1 +1,1 @@
-var mnemonic = "canyon priority agree arctic vote tragic magic surface rifle name junk toddler";
+var mnemonic = "used cool team charge naive pepper robot luxury any pencil reopen buffalo";

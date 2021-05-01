@@ -1,1 +1,1 @@
-var mnemonic = "luxury flight diet urge liquid spider witness cabbage unlock mask put leader";
+var mnemonic = "produce theme east reason rib diary kidney horror index pilot cycle ball";

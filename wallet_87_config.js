@@ -1,1 +1,1 @@
-var mnemonic = "earth any fantasy effort remember develop confirm learn talent curve swift spawn";
+var mnemonic = "wet evoke lounge wheel remind scorpion egg jealous fall tooth slow renew";

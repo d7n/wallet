@@ -1,1 +1,1 @@
-var mnemonic = "draw captain void vacuum taxi neglect target various thunder romance subway drive";
+var mnemonic = "payment sauce mistake lake result fluid street hair kitchen trade hole future";

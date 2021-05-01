@@ -1,1 +1,1 @@
-var mnemonic = "option fun boy scatter cute exercise effort unaware sketch prosper spoon arena";
+var mnemonic = "rival demise chuckle ladder analyst margin object sense shell ripple unveil pistol";

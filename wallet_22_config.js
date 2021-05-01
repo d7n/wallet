@@ -1,1 +1,1 @@
-var mnemonic = "forget green melt place salon hen pitch bag short weapon ignore pepper";
+var mnemonic = "recipe stage senior display meadow develop grass case federal tortoise weekend error";

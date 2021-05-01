@@ -1,1 +1,1 @@
-var mnemonic = "rail useless call bread song invest similar kick dismiss oven salute bike";
+var mnemonic = "curious park feel range finish nurse dish visual holiday alpha have coach";

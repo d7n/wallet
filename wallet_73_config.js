@@ -1,1 +1,1 @@
-var mnemonic = "snap pigeon walnut tomato focus before please arrest inspire license struggle electric";
+var mnemonic = "monster multiply flag capital spoil give version crucial tower rough bone mercy";

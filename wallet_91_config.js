@@ -1,1 +1,1 @@
-var mnemonic = "trick rotate chief nose donate live candy doctor sample dwarf slush dose";
+var mnemonic = "unusual twist duty reunion member example phrase sweet hair grunt cover ankle";

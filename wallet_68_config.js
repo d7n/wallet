@@ -1,1 +1,1 @@
-var mnemonic = "bright quit gain lemon mango pole assault modify ice uncle attract glare";
+var mnemonic = "deer letter meat gadget mention alley spend food predict crystal lottery kick";

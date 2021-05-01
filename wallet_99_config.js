@@ -1,1 +1,1 @@
-var mnemonic = "silk group bullet admit toy autumn neither swap december tired typical century";
+var mnemonic = "jeans suspect ride buffalo cash senior topic water mountain vast exit coffee";

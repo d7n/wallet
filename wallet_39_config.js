@@ -1,1 +1,1 @@
-var mnemonic = "wasp phone reveal situate bless business congress cotton educate brief hurt net";
+var mnemonic = "exit please jaguar message update shine idle float seat antenna lucky top";

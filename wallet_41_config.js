@@ -1,1 +1,1 @@
-var mnemonic = "question option address proof void captain until hand expect mom umbrella father";
+var mnemonic = "over fat maximum enough man verb bicycle next curtain solution physical garment";

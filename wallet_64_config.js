@@ -1,1 +1,1 @@
-var mnemonic = "view wasp clap abuse obey left flavor lesson define turn promote project";
+var mnemonic = "chicken chest prize topple crunch elevator drive oyster program bunker hedgehog camp";

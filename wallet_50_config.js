@@ -1,1 +1,1 @@
-var mnemonic = "runway penalty sunset avocado occur mad flag horror narrow parrot hill ship";
+var mnemonic = "axis foam oblige cherry jazz nest rack canal improve daring rebel orange";

@@ -1,1 +1,1 @@
-var mnemonic = "subway fault raccoon lend receive inquiry display radio hint hole lesson lamp";
+var mnemonic = "iron stomach afford lab vicious ball town fancy regular luggage mirror lady";

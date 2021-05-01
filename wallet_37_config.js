@@ -1,1 +1,1 @@
-var mnemonic = "fade sponsor expect stem drift local derive crime soda wrap bread witness";
+var mnemonic = "endless unit electric segment develop auto siren amazing repair embody mass knife";

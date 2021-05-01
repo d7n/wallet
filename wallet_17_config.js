@@ -1,1 +1,1 @@
-var mnemonic = "business forest acoustic source wagon scorpion regular target beef lab valley atom";
+var mnemonic = "track keep receive cross choose enhance shallow saddle parrot save sun view";

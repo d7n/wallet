@@ -1,1 +1,1 @@
-var mnemonic = "waste shove dizzy spider upset kiwi thank strategy narrow planet weird lift";
+var mnemonic = "window around ocean dash travel remain same thumb either crash reason genre";

@@ -1,1 +1,1 @@
-var mnemonic = "embark stomach alien cruise record comic north quote state damage taxi legend";
+var mnemonic = "subway acquire sense beach ability explain kingdom virtual snap drastic possible hobby";

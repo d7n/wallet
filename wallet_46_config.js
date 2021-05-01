@@ -1,1 +1,1 @@
-var mnemonic = "icon fresh skate notice sight cat fan crush simple cliff thank brush";
+var mnemonic = "staff fold spin fan grunt video agree any sister about offer sudden";

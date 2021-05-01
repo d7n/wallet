@@ -1,1 +1,1 @@
-var mnemonic = "rice carpet mention assist comfort stand pulp nuclear swap medal cushion crush";
+var mnemonic = "emerge pen sunset dice edit wild sign ready require survey tennis bridge";

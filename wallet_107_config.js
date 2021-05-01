@@ -1,1 +1,1 @@
-var mnemonic = "fatal text dawn village decorate coyote circle also fragile trim remind piano";
+var mnemonic = "obtain goose insane romance also expire erode topic salute ask couch feed";

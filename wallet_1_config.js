@@ -1,1 +1,1 @@
-var mnemonic = "barrel drop element trophy zone valid awkward game giant thank tumble end";
+var mnemonic = "rent together robust paper purse ocean once elephant opera suit clap trigger";

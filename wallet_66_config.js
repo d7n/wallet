@@ -1,1 +1,1 @@
-var mnemonic = "manage warrior lion table taste snack deliver prepare detect mutual problem dice";
+var mnemonic = "elevator grass plunge castle guilt kick cloth spider sweet act fiber whip";

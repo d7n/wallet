@@ -1,1 +1,1 @@
-var mnemonic = "cable sail account garment note acquire network nerve visit slush north danger";
+var mnemonic = "squeeze just economy sudden kite cancel begin orphan also lemon work stone";

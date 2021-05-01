@@ -1,1 +1,1 @@
-var mnemonic = "exhaust glide orbit accuse clerk habit habit angle blind use flat bargain";
+var mnemonic = "arctic mountain boat domain rally judge endless car ethics pass deposit call";

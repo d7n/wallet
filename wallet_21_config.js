@@ -1,1 +1,1 @@
-var mnemonic = "slender poem country chase enhance job man torch knock cave unhappy security";
+var mnemonic = "correct fancy kiss issue junior erosion warm rude refuse virus annual people";

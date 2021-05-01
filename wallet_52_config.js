@@ -1,1 +1,1 @@
-var mnemonic = "museum include border embark naive sail clip differ hungry income local repair";
+var mnemonic = "bless resemble another wisdom duty large muscle truck denial local multiply avoid";

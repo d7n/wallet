@@ -1,1 +1,1 @@
-var mnemonic = "call fly satoshi utility stumble seven human armor grace sphere foster exotic";
+var mnemonic = "reform invite banner butter half rug skull raise peace trust skull access";

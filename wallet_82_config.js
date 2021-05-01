@@ -1,1 +1,1 @@
-var mnemonic = "steel earn razor absorb flash refuse add rebuild dial expect dash possible";
+var mnemonic = "sniff agent eternal rabbit ankle cabin awful weekend quantum south maple inmate";

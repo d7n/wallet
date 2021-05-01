@@ -1,1 +1,1 @@
-var mnemonic = "quality hungry pact shiver vibrant method donor south cage also virtual orphan";
+var mnemonic = "comic common march asset field fame symptom abandon math whisper ugly inherit";

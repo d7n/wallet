@@ -1,1 +1,1 @@
-var mnemonic = "galaxy poem carpet immense wreck sure under convince cloth brisk riot surface";
+var mnemonic = "august tide identify share caution idle rubber moon say purpose because lyrics";

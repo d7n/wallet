@@ -1,1 +1,1 @@
-var mnemonic = "fox small recycle depart retreat asset pulse year kitten crack pause indoor";
+var mnemonic = "science vote mountain island account moon system reunion match project eye goat";

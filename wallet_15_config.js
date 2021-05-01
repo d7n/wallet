@@ -1,1 +1,1 @@
-var mnemonic = "snap proof drill ability bundle drop anxiety salmon super insane actual anger";
+var mnemonic = "finger first way spell motion olympic garden narrow glove receive caught follow";

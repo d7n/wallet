@@ -1,1 +1,1 @@
-var mnemonic = "sun local three process design large auction fork coyote flight metal fee";
+var mnemonic = "cage gallery swing camera shoulder absorb cake leaf rebuild journey clever door";

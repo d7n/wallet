@@ -1,1 +1,1 @@
-var mnemonic = "shine essay bunker parade matrix garage menu deposit science unlock define bamboo";
+var mnemonic = "lonely autumn sunset still emotion canoe assume walnut wet multiply ensure stadium";

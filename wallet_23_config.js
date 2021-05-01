@@ -1,1 +1,1 @@
-var mnemonic = "half modify lunch east tennis path next carry marble thought index vacuum";
+var mnemonic = "scatter lab once powder upgrade knife party disease solar divorce prefer cake";

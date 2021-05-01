@@ -1,1 +1,1 @@
-var mnemonic = "text document salute awake trip hen snap rabbit key deputy insect cherry";
+var mnemonic = "monitor august embody unlock floor scorpion place middle burst step office salon";

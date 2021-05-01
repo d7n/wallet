@@ -1,1 +1,1 @@
-var mnemonic = "wage mean run ring chief chalk defense joke basket network during behave";
+var mnemonic = "admit gate possible connect corn find similar master update attract ostrich clerk";

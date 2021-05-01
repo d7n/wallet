@@ -1,1 +1,1 @@
-var mnemonic = "amazing tuna expose river ability drastic clown broccoli witness claw orphan reflect";
+var mnemonic = "ball bullet oblige social fashion rely cube fox suggest dice pen tiny";
