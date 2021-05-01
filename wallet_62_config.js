@@ -1,1 +1,1 @@
-var mnemonic = "rapid endorse load play harbor phrase blanket purchase gravity wild walk shift";
+var mnemonic = "verb oyster vivid thunder lady jump sight such have slogan valid replace";

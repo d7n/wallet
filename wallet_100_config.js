@@ -1,1 +1,1 @@
-var mnemonic = "under ticket wait home draft during price artefact walk buyer broccoli task";
+var mnemonic = "outer between grow scout half donkey inch machine timber poet lamp rare";

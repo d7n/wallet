@@ -1,1 +1,1 @@
-var mnemonic = "seminar say speak view virus husband mercy marine aim attack tattoo object";
+var mnemonic = "casino early fog sight boat axis enrich lava mistake awesome lesson foam";

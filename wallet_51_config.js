@@ -1,1 +1,1 @@
-var mnemonic = "wave abandon pudding donate giraffe clinic still imitate engage stereo effort day";
+var mnemonic = "make bring discover slide oppose rack celery annual quote mail vibrant emerge";

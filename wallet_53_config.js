@@ -1,1 +1,1 @@
-var mnemonic = "boil harbor breeze occur believe bacon debate crawl stumble van decorate symptom";
+var mnemonic = "relax hip gallery spy rude crisp kiwi enroll stone capital guitar raise";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket whale text army label spin ensure gloom bargain among yellow unveil";
+var mnemonic = "shallow unique fine banner trick hope theme height exhibit water easily issue";

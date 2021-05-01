@@ -1,1 +1,1 @@
-var mnemonic = "excuse glad nest bachelor pet energy believe sponsor vapor salute dismiss napkin";
+var mnemonic = "fatigue achieve powder aware produce tower cup bike crew joy wagon danger";

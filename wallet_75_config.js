@@ -1,1 +1,1 @@
-var mnemonic = "knock want mistake street flower choose alone resist puppy lab two priority";
+var mnemonic = "quantum noodle robot solid organ sorry grain nut powder void buyer bright";

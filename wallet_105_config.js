@@ -1,1 +1,1 @@
-var mnemonic = "enjoy team width scan vast benefit void found six click eye radar";
+var mnemonic = "grace inmate cloud weapon anchor still develop figure toilet inflict bonus pulp";

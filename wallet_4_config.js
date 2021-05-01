@@ -1,1 +1,1 @@
-var mnemonic = "bind comfort lion speed misery shoe midnight inflict elephant report mixture soldier";
+var mnemonic = "rural current inject oil barely entry name pet eye orbit they buyer";

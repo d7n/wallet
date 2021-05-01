@@ -1,1 +1,1 @@
-var mnemonic = "churn unaware earth pyramid edge sight crucial cushion erupt double click cruise";
+var mnemonic = "eight unusual arm bubble glove town please master install brief slow moral";

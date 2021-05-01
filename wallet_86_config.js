@@ -1,1 +1,1 @@
-var mnemonic = "judge kidney vault outer unfold obscure afraid wedding baby empower gain length";
+var mnemonic = "bachelor visual oven chuckle man adult off control short primary essay kidney";

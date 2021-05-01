@@ -1,1 +1,1 @@
-var mnemonic = "harsh judge fossil fit diesel attract patch news boy market urge tiger";
+var mnemonic = "believe rebel festival limit type interest crush job echo hint notable away";

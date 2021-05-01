@@ -1,1 +1,1 @@
-var mnemonic = "tragic similar mail warrior typical ghost ozone shine pink help icon often";
+var mnemonic = "rich put accuse burger icon water alarm annual sunset amount front wet";

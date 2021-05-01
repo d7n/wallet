@@ -1,1 +1,1 @@
-var mnemonic = "wage ignore cancel south danger harbor meat minor eight swallow engage vicious";
+var mnemonic = "labor card village staff street glue flight pledge airport popular ball ecology";

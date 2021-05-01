@@ -1,1 +1,1 @@
-var mnemonic = "walnut hollow celery coral hotel action pretty hundred model cousin wide reform";
+var mnemonic = "angle area tennis lottery polar firm maximum harsh range hold display treat";

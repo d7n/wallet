@@ -1,1 +1,1 @@
-var mnemonic = "wedding tag bunker innocent avocado isolate exact school eagle pull mystery dinner";
+var mnemonic = "switch puzzle powder room spatial thrive eye sustain exile lucky market income";

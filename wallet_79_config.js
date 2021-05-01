@@ -1,1 +1,1 @@
-var mnemonic = "silent anxiety evolve critic peace loyal chapter flash hole sort good shine";
+var mnemonic = "sibling can void decline wagon text street use convince display mail ice";

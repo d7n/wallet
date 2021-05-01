@@ -1,1 +1,1 @@
-var mnemonic = "finish balcony atom book dizzy client letter grit tank flock empty mushroom";
+var mnemonic = "enhance protect wine still shine oyster client vehicle use chaos service excite";

@@ -1,1 +1,1 @@
-var mnemonic = "very rate fix swift inhale lizard seven stove focus onion danger choice";
+var mnemonic = "february sad wood person brown guard anger cup neck stick develop escape";

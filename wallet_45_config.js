@@ -1,1 +1,1 @@
-var mnemonic = "salon tiny blush oblige damp piano reduce shove magic joke celery tennis";
+var mnemonic = "between caution churn health major frequent wife crime tool badge maple reflect";

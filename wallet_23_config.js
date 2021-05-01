@@ -1,1 +1,1 @@
-var mnemonic = "spread analyst dirt crew elbow flock visual salmon toward stable utility evolve";
+var mnemonic = "invite vivid velvet culture sense sign virtual valid dish ribbon fortune mountain";

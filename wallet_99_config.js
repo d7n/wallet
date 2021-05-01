@@ -1,1 +1,1 @@
-var mnemonic = "scene divert piano slush unknown donor oval electric chef corn either broken";
+var mnemonic = "front face busy mail chest test reason garbage brick actor collect candy";

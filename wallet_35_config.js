@@ -1,1 +1,1 @@
-var mnemonic = "when there burst slim soon jaguar excuse victory lava error cruel desk";
+var mnemonic = "lounge spawn balance garden expand hamster enroll romance crop then cross attend";

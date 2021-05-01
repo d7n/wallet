@@ -1,1 +1,1 @@
-var mnemonic = "example trend execute social side oval weasel three sell account social glow";
+var mnemonic = "moral later elder absurd shuffle stage system curious couch album legend require";

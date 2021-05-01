@@ -1,1 +1,1 @@
-var mnemonic = "immense turkey source shiver super call void gossip range kangaroo leave plastic";
+var mnemonic = "plastic tiny busy near badge priority myth term shadow tooth security junior";

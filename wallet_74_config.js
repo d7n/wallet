@@ -1,1 +1,1 @@
-var mnemonic = "myth horror glide stone ribbon live panic tribe school lamp gossip dirt";
+var mnemonic = "sketch inflict taxi shoot inside shoe grunt amazing transfer green potato crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "bless wreck ill cat security faint stem aware base cherry family symbol";
+var mnemonic = "museum remind foil ladder puzzle shift decade response metal judge body wise";

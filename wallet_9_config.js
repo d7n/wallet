@@ -1,1 +1,1 @@
-var mnemonic = "work discover prevent catalog child crazy coffee layer curtain primary ethics crush";
+var mnemonic = "lens artefact crystal short knife business cloth tumble worth adjust urge clarify";

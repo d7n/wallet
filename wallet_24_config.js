@@ -1,1 +1,1 @@
-var mnemonic = "boat coach mouse fatal bubble cash cook camp baby brave beef acid";
+var mnemonic = "veteran mail world kangaroo lake popular what silly find insane together slight";

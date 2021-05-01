@@ -1,1 +1,1 @@
-var mnemonic = "two rib toilet egg garbage glass again manage broom oil bargain critic";
+var mnemonic = "match brand salute blanket shed warfare day close trend beach banner joke";

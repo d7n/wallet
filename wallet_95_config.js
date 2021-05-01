@@ -1,1 +1,1 @@
-var mnemonic = "violin rocket remind bar fitness easy forget since man industry exist silk";
+var mnemonic = "convince shop oval group brass rate sorry useless brush speak end execute";

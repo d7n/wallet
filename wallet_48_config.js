@@ -1,1 +1,1 @@
-var mnemonic = "among employ argue argue vital web pole slim sand property fault poem";
+var mnemonic = "vibrant confirm insane slight cotton exact bleak pilot rose gorilla harvest discover";

@@ -1,1 +1,1 @@
-var mnemonic = "glide reason gate pause amount program person duck sleep pond warrior charge";
+var mnemonic = "fatigue cover verb elbow link violin erupt change bean snap tragic pupil";

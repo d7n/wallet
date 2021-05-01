@@ -1,1 +1,1 @@
-var mnemonic = "three mountain silk become regular large siren wonder broom negative pilot wedding";
+var mnemonic = "comfort virus warfare bean eight double digital grass climb ivory cable unfair";

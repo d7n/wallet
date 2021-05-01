@@ -1,1 +1,1 @@
-var mnemonic = "wrist rocket dynamic faculty aware visual ride another shock embody trap impulse";
+var mnemonic = "maid forest entire domain tuna february upgrade fit fruit document absurd ask";

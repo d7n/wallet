@@ -1,1 +1,1 @@
-var mnemonic = "envelope oblige session foot save finger fitness little change yellow method unit";
+var mnemonic = "holiday earth logic coast old time finger this jungle train attitude image";

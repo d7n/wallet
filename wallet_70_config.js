@@ -1,1 +1,1 @@
-var mnemonic = "capable deer dream diagram style margin want chair dinner pig town flee";
+var mnemonic = "motion immense space antique start hospital acoustic palm vendor pistol cloud that";

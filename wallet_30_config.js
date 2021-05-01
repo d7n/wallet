@@ -1,1 +1,1 @@
-var mnemonic = "rug brush wreck position call conduct express exhaust cannon promote throw vocal";
+var mnemonic = "frog morning joke alien culture recipe apology jeans captain clog property assist";

@@ -1,1 +1,1 @@
-var mnemonic = "initial rude intact barely north stock blue cup blanket choice there impulse";
+var mnemonic = "whip royal popular drift pond sure tiger flock sand domain victory never";

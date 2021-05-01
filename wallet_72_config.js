@@ -1,1 +1,1 @@
-var mnemonic = "treat voyage metal nut possible various ghost close direct elite quick size";
+var mnemonic = "emerge film bright season whip since legal emotion tourist air year razor";

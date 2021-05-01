@@ -1,1 +1,1 @@
-var mnemonic = "portion auction bottom topple history blush envelope planet spirit drip mom local";
+var mnemonic = "horse solid enrich collect code mammal tide club dune tackle margin stomach";

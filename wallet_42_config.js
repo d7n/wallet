@@ -1,1 +1,1 @@
-var mnemonic = "tuition embrace critic way object frog liberty host river nominee donate pig";
+var mnemonic = "alone genre over cloth volcano culture diet push half soldier dream desert";

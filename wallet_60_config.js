@@ -1,1 +1,1 @@
-var mnemonic = "female tiny famous dignity fuel advice media banner recycle fitness seed umbrella";
+var mnemonic = "scorpion scale ecology jazz wrist blast april garment allow valley change bean";

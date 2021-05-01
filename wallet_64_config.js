@@ -1,1 +1,1 @@
-var mnemonic = "anxiety hidden mind inner struggle glue effort solar road advice verify twist";
+var mnemonic = "rough drum giant double calm ball hurt insect steel begin practice wedding";

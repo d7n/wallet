@@ -1,1 +1,1 @@
-var mnemonic = "tent injury island shallow aspect deliver bulb blind chat monitor fiction shaft";
+var mnemonic = "spike peasant traffic only name moon young misery tackle estate plate museum";

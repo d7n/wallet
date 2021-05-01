@@ -1,1 +1,1 @@
-var mnemonic = "differ jelly problem diary angry convince clerk parade make length orphan goat";
+var mnemonic = "wish little range pet horror young rule into point scan corn dilemma";

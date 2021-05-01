@@ -1,1 +1,1 @@
-var mnemonic = "liquid track liberty frozen park foot sudden february lawn evil link finger";
+var mnemonic = "emerge pond rally flight ahead bid toss select gold exercise resist betray";

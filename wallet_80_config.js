@@ -1,1 +1,1 @@
-var mnemonic = "power science upper cash gown across kite include eager blind airport warrior";
+var mnemonic = "banana three summer decade erosion carbon carbon left gospel siege audit review";

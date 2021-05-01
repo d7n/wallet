@@ -1,1 +1,1 @@
-var mnemonic = "envelope choice machine chaos ketchup emotion music basket topic verb choice raw";
+var mnemonic = "pass diesel trash attack impulse hobby caution toast open success napkin open";

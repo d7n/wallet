@@ -1,1 +1,1 @@
-var mnemonic = "update hurt curious onion bag position enable joy denial meat tenant crouch";
+var mnemonic = "bulb width purchase noise hospital rebuild protect control grab rotate sun cheese";

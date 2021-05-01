@@ -1,1 +1,1 @@
-var mnemonic = "obey million nose cover forum swear large humor cage decorate trigger brother";
+var mnemonic = "thought movie blouse maple capital denial become twenty rookie segment crumble resist";

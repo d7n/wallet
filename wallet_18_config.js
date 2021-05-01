@@ -1,1 +1,1 @@
-var mnemonic = "focus lonely novel gasp sugar squeeze pave violin direct thrive emerge person";
+var mnemonic = "shield combine practice section solid urge forward scan access business umbrella struggle";

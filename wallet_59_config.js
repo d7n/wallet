@@ -1,1 +1,1 @@
-var mnemonic = "grace girl festival river twenty minor tank october below draft modify core";
+var mnemonic = "try inmate piano problem grass end seat fog drift train barely toy";

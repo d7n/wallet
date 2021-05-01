@@ -1,1 +1,1 @@
-var mnemonic = "industry scatter inherit access pen zebra number worry seed expand correct dance";
+var mnemonic = "soft pepper empty melody quality master addict call orange then lizard modify";

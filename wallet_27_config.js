@@ -1,1 +1,1 @@
-var mnemonic = "shield point behind grief link mixture define any eye embark asset question";
+var mnemonic = "unveil key certain gold protect soda ahead corn bullet sea wave fortune";

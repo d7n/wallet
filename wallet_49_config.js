@@ -1,1 +1,1 @@
-var mnemonic = "common dance old hand runway tell chest midnight group simple mail estate";
+var mnemonic = "topic exact pave fix rack black cactus fury aim comfort shift grape";

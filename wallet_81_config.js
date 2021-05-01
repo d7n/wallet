@@ -1,1 +1,1 @@
-var mnemonic = "seat mule interest trophy razor silk scene pencil aware protect two ensure";
+var mnemonic = "innocent bracket crew move female duty west green chronic remind short tower";

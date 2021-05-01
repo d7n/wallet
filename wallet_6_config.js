@@ -1,1 +1,1 @@
-var mnemonic = "horse insane praise oppose oblige degree success priority clever foot fitness patient";
+var mnemonic = "such truth mass trade citizen infant rent note volume gospel error magnet";

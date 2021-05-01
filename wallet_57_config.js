@@ -1,1 +1,1 @@
-var mnemonic = "whale feed public sell flame muffin energy little silly cheese october weird";
+var mnemonic = "key gap gossip giraffe exist popular sound pottery neutral venue mixture visit";

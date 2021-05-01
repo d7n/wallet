@@ -1,1 +1,1 @@
-var mnemonic = "stand visit kiwi beauty real space elegant hundred mule air crumble ability";
+var mnemonic = "horn oyster settle advance deliver cabin van degree bike eternal update genre";

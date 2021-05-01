@@ -1,1 +1,1 @@
-var mnemonic = "know focus orange clay swarm badge notable inject divorce warfare angle isolate";
+var mnemonic = "where mutual edit aunt dynamic bitter blade subject bench search buffalo water";

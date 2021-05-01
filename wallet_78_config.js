@@ -1,1 +1,1 @@
-var mnemonic = "giraffe shrug what puppy system rain grunt entry asthma illness quiz attitude";
+var mnemonic = "hold usage bubble negative rich upper force august video amount hold order";

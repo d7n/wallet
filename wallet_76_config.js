@@ -1,1 +1,1 @@
-var mnemonic = "federal stumble minute text thought divide atom kid noodle acid hockey fashion";
+var mnemonic = "excuse clap elder goose setup valley enlist test select prize february enroll";

@@ -1,1 +1,1 @@
-var mnemonic = "letter tooth imitate merge orchard crack original change check napkin mango walnut";
+var mnemonic = "amazing state gentle solve tiger glow basic quarter assault broken seek brick";

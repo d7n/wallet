@@ -1,1 +1,1 @@
-var mnemonic = "layer grain helmet firm abuse open live gospel sing lawn blame often";
+var mnemonic = "stuff ginger caution garlic damage visa build ready myself senior shine head";

@@ -1,1 +1,1 @@
-var mnemonic = "siren circle advance seminar giraffe quality mosquito moment father logic proud stable";
+var mnemonic = "embark advance later staff burst hobby scrub heavy border rescue daughter game";

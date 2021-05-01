@@ -1,1 +1,1 @@
-var mnemonic = "exhaust wool ivory region tissue device funny shove fame client utility wisdom";
+var mnemonic = "final frequent just tag olympic oppose deer regret spice grass abandon window";

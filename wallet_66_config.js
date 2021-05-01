@@ -1,1 +1,1 @@
-var mnemonic = "sheriff fork total attitude document rubber argue creek elephant carbon sugar script";
+var mnemonic = "video suffer shed embark toward such major wear crowd endorse foam solid";

@@ -1,1 +1,1 @@
-var mnemonic = "planet way magic swap table hero boring bounce family stick measure reward";
+var mnemonic = "erode merry depth shadow phrase pole ancient hint pact fee mass anger";

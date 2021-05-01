@@ -1,1 +1,1 @@
-var mnemonic = "balcony silly edit dwarf film code west nose drum mom month metal";
+var mnemonic = "grab furnace own abuse frost vanish unusual sister sudden oblige flower test";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige wear note away fault sure salt post faint rifle defense antique";
+var mnemonic = "economy beyond finger reason pudding glide must obscure claim own scrub arena";

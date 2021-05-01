@@ -1,1 +1,1 @@
-var mnemonic = "view blue moon pattern quick gym response trouble zebra cry social census";
+var mnemonic = "device used grape spot repair turn river case faint vivid radio wisdom";

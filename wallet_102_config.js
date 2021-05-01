@@ -1,1 +1,1 @@
-var mnemonic = "praise parrot pave tell power rice engage stem blood run dice fun";
+var mnemonic = "purchase orphan put tip biology tell typical position either stay wish zone";

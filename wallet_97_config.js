@@ -1,1 +1,1 @@
-var mnemonic = "winner gorilla alarm link uphold silk tuition broom coach foster expire disorder";
+var mnemonic = "sick hat matrix suffer clock impose junior attitude act canvas shock olympic";

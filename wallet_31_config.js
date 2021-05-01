@@ -1,1 +1,1 @@
-var mnemonic = "stem entry aerobic seek hidden ridge glimpse humor skull moral hold pass";
+var mnemonic = "service rich kiwi vivid upset wrestle seat mail stage fitness galaxy opera";

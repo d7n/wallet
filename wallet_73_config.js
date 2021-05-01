@@ -1,1 +1,1 @@
-var mnemonic = "interest silent pear cool web pilot stage combine rain aim rate proof";
+var mnemonic = "misery inherit movie caught aspect play panther broken faculty more capable aisle";

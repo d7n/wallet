@@ -1,1 +1,1 @@
-var mnemonic = "pistol click weasel impose what priority parade remember behind devote pluck retire";
+var mnemonic = "muscle kick shaft bottom rabbit empty ill bread effort alert hair priority";

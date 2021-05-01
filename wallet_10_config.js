@@ -1,1 +1,1 @@
-var mnemonic = "tissue street invite leader pull cat repeat learn sail purpose wisdom benefit";
+var mnemonic = "electric wonder reason that all aerobic hurry quality offer solution waste spare";

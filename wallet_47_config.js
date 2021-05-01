@@ -1,1 +1,1 @@
-var mnemonic = "spoil judge mule stumble clarify rent goat eager foil scatter ill include";
+var mnemonic = "patrol obvious company sudden excess cruise cool sniff argue steel deer group";

@@ -1,1 +1,1 @@
-var mnemonic = "secret maid involve entire ticket slot east frown margin dinner neutral shaft";
+var mnemonic = "coffee source approve portion betray puzzle steak busy hope museum interest settle";

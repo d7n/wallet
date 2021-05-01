@@ -1,1 +1,1 @@
-var mnemonic = "eternal permit slender vacant pen media swarm bright step solve true grass";
+var mnemonic = "rural gate fly lemon smile bring also purse kite drop whisper zone";

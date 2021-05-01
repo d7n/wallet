@@ -1,1 +1,1 @@
-var mnemonic = "satoshi cancel vague mechanic silver razor timber orange still grocery make boost";
+var mnemonic = "brave host play rain rack vast wonder cycle bulk glove describe ridge";

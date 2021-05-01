@@ -1,1 +1,1 @@
-var mnemonic = "tent negative forward doll enforce city clutch document fox dance live mercy";
+var mnemonic = "brush actor spatial brick mango job oven control nuclear slow ill hand";
