@@ -1,1 +1,1 @@
-var mnemonic = "brand mind copy devote twin dinner lyrics motor measure egg warfare indicate";
+var mnemonic = "educate cool clog casual harbor arrange dash manage drama produce citizen waste";

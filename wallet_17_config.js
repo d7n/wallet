@@ -1,1 +1,1 @@
-var mnemonic = "erupt young develop title away penalty citizen spawn pause certain electric spell";
+var mnemonic = "square sheriff actress match father town enforce later bright canyon miracle super";

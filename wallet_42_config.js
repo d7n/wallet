@@ -1,1 +1,1 @@
-var mnemonic = "unusual rural anchor document furnace normal tragic consider run viable this element";
+var mnemonic = "owner slight robot dirt citizen slow radar brief consider become uniform album";

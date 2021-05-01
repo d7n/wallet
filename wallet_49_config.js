@@ -1,1 +1,1 @@
-var mnemonic = "lady secret liberty race robot mobile mansion salad idle room armor proud";
+var mnemonic = "fly teach tourist amused dove lend ordinary gallery observe kiwi employ nothing";

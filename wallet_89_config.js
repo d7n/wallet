@@ -1,1 +1,1 @@
-var mnemonic = "uniform slush spray virtual obtain pen race soul beyond mule because wonder";
+var mnemonic = "amount goat canyon carbon cover fuel increase wood coach battle announce pool";

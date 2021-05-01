@@ -1,1 +1,1 @@
-var mnemonic = "science talent skull party bulk unique usage cover couple chronic inmate rookie";
+var mnemonic = "use fly fat scatter park canvas bonus extend shallow brain dream squirrel";

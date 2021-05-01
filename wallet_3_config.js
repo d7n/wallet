@@ -1,1 +1,1 @@
-var mnemonic = "effort over snack shell unusual height uncle response grass guess idle bag";
+var mnemonic = "zoo peace modify push wagon coral suggest object enough kite young network";

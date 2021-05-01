@@ -1,1 +1,1 @@
-var mnemonic = "cluster boat perfect culture relief legend have enrich clean isolate forest panel";
+var mnemonic = "era pigeon animal crunch chunk brick surface deposit mirror mirror silly neither";

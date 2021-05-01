@@ -1,1 +1,1 @@
-var mnemonic = "call fly immense jewel comic lens oxygen siege bounce dash repair spell";
+var mnemonic = "worry theory bind tribe industry that output staff rough flag can cheap";

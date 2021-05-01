@@ -1,1 +1,1 @@
-var mnemonic = "puzzle observe funny master truth idle detail rail flash citizen film steak";
+var mnemonic = "lift junk rival humor soccer check vicious entire stable vivid giraffe shrug";

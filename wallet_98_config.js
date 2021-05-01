@@ -1,1 +1,1 @@
-var mnemonic = "identify job miracle among almost twelve viable wrestle obscure sample ordinary manual";
+var mnemonic = "unknown bike eager verb become client guide sweet episode layer family crack";

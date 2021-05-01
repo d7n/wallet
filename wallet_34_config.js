@@ -1,1 +1,1 @@
-var mnemonic = "vapor buyer ball clown wonder execute neutral upset engage blade obvious casino";
+var mnemonic = "surround lake oblige web oak segment infant solution vapor cricket element can";

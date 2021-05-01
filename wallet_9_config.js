@@ -1,1 +1,1 @@
-var mnemonic = "cream point begin vapor jaguar carry saddle thing ankle surprise science innocent";
+var mnemonic = "economy pair affair sudden cigar critic thank ankle leave rabbit put south";

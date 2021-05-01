@@ -1,1 +1,1 @@
-var mnemonic = "exclude faint item wheel aspect festival laugh special clerk electric famous arm";
+var mnemonic = "gather allow logic around adjust tank party funny cradle boost punch worry";

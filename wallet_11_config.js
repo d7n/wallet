@@ -1,1 +1,1 @@
-var mnemonic = "valid end juice sail puzzle input rely admit whisper faculty van strategy";
+var mnemonic = "moon disease sport object adult taste undo marine bicycle much spice owner";

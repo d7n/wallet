@@ -1,1 +1,1 @@
-var mnemonic = "bamboo topple mushroom night matrix wolf image obscure pear brick dawn solid";
+var mnemonic = "mimic chimney net vanish glide lecture dynamic cool loyal old butter company";

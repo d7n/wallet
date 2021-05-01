@@ -1,1 +1,1 @@
-var mnemonic = "sing jar whisper melt loop orphan ticket stem mimic tray hero throw";
+var mnemonic = "believe cousin bundle excess face garlic elegant bachelor antenna almost dolphin soda";

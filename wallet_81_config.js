@@ -1,1 +1,1 @@
-var mnemonic = "pencil right silent split guitar stumble radio cabbage grunt because blue fancy";
+var mnemonic = "feed critic network viable save audit donkey diesel sketch govern diary decorate";

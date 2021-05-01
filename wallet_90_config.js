@@ -1,1 +1,1 @@
-var mnemonic = "cherry curtain wise swift miracle brush talk law topple abstract sustain husband";
+var mnemonic = "destroy smile wrong flash spell afraid frost skin unaware acquire castle napkin";

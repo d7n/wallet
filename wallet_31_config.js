@@ -1,1 +1,1 @@
-var mnemonic = "piano frame oil idea blind fruit hover vendor cargo ketchup abstract expose";
+var mnemonic = "modify want bright glide output medal leisure wet obscure almost purpose hockey";

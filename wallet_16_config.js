@@ -1,1 +1,1 @@
-var mnemonic = "picture royal pear maid office develop violin happy velvet derive rough trap";
+var mnemonic = "aerobic already remain include gap reunion spice column tube park method method";

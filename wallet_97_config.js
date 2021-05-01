@@ -1,1 +1,1 @@
-var mnemonic = "sausage desert step aware top buffalo legend thumb any chimney wheat manual";
+var mnemonic = "robust latin now clay embrace snake estate noise real doctor van advice";

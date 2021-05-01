@@ -1,1 +1,1 @@
-var mnemonic = "eight youth tuition trust hawk shrimp split prepare express shoot lucky trash";
+var mnemonic = "nice laugh hole puppy crunch mutual attitude element tourist until provide canvas";

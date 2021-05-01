@@ -1,1 +1,1 @@
-var mnemonic = "client gold dinner trial market edit north orbit agree prefer nurse since";
+var mnemonic = "awkward glad neutral chuckle raccoon talk lazy kick drive trouble resist fringe";

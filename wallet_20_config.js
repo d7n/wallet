@@ -1,1 +1,1 @@
-var mnemonic = "ugly mule pepper rifle dove vibrant extra park essay arrest water payment";
+var mnemonic = "bright jelly relief define claim empower ability input trouble label enact warm";

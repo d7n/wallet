@@ -1,1 +1,1 @@
-var mnemonic = "mushroom relax lottery ugly afford wrist maze burger dragon sister firm silly";
+var mnemonic = "nephew thumb awake auto window that width sort account what hill famous";

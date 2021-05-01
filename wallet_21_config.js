@@ -1,1 +1,1 @@
-var mnemonic = "catalog reason wrestle clump twelve top make pretty kid banana super lottery";
+var mnemonic = "few venue initial genuine left level post example wisdom coach wrestle open";

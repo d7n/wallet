@@ -1,1 +1,1 @@
-var mnemonic = "cry assault medal essay include blush album pull dance balcony struggle grid";
+var mnemonic = "between pelican tennis spend spice wood shove multiply pretty renew thank become";

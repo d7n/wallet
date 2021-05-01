@@ -1,1 +1,1 @@
-var mnemonic = "mammal priority until exile hero large fatigue burst assault skull nature cake";
+var mnemonic = "jungle squeeze crop pretty want sport carry champion giant green shop crush";

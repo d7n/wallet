@@ -1,1 +1,1 @@
-var mnemonic = "surge entry toward egg equal resist fall poem disagree stool liar cram";
+var mnemonic = "profit alley gospel afraid bless dignity zone nerve three ceiling subway inmate";

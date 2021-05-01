@@ -1,1 +1,1 @@
-var mnemonic = "army peasant climb build negative possible case family truck century snap unhappy";
+var mnemonic = "prison shadow pull fetch street milk prison excuse chef increase dragon choose";

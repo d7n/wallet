@@ -1,1 +1,1 @@
-var mnemonic = "behind breeze curtain sun either wink hospital jeans tackle enough concert snow";
+var mnemonic = "good eagle glass split history enlist yard flame retreat bleak film mouse";

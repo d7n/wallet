@@ -1,1 +1,1 @@
-var mnemonic = "thing frog hello intact link music napkin basket proof demand that west";
+var mnemonic = "orange funny loud sign wire develop doctor tag pencil patch arch planet";

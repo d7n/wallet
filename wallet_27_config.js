@@ -1,1 +1,1 @@
-var mnemonic = "agree envelope cotton snake bread stove current that fortune cruel salon enlist";
+var mnemonic = "mask pencil power win drip heart oval forum coin sort news jazz";

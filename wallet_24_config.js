@@ -1,1 +1,1 @@
-var mnemonic = "group salt jungle celery bamboo dove mix present innocent adjust pretty travel";
+var mnemonic = "bag final stumble analyst chapter silly tired length cement initial sauce cruise";

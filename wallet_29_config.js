@@ -1,1 +1,1 @@
-var mnemonic = "achieve super patrol main tone express canvas donor naive copy flight address";
+var mnemonic = "poem banana exist athlete decide group grunt tone chuckle evolve smile impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "immune outside notable busy fever entire control treat wasp hazard erupt arena";
+var mnemonic = "that trophy blush wide raven market couple mail stage champion bench kiwi";

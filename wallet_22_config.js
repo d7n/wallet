@@ -1,1 +1,1 @@
-var mnemonic = "festival they leader sting wheel height garbage labor snap address pole upgrade";
+var mnemonic = "angle bottom private scout old orbit school own detect warfare coffee elder";

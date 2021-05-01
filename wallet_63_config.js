@@ -1,1 +1,1 @@
-var mnemonic = "onion thought envelope crunch pyramid arrange junior fragile elite peace meat zoo";
+var mnemonic = "visa cable oxygen woman daring machine work clerk captain image naive just";

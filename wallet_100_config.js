@@ -1,1 +1,1 @@
-var mnemonic = "math shiver gospel laptop split obey ripple vapor pass under board double";
+var mnemonic = "insect surround alarm author cable logic elite woman enjoy inhale barrel fun";

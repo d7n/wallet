@@ -1,1 +1,1 @@
-var mnemonic = "corn palm faith furnace tooth elegant gas clerk power sniff tired ball";
+var mnemonic = "song acoustic mass change prize pigeon develop bomb injury lunch erosion horror";

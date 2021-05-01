@@ -1,1 +1,1 @@
-var mnemonic = "lava cliff mandate again saddle quick arrow call dial lock then damp";
+var mnemonic = "radar regular furnace vicious camp essence blast quality captain earth protect depth";

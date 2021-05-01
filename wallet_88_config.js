@@ -1,1 +1,1 @@
-var mnemonic = "reunion author predict mango advice blame scene start arrow adjust feel summer";
+var mnemonic = "drop job satoshi danger mimic sausage melt notice guitar normal switch drift";

@@ -1,1 +1,1 @@
-var mnemonic = "way diagram below crop step offer menu interest payment gift empower lounge";
+var mnemonic = "above oval reopen sing abuse disagree clip squeeze midnight biology shift pool";

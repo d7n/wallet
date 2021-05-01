@@ -1,1 +1,1 @@
-var mnemonic = "impact spare amount sting frost flight tennis rival crazy loop they lion";
+var mnemonic = "gate room despair noble motor carpet chuckle ten success mesh sustain loan";

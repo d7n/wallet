@@ -1,1 +1,1 @@
-var mnemonic = "silver seek public fall sunny suit wasp song enhance crucial refuse fortune";
+var mnemonic = "link play artist battle monitor carry muscle admit bid innocent vendor derive";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp snake lizard fuel equip unhappy portion lawn barely decrease ridge video";
+var mnemonic = "nice any mixture help reason ship spy chaos empty movie that enemy";

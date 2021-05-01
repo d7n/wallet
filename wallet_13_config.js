@@ -1,1 +1,1 @@
-var mnemonic = "basket lesson decline moral unknown spend clap love lyrics brass excite either";
+var mnemonic = "perfect alert robot price gasp tip paper include powder opinion shrug way";

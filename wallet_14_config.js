@@ -1,1 +1,1 @@
-var mnemonic = "evil boy west valve upset outdoor raven awake tiger young gentle fragile";
+var mnemonic = "hammer random orient spell sorry obscure parent gasp coral rural expose wise";

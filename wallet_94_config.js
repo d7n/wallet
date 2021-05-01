@@ -1,1 +1,1 @@
-var mnemonic = "route rich adjust lesson hire say airport cinnamon embrace regret skate grunt";
+var mnemonic = "panda shoe alcohol struggle level essay seminar various famous long leave oval";

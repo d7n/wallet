@@ -1,1 +1,1 @@
-var mnemonic = "state similar swallow solution frost atom eternal dinosaur bag winter resist bracket";
+var mnemonic = "parade habit pottery acoustic lady keen enforce seed error report narrow help";

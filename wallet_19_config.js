@@ -1,1 +1,1 @@
-var mnemonic = "lounge farm scene artwork local satoshi idle devote tobacco can option sting";
+var mnemonic = "foam betray eight art magnet hole prosper float over rapid dice tourist";

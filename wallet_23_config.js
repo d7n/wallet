@@ -1,1 +1,1 @@
-var mnemonic = "tape allow pride siege stairs surprise capital oak poverty food depend grunt";
+var mnemonic = "next submit kiss expand spoon zebra magic elbow canvas benefit awake cute";

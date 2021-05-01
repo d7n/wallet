@@ -1,1 +1,1 @@
-var mnemonic = "return enact jaguar judge occur urban liberty west win margin firm settle";
+var mnemonic = "barrel toe weasel awesome leisure police dream certain dynamic vessel forum husband";

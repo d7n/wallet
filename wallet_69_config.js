@@ -1,1 +1,1 @@
-var mnemonic = "crack era rigid prosper best aim broken twenty special clerk kid ball";
+var mnemonic = "nose cupboard weather robot scene yard call that afraid flight rebel judge";

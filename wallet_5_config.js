@@ -1,1 +1,1 @@
-var mnemonic = "portion case detail hybrid wild novel return shoe pioneer embark warm dove";
+var mnemonic = "morning noodle evidence matter token rare habit push dutch pudding police stomach";

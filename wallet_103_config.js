@@ -1,1 +1,1 @@
-var mnemonic = "daring soon hello tumble across labor frog citizen inform use shop guide";
+var mnemonic = "armor total decrease duck aspect diary wasp sheriff chase boil joke erase";

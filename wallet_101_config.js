@@ -1,1 +1,1 @@
-var mnemonic = "account armor inmate undo warm cat range defense replace case brisk venture";
+var mnemonic = "inch board require globe physical gun tent dwarf maze hat above ten";

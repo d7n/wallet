@@ -1,1 +1,1 @@
-var mnemonic = "six symbol grass high fee height mobile salad excuse spoil nuclear lift";
+var mnemonic = "brief copper domain manual grit extend mixture snake chief song huge shrimp";

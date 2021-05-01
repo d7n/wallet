@@ -1,1 +1,1 @@
-var mnemonic = "mad sunny goose inject unfold occur cable pill time obtain lemon electric";
+var mnemonic = "sunset seed winner hill gauge volume frog public shed raccoon plastic rely";

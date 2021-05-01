@@ -1,1 +1,1 @@
-var mnemonic = "ability film lesson second burst ordinary insect liquid double there resource vacant";
+var mnemonic = "casual weather hobby round join nothing paddle crouch funny job squeeze follow";

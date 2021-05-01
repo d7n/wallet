@@ -1,1 +1,1 @@
-var mnemonic = "tuition suggest smile tell scout receive father must calm walnut spirit hold";
+var mnemonic = "all tape gallery office breeze drastic loop slot easy this sand reason";

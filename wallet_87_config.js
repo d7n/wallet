@@ -1,1 +1,1 @@
-var mnemonic = "keep tomato satoshi alarm logic vast session garment work supply lamp sail";
+var mnemonic = "club ugly phrase crowd razor junior copy upon kingdom task juice grab";

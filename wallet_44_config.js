@@ -1,1 +1,1 @@
-var mnemonic = "ginger winter develop renew click brick hero enlist version glass cigar number";
+var mnemonic = "hockey better approve shove armed kingdom resist company muffin pluck clay palm";

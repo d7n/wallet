@@ -1,1 +1,1 @@
-var mnemonic = "spray obscure brass response total abstract course protect banner vanish change carry";
+var mnemonic = "spice carry ritual eternal meadow junk stamp segment burden miss mango agent";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb smart tiny tube fetch name giggle amount this rent advance dust";
+var mnemonic = "diary voice trumpet royal wear bind short culture various bunker board floor";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect easy never wear ethics author explain path add series moment elder";
+var mnemonic = "aisle bomb elbow health permit visa chimney walnut romance critic round equip";

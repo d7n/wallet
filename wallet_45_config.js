@@ -1,1 +1,1 @@
-var mnemonic = "belt pyramid else novel boss script hobby ride used subject degree rebel";
+var mnemonic = "genuine range piece execute peasant range town express wood bone shift prosper";

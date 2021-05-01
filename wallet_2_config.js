@@ -1,1 +1,1 @@
-var mnemonic = "capable torch issue imitate wife mirror claim cricket final famous echo love";
+var mnemonic = "skill become trip possible churn village yard great solve day midnight fresh";

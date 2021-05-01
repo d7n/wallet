@@ -1,1 +1,1 @@
-var mnemonic = "spell hospital clerk abandon kidney diamond resource radio bird equip rural region";
+var mnemonic = "become inspire total vibrant tribe man brief earth cheese ladder member reject";

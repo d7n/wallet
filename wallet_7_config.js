@@ -1,1 +1,1 @@
-var mnemonic = "sea lottery spell powder leg naive quote level nuclear cup puzzle hero";
+var mnemonic = "depart praise leader lab diet indicate reopen put myself rug carpet pull";

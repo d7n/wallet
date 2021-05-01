@@ -1,1 +1,1 @@
-var mnemonic = "people obtain alone rug nation approve indoor own swear fresh tunnel patrol";
+var mnemonic = "hollow cancel bargain test angle matrix owner depth pottery brick already excite";

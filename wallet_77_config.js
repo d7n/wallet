@@ -1,1 +1,1 @@
-var mnemonic = "hungry perfect session comic bracket medal wait resemble coach toilet hotel fashion";
+var mnemonic = "bubble kite weapon desk cute step replace advice inhale erupt famous clean";

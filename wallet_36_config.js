@@ -1,1 +1,1 @@
-var mnemonic = "tattoo flee total cattle gospel left leader fuel tone gadget derive invest";
+var mnemonic = "nice someone host color tomato truth monster elbow valid gather oblige element";

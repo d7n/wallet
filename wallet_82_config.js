@@ -1,1 +1,1 @@
-var mnemonic = "devote actual notable mercy immune host join fall say join that daring";
+var mnemonic = "river planet guard evoke original toilet dose hungry crater hawk quick pottery";

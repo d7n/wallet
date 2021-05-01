@@ -1,1 +1,1 @@
-var mnemonic = "three stomach battle update cigar clean surge neutral evidence kiss wasp rookie";
+var mnemonic = "rapid east broom you sniff choice trick crumble hammer fortune crop bottom";

@@ -1,1 +1,1 @@
-var mnemonic = "author voice year maid dash frost fan excuse equal slam much zero";
+var mnemonic = "move mechanic wrist bounce bounce globe antenna arm rely powder pink stem";

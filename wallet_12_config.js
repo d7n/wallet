@@ -1,1 +1,1 @@
-var mnemonic = "vault effort obey picture treat move post shock remain faith age toy";
+var mnemonic = "suspect resource grant first sound calm ice pave scorpion fiction soon island";

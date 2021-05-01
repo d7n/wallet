@@ -1,1 +1,1 @@
-var mnemonic = "swarm drop parrot merit eternal moment coyote deny screen buddy float memory";
+var mnemonic = "hobby female enrich fold protect lounge cross sting glimpse custom approve nothing";

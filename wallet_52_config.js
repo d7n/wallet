@@ -1,1 +1,1 @@
-var mnemonic = "attract oak used symptom issue frown monitor author biology fix junior scrub";
+var mnemonic = "nominee fresh logic record diagram bicycle october cluster tourist mouse plate decrease";

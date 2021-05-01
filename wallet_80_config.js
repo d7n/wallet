@@ -1,1 +1,1 @@
-var mnemonic = "fence stem tip sound arrange sugar finish smooth describe material job canal";
+var mnemonic = "physical clog hybrid impose soap depth pulse heavy oven make stick during";

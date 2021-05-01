@@ -1,1 +1,1 @@
-var mnemonic = "public liquid traffic course machine top art case tortoise diagram boss result";
+var mnemonic = "seminar else finger flavor stool bar test thank noodle before mandate cup";

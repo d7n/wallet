@@ -1,1 +1,1 @@
-var mnemonic = "critic hat inmate truck february frost fault tail unusual amazing chronic earn";
+var mnemonic = "warfare path select only card universe push ramp fragile siren electric depth";

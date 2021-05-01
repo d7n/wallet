@@ -1,1 +1,1 @@
-var mnemonic = "music place oil palace lunar fade battle all involve royal run cube";
+var mnemonic = "favorite any risk bronze control edge novel lizard hard clown tuna muscle";

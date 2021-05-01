@@ -1,1 +1,1 @@
-var mnemonic = "void sauce put always casual squirrel enough lottery spin receive glimpse bunker";
+var mnemonic = "catch brown always over voice differ harvest spend day defense apology melt";

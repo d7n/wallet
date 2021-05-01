@@ -1,1 +1,1 @@
-var mnemonic = "daughter essence okay sad rail potato enact demand better blanket jealous misery";
+var mnemonic = "couple matter tomato chief second wife dilemma orbit boy cattle rival almost";

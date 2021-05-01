@@ -1,1 +1,1 @@
-var mnemonic = "edit palm song seed kid dust spot gossip kangaroo upgrade february shy";
+var mnemonic = "opinion level salad detail inherit fruit hurt obvious retreat rely above sweet";

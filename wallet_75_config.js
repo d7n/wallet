@@ -1,1 +1,1 @@
-var mnemonic = "embrace rough moment mango gate unique portion topple panther suspect antenna option";
+var mnemonic = "limit brass canal diesel best slam mirror bench tray mandate soccer fancy";

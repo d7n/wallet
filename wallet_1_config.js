@@ -1,1 +1,1 @@
-var mnemonic = "silent dignity steel congress demand question wheel saddle venue unhappy defy under";
+var mnemonic = "damage choice swift neck mesh maximum knife frog acquire use cereal good";

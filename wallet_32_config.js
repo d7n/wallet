@@ -1,1 +1,1 @@
-var mnemonic = "glimpse obscure phone hair forward army essence final orient patient faith affair";
+var mnemonic = "culture earn envelope ball around cause bridge chronic topple smooth naive three";

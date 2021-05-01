@@ -1,1 +1,1 @@
-var mnemonic = "must beyond wash century quality final foot reflect axis alien fragile label";
+var mnemonic = "random robust impulse soldier unhappy pill address caught myth bomb pluck payment";

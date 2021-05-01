@@ -1,1 +1,1 @@
-var mnemonic = "unhappy mansion awesome quit hazard feature quarter legal vacuum main often over";
+var mnemonic = "crater staff eager right double response mango damage earth leader match jacket";

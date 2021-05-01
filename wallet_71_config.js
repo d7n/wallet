@@ -1,1 +1,1 @@
-var mnemonic = "sword please nature picture bunker hole marine fuel ozone coin cabin assist";
+var mnemonic = "inflict vintage quote practice resemble vault twelve error column differ napkin nature";

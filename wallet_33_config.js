@@ -1,1 +1,1 @@
-var mnemonic = "skin balcony salad almost toss winner original picnic morning furnace pool art";
+var mnemonic = "admit truly embrace betray twelve elevator sock hold column feed model ritual";
