@@ -1,1 +1,1 @@
-var mnemonic = "frost hard solar trial display chase daring romance huge cushion midnight arrest";
+var mnemonic = "crowd loop defense degree letter action usage screen bright street lion spell";

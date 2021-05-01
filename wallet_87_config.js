@@ -1,1 +1,1 @@
-var mnemonic = "order found dash burden return rhythm throw glimpse can desk elephant cover";
+var mnemonic = "culture stage donor cargo caution hundred pitch cherry ill dose alone grape";

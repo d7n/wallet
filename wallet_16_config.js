@@ -1,1 +1,1 @@
-var mnemonic = "property promote crop message guide pear orchard zebra uncle entry accuse gift";
+var mnemonic = "family torch guess hand syrup gravity flock stable change protect board assume";

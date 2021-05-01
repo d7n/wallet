@@ -1,1 +1,1 @@
-var mnemonic = "message crater dignity brain chase dress picnic bind brain giggle fetch image";
+var mnemonic = "aerobic under casual rough license gravity enrich tired bleak choice romance program";

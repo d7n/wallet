@@ -1,1 +1,1 @@
-var mnemonic = "inject truly off toe deal distance exchange nasty dirt say egg clay";
+var mnemonic = "bird fossil burst follow leader collect insect local excite answer seed illegal";

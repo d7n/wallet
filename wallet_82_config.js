@@ -1,1 +1,1 @@
-var mnemonic = "chaos armor twenty round combine fold puzzle inch badge town luggage peace";
+var mnemonic = "inflict marble drink since jazz behind myself spirit safe frog margin turtle";

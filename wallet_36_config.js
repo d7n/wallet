@@ -1,1 +1,1 @@
-var mnemonic = "pole suit march blush parent around gather dance control dragon taste erode";
+var mnemonic = "mad survey elegant sauce gravity pupil glow potato viable primary smile hollow";

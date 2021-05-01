@@ -1,1 +1,1 @@
-var mnemonic = "organ true illness gold dizzy frown mesh deliver shuffle domain certain deputy";
+var mnemonic = "core snack distance mutual aunt orphan ranch swear robot zebra river release";

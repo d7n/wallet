@@ -1,1 +1,1 @@
-var mnemonic = "truly poet win lens double kit core window rare aware decline dress";
+var mnemonic = "attitude safe maximum year misery genre pluck pact response rabbit over clever";

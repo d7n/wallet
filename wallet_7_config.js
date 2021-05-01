@@ -1,1 +1,1 @@
-var mnemonic = "hover usual cruise marine cabbage opera leader make tank bind success genre";
+var mnemonic = "erase ring saddle lift panther taste seminar must tank piano mobile love";

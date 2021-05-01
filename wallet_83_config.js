@@ -1,1 +1,1 @@
-var mnemonic = "quarter silver emotion merit mixture slot cigar original whisper coyote math nut";
+var mnemonic = "misery road tide glance inch roast ankle tuition armed hat truly solution";

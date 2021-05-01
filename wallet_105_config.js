@@ -1,1 +1,1 @@
-var mnemonic = "figure basket truck fluid faculty shiver brief west crowd false cigar pretty";
+var mnemonic = "segment canyon royal jelly fiction chuckle saddle dish occur suspect reflect laptop";

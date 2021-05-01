@@ -1,1 +1,1 @@
-var mnemonic = "erode gospel visit auto drive stage wagon glove wheat swarm leisure benefit";
+var mnemonic = "gauge spring stadium seed strike debate spawn tuition salute swamp fashion cake";

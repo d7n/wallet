@@ -1,1 +1,1 @@
-var mnemonic = "alter expect math guess mistake scale sell more once travel erosion ginger";
+var mnemonic = "caution timber version awesome next under nut deliver start crystal latin thing";

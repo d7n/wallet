@@ -1,1 +1,1 @@
-var mnemonic = "frame arrange hood marble evolve stem satoshi coffee dice close boat permit";
+var mnemonic = "matter absurd pave six gloom defy girl flame sure flip wonder leg";

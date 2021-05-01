@@ -1,1 +1,1 @@
-var mnemonic = "double virtual enter require embark sell tip describe cupboard stable chunk rifle";
+var mnemonic = "together way water potato hair beyond unveil ketchup dose rookie forget host";

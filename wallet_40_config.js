@@ -1,1 +1,1 @@
-var mnemonic = "antique company wave patient fiber cargo noise myth heart range actual gate";
+var mnemonic = "identify zero identify quit column program deny dish kiss youth airport inside";

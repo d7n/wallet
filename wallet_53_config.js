@@ -1,1 +1,1 @@
-var mnemonic = "soap bundle usual easy glance patient relief upset wedding leave exile april";
+var mnemonic = "hope belt horror retire clay ritual true hockey quality catalog wall punch";

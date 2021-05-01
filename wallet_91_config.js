@@ -1,1 +1,1 @@
-var mnemonic = "mistake swift evidence illness hard city say worry observe copy moon tilt";
+var mnemonic = "offer photo fruit doctor town hard prepare stereo sick issue primary student";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry group ice radio shoe aisle collect general riot winter banner more";
+var mnemonic = "feature pottery crime present puppy early romance recall roast common use kick";

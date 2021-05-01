@@ -1,1 +1,1 @@
-var mnemonic = "exotic fashion narrow review tip news potato silk chimney avoid tourist space";
+var mnemonic = "entire shadow company truth trade puppy senior pony visa foam brand dentist";

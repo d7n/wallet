@@ -1,1 +1,1 @@
-var mnemonic = "during minor noodle gossip spell indoor ginger lounge install gentle resist share";
+var mnemonic = "retire fun valid anger illness rifle betray blur pretty wash business idle";

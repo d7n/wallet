@@ -1,1 +1,1 @@
-var mnemonic = "swallow debate entry drip pioneer anxiety prize trophy sibling flavor hidden artist";
+var mnemonic = "tray cause nest unveil eye scan wine cause vivid program wonder coil";

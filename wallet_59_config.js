@@ -1,1 +1,1 @@
-var mnemonic = "party interest noise jewel doctor embark orange poet general board catalog name";
+var mnemonic = "slow term menu cricket apart protect phone amused kid purchase wrestle aunt";

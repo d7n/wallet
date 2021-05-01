@@ -1,1 +1,1 @@
-var mnemonic = "jelly fresh dilemma february east fly minor sick uncover away wool blood";
+var mnemonic = "argue impose want nation relax nothing blast occur danger please deal angle";

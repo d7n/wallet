@@ -1,1 +1,1 @@
-var mnemonic = "join spawn artist noodle truth grass task chapter this coral hedgehog universe";
+var mnemonic = "rescue hollow pilot walnut cover fine crime wet antenna hood theory fall";

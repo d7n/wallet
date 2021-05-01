@@ -1,1 +1,1 @@
-var mnemonic = "sail ecology warfare rifle crucial marine diagram genuine carbon open boy gather";
+var mnemonic = "news sure snow refuse wing cushion february paper try inner smart time";

@@ -1,1 +1,1 @@
-var mnemonic = "estate tenant trust cluster swap banana business amateur crumble danger sand post";
+var mnemonic = "village during media reject today inside man worth actual close crazy cliff";

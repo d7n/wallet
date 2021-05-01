@@ -1,1 +1,1 @@
-var mnemonic = "decorate soldier square afraid outdoor erosion weapon morning diamond senior frog file";
+var mnemonic = "imitate combine move urge evoke private property agree throw across rude destroy";

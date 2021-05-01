@@ -1,1 +1,1 @@
-var mnemonic = "beef hundred cliff direct honey share credit network dinosaur post tool choose";
+var mnemonic = "cart main mirror series story truth tray quarter guitar roof cluster afraid";

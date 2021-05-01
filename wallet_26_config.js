@@ -1,1 +1,1 @@
-var mnemonic = "violin drive ability zoo furnace industry quick drift waste afford track direct";
+var mnemonic = "claw palm aisle morning oyster grass move wrap sock shine plug dynamic";

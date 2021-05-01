@@ -1,1 +1,1 @@
-var mnemonic = "fitness cute opinion bullet neither pear private lunch delay mail panther found";
+var mnemonic = "end try liquid furnace journey amazing input regret waste rigid endless onion";

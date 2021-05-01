@@ -1,1 +1,1 @@
-var mnemonic = "flock olympic drive fine kiss pulse oblige reveal rescue divert else federal";
+var mnemonic = "april labor angry lend knife ritual melody differ excess dawn nest now";

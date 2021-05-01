@@ -1,1 +1,1 @@
-var mnemonic = "tail rural essence vintage parrot viable bounce coach bulb duty carbon swing";
+var mnemonic = "pave duck heavy uphold abandon rail divide congress display nothing habit select";

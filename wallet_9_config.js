@@ -1,1 +1,1 @@
-var mnemonic = "squirrel hair stock stuff volume cook surge clean health notice steak come";
+var mnemonic = "border install camp patient proof humor clarify ivory long model very stage";

@@ -1,1 +1,1 @@
-var mnemonic = "shell best leopard segment amazing logic core once company wide cash profit";
+var mnemonic = "payment hope tide market oyster vacuum leisure lion pair grain minute run";

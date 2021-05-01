@@ -1,1 +1,1 @@
-var mnemonic = "air cat salt orbit loan surge circle tobacco aware lumber salon impulse";
+var mnemonic = "medal prefer critic update evoke rate win blue person pave deliver light";

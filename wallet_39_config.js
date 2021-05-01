@@ -1,1 +1,1 @@
-var mnemonic = "iron power glimpse size toward kick hill kangaroo gesture vocal fiscal equal";
+var mnemonic = "cliff state train answer pink boil strike around mango detect hollow soda";

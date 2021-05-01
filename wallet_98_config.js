@@ -1,1 +1,1 @@
-var mnemonic = "faith dose reopen radar pool slight physical exchange traffic wet female rate";
+var mnemonic = "film barrel conduct evidence clip purse alone impose brush retreat mule stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "tongue inflict goddess just item rotate draft glide alpha table ask scheme";
+var mnemonic = "analyst toast move abstract theme tooth verify quiz rural cargo easy muscle";

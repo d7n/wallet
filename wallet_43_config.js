@@ -1,1 +1,1 @@
-var mnemonic = "note borrow worth crumble retire admit shuffle leopard jump journey garment coffee";
+var mnemonic = "arrive stone cancel brain cool mixed urban boat hood arctic dose observe";

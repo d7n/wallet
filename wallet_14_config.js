@@ -1,1 +1,1 @@
-var mnemonic = "hammer prevent shadow about ball patch onion region purse style trophy neglect";
+var mnemonic = "enrich inject stamp bamboo sea cross volume security agree head define brass";

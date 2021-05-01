@@ -1,1 +1,1 @@
-var mnemonic = "orange pause muffin silver lamp load ripple voyage air core utility myth";
+var mnemonic = "disease bar biology order input lesson security ability october wide patch penalty";

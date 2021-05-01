@@ -1,1 +1,1 @@
-var mnemonic = "defense defy divide damp please type approve tower enter victory little agent";
+var mnemonic = "leader leader possible slogan van wear cluster deputy victory multiply spy decorate";

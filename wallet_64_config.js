@@ -1,1 +1,1 @@
-var mnemonic = "senior remain upper rate transfer convince limit banner light area glare general";
+var mnemonic = "moon toe other cry slam deposit safe soda tenant repair provide candy";

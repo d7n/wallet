@@ -1,1 +1,1 @@
-var mnemonic = "panda slab unknown settle envelope chief glare because rather obey inch master";
+var mnemonic = "horse provide eager provide stomach mind quick laptop fence drastic gain valley";

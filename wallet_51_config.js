@@ -1,1 +1,1 @@
-var mnemonic = "diet diamond grape okay close frown advance shallow thank divorce warfare village";
+var mnemonic = "castle rapid spoil run violin six regular blame amount antique text pledge";

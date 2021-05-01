@@ -1,1 +1,1 @@
-var mnemonic = "width other orchard gadget swap theme hungry curve shine road motor decrease";
+var mnemonic = "good peace all govern increase defense forward plug decide cushion annual swift";

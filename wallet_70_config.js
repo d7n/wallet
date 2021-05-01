@@ -1,1 +1,1 @@
-var mnemonic = "already daughter rare shine pumpkin sick injury upon okay raven ocean allow";
+var mnemonic = "day elite tunnel earn ski remain vessel cheese artist account hope top";

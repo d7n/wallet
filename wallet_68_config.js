@@ -1,1 +1,1 @@
-var mnemonic = "history silly label hawk casino focus survey hover art leg bundle dance";
+var mnemonic = "wise problem kid march knock book exit focus delay private minimum fitness";

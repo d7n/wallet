@@ -1,1 +1,1 @@
-var mnemonic = "disease enact degree work garlic enjoy pave license jar slide hurt avocado";
+var mnemonic = "have whale circle thank economy wave hello thank hidden special gas hammer";

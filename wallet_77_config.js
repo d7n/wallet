@@ -1,1 +1,1 @@
-var mnemonic = "clog text bottom easily describe inhale loud jealous sting tunnel time waste";
+var mnemonic = "magnet next combine jar write paper unfold sister couple soda base sentence";

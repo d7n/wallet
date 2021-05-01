@@ -1,1 +1,1 @@
-var mnemonic = "mandate catalog recycle amount safe obscure quit young extend small actual history";
+var mnemonic = "vocal they envelope eye clutch inform jeans mix wine element wall pattern";

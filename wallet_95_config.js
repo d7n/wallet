@@ -1,1 +1,1 @@
-var mnemonic = "pet nice popular shove federal flavor very act mountain moral find little";
+var mnemonic = "account still cause invest rice game obscure help motor solve yard genre";

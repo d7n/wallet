@@ -1,1 +1,1 @@
-var mnemonic = "easily reject worth trend garlic airport gadget jewel crucial brother swarm chunk";
+var mnemonic = "will siren soon sense win nation blush milk napkin long ketchup bitter";

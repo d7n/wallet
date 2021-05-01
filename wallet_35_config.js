@@ -1,1 +1,1 @@
-var mnemonic = "cage floor legal choose before tuna patient motor observe youth vault grief";
+var mnemonic = "doll unusual suffer develop attend spatial lemon laptop pull scatter explain foster";

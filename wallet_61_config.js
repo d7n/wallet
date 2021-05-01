@@ -1,1 +1,1 @@
-var mnemonic = "valid know industry cloth mistake fruit holiday govern leader review flat observe";
+var mnemonic = "pull useless million arch account blossom resource promote drastic stable brick garlic";

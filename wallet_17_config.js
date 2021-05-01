@@ -1,1 +1,1 @@
-var mnemonic = "network inside lady rib latin team aim hurt federal clever cute coffee";
+var mnemonic = "body electric fringe reduce domain pig leader arrange license drip bone episode";

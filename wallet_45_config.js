@@ -1,1 +1,1 @@
-var mnemonic = "benefit gravity finger ask major agree angle satisfy syrup agree culture describe";
+var mnemonic = "extra walk together retreat december wheat wisdom word student heart track copper";

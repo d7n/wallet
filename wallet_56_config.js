@@ -1,1 +1,1 @@
-var mnemonic = "engage staff control blade donor myth current enjoy parade tank mosquito suit";
+var mnemonic = "same express into task slow liquid diagram tag mail protect plate urban";

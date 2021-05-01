@@ -1,1 +1,1 @@
-var mnemonic = "stereo cruel leave leisure expire metal depend crunch capital salmon involve dream";
+var mnemonic = "develop wage round burger guilt planet can supply flat install cave grain";

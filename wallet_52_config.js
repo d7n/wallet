@@ -1,1 +1,1 @@
-var mnemonic = "often utility arrest problem drop faint asset frame dwarf inquiry mammal keen";
+var mnemonic = "relax spare sadness taste expose anchor blanket wrist increase twice way century";

@@ -1,1 +1,1 @@
-var mnemonic = "tornado audit license oil logic spike basket ozone mesh treat ribbon govern";
+var mnemonic = "patch deer love raw machine blossom record outside enrich tape dynamic pencil";

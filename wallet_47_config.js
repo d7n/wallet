@@ -1,1 +1,1 @@
-var mnemonic = "dismiss kidney farm wing regular occur aerobic lend song wet flower odor";
+var mnemonic = "convince juice eight provide twice cinnamon endless balcony violin sugar peanut humble";

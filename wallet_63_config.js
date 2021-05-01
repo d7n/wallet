@@ -1,1 +1,1 @@
-var mnemonic = "doctor soldier flat sadness trip mechanic garage garlic fork melody employ monster";
+var mnemonic = "hood exact snack siege loud globe world cement goat ethics arena forget";

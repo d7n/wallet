@@ -1,1 +1,1 @@
-var mnemonic = "rely moral hint behave cover citizen circle vendor sand asset dragon maximum";
+var mnemonic = "taste world diary edge city plug middle illegal anger pyramid jump infant";

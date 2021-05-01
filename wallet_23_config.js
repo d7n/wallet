@@ -1,1 +1,1 @@
-var mnemonic = "easily hockey equip before certain gym safe gas fade expire hero yellow";
+var mnemonic = "exit zoo gasp language panel black wonder very wine puzzle client forget";

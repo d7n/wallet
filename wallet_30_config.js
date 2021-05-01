@@ -1,1 +1,1 @@
-var mnemonic = "height food cruise absurd text patient weird engine air maid proud mirror";
+var mnemonic = "that struggle element abuse sister brick rough cost okay talent because connect";

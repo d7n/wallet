@@ -1,1 +1,1 @@
-var mnemonic = "ozone carbon error travel unfold attitude scout provide viable rack pledge require";
+var mnemonic = "artist dune liar that gentle ahead must fine flee journey planet photo";

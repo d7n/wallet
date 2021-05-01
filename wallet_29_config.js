@@ -1,1 +1,1 @@
-var mnemonic = "two woman relief page seat tank say nut bubble client brown grid";
+var mnemonic = "fantasy way pear silent scrap lazy suffer climb cigar link force sketch";

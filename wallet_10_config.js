@@ -1,1 +1,1 @@
-var mnemonic = "aerobic farm domain table reject blur village inform lion attract shoot garlic";
+var mnemonic = "sand protect hole clap lumber sniff fox bicycle mimic plug answer crystal";

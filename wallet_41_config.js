@@ -1,1 +1,1 @@
-var mnemonic = "badge double first whale image unhappy child lumber inform midnight skirt grab";
+var mnemonic = "lonely cherry melt mechanic anger antenna dream choice custom erosion arrest fine";

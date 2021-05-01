@@ -1,1 +1,1 @@
-var mnemonic = "human resource foil jeans clip awkward wheat double ring picnic vital amateur";
+var mnemonic = "mouse team end plastic winter angle noodle shove address deliver long believe";

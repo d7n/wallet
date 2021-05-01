@@ -1,1 +1,1 @@
-var mnemonic = "upper smoke tenant convince case whisper wage domain jazz where tomato space";
+var mnemonic = "spy demand rabbit resource burger twist crane bench soda budget situate hurdle";

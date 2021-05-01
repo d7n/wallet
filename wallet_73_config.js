@@ -1,1 +1,1 @@
-var mnemonic = "thunder ready merit case bag tape abandon road dune maple private bag";
+var mnemonic = "salmon enhance suggest normal wheat nominee bench uniform delay neck pool laptop";

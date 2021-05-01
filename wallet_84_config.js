@@ -1,1 +1,1 @@
-var mnemonic = "width affair promote grape improve more jump conduct lava token toast comic";
+var mnemonic = "brand brain barrel tool figure ankle knee render sight wealth bubble bacon";

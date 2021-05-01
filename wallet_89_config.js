@@ -1,1 +1,1 @@
-var mnemonic = "powder garbage mule black spatial neck team appear west shop cry hammer";
+var mnemonic = "boil auction romance just essence crazy genre crew stadium actress already bronze";

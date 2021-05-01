@@ -1,1 +1,1 @@
-var mnemonic = "farm stage fly island detail bone blanket kick phrase figure tuition couch";
+var mnemonic = "private online outer increase secret select thing crush father couple glance throw";

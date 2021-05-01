@@ -1,1 +1,1 @@
-var mnemonic = "smile aunt essay flash ribbon ball lens choice tag little loan artist";
+var mnemonic = "warfare swap digital disease wealth public live skate skin solution fatal squirrel";

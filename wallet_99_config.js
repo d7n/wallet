@@ -1,1 +1,1 @@
-var mnemonic = "frame shift banner pepper absurd spin thumb road tourist tattoo degree voice";
+var mnemonic = "ankle funny park awesome exact embark drift girl debris scare powder session";

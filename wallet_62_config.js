@@ -1,1 +1,1 @@
-var mnemonic = "faculty wagon tennis firm course slice kiss notable ticket resemble size gap";
+var mnemonic = "spy immense rent crane logic birth faint fire hen fancy visual slush";

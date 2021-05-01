@@ -1,1 +1,1 @@
-var mnemonic = "kidney sunset route aerobic lottery lawn hazard moral affair adult share all";
+var mnemonic = "modify elbow property include civil drop keen story series envelope morning upset";

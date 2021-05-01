@@ -1,1 +1,1 @@
-var mnemonic = "visual race pizza right connect six common private private donkey idea feel";
+var mnemonic = "oppose develop planet mixed brave time supply toast vendor sponsor face frog";

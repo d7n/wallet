@@ -1,1 +1,1 @@
-var mnemonic = "hair palm all this dream spell ranch era boring need glow despair";
+var mnemonic = "sponsor arrow ramp scrub spice token duck frost aunt trip build crazy";

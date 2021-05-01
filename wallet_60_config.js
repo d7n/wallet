@@ -1,1 +1,1 @@
-var mnemonic = "strong squirrel mesh solve maze regular sample normal toilet useless field exclude";
+var mnemonic = "lazy undo wave such omit rude climb work utility wine try loud";

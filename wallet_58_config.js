@@ -1,1 +1,1 @@
-var mnemonic = "salon knock select robot also alter hint pepper glad salad steak avocado";
+var mnemonic = "void tackle border must false exchange toddler bulb story crisp luxury payment";

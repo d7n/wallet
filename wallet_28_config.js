@@ -1,1 +1,1 @@
-var mnemonic = "popular exotic occur cross thing fatal kidney forum gas remove blush health";
+var mnemonic = "bless unlock august buddy result angle veteran dose wolf damage panther average";

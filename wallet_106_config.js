@@ -1,1 +1,1 @@
-var mnemonic = "disorder over undo exit crazy month swamp exclude mobile brave pig sport";
+var mnemonic = "tattoo exercise key lift rigid route motion simple analyst soft split scout";

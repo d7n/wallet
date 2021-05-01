@@ -1,1 +1,1 @@
-var mnemonic = "soccer object spy ready hollow roast arch cage excuse direct hobby famous";
+var mnemonic = "canyon market goddess sight work list jewel eternal donor pumpkin little toddler";

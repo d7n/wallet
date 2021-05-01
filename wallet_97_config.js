@@ -1,1 +1,1 @@
-var mnemonic = "road elbow pumpkin arena crucial inform repeat south zoo undo tonight endorse";
+var mnemonic = "person sausage thank ethics chicken approve produce wire casino direct month uniform";

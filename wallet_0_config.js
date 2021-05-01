@@ -1,1 +1,1 @@
-var mnemonic = "system mother list depth street glow analyst sausage suspect motor bind library";
+var mnemonic = "twist roast sad cruel mention across warrior pill harvest glow pyramid sick";
