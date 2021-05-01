@@ -1,1 +1,1 @@
-var mnemonic = "donkey ghost pride youth unveil ranch bone live coyote violin grid pulse";
+var mnemonic = "priority marriage emerge scrub during acid hello head fish planet hurdle coconut";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce drink tobacco slender decline oyster fatal cost cluster street robust better";
+var mnemonic = "erode gospel visit auto drive stage wagon glove wheat swarm leisure benefit";

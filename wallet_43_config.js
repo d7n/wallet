@@ -1,1 +1,1 @@
-var mnemonic = "tool blast toward carbon title liar attack tissue delay never custom amused";
+var mnemonic = "note borrow worth crumble retire admit shuffle leopard jump journey garment coffee";

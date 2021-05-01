@@ -1,1 +1,1 @@
-var mnemonic = "black potato captain riot rally perfect tomato figure alone once field rich";
+var mnemonic = "soccer object spy ready hollow roast arch cage excuse direct hobby famous";

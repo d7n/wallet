@@ -1,1 +1,1 @@
-var mnemonic = "color major scene van choice invite seven agree grant fitness universe cover";
+var mnemonic = "doctor soldier flat sadness trip mechanic garage garlic fork melody employ monster";

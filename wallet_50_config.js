@@ -1,1 +1,1 @@
-var mnemonic = "equip appear endless furnace laptop all welcome debris bounce uphold open vessel";
+var mnemonic = "flock olympic drive fine kiss pulse oblige reveal rescue divert else federal";

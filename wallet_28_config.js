@@ -1,1 +1,1 @@
-var mnemonic = "nest helmet shine frown right float recall imitate total truly critic special";
+var mnemonic = "popular exotic occur cross thing fatal kidney forum gas remove blush health";

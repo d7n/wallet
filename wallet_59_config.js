@@ -1,1 +1,1 @@
-var mnemonic = "offer quantum invite swap unfair tilt wisdom course obey core arrange sheriff";
+var mnemonic = "party interest noise jewel doctor embark orange poet general board catalog name";

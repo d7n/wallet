@@ -1,1 +1,1 @@
-var mnemonic = "sorry review legend duty solar basic iron vendor bulb toddler ensure clever";
+var mnemonic = "diet diamond grape okay close frown advance shallow thank divorce warfare village";

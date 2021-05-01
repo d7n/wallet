@@ -1,1 +1,1 @@
-var mnemonic = "pyramid trust impulse asthma tragic lobster capable segment tell wait tool shoot";
+var mnemonic = "kidney sunset route aerobic lottery lawn hazard moral affair adult share all";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin rail climb begin best airport monster erupt install tackle gap effort";
+var mnemonic = "tail rural essence vintage parrot viable bounce coach bulb duty carbon swing";

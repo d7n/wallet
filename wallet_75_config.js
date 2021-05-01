@@ -1,1 +1,1 @@
-var mnemonic = "faint depend drop camera mirror quality across square fury door off palm";
+var mnemonic = "farm stage fly island detail bone blanket kick phrase figure tuition couch";

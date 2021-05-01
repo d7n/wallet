@@ -1,1 +1,1 @@
-var mnemonic = "drift renew ready rug twin balance cotton large pulse excite recall soccer";
+var mnemonic = "human resource foil jeans clip awkward wheat double ring picnic vital amateur";

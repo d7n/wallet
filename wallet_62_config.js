@@ -1,1 +1,1 @@
-var mnemonic = "hero daughter minimum lens era offer still valid taste smoke pride aunt";
+var mnemonic = "faculty wagon tennis firm course slice kiss notable ticket resemble size gap";

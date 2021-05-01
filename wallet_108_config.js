@@ -1,1 +1,1 @@
-var mnemonic = "total outdoor dial daughter consider appear timber vocal skill shed surge cancel";
+var mnemonic = "decorate soldier square afraid outdoor erosion weapon morning diamond senior frog file";

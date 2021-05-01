@@ -1,1 +1,1 @@
-var mnemonic = "soda inject title moon magnet giggle mouse cry delay cruise patch distance";
+var mnemonic = "often utility arrest problem drop faint asset frame dwarf inquiry mammal keen";

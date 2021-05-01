@@ -1,1 +1,1 @@
-var mnemonic = "vicious veteran immense suspect kingdom taxi surprise repeat tissue nominee curious rigid";
+var mnemonic = "truly poet win lens double kit core window rare aware decline dress";

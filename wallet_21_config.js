@@ -1,1 +1,1 @@
-var mnemonic = "topple key energy resource garment measure fluid churn kangaroo silk intact calm";
+var mnemonic = "sorry group ice radio shoe aisle collect general riot winter banner more";

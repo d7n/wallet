@@ -1,1 +1,1 @@
-var mnemonic = "bread liar chalk start island about order sun album ability purse glad";
+var mnemonic = "alter expect math guess mistake scale sell more once travel erosion ginger";

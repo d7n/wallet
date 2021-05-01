@@ -1,1 +1,1 @@
-var mnemonic = "invite frown pitch inherit pretty nation hope wife member boring cart play";
+var mnemonic = "estate tenant trust cluster swap banana business amateur crumble danger sand post";

@@ -1,1 +1,1 @@
-var mnemonic = "mean planet path quick price firm smoke aspect wide bridge wrestle large";
+var mnemonic = "history silly label hawk casino focus survey hover art leg bundle dance";

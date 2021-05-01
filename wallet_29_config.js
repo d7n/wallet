@@ -1,1 +1,1 @@
-var mnemonic = "share amused trick saddle lizard craft plastic like either either minor quarter";
+var mnemonic = "two woman relief page seat tank say nut bubble client brown grid";

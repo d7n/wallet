@@ -1,1 +1,1 @@
-var mnemonic = "thing core team derive mobile must topple spawn invite legal album hint";
+var mnemonic = "palm summer people relief lazy spawn manage upgrade jaguar cry brick test";

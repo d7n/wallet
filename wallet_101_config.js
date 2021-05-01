@@ -1,1 +1,1 @@
-var mnemonic = "convince program coral drink paper stove street super win erode then cereal";
+var mnemonic = "tornado audit license oil logic spike basket ozone mesh treat ribbon govern";

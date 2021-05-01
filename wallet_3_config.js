@@ -1,1 +1,1 @@
-var mnemonic = "veteran cotton pear close almost entire path nerve future reopen during mobile";
+var mnemonic = "organ true illness gold dizzy frown mesh deliver shuffle domain certain deputy";

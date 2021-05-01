@@ -1,1 +1,1 @@
-var mnemonic = "rural remember arm purity lunar develop brain discover enough discover life first";
+var mnemonic = "iron power glimpse size toward kick hill kangaroo gesture vocal fiscal equal";

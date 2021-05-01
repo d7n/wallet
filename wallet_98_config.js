@@ -1,1 +1,1 @@
-var mnemonic = "can lock merry grocery island prison tail area embody lobster cactus error";
+var mnemonic = "faith dose reopen radar pool slight physical exchange traffic wet female rate";

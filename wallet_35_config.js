@@ -1,1 +1,1 @@
-var mnemonic = "grass put dilemma word hold more tomato marriage setup mix angry gossip";
+var mnemonic = "cage floor legal choose before tuna patient motor observe youth vault grief";

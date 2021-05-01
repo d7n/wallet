@@ -1,1 +1,1 @@
-var mnemonic = "egg vacuum keep evidence snack letter frame gate mix rough avoid pigeon";
+var mnemonic = "valid know industry cloth mistake fruit holiday govern leader review flat observe";

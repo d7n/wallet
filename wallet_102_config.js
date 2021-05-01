@@ -1,1 +1,1 @@
-var mnemonic = "cruel harvest wall across guess sort palace mind that long shift movie";
+var mnemonic = "street library light butter claw error message prosper teach ride category cash";

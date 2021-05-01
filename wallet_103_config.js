@@ -1,1 +1,1 @@
-var mnemonic = "skate fine cake umbrella utility nephew juice easily cause zero wheat power";
+var mnemonic = "visual race pizza right connect six common private private donkey idea feel";

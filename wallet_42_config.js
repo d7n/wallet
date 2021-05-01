@@ -1,1 +1,1 @@
-var mnemonic = "bright peace traffic exact one need sad poem spell casual wear lumber";
+var mnemonic = "six staff expire bring announce kitten rely eyebrow fitness shrug bag feed";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn hero cruel hour enough south cat sunset rib library fire prize";
+var mnemonic = "attend symptom client taste cute bench noise action bring fire congress syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "second juice pear cover menu ketchup ring salad alley wet venture spray";
+var mnemonic = "order found dash burden return rhythm throw glimpse can desk elephant cover";

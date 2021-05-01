@@ -1,1 +1,1 @@
-var mnemonic = "mask drop flag asset cave verify student exact purchase often mad deal";
+var mnemonic = "road elbow pumpkin arena crucial inform repeat south zoo undo tonight endorse";

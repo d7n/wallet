@@ -1,1 +1,1 @@
-var mnemonic = "vacant detect siege bike chat knife hobby spray clay leader palm donkey";
+var mnemonic = "truck offer laugh rough occur grain scare intact retreat scene cheap galaxy";

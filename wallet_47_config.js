@@ -1,1 +1,1 @@
-var mnemonic = "verify shadow ritual marine wrap enroll later loud shrimp direct grid open";
+var mnemonic = "dismiss kidney farm wing regular occur aerobic lend song wet flower odor";

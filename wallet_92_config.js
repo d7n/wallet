@@ -1,1 +1,1 @@
-var mnemonic = "joke fantasy tackle oak salon habit unique slight robot vanish someone lunch";
+var mnemonic = "hair palm all this dream spell ranch era boring need glow despair";

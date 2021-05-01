@@ -1,1 +1,1 @@
-var mnemonic = "jacket copper sand elite few stadium firm ten sick typical wing predict";
+var mnemonic = "frame shift banner pepper absurd spin thumb road tourist tattoo degree voice";

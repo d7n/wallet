@@ -1,1 +1,1 @@
-var mnemonic = "yard endless execute lens sunny about era unique fashion swear roof unhappy";
+var mnemonic = "swallow debate entry drip pioneer anxiety prize trophy sibling flavor hidden artist";

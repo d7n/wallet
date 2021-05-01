@@ -1,1 +1,1 @@
-var mnemonic = "slim bird green zoo canvas wish horror vivid fatal raccoon print segment";
+var mnemonic = "powder garbage mule black spatial neck team appear west shop cry hammer";

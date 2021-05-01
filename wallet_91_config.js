@@ -1,1 +1,1 @@
-var mnemonic = "metal crater cute hobby captain neglect spray mammal require wrestle step can";
+var mnemonic = "mistake swift evidence illness hard city say worry observe copy moon tilt";

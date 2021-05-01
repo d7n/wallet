@@ -1,1 +1,1 @@
-var mnemonic = "print around wagon slim much impulse detect penalty issue century menu attend";
+var mnemonic = "figure basket truck fluid faculty shiver brief west crowd false cigar pretty";

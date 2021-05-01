@@ -1,1 +1,1 @@
-var mnemonic = "battle sort dwarf utility laugh verify room multiply credit force genre essence";
+var mnemonic = "width other orchard gadget swap theme hungry curve shine road motor decrease";

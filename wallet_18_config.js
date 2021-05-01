@@ -1,1 +1,1 @@
-var mnemonic = "merry chapter visit seek flee blush choose genre fruit wisdom traffic arrive";
+var mnemonic = "during minor noodle gossip spell indoor ginger lounge install gentle resist share";

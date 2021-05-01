@@ -1,1 +1,1 @@
-var mnemonic = "world recycle jump cricket improve idea luggage same twist demand sword noble";
+var mnemonic = "property promote crop message guide pear orchard zebra uncle entry accuse gift";

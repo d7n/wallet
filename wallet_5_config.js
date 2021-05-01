@@ -1,1 +1,1 @@
-var mnemonic = "typical talent hospital layer indicate husband pledge spend casual between very bike";
+var mnemonic = "slender inside judge stone silent genre demand tunnel stairs meadow stool patch";

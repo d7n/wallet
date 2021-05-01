@@ -1,1 +1,1 @@
-var mnemonic = "pelican dolphin budget frame special jeans mimic pyramid boss ostrich immune fresh";
+var mnemonic = "hover usual cruise marine cabbage opera leader make tank bind success genre";

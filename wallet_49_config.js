@@ -1,1 +1,1 @@
-var mnemonic = "govern risk camp flock another envelope believe horn few comic churn rabbit";
+var mnemonic = "message crater dignity brain chase dress picnic bind brain giggle fetch image";

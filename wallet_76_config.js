@@ -1,1 +1,1 @@
-var mnemonic = "wait change artefact plug rice under feel fit media wrong image drastic";
+var mnemonic = "dinosaur attract case hamster mansion voyage obtain note long shoe train tornado";

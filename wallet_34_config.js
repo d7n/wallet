@@ -1,1 +1,1 @@
-var mnemonic = "hobby sketch metal choice elevator crawl pioneer mechanic permit among mechanic topple";
+var mnemonic = "tongue inflict goddess just item rotate draft glide alpha table ask scheme";

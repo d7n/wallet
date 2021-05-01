@@ -1,1 +1,1 @@
-var mnemonic = "once salad snack vanish runway permit tiger zebra silly visa middle apart";
+var mnemonic = "badge double first whale image unhappy child lumber inform midnight skirt grab";

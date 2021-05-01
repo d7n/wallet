@@ -1,1 +1,1 @@
-var mnemonic = "outside clever there universe dawn certain south cream bar junior dose loop";
+var mnemonic = "mandate catalog recycle amount safe obscure quit young extend small actual history";

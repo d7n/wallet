@@ -1,1 +1,1 @@
-var mnemonic = "sense extra answer wood thunder cliff spatial space coyote level outdoor half";
+var mnemonic = "stereo cruel leave leisure expire metal depend crunch capital salmon involve dream";

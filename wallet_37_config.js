@@ -1,1 +1,1 @@
-var mnemonic = "field seminar multiply melt turkey rebuild ready dad news manual vocal ring";
+var mnemonic = "fitness cute opinion bullet neither pear private lunch delay mail panther found";

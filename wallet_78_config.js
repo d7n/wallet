@@ -1,1 +1,1 @@
-var mnemonic = "one inch flavor question solution multiply live party security coast define satoshi";
+var mnemonic = "defense defy divide damp please type approve tower enter victory little agent";

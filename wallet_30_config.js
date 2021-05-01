@@ -1,1 +1,1 @@
-var mnemonic = "purpose blame rough song neutral equal venue hill blur help hotel clown";
+var mnemonic = "height food cruise absurd text patient weird engine air maid proud mirror";

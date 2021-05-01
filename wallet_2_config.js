@@ -1,1 +1,1 @@
-var mnemonic = "exotic wing captain hip hint interest flower tube taxi clay sponsor usual";
+var mnemonic = "cycle prepare grass potato crunch excuse card sell inflict famous coral circle";

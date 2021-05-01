@@ -1,1 +1,1 @@
-var mnemonic = "oppose turkey current follow glare retreat spike plunge tissue imitate chase injury";
+var mnemonic = "strong squirrel mesh solve maze regular sample normal toilet useless field exclude";

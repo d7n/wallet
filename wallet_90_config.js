@@ -1,1 +1,1 @@
-var mnemonic = "floor actor street brain hero desk robust tomorrow gallery stone aunt indicate";
+var mnemonic = "traffic produce elegant tenant borrow impulse door sleep pride animal until globe";

@@ -1,1 +1,1 @@
-var mnemonic = "ready fine shallow empower suit sort try error baby settle thunder guard";
+var mnemonic = "air cat salt orbit loan surge circle tobacco aware lumber salon impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "pear stable picture lumber once danger glimpse dial gate expect nuclear eagle";
+var mnemonic = "razor lock food stool insect sentence settle winter business claim brown slab";

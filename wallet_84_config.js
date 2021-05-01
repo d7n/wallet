@@ -1,1 +1,1 @@
-var mnemonic = "alpha apple melt jealous onion fresh galaxy advance plunge spread paper coffee";
+var mnemonic = "width affair promote grape improve more jump conduct lava token toast comic";

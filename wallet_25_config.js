@@ -1,1 +1,1 @@
-var mnemonic = "spoil repair volcano sheriff equal powder prize sunny wealth among rule wing";
+var mnemonic = "inject truly off toe deal distance exchange nasty dirt say egg clay";

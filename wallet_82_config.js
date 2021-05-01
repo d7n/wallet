@@ -1,1 +1,1 @@
-var mnemonic = "sister first dance lunar crush team adjust spread fee input eyebrow cause";
+var mnemonic = "chaos armor twenty round combine fold puzzle inch badge town luggage peace";

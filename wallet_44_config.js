@@ -1,1 +1,1 @@
-var mnemonic = "limit indoor size produce viable please employ gadget analyst viable deposit august";
+var mnemonic = "broken useless alarm defense kiwi cluster track boy lend want tomato achieve";

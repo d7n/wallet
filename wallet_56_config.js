@@ -1,1 +1,1 @@
-var mnemonic = "room morning metal tooth reduce flash believe uniform picture safe curve member";
+var mnemonic = "engage staff control blade donor myth current enjoy parade tank mosquito suit";

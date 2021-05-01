@@ -1,1 +1,1 @@
-var mnemonic = "mad setup ice tennis family divorce survey trumpet plunge orphan ugly mosquito";
+var mnemonic = "toss collect test hero fly stadium snap sense novel romance permit angle";

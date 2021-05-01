@@ -1,1 +1,1 @@
-var mnemonic = "uphold grit steak power sphere dune lottery age measure jungle sense onion";
+var mnemonic = "orange pause muffin silver lamp load ripple voyage air core utility myth";

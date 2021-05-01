@@ -1,1 +1,1 @@
-var mnemonic = "photo magnet neglect daughter short tuna ensure brisk route upper chest rhythm";
+var mnemonic = "valid industry clap promote this brother shuffle feed wash similar heavy amateur";

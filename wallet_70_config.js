@@ -1,1 +1,1 @@
-var mnemonic = "tragic curtain lens spin follow post zone direct daring morning else tongue";
+var mnemonic = "already daughter rare shine pumpkin sick injury upon okay raven ocean allow";

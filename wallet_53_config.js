@@ -1,1 +1,1 @@
-var mnemonic = "spatial soccer coil nation object hello theory monster remind whisper predict awake";
+var mnemonic = "soap bundle usual easy glance patient relief upset wedding leave exile april";

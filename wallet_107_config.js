@@ -1,1 +1,1 @@
-var mnemonic = "program produce thumb actor shock nose measure sister resemble eager employ game";
+var mnemonic = "beef hundred cliff direct honey share credit network dinosaur post tool choose";

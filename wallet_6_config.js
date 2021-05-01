@@ -1,1 +1,1 @@
-var mnemonic = "alcohol tennis left congress culture mean rifle pause mule final vast crawl";
+var mnemonic = "join spawn artist noodle truth grass task chapter this coral hedgehog universe";

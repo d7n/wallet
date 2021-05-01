@@ -1,1 +1,1 @@
-var mnemonic = "end swamp hungry unlock flash body cat same aisle room agree song";
+var mnemonic = "frost hard solar trial display chase daring romance huge cushion midnight arrest";

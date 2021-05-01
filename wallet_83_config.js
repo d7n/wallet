@@ -1,1 +1,1 @@
-var mnemonic = "glare stable wedding melody universe capable hockey awake warrior enough engage kitten";
+var mnemonic = "quarter silver emotion merit mixture slot cigar original whisper coyote math nut";

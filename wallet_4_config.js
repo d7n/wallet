@@ -1,1 +1,1 @@
-var mnemonic = "glance proud inhale absorb day slight phone right add machine oblige loud";
+var mnemonic = "easily reject worth trend garlic airport gadget jewel crucial brother swarm chunk";

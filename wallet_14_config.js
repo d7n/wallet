@@ -1,1 +1,1 @@
-var mnemonic = "erosion force select episode nation voyage wasp sign wheat enough hard street";
+var mnemonic = "hammer prevent shadow about ball patch onion region purse style trophy neglect";

@@ -1,1 +1,1 @@
-var mnemonic = "ill uphold exhaust drastic slab hobby cheap orchard game also cattle frown";
+var mnemonic = "benefit gravity finger ask major agree angle satisfy syrup agree culture describe";

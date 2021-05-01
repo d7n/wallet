@@ -1,1 +1,1 @@
-var mnemonic = "account valve nose radio hip sustain quick chat hard gauge liquid famous";
+var mnemonic = "upper smoke tenant convince case whisper wage domain jazz where tomato space";

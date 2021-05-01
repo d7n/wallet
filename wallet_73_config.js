@@ -1,1 +1,1 @@
-var mnemonic = "furnace romance question drill prosper make midnight clog unhappy boat engine screen";
+var mnemonic = "thunder ready merit case bag tape abandon road dune maple private bag";

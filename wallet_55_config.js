@@ -1,1 +1,1 @@
-var mnemonic = "transfer hammer despair apart into mushroom occur negative core knock vague noble";
+var mnemonic = "rely moral hint behave cover citizen circle vendor sand asset dragon maximum";

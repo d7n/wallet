@@ -1,1 +1,1 @@
-var mnemonic = "caught hub advance time comic area want topic result popular sword forum";
+var mnemonic = "feature giggle chest before acid oppose perfect obscure wolf lady photo wine";

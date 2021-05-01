@@ -1,1 +1,1 @@
-var mnemonic = "save pupil abuse human elephant air music drastic pause ripple boring subway";
+var mnemonic = "salon knock select robot also alter hint pepper glad salad steak avocado";

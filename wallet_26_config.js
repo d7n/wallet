@@ -1,1 +1,1 @@
-var mnemonic = "permit lab prepare pear inmate broccoli hurry kitchen degree process walnut hour";
+var mnemonic = "violin drive ability zoo furnace industry quick drift waste afford track direct";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic ripple quit nation fancy april cloth innocent city joy devote length";
+var mnemonic = "art suspect blood comic amused swing attend engage quiz explain trend mercy";

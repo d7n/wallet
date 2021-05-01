@@ -1,1 +1,1 @@
-var mnemonic = "exercise symptom monitor note change weather near magic ocean chicken rebuild sick";
+var mnemonic = "snake rely just task kidney lizard duty planet frown method high dentist";

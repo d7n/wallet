@@ -1,1 +1,1 @@
-var mnemonic = "wine flee rude expire lock dice ketchup jewel dash grief brass aerobic";
+var mnemonic = "squirrel hair stock stuff volume cook surge clean health notice steak come";

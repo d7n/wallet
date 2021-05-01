@@ -1,1 +1,1 @@
-var mnemonic = "major enact kingdom defense fix night curtain text repeat hurt thing meadow";
+var mnemonic = "system mother list depth street glow analyst sausage suspect motor bind library";

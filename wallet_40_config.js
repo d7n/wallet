@@ -1,1 +1,1 @@
-var mnemonic = "icon despair staff exist suffer suggest palm apart angle traffic brief pretty";
+var mnemonic = "antique company wave patient fiber cargo noise myth heart range actual gate";

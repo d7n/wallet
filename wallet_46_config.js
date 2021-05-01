@@ -1,1 +1,1 @@
-var mnemonic = "local heavy beyond predict museum nominee flash veteran learn picture athlete key";
+var mnemonic = "frame arrange hood marble evolve stem satoshi coffee dice close boat permit";
