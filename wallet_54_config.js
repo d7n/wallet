@@ -1,1 +1,1 @@
-var mnemonic = "record wild lake goose world maze swallow text match parrot shuffle coach";
+var mnemonic = "style fresh note enroll spray outside liquid tragic kitchen mom solve flight";

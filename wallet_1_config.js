@@ -1,1 +1,1 @@
-var mnemonic = "what veteran promote stock kidney satisfy daughter vacant urban negative soap praise";
+var mnemonic = "lounge ride popular super message filter moon volume patient kite search mesh";

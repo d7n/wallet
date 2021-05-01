@@ -1,1 +1,1 @@
-var mnemonic = "fruit floor badge crop grape spawn mosquito robust bone twin involve own";
+var mnemonic = "hospital bench regret pact heavy casino panic buzz own antenna pulp gift";

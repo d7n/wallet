@@ -1,1 +1,1 @@
-var mnemonic = "cricket wink lawsuit lift tired behind axis allow tongue family net ozone";
+var mnemonic = "crush taxi satisfy truth club quarter interest license fatal collect beyond floor";

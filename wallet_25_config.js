@@ -1,1 +1,1 @@
-var mnemonic = "dove maid access suggest poem wash wrong attitude erase own pilot tomato";
+var mnemonic = "echo tuna siege broken nut category appear cage magic size now develop";

@@ -1,1 +1,1 @@
-var mnemonic = "sight burger gown blood oyster search toe potato abandon sort hole cliff";
+var mnemonic = "roast seven solid cruel bicycle staff desert post room goat shop wing";

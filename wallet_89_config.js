@@ -1,1 +1,1 @@
-var mnemonic = "clown jungle penalty leg more smoke about million gravity wonder connect poem";
+var mnemonic = "frog clarify reunion cute artist below clock trick festival fever need chaos";

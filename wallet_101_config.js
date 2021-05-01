@@ -1,1 +1,1 @@
-var mnemonic = "depend history grant reunion region lemon choose orphan notable orange recall claim";
+var mnemonic = "erase inner kick double joke angry busy region fever can bag then";

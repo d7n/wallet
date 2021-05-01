@@ -1,1 +1,1 @@
-var mnemonic = "chimney video point advance motion profit spike donor twin artefact wild phrase";
+var mnemonic = "grunt social obtain yard slim chuckle few canal knife holiday razor cliff";

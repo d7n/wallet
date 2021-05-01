@@ -1,1 +1,1 @@
-var mnemonic = "gasp sail cigar like divorce display awesome run used remove melody tonight";
+var mnemonic = "ahead defy early merit still promote section lecture hurt human project conduct";

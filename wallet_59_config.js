@@ -1,1 +1,1 @@
-var mnemonic = "energy account search upgrade quick demise alarm grant idea pole twice final";
+var mnemonic = "behave proud magnet chapter achieve emerge harsh govern minor sing record time";

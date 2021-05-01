@@ -1,1 +1,1 @@
-var mnemonic = "garage patch teach bench armed pass final monster skull coffee credit bicycle";
+var mnemonic = "laugh fragile crater resource item useful narrow disagree stumble matrix royal jelly";

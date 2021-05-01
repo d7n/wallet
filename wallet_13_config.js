@@ -1,1 +1,1 @@
-var mnemonic = "sell gospel critic have emotion fruit lyrics rule high blast junior scrub";
+var mnemonic = "palm need suit dream movie agree enact head curious wet truth repeat";

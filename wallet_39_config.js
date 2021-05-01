@@ -1,1 +1,1 @@
-var mnemonic = "outside endless hammer fun napkin client truth wheat taxi satisfy crucial science";
+var mnemonic = "happy input tattoo month fat remember own luxury possible frog provide kitten";

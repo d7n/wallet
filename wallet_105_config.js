@@ -1,1 +1,1 @@
-var mnemonic = "moral sand patch trap prosper kite banana strong tool raise trick hello";
+var mnemonic = "biology bottom shock dirt into kidney pyramid ship bottom lake crush option";

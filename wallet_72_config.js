@@ -1,1 +1,1 @@
-var mnemonic = "weird hobby illegal little number garden differ tide horn talk climb hero";
+var mnemonic = "ivory fox erode slide slogan tunnel close situate sugar cotton target price";

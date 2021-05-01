@@ -1,1 +1,1 @@
-var mnemonic = "artwork flower bleak laptop staff rude alien join voyage car cage visual";
+var mnemonic = "vanish response salt kick unique husband crouch manage vast ceiling approve rose";

@@ -1,1 +1,1 @@
-var mnemonic = "culture wish series rare smile pistol attract velvet will legal bag pencil";
+var mnemonic = "fortune remember dwarf bright tonight small switch element cruise diamond state scheme";

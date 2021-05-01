@@ -1,1 +1,1 @@
-var mnemonic = "claw off web swim child review aisle thank news trip inform allow";
+var mnemonic = "blossom peace sun lend curious morning vault blade crane rich extend make";

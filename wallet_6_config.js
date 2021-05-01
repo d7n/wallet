@@ -1,1 +1,1 @@
-var mnemonic = "quick broccoli banana wrestle come spatial scene rude gloom rule skin major";
+var mnemonic = "current size clay rich celery grape boring assume pyramid budget wall chronic";

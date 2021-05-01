@@ -1,1 +1,1 @@
-var mnemonic = "slim trust soup bridge dove disagree trick noise country syrup adult always";
+var mnemonic = "kitchen issue couple era else once polar board ethics round ask radar";

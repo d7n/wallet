@@ -1,1 +1,1 @@
-var mnemonic = "output input reopen swim false exact fan clock tiger garden daring chair";
+var mnemonic = "volume pave fluid art photo gather pistol marriage cry suspect favorite lift";

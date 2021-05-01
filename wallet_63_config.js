@@ -1,1 +1,1 @@
-var mnemonic = "diagram arrest toe plate hurry neck notable surface cream pizza cool royal";
+var mnemonic = "tourist chapter there dust dune mom paper crucial kit scissors health feature";

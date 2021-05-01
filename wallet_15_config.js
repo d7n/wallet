@@ -1,1 +1,1 @@
-var mnemonic = "retire employ aim gas payment pipe praise enter time entry together man";
+var mnemonic = "budget december recall muffin romance saddle label bunker mountain cupboard hedgehog advance";

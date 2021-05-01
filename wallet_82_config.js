@@ -1,1 +1,1 @@
-var mnemonic = "quick kick source spring silly mechanic army desert airport boat rib fringe";
+var mnemonic = "remember secret lock prize scheme chest antique obscure leader fringe bronze famous";

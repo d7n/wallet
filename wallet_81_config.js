@@ -1,1 +1,1 @@
-var mnemonic = "frog group grid horror solution hawk earth prize busy clown record swear";
+var mnemonic = "egg ladder today flame phrase viable deny donor multiply abstract actor erosion";

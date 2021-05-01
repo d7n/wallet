@@ -1,1 +1,1 @@
-var mnemonic = "today remove lake galaxy mobile long lamp broken fade person dinosaur sustain";
+var mnemonic = "borrow legend chapter eye pass draft kit donor gas glad sunset syrup";

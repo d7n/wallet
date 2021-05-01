@@ -1,1 +1,1 @@
-var mnemonic = "cover club glove express club never crowd marine junior toe cargo glass";
+var mnemonic = "chicken eternal accuse oven forget bag cross vintage ghost excess shallow found";

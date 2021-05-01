@@ -1,1 +1,1 @@
-var mnemonic = "cake thought chaos voice seven prison warm all brush foil two range";
+var mnemonic = "scrub hair fiscal erosion ski bundle fork chest raven satisfy fish member";

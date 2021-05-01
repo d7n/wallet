@@ -1,1 +1,1 @@
-var mnemonic = "rich program picture side lunar math lift negative ivory taste wood toddler";
+var mnemonic = "nature pencil shiver sail burst cabbage shallow over crane safe album bus";

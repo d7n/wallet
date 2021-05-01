@@ -1,1 +1,1 @@
-var mnemonic = "squeeze praise teach rely love arctic damage surround obscure surprise park weekend";
+var mnemonic = "alert stadium venture copy short obey fetch awake village unhappy page mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "spring treat item drop employ raise stand festival fossil retreat region guess";
+var mnemonic = "lamp whip world sick erosion cup skill sorry indoor update dress duck";

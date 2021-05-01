@@ -1,1 +1,1 @@
-var mnemonic = "horn crunch quote life throw goat angle office board trend creek fog";
+var mnemonic = "sleep betray daughter obtain faith tonight hawk volcano bulb then design expand";

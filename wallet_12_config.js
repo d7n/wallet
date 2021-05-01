@@ -1,1 +1,1 @@
-var mnemonic = "quote million captain morning also pizza humor tool team crystal carry carpet";
+var mnemonic = "rough banana boil short ill deposit gossip reason unhappy jazz salon lazy";

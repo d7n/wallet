@@ -1,1 +1,1 @@
-var mnemonic = "repeat angry mandate check ring like fruit civil poverty later wrestle damp";
+var mnemonic = "turtle leopard vintage chalk pill any tail visa remind wheel stumble danger";

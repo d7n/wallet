@@ -1,1 +1,1 @@
-var mnemonic = "trip foil seek comic allow mesh float sausage horn crime alarm toy";
+var mnemonic = "abuse often much loud scare solid pass rent atom fire sell cabbage";

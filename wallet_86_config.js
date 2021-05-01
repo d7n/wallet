@@ -1,1 +1,1 @@
-var mnemonic = "else coin chaos image violin captain screen rail turtle antique eagle worth";
+var mnemonic = "solution edge wave combine bargain build announce there wolf erosion dice carbon";

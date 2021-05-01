@@ -1,1 +1,1 @@
-var mnemonic = "palace detail base lock say license pet rocket disagree exhibit purity antique";
+var mnemonic = "rescue march barely soon dawn hole crawl silent silver april resource motion";

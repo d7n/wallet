@@ -1,1 +1,1 @@
-var mnemonic = "stand harbor trim cram perfect cash cloud genre subject bright glow march";
+var mnemonic = "sheriff certain purity pass wife odor funny analyst runway update easy divide";

@@ -1,1 +1,1 @@
-var mnemonic = "brief critic cat era horse yellow awesome ancient cash burger tattoo rule";
+var mnemonic = "resource leader foil want dish jazz train phrase shove garage garden turn";

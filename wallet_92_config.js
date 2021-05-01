@@ -1,1 +1,1 @@
-var mnemonic = "purity velvet rich cheese antenna weekend opera latin adult young swift amused";
+var mnemonic = "velvet security boil sentence entry before express fat powder three abstract kitten";

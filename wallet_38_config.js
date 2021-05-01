@@ -1,1 +1,1 @@
-var mnemonic = "wife audit tooth rude palace taxi dose naive wild notice knife then";
+var mnemonic = "large churn fence success normal dune hello divorce parade account employ price";

@@ -1,1 +1,1 @@
-var mnemonic = "stock short text memory focus phrase flight spoil check man doctor penalty";
+var mnemonic = "slot finish fat category velvet empty extend cross age swim category arrive";

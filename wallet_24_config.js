@@ -1,1 +1,1 @@
-var mnemonic = "sunny gun essay icon conduct company purse inquiry census prefer flee focus";
+var mnemonic = "abandon path abandon define chuckle require axis candy renew gather twist inform";

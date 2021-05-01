@@ -1,1 +1,1 @@
-var mnemonic = "drift gift congress shield famous pudding help amazing midnight food kingdom dance";
+var mnemonic = "odor dog acid remain attack armor equal spare shell hundred junk bar";

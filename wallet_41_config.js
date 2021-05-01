@@ -1,1 +1,1 @@
-var mnemonic = "dice come market liberty silver despair carpet much combine dog hour fragile";
+var mnemonic = "maid humor hawk peanut cat gasp online february wolf chronic honey pass";

@@ -1,1 +1,1 @@
-var mnemonic = "march dinner exhibit ostrich enough loyal fox fiction absorb emotion keep glance";
+var mnemonic = "rack suffer vacant panda useful pretty actress cook diesel love horror tell";

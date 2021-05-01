@@ -1,1 +1,1 @@
-var mnemonic = "useful current worth employ tiny truck round person shallow audit inflict swing";
+var mnemonic = "chalk leg glove possible pledge decrease purpose improve grocery mouse service enrich";

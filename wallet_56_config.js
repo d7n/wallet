@@ -1,1 +1,1 @@
-var mnemonic = "rely swarm base welcome ticket title consider absent escape fetch sunny oak";
+var mnemonic = "chicken long comic bounce main boil bread vivid cheese impulse property mix";

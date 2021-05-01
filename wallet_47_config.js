@@ -1,1 +1,1 @@
-var mnemonic = "captain potato digital truly mammal choose panel pistol cable palace job faint";
+var mnemonic = "ahead high put whisper hint tuna typical visa promote trend armor cool";

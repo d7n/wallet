@@ -1,1 +1,1 @@
-var mnemonic = "trial alpha tone empower panic hill dismiss wide puppy creek must harbor";
+var mnemonic = "artist lamp collect town side catch brain knife transfer around remain strategy";

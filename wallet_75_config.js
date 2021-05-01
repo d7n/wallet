@@ -1,1 +1,1 @@
-var mnemonic = "gorilla force alert broken virtual bicycle agent vault matrix target lens brick";
+var mnemonic = "tip produce post bench parent siege coil truly detect either oyster short";

@@ -1,1 +1,1 @@
-var mnemonic = "water pottery candy husband potato piano file derive seminar check main bargain";
+var mnemonic = "force drip midnight giraffe give shed way art ball away enrich early";

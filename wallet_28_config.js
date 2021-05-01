@@ -1,1 +1,1 @@
-var mnemonic = "neck cluster brown flower crater tornado actor capital shuffle around weather federal";
+var mnemonic = "fee common cute dust lift hidden husband neutral tonight term tongue lawsuit";

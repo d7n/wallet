@@ -1,1 +1,1 @@
-var mnemonic = "swear blast minimum source faculty must since review solve burden ghost settle";
+var mnemonic = "mixture actress crack thunder kiss leisure beauty brisk small tape web cabin";

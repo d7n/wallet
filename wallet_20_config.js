@@ -1,1 +1,1 @@
-var mnemonic = "health ocean school stay charge cattle opera bargain odor swarm device valid";
+var mnemonic = "symptom parent oak knock surprise penalty flag legend same cliff ten tank";

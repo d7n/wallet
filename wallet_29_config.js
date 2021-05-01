@@ -1,1 +1,1 @@
-var mnemonic = "undo toe cannon claw retire discover sister input school cattle eager offer";
+var mnemonic = "glove advance engage farm eternal expire wedding bronze meadow find wool pelican";

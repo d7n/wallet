@@ -1,1 +1,1 @@
-var mnemonic = "tornado truck charge pig arrest ski year level neither apology turtle this";
+var mnemonic = "cash stick screen inmate reopen earn solid rescue holiday embrace frown bacon";

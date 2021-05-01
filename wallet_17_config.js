@@ -1,1 +1,1 @@
-var mnemonic = "banner screen hammer marriage give analyst video crew water key garbage tip";
+var mnemonic = "pass hobby term cannon answer sing mistake error furnace warrior depth clutch";

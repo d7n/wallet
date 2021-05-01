@@ -1,1 +1,1 @@
-var mnemonic = "cycle three trick deputy lottery garment trap zoo tide skirt spider inquiry";
+var mnemonic = "scare guitar twin minimum deer fine defy barely faint salon fiber cradle";

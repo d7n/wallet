@@ -1,1 +1,1 @@
-var mnemonic = "train flag donate visa annual shop deposit kiwi walnut animal aerobic velvet";
+var mnemonic = "viable orphan select road credit eight village crime sadness speed spin online";

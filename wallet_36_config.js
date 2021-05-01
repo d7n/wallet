@@ -1,1 +1,1 @@
-var mnemonic = "prosper whip cage envelope crack possible scorpion away kite luxury above peanut";
+var mnemonic = "giraffe still utility token forward fantasy artist tragic oval merge tourist slush";

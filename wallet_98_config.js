@@ -1,1 +1,1 @@
-var mnemonic = "eager live doll siren inhale worry brick bone same thing doctor viable";
+var mnemonic = "glue duty swim range melt know use join civil object impose snap";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic sugar road cage state fetch panic monster liberty sport pony rebuild";
+var mnemonic = "dolphin town miss cool dove method trick often isolate ginger material worry";

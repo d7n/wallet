@@ -1,1 +1,1 @@
-var mnemonic = "final chicken foster vanish all such prepare jealous inform arch toast jaguar";
+var mnemonic = "either barrel child lumber pair category wedding maximum roast choose chair wage";

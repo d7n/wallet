@@ -1,1 +1,1 @@
-var mnemonic = "mule december link voice mom forward churn bleak hub opinion spatial desk";
+var mnemonic = "good extend system soon mosquito depart twice during despair tiny piece gesture";

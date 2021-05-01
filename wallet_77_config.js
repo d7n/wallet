@@ -1,1 +1,1 @@
-var mnemonic = "mention police speed dance mule visit window machine mystery dose system own";
+var mnemonic = "universe perfect diet ill bronze kit cereal account point donor clinic snow";

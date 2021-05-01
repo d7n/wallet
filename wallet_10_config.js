@@ -1,1 +1,1 @@
-var mnemonic = "social antenna tilt champion thank speak legend eyebrow swing word love begin";
+var mnemonic = "basket crater derive cup thank insane future crater ecology feed chat alien";

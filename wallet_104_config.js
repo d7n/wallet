@@ -1,1 +1,1 @@
-var mnemonic = "bean sad rib glory urge monster fluid afraid swap buffalo vast boost";
+var mnemonic = "sadness parade welcome rare equip race bargain reject clog mad margin ice";

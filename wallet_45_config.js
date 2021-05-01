@@ -1,1 +1,1 @@
-var mnemonic = "flower bus toss sleep pudding ethics increase host soul foot harbor despair";
+var mnemonic = "unfair stamp pupil canal rose century shrimp bamboo wrong busy punch slush";

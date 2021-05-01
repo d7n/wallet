@@ -1,1 +1,1 @@
-var mnemonic = "verify elite raven tiny depart door drip saddle violin subway crouch case";
+var mnemonic = "issue food depart elder pole heart ridge pause hungry forest defense vicious";

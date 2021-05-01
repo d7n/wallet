@@ -1,1 +1,1 @@
-var mnemonic = "hard review era outside ready foam spawn hurry flush index now below";
+var mnemonic = "sleep cage shiver genuine fun finish client during among nerve prepare nut";

@@ -1,1 +1,1 @@
-var mnemonic = "mule relief camera badge reflect scare square airport message thrive cost mix";
+var mnemonic = "green cricket rally gas dinner dad stand wheel zero attract valve index";

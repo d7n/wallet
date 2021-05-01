@@ -1,1 +1,1 @@
-var mnemonic = "gym merit shallow link category ticket arch cactus floor famous stumble acoustic";
+var mnemonic = "remember olympic snack fatal harsh zebra vehicle garage sword borrow inhale view";

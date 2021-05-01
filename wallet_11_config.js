@@ -1,1 +1,1 @@
-var mnemonic = "entire beauty journey addict noodle disagree next volcano sort alert armed together";
+var mnemonic = "taste quiz problem payment crater head sunset nut change toilet shift pelican";

@@ -1,1 +1,1 @@
-var mnemonic = "maid story ankle profit celery guard parade detail come peasant grit argue";
+var mnemonic = "mirror choose emerge buffalo enemy buddy arch coconut history citizen glad mix";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan afraid nothing topic throw bus they enlist swap beach color knock";
+var mnemonic = "buzz hobby enhance appear tent property crater october museum ahead donkey plastic";

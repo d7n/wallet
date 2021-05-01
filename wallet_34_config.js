@@ -1,1 +1,1 @@
-var mnemonic = "skirt spice abuse crucial volcano zero foot miss december deputy dove route";
+var mnemonic = "code various smooth later lumber frost crop entire early engine remain machine";

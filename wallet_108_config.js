@@ -1,1 +1,1 @@
-var mnemonic = "disease robust waste boring topple maximum mouse tell vocal embrace vault suffer";
+var mnemonic = "width day tired taxi sunny cargo bitter easily useful cost degree virtual";

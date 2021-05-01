@@ -1,1 +1,1 @@
-var mnemonic = "concert mind goat mango entire antenna news addict hole bleak family boat";
+var mnemonic = "mimic plunge jacket shallow permit bean purity bone steel exact vibrant wrong";

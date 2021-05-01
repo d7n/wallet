@@ -1,1 +1,1 @@
-var mnemonic = "warm need enforce inject note uncover reveal possible neutral cushion dad language";
+var mnemonic = "define address armed shift pioneer best team portion tissue kid stage dumb";

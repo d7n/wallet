@@ -1,1 +1,1 @@
-var mnemonic = "pilot auction mobile purchase shop brand girl fresh element member loan theme";
+var mnemonic = "float paddle shine soap garlic spider recipe wisdom laugh sting hundred silk";

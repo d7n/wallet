@@ -1,1 +1,1 @@
-var mnemonic = "ramp deputy any sure priority arm example athlete border meat skill scout";
+var mnemonic = "hammer drama tail ability park before lemon unusual core quit husband wrist";

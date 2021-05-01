@@ -1,1 +1,1 @@
-var mnemonic = "claw clown suggest seven picture snake arch issue van jewel pilot pool";
+var mnemonic = "success saddle hip balance auction more warfare trial cinnamon fatigue regular mention";

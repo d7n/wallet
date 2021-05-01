@@ -1,1 +1,1 @@
-var mnemonic = "junior case crew soccer merit antenna section juice endorse lunar type holiday";
+var mnemonic = "auction legal copper visual total flame man rail snack same oval valley";

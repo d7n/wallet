@@ -1,1 +1,1 @@
-var mnemonic = "tonight hurdle century hospital ill decade fancy welcome educate toward clarify delay";
+var mnemonic = "gossip coin settle inside swim demand flower bid slice suspect slogan tower";

@@ -1,1 +1,1 @@
-var mnemonic = "private capable asthma cook arrange pencil deliver van dilemma uncle casual ensure";
+var mnemonic = "equip audit pig level borrow shoulder diesel author nothing damp knife memory";

@@ -1,1 +1,1 @@
-var mnemonic = "guard escape uphold crunch cause among elegant among double fit member risk";
+var mnemonic = "decide cage memory brass abandon sphere install pledge fee hand shoe ladder";

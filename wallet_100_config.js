@@ -1,1 +1,1 @@
-var mnemonic = "health trend immune dentist used pattern sheriff stock make rack width off";
+var mnemonic = "fiction bright confirm brand soft clutch unfair chair vibrant history ritual menu";

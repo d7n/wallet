@@ -1,1 +1,1 @@
-var mnemonic = "cruel odor chaos pair dial burst valley fire auto weather royal nerve";
+var mnemonic = "hub sugar amateur piano fiction boring change digital vault vessel paddle guess";
