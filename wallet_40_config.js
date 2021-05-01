@@ -1,1 +1,1 @@
-var mnemonic = "intact judge senior memory answer diary inform stereo path lock sing dune";
+var mnemonic = "essence worth spare steak drum vocal urge copy accident safe manage mixture";

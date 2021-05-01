@@ -1,1 +1,1 @@
-var mnemonic = "bid flock latin crush index deny fan ankle promote soldier easy universe";
+var mnemonic = "claw report dizzy laptop field drum toward push night art echo blossom";

@@ -1,1 +1,1 @@
-var mnemonic = "trip orbit pitch lab affair among swim royal filter anxiety real want";
+var mnemonic = "connect impulse friend dwarf review reject else blossom alley rail creek ribbon";

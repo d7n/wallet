@@ -1,1 +1,1 @@
-var mnemonic = "window flat educate clay light among absorb slight federal off odor drip";
+var mnemonic = "sunny recycle shoot assault grace later source fix portion employ spike absorb";

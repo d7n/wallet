@@ -1,1 +1,1 @@
-var mnemonic = "other faint side rate truck enrich hurt destroy poem between medal buffalo";
+var mnemonic = "rubber swift leave custom episode stem muscle tissue prize possible update warm";

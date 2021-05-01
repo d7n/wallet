@@ -1,1 +1,1 @@
-var mnemonic = "desk pact please race jazz cruise develop wall aisle vague tongue grid";
+var mnemonic = "peace mistake mutual deposit soccer minimum tank afford adapt dismiss agree solid";

@@ -1,1 +1,1 @@
-var mnemonic = "flame insect ginger tiny drill scorpion cancel angle lyrics split brush state";
+var mnemonic = "pelican invite idle sweet trust phone grace open poem rug allow civil";

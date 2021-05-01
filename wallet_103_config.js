@@ -1,1 +1,1 @@
-var mnemonic = "raise come nuclear game bulb false aspect chimney fun ridge word business";
+var mnemonic = "live sustain culture sibling figure clean among rifle trigger custom test receive";

@@ -1,1 +1,1 @@
-var mnemonic = "nuclear carbon clutch leg vague creek meat network salute embark pitch spin";
+var mnemonic = "leg cook pulse used asset useless step seven agree raise local element";

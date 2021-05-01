@@ -1,1 +1,1 @@
-var mnemonic = "little debris farm obscure lawn smooth put open law toy expire minor";
+var mnemonic = "stage model cargo bundle blood either awkward spray private fatigue jar kangaroo";

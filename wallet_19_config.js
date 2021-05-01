@@ -1,1 +1,1 @@
-var mnemonic = "hope rally tide rival rice squeeze unfold gas capable cigar verify squeeze";
+var mnemonic = "adult space quote twice pudding build blue initial minor ramp cake airport";

@@ -1,1 +1,1 @@
-var mnemonic = "program zero noble field bachelor misery cash six huge modify hunt salad";
+var mnemonic = "forest shuffle cruel regular multiply stick typical cube copper april illegal coyote";

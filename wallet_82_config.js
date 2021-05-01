@@ -1,1 +1,1 @@
-var mnemonic = "rain old resemble spare obey immune torch room know ordinary guess nation";
+var mnemonic = "whip machine stable grace thrive replace spawn release seat melody menu side";

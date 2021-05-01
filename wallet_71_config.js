@@ -1,1 +1,1 @@
-var mnemonic = "hazard rural nice category spoon stool hope close notice scare reason jealous";
+var mnemonic = "turn rail crystal ship picnic obtain budget crystal captain hat rib rival";

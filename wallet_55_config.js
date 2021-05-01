@@ -1,1 +1,1 @@
-var mnemonic = "jelly reflect depart fit immense pistol update place clean imitate alarm circle";
+var mnemonic = "distance reform vocal sketch boost make federal frame anxiety size voyage blouse";

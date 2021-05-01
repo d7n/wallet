@@ -1,1 +1,1 @@
-var mnemonic = "orchard math search almost glide tray jewel number cave rhythm detect acquire";
+var mnemonic = "window used possible tilt rabbit birth pitch enter riot someone large hidden";

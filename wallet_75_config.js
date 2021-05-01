@@ -1,1 +1,1 @@
-var mnemonic = "giant census cube stage breeze distance news verify honey toddler cluster beyond";
+var mnemonic = "scale defense book popular trim observe love output example submit convince over";

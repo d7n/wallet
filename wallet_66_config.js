@@ -1,1 +1,1 @@
-var mnemonic = "trash check liquid buyer right equal approve napkin drink sport library prevent";
+var mnemonic = "neglect tray great recall glance alcohol lemon segment swift wear tomorrow doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "grief fog fashion honey apart record airport rose second ozone winner worth";
+var mnemonic = "hotel hungry satoshi they hockey table one excite pepper awkward other squirrel";

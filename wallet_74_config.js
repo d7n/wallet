@@ -1,1 +1,1 @@
-var mnemonic = "embrace tuna staff under model flat skirt uniform romance that arctic lazy";
+var mnemonic = "potato yellow grunt tunnel core faculty wide glide radio few must wool";

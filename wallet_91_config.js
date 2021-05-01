@@ -1,1 +1,1 @@
-var mnemonic = "install plastic panther oil morning clarify elder breeze waste nasty drill toast";
+var mnemonic = "melody bitter cave comfort kingdom mango clock help slice tent poverty upset";

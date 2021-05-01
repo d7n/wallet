@@ -1,1 +1,1 @@
-var mnemonic = "outside conduct rapid champion addict fee push pigeon refuse west comic there";
+var mnemonic = "repair hello soda mercy miss lamp cool replace boring ethics fatigue tooth";

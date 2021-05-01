@@ -1,1 +1,1 @@
-var mnemonic = "crowd moment soul other prevent wonder heart system service derive order illness";
+var mnemonic = "honey liberty guess kick bread this veteran tackle share river art kidney";

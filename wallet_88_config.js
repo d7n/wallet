@@ -1,1 +1,1 @@
-var mnemonic = "chair nasty mix multiply innocent blame social wool artwork match diesel tennis";
+var mnemonic = "isolate emerge again opera owner avoid party film violin eagle dirt small";

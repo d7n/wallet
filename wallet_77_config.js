@@ -1,1 +1,1 @@
-var mnemonic = "success bronze olympic exhibit search trade frown enter narrow panel key prevent";
+var mnemonic = "jungle kiss laundry carry squeeze book party real hint motion motor number";

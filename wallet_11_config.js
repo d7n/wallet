@@ -1,1 +1,1 @@
-var mnemonic = "rice ocean entire scrap girl pizza cloth table key sample forget poverty";
+var mnemonic = "north affair return faith pluck start allow inhale gap merit exotic monitor";

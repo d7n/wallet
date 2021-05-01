@@ -1,1 +1,1 @@
-var mnemonic = "human boring aware soup diagram vicious juice spice field wood elevator play";
+var mnemonic = "track skin involve prepare merit main eight seed screen faculty drama submit";

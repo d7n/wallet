@@ -1,1 +1,1 @@
-var mnemonic = "acid iron print toilet inquiry open predict bronze slush segment public quality";
+var mnemonic = "panic lend hospital fame label poem always alert fury memory victory boring";

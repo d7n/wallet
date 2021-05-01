@@ -1,1 +1,1 @@
-var mnemonic = "tragic olympic theme expect drink analyst mule cycle suspect claim almost spider";
+var mnemonic = "travel sing bleak expose answer cricket enlist journey one honey addict horror";

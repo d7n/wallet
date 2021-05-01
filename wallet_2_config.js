@@ -1,1 +1,1 @@
-var mnemonic = "finish believe luggage chief hotel evil gift sea engage lizard crew artefact";
+var mnemonic = "wink misery stand labor sorry sphere join casual poverty drift crane sister";

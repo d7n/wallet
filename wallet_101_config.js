@@ -1,1 +1,1 @@
-var mnemonic = "note ice zebra type clutch dance another junk recall payment frog silk";
+var mnemonic = "animal clay bachelor blade script lyrics repair name day stage warrior wet";

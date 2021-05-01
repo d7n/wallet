@@ -1,1 +1,1 @@
-var mnemonic = "duck glow maximum battle solid frown hundred later tourist intact stove cricket";
+var mnemonic = "circle vicious barely physical vivid trouble view follow stage junk saddle shadow";

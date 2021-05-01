@@ -1,1 +1,1 @@
-var mnemonic = "plastic canal earn task fortune time car fly mango own shallow tennis";
+var mnemonic = "next town romance dirt version throw angle trip arch hip snap refuse";

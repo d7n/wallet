@@ -1,1 +1,1 @@
-var mnemonic = "rug enrich rebuild mobile people panel animal manual miss rule spatial grab";
+var mnemonic = "pig travel page truth effort helmet salt luxury ethics grass under hedgehog";

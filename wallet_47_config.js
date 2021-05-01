@@ -1,1 +1,1 @@
-var mnemonic = "century stone humor desk become naive illness speed spoil august try ready";
+var mnemonic = "hollow start become insect time huge abstract wet slice breeze struggle rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "wage that service globe section unveil innocent gallery hard mass december base";
+var mnemonic = "planet eager eagle sleep satoshi funny stove emerge private one inject hub";

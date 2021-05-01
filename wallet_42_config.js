@@ -1,1 +1,1 @@
-var mnemonic = "walnut sing physical issue mobile setup disagree virtual come other know opinion";
+var mnemonic = "slot owner prevent attract winter raven type wall patch cricket private lab";

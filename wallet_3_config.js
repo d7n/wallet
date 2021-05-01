@@ -1,1 +1,1 @@
-var mnemonic = "axis illegal receive tragic child wash gold into vivid breeze fetch patrol";
+var mnemonic = "reason taste usage muscle moon youth day crash chief inside woman patch";

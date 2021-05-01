@@ -1,1 +1,1 @@
-var mnemonic = "quote hair enjoy fish april nation stereo analyst swarm power afford achieve";
+var mnemonic = "connect spice sing grant order ensure cement cash demand wrap defense brown";

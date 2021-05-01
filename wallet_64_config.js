@@ -1,1 +1,1 @@
-var mnemonic = "wave coral convince used distance tip spoon pupil era dentist jewel armor";
+var mnemonic = "grunt draft female garage surprise silver punch quit first hurry crew dance";

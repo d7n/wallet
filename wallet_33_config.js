@@ -1,1 +1,1 @@
-var mnemonic = "render notice crop toilet visit unable lend hidden sister inmate hint audit";
+var mnemonic = "sudden beauty leader napkin moment right give radio winter labor around use";

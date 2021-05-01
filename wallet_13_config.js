@@ -1,1 +1,1 @@
-var mnemonic = "atom all morning opera fossil today enemy any course account observe giant";
+var mnemonic = "lecture turn glimpse inner pony seed bundle harsh medal cute half under";

@@ -1,1 +1,1 @@
-var mnemonic = "cheese civil clown bargain text brisk vacant joy resource artefact awful flavor";
+var mnemonic = "dream spike gun vote cement purpose erosion walnut apology nasty air sleep";

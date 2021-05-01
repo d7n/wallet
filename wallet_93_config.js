@@ -1,1 +1,1 @@
-var mnemonic = "shy wreck blast bonus educate lobster kit apology basket banana protect vault";
+var mnemonic = "sail candy jacket benefit rhythm wreck inside coconut robot library drive thought";

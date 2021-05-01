@@ -1,1 +1,1 @@
-var mnemonic = "soda canal dilemma peanut swamp later picnic wall document crystal frost since";
+var mnemonic = "summer march price cost essence drop shell fitness luggage shadow acquire icon";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper debris artist lobster body flash liquid time original hat fluid grunt";
+var mnemonic = "portion evidence garbage bunker call letter romance brisk used hero net hat";

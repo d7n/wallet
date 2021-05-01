@@ -1,1 +1,1 @@
-var mnemonic = "key drill giraffe random style owner magic father athlete tone grid truth";
+var mnemonic = "senior arch stove chalk empty stamp pilot chapter fragile control hunt sight";

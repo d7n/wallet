@@ -1,1 +1,1 @@
-var mnemonic = "document icon tube torch crack either hungry bar thunder eager enough piano";
+var mnemonic = "poverty team bind mean airport guess chat chief comfort iron rapid credit";

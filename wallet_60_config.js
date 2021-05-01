@@ -1,1 +1,1 @@
-var mnemonic = "wheat hurdle latin any basket patch judge maze fruit hood glue mechanic";
+var mnemonic = "thunder tonight attend old birth harbor kidney boy dinosaur begin nephew window";

@@ -1,1 +1,1 @@
-var mnemonic = "involve fall keep rib inspire bubble fit decline violin goose else depart";
+var mnemonic = "mesh winter still ring seed ridge crime inject inquiry valid bar combine";

@@ -1,1 +1,1 @@
-var mnemonic = "street garlic dust game vendor ankle supply depart window unhappy okay police";
+var mnemonic = "awkward volume kid avocado credit include main access wing remember doctor twin";

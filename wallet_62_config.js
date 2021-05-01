@@ -1,1 +1,1 @@
-var mnemonic = "decide own scissors behind echo ranch useful wrist same forest hat sport";
+var mnemonic = "crunch dizzy fish dinner brush try helmet safe crumble talk orbit ozone";

@@ -1,1 +1,1 @@
-var mnemonic = "magic birth army awful when witness ski cruel broken shrimp kick lobster";
+var mnemonic = "appear sauce river message task sense behind upper glove buyer arrive clock";

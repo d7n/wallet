@@ -1,1 +1,1 @@
-var mnemonic = "picture spider design duck cinnamon armor drum aspect side enhance child nose";
+var mnemonic = "bird attack flag stairs elite provide evidence seed connect phone mesh cheese";

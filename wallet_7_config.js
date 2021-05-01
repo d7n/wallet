@@ -1,1 +1,1 @@
-var mnemonic = "young thing blood clerk good rural retreat vital join fabric goose mistake";
+var mnemonic = "miss cycle shoe like cotton orphan elevator prosper ride pitch glow that";

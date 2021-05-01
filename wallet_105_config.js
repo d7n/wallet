@@ -1,1 +1,1 @@
-var mnemonic = "urban month doctor wreck rain palm else era inherit trouble cover region";
+var mnemonic = "impact dog sketch excess soda describe connect umbrella misery hobby genuine possible";

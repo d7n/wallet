@@ -1,1 +1,1 @@
-var mnemonic = "practice will link art imitate draft drift trigger phone expect card left";
+var mnemonic = "frog drama client choice unfold garbage brain fragile orphan dust nerve switch";

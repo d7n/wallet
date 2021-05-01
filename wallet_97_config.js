@@ -1,1 +1,1 @@
-var mnemonic = "happy shoot regular orchard summer expect fun bench sponsor cherry fiscal swift";
+var mnemonic = "snap upon deny churn actor glass foil company bring verify anxiety matter";

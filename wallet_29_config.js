@@ -1,1 +1,1 @@
-var mnemonic = "title gallery sponsor point scale despair spin slice catalog monster garbage vocal";
+var mnemonic = "rough retire shallow chicken reduce hello elegant palace merit peace subject giant";

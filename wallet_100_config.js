@@ -1,1 +1,1 @@
-var mnemonic = "prepare illness story glue run special proud risk town harvest case awful";
+var mnemonic = "under unhappy judge neutral differ unfold then final example income violin uncover";

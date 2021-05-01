@@ -1,1 +1,1 @@
-var mnemonic = "unit hood rich cave hedgehog wire interest reveal deer science wish wonder";
+var mnemonic = "then slow toilet people deposit conduct jump carbon uncle focus trumpet off";

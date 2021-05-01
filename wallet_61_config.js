@@ -1,1 +1,1 @@
-var mnemonic = "trend monster net bike zero fan ready card turkey borrow civil affair";
+var mnemonic = "garlic custom audit actress math reunion panic convince claw tackle clock april";

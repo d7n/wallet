@@ -1,1 +1,1 @@
-var mnemonic = "tower episode author mind liberty garbage source vapor hollow pitch copy olympic";
+var mnemonic = "blush legal slight shoulder sponsor medal version pupil bounce hurdle general tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "plug reunion bench gauge toss celery tobacco faint latin seed candy rose";
+var mnemonic = "pretty orbit crash bitter meadow case round ten faculty define gift camera";

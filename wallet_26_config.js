@@ -1,1 +1,1 @@
-var mnemonic = "bag position trick camera beyond collect junk bless double buffalo worry stereo";
+var mnemonic = "axis churn just lens aunt close huge lottery extend bread garage impulse";

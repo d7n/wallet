@@ -1,1 +1,1 @@
-var mnemonic = "detect output doctor nice swift mistake armed arrow arrive hockey huge leisure";
+var mnemonic = "reject cancel aisle absorb bread achieve swarm morning art solar fashion drama";

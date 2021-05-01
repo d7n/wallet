@@ -1,1 +1,1 @@
-var mnemonic = "demise glance frown save taste muffin banana media local cheap jealous upon";
+var mnemonic = "credit raise cube phone garment alpha mosquito swing manual hen long raise";

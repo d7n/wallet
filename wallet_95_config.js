@@ -1,1 +1,1 @@
-var mnemonic = "exhaust scale coach hammer sniff cause gather friend lab urban arrange scan";
+var mnemonic = "scatter soul enrich scheme absurd lab logic doll strategy hungry clerk naive";

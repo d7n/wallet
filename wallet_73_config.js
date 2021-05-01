@@ -1,1 +1,1 @@
-var mnemonic = "basket fitness soon sibling phone access number cereal hat sign price wreck";
+var mnemonic = "huge panel plastic praise eternal turkey merge raccoon calm seat net lyrics";

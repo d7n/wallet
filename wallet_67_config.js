@@ -1,1 +1,1 @@
-var mnemonic = "fruit retire obtain media room bracket album target weekend cushion view ignore";
+var mnemonic = "grass grid position label river ozone mom meat elegant insane envelope capable";

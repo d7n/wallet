@@ -1,1 +1,1 @@
-var mnemonic = "siege example elder spider gold swift document amused visit hole fix message";
+var mnemonic = "chat possible hawk pole power evil report earth alien south vanish chaos";

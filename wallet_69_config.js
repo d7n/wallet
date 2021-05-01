@@ -1,1 +1,1 @@
-var mnemonic = "cool season depart cram robot scatter old then bunker breeze enjoy arena";
+var mnemonic = "water arctic supreme catalog pretty actual attitude clump carbon approve simple swap";

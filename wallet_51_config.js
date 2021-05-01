@@ -1,1 +1,1 @@
-var mnemonic = "volume naive maximum skull sea frequent awesome situate frame year provide speed";
+var mnemonic = "fury unknown faculty desk pool cake stage isolate comic noodle victory source";

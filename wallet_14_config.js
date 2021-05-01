@@ -1,1 +1,1 @@
-var mnemonic = "regret bid unhappy renew immense avocado charge stick female expect brisk fault";
+var mnemonic = "cause jeans ozone beach output average easy wheel purse profit about own";

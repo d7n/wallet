@@ -1,1 +1,1 @@
-var mnemonic = "bless spread uniform adapt vote submit first brick frost hurdle elder melt";
+var mnemonic = "winter tuition impact quality siege zebra track metal tourist health royal gallery";

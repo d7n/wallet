@@ -1,1 +1,1 @@
-var mnemonic = "armed weather pony gun lava prosper income alley test swing brother armed";
+var mnemonic = "please enable fat frame future increase start adjust topple rail legal civil";

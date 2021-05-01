@@ -1,1 +1,1 @@
-var mnemonic = "lyrics dutch lemon mobile control upgrade glass catch finger noble tongue wedding";
+var mnemonic = "copper peace cattle charge picture build explain deputy common shell smile hedgehog";

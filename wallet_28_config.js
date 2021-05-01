@@ -1,1 +1,1 @@
-var mnemonic = "mystery tuition thrive veteran pigeon winner endorse spare dismiss menu more lesson";
+var mnemonic = "economy alter stamp critic asthma canyon acquire exhaust club favorite calm device";

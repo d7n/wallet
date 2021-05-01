@@ -1,1 +1,1 @@
-var mnemonic = "rice legend dwarf depend legend art tiger upset gas clip mango know";
+var mnemonic = "chapter border adapt alert dizzy task bubble awful exact refuse spawn corn";

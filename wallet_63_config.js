@@ -1,1 +1,1 @@
-var mnemonic = "castle someone just episode garden diet bullet usual stand bus hurdle soft";
+var mnemonic = "concert way ethics sentence lizard grit approve cable item employ rigid lonely";

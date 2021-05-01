@@ -1,1 +1,1 @@
-var mnemonic = "glance core exotic bundle gap erase invite canal stove still table confirm";
+var mnemonic = "collect catch embark verb balance excuse imitate cook warm pole keen space";

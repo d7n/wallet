@@ -1,1 +1,1 @@
-var mnemonic = "tobacco latin able vacant buddy broken leisure drive tornado winter mean asthma";
+var mnemonic = "hidden little eager survey civil equip battle length inhale open business proof";

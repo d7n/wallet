@@ -1,1 +1,1 @@
-var mnemonic = "payment control elder merit flat bring captain wolf march tragic state zero";
+var mnemonic = "course round coil oven essay swift intact toss hobby mimic renew verify";

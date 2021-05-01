@@ -1,1 +1,1 @@
-var mnemonic = "inflict knee moon husband praise crazy exact abstract ignore urban disagree almost";
+var mnemonic = "amused ice science muffin mouse dad reflect sorry business venture dog moment";

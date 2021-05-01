@@ -1,1 +1,1 @@
-var mnemonic = "bargain top spider vintage foster theory enjoy galaxy half embody chapter hurt";
+var mnemonic = "daring volume poet erupt leader join boat pet story wasp mesh sick";

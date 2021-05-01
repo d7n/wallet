@@ -1,1 +1,1 @@
-var mnemonic = "humble evolve parade peace stadium token doctor car minimum art wrap meadow";
+var mnemonic = "december payment eyebrow interest subject want text diary adapt slot roof cheese";

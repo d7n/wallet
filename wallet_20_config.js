@@ -1,1 +1,1 @@
-var mnemonic = "goat moral gospel else idea fork dumb custom laundry frown art shaft";
+var mnemonic = "sad market smooth glow injury juice blind design gun true manual answer";

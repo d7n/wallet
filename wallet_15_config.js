@@ -1,1 +1,1 @@
-var mnemonic = "badge fall addict beach eagle innocent plunge gadget file unaware wall ginger";
+var mnemonic = "verb hotel equal setup topic hero transfer tonight vote survey across festival";

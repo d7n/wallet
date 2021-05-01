@@ -1,1 +1,1 @@
-var mnemonic = "front tide tent tragic flash ordinary virus mesh ask together country finish";
+var mnemonic = "fish business relief rice rent stereo winter stem shiver there luxury gap";

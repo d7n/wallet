@@ -1,1 +1,1 @@
-var mnemonic = "claw someone knee gallery slight session return vocal main faint plug cable";
+var mnemonic = "pistol round bargain rich again flag dove sudden galaxy mail rent mule";

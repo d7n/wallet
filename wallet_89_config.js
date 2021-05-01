@@ -1,1 +1,1 @@
-var mnemonic = "fringe insane fiber parent cross loyal announce carbon fiction reflect lounge below";
+var mnemonic = "steel rice impulse dwarf cup ask oblige uncle settle wedding stick dry";

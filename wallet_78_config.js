@@ -1,1 +1,1 @@
-var mnemonic = "kite neglect chuckle dizzy awkward cigar choice omit consider stone view trouble";
+var mnemonic = "lady neutral estate hero unfair unable blame describe bar camera crop gift";

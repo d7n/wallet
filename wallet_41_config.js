@@ -1,1 +1,1 @@
-var mnemonic = "crane release peace risk sibling stage dial joke art vocal school sauce";
+var mnemonic = "blame scene elbow online soul popular rich lounge parent acquire dash hour";
