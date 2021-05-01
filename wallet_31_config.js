@@ -1,1 +1,1 @@
-var mnemonic = "kitten utility april blush bunker negative sponsor crash pen deposit april stairs";
+var mnemonic = "future fatigue proof strike theme myth creek fashion until hour mixed keep";

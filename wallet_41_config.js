@@ -1,1 +1,1 @@
-var mnemonic = "wealth taxi auto demise citizen ahead arena desert office initial truck slot";
+var mnemonic = "boost defense thrive heart duck economy escape one burst sad purity noble";

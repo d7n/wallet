@@ -1,1 +1,1 @@
-var mnemonic = "habit curious visit position timber item siren ancient chunk toy couple funny";
+var mnemonic = "parade scale firm palace tail hundred iron crater dignity siege vapor damp";

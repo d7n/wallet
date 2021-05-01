@@ -1,1 +1,1 @@
-var mnemonic = "help sibling quiz safe vehicle alpha glass cruel orient west hammer belt";
+var mnemonic = "hero glove alcohol sail tell regular globe chalk must mask burden ridge";

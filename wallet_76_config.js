@@ -1,1 +1,1 @@
-var mnemonic = "gown dignity gossip sure sniff clog that please damage citizen battle choice";
+var mnemonic = "bargain acoustic swift yellow fossil increase adult trophy inform vault scissors clog";

@@ -1,1 +1,1 @@
-var mnemonic = "angry expire frown dawn treat item equal daring strategy where valve subject";
+var mnemonic = "decade rookie country shell boy sleep solid owner atom boat open budget";

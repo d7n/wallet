@@ -1,1 +1,1 @@
-var mnemonic = "major pole index wait love rural change scan bronze puzzle inspire slim";
+var mnemonic = "item crane attend force civil clutch guilt merge april yard catalog aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "surge because cruise vessel sleep unit organ output voyage history stem fever";
+var mnemonic = "surge action attack maid swarm family loan slight payment juice school loan";

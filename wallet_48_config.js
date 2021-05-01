@@ -1,1 +1,1 @@
-var mnemonic = "attract combine salon umbrella tool movie scheme common enact topple proof noodle";
+var mnemonic = "satoshi gather disorder erode file sand legal puppy travel lobster illegal soldier";

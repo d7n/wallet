@@ -1,1 +1,1 @@
-var mnemonic = "suit couple color shock mosquito toward already wrap click fix bind pool";
+var mnemonic = "fitness ahead mad scale cricket orphan casual case flat cover rail spice";

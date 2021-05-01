@@ -1,1 +1,1 @@
-var mnemonic = "later unfold balcony deliver misery uphold recipe rough copy grid hurry oval";
+var mnemonic = "curve benefit voice dash cave reunion viable actress eagle future among fringe";

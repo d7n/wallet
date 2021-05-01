@@ -1,1 +1,1 @@
-var mnemonic = "rural swarm cause daring survey panther apart order direct post subway cloth";
+var mnemonic = "horn kid lava auction artwork trash drink appear manual pink loan hard";

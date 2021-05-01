@@ -1,1 +1,1 @@
-var mnemonic = "sauce over plastic donkey vehicle suffer laugh domain account ordinary before early";
+var mnemonic = "basic coil bonus mention elegant obtain brave life improve airport attend wise";

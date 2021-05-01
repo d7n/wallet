@@ -1,1 +1,1 @@
-var mnemonic = "differ olive various razor text guide bottom control great odor resource joke";
+var mnemonic = "venue element option ivory forget poem curve comfort question client exotic keen";

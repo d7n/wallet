@@ -1,1 +1,1 @@
-var mnemonic = "rocket lava cup bread trust vault visual nominee demand drama police short";
+var mnemonic = "outside pudding cricket kitchen shed suspect miss dismiss hat purity much clutch";

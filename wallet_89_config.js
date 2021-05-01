@@ -1,1 +1,1 @@
-var mnemonic = "kitchen various hungry main joy better seat thank engine mushroom solution hockey";
+var mnemonic = "major choose sudden label thank prepare guilt permit erosion budget art pause";

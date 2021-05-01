@@ -1,1 +1,1 @@
-var mnemonic = "butter salt vintage magic biology cloud nominee firm since magnet army dentist";
+var mnemonic = "oxygen long exact cinnamon square limit clerk level dash shiver crane output";

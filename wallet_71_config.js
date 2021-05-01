@@ -1,1 +1,1 @@
-var mnemonic = "aspect try piano limit family body shadow order range cushion student review";
+var mnemonic = "virus organ palm siren weird mention lesson apology sock armor curtain skin";

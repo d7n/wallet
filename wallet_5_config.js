@@ -1,1 +1,1 @@
-var mnemonic = "simple day duty state hidden shadow area era media envelope space develop";
+var mnemonic = "drum chief vast chunk energy tray exclude salmon honey mule want when";

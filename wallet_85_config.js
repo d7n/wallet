@@ -1,1 +1,1 @@
-var mnemonic = "urban welcome manual possible visual regret vintage dune industry nephew gospel again";
+var mnemonic = "monster income elephant canyon inner guess vessel jewel return foster entire leopard";

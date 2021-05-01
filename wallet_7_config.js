@@ -1,1 +1,1 @@
-var mnemonic = "movie drill casino explain thing ugly universe basket chalk around wise demise";
+var mnemonic = "soldier bean glory virtual dust picture apple state sad humor draft clean";

@@ -1,1 +1,1 @@
-var mnemonic = "myself okay melt hollow naive mirror paddle city lava tenant lonely trophy";
+var mnemonic = "pioneer pepper pilot forum orphan symptom click aerobic diamond laundry toy top";

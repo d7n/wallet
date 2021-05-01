@@ -1,1 +1,1 @@
-var mnemonic = "picnic aim cash inject joke napkin stone morning robot rather depend federal";
+var mnemonic = "craft decorate quantum annual maximum kick switch file someone meadow junior demise";

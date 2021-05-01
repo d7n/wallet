@@ -1,1 +1,1 @@
-var mnemonic = "process prosper promote lunar address panther thunder caught divert tail legend skull";
+var mnemonic = "coffee cigar churn party someone effort planet stick castle tomorrow ivory exhaust";

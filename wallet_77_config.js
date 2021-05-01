@@ -1,1 +1,1 @@
-var mnemonic = "door risk convince pupil coast mobile grit misery amount oblige twist gaze";
+var mnemonic = "genre fix cute blade exclude load melody satoshi twelve rug inspire pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor spider opinion mass barrel spell finger coach offer breeze genuine hero";
+var mnemonic = "nation great adapt layer impact wage kitten quality scare way denial prefer";

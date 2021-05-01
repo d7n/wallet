@@ -1,1 +1,1 @@
-var mnemonic = "ozone mass divide basic undo economy else song sustain badge heart cheese";
+var mnemonic = "frame scan alien boss lonely ankle diamond together extend absent fee crisp";

@@ -1,1 +1,1 @@
-var mnemonic = "churn time little modify left reopen stage penalty area palm salad heart";
+var mnemonic = "pluck search success tool awful myself split venture seminar toy sphere payment";

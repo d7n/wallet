@@ -1,1 +1,1 @@
-var mnemonic = "wink gather success survey hidden spot cycle kingdom wall install accuse later";
+var mnemonic = "business obvious pulse rug silk kiwi stay lion retire math job tattoo";

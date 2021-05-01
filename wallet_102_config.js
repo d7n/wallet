@@ -1,1 +1,1 @@
-var mnemonic = "cost ridge still trumpet affair hospital parrot stamp version eager sort load";
+var mnemonic = "category deny crack monkey cushion island shine custom engage range tornado loyal";

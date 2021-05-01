@@ -1,1 +1,1 @@
-var mnemonic = "cash plunge thumb dizzy shoot joy outdoor summer easy country amateur drip";
+var mnemonic = "radio panda version huge over can mind party help matter axis clown";

@@ -1,1 +1,1 @@
-var mnemonic = "remove shell where sausage know romance weather sweet advance master man bean";
+var mnemonic = "heavy make fan vapor elbow decide dutch release scissors bring nominee cable";

@@ -1,1 +1,1 @@
-var mnemonic = "until actual ankle left worry friend maze peanut beyond album marine media";
+var mnemonic = "whale dial about else sentence file mammal oak size venue left rice";

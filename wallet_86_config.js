@@ -1,1 +1,1 @@
-var mnemonic = "expose gadget visit genre when combine evidence country unusual enact balance armor";
+var mnemonic = "legal remain right film oval alone insect sock harvest stay flush sport";

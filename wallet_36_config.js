@@ -1,1 +1,1 @@
-var mnemonic = "flip baby category whip merge flash pioneer weather hospital blood olympic trip";
+var mnemonic = "hotel spawn fall length master owner garlic around enjoy join pyramid erase";

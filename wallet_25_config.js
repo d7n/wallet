@@ -1,1 +1,1 @@
-var mnemonic = "render media nasty diary chest lamp meadow cement twenty edit nasty income";
+var mnemonic = "beauty extra never like bomb dice mesh broccoli input library rate mystery";

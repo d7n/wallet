@@ -1,1 +1,1 @@
-var mnemonic = "demise sentence enter divert whale pistol room alley symbol asset staff barrel";
+var mnemonic = "embrace nut diary okay flat latin inhale sibling style turkey grit lunar";

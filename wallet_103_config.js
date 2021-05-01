@@ -1,1 +1,1 @@
-var mnemonic = "thunder kitchen hand van decrease deliver carpet level special soon loud whip";
+var mnemonic = "gossip area era enrich case they damp innocent undo walnut stairs major";

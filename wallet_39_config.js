@@ -1,1 +1,1 @@
-var mnemonic = "canal index analyst cruel dilemma lion worth bulb squeeze outside word nice";
+var mnemonic = "elegant route upon reform orient afford trip job toy forum assist machine";

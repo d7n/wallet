@@ -1,1 +1,1 @@
-var mnemonic = "session photo jewel unusual caution novel start tooth author awful peasant mother";
+var mnemonic = "sponsor hundred long debris collect fresh brown kite guide stumble raise stereo";

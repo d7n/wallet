@@ -1,1 +1,1 @@
-var mnemonic = "jeans jungle welcome avoid market prefer country gap donate girl venture spot";
+var mnemonic = "toy favorite half chaos injury puzzle holiday ankle put state undo phrase";

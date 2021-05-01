@@ -1,1 +1,1 @@
-var mnemonic = "nasty fruit labor yellow caution owner neglect motor fine topple crunch escape";
+var mnemonic = "silly dinner prevent other flock move cook toward talent squirrel harvest economy";

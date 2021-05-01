@@ -1,1 +1,1 @@
-var mnemonic = "earn drill grid shoulder boss dirt quality wrap smooth unveil program tenant";
+var mnemonic = "anxiety magnet gas curve path south size syrup easily sentence pair flight";

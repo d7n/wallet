@@ -1,1 +1,1 @@
-var mnemonic = "sentence tumble defy six build rely prevent hole snow addict radio target";
+var mnemonic = "silver heart oyster sound joke current utility author scale cause lend exclude";

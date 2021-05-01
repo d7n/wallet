@@ -1,1 +1,1 @@
-var mnemonic = "member horror radio gain deliver frown absent weasel kiwi material client brass";
+var mnemonic = "expire remain badge fog sound twice jelly digital always special fatal omit";

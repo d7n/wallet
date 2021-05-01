@@ -1,1 +1,1 @@
-var mnemonic = "disorder multiply narrow admit tiny truth cloud strike split tuna mouse shrug";
+var mnemonic = "physical roof guilt match blue picnic advance tomorrow alcohol timber address enact";

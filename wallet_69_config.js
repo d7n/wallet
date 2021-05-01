@@ -1,1 +1,1 @@
-var mnemonic = "finger shove spoil civil great minimum carbon foam crowd subway wheel innocent";
+var mnemonic = "arena observe force elder favorite force under later frown ball forum ask";

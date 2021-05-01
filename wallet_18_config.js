@@ -1,1 +1,1 @@
-var mnemonic = "dilemma woman buzz laptop vicious text dial allow purpose reunion budget select";
+var mnemonic = "bench paper ribbon ritual reform soft wool shop rebuild slice lunar sing";

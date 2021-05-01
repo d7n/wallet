@@ -1,1 +1,1 @@
-var mnemonic = "soup search belt prevent fiscal matter exile bubble mouse mixture human decade";
+var mnemonic = "gift gas rose punch motion loyal bomb wish warfare castle despair core";

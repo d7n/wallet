@@ -1,1 +1,1 @@
-var mnemonic = "group wolf middle unable sheriff ignore castle found garment mesh assist decade";
+var mnemonic = "forest puzzle bird talk seat trend knock pet pair salon snow general";

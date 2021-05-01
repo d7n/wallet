@@ -1,1 +1,1 @@
-var mnemonic = "erosion combine utility service laundry brief park pill language essay glance bless";
+var mnemonic = "insane check core bread another sick marriage arena radio piece system family";

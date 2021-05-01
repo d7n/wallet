@@ -1,1 +1,1 @@
-var mnemonic = "crew decline dizzy supreme seat female amateur fruit trip child veteran want";
+var mnemonic = "orphan jungle shoe inside aim awesome unit surface valve shove bone pyramid";

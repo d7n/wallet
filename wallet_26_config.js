@@ -1,1 +1,1 @@
-var mnemonic = "inquiry poet spend naive valid pencil luggage sniff feed gun answer cabin";
+var mnemonic = "kind episode unique same shiver village meat side odor toilet economy student";

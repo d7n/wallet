@@ -1,1 +1,1 @@
-var mnemonic = "mad october tribe alpha carpet squirrel crisp leave negative stamp floor famous";
+var mnemonic = "time leg situate peace table engage chapter elite conduct depart wasp media";

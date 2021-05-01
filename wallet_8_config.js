@@ -1,1 +1,1 @@
-var mnemonic = "rigid dad used second situate hat only cliff hedgehog exercise olympic doctor";
+var mnemonic = "credit flag among design extend virus announce armor envelope cruise industry hood";

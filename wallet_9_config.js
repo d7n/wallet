@@ -1,1 +1,1 @@
-var mnemonic = "shrimp brass ugly dinner key estate resource endorse goddess either odor despair";
+var mnemonic = "script face vocal gift usual pet picnic alert tornado change faith disorder";

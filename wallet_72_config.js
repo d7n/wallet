@@ -1,1 +1,1 @@
-var mnemonic = "minute kingdom vanish write sick lion cheese apology pulse start sign brain";
+var mnemonic = "absorb frost early lift slice tuna page search scan grain sphere spirit";

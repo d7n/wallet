@@ -1,1 +1,1 @@
-var mnemonic = "mind share judge dice bubble duty traffic beauty gesture include develop hunt";
+var mnemonic = "gold certain maid network decorate inmate nature print merge report muscle elbow";

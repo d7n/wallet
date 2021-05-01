@@ -1,1 +1,1 @@
-var mnemonic = "grit north sniff tobacco black cage course mansion easy witness scene robust";
+var mnemonic = "clog cave hard danger assist giant task bless decorate click around tornado";

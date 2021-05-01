@@ -1,1 +1,1 @@
-var mnemonic = "pepper prize broccoli produce cable tongue ability cargo hybrid toe latin coyote";
+var mnemonic = "feel torch music twin wear critic cream clean tube awesome thunder lion";

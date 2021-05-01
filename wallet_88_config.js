@@ -1,1 +1,1 @@
-var mnemonic = "fly sentence custom various state very vibrant lunar ride bottom month reunion";
+var mnemonic = "horror brief dad wise equal school mammal knock size quick avoid smart";

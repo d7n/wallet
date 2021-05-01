@@ -1,1 +1,1 @@
-var mnemonic = "wage bless spatial slow thing travel minor hollow raw pilot hold brand";
+var mnemonic = "find gasp bring educate alarm embrace next garment guilt blade coach vast";

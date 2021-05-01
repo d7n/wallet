@@ -1,1 +1,1 @@
-var mnemonic = "stuff orbit impose member occur goose rain scheme mimic nature horse tenant";
+var mnemonic = "stage spell poem marine violin anger tired accuse defy brain clip clarify";

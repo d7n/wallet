@@ -1,1 +1,1 @@
-var mnemonic = "portion mask tomato release gallery similar clarify tube inside crane myth tomato";
+var mnemonic = "joy transfer family broken town tail era run foil boss tobacco approve";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond donkey tourist motor wheel alpha banner tortoise smoke sport unhappy joke";
+var mnemonic = "spoil raccoon famous adapt gather divorce kick wolf blame magnet trash melt";

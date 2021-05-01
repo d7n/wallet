@@ -1,1 +1,1 @@
-var mnemonic = "urge border manage bone brass trial key slab plunge error into begin";
+var mnemonic = "spoon shallow car cricket mango forum protect napkin art better achieve raven";

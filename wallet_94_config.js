@@ -1,1 +1,1 @@
-var mnemonic = "torch fashion elephant sphere champion that path stone fetch item marriage napkin";
+var mnemonic = "quantum major cigar cousin rebuild oak modify bar cupboard enemy danger swallow";

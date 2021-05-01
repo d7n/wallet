@@ -1,1 +1,1 @@
-var mnemonic = "increase gold duck message myth leisure lumber donor age record crack document";
+var mnemonic = "swim couple runway coffee ask nut outer anxiety glad goose birth disorder";

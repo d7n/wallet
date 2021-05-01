@@ -1,1 +1,1 @@
-var mnemonic = "asthma dice record dune shoe camp field future blast woman online lend";
+var mnemonic = "fetch audit pole pistol confirm dolphin pumpkin garment asthma champion mouse social";

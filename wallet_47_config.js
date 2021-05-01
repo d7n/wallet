@@ -1,1 +1,1 @@
-var mnemonic = "train snack soup sea disagree fox act item ozone olive depend latin";
+var mnemonic = "pair net idle detect test huge clerk flip warm cave neutral west";

@@ -1,1 +1,1 @@
-var mnemonic = "gown boring sponsor hero multiply humor palace sing child arm canoe bacon";
+var mnemonic = "umbrella sunset kangaroo flip know into crack dizzy sand base rival modify";

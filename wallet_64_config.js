@@ -1,1 +1,1 @@
-var mnemonic = "theme phrase brush wait alter blind total company double else globe slim";
+var mnemonic = "super aware drive senior napkin aisle host cushion vibrant width rubber much";

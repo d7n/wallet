@@ -1,1 +1,1 @@
-var mnemonic = "leader easy iron kingdom sting silly torch steak never humble program bamboo";
+var mnemonic = "hedgehog twenty festival visit crazy lake ozone program minor stomach cable pave";

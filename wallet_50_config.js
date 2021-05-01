@@ -1,1 +1,1 @@
-var mnemonic = "loyal oven person check journey detect use symbol output umbrella claim save";
+var mnemonic = "abuse vintage poem cute pact dragon castle found ready aisle chest patch";

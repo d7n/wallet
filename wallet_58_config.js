@@ -1,1 +1,1 @@
-var mnemonic = "what skirt pave slim park february distance onion vanish ivory mutual pulse";
+var mnemonic = "tonight example pig afford improve island kick differ prepare clever better fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "glass across invite vicious palace muffin try race mistake warfare mask tennis";
+var mnemonic = "angry crime pioneer sausage evidence enhance enact manual warm drum unlock clog";

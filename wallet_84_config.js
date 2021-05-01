@@ -1,1 +1,1 @@
-var mnemonic = "try issue soup velvet cash west buddy hidden butter legal develop render";
+var mnemonic = "labor treat hint bacon transfer vanish reopen bundle cabbage double trim reopen";

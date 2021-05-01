@@ -1,1 +1,1 @@
-var mnemonic = "galaxy wealth verb evolve argue hair valid you tape blame comfort chat";
+var mnemonic = "benefit unable heart asthma iron feed video burden mad neither mechanic senior";

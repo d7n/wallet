@@ -1,1 +1,1 @@
-var mnemonic = "member hour bacon ethics slot parrot weekend check suspect right little boil";
+var mnemonic = "earn invite consider wild nose pulp shrimp stock grunt turtle rely boost";

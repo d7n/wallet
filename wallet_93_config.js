@@ -1,1 +1,1 @@
-var mnemonic = "flush surface depart smart layer woman reveal perfect first rice mouse climb";
+var mnemonic = "course patient health town noodle speed hazard spoil clap subject crane blue";

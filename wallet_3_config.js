@@ -1,1 +1,1 @@
-var mnemonic = "ceiling twelve busy issue page copy believe crush expose solve raise kangaroo";
+var mnemonic = "produce sand soon either junior math steel zero absorb try lion release";

@@ -1,1 +1,1 @@
-var mnemonic = "concert there battle rigid sentence assault model enforce reduce double frown crane";
+var mnemonic = "work list future train identify artist zoo point annual virus draw eager";

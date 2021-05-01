@@ -1,1 +1,1 @@
-var mnemonic = "build retire panic glue list tortoise chaos gauge shed route ramp demise";
+var mnemonic = "tide phone child hub feature ramp orbit lecture casino pizza dream below";

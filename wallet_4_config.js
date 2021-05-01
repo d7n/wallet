@@ -1,1 +1,1 @@
-var mnemonic = "lake oppose suggest idle six hat seat draft beauty spawn water another";
+var mnemonic = "leg entry physical bundle infant very deposit bag sad myself thought couch";

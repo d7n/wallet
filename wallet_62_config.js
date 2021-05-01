@@ -1,1 +1,1 @@
-var mnemonic = "river marble winter pizza dune direct three siren fabric twist excite merry";
+var mnemonic = "level myth put private great curious one copper woman record century blur";

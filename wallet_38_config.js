@@ -1,1 +1,1 @@
-var mnemonic = "remind million ahead bamboo uniform wedding fiber turn short copper canvas imitate";
+var mnemonic = "strike essay pact human mask dinosaur gasp dilemma scan hen cabbage place";

@@ -1,1 +1,1 @@
-var mnemonic = "isolate payment motion true wrap maid neck bargain just attend idle oyster";
+var mnemonic = "panther buyer satisfy width scale polar wire elevator badge improve puzzle crucial";

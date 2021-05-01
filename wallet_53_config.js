@@ -1,1 +1,1 @@
-var mnemonic = "ocean bamboo sail task wonder drop wisdom know scrap unfold badge clean";
+var mnemonic = "radar friend snow credit razor horn chimney slim worth planet gentle tank";

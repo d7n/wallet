@@ -1,1 +1,1 @@
-var mnemonic = "lemon when secret pen shine govern fatal speed deny together wink october";
+var mnemonic = "review ocean core sunny smoke assist wing casino lesson talk patient stone";

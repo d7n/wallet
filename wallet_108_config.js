@@ -1,1 +1,1 @@
-var mnemonic = "ride crouch situate jacket unhappy fatal gossip today balance genius neither bench";
+var mnemonic = "quick alpha lobster visa gorilla exist leg open glad inhale firm cute";
