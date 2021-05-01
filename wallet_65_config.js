@@ -1,1 +1,1 @@
-var mnemonic = "art apology pilot other second pigeon reduce life detail when dutch few";
+var mnemonic = "balance tongue reform flower lake lemon symbol oblige account surprise champion chapter";

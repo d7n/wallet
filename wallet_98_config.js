@@ -1,1 +1,1 @@
-var mnemonic = "code view veteran that family often pride fossil street steak essence gown";
+var mnemonic = "crane easily that clap skull squeeze shine judge before cupboard fit hurry";

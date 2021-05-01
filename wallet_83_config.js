@@ -1,1 +1,1 @@
-var mnemonic = "comic eyebrow spread mean remember situate half tide page employ melt moon";
+var mnemonic = "pen rapid false bargain turn critic depth learn sign submit assault occur";

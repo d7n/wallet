@@ -1,1 +1,1 @@
-var mnemonic = "review tilt tiny misery fossil must genre illness either can slogan reduce";
+var mnemonic = "render panda sense armor april humble hair drink behind mother neither all";

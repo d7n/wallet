@@ -1,1 +1,1 @@
-var mnemonic = "foot meadow strike today edge mechanic steak shine blossom gauge strike pretty";
+var mnemonic = "blade output blossom lazy sell mirror civil winter hill enable lizard dance";

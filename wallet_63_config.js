@@ -1,1 +1,1 @@
-var mnemonic = "elephant time front skull jazz trash cupboard magic myth sing define song";
+var mnemonic = "acoustic tired owner urban unknown almost episode night two chief isolate stage";

@@ -1,1 +1,1 @@
-var mnemonic = "spell tuna truly one tiny glide hello mom online diamond drink potato";
+var mnemonic = "sister tongue chief carpet connect thing object sponsor bring acquire embrace inflict";

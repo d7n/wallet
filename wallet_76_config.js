@@ -1,1 +1,1 @@
-var mnemonic = "save focus warm second faint anchor enrich bike mother issue cover develop";
+var mnemonic = "oak intact adult place tent seat quiz absorb license ship planet panther";

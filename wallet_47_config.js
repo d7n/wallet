@@ -1,1 +1,1 @@
-var mnemonic = "resist light report arctic control shoe trip gallery clip rival very matter";
+var mnemonic = "basic toddler camp require alien front enjoy paper garden hazard adult goat";

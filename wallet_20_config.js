@@ -1,1 +1,1 @@
-var mnemonic = "improve clock phrase issue rubber lens put spend echo robust coin steel";
+var mnemonic = "champion clog shop screen comic rebuild right pistol thought nuclear put leader";

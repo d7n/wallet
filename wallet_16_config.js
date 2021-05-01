@@ -1,1 +1,1 @@
-var mnemonic = "pull glad can march mechanic blur wine permit faculty chief where daughter";
+var mnemonic = "bean produce wreck clutch source punch enforce mountain bamboo ship prosper father";

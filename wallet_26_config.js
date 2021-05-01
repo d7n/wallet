@@ -1,1 +1,1 @@
-var mnemonic = "damp fuel feature museum session cost ladder process layer minor wrap dance";
+var mnemonic = "gown joke mean remain exchange federal obvious casual current sand remain ancient";

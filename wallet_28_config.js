@@ -1,1 +1,1 @@
-var mnemonic = "explain square base sponsor abstract cram bulb next above ozone enlist verb";
+var mnemonic = "vast penalty monitor expect asset clean admit knock crumble parent december reform";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid glimpse floor board inject camera diet rack ensure aerobic gravity galaxy";
+var mnemonic = "almost wagon snow solid picnic main broccoli you gas surge hurdle bronze";

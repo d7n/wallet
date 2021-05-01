@@ -1,1 +1,1 @@
-var mnemonic = "slogan bitter anchor toward pair picnic frog speak trouble penalty west deal";
+var mnemonic = "tank city direct enrich amateur decide hundred device owner cruise menu rude";

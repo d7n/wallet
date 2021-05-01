@@ -1,1 +1,1 @@
-var mnemonic = "artist magnet garden kick ski chapter mouse lamp fold carbon purchase shallow";
+var mnemonic = "process verb wash error conduct bargain engine damp betray dune clever water";

@@ -1,1 +1,1 @@
-var mnemonic = "cotton liar wood rail solution donate leopard give evolve advance cotton shrug";
+var mnemonic = "surge nice acquire dad sea family supply position novel bounce timber practice";

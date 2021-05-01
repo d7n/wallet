@@ -1,1 +1,1 @@
-var mnemonic = "thought film wide flip blossom meat want throw length airport unusual rare";
+var mnemonic = "rice width collect describe flight lazy object good desert that prepare butter";

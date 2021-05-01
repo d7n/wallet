@@ -1,1 +1,1 @@
-var mnemonic = "skin prosper general account feel segment room cry seminar lyrics unfold model";
+var mnemonic = "reduce nasty liar impact raw flat gas garlic quantum mistake mixture license";

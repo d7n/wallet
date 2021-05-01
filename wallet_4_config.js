@@ -1,1 +1,1 @@
-var mnemonic = "latin rough antique heavy crew blame veteran amount response eight silk vacuum";
+var mnemonic = "cabin alien violin elephant auction together blast trade hair crater climb true";

@@ -1,1 +1,1 @@
-var mnemonic = "age hood supply animal kangaroo year recipe teach effort divide daring follow";
+var mnemonic = "razor accuse mind video forest bonus cry aspect duck motion wait real";

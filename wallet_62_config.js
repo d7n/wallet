@@ -1,1 +1,1 @@
-var mnemonic = "month sand senior crucial lock lift like team arrest input tip control";
+var mnemonic = "found flush thing trumpet father shoe neutral object answer coral decade reform";

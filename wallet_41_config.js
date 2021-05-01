@@ -1,1 +1,1 @@
-var mnemonic = "shield insect video swing canoe soda pact artefact fire shed rabbit butter";
+var mnemonic = "belt decrease physical replace salute odor whip ocean fatigue girl monkey giggle";

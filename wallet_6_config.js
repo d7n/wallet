@@ -1,1 +1,1 @@
-var mnemonic = "equal ahead slam check flash busy prepare affair measure loop turtle middle";
+var mnemonic = "never cry cradle ostrich hurt choice company receive dolphin symbol caution switch";

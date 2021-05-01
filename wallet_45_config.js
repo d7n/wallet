@@ -1,1 +1,1 @@
-var mnemonic = "crew flavor traffic consider pony sadness wisdom adult figure tissue young young";
+var mnemonic = "empty artist river position open asthma birth end occur voyage donor bubble";

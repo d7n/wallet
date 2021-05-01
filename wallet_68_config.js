@@ -1,1 +1,1 @@
-var mnemonic = "federal curve crack human vibrant mansion disagree write orange unlock donate legend";
+var mnemonic = "wild limb earth horse impose crater wagon ask antique salt sad rural";

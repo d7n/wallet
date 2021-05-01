@@ -1,1 +1,1 @@
-var mnemonic = "wink milk marriage cart session naive fitness broccoli trumpet genre message census";
+var mnemonic = "client menu anxiety dizzy pact video pioneer voice now wall knock infant";

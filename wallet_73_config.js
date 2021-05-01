@@ -1,1 +1,1 @@
-var mnemonic = "remember version flush two purchase vote illness diagram bicycle potato hungry explain";
+var mnemonic = "torch palm summer pass tree feed major ivory nuclear rail absent oxygen";

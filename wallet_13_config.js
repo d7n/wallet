@@ -1,1 +1,1 @@
-var mnemonic = "robust monkey pull same task fever eyebrow broken weekend famous empty screen";
+var mnemonic = "mail tortoise pill sting habit decide sweet boss awful actual ask snack";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare ensure flip brass dune page outdoor divide humble culture scorpion kit";
+var mnemonic = "cigar horn predict obtain quantum rely convince orchard find spoil rocket strategy";

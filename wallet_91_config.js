@@ -1,1 +1,1 @@
-var mnemonic = "embark gaze spell drift enhance hand fringe cousin hip sustain verify warrior";
+var mnemonic = "copy pretty jewel turkey meat benefit peace candy size crucial hill such";

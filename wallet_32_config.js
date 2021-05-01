@@ -1,1 +1,1 @@
-var mnemonic = "record orange abuse tide mule hen into supply upon captain wish spy";
+var mnemonic = "salon ghost please strong else goddess cake grant tree bright skirt comic";

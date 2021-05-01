@@ -1,1 +1,1 @@
-var mnemonic = "output rail rifle any call physical consider electric crush identify vibrant walk";
+var mnemonic = "key account drink bicycle idea unfair struggle enlist desk boost push cry";

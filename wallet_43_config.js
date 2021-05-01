@@ -1,1 +1,1 @@
-var mnemonic = "deer whisper grief pupil plug extend win city group rural cabbage walk";
+var mnemonic = "furnace stage decorate caution very elder small arch box popular evolve east";

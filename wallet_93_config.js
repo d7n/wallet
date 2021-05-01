@@ -1,1 +1,1 @@
-var mnemonic = "upper core kidney timber lava bring agent enough smooth lobster fitness nurse";
+var mnemonic = "style moon music clinic luggage help flip ice tape trade sure pass";

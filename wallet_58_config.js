@@ -1,1 +1,1 @@
-var mnemonic = "enforce onion exchange cheap panel million agent more recycle item sound impose";
+var mnemonic = "grow hammer mom voice walk impact mercy person legal away funny clock";

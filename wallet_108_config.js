@@ -1,1 +1,1 @@
-var mnemonic = "know review half minimum boy taxi topic know correct under wear fortune";
+var mnemonic = "gesture bench curious enable exile unable process vintage edge sentence nose illegal";

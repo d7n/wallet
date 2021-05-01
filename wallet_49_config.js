@@ -1,1 +1,1 @@
-var mnemonic = "loyal client steel release high winner reunion cram urban unknown height stadium";
+var mnemonic = "dilemma edge grain dash opera evil simple tone unfair bread lobster seed";

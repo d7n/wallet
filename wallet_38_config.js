@@ -1,1 +1,1 @@
-var mnemonic = "web frost absurd grow impact hobby stereo truck mountain garbage choose kick";
+var mnemonic = "erode sound cute much gate element nest ticket phone tonight middle damage";

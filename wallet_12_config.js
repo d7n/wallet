@@ -1,1 +1,1 @@
-var mnemonic = "worth clinic moment program company ritual diamond monkey session about dizzy input";
+var mnemonic = "inch similar sound hip ugly average control drip vast market online banana";

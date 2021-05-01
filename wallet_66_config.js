@@ -1,1 +1,1 @@
-var mnemonic = "turn luggage cream render physical soda slice exist run thrive balcony voyage";
+var mnemonic = "slight learn fuel grocery ugly garbage parade load embrace behind segment vocal";

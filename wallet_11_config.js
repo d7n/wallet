@@ -1,1 +1,1 @@
-var mnemonic = "describe merge into client pistol token damp tell long axis paddle style";
+var mnemonic = "video destroy acoustic wrap retire jaguar unhappy dress sustain emotion motion tired";

@@ -1,1 +1,1 @@
-var mnemonic = "settle earn just oppose swallow travel foam purity auto error cheap ill";
+var mnemonic = "goddess require only casino seed enact kit thought noise debris oyster cruise";

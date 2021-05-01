@@ -1,1 +1,1 @@
-var mnemonic = "infant leaf february slight skate account push relief sense spell review door";
+var mnemonic = "spike atom moment aerobic this during help ability biology erosion quote nation";

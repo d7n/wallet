@@ -1,1 +1,1 @@
-var mnemonic = "arrange illegal theory more maid access enforce orbit crater sand simple consider";
+var mnemonic = "response bread produce lonely car notable manage medal coffee plastic warfare supply";

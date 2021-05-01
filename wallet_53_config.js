@@ -1,1 +1,1 @@
-var mnemonic = "recipe window spell wonder flip thought size volcano upgrade material nose cause";
+var mnemonic = "address blue stage width lazy shuffle royal two flight pyramid fatigue direct";

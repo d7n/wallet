@@ -1,1 +1,1 @@
-var mnemonic = "pulse achieve library marriage wealth famous vintage body sea canyon uncle obscure";
+var mnemonic = "text lyrics learn vicious actor pride multiply witness shrug youth rose scrap";

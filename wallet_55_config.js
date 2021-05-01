@@ -1,1 +1,1 @@
-var mnemonic = "invite angle mixture party giant hotel dignity problem depth key kite okay";
+var mnemonic = "flash thrive inhale chicken skate unaware know love energy route below shoulder";

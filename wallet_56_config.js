@@ -1,1 +1,1 @@
-var mnemonic = "discover shuffle letter term crazy matter give screen myself crawl wear parrot";
+var mnemonic = "diesel consider way skill solution aunt tornado property bread blanket slot problem";

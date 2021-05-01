@@ -1,1 +1,1 @@
-var mnemonic = "total coral liquid battle tuna work escape planet large stadium radar economy";
+var mnemonic = "universe lunch science glow casual gossip core onion sun monkey prosper tiny";

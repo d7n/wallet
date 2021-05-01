@@ -1,1 +1,1 @@
-var mnemonic = "index ski sphere egg unknown ill drink enter start vibrant maximum spray";
+var mnemonic = "interest bulk pigeon ring armed unlock echo raven ice guard that zero";

@@ -1,1 +1,1 @@
-var mnemonic = "million page tomato thunder beef hospital shop target noodle hole document admit";
+var mnemonic = "forward hello occur young another safe faculty glue car bracket meat dance";

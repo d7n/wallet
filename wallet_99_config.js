@@ -1,1 +1,1 @@
-var mnemonic = "fire come cry drop occur seat convince unknown mixed vacuum armed develop";
+var mnemonic = "tragic rhythm coconut mandate effort skull step busy foster battle hour sand";

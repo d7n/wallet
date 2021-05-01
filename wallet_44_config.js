@@ -1,1 +1,1 @@
-var mnemonic = "farm rubber disease range govern sword silent bid better moral silent churn";
+var mnemonic = "web aerobic sign awkward plastic canoe tortoise salt acoustic switch bacon file";

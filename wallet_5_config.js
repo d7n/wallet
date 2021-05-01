@@ -1,1 +1,1 @@
-var mnemonic = "shift crop muscle car alcohol grace squeeze small inmate monkey what boring";
+var mnemonic = "salon cheese pipe jealous tonight gallery hurry cinnamon hill dose resist tribe";

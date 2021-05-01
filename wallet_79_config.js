@@ -1,1 +1,1 @@
-var mnemonic = "web rose credit slab dawn depend card layer strong close predict crouch";
+var mnemonic = "frozen large loop deposit update suggest tower leopard erode brush cloth pond";

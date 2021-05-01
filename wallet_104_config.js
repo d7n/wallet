@@ -1,1 +1,1 @@
-var mnemonic = "biology pave define decide kit rack element one baby slush pony gorilla";
+var mnemonic = "enroll among proof when story video angry action advance biology safe become";

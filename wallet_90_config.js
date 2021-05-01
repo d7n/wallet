@@ -1,1 +1,1 @@
-var mnemonic = "ability arm tooth chimney shiver addict lift retire hair clog expose bulk";
+var mnemonic = "blue evidence maze satisfy artist cave prevent artist memory pigeon crew course";

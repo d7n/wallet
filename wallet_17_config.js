@@ -1,1 +1,1 @@
-var mnemonic = "reflect mansion stairs victory common setup domain project ankle top solution better";
+var mnemonic = "humble april cannon below blood observe immense fitness punch emotion crane wagon";

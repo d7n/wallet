@@ -1,1 +1,1 @@
-var mnemonic = "hire kitten south harsh elephant predict dignity nerve excuse memory lunch cliff";
+var mnemonic = "buddy sample head jewel split typical piece avoid baby dish diet enrich";

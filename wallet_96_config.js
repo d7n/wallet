@@ -1,1 +1,1 @@
-var mnemonic = "tooth space finger combine castle shuffle fashion library hub vague faculty drastic";
+var mnemonic = "page cram weapon coyote bring boost exact portion bonus patch antique duty";

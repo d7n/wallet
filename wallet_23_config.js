@@ -1,1 +1,1 @@
-var mnemonic = "chimney bargain swarm chimney scare spare festival fringe matter mistake visual struggle";
+var mnemonic = "soft early flame chronic indicate sniff item print robust cruel organ usage";

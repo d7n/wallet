@@ -1,1 +1,1 @@
-var mnemonic = "animal brother razor intact insane novel all elevator depend payment buzz weird";
+var mnemonic = "vacant adapt vehicle canyon pretty guard kingdom phone view cube employ mountain";

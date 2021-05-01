@@ -1,1 +1,1 @@
-var mnemonic = "celery shoe sign excess quarter dune clarify test collect favorite negative wealth";
+var mnemonic = "kangaroo between half wrong resemble issue manage rhythm expose onion stool also";

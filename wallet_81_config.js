@@ -1,1 +1,1 @@
-var mnemonic = "minimum vapor thrive infant unique apple actor noble brand shaft habit view";
+var mnemonic = "inflict primary exclude cargo mandate fix supply powder cradle canal enough knife";

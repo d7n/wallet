@@ -1,1 +1,1 @@
-var mnemonic = "solution cool viable lend play top dilemma idea crisp retire liquid lab";
+var mnemonic = "fame hundred current air naive strategy foot switch wash kind actual mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "average quiz cost force month canyon focus review kite suspect chair opera";
+var mnemonic = "allow hobby version zone invite remove oven turn tornado nation dish travel";

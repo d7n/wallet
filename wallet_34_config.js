@@ -1,1 +1,1 @@
-var mnemonic = "describe warrior skate nation ritual aspect physical beauty shadow lake age heavy";
+var mnemonic = "muffin merit monitor soda pelican cover cage opinion quality wink wall digital";

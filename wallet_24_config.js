@@ -1,1 +1,1 @@
-var mnemonic = "maze hood trial laundry math guilt awesome someone smart burst beauty pole";
+var mnemonic = "random depth ensure clog purse canyon auction mad bulk say exit super";

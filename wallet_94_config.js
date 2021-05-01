@@ -1,1 +1,1 @@
-var mnemonic = "pipe saddle indoor empower ginger deputy stay adapt panic canvas wine gossip";
+var mnemonic = "bulk truck outside guilt execute maple husband chimney cram surface wedding walnut";

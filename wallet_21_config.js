@@ -1,1 +1,1 @@
-var mnemonic = "secret virtual doctor urban stereo harsh gadget travel capital world check dentist";
+var mnemonic = "head utility metal keep video actor foot goddess wise marine universe close";

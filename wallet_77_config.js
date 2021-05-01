@@ -1,1 +1,1 @@
-var mnemonic = "screen dilemma paper urge obtain front frame ankle cruel near cliff marriage";
+var mnemonic = "mother gloom anchor cable scene front athlete engage shield duty cancel unit";

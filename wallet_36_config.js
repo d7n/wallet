@@ -1,1 +1,1 @@
-var mnemonic = "cart violin segment thunder piano naive spin pioneer arch cereal erode funny";
+var mnemonic = "space duty autumn home blouse note board retire trouble magnet day seek";

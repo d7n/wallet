@@ -1,1 +1,1 @@
-var mnemonic = "monster brisk tired soccer rural core vapor dish awkward echo hamster close";
+var mnemonic = "mouse six swamp smooth pride wood main silver diet view believe mobile";

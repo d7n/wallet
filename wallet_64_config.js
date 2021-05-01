@@ -1,1 +1,1 @@
-var mnemonic = "tower parade poverty barely holiday exit birth choose pride expand quiz section";
+var mnemonic = "business fossil wisdom diamond run swamp skull fame account require pizza attitude";

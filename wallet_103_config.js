@@ -1,1 +1,1 @@
-var mnemonic = "panel ginger exhaust phone cinnamon jelly jump before doctor patch lens enable";
+var mnemonic = "tape saddle couple above dog staff asthma bus struggle gauge any garage";

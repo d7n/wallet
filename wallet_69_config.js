@@ -1,1 +1,1 @@
-var mnemonic = "item cost veteran coffee install young symbol expect hidden correct bleak reject";
+var mnemonic = "cheap again list weasel sauce open bounce sea tent rebuild vendor food";

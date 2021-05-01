@@ -1,1 +1,1 @@
-var mnemonic = "bench anxiety receive curious sample bracket jelly scene best ceiling maple chimney";
+var mnemonic = "story ladder lemon always delay inner lava mammal remind inform humble turn";

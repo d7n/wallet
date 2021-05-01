@@ -1,1 +1,1 @@
-var mnemonic = "pig century diesel arena design pretty lottery swap olive deposit truck resemble";
+var mnemonic = "dance claim uncle net inquiry grape pistol eye tube slab lumber enjoy";

@@ -1,1 +1,1 @@
-var mnemonic = "engage circle fault jar fox gravity act message ride capital echo midnight";
+var mnemonic = "illegal reunion audit hand length friend gossip deer dice wish menu guitar";

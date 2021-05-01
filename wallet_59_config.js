@@ -1,1 +1,1 @@
-var mnemonic = "tone mean seven village cabin century topic test canal tiger indoor tape";
+var mnemonic = "relax bag problem artefact midnight ritual solar lobster devote gap carbon hen";

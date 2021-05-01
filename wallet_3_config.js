@@ -1,1 +1,1 @@
-var mnemonic = "legal save oxygen hard subject disease photo index noble clever abstract load";
+var mnemonic = "buzz item orchard situate lab cash slight clap trouble second give crop";

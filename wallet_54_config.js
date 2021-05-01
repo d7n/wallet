@@ -1,1 +1,1 @@
-var mnemonic = "skin exercise bachelor okay basket primary obtain canvas pitch brave spice code";
+var mnemonic = "dumb enemy laptop youth dash stand label advice wage caution captain female";

@@ -1,1 +1,1 @@
-var mnemonic = "own match coffee deposit over gold topple connect action wasp rally hill";
+var mnemonic = "frown misery gather axis charge hundred dolphin suit such multiply bulb cradle";

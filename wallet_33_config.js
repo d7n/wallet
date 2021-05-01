@@ -1,1 +1,1 @@
-var mnemonic = "gravity subway drip impose visa friend under curious laundry hard cram toward";
+var mnemonic = "shrimp vibrant polar elbow emerge shoot unveil rich yard senior gospel fine";

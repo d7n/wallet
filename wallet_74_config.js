@@ -1,1 +1,1 @@
-var mnemonic = "cycle dragon wet boost home float subject river sleep apart enemy worth";
+var mnemonic = "song gold hungry pizza arrive weather nation boost winter flavor company talent";

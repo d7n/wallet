@@ -1,1 +1,1 @@
-var mnemonic = "level amused million expand wool capable search profit engage glue top plate";
+var mnemonic = "juice popular party cloth lady vivid tourist salmon clarify refuse addict twice";

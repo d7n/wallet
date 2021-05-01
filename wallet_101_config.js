@@ -1,1 +1,1 @@
-var mnemonic = "orphan transfer school detect civil brown column among dune repair zoo please";
+var mnemonic = "wagon tumble bitter sting end glass among rug tackle eagle fiction scissors";

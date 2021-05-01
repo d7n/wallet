@@ -1,1 +1,1 @@
-var mnemonic = "learn phone unfold twenty immune capable rubber push indoor parent nice option";
+var mnemonic = "diamond pretty bid local depart eager bean survey source unfair genuine skirt";

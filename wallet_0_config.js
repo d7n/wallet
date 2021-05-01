@@ -1,1 +1,1 @@
-var mnemonic = "excess alter album liquid start dawn have glove super frog ancient family";
+var mnemonic = "addict very solution electric antenna mirror erase anger material job traffic online";

@@ -1,1 +1,1 @@
-var mnemonic = "swim speak man lounge pink inside quit vast render valid sustain oyster";
+var mnemonic = "exclude fix angry photo mind protect sun fresh below title october venue";

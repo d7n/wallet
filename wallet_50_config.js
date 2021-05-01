@@ -1,1 +1,1 @@
-var mnemonic = "wood upset surprise silver sudden frequent disagree busy cattle nut phrase transfer";
+var mnemonic = "fall announce gown height step acquire scrub affair wonder magnet today increase";
