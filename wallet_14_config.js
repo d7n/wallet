@@ -1,1 +1,1 @@
-var mnemonic = "shove disease demand original weasel meat able appear ship stand pass vapor";
+var mnemonic = "civil tray retreat bag assault game ripple dynamic venue enjoy zoo talk";

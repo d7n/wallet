@@ -1,1 +1,1 @@
-var mnemonic = "someone athlete pride embark slam dish uncover tent bread wasp open topple";
+var mnemonic = "slogan wine title protect fat other combine capable boy palace until mobile";

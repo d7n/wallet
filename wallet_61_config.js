@@ -1,1 +1,1 @@
-var mnemonic = "shop medal lamp protect reward friend time confirm pond body cheese argue";
+var mnemonic = "note cruise cable card interest release afraid diary mesh throw leader circle";

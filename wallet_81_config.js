@@ -1,1 +1,1 @@
-var mnemonic = "quantum pact hope assume pioneer allow squeeze rib bounce matter infant number";
+var mnemonic = "vocal ripple process page weekend daring patrol tomato erase sauce pumpkin obvious";

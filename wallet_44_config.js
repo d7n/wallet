@@ -1,1 +1,1 @@
-var mnemonic = "spawn bag fragile tag fine benefit miss seat knife tip depend addict";
+var mnemonic = "knee insect paper typical piano grunt vault rose fiscal material spider state";

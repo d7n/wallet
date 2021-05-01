@@ -1,1 +1,1 @@
-var mnemonic = "enter abstract interest miracle afraid hunt need exhibit truth express meat rifle";
+var mnemonic = "avocado delay pet afraid song wasp walnut concert cave cereal chase nest";

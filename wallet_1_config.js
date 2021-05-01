@@ -1,1 +1,1 @@
-var mnemonic = "vault rabbit present leader spend element cherry brand swap stomach pepper tortoise";
+var mnemonic = "this stuff check fluid badge voyage carpet panda paddle spirit ill play";

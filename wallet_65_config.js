@@ -1,1 +1,1 @@
-var mnemonic = "gallery say fee thrive you party bless ecology state need point raw";
+var mnemonic = "soup waste table improve balcony love stadium vessel gaze exercise thumb gain";

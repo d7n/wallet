@@ -1,1 +1,1 @@
-var mnemonic = "pluck blood december carbon genius space appear host public hero cherry text";
+var mnemonic = "awake diesel soda regret today quote stool crystal exit document call fix";

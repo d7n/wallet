@@ -1,1 +1,1 @@
-var mnemonic = "blanket split little turkey garment monster ozone reject disease lake inspire notice";
+var mnemonic = "intact faith apart supreme race antique force effort reject pyramid want crack";

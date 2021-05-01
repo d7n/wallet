@@ -1,1 +1,1 @@
-var mnemonic = "prepare sauce faint disagree surface lecture spot news tumble canvas multiply reduce";
+var mnemonic = "answer ramp iron okay cream label jar embrace urge silver alien universe";

@@ -1,1 +1,1 @@
-var mnemonic = "bread century caught lounge mosquito better jungle logic crane wide photo club";
+var mnemonic = "tilt train bless grant wonder defy rule reduce disagree paddle pizza much";

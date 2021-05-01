@@ -1,1 +1,1 @@
-var mnemonic = "outer neither twenty end board knock poverty fan weapon banana limb lecture";
+var mnemonic = "blast pudding globe bless crater tragic gasp behind joy abuse gesture engine";

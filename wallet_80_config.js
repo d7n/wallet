@@ -1,1 +1,1 @@
-var mnemonic = "sock axis jelly bag illness ripple cluster clarify wheat maximum radio enforce";
+var mnemonic = "author era abandon nothing sniff box rocket stairs pave excite theory fee";

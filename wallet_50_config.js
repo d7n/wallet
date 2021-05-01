@@ -1,1 +1,1 @@
-var mnemonic = "blur fame valley churn purity general gadget denial reopen shrug expect blur";
+var mnemonic = "submit drill broom youth anxiety leisure name walnut toilet thing shuffle tired";

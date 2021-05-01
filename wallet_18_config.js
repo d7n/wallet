@@ -1,1 +1,1 @@
-var mnemonic = "nature scrap cream hard girl spare possible decline click faculty govern sun";
+var mnemonic = "novel twice diary crater plunge shove taste check sniff upon good deliver";

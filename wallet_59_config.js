@@ -1,1 +1,1 @@
-var mnemonic = "between method style search drill electric taxi surge angle atom history easily";
+var mnemonic = "fitness forget spray priority cherry audit cook wash bunker meadow select zoo";

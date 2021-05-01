@@ -1,1 +1,1 @@
-var mnemonic = "penalty perfect notice brother list note balance brave toe tuition trap rough";
+var mnemonic = "tray happy thought eight climb deliver nature chief exhibit predict dirt source";

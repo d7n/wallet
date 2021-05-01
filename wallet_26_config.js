@@ -1,1 +1,1 @@
-var mnemonic = "patient position track sting syrup check borrow media toast pumpkin trim december";
+var mnemonic = "decade boost provide awkward accuse antique sight disease demise copy replace engage";

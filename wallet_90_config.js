@@ -1,1 +1,1 @@
-var mnemonic = "festival candy enough mask uncover sniff blame present fresh busy planet use";
+var mnemonic = "rubber cram fashion front ready cricket brass height print entry whip response";

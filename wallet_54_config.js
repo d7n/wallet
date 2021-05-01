@@ -1,1 +1,1 @@
-var mnemonic = "fat camp oven trash element wrist retire lion faith estate dance session";
+var mnemonic = "palm rhythm meadow toss series sort typical neither usual balcony decide museum";

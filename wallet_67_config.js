@@ -1,1 +1,1 @@
-var mnemonic = "symbol change broccoli youth moment mango reveal chat blossom attack season obey";
+var mnemonic = "key motion galaxy oxygen raven heart essay foot afraid clay fortune whisper";

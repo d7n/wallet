@@ -1,1 +1,1 @@
-var mnemonic = "scrap envelope tape property cricket enrich kingdom tourist number ability track anger";
+var mnemonic = "butter depth ceiling damp black expose suit plug wasp mushroom cluster net";

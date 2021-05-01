@@ -1,1 +1,1 @@
-var mnemonic = "game bird bind cloth hammer loan next hobby thunder rubber amazing column";
+var mnemonic = "sorry kind board thought leisure basket spread east market choice imitate heavy";

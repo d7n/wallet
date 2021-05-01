@@ -1,1 +1,1 @@
-var mnemonic = "defense vague pair attend flame drop steel doll front burst attitude tobacco";
+var mnemonic = "save safe cycle fall oppose unique weekend merry defense kind autumn mention";

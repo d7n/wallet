@@ -1,1 +1,1 @@
-var mnemonic = "image make badge citizen agent zone gas make crunch boat build hour";
+var mnemonic = "unhappy snow nation firm device noble desert derive junior absorb piece planet";

@@ -1,1 +1,1 @@
-var mnemonic = "hole involve fatigue decrease oblige duty marine describe addict mention immune assume";
+var mnemonic = "you use trade mule addict grief birth horror vivid famous more hope";

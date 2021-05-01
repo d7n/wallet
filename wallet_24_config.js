@@ -1,1 +1,1 @@
-var mnemonic = "illness theory age pact indoor quality tray release want gallery acoustic busy";
+var mnemonic = "hero feature alcohol enable erase hope budget beauty glad artwork lazy jungle";

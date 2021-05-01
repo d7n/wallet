@@ -1,1 +1,1 @@
-var mnemonic = "speak beef domain swarm leg liar couple discover check trim name clinic";
+var mnemonic = "crime rebel speed topic wave scale tide mail hedgehog word pill lounge";

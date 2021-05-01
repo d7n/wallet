@@ -1,1 +1,1 @@
-var mnemonic = "regret champion there polar humor cinnamon rather owner idea image fat analyst";
+var mnemonic = "essay surprise profit achieve music wide myself foam zone adjust dish author";

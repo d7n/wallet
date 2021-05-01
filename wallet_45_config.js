@@ -1,1 +1,1 @@
-var mnemonic = "extra eyebrow slam fragile increase wood debate hold note soldier situate magic";
+var mnemonic = "ketchup task humor slab topple infant pen unusual fever submit near excuse";

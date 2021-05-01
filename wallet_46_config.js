@@ -1,1 +1,1 @@
-var mnemonic = "creek dinner hurry trust before crew this cute soccer faith found believe";
+var mnemonic = "interest tray picnic coil plastic embrace desk debate honey exotic enable where";

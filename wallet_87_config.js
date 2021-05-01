@@ -1,1 +1,1 @@
-var mnemonic = "say simple earn crater fan hole sadness space vault multiply medal depend";
+var mnemonic = "coconut crazy prevent never climb reunion jewel giraffe depart winter attend baby";

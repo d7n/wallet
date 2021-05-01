@@ -1,1 +1,1 @@
-var mnemonic = "finish robust brother inject sorry valve aunt combine device tilt cup wasp";
+var mnemonic = "rack enter beef tray method lamp rely expand spring swap sick inch";

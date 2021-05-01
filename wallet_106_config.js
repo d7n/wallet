@@ -1,1 +1,1 @@
-var mnemonic = "balance trumpet knife monkey endless security jungle claw throw galaxy tissue half";
+var mnemonic = "busy ill high dwarf empty enlist health cram hazard sadness head torch";

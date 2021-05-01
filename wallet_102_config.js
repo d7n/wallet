@@ -1,1 +1,1 @@
-var mnemonic = "rotate bachelor width absorb hole true abandon earth category raven chaos error";
+var mnemonic = "will nasty language tonight tail social mix depend fresh glove sail now";

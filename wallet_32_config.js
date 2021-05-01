@@ -1,1 +1,1 @@
-var mnemonic = "soldier shift tattoo scrub close grape speak trophy ask symbol offer brush";
+var mnemonic = "combine exit month stumble away great cement gloom cluster purchase brand eternal";

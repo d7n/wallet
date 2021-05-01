@@ -1,1 +1,1 @@
-var mnemonic = "country hotel stove exotic human behind attitude govern adapt right host camp";
+var mnemonic = "diagram stick shiver ocean million airport empower roof tourist unfair image airport";

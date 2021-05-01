@@ -1,1 +1,1 @@
-var mnemonic = "crew biology hat view matter one damp seat south lend permit scrap";
+var mnemonic = "cheap snake kiss involve angry ticket will pen number pipe animal ability";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract dry true hamster ancient target ethics moment below science core into";
+var mnemonic = "wide obvious mimic neck tumble word brush twice ostrich later organ sound";

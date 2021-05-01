@@ -1,1 +1,1 @@
-var mnemonic = "seek cigar one soon vanish require remind insect oyster humble bonus jewel";
+var mnemonic = "street hunt edit rotate obtain tip pole like medal virtual cream embark";

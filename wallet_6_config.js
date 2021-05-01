@@ -1,1 +1,1 @@
-var mnemonic = "current clown ketchup soft make crack word cliff mercy behind hunt sample";
+var mnemonic = "boost peasant anchor blouse public idea chef input butter phone swear country";

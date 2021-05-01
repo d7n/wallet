@@ -1,1 +1,1 @@
-var mnemonic = "powder outer real bracket mesh unaware pond coach peace finger result fit";
+var mnemonic = "lunar trash leaf ring pencil forest eyebrow scout reveal paper system transfer";

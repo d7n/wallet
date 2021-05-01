@@ -1,1 +1,1 @@
-var mnemonic = "skate enlist pumpkin alcohol float flavor order april timber motor clip pill";
+var mnemonic = "pact under story bench dawn flame lamp diesel ghost excuse mother cover";

@@ -1,1 +1,1 @@
-var mnemonic = "crack vote head cream song group excuse worry foil tone skin hold";
+var mnemonic = "eyebrow since uncle amateur rack deer muscle hill topic wagon father school";

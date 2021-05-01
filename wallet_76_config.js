@@ -1,1 +1,1 @@
-var mnemonic = "belt proof force acid escape spot wool turtle fat blouse between busy";
+var mnemonic = "cousin lounge position punch suspect average seven illegal know pony march ready";

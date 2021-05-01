@@ -1,1 +1,1 @@
-var mnemonic = "sport enhance arm sudden impact lizard nut judge section man dove fame";
+var mnemonic = "point welcome lemon entire icon orchard rare wait rug gauge agree rug";

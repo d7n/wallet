@@ -1,1 +1,1 @@
-var mnemonic = "aisle aware tribe cause wisdom sound van ketchup sort nurse consider concert";
+var mnemonic = "limb flag sweet trick immense cabin away day media net flavor sword";

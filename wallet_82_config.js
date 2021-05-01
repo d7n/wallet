@@ -1,1 +1,1 @@
-var mnemonic = "when private secret marble lemon air guard student pig inject cool jealous";
+var mnemonic = "relax angry topic call ghost flat march trumpet enough stool jump pause";

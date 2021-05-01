@@ -1,1 +1,1 @@
-var mnemonic = "pencil sound settle anxiety fix chapter stone vehicle abstract cigar false order";
+var mnemonic = "general endorse possible easily portion mixture artefact evoke gate hood mail cupboard";

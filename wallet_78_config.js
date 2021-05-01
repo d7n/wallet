@@ -1,1 +1,1 @@
-var mnemonic = "state sugar wear evidence dawn divide outside kick cover drive noise hen";
+var mnemonic = "primary skill loan travel transfer together raccoon fury spell axis apart govern";

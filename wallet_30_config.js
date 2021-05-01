@@ -1,1 +1,1 @@
-var mnemonic = "gold fantasy tray ethics between captain copy waste kit hedgehog upgrade fat";
+var mnemonic = "warrior pizza method either business private mouse seed measure vast unusual curtain";

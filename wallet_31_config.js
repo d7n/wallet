@@ -1,1 +1,1 @@
-var mnemonic = "term swarm trouble quarter tunnel lunch company mirror file wool churn carbon";
+var mnemonic = "tone habit unfair eight humor renew crash pottery primary defense burst damage";

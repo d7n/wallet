@@ -1,1 +1,1 @@
-var mnemonic = "peasant month electric boss push jeans deliver produce finger birth leopard piano";
+var mnemonic = "island shoe reason rifle exact enroll wife any traffic hip expand affair";

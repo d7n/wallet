@@ -1,1 +1,1 @@
-var mnemonic = "round then child chef crawl embrace employ quote topple pluck airport general";
+var mnemonic = "accident oyster struggle distance foam pear trip vague clean goddess vivid diagram";

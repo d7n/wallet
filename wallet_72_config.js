@@ -1,1 +1,1 @@
-var mnemonic = "ghost busy tail swear door gaze sound pipe season tortoise surround review";
+var mnemonic = "chef purpose exit sad unhappy gold shell sausage idea excuse crane cry";

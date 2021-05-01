@@ -1,1 +1,1 @@
-var mnemonic = "lend price give unveil flash view sad love grape someone state dawn";
+var mnemonic = "album relax illegal visual museum basket suspect inflict must diary miss cream";

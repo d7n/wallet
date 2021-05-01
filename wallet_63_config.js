@@ -1,1 +1,1 @@
-var mnemonic = "opinion giggle target final thank learn inquiry outdoor urban sing midnight fabric";
+var mnemonic = "praise recycle debris truly peace combine approve element eye ill robust fluid";

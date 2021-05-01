@@ -1,1 +1,1 @@
-var mnemonic = "charge wine follow ivory solve glare under defy horror chef attitude myself";
+var mnemonic = "major exhibit blade sphere foster parent gap brick notable idle peanut exercise";

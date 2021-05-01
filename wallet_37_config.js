@@ -1,1 +1,1 @@
-var mnemonic = "wheat panel pen habit slight wet naive turtle earth canal combine print";
+var mnemonic = "dinosaur nasty annual pitch grant lift pizza target uniform make glow injury";

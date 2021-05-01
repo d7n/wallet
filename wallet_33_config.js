@@ -1,1 +1,1 @@
-var mnemonic = "control skate nation doll train cloud angry donkey slab conduct journey flag";
+var mnemonic = "hill nose great print photo token truth few peace enter coyote avoid";

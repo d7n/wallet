@@ -1,1 +1,1 @@
-var mnemonic = "exotic mutual mean prefer recipe idea industry fit sibling increase decline road";
+var mnemonic = "seven surround undo misery notice season barely tribe shy genuine vapor aspect";

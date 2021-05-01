@@ -1,1 +1,1 @@
-var mnemonic = "load stage virtual play brisk silver pigeon evidence armed magic attract measure";
+var mnemonic = "text trouble educate stick yard upper you lawsuit almost path guilt foam";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon lamp about rigid sheriff quote record laptop fish target search crack";
+var mnemonic = "bullet answer noodle exhaust west alarm hockey swim wait also sister crush";

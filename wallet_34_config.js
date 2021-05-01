@@ -1,1 +1,1 @@
-var mnemonic = "oval eagle fold elite concert use pond ship ability donor case eternal";
+var mnemonic = "grace bike aunt suffer bid crawl ginger jump hazard addict vital reveal";

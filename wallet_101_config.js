@@ -1,1 +1,1 @@
-var mnemonic = "today inform you among busy waste trial lady federal enact amateur artwork";
+var mnemonic = "snack wife pitch strategy purchase index lift heavy assault bridge thrive rich";

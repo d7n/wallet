@@ -1,1 +1,1 @@
-var mnemonic = "abuse spare artwork humble cup explain wonder bullet roast rather surface humble";
+var mnemonic = "recipe gauge cactus fence odor brisk caution utility casual nice clutch draw";

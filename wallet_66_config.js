@@ -1,1 +1,1 @@
-var mnemonic = "royal truth property page scale coral rookie sentence utility exhaust eternal easy";
+var mnemonic = "stone baby portion timber agent device episode aisle nuclear cousin carry cute";

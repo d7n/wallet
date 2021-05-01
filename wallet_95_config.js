@@ -1,1 +1,1 @@
-var mnemonic = "client quick just artefact eyebrow mountain blind ivory purchase elbow hawk tissue";
+var mnemonic = "raven average song dilemma invest soda attack mercy exhibit claim sheriff lava";

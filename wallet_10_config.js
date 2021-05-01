@@ -1,1 +1,1 @@
-var mnemonic = "father torch whale picture volcano capital payment oppose mention bench diagram price";
+var mnemonic = "fringe volcano below kiss hurdle notice swamp there valley version ghost keen";

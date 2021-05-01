@@ -1,1 +1,1 @@
-var mnemonic = "define coffee always spot kingdom solution road begin gas twin open receive";
+var mnemonic = "weasel enforce pause rain razor elevator absorb parrot during jazz peasant pyramid";

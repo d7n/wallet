@@ -1,1 +1,1 @@
-var mnemonic = "foster visa zero disease captain cherry inject hope brief solid catch cram";
+var mnemonic = "demise discover shock kick eyebrow enable method soon march insect stick fit";

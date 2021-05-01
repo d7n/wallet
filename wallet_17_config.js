@@ -1,1 +1,1 @@
-var mnemonic = "party zero wasp six nature view artist lake couple enlist elite logic";
+var mnemonic = "wave walk invest taxi spawn apple other satisfy team want orphan attitude";

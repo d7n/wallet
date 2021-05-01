@@ -1,1 +1,1 @@
-var mnemonic = "together enjoy sound innocent always someone become gallery garden divert roof point";
+var mnemonic = "spare buffalo gaze glide list lift toast police fly run chaos absorb";

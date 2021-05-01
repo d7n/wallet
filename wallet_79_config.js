@@ -1,1 +1,1 @@
-var mnemonic = "vocal confirm pepper alter swap gallery grant issue rebel first allow suspect";
+var mnemonic = "deal effort result mammal birth various inquiry speak coast alpha above leg";

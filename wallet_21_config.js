@@ -1,1 +1,1 @@
-var mnemonic = "volume shallow pause ask cry waste burst gold verify edge cluster wave";
+var mnemonic = "banana fluid cover kit shrimp puzzle describe seek easily list tourist month";

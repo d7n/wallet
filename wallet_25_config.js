@@ -1,1 +1,1 @@
-var mnemonic = "pretty plug include allow become range indicate buyer swim liquid town mule";
+var mnemonic = "company scorpion amazing indoor woman disease okay combine absent nose naive mother";

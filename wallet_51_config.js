@@ -1,1 +1,1 @@
-var mnemonic = "donor husband forward father just happy dad tuition movie forest write common";
+var mnemonic = "gold imitate fade fossil invite chief snack collect dignity core shine series";

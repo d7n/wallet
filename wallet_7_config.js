@@ -1,1 +1,1 @@
-var mnemonic = "fork beach exile harsh soldier juice brother online dilemma movie balance harvest";
+var mnemonic = "print valley gadget state goat speed setup frequent husband clip knife gloom";

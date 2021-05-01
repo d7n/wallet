@@ -1,1 +1,1 @@
-var mnemonic = "right off organ dignity gift blouse explain receive trial father broom garment";
+var mnemonic = "wall dog boy purchase disagree slide produce vicious one survey umbrella oppose";

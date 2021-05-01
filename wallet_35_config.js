@@ -1,1 +1,1 @@
-var mnemonic = "often crop spike erode delay always fiction message spell news idea whale";
+var mnemonic = "monster flavor execute mule multiply broccoli youth pass vault label female opera";

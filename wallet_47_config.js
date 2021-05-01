@@ -1,1 +1,1 @@
-var mnemonic = "copper glove garlic clown bacon neglect sponsor please glow system rhythm clever";
+var mnemonic = "senior shoulder spider motor festival fee velvet hospital rough scrub carry express";

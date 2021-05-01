@@ -1,1 +1,1 @@
-var mnemonic = "dismiss flat coach hover riot dad shift pudding negative lend ahead tuition";
+var mnemonic = "direct infant electric grass mosquito cannon unknown kick noodle sunset army hour";

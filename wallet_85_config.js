@@ -1,1 +1,1 @@
-var mnemonic = "upgrade ribbon system stage offer twin poem scrap amused pattern day web";
+var mnemonic = "claim rib tomorrow fee scale like doctor wasp two dad female wing";

@@ -1,1 +1,1 @@
-var mnemonic = "wild predict lake during milk traffic model fatal sail elbow ensure club";
+var mnemonic = "harbor unknown noodle bridge large poem call turkey happy close define gravity";

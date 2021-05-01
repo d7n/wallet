@@ -1,1 +1,1 @@
-var mnemonic = "success impact connect abuse tell together adjust pause demise describe little cheap";
+var mnemonic = "practice royal palace digital taste memory slush buddy city barely enable oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "habit better language kingdom divorce scrub web brain advice hybrid supreme crane";
+var mnemonic = "release there snow arrange easily tuna that disease swallow voice lucky wedding";

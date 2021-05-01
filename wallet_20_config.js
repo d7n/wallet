@@ -1,1 +1,1 @@
-var mnemonic = "ship blue purchase fiber burden hammer next arctic rose drop peasant turkey";
+var mnemonic = "swing future equal bracket sweet hill knee assist vessel sausage fortune knife";

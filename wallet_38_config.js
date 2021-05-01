@@ -1,1 +1,1 @@
-var mnemonic = "act fiction document bring motion people economy pizza olympic bread exotic bus";
+var mnemonic = "pizza couple priority cannon ability caution also talk joy lonely used general";

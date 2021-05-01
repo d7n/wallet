@@ -1,1 +1,1 @@
-var mnemonic = "access pole advance shallow pumpkin theory learn captain abstract advice burst egg";
+var mnemonic = "wear slogan upon general very deer screen disease strong mandate clown industry";

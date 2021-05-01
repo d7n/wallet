@@ -1,1 +1,1 @@
-var mnemonic = "loan seminar ghost beyond cage inflict noodle alter uncover door exhibit athlete";
+var mnemonic = "spider duty school sugar mercy hire trust lens parrot deposit harvest travel";

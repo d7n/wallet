@@ -1,1 +1,1 @@
-var mnemonic = "humor supply credit onion damp critic theory immune local illegal unlock where";
+var mnemonic = "round knock shrug maze short nasty power load jelly letter mirror spoil";

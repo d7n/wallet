@@ -1,1 +1,1 @@
-var mnemonic = "such pepper blush dust season favorite salute punch insect sound river clinic";
+var mnemonic = "path fish fault great peasant spin spoon upset between wolf salmon cement";

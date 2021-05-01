@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow borrow chalk nephew churn clump limit humble surge asset warrior thought";
+var mnemonic = "old truck spend glance success burst enemy donkey oval false camera theory";

@@ -1,1 +1,1 @@
-var mnemonic = "fossil rigid abstract picture address hurry proud museum clinic hope major month";
+var mnemonic = "wish between lucky save hip spice elevator health relax envelope lawn palace";

@@ -1,1 +1,1 @@
-var mnemonic = "crew street soap wave taxi rookie used festival traffic invite reveal surface";
+var mnemonic = "spider physical length tooth loyal nest artwork border write arrest puppy audit";

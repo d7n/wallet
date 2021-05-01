@@ -1,1 +1,1 @@
-var mnemonic = "destroy chef humble leave sweet mushroom afford era wall rocket health thumb";
+var mnemonic = "midnight avoid enlist mimic adapt laugh caught wool tone buffalo deer suffer";
