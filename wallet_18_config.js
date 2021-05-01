@@ -1,1 +1,1 @@
-var mnemonic = "mushroom use whisper traffic panther uniform process under immune scare magnet genuine";
+var mnemonic = "south aspect smoke cradle faculty inject wait concert practice vicious ten desert";

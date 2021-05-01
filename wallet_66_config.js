@@ -1,1 +1,1 @@
-var mnemonic = "elevator grass plunge castle guilt kick cloth spider sweet act fiber whip";
+var mnemonic = "occur brush service material vote skull square gravity element opera cannon coral";

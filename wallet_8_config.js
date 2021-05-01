@@ -1,1 +1,1 @@
-var mnemonic = "embrace polar garden creek robust peace public style rebuild guilt tiger truth";
+var mnemonic = "game avoid tenant museum forum tobacco anxiety rain clip giggle grass best";

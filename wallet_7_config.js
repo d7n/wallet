@@ -1,1 +1,1 @@
-var mnemonic = "style faith damp involve fine ghost admit salmon gold flock torch point";
+var mnemonic = "long virtual lounge pumpkin risk galaxy noodle around card angry disagree someone";

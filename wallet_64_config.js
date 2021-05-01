@@ -1,1 +1,1 @@
-var mnemonic = "chicken chest prize topple crunch elevator drive oyster program bunker hedgehog camp";
+var mnemonic = "swing define right awkward cool canvas ribbon all space meadow spy tenant";

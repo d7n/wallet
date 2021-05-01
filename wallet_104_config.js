@@ -1,1 +1,1 @@
-var mnemonic = "timber stumble bonus embark boat expect report promote amateur lawsuit soda frequent";
+var mnemonic = "fix timber estate hockey practice syrup impulse kiwi describe weasel fall glue";

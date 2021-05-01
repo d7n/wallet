@@ -1,1 +1,1 @@
-var mnemonic = "normal harsh snack session surface sketch juice clip online shoot inquiry reopen";
+var mnemonic = "must vibrant recycle other vanish atom loud wide daughter provide prevent success";

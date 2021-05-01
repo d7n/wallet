@@ -1,1 +1,1 @@
-var mnemonic = "jeans suspect ride buffalo cash senior topic water mountain vast exit coffee";
+var mnemonic = "timber limb anxiety drive shoe focus direct exotic mixed cabin mad vacant";

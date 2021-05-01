@@ -1,1 +1,1 @@
-var mnemonic = "question lizard setup way surprise session mandate tired plastic good fire ribbon";
+var mnemonic = "chase boil solve annual gasp love limb inhale shallow among earth play";

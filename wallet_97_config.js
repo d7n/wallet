@@ -1,1 +1,1 @@
-var mnemonic = "emerge pen sunset dice edit wild sign ready require survey tennis bridge";
+var mnemonic = "achieve misery top dice tank raw crack found tiger include video stay";

@@ -1,1 +1,1 @@
-var mnemonic = "auction dawn finish faculty hand grant tuition patrol palace approve dose donate";
+var mnemonic = "isolate argue canvas leg rude mad guess stairs clump gun witness across";

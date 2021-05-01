@@ -1,1 +1,1 @@
-var mnemonic = "slow fork drift drastic midnight vital power glue mention lyrics giant rhythm";
+var mnemonic = "plunge thing office blind mule correct tomato short concert photo taste angry";

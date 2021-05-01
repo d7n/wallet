@@ -1,1 +1,1 @@
-var mnemonic = "enemy fuel genuine have mind staff exact border deposit desk add spray";
+var mnemonic = "nothing script rough idea diamond veteran license pottery six neck festival waste";

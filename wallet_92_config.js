@@ -1,1 +1,1 @@
-var mnemonic = "embark section veteran water invest frost case excess liar glare any rent";
+var mnemonic = "chronic mountain cook equal vast ketchup lunch long earn joke aerobic tornado";

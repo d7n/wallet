@@ -1,1 +1,1 @@
-var mnemonic = "reform invite banner butter half rug skull raise peace trust skull access";
+var mnemonic = "adjust upper motor leader mosquito pool inhale mad layer mystery icon afford";

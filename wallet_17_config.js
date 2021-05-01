@@ -1,1 +1,1 @@
-var mnemonic = "track keep receive cross choose enhance shallow saddle parrot save sun view";
+var mnemonic = "region dolphin begin doctor civil chat flush mammal artwork border sport orphan";

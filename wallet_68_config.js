@@ -1,1 +1,1 @@
-var mnemonic = "deer letter meat gadget mention alley spend food predict crystal lottery kick";
+var mnemonic = "person volcano misery scout refuse endless drop brass enough inject oval join";

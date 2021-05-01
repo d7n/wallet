@@ -1,1 +1,1 @@
-var mnemonic = "finger first way spell motion olympic garden narrow glove receive caught follow";
+var mnemonic = "what injury run judge opera idle survey police expose tattoo bright token";

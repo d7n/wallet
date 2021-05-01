@@ -1,1 +1,1 @@
-var mnemonic = "over fat maximum enough man verb bicycle next curtain solution physical garment";
+var mnemonic = "jeans wet snake trial hurry acid enemy grant toddler lawn engage begin";

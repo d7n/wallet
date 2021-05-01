@@ -1,1 +1,1 @@
-var mnemonic = "during lizard short decrease name scare april west toddler negative ancient pilot";
+var mnemonic = "embark hover photo enemy album mammal favorite forest dolphin love village wasp";

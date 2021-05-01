@@ -1,1 +1,1 @@
-var mnemonic = "river approve junior damage carpet enact potato tuition bag grocery comfort pill";
+var mnemonic = "noble bounce scare spray early amazing clutch sausage critic stadium skirt lazy";

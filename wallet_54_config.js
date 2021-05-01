@@ -1,1 +1,1 @@
-var mnemonic = "pear couch twice snack enact fitness catalog echo among car patrol apart";
+var mnemonic = "laugh maid broccoli insane odor orphan egg scissors naive taste index person";

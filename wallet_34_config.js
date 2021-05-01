@@ -1,1 +1,1 @@
-var mnemonic = "major aware palace identify use ice hen chuckle rigid glory distance bonus";
+var mnemonic = "vague phone hover bright way vintage about athlete layer edge session frog";

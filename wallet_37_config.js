@@ -1,1 +1,1 @@
-var mnemonic = "endless unit electric segment develop auto siren amazing repair embody mass knife";
+var mnemonic = "settle crumble island space elevator weird harvest build hen output wise arch";

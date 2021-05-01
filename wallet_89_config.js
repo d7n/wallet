@@ -1,1 +1,1 @@
-var mnemonic = "ball bullet oblige social fashion rely cube fox suggest dice pen tiny";
+var mnemonic = "nation fabric expand orient timber roof update split roast still risk hybrid";

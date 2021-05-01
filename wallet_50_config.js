@@ -1,1 +1,1 @@
-var mnemonic = "axis foam oblige cherry jazz nest rack canal improve daring rebel orange";
+var mnemonic = "miss net increase embrace agent luxury carry pattern cycle urge panic over";

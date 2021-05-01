@@ -1,1 +1,1 @@
-var mnemonic = "exit please jaguar message update shine idle float seat antenna lucky top";
+var mnemonic = "tattoo vault stem host kick initial shield galaxy time rice valley mad";

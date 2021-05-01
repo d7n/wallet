@@ -1,1 +1,1 @@
-var mnemonic = "stone arena write sun clown tube primary glove twist lift timber blind";
+var mnemonic = "lucky interest betray gallery poem december ocean ugly inject style sail tone";

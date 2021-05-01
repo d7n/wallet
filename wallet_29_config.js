@@ -1,1 +1,1 @@
-var mnemonic = "spoil glance bone scrap win clip paddle drop favorite parent pottery trash";
+var mnemonic = "century cereal always cattle night all faculty visual barrel cube tuna coyote";

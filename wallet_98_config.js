@@ -1,1 +1,1 @@
-var mnemonic = "people mean same close uncle arrow leisure elbow blood zoo melt time";
+var mnemonic = "stick swim attitude veteran butter urge tomorrow rail problem idea tornado alien";

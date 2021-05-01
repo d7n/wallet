@@ -1,1 +1,1 @@
-var mnemonic = "trade surround water shy begin slender buddy echo forum total romance margin";
+var mnemonic = "lyrics reward two trophy siege demand resource clock drastic strike canal nation";

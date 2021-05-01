@@ -1,1 +1,1 @@
-var mnemonic = "edit kitchen shove slot confirm vague sock bind deal neglect response seat";
+var mnemonic = "congress grit above kit father swarm guitar solve moment just issue pledge";

@@ -1,1 +1,1 @@
-var mnemonic = "used cool team charge naive pepper robot luxury any pencil reopen buffalo";
+var mnemonic = "warfare unknown reject awesome upgrade minor word virtual digital clog tackle pencil";

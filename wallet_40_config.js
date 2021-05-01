@@ -1,1 +1,1 @@
-var mnemonic = "lonely autumn sunset still emotion canoe assume walnut wet multiply ensure stadium";
+var mnemonic = "sausage act endorse mechanic genuine sudden boil tattoo index novel grunt afraid";

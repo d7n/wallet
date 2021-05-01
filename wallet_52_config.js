@@ -1,1 +1,1 @@
-var mnemonic = "bless resemble another wisdom duty large muscle truck denial local multiply avoid";
+var mnemonic = "elephant cargo camp gather absurd catch gentle claw legend brave offer citizen";

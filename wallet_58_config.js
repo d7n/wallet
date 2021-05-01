@@ -1,1 +1,1 @@
-var mnemonic = "shoot square exclude copy napkin glow river country river film team ball";
+var mnemonic = "around cigar famous alert absorb aware tray input noble man hammer bargain";

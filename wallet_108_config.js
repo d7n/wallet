@@ -1,1 +1,1 @@
-var mnemonic = "crew dawn mountain connect loan convince bus swallow timber shift flame dance";
+var mnemonic = "gather mom gas lion aspect cloud corn amazing lyrics rocket april invite";

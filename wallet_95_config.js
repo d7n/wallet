@@ -1,1 +1,1 @@
-var mnemonic = "snake valve indicate sphere various parent grid elephant blame rhythm curve wish";
+var mnemonic = "ticket output confirm scrub region reduce swear sugar maximum patient accident dice";

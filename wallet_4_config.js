@@ -1,1 +1,1 @@
-var mnemonic = "cage gallery swing camera shoulder absorb cake leaf rebuild journey clever door";
+var mnemonic = "begin rib enhance mansion wash ginger replace north tenant couple jump pony";

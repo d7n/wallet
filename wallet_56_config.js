@@ -1,1 +1,1 @@
-var mnemonic = "treat erosion distance coast oak husband gauge margin alley pattern warfare brief";
+var mnemonic = "mirror embody model knock balance repeat suit napkin aunt breeze crowd nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze just economy sudden kite cancel begin orphan also lemon work stone";
+var mnemonic = "cycle pony salute merry curious rib pottery air punch where dignity mirror";

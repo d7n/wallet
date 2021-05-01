@@ -1,1 +1,1 @@
-var mnemonic = "obtain goose insane romance also expire erode topic salute ask couch feed";
+var mnemonic = "valve pig panther chicken leave gesture stamp face inform space finish ticket";

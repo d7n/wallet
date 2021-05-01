@@ -1,1 +1,1 @@
-var mnemonic = "faculty occur item dentist weather merge throw recycle rescue fantasy video today";
+var mnemonic = "choose rocket release insane bean father oppose wagon portion air approve client";

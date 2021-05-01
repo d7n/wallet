@@ -1,1 +1,1 @@
-var mnemonic = "love pudding aisle social option guide truth echo frown country soap rude";
+var mnemonic = "demise cotton leisure bright pave select champion struggle reward work result network";

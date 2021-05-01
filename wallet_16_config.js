@@ -1,1 +1,1 @@
-var mnemonic = "endless nephew you this police remember divorce adjust mystery smart wash spatial";
+var mnemonic = "upper cigar auction chapter print liar hawk issue pretty document head bone";

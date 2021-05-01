@@ -1,1 +1,1 @@
-var mnemonic = "embrace when inquiry before fox credit squirrel spawn lesson robust retreat worth";
+var mnemonic = "race frozen exercise budget nurse rice column core light gorilla wing pole";

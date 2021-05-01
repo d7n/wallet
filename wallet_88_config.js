@@ -1,1 +1,1 @@
-var mnemonic = "patient party blood act sure agent result verify lunar skull share bleak";
+var mnemonic = "smile lottery infant festival sugar index urban frequent wealth hold elegant panda";

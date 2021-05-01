@@ -1,1 +1,1 @@
-var mnemonic = "staff fold spin fan grunt video agree any sister about offer sudden";
+var mnemonic = "other bulk cloth report cook sponsor focus evil raw visual welcome nerve";

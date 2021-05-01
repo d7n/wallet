@@ -1,1 +1,1 @@
-var mnemonic = "potato comic eye labor chalk grow cruel couch fashion museum phrase digital";
+var mnemonic = "toy acid fever ill peace crane network middle hub gas cloth side";

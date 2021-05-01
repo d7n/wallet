@@ -1,1 +1,1 @@
-var mnemonic = "all clinic dynamic lift modify journey that spare security make series since";
+var mnemonic = "journey guess cage three stock earth enter profit dove huge monster pulse";

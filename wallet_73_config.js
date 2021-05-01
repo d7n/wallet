@@ -1,1 +1,1 @@
-var mnemonic = "monster multiply flag capital spoil give version crucial tower rough bone mercy";
+var mnemonic = "board dawn mad pass move gift old muscle forward wide endless pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "aware season license rose ancient comfort april load return bean escape fly";
+var mnemonic = "what truck mention kingdom lava prison kitten suit brisk ocean address consider";

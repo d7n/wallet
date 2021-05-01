@@ -1,1 +1,1 @@
-var mnemonic = "height enrich found vibrant awful rhythm demise often when update explain purity";
+var mnemonic = "agent dust celery muffin oil patrol future diary frozen stumble push upset";

@@ -1,1 +1,1 @@
-var mnemonic = "august tide identify share caution idle rubber moon say purpose because lyrics";
+var mnemonic = "ecology life patch width north canyon way master already access paper friend";

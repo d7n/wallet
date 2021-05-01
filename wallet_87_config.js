@@ -1,1 +1,1 @@
-var mnemonic = "wet evoke lounge wheel remind scorpion egg jealous fall tooth slow renew";
+var mnemonic = "salute power brown steel divorce own radar culture east test siren foot";

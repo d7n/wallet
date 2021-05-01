@@ -1,1 +1,1 @@
-var mnemonic = "sniff agent eternal rabbit ankle cabin awful weekend quantum south maple inmate";
+var mnemonic = "wolf nasty pulp call update truth afford estate weird invest maple lava";

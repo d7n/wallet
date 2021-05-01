@@ -1,1 +1,1 @@
-var mnemonic = "door athlete odor also mesh donkey shuffle segment aisle tip upset dolphin";
+var mnemonic = "sheriff degree harvest indicate myself cat scene wrap loud world impact section";

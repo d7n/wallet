@@ -1,1 +1,1 @@
-var mnemonic = "affair spike grape midnight pet inspire box team surprise stem true palace";
+var mnemonic = "cupboard clump worth pact vanish impact cake little when actual model best";

@@ -1,1 +1,1 @@
-var mnemonic = "chuckle chaos island glimpse cram faculty tower exist venture boring risk rib";
+var mnemonic = "pill outdoor empower dream detect design wave gun wrestle sadness sunset alien";

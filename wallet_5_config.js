@@ -1,1 +1,1 @@
-var mnemonic = "arctic mountain boat domain rally judge endless car ethics pass deposit call";
+var mnemonic = "truck awful color adult lake bleak lava broken license version tornado demand";

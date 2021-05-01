@@ -1,1 +1,1 @@
-var mnemonic = "emotion chronic crouch pitch leg long snack open canoe access repair mimic";
+var mnemonic = "food above copper wise census put session divide road phrase diary village";

@@ -1,1 +1,1 @@
-var mnemonic = "subway acquire sense beach ability explain kingdom virtual snap drastic possible hobby";
+var mnemonic = "under thank flame caught cost shove squirrel govern one someone citizen order";

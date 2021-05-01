@@ -1,1 +1,1 @@
-var mnemonic = "shoe stay cart actress crater winter rotate topic chase decline aware emerge";
+var mnemonic = "swallow dice reunion observe click throw cargo valley bamboo essay mystery control";

@@ -1,1 +1,1 @@
-var mnemonic = "rival demise chuckle ladder analyst margin object sense shell ripple unveil pistol";
+var mnemonic = "whip saddle crystal gown give denial impact vacuum gasp swift age what";

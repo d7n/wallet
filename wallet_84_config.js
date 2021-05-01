@@ -1,1 +1,1 @@
-var mnemonic = "want faint cherry rug cash moon tribe fitness apple need address hip";
+var mnemonic = "assault first shoulder regret virus hammer arch crop early chronic ship blouse";

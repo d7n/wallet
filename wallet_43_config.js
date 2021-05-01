@@ -1,1 +1,1 @@
-var mnemonic = "expect poet country broom consider ski orient process wise awake rival kick";
+var mnemonic = "purchase elbow either spawn reduce kite avocado chef wheel emerge opinion hello";

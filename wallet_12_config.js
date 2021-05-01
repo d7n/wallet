@@ -1,1 +1,1 @@
-var mnemonic = "prize drama course speak route submit oak soup later hamster come pair";
+var mnemonic = "enhance bamboo voice connect violin mosquito enforce casual antique purity guard copy";

@@ -1,1 +1,1 @@
-var mnemonic = "jump credit toe attitude skin have upper spoon idle expect scheme jaguar";
+var mnemonic = "appear organ gun midnight write step chicken empty choice flat river worth";

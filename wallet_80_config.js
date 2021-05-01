@@ -1,1 +1,1 @@
-var mnemonic = "payment sauce mistake lake result fluid street hair kitchen trade hole future";
+var mnemonic = "culture embark pelican observe harsh cute minute idea crisp alcohol divide reopen";

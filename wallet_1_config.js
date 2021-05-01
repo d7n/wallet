@@ -1,1 +1,1 @@
-var mnemonic = "rent together robust paper purse ocean once elephant opera suit clap trigger";
+var mnemonic = "shoulder hurt pattern script disease predict never divide outdoor wide marble hospital";

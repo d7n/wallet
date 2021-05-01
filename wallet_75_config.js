@@ -1,1 +1,1 @@
-var mnemonic = "brush fossil pigeon cave drop knife model flag emotion assume soap symptom";
+var mnemonic = "danger hotel rifle woman issue cloth shrug pass into model demand clinic";

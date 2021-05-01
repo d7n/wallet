@@ -1,1 +1,1 @@
-var mnemonic = "survey simple sword example omit limit note apart empty forget before slim";
+var mnemonic = "ripple wrestle panic clog mango accuse system betray chapter trust step token";

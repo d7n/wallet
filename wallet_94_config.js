@@ -1,1 +1,1 @@
-var mnemonic = "skin end swallow matrix defense dose neither slogan proof stem blind traffic";
+var mnemonic = "vivid ivory pony host bubble bachelor decide nation trial benefit multiply inherit";

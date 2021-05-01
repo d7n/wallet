@@ -1,1 +1,1 @@
-var mnemonic = "live isolate cool theory target connect wasp caution degree give apple insect";
+var mnemonic = "target goddess blood debris analyst entire soap original usual badge loop inquiry";

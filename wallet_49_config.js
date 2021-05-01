@@ -1,1 +1,1 @@
-var mnemonic = "client jazz host rookie mouse coin clump game hope slam shuffle clever";
+var mnemonic = "forget milk gadget move exact swap sibling ghost sorry fault hockey pledge";

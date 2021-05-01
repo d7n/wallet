@@ -1,1 +1,1 @@
-var mnemonic = "end industry round lake light neither evidence ripple fatal sword rice ranch";
+var mnemonic = "hedgehog proof october upset property require before turn scout arch pencil follow";

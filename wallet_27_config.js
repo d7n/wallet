@@ -1,1 +1,1 @@
-var mnemonic = "differ uphold patient jazz stuff cake crumble captain wood girl reduce scheme";
+var mnemonic = "travel exist please gun slide moral shiver emotion travel sniff glue cover";

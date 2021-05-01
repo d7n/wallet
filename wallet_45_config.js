@@ -1,1 +1,1 @@
-var mnemonic = "clump detect hungry crystal rally aim valley alpha derive fly cinnamon kitchen";
+var mnemonic = "ball isolate hotel move comic smooth trick punch wine effort good hobby";

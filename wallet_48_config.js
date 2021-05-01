@@ -1,1 +1,1 @@
-var mnemonic = "aim tomorrow payment bird ancient puppy math razor floor museum shrug universe";
+var mnemonic = "perfect already throw begin market before impulse excess equal able chaos defy";

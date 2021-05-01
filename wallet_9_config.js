@@ -1,1 +1,1 @@
-var mnemonic = "comic common march asset field fame symptom abandon math whisper ugly inherit";
+var mnemonic = "satoshi broken trade trim inhale foot draw iron badge win found goat";

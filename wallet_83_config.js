@@ -1,1 +1,1 @@
-var mnemonic = "science vote mountain island account moon system reunion match project eye goat";
+var mnemonic = "federal raise isolate ability joke trust ability panther hood broccoli desert quiz";
