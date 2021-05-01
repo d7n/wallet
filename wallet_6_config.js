@@ -1,1 +1,1 @@
-var mnemonic = "bar vapor current will drift whale economy spin science rich duty hen";
+var mnemonic = "spell bid gauge ensure debris gold hamster route rotate never online resource";

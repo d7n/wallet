@@ -1,1 +1,1 @@
-var mnemonic = "become park valley make width affair language depend title among goat safe";
+var mnemonic = "state similar swallow solution frost atom eternal dinosaur bag winter resist bracket";

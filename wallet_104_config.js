@@ -1,1 +1,1 @@
-var mnemonic = "worry asthma debate burst chair below question awesome demise horror enough spice";
+var mnemonic = "swarm drop parrot merit eternal moment coyote deny screen buddy float memory";

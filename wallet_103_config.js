@@ -1,1 +1,1 @@
-var mnemonic = "supply angry island reject female gown system exhibit apology detect index caught";
+var mnemonic = "daring soon hello tumble across labor frog citizen inform use shop guide";

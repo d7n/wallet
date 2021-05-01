@@ -1,1 +1,1 @@
-var mnemonic = "silent wrap curtain wood entry section tilt december misery kitchen orient drip";
+var mnemonic = "embrace rough moment mango gate unique portion topple panther suspect antenna option";

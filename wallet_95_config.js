@@ -1,1 +1,1 @@
-var mnemonic = "card walnut swim rack inspire sweet siren stem reflect uncover bone frozen";
+var mnemonic = "call fly immense jewel comic lens oxygen siege bounce dash repair spell";

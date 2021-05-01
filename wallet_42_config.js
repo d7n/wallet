@@ -1,1 +1,1 @@
-var mnemonic = "loud crane special mirror begin choose lava subway tomato daring spare seed";
+var mnemonic = "unusual rural anchor document furnace normal tragic consider run viable this element";

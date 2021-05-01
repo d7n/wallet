@@ -1,1 +1,1 @@
-var mnemonic = "century space matter margin file hedgehog width promote witness squeeze own matrix";
+var mnemonic = "group salt jungle celery bamboo dove mix present innocent adjust pretty travel";

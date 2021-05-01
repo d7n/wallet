@@ -1,1 +1,1 @@
-var mnemonic = "dice life wool armor gentle fly clarify away soup grief helmet fine";
+var mnemonic = "glimpse obscure phone hair forward army essence final orient patient faith affair";

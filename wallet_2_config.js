@@ -1,1 +1,1 @@
-var mnemonic = "educate various cinnamon scrap mesh absent inside whale fury portion advance decrease";
+var mnemonic = "capable torch issue imitate wife mirror claim cricket final famous echo love";

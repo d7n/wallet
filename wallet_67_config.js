@@ -1,1 +1,1 @@
-var mnemonic = "govern crop crumble inquiry feed captain empty congress huge page actual pipe";
+var mnemonic = "little energy when raw swallow betray electric swallow poem wrestle struggle affair";

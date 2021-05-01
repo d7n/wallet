@@ -1,1 +1,1 @@
-var mnemonic = "vast critic parrot move fabric neither edit lesson design twelve again grape";
+var mnemonic = "cry assault medal essay include blush album pull dance balcony struggle grid";

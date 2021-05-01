@@ -1,1 +1,1 @@
-var mnemonic = "ladder marble improve impose keep alter alter sing emotion harsh van tomorrow";
+var mnemonic = "picture royal pear maid office develop violin happy velvet derive rough trap";

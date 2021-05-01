@@ -1,1 +1,1 @@
-var mnemonic = "fit live fee wife motor sun slab start twelve solid large flag";
+var mnemonic = "science talent skull party bulk unique usage cover couple chronic inmate rookie";

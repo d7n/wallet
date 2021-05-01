@@ -1,1 +1,1 @@
-var mnemonic = "shift goat then alone skirt visit fox license second raw evidence guard";
+var mnemonic = "impact spare amount sting frost flight tennis rival crazy loop they lion";

@@ -1,1 +1,1 @@
-var mnemonic = "rack opinion canal cloth attract grid inquiry now ridge because blue sleep";
+var mnemonic = "must beyond wash century quality final foot reflect axis alien fragile label";

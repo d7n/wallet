@@ -1,1 +1,1 @@
-var mnemonic = "snake beef short art impact sing defy sign concert earn save wine";
+var mnemonic = "keep tomato satoshi alarm logic vast session garment work supply lamp sail";

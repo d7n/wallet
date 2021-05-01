@@ -1,1 +1,1 @@
-var mnemonic = "truck segment quick link brisk suit brisk very pledge glare venue raccoon";
+var mnemonic = "catalog reason wrestle clump twelve top make pretty kid banana super lottery";

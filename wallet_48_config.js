@@ -1,1 +1,1 @@
-var mnemonic = "fantasy sport rule piece road switch venue helmet nice piano ancient insect";
+var mnemonic = "people obtain alone rug nation approve indoor own swear fresh tunnel patrol";

@@ -1,1 +1,1 @@
-var mnemonic = "arena tomato strategy canal skin truly fish tobacco ridge burger jelly silent";
+var mnemonic = "brand mind copy devote twin dinner lyrics motor measure egg warfare indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "about grocery clap circle patient option deliver raccoon decline lesson turkey bronze";
+var mnemonic = "chair relax side advice slam clever lawsuit setup miracle day avoid family";

@@ -1,1 +1,1 @@
-var mnemonic = "food uphold black help cloud behave pink metal faculty gaze tool mountain";
+var mnemonic = "behind breeze curtain sun either wink hospital jeans tackle enough concert snow";

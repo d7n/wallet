@@ -1,1 +1,1 @@
-var mnemonic = "right birth also end hidden there tape real rotate curtain shop inform";
+var mnemonic = "mad sunny goose inject unfold occur cable pill time obtain lemon electric";

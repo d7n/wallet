@@ -1,1 +1,1 @@
-var mnemonic = "expire about surprise select fat angle flower finger when dice song code";
+var mnemonic = "sausage desert step aware top buffalo legend thumb any chimney wheat manual";

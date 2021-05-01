@@ -1,1 +1,1 @@
-var mnemonic = "enjoy depart glow apart blouse artist share tornado siege scissors hat elevator";
+var mnemonic = "reunion author predict mango advice blame scene start arrow adjust feel summer";

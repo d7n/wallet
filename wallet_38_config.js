@@ -1,1 +1,1 @@
-var mnemonic = "quantum birth guitar raw warfare slab make dilemma ball vehicle wagon tobacco";
+var mnemonic = "sing jar whisper melt loop orphan ticket stem mimic tray hero throw";

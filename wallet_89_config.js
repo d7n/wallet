@@ -1,1 +1,1 @@
-var mnemonic = "already plastic dutch expand cereal describe example fee key burst wisdom advance";
+var mnemonic = "uniform slush spray virtual obtain pen race soul beyond mule because wonder";

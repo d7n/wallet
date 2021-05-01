@@ -1,1 +1,1 @@
-var mnemonic = "loan ketchup burger leaf adapt heavy spread book second short shock spoon";
+var mnemonic = "tattoo flee total cattle gospel left leader fuel tone gadget derive invest";

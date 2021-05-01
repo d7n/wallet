@@ -1,1 +1,1 @@
-var mnemonic = "unit chef purity helmet machine regret type slush impulse bleak column comfort";
+var mnemonic = "vault effort obey picture treat move post shock remain faith age toy";

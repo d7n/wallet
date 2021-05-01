@@ -1,1 +1,1 @@
-var mnemonic = "ice differ they apology proud teach cloud laugh sign spot turkey dry";
+var mnemonic = "author voice year maid dash frost fan excuse equal slam much zero";

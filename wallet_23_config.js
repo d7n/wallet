@@ -1,1 +1,1 @@
-var mnemonic = "detail nephew camera promote quick upper traffic warfare embody crop loud eagle";
+var mnemonic = "tape allow pride siege stairs surprise capital oak poverty food depend grunt";

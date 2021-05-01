@@ -1,1 +1,1 @@
-var mnemonic = "solve solid suspect render sleep miracle flame left gown water helmet bread";
+var mnemonic = "fence stem tip sound arrange sugar finish smooth describe material job canal";

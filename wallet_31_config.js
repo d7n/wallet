@@ -1,1 +1,1 @@
-var mnemonic = "laptop enhance more immune defy train retreat wine upgrade obscure harsh spell";
+var mnemonic = "piano frame oil idea blind fruit hover vendor cargo ketchup abstract expose";

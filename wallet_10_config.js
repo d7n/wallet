@@ -1,1 +1,1 @@
-var mnemonic = "muscle youth naive dice bacon holiday melody manage size auto limb chaos";
+var mnemonic = "spell hospital clerk abandon kidney diamond resource radio bird equip rural region";

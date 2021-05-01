@@ -1,1 +1,1 @@
-var mnemonic = "relief manual feed member machine antenna veteran lecture oil fabric south solution";
+var mnemonic = "basket lesson decline moral unknown spend clap love lyrics brass excite either";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant hire naive shrimp oyster when brick message tip video betray key";
+var mnemonic = "thing frog hello intact link music napkin basket proof demand that west";

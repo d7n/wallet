@@ -1,1 +1,1 @@
-var mnemonic = "write sell clip jar spray artefact vacuum infant parent opinion segment roof";
+var mnemonic = "lava cliff mandate again saddle quick arrow call dial lock then damp";

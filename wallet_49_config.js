@@ -1,1 +1,1 @@
-var mnemonic = "quick fossil camp echo rapid because peace horn equip rich receive door";
+var mnemonic = "lady secret liberty race robot mobile mansion salad idle room armor proud";

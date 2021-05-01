@@ -1,1 +1,1 @@
-var mnemonic = "try useless depend iron entire rapid misery gas tuition undo course sauce";
+var mnemonic = "bamboo topple mushroom night matrix wolf image obscure pear brick dawn solid";

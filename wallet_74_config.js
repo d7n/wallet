@@ -1,1 +1,1 @@
-var mnemonic = "forest word disorder muscle liquid humble alley dumb rhythm snap lab undo";
+var mnemonic = "panther glove wonder choose local secret athlete heart split blue salon fix";

@@ -1,1 +1,1 @@
-var mnemonic = "noise arena pitch pelican tank venture february comfort water case account salmon";
+var mnemonic = "eight youth tuition trust hawk shrimp split prepare express shoot lucky trash";

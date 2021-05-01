@@ -1,1 +1,1 @@
-var mnemonic = "sausage thing people kite reason crumble movie blossom culture airport warrior silver";
+var mnemonic = "edit palm song seed kid dust spot gossip kangaroo upgrade february shy";

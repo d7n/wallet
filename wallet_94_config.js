@@ -1,1 +1,1 @@
-var mnemonic = "across pull camera inspire rice arch inch roof much invite unaware abandon";
+var mnemonic = "route rich adjust lesson hire say airport cinnamon embrace regret skate grunt";

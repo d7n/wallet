@@ -1,1 +1,1 @@
-var mnemonic = "enforce pioneer vast shop zone yellow tide liberty police belt dinosaur race";
+var mnemonic = "immune outside notable busy fever entire control treat wasp hazard erupt arena";

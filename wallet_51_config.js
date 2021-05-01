@@ -1,1 +1,1 @@
-var mnemonic = "unique toe you swamp sheriff earth alarm absorb one raw alter return";
+var mnemonic = "puzzle observe funny master truth idle detail rail flash citizen film steak";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate rhythm size black slab arrange then village orchard connect fiscal skate";
+var mnemonic = "unhappy mansion awesome quit hazard feature quarter legal vacuum main often over";

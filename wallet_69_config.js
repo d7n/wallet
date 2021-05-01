@@ -1,1 +1,1 @@
-var mnemonic = "resource blossom hand patrol success urban this recipe expose hurt card potato";
+var mnemonic = "crack era rigid prosper best aim broken twenty special clerk kid ball";

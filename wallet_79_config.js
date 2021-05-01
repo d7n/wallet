@@ -1,1 +1,1 @@
-var mnemonic = "sudden paper garlic ankle syrup unfold glad length now plunge reflect diet";
+var mnemonic = "public liquid traffic course machine top art case tortoise diagram boss result";

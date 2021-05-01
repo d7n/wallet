@@ -1,1 +1,1 @@
-var mnemonic = "uncover minimum pyramid habit portion click much left camp access pilot connect";
+var mnemonic = "aspect easy never wear ethics author explain path add series moment elder";

@@ -1,1 +1,1 @@
-var mnemonic = "novel fiber alter flush outer hotel emotion forum dinosaur attend pen era";
+var mnemonic = "goat first brother meadow chest myself sleep erode civil quit nephew joy";

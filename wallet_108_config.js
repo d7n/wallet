@@ -1,1 +1,1 @@
-var mnemonic = "long scorpion mountain nasty seven involve plug shift wagon tube exit liquid";
+var mnemonic = "silver seek public fall sunny suit wasp song enhance crucial refuse fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "cup cattle eternal dentist escape agree piano fence rough inquiry winter clarify";
+var mnemonic = "army peasant climb build negative possible case family truck century snap unhappy";

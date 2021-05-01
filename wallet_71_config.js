@@ -1,1 +1,1 @@
-var mnemonic = "input balcony color magic loyal cake render elite devote come sibling question";
+var mnemonic = "sword please nature picture bunker hole marine fuel ozone coin cabin assist";

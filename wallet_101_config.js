@@ -1,1 +1,1 @@
-var mnemonic = "sock fatigue loop leaf security castle faith volcano repeat diary emerge joy";
+var mnemonic = "account armor inmate undo warm cat range defense replace case brisk venture";

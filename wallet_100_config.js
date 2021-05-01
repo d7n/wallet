@@ -1,1 +1,1 @@
-var mnemonic = "wisdom pistol sock venture pride grid language fall fiber spare clean equal";
+var mnemonic = "math shiver gospel laptop split obey ripple vapor pass under board double";

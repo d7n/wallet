@@ -1,1 +1,1 @@
-var mnemonic = "leg office era end race badge reflect discover enhance panic profit access";
+var mnemonic = "mushroom relax lottery ugly afford wrist maze burger dragon sister firm silly";

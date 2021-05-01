@@ -1,1 +1,1 @@
-var mnemonic = "armed over hidden patrol use fish bacon finger crumble patrol case account";
+var mnemonic = "daughter essence okay sad rail potato enact demand better blanket jealous misery";

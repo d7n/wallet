@@ -1,1 +1,1 @@
-var mnemonic = "basket talk lizard protect acoustic inherit obtain normal light cactus alien dawn";
+var mnemonic = "pencil right silent split guitar stumble radio cabbage grunt because blue fancy";

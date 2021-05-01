@@ -1,1 +1,1 @@
-var mnemonic = "pizza wrong absurd frost season relief trick dish sausage hidden witness task";
+var mnemonic = "return enact jaguar judge occur urban liberty west win margin firm settle";

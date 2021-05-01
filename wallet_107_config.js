@@ -1,1 +1,1 @@
-var mnemonic = "oak earth enhance split stable addict penalty electric entire inspire gospel ahead";
+var mnemonic = "mammal priority until exile hero large fatigue burst assault skull nature cake";

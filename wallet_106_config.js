@@ -1,1 +1,1 @@
-var mnemonic = "protect unfair suffer song injury leisure picnic burger ramp symbol electric burst";
+var mnemonic = "bulb smart tiny tube fetch name giggle amount this rent advance dust";

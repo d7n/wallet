@@ -1,1 +1,1 @@
-var mnemonic = "foam prepare clog captain leave neither trip omit define powder lake faint";
+var mnemonic = "way diagram below crop step offer menu interest payment gift empower lounge";

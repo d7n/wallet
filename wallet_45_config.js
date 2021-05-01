@@ -1,1 +1,1 @@
-var mnemonic = "grape test wear word borrow twelve multiply foot question crash crush muscle";
+var mnemonic = "belt pyramid else novel boss script hobby ride used subject degree rebel";

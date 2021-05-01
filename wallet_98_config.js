@@ -1,1 +1,1 @@
-var mnemonic = "else enemy pulse grief case quarter rural mad warfare lottery orchard rose";
+var mnemonic = "identify job miracle among almost twelve viable wrestle obscure sample ordinary manual";

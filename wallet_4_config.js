@@ -1,1 +1,1 @@
-var mnemonic = "foot year identify sport cherry possible bomb key twice bread anger note";
+var mnemonic = "smart soul easily dream skirt pear document trumpet impact wrong cinnamon easy";

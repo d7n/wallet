@@ -1,1 +1,1 @@
-var mnemonic = "pilot salon curve rare post broom swamp mechanic electric left broken price";
+var mnemonic = "void sauce put always casual squirrel enough lottery spin receive glimpse bunker";

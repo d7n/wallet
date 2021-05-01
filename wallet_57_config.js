@@ -1,1 +1,1 @@
-var mnemonic = "rack foster oil joke orchard lottery spoil man forget owner enforce uncle";
+var mnemonic = "critic hat inmate truck february frost fault tail unusual amazing chronic earn";

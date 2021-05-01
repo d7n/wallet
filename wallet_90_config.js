@@ -1,1 +1,1 @@
-var mnemonic = "urge hockey edge drum end wrestle blue recipe dignity mass husband family";
+var mnemonic = "cherry curtain wise swift miracle brush talk law topple abstract sustain husband";

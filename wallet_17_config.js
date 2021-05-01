@@ -1,1 +1,1 @@
-var mnemonic = "suffer keen plate skull avocado mushroom point trick satoshi worry target humor";
+var mnemonic = "erupt young develop title away penalty citizen spawn pause certain electric spell";

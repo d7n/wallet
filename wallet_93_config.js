@@ -1,1 +1,1 @@
-var mnemonic = "among blossom young coach young birth voice initial nurse salute inherit bread";
+var mnemonic = "music place oil palace lunar fade battle all involve royal run cube";

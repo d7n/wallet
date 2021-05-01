@@ -1,1 +1,1 @@
-var mnemonic = "rare gasp annual sword click umbrella make outdoor bone vote spring roast";
+var mnemonic = "effort over snack shell unusual height uncle response grass guess idle bag";

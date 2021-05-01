@@ -1,1 +1,1 @@
-var mnemonic = "detail infant certain october olympic duty expose butter open bike rate turtle";
+var mnemonic = "ginger winter develop renew click brick hero enlist version glass cigar number";

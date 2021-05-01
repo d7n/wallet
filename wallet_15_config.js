@@ -1,1 +1,1 @@
-var mnemonic = "immense daughter solid jump point skin evil conduct lemon toward this pepper";
+var mnemonic = "cereal garden sheriff option trick mesh chalk timber excess unusual electric enact";

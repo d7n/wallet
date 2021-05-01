@@ -1,1 +1,1 @@
-var mnemonic = "deny salute angle broccoli pride cover cheap pulse deny hole boost welcome";
+var mnemonic = "agree envelope cotton snake bread stove current that fortune cruel salon enlist";

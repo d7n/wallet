@@ -1,1 +1,1 @@
-var mnemonic = "dinner hat muffin garage toy buddy warm style mouse top liberty flower";
+var mnemonic = "attract oak used symptom issue frown monitor author biology fix junior scrub";

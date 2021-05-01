@@ -1,1 +1,1 @@
-var mnemonic = "auto follow spare found income drill gentle ship more idea wasp sight";
+var mnemonic = "monster beach one rent wink village label stereo bean fiber extend theme";

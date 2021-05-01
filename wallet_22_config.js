@@ -1,1 +1,1 @@
-var mnemonic = "hint betray sleep market dance hospital replace exist squeeze abstract mandate crane";
+var mnemonic = "festival they leader sting wheel height garbage labor snap address pole upgrade";

@@ -1,1 +1,1 @@
-var mnemonic = "bring spy cream truth birth oyster ramp mixture unfold ancient liar curious";
+var mnemonic = "evil boy west valve upset outdoor raven awake tiger young gentle fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "fragile invite hobby surround public damage teach cigar fun repeat luggage boss";
+var mnemonic = "hungry perfect session comic bracket medal wait resemble coach toilet hotel fashion";

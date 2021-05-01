@@ -1,1 +1,1 @@
-var mnemonic = "fence into route produce curve typical kit wife retire dinner shoe carbon";
+var mnemonic = "corn palm faith furnace tooth elegant gas clerk power sniff tired ball";

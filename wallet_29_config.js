@@ -1,1 +1,1 @@
-var mnemonic = "casino frame slim run regular genius account rescue first copy fork bone";
+var mnemonic = "achieve super patrol main tone express canvas donor naive copy flight address";

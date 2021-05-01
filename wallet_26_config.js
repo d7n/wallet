@@ -1,1 +1,1 @@
-var mnemonic = "approve phrase cotton capital material stool fashion surround flip credit flight dial";
+var mnemonic = "second ahead damp universe parade high canvas develop olympic ethics evidence cluster";

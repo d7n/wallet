@@ -1,1 +1,1 @@
-var mnemonic = "maze fury music arrange female life output oblige filter tank range cat";
+var mnemonic = "combine trip physical clog pass hover glimpse topple bunker enrich donor decorate";

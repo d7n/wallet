@@ -1,1 +1,1 @@
-var mnemonic = "twist onion tattoo modify venue lizard verify rotate dumb fossil milk ginger";
+var mnemonic = "sea lottery spell powder leg naive quote level nuclear cup puzzle hero";

@@ -1,1 +1,1 @@
-var mnemonic = "shoulder lawn weather castle toe young shoot chaos junior spring lobster inmate";
+var mnemonic = "ability film lesson second burst ordinary insect liquid double there resource vacant";

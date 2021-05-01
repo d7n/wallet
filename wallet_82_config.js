@@ -1,1 +1,1 @@
-var mnemonic = "prefer fatigue vibrant include camera slice rather space panther arm truly verb";
+var mnemonic = "devote actual notable mercy immune host join fall say join that daring";

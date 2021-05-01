@@ -1,1 +1,1 @@
-var mnemonic = "check invest use impulse tone bone elephant blush slam kiss theme input";
+var mnemonic = "grace ecology easy coast vacuum insane monitor supreme will zebra hungry train";

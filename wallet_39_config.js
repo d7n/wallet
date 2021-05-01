@@ -1,1 +1,1 @@
-var mnemonic = "theme bridge hawk dolphin claw sibling attend write dial tide winner pig";
+var mnemonic = "cluster boat perfect culture relief legend have enrich clean isolate forest panel";

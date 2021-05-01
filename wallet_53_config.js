@@ -1,1 +1,1 @@
-var mnemonic = "web drum switch pizza obey hour garage state harsh stairs dumb label";
+var mnemonic = "spray obscure brass response total abstract course protect banner vanish change carry";

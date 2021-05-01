@@ -1,1 +1,1 @@
-var mnemonic = "theme shop army bless embark soldier build target air brick economy vanish";
+var mnemonic = "six symbol grass high fee height mobile salad excuse spoil nuclear lift";

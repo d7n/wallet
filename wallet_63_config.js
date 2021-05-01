@@ -1,1 +1,1 @@
-var mnemonic = "orphan palace child trophy supreme crater sea march awake shove famous mandate";
+var mnemonic = "onion thought envelope crunch pyramid arrange junior fragile elite peace meat zoo";

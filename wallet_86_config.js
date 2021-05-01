@@ -1,1 +1,1 @@
-var mnemonic = "jaguar broccoli thunder undo clerk prize rude edge main eight cabin master";
+var mnemonic = "exclude faint item wheel aspect festival laugh special clerk electric famous arm";
