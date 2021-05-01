@@ -1,1 +1,1 @@
-var mnemonic = "fix rich eye report amazing idea reward cheese twice mad rely circle";
+var mnemonic = "stereo faith child south pottery strong twist deliver above enable aisle solve";

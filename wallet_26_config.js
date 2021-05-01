@@ -1,1 +1,1 @@
-var mnemonic = "version dolphin fat certain used police panic result industry neither smoke dream";
+var mnemonic = "modify end aware nose few board attitude frozen begin erupt fish solution";

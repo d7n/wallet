@@ -1,1 +1,1 @@
-var mnemonic = "review quit estate measure smooth seven fork shed mansion funny liar robust";
+var mnemonic = "enable mind annual give shadow loan depth obey leave test style media";

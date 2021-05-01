@@ -1,1 +1,1 @@
-var mnemonic = "resist oil salmon embrace food crime element such swap cannon helmet eager";
+var mnemonic = "amused shove else odor neither powder buffalo broom figure unit square left";

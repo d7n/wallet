@@ -1,1 +1,1 @@
-var mnemonic = "tape math mountain energy nasty celery fury quote catalog peasant almost dragon";
+var mnemonic = "flee lady police brave trash must quote trend north warm citizen ship";

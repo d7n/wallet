@@ -1,1 +1,1 @@
-var mnemonic = "attend unfold then cram salon squeeze piano joy remove woman reward brick";
+var mnemonic = "burden slide rebel retire charge art various top arrange all debris entire";

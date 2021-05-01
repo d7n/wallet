@@ -1,1 +1,1 @@
-var mnemonic = "bomb carbon ability you history ginger wet seven token bomb smile question";
+var mnemonic = "clutch vessel velvet group tired vocal banner judge brick spare captain business";

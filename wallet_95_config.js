@@ -1,1 +1,1 @@
-var mnemonic = "clock fresh common board bright disease engage sudden mix height angry sword";
+var mnemonic = "region hover noodle salute office fiction approve uncover trigger mammal chunk casual";

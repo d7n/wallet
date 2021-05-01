@@ -1,1 +1,1 @@
-var mnemonic = "submit bind plunge immense first border arrange rather worry joke vault wing";
+var mnemonic = "fade tomato drink survey main differ disagree also achieve predict shy claw";

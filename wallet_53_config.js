@@ -1,1 +1,1 @@
-var mnemonic = "oxygen barely security injury runway guide fence pluck foam host beach ritual";
+var mnemonic = "artist time tell sheriff harsh enroll analyst affair happy sail loyal chair";

@@ -1,1 +1,1 @@
-var mnemonic = "hollow want shaft input bamboo color shoe fat glad together wing scheme";
+var mnemonic = "industry uncover host marble sure print barely senior eyebrow envelope merge easy";

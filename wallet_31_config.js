@@ -1,1 +1,1 @@
-var mnemonic = "there base together spend between palm segment smooth uncle drink behind flight";
+var mnemonic = "that lottery also correct use belt forest benefit number scorpion cannon course";

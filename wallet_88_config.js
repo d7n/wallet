@@ -1,1 +1,1 @@
-var mnemonic = "legal letter left slight prepare flash mutual two ranch fantasy wealth baby";
+var mnemonic = "omit bracket until space door slender pluck hockey iron ivory anger write";

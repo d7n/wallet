@@ -1,1 +1,1 @@
-var mnemonic = "borrow bread nation nose garden loyal spy blue snow earn hunt draw";
+var mnemonic = "tackle decade drip embrace peace dish hint scissors damp regret hammer tornado";

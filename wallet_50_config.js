@@ -1,1 +1,1 @@
-var mnemonic = "left able live shrimp claim axis clog loud moral argue ship erode";
+var mnemonic = "dish truck that old twist what impulse twin loan private inherit half";

@@ -1,1 +1,1 @@
-var mnemonic = "tackle steak zebra knock gauge pepper myself zero angry coffee execute seek";
+var mnemonic = "total evolve satisfy enhance bind village early nephew ready come cool tomorrow";

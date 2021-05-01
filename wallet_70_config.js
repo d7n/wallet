@@ -1,1 +1,1 @@
-var mnemonic = "define subject maple tail sign alpha upper thunder sing chair clown push";
+var mnemonic = "once secret must aim card unit worth bulb crazy injury carry foam";

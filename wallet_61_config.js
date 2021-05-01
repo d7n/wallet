@@ -1,1 +1,1 @@
-var mnemonic = "moment prevent cup session garden update glue width gas romance despair select";
+var mnemonic = "gas cute two spoil decade outdoor sight water input rifle habit dawn";

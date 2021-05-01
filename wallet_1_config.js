@@ -1,1 +1,1 @@
-var mnemonic = "digital phone mirror october popular rocket lazy punch wrong ladder vote spend";
+var mnemonic = "wood across defense skill merry iron history various link jungle deposit speak";

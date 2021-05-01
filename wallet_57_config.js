@@ -1,1 +1,1 @@
-var mnemonic = "wet slim interest rain device fix then bamboo fix expire rapid anchor";
+var mnemonic = "jealous entry release drastic soon own convince column girl tray outdoor perfect";

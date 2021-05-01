@@ -1,1 +1,1 @@
-var mnemonic = "lucky cash youth drive attract match aisle purpose innocent clown gym help";
+var mnemonic = "dry peace brief salute hint remain collect seek vacuum chef distance key";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel must bright monitor rescue plug slab supply expand salmon kiss top";
+var mnemonic = "reopen world april attract click deliver nation prevent kiwi cactus outdoor shrimp";

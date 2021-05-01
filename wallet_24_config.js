@@ -1,1 +1,1 @@
-var mnemonic = "lottery also measure quit oblige bread shed boost insane attitude unfold universe";
+var mnemonic = "join expose elephant cotton night barrel rib civil meadow leave fantasy galaxy";

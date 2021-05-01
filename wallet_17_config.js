@@ -1,1 +1,1 @@
-var mnemonic = "pause shiver hollow curve south lake believe early replace segment voice grocery";
+var mnemonic = "rack local access blossom turkey cluster spell sausage angle south brick build";

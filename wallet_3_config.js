@@ -1,1 +1,1 @@
-var mnemonic = "mercy buzz erode reduce happy blame source barely electric love turkey before";
+var mnemonic = "orient business large weasel absorb minimum noodle dynamic simple horror more super";

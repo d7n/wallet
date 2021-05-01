@@ -1,1 +1,1 @@
-var mnemonic = "dog friend match enrich damage seminar adapt wool dentist panther obscure fabric";
+var mnemonic = "detect smooth label quote bronze paper man dune broom gallery table kitten";

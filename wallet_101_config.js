@@ -1,1 +1,1 @@
-var mnemonic = "novel quiz stuff clay boy topic boss assist have rigid bitter sea";
+var mnemonic = "make hundred wheat indoor crane purity index plate story mind wagon audit";

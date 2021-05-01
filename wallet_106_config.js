@@ -1,1 +1,1 @@
-var mnemonic = "talent captain two force umbrella spend impact question cargo night scare fitness";
+var mnemonic = "word glide hero awesome point guess over rocket return side list valley";

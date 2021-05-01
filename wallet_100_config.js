@@ -1,1 +1,1 @@
-var mnemonic = "flag media salt bulk orphan just spoil fluid vessel decade nephew frog";
+var mnemonic = "region that hand debate jacket person speed quit pizza great palm harbor";

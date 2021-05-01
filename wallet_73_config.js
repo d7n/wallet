@@ -1,1 +1,1 @@
-var mnemonic = "reunion hurt evidence canyon spawn rule bread shallow mosquito hood faith element";
+var mnemonic = "junior crisp suspect matrix smooth attend stumble vague evoke grain trap sing";

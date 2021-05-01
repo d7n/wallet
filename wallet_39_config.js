@@ -1,1 +1,1 @@
-var mnemonic = "visual stand mass seek car thunder box patch catalog one general tonight";
+var mnemonic = "output evidence neglect cube menu middle climb poem relief cram club market";

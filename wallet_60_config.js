@@ -1,1 +1,1 @@
-var mnemonic = "crash misery cycle barrel visit insect destroy beach veteran chuckle weather unusual";
+var mnemonic = "stem valid visit attend master meadow spy put thank typical again garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "later tobacco virus guilt lounge holiday spirit shoot hub october prison ugly";
+var mnemonic = "supply crisp jealous salute cart frame another kitchen renew arrive material shell";

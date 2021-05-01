@@ -1,1 +1,1 @@
-var mnemonic = "cattle over reject giggle prefer ability visit dinosaur siren armed illegal budget";
+var mnemonic = "relief round abandon path flower ranch wrist sausage fire suit initial vehicle";

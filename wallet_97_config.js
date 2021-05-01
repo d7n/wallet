@@ -1,1 +1,1 @@
-var mnemonic = "man region immune interest puzzle broken yard section finger rain list juice";
+var mnemonic = "topple rose smile tube into decorate manual barely flight vanish tourist purchase";

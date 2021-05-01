@@ -1,1 +1,1 @@
-var mnemonic = "decide text noble behind fly pass over glad escape cash energy cable";
+var mnemonic = "puppy bulk reduce version guard romance panic salon today hungry lawn sign";

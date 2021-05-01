@@ -1,1 +1,1 @@
-var mnemonic = "conduct skate penalty tissue coil garlic dolphin symbol stool drama home electric";
+var mnemonic = "brown fitness critic disagree fringe weapon day dinosaur artwork benefit dignity april";

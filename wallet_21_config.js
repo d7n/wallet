@@ -1,1 +1,1 @@
-var mnemonic = "expect leader siren agree shallow defense pact accident type hawk panic dune";
+var mnemonic = "mixed above gas resource assume winner hamster canal dust color relax thing";

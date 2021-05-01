@@ -1,1 +1,1 @@
-var mnemonic = "swap sight effort cube scissors enact detect attitude piano chair satisfy truly";
+var mnemonic = "present panic wet diary permit bitter island disorder soldier assault eye crash";

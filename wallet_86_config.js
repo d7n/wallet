@@ -1,1 +1,1 @@
-var mnemonic = "ridge clean balance lunch present evidence print volcano thunder defy wink deputy";
+var mnemonic = "crop liar wash south rubber arrest forward enemy hand room skate now";

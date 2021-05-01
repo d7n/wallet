@@ -1,1 +1,1 @@
-var mnemonic = "border wild review delay weather lock category rival sheriff cannon behave holiday";
+var mnemonic = "seek chimney foam iron neglect example gap fruit neglect year near term";

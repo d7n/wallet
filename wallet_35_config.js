@@ -1,1 +1,1 @@
-var mnemonic = "card sort virus waste dumb menu jelly clap cheese betray turkey flight";
+var mnemonic = "tortoise wrap lava weekend gasp goat slush wish satisfy vibrant fire start";

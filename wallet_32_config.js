@@ -1,1 +1,1 @@
-var mnemonic = "head envelope negative believe region retreat fancy frown lawsuit book key fog";
+var mnemonic = "lounge kiss divide van receive danger afford useless fancy parrot giant endorse";

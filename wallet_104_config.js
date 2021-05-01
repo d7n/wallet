@@ -1,1 +1,1 @@
-var mnemonic = "twin orchard argue color seat slim size picnic electric blade treat swarm";
+var mnemonic = "hobby verify ten access robust elite piece wreck safe fold blush prefer";

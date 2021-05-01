@@ -1,1 +1,1 @@
-var mnemonic = "end inherit motor ancient clog mansion tenant rookie lunch kitchen ethics speak";
+var mnemonic = "shaft search path celery armor ask eye bargain cushion grab enable coconut";

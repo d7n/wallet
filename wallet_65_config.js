@@ -1,1 +1,1 @@
-var mnemonic = "unable siren puppy bicycle inject intact balance chicken sibling gas seat unaware";
+var mnemonic = "slice relax approve barely gas town doll offer tooth broom pistol agent";

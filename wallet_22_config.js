@@ -1,1 +1,1 @@
-var mnemonic = "people brown veteran reflect such scale boost scene clog hidden book exact";
+var mnemonic = "shiver auction brush own company diary orchard swim eagle trigger wear portion";

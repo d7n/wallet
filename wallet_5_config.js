@@ -1,1 +1,1 @@
-var mnemonic = "lock shell exact enlist term museum element slam spend result ball trophy";
+var mnemonic = "pulp cream science regular street glide social brave bleak salmon color foster";

@@ -1,1 +1,1 @@
-var mnemonic = "age vicious gauge fade element vendor moment laugh indoor smile utility worth";
+var mnemonic = "fiber review force cement manage amused beauty judge love embody option silent";

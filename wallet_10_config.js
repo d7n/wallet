@@ -1,1 +1,1 @@
-var mnemonic = "uncover barely tobacco urge rescue tooth fatal lumber assault eyebrow erase palm";
+var mnemonic = "dilemma exist weekend filter vault material corn render female monitor crumble island";

@@ -1,1 +1,1 @@
-var mnemonic = "family toward wrong critic ranch doll apple stable unusual nurse typical buzz";
+var mnemonic = "hamster false layer potato vapor today puzzle icon cream destroy vessel parent";

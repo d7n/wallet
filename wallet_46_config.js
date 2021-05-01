@@ -1,1 +1,1 @@
-var mnemonic = "stone that enrich rail nuclear ten glow boat planet entire sword panther";
+var mnemonic = "grab canoe absurd brick arrange fiber egg document hood matrix fault lift";

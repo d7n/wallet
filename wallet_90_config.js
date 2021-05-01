@@ -1,1 +1,1 @@
-var mnemonic = "luggage glad material pioneer name ice muffin tumble defense rough knock cinnamon";
+var mnemonic = "pupil monkey eternal scene response fish mule medal have fever style excite";

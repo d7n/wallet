@@ -1,1 +1,1 @@
-var mnemonic = "draft winner company pencil match noble holiday time modify vacuum hammer logic";
+var mnemonic = "middle spot vote tree type word advance dash certain visual switch speed";

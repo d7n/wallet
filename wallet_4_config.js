@@ -1,1 +1,1 @@
-var mnemonic = "brush spin warfare mind session story forward wing provide early suggest planet";
+var mnemonic = "siege among neither adapt lottery differ require entire inflict mixed oyster wear";

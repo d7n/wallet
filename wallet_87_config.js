@@ -1,1 +1,1 @@
-var mnemonic = "random food local cargo benefit peanut barely risk inside reduce essay tent";
+var mnemonic = "exotic guard comfort easy library used olive boil spring lunch spin gesture";

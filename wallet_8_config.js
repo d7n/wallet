@@ -1,1 +1,1 @@
-var mnemonic = "used affair easily will betray resist advance cross erupt device second educate";
+var mnemonic = "curtain arrange guide debate trophy repair hungry hockey flush thunder curtain trash";

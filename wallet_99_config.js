@@ -1,1 +1,1 @@
-var mnemonic = "chuckle upset swamp stool fly piano cabbage item yellow alone occur puppy";
+var mnemonic = "toe warrior tide tent wrist laptop fiber sing baby pattern ignore ice";

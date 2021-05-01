@@ -1,1 +1,1 @@
-var mnemonic = "raw orchard embark inmate village one lava shallow ladder purchase stable enter";
+var mnemonic = "good believe chapter tower sense clip wall evolve view rate steel cushion";

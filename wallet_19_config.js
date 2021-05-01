@@ -1,1 +1,1 @@
-var mnemonic = "warrior shock foot ride oven ignore perfect broken monster arrange ticket rival";
+var mnemonic = "hood net sure usage ten clock fiber paddle quality reflect time fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "age coast unlock wagon rather acoustic oil phrase royal trust desert bind";
+var mnemonic = "click leopard spot manage trap become taxi clog subway explain demise taste";

@@ -1,1 +1,1 @@
-var mnemonic = "poem devote field express saddle tree release tonight treat cat fury champion";
+var mnemonic = "news snake acoustic edit expose split admit question process buzz scrub coast";

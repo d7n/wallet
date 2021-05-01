@@ -1,1 +1,1 @@
-var mnemonic = "swamp castle jazz exit magic mango vacant actual depart divorce box situate";
+var mnemonic = "okay list easily benefit metal pink bright leg venture room float public";

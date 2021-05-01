@@ -1,1 +1,1 @@
-var mnemonic = "silent october alley payment throw twelve pilot cruise mercy coral grant myself";
+var mnemonic = "math sail write female cycle insane throw size husband accident ceiling junk";

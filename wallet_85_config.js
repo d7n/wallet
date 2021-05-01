@@ -1,1 +1,1 @@
-var mnemonic = "faint seminar exercise siren plastic initial post game frame stone motor loud";
+var mnemonic = "pigeon frequent april wrestle mother mean label crouch gentle electric bullet other";

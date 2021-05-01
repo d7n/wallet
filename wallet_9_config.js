@@ -1,1 +1,1 @@
-var mnemonic = "beauty earth local hard stereo organ coach physical rookie segment picnic unique";
+var mnemonic = "relief flag crater spread dial diary attack exist cute fault behind culture";

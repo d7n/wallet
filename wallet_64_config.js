@@ -1,1 +1,1 @@
-var mnemonic = "stairs limb elevator letter quality guilt boost since axis section debate foam";
+var mnemonic = "inspire rib monitor few pink road blind urban bid resemble main food";

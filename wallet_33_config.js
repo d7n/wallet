@@ -1,1 +1,1 @@
-var mnemonic = "uncover month animal rhythm good neither exercise quality thunder festival asset nominee";
+var mnemonic = "siege aspect wasp once dust offer limit draw salt blur wrestle seek";

@@ -1,1 +1,1 @@
-var mnemonic = "release core okay notable fresh crack federal bird mind boss year mind";
+var mnemonic = "wagon mistake thought bunker desert clarify length pumpkin pluck attract initial crime";

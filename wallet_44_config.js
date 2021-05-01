@@ -1,1 +1,1 @@
-var mnemonic = "smart letter exclude plug maid physical moment dog venue invest amused busy";
+var mnemonic = "fold mad together essay ugly praise warrior alien trophy asset ginger pulse";

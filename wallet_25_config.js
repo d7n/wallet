@@ -1,1 +1,1 @@
-var mnemonic = "tone armor fun collect vital east fantasy limb sand example employ thunder";
+var mnemonic = "broom dad donate picnic unlock clarify prevent burger hero negative orange cloud";

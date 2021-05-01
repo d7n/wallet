@@ -1,1 +1,1 @@
-var mnemonic = "color bargain media mother grief logic skin jump focus melody debris benefit";
+var mnemonic = "junk patch survey mix rack rabbit agent beyond flame fruit annual title";

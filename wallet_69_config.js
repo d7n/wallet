@@ -1,1 +1,1 @@
-var mnemonic = "damage sadness tiny multiply toe auction cherry match lawsuit room suit surge";
+var mnemonic = "clinic tunnel tube drive jacket gate balcony jar immense lamp cotton want";

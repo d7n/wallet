@@ -1,1 +1,1 @@
-var mnemonic = "royal village meadow degree beach gossip near wild balance all fade urban";
+var mnemonic = "champion clip raccoon anger object bus describe wrist crowd betray reason trial";

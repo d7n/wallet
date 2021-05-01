@@ -1,1 +1,1 @@
-var mnemonic = "loyal engage make dove guilt ship mango blind series spike round cloud";
+var mnemonic = "supreme confirm empower grunt soccer capital thrive modify army exist sudden rabbit";

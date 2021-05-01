@@ -1,1 +1,1 @@
-var mnemonic = "leisure grab liberty wing thrive involve measure noble miss faith gallery ask";
+var mnemonic = "carbon bullet script arch report used apology govern foam next slogan love";

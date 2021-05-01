@@ -1,1 +1,1 @@
-var mnemonic = "basket car flight list stage candy symptom document skull occur earn endorse";
+var mnemonic = "bicycle worry side sheriff unaware flee upgrade echo monitor kick win pave";

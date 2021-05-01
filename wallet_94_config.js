@@ -1,1 +1,1 @@
-var mnemonic = "regret fine treat broccoli alcohol voice evidence best venture devote cycle express";
+var mnemonic = "episode sleep achieve ridge thrive amateur divert march normal eagle game purchase";

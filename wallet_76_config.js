@@ -1,1 +1,1 @@
-var mnemonic = "place axis broccoli trap winter expand slow category gate veteran room south";
+var mnemonic = "mango destroy refuse olympic anger buddy such unhappy hazard short tennis client";

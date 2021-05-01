@@ -1,1 +1,1 @@
-var mnemonic = "boat since blossom shield panther connect bacon fade hunt drop fatigue girl";
+var mnemonic = "spoon switch cattle grace deer crater broom wish oil they camera lock";

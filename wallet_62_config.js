@@ -1,1 +1,1 @@
-var mnemonic = "filter credit ripple until front civil winner bar guess man bamboo soul";
+var mnemonic = "economy volume wet napkin about throw risk oblige ocean quality estate mean";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst wolf wool indicate mutual defy friend sibling book night space burden";
+var mnemonic = "blade verify nice smooth battle rude crumble veteran unable borrow lava fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "once sausage chase myself below lock pupil truth oppose hard spray crumble";
+var mnemonic = "search knife party bacon salmon raccoon motor enhance heavy innocent interest busy";

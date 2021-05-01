@@ -1,1 +1,1 @@
-var mnemonic = "sponsor tongue old visit volume earn law liar valve ginger industry double";
+var mnemonic = "method small health license glance mosquito evolve filter letter border key property";

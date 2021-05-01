@@ -1,1 +1,1 @@
-var mnemonic = "bind pigeon eagle spawn iron trigger indoor attract senior hurt false permit";
+var mnemonic = "pair globe february camp spawn wave melody entire enforce silver junior finger";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit grain ball business body option roof magic venue shift real reason";
+var mnemonic = "system photo notice spider time monitor bulb just endorse rack spoil fashion";

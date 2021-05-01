@@ -1,1 +1,1 @@
-var mnemonic = "image seat trap involve physical divide spell swamp oppose about bleak equip";
+var mnemonic = "ticket nominee magnet spirit grow police sample coast actor lava stand rare";

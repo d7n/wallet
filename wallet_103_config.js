@@ -1,1 +1,1 @@
-var mnemonic = "lecture soup silver fix laugh hood web raw rebuild tennis tree mix";
+var mnemonic = "castle next capital shiver skull lucky until crouch sample frost song embark";

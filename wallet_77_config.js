@@ -1,1 +1,1 @@
-var mnemonic = "expire blush profit bronze enlist like involve weasel essence ethics earn magic";
+var mnemonic = "erosion before expand letter what spoil task culture stick seat race shoot";

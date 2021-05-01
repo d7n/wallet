@@ -1,1 +1,1 @@
-var mnemonic = "produce cost frequent gown purpose peanut frozen document twin moon amazing slogan";
+var mnemonic = "bounce know morning hollow frame renew mixed ship frequent adapt worry miss";

@@ -1,1 +1,1 @@
-var mnemonic = "plug pear dutch hand secret scene punch adult glove hungry elevator urban";
+var mnemonic = "demand wasp comic flee shield uncle vehicle orbit lawn fine bring cotton";

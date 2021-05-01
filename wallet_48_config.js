@@ -1,1 +1,1 @@
-var mnemonic = "section input next voyage trend snow neck sort else stairs human memory";
+var mnemonic = "blue rack zoo gap almost catalog crucial mystery aunt depth world cruise";
