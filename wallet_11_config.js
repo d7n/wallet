@@ -1,1 +1,1 @@
-var mnemonic = "reopen shiver kick uphold antenna narrow ramp tray draw crew tone dentist";
+var mnemonic = "common seed party humor oil split thrive observe shrimp foam rent opinion";

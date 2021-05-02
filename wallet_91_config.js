@@ -1,1 +1,1 @@
-var mnemonic = "enroll chase average arrange brisk need rely until upper maid unaware upset";
+var mnemonic = "lounge cash core pioneer width ridge caution adjust input layer shiver oil";

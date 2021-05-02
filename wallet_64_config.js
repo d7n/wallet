@@ -1,1 +1,1 @@
-var mnemonic = "setup keep exchange guard work good purpose someone expand deal fever fold";
+var mnemonic = "motor erosion digital ripple gallery glow sight repeat emerge divide flat fortune";

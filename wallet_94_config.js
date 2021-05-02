@@ -1,1 +1,1 @@
-var mnemonic = "feel sand curtain rose camera glad require bubble language hover client found";
+var mnemonic = "shift regret snake snack cake chase leopard reduce creek suit rapid valley";

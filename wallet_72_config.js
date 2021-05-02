@@ -1,1 +1,1 @@
-var mnemonic = "multiply pool jewel intact decade repair road dilemma cave position churn gather";
+var mnemonic = "around nose omit silver child edge ancient share endless have just cement";

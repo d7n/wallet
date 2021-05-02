@@ -1,1 +1,1 @@
-var mnemonic = "parrot lab world bomb fossil squeeze tide talent erase similar swing jazz";
+var mnemonic = "damp battle execute foster ticket birth tortoise behind endless this milk already";

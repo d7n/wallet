@@ -1,1 +1,1 @@
-var mnemonic = "crystal axis era combine budget behave black floor pulp ghost mass horn";
+var mnemonic = "kitten rotate receive trumpet before casual guess symbol slim budget eternal monster";

@@ -1,1 +1,1 @@
-var mnemonic = "romance island mammal humor wealth apart domain magnet stumble mask history release";
+var mnemonic = "bicycle doll record kite section float daring kind survey silly cradle hurt";

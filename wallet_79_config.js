@@ -1,1 +1,1 @@
-var mnemonic = "discover trial survey account resemble cherry ill reopen trigger never always budget";
+var mnemonic = "stool organ boost silent river mind ring expose orient base section tackle";

@@ -1,1 +1,1 @@
-var mnemonic = "web like life describe infant fetch solid neglect pluck tide ridge cheap";
+var mnemonic = "once hockey tip radar during nurse stage eagle dilemma april dress air";

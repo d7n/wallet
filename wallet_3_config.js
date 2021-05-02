@@ -1,1 +1,1 @@
-var mnemonic = "wheel talent defy tonight color access report future air affair stock craft";
+var mnemonic = "weird matrix hundred gesture split involve rigid rather cross junior warm grid";

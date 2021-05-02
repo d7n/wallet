@@ -1,1 +1,1 @@
-var mnemonic = "tribe drip people hint rapid muscle bus laugh drama lesson ceiling decide";
+var mnemonic = "genius sibling frost trick collect current immense forum illegal series want deposit";

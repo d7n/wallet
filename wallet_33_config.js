@@ -1,1 +1,1 @@
-var mnemonic = "stone nature heart hurry body angry much ensure still auto taxi link";
+var mnemonic = "divorce wheel reform lock accuse pepper ethics oyster trumpet goose ride adjust";

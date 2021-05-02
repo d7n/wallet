@@ -1,1 +1,1 @@
-var mnemonic = "picture burst detect fold barrel again cliff shrimp believe wool thrive detect";
+var mnemonic = "rude matter embark swing laptop remind hire casual banana true chuckle electric";

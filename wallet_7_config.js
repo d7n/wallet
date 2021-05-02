@@ -1,1 +1,1 @@
-var mnemonic = "follow today ecology cargo helmet truck magnet uniform pepper goat hole bar";
+var mnemonic = "whale wool gorilla witness crater butter lizard pottery humble pledge home comfort";

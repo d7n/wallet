@@ -1,1 +1,1 @@
-var mnemonic = "cotton utility rally divorce glad quick forward lyrics source april funny mushroom";
+var mnemonic = "toilet judge ritual task addict exhaust under segment crawl kidney observe pave";

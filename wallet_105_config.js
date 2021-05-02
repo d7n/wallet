@@ -1,1 +1,1 @@
-var mnemonic = "silver happy art shaft dose major force shock kidney camp where unhappy";
+var mnemonic = "car runway shrimp possible crunch build alter page bike approve sell dose";

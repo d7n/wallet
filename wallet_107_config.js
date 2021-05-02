@@ -1,1 +1,1 @@
-var mnemonic = "cherry coil omit kind cook million chaos mass breeze true book school";
+var mnemonic = "steak end sport suffer toward brother water pluck review spoon vibrant latin";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess observe nephew race truly atom embark field birth quarter tag child";
+var mnemonic = "rally pigeon rich click kitten peanut auto another shoe oven plate family";

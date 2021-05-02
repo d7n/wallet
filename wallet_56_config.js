@@ -1,1 +1,1 @@
-var mnemonic = "timber alone agent beyond roast when picnic truly cave spoil unveil click";
+var mnemonic = "kick arrow approve enrich laugh recycle bid language exchange undo tenant gate";

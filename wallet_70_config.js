@@ -1,1 +1,1 @@
-var mnemonic = "various unique pair author tribe defense dress clever offer spice initial current";
+var mnemonic = "already refuse twenty shrimp question supply gospel armed scissors denial negative warm";

@@ -1,1 +1,1 @@
-var mnemonic = "enact egg trial curious elevator pair among journey this waste loyal crystal";
+var mnemonic = "doctor grow draw spring bachelor loop always poet opera angle license lamp";

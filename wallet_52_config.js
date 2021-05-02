@@ -1,1 +1,1 @@
-var mnemonic = "curve girl upset pause rate connect antenna risk relief tiny nephew country";
+var mnemonic = "syrup language manage catalog tired luggage issue century curtain stove boss square";

@@ -1,1 +1,1 @@
-var mnemonic = "panther sock foster nose injury empower nasty extend educate rich smooth jar";
+var mnemonic = "gesture shine much hello element catalog exile zebra tank slender monitor over";

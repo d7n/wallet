@@ -1,1 +1,1 @@
-var mnemonic = "gas omit burden paper virus alert gift farm brave coast hurry they";
+var mnemonic = "mango robot belt theme possible feature deputy travel tomorrow cable satisfy amount";

@@ -1,1 +1,1 @@
-var mnemonic = "legend donate theory digital they spice beef execute praise road fabric during";
+var mnemonic = "random relief slot bottom column over guess swap woman expect glimpse amused";

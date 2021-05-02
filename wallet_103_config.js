@@ -1,1 +1,1 @@
-var mnemonic = "setup praise airport gold hundred flower hungry alley rocket holiday grow purpose";
+var mnemonic = "team fit frame host caught stuff clip during ketchup surprise burden gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "need sausage engine faith jelly knock cheap asset relief duty pistol pledge";
+var mnemonic = "tray sadness skill vault slab path asset until biology chimney dust mobile";

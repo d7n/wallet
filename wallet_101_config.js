@@ -1,1 +1,1 @@
-var mnemonic = "volume fat wet elevator dad abandon nature rather budget climb blossom soda";
+var mnemonic = "sauce region emerge diagram asset hire drip boring diagram chair render average";

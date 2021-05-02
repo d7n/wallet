@@ -1,1 +1,1 @@
-var mnemonic = "car suffer glance divorce category diagram basket verify marble divert resist hip";
+var mnemonic = "exotic race token cage pledge scrap couch general lazy account company rough";

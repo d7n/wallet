@@ -1,1 +1,1 @@
-var mnemonic = "pottery term used crew panther asset thumb flash shift draw claw net";
+var mnemonic = "element slam erosion mobile bracket never slim raw else reduce attack there";

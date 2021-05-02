@@ -1,1 +1,1 @@
-var mnemonic = "vessel tide subject sweet gap audit ladder warm rare belt lion flower";
+var mnemonic = "tomato board piano very bleak pepper zero potato thunder punch wheel spray";

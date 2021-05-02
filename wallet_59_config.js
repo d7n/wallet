@@ -1,1 +1,1 @@
-var mnemonic = "awesome rice rich wife paper valley airport until credit plug space december";
+var mnemonic = "paper general together hospital gadget negative spice road embody athlete common cradle";

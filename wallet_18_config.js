@@ -1,1 +1,1 @@
-var mnemonic = "awful grab chief turn inflict oval tape page eager zebra right grass";
+var mnemonic = "casual canal small tired art panel cave talk oyster movie walk broom";

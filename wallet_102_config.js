@@ -1,1 +1,1 @@
-var mnemonic = "message scatter swallow reason this nation shock people film silent candy dismiss";
+var mnemonic = "salad raven creek spoil youth abstract antique silly collect sword strike purchase";

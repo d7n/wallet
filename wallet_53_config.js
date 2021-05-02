@@ -1,1 +1,1 @@
-var mnemonic = "census ankle banana alien bunker zoo tired movie major boat torch great";
+var mnemonic = "kiwi pet young damage sorry type cruise trust destroy text security wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "shine hurdle chaos artist kite guide athlete double cherry hollow you album";
+var mnemonic = "spirit december gun sick owner guess globe path avocado regular help basket";

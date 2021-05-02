@@ -1,1 +1,1 @@
-var mnemonic = "file icon normal polar maze cousin general then fun announce raccoon iron";
+var mnemonic = "axis venue increase life shy jungle near grace estate color network tide";

@@ -1,1 +1,1 @@
-var mnemonic = "foil obtain decorate obscure echo heavy use drink shoot raccoon type scale";
+var mnemonic = "bone seat grace manage field between hedgehog weasel test solution symbol scale";

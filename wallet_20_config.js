@@ -1,1 +1,1 @@
-var mnemonic = "infant dentist pact reward ecology heart marriage hope property people enact photo";
+var mnemonic = "promote much release inform cabbage wire soda dial what bring peanut feature";

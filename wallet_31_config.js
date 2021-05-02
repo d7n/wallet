@@ -1,1 +1,1 @@
-var mnemonic = "derive lucky catch shoulder fiber child rude saddle decide end just shock";
+var mnemonic = "tomato decorate infant length denial rose sort service shine replace name spike";

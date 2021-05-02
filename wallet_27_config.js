@@ -1,1 +1,1 @@
-var mnemonic = "armed rib world together good grow similar engage invest chronic move perfect";
+var mnemonic = "hockey strike boat lucky promote swap flavor bar rice photo phone pyramid";

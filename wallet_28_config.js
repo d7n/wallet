@@ -1,1 +1,1 @@
-var mnemonic = "kiss celery pave hire review honey atom oil item smooth attend clip";
+var mnemonic = "hurry still library shiver puppy orbit leave magnet card rate enact job";

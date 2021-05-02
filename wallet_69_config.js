@@ -1,1 +1,1 @@
-var mnemonic = "tattoo renew point begin genius tissue clap drift chimney cherry notice chuckle";
+var mnemonic = "this neither author burst thing comic desert strategy fault mass work leopard";

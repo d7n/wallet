@@ -1,1 +1,1 @@
-var mnemonic = "nest mixed false law catch tiger bullet before spatial vague panel stable";
+var mnemonic = "act tornado rib future put kite motor keep kid main sunset involve";

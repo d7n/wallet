@@ -1,1 +1,1 @@
-var mnemonic = "cattle unit lunar glue human mail aisle clog banana radar alcohol fan";
+var mnemonic = "flame heavy hybrid search clip unusual wisdom piano december gasp broccoli employ";

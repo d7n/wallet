@@ -1,1 +1,1 @@
-var mnemonic = "pattern leaf level alarm bonus fiction stuff okay family level maid derive";
+var mnemonic = "blame dizzy deliver gravity permit cousin unlock quality load wave input vast";

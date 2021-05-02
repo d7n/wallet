@@ -1,1 +1,1 @@
-var mnemonic = "normal feel metal couch tent cement layer female horn ceiling battle village";
+var mnemonic = "stage boil rifle oyster strategy blame dune bonus quick furnace just black";

@@ -1,1 +1,1 @@
-var mnemonic = "pink venture jump popular sponsor purpose mother virus repeat wet world pole";
+var mnemonic = "foil unusual guard unfair toe bike history rookie sentence camera abstract warrior";

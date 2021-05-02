@@ -1,1 +1,1 @@
-var mnemonic = "author assist economy seed stomach kidney spider hour physical stadium tribe either";
+var mnemonic = "screen also brisk final lawsuit weekend artwork abuse bomb call hotel exit";

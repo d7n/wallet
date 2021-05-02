@@ -1,1 +1,1 @@
-var mnemonic = "sound manual robust hold curtain enjoy this moon sponsor palm ripple high";
+var mnemonic = "shaft material term pupil educate tent acid wool relax vapor exile settle";

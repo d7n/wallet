@@ -1,1 +1,1 @@
-var mnemonic = "rude torch insect october dry liar evoke leopard lake camera wrap blush";
+var mnemonic = "destroy hub where defy this job outer rice cube hand foot sock";

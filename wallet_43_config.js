@@ -1,1 +1,1 @@
-var mnemonic = "garlic addict two owner pool tourist make file actress hunt economy pen";
+var mnemonic = "elbow pepper glance world gesture current sign abuse believe language road fence";

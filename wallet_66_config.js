@@ -1,1 +1,1 @@
-var mnemonic = "speak sustain pattern drum shrimp mom trick that fuel blush across quality";
+var mnemonic = "wage village brush matrix child claw express discover ranch achieve prize media";

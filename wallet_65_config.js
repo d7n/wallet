@@ -1,1 +1,1 @@
-var mnemonic = "rude track bridge company defy penalty chimney organ silent oil orange market";
+var mnemonic = "oyster popular during coral tribe visa buyer either script leaf park rebel";

@@ -1,1 +1,1 @@
-var mnemonic = "vague hard rotate mango genuine chuckle ask visa develop wait clock ignore";
+var mnemonic = "uphold dove reform van wave pottery advice carbon snow grab muffin lava";

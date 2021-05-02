@@ -1,1 +1,1 @@
-var mnemonic = "zebra city spawn sport glide move rough spend glide december slush army";
+var mnemonic = "umbrella exile federal neglect office echo wrist twenty all fan key put";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce crop parent scrap door argue bullet okay baby hamster weird feed";
+var mnemonic = "airport upgrade home then cactus client wine limb jeans liar autumn actress";

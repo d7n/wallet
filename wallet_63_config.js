@@ -1,1 +1,1 @@
-var mnemonic = "sausage enemy into refuse indoor tissue exist dirt hello life pull tomato";
+var mnemonic = "dizzy keep teach penalty wood clip garment betray dance cousin light wife";

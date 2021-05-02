@@ -1,1 +1,1 @@
-var mnemonic = "job spare pizza cave tooth dismiss century early indicate mercy student brother";
+var mnemonic = "timber hungry myth grass diagram inch priority material pottery object window lava";

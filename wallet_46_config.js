@@ -1,1 +1,1 @@
-var mnemonic = "famous talent blanket elbow lend oppose soap shallow fork quit absorb fork";
+var mnemonic = "twist avocado evil denial almost shoot music wear give athlete slim scatter";

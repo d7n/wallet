@@ -1,1 +1,1 @@
-var mnemonic = "deputy world kite title cart poet plunge brand recycle raven actress bitter";
+var mnemonic = "extend hotel stuff neutral between avoid lyrics blur cash excuse flame resource";

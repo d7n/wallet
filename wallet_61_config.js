@@ -1,1 +1,1 @@
-var mnemonic = "aspect senior comfort clean august price clown paper blade potato base layer";
+var mnemonic = "one sick fluid crazy edit chicken summer story match deliver alarm usual";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey slab symbol october coin early sudden glove vocal belt that swarm";
+var mnemonic = "rude base ring before burden sunny sponsor thought lake fabric awake morning";

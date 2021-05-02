@@ -1,1 +1,1 @@
-var mnemonic = "network negative few during into boss liar derive donkey another cherry buddy";
+var mnemonic = "scare acoustic arch erode exhaust bulk card company family army wheat tribe";

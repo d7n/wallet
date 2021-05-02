@@ -1,1 +1,1 @@
-var mnemonic = "wheat drill brain order rookie circle increase identify maple summer wink inner";
+var mnemonic = "unfair knee approve program drift immense talk when charge wise bread yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "trial timber delay grass prevent spoon trade impulse fault syrup quick beyond";
+var mnemonic = "water jelly figure field success cross vast wolf misery dial icon bring";

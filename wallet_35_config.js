@@ -1,1 +1,1 @@
-var mnemonic = "climb march patient super athlete poverty grid torch assume such salad exchange";
+var mnemonic = "obtain symptom solid useless finish ride boring brave fee bid mobile spike";

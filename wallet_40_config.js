@@ -1,1 +1,1 @@
-var mnemonic = "fall main become joy sentence fee cricket sign upgrade blast already accuse";
+var mnemonic = "begin salmon mass garlic fox settle must fatigue airport present sport arrow";

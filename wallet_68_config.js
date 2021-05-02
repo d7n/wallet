@@ -1,1 +1,1 @@
-var mnemonic = "matter current below badge cable wagon casual goose foil person practice faith";
+var mnemonic = "puzzle wrap knife rent mail husband true become fiber pencil humor wave";

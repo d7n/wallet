@@ -1,1 +1,1 @@
-var mnemonic = "party chapter huge wonder gossip tourist height daring young parent oxygen deal";
+var mnemonic = "local milk hunt purchase park lift fish ability aerobic easily space general";

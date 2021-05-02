@@ -1,1 +1,1 @@
-var mnemonic = "organ vehicle strong enemy snack pizza thumb analyst crouch rubber laptop shock";
+var mnemonic = "endorse spray proof onion concert crime subject pride exercise jealous change liberty";

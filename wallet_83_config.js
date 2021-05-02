@@ -1,1 +1,1 @@
-var mnemonic = "ski special original trial retire media engage broccoli cheap message message output";
+var mnemonic = "around liberty economy print genuine oppose elephant error suggest job crush skin";

@@ -1,1 +1,1 @@
-var mnemonic = "anxiety tent pluck heart intact drive kiwi advance energy impulse sell warrior";
+var mnemonic = "hire stomach smile text pluck forget salad abstract assist spice cactus actor";

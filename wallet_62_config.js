@@ -1,1 +1,1 @@
-var mnemonic = "know crystal oak fault turn enrich direct cat chase until rival member";
+var mnemonic = "expect month fancy universe skull grape cave diamond often hat anger pudding";

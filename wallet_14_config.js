@@ -1,1 +1,1 @@
-var mnemonic = "rely orphan ignore toe airport report warrior benefit spirit slide caught aerobic";
+var mnemonic = "tuna harsh lunch video huge audit junk second mechanic snack private lava";

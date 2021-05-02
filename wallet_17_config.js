@@ -1,1 +1,1 @@
-var mnemonic = "armor thumb whisper long metal benefit output sail monster neck mass ankle";
+var mnemonic = "riot galaxy blanket found rice detect police inmate kidney budget wheel giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "isolate master addict gaze mammal kick stay pet blue brother void account";
+var mnemonic = "village easily behind test debate pride kingdom crouch number novel excite hover";

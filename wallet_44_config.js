@@ -1,1 +1,1 @@
-var mnemonic = "fish also genius unit time skirt garment you ring enhance shoulder layer";
+var mnemonic = "play lunar roof spawn people engine chase fitness april trigger can movie";

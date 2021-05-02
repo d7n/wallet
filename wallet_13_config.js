@@ -1,1 +1,1 @@
-var mnemonic = "science night donkey pistol enough ranch unhappy enlist when keep way diagram";
+var mnemonic = "expand tobacco first lizard churn alcohol sauce input festival certain secret okay";

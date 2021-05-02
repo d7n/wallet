@@ -1,1 +1,1 @@
-var mnemonic = "kitten flavor imitate trend educate envelope used denial visit neither fold harbor";
+var mnemonic = "miracle obvious avocado amateur merit blush hill recipe agent uniform bless special";

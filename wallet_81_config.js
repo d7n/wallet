@@ -1,1 +1,1 @@
-var mnemonic = "best afford train humble choose tennis payment devote oyster huge divert cake";
+var mnemonic = "addict glove wire hub secret catalog drama oyster olive grant mean sign";

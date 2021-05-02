@@ -1,1 +1,1 @@
-var mnemonic = "hood that merry ankle diamond unlock exhaust slide inch gorilla only random";
+var mnemonic = "napkin west bring rifle traffic fabric modify soldier answer muffin rival endless";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage offer reflect boss pioneer task all great payment trumpet dinner wish";
+var mnemonic = "essence gravity quote square boy antenna wheat thumb unhappy lobster scrap across";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin joy mail river grace disease squeeze chronic future eye rain winter";
+var mnemonic = "ten orange taste churn case annual tongue finish scatter gather parade knock";

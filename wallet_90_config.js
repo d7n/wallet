@@ -1,1 +1,1 @@
-var mnemonic = "language client parent enforce hurdle lyrics gas fiscal country bright spin rookie";
+var mnemonic = "shine item illness nature private early ostrich unique unusual trumpet celery loud";

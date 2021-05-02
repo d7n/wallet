@@ -1,1 +1,1 @@
-var mnemonic = "account zebra loud raise ripple remind tuna barely soccer throw potato ivory";
+var mnemonic = "brown wage correct taste early sport frog trial tilt win soon damp";

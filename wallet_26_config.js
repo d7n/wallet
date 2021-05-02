@@ -1,1 +1,1 @@
-var mnemonic = "movie rail hello solve gorilla table copper solution orbit tattoo list gravity";
+var mnemonic = "curious aware mandate crew behind trumpet verify leaf gun physical answer primary";

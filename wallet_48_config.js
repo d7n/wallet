@@ -1,1 +1,1 @@
-var mnemonic = "palace ugly brick size couch tenant vapor leader educate actor list limit";
+var mnemonic = "top sad circle behave voice sentence cake spatial apart silver rescue imitate";

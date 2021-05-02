@@ -1,1 +1,1 @@
-var mnemonic = "nasty speed race kitchen heavy bamboo all theory toilet cradle okay weekend";
+var mnemonic = "insect noble help mountain owner cart capable tag drive ceiling zero one";

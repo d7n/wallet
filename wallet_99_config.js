@@ -1,1 +1,1 @@
-var mnemonic = "bonus diagram open category athlete capital cake exhaust spot never imitate limb";
+var mnemonic = "weather flag sunset resource replace weekend butter obey tragic flavor ketchup push";
