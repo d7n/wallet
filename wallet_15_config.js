@@ -1,1 +1,1 @@
-var mnemonic = "defy castle material opinion prefer furnace sport erase garage book fog winner";
+var mnemonic = "two amazing verify cargo angle horse route family lumber infant slender ranch";

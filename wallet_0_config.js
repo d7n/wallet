@@ -1,1 +1,1 @@
-var mnemonic = "wisdom snack foam shiver cherry plate enough urban silly outer pear slab";
+var mnemonic = "current response unique ketchup culture govern humble struggle vast vivid zebra display";

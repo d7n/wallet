@@ -1,1 +1,1 @@
-var mnemonic = "ramp dinner document shrug noise cattle vacuum benefit salt all people stay";
+var mnemonic = "october around original kitchen swim abuse scorpion file gallery inquiry pudding print";

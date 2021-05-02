@@ -1,1 +1,1 @@
-var mnemonic = "hollow repeat tell umbrella south nut shoot thrive impact want jeans planet";
+var mnemonic = "letter cook bring arm faint finish seat acid unhappy bid auction rely";

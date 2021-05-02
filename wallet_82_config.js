@@ -1,1 +1,1 @@
-var mnemonic = "use awful select embrace boring high know raise stumble dream lottery stuff";
+var mnemonic = "dirt annual coyote bleak north collect zone fever drastic proof beach coyote";

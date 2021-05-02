@@ -1,1 +1,1 @@
-var mnemonic = "fiction stumble primary sand wing crunch hour trial antique matrix castle genius";
+var mnemonic = "fringe panda raccoon buddy also fatal twin require paddle refuse harbor mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "same broccoli similar fatigue cycle peasant during subway attract ripple winter arrive";
+var mnemonic = "review neither barrel floor fix divide utility kangaroo thought ugly evil simple";

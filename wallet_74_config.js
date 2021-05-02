@@ -1,1 +1,1 @@
-var mnemonic = "mountain topic pitch kit omit cake melody orbit pool minor fiscal limit";
+var mnemonic = "book weekend series silly inside breeze hen cousin beach modify assist liquid";

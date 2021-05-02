@@ -1,1 +1,1 @@
-var mnemonic = "decorate forest improve lava better fork idle depend nest inform lobster live";
+var mnemonic = "sea reflect junk cement fashion winner youth match wealth penalty end congress";

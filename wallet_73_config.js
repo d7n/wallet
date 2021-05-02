@@ -1,1 +1,1 @@
-var mnemonic = "face prefer exile future annual crater stove train confirm circle bright runway";
+var mnemonic = "awake custom lawsuit sea embrace under flavor sustain rotate copy decrease clutch";

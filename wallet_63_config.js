@@ -1,1 +1,1 @@
-var mnemonic = "dry cactus problem glance average wine crater check kite pony bundle sudden";
+var mnemonic = "century frame flip cute never gather theme toward label town wrist blind";

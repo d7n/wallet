@@ -1,1 +1,1 @@
-var mnemonic = "long code remove depart banner play drum copper knife blood say chimney";
+var mnemonic = "family reform glow exile curious zone true fiscal pudding family frame donate";

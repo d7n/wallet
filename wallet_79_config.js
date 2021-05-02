@@ -1,1 +1,1 @@
-var mnemonic = "fever enjoy nice glance day dash maid fluid song law produce town";
+var mnemonic = "essence cabbage ski buddy luggage wide cushion match lottery text useful pear";

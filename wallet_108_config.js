@@ -1,1 +1,1 @@
-var mnemonic = "armor review sell sting immune belt umbrella analyst arrange course side erupt";
+var mnemonic = "glide much castle disorder basket unveil ketchup fan cargo sheriff crush field";

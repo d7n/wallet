@@ -1,1 +1,1 @@
-var mnemonic = "torch regret metal make aerobic whale ginger exile copper couch boy hungry";
+var mnemonic = "quantum more slab flavor extend cube awful tongue illness label struggle student";

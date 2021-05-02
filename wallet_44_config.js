@@ -1,1 +1,1 @@
-var mnemonic = "ice swing doll video burst magnet garlic three hurt february poet cat";
+var mnemonic = "laptop ketchup caught public fault approve subject already reason elbow faculty speed";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch inspire sudden boss security blast nice game control fashion evoke capable";
+var mnemonic = "rhythm slice enact vicious more coral rapid sphere document scene guilt sail";

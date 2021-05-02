@@ -1,1 +1,1 @@
-var mnemonic = "fever depth sing ocean rifle iron pact excess fitness cram budget spring";
+var mnemonic = "cushion segment wing renew tongue fetch whisper ignore tiger jaguar vault crash";

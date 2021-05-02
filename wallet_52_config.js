@@ -1,1 +1,1 @@
-var mnemonic = "bunker frozen spatial recall spirit final excite asthma company child open three";
+var mnemonic = "busy exercise sauce chase test romance reward blanket increase sing drop obvious";

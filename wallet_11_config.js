@@ -1,1 +1,1 @@
-var mnemonic = "mail travel disorder anger bullet clock garment suggest first demise bottom night";
+var mnemonic = "tourist evil ecology demise agent marine tuna stay eager script august type";

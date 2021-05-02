@@ -1,1 +1,1 @@
-var mnemonic = "defy morning ensure bronze pizza profit there quantum provide twenty damage fortune";
+var mnemonic = "write text embrace outdoor scale muscle walnut cause must view ramp group";

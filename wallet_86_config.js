@@ -1,1 +1,1 @@
-var mnemonic = "lemon foot cradle dial adapt half little tide narrow hello behave sibling";
+var mnemonic = "orchard frost dutch rural notable wish disorder guilt high fiber keep bench";

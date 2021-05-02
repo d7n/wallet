@@ -1,1 +1,1 @@
-var mnemonic = "suit vanish essence wear client garage logic layer resource ready river what";
+var mnemonic = "away hotel tone pool october gas quit sketch dolphin answer iron door";

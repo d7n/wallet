@@ -1,1 +1,1 @@
-var mnemonic = "iron wheat because front exotic ivory hammer hungry ancient forward dance spin";
+var mnemonic = "force course impact oil stairs balance camera symbol family talk ivory demand";

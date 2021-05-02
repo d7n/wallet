@@ -1,1 +1,1 @@
-var mnemonic = "gorilla essence trust ecology turn grace margin swift say dove riot luggage";
+var mnemonic = "number mobile tag globe island law tourist jar pitch jacket reform cart";

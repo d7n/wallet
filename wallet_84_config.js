@@ -1,1 +1,1 @@
-var mnemonic = "coffee warfare nasty uphold donkey desk remind bring limit hungry tunnel stand";
+var mnemonic = "since uniform slim road carpet glass valley margin matter begin expand execute";

@@ -1,1 +1,1 @@
-var mnemonic = "grace now fire kick mention occur give earth daughter solid cheap lawsuit";
+var mnemonic = "bacon describe retire project matter vote tenant uncover noble proud vote hope";

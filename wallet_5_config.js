@@ -1,1 +1,1 @@
-var mnemonic = "doctor nasty bounce stool bunker cinnamon powder menu radio muffin say case";
+var mnemonic = "swift mean often creek knife night float post various flight regular taste";

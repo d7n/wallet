@@ -1,1 +1,1 @@
-var mnemonic = "outside visa zero link anchor symptom update shield practice slice always industry";
+var mnemonic = "whale climb delay bleak quantum firm piano swim protect cactus license differ";

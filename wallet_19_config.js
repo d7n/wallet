@@ -1,1 +1,1 @@
-var mnemonic = "grow cloth galaxy soul census token hybrid obtain world bench visit weapon";
+var mnemonic = "shoulder adult stove long abstract blame emotion valve lumber bleak next jazz";

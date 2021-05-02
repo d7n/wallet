@@ -1,1 +1,1 @@
-var mnemonic = "tree sock similar fiscal water film barely element acid dash dirt echo";
+var mnemonic = "salmon allow lunar book wire marriage tuition year drastic slush lava odor";

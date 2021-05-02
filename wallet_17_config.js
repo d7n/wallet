@@ -1,1 +1,1 @@
-var mnemonic = "double release supply dose athlete crime entry apology sponsor oak music this";
+var mnemonic = "math canal brown attitude mule fluid cart pill smoke enhance notice harbor";

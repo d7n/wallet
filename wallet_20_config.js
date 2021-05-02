@@ -1,1 +1,1 @@
-var mnemonic = "filter sketch couple obtain width vacuum noble produce maid spoil airport jeans";
+var mnemonic = "van tool movie grief uncover gaze west inspire check delay reopen book";

@@ -1,1 +1,1 @@
-var mnemonic = "into secret wire base grit media quick illness world survey canyon keep";
+var mnemonic = "home you marine because day special oak bonus try legend attack stadium";

@@ -1,1 +1,1 @@
-var mnemonic = "clog float brand width often abandon sphere prepare habit common ladder ribbon";
+var mnemonic = "flock upgrade inform coin holiday police admit script yellow firm math budget";

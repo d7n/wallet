@@ -1,1 +1,1 @@
-var mnemonic = "disease vital month weasel famous puppy zoo table dirt pistol series agree";
+var mnemonic = "recipe tragic climb book record session distance consider silk leopard usage hill";

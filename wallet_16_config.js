@@ -1,1 +1,1 @@
-var mnemonic = "more useful limb situate office buzz result genuine deer paper ice offer";
+var mnemonic = "firm bronze essay love emotion early win impact wage thumb young all";

@@ -1,1 +1,1 @@
-var mnemonic = "man person develop small aerobic shop organ special route load glove expire";
+var mnemonic = "valid valid child wife frost permit build print winner idea soccer friend";

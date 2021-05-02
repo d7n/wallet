@@ -1,1 +1,1 @@
-var mnemonic = "search between rate squeeze bike own fiscal demand script one robot tuna";
+var mnemonic = "squeeze error coyote olive beauty tunnel trust vendor garlic inside inch turtle";

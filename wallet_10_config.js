@@ -1,1 +1,1 @@
-var mnemonic = "deal mixed flight peanut modify three census rent hurt price donkey way";
+var mnemonic = "fee pact cricket wisdom twice life want phrase save ankle diet wrap";

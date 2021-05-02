@@ -1,1 +1,1 @@
-var mnemonic = "flight apart clown gorilla swift truly erase inside muscle master banana west";
+var mnemonic = "dose sausage unfold moon cheese huge state age drastic stock between must";

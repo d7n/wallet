@@ -1,1 +1,1 @@
-var mnemonic = "own fruit acoustic airport corn baby seek similar power ripple april vocal";
+var mnemonic = "adapt thank digital theory urban machine dress prefer lazy critic push thought";

@@ -1,1 +1,1 @@
-var mnemonic = "gold boss champion spawn welcome amount guilt grocery giggle cinnamon auto flag";
+var mnemonic = "afford addict crop nothing chief pond omit conduct zoo reunion split trend";

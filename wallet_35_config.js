@@ -1,1 +1,1 @@
-var mnemonic = "rough rhythm slice vocal curve crater bachelor draw upset pole guilt pig";
+var mnemonic = "joke carpet cradle trash anger brass female appear news candy remember second";

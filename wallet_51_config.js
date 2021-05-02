@@ -1,1 +1,1 @@
-var mnemonic = "ocean mass street lizard sand treat mansion paper palace approve barrel track";
+var mnemonic = "hotel city door slam police riot twin render same thumb they lobster";

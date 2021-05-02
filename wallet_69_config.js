@@ -1,1 +1,1 @@
-var mnemonic = "decorate crumble vivid park seminar blood food lock walk giant rubber brush";
+var mnemonic = "garden cloth satisfy rich barely better child crime speak pen frost chaos";

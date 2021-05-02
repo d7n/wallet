@@ -1,1 +1,1 @@
-var mnemonic = "cargo exist math example whale property hero afraid fetch insane episode jar";
+var mnemonic = "cigar blur grunt flame slight scan sick left artwork group collect modify";

@@ -1,1 +1,1 @@
-var mnemonic = "scan seek frown false right tornado bench fancy bike empty domain heavy";
+var mnemonic = "please suspect argue permit solve soap noise broken warm dirt clock essay";

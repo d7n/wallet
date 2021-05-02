@@ -1,1 +1,1 @@
-var mnemonic = "swallow betray wait hurdle cool spoon crisp glance mystery come language because";
+var mnemonic = "monkey blur call call gloom first meadow friend always market pair mosquito";

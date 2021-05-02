@@ -1,1 +1,1 @@
-var mnemonic = "argue survey interest basket hood pistol wrestle tissue task cushion glimpse fantasy";
+var mnemonic = "convince guide volcano claw chest adjust anxiety rug light notice glance cannon";

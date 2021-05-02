@@ -1,1 +1,1 @@
-var mnemonic = "output venue office old top sell current beach embrace film accident muffin";
+var mnemonic = "upper toward dry mass grunt chase squeeze melt alert story wink side";

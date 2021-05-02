@@ -1,1 +1,1 @@
-var mnemonic = "cat sign vast silent casual cruel carpet finish minute identify example clinic";
+var mnemonic = "middle make finish rude glue dish valid want glory bulk ecology mimic";

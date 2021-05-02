@@ -1,1 +1,1 @@
-var mnemonic = "mountain taxi hedgehog donate snack decorate impulse subway donate agent supply front";
+var mnemonic = "worry black crunch mention rapid float spatial energy stock umbrella gown coral";

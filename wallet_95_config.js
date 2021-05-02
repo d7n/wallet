@@ -1,1 +1,1 @@
-var mnemonic = "raw stay asset labor stock twenty neglect era reopen goat jeans oblige";
+var mnemonic = "alter fury device verify grape excess benefit radar lumber sense video all";

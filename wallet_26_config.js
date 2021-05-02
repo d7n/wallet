@@ -1,1 +1,1 @@
-var mnemonic = "rabbit zone pumpkin exile ranch mercy satisfy patch narrow heart zero business";
+var mnemonic = "roof zoo forget armed apart there issue emotion sport tragic pioneer length";

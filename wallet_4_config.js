@@ -1,1 +1,1 @@
-var mnemonic = "knock dream museum first rail coil there engage toy warrior dress obtain";
+var mnemonic = "category stove wrong aunt dry upgrade adjust bunker oven scale present spoon";

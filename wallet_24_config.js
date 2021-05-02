@@ -1,1 +1,1 @@
-var mnemonic = "way wheel fluid quit depth dad attitude busy alarm stairs luxury about";
+var mnemonic = "venue accuse grit warrior praise salmon bean debate silk aim aspect abuse";

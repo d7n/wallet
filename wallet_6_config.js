@@ -1,1 +1,1 @@
-var mnemonic = "name exile move broken enforce fatal tissue apology scare festival bench board";
+var mnemonic = "awful empower slice media height begin turkey label track soda pen siren";

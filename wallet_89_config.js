@@ -1,1 +1,1 @@
-var mnemonic = "insect sample hat medal trouble turn head prize physical clap license cup";
+var mnemonic = "upgrade mystery join logic genre visit account leopard grow judge decrease police";

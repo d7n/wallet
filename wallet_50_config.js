@@ -1,1 +1,1 @@
-var mnemonic = "anger hamster sadness envelope misery lumber virus dust under dismiss vital news";
+var mnemonic = "present document breeze giggle nut all wheat famous rival chair protect oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "humble there butter include garage similar basket render canyon sun bread category";
+var mnemonic = "exit book satoshi head above type civil galaxy holiday dinosaur black impulse";

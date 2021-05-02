@@ -1,1 +1,1 @@
-var mnemonic = "grid cross vanish devote bid tackle lottery depth sort wall vivid vintage";
+var mnemonic = "area faint van ability shoulder arch barely defense improve gaze artwork same";

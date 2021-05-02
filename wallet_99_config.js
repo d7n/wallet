@@ -1,1 +1,1 @@
-var mnemonic = "label sibling any chase buzz immense royal pear hobby addict arctic cannon";
+var mnemonic = "inflict ripple thought club style pool gold grid head click hurt hard";

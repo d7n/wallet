@@ -1,1 +1,1 @@
-var mnemonic = "more alone fiction demand capital predict strong crunch cart you inner civil";
+var mnemonic = "casino spell loud village broken issue ice raccoon income panel report daughter";

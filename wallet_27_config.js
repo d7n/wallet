@@ -1,1 +1,1 @@
-var mnemonic = "palace maid short slight sight between core pony erode eye oxygen vocal";
+var mnemonic = "spread fat body giggle moment hidden thing tragic gaze adapt pole fatigue";

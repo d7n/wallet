@@ -1,1 +1,1 @@
-var mnemonic = "journey happy enlist diesel meadow sand aisle stand inch puzzle run use";
+var mnemonic = "promote movie often price fragile save common balcony delay under cinnamon culture";

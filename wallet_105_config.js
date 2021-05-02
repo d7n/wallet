@@ -1,1 +1,1 @@
-var mnemonic = "only oyster potato sea rather jewel alcohol trouble umbrella ordinary update sustain";
+var mnemonic = "curious owner snack inject want arena rifle unaware grace faith ship chase";

@@ -1,1 +1,1 @@
-var mnemonic = "estate paper share spy garlic pact thank defense upgrade absent uphold april";
+var mnemonic = "giant base tone slot gate metal chair army vanish february track rather";

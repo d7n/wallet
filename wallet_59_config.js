@@ -1,1 +1,1 @@
-var mnemonic = "spoil palm oven west feature road like boat trip powder spoil prevent";
+var mnemonic = "arm raven stamp despair jaguar faith book radio wolf mind treat home";

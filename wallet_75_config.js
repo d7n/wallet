@@ -1,1 +1,1 @@
-var mnemonic = "lady amateur click video affair dignity machine post print resource mixture half";
+var mnemonic = "kit divorce empower replace sand pole then dash news small chuckle west";

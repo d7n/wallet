@@ -1,1 +1,1 @@
-var mnemonic = "first better solve spider donate cost nothing zoo impulse upper borrow dial";
+var mnemonic = "speed near virtual release nuclear acoustic stone pride hotel similar now model";

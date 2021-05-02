@@ -1,1 +1,1 @@
-var mnemonic = "bid win settle insect badge sense broom whale worth eye spy today";
+var mnemonic = "diary media various sword entry type timber rain relief junk recall october";

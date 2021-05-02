@@ -1,1 +1,1 @@
-var mnemonic = "erase pig settle slam train desk exercise member until drink chaos simple";
+var mnemonic = "when panther decide lady cabin leopard diesel flavor render hair auction jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm you account orbit occur now lobster sea reunion rapid utility file";
+var mnemonic = "rapid wealth diamond brick zebra tank lock interest slight amazing skin quarter";

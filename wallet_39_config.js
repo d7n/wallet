@@ -1,1 +1,1 @@
-var mnemonic = "warfare what lawsuit frost express judge butter armor loyal shift timber guitar";
+var mnemonic = "zero tape shrimp lamp price measure taste mushroom faint hollow monster warfare";

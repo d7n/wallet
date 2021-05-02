@@ -1,1 +1,1 @@
-var mnemonic = "world purchase stock expire couple olympic health exotic will inherit rich ensure";
+var mnemonic = "horn couch bachelor liar more gift cargo account vocal cute right history";

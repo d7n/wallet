@@ -1,1 +1,1 @@
-var mnemonic = "quote suit unveil frown wool guitar artwork service hedgehog exhaust squirrel ahead";
+var mnemonic = "since west jelly nature flock vibrant congress depend emotion fruit arrow pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "menu obvious coyote midnight universe enhance walnut wedding harvest pizza note twenty";
+var mnemonic = "add phrase average then job box come model all arch art gown";

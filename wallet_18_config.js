@@ -1,1 +1,1 @@
-var mnemonic = "excess fever use cruel marine bachelor rail unaware beyond quote turtle banner";
+var mnemonic = "hedgehog define unfold road poem inner matter panda collect bullet purpose spell";

@@ -1,1 +1,1 @@
-var mnemonic = "latin add boat deliver inquiry quote water craft broken rival visa volume";
+var mnemonic = "spot company jeans chef loud nominee twenty ice exotic fit tide amateur";

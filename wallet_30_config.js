@@ -1,1 +1,1 @@
-var mnemonic = "orange north over foam civil scrub share minute breeze noodle phrase trust";
+var mnemonic = "rural gospel face speed table casual catalog brave warm digital frequent prevent";

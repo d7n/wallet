@@ -1,1 +1,1 @@
-var mnemonic = "agent exhibit waste supply bronze smooth cute lion crop insect title either";
+var mnemonic = "antenna eager friend wasp pulse moment tell keen evolve ritual doll woman";

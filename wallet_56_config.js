@@ -1,1 +1,1 @@
-var mnemonic = "exile floor legend nut amazing wheel enroll shrug tomorrow ostrich involve ivory";
+var mnemonic = "isolate brand season animal alcohol album capable rival depend shop august theory";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze slide roof rose celery happy eyebrow catch grunt kiwi conduct hamster";
+var mnemonic = "west mention drill pepper valid chef silly cliff assault visit vanish never";

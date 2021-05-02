@@ -1,1 +1,1 @@
-var mnemonic = "connect range pave robot catalog blast luggage job mango believe visual artist";
+var mnemonic = "exchange small other stock saddle alarm exclude comic trap frost spread one";

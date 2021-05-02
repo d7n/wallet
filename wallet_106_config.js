@@ -1,1 +1,1 @@
-var mnemonic = "catch enlist matrix copy pencil genre bunker total argue reduce engine write";
+var mnemonic = "cycle style lake mirror spend purse canal patient local hungry beach alley";

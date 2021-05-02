@@ -1,1 +1,1 @@
-var mnemonic = "slam wise curtain section amazing bid tortoise evidence focus enrich deny pony";
+var mnemonic = "movie random outdoor web trouble thought quarter attack slot spend invite giraffe";

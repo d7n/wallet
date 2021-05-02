@@ -1,1 +1,1 @@
-var mnemonic = "power project item release depart fox amazing summer yellow magic pulse replace";
+var mnemonic = "evil buzz crawl timber motion element black boil main aware van outer";

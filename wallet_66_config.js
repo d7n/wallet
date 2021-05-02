@@ -1,1 +1,1 @@
-var mnemonic = "animal cabbage amount unusual market family eye brother fancy else round clap";
+var mnemonic = "nut limit paddle flash invite follow crop leisure super give ozone explain";

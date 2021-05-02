@@ -1,1 +1,1 @@
-var mnemonic = "arctic fortune plastic version wheat royal vendor cry casual digital kidney clock";
+var mnemonic = "jungle future dream ready vanish roast layer analyst test man valid whale";

@@ -1,1 +1,1 @@
-var mnemonic = "ten shell boost vessel beef title one thunder pear dose caught bachelor";
+var mnemonic = "leave sell tank clock acoustic rug nothing amateur loyal silver popular wrong";

@@ -1,1 +1,1 @@
-var mnemonic = "item gesture anger attract nation early thumb pioneer eager earth affair brown";
+var mnemonic = "hidden payment alpha afraid ozone assume fabric clever heart repeat destroy zone";
