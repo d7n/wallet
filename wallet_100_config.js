@@ -1,1 +1,1 @@
-var mnemonic = "enjoy can skate canvas fury provide fiber token box arena photo canvas";
+var mnemonic = "congress radio laundry hen crumble apart dignity unlock require rookie dawn sure";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer hawk dial between actress explain notable law ready assume solid parrot";
+var mnemonic = "person junior rookie flash cement teach merge change virus faith will display";

@@ -1,1 +1,1 @@
-var mnemonic = "bind prefer science exit museum vault social intact chunk extend gasp ivory";
+var mnemonic = "hover cattle guilt soup mango slow lend grocery narrow ribbon demise night";

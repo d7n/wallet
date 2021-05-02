@@ -1,1 +1,1 @@
-var mnemonic = "buddy inspire exist dismiss style success detect erase attract dismiss together wrist";
+var mnemonic = "poem paddle find parent skate point nest romance inspire festival aim moment";

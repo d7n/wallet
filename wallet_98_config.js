@@ -1,1 +1,1 @@
-var mnemonic = "muffin attitude sing shrug space possible online capital civil young cycle buzz";
+var mnemonic = "sauce draft manual future duck lock shock record exclude urban innocent vehicle";

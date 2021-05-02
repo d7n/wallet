@@ -1,1 +1,1 @@
-var mnemonic = "abstract tattoo arm memory clay palace illness alert shallow provide timber distance";
+var mnemonic = "expand someone hunt skull two miss symptom vessel curious material drill birth";

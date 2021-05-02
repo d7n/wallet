@@ -1,1 +1,1 @@
-var mnemonic = "produce ketchup confirm hobby horror lake apart tide zoo fetch ozone attend";
+var mnemonic = "jewel goddess enrich ugly august critic sadness neck eager mammal dilemma success";

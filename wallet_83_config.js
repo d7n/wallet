@@ -1,1 +1,1 @@
-var mnemonic = "sheriff pupil win dose blade enough boost keep autumn sugar sauce glow";
+var mnemonic = "minimum enemy awkward push acid pole unusual now attack market put scare";

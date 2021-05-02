@@ -1,1 +1,1 @@
-var mnemonic = "shrug cycle scissors ball hybrid dash labor solar stable insane guess swallow";
+var mnemonic = "fashion thumb flip kitchen stone leg ordinary desert mandate vendor swim lunch";

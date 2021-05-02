@@ -1,1 +1,1 @@
-var mnemonic = "picnic skill trouble gloom poverty scorpion ostrich either betray motion short wear";
+var mnemonic = "cave wealth elephant yard because switch genius drop fan grape easily brown";

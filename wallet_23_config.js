@@ -1,1 +1,1 @@
-var mnemonic = "crumble visit canyon friend alone wisdom mask crew any bullet story crisp";
+var mnemonic = "best twenty rose spy auto around crater blush piano deny again motor";

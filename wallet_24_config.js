@@ -1,1 +1,1 @@
-var mnemonic = "spice collect artist aware clump surge drop fluid figure loyal motion exhaust";
+var mnemonic = "coyote extend banner ancient under diet road tonight educate unique eye bronze";

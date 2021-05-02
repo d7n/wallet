@@ -1,1 +1,1 @@
-var mnemonic = "degree evidence supply bone enhance friend bulb lyrics soda current anger where";
+var mnemonic = "spread belt manage skin fault dance lemon ring dutch traffic width pen";

@@ -1,1 +1,1 @@
-var mnemonic = "cake radio mule absorb resource sunset excite vocal orphan deny adapt fragile";
+var mnemonic = "nest problem caught cannon desk this chase quote news garage pave exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap slow zero over middle inherit soft game book hurry assist fury";
+var mnemonic = "keen party found husband rare actress caught type despair tuition float random";

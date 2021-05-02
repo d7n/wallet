@@ -1,1 +1,1 @@
-var mnemonic = "soul melody crawl chimney cousin account violin detect ordinary drop humor gesture";
+var mnemonic = "soft involve know wing civil topple evolve surround west opinion bar deposit";

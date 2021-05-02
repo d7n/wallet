@@ -1,1 +1,1 @@
-var mnemonic = "symptom quote vacuum panel club mesh useless avocado video unhappy tag tunnel";
+var mnemonic = "check ensure mixed ginger return that margin brick wrist faith jealous win";

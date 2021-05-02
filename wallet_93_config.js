@@ -1,1 +1,1 @@
-var mnemonic = "say caught fetch luggage disease cause already pilot chase abandon sheriff clown";
+var mnemonic = "office wealth capital forward lucky flame auction myth identify whip fence flight";

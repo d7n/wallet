@@ -1,1 +1,1 @@
-var mnemonic = "lion ghost latin truly time describe dress humor alarm street ugly opera";
+var mnemonic = "west miracle oxygen march paddle heavy core habit spice style tired message";

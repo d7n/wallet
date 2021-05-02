@@ -1,1 +1,1 @@
-var mnemonic = "fence young edit path profit virus tissue alpha model gun claw grit";
+var mnemonic = "left slice local clean address canvas connect civil number science rice fitness";

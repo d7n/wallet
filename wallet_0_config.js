@@ -1,1 +1,1 @@
-var mnemonic = "dutch throw rubber evolve error bright end merit palm truly flower rifle";
+var mnemonic = "envelope figure spread club move zoo brave cage rigid farm guide ketchup";

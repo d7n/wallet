@@ -1,1 +1,1 @@
-var mnemonic = "season public type link lava join funny relax silent witness canal disagree";
+var mnemonic = "wear describe tackle pepper turtle two change fever panel next aim caught";

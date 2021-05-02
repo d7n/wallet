@@ -1,1 +1,1 @@
-var mnemonic = "canal loyal note shuffle sample mixed month leopard fold recall pioneer onion";
+var mnemonic = "response wave drum hover economy shuffle culture grain bleak snap dwarf mention";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle elder earn parrot abuse aerobic whale arrow maid cigar village consider";
+var mnemonic = "purpose anger deer depart bicycle simple fiction quit choice motor apart suffer";

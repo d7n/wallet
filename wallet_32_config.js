@@ -1,1 +1,1 @@
-var mnemonic = "morning cousin future know carry blast erase piano risk lyrics enlist vacuum";
+var mnemonic = "open nothing endless robot bacon omit reform involve vintage link wash blouse";

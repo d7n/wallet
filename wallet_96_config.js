@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit case work donate pattern behave reject hidden cup warm always inform";
+var mnemonic = "pledge fatal ketchup lemon try maple usual blind shine never work hero";

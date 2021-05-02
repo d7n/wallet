@@ -1,1 +1,1 @@
-var mnemonic = "joy crack giggle book vanish weasel shy riot category follow nuclear ticket";
+var mnemonic = "own offer world reunion phrase beyond radio better carbon because diamond license";

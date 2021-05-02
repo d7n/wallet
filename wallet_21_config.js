@@ -1,1 +1,1 @@
-var mnemonic = "invite west jump fatal hard cool hunt carpet tent march steel supreme";
+var mnemonic = "village regular arrest smile mechanic laundry plastic kidney trust east monkey reveal";

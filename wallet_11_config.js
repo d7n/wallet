@@ -1,1 +1,1 @@
-var mnemonic = "crucial tourist ice opinion cargo donate dolphin busy mom rain half title";
+var mnemonic = "shoe race hen nature slight echo later switch there answer annual alcohol";

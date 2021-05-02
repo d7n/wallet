@@ -1,1 +1,1 @@
-var mnemonic = "scheme warm rude boy legend rail pear disagree craft goat cram skin";
+var mnemonic = "reunion dad clever prepare insane indoor noodle worth captain legal chronic symptom";

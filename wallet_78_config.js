@@ -1,1 +1,1 @@
-var mnemonic = "cable rubber people drum mixture swift poem episode auction project immune march";
+var mnemonic = "tissue stable document evidence depart champion perfect idle setup dwarf trip copy";

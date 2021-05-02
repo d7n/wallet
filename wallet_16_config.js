@@ -1,1 +1,1 @@
-var mnemonic = "match athlete jelly suspect anxiety elder buyer crystal banner nut lounge harvest";
+var mnemonic = "doll riot cat before similar insane uncover luxury eye table wagon rack";

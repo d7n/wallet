@@ -1,1 +1,1 @@
-var mnemonic = "ski supply maple history guitar pudding theme monitor toddler shoulder decorate setup";
+var mnemonic = "budget hybrid feed safe forget area injury purity piano race oval later";

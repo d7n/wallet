@@ -1,1 +1,1 @@
-var mnemonic = "fiscal stool vault adjust blind saddle simple chef rebuild member escape skull";
+var mnemonic = "whale cable assume since bicycle vehicle delay planet emerge fuel tell chat";

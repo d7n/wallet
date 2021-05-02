@@ -1,1 +1,1 @@
-var mnemonic = "torch dial gym medal nothing tube wife surprise scorpion laundry canoe quick";
+var mnemonic = "laugh aim grocery sock key cool vote huge flush sponsor radar peanut";

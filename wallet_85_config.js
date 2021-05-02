@@ -1,1 +1,1 @@
-var mnemonic = "relief salmon bone gallery cream ski neutral snap stage inquiry destroy angry";
+var mnemonic = "mobile harvest clinic cage boost govern carpet patient inform junk wolf mansion";

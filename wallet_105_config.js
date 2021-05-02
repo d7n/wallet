@@ -1,1 +1,1 @@
-var mnemonic = "genuine conduct desk junior group put problem will print soul payment acid";
+var mnemonic = "green remember play upset soldier silly income sketch ten split noodle leopard";

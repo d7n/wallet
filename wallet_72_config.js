@@ -1,1 +1,1 @@
-var mnemonic = "habit trust health orbit advice amateur erase glue alcohol snap can label";
+var mnemonic = "soldier material mercy usual wagon illegal wagon draft object special people obscure";

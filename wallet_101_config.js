@@ -1,1 +1,1 @@
-var mnemonic = "rookie provide pulp multiply wolf cruel laptop cat nose have crisp cherry";
+var mnemonic = "fatigue admit feel sample giant debate hand begin staff worry gentle toy";

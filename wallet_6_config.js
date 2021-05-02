@@ -1,1 +1,1 @@
-var mnemonic = "crack next apology behind wrist elder easily accuse asthma warfare shove account";
+var mnemonic = "melody comfort lecture bubble obvious more lady fix pioneer hurdle affair moral";

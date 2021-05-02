@@ -1,1 +1,1 @@
-var mnemonic = "identify pencil keep brass pencil ladder october region ice duty sorry check";
+var mnemonic = "medal ocean wise anchor current reunion switch weird couple wage wood gold";

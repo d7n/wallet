@@ -1,1 +1,1 @@
-var mnemonic = "genius tape sample rich eternal delay material member staff home put misery";
+var mnemonic = "hand tornado rather rather normal twin relax problem lake ridge release shell";

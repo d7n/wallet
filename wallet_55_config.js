@@ -1,1 +1,1 @@
-var mnemonic = "egg cement usage ankle fantasy submit hello police slab gadget oppose roast";
+var mnemonic = "viable remind weekend assume ankle public stadium sense veteran toddler gun bamboo";

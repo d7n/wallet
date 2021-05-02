@@ -1,1 +1,1 @@
-var mnemonic = "income drop egg master fan copper shuffle giraffe raven hero obey brown";
+var mnemonic = "build april play run finger effort medal grocery protect merry spider fit";

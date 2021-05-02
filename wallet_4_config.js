@@ -1,1 +1,1 @@
-var mnemonic = "trap since thing curve moment inside taxi pelican upset churn lawn crazy";
+var mnemonic = "cat mesh until wish neck pulp airport general table arrange visa disease";

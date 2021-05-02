@@ -1,1 +1,1 @@
-var mnemonic = "hidden feed chuckle guitar spatial announce roast area favorite web capital crew";
+var mnemonic = "marble helmet wink illegal potato friend crouch eternal alone armed wealth wait";

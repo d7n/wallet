@@ -1,1 +1,1 @@
-var mnemonic = "garbage border zebra they system dust mind replace issue chicken expose hello";
+var mnemonic = "certain notable fragile lawn town scatter talent glad green badge head judge";

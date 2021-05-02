@@ -1,1 +1,1 @@
-var mnemonic = "praise play bicycle myth early develop miracle brick impulse surprise festival disorder";
+var mnemonic = "pistol steel label wage moment tunnel crisp poverty donkey stomach exhaust quiz";

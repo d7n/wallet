@@ -1,1 +1,1 @@
-var mnemonic = "brand tornado wealth desk build swamp raise adjust screen try promote observe";
+var mnemonic = "pear push floor chair sun asset hospital belt brand cancel welcome assault";

@@ -1,1 +1,1 @@
-var mnemonic = "pause asset govern viable like garage certain inside room floor close palace";
+var mnemonic = "unaware number spot hurry analyst current exact whip much odor alien call";

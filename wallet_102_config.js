@@ -1,1 +1,1 @@
-var mnemonic = "fatal supreme response first silk link abuse flight retire stable valid dust";
+var mnemonic = "just lamp drop dynamic shaft order permit mind syrup brand build try";

@@ -1,1 +1,1 @@
-var mnemonic = "question vivid ribbon climb vessel artwork slow side brother glory truth purse";
+var mnemonic = "ethics desk black correct trial point tool guilt hybrid dry castle ask";

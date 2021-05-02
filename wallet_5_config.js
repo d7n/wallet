@@ -1,1 +1,1 @@
-var mnemonic = "hazard person stove opinion option blame under cream absent crew critic face";
+var mnemonic = "asset surface vanish situate trouble tree plastic shock inflict ugly muffin creek";

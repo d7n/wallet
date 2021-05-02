@@ -1,1 +1,1 @@
-var mnemonic = "slice winter live ski canvas differ execute voice route follow rocket symbol";
+var mnemonic = "robot frost spray number interest wreck negative soon gesture kind junk video";

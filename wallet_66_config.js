@@ -1,1 +1,1 @@
-var mnemonic = "day inmate invest must area dance engage inch sleep home industry space";
+var mnemonic = "intact hair orphan child cattle advice amazing spring below mansion category couple";

@@ -1,1 +1,1 @@
-var mnemonic = "odor fancy hen zero around neither crack deputy torch mandate faculty sing";
+var mnemonic = "husband century attend noodle denial brave wear expose chair shift differ tag";

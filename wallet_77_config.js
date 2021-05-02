@@ -1,1 +1,1 @@
-var mnemonic = "awesome age where point obtain bridge return dish mushroom soon unknown royal";
+var mnemonic = "orange fuel pony indoor outer unusual mixed skull cherry rail letter flush";

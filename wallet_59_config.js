@@ -1,1 +1,1 @@
-var mnemonic = "amused bright hair bread food canvas name pride pigeon victory giant world";
+var mnemonic = "scale elegant century upgrade runway genuine hard employ bulb drastic denial alter";

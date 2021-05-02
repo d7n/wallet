@@ -1,1 +1,1 @@
-var mnemonic = "fence practice copper goose curtain october filter pair deposit luggage beauty bean";
+var mnemonic = "uncle panic access gravity cinnamon into inside great bicycle come question evolve";

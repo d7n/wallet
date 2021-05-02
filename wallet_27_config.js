@@ -1,1 +1,1 @@
-var mnemonic = "puppy tooth believe gadget purse pulp timber erase leaf magic alarm oppose";
+var mnemonic = "expect oval response quarter final quit sock desk equal test cactus sadness";

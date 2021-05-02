@@ -1,1 +1,1 @@
-var mnemonic = "habit poet result unable assume minute convince rice violin urge current clay";
+var mnemonic = "leisure danger myself hundred mandate section cook plate bitter observe service parade";

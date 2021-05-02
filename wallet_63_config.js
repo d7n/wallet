@@ -1,1 +1,1 @@
-var mnemonic = "daring elite oil project unusual obey phone flush project write puppy cave";
+var mnemonic = "already badge margin depth claw license aunt stamp body heart rug crowd";

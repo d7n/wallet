@@ -1,1 +1,1 @@
-var mnemonic = "utility vintage follow clap choice duck ball fault decline way upon dune";
+var mnemonic = "glue display ozone stable stereo order wait inner exhibit tomato hand thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "title dune sadness crack limit upgrade security lunch derive immense double bus";
+var mnemonic = "sustain fiscal flock witness inflict protect spoil rural mouse network cinnamon coconut";

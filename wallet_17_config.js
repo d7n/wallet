@@ -1,1 +1,1 @@
-var mnemonic = "hurry fatigue spoon across pink maze protect adjust diamond valid move ranch";
+var mnemonic = "hamster credit calm exhibit dizzy nice museum outside effort zone offer enemy";

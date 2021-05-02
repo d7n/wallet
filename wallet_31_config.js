@@ -1,1 +1,1 @@
-var mnemonic = "notable fiction layer camp divide enroll office raccoon bus drill tilt engine";
+var mnemonic = "balance address venue wall girl project only access atom cousin oven green";

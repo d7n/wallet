@@ -1,1 +1,1 @@
-var mnemonic = "other spoil direct appear execute burger solar kiss memory various spoil twelve";
+var mnemonic = "whale actress crop east curve report wool asset circle unusual runway pluck";

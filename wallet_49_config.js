@@ -1,1 +1,1 @@
-var mnemonic = "pretty host word inflict glad recall host rotate pencil dust ceiling sugar";
+var mnemonic = "wealth surround rabbit weird bike pizza script stairs load silent regret seminar";

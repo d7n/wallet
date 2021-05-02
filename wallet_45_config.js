@@ -1,1 +1,1 @@
-var mnemonic = "rotate refuse early vacant stairs offer early song pond topple syrup more";
+var mnemonic = "human sting smile daring soon raw top analyst chair naive fantasy execute";

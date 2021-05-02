@@ -1,1 +1,1 @@
-var mnemonic = "night flame upper ride inflict pole foil sleep torch window swarm mechanic";
+var mnemonic = "occur occur repeat left item input cattle height jacket engine garlic crop";

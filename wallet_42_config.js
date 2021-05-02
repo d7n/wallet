@@ -1,1 +1,1 @@
-var mnemonic = "jazz trend top alcohol pupil gift hybrid already typical omit flip faint";
+var mnemonic = "domain park void good jealous protect quit price churn valve cloth rocket";

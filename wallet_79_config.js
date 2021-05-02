@@ -1,1 +1,1 @@
-var mnemonic = "unit pumpkin carry modify time slam crash conduct quit multiply boss sniff";
+var mnemonic = "engine flock leopard bread clutch hello soon slide system program stamp anger";

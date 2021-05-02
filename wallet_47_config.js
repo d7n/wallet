@@ -1,1 +1,1 @@
-var mnemonic = "youth damage hammer spring turtle earth error dust fantasy between viable book";
+var mnemonic = "casino depart reason plunge lizard violin throw almost exercise kick seat anxiety";

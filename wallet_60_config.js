@@ -1,1 +1,1 @@
-var mnemonic = "alley glass grit exhibit velvet steel wink typical usage ribbon void deposit";
+var mnemonic = "jar delay nurse knee opinion half reform artwork peasant success blood scheme";

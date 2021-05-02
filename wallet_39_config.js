@@ -1,1 +1,1 @@
-var mnemonic = "hour mountain vital sleep switch erode orange ankle refuse arrow unusual phrase";
+var mnemonic = "retreat other funny velvet stay crime craft glory nasty fashion furnace primary";

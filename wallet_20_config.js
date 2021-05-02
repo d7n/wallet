@@ -1,1 +1,1 @@
-var mnemonic = "clog open seek spin cabbage holiday company enough endorse bulk receive over";
+var mnemonic = "soft few hybrid stick shock monkey toilet fantasy cloud dentist wagon chaos";

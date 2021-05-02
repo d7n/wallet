@@ -1,1 +1,1 @@
-var mnemonic = "pair another infant feed identify lyrics school crazy pole utility age able";
+var mnemonic = "right sniff under good stereo own wagon choose tourist metal reason catch";

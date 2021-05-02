@@ -1,1 +1,1 @@
-var mnemonic = "cable photo damage street engage another inhale vivid festival equal volume icon";
+var mnemonic = "video odor rib bridge pencil door battle seek shuffle super shock maple";

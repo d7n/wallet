@@ -1,1 +1,1 @@
-var mnemonic = "inmate response bright innocent choose stuff debate wrestle auction quantum across force";
+var mnemonic = "surround supreme equip engine diesel vapor decline miss manage oak hawk honey";

@@ -1,1 +1,1 @@
-var mnemonic = "shiver slab nose swim repair wave purchase over rather execute trigger hope";
+var mnemonic = "april also walk arm lock fuel mansion buzz pledge physical pupil fix";

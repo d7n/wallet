@@ -1,1 +1,1 @@
-var mnemonic = "flag release crew aisle cinnamon comic guess sunny romance fluid urban peanut";
+var mnemonic = "cricket believe mountain repair mutual horn grunt token high chaos card spring";

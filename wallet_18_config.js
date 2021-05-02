@@ -1,1 +1,1 @@
-var mnemonic = "school goddess easily horror lecture betray wire charge situate sauce certain tilt";
+var mnemonic = "label cash raise cupboard spatial ladder blur vanish card victory occur fly";

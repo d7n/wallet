@@ -1,1 +1,1 @@
-var mnemonic = "barrel era hurry rich involve jaguar novel worth silk thank afraid foil";
+var mnemonic = "valve replace dog install avocado floor client tennis trip state express fold";

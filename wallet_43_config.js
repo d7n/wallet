@@ -1,1 +1,1 @@
-var mnemonic = "gaze enforce smoke enact squirrel dizzy kangaroo either planet awkward climb size";
+var mnemonic = "jungle stereo trip caught seven unhappy enroll fancy luxury old infant receive";

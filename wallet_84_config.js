@@ -1,1 +1,1 @@
-var mnemonic = "glove proud brief hour brisk nuclear pond razor worry lake machine join";
+var mnemonic = "rubber trust crush swallow hunt own kit menu gold pilot spend wall";

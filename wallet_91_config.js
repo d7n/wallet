@@ -1,1 +1,1 @@
-var mnemonic = "spring history wheat shy document mad ankle notice oak bundle identify oblige";
+var mnemonic = "right fly spider syrup weekend boil infant used eagle this expand bullet";

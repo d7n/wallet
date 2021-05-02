@@ -1,1 +1,1 @@
-var mnemonic = "edge sad spy below immense extra mercy symbol garment where cloth divide";
+var mnemonic = "insane unfold cargo brick drip breeze trial guilt safe news tilt gun";

@@ -1,1 +1,1 @@
-var mnemonic = "barrel around giggle afraid ready nerve genre resist reunion humble already buzz";
+var mnemonic = "guide shallow elevator machine south bonus amazing valley razor success deposit smile";

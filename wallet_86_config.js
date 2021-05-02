@@ -1,1 +1,1 @@
-var mnemonic = "network casino flip effort hockey process slogan diesel faculty core laundry slot";
+var mnemonic = "myself body net valley pudding document toward mistake media glow answer unhappy";

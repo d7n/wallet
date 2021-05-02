@@ -1,1 +1,1 @@
-var mnemonic = "ribbon increase allow bright lizard biology deny icon gun maple inflict machine";
+var mnemonic = "zoo course soap farm royal consider sudden tissue diagram repair drop rifle";

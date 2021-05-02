@@ -1,1 +1,1 @@
-var mnemonic = "copper predict three stuff other foot talk stove hazard mixture tortoise salt";
+var mnemonic = "oblige field radar fossil meadow entry foam edit gospel tattoo wonder solid";

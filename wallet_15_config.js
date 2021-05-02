@@ -1,1 +1,1 @@
-var mnemonic = "menu fame rural because wasp define more artist drill armor spice radio";
+var mnemonic = "trouble similar burst drip imitate blanket fever judge survey moral decade winter";

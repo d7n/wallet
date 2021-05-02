@@ -1,1 +1,1 @@
-var mnemonic = "sound shiver ability make surge bachelor lucky amused define gossip sport race";
+var mnemonic = "journey mention arrange twelve seat shrimp cotton fatigue cool eagle clerk cycle";

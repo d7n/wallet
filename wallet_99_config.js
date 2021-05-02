@@ -1,1 +1,1 @@
-var mnemonic = "dose phrase brush yellow donor rubber choose flash aerobic race phrase much";
+var mnemonic = "column miss amused mail this project garment choice oven casino spell regret";

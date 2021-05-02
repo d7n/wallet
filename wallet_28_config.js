@@ -1,1 +1,1 @@
-var mnemonic = "mother soda chalk hundred resist canyon struggle program diamond bring still comic";
+var mnemonic = "ordinary wear clog sunny swing throw moral never moon drama silent boss";

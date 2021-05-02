@@ -1,1 +1,1 @@
-var mnemonic = "convince jacket resist alpha remove receive strong train dignity scout season trial";
+var mnemonic = "vivid hobby gas ocean raven misery panda job awesome entry elevator pluck";

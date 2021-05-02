@@ -1,1 +1,1 @@
-var mnemonic = "exclude owner huge man energy weird host father fatal room ugly caution";
+var mnemonic = "state modify demise bulb jar sunny dolphin force cousin solid power boat";

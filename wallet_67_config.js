@@ -1,1 +1,1 @@
-var mnemonic = "course canoe employ antenna nothing tip labor north rely crane sea witness";
+var mnemonic = "rice board kitchen game path congress lab regular symptom general lobster suit";

@@ -1,1 +1,1 @@
-var mnemonic = "total road stumble gaze express group garlic thunder fire slush work cool";
+var mnemonic = "web maze solution already fire illegal knife author index area cement dolphin";
