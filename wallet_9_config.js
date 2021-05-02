@@ -1,1 +1,1 @@
-var mnemonic = "holiday hawk delay speed face rely all battle banner mimic trade track";
+var mnemonic = "core bar fat weird fuel tenant skirt desk hello stumble skull phone";

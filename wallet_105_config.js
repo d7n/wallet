@@ -1,1 +1,1 @@
-var mnemonic = "mention either position hat auto boat senior round mean roof device voice";
+var mnemonic = "degree awful train hurt path proof brain cactus position fiber reason coil";

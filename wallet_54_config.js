@@ -1,1 +1,1 @@
-var mnemonic = "smile proud cliff fire where knee hair estate penalty popular reflect tent";
+var mnemonic = "radio stamp bleak cable symptom cake outdoor egg theory anchor adjust warfare";

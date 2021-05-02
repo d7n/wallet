@@ -1,1 +1,1 @@
-var mnemonic = "express hat meadow twist mesh entry vacant myself coast rookie festival cause";
+var mnemonic = "wonder photo sun solar east defense crash festival clever razor wave tail";

@@ -1,1 +1,1 @@
-var mnemonic = "planet crew ensure retire east mesh zoo grace economy boat bargain recipe";
+var mnemonic = "direct hope salt vanish patch furnace pool ocean resemble tunnel jump display";

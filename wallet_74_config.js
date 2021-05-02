@@ -1,1 +1,1 @@
-var mnemonic = "bench thank one romance help rate cost twin celery chicken neck midnight";
+var mnemonic = "pledge emerge bounce one range angry hole chuckle symbol strategy tower fame";

@@ -1,1 +1,1 @@
-var mnemonic = "feel pave fame reflect unfair visa decorate poem reward runway execute pilot";
+var mnemonic = "apology sphere raise model swarm lobster salt arctic drip raven add umbrella";

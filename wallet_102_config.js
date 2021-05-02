@@ -1,1 +1,1 @@
-var mnemonic = "pass surround stumble depth purity salmon door review cigar vote amount desert";
+var mnemonic = "praise churn mean trust shoe pig armed virus urban ill volcano try";

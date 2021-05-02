@@ -1,1 +1,1 @@
-var mnemonic = "opera water tongue short garden prosper strong public brass cigar camp erupt";
+var mnemonic = "shrug early stamp add page window bridge ring aware judge tragic fall";

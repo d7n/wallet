@@ -1,1 +1,1 @@
-var mnemonic = "hope finger glance scissors length lobster beach tenant lake fortune reopen teach";
+var mnemonic = "layer waste circle ethics frown mass cube puppy busy abandon spider rebel";

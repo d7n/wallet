@@ -1,1 +1,1 @@
-var mnemonic = "elder siege fish draw leave nice sentence drip provide refuse stomach craft";
+var mnemonic = "tackle canoe north panther uniform cram damage rack razor razor circle modify";

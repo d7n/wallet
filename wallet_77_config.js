@@ -1,1 +1,1 @@
-var mnemonic = "record work west twice muscle survey illegal remove federal exile during million";
+var mnemonic = "retire bomb pistol second core lamp jelly short estate someone relief purpose";

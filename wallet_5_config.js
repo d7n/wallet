@@ -1,1 +1,1 @@
-var mnemonic = "beach retreat off element dish peace jaguar tissue despair film screen situate";
+var mnemonic = "weird music negative swarm mother deer mammal danger torch upon tail wear";

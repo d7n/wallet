@@ -1,1 +1,1 @@
-var mnemonic = "flag pool beef upon snake tent repeat agree twin process laugh man";
+var mnemonic = "escape move anxiety estate input champion donor settle deliver pistol city scrub";

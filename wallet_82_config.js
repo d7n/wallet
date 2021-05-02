@@ -1,1 +1,1 @@
-var mnemonic = "loan feed twin burst annual oblige gown entry resist legend swallow income";
+var mnemonic = "damage admit current dismiss asthma warm cart strategy image nest drill turkey";

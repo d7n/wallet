@@ -1,1 +1,1 @@
-var mnemonic = "gold yard need giraffe arctic dune celery empower arrest symptom unaware dirt";
+var mnemonic = "teach film improve shadow glimpse guide height verify wait urge crack size";

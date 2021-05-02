@@ -1,1 +1,1 @@
-var mnemonic = "shoot people barrel else churn butter minimum person cause rescue actress cannon";
+var mnemonic = "love trigger close swarm woman wheel interest announce mechanic render spike bubble";

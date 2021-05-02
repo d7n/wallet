@@ -1,1 +1,1 @@
-var mnemonic = "release slight increase future mistake try move act hungry glow tree leaf";
+var mnemonic = "pencil bridge frame dose citizen cat afford capital away era owner divide";

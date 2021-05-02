@@ -1,1 +1,1 @@
-var mnemonic = "tape auction fury noodle depth position embrace vibrant pause person only coffee";
+var mnemonic = "undo age candy coach clarify piece famous bomb describe fringe uncover banana";

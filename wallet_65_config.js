@@ -1,1 +1,1 @@
-var mnemonic = "what brick display tuna margin glow pizza primary buffalo area exist library";
+var mnemonic = "echo critic month valley relief strategy height machine ordinary advice hollow midnight";

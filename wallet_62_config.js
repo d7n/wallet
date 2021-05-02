@@ -1,1 +1,1 @@
-var mnemonic = "second vintage hobby clinic lava ability random animal network average inherit sorry";
+var mnemonic = "refuse price dog never rural creek interest mobile wrestle chapter venue dog";

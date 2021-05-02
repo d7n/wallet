@@ -1,1 +1,1 @@
-var mnemonic = "witness oxygen ranch patch lab park screen genius strategy click rotate rapid";
+var mnemonic = "train pig naive oppose slow maid uphold biology jump flush holiday plunge";

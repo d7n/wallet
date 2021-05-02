@@ -1,1 +1,1 @@
-var mnemonic = "make element world play plate little effort obvious toss nature scene warm";
+var mnemonic = "boat embrace total check elder excite sentence foster alley destroy inflict vintage";

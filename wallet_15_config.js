@@ -1,1 +1,1 @@
-var mnemonic = "flock impulse dinosaur pulse female castle alarm ten syrup hurt broccoli alter";
+var mnemonic = "energy position blade perfect have give rally decide search abuse evil insane";

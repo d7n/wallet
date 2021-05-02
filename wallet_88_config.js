@@ -1,1 +1,1 @@
-var mnemonic = "village ramp jungle solar onion core about glove obscure delay climb just";
+var mnemonic = "bid torch can brief wasp assault ahead sample morning prosper buzz inside";

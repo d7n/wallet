@@ -1,1 +1,1 @@
-var mnemonic = "only nephew second become frequent palace fall frame sphere marine punch hundred";
+var mnemonic = "elephant mimic blue excess flower wish appear symptom where because leopard enable";

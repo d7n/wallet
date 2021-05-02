@@ -1,1 +1,1 @@
-var mnemonic = "wonder swear bone private shallow enrich copper grab office round lunch mobile";
+var mnemonic = "clay rule photo unique glide rocket tape crazy frozen echo unfair play";

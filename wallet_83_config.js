@@ -1,1 +1,1 @@
-var mnemonic = "wasp slab vacant clip fire only pony magic human mistake grocery neglect";
+var mnemonic = "message airport extend quit such bread curve tiny giant brisk market shallow";

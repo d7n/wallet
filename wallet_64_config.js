@@ -1,1 +1,1 @@
-var mnemonic = "pulp march twist uphold average casino brave yard describe force damp street";
+var mnemonic = "fossil inmate wash obscure inch cactus skull keen differ one awake glow";

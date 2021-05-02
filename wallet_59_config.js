@@ -1,1 +1,1 @@
-var mnemonic = "hole feel detect citizen prison tonight sing trigger damage moment alcohol black";
+var mnemonic = "train duck sand response glow employ victory cheap pitch fiber essence club";

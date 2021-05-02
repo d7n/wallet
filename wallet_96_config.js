@@ -1,1 +1,1 @@
-var mnemonic = "sustain pepper pill board unique drum situate please like dry subway laundry";
+var mnemonic = "adult document duty ill hamster flag east coast mind evil nephew come";

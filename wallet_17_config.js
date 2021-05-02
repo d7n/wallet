@@ -1,1 +1,1 @@
-var mnemonic = "finger slogan lottery nothing trick aspect work syrup general wheat cover garlic";
+var mnemonic = "bracket list party range stove weapon regret fancy citizen hub marine private";

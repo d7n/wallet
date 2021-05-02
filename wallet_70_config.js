@@ -1,1 +1,1 @@
-var mnemonic = "absorb rose capital unusual aunt alone property appear error casino true sword";
+var mnemonic = "audit warrior depth cargo hint exit kangaroo inquiry mimic water crucial slush";

@@ -1,1 +1,1 @@
-var mnemonic = "social dose brush what bleak strong palm thumb program unveil trouble detect";
+var mnemonic = "praise subway lava select monitor actual mosquito sound hair person outside evoke";

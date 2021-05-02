@@ -1,1 +1,1 @@
-var mnemonic = "immune current float raven broom hockey rapid similar dice shrug oak step";
+var mnemonic = "spoil lift cactus strategy friend team much orphan shy action canoe follow";

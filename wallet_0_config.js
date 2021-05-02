@@ -1,1 +1,1 @@
-var mnemonic = "stairs unknown vague token vapor snack risk soccer frequent happy plunge inner";
+var mnemonic = "ill crater drama snap asthma rookie pink mistake bundle essence airport have";

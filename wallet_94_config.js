@@ -1,1 +1,1 @@
-var mnemonic = "foster into about grow era fantasy clip enough chunk example another snake";
+var mnemonic = "social wall cabbage icon yard apology aware excite elephant bleak crunch elite";

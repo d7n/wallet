@@ -1,1 +1,1 @@
-var mnemonic = "same thing carbon accident sister garlic play region plastic tip measure below";
+var mnemonic = "foot nut share wedding need delay glory easy rate copy flavor river";

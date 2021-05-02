@@ -1,1 +1,1 @@
-var mnemonic = "wet donkey receive unlock left reward salad portion buzz snake escape fatal";
+var mnemonic = "fossil slow myself secret warm alpha solid olympic produce wheat spoon hurt";

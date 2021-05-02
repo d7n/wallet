@@ -1,1 +1,1 @@
-var mnemonic = "feel boil now brass bean scan green tomato venture rib million shine";
+var mnemonic = "caught mean audit valve idle library dose flee blame duty relief able";

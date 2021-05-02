@@ -1,1 +1,1 @@
-var mnemonic = "quiz pig dutch audit nest debate custom invite warm practice talk cat";
+var mnemonic = "front rack truth usage absorb grant broken rule company foster brick visa";

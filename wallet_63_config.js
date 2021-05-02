@@ -1,1 +1,1 @@
-var mnemonic = "jealous upper marble hotel group business fantasy advice little envelope hotel shiver";
+var mnemonic = "dolphin sample play skull pass lunar cousin excite enact calm dial release";

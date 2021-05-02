@@ -1,1 +1,1 @@
-var mnemonic = "turtle end panther actress captain fiction common plate obvious estate economy stumble";
+var mnemonic = "client reject attitude zero time child grass chuckle swear glove misery stand";

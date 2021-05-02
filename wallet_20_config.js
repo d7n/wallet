@@ -1,1 +1,1 @@
-var mnemonic = "sauce move link dynamic where alarm cupboard ball sibling change exact banana";
+var mnemonic = "prefer maple nest prosper will next cargo flag cupboard voice motion test";

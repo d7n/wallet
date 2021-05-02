@@ -1,1 +1,1 @@
-var mnemonic = "hurt carbon field buddy height sunset rain best throw fruit knife bridge";
+var mnemonic = "blossom trouble clip float blind transfer hidden gasp civil security finger garment";

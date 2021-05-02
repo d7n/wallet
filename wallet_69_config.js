@@ -1,1 +1,1 @@
-var mnemonic = "heart random zoo exchange move search crystal canvas spin need cloth wreck";
+var mnemonic = "used vibrant kiwi account uniform essence photo bus health liar match latin";

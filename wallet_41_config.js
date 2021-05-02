@@ -1,1 +1,1 @@
-var mnemonic = "embrace ritual camera bachelor swing across excite energy shell chaos edge wealth";
+var mnemonic = "bunker entry cube law air sleep ghost alter bubble gym cross town";

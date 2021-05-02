@@ -1,1 +1,1 @@
-var mnemonic = "book era found volume earth script grid arrest capital friend winner pretty";
+var mnemonic = "answer genuine fat source master derive resemble boss absorb trick desert rebel";

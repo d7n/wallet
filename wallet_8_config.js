@@ -1,1 +1,1 @@
-var mnemonic = "fancy figure major huge vendor pretty gold puppy differ aim useful hunt";
+var mnemonic = "high short lunch oak clip list mixture dentist caution require senior uniform";

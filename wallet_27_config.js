@@ -1,1 +1,1 @@
-var mnemonic = "inflict arena chuckle profit right blossom engage click green detail inspire visa";
+var mnemonic = "claw sunset conduct doctor stool cause moral post often biology wash unique";

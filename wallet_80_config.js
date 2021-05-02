@@ -1,1 +1,1 @@
-var mnemonic = "electric measure joy appear brass meadow vapor waste job suspect employ fever";
+var mnemonic = "limit find twelve sword ribbon twist audit awful leave discover crater fit";

@@ -1,1 +1,1 @@
-var mnemonic = "hill search security sister remember film divert subway upper thumb mobile gather";
+var mnemonic = "garbage drama interest sunny rapid deal faith fault moment inspire target pyramid";

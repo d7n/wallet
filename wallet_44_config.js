@@ -1,1 +1,1 @@
-var mnemonic = "cluster ribbon bronze fan drive filter winter girl sister place cruel praise";
+var mnemonic = "rough grit sight hedgehog meadow shift tower pool earth execute festival wrap";

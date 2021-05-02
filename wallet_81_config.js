@@ -1,1 +1,1 @@
-var mnemonic = "trip jungle assault dirt join airport dirt diary top mango fault link";
+var mnemonic = "order void area merge scout hunt uncover hidden kit eager rib repeat";

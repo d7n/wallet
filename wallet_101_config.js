@@ -1,1 +1,1 @@
-var mnemonic = "market fantasy grass street donor stock prevent twin cinnamon jewel always night";
+var mnemonic = "shallow glass genius panda senior turn entire helmet twelve exclude tumble stamp";

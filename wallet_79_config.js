@@ -1,1 +1,1 @@
-var mnemonic = "weasel horn unfair because depend woman venture drink unlock trial patrol thing";
+var mnemonic = "fashion mercy charge intact find right olympic alter end current crack isolate";

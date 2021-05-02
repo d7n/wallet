@@ -1,1 +1,1 @@
-var mnemonic = "parent fever nephew toss soul asthma pioneer few avoid spy desk knife";
+var mnemonic = "steel state cash follow tragic wreck total chronic teach airport usage material";

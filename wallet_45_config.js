@@ -1,1 +1,1 @@
-var mnemonic = "inner trend orange group improve ask shield favorite demand rude daring rotate";
+var mnemonic = "sniff neutral insane design smoke film piece gossip rebuild proof dizzy announce";

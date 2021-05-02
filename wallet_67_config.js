@@ -1,1 +1,1 @@
-var mnemonic = "charge jelly tone notice pen gloom alarm peasant nurse lamp tide biology";
+var mnemonic = "family assault carpet spoon amazing speed loan fold melody picnic nephew this";

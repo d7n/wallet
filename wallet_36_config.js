@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo cousin stadium item world bus habit bulb vast lyrics table tray";
+var mnemonic = "nurse sibling wrestle kiss domain thumb sphere patrol august october return infant";

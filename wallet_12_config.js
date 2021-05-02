@@ -1,1 +1,1 @@
-var mnemonic = "hard apart iron regular oak rather cable stumble chat milk rural supply";
+var mnemonic = "immune rate parrot work intact unusual visa bone gasp unusual lady symbol";

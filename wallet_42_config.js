@@ -1,1 +1,1 @@
-var mnemonic = "exhaust sister fossil typical connect subject jazz patrol solid lawsuit notice gown";
+var mnemonic = "album clerk awkward sponsor thumb fatal record glove fresh regular sail garbage";

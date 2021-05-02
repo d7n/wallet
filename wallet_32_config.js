@@ -1,1 +1,1 @@
-var mnemonic = "essence retreat nice vapor snap lesson fiscal place girl senior gossip feed";
+var mnemonic = "hunt metal salad cute slot vacuum common village ride rib replace destroy";

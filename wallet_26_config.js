@@ -1,1 +1,1 @@
-var mnemonic = "reveal potato patient acquire era visit observe asthma boost version foam cart";
+var mnemonic = "burden until fruit siren stumble kitchen combine shoot wear illness since knee";

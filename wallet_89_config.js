@@ -1,1 +1,1 @@
-var mnemonic = "draft report giant gate profit deputy piano art mixed bamboo genuine absent";
+var mnemonic = "divide forum crisp silver lizard find shell summer people grain limit enhance";

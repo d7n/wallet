@@ -1,1 +1,1 @@
-var mnemonic = "attack melt tackle mixed find exercise else quote team project hedgehog kitten";
+var mnemonic = "verb fantasy develop scorpion clock hurry discover quick squeeze mobile move slot";

@@ -1,1 +1,1 @@
-var mnemonic = "circle improve game pig unfair renew traffic inner situate action ladder intact";
+var mnemonic = "glow analyst cricket flip foot organ topic foster medal garbage polar peasant";

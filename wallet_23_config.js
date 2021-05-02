@@ -1,1 +1,1 @@
-var mnemonic = "pitch home pluck pudding shy disorder soda tissue candy damp drip bachelor";
+var mnemonic = "rural key symbol guess impose old boost love this tank fix inflict";

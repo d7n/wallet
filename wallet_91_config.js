@@ -1,1 +1,1 @@
-var mnemonic = "salad number elite guide monkey rule logic ritual physical glow suggest detect";
+var mnemonic = "narrow copper rural firm sudden mail miracle puppy sing truck uncle slot";

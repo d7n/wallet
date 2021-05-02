@@ -1,1 +1,1 @@
-var mnemonic = "aisle student episode eye lumber nothing secret spike impose alter trade want";
+var mnemonic = "favorite faculty vicious adult aware stamp mention either useless inner detail help";

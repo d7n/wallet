@@ -1,1 +1,1 @@
-var mnemonic = "other rain already dice finger odor piano knife auction hover ski glance";
+var mnemonic = "area lawn desk merry tonight recipe gym silent repair habit next crash";

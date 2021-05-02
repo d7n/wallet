@@ -1,1 +1,1 @@
-var mnemonic = "census short stove this output crumble search potato beyond report frown parade";
+var mnemonic = "guide tray donate leaf dirt infant misery pistol never acquire remove gorilla";

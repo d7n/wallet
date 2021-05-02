@@ -1,1 +1,1 @@
-var mnemonic = "belt whisper help abuse whale quantum pepper miss inhale border carbon meadow";
+var mnemonic = "cargo muscle engine clean ripple bottom steel cool tree onion else text";

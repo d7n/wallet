@@ -1,1 +1,1 @@
-var mnemonic = "online damage build relax spell buddy sister real seed mask fame brisk";
+var mnemonic = "original nuclear sunny lucky sample kidney opera forget absent time crater kitchen";

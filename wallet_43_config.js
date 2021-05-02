@@ -1,1 +1,1 @@
-var mnemonic = "survey canyon silent soccer worry review crew theme version title seek double";
+var mnemonic = "express deliver liquid census monster mother recycle situate antique barely awful soldier";

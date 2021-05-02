@@ -1,1 +1,1 @@
-var mnemonic = "plunge salon require round betray omit anxiety south badge marriage air there";
+var mnemonic = "trial copy favorite learn bench fog smooth lounge kiss saddle talent vault";

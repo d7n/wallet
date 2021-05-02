@@ -1,1 +1,1 @@
-var mnemonic = "curtain voyage weather sunset below aware rich ancient toward rigid negative gold";
+var mnemonic = "age tourist bid bonus inhale unaware real flock vague room local lawsuit";

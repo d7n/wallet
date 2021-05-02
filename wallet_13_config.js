@@ -1,1 +1,1 @@
-var mnemonic = "custom virtual little awkward hunt drink egg cloud era main cave capable";
+var mnemonic = "obscure hold mimic regular valid situate electric stadium online social shadow erosion";

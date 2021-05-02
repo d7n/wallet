@@ -1,1 +1,1 @@
-var mnemonic = "virtual purpose answer bacon enact material execute large oblige hello mail over";
+var mnemonic = "ride hurt thunder waste atom rain correct biology next evoke sell tide";

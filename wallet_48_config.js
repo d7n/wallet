@@ -1,1 +1,1 @@
-var mnemonic = "cable orphan repeat man punch charge keen mimic borrow matrix ivory frost";
+var mnemonic = "normal demise leader loop assist sick car cactus image fault ketchup slot";

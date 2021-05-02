@@ -1,1 +1,1 @@
-var mnemonic = "rail jaguar turtle mad armor toast hand grocery rug calm barely enemy";
+var mnemonic = "plug stairs mask place settle learn bag grape spread curve emotion must";

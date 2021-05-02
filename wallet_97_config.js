@@ -1,1 +1,1 @@
-var mnemonic = "pause scan scare attract thought begin seek repair olive blanket salad long";
+var mnemonic = "insane push grab response ship define water avoid apart bind confirm burger";

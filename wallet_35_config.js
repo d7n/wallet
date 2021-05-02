@@ -1,1 +1,1 @@
-var mnemonic = "satoshi combine hobby exchange require inflict simple current empower embark dog weasel";
+var mnemonic = "swallow battle call sister away shell author step segment tennis flame swing";

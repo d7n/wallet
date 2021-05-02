@@ -1,1 +1,1 @@
-var mnemonic = "asset interest close recall heavy push penalty tissue panda ship payment hurt";
+var mnemonic = "juice receive stairs suggest corn boost cake occur trade enrich tattoo gallery";

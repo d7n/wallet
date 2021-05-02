@@ -1,1 +1,1 @@
-var mnemonic = "anxiety urge eye cereal found stock banner dwarf resource crash fantasy gain";
+var mnemonic = "kitchen athlete differ stool shoot sad parent account essay nature aspect must";

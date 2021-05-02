@@ -1,1 +1,1 @@
-var mnemonic = "chef holiday layer shock drive host arrive gather lady misery image escape";
+var mnemonic = "green badge drink mammal hat wage life proof bag grass garden wrestle";

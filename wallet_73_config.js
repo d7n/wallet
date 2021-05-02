@@ -1,1 +1,1 @@
-var mnemonic = "profit warrior average all wonder fragile rich inform uphold review nut hand";
+var mnemonic = "smart glide razor device mail avocado industry mean glove pizza guide record";

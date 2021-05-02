@@ -1,1 +1,1 @@
-var mnemonic = "genius lab believe busy item fury mass praise fox urban pottery trip";
+var mnemonic = "merge bike exact seed huge coyote nest clarify arctic visa tissue mutual";

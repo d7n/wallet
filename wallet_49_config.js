@@ -1,1 +1,1 @@
-var mnemonic = "impose food into diamond scrub nature mirror mind screen above utility nerve";
+var mnemonic = "ordinary hockey phone zero any sun believe immense this able divorce belt";

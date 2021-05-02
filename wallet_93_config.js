@@ -1,1 +1,1 @@
-var mnemonic = "select degree damp spice soap surround payment choose soup street inform open";
+var mnemonic = "series huge mystery try rocket west account auto pyramid antique slogan ivory";

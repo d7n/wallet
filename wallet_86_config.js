@@ -1,1 +1,1 @@
-var mnemonic = "thumb tattoo summer elder inflict only margin robot hub course width auto";
+var mnemonic = "seminar attack pigeon journey useless option extra human february apple impact trial";

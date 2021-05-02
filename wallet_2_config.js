@@ -1,1 +1,1 @@
-var mnemonic = "vivid turn ride perfect congress belt loud empower charge obvious embark fire";
+var mnemonic = "census tool merge blouse host hurt cliff ahead silly fossil useful parade";
