@@ -1,1 +1,1 @@
-var mnemonic = "awful collect doctor polar clip shadow all buzz call mention stamp day";
+var mnemonic = "dumb clarify dilemma public client erode benefit gloom check host sword nuclear";

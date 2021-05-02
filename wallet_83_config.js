@@ -1,1 +1,1 @@
-var mnemonic = "faint concert sport size arctic dentist prevent jewel idea true fault olympic";
+var mnemonic = "tumble pioneer illegal still dinner kid case cruel will slim ritual verify";

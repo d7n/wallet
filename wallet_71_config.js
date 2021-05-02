@@ -1,1 +1,1 @@
-var mnemonic = "course way rocket universe mirror scene drink fee decorate credit fence run";
+var mnemonic = "carry emerge roast chat solar any tip since van gaze tackle decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral prefer armor feature hover predict galaxy scene beauty sword inhale cat";
+var mnemonic = "orbit shove leopard fold vacant track priority fruit ten allow tonight grief";

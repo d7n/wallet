@@ -1,1 +1,1 @@
-var mnemonic = "focus mouse box blood announce exchange genre coral worth culture umbrella naive";
+var mnemonic = "warrior pottery move pigeon release aerobic fame north game salmon rhythm then";

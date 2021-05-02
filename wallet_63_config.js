@@ -1,1 +1,1 @@
-var mnemonic = "more twenty visit theme media ball script cry ketchup banana lumber there";
+var mnemonic = "trumpet knock view sheriff blast dentist gentle shoot search skill select help";

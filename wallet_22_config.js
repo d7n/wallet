@@ -1,1 +1,1 @@
-var mnemonic = "funny coral system asthma lucky alley future cannon frequent mountain tape manage";
+var mnemonic = "anger kind one october mechanic note notable icon task sad finish fly";

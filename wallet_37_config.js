@@ -1,1 +1,1 @@
-var mnemonic = "fix toddler piano bike door crew buyer draw erupt liquid social nose";
+var mnemonic = "another lion near hen green beach limb toss spell identify between avoid";

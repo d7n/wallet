@@ -1,1 +1,1 @@
-var mnemonic = "slot coffee belt design snake middle teach cruel outdoor season fork current";
+var mnemonic = "refuse divorce shell major any rubber secret worry setup worth adjust light";

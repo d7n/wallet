@@ -1,1 +1,1 @@
-var mnemonic = "frequent before double very ramp client black olive target decade kiwi three";
+var mnemonic = "solution bachelor portion salt recall law have man more garment lonely uncover";

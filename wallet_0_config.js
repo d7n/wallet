@@ -1,1 +1,1 @@
-var mnemonic = "nephew meadow sauce two reject moment bamboo token pelican muffin tunnel market";
+var mnemonic = "you other upgrade utility limit surge quantum dance tissue bulk pulp viable";

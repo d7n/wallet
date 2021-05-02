@@ -1,1 +1,1 @@
-var mnemonic = "pepper exit fossil brand chase unique trend talk later curious symptom diet";
+var mnemonic = "address raw ostrich roast fuel perfect breeze slide over broom other certain";

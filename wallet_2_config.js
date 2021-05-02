@@ -1,1 +1,1 @@
-var mnemonic = "smooth work grape creek capable trophy member side mix above hungry lemon";
+var mnemonic = "arrest bracket board infant mammal valve habit surface lobster garden hello angle";

@@ -1,1 +1,1 @@
-var mnemonic = "east silk shock shield victory balance scheme guide veteran sample beauty daring";
+var mnemonic = "cargo vintage type day occur arrow safe fat suggest change sunset enact";

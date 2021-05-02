@@ -1,1 +1,1 @@
-var mnemonic = "differ power like laundry boat gorilla scheme upgrade inside carpet settle capital";
+var mnemonic = "forget party undo six exchange reason strategy world arrange street space fluid";

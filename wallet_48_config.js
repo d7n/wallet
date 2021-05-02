@@ -1,1 +1,1 @@
-var mnemonic = "hungry critic skate wrestle thought winner energy mercy picnic radio wife palace";
+var mnemonic = "icon deliver flee clarify olympic uncle notable title suit hole senior myself";

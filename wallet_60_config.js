@@ -1,1 +1,1 @@
-var mnemonic = "robot mom pioneer into exotic ensure rely own scatter level mail mobile";
+var mnemonic = "lobster pig green stairs unit allow machine unveil kid glove potato guide";

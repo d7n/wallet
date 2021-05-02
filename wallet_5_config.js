@@ -1,1 +1,1 @@
-var mnemonic = "hold voyage question nothing tornado twin tower boil clog ketchup rescue say";
+var mnemonic = "lawn rebuild hurt dress diamond joy poverty receive paddle service tray thunder";

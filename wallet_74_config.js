@@ -1,1 +1,1 @@
-var mnemonic = "decade exist medal access space august wreck hire siren page dismiss over";
+var mnemonic = "long property always bean desert misery sun muffin timber property example tornado";

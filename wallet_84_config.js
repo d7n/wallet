@@ -1,1 +1,1 @@
-var mnemonic = "frozen spoil jungle valve cigar scout universe napkin expect smooth sponsor relax";
+var mnemonic = "cross manage picnic trouble leader float forest air three silk flight spider";

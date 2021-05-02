@@ -1,1 +1,1 @@
-var mnemonic = "banana swallow artefact canoe radio blast city amount top pyramid search dignity";
+var mnemonic = "surface grant honey ten tumble purse boring either demand version govern question";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive shed crawl okay fire length kid mention curtain bless rely west";
+var mnemonic = "story end fence depend miss describe arrive state swear stuff vessel limb";

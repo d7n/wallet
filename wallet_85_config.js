@@ -1,1 +1,1 @@
-var mnemonic = "course clap language battle egg exit banner later aisle multiply trade scissors";
+var mnemonic = "off tilt combine quick save robust mushroom brisk club conduct chronic quarter";

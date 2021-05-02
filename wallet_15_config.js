@@ -1,1 +1,1 @@
-var mnemonic = "abuse head enhance case organ sight guess shoot proud predict ancient attend";
+var mnemonic = "board deposit scene hamster curious invest dream enjoy reform gossip lecture include";

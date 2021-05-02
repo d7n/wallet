@@ -1,1 +1,1 @@
-var mnemonic = "hard primary state same buyer maid eagle canoe fashion fortune east wise";
+var mnemonic = "nuclear same flower april shoe maze despair attract essence success clown remind";

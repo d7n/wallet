@@ -1,1 +1,1 @@
-var mnemonic = "wait party scheme sponsor tackle arctic life know record submit reveal miracle";
+var mnemonic = "desert useful notice involve hurdle human absorb celery merit tragic sure volcano";

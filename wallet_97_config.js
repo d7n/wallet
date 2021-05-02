@@ -1,1 +1,1 @@
-var mnemonic = "old glove glimpse poem already chapter smoke palm party mechanic outside deer";
+var mnemonic = "hockey first leg raccoon slogan song drum silk cloth million monster medal";

@@ -1,1 +1,1 @@
-var mnemonic = "chunk lion magnet prosper card law museum ahead drastic pact short coil";
+var mnemonic = "orbit scene cook young ignore spice misery inflict ghost replace harbor nephew";

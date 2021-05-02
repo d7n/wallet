@@ -1,1 +1,1 @@
-var mnemonic = "outdoor venue champion dismiss undo garbage slot clever satoshi waste rotate input";
+var mnemonic = "scout volume news ability giant token prepare vault senior mixture cement minor";

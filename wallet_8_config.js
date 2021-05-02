@@ -1,1 +1,1 @@
-var mnemonic = "visual only scene planet hundred flat march dynamic leaf always believe laugh";
+var mnemonic = "common scare rack edge update shuffle awake dolphin control practice art critic";

@@ -1,1 +1,1 @@
-var mnemonic = "present income allow canyon join distance level praise kiwi muffin vague hospital";
+var mnemonic = "valley riot quality stool erase town egg climb misery slight inch witness";

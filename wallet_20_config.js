@@ -1,1 +1,1 @@
-var mnemonic = "spring praise bag cup win monitor clay near level office onion seed";
+var mnemonic = "vacant divert crash cover donor egg pause session miracle lift whisper primary";

@@ -1,1 +1,1 @@
-var mnemonic = "manual ripple expire museum inherit stable ship soda identify live crack dinosaur";
+var mnemonic = "brass earth win maximum humble describe great fetch paper ability firm rifle";

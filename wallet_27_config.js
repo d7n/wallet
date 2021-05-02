@@ -1,1 +1,1 @@
-var mnemonic = "fire dose dismiss target price must youth father laundry seat bird mobile";
+var mnemonic = "alert extra office right gallery copy security any fluid mushroom gloom car";

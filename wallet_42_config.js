@@ -1,1 +1,1 @@
-var mnemonic = "top direct dismiss view dose gate goddess slow tenant because moment buddy";
+var mnemonic = "time thrive source pioneer bullet renew blast pill glide thank scene among";

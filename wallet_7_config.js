@@ -1,1 +1,1 @@
-var mnemonic = "key truck decide roast torch happy diet giggle onion direct egg dash";
+var mnemonic = "mushroom gas sure access write foot rookie certain skirt change execute snap";

@@ -1,1 +1,1 @@
-var mnemonic = "very push neglect wire subject miracle sun dizzy term session void ramp";
+var mnemonic = "educate escape cable jeans athlete oil same slender area satoshi need absorb";

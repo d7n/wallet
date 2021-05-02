@@ -1,1 +1,1 @@
-var mnemonic = "absent mixture air small grid lake brief real course nephew cinnamon addict";
+var mnemonic = "source empty connect wise abuse side possible friend few carbon spawn punch";

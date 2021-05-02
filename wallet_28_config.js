@@ -1,1 +1,1 @@
-var mnemonic = "barrel rug smoke urban loud find sleep keen female add oyster include";
+var mnemonic = "school item modify spawn paper assault fold betray render march more soul";

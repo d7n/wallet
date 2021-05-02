@@ -1,1 +1,1 @@
-var mnemonic = "hover then model blind sea reform sweet elder pink comfort traffic cruise";
+var mnemonic = "pudding answer rather flight discover panic filter salon aisle three apple weird";

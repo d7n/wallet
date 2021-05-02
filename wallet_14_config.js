@@ -1,1 +1,1 @@
-var mnemonic = "insect beyond pupil lab legend blame goat delay vanish business finger bleak";
+var mnemonic = "menu gorilla toy orange pretty resemble pill field love give mule marble";

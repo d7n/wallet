@@ -1,1 +1,1 @@
-var mnemonic = "bracket grant tenant please sword victory loan border bean gloom alarm travel";
+var mnemonic = "lunar fantasy derive involve small swift disorder power argue forward cute choose";

@@ -1,1 +1,1 @@
-var mnemonic = "victory scheme puppy evil apology floor giraffe rocket plunge equal enforce tank";
+var mnemonic = "cup come display swear coconut night gate mimic battle affair hidden moment";

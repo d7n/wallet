@@ -1,1 +1,1 @@
-var mnemonic = "exclude rack cream bind route bitter account drip miss power fly intact";
+var mnemonic = "salon kidney notice milk hammer panic fork marine visit equal spawn blade";

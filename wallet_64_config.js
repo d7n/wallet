@@ -1,1 +1,1 @@
-var mnemonic = "afraid defy dirt demand penalty affair flat express elite around shrimp enable";
+var mnemonic = "inject provide learn run market glide warrior mansion guitar cigar alcohol begin";

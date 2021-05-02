@@ -1,1 +1,1 @@
-var mnemonic = "salon absurd mail fork minor profit slim rigid emerge naive dumb bird";
+var mnemonic = "miracle blame loyal thunder tower series snack transfer clever exhaust letter patrol";

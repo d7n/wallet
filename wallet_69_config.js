@@ -1,1 +1,1 @@
-var mnemonic = "nose action arch end endless pool panther swift behind increase cancel forum";
+var mnemonic = "place obscure praise nice brush custom sick pelican victory later venture talent";

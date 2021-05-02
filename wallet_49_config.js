@@ -1,1 +1,1 @@
-var mnemonic = "job version help chuckle success parrot aunt knock unveil dish giraffe current";
+var mnemonic = "depart sister carbon bless use prefer poverty spell output slow caution minute";

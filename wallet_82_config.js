@@ -1,1 +1,1 @@
-var mnemonic = "absent panel wrap chef angle boost diet silly float prepare spy couch";
+var mnemonic = "food shuffle clap corn dune disorder soul six match tongue stay scout";

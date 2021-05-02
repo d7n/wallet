@@ -1,1 +1,1 @@
-var mnemonic = "material slam alien issue luggage sell absurd inner august garage east boss";
+var mnemonic = "achieve forest gentle owner filter only ranch poverty mean alley elevator clever";

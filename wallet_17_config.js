@@ -1,1 +1,1 @@
-var mnemonic = "kick divide remove pistol museum pink rather depend unit will dawn tiger";
+var mnemonic = "beach venue brave goddess seed result shoot theory border raise lunar cattle";

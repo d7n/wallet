@@ -1,1 +1,1 @@
-var mnemonic = "drama aisle tail giant weasel expire episode shop decrease broccoli topple media";
+var mnemonic = "fetch soldier grass impact emerge ability fossil sentence dash coyote office episode";

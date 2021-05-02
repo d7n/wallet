@@ -1,1 +1,1 @@
-var mnemonic = "enforce margin nurse notice shoot vapor ensure despair gun palm job supreme";
+var mnemonic = "marriage work midnight dish burger long onion toy giraffe piece repeat choose";

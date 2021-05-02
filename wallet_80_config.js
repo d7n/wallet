@@ -1,1 +1,1 @@
-var mnemonic = "collect sweet sport gloom length develop social bread drop truck slice address";
+var mnemonic = "jeans spin usual antenna wrestle oppose pet resource actor when smart argue";

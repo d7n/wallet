@@ -1,1 +1,1 @@
-var mnemonic = "treat cash repair beauty tank inside impact same manual poet attack loop";
+var mnemonic = "dish song crunch mammal jump canyon crater bus buffalo love strike fit";

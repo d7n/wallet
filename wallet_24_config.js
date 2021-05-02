@@ -1,1 +1,1 @@
-var mnemonic = "patient garment save genius quantum blur rib roast spirit kangaroo rebuild sick";
+var mnemonic = "deny couch caught stamp you abstract private blue exercise fork clutch super";

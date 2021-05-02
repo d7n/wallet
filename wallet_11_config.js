@@ -1,1 +1,1 @@
-var mnemonic = "tonight giggle shrimp fruit mimic undo humble join identify web unit share";
+var mnemonic = "situate gallery galaxy share chalk rent ladder skirt fit coffee sadness suit";

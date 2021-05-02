@@ -1,1 +1,1 @@
-var mnemonic = "gorilla chief raccoon dynamic suffer hungry couple suspect wet nice inquiry patient";
+var mnemonic = "margin juice cushion raccoon pave debris daughter metal trumpet typical margin gold";

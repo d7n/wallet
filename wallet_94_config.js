@@ -1,1 +1,1 @@
-var mnemonic = "stairs post proud such apology subject design spider debris hotel faculty useless";
+var mnemonic = "dignity coast digital slice slice come soccer sweet cloth forget noodle reunion";

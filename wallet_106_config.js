@@ -1,1 +1,1 @@
-var mnemonic = "jewel raccoon lamp unaware include belt slim hill seat toe vivid actress";
+var mnemonic = "upset language charge satoshi orphan season fall dad bicycle gym dog scan";

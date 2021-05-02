@@ -1,1 +1,1 @@
-var mnemonic = "cradle average long improve year gown connect orbit glad scene battle deposit";
+var mnemonic = "angle soldier vocal remember ostrich blood yard whisper truly ugly combine color";

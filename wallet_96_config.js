@@ -1,1 +1,1 @@
-var mnemonic = "torch debate cattle expose cupboard steak dog join core sketch lab divorce";
+var mnemonic = "cube blouse drink point wonder shop weapon item panther million album acoustic";

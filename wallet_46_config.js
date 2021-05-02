@@ -1,1 +1,1 @@
-var mnemonic = "unhappy flavor bachelor quarter expect language cost staff belt result special such";
+var mnemonic = "bottom today repair success seminar sister nasty excess comic junior cruel pupil";

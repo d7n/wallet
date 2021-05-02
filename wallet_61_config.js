@@ -1,1 +1,1 @@
-var mnemonic = "response plastic accuse summer oval middle interest analyst brown sunny squeeze design";
+var mnemonic = "mammal furnace arrest panther reduce loud jazz daughter normal comic any speak";

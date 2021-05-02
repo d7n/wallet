@@ -1,1 +1,1 @@
-var mnemonic = "often hope tape crisp unhappy hat charge letter invite sentence puzzle work";
+var mnemonic = "birth chest baby camp web fish country document dog behave cousin bronze";

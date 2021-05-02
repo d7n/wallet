@@ -1,1 +1,1 @@
-var mnemonic = "assault clever minute bulb toy crystal youth coconut mean vast burger chronic";
+var mnemonic = "road green urge broken black spend matter youth armor dirt fuel false";

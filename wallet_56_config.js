@@ -1,1 +1,1 @@
-var mnemonic = "drink exhaust verb toy unfair column universe table action praise grunt reason";
+var mnemonic = "strong artefact organ bottom price old enlist off globe actress swap minor";

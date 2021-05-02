@@ -1,1 +1,1 @@
-var mnemonic = "receive shaft mention august tunnel true into govern tired one hen neck";
+var mnemonic = "traffic dinner dash salad brown express edit ketchup want rescue benefit arrange";

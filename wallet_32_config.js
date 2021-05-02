@@ -1,1 +1,1 @@
-var mnemonic = "chimney step april caution exchange level vital stick adjust wash assist achieve";
+var mnemonic = "say say already way clip disagree black build pony lecture soap figure";

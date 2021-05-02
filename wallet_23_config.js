@@ -1,1 +1,1 @@
-var mnemonic = "deliver soft december park since tool such tilt comfort furnace scan bone";
+var mnemonic = "try hill october social found fork rebel work anxiety north step unaware";

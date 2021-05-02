@@ -1,1 +1,1 @@
-var mnemonic = "movie sound boring moral soda play thing olympic budget remind sure body";
+var mnemonic = "sentence tail awake green paddle second three use visa pole banner radar";

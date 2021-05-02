@@ -1,1 +1,1 @@
-var mnemonic = "regret expose cycle utility tissue cushion lawsuit lawn idea banner social oppose";
+var mnemonic = "ceiling oven uniform renew hover judge clog engage path utility runway advance";

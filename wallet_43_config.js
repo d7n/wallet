@@ -1,1 +1,1 @@
-var mnemonic = "despair chicken divert oak settle doll useless raccoon circle produce pyramid dragon";
+var mnemonic = "slush cross orchard interest fancy crowd defy track future bar second deputy";

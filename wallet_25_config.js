@@ -1,1 +1,1 @@
-var mnemonic = "parrot media avoid lizard gospel during lecture educate maple cabin net moment";
+var mnemonic = "snack path floor post survey notice account cause sock notable oxygen bus";

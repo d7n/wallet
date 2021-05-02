@@ -1,1 +1,1 @@
-var mnemonic = "truck bring float make short pig cost swap lunar close observe betray";
+var mnemonic = "farm female erosion memory scheme stick pave worry soup lift erupt grit";

@@ -1,1 +1,1 @@
-var mnemonic = "way index zero reunion slide alarm thrive island crunch female winner abstract";
+var mnemonic = "alley pond breeze make gravity stool angle asset quote arrange chimney butter";

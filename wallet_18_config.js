@@ -1,1 +1,1 @@
-var mnemonic = "true dog sell develop truth chimney purchase good arrange slim february arm";
+var mnemonic = "claim alley track mouse inherit portion amateur appear idea oak turtle tribe";

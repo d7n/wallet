@@ -1,1 +1,1 @@
-var mnemonic = "season athlete dwarf garlic perfect solid town child glance vote narrow faculty";
+var mnemonic = "domain basic trigger enlist pencil skin release banner slush crisp cactus diary";

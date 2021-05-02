@@ -1,1 +1,1 @@
-var mnemonic = "minute muscle pact poverty key robot female thank arena slow virtual oblige";
+var mnemonic = "seat skull text mimic tuna teach material voyage priority great control scrap";

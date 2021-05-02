@@ -1,1 +1,1 @@
-var mnemonic = "tell idea task panic shove unable vague group property they spike profit";
+var mnemonic = "cigar dance leg motion give toy rubber one father retire adjust cargo";

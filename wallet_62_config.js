@@ -1,1 +1,1 @@
-var mnemonic = "face smart discover endless gold cherry enough empower love rescue merge fatal";
+var mnemonic = "category useful second reward genius box suggest give close jelly edge security";

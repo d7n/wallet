@@ -1,1 +1,1 @@
-var mnemonic = "alcohol october tenant symptom force chuckle diary grunt now noise people power";
+var mnemonic = "scrub can vote cigar twist battle arrest panel save top pair ride";

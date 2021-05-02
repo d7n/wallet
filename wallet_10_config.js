@@ -1,1 +1,1 @@
-var mnemonic = "expect sunny fee topic scout ladder ignore lucky melody barrel hover space";
+var mnemonic = "bracket island food found else answer point palm gadget design chat visit";

@@ -1,1 +1,1 @@
-var mnemonic = "game book announce cruel become save cinnamon soap smart stuff wrap amused";
+var mnemonic = "pen chief noodle build exchange lady festival drum decline injury punch auto";

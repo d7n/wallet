@@ -1,1 +1,1 @@
-var mnemonic = "unit bus minute juice vacuum tobacco cradle render label what concert rely";
+var mnemonic = "paddle mesh atom oval metal letter pen roof bullet scan essence pottery";

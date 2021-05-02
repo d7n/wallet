@@ -1,1 +1,1 @@
-var mnemonic = "school brain risk gap roast glare rich half dolphin poem blush powder";
+var mnemonic = "theory cash bulb replace offer muffin harbor assist lucky bless saddle wish";

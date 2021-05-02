@@ -1,1 +1,1 @@
-var mnemonic = "weather cup enrich output fortune legal dream damp deer deliver beach curtain";
+var mnemonic = "cupboard kick hint inflict company sausage elevator riot tissue reveal sorry correct";

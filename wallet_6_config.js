@@ -1,1 +1,1 @@
-var mnemonic = "popular hour old pull protect category drink arrange reopen toward mention ginger";
+var mnemonic = "number sure attract moral behind position warfare corn owner glad pudding test";

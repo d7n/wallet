@@ -1,1 +1,1 @@
-var mnemonic = "inch scare crane execute hen traffic eight employ dream behave bone island";
+var mnemonic = "east meat monster robust into wait side permit wine arm usage rotate";

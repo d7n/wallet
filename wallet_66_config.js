@@ -1,1 +1,1 @@
-var mnemonic = "mask glare enough million hundred can fabric credit tilt when equal twist";
+var mnemonic = "bonus develop library pioneer cigar obscure curious near combine script shove attack";

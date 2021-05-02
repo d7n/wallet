@@ -1,1 +1,1 @@
-var mnemonic = "bottom alter address drink narrow mixture daring thumb potato guilt multiply uniform";
+var mnemonic = "silver toward salad room sweet purpose act era labor together lottery stool";

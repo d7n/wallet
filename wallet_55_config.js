@@ -1,1 +1,1 @@
-var mnemonic = "sunset quit ritual year sample avocado mercy run drift thrive coin cheap";
+var mnemonic = "donkey fun invite grocery scene fly chaos strong riot cup train couple";
