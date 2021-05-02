@@ -1,1 +1,1 @@
-var mnemonic = "tuition bounce helmet vessel stock sock online cigar opinion pull tobacco similar";
+var mnemonic = "awful grab chief turn inflict oval tape page eager zebra right grass";

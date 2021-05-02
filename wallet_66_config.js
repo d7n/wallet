@@ -1,1 +1,1 @@
-var mnemonic = "flash rabbit immune steel bless immune equal furnace they husband dolphin salt";
+var mnemonic = "speak sustain pattern drum shrimp mom trick that fuel blush across quality";

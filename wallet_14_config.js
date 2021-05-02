@@ -1,1 +1,1 @@
-var mnemonic = "because shiver chaos lemon flash edit genius discover tomato spread quick soul";
+var mnemonic = "rely orphan ignore toe airport report warrior benefit spirit slide caught aerobic";

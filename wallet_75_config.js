@@ -1,1 +1,1 @@
-var mnemonic = "enable cream supreme wash library audit stable stage put steak forget essay";
+var mnemonic = "web like life describe infant fetch solid neglect pluck tide ridge cheap";

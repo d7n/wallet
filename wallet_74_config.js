@@ -1,1 +1,1 @@
-var mnemonic = "gold impulse luxury today evoke dumb what naive orange claw eight wrong";
+var mnemonic = "cheese distance much citizen pulp shuffle tone federal business copper toward goose";

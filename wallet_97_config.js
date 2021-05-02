@@ -1,1 +1,1 @@
-var mnemonic = "state blouse dragon output deliver repair suit often conduct hour penalty despair";
+var mnemonic = "monkey slab symbol october coin early sudden glove vocal belt that swarm";

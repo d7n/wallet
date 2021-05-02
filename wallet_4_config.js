@@ -1,1 +1,1 @@
-var mnemonic = "cream genius thank helmet minor victory river rescue february puzzle plate family";
+var mnemonic = "need sausage engine faith jelly knock cheap asset relief duty pistol pledge";

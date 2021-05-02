@@ -1,1 +1,1 @@
-var mnemonic = "struggle rally assist position okay battle brief agent deposit opinion cousin found";
+var mnemonic = "aspect senior comfort clean august price clown paper blade potato base layer";

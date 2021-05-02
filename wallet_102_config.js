@@ -1,1 +1,1 @@
-var mnemonic = "siege scan raccoon oyster sausage ridge mail involve reform eagle prepare during";
+var mnemonic = "message scatter swallow reason this nation shock people film silent candy dismiss";

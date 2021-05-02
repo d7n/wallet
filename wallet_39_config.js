@@ -1,1 +1,1 @@
-var mnemonic = "cluster style tone network alpha volume glow man jar sorry proof sister";
+var mnemonic = "foil obtain decorate obscure echo heavy use drink shoot raccoon type scale";

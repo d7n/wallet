@@ -1,1 +1,1 @@
-var mnemonic = "idea news patrol episode knee save vessel outdoor avocado million unfold olympic";
+var mnemonic = "zebra city spawn sport glide move rough spend glide december slush army";

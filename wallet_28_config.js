@@ -1,1 +1,1 @@
-var mnemonic = "convince slot search fantasy head taste private impact sword flight normal pattern";
+var mnemonic = "kiss celery pave hire review honey atom oil item smooth attend clip";

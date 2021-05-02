@@ -1,1 +1,1 @@
-var mnemonic = "fancy tiny execute enlist coffee mention hover rare liberty dismiss enrich double";
+var mnemonic = "wheat drill brain order rookie circle increase identify maple summer wink inner";

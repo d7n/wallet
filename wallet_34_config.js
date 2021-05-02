@@ -1,1 +1,1 @@
-var mnemonic = "window devote hotel just guess calm outside fall shine inflict stove clog";
+var mnemonic = "crouch arrive typical off task sense hip quote main mosquito artefact ranch";

@@ -1,1 +1,1 @@
-var mnemonic = "siege pattern sphere odor open name replace estate prize asthma gloom excite";
+var mnemonic = "sound manual robust hold curtain enjoy this moon sponsor palm ripple high";

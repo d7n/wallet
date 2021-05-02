@@ -1,1 +1,1 @@
-var mnemonic = "throw quarter embrace either link mango canal scene question correct receive clinic";
+var mnemonic = "picture burst detect fold barrel again cliff shrimp believe wool thrive detect";

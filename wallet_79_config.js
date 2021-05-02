@@ -1,1 +1,1 @@
-var mnemonic = "ask dutch arena beach water custom physical memory trim lake high exile";
+var mnemonic = "discover trial survey account resemble cherry ill reopen trigger never always budget";

@@ -1,1 +1,1 @@
-var mnemonic = "judge mechanic become pulse cigar orange stay fiscal earth mixed host allow";
+var mnemonic = "sausage enemy into refuse indoor tissue exist dirt hello life pull tomato";

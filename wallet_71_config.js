@@ -1,1 +1,1 @@
-var mnemonic = "social energy worry fish armed sniff dismiss three inspire expire orphan sniff";
+var mnemonic = "pumpkin joy mail river grace disease squeeze chronic future eye rain winter";

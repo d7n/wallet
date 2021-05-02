@@ -1,1 +1,1 @@
-var mnemonic = "aspect sausage wild ostrich neck use century review zebra blanket census young";
+var mnemonic = "tribe drip people hint rapid muscle bus laugh drama lesson ceiling decide";

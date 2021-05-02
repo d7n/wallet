@@ -1,1 +1,1 @@
-var mnemonic = "scatter bullet solid immune front hill evidence cupboard camp enrich pen flock";
+var mnemonic = "language client parent enforce hurdle lyrics gas fiscal country bright spin rookie";

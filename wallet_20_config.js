@@ -1,1 +1,1 @@
-var mnemonic = "universe quote hotel embody physical fury gallery this van park tiger critic";
+var mnemonic = "infant dentist pact reward ecology heart marriage hope property people enact photo";

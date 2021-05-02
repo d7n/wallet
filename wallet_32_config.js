@@ -1,1 +1,1 @@
-var mnemonic = "farm maple cover quiz educate gold garbage net ridge imitate rare orchard";
+var mnemonic = "network negative few during into boss liar derive donkey another cherry buddy";

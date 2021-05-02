@@ -1,1 +1,1 @@
-var mnemonic = "scare basket brother cluster garment mask crunch enact cross provide vibrant shadow";
+var mnemonic = "setup broccoli dynamic bunker earth left hope upset bone vintage hollow emotion";

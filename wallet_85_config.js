@@ -1,1 +1,1 @@
-var mnemonic = "cruise blanket angle ship gym viable steak company carbon hub wood check";
+var mnemonic = "pink venture jump popular sponsor purpose mother virus repeat wet world pole";

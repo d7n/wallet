@@ -1,1 +1,1 @@
-var mnemonic = "bag exit marriage broccoli police kiwi horse envelope monster raven body success";
+var mnemonic = "armor thumb whisper long metal benefit output sail monster neck mass ankle";

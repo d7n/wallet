@@ -1,1 +1,1 @@
-var mnemonic = "adjust gas buffalo address devote business stay more abuse bless text resist";
+var mnemonic = "curve girl upset pause rate connect antenna risk relief tiny nephew country";

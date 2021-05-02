@@ -1,1 +1,1 @@
-var mnemonic = "jealous cupboard above taxi quarter faith leisure depart error below crazy file";
+var mnemonic = "panther sock foster nose injury empower nasty extend educate rich smooth jar";

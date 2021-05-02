@@ -1,1 +1,1 @@
-var mnemonic = "target shiver airport bread excite focus proud roof notable dice alley double";
+var mnemonic = "stuff verb program vacuum often prosper boring luxury neutral real wreck can";

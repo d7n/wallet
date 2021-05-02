@@ -1,1 +1,1 @@
-var mnemonic = "paper dentist horse zoo car collect cash security dwarf answer leader mushroom";
+var mnemonic = "party chapter huge wonder gossip tourist height daring young parent oxygen deal";

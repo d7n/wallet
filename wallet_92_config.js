@@ -1,1 +1,1 @@
-var mnemonic = "survey regret system awful crumble congress shield double dial confirm room half";
+var mnemonic = "account zebra loud raise ripple remind tuna barely soccer throw potato ivory";

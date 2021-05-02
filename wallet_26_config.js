@@ -1,1 +1,1 @@
-var mnemonic = "slam over response chicken shiver globe doctor segment eager intact pig seven";
+var mnemonic = "movie rail hello solve gorilla table copper solution orbit tattoo list gravity";

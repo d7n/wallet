@@ -1,1 +1,1 @@
-var mnemonic = "spy chicken seven champion fault aerobic remove afford welcome snake grant guilt";
+var mnemonic = "tattoo renew point begin genius tissue clap drift chimney cherry notice chuckle";

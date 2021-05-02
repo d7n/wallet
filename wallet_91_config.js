@@ -1,1 +1,1 @@
-var mnemonic = "rally impact public hunt design profit genius reason almost wreck glide gas";
+var mnemonic = "enroll chase average arrange brisk need rely until upper maid unaware upset";

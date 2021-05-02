@@ -1,1 +1,1 @@
-var mnemonic = "skill squeeze harsh virtual tornado mammal absurd husband oppose tackle artwork basic";
+var mnemonic = "nasty speed race kitchen heavy bamboo all theory toilet cradle okay weekend";

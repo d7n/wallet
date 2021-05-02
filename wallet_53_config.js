@@ -1,1 +1,1 @@
-var mnemonic = "remove squirrel exile giraffe canyon high language daring human benefit happy gap";
+var mnemonic = "census ankle banana alien bunker zoo tired movie major boat torch great";

@@ -1,1 +1,1 @@
-var mnemonic = "type endless betray primary assume horn intact disagree nasty current near total";
+var mnemonic = "job spare pizza cave tooth dismiss century early indicate mercy student brother";

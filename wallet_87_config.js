@@ -1,1 +1,1 @@
-var mnemonic = "cliff disease scatter pass weekend pride age step knee lawn tortoise such";
+var mnemonic = "romance island mammal humor wealth apart domain magnet stumble mask history release";

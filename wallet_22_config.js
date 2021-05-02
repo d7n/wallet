@@ -1,1 +1,1 @@
-var mnemonic = "eternal post before express half drop crash trash upon actual settle naive";
+var mnemonic = "car suffer glance divorce category diagram basket verify marble divert resist hip";

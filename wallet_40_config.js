@@ -1,1 +1,1 @@
-var mnemonic = "drill bike inspire desk more base raccoon ribbon clean field vacant century";
+var mnemonic = "fall main become joy sentence fee cricket sign upgrade blast already accuse";

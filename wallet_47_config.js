@@ -1,1 +1,1 @@
-var mnemonic = "ribbon cycle foam much indoor viable pull lobster ostrich fringe during head";
+var mnemonic = "shine hurdle chaos artist kite guide athlete double cherry hollow you album";

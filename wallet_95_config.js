@@ -1,1 +1,1 @@
-var mnemonic = "wave where wild excess torch planet obvious cliff else panda shoe then";
+var mnemonic = "grant accuse sea space empty empty hundred observe grain royal indicate path";

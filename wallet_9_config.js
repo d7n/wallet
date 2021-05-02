@@ -1,1 +1,1 @@
-var mnemonic = "ridge good sure bicycle cage train asset correct method hundred panther police";
+var mnemonic = "ceiling ability measure bomb slow source intact casino sail approve upon metal";

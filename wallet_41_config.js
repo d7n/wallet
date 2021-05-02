@@ -1,1 +1,1 @@
-var mnemonic = "scissors deal already panic slice ticket pipe split wild toy property green";
+var mnemonic = "normal feel metal couch tent cement layer female horn ceiling battle village";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen decade orbit slab economy guess together what donkey differ hint sure";
+var mnemonic = "nest mixed false law catch tiger bullet before spatial vague panel stable";

@@ -1,1 +1,1 @@
-var mnemonic = "slab search foot street reward margin century elephant guilt pledge noble piece";
+var mnemonic = "rally reduce snow wage soda purity foam east history found pulp hint";

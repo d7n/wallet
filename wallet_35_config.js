@@ -1,1 +1,1 @@
-var mnemonic = "garbage thank head purse laundry effort obtain enact exhibit bleak faith face";
+var mnemonic = "climb march patient super athlete poverty grid torch assume such salad exchange";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion actress bomb wagon disorder market pink key decrease trick mail enter";
+var mnemonic = "gas omit burden paper virus alert gift farm brave coast hurry they";

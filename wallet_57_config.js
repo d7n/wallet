@@ -1,1 +1,1 @@
-var mnemonic = "jelly device they public under menu identify hood pretty vehicle expire custom";
+var mnemonic = "pottery term used crew panther asset thumb flash shift draw claw net";

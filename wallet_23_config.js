@@ -1,1 +1,1 @@
-var mnemonic = "panda rubber total hundred weasel you simple sketch thank pretty great original";
+var mnemonic = "milk panic scrub brisk leisure bamboo picture lock chair gossip chef peace";

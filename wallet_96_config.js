@@ -1,1 +1,1 @@
-var mnemonic = "mercy sibling elegant virus finish rapid dawn exile flat lumber affair flock";
+var mnemonic = "category syrup avocado found burger gasp traffic code estate interest cycle angry";

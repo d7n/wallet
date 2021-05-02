@@ -1,1 +1,1 @@
-var mnemonic = "relax buddy chuckle shop ice defense oak churn search image there ostrich";
+var mnemonic = "isolate master addict gaze mammal kick stay pet blue brother void account";

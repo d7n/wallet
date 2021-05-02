@@ -1,1 +1,1 @@
-var mnemonic = "all viable clock unlock december suspect shed cook tank traffic smooth tourist";
+var mnemonic = "cattle unit lunar glue human mail aisle clog banana radar alcohol fan";

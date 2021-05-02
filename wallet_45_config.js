@@ -1,1 +1,1 @@
-var mnemonic = "cross copy chalk draw build install law say liberty invite leave turkey";
+var mnemonic = "hood that merry ankle diamond unlock exhaust slide inch gorilla only random";

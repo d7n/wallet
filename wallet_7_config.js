@@ -1,1 +1,1 @@
-var mnemonic = "hard immense renew erase print top evolve diagram ask twin smart beyond";
+var mnemonic = "follow today ecology cargo helmet truck magnet uniform pepper goat hole bar";

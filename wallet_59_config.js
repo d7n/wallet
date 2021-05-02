@@ -1,1 +1,1 @@
-var mnemonic = "pet spider rebel web six mixture kangaroo amount autumn catalog rebuild movie";
+var mnemonic = "awesome rice rich wife paper valley airport until credit plug space december";

@@ -1,1 +1,1 @@
-var mnemonic = "note hello laugh undo bullet lumber pitch divide safe proud mind divert";
+var mnemonic = "kitten flavor imitate trend educate envelope used denial visit neither fold harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "calm blast glide able rabbit fossil chef current fruit put urban boring";
+var mnemonic = "best afford train humble choose tennis payment devote oyster huge divert cake";

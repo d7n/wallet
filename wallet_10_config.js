@@ -1,1 +1,1 @@
-var mnemonic = "topic fruit main rice person together rookie vanish lens rail abandon dynamic";
+var mnemonic = "enact egg trial curious elevator pair among journey this waste loyal crystal";

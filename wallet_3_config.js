@@ -1,1 +1,1 @@
-var mnemonic = "mutual final poverty merry doll cricket skill gaze give wisdom nasty cry";
+var mnemonic = "wheel talent defy tonight color access report future air affair stock craft";

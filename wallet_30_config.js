@@ -1,1 +1,1 @@
-var mnemonic = "dwarf net strong ability horn adjust tray legend large dwarf employ tonight";
+var mnemonic = "goddess observe nephew race truly atom embark field birth quarter tag child";

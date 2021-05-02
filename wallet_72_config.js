@@ -1,1 +1,1 @@
-var mnemonic = "put gap witness camp require gossip area vital icon magic orphan verb";
+var mnemonic = "multiply pool jewel intact decade repair road dilemma cave position churn gather";

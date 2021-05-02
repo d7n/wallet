@@ -1,1 +1,1 @@
-var mnemonic = "expect brick fetch artwork syrup bike account crane ill march embody merge";
+var mnemonic = "dust liquid grant evil cactus suggest core drip harsh twist this swarm";

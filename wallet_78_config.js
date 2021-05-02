@@ -1,1 +1,1 @@
-var mnemonic = "tennis acoustic stove weekend shop lava caution woman exact used fragile mushroom";
+var mnemonic = "vessel tide subject sweet gap audit ladder warm rare belt lion flower";

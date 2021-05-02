@@ -1,1 +1,1 @@
-var mnemonic = "legal script clay disorder wave attend weasel display cry lend play rhythm";
+var mnemonic = "rude torch insect october dry liar evoke leopard lake camera wrap blush";

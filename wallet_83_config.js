@@ -1,1 +1,1 @@
-var mnemonic = "broccoli whisper rabbit diamond call flip slab title culture adapt away apple";
+var mnemonic = "ski special original trial retire media engage broccoli cheap message message output";

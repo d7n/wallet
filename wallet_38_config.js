@@ -1,1 +1,1 @@
-var mnemonic = "chef candy range melt rug clip basket hire lamp firm height lucky";
+var mnemonic = "cotton utility rally divorce glad quick forward lyrics source april funny mushroom";

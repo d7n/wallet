@@ -1,1 +1,1 @@
-var mnemonic = "talk side scare trend arctic give biology praise chimney what virtual other";
+var mnemonic = "organ vehicle strong enemy snack pizza thumb analyst crouch rubber laptop shock";

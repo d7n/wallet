@@ -1,1 +1,1 @@
-var mnemonic = "label soda final hybrid frog shoulder announce item thunder time desert auction";
+var mnemonic = "deer relief very name clip strong spoon primary zone radar seminar height";

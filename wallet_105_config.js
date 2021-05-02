@@ -1,1 +1,1 @@
-var mnemonic = "game plug step stable enhance filter forest actor pole produce mango glimpse";
+var mnemonic = "silver happy art shaft dose major force shock kidney camp where unhappy";

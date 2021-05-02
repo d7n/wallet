@@ -1,1 +1,1 @@
-var mnemonic = "tobacco soap fault outdoor situate transfer strike coral wear anxiety mirror half";
+var mnemonic = "garlic addict two owner pool tourist make file actress hunt economy pen";

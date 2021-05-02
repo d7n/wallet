@@ -1,1 +1,1 @@
-var mnemonic = "pelican ranch dumb attend hawk evolve now jungle oil ivory clerk exclude";
+var mnemonic = "wish resource remember brain wave monkey object used excess vessel name major";

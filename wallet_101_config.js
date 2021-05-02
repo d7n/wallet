@@ -1,1 +1,1 @@
-var mnemonic = "spend vicious night rubber lumber voice economy neutral replace orient olive age";
+var mnemonic = "volume fat wet elevator dad abandon nature rather budget climb blossom soda";

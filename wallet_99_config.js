@@ -1,1 +1,1 @@
-var mnemonic = "hawk debris undo kite forest scheme shift radio whisper early suspect slow";
+var mnemonic = "bonus diagram open category athlete capital cake exhaust spot never imitate limb";

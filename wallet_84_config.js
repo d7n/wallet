@@ -1,1 +1,1 @@
-var mnemonic = "elbow tiny frozen sing flash tourist doll riot friend core fruit smoke";
+var mnemonic = "author assist economy seed stomach kidney spider hour physical stadium tribe either";

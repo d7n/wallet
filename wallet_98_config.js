@@ -1,1 +1,1 @@
-var mnemonic = "mule episode ability uncover next upgrade march icon smooth monitor gravity file";
+var mnemonic = "olive problem visual decide discover plate siren special wheat miracle curious fortune";

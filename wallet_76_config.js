@@ -1,1 +1,1 @@
-var mnemonic = "neck balance hobby horse clutch adapt marine wink then tree mind cinnamon";
+var mnemonic = "legend donate theory digital they spice beef execute praise road fabric during";

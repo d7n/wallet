@@ -1,1 +1,1 @@
-var mnemonic = "custom hard chase refuse critic danger emerge chronic check heart scene fiscal";
+var mnemonic = "deputy world kite title cart poet plunge brand recycle raven actress bitter";

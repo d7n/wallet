@@ -1,1 +1,1 @@
-var mnemonic = "crop lesson video feed social token liberty win filter guitar stable breeze";
+var mnemonic = "crystal axis era combine budget behave black floor pulp ghost mass horn";

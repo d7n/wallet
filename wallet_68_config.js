@@ -1,1 +1,1 @@
-var mnemonic = "roof bronze tribe unusual crisp accuse clinic weather boost plunge fee idle";
+var mnemonic = "matter current below badge cable wagon casual goose foil person practice faith";

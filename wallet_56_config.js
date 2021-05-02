@@ -1,1 +1,1 @@
-var mnemonic = "hockey inflict foil future dolphin stage deal rally arrive humble seven say";
+var mnemonic = "timber alone agent beyond roast when picnic truly cave spoil unveil click";

@@ -1,1 +1,1 @@
-var mnemonic = "effort defense prevent market south clown donor rose donkey web square lamp";
+var mnemonic = "parrot lab world bomb fossil squeeze tide talent erase similar swing jazz";

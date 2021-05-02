@@ -1,1 +1,1 @@
-var mnemonic = "join clinic reopen wink return put valve candy option magnet year wing";
+var mnemonic = "armed rib world together good grow similar engage invest chronic move perfect";

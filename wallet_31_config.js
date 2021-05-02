@@ -1,1 +1,1 @@
-var mnemonic = "marriage because pull argue corn core party flip arm movie rotate heavy";
+var mnemonic = "derive lucky catch shoulder fiber child rude saddle decide end just shock";

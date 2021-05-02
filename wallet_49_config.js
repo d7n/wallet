@@ -1,1 +1,1 @@
-var mnemonic = "time place milk page infant crystal budget scheme cruel boy neglect bread";
+var mnemonic = "anxiety tent pluck heart intact drive kiwi advance energy impulse sell warrior";

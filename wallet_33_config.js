@@ -1,1 +1,1 @@
-var mnemonic = "sheriff earn awkward rabbit render tumble put chalk giraffe appear offer banana";
+var mnemonic = "stone nature heart hurry body angry much ensure still auto taxi link";

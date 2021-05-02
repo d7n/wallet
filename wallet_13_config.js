@@ -1,1 +1,1 @@
-var mnemonic = "slot long rebel grid fan weather super try agree original member loyal";
+var mnemonic = "science night donkey pistol enough ranch unhappy enlist when keep way diagram";

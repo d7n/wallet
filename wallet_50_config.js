@@ -1,1 +1,1 @@
-var mnemonic = "solution rubber ugly misery bag royal brand imitate decade call myself catalog";
+var mnemonic = "walnut scene bag pottery zebra share issue sport method pride copper bubble";

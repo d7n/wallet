@@ -1,1 +1,1 @@
-var mnemonic = "hurt entire tower juice famous solid huge neglect fish ski rabbit virtual";
+var mnemonic = "various unique pair author tribe defense dress clever offer spice initial current";

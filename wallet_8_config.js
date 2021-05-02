@@ -1,1 +1,1 @@
-var mnemonic = "benefit oblige wild crumble metal omit broccoli marble sing staff galaxy public";
+var mnemonic = "trial timber delay grass prevent spoon trade impulse fault syrup quick beyond";

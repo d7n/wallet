@@ -1,1 +1,1 @@
-var mnemonic = "noise total december famous swarm hollow scissors hazard flash catalog pluck quantum";
+var mnemonic = "palace ugly brick size couch tenant vapor leader educate actor list limit";

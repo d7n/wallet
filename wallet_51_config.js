@@ -1,1 +1,1 @@
-var mnemonic = "liberty coast paddle never riot keen over surround tape nuclear alcohol palace";
+var mnemonic = "sausage offer reflect boss pioneer task all great payment trumpet dinner wish";

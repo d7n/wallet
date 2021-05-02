@@ -1,1 +1,1 @@
-var mnemonic = "across unlock tilt glove neck head cactus injury practice arrow visa one";
+var mnemonic = "bounce crop parent scrap door argue bullet okay baby hamster weird feed";
