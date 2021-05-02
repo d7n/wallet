@@ -1,1 +1,1 @@
-var mnemonic = "spread fat body giggle moment hidden thing tragic gaze adapt pole fatigue";
+var mnemonic = "smooth cactus avoid snake taste spy blossom south drop breeze echo festival";

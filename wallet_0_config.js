@@ -1,1 +1,1 @@
-var mnemonic = "current response unique ketchup culture govern humble struggle vast vivid zebra display";
+var mnemonic = "glare blood credit just execute mixed always dwarf acid hundred husband all";

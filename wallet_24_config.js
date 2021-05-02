@@ -1,1 +1,1 @@
-var mnemonic = "venue accuse grit warrior praise salmon bean debate silk aim aspect abuse";
+var mnemonic = "mountain peanut impulse riot supreme angle grant blur anxiety novel subject economy";

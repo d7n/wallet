@@ -1,1 +1,1 @@
-var mnemonic = "upper toward dry mass grunt chase squeeze melt alert story wink side";
+var mnemonic = "speak sting tank light quality peasant mirror also october bomb frame empower";

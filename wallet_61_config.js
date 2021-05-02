@@ -1,1 +1,1 @@
-var mnemonic = "leave sell tank clock acoustic rug nothing amateur loyal silver popular wrong";
+var mnemonic = "project neglect swarm latin arch useful relief human spider kiss dumb urban";

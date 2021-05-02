@@ -1,1 +1,1 @@
-var mnemonic = "fee pact cricket wisdom twice life want phrase save ankle diet wrap";
+var mnemonic = "chuckle close cargo slim learn soccer among creek shy feel alcohol trim";

@@ -1,1 +1,1 @@
-var mnemonic = "question zebra design strategy immune claw name change oven length comfort famous";
+var mnemonic = "faculty height alien movie drift wood strategy fence taxi fold unlock chicken";

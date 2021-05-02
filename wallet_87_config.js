@@ -1,1 +1,1 @@
-var mnemonic = "north adapt fashion want firm gold surge glow doll call friend income";
+var mnemonic = "wait foil gorilla replace typical main quote settle minute child glow screen";

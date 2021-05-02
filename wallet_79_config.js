@@ -1,1 +1,1 @@
-var mnemonic = "essence cabbage ski buddy luggage wide cushion match lottery text useful pear";
+var mnemonic = "smart ginger cruise diet fix live hurt ramp hope infant tumble pudding";

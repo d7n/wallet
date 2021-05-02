@@ -1,1 +1,1 @@
-var mnemonic = "two amazing verify cargo angle horse route family lumber infant slender ranch";
+var mnemonic = "movie vicious move pyramid lounge guard isolate duck become run famous giggle";

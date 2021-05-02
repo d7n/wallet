@@ -1,1 +1,1 @@
-var mnemonic = "monkey blur call call gloom first meadow friend always market pair mosquito";
+var mnemonic = "general sword deny bundle inquiry nothing solar acoustic tobacco attract aunt another";

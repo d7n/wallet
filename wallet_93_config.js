@@ -1,1 +1,1 @@
-var mnemonic = "sunny vessel trust virtual inch thank weasel fade company armed debris label";
+var mnemonic = "extend extend hungry feed display beauty estate banana bicycle clutch domain soft";

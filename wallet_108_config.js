@@ -1,1 +1,1 @@
-var mnemonic = "glide much castle disorder basket unveil ketchup fan cargo sheriff crush field";
+var mnemonic = "vendor trouble tragic habit grant beauty decrease soda broken devote process glow";

@@ -1,1 +1,1 @@
-var mnemonic = "math canal brown attitude mule fluid cart pill smoke enhance notice harbor";
+var mnemonic = "tobacco train text protect walk cover horror used box royal secret village";

@@ -1,1 +1,1 @@
-var mnemonic = "present document breeze giggle nut all wheat famous rival chair protect oxygen";
+var mnemonic = "nominee gloom lounge among frown mechanic knife fortune wire leaf deliver pizza";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe panda raccoon buddy also fatal twin require paddle refuse harbor mystery";
+var mnemonic = "enroll picture inject strategy you ancient orbit offer practice skill mushroom era";

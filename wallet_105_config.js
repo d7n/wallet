@@ -1,1 +1,1 @@
-var mnemonic = "curious owner snack inject want arena rifle unaware grace faith ship chase";
+var mnemonic = "warrior tide midnight fitness vicious embody feed swamp subway leader online arena";

@@ -1,1 +1,1 @@
-var mnemonic = "movie random outdoor web trouble thought quarter attack slot spend invite giraffe";
+var mnemonic = "tragic trophy add burst about height art else toilet hold scare book";

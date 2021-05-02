@@ -1,1 +1,1 @@
-var mnemonic = "spot company jeans chef loud nominee twenty ice exotic fit tide amateur";
+var mnemonic = "priority ritual cereal train dismiss velvet ramp sustain biology term cool staff";

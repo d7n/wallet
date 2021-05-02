@@ -1,1 +1,1 @@
-var mnemonic = "stage crew myth piano step track clump push axis choice clutch upgrade";
+var mnemonic = "joke real fatal capable draft deputy profit spoon pattern ecology improve surprise";

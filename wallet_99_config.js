@@ -1,1 +1,1 @@
-var mnemonic = "inflict ripple thought club style pool gold grid head click hurt hard";
+var mnemonic = "monkey kiss eight fat dutch kitten field blade ring carbon slow chair";

@@ -1,1 +1,1 @@
-var mnemonic = "letter cook bring arm faint finish seat acid unhappy bid auction rely";
+var mnemonic = "still alley melody glove clinic hotel suit coach deliver original what pepper";

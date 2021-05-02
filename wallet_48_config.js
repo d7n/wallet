@@ -1,1 +1,1 @@
-var mnemonic = "write text embrace outdoor scale muscle walnut cause must view ramp group";
+var mnemonic = "jazz lounge slam opera maple error scorpion cluster captain tired novel upper";

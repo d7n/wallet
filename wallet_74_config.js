@@ -1,1 +1,1 @@
-var mnemonic = "book weekend series silly inside breeze hen cousin beach modify assist liquid";
+var mnemonic = "book bench source horn fluid network exotic pilot glass ensure own obey";

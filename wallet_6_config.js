@@ -1,1 +1,1 @@
-var mnemonic = "awful empower slice media height begin turkey label track soda pen siren";
+var mnemonic = "fringe festival gym obscure snap negative only alarm core title peace blast";

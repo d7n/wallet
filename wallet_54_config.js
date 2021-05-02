@@ -1,1 +1,1 @@
-var mnemonic = "antique armor silver fitness have subject scrap venture chalk erosion ball unable";
+var mnemonic = "online off mass include sauce piano debris chest pilot fan cart spring";

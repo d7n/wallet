@@ -1,1 +1,1 @@
-var mnemonic = "family reform glow exile curious zone true fiscal pudding family frame donate";
+var mnemonic = "play fish parent fiction shoulder piece predict slight ozone fancy energy float";

@@ -1,1 +1,1 @@
-var mnemonic = "swift mean often creek knife night float post various flight regular taste";
+var mnemonic = "biology orphan humble hawk glue essay smile kid sting snow throw kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "alter fury device verify grape excess benefit radar lumber sense video all";
+var mnemonic = "inspire clown leopard bean mirror trigger crane any super mail child trumpet";

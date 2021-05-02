@@ -1,1 +1,1 @@
-var mnemonic = "forum wise erode join loyal mother museum labor total dentist logic omit";
+var mnemonic = "vehicle risk enjoy oyster scorpion input strike toward wide amazing stem arena";

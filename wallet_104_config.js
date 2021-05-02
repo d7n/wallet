@@ -1,1 +1,1 @@
-var mnemonic = "flock upgrade inform coin holiday police admit script yellow firm math budget";
+var mnemonic = "atom nose island fitness royal half night various flower garage waste claw";

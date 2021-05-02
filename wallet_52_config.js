@@ -1,1 +1,1 @@
-var mnemonic = "busy exercise sauce chase test romance reward blanket increase sing drop obvious";
+var mnemonic = "foot obtain slight crystal margin steak must trade point artist insect casino";

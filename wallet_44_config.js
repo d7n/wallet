@@ -1,1 +1,1 @@
-var mnemonic = "laptop ketchup caught public fault approve subject already reason elbow faculty speed";
+var mnemonic = "giggle amount fringe fork explain ecology control pet forward this bargain ball";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid wealth diamond brick zebra tank lock interest slight amazing skin quarter";
+var mnemonic = "few surface wash great ivory coin shoulder custom kind come settle tourist";

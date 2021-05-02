@@ -1,1 +1,1 @@
-var mnemonic = "number mobile tag globe island law tourist jar pitch jacket reform cart";
+var mnemonic = "little dilemma snap rate cause day shallow public federal silver jump deliver";

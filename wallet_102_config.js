@@ -1,1 +1,1 @@
-var mnemonic = "cigar blur grunt flame slight scan sick left artwork group collect modify";
+var mnemonic = "brief usage upgrade mean tip liquid chicken transfer husband wheel hover client";

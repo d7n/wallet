@@ -1,1 +1,1 @@
-var mnemonic = "barrel power tribe outside size street client imitate potato produce develop worth";
+var mnemonic = "horror bounce reason park tree peasant glimpse divert tobacco abuse curious away";

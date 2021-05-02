@@ -1,1 +1,1 @@
-var mnemonic = "govern universe knee walk picture hurdle canoe laundry duck globe draft record";
+var mnemonic = "prepare orient sick tomato picture step swallow cousin ethics tumble nothing plunge";

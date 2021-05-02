@@ -1,1 +1,1 @@
-var mnemonic = "dirt annual coyote bleak north collect zone fever drastic proof beach coyote";
+var mnemonic = "amazing health butter you broken advance fatigue absurd clap dynamic sunset grit";

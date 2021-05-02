@@ -1,1 +1,1 @@
-var mnemonic = "nut limit paddle flash invite follow crop leisure super give ozone explain";
+var mnemonic = "fold juice grace stay globe celery dutch magnet stable profit train salmon";

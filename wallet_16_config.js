@@ -1,1 +1,1 @@
-var mnemonic = "firm bronze essay love emotion early win impact wage thumb young all";
+var mnemonic = "roof thunder adult tray confirm scene kid ice equal daughter enroll fold";

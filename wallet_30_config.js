@@ -1,1 +1,1 @@
-var mnemonic = "rural gospel face speed table casual catalog brave warm digital frequent prevent";
+var mnemonic = "mirror regret amateur double avoid aware horse alley coffee dentist snap address";

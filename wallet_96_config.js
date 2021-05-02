@@ -1,1 +1,1 @@
-var mnemonic = "west mention drill pepper valid chef silly cliff assault visit vanish never";
+var mnemonic = "soup control alert tape endorse loop black brown yellow shoe later inject";

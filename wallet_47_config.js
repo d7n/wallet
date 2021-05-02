@@ -1,1 +1,1 @@
-var mnemonic = "away hotel tone pool october gas quit sketch dolphin answer iron door";
+var mnemonic = "size nation term armed disease spare sport day patrol milk knock celery";

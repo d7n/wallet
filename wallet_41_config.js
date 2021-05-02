@@ -1,1 +1,1 @@
-var mnemonic = "review neither barrel floor fix divide utility kangaroo thought ugly evil simple";
+var mnemonic = "utility jungle clerk census canvas often once pledge correct beef rose laundry";

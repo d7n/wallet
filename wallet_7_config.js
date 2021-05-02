@@ -1,1 +1,1 @@
-var mnemonic = "bacon describe retire project matter vote tenant uncover noble proud vote hope";
+var mnemonic = "sail frog hawk auction captain insect barely reward spatial salon toddler tomorrow";

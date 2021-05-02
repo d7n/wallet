@@ -1,1 +1,1 @@
-var mnemonic = "upgrade mystery join logic genre visit account leopard grow judge decrease police";
+var mnemonic = "possible gorilla control elder unfair congress secret refuse adult napkin erase type";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum more slab flavor extend cube awful tongue illness label struggle student";
+var mnemonic = "meat fiber someone piano verify infant warrior gasp public illegal embody name";

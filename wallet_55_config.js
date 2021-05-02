@@ -1,1 +1,1 @@
-var mnemonic = "please suspect argue permit solve soap noise broken warm dirt clock essay";
+var mnemonic = "chronic uniform kingdom since happy antenna prison debate glory sleep warfare spread";

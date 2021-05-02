@@ -1,1 +1,1 @@
-var mnemonic = "october around original kitchen swim abuse scorpion file gallery inquiry pudding print";
+var mnemonic = "drip coconut ready patrol visual truck opera dog inform breeze negative double";

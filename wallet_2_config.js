@@ -1,1 +1,1 @@
-var mnemonic = "promote movie often price fragile save common balcony delay under cinnamon culture";
+var mnemonic = "glass jacket tumble island judge core east audit reflect empower fatigue also";

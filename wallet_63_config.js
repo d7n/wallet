@@ -1,1 +1,1 @@
-var mnemonic = "century frame flip cute never gather theme toward label town wrist blind";
+var mnemonic = "siege aim feed equip oxygen quantum oil fortune awesome head bright mother";

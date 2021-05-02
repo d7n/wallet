@@ -1,1 +1,1 @@
-var mnemonic = "moral exotic judge rival gorilla fog vacuum trigger salmon sign ripple agree";
+var mnemonic = "indoor belt spray coast bronze swallow admit critic response hire write scene";

@@ -1,1 +1,1 @@
-var mnemonic = "zero tape shrimp lamp price measure taste mushroom faint hollow monster warfare";
+var mnemonic = "shoot layer detail loan hunt vote tail drip coin undo name confirm";

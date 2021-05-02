@@ -1,1 +1,1 @@
-var mnemonic = "roof zoo forget armed apart there issue emotion sport tragic pioneer length";
+var mnemonic = "aisle pigeon kick case ticket master shoe liar century race coral captain";

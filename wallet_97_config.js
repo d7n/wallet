@@ -1,1 +1,1 @@
-var mnemonic = "squeeze error coyote olive beauty tunnel trust vendor garlic inside inch turtle";
+var mnemonic = "pill often elephant multiply grain solar anger menu clutch stand chase cinnamon";

@@ -1,1 +1,1 @@
-var mnemonic = "aisle lounge explain step husband fox give script shaft muscle unfair student";
+var mnemonic = "divide tobacco lock edit jar journey thought today estate bench crystal chalk";

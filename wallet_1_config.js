@@ -1,1 +1,1 @@
-var mnemonic = "exit book satoshi head above type civil galaxy holiday dinosaur black impulse";
+var mnemonic = "library found manage yard lecture oil observe rail kiwi across dove chicken";

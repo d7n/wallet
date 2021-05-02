@@ -1,1 +1,1 @@
-var mnemonic = "recipe tragic climb book record session distance consider silk leopard usage hill";
+var mnemonic = "level accident tuna dad blue air little fame useful airport swap library";

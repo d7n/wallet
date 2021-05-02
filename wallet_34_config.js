@@ -1,1 +1,1 @@
-var mnemonic = "diary media various sword entry type timber rain relief junk recall october";
+var mnemonic = "dust slim board depend afraid acoustic blur remove jaguar pride round vendor";

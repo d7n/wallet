@@ -1,1 +1,1 @@
-var mnemonic = "dose sausage unfold moon cheese huge state age drastic stock between must";
+var mnemonic = "right actress buddy draw enact correct run enroll wing alert wonder capable";

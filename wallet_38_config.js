@@ -1,1 +1,1 @@
-var mnemonic = "evil buzz crawl timber motion element black boil main aware van outer";
+var mnemonic = "slender panda dose labor brother hole economy police oil purse code dwarf";

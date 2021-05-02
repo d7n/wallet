@@ -1,1 +1,1 @@
-var mnemonic = "cereal this castle inject rookie produce hollow release crime donkey dignity pen";
+var mnemonic = "assume oxygen until oven west claw ocean music tell dynamic swarm main";

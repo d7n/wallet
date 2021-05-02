@@ -1,1 +1,1 @@
-var mnemonic = "middle make finish rude glue dish valid want glory bulk ecology mimic";
+var mnemonic = "hire session symbol baby steel leave pact ranch region axis abandon dizzy";

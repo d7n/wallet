@@ -1,1 +1,1 @@
-var mnemonic = "since uniform slim road carpet glass valley margin matter begin expand execute";
+var mnemonic = "reunion gate riot manual napkin piece first trip absorb share tunnel omit";

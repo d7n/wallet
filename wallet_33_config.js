@@ -1,1 +1,1 @@
-var mnemonic = "horn couch bachelor liar more gift cargo account vocal cute right history";
+var mnemonic = "mango gloom vicious clarify this salute art awesome elephant win snap sustain";

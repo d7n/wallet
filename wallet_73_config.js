@@ -1,1 +1,1 @@
-var mnemonic = "awake custom lawsuit sea embrace under flavor sustain rotate copy decrease clutch";
+var mnemonic = "bus repair found aware toe gloom grief believe solar stable easy fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "afford addict crop nothing chief pond omit conduct zoo reunion split trend";
+var mnemonic = "lake place dinosaur cross fossil then garage congress legend cereal render grass";

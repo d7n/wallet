@@ -1,1 +1,1 @@
-var mnemonic = "antenna eager friend wasp pulse moment tell keen evolve ritual doll woman";
+var mnemonic = "expand orphan swallow main special above cry clown easy attitude shed rabbit";

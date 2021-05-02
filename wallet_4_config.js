@@ -1,1 +1,1 @@
-var mnemonic = "category stove wrong aunt dry upgrade adjust bunker oven scale present spoon";
+var mnemonic = "wrong step assault easy leaf puppy grid wreck daring state clerk agree";

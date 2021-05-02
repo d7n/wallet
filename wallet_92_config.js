@@ -1,1 +1,1 @@
-var mnemonic = "valid valid child wife frost permit build print winner idea soccer friend";
+var mnemonic = "milk fox dignity episode aunt buzz corn mouse forget clump fashion assault";

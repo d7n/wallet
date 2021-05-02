@@ -1,1 +1,1 @@
-var mnemonic = "rhythm slice enact vicious more coral rapid sphere document scene guilt sail";
+var mnemonic = "stable adjust main genre main pattern ostrich what more camp casual lonely";

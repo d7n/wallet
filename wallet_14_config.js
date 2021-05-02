@@ -1,1 +1,1 @@
-var mnemonic = "area faint van ability shoulder arch barely defense improve gaze artwork same";
+var mnemonic = "heart dragon boost portion fitness secret detect raw defense desert broken live";

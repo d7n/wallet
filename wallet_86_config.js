@@ -1,1 +1,1 @@
-var mnemonic = "orchard frost dutch rural notable wish disorder guilt high fiber keep bench";
+var mnemonic = "robot follow rebuild bullet skull juice south athlete high begin match quit";

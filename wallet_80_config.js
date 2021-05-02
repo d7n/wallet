@@ -1,1 +1,1 @@
-var mnemonic = "worry black crunch mention rapid float spatial energy stock umbrella gown coral";
+var mnemonic = "stamp worth slide dress admit admit grocery scrub confirm exchange hour urban";

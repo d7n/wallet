@@ -1,1 +1,1 @@
-var mnemonic = "valid where month asthma axis bench spin advice reveal nation corn robot";
+var mnemonic = "chronic couch sight volume utility target frog hire earth shaft budget yard";

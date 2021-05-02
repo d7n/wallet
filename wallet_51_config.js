@@ -1,1 +1,1 @@
-var mnemonic = "hotel city door slam police riot twin render same thumb they lobster";
+var mnemonic = "detect sound wave huge junior parent judge sister mansion risk awful chapter";

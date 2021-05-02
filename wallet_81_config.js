@@ -1,1 +1,1 @@
-var mnemonic = "convince guide volcano claw chest adjust anxiety rug light notice glance cannon";
+var mnemonic = "enough sniff churn salt april soft bread street route embody cargo hamster";

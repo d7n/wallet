@@ -1,1 +1,1 @@
-var mnemonic = "cycle style lake mirror spend purse canal patient local hungry beach alley";
+var mnemonic = "deal crack baby speed menu trouble drink secret rail swap alter inside";

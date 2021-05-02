@@ -1,1 +1,1 @@
-var mnemonic = "giant base tone slot gate metal chair army vanish february track rather";
+var mnemonic = "obey right play seat report this cart tail nature evoke sunny present";

@@ -1,1 +1,1 @@
-var mnemonic = "garden cloth satisfy rich barely better child crime speak pen frost chaos";
+var mnemonic = "fan intact letter insect quarter bus ship post kite famous much wonder";

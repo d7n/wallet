@@ -1,1 +1,1 @@
-var mnemonic = "speed near virtual release nuclear acoustic stone pride hotel similar now model";
+var mnemonic = "ethics retire runway goddess mesh dog build media inmate shed company beauty";

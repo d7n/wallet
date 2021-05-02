@@ -1,1 +1,1 @@
-var mnemonic = "when panther decide lady cabin leopard diesel flavor render hair auction jealous";
+var mnemonic = "opera kite acid outer easily rigid news trial lizard lonely casual charge";

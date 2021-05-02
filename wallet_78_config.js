@@ -1,1 +1,1 @@
-var mnemonic = "add phrase average then job box come model all arch art gown";
+var mnemonic = "harsh hawk multiply hollow lab address rack barely border goddess empty grab";

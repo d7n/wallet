@@ -1,1 +1,1 @@
-var mnemonic = "van tool movie grief uncover gaze west inspire check delay reopen book";
+var mnemonic = "voyage taste slight jealous aim honey razor define siren federal home jungle";

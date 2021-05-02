@@ -1,1 +1,1 @@
-var mnemonic = "inch response aisle hammer song cloth endorse flame say fold rely visit";
+var mnemonic = "horror lemon venue confirm govern twist choose enlist split hero tone skin";

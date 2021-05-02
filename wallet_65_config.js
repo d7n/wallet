@@ -1,1 +1,1 @@
-var mnemonic = "hidden payment alpha afraid ozone assume fabric clever heart repeat destroy zone";
+var mnemonic = "shock butter dragon more agent veteran token river left process assist tiger";

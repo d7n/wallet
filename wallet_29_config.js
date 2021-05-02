@@ -1,1 +1,1 @@
-var mnemonic = "sea reflect junk cement fashion winner youth match wealth penalty end congress";
+var mnemonic = "vanish olympic front around marine palm conduct bacon super notice lizard valve";

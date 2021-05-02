@@ -1,1 +1,1 @@
-var mnemonic = "face guard horse east ramp siege spend reform chat head race deny";
+var mnemonic = "stomach isolate crane ketchup spell bless source ball rich carry master border";

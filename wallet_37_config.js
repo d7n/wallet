@@ -1,1 +1,1 @@
-var mnemonic = "since west jelly nature flock vibrant congress depend emotion fruit arrow pistol";
+var mnemonic = "bundle duck pear vibrant tone heart crucial scissors day timber inform marine";

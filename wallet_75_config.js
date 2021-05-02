@@ -1,1 +1,1 @@
-var mnemonic = "kit divorce empower replace sand pole then dash news small chuckle west";
+var mnemonic = "beyond congress toward brisk excuse present popular type valve tent one brand";

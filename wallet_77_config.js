@@ -1,1 +1,1 @@
-var mnemonic = "salmon allow lunar book wire marriage tuition year drastic slush lava odor";
+var mnemonic = "fabric bachelor fix index flame select over wrap river book sorry heart";

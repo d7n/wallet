@@ -1,1 +1,1 @@
-var mnemonic = "casino spell loud village broken issue ice raccoon income panel report daughter";
+var mnemonic = "history carbon joke circle post door bitter expose load symptom shrimp alcohol";

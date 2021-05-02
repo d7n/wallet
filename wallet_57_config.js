@@ -1,1 +1,1 @@
-var mnemonic = "cushion segment wing renew tongue fetch whisper ignore tiger jaguar vault crash";
+var mnemonic = "foot shoulder paper frost notice leg honey giraffe dentist fame van alone";
