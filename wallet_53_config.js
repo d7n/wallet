@@ -1,1 +1,1 @@
-var mnemonic = "warm broccoli hurdle knock coyote wagon ignore scene trick wall left delay";
+var mnemonic = "you universe inside close aware occur corn dinner garden quarter strong swarm";

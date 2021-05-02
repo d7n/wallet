@@ -1,1 +1,1 @@
-var mnemonic = "aisle stick inside crime inject ice flip noise budget recall enforce cause";
+var mnemonic = "betray future ten bitter cool inspire whale brisk type august route pudding";

@@ -1,1 +1,1 @@
-var mnemonic = "icon decide fetch kiwi energy transfer assist ecology ethics echo together mobile";
+var mnemonic = "puppy tooth believe gadget purse pulp timber erase leaf magic alarm oppose";

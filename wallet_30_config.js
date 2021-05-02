@@ -1,1 +1,1 @@
-var mnemonic = "salad alley night grace view since vivid economy crane crawl market goddess";
+var mnemonic = "shift laundry tuna grace spot system casual drip repeat charge luxury gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain art ship fury clay coast mystery gold giraffe wasp dad next";
+var mnemonic = "network casino flip effort hockey process slogan diesel faculty core laundry slot";

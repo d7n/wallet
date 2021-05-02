@@ -1,1 +1,1 @@
-var mnemonic = "shock float marine fly park remember genuine bid pulp knife lobster detail";
+var mnemonic = "truth rural board imitate silly random diesel horse giraffe label job hurry";

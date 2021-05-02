@@ -1,1 +1,1 @@
-var mnemonic = "tattoo extend artefact frost stamp approve venue canal evolve gas clutch depart";
+var mnemonic = "identify pencil keep brass pencil ladder october region ice duty sorry check";

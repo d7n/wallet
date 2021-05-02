@@ -1,1 +1,1 @@
-var mnemonic = "rail play grow master try wealth defy pig hard view replace expand";
+var mnemonic = "fence young edit path profit virus tissue alpha model gun claw grit";

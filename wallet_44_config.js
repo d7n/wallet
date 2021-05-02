@@ -1,1 +1,1 @@
-var mnemonic = "suspect injury hunt bleak ketchup burden tuna fatal galaxy message job surface";
+var mnemonic = "soccer hawk dial between actress explain notable law ready assume solid parrot";

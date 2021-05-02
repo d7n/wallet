@@ -1,1 +1,1 @@
-var mnemonic = "bonus invite noise own pigeon giraffe globe borrow satisfy middle patrol message";
+var mnemonic = "dutch throw rubber evolve error bright end merit palm truly flower rifle";

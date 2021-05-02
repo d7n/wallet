@@ -1,1 +1,1 @@
-var mnemonic = "team gloom dignity salon bounce slow between vapor empower option impose alley";
+var mnemonic = "sound shiver ability make surge bachelor lucky amused define gossip sport race";

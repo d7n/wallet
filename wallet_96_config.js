@@ -1,1 +1,1 @@
-var mnemonic = "merry balcony weather become cigar album stick popular object glove iron portion";
+var mnemonic = "lawsuit case work donate pattern behave reject hidden cup warm always inform";

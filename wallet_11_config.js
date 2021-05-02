@@ -1,1 +1,1 @@
-var mnemonic = "avocado arrest because transfer glad race vapor video amateur total kidney globe";
+var mnemonic = "crucial tourist ice opinion cargo donate dolphin busy mom rain half title";

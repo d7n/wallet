@@ -1,1 +1,1 @@
-var mnemonic = "either taste since open voyage return pencil certain leopard initial enlist alone";
+var mnemonic = "fiscal stool vault adjust blind saddle simple chef rebuild member escape skull";

@@ -1,1 +1,1 @@
-var mnemonic = "know army can oyster park brown yard link level decade canoe bird";
+var mnemonic = "say caught fetch luggage disease cause already pilot chase abandon sheriff clown";

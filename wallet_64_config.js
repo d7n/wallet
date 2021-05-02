@@ -1,1 +1,1 @@
-var mnemonic = "consider solve praise library syrup concert away despair asset diary pumpkin whisper";
+var mnemonic = "season public type link lava join funny relax silent witness canal disagree";

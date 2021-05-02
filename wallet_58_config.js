@@ -1,1 +1,1 @@
-var mnemonic = "chair elevator design danger scatter kangaroo they salt sibling pretty uncover soon";
+var mnemonic = "flag release crew aisle cinnamon comic guess sunny romance fluid urban peanut";

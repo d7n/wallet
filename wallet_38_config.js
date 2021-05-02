@@ -1,1 +1,1 @@
-var mnemonic = "lawn office toss express beach club crumble giant humor parent split adapt";
+var mnemonic = "wrap harsh pet material vital come current elbow obey maid aspect produce";

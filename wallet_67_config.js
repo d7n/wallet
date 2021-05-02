@@ -1,1 +1,1 @@
-var mnemonic = "undo turn rebuild weird carpet result april fuel dinosaur beauty liquid bus";
+var mnemonic = "course canoe employ antenna nothing tip labor north rely crane sea witness";

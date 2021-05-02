@@ -1,1 +1,1 @@
-var mnemonic = "wolf permit gate cat duty sample wear skill nominee dinner hello burden";
+var mnemonic = "school goddess easily horror lecture betray wire charge situate sauce certain tilt";

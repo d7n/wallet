@@ -1,1 +1,1 @@
-var mnemonic = "believe brisk athlete badge stereo buddy twenty join slot float energy moment";
+var mnemonic = "scheme warm rude boy legend rail pear disagree craft goat cram skin";

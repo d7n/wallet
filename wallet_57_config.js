@@ -1,1 +1,1 @@
-var mnemonic = "elevator able depend number mass protect motion guilt phone liar mesh omit";
+var mnemonic = "fence practice copper goose curtain october filter pair deposit luggage beauty bean";

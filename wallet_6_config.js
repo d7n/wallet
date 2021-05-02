@@ -1,1 +1,1 @@
-var mnemonic = "initial install friend steak issue produce oil various wrist slide mimic oval";
+var mnemonic = "crack next apology behind wrist elder easily accuse asthma warfare shove account";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely erupt inquiry fiscal air cool fringe tunnel orphan seminar agree garlic";
+var mnemonic = "cable rubber people drum mixture swift poem episode auction project immune march";

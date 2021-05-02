@@ -1,1 +1,1 @@
-var mnemonic = "recycle top kingdom protect maple right foster almost jungle fix sport cause";
+var mnemonic = "abstract tattoo arm memory clay palace illness alert shallow provide timber distance";

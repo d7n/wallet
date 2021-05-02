@@ -1,1 +1,1 @@
-var mnemonic = "noble price dwarf cool stone plug immense wide smart gain fossil conduct";
+var mnemonic = "trap since thing curve moment inside taxi pelican upset churn lawn crazy";

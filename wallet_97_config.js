@@ -1,1 +1,1 @@
-var mnemonic = "digital remove prison enter what idea pepper meat canal wait panic glide";
+var mnemonic = "ski supply maple history guitar pudding theme monitor toddler shoulder decorate setup";

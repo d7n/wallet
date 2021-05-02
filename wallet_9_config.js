@@ -1,1 +1,1 @@
-var mnemonic = "divorce biology ride crumble guide orchard kingdom profit destroy grass monitor lab";
+var mnemonic = "brand tornado wealth desk build swamp raise adjust screen try promote observe";

@@ -1,1 +1,1 @@
-var mnemonic = "month cable lava audit frame laundry home type enforce puppy unable asset";
+var mnemonic = "awesome age where point obtain bridge return dish mushroom soon unknown royal";

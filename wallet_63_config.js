@@ -1,1 +1,1 @@
-var mnemonic = "divert dress couch carbon alter garlic stem alarm rescue ozone camp boss";
+var mnemonic = "daring elite oil project unusual obey phone flush project write puppy cave";

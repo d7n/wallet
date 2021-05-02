@@ -1,1 +1,1 @@
-var mnemonic = "company mushroom flock curious stem garlic clap thunder effort round judge child";
+var mnemonic = "invite west jump fatal hard cool hunt carpet tent march steel supreme";

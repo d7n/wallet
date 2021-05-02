@@ -1,1 +1,1 @@
-var mnemonic = "strike silent foster snack rude maid song vapor shadow deposit chicken census";
+var mnemonic = "cake radio mule absorb resource sunset excite vocal orphan deny adapt fragile";

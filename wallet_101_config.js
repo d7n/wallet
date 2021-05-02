@@ -1,1 +1,1 @@
-var mnemonic = "welcome another depth theme tired consider shock man gospel hero sugar achieve";
+var mnemonic = "rookie provide pulp multiply wolf cruel laptop cat nose have crisp cherry";

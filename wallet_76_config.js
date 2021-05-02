@@ -1,1 +1,1 @@
-var mnemonic = "keep typical service forest blind wall token bright alter fee deliver off";
+var mnemonic = "genius tape sample rich eternal delay material member staff home put misery";

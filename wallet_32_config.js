@@ -1,1 +1,1 @@
-var mnemonic = "grace tide discover glide polar crack strike wrestle special soccer emotion jump";
+var mnemonic = "morning cousin future know carry blast erase piano risk lyrics enlist vacuum";

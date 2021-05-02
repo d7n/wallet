@@ -1,1 +1,1 @@
-var mnemonic = "vital inspire allow share world dismiss coin use elephant tank minor spot";
+var mnemonic = "arrive paddle waste hundred rebel time decide harsh cruise device exclude scatter";

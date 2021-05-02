@@ -1,1 +1,1 @@
-var mnemonic = "roof notice whisper indicate total hawk moral carry baby manage funny fragile";
+var mnemonic = "valve outside sustain flame club loop awesome face slight over rebel possible";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm total mushroom orange quantum ahead method baby regret online lesson skirt";
+var mnemonic = "unit pumpkin carry modify time slam crash conduct quit multiply boss sniff";

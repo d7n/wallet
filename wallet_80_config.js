@@ -1,1 +1,1 @@
-var mnemonic = "cheap loyal begin stand margin kit glimpse wrestle sausage outer fire coconut";
+var mnemonic = "symptom quote vacuum panel club mesh useless avocado video unhappy tag tunnel";

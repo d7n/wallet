@@ -1,1 +1,1 @@
-var mnemonic = "paper fiction blossom gloom burden sun strategy praise name sock sorry double";
+var mnemonic = "gaze enforce smoke enact squirrel dizzy kangaroo either planet awkward climb size";

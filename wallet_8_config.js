@@ -1,1 +1,1 @@
-var mnemonic = "burst tragic north speak nation hurt glance knife dutch total embark then";
+var mnemonic = "slice winter live ski canvas differ execute voice route follow rocket symbol";

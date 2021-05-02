@@ -1,1 +1,1 @@
-var mnemonic = "initial garbage insane slogan bachelor foot name medal vessel other then upset";
+var mnemonic = "muffin attitude sing shrug space possible online capital civil young cycle buzz";

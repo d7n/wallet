@@ -1,1 +1,1 @@
-var mnemonic = "foot hazard scissors public step visual yellow bounce genre glad swing orbit";
+var mnemonic = "pretty host word inflict glad recall host rotate pencil dust ceiling sugar";

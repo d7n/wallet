@@ -1,1 +1,1 @@
-var mnemonic = "pilot round moment maple lock disorder tooth crouch renew divert congress thrive";
+var mnemonic = "copper predict three stuff other foot talk stove hazard mixture tortoise salt";

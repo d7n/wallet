@@ -1,1 +1,1 @@
-var mnemonic = "useful naive permit morning possible shaft balcony spin grocery nuclear soup uncover";
+var mnemonic = "egg cement usage ankle fantasy submit hello police slab gadget oppose roast";

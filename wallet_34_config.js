@@ -1,1 +1,1 @@
-var mnemonic = "siren noble split dune robot student volume useful shell unfold exercise benefit";
+var mnemonic = "produce ketchup confirm hobby horror lake apart tide zoo fetch ozone attend";

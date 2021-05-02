@@ -1,1 +1,1 @@
-var mnemonic = "stamp velvet umbrella build atom awake device what mixture spider denial swallow";
+var mnemonic = "cable photo damage street engage another inhale vivid festival equal volume icon";

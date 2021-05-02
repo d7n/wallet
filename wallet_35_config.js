@@ -1,1 +1,1 @@
-var mnemonic = "hurdle another hybrid opinion play major machine auction radio immense impulse can";
+var mnemonic = "habit poet result unable assume minute convince rice violin urge current clay";

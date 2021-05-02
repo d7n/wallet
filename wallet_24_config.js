@@ -1,1 +1,1 @@
-var mnemonic = "security banner pair crash midnight mirror uncle occur club battle token creek";
+var mnemonic = "spice collect artist aware clump surge drop fluid figure loyal motion exhaust";

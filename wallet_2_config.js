@@ -1,1 +1,1 @@
-var mnemonic = "prefer chat educate combine owner opera wall super sword defy must net";
+var mnemonic = "lion ghost latin truly time describe dress humor alarm street ugly opera";

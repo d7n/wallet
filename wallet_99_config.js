@@ -1,1 +1,1 @@
-var mnemonic = "impulse speed battle pave exist merit critic spirit conduct visual estate december";
+var mnemonic = "dose phrase brush yellow donor rubber choose flash aerobic race phrase much";

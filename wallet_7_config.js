@@ -1,1 +1,1 @@
-var mnemonic = "evil inhale smooth increase alert annual bitter penalty sugar tragic fatigue donor";
+var mnemonic = "dignity mandate movie huge alarm rough ostrich afraid episode culture retreat display";

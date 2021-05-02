@@ -1,1 +1,1 @@
-var mnemonic = "extra error pool bronze loyal now result host bleak key walnut host";
+var mnemonic = "fatal supreme response first silk link abuse flight retire stable valid dust";

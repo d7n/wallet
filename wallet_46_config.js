@@ -1,1 +1,1 @@
-var mnemonic = "box bring kitten nerve torch color paper transfer pond museum hood monitor";
+var mnemonic = "night flame upper ride inflict pole foil sleep torch window swarm mechanic";

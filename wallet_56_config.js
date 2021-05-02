@@ -1,1 +1,1 @@
-var mnemonic = "eye wrap tiny any pumpkin bike salmon rack popular hard tip sport";
+var mnemonic = "wrap slow zero over middle inherit soft game book hurry assist fury";

@@ -1,1 +1,1 @@
-var mnemonic = "coral wisdom nasty fitness unhappy smooth scare gesture certain paper drift wash";
+var mnemonic = "bind prefer science exit museum vault social intact chunk extend gasp ivory";

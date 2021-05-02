@@ -1,1 +1,1 @@
-var mnemonic = "around weapon brick federal patch north lift piano supply toddler behind gift";
+var mnemonic = "hazard person stove opinion option blame under cream absent crew critic face";

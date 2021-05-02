@@ -1,1 +1,1 @@
-var mnemonic = "impose release barrel mansion curtain approve lunch lion tilt mule exercise kingdom";
+var mnemonic = "rotate refuse early vacant stairs offer early song pond topple syrup more";

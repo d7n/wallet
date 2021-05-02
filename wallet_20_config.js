@@ -1,1 +1,1 @@
-var mnemonic = "simple mandate lumber ripple permit save betray miss swim green limb face";
+var mnemonic = "clog open seek spin cabbage holiday company enough endorse bulk receive over";

@@ -1,1 +1,1 @@
-var mnemonic = "joy often urban carpet cherry thumb ask armed finish frost bag rough";
+var mnemonic = "buddy inspire exist dismiss style success detect erase attract dismiss together wrist";

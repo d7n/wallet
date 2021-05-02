@@ -1,1 +1,1 @@
-var mnemonic = "ladder faculty scheme virtual card setup between sweet access honey file tone";
+var mnemonic = "genuine conduct desk junior group put problem will print soul payment acid";

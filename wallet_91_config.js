@@ -1,1 +1,1 @@
-var mnemonic = "wrestle chef mom resemble absurd bronze this frozen run rice equip correct";
+var mnemonic = "spring history wheat shy document mad ankle notice oak bundle identify oblige";

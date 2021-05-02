@@ -1,1 +1,1 @@
-var mnemonic = "stage nothing mobile fashion aunt month puzzle fan hurt thumb spider love";
+var mnemonic = "degree evidence supply bone enhance friend bulb lyrics soda current anger where";

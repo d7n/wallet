@@ -1,1 +1,1 @@
-var mnemonic = "heart rare hood luxury turn acquire focus shuffle song west hill repair";
+var mnemonic = "joy crack giggle book vanish weasel shy riot category follow nuclear ticket";

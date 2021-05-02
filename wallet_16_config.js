@@ -1,1 +1,1 @@
-var mnemonic = "rhythm once review arrive slim december fragile eyebrow organ organ license crater";
+var mnemonic = "match athlete jelly suspect anxiety elder buyer crystal banner nut lounge harvest";

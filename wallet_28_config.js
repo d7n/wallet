@@ -1,1 +1,1 @@
-var mnemonic = "tissue better result bronze able group convince vanish poverty lunar obey spatial";
+var mnemonic = "mother soda chalk hundred resist canyon struggle program diamond bring still comic";

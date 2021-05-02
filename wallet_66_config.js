@@ -1,1 +1,1 @@
-var mnemonic = "winner icon into initial talk entire control great such remind crouch rabbit";
+var mnemonic = "day inmate invest must area dance engage inch sleep home industry space";

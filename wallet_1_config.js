@@ -1,1 +1,1 @@
-var mnemonic = "dance resist rack control midnight exist pledge ethics asset roof busy grit";
+var mnemonic = "odor fancy hen zero around neither crack deputy torch mandate faculty sing";

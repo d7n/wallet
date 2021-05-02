@@ -1,1 +1,1 @@
-var mnemonic = "enlist spike october creek arrive drink just envelope pipe voice clump verify";
+var mnemonic = "hidden feed chuckle guitar spatial announce roast area favorite web capital crew";

@@ -1,1 +1,1 @@
-var mnemonic = "disease mountain remove inquiry face kit will soft clarify athlete top spend";
+var mnemonic = "second snow finish middle scatter stumble mechanic sound vapor elbow evolve muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "drop finger twist fiscal viable cabin share dice combine injury soda false";
+var mnemonic = "garbage border zebra they system dust mind replace issue chicken expose hello";

@@ -1,1 +1,1 @@
-var mnemonic = "horse bar jazz deposit vacant message cereal silver salad naive dumb thunder";
+var mnemonic = "inmate response bright innocent choose stuff debate wrestle auction quantum across force";

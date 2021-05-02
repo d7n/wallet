@@ -1,1 +1,1 @@
-var mnemonic = "pave monitor clog verb leisure occur symptom bag blade salute easily inform";
+var mnemonic = "total road stumble gaze express group garlic thunder fire slush work cool";

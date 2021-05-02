@@ -1,1 +1,1 @@
-var mnemonic = "stumble rate rebuild inch tattoo hello surface aim social web video panther";
+var mnemonic = "praise play bicycle myth early develop miracle brick impulse surprise festival disorder";

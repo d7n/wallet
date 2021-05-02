@@ -1,1 +1,1 @@
-var mnemonic = "cry amateur lonely letter pupil pigeon replace exotic sight rocket fiscal napkin";
+var mnemonic = "youth damage hammer spring turtle earth error dust fantasy between viable book";

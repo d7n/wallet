@@ -1,1 +1,1 @@
-var mnemonic = "vapor spray another swarm mule tuna raven become dwarf reduce survey original";
+var mnemonic = "other spoil direct appear execute burger solar kiss memory various spoil twelve";

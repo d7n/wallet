@@ -1,1 +1,1 @@
-var mnemonic = "shop ball forget inspire same motion oil festival cotton rural paddle picture";
+var mnemonic = "income drop egg master fan copper shuffle giraffe raven hero obey brown";

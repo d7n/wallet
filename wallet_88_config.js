@@ -1,1 +1,1 @@
-var mnemonic = "segment riot enroll case upon behind seat matrix voice crazy priority august";
+var mnemonic = "barrel around giggle afraid ready nerve genre resist reunion humble already buzz";

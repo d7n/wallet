@@ -1,1 +1,1 @@
-var mnemonic = "dawn edge relief nut offer predict action pistol victory female ladder empower";
+var mnemonic = "question vivid ribbon climb vessel artwork slow side brother glory truth purse";

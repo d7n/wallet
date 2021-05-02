@@ -1,1 +1,1 @@
-var mnemonic = "host disorder current public trumpet resemble scare gasp heart dentist ripple excess";
+var mnemonic = "exclude owner huge man energy weird host father fatal room ugly caution";

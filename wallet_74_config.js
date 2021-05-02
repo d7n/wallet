@@ -1,1 +1,1 @@
-var mnemonic = "hunt ability secret rude village lobster taxi demand grocery tilt fresh bronze";
+var mnemonic = "title dune sadness crack limit upgrade security lunch derive immense double bus";

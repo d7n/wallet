@@ -1,1 +1,1 @@
-var mnemonic = "crew party twist strategy elder burden abandon split rain bomb cycle erupt";
+var mnemonic = "jazz trend top alcohol pupil gift hybrid already typical omit flip faint";

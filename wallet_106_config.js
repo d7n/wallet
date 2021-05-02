@@ -1,1 +1,1 @@
-var mnemonic = "ladder version strategy embark net trip nephew excess ritual merry actress fetch";
+var mnemonic = "shuffle elder earn parrot abuse aerobic whale arrow maid cigar village consider";

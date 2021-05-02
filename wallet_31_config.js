@@ -1,1 +1,1 @@
-var mnemonic = "tired exile plastic pony cost card olive local address control december crack";
+var mnemonic = "notable fiction layer camp divide enroll office raccoon bus drill tilt engine";

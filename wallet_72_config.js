@@ -1,1 +1,1 @@
-var mnemonic = "voice until joy club rabbit need pool funny document cigar balance tongue";
+var mnemonic = "habit trust health orbit advice amateur erase glue alcohol snap can label";

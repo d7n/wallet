@@ -1,1 +1,1 @@
-var mnemonic = "earn acid mercy follow joke cushion like resource spring six achieve rail";
+var mnemonic = "barrel era hurry rich involve jaguar novel worth silk thank afraid foil";

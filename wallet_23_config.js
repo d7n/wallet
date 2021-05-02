@@ -1,1 +1,1 @@
-var mnemonic = "will service put idle denial subway stock order nasty myself one this";
+var mnemonic = "crumble visit canyon friend alone wisdom mask crew any bullet story crisp";

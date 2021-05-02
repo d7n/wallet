@@ -1,1 +1,1 @@
-var mnemonic = "column spirit draft come profit caution rent emerge long uniform glue heart";
+var mnemonic = "torch dial gym medal nothing tube wife surprise scorpion laundry canoe quick";

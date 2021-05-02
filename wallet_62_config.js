@@ -1,1 +1,1 @@
-var mnemonic = "short year drift peace west churn bachelor adapt entry enemy door broken";
+var mnemonic = "ribbon increase allow bright lizard biology deny icon gun maple inflict machine";

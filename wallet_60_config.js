@@ -1,1 +1,1 @@
-var mnemonic = "save emerge black way bracket alone away sure egg tool art poet";
+var mnemonic = "alley glass grit exhibit velvet steel wink typical usage ribbon void deposit";

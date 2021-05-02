@@ -1,1 +1,1 @@
-var mnemonic = "into recipe token witness grace snow orient sing language use divert judge";
+var mnemonic = "hour mountain vital sleep switch erode orange ankle refuse arrow unusual phrase";

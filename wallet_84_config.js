@@ -1,1 +1,1 @@
-var mnemonic = "payment have scout brave rare cheap despair sustain life guide face question";
+var mnemonic = "glove proud brief hour brisk nuclear pond razor worry lake machine join";

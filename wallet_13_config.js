@@ -1,1 +1,1 @@
-var mnemonic = "know ring soul evoke promote direct obtain sorry emerge before february reveal";
+var mnemonic = "edge sad spy below immense extra mercy symbol garment where cloth divide";
