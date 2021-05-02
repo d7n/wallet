@@ -1,1 +1,1 @@
-var mnemonic = "blossom trouble clip float blind transfer hidden gasp civil security finger garment";
+var mnemonic = "voyage since indoor rack robust ceiling town steak angle swallow replace vapor";

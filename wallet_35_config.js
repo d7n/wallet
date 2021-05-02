@@ -1,1 +1,1 @@
-var mnemonic = "swallow battle call sister away shell author step segment tennis flame swing";
+var mnemonic = "siege casino reward horse raise ivory exercise blame snow swamp cereal pepper";

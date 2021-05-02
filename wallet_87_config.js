@@ -1,1 +1,1 @@
-var mnemonic = "tent smooth trash fancy market disorder soap ahead swim undo mule siren";
+var mnemonic = "stock icon bid element pyramid powder brush scare roof build elephant employ";

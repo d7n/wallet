@@ -1,1 +1,1 @@
-var mnemonic = "boat embrace total check elder excite sentence foster alley destroy inflict vintage";
+var mnemonic = "jungle artist chair spoon noodle provide tooth obey wool black lava auction";

@@ -1,1 +1,1 @@
-var mnemonic = "degree awful train hurt path proof brain cactus position fiber reason coil";
+var mnemonic = "expect filter wide spring light layer day intact target dry bright merit";

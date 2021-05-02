@@ -1,1 +1,1 @@
-var mnemonic = "claw sunset conduct doctor stool cause moral post often biology wash unique";
+var mnemonic = "pulp explain major decade diary area vendor shift bubble vanish calm cargo";

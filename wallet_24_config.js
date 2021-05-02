@@ -1,1 +1,1 @@
-var mnemonic = "slab gather west pair ginger clay core club soul regret opinion breeze";
+var mnemonic = "knock gun fashion unknown quote happy fiction fine soup supply hope cake";

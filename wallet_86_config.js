@@ -1,1 +1,1 @@
-var mnemonic = "seminar attack pigeon journey useless option extra human february apple impact trial";
+var mnemonic = "manage plug turn legend sock rough wait nothing viable source refuse burger";

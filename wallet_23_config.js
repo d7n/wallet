@@ -1,1 +1,1 @@
-var mnemonic = "rural key symbol guess impose old boost love this tank fix inflict";
+var mnemonic = "soon balcony window anger able fame produce trigger sauce symbol crumble push";

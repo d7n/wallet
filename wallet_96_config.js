@@ -1,1 +1,1 @@
-var mnemonic = "adult document duty ill hamster flag east coast mind evil nephew come";
+var mnemonic = "burst violin animal able mother canoe actual either clock board dawn impulse";

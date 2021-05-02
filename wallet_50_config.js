@@ -1,1 +1,1 @@
-var mnemonic = "spoil lift cactus strategy friend team much orphan shy action canoe follow";
+var mnemonic = "puzzle tenant prize ill that play pilot wrong artwork reflect health number";

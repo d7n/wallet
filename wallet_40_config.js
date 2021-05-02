@@ -1,1 +1,1 @@
-var mnemonic = "cargo muscle engine clean ripple bottom steel cool tree onion else text";
+var mnemonic = "matrix pizza ring debris process anchor march sausage have summer section erase";

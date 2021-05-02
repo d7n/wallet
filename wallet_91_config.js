@@ -1,1 +1,1 @@
-var mnemonic = "narrow copper rural firm sudden mail miracle puppy sing truck uncle slot";
+var mnemonic = "bracket paddle poet erupt riot mixed sauce where orphan shuffle retire hybrid";

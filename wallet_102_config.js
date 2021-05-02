@@ -1,1 +1,1 @@
-var mnemonic = "praise churn mean trust shoe pig armed virus urban ill volcano try";
+var mnemonic = "into metal cannon lion laundry produce crucial fancy pioneer tenant popular tomorrow";

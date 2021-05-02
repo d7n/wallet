@@ -1,1 +1,1 @@
-var mnemonic = "pledge emerge bounce one range angry hole chuckle symbol strategy tower fame";
+var mnemonic = "leader lumber chaos hammer grab winner stand ticket stairs jump actress garage";

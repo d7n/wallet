@@ -1,1 +1,1 @@
-var mnemonic = "core bar fat weird fuel tenant skirt desk hello stumble skull phone";
+var mnemonic = "must february answer gun anxiety inspire drip limit wood inmate violin educate";

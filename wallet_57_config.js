@@ -1,1 +1,1 @@
-var mnemonic = "apology sphere raise model swarm lobster salt arctic drip raven add umbrella";
+var mnemonic = "payment much inform glove palm item open fancy ball crazy vanish economy";

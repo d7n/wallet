@@ -1,1 +1,1 @@
-var mnemonic = "love trigger close swarm woman wheel interest announce mechanic render spike bubble";
+var mnemonic = "keen panic dance clay fiction special obtain panic pioneer mammal describe focus";

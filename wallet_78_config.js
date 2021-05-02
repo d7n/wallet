@@ -1,1 +1,1 @@
-var mnemonic = "teach film improve shadow glimpse guide height verify wait urge crack size";
+var mnemonic = "master doll resist human exotic castle lumber assault object cliff sketch false";

@@ -1,1 +1,1 @@
-var mnemonic = "retire bomb pistol second core lamp jelly short estate someone relief purpose";
+var mnemonic = "stereo brain apology trash other toward anger shove install amount habit blast";

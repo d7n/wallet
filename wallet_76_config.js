@@ -1,1 +1,1 @@
-var mnemonic = "tackle canoe north panther uniform cram damage rack razor razor circle modify";
+var mnemonic = "bundle joke food glove slab much slot giraffe double scheme now box";

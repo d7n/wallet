@@ -1,1 +1,1 @@
-var mnemonic = "dolphin sample play skull pass lunar cousin excite enact calm dial release";
+var mnemonic = "insane crisp differ address universe allow tobacco flame ostrich observe run defy";

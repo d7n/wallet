@@ -1,1 +1,1 @@
-var mnemonic = "sniff neutral insane design smoke film piece gossip rebuild proof dizzy announce";
+var mnemonic = "great panther able buffalo off speed comfort observe build main long govern";

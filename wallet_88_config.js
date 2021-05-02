@@ -1,1 +1,1 @@
-var mnemonic = "bid torch can brief wasp assault ahead sample morning prosper buzz inside";
+var mnemonic = "process child label because million twist flame rent alpha couple intact walk";

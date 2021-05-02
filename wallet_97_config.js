@@ -1,1 +1,1 @@
-var mnemonic = "insane push grab response ship define water avoid apart bind confirm burger";
+var mnemonic = "robust chicken smile outer cricket peace during spend powder trim machine fashion";

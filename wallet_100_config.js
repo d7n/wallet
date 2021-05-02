@@ -1,1 +1,1 @@
-var mnemonic = "tomato cousin plate friend lobster clutch autumn only talent proud boost govern";
+var mnemonic = "town unfair orient must chase surprise exchange kingdom segment embody pipe save";

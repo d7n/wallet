@@ -1,1 +1,1 @@
-var mnemonic = "damage admit current dismiss asthma warm cart strategy image nest drill turkey";
+var mnemonic = "fire angle slice alone dutch impact river cradle oak hello feature silent";

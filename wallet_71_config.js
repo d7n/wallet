@@ -1,1 +1,1 @@
-var mnemonic = "case obey drum hour flower domain sense liquid puzzle slot very sibling";
+var mnemonic = "actress organ gasp rookie erosion play forum lion topic hen call bronze";

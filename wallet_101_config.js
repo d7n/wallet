@@ -1,1 +1,1 @@
-var mnemonic = "shallow glass genius panda senior turn entire helmet twelve exclude tumble stamp";
+var mnemonic = "dad remember when desk final great capable attack popular effort badge mosquito";

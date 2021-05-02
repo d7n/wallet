@@ -1,1 +1,1 @@
-var mnemonic = "juice receive stairs suggest corn boost cake occur trade enrich tattoo gallery";
+var mnemonic = "interest help merit hope spy syrup purity focus relief slice various error";

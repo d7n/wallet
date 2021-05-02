@@ -1,1 +1,1 @@
-var mnemonic = "kitchen athlete differ stool shoot sad parent account essay nature aspect must";
+var mnemonic = "fluid movie lucky pool siren diesel camera ski reject soft garage tomato";

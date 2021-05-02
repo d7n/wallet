@@ -1,1 +1,1 @@
-var mnemonic = "immune rate parrot work intact unusual visa bone gasp unusual lady symbol";
+var mnemonic = "hobby material tired hidden install miss warrior use believe baby bundle enlist";

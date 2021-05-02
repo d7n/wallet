@@ -1,1 +1,1 @@
-var mnemonic = "high short lunch oak clip list mixture dentist caution require senior uniform";
+var mnemonic = "orange poem document salad evoke broom roast chaos where eight aisle token";

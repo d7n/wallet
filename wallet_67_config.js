@@ -1,1 +1,1 @@
-var mnemonic = "family assault carpet spoon amazing speed loan fold melody picnic nephew this";
+var mnemonic = "shoulder unfair left amazing curtain artist regret candy bacon loop rescue cradle";

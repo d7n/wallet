@@ -1,1 +1,1 @@
-var mnemonic = "fossil inmate wash obscure inch cactus skull keen differ one awake glow";
+var mnemonic = "bleak hockey mystery enough enhance burst tragic portion crouch two trend bike";

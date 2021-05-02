@@ -1,1 +1,1 @@
-var mnemonic = "train pig naive oppose slow maid uphold biology jump flush holiday plunge";
+var mnemonic = "banana collect emotion glide still toy pill update sleep hint trumpet move";

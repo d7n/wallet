@@ -1,1 +1,1 @@
-var mnemonic = "undo age candy coach clarify piece famous bomb describe fringe uncover banana";
+var mnemonic = "helmet audit jealous cherry rare record helmet purity turkey neutral document cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "ill crater drama snap asthma rookie pink mistake bundle essence airport have";
+var mnemonic = "degree crater lucky habit school carbon derive orbit finish concert upset stable";

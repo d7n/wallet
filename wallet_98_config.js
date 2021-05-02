@@ -1,1 +1,1 @@
-var mnemonic = "guide tray donate leaf dirt infant misery pistol never acquire remove gorilla";
+var mnemonic = "cheese topic globe situate age horse glad side endless symptom fringe disagree";

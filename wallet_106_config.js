@@ -1,1 +1,1 @@
-var mnemonic = "green badge drink mammal hat wage life proof bag grass garden wrestle";
+var mnemonic = "panda powder absurd print social gate mean flavor audit glide puzzle cliff";

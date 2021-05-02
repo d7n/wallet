@@ -1,1 +1,1 @@
-var mnemonic = "trial copy favorite learn bench fog smooth lounge kiss saddle talent vault";
+var mnemonic = "pause walk electric crazy artefact only obscure theory top april scare urban";

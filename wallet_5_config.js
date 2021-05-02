@@ -1,1 +1,1 @@
-var mnemonic = "weird music negative swarm mother deer mammal danger torch upon tail wear";
+var mnemonic = "opinion symptom trial galaxy disagree kingdom search steak blur rack ready enroll";

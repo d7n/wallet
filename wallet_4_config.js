@@ -1,1 +1,1 @@
-var mnemonic = "escape move anxiety estate input champion donor settle deliver pistol city scrub";
+var mnemonic = "exact lecture kid slot empower canoe toe episode urge gadget alley ring";

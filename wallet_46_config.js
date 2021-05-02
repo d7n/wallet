@@ -1,1 +1,1 @@
-var mnemonic = "clerk movie opera upper captain tip salmon action vault story course spell";
+var mnemonic = "road tower dignity produce limb cash orange hotel unit reject trick chest";

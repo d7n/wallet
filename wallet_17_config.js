@@ -1,1 +1,1 @@
-var mnemonic = "bracket list party range stove weapon regret fancy citizen hub marine private";
+var mnemonic = "crunch upset donate armed end immense search cannon mixture magic earth exchange";

@@ -1,1 +1,1 @@
-var mnemonic = "clay rule photo unique glide rocket tape crazy frozen echo unfair play";
+var mnemonic = "tray dial useless dumb bicycle borrow prevent advice ring adult can head";

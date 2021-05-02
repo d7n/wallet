@@ -1,1 +1,1 @@
-var mnemonic = "client reject attitude zero time child grass chuckle swear glove misery stand";
+var mnemonic = "box decade sad dance shiver rebel domain carbon myself join wrist syrup";

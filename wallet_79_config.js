@@ -1,1 +1,1 @@
-var mnemonic = "fashion mercy charge intact find right olympic alter end current crack isolate";
+var mnemonic = "poem check buddy hire soup nation cake blue believe brave menu sun";

@@ -1,1 +1,1 @@
-var mnemonic = "album clerk awkward sponsor thumb fatal record glove fresh regular sail garbage";
+var mnemonic = "diesel couch dentist bubble hood flee dash nice uphold umbrella syrup hip";

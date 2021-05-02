@@ -1,1 +1,1 @@
-var mnemonic = "order void area merge scout hunt uncover hidden kit eager rib repeat";
+var mnemonic = "dial result train history suggest cruel swallow flat bus oyster jungle prefer";

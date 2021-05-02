@@ -1,1 +1,1 @@
-var mnemonic = "elephant mimic blue excess flower wish appear symptom where because leopard enable";
+var mnemonic = "since enter syrup couch feed kingdom scan bid confirm struggle panic furnace";

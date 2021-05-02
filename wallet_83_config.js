@@ -1,1 +1,1 @@
-var mnemonic = "message airport extend quit such bread curve tiny giant brisk market shallow";
+var mnemonic = "use seek egg cupboard chicken install squirrel keep shine spirit asthma upon";

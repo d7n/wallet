@@ -1,1 +1,1 @@
-var mnemonic = "limit find twelve sword ribbon twist audit awful leave discover crater fit";
+var mnemonic = "course cave raw mammal sudden end soap screen timber casino despair sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "area lawn desk merry tonight recipe gym silent repair habit next crash";
+var mnemonic = "emotion pelican segment casino churn green destroy course deny tumble enjoy marriage";

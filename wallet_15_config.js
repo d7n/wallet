@@ -1,1 +1,1 @@
-var mnemonic = "energy position blade perfect have give rally decide search abuse evil insane";
+var mnemonic = "fade pulse crime gorilla margin boat beef later divert extend empower shop";

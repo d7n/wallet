@@ -1,1 +1,1 @@
-var mnemonic = "suffer sample loop disorder outside energy flight sphere solar phone monitor allow";
+var mnemonic = "spell tiger another cotton bomb artefact enjoy tobacco woman slush prevent method";

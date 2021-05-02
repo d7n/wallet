@@ -1,1 +1,1 @@
-var mnemonic = "verb fantasy develop scorpion clock hurry discover quick squeeze mobile move slot";
+var mnemonic = "next honey caution bitter lottery uncle hospital tuna coconut orchard sting lucky";

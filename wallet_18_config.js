@@ -1,1 +1,1 @@
-var mnemonic = "charge offer ball elite enhance found say label bonus bid aim clay";
+var mnemonic = "glove kick mountain angry like derive cream quality town try material dynamic";

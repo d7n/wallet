@@ -1,1 +1,1 @@
-var mnemonic = "ordinary hockey phone zero any sun believe immense this able divorce belt";
+var mnemonic = "casual provide egg among mechanic inherit shy elegant wing tourist subject accident";

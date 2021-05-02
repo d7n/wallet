@@ -1,1 +1,1 @@
-var mnemonic = "divide forum crisp silver lizard find shell summer people grain limit enhance";
+var mnemonic = "cost cereal twin state moment top civil knee various fetch gown sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "series huge mystery try rocket west account auto pyramid antique slogan ivory";
+var mnemonic = "describe piano business trophy bracket point tree true royal dignity gauge skill";

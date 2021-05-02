@@ -1,1 +1,1 @@
-var mnemonic = "glow analyst cricket flip foot organ topic foster medal garbage polar peasant";
+var mnemonic = "tilt level science resource market quarter desert hire all museum tunnel early";

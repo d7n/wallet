@@ -1,1 +1,1 @@
-var mnemonic = "smart glide razor device mail avocado industry mean glove pizza guide record";
+var mnemonic = "manage print input credit swing lab relax dismiss sing fade catalog pistol";

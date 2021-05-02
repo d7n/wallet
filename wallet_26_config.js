@@ -1,1 +1,1 @@
-var mnemonic = "burden until fruit siren stumble kitchen combine shoot wear illness since knee";
+var mnemonic = "punch fury street castle winter retire margin cabbage simple warfare wreck spirit";

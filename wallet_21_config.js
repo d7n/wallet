@@ -1,1 +1,1 @@
-var mnemonic = "age tourist bid bonus inhale unaware real flock vague room local lawsuit";
+var mnemonic = "outside jacket salt web peanut diary because illness gadget tornado chair antenna";

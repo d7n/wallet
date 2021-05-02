@@ -1,1 +1,1 @@
-var mnemonic = "mushroom angle couple oval curtain fix cry twin arrow crunch you rent";
+var mnemonic = "diagram room belt people gauge brick village few hen acid word arrive";

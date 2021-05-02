@@ -1,1 +1,1 @@
-var mnemonic = "caught mean audit valve idle library dose flee blame duty relief able";
+var mnemonic = "dust dose expand brush oven farm six guitar success tornado dry throw";

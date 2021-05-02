@@ -1,1 +1,1 @@
-var mnemonic = "train duck sand response glow employ victory cheap pitch fiber essence club";
+var mnemonic = "often rail off talk taxi nurse shine avocado silver fork inner maid";

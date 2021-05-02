@@ -1,1 +1,1 @@
-var mnemonic = "refuse price dog never rural creek interest mobile wrestle chapter venue dog";
+var mnemonic = "renew day degree virtual slender soft tool donkey verify rubber exit visit";

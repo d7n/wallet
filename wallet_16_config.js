@@ -1,1 +1,1 @@
-var mnemonic = "original nuclear sunny lucky sample kidney opera forget absent time crater kitchen";
+var mnemonic = "notable leopard silent strike few economy grid brown position spirit mechanic true";

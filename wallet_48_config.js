@@ -1,1 +1,1 @@
-var mnemonic = "normal demise leader loop assist sick car cactus image fault ketchup slot";
+var mnemonic = "diary hockey bonus nothing warm spring rent huge ski unit clever clown";

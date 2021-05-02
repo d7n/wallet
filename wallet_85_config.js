@@ -1,1 +1,1 @@
-var mnemonic = "garbage drama interest sunny rapid deal faith fault moment inspire target pyramid";
+var mnemonic = "orange scrub order course monitor spring wash forward live dilemma assume genre";

@@ -1,1 +1,1 @@
-var mnemonic = "used vibrant kiwi account uniform essence photo bus health liar match latin";
+var mnemonic = "video squirrel staff foot poem gas twelve arm palm neutral initial sponsor";

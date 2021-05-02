@@ -1,1 +1,1 @@
-var mnemonic = "nurse sibling wrestle kiss domain thumb sphere patrol august october return infant";
+var mnemonic = "decline party position upon illegal youth promote spring purity still that rally";

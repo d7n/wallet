@@ -1,1 +1,1 @@
-var mnemonic = "hunt metal salad cute slot vacuum common village ride rib replace destroy";
+var mnemonic = "plug fame hidden frog spend version health enrich clever bar twice slight";

@@ -1,1 +1,1 @@
-var mnemonic = "rough grit sight hedgehog meadow shift tower pool earth execute festival wrap";
+var mnemonic = "hard tobacco sell wrong sand ski burst parade pumpkin october raise start";

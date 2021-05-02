@@ -1,1 +1,1 @@
-var mnemonic = "foot nut share wedding need delay glory easy rate copy flavor river";
+var mnemonic = "oil dynamic idle fat smoke drip strong grid project bargain help distance";

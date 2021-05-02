@@ -1,1 +1,1 @@
-var mnemonic = "prefer maple nest prosper will next cargo flag cupboard voice motion test";
+var mnemonic = "pistol come quit claw error apology distance achieve pioneer prison flavor inside";

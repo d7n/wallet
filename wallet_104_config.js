@@ -1,1 +1,1 @@
-var mnemonic = "melt click cart estate burger panic speak ticket clarify vocal lottery boy";
+var mnemonic = "trim flight sure account brain unknown balcony hour hair spell tent hidden";

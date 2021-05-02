@@ -1,1 +1,1 @@
-var mnemonic = "cannon erupt grid worth love fortune unfair silver betray network vague stone";
+var mnemonic = "kiwi render skate used spin carry carbon nice transfer brave moon poverty";

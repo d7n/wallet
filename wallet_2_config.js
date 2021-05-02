@@ -1,1 +1,1 @@
-var mnemonic = "census tool merge blouse host hurt cliff ahead silly fossil useful parade";
+var mnemonic = "develop wonder dose region heavy produce pole receive soccer hold company velvet";

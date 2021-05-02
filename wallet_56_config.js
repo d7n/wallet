@@ -1,1 +1,1 @@
-var mnemonic = "favorite faculty vicious adult aware stamp mention either useless inner detail help";
+var mnemonic = "protect upper rural execute duty noble satisfy despair day coil frame thunder";

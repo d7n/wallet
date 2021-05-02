@@ -1,1 +1,1 @@
-var mnemonic = "wonder photo sun solar east defense crash festival clever razor wave tail";
+var mnemonic = "half jeans thunder cream narrow crouch drill wrist young belt nature endless";

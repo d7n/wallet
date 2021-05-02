@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow chicken club bounce delay clock virus green broom carry install panda";
+var mnemonic = "duck enemy puzzle rude cram hybrid simple punch truck exit cement exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "social wall cabbage icon yard apology aware excite elephant bleak crunch elite";
+var mnemonic = "debris future gloom success cage punch inner copy title weather fence flower";

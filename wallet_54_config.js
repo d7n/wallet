@@ -1,1 +1,1 @@
-var mnemonic = "radio stamp bleak cable symptom cake outdoor egg theory anchor adjust warfare";
+var mnemonic = "become script ignore come leopard next random hen swear slot idea frame";

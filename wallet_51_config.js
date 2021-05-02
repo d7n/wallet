@@ -1,1 +1,1 @@
-var mnemonic = "next aspect flavor edge easy soap power spin type slab rabbit asset";
+var mnemonic = "chuckle diet middle reject innocent boss around pudding muffin easy ski voyage";

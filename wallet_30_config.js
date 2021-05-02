@@ -1,1 +1,1 @@
-var mnemonic = "merge bike exact seed huge coyote nest clarify arctic visa tissue mutual";
+var mnemonic = "laugh tenant sketch toward chef high jungle erosion coyote age clever enact";

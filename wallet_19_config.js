@@ -1,1 +1,1 @@
-var mnemonic = "garbage subject chunk toss ride tuna bunker three march lion truth drama";
+var mnemonic = "pizza mimic budget picture curious journey submit under bread divorce burger naive";

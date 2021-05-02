@@ -1,1 +1,1 @@
-var mnemonic = "express deliver liquid census monster mother recycle situate antique barely awful soldier";
+var mnemonic = "logic hint spike beauty rose online endless mystery coach model tragic again";
