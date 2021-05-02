@@ -1,1 +1,1 @@
-var mnemonic = "much use fossil flee end tilt broom transfer input baby crime tuna";
+var mnemonic = "giant green unusual flag inhale artist quantum similar type faint frost empower";

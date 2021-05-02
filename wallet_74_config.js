@@ -1,1 +1,1 @@
-var mnemonic = "around silk fluid swim second joke say peace rule ticket grace dentist";
+var mnemonic = "olympic whale orchard leg trash scare acquire odor illegal gentle woman leg";

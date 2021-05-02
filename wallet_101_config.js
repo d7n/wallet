@@ -1,1 +1,1 @@
-var mnemonic = "plastic uphold owner soup sick skirt awesome roast nasty dose debate horn";
+var mnemonic = "gaze erosion powder bullet win win brain analyst exile coconut frozen middle";

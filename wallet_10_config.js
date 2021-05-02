@@ -1,1 +1,1 @@
-var mnemonic = "cradle nut curious diet diary unveil dune burden make ivory silver old";
+var mnemonic = "bitter tray patrol grain toast second control spike enforce hub exhaust buffalo";

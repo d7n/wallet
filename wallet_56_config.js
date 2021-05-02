@@ -1,1 +1,1 @@
-var mnemonic = "gaze floor flip diamond arch depart almost diary lecture away penalty mystery";
+var mnemonic = "club base sphere motion vacuum long asset subway awesome cause metal mystery";

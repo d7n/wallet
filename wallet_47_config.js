@@ -1,1 +1,1 @@
-var mnemonic = "decade alpha lizard penalty attend only enhance physical primary volume found elephant";
+var mnemonic = "glare brief cruel two relief mail liar already climb gap sort vanish";

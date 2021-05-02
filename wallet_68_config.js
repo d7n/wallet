@@ -1,1 +1,1 @@
-var mnemonic = "pilot enough win leisure gold target purchase ankle animal raise skill lounge";
+var mnemonic = "uncover gossip unusual coil guitar ethics salad street fire undo crystal leg";

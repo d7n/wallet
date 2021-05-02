@@ -1,1 +1,1 @@
-var mnemonic = "cloth fence sign walk false sponsor salt rail rule hollow cruise tube";
+var mnemonic = "model orphan autumn night phrase average off connect leave sponsor endless enough";

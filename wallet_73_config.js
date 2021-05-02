@@ -1,1 +1,1 @@
-var mnemonic = "stairs split ordinary fatal zero warfare crumble coin crunch jump squeeze choose";
+var mnemonic = "gloom orient theory salad digital behave head announce expose foil merit arrow";

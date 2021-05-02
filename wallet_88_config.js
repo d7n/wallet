@@ -1,1 +1,1 @@
-var mnemonic = "local add fever enter session tape net silver two over divorce pond";
+var mnemonic = "key second worry math electric fragile desk funny hour banner move picnic";

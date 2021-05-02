@@ -1,1 +1,1 @@
-var mnemonic = "lazy trend rich asthma busy view vocal year box alarm setup fiber";
+var mnemonic = "leopard sword fault plunge amateur sell drift tonight famous wheat absent fall";

@@ -1,1 +1,1 @@
-var mnemonic = "fat autumn argue grass shoot paper quote address asset grape they glimpse";
+var mnemonic = "hover snow soda beauty celery utility fatigue dinosaur inner camp excuse auction";

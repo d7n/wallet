@@ -1,1 +1,1 @@
-var mnemonic = "athlete pistol enough bulk soccer regret emotion cement antenna pencil melody modify";
+var mnemonic = "stuff lesson gospel miss mail easily speed shove month bleak eternal buffalo";

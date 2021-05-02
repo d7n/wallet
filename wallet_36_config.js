@@ -1,1 +1,1 @@
-var mnemonic = "effort because sugar crop struggle city seed bike type impact genius brush";
+var mnemonic = "mad just choose visit twelve doctor margin divorce cross dice spatial knock";

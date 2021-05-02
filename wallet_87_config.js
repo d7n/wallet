@@ -1,1 +1,1 @@
-var mnemonic = "shell spy fever bitter quarter glance lawn actor cube deer pupil ridge";
+var mnemonic = "autumn witness history minimum student evil upon banana action oppose slim tower";

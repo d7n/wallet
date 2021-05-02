@@ -1,1 +1,1 @@
-var mnemonic = "erase joy rough skate primary have chronic design lava cycle humble wood";
+var mnemonic = "text genius remember guilt memory lawn useful crowd ice embody narrow jeans";

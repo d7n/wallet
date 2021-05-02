@@ -1,1 +1,1 @@
-var mnemonic = "edit sell jazz dawn start turtle depend weapon breeze neither toward walk";
+var mnemonic = "wide duck service gesture famous material interest combine maple prepare project fade";

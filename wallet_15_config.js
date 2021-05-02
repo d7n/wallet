@@ -1,1 +1,1 @@
-var mnemonic = "mesh bright rebuild deputy trap unfair spin custom comfort flag fire ignore";
+var mnemonic = "mechanic throw practice saddle fun admit detail buzz wave slush capable damage";

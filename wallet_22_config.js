@@ -1,1 +1,1 @@
-var mnemonic = "response visit chuckle repair favorite kit seminar leisure moral open thing potato";
+var mnemonic = "pond limit hedgehog weather space purse beach year diet insane canyon example";

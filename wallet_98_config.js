@@ -1,1 +1,1 @@
-var mnemonic = "wisdom provide era swamp stock prevent story approve betray deny party raw";
+var mnemonic = "tuition salad donkey cinnamon spice impose nest cash flip have sweet kangaroo";

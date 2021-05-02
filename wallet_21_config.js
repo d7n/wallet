@@ -1,1 +1,1 @@
-var mnemonic = "finish spot hunt valid leg loan eight jar female resemble step choose";
+var mnemonic = "invest method young pilot drama increase case vessel high potato portion model";

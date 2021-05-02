@@ -1,1 +1,1 @@
-var mnemonic = "giggle enact crater winner orient clump diagram sport puppy chase sausage paddle";
+var mnemonic = "earth butter property chimney unaware already mobile flight sun cat dentist scheme";

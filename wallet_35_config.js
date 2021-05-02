@@ -1,1 +1,1 @@
-var mnemonic = "ecology trust wrap actual wire food coyote dress spring update measure romance";
+var mnemonic = "buffalo insect note attract sudden eager farm topple defense help vast cloth";

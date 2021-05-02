@@ -1,1 +1,1 @@
-var mnemonic = "omit patrol goat pizza vicious cabbage blur cancel federal exotic spike regret";
+var mnemonic = "author loud obtain baby donor thunder vehicle suffer coffee obscure isolate hungry";

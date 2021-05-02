@@ -1,1 +1,1 @@
-var mnemonic = "success differ glass moral bag speed wisdom aware love library magnet wealth";
+var mnemonic = "floor you earn fiscal fresh time pull second achieve toe venue sugar";

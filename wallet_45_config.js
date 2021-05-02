@@ -1,1 +1,1 @@
-var mnemonic = "ginger animal aisle sorry brave detect curtain crisp click sort lottery buzz";
+var mnemonic = "cloud brisk frost merry embrace shove inhale dynamic acoustic recipe process tray";

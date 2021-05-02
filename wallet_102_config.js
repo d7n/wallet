@@ -1,1 +1,1 @@
-var mnemonic = "what search wine unaware confirm addict clinic leader guard cherry uncle ladder";
+var mnemonic = "fine tower sweet remind afraid subway panic digital bundle coach goose isolate";

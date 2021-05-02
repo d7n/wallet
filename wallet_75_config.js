@@ -1,1 +1,1 @@
-var mnemonic = "there live multiply fatigue stairs drop betray chair search neutral grunt pepper";
+var mnemonic = "mushroom spoil seven gold maid push make isolate great bonus dinner core";

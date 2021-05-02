@@ -1,1 +1,1 @@
-var mnemonic = "amateur guess repair select brown impose measure victory build scissors purchase pretty";
+var mnemonic = "narrow update ranch lock tag whale will cry rib typical switch control";

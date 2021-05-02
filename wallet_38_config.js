@@ -1,1 +1,1 @@
-var mnemonic = "fuel alert awake nose deny inch fiction voyage double praise vintage place";
+var mnemonic = "potato hedgehog crucial artwork code nuclear field illegal avocado age opera caution";

@@ -1,1 +1,1 @@
-var mnemonic = "width usual guitar trigger stuff wrist hobby shrimp outdoor phrase rebel dentist";
+var mnemonic = "mosquito then tool script require can they gadget feed sure firm hedgehog";

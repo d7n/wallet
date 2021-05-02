@@ -1,1 +1,1 @@
-var mnemonic = "ship dentist resource melt stem visual crash belt unhappy december skate cattle";
+var mnemonic = "quote bus visa bullet once normal crop elder behave surge long sting";

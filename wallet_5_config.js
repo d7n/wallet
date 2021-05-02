@@ -1,1 +1,1 @@
-var mnemonic = "swift vessel mass profit arctic long index upgrade first shell fetch finish";
+var mnemonic = "captain discover depth good talent master scrap guilt feature ball maze nuclear";

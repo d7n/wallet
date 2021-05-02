@@ -1,1 +1,1 @@
-var mnemonic = "glow aware whip hard transfer mention silent taste suggest speak various input";
+var mnemonic = "soup tuition govern hazard outdoor include jacket pottery guess fun normal library";

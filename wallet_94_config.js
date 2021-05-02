@@ -1,1 +1,1 @@
-var mnemonic = "trial ghost gap burst party accident turkey situate asset often involve okay";
+var mnemonic = "subject vanish rough push pact bracket street movie awful tube used tenant";

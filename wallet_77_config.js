@@ -1,1 +1,1 @@
-var mnemonic = "burst decline anxiety same nominee chuckle process marble proof panic scatter dizzy";
+var mnemonic = "liar creek gain code choose horror host punch regular evolve insect mixture";

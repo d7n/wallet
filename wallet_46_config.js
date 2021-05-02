@@ -1,1 +1,1 @@
-var mnemonic = "bleak arch glove gesture style chuckle load giggle tag female decorate depend";
+var mnemonic = "sustain fresh million tomato ticket copper good old surge ocean soldier skate";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone avoid wait result guide renew fragile curious glide early gate unfold";
+var mnemonic = "bench polar cup object benefit rib demand fiction sell night shift roast";

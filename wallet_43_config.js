@@ -1,1 +1,1 @@
-var mnemonic = "sketch weird accident foot pole hello minute alarm pause fault cargo vast";
+var mnemonic = "ice emerge staff hole session loan soft drop culture common trophy sight";

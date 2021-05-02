@@ -1,1 +1,1 @@
-var mnemonic = "cute liquid gaze north hard prison moon snake earth alone ceiling off";
+var mnemonic = "electric shell bid live upper business pigeon message tunnel scissors cargo wine";

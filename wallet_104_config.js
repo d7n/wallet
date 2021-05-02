@@ -1,1 +1,1 @@
-var mnemonic = "replace torch angry doll tuition final vibrant target runway bargain toilet pact";
+var mnemonic = "catalog swap goat document captain copy unfold once shield useful excite bunker";

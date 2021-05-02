@@ -1,1 +1,1 @@
-var mnemonic = "claw kid ordinary adjust fresh author task knee into industry crater recipe";
+var mnemonic = "palace discover burst risk rare letter universe snack vast depth tiger wrap";

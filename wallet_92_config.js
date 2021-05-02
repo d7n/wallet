@@ -1,1 +1,1 @@
-var mnemonic = "approve universe song artwork owner enrich document main surround post resist brave";
+var mnemonic = "poet bring start glove invest filter sadness energy spring scene animal crew";

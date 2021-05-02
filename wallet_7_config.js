@@ -1,1 +1,1 @@
-var mnemonic = "gather enable foam tenant lazy design lava audit immense safe bleak captain";
+var mnemonic = "join stem kidney ethics pulp aerobic inject silver canyon chat curtain add";

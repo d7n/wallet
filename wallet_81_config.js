@@ -1,1 +1,1 @@
-var mnemonic = "rate stadium pencil lens service supreme sting resource stomach gauge announce ordinary";
+var mnemonic = "seed tragic later poverty prepare trim divert warm gesture theme erupt news";

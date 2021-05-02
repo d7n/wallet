@@ -1,1 +1,1 @@
-var mnemonic = "thrive nose swap tail demise pass vault entry crystal figure govern soft";
+var mnemonic = "correct heart banana zebra logic gentle gym waste garment memory path punch";

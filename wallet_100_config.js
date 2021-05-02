@@ -1,1 +1,1 @@
-var mnemonic = "giant snake bulb flavor busy kid later wonder illness school worth need";
+var mnemonic = "draw tool mosquito file latin defense account trim world say avoid then";

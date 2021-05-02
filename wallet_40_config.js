@@ -1,1 +1,1 @@
-var mnemonic = "monkey mask sea bulb scout project embark enrich shadow chief tobacco hour";
+var mnemonic = "employ wear wool funny miss permit arch click deal possible banner issue";

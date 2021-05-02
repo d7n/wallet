@@ -1,1 +1,1 @@
-var mnemonic = "table gun shock census creek real immense shock ability brush old rose";
+var mnemonic = "usual hand tail tunnel cook swarm junior gold planet bone lens twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "differ grocery car cherry option cradle royal group lyrics phrase stove file";
+var mnemonic = "length this hope leader paddle carpet away ketchup million segment extra exercise";

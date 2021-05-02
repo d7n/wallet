@@ -1,1 +1,1 @@
-var mnemonic = "filter parade evidence lucky worth manage industry clay morning allow heavy topple";
+var mnemonic = "evolve pole club umbrella ranch noise tongue case escape imitate art decide";

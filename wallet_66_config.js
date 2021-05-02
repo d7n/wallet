@@ -1,1 +1,1 @@
-var mnemonic = "sick system erupt latin suggest almost lend inherit typical bronze also exhibit";
+var mnemonic = "onion reunion robust atom witness jaguar figure letter edit edge much little";

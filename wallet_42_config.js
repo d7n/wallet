@@ -1,1 +1,1 @@
-var mnemonic = "trim mouse dismiss cube photo hard speed arch harbor lady core need";
+var mnemonic = "behave tiny early cousin drive category mountain pulp armor derive today weekend";

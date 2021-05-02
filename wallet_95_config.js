@@ -1,1 +1,1 @@
-var mnemonic = "believe imitate lazy error smart ride about derive gold range chapter special";
+var mnemonic = "that drama danger fan crack unaware east bullet flock post canyon defense";

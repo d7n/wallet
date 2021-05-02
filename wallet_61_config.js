@@ -1,1 +1,1 @@
-var mnemonic = "guess mistake panda aerobic gospel mother trust side repair wine evil dance";
+var mnemonic = "pumpkin tornado vehicle globe artist pulse else post worth myth general imitate";

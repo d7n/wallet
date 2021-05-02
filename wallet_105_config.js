@@ -1,1 +1,1 @@
-var mnemonic = "talent fiscal friend exact puzzle diesel make wisdom insect advice best slice";
+var mnemonic = "future include cradle resource protect dirt nose valid phrase pulse goose later";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom peasant genre patient seven icon focus minor disease album hawk clarify";
+var mnemonic = "admit soul often shadow chase wash blush gravity ten dignity embrace false";

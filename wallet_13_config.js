@@ -1,1 +1,1 @@
-var mnemonic = "law umbrella beyond spirit antenna entry close turn enrich life truly image";
+var mnemonic = "olympic cheap child before frown goat wink require snack luggage fancy minor";

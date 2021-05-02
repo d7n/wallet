@@ -1,1 +1,1 @@
-var mnemonic = "naive swarm strike good tray toilet patient firm act discover helmet exercise";
+var mnemonic = "avoid swarm quality session also job antenna chat crane lend fog upset";

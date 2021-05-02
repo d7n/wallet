@@ -1,1 +1,1 @@
-var mnemonic = "civil kiss employ coin wasp near pen field setup shell dismiss curtain";
+var mnemonic = "output matter tuition theme pause room sort cloth trophy bamboo rate pyramid";

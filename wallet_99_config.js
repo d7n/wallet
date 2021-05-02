@@ -1,1 +1,1 @@
-var mnemonic = "demand spider debris scatter game sign fun snow fix dial spot vacuum";
+var mnemonic = "family loyal relief aunt update keen jungle return erosion lucky bundle destroy";

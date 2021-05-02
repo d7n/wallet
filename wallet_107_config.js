@@ -1,1 +1,1 @@
-var mnemonic = "guide card leopard taxi swallow knock regular select cable result pencil seminar";
+var mnemonic = "grief city candy capable game yellow exit motion bright wisdom culture valley";

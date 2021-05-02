@@ -1,1 +1,1 @@
-var mnemonic = "village web check owner super worry elbow match leisure tattoo strike apology";
+var mnemonic = "act element ivory spy zebra network inherit shallow cable coyote pill impose";

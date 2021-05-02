@@ -1,1 +1,1 @@
-var mnemonic = "correct peanut series voyage process share employ casino kidney swamp toast satoshi";
+var mnemonic = "step bargain action shoe apology balcony advice brush eight rail enhance warm";

@@ -1,1 +1,1 @@
-var mnemonic = "library ordinary prison vicious fun corn lend lake entry region cruise tag";
+var mnemonic = "salt spice term journey mention spell trend cube duck diagram wine gadget";

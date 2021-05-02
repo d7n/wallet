@@ -1,1 +1,1 @@
-var mnemonic = "cloud taste glance enable cushion shuffle ahead vehicle weasel only parent decade";
+var mnemonic = "august stand firm reduce copper pilot weird resist envelope bachelor measure guess";

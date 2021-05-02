@@ -1,1 +1,1 @@
-var mnemonic = "remove strategy dose regret iron spice grit brisk position plunge cool quiz";
+var mnemonic = "erode cotton bulb scan trouble bullet toy slogan video promote armed home";

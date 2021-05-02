@@ -1,1 +1,1 @@
-var mnemonic = "gown quick indoor jeans hotel planet assist corn faith endless either parrot";
+var mnemonic = "law entire grab pink swear flag mom gravity cube void outside mistake";

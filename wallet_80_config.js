@@ -1,1 +1,1 @@
-var mnemonic = "antenna relax fortune trend chapter marriage tortoise gospel ozone scrap frog shrimp";
+var mnemonic = "cube sick screen juice tobacco various lyrics universe aerobic dismiss century three";

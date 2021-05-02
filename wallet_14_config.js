@@ -1,1 +1,1 @@
-var mnemonic = "laundry tape fancy identify sponsor odor fiscal burst solid coil trip monkey";
+var mnemonic = "phrase inch lazy business bacon until before dinner cabbage exact bless tattoo";

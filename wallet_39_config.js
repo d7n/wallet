@@ -1,1 +1,1 @@
-var mnemonic = "leave gown kite cinnamon planet benefit furnace rude carry second wage wall";
+var mnemonic = "future fit roast hazard infant hurdle small casino certain base infant gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "rice venue trim marble other merry viable divorce license buddy spoon park";
+var mnemonic = "ladder goose mimic stage digital card stadium almost install shield glimpse ask";

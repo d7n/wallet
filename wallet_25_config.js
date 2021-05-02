@@ -1,1 +1,1 @@
-var mnemonic = "session sister immense stumble brand world poet blade into hotel modify dream";
+var mnemonic = "fever icon talk shoe print pudding old glue member local swap repair";

@@ -1,1 +1,1 @@
-var mnemonic = "armor shoe print age peace lab retreat route gas arrest subway brass";
+var mnemonic = "magnet gym satisfy turtle large prevent wink cruel begin bulk black win";

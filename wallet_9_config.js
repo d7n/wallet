@@ -1,1 +1,1 @@
-var mnemonic = "drill mixed abstract staff wire rather sick switch mind frog stumble hour";
+var mnemonic = "dizzy arch harvest supreme come purity swarm stereo south hawk month clip";

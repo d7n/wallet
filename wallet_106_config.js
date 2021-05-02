@@ -1,1 +1,1 @@
-var mnemonic = "tunnel nature puppy addict episode profit genius final ski found west wire";
+var mnemonic = "minor library snow provide raven game float current profit utility canyon boring";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore open enforce unique elite captain obtain spoon soccer bird warfare betray";
+var mnemonic = "area enjoy cook tomato gas forget glimpse cousin north reason orphan senior";

@@ -1,1 +1,1 @@
-var mnemonic = "journey design engine wet ramp describe fall canvas lesson route neck kiwi";
+var mnemonic = "elder fatal struggle teach guilt bargain nut pull labor earth cup body";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson cousin match token happy diamond cycle act ankle man wood valley";
+var mnemonic = "multiply curve junior foam miracle need someone pulp zone assault scissors doctor";

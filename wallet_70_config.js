@@ -1,1 +1,1 @@
-var mnemonic = "kiwi reunion entry kiss play tower holiday actual true tomorrow sorry design";
+var mnemonic = "sauce toss gate divide trash cake ahead entry ritual all alien ill";

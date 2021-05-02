@@ -1,1 +1,1 @@
-var mnemonic = "reveal pink lounge object column kite phone focus assist clown alter scrub";
+var mnemonic = "design merge possible hospital arrange render sing alter entire dawn baby pistol";

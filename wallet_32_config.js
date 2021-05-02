@@ -1,1 +1,1 @@
-var mnemonic = "quote proud coffee sibling mix skull tone flee trial raccoon drastic banana";
+var mnemonic = "ginger brisk ethics lunar spatial scheme pig shiver pull alpha carbon eight";

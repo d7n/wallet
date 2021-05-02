@@ -1,1 +1,1 @@
-var mnemonic = "cricket select ritual defy peanut gate capital token process aspect atom subway";
+var mnemonic = "game husband foot harvest toddler laugh canal wreck april where clinic balcony";

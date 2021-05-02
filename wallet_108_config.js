@@ -1,1 +1,1 @@
-var mnemonic = "belt tuna squeeze concert motor canvas pill isolate blind cloud shield ghost";
+var mnemonic = "exchange essence gun brick alley drive grant leader give olympic west traffic";

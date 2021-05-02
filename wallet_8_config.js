@@ -1,1 +1,1 @@
-var mnemonic = "social sketch opinion hammer text labor jungle nice owner gloom oblige pact";
+var mnemonic = "diamond cupboard exact elegant airport brown coconut winner donor scorpion jazz window";

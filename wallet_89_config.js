@@ -1,1 +1,1 @@
-var mnemonic = "almost riot nose outer alarm brief gun chuckle hotel monkey loud tunnel";
+var mnemonic = "measure thumb craft law gain problem sibling inch all ozone police empower";

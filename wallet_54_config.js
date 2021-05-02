@@ -1,1 +1,1 @@
-var mnemonic = "knife runway onion brass advance gas crime toss marriage curtain update oval";
+var mnemonic = "winner oil knock secret warfare small roof draw canvas chronic mother volcano";

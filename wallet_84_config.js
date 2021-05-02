@@ -1,1 +1,1 @@
-var mnemonic = "burger main mirror barrel industry awake write unfair bird under dry mushroom";
+var mnemonic = "slender pelican bar bag large steak fluid dutch income toast pizza almost";

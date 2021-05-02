@@ -1,1 +1,1 @@
-var mnemonic = "feature unaware lesson deer mass siren poem tomato vital chair assault develop";
+var mnemonic = "acoustic afraid property kid uniform bench notice suspect soccer genuine delay cover";

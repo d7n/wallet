@@ -1,1 +1,1 @@
-var mnemonic = "vague deal already floor used path fiber any trash foam teach close";
+var mnemonic = "guide title coach enforce weird predict noodle true stadium valid monkey grow";
