@@ -1,1 +1,1 @@
-var mnemonic = "excuse once abandon rent carpet bind purpose peasant oppose delay only idle";
+var mnemonic = "boost net boss aisle region artwork atom practice only judge quote park";

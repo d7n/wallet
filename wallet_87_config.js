@@ -1,1 +1,1 @@
-var mnemonic = "tornado target dog genius romance heart begin swim draw treat also stamp";
+var mnemonic = "turkey hard cake purpose swim media escape sketch yard glad sing lawn";

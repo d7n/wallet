@@ -1,1 +1,1 @@
-var mnemonic = "orbit forward toddler cactus service faculty tattoo elegant economy off silver glare";
+var mnemonic = "broom radio scare butter middle rotate magic gentle eye sad mesh pizza";

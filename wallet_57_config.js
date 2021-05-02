@@ -1,1 +1,1 @@
-var mnemonic = "sleep theory panda topic annual keen emotion ticket inflict diet theory shrimp";
+var mnemonic = "fresh dolphin client chimney hard hybrid manual absurd rabbit agent finger screen";

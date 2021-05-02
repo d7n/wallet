@@ -1,1 +1,1 @@
-var mnemonic = "unfold glide route mistake flash expect window actual buddy champion tell they";
+var mnemonic = "seed fire hollow clip glad island worry capable discover letter scorpion tuna";

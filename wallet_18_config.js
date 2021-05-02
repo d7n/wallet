@@ -1,1 +1,1 @@
-var mnemonic = "sort toe submit chaos movie pave helmet fish situate place more glass";
+var mnemonic = "ordinary awful remind dilemma enforce eager sausage flock want female hint bless";

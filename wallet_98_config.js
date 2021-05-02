@@ -1,1 +1,1 @@
-var mnemonic = "prepare ceiling convince leaf spirit area blur daughter ostrich glow march pull";
+var mnemonic = "setup educate shaft woman raise below state crazy lizard solve join habit";

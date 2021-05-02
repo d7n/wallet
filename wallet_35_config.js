@@ -1,1 +1,1 @@
-var mnemonic = "office luxury popular situate jungle whisper spot when region lazy husband dad";
+var mnemonic = "wisdom stable find beach fiction horror offer dose oven magnet dune fog";

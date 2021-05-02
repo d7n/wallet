@@ -1,1 +1,1 @@
-var mnemonic = "pledge beef trumpet marriage crazy dolphin agent erase core sign ceiling winter";
+var mnemonic = "duty happy rifle rail item insane measure diary bulb cage black acoustic";

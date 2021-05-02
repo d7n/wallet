@@ -1,1 +1,1 @@
-var mnemonic = "trim utility manage section hint fox gym miss glide until junk vessel";
+var mnemonic = "video iron cross monkey amateur strategy awkward carpet hurt grow dice wine";

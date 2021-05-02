@@ -1,1 +1,1 @@
-var mnemonic = "kick bitter extra climb fuel coyote breeze diesel upset spoil demand ugly";
+var mnemonic = "tennis duty phrase someone movie other lucky mail pool sand twelve penalty";

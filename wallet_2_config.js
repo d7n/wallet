@@ -1,1 +1,1 @@
-var mnemonic = "obvious menu merry figure prefer crush cannon pioneer below proud lyrics spare";
+var mnemonic = "obtain outside license code fade still shoulder potato web security casual slight";

@@ -1,1 +1,1 @@
-var mnemonic = "laptop own hint boss concert report hurt tribe sponsor acid joy eye";
+var mnemonic = "winter cup board entire school lamp fly social guitar gloom find lion";

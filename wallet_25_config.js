@@ -1,1 +1,1 @@
-var mnemonic = "weekend depart vessel solve valley pride shiver squeeze dream liar shuffle student";
+var mnemonic = "abstract expand license athlete air unfold evoke involve effort stumble gift market";

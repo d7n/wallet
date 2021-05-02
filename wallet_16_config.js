@@ -1,1 +1,1 @@
-var mnemonic = "attack exchange giant coast alert tank dignity rocket amused amused day jaguar";
+var mnemonic = "surround high neutral spread crash hidden wave shine unique point lens limit";

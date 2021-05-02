@@ -1,1 +1,1 @@
-var mnemonic = "general trap valley coyote milk key neck silly orbit valve street ketchup";
+var mnemonic = "gossip online chunk situate title solve picnic summer often agent ten situate";

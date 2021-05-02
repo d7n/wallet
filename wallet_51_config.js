@@ -1,1 +1,1 @@
-var mnemonic = "suggest provide science style twelve foster connect carpet happy desk soccer rent";
+var mnemonic = "object goat unveil diary cinnamon lava august library stock cotton essence dolphin";

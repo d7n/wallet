@@ -1,1 +1,1 @@
-var mnemonic = "error recycle left menu manage melt option census curtain fatal brown car";
+var mnemonic = "rookie crumble slice crouch vapor kingdom spy game figure pizza system bulb";

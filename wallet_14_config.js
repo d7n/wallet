@@ -1,1 +1,1 @@
-var mnemonic = "wish mirror crush fragile rain alley hope volume hen artefact casual kitchen";
+var mnemonic = "almost raw option powder nut zebra scorpion hint venue slide glow culture";

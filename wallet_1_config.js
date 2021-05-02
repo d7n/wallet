@@ -1,1 +1,1 @@
-var mnemonic = "plunge measure clump enrich song average cave alert kiss allow pig ordinary";
+var mnemonic = "ring banner cook become curious blood armor thrive holiday clever fault chicken";

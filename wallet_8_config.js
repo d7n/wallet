@@ -1,1 +1,1 @@
-var mnemonic = "expand sure loud slight creek industry credit imitate casual task fade fly";
+var mnemonic = "eight estate elbow purpose differ hill huge cost frown second output neither";

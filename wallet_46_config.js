@@ -1,1 +1,1 @@
-var mnemonic = "mechanic cute network sorry leaf unfair inmate brush unusual rocket naive another";
+var mnemonic = "pilot sound face host lab load first indicate zoo move orphan enact";

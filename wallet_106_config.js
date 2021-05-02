@@ -1,1 +1,1 @@
-var mnemonic = "awesome choose afford oven excite chapter brave pigeon bulb noise spatial liberty";
+var mnemonic = "slot option stock bacon usual student pair banner capable laptop dentist puppy";

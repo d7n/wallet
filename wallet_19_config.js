@@ -1,1 +1,1 @@
-var mnemonic = "parade oyster float lumber bulk top decrease ignore expire blind install debate";
+var mnemonic = "fetch behave initial cool symptom pluck scissors board parrot twice pill below";

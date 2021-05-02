@@ -1,1 +1,1 @@
-var mnemonic = "case debate subject auto mistake exchange frequent pave differ sphere bitter leaf";
+var mnemonic = "poem wise okay decrease icon beauty mask one bench ostrich chimney brain";

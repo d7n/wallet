@@ -1,1 +1,1 @@
-var mnemonic = "buddy brisk decorate news oval time strong satoshi theory celery pact come";
+var mnemonic = "deposit impose furnace wolf harvest illness helmet bring surround health dirt choose";

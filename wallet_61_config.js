@@ -1,1 +1,1 @@
-var mnemonic = "dawn coral frown indicate disorder wide novel style ankle lyrics thrive rent";
+var mnemonic = "fat arrest health math riot coil moral maple garment churn rescue aspect";

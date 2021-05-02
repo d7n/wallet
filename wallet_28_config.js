@@ -1,1 +1,1 @@
-var mnemonic = "desk echo bone learn curve cheese seat direct lizard soul faint cluster";
+var mnemonic = "isolate family sentence install upset sentence glove explain special tomato provide witness";

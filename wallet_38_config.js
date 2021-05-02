@@ -1,1 +1,1 @@
-var mnemonic = "thank suit melody imitate good inform daring shallow body clog network penalty";
+var mnemonic = "scrub apart mountain light second index physical deliver hint glass indicate member";

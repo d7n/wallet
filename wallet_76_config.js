@@ -1,1 +1,1 @@
-var mnemonic = "wagon split cage pole glue rookie odor romance mirror stock cinnamon grant";
+var mnemonic = "vendor between chief art wait crazy soup lawsuit rail enjoy horn toilet";

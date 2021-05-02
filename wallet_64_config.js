@@ -1,1 +1,1 @@
-var mnemonic = "orphan enjoy wire luxury junior hamster blood purse entire local trophy canal";
+var mnemonic = "leg adult abandon again large donor motion wedding gauge flock modify edge";

@@ -1,1 +1,1 @@
-var mnemonic = "pride hand hazard unable brick cousin huge million test eagle twin record";
+var mnemonic = "alley good useful escape jar task enjoy suspect reduce axis magic image";

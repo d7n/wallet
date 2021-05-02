@@ -1,1 +1,1 @@
-var mnemonic = "gadget life myself need brick tell soldier swift surprise weekend soon piano";
+var mnemonic = "alert spin hover toy season mushroom uncover window thumb two carpet pet";

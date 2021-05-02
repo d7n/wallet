@@ -1,1 +1,1 @@
-var mnemonic = "false attitude hard radio foam bullet private label select elder cry sense";
+var mnemonic = "fitness collect any imitate salmon repeat liar crater stadium hotel head snack";

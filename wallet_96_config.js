@@ -1,1 +1,1 @@
-var mnemonic = "ethics cloud above property hint panic leisure detail charge question canal infant";
+var mnemonic = "skate know guitar soap little use rapid cupboard monster jaguar romance term";

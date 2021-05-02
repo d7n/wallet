@@ -1,1 +1,1 @@
-var mnemonic = "fury mistake tray muffin glove slot follow excuse enrich output question always";
+var mnemonic = "detect onion wisdom air pledge easily rifle menu special attend crystal rain";

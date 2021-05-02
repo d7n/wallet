@@ -1,1 +1,1 @@
-var mnemonic = "person nominee ginger kite fatigue share south capital menu service ice proof";
+var mnemonic = "crater sun debris duck high broccoli wise box master talent rubber noble";

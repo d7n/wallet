@@ -1,1 +1,1 @@
-var mnemonic = "pencil slush ignore bright disagree calm lemon fluid act chief adapt focus";
+var mnemonic = "connect alcohol diesel lamp matter ask crunch arrow motor alarm awful subway";

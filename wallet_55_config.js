@@ -1,1 +1,1 @@
-var mnemonic = "casino kangaroo age pulse mule very mix mimic attack forum beach dry";
+var mnemonic = "above age pony hamster festival oblige enjoy lion toss slow mean mixture";

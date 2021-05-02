@@ -1,1 +1,1 @@
-var mnemonic = "atom tent chronic situate poverty original erase sibling divert confirm whale must";
+var mnemonic = "expire blouse spawn space eternal rabbit creek thunder ripple toast exercise zero";

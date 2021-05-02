@@ -1,1 +1,1 @@
-var mnemonic = "combine fog fix orchard spawn example nut donkey focus shy option afraid";
+var mnemonic = "lyrics need hip orchard hope muffin fall table nephew dolphin blossom describe";

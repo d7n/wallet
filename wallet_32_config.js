@@ -1,1 +1,1 @@
-var mnemonic = "ice deposit aim month warfare maple bus reunion comfort wrestle random else";
+var mnemonic = "advance capital festival season pear egg road typical fitness decorate guitar inject";

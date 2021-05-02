@@ -1,1 +1,1 @@
-var mnemonic = "upper ecology slim buzz fiction meat bulk hundred canoe menu pill buyer";
+var mnemonic = "obvious nature cross upper cradle jacket brisk useless second grass menu matter";

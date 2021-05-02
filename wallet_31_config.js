@@ -1,1 +1,1 @@
-var mnemonic = "cash insane earn despair fiscal share supply bright satisfy close cannon universe";
+var mnemonic = "lunch useful atom beef joke unfold parrot detail rail ticket off version";

@@ -1,1 +1,1 @@
-var mnemonic = "debris crowd brush copy blind equal toss dash hollow forum true hawk";
+var mnemonic = "ozone cheap science duty ball prison arrange repair parrot error saddle firm";

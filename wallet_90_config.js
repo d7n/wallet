@@ -1,1 +1,1 @@
-var mnemonic = "grass organ wheel sleep wire stadium warm gloom deposit athlete nominee find";
+var mnemonic = "hotel patch kidney cram rice mind fold boss hope elite share wet";

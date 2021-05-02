@@ -1,1 +1,1 @@
-var mnemonic = "auto supreme imitate enter ethics melt detect fox outdoor wise peace fury";
+var mnemonic = "rhythm phrase royal near limb type smoke piano twice genre debate park";

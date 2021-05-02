@@ -1,1 +1,1 @@
-var mnemonic = "pony prize hover man run carry lens blush core peanut yard bike";
+var mnemonic = "market label between clap sad fiction tortoise crane casino green trust evil";

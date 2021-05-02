@@ -1,1 +1,1 @@
-var mnemonic = "evolve mansion echo spare wrap snap train output wisdom real top pole";
+var mnemonic = "own number gravity frog pole frog spirit broccoli cement problem enhance pony";

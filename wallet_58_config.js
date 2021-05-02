@@ -1,1 +1,1 @@
-var mnemonic = "control viable truck govern wave asset lizard neither island run bid page";
+var mnemonic = "sight tiger fee forum old course speak mom situate rate invest race";

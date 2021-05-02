@@ -1,1 +1,1 @@
-var mnemonic = "thing sniff rose trumpet leisure miss only tomorrow usual winter actual impact";
+var mnemonic = "judge swap gloom slow absurd image ginger diagram young uniform mistake lift";

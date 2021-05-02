@@ -1,1 +1,1 @@
-var mnemonic = "modify october pill firm average planet quarter code quarter hockey rabbit burden";
+var mnemonic = "siren fetch expect drip income sphere place labor chest demand sugar cake";

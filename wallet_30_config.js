@@ -1,1 +1,1 @@
-var mnemonic = "motion move awake meat must group cook letter admit ticket enhance oblige";
+var mnemonic = "pudding toward keen into nuclear trap cycle name inch health boost tissue";

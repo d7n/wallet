@@ -1,1 +1,1 @@
-var mnemonic = "glance situate illness enough usual cupboard desert drastic spy core test waste";
+var mnemonic = "cricket make attract lamp bridge since vacuum mean ticket course lawsuit bless";

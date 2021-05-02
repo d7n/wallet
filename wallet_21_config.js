@@ -1,1 +1,1 @@
-var mnemonic = "still panel garage much popular team gasp shoulder budget fog pudding cruel";
+var mnemonic = "car humble wing avoid ridge syrup palm science vacuum refuse north paddle";

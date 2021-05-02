@@ -1,1 +1,1 @@
-var mnemonic = "fatal arrow discover crucial scare kidney sauce slice trumpet property rule skill";
+var mnemonic = "inject rescue space surround energy useful code badge ranch artefact axis eight";

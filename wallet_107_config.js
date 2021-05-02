@@ -1,1 +1,1 @@
-var mnemonic = "cross silent innocent twist often horror legal portion decline visual mystery panda";
+var mnemonic = "brand neither access unknown theory magic blossom sport ill illegal wish nice";

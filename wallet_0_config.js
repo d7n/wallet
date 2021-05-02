@@ -1,1 +1,1 @@
-var mnemonic = "cushion pizza sample mass cruel drum parrot tank flight begin reward result";
+var mnemonic = "off enact midnight crash sample aspect city rent sleep cat airport expose";

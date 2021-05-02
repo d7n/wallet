@@ -1,1 +1,1 @@
-var mnemonic = "draft gasp shoot lawsuit trumpet reopen pact wait innocent battle minute divert";
+var mnemonic = "arrive family canvas enforce stumble situate spring tell expand bottom patrol brick";

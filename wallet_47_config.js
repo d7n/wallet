@@ -1,1 +1,1 @@
-var mnemonic = "away squeeze multiply daring tide under seminar approve soccer shield exit scatter";
+var mnemonic = "major sunset rescue divide electric over leopard genre drink furnace brief educate";

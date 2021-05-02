@@ -1,1 +1,1 @@
-var mnemonic = "grit pull icon stand cage dentist gym purity traffic uncover abandon win";
+var mnemonic = "click student panda electric auction erosion measure burden shaft swear capital corn";

@@ -1,1 +1,1 @@
-var mnemonic = "firm recall olympic imitate advance explain siege employ attract scale milk defense";
+var mnemonic = "abuse aim expand valve jewel olive concert evil borrow sunset any limb";

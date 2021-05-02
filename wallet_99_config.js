@@ -1,1 +1,1 @@
-var mnemonic = "south good eternal smart culture artwork tip beyond thought juice volcano connect";
+var mnemonic = "bottom syrup coin panther account jealous noble repeat patch together cupboard few";

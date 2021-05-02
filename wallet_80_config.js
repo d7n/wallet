@@ -1,1 +1,1 @@
-var mnemonic = "scale lunar hammer galaxy paper address credit puzzle patient pudding bonus crane";
+var mnemonic = "follow valve involve gasp echo harbor orange weekend rail bless brain tank";

@@ -1,1 +1,1 @@
-var mnemonic = "country claim thank shy voyage spoon remind come boil cave process fat";
+var mnemonic = "captain mother outdoor swift struggle horse cook dance live rebuild purse eager";

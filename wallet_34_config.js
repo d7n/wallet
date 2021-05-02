@@ -1,1 +1,1 @@
-var mnemonic = "trouble chest come tilt action whisper venture town social pool million mind";
+var mnemonic = "away neither potato input betray pool victory opera flight wage pipe walnut";

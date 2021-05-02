@@ -1,1 +1,1 @@
-var mnemonic = "front pond coconut yard lucky rail matter save opinion camp cross identify";
+var mnemonic = "cover slender marble champion battle message attend analyst half hole tunnel room";

@@ -1,1 +1,1 @@
-var mnemonic = "coil snap dad blanket maid address health supreme web coral portion alarm";
+var mnemonic = "sun hidden hospital december update escape matter pole crumble token diesel argue";

@@ -1,1 +1,1 @@
-var mnemonic = "era month refuse demise onion inherit devote prepare early turtle provide kangaroo";
+var mnemonic = "involve wheel gallery swing dry snack soldier inmate doll such what loyal";

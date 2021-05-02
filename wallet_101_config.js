@@ -1,1 +1,1 @@
-var mnemonic = "own cactus imitate cactus air orbit absorb dismiss juice hedgehog squirrel once";
+var mnemonic = "glass media bonus ocean rare rubber slogan because diet priority blood cake";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk dish crawl slender swift gallery diary clog fence armed festival weekend";
+var mnemonic = "purity dirt gym tornado famous universe hollow summer penalty oblige health palm";

@@ -1,1 +1,1 @@
-var mnemonic = "swing velvet erupt glance parrot deny horn shoot doctor owner neither excite";
+var mnemonic = "shuffle cradle print woman emerge broccoli veteran celery tragic crack crawl flight";

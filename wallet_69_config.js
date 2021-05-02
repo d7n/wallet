@@ -1,1 +1,1 @@
-var mnemonic = "antique pencil lonely select picnic black genre notable armed foil submit rapid";
+var mnemonic = "true play town crumble north goat pottery program father child hood enrich";

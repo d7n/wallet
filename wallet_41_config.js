@@ -1,1 +1,1 @@
-var mnemonic = "useful odor upper penalty soon riot evil document brain erosion solid neglect";
+var mnemonic = "funny doctor priority orphan trash inform horse image scrub moment more retreat";

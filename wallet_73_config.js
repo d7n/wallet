@@ -1,1 +1,1 @@
-var mnemonic = "endorse detail kitten boring absent say ordinary border habit bus vibrant spatial";
+var mnemonic = "sausage track pulse more core exhaust cupboard vanish month tone inhale chief";

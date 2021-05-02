@@ -1,1 +1,1 @@
-var mnemonic = "cat inner student arrange sweet shaft bid cheese upgrade tourist trust review";
+var mnemonic = "stand great shaft cruise kidney debris ocean prize six giant enlist host";

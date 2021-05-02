@@ -1,1 +1,1 @@
-var mnemonic = "reveal trial expire huge cabbage have sock parrot trim october hole width";
+var mnemonic = "cable lumber bunker dismiss define index giggle stock present ranch borrow pride";

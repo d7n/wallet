@@ -1,1 +1,1 @@
-var mnemonic = "leader claim cube input current region obvious bitter rely credit camera page";
+var mnemonic = "risk combine nerve change february camp capital service garage betray want response";

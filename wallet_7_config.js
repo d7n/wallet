@@ -1,1 +1,1 @@
-var mnemonic = "mad school dad evil twin track reward hill client exercise cost grain";
+var mnemonic = "cool siren record defense gaze destroy enable battle master junior coil syrup";

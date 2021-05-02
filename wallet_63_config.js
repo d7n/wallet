@@ -1,1 +1,1 @@
-var mnemonic = "convince sentence slow public refuse paper weekend waste tube equal unknown empty";
+var mnemonic = "quit cave cargo virus indicate orphan buddy live upgrade evidence drift expect";

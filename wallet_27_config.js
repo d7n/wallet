@@ -1,1 +1,1 @@
-var mnemonic = "certain zone jealous exercise cook upper boss seed occur sausage section crush";
+var mnemonic = "abandon nation reunion fresh afraid settle desert exist sustain glove movie spoil";

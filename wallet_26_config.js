@@ -1,1 +1,1 @@
-var mnemonic = "morning fog luggage elite fortune cute egg frequent iron owner burden food";
+var mnemonic = "place sadness treat pet still slush squeeze umbrella ecology course mammal duck";

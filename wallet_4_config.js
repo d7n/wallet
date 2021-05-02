@@ -1,1 +1,1 @@
-var mnemonic = "cream mass hint goddess adult few tattoo skull debris skill dash around";
+var mnemonic = "snack tortoise shove flavor know dinner bitter rookie another indoor tissue valid";

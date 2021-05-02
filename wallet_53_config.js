@@ -1,1 +1,1 @@
-var mnemonic = "trust asset card message bridge win patrol tourist right outdoor squeeze garbage";
+var mnemonic = "absorb attack fit horn card push behave holiday aspect crater put whip";

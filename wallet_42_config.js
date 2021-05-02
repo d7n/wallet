@@ -1,1 +1,1 @@
-var mnemonic = "language timber artist tuition seat crime practice trumpet body promote tool anxiety";
+var mnemonic = "please essence blade visit rural require arrow jealous filter frequent blood boy";

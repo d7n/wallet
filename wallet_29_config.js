@@ -1,1 +1,1 @@
-var mnemonic = "bring life anger sphere inside canal tunnel good clinic display affair dash";
+var mnemonic = "tell twist pill wire clerk isolate tunnel cart merry uphold chuckle image";

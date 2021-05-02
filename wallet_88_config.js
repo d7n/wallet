@@ -1,1 +1,1 @@
-var mnemonic = "quick state elbow legend above review magnet winter doctor crucial denial prize";
+var mnemonic = "supply edge half arrest senior sleep brief ensure favorite add bar corn";

@@ -1,1 +1,1 @@
-var mnemonic = "close wrap genre rent surround present narrow vivid urban nose crowd oak";
+var mnemonic = "engine crime intact better segment ozone burger rather evolve focus tattoo second";
