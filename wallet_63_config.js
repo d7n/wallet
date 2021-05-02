@@ -1,1 +1,1 @@
-var mnemonic = "patrol lake twice stone melody stadium final ice entry original chaos shell";
+var mnemonic = "image apple long habit island blood park clock thank federal clutch violin";

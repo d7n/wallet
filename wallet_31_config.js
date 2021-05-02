@@ -1,1 +1,1 @@
-var mnemonic = "apology include shove spin sleep where scene wreck slot scout public prosper";
+var mnemonic = "whale inject spawn tail people strike point brand pool produce angle elder";

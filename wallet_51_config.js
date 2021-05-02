@@ -1,1 +1,1 @@
-var mnemonic = "stable rose trim exhibit endless run great anger fold december prefer lock";
+var mnemonic = "cost message capital order siren mule asset cave expose equip dentist habit";

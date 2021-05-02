@@ -1,1 +1,1 @@
-var mnemonic = "crush betray hospital plate more fabric reward meadow segment ketchup goose west";
+var mnemonic = "laugh unit dune leg entire brain goose toddler actual limb marriage leave";

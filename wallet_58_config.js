@@ -1,1 +1,1 @@
-var mnemonic = "mango august they nature sketch win antenna rain worth tortoise depth slender";
+var mnemonic = "remind fantasy immune cook rescue unusual kitten sell soldier imitate shop crew";

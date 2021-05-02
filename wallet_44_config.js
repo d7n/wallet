@@ -1,1 +1,1 @@
-var mnemonic = "mesh material pyramid purchase stay hunt boring drip frame high elevator actor";
+var mnemonic = "diesel coconut crop unfair fiscal upon edit celery connect shield tomato idea";

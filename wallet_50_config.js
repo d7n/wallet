@@ -1,1 +1,1 @@
-var mnemonic = "core palm gasp wife hidden gather glare design bench flag venture extra";
+var mnemonic = "increase magnet license question choice loop audit couple uniform anger point custom";

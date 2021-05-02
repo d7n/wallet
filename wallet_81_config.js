@@ -1,1 +1,1 @@
-var mnemonic = "faculty salad absurd wave speed tell ribbon donor render insect ceiling shine";
+var mnemonic = "marriage chalk rifle settle canyon relief hedgehog iron olive aware antique about";

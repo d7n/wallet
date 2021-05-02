@@ -1,1 +1,1 @@
-var mnemonic = "neither gadget harbor copper bring rubber satisfy little answer vapor absurd spoon";
+var mnemonic = "picnic surface stem mixture drip despair saddle learn more select leave dynamic";

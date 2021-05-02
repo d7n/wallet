@@ -1,1 +1,1 @@
-var mnemonic = "silent waste magic lobster ritual october acquire awake mind stage afraid drive";
+var mnemonic = "hen earth dress melt lyrics custom frozen release original call rotate pyramid";

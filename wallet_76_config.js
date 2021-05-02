@@ -1,1 +1,1 @@
-var mnemonic = "predict erase enrich circle wealth grass tooth gain vault wood month patch";
+var mnemonic = "cement obvious gorilla shove dice rather seven crowd theory crack spatial already";

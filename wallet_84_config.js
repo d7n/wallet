@@ -1,1 +1,1 @@
-var mnemonic = "borrow long luggage key busy project broken december cause digital torch horse";
+var mnemonic = "auction deal parrot torch hybrid pudding vast tank treat fashion lava fame";

@@ -1,1 +1,1 @@
-var mnemonic = "enter eight curtain merge easily rookie erode resist field virus entry rack";
+var mnemonic = "sausage mom wine chicken perfect income more dragon tiger base repair vehicle";

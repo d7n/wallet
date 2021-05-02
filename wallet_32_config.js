@@ -1,1 +1,1 @@
-var mnemonic = "truly stand protect unique elite man artwork birth pizza prize forest whisper";
+var mnemonic = "clean borrow slogan jewel ring hollow cancel perfect chase shift second belt";

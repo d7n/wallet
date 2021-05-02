@@ -1,1 +1,1 @@
-var mnemonic = "ensure castle account horror square toilet whale garden gun panel bottom theory";
+var mnemonic = "enforce gap rather payment injury recall evoke dizzy enforce visual employ relax";

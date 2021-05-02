@@ -1,1 +1,1 @@
-var mnemonic = "manage pill behind civil bunker piano rural sphere artist curious vast appear";
+var mnemonic = "modify august soda people scissors slow curve pink town expire danger hole";

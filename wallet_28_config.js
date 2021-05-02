@@ -1,1 +1,1 @@
-var mnemonic = "evil skull family april need toast decade road dune luggage measure pony";
+var mnemonic = "number rocket arm retire truth brisk fiber toast idle aerobic baby lazy";

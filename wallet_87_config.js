@@ -1,1 +1,1 @@
-var mnemonic = "salmon diesel clap enlist yard law robot invite focus zone zone enhance";
+var mnemonic = "robot senior crash pyramid warrior embody brown cotton sample will kidney credit";

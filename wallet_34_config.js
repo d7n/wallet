@@ -1,1 +1,1 @@
-var mnemonic = "number craft dizzy evoke aware build order select flush fence very slot";
+var mnemonic = "way affair box castle proud hat inspire forest gap amateur faculty congress";

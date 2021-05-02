@@ -1,1 +1,1 @@
-var mnemonic = "salute twelve bundle opinion sunset brown cloud bitter goddess inject balance company";
+var mnemonic = "suggest wisdom scan wife violin twist castle attack tunnel need fiscal tape";

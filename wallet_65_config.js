@@ -1,1 +1,1 @@
-var mnemonic = "call curve divide cushion habit turkey thing drama seminar matter airport alcohol";
+var mnemonic = "dice icon minute best column shift crew whisper orphan immune captain churn";

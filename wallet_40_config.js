@@ -1,1 +1,1 @@
-var mnemonic = "slogan level squirrel evolve february melody bargain rubber runway hybrid punch carry";
+var mnemonic = "danger strike gown fury salute park cheese remove caught arctic round token";

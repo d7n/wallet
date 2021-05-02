@@ -1,1 +1,1 @@
-var mnemonic = "remember drill vessel jelly truck opera scene ranch window cancel mixed light";
+var mnemonic = "strong gap walk exist portion figure rocket appear banana shy execute fame";

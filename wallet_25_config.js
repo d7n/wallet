@@ -1,1 +1,1 @@
-var mnemonic = "soup balcony verify there path tourist attend bunker upper table mixture clip";
+var mnemonic = "spirit child soup example buffalo west lounge design gravity matrix museum riot";

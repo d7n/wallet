@@ -1,1 +1,1 @@
-var mnemonic = "orbit train coast obvious hungry circle fuel enact reward report fall coach";
+var mnemonic = "build draft hint sponsor bind bracket buffalo side hidden display explain lava";

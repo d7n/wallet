@@ -1,1 +1,1 @@
-var mnemonic = "armed behave repair edge bargain quit attend extra case tone lizard share";
+var mnemonic = "rigid this mom clutch correct where bargain vintage model cousin board cause";

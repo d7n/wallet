@@ -1,1 +1,1 @@
-var mnemonic = "wrap found hip report celery acquire dry ribbon pipe world false enrich";
+var mnemonic = "spoil hood laugh cream hat endless visual poet since pond destroy solar";

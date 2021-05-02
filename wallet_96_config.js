@@ -1,1 +1,1 @@
-var mnemonic = "milk way win legend excite ostrich treat regular stem category use erode";
+var mnemonic = "glance play issue fade wine syrup bar wood depth enter slush middle";

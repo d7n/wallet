@@ -1,1 +1,1 @@
-var mnemonic = "jealous love gospel filter response orchard panel maze delay beauty soda pipe";
+var mnemonic = "what actual endless expect much swing earth chief cover strategy elegant daring";

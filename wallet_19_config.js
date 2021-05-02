@@ -1,1 +1,1 @@
-var mnemonic = "slow grace you few couple ceiling wood school body when correct exchange";
+var mnemonic = "project hood make shoot dry name artefact wolf panda above juice betray";

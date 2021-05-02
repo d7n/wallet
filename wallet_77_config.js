@@ -1,1 +1,1 @@
-var mnemonic = "message candy prize move ice inch canal hello icon split owner corn";
+var mnemonic = "end creek tumble guard enhance style pigeon collect tower other silk liquid";

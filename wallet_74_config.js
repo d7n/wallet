@@ -1,1 +1,1 @@
-var mnemonic = "audit pupil sudden obey skill raw lottery junior pigeon system pudding original";
+var mnemonic = "ability home prize staff maid heart conduct mix stage poet glad measure";

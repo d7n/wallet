@@ -1,1 +1,1 @@
-var mnemonic = "rapid lounge account enforce recycle sense private pencil saddle figure donor say";
+var mnemonic = "drive color code glory device sign motor minor rally argue across warrior";

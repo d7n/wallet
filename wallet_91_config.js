@@ -1,1 +1,1 @@
-var mnemonic = "steel tank vital day enroll squeeze sample crew split limb unique crazy";
+var mnemonic = "spy math program steak behind thrive ten rally renew brush foam region";

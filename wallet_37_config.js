@@ -1,1 +1,1 @@
-var mnemonic = "relief renew wrap dentist where social caution loud orient piano pull pen";
+var mnemonic = "soon decorate talent display usual exhibit sponsor balcony half essay physical correct";

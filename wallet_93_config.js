@@ -1,1 +1,1 @@
-var mnemonic = "imitate law fun clinic globe sniff earn test broom virus ceiling label";
+var mnemonic = "orange tomorrow cement walnut north gold claw object mind actress behind goat";

@@ -1,1 +1,1 @@
-var mnemonic = "verify brother first clock planet glove silver proud exit pizza cute kid";
+var mnemonic = "auto dance click weather trim cactus horse enemy ketchup math catalog toilet";

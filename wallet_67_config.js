@@ -1,1 +1,1 @@
-var mnemonic = "hair senior health kitchen trap era smart indicate fringe country eager analyst";
+var mnemonic = "firm funny exit air maple cage mandate chaos horn artwork athlete fiscal";

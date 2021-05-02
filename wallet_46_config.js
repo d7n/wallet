@@ -1,1 +1,1 @@
-var mnemonic = "unlock opinion mixture position above essay gadget trigger total bamboo feature dumb";
+var mnemonic = "room patient sponsor pretty wear program sense supreme about alien minimum grab";

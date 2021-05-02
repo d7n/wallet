@@ -1,1 +1,1 @@
-var mnemonic = "atom stairs tornado scan crime remain oxygen waste sure error increase put";
+var mnemonic = "adult pigeon tape voyage catalog benefit warm ritual hen clever hint bamboo";

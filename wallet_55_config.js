@@ -1,1 +1,1 @@
-var mnemonic = "monitor flame wine glimpse oven hurdle element ranch rough clump engage front";
+var mnemonic = "verb exact pulp employ wet harsh cruise piano affair convince wood few";

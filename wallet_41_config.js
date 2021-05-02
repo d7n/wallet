@@ -1,1 +1,1 @@
-var mnemonic = "myth again remember brain dynamic art foot wash combine collect distance dad";
+var mnemonic = "hurdle apology toast tragic pass base vivid above uniform swallow vocal cram";

@@ -1,1 +1,1 @@
-var mnemonic = "rival avoid summer upgrade infant deputy paddle private furnace project dawn decrease";
+var mnemonic = "secret endless coast hand horn science master awkward magic forest dad alcohol";

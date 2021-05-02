@@ -1,1 +1,1 @@
-var mnemonic = "artefact high sample uphold novel above true barrel vintage ethics palace violin";
+var mnemonic = "weasel shell panda field attend cart file explain matrix forget green harbor";

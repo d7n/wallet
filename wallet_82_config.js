@@ -1,1 +1,1 @@
-var mnemonic = "aisle ethics swarm brother element metal sleep pyramid total force degree rain";
+var mnemonic = "minimum client forward radar judge special ginger eye protect rich dinner boring";

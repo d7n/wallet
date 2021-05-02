@@ -1,1 +1,1 @@
-var mnemonic = "cash ginger gold armor enroll favorite whip script fan chief want nominee";
+var mnemonic = "fantasy tattoo warrior empower boring vendor salmon bracket sting among fashion loop";

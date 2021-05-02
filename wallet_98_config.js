@@ -1,1 +1,1 @@
-var mnemonic = "thing slush domain gadget side room slice castle soap rigid fish female";
+var mnemonic = "miss loan shield tiny stamp general inmate dove upset school ride dilemma";

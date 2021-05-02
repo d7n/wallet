@@ -1,1 +1,1 @@
-var mnemonic = "poverty help onion harbor salute common pause ahead system knife impulse prize";
+var mnemonic = "mention mesh success catalog rug shed concert connect fire drama divorce sing";

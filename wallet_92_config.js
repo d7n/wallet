@@ -1,1 +1,1 @@
-var mnemonic = "depth month fatigue visual time glad rug catch welcome force modify main";
+var mnemonic = "forget soccer cinnamon cannon shock come harvest blame myself evidence come express";

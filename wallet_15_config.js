@@ -1,1 +1,1 @@
-var mnemonic = "guard hidden isolate update panther amazing sample pipe rose develop bacon boss";
+var mnemonic = "giant exit pattern there where message spy buyer today afford park venue";

@@ -1,1 +1,1 @@
-var mnemonic = "sunset myth zoo excess bargain head host travel match image trash pulse";
+var mnemonic = "tell spoon tag icon reduce next trip squirrel around ice title rival";

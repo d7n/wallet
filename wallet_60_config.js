@@ -1,1 +1,1 @@
-var mnemonic = "early grab piece slender table innocent curtain shoe dynamic catalog about adjust";
+var mnemonic = "noble exercise talent hidden mixture seven fashion brain miracle zero two shoulder";

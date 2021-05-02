@@ -1,1 +1,1 @@
-var mnemonic = "small crouch gun bracket silly range account pluck purchase drink unable carry";
+var mnemonic = "abuse install proof stock party step unfair exchange subject system proud search";

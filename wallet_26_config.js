@@ -1,1 +1,1 @@
-var mnemonic = "garment sniff frequent eagle poem taxi salt glide mention point pull kick";
+var mnemonic = "shock spoil artist shift scrub unhappy clip mango mango humor toward switch";

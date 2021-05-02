@@ -1,1 +1,1 @@
-var mnemonic = "stumble hunt village gather pretty inquiry foam sketch library consider honey dose";
+var mnemonic = "predict budget extend eternal uncle canyon scrub height design future fluid device";

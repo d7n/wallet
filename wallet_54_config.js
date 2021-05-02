@@ -1,1 +1,1 @@
-var mnemonic = "square identify lawn mass drastic badge liberty group blood cost pepper drive";
+var mnemonic = "anxiety entry glove neglect pitch cradle aspect stumble shrimp picture ice black";

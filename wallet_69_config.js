@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin crush advice once invite phone ritual finger three reason portion cliff";
+var mnemonic = "ship expire marine amount together tube just body violin cross mimic asset";

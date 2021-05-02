@@ -1,1 +1,1 @@
-var mnemonic = "addict crucial powder uncle potato exercise kitten clown drastic increase mimic rescue";
+var mnemonic = "agree section act sadness hood lesson advice govern pulse sleep water team";

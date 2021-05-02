@@ -1,1 +1,1 @@
-var mnemonic = "gaze century powder exit truck pretty spider audit circle zero river mobile";
+var mnemonic = "empty income cotton van adjust media menu trash sign anxiety stomach vintage";

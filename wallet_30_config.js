@@ -1,1 +1,1 @@
-var mnemonic = "excess agent that utility walk appear mass fringe theory trouble pill clean";
+var mnemonic = "else cigar aspect throw virus shallow fury focus mind victory sort pumpkin";

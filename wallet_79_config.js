@@ -1,1 +1,1 @@
-var mnemonic = "genuine ozone mean august update school trial shove fruit unfair fee wet";
+var mnemonic = "rather brand warfare unlock romance pull deputy choice test risk spare whip";

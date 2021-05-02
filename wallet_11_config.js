@@ -1,1 +1,1 @@
-var mnemonic = "secret unfold hobby twenty neck finger light share math predict rude attract";
+var mnemonic = "any need senior inmate actor canyon barrel access fatal route rhythm jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "helmet bus canyon stove spread trust ability inspire silver soap ten dance";
+var mnemonic = "south fence midnight leg disorder tortoise frozen acquire gate alcohol salt deny";

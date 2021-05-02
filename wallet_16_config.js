@@ -1,1 +1,1 @@
-var mnemonic = "wood upgrade mesh fox hire sunset start rice audit harvest turn rebuild";
+var mnemonic = "palace promote olympic drill devote scrap mango summer universe coral expire drastic";

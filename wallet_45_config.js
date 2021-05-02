@@ -1,1 +1,1 @@
-var mnemonic = "isolate pyramid hand illness question reopen amused ahead eager glue spoon quantum";
+var mnemonic = "regular age away bind venture face theory object rebuild great remove ripple";

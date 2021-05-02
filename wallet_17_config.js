@@ -1,1 +1,1 @@
-var mnemonic = "combine join flight cinnamon obtain penalty pear slight entire elephant federal unlock";
+var mnemonic = "park rigid sick exhaust neither select hero robot mercy close quit review";

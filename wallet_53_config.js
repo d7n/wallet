@@ -1,1 +1,1 @@
-var mnemonic = "uncle pyramid yellow seek subject clarify insect remain divide brick opera trash";
+var mnemonic = "three animal craft injury endorse sand quality return cook immense december picture";

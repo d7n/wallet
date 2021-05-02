@@ -1,1 +1,1 @@
-var mnemonic = "once record curtain repeat mansion pole jar spread cliff quarter total supreme";
+var mnemonic = "finger weather album crane coral roast series alone vivid spread parrot capable";

@@ -1,1 +1,1 @@
-var mnemonic = "venture asthma host bargain write ramp mutual angle alone such dance goddess";
+var mnemonic = "ecology alert horn father opera pistol clarify spoon push special alarm squirrel";

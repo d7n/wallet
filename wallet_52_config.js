@@ -1,1 +1,1 @@
-var mnemonic = "episode voice any coach security run elite correct index close train provide";
+var mnemonic = "buzz eye hint rocket shallow neck office fatigue alien rotate code fold";

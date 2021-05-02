@@ -1,1 +1,1 @@
-var mnemonic = "tiger mass need flock fever skill hill stick cost box borrow congress";
+var mnemonic = "wise eight cannon wait math oak bless bright quote paper express strategy";

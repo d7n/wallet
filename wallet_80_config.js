@@ -1,1 +1,1 @@
-var mnemonic = "slab orbit skill snake box horn miracle collect wonder tongue embody stock";
+var mnemonic = "venture jazz later okay smile bitter essay mercy magnet bounce skill wait";

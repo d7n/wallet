@@ -1,1 +1,1 @@
-var mnemonic = "fat sound brave phrase mad code unknown expand farm aspect gift shuffle";
+var mnemonic = "permit evil joy brother rally bracket offer distance rapid scrap bless hole";

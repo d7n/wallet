@@ -1,1 +1,1 @@
-var mnemonic = "hold energy joy quantum bind again brave profit pond marriage breeze glow";
+var mnemonic = "since another neglect anger sting fashion slush river enact ancient envelope member";

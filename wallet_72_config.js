@@ -1,1 +1,1 @@
-var mnemonic = "weekend paddle invest swallow venture gallery ensure frame muffin student okay bridge";
+var mnemonic = "frequent dwarf lava image spoon across hand flat okay fiction assume solar";

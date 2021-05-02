@@ -1,1 +1,1 @@
-var mnemonic = "certain bulk tumble expect crash toe they digital rule reduce manual vital";
+var mnemonic = "frog expire income soccer post trash elbow congress finish auction domain funny";

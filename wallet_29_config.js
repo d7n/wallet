@@ -1,1 +1,1 @@
-var mnemonic = "library train admit gather company great hidden stove twice normal cable elite";
+var mnemonic = "actual jump whale wing inquiry warrior increase crime accuse roast dentist outer";

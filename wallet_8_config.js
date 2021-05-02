@@ -1,1 +1,1 @@
-var mnemonic = "sudden claim wire increase access kind medal seed cattle blast patient gentle";
+var mnemonic = "lava sphere category horn horn unable hint buffalo still raw toward output";

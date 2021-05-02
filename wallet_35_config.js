@@ -1,1 +1,1 @@
-var mnemonic = "city scrap tank remove heart useless logic stadium van casual panic jelly";
+var mnemonic = "praise tower flush retire hole just around robust thing betray goddess shoe";

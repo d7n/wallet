@@ -1,1 +1,1 @@
-var mnemonic = "toast silent garden corn ice other example stairs inflict used light school";
+var mnemonic = "small dose obey violin connect exhibit refuse surface someone viable exhaust grab";

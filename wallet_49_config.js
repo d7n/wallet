@@ -1,1 +1,1 @@
-var mnemonic = "artefact stand develop post fatal foster coach act credit reflect response virus";
+var mnemonic = "gaze picture bachelor wrist tape slab output point easy large ridge space";

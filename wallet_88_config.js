@@ -1,1 +1,1 @@
-var mnemonic = "rose rally sibling cliff report scout grant result casual kite habit chase";
+var mnemonic = "barely trouble level small regular horn group hole ranch topple soap bone";

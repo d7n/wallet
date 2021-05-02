@@ -1,1 +1,1 @@
-var mnemonic = "ladder crawl embody frozen cute member town deliver zebra donor pen damp";
+var mnemonic = "slot caution excite figure mimic hire say guess select cost scrub worry";

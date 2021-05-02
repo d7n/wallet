@@ -1,1 +1,1 @@
-var mnemonic = "regular reduce deer once skate still slab differ unhappy apart fence limb";
+var mnemonic = "auction crane once apple rather ability style mystery cup over shield scheme";

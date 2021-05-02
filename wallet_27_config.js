@@ -1,1 +1,1 @@
-var mnemonic = "raw blame spread ticket track vapor average blast impact slush surface jacket";
+var mnemonic = "advance dilemma section repair promote mother demand resist slender dash bulk isolate";

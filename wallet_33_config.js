@@ -1,1 +1,1 @@
-var mnemonic = "royal chuckle slight gift seek zone gain into shiver share tape stand";
+var mnemonic = "forest energy tackle you bronze embark dawn focus practice frame squirrel awful";

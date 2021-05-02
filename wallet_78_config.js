@@ -1,1 +1,1 @@
-var mnemonic = "fringe another glimpse earn chuckle warrior during settle stable raise skill adult";
+var mnemonic = "festival slogan train shiver napkin supreme bomb people giggle define swing soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "panther awesome memory blanket since journey together eager reveal confirm rather dwarf";
+var mnemonic = "rack funny menu horn film silly april verb crystal fat dad together";

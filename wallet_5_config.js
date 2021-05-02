@@ -1,1 +1,1 @@
-var mnemonic = "advance they bring elder tourist helmet basket word that all employ attack";
+var mnemonic = "model found walnut cruel boat inherit wrap supreme illness service pottery quiz";

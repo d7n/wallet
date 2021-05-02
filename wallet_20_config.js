@@ -1,1 +1,1 @@
-var mnemonic = "maximum begin average dinner gift race lyrics snake wood drip hurry emotion";
+var mnemonic = "zebra inhale loyal reject rug lonely bullet undo process loud awesome can";

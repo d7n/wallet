@@ -1,1 +1,1 @@
-var mnemonic = "choice volcano ketchup recall donate exclude appear patrol juice nose whisper drastic";
+var mnemonic = "hold grace vast wear force couple aerobic quarter dentist lottery jewel spare";

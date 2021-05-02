@@ -1,1 +1,1 @@
-var mnemonic = "ski fortune grass air panic swift umbrella advice heavy over fetch topic";
+var mnemonic = "bridge thrive alcohol act enable cliff myth sell crunch glass shove bring";
