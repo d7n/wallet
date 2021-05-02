@@ -1,1 +1,1 @@
-var mnemonic = "raise steak mimic dial puppy exercise eight donkey exit sorry shaft north";
+var mnemonic = "desk duty buzz bullet memory muffin cricket multiply guard nephew usage lunch";

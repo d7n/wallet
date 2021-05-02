@@ -1,1 +1,1 @@
-var mnemonic = "chalk panda gap behind property dose hero flat expire climb enact smile";
+var mnemonic = "potato illegal fire fix birth parade try claw dune prison like allow";

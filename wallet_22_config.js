@@ -1,1 +1,1 @@
-var mnemonic = "dish duty ticket pizza rocket autumn law kid concert when usage dove";
+var mnemonic = "cactus problem fix empower canoe travel brush decrease chunk bus share there";

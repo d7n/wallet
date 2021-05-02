@@ -1,1 +1,1 @@
-var mnemonic = "float divorce middle butter picture acoustic anchor vast gap pool first match";
+var mnemonic = "merit blade shop mimic equip culture multiply repair slide knife define barely";

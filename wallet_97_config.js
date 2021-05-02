@@ -1,1 +1,1 @@
-var mnemonic = "globe time fly world brother undo wave write practice coach west jump";
+var mnemonic = "minor original lab design yellow guard boat quality romance board what famous";

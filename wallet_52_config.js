@@ -1,1 +1,1 @@
-var mnemonic = "month now demand cycle cry able behave audit distance payment box mammal";
+var mnemonic = "write invest faint steak drop embark dignity secret friend drive great direct";

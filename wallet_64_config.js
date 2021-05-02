@@ -1,1 +1,1 @@
-var mnemonic = "crystal gown supply aunt armor book atom town depth taxi clerk upgrade";
+var mnemonic = "acoustic smile merit insane once horse thunder hamster fabric plate dial certain";

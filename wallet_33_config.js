@@ -1,1 +1,1 @@
-var mnemonic = "winner make senior market reduce cupboard spot phrase noble lounge yellow tell";
+var mnemonic = "gospel cup popular vital utility raw ahead flight column urban grab gather";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist green expand bus upset sea have paper usage assume heavy hero";
+var mnemonic = "ridge chat scheme oval bulb load strike upon october creek hour engage";

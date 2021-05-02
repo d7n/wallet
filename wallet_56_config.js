@@ -1,1 +1,1 @@
-var mnemonic = "wasp bomb furnace attitude knee tiger clutch interest ridge race try fury";
+var mnemonic = "bulb warfare genuine wing where grass remain prize twenty glance task ten";

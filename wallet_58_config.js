@@ -1,1 +1,1 @@
-var mnemonic = "drill initial until lonely dignity monster key swear diet spice fabric top";
+var mnemonic = "item security stadium rival doctor tail husband benefit disagree powder return defy";

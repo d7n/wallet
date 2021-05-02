@@ -1,1 +1,1 @@
-var mnemonic = "vast home inquiry annual business drum craft evoke eye monkey uphold unit";
+var mnemonic = "decide cook waste crack private inherit joke blouse result wink neither income";

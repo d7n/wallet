@@ -1,1 +1,1 @@
-var mnemonic = "laugh proud acquire leaf good rail warfare script essay approve silver again";
+var mnemonic = "turtle energy movie join scissors crazy mushroom immense monkey crowd hedgehog wagon";

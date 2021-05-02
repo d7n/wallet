@@ -1,1 +1,1 @@
-var mnemonic = "portion market aunt sudden duty modify foster amused ahead shoe monkey prevent";
+var mnemonic = "nerve once salute aware valve shell black silver title save trust crack";

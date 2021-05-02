@@ -1,1 +1,1 @@
-var mnemonic = "lesson acid track afford isolate coconut suffer make air cute bring void";
+var mnemonic = "hurt lift peace banana alcohol blade tongue occur alien spider athlete divert";

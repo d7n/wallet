@@ -1,1 +1,1 @@
-var mnemonic = "release purity object holiday gravity disorder useless donor gas extend nuclear chase";
+var mnemonic = "bird speak require jungle cat fruit summer surge clap caught farm slab";

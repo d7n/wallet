@@ -1,1 +1,1 @@
-var mnemonic = "bounce coffee west gold offer enlist empower high impact quarter salad hidden";
+var mnemonic = "peace cram unusual hybrid foil ankle apple front road expect trick property";

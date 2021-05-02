@@ -1,1 +1,1 @@
-var mnemonic = "since wish maze ugly mention diary fence reflect mother liquid viable echo";
+var mnemonic = "drama diamond own illness peanut maze mad trash noise great rhythm ride";

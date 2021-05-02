@@ -1,1 +1,1 @@
-var mnemonic = "silk exotic clinic fee convince detect man quick album sheriff nuclear frown";
+var mnemonic = "item label way shrug decide blouse stuff profit title motion fossil gate";

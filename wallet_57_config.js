@@ -1,1 +1,1 @@
-var mnemonic = "ginger calm opinion flat scheme wire observe valve grief stamp cattle embrace";
+var mnemonic = "rate shoulder similar sister piece major transfer attack erosion perfect remove ask";

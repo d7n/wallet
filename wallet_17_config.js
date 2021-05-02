@@ -1,1 +1,1 @@
-var mnemonic = "drill shoulder tiny machine march bread coil nuclear neck afraid unique stool";
+var mnemonic = "gun private achieve dentist measure glad ill rough caution nest flag cabin";

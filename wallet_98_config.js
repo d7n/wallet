@@ -1,1 +1,1 @@
-var mnemonic = "pool scene keen behind unable ill pool shield shrug hurt hurt south";
+var mnemonic = "glad village tonight inject fit rather negative act shield trigger sad arrange";

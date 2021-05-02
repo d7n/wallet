@@ -1,1 +1,1 @@
-var mnemonic = "light someone merry audit anger pudding surface engine squirrel hurry myself stay";
+var mnemonic = "powder royal tonight random sadness arch south stem scene attitude rail turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "review rule indicate course beyond job update pilot screen garment property museum";
+var mnemonic = "protect voyage position inner oil table girl kid review cash fiber expect";

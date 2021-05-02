@@ -1,1 +1,1 @@
-var mnemonic = "ring mountain vehicle stereo adjust image page find butter flight world surprise";
+var mnemonic = "prevent taste oppose program duck dizzy arctic whale cliff pioneer either eagle";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern client demise verify step crop fashion corn rescue fitness expose awful";
+var mnemonic = "elephant sudden mix dog athlete memory side series wrestle winter grow mule";

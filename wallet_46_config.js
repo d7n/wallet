@@ -1,1 +1,1 @@
-var mnemonic = "shell already runway master evoke tumble swallow polar ball text side author";
+var mnemonic = "skull flip clerk sock upon detect flash title surge chase popular drill";

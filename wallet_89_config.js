@@ -1,1 +1,1 @@
-var mnemonic = "hundred tortoise indicate chat gravity loud elder club basic casual solar canal";
+var mnemonic = "average tool romance start beyond cry six loyal nest dumb train shop";

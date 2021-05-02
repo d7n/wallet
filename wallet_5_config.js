@@ -1,1 +1,1 @@
-var mnemonic = "absorb poverty volcano summer fiction slot region elephant frame draft orphan off";
+var mnemonic = "kidney erupt try water silk safe clock junk admit reunion hint prosper";

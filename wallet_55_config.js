@@ -1,1 +1,1 @@
-var mnemonic = "wish clip atom side magic acquire pudding still mountain merge wreck limit";
+var mnemonic = "cave wisdom degree rose giggle second write tag element student lonely ahead";

@@ -1,1 +1,1 @@
-var mnemonic = "museum surround venue siege gold depend episode check multiply knock library lunch";
+var mnemonic = "kingdom device receive absorb add undo angry opinion early fluid welcome glimpse";

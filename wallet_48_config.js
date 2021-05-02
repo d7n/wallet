@@ -1,1 +1,1 @@
-var mnemonic = "crystal wedding coffee disease admit someone small slide spend below injury lucky";
+var mnemonic = "shiver hair love orphan average regular champion brown deposit differ service tube";

@@ -1,1 +1,1 @@
-var mnemonic = "market dragon skate document sniff island autumn shaft scissors ancient dish demand";
+var mnemonic = "cupboard paper wage craft alarm merry happy attitude brisk strategy purse bulk";

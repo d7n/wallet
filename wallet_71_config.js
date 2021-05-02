@@ -1,1 +1,1 @@
-var mnemonic = "message athlete taxi liberty charge trip ripple duty vendor cube capable crowd";
+var mnemonic = "uncle mass put mammal defense hockey captain pause weasel april wasp pioneer";

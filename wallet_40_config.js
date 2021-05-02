@@ -1,1 +1,1 @@
-var mnemonic = "inside below nerve romance power atom number bacon order stable hire motor";
+var mnemonic = "cousin iron property stuff wall february flee weekend topic option soup shoe";

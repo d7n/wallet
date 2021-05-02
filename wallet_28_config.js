@@ -1,1 +1,1 @@
-var mnemonic = "dolphin patch awful what where citizen little million bleak lake tip mixture";
+var mnemonic = "list ridge hover aerobic flavor dove exercise enemy liar ready chef mirror";

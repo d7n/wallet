@@ -1,1 +1,1 @@
-var mnemonic = "blind squirrel syrup glove acquire canyon avocado nerve school wedding evidence wild";
+var mnemonic = "orbit noodle help dinner brother reform target violin theme grid age pizza";

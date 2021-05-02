@@ -1,1 +1,1 @@
-var mnemonic = "ugly match cancel light solve resist rescue alpha nuclear boy click toe";
+var mnemonic = "fork away empty edit sight voyage hen bleak slab foot old lizard";

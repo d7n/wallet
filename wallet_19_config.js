@@ -1,1 +1,1 @@
-var mnemonic = "picture hurdle cloud garment service excuse miracle light hero jacket album gloom";
+var mnemonic = "used home doll quote jewel depart pill gold engage typical wrong zero";

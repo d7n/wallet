@@ -1,1 +1,1 @@
-var mnemonic = "observe abandon siege purity main obscure result zoo iron diet rival frog";
+var mnemonic = "hint search hero push shoulder hover excuse label menu breeze female dress";

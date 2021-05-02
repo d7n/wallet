@@ -1,1 +1,1 @@
-var mnemonic = "prison hello uphold citizen weather unknown universe voyage wheel kite army hole";
+var mnemonic = "split jewel can jungle title afford describe ghost believe slogan joke mesh";

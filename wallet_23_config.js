@@ -1,1 +1,1 @@
-var mnemonic = "final pizza argue remember host crazy brick unique tip hedgehog panel general";
+var mnemonic = "faith police noodle inner drill timber elegant bleak friend salute miss switch";

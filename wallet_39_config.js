@@ -1,1 +1,1 @@
-var mnemonic = "magic elder hover resist scheme brown hammer permit depart sugar isolate spin";
+var mnemonic = "gossip scout donate office where tobacco helmet sweet patch salute couple diet";

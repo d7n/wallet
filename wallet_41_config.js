@@ -1,1 +1,1 @@
-var mnemonic = "ceiling nice matrix term original artefact stay whale hover room illegal course";
+var mnemonic = "length fiber shadow harvest write else ketchup lady erase chair attack major";

@@ -1,1 +1,1 @@
-var mnemonic = "detect sustain guide poem hope day aunt staff rule tilt corn curtain";
+var mnemonic = "stone light party common pattern happy board cost calm pull essay story";

@@ -1,1 +1,1 @@
-var mnemonic = "smart control auto heavy achieve remain moon loyal tornado scorpion honey forest";
+var mnemonic = "mystery antique slice scorpion donkey ivory clock decade consider grocery tone nuclear";

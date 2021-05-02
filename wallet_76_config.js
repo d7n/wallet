@@ -1,1 +1,1 @@
-var mnemonic = "slender unlock announce design cheap canoe museum tip actor advance close squeeze";
+var mnemonic = "million then immense chef twelve exercise reopen priority clock text dish chaos";

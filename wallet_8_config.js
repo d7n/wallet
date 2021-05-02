@@ -1,1 +1,1 @@
-var mnemonic = "issue jazz cram pyramid beef pizza poem chapter baby priority extra load";
+var mnemonic = "second cat cannon warfare expect vehicle museum stage tired project hundred payment";

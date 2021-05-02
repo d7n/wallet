@@ -1,1 +1,1 @@
-var mnemonic = "famous now unit pear hole together now unknown stand other sell sorry";
+var mnemonic = "man pyramid symbol lunar labor add heavy family shadow employ define spirit";

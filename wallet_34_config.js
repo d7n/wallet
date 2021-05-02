@@ -1,1 +1,1 @@
-var mnemonic = "nerve museum valve net can truck radar novel youth live venture action";
+var mnemonic = "infant high rather tail use wrap drum orient flower minor cushion spoon";

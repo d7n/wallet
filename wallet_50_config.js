@@ -1,1 +1,1 @@
-var mnemonic = "vacuum bulb boil romance outdoor history mouse person negative scissors hub wise";
+var mnemonic = "coral dirt hill merge clever such mule require admit echo little rather";

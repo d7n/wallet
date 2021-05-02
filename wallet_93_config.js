@@ -1,1 +1,1 @@
-var mnemonic = "express keep slice culture come episode hire once door million glance cart";
+var mnemonic = "denial apart note funny either food execute craft mirror cool hair board";

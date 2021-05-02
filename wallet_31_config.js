@@ -1,1 +1,1 @@
-var mnemonic = "lizard prison primary fuel comic later style chair myth assault human snack";
+var mnemonic = "side vibrant wise neck gadget fantasy danger victory lunar brass valid arm";

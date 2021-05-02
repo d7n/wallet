@@ -1,1 +1,1 @@
-var mnemonic = "measure empty because afford pole regular lend rail expand deputy oil often";
+var mnemonic = "lend actual outside sock excite office roof myself current wrestle grow desk";

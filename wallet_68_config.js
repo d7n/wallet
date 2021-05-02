@@ -1,1 +1,1 @@
-var mnemonic = "across ability bar host holiday outside nature project never expire spy stamp";
+var mnemonic = "symbol jungle embark work place grass lunar denial reward lens young local";

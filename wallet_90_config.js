@@ -1,1 +1,1 @@
-var mnemonic = "siege sure believe prize title relief original spirit that eternal honey reject";
+var mnemonic = "valley photo someone board where spy tissue equal arrange drive food patient";

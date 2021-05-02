@@ -1,1 +1,1 @@
-var mnemonic = "flag team close fade zone castle dumb indicate orient chicken muscle total";
+var mnemonic = "gesture lab vibrant engage else prize flock execute impact crunch fix scout";

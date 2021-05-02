@@ -1,1 +1,1 @@
-var mnemonic = "scheme sketch gauge champion quarter weapon attack despair lawsuit slab planet story";
+var mnemonic = "paddle jelly security evoke spirit dolphin rubber flavor salon bleak bitter thrive";

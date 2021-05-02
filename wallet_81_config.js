@@ -1,1 +1,1 @@
-var mnemonic = "random hunt yard tree aisle bird near diagram song surge forward alien";
+var mnemonic = "veteran almost priority hotel artefact property shed ladder very huge behave street";

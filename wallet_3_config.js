@@ -1,1 +1,1 @@
-var mnemonic = "jelly nation gown scatter pride illegal story chest fragile left unfair urge";
+var mnemonic = "mystery veteran front rifle dinosaur hungry punch gallery burden tobacco organ monster";

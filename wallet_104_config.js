@@ -1,1 +1,1 @@
-var mnemonic = "thought actor trade cotton trip guitar knock cushion bench gravity smile feed";
+var mnemonic = "thing plunge drift flat wing across omit keen toss alter engine coconut";

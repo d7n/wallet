@@ -1,1 +1,1 @@
-var mnemonic = "modify story medal upon mass symptom detail slush mail canyon profit sister";
+var mnemonic = "work render family sample worth all satisfy room worry replace give cherry";

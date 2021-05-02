@@ -1,1 +1,1 @@
-var mnemonic = "sail involve scrap coin spawn weird march nature ignore issue useful laugh";
+var mnemonic = "cradle exchange fury renew tube bread twice seven suffer special toilet torch";

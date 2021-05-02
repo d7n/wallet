@@ -1,1 +1,1 @@
-var mnemonic = "unlock model aunt inquiry skate recall chunk forget program inner book wrist";
+var mnemonic = "manual sudden audit square focus sorry pyramid else blue unusual strike sting";

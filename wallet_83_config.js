@@ -1,1 +1,1 @@
-var mnemonic = "crack team trick gate yellow online smoke can guess aim cupboard enjoy";
+var mnemonic = "original mushroom describe jacket range winner squirrel snow hamster account ill unit";

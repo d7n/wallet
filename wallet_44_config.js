@@ -1,1 +1,1 @@
-var mnemonic = "pony empower can fiction myth manual crack express conduct artefact check ordinary";
+var mnemonic = "right fall coin online detect journey any arrive oval witness disagree shell";

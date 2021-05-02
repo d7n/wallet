@@ -1,1 +1,1 @@
-var mnemonic = "faculty net poem twelve pigeon leopard dumb weekend gap easily banner soup";
+var mnemonic = "saddle approve celery portion grid pyramid crime donkey caught ceiling squeeze update";

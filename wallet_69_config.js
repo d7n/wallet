@@ -1,1 +1,1 @@
-var mnemonic = "error garden document interest forget assault robust large holiday wise afraid weather";
+var mnemonic = "thing forget tone code seminar accident rail photo tree soup slide captain";

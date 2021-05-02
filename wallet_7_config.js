@@ -1,1 +1,1 @@
-var mnemonic = "matrix unveil key educate super special execute meat local hub october broken";
+var mnemonic = "street apology then flip zoo unable common viable birth letter follow giggle";

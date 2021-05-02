@@ -1,1 +1,1 @@
-var mnemonic = "vital resemble rice express piece original bright swarm eight hat harsh index";
+var mnemonic = "bulb wrap notable author earn rib dentist east hotel lift meat mistake";

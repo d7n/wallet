@@ -1,1 +1,1 @@
-var mnemonic = "bullet shrug sad expire grocery paddle mouse knee occur race fire ask";
+var mnemonic = "feature heart absurd filter panda draw riot admit vault mushroom near attract";

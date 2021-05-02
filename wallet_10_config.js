@@ -1,1 +1,1 @@
-var mnemonic = "acid skin middle embrace jelly avocado element liquid bright width shock volcano";
+var mnemonic = "march settle vast come bargain notable best digital empty kick work whisper";

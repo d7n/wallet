@@ -1,1 +1,1 @@
-var mnemonic = "track future fly reduce robust screen method animal jar depart age target";
+var mnemonic = "ill gold clump budget ask mandate major tennis arctic acoustic above afford";

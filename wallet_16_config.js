@@ -1,1 +1,1 @@
-var mnemonic = "roof exit cute episode toddler survey confirm label cricket double era size";
+var mnemonic = "quote twice relax outdoor canoe excite normal depart absent drama response crane";

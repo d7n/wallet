@@ -1,1 +1,1 @@
-var mnemonic = "document base awful pioneer novel street cotton seat girl wonder hint protect";
+var mnemonic = "blood dwarf flash dutch act film witness alcohol move empower crack recipe";

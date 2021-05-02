@@ -1,1 +1,1 @@
-var mnemonic = "onion visit raw pact about artefact bring lady amount early bundle friend";
+var mnemonic = "mosquito wall occur share bar pattern strategy bulb puppy category spice above";

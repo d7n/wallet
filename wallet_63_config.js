@@ -1,1 +1,1 @@
-var mnemonic = "online diagram tunnel enter garden sort dish tiny horn tuition hurt scale";
+var mnemonic = "flame hour senior enforce tenant exact kit develop rescue guilt wool hat";

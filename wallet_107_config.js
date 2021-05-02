@@ -1,1 +1,1 @@
-var mnemonic = "record sort fault physical mushroom miss invite away muffin minute quiz defy";
+var mnemonic = "detail stomach asthma that skill cake enforce auto canvas laugh brain ghost";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion expect slush round inmate need rib force saddle leisure leg spare";
+var mnemonic = "gown tourist become screen hundred usual lock vehicle gorilla shed lounge rookie";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt leaf course morning lamp wheel foot dry yellow blossom ripple team";
+var mnemonic = "interest avocado effort trick smart tooth inch tortoise young divorce ranch lamp";

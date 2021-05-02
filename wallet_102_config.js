@@ -1,1 +1,1 @@
-var mnemonic = "ski flavor recall boost vessel zero cheese only valley only retreat one";
+var mnemonic = "buffalo over drop voyage canyon stumble dragon pumpkin reason upon stable increase";

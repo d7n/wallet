@@ -1,1 +1,1 @@
-var mnemonic = "unable avoid mesh clock celery stand joy foster build faith elegant give";
+var mnemonic = "august render purchase glass laundry supply borrow more exhaust october wrestle pledge";

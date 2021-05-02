@@ -1,1 +1,1 @@
-var mnemonic = "power decline pelican sad bean return supply fiber juice awake mule rural";
+var mnemonic = "edit nurse pet narrow security gospel drive pass drift brown foot fabric";

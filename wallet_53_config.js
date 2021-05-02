@@ -1,1 +1,1 @@
-var mnemonic = "only obvious trip hero spend random weapon zebra crane million glue museum";
+var mnemonic = "arrest noise raw mixed game swim wise away adult reflect butter erupt";

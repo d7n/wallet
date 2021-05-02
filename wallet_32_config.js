@@ -1,1 +1,1 @@
-var mnemonic = "series slogan saddle obscure total maze select express bid gun viable cost";
+var mnemonic = "desk possible wrestle main holiday degree fame prevent security sail mouse embark";

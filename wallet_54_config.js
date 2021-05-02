@@ -1,1 +1,1 @@
-var mnemonic = "balance adult wear degree miss slab business hand quit regular grief industry";
+var mnemonic = "assist illness quantum garden silly below harvest birth region couch runway aim";

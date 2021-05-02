@@ -1,1 +1,1 @@
-var mnemonic = "frame brother woman lion tattoo height move puppy velvet slogan shiver certain";
+var mnemonic = "link film dial foam erupt bird amused toss frost gas consider sniff";

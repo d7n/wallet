@@ -1,1 +1,1 @@
-var mnemonic = "weekend hope habit false clog bench fish grain gaze shaft twenty final";
+var mnemonic = "climb gadget world hard emotion vintage shoot waste leopard energy pencil across";

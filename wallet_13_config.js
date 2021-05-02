@@ -1,1 +1,1 @@
-var mnemonic = "need lobster own eagle feed flash round deliver pottery wonder horse convince";
+var mnemonic = "pass treat stuff spend motion east payment pudding gown silent company syrup";

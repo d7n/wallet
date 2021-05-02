@@ -1,1 +1,1 @@
-var mnemonic = "hollow pyramid priority spring kick element armed under credit author scatter there";
+var mnemonic = "change monster color gloom feel myth stamp giggle shadow essay delay salute";

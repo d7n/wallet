@@ -1,1 +1,1 @@
-var mnemonic = "daring oval segment cry gospel father bone era prepare cushion fiscal grant";
+var mnemonic = "fatigue session iron hobby better pause north iron science spend wonder accident";

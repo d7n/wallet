@@ -1,1 +1,1 @@
-var mnemonic = "dirt shoe farm inch dove place solid loud setup embody gadget hotel";
+var mnemonic = "require service just have bike consider kid volume below burden middle crawl";

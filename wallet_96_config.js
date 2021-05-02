@@ -1,1 +1,1 @@
-var mnemonic = "swallow pretty decrease unlock bright leave bonus ship pond wisdom alien climb";
+var mnemonic = "laugh glide eight chair boost carry network engage toy fresh alarm bounce";

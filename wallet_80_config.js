@@ -1,1 +1,1 @@
-var mnemonic = "design zone shove document ticket lunch practice crop orphan follow throw open";
+var mnemonic = "inmate clerk current toast divert cute bacon life bulk blush aerobic dry";
