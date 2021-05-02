@@ -1,1 +1,1 @@
-var mnemonic = "economy absorb sauce reason winter volcano transfer feed dream egg knee foil";
+var mnemonic = "swallow faith embrace mobile tiger daughter auto firm idea enter erase advance";

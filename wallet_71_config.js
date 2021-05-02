@@ -1,1 +1,1 @@
-var mnemonic = "word secret bench warfare club much fabric upon slim arena arrive enjoy";
+var mnemonic = "riot whip anger grant salt sting host brown buzz place machine detail";

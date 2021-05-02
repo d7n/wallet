@@ -1,1 +1,1 @@
-var mnemonic = "inmate bargain apology lion what grit soon finish license lobster mention pave";
+var mnemonic = "trumpet scheme normal song spawn intact sure chunk unlock worth thought acquire";

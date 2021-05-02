@@ -1,1 +1,1 @@
-var mnemonic = "shiver owner similar service resist kitten icon ignore athlete park casual west";
+var mnemonic = "list bread assault gloom task boring lion wasp target later advice mansion";

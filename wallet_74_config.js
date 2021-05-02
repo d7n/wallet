@@ -1,1 +1,1 @@
-var mnemonic = "congress milk auto decide cluster jungle torch salt must security bus festival";
+var mnemonic = "donate label claw toe exist urge mammal off doll over thrive cruise";

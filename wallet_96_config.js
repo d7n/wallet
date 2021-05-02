@@ -1,1 +1,1 @@
-var mnemonic = "build diary increase grunt badge believe dance other cake voyage march explain";
+var mnemonic = "pet life giggle blame kite victory vocal mention noodle design much vivid";

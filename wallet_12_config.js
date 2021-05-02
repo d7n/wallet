@@ -1,1 +1,1 @@
-var mnemonic = "mansion shed blanket churn else between monkey universe long whisper clog between";
+var mnemonic = "finger attract brush foam size large slim spy deputy beauty task win";

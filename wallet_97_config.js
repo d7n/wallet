@@ -1,1 +1,1 @@
-var mnemonic = "illegal deer vacuum april weekend diary slight muffin endless grit furnace bottom";
+var mnemonic = "nation plunge wink doctor return rice announce rule screen nuclear tape mass";

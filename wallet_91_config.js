@@ -1,1 +1,1 @@
-var mnemonic = "adult pulse blood soap rely raven giggle congress loyal rather pencil guilt";
+var mnemonic = "stove brass brush best vintage manual vanish shrug six garden more twenty";

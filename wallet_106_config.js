@@ -1,1 +1,1 @@
-var mnemonic = "reveal fantasy duck oxygen glimpse result antique artefact mobile album chase army";
+var mnemonic = "early assault tree embrace wet wash answer general domain biology arch situate";

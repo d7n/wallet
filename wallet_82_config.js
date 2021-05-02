@@ -1,1 +1,1 @@
-var mnemonic = "trophy rescue depart hope actress play cash adult bird polar oil ketchup";
+var mnemonic = "garage ask sense fence rough omit hair pond video piano fragile school";

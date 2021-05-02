@@ -1,1 +1,1 @@
-var mnemonic = "stay ancient viable boost over spend dry rebel rent horror mean depth";
+var mnemonic = "head drop bag expand pool super patient more flash gown sadness toss";

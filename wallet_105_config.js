@@ -1,1 +1,1 @@
-var mnemonic = "oval basic invite combine cage sort snake chase credit already capital gospel";
+var mnemonic = "creek impact stock top woman topple title dinosaur sing marble way pelican";

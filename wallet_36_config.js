@@ -1,1 +1,1 @@
-var mnemonic = "dream report tilt unhappy fall circle prize long toast clerk truly surround";
+var mnemonic = "mail mercy blast detail lava deer egg december crowd escape horror stadium";

@@ -1,1 +1,1 @@
-var mnemonic = "basic silly palace palm order ribbon lady reward door kind frown ivory";
+var mnemonic = "chase name false swing naive blood oppose exclude struggle cradle remain drive";

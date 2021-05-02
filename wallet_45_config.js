@@ -1,1 +1,1 @@
-var mnemonic = "margin wedding negative decrease fragile nature screen follow spray fancy practice rapid";
+var mnemonic = "lunar scissors sand arena ride vital advance ketchup utility photo pact humor";

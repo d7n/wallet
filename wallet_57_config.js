@@ -1,1 +1,1 @@
-var mnemonic = "system fine nature endorse vote like reject obtain price clarify oyster dial";
+var mnemonic = "stone siege stumble certain general primary post proud uncle exhaust puzzle half";

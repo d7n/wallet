@@ -1,1 +1,1 @@
-var mnemonic = "cruise ask world apology wisdom table voice boring sign solution high rebel";
+var mnemonic = "pet sense owner seminar hunt pistol idle also rubber finish coil chronic";

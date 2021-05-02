@@ -1,1 +1,1 @@
-var mnemonic = "month leave slender innocent pyramid gasp vehicle victory denial sugar weekend doll";
+var mnemonic = "carbon panther habit address toss crew flip crater theory response organ tuition";

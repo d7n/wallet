@@ -1,1 +1,1 @@
-var mnemonic = "sponsor okay reject copy dilemma field helmet scale option asthma mirror barrel";
+var mnemonic = "supreme merge sand term pear elbow manage stuff confirm steel coin acoustic";

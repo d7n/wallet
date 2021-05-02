@@ -1,1 +1,1 @@
-var mnemonic = "palace update sound flame grid friend dolphin hobby dynamic skull weapon stereo";
+var mnemonic = "special siege dirt cruel leader zone erupt nose issue select ski mirror";

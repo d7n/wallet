@@ -1,1 +1,1 @@
-var mnemonic = "spoon cash arena rent mail brain enjoy blame garden chronic cute crane";
+var mnemonic = "foot course twist camp source fringe success pottery fiber slight universe toy";

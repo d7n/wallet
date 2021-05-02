@@ -1,1 +1,1 @@
-var mnemonic = "document problem endorse copy toward pill scrub verify tragic enrich present hawk";
+var mnemonic = "good flag outer sad dance mother cinnamon payment neutral tonight loop sock";

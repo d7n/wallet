@@ -1,1 +1,1 @@
-var mnemonic = "observe define real soap develop rescue pet denial one virus morning stem";
+var mnemonic = "quick lunar chase rescue purchase act because swing tiger bamboo nose measure";

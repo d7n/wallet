@@ -1,1 +1,1 @@
-var mnemonic = "agree arctic apology series hope bunker harvest dust kick inside fade nephew";
+var mnemonic = "crime amateur denial nice manual cousin oyster jar tortoise fit crater one";

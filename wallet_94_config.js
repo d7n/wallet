@@ -1,1 +1,1 @@
-var mnemonic = "lonely local immune entry legend above cook anger belt clean design monitor";
+var mnemonic = "forward pumpkin debate keen sister material oven action blur only horn else";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse accident token outdoor fluid hurt maze increase entire upper canvas gym";
+var mnemonic = "light fee hurdle swing cotton spin consider title broccoli law surprise indoor";

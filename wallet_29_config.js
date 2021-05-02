@@ -1,1 +1,1 @@
-var mnemonic = "antique useful device room brother two silk reduce deposit banner buddy labor";
+var mnemonic = "high video elbow expire consider pipe guide purse future myself cat shove";

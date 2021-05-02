@@ -1,1 +1,1 @@
-var mnemonic = "jar simple wool deposit flee lonely palm what upper talk super avocado";
+var mnemonic = "young shove mix story fever census helmet erase defy engine head rhythm";

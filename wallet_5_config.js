@@ -1,1 +1,1 @@
-var mnemonic = "bone coconut blanket hen cook kiss birth false zoo comic exit vault";
+var mnemonic = "devote project dish else system tone bridge bulk awesome uncle slot memory";

@@ -1,1 +1,1 @@
-var mnemonic = "slush balance combine false unlock fiber work lady swap misery face home";
+var mnemonic = "define attitude comic ice violin seminar ozone wild celery lens soldier web";

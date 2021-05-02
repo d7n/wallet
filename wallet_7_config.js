@@ -1,1 +1,1 @@
-var mnemonic = "room arrow interest nerve mechanic cricket easily play vague lesson lounge blade";
+var mnemonic = "teach upset velvet wire essay abandon vapor media immense accuse other person";

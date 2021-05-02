@@ -1,1 +1,1 @@
-var mnemonic = "junior absurd gesture slender brain test amazing force ceiling easy dry shock";
+var mnemonic = "broken crazy acquire element predict slush opera vintage split question merge need";

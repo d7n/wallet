@@ -1,1 +1,1 @@
-var mnemonic = "rain lady wild woman real nephew style file can area foot subject";
+var mnemonic = "limb add pelican embrace faculty uphold utility innocent truth weather life trouble";

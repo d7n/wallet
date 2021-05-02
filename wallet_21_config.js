@@ -1,1 +1,1 @@
-var mnemonic = "win shell gallery argue wing olive squirrel feed blue analyst damp media";
+var mnemonic = "before team inflict close merge window empty velvet ignore visual hurt night";

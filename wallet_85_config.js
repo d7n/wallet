@@ -1,1 +1,1 @@
-var mnemonic = "tilt ordinary denial tuition chaos lava chat hundred kiss gate ball echo";
+var mnemonic = "address shoulder real engage hill rifle awkward humble topic habit turn diagram";

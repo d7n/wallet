@@ -1,1 +1,1 @@
-var mnemonic = "improve faint burden equip fade disagree trip glance know jealous mean swallow";
+var mnemonic = "emotion buddy window giraffe join frame problem armor ice hello alone abandon";

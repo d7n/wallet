@@ -1,1 +1,1 @@
-var mnemonic = "below drill candy adapt glove defy upon muffin wish flush purchase aware";
+var mnemonic = "autumn riot month panel acquire pudding flame blue knife orphan always ahead";

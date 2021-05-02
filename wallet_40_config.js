@@ -1,1 +1,1 @@
-var mnemonic = "coyote twist glass caution upon cause notable skirt bread chief pair solution";
+var mnemonic = "orphan oblige attack loan buzz spray code print hurt affair slab sorry";

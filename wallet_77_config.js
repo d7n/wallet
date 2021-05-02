@@ -1,1 +1,1 @@
-var mnemonic = "awkward hamster between volcano agree antenna vacant detail lava salad sad fresh";
+var mnemonic = "come exit dove mail crater guitar battle main fresh loud salute index";

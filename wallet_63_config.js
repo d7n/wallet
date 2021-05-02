@@ -1,1 +1,1 @@
-var mnemonic = "frozen trophy shy mixed dust yellow casual clarify social rely oblige twist";
+var mnemonic = "fatal second bean addict pact vault domain cupboard deputy code rather service";

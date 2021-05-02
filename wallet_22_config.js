@@ -1,1 +1,1 @@
-var mnemonic = "market opera amateur length shiver tattoo chase corn true antique egg rebel";
+var mnemonic = "south large eight zebra wrestle fiction elbow about march marriage blue feed";

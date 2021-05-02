@@ -1,1 +1,1 @@
-var mnemonic = "slide know innocent erosion essay worth stuff use device scissors grit ice";
+var mnemonic = "silly throw unit shine during stuff dynamic fiber stereo gas team direct";

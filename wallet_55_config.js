@@ -1,1 +1,1 @@
-var mnemonic = "social enough joke shoot fish bird tool zebra okay burger tiny bronze";
+var mnemonic = "catch omit discover awkward open trip pitch minimum inflict young they bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "climb blouse relief buffalo song obtain engine fruit frequent produce remind govern";
+var mnemonic = "throw route envelope shoot any badge chalk autumn industry lunch retire pond";

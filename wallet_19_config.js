@@ -1,1 +1,1 @@
-var mnemonic = "casino hint desk thing evidence another radio exotic toilet menu whisper limit";
+var mnemonic = "clip van current youth confirm baby belt metal right chat smoke rent";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy foil leg position galaxy cigar chair eager clay during kitchen ketchup";
+var mnemonic = "broken oblige quiz kid outdoor resource upon face oven jeans employ ability";

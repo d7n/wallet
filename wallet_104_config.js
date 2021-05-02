@@ -1,1 +1,1 @@
-var mnemonic = "pipe negative friend female kitchen liquid marriage rival ignore busy dynamic lecture";
+var mnemonic = "ill journey lunar wait budget key curtain raw slim judge blush idle";

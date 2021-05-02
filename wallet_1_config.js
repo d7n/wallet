@@ -1,1 +1,1 @@
-var mnemonic = "insane caution increase pact century color improve behave remember icon ticket people";
+var mnemonic = "zero rhythm title toilet visit more tell plug year young intact reflect";

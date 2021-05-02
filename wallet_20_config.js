@@ -1,1 +1,1 @@
-var mnemonic = "orphan wisdom text wheat budget useless win pony welcome until robust timber";
+var mnemonic = "success believe enable couch flat inform dolphin net antenna welcome fade brisk";

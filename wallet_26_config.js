@@ -1,1 +1,1 @@
-var mnemonic = "toward pilot demise child budget steel cost arctic huge rigid lawsuit kingdom";
+var mnemonic = "rug fever denial holiday hold fox acoustic voyage student chief era ring";

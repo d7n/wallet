@@ -1,1 +1,1 @@
-var mnemonic = "rack start note seven second pyramid gym egg logic initial luggage mosquito";
+var mnemonic = "clarify picture method veteran raccoon faculty gap thumb easy glove virtual gold";

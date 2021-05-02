@@ -1,1 +1,1 @@
-var mnemonic = "remove bench spot border squeeze duty gallery nothing nation crater usual acid";
+var mnemonic = "giant delay visit match expand fee record mean scene settle above rate";

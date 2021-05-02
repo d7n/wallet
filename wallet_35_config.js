@@ -1,1 +1,1 @@
-var mnemonic = "citizen tent topple crop void elevator cash trumpet method intact call ocean";
+var mnemonic = "canyon spare nominee lava tenant disorder another tribe trip route issue clinic";

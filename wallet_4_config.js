@@ -1,1 +1,1 @@
-var mnemonic = "crop track hazard idea split horse rifle company receive width curious silk";
+var mnemonic = "trim attitude shift vacant jeans total olympic region barely doll public blur";

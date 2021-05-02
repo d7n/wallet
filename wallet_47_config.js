@@ -1,1 +1,1 @@
-var mnemonic = "bomb cotton pupil open become easily bacon plate tone enter test supply";
+var mnemonic = "section merit load rate street master motor left thing illness dignity camp";

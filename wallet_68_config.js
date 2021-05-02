@@ -1,1 +1,1 @@
-var mnemonic = "eagle edge brand loan turtle live model power transfer warm verb cushion";
+var mnemonic = "swear image acquire column alien saddle dove alien invite pizza shield engine";

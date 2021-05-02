@@ -1,1 +1,1 @@
-var mnemonic = "glory acoustic earn reopen boring report oyster client quick neglect jungle army";
+var mnemonic = "armor they decline agent obtain useful write silk wet alarm aim video";

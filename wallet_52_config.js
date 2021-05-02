@@ -1,1 +1,1 @@
-var mnemonic = "nasty wine bench mushroom chase agree search style despair mystery depth wall";
+var mnemonic = "clinic cash edge where half guard deer feel ticket tribe drill excite";

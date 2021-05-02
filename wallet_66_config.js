@@ -1,1 +1,1 @@
-var mnemonic = "heart blouse hold life vibrant dish case deposit claw crane receive heavy";
+var mnemonic = "puppy twelve chase pupil ring peasant icon pet pulse inflict music diamond";

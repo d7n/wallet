@@ -1,1 +1,1 @@
-var mnemonic = "true unknown birth hammer begin sea domain wheel social pill seven youth";
+var mnemonic = "kiss train future task click cable amount crane eye roof power scale";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid avocado water identify mango feel fuel define security across marine cloud";
+var mnemonic = "husband forum often frequent ripple seed feed turkey liquid mask debris ring";

@@ -1,1 +1,1 @@
-var mnemonic = "above vivid first twin panel common anchor dress excuse boil segment letter";
+var mnemonic = "swarm lizard wolf crunch burger six leopard miss produce receive mom february";

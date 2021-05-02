@@ -1,1 +1,1 @@
-var mnemonic = "sick sad near disorder shell pulp bicycle over august laugh blue cactus";
+var mnemonic = "spoon door peace caution dragon denial emotion spin border rally result blue";

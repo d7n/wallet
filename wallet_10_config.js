@@ -1,1 +1,1 @@
-var mnemonic = "pave special clay remind tornado nephew produce merry powder wrap choice output";
+var mnemonic = "garden skate enhance child smooth present catch tube bamboo ripple initial awkward";

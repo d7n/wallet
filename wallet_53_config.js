@@ -1,1 +1,1 @@
-var mnemonic = "monitor best erase author soul organ bitter fresh skirt reward improve female";
+var mnemonic = "equip supreme anxiety cupboard call fire pond palace palm pitch royal inherit";

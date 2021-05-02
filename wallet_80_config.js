@@ -1,1 +1,1 @@
-var mnemonic = "salute about leopard candy mandate glimpse walk congress canoe oxygen twist over";
+var mnemonic = "shell buzz cube flower oblige drill circle theme nerve panel frozen reunion";

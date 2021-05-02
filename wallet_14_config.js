@@ -1,1 +1,1 @@
-var mnemonic = "suffer van athlete shy column dutch nut dog laugh normal raven monitor";
+var mnemonic = "carry blouse age jacket like shop garbage abandon busy today move coffee";

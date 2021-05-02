@@ -1,1 +1,1 @@
-var mnemonic = "genius pistol behind diagram nature ocean blur delay sword absurd plug fancy";
+var mnemonic = "gather remain bean gentle moment fashion library prize wealth believe proud pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate chuckle staff wheel squirrel arrive weekend hero picnic color now suggest";
+var mnemonic = "action truth history own client offer excess critic census vintage region urge";

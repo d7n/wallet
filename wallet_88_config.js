@@ -1,1 +1,1 @@
-var mnemonic = "begin beyond tilt leader attack sheriff elegant eye october frame shrug rain";
+var mnemonic = "violin dash fortune novel that bullet someone useless already that forget name";

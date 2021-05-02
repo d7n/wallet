@@ -1,1 +1,1 @@
-var mnemonic = "emotion since resemble diagram memory satoshi regular crunch exact girl market scrap";
+var mnemonic = "alert surprise donor shrimp gift kingdom diamond employ clip away silent near";

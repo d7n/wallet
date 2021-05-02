@@ -1,1 +1,1 @@
-var mnemonic = "opinion recycle fly penalty bachelor erosion clean view cup slender purity jelly";
+var mnemonic = "spatial patrol lizard truck pretty demand pave shuffle reflect goat garlic planet";

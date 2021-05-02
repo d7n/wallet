@@ -1,1 +1,1 @@
-var mnemonic = "ship barrel chat involve knife wash caught stadium evolve viable wave gallery";
+var mnemonic = "attend cake drop remember squirrel action tunnel amateur quick flavor pulp occur";

@@ -1,1 +1,1 @@
-var mnemonic = "carpet spring steel project student file hour canvas shrug myself gloom aware";
+var mnemonic = "demise action video fold stadium scorpion park acid same swear dog east";

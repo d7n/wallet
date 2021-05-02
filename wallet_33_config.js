@@ -1,1 +1,1 @@
-var mnemonic = "heart juice point clever letter weapon forward joke praise east merit slot";
+var mnemonic = "emotion prepare weasel type end easy tilt remind armed verify science shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly sport false diagram expire increase exercise donate debate someone gadget resist";
+var mnemonic = "depend setup there dizzy few fly range frequent west before cage saddle";

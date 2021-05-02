@@ -1,1 +1,1 @@
-var mnemonic = "penalty chimney saddle online coral spike plunge gentle liberty floor game replace";
+var mnemonic = "lion word wrap grant alert course pass minute sheriff table control photo";

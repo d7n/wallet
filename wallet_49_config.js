@@ -1,1 +1,1 @@
-var mnemonic = "slim become learn recycle side common mother drive able amazing fringe neck";
+var mnemonic = "service once curtain gap situate twin sweet over river nominee record electric";

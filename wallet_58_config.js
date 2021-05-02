@@ -1,1 +1,1 @@
-var mnemonic = "universe elephant glass leg exotic clog pull put hurt source ice blood";
+var mnemonic = "deal morning truly flower across accuse wheel exchange luggage diary confirm jump";

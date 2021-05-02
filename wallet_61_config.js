@@ -1,1 +1,1 @@
-var mnemonic = "vibrant alert innocent mind knock fold foot same hawk dolphin present order";
+var mnemonic = "trigger penalty cute light figure wagon upper lift patrol secret breeze deposit";

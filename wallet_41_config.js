@@ -1,1 +1,1 @@
-var mnemonic = "ginger level duck subway race vast ladder cream foot seven target monitor";
+var mnemonic = "tobacco dose december ankle sketch diagram require cement group minor legend butter";

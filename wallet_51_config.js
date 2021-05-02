@@ -1,1 +1,1 @@
-var mnemonic = "north blue message antique across climb scheme lesson entry spike bottom suspect";
+var mnemonic = "peanut domain year awful staff rescue pill inform hidden bronze void expire";

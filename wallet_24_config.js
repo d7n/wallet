@@ -1,1 +1,1 @@
-var mnemonic = "comfort legend neither mass spell talk exotic original mom ugly exclude tobacco";
+var mnemonic = "winter shuffle network route ice someone lawn leaf electric glad tumble leopard";
