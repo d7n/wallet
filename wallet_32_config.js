@@ -1,1 +1,1 @@
-var mnemonic = "gallery depth ensure armed market ordinary dumb erupt thrive cancel potato victory";
+var mnemonic = "frequent base problem tomato blanket judge safe sheriff violin wrestle poet clever";

@@ -1,1 +1,1 @@
-var mnemonic = "media poet alpha endless long cram sound shrug pig weasel result fatigue";
+var mnemonic = "exercise country fever high solve involve science delay miracle web clay whale";

@@ -1,1 +1,1 @@
-var mnemonic = "million advice project robot between soup select ability catch rookie there extra";
+var mnemonic = "wait oil rude hold blush tent usual royal force giggle that tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "pause pride dizzy review spread night mixed puppy exhaust mimic enjoy side";
+var mnemonic = "nothing glass zoo crop sand turkey intact swim hold language this other";

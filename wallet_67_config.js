@@ -1,1 +1,1 @@
-var mnemonic = "suspect acquire raven target winter clutch diesel world voyage oblige exact horn";
+var mnemonic = "dress price same join attend hybrid morning hire unveil special display empty";

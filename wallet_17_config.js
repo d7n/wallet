@@ -1,1 +1,1 @@
-var mnemonic = "same size rabbit pulp visa property sting crouch obtain glide step bean";
+var mnemonic = "target trade egg blast indoor elder fat duty fold shift supply select";

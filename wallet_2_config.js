@@ -1,1 +1,1 @@
-var mnemonic = "proud trust install demise cable shock record title donkey van execute rug";
+var mnemonic = "math voyage resist load east check purpose pink charge proof shoe meat";

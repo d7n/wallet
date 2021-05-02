@@ -1,1 +1,1 @@
-var mnemonic = "void guide myself blur observe novel worry umbrella payment pass detect monkey";
+var mnemonic = "flush update provide chalk pill draw hood army maze urge quit abstract";

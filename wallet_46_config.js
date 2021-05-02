@@ -1,1 +1,1 @@
-var mnemonic = "inhale solid space scare elder much gauge public hobby unknown nest toward";
+var mnemonic = "rude ticket broom glide quarter black high prevent reflect idle field jaguar";

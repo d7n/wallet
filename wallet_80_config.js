@@ -1,1 +1,1 @@
-var mnemonic = "light bundle derive math climb junior impact echo deal jump knock harbor";
+var mnemonic = "forest lizard fit sick home that despair action grit prevent goose drop";

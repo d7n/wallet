@@ -1,1 +1,1 @@
-var mnemonic = "science fix flee attract cup vital flight update express detail width crumble";
+var mnemonic = "cage pottery index rack nose rich fitness royal alien swallow special asset";

@@ -1,1 +1,1 @@
-var mnemonic = "garage dress pigeon side pepper rack rescue visa notice error shallow enable";
+var mnemonic = "result nut vacant rhythm ill paper genre educate venture upon huge social";

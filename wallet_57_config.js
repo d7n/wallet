@@ -1,1 +1,1 @@
-var mnemonic = "faculty label rabbit element mammal time wine seminar force orient like staff";
+var mnemonic = "spot rotate shy eager test same tired range manual shock ride cherry";

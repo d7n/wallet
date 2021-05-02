@@ -1,1 +1,1 @@
-var mnemonic = "absent rain crash mirror myth palm sponsor impulse clinic uniform avocado machine";
+var mnemonic = "define blood calm regret member fiction lottery ignore this chicken rescue mutual";

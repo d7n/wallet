@@ -1,1 +1,1 @@
-var mnemonic = "shoot vast remind inhale maple extend spray pepper tell layer toast winner";
+var mnemonic = "daring usage project again among coach load throw logic awesome dash length";

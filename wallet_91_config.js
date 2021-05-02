@@ -1,1 +1,1 @@
-var mnemonic = "rigid jungle burger quarter whisper rare slab good what arena direct thank";
+var mnemonic = "cram silk vanish critic cliff similar match door addict soda problem valley";

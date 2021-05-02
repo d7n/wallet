@@ -1,1 +1,1 @@
-var mnemonic = "scrub village toe ghost clog voice together edit addict actress rug autumn";
+var mnemonic = "donor disagree pear share mimic find witness depend clutch boil only common";

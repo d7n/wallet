@@ -1,1 +1,1 @@
-var mnemonic = "liar end divert bind stereo nature wrap team capital deliver lecture kitchen";
+var mnemonic = "annual own clarify kingdom edge health dune note valley dignity federal inmate";

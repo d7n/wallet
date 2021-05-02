@@ -1,1 +1,1 @@
-var mnemonic = "already pumpkin perfect suspect enroll goat pioneer dash illness drive weird scrub";
+var mnemonic = "adult renew general fragile cactus plate flock myself earth enrich maid bronze";

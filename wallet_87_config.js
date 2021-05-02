@@ -1,1 +1,1 @@
-var mnemonic = "ability steak impulse ripple across reason absorb silk limb menu swift rally";
+var mnemonic = "cluster silent head cargo order theme mushroom struggle river fence expect link";

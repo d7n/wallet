@@ -1,1 +1,1 @@
-var mnemonic = "divide zone salt narrow replace actress disorder shove flavor second repair stool";
+var mnemonic = "kit island invite rapid snap crash dumb tail satoshi laundry old decline";

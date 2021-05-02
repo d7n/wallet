@@ -1,1 +1,1 @@
-var mnemonic = "shift blast describe used alone rough pulp devote again enforce museum warrior";
+var mnemonic = "point again relief virus tube spike kangaroo magic ten elevator dolphin rebuild";

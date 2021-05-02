@@ -1,1 +1,1 @@
-var mnemonic = "thunder exit solution dune cute arrest early jaguar now sorry error problem";
+var mnemonic = "hazard obey raccoon warrior exclude program flag today beach soccer dismiss water";

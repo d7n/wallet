@@ -1,1 +1,1 @@
-var mnemonic = "crowd ball exist easy lumber sauce crew device glue neck tuna motion";
+var mnemonic = "snow oil book measure banner agent castle amused link key since diesel";

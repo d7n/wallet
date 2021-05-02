@@ -1,1 +1,1 @@
-var mnemonic = "era exhibit canvas high humor toilet spoon blast screen debate chair render";
+var mnemonic = "genre utility whale twin route art civil history strong brick flush melody";

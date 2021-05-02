@@ -1,1 +1,1 @@
-var mnemonic = "fruit burden physical sample caution heavy involve chicken urban group road original";
+var mnemonic = "butter credit wisdom enforce train clock common receive wisdom club erase sad";

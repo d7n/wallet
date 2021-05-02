@@ -1,1 +1,1 @@
-var mnemonic = "when category airport domain end luxury hawk dolphin secret range butter purpose";
+var mnemonic = "upon then soap quantum cross exit repeat pipe muscle gallery nation truly";

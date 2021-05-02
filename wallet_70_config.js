@@ -1,1 +1,1 @@
-var mnemonic = "base upon office promote family feel elite tide element dish wide wish";
+var mnemonic = "goddess sea language position happy quit shoot trend improve tree region hour";

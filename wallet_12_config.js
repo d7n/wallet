@@ -1,1 +1,1 @@
-var mnemonic = "impose wood motion multiply what taxi pilot awesome call already cool buddy";
+var mnemonic = "flash average save siege base nurse trap what misery version fever sausage";

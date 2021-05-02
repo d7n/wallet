@@ -1,1 +1,1 @@
-var mnemonic = "army fame ceiling odor lock write silent primary slide imitate chaos welcome";
+var mnemonic = "glass sing base silly object hole woman tragic property resist divorce express";

@@ -1,1 +1,1 @@
-var mnemonic = "divorce current feed dream attract praise latin urban cat announce private grunt";
+var mnemonic = "guide giant omit where route buddy cupboard film rabbit fabric juice impose";

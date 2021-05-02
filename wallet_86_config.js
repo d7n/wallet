@@ -1,1 +1,1 @@
-var mnemonic = "hungry define swear trash drive fog taste later pond fog poverty resemble";
+var mnemonic = "shaft extra picnic portion daughter cup carry model genius sick door velvet";

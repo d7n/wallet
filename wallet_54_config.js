@@ -1,1 +1,1 @@
-var mnemonic = "lemon exotic mistake novel prevent kind aunt vast notable minimum evidence wreck";
+var mnemonic = "gain level illegal mimic calm again speed table sunny jaguar bean garment";

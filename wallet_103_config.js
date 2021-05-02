@@ -1,1 +1,1 @@
-var mnemonic = "age small category tribe damage flip hunt mandate vocal point gun medal";
+var mnemonic = "jar wild visit box sell lobster elbow lobster very lens warrior craft";

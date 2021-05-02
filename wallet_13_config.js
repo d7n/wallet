@@ -1,1 +1,1 @@
-var mnemonic = "dry broccoli champion tube ticket fork staff convince carry near measure urban";
+var mnemonic = "coconut true cannon album vapor erode west claw zebra tattoo brick square";

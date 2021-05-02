@@ -1,1 +1,1 @@
-var mnemonic = "soft fly gift legend boil phone monster luxury coil boil beauty harbor";
+var mnemonic = "tip hole trick general road suspect forum gorilla edit cancel sausage garage";

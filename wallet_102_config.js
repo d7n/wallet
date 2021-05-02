@@ -1,1 +1,1 @@
-var mnemonic = "sugar rocket example anger jealous later usage echo soldier result grit simple";
+var mnemonic = "inmate nasty merit balance evidence wine silent entry exact faint cluster turkey";

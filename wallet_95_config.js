@@ -1,1 +1,1 @@
-var mnemonic = "material citizen sketch install myth grow expose mesh save bonus dinner you";
+var mnemonic = "merge lottery repair tribe miracle multiply movie hybrid heavy split forum smile";

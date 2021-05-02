@@ -1,1 +1,1 @@
-var mnemonic = "victory tell rural group arrest dove pioneer misery friend blast antique damp";
+var mnemonic = "year inspire drip plastic choose waste find obtain sound humor lens whip";

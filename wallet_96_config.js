@@ -1,1 +1,1 @@
-var mnemonic = "tribe unaware hungry cradle autumn heavy pride region know install captain swap";
+var mnemonic = "avoid announce horse machine wrap cycle envelope ensure swift rescue shed toy";

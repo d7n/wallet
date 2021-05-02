@@ -1,1 +1,1 @@
-var mnemonic = "advice lesson tide tomorrow brush syrup extend wine modify jeans mesh grid";
+var mnemonic = "spin reflect web lady dad cage turn luggage brass purity knee point";

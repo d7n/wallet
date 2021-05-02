@@ -1,1 +1,1 @@
-var mnemonic = "fitness situate warfare tide arrow excite nice goat absorb trip panther chapter";
+var mnemonic = "leisure segment engage solve mandate pen egg report wife tattoo best churn";

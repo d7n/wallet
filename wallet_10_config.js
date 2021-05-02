@@ -1,1 +1,1 @@
-var mnemonic = "situate sorry nose satoshi method rail green attitude wide pact horror goddess";
+var mnemonic = "banana capital rate floor myself fiction reason same pig display double debate";

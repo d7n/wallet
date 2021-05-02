@@ -1,1 +1,1 @@
-var mnemonic = "aim dinner section sleep surface victory cattle chimney type venue rich mobile";
+var mnemonic = "deputy barely fabric elephant april abstract onion supply comic airport double civil";

@@ -1,1 +1,1 @@
-var mnemonic = "oil raccoon unveil animal tired forum soap ready demand resemble strategy swift";
+var mnemonic = "faith half vessel merit inherit multiply moment wing assist bar smart frown";

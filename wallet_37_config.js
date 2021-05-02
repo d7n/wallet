@@ -1,1 +1,1 @@
-var mnemonic = "account gun media upset ketchup fresh alone puzzle canoe melody immune awesome";
+var mnemonic = "arch steel extra people train warrior favorite material wish update dance cash";

@@ -1,1 +1,1 @@
-var mnemonic = "ethics become plastic edge provide vendor sweet click jealous monkey enact disorder";
+var mnemonic = "emerge sister warrior couch diary text album suggest trouble gentle glimpse head";

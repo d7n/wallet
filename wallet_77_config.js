@@ -1,1 +1,1 @@
-var mnemonic = "mammal viable fatal dash bind outer defense color donor kit better poverty";
+var mnemonic = "candy diary net arrange smooth icon amateur dentist sock picnic rib grit";

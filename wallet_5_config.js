@@ -1,1 +1,1 @@
-var mnemonic = "author planet enemy sort cabbage friend treat cause rival inflict harsh salon";
+var mnemonic = "key slight certain feed phrase vault found pilot poverty liberty carry glow";

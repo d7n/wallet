@@ -1,1 +1,1 @@
-var mnemonic = "drum enhance scene exile below luxury net motor useless boss heart what";
+var mnemonic = "raccoon crew scare guilt place mango ability still must kingdom crunch repair";

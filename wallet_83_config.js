@@ -1,1 +1,1 @@
-var mnemonic = "name lava flight world crane myself math nut member install camp bullet";
+var mnemonic = "conduct conduct member call belt bag erosion belt defy wagon cotton special";

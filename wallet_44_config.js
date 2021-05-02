@@ -1,1 +1,1 @@
-var mnemonic = "various labor worry orient make monkey drink rich lottery filter play opinion";
+var mnemonic = "paper service secret entry hurry such warrior initial leisure view illness side";

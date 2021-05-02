@@ -1,1 +1,1 @@
-var mnemonic = "fog give episode vessel age tonight normal timber depend index emerge sadness";
+var mnemonic = "canyon you virtual million conduct address enrich find apology summer cluster edit";

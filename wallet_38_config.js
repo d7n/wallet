@@ -1,1 +1,1 @@
-var mnemonic = "congress dream buyer narrow pupil wide submit sleep mobile strike coral title";
+var mnemonic = "garden collect market home tornado exist payment honey vendor fly man cloth";

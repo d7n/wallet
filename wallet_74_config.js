@@ -1,1 +1,1 @@
-var mnemonic = "nurse match injury season mandate faith call mutual eye tobacco open pretty";
+var mnemonic = "they need harsh dry asset antique glide start ready tiny shift trap";

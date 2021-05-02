@@ -1,1 +1,1 @@
-var mnemonic = "certain improve cargo address engage define rally effort ugly jeans husband orange";
+var mnemonic = "engage chuckle phrase use buddy clinic wagon effort lucky orbit frame bracket";

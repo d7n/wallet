@@ -1,1 +1,1 @@
-var mnemonic = "cereal odor prison fix crunch festival later cube escape wife base fan";
+var mnemonic = "poem shift jewel eyebrow spring pottery blanket legend myth tourist lunar filter";

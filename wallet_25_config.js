@@ -1,1 +1,1 @@
-var mnemonic = "lyrics sauce era quality detect debate wheel critic cute unlock small marble";
+var mnemonic = "churn drink tunnel when seek inner file legend atom pupil potato game";

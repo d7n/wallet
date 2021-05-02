@@ -1,1 +1,1 @@
-var mnemonic = "federal achieve salute rug saddle bonus gasp charge stone divorce point one";
+var mnemonic = "clarify midnight song burden minor ski example govern remember oppose just bar";

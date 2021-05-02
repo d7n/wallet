@@ -1,1 +1,1 @@
-var mnemonic = "upper design happy medal ride fury camera veteran bronze area sample vicious";
+var mnemonic = "inherit scrub gorilla design warfare current short age acquire pattern exact basket";

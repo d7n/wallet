@@ -1,1 +1,1 @@
-var mnemonic = "future ketchup bundle digital purse column main loop hobby unlock discover culture";
+var mnemonic = "error faint trust velvet offer damp dress sell shy advance spider left";

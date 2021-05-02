@@ -1,1 +1,1 @@
-var mnemonic = "guard angry ecology desk come woman cave cost become exhaust alarm hawk";
+var mnemonic = "broken dry other person aspect south remind toast slam tent palm they";

@@ -1,1 +1,1 @@
-var mnemonic = "idle tide puppy clean infant battle whale young erosion vessel call vast";
+var mnemonic = "stage december machine mercy violin gather blue engine pulp stool water bullet";

@@ -1,1 +1,1 @@
-var mnemonic = "crane romance dish reunion reject able burger oblige prevent biology asset despair";
+var mnemonic = "faculty ostrich comic dwarf ball source female march road dinosaur venue gauge";

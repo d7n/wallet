@@ -1,1 +1,1 @@
-var mnemonic = "hard arrive excite young pumpkin ribbon board oven bargain soap negative address";
+var mnemonic = "excite addict trouble stove half limit tiger defy income moment tree liquid";

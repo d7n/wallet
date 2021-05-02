@@ -1,1 +1,1 @@
-var mnemonic = "apology spatial army major canyon luxury cement swap jazz blossom bring build";
+var mnemonic = "walk decade blush swear very child young because divorce result sample cabin";

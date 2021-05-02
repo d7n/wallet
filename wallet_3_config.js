@@ -1,1 +1,1 @@
-var mnemonic = "laptop rent globe artist october maple fatigue recall marriage until nominee pool";
+var mnemonic = "digital small bike bounce arctic rebuild chest still combine section select affair";

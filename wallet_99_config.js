@@ -1,1 +1,1 @@
-var mnemonic = "jewel abstract museum three hurry special sauce plate expand property tennis custom";
+var mnemonic = "dog friend famous nurse urge school raise diagram inform reopen lens globe";

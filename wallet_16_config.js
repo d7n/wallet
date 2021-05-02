@@ -1,1 +1,1 @@
-var mnemonic = "day black craft hungry usual later display only pass iron abuse ticket";
+var mnemonic = "enable van speak arm foster pair wisdom cinnamon strong reflect chest naive";

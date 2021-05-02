@@ -1,1 +1,1 @@
-var mnemonic = "lady merry input kit trophy forward deputy segment hint robot home odor";
+var mnemonic = "action wonder rotate whisper inhale extend steel phrase there tip satoshi margin";

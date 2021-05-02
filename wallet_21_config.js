@@ -1,1 +1,1 @@
-var mnemonic = "injury label cousin unlock chimney inside color scissors evolve ridge click immense";
+var mnemonic = "victory together saddle pelican market damp oak attack place brown solve hobby";

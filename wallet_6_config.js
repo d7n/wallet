@@ -1,1 +1,1 @@
-var mnemonic = "feed assist erupt manage recall hard tattoo essence churn guess armor wonder";
+var mnemonic = "topple mixed wolf address fiscal dose fame disagree torch lawn shoe body";

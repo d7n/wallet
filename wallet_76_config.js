@@ -1,1 +1,1 @@
-var mnemonic = "final same music share giraffe fame sport patient parent bag chef cash";
+var mnemonic = "process voice tip bring patch network jelly critic glue glide client forget";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort swift sketch pet satisfy undo coyote innocent switch boost suspect subway";
+var mnemonic = "improve search best eagle clinic uncover consider sell dirt final dragon key";

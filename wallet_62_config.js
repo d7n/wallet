@@ -1,1 +1,1 @@
-var mnemonic = "state knock robot inside nest obvious knee lab excess heart section gain";
+var mnemonic = "gap forward wisdom scheme bubble hello swim pull prosper stand frequent kitchen";

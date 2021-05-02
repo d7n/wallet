@@ -1,1 +1,1 @@
-var mnemonic = "praise card diary tuition much this mad sun quality clerk plunge good";
+var mnemonic = "pact matter floor frequent frog envelope slow inquiry oxygen aspect slender mandate";

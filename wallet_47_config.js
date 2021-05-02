@@ -1,1 +1,1 @@
-var mnemonic = "mom empty grow steak endorse mule top spoon wrap piano tired mixture";
+var mnemonic = "manual disagree glide choice powder lamp search hint emerge invite soccer evolve";

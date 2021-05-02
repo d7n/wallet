@@ -1,1 +1,1 @@
-var mnemonic = "sniff gorilla argue surface phone autumn vanish orbit bright innocent elite web";
+var mnemonic = "gorilla arrest rib rabbit swamp predict rotate job maximum lyrics glass clump";

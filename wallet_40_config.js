@@ -1,1 +1,1 @@
-var mnemonic = "live stem polar junk bonus wolf long alarm frog lady october wall";
+var mnemonic = "volume lock vital popular helmet door phone live gauge neglect shed diamond";

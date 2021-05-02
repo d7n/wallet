@@ -1,1 +1,1 @@
-var mnemonic = "ring chicken inch update claw typical march soft exact rubber jazz mom";
+var mnemonic = "segment analyst danger country strike machine express snake grape notice leader analyst";

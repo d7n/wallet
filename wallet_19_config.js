@@ -1,1 +1,1 @@
-var mnemonic = "episode keen acoustic essay inner board large use strong stuff copper private";
+var mnemonic = "coach remain chapter plunge hurry fiscal impulse debate depend security frame ski";

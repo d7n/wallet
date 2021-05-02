@@ -1,1 +1,1 @@
-var mnemonic = "follow deposit canal letter mixture shy settle isolate left whip woman banner";
+var mnemonic = "exchange core husband divide robust mesh animal such absorb average despair noise";

@@ -1,1 +1,1 @@
-var mnemonic = "transfer say drop alpha recycle ethics history city bone stove phrase please";
+var mnemonic = "erupt reject judge scrap grain course anxiety tool anxiety struggle lava brush";

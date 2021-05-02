@@ -1,1 +1,1 @@
-var mnemonic = "champion public salad easily where fever now input pulp gas swift lonely";
+var mnemonic = "you lady shrug measure shaft rocket gorilla squeeze hole admit endless ignore";

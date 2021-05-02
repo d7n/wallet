@@ -1,1 +1,1 @@
-var mnemonic = "gadget flavor umbrella hammer shoe canoe rich distance adult fossil joke parade";
+var mnemonic = "month egg hospital tiny disorder describe spin vintage used inside curve combine";

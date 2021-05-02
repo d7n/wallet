@@ -1,1 +1,1 @@
-var mnemonic = "coral chair install glide unaware nut keep quantum sell client bleak answer";
+var mnemonic = "fan zebra rack peasant tide travel fragile ozone wife dinosaur raise course";

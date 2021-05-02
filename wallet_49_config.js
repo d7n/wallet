@@ -1,1 +1,1 @@
-var mnemonic = "remind accident profit drop benefit cash pass earth gaze impact random together";
+var mnemonic = "scissors faculty duty fluid ability dad rich buzz state color pumpkin evil";

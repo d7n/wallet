@@ -1,1 +1,1 @@
-var mnemonic = "sniff ten symptom tuition circle shiver vague bamboo ginger know width road";
+var mnemonic = "walk rocket neutral pelican logic close earth behind tuition dignity security team";

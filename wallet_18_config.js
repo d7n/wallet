@@ -1,1 +1,1 @@
-var mnemonic = "crawl payment hawk blush vacant spatial jewel erode what gown there latin";
+var mnemonic = "room stable soup release clown dove air fluid flavor reason elevator album";

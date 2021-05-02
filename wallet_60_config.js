@@ -1,1 +1,1 @@
-var mnemonic = "candy edit verify country lizard kite negative undo tunnel define few art";
+var mnemonic = "mix top fortune patient fiber harsh swarm fix display faculty smart until";

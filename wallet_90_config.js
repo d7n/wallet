@@ -1,1 +1,1 @@
-var mnemonic = "guard slogan buddy erupt taxi duck twist hole gun faint quality deputy";
+var mnemonic = "focus proof train involve sight mango plate tomorrow cargo point nature siren";

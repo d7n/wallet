@@ -1,1 +1,1 @@
-var mnemonic = "box casino guilt raw fringe genuine fine enlist mean type upgrade sorry";
+var mnemonic = "process bitter sibling tortoise fence fan goat system figure inmate thrive document";
