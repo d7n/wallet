@@ -1,1 +1,1 @@
-var mnemonic = "sponsor enjoy horn dentist sponsor resource pill spend sort tunnel neglect fame";
+var mnemonic = "salmon report grief blossom brain dirt round click find bronze acquire unit";

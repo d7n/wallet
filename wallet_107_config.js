@@ -1,1 +1,1 @@
-var mnemonic = "three dismiss smoke senior sock flame twist now spell flower room erode";
+var mnemonic = "foil garbage acquire mistake please sausage merge ordinary wedding oblige arm walk";

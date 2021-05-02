@@ -1,1 +1,1 @@
-var mnemonic = "misery rich uncover venue sponsor fame machine indoor inform ill thought seven";
+var mnemonic = "milk sustain snack jaguar honey borrow clip tube canvas excess nest harbor";

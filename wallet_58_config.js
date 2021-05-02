@@ -1,1 +1,1 @@
-var mnemonic = "music dentist wire erupt tree spin race scatter candy fan hawk option";
+var mnemonic = "half song foot client young knock bind level board stem media size";

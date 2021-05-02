@@ -1,1 +1,1 @@
-var mnemonic = "amount picture inflict grid huge artist moment avocado reason thank awake despair";
+var mnemonic = "avocado mask flee initial length fame solution turkey panther raccoon cliff drop";

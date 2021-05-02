@@ -1,1 +1,1 @@
-var mnemonic = "pull try crash stomach verb swear entire unusual next finger icon tilt";
+var mnemonic = "brisk flight method phone thank reflect father clown large mercy cart flag";

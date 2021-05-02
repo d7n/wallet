@@ -1,1 +1,1 @@
-var mnemonic = "page outside farm intact report float doctor session carry wife glove genuine";
+var mnemonic = "bring accuse turkey spawn large awkward track struggle unlock device cabbage crush";

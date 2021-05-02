@@ -1,1 +1,1 @@
-var mnemonic = "winter project venue drip artefact play lady clarify bless fiber tumble robot";
+var mnemonic = "false either travel mother inside invest ozone cruel learn hurry boat accident";

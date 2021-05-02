@@ -1,1 +1,1 @@
-var mnemonic = "private husband rich dinosaur comic travel utility slide local alien leisure ticket";
+var mnemonic = "audit brother double rare ripple below pupil whip hedgehog purchase draw pitch";

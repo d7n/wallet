@@ -1,1 +1,1 @@
-var mnemonic = "fog situate capital thing various pepper donkey dilemma fox engage shell ignore";
+var mnemonic = "about exhaust marriage bacon scheme material unique result apology lake cheese nerve";

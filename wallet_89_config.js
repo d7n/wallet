@@ -1,1 +1,1 @@
-var mnemonic = "vocal actress humor camera lesson permit host winter clinic goddess gather bean";
+var mnemonic = "opera reveal model worry strike time domain quiz verify cycle brisk hospital";

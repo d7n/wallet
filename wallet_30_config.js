@@ -1,1 +1,1 @@
-var mnemonic = "quantum vendor assist economy virus skull valley myself grant describe mansion setup";
+var mnemonic = "error frame web hat fee exotic ability fiber turkey scissors cradle east";

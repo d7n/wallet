@@ -1,1 +1,1 @@
-var mnemonic = "saddle sister bundle charge oxygen ginger unveil unable proof surface public black";
+var mnemonic = "advice coil cat team sting arctic replace orphan shoot embody margin sing";

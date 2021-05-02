@@ -1,1 +1,1 @@
-var mnemonic = "venture absurd rural news bundle gaze sorry bomb crater glide slab enroll";
+var mnemonic = "turtle diagram broken initial isolate sketch lonely foot noble entire mind insect";

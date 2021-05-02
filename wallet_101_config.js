@@ -1,1 +1,1 @@
-var mnemonic = "increase curtain casino street general mask dirt expose harsh between matter stone";
+var mnemonic = "state mouse visa morning million type clinic prison payment rare fish arrow";

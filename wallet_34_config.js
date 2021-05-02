@@ -1,1 +1,1 @@
-var mnemonic = "robot toilet sell domain caught traffic delay target afford meadow mobile video";
+var mnemonic = "gentle sudden wool cheap hurt aim barely hub flash fix person jar";

@@ -1,1 +1,1 @@
-var mnemonic = "logic bargain distance blouse twin situate minute faint party hawk wire scatter";
+var mnemonic = "cart economy monkey relief pole ranch spread throw october pistol wife flash";

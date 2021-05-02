@@ -1,1 +1,1 @@
-var mnemonic = "antenna chef undo opera aware media achieve error hover wealth divide sweet";
+var mnemonic = "obvious science dragon unfold oil foam napkin dilemma anger raccoon child pepper";

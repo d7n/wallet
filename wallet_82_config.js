@@ -1,1 +1,1 @@
-var mnemonic = "venture corn axis develop motion dose satisfy truck pet hub stage coral";
+var mnemonic = "radio mansion must spoil dwarf spend aim defense learn leisure raccoon caught";

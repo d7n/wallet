@@ -1,1 +1,1 @@
-var mnemonic = "carry nose family trial ostrich slight dwarf labor bike upon wrist puzzle";
+var mnemonic = "flock solve swallow life fruit renew sausage firm jar vibrant fury obey";

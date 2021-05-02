@@ -1,1 +1,1 @@
-var mnemonic = "relief symbol yellow music height friend easy foot cloth blood laundry candy";
+var mnemonic = "make differ then air clerk gown deliver moon movie live grab mass";

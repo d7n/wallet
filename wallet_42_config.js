@@ -1,1 +1,1 @@
-var mnemonic = "reveal key clip road oppose update peanut measure slide decrease employ supply";
+var mnemonic = "rather visual spider mule wine mandate slot human found various over crush";

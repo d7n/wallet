@@ -1,1 +1,1 @@
-var mnemonic = "whip pave wide pudding today virus hundred pioneer light demand parent dwarf";
+var mnemonic = "puzzle boss reflect add round angry slender find plastic transfer alien country";

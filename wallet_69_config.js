@@ -1,1 +1,1 @@
-var mnemonic = "weasel coach interest transfer pair equal fluid wisdom poverty donor need elbow";
+var mnemonic = "laugh toe afraid diesel lava suggest govern display flag violin apology proud";

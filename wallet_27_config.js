@@ -1,1 +1,1 @@
-var mnemonic = "rug fever group flag inmate trade silly flee coast patient artwork hole";
+var mnemonic = "horse large bitter push early army indoor three fold cannon shift chicken";

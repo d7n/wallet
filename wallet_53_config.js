@@ -1,1 +1,1 @@
-var mnemonic = "attitude sail weapon behave smooth kid price measure ready grass future another";
+var mnemonic = "scene auction donkey beyond donate hour patient weather baby dutch pen riot";

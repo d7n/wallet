@@ -1,1 +1,1 @@
-var mnemonic = "tail keen oak image element decade inflict fetch legal permit certain version";
+var mnemonic = "chair company noble unhappy miss metal lend fuel very beef fantasy stomach";

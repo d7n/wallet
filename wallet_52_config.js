@@ -1,1 +1,1 @@
-var mnemonic = "expect file knife horn sheriff fold today duty apple coin main party";
+var mnemonic = "morning match still gold foil task fresh wisdom pond edge dose laugh";

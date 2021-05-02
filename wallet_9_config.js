@@ -1,1 +1,1 @@
-var mnemonic = "chronic beauty fantasy since sense kite plunge desk later update dust immense";
+var mnemonic = "special promote kiwi taste raise payment height load seed label donate mosquito";

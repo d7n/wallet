@@ -1,1 +1,1 @@
-var mnemonic = "this business west umbrella surprise mutual marriage girl concert enter meadow toilet";
+var mnemonic = "chapter junk bind vicious era more inflict family mandate bright crime oven";

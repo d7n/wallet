@@ -1,1 +1,1 @@
-var mnemonic = "party barely east toilet horn gown whisper empty spot torch faculty aim";
+var mnemonic = "spy together food stem immense pair weapon gesture argue vapor alert odor";

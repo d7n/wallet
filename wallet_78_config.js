@@ -1,1 +1,1 @@
-var mnemonic = "vehicle obtain vapor thumb broom hotel confirm shoe fire tenant submit number";
+var mnemonic = "image today online dial syrup chalk merge various index genuine tragic blush";

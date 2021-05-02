@@ -1,1 +1,1 @@
-var mnemonic = "hello service belt early ceiling panic fluid eagle quiz analyst noodle worry";
+var mnemonic = "jewel risk crazy slogan candy kiss potato lyrics mansion fit market forward";

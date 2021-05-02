@@ -1,1 +1,1 @@
-var mnemonic = "property yard pepper resist reject chief cable mixture adjust census tomato group";
+var mnemonic = "label pupil trade scale race someone trim brick ignore tower noodle real";

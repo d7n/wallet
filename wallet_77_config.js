@@ -1,1 +1,1 @@
-var mnemonic = "dash ritual dumb point ahead odor trust alter corn music screen response";
+var mnemonic = "input biology couple theme hen index mail confirm brown winner correct tumble";

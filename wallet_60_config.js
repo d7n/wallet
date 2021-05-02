@@ -1,1 +1,1 @@
-var mnemonic = "olympic theme grit enact sad danger own guess town online urban slush";
+var mnemonic = "valid midnight dry bullet total picture thunder fox culture soldier quiz scout";

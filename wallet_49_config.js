@@ -1,1 +1,1 @@
-var mnemonic = "effort unknown mix spin senior response sadness present oppose sail cinnamon ripple";
+var mnemonic = "ranch nuclear grief keen february width combine green option stomach almost rabbit";

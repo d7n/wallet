@@ -1,1 +1,1 @@
-var mnemonic = "mother flag speak truth bird lemon joke save vehicle bright benefit crack";
+var mnemonic = "swap atom bridge copper dog resist apart tiger maple stairs relax giant";

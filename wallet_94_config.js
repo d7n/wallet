@@ -1,1 +1,1 @@
-var mnemonic = "lesson dance version uniform van energy cage phone text arrange marriage abuse";
+var mnemonic = "rough strategy antenna bean toe modify cliff idle visual absent space march";

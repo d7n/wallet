@@ -1,1 +1,1 @@
-var mnemonic = "length radio divert ill lounge vanish speed habit useless board time chef";
+var mnemonic = "announce return luggage panther atom broom come math lion rain gym cabin";

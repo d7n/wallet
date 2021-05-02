@@ -1,1 +1,1 @@
-var mnemonic = "merge achieve clerk hundred fence grass warrior void odor pioneer honey climb";
+var mnemonic = "farm scale finger veteran write under seed stairs state unfold never title";

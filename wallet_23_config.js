@@ -1,1 +1,1 @@
-var mnemonic = "deer since save train six venture bike finger ignore ocean quality yard";
+var mnemonic = "census cruise scan mail palace drastic spider interest there fold air couch";

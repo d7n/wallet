@@ -1,1 +1,1 @@
-var mnemonic = "mixed question travel alpha resist expand tribe glory aware aware achieve filter";
+var mnemonic = "color eternal carpet genuine hybrid source icon key rate ability spatial nephew";

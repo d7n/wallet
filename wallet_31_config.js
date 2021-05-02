@@ -1,1 +1,1 @@
-var mnemonic = "route tray sketch float material owner wise coffee grief wise buddy loan";
+var mnemonic = "seat swarm hungry match only stuff material use glimpse grit word harbor";

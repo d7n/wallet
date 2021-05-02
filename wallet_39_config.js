@@ -1,1 +1,1 @@
-var mnemonic = "desk genre net teach void pause topple blood unhappy team moral peasant";
+var mnemonic = "model kind burst employ weapon when link swim only urban wasp appear";

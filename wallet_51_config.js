@@ -1,1 +1,1 @@
-var mnemonic = "lift feed peanut filter merge text during garlic female night share hazard";
+var mnemonic = "idea doctor february labor toddler language manage shallow illness world stick blind";

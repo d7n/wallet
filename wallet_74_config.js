@@ -1,1 +1,1 @@
-var mnemonic = "mind gym ceiling inmate derive mind promote abuse inch spirit shed behind";
+var mnemonic = "amount oyster firm select alarm wire brisk write cannon certain humor wrap";

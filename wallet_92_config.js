@@ -1,1 +1,1 @@
-var mnemonic = "mind truth term peace cup food visit awkward odor finger seat tortoise";
+var mnemonic = "crowd tissue chunk derive away special three outside upon wife autumn fossil";

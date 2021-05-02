@@ -1,1 +1,1 @@
-var mnemonic = "deer decline leave market acid run diet rail trip faculty bread tornado";
+var mnemonic = "enact settle snake purse amateur perfect rocket health donate price sustain fame";

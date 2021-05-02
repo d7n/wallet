@@ -1,1 +1,1 @@
-var mnemonic = "moral deposit already neutral fresh solve nice orbit west model stairs balance";
+var mnemonic = "peace rice board hunt roast dizzy endorse wrong search journey orphan exchange";

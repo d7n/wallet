@@ -1,1 +1,1 @@
-var mnemonic = "avoid exact noise talent hood pulse math whisper duck cheap shrimp enjoy";
+var mnemonic = "tilt runway zoo dismiss true season major choice push wall grit fame";

@@ -1,1 +1,1 @@
-var mnemonic = "noble pool life seminar actress clever side nerve useless upper review aisle";
+var mnemonic = "state whip bundle shuffle cattle siege dice usage bitter member carpet delay";

@@ -1,1 +1,1 @@
-var mnemonic = "deer choice cruise belt relief theory giant toe replace audit tonight fabric";
+var mnemonic = "bunker grass body talk prison joy soldier bring ozone omit kiwi catalog";

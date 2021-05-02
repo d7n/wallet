@@ -1,1 +1,1 @@
-var mnemonic = "primary absurd stone teach urge click return scene join idle cement page";
+var mnemonic = "wool write invite three security mobile hood demise sight cancel click health";

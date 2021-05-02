@@ -1,1 +1,1 @@
-var mnemonic = "copy menu exile bargain figure quote unique clerk soccer vanish illegal fruit";
+var mnemonic = "save window frequent middle expire barely run innocent entry neither appear casual";

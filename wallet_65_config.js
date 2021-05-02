@@ -1,1 +1,1 @@
-var mnemonic = "resist kingdom mirror beef during bird ecology ability limit famous legend price";
+var mnemonic = "shiver crane smile purpose expire home display hybrid tribe state witness orient";

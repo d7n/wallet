@@ -1,1 +1,1 @@
-var mnemonic = "pattern trigger invest blood chimney width poem sun act entire couch idea";
+var mnemonic = "exotic social wagon return fold wonder often myth help debris asthma ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "cat window meat census media maple jazz fruit elegant person attitude crater";
+var mnemonic = "click weasel carbon object oblige mango silver quote tank virus equal illness";

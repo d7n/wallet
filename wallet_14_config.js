@@ -1,1 +1,1 @@
-var mnemonic = "stock dress climb affair chief sweet shallow wood innocent protect minimum open";
+var mnemonic = "rich report angle detect print super key finger fire clay woman lift";

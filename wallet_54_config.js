@@ -1,1 +1,1 @@
-var mnemonic = "cigar high trip birth hip jaguar miracle celery soon tiger domain sun";
+var mnemonic = "omit bamboo casual father spray hollow symbol gentle uncle coin soon wish";

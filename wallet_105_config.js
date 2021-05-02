@@ -1,1 +1,1 @@
-var mnemonic = "hamster hedgehog boost arrest verb potato salad lens lazy desk occur embody";
+var mnemonic = "blanket reflect slogan captain never very fit glow give return labor yard";

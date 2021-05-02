@@ -1,1 +1,1 @@
-var mnemonic = "bottom judge sense source update fade forum program dry receive hub universe";
+var mnemonic = "enter sport silly olympic repeat mobile romance punch gadget pass right jeans";

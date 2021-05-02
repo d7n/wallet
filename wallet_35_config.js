@@ -1,1 +1,1 @@
-var mnemonic = "knee border fabric trend hour warfare auto mail danger annual actual muscle";
+var mnemonic = "proof rib page honey lucky tool true venue armed ensure drive cloud";

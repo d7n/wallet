@@ -1,1 +1,1 @@
-var mnemonic = "orchard bundle sunset kick suspect release diamond frequent yard cigar border region";
+var mnemonic = "south salute eager coil journey cart teach alert series marine intact hour";

@@ -1,1 +1,1 @@
-var mnemonic = "wire firm shove excess plastic account tobacco keep flock parrot skill heavy";
+var mnemonic = "tuna thrive learn team kangaroo cake depart soda nuclear report siren select";

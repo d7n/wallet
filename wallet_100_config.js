@@ -1,1 +1,1 @@
-var mnemonic = "crop judge forget maze clerk smooth wish portion amateur shuffle figure arena";
+var mnemonic = "bacon inform swift fold pupil enemy chat stuff bread wheat lake van";

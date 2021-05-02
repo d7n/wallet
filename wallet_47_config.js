@@ -1,1 +1,1 @@
-var mnemonic = "energy gift tumble casino leader joy suffer curtain chest purpose toddler animal";
+var mnemonic = "cinnamon maximum simple village law laugh humor rate casual neglect dentist turn";

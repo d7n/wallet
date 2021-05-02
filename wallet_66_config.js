@@ -1,1 +1,1 @@
-var mnemonic = "seed motion call test define cute frame depth faith brown burden expire";
+var mnemonic = "arm vehicle two goose frost luggage when walnut south depart case exact";

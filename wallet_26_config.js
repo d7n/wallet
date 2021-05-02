@@ -1,1 +1,1 @@
-var mnemonic = "puzzle wagon pipe view student meadow acquire valid tomato jump pioneer term";
+var mnemonic = "general minimum verify jealous fox live sadness aerobic toilet build actress deputy";

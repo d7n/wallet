@@ -1,1 +1,1 @@
-var mnemonic = "pride tribe peace offer true word tribe amazing shuffle stereo battle parade";
+var mnemonic = "zebra betray hidden grocery obscure crater mind practice dress gown master wave";

@@ -1,1 +1,1 @@
-var mnemonic = "sun menu spell cargo divert guard then relief regret still network priority";
+var mnemonic = "scatter stool case chief merry grace jazz lounge history leave work uphold";

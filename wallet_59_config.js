@@ -1,1 +1,1 @@
-var mnemonic = "track tomorrow twenty spike analyst airport amused mother lab slow twelve drama";
+var mnemonic = "sample loop story immense forum fee plunge release opinion dune mean shell";

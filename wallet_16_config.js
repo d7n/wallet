@@ -1,1 +1,1 @@
-var mnemonic = "increase thrive clutch oven bachelor chuckle twist buyer blade excess bean more";
+var mnemonic = "refuse exercise sample will kitchen surprise stock opinion power glory exit nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "actress ramp spin ship control smooth play figure avoid card abstract cigar";
+var mnemonic = "dress shock siege oblige tattoo credit ahead roof enrich series crouch siren";

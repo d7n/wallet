@@ -1,1 +1,1 @@
-var mnemonic = "loan total wonder jump library feel entry speed drift oblige acquire meadow";
+var mnemonic = "remind delay cabbage cash soon grow very claw chair jungle wish puppy";

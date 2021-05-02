@@ -1,1 +1,1 @@
-var mnemonic = "erosion unlock trigger example appear luxury armor tongue total click wolf truck";
+var mnemonic = "enrich cruel toilet scissors two hole lesson science kiss wealth one reopen";

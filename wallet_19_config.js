@@ -1,1 +1,1 @@
-var mnemonic = "good that oxygen enter wasp million lazy vivid gossip scan nature shift";
+var mnemonic = "walnut bronze trap shiver loyal year build ladder truck position perfect scale";

@@ -1,1 +1,1 @@
-var mnemonic = "oil corn buffalo tip hurry huge mesh clown ecology again organ perfect";
+var mnemonic = "wheel planet render life home notice rapid vacant short daring auto nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "cereal network mix envelope auto thumb banner kiss flip book bronze you";
+var mnemonic = "insane six equal logic turtle zero copper viable firm skull gate above";

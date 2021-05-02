@@ -1,1 +1,1 @@
-var mnemonic = "library able chief misery vehicle beach ribbon slam verb shy sting mule";
+var mnemonic = "jaguar fashion pulp chase parade lounge confirm entire increase always virtual step";

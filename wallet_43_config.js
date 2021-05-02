@@ -1,1 +1,1 @@
-var mnemonic = "father fiscal carbon tonight wait can glare local visual save aware pioneer";
+var mnemonic = "phrase hedgehog evil argue wisdom monster arrive exhaust lucky grunt tonight bag";

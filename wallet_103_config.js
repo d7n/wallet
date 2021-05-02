@@ -1,1 +1,1 @@
-var mnemonic = "coil coral educate neck zone visa fault oppose museum word smooth reason";
+var mnemonic = "decide mechanic spawn curve record father cancel example flee bubble equip describe";

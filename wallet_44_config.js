@@ -1,1 +1,1 @@
-var mnemonic = "legend sadness muffin erupt piano move peasant obscure grid photo fit rally";
+var mnemonic = "leave oak benefit empty fetch catch later casual solution clown act fat";

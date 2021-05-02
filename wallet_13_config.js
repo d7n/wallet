@@ -1,1 +1,1 @@
-var mnemonic = "surprise night luxury urban faint buffalo obey forget answer blade economy enable";
+var mnemonic = "have surface rail omit clay help walk item tenant describe voyage flash";

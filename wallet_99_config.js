@@ -1,1 +1,1 @@
-var mnemonic = "ladder benefit penalty figure snake maid uncle sentence helmet food surround gorilla";
+var mnemonic = "empty motion airport sick segment until sheriff nasty cart express auction endorse";

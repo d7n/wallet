@@ -1,1 +1,1 @@
-var mnemonic = "shallow luggage velvet win bind pencil ritual build flash silver broom fame";
+var mnemonic = "surface apple erosion avocado august autumn feel false vapor boost kitchen employ";
