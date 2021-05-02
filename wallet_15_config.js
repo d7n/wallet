@@ -1,1 +1,1 @@
-var mnemonic = "trouble similar burst drip imitate blanket fever judge survey moral decade winter";
+var mnemonic = "harbor leg genius kingdom pumpkin twenty october ride habit trap mesh demand";

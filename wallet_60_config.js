@@ -1,1 +1,1 @@
-var mnemonic = "jar delay nurse knee opinion half reform artwork peasant success blood scheme";
+var mnemonic = "slab define print february series stadium own guilt business voice vote slender";

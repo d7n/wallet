@@ -1,1 +1,1 @@
-var mnemonic = "glue display ozone stable stereo order wait inner exhibit tomato hand thunder";
+var mnemonic = "fog jaguar bag solve level skin road nuclear fluid monster radio desert";

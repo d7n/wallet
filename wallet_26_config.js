@@ -1,1 +1,1 @@
-var mnemonic = "broken cloth mosquito vehicle wagon game pigeon fluid toss media plate reform";
+var mnemonic = "arctic shoot unaware nation charge soup camera ship resist purity brain over";

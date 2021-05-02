@@ -1,1 +1,1 @@
-var mnemonic = "journey mention arrange twelve seat shrimp cotton fatigue cool eagle clerk cycle";
+var mnemonic = "december oppose impact wood upper disease buyer swamp happy hand second margin";

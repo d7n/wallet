@@ -1,1 +1,1 @@
-var mnemonic = "layer relax mean pulp bulk concert forum strong uncover remind syrup useless";
+var mnemonic = "shed inside champion parent detect live snack final patient lobster club lunar";

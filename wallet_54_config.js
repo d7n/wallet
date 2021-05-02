@@ -1,1 +1,1 @@
-var mnemonic = "video odor rib bridge pencil door battle seek shuffle super shock maple";
+var mnemonic = "such keep wrong soon book tiger fade damp cook key civil addict";

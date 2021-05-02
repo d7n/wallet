@@ -1,1 +1,1 @@
-var mnemonic = "just lamp drop dynamic shaft order permit mind syrup brand build try";
+var mnemonic = "abandon pencil symptom outside satoshi edge style camera stool leaf pulse humor";

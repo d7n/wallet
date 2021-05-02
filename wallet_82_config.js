@@ -1,1 +1,1 @@
-var mnemonic = "marble helmet wink illegal potato friend crouch eternal alone armed wealth wait";
+var mnemonic = "impact sign grain confirm there base decade canyon leaf outer rack capital";

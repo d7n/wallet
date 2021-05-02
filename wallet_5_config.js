@@ -1,1 +1,1 @@
-var mnemonic = "asset surface vanish situate trouble tree plastic shock inflict ugly muffin creek";
+var mnemonic = "ocean subway grab pulse soul dawn culture laptop runway physical despair method";

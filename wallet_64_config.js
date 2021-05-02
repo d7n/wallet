@@ -1,1 +1,1 @@
-var mnemonic = "wear describe tackle pepper turtle two change fever panel next aim caught";
+var mnemonic = "truly sample saddle ahead science erase zero forget crop ill crime catalog";

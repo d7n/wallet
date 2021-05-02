@@ -1,1 +1,1 @@
-var mnemonic = "fashion thumb flip kitchen stone leg ordinary desert mandate vendor swim lunch";
+var mnemonic = "assault rhythm vintage rabbit super approve audit daughter pudding gain liquid equal";

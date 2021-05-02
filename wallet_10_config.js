@@ -1,1 +1,1 @@
-var mnemonic = "web maze solution already fire illegal knife author index area cement dolphin";
+var mnemonic = "wheel burst web arrest eye waste final time frequent mouse photo midnight";

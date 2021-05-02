@@ -1,1 +1,1 @@
-var mnemonic = "hand tornado rather rather normal twin relax problem lake ridge release shell";
+var mnemonic = "course cream course action river sea flee key immune mouse describe gain";

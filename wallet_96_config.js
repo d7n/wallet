@@ -1,1 +1,1 @@
-var mnemonic = "pledge fatal ketchup lemon try maple usual blind shine never work hero";
+var mnemonic = "fog cloud egg trend give wine public between universe fatal chunk goose";

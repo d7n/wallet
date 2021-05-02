@@ -1,1 +1,1 @@
-var mnemonic = "purpose anger deer depart bicycle simple fiction quit choice motor apart suffer";
+var mnemonic = "box short demise panic decline pill doll joy language half margin deposit";

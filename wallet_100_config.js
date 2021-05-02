@@ -1,1 +1,1 @@
-var mnemonic = "congress radio laundry hen crumble apart dignity unlock require rookie dawn sure";
+var mnemonic = "member appear timber treat blouse access tragic cattle behind city help asset";

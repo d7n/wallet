@@ -1,1 +1,1 @@
-var mnemonic = "wealth surround rabbit weird bike pizza script stairs load silent regret seminar";
+var mnemonic = "goddess curious fantasy chef gentle mirror shed off bamboo body alone host";

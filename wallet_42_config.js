@@ -1,1 +1,1 @@
-var mnemonic = "domain park void good jealous protect quit price churn valve cloth rocket";
+var mnemonic = "certain birth movie good stem amazing act cross assist wise laundry polar";

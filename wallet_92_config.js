@@ -1,1 +1,1 @@
-var mnemonic = "build april play run finger effort medal grocery protect merry spider fit";
+var mnemonic = "rent mystery reopen tribe magnet custom expose hip anchor camp hole hurry";

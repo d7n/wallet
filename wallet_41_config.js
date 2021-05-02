@@ -1,1 +1,1 @@
-var mnemonic = "whale cable assume since bicycle vehicle delay planet emerge fuel tell chat";
+var mnemonic = "retreat home crater picture oil find gun vendor shove comic merry under";

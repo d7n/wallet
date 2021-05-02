@@ -1,1 +1,1 @@
-var mnemonic = "festival drum say lunch keen wool wild under scan found embark hero";
+var mnemonic = "switch subject safe note type salad adjust tattoo hire secret enforce also";

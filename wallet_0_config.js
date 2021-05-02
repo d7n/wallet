@@ -1,1 +1,1 @@
-var mnemonic = "envelope figure spread club move zoo brave cage rigid farm guide ketchup";
+var mnemonic = "hole style demise peasant used clump summer caught daring million venue family";

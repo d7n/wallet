@@ -1,1 +1,1 @@
-var mnemonic = "oblige field radar fossil meadow entry foam edit gospel tattoo wonder solid";
+var mnemonic = "lamp output offer brass elephant switch unknown obscure note fiscal news call";

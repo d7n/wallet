@@ -1,1 +1,1 @@
-var mnemonic = "jungle stereo trip caught seven unhappy enroll fancy luxury old infant receive";
+var mnemonic = "across devote color liquid suffer surprise toy smooth ball erosion scatter drive";

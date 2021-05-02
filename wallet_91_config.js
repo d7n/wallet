@@ -1,1 +1,1 @@
-var mnemonic = "right fly spider syrup weekend boil infant used eagle this expand bullet";
+var mnemonic = "egg decline custom dust infant reduce april nice pill van baby alcohol";

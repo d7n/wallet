@@ -1,1 +1,1 @@
-var mnemonic = "soft involve know wing civil topple evolve surround west opinion bar deposit";
+var mnemonic = "elegant claim explain blanket burst absorb hollow spawn candy intact film convince";

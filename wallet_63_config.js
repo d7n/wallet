@@ -1,1 +1,1 @@
-var mnemonic = "already badge margin depth claw license aunt stamp body heart rug crowd";
+var mnemonic = "say produce ordinary cart update drama skin couch minimum foster enough spawn";

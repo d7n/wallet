@@ -1,1 +1,1 @@
-var mnemonic = "shoe race hen nature slight echo later switch there answer annual alcohol";
+var mnemonic = "aspect behave honey supreme scene entry odor novel rigid often cargo need";

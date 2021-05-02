@@ -1,1 +1,1 @@
-var mnemonic = "april also walk arm lock fuel mansion buzz pledge physical pupil fix";
+var mnemonic = "device path spend visa learn lumber tag artist fantasy gauge walnut lecture";

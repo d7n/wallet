@@ -1,1 +1,1 @@
-var mnemonic = "surround supreme equip engine diesel vapor decline miss manage oak hawk honey";
+var mnemonic = "tornado range infant flee card envelope giggle board like ill romance rather";

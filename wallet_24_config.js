@@ -1,1 +1,1 @@
-var mnemonic = "coyote extend banner ancient under diet road tonight educate unique eye bronze";
+var mnemonic = "bronze clinic below gasp oppose multiply unveil pool glue stadium tribe youth";

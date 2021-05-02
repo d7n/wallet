@@ -1,1 +1,1 @@
-var mnemonic = "viable remind weekend assume ankle public stadium sense veteran toddler gun bamboo";
+var mnemonic = "subway solution ancient shadow hour humble sand still rally island season cream";

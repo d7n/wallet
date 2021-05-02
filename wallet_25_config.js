@@ -1,1 +1,1 @@
-var mnemonic = "reunion dad clever prepare insane indoor noodle worth captain legal chronic symptom";
+var mnemonic = "phone purpose vehicle alpha human meat parade over gospel code fuel dumb";

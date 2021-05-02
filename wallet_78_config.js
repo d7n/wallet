@@ -1,1 +1,1 @@
-var mnemonic = "tissue stable document evidence depart champion perfect idle setup dwarf trip copy";
+var mnemonic = "giant dash august finger ball trash used recall merry saddle metal brain";

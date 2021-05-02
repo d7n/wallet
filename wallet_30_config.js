@@ -1,1 +1,1 @@
-var mnemonic = "jar item arch anxiety pumpkin pave news rabbit stand state hedgehog cliff";
+var mnemonic = "outer client ten coil mixture draw tag quit pond mention satoshi siege";

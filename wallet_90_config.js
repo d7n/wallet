@@ -1,1 +1,1 @@
-var mnemonic = "unaware number spot hurry analyst current exact whip much odor alien call";
+var mnemonic = "rent hole wisdom fitness turtle kit mammal shoot clinic faculty outer federal";

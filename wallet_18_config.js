@@ -1,1 +1,1 @@
-var mnemonic = "label cash raise cupboard spatial ladder blur vanish card victory occur fly";
+var mnemonic = "cluster stomach follow cannon feed thought treat join unusual access join finish";

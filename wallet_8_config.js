@@ -1,1 +1,1 @@
-var mnemonic = "robot frost spray number interest wreck negative soon gesture kind junk video";
+var mnemonic = "trade winner pig average acid verify sword bracket tattoo celery end color";

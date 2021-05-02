@@ -1,1 +1,1 @@
-var mnemonic = "zoo course soap farm royal consider sudden tissue diagram repair drop rifle";
+var mnemonic = "pencil grit lend sock hollow vault left adult detect thank brick light";

@@ -1,1 +1,1 @@
-var mnemonic = "spread belt manage skin fault dance lemon ring dutch traffic width pen";
+var mnemonic = "problem pear legal border phone come syrup repeat kiwi risk innocent sorry";

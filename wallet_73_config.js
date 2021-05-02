@@ -1,1 +1,1 @@
-var mnemonic = "expand someone hunt skull two miss symptom vessel curious material drill birth";
+var mnemonic = "rough bargain eager hair ensure gadget tired mutual desk ensure amateur tattoo";

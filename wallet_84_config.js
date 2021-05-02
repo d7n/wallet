@@ -1,1 +1,1 @@
-var mnemonic = "rubber trust crush swallow hunt own kit menu gold pilot spend wall";
+var mnemonic = "sudden dose push tooth alarm invest worry wine logic toddler upgrade velvet";

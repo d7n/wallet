@@ -1,1 +1,1 @@
-var mnemonic = "own offer world reunion phrase beyond radio better carbon because diamond license";
+var mnemonic = "stereo fan cage miracle clinic flush remain cousin viable sunset glue custom";

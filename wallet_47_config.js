@@ -1,1 +1,1 @@
-var mnemonic = "casino depart reason plunge lizard violin throw almost exercise kick seat anxiety";
+var mnemonic = "this wave hurt balcony expect wet tackle forward coconut uncover omit ride";

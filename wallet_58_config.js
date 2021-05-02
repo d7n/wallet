@@ -1,1 +1,1 @@
-var mnemonic = "cricket believe mountain repair mutual horn grunt token high chaos card spring";
+var mnemonic = "huge drip motion true trend town curious banner give occur since six";

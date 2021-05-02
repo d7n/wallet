@@ -1,1 +1,1 @@
-var mnemonic = "soft few hybrid stick shock monkey toilet fantasy cloud dentist wagon chaos";
+var mnemonic = "now soap provide race finish arctic dizzy sponsor hard boy couch state";

@@ -1,1 +1,1 @@
-var mnemonic = "guide shallow elevator machine south bonus amazing valley razor success deposit smile";
+var mnemonic = "wash rule unveil reduce omit spider foam clinic surge punch virtual behind";

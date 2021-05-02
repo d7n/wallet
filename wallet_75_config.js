@@ -1,1 +1,1 @@
-var mnemonic = "ethics desk black correct trial point tool guilt hybrid dry castle ask";
+var mnemonic = "ugly early lyrics original order organ crystal surge sister sibling prevent fat";

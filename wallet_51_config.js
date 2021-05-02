@@ -1,1 +1,1 @@
-var mnemonic = "vapor tennis comfort keep lava grit uncover deposit habit segment purpose abstract";
+var mnemonic = "sight end tourist slam fitness galaxy local ocean apart echo squeeze twenty";

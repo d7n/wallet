@@ -1,1 +1,1 @@
-var mnemonic = "intact hair orphan child cattle advice amazing spring below mansion category couple";
+var mnemonic = "weather hub oppose unknown federal elegant twice current flag toy art artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "state modify demise bulb jar sunny dolphin force cousin solid power boat";
+var mnemonic = "eager good clock juice toward tape wife very dust cactus wine peanut";

@@ -1,1 +1,1 @@
-var mnemonic = "check ensure mixed ginger return that margin brick wrist faith jealous win";
+var mnemonic = "fiscal swap plunge naive chunk exercise rib fringe citizen toilet seek manage";

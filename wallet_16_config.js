@@ -1,1 +1,1 @@
-var mnemonic = "doll riot cat before similar insane uncover luxury eye table wagon rack";
+var mnemonic = "nation chef credit luggage oppose jazz apart task ball become bronze lend";

@@ -1,1 +1,1 @@
-var mnemonic = "wire steak soul demise supreme visit airport enable kite kiwi retire kid";
+var mnemonic = "ribbon cash volcano move long there coach master axis rotate card fruit";

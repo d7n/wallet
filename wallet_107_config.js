@@ -1,1 +1,1 @@
-var mnemonic = "response wave drum hover economy shuffle culture grain bleak snap dwarf mention";
+var mnemonic = "spray hat tackle enforce rather mobile remain hip sunny sure cupboard return";

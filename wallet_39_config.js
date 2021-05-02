@@ -1,1 +1,1 @@
-var mnemonic = "retreat other funny velvet stay crime craft glory nasty fashion furnace primary";
+var mnemonic = "offer dinosaur shoulder spend rubber maximum topic february private sell radio employ";

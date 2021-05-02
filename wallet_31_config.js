@@ -1,1 +1,1 @@
-var mnemonic = "balance address venue wall girl project only access atom cousin oven green";
+var mnemonic = "jump hat poem begin canyon jeans ostrich hint ten ancient caution team";

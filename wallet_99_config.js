@@ -1,1 +1,1 @@
-var mnemonic = "column miss amused mail this project garment choice oven casino spell regret";
+var mnemonic = "useless catch weather waste walk impose surprise faint cruise bright unaware loud";

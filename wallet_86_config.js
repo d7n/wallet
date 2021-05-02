@@ -1,1 +1,1 @@
-var mnemonic = "myself body net valley pudding document toward mistake media glow answer unhappy";
+var mnemonic = "main nerve once behave lend behind inspire famous clump plastic mercy dish";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce draft manual future duck lock shock record exclude urban innocent vehicle";
+var mnemonic = "quote upon episode dry away vague fan hunt clutch celery skill mimic";

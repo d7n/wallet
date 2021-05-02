@@ -1,1 +1,1 @@
-var mnemonic = "hover cattle guilt soup mango slow lend grocery narrow ribbon demise night";
+var mnemonic = "pause document idle result ahead accident jump identify lizard rigid hill history";

@@ -1,1 +1,1 @@
-var mnemonic = "expect oval response quarter final quit sock desk equal test cactus sadness";
+var mnemonic = "cute begin ranch perfect warm smoke robust pelican often cost file lounge";

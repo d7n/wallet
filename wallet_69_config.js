@@ -1,1 +1,1 @@
-var mnemonic = "vivid hobby gas ocean raven misery panda job awesome entry elevator pluck";
+var mnemonic = "spell rather cross dice cinnamon survey volume ski hand sunset bachelor lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh aim grocery sock key cool vote huge flush sponsor radar peanut";
+var mnemonic = "soap artwork effort immense size helmet round prefer yellow barrel settle maple";

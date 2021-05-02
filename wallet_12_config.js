@@ -1,1 +1,1 @@
-var mnemonic = "valve replace dog install avocado floor client tennis trip state express fold";
+var mnemonic = "bar below cloud finish fluid voyage daring cluster boost buffalo please liquid";

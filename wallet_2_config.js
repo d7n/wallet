@@ -1,1 +1,1 @@
-var mnemonic = "west miracle oxygen march paddle heavy core habit spice style tired message";
+var mnemonic = "security silver owner acquire film cheap dove only soccer book render vintage";

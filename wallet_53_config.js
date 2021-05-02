@@ -1,1 +1,1 @@
-var mnemonic = "disorder square picnic obey speed fit road below leader uphold fox cover";
+var mnemonic = "home chase road city similar neglect inspire place van enroll work size";

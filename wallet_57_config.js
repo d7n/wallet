@@ -1,1 +1,1 @@
-var mnemonic = "uncle panic access gravity cinnamon into inside great bicycle come question evolve";
+var mnemonic = "charge mansion citizen captain curious doctor choose brain kidney sense worth palm";

@@ -1,1 +1,1 @@
-var mnemonic = "rice board kitchen game path congress lab regular symptom general lobster suit";
+var mnemonic = "diamond inner youth long bread wear motor decade resemble tomato ranch horse";

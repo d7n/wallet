@@ -1,1 +1,1 @@
-var mnemonic = "best twenty rose spy auto around crater blush piano deny again motor";
+var mnemonic = "dilemma baby title rug steel sting index fluid chef frame culture exhaust";

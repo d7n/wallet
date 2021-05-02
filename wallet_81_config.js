@@ -1,1 +1,1 @@
-var mnemonic = "bone clarify sausage upset boring name leaf people movie suggest giraffe fitness";
+var mnemonic = "loud park knock bright about demise horse detail keep raw private cheese";

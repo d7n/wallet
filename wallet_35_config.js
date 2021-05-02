@@ -1,1 +1,1 @@
-var mnemonic = "leisure danger myself hundred mandate section cook plate bitter observe service parade";
+var mnemonic = "bid inmate flock security salute reform pact casino lecture project mansion dumb";

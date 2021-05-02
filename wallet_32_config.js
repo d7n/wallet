@@ -1,1 +1,1 @@
-var mnemonic = "open nothing endless robot bacon omit reform involve vintage link wash blouse";
+var mnemonic = "special mix valley move unaware license subway junior arctic girl category open";

@@ -1,1 +1,1 @@
-var mnemonic = "village regular arrest smile mechanic laundry plastic kidney trust east monkey reveal";
+var mnemonic = "antenna access online mansion yellow admit document gloom report sketch scissors rescue";

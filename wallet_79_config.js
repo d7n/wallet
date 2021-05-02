@@ -1,1 +1,1 @@
-var mnemonic = "engine flock leopard bread clutch hello soon slide system program stamp anger";
+var mnemonic = "fringe join visa ridge cook pave another scrap exact uniform illness interest";

@@ -1,1 +1,1 @@
-var mnemonic = "office wealth capital forward lucky flame auction myth identify whip fence flight";
+var mnemonic = "clarify sustain keep hope woman panda inmate grow city cry learn sudden";

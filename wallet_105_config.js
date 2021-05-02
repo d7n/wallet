@@ -1,1 +1,1 @@
-var mnemonic = "green remember play upset soldier silly income sketch ten split noodle leopard";
+var mnemonic = "ensure rotate elbow pencil rib sword neutral awesome brave dynamic axis dignity";

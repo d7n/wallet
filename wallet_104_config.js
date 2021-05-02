@@ -1,1 +1,1 @@
-var mnemonic = "medal ocean wise anchor current reunion switch weird couple wage wood gold";
+var mnemonic = "head vast sweet lyrics leg mango cargo shrug own sponsor trophy indoor";

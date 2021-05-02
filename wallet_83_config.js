@@ -1,1 +1,1 @@
-var mnemonic = "minimum enemy awkward push acid pole unusual now attack market put scare";
+var mnemonic = "eyebrow issue tennis shop kingdom hire improve metal ignore month among fury";

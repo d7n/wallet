@@ -1,1 +1,1 @@
-var mnemonic = "reason type crush alcohol spice quarter rich diagram december elevator kid alter";
+var mnemonic = "achieve heavy same sister bonus episode random upset round submit forest expose";

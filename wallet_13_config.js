@@ -1,1 +1,1 @@
-var mnemonic = "insane unfold cargo brick drip breeze trial guilt safe news tilt gun";
+var mnemonic = "home news exhaust exhaust mistake depend magic unveil suffer join noise fault";

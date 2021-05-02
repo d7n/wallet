@@ -1,1 +1,1 @@
-var mnemonic = "husband century attend noodle denial brave wear expose chair shift differ tag";
+var mnemonic = "actress marine stem absurd pepper scrub name shift drift spider toy hip";

@@ -1,1 +1,1 @@
-var mnemonic = "orange fuel pony indoor outer unusual mixed skull cherry rail letter flush";
+var mnemonic = "million online sword require submit record boy shop screen segment fence road";

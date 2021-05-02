@@ -1,1 +1,1 @@
-var mnemonic = "right sniff under good stereo own wagon choose tourist metal reason catch";
+var mnemonic = "donate random lecture scale trophy pony casino clip elephant thing grass name";

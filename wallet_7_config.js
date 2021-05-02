@@ -1,1 +1,1 @@
-var mnemonic = "real clean crowd maze lens pause amused loud help slush wealth torch";
+var mnemonic = "mail unit hope stock syrup stay tool hungry smoke final lab dismiss";

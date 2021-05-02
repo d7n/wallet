@@ -1,1 +1,1 @@
-var mnemonic = "keen party found husband rare actress caught type despair tuition float random";
+var mnemonic = "crisp arena crowd soldier can expect brass raise symptom divide cement inside";

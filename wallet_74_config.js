@@ -1,1 +1,1 @@
-var mnemonic = "sustain fiscal flock witness inflict protect spoil rural mouse network cinnamon coconut";
+var mnemonic = "remind victory imitate silver trick club lizard extra lunar shoot buyer maple";
