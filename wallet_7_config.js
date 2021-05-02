@@ -1,1 +1,1 @@
-var mnemonic = "cool siren record defense gaze destroy enable battle master junior coil syrup";
+var mnemonic = "gather enable foam tenant lazy design lava audit immense safe bleak captain";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle cradle print woman emerge broccoli veteran celery tragic crack crawl flight";
+var mnemonic = "gaze floor flip diamond arch depart almost diary lecture away penalty mystery";

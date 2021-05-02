@@ -1,1 +1,1 @@
-var mnemonic = "plunge hero original captain grunt staff strategy menu mean odor chuckle alarm";
+var mnemonic = "skill you casual wire chest shrimp canoe gesture earn job miss loop";

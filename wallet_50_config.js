@@ -1,1 +1,1 @@
-var mnemonic = "yard suggest input tourist front virus popular ticket escape foster alcohol minimum";
+var mnemonic = "airport roof same wing wall devote display grief exact hard above half";

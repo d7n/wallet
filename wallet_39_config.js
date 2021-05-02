@@ -1,1 +1,1 @@
-var mnemonic = "market label between clap sad fiction tortoise crane casino green trust evil";
+var mnemonic = "leave gown kite cinnamon planet benefit furnace rude carry second wage wall";

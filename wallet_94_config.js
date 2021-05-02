@@ -1,1 +1,1 @@
-var mnemonic = "cricket make attract lamp bridge since vacuum mean ticket course lawsuit bless";
+var mnemonic = "trial ghost gap burst party accident turkey situate asset often involve okay";

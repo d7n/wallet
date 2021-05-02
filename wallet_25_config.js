@@ -1,1 +1,1 @@
-var mnemonic = "abstract expand license athlete air unfold evoke involve effort stumble gift market";
+var mnemonic = "session sister immense stumble brand world poet blade into hotel modify dream";

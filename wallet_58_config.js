@@ -1,1 +1,1 @@
-var mnemonic = "sight tiger fee forum old course speak mom situate rate invest race";
+var mnemonic = "gown quick indoor jeans hotel planet assist corn faith endless either parrot";

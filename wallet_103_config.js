@@ -1,1 +1,1 @@
-var mnemonic = "exclude purity slogan buyer visual video attack furnace image escape utility excite";
+var mnemonic = "much use fossil flee end tilt broom transfer input baby crime tuna";

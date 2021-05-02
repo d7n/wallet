@@ -1,1 +1,1 @@
-var mnemonic = "pudding toward keen into nuclear trap cycle name inch health boost tissue";
+var mnemonic = "erase joy rough skate primary have chronic design lava cycle humble wood";

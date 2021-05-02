@@ -1,1 +1,1 @@
-var mnemonic = "almost raw option powder nut zebra scorpion hint venue slide glow culture";
+var mnemonic = "laundry tape fancy identify sponsor odor fiscal burst solid coil trip monkey";

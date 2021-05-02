@@ -1,1 +1,1 @@
-var mnemonic = "brand neither access unknown theory magic blossom sport ill illegal wish nice";
+var mnemonic = "guide card leopard taxi swallow knock regular select cable result pencil seminar";

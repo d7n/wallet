@@ -1,1 +1,1 @@
-var mnemonic = "video iron cross monkey amateur strategy awkward carpet hurt grow dice wine";
+var mnemonic = "rate stadium pencil lens service supreme sting resource stomach gauge announce ordinary";

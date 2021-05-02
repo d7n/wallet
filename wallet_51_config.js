@@ -1,1 +1,1 @@
-var mnemonic = "object goat unveil diary cinnamon lava august library stock cotton essence dolphin";
+var mnemonic = "thrive nose swap tail demise pass vault entry crystal figure govern soft";

@@ -1,1 +1,1 @@
-var mnemonic = "poem wise okay decrease icon beauty mask one bench ostrich chimney brain";
+var mnemonic = "pilot enough win leisure gold target purchase ankle animal raise skill lounge";

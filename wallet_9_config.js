@@ -1,1 +1,1 @@
-var mnemonic = "rhythm phrase royal near limb type smoke piano twice genre debate park";
+var mnemonic = "drill mixed abstract staff wire rather sick switch mind frog stumble hour";

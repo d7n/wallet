@@ -1,1 +1,1 @@
-var mnemonic = "alert spin hover toy season mushroom uncover window thumb two carpet pet";
+var mnemonic = "correct peanut series voyage process share employ casino kidney swamp toast satoshi";

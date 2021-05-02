@@ -1,1 +1,1 @@
-var mnemonic = "ozone cheap science duty ball prison arrange repair parrot error saddle firm";
+var mnemonic = "glow aware whip hard transfer mention silent taste suggest speak various input";

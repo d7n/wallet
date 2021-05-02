@@ -1,1 +1,1 @@
-var mnemonic = "song between vapor group weapon excess endorse now horror ignore benefit museum";
+var mnemonic = "kingdom peasant genre patient seven icon focus minor disease album hawk clarify";

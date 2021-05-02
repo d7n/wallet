@@ -1,1 +1,1 @@
-var mnemonic = "quit cave cargo virus indicate orphan buddy live upgrade evidence drift expect";
+var mnemonic = "edit sell jazz dawn start turtle depend weapon breeze neither toward walk";

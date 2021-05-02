@@ -1,1 +1,1 @@
-var mnemonic = "seed fire hollow clip glad island worry capable discover letter scorpion tuna";
+var mnemonic = "athlete pistol enough bulk soccer regret emotion cement antenna pencil melody modify";

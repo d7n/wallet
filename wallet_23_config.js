@@ -1,1 +1,1 @@
-var mnemonic = "involve wheel gallery swing dry snack soldier inmate doll such what loyal";
+var mnemonic = "library ordinary prison vicious fun corn lend lake entry region cruise tag";

@@ -1,1 +1,1 @@
-var mnemonic = "true play town crumble north goat pottery program father child hood enrich";
+var mnemonic = "table gun shock census creek real immense shock ability brush old rose";

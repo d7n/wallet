@@ -1,1 +1,1 @@
-var mnemonic = "slot option stock bacon usual student pair banner capable laptop dentist puppy";
+var mnemonic = "tunnel nature puppy addict episode profit genius final ski found west wire";

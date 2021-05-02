@@ -1,1 +1,1 @@
-var mnemonic = "gorilla cook hen rare choose hedgehog capital peasant domain spawn vibrant rough";
+var mnemonic = "sick system erupt latin suggest almost lend inherit typical bronze also exhibit";

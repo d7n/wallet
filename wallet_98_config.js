@@ -1,1 +1,1 @@
-var mnemonic = "setup educate shaft woman raise below state crazy lizard solve join habit";
+var mnemonic = "wisdom provide era swamp stock prevent story approve betray deny party raw";

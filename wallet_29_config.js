@@ -1,1 +1,1 @@
-var mnemonic = "tell twist pill wire clerk isolate tunnel cart merry uphold chuckle image";
+var mnemonic = "success differ glass moral bag speed wisdom aware love library magnet wealth";

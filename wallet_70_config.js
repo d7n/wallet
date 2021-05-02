@@ -1,1 +1,1 @@
-var mnemonic = "obvious nature cross upper cradle jacket brisk useless second grass menu matter";
+var mnemonic = "kiwi reunion entry kiss play tower holiday actual true tomorrow sorry design";

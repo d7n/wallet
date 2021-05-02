@@ -1,1 +1,1 @@
-var mnemonic = "abuse aim expand valve jewel olive concert evil borrow sunset any limb";
+var mnemonic = "talent fiscal friend exact puzzle diesel make wisdom insect advice best slice";

@@ -1,1 +1,1 @@
-var mnemonic = "judge swap gloom slow absurd image ginger diagram young uniform mistake lift";
+var mnemonic = "muscle yard fitness whip ticket pair alley reopen defy erode dilemma improve";

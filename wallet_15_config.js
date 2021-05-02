@@ -1,1 +1,1 @@
-var mnemonic = "connect alcohol diesel lamp matter ask crunch arrow motor alarm awful subway";
+var mnemonic = "mesh bright rebuild deputy trap unfair spin custom comfort flag fire ignore";

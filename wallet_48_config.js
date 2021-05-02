@@ -1,1 +1,1 @@
-var mnemonic = "matrix word win tree small reform clean pause myself tuna hen raccoon";
+var mnemonic = "omit patrol goat pizza vicious cabbage blur cancel federal exotic spike regret";

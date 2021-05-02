@@ -1,1 +1,1 @@
-var mnemonic = "crucial pen junior sad put hub boring negative orphan clever gorilla awesome";
+var mnemonic = "mad artwork element pyramid maid city hair miracle humor spatial permit sunny";

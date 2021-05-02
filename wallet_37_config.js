@@ -1,1 +1,1 @@
-var mnemonic = "journey account angle million outside heart switch rice autumn use hunt mandate";
+var mnemonic = "among come embrace physical lens shy burst rare radar juice remember group";

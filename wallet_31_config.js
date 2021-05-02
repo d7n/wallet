@@ -1,1 +1,1 @@
-var mnemonic = "lunch useful atom beef joke unfold parrot detail rail ticket off version";
+var mnemonic = "cricket select ritual defy peanut gate capital token process aspect atom subway";

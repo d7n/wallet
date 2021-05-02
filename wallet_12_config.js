@@ -1,1 +1,1 @@
-var mnemonic = "stand great shaft cruise kidney debris ocean prize six giant enlist host";
+var mnemonic = "lesson cousin match token happy diamond cycle act ankle man wood valley";

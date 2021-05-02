@@ -1,1 +1,1 @@
-var mnemonic = "turkey hard cake purpose swim media escape sketch yard glad sing lawn";
+var mnemonic = "shell spy fever bitter quarter glance lawn actor cube deer pupil ridge";

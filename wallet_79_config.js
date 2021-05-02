@@ -1,1 +1,1 @@
-var mnemonic = "crater sun debris duck high broccoli wise box master talent rubber noble";
+var mnemonic = "cute liquid gaze north hard prison moon snake earth alone ceiling off";

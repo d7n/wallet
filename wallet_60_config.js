@@ -1,1 +1,1 @@
-var mnemonic = "lava melody engage vessel cry spare book improve gown airport grief faint";
+var mnemonic = "detect plunge snap mosquito layer hazard speak piano object jeans stairs laundry";

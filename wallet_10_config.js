@@ -1,1 +1,1 @@
-var mnemonic = "risk combine nerve change february camp capital service garage betray want response";
+var mnemonic = "cradle nut curious diet diary unveil dune burden make ivory silver old";

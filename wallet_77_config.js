@@ -1,1 +1,1 @@
-var mnemonic = "soft phrase buyer loan shell speak win garden physical alone bitter use";
+var mnemonic = "burst decline anxiety same nominee chuckle process marble proof panic scatter dizzy";

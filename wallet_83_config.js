@@ -1,1 +1,1 @@
-var mnemonic = "legal alcohol economy sell nuclear young prosper chef amount idle zebra sphere";
+var mnemonic = "feature unaware lesson deer mass siren poem tomato vital chair assault develop";

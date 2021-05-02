@@ -1,1 +1,1 @@
-var mnemonic = "artist interest various jar monster apple come sleep alter hawk photo submit";
+var mnemonic = "journey design engine wet ramp describe fall canvas lesson route neck kiwi";

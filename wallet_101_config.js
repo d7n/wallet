@@ -1,1 +1,1 @@
-var mnemonic = "glass media bonus ocean rare rubber slogan because diet priority blood cake";
+var mnemonic = "plastic uphold owner soup sick skirt awesome roast nasty dose debate horn";

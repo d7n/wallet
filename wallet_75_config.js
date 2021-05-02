@@ -1,1 +1,1 @@
-var mnemonic = "expire blouse spawn space eternal rabbit creek thunder ripple toast exercise zero";
+var mnemonic = "there live multiply fatigue stairs drop betray chair search neutral grunt pepper";

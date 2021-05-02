@@ -1,1 +1,1 @@
-var mnemonic = "own number gravity frog pole frog spirit broccoli cement problem enhance pony";
+var mnemonic = "eternal spell coach clog camera element casino ensure silent trouble holiday extra";

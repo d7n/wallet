@@ -1,1 +1,1 @@
-var mnemonic = "cable lumber bunker dismiss define index giggle stock present ranch borrow pride";
+var mnemonic = "fat autumn argue grass shoot paper quote address asset grape they glimpse";

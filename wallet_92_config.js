@@ -1,1 +1,1 @@
-var mnemonic = "captain mother outdoor swift struggle horse cook dance live rebuild purse eager";
+var mnemonic = "approve universe song artwork owner enrich document main surround post resist brave";

@@ -1,1 +1,1 @@
-var mnemonic = "surround high neutral spread crash hidden wave shine unique point lens limit";
+var mnemonic = "reveal pink lounge object column kite phone focus assist clown alter scrub";

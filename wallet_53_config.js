@@ -1,1 +1,1 @@
-var mnemonic = "absorb attack fit horn card push behave holiday aspect crater put whip";
+var mnemonic = "resemble sad awake gesture surface surge can destroy robust slam soon foil";

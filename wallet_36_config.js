@@ -1,1 +1,1 @@
-var mnemonic = "purity dirt gym tornado famous universe hollow summer penalty oblige health palm";
+var mnemonic = "effort because sugar crop struggle city seed bike type impact genius brush";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics need hip orchard hope muffin fall table nephew dolphin blossom describe";
+var mnemonic = "sketch weird accident foot pole hello minute alarm pause fault cargo vast";

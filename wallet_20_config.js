@@ -1,1 +1,1 @@
-var mnemonic = "arrive family canvas enforce stumble situate spring tell expand bottom patrol brick";
+var mnemonic = "ozone avoid wait result guide renew fragile curious glide early gate unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage track pulse more core exhaust cupboard vanish month tone inhale chief";
+var mnemonic = "stairs split ordinary fatal zero warfare crumble coin crunch jump squeeze choose";

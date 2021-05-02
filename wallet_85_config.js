@@ -1,1 +1,1 @@
-var mnemonic = "sun hidden hospital december update escape matter pole crumble token diesel argue";
+var mnemonic = "soccer cotton certain sudden unveil roast old moral act cup you simple";

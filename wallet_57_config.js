@@ -1,1 +1,1 @@
-var mnemonic = "fresh dolphin client chimney hard hybrid manual absurd rabbit agent finger screen";
+var mnemonic = "wink burden stick cheese reduce link sweet service category inhale bag surprise";

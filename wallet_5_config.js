@@ -1,1 +1,1 @@
-var mnemonic = "abuse object bracket save fashion police rigid recycle tennis measure devote tent";
+var mnemonic = "swift vessel mass profit arctic long index upgrade first shell fetch finish";

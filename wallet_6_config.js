@@ -1,1 +1,1 @@
-var mnemonic = "click student panda electric auction erosion measure burden shaft swear capital corn";
+var mnemonic = "vague deal already floor used path fiber any trash foam teach close";

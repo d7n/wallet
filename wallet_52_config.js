@@ -1,1 +1,1 @@
-var mnemonic = "donor property accuse child tilt private unusual primary leader assume cheese employ";
+var mnemonic = "endless clump day stairs category flip thought disease green decline slim best";

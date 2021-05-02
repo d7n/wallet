@@ -1,1 +1,1 @@
-var mnemonic = "leg adult abandon again large donor motion wedding gauge flock modify edge";
+var mnemonic = "remove strategy dose regret iron spice grit brisk position plunge cool quiz";

@@ -1,1 +1,1 @@
-var mnemonic = "off enact midnight crash sample aspect city rent sleep cat airport expose";
+var mnemonic = "filter parade evidence lucky worth manage industry clay morning allow heavy topple";

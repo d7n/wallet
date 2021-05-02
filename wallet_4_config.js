@@ -1,1 +1,1 @@
-var mnemonic = "snack tortoise shove flavor know dinner bitter rookie another indoor tissue valid";
+var mnemonic = "width usual guitar trigger stuff wrist hobby shrimp outdoor phrase rebel dentist";

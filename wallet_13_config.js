@@ -1,1 +1,1 @@
-var mnemonic = "tennis duty phrase someone movie other lucky mail pool sand twelve penalty";
+var mnemonic = "law umbrella beyond spirit antenna entry close turn enrich life truly image";

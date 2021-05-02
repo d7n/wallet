@@ -1,1 +1,1 @@
-var mnemonic = "fitness collect any imitate salmon repeat liar crater stadium hotel head snack";
+var mnemonic = "burger main mirror barrel industry awake write unfair bird under dry mushroom";

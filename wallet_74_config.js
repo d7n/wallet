@@ -1,1 +1,1 @@
-var mnemonic = "broom radio scare butter middle rotate magic gentle eye sad mesh pizza";
+var mnemonic = "around silk fluid swim second joke say peace rule ticket grace dentist";

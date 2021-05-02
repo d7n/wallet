@@ -1,1 +1,1 @@
-var mnemonic = "fat arrest health math riot coil moral maple garment churn rescue aspect";
+var mnemonic = "guess mistake panda aerobic gospel mother trust side repair wine evil dance";

@@ -1,1 +1,1 @@
-var mnemonic = "supply edge half arrest senior sleep brief ensure favorite add bar corn";
+var mnemonic = "local add fever enter session tape net silver two over divorce pond";

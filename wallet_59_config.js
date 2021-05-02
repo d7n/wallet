@@ -1,1 +1,1 @@
-var mnemonic = "duty happy rifle rail item insane measure diary bulb cage black acoustic";
+var mnemonic = "turn kiss bean choose tail diesel confirm bread cheese bone decide elite";

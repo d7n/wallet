@@ -1,1 +1,1 @@
-var mnemonic = "follow valve involve gasp echo harbor orange weekend rail bless brain tank";
+var mnemonic = "antenna relax fortune trend chapter marriage tortoise gospel ozone scrap frog shrimp";

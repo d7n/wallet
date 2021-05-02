@@ -1,1 +1,1 @@
-var mnemonic = "obtain outside license code fade still shoulder potato web security casual slight";
+var mnemonic = "civil kiss employ coin wasp near pen field setup shell dismiss curtain";

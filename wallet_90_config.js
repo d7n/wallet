@@ -1,1 +1,1 @@
-var mnemonic = "hotel patch kidney cram rice mind fold boss hope elite share wet";
+var mnemonic = "hazard festival exclude stumble vapor save piano inside much budget opera night";

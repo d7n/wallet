@@ -1,1 +1,1 @@
-var mnemonic = "vendor between chief art wait crazy soup lawsuit rail enjoy horn toilet";
+var mnemonic = "ship dentist resource melt stem visual crash belt unhappy december skate cattle";

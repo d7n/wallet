@@ -1,1 +1,1 @@
-var mnemonic = "detect onion wisdom air pledge easily rifle menu special attend crystal rain";
+var mnemonic = "armor shoe print age peace lab retreat route gas arrest subway brass";

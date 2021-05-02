@@ -1,1 +1,1 @@
-var mnemonic = "funny doctor priority orphan trash inform horse image scrub moment more retreat";
+var mnemonic = "amateur guess repair select brown impose measure victory build scissors purchase pretty";

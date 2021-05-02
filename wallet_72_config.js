@@ -1,1 +1,1 @@
-var mnemonic = "mixed pigeon pact use idle spray visit maximum blanket electric fence foster";
+var mnemonic = "differ grocery car cherry option cradle royal group lyrics phrase stove file";

@@ -1,1 +1,1 @@
-var mnemonic = "pilot sound face host lab load first indicate zoo move orphan enact";
+var mnemonic = "bleak arch glove gesture style chuckle load giggle tag female decorate depend";

@@ -1,1 +1,1 @@
-var mnemonic = "boost net boss aisle region artwork atom practice only judge quote park";
+var mnemonic = "what search wine unaware confirm addict clinic leader guard cherry uncle ladder";

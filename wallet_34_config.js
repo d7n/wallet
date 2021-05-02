@@ -1,1 +1,1 @@
-var mnemonic = "away neither potato input betray pool victory opera flight wage pipe walnut";
+var mnemonic = "rice venue trim marble other merry viable divorce license buddy spoon park";

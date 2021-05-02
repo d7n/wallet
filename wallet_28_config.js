@@ -1,1 +1,1 @@
-var mnemonic = "isolate family sentence install upset sentence glove explain special tomato provide witness";
+var mnemonic = "help level island sting space junk card swim language horn farm net";

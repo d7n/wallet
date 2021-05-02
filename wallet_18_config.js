@@ -1,1 +1,1 @@
-var mnemonic = "ordinary awful remind dilemma enforce eager sausage flock want female hint bless";
+var mnemonic = "claw kid ordinary adjust fresh author task knee into industry crater recipe";

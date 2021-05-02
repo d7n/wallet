@@ -1,1 +1,1 @@
-var mnemonic = "abandon nation reunion fresh afraid settle desert exist sustain glove movie spoil";
+var mnemonic = "science juice erase garage sadness wire this chief early swallow project coast";

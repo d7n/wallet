@@ -1,1 +1,1 @@
-var mnemonic = "place sadness treat pet still slush squeeze umbrella ecology course mammal duck";
+var mnemonic = "curious object nominee famous nut shadow job strike sport swamp piece start";

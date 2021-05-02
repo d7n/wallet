@@ -1,1 +1,1 @@
-var mnemonic = "advance capital festival season pear egg road typical fitness decorate guitar inject";
+var mnemonic = "quote proud coffee sibling mix skull tone flee trial raccoon drastic banana";

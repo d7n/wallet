@@ -1,1 +1,1 @@
-var mnemonic = "cover slender marble champion battle message attend analyst half hole tunnel room";
+var mnemonic = "response visit chuckle repair favorite kit seminar leisure moral open thing potato";

@@ -1,1 +1,1 @@
-var mnemonic = "winter cup board entire school lamp fly social guitar gloom find lion";
+var mnemonic = "village web check owner super worry elbow match leisure tattoo strike apology";

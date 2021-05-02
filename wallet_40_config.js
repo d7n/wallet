@@ -1,1 +1,1 @@
-var mnemonic = "season phone wear sweet knock lounge pond dutch drama increase absent another";
+var mnemonic = "monkey mask sea bulb scout project embark enrich shadow chief tobacco hour";

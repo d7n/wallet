@@ -1,1 +1,1 @@
-var mnemonic = "rookie crumble slice crouch vapor kingdom spy game figure pizza system bulb";
+var mnemonic = "believe imitate lazy error smart ride about derive gold range chapter special";

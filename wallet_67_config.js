@@ -1,1 +1,1 @@
-var mnemonic = "siren fetch expect drip income sphere place labor chest demand sugar cake";
+var mnemonic = "cloth fence sign walk false sponsor salt rail rule hollow cruise tube";

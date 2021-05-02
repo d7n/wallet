@@ -1,1 +1,1 @@
-var mnemonic = "major sunset rescue divide electric over leopard genre drink furnace brief educate";
+var mnemonic = "decade alpha lizard penalty attend only enhance physical primary volume found elephant";

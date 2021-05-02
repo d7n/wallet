@@ -1,1 +1,1 @@
-var mnemonic = "gossip online chunk situate title solve picnic summer often agent ten situate";
+var mnemonic = "knife runway onion brass advance gas crime toss marriage curtain update oval";

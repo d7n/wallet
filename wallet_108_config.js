@@ -1,1 +1,1 @@
-var mnemonic = "race direct boring account depart broken danger frost slab unusual valid rare";
+var mnemonic = "belt tuna squeeze concert motor canvas pill isolate blind cloud shield ghost";
