@@ -1,1 +1,1 @@
-var mnemonic = "donate random lecture scale trophy pony casino clip elephant thing grass name";
+var mnemonic = "visit cruel spin gaze accuse next uphold round engine offer fresh still";

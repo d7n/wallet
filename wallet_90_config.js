@@ -1,1 +1,1 @@
-var mnemonic = "rent hole wisdom fitness turtle kit mammal shoot clinic faculty outer federal";
+var mnemonic = "fruit throw shoot summer wisdom recycle tornado nation acoustic rebuild match flag";

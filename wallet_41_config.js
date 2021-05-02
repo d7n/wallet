@@ -1,1 +1,1 @@
-var mnemonic = "retreat home crater picture oil find gun vendor shove comic merry under";
+var mnemonic = "gentle damp caution tide roof orient luxury crouch link quick dizzy video";

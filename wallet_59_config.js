@@ -1,1 +1,1 @@
-var mnemonic = "shaft salmon viable onion engage canal mystery ribbon boil predict army fringe";
+var mnemonic = "lawn opera piano rookie toward weasel predict hint step olympic light garbage";

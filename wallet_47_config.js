@@ -1,1 +1,1 @@
-var mnemonic = "this wave hurt balcony expect wet tackle forward coconut uncover omit ride";
+var mnemonic = "teach reject dinosaur sibling alcohol slow science swallow salt hundred zoo tip";

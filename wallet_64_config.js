@@ -1,1 +1,1 @@
-var mnemonic = "truly sample saddle ahead science erase zero forget crop ill crime catalog";
+var mnemonic = "awesome upon super loud relax ginger shiver fiscal abandon negative again twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "egg decline custom dust infant reduce april nice pill van baby alcohol";
+var mnemonic = "armor apology exchange medal burst correct wear dose feel diary ugly age";

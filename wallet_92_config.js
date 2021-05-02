@@ -1,1 +1,1 @@
-var mnemonic = "rent mystery reopen tribe magnet custom expose hip anchor camp hole hurry";
+var mnemonic = "mistake winter deer vote design able label farm wagon trend october pair";

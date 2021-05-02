@@ -1,1 +1,1 @@
-var mnemonic = "gaze erode next shoe dilemma remove raw outdoor venture frown differ wrong";
+var mnemonic = "tired imitate milk neutral wise point museum curve bus iron away bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "harbor leg genius kingdom pumpkin twenty october ride habit trap mesh demand";
+var mnemonic = "image drum slender story silent spell vacant boost chunk aerobic demise asset";

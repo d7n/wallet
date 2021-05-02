@@ -1,1 +1,1 @@
-var mnemonic = "nation chef credit luggage oppose jazz apart task ball become bronze lend";
+var mnemonic = "capital holiday asset oxygen torch talk ceiling sentence horn pet more guess";

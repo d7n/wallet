@@ -1,1 +1,1 @@
-var mnemonic = "among vital sister stem metal glad genius luxury shoot pumpkin resource myth";
+var mnemonic = "ivory clay million segment leaf garment awkward moon rack evolve melt lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "cute begin ranch perfect warm smoke robust pelican often cost file lounge";
+var mnemonic = "nothing change raven agent subject royal wet potato mimic breeze wrong popular";

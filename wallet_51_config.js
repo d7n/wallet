@@ -1,1 +1,1 @@
-var mnemonic = "sight end tourist slam fitness galaxy local ocean apart echo squeeze twenty";
+var mnemonic = "afford bid holiday exercise antenna ramp belt giraffe chef retire suspect give";

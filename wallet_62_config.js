@@ -1,1 +1,1 @@
-var mnemonic = "pencil grit lend sock hollow vault left adult detect thank brick light";
+var mnemonic = "shoulder donor zone hand chicken gown cross worry cute body way deny";

@@ -1,1 +1,1 @@
-var mnemonic = "nice paddle chalk purpose awesome name expect bless purchase mutual weasel net";
+var mnemonic = "fossil thumb cheap matter sea save urge liquid city champion relax gas";

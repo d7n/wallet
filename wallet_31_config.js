@@ -1,1 +1,1 @@
-var mnemonic = "jump hat poem begin canyon jeans ostrich hint ten ancient caution team";
+var mnemonic = "make yard camera window mushroom grief valid stadium oppose clip faculty congress";

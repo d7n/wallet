@@ -1,1 +1,1 @@
-var mnemonic = "shed inside champion parent detect live snack final patient lobster club lunar";
+var mnemonic = "guide caution unhappy few tuna layer then bus acquire excuse glad require";

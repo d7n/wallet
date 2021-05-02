@@ -1,1 +1,1 @@
-var mnemonic = "response jewel jewel across earn enhance gun firm nose chef cruise rabbit";
+var mnemonic = "glance main bargain camp churn lawn forward cinnamon seven crawl gadget enrich";

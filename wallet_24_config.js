@@ -1,1 +1,1 @@
-var mnemonic = "bronze clinic below gasp oppose multiply unveil pool glue stadium tribe youth";
+var mnemonic = "need pair used scissors photo frozen pass daughter child fault shrimp infant";

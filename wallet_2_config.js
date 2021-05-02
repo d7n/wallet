@@ -1,1 +1,1 @@
-var mnemonic = "security silver owner acquire film cheap dove only soccer book render vintage";
+var mnemonic = "original box swap away nest guide breeze rack awful poverty walnut vote";

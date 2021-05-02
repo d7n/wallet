@@ -1,1 +1,1 @@
-var mnemonic = "eager good clock juice toward tape wife very dust cactus wine peanut";
+var mnemonic = "swarm fatigue fragile small buzz west fly head embark require alert invest";

@@ -1,1 +1,1 @@
-var mnemonic = "offer dinosaur shoulder spend rubber maximum topic february private sell radio employ";
+var mnemonic = "pumpkin phrase high basic approve owner rely put ostrich fossil door immune";

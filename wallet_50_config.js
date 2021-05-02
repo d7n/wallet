@@ -1,1 +1,1 @@
-var mnemonic = "elegant claim explain blanket burst absorb hollow spawn candy intact film convince";
+var mnemonic = "pistol system permit case marble pony wagon boss mushroom reunion beauty vault";

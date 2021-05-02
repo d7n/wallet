@@ -1,1 +1,1 @@
-var mnemonic = "goddess curious fantasy chef gentle mirror shed off bamboo body alone host";
+var mnemonic = "gas old liberty notable yard end flight window city bacon arm glass";

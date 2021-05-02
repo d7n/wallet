@@ -1,1 +1,1 @@
-var mnemonic = "hello raise mind risk palace moment renew reason base reduce lion violin";
+var mnemonic = "pulse throw energy night foam erase average hint laugh rescue mansion theory";

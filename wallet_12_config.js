@@ -1,1 +1,1 @@
-var mnemonic = "bar below cloud finish fluid voyage daring cluster boost buffalo please liquid";
+var mnemonic = "setup worry that neglect all among guilt love bacon kitchen leave universe";

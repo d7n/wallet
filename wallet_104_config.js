@@ -1,1 +1,1 @@
-var mnemonic = "head vast sweet lyrics leg mango cargo shrug own sponsor trophy indoor";
+var mnemonic = "wink bundle hawk picture gospel slogan bamboo wonder blade foil rule volume";

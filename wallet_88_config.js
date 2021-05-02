@@ -1,1 +1,1 @@
-var mnemonic = "wash rule unveil reduce omit spider foam clinic surge punch virtual behind";
+var mnemonic = "cherry bounce elder oil pumpkin soon artist season erase patrol van ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "home news exhaust exhaust mistake depend magic unveil suffer join noise fault";
+var mnemonic = "embrace easily scout pledge witness seminar normal home kick grab expire castle";

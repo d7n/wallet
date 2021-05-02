@@ -1,1 +1,1 @@
-var mnemonic = "aspect behave honey supreme scene entry odor novel rigid often cargo need";
+var mnemonic = "enough news next devote space foot lion oblige tooth account peanut surge";

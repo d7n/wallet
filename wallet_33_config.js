@@ -1,1 +1,1 @@
-var mnemonic = "hair melt track depart quiz index day barely buddy volcano grab achieve";
+var mnemonic = "truck issue verify bag banner permit hollow annual drop polar hello web";

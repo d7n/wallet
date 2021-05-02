@@ -1,1 +1,1 @@
-var mnemonic = "across devote color liquid suffer surprise toy smooth ball erosion scatter drive";
+var mnemonic = "arena book inspire forest tomorrow struggle supply fox clump nephew sad slot";

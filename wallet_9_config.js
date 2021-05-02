@@ -1,1 +1,1 @@
-var mnemonic = "faint spell swim clean endorse home arm term friend zoo remove wide";
+var mnemonic = "tenant between enough rich style alcohol wide fresh client slab mercy skull";

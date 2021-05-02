@@ -1,1 +1,1 @@
-var mnemonic = "lamp output offer brass elephant switch unknown obscure note fiscal news call";
+var mnemonic = "prevent effort you pigeon vault limb car ahead dumb hope flash army";

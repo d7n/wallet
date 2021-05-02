@@ -1,1 +1,1 @@
-var mnemonic = "spell rather cross dice cinnamon survey volume ski hand sunset bachelor lemon";
+var mnemonic = "orphan potato level merry report buzz adjust quality then major brave light";

@@ -1,1 +1,1 @@
-var mnemonic = "device path spend visa learn lumber tag artist fantasy gauge walnut lecture";
+var mnemonic = "floor syrup village quick fee fold then chase seat brick promote onion";

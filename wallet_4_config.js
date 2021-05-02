@@ -1,1 +1,1 @@
-var mnemonic = "special code faculty awake vast pluck glide clay glove saddle sell leave";
+var mnemonic = "aim sight wash mention tube trade jump cheap best range arrange rather";

@@ -1,1 +1,1 @@
-var mnemonic = "outer client ten coil mixture draw tag quit pond mention satoshi siege";
+var mnemonic = "believe label proof agent retreat mule spin narrow profit flag smile confirm";

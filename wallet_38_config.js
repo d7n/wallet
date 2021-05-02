@@ -1,1 +1,1 @@
-var mnemonic = "achieve heavy same sister bonus episode random upset round submit forest expose";
+var mnemonic = "sphere index laugh skill fat image recall pride permit unveil egg express";

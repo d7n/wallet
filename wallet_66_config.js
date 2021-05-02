@@ -1,1 +1,1 @@
-var mnemonic = "weather hub oppose unknown federal elegant twice current flag toy art artwork";
+var mnemonic = "elbow stem label museum tower depend click ordinary merit unknown similar hockey";

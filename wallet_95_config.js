@@ -1,1 +1,1 @@
-var mnemonic = "fog jaguar bag solve level skin road nuclear fluid monster radio desert";
+var mnemonic = "dust mother teach harvest luggage aspect old possible episode essence diary zero";

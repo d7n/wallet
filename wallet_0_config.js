@@ -1,1 +1,1 @@
-var mnemonic = "hole style demise peasant used clump summer caught daring million venue family";
+var mnemonic = "lamp athlete raise welcome spot fatigue dad unlock learn exchange track year";

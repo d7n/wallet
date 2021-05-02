@@ -1,1 +1,1 @@
-var mnemonic = "impact sign grain confirm there base decade canyon leaf outer rack capital";
+var mnemonic = "view blur humble open solve urban october help day stereo later river";

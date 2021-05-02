@@ -1,1 +1,1 @@
-var mnemonic = "fury soda deposit violin stove hair fit cram siege sugar panic grid";
+var mnemonic = "coast swallow insect frequent rebuild size winner item imitate album trust beef";

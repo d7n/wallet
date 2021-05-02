@@ -1,1 +1,1 @@
-var mnemonic = "course cream course action river sea flee key immune mouse describe gain";
+var mnemonic = "yellow convince relax during cram moon sunset couch question guess else smoke";

@@ -1,1 +1,1 @@
-var mnemonic = "coin bronze wife fiscal sand clarify venue sort someone voyage sister bread";
+var mnemonic = "answer drop baby eight hover clarify define whisper cruise ginger style humble";

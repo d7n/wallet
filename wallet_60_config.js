@@ -1,1 +1,1 @@
-var mnemonic = "slab define print february series stadium own guilt business voice vote slender";
+var mnemonic = "sentence throw frown wife ripple between corn cannon silver orbit chronic current";

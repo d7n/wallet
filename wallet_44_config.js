@@ -1,1 +1,1 @@
-var mnemonic = "discover uncle actual together word beyond coast penalty invite minor anger pull";
+var mnemonic = "together chest aspect bike harsh multiply know boat pole organ length banner";

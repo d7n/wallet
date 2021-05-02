@@ -1,1 +1,1 @@
-var mnemonic = "soap artwork effort immense size helmet round prefer yellow barrel settle maple";
+var mnemonic = "engine minute profit skate armed clutch entire auction cake celery found survey";

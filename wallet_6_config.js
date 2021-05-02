@@ -1,1 +1,1 @@
-var mnemonic = "help tower orbit pizza reopen noble inch inmate december carry between topple";
+var mnemonic = "goddess volume decide badge double month occur warm afraid attitude forget cradle";

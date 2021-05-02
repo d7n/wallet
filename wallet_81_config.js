@@ -1,1 +1,1 @@
-var mnemonic = "loud park knock bright about demise horse detail keep raw private cheese";
+var mnemonic = "amateur garment stick ketchup snake curve system jeans manage crash fortune popular";

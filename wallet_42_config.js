@@ -1,1 +1,1 @@
-var mnemonic = "certain birth movie good stem amazing act cross assist wise laundry polar";
+var mnemonic = "eagle abstract metal card half domain ankle rotate swarm shaft insane universe";

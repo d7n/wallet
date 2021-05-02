@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow issue tennis shop kingdom hire improve metal ignore month among fury";
+var mnemonic = "dinosaur scorpion find mule tortoise ten coin find kiss sound reward casino";

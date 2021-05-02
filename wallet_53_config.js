@@ -1,1 +1,1 @@
-var mnemonic = "home chase road city similar neglect inspire place van enroll work size";
+var mnemonic = "use region float upon purse resemble bless can another cute section eternal";

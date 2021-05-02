@@ -1,1 +1,1 @@
-var mnemonic = "antenna access online mansion yellow admit document gloom report sketch scissors rescue";
+var mnemonic = "intact priority smooth gesture craft genre mountain almost calm kidney walk panel";

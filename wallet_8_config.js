@@ -1,1 +1,1 @@
-var mnemonic = "trade winner pig average acid verify sword bracket tattoo celery end color";
+var mnemonic = "result canvas inhale grace income before rare rival shoulder churn doll live";

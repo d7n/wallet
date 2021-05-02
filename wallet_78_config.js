@@ -1,1 +1,1 @@
-var mnemonic = "giant dash august finger ball trash used recall merry saddle metal brain";
+var mnemonic = "service dose robust monitor model oil pave weird garment blouse logic few";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic shoot unaware nation charge soup camera ship resist purity brain over";
+var mnemonic = "mesh oven ring purchase banner term fatal seat law indicate clarify tell";

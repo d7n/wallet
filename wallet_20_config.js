@@ -1,1 +1,1 @@
-var mnemonic = "now soap provide race finish arctic dizzy sponsor hard boy couch state";
+var mnemonic = "chef answer matrix debris orange total casual potato video soup private faculty";

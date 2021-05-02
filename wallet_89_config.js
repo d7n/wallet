@@ -1,1 +1,1 @@
-var mnemonic = "stereo fan cage miracle clinic flush remain cousin viable sunset glue custom";
+var mnemonic = "wealth together mechanic mobile sauce virus proud gas refuse reward idle birth";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel burst web arrest eye waste final time frequent mouse photo midnight";
+var mnemonic = "tragic thunder couch reform skirt elder code wet disorder strong desk loud";

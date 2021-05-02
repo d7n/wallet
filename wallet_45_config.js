@@ -1,1 +1,1 @@
-var mnemonic = "wrestle chapter picnic party mouse breeze betray seek retire infant broken all";
+var mnemonic = "pepper you give nest circle original screen loan filter this present exotic";

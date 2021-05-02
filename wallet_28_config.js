@@ -1,1 +1,1 @@
-var mnemonic = "where swallow salute skirt joy spoon urban indicate benefit uncover miracle wheat";
+var mnemonic = "century lava capable misery art fly degree close pink can finish armor";

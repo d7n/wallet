@@ -1,1 +1,1 @@
-var mnemonic = "rough bargain eager hair ensure gadget tired mutual desk ensure amateur tattoo";
+var mnemonic = "report cotton inmate derive grace rose bus obey dial tool dragon artefact";

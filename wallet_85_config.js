@@ -1,1 +1,1 @@
-var mnemonic = "sample lend subway tray clock found supply smooth old aware loop meat";
+var mnemonic = "cave scheme butter citizen usual icon oak print guide claw increase large";

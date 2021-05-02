@@ -1,1 +1,1 @@
-var mnemonic = "dilemma baby title rug steel sting index fluid chef frame culture exhaust";
+var mnemonic = "endless gesture amazing raven rate water discover camp indoor pattern vault exhibit";

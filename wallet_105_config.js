@@ -1,1 +1,1 @@
-var mnemonic = "ensure rotate elbow pencil rib sword neutral awesome brave dynamic axis dignity";
+var mnemonic = "echo cannon task wheat muscle pipe again vocal orange there cement exit";

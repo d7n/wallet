@@ -1,1 +1,1 @@
-var mnemonic = "quote upon episode dry away vague fan hunt clutch celery skill mimic";
+var mnemonic = "canal clap best faith cereal sunny come defy catch depart abandon inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "diamond inner youth long bread wear motor decade resemble tomato ranch horse";
+var mnemonic = "feature topple shrimp reform own sketch caught empty silk turtle update annual";

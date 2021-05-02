@@ -1,1 +1,1 @@
-var mnemonic = "tornado range infant flee card envelope giggle board like ill romance rather";
+var mnemonic = "ribbon treat theme theme rookie badge seed long talent dose juice uncle";

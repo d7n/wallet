@@ -1,1 +1,1 @@
-var mnemonic = "million online sword require submit record boy shop screen segment fence road";
+var mnemonic = "timber romance blade home math pigeon call sniff foam avocado extra ice";

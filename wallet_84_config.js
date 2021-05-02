@@ -1,1 +1,1 @@
-var mnemonic = "sudden dose push tooth alarm invest worry wine logic toddler upgrade velvet";
+var mnemonic = "shed tide accident oven ankle spider image deputy stamp piano cattle tree";

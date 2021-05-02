@@ -1,1 +1,1 @@
-var mnemonic = "cluster stomach follow cannon feed thought treat join unusual access join finish";
+var mnemonic = "category meadow actor palm craft genius surge broom unique diary dinner ice";

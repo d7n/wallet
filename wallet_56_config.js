@@ -1,1 +1,1 @@
-var mnemonic = "crisp arena crowd soldier can expect brass raise symptom divide cement inside";
+var mnemonic = "eagle ramp popular village time century ancient census loyal chuckle canvas ritual";

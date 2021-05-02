@@ -1,1 +1,1 @@
-var mnemonic = "hint merge measure frame excess anxiety night inquiry poem actress truth emerge";
+var mnemonic = "chest upper mix spare oak million scare noodle oblige swing select sight";

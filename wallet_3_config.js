@@ -1,1 +1,1 @@
-var mnemonic = "pause document idle result ahead accident jump identify lizard rigid hill history";
+var mnemonic = "exhaust olympic elevator garment main scrap sound priority snow around jeans list";

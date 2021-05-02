@@ -1,1 +1,1 @@
-var mnemonic = "mail unit hope stock syrup stay tool hungry smoke final lab dismiss";
+var mnemonic = "quote wire magic estate autumn violin merry west guide purse purity benefit";

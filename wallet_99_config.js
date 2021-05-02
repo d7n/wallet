@@ -1,1 +1,1 @@
-var mnemonic = "useless catch weather waste walk impose surprise faint cruise bright unaware loud";
+var mnemonic = "ten net blue immense exotic enroll drastic beach liquid rubber penalty wash";

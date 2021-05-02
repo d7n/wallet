@@ -1,1 +1,1 @@
-var mnemonic = "december oppose impact wood upper disease buyer swamp happy hand second margin";
+var mnemonic = "hobby bundle impact recycle write reform rapid monster head victory manage camp";

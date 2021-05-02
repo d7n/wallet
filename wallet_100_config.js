@@ -1,1 +1,1 @@
-var mnemonic = "member appear timber treat blouse access tragic cattle behind city help asset";
+var mnemonic = "remain power plastic basic escape steak siege senior insane walnut home romance";

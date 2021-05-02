@@ -1,1 +1,1 @@
-var mnemonic = "say produce ordinary cart update drama skin couch minimum foster enough spawn";
+var mnemonic = "fabric skull bread nothing pigeon echo dove loyal cabbage equal hip dawn";

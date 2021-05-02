@@ -1,1 +1,1 @@
-var mnemonic = "sponsor detail shell involve enhance shine gift detect large pole night swear";
+var mnemonic = "pear shoulder plug embark deny invest laundry good charge reunion gadget post";

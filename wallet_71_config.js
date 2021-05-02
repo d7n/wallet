@@ -1,1 +1,1 @@
-var mnemonic = "ribbon cash volcano move long there coach master axis rotate card fruit";
+var mnemonic = "palace mean remember noble camp sponsor muffin ripple media hungry ceiling embody";

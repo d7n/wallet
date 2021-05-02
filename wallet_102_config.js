@@ -1,1 +1,1 @@
-var mnemonic = "abandon pencil symptom outside satoshi edge style camera stool leaf pulse humor";
+var mnemonic = "such pony judge youth lobster gas cook junk memory island alert useful";

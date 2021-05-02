@@ -1,1 +1,1 @@
-var mnemonic = "fiscal swap plunge naive chunk exercise rib fringe citizen toilet seek manage";
+var mnemonic = "receive remove work current minor captain history label enhance resist sign crumble";

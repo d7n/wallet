@@ -1,1 +1,1 @@
-var mnemonic = "sudden ethics type rabbit pride shuffle oyster drip ritual pole grit air";
+var mnemonic = "devote early talent path finish inhale burden intact idle screen region filter";

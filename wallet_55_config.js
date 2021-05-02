@@ -1,1 +1,1 @@
-var mnemonic = "subway solution ancient shadow hour humble sand still rally island season cream";
+var mnemonic = "gun coffee blush recycle initial ring answer supply kiss kind spend onion";

@@ -1,1 +1,1 @@
-var mnemonic = "fog cloud egg trend give wine public between universe fatal chunk goose";
+var mnemonic = "replace predict make acquire rebel census truly pink trash floor disorder debate";

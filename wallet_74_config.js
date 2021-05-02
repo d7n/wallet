@@ -1,1 +1,1 @@
-var mnemonic = "remind victory imitate silver trick club lizard extra lunar shoot buyer maple";
+var mnemonic = "truth trumpet blast economy verify deer want possible unlock fork concert clutch";

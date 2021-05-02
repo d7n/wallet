@@ -1,1 +1,1 @@
-var mnemonic = "such keep wrong soon book tiger fade damp cook key civil addict";
+var mnemonic = "tourist wall actress rich paper scan gospel maid tiny obey cable latin";

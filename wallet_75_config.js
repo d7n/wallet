@@ -1,1 +1,1 @@
-var mnemonic = "ugly early lyrics original order organ crystal surge sister sibling prevent fat";
+var mnemonic = "pear accuse pass text nominee library strike polar actual this fan cushion";
