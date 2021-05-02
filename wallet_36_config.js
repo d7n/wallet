@@ -1,1 +1,1 @@
-var mnemonic = "alley pond breeze make gravity stool angle asset quote arrange chimney butter";
+var mnemonic = "pretty limit orphan guess effort foot habit tragic divide goddess dentist donkey";

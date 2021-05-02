@@ -1,1 +1,1 @@
-var mnemonic = "ceiling oven uniform renew hover judge clog engage path utility runway advance";
+var mnemonic = "sight dirt grant town space approve gossip knock segment lend cook olympic";

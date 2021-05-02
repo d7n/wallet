@@ -1,1 +1,1 @@
-var mnemonic = "achieve forest gentle owner filter only ranch poverty mean alley elevator clever";
+var mnemonic = "pave parent clock border interest strike armor mesh north metal blue web";

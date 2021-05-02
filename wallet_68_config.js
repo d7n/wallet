@@ -1,1 +1,1 @@
-var mnemonic = "miracle pool puzzle spin orbit novel trade crew shrug crawl satisfy ghost";
+var mnemonic = "trade avoid anxiety knock useless garage either rack brave moon reopen joy";

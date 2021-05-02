@@ -1,1 +1,1 @@
-var mnemonic = "hockey first leg raccoon slogan song drum silk cloth million monster medal";
+var mnemonic = "lounge easily bitter initial window render trash focus pole head slot budget";

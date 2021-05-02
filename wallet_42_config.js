@@ -1,1 +1,1 @@
-var mnemonic = "time thrive source pioneer bullet renew blast pill glide thank scene among";
+var mnemonic = "dignity diamond much slide home define live neutral pulp wealth brain fantasy";

@@ -1,1 +1,1 @@
-var mnemonic = "cube blouse drink point wonder shop weapon item panther million album acoustic";
+var mnemonic = "kidney train clown benefit jelly discover wealth puzzle bacon force cradle keep";

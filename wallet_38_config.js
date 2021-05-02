@@ -1,1 +1,1 @@
-var mnemonic = "address raw ostrich roast fuel perfect breeze slide over broom other certain";
+var mnemonic = "celery furnace pear panic pulse change uniform interest digital service nominee ball";

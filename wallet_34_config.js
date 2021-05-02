@@ -1,1 +1,1 @@
-var mnemonic = "angle soldier vocal remember ostrich blood yard whisper truly ugly combine color";
+var mnemonic = "sure indoor usage inhale wagon twelve advance reduce flower giraffe awake tattoo";

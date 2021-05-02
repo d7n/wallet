@@ -1,1 +1,1 @@
-var mnemonic = "cupboard kick hint inflict company sausage elevator riot tissue reveal sorry correct";
+var mnemonic = "disease parent quiz soft pool spoil enable fog stuff utility coffee above";

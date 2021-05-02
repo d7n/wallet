@@ -1,1 +1,1 @@
-var mnemonic = "december limb snake cherry crouch subway aerobic culture boss pottery affair fame";
+var mnemonic = "electric ranch exercise rigid fan zone session message junior public throw wing";

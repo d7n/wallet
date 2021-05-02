@@ -1,1 +1,1 @@
-var mnemonic = "anger kind one october mechanic note notable icon task sad finish fly";
+var mnemonic = "unveil canvas web leisure narrow awesome say pelican imitate resist much dust";

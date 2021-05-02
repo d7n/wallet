@@ -1,1 +1,1 @@
-var mnemonic = "word about real machine lend crowd damage inject glide item shoe piano";
+var mnemonic = "myth ill hurt alpha april era unveil material bone estate depth embrace";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster pig green stairs unit allow machine unveil kid glove potato guide";
+var mnemonic = "million item trap input pull below hurdle absurd equal skin believe actress";

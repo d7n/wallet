@@ -1,1 +1,1 @@
-var mnemonic = "deny couch caught stamp you abstract private blue exercise fork clutch super";
+var mnemonic = "knife carry leg more ketchup meat horse puppy false pact arctic addict";

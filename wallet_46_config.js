@@ -1,1 +1,1 @@
-var mnemonic = "bottom today repair success seminar sister nasty excess comic junior cruel pupil";
+var mnemonic = "wear move execute twenty dragon napkin cupboard ostrich moon dance power kit";

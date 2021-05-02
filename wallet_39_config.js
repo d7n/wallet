@@ -1,1 +1,1 @@
-var mnemonic = "educate escape cable jeans athlete oil same slender area satoshi need absorb";
+var mnemonic = "foster famous lesson wool top inside clay adapt verb include tape shed";

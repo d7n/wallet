@@ -1,1 +1,1 @@
-var mnemonic = "margin juice cushion raccoon pave debris daughter metal trumpet typical margin gold";
+var mnemonic = "hobby donkey subject sustain tuition horror add explain vessel comfort uncle impulse";

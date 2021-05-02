@@ -1,1 +1,1 @@
-var mnemonic = "situate gallery galaxy share chalk rent ladder skirt fit coffee sadness suit";
+var mnemonic = "session trial dumb keen guitar depth over legal duck bid gun awkward";

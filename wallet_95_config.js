@@ -1,1 +1,1 @@
-var mnemonic = "again type ugly hurry neglect choice ride gun thunder idea prevent income";
+var mnemonic = "check inside ahead replace ensure unable cable venue orange gossip eager pen";

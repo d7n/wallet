@@ -1,1 +1,1 @@
-var mnemonic = "traffic dinner dash salad brown express edit ketchup want rescue benefit arrange";
+var mnemonic = "earn fiscal actor crime soul differ increase custom fiber december orbit quote";

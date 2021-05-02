@@ -1,1 +1,1 @@
-var mnemonic = "mammal furnace arrest panther reduce loud jazz daughter normal comic any speak";
+var mnemonic = "blush senior monitor cook service summer coffee friend predict exit soda orange";

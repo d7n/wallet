@@ -1,1 +1,1 @@
-var mnemonic = "now kid drama frown keep capital nephew snack come follow blush truly";
+var mnemonic = "vapor hundred just west latin swear glare latin hole drill poem right";

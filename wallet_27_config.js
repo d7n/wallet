@@ -1,1 +1,1 @@
-var mnemonic = "alert extra office right gallery copy security any fluid mushroom gloom car";
+var mnemonic = "muffin thrive milk bean envelope quantum hero spray stadium also veteran paddle";

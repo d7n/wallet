@@ -1,1 +1,1 @@
-var mnemonic = "nuclear same flower april shoe maze despair attract essence success clown remind";
+var mnemonic = "crazy pilot work inmate replace quiz leopard ridge seat crisp express dish";

@@ -1,1 +1,1 @@
-var mnemonic = "say say already way clip disagree black build pony lecture soap figure";
+var mnemonic = "blade stable typical alien parent wear pig bitter memory priority poet champion";

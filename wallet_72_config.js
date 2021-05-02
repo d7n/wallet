@@ -1,1 +1,1 @@
-var mnemonic = "seat skull text mimic tuna teach material voyage priority great control scrap";
+var mnemonic = "grocery mix basic pumpkin spoil wrist forward simple acquire analyst monkey design";

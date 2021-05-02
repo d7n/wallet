@@ -1,1 +1,1 @@
-var mnemonic = "sentence tail awake green paddle second three use visa pole banner radar";
+var mnemonic = "same cruise filter play inhale prosper midnight mean around unlock awkward cabin";

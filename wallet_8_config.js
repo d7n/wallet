@@ -1,1 +1,1 @@
-var mnemonic = "common scare rack edge update shuffle awake dolphin control practice art critic";
+var mnemonic = "pilot blind enjoy castle danger muscle knee catch learn sad vanish detail";

@@ -1,1 +1,1 @@
-var mnemonic = "birth chest baby camp web fish country document dog behave cousin bronze";
+var mnemonic = "assault rather canvas calm tooth certain oppose rubber total drop clap life";

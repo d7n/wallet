@@ -1,1 +1,1 @@
-var mnemonic = "valley riot quality stool erase town egg climb misery slight inch witness";
+var mnemonic = "mushroom burst glow wet jar roast cute front wonder employ oblige prefer";

@@ -1,1 +1,1 @@
-var mnemonic = "refuse divorce shell major any rubber secret worry setup worth adjust light";
+var mnemonic = "taxi hazard ranch luggage small project perfect write enhance valid excuse excess";

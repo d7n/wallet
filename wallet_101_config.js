@@ -1,1 +1,1 @@
-var mnemonic = "salon kidney notice milk hammer panic fork marine visit equal spawn blade";
+var mnemonic = "carbon wreck unique merge clay sentence motion elevator nerve pass dynamic december";

@@ -1,1 +1,1 @@
-var mnemonic = "silver toward salad room sweet purpose act era labor together lottery stool";
+var mnemonic = "rocket energy panda outside advance leopard later pistol script program width barrel";

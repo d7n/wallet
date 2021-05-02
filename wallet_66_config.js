@@ -1,1 +1,1 @@
-var mnemonic = "bonus develop library pioneer cigar obscure curious near combine script shove attack";
+var mnemonic = "drink kick original grief view try little promote meadow umbrella call typical";

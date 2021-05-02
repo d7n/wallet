@@ -1,1 +1,1 @@
-var mnemonic = "milk shine cloud culture culture write divert much grab chair theory loyal";
+var mnemonic = "accident nephew clump culture steak moment return rice purpose thumb predict drill";

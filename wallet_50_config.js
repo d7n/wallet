@@ -1,1 +1,1 @@
-var mnemonic = "there two basic spirit obtain mutual doctor salute leader fortune margin around";
+var mnemonic = "elephant armed uphold huge broccoli cup blame nerve ordinary future wreck fatigue";

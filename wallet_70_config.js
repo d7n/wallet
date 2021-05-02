@@ -1,1 +1,1 @@
-var mnemonic = "miracle blame loyal thunder tower series snack transfer clever exhaust letter patrol";
+var mnemonic = "weather nuclear master achieve coffee neither firm hobby bacon dry day mimic";

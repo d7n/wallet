@@ -1,1 +1,1 @@
-var mnemonic = "scrub can vote cigar twist battle arrest panel save top pair ride";
+var mnemonic = "inquiry average surround quantum glow action voyage scare festival margin labor medal";

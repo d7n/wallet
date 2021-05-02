@@ -1,1 +1,1 @@
-var mnemonic = "source empty connect wise abuse side possible friend few carbon spawn punch";
+var mnemonic = "lawsuit where tilt vibrant pluck lizard aerobic turn exchange dream mandate call";

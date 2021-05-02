@@ -1,1 +1,1 @@
-var mnemonic = "cargo vintage type day occur arrow safe fat suggest change sunset enact";
+var mnemonic = "about audit crumble cherry soap empower all fly october april letter reason";

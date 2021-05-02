@@ -1,1 +1,1 @@
-var mnemonic = "lunar fantasy derive involve small swift disorder power argue forward cute choose";
+var mnemonic = "balcony wait liquid ancient minimum cargo position appear pause among lemon gasp";

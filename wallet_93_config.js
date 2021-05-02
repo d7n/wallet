@@ -1,1 +1,1 @@
-var mnemonic = "sustain comfort chunk decline small spike scout express rule olive warrior glide";
+var mnemonic = "tip yard rich remember royal silver switch stuff eight proof hip exhibit";

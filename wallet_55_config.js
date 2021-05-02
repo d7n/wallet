@@ -1,1 +1,1 @@
-var mnemonic = "donkey fun invite grocery scene fly chaos strong riot cup train couple";
+var mnemonic = "right fitness crawl deer eagle hard barely shaft lumber april story brown";

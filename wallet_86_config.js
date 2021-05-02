@@ -1,1 +1,1 @@
-var mnemonic = "evolve joke clinic fantasy humor total beef plug wolf write ridge image";
+var mnemonic = "fringe trigger slight enact crack swallow insect gas crystal equal toward wine";

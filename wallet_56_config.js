@@ -1,1 +1,1 @@
-var mnemonic = "strong artefact organ bottom price old enlist off globe actress swap minor";
+var mnemonic = "regret knife that simple intact slogan scrub oppose message grit net camp";

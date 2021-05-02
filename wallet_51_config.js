@@ -1,1 +1,1 @@
-var mnemonic = "scout volume news ability giant token prepare vault senior mixture cement minor";
+var mnemonic = "fuel warrior traffic vessel tag train torch ill learn history emerge cheap";

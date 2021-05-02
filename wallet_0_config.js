@@ -1,1 +1,1 @@
-var mnemonic = "you other upgrade utility limit surge quantum dance tissue bulk pulp viable";
+var mnemonic = "rude canvas soap life critic train alert agree comic deer divert video";

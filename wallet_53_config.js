@@ -1,1 +1,1 @@
-var mnemonic = "farm female erosion memory scheme stick pave worry soup lift erupt grit";
+var mnemonic = "school enemy fetch because verb speed few tree mechanic gas slab stable";

@@ -1,1 +1,1 @@
-var mnemonic = "east meat monster robust into wait side permit wine arm usage rotate";
+var mnemonic = "tone naive select ensure frown heavy novel involve napkin never pumpkin empty";

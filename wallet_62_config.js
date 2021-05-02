@@ -1,1 +1,1 @@
-var mnemonic = "category useful second reward genius box suggest give close jelly edge security";
+var mnemonic = "barrel claw army eye guide tonight master episode omit endorse library maple";

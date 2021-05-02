@@ -1,1 +1,1 @@
-var mnemonic = "dumb clarify dilemma public client erode benefit gloom check host sword nuclear";
+var mnemonic = "glide camp wing detail turkey gold more deny attend energy gym judge";

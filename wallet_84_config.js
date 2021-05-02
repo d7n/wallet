@@ -1,1 +1,1 @@
-var mnemonic = "cross manage picnic trouble leader float forest air three silk flight spider";
+var mnemonic = "kingdom earn front brisk wing simple way general draft giraffe child step";

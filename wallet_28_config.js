@@ -1,1 +1,1 @@
-var mnemonic = "school item modify spawn paper assault fold betray render march more soul";
+var mnemonic = "salad protect soup tribe gaze broom diagram feel female rug inflict mule";

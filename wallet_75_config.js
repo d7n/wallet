@@ -1,1 +1,1 @@
-var mnemonic = "cup come display swear coconut night gate mimic battle affair hidden moment";
+var mnemonic = "vague side light school tortoise laptop business shoot mushroom rapid sniff insect";

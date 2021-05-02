@@ -1,1 +1,1 @@
-var mnemonic = "off tilt combine quick save robust mushroom brisk club conduct chronic quarter";
+var mnemonic = "brass oak vast cloth beef change coach blouse busy hope lawsuit twice";

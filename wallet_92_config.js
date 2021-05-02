@@ -1,1 +1,1 @@
-var mnemonic = "solution bachelor portion salt recall law have man more garment lonely uncover";
+var mnemonic = "special dismiss toast consider frown mad dignity measure gloom clap sock dial";

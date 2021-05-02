@@ -1,1 +1,1 @@
-var mnemonic = "story end fence depend miss describe arrive state swear stuff vessel limb";
+var mnemonic = "obtain pave forward spell stool picnic degree silent refuse chapter must figure";

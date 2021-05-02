@@ -1,1 +1,1 @@
-var mnemonic = "orbit shove leopard fold vacant track priority fruit ten allow tonight grief";
+var mnemonic = "gossip hero team visit lava reason reject culture child orient blur sudden";

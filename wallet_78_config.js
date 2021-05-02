@@ -1,1 +1,1 @@
-var mnemonic = "pen chief noodle build exchange lady festival drum decline injury punch auto";
+var mnemonic = "sorry true fetch village inherit pelican decline alley fabric fish become pond";

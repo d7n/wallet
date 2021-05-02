@@ -1,1 +1,1 @@
-var mnemonic = "jeans spin usual antenna wrestle oppose pet resource actor when smart argue";
+var mnemonic = "wonder leg vicious trouble pill half close primary skin possible tornado snap";

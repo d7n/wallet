@@ -1,1 +1,1 @@
-var mnemonic = "inject provide learn run market glide warrior mansion guitar cigar alcohol begin";
+var mnemonic = "sauce coach edit blush pink sphere eyebrow attack captain grocery absent giant";

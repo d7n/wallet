@@ -1,1 +1,1 @@
-var mnemonic = "marriage work midnight dish burger long onion toy giraffe piece repeat choose";
+var mnemonic = "ball shove acid cat taste genius truck identify disease beef pilot patch";

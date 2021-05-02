@@ -1,1 +1,1 @@
-var mnemonic = "vacant divert crash cover donor egg pause session miracle lift whisper primary";
+var mnemonic = "visual cross invest concert exhibit pass claw penalty electric arrange scene option";

@@ -1,1 +1,1 @@
-var mnemonic = "remove viable abuse announce letter ladder sea cupboard route gap marine call";
+var mnemonic = "fork churn amateur poverty cheese lesson maid anchor glide slice order beach";

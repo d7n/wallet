@@ -1,1 +1,1 @@
-var mnemonic = "try hill october social found fork rebel work anxiety north step unaware";
+var mnemonic = "help weapon fault roof round unusual pact fringe total pilot front bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "forget party undo six exchange reason strategy world arrange street space fluid";
+var mnemonic = "neglect pitch eyebrow cupboard train team slush spread garbage uphold wagon merry";

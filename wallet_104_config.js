@@ -1,1 +1,1 @@
-var mnemonic = "warrior pottery move pigeon release aerobic fame north game salmon rhythm then";
+var mnemonic = "ghost hint delay early avocado there approve bleak emotion quick silly eight";

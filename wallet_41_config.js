@@ -1,1 +1,1 @@
-var mnemonic = "occur observe drum they order sausage burst blouse reunion oppose vague salmon";
+var mnemonic = "music ritual embark scale insect rude light spirit feel able fluid art";

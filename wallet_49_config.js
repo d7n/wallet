@@ -1,1 +1,1 @@
-var mnemonic = "depart sister carbon bless use prefer poverty spell output slow caution minute";
+var mnemonic = "have dove misery escape test space twenty honey flavor dismiss asthma injury";

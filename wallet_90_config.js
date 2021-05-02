@@ -1,1 +1,1 @@
-var mnemonic = "fetch soldier grass impact emerge ability fossil sentence dash coyote office episode";
+var mnemonic = "sphere blind sample symptom simple salon borrow wage false wheat toss false";

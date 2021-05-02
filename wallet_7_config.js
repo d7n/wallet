@@ -1,1 +1,1 @@
-var mnemonic = "mushroom gas sure access write foot rookie certain skirt change execute snap";
+var mnemonic = "dash medal tail join used luxury chest appear rate stick body since";

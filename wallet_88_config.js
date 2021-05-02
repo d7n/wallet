@@ -1,1 +1,1 @@
-var mnemonic = "paddle mesh atom oval metal letter pen roof bullet scan essence pottery";
+var mnemonic = "left conduct call rail dog door sad segment harvest success club order";

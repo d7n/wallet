@@ -1,1 +1,1 @@
-var mnemonic = "dress minor flip limit palm noise town bus tired obtain fuel derive";
+var mnemonic = "mandate affair amazing nation blast valid stool wonder lamp parrot travel cruise";

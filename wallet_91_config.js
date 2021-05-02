@@ -1,1 +1,1 @@
-var mnemonic = "theory cash bulb replace offer muffin harbor assist lucky bless saddle wish";
+var mnemonic = "fire marine sheriff oval train space cash coral swing confirm couple setup";

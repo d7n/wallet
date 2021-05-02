@@ -1,1 +1,1 @@
-var mnemonic = "domain basic trigger enlist pencil skin release banner slush crisp cactus diary";
+var mnemonic = "artefact yard patch alcohol credit exhaust mesh tumble fury sister cost image";

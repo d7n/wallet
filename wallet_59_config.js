@@ -1,1 +1,1 @@
-var mnemonic = "brass earth win maximum humble describe great fetch paper ability firm rifle";
+var mnemonic = "episode cake weird earn mouse animal glow reunion olympic crazy license also";

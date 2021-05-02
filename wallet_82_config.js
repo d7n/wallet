@@ -1,1 +1,1 @@
-var mnemonic = "food shuffle clap corn dune disorder soul six match tongue stay scout";
+var mnemonic = "shoe position cabin plug style grape jacket purpose sphere program trigger inhale";

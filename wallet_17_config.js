@@ -1,1 +1,1 @@
-var mnemonic = "beach venue brave goddess seed result shoot theory border raise lunar cattle";
+var mnemonic = "ecology kitchen slot rigid right slice royal diesel gauge hood muscle age";

@@ -1,1 +1,1 @@
-var mnemonic = "upset language charge satoshi orphan season fall dad bicycle gym dog scan";
+var mnemonic = "stay city spell all water ramp stuff orient shove cousin spin crash";

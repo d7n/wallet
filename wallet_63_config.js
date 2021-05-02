@@ -1,1 +1,1 @@
-var mnemonic = "trumpet knock view sheriff blast dentist gentle shoot search skill select help";
+var mnemonic = "off clump track measure drama sun oil enemy rabbit razor erase enable";

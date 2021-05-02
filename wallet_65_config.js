@@ -1,1 +1,1 @@
-var mnemonic = "pudding answer rather flight discover panic filter salon aisle three apple weird";
+var mnemonic = "trick hub poet narrow rare garlic ill cargo odor choice goose quick";

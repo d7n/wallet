@@ -1,1 +1,1 @@
-var mnemonic = "slice tonight myth twin decrease boss school have gossip faith recycle toward";
+var mnemonic = "combine curve glimpse marble evil kind book staff village lawn fragile pattern";

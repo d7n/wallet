@@ -1,1 +1,1 @@
-var mnemonic = "lawn rebuild hurt dress diamond joy poverty receive paddle service tray thunder";
+var mnemonic = "pencil pizza rose interest mesh kite neck wood item color amazing swift";

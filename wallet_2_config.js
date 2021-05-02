@@ -1,1 +1,1 @@
-var mnemonic = "arrest bracket board infant mammal valve habit surface lobster garden hello angle";
+var mnemonic = "move online unfair company whale diary blanket fitness garage enact extend pyramid";

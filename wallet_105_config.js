@@ -1,1 +1,1 @@
-var mnemonic = "desert useful notice involve hurdle human absorb celery merit tragic sure volcano";
+var mnemonic = "broccoli token pipe lazy snake shuffle drastic loud arena relax key spread";

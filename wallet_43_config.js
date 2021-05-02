@@ -1,1 +1,1 @@
-var mnemonic = "slush cross orchard interest fancy crowd defy track future bar second deputy";
+var mnemonic = "caution cat fortune wheat trust throw suffer wife immune cruise attract bundle";

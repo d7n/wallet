@@ -1,1 +1,1 @@
-var mnemonic = "orbit scene cook young ignore spice misery inflict ghost replace harbor nephew";
+var mnemonic = "kiwi turn asset grief vast exotic music bread casual hub worry debris";
