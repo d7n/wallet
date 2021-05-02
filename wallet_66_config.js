@@ -1,1 +1,1 @@
-var mnemonic = "two wonder become know zero sphere sibling lecture away tenant pudding response";
+var mnemonic = "glory wear range tobacco tongue dash skirt crawl hidden six song prepare";

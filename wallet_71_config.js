@@ -1,1 +1,1 @@
-var mnemonic = "connect donor buyer myself garden obscure penalty cook motion frequent year enough";
+var mnemonic = "net license nature sunset mix adjust owner during party stool account vital";

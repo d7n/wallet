@@ -1,1 +1,1 @@
-var mnemonic = "tornado economy bind fun auction area lizard bright amount scale swift have";
+var mnemonic = "wish orange soap december senior judge citizen neglect inject good toss theme";

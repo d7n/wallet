@@ -1,1 +1,1 @@
-var mnemonic = "list find average local noodle close wink liberty deposit wink injury pear";
+var mnemonic = "blouse clutch innocent answer february nominee wink brush during exotic taste filter";

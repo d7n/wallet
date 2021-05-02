@@ -1,1 +1,1 @@
-var mnemonic = "net extra tent wrap drama involve gold enjoy any evolve page river";
+var mnemonic = "lens party select magic junk usual helmet federal else cat gravity dilemma";

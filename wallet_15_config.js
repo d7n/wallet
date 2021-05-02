@@ -1,1 +1,1 @@
-var mnemonic = "salon exercise adapt program can bounce destroy sentence region mechanic claim cabin";
+var mnemonic = "offer frequent ski indicate million same clog minimum curtain nerve demand rose";

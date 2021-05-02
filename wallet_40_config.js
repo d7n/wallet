@@ -1,1 +1,1 @@
-var mnemonic = "wagon put denial permit rely panther giant pet brown trend cash kingdom";
+var mnemonic = "rescue night mystery nature bacon imitate spatial you jungle race image destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "gym dial advance busy spin receive please usage symbol poverty junior hidden";
+var mnemonic = "harbor pioneer sense jelly winter clip clog night sustain range measure finish";

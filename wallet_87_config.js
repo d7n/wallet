@@ -1,1 +1,1 @@
-var mnemonic = "truth hockey shoulder inner dance blush height ankle frequent goat visual author";
+var mnemonic = "lady demand view festival news weird cloud grid little man people giraffe";

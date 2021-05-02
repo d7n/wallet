@@ -1,1 +1,1 @@
-var mnemonic = "retreat language onion weekend print bind peasant stay oval modify try funny";
+var mnemonic = "negative recipe citizen pattern upper dove cradle multiply history wisdom echo lava";

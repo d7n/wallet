@@ -1,1 +1,1 @@
-var mnemonic = "orphan become salmon sauce help wing inner entry avocado struggle coil garden";
+var mnemonic = "have tone pole define squeeze denial flag electric rent prize clay swap";

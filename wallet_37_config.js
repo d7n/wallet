@@ -1,1 +1,1 @@
-var mnemonic = "decrease manual timber lemon case camera normal awesome junk dose comic loop";
+var mnemonic = "tomorrow estate post nerve ridge file until brother divide marine quality bean";

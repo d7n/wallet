@@ -1,1 +1,1 @@
-var mnemonic = "rule hundred dice quiz sphere balance annual one resource panda water exhibit";
+var mnemonic = "improve harbor purchase chief potato keep congress property spawn satisfy grid pretty";

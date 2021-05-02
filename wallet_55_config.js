@@ -1,1 +1,1 @@
-var mnemonic = "canvas night monkey timber giggle negative news force inspire moral embark below";
+var mnemonic = "media cook circle sniff announce return weasel harsh month border bullet flip";

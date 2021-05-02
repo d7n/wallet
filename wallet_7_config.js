@@ -1,1 +1,1 @@
-var mnemonic = "miss token mention start pencil legend pitch icon harsh fog marble rookie";
+var mnemonic = "decline such craft negative okay grace shoulder mention grit sunset second gesture";

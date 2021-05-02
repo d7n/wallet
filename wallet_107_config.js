@@ -1,1 +1,1 @@
-var mnemonic = "canal search impact notable cradle service foil seek other judge fabric rent";
+var mnemonic = "test pear stumble muffin bacon walk alpha distance volume remember length devote";

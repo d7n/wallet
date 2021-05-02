@@ -1,1 +1,1 @@
-var mnemonic = "ketchup fatigue midnight small fade output frozen awful dish history awful cereal";
+var mnemonic = "pilot join area hurry soup praise faculty scout will coconut wrong crisp";

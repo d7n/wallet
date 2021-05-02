@@ -1,1 +1,1 @@
-var mnemonic = "museum state unfold grow gym vacant prize noodle lab insect deposit skate";
+var mnemonic = "build kind absent maximum result depart quote spare cute question shadow doctor";

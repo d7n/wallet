@@ -1,1 +1,1 @@
-var mnemonic = "clutch boat improve fiber change praise pretty figure clog come sweet color";
+var mnemonic = "huge drive tube damp sleep pond erupt marriage depart expose auction hub";

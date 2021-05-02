@@ -1,1 +1,1 @@
-var mnemonic = "jump exhaust mask around decide situate donor define picture cash during primary";
+var mnemonic = "item mushroom credit rich midnight kitten shift guide tribe theme arm symptom";

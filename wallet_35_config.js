@@ -1,1 +1,1 @@
-var mnemonic = "endorse sport venture diet accuse asthma another echo response net maximum supply";
+var mnemonic = "meat first renew direct burst assist letter company scare soul million whisper";

@@ -1,1 +1,1 @@
-var mnemonic = "describe right danger hockey kite holiday transfer monkey glass match beyond aware";
+var mnemonic = "return hotel rent marriage select student rule used melody drill stadium earth";

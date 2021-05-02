@@ -1,1 +1,1 @@
-var mnemonic = "soul slide merge ugly slush private aware hundred refuse elite awful boy";
+var mnemonic = "ticket nose cart laptop height bag arctic crew clarify actual lecture aim";

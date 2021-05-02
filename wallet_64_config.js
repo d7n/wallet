@@ -1,1 +1,1 @@
-var mnemonic = "valley blossom dove teach subject flee keen glove silent fantasy zone long";
+var mnemonic = "mechanic paddle local machine proof river wonder rent since recycle squirrel muffin";

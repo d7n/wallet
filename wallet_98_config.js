@@ -1,1 +1,1 @@
-var mnemonic = "return seek cage moon circle clock toward multiply install spoon soon rough";
+var mnemonic = "disease amateur torch catalog true vault gorilla claw link prepare traffic pulp";

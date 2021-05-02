@@ -1,1 +1,1 @@
-var mnemonic = "wasp math carbon addict among truth firm vintage ceiling sound flush liberty";
+var mnemonic = "climb marble absent valve situate extra make rude midnight strong inherit scan";

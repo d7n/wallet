@@ -1,1 +1,1 @@
-var mnemonic = "rival magic hollow present egg cheese sweet decline lunch urge together refuse";
+var mnemonic = "escape weather horn submit arrive kidney fortune grid flash bundle protect muffin";

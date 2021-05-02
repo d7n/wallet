@@ -1,1 +1,1 @@
-var mnemonic = "foster range noise hover mimic month normal gravity sentence below enough course";
+var mnemonic = "moment venture age sick napkin possible symptom birth mother child sunset glory";

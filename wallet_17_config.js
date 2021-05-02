@@ -1,1 +1,1 @@
-var mnemonic = "barely soft furnace quote subway double clarify coast submit wise silent amazing";
+var mnemonic = "iron era genuine bottom move soon three rely effort shrimp rhythm eyebrow";

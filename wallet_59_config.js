@@ -1,1 +1,1 @@
-var mnemonic = "meat simple keep kangaroo notice nominee swim exclude ketchup rotate insect scorpion";
+var mnemonic = "conduct hover page able motion arrow target lunch connect electric weather solid";

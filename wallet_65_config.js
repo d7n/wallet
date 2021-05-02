@@ -1,1 +1,1 @@
-var mnemonic = "aisle shrimp rib tomorrow choice place plug heavy rigid hurry excess pyramid";
+var mnemonic = "tree rapid sting rhythm note track monster tattoo remove lumber slight door";

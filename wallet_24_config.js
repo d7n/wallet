@@ -1,1 +1,1 @@
-var mnemonic = "upgrade figure avoid menu must once silver sadness convince squirrel they hawk";
+var mnemonic = "worry hand inside hospital effort useful march install copper session glance extra";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire this velvet remain cruise brown tattoo crumble issue practice base exact";
+var mnemonic = "design cactus impulse animal bike gym rail carpet warrior pill heavy goat";

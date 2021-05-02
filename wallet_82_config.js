@@ -1,1 +1,1 @@
-var mnemonic = "mention trip panda palace noble decide lab useful again all basic label";
+var mnemonic = "cancel involve always crisp eyebrow board rural right arctic letter erase gentle";

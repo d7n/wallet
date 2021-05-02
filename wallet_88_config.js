@@ -1,1 +1,1 @@
-var mnemonic = "mechanic stomach paper warfare inch detect casino host brave rain cat soon";
+var mnemonic = "magnet genius settle design lift riot throw indoor vapor blossom result quick";

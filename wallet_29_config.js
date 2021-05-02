@@ -1,1 +1,1 @@
-var mnemonic = "iron hundred inspire edge mother bird citizen dice combine glad entry fragile";
+var mnemonic = "digital avoid father nest black exhibit output frequent chief leopard old invest";

@@ -1,1 +1,1 @@
-var mnemonic = "brand scorpion door just knee volcano tobacco charge tragic hundred estate key";
+var mnemonic = "cram inflict clip noble dragon gospel penalty glare exercise romance adjust check";

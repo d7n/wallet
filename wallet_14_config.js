@@ -1,1 +1,1 @@
-var mnemonic = "flower ceiling copy wagon mystery birth segment lazy awake width convince play";
+var mnemonic = "solar donkey image gauge delay bulb gadget purchase lion lock define lemon";

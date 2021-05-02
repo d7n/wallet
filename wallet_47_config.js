@@ -1,1 +1,1 @@
-var mnemonic = "three happy amount pink prosper power leader sea island funny morning mansion";
+var mnemonic = "food capable canyon isolate salad worth recall visual patient corn reduce trend";

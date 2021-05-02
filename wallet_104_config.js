@@ -1,1 +1,1 @@
-var mnemonic = "still pole ordinary icon upset install sail mango drip shift split first";
+var mnemonic = "gown castle until jazz size shop tennis seven dynamic humor assume betray";

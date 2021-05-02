@@ -1,1 +1,1 @@
-var mnemonic = "face project repeat novel luxury style vessel require ethics actress hood monster";
+var mnemonic = "edge resemble play between trip place glide arrange weather puppy early leave";

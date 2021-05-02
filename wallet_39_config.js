@@ -1,1 +1,1 @@
-var mnemonic = "push naive noodle blur cash pretty throw copy thing fence auto milk";
+var mnemonic = "senior ask dutch baby injury logic about pony mirror crazy cup notice";

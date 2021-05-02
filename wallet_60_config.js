@@ -1,1 +1,1 @@
-var mnemonic = "cactus obey evolve lawsuit tape trick crash fit convince tourist garment afford";
+var mnemonic = "swing arch mind crystal lab pigeon clinic gym next rapid husband pink";

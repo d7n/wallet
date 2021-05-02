@@ -1,1 +1,1 @@
-var mnemonic = "exact install dial dress robot put hill wine stairs betray raven lunch";
+var mnemonic = "zero harbor mercy find congress devote burst harvest reward link talent omit";

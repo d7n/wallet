@@ -1,1 +1,1 @@
-var mnemonic = "toe shadow point dad tone humble frost pet merry cactus solution wheel";
+var mnemonic = "gun copy treat sun differ frost must neutral system antenna embark auto";

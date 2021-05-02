@@ -1,1 +1,1 @@
-var mnemonic = "tree net chef ticket office hungry treat power useful crawl poverty original";
+var mnemonic = "caution scout fee false pizza glance taste put venue attack chimney find";

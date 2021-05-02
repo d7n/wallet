@@ -1,1 +1,1 @@
-var mnemonic = "ordinary pact poem usage journey during increase cliff expose october correct once";
+var mnemonic = "attract catch chuckle able nest proof finger artist rally garden video husband";

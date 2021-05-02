@@ -1,1 +1,1 @@
-var mnemonic = "snack future grunt disease diamond vote angle define toss flight drill toss";
+var mnemonic = "sheriff tissue crack trend mom fluid electric very account soup like hollow";

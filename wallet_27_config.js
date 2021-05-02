@@ -1,1 +1,1 @@
-var mnemonic = "stool neglect foam toy match rough glove theme pepper country advance curtain";
+var mnemonic = "able drip doctor galaxy cement clown arctic reject just despair purchase join";

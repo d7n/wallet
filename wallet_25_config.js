@@ -1,1 +1,1 @@
-var mnemonic = "measure drift tide prefer neglect betray tilt staff ski oxygen style exotic";
+var mnemonic = "become source correct raise segment fabric vessel loan still announce garment day";

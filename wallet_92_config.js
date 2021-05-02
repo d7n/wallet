@@ -1,1 +1,1 @@
-var mnemonic = "rotate salt adapt verb hobby frog derive column twenty rack silk paddle";
+var mnemonic = "cool rug glare grid tone crazy rather head render melt number tube";

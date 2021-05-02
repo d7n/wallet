@@ -1,1 +1,1 @@
-var mnemonic = "oyster tackle asthma garment length leave uncover disorder security casino battle source";
+var mnemonic = "fat tribe coffee code three kite fitness craft warm candy one ladder";

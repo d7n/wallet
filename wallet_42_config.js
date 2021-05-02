@@ -1,1 +1,1 @@
-var mnemonic = "fog trade expose pencil sleep bind narrow sentence talk confirm victory shallow";
+var mnemonic = "raven found adapt fall horn organ omit gym voice prefer review ritual";

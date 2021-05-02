@@ -1,1 +1,1 @@
-var mnemonic = "tired mobile pill market night easily heart first riot either odor nominee";
+var mnemonic = "degree history icon way doctor reveal confirm alpha gorilla guitar skin cool";

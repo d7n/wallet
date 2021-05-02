@@ -1,1 +1,1 @@
-var mnemonic = "test oyster prize addict banana blue whale fabric nerve bunker crush sand";
+var mnemonic = "hidden bulb educate novel chief motion foam day allow cereal device scan";

@@ -1,1 +1,1 @@
-var mnemonic = "labor uniform essence situate viable use talent pitch senior hazard solid wet";
+var mnemonic = "rose room error clock floor ahead tree snake fury gate benefit mail";

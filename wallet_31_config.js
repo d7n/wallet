@@ -1,1 +1,1 @@
-var mnemonic = "tobacco tragic exhaust try prize already script similar unaware beef offer mouse";
+var mnemonic = "mask decorate dynamic card nest recipe team turn decline multiply clerk impose";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly purse struggle wave proof gather media average adjust collect original citizen";
+var mnemonic = "syrup knife people until gasp stone stereo team food tiger quote charge";

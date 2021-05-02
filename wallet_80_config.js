@@ -1,1 +1,1 @@
-var mnemonic = "kid network panic maximum dice bone cloud trust crucial merit ensure swallow";
+var mnemonic = "anchor always charge satisfy bless thought help front damage balcony between ostrich";

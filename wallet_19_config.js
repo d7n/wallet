@@ -1,1 +1,1 @@
-var mnemonic = "abuse gadget hungry shell bomb pulp cook antique undo dance crowd ordinary";
+var mnemonic = "brother wing swear crisp action away injury siren silent pulp theme direct";

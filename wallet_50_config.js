@@ -1,1 +1,1 @@
-var mnemonic = "legal forget hire orchard style load main animal festival unusual pumpkin unit";
+var mnemonic = "poverty number solar that real purpose build bulb echo address valley switch";

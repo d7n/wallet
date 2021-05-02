@@ -1,1 +1,1 @@
-var mnemonic = "mix tip body change arrest switch joy verify list bright online grocery";
+var mnemonic = "side globe picnic market add march rich wave rookie course chair escape";

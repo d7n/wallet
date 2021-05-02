@@ -1,1 +1,1 @@
-var mnemonic = "stand armor omit husband question way relief congress bus almost physical vessel";
+var mnemonic = "rebel view object tortoise blanket turtle valley pupil video guilt drop embark";

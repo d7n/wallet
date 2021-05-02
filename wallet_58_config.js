@@ -1,1 +1,1 @@
-var mnemonic = "among tube corn diagram citizen noise size fence toward script coral fever";
+var mnemonic = "horn busy phrase lunch neglect trust farm total unfold gentle mistake model";

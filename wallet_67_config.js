@@ -1,1 +1,1 @@
-var mnemonic = "special sun slogan arrange giant type develop wood company paper gold dove";
+var mnemonic = "symbol tag umbrella discover helmet survey flight dove inch clay connect sadness";

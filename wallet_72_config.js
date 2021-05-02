@@ -1,1 +1,1 @@
-var mnemonic = "thunder final hidden extend surface verify embark must conduct universe satisfy general";
+var mnemonic = "pig advance donor region equip vague blue toilet load copper era gold";

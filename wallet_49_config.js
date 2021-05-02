@@ -1,1 +1,1 @@
-var mnemonic = "room hotel evoke copper gold secret large shoe hold maze scheme illness";
+var mnemonic = "humor foot grape salute photo install brown noise garment decide then physical";

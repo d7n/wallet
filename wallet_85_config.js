@@ -1,1 +1,1 @@
-var mnemonic = "donate nerve color table unusual welcome box another tomato swear pledge neglect";
+var mnemonic = "axis addict pretty parade manual stairs ladder female damage ridge whip glow";

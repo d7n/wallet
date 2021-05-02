@@ -1,1 +1,1 @@
-var mnemonic = "wool ladder scrub furnace return panic woman carry attract glare climb load";
+var mnemonic = "swift afraid floor draft shrimp salute toddler rug detect can goat click";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly escape faint this dish seminar juice sail reopen reward tide snow";
+var mnemonic = "decorate camp action what sponsor insane toss tonight parrot mandate addict measure";

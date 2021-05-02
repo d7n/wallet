@@ -1,1 +1,1 @@
-var mnemonic = "obtain advance boost muscle horror present carbon involve mansion sugar jacket suit";
+var mnemonic = "essence zero direct slam sleep review pitch mom kidney perfect light rally";

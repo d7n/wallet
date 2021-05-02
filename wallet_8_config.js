@@ -1,1 +1,1 @@
-var mnemonic = "old milk swallow alien crew view say fame since message square wild";
+var mnemonic = "humble buyer wet clinic fit eager toss sport spatial arrange example found";

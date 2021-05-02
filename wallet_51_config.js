@@ -1,1 +1,1 @@
-var mnemonic = "know know visa sheriff ranch file record pelican fiscal nature album fold";
+var mnemonic = "roast current seed help ensure borrow dinosaur work carbon silver pole labor";

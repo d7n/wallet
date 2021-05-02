@@ -1,1 +1,1 @@
-var mnemonic = "tunnel fly remain legend energy outside latin enable rebuild intact pretty announce";
+var mnemonic = "pill hidden sort vintage hip tobacco because enemy ocean total kitten girl";

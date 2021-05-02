@@ -1,1 +1,1 @@
-var mnemonic = "tent copy machine garage option awful sure riot chronic fire visa rapid";
+var mnemonic = "measure illness lumber lunch year agent predict diesel live jump elephant describe";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch found claw jacket minimum muscle isolate gown moment alcohol impulse square";
+var mnemonic = "ecology document kingdom gas gossip tumble actual guide valve replace apart ball";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect wasp extra mutual hat spider frame degree like syrup popular embark";
+var mnemonic = "zero dash shrug people used initial size poem neglect mystery pencil pipe";

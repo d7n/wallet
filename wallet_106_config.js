@@ -1,1 +1,1 @@
-var mnemonic = "promote autumn area blind merge bronze cave echo around spring common tide";
+var mnemonic = "bag shop include bottom today simple crash ghost moral stomach dust ball";

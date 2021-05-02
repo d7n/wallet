@@ -1,1 +1,1 @@
-var mnemonic = "canyon garbage fiscal pledge labor super moral prepare zebra cage current enact";
+var mnemonic = "love enroll now bind various swarm nation order curious olympic nasty path";

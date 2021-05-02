@@ -1,1 +1,1 @@
-var mnemonic = "jaguar woman leave crucial into trip exclude hope later exotic book extend";
+var mnemonic = "copper rail luggage pipe margin lyrics tunnel rigid grunt try tornado note";

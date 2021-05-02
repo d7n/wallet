@@ -1,1 +1,1 @@
-var mnemonic = "shop village patient crime rich clown final sauce waste bind health bone";
+var mnemonic = "brand capital kidney clean pilot bar lend lizard eyebrow mechanic upon buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "view slush blouse oval license switch common fitness update awful tenant range";
+var mnemonic = "fat need height tape century left menu welcome turtle clown wreck bridge";

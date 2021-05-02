@@ -1,1 +1,1 @@
-var mnemonic = "belt regular convince maid blame talent pill alley mosquito dash surround combine";
+var mnemonic = "talk junk buzz marriage target globe trap fan text history phrase stage";

@@ -1,1 +1,1 @@
-var mnemonic = "slush royal barrel shield vocal acid vacant category disorder panic actor egg";
+var mnemonic = "dream suspect frown stool sign author zoo report arrest mosquito industry essence";
