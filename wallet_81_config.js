@@ -1,1 +1,1 @@
-var mnemonic = "old hair patient trade hawk enrich inhale sudden hero road world father";
+var mnemonic = "system acid subject pig wood toy hero despair stamp tackle example swift";

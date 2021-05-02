@@ -1,1 +1,1 @@
-var mnemonic = "icon prepare message property boat dinosaur swamp visa property jaguar ahead cave";
+var mnemonic = "scatter unusual congress duck choose attitude tell shed powder bag move please";

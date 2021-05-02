@@ -1,1 +1,1 @@
-var mnemonic = "wear february lock song ordinary lounge equip primary goddess grunt deliver burden";
+var mnemonic = "couch once wear settle someone twist around jar input hover team spy";

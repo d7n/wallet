@@ -1,1 +1,1 @@
-var mnemonic = "core gym expire busy swallow soon boy electric three extra there tissue";
+var mnemonic = "oblige cycle define place napkin hold clay remind jacket edit renew occur";

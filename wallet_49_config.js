@@ -1,1 +1,1 @@
-var mnemonic = "orient copper slice change canvas impact wrist grow hard eyebrow nephew burger";
+var mnemonic = "trust assault bread canvas gaze agree link speak physical tongue giant silly";

@@ -1,1 +1,1 @@
-var mnemonic = "couch chunk invest pepper bleak gentle once sleep popular excuse mesh prevent";
+var mnemonic = "divide charge hold space december iron carry much blouse panther shiver boil";

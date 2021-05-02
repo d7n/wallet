@@ -1,1 +1,1 @@
-var mnemonic = "sadness manual copper mask animal venture image kidney safe amused abstract lesson";
+var mnemonic = "snack drip omit equal main check melody alarm cupboard elevator pepper kidney";

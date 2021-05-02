@@ -1,1 +1,1 @@
-var mnemonic = "pulse chalk answer boost design renew napkin empower unfold burst mansion nest";
+var mnemonic = "sign street keen nest fox law replace similar athlete humor exit width";

@@ -1,1 +1,1 @@
-var mnemonic = "coast pen situate nephew family embody shaft faint garage pepper picnic author";
+var mnemonic = "symbol dinosaur river bleak oven satoshi gossip donor pet slim run column";

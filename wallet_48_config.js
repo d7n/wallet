@@ -1,1 +1,1 @@
-var mnemonic = "nest speed logic similar latin rapid salad leisure patrol across puzzle output";
+var mnemonic = "quantum rapid gun point second crack hamster wait throw this process board";

@@ -1,1 +1,1 @@
-var mnemonic = "save dawn wash ring broken ecology practice moon swing cloth source plate";
+var mnemonic = "secret squirrel vote mouse board evidence core excess venture time hedgehog maid";

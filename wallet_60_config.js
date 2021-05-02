@@ -1,1 +1,1 @@
-var mnemonic = "space swallow sphere seven gorilla forget hand denial smooth electric vessel taxi";
+var mnemonic = "pitch gym spoon card artefact cotton enter sudden carbon voice fire mushroom";

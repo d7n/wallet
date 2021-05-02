@@ -1,1 +1,1 @@
-var mnemonic = "trap easily jeans depend broom melt potato body weekend double punch employ";
+var mnemonic = "antenna forest hard outside steel nasty observe ensure motion reform traffic glide";

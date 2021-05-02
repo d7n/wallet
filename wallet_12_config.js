@@ -1,1 +1,1 @@
-var mnemonic = "stereo tilt riot bounce just only orbit cage slow decide job pony";
+var mnemonic = "sphere broccoli paper marble vintage manage trim fever waste pioneer tattoo emotion";

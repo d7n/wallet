@@ -1,1 +1,1 @@
-var mnemonic = "veteran rally check humble next sadness pretty long absent spring inner lawsuit";
+var mnemonic = "order empower exclude adult skull decrease globe catch hammer possible cable neck";

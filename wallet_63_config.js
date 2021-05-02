@@ -1,1 +1,1 @@
-var mnemonic = "demise favorite increase hand early soda cage gentle dismiss ask utility multiply";
+var mnemonic = "quiz ocean armor wreck nest acquire series okay world artist giraffe oven";

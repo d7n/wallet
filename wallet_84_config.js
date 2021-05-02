@@ -1,1 +1,1 @@
-var mnemonic = "stick silk jelly damp grunt oblige draw diamond item cannon object pass";
+var mnemonic = "genuine gain arrest result pond aunt hole check electric flip wisdom husband";

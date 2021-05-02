@@ -1,1 +1,1 @@
-var mnemonic = "drama thumb stool seed jungle ahead eternal layer spin citizen mixed neck";
+var mnemonic = "habit height buddy couch suggest chimney similar remember genius swap crush gasp";

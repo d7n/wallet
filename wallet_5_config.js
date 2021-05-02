@@ -1,1 +1,1 @@
-var mnemonic = "auto betray cliff oppose before squeeze stove casino similar logic hungry draft";
+var mnemonic = "method target soda success thing thought only marine flush cup elite dilemma";

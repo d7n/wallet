@@ -1,1 +1,1 @@
-var mnemonic = "carry lizard brick skin glory detail dish detail annual chuckle group certain";
+var mnemonic = "donor carpet frog strong area gadget frost exercise noble head verify sleep";

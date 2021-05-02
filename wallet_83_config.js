@@ -1,1 +1,1 @@
-var mnemonic = "settle wrestle grief custom cool luxury gap arrive raw trigger need appear";
+var mnemonic = "pact december mistake garment box combine tissue daring liar bounce extra good";

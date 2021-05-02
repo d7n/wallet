@@ -1,1 +1,1 @@
-var mnemonic = "entire mention useless faint casual remember badge proof sell runway supreme senior";
+var mnemonic = "plastic shuffle sort income melody surprise hip describe devote verify mixture lion";

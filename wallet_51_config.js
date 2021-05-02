@@ -1,1 +1,1 @@
-var mnemonic = "pen annual rib again copy usage input feel ripple network bronze ocean";
+var mnemonic = "dune ignore fit place food game upgrade police cinnamon wage main mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "abuse doll river work water fatal endless capital multiply crane still differ";
+var mnemonic = "museum sister music volume unable slight brother panda write stick tennis tumble";

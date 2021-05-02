@@ -1,1 +1,1 @@
-var mnemonic = "swing board elephant current tilt oval frame motion hire chair exclude choose";
+var mnemonic = "fade elite shop oblige lizard favorite toddler burst december crazy sad outdoor";

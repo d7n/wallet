@@ -1,1 +1,1 @@
-var mnemonic = "glow tip cancel maximum police sadness mobile alone exclude hub people economy";
+var mnemonic = "before wide scare library vital column interest sample thunder setup sea endless";

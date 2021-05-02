@@ -1,1 +1,1 @@
-var mnemonic = "chief punch sure clip hold evil portion critic oyster goose plug timber";
+var mnemonic = "domain apple hybrid cook live civil cram winner arctic rhythm practice control";

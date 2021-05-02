@@ -1,1 +1,1 @@
-var mnemonic = "hurry exchange water switch tag lonely keep peanut leg kitchen project camp";
+var mnemonic = "lock post gasp clever hard manage master once rescue garden mango engage";

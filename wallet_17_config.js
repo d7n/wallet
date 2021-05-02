@@ -1,1 +1,1 @@
-var mnemonic = "miss gloom total collect often grace hill wash impulse minor capital first";
+var mnemonic = "barrel remove mosquito fish snap truly edge input bomb feed build bubble";

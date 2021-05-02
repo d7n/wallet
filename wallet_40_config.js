@@ -1,1 +1,1 @@
-var mnemonic = "post slight income melody reduce sand cross fluid timber unfair effort run";
+var mnemonic = "arrive clean tobacco axis often dice baby idle strong mutual hold sausage";

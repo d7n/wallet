@@ -1,1 +1,1 @@
-var mnemonic = "aerobic dismiss delay life pond pony useless young judge dash antique spring";
+var mnemonic = "payment hamster extra guitar sign scrap inhale outdoor company vibrant first peace";

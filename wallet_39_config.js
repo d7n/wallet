@@ -1,1 +1,1 @@
-var mnemonic = "inject almost bachelor behind caution alpha mask install unusual knock elevator shadow";
+var mnemonic = "jaguar aware cook panel flip goddess occur decorate check coyote extra caught";

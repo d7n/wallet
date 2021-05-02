@@ -1,1 +1,1 @@
-var mnemonic = "venture fantasy man raven snack resemble dynamic enlist prevent issue bachelor gallery";
+var mnemonic = "buffalo blue private lake zebra release oyster crash snake volcano quality mixed";

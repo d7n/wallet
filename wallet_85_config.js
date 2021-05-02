@@ -1,1 +1,1 @@
-var mnemonic = "buddy insect neither giraffe truly april exist learn romance dizzy minor target";
+var mnemonic = "voice frozen defense time congress muffin castle deliver hurdle mushroom fetch grid";

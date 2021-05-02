@@ -1,1 +1,1 @@
-var mnemonic = "pass gaze dove barely input arrest fall topple rack mail melody scare";
+var mnemonic = "faculty issue trigger come race subject boil similar grape when blame sphere";

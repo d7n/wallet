@@ -1,1 +1,1 @@
-var mnemonic = "scan antique since forum police awful life cement job model wagon solar";
+var mnemonic = "auto undo trade text assist exercise enter kite because there shy addict";

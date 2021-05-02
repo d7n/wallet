@@ -1,1 +1,1 @@
-var mnemonic = "neglect body slow cube duty emotion present inquiry emerge term oil place";
+var mnemonic = "above crawl permit jazz goddess bundle excuse heavy finish glove recall tag";

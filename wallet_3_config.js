@@ -1,1 +1,1 @@
-var mnemonic = "vendor forget cement analyst step replace success catch barrel pool card kind";
+var mnemonic = "song broccoli dry replace column fever april ketchup lottery inherit trade tissue";

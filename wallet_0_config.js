@@ -1,1 +1,1 @@
-var mnemonic = "husband denial riot mandate boil involve bag gather season now resist buddy";
+var mnemonic = "confirm foster across tobacco crunch address palace eager suggest edit wall leisure";

@@ -1,1 +1,1 @@
-var mnemonic = "winter orbit spot sentence flock edge guide brown weather wish forward tribe";
+var mnemonic = "split banner valve north breeze pepper roof race hope uncover vicious crater";

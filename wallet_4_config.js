@@ -1,1 +1,1 @@
-var mnemonic = "riot door narrow thing bulb planet october able olympic crazy ghost tide";
+var mnemonic = "marine aware ranch pottery rate anger modify crucial tornado cloud brief jump";

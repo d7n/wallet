@@ -1,1 +1,1 @@
-var mnemonic = "harsh gym depend discover rent reform goat during wild pupil atom caught";
+var mnemonic = "another glove aisle way sort trend hair fatal ask kiwi bench brief";

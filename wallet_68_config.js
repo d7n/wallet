@@ -1,1 +1,1 @@
-var mnemonic = "foster flash lock smile anxiety country update soul loan sponsor issue change";
+var mnemonic = "trouble bench ivory army final bottom sun orbit marriage snack fitness crush";

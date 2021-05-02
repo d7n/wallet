@@ -1,1 +1,1 @@
-var mnemonic = "surge torch key laundry become leaf mad figure apology comic come abandon";
+var mnemonic = "witness century sail disease fiber tortoise trumpet regret auto company gold draft";

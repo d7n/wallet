@@ -1,1 +1,1 @@
-var mnemonic = "punch affair leopard helmet inside scatter baby silver vital endless tuition dentist";
+var mnemonic = "general any buyer pilot topple quick below photo muscle clock ecology carbon";

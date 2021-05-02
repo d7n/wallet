@@ -1,1 +1,1 @@
-var mnemonic = "venue champion sound simple frost away believe day submit august open fiction";
+var mnemonic = "curtain bomb march best brown reveal drink wait sauce swallow plug apart";

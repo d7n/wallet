@@ -1,1 +1,1 @@
-var mnemonic = "sibling limit hockey glimpse art hill used prosper verb whale truck ring";
+var mnemonic = "bulb peasant tongue first toward long runway cannon unknown lamp inject defy";

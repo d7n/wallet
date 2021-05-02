@@ -1,1 +1,1 @@
-var mnemonic = "stable marine sleep plate pumpkin table praise random address adult acid round";
+var mnemonic = "cattle sting agent lens scene truck orphan yellow example robust arm battle";

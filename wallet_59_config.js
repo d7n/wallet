@@ -1,1 +1,1 @@
-var mnemonic = "wheat oval melody oil acquire team winter output elite original ensure boost";
+var mnemonic = "cable acquire broken celery hunt there cook labor marble spy rural mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy animal rare wedding pyramid move puppy sunset pet segment damp useful";
+var mnemonic = "smart actress duty output vehicle around explain gold mixed admit bargain gaze";

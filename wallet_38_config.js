@@ -1,1 +1,1 @@
-var mnemonic = "luggage belt final source drive diet pudding primary height trash record account";
+var mnemonic = "gallery health cycle umbrella ring panic spin dance wing glow kid remove";

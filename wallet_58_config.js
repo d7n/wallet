@@ -1,1 +1,1 @@
-var mnemonic = "away column hen gown favorite company media motor fatal flame result quarter";
+var mnemonic = "palace run spawn unfair flavor ridge lecture snap giant belt thunder chest";

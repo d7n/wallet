@@ -1,1 +1,1 @@
-var mnemonic = "awake rough march wild during cream rhythm refuse scorpion sand evidence fruit";
+var mnemonic = "rice helmet tired conduct hazard spend arrow hamster effort tennis skull divorce";

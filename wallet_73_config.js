@@ -1,1 +1,1 @@
-var mnemonic = "curious female nuclear letter eagle test wrist mansion cruel weekend school rifle";
+var mnemonic = "satoshi oyster lawsuit spread gift energy only journey sibling divorce dream kingdom";

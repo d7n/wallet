@@ -1,1 +1,1 @@
-var mnemonic = "ill bone assist still cruel juice crater loan mom bread quality gossip";
+var mnemonic = "over day submit tail insect aspect lock logic indicate city draft supreme";

@@ -1,1 +1,1 @@
-var mnemonic = "blame erupt utility kingdom settle myth under bird fade retire slice drip";
+var mnemonic = "remind reason rail hobby wild alley fashion stamp bar salmon auction soda";

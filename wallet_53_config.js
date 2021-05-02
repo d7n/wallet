@@ -1,1 +1,1 @@
-var mnemonic = "produce hospital clip attend infant hat recall choose oppose claim party number";
+var mnemonic = "arrive nephew issue unfold board remove unknown upper fine kit merge cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "online find rapid catch brush news relief quarter expire quantum sheriff action";
+var mnemonic = "abstract wood fade pill blast syrup march near train famous left machine";

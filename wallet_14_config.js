@@ -1,1 +1,1 @@
-var mnemonic = "donor hazard initial twelve fold wall crisp bracket move announce sun drill";
+var mnemonic = "oak vibrant lion child thrive wall arch enable circle inspire match afraid";

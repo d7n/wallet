@@ -1,1 +1,1 @@
-var mnemonic = "opinion letter tool absorb flat eye average casino place nurse ensure museum";
+var mnemonic = "amount stem casual penalty render forget sentence alter voyage index girl finger";

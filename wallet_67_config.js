@@ -1,1 +1,1 @@
-var mnemonic = "across opera mango right switch ghost someone material course wrong lock once";
+var mnemonic = "pottery write endless wrap broken virtual mobile warrior salt toast diary face";

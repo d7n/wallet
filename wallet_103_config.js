@@ -1,1 +1,1 @@
-var mnemonic = "apology inside family crumble bomb distance oppose wet alley lesson service join";
+var mnemonic = "cheese attack capital outside bachelor beef learn fish scan fox flip lecture";

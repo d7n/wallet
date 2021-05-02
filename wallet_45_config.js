@@ -1,1 +1,1 @@
-var mnemonic = "famous asthma soon figure elite crack fossil outside meat anxiety guilt summer";
+var mnemonic = "gate tourist digital together awful transfer donate erode road never police blur";

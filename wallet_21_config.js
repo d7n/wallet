@@ -1,1 +1,1 @@
-var mnemonic = "length tornado cradle erosion rocket rather ready daring cactus sense candy barely";
+var mnemonic = "return dilemma fox long horn tackle evolve brown yellow fatal mosquito horror";

@@ -1,1 +1,1 @@
-var mnemonic = "siege myself broken when viable dog snake gospel robot jealous return polar";
+var mnemonic = "exist deer dress voice solve cake base one inject salmon mystery obvious";

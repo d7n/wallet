@@ -1,1 +1,1 @@
-var mnemonic = "ghost zoo option loyal hello ribbon dust forest elite angry transfer drip";
+var mnemonic = "upper rabbit coyote jazz release crime assault brick section deny swap suspect";

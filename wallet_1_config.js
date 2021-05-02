@@ -1,1 +1,1 @@
-var mnemonic = "morning category perfect source suffer skate future armed carry obvious project ivory";
+var mnemonic = "season cement abandon struggle come leg together property alter best cannon doll";

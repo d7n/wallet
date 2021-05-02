@@ -1,1 +1,1 @@
-var mnemonic = "change season cover venue useful kick badge south stamp sunny apart twice";
+var mnemonic = "ghost protect tilt blur whale sleep market ankle august announce income vivid";

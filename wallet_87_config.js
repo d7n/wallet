@@ -1,1 +1,1 @@
-var mnemonic = "outside outside filter pizza civil essence tenant tragic ancient chef fork broccoli";
+var mnemonic = "rib medal crane bachelor accident train food perfect flee sheriff sense want";

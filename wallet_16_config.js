@@ -1,1 +1,1 @@
-var mnemonic = "winner occur upgrade trade hedgehog sound review sail crater cave physical acoustic";
+var mnemonic = "foam sauce bring visit range weird loop cannon hockey cotton check master";

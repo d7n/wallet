@@ -1,1 +1,1 @@
-var mnemonic = "vintage remain utility teach merge language sleep grunt flower hill install coast";
+var mnemonic = "zebra album skate favorite cat team prevent siege heart dress devote cement";

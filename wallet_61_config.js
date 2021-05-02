@@ -1,1 +1,1 @@
-var mnemonic = "inject joy stem panel height reject elevator indicate vivid blouse spy cheese";
+var mnemonic = "culture net cave cousin medal jelly admit magnet axis slim ride stove";

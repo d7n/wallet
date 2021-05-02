@@ -1,1 +1,1 @@
-var mnemonic = "rotate praise omit cabin word owner artefact fame wife column coyote story";
+var mnemonic = "spare marine virus witness urban absurd code tone question shy enable cinnamon";

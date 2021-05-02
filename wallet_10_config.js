@@ -1,1 +1,1 @@
-var mnemonic = "lady slush flee route cargo load link kiss undo stereo gasp sleep";
+var mnemonic = "sand mixture response ready tiny path happy skill eagle perfect tell civil";

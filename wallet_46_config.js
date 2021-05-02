@@ -1,1 +1,1 @@
-var mnemonic = "camera uncle galaxy buyer federal vicious primary loud wife right text sad";
+var mnemonic = "pink noble snack staff enact chaos mask divert entry number icon devote";

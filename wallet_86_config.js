@@ -1,1 +1,1 @@
-var mnemonic = "indicate lucky deer either uniform palm keen junk shine raven vocal smile";
+var mnemonic = "dirt idle debris yellow shuffle volcano frown decide grit canal junk simple";

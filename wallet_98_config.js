@@ -1,1 +1,1 @@
-var mnemonic = "measure deal garment omit water armor acid betray mean appear armed method";
+var mnemonic = "lottery legal blush survey coach curtain peanut clever attract crane know bachelor";

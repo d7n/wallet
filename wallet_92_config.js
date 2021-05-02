@@ -1,1 +1,1 @@
-var mnemonic = "proof apart trouble flame forest behave night spot carry final imitate month";
+var mnemonic = "until twenty lizard basket amount husband slender market gesture rhythm prevent hover";

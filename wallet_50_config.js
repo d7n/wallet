@@ -1,1 +1,1 @@
-var mnemonic = "job cluster february soon brown roof lend camera valley mesh desk still";
+var mnemonic = "biology copper genuine trend asset also effort special gap honey together portion";

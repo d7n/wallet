@@ -1,1 +1,1 @@
-var mnemonic = "initial shadow love taste silk pledge industry clown actor harbor protect slot";
+var mnemonic = "sponsor time inner luggage coral cherry horn client snack educate usual gold";

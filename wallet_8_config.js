@@ -1,1 +1,1 @@
-var mnemonic = "clinic test cannon remind ivory market dragon split drum tongue embark tuna";
+var mnemonic = "input pole flat avoid wash present divide trigger trade renew oyster track";

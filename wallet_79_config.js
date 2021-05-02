@@ -1,1 +1,1 @@
-var mnemonic = "copper wait never eager clap above sight baby frequent symptom grow bamboo";
+var mnemonic = "unable prefer fiction few submit nerve degree toss stone bundle wasp amazing";

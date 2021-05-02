@@ -1,1 +1,1 @@
-var mnemonic = "giraffe bonus slender ordinary harsh floor olive again second music pioneer define";
+var mnemonic = "trap orchard nothing resist quality merry express antenna sting universe dirt sense";

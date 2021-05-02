@@ -1,1 +1,1 @@
-var mnemonic = "eight later hundred school tumble cricket blast patrol insane before matrix fence";
+var mnemonic = "diesel potato future husband grid utility crumble brush unveil menu math build";

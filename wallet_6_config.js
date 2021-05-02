@@ -1,1 +1,1 @@
-var mnemonic = "confirm lamp auto trophy apart physical sample butter approve unfair mean silly";
+var mnemonic = "omit deal patrol wing spice card trigger police hidden ball sport blue";

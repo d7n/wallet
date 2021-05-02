@@ -1,1 +1,1 @@
-var mnemonic = "valve nest cash vanish rate amused physical blood record garbage human relief";
+var mnemonic = "wine submit razor sail ivory island ranch oppose creek monkey hobby exile";

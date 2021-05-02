@@ -1,1 +1,1 @@
-var mnemonic = "twelve library tube garlic village onion seven crisp soul tent harvest chair";
+var mnemonic = "smile imitate burst bless spatial hunt love muscle able evolve staff decide";

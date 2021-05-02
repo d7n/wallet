@@ -1,1 +1,1 @@
-var mnemonic = "echo perfect myth skate casual hidden category civil order inherit normal core";
+var mnemonic = "able destroy bubble lens flat canvas junk liquid feel erase amused distance";

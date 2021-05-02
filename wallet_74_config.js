@@ -1,1 +1,1 @@
-var mnemonic = "connect marine craft flash name security toe panda scatter shove badge doctor";
+var mnemonic = "culture visa file reward egg cousin acoustic slam fantasy north mail depend";

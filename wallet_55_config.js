@@ -1,1 +1,1 @@
-var mnemonic = "habit brisk hint predict fitness truth reject fence general wheel dice day";
+var mnemonic = "wealth arctic wish hockey alert arch island couple patrol laptop clever vacuum";

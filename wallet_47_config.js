@@ -1,1 +1,1 @@
-var mnemonic = "horse edge special violin bamboo fish office engine short unfold next install";
+var mnemonic = "office gentle loan topple term surge siege smart inner example mother robust";

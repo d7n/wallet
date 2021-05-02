@@ -1,1 +1,1 @@
-var mnemonic = "tattoo luxury swap fault believe file solution legal ocean thing rude tennis";
+var mnemonic = "usage impact erupt now check cave average world ring they tornado rebuild";
