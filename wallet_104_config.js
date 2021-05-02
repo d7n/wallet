@@ -1,1 +1,1 @@
-var mnemonic = "gown castle until jazz size shop tennis seven dynamic humor assume betray";
+var mnemonic = "ski tooth near blast sleep clinic scout betray thrive gun enforce save";

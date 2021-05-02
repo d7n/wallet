@@ -1,1 +1,1 @@
-var mnemonic = "meat first renew direct burst assist letter company scare soul million whisper";
+var mnemonic = "screen quality drink toss target provide royal seed grit fame story spoil";

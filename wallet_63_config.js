@@ -1,1 +1,1 @@
-var mnemonic = "zero harbor mercy find congress devote burst harvest reward link talent omit";
+var mnemonic = "anger fit this obvious various unique stadium consider catalog penalty oyster cigar";

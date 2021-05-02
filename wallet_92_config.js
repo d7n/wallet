@@ -1,1 +1,1 @@
-var mnemonic = "cool rug glare grid tone crazy rather head render melt number tube";
+var mnemonic = "taste remove owner train brother crisp two drift hobby badge icon answer";

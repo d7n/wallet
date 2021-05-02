@@ -1,1 +1,1 @@
-var mnemonic = "item mushroom credit rich midnight kitten shift guide tribe theme arm symptom";
+var mnemonic = "pact whale harsh tomato remain ride prevent divert best sketch obscure foster";

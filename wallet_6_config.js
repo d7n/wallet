@@ -1,1 +1,1 @@
-var mnemonic = "illegal please tumble funny service vicious badge magnet ghost prize typical pelican";
+var mnemonic = "omit force muffin very heart deputy damage cherry next marine pitch industry";

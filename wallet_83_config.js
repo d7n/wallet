@@ -1,1 +1,1 @@
-var mnemonic = "build kind absent maximum result depart quote spare cute question shadow doctor";
+var mnemonic = "define satisfy fox tourist remember trick error speed unique horse journey nose";

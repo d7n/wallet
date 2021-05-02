@@ -1,1 +1,1 @@
-var mnemonic = "edge resemble play between trip place glide arrange weather puppy early leave";
+var mnemonic = "drill east bullet april couple harsh dolphin ladder gossip sleep juice lemon";

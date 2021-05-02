@@ -1,1 +1,1 @@
-var mnemonic = "food capable canyon isolate salad worth recall visual patient corn reduce trend";
+var mnemonic = "chunk raven random stereo relax cycle nature hood alone nice change leaf";

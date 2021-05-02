@@ -1,1 +1,1 @@
-var mnemonic = "escape weather horn submit arrive kidney fortune grid flash bundle protect muffin";
+var mnemonic = "oyster trap foot evidence fluid miss wide burden abstract boss purchase outdoor";

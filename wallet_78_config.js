@@ -1,1 +1,1 @@
-var mnemonic = "grass issue vague matrix pyramid veteran detail present sadness knock used age";
+var mnemonic = "theory siren pluck infant proud cry knock shuffle surge skull second okay";

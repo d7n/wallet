@@ -1,1 +1,1 @@
-var mnemonic = "return hotel rent marriage select student rule used melody drill stadium earth";
+var mnemonic = "settle anchor mother give dash betray scene cradle leaf laugh health crop";

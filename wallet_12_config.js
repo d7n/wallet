@@ -1,1 +1,1 @@
-var mnemonic = "rose room error clock floor ahead tree snake fury gate benefit mail";
+var mnemonic = "crack metal egg taxi device awake hood lady wear anxiety embark engine";

@@ -1,1 +1,1 @@
-var mnemonic = "raven found adapt fall horn organ omit gym voice prefer review ritual";
+var mnemonic = "true lunch ignore athlete eternal culture rather air thank tag surface toss";

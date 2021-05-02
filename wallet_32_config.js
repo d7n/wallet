@@ -1,1 +1,1 @@
-var mnemonic = "case indoor harvest work annual spice siren spy banana stay deny tag";
+var mnemonic = "indicate response frog once today relax demise proof canal old monkey render";

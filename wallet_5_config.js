@@ -1,1 +1,1 @@
-var mnemonic = "swift afraid floor draft shrimp salute toddler rug detect can goat click";
+var mnemonic = "chief town market toddler breeze green depend adapt thought actor venue hope";

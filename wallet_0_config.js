@@ -1,1 +1,1 @@
-var mnemonic = "gun copy treat sun differ frost must neutral system antenna embark auto";
+var mnemonic = "ancient slab slab robot artefact dirt pelican stuff silver virus doctor slender";

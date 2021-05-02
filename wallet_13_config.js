@@ -1,1 +1,1 @@
-var mnemonic = "track tunnel again few tomorrow bargain exhaust wonder west visit viable pool";
+var mnemonic = "ocean pull hair foam payment matrix swing wonder tomorrow inherit assault chat";

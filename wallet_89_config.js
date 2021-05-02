@@ -1,1 +1,1 @@
-var mnemonic = "clean divorce teach wealth fix notice mean nuclear unable comic funny divert";
+var mnemonic = "blanket group item input web tattoo label engage love teach deliver mechanic";

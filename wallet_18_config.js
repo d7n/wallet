@@ -1,1 +1,1 @@
-var mnemonic = "moment venture age sick napkin possible symptom birth mother child sunset glory";
+var mnemonic = "shallow ready air dish plate spot eager clown smile license between farm";

@@ -1,1 +1,1 @@
-var mnemonic = "offer frequent ski indicate million same clog minimum curtain nerve demand rose";
+var mnemonic = "rhythm clump grant output shoe promote produce nominee prosper denial vendor replace";

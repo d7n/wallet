@@ -1,1 +1,1 @@
-var mnemonic = "conduct hover page able motion arrow target lunch connect electric weather solid";
+var mnemonic = "dash street mesh diet deputy color place invest bounce drink whisper silly";

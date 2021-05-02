@@ -1,1 +1,1 @@
-var mnemonic = "horn busy phrase lunch neglect trust farm total unfold gentle mistake model";
+var mnemonic = "world explain method speak bachelor feel frequent govern stand dumb cause bus";

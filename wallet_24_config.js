@@ -1,1 +1,1 @@
-var mnemonic = "worry hand inside hospital effort useful march install copper session glance extra";
+var mnemonic = "give ensure arrest north orbit tenant focus daring process vintage shy cherry";

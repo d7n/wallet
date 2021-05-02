@@ -1,1 +1,1 @@
-var mnemonic = "test pear stumble muffin bacon walk alpha distance volume remember length devote";
+var mnemonic = "school achieve service govern turn slush frost myself attitude outer brother drink";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor always charge satisfy bless thought help front damage balcony between ostrich";
+var mnemonic = "monkey anchor spatial assault drum coach razor remind solar until merry calm";

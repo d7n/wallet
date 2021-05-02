@@ -1,1 +1,1 @@
-var mnemonic = "able drip doctor galaxy cement clown arctic reject just despair purchase join";
+var mnemonic = "physical void estate estate home expose unfold slender often artefact stable vague";

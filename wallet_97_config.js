@@ -1,1 +1,1 @@
-var mnemonic = "involve clinic unfair glance trouble split tuition object oppose kangaroo box want";
+var mnemonic = "echo sauce nice dismiss asset flush learn earth because main tail trouble";

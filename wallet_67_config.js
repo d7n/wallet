@@ -1,1 +1,1 @@
-var mnemonic = "symbol tag umbrella discover helmet survey flight dove inch clay connect sadness";
+var mnemonic = "spell erase cabin desert like wall letter tissue apple pattern crop give";

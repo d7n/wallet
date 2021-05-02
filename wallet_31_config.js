@@ -1,1 +1,1 @@
-var mnemonic = "mask decorate dynamic card nest recipe team turn decline multiply clerk impose";
+var mnemonic = "saddle script law reflect cousin rescue carpet galaxy area play milk where";

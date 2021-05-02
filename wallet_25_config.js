@@ -1,1 +1,1 @@
-var mnemonic = "become source correct raise segment fabric vessel loan still announce garment day";
+var mnemonic = "iron eagle evil receive yard sure answer news shrug chat cage wasp";

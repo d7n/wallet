@@ -1,1 +1,1 @@
-var mnemonic = "net license nature sunset mix adjust owner during party stool account vital";
+var mnemonic = "matrix rough loud dwarf wet split curtain fit cat conduct assume process";

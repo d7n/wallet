@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow estate post nerve ridge file until brother divide marine quality bean";
+var mnemonic = "fruit garden drastic dash mandate clap era tilt subway bargain heart ring";

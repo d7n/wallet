@@ -1,1 +1,1 @@
-var mnemonic = "swing arch mind crystal lab pigeon clinic gym next rapid husband pink";
+var mnemonic = "can two mansion ketchup flower huge wild patrol athlete unique tribe category";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue night mystery nature bacon imitate spatial you jungle race image destroy";
+var mnemonic = "muffin concert aunt drink manual ethics brand mail inherit march alien coin";

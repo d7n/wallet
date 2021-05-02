@@ -1,1 +1,1 @@
-var mnemonic = "off kite between shy task subject toddler apart rather upper monitor mention";
+var mnemonic = "expand brush inform denial deposit gold color cook mistake rabbit slab catalog";

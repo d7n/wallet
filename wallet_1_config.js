@@ -1,1 +1,1 @@
-var mnemonic = "arrive thunder meat oak top steak coyote explain chief loyal receive reopen";
+var mnemonic = "mystery width swallow team pumpkin little ice planet manual describe conduct net";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet genius settle design lift riot throw indoor vapor blossom result quick";
+var mnemonic = "sudden version couch badge unit wrap hawk turtle unknown theme mixture beauty";

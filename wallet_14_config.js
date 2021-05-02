@@ -1,1 +1,1 @@
-var mnemonic = "solar donkey image gauge delay bulb gadget purchase lion lock define lemon";
+var mnemonic = "suspect carbon once naive seven canyon snap bulk deny record ability dolphin";

@@ -1,1 +1,1 @@
-var mnemonic = "attract course evolve basic way cross enlist shoot gasp symptom elbow chapter";
+var mnemonic = "body wing mad wish glide orange smart punch soap cushion onion swap";

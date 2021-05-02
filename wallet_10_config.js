@@ -1,1 +1,1 @@
-var mnemonic = "blouse clutch innocent answer february nominee wink brush during exotic taste filter";
+var mnemonic = "close program gauge dragon blame file cheap token good loud hire split";

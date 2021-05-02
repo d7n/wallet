@@ -1,1 +1,1 @@
-var mnemonic = "media cook circle sniff announce return weasel harsh month border bullet flip";
+var mnemonic = "alarm mandate hockey very syrup slight shadow broom rabbit subject evil snake";

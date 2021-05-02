@@ -1,1 +1,1 @@
-var mnemonic = "fat need height tape century left menu welcome turtle clown wreck bridge";
+var mnemonic = "alley author mosquito finger slab unveil shell foam symptom cage dice bicycle";

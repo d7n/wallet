@@ -1,1 +1,1 @@
-var mnemonic = "caution scout fee false pizza glance taste put venue attack chimney find";
+var mnemonic = "burst intact like dragon chapter convince globe cousin dial situate into doll";

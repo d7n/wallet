@@ -1,1 +1,1 @@
-var mnemonic = "iron era genuine bottom move soon three rely effort shrimp rhythm eyebrow";
+var mnemonic = "cup miracle limit congress term host mother enrich viable hip month change";

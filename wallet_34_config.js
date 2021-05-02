@@ -1,1 +1,1 @@
-var mnemonic = "immense talent enroll swear into upset rate tiger almost rifle clever enemy";
+var mnemonic = "edit fiscal labor tell dolphin option sibling accuse dilemma gossip dial chapter";

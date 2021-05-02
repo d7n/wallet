@@ -1,1 +1,1 @@
-var mnemonic = "nest trend tomorrow exercise dog leg process merry minor table wide health";
+var mnemonic = "exotic woman dentist flash property search above trigger lecture obey knee pink";

@@ -1,1 +1,1 @@
-var mnemonic = "copper rail luggage pipe margin lyrics tunnel rigid grunt try tornado note";
+var mnemonic = "moment lawsuit lake forest valley swear display calm cinnamon burst become hotel";

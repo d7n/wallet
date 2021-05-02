@@ -1,1 +1,1 @@
-var mnemonic = "design cactus impulse animal bike gym rail carpet warrior pill heavy goat";
+var mnemonic = "access heart device joy diamond unhappy turkey tone circle drastic cube broccoli";

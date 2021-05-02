@@ -1,1 +1,1 @@
-var mnemonic = "disease amateur torch catalog true vault gorilla claw link prepare traffic pulp";
+var mnemonic = "private hint cause route together monitor list style few baby math detail";

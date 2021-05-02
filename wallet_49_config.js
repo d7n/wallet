@@ -1,1 +1,1 @@
-var mnemonic = "humor foot grape salute photo install brown noise garment decide then physical";
+var mnemonic = "west mouse frequent crew junk fluid trophy forum dumb park afford capable";

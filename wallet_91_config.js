@@ -1,1 +1,1 @@
-var mnemonic = "birth sadness burden chunk equip sniff regret differ guess liar cross earth";
+var mnemonic = "public fatigue brass friend concert involve devote address park inquiry garage advance";

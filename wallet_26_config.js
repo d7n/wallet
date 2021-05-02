@@ -1,1 +1,1 @@
-var mnemonic = "punch bird frost avoid around chalk question mule picnic glide ankle attract";
+var mnemonic = "pause science actor depend begin maple elephant hold bus torch grid suggest";

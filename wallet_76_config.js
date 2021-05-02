@@ -1,1 +1,1 @@
-var mnemonic = "love enroll now bind various swarm nation order curious olympic nasty path";
+var mnemonic = "knee family window month business monster private cactus pause wagon portion immense";

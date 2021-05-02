@@ -1,1 +1,1 @@
-var mnemonic = "poverty number solar that real purpose build bulb echo address valley switch";
+var mnemonic = "one maid stumble kid once region fit motion obscure exhaust vocal slim";

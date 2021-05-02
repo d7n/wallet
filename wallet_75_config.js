@@ -1,1 +1,1 @@
-var mnemonic = "climb marble absent valve situate extra make rude midnight strong inherit scan";
+var mnemonic = "circle country junior blame major bottom milk bus sail raise sport coast";

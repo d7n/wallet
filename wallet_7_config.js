@@ -1,1 +1,1 @@
-var mnemonic = "decline such craft negative okay grace shoulder mention grit sunset second gesture";
+var mnemonic = "dumb call daughter protect match client palace roof chuckle enact trend physical";

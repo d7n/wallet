@@ -1,1 +1,1 @@
-var mnemonic = "improve harbor purchase chief potato keep congress property spawn satisfy grid pretty";
+var mnemonic = "two range unveil problem window measure naive fatigue junk fan obscure year";

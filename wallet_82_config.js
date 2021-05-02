@@ -1,1 +1,1 @@
-var mnemonic = "cancel involve always crisp eyebrow board rural right arctic letter erase gentle";
+var mnemonic = "shrimp this meat extend champion denial enforce color portion control mixed slight";

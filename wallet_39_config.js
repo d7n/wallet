@@ -1,1 +1,1 @@
-var mnemonic = "senior ask dutch baby injury logic about pony mirror crazy cup notice";
+var mnemonic = "seat cook lava bacon tribe sight night distance actor vicious pitch ugly";

@@ -1,1 +1,1 @@
-var mnemonic = "caught february duck bulb such hamster club margin isolate deposit budget horn";
+var mnemonic = "acoustic owner bone zoo glide wagon tool ugly all tool pyramid impulse";

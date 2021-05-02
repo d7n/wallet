@@ -1,1 +1,1 @@
-var mnemonic = "harbor pioneer sense jelly winter clip clog night sustain range measure finish";
+var mnemonic = "sport carry review reject skull dry decline onion topple trap digital trigger";

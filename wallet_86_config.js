@@ -1,1 +1,1 @@
-var mnemonic = "side globe picnic market add march rich wave rookie course chair escape";
+var mnemonic = "license critic panther muscle strategy choose detect social crazy injury talk aunt";

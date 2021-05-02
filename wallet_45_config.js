@@ -1,1 +1,1 @@
-var mnemonic = "fragile salute ball kite charge machine omit orphan erase ten hand situate";
+var mnemonic = "witness actual give finish primary chicken sausage bamboo episode hour trigger jacket";

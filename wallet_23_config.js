@@ -1,1 +1,1 @@
-var mnemonic = "negative recipe citizen pattern upper dove cradle multiply history wisdom echo lava";
+var mnemonic = "lottery exist text object avocado earth swap undo suggest bike now behave";

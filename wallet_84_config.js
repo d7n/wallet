@@ -1,1 +1,1 @@
-var mnemonic = "giraffe inquiry achieve copy limb apology age crew sibling turn broccoli bacon";
+var mnemonic = "tomorrow response spoil gorilla system lunar first subway dutch witness kiwi pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "pilot join area hurry soup praise faculty scout will coconut wrong crisp";
+var mnemonic = "beauty canvas use nurse crew unveil laptop raccoon repair anxiety youth jelly";

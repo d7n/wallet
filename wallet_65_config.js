@@ -1,1 +1,1 @@
-var mnemonic = "tree rapid sting rhythm note track monster tattoo remove lumber slight door";
+var mnemonic = "youth urge session best price coin hungry give penalty upset ticket possible";

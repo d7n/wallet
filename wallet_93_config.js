@@ -1,1 +1,1 @@
-var mnemonic = "ticket nose cart laptop height bag arctic crew clarify actual lecture aim";
+var mnemonic = "soldier live remember gather huge celery witness shield plug try current neutral";

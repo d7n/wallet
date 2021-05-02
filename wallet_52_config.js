@@ -1,1 +1,1 @@
-var mnemonic = "photo argue tag roast author tribe era grace first scrap fever jewel";
+var mnemonic = "trick assault old point repair emotion crush tomorrow shiver various tribe length";

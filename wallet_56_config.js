@@ -1,1 +1,1 @@
-var mnemonic = "talk junk buzz marriage target globe trap fan text history phrase stage";
+var mnemonic = "census grit sock unlock debate elder fiscal loop march gasp shield verify";

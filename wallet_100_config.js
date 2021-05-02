@@ -1,1 +1,1 @@
-var mnemonic = "wish orange soap december senior judge citizen neglect inject good toss theme";
+var mnemonic = "where car exhaust margin hard chunk shiver swap pet spice life quantum";

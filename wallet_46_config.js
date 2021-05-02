@@ -1,1 +1,1 @@
-var mnemonic = "actress miss know project alert harbor stock link return false rather giant";
+var mnemonic = "nurse donate disorder total menu gravity stumble float antique grunt captain vacuum";

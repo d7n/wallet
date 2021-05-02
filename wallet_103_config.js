@@ -1,1 +1,1 @@
-var mnemonic = "brand capital kidney clean pilot bar lend lizard eyebrow mechanic upon buffalo";
+var mnemonic = "staff leg truth refuse cigar couple orchard letter zero buddy modify face";

@@ -1,1 +1,1 @@
-var mnemonic = "lady demand view festival news weird cloud grid little man people giraffe";
+var mnemonic = "fortune side weasel because agent stool collect bicycle echo payment bread chase";

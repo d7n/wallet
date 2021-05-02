@@ -1,1 +1,1 @@
-var mnemonic = "hidden bulb educate novel chief motion foam day allow cereal device scan";
+var mnemonic = "dance coffee already gentle page issue enable oak galaxy measure number prevent";

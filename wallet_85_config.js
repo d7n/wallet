@@ -1,1 +1,1 @@
-var mnemonic = "axis addict pretty parade manual stairs ladder female damage ridge whip glow";
+var mnemonic = "mom desert two enemy gaze blast gate stick skirt engage country cage";

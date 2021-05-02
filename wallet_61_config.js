@@ -1,1 +1,1 @@
-var mnemonic = "huge drive tube damp sleep pond erupt marriage depart expose auction hub";
+var mnemonic = "error abuse source garage deny share shop purse use solution swim they";

@@ -1,1 +1,1 @@
-var mnemonic = "cram inflict clip noble dragon gospel penalty glare exercise romance adjust check";
+var mnemonic = "guess render useful simple draw park wrist picnic motion second student idea";

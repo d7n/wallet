@@ -1,1 +1,1 @@
-var mnemonic = "decorate camp action what sponsor insane toss tonight parrot mandate addict measure";
+var mnemonic = "cactus nasty steel end heart bless siege enlist december elite feed foil";

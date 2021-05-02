@@ -1,1 +1,1 @@
-var mnemonic = "zero dash shrug people used initial size poem neglect mystery pencil pipe";
+var mnemonic = "round wood sun cliff symptom equal radar mandate soup clump rubber good";

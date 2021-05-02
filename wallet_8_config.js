@@ -1,1 +1,1 @@
-var mnemonic = "humble buyer wet clinic fit eager toss sport spatial arrange example found";
+var mnemonic = "silent seed merry coach satisfy badge middle measure child amateur destroy crime";

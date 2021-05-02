@@ -1,1 +1,1 @@
-var mnemonic = "pill hidden sort vintage hip tobacco because enemy ocean total kitten girl";
+var mnemonic = "prize resource dial unaware lunch evolve spoil brown clean flush derive water";

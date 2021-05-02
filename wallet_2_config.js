@@ -1,1 +1,1 @@
-var mnemonic = "alter various math moment knock chase early earn volcano replace mercy toddler";
+var mnemonic = "zone level inspire road bonus ocean left dose coin memory steel brain";

@@ -1,1 +1,1 @@
-var mnemonic = "source ice cave moon foam stay ripple awake answer hazard business churn";
+var mnemonic = "habit flip matrix fiction time bomb thunder vague shoot purity polar subway";

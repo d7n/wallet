@@ -1,1 +1,1 @@
-var mnemonic = "until unveil confirm notable fiber tent tone trouble hungry deal clarify evidence";
+var mnemonic = "slam infant surprise keen leg tissue silk state light cage opinion transfer";

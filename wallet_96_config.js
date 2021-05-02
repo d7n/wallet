@@ -1,1 +1,1 @@
-var mnemonic = "degree history icon way doctor reveal confirm alpha gorilla guitar skin cool";
+var mnemonic = "pig seat expect loyal grace basic velvet frog already tackle junk broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "attract catch chuckle able nest proof finger artist rally garden video husband";
+var mnemonic = "rely magnet cart april grape yellow aerobic notice empty program flavor main";

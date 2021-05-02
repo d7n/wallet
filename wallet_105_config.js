@@ -1,1 +1,1 @@
-var mnemonic = "essence zero direct slam sleep review pitch mom kidney perfect light rally";
+var mnemonic = "clean plug model kidney bag harbor limit liar discover forget bullet wire";

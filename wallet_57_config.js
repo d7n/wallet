@@ -1,1 +1,1 @@
-var mnemonic = "ecology document kingdom gas gossip tumble actual guide valve replace apart ball";
+var mnemonic = "inject theme barrel orient bubble mean tail rally diamond mercy success weapon";

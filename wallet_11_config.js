@@ -1,1 +1,1 @@
-var mnemonic = "dream suspect frown stool sign author zoo report arrest mosquito industry essence";
+var mnemonic = "power truth cupboard flush crawl grief stage truly neck device genre video";

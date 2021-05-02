@@ -1,1 +1,1 @@
-var mnemonic = "sheriff tissue crack trend mom fluid electric very account soup like hollow";
+var mnemonic = "crunch drift bridge mercy version crazy gallery fog noble dress chat region";

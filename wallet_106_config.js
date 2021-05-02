@@ -1,1 +1,1 @@
-var mnemonic = "bag shop include bottom today simple crash ghost moral stomach dust ball";
+var mnemonic = "dice output upset cave ensure busy boring wash risk dinner favorite mom";

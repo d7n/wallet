@@ -1,1 +1,1 @@
-var mnemonic = "derive pudding edit sing muffin raise knock grunt game cram impose pole";
+var mnemonic = "harvest theory century cram double brief effort twice hobby update color trouble";

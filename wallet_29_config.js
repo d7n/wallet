@@ -1,1 +1,1 @@
-var mnemonic = "digital avoid father nest black exhibit output frequent chief leopard old invest";
+var mnemonic = "like miracle brisk slow try staff flock budget dynamic ozone future cupboard";

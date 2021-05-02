@@ -1,1 +1,1 @@
-var mnemonic = "mechanic paddle local machine proof river wonder rent since recycle squirrel muffin";
+var mnemonic = "black frozen style lecture property twin area blame vacant faculty title labor";

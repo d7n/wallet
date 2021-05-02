@@ -1,1 +1,1 @@
-var mnemonic = "roast current seed help ensure borrow dinosaur work carbon silver pole labor";
+var mnemonic = "math session dutch cradle crawl always regular thank member trend virtual entry";

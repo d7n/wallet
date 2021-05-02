@@ -1,1 +1,1 @@
-var mnemonic = "have tone pole define squeeze denial flag electric rent prize clay swap";
+var mnemonic = "traffic ladder illegal eternal evidence daughter boost arrive frown hold muffin model";
