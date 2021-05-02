@@ -1,1 +1,1 @@
-var mnemonic = "sausage mom wine chicken perfect income more dragon tiger base repair vehicle";
+var mnemonic = "salon sad maze habit clay relax vehicle father lake defense blush connect";

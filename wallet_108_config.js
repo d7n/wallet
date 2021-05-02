@@ -1,1 +1,1 @@
-var mnemonic = "weasel shell panda field attend cart file explain matrix forget green harbor";
+var mnemonic = "cigar skate aware basic medal girl accuse stone dry hungry bag stool";

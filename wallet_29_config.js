@@ -1,1 +1,1 @@
-var mnemonic = "actual jump whale wing inquiry warrior increase crime accuse roast dentist outer";
+var mnemonic = "salt build say strike sting day obtain inspire urban short drum proof";

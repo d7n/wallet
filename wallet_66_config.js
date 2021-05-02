@@ -1,1 +1,1 @@
-var mnemonic = "drive color code glory device sign motor minor rally argue across warrior";
+var mnemonic = "powder history short rug soon doctor famous scale sheriff lunar marble team";

@@ -1,1 +1,1 @@
-var mnemonic = "room patient sponsor pretty wear program sense supreme about alien minimum grab";
+var mnemonic = "kitten divert future visual evoke jar combine come liberty oven excess rich";

@@ -1,1 +1,1 @@
-var mnemonic = "advance dilemma section repair promote mother demand resist slender dash bulk isolate";
+var mnemonic = "coral organ rare decrease upper scale cattle control symbol sound patient phrase";

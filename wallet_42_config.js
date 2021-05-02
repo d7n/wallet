@@ -1,1 +1,1 @@
-var mnemonic = "menu trick oven menu film warm elbow entry busy rail tragic kangaroo";
+var mnemonic = "thrive yellow horse again return snake more dumb helmet mix stumble uniform";

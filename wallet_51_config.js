@@ -1,1 +1,1 @@
-var mnemonic = "cost message capital order siren mule asset cave expose equip dentist habit";
+var mnemonic = "sock job pond glass bounce forest civil dry business adapt fantasy domain";

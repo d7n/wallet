@@ -1,1 +1,1 @@
-var mnemonic = "auction crane once apple rather ability style mystery cup over shield scheme";
+var mnemonic = "hen air gain impulse primary say home camp insane resource palace crisp";

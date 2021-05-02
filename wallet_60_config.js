@@ -1,1 +1,1 @@
-var mnemonic = "noble exercise talent hidden mixture seven fashion brain miracle zero two shoulder";
+var mnemonic = "sibling volcano leg follow property luxury embrace cable stamp torch patient prosper";

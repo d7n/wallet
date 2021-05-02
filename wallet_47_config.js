@@ -1,1 +1,1 @@
-var mnemonic = "document love mouse love yellow melody fall book penalty pizza stairs thunder";
+var mnemonic = "strike enroll until nurse arctic exclude critic already slab turn position attract";

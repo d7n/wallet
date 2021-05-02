@@ -1,1 +1,1 @@
-var mnemonic = "ship expire marine amount together tube just body violin cross mimic asset";
+var mnemonic = "amateur trumpet middle cigar injury grass bubble famous ribbon grit liberty canal";

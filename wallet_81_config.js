@@ -1,1 +1,1 @@
-var mnemonic = "marriage chalk rifle settle canyon relief hedgehog iron olive aware antique about";
+var mnemonic = "sword rail crunch program charge catalog hold nasty industry analyst option lemon";

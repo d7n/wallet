@@ -1,1 +1,1 @@
-var mnemonic = "frequent dwarf lava image spoon across hand flat okay fiction assume solar";
+var mnemonic = "cupboard balance giant unfold bring chest kidney school leave potato gift modify";

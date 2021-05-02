@@ -1,1 +1,1 @@
-var mnemonic = "giant exit pattern there where message spy buyer today afford park venue";
+var mnemonic = "general ready lady edit royal file strong weather hint fame vocal spawn";

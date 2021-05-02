@@ -1,1 +1,1 @@
-var mnemonic = "absorb near marine frog ethics aim siren cloth limit mosquito shove slim";
+var mnemonic = "essay floor tiny barely enroll stairs jacket ladder smoke ranch raw senior";

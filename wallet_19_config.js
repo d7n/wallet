@@ -1,1 +1,1 @@
-var mnemonic = "project hood make shoot dry name artefact wolf panda above juice betray";
+var mnemonic = "immune toss drop april sail faint hat card divert inquiry equip pretty";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz eye hint rocket shallow neck office fatigue alien rotate code fold";
+var mnemonic = "voice kingdom ladder humor wide balance perfect job witness afford story found";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil hood laugh cream hat endless visual poet since pond destroy solar";
+var mnemonic = "destroy penalty exist tiny coil borrow swamp zero illegal quick unfair lounge";

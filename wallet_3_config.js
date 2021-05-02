@@ -1,1 +1,1 @@
-var mnemonic = "suggest wisdom scan wife violin twist castle attack tunnel need fiscal tape";
+var mnemonic = "total rigid enforce drum age trigger correct crouch fall flavor december limit";

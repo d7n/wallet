@@ -1,1 +1,1 @@
-var mnemonic = "gaze picture bachelor wrist tape slab output point easy large ridge space";
+var mnemonic = "clay yellow bubble captain group romance myth flat slight example supply comic";

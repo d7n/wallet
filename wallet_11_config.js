@@ -1,1 +1,1 @@
-var mnemonic = "any need senior inmate actor canyon barrel access fatal route rhythm jungle";
+var mnemonic = "satoshi nephew pill measure off hole gaze ceiling common piece body kitten";

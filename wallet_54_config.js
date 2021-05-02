@@ -1,1 +1,1 @@
-var mnemonic = "anxiety entry glove neglect pitch cradle aspect stumble shrimp picture ice black";
+var mnemonic = "silent obey wave holiday jealous arctic harvest door choose own author grow";

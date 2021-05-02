@@ -1,1 +1,1 @@
-var mnemonic = "danger strike gown fury salute park cheese remove caught arctic round token";
+var mnemonic = "faith ritual outside return chimney area amazing hill enemy empty renew release";

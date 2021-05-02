@@ -1,1 +1,1 @@
-var mnemonic = "donate dumb base fish where park dice vacuum action cute grace chair";
+var mnemonic = "secret slab script sleep sugar fortune tumble cross parade tiny truth border";

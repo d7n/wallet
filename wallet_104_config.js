@@ -1,1 +1,1 @@
-var mnemonic = "tell spoon tag icon reduce next trip squirrel around ice title rival";
+var mnemonic = "draft gift unaware camera kick swing slice movie common spike shiver truth";

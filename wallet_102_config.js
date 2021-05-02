@@ -1,1 +1,1 @@
-var mnemonic = "educate tongue celery woman online arch diagram bone chest warfare detect actress";
+var mnemonic = "seek okay doctor goat occur december pipe safe joke online diesel where";

@@ -1,1 +1,1 @@
-var mnemonic = "permit evil joy brother rally bracket offer distance rapid scrap bless hole";
+var mnemonic = "bus panel fine bitter cupboard perfect alarm danger current pluck olive state";

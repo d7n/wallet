@@ -1,1 +1,1 @@
-var mnemonic = "model found walnut cruel boat inherit wrap supreme illness service pottery quiz";
+var mnemonic = "vessel clever enforce crack reunion range glide zero flash cricket crunch wild";

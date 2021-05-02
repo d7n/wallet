@@ -1,1 +1,1 @@
-var mnemonic = "survey ketchup island great cannon social clock draft board possible above lazy";
+var mnemonic = "silver ignore culture giant gym rain deputy legal gauge danger double army";

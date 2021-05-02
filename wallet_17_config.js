@@ -1,1 +1,1 @@
-var mnemonic = "park rigid sick exhaust neither select hero robot mercy close quit review";
+var mnemonic = "bone cash fiction elder thrive couch comic lazy mercy obey file stand";

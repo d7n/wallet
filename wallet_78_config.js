@@ -1,1 +1,1 @@
-var mnemonic = "festival slogan train shiver napkin supreme bomb people giggle define swing soccer";
+var mnemonic = "country alert bronze manual remember dumb kite cruise room climb coconut paper";

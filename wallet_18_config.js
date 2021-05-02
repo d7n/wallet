@@ -1,1 +1,1 @@
-var mnemonic = "hen earth dress melt lyrics custom frozen release original call rotate pyramid";
+var mnemonic = "frog boil error alien bird acquire run roast rib below copy gospel";

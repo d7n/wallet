@@ -1,1 +1,1 @@
-var mnemonic = "palace promote olympic drill devote scrap mango summer universe coral expire drastic";
+var mnemonic = "fork caution panther matrix bleak love wrestle champion normal pear vehicle canal";

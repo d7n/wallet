@@ -1,1 +1,1 @@
-var mnemonic = "quote regular purpose hero click flame silent melody doctor yellow easily room";
+var mnemonic = "trouble latin owner snake mind nature zebra drum duck bird target cousin";

@@ -1,1 +1,1 @@
-var mnemonic = "clean borrow slogan jewel ring hollow cancel perfect chase shift second belt";
+var mnemonic = "nut mom impose stuff umbrella noble bundle april muffin rubber enable predict";

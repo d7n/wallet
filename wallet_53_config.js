@@ -1,1 +1,1 @@
-var mnemonic = "three animal craft injury endorse sand quality return cook immense december picture";
+var mnemonic = "glass analyst blood exile love follow sword all grow double ivory nothing";

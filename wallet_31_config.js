@@ -1,1 +1,1 @@
-var mnemonic = "whale inject spawn tail people strike point brand pool produce angle elder";
+var mnemonic = "broccoli typical sibling distance picture urban route damp garage position wolf have";

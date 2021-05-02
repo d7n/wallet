@@ -1,1 +1,1 @@
-var mnemonic = "what actual endless expect much swing earth chief cover strategy elegant daring";
+var mnemonic = "reject virtual perfect layer hurry banner metal evidence kite blanket island frown";

@@ -1,1 +1,1 @@
-var mnemonic = "leader assume arena domain color code scare shoulder hole muscle tornado accuse";
+var mnemonic = "ability describe elephant meat run category you snake wait scrap team way";

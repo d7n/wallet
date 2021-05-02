@@ -1,1 +1,1 @@
-var mnemonic = "soon decorate talent display usual exhibit sponsor balcony half essay physical correct";
+var mnemonic = "decorate gap fantasy still profit recycle argue little world sphere margin spray";

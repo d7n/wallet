@@ -1,1 +1,1 @@
-var mnemonic = "miss loan shield tiny stamp general inmate dove upset school ride dilemma";
+var mnemonic = "modify misery estate crop body mule another fruit easy easily marine sail";

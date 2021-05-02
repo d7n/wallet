@@ -1,1 +1,1 @@
-var mnemonic = "rack funny menu horn film silly april verb crystal fat dad together";
+var mnemonic = "exchange analyst tonight purchase harvest sunset depth pistol ritual loan humor search";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh unit dune leg entire brain goose toddler actual limb marriage leave";
+var mnemonic = "tourist accuse ticket card chuckle element hollow minute good eye chimney chaos";

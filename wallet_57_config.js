@@ -1,1 +1,1 @@
-var mnemonic = "rigid this mom clutch correct where bargain vintage model cousin board cause";
+var mnemonic = "angry frozen very depth bag entire coin media desert alone around grow";

@@ -1,1 +1,1 @@
-var mnemonic = "image apple long habit island blood park clock thank federal clutch violin";
+var mnemonic = "blur ridge indoor year item village regret warm trumpet hole until valve";

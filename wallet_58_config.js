@@ -1,1 +1,1 @@
-var mnemonic = "remind fantasy immune cook rescue unusual kitten sell soldier imitate shop crew";
+var mnemonic = "quick bird tag soon memory crane budget unaware learn robust abandon teach";

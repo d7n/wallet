@@ -1,1 +1,1 @@
-var mnemonic = "modify august soda people scissors slow curve pink town expire danger hole";
+var mnemonic = "unfair method mixed other witness rocket hole dynamic human history clip indicate";

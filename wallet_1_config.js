@@ -1,1 +1,1 @@
-var mnemonic = "bridge thrive alcohol act enable cliff myth sell crunch glass shove bring";
+var mnemonic = "uncover magnet exhibit alpha priority people spider worth undo butter census close";

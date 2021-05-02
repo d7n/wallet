@@ -1,1 +1,1 @@
-var mnemonic = "secret endless coast hand horn science master awkward magic forest dad alcohol";
+var mnemonic = "expand process wonder summer edge penalty amateur auction erase abandon hold flee";

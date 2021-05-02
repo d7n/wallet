@@ -1,1 +1,1 @@
-var mnemonic = "finger weather album crane coral roast series alone vivid spread parrot capable";
+var mnemonic = "type extend arm office state quality fence index blossom taste dinner rocket";

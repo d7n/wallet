@@ -1,1 +1,1 @@
-var mnemonic = "since another neglect anger sting fashion slush river enact ancient envelope member";
+var mnemonic = "party change hold olympic tail salmon glove element stool deal enhance erase";

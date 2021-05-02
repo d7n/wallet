@@ -1,1 +1,1 @@
-var mnemonic = "verb exact pulp employ wet harsh cruise piano affair convince wood few";
+var mnemonic = "win day thank rain sister help plate boss consider tunnel reform moral";

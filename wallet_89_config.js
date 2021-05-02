@@ -1,1 +1,1 @@
-var mnemonic = "frog expire income soccer post trash elbow congress finish auction domain funny";
+var mnemonic = "evil snake shoulder public parrot million crack sunny hidden magnet junk addict";

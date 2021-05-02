@@ -1,1 +1,1 @@
-var mnemonic = "increase magnet license question choice loop audit couple uniform anger point custom";
+var mnemonic = "veteran river meadow point like flight tackle position toddler chair hybrid round";

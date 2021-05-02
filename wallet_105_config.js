@@ -1,1 +1,1 @@
-var mnemonic = "fantasy tattoo warrior empower boring vendor salmon bracket sting among fashion loop";
+var mnemonic = "hungry wisdom fresh crisp install slam merge grab scan filter avoid joy";

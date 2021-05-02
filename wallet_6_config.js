@@ -1,1 +1,1 @@
-var mnemonic = "slot caution excite figure mimic hire say guess select cost scrub worry";
+var mnemonic = "reopen force game affair practice regret eagle guide assume crime day short";

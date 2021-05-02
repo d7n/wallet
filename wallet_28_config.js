@@ -1,1 +1,1 @@
-var mnemonic = "number rocket arm retire truth brisk fiber toast idle aerobic baby lazy";
+var mnemonic = "plug broom input school air print primary blossom nation permit grass extend";

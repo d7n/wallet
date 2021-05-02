@@ -1,1 +1,1 @@
-var mnemonic = "enforce gap rather payment injury recall evoke dizzy enforce visual employ relax";
+var mnemonic = "grunt honey floor decrease organ muscle finish sport wagon mountain track palm";

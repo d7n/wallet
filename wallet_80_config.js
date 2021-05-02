@@ -1,1 +1,1 @@
-var mnemonic = "venture jazz later okay smile bitter essay mercy magnet bounce skill wait";
+var mnemonic = "alley youth enemy cinnamon juice describe final crouch wink tomato icon want";

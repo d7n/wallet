@@ -1,1 +1,1 @@
-var mnemonic = "lava sphere category horn horn unable hint buffalo still raw toward output";
+var mnemonic = "crime castle either series marriage shoe radio ripple badge convince script laugh";

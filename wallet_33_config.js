@@ -1,1 +1,1 @@
-var mnemonic = "forest energy tackle you bronze embark dawn focus practice frame squirrel awful";
+var mnemonic = "cash arch swamp cannon intact valve skirt edit fancy hope end firm";

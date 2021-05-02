@@ -1,1 +1,1 @@
-var mnemonic = "roast casual heavy law village hat silk inquiry social twice effort flat";
+var mnemonic = "vintage student light connect you room fragile stick alien medal chest connect";

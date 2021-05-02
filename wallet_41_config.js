@@ -1,1 +1,1 @@
-var mnemonic = "hurdle apology toast tragic pass base vivid above uniform swallow vocal cram";
+var mnemonic = "second narrow move distance whale spirit destroy sign travel chef damage recycle";

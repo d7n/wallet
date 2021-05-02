@@ -1,1 +1,1 @@
-var mnemonic = "minimum client forward radar judge special ginger eye protect rich dinner boring";
+var mnemonic = "dwarf street degree zoo joy add royal sad theory flee become height";

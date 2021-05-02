@@ -1,1 +1,1 @@
-var mnemonic = "else cigar aspect throw virus shallow fury focus mind victory sort pumpkin";
+var mnemonic = "scissors oyster color ring erosion wrist vote render rebuild general obtain drift";

@@ -1,1 +1,1 @@
-var mnemonic = "spy math program steak behind thrive ten rally renew brush foam region";
+var mnemonic = "slogan spatial more empty load wage ugly inmate end hybrid drama include";

@@ -1,1 +1,1 @@
-var mnemonic = "kitten local green kidney space water doll welcome help priority luggage arch";
+var mnemonic = "miss shell argue energy insane enjoy crash quarter empower century region solution";

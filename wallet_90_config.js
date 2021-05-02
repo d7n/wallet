@@ -1,1 +1,1 @@
-var mnemonic = "adult pigeon tape voyage catalog benefit warm ritual hen clever hint bamboo";
+var mnemonic = "humble usual cigar owner climb pink jar year joy cloth vocal liquid";

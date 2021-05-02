@@ -1,1 +1,1 @@
-var mnemonic = "diesel coconut crop unfair fiscal upon edit celery connect shield tomato idea";
+var mnemonic = "health shiver whip swing grass era shadow patrol resource main valid punch";

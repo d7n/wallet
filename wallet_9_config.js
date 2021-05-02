@@ -1,1 +1,1 @@
-var mnemonic = "wise eight cannon wait math oak bless bright quote paper express strategy";
+var mnemonic = "raw pencil census dream library lobster fossil ordinary boring rubber grab puzzle";

@@ -1,1 +1,1 @@
-var mnemonic = "ability home prize staff maid heart conduct mix stage poet glad measure";
+var mnemonic = "bunker maple insane misery depth notable disease setup talk slight avocado twin";

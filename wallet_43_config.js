@@ -1,1 +1,1 @@
-var mnemonic = "predict budget extend eternal uncle canyon scrub height design future fluid device";
+var mnemonic = "rule labor leopard opera life scrap install hour slender swarm idle brick";

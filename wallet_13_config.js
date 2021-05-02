@@ -1,1 +1,1 @@
-var mnemonic = "abuse install proof stock party step unfair exchange subject system proud search";
+var mnemonic = "galaxy imitate usual barely science curve apart ask between shoe father bless";

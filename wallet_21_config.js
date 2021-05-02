@@ -1,1 +1,1 @@
-var mnemonic = "begin economy canvas play brother develop neutral scrap furnace pistol rookie drastic";
+var mnemonic = "escape marriage dish brown ten crouch tragic wife call hole relax drift";

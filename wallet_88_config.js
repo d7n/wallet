@@ -1,1 +1,1 @@
-var mnemonic = "barely trouble level small regular horn group hole ranch topple soap bone";
+var mnemonic = "barrel coffee pool satoshi upper tool describe wall essay thunder swamp sing";

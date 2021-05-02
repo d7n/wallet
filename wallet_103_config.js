@@ -1,1 +1,1 @@
-var mnemonic = "mention mesh success catalog rug shed concert connect fire drama divorce sing";
+var mnemonic = "cattle reward dream midnight okay phrase sentence imitate fresh tape need shiver";

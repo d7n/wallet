@@ -1,1 +1,1 @@
-var mnemonic = "small dose obey violin connect exhibit refuse surface someone viable exhaust grab";
+var mnemonic = "spice shield genius negative frog moral trip smooth robust call suggest soap";

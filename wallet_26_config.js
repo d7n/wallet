@@ -1,1 +1,1 @@
-var mnemonic = "shock spoil artist shift scrub unhappy clip mango mango humor toward switch";
+var mnemonic = "sponsor carry curious fatigue sponsor surround tent element spot resist laptop elder";

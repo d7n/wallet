@@ -1,1 +1,1 @@
-var mnemonic = "dolphin crumble dad reveal hard fragile witness ivory then hair blossom gown";
+var mnemonic = "social later define boil donor spread love syrup multiply law polar bunker";

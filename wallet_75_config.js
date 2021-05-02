@@ -1,1 +1,1 @@
-var mnemonic = "build draft hint sponsor bind bracket buffalo side hidden display explain lava";
+var mnemonic = "dwarf ugly spray shuffle fossil pottery universe author congress intact clay mystery";

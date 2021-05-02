@@ -1,1 +1,1 @@
-var mnemonic = "spirit child soup example buffalo west lounge design gravity matrix museum riot";
+var mnemonic = "chaos hair juice impose wear bird slot burden detect vacuum wedding absent";

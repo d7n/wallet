@@ -1,1 +1,1 @@
-var mnemonic = "cement obvious gorilla shove dice rather seven crowd theory crack spatial already";
+var mnemonic = "dentist knock number stand one balance mercy crop tell cinnamon couch cereal";

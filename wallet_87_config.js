@@ -1,1 +1,1 @@
-var mnemonic = "robot senior crash pyramid warrior embody brown cotton sample will kidney credit";
+var mnemonic = "federal maze cricket box toward south match shock nose become hurry twist";

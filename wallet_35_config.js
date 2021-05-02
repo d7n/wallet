@@ -1,1 +1,1 @@
-var mnemonic = "praise tower flush retire hole just around robust thing betray goddess shoe";
+var mnemonic = "entire jar height super grunt panther economy notable cancel damp shop supreme";

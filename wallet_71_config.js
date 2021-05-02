@@ -1,1 +1,1 @@
-var mnemonic = "daughter wealth endorse true satisfy chat exist rice rare tower knock shoot";
+var mnemonic = "tip decline lunch sight spoil excuse enforce minute pledge buddy talk echo";
