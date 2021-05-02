@@ -1,1 +1,1 @@
-var mnemonic = "tonight either resource pistol fever amazing order waste crush meat between scan";
+var mnemonic = "security matrix crop word canvas fringe act miracle index spice device achieve";

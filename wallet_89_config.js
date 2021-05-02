@@ -1,1 +1,1 @@
-var mnemonic = "mercy rebuild holiday old settle answer print load benefit snake play pigeon";
+var mnemonic = "common right style turn sample relief soldier spoon monitor execute wing diary";

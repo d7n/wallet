@@ -1,1 +1,1 @@
-var mnemonic = "life soldier appear amazing brick misery cargo race chef matter skull property";
+var mnemonic = "will shock orbit hockey design talk agree again bicycle zero wife plunge";

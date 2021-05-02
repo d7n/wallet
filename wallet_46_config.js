@@ -1,1 +1,1 @@
-var mnemonic = "burden legal food idea grow year roof another reject wheel stay brief";
+var mnemonic = "immense arrow theme jealous foam right sing ice wrestle useless first filter";

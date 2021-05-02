@@ -1,1 +1,1 @@
-var mnemonic = "elbow design picnic subject wise slight flavor chunk smoke grow earn expose";
+var mnemonic = "heavy picture scorpion ozone dolphin empty rescue drink design hair avoid firm";

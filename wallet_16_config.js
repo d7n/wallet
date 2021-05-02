@@ -1,1 +1,1 @@
-var mnemonic = "salmon extra media evil have valve trim cloth cliff person seat human";
+var mnemonic = "odor shiver mixture love client patient project picnic build off again resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "copper program shove finish hundred jar drum absurd dry history desk volcano";
+var mnemonic = "hope update oblige rose bless funny horror spider estate blade sad bullet";

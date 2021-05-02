@@ -1,1 +1,1 @@
-var mnemonic = "fabric actress nice cup valve rubber giant giraffe twin work bachelor zone";
+var mnemonic = "tone tunnel merit walk dynamic clip trim exercise comfort zero width creek";

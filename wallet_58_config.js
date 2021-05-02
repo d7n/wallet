@@ -1,1 +1,1 @@
-var mnemonic = "february honey match feed undo comfort army enhance pyramid skin view asset";
+var mnemonic = "harvest arrive lend nature strategy budget width fine strike unveil loop october";

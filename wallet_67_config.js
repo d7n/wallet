@@ -1,1 +1,1 @@
-var mnemonic = "notice knee embody indoor fall domain only electric loop naive purpose village";
+var mnemonic = "recall east devote equal blur flag axis supreme trust moral oxygen video";

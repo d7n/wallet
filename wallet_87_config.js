@@ -1,1 +1,1 @@
-var mnemonic = "follow cloud close lava laptop polar intact indicate yard awake exile chunk";
+var mnemonic = "blood steak narrow chicken scare soda token citizen cloth blade tunnel economy";

@@ -1,1 +1,1 @@
-var mnemonic = "account mobile marine upon want swing gravity possible mountain right stand series";
+var mnemonic = "motor body volcano cheap spare town remain poem alcohol jealous steak poem";

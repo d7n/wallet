@@ -1,1 +1,1 @@
-var mnemonic = "model lawn normal blossom bunker token forward whisper improve kind million inspire";
+var mnemonic = "gasp portion tiger mom melt stumble subway million law menu couple catalog";

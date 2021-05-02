@@ -1,1 +1,1 @@
-var mnemonic = "daughter smile tape crush disagree tourist tiny adjust rifle leave good modify";
+var mnemonic = "foster control attack blue cook power where fringe scrap frown rug parrot";

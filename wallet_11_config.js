@@ -1,1 +1,1 @@
-var mnemonic = "used okay boost fault rhythm color pill arrest good reward fault away";
+var mnemonic = "orient scene tree bronze struggle dinosaur since combine bleak siren also cable";

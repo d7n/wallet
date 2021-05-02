@@ -1,1 +1,1 @@
-var mnemonic = "diet produce brave bag common coin muffin march can near forum creek";
+var mnemonic = "danger prosper kiss series hockey area napkin black ocean minute promote undo";

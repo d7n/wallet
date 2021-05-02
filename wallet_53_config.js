@@ -1,1 +1,1 @@
-var mnemonic = "filter lava reopen kingdom profit frost arctic radar gold mirror tip trip";
+var mnemonic = "base knee code describe hawk filter awful focus comfort step evidence old";

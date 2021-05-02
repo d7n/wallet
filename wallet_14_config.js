@@ -1,1 +1,1 @@
-var mnemonic = "twist roast half best egg syrup family render announce believe slow movie";
+var mnemonic = "enlist inject side humor frost style access topple genuine habit hundred shoot";

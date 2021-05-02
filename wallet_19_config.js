@@ -1,1 +1,1 @@
-var mnemonic = "process inspire hover merge solid laugh orbit marriage metal report guilt artist";
+var mnemonic = "law sound video subject hollow side insane mango bench claim laundry genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "modify clarify joy rookie kite suit season label hope toddler diary category";
+var mnemonic = "cat mother spawn initial indicate scheme argue video flush man reform rail";

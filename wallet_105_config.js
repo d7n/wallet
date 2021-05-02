@@ -1,1 +1,1 @@
-var mnemonic = "chicken illegal mechanic foot tower better nuclear put extra miss strong symbol";
+var mnemonic = "dynamic day disagree valid spot onion face march obvious coffee flight frost";

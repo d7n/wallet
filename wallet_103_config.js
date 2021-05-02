@@ -1,1 +1,1 @@
-var mnemonic = "wisdom calm broken zoo gym prison prosper heart slogan wish whale spare";
+var mnemonic = "pottery comic return exercise phone spice since neutral core hover rifle glide";

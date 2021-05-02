@@ -1,1 +1,1 @@
-var mnemonic = "crunch valley feature winter dry wage stamp trap ugly term expose fence";
+var mnemonic = "trip receive pass riot hawk smoke penalty offer airport return bamboo inner";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry elite media cannon clump pact deny double inspire enjoy divert wage";
+var mnemonic = "reopen curious year eager praise crowd idle door focus grape fold disorder";

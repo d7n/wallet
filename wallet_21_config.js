@@ -1,1 +1,1 @@
-var mnemonic = "festival lunar damage hedgehog enforce speed fence stand staff aspect spread hen";
+var mnemonic = "loyal option lamp glare dog iron member depend same box smart wrist";

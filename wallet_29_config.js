@@ -1,1 +1,1 @@
-var mnemonic = "fresh veteran economy raccoon action inmate glass olympic famous void require eager";
+var mnemonic = "monkey reform current top bitter hybrid want outdoor ride cement dove lesson";

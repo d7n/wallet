@@ -1,1 +1,1 @@
-var mnemonic = "into invite play seven lawn illness exit fix shallow empower genre fragile";
+var mnemonic = "cheap unaware genre measure jewel end volcano father crop when deposit tide";

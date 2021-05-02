@@ -1,1 +1,1 @@
-var mnemonic = "lunch fold puzzle army visit buffalo depend mechanic fit second switch stool";
+var mnemonic = "notable day develop slab worth axis lab suffer face venue bicycle toward";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion clarify close camp buffalo hamster gaze inform crew museum pigeon total";
+var mnemonic = "label seven oval organ round film sheriff honey snake invite garment squirrel";

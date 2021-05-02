@@ -1,1 +1,1 @@
-var mnemonic = "hour excuse liberty index ordinary tent much pioneer spare village promote exile";
+var mnemonic = "plate chaos photo try weekend coil soda tuition raise gorilla six hood";

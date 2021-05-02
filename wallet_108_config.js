@@ -1,1 +1,1 @@
-var mnemonic = "impulse sell reunion put blue tragic burden enable blur sick proud slow";
+var mnemonic = "town brown foot armed rule panther argue dress other april wrist notable";

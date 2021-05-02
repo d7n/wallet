@@ -1,1 +1,1 @@
-var mnemonic = "brave provide crawl auction leader inner believe play need clerk boring ribbon";
+var mnemonic = "pelican food seven cereal supply parade left exile divorce clip impose fox";

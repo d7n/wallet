@@ -1,1 +1,1 @@
-var mnemonic = "input letter position pizza choice quit radio siege confirm hire pitch prison";
+var mnemonic = "purchase shiver destroy crop purity snow sweet dash act copy forget lazy";

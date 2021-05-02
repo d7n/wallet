@@ -1,1 +1,1 @@
-var mnemonic = "piano more junk forum fruit liberty maximum panda submit market achieve nest";
+var mnemonic = "enforce omit drift earn home depend shoe tower electric catalog warrior oil";

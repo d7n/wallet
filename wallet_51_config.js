@@ -1,1 +1,1 @@
-var mnemonic = "cake melody dove helmet remove cancel loyal stick jelly ahead switch body";
+var mnemonic = "survey early glad weekend sunset suffer sock sorry sure twenty urban student";

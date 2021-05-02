@@ -1,1 +1,1 @@
-var mnemonic = "charge theme tag city shove suggest wage curve pony cart copy object";
+var mnemonic = "punch sweet work camp diet shallow film neck another street tourist ranch";

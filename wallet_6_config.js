@@ -1,1 +1,1 @@
-var mnemonic = "goat nest reunion phone salon car glare trash adult alley cream science";
+var mnemonic = "brick embrace open good funny bleak inspire broccoli peasant method curve chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "youth girl hybrid rural loud kiss mother attend rich wrap obtain fat";
+var mnemonic = "abstract waste target ancient slight deal sphere vital wealth vast spy school";

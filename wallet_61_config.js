@@ -1,1 +1,1 @@
-var mnemonic = "rural try just riot harsh tourist wool track raven usual witness endless";
+var mnemonic = "grant shy hold educate holiday kingdom result struggle vehicle deputy wisdom pledge";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy crater produce guess hybrid erode canvas cloth income depth discover nurse";
+var mnemonic = "theory toy hurry best movie onion few trigger motion above life science";

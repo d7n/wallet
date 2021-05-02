@@ -1,1 +1,1 @@
-var mnemonic = "figure riot fury acoustic tree sorry social raise inherit leader office scorpion";
+var mnemonic = "elite finger street civil walnut clay quality fade slight loan ahead blur";

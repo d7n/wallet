@@ -1,1 +1,1 @@
-var mnemonic = "click thought small electric jewel snack enrich green attitude lock appear fortune";
+var mnemonic = "wheat render scan express village photo muscle add knife cry piano endless";

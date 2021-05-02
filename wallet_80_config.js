@@ -1,1 +1,1 @@
-var mnemonic = "chaos loud fork force patient wolf suspect alarm hammer forget issue exhibit";
+var mnemonic = "animal ability humble master captain cargo spare tattoo powder creek pottery cup";

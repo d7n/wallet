@@ -1,1 +1,1 @@
-var mnemonic = "now skin blast example luxury orchard resemble carbon scale disease enemy lottery";
+var mnemonic = "danger clinic float repeat remain ecology fly deny urge fan vote private";

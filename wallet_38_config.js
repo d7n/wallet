@@ -1,1 +1,1 @@
-var mnemonic = "buffalo gift wheel entry gold shy wrist local install mountain devote crane";
+var mnemonic = "slow jealous easy decrease atom tragic vital identify drum evolve accuse nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "atom inherit isolate zero differ hurdle bind provide laundry key crater cabin";
+var mnemonic = "timber scorpion peace shoot fitness wine proof slender swap pelican ugly okay";

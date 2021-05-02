@@ -1,1 +1,1 @@
-var mnemonic = "chief liar flush repeat biology rifle trim novel void hill omit expire";
+var mnemonic = "immune marine trial dutch mercy alien praise prepare surround cruel amazing never";

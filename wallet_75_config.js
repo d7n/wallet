@@ -1,1 +1,1 @@
-var mnemonic = "burger artwork boost grid abuse before final uncover earth excite outer spot";
+var mnemonic = "veteran bridge helmet sound south love more elite answer machine motion sense";

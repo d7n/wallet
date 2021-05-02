@@ -1,1 +1,1 @@
-var mnemonic = "border put join appear offer behind charge reflect language bullet stool liquid";
+var mnemonic = "sausage bread turn answer sea bean isolate truck strike logic exit jar";

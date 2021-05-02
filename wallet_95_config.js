@@ -1,1 +1,1 @@
-var mnemonic = "foil raise purpose boring alter fade explain broken pyramid bachelor chuckle leave";
+var mnemonic = "screen coin sort manage task arm bike menu boat elephant owner celery";

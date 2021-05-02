@@ -1,1 +1,1 @@
-var mnemonic = "utility whisper knee patient science afford rescue solve setup night hard adult";
+var mnemonic = "summer shallow also enlist pilot juice cluster document slogan typical super tonight";

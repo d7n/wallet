@@ -1,1 +1,1 @@
-var mnemonic = "blue urban priority announce dance runway open lucky alter canyon long ethics";
+var mnemonic = "valve idea drill oak cat title worry purchase inmate grab burger urge";

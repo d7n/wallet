@@ -1,1 +1,1 @@
-var mnemonic = "picnic dress display lunch boy copper obey congress provide like episode century";
+var mnemonic = "already aerobic wolf afraid include banner minute park glory month club empty";

@@ -1,1 +1,1 @@
-var mnemonic = "census soap group crime settle collect frame royal assist leg visual siren";
+var mnemonic = "left ignore youth evoke divide faint please gap grit monster garment leave";

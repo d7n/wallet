@@ -1,1 +1,1 @@
-var mnemonic = "genuine child trap under express auto never rally december cause flash essay";
+var mnemonic = "unfair brand bridge become rookie south enroll all victory garlic kick flee";

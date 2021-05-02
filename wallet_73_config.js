@@ -1,1 +1,1 @@
-var mnemonic = "tomato shove margin dry giraffe fence other fantasy hero pet another inject";
+var mnemonic = "convince race antenna target huge liar tornado fluid try goddess lawsuit great";

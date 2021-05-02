@@ -1,1 +1,1 @@
-var mnemonic = "throw muscle van egg hour caution topic illness social balance boat issue";
+var mnemonic = "barrel asset adjust slender false west february wing slide awesome soda upset";

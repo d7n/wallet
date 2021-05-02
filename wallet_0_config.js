@@ -1,1 +1,1 @@
-var mnemonic = "patch glue increase basic force fan cushion tired found fold loyal cannon";
+var mnemonic = "primary extend leg warm slight label roast boat weapon either alpha road";

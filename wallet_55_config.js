@@ -1,1 +1,1 @@
-var mnemonic = "dynamic later cancel thank delay certain menu scatter slush verb rifle ready";
+var mnemonic = "near clean swallow travel crystal nephew embrace dutch deliver identify noble lucky";

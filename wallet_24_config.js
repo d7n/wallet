@@ -1,1 +1,1 @@
-var mnemonic = "apple expect torch duty rescue outdoor slab awful attack limit buyer combine";
+var mnemonic = "device nation tape silly collect fat mobile charge gloom trash energy father";

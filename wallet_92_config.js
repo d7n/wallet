@@ -1,1 +1,1 @@
-var mnemonic = "wave human forward access manage fold rigid melody service broccoli present betray";
+var mnemonic = "coast suggest disagree name lab ignore mistake mystery undo hub myth need";

@@ -1,1 +1,1 @@
-var mnemonic = "undo crucial flee snake length affair access fatal hub camp essay hill";
+var mnemonic = "hurdle pave where mushroom actual keep junior stem matrix physical among manage";

@@ -1,1 +1,1 @@
-var mnemonic = "issue bleak beauty sauce click dumb patch choice hour unable token arch";
+var mnemonic = "close deliver furnace lazy custom web picture mom canoe pink giraffe rough";

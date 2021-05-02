@@ -1,1 +1,1 @@
-var mnemonic = "build unveil issue hunt breeze shuffle soup glue hill unlock flame sentence";
+var mnemonic = "combine sketch impact bicycle bulb neglect display note upper sibling crush above";

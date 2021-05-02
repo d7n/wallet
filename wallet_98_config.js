@@ -1,1 +1,1 @@
-var mnemonic = "scene buyer steel mom behave cram merit giggle uncle fault census helmet";
+var mnemonic = "pudding camera audit drive brand jump notable warm topic trigger siren pistol";

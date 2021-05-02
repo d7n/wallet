@@ -1,1 +1,1 @@
-var mnemonic = "mechanic pretty margin company close disease bracket retreat album pet box pepper";
+var mnemonic = "chase range capital lift ripple poet turtle limb video bike win online";

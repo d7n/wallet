@@ -1,1 +1,1 @@
-var mnemonic = "tree pipe narrow author bargain series wait crumble inflict length found mystery";
+var mnemonic = "alter together scatter pair sock ensure convince bomb wool tail dash loud";

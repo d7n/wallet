@@ -1,1 +1,1 @@
-var mnemonic = "month volcano plug trumpet world dial jealous keen stamp patch tube slab";
+var mnemonic = "jaguar clown kid circle immune exclude fame sorry proud cruise firm strong";

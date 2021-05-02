@@ -1,1 +1,1 @@
-var mnemonic = "baby announce drill sudden giant dutch differ hamster gallery diet ladder harbor";
+var mnemonic = "couch battle zero hospital danger peasant wheel pair arrange insect mushroom noise";

@@ -1,1 +1,1 @@
-var mnemonic = "scare electric damage stadium since never agent pink coin inject ahead hour";
+var mnemonic = "possible blind lion chest possible fresh social belt whisper save glance used";

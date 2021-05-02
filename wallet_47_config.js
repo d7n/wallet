@@ -1,1 +1,1 @@
-var mnemonic = "picnic point waste guilt despair win useless foot chalk spike omit front";
+var mnemonic = "fatal gasp grant crush tank bar meat prize skate pride dial someone";

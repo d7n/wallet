@@ -1,1 +1,1 @@
-var mnemonic = "absurd ostrich deputy chase echo embark primary damage dish century have then";
+var mnemonic = "arctic busy tape multiply attract bridge palm result promote coconut dragon scheme";

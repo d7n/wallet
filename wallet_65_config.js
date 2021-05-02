@@ -1,1 +1,1 @@
-var mnemonic = "pupil gauge page help sting hope vivid oblige cereal mention collect ordinary";
+var mnemonic = "language disagree rose emotion hire around salmon this neglect liquid modify release";

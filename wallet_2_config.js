@@ -1,1 +1,1 @@
-var mnemonic = "adapt mystery dirt multiply frost capable flat order outside year edge actual";
+var mnemonic = "winter approve suspect recall bracket stay disease alone company problem flip ask";

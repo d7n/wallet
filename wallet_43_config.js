@@ -1,1 +1,1 @@
-var mnemonic = "correct trophy carbon rival link autumn recipe merit occur speed consider beauty";
+var mnemonic = "disease shiver hospital ensure nominee sentence menu aspect fade lunch sister waste";

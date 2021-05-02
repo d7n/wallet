@@ -1,1 +1,1 @@
-var mnemonic = "shrimp artwork fluid exit ozone doll excuse myself border tail priority danger";
+var mnemonic = "lift museum soul syrup glide sorry cup weasel brain wrong furnace like";

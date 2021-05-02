@@ -1,1 +1,1 @@
-var mnemonic = "soft city film blame cheap mammal mercy announce this vast object drink";
+var mnemonic = "flame program recall empty stumble spice come tide foster divert token nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare obvious company damp easy spread cliff tower time release puzzle quantum";
+var mnemonic = "simple desk sustain foil balcony suggest range prison cushion hockey sustain better";

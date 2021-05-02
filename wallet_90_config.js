@@ -1,1 +1,1 @@
-var mnemonic = "dynamic drift theme general raise tomato rebel tank moment boring else morning";
+var mnemonic = "unlock place marriage subway acquire adapt cheese surge galaxy cannon check hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "match company office flush dizzy square shine prison accident verify tape salmon";
+var mnemonic = "embrace number sketch cannon battle salute fat near dignity glad soldier amateur";

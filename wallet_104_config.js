@@ -1,1 +1,1 @@
-var mnemonic = "elder elite toward hedgehog erase pony work alert case zone spoil wink";
+var mnemonic = "narrow mirror energy tenant half whip admit victory language metal dish private";

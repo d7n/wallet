@@ -1,1 +1,1 @@
-var mnemonic = "strong kidney nerve name toilet dove fragile cheese effort absorb bulb inquiry";
+var mnemonic = "dwarf noble whisper panel reject novel click warrior slab heart agree cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "original physical holiday idle area invite blouse auction account cry spring return";
+var mnemonic = "eager banner antenna deputy relief roast setup inform scene inform eye car";

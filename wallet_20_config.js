@@ -1,1 +1,1 @@
-var mnemonic = "will describe final extend baby once survey trigger announce van cabin submit";
+var mnemonic = "decade pony flavor top soccer discover million note early alpha kitchen forest";

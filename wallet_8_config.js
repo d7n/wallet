@@ -1,1 +1,1 @@
-var mnemonic = "width property room code improve impact annual combine behind tomato absent young";
+var mnemonic = "common nephew sniff certain nut giant rate best donor immense elder health";

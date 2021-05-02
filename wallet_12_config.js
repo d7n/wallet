@@ -1,1 +1,1 @@
-var mnemonic = "glove model chuckle mask submit clever priority betray peanut scissors excess that";
+var mnemonic = "mimic tank funny pattern wonder burst shop strike grant copper venue use";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd rubber hire hello spell pistol lounge foil crew sunny breeze vague";
+var mnemonic = "dynamic domain achieve hazard neutral bubble brother parent upper dolphin burden beach";

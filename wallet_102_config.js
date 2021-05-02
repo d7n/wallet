@@ -1,1 +1,1 @@
-var mnemonic = "warfare treat sister taste crucial laptop awesome yellow imitate captain involve hat";
+var mnemonic = "deposit cover swap can shop tiny rude manual web fatal fashion fashion";

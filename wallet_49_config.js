@@ -1,1 +1,1 @@
-var mnemonic = "lyrics struggle arrange noble thing omit certain journey gauge scene curtain entry";
+var mnemonic = "enlist tape amazing carbon neglect allow guard toe matter scan curtain winter";

@@ -1,1 +1,1 @@
-var mnemonic = "evidence ghost potato pet wrestle van bid version over depth category art";
+var mnemonic = "child economy ordinary system theory jacket exit insect grit icon defy aisle";

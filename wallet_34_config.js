@@ -1,1 +1,1 @@
-var mnemonic = "nice motion harvest crucial already sell symbol neither system company huge window";
+var mnemonic = "vacuum since senior empty spawn thank cute chaos rabbit margin above young";

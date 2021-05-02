@@ -1,1 +1,1 @@
-var mnemonic = "palm debris margin group firm world social finger gown eager conduct remember";
+var mnemonic = "moral stomach danger worth return cinnamon mouse donor capital will mixture keep";

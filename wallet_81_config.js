@@ -1,1 +1,1 @@
-var mnemonic = "genuine razor pottery someone devote holiday exclude ski clap balance visual decrease";
+var mnemonic = "still kitten vacant burst burst word holiday pizza mutual dish flip proud";

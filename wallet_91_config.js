@@ -1,1 +1,1 @@
-var mnemonic = "rhythm unable moment setup vintage weekend wrong abuse glad crazy eager coach";
+var mnemonic = "neither position despair bamboo night orchard predict sort sun gallery never coin";

@@ -1,1 +1,1 @@
-var mnemonic = "retreat caught lady blossom title acquire benefit update pretty cinnamon illness edit";
+var mnemonic = "draw engine bullet summer chapter learn spare pave unit cost enough cherry";
