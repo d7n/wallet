@@ -1,1 +1,1 @@
-var mnemonic = "first hunt become spin owner radio body raccoon chief member impulse upon";
+var mnemonic = "spawn bubble such spike arrest quality frost truck point satoshi wink luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp say measure fresh cycle giraffe drink bicycle aspect student page excess";
+var mnemonic = "hollow earth draft consider gallery stove rural pear gather evolve connect various";

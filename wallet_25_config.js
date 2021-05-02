@@ -1,1 +1,1 @@
-var mnemonic = "shaft unit educate seminar bar tone desk system viable judge silly token";
+var mnemonic = "leaf turtle figure believe bone isolate room once govern private innocent priority";

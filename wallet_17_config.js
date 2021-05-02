@@ -1,1 +1,1 @@
-var mnemonic = "achieve desert wasp nice near salmon hundred pulse expire verb evoke opera";
+var mnemonic = "educate cherry police forward pause relax live box warm junk squeeze ready";

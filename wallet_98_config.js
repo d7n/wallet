@@ -1,1 +1,1 @@
-var mnemonic = "clump scrub notable session absorb dawn zoo pattern casino fog come answer";
+var mnemonic = "spin raise tape capital bubble mail kidney theme rotate sock little file";

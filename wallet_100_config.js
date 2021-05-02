@@ -1,1 +1,1 @@
-var mnemonic = "legal syrup kiss excess must endorse shine similar ticket network sorry trip";
+var mnemonic = "zero capable dolphin paper arctic dice second lunch poverty cup innocent west";

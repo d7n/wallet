@@ -1,1 +1,1 @@
-var mnemonic = "assault diesel craft useless accident weasel often burst sister onion light climb";
+var mnemonic = "ribbon december museum bring tuna badge file moon broccoli photo jaguar version";

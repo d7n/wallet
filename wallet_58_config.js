@@ -1,1 +1,1 @@
-var mnemonic = "police cherry trip spoil hunt clever under long again vocal shoot divert";
+var mnemonic = "elevator imitate injury ketchup wisdom skill diary surprise gain ostrich arrest stem";

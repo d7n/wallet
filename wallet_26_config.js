@@ -1,1 +1,1 @@
-var mnemonic = "screen door unable bracket soccer lift ugly penalty wage approve fence sudden";
+var mnemonic = "client bike organ laptop face eagle during twice lawn buddy turkey minor";

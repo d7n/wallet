@@ -1,1 +1,1 @@
-var mnemonic = "dragon begin cover phone woman force glad immense recycle become matter tennis";
+var mnemonic = "winner abuse pipe velvet coconut lunar total average local injury mountain liberty";

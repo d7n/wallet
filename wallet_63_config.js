@@ -1,1 +1,1 @@
-var mnemonic = "spring hat nice fringe control chunk three glory flush enlist grain daring";
+var mnemonic = "blur book rack sort veteran test reduce mind control cruel slide install";

@@ -1,1 +1,1 @@
-var mnemonic = "brick element unusual able include aerobic calm pigeon unhappy minor horse choice";
+var mnemonic = "bright loyal priority ketchup street decline hat must shoulder have key moment";

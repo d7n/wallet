@@ -1,1 +1,1 @@
-var mnemonic = "sibling family flat shock shine indicate truly confirm dizzy license knife worth";
+var mnemonic = "brisk ritual another usual network floor claw mosquito clog basic rapid plunge";

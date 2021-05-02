@@ -1,1 +1,1 @@
-var mnemonic = "idle curious innocent loan tuition solution snow exhaust butter pond minimum fence";
+var mnemonic = "where ripple grid gate practice hungry journey there borrow april impact warm";

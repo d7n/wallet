@@ -1,1 +1,1 @@
-var mnemonic = "husband keep arrow jeans crouch lyrics cactus hawk bird review young prefer";
+var mnemonic = "file enhance below width vault frame any wave change bamboo expect certain";

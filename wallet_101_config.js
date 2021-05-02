@@ -1,1 +1,1 @@
-var mnemonic = "target wood memory humor wall slam beef what current leaf ahead lecture";
+var mnemonic = "risk escape please jewel jaguar lazy laptop physical expand fringe pink owner";

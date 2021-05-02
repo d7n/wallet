@@ -1,1 +1,1 @@
-var mnemonic = "hungry food tower boost oyster vicious close couch spike rotate coast artefact";
+var mnemonic = "where quote summer tape random bonus pulp airport gym agree slight divert";

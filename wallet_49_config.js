@@ -1,1 +1,1 @@
-var mnemonic = "moment solid coil person clog target monitor zebra carpet duty offer sad";
+var mnemonic = "milk only sea rate render wire foster spend virtual now exercise frequent";

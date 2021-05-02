@@ -1,1 +1,1 @@
-var mnemonic = "fossil sunny pupil hazard oven unlock brief bundle caught elite bean major";
+var mnemonic = "engine car mesh claim submit admit stage notable script body shove come";

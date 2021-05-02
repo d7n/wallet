@@ -1,1 +1,1 @@
-var mnemonic = "axis conduct sting put anger engage dish alpha double subject noble rule";
+var mnemonic = "fetch acid clown loyal gift lyrics pyramid wedding surround dice dash grass";

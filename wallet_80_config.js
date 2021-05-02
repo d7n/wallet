@@ -1,1 +1,1 @@
-var mnemonic = "great father sniff diary mom border clarify loan undo alien stomach bitter";
+var mnemonic = "bulb attract march correct october air accuse payment gym inquiry language corn";

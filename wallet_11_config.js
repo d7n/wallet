@@ -1,1 +1,1 @@
-var mnemonic = "brick fresh punch pond library kind lottery arctic holiday special large jar";
+var mnemonic = "kid tumble drive bulk small search caught adapt use kingdom blame guess";

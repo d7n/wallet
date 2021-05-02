@@ -1,1 +1,1 @@
-var mnemonic = "sugar lounge baby fade change hammer december inner hockey brisk middle fuel";
+var mnemonic = "host famous foam junk whisper that embrace nation bargain creek alley tonight";

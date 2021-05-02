@@ -1,1 +1,1 @@
-var mnemonic = "post now river inquiry double improve piece always math spirit pulse document";
+var mnemonic = "mesh safe round acid discover also timber never unable decide beef baby";

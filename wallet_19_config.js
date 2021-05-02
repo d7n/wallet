@@ -1,1 +1,1 @@
-var mnemonic = "grab suffer then supply people wide used debris olympic riot detect update";
+var mnemonic = "someone parade enroll dismiss defy fantasy panther bitter right ocean deliver reform";

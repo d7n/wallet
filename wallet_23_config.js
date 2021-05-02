@@ -1,1 +1,1 @@
-var mnemonic = "cigar crowd detail develop hawk inner sphere mosquito series oyster cloud brisk";
+var mnemonic = "source mule economy trip wire magnet loan square auction welcome cherry tomorrow";

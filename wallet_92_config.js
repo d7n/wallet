@@ -1,1 +1,1 @@
-var mnemonic = "curve already this learn still impulse village razor sad squirrel bronze seven";
+var mnemonic = "swift innocent palm frost nest awful coral bulb quick scrub peace april";

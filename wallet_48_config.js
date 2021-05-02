@@ -1,1 +1,1 @@
-var mnemonic = "jungle pony wage hurt fat robot column cabin certain glow mushroom good";
+var mnemonic = "humor evoke scorpion dove upgrade common cost recycle satoshi crumble model feed";

@@ -1,1 +1,1 @@
-var mnemonic = "cream trial flight salute diesel hospital potato credit prize system alien mechanic";
+var mnemonic = "solar design chalk unfair grape target notable local chief impulse solution can";

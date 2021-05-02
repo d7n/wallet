@@ -1,1 +1,1 @@
-var mnemonic = "typical cable approve boring helmet hunt someone good agent stand pond develop";
+var mnemonic = "exact oil wrong jeans august fame runway crush man nominee cute list";

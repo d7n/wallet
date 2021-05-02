@@ -1,1 +1,1 @@
-var mnemonic = "speed amateur syrup subway appear achieve merry purpose odor special ready walk";
+var mnemonic = "crane sea electric ahead glove quick term boost antique labor right alien";

@@ -1,1 +1,1 @@
-var mnemonic = "above oil execute emotion panic donkey fix pear fat style panel leg";
+var mnemonic = "rescue ethics minor planet situate gym table excess paddle trade actual caught";

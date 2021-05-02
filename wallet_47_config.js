@@ -1,1 +1,1 @@
-var mnemonic = "turkey mass life buffalo curtain slush morning anger genre olympic violin wet";
+var mnemonic = "side option web define supreme decrease trend good learn cigar index heavy";

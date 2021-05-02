@@ -1,1 +1,1 @@
-var mnemonic = "boss roof elder author fence garbage one dwarf verify shield joy onion";
+var mnemonic = "stand wise pledge leg damp best palace across close road rack involve";

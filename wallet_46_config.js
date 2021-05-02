@@ -1,1 +1,1 @@
-var mnemonic = "improve squeeze ahead artefact can alter join monkey output hundred edge nephew";
+var mnemonic = "way quarter circle country sibling element green slender deputy enough eternal breeze";

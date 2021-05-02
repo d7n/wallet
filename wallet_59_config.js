@@ -1,1 +1,1 @@
-var mnemonic = "unaware claw climb same inform series conduct glass scissors cruise wisdom search";
+var mnemonic = "mixed drama october game army view river say flee enrich music script";

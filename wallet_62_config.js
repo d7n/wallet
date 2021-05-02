@@ -1,1 +1,1 @@
-var mnemonic = "pencil gasp mandate brand lobster rather general tissue walnut intact raise ridge";
+var mnemonic = "stage deny cigar admit question boat slim involve amazing direct scare other";

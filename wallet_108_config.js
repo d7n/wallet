@@ -1,1 +1,1 @@
-var mnemonic = "original violin interest discover slice canal define deposit ghost caught alien arena";
+var mnemonic = "eye little plunge fee depart pudding fatigue naive endless flip eight make";

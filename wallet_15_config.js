@@ -1,1 +1,1 @@
-var mnemonic = "subject bright shoot quit minimum rotate avoid journey surge melody treat coconut";
+var mnemonic = "effort welcome fan sleep fish hungry either side cabin expect plastic hurdle";

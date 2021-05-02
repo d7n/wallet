@@ -1,1 +1,1 @@
-var mnemonic = "buzz video snow script useful plate scare lemon token green maid eye";
+var mnemonic = "debris avoid orbit gap wealth congress pioneer guitar legend light bacon brother";

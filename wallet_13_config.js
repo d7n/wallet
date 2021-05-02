@@ -1,1 +1,1 @@
-var mnemonic = "exotic marble exercise diary away dynamic jar girl real mom learn switch";
+var mnemonic = "swamp law rebuild clump peanut motion know margin dog letter napkin always";

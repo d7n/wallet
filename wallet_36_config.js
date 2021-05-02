@@ -1,1 +1,1 @@
-var mnemonic = "sibling end torch pottery describe ski sponsor salad brisk nerve noise dose";
+var mnemonic = "blossom toddler witness web piece put amateur science example badge armed memory";

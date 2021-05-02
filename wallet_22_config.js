@@ -1,1 +1,1 @@
-var mnemonic = "upgrade burst away surround air spring reflect album color wood cigar spoon";
+var mnemonic = "glass mom board fit firm amount swamp hamster action cart actual clarify";

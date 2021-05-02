@@ -1,1 +1,1 @@
-var mnemonic = "upgrade tortoise appear grid hint wage castle census suggest olympic abuse august";
+var mnemonic = "cereal junior movie level angry shop level cage slush garlic erupt tree";

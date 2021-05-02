@@ -1,1 +1,1 @@
-var mnemonic = "rookie cat heavy shy current dream feature absorb breeze produce hurry host";
+var mnemonic = "balcony hair start blue stamp bring shoe sample farm unfair amazing casual";

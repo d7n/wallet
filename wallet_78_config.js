@@ -1,1 +1,1 @@
-var mnemonic = "curious opinion castle sheriff exhibit exercise cat impact chest security nation opinion";
+var mnemonic = "between fix police rent cluster resist olympic catalog hint include beyond dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "move imitate lion plastic gain case choice treat cherry doll gate gauge";
+var mnemonic = "tenant surprise gentle vapor sketch cherry deal trial problem midnight wedding dish";

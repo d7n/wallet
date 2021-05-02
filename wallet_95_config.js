@@ -1,1 +1,1 @@
-var mnemonic = "bench twenty couch expect flag round custom grant digital upgrade coconut allow";
+var mnemonic = "ask power impact erode neglect shell exist current deer custom fresh crack";

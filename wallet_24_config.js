@@ -1,1 +1,1 @@
-var mnemonic = "near foil kiwi stool angle pistol resist reopen top drop food electric";
+var mnemonic = "nothing kite fun session order burden verify garage update absent million velvet";

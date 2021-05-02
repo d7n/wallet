@@ -1,1 +1,1 @@
-var mnemonic = "lamp envelope lock patient ice cancel fitness arrive strong decorate stove leopard";
+var mnemonic = "cinnamon either tuition ball fold dish above dentist need skin surge special";

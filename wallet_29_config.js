@@ -1,1 +1,1 @@
-var mnemonic = "erase lemon cram scheme cart coral chair remind canyon update tide gravity";
+var mnemonic = "rabbit pumpkin position measure tortoise sword disease spoil transfer gift report kingdom";

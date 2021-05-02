@@ -1,1 +1,1 @@
-var mnemonic = "veteran select merry organ that glimpse first surface item track journey bullet";
+var mnemonic = "snow believe company bubble armor honey endless elbow enrich fly fancy exhibit";

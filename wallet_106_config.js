@@ -1,1 +1,1 @@
-var mnemonic = "happy skirt lunch occur pyramid apart minute weekend flame west off exist";
+var mnemonic = "rate owner asthma diagram toward season coral group flock position filter tongue";

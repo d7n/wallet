@@ -1,1 +1,1 @@
-var mnemonic = "beyond flee sand main cigar seminar able donate room team dilemma nut";
+var mnemonic = "future neglect anger escape deposit athlete canal twelve load appear client grass";

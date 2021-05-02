@@ -1,1 +1,1 @@
-var mnemonic = "edge name fit very coil twice pretty daring hello erosion reopen champion";
+var mnemonic = "undo fringe alert moment recall decide blossom laundry novel mammal fence yard";

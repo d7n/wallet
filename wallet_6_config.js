@@ -1,1 +1,1 @@
-var mnemonic = "clever unveil holiday palace topple ensure possible leader engage quiz album require";
+var mnemonic = "garden shoe scrap brother fame cricket flip job unaware valve tone wise";

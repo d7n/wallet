@@ -1,1 +1,1 @@
-var mnemonic = "list submit retire blanket fat play immune immense alter stumble exile spin";
+var mnemonic = "bulk patient regret uncover similar scheme click empower repair bottom oval artist";

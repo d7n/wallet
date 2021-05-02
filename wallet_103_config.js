@@ -1,1 +1,1 @@
-var mnemonic = "warfare six safe acquire drama scatter demise save purchase pool deputy april";
+var mnemonic = "exact tornado donkey pear verify husband goat warm cycle staff spoon spell";

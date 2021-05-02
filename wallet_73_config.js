@@ -1,1 +1,1 @@
-var mnemonic = "fish come jar dune expect ship grit exhaust brief clinic color spoon";
+var mnemonic = "urge main steel card snap regret glare salute world hawk cave crack";

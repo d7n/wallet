@@ -1,1 +1,1 @@
-var mnemonic = "hire today view galaxy addict tape flavor life abstract advance shrug object";
+var mnemonic = "involve auto throw banner menu impact deliver valid door split decade jaguar";

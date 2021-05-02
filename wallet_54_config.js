@@ -1,1 +1,1 @@
-var mnemonic = "evolve velvet source joke artwork mean junk pretty dolphin news utility wish";
+var mnemonic = "auction matrix mercy offer duck oil dust cushion vital flavor gentle adapt";

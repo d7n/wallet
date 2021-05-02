@@ -1,1 +1,1 @@
-var mnemonic = "impulse ice vanish couch still bamboo husband diet velvet chapter step hover";
+var mnemonic = "zebra you army artwork equip used finish cotton soap nasty road spoil";

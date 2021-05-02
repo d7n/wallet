@@ -1,1 +1,1 @@
-var mnemonic = "ivory civil plastic stereo indoor case taste item morning abstract bullet vague";
+var mnemonic = "cabbage employ vivid glare label multiply peasant lobster play bargain blanket ankle";

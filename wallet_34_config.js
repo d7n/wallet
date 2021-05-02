@@ -1,1 +1,1 @@
-var mnemonic = "market bomb congress claw divert popular valve supply photo render math blade";
+var mnemonic = "social dinner patch friend anchor fiscal best way story trumpet absorb aware";

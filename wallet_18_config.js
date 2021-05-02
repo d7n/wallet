@@ -1,1 +1,1 @@
-var mnemonic = "surge olympic earn cover bacon assist range february anchor act hawk dish";
+var mnemonic = "expire pitch seed hold blast educate copper trap meadow rescue obvious average";

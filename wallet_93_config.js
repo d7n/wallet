@@ -1,1 +1,1 @@
-var mnemonic = "devote fit umbrella broccoli glance slam purchase size virtual shield setup curve";
+var mnemonic = "wisdom path news burden public beauty energy result void clap hip try";

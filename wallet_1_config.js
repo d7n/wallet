@@ -1,1 +1,1 @@
-var mnemonic = "split gather fade lumber brisk machine ocean clutch jungle road main husband";
+var mnemonic = "habit simple frozen feel parent stairs final evolve neglect leader urban follow";

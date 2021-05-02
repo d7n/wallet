@@ -1,1 +1,1 @@
-var mnemonic = "fossil aunt leg crane tiger garlic grunt cup curious amazing shoot razor";
+var mnemonic = "pipe axis size panther cave flower panel ticket flush inject hour useful";

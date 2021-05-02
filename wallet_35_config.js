@@ -1,1 +1,1 @@
-var mnemonic = "table office double pride bronze donate festival nothing strike life purpose pioneer";
+var mnemonic = "buddy around fine ethics tiny property build float pencil service relax affair";

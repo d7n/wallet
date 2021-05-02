@@ -1,1 +1,1 @@
-var mnemonic = "basic festival puzzle museum front produce rude twice what reject pet label";
+var mnemonic = "mesh slim creek direct smoke scissors cause rhythm sudden aspect have price";

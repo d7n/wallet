@@ -1,1 +1,1 @@
-var mnemonic = "weasel gap audit excite huge economy novel draft ugly improve among distance";
+var mnemonic = "grace improve load bike skirt unit there arm couch into ankle slender";

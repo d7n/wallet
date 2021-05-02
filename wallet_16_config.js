@@ -1,1 +1,1 @@
-var mnemonic = "company exclude trick rely bus tail problem raven recipe oak note elbow";
+var mnemonic = "sure cute cart cloth assist crane better smooth barrel symbol empower soul";

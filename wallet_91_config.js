@@ -1,1 +1,1 @@
-var mnemonic = "split divert amazing indicate speed tired guide excuse online mass photo leisure";
+var mnemonic = "wear maximum process curtain fiction sort talent raise custom order weather quick";

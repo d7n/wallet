@@ -1,1 +1,1 @@
-var mnemonic = "deputy best ski small receive state fault barely multiply tackle spirit path";
+var mnemonic = "nominee miss cattle view flush stage ancient melt morning debris point forum";

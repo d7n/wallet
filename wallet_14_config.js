@@ -1,1 +1,1 @@
-var mnemonic = "gain matter main velvet burden kit brain sleep shoulder suspect betray few";
+var mnemonic = "tail hawk gold target wedding hunt insect absent feed blood follow vocal";

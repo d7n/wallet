@@ -1,1 +1,1 @@
-var mnemonic = "exile debris mango brown sugar retire jungle ensure bench pole aware release";
+var mnemonic = "diamond can shine inmate actual orbit prison wall detect fox isolate tilt";

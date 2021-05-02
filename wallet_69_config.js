@@ -1,1 +1,1 @@
-var mnemonic = "depend donkey actor leader helmet result abuse strong lab ankle same ginger";
+var mnemonic = "arrow doll fiber fan circle lawsuit camera arctic tissue remove farm champion";

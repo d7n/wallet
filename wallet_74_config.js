@@ -1,1 +1,1 @@
-var mnemonic = "march find pulp distance soup kitten viable mountain drink age wet shine";
+var mnemonic = "sweet lab trophy palm motor proof elegant benefit power balcony silly only";

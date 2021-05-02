@@ -1,1 +1,1 @@
-var mnemonic = "nurse carry safe grab blue math soldier armed become bridge stay mango";
+var mnemonic = "banner escape waste century magic stuff august pause mesh rose program multiply";

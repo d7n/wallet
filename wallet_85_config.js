@@ -1,1 +1,1 @@
-var mnemonic = "foil sausage foster face slogan ivory decline habit lady fold humble clarify";
+var mnemonic = "kidney twist address banner cereal soccer awful april toy combine atom fancy";

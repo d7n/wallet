@@ -1,1 +1,1 @@
-var mnemonic = "correct spare shoe regret zone cousin butter stock capital dial canyon cousin";
+var mnemonic = "primary divert hood tooth salt stairs sure entry leave father wash above";

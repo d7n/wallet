@@ -1,1 +1,1 @@
-var mnemonic = "noise ivory galaxy diamond canvas detect pudding mutual evidence airport whale riot";
+var mnemonic = "column riot engine matter execute material try fee diagram south old nose";

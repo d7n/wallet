@@ -1,1 +1,1 @@
-var mnemonic = "purse age detect outdoor daring salmon brand lumber order claim scorpion million";
+var mnemonic = "lawn sand summer crane used ripple weather doll rescue concert soft canvas";

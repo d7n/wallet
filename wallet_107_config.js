@@ -1,1 +1,1 @@
-var mnemonic = "return buzz trumpet toilet message dust silent soul arch animal visit idle";
+var mnemonic = "tornado puzzle random grid settle innocent biology adjust lab timber pudding tornado";

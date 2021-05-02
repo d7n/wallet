@@ -1,1 +1,1 @@
-var mnemonic = "retreat orphan horn sick wave win october busy below pupil elbow start";
+var mnemonic = "letter exchange allow spare gold attend satisfy tent frown convince cradle giggle";

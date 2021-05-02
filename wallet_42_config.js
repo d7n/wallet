@@ -1,1 +1,1 @@
-var mnemonic = "possible two almost urge area ready loop genre can final capable injury";
+var mnemonic = "visa rally asset bus extend cram hole scorpion spend crowd box size";

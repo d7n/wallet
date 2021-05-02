@@ -1,1 +1,1 @@
-var mnemonic = "dynamic rain arm float among city secret truly wild sense cinnamon rifle";
+var mnemonic = "quantum frozen claim quit exhibit marine blossom toddler refuse brief danger artist";

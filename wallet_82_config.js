@@ -1,1 +1,1 @@
-var mnemonic = "circle barrel pulse victory town lemon face junior welcome bundle typical despair";
+var mnemonic = "base lady toddler alcohol treat merit acquire party tide hurt bag resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "lady symbol correct degree paddle monkey knee wear stamp syrup country hamster";
+var mnemonic = "avocado detect impact reunion robust eye know topple sudden damage topic coyote";

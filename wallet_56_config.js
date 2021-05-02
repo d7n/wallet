@@ -1,1 +1,1 @@
-var mnemonic = "soap method thumb stone rail park one dwarf noble rose chunk blanket";
+var mnemonic = "give naive provide happy soap fee exist average wife vintage nest comfort";

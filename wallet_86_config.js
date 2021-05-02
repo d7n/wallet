@@ -1,1 +1,1 @@
-var mnemonic = "eight silly machine candy urge fitness retire apart axis odor taxi wing";
+var mnemonic = "swear village labor monkey pistol room example helmet happy misery pyramid menu";

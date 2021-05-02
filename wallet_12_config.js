@@ -1,1 +1,1 @@
-var mnemonic = "actress fine omit mind almost skirt urban perfect plunge example spring salute";
+var mnemonic = "almost high salt spice member sign client west guess accident shop winner";

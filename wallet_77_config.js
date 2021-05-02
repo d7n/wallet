@@ -1,1 +1,1 @@
-var mnemonic = "idle wash giant swift divorce what spider sadness crack real kiss pelican";
+var mnemonic = "account tackle veteran equip dash purchase gate express panic trend muscle speed";

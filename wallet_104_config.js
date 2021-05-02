@@ -1,1 +1,1 @@
-var mnemonic = "system desk glance begin across shoulder hurt author size economy find chef";
+var mnemonic = "use fire panda trial refuse clock soup apple vacuum armed buffalo mad";

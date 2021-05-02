@@ -1,1 +1,1 @@
-var mnemonic = "spend basket giggle gown crash month body arrange clarify visa hire online";
+var mnemonic = "rib exile fox security december snake critic surround pass clap country virtual";
