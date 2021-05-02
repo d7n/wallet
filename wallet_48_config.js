@@ -1,1 +1,1 @@
-var mnemonic = "blade flush royal culture resist consider ugly stuff thrive title foam parade";
+var mnemonic = "rate allow pyramid hold essay over trade resist exchange grain miracle alpha";

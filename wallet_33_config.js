@@ -1,1 +1,1 @@
-var mnemonic = "diagram hurry sauce give exercise cradle jazz engine body inhale armed circle";
+var mnemonic = "mobile solar liar laundry almost kiss midnight slot lonely cat puzzle pitch";

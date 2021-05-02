@@ -1,1 +1,1 @@
-var mnemonic = "floor antique unable people stereo income range raw deposit sauce buffalo life";
+var mnemonic = "frame obscure token exhaust joy trophy seed auto tag basic scrap supreme";

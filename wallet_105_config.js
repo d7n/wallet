@@ -1,1 +1,1 @@
-var mnemonic = "waste champion breeze solve rhythm direct cost shove hen dune stand antique";
+var mnemonic = "receive giant choice member thunder frost figure hand bitter diary vague session";

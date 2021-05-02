@@ -1,1 +1,1 @@
-var mnemonic = "destroy awake inspire occur bean hockey view tissue coffee box stairs fitness";
+var mnemonic = "work much raven ivory range outer pilot minor apart lyrics mechanic truck";

@@ -1,1 +1,1 @@
-var mnemonic = "dream knife door picture embark acoustic garlic fan develop crazy throw round";
+var mnemonic = "ranch duty below curtain drastic endorse quiz slide catalog shift airport doll";

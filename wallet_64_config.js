@@ -1,1 +1,1 @@
-var mnemonic = "wet license drift library pause waste opinion rifle street more sunset later";
+var mnemonic = "figure dish trial purpose school vicious model churn cabbage ship race work";

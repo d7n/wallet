@@ -1,1 +1,1 @@
-var mnemonic = "stock laundry awful enlist network rival dog soup want cool creek soap";
+var mnemonic = "village carbon chaos rotate police pear sword fancy boost gate speak evidence";

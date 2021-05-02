@@ -1,1 +1,1 @@
-var mnemonic = "chief income clarify hundred advice scissors hip trial million long wagon typical";
+var mnemonic = "silver stereo ancient little lesson alcohol render soap notable print all frost";

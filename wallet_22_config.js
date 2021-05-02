@@ -1,1 +1,1 @@
-var mnemonic = "demand wage grid stem evoke quality strategy romance sentence vintage slab lyrics";
+var mnemonic = "sunny fiber glance model swap recycle finger envelope twelve sight banana dove";

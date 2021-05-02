@@ -1,1 +1,1 @@
-var mnemonic = "heart smoke damp isolate voice method smooth physical perfect enemy tube talent";
+var mnemonic = "humble soap indicate picnic bounce winter stomach obey report sport stereo trumpet";

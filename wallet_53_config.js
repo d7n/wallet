@@ -1,1 +1,1 @@
-var mnemonic = "then cancel right escape trade monster gossip hunt dune praise divert purity";
+var mnemonic = "gold sun mask travel vendor notable six estate come wave cliff cotton";

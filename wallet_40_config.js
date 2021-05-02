@@ -1,1 +1,1 @@
-var mnemonic = "curious strike answer include unfold own empower advance wolf apple slush diary";
+var mnemonic = "mixture warfare example cushion wool doll document connect trouble anchor civil tiny";

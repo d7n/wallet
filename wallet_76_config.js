@@ -1,1 +1,1 @@
-var mnemonic = "moment clinic worry auction off top safe option legend bike leader cage";
+var mnemonic = "noble wisdom payment extend unable patrol useless delay blush impact kiwi unfair";

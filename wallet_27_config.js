@@ -1,1 +1,1 @@
-var mnemonic = "example sunset human quote video auction slice guitar medal glove kite scheme";
+var mnemonic = "hill weather ask divorce notice casual used hazard hub victory alien chat";

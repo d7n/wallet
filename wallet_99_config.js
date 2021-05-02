@@ -1,1 +1,1 @@
-var mnemonic = "barrel draft leg behind trap access trade later jaguar treat milk purity";
+var mnemonic = "intact shuffle venue shadow catalog meat push prison rent diagram myth real";

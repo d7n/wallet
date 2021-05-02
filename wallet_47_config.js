@@ -1,1 +1,1 @@
-var mnemonic = "debris zone describe sunset hour result fetch wrong mountain require actual dust";
+var mnemonic = "trade indoor genius crucial pact horror dizzy puzzle legend pull essay manage";

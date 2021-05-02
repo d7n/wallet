@@ -1,1 +1,1 @@
-var mnemonic = "you general lounge quarter write wood amazing model improve act turtle merit";
+var mnemonic = "hidden provide leg balcony wet prepare describe sport surround argue entry wire";

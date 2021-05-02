@@ -1,1 +1,1 @@
-var mnemonic = "catch alone rescue tunnel casino soon illegal pear jaguar sock arm roast";
+var mnemonic = "cable type cherry key wet egg gap name plastic garden behind sort";

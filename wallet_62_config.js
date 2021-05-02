@@ -1,1 +1,1 @@
-var mnemonic = "wise own practice awesome shell help code decorate unable adult neutral skate";
+var mnemonic = "thumb west horse bulk alien awake favorite sunset deliver ribbon lesson begin";

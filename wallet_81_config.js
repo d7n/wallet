@@ -1,1 +1,1 @@
-var mnemonic = "estate ordinary have similar refuse dry term guilt absorb rug else nurse";
+var mnemonic = "salt know snap visa crane topple dream farm basket cage during fault";

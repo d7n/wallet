@@ -1,1 +1,1 @@
-var mnemonic = "unknown silk social erosion carry clarify road weird parade become limb powder";
+var mnemonic = "tray erupt latin blame wood fatal visit time satoshi horn alley across";

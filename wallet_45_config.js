@@ -1,1 +1,1 @@
-var mnemonic = "mandate double eternal fabric salute cradle hammer virus eight impose tell siren";
+var mnemonic = "program mix arm blouse crumble mutual gloom turn rotate spoil walk syrup";

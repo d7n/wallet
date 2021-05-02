@@ -1,1 +1,1 @@
-var mnemonic = "uniform honey reward lobster proud gown normal dragon despair burst fox enter";
+var mnemonic = "hurdle act warfare welcome offer abstract flip shield address high dilemma first";

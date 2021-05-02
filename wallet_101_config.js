@@ -1,1 +1,1 @@
-var mnemonic = "accident skin raw sphere that index tiny odor ozone meadow select stem";
+var mnemonic = "crunch road conduct load mirror foil pluck hammer air shallow arrive school";

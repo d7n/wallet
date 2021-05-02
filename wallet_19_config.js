@@ -1,1 +1,1 @@
-var mnemonic = "heavy claim post aisle flush laugh twenty depend idle boat suit attitude";
+var mnemonic = "lunar grass east salon ship praise crucial toast reflect zero arena dad";

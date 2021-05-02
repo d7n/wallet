@@ -1,1 +1,1 @@
-var mnemonic = "day layer science misery apple tape common copy into wise grape anxiety";
+var mnemonic = "dinner clutch brain holiday usage wedding ordinary quarter pottery outer repair law";

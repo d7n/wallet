@@ -1,1 +1,1 @@
-var mnemonic = "drum evidence wrap tilt convince relief raise final slam collect immune sadness";
+var mnemonic = "garlic explain aerobic zoo detect matter yard surprise title dust false boil";

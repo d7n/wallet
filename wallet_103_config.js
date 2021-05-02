@@ -1,1 +1,1 @@
-var mnemonic = "drill during slot also glory else misery submit coach make motion report";
+var mnemonic = "stuff siren luggage orchard depth disagree tiger gesture tiny turn sand energy";

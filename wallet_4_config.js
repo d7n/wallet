@@ -1,1 +1,1 @@
-var mnemonic = "alien promote earth caution ridge defy load polar seven prosper debate always";
+var mnemonic = "clutch vendor pottery claw explain settle slice cluster august urge slot middle";

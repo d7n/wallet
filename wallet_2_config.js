@@ -1,1 +1,1 @@
-var mnemonic = "grit stadium total train margin ancient disorder canvas scrub screen evil leaf";
+var mnemonic = "ginger teach smile tuition mass thrive mix sand catalog screen cigar august";

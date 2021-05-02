@@ -1,1 +1,1 @@
-var mnemonic = "keep lens twist crane valve remove space push supreme course awful explain";
+var mnemonic = "absorb extend write kind across bamboo kangaroo antenna identify defy silver token";

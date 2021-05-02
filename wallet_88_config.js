@@ -1,1 +1,1 @@
-var mnemonic = "toe voyage spatial pause heavy decide proof peasant boat wheel dog actress";
+var mnemonic = "goddess promote fog mutual chalk tired just ocean anchor test table barrel";

@@ -1,1 +1,1 @@
-var mnemonic = "rebuild magnet junk resist saddle swim document various sail sort banner yellow";
+var mnemonic = "doctor lock stand minimum tunnel essay wrist teach custom ticket swing bid";

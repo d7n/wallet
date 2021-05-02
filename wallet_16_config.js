@@ -1,1 +1,1 @@
-var mnemonic = "polar very engine buyer globe title coast master knock airport impose loud";
+var mnemonic = "light book vault infant kick pet catch soft leader farm empty busy";

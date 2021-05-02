@@ -1,1 +1,1 @@
-var mnemonic = "custom process jelly hammer zebra off satisfy gentle melody civil timber summer";
+var mnemonic = "inject ramp latin expect marine round trip force coyote because taxi knee";

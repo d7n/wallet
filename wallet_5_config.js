@@ -1,1 +1,1 @@
-var mnemonic = "bacon exit left world toe duty renew height later west ride manage";
+var mnemonic = "smile when crumble neglect all place foot frequent dumb fee image tide";

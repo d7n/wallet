@@ -1,1 +1,1 @@
-var mnemonic = "iron agent strong auction enforce month scan couch hole mosquito brave above";
+var mnemonic = "purity used hidden rose manage ugly hunt deputy unveil vibrant jaguar gap";

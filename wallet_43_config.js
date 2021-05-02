@@ -1,1 +1,1 @@
-var mnemonic = "rose quit october tonight party submit mail sugar height deal sudden fortune";
+var mnemonic = "frame twist baby cousin toast cruise attitude stove limit spice boost judge";

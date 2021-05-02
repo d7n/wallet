@@ -1,1 +1,1 @@
-var mnemonic = "tip suspect online rack gauge carry axis exact heavy dad farm dice";
+var mnemonic = "sick sudden banner number fabric screen festival dizzy pledge profit insect benefit";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic reduce solution wood burden arch assault dash fiction firm melt bleak";
+var mnemonic = "twelve real sentence health galaxy crunch tone source slow decrease dance breeze";

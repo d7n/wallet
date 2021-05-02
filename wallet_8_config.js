@@ -1,1 +1,1 @@
-var mnemonic = "addict clean toilet potato patch pretty mimic sign asset outer slim combine";
+var mnemonic = "melody exile advance burden already pelican target scorpion misery pair mixed antique";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve until initial creek round senior certain salute soup piece tuna worth";
+var mnemonic = "state lumber damp alone modify video display infant dress happy turn caution";

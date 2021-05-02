@@ -1,1 +1,1 @@
-var mnemonic = "core theme hub truly romance maid retreat you plunge boss ghost enemy";
+var mnemonic = "trouble pistol harvest impact labor hair exotic hard foot scissors when lawn";

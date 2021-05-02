@@ -1,1 +1,1 @@
-var mnemonic = "debris quarter pigeon correct repeat smile replace kick peace vast wide huge";
+var mnemonic = "panel equal bridge gesture modify hundred unveil chase cost scale dad debris";

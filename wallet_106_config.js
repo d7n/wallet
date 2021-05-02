@@ -1,1 +1,1 @@
-var mnemonic = "modify nuclear rude trend lawn edge hedgehog omit turtle audit sense dragon";
+var mnemonic = "fitness cat cause cement modify model cargo cliff doctor phone put tube";

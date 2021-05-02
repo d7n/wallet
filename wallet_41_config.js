@@ -1,1 +1,1 @@
-var mnemonic = "floor icon lion name bag sleep find deputy plug apart convince purse";
+var mnemonic = "move radio chase north onion ten media palm pulp crash quiz recipe";

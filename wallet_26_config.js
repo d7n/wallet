@@ -1,1 +1,1 @@
-var mnemonic = "neither enforce start actor ice future entire can bargain cradle rude tool";
+var mnemonic = "beauty lake wolf scheme cherry panel legal order wheel boost impact decade";

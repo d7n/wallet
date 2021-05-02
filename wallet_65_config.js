@@ -1,1 +1,1 @@
-var mnemonic = "budget release celery desert enemy idea retire fox balance plunge busy first";
+var mnemonic = "pudding visa capital romance own cupboard draft vanish parrot furnace mesh pitch";

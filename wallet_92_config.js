@@ -1,1 +1,1 @@
-var mnemonic = "ridge obvious sand oval trade input bachelor paper crouch globe truth indoor";
+var mnemonic = "globe burden book cage number gas finger bread endorse little festival unit";

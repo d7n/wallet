@@ -1,1 +1,1 @@
-var mnemonic = "public nothing slight carry guide negative joke pioneer diamond south sample abuse";
+var mnemonic = "age design word wisdom junior core rebuild impose clap minute post decade";

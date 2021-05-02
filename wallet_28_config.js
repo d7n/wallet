@@ -1,1 +1,1 @@
-var mnemonic = "dutch uncover upgrade sail hungry claw side mass jeans income dumb hedgehog";
+var mnemonic = "reform topic fitness subway fancy social color north bean wide more flight";

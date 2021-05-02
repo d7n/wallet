@@ -1,1 +1,1 @@
-var mnemonic = "category carpet pledge measure flight civil crunch garage defy mom mean index";
+var mnemonic = "claw decade camp leopard expect family pass access team require choice eyebrow";

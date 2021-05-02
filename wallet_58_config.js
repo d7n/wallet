@@ -1,1 +1,1 @@
-var mnemonic = "own kitchen arctic excuse input oak thought cushion write mobile scorpion endorse";
+var mnemonic = "clown subway bench stage pledge sunset demise choose twist unfold edit spot";

@@ -1,1 +1,1 @@
-var mnemonic = "palace nominee sausage clever adult same jelly park pledge milk swift elegant";
+var mnemonic = "invest reunion raven nerve funny insect choose solve pipe bullet assist flush";

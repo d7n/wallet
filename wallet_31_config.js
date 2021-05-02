@@ -1,1 +1,1 @@
-var mnemonic = "polar curve resist snow mule divorce ketchup merge illness engage amazing gap";
+var mnemonic = "fury loyal patient lemon sand slab hotel fade process upon slush avocado";

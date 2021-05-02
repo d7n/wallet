@@ -1,1 +1,1 @@
-var mnemonic = "awake spend much inmate art surround rocket potato stem spin seed law";
+var mnemonic = "theme frost swim main pass bottom hurt during glide crush comic stereo";

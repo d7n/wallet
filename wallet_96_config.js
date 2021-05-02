@@ -1,1 +1,1 @@
-var mnemonic = "hybrid transfer giggle scatter goose inside venture sing ignore shuffle stove cheese";
+var mnemonic = "submit fury danger slow reflect cherry laugh leader family deal skin fantasy";

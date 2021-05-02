@@ -1,1 +1,1 @@
-var mnemonic = "improve hero pause umbrella tobacco educate elder ankle bitter more broom universe";
+var mnemonic = "bulb trim load exotic system follow doll among update general document hair";

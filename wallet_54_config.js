@@ -1,1 +1,1 @@
-var mnemonic = "office surge brother other ticket glove crush damage liberty fade check random";
+var mnemonic = "lesson certain invite obscure guide when enroll liberty prison trade practice oyster";

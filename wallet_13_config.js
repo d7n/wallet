@@ -1,1 +1,1 @@
-var mnemonic = "ability tobacco walnut sheriff pink rule limb double elevator swallow fun edge";
+var mnemonic = "slogan spider error clean stomach vendor toe stock burden merit insane option";

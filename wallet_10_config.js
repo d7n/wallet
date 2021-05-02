@@ -1,1 +1,1 @@
-var mnemonic = "odor robot crew remind oblige ostrich nothing antique fitness elite foam depend";
+var mnemonic = "field element warm grief awkward boy just during distance reveal modify gauge";

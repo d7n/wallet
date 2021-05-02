@@ -1,1 +1,1 @@
-var mnemonic = "update salute blanket special income club question pitch gown salmon unique early";
+var mnemonic = "mutual snake box portion wink safe cloud sheriff wasp motion broken visit";

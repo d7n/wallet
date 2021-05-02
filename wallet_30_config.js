@@ -1,1 +1,1 @@
-var mnemonic = "phone urge mushroom ride property loop wasp destroy target honey treat damp";
+var mnemonic = "pact nephew lounge lock mad wonder true marble actor cage youth language";

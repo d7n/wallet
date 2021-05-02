@@ -1,1 +1,1 @@
-var mnemonic = "force orchard patch visit embark motion bean twin burst movie cradle great";
+var mnemonic = "month claw gather hundred joy scorpion tide blood grape useless caught melody";

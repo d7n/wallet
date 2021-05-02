@@ -1,1 +1,1 @@
-var mnemonic = "pet piece sibling twelve culture recipe forget replace disagree spirit churn clown";
+var mnemonic = "hub arrest describe bench moment away depend nut settle sibling meat quarter";

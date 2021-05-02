@@ -1,1 +1,1 @@
-var mnemonic = "own mechanic length dilemma regret omit rather oven grunt onion blur mirror";
+var mnemonic = "mango leader you unknown silver pelican famous tornado shield desk pave glass";

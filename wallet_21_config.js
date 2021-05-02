@@ -1,1 +1,1 @@
-var mnemonic = "present head scare witness below purse pull zoo daring rural fluid intact";
+var mnemonic = "auction tobacco vendor situate awesome hip metal lens build exchange walnut episode";

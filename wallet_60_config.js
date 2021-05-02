@@ -1,1 +1,1 @@
-var mnemonic = "advance road hub guard lift beauty spread proud dwarf carpet write wood";
+var mnemonic = "butter opera else gas airport shoe work stock issue recycle ready manage";

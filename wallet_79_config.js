@@ -1,1 +1,1 @@
-var mnemonic = "below inmate cliff harsh sweet fresh rack close plunge found outdoor canoe";
+var mnemonic = "fluid invest spice ask transfer earn biology then robot pet knife garden";

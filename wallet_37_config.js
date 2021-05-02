@@ -1,1 +1,1 @@
-var mnemonic = "fire canal spell enemy enough mosquito mother direct rule skirt regular south";
+var mnemonic = "purpose swap cost just feature steak market funny powder jealous obtain bring";

@@ -1,1 +1,1 @@
-var mnemonic = "decline family crane proof neutral narrow stick danger wrestle fiction access swing";
+var mnemonic = "help machine boost job chat brave mix genius alley image truck piano";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel fever detect language master oven mountain super seven coast answer vocal";
+var mnemonic = "defy marble clerk must planet finger into media film cheese oxygen else";

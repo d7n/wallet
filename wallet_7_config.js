@@ -1,1 +1,1 @@
-var mnemonic = "nature outdoor syrup cube practice cage section cheese danger broken bamboo involve";
+var mnemonic = "number prize subject sunny position enjoy intact bacon clock grab matter worth";

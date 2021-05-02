@@ -1,1 +1,1 @@
-var mnemonic = "present gym food rug square chimney home black foster top invite cousin";
+var mnemonic = "vicious uncover black rocket retire other audit wash super skull grant energy";

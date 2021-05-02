@@ -1,1 +1,1 @@
-var mnemonic = "select pizza isolate sea million brave arctic address mercy theory speak pulp";
+var mnemonic = "blade veteran news lock credit month recall say boost pretty valley sheriff";

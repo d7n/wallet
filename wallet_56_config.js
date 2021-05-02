@@ -1,1 +1,1 @@
-var mnemonic = "salad know blue sign royal mirror excuse metal brown foot text shell";
+var mnemonic = "seek amused kit volume inch furnace poem sustain celery dynamic disagree pass";

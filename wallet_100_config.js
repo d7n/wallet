@@ -1,1 +1,1 @@
-var mnemonic = "copper during screen utility crush wonder tone marine brand example belt place";
+var mnemonic = "crunch hill service tortoise cliff puzzle diesel hockey air adult drum sand";

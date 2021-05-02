@@ -1,1 +1,1 @@
-var mnemonic = "atom unhappy memory exotic current way adult frequent faculty number upgrade upper";
+var mnemonic = "aspect wrestle nephew repeat leader math explain setup urge photo coil economy";

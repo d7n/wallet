@@ -1,1 +1,1 @@
-var mnemonic = "derive attack autumn dish spot grit regret virus shy increase taste virus";
+var mnemonic = "identify correct lady brand claw sight consider page render essay pull leisure";

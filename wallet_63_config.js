@@ -1,1 +1,1 @@
-var mnemonic = "physical pole input replace cart poet arch zone twelve draw rally myth";
+var mnemonic = "since horse letter wish you clerk salon airport lizard then toss whisper";

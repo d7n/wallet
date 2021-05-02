@@ -1,1 +1,1 @@
-var mnemonic = "harbor boss cradle easily earth roof slide aim thrive scare scout angle";
+var mnemonic = "prevent finger lyrics stadium ramp tonight cereal void day capable ice word";

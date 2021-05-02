@@ -1,1 +1,1 @@
-var mnemonic = "truck smooth menu jacket still cry tennis floor dumb raw round thunder";
+var mnemonic = "dinosaur nuclear coconut decrease eagle dose potato art team harsh rapid tool";

@@ -1,1 +1,1 @@
-var mnemonic = "fence rabbit public staff farm body blouse cave entire van twenty toe";
+var mnemonic = "flower dentist comfort wonder company heart deal struggle east buddy fish impose";

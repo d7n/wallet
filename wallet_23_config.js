@@ -1,1 +1,1 @@
-var mnemonic = "home gap joke comfort tank skill thumb practice solution adjust flight juice";
+var mnemonic = "damp clown lend frog paddle bargain inject arrest agree deliver gain fade";

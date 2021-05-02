@@ -1,1 +1,1 @@
-var mnemonic = "frame game agent wreck either response broccoli labor gospel clay artist actor";
+var mnemonic = "end oyster divide slush regret agent farm hint dry age subway panel";

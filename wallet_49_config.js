@@ -1,1 +1,1 @@
-var mnemonic = "marble color essence blue foster defense blue festival risk gravity pattern merry";
+var mnemonic = "dress aspect know purity tube cave atom memory wedding shallow width head";
