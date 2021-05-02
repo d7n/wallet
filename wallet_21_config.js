@@ -1,1 +1,1 @@
-var mnemonic = "ribbon december museum bring tuna badge file moon broccoli photo jaguar version";
+var mnemonic = "erase pig settle slam train desk exercise member until drink chaos simple";

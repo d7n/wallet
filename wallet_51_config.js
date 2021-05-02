@@ -1,1 +1,1 @@
-var mnemonic = "exact oil wrong jeans august fame runway crush man nominee cute list";
+var mnemonic = "ocean mass street lizard sand treat mansion paper palace approve barrel track";

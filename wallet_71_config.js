@@ -1,1 +1,1 @@
-var mnemonic = "hollow earth draft consider gallery stove rural pear gather evolve connect various";
+var mnemonic = "bonus matter upgrade meadow couple picture gentle silver relief bargain gather tackle";

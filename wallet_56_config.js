@@ -1,1 +1,1 @@
-var mnemonic = "give naive provide happy soap fee exist average wife vintage nest comfort";
+var mnemonic = "exile floor legend nut amazing wheel enroll shrug tomorrow ostrich involve ivory";

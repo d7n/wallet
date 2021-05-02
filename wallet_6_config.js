@@ -1,1 +1,1 @@
-var mnemonic = "garden shoe scrap brother fame cricket flip job unaware valve tone wise";
+var mnemonic = "name exile move broken enforce fatal tissue apology scare festival bench board";

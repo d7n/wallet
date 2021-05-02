@@ -1,1 +1,1 @@
-var mnemonic = "lawn sand summer crane used ripple weather doll rescue concert soft canvas";
+var mnemonic = "confirm you account orbit occur now lobster sea reunion rapid utility file";

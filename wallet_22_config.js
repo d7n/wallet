@@ -1,1 +1,1 @@
-var mnemonic = "glass mom board fit firm amount swamp hamster action cart actual clarify";
+var mnemonic = "into secret wire base grit media quick illness world survey canyon keep";

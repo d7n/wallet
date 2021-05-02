@@ -1,1 +1,1 @@
-var mnemonic = "cereal junior movie level angry shop level cage slush garlic erupt tree";
+var mnemonic = "slam wise curtain section amazing bid tortoise evidence focus enrich deny pony";

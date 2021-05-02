@@ -1,1 +1,1 @@
-var mnemonic = "expire pitch seed hold blast educate copper trap meadow rescue obvious average";
+var mnemonic = "excess fever use cruel marine bachelor rail unaware beyond quote turtle banner";

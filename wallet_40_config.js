@@ -1,1 +1,1 @@
-var mnemonic = "brisk ritual another usual network floor claw mosquito clog basic rapid plunge";
+var mnemonic = "rose drift age include float domain admit reunion short friend plug fix";

@@ -1,1 +1,1 @@
-var mnemonic = "sure cute cart cloth assist crane better smooth barrel symbol empower soul";
+var mnemonic = "more useful limb situate office buzz result genuine deer paper ice offer";

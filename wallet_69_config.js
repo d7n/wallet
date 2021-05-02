@@ -1,1 +1,1 @@
-var mnemonic = "arrow doll fiber fan circle lawsuit camera arctic tissue remove farm champion";
+var mnemonic = "decorate crumble vivid park seminar blood food lock walk giant rubber brush";

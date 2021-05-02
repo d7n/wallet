@@ -1,1 +1,1 @@
-var mnemonic = "between fix police rent cluster resist olympic catalog hint include beyond dinner";
+var mnemonic = "menu obvious coyote midnight universe enhance walnut wedding harvest pizza note twenty";

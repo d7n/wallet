@@ -1,1 +1,1 @@
-var mnemonic = "cabbage employ vivid glare label multiply peasant lobster play bargain blanket ankle";
+var mnemonic = "clutch inspire sudden boss security blast nice game control fashion evoke capable";

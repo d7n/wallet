@@ -1,1 +1,1 @@
-var mnemonic = "judge tobacco acquire gun lift banner bird parrot original below opera alone";
+var mnemonic = "grace now fire kick mention occur give earth daughter solid cheap lawsuit";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue ethics minor planet situate gym table excess paddle trade actual caught";
+var mnemonic = "bunker frozen spatial recall spirit final excite asthma company child open three";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra you army artwork equip used finish cotton soap nasty road spoil";
+var mnemonic = "deal mixed flight peanut modify three census rent hurt price donkey way";

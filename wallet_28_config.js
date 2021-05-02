@@ -1,1 +1,1 @@
-var mnemonic = "avocado detect impact reunion robust eye know topple sudden damage topic coyote";
+var mnemonic = "long code remove depart banner play drum copper knife blood say chimney";

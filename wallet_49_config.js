@@ -1,1 +1,1 @@
-var mnemonic = "milk only sea rate render wire foster spend virtual now exercise frequent";
+var mnemonic = "horror display correct slender very hour kind toddler matrix entire corn deal";

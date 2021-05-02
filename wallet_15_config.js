@@ -1,1 +1,1 @@
-var mnemonic = "effort welcome fan sleep fish hungry either side cabin expect plastic hurdle";
+var mnemonic = "defy castle material opinion prefer furnace sport erase garage book fog winner";

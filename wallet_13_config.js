@@ -1,1 +1,1 @@
-var mnemonic = "swamp law rebuild clump peanut motion know margin dog letter napkin always";
+var mnemonic = "gorilla essence trust ecology turn grace margin swift say dove riot luggage";

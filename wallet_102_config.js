@@ -1,1 +1,1 @@
-var mnemonic = "blade belt kiwi canal isolate lion weapon alley mesh uncle bid husband";
+var mnemonic = "cargo exist math example whale property hero afraid fetch insane episode jar";

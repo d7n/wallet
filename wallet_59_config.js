@@ -1,1 +1,1 @@
-var mnemonic = "mixed drama october game army view river say flee enrich music script";
+var mnemonic = "spoil palm oven west feature road like boat trip powder spoil prevent";

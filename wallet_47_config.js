@@ -1,1 +1,1 @@
-var mnemonic = "side option web define supreme decrease trend good learn cigar index heavy";
+var mnemonic = "suit vanish essence wear client garage logic layer resource ready river what";

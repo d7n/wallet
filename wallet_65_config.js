@@ -1,1 +1,1 @@
-var mnemonic = "spoil elegant blouse beach cushion vibrant hurt ability future orbit brave dumb";
+var mnemonic = "item gesture anger attract nation early thumb pioneer eager earth affair brown";

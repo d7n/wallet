@@ -1,1 +1,1 @@
-var mnemonic = "sweet lab trophy palm motor proof elegant benefit power balcony silly only";
+var mnemonic = "mountain topic pitch kit omit cake melody orbit pool minor fiscal limit";

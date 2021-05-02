@@ -1,1 +1,1 @@
-var mnemonic = "source mule economy trip wire magnet loan square auction welcome cherry tomorrow";
+var mnemonic = "ramp dinner document shrug noise cattle vacuum benefit salt all people stay";

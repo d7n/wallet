@@ -1,1 +1,1 @@
-var mnemonic = "banner escape waste century magic stuff august pause mesh rose program multiply";
+var mnemonic = "knock dream museum first rail coil there engage toy warrior dress obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "letter exchange allow spare gold attend satisfy tent frown convince cradle giggle";
+var mnemonic = "label sibling any chase buzz immense royal pear hobby addict arctic cannon";

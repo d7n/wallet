@@ -1,1 +1,1 @@
-var mnemonic = "visa rally asset bus extend cram hole scorpion spend crowd box size";
+var mnemonic = "more alone fiction demand capital predict strong crunch cart you inner civil";

@@ -1,1 +1,1 @@
-var mnemonic = "winner abuse pipe velvet coconut lunar total average local injury mountain liberty";
+var mnemonic = "replace home run kiwi bring obscure hard army feel spy bottom asset";

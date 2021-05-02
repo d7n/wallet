@@ -1,1 +1,1 @@
-var mnemonic = "tenant surprise gentle vapor sketch cherry deal trial problem midnight wedding dish";
+var mnemonic = "ice swing doll video burst magnet garlic three hurt february poet cat";

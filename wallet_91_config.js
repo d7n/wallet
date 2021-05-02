@@ -1,1 +1,1 @@
-var mnemonic = "wear maximum process curtain fiction sort talent raise custom order weather quick";
+var mnemonic = "comfort lyrics pink worry diet grab merit morning share inflict kiss submit";

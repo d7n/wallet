@@ -1,1 +1,1 @@
-var mnemonic = "humor evoke scorpion dove upgrade common cost recycle satoshi crumble model feed";
+var mnemonic = "defy morning ensure bronze pizza profit there quantum provide twenty damage fortune";

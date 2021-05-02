@@ -1,1 +1,1 @@
-var mnemonic = "tail hawk gold target wedding hunt insect absent feed blood follow vocal";
+var mnemonic = "grid cross vanish devote bid tackle lottery depth sort wall vivid vintage";

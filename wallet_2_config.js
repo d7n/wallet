@@ -1,1 +1,1 @@
-var mnemonic = "future neglect anger escape deposit athlete canal twelve load appear client grass";
+var mnemonic = "journey happy enlist diesel meadow sand aisle stand inch puzzle run use";

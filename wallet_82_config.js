@@ -1,1 +1,1 @@
-var mnemonic = "base lady toddler alcohol treat merit acquire party tide hurt bag resemble";
+var mnemonic = "use awful select embrace boring high know raise stumble dream lottery stuff";

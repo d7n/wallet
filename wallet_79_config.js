@@ -1,1 +1,1 @@
-var mnemonic = "primary divert hood tooth salt stairs sure entry leave father wash above";
+var mnemonic = "fever enjoy nice glance day dash maid fluid song law produce town";

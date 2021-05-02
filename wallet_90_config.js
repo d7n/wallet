@@ -1,1 +1,1 @@
-var mnemonic = "raise frost soccer recycle hybrid ask design faculty across taxi park dentist";
+var mnemonic = "flight apart clown gorilla swift truly erase inside muscle master banana west";

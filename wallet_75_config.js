@@ -1,1 +1,1 @@
-var mnemonic = "crane sea electric ahead glove quick term boost antique labor right alien";
+var mnemonic = "lady amateur click video affair dignity machine post print resource mixture half";

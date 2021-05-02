@@ -1,1 +1,1 @@
-var mnemonic = "swear village labor monkey pistol room example helmet happy misery pyramid menu";
+var mnemonic = "lemon foot cradle dial adapt half little tide narrow hello behave sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "host famous foam junk whisper that embrace nation bargain creek alley tonight";
+var mnemonic = "latin add boat deliver inquiry quote water craft broken rival visa volume";

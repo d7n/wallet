@@ -1,1 +1,1 @@
-var mnemonic = "habit simple frozen feel parent stairs final evolve neglect leader urban follow";
+var mnemonic = "humble there butter include garage similar basket render canyon sun bread category";

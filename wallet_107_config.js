@@ -1,1 +1,1 @@
-var mnemonic = "tornado puzzle random grid settle innocent biology adjust lab timber pudding tornado";
+var mnemonic = "ready olympic host basket have divide scene bamboo point segment account dance";

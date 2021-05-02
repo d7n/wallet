@@ -1,1 +1,1 @@
-var mnemonic = "where ripple grid gate practice hungry journey there borrow april impact warm";
+var mnemonic = "same broccoli similar fatigue cycle peasant during subway attract ripple winter arrive";

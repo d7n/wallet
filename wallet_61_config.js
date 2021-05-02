@@ -1,1 +1,1 @@
-var mnemonic = "file enhance below width vault frame any wave change bamboo expect certain";
+var mnemonic = "ten shell boost vessel beef title one thunder pear dose caught bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "social dinner patch friend anchor fiscal best way story trumpet absorb aware";
+var mnemonic = "bid win settle insect badge sense broom whale worth eye spy today";

@@ -1,1 +1,1 @@
-var mnemonic = "zero capable dolphin paper arctic dice second lunch poverty cup innocent west";
+var mnemonic = "vanish wash absent six security tackle cancel unaware picnic chuckle black shrimp";

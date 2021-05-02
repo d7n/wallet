@@ -1,1 +1,1 @@
-var mnemonic = "almost high salt spice member sign client west guess accident shop winner";
+var mnemonic = "estate paper share spy garlic pact thank defense upgrade absent uphold april";

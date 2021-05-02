@@ -1,1 +1,1 @@
-var mnemonic = "sleep cousin copper sister gaze neck doll follow panic whip bread hockey";
+var mnemonic = "connect range pave robot catalog blast luggage job mango believe visual artist";

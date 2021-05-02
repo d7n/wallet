@@ -1,1 +1,1 @@
-var mnemonic = "nominee miss cattle view flush stage ancient melt morning debris point forum";
+var mnemonic = "output venue office old top sell current beach embrace film accident muffin";

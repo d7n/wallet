@@ -1,1 +1,1 @@
-var mnemonic = "auction matrix mercy offer duck oil dust cushion vital flavor gentle adapt";
+var mnemonic = "exhaust bleak crucial rural simple nurse obscure marine turkey dove muscle strike";

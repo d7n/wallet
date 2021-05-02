@@ -1,1 +1,1 @@
-var mnemonic = "rib exile fox security december snake critic surround pass clap country virtual";
+var mnemonic = "palace maid short slight sight between core pony erode eye oxygen vocal";

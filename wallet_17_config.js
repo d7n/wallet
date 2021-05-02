@@ -1,1 +1,1 @@
-var mnemonic = "educate cherry police forward pause relax live box warm junk squeeze ready";
+var mnemonic = "double release supply dose athlete crime entry apology sponsor oak music this";

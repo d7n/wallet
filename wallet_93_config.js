@@ -1,1 +1,1 @@
-var mnemonic = "wisdom path news burden public beauty energy result void clap hip try";
+var mnemonic = "salt tower degree wide shoot divide similar banana roof throw oxygen share";

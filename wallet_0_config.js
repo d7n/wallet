@@ -1,1 +1,1 @@
-var mnemonic = "stand wise pledge leg damp best palace across close road rack involve";
+var mnemonic = "wisdom snack foam shiver cherry plate enough urban silly outer pear slab";

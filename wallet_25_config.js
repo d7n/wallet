@@ -1,1 +1,1 @@
-var mnemonic = "leaf turtle figure believe bone isolate room once govern private innocent priority";
+var mnemonic = "vibrant comfort orphan advice cram leave flame pledge couple gain fiscal idea";

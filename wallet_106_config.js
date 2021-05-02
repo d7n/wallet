@@ -1,1 +1,1 @@
-var mnemonic = "rate owner asthma diagram toward season coral group flock position filter tongue";
+var mnemonic = "catch enlist matrix copy pencil genre bunker total argue reduce engine write";

@@ -1,1 +1,1 @@
-var mnemonic = "sword aim town appear party organ snack affair trust club repeat night";
+var mnemonic = "first better solve spider donate cost nothing zoo impulse upper borrow dial";

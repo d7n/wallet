@@ -1,1 +1,1 @@
-var mnemonic = "client bike organ laptop face eagle during twice lawn buddy turkey minor";
+var mnemonic = "rabbit zone pumpkin exile ranch mercy satisfy patch narrow heart zero business";

@@ -1,1 +1,1 @@
-var mnemonic = "engine car mesh claim submit admit stage notable script body shove come";
+var mnemonic = "argue survey interest basket hood pistol wrestle tissue task cushion glimpse fantasy";

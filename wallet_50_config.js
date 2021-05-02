@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon either tuition ball fold dish above dentist need skin surge special";
+var mnemonic = "anger hamster sadness envelope misery lumber virus dust under dismiss vital news";

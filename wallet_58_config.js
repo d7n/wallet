@@ -1,1 +1,1 @@
-var mnemonic = "elevator imitate injury ketchup wisdom skill diary surprise gain ostrich arrest stem";
+var mnemonic = "disease vital month weasel famous puppy zoo table dirt pistol series agree";

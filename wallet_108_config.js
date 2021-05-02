@@ -1,1 +1,1 @@
-var mnemonic = "eye little plunge fee depart pudding fatigue naive endless flip eight make";
+var mnemonic = "armor review sell sting immune belt umbrella analyst arrange course side erupt";

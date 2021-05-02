@@ -1,1 +1,1 @@
-var mnemonic = "risk escape please jewel jaguar lazy laptop physical expand fringe pink owner";
+var mnemonic = "crunch comic arch ketchup dawn tool tornado special scrub often captain gap";

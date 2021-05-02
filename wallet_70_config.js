@@ -1,1 +1,1 @@
-var mnemonic = "fetch acid clown loyal gift lyrics pyramid wedding surround dice dash grass";
+var mnemonic = "arctic fortune plastic version wheat royal vendor cry casual digital kidney clock";

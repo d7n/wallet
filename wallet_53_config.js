@@ -1,1 +1,1 @@
-var mnemonic = "black punch wish fuel sibling enjoy wash market ahead reject slam dynamic";
+var mnemonic = "hollow repeat tell umbrella south nut shoot thrive impact want jeans planet";

@@ -1,1 +1,1 @@
-var mnemonic = "debris avoid orbit gap wealth congress pioneer guitar legend light bacon brother";
+var mnemonic = "torch regret metal make aerobic whale ginger exile copper couch boy hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit wave level foil arch gain prison crouch volume furnace blast oyster";
+var mnemonic = "filter sketch couple obtain width vacuum noble produce maid spoil airport jeans";

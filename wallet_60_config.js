@@ -1,1 +1,1 @@
-var mnemonic = "bright loyal priority ketchup street decline hat must shoulder have key moment";
+var mnemonic = "radar lonely bubble permit auto impose erupt innocent more visa shrimp unknown";

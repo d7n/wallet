@@ -1,1 +1,1 @@
-var mnemonic = "someone parade enroll dismiss defy fantasy panther bitter right ocean deliver reform";
+var mnemonic = "grow cloth galaxy soul census token hybrid obtain world bench visit weapon";

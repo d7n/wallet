@@ -1,1 +1,1 @@
-var mnemonic = "stage deny cigar admit question boat slim involve amazing direct scare other";
+var mnemonic = "own fruit acoustic airport corn baby seek similar power ripple april vocal";

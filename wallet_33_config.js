@@ -1,1 +1,1 @@
-var mnemonic = "snow believe company bubble armor honey endless elbow enrich fly fancy exhibit";
+var mnemonic = "world purchase stock expire couple olympic health exotic will inherit rich ensure";

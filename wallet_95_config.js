@@ -1,1 +1,1 @@
-var mnemonic = "ask power impact erode neglect shell exist current deer custom fresh crack";
+var mnemonic = "raw stay asset labor stock twenty neglect era reopen goat jeans oblige";

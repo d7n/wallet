@@ -1,1 +1,1 @@
-var mnemonic = "blossom toddler witness web piece put amateur science example badge armed memory";
+var mnemonic = "mesh cruel sing mask loud this text spice arch address behave gossip";

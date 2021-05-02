@@ -1,1 +1,1 @@
-var mnemonic = "bulb attract march correct october air accuse payment gym inquiry language corn";
+var mnemonic = "mountain taxi hedgehog donate snack decorate impulse subway donate agent supply front";

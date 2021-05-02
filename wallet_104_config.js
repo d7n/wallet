@@ -1,1 +1,1 @@
-var mnemonic = "use fire panda trial refuse clock soup apple vacuum armed buffalo mad";
+var mnemonic = "clog float brand width often abandon sphere prepare habit common ladder ribbon";

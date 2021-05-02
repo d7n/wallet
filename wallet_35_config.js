@@ -1,1 +1,1 @@
-var mnemonic = "buddy around fine ethics tiny property build float pencil service relax affair";
+var mnemonic = "rough rhythm slice vocal curve crater bachelor draw upset pole guilt pig";

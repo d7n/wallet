@@ -1,1 +1,1 @@
-var mnemonic = "bulk patient regret uncover similar scheme click empower repair bottom oval artist";
+var mnemonic = "relax bamboo slogan inform auto permit anger jaguar word claim buyer burden";

@@ -1,1 +1,1 @@
-var mnemonic = "undo fringe alert moment recall decide blossom laundry novel mammal fence yard";
+var mnemonic = "orange north over foam civil scrub share minute breeze noodle phrase trust";

@@ -1,1 +1,1 @@
-var mnemonic = "toward flat relax broccoli doctor stable trick level summer cram magnet regret";
+var mnemonic = "power project item release depart fox amazing summer yellow magic pulse replace";

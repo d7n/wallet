@@ -1,1 +1,1 @@
-var mnemonic = "spawn bubble such spike arrest quality frost truck point satoshi wink luggage";
+var mnemonic = "squeeze slide roof rose celery happy eyebrow catch grunt kiwi conduct hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "mesh slim creek direct smoke scissors cause rhythm sudden aspect have price";
+var mnemonic = "coffee warfare nasty uphold donkey desk remind bring limit hungry tunnel stand";

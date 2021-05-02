@@ -1,1 +1,1 @@
-var mnemonic = "urge main steel card snap regret glare salute world hawk cave crack";
+var mnemonic = "face prefer exile future annual crater stove train confirm circle bright runway";

@@ -1,1 +1,1 @@
-var mnemonic = "vault arrow dust foster cash swarm sadness stadium organ curve oyster check";
+var mnemonic = "doctor nasty bounce stool bunker cinnamon powder menu radio muffin say case";

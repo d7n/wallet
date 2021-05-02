@@ -1,1 +1,1 @@
-var mnemonic = "where quote summer tape random bonus pulp airport gym agree slight divert";
+var mnemonic = "gauge length leader boil reform segment trade forest horse enhance forget jeans";
