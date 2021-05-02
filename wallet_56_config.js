@@ -1,1 +1,1 @@
-var mnemonic = "update update review pill jump army girl fault control common effort chicken";
+var mnemonic = "produce today hawk heavy orphan elder stool episode upset inherit about rich";

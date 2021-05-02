@@ -1,1 +1,1 @@
-var mnemonic = "custom alert fiscal erosion echo document foil piano crane parade alcohol violin";
+var mnemonic = "aisle ethics swarm brother element metal sleep pyramid total force degree rain";

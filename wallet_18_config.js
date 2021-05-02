@@ -1,1 +1,1 @@
-var mnemonic = "oppose raise only step penalty lake liberty awesome hamster people unique size";
+var mnemonic = "silent waste magic lobster ritual october acquire awake mind stage afraid drive";

@@ -1,1 +1,1 @@
-var mnemonic = "airport sausage blast toast alcohol goose dial comfort exhibit rotate cricket surface";
+var mnemonic = "small crouch gun bracket silly range account pluck purchase drink unable carry";

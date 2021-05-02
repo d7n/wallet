@@ -1,1 +1,1 @@
-var mnemonic = "endless giggle reward lecture uncover old myself fatal bicycle prison pipe prepare";
+var mnemonic = "chase dentist key avoid oven history resist water only tumble inch detail";

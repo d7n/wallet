@@ -1,1 +1,1 @@
-var mnemonic = "dutch rural rescue gentle pretty idea clean scene patrol document refuse rent";
+var mnemonic = "addict crucial powder uncle potato exercise kitten clown drastic increase mimic rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "van kite wing barely garlic nothing slice fault able mirror gift index";
+var mnemonic = "fat sound brave phrase mad code unknown expand farm aspect gift shuffle";

@@ -1,1 +1,1 @@
-var mnemonic = "because hint hand poverty famous broom legend panther dash text settle coin";
+var mnemonic = "evil skull family april need toast decade road dune luggage measure pony";

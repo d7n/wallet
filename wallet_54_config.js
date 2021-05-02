@@ -1,1 +1,1 @@
-var mnemonic = "bind first brother verb festival hamster throw that cricket paddle ethics melody";
+var mnemonic = "square identify lawn mass drastic badge liberty group blood cost pepper drive";

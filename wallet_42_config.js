@@ -1,1 +1,1 @@
-var mnemonic = "key donor people autumn quiz fiction utility reject digital betray resist say";
+var mnemonic = "promote uncover parent mesh bird strike super weekend inch year gas design";

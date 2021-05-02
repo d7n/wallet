@@ -1,1 +1,1 @@
-var mnemonic = "demand jewel orphan beef deliver glimpse trend around head true repair lock";
+var mnemonic = "advance they bring elder tourist helmet basket word that all employ attack";

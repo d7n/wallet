@@ -1,1 +1,1 @@
-var mnemonic = "pizza spot page apology dad auction misery aware ski swamp apart around";
+var mnemonic = "atom stairs tornado scan crime remain oxygen waste sure error increase put";

@@ -1,1 +1,1 @@
-var mnemonic = "gas reveal illness ball stable dismiss flee oven spirit addict ribbon metal";
+var mnemonic = "manage pill behind civil bunker piano rural sphere artist curious vast appear";

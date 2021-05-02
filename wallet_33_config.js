@@ -1,1 +1,1 @@
-var mnemonic = "undo mirror start theme lottery pave squeeze average athlete crop index pole";
+var mnemonic = "royal chuckle slight gift seek zone gain into shiver share tape stand";

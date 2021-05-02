@@ -1,1 +1,1 @@
-var mnemonic = "reflect rabbit kiwi bid ridge swift volume mushroom hair deposit onion hand";
+var mnemonic = "wood upgrade mesh fox hire sunset start rice audit harvest turn rebuild";

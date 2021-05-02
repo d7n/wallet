@@ -1,1 +1,1 @@
-var mnemonic = "milk slogan unaware come cattle jelly game index fan foil street load";
+var mnemonic = "rapid lounge account enforce recycle sense private pencil saddle figure donor say";

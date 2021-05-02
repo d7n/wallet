@@ -1,1 +1,1 @@
-var mnemonic = "decrease palace length athlete consider omit holiday spy tone catalog piano chat";
+var mnemonic = "faculty salad absurd wave speed tell ribbon donor render insect ceiling shine";

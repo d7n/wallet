@@ -1,1 +1,1 @@
-var mnemonic = "flame grass mushroom rebuild evoke miss afford black student brain outer photo";
+var mnemonic = "ski fortune grass air panic swift umbrella advice heavy over fetch topic";

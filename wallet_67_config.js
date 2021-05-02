@@ -1,1 +1,1 @@
-var mnemonic = "tide live rent ready during pumpkin narrow case weird clerk tumble coffee";
+var mnemonic = "hair senior health kitchen trap era smart indicate fringe country eager analyst";

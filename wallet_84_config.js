@@ -1,1 +1,1 @@
-var mnemonic = "stumble hip inflict fringe drift action auto talk frozen play believe misery";
+var mnemonic = "borrow long luggage key busy project broken december cause digital torch horse";

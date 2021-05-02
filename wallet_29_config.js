@@ -1,1 +1,1 @@
-var mnemonic = "issue science sibling oval melt truck rare orange river upgrade glide delay";
+var mnemonic = "library train admit gather company great hidden stove twice normal cable elite";

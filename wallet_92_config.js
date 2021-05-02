@@ -1,1 +1,1 @@
-var mnemonic = "noodle affair pulp glass accident trouble scout entry submit auto rookie egg";
+var mnemonic = "depth month fatigue visual time glad rug catch welcome force modify main";

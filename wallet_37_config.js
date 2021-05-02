@@ -1,1 +1,1 @@
-var mnemonic = "hidden table victory rose convince depend episode glory uncle together barely strong";
+var mnemonic = "relief renew wrap dentist where social caution loud orient piano pull pen";

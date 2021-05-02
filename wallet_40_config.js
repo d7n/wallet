@@ -1,1 +1,1 @@
-var mnemonic = "barely fade engage minute park random junk arrow diary cloud warfare kitten";
+var mnemonic = "slogan level squirrel evolve february melody bargain rubber runway hybrid punch carry";

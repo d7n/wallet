@@ -1,1 +1,1 @@
-var mnemonic = "because pill require cash clerk casino unaware jar snack sort pig shallow";
+var mnemonic = "apology include shove spin sleep where scene wreck slot scout public prosper";

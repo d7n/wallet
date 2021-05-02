@@ -1,1 +1,1 @@
-var mnemonic = "excess cherry energy fluid tomorrow smile stone organ toast wrap curtain business";
+var mnemonic = "hold energy joy quantum bind again brave profit pond marriage breeze glow";

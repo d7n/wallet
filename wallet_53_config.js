@@ -1,1 +1,1 @@
-var mnemonic = "smoke razor welcome used minute venture tennis oppose unfair fee update caution";
+var mnemonic = "uncle pyramid yellow seek subject clarify insect remain divide brick opera trash";

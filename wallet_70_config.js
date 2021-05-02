@@ -1,1 +1,1 @@
-var mnemonic = "warfare ensure immune target tape coral hint custom shaft alcohol cupboard bench";
+var mnemonic = "toast silent garden corn ice other example stairs inflict used light school";

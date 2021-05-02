@@ -1,1 +1,1 @@
-var mnemonic = "bomb swallow disease shadow that song century arch fault lens early parrot";
+var mnemonic = "rival avoid summer upgrade infant deputy paddle private furnace project dawn decrease";

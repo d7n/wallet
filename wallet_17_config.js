@@ -1,1 +1,1 @@
-var mnemonic = "real black notice curve trophy copy tornado photo speed outdoor ostrich aware";
+var mnemonic = "combine join flight cinnamon obtain penalty pear slight entire elephant federal unlock";

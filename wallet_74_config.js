@@ -1,1 +1,1 @@
-var mnemonic = "myth inmate impose capable fortune display reward shy claim coin man chaos";
+var mnemonic = "audit pupil sudden obey skill raw lottery junior pigeon system pudding original";

@@ -1,1 +1,1 @@
-var mnemonic = "image scan south text wise design radio unfold expose arrange athlete try";
+var mnemonic = "crush betray hospital plate more fabric reward meadow segment ketchup goose west";

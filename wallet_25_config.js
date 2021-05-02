@@ -1,1 +1,1 @@
-var mnemonic = "word uncle truth novel alcohol sense employ drastic alter possible renew learn";
+var mnemonic = "soup balcony verify there path tourist attend bunker upper table mixture clip";

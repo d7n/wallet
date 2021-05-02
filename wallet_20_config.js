@@ -1,1 +1,1 @@
-var mnemonic = "merge already olive report brisk forget pistol crater alpha pencil fatigue cable";
+var mnemonic = "maximum begin average dinner gift race lyrics snake wood drip hurry emotion";

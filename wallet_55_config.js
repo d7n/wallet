@@ -1,1 +1,1 @@
-var mnemonic = "denial talent click brother weapon glance iron feel resource transfer skate huge";
+var mnemonic = "monitor flame wine glimpse oven hurdle element ranch rough clump engage front";

@@ -1,1 +1,1 @@
-var mnemonic = "shell general gauge door rib wage kit route own fault village pitch";
+var mnemonic = "venture asthma host bargain write ramp mutual angle alone such dance goddess";

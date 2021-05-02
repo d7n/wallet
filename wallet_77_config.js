@@ -1,1 +1,1 @@
-var mnemonic = "lizard blossom stock saddle raccoon chat because alone stay example item regret";
+var mnemonic = "message candy prize move ice inch canal hello icon split owner corn";

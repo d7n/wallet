@@ -1,1 +1,1 @@
-var mnemonic = "adult twenty jazz beef system palm today warfare shoulder fine ramp crazy";
+var mnemonic = "thing slush domain gadget side room slice castle soap rigid fish female";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend sting cram twenty space slab gentle acquire consider lawsuit master suit";
+var mnemonic = "verify brother first clock planet glove silver proud exit pizza cute kid";

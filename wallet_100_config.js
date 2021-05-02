@@ -1,1 +1,1 @@
-var mnemonic = "frown skill arrive stairs green twenty galaxy coral outdoor actor void device";
+var mnemonic = "gaze boil loyal book apart field coconut pencil song skull mass enable";

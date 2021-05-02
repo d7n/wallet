@@ -1,1 +1,1 @@
-var mnemonic = "inmate fox accuse dynamic banner camera ill term thing crane force shove";
+var mnemonic = "solar wide edit assume feed message loop veteran grape police seat garment";

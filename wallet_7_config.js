@@ -1,1 +1,1 @@
-var mnemonic = "surprise path office fee what three close ivory check buyer vacant payment";
+var mnemonic = "panther awesome memory blanket since journey together eager reveal confirm rather dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "gas carpet half secret rice predict question pink march magic panel mouse";
+var mnemonic = "remember drill vessel jelly truck opera scene ranch window cancel mixed light";

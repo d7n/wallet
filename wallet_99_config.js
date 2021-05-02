@@ -1,1 +1,1 @@
-var mnemonic = "minimum under buddy develop post earn chef leopard cliff spot high ceiling";
+var mnemonic = "behind crush culture victory erase involve hip wrong awesome fresh pretty mother";

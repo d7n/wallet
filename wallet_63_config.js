@@ -1,1 +1,1 @@
-var mnemonic = "kingdom spider episode mule hawk fine just wear grid face remember action";
+var mnemonic = "patrol lake twice stone melody stadium final ice entry original chaos shell";

@@ -1,1 +1,1 @@
-var mnemonic = "iron goose melt ask behind modify uniform cage juice lumber advice letter";
+var mnemonic = "artefact high sample uphold novel above true barrel vintage ethics palace violin";

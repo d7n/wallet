@@ -1,1 +1,1 @@
-var mnemonic = "shoulder carry suit moon hen palm undo zoo manage novel globe shoulder";
+var mnemonic = "wrap found hip report celery acquire dry ribbon pipe world false enrich";

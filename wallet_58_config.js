@@ -1,1 +1,1 @@
-var mnemonic = "ugly pyramid grain pet jewel help affair embody huge drill destroy reform";
+var mnemonic = "mango august they nature sketch win antenna rain worth tortoise depth slender";

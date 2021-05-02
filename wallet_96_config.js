@@ -1,1 +1,1 @@
-var mnemonic = "arrive slam fury nurse method begin intact topic industry night chaos stove";
+var mnemonic = "milk way win legend excite ostrich treat regular stem category use erode";

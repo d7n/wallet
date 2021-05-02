@@ -1,1 +1,1 @@
-var mnemonic = "permit sick glide ocean panic neither jewel pool approve spice rain praise";
+var mnemonic = "early grab piece slender table innocent curtain shoe dynamic catalog about adjust";

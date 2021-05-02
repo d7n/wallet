@@ -1,1 +1,1 @@
-var mnemonic = "toy item vibrant extra school blue common sure science depart immense record";
+var mnemonic = "once record curtain repeat mansion pole jar spread cliff quarter total supreme";

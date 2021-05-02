@@ -1,1 +1,1 @@
-var mnemonic = "gaze alert mimic wall valley offer awesome expand grain top proof denial";
+var mnemonic = "slow grace you few couple ceiling wood school body when correct exchange";

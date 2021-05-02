@@ -1,1 +1,1 @@
-var mnemonic = "extend match breeze panic ahead stuff pepper federal syrup response twist page";
+var mnemonic = "tiger mass need flock fever skill hill stick cost box borrow congress";

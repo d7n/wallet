@@ -1,1 +1,1 @@
-var mnemonic = "eight spread silly purpose rain version imitate humor mutual daring bone leaf";
+var mnemonic = "core palm gasp wife hidden gather glare design bench flag venture extra";

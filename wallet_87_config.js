@@ -1,1 +1,1 @@
-var mnemonic = "sense truck tank noble vanish ankle antique peanut tomato detect silver shy";
+var mnemonic = "salmon diesel clap enlist yard law robot invite focus zone zone enhance";

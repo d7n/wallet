@@ -1,1 +1,1 @@
-var mnemonic = "burden protect armed explain hole aisle leaf sphere exhaust clog web over";
+var mnemonic = "juice margin satisfy ceiling critic size danger episode umbrella solar differ knee";

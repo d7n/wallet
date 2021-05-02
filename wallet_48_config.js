@@ -1,1 +1,1 @@
-var mnemonic = "tunnel other bench victory balance lesson confirm sustain panda silk wolf canvas";
+var mnemonic = "gaze century powder exit truck pretty spider audit circle zero river mobile";

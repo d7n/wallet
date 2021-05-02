@@ -1,1 +1,1 @@
-var mnemonic = "person stage next addict exclude raw morning merge news cake unusual velvet";
+var mnemonic = "sunset myth zoo excess bargain head host travel match image trash pulse";

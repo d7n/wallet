@@ -1,1 +1,1 @@
-var mnemonic = "lawn large weird gap assist mansion weasel ranch sauce dress coral float";
+var mnemonic = "poverty help onion harbor salute common pause ahead system knife impulse prize";

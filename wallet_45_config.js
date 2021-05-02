@@ -1,1 +1,1 @@
-var mnemonic = "siege visit speak night announce buffalo vocal priority filter before try scare";
+var mnemonic = "isolate pyramid hand illness question reopen amused ahead eager glue spoon quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "fly verb card shield urge unlock asthma surface property glare false neutral";
+var mnemonic = "episode voice any coach security run elite correct index close train provide";

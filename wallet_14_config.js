@@ -1,1 +1,1 @@
-var mnemonic = "accuse guilt trust arch prosper loop dawn fragile hazard pyramid edge giggle";
+var mnemonic = "oven midnight canal salt old time worth distance suggest steak trophy nature";

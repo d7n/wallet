@@ -1,1 +1,1 @@
-var mnemonic = "cliff buyer action salute lyrics frost occur actual master traffic effort pretty";
+var mnemonic = "ignore noise salmon fortune trim fatal review host half twice surface minute";

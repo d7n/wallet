@@ -1,1 +1,1 @@
-var mnemonic = "wish father case measure spend critic senior shoulder glow angry ride assist";
+var mnemonic = "divert city change proud slight soon empty card tired atom crop best";

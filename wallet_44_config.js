@@ -1,1 +1,1 @@
-var mnemonic = "bomb wash bundle race worry cart wait afraid meadow kite flee purity";
+var mnemonic = "mesh material pyramid purchase stay hunt boring drip frame high elevator actor";

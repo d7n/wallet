@@ -1,1 +1,1 @@
-var mnemonic = "rib educate doll female fresh horse urban ensure daring still disease luxury";
+var mnemonic = "weekend paddle invest swallow venture gallery ensure frame muffin student okay bridge";

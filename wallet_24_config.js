@@ -1,1 +1,1 @@
-var mnemonic = "child saddle enter adapt tube replace correct sting sick fantasy street source";
+var mnemonic = "choice volcano ketchup recall donate exclude appear patrol juice nose whisper drastic";

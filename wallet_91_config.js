@@ -1,1 +1,1 @@
-var mnemonic = "essence club clump ecology original weird mesh dial crisp message bundle shoot";
+var mnemonic = "steel tank vital day enroll squeeze sample crew split limb unique crazy";

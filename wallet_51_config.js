@@ -1,1 +1,1 @@
-var mnemonic = "panther purity voyage trash chaos another income rail enhance absurd outdoor dinosaur";
+var mnemonic = "stable rose trim exhibit endless run great anger fold december prefer lock";

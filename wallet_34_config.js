@@ -1,1 +1,1 @@
-var mnemonic = "umbrella absent marine shock ability excuse pepper hammer pear parade wage regret";
+var mnemonic = "number craft dizzy evoke aware build order select flush fence very slot";

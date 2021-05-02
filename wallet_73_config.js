@@ -1,1 +1,1 @@
-var mnemonic = "direct creek stem middle doctor same outdoor coconut bleak brave wave tape";
+var mnemonic = "enter eight curtain merge easily rookie erode resist field virus entry rack";

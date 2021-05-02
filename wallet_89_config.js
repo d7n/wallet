@@ -1,1 +1,1 @@
-var mnemonic = "rebel secret lion crime situate advice idle clever seed leaf story film";
+var mnemonic = "certain bulk tumble expect crash toe they digital rule reduce manual vital";

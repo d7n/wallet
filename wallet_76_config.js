@@ -1,1 +1,1 @@
-var mnemonic = "love weasel rebuild section page system sadness visa old field scissors divorce";
+var mnemonic = "predict erase enrich circle wealth grass tooth gain vault wood month patch";

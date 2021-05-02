@@ -1,1 +1,1 @@
-var mnemonic = "gasp wave gap sail tenant mix ride admit south upper next flower";
+var mnemonic = "neither gadget harbor copper bring rubber satisfy little answer vapor absurd spoon";

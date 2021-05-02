@@ -1,1 +1,1 @@
-var mnemonic = "satoshi margin kangaroo voyage safe comfort busy history suit confirm draft cupboard";
+var mnemonic = "artefact stand develop post fatal foster coach act credit reflect response virus";

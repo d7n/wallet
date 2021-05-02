@@ -1,1 +1,1 @@
-var mnemonic = "demand zone estate pool bronze speed popular miracle toss jazz inform portion";
+var mnemonic = "raw blame spread ticket track vapor average blast impact slush surface jacket";

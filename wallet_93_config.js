@@ -1,1 +1,1 @@
-var mnemonic = "film gaze retreat trial chair spin stick fringe canal access drill tell";
+var mnemonic = "imitate law fun clinic globe sniff earn test broom virus ceiling label";

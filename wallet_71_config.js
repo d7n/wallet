@@ -1,1 +1,1 @@
-var mnemonic = "never whip collect thrive orient tiny betray cable orange unaware casino notable";
+var mnemonic = "absurd blouse junior group cat harsh seminar tackle ability bench life day";

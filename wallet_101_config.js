@@ -1,1 +1,1 @@
-var mnemonic = "slogan vintage believe sun shift access sense catalog job now all mixture";
+var mnemonic = "jealous love gospel filter response orchard panel maze delay beauty soda pipe";

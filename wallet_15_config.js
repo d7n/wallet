@@ -1,1 +1,1 @@
-var mnemonic = "better artefact miracle poverty camp cash color gentle loop wing forum swamp";
+var mnemonic = "guard hidden isolate update panther amazing sample pipe rose develop bacon boss";

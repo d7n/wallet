@@ -1,1 +1,1 @@
-var mnemonic = "popular neck pupil wink like food receive twice leave pulp uncover actress";
+var mnemonic = "myth again remember brain dynamic art foot wash combine collect distance dad";

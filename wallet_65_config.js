@@ -1,1 +1,1 @@
-var mnemonic = "angle bicycle slot spend tape broccoli music clever tray seven start trash";
+var mnemonic = "call curve divide cushion habit turkey thing drama seminar matter airport alcohol";

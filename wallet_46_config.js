@@ -1,1 +1,1 @@
-var mnemonic = "mimic october rhythm outdoor train bitter nerve six canoe royal grit miracle";
+var mnemonic = "unlock opinion mixture position above essay gadget trigger total bamboo feature dumb";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing tilt face will allow drive dinosaur rich suspect run calm ahead";
+var mnemonic = "month casual chief plate pudding case draft glad gym donkey accident gold";

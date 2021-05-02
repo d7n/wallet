@@ -1,1 +1,1 @@
-var mnemonic = "zone setup obey hungry trash maze entry radio divorce throw help gaze";
+var mnemonic = "truly stand protect unique elite man artwork birth pizza prize forest whisper";

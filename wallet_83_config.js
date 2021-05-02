@@ -1,1 +1,1 @@
-var mnemonic = "twist park client depth humble endless flag office various list brown course";
+var mnemonic = "ensure castle account horror square toilet whale garden gun panel bottom theory";

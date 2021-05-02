@@ -1,1 +1,1 @@
-var mnemonic = "globe follow sketch fun animal exercise glad object vote mind captain hover";
+var mnemonic = "regular reduce deer once skate still slab differ unhappy apart fence limb";

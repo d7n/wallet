@@ -1,1 +1,1 @@
-var mnemonic = "topple lend clown capable arrange coffee joke shop craft notice sure comfort";
+var mnemonic = "ladder crawl embody frozen cute member town deliver zebra donor pen damp";

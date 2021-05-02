@@ -1,1 +1,1 @@
-var mnemonic = "idea guilt joy between super throw effort vintage scatter cram rich room";
+var mnemonic = "genuine ozone mean august update school trial shove fruit unfair fee wet";

@@ -1,1 +1,1 @@
-var mnemonic = "upon nose else exist rookie wife noodle rate opera clutch acoustic cry";
+var mnemonic = "genuine area limb audit raven used oblige moral indoor organ torch guess";

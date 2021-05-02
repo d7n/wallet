@@ -1,1 +1,1 @@
-var mnemonic = "teach group memory long clip essay spot nest phrase demand warm tuition";
+var mnemonic = "rose rally sibling cliff report scout grant result casual kite habit chase";

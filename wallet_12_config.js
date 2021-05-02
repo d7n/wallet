@@ -1,1 +1,1 @@
-var mnemonic = "discover mouse end seat still visa reject fold leave shadow tongue prevent";
+var mnemonic = "monster area cart zoo second mesh sock repeat festival write sure rally";

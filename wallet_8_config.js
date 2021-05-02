@@ -1,1 +1,1 @@
-var mnemonic = "own hunt lens suffer grace eight gorilla deputy palace demise rebel salmon";
+var mnemonic = "sudden claim wire increase access kind medal seed cattle blast patient gentle";
