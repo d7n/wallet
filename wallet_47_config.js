@@ -1,1 +1,1 @@
-var mnemonic = "strike enroll until nurse arctic exclude critic already slab turn position attract";
+var mnemonic = "witness oxygen ranch patch lab park screen genius strategy click rotate rapid";

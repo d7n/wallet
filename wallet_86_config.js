@@ -1,1 +1,1 @@
-var mnemonic = "tourist accuse ticket card chuckle element hollow minute good eye chimney chaos";
+var mnemonic = "thumb tattoo summer elder inflict only margin robot hub course width auto";

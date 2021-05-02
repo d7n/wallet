@@ -1,1 +1,1 @@
-var mnemonic = "convince okay issue marble make brisk wrist infant pioneer enough amount expand";
+var mnemonic = "aisle student episode eye lumber nothing secret spike impose alter trade want";

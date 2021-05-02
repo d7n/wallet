@@ -1,1 +1,1 @@
-var mnemonic = "bus panel fine bitter cupboard perfect alarm danger current pluck olive state";
+var mnemonic = "hole feel detect citizen prison tonight sing trigger damage moment alcohol black";

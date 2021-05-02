@@ -1,1 +1,1 @@
-var mnemonic = "immune toss drop april sail faint hat card divert inquiry equip pretty";
+var mnemonic = "payment cancel capital state visit grass pave trap steak salt canvas asset";

@@ -1,1 +1,1 @@
-var mnemonic = "bone cash fiction elder thrive couch comic lazy mercy obey file stand";
+var mnemonic = "finger slogan lottery nothing trick aspect work syrup general wheat cover garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket silent improve grass object bonus chest nerve woman middle sniff essence";
+var mnemonic = "foster into about grow era fantasy clip enough chunk example another snake";

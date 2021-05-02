@@ -1,1 +1,1 @@
-var mnemonic = "raw pencil census dream library lobster fossil ordinary boring rubber grab puzzle";
+var mnemonic = "holiday hawk delay speed face rely all battle banner mimic trade track";

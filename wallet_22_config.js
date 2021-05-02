@@ -1,1 +1,1 @@
-var mnemonic = "party change hold olympic tail salmon glove element stool deal enhance erase";
+var mnemonic = "make element world play plate little effort obvious toss nature scene warm";

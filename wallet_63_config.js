@@ -1,1 +1,1 @@
-var mnemonic = "blur ridge indoor year item village regret warm trumpet hole until valve";
+var mnemonic = "jealous upper marble hotel group business fantasy advice little envelope hotel shiver";

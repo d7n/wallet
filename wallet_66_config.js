@@ -1,1 +1,1 @@
-var mnemonic = "powder history short rug soon doctor famous scale sheriff lunar marble team";
+var mnemonic = "anxiety urge eye cereal found stock banner dwarf resource crash fantasy gain";

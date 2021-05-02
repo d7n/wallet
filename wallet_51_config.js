@@ -1,1 +1,1 @@
-var mnemonic = "sock job pond glass bounce forest civil dry business adapt fantasy domain";
+var mnemonic = "raw door cup memory absent blouse catch blast bone item mother gather";

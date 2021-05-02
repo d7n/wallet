@@ -1,1 +1,1 @@
-var mnemonic = "country alert bronze manual remember dumb kite cruise room climb coconut paper";
+var mnemonic = "gold yard need giraffe arctic dune celery empower arrest symptom unaware dirt";

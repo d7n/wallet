@@ -1,1 +1,1 @@
-var mnemonic = "faith ritual outside return chimney area amazing hill enemy empty renew release";
+var mnemonic = "belt whisper help abuse whale quantum pepper miss inhale border carbon meadow";

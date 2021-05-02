@@ -1,1 +1,1 @@
-var mnemonic = "actress people receive distance pupil stay sugar warrior message egg mirror pottery";
+var mnemonic = "express hat meadow twist mesh entry vacant myself coast rookie festival cause";

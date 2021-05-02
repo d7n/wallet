@@ -1,1 +1,1 @@
-var mnemonic = "access mule sound filter path when hundred nation enable grape blanket husband";
+var mnemonic = "select degree damp spice soap surround payment choose soup street inform open";

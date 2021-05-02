@@ -1,1 +1,1 @@
-var mnemonic = "tip decline lunch sight spoil excuse enforce minute pledge buddy talk echo";
+var mnemonic = "ancient defy wine people large knife post illness siege scissors echo notable";

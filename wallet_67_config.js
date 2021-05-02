@@ -1,1 +1,1 @@
-var mnemonic = "property wear arctic harbor priority toddler myth gym wealth six cable sad";
+var mnemonic = "charge jelly tone notice pen gloom alarm peasant nurse lamp tide biology";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli typical sibling distance picture urban route damp garage position wolf have";
+var mnemonic = "opera water tongue short garden prosper strong public brass cigar camp erupt";

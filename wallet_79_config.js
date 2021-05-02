@@ -1,1 +1,1 @@
-var mnemonic = "venue arrive vanish purity orchard future enhance design usual guard famous stable";
+var mnemonic = "weasel horn unfair because depend woman venture drink unlock trial patrol thing";

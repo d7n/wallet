@@ -1,1 +1,1 @@
-var mnemonic = "cigar skate aware basic medal girl accuse stone dry hungry bag stool";
+var mnemonic = "vehicle cook coin theory color flush dust argue boil short game second";

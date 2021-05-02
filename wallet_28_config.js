@@ -1,1 +1,1 @@
-var mnemonic = "plug broom input school air print primary blossom nation permit grass extend";
+var mnemonic = "circle improve game pig unfair renew traffic inner situate action ladder intact";

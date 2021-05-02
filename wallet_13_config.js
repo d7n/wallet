@@ -1,1 +1,1 @@
-var mnemonic = "galaxy imitate usual barely science curve apart ask between shoe father bless";
+var mnemonic = "custom virtual little awkward hunt drink egg cloud era main cave capable";

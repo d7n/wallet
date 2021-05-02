@@ -1,1 +1,1 @@
-var mnemonic = "destroy penalty exist tiny coil borrow swamp zero illegal quick unfair lounge";
+var mnemonic = "second vintage hobby clinic lava ability random animal network average inherit sorry";

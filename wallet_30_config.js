@@ -1,1 +1,1 @@
-var mnemonic = "scissors oyster color ring erosion wrist vote render rebuild general obtain drift";
+var mnemonic = "genius lab believe busy item fury mass praise fox urban pottery trip";

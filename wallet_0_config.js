@@ -1,1 +1,1 @@
-var mnemonic = "bounce source under three comic song soft dutch wine carbon match index";
+var mnemonic = "stairs unknown vague token vapor snack risk soccer frequent happy plunge inner";

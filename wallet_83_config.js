@@ -1,1 +1,1 @@
-var mnemonic = "grunt honey floor decrease organ muscle finish sport wagon mountain track palm";
+var mnemonic = "wasp slab vacant clip fire only pony magic human mistake grocery neglect";

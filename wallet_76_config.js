@@ -1,1 +1,1 @@
-var mnemonic = "dentist knock number stand one balance mercy crop tell cinnamon couch cereal";
+var mnemonic = "elder siege fish draw leave nice sentence drip provide refuse stomach craft";

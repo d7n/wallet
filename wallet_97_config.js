@@ -1,1 +1,1 @@
-var mnemonic = "now theme apart hen truly patient scorpion stadium practice sand carpet barrel";
+var mnemonic = "pause scan scare attract thought begin seek repair olive blanket salad long";

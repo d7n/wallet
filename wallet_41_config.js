@@ -1,1 +1,1 @@
-var mnemonic = "second narrow move distance whale spirit destroy sign travel chef damage recycle";
+var mnemonic = "embrace ritual camera bachelor swing across excite energy shell chaos edge wealth";

@@ -1,1 +1,1 @@
-var mnemonic = "sick furnace afford guess wet shrug rookie gauge solar series slab melt";
+var mnemonic = "record work west twice muscle survey illegal remove federal exile during million";

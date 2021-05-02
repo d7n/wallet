@@ -1,1 +1,1 @@
-var mnemonic = "win day thank rain sister help plate boss consider tunnel reform moral";
+var mnemonic = "book era found volume earth script grid arrest capital friend winner pretty";

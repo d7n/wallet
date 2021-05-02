@@ -1,1 +1,1 @@
-var mnemonic = "grief pyramid ring final creek zebra possible music radar slogan elite lunar";
+var mnemonic = "poverty monitor salad clerk destroy spread source hockey detect decrease waste elevator";

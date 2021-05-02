@@ -1,1 +1,1 @@
-var mnemonic = "bunker maple insane misery depth notable disease setup talk slight avocado twin";
+var mnemonic = "bench thank one romance help rate cost twin celery chicken neck midnight";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen force game affair practice regret eagle guide assume crime day short";
+var mnemonic = "wonder swear bone private shallow enrich copper grab office round lunch mobile";

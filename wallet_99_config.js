@@ -1,1 +1,1 @@
-var mnemonic = "secret slab script sleep sugar fortune tumble cross parade tiny truth border";
+var mnemonic = "same thing carbon accident sister garlic play region plastic tip measure below";

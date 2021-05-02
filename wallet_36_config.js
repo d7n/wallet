@@ -1,1 +1,1 @@
-var mnemonic = "movie deputy acoustic trust corn danger ready cup casino woman bean zebra";
+var mnemonic = "kangaroo cousin stadium item world bus habit bulb vast lyrics table tray";

@@ -1,1 +1,1 @@
-var mnemonic = "salt build say strike sting day obtain inspire urban short drum proof";
+var mnemonic = "zoo all garage rather stairs trumpet notice attitude moon chief swap cabin";

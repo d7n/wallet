@@ -1,1 +1,1 @@
-var mnemonic = "silent obey wave holiday jealous arctic harvest door choose own author grow";
+var mnemonic = "smile proud cliff fire where knee hair estate penalty popular reflect tent";

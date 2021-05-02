@@ -1,1 +1,1 @@
-var mnemonic = "gain rude female foster despair mosquito adjust ship meat unusual upgrade uphold";
+var mnemonic = "hard apart iron regular oak rather cable stumble chat milk rural supply";

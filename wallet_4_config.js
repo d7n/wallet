@@ -1,1 +1,1 @@
-var mnemonic = "canoe eager path project hair youth just vacuum finger drop cream library";
+var mnemonic = "flag pool beef upon snake tent repeat agree twin process laugh man";

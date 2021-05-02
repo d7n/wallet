@@ -1,1 +1,1 @@
-var mnemonic = "veteran river meadow point like flight tackle position toddler chair hybrid round";
+var mnemonic = "immune current float raven broom hockey rapid similar dice shrug oak step";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling volcano leg follow property luxury embrace cable stamp torch patient prosper";
+var mnemonic = "feel boil now brass bean scan green tomato venture rib million shine";

@@ -1,1 +1,1 @@
-var mnemonic = "ability describe elephant meat run category you snake wait scrap team way";
+var mnemonic = "order tenant barrel skate crisp corn regular wash episode one arch often";

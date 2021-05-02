@@ -1,1 +1,1 @@
-var mnemonic = "amateur trumpet middle cigar injury grass bubble famous ribbon grit liberty canal";
+var mnemonic = "heart random zoo exchange move search crystal canvas spin need cloth wreck";

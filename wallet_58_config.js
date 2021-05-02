@@ -1,1 +1,1 @@
-var mnemonic = "quick bird tag soon memory crane budget unaware learn robust abandon teach";
+var mnemonic = "rail jaguar turtle mad armor toast hand grocery rug calm barely enemy";

@@ -1,1 +1,1 @@
-var mnemonic = "trouble latin owner snake mind nature zebra drum duck bird target cousin";
+var mnemonic = "hurt carbon field buddy height sunset rain best throw fruit knife bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon miracle shiver bubble supply settle sign mutual vast pen voice fiction";
+var mnemonic = "sustain pepper pill board unique drum situate please like dry subway laundry";

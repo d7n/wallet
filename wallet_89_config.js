@@ -1,1 +1,1 @@
-var mnemonic = "evil snake shoulder public parrot million crack sunny hidden magnet junk addict";
+var mnemonic = "draft report giant gate profit deputy piano art mixed bamboo genuine absent";

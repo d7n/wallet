@@ -1,1 +1,1 @@
-var mnemonic = "sponsor carry curious fatigue sponsor surround tent element spot resist laptop elder";
+var mnemonic = "reveal potato patient acquire era visit observe asthma boost version foam cart";

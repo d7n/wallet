@@ -1,1 +1,1 @@
-var mnemonic = "decorate gap fantasy still profit recycle argue little world sphere margin spray";
+var mnemonic = "fly equip excuse cabin nerve iron settle cotton canyon couple crouch business";

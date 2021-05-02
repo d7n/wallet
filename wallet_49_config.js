@@ -1,1 +1,1 @@
-var mnemonic = "clay yellow bubble captain group romance myth flat slight example supply comic";
+var mnemonic = "impose food into diamond scrub nature mirror mind screen above utility nerve";

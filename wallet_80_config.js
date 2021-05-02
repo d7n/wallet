@@ -1,1 +1,1 @@
-var mnemonic = "alley youth enemy cinnamon juice describe final crouch wink tomato icon want";
+var mnemonic = "electric measure joy appear brass meadow vapor waste job suspect employ fever";

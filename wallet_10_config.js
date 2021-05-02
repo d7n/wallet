@@ -1,1 +1,1 @@
-var mnemonic = "vintage student light connect you room fragile stick alien medal chest connect";
+var mnemonic = "quiz pig dutch audit nest debate custom invite warm practice talk cat";

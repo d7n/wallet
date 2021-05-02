@@ -1,1 +1,1 @@
-var mnemonic = "attack east blanket human search parent over toddler cigar explain dad trend";
+var mnemonic = "what brick display tuna margin glow pizza primary buffalo area exist library";

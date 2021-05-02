@@ -1,1 +1,1 @@
-var mnemonic = "original wool rare deputy maze carpet blanket acoustic host camp dragon dinner";
+var mnemonic = "vast catalog wrap wet wire uphold segment order bottom hand awake want";

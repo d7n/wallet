@@ -1,1 +1,1 @@
-var mnemonic = "salon sad maze habit clay relax vehicle father lake defense blush connect";
+var mnemonic = "profit warrior average all wonder fragile rich inform uphold review nut hand";

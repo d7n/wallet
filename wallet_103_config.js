@@ -1,1 +1,1 @@
-var mnemonic = "cattle reward dream midnight okay phrase sentence imitate fresh tape need shiver";
+var mnemonic = "only nephew second become frequent palace fall frame sphere marine punch hundred";

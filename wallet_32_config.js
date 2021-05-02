@@ -1,1 +1,1 @@
-var mnemonic = "nut mom impose stuff umbrella noble bundle april muffin rubber enable predict";
+var mnemonic = "essence retreat nice vapor snap lesson fiscal place girl senior gossip feed";

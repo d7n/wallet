@@ -1,1 +1,1 @@
-var mnemonic = "glow genuine one you suggest primary chunk praise junior penalty talent garlic";
+var mnemonic = "cable orphan repeat man punch charge keen mimic borrow matrix ivory frost";

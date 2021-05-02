@@ -1,1 +1,1 @@
-var mnemonic = "cash arch swamp cannon intact valve skirt edit fancy hope end firm";
+var mnemonic = "release slight increase future mistake try move act hungry glow tree leaf";

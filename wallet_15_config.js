@@ -1,1 +1,1 @@
-var mnemonic = "general ready lady edit royal file strong weather hint fame vocal spawn";
+var mnemonic = "flock impulse dinosaur pulse female castle alarm ten syrup hurt broccoli alter";

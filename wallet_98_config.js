@@ -1,1 +1,1 @@
-var mnemonic = "modify misery estate crop body mule another fruit easy easily marine sail";
+var mnemonic = "census short stove this output crumble search potato beyond report frown parade";

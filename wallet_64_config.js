@@ -1,1 +1,1 @@
-var mnemonic = "expand process wonder summer edge penalty amateur auction erase abandon hold flee";
+var mnemonic = "pulp march twist uphold average casino brave yard describe force damp street";

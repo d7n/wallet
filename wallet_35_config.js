@@ -1,1 +1,1 @@
-var mnemonic = "entire jar height super grunt panther economy notable cancel damp shop supreme";
+var mnemonic = "satoshi combine hobby exchange require inflict simple current empower embark dog weasel";

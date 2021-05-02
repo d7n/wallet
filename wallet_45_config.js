@@ -1,1 +1,1 @@
-var mnemonic = "dwarf kit scissors great example lonely minimum anger plug tragic file mom";
+var mnemonic = "inner trend orange group improve ask shield favorite demand rude daring rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "hungry wisdom fresh crisp install slam merge grab scan filter avoid joy";
+var mnemonic = "mention either position hat auto boat senior round mean roof device voice";

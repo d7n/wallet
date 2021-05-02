@@ -1,1 +1,1 @@
-var mnemonic = "satoshi nephew pill measure off hole gaze ceiling common piece body kitten";
+var mnemonic = "social dose brush what bleak strong palm thumb program unveil trouble detect";

@@ -1,1 +1,1 @@
-var mnemonic = "silver ignore culture giant gym rain deputy legal gauge danger double army";
+var mnemonic = "hill search security sister remember film divert subway upper thumb mobile gather";

@@ -1,1 +1,1 @@
-var mnemonic = "humble usual cigar owner climb pink jar year joy cloth vocal liquid";
+var mnemonic = "wet donkey receive unlock left reward salad portion buzz snake escape fatal";

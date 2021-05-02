@@ -1,1 +1,1 @@
-var mnemonic = "unfair method mixed other witness rocket hole dynamic human history clip indicate";
+var mnemonic = "other rain already dice finger odor piano knife auction hover ski glance";

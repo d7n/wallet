@@ -1,1 +1,1 @@
-var mnemonic = "health shiver whip swing grass era shadow patrol resource main valid punch";
+var mnemonic = "cluster ribbon bronze fan drive filter winter girl sister place cruel praise";

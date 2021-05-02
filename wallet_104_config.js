@@ -1,1 +1,1 @@
-var mnemonic = "draft gift unaware camera kick swing slice movie common spike shiver truth";
+var mnemonic = "devote tackle mask dumb please solution february equip cloth eye chief replace";

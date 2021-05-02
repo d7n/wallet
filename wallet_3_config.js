@@ -1,1 +1,1 @@
-var mnemonic = "total rigid enforce drum age trigger correct crouch fall flavor december limit";
+var mnemonic = "turtle end panther actress captain fiction common plate obvious estate economy stumble";

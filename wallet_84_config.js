@@ -1,1 +1,1 @@
-var mnemonic = "honey hub concert reveal call provide milk banana diamond beyond magnet hour";
+var mnemonic = "attack melt tackle mixed find exercise else quote team project hedgehog kitten";

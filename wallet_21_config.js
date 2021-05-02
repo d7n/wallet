@@ -1,1 +1,1 @@
-var mnemonic = "escape marriage dish brown ten crouch tragic wife call hole relax drift";
+var mnemonic = "curtain voyage weather sunset below aware rich ancient toward rigid negative gold";

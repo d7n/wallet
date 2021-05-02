@@ -1,1 +1,1 @@
-var mnemonic = "type extend arm office state quality fence index blossom taste dinner rocket";
+var mnemonic = "round spoon trust absurd tragic brand under cousin load silver resist phrase";

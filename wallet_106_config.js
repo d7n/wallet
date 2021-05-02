@@ -1,1 +1,1 @@
-var mnemonic = "miss shell argue energy insane enjoy crash quarter empower century region solution";
+var mnemonic = "chef holiday layer shock drive host arrive gather lady misery image escape";

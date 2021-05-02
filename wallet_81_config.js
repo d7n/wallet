@@ -1,1 +1,1 @@
-var mnemonic = "sword rail crunch program charge catalog hold nasty industry analyst option lemon";
+var mnemonic = "trip jungle assault dirt join airport dirt diary top mango fault link";

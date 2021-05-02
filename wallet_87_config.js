@@ -1,1 +1,1 @@
-var mnemonic = "federal maze cricket box toward south match shock nose become hurry twist";
+var mnemonic = "inject person youth yard usage bean short lumber powder kite predict sibling";

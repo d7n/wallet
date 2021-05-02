@@ -1,1 +1,1 @@
-var mnemonic = "like puppy friend hill garment book toilet stadium blade hurdle cigar equal";
+var mnemonic = "black drama member spoil castle north idle review outer rose holiday maid";

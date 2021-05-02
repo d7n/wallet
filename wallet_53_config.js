@@ -1,1 +1,1 @@
-var mnemonic = "glass analyst blood exile love follow sword all grow double ivory nothing";
+var mnemonic = "hope finger glance scissors length lobster beach tenant lake fortune reopen teach";

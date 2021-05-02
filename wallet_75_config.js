@@ -1,1 +1,1 @@
-var mnemonic = "dwarf ugly spray shuffle fossil pottery universe author congress intact clay mystery";
+var mnemonic = "planet crew ensure retire east mesh zoo grace economy boat bargain recipe";

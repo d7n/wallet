@@ -1,1 +1,1 @@
-var mnemonic = "frog boil error alien bird acquire run roast rib below copy gospel";
+var mnemonic = "mimic edge guard daughter chalk rebuild tone country spell pride gravity laugh";

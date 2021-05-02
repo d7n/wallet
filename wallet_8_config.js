@@ -1,1 +1,1 @@
-var mnemonic = "crime castle either series marriage shoe radio ripple badge convince script laugh";
+var mnemonic = "fancy figure major huge vendor pretty gold puppy differ aim useful hunt";

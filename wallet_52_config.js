@@ -1,1 +1,1 @@
-var mnemonic = "voice kingdom ladder humor wide balance perfect job witness afford story found";
+var mnemonic = "plunge salon require round betray omit anxiety south badge marriage air there";

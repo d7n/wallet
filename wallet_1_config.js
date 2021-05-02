@@ -1,1 +1,1 @@
-var mnemonic = "uncover magnet exhibit alpha priority people spider worth undo butter census close";
+var mnemonic = "parent fever nephew toss soul asthma pioneer few avoid spy desk knife";

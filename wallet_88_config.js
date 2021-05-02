@@ -1,1 +1,1 @@
-var mnemonic = "barrel coffee pool satoshi upper tool describe wall essay thunder swamp sing";
+var mnemonic = "village ramp jungle solar onion core about glove obscure delay climb just";

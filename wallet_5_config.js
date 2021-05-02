@@ -1,1 +1,1 @@
-var mnemonic = "vessel clever enforce crack reunion range glide zero flash cricket crunch wild";
+var mnemonic = "beach retreat off element dish peace jaguar tissue despair film screen situate";
