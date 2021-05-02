@@ -1,1 +1,1 @@
-var mnemonic = "elbow suspect junior lawsuit session rocket advice wasp ancient cattle review trap";
+var mnemonic = "garbage thank head purse laundry effort obtain enact exhibit bleak faith face";

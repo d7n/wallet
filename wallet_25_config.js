@@ -1,1 +1,1 @@
-var mnemonic = "chronic couch sight volume utility target frog hire earth shaft budget yard";
+var mnemonic = "visit attitude salon decrease eagle anger worth matter party pattern copy chapter";

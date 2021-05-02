@@ -1,1 +1,1 @@
-var mnemonic = "little dilemma snap rate cause day shallow public federal silver jump deliver";
+var mnemonic = "slot long rebel grid fan weather super try agree original member loyal";

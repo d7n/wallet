@@ -1,1 +1,1 @@
-var mnemonic = "utility jungle clerk census canvas often once pledge correct beef rose laundry";
+var mnemonic = "scissors deal already panic slice ticket pipe split wild toy property green";

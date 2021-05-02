@@ -1,1 +1,1 @@
-var mnemonic = "play fish parent fiction shoulder piece predict slight ozone fancy energy float";
+var mnemonic = "convince slot search fantasy head taste private impact sword flight normal pattern";

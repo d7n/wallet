@@ -1,1 +1,1 @@
-var mnemonic = "off chunk prevent maple absent cupboard minimum beach name fragile find bacon";
+var mnemonic = "tobacco soap fault outdoor situate transfer strike coral wear anxiety mirror half";

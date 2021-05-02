@@ -1,1 +1,1 @@
-var mnemonic = "atom nose island fitness royal half night various flower garage waste claw";
+var mnemonic = "effort defense prevent market south clown donor rose donkey web square lamp";

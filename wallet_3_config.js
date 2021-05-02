@@ -1,1 +1,1 @@
-var mnemonic = "ethics retire runway goddess mesh dog build media inmate shed company beauty";
+var mnemonic = "mutual final poverty merry doll cricket skill gaze give wisdom nasty cry";

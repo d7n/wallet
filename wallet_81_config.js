@@ -1,1 +1,1 @@
-var mnemonic = "enough sniff churn salt april soft bread street route embody cargo hamster";
+var mnemonic = "calm blast glide able rabbit fossil chef current fruit put urban boring";

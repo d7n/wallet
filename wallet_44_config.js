@@ -1,1 +1,1 @@
-var mnemonic = "giggle amount fringe fork explain ecology control pet forward this bargain ball";
+var mnemonic = "fiber believe shoulder across oblige cycle alter trap typical scout bulb around";

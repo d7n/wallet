@@ -1,1 +1,1 @@
-var mnemonic = "mountain peanut impulse riot supreme angle grant blur anxiety novel subject economy";
+var mnemonic = "paper dentist horse zoo car collect cash security dwarf answer leader mushroom";

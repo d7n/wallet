@@ -1,1 +1,1 @@
-var mnemonic = "indoor belt spray coast bronze swallow admit critic response hire write scene";
+var mnemonic = "rally impact public hunt design profit genius reason almost wreck glide gas";

@@ -1,1 +1,1 @@
-var mnemonic = "horror lemon venue confirm govern twist choose enlist split hero tone skin";
+var mnemonic = "ridge good sure bicycle cage train asset correct method hundred panther police";

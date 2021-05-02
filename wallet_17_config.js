@@ -1,1 +1,1 @@
-var mnemonic = "tobacco train text protect walk cover horror used box royal secret village";
+var mnemonic = "bag exit marriage broccoli police kiwi horse envelope monster raven body success";

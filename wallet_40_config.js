@@ -1,1 +1,1 @@
-var mnemonic = "joke real fatal capable draft deputy profit spoon pattern ecology improve surprise";
+var mnemonic = "drill bike inspire desk more base raccoon ribbon clean field vacant century";

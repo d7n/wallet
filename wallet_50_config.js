@@ -1,1 +1,1 @@
-var mnemonic = "nominee gloom lounge among frown mechanic knife fortune wire leaf deliver pizza";
+var mnemonic = "solution rubber ugly misery bag royal brand imitate decade call myself catalog";

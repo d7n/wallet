@@ -1,1 +1,1 @@
-var mnemonic = "speak sting tank light quality peasant mirror also october bomb frame empower";
+var mnemonic = "refuse thumb jelly stock game art property noble adapt thunder extra regret";

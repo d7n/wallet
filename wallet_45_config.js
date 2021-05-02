@@ -1,1 +1,1 @@
-var mnemonic = "hire session symbol baby steel leave pact ranch region axis abandon dizzy";
+var mnemonic = "cross copy chalk draw build install law say liberty invite leave turkey";

@@ -1,1 +1,1 @@
-var mnemonic = "fabric bachelor fix index flame select over wrap river book sorry heart";
+var mnemonic = "note hello laugh undo bullet lumber pitch divide safe proud mind divert";

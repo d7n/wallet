@@ -1,1 +1,1 @@
-var mnemonic = "smooth cactus avoid snake taste spy blossom south drop breeze echo festival";
+var mnemonic = "join clinic reopen wink return put valve candy option magnet year wing";

@@ -1,1 +1,1 @@
-var mnemonic = "habit direct kitchen modify absurd retreat treat allow endless artefact seminar jungle";
+var mnemonic = "tuition bounce helmet vessel stock sock online cigar opinion pull tobacco similar";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic uniform kingdom since happy antenna prison debate glory sleep warfare spread";
+var mnemonic = "pelican ranch dumb attend hawk evolve now jungle oil ivory clerk exclude";

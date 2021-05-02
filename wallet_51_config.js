@@ -1,1 +1,1 @@
-var mnemonic = "detect sound wave huge junior parent judge sister mansion risk awful chapter";
+var mnemonic = "liberty coast paddle never riot keen over surround tape nuclear alcohol palace";

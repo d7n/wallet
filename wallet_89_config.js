@@ -1,1 +1,1 @@
-var mnemonic = "possible gorilla control elder unfair congress secret refuse adult napkin erase type";
+var mnemonic = "erosion actress bomb wagon disorder market pink key decrease trick mail enter";

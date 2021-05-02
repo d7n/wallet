@@ -1,1 +1,1 @@
-var mnemonic = "shock butter dragon more agent veteran token river left process assist tiger";
+var mnemonic = "cake stool meadow above mistake spread good leopard pass song endorse push";

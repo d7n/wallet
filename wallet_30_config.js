@@ -1,1 +1,1 @@
-var mnemonic = "mirror regret amateur double avoid aware horse alley coffee dentist snap address";
+var mnemonic = "dwarf net strong ability horn adjust tray legend large dwarf employ tonight";

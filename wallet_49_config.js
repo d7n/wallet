@@ -1,1 +1,1 @@
-var mnemonic = "faculty height alien movie drift wood strategy fence taxi fold unlock chicken";
+var mnemonic = "time place milk page infant crystal budget scheme cruel boy neglect bread";

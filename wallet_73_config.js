@@ -1,1 +1,1 @@
-var mnemonic = "bus repair found aware toe gloom grief believe solar stable easy fuel";
+var mnemonic = "custom hard chase refuse critic danger emerge chronic check heart scene fiscal";

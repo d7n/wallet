@@ -1,1 +1,1 @@
-var mnemonic = "tragic trophy add burst about height art else toilet hold scare book";
+var mnemonic = "broccoli whisper rabbit diamond call flip slab title culture adapt away apple";

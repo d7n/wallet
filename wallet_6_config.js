@@ -1,1 +1,1 @@
-var mnemonic = "fringe festival gym obscure snap negative only alarm core title peace blast";
+var mnemonic = "relax buddy chuckle shop ice defense oak churn search image there ostrich";

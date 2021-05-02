@@ -1,1 +1,1 @@
-var mnemonic = "stomach isolate crane ketchup spell bless source ball rich carry master border";
+var mnemonic = "balance remember need hub artwork primary jacket coyote author crawl throw push";

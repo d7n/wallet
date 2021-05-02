@@ -1,1 +1,1 @@
-var mnemonic = "level accident tuna dad blue air little fame useful airport swap library";
+var mnemonic = "fancy tiny execute enlist coffee mention hover rare liberty dismiss enrich double";

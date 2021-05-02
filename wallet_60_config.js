@@ -1,1 +1,1 @@
-var mnemonic = "vehicle risk enjoy oyster scorpion input strike toward wide amazing stem arena";
+var mnemonic = "throw quarter embrace either link mango canal scene question correct receive clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "wait foil gorilla replace typical main quote settle minute child glow screen";
+var mnemonic = "cliff disease scatter pass weekend pride age step knee lawn tortoise such";

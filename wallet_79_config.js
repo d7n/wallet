@@ -1,1 +1,1 @@
-var mnemonic = "smart ginger cruise diet fix live hurt ramp hope infant tumble pudding";
+var mnemonic = "ask dutch arena beach water custom physical memory trim lake high exile";

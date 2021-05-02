@@ -1,1 +1,1 @@
-var mnemonic = "harsh hawk multiply hollow lab address rack barely border goddess empty grab";
+var mnemonic = "tennis acoustic stove weekend shop lava caution woman exact used fragile mushroom";

@@ -1,1 +1,1 @@
-var mnemonic = "morning opinion march raise emerge another uncover today mean nation insane casual";
+var mnemonic = "eternal post before express half drop crash trash upon actual settle naive";

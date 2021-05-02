@@ -1,1 +1,1 @@
-var mnemonic = "dust slim board depend afraid acoustic blur remove jaguar pride round vendor";
+var mnemonic = "window devote hotel just guess calm outside fall shine inflict stove clog";

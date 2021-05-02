@@ -1,1 +1,1 @@
-var mnemonic = "fire snap collect lumber scissors produce pass chapter category kick usual core";
+var mnemonic = "hockey inflict foil future dolphin stage deal rally arrive humble seven say";

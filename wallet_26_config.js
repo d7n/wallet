@@ -1,1 +1,1 @@
-var mnemonic = "aisle pigeon kick case ticket master shoe liar century race coral captain";
+var mnemonic = "slam over response chicken shiver globe doctor segment eager intact pig seven";

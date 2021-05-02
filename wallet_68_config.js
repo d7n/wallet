@@ -1,1 +1,1 @@
-var mnemonic = "stable adjust main genre main pattern ostrich what more camp casual lonely";
+var mnemonic = "roof bronze tribe unusual crisp accuse clinic weather boost plunge fee idle";

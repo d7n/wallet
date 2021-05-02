@@ -1,1 +1,1 @@
-var mnemonic = "amazing health butter you broken advance fatigue absurd clap dynamic sunset grit";
+var mnemonic = "expect brick fetch artwork syrup bike account crane ill march embody merge";

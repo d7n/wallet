@@ -1,1 +1,1 @@
-var mnemonic = "lake place dinosaur cross fossil then garage congress legend cereal render grass";
+var mnemonic = "badge bargain oak captain mesh correct people fury phrase neutral marine sting";

@@ -1,1 +1,1 @@
-var mnemonic = "vanish olympic front around marine palm conduct bacon super notice lizard valve";
+var mnemonic = "inch accuse bring destroy margin disease arena scrub net increase vehicle satoshi";

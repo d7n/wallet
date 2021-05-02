@@ -1,1 +1,1 @@
-var mnemonic = "size nation term armed disease spare sport day patrol milk knock celery";
+var mnemonic = "ribbon cycle foam much indoor viable pull lobster ostrich fringe during head";

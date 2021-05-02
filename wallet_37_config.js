@@ -1,1 +1,1 @@
-var mnemonic = "bundle duck pear vibrant tone heart crucial scissors day timber inform marine";
+var mnemonic = "siege pattern sphere odor open name replace estate prize asthma gloom excite";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion gate riot manual napkin piece first trip absorb share tunnel omit";
+var mnemonic = "elbow tiny frozen sing flash tourist doll riot friend core fruit smoke";

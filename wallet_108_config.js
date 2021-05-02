@@ -1,1 +1,1 @@
-var mnemonic = "vendor trouble tragic habit grant beauty decrease soda broken devote process glow";
+var mnemonic = "piano palm march gossip tuition legend story brush horror hire invite special";

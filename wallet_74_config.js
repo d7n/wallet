@@ -1,1 +1,1 @@
-var mnemonic = "book bench source horn fluid network exotic pilot glass ensure own obey";
+var mnemonic = "gold impulse luxury today evoke dumb what naive orange claw eight wrong";

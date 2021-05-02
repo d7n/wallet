@@ -1,1 +1,1 @@
-var mnemonic = "between song entire try earn tornado pipe fantasy tower image couple success";
+var mnemonic = "legal script clay disorder wave attend weasel display cry lend play rhythm";

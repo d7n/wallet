@@ -1,1 +1,1 @@
-var mnemonic = "divide tobacco lock edit jar journey thought today estate bench crystal chalk";
+var mnemonic = "marriage because pull argue corn core party flip arm movie rotate heavy";

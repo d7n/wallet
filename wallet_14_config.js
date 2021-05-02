@@ -1,1 +1,1 @@
-var mnemonic = "heart dragon boost portion fitness secret detect raw defense desert broken live";
+var mnemonic = "because shiver chaos lemon flash edit genius discover tomato spread quick soul";

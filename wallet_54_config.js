@@ -1,1 +1,1 @@
-var mnemonic = "online off mass include sauce piano debris chest pilot fan cart spring";
+var mnemonic = "delay fiction below juice night ribbon stem divorce magnet gossip near same";

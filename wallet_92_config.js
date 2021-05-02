@@ -1,1 +1,1 @@
-var mnemonic = "milk fox dignity episode aunt buzz corn mouse forget clump fashion assault";
+var mnemonic = "survey regret system awful crumble congress shield double dial confirm room half";

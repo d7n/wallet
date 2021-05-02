@@ -1,1 +1,1 @@
-var mnemonic = "few surface wash great ivory coin shoulder custom kind come settle tourist";
+var mnemonic = "put gap witness camp require gossip area vital icon magic orphan verb";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire clown leopard bean mirror trigger crane any super mail child trumpet";
+var mnemonic = "wave where wild excess torch planet obvious cliff else panda shoe then";

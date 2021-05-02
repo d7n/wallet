@@ -1,1 +1,1 @@
-var mnemonic = "jazz lounge slam opera maple error scorpion cluster captain tired novel upper";
+var mnemonic = "noise total december famous swarm hollow scissors hazard flash catalog pluck quantum";

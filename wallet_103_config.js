@@ -1,1 +1,1 @@
-var mnemonic = "general sword deny bundle inquiry nothing solar acoustic tobacco attract aunt another";
+var mnemonic = "rapid other toward jealous stomach distance there identify double imitate always load";

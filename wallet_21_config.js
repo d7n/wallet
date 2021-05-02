@@ -1,1 +1,1 @@
-var mnemonic = "opera kite acid outer easily rigid news trial lizard lonely casual charge";
+var mnemonic = "aspect sausage wild ostrich neck use century review zebra blanket census young";

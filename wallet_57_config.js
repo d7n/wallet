@@ -1,1 +1,1 @@
-var mnemonic = "foot shoulder paper frost notice leg honey giraffe dentist fame van alone";
+var mnemonic = "jelly device they public under menu identify hood pretty vehicle expire custom";

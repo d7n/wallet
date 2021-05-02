@@ -1,1 +1,1 @@
-var mnemonic = "chuckle close cargo slim learn soccer among creek shy feel alcohol trim";
+var mnemonic = "topic fruit main rice person together rookie vanish lens rail abandon dynamic";

@@ -1,1 +1,1 @@
-var mnemonic = "library found manage yard lecture oil observe rail kiwi across dove chicken";
+var mnemonic = "label soda final hybrid frog shoulder announce item thunder time desert auction";

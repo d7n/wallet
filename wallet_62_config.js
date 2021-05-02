@@ -1,1 +1,1 @@
-var mnemonic = "visa sort right person nut sun lecture tray motion uniform genuine rural";
+var mnemonic = "provide dilemma hello make size fog blouse acquire wisdom beauty electric cheese";

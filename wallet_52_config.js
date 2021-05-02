@@ -1,1 +1,1 @@
-var mnemonic = "foot obtain slight crystal margin steak must trade point artist insect casino";
+var mnemonic = "adjust gas buffalo address devote business stay more abuse bless text resist";

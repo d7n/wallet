@@ -1,1 +1,1 @@
-var mnemonic = "slender panda dose labor brother hole economy police oil purse code dwarf";
+var mnemonic = "chef candy range melt rug clip basket hire lamp firm height lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "drip coconut ready patrol visual truck opera dog inform breeze negative double";
+var mnemonic = "panda rubber total hundred weasel you simple sketch thank pretty great original";

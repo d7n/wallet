@@ -1,1 +1,1 @@
-var mnemonic = "stamp worth slide dress admit admit grocery scrub confirm exchange hour urban";
+var mnemonic = "scare basket brother cluster garment mask crunch enact cross provide vibrant shadow";

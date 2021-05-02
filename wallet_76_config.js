@@ -1,1 +1,1 @@
-var mnemonic = "meat fiber someone piano verify infant warrior gasp public illegal embody name";
+var mnemonic = "neck balance hobby horse clutch adapt marine wink then tree mind cinnamon";

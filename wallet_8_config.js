@@ -1,1 +1,1 @@
-var mnemonic = "priority ritual cereal train dismiss velvet ramp sustain biology term cool staff";
+var mnemonic = "benefit oblige wild crumble metal omit broccoli marble sing staff galaxy public";

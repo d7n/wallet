@@ -1,1 +1,1 @@
-var mnemonic = "biology orphan humble hawk glue essay smile kid sting snow throw kidney";
+var mnemonic = "idea news patrol episode knee save vessel outdoor avocado million unfold olympic";

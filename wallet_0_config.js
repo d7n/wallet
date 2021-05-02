@@ -1,1 +1,1 @@
-var mnemonic = "glare blood credit just execute mixed always dwarf acid hundred husband all";
+var mnemonic = "talk side scare trend arctic give biology praise chimney what virtual other";

@@ -1,1 +1,1 @@
-var mnemonic = "glass jacket tumble island judge core east audit reflect empower fatigue also";
+var mnemonic = "hospital viable upper above smile prosper vacant awful deer tourist basket erase";

@@ -1,1 +1,1 @@
-var mnemonic = "leave glimpse winner hamster funny secret advance upon draw multiply crew fault";
+var mnemonic = "hard primary east either pride shock drink nut fence truly task cousin";

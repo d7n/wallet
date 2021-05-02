@@ -1,1 +1,1 @@
-var mnemonic = "robot follow rebuild bullet skull juice south athlete high begin match quit";
+var mnemonic = "slab search foot street reward margin century elephant guilt pledge noble piece";

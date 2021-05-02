@@ -1,1 +1,1 @@
-var mnemonic = "monkey kiss eight fat dutch kitten field blade ring carbon slow chair";
+var mnemonic = "hawk debris undo kite forest scheme shift radio whisper early suspect slow";

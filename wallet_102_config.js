@@ -1,1 +1,1 @@
-var mnemonic = "brief usage upgrade mean tip liquid chicken transfer husband wheel hover client";
+var mnemonic = "siege scan raccoon oyster sausage ridge mail involve reform eagle prepare during";

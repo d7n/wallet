@@ -1,1 +1,1 @@
-var mnemonic = "piano slot trumpet oval bulk copper scare convince daughter mandate skate catalog";
+var mnemonic = "mesh puzzle turkey auction guide cat define tree usage lava power parent";

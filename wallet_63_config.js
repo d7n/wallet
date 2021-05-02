@@ -1,1 +1,1 @@
-var mnemonic = "siege aim feed equip oxygen quantum oil fortune awesome head bright mother";
+var mnemonic = "judge mechanic become pulse cigar orange stay fiscal earth mixed host allow";

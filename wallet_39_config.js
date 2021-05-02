@@ -1,1 +1,1 @@
-var mnemonic = "shoot layer detail loan hunt vote tail drip coin undo name confirm";
+var mnemonic = "cluster style tone network alpha volume glow man jar sorry proof sister";

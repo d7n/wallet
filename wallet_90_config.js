@@ -1,1 +1,1 @@
-var mnemonic = "right actress buddy draw enact correct run enroll wing alert wonder capable";
+var mnemonic = "scatter bullet solid immune front hill evidence cupboard camp enrich pen flock";

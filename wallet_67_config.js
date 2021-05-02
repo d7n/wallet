@@ -1,1 +1,1 @@
-var mnemonic = "horror bounce reason park tree peasant glimpse divert tobacco abuse curious away";
+var mnemonic = "jealous cupboard above taxi quarter faith leisure depart error below crazy file";

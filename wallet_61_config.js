@@ -1,1 +1,1 @@
-var mnemonic = "project neglect swarm latin arch useful relief human spider kiss dumb urban";
+var mnemonic = "struggle rally assist position okay battle brief agent deposit opinion cousin found";

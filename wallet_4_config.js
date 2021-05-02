@@ -1,1 +1,1 @@
-var mnemonic = "wrong step assault easy leaf puppy grid wreck daring state clerk agree";
+var mnemonic = "cream genius thank helmet minor victory river rescue february puzzle plate family";

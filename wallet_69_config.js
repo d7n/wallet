@@ -1,1 +1,1 @@
-var mnemonic = "fan intact letter insect quarter bus ship post kite famous much wonder";
+var mnemonic = "spy chicken seven champion fault aerobic remove afford welcome snake grant guilt";

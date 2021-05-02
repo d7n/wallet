@@ -1,1 +1,1 @@
-var mnemonic = "enroll picture inject strategy you ancient orbit offer practice skill mushroom era";
+var mnemonic = "farm maple cover quiz educate gold garbage net ridge imitate rare orchard";

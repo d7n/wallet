@@ -1,1 +1,1 @@
-var mnemonic = "prepare orient sick tomato picture step swallow cousin ethics tumble nothing plunge";
+var mnemonic = "ivory wool coil room grape helmet shaft company wedding snap disease gaze";

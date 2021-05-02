@@ -1,1 +1,1 @@
-var mnemonic = "student reward begin adult evil drop silk edit imitate senior badge any";
+var mnemonic = "hurt entire tower juice famous solid huge neglect fish ski rabbit virtual";

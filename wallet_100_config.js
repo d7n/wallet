@@ -1,1 +1,1 @@
-var mnemonic = "assume oxygen until oven west claw ocean music tell dynamic swarm main";
+var mnemonic = "across unlock tilt glove neck head cactus injury practice arrow visa one";

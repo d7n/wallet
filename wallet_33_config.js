@@ -1,1 +1,1 @@
-var mnemonic = "mango gloom vicious clarify this salute art awesome elephant win snap sustain";
+var mnemonic = "sheriff earn awkward rabbit render tumble put chalk giraffe appear offer banana";
