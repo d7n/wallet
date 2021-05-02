@@ -1,1 +1,1 @@
-var mnemonic = "rally melt umbrella unveil deposit recycle army tiger mountain lion above mail";
+var mnemonic = "neutral erase spawn grief also disagree toast grunt curious surface parrot coral";

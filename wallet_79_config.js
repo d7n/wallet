@@ -1,1 +1,1 @@
-var mnemonic = "coconut jar slim napkin aspect endless pond window penalty myself cart engine";
+var mnemonic = "alarm total mushroom orange quantum ahead method baby regret online lesson skirt";

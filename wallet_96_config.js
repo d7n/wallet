@@ -1,1 +1,1 @@
-var mnemonic = "wrestle knock west usual shock tag lion knee garbage depart aunt office";
+var mnemonic = "merry balcony weather become cigar album stick popular object glove iron portion";

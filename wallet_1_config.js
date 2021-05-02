@@ -1,1 +1,1 @@
-var mnemonic = "satisfy album paper foot collect accident shaft mind range that relief acid";
+var mnemonic = "dance resist rack control midnight exist pledge ethics asset roof busy grit";

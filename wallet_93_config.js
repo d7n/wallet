@@ -1,1 +1,1 @@
-var mnemonic = "magnet repeat wood candy goose movie pride rotate leaf swap fragile taxi";
+var mnemonic = "know army can oyster park brown yard link level decade canoe bird";

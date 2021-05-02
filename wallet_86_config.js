@@ -1,1 +1,1 @@
-var mnemonic = "sand nation kitten change visit era net hotel tunnel quantum fatigue tribe";
+var mnemonic = "bargain art ship fury clay coast mystery gold giraffe wasp dad next";

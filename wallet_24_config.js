@@ -1,1 +1,1 @@
-var mnemonic = "breeze rely harvest surge basket cool whip ketchup column robot excite poet";
+var mnemonic = "security banner pair crash midnight mirror uncle occur club battle token creek";

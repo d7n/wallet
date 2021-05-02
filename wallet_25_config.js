@@ -1,1 +1,1 @@
-var mnemonic = "betray stock wreck matrix local grunt humor fluid remember donor pizza ozone";
+var mnemonic = "believe brisk athlete badge stereo buddy twenty join slot float energy moment";

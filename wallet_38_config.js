@@ -1,1 +1,1 @@
-var mnemonic = "huge gloom morning step can finger august tuition rice lumber nephew body";
+var mnemonic = "lawn office toss express beach club crumble giant humor parent split adapt";

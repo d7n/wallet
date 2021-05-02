@@ -1,1 +1,1 @@
-var mnemonic = "antenna novel size antique connect brown help kidney leopard special gather pig";
+var mnemonic = "payment have scout brave rare cheap despair sustain life guide face question";

@@ -1,1 +1,1 @@
-var mnemonic = "own ethics poet crystal when better arrive gaze cushion injury output zone";
+var mnemonic = "salad alley night grace view since vivid economy crane crawl market goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "alone grace hold melt cherry lunar sauce inside shoot dentist celery grit";
+var mnemonic = "ladder version strategy embark net trip nephew excess ritual merry actress fetch";

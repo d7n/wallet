@@ -1,1 +1,1 @@
-var mnemonic = "census sentence practice month perfect asset distance indoor scissors polar peace dutch";
+var mnemonic = "around weapon brick federal patch north lift piano supply toddler behind gift";

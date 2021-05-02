@@ -1,1 +1,1 @@
-var mnemonic = "climb proof silent blush verify burger funny orient match scissors ask always";
+var mnemonic = "pilot round moment maple lock disorder tooth crouch renew divert congress thrive";

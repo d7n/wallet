@@ -1,1 +1,1 @@
-var mnemonic = "topple sell glance fade mystery convince nut scrub piece success nice trust";
+var mnemonic = "extra error pool bronze loyal now result host bleak key walnut host";

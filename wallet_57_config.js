@@ -1,1 +1,1 @@
-var mnemonic = "strong hockey juice curtain taste proud jelly much plug size coast identify";
+var mnemonic = "elevator able depend number mass protect motion guilt phone liar mesh omit";

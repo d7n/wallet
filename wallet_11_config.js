@@ -1,1 +1,1 @@
-var mnemonic = "cannon impose rebel warm immune shift enrich scale card asthma glance they";
+var mnemonic = "avocado arrest because transfer glad race vapor video amateur total kidney globe";

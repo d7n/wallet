@@ -1,1 +1,1 @@
-var mnemonic = "bubble vanish south pudding nut onion harbor caught modify economy breeze thing";
+var mnemonic = "cheap loyal begin stand margin kit glimpse wrestle sausage outer fire coconut";

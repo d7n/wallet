@@ -1,1 +1,1 @@
-var mnemonic = "vote throw wash true equal comfort theme rather process pledge cover fish";
+var mnemonic = "initial garbage insane slogan bachelor foot name medal vessel other then upset";

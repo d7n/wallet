@@ -1,1 +1,1 @@
-var mnemonic = "protect case culture ahead someone gown swim dance salad unit ski slide";
+var mnemonic = "warm broccoli hurdle knock coyote wagon ignore scene trick wall left delay";

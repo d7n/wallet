@@ -1,1 +1,1 @@
-var mnemonic = "claim degree fame brush cage devote tumble double devote month fresh moral";
+var mnemonic = "consider solve praise library syrup concert away despair asset diary pumpkin whisper";

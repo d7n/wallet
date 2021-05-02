@@ -1,1 +1,1 @@
-var mnemonic = "author struggle cushion input radio drum bridge little boil curious east tape";
+var mnemonic = "column spirit draft come profit caution rent emerge long uniform glue heart";

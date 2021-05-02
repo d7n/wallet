@@ -1,1 +1,1 @@
-var mnemonic = "cruel spice coyote atom fault dumb crash short skill barely provide pupil";
+var mnemonic = "drop finger twist fiscal viable cabin share dice combine injury soda false";

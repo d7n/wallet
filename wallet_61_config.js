@@ -1,1 +1,1 @@
-var mnemonic = "parrot chimney kid gold choose shrimp hand surround sick very bean throw";
+var mnemonic = "host disorder current public trumpet resemble scare gasp heart dentist ripple excess";

@@ -1,1 +1,1 @@
-var mnemonic = "kitchen beyond pupil north blouse lizard force impact ankle forward razor coffee";
+var mnemonic = "foot hazard scissors public step visual yellow bounce genre glad swing orbit";

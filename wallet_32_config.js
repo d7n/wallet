@@ -1,1 +1,1 @@
-var mnemonic = "diary erode ankle brown diary faith mercy live say domain snap december";
+var mnemonic = "grace tide discover glide polar crack strike wrestle special soccer emotion jump";

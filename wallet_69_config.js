@@ -1,1 +1,1 @@
-var mnemonic = "quarter library toy warfare label biology debris group siege isolate boost grain";
+var mnemonic = "master trip hint genius move cupboard wrestle lunar use minute project obvious";

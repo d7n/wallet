@@ -1,1 +1,1 @@
-var mnemonic = "permit message simple tilt fix loud swift idle finger planet forum mass";
+var mnemonic = "disease mountain remove inquiry face kit will soft clarify athlete top spend";

@@ -1,1 +1,1 @@
-var mnemonic = "assist direct oval humor reason ten task supply evidence clump pink find";
+var mnemonic = "roof notice whisper indicate total hawk moral carry baby manage funny fragile";

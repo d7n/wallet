@@ -1,1 +1,1 @@
-var mnemonic = "copy thought vintage employ enable salute immense fiber century thought waste salon";
+var mnemonic = "voice until joy club rabbit need pool funny document cigar balance tongue";

@@ -1,1 +1,1 @@
-var mnemonic = "sell narrow banana purpose meadow leave ladder forum interest hip clip country";
+var mnemonic = "paper fiction blossom gloom burden sun strategy praise name sock sorry double";

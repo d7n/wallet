@@ -1,1 +1,1 @@
-var mnemonic = "buffalo dash cactus bless issue vivid fat fold side dinner liquid expose";
+var mnemonic = "tattoo extend artefact frost stamp approve venue canal evolve gas clutch depart";

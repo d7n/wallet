@@ -1,1 +1,1 @@
-var mnemonic = "describe helmet february weasel ghost syrup goose fury fall task drill ginger";
+var mnemonic = "initial install friend steak issue produce oil various wrist slide mimic oval";

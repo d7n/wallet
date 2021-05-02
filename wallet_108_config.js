@@ -1,1 +1,1 @@
-var mnemonic = "inherit bronze accuse vacant expire connect under payment wheat upper rain about";
+var mnemonic = "horse bar jazz deposit vacant message cereal silver salad naive dumb thunder";

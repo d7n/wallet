@@ -1,1 +1,1 @@
-var mnemonic = "endless license ticket actress chapter romance aim wreck real mix target tragic";
+var mnemonic = "vital inspire allow share world dismiss coin use elephant tank minor spot";

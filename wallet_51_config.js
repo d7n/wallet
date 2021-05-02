@@ -1,1 +1,1 @@
-var mnemonic = "lava deer hair debris easy twist entry arrange elbow prevent tomorrow response";
+var mnemonic = "shock float marine fly park remember genuine bid pulp knife lobster detail";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli gorilla solution mixed dilemma addict quantum own cancel captain table hollow";
+var mnemonic = "tired exile plastic pony cost card olive local address control december crack";

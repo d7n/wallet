@@ -1,1 +1,1 @@
-var mnemonic = "crowd inch target ill screen wish veteran brisk robust rifle expire umbrella";
+var mnemonic = "will service put idle denial subway stock order nasty myself one this";

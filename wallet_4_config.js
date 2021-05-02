@@ -1,1 +1,1 @@
-var mnemonic = "cube ozone gain enjoy sphere two question spirit soap recipe ankle bike";
+var mnemonic = "noble price dwarf cool stone plug immense wide smart gain fossil conduct";

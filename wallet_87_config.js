@@ -1,1 +1,1 @@
-var mnemonic = "window napkin oven theory pupil entire shoe because poet area coyote select";
+var mnemonic = "rail play grow master try wealth defy pig hard view replace expand";

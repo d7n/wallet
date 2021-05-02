@@ -1,1 +1,1 @@
-var mnemonic = "bicycle chuckle door champion crop giant coil miss angle assist elite desk";
+var mnemonic = "month cable lava audit frame laundry home type enforce puppy unable asset";

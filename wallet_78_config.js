@@ -1,1 +1,1 @@
-var mnemonic = "slim episode match resist pelican toddler urge stamp biology woman grunt express";
+var mnemonic = "lonely erupt inquiry fiscal air cool fringe tunnel orphan seminar agree garlic";

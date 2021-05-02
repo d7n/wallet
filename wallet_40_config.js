@@ -1,1 +1,1 @@
-var mnemonic = "eternal elite lion bring afraid photo danger rose stay skirt monitor admit";
+var mnemonic = "stage nothing mobile fashion aunt month puzzle fan hurt thumb spider love";

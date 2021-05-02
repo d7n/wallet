@@ -1,1 +1,1 @@
-var mnemonic = "anchor pig genius pet tunnel trim size proof century swing defense hero";
+var mnemonic = "team gloom dignity salon bounce slow between vapor empower option impose alley";

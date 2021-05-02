@@ -1,1 +1,1 @@
-var mnemonic = "camp desk grass mom bubble wool ritual fence soccer net announce damage";
+var mnemonic = "cry amateur lonely letter pupil pigeon replace exotic sight rocket fiscal napkin";

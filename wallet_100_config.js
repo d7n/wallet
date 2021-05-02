@@ -1,1 +1,1 @@
-var mnemonic = "base hour lizard elevator hire tool orbit quick team artefact vast ketchup";
+var mnemonic = "chief absent help tooth trip ozone wrong soda isolate spy endorse wire";

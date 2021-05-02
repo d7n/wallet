@@ -1,1 +1,1 @@
-var mnemonic = "tomato crumble verb envelope stuff danger urban friend cave doctor injury inspire";
+var mnemonic = "enlist spike october creek arrive drink just envelope pipe voice clump verify";

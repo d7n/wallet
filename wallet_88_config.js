@@ -1,1 +1,1 @@
-var mnemonic = "heart around fine enhance anxiety crumble junior vibrant oval glimpse rotate goat";
+var mnemonic = "segment riot enroll case upon behind seat matrix voice crazy priority august";

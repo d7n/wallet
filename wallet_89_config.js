@@ -1,1 +1,1 @@
-var mnemonic = "together advance exact soon green chaos shed tell report gain today sock";
+var mnemonic = "heart rare hood luxury turn acquire focus shuffle song west hill repair";

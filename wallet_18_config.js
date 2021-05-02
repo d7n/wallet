@@ -1,1 +1,1 @@
-var mnemonic = "open roof leisure era sign earth prize drift buddy arrest woman walk";
+var mnemonic = "wolf permit gate cat duty sample wear skill nominee dinner hello burden";

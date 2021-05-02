@@ -1,1 +1,1 @@
-var mnemonic = "fall heavy game adjust parade sibling know profit zebra pudding recall bag";
+var mnemonic = "know ring soul evoke promote direct obtain sorry emerge before february reveal";

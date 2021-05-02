@@ -1,1 +1,1 @@
-var mnemonic = "express polar pig walnut armor fun depart slice throw later link jazz";
+var mnemonic = "company mushroom flock curious stem garlic clap thunder effort round judge child";

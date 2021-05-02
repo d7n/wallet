@@ -1,1 +1,1 @@
-var mnemonic = "cheese wheat miss brown under park skirt tornado hunt siege wear aerobic";
+var mnemonic = "icon decide fetch kiwi energy transfer assist ecology ethics echo together mobile";

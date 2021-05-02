@@ -1,1 +1,1 @@
-var mnemonic = "shallow mouse panel little pill grunt unlock congress cup miss slow roast";
+var mnemonic = "hurdle another hybrid opinion play major machine auction radio immense impulse can";

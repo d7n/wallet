@@ -1,1 +1,1 @@
-var mnemonic = "tank miracle normal fox fox maximum forget quote shy explain away worry";
+var mnemonic = "engine ice text pizza hover tape setup peace gossip what wrestle state";

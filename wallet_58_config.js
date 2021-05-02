@@ -1,1 +1,1 @@
-var mnemonic = "solve rabbit improve supply all stove stool mask exit neglect leisure sort";
+var mnemonic = "chair elevator design danger scatter kangaroo they salt sibling pretty uncover soon";

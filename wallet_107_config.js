@@ -1,1 +1,1 @@
-var mnemonic = "uncle install grunt output throw drip tip bacon original minute forest web";
+var mnemonic = "horn note home dice fun good emotion margin swap merit column include";

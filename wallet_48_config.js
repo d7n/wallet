@@ -1,1 +1,1 @@
-var mnemonic = "result push lounge pony polar taxi cinnamon fan thumb erode kangaroo wasp";
+var mnemonic = "escape answer load beef moon leopard card girl gorilla husband spy pipe";

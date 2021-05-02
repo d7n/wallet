@@ -1,1 +1,1 @@
-var mnemonic = "valley bean submit copper increase brand grab rare size exhaust kit knife";
+var mnemonic = "evil inhale smooth increase alert annual bitter penalty sugar tragic fatigue donor";

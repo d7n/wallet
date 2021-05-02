@@ -1,1 +1,1 @@
-var mnemonic = "maid dry police oil slogan utility cross isolate soda fun neck able";
+var mnemonic = "winner icon into initial talk entire control great such remind crouch rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "security six sing mesh basic oak wide pride attend jeans horror jazz";
+var mnemonic = "useful naive permit morning possible shaft balcony spin grocery nuclear soup uncover";

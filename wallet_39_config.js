@@ -1,1 +1,1 @@
-var mnemonic = "toe wine excite index cattle gift toss math position twice rough dignity";
+var mnemonic = "into recipe token witness grace snow orient sing language use divert judge";

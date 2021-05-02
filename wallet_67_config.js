@@ -1,1 +1,1 @@
-var mnemonic = "afford afraid pig hard rule this slogan duck humble tennis dry device";
+var mnemonic = "undo turn rebuild weird carpet result april fuel dinosaur beauty liquid bus";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey another wool chaos more merry discover harsh exercise tent artist path";
+var mnemonic = "strike silent foster snack rude maid song vapor shadow deposit chicken census";

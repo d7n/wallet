@@ -1,1 +1,1 @@
-var mnemonic = "gravity slide sample device response cabin orbit ramp treat insane floor solve";
+var mnemonic = "suspect injury hunt bleak ketchup burden tuna fatal galaxy message job surface";

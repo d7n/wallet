@@ -1,1 +1,1 @@
-var mnemonic = "assume ritual bicycle charge plastic pumpkin vault favorite law carbon crawl verify";
+var mnemonic = "talent custom half orphan mad leisure number gasp problem park cheese harsh";

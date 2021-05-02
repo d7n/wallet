@@ -1,1 +1,1 @@
-var mnemonic = "favorite glide empty member clever suggest museum main liquid dash toward flight";
+var mnemonic = "stamp velvet umbrella build atom awake device what mixture spider denial swallow";

@@ -1,1 +1,1 @@
-var mnemonic = "marble book oyster plastic cancel truck weasel session media infant lyrics jeans";
+var mnemonic = "coral wisdom nasty fitness unhappy smooth scare gesture certain paper drift wash";

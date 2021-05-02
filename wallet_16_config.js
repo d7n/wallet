@@ -1,1 +1,1 @@
-var mnemonic = "deposit royal consider whale enrich motion clutch wolf auction tortoise bracket float";
+var mnemonic = "rhythm once review arrive slim december fragile eyebrow organ organ license crater";

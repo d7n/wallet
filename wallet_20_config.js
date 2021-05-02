@@ -1,1 +1,1 @@
-var mnemonic = "angry survey need patient feed decrease pledge ghost elephant moment smart thrive";
+var mnemonic = "simple mandate lumber ripple permit save betray miss swim green limb face";

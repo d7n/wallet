@@ -1,1 +1,1 @@
-var mnemonic = "avocado test front path number furnace submit soup give melt push photo";
+var mnemonic = "ladder faculty scheme virtual card setup between sweet access honey file tone";

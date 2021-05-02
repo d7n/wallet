@@ -1,1 +1,1 @@
-var mnemonic = "then glad reason memory kiss robust until glass online acquire ginger cat";
+var mnemonic = "stumble rate rebuild inch tattoo hello surface aim social web video panther";

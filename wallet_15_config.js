@@ -1,1 +1,1 @@
-var mnemonic = "expire scout peanut click cabin lava fortune ivory since manage comfort habit";
+var mnemonic = "honey net vocal sock faint boost dress simple affair icon engine slight";

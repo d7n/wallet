@@ -1,1 +1,1 @@
-var mnemonic = "lemon scatter hurdle utility mind day begin list color swap decline awful";
+var mnemonic = "aisle stick inside crime inject ice flip noise budget recall enforce cause";

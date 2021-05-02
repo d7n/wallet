@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon question eternal guide start chicken inch maze upgrade hen cousin hint";
+var mnemonic = "earn acid mercy follow joke cushion like resource spring six achieve rail";

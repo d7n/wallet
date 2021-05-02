@@ -1,1 +1,1 @@
-var mnemonic = "swear size abstract lonely taxi crew camera age hazard leg near among";
+var mnemonic = "dawn edge relief nut offer predict action pistol victory female ladder empower";

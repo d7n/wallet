@@ -1,1 +1,1 @@
-var mnemonic = "symbol limit bring size volcano rubber permit monitor card lab prize payment";
+var mnemonic = "impose release barrel mansion curtain approve lunch lion tilt mule exercise kingdom";

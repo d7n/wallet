@@ -1,1 +1,1 @@
-var mnemonic = "prison size satisfy loud intact jar large brave sugar multiply crouch alley";
+var mnemonic = "bonus invite noise own pigeon giraffe globe borrow satisfy middle patrol message";

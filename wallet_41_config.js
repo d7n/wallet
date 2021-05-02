@@ -1,1 +1,1 @@
-var mnemonic = "cute regret bridge lobster begin number voyage cannon steak tape goddess hurry";
+var mnemonic = "either taste since open voyage return pencil certain leopard initial enlist alone";

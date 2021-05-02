@@ -1,1 +1,1 @@
-var mnemonic = "outer denial calm desk grace evoke pioneer scare wolf jungle abstract toy";
+var mnemonic = "security patrol employ join render beyond mechanic prepare awkward mixed burger proud";

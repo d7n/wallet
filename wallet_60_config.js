@@ -1,1 +1,1 @@
-var mnemonic = "chuckle either boss antenna wing enhance pistol also regular mystery topic confirm";
+var mnemonic = "save emerge black way bracket alone away sure egg tool art poet";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt become member maze future radio dice rare honey debris crisp combine";
+var mnemonic = "keep typical service forest blind wall token bright alter fee deliver off";

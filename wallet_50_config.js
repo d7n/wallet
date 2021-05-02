@@ -1,1 +1,1 @@
-var mnemonic = "riot stable sell hole world prosper rib book guitar blanket mimic expect";
+var mnemonic = "amazing huge join alley rare solution debate shop gown cave undo airport";

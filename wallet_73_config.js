@@ -1,1 +1,1 @@
-var mnemonic = "jar amount enough walk about milk grass wedding family iron acquire payment";
+var mnemonic = "recycle top kingdom protect maple right foster almost jungle fix sport cause";

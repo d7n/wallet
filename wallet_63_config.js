@@ -1,1 +1,1 @@
-var mnemonic = "cement opera know alone exchange fog vicious cigar poet kind dinosaur trap";
+var mnemonic = "divert dress couch carbon alter garlic stem alarm rescue ozone camp boss";

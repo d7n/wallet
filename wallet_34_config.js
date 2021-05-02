@@ -1,1 +1,1 @@
-var mnemonic = "endless fame clump cycle army group bless ready advice street harvest sand";
+var mnemonic = "siren noble split dune robot student volume useful shell unfold exercise benefit";

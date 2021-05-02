@@ -1,1 +1,1 @@
-var mnemonic = "slab juice media canal ramp crazy flash foot alter addict table champion";
+var mnemonic = "wrestle chef mom resemble absurd bronze this frozen run rice equip correct";

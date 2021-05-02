@@ -1,1 +1,1 @@
-var mnemonic = "grid dish helmet warfare fragile speed fetch breeze various exclude shed real";
+var mnemonic = "impulse speed battle pave exist merit critic spirit conduct visual estate december";

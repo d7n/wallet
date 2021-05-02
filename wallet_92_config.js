@@ -1,1 +1,1 @@
-var mnemonic = "version valid question orchard blossom modify damp depth lady derive view joke";
+var mnemonic = "shop ball forget inspire same motion oil festival cotton rural paddle picture";

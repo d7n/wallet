@@ -1,1 +1,1 @@
-var mnemonic = "general lock mail grant drift subject pelican unfair uniform pretty wise decline";
+var mnemonic = "burst tragic north speak nation hurt glance knife dutch total embark then";

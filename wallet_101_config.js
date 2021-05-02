@@ -1,1 +1,1 @@
-var mnemonic = "caution bacon garbage outer melt park merry lake tornado vivid lottery step";
+var mnemonic = "welcome another depth theme tired consider shock man gospel hero sugar achieve";

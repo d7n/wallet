@@ -1,1 +1,1 @@
-var mnemonic = "require truly search guilt spice sword depend term nurse margin kidney impulse";
+var mnemonic = "digital remove prison enter what idea pepper meat canal wait panic glide";

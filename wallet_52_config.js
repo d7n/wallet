@@ -1,1 +1,1 @@
-var mnemonic = "charge clog arch tourist tunnel step pencil pink quiz pull reform false";
+var mnemonic = "joy often urban carpet cherry thumb ask armed finish frost bag rough";
