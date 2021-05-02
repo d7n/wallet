@@ -1,1 +1,1 @@
-var mnemonic = "miracle obvious avocado amateur merit blush hill recipe agent uniform bless special";
+var mnemonic = "awkward hamster between volcano agree antenna vacant detail lava salad sad fresh";

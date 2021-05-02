@@ -1,1 +1,1 @@
-var mnemonic = "play lunar roof spawn people engine chase fitness april trigger can movie";
+var mnemonic = "carpet spring steel project student file hour canvas shrug myself gloom aware";

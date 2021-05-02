@@ -1,1 +1,1 @@
-var mnemonic = "destroy will situate deer gift liquid laundry trophy guitar miracle top lend";
+var mnemonic = "reveal fantasy duck oxygen glimpse result antique artefact mobile album chase army";

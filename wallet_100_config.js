@@ -1,1 +1,1 @@
-var mnemonic = "airport upgrade home then cactus client wine limb jeans liar autumn actress";
+var mnemonic = "sick sad near disorder shell pulp bicycle over august laugh blue cactus";

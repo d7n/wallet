@@ -1,1 +1,1 @@
-var mnemonic = "rally pigeon rich click kitten peanut auto another shoe oven plate family";
+var mnemonic = "all abuse shift capital ring auction usage gaze kid garden doctor claim";

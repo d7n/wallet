@@ -1,1 +1,1 @@
-var mnemonic = "screen also brisk final lawsuit weekend artwork abuse bomb call hotel exit";
+var mnemonic = "ship barrel chat involve knife wash caught stadium evolve viable wave gallery";

@@ -1,1 +1,1 @@
-var mnemonic = "student inmate found maximum jeans eager gentle explain add paper impulse clean";
+var mnemonic = "build diary increase grunt badge believe dance other cake voyage march explain";

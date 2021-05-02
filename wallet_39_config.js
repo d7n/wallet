@@ -1,1 +1,1 @@
-var mnemonic = "bone seat grace manage field between hedgehog weasel test solution symbol scale";
+var mnemonic = "true unknown birth hammer begin sea domain wheel social pill seven youth";

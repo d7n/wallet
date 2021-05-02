@@ -1,1 +1,1 @@
-var mnemonic = "addict glove wire hub secret catalog drama oyster olive grant mean sign";
+var mnemonic = "wet diesel render balcony coyote lottery real betray feel roof stumble truth";

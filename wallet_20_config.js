@@ -1,1 +1,1 @@
-var mnemonic = "promote much release inform cabbage wire soda dial what bring peanut feature";
+var mnemonic = "orphan wisdom text wheat budget useless win pony welcome until robust timber";

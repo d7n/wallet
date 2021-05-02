@@ -1,1 +1,1 @@
-var mnemonic = "motor erosion digital ripple gallery glow sight repeat emerge divide flat fortune";
+var mnemonic = "rack start note seven second pyramid gym egg logic initial luggage mosquito";

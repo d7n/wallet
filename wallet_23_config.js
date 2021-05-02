@@ -1,1 +1,1 @@
-var mnemonic = "power fragile desert brown combine hour secret garlic push coach glove maximum";
+var mnemonic = "cruise ask world apology wisdom table voice boring sign solution high rebel";

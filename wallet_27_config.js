@@ -1,1 +1,1 @@
-var mnemonic = "hockey strike boat lucky promote swap flavor bar rice photo phone pyramid";
+var mnemonic = "hub cute milk dry liar rookie asthma flock gain puzzle peace travel";

@@ -1,1 +1,1 @@
-var mnemonic = "shift regret snake snack cake chase leopard reduce creek suit rapid valley";
+var mnemonic = "lonely local immune entry legend above cook anger belt clean design monitor";

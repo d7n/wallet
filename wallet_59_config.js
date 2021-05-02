@@ -1,1 +1,1 @@
-var mnemonic = "paper general together hospital gadget negative spice road embody athlete common cradle";
+var mnemonic = "seven age rose sorry gun use armed lab island auto ridge unaware";

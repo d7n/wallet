@@ -1,1 +1,1 @@
-var mnemonic = "whale wool gorilla witness crater butter lizard pottery humble pledge home comfort";
+var mnemonic = "room arrow interest nerve mechanic cricket easily play vague lesson lounge blade";

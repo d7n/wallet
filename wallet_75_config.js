@@ -1,1 +1,1 @@
-var mnemonic = "once hockey tip radar during nurse stage eagle dilemma april dress air";
+var mnemonic = "inmate bargain apology lion what grit soon finish license lobster mention pave";

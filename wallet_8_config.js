@@ -1,1 +1,1 @@
-var mnemonic = "water jelly figure field success cross vast wolf misery dial icon bring";
+var mnemonic = "problem sentence move exclude sand panic engage sniff setup unhappy plunge neutral";

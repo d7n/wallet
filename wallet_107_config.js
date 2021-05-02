@@ -1,1 +1,1 @@
-var mnemonic = "steak end sport suffer toward brother water pluck review spoon vibrant latin";
+var mnemonic = "stage mosquito cute curve hold course clap harvest best fiction library glory";

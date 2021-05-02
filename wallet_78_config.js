@@ -1,1 +1,1 @@
-var mnemonic = "tomato board piano very bleak pepper zero potato thunder punch wheel spray";
+var mnemonic = "excuse accident token outdoor fluid hurt maze increase entire upper canvas gym";

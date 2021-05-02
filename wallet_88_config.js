@@ -1,1 +1,1 @@
-var mnemonic = "insect noble help mountain owner cart capable tag drive ceiling zero one";
+var mnemonic = "begin beyond tilt leader attack sheriff elegant eye october frame shrug rain";

@@ -1,1 +1,1 @@
-var mnemonic = "decrease odor route auction miss print subject current athlete pipe since sponsor";
+var mnemonic = "agree arctic apology series hope bunker harvest dust kick inside fade nephew";

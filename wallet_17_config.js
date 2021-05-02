@@ -1,1 +1,1 @@
-var mnemonic = "riot galaxy blanket found rice detect police inmate kidney budget wheel giraffe";
+var mnemonic = "remind hobby merit snow wage double merge often bundle curtain sail vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "local milk hunt purchase park lift fish ability aerobic easily space general";
+var mnemonic = "comfort legend neither mass spell talk exotic original mom ugly exclude tobacco";

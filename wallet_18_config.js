@@ -1,1 +1,1 @@
-var mnemonic = "casual canal small tired art panel cave talk oyster movie walk broom";
+var mnemonic = "lobster aim point wash sick pretty pony forest convince iron idle achieve";

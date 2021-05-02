@@ -1,1 +1,1 @@
-var mnemonic = "brown wage correct taste early sport frog trial tilt win soon damp";
+var mnemonic = "slide know innocent erosion essay worth stuff use device scissors grit ice";

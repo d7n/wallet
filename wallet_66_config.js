@@ -1,1 +1,1 @@
-var mnemonic = "wage village brush matrix child claw express discover ranch achieve prize media";
+var mnemonic = "heart blouse hold life vibrant dish case deposit claw crane receive heavy";

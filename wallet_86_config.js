@@ -1,1 +1,1 @@
-var mnemonic = "junior keep limb essence stumble hood enjoy mom thrive seed rain emotion";
+var mnemonic = "junior absurd gesture slender brain test amazing force ceiling easy dry shock";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor grow draw spring bachelor loop always poet opera angle license lamp";
+var mnemonic = "pave special clay remind tornado nephew produce merry powder wrap choice output";

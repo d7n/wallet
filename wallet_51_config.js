@@ -1,1 +1,1 @@
-var mnemonic = "essence gravity quote square boy antenna wheat thumb unhappy lobster scrap across";
+var mnemonic = "north blue message antique across climb scheme lesson entry spike bottom suspect";

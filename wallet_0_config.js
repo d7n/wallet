@@ -1,1 +1,1 @@
-var mnemonic = "endorse spray proof onion concert crime subject pride exercise jealous change liberty";
+var mnemonic = "jelly sport false diagram expire increase exercise donate debate someone gadget resist";

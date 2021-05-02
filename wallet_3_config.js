@@ -1,1 +1,1 @@
-var mnemonic = "weird matrix hundred gesture split involve rigid rather cross junior warm grid";
+var mnemonic = "mad away spray garbage toe disorder topple lyrics repeat useless van frog";

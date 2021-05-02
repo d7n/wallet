@@ -1,1 +1,1 @@
-var mnemonic = "axis venue increase life shy jungle near grace estate color network tide";
+var mnemonic = "genius pistol behind diagram nature ocean blur delay sword absurd plug fancy";

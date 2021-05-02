@@ -1,1 +1,1 @@
-var mnemonic = "obtain symptom solid useless finish ride boring brave fee bid mobile spike";
+var mnemonic = "citizen tent topple crop void elevator cash trumpet method intact call ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "basic flower odor attract weapon develop region minor dignity much alter slam";
+var mnemonic = "glory acoustic earn reopen boring report oyster client quick neglect jungle army";

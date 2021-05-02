@@ -1,1 +1,1 @@
-var mnemonic = "spirit december gun sick owner guess globe path avocado regular help basket";
+var mnemonic = "bomb cotton pupil open become easily bacon plate tone enter test supply";

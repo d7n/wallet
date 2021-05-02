@@ -1,1 +1,1 @@
-var mnemonic = "act tornado rib future put kite motor keep kid main sunset involve";
+var mnemonic = "mansion shed blanket churn else between monkey universe long whisper clog between";

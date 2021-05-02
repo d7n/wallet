@@ -1,1 +1,1 @@
-var mnemonic = "weather flag sunset resource replace weekend butter obey tragic flavor ketchup push";
+var mnemonic = "economy absorb sauce reason winter volcano transfer feed dream egg knee foil";

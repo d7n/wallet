@@ -1,1 +1,1 @@
-var mnemonic = "one sick fluid crazy edit chicken summer story match deliver alarm usual";
+var mnemonic = "vibrant alert innocent mind knock fold foot same hawk dolphin present order";

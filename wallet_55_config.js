@@ -1,1 +1,1 @@
-var mnemonic = "ketchup reveal isolate sketch outside stage vintage style bid mention inform impose";
+var mnemonic = "social enough joke shoot fish bird tool zebra okay burger tiny bronze";

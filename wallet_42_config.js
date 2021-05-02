@@ -1,1 +1,1 @@
-var mnemonic = "flame heavy hybrid search clip unusual wisdom piano december gasp broccoli employ";
+var mnemonic = "imitate chuckle staff wheel squirrel arrive weekend hero picnic color now suggest";

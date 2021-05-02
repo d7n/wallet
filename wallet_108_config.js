@@ -1,1 +1,1 @@
-var mnemonic = "cheese split travel describe indoor nuclear police furnace service leg asset army";
+var mnemonic = "shiver owner similar service resist kitten icon ignore athlete park casual west";

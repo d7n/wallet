@@ -1,1 +1,1 @@
-var mnemonic = "begin salmon mass garlic fox settle must fatigue airport present sport arrow";
+var mnemonic = "coyote twist glass caution upon cause notable skirt bread chief pair solution";

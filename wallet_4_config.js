@@ -1,1 +1,1 @@
-var mnemonic = "tray sadness skill vault slab path asset until biology chimney dust mobile";
+var mnemonic = "crop track hazard idea split horse rifle company receive width curious silk";

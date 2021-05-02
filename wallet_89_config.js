@@ -1,1 +1,1 @@
-var mnemonic = "mango robot belt theme possible feature deputy travel tomorrow cable satisfy amount";
+var mnemonic = "oppose vicious soon deposit scan trim goat pottery bonus onion amount group";

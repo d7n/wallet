@@ -1,1 +1,1 @@
-var mnemonic = "kick arrow approve enrich laugh recycle bid language exchange undo tenant gate";
+var mnemonic = "climb blouse relief buffalo song obtain engine fruit frequent produce remind govern";

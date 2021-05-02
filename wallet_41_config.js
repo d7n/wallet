@@ -1,1 +1,1 @@
-var mnemonic = "stage boil rifle oyster strategy blame dune bonus quick furnace just black";
+var mnemonic = "ginger level duck subway race vast ladder cream foot seven target monitor";

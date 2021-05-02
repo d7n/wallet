@@ -1,1 +1,1 @@
-var mnemonic = "expect month fancy universe skull grape cave diamond often hat anger pudding";
+var mnemonic = "sense bag wealth board alcohol sunset race enforce parent iron travel between";

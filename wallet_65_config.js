@@ -1,1 +1,1 @@
-var mnemonic = "oyster popular during coral tribe visa buyer either script leaf park rebel";
+var mnemonic = "below drill candy adapt glove defy upon muffin wish flush purchase aware";

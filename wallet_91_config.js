@@ -1,1 +1,1 @@
-var mnemonic = "lounge cash core pioneer width ridge caution adjust input layer shiver oil";
+var mnemonic = "adult pulse blood soap rely raven giggle congress loyal rather pencil guilt";

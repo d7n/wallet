@@ -1,1 +1,1 @@
-var mnemonic = "puzzle wrap knife rent mail husband true become fiber pencil humor wave";
+var mnemonic = "eagle edge brand loan turtle live model power transfer warm verb cushion";

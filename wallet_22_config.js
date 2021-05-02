@@ -1,1 +1,1 @@
-var mnemonic = "exotic race token cage pledge scrap couch general lazy account company rough";
+var mnemonic = "market opera amateur length shiver tattoo chase corn true antique egg rebel";

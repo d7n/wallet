@@ -1,1 +1,1 @@
-var mnemonic = "foil unusual guard unfair toe bike history rookie sentence camera abstract warrior";
+var mnemonic = "tilt ordinary denial tuition chaos lava chat hundred kiss gate ball echo";

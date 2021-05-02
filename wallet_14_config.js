@@ -1,1 +1,1 @@
-var mnemonic = "tuna harsh lunch video huge audit junk second mechanic snack private lava";
+var mnemonic = "suffer van athlete shy column dutch nut dog laugh normal raven monitor";

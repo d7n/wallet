@@ -1,1 +1,1 @@
-var mnemonic = "famous expand fiction opera expect note notice admit vicious return bus place";
+var mnemonic = "emotion since resemble diagram memory satoshi regular crunch exact girl market scrap";

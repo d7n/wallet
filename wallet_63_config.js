@@ -1,1 +1,1 @@
-var mnemonic = "dizzy keep teach penalty wood clip garment betray dance cousin light wife";
+var mnemonic = "frozen trophy shy mixed dust yellow casual clarify social rely oblige twist";

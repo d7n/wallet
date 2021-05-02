@@ -1,1 +1,1 @@
-var mnemonic = "around liberty economy print genuine oppose elephant error suggest job crush skin";
+var mnemonic = "remove bench spot border squeeze duty gallery nothing nation crater usual acid";

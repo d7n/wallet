@@ -1,1 +1,1 @@
-var mnemonic = "this neither author burst thing comic desert strategy fault mass work leopard";
+var mnemonic = "chef hockey glad service improve crawl lobster expand hazard smooth alley obtain";

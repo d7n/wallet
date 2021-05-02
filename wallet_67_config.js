@@ -1,1 +1,1 @@
-var mnemonic = "gesture shine much hello element catalog exile zebra tank slender monitor over";
+var mnemonic = "month leave slender innocent pyramid gasp vehicle victory denial sugar weekend doll";

@@ -1,1 +1,1 @@
-var mnemonic = "already refuse twenty shrimp question supply gospel armed scissors denial negative warm";
+var mnemonic = "observe define real soap develop rescue pet denial one virus morning stem";

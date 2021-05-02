@@ -1,1 +1,1 @@
-var mnemonic = "top sad circle behave voice sentence cake spatial apart silver rescue imitate";
+var mnemonic = "opinion recycle fly penalty bachelor erosion clean view cup slender purity jelly";

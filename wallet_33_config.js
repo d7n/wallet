@@ -1,1 +1,1 @@
-var mnemonic = "divorce wheel reform lock accuse pepper ethics oyster trumpet goose ride adjust";
+var mnemonic = "heart juice point clever letter weapon forward joke praise east merit slot";

@@ -1,1 +1,1 @@
-var mnemonic = "sock involve soon network luxury exercise local grief confirm egg check try";
+var mnemonic = "dream report tilt unhappy fall circle prize long toast clerk truly surround";

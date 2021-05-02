@@ -1,1 +1,1 @@
-var mnemonic = "hurry still library shiver puppy orbit leave magnet card rate enact job";
+var mnemonic = "jar simple wool deposit flee lonely palm what upper talk super avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "rude base ring before burden sunny sponsor thought lake fabric awake morning";
+var mnemonic = "illegal deer vacuum april weekend diary slight muffin endless grit furnace bottom";

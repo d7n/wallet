@@ -1,1 +1,1 @@
-var mnemonic = "bicycle doll record kite section float daring kind survey silly cradle hurt";
+var mnemonic = "sponsor okay reject copy dilemma field helmet scale option asthma mirror barrel";

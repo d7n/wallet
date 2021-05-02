@@ -1,1 +1,1 @@
-var mnemonic = "kiwi pet young damage sorry type cruise trust destroy text security wreck";
+var mnemonic = "monitor best erase author soul organ bitter fresh skirt reward improve female";

@@ -1,1 +1,1 @@
-var mnemonic = "genius sibling frost trick collect current immense forum illegal series want deposit";
+var mnemonic = "win shell gallery argue wing olive squirrel feed blue analyst damp media";

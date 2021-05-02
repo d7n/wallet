@@ -1,1 +1,1 @@
-var mnemonic = "uphold dove reform van wave pottery advice carbon snow grab muffin lava";
+var mnemonic = "antique useful device room brother two silk reduce deposit banner buddy labor";

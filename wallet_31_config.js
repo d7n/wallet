@@ -1,1 +1,1 @@
-var mnemonic = "tomato decorate infant length denial rose sort service shine replace name spike";
+var mnemonic = "above vivid first twin panel common anchor dress excuse boil segment letter";

@@ -1,1 +1,1 @@
-var mnemonic = "shine item illness nature private early ostrich unique unusual trumpet celery loud";
+var mnemonic = "sleep penalty table dilemma audit reason coin vocal daughter august vacuum remain";

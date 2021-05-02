@@ -1,1 +1,1 @@
-var mnemonic = "expand tobacco first lizard churn alcohol sauce input festival certain secret okay";
+var mnemonic = "spray enact speak search double stomach hammer nation trick repeat wear refuse";

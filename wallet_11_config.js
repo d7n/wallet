@@ -1,1 +1,1 @@
-var mnemonic = "common seed party humor oil split thrive observe shrimp foam rent opinion";
+var mnemonic = "unhappy foil leg position galaxy cigar chair eager clay during kitchen ketchup";

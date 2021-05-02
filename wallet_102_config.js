@@ -1,1 +1,1 @@
-var mnemonic = "salad raven creek spoil youth abstract antique silly collect sword strike purchase";
+var mnemonic = "rely segment trap nice canvas radar wood memory segment desk volcano dignity";

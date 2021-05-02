@@ -1,1 +1,1 @@
-var mnemonic = "team fit frame host caught stuff clip during ketchup surprise burden gesture";
+var mnemonic = "spoon cash arena rent mail brain enjoy blame garden chronic cute crane";

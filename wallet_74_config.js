@@ -1,1 +1,1 @@
-var mnemonic = "happy action school october improve broccoli blanket regular hawk lava enrich lazy";
+var mnemonic = "congress milk auto decide cluster jungle torch salt must security bus festival";

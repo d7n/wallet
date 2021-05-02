@@ -1,1 +1,1 @@
-var mnemonic = "scare acoustic arch erode exhaust bulk card company family army wheat tribe";
+var mnemonic = "elder okay payment display short express galaxy royal cover movie wet mutual";

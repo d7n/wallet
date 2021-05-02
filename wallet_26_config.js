@@ -1,1 +1,1 @@
-var mnemonic = "curious aware mandate crew behind trumpet verify leaf gun physical answer primary";
+var mnemonic = "toward pilot demise child budget steel cost arctic huge rigid lawsuit kingdom";

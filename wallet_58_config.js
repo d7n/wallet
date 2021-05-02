@@ -1,1 +1,1 @@
-var mnemonic = "unfair knee approve program drift immense talk when charge wise bread yellow";
+var mnemonic = "universe elephant glass leg exotic clog pull put hurt source ice blood";

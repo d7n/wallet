@@ -1,1 +1,1 @@
-var mnemonic = "umbrella exile federal neglect office echo wrist twenty all fan key put";
+var mnemonic = "bone coconut blanket hen cook kiss birth false zoo comic exit vault";

@@ -1,1 +1,1 @@
-var mnemonic = "village easily behind test debate pride kingdom crouch number novel excite hover";
+var mnemonic = "minimum fragile flight opera twice mandate notable long section truck arrow color";

@@ -1,1 +1,1 @@
-var mnemonic = "napkin west bring rifle traffic fabric modify soldier answer muffin rival endless";
+var mnemonic = "margin wedding negative decrease fragile nature screen follow spray fancy practice rapid";
