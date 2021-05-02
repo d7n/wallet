@@ -1,1 +1,1 @@
-var mnemonic = "mushroom spoil seven gold maid push make isolate great bonus dinner core";
+var mnemonic = "domain speak hedgehog swap hotel tree still state ladder food umbrella upgrade";

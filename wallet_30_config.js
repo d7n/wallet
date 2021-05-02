@@ -1,1 +1,1 @@
-var mnemonic = "text genius remember guilt memory lawn useful crowd ice embody narrow jeans";
+var mnemonic = "quantum vendor assist economy virus skull valley myself grant describe mansion setup";

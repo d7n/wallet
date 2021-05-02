@@ -1,1 +1,1 @@
-var mnemonic = "evolve pole club umbrella ranch noise tongue case escape imitate art decide";
+var mnemonic = "misery rich uncover venue sponsor fame machine indoor inform ill thought seven";

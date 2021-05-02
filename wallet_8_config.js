@@ -1,1 +1,1 @@
-var mnemonic = "diamond cupboard exact elegant airport brown coconut winner donor scorpion jazz window";
+var mnemonic = "relief symbol yellow music height friend easy foot cloth blood laundry candy";

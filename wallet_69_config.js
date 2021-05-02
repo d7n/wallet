@@ -1,1 +1,1 @@
-var mnemonic = "usual hand tail tunnel cook swarm junior gold planet bone lens twenty";
+var mnemonic = "weasel coach interest transfer pair equal fluid wisdom poverty donor need elbow";

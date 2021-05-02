@@ -1,1 +1,1 @@
-var mnemonic = "family loyal relief aunt update keen jungle return erosion lucky bundle destroy";
+var mnemonic = "ladder benefit penalty figure snake maid uncle sentence helmet food surround gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "giant green unusual flag inhale artist quantum similar type faint frost empower";
+var mnemonic = "coil coral educate neck zone visa fault oppose museum word smooth reason";

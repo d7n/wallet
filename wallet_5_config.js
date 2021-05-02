@@ -1,1 +1,1 @@
-var mnemonic = "captain discover depth good talent master scrap guilt feature ball maze nuclear";
+var mnemonic = "whip pave wide pudding today virus hundred pioneer light demand parent dwarf";

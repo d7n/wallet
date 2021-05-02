@@ -1,1 +1,1 @@
-var mnemonic = "electric shell bid live upper business pigeon message tunnel scissors cargo wine";
+var mnemonic = "romance canvas observe resemble either eagle defense deny excess brass this public";

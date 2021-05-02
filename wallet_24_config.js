@@ -1,1 +1,1 @@
-var mnemonic = "beach rule person ecology where lens client medal earth protect curve impose";
+var mnemonic = "twelve attitude deny move offer make alley metal jaguar rural gift love";

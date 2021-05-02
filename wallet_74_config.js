@@ -1,1 +1,1 @@
-var mnemonic = "olympic whale orchard leg trash scare acquire odor illegal gentle woman leg";
+var mnemonic = "mind gym ceiling inmate derive mind promote abuse inch spirit shed behind";

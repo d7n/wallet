@@ -1,1 +1,1 @@
-var mnemonic = "future fit roast hazard infant hurdle small casino certain base infant gasp";
+var mnemonic = "desk genre net teach void pause topple blood unhappy team moral peasant";

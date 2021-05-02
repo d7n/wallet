@@ -1,1 +1,1 @@
-var mnemonic = "gloom orient theory salad digital behave head announce expose foil merit arrow";
+var mnemonic = "mixed question travel alpha resist expand tribe glory aware aware achieve filter";

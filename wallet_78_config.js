@@ -1,1 +1,1 @@
-var mnemonic = "act element ivory spy zebra network inherit shallow cable coyote pill impose";
+var mnemonic = "vehicle obtain vapor thumb broom hotel confirm shoe fire tenant submit number";

@@ -1,1 +1,1 @@
-var mnemonic = "guide title coach enforce weird predict noodle true stadium valid monkey grow";
+var mnemonic = "venture absurd rural news bundle gaze sorry bomb crater glide slab enroll";

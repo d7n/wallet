@@ -1,1 +1,1 @@
-var mnemonic = "poet bring start glove invest filter sadness energy spring scene animal crew";
+var mnemonic = "mind truth term peace cup food visit awkward odor finger seat tortoise";

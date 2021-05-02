@@ -1,1 +1,1 @@
-var mnemonic = "gaze erosion powder bullet win win brain analyst exile coconut frozen middle";
+var mnemonic = "increase curtain casino street general mask dirt expose harsh between matter stone";

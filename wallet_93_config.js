@@ -1,1 +1,1 @@
-var mnemonic = "avoid swarm quality session also job antenna chat crane lend fog upset";
+var mnemonic = "mother flag speak truth bird lemon joke save vehicle bright benefit crack";

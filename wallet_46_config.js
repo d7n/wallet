@@ -1,1 +1,1 @@
-var mnemonic = "sustain fresh million tomato ticket copper good old surge ocean soldier skate";
+var mnemonic = "logic bargain distance blouse twin situate minute faint party hawk wire scatter";

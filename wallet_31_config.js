@@ -1,1 +1,1 @@
-var mnemonic = "game husband foot harvest toddler laugh canal wreck april where clinic balcony";
+var mnemonic = "route tray sketch float material owner wise coffee grief wise buddy loan";

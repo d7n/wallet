@@ -1,1 +1,1 @@
-var mnemonic = "pond limit hedgehog weather space purse beach year diet insane canyon example";
+var mnemonic = "exhibit comfort rather display into idea drama version intact tiny letter neither";

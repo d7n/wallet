@@ -1,1 +1,1 @@
-var mnemonic = "tuition salad donkey cinnamon spice impose nest cash flip have sweet kangaroo";
+var mnemonic = "join latin hire vapor unknown abstract budget peasant jazz indoor ramp there";

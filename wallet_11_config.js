@@ -1,1 +1,1 @@
-var mnemonic = "leopard sword fault plunge amateur sell drift tonight famous wheat absent fall";
+var mnemonic = "party barely east toilet horn gown whisper empty spot torch faculty aim";

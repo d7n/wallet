@@ -1,1 +1,1 @@
-var mnemonic = "parent genuine remember rapid crumble hawk nature hunt buddy exercise infant swarm";
+var mnemonic = "certain fiscal document wrong steel stumble select kind wall unfair element usage";

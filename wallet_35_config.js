@@ -1,1 +1,1 @@
-var mnemonic = "buffalo insect note attract sudden eager farm topple defense help vast cloth";
+var mnemonic = "knee border fabric trend hour warfare auto mail danger annual actual muscle";

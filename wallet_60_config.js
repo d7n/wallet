@@ -1,1 +1,1 @@
-var mnemonic = "pen frost picnic wolf start abuse miracle wall setup neck word art";
+var mnemonic = "olympic theme grit enact sad danger own guess town online urban slush";

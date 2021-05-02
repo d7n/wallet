@@ -1,1 +1,1 @@
-var mnemonic = "autumn witness history minimum student evil upon banana action oppose slim tower";
+var mnemonic = "tail keen oak image element decade inflict fetch legal permit certain version";

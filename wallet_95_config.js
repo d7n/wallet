@@ -1,1 +1,1 @@
-var mnemonic = "that drama danger fan crack unaware east bullet flock post canyon defense";
+var mnemonic = "cat window meat census media maple jazz fruit elegant person attitude crater";

@@ -1,1 +1,1 @@
-var mnemonic = "earth butter property chimney unaware already mobile flight sun cat dentist scheme";
+var mnemonic = "sponsor enjoy horn dentist sponsor resource pill spend sort tunnel neglect fame";

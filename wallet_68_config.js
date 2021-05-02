@@ -1,1 +1,1 @@
-var mnemonic = "uncover gossip unusual coil guitar ethics salad street fire undo crystal leg";
+var mnemonic = "topple female sea quote play project host mom ghost unlock blood animal";

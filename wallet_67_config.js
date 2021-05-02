@@ -1,1 +1,1 @@
-var mnemonic = "model orphan autumn night phrase average off connect leave sponsor endless enough";
+var mnemonic = "loan total wonder jump library feel entry speed drift oblige acquire meadow";

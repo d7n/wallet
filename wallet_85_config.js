@@ -1,1 +1,1 @@
-var mnemonic = "intact trouble album stool story gadget aware payment provide switch craft mystery";
+var mnemonic = "sun menu spell cargo divert guard then relief regret still network priority";

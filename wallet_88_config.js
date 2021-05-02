@@ -1,1 +1,1 @@
-var mnemonic = "key second worry math electric fragile desk funny hour banner move picnic";
+var mnemonic = "happy erase stereo filter abuse stool assume female accuse inmate enhance civil";

@@ -1,1 +1,1 @@
-var mnemonic = "narrow update ranch lock tag whale will cry rib typical switch control";
+var mnemonic = "repeat urban way group kiwi syrup decade fix asthma rocket notable champion";

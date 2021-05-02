@@ -1,1 +1,1 @@
-var mnemonic = "grief city candy capable game yellow exit motion bright wisdom culture valley";
+var mnemonic = "three dismiss smoke senior sock flame twist now spell flower room erode";

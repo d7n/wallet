@@ -1,1 +1,1 @@
-var mnemonic = "rabbit monkey purpose aspect struggle dolphin open direct alone enjoy idea figure";
+var mnemonic = "track tomorrow twenty spike analyst airport amused mother lab slow twelve drama";

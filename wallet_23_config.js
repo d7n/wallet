@@ -1,1 +1,1 @@
-var mnemonic = "salt spice term journey mention spell trend cube duck diagram wine gadget";
+var mnemonic = "deer since save train six venture bike finger ignore ocean quality yard";

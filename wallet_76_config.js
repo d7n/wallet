@@ -1,1 +1,1 @@
-var mnemonic = "quote bus visa bullet once normal crop elder behave surge long sting";
+var mnemonic = "escape hamster cherry never man limit myself sun host hire resist talent";

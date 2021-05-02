@@ -1,1 +1,1 @@
-var mnemonic = "catalog swap goat document captain copy unfold once shield useful excite bunker";
+var mnemonic = "amount picture inflict grid huge artist moment avocado reason thank awake despair";

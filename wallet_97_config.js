@@ -1,1 +1,1 @@
-var mnemonic = "magnet gym satisfy turtle large prevent wink cruel begin bulk black win";
+var mnemonic = "bottom judge sense source update fade forum program dry receive hub universe";

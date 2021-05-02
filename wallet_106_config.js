@@ -1,1 +1,1 @@
-var mnemonic = "minor library snow provide raven game float current profit utility canyon boring";
+var mnemonic = "fog situate capital thing various pepper donkey dilemma fox engage shell ignore";

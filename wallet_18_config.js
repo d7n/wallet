@@ -1,1 +1,1 @@
-var mnemonic = "palace discover burst risk rare letter universe snack vast depth tiger wrap";
+var mnemonic = "radar hurdle utility comfort grant nothing satoshi city you injury awesome brain";

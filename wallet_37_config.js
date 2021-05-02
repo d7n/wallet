@@ -1,1 +1,1 @@
-var mnemonic = "virtual green peanut crop gospel solve lazy ceiling dawn basket source defy";
+var mnemonic = "ginger detect piece dragon usage output link cause crucial critic kind kitten";

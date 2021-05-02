@@ -1,1 +1,1 @@
-var mnemonic = "invest method young pilot drama increase case vessel high potato portion model";
+var mnemonic = "pride tribe peace offer true word tribe amazing shuffle stereo battle parade";

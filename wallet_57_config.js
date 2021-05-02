@@ -1,1 +1,1 @@
-var mnemonic = "rich spare addict inherit rally lucky lottery humor brave cry palace brief";
+var mnemonic = "this business west umbrella surprise mutual marriage girl concert enter meadow toilet";

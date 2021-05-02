@@ -1,1 +1,1 @@
-var mnemonic = "rice zebra effort bulb father ridge daughter flag congress disagree category person";
+var mnemonic = "orchard bundle sunset kick suspect release diamond frequent yard cigar border region";

@@ -1,1 +1,1 @@
-var mnemonic = "liar creek gain code choose horror host punch regular evolve insect mixture";
+var mnemonic = "dash ritual dumb point ahead odor trust alter corn music screen response";

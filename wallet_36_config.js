@@ -1,1 +1,1 @@
-var mnemonic = "mad just choose visit twelve doctor margin divorce cross dice spatial knock";
+var mnemonic = "hello service belt early ceiling panic fluid eagle quiz analyst noodle worry";

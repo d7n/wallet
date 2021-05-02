@@ -1,1 +1,1 @@
-var mnemonic = "bitter tray patrol grain toast second control spike enforce hub exhaust buffalo";
+var mnemonic = "noble pool life seminar actress clever side nerve useless upper review aisle";

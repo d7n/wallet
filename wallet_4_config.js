@@ -1,1 +1,1 @@
-var mnemonic = "mosquito then tool script require can they gadget feed sure firm hedgehog";
+var mnemonic = "library able chief misery vehicle beach ribbon slam verb shy sting mule";

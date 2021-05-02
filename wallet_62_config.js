@@ -1,1 +1,1 @@
-var mnemonic = "soup tuition govern hazard outdoor include jacket pottery guess fun normal library";
+var mnemonic = "erosion unlock trigger example appear luxury armor tongue total click wolf truck";

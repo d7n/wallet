@@ -1,1 +1,1 @@
-var mnemonic = "subject vanish rough push pact bracket street movie awful tube used tenant";
+var mnemonic = "lesson dance version uniform van energy cage phone text arrange marriage abuse";

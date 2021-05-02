@@ -1,1 +1,1 @@
-var mnemonic = "author loud obtain baby donor thunder vehicle suffer coffee obscure isolate hungry";
+var mnemonic = "saddle sister bundle charge oxygen ginger unveil unable proof surface public black";

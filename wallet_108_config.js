@@ -1,1 +1,1 @@
-var mnemonic = "exchange essence gun brick alley drive grant leader give olympic west traffic";
+var mnemonic = "winter project venue drip artefact play lady clarify bless fiber tumble robot";

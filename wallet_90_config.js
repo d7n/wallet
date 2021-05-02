@@ -1,1 +1,1 @@
-var mnemonic = "audit imitate midnight there deputy science genre famous carry civil way banner";
+var mnemonic = "right also cousin taxi wrong exit siren bachelor caution ten slender slush";

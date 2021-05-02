@@ -1,1 +1,1 @@
-var mnemonic = "phrase inch lazy business bacon until before dinner cabbage exact bless tattoo";
+var mnemonic = "stock dress climb affair chief sweet shallow wood innocent protect minimum open";

@@ -1,1 +1,1 @@
-var mnemonic = "length this hope leader paddle carpet away ketchup million segment extra exercise";
+var mnemonic = "primary absurd stone teach urge click return scene join idle cement page";

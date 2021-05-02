@@ -1,1 +1,1 @@
-var mnemonic = "cube sick screen juice tobacco various lyrics universe aerobic dismiss century three";
+var mnemonic = "page outside farm intact report float doctor session carry wife glove genuine";

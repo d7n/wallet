@@ -1,1 +1,1 @@
-var mnemonic = "document leopard control nature token width mandate blanket boost traffic sort lawn";
+var mnemonic = "expect file knife horn sheriff fold today duty apple coin main party";

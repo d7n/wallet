@@ -1,1 +1,1 @@
-var mnemonic = "join stem kidney ethics pulp aerobic inject silver canyon chat curtain add";
+var mnemonic = "dial manage reflect anger update dose sport first top check good shuffle";

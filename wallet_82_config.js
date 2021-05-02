@@ -1,1 +1,1 @@
-var mnemonic = "step bargain action shoe apology balcony advice brush eight rail enhance warm";
+var mnemonic = "venture corn axis develop motion dose satisfy truck pet hub stage coral";

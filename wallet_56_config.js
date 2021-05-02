@@ -1,1 +1,1 @@
-var mnemonic = "club base sphere motion vacuum long asset subway awesome cause metal mystery";
+var mnemonic = "carry nose family trial ostrich slight dwarf labor bike upon wrist puzzle";

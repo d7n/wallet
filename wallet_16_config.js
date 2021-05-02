@@ -1,1 +1,1 @@
-var mnemonic = "design merge possible hospital arrange render sing alter entire dawn baby pistol";
+var mnemonic = "increase thrive clutch oven bachelor chuckle twist buyer blade excess bean more";

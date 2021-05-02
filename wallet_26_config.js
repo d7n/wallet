@@ -1,1 +1,1 @@
-var mnemonic = "panic adjust clip oyster slush advance sign milk gather weird ball rotate";
+var mnemonic = "puzzle wagon pipe view student meadow acquire valid tomato jump pioneer term";

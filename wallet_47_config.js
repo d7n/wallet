@@ -1,1 +1,1 @@
-var mnemonic = "glare brief cruel two relief mail liar already climb gap sort vanish";
+var mnemonic = "energy gift tumble casino leader joy suffer curtain chest purpose toddler animal";

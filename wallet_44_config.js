@@ -1,1 +1,1 @@
-var mnemonic = "always wedding hidden fit beach city embark canoe rough car sound choice";
+var mnemonic = "legend sadness muffin erupt piano move peasant obscure grid photo fit rally";

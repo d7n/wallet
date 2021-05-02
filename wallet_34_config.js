@@ -1,1 +1,1 @@
-var mnemonic = "ladder goose mimic stage digital card stadium almost install shield glimpse ask";
+var mnemonic = "robot toilet sell domain caught traffic delay target afford meadow mobile video";

@@ -1,1 +1,1 @@
-var mnemonic = "measure thumb craft law gain problem sibling inch all ozone police empower";
+var mnemonic = "vocal actress humor camera lesson permit host winter clinic goddess gather bean";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic cheap child before frown goat wink require snack luggage fancy minor";
+var mnemonic = "surprise night luxury urban faint buffalo obey forget answer blade economy enable";

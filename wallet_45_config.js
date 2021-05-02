@@ -1,1 +1,1 @@
-var mnemonic = "cloud brisk frost merry embrace shove inhale dynamic acoustic recipe process tray";
+var mnemonic = "antenna chef undo opera aware media achieve error hover wealth divide sweet";

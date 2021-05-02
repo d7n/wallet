@@ -1,1 +1,1 @@
-var mnemonic = "mechanic throw practice saddle fun admit detail buzz wave slush capable damage";
+var mnemonic = "private husband rich dinosaur comic travel utility slide local alien leisure ticket";

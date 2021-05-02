@@ -1,1 +1,1 @@
-var mnemonic = "hover snow soda beauty celery utility fatigue dinosaur inner camp excuse auction";
+var mnemonic = "effort unknown mix spin senior response sadness present oppose sail cinnamon ripple";

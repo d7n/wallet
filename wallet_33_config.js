@@ -1,1 +1,1 @@
-var mnemonic = "stuff lesson gospel miss mail easily speed shove month bleak eternal buffalo";
+var mnemonic = "property yard pepper resist reject chief cable mixture adjust census tomato group";

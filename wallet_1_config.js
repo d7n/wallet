@@ -1,1 +1,1 @@
-var mnemonic = "brand october snack wait taxi exit rookie onion near require feel stage";
+var mnemonic = "avoid exact noise talent hood pulse math whisper duck cheap shrimp enjoy";

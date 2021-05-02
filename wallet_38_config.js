@@ -1,1 +1,1 @@
-var mnemonic = "potato hedgehog crucial artwork code nuclear field illegal avocado age opera caution";
+var mnemonic = "nominee valley health acid blush angle uncover just famous input client produce";

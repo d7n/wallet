@@ -1,1 +1,1 @@
-var mnemonic = "onion reunion robust atom witness jaguar figure letter edit edge much little";
+var mnemonic = "seed motion call test define cute frame depth faith brown burden expire";

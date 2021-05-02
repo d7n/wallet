@@ -1,1 +1,1 @@
-var mnemonic = "admit soul often shadow chase wash blush gravity ten dignity embrace false";
+var mnemonic = "resist kingdom mirror beef during bird ecology ability limit famous legend price";

@@ -1,1 +1,1 @@
-var mnemonic = "acoustic afraid property kid uniform bench notice suspect soccer genuine delay cover";
+var mnemonic = "shallow luggage velvet win bind pencil ritual build flash silver broom fame";

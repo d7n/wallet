@@ -1,1 +1,1 @@
-var mnemonic = "slender pelican bar bag large steak fluid dutch income toast pizza almost";
+var mnemonic = "moral deposit already neutral fresh solve nice orbit west model stairs balance";

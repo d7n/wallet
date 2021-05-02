@@ -1,1 +1,1 @@
-var mnemonic = "fever icon talk shoe print pudding old glue member local swap repair";
+var mnemonic = "actress ramp spin ship control smooth play figure avoid card abstract cigar";

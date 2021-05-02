@@ -1,1 +1,1 @@
-var mnemonic = "wide duck service gesture famous material interest combine maple prepare project fade";
+var mnemonic = "truly lunar scrub april knock security hair ranch shift yard review edge";

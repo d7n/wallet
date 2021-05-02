@@ -1,1 +1,1 @@
-var mnemonic = "winner oil knock secret warfare small roof draw canvas chronic mother volcano";
+var mnemonic = "cigar high trip birth hip jaguar miracle celery soon tiger domain sun";

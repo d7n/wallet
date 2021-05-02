@@ -1,1 +1,1 @@
-var mnemonic = "law entire grab pink swear flag mom gravity cube void outside mistake";
+var mnemonic = "music dentist wire erupt tree spin race scatter candy fan hawk option";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin tornado vehicle globe artist pulse else post worth myth general imitate";
+var mnemonic = "pattern trigger invest blood chimney width poem sun act entire couch idea";

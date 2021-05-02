@@ -1,1 +1,1 @@
-var mnemonic = "erode cotton bulb scan trouble bullet toy slogan video promote armed home";
+var mnemonic = "virtual develop unusual relax festival bitter tray proof sort spare sample height";

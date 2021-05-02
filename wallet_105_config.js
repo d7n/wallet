@@ -1,1 +1,1 @@
-var mnemonic = "future include cradle resource protect dirt nose valid phrase pulse goose later";
+var mnemonic = "hamster hedgehog boost arrest verb potato salad lens lazy desk occur embody";

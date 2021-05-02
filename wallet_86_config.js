@@ -1,1 +1,1 @@
-var mnemonic = "area enjoy cook tomato gas forget glimpse cousin north reason orphan senior";
+var mnemonic = "paddle salon kick magnet usage income civil priority item rubber fox chaos";

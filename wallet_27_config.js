@@ -1,1 +1,1 @@
-var mnemonic = "swallow fan weird bachelor just bright stick analyst cup hover liberty carpet";
+var mnemonic = "rug fever group flag inmate trade silly flee coast patient artwork hole";

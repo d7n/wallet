@@ -1,1 +1,1 @@
-var mnemonic = "correct heart banana zebra logic gentle gym waste garment memory path punch";
+var mnemonic = "lift feed peanut filter merge text during garlic female night share hazard";

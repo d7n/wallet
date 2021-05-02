@@ -1,1 +1,1 @@
-var mnemonic = "ginger brisk ethics lunar spatial scheme pig shiver pull alpha carbon eight";
+var mnemonic = "wire firm shove excess plastic account tobacco keep flock parrot skill heavy";
