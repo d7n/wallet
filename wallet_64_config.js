@@ -1,1 +1,1 @@
-var mnemonic = "acoustic smile merit insane once horse thunder hamster fabric plate dial certain";
+var mnemonic = "copper program shove finish hundred jar drum absurd dry history desk volcano";

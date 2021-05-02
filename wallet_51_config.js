@@ -1,1 +1,1 @@
-var mnemonic = "venue crouch object coyote mushroom license zoo glide tattoo stone tribe decrease";
+var mnemonic = "cake melody dove helmet remove cancel loyal stick jelly ahead switch body";

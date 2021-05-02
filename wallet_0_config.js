@@ -1,1 +1,1 @@
-var mnemonic = "elephant sudden mix dog athlete memory side series wrestle winter grow mule";
+var mnemonic = "patch glue increase basic force fan cushion tired found fold loyal cannon";

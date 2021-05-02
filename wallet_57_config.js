@@ -1,1 +1,1 @@
-var mnemonic = "rate shoulder similar sister piece major transfer attack erosion perfect remove ask";
+var mnemonic = "bachelor gasp glue swarm plug equip guess weapon scan awake holiday phone";

@@ -1,1 +1,1 @@
-var mnemonic = "assist illness quantum garden silly below harvest birth region couch runway aim";
+var mnemonic = "blue urban priority announce dance runway open lucky alter canyon long ethics";

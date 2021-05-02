@@ -1,1 +1,1 @@
-var mnemonic = "require service just have bike consider kid volume below burden middle crawl";
+var mnemonic = "tomato shove margin dry giraffe fence other fantasy hero pet another inject";

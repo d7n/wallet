@@ -1,1 +1,1 @@
-var mnemonic = "item security stadium rival doctor tail husband benefit disagree powder return defy";
+var mnemonic = "february honey match feed undo comfort army enhance pyramid skin view asset";

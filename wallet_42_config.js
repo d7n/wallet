@@ -1,1 +1,1 @@
-var mnemonic = "decide cook waste crack private inherit joke blouse result wink neither income";
+var mnemonic = "sorry elite media cannon clump pact deny double inspire enjoy divert wage";

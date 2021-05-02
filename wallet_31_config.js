@@ -1,1 +1,1 @@
-var mnemonic = "side vibrant wise neck gadget fantasy danger victory lunar brass valid arm";
+var mnemonic = "crazy crater produce guess hybrid erode canvas cloth income depth discover nurse";

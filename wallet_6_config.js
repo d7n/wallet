@@ -1,1 +1,1 @@
-var mnemonic = "gesture lab vibrant engage else prize flock execute impact crunch fix scout";
+var mnemonic = "goat nest reunion phone salon car glare trash adult alley cream science";

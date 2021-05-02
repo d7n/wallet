@@ -1,1 +1,1 @@
-var mnemonic = "hint search hero push shoulder hover excuse label menu breeze female dress";
+var mnemonic = "shrimp artwork fluid exit ozone doll excuse myself border tail priority danger";

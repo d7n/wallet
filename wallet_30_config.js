@@ -1,1 +1,1 @@
-var mnemonic = "lend actual outside sock excite office roof myself current wrestle grow desk";
+var mnemonic = "absurd rubber hire hello spell pistol lounge foil crew sunny breeze vague";

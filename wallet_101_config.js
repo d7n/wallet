@@ -1,1 +1,1 @@
-var mnemonic = "gown tourist become screen hundred usual lock vehicle gorilla shed lounge rookie";
+var mnemonic = "chief liar flush repeat biology rifle trim novel void hill omit expire";

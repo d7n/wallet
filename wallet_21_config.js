@@ -1,1 +1,1 @@
-var mnemonic = "peace cram unusual hybrid foil ankle apple front road expect trick property";
+var mnemonic = "festival lunar damage hedgehog enforce speed fence stand staff aspect spread hen";

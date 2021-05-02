@@ -1,1 +1,1 @@
-var mnemonic = "edit nurse pet narrow security gospel drive pass drift brown foot fabric";
+var mnemonic = "picnic point waste guilt despair win useless foot chalk spike omit front";

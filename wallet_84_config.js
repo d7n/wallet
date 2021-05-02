@@ -1,1 +1,1 @@
-var mnemonic = "work render family sample worth all satisfy room worry replace give cherry";
+var mnemonic = "absurd ostrich deputy chase echo embark primary damage dish century have then";

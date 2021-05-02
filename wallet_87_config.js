@@ -1,1 +1,1 @@
-var mnemonic = "involve female involve way wonder physical silly empty affair vast panda dial";
+var mnemonic = "follow cloud close lava laptop polar intact indicate yard awake exile chunk";

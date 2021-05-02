@@ -1,1 +1,1 @@
-var mnemonic = "item label way shrug decide blouse stuff profit title motion fossil gate";
+var mnemonic = "adapt mystery dirt multiply frost capable flat order outside year edge actual";

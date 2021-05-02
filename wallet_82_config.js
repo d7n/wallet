@@ -1,1 +1,1 @@
-var mnemonic = "hurt lift peace banana alcohol blade tongue occur alien spider athlete divert";
+var mnemonic = "diet produce brave bag common coin muffin march can near forum creek";

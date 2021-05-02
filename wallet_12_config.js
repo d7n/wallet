@@ -1,1 +1,1 @@
-var mnemonic = "kingdom device receive absorb add undo angry opinion early fluid welcome glimpse";
+var mnemonic = "glove model chuckle mask submit clever priority betray peanut scissors excess that";

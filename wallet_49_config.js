@@ -1,1 +1,1 @@
-var mnemonic = "goddess three capable emerge joke sudden marble fantasy pony hotel soda dinner";
+var mnemonic = "lyrics struggle arrange noble thing omit certain journey gauge scene curtain entry";

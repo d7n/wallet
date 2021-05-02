@@ -1,1 +1,1 @@
-var mnemonic = "coral dirt hill merge clever such mule require admit echo little rather";
+var mnemonic = "recycle cushion expire urge festival bone lazy suffer swamp calm spring toss";

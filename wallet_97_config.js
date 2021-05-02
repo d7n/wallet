@@ -1,1 +1,1 @@
-var mnemonic = "minor original lab design yellow guard boat quality romance board what famous";
+var mnemonic = "park target erosion require true siege volume reflect dawn guard glow stable";

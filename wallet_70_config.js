@@ -1,1 +1,1 @@
-var mnemonic = "turtle energy movie join scissors crazy mushroom immense monkey crowd hedgehog wagon";
+var mnemonic = "modify clarify joy rookie kite suit season label hope toddler diary category";

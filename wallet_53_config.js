@@ -1,1 +1,1 @@
-var mnemonic = "arrest noise raw mixed game swim wise away adult reflect butter erupt";
+var mnemonic = "filter lava reopen kingdom profit frost arctic radar gold mirror tip trip";

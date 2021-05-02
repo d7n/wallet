@@ -1,1 +1,1 @@
-var mnemonic = "saddle approve celery portion grid pyramid crime donkey caught ceiling squeeze update";
+var mnemonic = "daughter smile tape crush disagree tourist tiny adjust rifle leave good modify";

@@ -1,1 +1,1 @@
-var mnemonic = "feature heart absurd filter panda draw riot admit vault mushroom near attract";
+var mnemonic = "into invite play seven lawn illness exit fix shallow empower genre fragile";

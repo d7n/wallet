@@ -1,1 +1,1 @@
-var mnemonic = "average tool romance start beyond cry six loyal nest dumb train shop";
+var mnemonic = "mercy rebuild holiday old settle answer print load benefit snake play pigeon";

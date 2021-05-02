@@ -1,1 +1,1 @@
-var mnemonic = "thing plunge drift flat wing across omit keen toss alter engine coconut";
+var mnemonic = "elder elite toward hedgehog erase pony work alert case zone spoil wink";

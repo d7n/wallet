@@ -1,1 +1,1 @@
-var mnemonic = "split jewel can jungle title afford describe ghost believe slogan joke mesh";
+var mnemonic = "noble dawn focus swamp between antique during volume pattern denial nut banner";

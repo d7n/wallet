@@ -1,1 +1,1 @@
-var mnemonic = "forest raise dwarf whisper away market cook love pupil destroy target round";
+var mnemonic = "lunch fold puzzle army visit buffalo depend mechanic fit second switch stool";

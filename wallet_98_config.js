@@ -1,1 +1,1 @@
-var mnemonic = "glad village tonight inject fit rather negative act shield trigger sad arrange";
+var mnemonic = "scene buyer steel mom behave cram merit giggle uncle fault census helmet";

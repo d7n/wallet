@@ -1,1 +1,1 @@
-var mnemonic = "chapter crisp island gain vital width you vote rebuild wagon wife original";
+var mnemonic = "genuine child trap under express auto never rally december cause flash essay";

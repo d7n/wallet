@@ -1,1 +1,1 @@
-var mnemonic = "drama diamond own illness peanut maze mad trash noise great rhythm ride";
+var mnemonic = "mechanic pretty margin company close disease bracket retreat album pet box pepper";

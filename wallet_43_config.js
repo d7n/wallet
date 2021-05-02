@@ -1,1 +1,1 @@
-var mnemonic = "churn school arrest absurd tube space nerve stadium write brush depend tiny";
+var mnemonic = "correct trophy carbon rival link autumn recipe merit occur speed consider beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "used home doll quote jewel depart pill gold engage typical wrong zero";
+var mnemonic = "process inspire hover merge solid laugh orbit marriage metal report guilt artist";

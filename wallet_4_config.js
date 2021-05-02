@@ -1,1 +1,1 @@
-var mnemonic = "mosquito wall occur share bar pattern strategy bulb puppy category spice above";
+var mnemonic = "click thought small electric jewel snack enrich green attitude lock appear fortune";

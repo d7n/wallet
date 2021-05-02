@@ -1,1 +1,1 @@
-var mnemonic = "climb gadget world hard emotion vintage shoot waste leopard energy pencil across";
+var mnemonic = "impulse sell reunion put blue tragic burden enable blur sick proud slow";

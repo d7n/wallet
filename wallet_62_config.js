@@ -1,1 +1,1 @@
-var mnemonic = "august render purchase glass laundry supply borrow more exhaust october wrestle pledge";
+var mnemonic = "picnic dress display lunch boy copper obey congress provide like episode century";

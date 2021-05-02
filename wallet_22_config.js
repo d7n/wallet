@@ -1,1 +1,1 @@
-var mnemonic = "cactus problem fix empower canoe travel brush decrease chunk bus share there";
+var mnemonic = "atom inherit isolate zero differ hurdle bind provide laundry key crater cabin";

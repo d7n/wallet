@@ -1,1 +1,1 @@
-var mnemonic = "quote twice relax outdoor canoe excite normal depart absent drama response crane";
+var mnemonic = "salmon extra media evil have valve trim cloth cliff person seat human";

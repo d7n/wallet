@@ -1,1 +1,1 @@
-var mnemonic = "blood dwarf flash dutch act film witness alcohol move empower crack recipe";
+var mnemonic = "twist roast half best egg syrup family render announce believe slow movie";

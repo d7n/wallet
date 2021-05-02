@@ -1,1 +1,1 @@
-var mnemonic = "laugh glide eight chair boost carry network engage toy fresh alarm bounce";
+var mnemonic = "strong kidney nerve name toilet dove fragile cheese effort absorb bulb inquiry";

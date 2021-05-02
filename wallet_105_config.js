@@ -1,1 +1,1 @@
-var mnemonic = "useless bonus fever rebuild earn inspire fox soccer amazing anchor clean theory";
+var mnemonic = "chicken illegal mechanic foot tower better nuclear put extra miss strong symbol";

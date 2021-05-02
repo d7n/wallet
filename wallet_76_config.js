@@ -1,1 +1,1 @@
-var mnemonic = "million then immense chef twelve exercise reopen priority clock text dish chaos";
+var mnemonic = "unique vibrant gravity concert depart lunar history eagle such logic exit aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "bird rescue good between celery sell eternal access tribe unveil wall error";
+var mnemonic = "rhythm unable moment setup vintage weekend wrong abuse glad crazy eager coach";

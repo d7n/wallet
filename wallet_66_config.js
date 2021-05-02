@@ -1,1 +1,1 @@
-var mnemonic = "evil brown common right rescue weapon sight daughter mouse call stove lecture";
+var mnemonic = "prepare obvious company damp easy spread cliff tower time release puzzle quantum";

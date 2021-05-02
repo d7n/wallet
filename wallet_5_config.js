@@ -1,1 +1,1 @@
-var mnemonic = "kidney erupt try water silk safe clock junk admit reunion hint prosper";
+var mnemonic = "tree pipe narrow author bargain series wait crumble inflict length found mystery";

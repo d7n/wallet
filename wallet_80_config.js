@@ -1,1 +1,1 @@
-var mnemonic = "inmate clerk current toast divert cute bacon life bulk blush aerobic dry";
+var mnemonic = "chaos loud fork force patient wolf suspect alarm hammer forget issue exhibit";

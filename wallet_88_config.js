@@ -1,1 +1,1 @@
-var mnemonic = "orbit noodle help dinner brother reform target violin theme grid age pizza";
+var mnemonic = "life soldier appear amazing brick misery cargo race chef matter skull property";

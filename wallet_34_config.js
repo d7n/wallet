@@ -1,1 +1,1 @@
-var mnemonic = "infant high rather tail use wrap drum orient flower minor cushion spoon";
+var mnemonic = "nice motion harvest crucial already sell symbol neither system company huge window";

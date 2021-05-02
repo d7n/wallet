@@ -1,1 +1,1 @@
-var mnemonic = "desk duty buzz bullet memory muffin cricket multiply guard nephew usage lunch";
+var mnemonic = "original physical holiday idle area invite blouse auction account cry spring return";

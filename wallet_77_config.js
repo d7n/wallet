@@ -1,1 +1,1 @@
-var mnemonic = "nerve once salute aware valve shell black silver title save trust crack";
+var mnemonic = "regret tail salmon live ladder canvas cry plug diamond oxygen scorpion sick";

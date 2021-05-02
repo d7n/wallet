@@ -1,1 +1,1 @@
-var mnemonic = "gun private achieve dentist measure glad ill rough caution nest flag cabin";
+var mnemonic = "satisfy dirt run bench tissue control source mystery coconut subject casual goddess";

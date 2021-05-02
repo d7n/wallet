@@ -1,1 +1,1 @@
-var mnemonic = "link film dial foam erupt bird amused toss frost gas consider sniff";
+var mnemonic = "fabric actress nice cup valve rubber giant giraffe twin work bachelor zone";

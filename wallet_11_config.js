@@ -1,1 +1,1 @@
-var mnemonic = "fork away empty edit sight voyage hen bleak slab foot old lizard";
+var mnemonic = "used okay boost fault rhythm color pill arrest good reward fault away";

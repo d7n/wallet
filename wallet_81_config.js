@@ -1,1 +1,1 @@
-var mnemonic = "veteran almost priority hotel artefact property shed ladder very huge behave street";
+var mnemonic = "genuine razor pottery someone devote holiday exclude ski clap balance visual decrease";

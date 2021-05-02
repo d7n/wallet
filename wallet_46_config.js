@@ -1,1 +1,1 @@
-var mnemonic = "skull flip clerk sock upon detect flash title surge chase popular drill";
+var mnemonic = "burden legal food idea grow year roof another reject wheel stay brief";

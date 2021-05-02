@@ -1,1 +1,1 @@
-var mnemonic = "gossip scout donate office where tobacco helmet sweet patch salute couple diet";
+var mnemonic = "now skin blast example luxury orchard resemble carbon scale disease enemy lottery";

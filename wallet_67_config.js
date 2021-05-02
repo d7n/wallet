@@ -1,1 +1,1 @@
-var mnemonic = "ill gold clump budget ask mandate major tennis arctic acoustic above afford";
+var mnemonic = "notice knee embody indoor fall domain only electric loop naive purpose village";

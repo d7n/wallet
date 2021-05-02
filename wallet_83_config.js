@@ -1,1 +1,1 @@
-var mnemonic = "original mushroom describe jacket range winner squirrel snow hamster account ill unit";
+var mnemonic = "piano more junk forum fruit liberty maximum panda submit market achieve nest";

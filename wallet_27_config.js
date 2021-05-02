@@ -1,1 +1,1 @@
-var mnemonic = "potato illegal fire fix birth parade try claw dune prison like allow";
+var mnemonic = "figure riot fury acoustic tree sorry social raise inherit leader office scorpion";

@@ -1,1 +1,1 @@
-var mnemonic = "valley photo someone board where spy tissue equal arrange drive food patient";
+var mnemonic = "dynamic drift theme general raise tomato rebel tank moment boring else morning";

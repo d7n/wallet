@@ -1,1 +1,1 @@
-var mnemonic = "soup harsh explain orient kiwi perfect merry school zoo pen chaos punch";
+var mnemonic = "scare electric damage stadium since never agent pink coin inject ahead hour";

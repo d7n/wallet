@@ -1,1 +1,1 @@
-var mnemonic = "stone light party common pattern happy board cost calm pull essay story";
+var mnemonic = "soft city film blame cheap mammal mercy announce this vast object drink";

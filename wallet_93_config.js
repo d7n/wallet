@@ -1,1 +1,1 @@
-var mnemonic = "denial apart note funny either food execute craft mirror cool hair board";
+var mnemonic = "match company office flush dizzy square shine prison accident verify tape salmon";

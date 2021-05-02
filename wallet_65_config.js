@@ -1,1 +1,1 @@
-var mnemonic = "manual sudden audit square focus sorry pyramid else blue unusual strike sting";
+var mnemonic = "pupil gauge page help sting hope vivid oblige cereal mention collect ordinary";

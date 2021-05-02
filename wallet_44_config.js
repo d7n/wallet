@@ -1,1 +1,1 @@
-var mnemonic = "right fall coin online detect journey any arrive oval witness disagree shell";
+var mnemonic = "build unveil issue hunt breeze shuffle soup glue hill unlock flame sentence";

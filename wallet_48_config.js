@@ -1,1 +1,1 @@
-var mnemonic = "shiver hair love orphan average regular champion brown deposit differ service tube";
+var mnemonic = "month volcano plug trumpet world dial jealous keen stamp patch tube slab";

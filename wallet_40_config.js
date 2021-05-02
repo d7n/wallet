@@ -1,1 +1,1 @@
-var mnemonic = "cousin iron property stuff wall february flee weekend topic option soup shoe";
+var mnemonic = "sleep sword post check hard own ship bundle rug utility convince rare";

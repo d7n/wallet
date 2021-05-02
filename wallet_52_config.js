@@ -1,1 +1,1 @@
-var mnemonic = "write invest faint steak drop embark dignity secret friend drive great direct";
+var mnemonic = "opinion clarify close camp buffalo hamster gaze inform crew museum pigeon total";

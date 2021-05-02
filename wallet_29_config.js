@@ -1,1 +1,1 @@
-var mnemonic = "erosion draw portion barrel bench second icon morning average pond kitten glow";
+var mnemonic = "fresh veteran economy raccoon action inmate glass olympic famous void require eager";

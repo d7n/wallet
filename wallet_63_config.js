@@ -1,1 +1,1 @@
-var mnemonic = "flame hour senior enforce tenant exact kit develop rescue guilt wool hat";
+var mnemonic = "palm debris margin group firm world social finger gown eager conduct remember";

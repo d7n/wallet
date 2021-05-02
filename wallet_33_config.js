@@ -1,1 +1,1 @@
-var mnemonic = "gospel cup popular vital utility raw ahead flight column urban grab gather";
+var mnemonic = "utility whisper knee patient science afford rescue solve setup night hard adult";

@@ -1,1 +1,1 @@
-var mnemonic = "ridge chat scheme oval bulb load strike upon october creek hour engage";
+var mnemonic = "wisdom calm broken zoo gym prison prosper heart slogan wish whale spare";

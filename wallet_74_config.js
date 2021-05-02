@@ -1,1 +1,1 @@
-var mnemonic = "change monster color gloom feel myth stamp giggle shadow essay delay salute";
+var mnemonic = "wisdom soup often cigar mother roof ramp chef version merry action wedding";

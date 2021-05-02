@@ -1,1 +1,1 @@
-var mnemonic = "pass treat stuff spend motion east payment pudding gown silent company syrup";
+var mnemonic = "model lawn normal blossom bunker token forward whisper improve kind million inspire";

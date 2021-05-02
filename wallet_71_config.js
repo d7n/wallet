@@ -1,1 +1,1 @@
-var mnemonic = "uncle mass put mammal defense hockey captain pause weasel april wasp pioneer";
+var mnemonic = "census soap group crime settle collect frame royal assist leg visual siren";

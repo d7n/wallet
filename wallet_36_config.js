@@ -1,1 +1,1 @@
-var mnemonic = "mystery antique slice scorpion donkey ivory clock decade consider grocery tone nuclear";
+var mnemonic = "evidence ghost potato pet wrestle van bid version over depth category art";

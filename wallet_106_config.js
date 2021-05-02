@@ -1,1 +1,1 @@
-var mnemonic = "cradle exchange fury renew tube bread twice seven suffer special toilet torch";
+var mnemonic = "undo crucial flee snake length affair access fatal hub camp essay hill";

@@ -1,1 +1,1 @@
-var mnemonic = "thing forget tone code seminar accident rail photo tree soup slide captain";
+var mnemonic = "retreat caught lady blossom title acquire benefit update pretty cinnamon illness edit";

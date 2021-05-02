@@ -1,1 +1,1 @@
-var mnemonic = "second cat cannon warfare expect vehicle museum stage tired project hundred payment";
+var mnemonic = "width property room code improve impact annual combine behind tomato absent young";

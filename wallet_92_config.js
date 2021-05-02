@@ -1,1 +1,1 @@
-var mnemonic = "powder royal tonight random sadness arch south stem scene attitude rail turtle";
+var mnemonic = "wave human forward access manage fold rigid melody service broccoli present betray";

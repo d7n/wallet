@@ -1,1 +1,1 @@
-var mnemonic = "canyon magnet donor tell middle race manual now clap jeans flavor spawn";
+var mnemonic = "foil raise purpose boring alter fade explain broken pyramid bachelor chuckle leave";

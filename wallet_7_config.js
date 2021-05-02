@@ -1,1 +1,1 @@
-var mnemonic = "street apology then flip zoo unable common viable birth letter follow giggle";
+var mnemonic = "buyer virus portion slot popular album spatial sunset carry suit tent walk";

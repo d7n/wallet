@@ -1,1 +1,1 @@
-var mnemonic = "man pyramid symbol lunar labor add heavy family shadow employ define spirit";
+var mnemonic = "apple expect torch duty rescue outdoor slab awful attack limit buyer combine";

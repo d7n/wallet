@@ -1,1 +1,1 @@
-var mnemonic = "demise trash minor item shrug rib sad mobile reform boat game quality";
+var mnemonic = "tonight either resource pistol fever amazing order waste crush meat between scan";

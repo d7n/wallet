@@ -1,1 +1,1 @@
-var mnemonic = "bulb wrap notable author earn rib dentist east hotel lift meat mistake";
+var mnemonic = "issue bleak beauty sauce click dumb patch choice hour unable token arch";

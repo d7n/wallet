@@ -1,1 +1,1 @@
-var mnemonic = "merit blade shop mimic equip culture multiply repair slide knife define barely";
+var mnemonic = "burger artwork boost grid abuse before final uncover earth excite outer spot";
