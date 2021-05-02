@@ -1,1 +1,1 @@
-var mnemonic = "joke evil strategy aware design glove sleep fine burst quiz member vital";
+var mnemonic = "insane winner people iron riot museum mirror rebel always mistake wing axis";

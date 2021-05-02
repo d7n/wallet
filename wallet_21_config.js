@@ -1,1 +1,1 @@
-var mnemonic = "auction tobacco vendor situate awesome hip metal lens build exchange walnut episode";
+var mnemonic = "cliff buyer action salute lyrics frost occur actual master traffic effort pretty";

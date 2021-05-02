@@ -1,1 +1,1 @@
-var mnemonic = "absorb extend write kind across bamboo kangaroo antenna identify defy silver token";
+var mnemonic = "umbrella absent marine shock ability excuse pepper hammer pear parade wage regret";

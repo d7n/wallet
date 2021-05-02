@@ -1,1 +1,1 @@
-var mnemonic = "prevent finger lyrics stadium ramp tonight cereal void day capable ice word";
+var mnemonic = "network bleak cost price round pizza sword grace total venue scorpion dog";

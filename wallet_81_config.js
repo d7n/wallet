@@ -1,1 +1,1 @@
-var mnemonic = "salt know snap visa crane topple dream farm basket cage during fault";
+var mnemonic = "decrease palace length athlete consider omit holiday spy tone catalog piano chat";

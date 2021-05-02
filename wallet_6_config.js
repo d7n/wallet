@@ -1,1 +1,1 @@
-var mnemonic = "cage sight tell trim robot excuse bamboo snow armed office copy room";
+var mnemonic = "topple lend clown capable arrange coffee joke shop craft notice sure comfort";

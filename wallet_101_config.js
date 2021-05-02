@@ -1,1 +1,1 @@
-var mnemonic = "crunch road conduct load mirror foil pluck hammer air shallow arrive school";
+var mnemonic = "slogan vintage believe sun shift access sense catalog job now all mixture";

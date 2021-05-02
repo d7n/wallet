@@ -1,1 +1,1 @@
-var mnemonic = "vicious uncover black rocket retire other audit wash super skull grant energy";
+var mnemonic = "eight spread silly purpose rain version imitate humor mutual daring bone leaf";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess promote fog mutual chalk tired just ocean anchor test table barrel";
+var mnemonic = "teach group memory long clip essay spot nest phrase demand warm tuition";

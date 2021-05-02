@@ -1,1 +1,1 @@
-var mnemonic = "crunch hill service tortoise cliff puzzle diesel hockey air adult drum sand";
+var mnemonic = "frown skill arrive stairs green twenty galaxy coral outdoor actor void device";

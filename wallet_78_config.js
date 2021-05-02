@@ -1,1 +1,1 @@
-var mnemonic = "dinner clutch brain holiday usage wedding ordinary quarter pottery outer repair law";
+var mnemonic = "goddess yellow slim avoid recall cousin census leisure example prefer behind moral";

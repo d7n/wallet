@@ -1,1 +1,1 @@
-var mnemonic = "aspect wrestle nephew repeat leader math explain setup urge photo coil economy";
+var mnemonic = "voice control smart winter case usage cactus record series process silent curve";

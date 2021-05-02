@@ -1,1 +1,1 @@
-var mnemonic = "poet castle height comic then weekend display absurd error property happy end";
+var mnemonic = "denial talent click brother weapon glance iron feel resource transfer skate huge";

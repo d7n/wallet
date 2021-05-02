@@ -1,1 +1,1 @@
-var mnemonic = "tray erupt latin blame wood fatal visit time satoshi horn alley across";
+var mnemonic = "key donor people autumn quiz fiction utility reject digital betray resist say";

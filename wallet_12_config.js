@@ -1,1 +1,1 @@
-var mnemonic = "mutual snake box portion wink safe cloud sheriff wasp motion broken visit";
+var mnemonic = "discover mouse end seat still visa reject fold leave shadow tongue prevent";

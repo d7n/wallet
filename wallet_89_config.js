@@ -1,1 +1,1 @@
-var mnemonic = "hurdle act warfare welcome offer abstract flip shield address high dilemma first";
+var mnemonic = "rebel secret lion crime situate advice idle clever seed leaf story film";

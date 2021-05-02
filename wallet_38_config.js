@@ -1,1 +1,1 @@
-var mnemonic = "extra front hat ketchup fade town tragic mechanic little lamp pulse expect";
+var mnemonic = "gas reveal illness ball stable dismiss flee oven spirit addict ribbon metal";

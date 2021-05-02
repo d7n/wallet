@@ -1,1 +1,1 @@
-var mnemonic = "defy marble clerk must planet finger into media film cheese oxygen else";
+var mnemonic = "endless giggle reward lecture uncover old myself fatal bicycle prison pipe prepare";

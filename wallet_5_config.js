@@ -1,1 +1,1 @@
-var mnemonic = "smile when crumble neglect all place foot frequent dumb fee image tide";
+var mnemonic = "demand jewel orphan beef deliver glimpse trend around head true repair lock";

@@ -1,1 +1,1 @@
-var mnemonic = "light book vault infant kick pet catch soft leader farm empty busy";
+var mnemonic = "reflect rabbit kiwi bid ridge swift volume mushroom hair deposit onion hand";

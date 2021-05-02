@@ -1,1 +1,1 @@
-var mnemonic = "bronze wisdom link midnight curtain alarm opera arena label damp dwarf truly";
+var mnemonic = "child saddle enter adapt tube replace correct sting sick fantasy street source";

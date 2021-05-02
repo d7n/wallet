@@ -1,1 +1,1 @@
-var mnemonic = "stuff siren luggage orchard depth disagree tiger gesture tiny turn sand energy";
+var mnemonic = "lawn large weird gap assist mansion weasel ranch sauce dress coral float";

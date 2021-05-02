@@ -1,1 +1,1 @@
-var mnemonic = "panel equal bridge gesture modify hundred unveil chase cost scale dad debris";
+var mnemonic = "weekend sting cram twenty space slab gentle acquire consider lawsuit master suit";

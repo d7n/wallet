@@ -1,1 +1,1 @@
-var mnemonic = "juice promote pretty always flush kid develop wild engine again eyebrow easily";
+var mnemonic = "panther purity voyage trash chaos another income rail enhance absurd outdoor dinosaur";

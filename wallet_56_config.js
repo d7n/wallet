@@ -1,1 +1,1 @@
-var mnemonic = "seek amused kit volume inch furnace poem sustain celery dynamic disagree pass";
+var mnemonic = "update update review pill jump army girl fault control common effort chicken";

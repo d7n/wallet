@@ -1,1 +1,1 @@
-var mnemonic = "melody exile advance burden already pelican target scorpion misery pair mixed antique";
+var mnemonic = "own hunt lens suffer grace eight gorilla deputy palace demise rebel salmon";

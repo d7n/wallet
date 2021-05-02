@@ -1,1 +1,1 @@
-var mnemonic = "help machine boost job chat brave mix genius alley image truck piano";
+var mnemonic = "oppose raise only step penalty lake liberty awesome hamster people unique size";

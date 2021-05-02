@@ -1,1 +1,1 @@
-var mnemonic = "mango leader you unknown silver pelican famous tornado shield desk pave glass";
+var mnemonic = "accuse guilt trust arch prosper loop dawn fragile hazard pyramid edge giggle";

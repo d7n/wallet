@@ -1,1 +1,1 @@
-var mnemonic = "figure dish trial purpose school vicious model churn cabbage ship race work";
+var mnemonic = "bomb swallow disease shadow that song century arch fault lens early parrot";

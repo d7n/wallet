@@ -1,1 +1,1 @@
-var mnemonic = "sea actual must shine resemble know banner minute west scorpion agree pottery";
+var mnemonic = "pizza spot page apology dad auction misery aware ski swamp apart around";

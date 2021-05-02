@@ -1,1 +1,1 @@
-var mnemonic = "clutch vendor pottery claw explain settle slice cluster august urge slot middle";
+var mnemonic = "gas carpet half secret rice predict question pink march magic panel mouse";

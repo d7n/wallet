@@ -1,1 +1,1 @@
-var mnemonic = "intact shuffle venue shadow catalog meat push prison rent diagram myth real";
+var mnemonic = "minimum under buddy develop post earn chef leopard cliff spot high ceiling";

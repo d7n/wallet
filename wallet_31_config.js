@@ -1,1 +1,1 @@
-var mnemonic = "fury loyal patient lemon sand slab hotel fade process upon slush avocado";
+var mnemonic = "because pill require cash clerk casino unaware jar snack sort pig shallow";

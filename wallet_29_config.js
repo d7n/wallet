@@ -1,1 +1,1 @@
-var mnemonic = "claw decade camp leopard expect family pass access team require choice eyebrow";
+var mnemonic = "issue science sibling oval melt truck rare orange river upgrade glide delay";

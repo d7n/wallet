@@ -1,1 +1,1 @@
-var mnemonic = "mixture warfare example cushion wool doll document connect trouble anchor civil tiny";
+var mnemonic = "barely fade engage minute park random junk arrow diary cloud warfare kitten";

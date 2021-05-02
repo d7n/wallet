@@ -1,1 +1,1 @@
-var mnemonic = "sunny fiber glance model swap recycle finger envelope twelve sight banana dove";
+var mnemonic = "excess cherry energy fluid tomorrow smile stone organ toast wrap curtain business";

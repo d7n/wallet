@@ -1,1 +1,1 @@
-var mnemonic = "butter opera else gas airport shoe work stock issue recycle ready manage";
+var mnemonic = "permit sick glide ocean panic neither jewel pool approve spice rain praise";

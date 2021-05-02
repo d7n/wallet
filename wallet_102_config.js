@@ -1,1 +1,1 @@
-var mnemonic = "age design word wisdom junior core rebuild impose clap minute post decade";
+var mnemonic = "question kangaroo castle culture mosquito canvas ostrich spare parent movie cruise oval";

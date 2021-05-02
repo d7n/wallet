@@ -1,1 +1,1 @@
-var mnemonic = "humor question option machine wagon youth aerobic oven surround all verb animal";
+var mnemonic = "fly verb card shield urge unlock asthma surface property glare false neutral";

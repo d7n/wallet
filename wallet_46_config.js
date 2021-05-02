@@ -1,1 +1,1 @@
-var mnemonic = "humble soap indicate picnic bounce winter stomach obey report sport stereo trumpet";
+var mnemonic = "mimic october rhythm outdoor train bitter nerve six canoe royal grit miracle";

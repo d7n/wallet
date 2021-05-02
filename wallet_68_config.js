@@ -1,1 +1,1 @@
-var mnemonic = "gun birth alpha history surge consider file short loan wage ability switch";
+var mnemonic = "gasp wave gap sail tenant mix ride admit south upper next flower";

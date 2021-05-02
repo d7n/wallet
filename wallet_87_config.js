@@ -1,1 +1,1 @@
-var mnemonic = "industry bulb pottery park slim milk coach that west number laptop demand";
+var mnemonic = "sense truck tank noble vanish ankle antique peanut tomato detect silver shy";

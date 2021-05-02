@@ -1,1 +1,1 @@
-var mnemonic = "pudding visa capital romance own cupboard draft vanish parrot furnace mesh pitch";
+var mnemonic = "angle bicycle slot spend tape broccoli music clever tray seven start trash";

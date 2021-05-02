@@ -1,1 +1,1 @@
-var mnemonic = "dress aspect know purity tube cave atom memory wedding shallow width head";
+var mnemonic = "satoshi margin kangaroo voyage safe comfort busy history suit confirm draft cupboard";

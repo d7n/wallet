@@ -1,1 +1,1 @@
-var mnemonic = "trouble pistol harvest impact labor hair exotic hard foot scissors when lawn";
+var mnemonic = "image scan south text wise design radio unfold expose arrange athlete try";

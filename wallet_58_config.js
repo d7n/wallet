@@ -1,1 +1,1 @@
-var mnemonic = "clown subway bench stage pledge sunset demise choose twist unfold edit spot";
+var mnemonic = "ugly pyramid grain pet jewel help affair embody huge drill destroy reform";

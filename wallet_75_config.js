@@ -1,1 +1,1 @@
-var mnemonic = "identify correct lady brand claw sight consider page render essay pull leisure";
+var mnemonic = "rebel bulk razor pony weird rotate vicious sponsor gap dismiss mechanic together";

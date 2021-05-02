@@ -1,1 +1,1 @@
-var mnemonic = "pact nephew lounge lock mad wonder true marble actor cage youth language";
+var mnemonic = "analyst robot define clip switch inject poverty impose tooth embrace mammal taxi";

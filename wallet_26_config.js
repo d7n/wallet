@@ -1,1 +1,1 @@
-var mnemonic = "beauty lake wolf scheme cherry panel legal order wheel boost impact decade";
+var mnemonic = "garbage prison warm gap glory laptop innocent disagree fat coyote funny island";

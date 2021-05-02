@@ -1,1 +1,1 @@
-var mnemonic = "number prize subject sunny position enjoy intact bacon clock grab matter worth";
+var mnemonic = "surprise path office fee what three close ivory check buyer vacant payment";

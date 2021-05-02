@@ -1,1 +1,1 @@
-var mnemonic = "since horse letter wish you clerk salon airport lizard then toss whisper";
+var mnemonic = "kingdom spider episode mule hawk fine just wear grid face remember action";

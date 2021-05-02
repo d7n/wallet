@@ -1,1 +1,1 @@
-var mnemonic = "mobile solar liar laundry almost kiss midnight slot lonely cat puzzle pitch";
+var mnemonic = "undo mirror start theme lottery pave squeeze average athlete crop index pole";

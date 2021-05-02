@@ -1,1 +1,1 @@
-var mnemonic = "trade indoor genius crucial pact horror dizzy puzzle legend pull essay manage";
+var mnemonic = "cloud other smooth island slogan alarm dance video coffee secret brass happy";

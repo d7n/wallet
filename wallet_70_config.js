@@ -1,1 +1,1 @@
-var mnemonic = "include foot season select grace toddler render purpose common olympic sunny public";
+var mnemonic = "warfare ensure immune target tape coral hint custom shaft alcohol cupboard bench";

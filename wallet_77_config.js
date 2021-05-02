@@ -1,1 +1,1 @@
-var mnemonic = "purity used hidden rose manage ugly hunt deputy unveil vibrant jaguar gap";
+var mnemonic = "lizard blossom stock saddle raccoon chat because alone stay example item regret";

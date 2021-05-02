@@ -1,1 +1,1 @@
-var mnemonic = "cable type cherry key wet egg gap name plastic garden behind sort";
+var mnemonic = "film gaze retreat trial chair spin stick fringe canal access drill tell";

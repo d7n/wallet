@@ -1,1 +1,1 @@
-var mnemonic = "choose manage deer omit prefer regular business want become pride regret hazard";
+var mnemonic = "tide live rent ready during pumpkin narrow case weird clerk tumble coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "frame obscure token exhaust joy trophy seed auto tag basic scrap supreme";
+var mnemonic = "bomb wash bundle race worry cart wait afraid meadow kite flee purity";

@@ -1,1 +1,1 @@
-var mnemonic = "month claw gather hundred joy scorpion tide blood grape useless caught melody";
+var mnemonic = "merge already olive report brisk forget pistol crater alpha pencil fatigue cable";

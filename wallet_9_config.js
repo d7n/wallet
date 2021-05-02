@@ -1,1 +1,1 @@
-var mnemonic = "hub arrest describe bench moment away depend nut settle sibling meat quarter";
+var mnemonic = "extend match breeze panic ahead stuff pepper federal syrup response twist page";

@@ -1,1 +1,1 @@
-var mnemonic = "large crunch urban strategy spread time ugly bid fringe victory canyon insane";
+var mnemonic = "van kite wing barely garlic nothing slice fault able mirror gift index";

@@ -1,1 +1,1 @@
-var mnemonic = "state lumber damp alone modify video display infant dress happy turn caution";
+var mnemonic = "adult twenty jazz beef system palm today warfare shoulder fine ramp crazy";

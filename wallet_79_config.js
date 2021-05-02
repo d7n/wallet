@@ -1,1 +1,1 @@
-var mnemonic = "fluid invest spice ask transfer earn biology then robot pet knife garden";
+var mnemonic = "idea guilt joy between super throw effort vintage scatter cram rich room";

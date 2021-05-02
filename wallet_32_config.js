@@ -1,1 +1,1 @@
-var mnemonic = "problem cook wing desk chronic category engine quarter rocket sense pistol trip";
+var mnemonic = "zone setup obey hungry trash maze entry radio divorce throw help gaze";

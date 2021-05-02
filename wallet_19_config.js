@@ -1,1 +1,1 @@
-var mnemonic = "lunar grass east salon ship praise crucial toast reflect zero arena dad";
+var mnemonic = "gaze alert mimic wall valley offer awesome expand grain top proof denial";

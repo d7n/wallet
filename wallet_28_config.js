@@ -1,1 +1,1 @@
-var mnemonic = "reform topic fitness subway fancy social color north bean wide more flight";
+var mnemonic = "because hint hand poverty famous broom legend panther dash text settle coin";

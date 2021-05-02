@@ -1,1 +1,1 @@
-var mnemonic = "field element warm grief awkward boy just during distance reveal modify gauge";
+var mnemonic = "inmate fox accuse dynamic banner camera ill term thing crane force shove";

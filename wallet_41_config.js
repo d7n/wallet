@@ -1,1 +1,1 @@
-var mnemonic = "move radio chase north onion ten media palm pulp crash quiz recipe";
+var mnemonic = "popular neck pupil wink like food receive twice leave pulp uncover actress";

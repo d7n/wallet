@@ -1,1 +1,1 @@
-var mnemonic = "theme frost swim main pass bottom hurt during glide crush comic stereo";
+var mnemonic = "person stage next addict exclude raw morning merge news cake unusual velvet";

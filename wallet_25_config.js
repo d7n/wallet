@@ -1,1 +1,1 @@
-var mnemonic = "garlic explain aerobic zoo detect matter yard surprise title dust false boil";
+var mnemonic = "word uncle truth novel alcohol sense employ drastic alter possible renew learn";

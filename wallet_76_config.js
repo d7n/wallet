@@ -1,1 +1,1 @@
-var mnemonic = "noble wisdom payment extend unable patrol useless delay blush impact kiwi unfair";
+var mnemonic = "love weasel rebuild section page system sadness visa old field scissors divorce";

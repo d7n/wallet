@@ -1,1 +1,1 @@
-var mnemonic = "globe burden book cage number gas finger bread endorse little festival unit";
+var mnemonic = "noodle affair pulp glass accident trouble scout entry submit auto rookie egg";

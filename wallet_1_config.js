@@ -1,1 +1,1 @@
-var mnemonic = "ranch duty below curtain drastic endorse quiz slide catalog shift airport doll";
+var mnemonic = "flame grass mushroom rebuild evoke miss afford black student brain outer photo";

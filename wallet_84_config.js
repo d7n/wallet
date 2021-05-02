@@ -1,1 +1,1 @@
-var mnemonic = "work much raven ivory range outer pilot minor apart lyrics mechanic truck";
+var mnemonic = "stumble hip inflict fringe drift action auto talk frozen play believe misery";

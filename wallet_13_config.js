@@ -1,1 +1,1 @@
-var mnemonic = "slogan spider error clean stomach vendor toe stock burden merit insane option";
+var mnemonic = "airport sausage blast toast alcohol goose dial comfort exhibit rotate cricket surface";

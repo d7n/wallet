@@ -1,1 +1,1 @@
-var mnemonic = "purpose swap cost just feature steak market funny powder jealous obtain bring";
+var mnemonic = "hidden table victory rose convince depend episode glory uncle together barely strong";

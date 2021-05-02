@@ -1,1 +1,1 @@
-var mnemonic = "invest reunion raven nerve funny insect choose solve pipe bullet assist flush";
+var mnemonic = "never whip collect thrive orient tiny betray cable orange unaware casino notable";

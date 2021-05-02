@@ -1,1 +1,1 @@
-var mnemonic = "gentle miracle camp course sorry badge amount tribe behind december piano sheriff";
+var mnemonic = "twist park client depth humble endless flag office various list brown course";

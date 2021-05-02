@@ -1,1 +1,1 @@
-var mnemonic = "gold sun mask travel vendor notable six estate come wave cliff cotton";
+var mnemonic = "smoke razor welcome used minute venture tennis oppose unfair fee update caution";

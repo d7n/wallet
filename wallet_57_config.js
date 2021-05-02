@@ -1,1 +1,1 @@
-var mnemonic = "depart lobster problem index broom interest tilt involve load cousin juice tortoise";
+var mnemonic = "donkey hollow office alien antenna present seven snap powder sample scheme home";
