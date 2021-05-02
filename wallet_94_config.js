@@ -1,1 +1,1 @@
-var mnemonic = "strong maid seat silent angle vivid tobacco soap junk worth harbor luggage";
+var mnemonic = "tent copy machine garage option awful sure riot chronic fire visa rapid";

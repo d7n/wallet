@@ -1,1 +1,1 @@
-var mnemonic = "ostrich solve shy absurd vibrant fence funny hurt unfair cover among drum";
+var mnemonic = "iron hundred inspire edge mother bird citizen dice combine glad entry fragile";

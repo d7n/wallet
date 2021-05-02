@@ -1,1 +1,1 @@
-var mnemonic = "creek wise marine leaf alpha slam inner obey brisk secret moral output";
+var mnemonic = "hidden nasty win screen toss act giraffe around panic vast train material";

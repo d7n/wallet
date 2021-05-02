@@ -1,1 +1,1 @@
-var mnemonic = "alien old million fetch excuse vacuum trade slide loud bacon eager dune";
+var mnemonic = "fog trade expose pencil sleep bind narrow sentence talk confirm victory shallow";

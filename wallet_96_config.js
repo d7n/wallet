@@ -1,1 +1,1 @@
-var mnemonic = "benefit neck boring evolve clog vacant public ostrich toward mom jelly enemy";
+var mnemonic = "tired mobile pill market night easily heart first riot either odor nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "update member accident large life father team interest invest tip brush result";
+var mnemonic = "aisle shrimp rib tomorrow choice place plug heavy rigid hurry excess pyramid";

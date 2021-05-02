@@ -1,1 +1,1 @@
-var mnemonic = "photo blast apart depart second castle combine obey dose level lyrics enroll";
+var mnemonic = "gym dial advance busy spin receive please usage symbol poverty junior hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "flame cradle wise giggle number jealous trophy divert patient little lamp power";
+var mnemonic = "old milk swallow alien crew view say fame since message square wild";

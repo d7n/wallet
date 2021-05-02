@@ -1,1 +1,1 @@
-var mnemonic = "cloth phone pink book onion stay vacant spawn copy shadow second mask";
+var mnemonic = "claim math debris nerve clown tone tattoo usage frame cause blind nest";

@@ -1,1 +1,1 @@
-var mnemonic = "melt amused expand field rebel position couch uncle snack public cry olive";
+var mnemonic = "rule hundred dice quiz sphere balance annual one resource panda water exhibit";

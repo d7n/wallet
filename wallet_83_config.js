@@ -1,1 +1,1 @@
-var mnemonic = "achieve carpet spray merry kid civil erode laugh transfer rapid method poverty";
+var mnemonic = "museum state unfold grow gym vacant prize noodle lab insect deposit skate";

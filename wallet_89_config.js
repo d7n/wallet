@@ -1,1 +1,1 @@
-var mnemonic = "rigid relief drop slide cannon spoil next crumble hospital rifle until soap";
+var mnemonic = "before thrive snack crystal mountain weasel spice energy same agent situate donkey";

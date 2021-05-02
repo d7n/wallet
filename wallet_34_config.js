@@ -1,1 +1,1 @@
-var mnemonic = "mutual purse private undo cute heart depend ginger picnic true mushroom detect";
+var mnemonic = "hockey stool popular vote forum afraid attitude kid dress bless winter deny";

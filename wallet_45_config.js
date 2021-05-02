@@ -1,1 +1,1 @@
-var mnemonic = "assault open all field aim old trim badge dolphin veteran muscle vacuum";
+var mnemonic = "off coach among door egg sort arctic width whale guide bar disease";

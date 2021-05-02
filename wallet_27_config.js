@@ -1,1 +1,1 @@
-var mnemonic = "cave barrel amount extra blur drama head victory leaf doctor can win";
+var mnemonic = "stool neglect foam toy match rough glove theme pepper country advance curtain";

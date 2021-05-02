@@ -1,1 +1,1 @@
-var mnemonic = "about walnut mirror differ couple polar truck volcano miracle pledge sell window";
+var mnemonic = "wagon put denial permit rely panther giant pet brown trend cash kingdom";

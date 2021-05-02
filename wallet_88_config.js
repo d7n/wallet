@@ -1,1 +1,1 @@
-var mnemonic = "team pattern matrix address boost discover muffin seat dentist mother order muscle";
+var mnemonic = "mechanic stomach paper warfare inch detect casino host brave rain cat soon";

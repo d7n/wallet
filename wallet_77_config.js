@@ -1,1 +1,1 @@
-var mnemonic = "shove lens sword wisdom increase absent climb world strong sad moment easy";
+var mnemonic = "rival magic hollow present egg cheese sweet decline lunch urge together refuse";

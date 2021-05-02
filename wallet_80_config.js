@@ -1,1 +1,1 @@
-var mnemonic = "vehicle lake market name whale ice approve maple speed agree proud drum";
+var mnemonic = "kid network panic maximum dice bone cloud trust crucial merit ensure swallow";

@@ -1,1 +1,1 @@
-var mnemonic = "orbit flash vague broccoli divide frog eagle fire demand truth sustain age";
+var mnemonic = "pretty math chat husband fold almost hand churn saddle oil lend fun";

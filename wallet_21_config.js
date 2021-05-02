@@ -1,1 +1,1 @@
-var mnemonic = "rubber hip rate rent victory dust bachelor winner wheel notice curve reopen";
+var mnemonic = "fat initial onion whisper poverty rug elite tornado carpet essence possible jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor filter silly short into gun among avocado fox run print betray";
+var mnemonic = "among tube corn diagram citizen noise size fence toward script coral fever";

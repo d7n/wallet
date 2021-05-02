@@ -1,1 +1,1 @@
-var mnemonic = "hybrid industry aunt isolate include enroll write swap amazing glad dawn festival";
+var mnemonic = "aspect wasp extra mutual hat spider frame degree like syrup popular embark";

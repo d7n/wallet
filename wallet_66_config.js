@@ -1,1 +1,1 @@
-var mnemonic = "stadium awake beyond card april burger congress alarm chapter vault ugly elevator";
+var mnemonic = "two wonder become know zero sphere sibling lecture away tenant pudding response";

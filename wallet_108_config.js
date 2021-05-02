@@ -1,1 +1,1 @@
-var mnemonic = "mesh same cousin material matter gown famous spend pave before like february";
+var mnemonic = "jelly purse struggle wave proof gather media average adjust collect original citizen";

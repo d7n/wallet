@@ -1,1 +1,1 @@
-var mnemonic = "property attack hello bridge false remind laundry wear uncover announce swim message";
+var mnemonic = "describe right danger hockey kite holiday transfer monkey glass match beyond aware";

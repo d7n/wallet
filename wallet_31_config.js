@@ -1,1 +1,1 @@
-var mnemonic = "attract captain ride analyst gloom rate bike metal march expand guess begin";
+var mnemonic = "tobacco tragic exhaust try prize already script similar unaware beef offer mouse";

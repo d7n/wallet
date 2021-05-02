@@ -1,1 +1,1 @@
-var mnemonic = "measure deal easy embark host empty boil cup return settle desert grief";
+var mnemonic = "shop village patient crime rich clown final sauce waste bind health bone";

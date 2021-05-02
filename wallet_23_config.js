@@ -1,1 +1,1 @@
-var mnemonic = "orbit enough chicken original hunt news hire later public magic maid butter";
+var mnemonic = "retreat language onion weekend print bind peasant stay oval modify try funny";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum course puppy snack diary vibrant project arrest flame diagram bike armor";
+var mnemonic = "clutch boat improve fiber change praise pretty figure clog come sweet color";

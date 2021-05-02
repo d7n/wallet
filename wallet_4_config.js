@@ -1,1 +1,1 @@
-var mnemonic = "search ritual boy pause bamboo august surprise ocean elegant clump bulb print";
+var mnemonic = "jump exhaust mask around decide situate donor define picture cash during primary";

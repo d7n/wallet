@@ -1,1 +1,1 @@
-var mnemonic = "rapid wire give way require autumn give glow flip wait build output";
+var mnemonic = "measure drift tide prefer neglect betray tilt staff ski oxygen style exotic";

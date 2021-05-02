@@ -1,1 +1,1 @@
-var mnemonic = "flat uniform fatal text very marine cloud quiz miracle hard bracket before";
+var mnemonic = "foster range noise hover mimic month normal gravity sentence below enough course";

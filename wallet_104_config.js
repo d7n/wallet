@@ -1,1 +1,1 @@
-var mnemonic = "stable lady afraid screen fortune danger judge pluck buddy dream taste fatal";
+var mnemonic = "still pole ordinary icon upset install sail mango drip shift split first";

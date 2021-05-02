@@ -1,1 +1,1 @@
-var mnemonic = "square undo defy concert return morning stage speak toss candy food memory";
+var mnemonic = "cactus cool elegant gate patient great salute inhale crumble planet flee share";

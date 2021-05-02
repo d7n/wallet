@@ -1,1 +1,1 @@
-var mnemonic = "argue reject injury brass one raw age elder weird hand lottery super";
+var mnemonic = "promote autumn area blind merge bronze cave echo around spring common tide";

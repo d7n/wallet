@@ -1,1 +1,1 @@
-var mnemonic = "domain hold super eyebrow daughter another clog off oppose around rifle throw";
+var mnemonic = "obtain advance boost muscle horror present carbon involve mansion sugar jacket suit";

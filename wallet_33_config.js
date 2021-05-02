@@ -1,1 +1,1 @@
-var mnemonic = "trip glue setup rent turn absorb around soldier expect claim tuition kitten";
+var mnemonic = "nurse dismiss into observe child blossom affair earth siren piano stamp notice";

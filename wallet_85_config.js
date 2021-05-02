@@ -1,1 +1,1 @@
-var mnemonic = "forget film nut hidden pink wonder truly guess walk wet puzzle purse";
+var mnemonic = "donate nerve color table unusual welcome box another tomato swear pledge neglect";

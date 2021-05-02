@@ -1,1 +1,1 @@
-var mnemonic = "decrease tent inner leader section window violin flee spawn action trap riot";
+var mnemonic = "rotate salt adapt verb hobby frog derive column twenty rack silk paddle";

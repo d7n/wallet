@@ -1,1 +1,1 @@
-var mnemonic = "december decide kit address warrior shoulder robust camp amount useful aware symbol";
+var mnemonic = "belt regular convince maid blame talent pill alley mosquito dash surround combine";

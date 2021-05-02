@@ -1,1 +1,1 @@
-var mnemonic = "clown borrow swallow sleep nothing sell best way okay equal end diagram";
+var mnemonic = "ensure genuine inside eye dutch strategy piano forget salmon pepper foot curious";

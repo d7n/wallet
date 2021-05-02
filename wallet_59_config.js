@@ -1,1 +1,1 @@
-var mnemonic = "fossil uncle sure trim grace neck wheat vacuum carbon brick crime salute";
+var mnemonic = "meat simple keep kangaroo notice nominee swim exclude ketchup rotate insect scorpion";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy appear way hair symptom earth ride cry plug clip fetch roof";
+var mnemonic = "wasp math carbon addict among truth firm vintage ceiling sound flush liberty";

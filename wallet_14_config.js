@@ -1,1 +1,1 @@
-var mnemonic = "island solve rabbit clinic ritual small awake muscle merry glimpse draw pyramid";
+var mnemonic = "flower ceiling copy wagon mystery birth segment lazy awake width convince play";

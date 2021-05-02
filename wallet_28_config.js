@@ -1,1 +1,1 @@
-var mnemonic = "now fiction brief lawn boat depth table sauce opera critic supply install";
+var mnemonic = "jaguar woman leave crucial into trip exclude hope later exotic book extend";

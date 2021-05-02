@@ -1,1 +1,1 @@
-var mnemonic = "glove sponsor clay sing educate will guide drama tank assist tooth area";
+var mnemonic = "thunder final hidden extend surface verify embark must conduct universe satisfy general";

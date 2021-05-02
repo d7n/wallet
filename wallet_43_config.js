@@ -1,1 +1,1 @@
-var mnemonic = "brown calm mimic hobby cattle way fade piano adult indicate model rail";
+var mnemonic = "orphan become salmon sauce help wing inner entry avocado struggle coil garden";

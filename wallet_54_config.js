@@ -1,1 +1,1 @@
-var mnemonic = "ankle sight fashion spider crush ramp mistake until area age slide adjust";
+var mnemonic = "jelly escape faint this dish seminar juice sail reopen reward tide snow";

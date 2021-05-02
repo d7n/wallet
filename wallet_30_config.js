@@ -1,1 +1,1 @@
-var mnemonic = "shiver suspect seminar claw draft sleep pistol pumpkin month lemon token enroll";
+var mnemonic = "face project repeat novel luxury style vessel require ethics actress hood monster";

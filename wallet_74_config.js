@@ -1,1 +1,1 @@
-var mnemonic = "olive sniff tray present pigeon latin fog cash leisure wife wear mule";
+var mnemonic = "oyster tackle asthma garment length leave uncover disorder security casino battle source";

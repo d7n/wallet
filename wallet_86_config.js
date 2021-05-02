@@ -1,1 +1,1 @@
-var mnemonic = "night rifle turn stuff skin setup typical over route raccoon slight fragile";
+var mnemonic = "mix tip body change arrest switch joy verify list bright online grocery";

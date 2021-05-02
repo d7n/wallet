@@ -1,1 +1,1 @@
-var mnemonic = "noise shell damp ensure rebuild total athlete nominee monitor retreat tattoo win";
+var mnemonic = "tree net chef ticket office hungry treat power useful crawl poverty original";

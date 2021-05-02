@@ -1,1 +1,1 @@
-var mnemonic = "clown wonder wing help clock review sword price fiber easily snap flat";
+var mnemonic = "decrease manual timber lemon case camera normal awesome junk dose comic loop";

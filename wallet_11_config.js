@@ -1,1 +1,1 @@
-var mnemonic = "globe donate sword ghost aspect since script noble boss boost retire alert";
+var mnemonic = "slush royal barrel shield vocal acid vacant category disorder panic actor egg";

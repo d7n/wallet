@@ -1,1 +1,1 @@
-var mnemonic = "slow normal fantasy flight crater general aerobic web festival analyst shy seminar";
+var mnemonic = "file entire smart wall soccer impose bread tuna finish pelican erode flee";

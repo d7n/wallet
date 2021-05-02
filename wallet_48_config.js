@@ -1,1 +1,1 @@
-var mnemonic = "rude effort million category enemy visual mansion weapon risk desert clip lawn";
+var mnemonic = "benefit furnace mix oval lyrics desert upper nasty fly market stone badge";

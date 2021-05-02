@@ -1,1 +1,1 @@
-var mnemonic = "cotton october evolve expose worth vault october easily loud nut defense noble";
+var mnemonic = "room hotel evoke copper gold secret large shoe hold maze scheme illness";

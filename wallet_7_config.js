@@ -1,1 +1,1 @@
-var mnemonic = "require rotate pumpkin negative museum mask safe leave risk grain clock brief";
+var mnemonic = "miss token mention start pencil legend pitch icon harsh fog marble rookie";

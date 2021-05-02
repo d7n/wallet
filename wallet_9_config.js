@@ -1,1 +1,1 @@
-var mnemonic = "angry method inner rate urban popular magnet cry sort copy night tide";
+var mnemonic = "load analyst brick return pass lobster float noble decrease chase name husband";

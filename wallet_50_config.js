@@ -1,1 +1,1 @@
-var mnemonic = "zone mixture tired energy tongue cargo useless dance always south aunt trumpet";
+var mnemonic = "legal forget hire orchard style load main animal festival unusual pumpkin unit";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk deal robot robot extra urban unknown color attract panda gold okay";
+var mnemonic = "truth hockey shoulder inner dance blush height ankle frequent goat visual author";

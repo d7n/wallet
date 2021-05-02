@@ -1,1 +1,1 @@
-var mnemonic = "fan cabbage dirt differ immense talent armed prefer noodle casino bronze innocent";
+var mnemonic = "salon exercise adapt program can bounce destroy sentence region mechanic claim cabin";

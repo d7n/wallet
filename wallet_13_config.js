@@ -1,1 +1,1 @@
-var mnemonic = "entry estate edge baby swift spirit rely goat wagon kitten vicious cattle";
+var mnemonic = "crowd scissors spy ability lecture attract phone feature steak female obvious dream";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral soccer grief legal similar square rebel arm better cover call material";
+var mnemonic = "photo blade cake love chuckle gravity general dragon script pupil session comic";

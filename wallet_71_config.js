@@ -1,1 +1,1 @@
-var mnemonic = "bacon weapon laugh correct thing puzzle hub debate actual shed say minimum";
+var mnemonic = "connect donor buyer myself garden obscure penalty cook motion frequent year enough";

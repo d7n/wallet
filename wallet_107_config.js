@@ -1,1 +1,1 @@
-var mnemonic = "unhappy mosquito pumpkin fold negative patient tomato woman spy gesture liberty idea";
+var mnemonic = "canal search impact notable cradle service foil seek other judge fabric rent";

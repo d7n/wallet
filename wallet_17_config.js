@@ -1,1 +1,1 @@
-var mnemonic = "melt vendor garment law grace parade grab speed slab daughter honey shell";
+var mnemonic = "barely soft furnace quote subway double clarify coast submit wise silent amazing";

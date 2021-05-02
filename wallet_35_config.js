@@ -1,1 +1,1 @@
-var mnemonic = "minute system usage warrior exit cushion marriage ship scale gaze gauge lonely";
+var mnemonic = "endorse sport venture diet accuse asthma another echo response net maximum supply";

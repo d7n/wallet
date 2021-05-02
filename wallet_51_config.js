@@ -1,1 +1,1 @@
-var mnemonic = "promote uncle once carbon focus elephant wine finger tilt small rail amazing";
+var mnemonic = "know know visa sheriff ranch file record pelican fiscal nature album fold";

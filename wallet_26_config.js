@@ -1,1 +1,1 @@
-var mnemonic = "lonely eight lizard soap domain airport image arm artist carbon hunt frown";
+var mnemonic = "patrol play must fame demand muscle siren tornado term debris wasp hungry";

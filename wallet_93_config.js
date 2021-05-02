@@ -1,1 +1,1 @@
-var mnemonic = "adapt bubble skull pigeon glove steel wash click people kidney peace combine";
+var mnemonic = "soul slide merge ugly slush private aware hundred refuse elite awful boy";

@@ -1,1 +1,1 @@
-var mnemonic = "switch spray whip north coast wrist want gym essence august control shoot";
+var mnemonic = "autumn portion timber physical donkey rocket refuse flash weasel issue enhance album";

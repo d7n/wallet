@@ -1,1 +1,1 @@
-var mnemonic = "sheriff misery try wealth vital reopen juice logic crater canoe express salt";
+var mnemonic = "please squirrel angry engage ball conduct friend eager bonus bottom oyster sock";

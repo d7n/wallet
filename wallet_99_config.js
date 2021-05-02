@@ -1,1 +1,1 @@
-var mnemonic = "faculty orphan lumber prefer such figure gospel rotate shadow minute soccer subject";
+var mnemonic = "harvest method spin drastic wealth chest panic bitter sock liquid talent gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "rain code wish lens tackle lumber control marriage prepare behave vivid pitch";
+var mnemonic = "scrap quote sound mad become swim artwork tragic guard improve luxury nation";

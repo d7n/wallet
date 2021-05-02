@@ -1,1 +1,1 @@
-var mnemonic = "melody annual property type disease second shock butter cave seat shy mom";
+var mnemonic = "canyon garbage fiscal pledge labor super moral prepare zebra cage current enact";

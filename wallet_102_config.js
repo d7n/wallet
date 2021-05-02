@@ -1,1 +1,1 @@
-var mnemonic = "damage phone lesson drink erase answer decade screen belt steak draft wasp";
+var mnemonic = "stand armor omit husband question way relief congress bus almost physical vessel";

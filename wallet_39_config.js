@@ -1,1 +1,1 @@
-var mnemonic = "require fall sense victory purpose wrist trumpet topic ski around where useless";
+var mnemonic = "push naive noodle blur cash pretty throw copy thing fence auto milk";

@@ -1,1 +1,1 @@
-var mnemonic = "genuine palm blur kitten suit mixed toilet picture dinosaur balance feed police";
+var mnemonic = "toe shadow point dad tone humble frost pet merry cactus solution wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "ginger kangaroo flush skirt cake enable nice luggage regular auction brand entire";
+var mnemonic = "music dignity chalk outdoor sustain birth calm crane rival faint fiction island";

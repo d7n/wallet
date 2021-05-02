@@ -1,1 +1,1 @@
-var mnemonic = "grow assist donkey reform forget car test impose simple spy ship leave";
+var mnemonic = "net extra tent wrap drama involve gold enjoy any evolve page river";

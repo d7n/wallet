@@ -1,1 +1,1 @@
-var mnemonic = "wool lawn glide fox lend bundle guitar attitude icon horse system apart";
+var mnemonic = "view slush blouse oval license switch common fitness update awful tenant range";

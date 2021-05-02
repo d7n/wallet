@@ -1,1 +1,1 @@
-var mnemonic = "frequent toast bless same interest thought next pass ship agent empower odor";
+var mnemonic = "inspire this velvet remain cruise brown tattoo crumble issue practice base exact";

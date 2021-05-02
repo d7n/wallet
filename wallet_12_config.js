@@ -1,1 +1,1 @@
-var mnemonic = "one south hello become frozen west earth junior hole drill copper cool";
+var mnemonic = "labor uniform essence situate viable use talent pitch senior hazard solid wet";

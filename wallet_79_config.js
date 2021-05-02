@@ -1,1 +1,1 @@
-var mnemonic = "prosper panic wild like deny area answer museum scare baby intact atom";
+var mnemonic = "ordinary pact poem usage journey during increase cliff expose october correct once";

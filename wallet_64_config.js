@@ -1,1 +1,1 @@
-var mnemonic = "clog deny bounce wagon jelly zebra judge device settle chunk uphold mercy";
+var mnemonic = "valley blossom dove teach subject flee keen glove silent fantasy zone long";

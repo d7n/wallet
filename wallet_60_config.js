@@ -1,1 +1,1 @@
-var mnemonic = "snack weekend believe neglect neither industry tuition armor avoid eagle monkey inject";
+var mnemonic = "cactus obey evolve lawsuit tape trick crash fit convince tourist garment afford";

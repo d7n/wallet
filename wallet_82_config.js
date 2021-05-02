@@ -1,1 +1,1 @@
-var mnemonic = "absorb primary lazy dash wage forum owner bless panel furnace add profit";
+var mnemonic = "mention trip panda palace noble decide lab useful again all basic label";

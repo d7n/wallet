@@ -1,1 +1,1 @@
-var mnemonic = "idea donor evolve occur soda brave vivid cat ride moment current educate";
+var mnemonic = "tornado economy bind fun auction area lizard bright amount scale swift have";
