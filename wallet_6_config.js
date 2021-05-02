@@ -1,1 +1,1 @@
-var mnemonic = "present celery churn wonder tube direct happy marriage manual prevent sick someone";
+var mnemonic = "feed assist erupt manage recall hard tattoo essence churn guess armor wonder";

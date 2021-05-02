@@ -1,1 +1,1 @@
-var mnemonic = "mandate affair amazing nation blast valid stool wonder lamp parrot travel cruise";
+var mnemonic = "divide zone salt narrow replace actress disorder shove flavor second repair stool";

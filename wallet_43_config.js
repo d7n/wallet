@@ -1,1 +1,1 @@
-var mnemonic = "caution cat fortune wheat trust throw suffer wife immune cruise attract bundle";
+var mnemonic = "hurt wrist swarm unhappy century receive worth pause sauce leave feel yellow";

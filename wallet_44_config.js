@@ -1,1 +1,1 @@
-var mnemonic = "glance napkin border guard bring social demise deal glide reject cage deny";
+var mnemonic = "various labor worry orient make monkey drink rich lottery filter play opinion";

@@ -1,1 +1,1 @@
-var mnemonic = "math cake palace stay interest trick garment attend better text solar luxury";
+var mnemonic = "mammal viable fatal dash bind outer defense color donor kit better poverty";

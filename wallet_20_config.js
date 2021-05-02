@@ -1,1 +1,1 @@
-var mnemonic = "visual cross invest concert exhibit pass claw penalty electric arrange scene option";
+var mnemonic = "ethics become plastic edge provide vendor sweet click jealous monkey enact disorder";

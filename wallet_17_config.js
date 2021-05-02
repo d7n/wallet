@@ -1,1 +1,1 @@
-var mnemonic = "ecology kitchen slot rigid right slice royal diesel gauge hood muscle age";
+var mnemonic = "same size rabbit pulp visa property sting crouch obtain glide step bean";

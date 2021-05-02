@@ -1,1 +1,1 @@
-var mnemonic = "salad protect soup tribe gaze broom diagram feel female rug inflict mule";
+var mnemonic = "advice lesson tide tomorrow brush syrup extend wine modify jeans mesh grid";

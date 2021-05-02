@@ -1,1 +1,1 @@
-var mnemonic = "pilot blind enjoy castle danger muscle knee catch learn sad vanish detail";
+var mnemonic = "liar end divert bind stereo nature wrap team capital deliver lecture kitchen";

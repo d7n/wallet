@@ -1,1 +1,1 @@
-var mnemonic = "dignity diamond much slide home define live neutral pulp wealth brain fantasy";
+var mnemonic = "asthma news trend inmate evolve trigger bone focus nest wagon satisfy crack";

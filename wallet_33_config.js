@@ -1,1 +1,1 @@
-var mnemonic = "obtain pave forward spell stool picnic degree silent refuse chapter must figure";
+var mnemonic = "pause pride dizzy review spread night mixed puppy exhaust mimic enjoy side";

@@ -1,1 +1,1 @@
-var mnemonic = "drink kick original grief view try little promote meadow umbrella call typical";
+var mnemonic = "follow deposit canal letter mixture shy settle isolate left whip woman banner";

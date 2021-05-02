@@ -1,1 +1,1 @@
-var mnemonic = "foster famous lesson wool top inside clay adapt verb include tape shed";
+var mnemonic = "box casino guilt raw fringe genuine fine enlist mean type upgrade sorry";

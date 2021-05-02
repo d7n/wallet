@@ -1,1 +1,1 @@
-var mnemonic = "trick hub poet narrow rare garlic ill cargo odor choice goose quick";
+var mnemonic = "transfer say drop alpha recycle ethics history city bone stove phrase please";

@@ -1,1 +1,1 @@
-var mnemonic = "upper solution diet engage cake egg sport trick seek pair useful cupboard";
+var mnemonic = "crawl payment hawk blush vacant spatial jewel erode what gown there latin";

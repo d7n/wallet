@@ -1,1 +1,1 @@
-var mnemonic = "pretty limit orphan guess effort foot habit tragic divide goddess dentist donkey";
+var mnemonic = "apology spatial army major canyon luxury cement swap jazz blossom bring build";

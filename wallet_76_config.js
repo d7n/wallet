@@ -1,1 +1,1 @@
-var mnemonic = "neglect pitch eyebrow cupboard train team slush spread garbage uphold wagon merry";
+var mnemonic = "final same music share giraffe fame sport patient parent bag chef cash";

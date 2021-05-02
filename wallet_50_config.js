@@ -1,1 +1,1 @@
-var mnemonic = "elephant armed uphold huge broccoli cup blame nerve ordinary future wreck fatigue";
+var mnemonic = "hover ten dutch judge suffer transfer diet place system swift social pudding";

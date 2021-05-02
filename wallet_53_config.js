@@ -1,1 +1,1 @@
-var mnemonic = "school enemy fetch because verb speed few tree mechanic gas slab stable";
+var mnemonic = "void guide myself blur observe novel worry umbrella payment pass detect monkey";

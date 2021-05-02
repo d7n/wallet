@@ -1,1 +1,1 @@
-var mnemonic = "rocket energy panda outside advance leopard later pistol script program width barrel";
+var mnemonic = "lady merry input kit trophy forward deputy segment hint robot home odor";

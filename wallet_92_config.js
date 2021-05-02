@@ -1,1 +1,1 @@
-var mnemonic = "special dismiss toast consider frown mad dignity measure gloom clap sock dial";
+var mnemonic = "idle tide puppy clean infant battle whale young erosion vessel call vast";

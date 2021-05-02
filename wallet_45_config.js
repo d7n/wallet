@@ -1,1 +1,1 @@
-var mnemonic = "mirror jar armor bonus mechanic elder pumpkin accident tree noise file eight";
+var mnemonic = "ring chicken inch update claw typical march soft exact rubber jazz mom";

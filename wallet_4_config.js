@@ -1,1 +1,1 @@
-var mnemonic = "myth ill hurt alpha april era unveil material bone estate depth embrace";
+var mnemonic = "fitness situate warfare tide arrow excite nice goat absorb trip panther chapter";

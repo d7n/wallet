@@ -1,1 +1,1 @@
-var mnemonic = "fringe trigger slight enact crack swallow insect gas crystal equal toward wine";
+var mnemonic = "hungry define swear trash drive fog taste later pond fog poverty resemble";

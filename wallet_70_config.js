@@ -1,1 +1,1 @@
-var mnemonic = "weather nuclear master achieve coffee neither firm hobby bacon dry day mimic";
+var mnemonic = "base upon office promote family feel elite tide element dish wide wish";

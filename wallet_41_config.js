@@ -1,1 +1,1 @@
-var mnemonic = "music ritual embark scale insect rude light spirit feel able fluid art";
+var mnemonic = "add upset message pole visit debris urban inhale swamp clarify crazy produce";

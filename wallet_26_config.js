@@ -1,1 +1,1 @@
-var mnemonic = "artefact yard patch alcohol credit exhaust mesh tumble fury sister cost image";
+var mnemonic = "coral chair install glide unaware nut keep quantum sell client bleak answer";

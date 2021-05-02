@@ -1,1 +1,1 @@
-var mnemonic = "wonder leg vicious trouble pill half close primary skin possible tornado snap";
+var mnemonic = "light bundle derive math climb junior impact echo deal jump knock harbor";

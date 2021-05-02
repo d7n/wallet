@@ -1,1 +1,1 @@
-var mnemonic = "tone naive select ensure frown heavy novel involve napkin never pumpkin empty";
+var mnemonic = "live stem polar junk bonus wolf long alarm frog lady october wall";

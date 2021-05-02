@@ -1,1 +1,1 @@
-var mnemonic = "vague side light school tortoise laptop business shoot mushroom rapid sniff insect";
+var mnemonic = "when category airport domain end luxury hawk dolphin secret range butter purpose";

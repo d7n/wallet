@@ -1,1 +1,1 @@
-var mnemonic = "genius spoon panic inherit zebra erode orange gadget judge crack unhappy junior";
+var mnemonic = "sniff ten symptom tuition circle shiver vague bamboo ginger know width road";

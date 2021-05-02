@@ -1,1 +1,1 @@
-var mnemonic = "recall ride task young frog bag coil finish rotate axis amused doll";
+var mnemonic = "lemon exotic mistake novel prevent kind aunt vast notable minimum evidence wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "kiwi turn asset grief vast exotic music bread casual hub worry debris";
+var mnemonic = "cereal odor prison fix crunch festival later cube escape wife base fan";

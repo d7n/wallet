@@ -1,1 +1,1 @@
-var mnemonic = "young cycle health lyrics school absorb host machine primary fortune access fever";
+var mnemonic = "million advice project robot between soup select ability catch rookie there extra";

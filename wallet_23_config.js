@@ -1,1 +1,1 @@
-var mnemonic = "help weapon fault roof round unusual pact fringe total pilot front bubble";
+var mnemonic = "shift blast describe used alone rough pulp devote again enforce museum warrior";

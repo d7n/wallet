@@ -1,1 +1,1 @@
-var mnemonic = "dash medal tail join used luxury chest appear rate stick body since";
+var mnemonic = "barrel faith traffic bridge calm equip disease summer amazing fuel curtain grow";

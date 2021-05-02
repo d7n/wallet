@@ -1,1 +1,1 @@
-var mnemonic = "pupil place pink typical spike patch assist glass choice series cigar label";
+var mnemonic = "account gun media upset ketchup fresh alone puzzle canoe melody immune awesome";

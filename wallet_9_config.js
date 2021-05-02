@@ -1,1 +1,1 @@
-var mnemonic = "fork churn amateur poverty cheese lesson maid anchor glide slice order beach";
+var mnemonic = "enact uncle cradle junior tennis chalk twin topple soldier cross crawl develop";

@@ -1,1 +1,1 @@
-var mnemonic = "muffin thrive milk bean envelope quantum hero spray stadium also veteran paddle";
+var mnemonic = "certain improve cargo address engage define rally effort ugly jeans husband orange";

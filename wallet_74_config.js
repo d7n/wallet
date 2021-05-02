@@ -1,1 +1,1 @@
-var mnemonic = "spawn rubber six market neutral hub van copy peace opinion betray dash";
+var mnemonic = "nurse match injury season mandate faith call mutual eye tobacco open pretty";

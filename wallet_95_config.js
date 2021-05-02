@@ -1,1 +1,1 @@
-var mnemonic = "check inside ahead replace ensure unable cable venue orange gossip eager pen";
+var mnemonic = "material citizen sketch install myth grow expose mesh save bonus dinner you";

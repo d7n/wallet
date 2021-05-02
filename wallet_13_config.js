@@ -1,1 +1,1 @@
-var mnemonic = "about audit crumble cherry soap empower all fly october april letter reason";
+var mnemonic = "dry broccoli champion tube ticket fork staff convince carry near measure urban";

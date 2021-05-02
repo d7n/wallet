@@ -1,1 +1,1 @@
-var mnemonic = "crazy pilot work inmate replace quiz leopard ridge seat crisp express dish";
+var mnemonic = "grace abuse meadow calm item mechanic choose dance style border fit reduce";

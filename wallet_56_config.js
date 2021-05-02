@@ -1,1 +1,1 @@
-var mnemonic = "regret knife that simple intact slogan scrub oppose message grit net camp";
+var mnemonic = "gadget flavor umbrella hammer shoe canoe rich distance adult fossil joke parade";

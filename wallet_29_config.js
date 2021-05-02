@@ -1,1 +1,1 @@
-var mnemonic = "spawn immune present race glare outer hammer floor genre riot owner actor";
+var mnemonic = "army fame ceiling odor lock write silent primary slide imitate chaos welcome";

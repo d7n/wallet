@@ -1,1 +1,1 @@
-var mnemonic = "right fitness crawl deer eagle hard barely shaft lumber april story brown";
+var mnemonic = "divorce current feed dream attract praise latin urban cat announce private grunt";

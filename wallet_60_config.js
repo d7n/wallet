@@ -1,1 +1,1 @@
-var mnemonic = "million item trap input pull below hurdle absurd equal skin believe actress";
+var mnemonic = "candy edit verify country lizard kite negative undo tunnel define few art";

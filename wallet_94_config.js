@@ -1,1 +1,1 @@
-var mnemonic = "lawn romance casino lonely return control program advice slice good trash ignore";
+var mnemonic = "clutch tonight decorate bike mail river essay swallow nose bright depart quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "camera ecology ocean entry easily loud loan source true vessel chimney bulb";
+var mnemonic = "answer lyrics skill film author coin lend ribbon rich east law sudden";

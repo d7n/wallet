@@ -1,1 +1,1 @@
-var mnemonic = "tip yard rich remember royal silver switch stuff eight proof hip exhibit";
+var mnemonic = "era exhibit canvas high humor toilet spoon blast screen debate chair render";

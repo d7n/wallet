@@ -1,1 +1,1 @@
-var mnemonic = "barrel claw army eye guide tonight master episode omit endorse library maple";
+var mnemonic = "state knock robot inside nest obvious knee lab excess heart section gain";

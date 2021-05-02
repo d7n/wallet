@@ -1,1 +1,1 @@
-var mnemonic = "gossip hero team visit lava reason reject culture child orient blur sudden";
+var mnemonic = "aim dinner section sleep surface victory cattle chimney type venue rich mobile";

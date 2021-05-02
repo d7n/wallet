@@ -1,1 +1,1 @@
-var mnemonic = "raven ritual prison puppy raccoon future solid pull avocado loop burger three";
+var mnemonic = "crowd ball exist easy lumber sauce crew device glue neck tuna motion";

@@ -1,1 +1,1 @@
-var mnemonic = "earn fiscal actor crime soul differ increase custom fiber december orbit quote";
+var mnemonic = "laptop rent globe artist october maple fatigue recall marriage until nominee pool";

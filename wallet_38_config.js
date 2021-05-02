@@ -1,1 +1,1 @@
-var mnemonic = "celery furnace pear panic pulse change uniform interest digital service nominee ball";
+var mnemonic = "congress dream buyer narrow pupil wide submit sleep mobile strike coral title";

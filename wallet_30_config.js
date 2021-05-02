@@ -1,1 +1,1 @@
-var mnemonic = "sight dirt grant town space approve gossip knock segment lend cook olympic";
+var mnemonic = "sniff gorilla argue surface phone autumn vanish orbit bright innocent elite web";

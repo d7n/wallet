@@ -1,1 +1,1 @@
-var mnemonic = "inquiry average surround quantum glow action voyage scare festival margin labor medal";
+var mnemonic = "scrub village toe ghost clog voice together edit addict actress rug autumn";

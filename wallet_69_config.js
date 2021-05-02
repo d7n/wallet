@@ -1,1 +1,1 @@
-var mnemonic = "first find kiwi plate fish dolphin blanket art actress flat party must";
+var mnemonic = "one mercy debris bamboo force time fever coil vintage aunt sure jeans";

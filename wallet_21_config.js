@@ -1,1 +1,1 @@
-var mnemonic = "pave parent clock border interest strike armor mesh north metal blue web";
+var mnemonic = "injury label cousin unlock chimney inside color scissors evolve ridge click immense";

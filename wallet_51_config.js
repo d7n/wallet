@@ -1,1 +1,1 @@
-var mnemonic = "fuel warrior traffic vessel tag train torch ill learn history emerge cheap";
+var mnemonic = "garage dress pigeon side pepper rack rescue visa notice error shallow enable";

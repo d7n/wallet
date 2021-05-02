@@ -1,1 +1,1 @@
-var mnemonic = "rude canvas soap life critic train alert agree comic deer divert video";
+var mnemonic = "media poet alpha endless long cram sound shrug pig weasel result fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "knife carry leg more ketchup meat horse puppy false pact arctic addict";
+var mnemonic = "crane romance dish reunion reject able burger oblige prevent biology asset despair";

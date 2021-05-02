@@ -1,1 +1,1 @@
-var mnemonic = "have dove misery escape test space twenty honey flavor dismiss asthma injury";
+var mnemonic = "remind accident profit drop benefit cash pass earth gaze impact random together";

@@ -1,1 +1,1 @@
-var mnemonic = "assault rather canvas calm tooth certain oppose rubber total drop clap life";
+var mnemonic = "soft fly gift legend boil phone monster luxury coil boil beauty harbor";

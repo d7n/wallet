@@ -1,1 +1,1 @@
-var mnemonic = "episode cake weird earn mouse animal glow reunion olympic crazy license also";
+var mnemonic = "guard angry ecology desk come woman cave cost become exhaust alarm hawk";

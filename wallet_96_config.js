@@ -1,1 +1,1 @@
-var mnemonic = "kidney train clown benefit jelly discover wealth puzzle bacon force cradle keep";
+var mnemonic = "tribe unaware hungry cradle autumn heavy pride region know install captain swap";

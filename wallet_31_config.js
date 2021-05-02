@@ -1,1 +1,1 @@
-var mnemonic = "taxi hazard ranch luggage small project perfect write enhance valid excuse excess";
+var mnemonic = "thunder exit solution dune cute arrest early jaguar now sorry error problem";

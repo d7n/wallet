@@ -1,1 +1,1 @@
-var mnemonic = "balcony wait liquid ancient minimum cargo position appear pause among lemon gasp";
+var mnemonic = "episode keen acoustic essay inner board large use strong stuff copper private";

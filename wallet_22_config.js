@@ -1,1 +1,1 @@
-var mnemonic = "unveil canvas web leisure narrow awesome say pelican imitate resist much dust";
+var mnemonic = "bean electric mom swift scorpion cruel olympic wonder congress merit little proud";

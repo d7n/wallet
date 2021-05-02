@@ -1,1 +1,1 @@
-var mnemonic = "hobby donkey subject sustain tuition horror add explain vessel comfort uncle impulse";
+var mnemonic = "ability steak impulse ripple across reason absorb silk limb menu swift rally";

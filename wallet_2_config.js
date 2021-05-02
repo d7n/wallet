@@ -1,1 +1,1 @@
-var mnemonic = "move online unfair company whale diary blanket fitness garage enact extend pyramid";
+var mnemonic = "proud trust install demise cable shock record title donkey van execute rug";

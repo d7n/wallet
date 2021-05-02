@@ -1,1 +1,1 @@
-var mnemonic = "mushroom burst glow wet jar roast cute front wonder employ oblige prefer";
+var mnemonic = "science fix flee attract cup vital flight update express detail width crumble";

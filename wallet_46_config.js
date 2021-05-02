@@ -1,1 +1,1 @@
-var mnemonic = "wear move execute twenty dragon napkin cupboard ostrich moon dance power kit";
+var mnemonic = "inhale solid space scare elder much gauge public hobby unknown nest toward";

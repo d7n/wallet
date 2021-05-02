@@ -1,1 +1,1 @@
-var mnemonic = "ball shove acid cat taste genius truck identify disease beef pilot patch";
+var mnemonic = "sugar rocket example anger jealous later usage echo soldier result grit simple";

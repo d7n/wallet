@@ -1,1 +1,1 @@
-var mnemonic = "hope post page carbon alley cry cattle bench verb dune welcome human";
+var mnemonic = "faculty label rabbit element mammal time wine seminar force orient like staff";

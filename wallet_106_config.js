@@ -1,1 +1,1 @@
-var mnemonic = "stay city spell all water ramp stuff orient shove cousin spin crash";
+var mnemonic = "federal achieve salute rug saddle bonus gasp charge stone divorce point one";

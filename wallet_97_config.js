@@ -1,1 +1,1 @@
-var mnemonic = "lounge easily bitter initial window render trash focus pole head slot budget";
+var mnemonic = "author grunt latin hunt draft differ day mention other reflect volcano cloud";

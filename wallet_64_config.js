@@ -1,1 +1,1 @@
-var mnemonic = "sauce coach edit blush pink sphere eyebrow attack captain grocery absent giant";
+var mnemonic = "fog give episode vessel age tonight normal timber depend index emerge sadness";

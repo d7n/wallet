@@ -1,1 +1,1 @@
-var mnemonic = "accident nephew clump culture steak moment return rice purpose thumb predict drill";
+var mnemonic = "magic final core trigger crash squeeze erode camera capable random mean prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "blade stable typical alien parent wear pig bitter memory priority poet champion";
+var mnemonic = "gallery depth ensure armed market ordinary dumb erupt thrive cancel potato victory";

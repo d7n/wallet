@@ -1,1 +1,1 @@
-var mnemonic = "disease parent quiz soft pool spoil enable fog stuff utility coffee above";
+var mnemonic = "absent rain crash mirror myth palm sponsor impulse clinic uniform avocado machine";

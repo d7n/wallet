@@ -1,1 +1,1 @@
-var mnemonic = "left conduct call rail dog door sad segment harvest success club order";
+var mnemonic = "worth fame jazz remember female edge spare marine solve wash observe account";

@@ -1,1 +1,1 @@
-var mnemonic = "south coffee option budget tornado buyer climb answer grape illness library accident";
+var mnemonic = "situate sorry nose satoshi method rail green attitude wide pact horror goddess";

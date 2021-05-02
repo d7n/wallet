@@ -1,1 +1,1 @@
-var mnemonic = "sorry true fetch village inherit pelican decline alley fabric fish become pond";
+var mnemonic = "upper design happy medal ride fury camera veteran bronze area sample vicious";

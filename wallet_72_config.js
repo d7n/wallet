@@ -1,1 +1,1 @@
-var mnemonic = "grocery mix basic pumpkin spoil wrist forward simple acquire analyst monkey design";
+var mnemonic = "praise card diary tuition much this mad sun quality clerk plunge good";

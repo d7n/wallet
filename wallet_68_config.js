@@ -1,1 +1,1 @@
-var mnemonic = "trade avoid anxiety knock useless garage either rack brave moon reopen joy";
+var mnemonic = "shoot vast remind inhale maple extend spray pepper tell layer toast winner";

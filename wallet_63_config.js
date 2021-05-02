@@ -1,1 +1,1 @@
-var mnemonic = "off clump track measure drama sun oil enemy rabbit razor erase enable";
+var mnemonic = "hard arrive excite young pumpkin ribbon board oven bargain soap negative address";

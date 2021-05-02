@@ -1,1 +1,1 @@
-var mnemonic = "sure indoor usage inhale wagon twelve advance reduce flower giraffe awake tattoo";
+var mnemonic = "rug immense eye sock afraid crucial dry disorder exile avocado mechanic moment";

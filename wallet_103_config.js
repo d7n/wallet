@@ -1,1 +1,1 @@
-var mnemonic = "vapor hundred just west latin swear glare latin hole drill poem right";
+var mnemonic = "age small category tribe damage flip hunt mandate vocal point gun medal";

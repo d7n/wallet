@@ -1,1 +1,1 @@
-var mnemonic = "glide camp wing detail turkey gold more deny attend energy gym judge";
+var mnemonic = "impose wood motion multiply what taxi pilot awesome call already cool buddy";

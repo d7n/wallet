@@ -1,1 +1,1 @@
-var mnemonic = "electric ranch exercise rigid fan zone session message junior public throw wing";
+var mnemonic = "comfort swift sketch pet satisfy undo coyote innocent switch boost suspect subway";

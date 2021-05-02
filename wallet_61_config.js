@@ -1,1 +1,1 @@
-var mnemonic = "blush senior monitor cook service summer coffee friend predict exit soda orange";
+var mnemonic = "drum enhance scene exile below luxury net motor useless boss heart what";

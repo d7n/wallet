@@ -1,1 +1,1 @@
-var mnemonic = "kingdom earn front brisk wing simple way general draft giraffe child step";
+var mnemonic = "future ketchup bundle digital purse column main loop hobby unlock discover culture";

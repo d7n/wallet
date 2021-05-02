@@ -1,1 +1,1 @@
-var mnemonic = "ghost hint delay early avocado there approve bleak emotion quick silly eight";
+var mnemonic = "champion public salad easily where fever now input pulp gas swift lonely";

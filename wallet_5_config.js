@@ -1,1 +1,1 @@
-var mnemonic = "pencil pizza rose interest mesh kite neck wood item color amazing swift";
+var mnemonic = "author planet enemy sort cabbage friend treat cause rival inflict harsh salon";
