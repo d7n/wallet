@@ -1,1 +1,1 @@
-var mnemonic = "gentle sudden wool cheap hurt aim barely hub flash fix person jar";
+var mnemonic = "keep lens twist crane valve remove space push supreme course awful explain";

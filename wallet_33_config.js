@@ -1,1 +1,1 @@
-var mnemonic = "label pupil trade scale race someone trim brick ignore tower noodle real";
+var mnemonic = "diagram hurry sauce give exercise cradle jazz engine body inhale armed circle";

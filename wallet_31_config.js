@@ -1,1 +1,1 @@
-var mnemonic = "seat swarm hungry match only stuff material use glimpse grit word harbor";
+var mnemonic = "polar curve resist snow mule divorce ketchup merge illness engage amazing gap";

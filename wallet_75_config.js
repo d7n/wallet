@@ -1,1 +1,1 @@
-var mnemonic = "taxi focus pause bounce slender setup zebra open imitate warfare embark box";
+var mnemonic = "derive attack autumn dish spot grit regret virus shy increase taste virus";

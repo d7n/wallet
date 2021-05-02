@@ -1,1 +1,1 @@
-var mnemonic = "bacon inform swift fold pupil enemy chat stuff bread wheat lake van";
+var mnemonic = "copper during screen utility crush wonder tone marine brand example belt place";

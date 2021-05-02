@@ -1,1 +1,1 @@
-var mnemonic = "walnut bronze trap shiver loyal year build ladder truck position perfect scale";
+var mnemonic = "heavy claim post aisle flush laugh twenty depend idle boat suit attitude";

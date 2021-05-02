@@ -1,1 +1,1 @@
-var mnemonic = "junk prepare top top heart easy mask glare check twist sadness alley";
+var mnemonic = "grit stadium total train margin ancient disorder canvas scrub screen evil leaf";

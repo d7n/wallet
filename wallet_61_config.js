@@ -1,1 +1,1 @@
-var mnemonic = "exotic social wagon return fold wonder often myth help debris asthma ridge";
+var mnemonic = "crawl jealous ready enact horse bachelor extend miracle whisper betray outdoor identify";

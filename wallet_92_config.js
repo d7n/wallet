@@ -1,1 +1,1 @@
-var mnemonic = "crowd tissue chunk derive away special three outside upon wife autumn fossil";
+var mnemonic = "ridge obvious sand oval trade input bachelor paper crouch globe truth indoor";

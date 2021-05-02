@@ -1,1 +1,1 @@
-var mnemonic = "idea doctor february labor toddler language manage shallow illness world stick blind";
+var mnemonic = "fitness observe pumpkin produce stay biology one mixed effort tag eyebrow monster";

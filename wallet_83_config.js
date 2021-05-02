@@ -1,1 +1,1 @@
-var mnemonic = "surface apple erosion avocado august autumn feel false vapor boost kitchen employ";
+var mnemonic = "width relief minute scare enforce hazard record spatial lab parent depth clock";

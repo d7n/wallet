@@ -1,1 +1,1 @@
-var mnemonic = "panic settle neglect short wet path shop female february popular asset exit";
+var mnemonic = "suffer guard correct private ostrich wrist gather dose state track phone six";

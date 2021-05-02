@@ -1,1 +1,1 @@
-var mnemonic = "spy together food stem immense pair weapon gesture argue vapor alert odor";
+var mnemonic = "reflect much high shoot season erase eyebrow ski decrease end entry feature";

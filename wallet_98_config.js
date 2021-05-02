@@ -1,1 +1,1 @@
-var mnemonic = "payment coach lecture today midnight width fresh praise family attract grass episode";
+var mnemonic = "achieve until initial creek round senior certain salute soup piece tuna worth";

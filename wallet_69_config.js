@@ -1,1 +1,1 @@
-var mnemonic = "laugh toe afraid diesel lava suggest govern display flag violin apology proud";
+var mnemonic = "harbor boss cradle easily earth roof slide aim thrive scare scout angle";

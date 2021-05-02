@@ -1,1 +1,1 @@
-var mnemonic = "special promote kiwi taste raise payment height load seed label donate mosquito";
+var mnemonic = "pet piece sibling twelve culture recipe forget replace disagree spirit churn clown";

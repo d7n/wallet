@@ -1,1 +1,1 @@
-var mnemonic = "bar clever adult sibling sample addict hero remember fence air bind foil";
+var mnemonic = "present gym food rug square chimney home black foster top invite cousin";

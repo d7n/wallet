@@ -1,1 +1,1 @@
-var mnemonic = "wink sell language smile main verb brand hire country major rubber where";
+var mnemonic = "decline family crane proof neutral narrow stick danger wrestle fiction access swing";

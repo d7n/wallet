@@ -1,1 +1,1 @@
-var mnemonic = "budget hood blast clown buffalo pipe belt chunk syrup brass face uncle";
+var mnemonic = "below inmate cliff harsh sweet fresh rack close plunge found outdoor canoe";

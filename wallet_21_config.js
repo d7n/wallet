@@ -1,1 +1,1 @@
-var mnemonic = "zebra betray hidden grocery obscure crater mind practice dress gown master wave";
+var mnemonic = "present head scare witness below purse pull zoo daring rural fluid intact";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna thrive learn team kangaroo cake depart soda nuclear report siren select";
+var mnemonic = "reduce fatal person verify eagle fringe divide tip clerk creek physical error";

@@ -1,1 +1,1 @@
-var mnemonic = "farm scale finger veteran write under seed stairs state unfold never title";
+var mnemonic = "dutch uncover upgrade sail hungry claw side mass jeans income dumb hedgehog";

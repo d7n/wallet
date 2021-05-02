@@ -1,1 +1,1 @@
-var mnemonic = "brisk flight method phone thank reflect father clown large mercy cart flag";
+var mnemonic = "public nothing slight carry guide negative joke pioneer diamond south sample abuse";

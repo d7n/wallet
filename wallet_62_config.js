@@ -1,1 +1,1 @@
-var mnemonic = "enrich cruel toilet scissors two hole lesson science kiss wealth one reopen";
+var mnemonic = "wise own practice awesome shell help code decorate unable adult neutral skate";

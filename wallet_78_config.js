@@ -1,1 +1,1 @@
-var mnemonic = "image today online dial syrup chalk merge various index genuine tragic blush";
+var mnemonic = "day layer science misery apple tape common copy into wise grape anxiety";

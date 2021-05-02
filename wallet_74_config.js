@@ -1,1 +1,1 @@
-var mnemonic = "amount oyster firm select alarm wire brisk write cannon certain humor wrap";
+var mnemonic = "truck smooth menu jacket still cry tennis floor dumb raw round thunder";

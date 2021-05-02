@@ -1,1 +1,1 @@
-var mnemonic = "general minimum verify jealous fox live sadness aerobic toilet build actress deputy";
+var mnemonic = "neither enforce start actor ice future entire can bargain cradle rude tool";

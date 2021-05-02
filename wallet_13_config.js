@@ -1,1 +1,1 @@
-var mnemonic = "have surface rail omit clay help walk item tenant describe voyage flash";
+var mnemonic = "ability tobacco walnut sheriff pink rule limb double elevator swallow fun edge";

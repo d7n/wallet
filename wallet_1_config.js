@@ -1,1 +1,1 @@
-var mnemonic = "tilt runway zoo dismiss true season major choice push wall grit fame";
+var mnemonic = "dream knife door picture embark acoustic garlic fan develop crazy throw round";

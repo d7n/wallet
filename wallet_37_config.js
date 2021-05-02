@@ -1,1 +1,1 @@
-var mnemonic = "cereal amateur awful fall dilemma coach hello paddle target scout kind try";
+var mnemonic = "fire canal spell enemy enough mosquito mother direct rule skirt regular south";

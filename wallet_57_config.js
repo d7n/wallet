@@ -1,1 +1,1 @@
-var mnemonic = "chapter junk bind vicious era more inflict family mandate bright crime oven";
+var mnemonic = "wage little regular rate leopard slow morning eye chimney rebel betray cinnamon";

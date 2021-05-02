@@ -1,1 +1,1 @@
-var mnemonic = "horse large bitter push early army indoor three fold cannon shift chicken";
+var mnemonic = "example sunset human quote video auction slice guitar medal glove kite scheme";

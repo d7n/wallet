@@ -1,1 +1,1 @@
-var mnemonic = "remind delay cabbage cash soon grow very claw chair jungle wish puppy";
+var mnemonic = "junior tunnel prefer lawn address solution grief space album matrix ladder broom";

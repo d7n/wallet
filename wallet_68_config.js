@@ -1,1 +1,1 @@
-var mnemonic = "myth click remain display doctor cricket casual dry alien dial oval soda";
+var mnemonic = "corn symbol equip pledge news assault polar exist network spoil legal foot";

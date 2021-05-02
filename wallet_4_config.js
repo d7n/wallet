@@ -1,1 +1,1 @@
-var mnemonic = "jaguar fashion pulp chase parade lounge confirm entire increase always virtual step";
+var mnemonic = "alien promote earth caution ridge defy load polar seven prosper debate always";

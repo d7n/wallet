@@ -1,1 +1,1 @@
-var mnemonic = "peace rice board hunt roast dizzy endorse wrong search journey orphan exchange";
+var mnemonic = "destroy awake inspire occur bean hockey view tissue coffee box stairs fitness";

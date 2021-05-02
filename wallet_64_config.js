@@ -1,1 +1,1 @@
-var mnemonic = "pulse recycle pact length floor evoke latin act vendor attack oak wink";
+var mnemonic = "wet license drift library pause waste opinion rifle street more sunset later";

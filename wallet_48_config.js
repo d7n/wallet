@@ -1,1 +1,1 @@
-var mnemonic = "advice coil cat team sting arctic replace orphan shoot embody margin sing";
+var mnemonic = "blade flush royal culture resist consider ugly stuff thrive title foam parade";

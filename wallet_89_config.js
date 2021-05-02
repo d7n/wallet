@@ -1,1 +1,1 @@
-var mnemonic = "opera reveal model worry strike time domain quiz verify cycle brisk hospital";
+var mnemonic = "uniform honey reward lobster proud gown normal dragon despair burst fox enter";

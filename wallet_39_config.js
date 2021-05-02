@@ -1,1 +1,1 @@
-var mnemonic = "model kind burst employ weapon when link swim only urban wasp appear";
+var mnemonic = "average release honey marble term jealous canal pink inside smart lend deer";

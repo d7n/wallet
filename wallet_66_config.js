@@ -1,1 +1,1 @@
-var mnemonic = "arm vehicle two goose frost luggage when walnut south depart case exact";
+var mnemonic = "myself vehicle stairs curve acoustic that eight caught paper bottom rather scrub";

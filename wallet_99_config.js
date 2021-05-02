@@ -1,1 +1,1 @@
-var mnemonic = "empty motion airport sick segment until sheriff nasty cart express auction endorse";
+var mnemonic = "barrel draft leg behind trap access trade later jaguar treat milk purity";

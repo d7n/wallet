@@ -1,1 +1,1 @@
-var mnemonic = "bunker grass body talk prison joy soldier bring ozone omit kiwi catalog";
+var mnemonic = "curious strike answer include unfold own empower advance wolf apple slush diary";

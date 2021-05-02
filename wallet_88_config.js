@@ -1,1 +1,1 @@
-var mnemonic = "tent priority crane scrap black make method protect bright kid walnut vacuum";
+var mnemonic = "toe voyage spatial pause heavy decide proof peasant boat wheel dog actress";

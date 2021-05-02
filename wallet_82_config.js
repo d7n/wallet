@@ -1,1 +1,1 @@
-var mnemonic = "radio mansion must spoil dwarf spend aim defense learn leisure raccoon caught";
+var mnemonic = "hybrid slogan achieve child body champion risk broom joy palm shock love";

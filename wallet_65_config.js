@@ -1,1 +1,1 @@
-var mnemonic = "shiver crane smile purpose expire home display hybrid tribe state witness orient";
+var mnemonic = "budget release celery desert enemy idea retire fox balance plunge busy first";

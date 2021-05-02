@@ -1,1 +1,1 @@
-var mnemonic = "enact settle snake purse amateur perfect rocket health donate price sustain fame";
+var mnemonic = "juice holiday fade author bamboo wood ball tape fiction day split speed";

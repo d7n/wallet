@@ -1,1 +1,1 @@
-var mnemonic = "salmon report grief blossom brain dirt round click find bronze acquire unit";
+var mnemonic = "hybrid transfer giggle scatter goose inside venture sing ignore shuffle stove cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "chair company noble unhappy miss metal lend fuel very beef fantasy stomach";
+var mnemonic = "cup keep predict flip modify basic change end panic cause know deliver";

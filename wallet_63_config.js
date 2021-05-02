@@ -1,1 +1,1 @@
-var mnemonic = "roast join marble pride cotton nut liar run radio fancy space you";
+var mnemonic = "physical pole input replace cart poet arch zone twelve draw rally myth";

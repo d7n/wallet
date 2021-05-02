@@ -1,1 +1,1 @@
-var mnemonic = "entry car media juice release select fresh link excite own again sister";
+var mnemonic = "core theme hub truly romance maid retreat you plunge boss ghost enemy";

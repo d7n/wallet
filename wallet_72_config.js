@@ -1,1 +1,1 @@
-var mnemonic = "wool write invite three security mobile hood demise sight cancel click health";
+var mnemonic = "you general lounge quarter write wood amazing model improve act turtle merit";

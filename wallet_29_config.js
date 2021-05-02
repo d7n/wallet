@@ -1,1 +1,1 @@
-var mnemonic = "wheel planet render life home notice rapid vacant short daring auto nerve";
+var mnemonic = "category carpet pledge measure flight civil crunch garage defy mom mean index";

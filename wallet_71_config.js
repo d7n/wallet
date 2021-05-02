@@ -1,1 +1,1 @@
-var mnemonic = "save window frequent middle expire barely run innocent entry neither appear casual";
+var mnemonic = "palace nominee sausage clever adult same jelly park pledge milk swift elegant";

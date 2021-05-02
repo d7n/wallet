@@ -1,1 +1,1 @@
-var mnemonic = "state whip bundle shuffle cattle siege dice usage bitter member carpet delay";
+var mnemonic = "odor robot crew remind oblige ostrich nothing antique fitness elite foam depend";

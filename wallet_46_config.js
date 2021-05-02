@@ -1,1 +1,1 @@
-var mnemonic = "cart economy monkey relief pole ranch spread throw october pistol wife flash";
+var mnemonic = "heart smoke damp isolate voice method smooth physical perfect enemy tube talent";

@@ -1,1 +1,1 @@
-var mnemonic = "reason circle invite accuse spring absent execute plunge leader winner grape fan";
+var mnemonic = "estate ordinary have similar refuse dry term guilt absorb rug else nurse";

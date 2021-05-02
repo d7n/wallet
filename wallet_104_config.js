@@ -1,1 +1,1 @@
-var mnemonic = "avocado mask flee initial length fame solution turkey panther raccoon cliff drop";
+var mnemonic = "awake spend much inmate art surround rocket potato stem spin seed law";

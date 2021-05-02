@@ -1,1 +1,1 @@
-var mnemonic = "blanket reflect slogan captain never very fit glow give return labor yard";
+var mnemonic = "waste champion breeze solve rhythm direct cost shove hen dune stand antique";

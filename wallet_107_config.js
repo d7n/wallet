@@ -1,1 +1,1 @@
-var mnemonic = "foil garbage acquire mistake please sausage merge ordinary wedding oblige arm walk";
+var mnemonic = "improve hero pause umbrella tobacco educate elder ankle bitter more broom universe";

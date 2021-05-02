@@ -1,1 +1,1 @@
-var mnemonic = "color eternal carpet genuine hybrid source icon key rate ability spatial nephew";
+var mnemonic = "select pizza isolate sea million brave arctic address mercy theory speak pulp";

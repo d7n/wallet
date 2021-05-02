@@ -1,1 +1,1 @@
-var mnemonic = "south salute eager coil journey cart teach alert series marine intact hour";
+var mnemonic = "badge pipe answer spend tag scatter punch ethics once valid palm gym";

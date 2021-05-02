@@ -1,1 +1,1 @@
-var mnemonic = "rich report angle detect print super key finger fire clay woman lift";
+var mnemonic = "own mechanic length dilemma regret omit rather oven grunt onion blur mirror";

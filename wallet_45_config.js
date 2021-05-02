@@ -1,1 +1,1 @@
-var mnemonic = "obvious science dragon unfold oil foam napkin dilemma anger raccoon child pepper";
+var mnemonic = "mandate double eternal fabric salute cradle hammer virus eight impose tell siren";

@@ -1,1 +1,1 @@
-var mnemonic = "false either travel mother inside invest ozone cruel learn hurry boat accident";
+var mnemonic = "rebuild magnet junk resist saddle swim document various sail sort banner yellow";

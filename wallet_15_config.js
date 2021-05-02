@@ -1,1 +1,1 @@
-var mnemonic = "audit brother double rare ripple below pupil whip hedgehog purchase draw pitch";
+var mnemonic = "chief income clarify hundred advice scissors hip trial million long wagon typical";

@@ -1,1 +1,1 @@
-var mnemonic = "enter sport silly olympic repeat mobile romance punch gadget pass right jeans";
+var mnemonic = "drastic reduce solution wood burden arch assault dash fiction firm melt bleak";

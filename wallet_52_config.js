@@ -1,1 +1,1 @@
-var mnemonic = "morning match still gold foil task fresh wisdom pond edge dose laugh";
+var mnemonic = "charge donate gadget margin square sunset survey leave hair more broken quote";

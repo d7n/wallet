@@ -1,1 +1,1 @@
-var mnemonic = "omit bamboo casual father spray hollow symbol gentle uncle coin soon wish";
+var mnemonic = "office surge brother other ticket glove crush damage liberty fade check random";

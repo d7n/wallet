@@ -1,1 +1,1 @@
-var mnemonic = "spare bottom foil bus chef screen ketchup refuse during since portion unfair";
+var mnemonic = "work situate antenna short pottery earn cry quarter impact ankle hat action";

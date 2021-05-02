@@ -1,1 +1,1 @@
-var mnemonic = "refuse exercise sample will kitchen surprise stock opinion power glory exit nurse";
+var mnemonic = "polar very engine buyer globe title coast master knock airport impose loud";

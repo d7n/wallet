@@ -1,1 +1,1 @@
-var mnemonic = "dress shock siege oblige tattoo credit ahead roof enrich series crouch siren";
+var mnemonic = "drum evidence wrap tilt convince relief raise final slam collect immune sadness";

@@ -1,1 +1,1 @@
-var mnemonic = "input biology couple theme hen index mail confirm brown winner correct tumble";
+var mnemonic = "iron agent strong auction enforce month scan couch hole mosquito brave above";

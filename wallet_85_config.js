@@ -1,1 +1,1 @@
-var mnemonic = "scatter stool case chief merry grace jazz lounge history leave work uphold";
+var mnemonic = "cruel fever detect language master oven mountain super seven coast answer vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon maximum simple village law laugh humor rate casual neglect dentist turn";
+var mnemonic = "debris zone describe sunset hour result fetch wrong mountain require actual dust";

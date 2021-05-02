@@ -1,1 +1,1 @@
-var mnemonic = "bring accuse turkey spawn large awkward track struggle unlock device cabbage crush";
+var mnemonic = "fence rabbit public staff farm body blouse cave entire van twenty toe";

@@ -1,1 +1,1 @@
-var mnemonic = "census cruise scan mail palace drastic spider interest there fold air couch";
+var mnemonic = "home gap joke comfort tank skill thumb practice solution adjust flight juice";

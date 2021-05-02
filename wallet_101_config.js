@@ -1,1 +1,1 @@
-var mnemonic = "state mouse visa morning million type clinic prison payment rare fish arrow";
+var mnemonic = "accident skin raw sphere that index tiny odor ozone meadow select stem";

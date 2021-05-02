@@ -1,1 +1,1 @@
-var mnemonic = "castle payment card weird fly chair earn news speak light wine fun";
+var mnemonic = "nature outdoor syrup cube practice cage section cheese danger broken bamboo involve";

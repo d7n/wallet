@@ -1,1 +1,1 @@
-var mnemonic = "decide mechanic spawn curve record father cancel example flee bubble equip describe";
+var mnemonic = "drill during slot also glory else misery submit coach make motion report";

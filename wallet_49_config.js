@@ -1,1 +1,1 @@
-var mnemonic = "ranch nuclear grief keen february width combine green option stomach almost rabbit";
+var mnemonic = "marble color essence blue foster defense blue festival risk gravity pattern merry";

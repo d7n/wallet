@@ -1,1 +1,1 @@
-var mnemonic = "swap atom bridge copper dog resist apart tiger maple stairs relax giant";
+var mnemonic = "catch alone rescue tunnel casino soon illegal pear jaguar sock arm roast";

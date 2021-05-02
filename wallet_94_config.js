@@ -1,1 +1,1 @@
-var mnemonic = "rough strategy antenna bean toe modify cliff idle visual absent space march";
+var mnemonic = "atom unhappy memory exotic current way adult frequent faculty number upgrade upper";

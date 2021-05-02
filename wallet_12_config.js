@@ -1,1 +1,1 @@
-var mnemonic = "announce return luggage panther atom broom come math lion rain gym cabin";
+var mnemonic = "update salute blanket special income club question pitch gown salmon unique early";

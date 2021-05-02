@@ -1,1 +1,1 @@
-var mnemonic = "click weasel carbon object oblige mango silver quote tank virus equal illness";
+var mnemonic = "tip suspect online rack gauge carry axis exact heavy dad farm dice";

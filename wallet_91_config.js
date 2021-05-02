@@ -1,1 +1,1 @@
-var mnemonic = "prosper recycle essay skull hundred public appear reunion ahead differ pride inject";
+var mnemonic = "identify brief animal order supreme fan upon quote either clip roast demand";

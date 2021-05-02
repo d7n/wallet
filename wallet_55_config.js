@@ -1,1 +1,1 @@
-var mnemonic = "insane six equal logic turtle zero copper viable firm skull gate above";
+var mnemonic = "canvas arrow phrase curve ahead purpose sort muffin gather chronic depend window";

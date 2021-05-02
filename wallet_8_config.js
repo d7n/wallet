@@ -1,1 +1,1 @@
-var mnemonic = "make differ then air clerk gown deliver moon movie live grab mass";
+var mnemonic = "addict clean toilet potato patch pretty mimic sign asset outer slim combine";

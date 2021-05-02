@@ -1,1 +1,1 @@
-var mnemonic = "rather visual spider mule wine mandate slot human found various over crush";
+var mnemonic = "unknown silk social erosion carry clarify road weird parade become limb powder";

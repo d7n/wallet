@@ -1,1 +1,1 @@
-var mnemonic = "half song foot client young knock bind level board stem media size";
+var mnemonic = "own kitchen arctic excuse input oak thought cushion write mobile scorpion endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "leave oak benefit empty fetch catch later casual solution clown act fat";
+var mnemonic = "floor antique unable people stereo income range raw deposit sauce buffalo life";

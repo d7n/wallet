@@ -1,1 +1,1 @@
-var mnemonic = "proof rib page honey lucky tool true venue armed ensure drive cloud";
+var mnemonic = "custom process jelly hammer zebra off satisfy gentle melody civil timber summer";

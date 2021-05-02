@@ -1,1 +1,1 @@
-var mnemonic = "about exhaust marriage bacon scheme material unique result apology lake cheese nerve";
+var mnemonic = "modify nuclear rude trend lawn edge hedgehog omit turtle audit sense dragon";

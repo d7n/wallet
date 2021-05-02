@@ -1,1 +1,1 @@
-var mnemonic = "scene auction donkey beyond donate hour patient weather baby dutch pen riot";
+var mnemonic = "then cancel right escape trade monster gossip hunt dune praise divert purity";

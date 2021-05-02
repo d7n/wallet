@@ -1,1 +1,1 @@
-var mnemonic = "sample loop story immense forum fee plunge release opinion dune mean shell";
+var mnemonic = "boat column judge mix category ostrich verify hazard identify diagram recycle atom";
