@@ -1,1 +1,1 @@
-var mnemonic = "this word will fix veteran chaos thing lawn oxygen parent suffer strike";
+var mnemonic = "gesture margin warfare grass nominee cattle angry rescue coral physical try elder";

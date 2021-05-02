@@ -1,1 +1,1 @@
-var mnemonic = "sausage plug organ slush chair venue topple tower time eyebrow leg peanut";
+var mnemonic = "mouse bag lounge that visual sword collect timber lesson wire segment energy";

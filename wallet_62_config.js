@@ -1,1 +1,1 @@
-var mnemonic = "renew day degree virtual slender soft tool donkey verify rubber exit visit";
+var mnemonic = "outdoor order hard bacon tool trend direct bargain rib language wreck mixture";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza mimic budget picture curious journey submit under bread divorce burger naive";
+var mnemonic = "love decline lamp dance just tide loan lend flee portion confirm soldier";

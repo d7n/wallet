@@ -1,1 +1,1 @@
-var mnemonic = "manage print input credit swing lab relax dismiss sing fade catalog pistol";
+var mnemonic = "agree title put relief couch resemble give relax rent vendor road shift";

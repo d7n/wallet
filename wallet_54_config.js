@@ -1,1 +1,1 @@
-var mnemonic = "become script ignore come leopard next random hen swear slot idea frame";
+var mnemonic = "mail sound enjoy catch cave essence galaxy enroll dune december settle cart";

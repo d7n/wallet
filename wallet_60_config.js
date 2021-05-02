@@ -1,1 +1,1 @@
-var mnemonic = "dust dose expand brush oven farm six guitar success tornado dry throw";
+var mnemonic = "dizzy eye cannon pattern frequent autumn avocado fun course team diamond tide";

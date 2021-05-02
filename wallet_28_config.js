@@ -1,1 +1,1 @@
-var mnemonic = "tilt level science resource market quarter desert hire all museum tunnel early";
+var mnemonic = "animal dinosaur cat scrap mystery catch ball soon motor poverty blanket maximum";

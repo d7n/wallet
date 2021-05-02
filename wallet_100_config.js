@@ -1,1 +1,1 @@
-var mnemonic = "town unfair orient must chase surprise exchange kingdom segment embody pipe save";
+var mnemonic = "cherry duck stairs demand inflict found west onion tumble sentence develop road";

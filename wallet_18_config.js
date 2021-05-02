@@ -1,1 +1,1 @@
-var mnemonic = "glove kick mountain angry like derive cream quality town try material dynamic";
+var mnemonic = "village balance sadness hobby boss wonder ridge market ahead maximum link phrase";

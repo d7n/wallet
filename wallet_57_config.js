@@ -1,1 +1,1 @@
-var mnemonic = "payment much inform glove palm item open fancy ball crazy vanish economy";
+var mnemonic = "social rug glow fiber leg grow other fatal permit tonight glimpse burst";

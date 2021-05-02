@@ -1,1 +1,1 @@
-var mnemonic = "bracket paddle poet erupt riot mixed sauce where orphan shuffle retire hybrid";
+var mnemonic = "speed skull subway mother margin taste educate rebuild canal olive inch salad";

@@ -1,1 +1,1 @@
-var mnemonic = "shoulder unfair left amazing curtain artist regret candy bacon loop rescue cradle";
+var mnemonic = "auto soldier hidden brief kit this firm delay crumble office talent elegant";

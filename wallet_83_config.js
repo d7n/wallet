@@ -1,1 +1,1 @@
-var mnemonic = "use seek egg cupboard chicken install squirrel keep shine spirit asthma upon";
+var mnemonic = "budget season vast eye summer dose battle bring angle wing miracle solve";

@@ -1,1 +1,1 @@
-var mnemonic = "since enter syrup couch feed kingdom scan bid confirm struggle panic furnace";
+var mnemonic = "chase add card cover feature column wrist space polar course alter coil";

@@ -1,1 +1,1 @@
-var mnemonic = "helmet audit jealous cherry rare record helmet purity turkey neutral document cigar";
+var mnemonic = "slot strategy cricket hedgehog sign trash neutral tilt medal pioneer report dignity";

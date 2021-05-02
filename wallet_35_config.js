@@ -1,1 +1,1 @@
-var mnemonic = "siege casino reward horse raise ivory exercise blame snow swamp cereal pepper";
+var mnemonic = "bracket thrive amateur glow cluster tide thumb glow meat sad zoo stomach";

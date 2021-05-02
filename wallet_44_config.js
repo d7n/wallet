@@ -1,1 +1,1 @@
-var mnemonic = "hard tobacco sell wrong sand ski burst parade pumpkin october raise start";
+var mnemonic = "tornado legend green item leader exist borrow ramp inhale bachelor thing blossom";

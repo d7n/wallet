@@ -1,1 +1,1 @@
-var mnemonic = "describe piano business trophy bracket point tree true royal dignity gauge skill";
+var mnemonic = "subject edge cube small calm kidney high hurdle knee lesson peace napkin";

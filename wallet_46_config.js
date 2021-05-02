@@ -1,1 +1,1 @@
-var mnemonic = "road tower dignity produce limb cash orange hotel unit reject trick chest";
+var mnemonic = "say circle that view narrow view abstract dose miss myth apology goat";

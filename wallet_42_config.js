@@ -1,1 +1,1 @@
-var mnemonic = "diesel couch dentist bubble hood flee dash nice uphold umbrella syrup hip";
+var mnemonic = "outside hospital heart render essence predict put avoid poem aim actress corn";

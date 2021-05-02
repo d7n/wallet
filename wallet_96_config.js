@@ -1,1 +1,1 @@
-var mnemonic = "burst violin animal able mother canoe actual either clock board dawn impulse";
+var mnemonic = "cup inch industry must lazy erode barrel swift hotel enact split cigar";

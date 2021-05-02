@@ -1,1 +1,1 @@
-var mnemonic = "cruise middle library dial nasty loop guilt razor sight stove admit describe";
+var mnemonic = "kitten leg secret marine picture stairs garbage cable arrive mad purse grunt";

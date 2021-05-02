@@ -1,1 +1,1 @@
-var mnemonic = "into metal cannon lion laundry produce crucial fancy pioneer tenant popular tomorrow";
+var mnemonic = "doll cycle breeze exclude save have roof super swear apology program hamster";

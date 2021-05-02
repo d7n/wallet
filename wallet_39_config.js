@@ -1,1 +1,1 @@
-var mnemonic = "duck enemy puzzle rude cram hybrid simple punch truck exit cement exhibit";
+var mnemonic = "keep dad dinosaur private orchard join clump crisp tenant stock digital grief";

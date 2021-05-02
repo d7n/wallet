@@ -1,1 +1,1 @@
-var mnemonic = "logic hint spike beauty rose online endless mystery coach model tragic again";
+var mnemonic = "year guitar only tornado detect gaze solid blush exact cheese salad acquire";

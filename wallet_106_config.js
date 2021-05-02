@@ -1,1 +1,1 @@
-var mnemonic = "panda powder absurd print social gate mean flavor audit glide puzzle cliff";
+var mnemonic = "into fiction salute bamboo sing lizard fortune spin razor indicate nature couch";

@@ -1,1 +1,1 @@
-var mnemonic = "rival laptop cash warrior ribbon similar blind grass attract merge shadow puppy";
+var mnemonic = "try lift pluck recipe multiply lab mystery barely drift curious gravity twist";

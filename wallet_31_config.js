@@ -1,1 +1,1 @@
-var mnemonic = "enter under gather general same crowd tourist verify science double shed follow";
+var mnemonic = "decorate nest tornado ability permit junior reward plastic legal flag level despair";

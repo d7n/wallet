@@ -1,1 +1,1 @@
-var mnemonic = "puzzle tenant prize ill that play pilot wrong artwork reflect health number";
+var mnemonic = "repeat crack drop invite inflict group boy thrive valve miracle various trial";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor office chase supreme multiply predict loan duty vehicle fossil moment require";
+var mnemonic = "rhythm wise paper merit fork seven clever wise pencil man engage talk";

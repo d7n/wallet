@@ -1,1 +1,1 @@
-var mnemonic = "outside jacket salt web peanut diary because illness gadget tornado chair antenna";
+var mnemonic = "furnace stand comic strategy surface act quote impulse guide pool grab liquid";

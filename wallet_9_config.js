@@ -1,1 +1,1 @@
-var mnemonic = "must february answer gun anxiety inspire drip limit wood inmate violin educate";
+var mnemonic = "identify dwarf long organ damp clarify fence feel decide scheme series myth";

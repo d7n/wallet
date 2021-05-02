@@ -1,1 +1,1 @@
-var mnemonic = "fluid movie lucky pool siren diesel camera ski reject soft garage tomato";
+var mnemonic = "age castle stuff simple evoke curious moment picnic pride shoot usage quote";

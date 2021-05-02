@@ -1,1 +1,1 @@
-var mnemonic = "submit boy run coral mammal scheme sleep skull hundred syrup harbor slow";
+var mnemonic = "brick trim avocado spare quantum wool senior breeze enough toast rain excite";

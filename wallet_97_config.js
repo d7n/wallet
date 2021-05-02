@@ -1,1 +1,1 @@
-var mnemonic = "robust chicken smile outer cricket peace during spend powder trim machine fashion";
+var mnemonic = "dinner agree collect practice earth siege health luggage town urban close apple";

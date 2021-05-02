@@ -1,1 +1,1 @@
-var mnemonic = "insane crisp differ address universe allow tobacco flame ostrich observe run defy";
+var mnemonic = "question leave aisle people soap nose traffic describe card damp author language";

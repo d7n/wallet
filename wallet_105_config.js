@@ -1,1 +1,1 @@
-var mnemonic = "expect filter wide spring light layer day intact target dry bright merit";
+var mnemonic = "hat feed intact tackle vicious decrease honey air dolphin chalk document chair";

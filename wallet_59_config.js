@@ -1,1 +1,1 @@
-var mnemonic = "often rail off talk taxi nurse shine avocado silver fork inner maid";
+var mnemonic = "wage refuse title loan receive alone shield process kite claim game abstract";

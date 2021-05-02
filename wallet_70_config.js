@@ -1,1 +1,1 @@
-var mnemonic = "drama athlete three swift breeze output balcony cave dinosaur lyrics hospital tent";
+var mnemonic = "knee shadow tornado popular vocal fun wet embody faculty suggest team cost";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix pizza ring debris process anchor march sausage have summer section erase";
+var mnemonic = "grief mom small diary crush ten woman time private will visit foil";

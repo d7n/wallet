@@ -1,1 +1,1 @@
-var mnemonic = "banana collect emotion glide still toy pill update sleep hint trumpet move";
+var mnemonic = "bread produce they guess warfare object ocean attract about town view mobile";

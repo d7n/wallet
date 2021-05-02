@@ -1,1 +1,1 @@
-var mnemonic = "notable leopard silent strike few economy grid brown position spirit mechanic true";
+var mnemonic = "trouble swallow solve then trip moment metal battle gauge wear give buffalo";

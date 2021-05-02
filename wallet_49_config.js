@@ -1,1 +1,1 @@
-var mnemonic = "casual provide egg among mechanic inherit shy elegant wing tourist subject accident";
+var mnemonic = "unlock pupil chef make quality miss myself over prepare gaze walnut hub";

@@ -1,1 +1,1 @@
-var mnemonic = "develop wonder dose region heavy produce pole receive soccer hold company velvet";
+var mnemonic = "spatial live armed net outside daughter angry deliver pattern hurt cup bright";

@@ -1,1 +1,1 @@
-var mnemonic = "chuckle diet middle reject innocent boss around pudding muffin easy ski voyage";
+var mnemonic = "vault swear agree speed street behave approve decline myth super coin evil";

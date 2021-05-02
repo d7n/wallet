@@ -1,1 +1,1 @@
-var mnemonic = "pause walk electric crazy artefact only obscure theory top april scare urban";
+var mnemonic = "bar guide win busy legal romance cargo skull affair plunge hint employ";

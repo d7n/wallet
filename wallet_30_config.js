@@ -1,1 +1,1 @@
-var mnemonic = "laugh tenant sketch toward chef high jungle erosion coyote age clever enact";
+var mnemonic = "void jealous burst apology narrow judge describe math beauty control social short";

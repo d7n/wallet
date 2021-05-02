@@ -1,1 +1,1 @@
-var mnemonic = "fade pulse crime gorilla margin boat beef later divert extend empower shop";
+var mnemonic = "allow beach country know another knife blush share debris hotel marine oak";

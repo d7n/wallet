@@ -1,1 +1,1 @@
-var mnemonic = "half jeans thunder cream narrow crouch drill wrist young belt nature endless";
+var mnemonic = "avocado way boy whale cricket can thought drama dinner rug divide party";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion symptom trial galaxy disagree kingdom search steak blur rack ready enroll";
+var mnemonic = "panther oblige behave shift wealth hand recall canoe ladder put book midnight";

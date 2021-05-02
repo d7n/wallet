@@ -1,1 +1,1 @@
-var mnemonic = "obey powder post stereo borrow tattoo chef alcohol rally wing salt lady";
+var mnemonic = "step pigeon unfold ask quality own daring report pupil unable timber balcony";

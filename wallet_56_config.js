@@ -1,1 +1,1 @@
-var mnemonic = "protect upper rural execute duty noble satisfy despair day coil frame thunder";
+var mnemonic = "valid whip vivid blame exotic oven leopard remove mean depend pony twin";

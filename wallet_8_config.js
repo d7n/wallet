@@ -1,1 +1,1 @@
-var mnemonic = "orange poem document salad evoke broom roast chaos where eight aisle token";
+var mnemonic = "universe bunker polar never bicycle model valley romance face cup off pause";

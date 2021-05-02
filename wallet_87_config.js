@@ -1,1 +1,1 @@
-var mnemonic = "stock icon bid element pyramid powder brush scare roof build elephant employ";
+var mnemonic = "scatter smoke girl gorilla nose suit force note despair card carpet unveil";

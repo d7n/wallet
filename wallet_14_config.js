@@ -1,1 +1,1 @@
-var mnemonic = "voyage since indoor rack robust ceiling town steak angle swallow replace vapor";
+var mnemonic = "main card same stem hub orbit shift avocado tattoo east caught lumber";

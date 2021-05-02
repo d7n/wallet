@@ -1,1 +1,1 @@
-var mnemonic = "video squirrel staff foot poem gas twelve arm palm neutral initial sponsor";
+var mnemonic = "seat siren dentist item round repeat wheat fatal tattoo retreat gap skull";

@@ -1,1 +1,1 @@
-var mnemonic = "trip fault ahead palm choice kid hedgehog quarter daughter fatigue merit vault";
+var mnemonic = "walk together plastic double ramp strike ordinary arrest soda dirt tissue stick";

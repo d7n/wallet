@@ -1,1 +1,1 @@
-var mnemonic = "oil dynamic idle fat smoke drip strong grid project bargain help distance";
+var mnemonic = "curious moon bounce bid dilemma shiver maid mouse able cargo exercise deputy";

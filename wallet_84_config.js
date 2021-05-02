@@ -1,1 +1,1 @@
-var mnemonic = "next honey caution bitter lottery uncle hospital tuna coconut orchard sting lucky";
+var mnemonic = "enter wave lyrics soul firm boat blast execute actor obtain afford observe";

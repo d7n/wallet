@@ -1,1 +1,1 @@
-var mnemonic = "dad long trip today blue label truth moral high term donate left";
+var mnemonic = "people help worry frame friend garbage own crowd display simple measure funny";

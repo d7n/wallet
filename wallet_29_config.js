@@ -1,1 +1,1 @@
-var mnemonic = "kiwi render skate used spin carry carbon nice transfer brave moon poverty";
+var mnemonic = "firm unusual find bleak limit jewel pond rare comfort guard swear portion";

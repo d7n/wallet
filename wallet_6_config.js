@@ -1,1 +1,1 @@
-var mnemonic = "tray dial useless dumb bicycle borrow prevent advice ring adult can head";
+var mnemonic = "dizzy response endless reveal cave book valley provide lounge steel alien require";

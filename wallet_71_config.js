@@ -1,1 +1,1 @@
-var mnemonic = "actress organ gasp rookie erosion play forum lion topic hen call bronze";
+var mnemonic = "scene chase pattern portion shrimp embody fog almost drift gorilla pause notable";

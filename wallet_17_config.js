@@ -1,1 +1,1 @@
-var mnemonic = "crunch upset donate armed end immense search cannon mixture magic earth exchange";
+var mnemonic = "limb useful diamond knee able laugh blind lemon aunt unknown few reduce";

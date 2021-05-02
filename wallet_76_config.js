@@ -1,1 +1,1 @@
-var mnemonic = "bundle joke food glove slab much slot giraffe double scheme now box";
+var mnemonic = "sun boy success jaguar cabbage prepare when shoe bar print pepper open";

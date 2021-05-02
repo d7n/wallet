@@ -1,1 +1,1 @@
-var mnemonic = "dad remember when desk final great capable attack popular effort badge mosquito";
+var mnemonic = "resist elephant receive wife over miracle typical trial mirror prefer dish lady";

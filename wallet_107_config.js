@@ -1,1 +1,1 @@
-var mnemonic = "spell tiger another cotton bomb artefact enjoy tobacco woman slush prevent method";
+var mnemonic = "trend duty tissue segment fragile deal across version popular choice soul domain";

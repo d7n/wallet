@@ -1,1 +1,1 @@
-var mnemonic = "course cave raw mammal sudden end soap screen timber casino despair sweet";
+var mnemonic = "riot mosquito voice canyon news ancient primary crumble install fuel march stumble";

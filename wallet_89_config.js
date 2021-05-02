@@ -1,1 +1,1 @@
-var mnemonic = "cost cereal twin state moment top civil knee various fetch gown sentence";
+var mnemonic = "field suffer still endorse domain fade protect quantum voyage timber real action";

@@ -1,1 +1,1 @@
-var mnemonic = "fire angle slice alone dutch impact river cradle oak hello feature silent";
+var mnemonic = "hard sunset funny warfare aware tired work fan govern plunge link mountain";

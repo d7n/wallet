@@ -1,1 +1,1 @@
-var mnemonic = "tape beyond settle teach borrow approve twin approve cruel remember train embody";
+var mnemonic = "pause object burden recall process ozone initial input visual stumble execute hybrid";

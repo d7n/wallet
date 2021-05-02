@@ -1,1 +1,1 @@
-var mnemonic = "trim flight sure account brain unknown balcony hour hair spell tent hidden";
+var mnemonic = "system blast mention slender cherry fold brass body digital improve noise awkward";

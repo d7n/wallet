@@ -1,1 +1,1 @@
-var mnemonic = "pistol come quit claw error apology distance achieve pioneer prison flavor inside";
+var mnemonic = "yellow kid seven avocado grant honey lottery sound time power ocean eagle";

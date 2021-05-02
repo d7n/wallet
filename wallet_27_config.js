@@ -1,1 +1,1 @@
-var mnemonic = "pulp explain major decade diary area vendor shift bubble vanish calm cargo";
+var mnemonic = "toss transfer sibling brush muscle wait stairs wrong return switch vault tilt";

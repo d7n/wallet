@@ -1,1 +1,1 @@
-var mnemonic = "march stable drop better slim zero amount play album toe decorate invite";
+var mnemonic = "fatal toss various estate govern mention rather spatial ugly buzz joke clump";

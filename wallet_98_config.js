@@ -1,1 +1,1 @@
-var mnemonic = "cheese topic globe situate age horse glad side endless symptom fringe disagree";
+var mnemonic = "mystery finger mass prepare boat village wall unhappy merit order image faint";

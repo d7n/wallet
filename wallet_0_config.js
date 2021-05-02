@@ -1,1 +1,1 @@
-var mnemonic = "degree crater lucky habit school carbon derive orbit finish concert upset stable";
+var mnemonic = "below rose possible shed urban primary flip enroll essay pony current arm";

@@ -1,1 +1,1 @@
-var mnemonic = "exact lecture kid slot empower canoe toe episode urge gadget alley ring";
+var mnemonic = "diary harbor vibrant cannon settle fun reward cradle liquid reject enlist broccoli";

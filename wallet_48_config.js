@@ -1,1 +1,1 @@
-var mnemonic = "diary hockey bonus nothing warm spring rent huge ski unit clever clown";
+var mnemonic = "orchard afford domain flame dream ankle define dutch glory ill bundle world";

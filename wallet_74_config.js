@@ -1,1 +1,1 @@
-var mnemonic = "leader lumber chaos hammer grab winner stand ticket stairs jump actress garage";
+var mnemonic = "morning stage nasty access room roast ranch inquiry essay patrol private tennis";

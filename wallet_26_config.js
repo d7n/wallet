@@ -1,1 +1,1 @@
-var mnemonic = "punch fury street castle winter retire margin cabbage simple warfare wreck spirit";
+var mnemonic = "diagram jacket tower runway tragic boss inch profit ride satoshi process lock";

@@ -1,1 +1,1 @@
-var mnemonic = "emotion pelican segment casino churn green destroy course deny tumble enjoy marriage";
+var mnemonic = "miss engage alcohol move penalty such talent bulb beef drama kite tribe";

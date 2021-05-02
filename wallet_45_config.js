@@ -1,1 +1,1 @@
-var mnemonic = "great panther able buffalo off speed comfort observe build main long govern";
+var mnemonic = "else type sorry zone feel drop index intact pizza enough elder clock";

@@ -1,1 +1,1 @@
-var mnemonic = "stereo brain apology trash other toward anger shove install amount habit blast";
+var mnemonic = "scout club mushroom addict night decade remember rice other check faculty involve";
