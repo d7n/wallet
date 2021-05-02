@@ -1,1 +1,1 @@
-var mnemonic = "taste leg myself distance surface neutral genre foot satoshi bike inmate shed";
+var mnemonic = "client critic first innocent present where island glass rural reason spike boss";

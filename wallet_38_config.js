@@ -1,1 +1,1 @@
-var mnemonic = "educate similar alien diesel history rocket subway sausage zoo define neglect kangaroo";
+var mnemonic = "cactus original brown promote shop right story dial just coil defense thrive";

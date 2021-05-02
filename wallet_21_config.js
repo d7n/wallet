@@ -1,1 +1,1 @@
-var mnemonic = "crumble orbit purse silver unaware loud hair advance pig green degree memory";
+var mnemonic = "credit current improve slow baby illness derive search title enhance country blade";

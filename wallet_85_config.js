@@ -1,1 +1,1 @@
-var mnemonic = "skirt intact couple royal afraid monitor month reject crazy faculty test milk";
+var mnemonic = "focus hint chuckle small crime trend fox trend coast accident festival tuna";

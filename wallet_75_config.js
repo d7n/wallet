@@ -1,1 +1,1 @@
-var mnemonic = "chest kite brown main message citizen dry glue skull help liquid nurse";
+var mnemonic = "practice suspect fiction winner barrel curve render thumb coast wood arm hollow";

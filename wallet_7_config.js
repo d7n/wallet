@@ -1,1 +1,1 @@
-var mnemonic = "fitness segment shift steel jump cloud speak suspect pluck spring icon power";
+var mnemonic = "come bounce box inhale grain barrel always trumpet output foam recipe brief";

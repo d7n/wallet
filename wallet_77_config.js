@@ -1,1 +1,1 @@
-var mnemonic = "sudden spike deer exact bind civil clock vault lunch super message guilt";
+var mnemonic = "country deal prosper gaze lava eyebrow family drink hidden special fire tone";

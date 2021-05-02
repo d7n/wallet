@@ -1,1 +1,1 @@
-var mnemonic = "tent dizzy lens rather scrub wash junior zero emerge umbrella about close";
+var mnemonic = "easy seek peasant spot turtle gentle merry oak face merry rude alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos start perfect harvest smoke average bean mango scatter bullet kidney wing";
+var mnemonic = "oppose modify honey casual garlic volcano slogan kit embody detail orbit basic";

@@ -1,1 +1,1 @@
-var mnemonic = "cause office brush term source trophy similar destroy ketchup defense fence key";
+var mnemonic = "net expect patrol security chest park frost success coil laptop deputy feed";

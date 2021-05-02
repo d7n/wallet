@@ -1,1 +1,1 @@
-var mnemonic = "crush swim frost save unusual shoot napkin prevent vague sweet mechanic twice";
+var mnemonic = "panther later flat cake shiver van satisfy leaf save force head tribe";

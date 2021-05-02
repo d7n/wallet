@@ -1,1 +1,1 @@
-var mnemonic = "soft juice genre south flip coyote depart body happy actual this velvet";
+var mnemonic = "indicate cigar absent tourist room tiny route dwarf raccoon remain female buddy";

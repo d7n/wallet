@@ -1,1 +1,1 @@
-var mnemonic = "expire devote ridge tiny muscle grid ice journey this license energy camp";
+var mnemonic = "acid arch brown hidden pig walk friend fetch race cradle valid clinic";

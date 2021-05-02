@@ -1,1 +1,1 @@
-var mnemonic = "domain emerge ahead use only bright rule text history whip curve robust";
+var mnemonic = "now flower woman tattoo acid mimic mask nose sense void page fix";

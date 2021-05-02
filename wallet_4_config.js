@@ -1,1 +1,1 @@
-var mnemonic = "dragon blush perfect diet seven audit say bag pledge lawsuit still task";
+var mnemonic = "mind noise theory alcohol addict scout bracket aim priority feed liar first";

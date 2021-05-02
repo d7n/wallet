@@ -1,1 +1,1 @@
-var mnemonic = "wonder salmon special mango shy arrange online hard retreat height focus office";
+var mnemonic = "you flag banana lion whale hello tooth clarify leisure someone rate stadium";

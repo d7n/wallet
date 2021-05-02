@@ -1,1 +1,1 @@
-var mnemonic = "once glare silver achieve suspect produce milk step derive recipe island educate";
+var mnemonic = "during never kidney prosper cloud fetch climb coast across glory remain cloth";

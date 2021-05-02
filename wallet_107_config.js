@@ -1,1 +1,1 @@
-var mnemonic = "fitness inmate mask leader brand rug flock boost together silly mechanic spike";
+var mnemonic = "version flame joy health bird quit gym control budget melt select absent";

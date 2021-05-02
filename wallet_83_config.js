@@ -1,1 +1,1 @@
-var mnemonic = "fatal diary street vessel ripple twenty liar above grow winter power simple";
+var mnemonic = "play wild agree puzzle sport long expose grab paper tank clutch amount";

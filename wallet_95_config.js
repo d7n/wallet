@@ -1,1 +1,1 @@
-var mnemonic = "hazard comfort online special chaos verify key cart gravity furnace license tail";
+var mnemonic = "steel six below diagram family slogan trophy wish car call friend cry";

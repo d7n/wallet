@@ -1,1 +1,1 @@
-var mnemonic = "phone smile client rough stuff monitor wisdom consider ladder guide pulp regret";
+var mnemonic = "say cross whisper trick fan barely still horn just urban convince monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "jaguar ceiling cable shuffle great achieve across leisure shaft foster pill trigger";
+var mnemonic = "consider picnic bless turn impact east away duck cannon kick used curious";

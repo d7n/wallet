@@ -1,1 +1,1 @@
-var mnemonic = "lunar float seed donkey open heart thing frog emerge soap liar faint";
+var mnemonic = "fancy ozone disorder famous session choice embrace win mask outside combine once";

@@ -1,1 +1,1 @@
-var mnemonic = "burger gloom emerge elegant oppose among bracket tail boy spatial impulse define";
+var mnemonic = "angry social addict edge liberty seed stand swamp hold retire cheese burger";

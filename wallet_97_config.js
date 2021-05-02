@@ -1,1 +1,1 @@
-var mnemonic = "goat live hedgehog arrange code whisper fade utility anchor mushroom trick convince";
+var mnemonic = "film lemon chat ankle surround inform picture dumb diet body tumble common";

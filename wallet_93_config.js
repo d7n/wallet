@@ -1,1 +1,1 @@
-var mnemonic = "relax pass grant fold fiber tank amount badge radar scatter fame brisk";
+var mnemonic = "town object reduce climb grocery iron side adapt acoustic almost cross solid";

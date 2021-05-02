@@ -1,1 +1,1 @@
-var mnemonic = "super digital assault evidence neck rich limb sing top fan poverty supreme";
+var mnemonic = "orange dune patient helmet neutral mass polar delay inherit fish notable entire";

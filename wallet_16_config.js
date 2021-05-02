@@ -1,1 +1,1 @@
-var mnemonic = "husband fetch exchange key tackle antenna soup problem potato tent raven coral";
+var mnemonic = "taxi roast define refuse caught calm purse diary input soul idle skull";

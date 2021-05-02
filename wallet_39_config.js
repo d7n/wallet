@@ -1,1 +1,1 @@
-var mnemonic = "liberty invite grain exotic occur recipe execute wool major inherit broom select";
+var mnemonic = "afraid decrease bitter letter cushion click burst disagree inject hand resource clean";

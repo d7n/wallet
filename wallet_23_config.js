@@ -1,1 +1,1 @@
-var mnemonic = "cotton mass quiz oven dish slush edge forum salute quantum common gate";
+var mnemonic = "treat point approve antenna camp chronic merry fun depend choice govern resource";

@@ -1,1 +1,1 @@
-var mnemonic = "place member outdoor receive armor release early cause core mask defense climb";
+var mnemonic = "erode forest float federal struggle public wish border inner merge energy okay";

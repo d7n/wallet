@@ -1,1 +1,1 @@
-var mnemonic = "joy saddle coral wool annual apart trial scare warfare dose buyer carpet";
+var mnemonic = "urge track stairs ketchup reunion cash machine tackle fatigue orphan spare vicious";

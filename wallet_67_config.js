@@ -1,1 +1,1 @@
-var mnemonic = "easy bunker approve penalty airport excuse soap unhappy thing mistake toddler law";
+var mnemonic = "quit dutch title repeat gap sister soda alter rare begin bargain purchase";

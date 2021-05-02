@@ -1,1 +1,1 @@
-var mnemonic = "problem wait emerge client open limb naive solid grunt regular labor hour";
+var mnemonic = "side tennis warm heart police dirt keen pond logic price sight jacket";

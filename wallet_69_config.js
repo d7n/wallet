@@ -1,1 +1,1 @@
-var mnemonic = "pencil canal forum old ball sock vital stand fetch color try list";
+var mnemonic = "oil level person trip spy twelve dwarf crucial shy congress intact sun";

@@ -1,1 +1,1 @@
-var mnemonic = "enjoy logic poem carpet combine civil proof announce shift interest jar eternal";
+var mnemonic = "modify divert media hobby vanish suffer pelican leave step future upper empower";

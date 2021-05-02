@@ -1,1 +1,1 @@
-var mnemonic = "truly crack attack help farm cereal grief summer morning quick jealous ability";
+var mnemonic = "bachelor room buyer force memory camp dash secret shuffle slab raccoon comic";

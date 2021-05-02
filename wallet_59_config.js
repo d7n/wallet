@@ -1,1 +1,1 @@
-var mnemonic = "phrase goose friend pipe power net strike stereo cry box fiscal below";
+var mnemonic = "few gun already tenant describe sound shrug summer crop retire crane regret";

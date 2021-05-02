@@ -1,1 +1,1 @@
-var mnemonic = "drip wash stairs school cart parade alert rose young book pear submit";
+var mnemonic = "nasty chuckle hour artwork actress wife bike romance typical copper undo morning";

@@ -1,1 +1,1 @@
-var mnemonic = "retreat all smart limit picnic gun shoot artefact celery number camera slam";
+var mnemonic = "hungry patient tooth erode toss burger screen loud shock skin dad foot";

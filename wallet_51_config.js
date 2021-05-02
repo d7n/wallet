@@ -1,1 +1,1 @@
-var mnemonic = "lady wasp round almost speak exclude reduce number almost million sport century";
+var mnemonic = "awkward category surge security oval book mask crazy style suggest kitchen umbrella";

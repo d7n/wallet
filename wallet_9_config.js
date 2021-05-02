@@ -1,1 +1,1 @@
-var mnemonic = "siren daring accident middle hollow exercise web middle mesh census river foot";
+var mnemonic = "animal dumb knee ramp slush wash bomb quality regret all limit purity";

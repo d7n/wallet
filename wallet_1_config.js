@@ -1,1 +1,1 @@
-var mnemonic = "hungry flee barely fat trade door tragic venture analyst behave useless ripple";
+var mnemonic = "never spatial amused immune ignore move suffer mind admit fit shrimp legend";

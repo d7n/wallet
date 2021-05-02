@@ -1,1 +1,1 @@
-var mnemonic = "pave build usage answer adapt ring wine bonus original series pink quarter";
+var mnemonic = "grocery exist web orient merge double remove grow wisdom tumble hundred wife";

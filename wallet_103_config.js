@@ -1,1 +1,1 @@
-var mnemonic = "perfect wrist ball soda essay enforce coin maid brush pave machine almost";
+var mnemonic = "ticket welcome uncover slim ship avoid firm ghost figure index project early";

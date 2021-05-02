@@ -1,1 +1,1 @@
-var mnemonic = "guitar word afraid circle conduct roast vessel day glove one broken kitten";
+var mnemonic = "asset supreme want menu unknown chicken latin choice dune color leg wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor repeat whisper bacon dizzy have stand robust clutch hobby situate brick";
+var mnemonic = "strong dog flavor motion license ticket ice dynamic toddler scatter spring essence";

@@ -1,1 +1,1 @@
-var mnemonic = "proud sauce capable shoulder diagram act escape oak want catch spring sketch";
+var mnemonic = "uncover duty acoustic soccer nut across excuse drum shallow pyramid act paper";

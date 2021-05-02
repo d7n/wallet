@@ -1,1 +1,1 @@
-var mnemonic = "wrestle phrase true escape danger office evil rural nose velvet atom jewel";
+var mnemonic = "outer aunt cream trumpet gain dial fruit what noise coral volcano baby";

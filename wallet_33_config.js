@@ -1,1 +1,1 @@
-var mnemonic = "amount joke ridge theory blue misery old render cliff only latin filter";
+var mnemonic = "flat mushroom maple music rule candy old lunar potato grape position wool";

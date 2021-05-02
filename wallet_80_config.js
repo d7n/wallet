@@ -1,1 +1,1 @@
-var mnemonic = "brass dust swift myself laptop piece poverty endless poet relax leg reward";
+var mnemonic = "second yellow attract vibrant frog wish consider lunch latin jazz tissue section";

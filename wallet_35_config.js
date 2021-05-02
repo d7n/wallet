@@ -1,1 +1,1 @@
-var mnemonic = "science dance bamboo lesson report iron weird nature mechanic bounce staff rifle";
+var mnemonic = "budget satoshi artwork famous unit pepper upset wild attack brush security chalk";

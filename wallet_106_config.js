@@ -1,1 +1,1 @@
-var mnemonic = "dove coral wine carpet regular degree fame bleak weekend gather issue tribe";
+var mnemonic = "circle also snap casino wrestle rain abuse extra pink wink scrub material";

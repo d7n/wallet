@@ -1,1 +1,1 @@
-var mnemonic = "tube bind tobacco chuckle reform blossom return evil grab acquire wheel frost";
+var mnemonic = "crowd wine entry into humble someone foster cable cart situate bunker canal";

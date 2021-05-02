@@ -1,1 +1,1 @@
-var mnemonic = "weasel crash spice mesh vivid gather stumble unveil solar move physical sound";
+var mnemonic = "innocent ugly flock huge object auction name approve quantum drama bone reunion";

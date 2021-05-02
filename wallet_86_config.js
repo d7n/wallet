@@ -1,1 +1,1 @@
-var mnemonic = "require dune nephew boil actor hire afraid south alien lawn volcano whip";
+var mnemonic = "cotton chest bid culture skate message survey harvest mad pluck vocal auction";

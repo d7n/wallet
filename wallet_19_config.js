@@ -1,1 +1,1 @@
-var mnemonic = "engage danger soap rich salmon yard main balance view fiscal sentence good";
+var mnemonic = "devote scrap tuition debris manage session fever gold neck monitor rifle fire";

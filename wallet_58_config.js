@@ -1,1 +1,1 @@
-var mnemonic = "knife middle erode saddle female cattle lab obvious veteran economy salute trophy";
+var mnemonic = "maple pet detect omit swap lumber walnut until credit cook dash angry";

@@ -1,1 +1,1 @@
-var mnemonic = "creek crystal excuse level sell there length oppose news flush sheriff shuffle";
+var mnemonic = "act brief chef morning stove ask sail protect clutch voice member canal";

@@ -1,1 +1,1 @@
-var mnemonic = "pool worth renew produce income naive furnace train symptom write decline shine";
+var mnemonic = "normal result powder dog squirrel ethics what knee hungry risk practice nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "survey fruit clutch elbow pluck sadness alone enjoy guilt rubber under dolphin";
+var mnemonic = "coin omit soon evidence antique special lawsuit brief limit nut chat skate";

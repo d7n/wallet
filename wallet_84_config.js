@@ -1,1 +1,1 @@
-var mnemonic = "leisure else twelve conduct neither evolve obvious wasp stuff frozen person melt";
+var mnemonic = "coil wrong digital moral expand try duck salute sorry limb decrease kite";

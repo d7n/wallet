@@ -1,1 +1,1 @@
-var mnemonic = "wear antenna gate mom company delay pave dust draw zero safe security";
+var mnemonic = "other wash town tired window weird disorder truly weekend soup picture pony";

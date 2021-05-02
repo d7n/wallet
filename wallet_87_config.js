@@ -1,1 +1,1 @@
-var mnemonic = "excess nest pretty harsh kitchen leg machine dial abandon web around agree";
+var mnemonic = "room lend since sphere pepper chat sibling gorilla cover bright shadow swallow";

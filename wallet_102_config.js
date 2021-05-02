@@ -1,1 +1,1 @@
-var mnemonic = "hotel figure release example rain height cinnamon nut boring spend hero exhibit";
+var mnemonic = "wisdom trap sorry galaxy invest guitar spot nominee where industry debris voyage";

@@ -1,1 +1,1 @@
-var mnemonic = "luggage order case gauge invest reward rocket hip rifle shine reopen planet";
+var mnemonic = "wife tiny service thing exhaust utility oxygen brass hour update crack blast";

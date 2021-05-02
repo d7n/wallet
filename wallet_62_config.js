@@ -1,1 +1,1 @@
-var mnemonic = "useless silver school soap motion little sword sun volcano strong tube vicious";
+var mnemonic = "pizza multiply goddess glare flame eager van plate pear pilot frozen derive";

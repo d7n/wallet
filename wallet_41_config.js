@@ -1,1 +1,1 @@
-var mnemonic = "critic ski hope toilet crack edit system sentence believe skin entry island";
+var mnemonic = "item cable deer spider crater crystal wood sense labor apart glide exotic";

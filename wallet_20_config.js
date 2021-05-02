@@ -1,1 +1,1 @@
-var mnemonic = "swallow logic oven cheese initial flash during defense leader useful pass mouse";
+var mnemonic = "bridge excess razor sure corn glow tonight news fall guard sting small";

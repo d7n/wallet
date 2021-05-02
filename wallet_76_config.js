@@ -1,1 +1,1 @@
-var mnemonic = "same delay add guess mean excuse involve lazy absurd excite vicious sniff";
+var mnemonic = "gloom safe nest buyer cruise border goat forget dinosaur coast follow sail";

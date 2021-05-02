@@ -1,1 +1,1 @@
-var mnemonic = "process unveil cannon calm lounge erode audit tackle elevator true reopen ivory";
+var mnemonic = "pass old husband minimum point clip beach banana attend enable impact cart";

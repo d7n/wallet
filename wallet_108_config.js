@@ -1,1 +1,1 @@
-var mnemonic = "sheriff door mirror hip half ignore hollow market lazy daring shop zero";
+var mnemonic = "rescue upon melt game boring pluck laundry normal lady mixture fit narrow";

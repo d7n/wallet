@@ -1,1 +1,1 @@
-var mnemonic = "fade since pride entire aisle twin scare mandate must cabbage uncover tip";
+var mnemonic = "direct erupt twelve absorb lunch travel cloud rabbit tornado runway inmate main";

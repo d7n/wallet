@@ -1,1 +1,1 @@
-var mnemonic = "bright finger quick hint atom betray confirm bargain flavor deal clever cradle";
+var mnemonic = "embrace nice raccoon innocent sting attack solar walnut repair remember walk join";

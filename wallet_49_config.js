@@ -1,1 +1,1 @@
-var mnemonic = "chapter slab gap just boost rabbit hundred mail patrol air bounce bundle";
+var mnemonic = "valve arrest explain chimney barrel put radar chapter museum rent actress tell";

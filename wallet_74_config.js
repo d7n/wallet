@@ -1,1 +1,1 @@
-var mnemonic = "case message monitor object prosper trade food country field favorite inmate body";
+var mnemonic = "lemon prison budget wonder come gallery spider argue naive tomato monkey that";

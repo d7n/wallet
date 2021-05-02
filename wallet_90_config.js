@@ -1,1 +1,1 @@
-var mnemonic = "large aware behind six oven discover wrist differ father peasant garlic reunion";
+var mnemonic = "absorb width legal breeze actual modify feel sphere aisle easy blush glory";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin hotel blouse radio transfer law gas appear pony crunch frozen shoe";
+var mnemonic = "drift hair fold boring increase arctic useless bubble pipe remember hospital lunch";

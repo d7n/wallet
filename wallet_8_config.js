@@ -1,1 +1,1 @@
-var mnemonic = "eight normal dizzy bird zero charge usual pizza stool segment distance mouse";
+var mnemonic = "sister hobby artist focus shift plunge silk coyote doll check dad shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate upgrade boat funny symbol once list leave never solution island enter";
+var mnemonic = "sponsor they jeans chalk idea high pipe tissue identify confirm jewel nasty";

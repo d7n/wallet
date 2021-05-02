@@ -1,1 +1,1 @@
-var mnemonic = "shoulder camp garbage artefact opera nice innocent spot winner miracle treat replace";
+var mnemonic = "under trust cute quantum supply cup pigeon suffer save clip pelican sad";

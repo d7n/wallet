@@ -1,1 +1,1 @@
-var mnemonic = "soda balance there cycle crack occur embrace arm spray flag girl head";
+var mnemonic = "catalog asthma fork slide quarter little grow oyster between fiction help delay";
