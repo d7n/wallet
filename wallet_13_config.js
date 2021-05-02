@@ -1,1 +1,1 @@
-var mnemonic = "gasp portion tiger mom melt stumble subway million law menu couple catalog";
+var mnemonic = "weasel crash spice mesh vivid gather stumble unveil solar move physical sound";

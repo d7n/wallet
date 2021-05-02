@@ -1,1 +1,1 @@
-var mnemonic = "slow jealous easy decrease atom tragic vital identify drum evolve accuse nasty";
+var mnemonic = "educate similar alien diesel history rocket subway sausage zoo define neglect kangaroo";

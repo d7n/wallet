@@ -1,1 +1,1 @@
-var mnemonic = "lift museum soul syrup glide sorry cup weasel brain wrong furnace like";
+var mnemonic = "evil agree meadow castle science welcome lady number gaze hour rather bring";

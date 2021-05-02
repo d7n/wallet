@@ -1,1 +1,1 @@
-var mnemonic = "crisp case zero squeeze middle hip dream decide business slogan make bitter";
+var mnemonic = "fitness segment shift steel jump cloud speak suspect pluck spring icon power";

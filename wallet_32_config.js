@@ -1,1 +1,1 @@
-var mnemonic = "punch sweet work camp diet shallow film neck another street tourist ranch";
+var mnemonic = "million world prevent zone vocal cable upper outdoor sheriff among sentence release";

@@ -1,1 +1,1 @@
-var mnemonic = "summer shallow also enlist pilot juice cluster document slogan typical super tonight";
+var mnemonic = "amount joke ridge theory blue misery old render cliff only latin filter";

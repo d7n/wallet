@@ -1,1 +1,1 @@
-var mnemonic = "fabric curtain fatigue patient foster hint scissors flavor exchange attend myth anger";
+var mnemonic = "same delay add guess mean excuse involve lazy absurd excite vicious sniff";

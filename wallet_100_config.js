@@ -1,1 +1,1 @@
-var mnemonic = "security matrix crop word canvas fringe act miracle index spice device achieve";
+var mnemonic = "auto ozone height key carbon bicycle mimic anxiety erase later frame dial";

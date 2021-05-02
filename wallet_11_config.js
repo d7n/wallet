@@ -1,1 +1,1 @@
-var mnemonic = "orient scene tree bronze struggle dinosaur since combine bleak siren also cable";
+var mnemonic = "lawsuit border long lunch document artist glad stomach eye holiday slide slam";

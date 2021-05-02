@@ -1,1 +1,1 @@
-var mnemonic = "cherry hood seminar skull topic menu hotel spell sun cross doll view";
+var mnemonic = "super digital assault evidence neck rich limb sing top fan poverty supreme";

@@ -1,1 +1,1 @@
-var mnemonic = "motor body volcano cheap spare town remain poem alcohol jealous steak poem";
+var mnemonic = "skirt intact couple royal afraid monitor month reject crazy faculty test milk";

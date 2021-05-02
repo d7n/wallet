@@ -1,1 +1,1 @@
-var mnemonic = "couch battle zero hospital danger peasant wheel pair arrange insect mushroom noise";
+var mnemonic = "because pony shoe pretty list bar equip announce soul angle hope outside";

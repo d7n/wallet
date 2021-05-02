@@ -1,1 +1,1 @@
-var mnemonic = "dwarf noble whisper panel reject novel click warrior slab heart agree cereal";
+var mnemonic = "soul prosper desert finger truly nephew idle easily beyond bomb silent ecology";

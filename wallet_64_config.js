@@ -1,1 +1,1 @@
-var mnemonic = "hope update oblige rose bless funny horror spider estate blade sad bullet";
+var mnemonic = "problem wait emerge client open limb naive solid grunt regular labor hour";

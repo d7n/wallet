@@ -1,1 +1,1 @@
-var mnemonic = "moral stomach danger worth return cinnamon mouse donor capital will mixture keep";
+var mnemonic = "joy saddle coral wool annual apart trial scare warfare dose buyer carpet";

@@ -1,1 +1,1 @@
-var mnemonic = "animal ability humble master captain cargo spare tattoo powder creek pottery cup";
+var mnemonic = "brass dust swift myself laptop piece poverty endless poet relax leg reward";

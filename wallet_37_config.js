@@ -1,1 +1,1 @@
-var mnemonic = "foster control attack blue cook power where fringe scrap frown rug parrot";
+var mnemonic = "guitar word afraid circle conduct roast vessel day glove one broken kitten";

@@ -1,1 +1,1 @@
-var mnemonic = "cat mother spawn initial indicate scheme argue video flush man reform rail";
+var mnemonic = "luggage order case gauge invest reward rocket hip rifle shine reopen planet";

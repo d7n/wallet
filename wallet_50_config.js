@@ -1,1 +1,1 @@
-var mnemonic = "life edit zone puppy among axis fork follow fossil wink garbage soccer";
+var mnemonic = "burger gloom emerge elegant oppose among bracket tail boy spatial impulse define";

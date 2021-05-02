@@ -1,1 +1,1 @@
-var mnemonic = "left ignore youth evoke divide faint please gap grit monster garment leave";
+var mnemonic = "device guitar noise vapor solution pattern burst radio bag kick cup layer";

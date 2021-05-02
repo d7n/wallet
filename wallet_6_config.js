@@ -1,1 +1,1 @@
-var mnemonic = "brick embrace open good funny bleak inspire broccoli peasant method curve chaos";
+var mnemonic = "stock dizzy tool genuine afraid peanut harbor surround ladder knock mandate better";

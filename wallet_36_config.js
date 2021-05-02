@@ -1,1 +1,1 @@
-var mnemonic = "child economy ordinary system theory jacket exit insect grit icon defy aisle";
+var mnemonic = "upgrade derive piano genuine cherry drift draft where cherry flush logic tobacco";

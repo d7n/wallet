@@ -1,1 +1,1 @@
-var mnemonic = "plate chaos photo try weekend coil soda tuition raise gorilla six hood";
+var mnemonic = "soft juice genre south flip coyote depart body happy actual this velvet";

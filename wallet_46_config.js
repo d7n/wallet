@@ -1,1 +1,1 @@
-var mnemonic = "immense arrow theme jealous foam right sing ice wrestle useless first filter";
+var mnemonic = "donor vibrant alpha excite around faculty stairs proof speak blanket ginger pool";

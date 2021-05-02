@@ -1,1 +1,1 @@
-var mnemonic = "moment alley physical rotate robust issue suffer primary ice hard address police";
+var mnemonic = "siren daring accident middle hollow exercise web middle mesh census river foot";

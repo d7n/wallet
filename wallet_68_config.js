@@ -1,1 +1,1 @@
-var mnemonic = "heavy picture scorpion ozone dolphin empty rescue drink design hair avoid firm";
+var mnemonic = "rotate upgrade boat funny symbol once list leave never solution island enter";

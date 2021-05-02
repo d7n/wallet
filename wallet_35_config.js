@@ -1,1 +1,1 @@
-var mnemonic = "chase range capital lift ripple poet turtle limb video bike win online";
+var mnemonic = "science dance bamboo lesson report iron weird nature mechanic bounce staff rifle";

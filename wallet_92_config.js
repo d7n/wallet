@@ -1,1 +1,1 @@
-var mnemonic = "coast suggest disagree name lab ignore mistake mystery undo hub myth need";
+var mnemonic = "pool worth renew produce income naive furnace train symptom write decline shine";

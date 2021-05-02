@@ -1,1 +1,1 @@
-var mnemonic = "wheat render scan express village photo muscle add knife cry piano endless";
+var mnemonic = "dragon blush perfect diet seven audit say bag pledge lawsuit still task";

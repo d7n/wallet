@@ -1,1 +1,1 @@
-var mnemonic = "town brown foot armed rule panther argue dress other april wrist notable";
+var mnemonic = "sheriff door mirror hip half ignore hollow market lazy daring shop zero";

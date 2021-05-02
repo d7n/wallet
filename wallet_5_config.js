@@ -1,1 +1,1 @@
-var mnemonic = "alter together scatter pair sock ensure convince bomb wool tail dash loud";
+var mnemonic = "phone smile client rough stuff monitor wisdom consider ladder guide pulp regret";

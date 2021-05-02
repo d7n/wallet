@@ -1,1 +1,1 @@
-var mnemonic = "decide aisle armor coast snow word bulk talent collect avoid cattle update";
+var mnemonic = "goat live hedgehog arrange code whisper fade utility anchor mushroom trick convince";

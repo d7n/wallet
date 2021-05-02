@@ -1,1 +1,1 @@
-var mnemonic = "trip receive pass riot hawk smoke penalty offer airport return bamboo inner";
+var mnemonic = "inch unable skate guess unfold solid about oxygen narrow gain clog coral";

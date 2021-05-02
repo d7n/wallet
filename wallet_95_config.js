@@ -1,1 +1,1 @@
-var mnemonic = "screen coin sort manage task arm bike menu boat elephant owner celery";
+var mnemonic = "hazard comfort online special chaos verify key cart gravity furnace license tail";

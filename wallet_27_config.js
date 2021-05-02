@@ -1,1 +1,1 @@
-var mnemonic = "elite finger street civil walnut clay quality fade slight loan ahead blur";
+var mnemonic = "pave build usage answer adapt ring wine bonus original series pink quarter";

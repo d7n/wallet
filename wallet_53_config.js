@@ -1,1 +1,1 @@
-var mnemonic = "base knee code describe hawk filter awful focus comfort step evidence old";
+var mnemonic = "drift stay drop total cactus print cook float false alone exchange hen";

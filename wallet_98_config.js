@@ -1,1 +1,1 @@
-var mnemonic = "pudding camera audit drive brand jump notable warm topic trigger siren pistol";
+var mnemonic = "please crouch close lazy pony viable lucky kick ramp cloud dwarf spring";

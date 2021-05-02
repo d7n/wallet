@@ -1,1 +1,1 @@
-var mnemonic = "language disagree rose emotion hire around salmon this neglect liquid modify release";
+var mnemonic = "menu first rifle purpose cart tonight dad left donor attend elegant other";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage bread turn answer sea bean isolate truck strike logic exit jar";
+var mnemonic = "fitness inmate mask leader brand rug flock boost together silly mechanic spike";

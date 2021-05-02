@@ -1,1 +1,1 @@
-var mnemonic = "vacuum since senior empty spawn thank cute chaos rabbit margin above young";
+var mnemonic = "artwork army warrior story hard final add nose predict release hire bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "dynamic domain achieve hazard neutral bubble brother parent upper dolphin burden beach";
+var mnemonic = "bright finger quick hint atom betray confirm bargain flavor deal clever cradle";

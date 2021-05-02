@@ -1,1 +1,1 @@
-var mnemonic = "immune marine trial dutch mercy alien praise prepare surround cruel amazing never";
+var mnemonic = "volume casino subject bubble ski vendor rather spend wisdom book parade fiber";

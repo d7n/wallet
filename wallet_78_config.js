@@ -1,1 +1,1 @@
-var mnemonic = "barrel asset adjust slender false west february wing slide awesome soda upset";
+var mnemonic = "shoulder camp garbage artefact opera nice innocent spot winner miracle treat replace";

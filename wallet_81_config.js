@@ -1,1 +1,1 @@
-var mnemonic = "still kitten vacant burst burst word holiday pizza mutual dish flip proud";
+var mnemonic = "must zoo social scrub cat dawn pepper disease sail jacket easily island";

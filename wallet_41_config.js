@@ -1,1 +1,1 @@
-var mnemonic = "abstract waste target ancient slight deal sphere vital wealth vast spy school";
+var mnemonic = "critic ski hope toilet crack edit system sentence believe skin entry island";

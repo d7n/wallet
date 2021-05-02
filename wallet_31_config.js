@@ -1,1 +1,1 @@
-var mnemonic = "theory toy hurry best movie onion few trigger motion above life science";
+var mnemonic = "taste leg myself distance surface neutral genre foot satoshi bike inmate shed";

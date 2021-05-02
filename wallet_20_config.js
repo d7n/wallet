@@ -1,1 +1,1 @@
-var mnemonic = "decade pony flavor top soccer discover million note early alpha kitchen forest";
+var mnemonic = "swallow logic oven cheese initial flash during defense leader useful pass mouse";

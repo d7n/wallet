@@ -1,1 +1,1 @@
-var mnemonic = "unlock place marriage subway acquire adapt cheese surge galaxy cannon check hidden";
+var mnemonic = "large aware behind six oven discover wrist differ father peasant garlic reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic tank funny pattern wonder burst shop strike grant copper venue use";
+var mnemonic = "vendor repeat whisper bacon dizzy have stand robust clutch hobby situate brick";

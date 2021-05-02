@@ -1,1 +1,1 @@
-var mnemonic = "tone tunnel merit walk dynamic clip trim exercise comfort zero width creek";
+var mnemonic = "retreat all smart limit picnic gun shoot artefact celery number camera slam";

@@ -1,1 +1,1 @@
-var mnemonic = "will shock orbit hockey design talk agree again bicycle zero wife plunge";
+var mnemonic = "place member outdoor receive armor release early cause core mask defense climb";

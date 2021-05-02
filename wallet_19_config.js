@@ -1,1 +1,1 @@
-var mnemonic = "law sound video subject hollow side insane mango bench claim laundry genuine";
+var mnemonic = "engage danger soap rich salmon yard main balance view fiscal sentence good";

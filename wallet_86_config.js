@@ -1,1 +1,1 @@
-var mnemonic = "purchase shiver destroy crop purity snow sweet dash act copy forget lazy";
+var mnemonic = "require dune nephew boil actor hire afraid south alien lawn volcano whip";

@@ -1,1 +1,1 @@
-var mnemonic = "notable day develop slab worth axis lab suffer face venue bicycle toward";
+var mnemonic = "soda balance there cycle crack occur embrace arm spray flag girl head";

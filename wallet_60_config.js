@@ -1,1 +1,1 @@
-var mnemonic = "eager banner antenna deputy relief roast setup inform scene inform eye car";
+var mnemonic = "domain emerge ahead use only bright rule text history whip curve robust";

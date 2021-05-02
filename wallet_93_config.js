@@ -1,1 +1,1 @@
-var mnemonic = "embrace number sketch cannon battle salute fat near dignity glad soldier amateur";
+var mnemonic = "relax pass grant fold fiber tank amount badge radar scatter fame brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen curious year eager praise crowd idle door focus grape fold disorder";
+var mnemonic = "enjoy logic poem carpet combine civil proof announce shift interest jar eternal";

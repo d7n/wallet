@@ -1,1 +1,1 @@
-var mnemonic = "danger clinic float repeat remain ecology fly deny urge fan vote private";
+var mnemonic = "liberty invite grain exotic occur recipe execute wool major inherit broom select";

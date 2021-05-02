@@ -1,1 +1,1 @@
-var mnemonic = "hurdle pave where mushroom actual keep junior stem matrix physical among manage";
+var mnemonic = "dove coral wine carpet regular degree fame bleak weekend gather issue tribe";

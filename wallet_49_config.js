@@ -1,1 +1,1 @@
-var mnemonic = "enlist tape amazing carbon neglect allow guard toe matter scan curtain winter";
+var mnemonic = "chapter slab gap just boost rabbit hundred mail patrol air bounce bundle";

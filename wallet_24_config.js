@@ -1,1 +1,1 @@
-var mnemonic = "device nation tape silly collect fat mobile charge gloom trash energy father";
+var mnemonic = "pyramid strike wrap notable bid cherry load sleep kitchen razor glimpse relief";

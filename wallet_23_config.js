@@ -1,1 +1,1 @@
-var mnemonic = "add team harsh remove smile shadow dutch path valve special faculty rough";
+var mnemonic = "cotton mass quiz oven dish slush edge forum salute quantum common gate";

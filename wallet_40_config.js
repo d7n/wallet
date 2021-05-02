@@ -1,1 +1,1 @@
-var mnemonic = "trial warrior comfort fluid sausage edit wage rhythm immune project cliff voyage";
+var mnemonic = "uncover cabbage clown warfare feature orphan split general happy sentence render bread";

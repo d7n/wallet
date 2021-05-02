@@ -1,1 +1,1 @@
-var mnemonic = "recall east devote equal blur flag axis supreme trust moral oxygen video";
+var mnemonic = "easy bunker approve penalty airport excuse soap unhappy thing mistake toddler law";

@@ -1,1 +1,1 @@
-var mnemonic = "cheap unaware genre measure jewel end volcano father crop when deposit tide";
+var mnemonic = "hungry flee barely fat trade door tragic venture analyst behave useless ripple";

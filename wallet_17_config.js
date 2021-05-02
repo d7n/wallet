@@ -1,1 +1,1 @@
-var mnemonic = "feel corn fitness glory month visit shift yard seed average bring athlete";
+var mnemonic = "chaos start perfect harvest smoke average bean mango scatter bullet kidney wing";

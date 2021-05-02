@@ -1,1 +1,1 @@
-var mnemonic = "ramp sketch decrease inject layer wife equal thought mesh boost setup few";
+var mnemonic = "prevent shuffle ask soon hawk trash keep giggle glad flush tip steel";

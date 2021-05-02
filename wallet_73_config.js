@@ -1,1 +1,1 @@
-var mnemonic = "convince race antenna target huge liar tornado fluid try goddess lawsuit great";
+var mnemonic = "survey fruit clutch elbow pluck sadness alone enjoy guilt rubber under dolphin";

@@ -1,1 +1,1 @@
-var mnemonic = "little battle antenna inject above mean delay october faith spread daring hard";
+var mnemonic = "sudden spike deer exact bind civil clock vault lunch super message guilt";

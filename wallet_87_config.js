@@ -1,1 +1,1 @@
-var mnemonic = "blood steak narrow chicken scare soda token citizen cloth blade tunnel economy";
+var mnemonic = "excess nest pretty harsh kitchen leg machine dial abandon web around agree";

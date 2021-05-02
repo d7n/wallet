@@ -1,1 +1,1 @@
-var mnemonic = "survey early glad weekend sunset suffer sock sorry sure twenty urban student";
+var mnemonic = "lady wasp round almost speak exclude reduce number almost million sport century";

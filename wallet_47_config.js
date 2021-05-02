@@ -1,1 +1,1 @@
-var mnemonic = "fatal gasp grant crush tank bar meat prize skate pride dial someone";
+var mnemonic = "lunar float seed donkey open heart thing frog emerge soap liar faint";

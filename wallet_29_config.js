@@ -1,1 +1,1 @@
-var mnemonic = "monkey reform current top bitter hybrid want outdoor ride cement dove lesson";
+var mnemonic = "perfect jump predict monster armed loud burger ability mystery blast ready fatal";

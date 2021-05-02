@@ -1,1 +1,1 @@
-var mnemonic = "draw engine bullet summer chapter learn spare pave unit cost enough cherry";
+var mnemonic = "pencil canal forum old ball sock vital stand fetch color try list";

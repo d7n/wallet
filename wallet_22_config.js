@@ -1,1 +1,1 @@
-var mnemonic = "timber scorpion peace shoot fitness wine proof slender swap pelican ugly okay";
+var mnemonic = "wonder salmon special mango shy arrange online hard retreat height focus office";

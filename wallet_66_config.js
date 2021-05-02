@@ -1,1 +1,1 @@
-var mnemonic = "simple desk sustain foil balcony suggest range prison cushion hockey sustain better";
+var mnemonic = "laptop demand version pony easily mind impulse divide same quote come current";

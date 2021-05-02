@@ -1,1 +1,1 @@
-var mnemonic = "winter approve suspect recall bracket stay disease alone company problem flip ask";
+var mnemonic = "manual syrup kingdom riot quote fault chat wheel general away scene device";

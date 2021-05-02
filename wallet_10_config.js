@@ -1,1 +1,1 @@
-var mnemonic = "pelican food seven cereal supply parade left exile divorce clip impose fox";
+var mnemonic = "expire devote ridge tiny muscle grid ice journey this license energy camp";

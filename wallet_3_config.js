@@ -1,1 +1,1 @@
-var mnemonic = "doctor meat tag dune chimney save typical alarm lumber old rural casual";
+var mnemonic = "tube bind tobacco chuckle reform blossom return evil grab acquire wheel frost";

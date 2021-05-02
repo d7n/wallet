@@ -1,1 +1,1 @@
-var mnemonic = "loyal option lamp glare dog iron member depend same box smart wrist";
+var mnemonic = "crumble orbit purse silver unaware loud hair advance pig green degree memory";

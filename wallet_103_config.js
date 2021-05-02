@@ -1,1 +1,1 @@
-var mnemonic = "pottery comic return exercise phone spice since neutral core hover rifle glide";
+var mnemonic = "perfect wrist ball soda essay enforce coin maid brush pave machine almost";

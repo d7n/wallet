@@ -1,1 +1,1 @@
-var mnemonic = "near clean swallow travel crystal nephew embrace dutch deliver identify noble lucky";
+var mnemonic = "truly crack attack help farm cereal grief summer morning quick jealous ability";

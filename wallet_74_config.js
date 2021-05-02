@@ -1,1 +1,1 @@
-var mnemonic = "icon paper budget gospel inquiry morning dragon under bar dust orange stereo";
+var mnemonic = "case message monitor object prosper trade food country field favorite inmate body";

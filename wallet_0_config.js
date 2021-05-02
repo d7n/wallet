@@ -1,1 +1,1 @@
-var mnemonic = "primary extend leg warm slight label roast boat weapon either alpha road";
+var mnemonic = "equip trial soul enforce globe canvas ivory rather draw close organ elegant";

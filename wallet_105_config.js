@@ -1,1 +1,1 @@
-var mnemonic = "dynamic day disagree valid spot onion face march obvious coffee flight frost";
+var mnemonic = "tent dizzy lens rather scrub wash junior zero emerge umbrella about close";

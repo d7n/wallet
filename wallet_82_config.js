@@ -1,1 +1,1 @@
-var mnemonic = "danger prosper kiss series hockey area napkin black ocean minute promote undo";
+var mnemonic = "once glare silver achieve suspect produce milk step derive recipe island educate";

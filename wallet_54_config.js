@@ -1,1 +1,1 @@
-var mnemonic = "valve idea drill oak cat title worry purchase inmate grab burger urge";
+var mnemonic = "proud sauce capable shoulder diagram act escape oak want catch spring sketch";

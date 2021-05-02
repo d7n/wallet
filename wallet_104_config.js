@@ -1,1 +1,1 @@
-var mnemonic = "narrow mirror energy tenant half whip admit victory language metal dish private";
+var mnemonic = "drip wash stairs school cart parade alert rose young book pear submit";

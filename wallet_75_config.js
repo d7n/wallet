@@ -1,1 +1,1 @@
-var mnemonic = "veteran bridge helmet sound south love more elite answer machine motion sense";
+var mnemonic = "chest kite brown main message citizen dry glue skull help liquid nurse";

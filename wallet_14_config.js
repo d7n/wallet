@@ -1,1 +1,1 @@
-var mnemonic = "enlist inject side humor frost style access topple genuine habit hundred shoot";
+var mnemonic = "process unveil cannon calm lounge erode audit tackle elevator true reopen ivory";
