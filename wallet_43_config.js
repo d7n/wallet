@@ -1,1 +1,1 @@
-var mnemonic = "traffic ladder illegal eternal evidence daughter boost arrive frown hold muffin model";
+var mnemonic = "sell narrow banana purpose meadow leave ladder forum interest hip clip country";

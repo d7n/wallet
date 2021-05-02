@@ -1,1 +1,1 @@
-var mnemonic = "ski tooth near blast sleep clinic scout betray thrive gun enforce save";
+var mnemonic = "buffalo dash cactus bless issue vivid fat fold side dinner liquid expose";

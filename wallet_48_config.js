@@ -1,1 +1,1 @@
-var mnemonic = "body wing mad wish glide orange smart punch soap cushion onion swap";
+var mnemonic = "result push lounge pony polar taxi cinnamon fan thumb erode kangaroo wasp";

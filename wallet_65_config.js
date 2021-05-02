@@ -1,1 +1,1 @@
-var mnemonic = "youth urge session best price coin hungry give penalty upset ticket possible";
+var mnemonic = "author struggle cushion input radio drum bridge little boil curious east tape";

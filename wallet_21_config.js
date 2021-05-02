@@ -1,1 +1,1 @@
-var mnemonic = "harvest theory century cram double brief effort twice hobby update color trouble";
+var mnemonic = "express polar pig walnut armor fun depart slice throw later link jazz";

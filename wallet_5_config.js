@@ -1,1 +1,1 @@
-var mnemonic = "chief town market toddler breeze green depend adapt thought actor venue hope";
+var mnemonic = "census sentence practice month perfect asset distance indoor scissors polar peace dutch";

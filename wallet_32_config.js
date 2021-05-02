@@ -1,1 +1,1 @@
-var mnemonic = "indicate response frog once today relax demise proof canal old monkey render";
+var mnemonic = "diary erode ankle brown diary faith mercy live say domain snap december";

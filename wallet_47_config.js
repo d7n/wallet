@@ -1,1 +1,1 @@
-var mnemonic = "chunk raven random stereo relax cycle nature hood alone nice change leaf";
+var mnemonic = "camp desk grass mom bubble wool ritual fence soccer net announce damage";

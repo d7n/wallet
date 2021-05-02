@@ -1,1 +1,1 @@
-var mnemonic = "census grit sock unlock debate elder fiscal loop march gasp shield verify";
+var mnemonic = "wisdom grape mother local talk angle dose pumpkin noodle summer pigeon pool";

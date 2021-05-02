@@ -1,1 +1,1 @@
-var mnemonic = "give ensure arrest north orbit tenant focus daring process vintage shy cherry";
+var mnemonic = "breeze rely harvest surge basket cool whip ketchup column robot excite poet";

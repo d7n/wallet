@@ -1,1 +1,1 @@
-var mnemonic = "access heart device joy diamond unhappy turkey tone circle drastic cube broccoli";
+var mnemonic = "lemon scatter hurdle utility mind day begin list color swap decline awful";

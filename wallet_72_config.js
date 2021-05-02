@@ -1,1 +1,1 @@
-var mnemonic = "ask suggest despair basic mule mirror online movie sting toilet cousin inform";
+var mnemonic = "copy thought vintage employ enable salute immense fiber century thought waste salon";

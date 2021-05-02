@@ -1,1 +1,1 @@
-var mnemonic = "crunch drift bridge mercy version crazy gallery fog noble dress chat region";
+var mnemonic = "protect case culture ahead someone gown swim dance salad unit ski slide";

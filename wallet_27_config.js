@@ -1,1 +1,1 @@
-var mnemonic = "physical void estate estate home expose unfold slender often artefact stable vague";
+var mnemonic = "cheese wheat miss brown under park skirt tornado hunt siege wear aerobic";

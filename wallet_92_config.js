@@ -1,1 +1,1 @@
-var mnemonic = "taste remove owner train brother crisp two drift hobby badge icon answer";
+var mnemonic = "version valid question orchard blossom modify damp depth lady derive view joke";

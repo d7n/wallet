@@ -1,1 +1,1 @@
-var mnemonic = "ocean pull hair foam payment matrix swing wonder tomorrow inherit assault chat";
+var mnemonic = "fall heavy game adjust parade sibling know profit zebra pudding recall bag";

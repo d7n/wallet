@@ -1,1 +1,1 @@
-var mnemonic = "circle country junior blame major bottom milk bus sail raise sport coast";
+var mnemonic = "swear size abstract lonely taxi crew camera age hazard leg near among";

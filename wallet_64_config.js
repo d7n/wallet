@@ -1,1 +1,1 @@
-var mnemonic = "black frozen style lecture property twin area blame vacant faculty title labor";
+var mnemonic = "claim degree fame brush cage devote tumble double devote month fresh moral";

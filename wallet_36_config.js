@@ -1,1 +1,1 @@
-var mnemonic = "settle anchor mother give dash betray scene cradle leaf laugh health crop";
+var mnemonic = "assume ritual bicycle charge plastic pumpkin vault favorite law carbon crawl verify";

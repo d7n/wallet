@@ -1,1 +1,1 @@
-var mnemonic = "where car exhaust margin hard chunk shiver swap pet spice life quantum";
+var mnemonic = "base hour lizard elevator hire tool orbit quick team artefact vast ketchup";

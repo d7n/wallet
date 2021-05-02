@@ -1,1 +1,1 @@
-var mnemonic = "march only cover dog either genuine glare glow cotton cushion gadget paper";
+var mnemonic = "steak fly advance busy empower lyrics seminar replace more fire garment hint";

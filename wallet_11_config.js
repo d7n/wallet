@@ -1,1 +1,1 @@
-var mnemonic = "power truth cupboard flush crawl grief stage truly neck device genre video";
+var mnemonic = "cannon impose rebel warm immune shift enrich scale card asthma glance they";

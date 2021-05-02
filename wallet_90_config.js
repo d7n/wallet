@@ -1,1 +1,1 @@
-var mnemonic = "acoustic owner bone zoo glide wagon tool ugly all tool pyramid impulse";
+var mnemonic = "toddler beauty clinic dose ahead abandon plunge sound glue twist tomato web";

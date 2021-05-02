@@ -1,1 +1,1 @@
-var mnemonic = "february fatigue actual lemon dismiss fox sand pupil arrange price game advice";
+var mnemonic = "anchor pig genius pet tunnel trim size proof century swing defense hero";

@@ -1,1 +1,1 @@
-var mnemonic = "echo sauce nice dismiss asset flush learn earth because main tail trouble";
+var mnemonic = "require truly search guilt spice sword depend term nurse margin kidney impulse";

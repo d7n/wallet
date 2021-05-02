@@ -1,1 +1,1 @@
-var mnemonic = "monkey anchor spatial assault drum coach razor remind solar until merry calm";
+var mnemonic = "bubble vanish south pudding nut onion harbor caught modify economy breeze thing";

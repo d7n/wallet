@@ -1,1 +1,1 @@
-var mnemonic = "alarm mandate hockey very syrup slight shadow broom rabbit subject evil snake";
+var mnemonic = "security six sing mesh basic oak wide pride attend jeans horror jazz";

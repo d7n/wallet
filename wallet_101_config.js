@@ -1,1 +1,1 @@
-var mnemonic = "prize resource dial unaware lunch evolve spoil brown clean flush derive water";
+var mnemonic = "caution bacon garbage outer melt park merry lake tornado vivid lottery step";

@@ -1,1 +1,1 @@
-var mnemonic = "slam infant surprise keen leg tissue silk state light cage opinion transfer";
+var mnemonic = "flight prepare sunny amount bulb syrup drum main defy toss eight rely";

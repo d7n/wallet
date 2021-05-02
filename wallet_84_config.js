@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow response spoil gorilla system lunar first subway dutch witness kiwi pottery";
+var mnemonic = "antenna novel size antique connect brown help kidney leopard special gather pig";

@@ -1,1 +1,1 @@
-var mnemonic = "math session dutch cradle crawl always regular thank member trend virtual entry";
+var mnemonic = "lava deer hair debris easy twist entry arrange elbow prevent tomorrow response";

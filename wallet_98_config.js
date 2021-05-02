@@ -1,1 +1,1 @@
-var mnemonic = "private hint cause route together monitor list style few baby math detail";
+var mnemonic = "vote throw wash true equal comfort theme rather process pledge cover fish";

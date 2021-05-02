@@ -1,1 +1,1 @@
-var mnemonic = "blanket group item input web tattoo label engage love teach deliver mechanic";
+var mnemonic = "together advance exact soon green chaos shed tell report gain today sock";

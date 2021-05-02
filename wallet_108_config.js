@@ -1,1 +1,1 @@
-var mnemonic = "wall merit float dish manual dolphin ride ice turtle buyer merry label";
+var mnemonic = "inherit bronze accuse vacant expire connect under payment wheat upper rain about";

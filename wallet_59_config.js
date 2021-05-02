@@ -1,1 +1,1 @@
-var mnemonic = "dash street mesh diet deputy color place invest bounce drink whisper silly";
+var mnemonic = "outer denial calm desk grace evoke pioneer scare wolf jungle abstract toy";

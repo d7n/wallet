@@ -1,1 +1,1 @@
-var mnemonic = "staff leg truth refuse cigar couple orchard letter zero buddy modify face";
+var mnemonic = "permit message simple tilt fix loud swift idle finger planet forum mass";

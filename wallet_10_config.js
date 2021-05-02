@@ -1,1 +1,1 @@
-var mnemonic = "close program gauge dragon blame file cheap token good loud hire split";
+var mnemonic = "time dwarf cage dolphin energy grain strong lucky someone aware fluid slim";

@@ -1,1 +1,1 @@
-var mnemonic = "pig seat expect loyal grace basic velvet frog already tackle junk broccoli";
+var mnemonic = "wrestle knock west usual shock tag lion knee garbage depart aunt office";

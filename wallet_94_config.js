@@ -1,1 +1,1 @@
-var mnemonic = "father latin problem occur problem social burden early quiz goat night rely";
+var mnemonic = "hockey another wool chaos more merry discover harsh exercise tent artist path";

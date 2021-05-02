@@ -1,1 +1,1 @@
-var mnemonic = "inject theme barrel orient bubble mean tail rally diamond mercy success weapon";
+var mnemonic = "strong hockey juice curtain taste proud jelly much plug size coast identify";

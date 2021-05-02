@@ -1,1 +1,1 @@
-var mnemonic = "trick assault old point repair emotion crush tomorrow shiver various tribe length";
+var mnemonic = "charge clog arch tourist tunnel step pencil pink quiz pull reform false";

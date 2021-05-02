@@ -1,1 +1,1 @@
-var mnemonic = "error abuse source garage deny share shop purse use solution swim they";
+var mnemonic = "parrot chimney kid gold choose shrimp hand surround sick very bean throw";

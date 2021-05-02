@@ -1,1 +1,1 @@
-var mnemonic = "like miracle brisk slow try staff flock budget dynamic ozone future cupboard";
+var mnemonic = "cruel spice coyote atom fault dumb crash short skill barely provide pupil";

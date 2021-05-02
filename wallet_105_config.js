@@ -1,1 +1,1 @@
-var mnemonic = "clean plug model kidney bag harbor limit liar discover forget bullet wire";
+var mnemonic = "avocado test front path number furnace submit soup give melt push photo";

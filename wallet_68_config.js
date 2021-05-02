@@ -1,1 +1,1 @@
-var mnemonic = "hundred garment warrior cram bottom gain normal also delay picnic tail afraid";
+var mnemonic = "close rookie twelve year response twist lift decline parrot wedding search display";

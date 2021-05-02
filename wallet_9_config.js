@@ -1,1 +1,1 @@
-var mnemonic = "exotic woman dentist flash property search above trigger lecture obey knee pink";
+var mnemonic = "together heart naive south goddess easily round day ignore spin minimum observe";

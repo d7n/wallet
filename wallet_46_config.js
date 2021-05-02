@@ -1,1 +1,1 @@
-var mnemonic = "nurse donate disorder total menu gravity stumble float antique grunt captain vacuum";
+var mnemonic = "angle scrap egg vehicle endless borrow exhaust extra protect garage craft alarm";

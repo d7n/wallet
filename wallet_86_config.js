@@ -1,1 +1,1 @@
-var mnemonic = "license critic panther muscle strategy choose detect social crazy injury talk aunt";
+var mnemonic = "sand nation kitten change visit era net hotel tunnel quantum fatigue tribe";

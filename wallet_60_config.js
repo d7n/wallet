@@ -1,1 +1,1 @@
-var mnemonic = "can two mansion ketchup flower huge wild patrol athlete unique tribe category";
+var mnemonic = "chuckle either boss antenna wing enhance pistol also regular mystery topic confirm";

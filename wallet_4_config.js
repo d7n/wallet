@@ -1,1 +1,1 @@
-var mnemonic = "pact whale harsh tomato remain ride prevent divert best sketch obscure foster";
+var mnemonic = "cube ozone gain enjoy sphere two question spirit soap recipe ankle bike";

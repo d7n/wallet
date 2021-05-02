@@ -1,1 +1,1 @@
-var mnemonic = "grant debate maximum paper diamond enhance level badge dizzy romance cabbage conduct";
+var mnemonic = "valley blur scheme open infant canyon gather sudden vivid mesh inspire invite";

@@ -1,1 +1,1 @@
-var mnemonic = "two range unveil problem window measure naive fatigue junk fan obscure year";
+var mnemonic = "huge gloom morning step can finger august tuition rice lumber nephew body";

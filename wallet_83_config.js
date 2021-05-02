@@ -1,1 +1,1 @@
-var mnemonic = "define satisfy fox tourist remember trick error speed unique horse journey nose";
+var mnemonic = "brand page burger elegant feed hold clerk loud wear dolphin trumpet sword";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune side weasel because agent stool collect bicycle echo payment bread chase";
+var mnemonic = "window napkin oven theory pupil entire shoe because poet area coyote select";

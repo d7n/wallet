@@ -1,1 +1,1 @@
-var mnemonic = "muffin concert aunt drink manual ethics brand mail inherit march alien coin";
+var mnemonic = "eternal elite lion bring afraid photo danger rose stay skirt monitor admit";

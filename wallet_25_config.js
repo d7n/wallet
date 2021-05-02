@@ -1,1 +1,1 @@
-var mnemonic = "iron eagle evil receive yard sure answer news shrug chat cage wasp";
+var mnemonic = "betray stock wreck matrix local grunt humor fluid remember donor pizza ozone";

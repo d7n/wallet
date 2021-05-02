@@ -1,1 +1,1 @@
-var mnemonic = "screen quality drink toss target provide royal seed grit fame story spoil";
+var mnemonic = "shallow mouse panel little pill grunt unlock congress cup miss slow roast";

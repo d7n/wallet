@@ -1,1 +1,1 @@
-var mnemonic = "world explain method speak bachelor feel frequent govern stand dumb cause bus";
+var mnemonic = "solve rabbit improve supply all stove stool mask exit neglect leisure sort";

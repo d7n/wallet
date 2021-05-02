@@ -1,1 +1,1 @@
-var mnemonic = "zone level inspire road bonus ocean left dose coin memory steel brain";
+var mnemonic = "quarter napkin knife word melt gift april ahead glove call know bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "omit force muffin very heart deputy damage cherry next marine pitch industry";
+var mnemonic = "describe helmet february weasel ghost syrup goose fury fall task drill ginger";

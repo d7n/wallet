@@ -1,1 +1,1 @@
-var mnemonic = "expand brush inform denial deposit gold color cook mistake rabbit slab catalog";
+var mnemonic = "grid dish helmet warfare fragile speed fetch breeze various exclude shed real";

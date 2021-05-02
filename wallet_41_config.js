@@ -1,1 +1,1 @@
-var mnemonic = "sport carry review reject skull dry decline onion topple trap digital trigger";
+var mnemonic = "cute regret bridge lobster begin number voyage cannon steak tape goddess hurry";

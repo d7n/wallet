@@ -1,1 +1,1 @@
-var mnemonic = "soldier live remember gather huge celery witness shield plug try current neutral";
+var mnemonic = "magnet repeat wood candy goose movie pride rotate leaf swap fragile taxi";

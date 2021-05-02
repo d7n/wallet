@@ -1,1 +1,1 @@
-var mnemonic = "burst intact like dragon chapter convince globe cousin dial situate into doll";
+var mnemonic = "quarter library toy warfare label biology debris group siege isolate boost grain";

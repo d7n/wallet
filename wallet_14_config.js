@@ -1,1 +1,1 @@
-var mnemonic = "suspect carbon once naive seven canyon snap bulk deny record ability dolphin";
+var mnemonic = "climb proof silent blush verify burger funny orient match scissors ask always";

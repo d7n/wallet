@@ -1,1 +1,1 @@
-var mnemonic = "theory siren pluck infant proud cry knock shuffle surge skull second okay";
+var mnemonic = "slim episode match resist pelican toddler urge stamp biology woman grunt express";

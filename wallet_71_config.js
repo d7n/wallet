@@ -1,1 +1,1 @@
-var mnemonic = "matrix rough loud dwarf wet split curtain fit cat conduct assume process";
+var mnemonic = "endless license ticket actress chapter romance aim wreck real mix target tragic";

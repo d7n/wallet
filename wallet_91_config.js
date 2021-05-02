@@ -1,1 +1,1 @@
-var mnemonic = "public fatigue brass friend concert involve devote address park inquiry garage advance";
+var mnemonic = "slab juice media canal ramp crazy flash foot alter addict table champion";

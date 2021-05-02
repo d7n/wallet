@@ -1,1 +1,1 @@
-var mnemonic = "cactus nasty steel end heart bless siege enlist december elite feed foil";
+var mnemonic = "favorite glide empty member clever suggest museum main liquid dash toward flight";

@@ -1,1 +1,1 @@
-var mnemonic = "round wood sun cliff symptom equal radar mandate soup clump rubber good";
+var mnemonic = "erase marine supreme tell ship virus gift gym dignity emerge adapt whip";

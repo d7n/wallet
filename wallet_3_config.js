@@ -1,1 +1,1 @@
-var mnemonic = "beauty canvas use nurse crew unveil laptop raccoon repair anxiety youth jelly";
+var mnemonic = "marble book oyster plastic cancel truck weasel session media infant lyrics jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "moment lawsuit lake forest valley swear display calm cinnamon burst become hotel";
+var mnemonic = "stand nest bright assault expand police resist invest response expire banana document";

@@ -1,1 +1,1 @@
-var mnemonic = "crawl same used ill cover scissors garbage captain mesh estate rough impose";
+var mnemonic = "topple sell glance fade mystery convince nut scrub piece success nice trust";

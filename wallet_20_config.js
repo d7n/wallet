@@ -1,1 +1,1 @@
-var mnemonic = "guess render useful simple draw park wrist picnic motion second student idea";
+var mnemonic = "angry survey need patient feed decrease pledge ghost elephant moment smart thrive";

@@ -1,1 +1,1 @@
-var mnemonic = "one maid stumble kid once region fit motion obscure exhaust vocal slim";
+var mnemonic = "riot stable sell hole world prosper rib book guitar blanket mimic expect";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle script law reflect cousin rescue carpet galaxy area play milk where";
+var mnemonic = "broccoli gorilla solution mixed dilemma addict quantum own cancel captain table hollow";

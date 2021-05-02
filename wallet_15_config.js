@@ -1,1 +1,1 @@
-var mnemonic = "rhythm clump grant output shoe promote produce nominee prosper denial vendor replace";
+var mnemonic = "expire scout peanut click cabin lava fortune ivory since manage comfort habit";

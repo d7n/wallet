@@ -1,1 +1,1 @@
-var mnemonic = "rely magnet cart april grape yellow aerobic notice empty program flavor main";
+var mnemonic = "coconut jar slim napkin aspect endless pond window penalty myself cart engine";

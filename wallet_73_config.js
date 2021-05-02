@@ -1,1 +1,1 @@
-var mnemonic = "quit tuition bacon water zebra govern risk great bounce fragile enlist explain";
+var mnemonic = "jar amount enough walk about milk grass wedding family iron acquire payment";

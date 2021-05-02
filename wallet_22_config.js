@@ -1,1 +1,1 @@
-var mnemonic = "habit flip matrix fiction time bomb thunder vague shoot purity polar subway";
+var mnemonic = "then glad reason memory kiss robust until glass online acquire ginger cat";

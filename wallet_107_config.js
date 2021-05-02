@@ -1,1 +1,1 @@
-var mnemonic = "school achieve service govern turn slush frost myself attitude outer brother drink";
+var mnemonic = "uncle install grunt output throw drip tip bacon original minute forest web";

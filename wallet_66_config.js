@@ -1,1 +1,1 @@
-var mnemonic = "involve allow obscure asthma slogan jewel legend hurry betray clump chalk hub";
+var mnemonic = "maid dry police oil slogan utility cross isolate soda fun neck able";

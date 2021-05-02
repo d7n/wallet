@@ -1,1 +1,1 @@
-var mnemonic = "pause science actor depend begin maple elephant hold bus torch grid suggest";
+var mnemonic = "project upper friend never urge green dose illness hurry scrap firm genre";

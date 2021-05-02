@@ -1,1 +1,1 @@
-var mnemonic = "sudden version couch badge unit wrap hawk turtle unknown theme mixture beauty";
+var mnemonic = "heart around fine enhance anxiety crumble junior vibrant oval glimpse rotate goat";

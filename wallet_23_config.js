@@ -1,1 +1,1 @@
-var mnemonic = "lottery exist text object avocado earth swap undo suggest bike now behave";
+var mnemonic = "crowd inch target ill screen wish veteran brisk robust rifle expire umbrella";
