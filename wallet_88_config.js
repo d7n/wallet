@@ -1,1 +1,1 @@
-var mnemonic = "cherry bounce elder oil pumpkin soon artist season erase patrol van ribbon";
+var mnemonic = "scan antique since forum police awful life cement job model wagon solar";

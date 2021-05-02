@@ -1,1 +1,1 @@
-var mnemonic = "intact camp oval bounce pig family like water april sing mention horn";
+var mnemonic = "indicate lucky deer either uniform palm keen junk shine raven vocal smile";

@@ -1,1 +1,1 @@
-var mnemonic = "shoulder donor zone hand chicken gown cross worry cute body way deny";
+var mnemonic = "blame erupt utility kingdom settle myth under bird fade retire slice drip";

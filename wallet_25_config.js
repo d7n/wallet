@@ -1,1 +1,1 @@
-var mnemonic = "region fuel street master illegal height day auto they shrimp torch license";
+var mnemonic = "advance assume duck resemble dismiss grace truck car limb nose bubble dash";

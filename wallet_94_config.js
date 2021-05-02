@@ -1,1 +1,1 @@
-var mnemonic = "pear shoulder plug embark deny invest laundry good charge reunion gadget post";
+var mnemonic = "wear february lock song ordinary lounge equip primary goddess grunt deliver burden";

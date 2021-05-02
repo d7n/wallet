@@ -1,1 +1,1 @@
-var mnemonic = "pistol system permit case marble pony wagon boss mushroom reunion beauty vault";
+var mnemonic = "job cluster february soon brown roof lend camera valley mesh desk still";

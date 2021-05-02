@@ -1,1 +1,1 @@
-var mnemonic = "pepper you give nest circle original screen loan filter this present exotic";
+var mnemonic = "famous asthma soon figure elite crack fossil outside meat anxiety guilt summer";

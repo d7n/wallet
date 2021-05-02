@@ -1,1 +1,1 @@
-var mnemonic = "gentle damp caution tide roof orient luxury crouch link quick dizzy video";
+var mnemonic = "trap easily jeans depend broom melt potato body weekend double punch employ";

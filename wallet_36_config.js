@@ -1,1 +1,1 @@
-var mnemonic = "floor syrup village quick fee fold then chase seat brick promote onion";
+var mnemonic = "abuse doll river work water fatal endless capital multiply crane still differ";

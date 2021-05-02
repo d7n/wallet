@@ -1,1 +1,1 @@
-var mnemonic = "fruit throw shoot summer wisdom recycle tornado nation acoustic rebuild match flag";
+var mnemonic = "shoot scorpion gentle certain solar merit fit ignore pony antenna cube fatigue";

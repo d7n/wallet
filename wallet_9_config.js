@@ -1,1 +1,1 @@
-var mnemonic = "tenant between enough rich style alcohol wide fresh client slab mercy skull";
+var mnemonic = "online find rapid catch brush news relief quarter expire quantum sheriff action";

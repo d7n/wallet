@@ -1,1 +1,1 @@
-var mnemonic = "report cotton inmate derive grace rose bus obey dial tool dragon artefact";
+var mnemonic = "curious female nuclear letter eagle test wrist mansion cruel weekend school rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "view blur humble open solve urban october help day stereo later river";
+var mnemonic = "couch chunk invest pepper bleak gentle once sleep popular excuse mesh prevent";

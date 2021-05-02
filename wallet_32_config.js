@@ -1,1 +1,1 @@
-var mnemonic = "hole destroy host chief renew repeat output tube next knee bubble panda";
+var mnemonic = "rotate praise omit cabin word owner artefact fame wife column coyote story";

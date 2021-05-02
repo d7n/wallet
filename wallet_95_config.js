@@ -1,1 +1,1 @@
-var mnemonic = "dust mother teach harvest luggage aspect old possible episode essence diary zero";
+var mnemonic = "siege myself broken when viable dog snake gospel robot jealous return polar";

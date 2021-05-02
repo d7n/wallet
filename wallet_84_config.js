@@ -1,1 +1,1 @@
-var mnemonic = "shed tide accident oven ankle spider image deputy stamp piano cattle tree";
+var mnemonic = "stick silk jelly damp grunt oblige draw diamond item cannon object pass";

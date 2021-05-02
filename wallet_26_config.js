@@ -1,1 +1,1 @@
-var mnemonic = "mesh oven ring purchase banner term fatal seat law indicate clarify tell";
+var mnemonic = "arm merit crisp ten behave crash nose control once dismiss secret tuition";

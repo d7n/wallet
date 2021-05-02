@@ -1,1 +1,1 @@
-var mnemonic = "hobby bundle impact recycle write reform rapid monster head victory manage camp";
+var mnemonic = "mouse divorce castle walk essay spirit payment boy purpose escape once blur";

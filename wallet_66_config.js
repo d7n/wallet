@@ -1,1 +1,1 @@
-var mnemonic = "elbow stem label museum tower depend click ordinary merit unknown similar hockey";
+var mnemonic = "swing board elephant current tilt oval frame motion hire chair exclude choose";

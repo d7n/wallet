@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur scorpion find mule tortoise ten coin find kiss sound reward casino";
+var mnemonic = "settle wrestle grief custom cool luxury gap arrive raw trigger need appear";

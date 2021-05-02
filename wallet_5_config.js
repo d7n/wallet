@@ -1,1 +1,1 @@
-var mnemonic = "drastic beef grunt ozone road animal domain card spoon balcony park audit";
+var mnemonic = "auto betray cliff oppose before squeeze stove casino similar logic hungry draft";

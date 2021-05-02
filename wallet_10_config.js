@@ -1,1 +1,1 @@
-var mnemonic = "tragic thunder couch reform skirt elder code wet disorder strong desk loud";
+var mnemonic = "lady slush flee route cargo load link kiss undo stereo gasp sleep";

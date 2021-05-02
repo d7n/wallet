@@ -1,1 +1,1 @@
-var mnemonic = "ribbon treat theme theme rookie badge seed long talent dose juice uncle";
+var mnemonic = "neglect body slow cube duty emotion present inquiry emerge term oil place";

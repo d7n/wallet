@@ -1,1 +1,1 @@
-var mnemonic = "wink bundle hawk picture gospel slogan bamboo wonder blade foil rule volume";
+var mnemonic = "venture fantasy man raven snack resemble dynamic enlist prevent issue bachelor gallery";

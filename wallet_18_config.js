@@ -1,1 +1,1 @@
-var mnemonic = "category meadow actor palm craft genius surge broom unique diary dinner ice";
+var mnemonic = "harsh gym depend discover rent reform goat during wild pupil atom caught";

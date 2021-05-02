@@ -1,1 +1,1 @@
-var mnemonic = "aim sight wash mention tube trade jump cheap best range arrange rather";
+var mnemonic = "riot door narrow thing bulb planet october able olympic crazy ghost tide";

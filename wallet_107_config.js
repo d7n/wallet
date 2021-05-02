@@ -1,1 +1,1 @@
-var mnemonic = "bachelor chapter now ordinary amateur law regret mountain cereal neither drama ghost";
+var mnemonic = "improve lady height notice sheriff style shrimp exhaust vicious forest cook wood";

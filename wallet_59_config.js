@@ -1,1 +1,1 @@
-var mnemonic = "lawn opera piano rookie toward weasel predict hint step olympic light garbage";
+var mnemonic = "wheat oval melody oil acquire team winter output elite original ensure boost";

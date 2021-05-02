@@ -1,1 +1,1 @@
-var mnemonic = "echo cannon task wheat muscle pipe again vocal orange there cement exit";
+var mnemonic = "pig regret mail situate kiss enemy horn suspect reason admit seek foam";

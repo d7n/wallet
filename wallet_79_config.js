@@ -1,1 +1,1 @@
-var mnemonic = "sand soup absorb grab primary tissue circle captain hour gown expand lawn";
+var mnemonic = "copper wait never eager clap above sight baby frequent symptom grow bamboo";

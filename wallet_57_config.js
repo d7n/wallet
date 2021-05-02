@@ -1,1 +1,1 @@
-var mnemonic = "quality sauce pencil phrase medal coconut slice jungle quit limb oxygen three";
+var mnemonic = "twelve library tube garlic village onion seven crisp soul tent harvest chair";

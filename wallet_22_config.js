@@ -1,1 +1,1 @@
-var mnemonic = "pulse throw energy night foam erase average hint laugh rescue mansion theory";
+var mnemonic = "sadness manual copper mask animal venture image kidney safe amused abstract lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "palace mean remember noble camp sponsor muffin ripple media hungry ceiling embody";
+var mnemonic = "glow tip cancel maximum police sadness mobile alone exclude hub people economy";

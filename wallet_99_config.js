@@ -1,1 +1,1 @@
-var mnemonic = "ten net blue immense exotic enroll drastic beach liquid rubber penalty wash";
+var mnemonic = "erase provide decide behave senior honey family spawn reflect cart town budget";

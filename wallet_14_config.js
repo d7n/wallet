@@ -1,1 +1,1 @@
-var mnemonic = "prevent effort you pigeon vault limb car ahead dumb hope flash army";
+var mnemonic = "donor hazard initial twelve fold wall crisp bracket move announce sun drill";

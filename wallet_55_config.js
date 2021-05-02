@@ -1,1 +1,1 @@
-var mnemonic = "gun coffee blush recycle initial ring answer supply kiss kind spend onion";
+var mnemonic = "habit brisk hint predict fitness truth reject fence general wheel dice day";

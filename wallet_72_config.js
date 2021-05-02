@@ -1,1 +1,1 @@
-var mnemonic = "tired imitate milk neutral wise point museum curve bus iron away bronze";
+var mnemonic = "fly brother naive hint charge shallow cloth coil picture case coach cave";

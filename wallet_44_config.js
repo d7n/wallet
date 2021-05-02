@@ -1,1 +1,1 @@
-var mnemonic = "together chest aspect bike harsh multiply know boat pole organ length banner";
+var mnemonic = "surge torch key laundry become leaf mad figure apology comic come abandon";

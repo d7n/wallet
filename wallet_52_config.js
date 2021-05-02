@@ -1,1 +1,1 @@
-var mnemonic = "demand snake silver poet skin silly market lottery sketch polar outer promote";
+var mnemonic = "carry neither total paper accident sand sock time govern misery earth dove";

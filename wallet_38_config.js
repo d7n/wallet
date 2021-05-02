@@ -1,1 +1,1 @@
-var mnemonic = "sphere index laugh skill fat image recall pride permit unveil egg express";
+var mnemonic = "luggage belt final source drive diet pudding primary height trash record account";

@@ -1,1 +1,1 @@
-var mnemonic = "receive remove work current minor captain history label enhance resist sign crumble";
+var mnemonic = "giraffe bonus slender ordinary harsh floor olive again second music pioneer define";

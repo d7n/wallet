@@ -1,1 +1,1 @@
-var mnemonic = "gas old liberty notable yard end flight window city bacon arm glass";
+var mnemonic = "orient copper slice change canvas impact wrist grow hard eyebrow nephew burger";

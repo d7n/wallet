@@ -1,1 +1,1 @@
-var mnemonic = "chef answer matrix debris orange total casual potato video soup private faculty";
+var mnemonic = "beauty manual exhibit capable city arctic dumb list tackle similar plate crack";

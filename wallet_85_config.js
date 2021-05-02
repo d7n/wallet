@@ -1,1 +1,1 @@
-var mnemonic = "cave scheme butter citizen usual icon oak print guide claw increase large";
+var mnemonic = "buddy insect neither giraffe truly april exist learn romance dizzy minor target";

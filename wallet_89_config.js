@@ -1,1 +1,1 @@
-var mnemonic = "wealth together mechanic mobile sauce virus proud gas refuse reward idle birth";
+var mnemonic = "drama thumb stool seed jungle ahead eternal layer spin citizen mixed neck";

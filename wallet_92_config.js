@@ -1,1 +1,1 @@
-var mnemonic = "mistake winter deer vote design able label farm wagon trend october pair";
+var mnemonic = "proof apart trouble flame forest behave night spot carry final imitate month";

@@ -1,1 +1,1 @@
-var mnemonic = "calm lens few same trouble approve together message shuffle kidney dumb noodle";
+var mnemonic = "away column hen gown favorite company media motor fatal flame result quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm fatigue fragile small buzz west fly head embark require alert invest";
+var mnemonic = "inject joy stem panel height reject elevator indicate vivid blouse spy cheese";

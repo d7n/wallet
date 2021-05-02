@@ -1,1 +1,1 @@
-var mnemonic = "devote early talent path finish inhale burden intact idle screen region filter";
+var mnemonic = "man tornado stereo zone cargo foot news frost animal either desert bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "use region float upon purse resemble bless can another cute section eternal";
+var mnemonic = "produce hospital clip attend infant hat recall choose oppose claim party number";

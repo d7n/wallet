@@ -1,1 +1,1 @@
-var mnemonic = "black twenty evolve bind prevent burst adapt when concert cost street choice";
+var mnemonic = "morning category perfect source suffer skate future armed carry obvious project ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome upon super loud relax ginger shiver fiscal abandon negative again twenty";
+var mnemonic = "echo perfect myth skate casual hidden category civil order inherit normal core";

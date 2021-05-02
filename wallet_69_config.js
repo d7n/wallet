@@ -1,1 +1,1 @@
-var mnemonic = "orphan potato level merry report buzz adjust quality then major brave light";
+var mnemonic = "awake rough march wild during cream rhythm refuse scorpion sand evidence fruit";

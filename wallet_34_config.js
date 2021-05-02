@@ -1,1 +1,1 @@
-var mnemonic = "ivory clay million segment leaf garment awkward moon rack evolve melt lesson";
+var mnemonic = "eight later hundred school tumble cricket blast patrol insane before matrix fence";

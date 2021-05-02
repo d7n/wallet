@@ -1,1 +1,1 @@
-var mnemonic = "genre exercise dice crucial gorilla famous doll insect bunker ill bus require";
+var mnemonic = "rifle food shine weather action cereal clean drift mutual wrestle sponsor region";

@@ -1,1 +1,1 @@
-var mnemonic = "glance main bargain camp churn lawn forward cinnamon seven crawl gadget enrich";
+var mnemonic = "foster flash lock smile anxiety country update soul loan sponsor issue change";

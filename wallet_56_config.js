@@ -1,1 +1,1 @@
-var mnemonic = "eagle ramp popular village time century ancient census loyal chuckle canvas ritual";
+var mnemonic = "size drive rookie usage sting earth until slice step bronze balance unaware";

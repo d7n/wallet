@@ -1,1 +1,1 @@
-var mnemonic = "truth trumpet blast economy verify deer want possible unlock fork concert clutch";
+var mnemonic = "connect marine craft flash name security toe panda scatter shove badge doctor";

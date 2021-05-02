@@ -1,1 +1,1 @@
-var mnemonic = "coast swallow insect frequent rebuild size winner item imitate album trust beef";
+var mnemonic = "miss gloom total collect often grace hill wash impulse minor capital first";

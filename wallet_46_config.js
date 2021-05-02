@@ -1,1 +1,1 @@
-var mnemonic = "fossil thumb cheap matter sea save urge liquid city champion relax gas";
+var mnemonic = "camera uncle galaxy buyer federal vicious primary loud wife right text sad";

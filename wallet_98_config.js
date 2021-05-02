@@ -1,1 +1,1 @@
-var mnemonic = "canal clap best faith cereal sunny come defy catch depart abandon inherit";
+var mnemonic = "measure deal garment omit water armor acid betray mean appear armed method";

@@ -1,1 +1,1 @@
-var mnemonic = "arena book inspire forest tomorrow struggle supply fox clump nephew sad slot";
+var mnemonic = "usual vapor wheel tube maid jar night year turkey sugar mimic two";

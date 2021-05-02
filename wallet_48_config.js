@@ -1,1 +1,1 @@
-var mnemonic = "truck punch soul bracket raven table educate hybrid refuse bread guilt float";
+var mnemonic = "nest speed logic similar latin rapid salad leisure patrol across puzzle output";

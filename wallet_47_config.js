@@ -1,1 +1,1 @@
-var mnemonic = "teach reject dinosaur sibling alcohol slow science swallow salt hundred zoo tip";
+var mnemonic = "horse edge special violin bamboo fish office engine short unfold next install";

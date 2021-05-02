@@ -1,1 +1,1 @@
-var mnemonic = "sentence throw frown wife ripple between corn cannon silver orbit chronic current";
+var mnemonic = "space swallow sphere seven gorilla forget hand denial smooth electric vessel taxi";

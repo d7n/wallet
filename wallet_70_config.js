@@ -1,1 +1,1 @@
-var mnemonic = "visit cruel spin gaze accuse next uphold round engine offer fresh still";
+var mnemonic = "fancy animal rare wedding pyramid move puppy sunset pet segment damp useful";

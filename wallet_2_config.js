@@ -1,1 +1,1 @@
-var mnemonic = "original box swap away nest guide breeze rack awful poverty walnut vote";
+var mnemonic = "coast pen situate nephew family embody shaft faint garage pepper picnic author";

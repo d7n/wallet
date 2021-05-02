@@ -1,1 +1,1 @@
-var mnemonic = "empower witness material slight enter gap joke junk raw apple about month";
+var mnemonic = "post slight income melody reduce sand cross fluid timber unfair effort run";

@@ -1,1 +1,1 @@
-var mnemonic = "believe label proof agent retreat mule spin narrow profit flag smile confirm";
+var mnemonic = "sibling limit hockey glimpse art hill used prosper verb whale truck ring";

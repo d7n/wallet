@@ -1,1 +1,1 @@
-var mnemonic = "answer drop baby eight hover clarify define whisper cruise ginger style humble";
+var mnemonic = "entire mention useless faint casual remember badge proof sell runway supreme senior";

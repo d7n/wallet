@@ -1,1 +1,1 @@
-var mnemonic = "intact priority smooth gesture craft genre mountain almost calm kidney walk panel";
+var mnemonic = "length tornado cradle erosion rocket rather ready daring cactus sense candy barely";

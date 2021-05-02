@@ -1,1 +1,1 @@
-var mnemonic = "embrace easily scout pledge witness seminar normal home kick grab expire castle";
+var mnemonic = "ill bone assist still cruel juice crater loan mom bread quality gossip";

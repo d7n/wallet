@@ -1,1 +1,1 @@
-var mnemonic = "truck issue verify bag banner permit hollow annual drop polar hello web";
+var mnemonic = "punch affair leopard helmet inside scatter baby silver vital endless tuition dentist";

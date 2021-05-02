@@ -1,1 +1,1 @@
-var mnemonic = "lamp athlete raise welcome spot fatigue dad unlock learn exchange track year";
+var mnemonic = "husband denial riot mandate boil involve bag gather season now resist buddy";

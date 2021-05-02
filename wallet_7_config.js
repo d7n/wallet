@@ -1,1 +1,1 @@
-var mnemonic = "quote wire magic estate autumn violin merry west guide purse purity benefit";
+var mnemonic = "carry lizard brick skin glory detail dish detail annual chuckle group certain";

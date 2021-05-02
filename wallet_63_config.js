@@ -1,1 +1,1 @@
-var mnemonic = "fabric skull bread nothing pigeon echo dove loyal cabbage equal hip dawn";
+var mnemonic = "demise favorite increase hand early soda cage gentle dismiss ask utility multiply";

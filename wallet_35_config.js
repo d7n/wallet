@@ -1,1 +1,1 @@
-var mnemonic = "tennis brand door current lesson replace today ancient wheel skin desert frame";
+var mnemonic = "tattoo luxury swap fault believe file solution legal ocean thing rude tennis";

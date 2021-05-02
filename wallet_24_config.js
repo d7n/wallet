@@ -1,1 +1,1 @@
-var mnemonic = "need pair used scissors photo frozen pass daughter child fault shrimp infant";
+var mnemonic = "core gym expire busy swallow soon boy electric three extra there tissue";

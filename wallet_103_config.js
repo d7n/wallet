@@ -1,1 +1,1 @@
-var mnemonic = "guide caution unhappy few tuna layer then bus acquire excuse glad require";
+var mnemonic = "apology inside family crumble bomb distance oppose wet alley lesson service join";

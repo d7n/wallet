@@ -1,1 +1,1 @@
-var mnemonic = "suffer position elbow dress twelve wrap include squirrel fat quantum myth final";
+var mnemonic = "change season cover venue useful kick badge south stamp sunny apart twice";

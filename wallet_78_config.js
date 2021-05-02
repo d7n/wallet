@@ -1,1 +1,1 @@
-var mnemonic = "service dose robust monitor model oil pave weird garment blouse logic few";
+var mnemonic = "chief punch sure clip hold evil portion critic oyster goose plug timber";

@@ -1,1 +1,1 @@
-var mnemonic = "afford bid holiday exercise antenna ramp belt giraffe chef retire suspect give";
+var mnemonic = "pen annual rib again copy usage input feel ripple network bronze ocean";

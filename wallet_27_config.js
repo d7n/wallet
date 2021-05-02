@@ -1,1 +1,1 @@
-var mnemonic = "nothing change raven agent subject royal wet potato mimic breeze wrong popular";
+var mnemonic = "venue champion sound simple frost away believe day submit august open fiction";

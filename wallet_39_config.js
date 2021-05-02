@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin phrase high basic approve owner rely put ostrich fossil door immune";
+var mnemonic = "inject almost bachelor behind caution alpha mask install unusual knock elevator shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur garment stick ketchup snake curve system jeans manage crash fortune popular";
+var mnemonic = "old hair patient trade hawk enrich inhale sudden hero road world father";

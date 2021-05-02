@@ -1,1 +1,1 @@
-var mnemonic = "setup worry that neglect all among guilt love bacon kitchen leave universe";
+var mnemonic = "stereo tilt riot bounce just only orbit cage slow decide job pony";

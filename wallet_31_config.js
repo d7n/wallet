@@ -1,1 +1,1 @@
-var mnemonic = "make yard camera window mushroom grief valid stadium oppose clip faculty congress";
+var mnemonic = "save dawn wash ring broken ecology practice moon swing cloth source plate";

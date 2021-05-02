@@ -1,1 +1,1 @@
-var mnemonic = "endless gesture amazing raven rate water discover camp indoor pattern vault exhibit";
+var mnemonic = "valve nest cash vanish rate amused physical blood record garbage human relief";

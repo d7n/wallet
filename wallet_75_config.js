@@ -1,1 +1,1 @@
-var mnemonic = "pear accuse pass text nominee library strike polar actual this fan cushion";
+var mnemonic = "initial shadow love taste silk pledge industry clown actor harbor protect slot";

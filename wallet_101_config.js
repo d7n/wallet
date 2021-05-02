@@ -1,1 +1,1 @@
-var mnemonic = "brass enemy tool key female hazard output result december lend cabin around";
+var mnemonic = "aerobic dismiss delay life pond pony useless young judge dash antique spring";
