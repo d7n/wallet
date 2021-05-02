@@ -1,1 +1,1 @@
-var mnemonic = "dinner agree collect practice earth siege health luggage town urban close apple";
+var mnemonic = "world smart syrup crazy trouble display weekend cushion owner pony virus gentle";

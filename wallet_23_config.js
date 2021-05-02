@@ -1,1 +1,1 @@
-var mnemonic = "rough profit rain common table apart cave display news depth negative picnic";
+var mnemonic = "cigar crowd detail develop hawk inner sphere mosquito series oyster cloud brisk";

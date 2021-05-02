@@ -1,1 +1,1 @@
-var mnemonic = "orchard afford domain flame dream ankle define dutch glory ill bundle world";
+var mnemonic = "jungle pony wage hurt fat robot column cabin certain glow mushroom good";

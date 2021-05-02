@@ -1,1 +1,1 @@
-var mnemonic = "seat siren dentist item round repeat wheat fatal tattoo retreat gap skull";
+var mnemonic = "depend donkey actor leader helmet result abuse strong lab ankle same ginger";

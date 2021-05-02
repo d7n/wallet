@@ -1,1 +1,1 @@
-var mnemonic = "hat feed intact tackle vicious decrease honey air dolphin chalk document chair";
+var mnemonic = "post now river inquiry double improve piece always math spirit pulse document";

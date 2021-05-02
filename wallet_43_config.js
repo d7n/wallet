@@ -1,1 +1,1 @@
-var mnemonic = "year guitar only tornado detect gaze solid blush exact cheese salad acquire";
+var mnemonic = "label prosper true random desk mercy swap defense normal again three donkey";

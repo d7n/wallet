@@ -1,1 +1,1 @@
-var mnemonic = "brisk symbol find luggage match height glue icon neglect can garden current";
+var mnemonic = "actress fine omit mind almost skirt urban perfect plunge example spring salute";

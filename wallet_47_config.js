@@ -1,1 +1,1 @@
-var mnemonic = "bread produce they guess warfare object ocean attract about town view mobile";
+var mnemonic = "turkey mass life buffalo curtain slush morning anger genre olympic violin wet";

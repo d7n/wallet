@@ -1,1 +1,1 @@
-var mnemonic = "try lift pluck recipe multiply lab mystery barely drift curious gravity twist";
+var mnemonic = "exotic marble exercise diary away dynamic jar girl real mom learn switch";

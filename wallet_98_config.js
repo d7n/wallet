@@ -1,1 +1,1 @@
-var mnemonic = "mystery finger mass prepare boat village wall unhappy merit order image faint";
+var mnemonic = "clump scrub notable session absorb dawn zoo pattern casino fog come answer";

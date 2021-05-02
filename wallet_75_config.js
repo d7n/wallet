@@ -1,1 +1,1 @@
-var mnemonic = "brick trim avocado spare quantum wool senior breeze enough toast rain excite";
+var mnemonic = "speed amateur syrup subway appear achieve merry purpose odor special ready walk";

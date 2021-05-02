@@ -1,1 +1,1 @@
-var mnemonic = "tornado legend green item leader exist borrow ramp inhale bachelor thing blossom";
+var mnemonic = "move imitate lion plastic gain case choice treat cherry doll gate gauge";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse bag lounge that visual sword collect timber lesson wire segment energy";
+var mnemonic = "report chair calm devote fever combine warm original about library post radio";

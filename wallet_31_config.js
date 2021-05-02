@@ -1,1 +1,1 @@
-var mnemonic = "decorate nest tornado ability permit junior reward plastic legal flag level despair";
+var mnemonic = "exile debris mango brown sugar retire jungle ensure bench pole aware release";

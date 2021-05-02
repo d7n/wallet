@@ -1,1 +1,1 @@
-var mnemonic = "else type sorry zone feel drop index intact pizza enough elder clock";
+var mnemonic = "eight castle submit super coil wink gorilla response holiday human kid shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "relief scare air roof unable voice endless edge tobacco tackle twist faint";
+var mnemonic = "exhaust manual ocean noodle hole magic bottom lunar cancel hand surround labor";

@@ -1,1 +1,1 @@
-var mnemonic = "trend duty tissue segment fragile deal across version popular choice soul domain";
+var mnemonic = "return buzz trumpet toilet message dust silent soul arch animal visit idle";

@@ -1,1 +1,1 @@
-var mnemonic = "bar guide win busy legal romance cargo skull affair plunge hint employ";
+var mnemonic = "above oil execute emotion panic donkey fix pear fat style panel leg";

@@ -1,1 +1,1 @@
-var mnemonic = "father surge remove lucky witness such amateur monkey only search festival will";
+var mnemonic = "impulse ice vanish couch still bamboo husband diet velvet chapter step hover";

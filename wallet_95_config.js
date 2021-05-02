@@ -1,1 +1,1 @@
-var mnemonic = "window firm drastic spike kid close wrong finish doctor marriage piece budget";
+var mnemonic = "bench twenty couch expect flag round custom grant digital upgrade coconut allow";

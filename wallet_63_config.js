@@ -1,1 +1,1 @@
-var mnemonic = "question leave aisle people soap nose traffic describe card damp author language";
+var mnemonic = "spring hat nice fringe control chunk three glory flush enlist grain daring";

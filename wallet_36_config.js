@@ -1,1 +1,1 @@
-var mnemonic = "between copper educate this grape palace budget firm must permit spoon honey";
+var mnemonic = "sibling end torch pottery describe ski sponsor salad brisk nerve noise dose";

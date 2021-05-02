@@ -1,1 +1,1 @@
-var mnemonic = "subject edge cube small calm kidney high hurdle knee lesson peace napkin";
+var mnemonic = "devote fit umbrella broccoli glance slam purchase size virtual shield setup curve";

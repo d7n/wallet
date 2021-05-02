@@ -1,1 +1,1 @@
-var mnemonic = "diagram jacket tower runway tragic boss inch profit ride satoshi process lock";
+var mnemonic = "screen door unable bracket soccer lift ugly penalty wage approve fence sudden";

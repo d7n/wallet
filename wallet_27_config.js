@@ -1,1 +1,1 @@
-var mnemonic = "toss transfer sibling brush muscle wait stairs wrong return switch vault tilt";
+var mnemonic = "spend basket giggle gown crash month body arrange clarify visa hire online";

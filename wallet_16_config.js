@@ -1,1 +1,1 @@
-var mnemonic = "trouble swallow solve then trip moment metal battle gauge wear give buffalo";
+var mnemonic = "company exclude trick rely bus tail problem raven recipe oak note elbow";

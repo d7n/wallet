@@ -1,1 +1,1 @@
-var mnemonic = "outside hospital heart render essence predict put avoid poem aim actress corn";
+var mnemonic = "possible two almost urge area ready loop genre can final capable injury";

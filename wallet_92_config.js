@@ -1,1 +1,1 @@
-var mnemonic = "people help worry frame friend garbage own crowd display simple measure funny";
+var mnemonic = "curve already this learn still impulse village razor sad squirrel bronze seven";

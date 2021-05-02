@@ -1,1 +1,1 @@
-var mnemonic = "wage refuse title loan receive alone shield process kite claim game abstract";
+var mnemonic = "unaware claw climb same inform series conduct glass scissors cruise wisdom search";

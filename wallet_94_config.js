@@ -1,1 +1,1 @@
-var mnemonic = "surface nominee civil imitate proud proof again cherry caution morning broken aisle";
+var mnemonic = "list submit retire blanket fat play immune immense alter stumble exile spin";

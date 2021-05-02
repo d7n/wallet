@@ -1,1 +1,1 @@
-var mnemonic = "animal dinosaur cat scrap mystery catch ball soon motor poverty blanket maximum";
+var mnemonic = "lady symbol correct degree paddle monkey knee wear stamp syrup country hamster";

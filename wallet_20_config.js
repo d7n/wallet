@@ -1,1 +1,1 @@
-var mnemonic = "yellow kid seven avocado grant honey lottery sound time power ocean eagle";
+var mnemonic = "happy cattle soft front unknown ladder fatal art school give dizzy fresh";

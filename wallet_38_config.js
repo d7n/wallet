@@ -1,1 +1,1 @@
-var mnemonic = "miss engage alcohol move penalty such talent bulb beef drama kite tribe";
+var mnemonic = "depth only harvest marine claw develop glance win happy attract broccoli rebuild";

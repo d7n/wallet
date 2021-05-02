@@ -1,1 +1,1 @@
-var mnemonic = "dizzy response endless reveal cave book valley provide lounge steel alien require";
+var mnemonic = "clever unveil holiday palace topple ensure possible leader engage quiz album require";

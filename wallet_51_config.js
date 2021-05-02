@@ -1,1 +1,1 @@
-var mnemonic = "vault swear agree speed street behave approve decline myth super coin evil";
+var mnemonic = "typical cable approve boring helmet hunt someone good agent stand pond develop";

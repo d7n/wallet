@@ -1,1 +1,1 @@
-var mnemonic = "scatter smoke girl gorilla nose suit force note despair card carpet unveil";
+var mnemonic = "hungry food tower boost oyster vicious close couch spike rotate coast artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm wise paper merit fork seven clever wise pencil man engage talk";
+var mnemonic = "brick fresh punch pond library kind lottery arctic holiday special large jar";

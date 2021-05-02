@@ -1,1 +1,1 @@
-var mnemonic = "fatal toss various estate govern mention rather spatial ugly buzz joke clump";
+var mnemonic = "fossil aunt leg crane tiger garlic grunt cup curious amazing shoot razor";

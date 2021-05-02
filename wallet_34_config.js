@@ -1,1 +1,1 @@
-var mnemonic = "supreme worry grit start thank vendor forward wagon hard abuse view math";
+var mnemonic = "market bomb congress claw divert popular valve supply photo render math blade";

@@ -1,1 +1,1 @@
-var mnemonic = "speed skull subway mother margin taste educate rebuild canal olive inch salad";
+var mnemonic = "split divert amazing indicate speed tired guide excuse online mass photo leisure";

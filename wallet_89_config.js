@@ -1,1 +1,1 @@
-var mnemonic = "field suffer still endorse domain fade protect quantum voyage timber real action";
+var mnemonic = "hire today view galaxy addict tape flavor life abstract advance shrug object";

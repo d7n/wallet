@@ -1,1 +1,1 @@
-var mnemonic = "diary harbor vibrant cannon settle fun reward cradle liquid reject enlist broccoli";
+var mnemonic = "nurse carry safe grab blue math soldier armed become bridge stay mango";

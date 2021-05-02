@@ -1,1 +1,1 @@
-var mnemonic = "bracket thrive amateur glow cluster tide thumb glow meat sad zoo stomach";
+var mnemonic = "table office double pride bronze donate festival nothing strike life purpose pioneer";

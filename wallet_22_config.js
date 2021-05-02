@@ -1,1 +1,1 @@
-var mnemonic = "true deliver letter flower destroy glow medal annual bird push dizzy bracket";
+var mnemonic = "upgrade burst away surround air spring reflect album color wood cigar spoon";

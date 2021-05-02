@@ -1,1 +1,1 @@
-var mnemonic = "curious moon bounce bid dilemma shiver maid mouse able cargo exercise deputy";
+var mnemonic = "retreat orphan horn sick wave win october busy below pupil elbow start";

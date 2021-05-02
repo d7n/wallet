@@ -1,1 +1,1 @@
-var mnemonic = "usage various cute tragic yellow fame attitude window genre peasant poem bronze";
+var mnemonic = "party despair option author mass shy enough satisfy coil spin team labor";

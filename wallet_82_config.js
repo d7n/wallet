@@ -1,1 +1,1 @@
-var mnemonic = "hard sunset funny warfare aware tired work fan govern plunge link mountain";
+var mnemonic = "circle barrel pulse victory town lemon face junior welcome bundle typical despair";

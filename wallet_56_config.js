@@ -1,1 +1,1 @@
-var mnemonic = "valid whip vivid blame exotic oven leopard remove mean depend pony twin";
+var mnemonic = "soap method thumb stone rail park one dwarf noble rose chunk blanket";

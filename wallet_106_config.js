@@ -1,1 +1,1 @@
-var mnemonic = "into fiction salute bamboo sing lizard fortune spin razor indicate nature couch";
+var mnemonic = "happy skirt lunch occur pyramid apart minute weekend flame west off exist";

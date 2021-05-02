@@ -1,1 +1,1 @@
-var mnemonic = "avocado way boy whale cricket can thought drama dinner rug divide party";
+var mnemonic = "ivory civil plastic stereo indoor case taste item morning abstract bullet vague";

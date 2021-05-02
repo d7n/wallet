@@ -1,1 +1,1 @@
-var mnemonic = "walk together plastic double ramp strike ordinary arrest soda dirt tissue stick";
+var mnemonic = "mention valve hill pig marine prize case innocent sphere cinnamon august hip";

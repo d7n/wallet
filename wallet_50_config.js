@@ -1,1 +1,1 @@
-var mnemonic = "repeat crack drop invite inflict group boy thrive valve miracle various trial";
+var mnemonic = "lamp envelope lock patient ice cancel fitness arrive strong decorate stove leopard";

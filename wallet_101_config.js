@@ -1,1 +1,1 @@
-var mnemonic = "resist elephant receive wife over miracle typical trial mirror prefer dish lady";
+var mnemonic = "target wood memory humor wall slam beef what current leaf ahead lecture";

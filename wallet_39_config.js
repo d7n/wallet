@@ -1,1 +1,1 @@
-var mnemonic = "keep dad dinosaur private orchard join clump crisp tenant stock digital grief";
+var mnemonic = "rookie cat heavy shy current dream feature absorb breeze produce hurry host";

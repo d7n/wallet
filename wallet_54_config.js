@@ -1,1 +1,1 @@
-var mnemonic = "mail sound enjoy catch cave essence galaxy enroll dune december settle cart";
+var mnemonic = "evolve velvet source joke artwork mean junk pretty dolphin news utility wish";

@@ -1,1 +1,1 @@
-var mnemonic = "enter wave lyrics soul firm boat blast execute actor obtain afford observe";
+var mnemonic = "basic festival puzzle museum front produce rude twice what reject pet label";

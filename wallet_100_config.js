@@ -1,1 +1,1 @@
-var mnemonic = "cherry duck stairs demand inflict found west onion tumble sentence develop road";
+var mnemonic = "legal syrup kiss excess must endorse shine similar ticket network sorry trip";

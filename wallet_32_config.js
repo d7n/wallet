@@ -1,1 +1,1 @@
-var mnemonic = "garment olive bean betray two link wire famous cram current poverty worry";
+var mnemonic = "area radio tilt kite assist render model bubble symbol leaf prosper tide";

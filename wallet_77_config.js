@@ -1,1 +1,1 @@
-var mnemonic = "scout club mushroom addict night decade remember rice other check faculty involve";
+var mnemonic = "idle wash giant swift divorce what spider sadness crack real kiss pelican";

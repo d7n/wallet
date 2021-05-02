@@ -1,1 +1,1 @@
-var mnemonic = "horse lawn alone inside enjoy orphan swarm differ follow eye sort urban";
+var mnemonic = "split gather fade lumber brisk machine ocean clutch jungle road main husband";

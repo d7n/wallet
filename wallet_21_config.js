@@ -1,1 +1,1 @@
-var mnemonic = "furnace stand comic strategy surface act quote impulse guide pool grab liquid";
+var mnemonic = "assault diesel craft useless accident weasel often burst sister onion light climb";

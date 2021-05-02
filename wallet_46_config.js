@@ -1,1 +1,1 @@
-var mnemonic = "say circle that view narrow view abstract dose miss myth apology goat";
+var mnemonic = "improve squeeze ahead artefact can alter join monkey output hundred edge nephew";

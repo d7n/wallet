@@ -1,1 +1,1 @@
-var mnemonic = "spatial live armed net outside daughter angry deliver pattern hurt cup bright";
+var mnemonic = "beyond flee sand main cigar seminar able donate room team dilemma nut";

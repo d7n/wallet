@@ -1,1 +1,1 @@
-var mnemonic = "main card same stem hub orbit shift avocado tattoo east caught lumber";
+var mnemonic = "gain matter main velvet burden kit brain sleep shoulder suspect betray few";

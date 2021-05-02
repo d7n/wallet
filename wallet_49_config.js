@@ -1,1 +1,1 @@
-var mnemonic = "unlock pupil chef make quality miss myself over prepare gaze walnut hub";
+var mnemonic = "moment solid coil person clog target monitor zebra carpet duty offer sad";

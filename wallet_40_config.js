@@ -1,1 +1,1 @@
-var mnemonic = "grief mom small diary crush ten woman time private will visit foil";
+var mnemonic = "sibling family flat shock shine indicate truly confirm dizzy license knife worth";

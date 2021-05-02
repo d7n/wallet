@@ -1,1 +1,1 @@
-var mnemonic = "dizzy eye cannon pattern frequent autumn avocado fun course team diamond tide";
+var mnemonic = "brick element unusual able include aerobic calm pigeon unhappy minor horse choice";

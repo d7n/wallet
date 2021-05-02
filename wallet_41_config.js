@@ -1,1 +1,1 @@
-var mnemonic = "step pigeon unfold ask quality own daring report pupil unable timber balcony";
+var mnemonic = "idle curious innocent loan tuition solution snow exhaust butter pond minimum fence";

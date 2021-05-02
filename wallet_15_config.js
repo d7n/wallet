@@ -1,1 +1,1 @@
-var mnemonic = "allow beach country know another knife blush share debris hotel marine oak";
+var mnemonic = "subject bright shoot quit minimum rotate avoid journey surge melody treat coconut";

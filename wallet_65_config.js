@@ -1,1 +1,1 @@
-var mnemonic = "kitten leg secret marine picture stairs garbage cable arrive mad purse grunt";
+var mnemonic = "prosper orient once waste fuel grid empty snow atom bean garden annual";

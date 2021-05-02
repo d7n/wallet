@@ -1,1 +1,1 @@
-var mnemonic = "outdoor order hard bacon tool trend direct bargain rib language wreck mixture";
+var mnemonic = "pencil gasp mandate brand lobster rather general tissue walnut intact raise ridge";

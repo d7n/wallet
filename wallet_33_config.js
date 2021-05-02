@@ -1,1 +1,1 @@
-var mnemonic = "safe elephant inflict index taste obvious echo solar razor second market logic";
+var mnemonic = "veteran select merry organ that glimpse first surface item track journey bullet";

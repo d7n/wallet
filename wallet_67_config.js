@@ -1,1 +1,1 @@
-var mnemonic = "auto soldier hidden brief kit this firm delay crumble office talent elegant";
+var mnemonic = "dragon begin cover phone woman force glad immense recycle become matter tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "identify dwarf long organ damp clarify fence feel decide scheme series myth";
+var mnemonic = "dynamic rain arm float among city secret truly wild sense cinnamon rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "slot strategy cricket hedgehog sign trash neutral tilt medal pioneer report dignity";
+var mnemonic = "purse age detect outdoor daring salmon brand lumber order claim scorpion million";

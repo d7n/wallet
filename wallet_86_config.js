@@ -1,1 +1,1 @@
-var mnemonic = "gossip differ limb shock law area service love shoe portion dinner spot";
+var mnemonic = "eight silly machine candy urge fitness retire apart axis odor taxi wing";

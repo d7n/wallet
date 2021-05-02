@@ -1,1 +1,1 @@
-var mnemonic = "gesture margin warfare grass nominee cattle angry rescue coral physical try elder";
+var mnemonic = "original violin interest discover slice canal define deposit ghost caught alien arena";

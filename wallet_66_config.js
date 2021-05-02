@@ -1,1 +1,1 @@
-var mnemonic = "age castle stuff simple evoke curious moment picnic pride shoot usage quote";
+var mnemonic = "weasel gap audit excite huge economy novel draft ugly improve among distance";

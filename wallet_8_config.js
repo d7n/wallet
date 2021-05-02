@@ -1,1 +1,1 @@
-var mnemonic = "universe bunker polar never bicycle model valley romance face cup off pause";
+var mnemonic = "sugar lounge baby fade change hammer december inner hockey brisk middle fuel";

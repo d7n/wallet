@@ -1,1 +1,1 @@
-var mnemonic = "below rose possible shed urban primary flip enroll essay pony current arm";
+var mnemonic = "boss roof elder author fence garbage one dwarf verify shield joy onion";

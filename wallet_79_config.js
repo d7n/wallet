@@ -1,1 +1,1 @@
-var mnemonic = "glow throw address journey fruit twist estate wash discover inherit artwork room";
+var mnemonic = "correct spare shoe regret zone cousin butter stock capital dial canyon cousin";

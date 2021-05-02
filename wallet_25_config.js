@@ -1,1 +1,1 @@
-var mnemonic = "quantum canal slow dawn pattern lab camp verb pitch inspire avocado month";
+var mnemonic = "shaft unit educate seminar bar tone desk system viable judge silly token";

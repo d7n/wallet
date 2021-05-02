@@ -1,1 +1,1 @@
-var mnemonic = "firm unusual find bleak limit jewel pond rare comfort guard swear portion";
+var mnemonic = "erase lemon cram scheme cart coral chair remind canyon update tide gravity";

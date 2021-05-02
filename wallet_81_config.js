@@ -1,1 +1,1 @@
-var mnemonic = "coyote year spin grass able security gold talent later obscure play mammal";
+var mnemonic = "fossil sunny pupil hazard oven unlock brief bundle caught elite bean major";

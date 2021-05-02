@@ -1,1 +1,1 @@
-var mnemonic = "must army swallow mention visit box fiction daring absent holiday bacon syrup";
+var mnemonic = "deputy best ski small receive state fault barely multiply tackle spirit path";

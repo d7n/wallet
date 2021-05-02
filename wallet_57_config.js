@@ -1,1 +1,1 @@
-var mnemonic = "social rug glow fiber leg grow other fatal permit tonight glimpse burst";
+var mnemonic = "cream trial flight salute diesel hospital potato credit prize system alien mechanic";

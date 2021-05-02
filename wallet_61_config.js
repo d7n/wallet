@@ -1,1 +1,1 @@
-var mnemonic = "real awful hover frame opinion engine salmon mercy tiny retreat put soda";
+var mnemonic = "husband keep arrow jeans crouch lyrics cactus hawk bird review young prefer";

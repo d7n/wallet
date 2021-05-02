@@ -1,1 +1,1 @@
-var mnemonic = "budget season vast eye summer dose battle bring angle wing miracle solve";
+var mnemonic = "upgrade tortoise appear grid hint wage castle census suggest olympic abuse august";

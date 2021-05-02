@@ -1,1 +1,1 @@
-var mnemonic = "village balance sadness hobby boss wonder ridge market ahead maximum link phrase";
+var mnemonic = "surge olympic earn cover bacon assist range february anchor act hawk dish";

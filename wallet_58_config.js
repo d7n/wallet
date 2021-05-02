@@ -1,1 +1,1 @@
-var mnemonic = "alone hope fashion skull glide unfold dinner shine rebel road report kick";
+var mnemonic = "police cherry trip spoil hunt clever under long again vocal shoot divert";

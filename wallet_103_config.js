@@ -1,1 +1,1 @@
-var mnemonic = "chase add card cover feature column wrist space polar course alter coil";
+var mnemonic = "warfare six safe acquire drama scatter demise save purchase pool deputy april";

@@ -1,1 +1,1 @@
-var mnemonic = "sun boy success jaguar cabbage prepare when shoe bar print pepper open";
+var mnemonic = "buzz video snow script useful plate scare lemon token green maid eye";

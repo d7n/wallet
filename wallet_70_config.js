@@ -1,1 +1,1 @@
-var mnemonic = "knee shadow tornado popular vocal fun wet embody faculty suggest team cost";
+var mnemonic = "axis conduct sting put anger engage dish alpha double subject noble rule";

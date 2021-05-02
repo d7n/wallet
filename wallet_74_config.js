@@ -1,1 +1,1 @@
-var mnemonic = "morning stage nasty access room roast ranch inquiry essay patrol private tennis";
+var mnemonic = "march find pulp distance soup kitten viable mountain drink age wet shine";
