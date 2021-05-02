@@ -1,1 +1,1 @@
-var mnemonic = "act brief chef morning stove ask sail protect clutch voice member canal";
+var mnemonic = "fan cabbage dirt differ immense talent armed prefer noodle casino bronze innocent";

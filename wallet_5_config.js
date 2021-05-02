@@ -1,1 +1,1 @@
-var mnemonic = "say cross whisper trick fan barely still horn just urban convince monkey";
+var mnemonic = "ability lab depart mountain dial appear error truck salon brand sudden easily";

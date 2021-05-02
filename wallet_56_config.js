@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow gold bridge curve embrace clump april hill they denial milk silk";
+var mnemonic = "december decide kit address warrior shoulder robust camp amount useful aware symbol";

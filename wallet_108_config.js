@@ -1,1 +1,1 @@
-var mnemonic = "rescue upon melt game boring pluck laundry normal lady mixture fit narrow";
+var mnemonic = "mesh same cousin material matter gown famous spend pave before like february";

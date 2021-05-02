@@ -1,1 +1,1 @@
-var mnemonic = "innocent ugly flock huge object auction name approve quantum drama bone reunion";
+var mnemonic = "entry estate edge baby swift spirit rely goat wagon kitten vicious cattle";

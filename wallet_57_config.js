@@ -1,1 +1,1 @@
-var mnemonic = "orange dune patient helmet neutral mass polar delay inherit fish notable entire";
+var mnemonic = "peasant repeat indoor glory thing unfold bullet exclude harvest flash unhappy hair";

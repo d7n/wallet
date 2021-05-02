@@ -1,1 +1,1 @@
-var mnemonic = "bachelor room buyer force memory camp dash secret shuffle slab raccoon comic";
+var mnemonic = "idea opera suggest index shoe tape popular able upon rescue neck fade";

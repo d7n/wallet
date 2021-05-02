@@ -1,1 +1,1 @@
-var mnemonic = "valve arrest explain chimney barrel put radar chapter museum rent actress tell";
+var mnemonic = "cotton october evolve expose worth vault october easily loud nut defense noble";

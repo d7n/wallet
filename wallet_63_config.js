@@ -1,1 +1,1 @@
-var mnemonic = "urge track stairs ketchup reunion cash machine tackle fatigue orphan spare vicious";
+var mnemonic = "ensure ugly accuse donate oyster state fitness eye violin swing ten hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "you flag banana lion whale hello tooth clarify leisure someone rate stadium";
+var mnemonic = "trick blame expect copper gap fresh pet junk idle adjust manual ready";

@@ -1,1 +1,1 @@
-var mnemonic = "never spatial amused immune ignore move suffer mind admit fit shrimp legend";
+var mnemonic = "ginger kangaroo flush skirt cake enable nice luggage regular auction brand entire";

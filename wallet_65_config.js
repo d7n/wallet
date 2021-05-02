@@ -1,1 +1,1 @@
-var mnemonic = "chaos fortune soccer rocket van tortoise feel table can job among boring";
+var mnemonic = "update member accident large life father team interest invest tip brush result";

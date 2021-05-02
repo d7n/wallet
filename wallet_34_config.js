@@ -1,1 +1,1 @@
-var mnemonic = "picnic cream farm flee song angry pretty income april robust wear bring";
+var mnemonic = "mutual purse private undo cute heart depend ginger picnic true mushroom detect";

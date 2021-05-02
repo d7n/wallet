@@ -1,1 +1,1 @@
-var mnemonic = "sand document clap funny soda patient method wood black debate shock effort";
+var mnemonic = "frequent toast bless same interest thought next pass ship agent empower odor";

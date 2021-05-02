@@ -1,1 +1,1 @@
-var mnemonic = "circle also snap casino wrestle rain abuse extra pink wink scrub material";
+var mnemonic = "argue reject injury brass one raw age elder weird hand lottery super";

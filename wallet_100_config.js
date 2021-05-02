@@ -1,1 +1,1 @@
-var mnemonic = "cable injury turtle try dress miracle theme remember fiber match gasp web";
+var mnemonic = "idea donor evolve occur soda brave vivid cat ride moment current educate";

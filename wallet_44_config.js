@@ -1,1 +1,1 @@
-var mnemonic = "picture voyage animal square stone chat dream enter found ladder fluid square";
+var mnemonic = "wool lawn glide fox lend bundle guitar attitude icon horse system apart";

@@ -1,1 +1,1 @@
-var mnemonic = "practice suspect fiction winner barrel curve render thumb coast wood arm hollow";
+var mnemonic = "strategy appear way hair symptom earth ride cry plug clip fetch roof";

@@ -1,1 +1,1 @@
-var mnemonic = "animal dumb knee ramp slush wash bomb quality regret all limit purity";
+var mnemonic = "angry method inner rate urban popular magnet cry sort copy night tide";

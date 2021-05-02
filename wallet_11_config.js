@@ -1,1 +1,1 @@
-var mnemonic = "guitar pottery crush nut pear veteran pizza blur boat engine lemon mom";
+var mnemonic = "globe donate sword ghost aspect since script noble boss boost retire alert";

@@ -1,1 +1,1 @@
-var mnemonic = "cotton chest bid culture skate message survey harvest mad pluck vocal auction";
+var mnemonic = "night rifle turn stuff skin setup typical over route raccoon slight fragile";

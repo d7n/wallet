@@ -1,1 +1,1 @@
-var mnemonic = "fog shine gesture final found caught stumble pupil fiscal volume pass body";
+var mnemonic = "faculty orphan lumber prefer such figure gospel rotate shadow minute soccer subject";

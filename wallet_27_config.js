@@ -1,1 +1,1 @@
-var mnemonic = "grocery exist web orient merge double remove grow wisdom tumble hundred wife";
+var mnemonic = "cave barrel amount extra blur drama head victory leaf doctor can win";

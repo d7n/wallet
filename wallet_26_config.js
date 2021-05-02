@@ -1,1 +1,1 @@
-var mnemonic = "outer aunt cream trumpet gain dial fruit what noise coral volcano baby";
+var mnemonic = "lonely eight lizard soap domain airport image arm artist carbon hunt frown";

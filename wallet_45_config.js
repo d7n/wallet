@@ -1,1 +1,1 @@
-var mnemonic = "drip trap enrich quality renew wisdom roast area happy fade waste wreck";
+var mnemonic = "assault open all field aim old trim badge dolphin veteran muscle vacuum";

@@ -1,1 +1,1 @@
-var mnemonic = "play wild agree puzzle sport long expose grab paper tank clutch amount";
+var mnemonic = "achieve carpet spray merry kid civil erode laugh transfer rapid method poverty";

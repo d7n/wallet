@@ -1,1 +1,1 @@
-var mnemonic = "during never kidney prosper cloud fetch climb coast across glory remain cloth";
+var mnemonic = "absorb primary lazy dash wage forum owner bless panel furnace add profit";

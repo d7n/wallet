@@ -1,1 +1,1 @@
-var mnemonic = "noble edge render define decrease brand mobile much hedgehog phone illegal wool";
+var mnemonic = "brown calm mimic hobby cattle way fade piano adult indicate model rail";

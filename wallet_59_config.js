@@ -1,1 +1,1 @@
-var mnemonic = "few gun already tenant describe sound shrug summer crop retire crane regret";
+var mnemonic = "fossil uncle sure trim grace neck wheat vacuum carbon brick crime salute";

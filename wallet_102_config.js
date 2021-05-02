@@ -1,1 +1,1 @@
-var mnemonic = "wisdom trap sorry galaxy invest guitar spot nominee where industry debris voyage";
+var mnemonic = "damage phone lesson drink erase answer decade screen belt steak draft wasp";

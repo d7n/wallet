@@ -1,1 +1,1 @@
-var mnemonic = "now flower woman tattoo acid mimic mask nose sense void page fix";
+var mnemonic = "snack weekend believe neglect neither industry tuition armor avoid eagle monkey inject";

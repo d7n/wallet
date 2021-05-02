@@ -1,1 +1,1 @@
-var mnemonic = "angry social addict edge liberty seed stand swamp hold retire cheese burger";
+var mnemonic = "zone mixture tired energy tongue cargo useless dance always south aunt trumpet";

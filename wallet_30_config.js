@@ -1,1 +1,1 @@
-var mnemonic = "embrace nice raccoon innocent sting attack solar walnut repair remember walk join";
+var mnemonic = "shiver suspect seminar claw draft sleep pistol pumpkin month lemon token enroll";

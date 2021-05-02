@@ -1,1 +1,1 @@
-var mnemonic = "treat point approve antenna camp chronic merry fun depend choice govern resource";
+var mnemonic = "orbit enough chicken original hunt news hire later public magic maid butter";

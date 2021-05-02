@@ -1,1 +1,1 @@
-var mnemonic = "absorb width legal breeze actual modify feel sphere aisle easy blush glory";
+var mnemonic = "square undo defy concert return morning stage speak toss candy food memory";

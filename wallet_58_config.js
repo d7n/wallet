@@ -1,1 +1,1 @@
-var mnemonic = "maple pet detect omit swap lumber walnut until credit cook dash angry";
+var mnemonic = "sponsor filter silly short into gun among avocado fox run print betray";

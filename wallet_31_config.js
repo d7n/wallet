@@ -1,1 +1,1 @@
-var mnemonic = "client critic first innocent present where island glass rural reason spike boss";
+var mnemonic = "attract captain ride analyst gloom rate bike metal march expand guess begin";

@@ -1,1 +1,1 @@
-var mnemonic = "under trust cute quantum supply cup pigeon suffer save clip pelican sad";
+var mnemonic = "marble inside flush pitch brick nature trigger thank always proof isolate twenty";

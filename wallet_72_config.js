@@ -1,1 +1,1 @@
-var mnemonic = "indicate cigar absent tourist room tiny route dwarf raccoon remain female buddy";
+var mnemonic = "glove sponsor clay sing educate will guide drama tank assist tooth area";

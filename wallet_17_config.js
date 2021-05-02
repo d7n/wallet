@@ -1,1 +1,1 @@
-var mnemonic = "oppose modify honey casual garlic volcano slogan kit embody detail orbit basic";
+var mnemonic = "melt vendor garment law grace parade grab speed slab daughter honey shell";

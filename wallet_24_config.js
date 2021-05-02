@@ -1,1 +1,1 @@
-var mnemonic = "spirit local cute cube glimpse crop expect ugly warm either undo gallery";
+var mnemonic = "decade atom chief play area genius record cupboard whale early adjust all";

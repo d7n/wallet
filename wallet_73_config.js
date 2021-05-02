@@ -1,1 +1,1 @@
-var mnemonic = "coin omit soon evidence antique special lawsuit brief limit nut chat skate";
+var mnemonic = "sheriff misery try wealth vital reopen juice logic crater canoe express salt";

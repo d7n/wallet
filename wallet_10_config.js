@@ -1,1 +1,1 @@
-var mnemonic = "acid arch brown hidden pig walk friend fetch race cradle valid clinic";
+var mnemonic = "energy expire onion keen pole survey ghost swamp matrix siren unfold gloom";

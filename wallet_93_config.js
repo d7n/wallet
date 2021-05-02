@@ -1,1 +1,1 @@
-var mnemonic = "town object reduce climb grocery iron side adapt acoustic almost cross solid";
+var mnemonic = "adapt bubble skull pigeon glove steel wash click people kidney peace combine";

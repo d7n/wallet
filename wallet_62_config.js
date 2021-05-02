@@ -1,1 +1,1 @@
-var mnemonic = "pizza multiply goddess glare flame eager van plate pear pilot frozen derive";
+var mnemonic = "hybrid industry aunt isolate include enroll write swap amazing glad dawn festival";

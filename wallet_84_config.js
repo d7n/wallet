@@ -1,1 +1,1 @@
-var mnemonic = "coil wrong digital moral expand try duck salute sorry limb decrease kite";
+var mnemonic = "creek wise marine leaf alpha slam inner obey brisk secret moral output";

@@ -1,1 +1,1 @@
-var mnemonic = "math lyrics elbow write stove history need fat toy anger duck miss";
+var mnemonic = "benefit neck boring evolve clog vacant public ostrich toward mom jelly enemy";

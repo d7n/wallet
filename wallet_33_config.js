@@ -1,1 +1,1 @@
-var mnemonic = "flat mushroom maple music rule candy old lunar potato grape position wool";
+var mnemonic = "trip glue setup rent turn absorb around soldier expect claim tuition kitten";

@@ -1,1 +1,1 @@
-var mnemonic = "devote scrap tuition debris manage session fever gold neck monitor rifle fire";
+var mnemonic = "olive horn before latin foil door scare skirt clever pottery immense liquid";

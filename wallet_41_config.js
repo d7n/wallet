@@ -1,1 +1,1 @@
-var mnemonic = "item cable deer spider crater crystal wood sense labor apart glide exotic";
+var mnemonic = "photo blast apart depart second castle combine obey dose level lyrics enroll";

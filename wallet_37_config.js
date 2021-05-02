@@ -1,1 +1,1 @@
-var mnemonic = "asset supreme want menu unknown chicken latin choice dune color leg wheel";
+var mnemonic = "clown wonder wing help clock review sword price fiber easily snap flat";

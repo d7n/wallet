@@ -1,1 +1,1 @@
-var mnemonic = "mind noise theory alcohol addict scout bracket aim priority feed liar first";
+var mnemonic = "search ritual boy pause bamboo august surprise ocean elegant clump bulb print";

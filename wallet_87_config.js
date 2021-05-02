@@ -1,1 +1,1 @@
-var mnemonic = "room lend since sphere pepper chat sibling gorilla cover bright shadow swallow";
+var mnemonic = "brisk deal robot robot extra urban unknown color attract panda gold okay";

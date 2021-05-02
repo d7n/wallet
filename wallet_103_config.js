@@ -1,1 +1,1 @@
-var mnemonic = "ticket welcome uncover slim ship avoid firm ghost figure index project early";
+var mnemonic = "measure deal easy embark host empty boil cup return settle desert grief";

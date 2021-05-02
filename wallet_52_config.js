@@ -1,1 +1,1 @@
-var mnemonic = "direct erupt twelve absorb lunch travel cloud rabbit tornado runway inmate main";
+var mnemonic = "neutral soccer grief legal similar square rebel arm better cover call material";

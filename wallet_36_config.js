@@ -1,1 +1,1 @@
-var mnemonic = "imitate melody under ugly armed vocal have stable shoulder panic between vague";
+var mnemonic = "property attack hello bridge false remind laundry wear uncover announce swim message";

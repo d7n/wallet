@@ -1,1 +1,1 @@
-var mnemonic = "bridge excess razor sure corn glow tonight news fall guard sting small";
+var mnemonic = "radar obtain husband another shine insect second refuse try census fossil base";

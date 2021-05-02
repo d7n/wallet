@@ -1,1 +1,1 @@
-var mnemonic = "spoon match waste keen final rather discover void question seek salt under";
+var mnemonic = "sure family next crane twice nice clever security shuffle other raise friend";

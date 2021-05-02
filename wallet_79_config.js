@@ -1,1 +1,1 @@
-var mnemonic = "vote bunker basic stairs fly avoid blood enroll garment lottery switch perfect";
+var mnemonic = "prosper panic wild like deny area answer museum scare baby intact atom";

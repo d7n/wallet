@@ -1,1 +1,1 @@
-var mnemonic = "burst napkin route daughter step average peasant acoustic electric prevent about six";
+var mnemonic = "about walnut mirror differ couple polar truck volcano miracle pledge sell window";

@@ -1,1 +1,1 @@
-var mnemonic = "fat theme barely essence pioneer section obey mean sorry raven memory vague";
+var mnemonic = "cloth phone pink book onion stay vacant spawn copy shadow second mask";

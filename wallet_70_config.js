@@ -1,1 +1,1 @@
-var mnemonic = "wife tiny service thing exhaust utility oxygen brass hour update crack blast";
+var mnemonic = "grow assist donkey reform forget car test impose simple spy ship leave";

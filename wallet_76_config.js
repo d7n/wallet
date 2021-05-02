@@ -1,1 +1,1 @@
-var mnemonic = "gloom safe nest buyer cruise border goat forget dinosaur coast follow sail";
+var mnemonic = "melody annual property type disease second shock butter cave seat shy mom";

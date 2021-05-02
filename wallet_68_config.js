@@ -1,1 +1,1 @@
-var mnemonic = "sponsor they jeans chalk idea high pipe tissue identify confirm jewel nasty";
+var mnemonic = "switch spray whip north coast wrist want gym essence august control shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "true pull album drama artefact opinion text rescue toddler aware wild damage";
+var mnemonic = "strong maid seat silent angle vivid tobacco soap junk worth harbor luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "strong dog flavor motion license ticket ice dynamic toddler scatter spring essence";
+var mnemonic = "one south hello become frozen west earth junior hole drill copper cool";

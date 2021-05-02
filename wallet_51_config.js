@@ -1,1 +1,1 @@
-var mnemonic = "awkward category surge security oval book mask crazy style suggest kitchen umbrella";
+var mnemonic = "promote uncle once carbon focus elephant wine finger tilt small rail amazing";

@@ -1,1 +1,1 @@
-var mnemonic = "drift hair fold boring increase arctic useless bubble pipe remember hospital lunch";
+var mnemonic = "clown borrow swallow sleep nothing sell best way okay equal end diagram";

@@ -1,1 +1,1 @@
-var mnemonic = "hungry patient tooth erode toss burger screen loud shock skin dad foot";
+var mnemonic = "flat uniform fatal text very marine cloud quiz miracle hard bracket before";

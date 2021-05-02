@@ -1,1 +1,1 @@
-var mnemonic = "panther later flat cake shiver van satisfy leaf save force head tribe";
+var mnemonic = "vacuum course puppy snack diary vibrant project arrest flame diagram bike armor";

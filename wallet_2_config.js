@@ -1,1 +1,1 @@
-var mnemonic = "pretty transfer gospel canvas vague surprise pistol input blast grape miss night";
+var mnemonic = "orbit flash vague broccoli divide frog eagle fire demand truth sustain age";

@@ -1,1 +1,1 @@
-var mnemonic = "version flame joy health bird quit gym control budget melt select absent";
+var mnemonic = "unhappy mosquito pumpkin fold negative patient tomato woman spy gesture liberty idea";

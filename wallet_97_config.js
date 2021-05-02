@@ -1,1 +1,1 @@
-var mnemonic = "film lemon chat ankle surround inform picture dumb diet body tumble common";
+var mnemonic = "slow normal fantasy flight crater general aerobic web festival analyst shy seminar";

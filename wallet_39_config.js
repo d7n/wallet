@@ -1,1 +1,1 @@
-var mnemonic = "afraid decrease bitter letter cushion click burst disagree inject hand resource clean";
+var mnemonic = "require fall sense victory purpose wrist trumpet topic ski around where useless";

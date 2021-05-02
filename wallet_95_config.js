@@ -1,1 +1,1 @@
-var mnemonic = "steel six below diagram family slogan trophy wish car call friend cry";
+var mnemonic = "rain code wish lens tackle lumber control marriage prepare behave vivid pitch";

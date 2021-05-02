@@ -1,1 +1,1 @@
-var mnemonic = "uncover duty acoustic soccer nut across excuse drum shallow pyramid act paper";
+var mnemonic = "ankle sight fashion spider crush ramp mistake until area age slide adjust";

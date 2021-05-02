@@ -1,1 +1,1 @@
-var mnemonic = "quit dutch title repeat gap sister soda alter rare begin bargain purchase";
+var mnemonic = "artwork embark oyster provide quiz torch enable snow royal crucial rely glass";

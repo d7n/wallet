@@ -1,1 +1,1 @@
-var mnemonic = "nasty chuckle hour artwork actress wife bike romance typical copper undo morning";
+var mnemonic = "stable lady afraid screen fortune danger judge pluck buddy dream taste fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "easy seek peasant spot turtle gentle merry oak face merry rude alcohol";
+var mnemonic = "domain hold super eyebrow daughter another clog off oppose around rifle throw";

@@ -1,1 +1,1 @@
-var mnemonic = "consider picnic bless turn impact east away duck cannon kick used curious";
+var mnemonic = "now fiction brief lawn boat depth table sauce opera critic supply install";

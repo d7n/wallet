@@ -1,1 +1,1 @@
-var mnemonic = "ride trumpet cabbage clown spoil real addict fatigue swamp disease repair kangaroo";
+var mnemonic = "ostrich solve shy absurd vibrant fence funny hurt unfair cover among drum";

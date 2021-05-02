@@ -1,1 +1,1 @@
-var mnemonic = "focus hint chuckle small crime trend fox trend coast accident festival tuna";
+var mnemonic = "forget film nut hidden pink wonder truly guess walk wet puzzle purse";

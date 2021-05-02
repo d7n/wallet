@@ -1,1 +1,1 @@
-var mnemonic = "fancy ozone disorder famous session choice embrace win mask outside combine once";
+var mnemonic = "remember north try burst figure spread robust valve tag estate venture initial";

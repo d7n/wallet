@@ -1,1 +1,1 @@
-var mnemonic = "erode forest float federal struggle public wish border inner merge energy okay";
+var mnemonic = "team pattern matrix address boost discover muffin seat dentist mother order muscle";

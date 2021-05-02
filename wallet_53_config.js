@@ -1,1 +1,1 @@
-var mnemonic = "pave kick alpha busy genuine mixed husband believe cheap future vacuum duty";
+var mnemonic = "sand rare person river polar chapter drum pluck general abstract prepare glass";

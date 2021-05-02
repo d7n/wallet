@@ -1,1 +1,1 @@
-var mnemonic = "credit current improve slow baby illness derive search title enhance country blade";
+var mnemonic = "rubber hip rate rent victory dust bachelor winner wheel notice curve reopen";
