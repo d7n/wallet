@@ -1,1 +1,1 @@
-var mnemonic = "goddess sea language position happy quit shoot trend improve tree region hour";
+var mnemonic = "upper ecology slim buzz fiction meat bulk hundred canoe menu pill buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz indicate floor image crime kit during stool vicious forest inform sample";
+var mnemonic = "spot bachelor flower teach behave pact begin until execute gate hover echo";

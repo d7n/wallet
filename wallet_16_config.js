@@ -1,1 +1,1 @@
-var mnemonic = "enable van speak arm foster pair wisdom cinnamon strong reflect chest naive";
+var mnemonic = "attack exchange giant coast alert tank dignity rocket amused amused day jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "faculty ostrich comic dwarf ball source female march road dinosaur venue gauge";
+var mnemonic = "diet reason sponsor pool chapter coffee sell remind palace able hen output";

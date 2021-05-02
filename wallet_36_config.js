@@ -1,1 +1,1 @@
-var mnemonic = "walk decade blush swear very child young because divorce result sample cabin";
+var mnemonic = "clerk dish crawl slender swift gallery diary clog fence armed festival weekend";

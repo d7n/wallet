@@ -1,1 +1,1 @@
-var mnemonic = "wash foil gas parade divide gold gap kiss autumn bone ride across";
+var mnemonic = "useful odor upper penalty soon riot evil document brain erosion solid neglect";

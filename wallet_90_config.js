@@ -1,1 +1,1 @@
-var mnemonic = "focus proof train involve sight mango plate tomorrow cargo point nature siren";
+var mnemonic = "grass organ wheel sleep wire stadium warm gloom deposit athlete nominee find";

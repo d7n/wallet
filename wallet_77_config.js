@@ -1,1 +1,1 @@
-var mnemonic = "candy diary net arrange smooth icon amateur dentist sock picnic rib grit";
+var mnemonic = "manual confirm eager resource vibrant medal purpose excess add shift breeze vehicle";

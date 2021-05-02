@@ -1,1 +1,1 @@
-var mnemonic = "stage december machine mercy violin gather blue engine pulp stool water bullet";
+var mnemonic = "country claim thank shy voyage spoon remind come boil cave process fat";

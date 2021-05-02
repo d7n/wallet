@@ -1,1 +1,1 @@
-var mnemonic = "sock coral rough impose clean chair kitten gasp wide rule weasel thank";
+var mnemonic = "glance situate illness enough usual cupboard desert drastic spy core test waste";

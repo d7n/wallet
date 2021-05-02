@@ -1,1 +1,1 @@
-var mnemonic = "distance mosquito mango south benefit mammal tenant net morning scan fade nerve";
+var mnemonic = "trouble chest come tilt action whisper venture town social pool million mind";

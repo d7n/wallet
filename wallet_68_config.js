@@ -1,1 +1,1 @@
-var mnemonic = "daring usage project again among coach load throw logic awesome dash length";
+var mnemonic = "case debate subject auto mistake exchange frequent pave differ sphere bitter leaf";

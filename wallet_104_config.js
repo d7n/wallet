@@ -1,1 +1,1 @@
-var mnemonic = "you lady shrug measure shaft rocket gorilla squeeze hole admit endless ignore";
+var mnemonic = "buddy brisk decorate news oval time strong satoshi theory celery pact come";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors faculty duty fluid ability dad rich buzz state color pumpkin evil";
+var mnemonic = "reveal trial expire huge cabbage have sock parrot trim october hole width";

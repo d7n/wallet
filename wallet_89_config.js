@@ -1,1 +1,1 @@
-var mnemonic = "cage pottery index rack nose rich fitness royal alien swallow special asset";
+var mnemonic = "between autumn urge element hollow chief sand hunt giraffe ball knee connect";

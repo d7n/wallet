@@ -1,1 +1,1 @@
-var mnemonic = "jar wild visit box sell lobster elbow lobster very lens warrior craft";
+var mnemonic = "family speak gallery canoe bachelor age frown involve eternal interest inner worth";

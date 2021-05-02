@@ -1,1 +1,1 @@
-var mnemonic = "churn drink tunnel when seek inner file legend atom pupil potato game";
+var mnemonic = "weekend depart vessel solve valley pride shiver squeeze dream liar shuffle student";

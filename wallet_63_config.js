@@ -1,1 +1,1 @@
-var mnemonic = "excite addict trouble stove half limit tiger defy income moment tree liquid";
+var mnemonic = "convince sentence slow public refuse paper weekend waste tube equal unknown empty";

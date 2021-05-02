@@ -1,1 +1,1 @@
-var mnemonic = "hazard obey raccoon warrior exclude program flag today beach soccer dismiss water";
+var mnemonic = "cash insane earn despair fiscal share supply bright satisfy close cannon universe";

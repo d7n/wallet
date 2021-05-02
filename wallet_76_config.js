@@ -1,1 +1,1 @@
-var mnemonic = "process voice tip bring patch network jelly critic glue glide client forget";
+var mnemonic = "wagon split cage pole glue rookie odor romance mirror stock cinnamon grant";

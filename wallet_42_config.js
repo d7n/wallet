@@ -1,1 +1,1 @@
-var mnemonic = "devote frost excuse winner slender cannon jungle slight make lake okay field";
+var mnemonic = "language timber artist tuition seat crime practice trumpet body promote tool anxiety";

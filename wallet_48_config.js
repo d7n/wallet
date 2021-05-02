@@ -1,1 +1,1 @@
-var mnemonic = "swim left task burst nut sting salt transfer indoor glove wheel voyage";
+var mnemonic = "atom before among bid fetch conduct dignity element ready plunge steel thank";

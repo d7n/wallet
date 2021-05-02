@@ -1,1 +1,1 @@
-var mnemonic = "guide giant omit where route buddy cupboard film rabbit fabric juice impose";
+var mnemonic = "casino kangaroo age pulse mule very mix mimic attack forum beach dry";

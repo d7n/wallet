@@ -1,1 +1,1 @@
-var mnemonic = "forest lizard fit sick home that despair action grit prevent goose drop";
+var mnemonic = "scale lunar hammer galaxy paper address credit puzzle patient pudding bonus crane";

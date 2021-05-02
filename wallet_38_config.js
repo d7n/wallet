@@ -1,1 +1,1 @@
-var mnemonic = "garden collect market home tornado exist payment honey vendor fly man cloth";
+var mnemonic = "thank suit melody imitate good inform daring shallow body clog network penalty";

@@ -1,1 +1,1 @@
-var mnemonic = "math voyage resist load east check purpose pink charge proof shoe meat";
+var mnemonic = "obvious menu merry figure prefer crush cannon pioneer below proud lyrics spare";

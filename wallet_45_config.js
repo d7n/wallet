@@ -1,1 +1,1 @@
-var mnemonic = "segment analyst danger country strike machine express snake grape notice leader analyst";
+var mnemonic = "grocery catch scrub tenant pet city oxygen scale scale torch refuse tone";

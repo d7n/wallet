@@ -1,1 +1,1 @@
-var mnemonic = "helmet crunch balcony uncle post fade disease stem decline rebuild border employ";
+var mnemonic = "front pond coconut yard lucky rail matter save opinion camp cross identify";

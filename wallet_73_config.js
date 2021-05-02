@@ -1,1 +1,1 @@
-var mnemonic = "action wonder rotate whisper inhale extend steel phrase there tip satoshi margin";
+var mnemonic = "endorse detail kitten boring absent say ordinary border habit bus vibrant spatial";

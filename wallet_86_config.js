@@ -1,1 +1,1 @@
-var mnemonic = "shaft extra picnic portion daughter cup carry model genius sick door velvet";
+var mnemonic = "pride hand hazard unable brick cousin huge million test eagle twin record";

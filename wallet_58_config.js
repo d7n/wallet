@@ -1,1 +1,1 @@
-var mnemonic = "donor disagree pear share mimic find witness depend clutch boil only common";
+var mnemonic = "control viable truck govern wave asset lizard neither island run bid page";

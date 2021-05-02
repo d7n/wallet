@@ -1,1 +1,1 @@
-var mnemonic = "clarify midnight song burden minor ski example govern remember oppose just bar";
+var mnemonic = "awesome choose afford oven excite chapter brave pigeon bulb noise spatial liberty";

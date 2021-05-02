@@ -1,1 +1,1 @@
-var mnemonic = "entire matter current equip obey impact deliver case rain august damage gold";
+var mnemonic = "auto supreme imitate enter ethics melt detect fox outdoor wise peace fury";

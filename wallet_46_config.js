@@ -1,1 +1,1 @@
-var mnemonic = "rude ticket broom glide quarter black high prevent reflect idle field jaguar";
+var mnemonic = "mechanic cute network sorry leaf unfair inmate brush unusual rocket naive another";

@@ -1,1 +1,1 @@
-var mnemonic = "morning hedgehog cage brave frame traffic glass figure length divorce snow boost";
+var mnemonic = "easy enter gas merit cram powder brand angle fire hurdle skirt appear";

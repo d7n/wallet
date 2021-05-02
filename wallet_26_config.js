@@ -1,1 +1,1 @@
-var mnemonic = "fan zebra rack peasant tide travel fragile ozone wife dinosaur raise course";
+var mnemonic = "morning fog luggage elite fortune cute egg frequent iron owner burden food";

@@ -1,1 +1,1 @@
-var mnemonic = "coach remain chapter plunge hurry fiscal impulse debate depend security frame ski";
+var mnemonic = "parade oyster float lumber bulk top decrease ignore expire blind install debate";

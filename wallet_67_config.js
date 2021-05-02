@@ -1,1 +1,1 @@
-var mnemonic = "dress price same join attend hybrid morning hire unveil special display empty";
+var mnemonic = "modify october pill firm average planet quarter code quarter hockey rabbit burden";

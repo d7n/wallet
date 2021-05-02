@@ -1,1 +1,1 @@
-var mnemonic = "adult renew general fragile cactus plate flock myself earth enrich maid bronze";
+var mnemonic = "coil snap dad blanket maid address health supreme web coral portion alarm";

@@ -1,1 +1,1 @@
-var mnemonic = "sun obscure dress away great winner lend law excite erase goose arrest";
+var mnemonic = "prepare ceiling convince leaf spirit area blur daughter ostrich glow march pull";

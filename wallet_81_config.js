@@ -1,1 +1,1 @@
-var mnemonic = "tip hole trick general road suspect forum gorilla edit cancel sausage garage";
+var mnemonic = "trim utility manage section hint fox gym miss glide until junk vessel";

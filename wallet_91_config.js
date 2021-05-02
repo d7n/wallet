@@ -1,1 +1,1 @@
-var mnemonic = "cram silk vanish critic cliff similar match door addict soda problem valley";
+var mnemonic = "evolve mansion echo spare wrap snap train output wisdom real top pole";

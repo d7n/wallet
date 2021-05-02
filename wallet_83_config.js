@@ -1,1 +1,1 @@
-var mnemonic = "conduct conduct member call belt bag erosion belt defy wagon cotton special";
+var mnemonic = "nasty photo upset tree add inform door feel asthma news peanut power";

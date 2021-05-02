@@ -1,1 +1,1 @@
-var mnemonic = "broken dry other person aspect south remind toast slam tent palm they";
+var mnemonic = "pledge beef trumpet marriage crazy dolphin agent erase core sign ceiling winter";

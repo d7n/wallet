@@ -1,1 +1,1 @@
-var mnemonic = "engage chuckle phrase use buddy clinic wagon effort lucky orbit frame bracket";
+var mnemonic = "certain zone jealous exercise cook upper boss seed occur sausage section crush";

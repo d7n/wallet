@@ -1,1 +1,1 @@
-var mnemonic = "flash average save siege base nurse trap what misery version fever sausage";
+var mnemonic = "cat inner student arrange sweet shaft bid cheese upgrade tourist trust review";

@@ -1,1 +1,1 @@
-var mnemonic = "point again relief virus tube spike kangaroo magic ten elevator dolphin rebuild";
+var mnemonic = "era month refuse demise onion inherit devote prepare early turtle provide kangaroo";

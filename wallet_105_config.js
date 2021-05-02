@@ -1,1 +1,1 @@
-var mnemonic = "area tissue supply festival virus rapid marine begin front prison frog unfair";
+var mnemonic = "firm recall olympic imitate advance explain siege employ attract scale milk defense";

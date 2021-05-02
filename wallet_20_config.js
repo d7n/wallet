@@ -1,1 +1,1 @@
-var mnemonic = "emerge sister warrior couch diary text album suggest trouble gentle glimpse head";
+var mnemonic = "draft gasp shoot lawsuit trumpet reopen pact wait innocent battle minute divert";

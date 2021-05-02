@@ -1,1 +1,1 @@
-var mnemonic = "mix top fortune patient fiber harsh swarm fix display faculty smart until";
+var mnemonic = "claim poverty feel equip fiscal session wife trim endless summer since chunk";

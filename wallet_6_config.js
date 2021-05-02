@@ -1,1 +1,1 @@
-var mnemonic = "topple mixed wolf address fiscal dose fame disagree torch lawn shoe body";
+var mnemonic = "grit pull icon stand cage dentist gym purity traffic uncover abandon win";

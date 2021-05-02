@@ -1,1 +1,1 @@
-var mnemonic = "error faint trust velvet offer damp dress sell shy advance spider left";
+var mnemonic = "false attitude hard radio foam bullet private label select elder cry sense";

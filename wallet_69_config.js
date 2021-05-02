@@ -1,1 +1,1 @@
-var mnemonic = "dust tray candy there symptom genius agent decorate melt cereal double festival";
+var mnemonic = "antique pencil lonely select picnic black genre notable armed foil submit rapid";

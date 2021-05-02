@@ -1,1 +1,1 @@
-var mnemonic = "improve search best eagle clinic uncover consider sell dirt final dragon key";
+var mnemonic = "plunge measure clump enrich song average cave alert kiss allow pig ordinary";

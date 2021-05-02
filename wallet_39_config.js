@@ -1,1 +1,1 @@
-var mnemonic = "process bitter sibling tortoise fence fan goat system figure inmate thrive document";
+var mnemonic = "pony prize hover man run carry lens blush core peanut yard bike";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe master scrub broom magnet clutch waste feature diesel fragile wait twist";
+var mnemonic = "quick state elbow legend above review magnet winter doctor crucial denial prize";

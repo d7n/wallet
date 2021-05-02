@@ -1,1 +1,1 @@
-var mnemonic = "nothing glass zoo crop sand turkey intact swim hold language this other";
+var mnemonic = "unfold glide route mistake flash expect window actual buddy champion tell they";

@@ -1,1 +1,1 @@
-var mnemonic = "paper service secret entry hurry such warrior initial leisure view illness side";
+var mnemonic = "online evil blade goat city wheat erode source strategy resource unknown plunge";

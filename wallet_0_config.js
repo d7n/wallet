@@ -1,1 +1,1 @@
-var mnemonic = "exercise country fever high solve involve science delay miracle web clay whale";
+var mnemonic = "cushion pizza sample mass cruel drum parrot tank flight begin reward result";

@@ -1,1 +1,1 @@
-var mnemonic = "arch steel extra people train warrior favorite material wish update dance cash";
+var mnemonic = "asset guide blossom print jacket filter great swift amount point divide old";

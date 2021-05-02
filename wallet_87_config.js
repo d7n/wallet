@@ -1,1 +1,1 @@
-var mnemonic = "cluster silent head cargo order theme mushroom struggle river fence expect link";
+var mnemonic = "tornado target dog genius romance heart begin swim draw treat also stamp";

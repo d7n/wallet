@@ -1,1 +1,1 @@
-var mnemonic = "raccoon crew scare guilt place mango ability still must kingdom crunch repair";
+var mnemonic = "dawn coral frown indicate disorder wide novel style ankle lyrics thrive rent";

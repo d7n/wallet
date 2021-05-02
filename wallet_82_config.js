@@ -1,1 +1,1 @@
-var mnemonic = "year inspire drip plastic choose waste find obtain sound humor lens whip";
+var mnemonic = "gadget life myself need brick tell soldier swift surprise weekend soon piano";

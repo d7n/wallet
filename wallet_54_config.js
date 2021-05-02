@@ -1,1 +1,1 @@
-var mnemonic = "gain level illegal mimic calm again speed table sunny jaguar bean garment";
+var mnemonic = "general trap valley coyote milk key neck silly orbit valve street ketchup";

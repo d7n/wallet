@@ -1,1 +1,1 @@
-var mnemonic = "dog friend famous nurse urge school raise diagram inform reopen lens globe";
+var mnemonic = "south good eternal smart culture artwork tip beyond thought juice volcano connect";

@@ -1,1 +1,1 @@
-var mnemonic = "key slight certain feed phrase vault found pilot poverty liberty carry glow";
+var mnemonic = "praise gesture vehicle armed pipe fantasy crystal wife whale dinosaur balance hazard";

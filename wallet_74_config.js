@@ -1,1 +1,1 @@
-var mnemonic = "they need harsh dry asset antique glide start ready tiny shift trap";
+var mnemonic = "orbit forward toddler cactus service faculty tattoo elegant economy off silver glare";

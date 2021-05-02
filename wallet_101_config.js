@@ -1,1 +1,1 @@
-var mnemonic = "butter credit wisdom enforce train clock common receive wisdom club erase sad";
+var mnemonic = "own cactus imitate cactus air orbit absorb dismiss juice hedgehog squirrel once";

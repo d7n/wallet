@@ -1,1 +1,1 @@
-var mnemonic = "inherit scrub gorilla design warfare current short age acquire pattern exact basket";
+var mnemonic = "laptop own hint boss concert report hurt tribe sponsor acid joy eye";

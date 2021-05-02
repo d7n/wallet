@@ -1,1 +1,1 @@
-var mnemonic = "inmate nasty merit balance evidence wine silent entry exact faint cluster turkey";
+var mnemonic = "excuse once abandon rent carpet bind purpose peasant oppose delay only idle";

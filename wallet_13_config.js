@@ -1,1 +1,1 @@
-var mnemonic = "coconut true cannon album vapor erode west claw zebra tattoo brick square";
+var mnemonic = "kick bitter extra climb fuel coyote breeze diesel upset spoil demand ugly";

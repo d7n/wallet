@@ -1,1 +1,1 @@
-var mnemonic = "exchange core husband divide robust mesh animal such absorb average despair noise";
+var mnemonic = "range reunion banana lecture again tooth frog favorite tenant pear acoustic damp";

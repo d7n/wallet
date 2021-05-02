@@ -1,1 +1,1 @@
-var mnemonic = "room stable soup release clown dove air fluid flavor reason elevator album";
+var mnemonic = "sort toe submit chaos movie pave helmet fish situate place more glass";

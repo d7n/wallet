@@ -1,1 +1,1 @@
-var mnemonic = "deputy barely fabric elephant april abstract onion supply comic airport double civil";
+var mnemonic = "person nominee ginger kite fatigue share south capital menu service ice proof";

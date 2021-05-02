@@ -1,1 +1,1 @@
-var mnemonic = "kit island invite rapid snap crash dumb tail satoshi laundry old decline";
+var mnemonic = "gauge orchard else require charge flip enlist road risk prosper sniff divorce";

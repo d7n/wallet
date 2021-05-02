@@ -1,1 +1,1 @@
-var mnemonic = "grief sting have stable music remove vocal talent math turn caught bind";
+var mnemonic = "fury mistake tray muffin glove slot follow excuse enrich output question always";

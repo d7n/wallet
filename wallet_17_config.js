@@ -1,1 +1,1 @@
-var mnemonic = "target trade egg blast indoor elder fat duty fold shift supply select";
+var mnemonic = "fatal arrow discover crucial scare kidney sauce slice trumpet property rule skill";

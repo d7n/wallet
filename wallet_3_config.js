@@ -1,1 +1,1 @@
-var mnemonic = "digital small bike bounce arctic rebuild chest still combine section select affair";
+var mnemonic = "thing sniff rose trumpet leisure miss only tomorrow usual winter actual impact";

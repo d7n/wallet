@@ -1,1 +1,1 @@
-var mnemonic = "valley hope coyote pulp file winter list carbon kind glimpse razor mountain";
+var mnemonic = "office luxury popular situate jungle whisper spot when region lazy husband dad";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure segment engage solve mandate pen egg report wife tattoo best churn";
+var mnemonic = "cream mass hint goddess adult few tattoo skull debris skill dash around";

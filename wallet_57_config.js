@@ -1,1 +1,1 @@
-var mnemonic = "spot rotate shy eager test same tired range manual shock ride cherry";
+var mnemonic = "sleep theory panda topic annual keen emotion ticket inflict diet theory shrimp";

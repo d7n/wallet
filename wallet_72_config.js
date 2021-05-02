@@ -1,1 +1,1 @@
-var mnemonic = "pact matter floor frequent frog envelope slow inquiry oxygen aspect slender mandate";
+var mnemonic = "friend sunset company observe immense salt faith slush vintage tilt focus alter";

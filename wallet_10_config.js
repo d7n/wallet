@@ -1,1 +1,1 @@
-var mnemonic = "banana capital rate floor myself fiction reason same pig display double debate";
+var mnemonic = "leader claim cube input current region obvious bitter rely credit camera page";

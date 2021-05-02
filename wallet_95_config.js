@@ -1,1 +1,1 @@
-var mnemonic = "merge lottery repair tribe miracle multiply movie hybrid heavy split forum smile";
+var mnemonic = "error recycle left menu manage melt option census curtain fatal brown car";

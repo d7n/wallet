@@ -1,1 +1,1 @@
-var mnemonic = "gorilla arrest rib rabbit swamp predict rotate job maximum lyrics glass clump";
+var mnemonic = "motion move awake meat must group cook letter admit ticket enhance oblige";

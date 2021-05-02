@@ -1,1 +1,1 @@
-var mnemonic = "erupt reject judge scrap grain course anxiety tool anxiety struggle lava brush";
+var mnemonic = "dwarf potato frame walnut craft palace damp plate mail virtual sun pupil";

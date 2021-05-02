@@ -1,1 +1,1 @@
-var mnemonic = "annual own clarify kingdom edge health dune note valley dignity federal inmate";
+var mnemonic = "expand sure loud slight creek industry credit imitate casual task fade fly";

@@ -1,1 +1,1 @@
-var mnemonic = "spin reflect web lady dad cage turn luggage brass purity knee point";
+var mnemonic = "desk echo bone learn curve cheese seat direct lizard soul faint cluster";

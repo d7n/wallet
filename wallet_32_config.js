@@ -1,1 +1,1 @@
-var mnemonic = "frequent base problem tomato blanket judge safe sheriff violin wrestle poet clever";
+var mnemonic = "ice deposit aim month warfare maple bus reunion comfort wrestle random else";

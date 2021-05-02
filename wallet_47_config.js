@@ -1,1 +1,1 @@
-var mnemonic = "manual disagree glide choice powder lamp search hint emerge invite soccer evolve";
+var mnemonic = "away squeeze multiply daring tide under seminar approve soccer shield exit scatter";
