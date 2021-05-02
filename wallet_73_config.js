@@ -1,1 +1,1 @@
-var mnemonic = "good flag outer sad dance mother cinnamon payment neutral tonight loop sock";
+var mnemonic = "dirt shoe farm inch dove place solid loud setup embody gadget hotel";

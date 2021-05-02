@@ -1,1 +1,1 @@
-var mnemonic = "emotion prepare weasel type end easy tilt remind armed verify science shoot";
+var mnemonic = "winner make senior market reduce cupboard spot phrase noble lounge yellow tell";

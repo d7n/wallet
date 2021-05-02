@@ -1,1 +1,1 @@
-var mnemonic = "head drop bag expand pool super patient more flash gown sadness toss";
+var mnemonic = "silk exotic clinic fee convince detect man quick album sheriff nuclear frown";

@@ -1,1 +1,1 @@
-var mnemonic = "shell buzz cube flower oblige drill circle theme nerve panel frozen reunion";
+var mnemonic = "design zone shove document ticket lunch practice crop orphan follow throw open";

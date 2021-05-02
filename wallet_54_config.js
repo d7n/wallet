@@ -1,1 +1,1 @@
-var mnemonic = "gather remain bean gentle moment fashion library prize wealth believe proud pepper";
+var mnemonic = "balance adult wear degree miss slab business hand quit regular grief industry";

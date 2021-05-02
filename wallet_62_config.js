@@ -1,1 +1,1 @@
-var mnemonic = "cabin moon chef ivory unusual dry travel brother air private medal primary";
+var mnemonic = "unable avoid mesh clock celery stand joy foster build faith elegant give";

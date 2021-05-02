@@ -1,1 +1,1 @@
-var mnemonic = "donate label claw toe exist urge mammal off doll over thrive cruise";
+var mnemonic = "hollow pyramid priority spring kick element armed under credit author scatter there";

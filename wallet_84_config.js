@@ -1,1 +1,1 @@
-var mnemonic = "attend cake drop remember squirrel action tunnel amateur quick flavor pulp occur";
+var mnemonic = "modify story medal upon mass symptom detail slush mail canyon profit sister";

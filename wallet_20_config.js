@@ -1,1 +1,1 @@
-var mnemonic = "success believe enable couch flat inform dolphin net antenna welcome fade brisk";
+var mnemonic = "ring mountain vehicle stereo adjust image page find butter flight world surprise";

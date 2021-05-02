@@ -1,1 +1,1 @@
-var mnemonic = "equip supreme anxiety cupboard call fire pond palace palm pitch royal inherit";
+var mnemonic = "only obvious trip hero spend random weapon zebra crane million glue museum";

@@ -1,1 +1,1 @@
-var mnemonic = "giant delay visit match expand fee record mean scene settle above rate";
+var mnemonic = "crack team trick gate yellow online smoke can guess aim cupboard enjoy";

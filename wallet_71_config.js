@@ -1,1 +1,1 @@
-var mnemonic = "riot whip anger grant salt sting host brown buzz place machine detail";
+var mnemonic = "message athlete taxi liberty charge trip ripple duty vendor cube capable crowd";

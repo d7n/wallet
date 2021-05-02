@@ -1,1 +1,1 @@
-var mnemonic = "south large eight zebra wrestle fiction elbow about march marriage blue feed";
+var mnemonic = "dish duty ticket pizza rocket autumn law kid concert when usage dove";

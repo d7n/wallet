@@ -1,1 +1,1 @@
-var mnemonic = "chase name false swing naive blood oppose exclude struggle cradle remain drive";
+var mnemonic = "faculty net poem twelve pigeon leopard dumb weekend gap easily banner soup";

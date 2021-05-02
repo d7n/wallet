@@ -1,1 +1,1 @@
-var mnemonic = "clinic cash edge where half guard deer feel ticket tribe drill excite";
+var mnemonic = "month now demand cycle cry able behave audit distance payment box mammal";

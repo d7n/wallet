@@ -1,1 +1,1 @@
-var mnemonic = "hello tennis nuclear match child unlock action real foil any lunch awake";
+var mnemonic = "record sort fault physical mushroom miss invite away muffin minute quiz defy";

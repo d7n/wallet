@@ -1,1 +1,1 @@
-var mnemonic = "devote project dish else system tone bridge bulk awesome uncle slot memory";
+var mnemonic = "absorb poverty volcano summer fiction slot region elephant frame draft orphan off";

@@ -1,1 +1,1 @@
-var mnemonic = "throw route envelope shoot any badge chalk autumn industry lunch retire pond";
+var mnemonic = "wasp bomb furnace attitude knee tiger clutch interest ridge race try fury";

@@ -1,1 +1,1 @@
-var mnemonic = "powder job steak lyrics ocean grid world lift mobile token black pudding";
+var mnemonic = "spray limit hammer whisper during journey dog novel ghost drill season asset";

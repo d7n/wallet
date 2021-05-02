@@ -1,1 +1,1 @@
-var mnemonic = "useless boat faint twin feel spike prevent crack biology quit staff sadness";
+var mnemonic = "chalk panda gap behind property dose hero flat expire climb enact smile";

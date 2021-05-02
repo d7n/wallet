@@ -1,1 +1,1 @@
-var mnemonic = "faith sunset devote oven kingdom roof merit void assume sheriff word fossil";
+var mnemonic = "siege sure believe prize title relief original spirit that eternal honey reject";

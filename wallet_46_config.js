@@ -1,1 +1,1 @@
-var mnemonic = "define attitude comic ice violin seminar ozone wild celery lens soldier web";
+var mnemonic = "shell already runway master evoke tumble swallow polar ball text side author";

@@ -1,1 +1,1 @@
-var mnemonic = "garden skate enhance child smooth present catch tube bamboo ripple initial awkward";
+var mnemonic = "acid skin middle embrace jelly avocado element liquid bright width shock volcano";

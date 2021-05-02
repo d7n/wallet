@@ -1,1 +1,1 @@
-var mnemonic = "address shoulder real engage hill rifle awkward humble topic habit turn diagram";
+var mnemonic = "scheme sketch gauge champion quarter weapon attack despair lawsuit slab planet story";

@@ -1,1 +1,1 @@
-var mnemonic = "creek impact stock top woman topple title dinosaur sing marble way pelican";
+var mnemonic = "early discover aim party arrow lazy kitten dismiss mistake priority clap typical";

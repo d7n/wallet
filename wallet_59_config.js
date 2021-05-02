@@ -1,1 +1,1 @@
-var mnemonic = "dentist please crew equal grass vocal elite immense bless worry purse flavor";
+var mnemonic = "vital resemble rice express piece original bright swarm eight hat harsh index";

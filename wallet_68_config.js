@@ -1,1 +1,1 @@
-var mnemonic = "swear image acquire column alien saddle dove alien invite pizza shield engine";
+var mnemonic = "across ability bar host holiday outside nature project never expire spy stamp";

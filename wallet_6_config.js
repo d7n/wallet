@@ -1,1 +1,1 @@
-var mnemonic = "hurt casino tortoise one science issue risk immense vapor coral edge case";
+var mnemonic = "flag team close fade zone castle dumb indicate orient chicken muscle total";

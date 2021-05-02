@@ -1,1 +1,1 @@
-var mnemonic = "fatal second bean addict pact vault domain cupboard deputy code rather service";
+var mnemonic = "online diagram tunnel enter garden sort dish tiny horn tuition hurt scale";

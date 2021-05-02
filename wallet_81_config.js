@@ -1,1 +1,1 @@
-var mnemonic = "arm achieve lawn valid oval eagle appear physical vital mobile rally what";
+var mnemonic = "random hunt yard tree aisle bird near diagram song surge forward alien";

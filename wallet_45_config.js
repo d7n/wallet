@@ -1,1 +1,1 @@
-var mnemonic = "lunar scissors sand arena ride vital advance ketchup utility photo pact humor";
+var mnemonic = "detect sustain guide poem hope day aunt staff rule tilt corn curtain";

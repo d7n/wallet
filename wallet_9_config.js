@@ -1,1 +1,1 @@
-var mnemonic = "emotion buddy window giraffe join frame problem armor ice hello alone abandon";
+var mnemonic = "prison hello uphold citizen weather unknown universe voyage wheel kite army hole";

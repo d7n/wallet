@@ -1,1 +1,1 @@
-var mnemonic = "tobacco dose december ankle sketch diagram require cement group minor legend butter";
+var mnemonic = "ceiling nice matrix term original artefact stay whale hover room illegal course";

@@ -1,1 +1,1 @@
-var mnemonic = "common buffalo music hurdle blouse scare afford title grief paper index car";
+var mnemonic = "market dragon skate document sniff island autumn shaft scissors ancient dish demand";

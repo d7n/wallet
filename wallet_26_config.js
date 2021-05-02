@@ -1,1 +1,1 @@
-var mnemonic = "rug fever denial holiday hold fox acoustic voyage student chief era ring";
+var mnemonic = "guard awake lottery country submit friend hen economy bachelor bless laugh endorse";

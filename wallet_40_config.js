@@ -1,1 +1,1 @@
-var mnemonic = "orphan oblige attack loan buzz spray code print hurt affair slab sorry";
+var mnemonic = "inside below nerve romance power atom number bacon order stable hire motor";

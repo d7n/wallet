@@ -1,1 +1,1 @@
-var mnemonic = "supreme merge sand term pear elbow manage stuff confirm steel coin acoustic";
+var mnemonic = "swear poet inmate anxiety melody defy simple fancy genuine neutral accuse unveil";

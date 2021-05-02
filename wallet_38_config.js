@@ -1,1 +1,1 @@
-var mnemonic = "fury rabbit drip document fold unable replace infant federal artefact grocery rhythm";
+var mnemonic = "knee plunge total tobacco either olympic airport afraid liquid page small airport";

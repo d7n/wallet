@@ -1,1 +1,1 @@
-var mnemonic = "trim attitude shift vacant jeans total olympic region barely doll public blur";
+var mnemonic = "onion visit raw pact about artefact bring lady amount early bundle friend";

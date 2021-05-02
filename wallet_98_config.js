@@ -1,1 +1,1 @@
-var mnemonic = "potato link miracle group level exact capable creek art endorse good clown";
+var mnemonic = "pool scene keen behind unable ill pool shield shrug hurt hurt south";

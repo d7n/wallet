@@ -1,1 +1,1 @@
-var mnemonic = "demise action video fold stadium scorpion park acid same swear dog east";
+var mnemonic = "pony empower can fiction myth manual crack express conduct artefact check ordinary";

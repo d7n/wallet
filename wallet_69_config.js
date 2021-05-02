@@ -1,1 +1,1 @@
-var mnemonic = "canyon moment slow earn moon idle wolf minor obey garment place boost";
+var mnemonic = "error garden document interest forget assault robust large holiday wise afraid weather";

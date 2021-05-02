@@ -1,1 +1,1 @@
-var mnemonic = "nation plunge wink doctor return rice announce rule screen nuclear tape mass";
+var mnemonic = "globe time fly world brother undo wave write practice coach west jump";

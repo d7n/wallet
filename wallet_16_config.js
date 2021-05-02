@@ -1,1 +1,1 @@
-var mnemonic = "feature property grid relief blossom sorry exhaust leader diagram combine news milk";
+var mnemonic = "roof exit cute episode toddler survey confirm label cricket double era size";

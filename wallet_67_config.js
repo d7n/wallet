@@ -1,1 +1,1 @@
-var mnemonic = "carbon panther habit address toss crew flip crater theory response organ tuition";
+var mnemonic = "track future fly reduce robust screen method animal jar depart age target";

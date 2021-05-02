@@ -1,1 +1,1 @@
-var mnemonic = "finger attract brush foam size large slim spy deputy beauty task win";
+var mnemonic = "museum surround venue siege gold depend episode check multiply knock library lunch";

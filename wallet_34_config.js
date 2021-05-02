@@ -1,1 +1,1 @@
-var mnemonic = "special siege dirt cruel leader zone erupt nose issue select ski mirror";
+var mnemonic = "nerve museum valve net can truck radar novel youth live venture action";

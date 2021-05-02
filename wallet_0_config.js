@@ -1,1 +1,1 @@
-var mnemonic = "depend setup there dizzy few fly range frequent west before cage saddle";
+var mnemonic = "pattern client demise verify step crop fashion corn rescue fitness expose awful";

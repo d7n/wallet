@@ -1,1 +1,1 @@
-var mnemonic = "gown scissors possible near diagram process false hero leader practice tuition parade";
+var mnemonic = "jelly nation gown scatter pride illegal story chest fragile left unfair urge";

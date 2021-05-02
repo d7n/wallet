@@ -1,1 +1,1 @@
-var mnemonic = "puppy twelve chase pupil ring peasant icon pet pulse inflict music diamond";
+var mnemonic = "scrub person garden armor place surprise display glove glory suggest chef unable";

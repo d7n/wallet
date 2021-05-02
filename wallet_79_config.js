@@ -1,1 +1,1 @@
-var mnemonic = "husband forum often frequent ripple seed feed turkey liquid mask debris ring";
+var mnemonic = "review rule indicate course beyond job update pilot screen garment property museum";

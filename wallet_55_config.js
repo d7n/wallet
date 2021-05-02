@@ -1,1 +1,1 @@
-var mnemonic = "catch omit discover awkward open trip pitch minimum inflict young they bachelor";
+var mnemonic = "wish clip atom side magic acquire pudding still mountain merge wreck limit";

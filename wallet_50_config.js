@@ -1,1 +1,1 @@
-var mnemonic = "crime amateur denial nice manual cousin oyster jar tortoise fit crater one";
+var mnemonic = "vacuum bulb boil romance outdoor history mouse person negative scissors hub wise";

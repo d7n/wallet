@@ -1,1 +1,1 @@
-var mnemonic = "autumn riot month panel acquire pudding flame blue knife orphan always ahead";
+var mnemonic = "unlock model aunt inquiry skate recall chunk forget program inner book wrist";

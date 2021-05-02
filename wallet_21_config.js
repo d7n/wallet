@@ -1,1 +1,1 @@
-var mnemonic = "before team inflict close merge window empty velvet ignore visual hurt night";
+var mnemonic = "bounce coffee west gold offer enlist empower high impact quarter salad hidden";

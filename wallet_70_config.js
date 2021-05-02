@@ -1,1 +1,1 @@
-var mnemonic = "quick lunar chase rescue purchase act because swing tiger bamboo nose measure";
+var mnemonic = "laugh proud acquire leaf good rail warfare script essay approve silver again";

@@ -1,1 +1,1 @@
-var mnemonic = "level extend firm keen coyote cage trial giant heart transfer collect dilemma";
+var mnemonic = "measure empty because afford pole regular lend rail expand deputy oil often";

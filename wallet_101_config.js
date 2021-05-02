@@ -1,1 +1,1 @@
-var mnemonic = "birth quantum hold explain laundry wing enrich fuel sorry ignore palm timber";
+var mnemonic = "reunion expect slush round inmate need rib force saddle leisure leg spare";

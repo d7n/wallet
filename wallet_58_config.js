@@ -1,1 +1,1 @@
-var mnemonic = "deal morning truly flower across accuse wheel exchange luggage diary confirm jump";
+var mnemonic = "drill initial until lonely dignity monster key swear diet spice fabric top";

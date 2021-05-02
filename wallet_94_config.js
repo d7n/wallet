@@ -1,1 +1,1 @@
-var mnemonic = "forward pumpkin debate keen sister material oven action blur only horn else";
+var mnemonic = "daring oval segment cry gospel father bone era prepare cushion fiscal grant";

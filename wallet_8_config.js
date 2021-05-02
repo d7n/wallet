@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit mouse stable business result trigger reject twice spin basket fall crawl";
+var mnemonic = "issue jazz cram pyramid beef pizza poem chapter baby priority extra load";

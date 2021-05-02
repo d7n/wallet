@@ -1,1 +1,1 @@
-var mnemonic = "service once curtain gap situate twin sweet over river nominee record electric";
+var mnemonic = "female flat select public sustain crush gap prize essence sea letter lava";

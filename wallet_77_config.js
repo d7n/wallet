@@ -1,1 +1,1 @@
-var mnemonic = "come exit dove mail crater guitar battle main fresh loud salute index";
+var mnemonic = "portion market aunt sudden duty modify foster amused ahead shoe monkey prevent";

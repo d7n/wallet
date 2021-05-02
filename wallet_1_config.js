@@ -1,1 +1,1 @@
-var mnemonic = "zero rhythm title toilet visit more tell plug year young intact reflect";
+var mnemonic = "bullet shrug sad expire grocery paddle mouse knee occur race fire ask";

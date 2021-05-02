@@ -1,1 +1,1 @@
-var mnemonic = "winter shuffle network route ice someone lawn leaf electric glad tumble leopard";
+var mnemonic = "famous now unit pear hole together now unknown stand other sell sorry";

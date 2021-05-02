@@ -1,1 +1,1 @@
-var mnemonic = "peanut domain year awful staff rescue pill inform hidden bronze void expire";
+var mnemonic = "pave dress virtual monkey wagon uniform town hero crawl kind expire issue";

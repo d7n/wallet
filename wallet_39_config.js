@@ -1,1 +1,1 @@
-var mnemonic = "kiss train future task click cable amount crane eye roof power scale";
+var mnemonic = "magic elder hover resist scheme brown hammer permit depart sugar isolate spin";

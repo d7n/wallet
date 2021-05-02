@@ -1,1 +1,1 @@
-var mnemonic = "trumpet scheme normal song spawn intact sure chunk unlock worth thought acquire";
+var mnemonic = "float divorce middle butter picture acoustic anchor vast gap pool first match";

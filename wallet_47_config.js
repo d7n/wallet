@@ -1,1 +1,1 @@
-var mnemonic = "section merit load rate street master motor left thing illness dignity camp";
+var mnemonic = "power decline pelican sad bean return supply fiber juice awake mule rural";

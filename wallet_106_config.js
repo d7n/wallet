@@ -1,1 +1,1 @@
-var mnemonic = "early assault tree embrace wet wash answer general domain biology arch situate";
+var mnemonic = "sail involve scrap coin spawn weird march nature ignore issue useful laugh";

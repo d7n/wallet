@@ -1,1 +1,1 @@
-var mnemonic = "foot course twist camp source fringe success pottery fiber slight universe toy";
+var mnemonic = "dentist green expand bus upset sea have paper usage assume heavy hero";

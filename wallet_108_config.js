@@ -1,1 +1,1 @@
-var mnemonic = "list bread assault gloom task boring lion wasp target later advice mansion";
+var mnemonic = "weekend hope habit false clog bench fish grain gaze shaft twenty final";

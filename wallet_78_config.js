@@ -1,1 +1,1 @@
-var mnemonic = "light fee hurdle swing cotton spin consider title broccoli law surprise indoor";
+var mnemonic = "process fury cup finger essay lunch stock increase tone punch barrel trumpet";

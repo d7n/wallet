@@ -1,1 +1,1 @@
-var mnemonic = "garage ask sense fence rough omit hair pond video piano fragile school";
+var mnemonic = "lesson acid track afford isolate coconut suffer make air cute bring void";

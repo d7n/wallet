@@ -1,1 +1,1 @@
-var mnemonic = "pet sense owner seminar hunt pistol idle also rubber finish coil chronic";
+var mnemonic = "final pizza argue remember host crazy brick unique tip hedgehog panel general";

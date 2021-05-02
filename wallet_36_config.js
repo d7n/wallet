@@ -1,1 +1,1 @@
-var mnemonic = "mail mercy blast detail lava deer egg december crowd escape horror stadium";
+var mnemonic = "smart control auto heavy achieve remain moon loyal tornado scorpion honey forest";

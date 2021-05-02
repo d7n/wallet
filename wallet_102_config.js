@@ -1,1 +1,1 @@
-var mnemonic = "stay found element protect patrol half forward knife car develop napkin stairs";
+var mnemonic = "ski flavor recall boost vessel zero cheese only valley only retreat one";

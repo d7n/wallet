@@ -1,1 +1,1 @@
-var mnemonic = "high video elbow expire consider pipe guide purse future myself cat shove";
+var mnemonic = "warm treat rotate endless glimpse sell fortune tomorrow error rain praise mercy";

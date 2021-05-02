@@ -1,1 +1,1 @@
-var mnemonic = "peasant wife host combine bamboo couple quarter mirror illness cinnamon nurse issue";
+var mnemonic = "frame brother woman lion tattoo height move puppy velvet slogan shiver certain";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify picture method veteran raccoon faculty gap thumb easy glove virtual gold";
+var mnemonic = "crystal gown supply aunt armor book atom town depth taxi clerk upgrade";

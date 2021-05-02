@@ -1,1 +1,1 @@
-var mnemonic = "silly throw unit shine during stuff dynamic fiber stereo gas team direct";
+var mnemonic = "light someone merry audit anger pudding surface engine squirrel hurry myself stay";

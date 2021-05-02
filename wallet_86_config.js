@@ -1,1 +1,1 @@
-var mnemonic = "broken crazy acquire element predict slush opera vintage split question merge need";
+var mnemonic = "erupt leaf course morning lamp wheel foot dry yellow blossom ripple team";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial patrol lizard truck pretty demand pave shuffle reflect goat garlic planet";
+var mnemonic = "crystal wedding coffee disease admit someone small slide spend below injury lucky";

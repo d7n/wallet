@@ -1,1 +1,1 @@
-var mnemonic = "remember ten flip soldier amused umbrella oval tiger later quantum fame make";
+var mnemonic = "series slogan saddle obscure total maze select express bid gun viable cost";

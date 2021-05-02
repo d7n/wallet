@@ -1,1 +1,1 @@
-var mnemonic = "young shove mix story fever census helmet erase defy engine head rhythm";
+var mnemonic = "dolphin patch awful what where citizen little million bleak lake tip mixture";

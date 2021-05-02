@@ -1,1 +1,1 @@
-var mnemonic = "phone maple major oblige curve valid embark garage echo strong next olive";
+var mnemonic = "need lobster own eagle feed flash round deliver pottery wonder horse convince";

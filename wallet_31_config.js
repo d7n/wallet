@@ -1,1 +1,1 @@
-var mnemonic = "swarm lizard wolf crunch burger six leopard miss produce receive mom february";
+var mnemonic = "lizard prison primary fuel comic later style chair myth assault human snack";
