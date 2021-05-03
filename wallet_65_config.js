@@ -1,1 +1,1 @@
-var mnemonic = "february void vendor castle connect chair saddle table three law chest south";
+var mnemonic = "hundred below pill artwork chef puzzle trim rib direct elite parrot climb";

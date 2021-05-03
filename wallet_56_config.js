@@ -1,1 +1,1 @@
-var mnemonic = "hurry lazy time love focus fly boil fabric ethics adapt bacon brand";
+var mnemonic = "predict blame barely laundry fitness scheme couple flip help spawn person habit";

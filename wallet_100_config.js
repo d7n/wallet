@@ -1,1 +1,1 @@
-var mnemonic = "solid culture recall list critic often spin orient only attitude spin woman";
+var mnemonic = "cart eternal border ten salmon foot muffin apple february key ethics pistol";

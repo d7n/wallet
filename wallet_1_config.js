@@ -1,1 +1,1 @@
-var mnemonic = "lonely door proof cannon lab switch arch brief rely depend debris bunker";
+var mnemonic = "park slender gas exclude air twin path public empower face mobile eagle";

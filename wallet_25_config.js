@@ -1,1 +1,1 @@
-var mnemonic = "swing torch clerk ritual common then awake agent picture dwarf auction pattern";
+var mnemonic = "access dinosaur assault unhappy elder song nominee van under hold usual erase";

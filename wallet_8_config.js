@@ -1,1 +1,1 @@
-var mnemonic = "happy salon reduce limb year risk fly eternal lunch busy achieve math";
+var mnemonic = "weapon cabbage void panda auto cancel door almost clever garage traffic evidence";

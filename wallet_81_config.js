@@ -1,1 +1,1 @@
-var mnemonic = "quarter walk grid circle dry festival direct robust exotic agree orchard middle";
+var mnemonic = "quantum bar nuclear aisle combine bar youth actress nest enemy talent exchange";

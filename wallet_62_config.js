@@ -1,1 +1,1 @@
-var mnemonic = "inmate obtain age video fortune fitness aunt neglect way point slender yellow";
+var mnemonic = "alcohol first remain moon ice citizen delay weather hamster assist table alert";

@@ -1,1 +1,1 @@
-var mnemonic = "bicycle patient clever flower harbor cupboard ill tag junk sudden coconut erupt";
+var mnemonic = "soul floor problem dance hospital combine car fitness fly private sport mirror";

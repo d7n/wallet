@@ -1,1 +1,1 @@
-var mnemonic = "benefit canal gym other agent abuse disorder follow giraffe bundle punch proud";
+var mnemonic = "traffic hello duty melody inspire tennis miracle gather soccer plastic tape all";

@@ -1,1 +1,1 @@
-var mnemonic = "release screen wealth proof once happy meadow wine van ecology clock make";
+var mnemonic = "frame gaze minimum eternal work wheel hobby real element duck submit unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "day youth claim useless job label panel metal march rent inject wool";
+var mnemonic = "model dumb emotion merit hill gift rhythm style vacant benefit always online";

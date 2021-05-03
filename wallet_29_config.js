@@ -1,1 +1,1 @@
-var mnemonic = "wrist ball cheese note polar fury sell ethics adapt choose impulse lounge";
+var mnemonic = "primary kid win meadow tired bind hurt right express table humble road";

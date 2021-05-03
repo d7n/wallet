@@ -1,1 +1,1 @@
-var mnemonic = "lend jungle marine dilemma ignore funny fence bar dumb water diamond shop";
+var mnemonic = "people rice credit final leaf hard off knee increase crucial case solid";

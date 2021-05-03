@@ -1,1 +1,1 @@
-var mnemonic = "tackle silver flame right decline treat risk keen hole guitar final huge";
+var mnemonic = "impose elevator choice style wish robust patch museum cute pause logic remind";

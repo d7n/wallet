@@ -1,1 +1,1 @@
-var mnemonic = "pretty melt erode quote leave monster iron music pink hungry that grain";
+var mnemonic = "diesel sunny tray sail hammer tiny vague rookie ritual pioneer fever monkey";

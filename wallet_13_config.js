@@ -1,1 +1,1 @@
-var mnemonic = "shrug flat consider burden disease puppy dizzy rare define six door luxury";
+var mnemonic = "guess canvas pupil horse swim voice bracket muscle gain style country story";

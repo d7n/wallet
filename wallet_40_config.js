@@ -1,1 +1,1 @@
-var mnemonic = "impulse rate motion dad result run spice burden silent avoid warm aerobic";
+var mnemonic = "link middle position middle police derive churn car chicken chair disagree witness";

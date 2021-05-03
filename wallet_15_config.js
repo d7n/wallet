@@ -1,1 +1,1 @@
-var mnemonic = "nominee leaf lava boil couch cupboard mule dress any demise diet material";
+var mnemonic = "squirrel render roof lamp width mushroom liberty someone assault hedgehog monitor toy";

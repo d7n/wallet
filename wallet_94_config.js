@@ -1,1 +1,1 @@
-var mnemonic = "food voice emotion tortoise tortoise easy square unique uphold access unique hunt";
+var mnemonic = "vacuum pull mean venture perfect file action input scrap impulse swarm behind";

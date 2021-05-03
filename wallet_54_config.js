@@ -1,1 +1,1 @@
-var mnemonic = "heavy insane engine assist degree change start rifle taxi admit enforce cushion";
+var mnemonic = "magic letter this dice survey turkey alien episode melody wheat birth swift";

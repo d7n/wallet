@@ -1,1 +1,1 @@
-var mnemonic = "stuff injury execute wing walk naive topic minute danger quiz ketchup rather";
+var mnemonic = "chicken lion immune dust relief danger boy iron boost choice share mad";

@@ -1,1 +1,1 @@
-var mnemonic = "improve simple nurse network verify soda observe book tape gift small impulse";
+var mnemonic = "frame opera sign easy gesture ill damp february rose wire forest normal";

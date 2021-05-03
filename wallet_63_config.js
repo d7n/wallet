@@ -1,1 +1,1 @@
-var mnemonic = "marine coffee danger tuna caution joy core attack board cradle kangaroo improve";
+var mnemonic = "pear inspire list income mad dutch save express tiger need during reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty expand clog illegal alcohol bamboo over vapor turkey display utility cool";
+var mnemonic = "seat unaware napkin hunt shop arctic type sing happy able flash shuffle";

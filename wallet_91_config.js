@@ -1,1 +1,1 @@
-var mnemonic = "couple income hard flock element end carpet play agree super alien drift";
+var mnemonic = "shift few copy hill symptom badge soap prepare peanut earth faint recycle";

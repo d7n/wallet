@@ -1,1 +1,1 @@
-var mnemonic = "way pigeon ask canal stand tank blur rubber myself must begin stomach";
+var mnemonic = "champion regret keen dial mammal any object genuine daring corn small vivid";

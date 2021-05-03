@@ -1,1 +1,1 @@
-var mnemonic = "flavor average muscle approve rate rebel olympic heart mango country monitor resemble";
+var mnemonic = "urban walnut blade admit salt popular need refuse winter foam believe coffee";

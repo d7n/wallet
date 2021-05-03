@@ -1,1 +1,1 @@
-var mnemonic = "also give funny swing bike huge option pulp flat dolphin face stock";
+var mnemonic = "doll next cabin dumb hub weird toast enrich elbow fire glass height";

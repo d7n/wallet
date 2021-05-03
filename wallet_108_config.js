@@ -1,1 +1,1 @@
-var mnemonic = "reunion bleak delay swamp unfold very budget rug rent swap hammer regular";
+var mnemonic = "mouse reward loud moon lazy school crane check sense unique phrase hill";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet ski sadness pulp pilot track frog pelican equal demise dizzy celery";
+var mnemonic = "riot ankle quote boss spy tunnel edit skull reward miracle hope aerobic";

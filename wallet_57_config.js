@@ -1,1 +1,1 @@
-var mnemonic = "sing barrel crucial spirit setup radar divide shy sound farm planet venture";
+var mnemonic = "flame prize erase actual company antenna spoil pass write alpha impact law";

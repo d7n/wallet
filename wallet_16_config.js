@@ -1,1 +1,1 @@
-var mnemonic = "still draw daughter blast route okay evoke zebra because child wolf rich";
+var mnemonic = "creek click flame scrap huge inmate adapt index road flight parade when";

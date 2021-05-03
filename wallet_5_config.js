@@ -1,1 +1,1 @@
-var mnemonic = "reopen base tennis auto obtain flavor bacon wrong disagree toward shed else";
+var mnemonic = "husband swamp old marine hybrid main horn tell lesson used vocal clap";

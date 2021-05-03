@@ -1,1 +1,1 @@
-var mnemonic = "soul winter finish melt someone require boss mom orange one real anxiety";
+var mnemonic = "disease orphan gossip supreme achieve mistake atom pumpkin alley exchange shaft trash";

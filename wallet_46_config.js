@@ -1,1 +1,1 @@
-var mnemonic = "gas urban chief help glance canyon oppose keep scrap property boil pistol";
+var mnemonic = "excite oven heavy squeeze knife column slim already forest grass orange baby";

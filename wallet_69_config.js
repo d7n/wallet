@@ -1,1 +1,1 @@
-var mnemonic = "plastic balcony science dilemma notable rate armed modify distance stable deliver security";
+var mnemonic = "mother payment lab final reunion hamster region ask machine same custom demand";

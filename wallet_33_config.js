@@ -1,1 +1,1 @@
-var mnemonic = "short fringe noise cram object practice sunny glide because olympic ball army";
+var mnemonic = "cricket police evil hold shove dilemma illegal smile month congress bamboo guard";

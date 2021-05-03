@@ -1,1 +1,1 @@
-var mnemonic = "legal arctic medal dentist hold unaware pyramid pioneer domain gasp income grape";
+var mnemonic = "salute hat hazard tribe govern door spoil basket spare grunt afford review";

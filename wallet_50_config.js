@@ -1,1 +1,1 @@
-var mnemonic = "office wink wash erosion void orbit acquire hover dry acquire oppose unfair";
+var mnemonic = "list can clap combine faint front material claw faculty arctic victory width";

@@ -1,1 +1,1 @@
-var mnemonic = "come maid climb civil lion quality select element around now garbage cricket";
+var mnemonic = "guard penalty armed cart arrow sugar fancy bamboo paper match repair year";

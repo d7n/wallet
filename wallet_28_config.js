@@ -1,1 +1,1 @@
-var mnemonic = "alter pencil skirt arrive pact industry term lawn scare grab nose network";
+var mnemonic = "kitchen flag solar salt sniff brass warrior track observe party narrow shop";

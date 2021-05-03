@@ -1,1 +1,1 @@
-var mnemonic = "century say common category gossip arctic swift weapon race bicycle final bunker";
+var mnemonic = "pill tissue open feel shock sand enable nature oil accuse romance crowd";

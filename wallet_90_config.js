@@ -1,1 +1,1 @@
-var mnemonic = "duck adapt demise library announce click humor reveal umbrella success unfold clap";
+var mnemonic = "chair caution second such paddle lemon soft wheel clown front vanish antique";

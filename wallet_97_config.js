@@ -1,1 +1,1 @@
-var mnemonic = "corn giggle dolphin bleak shine vital limb view cliff attend strategy blame";
+var mnemonic = "caution prison venture ski silk cigar ozone access plug supply error ask";

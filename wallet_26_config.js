@@ -1,1 +1,1 @@
-var mnemonic = "trap occur danger funny dinosaur popular finish phone jump diet mechanic kid";
+var mnemonic = "crystal survey game movie feature already frost bread fruit solid grab just";

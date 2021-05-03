@@ -1,1 +1,1 @@
-var mnemonic = "vast glass blue tent air breeze physical someone method into siren unusual";
+var mnemonic = "cave usage opinion video flat square taxi oppose churn leave blue bring";

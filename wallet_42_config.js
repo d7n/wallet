@@ -1,1 +1,1 @@
-var mnemonic = "easily enjoy ring unveil trust hat dynamic buzz group maid fan direct";
+var mnemonic = "prison link deputy provide wagon leader tragic slide flip truck such kid";

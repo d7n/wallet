@@ -1,1 +1,1 @@
-var mnemonic = "spirit blur result goddess shallow gravity miracle goat tiny ball tray stereo";
+var mnemonic = "grow obtain like beach danger festival matter margin range bind step island";

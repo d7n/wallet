@@ -1,1 +1,1 @@
-var mnemonic = "ahead network achieve stem eternal regular bar fox window aerobic animal surge";
+var mnemonic = "afraid wisdom pill keep artwork jeans treat achieve mixture output steel hollow";

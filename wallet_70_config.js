@@ -1,1 +1,1 @@
-var mnemonic = "promote teach grain banner element wall fix reform tonight broken skull guide";
+var mnemonic = "session veteran asthma desk situate load sail sniff box tree series summer";

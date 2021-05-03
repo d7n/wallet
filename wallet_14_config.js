@@ -1,1 +1,1 @@
-var mnemonic = "alpha soda clerk urge lecture amount speed oak arena wheel damage divide";
+var mnemonic = "hard word coffee confirm admit real cluster torch shallow denial kind popular";

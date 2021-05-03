@@ -1,1 +1,1 @@
-var mnemonic = "away orange target three still below paper famous tragic first hello merry";
+var mnemonic = "swallow end drastic cash gap wolf sense warrior list thought upgrade ready";

@@ -1,1 +1,1 @@
-var mnemonic = "crime toast slim wonder lawn wrist scissors wreck trash ugly plug plastic";
+var mnemonic = "top squeeze melt attack season party surprise bomb napkin day guide pottery";

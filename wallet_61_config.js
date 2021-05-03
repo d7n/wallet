@@ -1,1 +1,1 @@
-var mnemonic = "drastic eagle capital lake wasp uncle focus fine nothing ramp kangaroo actress";
+var mnemonic = "sausage aisle valve inhale morning stereo demise ritual lift urge eager salute";

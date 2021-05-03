@@ -1,1 +1,1 @@
-var mnemonic = "random obey describe filter parrot snow merry fiction trap deny artefact weapon";
+var mnemonic = "empower barrel neither ladder gas gadget glimpse crawl acid couple hungry mind";

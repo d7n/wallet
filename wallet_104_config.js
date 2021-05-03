@@ -1,1 +1,1 @@
-var mnemonic = "orange task arrest person family way rain lobster retire plate fetch update";
+var mnemonic = "wolf surge quarter open bitter damage obscure depart change pupil release moral";

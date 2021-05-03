@@ -1,1 +1,1 @@
-var mnemonic = "coast spy winner sphere three bundle display culture orange gentle cash rice";
+var mnemonic = "pave foam ball hat frog grant foil banner enrich digital floor arrow";

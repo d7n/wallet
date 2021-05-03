@@ -1,1 +1,1 @@
-var mnemonic = "index shrug slab wrap diagram habit element witness mixed mention tag add";
+var mnemonic = "blast inner fluid purpose castle force space sausage slow better reward congress";

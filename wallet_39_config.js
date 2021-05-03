@@ -1,1 +1,1 @@
-var mnemonic = "lend address receive crawl mesh list magnet pupil leisure piece sort special";
+var mnemonic = "foil inch choice crowd night habit seek maple month manage shed brush";

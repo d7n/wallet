@@ -1,1 +1,1 @@
-var mnemonic = "loop relief sweet tomorrow winner uniform waste flight syrup swamp night sister";
+var mnemonic = "bundle happy buyer prosper cart short salmon reflect crush kingdom census option";

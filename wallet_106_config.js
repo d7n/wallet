@@ -1,1 +1,1 @@
-var mnemonic = "exit settle involve hedgehog excess vintage unable nerve sun health outdoor latin";
+var mnemonic = "rabbit route shift pepper same extra tree rug sauce zone armed deposit";

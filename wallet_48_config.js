@@ -1,1 +1,1 @@
-var mnemonic = "orbit lab clap vapor trip sail bridge satisfy profit autumn eager express";
+var mnemonic = "provide noble resemble lunar shuffle resemble then elbow ocean luxury wild engine";

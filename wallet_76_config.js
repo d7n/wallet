@@ -1,1 +1,1 @@
-var mnemonic = "wild visa topic vivid pink crop glare guitar danger uphold cable differ";
+var mnemonic = "dog female infant chicken enter permit lazy cinnamon vintage club position inquiry";

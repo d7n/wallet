@@ -1,1 +1,1 @@
-var mnemonic = "kitten pair alcohol fresh gasp heavy movie orient cage decide crater icon";
+var mnemonic = "install attitude cube simple index acoustic useless blanket curious tennis hawk gallery";

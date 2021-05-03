@@ -1,1 +1,1 @@
-var mnemonic = "blind receive iron typical solve dove fever cruise ripple fade earth board";
+var mnemonic = "second lawsuit coast utility visit check scissors city quality urban practice very";

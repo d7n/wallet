@@ -1,1 +1,1 @@
-var mnemonic = "reject life cave unknown minimum escape inject pulse pyramid siege rely divorce";
+var mnemonic = "width spot bachelor monster give reveal vendor monkey quiz innocent shoulder ozone";

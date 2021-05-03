@@ -1,1 +1,1 @@
-var mnemonic = "sorry tooth jewel coral permit seven wait dice body find combine shield";
+var mnemonic = "exit snake lunch educate armor volcano dish basic usage fitness kangaroo legal";

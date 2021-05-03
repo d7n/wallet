@@ -1,1 +1,1 @@
-var mnemonic = "true wise bullet confirm infant august quick kit antique useless citizen latin";
+var mnemonic = "drop dove history outer vault only utility main index glare furnace expire";

@@ -1,1 +1,1 @@
-var mnemonic = "empower rough apart abandon left canvas yellow kiss curve custom sight boat";
+var mnemonic = "alien because crazy female city list easily suspect document rent blood magic";

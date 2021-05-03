@@ -1,1 +1,1 @@
-var mnemonic = "struggle gun twice media noise vast ridge flash mother claim pattern plunge";
+var mnemonic = "rule sight endless wild produce execute question regret wheat devote great visa";

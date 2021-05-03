@@ -1,1 +1,1 @@
-var mnemonic = "chat pledge cheap style rule result garbage desert vivid pudding blouse regret";
+var mnemonic = "system mushroom crack person dinner slow siren limit mistake team eyebrow phone";

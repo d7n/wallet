@@ -1,1 +1,1 @@
-var mnemonic = "enough diesel border omit click order cute price salmon before moon need";
+var mnemonic = "pumpkin notice bacon pencil remove donor suit thank board green clock rain";

@@ -1,1 +1,1 @@
-var mnemonic = "wish plate balance nuclear scout then cat lamp chat step this leg";
+var mnemonic = "snap topple service guess bronze first legend way heavy stamp yellow swift";

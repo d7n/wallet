@@ -1,1 +1,1 @@
-var mnemonic = "figure swallow fat spoil uncover drama service zoo dinner oblige pilot month";
+var mnemonic = "dilemma broken select turtle dose actual flower eight economy chuckle moon frame";

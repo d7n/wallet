@@ -1,1 +1,1 @@
-var mnemonic = "talent fan mango december fever true pole target remember trap shuffle loop";
+var mnemonic = "page crime bench snap subway subject term clever hundred borrow fragile cupboard";

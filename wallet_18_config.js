@@ -1,1 +1,1 @@
-var mnemonic = "door sun cattle print fire stem shy gas hero problem rice result";
+var mnemonic = "pear hurry settle image artefact kingdom any home detail dust axis source";

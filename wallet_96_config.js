@@ -1,1 +1,1 @@
-var mnemonic = "front toddler drill bright ill pear rhythm occur hybrid manual shrimp bean";
+var mnemonic = "royal economy apart paper icon loud poverty priority easy wave evolve find";

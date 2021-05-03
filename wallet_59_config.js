@@ -1,1 +1,1 @@
-var mnemonic = "churn trip fantasy detect object garage push veteran bus wrist fall matrix";
+var mnemonic = "cross element wink during bridge image leaf dial click room produce beyond";

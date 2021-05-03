@@ -1,1 +1,1 @@
-var mnemonic = "vendor flavor enrich pony later inform typical holiday swap lawn jar rather";
+var mnemonic = "result math appear occur come tennis scatter aerobic legal year such power";

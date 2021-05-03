@@ -1,1 +1,1 @@
-var mnemonic = "insect stumble maximum current couple anger wheat avoid erase kiwi speak glass";
+var mnemonic = "art skate jazz paddle double way right vacuum cook poem tornado clean";

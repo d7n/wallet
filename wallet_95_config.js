@@ -1,1 +1,1 @@
-var mnemonic = "similar doll outside system fire bridge lounge absorb joy action heart snake";
+var mnemonic = "amused danger bottom kit enrich ritual remind track play topic focus insane";

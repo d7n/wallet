@@ -1,1 +1,1 @@
-var mnemonic = "sad clip crunch under cousin slide squirrel blast unaware hidden bulk empty";
+var mnemonic = "cross clay gun code wool damp grow sort outer knock economy vote";

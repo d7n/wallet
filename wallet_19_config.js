@@ -1,1 +1,1 @@
-var mnemonic = "acquire again jeans radar toddler target place room uncover whip casino powder";
+var mnemonic = "elder cart thank expire gas tonight then supply tell release jar diesel";

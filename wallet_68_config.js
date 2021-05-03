@@ -1,1 +1,1 @@
-var mnemonic = "fresh have ranch great gasp inform slush fresh club yard tomato age";
+var mnemonic = "ball invest waste hedgehog bleak tiny purchase blush buyer february valve draw";

@@ -1,1 +1,1 @@
-var mnemonic = "entire trouble raccoon behind tortoise dawn protect oven friend blur love naive";
+var mnemonic = "lounge spatial midnight tube keen disorder artefact riot jeans script chat road";

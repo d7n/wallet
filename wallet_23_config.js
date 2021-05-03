@@ -1,1 +1,1 @@
-var mnemonic = "mouse custom drop number analyst injury then close exit awake session culture";
+var mnemonic = "arena cabin december muffin toilet grief term error gain broken orange over";

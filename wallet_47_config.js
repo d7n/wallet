@@ -1,1 +1,1 @@
-var mnemonic = "truck resemble auto escape romance cash tube enact drink inhale eyebrow vapor";
+var mnemonic = "skirt dirt village also toilet image hundred coffee process junior unhappy stand";

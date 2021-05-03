@@ -1,1 +1,1 @@
-var mnemonic = "giggle interest any awful alcohol age doll act submit dawn outer globe";
+var mnemonic = "humble rain demand few kind work kite obtain manual torch employ ready";

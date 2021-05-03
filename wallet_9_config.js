@@ -1,1 +1,1 @@
-var mnemonic = "asthma ship street void unusual raw crop scheme unveil skirt shine tray";
+var mnemonic = "file hair hat minimum also media copper receive butter history baby stereo";

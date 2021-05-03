@@ -1,1 +1,1 @@
-var mnemonic = "same exhaust pottery school mobile symptom olympic champion earn despair asthma daughter";
+var mnemonic = "train heart apology sibling meadow walk slide various spell heart betray duck";

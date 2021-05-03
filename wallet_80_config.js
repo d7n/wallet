@@ -1,1 +1,1 @@
-var mnemonic = "unusual labor appear rail spirit gesture sweet frown stumble perfect devote around";
+var mnemonic = "master hub harsh sniff fever bacon stove chapter tower bacon talk mystery";

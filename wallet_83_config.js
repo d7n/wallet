@@ -1,1 +1,1 @@
-var mnemonic = "runway alcohol romance teach wreck person age staff shoe exact regret credit";
+var mnemonic = "quarter coast champion discover race maple screen clown require deliver circle acid";

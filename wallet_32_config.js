@@ -1,1 +1,1 @@
-var mnemonic = "bind ramp home primary knee tourist talk lucky purpose divide verb gallery";
+var mnemonic = "rail black erase polar apology loyal embrace expect short wife winter rain";

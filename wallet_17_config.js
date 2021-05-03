@@ -1,1 +1,1 @@
-var mnemonic = "divert super raise fantasy chaos chat roast perfect ability office column pipe";
+var mnemonic = "mandate drip slight combine amount lens believe toy visual right attend gate";

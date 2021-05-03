@@ -1,1 +1,1 @@
-var mnemonic = "include maple video cover aware space crisp replace peasant dragon twin mail";
+var mnemonic = "security delay uphold spatial where logic congress cradle metal check measure lizard";

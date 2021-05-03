@@ -1,1 +1,1 @@
-var mnemonic = "electric cage coin rural tennis toilet time iron guess excuse ignore quick";
+var mnemonic = "decorate morning injury disease task inquiry rail snow indicate assault slogan sock";
