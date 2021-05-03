@@ -1,1 +1,1 @@
-var mnemonic = "pluck random suit patch ginger rescue vanish speak margin still fun orbit";
+var mnemonic = "client stick sick ivory arrest can lava slender gun clutch fantasy between";

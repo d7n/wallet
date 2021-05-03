@@ -1,1 +1,1 @@
-var mnemonic = "pig vibrant hero outdoor erode dice welcome slim scrub announce gold cinnamon";
+var mnemonic = "oval text upgrade tilt vendor neutral horror nest indoor loop rough leg";

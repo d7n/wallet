@@ -1,1 +1,1 @@
-var mnemonic = "flash host recycle genius deal awful solve own fit glue eager loud";
+var mnemonic = "feel also chaos giant floor trap water series glare exhaust special sure";

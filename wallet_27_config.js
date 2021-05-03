@@ -1,1 +1,1 @@
-var mnemonic = "hover armed sentence humble cushion around crater harsh retire argue animal romance";
+var mnemonic = "tackle tomato oblige sadness wash lottery like put dial gloom else above";

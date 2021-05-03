@@ -1,1 +1,1 @@
-var mnemonic = "critic tribe type extra direct energy gown mango key thank awake super";
+var mnemonic = "coconut wide dolphin output rack better trick check ecology enter drive icon";

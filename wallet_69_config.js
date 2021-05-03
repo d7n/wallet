@@ -1,1 +1,1 @@
-var mnemonic = "produce apple dentist nominee olympic target park fruit view scrap define useless";
+var mnemonic = "daughter under stem knock this myself aerobic farm proof certain remove shove";

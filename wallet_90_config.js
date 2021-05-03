@@ -1,1 +1,1 @@
-var mnemonic = "shallow spoil disorder expose assist person write athlete access tilt vacuum giggle";
+var mnemonic = "course seven file gift violin antenna where chapter skate output start broken";

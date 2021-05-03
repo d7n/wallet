@@ -1,1 +1,1 @@
-var mnemonic = "raw athlete asthma double purchase muscle crazy blood deer valley actress sauce";
+var mnemonic = "endless solar toast sentence bag seed arctic client van cruise link treat";

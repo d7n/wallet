@@ -1,1 +1,1 @@
-var mnemonic = "across chaos engine demise pig breeze tuition attitude smooth tortoise subway park";
+var mnemonic = "lazy town toilet victory limb budget board color review clinic outer grief";

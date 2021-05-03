@@ -1,1 +1,1 @@
-var mnemonic = "crawl entry move predict response ahead scrap health bargain diamond behind output";
+var mnemonic = "enough wise shine impulse mutual spice problem absorb shadow genre write pony";

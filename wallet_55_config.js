@@ -1,1 +1,1 @@
-var mnemonic = "below frozen taste trend renew lonely impact produce sing assault chaos army";
+var mnemonic = "gap rival other twist need fetch damp truth gossip swamp seat south";

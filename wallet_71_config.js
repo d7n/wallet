@@ -1,1 +1,1 @@
-var mnemonic = "tragic napkin physical notice rural powder kite dinosaur piano misery kitten example";
+var mnemonic = "want argue topple cash spatial want model mansion siege smooth page marble";

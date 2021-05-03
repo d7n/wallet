@@ -1,1 +1,1 @@
-var mnemonic = "muscle where antique vanish engage crew electric gold demise main wrong beyond";
+var mnemonic = "fever viable nerve boss seat improve alley narrow horse congress trigger seven";

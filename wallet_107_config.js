@@ -1,1 +1,1 @@
-var mnemonic = "sure always abandon anchor shine creek pulse doctor able unusual priority brother";
+var mnemonic = "cream question drop gather daring resist direct inspire lamp hurt ginger under";

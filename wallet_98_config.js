@@ -1,1 +1,1 @@
-var mnemonic = "nest wild document butter runway armor once future source math sunset enrich";
+var mnemonic = "second panic paper inherit person transfer minute code dry actual true forest";

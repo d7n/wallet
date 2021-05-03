@@ -1,1 +1,1 @@
-var mnemonic = "fatigue ethics toy fish april leopard tilt noble frost tube donate fruit";
+var mnemonic = "retire useless trim theme mom street execute meat erode bleak glove goose";

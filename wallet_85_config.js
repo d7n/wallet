@@ -1,1 +1,1 @@
-var mnemonic = "check retreat gallery siren click luxury script dose child pass foil property";
+var mnemonic = "mimic slam boil erase bone summer rich elder boy mechanic safe tunnel";

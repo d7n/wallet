@@ -1,1 +1,1 @@
-var mnemonic = "left agent glory trumpet push brief age case print glare early rebel";
+var mnemonic = "mother measure brisk wolf priority mobile hedgehog desert session excuse hawk badge";

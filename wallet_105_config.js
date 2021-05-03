@@ -1,1 +1,1 @@
-var mnemonic = "survey spell define world guess license cattle narrow december cry erode believe";
+var mnemonic = "prosper nose rule stamp cargo merit leave steak bleak tourist sunset script";

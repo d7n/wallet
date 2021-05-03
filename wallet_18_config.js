@@ -1,1 +1,1 @@
-var mnemonic = "dove cheap jazz pave credit faculty diary tribe dignity humble average champion";
+var mnemonic = "random merry order recipe top end stay door vast screen vast lawsuit";

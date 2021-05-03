@@ -1,1 +1,1 @@
-var mnemonic = "purse distance position enhance useful decorate pig biology unique glove soul bulk";
+var mnemonic = "resist umbrella since tide morning guard uncle oppose million shell finish hip";

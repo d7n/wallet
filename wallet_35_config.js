@@ -1,1 +1,1 @@
-var mnemonic = "father profit wife receive labor trophy luxury valley supreme cupboard inspire anchor";
+var mnemonic = "laugh ball laugh magic wonder oval mushroom service step beauty hedgehog music";

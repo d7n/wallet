@@ -1,1 +1,1 @@
-var mnemonic = "foot ride ready uncover tomorrow puppy scorpion resemble universe that elder minimum";
+var mnemonic = "island laugh meat recipe brass mushroom wide push rotate right parrot color";

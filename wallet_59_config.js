@@ -1,1 +1,1 @@
-var mnemonic = "author future fly repair opera similar swallow morning web label quantum shift";
+var mnemonic = "slab dish bomb evil category engage lend struggle crater rib educate hockey";

@@ -1,1 +1,1 @@
-var mnemonic = "hollow biology success siren rotate weather size build guide organ jar scrap";
+var mnemonic = "notice guitar claim poet actor badge clown explain cave hover obvious adjust";

@@ -1,1 +1,1 @@
-var mnemonic = "book swallow beef spy prison grain ahead mesh knife dose harsh pipe";
+var mnemonic = "this midnight flight mammal letter fall aim pepper stem purchase envelope trash";

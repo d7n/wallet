@@ -1,1 +1,1 @@
-var mnemonic = "hill alert cheese shine borrow inflict review zebra book frozen six razor";
+var mnemonic = "sudden claim orphan erosion actor antique shiver easy sword document turtle friend";

@@ -1,1 +1,1 @@
-var mnemonic = "left fantasy rescue door snap amused forest hockey sick famous dumb web";
+var mnemonic = "sphere crystal student jazz shy couch piece acid pluck deputy observe roof";

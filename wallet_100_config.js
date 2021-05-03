@@ -1,1 +1,1 @@
-var mnemonic = "congress swim dove maid quantum pitch approve glad vibrant obey duty decline";
+var mnemonic = "dad sauce large gospel night wire depth shuffle voice goat maid sort";

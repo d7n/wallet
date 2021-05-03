@@ -1,1 +1,1 @@
-var mnemonic = "crack fiber marine frame fresh okay winter runway online tuition rice tuna";
+var mnemonic = "blind rose assist tennis normal engine smart slam pear earth toilet fat";

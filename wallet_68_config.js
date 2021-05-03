@@ -1,1 +1,1 @@
-var mnemonic = "glue yard planet exile weasel lobster glow inherit balance brave host dynamic";
+var mnemonic = "glove assume guitar later edit muffin decide wisdom curve noise vapor beyond";

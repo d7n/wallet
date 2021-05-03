@@ -1,1 +1,1 @@
-var mnemonic = "party panda sea cart muffin accuse narrow razor relief pull limit cook";
+var mnemonic = "addict riot again report roast stairs develop vault regret practice person rural";

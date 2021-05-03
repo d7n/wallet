@@ -1,1 +1,1 @@
-var mnemonic = "wrap despair share client valley bus dynamic coin risk produce still fall";
+var mnemonic = "cereal obscure person apology subway excuse mad outside friend actor business whisper";

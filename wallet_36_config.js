@@ -1,1 +1,1 @@
-var mnemonic = "effort ceiling timber into vast fee lens soda sponsor link coral legend";
+var mnemonic = "bag canyon favorite educate ticket boat surprise treat swift object grief furnace";

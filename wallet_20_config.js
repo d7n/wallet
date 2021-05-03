@@ -1,1 +1,1 @@
-var mnemonic = "issue devote property puppy wrist nephew blood soon capital find garlic holiday";
+var mnemonic = "stand away tongue buffalo daughter toy satoshi interest fetch flush picnic delay";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry magic start elder loop bottom duck admit cart arrest chat security";
+var mnemonic = "fit attract thank wood hotel clog small employ estate witness same timber";

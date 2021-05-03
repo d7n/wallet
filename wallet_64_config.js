@@ -1,1 +1,1 @@
-var mnemonic = "swim size people win shift taste squeeze rug donate vintage tornado pulp";
+var mnemonic = "mystery dose pear chronic armed feature toddler identify fish shadow uncover funny";

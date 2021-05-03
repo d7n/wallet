@@ -1,1 +1,1 @@
-var mnemonic = "tennis learn orbit tag strike hundred type evolve neck wire burden artefact";
+var mnemonic = "boring truth wood neither sauce excess enrich raccoon body congress inquiry clay";

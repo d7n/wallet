@@ -1,1 +1,1 @@
-var mnemonic = "buzz run rose will sweet oblige portion swarm curious elevator glow rack";
+var mnemonic = "churn toss ankle exist dawn lumber sustain minor position bacon original crystal";

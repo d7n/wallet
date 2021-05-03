@@ -1,1 +1,1 @@
-var mnemonic = "trade can cattle edit verify toward army will bitter teach skull typical";
+var mnemonic = "token prize awkward dance camera gloom rely task fold theme pumpkin message";

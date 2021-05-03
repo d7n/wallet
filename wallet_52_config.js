@@ -1,1 +1,1 @@
-var mnemonic = "jewel bird thunder you eye fury below install that input point actor";
+var mnemonic = "gallery cup limit laptop wheel offer into token stomach teach belt retire";

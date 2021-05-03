@@ -1,1 +1,1 @@
-var mnemonic = "iron drill shine chase health toss sibling battle wrap enable over elbow";
+var mnemonic = "bachelor rifle business road game same bridge arch catalog reform beef tooth";

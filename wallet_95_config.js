@@ -1,1 +1,1 @@
-var mnemonic = "fit shift seed secret journey impulse lazy price thought hint discover patient";
+var mnemonic = "dumb bullet exercise bounce domain despair sail core number brother jelly basket";

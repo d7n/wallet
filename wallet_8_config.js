@@ -1,1 +1,1 @@
-var mnemonic = "tone carpet clutch frost ill model file obscure slide style useless music";
+var mnemonic = "ensure cabin tobacco edit immune young license adult crowd bubble juice skin";

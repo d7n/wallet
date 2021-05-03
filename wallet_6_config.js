@@ -1,1 +1,1 @@
-var mnemonic = "either case bacon piece scout when couch unhappy green cement animal rely";
+var mnemonic = "rice solar faith street forget maid theory gossip fresh useless nothing toss";

@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog truth donate legend rather discover problem office nerve wedding torch sock";
+var mnemonic = "moment unit bring stay program car type universe spike define mammal slide";

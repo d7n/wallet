@@ -1,1 +1,1 @@
-var mnemonic = "canyon assist brain vicious casino wild endorse arena assault chapter meadow deposit";
+var mnemonic = "attend broom cherry fog jelly dove saddle nest hurt chicken mercy dilemma";

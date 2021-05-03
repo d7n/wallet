@@ -1,1 +1,1 @@
-var mnemonic = "refuse caution city bike outside regular twice forward link napkin dove pair";
+var mnemonic = "abuse often middle bike yard lady eagle inject arch tone speed horse";

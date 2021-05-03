@@ -1,1 +1,1 @@
-var mnemonic = "ginger easily sphere version february shine yellow scrub circle bacon earth gain";
+var mnemonic = "person question glare boring seven claw today wealth crystal hedgehog produce walnut";

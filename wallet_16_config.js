@@ -1,1 +1,1 @@
-var mnemonic = "side lunch stone horn tomato rebuild music plunge throw appear fruit solid";
+var mnemonic = "fit limit vault album ship clump knee figure industry ability team certain";

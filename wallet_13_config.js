@@ -1,1 +1,1 @@
-var mnemonic = "priority melt fury height slight plunge capable next balance smile miracle license";
+var mnemonic = "bright rate peasant coconut okay fence universe round inquiry three aware urge";

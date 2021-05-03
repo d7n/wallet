@@ -1,1 +1,1 @@
-var mnemonic = "later you link unable wagon ice silly baby cabbage phone aim language";
+var mnemonic = "regret fabric age regular arrive admit agree furnace gaze between neglect average";

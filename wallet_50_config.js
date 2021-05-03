@@ -1,1 +1,1 @@
-var mnemonic = "spoon example ridge citizen prepare detail upset monster dose song decide solution";
+var mnemonic = "joke nuclear carry vivid spawn silent advance chest swing clutch hammer margin";

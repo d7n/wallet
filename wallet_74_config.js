@@ -1,1 +1,1 @@
-var mnemonic = "region captain prize undo nose despair wrong attend shallow pumpkin song stove";
+var mnemonic = "sorry double nerve pluck stool sense field before name just midnight scene";

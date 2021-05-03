@@ -1,1 +1,1 @@
-var mnemonic = "zebra spoon install letter shock decorate current vanish message cute pole process";
+var mnemonic = "seven morning alarm sing census duty subject bus end faith december firm";

@@ -1,1 +1,1 @@
-var mnemonic = "opera taste special limit ten village perfect beyond differ shove urge frost";
+var mnemonic = "risk original unable act craft saddle despair actor maid canvas napkin civil";

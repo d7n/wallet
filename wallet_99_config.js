@@ -1,1 +1,1 @@
-var mnemonic = "myself brown dash thumb also flower foot caught piece degree fiscal pilot";
+var mnemonic = "rule equal family loop marriage spring chunk coffee vital job three empty";

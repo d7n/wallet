@@ -1,1 +1,1 @@
-var mnemonic = "spirit tool chicken correct desert perfect theme prefer bike shy country pencil";
+var mnemonic = "rude custom horn ask alley tray will desert what roof round rib";

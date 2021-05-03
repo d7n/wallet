@@ -1,1 +1,1 @@
-var mnemonic = "rich trend penalty kangaroo recipe swap limit discover island lemon forum grief";
+var mnemonic = "panda screen chicken keen cluster approve bench bind warfare goat hunt broom";

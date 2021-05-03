@@ -1,1 +1,1 @@
-var mnemonic = "repair smile advice rely vintage copy gas sphere cable paddle robust attract";
+var mnemonic = "coyote gate attend better search credit emerge utility dawn priority wrap century";

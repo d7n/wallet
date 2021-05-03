@@ -1,1 +1,1 @@
-var mnemonic = "large shadow tackle minor satisfy fly fish recycle wisdom glad betray usual";
+var mnemonic = "celery federal member stadium peanut push climb garage garment card shell draw";

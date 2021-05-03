@@ -1,1 +1,1 @@
-var mnemonic = "trophy spray filter pull course actor voyage setup enjoy curve filter cruise";
+var mnemonic = "shell hazard afford common card doll offer load trick alone vault bulk";

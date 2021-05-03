@@ -1,1 +1,1 @@
-var mnemonic = "wave piano rapid genre rural morning member poverty network swap attack horror";
+var mnemonic = "artist luxury equal elegant razor deposit ball option million unit learn village";

@@ -1,1 +1,1 @@
-var mnemonic = "vanish dad round accident rally hurry alien will praise summer peace prize";
+var mnemonic = "merge wedding there fence worth purse clinic effort error vicious motor salmon";

@@ -1,1 +1,1 @@
-var mnemonic = "keep frown cable student act hammer volume stool sight alley member exit";
+var mnemonic = "path return label depth world traffic peace brick they power two vapor";

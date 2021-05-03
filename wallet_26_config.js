@@ -1,1 +1,1 @@
-var mnemonic = "infant action bounce pond relief laptop govern crunch more any situate office";
+var mnemonic = "together vague idle champion equip riot invite grief bacon inject major move";

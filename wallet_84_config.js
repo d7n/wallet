@@ -1,1 +1,1 @@
-var mnemonic = "learn light okay install champion immune era skin direct goat divorce chapter";
+var mnemonic = "crowd people cousin slush eyebrow alter spike material credit love file side";

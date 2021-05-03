@@ -1,1 +1,1 @@
-var mnemonic = "still monkey addict nature robust control hungry pact toward critic holiday decide";
+var mnemonic = "artefact attend during glue unlock candy offer brass chef such gym make";

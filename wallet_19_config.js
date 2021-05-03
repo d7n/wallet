@@ -1,1 +1,1 @@
-var mnemonic = "upon candy attitude three matter immense chest pink unit sphere plastic scrap";
+var mnemonic = "portion deal expect notable quiz wasp hill novel uncover fun knee venue";

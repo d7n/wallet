@@ -1,1 +1,1 @@
-var mnemonic = "item finger muffin man access gorilla couch method angle boring coast fitness";
+var mnemonic = "secret border play alien bottom mushroom sense ball burden neck level crystal";

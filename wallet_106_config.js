@@ -1,1 +1,1 @@
-var mnemonic = "town sport script cabin metal logic lecture mirror crouch chronic salt sudden";
+var mnemonic = "evidence pitch luggage worth abstract remind ice situate attract razor spray elbow";

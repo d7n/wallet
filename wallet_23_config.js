@@ -1,1 +1,1 @@
-var mnemonic = "quit arctic drum since chuckle target pizza endorse caution thunder boy pair";
+var mnemonic = "skirt december network pilot clutch pulse curtain sheriff symptom notice surge sunny";

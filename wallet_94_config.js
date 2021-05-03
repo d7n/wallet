@@ -1,1 +1,1 @@
-var mnemonic = "high satoshi edit bitter busy liar pulp dinner donor submit grape excuse";
+var mnemonic = "inquiry either endorse video rare nerve mutual topple bridge caught alarm vast";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch utility loan during sea theme bid pen goose hover mouse wire";
+var mnemonic = "cement number month spread owner finger athlete gown crouch tower sick capable";

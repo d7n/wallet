@@ -1,1 +1,1 @@
-var mnemonic = "follow twenty elder alert page enrich column blush venture crouch firm west";
+var mnemonic = "auction illness goat outdoor crowd topic mercy gas wall solid motion away";

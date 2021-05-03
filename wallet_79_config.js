@@ -1,1 +1,1 @@
-var mnemonic = "cram burst swim glory bronze lunch creek fire nerve fade wear first";
+var mnemonic = "busy curtain dream blade glide couple tower boy goddess chest what glove";

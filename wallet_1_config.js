@@ -1,1 +1,1 @@
-var mnemonic = "devote upper vessel inmate decorate wife sick diary rotate foil lazy grace";
+var mnemonic = "belt present tomorrow happy slow dawn essay veteran quick goose light erase";

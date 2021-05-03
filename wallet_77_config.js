@@ -1,1 +1,1 @@
-var mnemonic = "man sail toss write capital sunny virtual indoor deal syrup now suffer";
+var mnemonic = "cat gather first submit feel mesh drum sun joke bone book meat";

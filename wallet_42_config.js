@@ -1,1 +1,1 @@
-var mnemonic = "develop alter smart hospital bounce thing only open fault damage about fiction";
+var mnemonic = "home enjoy fiber switch robust help humor mirror shy crew section sell";

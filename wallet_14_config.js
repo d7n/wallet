@@ -1,1 +1,1 @@
-var mnemonic = "term setup also evidence shrimp resist payment victory pledge clip jazz ready";
+var mnemonic = "say pen miss wild merit ahead bright verify convince clutch motion mammal";

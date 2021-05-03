@@ -1,1 +1,1 @@
-var mnemonic = "derive injury minor arena kit lazy receive crater unfold heart brass rule";
+var mnemonic = "dynamic fresh practice goddess hamster reduce peasant change laundry gentle mystery turkey";

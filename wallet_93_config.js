@@ -1,1 +1,1 @@
-var mnemonic = "rotate guide breeze clarify bounce use home sunny estate brief pizza level";
+var mnemonic = "fatal symbol off desk lecture struggle behind chair cruise enact bronze list";

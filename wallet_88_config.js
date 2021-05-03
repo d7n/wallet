@@ -1,1 +1,1 @@
-var mnemonic = "meadow buffalo elite meat solid spawn bitter caution weekend gadget exhaust expect";
+var mnemonic = "social sound fat wrestle sense put wagon protect bomb amazing wall renew";

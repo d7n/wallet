@@ -1,1 +1,1 @@
-var mnemonic = "jazz myself fancy myself empower pill beauty basic purse coin food design";
+var mnemonic = "hurry chimney lemon hospital fix pretty venture return uncle album thrive wedding";

@@ -1,1 +1,1 @@
-var mnemonic = "poet curve vault tooth vanish seat crystal combine trophy veteran nasty drama";
+var mnemonic = "cross celery key ramp pyramid kitten cattle jungle wire until attitude ten";

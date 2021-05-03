@@ -1,1 +1,1 @@
-var mnemonic = "asthma radio undo merry miss never bargain waste farm axis dog help";
+var mnemonic = "also jewel smoke moon suit gaze link card shuffle trick own punch";

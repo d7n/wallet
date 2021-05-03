@@ -1,1 +1,1 @@
-var mnemonic = "siege bread arch add abstract myself cat render scare party cannon talk";
+var mnemonic = "exist around ecology vicious private sea wasp alcohol present sport pepper space";

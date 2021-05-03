@@ -1,1 +1,1 @@
-var mnemonic = "decline mass filter orient narrow sniff glow solid forest swear toast dirt";
+var mnemonic = "simple frozen field stay dish because bounce cry ship motion creek silent";
