@@ -1,1 +1,1 @@
-var mnemonic = "tree cute timber monitor thumb train stable upset diet gap post prepare";
+var mnemonic = "three disorder critic friend aerobic unable exact maple grass result delay attract";

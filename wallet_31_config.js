@@ -1,1 +1,1 @@
-var mnemonic = "wedding name language flash alpha street cart tortoise social cable zero planet";
+var mnemonic = "van game viable diet nasty target media obvious celery ugly elder mercy";

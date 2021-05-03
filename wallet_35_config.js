@@ -1,1 +1,1 @@
-var mnemonic = "prize brain silk enrich letter review wine aunt champion smart answer trophy";
+var mnemonic = "moral kiss direct hedgehog vague bird pistol pond pig december oxygen fold";

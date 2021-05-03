@@ -1,1 +1,1 @@
-var mnemonic = "party attract pink monkey violin spell inspire ensure mango brain fabric mention";
+var mnemonic = "gather circle soup equal quote team muscle dial fall mind alone jump";

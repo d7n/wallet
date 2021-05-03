@@ -1,1 +1,1 @@
-var mnemonic = "length rail syrup vendor recipe owner filter depth risk undo gift edge";
+var mnemonic = "order narrow field upset venue odor rice since tower wood slender step";

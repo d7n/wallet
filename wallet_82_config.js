@@ -1,1 +1,1 @@
-var mnemonic = "curve picture energy verb right boil favorite staff about edge middle have";
+var mnemonic = "tobacco try exhaust portion clap faculty wheel fatigue outer income close patch";

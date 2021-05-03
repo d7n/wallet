@@ -1,1 +1,1 @@
-var mnemonic = "add earth weapon april solution typical actor pig girl explain axis spend";
+var mnemonic = "shift guide invest phrase remain silk useless evoke apology two comfort blouse";

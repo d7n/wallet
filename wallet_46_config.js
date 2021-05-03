@@ -1,1 +1,1 @@
-var mnemonic = "throw shield intact unusual devote couple expose true atom tent jeans live";
+var mnemonic = "repair remove essence brown angle bargain during have hope play test work";

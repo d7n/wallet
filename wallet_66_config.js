@@ -1,1 +1,1 @@
-var mnemonic = "very honey joke room quiz rely blur warfare movie plastic payment uncle";
+var mnemonic = "agent hill supreme improve note human include cushion dinosaur captain sphere own";

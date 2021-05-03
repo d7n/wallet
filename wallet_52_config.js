@@ -1,1 +1,1 @@
-var mnemonic = "analyst loyal balance vault merge apology aspect ride dress casino odor remove";
+var mnemonic = "omit since balance glue loop heart adapt purse million proud lumber kind";

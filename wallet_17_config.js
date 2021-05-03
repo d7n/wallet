@@ -1,1 +1,1 @@
-var mnemonic = "style turn gaze key rigid agent turtle flash orient dad original sock";
+var mnemonic = "yard fuel eternal joy series addict situate van smoke thumb secret win";

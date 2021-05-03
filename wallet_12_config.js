@@ -1,1 +1,1 @@
-var mnemonic = "mom street vanish near veteran beauty satisfy truth melody wedding coral wreck";
+var mnemonic = "hour dry soap art acoustic drift market into quarter noise quit high";

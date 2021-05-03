@@ -1,1 +1,1 @@
-var mnemonic = "security recall culture service enough aerobic increase canoe ecology behave grace trash";
+var mnemonic = "layer silk bleak team panic fatigue harbor unknown wild glimpse mom swear";

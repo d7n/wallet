@@ -1,1 +1,1 @@
-var mnemonic = "crucial cheese project bless trap idle grid blouse toddler cash junior nut";
+var mnemonic = "thing olive income bullet figure fall dutch absent enemy absurd hospital wine";

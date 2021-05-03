@@ -1,1 +1,1 @@
-var mnemonic = "hood oval know blast immense candy very say grace wife dawn sort";
+var mnemonic = "erupt demise skate track lunch boat blood pulse purpose course deliver interest";

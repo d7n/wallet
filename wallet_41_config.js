@@ -1,1 +1,1 @@
-var mnemonic = "bring tower unhappy impulse wagon indoor mistake before goddess frozen cheap end";
+var mnemonic = "group light describe occur rose height color advice twice naive funny exist";

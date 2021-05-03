@@ -1,1 +1,1 @@
-var mnemonic = "suggest liquid spider pluck shrimp cactus door mesh come cute iron trap";
+var mnemonic = "exercise subway sort wealth feed tumble spatial service orange situate feel toy";

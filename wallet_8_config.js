@@ -1,1 +1,1 @@
-var mnemonic = "poverty escape bless exit rude predict cloud asset inhale excess disagree dismiss";
+var mnemonic = "tree energy title marriage wall mammal nuclear return comfort toilet lecture bread";

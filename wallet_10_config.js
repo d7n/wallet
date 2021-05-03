@@ -1,1 +1,1 @@
-var mnemonic = "life toddler section steel gentle security begin coil kitten top owner slender";
+var mnemonic = "cable midnight century apple oblige income rhythm method swim girl about left";

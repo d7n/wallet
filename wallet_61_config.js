@@ -1,1 +1,1 @@
-var mnemonic = "cancel fragile topple harvest field pudding unaware assault mushroom aspect helmet arch";
+var mnemonic = "snow universe trouble pottery aisle derive feel video tomorrow destroy kangaroo scan";

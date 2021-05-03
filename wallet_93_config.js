@@ -1,1 +1,1 @@
-var mnemonic = "twice ramp album will pulp tobacco old drip embrace stereo economy cotton";
+var mnemonic = "announce beyond demise fluid world shy spare another parade wrestle lesson must";

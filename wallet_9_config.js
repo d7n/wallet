@@ -1,1 +1,1 @@
-var mnemonic = "warfare wedding lazy lemon flame rigid father switch input february budget raw";
+var mnemonic = "large mad ivory poem segment hamster resist bronze anchor across produce parent";

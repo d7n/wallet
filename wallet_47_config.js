@@ -1,1 +1,1 @@
-var mnemonic = "upper unique same tip skill crowd erode into royal demise velvet isolate";
+var mnemonic = "say sun despair initial cover arctic glad flame drum gown oak illness";

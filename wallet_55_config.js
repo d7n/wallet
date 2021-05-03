@@ -1,1 +1,1 @@
-var mnemonic = "mind energy agent luxury ignore high duck liquid maze diamond toddler best";
+var mnemonic = "cinnamon weapon despair below joke gun edge escape edit stone absorb obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "supply you never repair verb black hundred pelican current two pull size";
+var mnemonic = "final pear science panic dose scene throw more exact pretty eternal add";

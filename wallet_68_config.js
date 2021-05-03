@@ -1,1 +1,1 @@
-var mnemonic = "alley olive round angry someone edit bleak air birth alcohol woman current";
+var mnemonic = "cushion spawn camp rain glow buddy goat raccoon surprise enrich mix exact";

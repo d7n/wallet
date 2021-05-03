@@ -1,1 +1,1 @@
-var mnemonic = "urban uncover lawsuit latin verb nation mother tourist cattle scheme maid begin";
+var mnemonic = "flag dice forget pumpkin journey behave excuse sunset vague dream little police";

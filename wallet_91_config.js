@@ -1,1 +1,1 @@
-var mnemonic = "ship tonight illegal prefer ethics reveal hybrid book angle banner plunge stand";
+var mnemonic = "final exist always employ empty kingdom keen winner give include flame clerk";

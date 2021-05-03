@@ -1,1 +1,1 @@
-var mnemonic = "arm still desk fly echo split civil empty floor again business cherry";
+var mnemonic = "glue person fox clay elegant secret appear answer patch phrase away diet";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair piece puzzle mushroom citizen cook pony million concert olive urge turtle";
+var mnemonic = "resist drip cake tomorrow what aspect federal child praise credit era sorry";

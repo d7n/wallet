@@ -1,1 +1,1 @@
-var mnemonic = "custom produce raw become height raw badge shoulder rally medal alter goose";
+var mnemonic = "write wrap disease chunk drive present large fee inject describe dress edit";

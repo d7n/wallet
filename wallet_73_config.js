@@ -1,1 +1,1 @@
-var mnemonic = "minor clap lawsuit easy quarter valid country domain leave payment script category";
+var mnemonic = "flag hospital other shock work they warfare furnace romance bachelor vote silk";

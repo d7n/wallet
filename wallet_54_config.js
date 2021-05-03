@@ -1,1 +1,1 @@
-var mnemonic = "march various volcano hurt truck stamp tooth crop dismiss purpose track danger";
+var mnemonic = "service reveal task fiction excite open work squirrel exact feature start soccer";

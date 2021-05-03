@@ -1,1 +1,1 @@
-var mnemonic = "episode equip arch great dry milk scan toward find credit major bunker";
+var mnemonic = "fade main talk away measure word buyer fly marble poverty brass negative";

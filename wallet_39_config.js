@@ -1,1 +1,1 @@
-var mnemonic = "time once taste swift define mind advance elder expose lemon peace gold";
+var mnemonic = "topic clip toddler web bulb fox ancient pen answer praise hotel tired";

@@ -1,1 +1,1 @@
-var mnemonic = "bus amateur duck give thought double notice noise pond draft slab quick";
+var mnemonic = "soccer canyon find custom blood cage exile motion lamp lounge before digital";

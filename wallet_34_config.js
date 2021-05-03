@@ -1,1 +1,1 @@
-var mnemonic = "buzz light sauce pause boy roast assist can theme butter oyster total";
+var mnemonic = "kite gravity satisfy salt dance outer poet once concert field cinnamon virtual";

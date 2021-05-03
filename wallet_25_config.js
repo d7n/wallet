@@ -1,1 +1,1 @@
-var mnemonic = "alcohol remind gauge ball because anchor law symptom polar swamp feature trap";
+var mnemonic = "lunar company dentist robot royal budget boring potato marine trophy hurt cash";

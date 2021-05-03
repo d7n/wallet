@@ -1,1 +1,1 @@
-var mnemonic = "project clock road frame proud silver cake soldier please struggle marble economy";
+var mnemonic = "chef surround saddle all fiber type furnace cart lawn napkin violin resemble";

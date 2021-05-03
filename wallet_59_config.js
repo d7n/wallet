@@ -1,1 +1,1 @@
-var mnemonic = "twist laundry cat forum buyer ask opinion pulp antique equip thumb drip";
+var mnemonic = "doll peasant wild umbrella cup short update skill seed bundle topic beauty";

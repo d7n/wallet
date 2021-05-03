@@ -1,1 +1,1 @@
-var mnemonic = "thrive forward series divide donate gym term remain valid ethics pitch taste";
+var mnemonic = "inquiry refuse extra slow rate fossil page vicious improve sibling arctic crack";

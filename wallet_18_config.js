@@ -1,1 +1,1 @@
-var mnemonic = "spirit sorry elbow laugh dog knee decline canoe update much increase sniff";
+var mnemonic = "grocery rain holiday nest entire have basket toe aerobic dentist venue honey";

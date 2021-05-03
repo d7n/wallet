@@ -1,1 +1,1 @@
-var mnemonic = "web marine album nurse truly monitor secret warm advice region submit bench";
+var mnemonic = "seed current meat wire tragic olive defy opera industry item anchor pulp";

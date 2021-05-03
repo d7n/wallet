@@ -1,1 +1,1 @@
-var mnemonic = "urban door ancient sheriff abstract fragile hamster friend equal sphere fitness dawn";
+var mnemonic = "catalog cherry video daring enlist easy note snake enrich afford level erode";

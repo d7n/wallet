@@ -1,1 +1,1 @@
-var mnemonic = "praise sadness identify much special wide media cruise hybrid orchard gap steel";
+var mnemonic = "connect bomb sentence shine day neck dance material grow blast scrap idle";

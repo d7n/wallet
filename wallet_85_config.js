@@ -1,1 +1,1 @@
-var mnemonic = "hire reduce mass zebra keep quit student easy snack gloom stick absent";
+var mnemonic = "chimney debris attract announce nation add tide laundry shiver baby misery child";

@@ -1,1 +1,1 @@
-var mnemonic = "session depend drift cradle approve neglect topple alone network pet second elbow";
+var mnemonic = "hockey jelly leg huge return employ close name victory weird time broom";

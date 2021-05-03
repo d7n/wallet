@@ -1,1 +1,1 @@
-var mnemonic = "cigar broom amazing alien gaze wide idle funny shift sudden throw army";
+var mnemonic = "caught name way drip play wide answer style drama squirrel group above";

@@ -1,1 +1,1 @@
-var mnemonic = "salt repair index paddle shadow have secret mystery ancient stumble unhappy miracle";
+var mnemonic = "glove recipe empower panther edge nasty liquid shoe gas mobile marble case";

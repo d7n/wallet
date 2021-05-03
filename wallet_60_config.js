@@ -1,1 +1,1 @@
-var mnemonic = "judge team orbit penalty will write art spell purse behave embody cry";
+var mnemonic = "salmon improve decade seat dilemma faith zoo scan shift spider chief uniform";

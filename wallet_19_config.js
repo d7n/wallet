@@ -1,1 +1,1 @@
-var mnemonic = "average boring busy okay strategy update motion imitate bulk assault network window";
+var mnemonic = "token type tragic buffalo repair orbit note wrap protect cup egg burst";

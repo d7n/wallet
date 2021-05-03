@@ -1,1 +1,1 @@
-var mnemonic = "balcony pitch deputy knife relief adjust vacant used mother biology naive south";
+var mnemonic = "puzzle year caught resemble baby scatter fossil style pet banana element enroll";

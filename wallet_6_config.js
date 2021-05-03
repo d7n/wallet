@@ -1,1 +1,1 @@
-var mnemonic = "tribe horn surface tube trap feature seminar differ avocado gather special soup";
+var mnemonic = "interest basket rotate winter accuse mass penalty field truly price outdoor fringe";

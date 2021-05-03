@@ -1,1 +1,1 @@
-var mnemonic = "vendor jazz warm cactus kingdom jeans father autumn mutual noise climb result";
+var mnemonic = "pool six chimney still october chimney feel fee fossil second obscure scrap";

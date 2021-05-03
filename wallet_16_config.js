@@ -1,1 +1,1 @@
-var mnemonic = "system shoe evoke miracle logic hungry pill east ritual gift abstract thunder";
+var mnemonic = "lion target jacket border term aim climb cupboard three human dove debris";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey spawn fee announce furnace similar excuse hat menu brass seminar baby";
+var mnemonic = "behind summer chef now bind scissors gallery bundle recall abandon struggle place";

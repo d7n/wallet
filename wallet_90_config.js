@@ -1,1 +1,1 @@
-var mnemonic = "session immune same fun naive enroll work razor program face simple priority";
+var mnemonic = "spell purpose web essence craft enlist warm gun fame magnet inhale furnace";

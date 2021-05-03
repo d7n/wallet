@@ -1,1 +1,1 @@
-var mnemonic = "vocal popular biology refuse fame bone live drink mistake sing simple silent";
+var mnemonic = "charge lazy imitate bunker oak confirm pet foster thunder seek fade push";

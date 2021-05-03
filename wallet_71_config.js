@@ -1,1 +1,1 @@
-var mnemonic = "give sphere recipe protect satoshi short raise depart shove pelican coyote ghost";
+var mnemonic = "movie dice maid upon buddy nature all there hedgehog sphere hobby place";

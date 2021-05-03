@@ -1,1 +1,1 @@
-var mnemonic = "miracle hat clay make favorite absorb setup pen expect glare field slot";
+var mnemonic = "gadget shoot onion nurse door solution siege dish siren myth cigar nation";

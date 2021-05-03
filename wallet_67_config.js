@@ -1,1 +1,1 @@
-var mnemonic = "stage thumb deposit acoustic tonight demand move rent mimic expire company unfair";
+var mnemonic = "smile multiply velvet prepare volume goat history reflect ability zone sort chef";

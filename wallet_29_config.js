@@ -1,1 +1,1 @@
-var mnemonic = "monkey black tomorrow film sign logic problem inhale rough enjoy more build";
+var mnemonic = "analyst vital same pioneer then chuckle pepper siege tool dignity dove mistake";

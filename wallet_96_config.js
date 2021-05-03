@@ -1,1 +1,1 @@
-var mnemonic = "left sure typical best try vocal task blame pretty arrange wrong upset";
+var mnemonic = "sentence oak vital ginger habit problem harsh canoe focus emerge matter arrange";

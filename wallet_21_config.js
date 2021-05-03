@@ -1,1 +1,1 @@
-var mnemonic = "stumble black globe civil patient cook state jungle sentence climb vanish notable";
+var mnemonic = "space sort fire where bag make void snake truck regret piano end";

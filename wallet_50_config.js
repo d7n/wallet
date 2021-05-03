@@ -1,1 +1,1 @@
-var mnemonic = "rose bubble rude fringe area argue rose random guitar love roast nasty";
+var mnemonic = "unknown open output shrug abuse board ivory image category stone alpha oval";

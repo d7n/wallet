@@ -1,1 +1,1 @@
-var mnemonic = "sudden negative discover liberty collect exhibit pistol label insect twelve now celery";
+var mnemonic = "public stock night jealous old snow have lab water cube shrimp urban";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder east treat must solution sphere latin fringe eight holiday high capital";
+var mnemonic = "ritual quarter wagon pear else tenant gossip unusual man rigid glory spice";

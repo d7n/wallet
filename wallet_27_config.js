@@ -1,1 +1,1 @@
-var mnemonic = "bundle mystery illness focus solution cream argue risk above inherit rib border";
+var mnemonic = "census clump wool poem idea slush minor behave success slender bounce load";

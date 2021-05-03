@@ -1,1 +1,1 @@
-var mnemonic = "lift drum boring exist fish wrong world super zoo state empty uncle";
+var mnemonic = "web tortoise jump leopard antenna lazy rabbit plunge fitness list group damage";

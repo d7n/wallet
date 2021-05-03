@@ -1,1 +1,1 @@
-var mnemonic = "shaft jump filter sorry flee insane equip citizen claim industry dolphin board";
+var mnemonic = "fox dash brass license cause teach dust bind shallow choice duck before";

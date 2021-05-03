@@ -1,1 +1,1 @@
-var mnemonic = "upper scrap clay rice pill dust rally shove easy whip include bulk";
+var mnemonic = "endless quantum dutch pill pole margin display canyon sunny miracle asset toss";

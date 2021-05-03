@@ -1,1 +1,1 @@
-var mnemonic = "license crumble night journey casino cave include leisure clog voice silly number";
+var mnemonic = "conduct rail write usage copper must garbage wood ring armor alcohol lizard";

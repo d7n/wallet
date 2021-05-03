@@ -1,1 +1,1 @@
-var mnemonic = "lady soap creek virus romance test crush zebra nest cluster village shoe";
+var mnemonic = "amateur board pledge ketchup tissue city recycle cigar fatal brown hire found";

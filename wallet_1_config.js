@@ -1,1 +1,1 @@
-var mnemonic = "negative vibrant unfold desert unique hospital upset wonder again sport mystery lock";
+var mnemonic = "daughter morning nation diagram title medal naive hidden tell tackle script throw";

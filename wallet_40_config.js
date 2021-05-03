@@ -1,1 +1,1 @@
-var mnemonic = "trigger report wait slam sense borrow jewel control insect fall negative kit";
+var mnemonic = "inject cupboard gentle ladder vibrant aerobic possible sentence bar laptop stable announce";

@@ -1,1 +1,1 @@
-var mnemonic = "reform neither online hello mouse vivid rural whip helmet acquire pair warfare";
+var mnemonic = "paddle guide carpet express excess ketchup matter spy obey cactus head cinnamon";

@@ -1,1 +1,1 @@
-var mnemonic = "remind tool vague drink civil game delay inherit slab cargo dinosaur illegal";
+var mnemonic = "ladder hidden page bright unveil wasp sing audit embody meat evoke bullet";

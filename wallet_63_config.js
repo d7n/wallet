@@ -1,1 +1,1 @@
-var mnemonic = "clock struggle snow tide fatal boost spike very nasty protect vehicle truck";
+var mnemonic = "bean diesel tiny venture fabric blanket climb december kind print order fame";

@@ -1,1 +1,1 @@
-var mnemonic = "dynamic eagle talk doll crack good morning engage balcony guard alien swap";
+var mnemonic = "document oppose worry actual brick make worth hawk insect state boy narrow";

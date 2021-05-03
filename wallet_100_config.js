@@ -1,1 +1,1 @@
-var mnemonic = "lottery vintage basic immense inner figure garden answer erupt ignore inch hidden";
+var mnemonic = "sleep lesson stomach female process hub orchard dizzy deputy hero float text";
