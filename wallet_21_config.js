@@ -1,1 +1,1 @@
-var mnemonic = "mom love stadium hover kiss citizen carpet welcome client kangaroo eyebrow muffin";
+var mnemonic = "law angle ranch ceiling document trick analyst month away page maximum put";

@@ -1,1 +1,1 @@
-var mnemonic = "save middle bleak feature whip race cushion awful rack expand squirrel token";
+var mnemonic = "raw naive disorder pull release palm pill luxury direct sight vacant arrow";

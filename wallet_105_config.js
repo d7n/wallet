@@ -1,1 +1,1 @@
-var mnemonic = "feed suffer silly blur stable mansion dune fuel vehicle wood reduce february";
+var mnemonic = "own slab birth insect holiday annual crop rural inject august air uncover";

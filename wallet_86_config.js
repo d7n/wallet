@@ -1,1 +1,1 @@
-var mnemonic = "artist suffer ivory ostrich mixture report any employ ethics useful own cheap";
+var mnemonic = "card alter black trouble clever virtual patch walk drum extra seed smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "motion social giant hand echo surprise train inside vicious tourist peace merry";
+var mnemonic = "sudden report control repeat border glance version render caught cargo fiber mask";

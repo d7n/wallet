@@ -1,1 +1,1 @@
-var mnemonic = "differ attract chalk father clump extend alert empower demand slot wreck people";
+var mnemonic = "flock jacket wet potato report circle pumpkin finger found atom oxygen exclude";

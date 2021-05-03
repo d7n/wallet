@@ -1,1 +1,1 @@
-var mnemonic = "crime bone soldier sauce village wealth rescue during random grief crystal raise";
+var mnemonic = "cool nose lesson canvas magnet first roast stereo reason junior decade jar";

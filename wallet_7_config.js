@@ -1,1 +1,1 @@
-var mnemonic = "picnic cattle skirt fashion speed cheese stand security nut borrow adapt enact";
+var mnemonic = "casino weasel mule engine century leopard hood attitude crop render main advance";

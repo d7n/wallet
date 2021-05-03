@@ -1,1 +1,1 @@
-var mnemonic = "cluster sleep journey brain strike require foster loyal shop develop into clip";
+var mnemonic = "cloth lawn flock wrestle bitter balcony fence chicken rubber rough item good";

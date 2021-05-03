@@ -1,1 +1,1 @@
-var mnemonic = "finger corn primary museum dutch drum decline bright stuff rib fruit rug";
+var mnemonic = "humble forget eager hurry village sword purity chair upon crack stem agent";

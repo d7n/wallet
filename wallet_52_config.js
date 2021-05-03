@@ -1,1 +1,1 @@
-var mnemonic = "manual weekend material giggle abandon pumpkin attend mail true off panther basket";
+var mnemonic = "supreme near hungry twin error culture scout skull tray response twice stone";

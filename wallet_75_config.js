@@ -1,1 +1,1 @@
-var mnemonic = "kiwi neither crouch eight will oxygen bubble dance magnet print debris regret";
+var mnemonic = "secret amused genius pizza pencil fatal vanish segment hawk wrestle quick mixture";

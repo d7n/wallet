@@ -1,1 +1,1 @@
-var mnemonic = "throw eyebrow hub response egg stairs vacant near uncle glory wing glad";
+var mnemonic = "version alter south comfort language shift save seminar morning garage guess hamster";

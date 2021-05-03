@@ -1,1 +1,1 @@
-var mnemonic = "glove glare bamboo live decorate labor normal link expand pole soon entire";
+var mnemonic = "decide snake leave clip ocean aerobic remain news foam cement pistol torch";

@@ -1,1 +1,1 @@
-var mnemonic = "snow dirt wasp wild ramp betray scare window mail tuna wink rotate";
+var mnemonic = "usage trick sample gospel idea quit decorate dust frozen team mad kind";

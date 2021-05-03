@@ -1,1 +1,1 @@
-var mnemonic = "bounce stay unfair useful mechanic purpose muscle cactus squirrel basket today crunch";
+var mnemonic = "cattle opera local soon result glue vicious subway kangaroo pass buzz angle";

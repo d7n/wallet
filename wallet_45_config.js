@@ -1,1 +1,1 @@
-var mnemonic = "torch loan bird sail follow recipe hint subject abuse tiny blame jungle";
+var mnemonic = "about original inhale alpha keen broom jacket exist trigger unit enough ranch";

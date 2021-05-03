@@ -1,1 +1,1 @@
-var mnemonic = "iron filter palm home rescue scan abandon spatial film salon fine acquire";
+var mnemonic = "zebra where fruit silver carpet shield keep embark choice improve size danger";

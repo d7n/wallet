@@ -1,1 +1,1 @@
-var mnemonic = "often balcony leave wrong desk rough spawn inhale entire dinosaur wool vivid";
+var mnemonic = "appear effort sugar trip young excuse pepper elephant fork powder decorate deer";

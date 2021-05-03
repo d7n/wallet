@@ -1,1 +1,1 @@
-var mnemonic = "occur fossil above build throw extend clerk upset weather small spread satoshi";
+var mnemonic = "twice vacuum buyer foot dish affair concert valve replace scale solid always";

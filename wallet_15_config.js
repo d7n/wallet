@@ -1,1 +1,1 @@
-var mnemonic = "behind heart hello narrow narrow digital wagon dice ship sadness image repair";
+var mnemonic = "illness spider size excess useful media fade system series aware fiction grain";

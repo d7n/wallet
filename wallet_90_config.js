@@ -1,1 +1,1 @@
-var mnemonic = "eternal example tongue waste south this diesel develop fortune wide forget onion";
+var mnemonic = "deer bamboo this decrease auto layer okay reveal scrub depth follow off";

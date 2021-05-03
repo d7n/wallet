@@ -1,1 +1,1 @@
-var mnemonic = "tiger loud claim wrestle mad friend garage soul another sad buzz color";
+var mnemonic = "humor junior palm unlock park radio clay hover zebra tip quit rude";

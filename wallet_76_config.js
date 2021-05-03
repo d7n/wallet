@@ -1,1 +1,1 @@
-var mnemonic = "kite ribbon reveal person era coconut then swap cattle example harbor reject";
+var mnemonic = "teach exercise vibrant film master float ridge height sorry become measure hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "empower conduct laugh donkey guide ship ocean find total void edge scorpion";
+var mnemonic = "steak relax lobster venture engine door gospel shed spoon rose tiger treat";

@@ -1,1 +1,1 @@
-var mnemonic = "globe ghost game maid west bargain globe bean series waste satisfy bless";
+var mnemonic = "mouse pelican chair glance large still oblige casual sunset early circle rug";

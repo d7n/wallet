@@ -1,1 +1,1 @@
-var mnemonic = "anxiety message govern load ticket cheese rely eternal knock place belt gym";
+var mnemonic = "figure mule dinner stem current tuition sister stand slab unhappy indicate onion";

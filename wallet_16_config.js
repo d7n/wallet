@@ -1,1 +1,1 @@
-var mnemonic = "buzz infant fix ahead pulp resist exercise mansion section couple inject essay";
+var mnemonic = "salt heavy social trigger intact spoon bullet plug cricket galaxy virtual help";

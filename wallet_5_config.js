@@ -1,1 +1,1 @@
-var mnemonic = "craft noble napkin mesh flight win fence advance simple upgrade sibling master";
+var mnemonic = "couple salute donkey pattern same notable tiny local order have punch admit";

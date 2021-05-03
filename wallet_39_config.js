@@ -1,1 +1,1 @@
-var mnemonic = "hub best churn lens piano receive medal pulp rail pond quantum dish";
+var mnemonic = "task silver music tomorrow awesome steak island giraffe obey couch plunge donkey";

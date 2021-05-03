@@ -1,1 +1,1 @@
-var mnemonic = "general prepare convince injury clever mammal fence gauge outdoor nephew win achieve";
+var mnemonic = "discover resist patient find route april scorpion invest bundle census bronze throw";

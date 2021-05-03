@@ -1,1 +1,1 @@
-var mnemonic = "gain picture entire key cereal viable away judge menu fantasy ethics object";
+var mnemonic = "voyage drop toddler replace indoor globe van fiber ensure attitude club winner";

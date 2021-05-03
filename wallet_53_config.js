@@ -1,1 +1,1 @@
-var mnemonic = "bulk nasty tree balance usage nose assume great maximum differ cave deny";
+var mnemonic = "camp fluid bone hope favorite space toe unknown success wolf better slab";

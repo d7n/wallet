@@ -1,1 +1,1 @@
-var mnemonic = "economy ill artist lyrics hockey side flower time image omit earn solution";
+var mnemonic = "nurse outdoor grit thought blanket subject cabin benefit vivid receive yellow clutch";

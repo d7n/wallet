@@ -1,1 +1,1 @@
-var mnemonic = "slide siren apart toast dove across clutch item gun spawn orchard traffic";
+var mnemonic = "advice chicken often energy floor truck dolphin gesture muscle athlete swim save";

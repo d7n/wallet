@@ -1,1 +1,1 @@
-var mnemonic = "mother scout problem tape rhythm error coil finish guess slab future denial";
+var mnemonic = "curtain relax tuition cave range live theme document breeze always play helmet";

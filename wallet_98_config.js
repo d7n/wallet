@@ -1,1 +1,1 @@
-var mnemonic = "search menu labor manual island aim unhappy split warm route affair critic";
+var mnemonic = "fee glass romance duty caution cherry motion cup receive axis bind suit";

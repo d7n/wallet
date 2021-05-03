@@ -1,1 +1,1 @@
-var mnemonic = "property dutch name myself foil rally short garlic debris forum mixture reward";
+var mnemonic = "pear click hurry clump prize noodle valve ship pizza brave goat surprise";

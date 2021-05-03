@@ -1,1 +1,1 @@
-var mnemonic = "main august remind secret benefit address tube school addict produce vital mystery";
+var mnemonic = "fine mirror glare unaware reform odor come cream surprise sentence cream buddy";

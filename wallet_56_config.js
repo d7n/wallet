@@ -1,1 +1,1 @@
-var mnemonic = "derive brave dragon swamp spend gallery labor apart verb clean margin rely";
+var mnemonic = "frequent zebra allow fever lunch bless neglect asset tray bicycle midnight try";

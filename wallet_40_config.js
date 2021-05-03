@@ -1,1 +1,1 @@
-var mnemonic = "bright modify picnic judge chat forest hurdle choice catch destroy reason win";
+var mnemonic = "mouse undo object false hope client cigar volume ripple issue venture magnet";

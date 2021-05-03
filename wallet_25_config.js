@@ -1,1 +1,1 @@
-var mnemonic = "logic vessel coyote pottery ivory toward gravity galaxy hub clutch dinosaur space";
+var mnemonic = "clip fatal vanish pond rural abuse head identify material joy column gospel";

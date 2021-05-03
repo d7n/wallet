@@ -1,1 +1,1 @@
-var mnemonic = "cup glimpse because share pottery receive punch chaos pudding lounge anxiety warm";
+var mnemonic = "govern alley require film custom stuff dinosaur dish teach blue pencil clever";

@@ -1,1 +1,1 @@
-var mnemonic = "farm abuse crush push security boost pact high just flag economy swamp";
+var mnemonic = "surround interest ozone balance marriage pen such disease correct brick surface cradle";

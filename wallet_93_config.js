@@ -1,1 +1,1 @@
-var mnemonic = "usual stumble orbit deputy tattoo candy across cushion pull output alert settle";
+var mnemonic = "onion diet help enhance foster scrap outer jaguar differ wife dog debris";

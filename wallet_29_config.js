@@ -1,1 +1,1 @@
-var mnemonic = "miracle grocery picture away gloom price certain crumble embrace sun craft patch";
+var mnemonic = "amount gather monitor lion series accident identify save negative pretty merry below";

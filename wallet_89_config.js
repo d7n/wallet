@@ -1,1 +1,1 @@
-var mnemonic = "cancel enter pride catalog please tool moral favorite output useless search practice";
+var mnemonic = "dove bulk depart crane betray pledge kitchen medal first truly caution hire";

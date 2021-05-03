@@ -1,1 +1,1 @@
-var mnemonic = "project jazz survey adjust keen unaware deposit tuition word enter carbon cry";
+var mnemonic = "spot outer danger typical together twice treat girl delay soup extra tiny";

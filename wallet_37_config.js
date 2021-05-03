@@ -1,1 +1,1 @@
-var mnemonic = "return olympic shrug silent fluid fine razor shy ignore ordinary vicious melody";
+var mnemonic = "ripple post next border letter tomorrow valid drink reflect fancy mix myth";

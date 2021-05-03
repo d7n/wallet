@@ -1,1 +1,1 @@
-var mnemonic = "render calm blood heart accuse work connect truly donate wheat photo engage";
+var mnemonic = "exercise comic play coach security announce need winter surprise film load riot";

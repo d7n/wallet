@@ -1,1 +1,1 @@
-var mnemonic = "balcony expand cruise tape dawn sort feature february depend repair drive bar";
+var mnemonic = "blue project torch choice trash circle hello wealth match dragon define actor";

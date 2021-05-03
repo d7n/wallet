@@ -1,1 +1,1 @@
-var mnemonic = "expand depth tiny engine stand quiz erase labor topic despair sick panel";
+var mnemonic = "dragon balcony window gorilla chief stock bleak try stuff battle december ancient";

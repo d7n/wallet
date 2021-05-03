@@ -1,1 +1,1 @@
-var mnemonic = "student mango roast problem position pretty cigar ostrich van asset gallery thing";
+var mnemonic = "forward jelly emotion talent sad hint opinion horror deliver hand gaze exhaust";

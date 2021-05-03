@@ -1,1 +1,1 @@
-var mnemonic = "network frequent torch since burden insect boy pipe fade exotic table imitate";
+var mnemonic = "easy frost wagon balance shove load pepper animal rhythm patrol exist scan";

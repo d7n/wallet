@@ -1,1 +1,1 @@
-var mnemonic = "shadow employ write absurd roast regular gorilla tooth prison reunion capable usage";
+var mnemonic = "joy evolve camera depart knock palace globe sauce pudding express west pond";

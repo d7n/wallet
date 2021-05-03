@@ -1,1 +1,1 @@
-var mnemonic = "pipe drama credit flavor awake radar unfold cannon trim own people pen";
+var mnemonic = "panther purpose calm six trend whip jelly run police always prepare embrace";

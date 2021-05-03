@@ -1,1 +1,1 @@
-var mnemonic = "mutual repeat coil symbol lion wonder bronze meat entire balcony rich render";
+var mnemonic = "reject laundry diamond dance negative license december vast perfect bleak engine mind";

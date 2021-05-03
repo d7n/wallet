@@ -1,1 +1,1 @@
-var mnemonic = "replace exit analyst art slice later drip mix next labor neutral matter";
+var mnemonic = "online trip coffee chief cook weird heavy eight slogan hen lyrics scatter";

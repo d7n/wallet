@@ -1,1 +1,1 @@
-var mnemonic = "critic wheel minor topic analyst injury evolve plunge thing icon shallow school";
+var mnemonic = "stool zoo oblige season pretty gold jungle claim crane blush beauty major";

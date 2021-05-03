@@ -1,1 +1,1 @@
-var mnemonic = "rural sport source athlete ten gesture obscure enrich mention stem valley shiver";
+var mnemonic = "youth dance busy raccoon express push hybrid speak truly later base catalog";

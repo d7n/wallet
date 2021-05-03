@@ -1,1 +1,1 @@
-var mnemonic = "word scorpion horror smoke fragile banana bleak local spatial zone wait atom";
+var mnemonic = "hurt divert transfer deer cotton wash switch assault candy cave elite strategy";

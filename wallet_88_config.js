@@ -1,1 +1,1 @@
-var mnemonic = "cousin local enough illness dinosaur police grit leave spider black robust face";
+var mnemonic = "hip erosion fold pizza midnight return during thank coral side deny sniff";

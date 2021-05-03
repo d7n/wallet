@@ -1,1 +1,1 @@
-var mnemonic = "typical priority gain degree rabbit measure crew obtain polar radar flight chronic";
+var mnemonic = "pole float rotate street weather fault joy depart slim team verify donate";

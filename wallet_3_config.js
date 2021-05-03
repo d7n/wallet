@@ -1,1 +1,1 @@
-var mnemonic = "leg snow avoid divide talk kingdom pass wide extend amateur extra broom";
+var mnemonic = "vivid shrimp spice inhale razor train appear indicate movie airport strategy bachelor";

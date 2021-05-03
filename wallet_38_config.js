@@ -1,1 +1,1 @@
-var mnemonic = "hire bicycle ridge trigger own voice bind plate pair caution opinion cloth";
+var mnemonic = "crack scare sound jacket rate sting gift hybrid inform cycle shoulder cook";

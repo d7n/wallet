@@ -1,1 +1,1 @@
-var mnemonic = "clinic patrol smooth quit misery credit trigger angry chicken violin left skill";
+var mnemonic = "combine seminar rain plug return news grid mixed anxiety rifle wasp post";

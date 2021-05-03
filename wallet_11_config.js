@@ -1,1 +1,1 @@
-var mnemonic = "luxury once road undo prison tail beyond random outside ability remain settle";
+var mnemonic = "video life eight neither wood pepper hub evidence vital cactus borrow nothing";

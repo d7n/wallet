@@ -1,1 +1,1 @@
-var mnemonic = "alcohol spice industry security purse parrot solution history mistake smooth label unveil";
+var mnemonic = "zoo blast want chest tip whisper emotion vault inflict online chapter share";

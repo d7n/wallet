@@ -1,1 +1,1 @@
-var mnemonic = "orbit album hurdle almost piano deposit extend spatial awful rocket hunt melody";
+var mnemonic = "gauge indicate shove weasel fan version repeat appear whisper repeat carbon waste";

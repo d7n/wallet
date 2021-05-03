@@ -1,1 +1,1 @@
-var mnemonic = "soul boost curtain elegant buzz lyrics card task remain human bird pilot";
+var mnemonic = "spirit spread process web produce high primary stuff copper shoot fix churn";

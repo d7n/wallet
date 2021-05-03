@@ -1,1 +1,1 @@
-var mnemonic = "push dragon inquiry mirror impose chunk rate demise clock blue century submit";
+var mnemonic = "brick huge verify cart trash wink mass host dumb speak exchange alien";

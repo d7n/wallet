@@ -1,1 +1,1 @@
-var mnemonic = "play north any youth skull keen imitate powder ankle inflict coach oval";
+var mnemonic = "nature draft transfer artwork sand wrestle tuna lesson nothing wagon pledge liar";

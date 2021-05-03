@@ -1,1 +1,1 @@
-var mnemonic = "case slight jump virus inner exhibit blush isolate shove fossil inmate jazz";
+var mnemonic = "culture reflect remember world mixed hurt crop half hybrid kid debate message";

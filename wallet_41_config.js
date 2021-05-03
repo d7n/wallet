@@ -1,1 +1,1 @@
-var mnemonic = "project opinion remind deputy glove lucky bind swarm glass method hungry abandon";
+var mnemonic = "foam crazy garment spread brisk baby virus develop rural ribbon bike future";

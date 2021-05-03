@@ -1,1 +1,1 @@
-var mnemonic = "hidden adjust purchase comfort mass liberty imitate kick zoo flame drink local";
+var mnemonic = "rough heavy share toward bring hire video coyote vault they forget family";

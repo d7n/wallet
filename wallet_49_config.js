@@ -1,1 +1,1 @@
-var mnemonic = "version canoe endless peace prize cupboard hello rack melt term brother decade";
+var mnemonic = "jar culture jelly sorry number across shock alpha crater elegant benefit around";

@@ -1,1 +1,1 @@
-var mnemonic = "they tray present badge habit soccer chicken spirit fancy tattoo catalog rival";
+var mnemonic = "buyer guard upper ice enemy puppy dose target occur interest survey whisper";

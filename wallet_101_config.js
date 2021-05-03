@@ -1,1 +1,1 @@
-var mnemonic = "escape master replace spoon tag file easily mom maximum cook stove strong";
+var mnemonic = "minimum kick unlock chalk right plate congress illegal castle win valid section";

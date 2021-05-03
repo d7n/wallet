@@ -1,1 +1,1 @@
-var mnemonic = "absent into someone tilt barrel all resource prison tube danger unable exclude";
+var mnemonic = "talent cigar captain trip dismiss horror observe spatial square nose fuel reunion";

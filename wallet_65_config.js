@@ -1,1 +1,1 @@
-var mnemonic = "demand typical lend profit people caution ranch guess scale rescue genuine soldier";
+var mnemonic = "stomach cream always bind unveil armed horse slot sell high add ostrich";

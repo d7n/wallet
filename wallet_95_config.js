@@ -1,1 +1,1 @@
-var mnemonic = "evidence man good maximum engage please enter wrap hunt fashion dry arena";
+var mnemonic = "drip final echo club joke family attitude vague stool tell stone grace";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk market cake okay truth spice around reveal regret pigeon angle merit";
+var mnemonic = "wrist above radar mad bus dwarf sure congress truth card glove borrow";

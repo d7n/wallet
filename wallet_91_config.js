@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit range craft sing smooth uniform season alpha fan scan link remain";
+var mnemonic = "tissue holiday timber urban shell resource cactus real flush pool huge tumble";

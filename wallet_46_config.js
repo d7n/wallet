@@ -1,1 +1,1 @@
-var mnemonic = "poet volume giraffe fee figure minimum law coin comfort banner speed tower";
+var mnemonic = "excite quiz flock club aware rent frog portion shoulder symptom among few";

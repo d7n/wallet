@@ -1,1 +1,1 @@
-var mnemonic = "tilt decrease input penalty person outdoor harsh sudden rabbit immune champion cruel";
+var mnemonic = "wet harbor material inmate door jealous result tissue shy burger crack across";

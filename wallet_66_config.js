@@ -1,1 +1,1 @@
-var mnemonic = "energy helmet name chapter squeeze memory truck second boy equal right sample";
+var mnemonic = "bundle segment chest struggle amateur exotic capable clog banana truth glance dirt";

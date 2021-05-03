@@ -1,1 +1,1 @@
-var mnemonic = "idea juice cruel cement depend share fly dose tattoo wrap pistol help";
+var mnemonic = "achieve business spoon power target finish blade fat pull auction lab sick";

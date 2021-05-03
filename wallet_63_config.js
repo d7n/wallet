@@ -1,1 +1,1 @@
-var mnemonic = "act conduct father gasp figure better fiber double orphan busy stamp snap";
+var mnemonic = "ceiling unusual clever mule goddess beef picture antenna waste lunar choice spot";

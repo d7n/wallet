@@ -1,1 +1,1 @@
-var mnemonic = "pencil captain genre chief feature puppy drift strategy aerobic drop monkey stable";
+var mnemonic = "awful field proud rural song alert flight notable fury jazz paper silent";

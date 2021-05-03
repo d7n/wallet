@@ -1,1 +1,1 @@
-var mnemonic = "airport someone kitchen daring estate guilt model shiver tone lift jeans hub";
+var mnemonic = "tuition book goose cactus phone pyramid giggle series weasel decline minute rebuild";

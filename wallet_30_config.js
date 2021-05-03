@@ -1,1 +1,1 @@
-var mnemonic = "open west keep gather turtle cloth vessel cotton perfect enhance stumble tent";
+var mnemonic = "grape easily beyond aunt aware range convince game alley exercise start grit";
