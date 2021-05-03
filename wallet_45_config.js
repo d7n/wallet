@@ -1,1 +1,1 @@
-var mnemonic = "about original inhale alpha keen broom jacket exist trigger unit enough ranch";
+var mnemonic = "boost deny cabin leg laptop fog girl verify brand scout balance hammer";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple post next border letter tomorrow valid drink reflect fancy mix myth";
+var mnemonic = "aim start tube security slush achieve wall check damage parrot vapor shield";

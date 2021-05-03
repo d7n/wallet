@@ -1,1 +1,1 @@
-var mnemonic = "achieve business spoon power target finish blade fat pull auction lab sick";
+var mnemonic = "vintage term scissors decrease winter control cry forget crunch flame address poem";

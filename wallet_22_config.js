@@ -1,1 +1,1 @@
-var mnemonic = "rough heavy share toward bring hire video coyote vault they forget family";
+var mnemonic = "shell solid coach truly deer corn ripple use smooth bracket ladder great";

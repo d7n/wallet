@@ -1,1 +1,1 @@
-var mnemonic = "bundle segment chest struggle amateur exotic capable clog banana truth glance dirt";
+var mnemonic = "rail curious plate raccoon quantum remember story pencil laundry cable cup galaxy";

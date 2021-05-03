@@ -1,1 +1,1 @@
-var mnemonic = "supreme near hungry twin error culture scout skull tray response twice stone";
+var mnemonic = "mango warrior palace rival wealth amateur tone knee alley nominee kind pulse";

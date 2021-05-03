@@ -1,1 +1,1 @@
-var mnemonic = "discover resist patient find route april scorpion invest bundle census bronze throw";
+var mnemonic = "video outer slogan example wasp rebuild limit jar polar boost exchange crash";

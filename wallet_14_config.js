@@ -1,1 +1,1 @@
-var mnemonic = "cloth lawn flock wrestle bitter balcony fence chicken rubber rough item good";
+var mnemonic = "alert pilot wisdom dash rug betray attitude impose same ordinary lift castle";

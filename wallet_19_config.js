@@ -1,1 +1,1 @@
-var mnemonic = "easy frost wagon balance shove load pepper animal rhythm patrol exist scan";
+var mnemonic = "dance minor awake try clip sand butter federal lonely distance furnace bar";

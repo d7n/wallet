@@ -1,1 +1,1 @@
-var mnemonic = "blue project torch choice trash circle hello wealth match dragon define actor";
+var mnemonic = "play matter bunker submit swim arrive celery elbow wish surge void pet";

@@ -1,1 +1,1 @@
-var mnemonic = "online trip coffee chief cook weird heavy eight slogan hen lyrics scatter";
+var mnemonic = "join brief notable leg earn attend once polar drift exchange code modify";

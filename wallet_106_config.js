@@ -1,1 +1,1 @@
-var mnemonic = "nurse outdoor grit thought blanket subject cabin benefit vivid receive yellow clutch";
+var mnemonic = "net carbon essence monster outdoor tuna oven welcome pretty latin kiwi burger";

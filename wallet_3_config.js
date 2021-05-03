@@ -1,1 +1,1 @@
-var mnemonic = "vivid shrimp spice inhale razor train appear indicate movie airport strategy bachelor";
+var mnemonic = "envelope flat attitude ribbon another summer tank gloom oil flavor oil position";

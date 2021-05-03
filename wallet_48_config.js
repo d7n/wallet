@@ -1,1 +1,1 @@
-var mnemonic = "zoo blast want chest tip whisper emotion vault inflict online chapter share";
+var mnemonic = "glove elbow layer pilot horn orphan avocado trial suspect horn devote hello";

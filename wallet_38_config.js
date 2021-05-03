@@ -1,1 +1,1 @@
-var mnemonic = "crack scare sound jacket rate sting gift hybrid inform cycle shoulder cook";
+var mnemonic = "panel opera orange tenant inject roof syrup deliver little wisdom scissors zero";

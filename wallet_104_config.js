@@ -1,1 +1,1 @@
-var mnemonic = "subway expire story will gown hint couch special devote auction gravity yard";
+var mnemonic = "mad help alley radio spin candy zero reward amount castle occur cream";

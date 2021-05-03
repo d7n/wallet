@@ -1,1 +1,1 @@
-var mnemonic = "stage various thrive forward cliff drive duck melt scheme body kick multiply";
+var mnemonic = "cheese device velvet town away sight one oak spend february glue comic";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket mango any valve apology crowd safe world axis renew plunge stage";
+var mnemonic = "destroy unique fiber material fragile tank surge distance various amateur wave void";

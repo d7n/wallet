@@ -1,1 +1,1 @@
-var mnemonic = "reject laundry diamond dance negative license december vast perfect bleak engine mind";
+var mnemonic = "scare ridge error flock awkward dove vicious chimney plastic stock blue soup";

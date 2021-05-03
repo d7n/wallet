@@ -1,1 +1,1 @@
-var mnemonic = "humor junior palm unlock park radio clay hover zebra tip quit rude";
+var mnemonic = "pact photo happy visual shallow struggle young join field wife wrong empower";

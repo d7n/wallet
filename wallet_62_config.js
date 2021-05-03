@@ -1,1 +1,1 @@
-var mnemonic = "forward jelly emotion talent sad hint opinion horror deliver hand gaze exhaust";
+var mnemonic = "snake harbor skill title vast body cement good discover one leisure virus";

@@ -1,1 +1,1 @@
-var mnemonic = "weird gather flee liar involve art security utility balance render suit cook";
+var mnemonic = "mention copper access impulse nephew armor blossom honey hurry certain allow input";

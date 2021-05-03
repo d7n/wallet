@@ -1,1 +1,1 @@
-var mnemonic = "version alter south comfort language shift save seminar morning garage guess hamster";
+var mnemonic = "reunion deputy slim dish still foil mail hood grab armor spray amazing";

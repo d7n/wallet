@@ -1,1 +1,1 @@
-var mnemonic = "thought staff flip office hour normal trial differ orphan forum twist ten";
+var mnemonic = "motion music hobby mansion piano vault adult ice demand quality tattoo actual";

@@ -1,1 +1,1 @@
-var mnemonic = "pear click hurry clump prize noodle valve ship pizza brave goat surprise";
+var mnemonic = "situate reduce much switch scene vehicle climb ignore execute luxury bracket burst";

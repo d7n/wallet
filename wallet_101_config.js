@@ -1,1 +1,1 @@
-var mnemonic = "minimum kick unlock chalk right plate congress illegal castle win valid section";
+var mnemonic = "mosquito alter prefer slow stem mansion shop crumble lab prize brush demand";

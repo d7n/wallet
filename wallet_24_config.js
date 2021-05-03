@@ -1,1 +1,1 @@
-var mnemonic = "hurt divert transfer deer cotton wash switch assault candy cave elite strategy";
+var mnemonic = "few certain bird gym source main seven master pupil fossil inmate infant";

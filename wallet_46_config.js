@@ -1,1 +1,1 @@
-var mnemonic = "excite quiz flock club aware rent frog portion shoulder symptom among few";
+var mnemonic = "long silver meadow hungry future mistake repeat leopard such gospel recycle modify";

@@ -1,1 +1,1 @@
-var mnemonic = "dove bulk depart crane betray pledge kitchen medal first truly caution hire";
+var mnemonic = "circle lonely mercy tuna innocent diary stick exit luxury cost ancient liar";

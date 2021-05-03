@@ -1,1 +1,1 @@
-var mnemonic = "law among tuna put joy blush ticket autumn relief capital air filter";
+var mnemonic = "sphere shop pull jewel gap tuition behind swallow lava topic few risk";

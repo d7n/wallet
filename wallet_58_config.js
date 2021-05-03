@@ -1,1 +1,1 @@
-var mnemonic = "culture reflect remember world mixed hurt crop half hybrid kid debate message";
+var mnemonic = "three test cover confirm carry cream olive priority simple alpha sock adult";

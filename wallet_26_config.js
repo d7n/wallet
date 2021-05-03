@@ -1,1 +1,1 @@
-var mnemonic = "family zoo regret action begin glove fold feel slot gossip artist mask";
+var mnemonic = "record layer jungle virtual weird pluck immense knock dust sell moment medal";

@@ -1,1 +1,1 @@
-var mnemonic = "joy evolve camera depart knock palace globe sauce pudding express west pond";
+var mnemonic = "salt cook into crucial cross notice bundle snack behave boring pottery hobby";

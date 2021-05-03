@@ -1,1 +1,1 @@
-var mnemonic = "appear effort sugar trip young excuse pepper elephant fork powder decorate deer";
+var mnemonic = "tip vessel recycle grace moral pistol acoustic grid easy assist vendor tattoo";

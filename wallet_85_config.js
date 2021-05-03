@@ -1,1 +1,1 @@
-var mnemonic = "figure mule dinner stem current tuition sister stand slab unhappy indicate onion";
+var mnemonic = "chase glare rookie another repeat equip cry pattern near foot bring protect";

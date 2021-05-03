@@ -1,1 +1,1 @@
-var mnemonic = "card alter black trouble clever virtual patch walk drum extra seed smooth";
+var mnemonic = "shed paper vote hawk inside lion embark attract bomb else puppy asthma";

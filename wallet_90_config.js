@@ -1,1 +1,1 @@
-var mnemonic = "deer bamboo this decrease auto layer okay reveal scrub depth follow off";
+var mnemonic = "ahead text noise setup garage brown drop person job coffee primary victory";

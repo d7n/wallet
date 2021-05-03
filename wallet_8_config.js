@@ -1,1 +1,1 @@
-var mnemonic = "buyer guard upper ice enemy puppy dose target occur interest survey whisper";
+var mnemonic = "else ivory rely wrestle job universe list over critic delay fold parent";

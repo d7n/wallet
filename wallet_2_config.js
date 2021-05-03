@@ -1,1 +1,1 @@
-var mnemonic = "exercise comic play coach security announce need winter surprise film load riot";
+var mnemonic = "payment trim wolf fold scale reflect lecture plunge saddle place aware giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "brick huge verify cart trash wink mass host dumb speak exchange alien";
+var mnemonic = "minute upgrade position jump inform custom home unusual blush build they sausage";

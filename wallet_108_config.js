@@ -1,1 +1,1 @@
-var mnemonic = "vocal abandon suggest garlic enjoy obtain pretty apple burst shadow cave nurse";
+var mnemonic = "sister polar write dish inquiry side left atom innocent spoon sock rate";

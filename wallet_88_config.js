@@ -1,1 +1,1 @@
-var mnemonic = "hip erosion fold pizza midnight return during thank coral side deny sniff";
+var mnemonic = "huge pitch trick inspire pole leisure brave galaxy common tackle around dust";

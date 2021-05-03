@@ -1,1 +1,1 @@
-var mnemonic = "clip fatal vanish pond rural abuse head identify material joy column gospel";
+var mnemonic = "swim inch banana favorite kangaroo fetch prize element dress various inflict figure";

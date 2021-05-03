@@ -1,1 +1,1 @@
-var mnemonic = "camp fluid bone hope favorite space toe unknown success wolf better slab";
+var mnemonic = "stove pill ribbon remember capital deer chat extend jar mule scatter desert";

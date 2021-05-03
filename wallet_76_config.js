@@ -1,1 +1,1 @@
-var mnemonic = "teach exercise vibrant film master float ridge height sorry become measure hazard";
+var mnemonic = "cook audit vicious sphere grant loyal life mutual trophy panel three shove";

@@ -1,1 +1,1 @@
-var mnemonic = "purse fabric world chalk nose taxi raven barely trumpet catalog puppy develop";
+var mnemonic = "absent opinion pledge congress lens route audit dice rose orange tobacco brass";

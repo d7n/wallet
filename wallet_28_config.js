@@ -1,1 +1,1 @@
-var mnemonic = "voyage drop toddler replace indoor globe van fiber ensure attitude club winner";
+var mnemonic = "mask garbage intact skin fresh throw innocent case salute actor direct broken";

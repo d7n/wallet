@@ -1,1 +1,1 @@
-var mnemonic = "illness spider size excess useful media fade system series aware fiction grain";
+var mnemonic = "tone citizen diet able swarm nurse sauce example ozone again clip lunar";

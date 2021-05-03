@@ -1,1 +1,1 @@
-var mnemonic = "cattle opera local soon result glue vicious subway kangaroo pass buzz angle";
+var mnemonic = "elite figure chicken behind predict flash walk army clarify assist trial final";

@@ -1,1 +1,1 @@
-var mnemonic = "surround interest ozone balance marriage pen such disease correct brick surface cradle";
+var mnemonic = "math identify paper trouble drop dragon rival main brand fiscal danger road";

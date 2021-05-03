@@ -1,1 +1,1 @@
-var mnemonic = "frequent zebra allow fever lunch bless neglect asset tray bicycle midnight try";
+var mnemonic = "twist owner brisk wisdom misery neck clever devote mad furnace average pen";

@@ -1,1 +1,1 @@
-var mnemonic = "govern alley require film custom stuff dinosaur dish teach blue pencil clever";
+var mnemonic = "mention gallery umbrella wide column segment aisle abstract camp busy pigeon magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "usage trick sample gospel idea quit decorate dust frozen team mad kind";
+var mnemonic = "luxury such bounce struggle zebra horse over deer canyon minimum electric merit";

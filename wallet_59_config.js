@@ -1,1 +1,1 @@
-var mnemonic = "flock jacket wet potato report circle pumpkin finger found atom oxygen exclude";
+var mnemonic = "confirm grief voice bike explain chronic rule soul few round film rice";

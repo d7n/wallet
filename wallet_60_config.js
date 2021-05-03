@@ -1,1 +1,1 @@
-var mnemonic = "mad radio walnut apart away humor blood absorb project tank country never";
+var mnemonic = "enact blossom into outside crane border arrest beach assist uniform unlock merge";

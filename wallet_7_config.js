@@ -1,1 +1,1 @@
-var mnemonic = "casino weasel mule engine century leopard hood attitude crop render main advance";
+var mnemonic = "hour cannon rather proof mention absorb modify daughter universe chalk patrol alcohol";

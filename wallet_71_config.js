@@ -1,1 +1,1 @@
-var mnemonic = "youth dance busy raccoon express push hybrid speak truly later base catalog";
+var mnemonic = "globe pattern potato next trigger net mammal install humble over media team";

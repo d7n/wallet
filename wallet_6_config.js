@@ -1,1 +1,1 @@
-var mnemonic = "steak relax lobster venture engine door gospel shed spoon rose tiger treat";
+var mnemonic = "property exile card wedding town struggle genuine trip sustain claim story corn";

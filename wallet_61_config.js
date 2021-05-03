@@ -1,1 +1,1 @@
-var mnemonic = "talent cigar captain trip dismiss horror observe spatial square nose fuel reunion";
+var mnemonic = "crush skill movie ask innocent excuse quality dolphin only robot push solution";

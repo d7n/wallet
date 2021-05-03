@@ -1,1 +1,1 @@
-var mnemonic = "fine mirror glare unaware reform odor come cream surprise sentence cream buddy";
+var mnemonic = "anxiety initial knife slot helmet castle guide educate project friend famous will";

@@ -1,1 +1,1 @@
-var mnemonic = "fee glass romance duty caution cherry motion cup receive axis bind suit";
+var mnemonic = "impulse airport glare confirm oval analyst fever dumb chimney easy permit group";

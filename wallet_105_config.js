@@ -1,1 +1,1 @@
-var mnemonic = "own slab birth insect holiday annual crop rural inject august air uncover";
+var mnemonic = "connect diamond tide rally south orchard pause file bulb vehicle blade amount";

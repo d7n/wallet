@@ -1,1 +1,1 @@
-var mnemonic = "onion diet help enhance foster scrap outer jaguar differ wife dog debris";
+var mnemonic = "mistake attack company clog sail vague special opinion buffalo small borrow child";

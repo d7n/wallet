@@ -1,1 +1,1 @@
-var mnemonic = "grape easily beyond aunt aware range convince game alley exercise start grit";
+var mnemonic = "double famous awkward this receive dune step topic paddle broccoli supply viable";

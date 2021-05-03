@@ -1,1 +1,1 @@
-var mnemonic = "spirit spread process web produce high primary stuff copper shoot fix churn";
+var mnemonic = "bamboo trade trend collect suggest fame alien blanket between clown family solution";

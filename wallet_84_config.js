@@ -1,1 +1,1 @@
-var mnemonic = "harsh hill reunion universe talk fury priority canal camp trade winner devote";
+var mnemonic = "achieve check approve unknown tortoise juice file magic link snap rich boost";

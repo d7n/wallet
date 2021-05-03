@@ -1,1 +1,1 @@
-var mnemonic = "law angle ranch ceiling document trick analyst month away page maximum put";
+var mnemonic = "wreck trap steak trip humor process index thrive zebra wing doctor disorder";

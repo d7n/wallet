@@ -1,1 +1,1 @@
-var mnemonic = "combine seminar rain plug return news grid mixed anxiety rifle wasp post";
+var mnemonic = "panic celery poet night flavor loud arrange around reopen joke afford dream";

@@ -1,1 +1,1 @@
-var mnemonic = "amount gather monitor lion series accident identify save negative pretty merry below";
+var mnemonic = "please because number action face pact occur illness dress club jacket napkin";

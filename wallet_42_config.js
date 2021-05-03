@@ -1,1 +1,1 @@
-var mnemonic = "gauge indicate shove weasel fan version repeat appear whisper repeat carbon waste";
+var mnemonic = "tank already nuclear code shrimp field opinion avoid weapon interest visit teach";

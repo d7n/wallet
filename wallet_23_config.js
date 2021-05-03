@@ -1,1 +1,1 @@
-var mnemonic = "raw naive disorder pull release palm pill luxury direct sight vacant arrow";
+var mnemonic = "mango double suffer gossip film market come yard idle inspire oppose crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden report control repeat border glance version render caught cargo fiber mask";
+var mnemonic = "burger accident era admit whale series head solution pride stable vivid fitness";

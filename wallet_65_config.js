@@ -1,1 +1,1 @@
-var mnemonic = "stomach cream always bind unveil armed horse slot sell high add ostrich";
+var mnemonic = "hobby egg tattoo duck trip earn fruit whip robot shift duty because";

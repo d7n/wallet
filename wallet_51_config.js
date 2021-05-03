@@ -1,1 +1,1 @@
-var mnemonic = "dragon balcony window gorilla chief stock bleak try stuff battle december ancient";
+var mnemonic = "multiply shield odor banner fall tone brain piano school road notice novel";

@@ -1,1 +1,1 @@
-var mnemonic = "panther purpose calm six trend whip jelly run police always prepare embrace";
+var mnemonic = "knife cherry figure behave tiger weird prize reduce vital age patient enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "provide agree sense live raise detail suggest soft area control train peanut";
+var mnemonic = "flight modify display outdoor aware lunch clever claw follow wink accident venture";

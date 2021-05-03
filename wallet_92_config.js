@@ -1,1 +1,1 @@
-var mnemonic = "wet harbor material inmate door jealous result tissue shy burger crack across";
+var mnemonic = "brave toddler island negative year avoid bulk sauce horse hunt barely session";

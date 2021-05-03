@@ -1,1 +1,1 @@
-var mnemonic = "video life eight neither wood pepper hub evidence vital cactus borrow nothing";
+var mnemonic = "appear time accuse mesh one lemon charge predict early trip document round";

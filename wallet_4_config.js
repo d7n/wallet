@@ -1,1 +1,1 @@
-var mnemonic = "tuition book goose cactus phone pyramid giggle series weasel decline minute rebuild";
+var mnemonic = "half focus meadow fiber install crew legal laundry kid economy predict suffer";

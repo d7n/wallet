@@ -1,1 +1,1 @@
-var mnemonic = "nature draft transfer artwork sand wrestle tuna lesson nothing wagon pledge liar";
+var mnemonic = "large puzzle size crystal brisk legal glory myself buffalo vote genuine orient";

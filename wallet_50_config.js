@@ -1,1 +1,1 @@
-var mnemonic = "uncover slush goddess wish copper desk cover style error ask flavor nation";
+var mnemonic = "grant thumb library night phone else logic stuff drama cheap book day";

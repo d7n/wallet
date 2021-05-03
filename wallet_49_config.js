@@ -1,1 +1,1 @@
-var mnemonic = "jar culture jelly sorry number across shock alpha crater elegant benefit around";
+var mnemonic = "immense art lawn globe cradle pottery captain list spirit ribbon distance loop";

@@ -1,1 +1,1 @@
-var mnemonic = "humble forget eager hurry village sword purity chair upon crack stem agent";
+var mnemonic = "educate cigar sugar firm churn bus flame canvas glory like among skin";

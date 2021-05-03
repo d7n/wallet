@@ -1,1 +1,1 @@
-var mnemonic = "curtain relax tuition cave range live theme document breeze always play helmet";
+var mnemonic = "special bulk spray upper judge climb brick length long girl position pupil";

@@ -1,1 +1,1 @@
-var mnemonic = "awful field proud rural song alert flight notable fury jazz paper silent";
+var mnemonic = "life antique can spin mixed heart odor grit pool choice simple gas";

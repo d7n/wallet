@@ -1,1 +1,1 @@
-var mnemonic = "twice vacuum buyer foot dish affair concert valve replace scale solid always";
+var mnemonic = "steak decorate choose edge shoot monitor weather easy save sing cash nephew";

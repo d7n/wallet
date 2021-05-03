@@ -1,1 +1,1 @@
-var mnemonic = "zebra where fruit silver carpet shield keep embark choice improve size danger";
+var mnemonic = "tomorrow better noise position true shoe ordinary doctor repair tunnel captain unaware";

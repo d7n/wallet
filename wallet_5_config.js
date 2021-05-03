@@ -1,1 +1,1 @@
-var mnemonic = "couple salute donkey pattern same notable tiny local order have punch admit";
+var mnemonic = "neglect foam blur toss idea dumb medal wealth assume move man dynamic";
