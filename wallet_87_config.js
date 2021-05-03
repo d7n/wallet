@@ -1,1 +1,1 @@
-var mnemonic = "earn eagle leg film lava lounge mule arrange caution offer room firm";
+var mnemonic = "duck spy sketch damage clap buffalo fever airport wage canoe swift stick";

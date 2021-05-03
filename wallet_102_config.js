@@ -1,1 +1,1 @@
-var mnemonic = "nominee forest abandon water shift grocery convince into wonder idle noise cage";
+var mnemonic = "prepare priority steel front bargain phrase bench muffin distance inspire flame brick";

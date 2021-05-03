@@ -1,1 +1,1 @@
-var mnemonic = "rebuild mask surround inhale dragon believe frog tongue grape kangaroo velvet predict";
+var mnemonic = "drink school scheme raw census pledge deposit stairs kind alpha add baby";

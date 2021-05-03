@@ -1,1 +1,1 @@
-var mnemonic = "human slow biology spell become enhance chuckle actress ahead scrap arctic garment";
+var mnemonic = "fly focus token tiny post fun embrace oil lamp gym shove horror";

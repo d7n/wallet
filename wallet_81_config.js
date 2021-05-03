@@ -1,1 +1,1 @@
-var mnemonic = "unit enhance lumber solve height define soft lesson vacuum video rocket tray";
+var mnemonic = "odor ginger fatal memory satoshi label candy frog rhythm major clay honey";

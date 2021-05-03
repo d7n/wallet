@@ -1,1 +1,1 @@
-var mnemonic = "deputy worth future winter knife patrol rule lava borrow machine coil relax";
+var mnemonic = "harvest mosquito noise consider thing acid claw gorilla find dumb episode budget";

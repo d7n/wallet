@@ -1,1 +1,1 @@
-var mnemonic = "lava action keen oxygen layer repair lava fire alien certain venture harvest";
+var mnemonic = "order raccoon modify barrel wrong suffer home initial ensure rigid weapon office";

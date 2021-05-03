@@ -1,1 +1,1 @@
-var mnemonic = "jealous prize lava unaware fitness way sadness gauge casual duty used negative";
+var mnemonic = "tiny machine innocent salad news morning vote mix february fresh claim town";

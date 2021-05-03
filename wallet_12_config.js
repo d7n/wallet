@@ -1,1 +1,1 @@
-var mnemonic = "hazard still school jump ahead series upset leopard flash click salon jealous";
+var mnemonic = "awesome invite flat tennis velvet obscure chapter render wolf village daughter better";

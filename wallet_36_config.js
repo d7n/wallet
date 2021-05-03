@@ -1,1 +1,1 @@
-var mnemonic = "cousin faith wild giggle artefact swallow armor cigar gown bulk twice taxi";
+var mnemonic = "explain fatigue lizard reflect initial onion appear drastic scale safe exotic develop";

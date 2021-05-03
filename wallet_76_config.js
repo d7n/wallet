@@ -1,1 +1,1 @@
-var mnemonic = "kingdom physical main wheel pair tip fog caution coach session film another";
+var mnemonic = "envelope oxygen typical usage aunt act walnut grocery permit guilt echo banana";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor famous million race shallow icon gesture nature voyage creek slender unique";
+var mnemonic = "foot aunt when rough mail swarm motor advice jazz trust trick doll";

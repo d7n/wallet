@@ -1,1 +1,1 @@
-var mnemonic = "problem toast lunar dust park helmet pottery way ripple sword knife carry";
+var mnemonic = "boy badge chalk visa valley chat aware loud velvet aware solution toilet";

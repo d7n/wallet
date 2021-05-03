@@ -1,1 +1,1 @@
-var mnemonic = "fox dragon fish rival escape phone artwork lift radio stomach neglect car";
+var mnemonic = "useful penalty flower grape sniff start tobacco piano gun convince nothing often";

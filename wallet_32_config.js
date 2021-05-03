@@ -1,1 +1,1 @@
-var mnemonic = "economy involve dust panic sad robot egg fitness priority glue rival smoke";
+var mnemonic = "coil result confirm attend breeze wrong lock chase patrol enforce toilet purity";

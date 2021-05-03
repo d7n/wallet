@@ -1,1 +1,1 @@
-var mnemonic = "peace quality alert supply track crew box road model divorce chapter follow";
+var mnemonic = "dolphin easily cancel tip trip hood blossom crumble replace thank deliver tiny";

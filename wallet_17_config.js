@@ -1,1 +1,1 @@
-var mnemonic = "popular oyster stumble faculty bunker excess rally until light ceiling river force";
+var mnemonic = "lonely blood artist swift letter issue wet enact symptom visual pottery furnace";

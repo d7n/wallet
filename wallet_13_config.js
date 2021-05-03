@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog speed receive become hip culture occur elephant bulk lion knee waste";
+var mnemonic = "fluid cook discover early spend security truck jealous jump goat document swallow";

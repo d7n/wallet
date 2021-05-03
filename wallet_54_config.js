@@ -1,1 +1,1 @@
-var mnemonic = "injury custom local chef minimum dash mandate hip slab stumble spot pear";
+var mnemonic = "adjust sort gift distance almost kingdom step topic foster grow recall slab";

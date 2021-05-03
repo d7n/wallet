@@ -1,1 +1,1 @@
-var mnemonic = "wage core alpha home magnet glass frown eagle carry youth guilt grit";
+var mnemonic = "because minor ocean pigeon leaf garlic army prefer morning grocery carry verb";

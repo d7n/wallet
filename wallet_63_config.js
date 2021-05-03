@@ -1,1 +1,1 @@
-var mnemonic = "broom reopen vendor fat twice vague blanket feature kitchen among elbow million";
+var mnemonic = "alarm excite car brass funny unfold member detect just skate vault duck";

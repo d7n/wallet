@@ -1,1 +1,1 @@
-var mnemonic = "disorder truck teach rapid occur resemble scene depend device leopard isolate category";
+var mnemonic = "bunker identify alter bone annual hood brisk true famous crane satisfy thank";

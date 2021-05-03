@@ -1,1 +1,1 @@
-var mnemonic = "uphold put among balance news cruise demand use fox pull wink copper";
+var mnemonic = "define nature nice walnut choose drop enjoy faint infant exchange chapter useless";

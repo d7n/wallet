@@ -1,1 +1,1 @@
-var mnemonic = "jealous loan unit life museum cabin kingdom tag embrace path exotic turtle";
+var mnemonic = "miss pool kit runway boil mechanic change october confirm phrase crawl fantasy";

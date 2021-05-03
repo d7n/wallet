@@ -1,1 +1,1 @@
-var mnemonic = "fall prepare endless balance until napkin bounce fat edit live annual story";
+var mnemonic = "figure salon payment laundry prison such task boss response nurse amount obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "cricket guilt mechanic vicious joke panic inspire effort power stay direct attack";
+var mnemonic = "caution butter column drink walk muffin wink senior obtain fossil gap funny";

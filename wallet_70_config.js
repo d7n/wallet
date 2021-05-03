@@ -1,1 +1,1 @@
-var mnemonic = "animal fetch possible copper hip return bean clap lake team suit food";
+var mnemonic = "sleep shock mail cart pony vibrant super inhale improve monitor basket behave";

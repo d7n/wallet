@@ -1,1 +1,1 @@
-var mnemonic = "work step review chronic vote alert gossip smile dress section column lottery";
+var mnemonic = "number uphold river best illness throw public hockey dignity great sport goose";

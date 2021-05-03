@@ -1,1 +1,1 @@
-var mnemonic = "cheap awful switch brand safe box various health patrol latin village trick";
+var mnemonic = "spare hungry bread album section inhale improve scale body virtual horror room";

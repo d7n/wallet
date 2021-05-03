@@ -1,1 +1,1 @@
-var mnemonic = "icon adapt maid fragile talent drift lecture scare shield hand knife dinosaur";
+var mnemonic = "primary afraid nominee caution insect vendor caught card arrange eye humble flip";

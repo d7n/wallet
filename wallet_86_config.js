@@ -1,1 +1,1 @@
-var mnemonic = "fringe flash bone derive firm image jeans rather involve super trophy cloud";
+var mnemonic = "nothing action dilemma hard jazz twenty border foster doctor observe snack oil";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion reopen suffer nominee side occur eight body van insect dream universe";
+var mnemonic = "milk shuffle april pill hire country woman river lion winner nasty please";

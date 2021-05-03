@@ -1,1 +1,1 @@
-var mnemonic = "rug rack iron shy kid near symptom tide evolve eternal forest bag";
+var mnemonic = "citizen chest dial expect breeze giant captain insane wife inner bleak flash";

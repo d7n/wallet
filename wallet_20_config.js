@@ -1,1 +1,1 @@
-var mnemonic = "frequent pattern waste addict reason bicycle letter fame learn sample buffalo raise";
+var mnemonic = "grape soul emerge easy ethics remove nice obey edit swamp keen airport";

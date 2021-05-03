@@ -1,1 +1,1 @@
-var mnemonic = "matrix pistol lonely quit over garlic brother lake animal genius blue improve";
+var mnemonic = "dog lounge antenna grace actress day smooth midnight mushroom swear mixture hint";

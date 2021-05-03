@@ -1,1 +1,1 @@
-var mnemonic = "blanket erase purchase update false sphere unknown maze flee speak original rain";
+var mnemonic = "code patch over genius aunt caught menu update fortune mass poverty top";

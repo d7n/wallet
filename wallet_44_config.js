@@ -1,1 +1,1 @@
-var mnemonic = "trash comfort mom only trust elephant pretty risk melody oak desert gloom";
+var mnemonic = "elder source apology believe barrel pave fiber mistake sea meadow pizza female";

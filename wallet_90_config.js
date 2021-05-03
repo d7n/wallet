@@ -1,1 +1,1 @@
-var mnemonic = "range dice main balcony remove tunnel range only earn nuclear net vocal";
+var mnemonic = "pluck baby pottery text myself inform tank orbit friend fashion destroy loop";

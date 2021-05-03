@@ -1,1 +1,1 @@
-var mnemonic = "rocket evil nominee inch hobby toilet sister explain layer job pupil pet";
+var mnemonic = "volcano naive luxury kiwi slush object electric want burger century coin educate";

@@ -1,1 +1,1 @@
-var mnemonic = "twin steak hour replace ship flat update moon excite impulse impact scare";
+var mnemonic = "list dinosaur magnet clay problem air stock drop demand pledge castle people";

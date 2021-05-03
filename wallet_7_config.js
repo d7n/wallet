@@ -1,1 +1,1 @@
-var mnemonic = "gloom visa burden proof prosper razor camera shine elegant just print lucky";
+var mnemonic = "approve spread enough treat chest become rookie quick stove depend recipe buyer";

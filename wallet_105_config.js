@@ -1,1 +1,1 @@
-var mnemonic = "fatigue cannon analyst identify output return month strong chest glide blood shop";
+var mnemonic = "bottom magnet caution mistake rabbit topic state whip dune surface coin fat";

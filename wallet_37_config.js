@@ -1,1 +1,1 @@
-var mnemonic = "inherit program salad impulse fancy tube shaft angle borrow raccoon amount patient";
+var mnemonic = "pet reform wide museum winter merit provide boost woman catch arch keen";

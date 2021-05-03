@@ -1,1 +1,1 @@
-var mnemonic = "nominee fog hover urban arm boat expose collect edit off pride slice";
+var mnemonic = "liar material eight electric future junior wife melody flavor sketch culture friend";

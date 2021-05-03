@@ -1,1 +1,1 @@
-var mnemonic = "almost mechanic please tone badge ugly expect cloth oxygen vague pill ritual";
+var mnemonic = "donor auto select mystery hub stay hammer attitude educate script stage milk";

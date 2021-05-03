@@ -1,1 +1,1 @@
-var mnemonic = "vibrant era best sad chuckle peace survey flame wheat belt outside stay";
+var mnemonic = "stone marine surprise total only castle essay elbow razor lecture play garden";

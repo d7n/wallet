@@ -1,1 +1,1 @@
-var mnemonic = "wash wire wrestle insane hood wear buddy super evoke guess track spice";
+var mnemonic = "party dignity suit expose anger merge ship cup elegant custom achieve crime";

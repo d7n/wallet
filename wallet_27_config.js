@@ -1,1 +1,1 @@
-var mnemonic = "knock supreme burden notice news lamp road novel other salad coffee gate";
+var mnemonic = "habit zero team mule veteran frequent myself fence deputy shuffle siren stumble";

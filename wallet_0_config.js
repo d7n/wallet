@@ -1,1 +1,1 @@
-var mnemonic = "advance defy since orbit scrub renew pencil garlic useful exchange october squirrel";
+var mnemonic = "comfort soup chaos dune alley mistake deposit puzzle staff cactus crowd father";

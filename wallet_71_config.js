@@ -1,1 +1,1 @@
-var mnemonic = "follow plate sick carpet bulk huge vintage alarm mean sudden struggle loud";
+var mnemonic = "kit verb electric air hub cute shock flag security van vivid dentist";

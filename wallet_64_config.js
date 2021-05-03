@@ -1,1 +1,1 @@
-var mnemonic = "narrow garment benefit furnace twin hello bless crash other zoo calm winner";
+var mnemonic = "require rib viable citizen moon arrest waste anger license summer undo next";

@@ -1,1 +1,1 @@
-var mnemonic = "october dial unfair pause doll divert hurdle refuse document coil mercy hello";
+var mnemonic = "regular click left carbon resist day attend photo balcony wool pulse crouch";

@@ -1,1 +1,1 @@
-var mnemonic = "flash hungry flight twice viable bomb between shallow anchor item game crater";
+var mnemonic = "satisfy paddle diet inform finish few festival leisure drive gauge salt twelve";

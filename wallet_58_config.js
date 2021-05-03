@@ -1,1 +1,1 @@
-var mnemonic = "subway laptop forum rail very noble arena electric myth like sauce evolve";
+var mnemonic = "output enact danger apart age gap stand plate calm order pen six";

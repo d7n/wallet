@@ -1,1 +1,1 @@
-var mnemonic = "industry normal enroll lesson pen accuse rude fee keep impulse loud calm";
+var mnemonic = "leader orchard tube spin cushion hold settle sentence youth prefer emerge broom";

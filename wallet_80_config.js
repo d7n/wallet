@@ -1,1 +1,1 @@
-var mnemonic = "pet silver stool portion valve rug famous put enhance leopard glue will";
+var mnemonic = "sausage key belt august apology tragic real wood feed comfort ahead breeze";

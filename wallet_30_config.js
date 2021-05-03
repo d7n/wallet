@@ -1,1 +1,1 @@
-var mnemonic = "noble swear regret lizard erupt fragile gravity tongue provide liberty way swap";
+var mnemonic = "thumb wagon appear syrup rival poem mercy divert strong budget assist embark";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon song observe follow random doctor dolphin wink dinosaur chair cigar claim";
+var mnemonic = "baby journey finish column aspect upon enrich bomb capital bind dove artwork";

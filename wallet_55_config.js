@@ -1,1 +1,1 @@
-var mnemonic = "moon scorpion affair energy diagram step model debate minute object program outer";
+var mnemonic = "snap undo resist wedding begin chaos expire coin ski edge brisk gallery";

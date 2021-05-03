@@ -1,1 +1,1 @@
-var mnemonic = "valve view hungry velvet license fever put atom clinic rubber nerve voice";
+var mnemonic = "cotton grocery canal credit gauge cousin comic fly cherry collect belt target";

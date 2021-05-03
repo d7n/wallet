@@ -1,1 +1,1 @@
-var mnemonic = "spatial fatigue clean maze galaxy pilot spatial drift sibling foot garden bubble";
+var mnemonic = "once collect broom sample image arrest usage drum have shine park drive";

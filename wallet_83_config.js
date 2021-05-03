@@ -1,1 +1,1 @@
-var mnemonic = "unit exile stove laugh dice inch kangaroo small morning family enlist snake";
+var mnemonic = "cry layer fiscal spell gain husband soul angry genre scare elite option";

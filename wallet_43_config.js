@@ -1,1 +1,1 @@
-var mnemonic = "busy seek into sign robust real robust race silk try culture absent";
+var mnemonic = "diamond surround few era awesome strong adult expire uphold stay poverty choose";

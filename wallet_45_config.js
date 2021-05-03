@@ -1,1 +1,1 @@
-var mnemonic = "plastic device minute picnic raven gown crisp tumble normal what zone caught";
+var mnemonic = "town unique august home eternal elevator urge unlock brisk illegal arctic orphan";

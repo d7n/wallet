@@ -1,1 +1,1 @@
-var mnemonic = "alarm major surprise attract wait ride dune key innocent recycle analyst adapt";
+var mnemonic = "reject assist powder master away lesson dutch install run gesture depth afraid";

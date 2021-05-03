@@ -1,1 +1,1 @@
-var mnemonic = "zero please few desk vote prevent another junk ranch improve vibrant vicious";
+var mnemonic = "ugly mimic manual travel vast ignore ripple same post song simple confirm";

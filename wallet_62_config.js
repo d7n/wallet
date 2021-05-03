@@ -1,1 +1,1 @@
-var mnemonic = "flash join garden silent bundle garbage brain prosper gravity happy extra price";
+var mnemonic = "crisp crowd noise guilt crazy broom dizzy bus video slush concert family";

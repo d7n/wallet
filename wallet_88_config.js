@@ -1,1 +1,1 @@
-var mnemonic = "theory already expect gorilla start fold spoon lawn canoe kiss travel picture";
+var mnemonic = "web direct opera mind shove damage combine token found close ethics stamp";

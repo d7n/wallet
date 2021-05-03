@@ -1,1 +1,1 @@
-var mnemonic = "guard track appear leader rubber toy child choose swallow moment bracket notice";
+var mnemonic = "volcano logic fiscal must dirt digital parrot spin tree situate profit salon";

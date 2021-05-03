@@ -1,1 +1,1 @@
-var mnemonic = "horn photo bless asthma finger truly display review chief shoe festival obvious";
+var mnemonic = "clump blossom waste scale toddler enemy ripple venue render actual depend imitate";

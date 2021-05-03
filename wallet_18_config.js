@@ -1,1 +1,1 @@
-var mnemonic = "annual silk oven leg health enemy aspect sadness light tennis matrix eager";
+var mnemonic = "want spoil emerge edit success flip surface first floor tilt hat unique";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar found clever again frown tube plastic arrive predict ball beyond wage";
+var mnemonic = "earn labor brown scheme force holiday focus typical west modify much exotic";

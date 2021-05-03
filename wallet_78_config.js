@@ -1,1 +1,1 @@
-var mnemonic = "expire canvas rocket mushroom cost adapt boring shove blue right large spring";
+var mnemonic = "cable fire field rack piece field visa able jar magic wild glass";

@@ -1,1 +1,1 @@
-var mnemonic = "sphere angle silent custom library foster spot ball silent hungry end female";
+var mnemonic = "joke moment culture address arrive attitude result wrong extend any roof gain";

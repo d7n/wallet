@@ -1,1 +1,1 @@
-var mnemonic = "cloth jeans step trumpet disease arm ride brand husband tumble junk advice";
+var mnemonic = "venue park citizen impose hedgehog ghost exile there bunker toss pole embrace";

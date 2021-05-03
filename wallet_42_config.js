@@ -1,1 +1,1 @@
-var mnemonic = "blade accident critic antenna hour brown valve design jar chuckle sponsor survey";
+var mnemonic = "own luggage second pact happy icon harbor wave agree ecology smoke noble";

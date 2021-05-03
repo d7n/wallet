@@ -1,1 +1,1 @@
-var mnemonic = "vintage casino street web must ancient struggle search square sting language memory";
+var mnemonic = "spring dash once toward melody dawn early equip elder country mercy anxiety";

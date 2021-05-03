@@ -1,1 +1,1 @@
-var mnemonic = "harvest circle skin alert emotion inform like catalog vote usual ocean off";
+var mnemonic = "gather person holiday age phone wisdom document venue host upper atom problem";

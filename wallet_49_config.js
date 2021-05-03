@@ -1,1 +1,1 @@
-var mnemonic = "diet picture coyote tissue worry skull nurse nuclear aspect core wave giggle";
+var mnemonic = "bronze exchange mercy demand bridge render sort feature attack habit stuff faint";

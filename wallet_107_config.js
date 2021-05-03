@@ -1,1 +1,1 @@
-var mnemonic = "desert alert rose disagree square sting climb hair noodle destroy ignore stone";
+var mnemonic = "what cram own easy useless flee sea flavor decrease unhappy shoe cousin";

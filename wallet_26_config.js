@@ -1,1 +1,1 @@
-var mnemonic = "right ugly base social alien blast narrow dynamic trouble dentist ugly please";
+var mnemonic = "weapon vote seven shift east bottom axis axis suspect illness brush sail";

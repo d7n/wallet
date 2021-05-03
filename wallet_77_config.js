@@ -1,1 +1,1 @@
-var mnemonic = "remind suit word hen paddle balance enter rely primary tobacco morning loan";
+var mnemonic = "pony manual denial series actress raccoon critic goddess resist bridge canal truck";

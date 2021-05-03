@@ -1,1 +1,1 @@
-var mnemonic = "lunar flight symptom bubble kid business require lemon economy orange salt random";
+var mnemonic = "abuse ten view margin initial true insect truly balance use eyebrow render";

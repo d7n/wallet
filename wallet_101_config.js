@@ -1,1 +1,1 @@
-var mnemonic = "purchase evil provide uncle chest organ quick sketch explain emerge sword result";
+var mnemonic = "runway addict fade south oil kite universe danger school biology awake easily";

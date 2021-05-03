@@ -1,1 +1,1 @@
-var mnemonic = "ugly twenty solve present section stadium gym flock ride grow local ritual";
+var mnemonic = "dance trigger since shrug fury minor eagle moment salon mistake moral aerobic";

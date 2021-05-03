@@ -1,1 +1,1 @@
-var mnemonic = "stay wire marriage home lonely glow human barely move okay creek wreck";
+var mnemonic = "rose fit almost day noise inject magnet fire garage initial gown unaware";

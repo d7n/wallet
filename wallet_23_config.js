@@ -1,1 +1,1 @@
-var mnemonic = "heavy fever moon ethics kingdom mobile alarm juice quantum disorder air clip";
+var mnemonic = "fog puzzle cost trip elevator purpose clean length victory hope pluck toy";

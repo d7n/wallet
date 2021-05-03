@@ -1,1 +1,1 @@
-var mnemonic = "able replace burden swallow laugh agree health wealth salmon borrow report machine";
+var mnemonic = "around night flush cloth audit country security van crater capable taxi cram";

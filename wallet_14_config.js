@@ -1,1 +1,1 @@
-var mnemonic = "spell image tunnel august ginger cabbage news chapter pledge move dynamic rotate";
+var mnemonic = "bridge ankle scheme else guard army bean soda quarter hood crunch galaxy";

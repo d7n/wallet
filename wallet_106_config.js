@@ -1,1 +1,1 @@
-var mnemonic = "solid present life despair mimic drive calm cruel south exchange edge way";
+var mnemonic = "click atom about lake thought else few bag robot best unknown camera";

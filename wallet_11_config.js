@@ -1,1 +1,1 @@
-var mnemonic = "chief chest argue desk success myself release balcony traffic bread useful evoke";
+var mnemonic = "record brass blue please sense gate flight marble material slice food camera";

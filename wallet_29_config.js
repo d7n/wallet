@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit virtual shock setup infant spring insect link welcome citizen clean cube";
+var mnemonic = "close define chicken price warm boil wire aim useless vacuum oblige pilot";

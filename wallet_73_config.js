@@ -1,1 +1,1 @@
-var mnemonic = "salute skull huge pact mountain small amateur save shallow deposit nation twelve";
+var mnemonic = "donate cash split picture awesome poverty matter now fly shift cause eight";

@@ -1,1 +1,1 @@
-var mnemonic = "country best topic roof cook define school mixed model ginger settle gauge";
+var mnemonic = "rhythm bullet train favorite huge comic piano notable pulse easy receive thumb";

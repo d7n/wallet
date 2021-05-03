@@ -1,1 +1,1 @@
-var mnemonic = "fragile few arch dizzy cover siren elevator law school live grain payment";
+var mnemonic = "trumpet dream debate blast alley betray fine delay car hour author noble";
