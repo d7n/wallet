@@ -1,1 +1,1 @@
-var mnemonic = "panda board mean section track broom extend acquire rack reunion worth interest";
+var mnemonic = "pond toe lucky index echo six endless slice neither ladder chalk robust";

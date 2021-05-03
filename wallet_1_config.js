@@ -1,1 +1,1 @@
-var mnemonic = "magnet dwarf ridge remind vote hotel egg trumpet hobby burst aunt pilot";
+var mnemonic = "theory pull tip second pilot spike slab disagree melt napkin cat acid";

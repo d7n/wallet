@@ -1,1 +1,1 @@
-var mnemonic = "guilt hole firm smooth aim tuition turn where reflect stone orbit scan";
+var mnemonic = "swallow cash quality middle trumpet pilot zone blind retire stereo mom insect";

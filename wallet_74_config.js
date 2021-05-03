@@ -1,1 +1,1 @@
-var mnemonic = "prefer bless bread bacon limit grocery gallery fence general depth sustain daring";
+var mnemonic = "awkward audit glimpse auction sauce sword right neutral blur sadness walnut tissue";

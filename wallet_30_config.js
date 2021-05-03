@@ -1,1 +1,1 @@
-var mnemonic = "milk bulb razor help chief kidney portion copper whale day immense rate";
+var mnemonic = "laptop enlist napkin maze cabin only foam know lend yellow clerk oven";

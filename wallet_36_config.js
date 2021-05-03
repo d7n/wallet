@@ -1,1 +1,1 @@
-var mnemonic = "tonight behave skin scrub stable order dance wrestle holiday fringe couple firm";
+var mnemonic = "mention body argue famous ivory slide toward basket razor giggle regular vital";

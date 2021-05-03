@@ -1,1 +1,1 @@
-var mnemonic = "unfair frown correct faith slender element season chair dish sphere right hope";
+var mnemonic = "into hawk long satoshi cliff shiver inquiry believe cool month wage hover";

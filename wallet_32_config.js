@@ -1,1 +1,1 @@
-var mnemonic = "story sleep spy rural about busy also invite raven dish peanut economy";
+var mnemonic = "beauty hawk exact collect advance laundry butter lend caution call bullet supreme";

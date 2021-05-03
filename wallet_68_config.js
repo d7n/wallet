@@ -1,1 +1,1 @@
-var mnemonic = "crew lend brisk hammer spawn degree magnet ridge wink library mountain century";
+var mnemonic = "vast envelope beauty release excite half lava stumble thing quiz daring mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "learn total burger alien net pave lizard army sound bronze false woman";
+var mnemonic = "december piece glare chimney easily enable logic drop initial else robust swing";

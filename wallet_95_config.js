@@ -1,1 +1,1 @@
-var mnemonic = "victory letter ribbon awkward run local weird twelve kingdom nephew sausage harbor";
+var mnemonic = "okay someone awake misery elder high holiday mom remember stadium pilot deer";

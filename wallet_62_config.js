@@ -1,1 +1,1 @@
-var mnemonic = "sock jazz stove song clip special undo evoke dice control rice neck";
+var mnemonic = "smart course pair system lizard loyal rigid brand fog pupil harvest oak";

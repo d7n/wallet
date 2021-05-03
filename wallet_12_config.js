@@ -1,1 +1,1 @@
-var mnemonic = "end beyond limb inject thing color limit team punch gather worth awesome";
+var mnemonic = "empty sausage brave link fly maze never congress sniff rich school onion";

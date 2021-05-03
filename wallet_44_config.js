@@ -1,1 +1,1 @@
-var mnemonic = "jewel develop detail school alarm train puppy card drastic abuse lobster decade";
+var mnemonic = "animal patient future sea hidden rookie buzz number sport coral valid raise";

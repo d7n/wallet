@@ -1,1 +1,1 @@
-var mnemonic = "mistake note boat city flock unit burger supreme black dragon vast tunnel";
+var mnemonic = "cash guitar army shove stem trick slender wink drama head actual expect";

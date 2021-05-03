@@ -1,1 +1,1 @@
-var mnemonic = "insane hockey mixed nose warm kangaroo cheap great aunt guard vibrant surface";
+var mnemonic = "clap nest wool lawsuit unusual cancel grit rookie soft raccoon twenty jeans";

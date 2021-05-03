@@ -1,1 +1,1 @@
-var mnemonic = "tooth diet gorilla ahead fuel they network crane loyal grant alarm candy";
+var mnemonic = "kiwi photo group change note nerve giraffe below kite situate opinion angry";

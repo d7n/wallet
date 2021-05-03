@@ -1,1 +1,1 @@
-var mnemonic = "prison beef deal mule popular verify icon cliff need away venture cool";
+var mnemonic = "powder twice noble waste finish urge idea vintage acquire supply hidden auto";

@@ -1,1 +1,1 @@
-var mnemonic = "online basket faith outer gasp what turn act hybrid casino cage pepper";
+var mnemonic = "pumpkin reject rare lesson siege river cute wine maze approve jewel target";

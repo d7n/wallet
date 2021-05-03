@@ -1,1 +1,1 @@
-var mnemonic = "stadium strike run project huge nephew ride moment hair supply assist party";
+var mnemonic = "fitness safe myself strike sunny pepper twist timber guide unable scheme hour";

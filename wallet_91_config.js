@@ -1,1 +1,1 @@
-var mnemonic = "mixed donor double nothing damp exercise ranch increase among victory desert swap";
+var mnemonic = "much hub wagon dolphin hybrid bring volcano cigar script wear actual program";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon give must episode husband own time vessel differ satisfy bamboo soldier";
+var mnemonic = "rookie absorb music alpha fringe volume lava knee sponsor drop owner into";

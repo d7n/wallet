@@ -1,1 +1,1 @@
-var mnemonic = "film faint athlete goose art direct nothing tired swamp monster motor bless";
+var mnemonic = "solid purpose stone output bridge coach region health genuine chalk model crop";

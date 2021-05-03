@@ -1,1 +1,1 @@
-var mnemonic = "guilt milk gate service forest input casino remember horror symbol swim victory";
+var mnemonic = "install puzzle female couch unlock kangaroo carbon member blur fat intact maze";

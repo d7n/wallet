@@ -1,1 +1,1 @@
-var mnemonic = "fade sand timber indicate iron text vague deny power bounce panel off";
+var mnemonic = "senior slab charge border boat hammer express float sing wrap group spend";

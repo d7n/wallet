@@ -1,1 +1,1 @@
-var mnemonic = "battle manual area grant series surround salon lucky sort finger flee cross";
+var mnemonic = "imitate ramp employ cream worry drama region awesome broccoli exotic prison retire";

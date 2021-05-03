@@ -1,1 +1,1 @@
-var mnemonic = "heavy sniff knife address similar above outer drama debate bottom fog ladder";
+var mnemonic = "vendor great town salmon sleep menu sad arena grain direct dish quarter";

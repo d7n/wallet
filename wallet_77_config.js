@@ -1,1 +1,1 @@
-var mnemonic = "coffee inmate knee oval bracket armor beyond hope detect wedding buyer input";
+var mnemonic = "lady page drastic medal slot only dance panic agree stone ethics grit";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar false search margin program tunnel clever wife erode erode flash finger";
+var mnemonic = "evidence magnet wisdom green super face bright parrot silly never vast gossip";

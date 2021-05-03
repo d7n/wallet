@@ -1,1 +1,1 @@
-var mnemonic = "exile vague close essence reopen credit focus devote flavor era lottery panel";
+var mnemonic = "discover rug wing sort wrong eternal ladder steel hospital latin cement toast";

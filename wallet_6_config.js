@@ -1,1 +1,1 @@
-var mnemonic = "arrow shadow next arch income prize anxiety seven fish initial detect blossom";
+var mnemonic = "stable busy armed couch follow second often engine memory vintage shoot permit";

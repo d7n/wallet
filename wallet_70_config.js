@@ -1,1 +1,1 @@
-var mnemonic = "giggle process solid guard mammal region stomach attend outside obvious hockey chest";
+var mnemonic = "actress pony identify fine enlist sunset maple bread garden rhythm govern album";

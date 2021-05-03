@@ -1,1 +1,1 @@
-var mnemonic = "brisk filter warrior blade inside output team patch hint relax baby shell";
+var mnemonic = "hospital shaft initial long pull travel disease reward credit project great trim";

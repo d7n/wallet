@@ -1,1 +1,1 @@
-var mnemonic = "unit easy green senior exist girl glove hint stone cargo seek soda";
+var mnemonic = "energy wagon giggle rude grab suggest drift tool burst file patrol fabric";

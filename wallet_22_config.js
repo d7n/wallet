@@ -1,1 +1,1 @@
-var mnemonic = "pioneer card panic ladder marble magic fabric genre modify buffalo pull tray";
+var mnemonic = "book happy thrive injury clerk north rebel include shiver blanket into weather";

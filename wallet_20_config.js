@@ -1,1 +1,1 @@
-var mnemonic = "chimney civil original kiss vacuum minor old honey margin medal twenty race";
+var mnemonic = "frequent execute someone knee knife hero junior trip screen myth agent true";

@@ -1,1 +1,1 @@
-var mnemonic = "timber tree ahead swing verb convince enact finish dance axis one destroy";
+var mnemonic = "bless inspire gaze pave trumpet whisper twenty flock wide major laugh ready";

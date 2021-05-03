@@ -1,1 +1,1 @@
-var mnemonic = "eternal round sphere gossip alcohol ecology crunch tenant interest clog all lift";
+var mnemonic = "never hair turtle tackle leave brave adapt flower live miracle fabric right";

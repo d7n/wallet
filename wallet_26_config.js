@@ -1,1 +1,1 @@
-var mnemonic = "giant rule castle pull unable motor height submit ride brand mass dice";
+var mnemonic = "correct barely lawsuit health devote lend remember deputy vintage people warrior impulse";

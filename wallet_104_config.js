@@ -1,1 +1,1 @@
-var mnemonic = "globe dolphin tenant oyster moment permit toward layer enable emerge maid before";
+var mnemonic = "cloth flavor ready hedgehog cash service random burger honey vocal accuse twenty";

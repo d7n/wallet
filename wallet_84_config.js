@@ -1,1 +1,1 @@
-var mnemonic = "loan prepare grid chapter crush together hundred lemon motion only valid shrug";
+var mnemonic = "health law cheese drama pond three fragile ostrich shoot tumble yellow monkey";

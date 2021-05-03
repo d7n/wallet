@@ -1,1 +1,1 @@
-var mnemonic = "seek found auto eternal patch road pioneer hope success century remember exit";
+var mnemonic = "nothing swarm success joke guess arrive obtain brother adult wild answer expose";

@@ -1,1 +1,1 @@
-var mnemonic = "pen foster blouse easy humor atom during clock unusual pioneer author weather";
+var mnemonic = "velvet hood sail clutch alarm mail acquire language hybrid castle rifle enrich";

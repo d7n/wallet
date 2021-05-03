@@ -1,1 +1,1 @@
-var mnemonic = "relax burden reason digital stove dumb captain liquid elephant dish around normal";
+var mnemonic = "intact list enact anchor sail minute medal wave anchor craft gown spell";

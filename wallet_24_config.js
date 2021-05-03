@@ -1,1 +1,1 @@
-var mnemonic = "bonus sport future cherry behind alpha satoshi quit pumpkin trap execute rabbit";
+var mnemonic = "gospel flame dune leaf amount tortoise armor dad drastic uncover dilemma fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "skate pond buyer waste train coin become potato benefit demand smooth ancient";
+var mnemonic = "spend bacon produce display source fire bubble once token tenant young autumn";

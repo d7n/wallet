@@ -1,1 +1,1 @@
-var mnemonic = "churn field rare between manage decade toe lazy culture amount section behave";
+var mnemonic = "veteran flash calm utility awkward behind ostrich lift pottery uphold laundry trust";

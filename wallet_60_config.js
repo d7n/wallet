@@ -1,1 +1,1 @@
-var mnemonic = "belt sibling spare ugly frog scout vacuum lava cement glove dust roast";
+var mnemonic = "cradle frown speed lumber legal state must dignity attack cover unable vast";

@@ -1,1 +1,1 @@
-var mnemonic = "pear damage chapter shrimp kitten claw fame moon canvas write buzz frown";
+var mnemonic = "sort area candy left chapter female cable voyage noise review clock public";

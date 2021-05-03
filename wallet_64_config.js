@@ -1,1 +1,1 @@
-var mnemonic = "aerobic plastic skirt fold distance roof pause badge use sudden post siren";
+var mnemonic = "cup faculty love stay address picture regular inside arctic rabbit artwork palm";

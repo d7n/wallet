@@ -1,1 +1,1 @@
-var mnemonic = "canvas curtain where romance balance jungle oven drift typical pattern business draft";
+var mnemonic = "rib charge road exotic illegal describe lottery maximum trap trick occur segment";

@@ -1,1 +1,1 @@
-var mnemonic = "awful frame jaguar stamp wait attitude load pass december segment argue cliff";
+var mnemonic = "tobacco cash photo cargo spider salute claw equal eyebrow grace ridge crater";

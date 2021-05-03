@@ -1,1 +1,1 @@
-var mnemonic = "weapon civil cousin team marine spray identify opera remove snack cloud draw";
+var mnemonic = "question beach phone monitor stuff rack dawn together example sting congress review";

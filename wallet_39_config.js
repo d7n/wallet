@@ -1,1 +1,1 @@
-var mnemonic = "marriage arrange guilt sunset random trend worry receive knee story example young";
+var mnemonic = "mesh later obey pen verb dumb abandon garment dove miracle quit art";

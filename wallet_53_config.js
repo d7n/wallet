@@ -1,1 +1,1 @@
-var mnemonic = "method subject quality battle captain practice matter essence hollow talk deer inside";
+var mnemonic = "alpha width eight admit myself surround cousin also wonder pen property comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "arena guard peasant base word nerve orient afraid plate collect ready label";
+var mnemonic = "loyal fox fun breeze donate upon fold illness assist raccoon foil debate";

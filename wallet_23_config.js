@@ -1,1 +1,1 @@
-var mnemonic = "hard negative column slow olympic tragic real pool mandate spider humor wall";
+var mnemonic = "alert never rebel village execute basic sample jaguar pulse address report almost";

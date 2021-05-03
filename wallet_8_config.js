@@ -1,1 +1,1 @@
-var mnemonic = "kiss open cry arrange coyote pyramid fit youth hire twist shed isolate";
+var mnemonic = "loud victory cushion adult impact honey knock lottery clutch what stomach off";

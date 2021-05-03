@@ -1,1 +1,1 @@
-var mnemonic = "sick scrap ticket addict diesel sight index feature favorite album rule front";
+var mnemonic = "glare tired sad stage excess mutual exit level elevator method chair kid";

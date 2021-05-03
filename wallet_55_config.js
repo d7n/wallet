@@ -1,1 +1,1 @@
-var mnemonic = "wish mushroom pelican lion knock shoulder source funny input siren ankle hover";
+var mnemonic = "crucial alcohol defy field knife hotel fish marriage tattoo success topple shell";

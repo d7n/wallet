@@ -1,1 +1,1 @@
-var mnemonic = "chalk dash champion scare kiss chicken rose man wasp horse sorry heavy";
+var mnemonic = "trumpet valve lonely perfect truck empty road canvas find hospital movie coil";

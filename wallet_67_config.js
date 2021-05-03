@@ -1,1 +1,1 @@
-var mnemonic = "check disorder bleak soccer pulse loyal old knee excite frequent online absorb";
+var mnemonic = "agree hurdle distance choice powder race virtual knife chalk pink daring uniform";

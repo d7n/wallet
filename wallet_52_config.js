@@ -1,1 +1,1 @@
-var mnemonic = "movie clog hip rescue scene lady bonus claim adjust undo hockey tissue";
+var mnemonic = "hour trumpet patient release change method dwarf phone entry ordinary resist stool";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey carpet rabbit critic renew grant cup blue garbage depend follow exhibit";
+var mnemonic = "label solar dial expect type pulse gap rug good museum meadow cycle";

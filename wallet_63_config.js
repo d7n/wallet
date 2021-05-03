@@ -1,1 +1,1 @@
-var mnemonic = "opera nerve average lift burst battle kidney bid elite stadium hospital there";
+var mnemonic = "shrug message ill brand van quiz harsh desert panic snap clown caught";

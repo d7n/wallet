@@ -1,1 +1,1 @@
-var mnemonic = "dice accident aspect music poet sister glance exile dance regular flower curious";
+var mnemonic = "balance reunion brand target seminar barrel man dismiss below hurt divert festival";

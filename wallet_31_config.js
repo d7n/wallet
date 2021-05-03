@@ -1,1 +1,1 @@
-var mnemonic = "shrug regular boat angry canvas project side drop task virtual beauty usage";
+var mnemonic = "panic brass noble shiver bottom wink much baby search century tube glass";

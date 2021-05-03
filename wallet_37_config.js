@@ -1,1 +1,1 @@
-var mnemonic = "notable foot afraid release verb camera train chase laundry comfort artwork toss";
+var mnemonic = "timber awkward trick chuckle faint kite faith rescue diary gold seven vapor";

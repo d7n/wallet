@@ -1,1 +1,1 @@
-var mnemonic = "remain nerve board solve enable hidden neglect grit legal cabin veteran coconut";
+var mnemonic = "inmate guide object charge never monitor valley social assault flight win paddle";

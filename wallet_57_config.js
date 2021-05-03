@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit maximum divorce satoshi brick club silver post phone party property raven";
+var mnemonic = "strike among width label brand whip control upgrade indoor pilot awake angle";

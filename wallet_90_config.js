@@ -1,1 +1,1 @@
-var mnemonic = "silly motion satisfy left explain portion trick elegant thing exotic once history";
+var mnemonic = "unlock drastic bounce absorb favorite kiwi toddler behave weekend gate veteran jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "one humble million shell fiscal loop fancy utility goose news live spirit";
+var mnemonic = "vital dress approve denial snap loop option rebel silly lunch off before";

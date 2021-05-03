@@ -1,1 +1,1 @@
-var mnemonic = "cry vicious ostrich jazz sister flame file execute marble lucky inherit spare";
+var mnemonic = "sail world busy husband awesome fan issue spread keen faith document stick";

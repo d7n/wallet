@@ -1,1 +1,1 @@
-var mnemonic = "stamp eye safe actress mandate gossip double patient unhappy sun attack pact";
+var mnemonic = "outside plunge allow today blossom bonus senior tilt mind frequent gauge bronze";

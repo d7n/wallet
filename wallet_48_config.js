@@ -1,1 +1,1 @@
-var mnemonic = "nuclear slush summer middle brief earn mango jaguar strategy mechanic fashion cart";
+var mnemonic = "sock body hip verb acoustic tape detail spend month cannon bronze vanish";

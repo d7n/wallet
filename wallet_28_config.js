@@ -1,1 +1,1 @@
-var mnemonic = "youth breeze fabric vote diary sorry wear simple tuna often slab sentence";
+var mnemonic = "gate sunny network cable syrup pipe lucky kit crouch click bamboo federal";

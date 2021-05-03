@@ -1,1 +1,1 @@
-var mnemonic = "sponsor flavor pattern analyst inhale virus nature bunker fever shuffle portion real";
+var mnemonic = "patrol sketch speak chase victory grief purchase baby spell expire coconut mobile";

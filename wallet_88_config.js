@@ -1,1 +1,1 @@
-var mnemonic = "axis awake purpose shoe stuff switch clip lazy hurdle scatter news actress";
+var mnemonic = "antique flag defense lyrics found aspect chef sudden uncover list script route";

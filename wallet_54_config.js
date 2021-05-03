@@ -1,1 +1,1 @@
-var mnemonic = "settle defense picture phrase estate dolphin grit mandate clutch myth blossom image";
+var mnemonic = "fossil alter mention fold absorb grain debris recycle winner coffee depth hybrid";

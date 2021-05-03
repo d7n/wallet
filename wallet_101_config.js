@@ -1,1 +1,1 @@
-var mnemonic = "silly engage where gadget song volcano vehicle blind cool average aim nerve";
+var mnemonic = "reveal flight close melody news raven pelican turkey device medal helmet size";

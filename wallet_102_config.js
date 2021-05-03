@@ -1,1 +1,1 @@
-var mnemonic = "reason subject hour employ brisk family sibling work learn sleep equal into";
+var mnemonic = "child solid soul stand brief lottery donor family message document aisle veteran";

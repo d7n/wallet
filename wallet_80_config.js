@@ -1,1 +1,1 @@
-var mnemonic = "bulb photo brush faith cherry fiction puzzle hint vague supreme ginger churn";
+var mnemonic = "copper swamp include tuition square inner learn hobby copy repeat vicious famous";

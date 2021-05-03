@@ -1,1 +1,1 @@
-var mnemonic = "cake elephant ritual sword office obscure minor worry craft answer winter follow";
+var mnemonic = "try jazz minute area ostrich review task diet repeat fatal man outdoor";

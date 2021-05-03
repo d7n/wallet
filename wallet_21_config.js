@@ -1,1 +1,1 @@
-var mnemonic = "fame book pistol adapt burst clock broken direct ahead hobby share mean";
+var mnemonic = "earn method steak pitch rate swift scissors flat ski avocado toe odor";

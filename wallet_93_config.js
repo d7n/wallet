@@ -1,1 +1,1 @@
-var mnemonic = "have car rubber board science river route license follow sniff excess prevent";
+var mnemonic = "early code trade garbage glory neck sponsor force pole car treat gentle";

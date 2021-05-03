@@ -1,1 +1,1 @@
-var mnemonic = "join borrow buddy void undo grape thrive upper model immense budget pull";
+var mnemonic = "gallery valley shoot immense humble quit fence sister door love struggle elegant";

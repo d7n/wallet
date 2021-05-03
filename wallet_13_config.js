@@ -1,1 +1,1 @@
-var mnemonic = "destroy feed teach smart false vague squirrel ten fix custom fatal enter";
+var mnemonic = "trip mansion citizen alert only balance whale dynamic often maze spot cinnamon";

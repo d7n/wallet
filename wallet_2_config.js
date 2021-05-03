@@ -1,1 +1,1 @@
-var mnemonic = "team visual glide maze arrow unlock acoustic start oil edge cube win";
+var mnemonic = "next fuel mean announce puppy direct punch relax please wrong boss siren";

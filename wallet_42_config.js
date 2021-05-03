@@ -1,1 +1,1 @@
-var mnemonic = "image carpet start mouse distance enemy crater bus identify room board wagon";
+var mnemonic = "attack stay matrix make depart inspire satisfy concert depend better earn uniform";

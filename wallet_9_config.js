@@ -1,1 +1,1 @@
-var mnemonic = "help what reduce steel air horn peanut isolate ethics october world stereo";
+var mnemonic = "modify current attack castle fancy pattern pepper include festival media elite loud";

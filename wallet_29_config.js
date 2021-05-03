@@ -1,1 +1,1 @@
-var mnemonic = "wolf lobster crazy ahead seven this raccoon oblige smoke capable power among";
+var mnemonic = "word slogan obscure bless actress trend around present capable umbrella poverty federal";

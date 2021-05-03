@@ -1,1 +1,1 @@
-var mnemonic = "harvest scheme glad proof barely lounge throw donate renew unable birth vehicle";
+var mnemonic = "little blossom bracket film dove board under buzz float lady phrase denial";

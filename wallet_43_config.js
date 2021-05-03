@@ -1,1 +1,1 @@
-var mnemonic = "earn behave idea melt trouble oyster warfare stuff legal armor flat muscle";
+var mnemonic = "annual sail decade random gate curious industry orphan dust palm chat hub";

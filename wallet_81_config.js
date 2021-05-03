@@ -1,1 +1,1 @@
-var mnemonic = "test regret board demand neck noodle destroy labor horror reject market angry";
+var mnemonic = "swift original radio term viable wine audit roast whip define worth merge";

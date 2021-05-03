@@ -1,1 +1,1 @@
-var mnemonic = "gate half blush illegal guess good ski afraid victory century journey tone";
+var mnemonic = "letter lecture excess fabric off next jump blame mask idea nest wheat";

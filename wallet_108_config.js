@@ -1,1 +1,1 @@
-var mnemonic = "pill common special always weasel exclude dust fault rate pill toward cruel";
+var mnemonic = "exact gaze brown label client night job vivid dose bubble since romance";
