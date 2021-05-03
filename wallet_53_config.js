@@ -1,1 +1,1 @@
-var mnemonic = "unusual add fuel novel shuffle reform syrup doll thunder atom prosper space";
+var mnemonic = "method subject quality battle captain practice matter essence hollow talk deer inside";

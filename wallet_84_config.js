@@ -1,1 +1,1 @@
-var mnemonic = "pole buffalo motor icon floor trick exhibit tape alert rose taxi hat";
+var mnemonic = "loan prepare grid chapter crush together hundred lemon motion only valid shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern immense virtual muffin decrease pen amount priority latin quantum extra taste";
+var mnemonic = "hockey carpet rabbit critic renew grant cup blue garbage depend follow exhibit";

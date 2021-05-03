@@ -1,1 +1,1 @@
-var mnemonic = "stem rare give teach neglect quality discover parrot peace corn warfare scrub";
+var mnemonic = "wish mushroom pelican lion knock shoulder source funny input siren ankle hover";

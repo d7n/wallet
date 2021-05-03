@@ -1,1 +1,1 @@
-var mnemonic = "act better lesson swarm little today test skirt balcony truly cupboard actress";
+var mnemonic = "heavy sniff knife address similar above outer drama debate bottom fog ladder";

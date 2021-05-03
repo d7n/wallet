@@ -1,1 +1,1 @@
-var mnemonic = "again doctor peanut eye bachelor gallery obvious cube cluster display ripple moral";
+var mnemonic = "film faint athlete goose art direct nothing tired swamp monster motor bless";

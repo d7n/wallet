@@ -1,1 +1,1 @@
-var mnemonic = "toss refuse arrange ceiling notable clap unlock erupt unable sibling truck creek";
+var mnemonic = "stamp eye safe actress mandate gossip double patient unhappy sun attack pact";

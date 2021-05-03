@@ -1,1 +1,1 @@
-var mnemonic = "drill feel boss stairs lady company unknown there modify direct morning relax";
+var mnemonic = "help what reduce steel air horn peanut isolate ethics october world stereo";

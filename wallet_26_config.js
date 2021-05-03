@@ -1,1 +1,1 @@
-var mnemonic = "flush appear stone unusual also lesson throw describe fun volume jump evil";
+var mnemonic = "giant rule castle pull unable motor height submit ride brand mass dice";

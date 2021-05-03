@@ -1,1 +1,1 @@
-var mnemonic = "luggage famous october wolf popular transfer elevator album rural pumpkin bus deputy";
+var mnemonic = "exile vague close essence reopen credit focus devote flavor era lottery panel";

@@ -1,1 +1,1 @@
-var mnemonic = "angle brush often act butter universe strong produce fade economy report myth";
+var mnemonic = "timber tree ahead swing verb convince enact finish dance axis one destroy";

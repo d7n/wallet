@@ -1,1 +1,1 @@
-var mnemonic = "barely arrow zero pudding garage skirt pitch toast high mimic cupboard settle";
+var mnemonic = "canvas curtain where romance balance jungle oven drift typical pattern business draft";

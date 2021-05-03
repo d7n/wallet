@@ -1,1 +1,1 @@
-var mnemonic = "purse trip wine salon tuition trick draft curve romance van enact apple";
+var mnemonic = "earn behave idea melt trouble oyster warfare stuff legal armor flat muscle";

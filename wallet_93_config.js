@@ -1,1 +1,1 @@
-var mnemonic = "holiday crush journey index bacon february advice option tackle useless dizzy shy";
+var mnemonic = "have car rubber board science river route license follow sniff excess prevent";

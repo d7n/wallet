@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur impact magic chunk dove call round elite rule clutch deliver thing";
+var mnemonic = "one humble million shell fiscal loop fancy utility goose news live spirit";

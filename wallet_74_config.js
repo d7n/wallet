@@ -1,1 +1,1 @@
-var mnemonic = "iron fee usual trash honey essence face settle grow lobster blush vacuum";
+var mnemonic = "prefer bless bread bacon limit grocery gallery fence general depth sustain daring";

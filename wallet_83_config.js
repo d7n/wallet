@@ -1,1 +1,1 @@
-var mnemonic = "lizard script loan remind party sibling rapid width custom ice captain organ";
+var mnemonic = "churn field rare between manage decade toe lazy culture amount section behave";

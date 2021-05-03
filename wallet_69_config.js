@@ -1,1 +1,1 @@
-var mnemonic = "expire undo senior actor enable scan salon lady unknown image diary express";
+var mnemonic = "skate pond buyer waste train coin become potato benefit demand smooth ancient";

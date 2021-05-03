@@ -1,1 +1,1 @@
-var mnemonic = "layer tomorrow delay place more coyote route rice obtain slice thank okay";
+var mnemonic = "mistake note boat city flock unit burger supreme black dragon vast tunnel";

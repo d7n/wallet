@@ -1,1 +1,1 @@
-var mnemonic = "speed dentist panic simple file save mail term smart mountain exhibit decrease";
+var mnemonic = "destroy feed teach smart false vague squirrel ten fix custom fatal enter";

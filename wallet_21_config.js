@@ -1,1 +1,1 @@
-var mnemonic = "acquire simple coyote drama thumb diesel south stamp useless connect runway promote";
+var mnemonic = "fame book pistol adapt burst clock broken direct ahead hobby share mean";

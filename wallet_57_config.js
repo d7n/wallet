@@ -1,1 +1,1 @@
-var mnemonic = "hen strategy limb force sunny unit lock mean eager talent fatal riot";
+var mnemonic = "lawsuit maximum divorce satoshi brick club silver post phone party property raven";

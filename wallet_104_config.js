@@ -1,1 +1,1 @@
-var mnemonic = "faculty uncle gain cigar swim creek pizza survey weather sock decade garlic";
+var mnemonic = "globe dolphin tenant oyster moment permit toward layer enable emerge maid before";

@@ -1,1 +1,1 @@
-var mnemonic = "idea denial agent love piano awesome loud endless knock exact guitar soda";
+var mnemonic = "arrow shadow next arch income prize anxiety seven fish initial detect blossom";

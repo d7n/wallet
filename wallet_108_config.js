@@ -1,1 +1,1 @@
-var mnemonic = "pause flame action moral donate crouch heart renew knee cover fossil hire";
+var mnemonic = "pill common special always weasel exclude dust fault rate pill toward cruel";

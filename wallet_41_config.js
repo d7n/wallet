@@ -1,1 +1,1 @@
-var mnemonic = "unaware position assist choose pipe mouse present cover tip void suit lemon";
+var mnemonic = "panda board mean section track broom extend acquire rack reunion worth interest";

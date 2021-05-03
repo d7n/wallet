@@ -1,1 +1,1 @@
-var mnemonic = "glory cruise inject into mule off rough sound argue stomach guitar tool";
+var mnemonic = "hard negative column slow olympic tragic real pool mandate spider humor wall";

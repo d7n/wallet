@@ -1,1 +1,1 @@
-var mnemonic = "lava economy crush evidence dress memory desert season radar deputy shoulder raw";
+var mnemonic = "milk bulb razor help chief kidney portion copper whale day immense rate";

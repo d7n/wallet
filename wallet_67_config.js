@@ -1,1 +1,1 @@
-var mnemonic = "give unit machine sauce fabric reduce stage sad treat wide rubber fashion";
+var mnemonic = "check disorder bleak soccer pulse loyal old knee excite frequent online absorb";

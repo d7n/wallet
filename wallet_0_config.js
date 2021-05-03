@@ -1,1 +1,1 @@
-var mnemonic = "quick ridge sauce curve void unveil rice bind thing enhance abandon pluck";
+var mnemonic = "guilt hole firm smooth aim tuition turn where reflect stone orbit scan";

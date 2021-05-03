@@ -1,1 +1,1 @@
-var mnemonic = "tuna enroll hill pause walk swallow famous gun stamp render unique town";
+var mnemonic = "insane hockey mixed nose warm kangaroo cheap great aunt guard vibrant surface";

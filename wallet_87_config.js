@@ -1,1 +1,1 @@
-var mnemonic = "fire ahead save town visual couple spawn want scene trumpet resemble effort";
+var mnemonic = "chalk dash champion scare kiss chicken rose man wasp horse sorry heavy";

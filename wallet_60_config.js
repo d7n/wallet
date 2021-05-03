@@ -1,1 +1,1 @@
-var mnemonic = "work caution biology viable once glare shy hobby issue moral maze dish";
+var mnemonic = "belt sibling spare ugly frog scout vacuum lava cement glove dust roast";

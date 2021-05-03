@@ -1,1 +1,1 @@
-var mnemonic = "identify say moment camera gorilla mechanic security client message buffalo chicken rebuild";
+var mnemonic = "coffee inmate knee oval bracket armor beyond hope detect wedding buyer input";

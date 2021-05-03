@@ -1,1 +1,1 @@
-var mnemonic = "build search seminar scatter easy trend blanket mammal jewel throw zero dilemma";
+var mnemonic = "aerobic plastic skirt fold distance roof pause badge use sudden post siren";

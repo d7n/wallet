@@ -1,1 +1,1 @@
-var mnemonic = "educate strategy adapt biology dish sad minute stadium piano immune link shell";
+var mnemonic = "silly engage where gadget song volcano vehicle blind cool average aim nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "frost hope original normal beauty thought notable used enrich paper argue donkey";
+var mnemonic = "awful frame jaguar stamp wait attitude load pass december segment argue cliff";

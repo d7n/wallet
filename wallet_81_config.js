@@ -1,1 +1,1 @@
-var mnemonic = "board forest airport stairs bitter example lazy hobby october comfort frozen agent";
+var mnemonic = "test regret board demand neck noodle destroy labor horror reject market angry";

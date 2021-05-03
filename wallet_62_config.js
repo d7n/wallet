@@ -1,1 +1,1 @@
-var mnemonic = "motion ozone method become style science frequent scissors chunk crisp have monitor";
+var mnemonic = "sock jazz stove song clip special undo evoke dice control rice neck";

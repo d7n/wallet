@@ -1,1 +1,1 @@
-var mnemonic = "prison copper color define aspect spread nuclear portion clinic wing gauge humble";
+var mnemonic = "tooth diet gorilla ahead fuel they network crane loyal grant alarm candy";

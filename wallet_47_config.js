@@ -1,1 +1,1 @@
-var mnemonic = "arrive earn recall transfer chest ozone arrive guard win peanut inform speak";
+var mnemonic = "battle manual area grant series surround salon lucky sort finger flee cross";

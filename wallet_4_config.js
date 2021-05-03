@@ -1,1 +1,1 @@
-var mnemonic = "equip pen rate control episode tank syrup mobile trust unusual slow return";
+var mnemonic = "unit easy green senior exist girl glove hint stone cargo seek soda";

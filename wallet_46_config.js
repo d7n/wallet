@@ -1,1 +1,1 @@
-var mnemonic = "tomato cement point vanish clog upset turkey shell pave notice kingdom myself";
+var mnemonic = "eternal round sphere gossip alcohol ecology crunch tenant interest clog all lift";

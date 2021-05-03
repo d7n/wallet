@@ -1,1 +1,1 @@
-var mnemonic = "spirit usual tiger awkward jelly birth rate choose give dynamic magic history";
+var mnemonic = "cake elephant ritual sword office obscure minor worry craft answer winter follow";

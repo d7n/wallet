@@ -1,1 +1,1 @@
-var mnemonic = "fade fabric attend service increase glide reason clock settle valid raven jewel";
+var mnemonic = "gate half blush illegal guess good ski afraid victory century journey tone";

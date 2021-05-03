@@ -1,1 +1,1 @@
-var mnemonic = "whale bread rose skate purse distance mutual dry hedgehog kidney flavor remain";
+var mnemonic = "wagon give must episode husband own time vessel differ satisfy bamboo soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "detect unique flat toy style very exist culture crime major van donkey";
+var mnemonic = "join borrow buddy void undo grape thrive upper model immense budget pull";

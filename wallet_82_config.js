@@ -1,1 +1,1 @@
-var mnemonic = "relief scatter phone fever fault trial exile stumble hurry village crucial apart";
+var mnemonic = "venue cargo olympic slow always space rely young slice round hedgehog zoo";

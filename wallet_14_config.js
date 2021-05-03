@@ -1,1 +1,1 @@
-var mnemonic = "anxiety birth that evoke load essence company visual shadow surge virtual panel";
+var mnemonic = "stadium strike run project huge nephew ride moment hair supply assist party";

@@ -1,1 +1,1 @@
-var mnemonic = "include kangaroo they outer mosquito forum post concert favorite alpha glance riot";
+var mnemonic = "dice accident aspect music poet sister glance exile dance regular flower curious";

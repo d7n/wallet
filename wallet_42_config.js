@@ -1,1 +1,1 @@
-var mnemonic = "noodle grass crop retire crucial rookie fun tide educate knife judge road";
+var mnemonic = "image carpet start mouse distance enemy crater bus identify room board wagon";

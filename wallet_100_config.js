@@ -1,1 +1,1 @@
-var mnemonic = "gold fabric stone nephew hat one bleak damp stove mule range east";
+var mnemonic = "relax burden reason digital stove dumb captain liquid elephant dish around normal";

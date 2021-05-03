@@ -1,1 +1,1 @@
-var mnemonic = "yellow goose attract child escape vanish basket gadget common champion type world";
+var mnemonic = "team visual glide maze arrow unlock acoustic start oil edge cube win";

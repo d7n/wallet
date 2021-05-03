@@ -1,1 +1,1 @@
-var mnemonic = "foil skull crater can collect dash injury wagon renew clog easy distance";
+var mnemonic = "silly motion satisfy left explain portion trick elegant thing exotic once history";

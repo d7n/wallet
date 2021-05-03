@@ -1,1 +1,1 @@
-var mnemonic = "club cannon lion report stay fragile coffee naive much pear dolphin provide";
+var mnemonic = "bundle puppy tower shop case include lyrics mouse bleak exclude burst coconut";

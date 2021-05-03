@@ -1,1 +1,1 @@
-var mnemonic = "report select abstract leave town grass trouble reform crop atom girl glance";
+var mnemonic = "magnet dwarf ridge remind vote hotel egg trumpet hobby burst aunt pilot";

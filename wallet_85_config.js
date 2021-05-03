@@ -1,1 +1,1 @@
-var mnemonic = "warm toe huge evidence alpha nation flower oak cactus amateur disease window";
+var mnemonic = "lobster arrow trim credit whisper actual point thrive explain sponsor jar caught";

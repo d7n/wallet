@@ -1,1 +1,1 @@
-var mnemonic = "vague endless lobster emerge primary question small disorder shed thank sunny cruise";
+var mnemonic = "notable foot afraid release verb camera train chase laundry comfort artwork toss";

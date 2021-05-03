@@ -1,1 +1,1 @@
-var mnemonic = "face dwarf dose gossip betray zone impose shoulder gospel leopard over asset";
+var mnemonic = "mixed donor double nothing damp exercise ranch increase among victory desert swap";

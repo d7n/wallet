@@ -1,1 +1,1 @@
-var mnemonic = "cave inner genuine inherit resist luxury sibling sauce garbage damp cave spin";
+var mnemonic = "delay pencil fossil gas safe spice winner asthma obvious element knock middle";

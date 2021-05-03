@@ -1,1 +1,1 @@
-var mnemonic = "bonus run autumn lake plate short point sick elegant thumb voice suit";
+var mnemonic = "gentle desert large decline spirit hockey prosper change cute club move super";

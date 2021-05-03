@@ -1,1 +1,1 @@
-var mnemonic = "faculty tilt rice wild sausage split indicate system trash meat top table";
+var mnemonic = "guitar false search margin program tunnel clever wife erode erode flash finger";

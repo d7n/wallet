@@ -1,1 +1,1 @@
-var mnemonic = "ball double ignore song throw awful pelican top print turtle away shadow";
+var mnemonic = "jewel develop detail school alarm train puppy card drastic abuse lobster decade";

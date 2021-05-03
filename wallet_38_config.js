@@ -1,1 +1,1 @@
-var mnemonic = "easily fury cheese cat creek fever mom brown fame earn bacon broccoli";
+var mnemonic = "sponsor flavor pattern analyst inhale virus nature bunker fever shuffle portion real";

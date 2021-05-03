@@ -1,1 +1,1 @@
-var mnemonic = "ice decide fantasy people wait evoke ready lens office between worth rather";
+var mnemonic = "bulb photo brush faith cherry fiction puzzle hint vague supreme ginger churn";

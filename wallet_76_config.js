@@ -1,1 +1,1 @@
-var mnemonic = "lunch follow fatal film subway mechanic swim over expose manual message win";
+var mnemonic = "harvest scheme glad proof barely lounge throw donate renew unable birth vehicle";

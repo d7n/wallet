@@ -1,1 +1,1 @@
-var mnemonic = "vehicle settle nut note regular noodle outdoor parent because abuse rib sausage";
+var mnemonic = "pen foster blouse easy humor atom during clock unusual pioneer author weather";

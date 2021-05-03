@@ -1,1 +1,1 @@
-var mnemonic = "music cruel adjust verify witness fat stuff goat vendor shine sadness feed";
+var mnemonic = "end beyond limb inject thing color limit team punch gather worth awesome";

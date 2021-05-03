@@ -1,1 +1,1 @@
-var mnemonic = "imitate brick trade gun beach sun extra disorder cup system retreat shoot";
+var mnemonic = "arena guard peasant base word nerve orient afraid plate collect ready label";

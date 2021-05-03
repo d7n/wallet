@@ -1,1 +1,1 @@
-var mnemonic = "bounce boring unlock issue alert net scale old talk embody broccoli frog";
+var mnemonic = "remain nerve board solve enable hidden neglect grit legal cabin veteran coconut";

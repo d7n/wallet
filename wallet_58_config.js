@@ -1,1 +1,1 @@
-var mnemonic = "quality valve duty push result vapor curve entry jealous good stone journey";
+var mnemonic = "fade sand timber indicate iron text vague deny power bounce panel off";

@@ -1,1 +1,1 @@
-var mnemonic = "cheese icon cause approve october foil often age vital drill neck mistake";
+var mnemonic = "stem cattle satoshi clinic employ script argue gun inmate spin foot lucky";

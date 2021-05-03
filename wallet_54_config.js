@@ -1,1 +1,1 @@
-var mnemonic = "coral beef pair trumpet lounge swear quit spirit drink virus riot mushroom";
+var mnemonic = "settle defense picture phrase estate dolphin grit mandate clutch myth blossom image";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin general caution immune proud gorilla beach index hood avocado wheat unit";
+var mnemonic = "youth breeze fabric vote diary sorry wear simple tuna often slab sentence";

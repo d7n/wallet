@@ -1,1 +1,1 @@
-var mnemonic = "agent smile ivory cushion little salt orchard pumpkin lazy wife help verify";
+var mnemonic = "shrug regular boat angry canvas project side drop task virtual beauty usage";

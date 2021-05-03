@@ -1,1 +1,1 @@
-var mnemonic = "ladder spy wealth electric please seek inch width winner provide clever hawk";
+var mnemonic = "tonight behave skin scrub stable order dance wrestle holiday fringe couple firm";

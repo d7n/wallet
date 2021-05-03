@@ -1,1 +1,1 @@
-var mnemonic = "real conduct saddle all upon rival coast steak mule amount sing purchase";
+var mnemonic = "guilt milk gate service forest input casino remember horror symbol swim victory";

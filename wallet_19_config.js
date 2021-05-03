@@ -1,1 +1,1 @@
-var mnemonic = "vocal reward crumble energy tribe between man metal wasp hundred valid width";
+var mnemonic = "point snake chest erase metal great urge merit tomato mechanic stem cruel";

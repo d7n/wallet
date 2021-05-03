@@ -1,1 +1,1 @@
-var mnemonic = "car point wall sausage first monkey year ghost top large flock object";
+var mnemonic = "brisk filter warrior blade inside output team patch hint relax baby shell";

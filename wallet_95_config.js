@@ -1,1 +1,1 @@
-var mnemonic = "reopen blanket order spirit silly oyster carpet novel upgrade bag message atom";
+var mnemonic = "victory letter ribbon awkward run local weird twelve kingdom nephew sausage harbor";

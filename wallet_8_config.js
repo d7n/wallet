@@ -1,1 +1,1 @@
-var mnemonic = "worth law insect shuffle trust air slow vibrant wife ordinary flip impact";
+var mnemonic = "kiss open cry arrange coyote pyramid fit youth hire twist shed isolate";

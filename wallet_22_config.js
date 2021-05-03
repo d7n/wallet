@@ -1,1 +1,1 @@
-var mnemonic = "expand rain panda notice focus exotic taxi aerobic yellow planet oval same";
+var mnemonic = "pioneer card panic ladder marble magic fabric genre modify buffalo pull tray";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi fame apart reject waste approve drop talent song style alpha armed";
+var mnemonic = "reason subject hour employ brisk family sibling work learn sleep equal into";

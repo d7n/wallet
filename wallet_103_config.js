@@ -1,1 +1,1 @@
-var mnemonic = "genius thought welcome lesson diet squeeze amazing soon glad judge crawl lizard";
+var mnemonic = "pact acoustic ridge friend segment enough excite budget vital tourist analyst phone";

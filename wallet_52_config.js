@@ -1,1 +1,1 @@
-var mnemonic = "salmon culture girl pattern oval choice allow tissue mechanic clap humble mosquito";
+var mnemonic = "movie clog hip rescue scene lady bonus claim adjust undo hockey tissue";

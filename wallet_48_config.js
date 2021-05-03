@@ -1,1 +1,1 @@
-var mnemonic = "kite bench foil symptom supply employ sausage announce dash what virus relief";
+var mnemonic = "nuclear slush summer middle brief earn mango jaguar strategy mechanic fashion cart";

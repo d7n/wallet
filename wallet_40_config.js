@@ -1,1 +1,1 @@
-var mnemonic = "lucky rely crash puppy rate scare oxygen leisure section earth panda verb";
+var mnemonic = "unfair frown correct faith slender element season chair dish sphere right hope";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh lazy inquiry resemble someone awful chunk check lizard put apple tower";
+var mnemonic = "marriage arrange guilt sunset random trend worry receive knee story example young";

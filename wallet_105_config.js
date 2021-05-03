@@ -1,1 +1,1 @@
-var mnemonic = "under chief melody summer resist alpha laptop trade program dutch pond hawk";
+var mnemonic = "analyst budget pioneer salute alarm below ancient quit science design attract bachelor";
