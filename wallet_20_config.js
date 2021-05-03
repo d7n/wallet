@@ -1,1 +1,1 @@
-var mnemonic = "student frost dad trophy hub pull grid castle discover provide assist cheap";
+var mnemonic = "creek cruise core liquid business brave never cost direct crack outdoor little";

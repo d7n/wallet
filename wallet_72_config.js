@@ -1,1 +1,1 @@
-var mnemonic = "frame warrior safe punch soft crash jazz spin phone nation year island";
+var mnemonic = "start spread turn stock sadness consider tourist method replace logic evolve upset";

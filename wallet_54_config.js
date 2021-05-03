@@ -1,1 +1,1 @@
-var mnemonic = "once unknown hand century debris addict knee glad half alcohol artist rival";
+var mnemonic = "fox day illness bean penalty check garden goddess eye replace column eager";

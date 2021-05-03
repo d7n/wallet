@@ -1,1 +1,1 @@
-var mnemonic = "please grocery toy rude one nuclear crunch shove simple settle bone regret";
+var mnemonic = "true maze lady proud ostrich lady alien other girl month capable pretty";

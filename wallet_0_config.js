@@ -1,1 +1,1 @@
-var mnemonic = "brief sun immune section fitness consider ask breeze can light basic drive";
+var mnemonic = "child already quantum observe orbit again victory sail cupboard can version have";

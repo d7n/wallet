@@ -1,1 +1,1 @@
-var mnemonic = "claw pact prefer erase funny faith outdoor famous gaze dentist caught report";
+var mnemonic = "cheap swallow ski essence vendor neck radio tower paper shallow harsh document";

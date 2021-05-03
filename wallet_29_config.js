@@ -1,1 +1,1 @@
-var mnemonic = "riot bonus rail chalk lounge spoon wife easy whale slight maximum awful";
+var mnemonic = "pottery clock column huge spice foster ancient snack rival dune box dove";

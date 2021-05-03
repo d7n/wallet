@@ -1,1 +1,1 @@
-var mnemonic = "company rhythm cargo blame sea clinic treat kangaroo aunt during person decrease";
+var mnemonic = "celery invest neither still ritual response balcony turn rule priority solid large";

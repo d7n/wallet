@@ -1,1 +1,1 @@
-var mnemonic = "spawn gate master garbage forget rare turn only episode flavor amused image";
+var mnemonic = "usage dumb federal large chuckle raven tag output planet can ice butter";

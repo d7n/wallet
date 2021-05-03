@@ -1,1 +1,1 @@
-var mnemonic = "secret usage timber urge doll crop brother sugar inflict flush auto bind";
+var mnemonic = "rural plug network pulse vendor taste cousin cruise silver grow process rice";

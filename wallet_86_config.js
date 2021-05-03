@@ -1,1 +1,1 @@
-var mnemonic = "swim hover tube noise prison broken clog route cart mule later fury";
+var mnemonic = "loyal repair obvious flavor warrior mesh mesh garage betray bone pepper drip";

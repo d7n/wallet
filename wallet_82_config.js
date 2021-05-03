@@ -1,1 +1,1 @@
-var mnemonic = "dish update catch digital salon follow rug resemble library rough grain hood";
+var mnemonic = "awkward castle unique crowd team else relief still stem pluck clerk have";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny pilot owner wine december nasty young cube tumble knock rigid various";
+var mnemonic = "comic foil slight chair captain thing title eight wing cousin double ill";

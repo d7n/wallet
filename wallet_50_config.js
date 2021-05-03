@@ -1,1 +1,1 @@
-var mnemonic = "knee simple inhale doll plug myth knee hill clerk route world shed";
+var mnemonic = "stove trigger pitch draft argue slab manual ride air message alpha correct";

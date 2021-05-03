@@ -1,1 +1,1 @@
-var mnemonic = "embrace kid weekend future rubber bone picture wait cabin hundred glide spell";
+var mnemonic = "chase half lonely alien supreme mom athlete rubber eagle shield penalty curtain";

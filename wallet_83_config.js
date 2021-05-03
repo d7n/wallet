@@ -1,1 +1,1 @@
-var mnemonic = "carbon elite garage flee swim arch post abandon scrub click ship minute";
+var mnemonic = "series acid second wear blast seminar thrive roof able machine lens despair";

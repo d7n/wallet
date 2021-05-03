@@ -1,1 +1,1 @@
-var mnemonic = "practice paddle coffee carpet large neither vote menu twelve sad dutch measure";
+var mnemonic = "ginger muffin fatigue banner elbow gesture amused copper verify flat fuel announce";

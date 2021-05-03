@@ -1,1 +1,1 @@
-var mnemonic = "wave soul seat engage cannon secret village spawn secret jump struggle sick";
+var mnemonic = "code visit quarter type chef vacant vintage pony flavor ozone give tenant";

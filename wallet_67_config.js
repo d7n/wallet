@@ -1,1 +1,1 @@
-var mnemonic = "shoulder access media quick secret dentist yellow badge frequent smart please truth";
+var mnemonic = "dry trim vendor jungle control swap coach traffic caught essay own shuffle";

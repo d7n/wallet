@@ -1,1 +1,1 @@
-var mnemonic = "utility vicious arrive cool cover cram inflict degree orient ensure sister exchange";
+var mnemonic = "hair diamond sugar border romance leopard taste segment can danger despair pluck";

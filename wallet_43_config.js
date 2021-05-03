@@ -1,1 +1,1 @@
-var mnemonic = "swift swear nasty museum soccer endorse cover such garden mom machine erosion";
+var mnemonic = "enroll dirt skin solar more mushroom version review during strategy salad corn";

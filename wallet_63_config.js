@@ -1,1 +1,1 @@
-var mnemonic = "else quit trial this dirt stomach bitter vital frozen wine cute warm";
+var mnemonic = "jealous foster arrive fix aspect spy roast better earth left rookie pitch";

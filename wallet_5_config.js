@@ -1,1 +1,1 @@
-var mnemonic = "armed curious thought ahead settle velvet correct elbow expect twice skull answer";
+var mnemonic = "sort mandate ring mom humor library thumb useful own cherry junior stairs";

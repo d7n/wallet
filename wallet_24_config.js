@@ -1,1 +1,1 @@
-var mnemonic = "park credit tide alone access carbon machine save purchase rocket spy poverty";
+var mnemonic = "citizen waste special disagree collect tornado ripple depend thrive eyebrow yellow ethics";

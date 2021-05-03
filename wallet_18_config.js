@@ -1,1 +1,1 @@
-var mnemonic = "impose scan release inch usual price chief repeat stamp tape rich usual";
+var mnemonic = "stand goose hammer brown dish pink toilet rhythm capital budget faith arrange";

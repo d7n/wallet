@@ -1,1 +1,1 @@
-var mnemonic = "shield ketchup jewel sell nature frequent tuition bleak odor gauge virtual riot";
+var mnemonic = "saddle private volcano strong basic faint glow kind planet actor grain right";

@@ -1,1 +1,1 @@
-var mnemonic = "idle kiwi repeat future release fatal second comic idle captain run only";
+var mnemonic = "reject staff record tattoo photo wood artwork total coconut gain novel surprise";

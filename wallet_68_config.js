@@ -1,1 +1,1 @@
-var mnemonic = "phrase true level already until attend near priority party ignore sign diesel";
+var mnemonic = "apart increase wheel filter evidence cross bulb goose ability era sing recycle";

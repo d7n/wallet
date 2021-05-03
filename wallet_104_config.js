@@ -1,1 +1,1 @@
-var mnemonic = "reduce large aim distance orchard left scare faith bomb smart people night";
+var mnemonic = "castle super leg occur profit salute clerk steak movie coral wink sort";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut tumble cable panel fabric ankle story vibrant sponsor cushion visual suit";
+var mnemonic = "paper capital lottery monkey clap humble anxiety buffalo bench month abuse undo";

@@ -1,1 +1,1 @@
-var mnemonic = "feature oyster gentle execute penalty mango shrug special draft organ wheel lunch";
+var mnemonic = "prepare quantum daring menu churn spawn useless camera salt side degree together";

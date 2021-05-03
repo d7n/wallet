@@ -1,1 +1,1 @@
-var mnemonic = "glimpse join toe save term teach husband helmet party illegal welcome keen";
+var mnemonic = "act capital render start pact bargain net arrange write vacant power airport";

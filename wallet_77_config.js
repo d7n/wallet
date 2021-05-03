@@ -1,1 +1,1 @@
-var mnemonic = "frog royal scrap runway confirm beach admit either army duck govern sniff";
+var mnemonic = "lion task athlete attract number grab wreck roast monster grant fragile tide";

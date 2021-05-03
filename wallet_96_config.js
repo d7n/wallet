@@ -1,1 +1,1 @@
-var mnemonic = "claw update title dismiss wonder combine plastic chair finger exhaust post room";
+var mnemonic = "hotel radio donate wreck love dinner couch chair onion exclude picnic slogan";

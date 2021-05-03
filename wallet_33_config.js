@@ -1,1 +1,1 @@
-var mnemonic = "timber sauce choice transfer penalty actual insane cup faculty foam rapid suspect";
+var mnemonic = "okay milk change sunny spice hand word only icon cotton crane ride";

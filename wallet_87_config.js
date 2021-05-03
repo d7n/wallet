@@ -1,1 +1,1 @@
-var mnemonic = "stove tissue orchard liberty force twice few pluck extend explain pride neither";
+var mnemonic = "trick wheel obey now seminar sketch promote discover crack amused win dish";

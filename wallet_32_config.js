@@ -1,1 +1,1 @@
-var mnemonic = "fire carry satisfy flip increase dutch pear goat virtual churn cake banana";
+var mnemonic = "infant gather alarm empower letter genius erupt oil paddle plug fury crouch";

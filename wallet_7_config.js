@@ -1,1 +1,1 @@
-var mnemonic = "satoshi silver remember conduct fruit fruit crack wolf hill engage eager lottery";
+var mnemonic = "garment rally merry identify pudding sphere royal foam ribbon kitten smart adult";

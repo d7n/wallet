@@ -1,1 +1,1 @@
-var mnemonic = "skate mushroom team collect slab vintage armor concert girl escape oyster eagle";
+var mnemonic = "assume strong lift naive survey jelly hen hope odor hero engine fury";

@@ -1,1 +1,1 @@
-var mnemonic = "add unfold world suit tortoise tornado never humble staff give crowd rule";
+var mnemonic = "distance trophy theory squeeze proof humble sudden regular rail sphere inside ball";

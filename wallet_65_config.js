@@ -1,1 +1,1 @@
-var mnemonic = "modify ride tongue melody work illness catalog company just federal fly negative";
+var mnemonic = "assist scan rib that lemon faith common vibrant adapt mammal ill shadow";

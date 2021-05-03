@@ -1,1 +1,1 @@
-var mnemonic = "liquid segment elder viable online april gauge drink rely scale kid patch";
+var mnemonic = "nation exotic soul elegant envelope odor seat setup sand impact clump horn";

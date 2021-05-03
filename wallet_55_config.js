@@ -1,1 +1,1 @@
-var mnemonic = "invest pave chimney crack peace guard fitness result any swear wave sauce";
+var mnemonic = "basket mad jacket obvious dash injury truck tornado taxi left sponsor idle";

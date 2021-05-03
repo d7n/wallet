@@ -1,1 +1,1 @@
-var mnemonic = "relief mask alcohol wash obscure alien corn job skate sight curious want";
+var mnemonic = "motor release neither love basket bacon shop soft join interest job urge";

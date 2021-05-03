@@ -1,1 +1,1 @@
-var mnemonic = "negative taste dignity state doll section prepare dress turtle envelope matter medal";
+var mnemonic = "grocery effort venture they various chapter pause tissue mercy later mechanic bring";

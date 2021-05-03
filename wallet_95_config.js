@@ -1,1 +1,1 @@
-var mnemonic = "math siege team unable patrol shine hen miracle come science combine mammal";
+var mnemonic = "across wink lecture prison trumpet double audit vendor afford rate note fancy";

@@ -1,1 +1,1 @@
-var mnemonic = "jealous hero engage advice jealous tell torch embody ship what paper lady";
+var mnemonic = "update impact shock supreme live voyage general clever afford enough effort train";

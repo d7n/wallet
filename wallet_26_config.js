@@ -1,1 +1,1 @@
-var mnemonic = "point crash deliver document liar neck will gym creek hollow muscle tip";
+var mnemonic = "refuse agree seminar inform file great coconut club shock frame enhance position";

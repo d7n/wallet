@@ -1,1 +1,1 @@
-var mnemonic = "trade rapid topple sadness poet suit describe anger hood dizzy lumber much";
+var mnemonic = "horror neither rib pen practice shoe audit true certain dad prevent mechanic";

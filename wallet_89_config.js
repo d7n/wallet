@@ -1,1 +1,1 @@
-var mnemonic = "acquire chapter correct mesh flock involve once riot detect melt label enrich";
+var mnemonic = "indicate quiz expire act file company eyebrow fox subway liberty monster ginger";

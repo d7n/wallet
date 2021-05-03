@@ -1,1 +1,1 @@
-var mnemonic = "trip trumpet canvas common risk blanket pill winter bless install cricket pulp";
+var mnemonic = "food camera kangaroo transfer also modify era visual car worth barrel assault";

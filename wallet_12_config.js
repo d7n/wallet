@@ -1,1 +1,1 @@
-var mnemonic = "praise supreme lyrics matter burden waste oppose swing pupil short clap mandate";
+var mnemonic = "pupil flee tag robot exhaust cherry flee excite soldier reveal help citizen";

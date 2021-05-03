@@ -1,1 +1,1 @@
-var mnemonic = "ride wrestle cause ignore sweet fancy hill young blast crater seed coach";
+var mnemonic = "yard home celery decline slice federal diesel forward stumble chef observe funny";

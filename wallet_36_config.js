@@ -1,1 +1,1 @@
-var mnemonic = "taxi document beauty club model concert chicken survey carpet acoustic flush zebra";
+var mnemonic = "jar arm cash race diary type drip lazy city swamp neutral pause";

@@ -1,1 +1,1 @@
-var mnemonic = "load table shoulder intact tape patrol market unfold clog reason write truly";
+var mnemonic = "carbon lady lazy decade daughter onion series ship erode leopard weapon spice";

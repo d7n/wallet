@@ -1,1 +1,1 @@
-var mnemonic = "educate tenant relief cousin borrow dragon express hundred pen umbrella menu undo";
+var mnemonic = "diary aspect exile avoid defense grace pistol mosquito flat hat rally diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "fence better sense short belt sea maid secret leg burger volume person";
+var mnemonic = "frozen dignity slim comic little cute vendor loud rail casino admit wolf";

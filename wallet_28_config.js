@@ -1,1 +1,1 @@
-var mnemonic = "rail limb spider left lucky steak caution cattle glance tone faint crazy";
+var mnemonic = "size drum embrace swamp party dash become nature erosion strong arrow general";

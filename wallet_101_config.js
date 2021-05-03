@@ -1,1 +1,1 @@
-var mnemonic = "state sign wish buffalo drama junior ripple pig winter bean differ excite";
+var mnemonic = "spell ride worth when hobby ethics parent orange amused damage pitch join";

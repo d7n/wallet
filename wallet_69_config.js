@@ -1,1 +1,1 @@
-var mnemonic = "virus pigeon favorite shrug enemy elder tooth across blast youth bridge betray";
+var mnemonic = "until jeans pepper dumb brown valid kidney display bundle actor pill zebra";

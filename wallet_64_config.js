@@ -1,1 +1,1 @@
-var mnemonic = "athlete suit flash flower child pass void era trip table hold ceiling";
+var mnemonic = "burden evolve drink fish film trigger uniform minimum hybrid dust soft enrich";

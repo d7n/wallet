@@ -1,1 +1,1 @@
-var mnemonic = "furnace pond orchard print clever title pink resemble loud tissue leader logic";
+var mnemonic = "brain obey vicious system skirt supply quick fix ticket glow gentle laugh";

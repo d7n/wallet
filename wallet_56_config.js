@@ -1,1 +1,1 @@
-var mnemonic = "drop glory glance gadget indoor home float uncover festival wreck basket box";
+var mnemonic = "toddler race market climb brush hammer huge remind aisle boy outside federal";

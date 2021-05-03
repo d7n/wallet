@@ -1,1 +1,1 @@
-var mnemonic = "modify upper rocket female board paddle correct girl add rich dinner manual";
+var mnemonic = "mixture start pulse antenna spin antenna warm sketch park tomorrow cost uphold";

@@ -1,1 +1,1 @@
-var mnemonic = "end horse kite retire pledge mouse novel interest busy strategy super wait";
+var mnemonic = "twist sad seek love snow axis slab acid immense obey mimic prevent";

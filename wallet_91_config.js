@@ -1,1 +1,1 @@
-var mnemonic = "prefer old story equal mountain position general awkward foster gain educate island";
+var mnemonic = "drive guilt weird lottery country badge enforce gown local dirt then mango";

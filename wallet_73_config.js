@@ -1,1 +1,1 @@
-var mnemonic = "depart kitten apology mail tray problem document noodle turtle ritual illegal retreat";
+var mnemonic = "grass float mean sugar jelly bright hazard screen before buzz excess cargo";

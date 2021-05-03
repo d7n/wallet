@@ -1,1 +1,1 @@
-var mnemonic = "harsh cabin tide stay voice witness piano elephant draft wagon omit onion";
+var mnemonic = "bicycle engine fish helmet caution capital fine flash athlete civil hip this";

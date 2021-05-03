@@ -1,1 +1,1 @@
-var mnemonic = "stock test present chief viable place emotion pilot wool life ten replace";
+var mnemonic = "galaxy auction unfold easy picture dizzy tortoise dress vessel organ clever lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "spread picture budget crater person six inflict label boat science throw room";
+var mnemonic = "rib unusual civil essay ridge alert custom waste horse film debate cash";

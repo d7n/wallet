@@ -1,1 +1,1 @@
-var mnemonic = "mule confirm almost again screen tooth pigeon enforce loan fossil wasp tuna";
+var mnemonic = "meat relief middle invite cost public typical universe spawn rally truth dizzy";

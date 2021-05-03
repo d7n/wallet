@@ -1,1 +1,1 @@
-var mnemonic = "uniform suggest demand steak mind draft there dose route age wheat glow";
+var mnemonic = "client creek venture cigar proud vanish cotton differ lawn plunge veteran barrel";

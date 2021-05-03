@@ -1,1 +1,1 @@
-var mnemonic = "correct build merit blanket million whisper forget useless social divide firm chaos";
+var mnemonic = "enact measure ankle deposit video spider twist anxiety voyage olympic defense donate";

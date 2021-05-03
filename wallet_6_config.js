@@ -1,1 +1,1 @@
-var mnemonic = "wealth spoon oxygen major control oyster drastic invite market distance asthma soon";
+var mnemonic = "forward dress chaos hammer neither behind figure twelve method river upgrade under";

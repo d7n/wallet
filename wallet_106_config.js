@@ -1,1 +1,1 @@
-var mnemonic = "elite quantum actual pioneer chief upset govern breeze ladder lava spread purchase";
+var mnemonic = "edge document wide pelican wash album guide scan oblige glue front elite";

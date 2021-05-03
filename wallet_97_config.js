@@ -1,1 +1,1 @@
-var mnemonic = "thank damp relax crystal share visual exhibit wagon mix faint grid system";
+var mnemonic = "crush hello collect party explain car impose census unfold possible eyebrow rocket";

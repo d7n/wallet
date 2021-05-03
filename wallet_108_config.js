@@ -1,1 +1,1 @@
-var mnemonic = "immune script under maximum key exotic toilet tag reject knee spot jump";
+var mnemonic = "broom alpha nuclear parent genius east settle arena matrix work blind earn";

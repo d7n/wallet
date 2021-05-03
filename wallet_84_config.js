@@ -1,1 +1,1 @@
-var mnemonic = "mask panel affair perfect call cream loyal crater excite joy sport fame";
+var mnemonic = "intact rival cherry duty rate appear marble method ahead fabric icon blood";

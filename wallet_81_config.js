@@ -1,1 +1,1 @@
-var mnemonic = "toss arch sponsor chicken deposit laundry galaxy rally behind host tumble nuclear";
+var mnemonic = "retreat cycle kiss plastic across hill dog outer gorilla bridge habit regular";

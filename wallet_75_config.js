@@ -1,1 +1,1 @@
-var mnemonic = "chicken false prosper wear depend method virus will bottom loan trim note";
+var mnemonic = "predict device flip fragile fashion topple pyramid accuse dress young burst color";

@@ -1,1 +1,1 @@
-var mnemonic = "toy forest various exist exact figure pony brass toilet enough life benefit";
+var mnemonic = "before neither vast misery during solar strike scrap zoo large act wage";

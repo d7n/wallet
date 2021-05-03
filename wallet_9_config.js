@@ -1,1 +1,1 @@
-var mnemonic = "alarm spoil poverty smart maple injury bulk govern cattle snap erode pluck";
+var mnemonic = "fringe damage inform save common peanut obscure speed mix mask favorite angry";

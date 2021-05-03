@@ -1,1 +1,1 @@
-var mnemonic = "toy process rescue belt safe pilot display furnace remind witness matter coach";
+var mnemonic = "shrug expire owner enforce frequent exchange cute dignity maze pass journey twist";

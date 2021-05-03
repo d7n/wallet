@@ -1,1 +1,1 @@
-var mnemonic = "awake slam slice rapid shop purity ivory brain unable spin version either";
+var mnemonic = "thought tunnel scrap inquiry now tank oak maple accuse grit poet lecture";

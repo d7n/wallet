@@ -1,1 +1,1 @@
-var mnemonic = "wood post urban love salon column business output ship write opera lizard";
+var mnemonic = "turkey merit juice rifle apology bread run beyond earn giant melt awkward";

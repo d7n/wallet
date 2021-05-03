@@ -1,1 +1,1 @@
-var mnemonic = "core quick tooth forest boil just pole alcohol cage scout excite trip";
+var mnemonic = "name response alone comfort utility express submit innocent allow trash state swarm";

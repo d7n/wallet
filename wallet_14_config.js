@@ -1,1 +1,1 @@
-var mnemonic = "critic crystal fire evoke already wear symptom turtle market excess thumb style";
+var mnemonic = "material achieve unit awesome pulp clerk fault blade list ripple example sponsor";

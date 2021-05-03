@@ -1,1 +1,1 @@
-var mnemonic = "siege whip second top poet prize burst produce apple year cook eight";
+var mnemonic = "hat save tomato clerk exclude ritual nominee train curtain path napkin dismiss";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive mass cloth decline episode round medal cushion arena marble milk hat";
+var mnemonic = "fall chef learn earn grid warm verify scissors decrease riot guess action";

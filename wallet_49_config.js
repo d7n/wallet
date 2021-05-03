@@ -1,1 +1,1 @@
-var mnemonic = "home emotion neither furnace term creek stool clock debris wealth visa bean";
+var mnemonic = "nature fish scene arrange tomato pride dirt rabbit utility public innocent host";

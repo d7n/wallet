@@ -1,1 +1,1 @@
-var mnemonic = "round head install give window image mammal dismiss forum morning promote canvas";
+var mnemonic = "rebel finish degree drum angry chapter trend hunt river custom face purse";

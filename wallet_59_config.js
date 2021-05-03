@@ -1,1 +1,1 @@
-var mnemonic = "before taxi express fan language annual random develop mushroom play merry saddle";
+var mnemonic = "final search relief oil horn agent clinic onion ribbon gate office galaxy";

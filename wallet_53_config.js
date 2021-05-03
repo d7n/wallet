@@ -1,1 +1,1 @@
-var mnemonic = "hood super picnic audit orient witness tattoo crystal atom strike memory humor";
+var mnemonic = "craft creek exact common mosquito fury slice snake repeat bulb rival nice";

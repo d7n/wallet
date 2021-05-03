@@ -1,1 +1,1 @@
-var mnemonic = "water monkey perfect task bacon early sustain earn mixed find satoshi hub";
+var mnemonic = "crop estate spike shop brown glory offer daughter moon zebra pencil person";
