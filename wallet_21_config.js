@@ -1,1 +1,1 @@
-var mnemonic = "vapor tag jelly area police tree crush afford section patch lawsuit cause";
+var mnemonic = "ranch utility loan during sea theme bid pen goose hover mouse wire";

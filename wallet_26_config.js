@@ -1,1 +1,1 @@
-var mnemonic = "clog there claw blade slogan parrot unfold weekend luggage control drink seven";
+var mnemonic = "infant action bounce pond relief laptop govern crunch more any situate office";

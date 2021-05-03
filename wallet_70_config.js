@@ -1,1 +1,1 @@
-var mnemonic = "butter shove place essay silent grain aspect burger congress rhythm ozone nominee";
+var mnemonic = "trophy spray filter pull course actor voyage setup enjoy curve filter cruise";

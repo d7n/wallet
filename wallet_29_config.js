@@ -1,1 +1,1 @@
-var mnemonic = "bullet repair crater dust cheap yard recall picture screen devote ecology visa";
+var mnemonic = "across chaos engine demise pig breeze tuition attitude smooth tortoise subway park";

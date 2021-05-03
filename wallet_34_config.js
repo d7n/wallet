@@ -1,1 +1,1 @@
-var mnemonic = "toast abuse cat tray rule carry unaware biology main unit damage minimum";
+var mnemonic = "pig vibrant hero outdoor erode dice welcome slim scrub announce gold cinnamon";

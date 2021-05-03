@@ -1,1 +1,1 @@
-var mnemonic = "nice frame empty empty give lyrics country because settle spoil child panther";
+var mnemonic = "caught plug dune decline nut infant only invite medal dog recall deputy";

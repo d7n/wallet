@@ -1,1 +1,1 @@
-var mnemonic = "attend private market title settle coach science matter pair dad journey leg";
+var mnemonic = "father profit wife receive labor trophy luxury valley supreme cupboard inspire anchor";

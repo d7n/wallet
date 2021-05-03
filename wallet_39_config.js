@@ -1,1 +1,1 @@
-var mnemonic = "split airport ensure focus cinnamon balcony joke poem reason floor car mesh";
+var mnemonic = "eye figure cereal doll buzz work stadium stage disagree phone two tunnel";

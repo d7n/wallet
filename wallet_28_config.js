@@ -1,1 +1,1 @@
-var mnemonic = "donate shell sound hair matrix lonely joy swamp gossip service quiz artwork";
+var mnemonic = "rally floor junior lucky very note split arm mosquito drill tragic wrap";

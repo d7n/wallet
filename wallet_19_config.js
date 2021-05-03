@@ -1,1 +1,1 @@
-var mnemonic = "scare letter detail riot pause spawn genius pipe daughter define average agent";
+var mnemonic = "upon candy attitude three matter immense chest pink unit sphere plastic scrap";

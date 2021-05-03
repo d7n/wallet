@@ -1,1 +1,1 @@
-var mnemonic = "slice hat wedding vehicle service helmet ripple reduce diary pull arena much";
+var mnemonic = "muscle where antique vanish engage crew electric gold demise main wrong beyond";

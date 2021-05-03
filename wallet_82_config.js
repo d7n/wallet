@@ -1,1 +1,1 @@
-var mnemonic = "history sphere deny prefer similar pet blouse front clog peanut reunion robust";
+var mnemonic = "buzz run rose will sweet oblige portion swarm curious elevator glow rack";

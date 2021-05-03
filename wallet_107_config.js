@@ -1,1 +1,1 @@
-var mnemonic = "execute wheel plug struggle onion above tissue melt hat horror honey soda";
+var mnemonic = "sure always abandon anchor shine creek pulse doctor able unusual priority brother";

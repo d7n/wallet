@@ -1,1 +1,1 @@
-var mnemonic = "cancel cash manage ivory mango choose camera patrol fly distance knee cannon";
+var mnemonic = "rotate guide breeze clarify bounce use home sunny estate brief pizza level";

@@ -1,1 +1,1 @@
-var mnemonic = "child seven clog they ability toast brisk lunar forward voice tuition kiss";
+var mnemonic = "capable tank ketchup monkey bomb topple abuse body sunset pass win bid";

@@ -1,1 +1,1 @@
-var mnemonic = "assist cupboard design must mad riot obtain spike viable silver donkey plastic";
+var mnemonic = "cram burst swim glory bronze lunch creek fire nerve fade wear first";

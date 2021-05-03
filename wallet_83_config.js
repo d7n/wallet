@@ -1,1 +1,1 @@
-var mnemonic = "coin wrist lecture remain social water remain print model rubber carbon doll";
+var mnemonic = "inquiry magic start elder loop bottom duck admit cart arrest chat security";

@@ -1,1 +1,1 @@
-var mnemonic = "roof space front goddess goat better fog dad credit cycle coin strike";
+var mnemonic = "jewel bird thunder you eye fury below install that input point actor";

@@ -1,1 +1,1 @@
-var mnemonic = "festival mosquito dolphin task pact run alarm fine heart day canvas initial";
+var mnemonic = "survey spell define world guess license cattle narrow december cry erode believe";

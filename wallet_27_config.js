@@ -1,1 +1,1 @@
-var mnemonic = "critic shock head relief example hip flag ensure affair tenant cause notice";
+var mnemonic = "hover armed sentence humble cushion around crater harsh retire argue animal romance";

@@ -1,1 +1,1 @@
-var mnemonic = "young drift battle rebuild divide spray dizzy enable love museum odor habit";
+var mnemonic = "zebra spoon install letter shock decorate current vanish message cute pole process";

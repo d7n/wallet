@@ -1,1 +1,1 @@
-var mnemonic = "image whip meat traffic ridge twice split summer inhale dynamic pumpkin history";
+var mnemonic = "wave piano rapid genre rural morning member poverty network swap attack horror";

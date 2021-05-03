@@ -1,1 +1,1 @@
-var mnemonic = "siren innocent skin fox salute since cash penalty sword half weekend hope";
+var mnemonic = "spirit tool chicken correct desert perfect theme prefer bike shy country pencil";

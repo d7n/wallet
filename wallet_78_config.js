@@ -1,1 +1,1 @@
-var mnemonic = "endorse common need trap artist quote enter uncle door ozone hat comic";
+var mnemonic = "opera taste special limit ten village perfect beyond differ shove urge frost";

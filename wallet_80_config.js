@@ -1,1 +1,1 @@
-var mnemonic = "shrug runway else arm aisle lesson tennis valve feel bounce tuition symbol";
+var mnemonic = "book swallow beef spy prison grain ahead mesh knife dose harsh pipe";

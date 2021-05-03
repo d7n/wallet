@@ -1,1 +1,1 @@
-var mnemonic = "defense guilt today input focus night habit venue air core flush measure";
+var mnemonic = "repair smile advice rely vintage copy gas sphere cable paddle robust attract";

@@ -1,1 +1,1 @@
-var mnemonic = "security napkin catalog salt predict retreat car question world dragon wrestle polar";
+var mnemonic = "priority melt fury height slight plunge capable next balance smile miracle license";

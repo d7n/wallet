@@ -1,1 +1,1 @@
-var mnemonic = "hover express trap picture famous seat spirit anchor normal tank business duty";
+var mnemonic = "stable gas spirit gossip satisfy solar ecology fiction civil armed angry ball";

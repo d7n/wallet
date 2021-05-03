@@ -1,1 +1,1 @@
-var mnemonic = "mad rebuild bamboo cushion electric pear pencil drum chicken pair coast regret";
+var mnemonic = "left fantasy rescue door snap amused forest hockey sick famous dumb web";

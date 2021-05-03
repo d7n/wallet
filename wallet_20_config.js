@@ -1,1 +1,1 @@
-var mnemonic = "general shoot tackle mule hammer inject deliver rain deal any reflect industry";
+var mnemonic = "issue devote property puppy wrist nephew blood soon capital find garlic holiday";

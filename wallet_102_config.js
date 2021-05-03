@@ -1,1 +1,1 @@
-var mnemonic = "skull wedding piano timber enjoy parade endless crouch merry sound robot upgrade";
+var mnemonic = "keep frown cable student act hammer volume stool sight alley member exit";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid repair rug quantum notable lumber fluid exact coral upgrade when lunch";
+var mnemonic = "fit shift seed secret journey impulse lazy price thought hint discover patient";

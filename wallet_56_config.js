@@ -1,1 +1,1 @@
-var mnemonic = "pact swing chalk later sibling hope unhappy manual violin during cup daring";
+var mnemonic = "must remove throw globe vast furnace pave glow dish chaos remind mouse";

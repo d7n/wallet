@@ -1,1 +1,1 @@
-var mnemonic = "broom young wine farm virtual dice vacuum vast nurse balcony stone arena";
+var mnemonic = "ginger easily sphere version february shine yellow scrub circle bacon earth gain";

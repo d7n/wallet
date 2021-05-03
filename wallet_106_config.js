@@ -1,1 +1,1 @@
-var mnemonic = "tube family wrist assault ecology taxi resist trigger nation fat organ cave";
+var mnemonic = "town sport script cabin metal logic lecture mirror crouch chronic salt sudden";

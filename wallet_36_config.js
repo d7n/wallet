@@ -1,1 +1,1 @@
-var mnemonic = "flush mirror bunker grocery describe rural either motion blade above orient range";
+var mnemonic = "effort ceiling timber into vast fee lens soda sponsor link coral legend";

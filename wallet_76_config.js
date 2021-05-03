@@ -1,1 +1,1 @@
-var mnemonic = "field advance consider into elder motor use valley oak trip picnic burden";
+var mnemonic = "camp layer echo minimum glare nerve aisle pudding ride make horn legal";

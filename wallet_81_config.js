@@ -1,1 +1,1 @@
-var mnemonic = "cruel scrub act index open strategy gift sight suspect dumb daring garment";
+var mnemonic = "party panda sea cart muffin accuse narrow razor relief pull limit cook";

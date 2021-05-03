@@ -1,1 +1,1 @@
-var mnemonic = "dove radio main silver humble song media able spell muscle casual prison";
+var mnemonic = "soul zoo same culture real possible casino under focus unusual viable position";

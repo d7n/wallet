@@ -1,1 +1,1 @@
-var mnemonic = "embrace gain audit antenna correct lonely cause dynamic hurry slogan believe rookie";
+var mnemonic = "poet curve vault tooth vanish seat crystal combine trophy veteran nasty drama";

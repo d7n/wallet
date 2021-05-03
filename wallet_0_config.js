@@ -1,1 +1,1 @@
-var mnemonic = "mechanic sentence guide extra offer dad where gate horror ice arctic drastic";
+var mnemonic = "prize child body indoor method cat drop motion song expect often tennis";

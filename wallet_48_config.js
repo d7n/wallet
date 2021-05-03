@@ -1,1 +1,1 @@
-var mnemonic = "smart disagree insect absorb daring orange remember run sauce coil impulse venture";
+var mnemonic = "large shadow tackle minor satisfy fly fish recycle wisdom glad betray usual";

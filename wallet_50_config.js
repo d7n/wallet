@@ -1,1 +1,1 @@
-var mnemonic = "dwarf ginger silk birth belt lesson spoil bunker spring extend ripple fox";
+var mnemonic = "spoon example ridge citizen prepare detail upset monster dose song decide solution";

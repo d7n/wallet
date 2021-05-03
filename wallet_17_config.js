@@ -1,1 +1,1 @@
-var mnemonic = "emerge salmon nuclear similar enforce craft layer slide unhappy one hidden mammal";
+var mnemonic = "brick mix auction coin fetch home verb perfect only live panda hockey";

@@ -1,1 +1,1 @@
-var mnemonic = "all rude cost seminar shock tribe protect suit amused spider salute swing";
+var mnemonic = "trade can cattle edit verify toward army will bitter teach skull typical";

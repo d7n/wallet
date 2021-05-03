@@ -1,1 +1,1 @@
-var mnemonic = "corn differ multiply clean will orphan focus detail mixture exclude brave perfect";
+var mnemonic = "tone carpet clutch frost ill model file obscure slide style useless music";

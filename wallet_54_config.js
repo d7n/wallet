@@ -1,1 +1,1 @@
-var mnemonic = "earth render embody sheriff main agent shock slot boss until shiver rug";
+var mnemonic = "rich trend penalty kangaroo recipe swap limit discover island lemon forum grief";

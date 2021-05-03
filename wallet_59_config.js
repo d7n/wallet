@@ -1,1 +1,1 @@
-var mnemonic = "over cinnamon still proof kiwi march license damp able divert patient adapt";
+var mnemonic = "author future fly repair opera similar swallow morning web label quantum shift";

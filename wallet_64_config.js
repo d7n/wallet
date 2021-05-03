@@ -1,1 +1,1 @@
-var mnemonic = "volcano worth vocal curious bachelor wrong increase jacket dad miracle fatigue ceiling";
+var mnemonic = "swim size people win shift taste squeeze rug donate vintage tornado pulp";

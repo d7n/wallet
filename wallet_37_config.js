@@ -1,1 +1,1 @@
-var mnemonic = "fan wonder fortune brave inherit response pear segment churn save member trigger";
+var mnemonic = "salmon head enjoy funny library robot prepare junk organ caught either cart";

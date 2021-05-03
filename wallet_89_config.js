@@ -1,1 +1,1 @@
-var mnemonic = "old category orient vault distance magic stock away predict now federal deer";
+var mnemonic = "purse distance position enhance useful decorate pig biology unique glove soul bulk";

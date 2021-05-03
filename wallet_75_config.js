@@ -1,1 +1,1 @@
-var mnemonic = "lizard major layer furnace digital ready solution neither real gown inhale depart";
+var mnemonic = "follow twenty elder alert page enrich column blush venture crouch firm west";

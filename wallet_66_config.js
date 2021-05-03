@@ -1,1 +1,1 @@
-var mnemonic = "talk divert team silent camera air review adapt wet window rocket way";
+var mnemonic = "jazz myself fancy myself empower pill beauty basic purse coin food design";

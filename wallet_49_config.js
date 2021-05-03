@@ -1,1 +1,1 @@
-var mnemonic = "waste issue marine brain front pact fresh blame spice cross pattern dumb";
+var mnemonic = "vanish dad round accident rally hurry alien will praise summer peace prize";

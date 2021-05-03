@@ -1,1 +1,1 @@
-var mnemonic = "spell glow legal tone give reunion result cliff own bounce walnut bullet";
+var mnemonic = "asthma radio undo merry miss never bargain waste farm axis dog help";

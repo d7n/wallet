@@ -1,1 +1,1 @@
-var mnemonic = "page number forum slide search weapon wall install eternal prevent occur negative";
+var mnemonic = "hill alert cheese shine borrow inflict review zebra book frozen six razor";

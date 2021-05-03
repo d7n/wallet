@@ -1,1 +1,1 @@
-var mnemonic = "horn object segment skill measure old awful size mistake dragon argue mosquito";
+var mnemonic = "hedgehog truth donate legend rather discover problem office nerve wedding torch sock";

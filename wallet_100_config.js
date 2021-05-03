@@ -1,1 +1,1 @@
-var mnemonic = "various siege mobile wire floor pull punch major tissue catalog prevent visit";
+var mnemonic = "congress swim dove maid quantum pitch approve glad vibrant obey duty decline";

@@ -1,1 +1,1 @@
-var mnemonic = "belt delay upon render sponsor know meadow fossil kitten ripple will thunder";
+var mnemonic = "crawl entry move predict response ahead scrap health bargain diamond behind output";

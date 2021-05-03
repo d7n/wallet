@@ -1,1 +1,1 @@
-var mnemonic = "faculty rule chronic twin absorb insane gallery game chapter hub require vehicle";
+var mnemonic = "wolf where drift resource sustain talent shell sand ocean whip syrup echo";

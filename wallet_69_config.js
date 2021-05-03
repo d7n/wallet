@@ -1,1 +1,1 @@
-var mnemonic = "slide gloom glare goose return gun riot sunny inside public mind wide";
+var mnemonic = "produce apple dentist nominee olympic target park fruit view scrap define useless";

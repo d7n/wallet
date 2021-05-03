@@ -1,1 +1,1 @@
-var mnemonic = "release advance just ready rich jaguar tribe divert secret sand extend sausage";
+var mnemonic = "pluck random suit patch ginger rescue vanish speak margin still fun orbit";

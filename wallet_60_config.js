@@ -1,1 +1,1 @@
-var mnemonic = "hole muffin hold worth what myself mean satisfy curtain chase cabin visual";
+var mnemonic = "evoke alert hour race office decide toe brain fun defense left gain";

@@ -1,1 +1,1 @@
-var mnemonic = "stool fiscal artwork space know teach mechanic merit lumber rigid across ticket";
+var mnemonic = "either case bacon piece scout when couch unhappy green cement animal rely";

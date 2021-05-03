@@ -1,1 +1,1 @@
-var mnemonic = "rent mansion discover toward laptop tool special liar correct rabbit pluck media";
+var mnemonic = "tennis learn orbit tag strike hundred type evolve neck wire burden artefact";

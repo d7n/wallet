@@ -1,1 +1,1 @@
-var mnemonic = "segment grant slide success caught certain summer luggage waste diamond pluck spin";
+var mnemonic = "glue yard planet exile weasel lobster glow inherit balance brave host dynamic";

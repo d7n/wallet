@@ -1,1 +1,1 @@
-var mnemonic = "tell narrow evoke notice tomato machine dizzy order luxury income assault steak";
+var mnemonic = "term setup also evidence shrimp resist payment victory pledge clip jazz ready";

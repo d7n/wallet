@@ -1,1 +1,1 @@
-var mnemonic = "unique green lemon impose legend armed patrol calm uphold boat shop spell";
+var mnemonic = "item finger muffin man access gorilla couch method angle boring coast fitness";

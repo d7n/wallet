@@ -1,1 +1,1 @@
-var mnemonic = "uniform ethics enact uncover swear abstract group item forum novel exotic sadness";
+var mnemonic = "foot ride ready uncover tomorrow puppy scorpion resemble universe that elder minimum";

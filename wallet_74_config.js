@@ -1,1 +1,1 @@
-var mnemonic = "daughter dragon flee tomato goddess short seven session increase addict flip season";
+var mnemonic = "region captain prize undo nose despair wrong attend shallow pumpkin song stove";

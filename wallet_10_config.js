@@ -1,1 +1,1 @@
-var mnemonic = "genuine chase result merry reduce century omit spirit captain duty weekend picnic";
+var mnemonic = "left agent glory trumpet push brief age case print glare early rebel";

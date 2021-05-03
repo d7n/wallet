@@ -1,1 +1,1 @@
-var mnemonic = "human mushroom husband fossil rent bind horror glare kidney giggle original opera";
+var mnemonic = "derive injury minor arena kit lazy receive crater unfold heart brass rule";

@@ -1,1 +1,1 @@
-var mnemonic = "piece census woman asthma cushion use laptop evolve duty scene ribbon candy";
+var mnemonic = "man sail toss write capital sunny virtual indoor deal syrup now suffer";

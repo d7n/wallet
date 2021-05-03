@@ -1,1 +1,1 @@
-var mnemonic = "deny hamster one absurd glow comic alley camp anchor virus wink sing";
+var mnemonic = "learn light okay install champion immune era skin direct goat divorce chapter";

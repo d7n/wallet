@@ -1,1 +1,1 @@
-var mnemonic = "mango increase resist castle must describe artist close okay rifle family beyond";
+var mnemonic = "canyon assist brain vicious casino wild endorse arena assault chapter meadow deposit";

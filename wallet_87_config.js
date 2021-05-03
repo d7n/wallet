@@ -1,1 +1,1 @@
-var mnemonic = "come man machine build quit agree pistol door course mystery broccoli merit";
+var mnemonic = "wonder puzzle estate exotic else awesome border cage all true banner echo";

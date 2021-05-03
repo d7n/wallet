@@ -1,1 +1,1 @@
-var mnemonic = "glimpse cloud must opera toy music enroll potato bus castle gorilla oil";
+var mnemonic = "wrap despair share client valley bus dynamic coin risk produce still fall";

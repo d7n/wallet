@@ -1,1 +1,1 @@
-var mnemonic = "gym actual awesome orphan purchase alone clog romance kiss hazard measure what";
+var mnemonic = "decline mass filter orient narrow sniff glow solid forest swear toast dirt";

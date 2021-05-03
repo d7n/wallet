@@ -1,1 +1,1 @@
-var mnemonic = "beyond rate code identify recall start forest uncover reunion kingdom case black";
+var mnemonic = "side lunch stone horn tomato rebuild music plunge throw appear fruit solid";

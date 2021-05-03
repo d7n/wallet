@@ -1,1 +1,1 @@
-var mnemonic = "chase bottom cotton slide inflict august liar lift solve amateur style perfect";
+var mnemonic = "dove cheap jazz pave credit faculty diary tribe dignity humble average champion";

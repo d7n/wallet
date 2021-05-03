@@ -1,1 +1,1 @@
-var mnemonic = "trend sorry put inspire spin coconut devote chief boil window uphold meadow";
+var mnemonic = "shallow spoil disorder expose assist person write athlete access tilt vacuum giggle";

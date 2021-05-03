@@ -1,1 +1,1 @@
-var mnemonic = "soft daring buffalo rescue certain size crouch blue fan another total subway";
+var mnemonic = "check retreat gallery siren click luxury script dose child pass foil property";

@@ -1,1 +1,1 @@
-var mnemonic = "still loud ski soda thrive digital bachelor knock this section conduct height";
+var mnemonic = "flash host recycle genius deal awful solve own fit glue eager loud";

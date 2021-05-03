@@ -1,1 +1,1 @@
-var mnemonic = "talent pig release unfair nose february muffin february add upper blanket three";
+var mnemonic = "siege bread arch add abstract myself cat render scare party cannon talk";

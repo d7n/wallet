@@ -1,1 +1,1 @@
-var mnemonic = "return soda raise genre same tribe mouse crawl monitor banner good chair";
+var mnemonic = "top correct cruel loop use fiber lounge token square gap hunt area";

@@ -1,1 +1,1 @@
-var mnemonic = "ten knee blouse knife mansion blood rifle wild soap cage save wheat";
+var mnemonic = "high satoshi edit bitter busy liar pulp dinner donor submit grape excuse";

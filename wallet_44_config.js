@@ -1,1 +1,1 @@
-var mnemonic = "home ski assault find first spoon winner rival upon capable error smile";
+var mnemonic = "fatigue ethics toy fish april leopard tilt noble frost tube donate fruit";

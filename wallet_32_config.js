@@ -1,1 +1,1 @@
-var mnemonic = "absurd snake later wet thank kind broccoli offer vicious sand fault lawn";
+var mnemonic = "finger success vital dentist reduce gauge chunk entire flag suit toast spot";

@@ -1,1 +1,1 @@
-var mnemonic = "level later slice gold scout mutual liberty crane tool yard love license";
+var mnemonic = "raw athlete asthma double purchase muscle crazy blood deer valley actress sauce";

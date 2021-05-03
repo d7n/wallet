@@ -1,1 +1,1 @@
-var mnemonic = "fish guilt sweet bread tilt mobile olympic usage key finger visual secret";
+var mnemonic = "hollow biology success siren rotate weather size build guide organ jar scrap";
