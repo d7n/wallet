@@ -1,1 +1,1 @@
-var mnemonic = "then save luggage verify cinnamon cool fiscal pill gas write flight depend";
+var mnemonic = "struggle gun twice media noise vast ridge flash mother claim pattern plunge";

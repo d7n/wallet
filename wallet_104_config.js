@@ -1,1 +1,1 @@
-var mnemonic = "hill fox peasant capital useless predict faint glide common refuse keep half";
+var mnemonic = "orange task arrest person family way rain lobster retire plate fetch update";

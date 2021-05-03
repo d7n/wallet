@@ -1,1 +1,1 @@
-var mnemonic = "nation acid best crop crime cook odor poverty cousin corn daring penalty";
+var mnemonic = "impulse rate motion dad result run spice burden silent avoid warm aerobic";

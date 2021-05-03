@@ -1,1 +1,1 @@
-var mnemonic = "senior spell couch flee such test tornado cloth oblige quote account infant";
+var mnemonic = "churn trip fantasy detect object garage push veteran bus wrist fall matrix";

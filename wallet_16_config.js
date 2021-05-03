@@ -1,1 +1,1 @@
-var mnemonic = "west turtle tumble bridge blind nest quality struggle relax utility frozen balcony";
+var mnemonic = "still draw daughter blast route okay evoke zebra because child wolf rich";

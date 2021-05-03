@@ -1,1 +1,1 @@
-var mnemonic = "message melody human quality emerge bachelor rather mix divorce trouble blouse tuition";
+var mnemonic = "electric cage coin rural tennis toilet time iron guess excuse ignore quick";

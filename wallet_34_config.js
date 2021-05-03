@@ -1,1 +1,1 @@
-var mnemonic = "video pistol worth trick draft join fan pave file beach video muffin";
+var mnemonic = "garage credit damage artefact repair search noise quick crater buddy champion sort";

@@ -1,1 +1,1 @@
-var mnemonic = "tenant mean reunion elegant now shadow trial plastic happy arrest crunch egg";
+var mnemonic = "couple income hard flock element end carpet play agree super alien drift";

@@ -1,1 +1,1 @@
-var mnemonic = "remove bomb season opera normal only turkey loyal join leisure fluid brother";
+var mnemonic = "century say common category gossip arctic swift weapon race bicycle final bunker";

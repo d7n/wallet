@@ -1,1 +1,1 @@
-var mnemonic = "round cruise neutral stereo sick enforce flush museum planet cube walk identify";
+var mnemonic = "disease drop ivory stick hunt jewel submit tattoo evolve pave blood cover";

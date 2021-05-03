@@ -1,1 +1,1 @@
-var mnemonic = "embark shed flower broom eight eyebrow focus example humble summer couple wrestle";
+var mnemonic = "flavor average muscle approve rate rebel olympic heart mango country monitor resemble";

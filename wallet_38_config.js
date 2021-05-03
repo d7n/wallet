@@ -1,1 +1,1 @@
-var mnemonic = "foam throw burden curve abuse mercy detail palm brisk since leader oblige";
+var mnemonic = "include maple video cover aware space crisp replace peasant dragon twin mail";

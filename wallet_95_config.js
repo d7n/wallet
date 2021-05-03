@@ -1,1 +1,1 @@
-var mnemonic = "famous lucky ride category sell man pumpkin recycle swear account grit lyrics";
+var mnemonic = "similar doll outside system fire bridge lounge absorb joy action heart snake";

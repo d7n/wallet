@@ -1,1 +1,1 @@
-var mnemonic = "two mixture hungry office veteran tilt dynamic fix squirrel beyond devote warm";
+var mnemonic = "insect stumble maximum current couple anger wheat avoid erase kiwi speak glass";

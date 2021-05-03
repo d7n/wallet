@@ -1,1 +1,1 @@
-var mnemonic = "candy brave action affair plunge result trick hip bridge steak buffalo toss";
+var mnemonic = "buzz hover proud trend share enemy arrow hint garage rude false hurry";

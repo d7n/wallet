@@ -1,1 +1,1 @@
-var mnemonic = "horror weather uphold permit better wire tackle whale always lounge actual appear";
+var mnemonic = "fatal citizen animal early mesh innocent ski slogan ten push action energy";

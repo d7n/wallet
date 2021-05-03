@@ -1,1 +1,1 @@
-var mnemonic = "erupt shrug guitar away burger two small resource hat hand manage shoe";
+var mnemonic = "soul winter finish melt someone require boss mom orange one real anxiety";

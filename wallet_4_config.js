@@ -1,1 +1,1 @@
-var mnemonic = "error naive process plate day hungry skin connect grow south tuna chunk";
+var mnemonic = "entire trouble raccoon behind tortoise dawn protect oven friend blur love naive";

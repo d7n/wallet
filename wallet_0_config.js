@@ -1,1 +1,1 @@
-var mnemonic = "night battle utility false cool swamp sure soon echo pledge nurse explain";
+var mnemonic = "steak fish vital visual piano assume raven rival survey repair long glad";

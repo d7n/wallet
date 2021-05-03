@@ -1,1 +1,1 @@
-var mnemonic = "warfare force film drum key right armed elevator differ fiscal burger budget";
+var mnemonic = "drastic eagle capital lake wasp uncle focus fine nothing ramp kangaroo actress";

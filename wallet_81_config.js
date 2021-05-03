@@ -1,1 +1,1 @@
-var mnemonic = "squeeze bitter lunch almost proud poet vehicle deposit sunset betray because exclude";
+var mnemonic = "quarter walk grid circle dry festival direct robust exotic agree orchard middle";

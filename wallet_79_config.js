@@ -1,1 +1,1 @@
-var mnemonic = "keen enemy transfer wait roast easy anchor purity best ketchup oppose salon";
+var mnemonic = "stuff injury execute wing walk naive topic minute danger quiz ketchup rather";

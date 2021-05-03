@@ -1,1 +1,1 @@
-var mnemonic = "update orchard patrol board please help rude quarter crouch tomato display execute";
+var mnemonic = "corn giggle dolphin bleak shine vital limb view cliff attend strategy blame";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant correct quality brain month undo material tattoo casual napkin frequent know";
+var mnemonic = "day youth claim useless job label panel metal march rent inject wool";

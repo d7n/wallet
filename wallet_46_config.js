@@ -1,1 +1,1 @@
-var mnemonic = "split doll pepper pudding net praise about upon hidden click differ deny";
+var mnemonic = "gas urban chief help glance canyon oppose keep scrap property boil pistol";

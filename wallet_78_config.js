@@ -1,1 +1,1 @@
-var mnemonic = "exotic example advance gossip fashion present danger flee cradle siren figure child";
+var mnemonic = "empower rough apart abandon left canvas yellow kiss curve custom sight boat";

@@ -1,1 +1,1 @@
-var mnemonic = "blue churn fun cigar umbrella flip beyond remember warm food simple opinion";
+var mnemonic = "mouse custom drop number analyst injury then close exit awake session culture";

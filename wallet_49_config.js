@@ -1,1 +1,1 @@
-var mnemonic = "brain orphan grain little pottery cry trade miss plug torch federal before";
+var mnemonic = "vast glass blue tent air breeze physical someone method into siren unusual";

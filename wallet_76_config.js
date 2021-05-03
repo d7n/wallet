@@ -1,1 +1,1 @@
-var mnemonic = "yard elite market fire stem guide couple hard poem jungle now cushion";
+var mnemonic = "wild visa topic vivid pink crop glare guitar danger uphold cable differ";

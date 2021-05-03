@@ -1,1 +1,1 @@
-var mnemonic = "lecture chat sight electric member car library gorilla vicious calm eight unable";
+var mnemonic = "nasty expand clog illegal alcohol bamboo over vapor turkey display utility cool";

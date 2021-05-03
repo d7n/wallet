@@ -1,1 +1,1 @@
-var mnemonic = "ball pear image worry raw oil shine dial opinion vanish page explain";
+var mnemonic = "nominee leaf lava boil couch cupboard mule dress any demise diet material";

@@ -1,1 +1,1 @@
-var mnemonic = "blade tape announce summer stuff grow face mule awkward receive alter sadness";
+var mnemonic = "away orange target three still below paper famous tragic first hello merry";

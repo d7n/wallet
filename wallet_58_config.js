@@ -1,1 +1,1 @@
-var mnemonic = "settle stone segment rookie floor noodle exact alley tuna prevent thrive fatal";
+var mnemonic = "magnet ski sadness pulp pilot track frog pelican equal demise dizzy celery";

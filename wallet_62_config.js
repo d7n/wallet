@@ -1,1 +1,1 @@
-var mnemonic = "this nest cheese organ wonder reopen slot horn spell obvious inflict code";
+var mnemonic = "inmate obtain age video fortune fitness aunt neglect way point slender yellow";

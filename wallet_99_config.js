@@ -1,1 +1,1 @@
-var mnemonic = "notable craft clay sadness pond lunar slab ten robust rich panda cart";
+var mnemonic = "giggle interest any awful alcohol age doll act submit dawn outer globe";

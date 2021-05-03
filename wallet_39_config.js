@@ -1,1 +1,1 @@
-var mnemonic = "inner rely sail still various worth rifle near fix chief front diamond";
+var mnemonic = "lend address receive crawl mesh list magnet pupil leisure piece sort special";

@@ -1,1 +1,1 @@
-var mnemonic = "modify kingdom oven phrase enjoy crash catalog asthma goat force robot truck";
+var mnemonic = "true wise bullet confirm infant august quick kit antique useless citizen latin";

@@ -1,1 +1,1 @@
-var mnemonic = "fix sand popular notable praise already appear want jewel crowd stadium jump";
+var mnemonic = "lend jungle marine dilemma ignore funny fence bar dumb water diamond shop";

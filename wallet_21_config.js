@@ -1,1 +1,1 @@
-var mnemonic = "trap hurt other radar chair calm banner system escape reflect pulp rural";
+var mnemonic = "essence giant sing biology ancient exclude pilot august extra soul leopard cushion";

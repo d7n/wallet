@@ -1,1 +1,1 @@
-var mnemonic = "trash sleep champion avocado slim grief increase juice easily winter soda strategy";
+var mnemonic = "also give funny swing bike huge option pulp flat dolphin face stock";

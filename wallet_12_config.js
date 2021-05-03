@@ -1,1 +1,1 @@
-var mnemonic = "drive tuna tide middle horror ahead fresh skill fine either cloth tone";
+var mnemonic = "tackle silver flame right decline treat risk keen hole guitar final huge";

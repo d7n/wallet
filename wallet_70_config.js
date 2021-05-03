@@ -1,1 +1,1 @@
-var mnemonic = "machine sight bicycle theory rain meat despair casual slender draw bracket great";
+var mnemonic = "promote teach grain banner element wall fix reform tonight broken skull guide";

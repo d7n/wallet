@@ -1,1 +1,1 @@
-var mnemonic = "midnight laundry surge army menu below story faculty brand capital cage kiwi";
+var mnemonic = "cushion dizzy banner harsh sorry hat innocent bamboo youth animal tube kind";

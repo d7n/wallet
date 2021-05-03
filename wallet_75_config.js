@@ -1,1 +1,1 @@
-var mnemonic = "tenant believe quick desert indicate author exact balance fly alert congress pitch";
+var mnemonic = "pupil annual ginger fox quantum wrist memory hair feature vital comic joke";

@@ -1,1 +1,1 @@
-var mnemonic = "fashion leg artwork dose spread kiss wide eight roast frost void dignity";
+var mnemonic = "coast spy winner sphere three bundle display culture orange gentle cash rice";

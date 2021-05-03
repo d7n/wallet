@@ -1,1 +1,1 @@
-var mnemonic = "lounge fish grass crack position furnace urge era immune noble put unlock";
+var mnemonic = "loop relief sweet tomorrow winner uniform waste flight syrup swamp night sister";

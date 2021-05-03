@@ -1,1 +1,1 @@
-var mnemonic = "before dove tilt below elbow above excess whip damp spice stage slight";
+var mnemonic = "heavy insane engine assist degree change start rifle taxi admit enforce cushion";

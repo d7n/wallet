@@ -1,1 +1,1 @@
-var mnemonic = "ankle suggest spray pool pause drill decade globe word ice family cross";
+var mnemonic = "sorry tooth jewel coral permit seven wait dice body find combine shield";

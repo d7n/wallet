@@ -1,1 +1,1 @@
-var mnemonic = "waste winner axis save dance exile setup emerge key orbit chef sand";
+var mnemonic = "trap occur danger funny dinosaur popular finish phone jump diet mechanic kid";

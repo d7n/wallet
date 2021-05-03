@@ -1,1 +1,1 @@
-var mnemonic = "pony occur ignore famous must bunker pumpkin abandon deny chimney tongue pony";
+var mnemonic = "vendor flavor enrich pony later inform typical holiday swap lawn jar rather";

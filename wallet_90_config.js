@@ -1,1 +1,1 @@
-var mnemonic = "sock upper raw cat leader patch depth noise can wing tooth moral";
+var mnemonic = "duck adapt demise library announce click humor reveal umbrella success unfold clap";

@@ -1,1 +1,1 @@
-var mnemonic = "mass duck rescue wrist clog toast random approve car enter grace brisk";
+var mnemonic = "pretty melt erode quote leave monster iron music pink hungry that grain";

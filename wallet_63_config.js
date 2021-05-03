@@ -1,1 +1,1 @@
-var mnemonic = "ranch awesome steel high range vanish nephew lady neglect message brush slogan";
+var mnemonic = "marine coffee danger tuna caution joy core attack board cradle kangaroo improve";

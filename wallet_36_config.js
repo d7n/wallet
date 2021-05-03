@@ -1,1 +1,1 @@
-var mnemonic = "pact habit permit access dry scare security ketchup cruel finish account solar";
+var mnemonic = "talent fan mango december fever true pole target remember trap shuffle loop";

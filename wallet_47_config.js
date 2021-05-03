@@ -1,1 +1,1 @@
-var mnemonic = "artist love bracket awful online divert anchor find calm medal chunk slush";
+var mnemonic = "truck resemble auto escape romance cash tube enact drink inhale eyebrow vapor";

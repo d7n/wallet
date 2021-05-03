@@ -1,1 +1,1 @@
-var mnemonic = "okay student armed allow cute follow athlete deal lock six van inherit";
+var mnemonic = "come maid climb civil lion quality select element around now garbage cricket";

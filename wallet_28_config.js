@@ -1,1 +1,1 @@
-var mnemonic = "furnace arrow rice elephant blast claw romance rigid glow number shop reason";
+var mnemonic = "alter pencil skirt arrive pact industry term lawn scare grab nose network";

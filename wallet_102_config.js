@@ -1,1 +1,1 @@
-var mnemonic = "thrive furnace abuse shy melt raccoon piece mechanic boost steak deposit joke";
+var mnemonic = "bicycle patient clever flower harbor cupboard ill tag junk sudden coconut erupt";

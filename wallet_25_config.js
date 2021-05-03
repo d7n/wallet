@@ -1,1 +1,1 @@
-var mnemonic = "coin offer glove rotate timber swap stand original educate mistake vendor manage";
+var mnemonic = "swing torch clerk ritual common then awake agent picture dwarf auction pattern";

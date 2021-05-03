@@ -1,1 +1,1 @@
-var mnemonic = "color adult leg laptop purse lab despair spider afraid foam carbon orphan";
+var mnemonic = "solid culture recall list critic often spin orient only attitude spin woman";

@@ -1,1 +1,1 @@
-var mnemonic = "gesture hub tortoise grab force include setup globe infant sell wasp switch";
+var mnemonic = "tent fury lecture execute false police payment employ ice three blame endless";

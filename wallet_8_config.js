@@ -1,1 +1,1 @@
-var mnemonic = "clever skate execute multiply rude turtle planet clay chair charge because final";
+var mnemonic = "happy salon reduce limb year risk fly eternal lunch busy achieve math";

@@ -1,1 +1,1 @@
-var mnemonic = "pig barrel unlock various myself change cannon tired bachelor vapor leg horse";
+var mnemonic = "random obey describe filter parrot snow merry fiction trap deny artefact weapon";

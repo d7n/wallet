@@ -1,1 +1,1 @@
-var mnemonic = "impact property left pear divorce auction fade crunch hole vacuum outside client";
+var mnemonic = "reunion bleak delay swamp unfold very budget rug rent swap hammer regular";

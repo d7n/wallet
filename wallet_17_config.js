@@ -1,1 +1,1 @@
-var mnemonic = "morning middle loan giant someone venture frog admit asthma finish process upon";
+var mnemonic = "divert super raise fantasy chaos chat roast perfect ability office column pipe";

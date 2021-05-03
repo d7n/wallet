@@ -1,1 +1,1 @@
-var mnemonic = "bracket ketchup mystery link company wedding differ clog patch economy garbage custom";
+var mnemonic = "ahead network achieve stem eternal regular bar fox window aerobic animal surge";

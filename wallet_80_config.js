@@ -1,1 +1,1 @@
-var mnemonic = "enemy divorce fame useful stuff vast impulse endless weasel borrow trumpet page";
+var mnemonic = "unusual labor appear rail spirit gesture sweet frown stumble perfect devote around";

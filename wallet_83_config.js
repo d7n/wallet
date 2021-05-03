@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur heavy involve carbon swarm silent wine okay famous bamboo column perfect";
+var mnemonic = "runway alcohol romance teach wreck person age staff shoe exact regret credit";

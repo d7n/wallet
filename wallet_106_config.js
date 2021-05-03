@@ -1,1 +1,1 @@
-var mnemonic = "private suffer work intact drip wise divorce wonder climb ghost jeans jacket";
+var mnemonic = "exit settle involve hedgehog excess vintage unable nerve sun health outdoor latin";

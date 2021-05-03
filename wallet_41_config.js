@@ -1,1 +1,1 @@
-var mnemonic = "abandon flat auto curtain actor machine alone general giggle rubber ceiling blouse";
+var mnemonic = "wish plate balance nuclear scout then cat lamp chat step this leg";

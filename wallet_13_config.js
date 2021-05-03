@@ -1,1 +1,1 @@
-var mnemonic = "vacuum produce pitch priority eye tongue kind brass cash enable shiver tennis";
+var mnemonic = "shrug flat consider burden disease puppy dizzy rare define six door luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "various limb maze arrange maze train scout crew matrix chair grief gauge";
+var mnemonic = "bind ramp home primary knee tourist talk lucky purpose divide verb gallery";

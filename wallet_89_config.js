@@ -1,1 +1,1 @@
-var mnemonic = "hen taxi cute physical horror token duty slush soap tragic audit genius";
+var mnemonic = "parent weasel begin coast blouse zone canyon tag person dizzy case hurdle";

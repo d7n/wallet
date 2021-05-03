@@ -1,1 +1,1 @@
-var mnemonic = "pudding pigeon execute coconut short chef often leg elder else pave goose";
+var mnemonic = "sing barrel crucial spirit setup radar divide shy sound farm planet venture";

@@ -1,1 +1,1 @@
-var mnemonic = "woman assist crystal parade toilet witness bitter mystery paddle picture mosquito now";
+var mnemonic = "february void vendor castle connect chair saddle table three law chest south";

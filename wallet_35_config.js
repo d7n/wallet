@@ -1,1 +1,1 @@
-var mnemonic = "plug trouble appear thank dress fatal suggest advance earth brick captain pair";
+var mnemonic = "chat pledge cheap style rule result garbage desert vivid pudding blouse regret";

@@ -1,1 +1,1 @@
-var mnemonic = "dune inspire sadness history margin speed polar grain pizza explain april wasp";
+var mnemonic = "lonely door proof cannon lab switch arch brief rely depend debris bunker";

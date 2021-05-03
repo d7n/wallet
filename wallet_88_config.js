@@ -1,1 +1,1 @@
-var mnemonic = "mule wrap few soldier sibling major under text copy hope direct another";
+var mnemonic = "release screen wealth proof once happy meadow wine van ecology clock make";

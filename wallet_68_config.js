@@ -1,1 +1,1 @@
-var mnemonic = "system love resist stem option famous buffalo case dirt quality train purity";
+var mnemonic = "fresh have ranch great gasp inform slush fresh club yard tomato age";

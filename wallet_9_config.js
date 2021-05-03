@@ -1,1 +1,1 @@
-var mnemonic = "bundle onion risk body bacon accuse strategy gym knee skirt mystery armed";
+var mnemonic = "asthma ship street void unusual raw crop scheme unveil skirt shine tray";

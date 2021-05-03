@@ -1,1 +1,1 @@
-var mnemonic = "weapon dance bitter dismiss rigid path suspect bring return wall history robust";
+var mnemonic = "hurry lazy time love focus fly boil fabric ethics adapt bacon brand";

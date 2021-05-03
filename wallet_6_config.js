@@ -1,1 +1,1 @@
-var mnemonic = "law mention patient tower room moon hard erode invite miss camp cruel";
+var mnemonic = "reject life cave unknown minimum escape inject pulse pyramid siege rely divorce";

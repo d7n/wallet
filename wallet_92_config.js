@@ -1,1 +1,1 @@
-var mnemonic = "stem cushion detect prevent deputy nothing concert flight kick basket curve balance";
+var mnemonic = "figure swallow fat spoil uncover drama service zoo dinner oblige pilot month";

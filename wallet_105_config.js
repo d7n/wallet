@@ -1,1 +1,1 @@
-var mnemonic = "income announce frame position account veteran grocery swim lamp purse brand adapt";
+var mnemonic = "blind receive iron typical solve dove fever cruise ripple fade earth board";

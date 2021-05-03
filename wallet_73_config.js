@@ -1,1 +1,1 @@
-var mnemonic = "gown digital defy sock course width moment tonight guard bean laugh dirt";
+var mnemonic = "way pigeon ask canal stand tank blur rubber myself must begin stomach";

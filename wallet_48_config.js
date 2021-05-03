@@ -1,1 +1,1 @@
-var mnemonic = "witness bread hurdle myself yellow fruit source enlist vault total love violin";
+var mnemonic = "orbit lab clap vapor trip sail bridge satisfy profit autumn eager express";

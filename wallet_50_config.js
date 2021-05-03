@@ -1,1 +1,1 @@
-var mnemonic = "shuffle series tortoise memory grant replace report normal kitchen prize rabbit name";
+var mnemonic = "office wink wash erosion void orbit acquire hover dry acquire oppose unfair";

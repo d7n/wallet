@@ -1,1 +1,1 @@
-var mnemonic = "boat plug alpha return negative crime over employ banner spice bag muffin";
+var mnemonic = "kitten pair alcohol fresh gasp heavy movie orient cage decide crater icon";

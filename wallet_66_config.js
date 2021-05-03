@@ -1,1 +1,1 @@
-var mnemonic = "ignore story demand rude horror remain song fuel someone paddle worth life";
+var mnemonic = "spirit blur result goddess shallow gravity miracle goat tiny ball tray stereo";

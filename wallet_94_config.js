@@ -1,1 +1,1 @@
-var mnemonic = "play cotton coast pencil skate stool urban wear roof twelve pair maximum";
+var mnemonic = "food voice emotion tortoise tortoise easy square unique uphold access unique hunt";
