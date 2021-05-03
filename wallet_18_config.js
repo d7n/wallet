@@ -1,1 +1,1 @@
-var mnemonic = "another glove aisle way sort trend hair fatal ask kiwi bench brief";
+var mnemonic = "hunt color tip price ivory ghost portion pyramid scissors soft dentist ridge";

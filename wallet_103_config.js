@@ -1,1 +1,1 @@
-var mnemonic = "cheese attack capital outside bachelor beef learn fish scan fox flip lecture";
+var mnemonic = "caught curtain miracle knock hole camera conduct aerobic silly ill tennis glide";

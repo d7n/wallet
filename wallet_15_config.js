@@ -1,1 +1,1 @@
-var mnemonic = "amount stem casual penalty render forget sentence alter voyage index girl finger";
+var mnemonic = "clever stock injury render mimic family skate private popular spare card unlock";

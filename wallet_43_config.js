@@ -1,1 +1,1 @@
-var mnemonic = "solution school easily scheme orchard finish junk pepper layer near wheat fox";
+var mnemonic = "urban village choose fantasy muffin boy velvet puppy jacket nation tool myth";

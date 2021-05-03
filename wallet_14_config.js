@@ -1,1 +1,1 @@
-var mnemonic = "oak vibrant lion child thrive wall arch enable circle inspire match afraid";
+var mnemonic = "earth entry feature today pencil lonely child harvest shock average enemy vacant";

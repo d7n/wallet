@@ -1,1 +1,1 @@
-var mnemonic = "unable prefer fiction few submit nerve degree toss stone bundle wasp amazing";
+var mnemonic = "wife twist tobacco enroll critic blouse subway require name balcony music throw";

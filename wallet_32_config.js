@@ -1,1 +1,1 @@
-var mnemonic = "spare marine virus witness urban absurd code tone question shy enable cinnamon";
+var mnemonic = "volume rich shock velvet denial season wrong asset robot able color diesel";

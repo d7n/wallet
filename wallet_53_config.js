@@ -1,1 +1,1 @@
-var mnemonic = "arrive nephew issue unfold board remove unknown upper fine kit merge cigar";
+var mnemonic = "amused artwork pilot upset summer biology reunion concert duck want seminar radio";

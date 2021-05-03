@@ -1,1 +1,1 @@
-var mnemonic = "able destroy bubble lens flat canvas junk liquid feel erase amused distance";
+var mnemonic = "gravity length erosion rookie pen rural laugh drift bone collect settle penalty";

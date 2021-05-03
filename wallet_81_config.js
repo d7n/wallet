@@ -1,1 +1,1 @@
-var mnemonic = "system acid subject pig wood toy hero despair stamp tackle example swift";
+var mnemonic = "detail trick talk lazy paddle junk need social response leisure since silly";

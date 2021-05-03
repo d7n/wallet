@@ -1,1 +1,1 @@
-var mnemonic = "scatter unusual congress duck choose attitude tell shed powder bag move please";
+var mnemonic = "replace nature limb usage fetch nasty normal rose salon divert virtual then";

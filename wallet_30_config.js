@@ -1,1 +1,1 @@
-var mnemonic = "bulb peasant tongue first toward long runway cannon unknown lamp inject defy";
+var mnemonic = "reflect must bamboo car describe select that wave load clock vibrant rack";

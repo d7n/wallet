@@ -1,1 +1,1 @@
-var mnemonic = "unaware bonus merge depend business horror smile feed pass draw enforce motion";
+var mnemonic = "silly annual pull seek label orient great audit cushion mule umbrella ability";

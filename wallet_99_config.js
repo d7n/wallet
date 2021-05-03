@@ -1,1 +1,1 @@
-var mnemonic = "legal top clog gallery cover often upset cliff orchard weasel produce child";
+var mnemonic = "vacant basket ring ride pair ability disorder shift plate reduce wink bomb";

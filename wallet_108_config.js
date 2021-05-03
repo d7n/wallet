@@ -1,1 +1,1 @@
-var mnemonic = "above crawl permit jazz goddess bundle excuse heavy finish glove recall tag";
+var mnemonic = "blade time during slow cheese canvas trend twice similar weird coral river";

@@ -1,1 +1,1 @@
-var mnemonic = "foam sauce bring visit range weird loop cannon hockey cotton check master";
+var mnemonic = "music describe debris attack camp gate name sheriff shadow give scan ignore";

@@ -1,1 +1,1 @@
-var mnemonic = "secret squirrel vote mouse board evidence core excess venture time hedgehog maid";
+var mnemonic = "orange neutral fresh vocal gospel devote door motor fall egg sponsor voice";

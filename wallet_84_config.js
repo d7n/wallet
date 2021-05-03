@@ -1,1 +1,1 @@
-var mnemonic = "genuine gain arrest result pond aunt hole check electric flip wisdom husband";
+var mnemonic = "industry page gravity drum rocket wheel school ripple polar exotic loyal must";

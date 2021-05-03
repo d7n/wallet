@@ -1,1 +1,1 @@
-var mnemonic = "couch once wear settle someone twist around jar input hover team spy";
+var mnemonic = "rain tide unable tape dilemma ozone envelope original neglect any funny memory";

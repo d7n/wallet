@@ -1,1 +1,1 @@
-var mnemonic = "season cement abandon struggle come leg together property alter best cannon doll";
+var mnemonic = "coconut warm wisdom reject cattle mango flip glue service expose skill report";

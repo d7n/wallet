@@ -1,1 +1,1 @@
-var mnemonic = "remind reason rail hobby wild alley fashion stamp bar salmon auction soda";
+var mnemonic = "usual neutral cannon breeze civil play brick accident card autumn feature insect";

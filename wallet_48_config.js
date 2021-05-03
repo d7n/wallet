@@ -1,1 +1,1 @@
-var mnemonic = "quantum rapid gun point second crack hamster wait throw this process board";
+var mnemonic = "brisk hundred explain decline sign salt humor scorpion baby derive leaf jump";

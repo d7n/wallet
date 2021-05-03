@@ -1,1 +1,1 @@
-var mnemonic = "museum sister music volume unable slight brother panda write stick tennis tumble";
+var mnemonic = "bag cherry kite between cave high rebuild buffalo aisle visa tissue domain";

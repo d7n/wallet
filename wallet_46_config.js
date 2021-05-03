@@ -1,1 +1,1 @@
-var mnemonic = "pink noble snack staff enact chaos mask divert entry number icon devote";
+var mnemonic = "coin shaft own hotel decide glory where heart surge victory often eager";

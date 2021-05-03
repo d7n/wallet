@@ -1,1 +1,1 @@
-var mnemonic = "buffalo blue private lake zebra release oyster crash snake volcano quality mixed";
+var mnemonic = "drift honey reform kite wild office orphan visa city pony meat ignore";

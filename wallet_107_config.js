@@ -1,1 +1,1 @@
-var mnemonic = "anger winter sand inherit perfect fade rapid input surge glance remove minimum";
+var mnemonic = "farm urge square build increase entire kitten curious popular wrong pilot grief";

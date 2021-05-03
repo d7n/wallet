@@ -1,1 +1,1 @@
-var mnemonic = "ghost protect tilt blur whale sleep market ankle august announce income vivid";
+var mnemonic = "army slim pen win arrange tissue write easily fluid lion net delay";

@@ -1,1 +1,1 @@
-var mnemonic = "donor carpet frog strong area gadget frost exercise noble head verify sleep";
+var mnemonic = "bring sick oyster notice wink first card kitchen depart flower surface trick";

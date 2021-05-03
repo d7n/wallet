@@ -1,1 +1,1 @@
-var mnemonic = "valve seminar rich child jeans alarm theory wasp slender anger soul kingdom";
+var mnemonic = "ripple alcohol water number coast try ceiling foil hen square decade fantasy";

@@ -1,1 +1,1 @@
-var mnemonic = "wine submit razor sail ivory island ranch oppose creek monkey hobby exile";
+var mnemonic = "menu wash cream drum vote burden vault alter cigar captain kiss awesome";

@@ -1,1 +1,1 @@
-var mnemonic = "smart actress duty output vehicle around explain gold mixed admit bargain gaze";
+var mnemonic = "predict demise panther you dirt oyster velvet sight drink token pretty paddle";

@@ -1,1 +1,1 @@
-var mnemonic = "agent curtain tiger autumn equal bunker rescue force weasel puzzle supreme rough";
+var mnemonic = "laundry under snack letter person paper slide garlic shaft pulse legend frost";

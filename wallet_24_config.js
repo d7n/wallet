@@ -1,1 +1,1 @@
-var mnemonic = "oblige cycle define place napkin hold clay remind jacket edit renew occur";
+var mnemonic = "edge blouse aspect ability profit large argue olive essence dog merit road";

@@ -1,1 +1,1 @@
-var mnemonic = "curtain bomb march best brown reveal drink wait sauce swallow plug apart";
+var mnemonic = "bulb coach child such can team stove electric drum ship fish reduce";

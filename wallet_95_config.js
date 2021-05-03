@@ -1,1 +1,1 @@
-var mnemonic = "exist deer dress voice solve cake base one inject salmon mystery obvious";
+var mnemonic = "release cool torch swing omit garden taxi oxygen wrist drink travel squeeze";

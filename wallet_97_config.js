@@ -1,1 +1,1 @@
-var mnemonic = "plastic shuffle sort income melody surprise hip describe devote verify mixture lion";
+var mnemonic = "marble bench goddess link seat medal beach outside awful pretty rent fossil";

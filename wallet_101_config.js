@@ -1,1 +1,1 @@
-var mnemonic = "payment hamster extra guitar sign scrap inhale outdoor company vibrant first peace";
+var mnemonic = "agent force ice carbon hero crystal change pill wild biology celery beauty";

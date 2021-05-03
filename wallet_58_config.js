@@ -1,1 +1,1 @@
-var mnemonic = "palace run spawn unfair flavor ridge lecture snap giant belt thunder chest";
+var mnemonic = "bus prepare radio dragon stock lesson mention reveal exit range auto bomb";

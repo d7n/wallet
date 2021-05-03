@@ -1,1 +1,1 @@
-var mnemonic = "rice helmet tired conduct hazard spend arrow hamster effort tennis skull divorce";
+var mnemonic = "team person tank sail leave connect sunny maple review sketch defense minor";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery write endless wrap broken virtual mobile warrior salt toast diary face";
+var mnemonic = "mystery potato carpet useless bunker crawl pig mouse waste crop space echo";

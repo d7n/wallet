@@ -1,1 +1,1 @@
-var mnemonic = "must margin burst empower park reunion egg payment loyal lounge retire slice";
+var mnemonic = "real hood uniform rail country pudding this drink syrup more false carbon";

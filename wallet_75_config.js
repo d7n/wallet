@@ -1,1 +1,1 @@
-var mnemonic = "sponsor time inner luggage coral cherry horn client snack educate usual gold";
+var mnemonic = "security image program educate install target hammer miracle practice rally cruise soda";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery health cycle umbrella ring panic spin dance wing glow kid remove";
+var mnemonic = "rookie put rude coach spray sheriff ketchup strong song family fork hub";

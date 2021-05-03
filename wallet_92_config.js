@@ -1,1 +1,1 @@
-var mnemonic = "until twenty lizard basket amount husband slender market gesture rhythm prevent hover";
+var mnemonic = "busy cancel fold very dose old stove possible recipe flush nose hello";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol dinosaur river bleak oven satoshi gossip donor pet slim run column";
+var mnemonic = "clip make height game once soul pull rich remove goddess endorse mask";

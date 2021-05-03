@@ -1,1 +1,1 @@
-var mnemonic = "confirm foster across tobacco crunch address palace eager suggest edit wall leisure";
+var mnemonic = "clown actual oxygen high buyer cash width once stone canyon number surface";

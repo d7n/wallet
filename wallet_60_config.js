@@ -1,1 +1,1 @@
-var mnemonic = "pitch gym spoon card artefact cotton enter sudden carbon voice fire mushroom";
+var mnemonic = "expose tuna dream identify trigger mountain undo into bind south panic mobile";

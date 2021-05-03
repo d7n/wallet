@@ -1,1 +1,1 @@
-var mnemonic = "lock post gasp clever hard manage master once rescue garden mango engage";
+var mnemonic = "sick replace equip north conduct unfair menu brother rare eye receive render";

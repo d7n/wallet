@@ -1,1 +1,1 @@
-var mnemonic = "split banner valve north breeze pepper roof race hope uncover vicious crater";
+var mnemonic = "garment ancient forum cigar speak almost resource hawk hospital frost bread pattern";

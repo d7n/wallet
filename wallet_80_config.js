@@ -1,1 +1,1 @@
-var mnemonic = "trap orchard nothing resist quality merry express antenna sting universe dirt sense";
+var mnemonic = "umbrella elevator tribe fresh crystal can letter bean that judge syrup spike";

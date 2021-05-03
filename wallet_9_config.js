@@ -1,1 +1,1 @@
-var mnemonic = "abstract wood fade pill blast syrup march near train famous left machine";
+var mnemonic = "female improve snack diet hamster slam start object floor region ugly glass";

@@ -1,1 +1,1 @@
-var mnemonic = "witness century sail disease fiber tortoise trumpet regret auto company gold draft";
+var mnemonic = "symbol hamster renew pulse pen sponsor reflect wash cluster stomach soccer lucky";

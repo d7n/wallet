@@ -1,1 +1,1 @@
-var mnemonic = "auto undo trade text assist exercise enter kite because there shy addict";
+var mnemonic = "glove clip grant invest legal knife later arena aspect imitate stool mother";

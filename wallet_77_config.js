@@ -1,1 +1,1 @@
-var mnemonic = "upper rabbit coyote jazz release crime assault brick section deny swap suspect";
+var mnemonic = "chronic weapon relax defense creek measure sunset monkey erupt palace rifle sword";

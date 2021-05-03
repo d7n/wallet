@@ -1,1 +1,1 @@
-var mnemonic = "habit height buddy couch suggest chimney similar remember genius swap crush gasp";
+var mnemonic = "ginger guilt same tumble toddler style shoulder hub stand hope fix network";

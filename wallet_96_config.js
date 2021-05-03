@@ -1,1 +1,1 @@
-var mnemonic = "salt garment human fame rough hurdle joy slot lion middle plate canal";
+var mnemonic = "guide urge valve palm online brother video mercy solve tooth matter insane";

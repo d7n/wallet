@@ -1,1 +1,1 @@
-var mnemonic = "maximum armed canoe miss recipe blind job direct rabbit laundry banana major";
+var mnemonic = "wet expect report envelope what gap evidence sick work fashion chapter novel";

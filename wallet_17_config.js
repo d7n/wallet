@@ -1,1 +1,1 @@
-var mnemonic = "barrel remove mosquito fish snap truly edge input bomb feed build bubble";
+var mnemonic = "whisper fever addict image use clown dumb light tide edit phone tell";

@@ -1,1 +1,1 @@
-var mnemonic = "trouble bench ivory army final bottom sun orbit marriage snack fitness crush";
+var mnemonic = "fire annual sorry pear furnace april direct major exhaust oil coffee bless";

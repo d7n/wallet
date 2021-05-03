@@ -1,1 +1,1 @@
-var mnemonic = "arrive clean tobacco axis often dice baby idle strong mutual hold sausage";
+var mnemonic = "busy popular penalty alien sort apology castle steel call business aisle ride";

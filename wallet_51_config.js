@@ -1,1 +1,1 @@
-var mnemonic = "dune ignore fit place food game upgrade police cinnamon wage main mimic";
+var mnemonic = "pretty industry ski envelope jealous engage party negative evoke mango youth elite";

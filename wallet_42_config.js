@@ -1,1 +1,1 @@
-var mnemonic = "scene shove combine thing whale axis visit neutral segment plunge undo unfair";
+var mnemonic = "chief flower turn harbor squeeze they meadow debate empty capital bench vapor";

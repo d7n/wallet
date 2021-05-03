@@ -1,1 +1,1 @@
-var mnemonic = "gate tourist digital together awful transfer donate erode road never police blur";
+var mnemonic = "swamp wrong toast half slide grid boring tornado animal float nut cushion";

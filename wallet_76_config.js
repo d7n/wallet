@@ -1,1 +1,1 @@
-var mnemonic = "sign street keen nest fox law replace similar athlete humor exit width";
+var mnemonic = "indoor earth ripple hand arrive pledge grab kid gentle divide size pigeon";

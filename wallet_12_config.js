@@ -1,1 +1,1 @@
-var mnemonic = "sphere broccoli paper marble vintage manage trim fever waste pioneer tattoo emotion";
+var mnemonic = "retreat nest link leg young saddle empower peasant input light pave found";

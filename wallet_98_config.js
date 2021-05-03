@@ -1,1 +1,1 @@
-var mnemonic = "lottery legal blush survey coach curtain peanut clever attract crane know bachelor";
+var mnemonic = "ask unaware sea emerge indicate matrix since traffic father plate rude expose";

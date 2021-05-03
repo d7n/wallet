@@ -1,1 +1,1 @@
-var mnemonic = "rib medal crane bachelor accident train food perfect flee sheriff sense want";
+var mnemonic = "sun isolate video stove asthma unit rocket hammer ramp ripple liquid mouse";

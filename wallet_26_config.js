@@ -1,1 +1,1 @@
-var mnemonic = "mass kingdom swap ripple document vintage tattoo actress artist visa wrist describe";
+var mnemonic = "conduct angry shine silver apology arm intact frozen glimpse nerve opinion country";

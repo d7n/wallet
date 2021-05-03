@@ -1,1 +1,1 @@
-var mnemonic = "over day submit tail insect aspect lock logic indicate city draft supreme";
+var mnemonic = "kidney punch hunt reduce ball gadget raw derive dice bless joy gravity";

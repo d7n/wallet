@@ -1,1 +1,1 @@
-var mnemonic = "cattle sting agent lens scene truck orphan yellow example robust arm battle";
+var mnemonic = "wonder section wine hunt race curious crew execute result obtain angry problem";

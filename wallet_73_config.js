@@ -1,1 +1,1 @@
-var mnemonic = "satoshi oyster lawsuit spread gift energy only journey sibling divorce dream kingdom";
+var mnemonic = "scissors canvas timber drop mosquito glory observe cave budget fish trigger annual";

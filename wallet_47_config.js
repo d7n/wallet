@@ -1,1 +1,1 @@
-var mnemonic = "office gentle loan topple term surge siege smart inner example mother robust";
+var mnemonic = "resemble deer copy oblige odor shy tray exchange people slot miracle remain";

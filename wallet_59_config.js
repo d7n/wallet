@@ -1,1 +1,1 @@
-var mnemonic = "cable acquire broken celery hunt there cook labor marble spy rural mistake";
+var mnemonic = "round range foil female grass stage inflict enemy wash mix twin loud";

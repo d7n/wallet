@@ -1,1 +1,1 @@
-var mnemonic = "pact december mistake garment box combine tissue daring liar bounce extra good";
+var mnemonic = "exhibit hurdle girl sail sponsor addict luxury stadium evidence dice divert sunset";

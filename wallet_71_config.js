@@ -1,1 +1,1 @@
-var mnemonic = "before wide scare library vital column interest sample thunder setup sea endless";
+var mnemonic = "grace viable illness auto better catalog major toss enter clay skin language";

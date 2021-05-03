@@ -1,1 +1,1 @@
-var mnemonic = "culture visa file reward egg cousin acoustic slam fantasy north mail depend";
+var mnemonic = "swift orient camera finish shoot process prepare salon genuine junk tuition hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra album skate favorite cat team prevent siege heart dress devote cement";
+var mnemonic = "comfort access struggle salt shy limit chase silver return fatal thumb gas";

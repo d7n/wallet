@@ -1,1 +1,1 @@
-var mnemonic = "dirt idle debris yellow shuffle volcano frown decide grit canal junk simple";
+var mnemonic = "view bacon deny little cigar relief sunset flat sample burden reason quiz";

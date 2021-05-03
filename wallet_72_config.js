@@ -1,1 +1,1 @@
-var mnemonic = "divert group axis extend mind glad mix cause claw gadget old accident";
+var mnemonic = "chuckle thing exotic skull key alarm rack ice network rally hospital sun";

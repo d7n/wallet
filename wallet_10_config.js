@@ -1,1 +1,1 @@
-var mnemonic = "sand mixture response ready tiny path happy skill eagle perfect tell civil";
+var mnemonic = "custom utility drama ripple basic mountain silk this cushion room gloom grit";

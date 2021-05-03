@@ -1,1 +1,1 @@
-var mnemonic = "general any buyer pilot topple quick below photo muscle clock ecology carbon";
+var mnemonic = "also yellow frozen rail pledge mutual tooth curious mask next slim dynamic";

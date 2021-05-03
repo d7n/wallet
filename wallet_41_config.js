@@ -1,1 +1,1 @@
-var mnemonic = "antenna forest hard outside steel nasty observe ensure motion reform traffic glide";
+var mnemonic = "tape avocado tray laptop outer turn code random parrot borrow robot fruit";

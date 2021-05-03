@@ -1,1 +1,1 @@
-var mnemonic = "omit deal patrol wing spice card trigger police hidden ball sport blue";
+var mnemonic = "open leave hint erode drill fly truth share intact phrase connect culture";

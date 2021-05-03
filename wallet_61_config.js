@@ -1,1 +1,1 @@
-var mnemonic = "culture net cave cousin medal jelly admit magnet axis slim ride stove";
+var mnemonic = "bless clump focus thought inner laptop similar device legend aerobic wrong depend";

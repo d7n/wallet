@@ -1,1 +1,1 @@
-var mnemonic = "usage impact erupt now check cave average world ring they tornado rebuild";
+var mnemonic = "report response entire rate absent combine bulb donor you zoo utility echo";

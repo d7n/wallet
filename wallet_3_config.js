@@ -1,1 +1,1 @@
-var mnemonic = "song broccoli dry replace column fever april ketchup lottery inherit trade tissue";
+var mnemonic = "museum curtain sad good purse adult veteran resemble pear uphold can hazard";

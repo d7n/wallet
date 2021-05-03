@@ -1,1 +1,1 @@
-var mnemonic = "wealth arctic wish hockey alert arch island couple patrol laptop clever vacuum";
+var mnemonic = "wealth sword region faith list foster slight scheme depth gallery foster rain";

@@ -1,1 +1,1 @@
-var mnemonic = "divide charge hold space december iron carry much blouse panther shiver boil";
+var mnemonic = "fat vault lady wrist cable around jelly story word repair gadget logic";
