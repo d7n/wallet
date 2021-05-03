@@ -1,1 +1,1 @@
-var mnemonic = "diamond say almost song type first gesture round shuffle hundred punch confirm";
+var mnemonic = "steel viable syrup garlic list scrap bundle february mail address usual chef";

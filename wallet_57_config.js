@@ -1,1 +1,1 @@
-var mnemonic = "private amused candy enjoy bunker wheat cousin already today case parade similar";
+var mnemonic = "glass cake cover cake race across early sketch option humble cactus front";

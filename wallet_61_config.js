@@ -1,1 +1,1 @@
-var mnemonic = "tribe fall crowd spare shallow head actual metal control effort grief sleep";
+var mnemonic = "glimpse raven oak sort seven inside chronic husband craft ask switch cram";

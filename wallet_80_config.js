@@ -1,1 +1,1 @@
-var mnemonic = "panther forest hurdle scissors finger oval ensure love warm month adapt tomato";
+var mnemonic = "gospel truly filter average notable giraffe birth three walk brave arctic inner";

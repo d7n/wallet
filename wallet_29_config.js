@@ -1,1 +1,1 @@
-var mnemonic = "evoke garage hero moral tenant before corn tool give innocent ethics category";
+var mnemonic = "mushroom dice identify sustain absurd seminar idea bread deny stomach duty unhappy";

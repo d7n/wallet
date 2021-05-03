@@ -1,1 +1,1 @@
-var mnemonic = "coin memory solar bleak churn ripple soul loud secret version lesson match";
+var mnemonic = "lady gospel code pause foil seek web crowd potato setup proud salmon";

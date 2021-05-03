@@ -1,1 +1,1 @@
-var mnemonic = "soup neither amateur key fan purpose fold spot like best tragic way";
+var mnemonic = "clay collect dove simple blossom output market doll note silent journey any";

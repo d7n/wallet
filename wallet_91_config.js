@@ -1,1 +1,1 @@
-var mnemonic = "drop tail police sure business snap chuckle give fitness monster juice bicycle";
+var mnemonic = "frequent borrow isolate hip expect sweet public impose sand fold captain exile";

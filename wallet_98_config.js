@@ -1,1 +1,1 @@
-var mnemonic = "curtain popular price predict income donor isolate rhythm tonight pledge bulb oppose";
+var mnemonic = "cousin illness garage usual young science student finish simple whip citizen ensure";

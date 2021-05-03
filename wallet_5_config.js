@@ -1,1 +1,1 @@
-var mnemonic = "inside blossom car truly song oyster during dwarf exercise awake deliver purse";
+var mnemonic = "pepper used peace pattern west vacant word dad embrace utility combine race";

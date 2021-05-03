@@ -1,1 +1,1 @@
-var mnemonic = "doctor lesson clutch affair sight behind volume rail plunge stand project drive";
+var mnemonic = "style basic remember option lawn episode reunion lonely guard blue winter resist";

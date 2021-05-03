@@ -1,1 +1,1 @@
-var mnemonic = "also isolate spend mixture appear question cause casino manual tumble combine frame";
+var mnemonic = "abstract hungry reward teach dust reduce trash riot wild rare rabbit zoo";

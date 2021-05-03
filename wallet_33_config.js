@@ -1,1 +1,1 @@
-var mnemonic = "exist snap direct wheel expose delay run grant game bubble host key";
+var mnemonic = "below any quiz dirt dish train can slam dismiss leopard keep correct";

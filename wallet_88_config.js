@@ -1,1 +1,1 @@
-var mnemonic = "fashion canoe pool home web near pluck vocal strong good blue machine";
+var mnemonic = "report tail nuclear cactus response sponsor hospital damage decline merit gloom donate";

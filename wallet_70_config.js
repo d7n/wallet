@@ -1,1 +1,1 @@
-var mnemonic = "gorilla tattoo dose stumble often warrior mixed slide boil father today hat";
+var mnemonic = "rifle era tip pink absorb subway alert rebel stock stumble resource powder";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb oven female pave domain device midnight vacuum kid arrest forum dune";
+var mnemonic = "hobby benefit mercy patient casino emotion fun alarm gown salon wisdom pattern";

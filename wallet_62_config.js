@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog lend expose absent local secret close dry group pen punch gym";
+var mnemonic = "bind benefit muffin latin lend mom rail dentist cotton lava uniform nasty";

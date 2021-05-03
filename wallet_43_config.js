@@ -1,1 +1,1 @@
-var mnemonic = "avoid donkey engine motor jealous view snack race humble true patrol cook";
+var mnemonic = "shoot evil collect initial filter problem mouse trick flame normal seven tide";

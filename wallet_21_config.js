@@ -1,1 +1,1 @@
-var mnemonic = "verb source element clump lizard twelve mule promote accident street that host";
+var mnemonic = "hen immune online heavy shine obscure chat cupboard million tank wave voice";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze inhale voyage liar shy ball scout heavy tool version napkin tiger";
+var mnemonic = "slot globe man announce punch echo timber napkin token caution train tube";

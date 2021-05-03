@@ -1,1 +1,1 @@
-var mnemonic = "fine desk toy sibling drastic put trend cruise divide harvest input fuel";
+var mnemonic = "birth private rhythm skill pepper text spray assume galaxy rotate glare dance";

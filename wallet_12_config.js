@@ -1,1 +1,1 @@
-var mnemonic = "feel leg metal grid narrow laptop simple useless quarter cement bracket napkin";
+var mnemonic = "seed dice husband economy gauge shrug tooth copper resist slush glove expose";

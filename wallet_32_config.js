@@ -1,1 +1,1 @@
-var mnemonic = "diary wedding swallow hundred recycle agree general awkward liar share advance inform";
+var mnemonic = "angle young soda creek tornado century tourist just exact arctic display drink";

@@ -1,1 +1,1 @@
-var mnemonic = "axis lava magnet live tilt fabric harbor essence oil trade curtain fever";
+var mnemonic = "shop veteran agree spin know industry develop funny demand language cigar refuse";

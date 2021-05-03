@@ -1,1 +1,1 @@
-var mnemonic = "edit evolve sight actress focus repeat artefact collect ahead breeze agent beef";
+var mnemonic = "destroy attract vibrant fiber proof plug diagram delay total giraffe exist junior";

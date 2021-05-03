@@ -1,1 +1,1 @@
-var mnemonic = "analyst run outdoor height excuse frost deliver music phone nose prosper write";
+var mnemonic = "ticket train erode endless sell brisk obey short warfare summer lesson drop";

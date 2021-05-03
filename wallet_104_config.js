@@ -1,1 +1,1 @@
-var mnemonic = "crew danger swap private laugh chronic fragile strong method bicycle visa relief";
+var mnemonic = "motion ghost pull wool inch cash strike genre quantum cook old zebra";

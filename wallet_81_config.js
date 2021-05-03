@@ -1,1 +1,1 @@
-var mnemonic = "lunch dish cute shock consider mushroom remind inherit vanish stone shove hold";
+var mnemonic = "champion citizen tackle benefit view never corn grant timber frown bean slam";

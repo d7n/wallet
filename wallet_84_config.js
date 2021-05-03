@@ -1,1 +1,1 @@
-var mnemonic = "spike tip ranch between lion diary any muffin elevator square afford net";
+var mnemonic = "nut man letter usual inject ensure evolve eye dance hold range shrug";

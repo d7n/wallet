@@ -1,1 +1,1 @@
-var mnemonic = "mix detect like road soldier during leopard hand glass october sorry blanket";
+var mnemonic = "ski father garden skate word switch perfect legend oblige two pulp raven";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster student camera decline mean reunion transfer mansion waste hen knife legal";
+var mnemonic = "table puzzle idle orient judge solve govern network young typical female person";

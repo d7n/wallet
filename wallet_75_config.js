@@ -1,1 +1,1 @@
-var mnemonic = "speed interest umbrella marriage stage diesel genius bounce text lava winner toddler";
+var mnemonic = "later damp twelve camp mirror cry cash wheel magnet before air barrel";

@@ -1,1 +1,1 @@
-var mnemonic = "host turtle umbrella dad fault coffee response forest excite floor zebra harbor";
+var mnemonic = "sustain copper green swamp west same spin visit lecture nothing dance kangaroo";

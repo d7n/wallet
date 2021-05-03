@@ -1,1 +1,1 @@
-var mnemonic = "physical mandate state knee client awesome decrease draw road safe absurd survey";
+var mnemonic = "gun subject jar afford sense fit unaware rabbit few identify coffee ensure";

@@ -1,1 +1,1 @@
-var mnemonic = "useless clean focus auction airport people year struggle impact action write assume";
+var mnemonic = "wash ramp fantasy push ocean ramp answer club awful host patch drum";

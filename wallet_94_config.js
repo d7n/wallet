@@ -1,1 +1,1 @@
-var mnemonic = "bubble fee outer slot system tornado space truly amount monster window vast";
+var mnemonic = "problem release skate execute shrug oppose frown best again pretty hand tip";

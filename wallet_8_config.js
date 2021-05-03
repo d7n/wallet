@@ -1,1 +1,1 @@
-var mnemonic = "sign globe sure during upset wreck edge artefact crime off wide skill";
+var mnemonic = "team antenna swap bubble feature wine tray welcome fitness close birth merge";

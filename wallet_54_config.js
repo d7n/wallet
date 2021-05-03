@@ -1,1 +1,1 @@
-var mnemonic = "peasant fabric special work address siege seminar attitude betray scrub tuition junior";
+var mnemonic = "visual amused assume security ritual sign table width strong ignore raven divide";

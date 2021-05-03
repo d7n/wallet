@@ -1,1 +1,1 @@
-var mnemonic = "major dolphin box season away glare forward episode record essence capable warm";
+var mnemonic = "neglect defy glad cost friend wood town audit survey buyer firm apart";

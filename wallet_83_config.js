@@ -1,1 +1,1 @@
-var mnemonic = "make advance kite current soap angry tilt model struggle myself tuna march";
+var mnemonic = "disorder list dice lunch return tomato ankle solution antique ancient gentle maze";

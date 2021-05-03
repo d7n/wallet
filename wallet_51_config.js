@@ -1,1 +1,1 @@
-var mnemonic = "mule deny possible dune mail hotel mom degree scare across obscure shield";
+var mnemonic = "reduce token half soccer museum lecture regret danger journey trade spice fan";

@@ -1,1 +1,1 @@
-var mnemonic = "normal secret flame hedgehog verify foster lazy tortoise okay usual price cute";
+var mnemonic = "fetch shell master margin ecology trip stool edge ordinary riot similar fox";

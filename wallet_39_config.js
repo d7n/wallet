@@ -1,1 +1,1 @@
-var mnemonic = "scout obey merry easy palm dilemma pattern clip weird car wife live";
+var mnemonic = "neutral scatter fabric element admit left sun grape mix admit weird tornado";

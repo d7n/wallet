@@ -1,1 +1,1 @@
-var mnemonic = "chicken episode lesson twist cross between fury inhale write tool reward mansion";
+var mnemonic = "improve tiger require window economy olympic media spawn music peanut bless degree";

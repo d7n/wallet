@@ -1,1 +1,1 @@
-var mnemonic = "radio install dismiss spring reunion denial good lunar vehicle fault fabric gaze";
+var mnemonic = "retire latin course desert rival when crunch bundle dial response soon absent";

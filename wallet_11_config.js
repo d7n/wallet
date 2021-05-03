@@ -1,1 +1,1 @@
-var mnemonic = "alarm have tape orchard chair tower math biology slush dragon pair easily";
+var mnemonic = "clock provide april concert like impact sentence six spider quote sail alert";

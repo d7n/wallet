@@ -1,1 +1,1 @@
-var mnemonic = "pledge trap charge uncle scene blood casual someone purpose obvious report loan";
+var mnemonic = "cricket flush nature dutch element chapter olympic gun piano piece route abandon";

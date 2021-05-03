@@ -1,1 +1,1 @@
-var mnemonic = "kite guess gloom retreat plastic pond afford know noble night page machine";
+var mnemonic = "volume enough stool post museum sudden warfare truck tennis quality physical slogan";

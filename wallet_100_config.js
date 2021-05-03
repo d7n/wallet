@@ -1,1 +1,1 @@
-var mnemonic = "idea vote math recipe visit giraffe trash skirt wave bubble lend seven";
+var mnemonic = "envelope hurt pretty beef clump property dumb trap shift various father resource";

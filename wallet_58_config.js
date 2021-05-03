@@ -1,1 +1,1 @@
-var mnemonic = "index want piano essence hope degree festival bike face issue tuition aisle";
+var mnemonic = "icon cabin kiss outside random scrub walnut angry concert hole mule witness";

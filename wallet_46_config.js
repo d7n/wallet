@@ -1,1 +1,1 @@
-var mnemonic = "quality movie absorb genius elder champion eye weasel capable settle train child";
+var mnemonic = "laugh few limb stick salute phrase skirt bottom author hip cliff party";

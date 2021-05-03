@@ -1,1 +1,1 @@
-var mnemonic = "power crowd hold youth turkey truly reunion soon frozen tag believe sight";
+var mnemonic = "ribbon grant setup great spice census wing ready mercy pull warfare bread";

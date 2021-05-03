@@ -1,1 +1,1 @@
-var mnemonic = "victory ride elite feed limit wolf length shed shine please wool search";
+var mnemonic = "slush joy ocean tail hurry sand stock exile drop aim boat design";

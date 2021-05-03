@@ -1,1 +1,1 @@
-var mnemonic = "close loan sudden broken sweet sudden adult magnet salad ten like clap";
+var mnemonic = "gallery price normal duck echo nurse lyrics corn cover shoe shop original";

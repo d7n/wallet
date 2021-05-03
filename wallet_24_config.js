@@ -1,1 +1,1 @@
-var mnemonic = "decide rebel forest surprise shuffle legal mule matrix giant fit broccoli skin";
+var mnemonic = "man keep object differ bicycle fork require myth multiply life welcome tissue";

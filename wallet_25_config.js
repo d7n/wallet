@@ -1,1 +1,1 @@
-var mnemonic = "penalty skate solar push involve speak total napkin flight appear series purse";
+var mnemonic = "rude wrestle world night situate acquire smooth onion urge calm around ride";

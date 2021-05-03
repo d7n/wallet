@@ -1,1 +1,1 @@
-var mnemonic = "toilet mobile jacket force fault sphere crumble year rose grit limb other";
+var mnemonic = "tattoo ill journey release valve next swim wolf order bomb search card";

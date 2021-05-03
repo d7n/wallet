@@ -1,1 +1,1 @@
-var mnemonic = "smart sphere fever embody weapon frost holiday secret assume today ignore skate";
+var mnemonic = "inspire doctor gas any stuff network black garbage spring regular seed brain";

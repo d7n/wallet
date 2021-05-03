@@ -1,1 +1,1 @@
-var mnemonic = "slab anger concert section update bless glad clap shove couple symbol idea";
+var mnemonic = "abuse dial slogan foam knock alter patrol dove weasel joke dynamic hire";

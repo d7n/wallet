@@ -1,1 +1,1 @@
-var mnemonic = "width end discover man label clerk edit cause review arrest host buddy";
+var mnemonic = "black aspect fiscal discover strong swear odor mind stomach wasp upgrade private";

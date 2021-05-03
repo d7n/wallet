@@ -1,1 +1,1 @@
-var mnemonic = "blossom stay million initial promote credit fold force search six crime wet";
+var mnemonic = "duty again icon survey you trade trend name skin eagle unfair sunset";

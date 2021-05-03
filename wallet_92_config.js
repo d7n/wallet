@@ -1,1 +1,1 @@
-var mnemonic = "stand cancel shoot equal impulse verify stuff glow document beyond adapt diesel";
+var mnemonic = "lesson violin capable before exclude fade cross erupt saddle tower ability tuition";

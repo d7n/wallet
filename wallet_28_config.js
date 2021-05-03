@@ -1,1 +1,1 @@
-var mnemonic = "entire since fantasy enforce thank famous topple gesture embark rotate cart symbol";
+var mnemonic = "ozone alarm type angle wife grain wrap panther similar collect asset shallow";

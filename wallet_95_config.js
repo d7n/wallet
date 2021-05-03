@@ -1,1 +1,1 @@
-var mnemonic = "tourist elite peace invest love capable miss auction table rail fatigue day";
+var mnemonic = "sibling ring pepper photo mutual speak business intact crash remain fun spell";

@@ -1,1 +1,1 @@
-var mnemonic = "define million animal trick business toddler lunch access clump chest this trip";
+var mnemonic = "multiply betray siren emerge insane about surround possible size syrup shed raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor abandon denial bounce thought weekend sort genuine able run symbol walk";
+var mnemonic = "drink come tumble bitter have mobile oblige speed two antique whisper shield";

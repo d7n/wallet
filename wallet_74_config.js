@@ -1,1 +1,1 @@
-var mnemonic = "erode tube huge rare legend black stadium where judge wife badge disorder";
+var mnemonic = "summer bar post leaf near edge pitch civil oak snake neck antique";

@@ -1,1 +1,1 @@
-var mnemonic = "raw idle loyal capital luxury pride usage task huge adjust athlete kind";
+var mnemonic = "dish vendor actress alcohol best gate people bounce piece settle rude inherit";

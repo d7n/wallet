@@ -1,1 +1,1 @@
-var mnemonic = "kite brick practice aware radio person that weird sunny orange claw fashion";
+var mnemonic = "door floor hollow shoe cement very creek discover pill muscle fog super";

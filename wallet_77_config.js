@@ -1,1 +1,1 @@
-var mnemonic = "clock victory tuna quick joy interest coach slow horror grab avocado field";
+var mnemonic = "response squirrel coil raw advance outer scheme laptop run fury tree library";

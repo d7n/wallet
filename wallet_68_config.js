@@ -1,1 +1,1 @@
-var mnemonic = "hockey rifle phrase spin accident nation butter then eight mix usage crazy";
+var mnemonic = "vapor online hero song great truck drip reunion matrix grass choose alcohol";

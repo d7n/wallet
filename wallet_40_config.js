@@ -1,1 +1,1 @@
-var mnemonic = "crawl viable oxygen scrub true shine kick book trash whale beef rally";
+var mnemonic = "depart parrot sentence empty guitar gaze jar net play detect float useful";

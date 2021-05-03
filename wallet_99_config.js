@@ -1,1 +1,1 @@
-var mnemonic = "ticket ramp supply mass sister rate people husband mutual clerk evolve symptom";
+var mnemonic = "amazing treat actual valve angle top clay area elephant reject voice excuse";

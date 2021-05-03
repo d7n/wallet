@@ -1,1 +1,1 @@
-var mnemonic = "limit shallow loop desert reform gadget ball merit void follow weird chief";
+var mnemonic = "thing pole exhaust thought vital frozen busy matter vital leave gentle energy";

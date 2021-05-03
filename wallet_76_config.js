@@ -1,1 +1,1 @@
-var mnemonic = "present club region actual below industry grain duty enemy cruise cube pilot";
+var mnemonic = "balance great ladder great angle lobster brave reunion ancient defense decrease target";

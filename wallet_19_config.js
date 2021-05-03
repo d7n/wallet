@@ -1,1 +1,1 @@
-var mnemonic = "frog casino left tobacco earth culture fine conduct ketchup under grape toddler";
+var mnemonic = "finger inform romance tree category category solid wrong season mass spike whip";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat hawk fun seven become around shiver journey scrap fame save apology";
+var mnemonic = "cliff very connect voyage expire eager regular obscure seminar exit battle hurdle";

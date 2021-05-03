@@ -1,1 +1,1 @@
-var mnemonic = "swap rebel fringe canyon oblige flag simple churn finger easy scheme regret";
+var mnemonic = "airport body luxury index general run boil siege mutual name warrior seed";

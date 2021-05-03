@@ -1,1 +1,1 @@
-var mnemonic = "breeze finger burger around explain hungry cluster dream bread extend plastic lecture";
+var mnemonic = "group bomb scorpion antenna auto elevator blame true pear try curtain inspire";

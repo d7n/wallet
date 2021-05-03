@@ -1,1 +1,1 @@
-var mnemonic = "engage logic focus lunch judge drop hero elite curious online choose topic";
+var mnemonic = "sick item engine draw scrub suggest erode blame admit penalty final diagram";

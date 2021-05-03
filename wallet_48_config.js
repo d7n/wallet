@@ -1,1 +1,1 @@
-var mnemonic = "practice lemon gym pause pear magnet tiny rain all alone seat flight";
+var mnemonic = "clean mammal process deposit pen tenant depend utility wrist casual ship ensure";

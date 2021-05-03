@@ -1,1 +1,1 @@
-var mnemonic = "drill robust road govern robot target rice print visa mind craft festival";
+var mnemonic = "tennis march wrong horn gentle try jazz interest track exotic payment find";

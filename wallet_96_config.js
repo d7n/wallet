@@ -1,1 +1,1 @@
-var mnemonic = "gospel bulb kingdom measure salad fever bacon need cram head diesel abstract";
+var mnemonic = "panic topple staff disease boil cruel either sausage wreck inject curve have";

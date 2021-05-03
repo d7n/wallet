@@ -1,1 +1,1 @@
-var mnemonic = "give culture blue pledge joy razor start thumb kitten hair post maid";
+var mnemonic = "advance segment appear squeeze rural bonus dentist phone have false blast vapor";

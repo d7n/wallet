@@ -1,1 +1,1 @@
-var mnemonic = "skin enact sudden teach object absent novel garment kit connect twin cry";
+var mnemonic = "lend social icon inmate barrel peasant indicate finger ginger brush inject banner";

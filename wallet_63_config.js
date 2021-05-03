@@ -1,1 +1,1 @@
-var mnemonic = "stone describe harvest dish have result faculty dinosaur net also cabbage cinnamon";
+var mnemonic = "bird document upper fitness vacant tomato become stairs cruise scout tortoise offer";

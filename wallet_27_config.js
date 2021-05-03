@@ -1,1 +1,1 @@
-var mnemonic = "alert inch business sheriff section banana autumn erase bundle local width analyst";
+var mnemonic = "common cigar crush leaf wedding car hidden wrong alert park twist worry";
