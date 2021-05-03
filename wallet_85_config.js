@@ -1,1 +1,1 @@
-var mnemonic = "garlic habit across master utility wrist gravity huge shed message buffalo describe";
+var mnemonic = "belt dumb input stuff limit paddle sadness toilet find baby horn foam";

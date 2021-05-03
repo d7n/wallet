@@ -1,1 +1,1 @@
-var mnemonic = "junior inquiry impact struggle shallow grace damp area dance clutch aunt stomach";
+var mnemonic = "unveil hello teach input peanut drill tell trial shadow dirt toast stool";

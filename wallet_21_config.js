@@ -1,1 +1,1 @@
-var mnemonic = "copper elephant code crew coast cinnamon target usage all brave horse grab";
+var mnemonic = "silent repeat elbow rival notable hybrid hat visual achieve normal ostrich meat";

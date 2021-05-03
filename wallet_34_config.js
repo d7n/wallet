@@ -1,1 +1,1 @@
-var mnemonic = "amateur yellow impact weasel festival report garlic burst control spy top story";
+var mnemonic = "hour fossil fork subway evil else absent please vocal tide adapt enact";

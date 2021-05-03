@@ -1,1 +1,1 @@
-var mnemonic = "soccer pluck return deer hazard scout fiber faith tide sing plate column";
+var mnemonic = "attack express barrel ribbon struggle drill board shock club gesture damp bread";

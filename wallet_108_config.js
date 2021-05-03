@@ -1,1 +1,1 @@
-var mnemonic = "hybrid stadium twist garden suspect custom oyster earth desk buffalo figure opinion";
+var mnemonic = "fever better office record bid car duck middle distance glide wrist note";

@@ -1,1 +1,1 @@
-var mnemonic = "helmet latin buddy then become december version island mountain bounce dove blade";
+var mnemonic = "office solar risk usage same cruel affair steak else ladder retire logic";

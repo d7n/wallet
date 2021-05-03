@@ -1,1 +1,1 @@
-var mnemonic = "rule change eye long river opinion impulse nation scrub absent toy erupt";
+var mnemonic = "car violin party follow gauge clinic noise skate banner venue asset more";

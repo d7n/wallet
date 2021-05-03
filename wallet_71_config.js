@@ -1,1 +1,1 @@
-var mnemonic = "knife heart atom faith jump leopard cement dinner flag taste curious talk";
+var mnemonic = "sell unaware castle immune price mosquito leaf certain copper agree clock quiz";

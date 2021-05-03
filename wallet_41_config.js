@@ -1,1 +1,1 @@
-var mnemonic = "win spin convince wish pottery warrior unknown eternal horn lens antenna sort";
+var mnemonic = "flame reopen coconut flame clog wagon suffer wall gold damage blind absurd";

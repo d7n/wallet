@@ -1,1 +1,1 @@
-var mnemonic = "little lyrics ring various summer cage obvious crater tribe amazing scrub shiver";
+var mnemonic = "burden maple stool beef cinnamon room sunset hover maximum dynamic east tent";

@@ -1,1 +1,1 @@
-var mnemonic = "bless similar spike essay wagon agree picture banana crop turtle isolate fence";
+var mnemonic = "oyster train great wet quarter flush whip hockey hybrid junk snake frown";

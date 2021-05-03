@@ -1,1 +1,1 @@
-var mnemonic = "leader dish deliver wage holiday voyage funny pottery merge vibrant exchange balcony";
+var mnemonic = "blood vocal half layer drastic account fade once nasty rib before pipe";

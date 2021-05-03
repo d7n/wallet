@@ -1,1 +1,1 @@
-var mnemonic = "video zero suggest escape economy list creek timber virtual hungry verb exotic";
+var mnemonic = "dash friend number unit double fire secret renew link improve next siren";

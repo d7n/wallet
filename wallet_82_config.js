@@ -1,1 +1,1 @@
-var mnemonic = "wood cradle quit kite describe hurt vacuum portion crash sound solar transfer";
+var mnemonic = "base merry cloud emerge cash anxiety flower train size glide deputy history";

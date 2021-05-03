@@ -1,1 +1,1 @@
-var mnemonic = "birth wheat swim nice roast year unfold shoulder paddle slab athlete flag";
+var mnemonic = "camp cousin type rotate gallery milk vehicle music awesome olympic fury night";

@@ -1,1 +1,1 @@
-var mnemonic = "suit story shift exercise shuffle utility rug duck obtain unusual crash caught";
+var mnemonic = "harsh basket hen lemon cruise woman rude lens drip between print electric";

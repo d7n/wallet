@@ -1,1 +1,1 @@
-var mnemonic = "rival picnic hurdle usual wish shoe beyond pumpkin nest magnet rhythm useful";
+var mnemonic = "ranch property cook ship unlock satoshi prize swap black appear early soon";

@@ -1,1 +1,1 @@
-var mnemonic = "fire pink valid gather hire omit easy sock melody staff manual girl";
+var mnemonic = "roof camera please luxury anxiety sleep vault horror cereal cake early curious";

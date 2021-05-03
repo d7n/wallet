@@ -1,1 +1,1 @@
-var mnemonic = "victory garlic kitten achieve submit loyal destroy brand modify produce better exist";
+var mnemonic = "receive inhale notice mushroom bike artefact oval loan version song castle game";

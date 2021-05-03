@@ -1,1 +1,1 @@
-var mnemonic = "cream off shoot eagle noise bullet soon tail laptop sound narrow exercise";
+var mnemonic = "vintage fatigue slim ride horn ceiling badge alert rack slim tube tone";

@@ -1,1 +1,1 @@
-var mnemonic = "police decide coyote innocent post imitate enroll vault right flavor clown glue";
+var mnemonic = "dance siege boss resemble neck admit phrase category solar expect long tide";

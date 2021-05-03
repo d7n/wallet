@@ -1,1 +1,1 @@
-var mnemonic = "fabric city more jaguar arrive between hire vapor glare sadness mom between";
+var mnemonic = "settle cousin rabbit word away famous clown umbrella business panther first patrol";

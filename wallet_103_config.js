@@ -1,1 +1,1 @@
-var mnemonic = "caught interest table lazy swim wage father thrive minute dizzy catch kitchen";
+var mnemonic = "catch negative army output session veteran horror victory pioneer iron tomato slush";

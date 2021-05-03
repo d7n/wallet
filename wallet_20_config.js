@@ -1,1 +1,1 @@
-var mnemonic = "remind limb song orbit certain fun march eye easily lottery common leader";
+var mnemonic = "lottery warfare lucky father yellow nose piece ketchup hire method loud like";

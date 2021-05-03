@@ -1,1 +1,1 @@
-var mnemonic = "figure eagle wolf grab churn december myself elite tooth chuckle hospital shed";
+var mnemonic = "bacon tonight rubber ring build attend million stone increase core flat parent";

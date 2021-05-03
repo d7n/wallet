@@ -1,1 +1,1 @@
-var mnemonic = "describe antenna build practice banner hurry usage wall mean genre limit floor";
+var mnemonic = "hotel excuse stereo summer edge fossil pretty hamster gate car catalog pole";

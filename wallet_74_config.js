@@ -1,1 +1,1 @@
-var mnemonic = "retreat arrest fix heavy supreme huge chaos banana alarm donkey athlete rate";
+var mnemonic = "idle source edit remove goose bomb repeat fan wave lobster nerve fame";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble frost victory cabbage brain dentist thought lesson together battle foster renew";
+var mnemonic = "useless shell sketch door tuna help tired coconut canoe grief during leaf";

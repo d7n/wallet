@@ -1,1 +1,1 @@
-var mnemonic = "lottery boat midnight harbor lunch cart fringe movie scene loop spice round";
+var mnemonic = "clever auto stick ivory sign shoot aware deliver mesh cream almost evoke";

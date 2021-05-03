@@ -1,1 +1,1 @@
-var mnemonic = "almost flower dad now filter gas arrest panic swing balcony hill anxiety";
+var mnemonic = "scissors seek grape drive else wrist party adult switch nest child clock";

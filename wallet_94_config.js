@@ -1,1 +1,1 @@
-var mnemonic = "inherit pistol blouse custom hammer pet bus boy similar response beauty what";
+var mnemonic = "bright achieve tide auto owner afford taxi similar leave barrel split metal";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey web world sunset amazing gas swift pumpkin shine flush security eager";
+var mnemonic = "protect armor rich dance amount foil client fade merry start copy merge";

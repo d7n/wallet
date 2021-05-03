@@ -1,1 +1,1 @@
-var mnemonic = "weasel twice brief fork vapor bus filter loyal coin drastic logic drastic";
+var mnemonic = "increase fly comic actual zero health kid coffee safe grape garlic scout";

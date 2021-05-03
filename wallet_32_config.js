@@ -1,1 +1,1 @@
-var mnemonic = "margin purse style affair document diet salon patch into install card dove";
+var mnemonic = "someone drive black mobile submit luxury sketch drive nuclear scrap strong pluck";

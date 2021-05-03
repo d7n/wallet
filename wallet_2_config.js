@@ -1,1 +1,1 @@
-var mnemonic = "sick culture talk able drama cheap fine salon half power lawn change";
+var mnemonic = "brain clinic soldier bridge train rifle vicious essay sphere fantasy swim unfold";

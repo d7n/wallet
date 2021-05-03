@@ -1,1 +1,1 @@
-var mnemonic = "million person gentle cycle motion aspect license seek poem until silly rookie";
+var mnemonic = "depart east purse kit physical insane assault giraffe fat note fortune shoulder";

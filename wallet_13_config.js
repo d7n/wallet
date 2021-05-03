@@ -1,1 +1,1 @@
-var mnemonic = "post multiply amateur enhance unlock exclude ripple sugar enroll lesson capable reopen";
+var mnemonic = "stick magic employ bicycle bicycle trend carbon forget best hockey pepper history";

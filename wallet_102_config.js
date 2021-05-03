@@ -1,1 +1,1 @@
-var mnemonic = "into age air pyramid tell tragic glimpse assume apart sword hollow firm";
+var mnemonic = "number unusual differ aim exact goose shaft kiwi move romance train grief";

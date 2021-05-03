@@ -1,1 +1,1 @@
-var mnemonic = "mountain price sign initial push submit utility basic spawn pupil disorder field";
+var mnemonic = "slogan ancient more salute various mystery wife pelican insane casual quit issue";

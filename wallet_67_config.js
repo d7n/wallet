@@ -1,1 +1,1 @@
-var mnemonic = "spy abuse balance muscle more neither rocket sustain combine penalty shrimp excite";
+var mnemonic = "pattern glance twin silent indoor coast doctor easy tongue amount gun famous";

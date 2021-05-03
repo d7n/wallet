@@ -1,1 +1,1 @@
-var mnemonic = "position right flash snap quit below unknown atom limit episode comic attract";
+var mnemonic = "company urge sunset aspect edit cross mechanic fabric delay gentle mystery ice";

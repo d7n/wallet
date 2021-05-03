@@ -1,1 +1,1 @@
-var mnemonic = "miss enlist space razor explain define goose must power vast general army";
+var mnemonic = "field debris social negative sustain degree moon give science route runway satoshi";

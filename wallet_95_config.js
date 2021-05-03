@@ -1,1 +1,1 @@
-var mnemonic = "kitten eight crush pull broken secret dial parent boy drama rookie giant";
+var mnemonic = "confirm reopen copper hat rain jealous desk crazy witness trigger soft message";

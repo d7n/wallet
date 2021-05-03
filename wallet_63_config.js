@@ -1,1 +1,1 @@
-var mnemonic = "multiply fiber bench duty run once describe enroll dawn casual lumber disease";
+var mnemonic = "guess upset citizen search father grain found hamster mad absent ecology mouse";

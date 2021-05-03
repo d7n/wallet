@@ -1,1 +1,1 @@
-var mnemonic = "venture clay aware uncover brisk worth unusual shallow alien mammal insect dinosaur";
+var mnemonic = "feed illness debate winter parent alien victory caught kit pill slight young";

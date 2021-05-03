@@ -1,1 +1,1 @@
-var mnemonic = "apple hobby stuff stove rough delay leader father unhappy input tennis rice";
+var mnemonic = "game victory purpose lottery calm physical family pet coin dentist claw fame";

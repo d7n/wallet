@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo bulb seed push source tomato icon sauce trumpet gossip agree dad";
+var mnemonic = "spread robust fragile payment asthma chef grow cereal egg crop maze struggle";

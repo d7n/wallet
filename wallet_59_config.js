@@ -1,1 +1,1 @@
-var mnemonic = "grain draft maze deal wild caution summer lab battle inmate connect risk";
+var mnemonic = "true swamp dress excite inflict host valley skirt pause pelican purchase scatter";

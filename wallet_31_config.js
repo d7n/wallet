@@ -1,1 +1,1 @@
-var mnemonic = "olive favorite custom near jelly ready wait shallow cargo ill diesel bone";
+var mnemonic = "adjust game whip maple bargain start pill stock dignity bracket horn piano";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong title radio school unfair vast warrior slight night claw chuckle review";
+var mnemonic = "catalog grocery bullet clay phrase hidden ensure general joy off grace balance";

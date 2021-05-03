@@ -1,1 +1,1 @@
-var mnemonic = "road crouch same excuse wife degree twelve sail type phone rack pull";
+var mnemonic = "typical emerge fantasy draw airport notice vital warfare snap sister example super";

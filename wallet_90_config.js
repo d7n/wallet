@@ -1,1 +1,1 @@
-var mnemonic = "teach slam narrow multiply choose tree great deposit result rebel recycle bleak";
+var mnemonic = "brush alien cycle nurse piece ginger cactus friend gadget kit hedgehog glow";

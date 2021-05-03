@@ -1,1 +1,1 @@
-var mnemonic = "cycle dune mercy dentist uncle inspire fire palace taste deliver jacket swarm";
+var mnemonic = "spend account expand deny basic good hand rare series tomorrow poem garment";

@@ -1,1 +1,1 @@
-var mnemonic = "place bunker poverty marriage want drip auto aisle federal erode fence this";
+var mnemonic = "walk mom empty recall truth subject wrap wrestle shed ranch flavor slush";

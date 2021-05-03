@@ -1,1 +1,1 @@
-var mnemonic = "pudding scare forward poverty sand arch subject crater ivory flush fiber across";
+var mnemonic = "horror metal mother original ticket acid margin maze tornado reunion girl fame";

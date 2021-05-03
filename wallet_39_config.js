@@ -1,1 +1,1 @@
-var mnemonic = "jaguar erupt silly scatter brand rose ostrich flame six violin drum parade";
+var mnemonic = "extra shoe convince congress apart model hungry crew luxury just scale spoil";

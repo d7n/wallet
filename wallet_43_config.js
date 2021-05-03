@@ -1,1 +1,1 @@
-var mnemonic = "hidden tail middle uphold series easy green owner dawn duty danger lonely";
+var mnemonic = "label decline banner loop bullet enroll burger tiny autumn this know gesture";

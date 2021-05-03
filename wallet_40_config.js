@@ -1,1 +1,1 @@
-var mnemonic = "kick witness advice wide divide chase into arena museum nerve mule public";
+var mnemonic = "flavor indicate harvest gauge eight april smoke interest tragic foot cluster bench";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer ceiling taste reward act dog opera fine spread random planet foam";
+var mnemonic = "ribbon illness tree helmet valid pulp tourist dance struggle peace trouble lens";

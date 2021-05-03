@@ -1,1 +1,1 @@
-var mnemonic = "spatial define already laugh often trade enlist since middle lesson welcome mountain";
+var mnemonic = "cancel when coral voyage give garment polar coach grit long lizard craft";

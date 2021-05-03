@@ -1,1 +1,1 @@
-var mnemonic = "antenna sea defense siren chronic eye auction safe happy tattoo bridge leg";
+var mnemonic = "sound helmet rather sound narrow hood kick gossip hour happy yard purity";

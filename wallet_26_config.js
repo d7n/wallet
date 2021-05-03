@@ -1,1 +1,1 @@
-var mnemonic = "cart insect ranch panel derive recall sight impulse actor fork until one";
+var mnemonic = "elephant glove develop suggest certain order rough capable skirt shop gloom begin";

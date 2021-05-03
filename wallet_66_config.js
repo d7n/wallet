@@ -1,1 +1,1 @@
-var mnemonic = "actor belt absorb fantasy wall derive magic palm before small mushroom heavy";
+var mnemonic = "share marine fruit slam donor waste economy piece ask grace carbon pledge";

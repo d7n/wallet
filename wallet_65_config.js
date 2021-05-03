@@ -1,1 +1,1 @@
-var mnemonic = "embody endorse permit shield absurd unhappy nose slide assist credit few syrup";
+var mnemonic = "review priority enlist try whale hybrid else ankle that elegant trigger crystal";

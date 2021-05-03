@@ -1,1 +1,1 @@
-var mnemonic = "profit provide crew cherry smooth orange blouse obscure equip salon family artist";
+var mnemonic = "will lyrics artefact used work priority upper crouch brain music silver maid";

@@ -1,1 +1,1 @@
-var mnemonic = "dice bundle return piece trip load train coach evolve want sick ghost";
+var mnemonic = "tumble hidden vote airport reform motor marble since same despair bitter hazard";

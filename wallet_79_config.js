@@ -1,1 +1,1 @@
-var mnemonic = "fruit burst glimpse recall exit try fruit human tortoise foil catch woman";
+var mnemonic = "stumble toward demand crisp neck pool shy slim knee render desk echo";

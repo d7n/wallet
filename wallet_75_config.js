@@ -1,1 +1,1 @@
-var mnemonic = "secret viable camera blue host innocent advance broom lounge hedgehog right toss";
+var mnemonic = "rally laugh add unveil credit crater state off skirt until minimum hedgehog";

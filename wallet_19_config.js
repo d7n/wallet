@@ -1,1 +1,1 @@
-var mnemonic = "correct right gaze anxiety oval velvet gloom core limb figure carpet output";
+var mnemonic = "crisp noble cupboard awake cannon unaware trial taxi pyramid confirm prevent capital";

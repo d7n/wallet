@@ -1,1 +1,1 @@
-var mnemonic = "fade crunch brass hire solution merry whisper laugh slide calm win tackle";
+var mnemonic = "pause know turtle zebra iron icon magnet manual leader list century fluid";

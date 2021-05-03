@@ -1,1 +1,1 @@
-var mnemonic = "pill churn life pride gap interest motor title inquiry cloud warrior august";
+var mnemonic = "vessel avoid conduct satisfy equal kit hood divide conduct bus coffee tennis";

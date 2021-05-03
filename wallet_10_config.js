@@ -1,1 +1,1 @@
-var mnemonic = "record curve grass lounge miracle heavy enough just together amateur problem noble";
+var mnemonic = "fetch machine easily supply where deputy jaguar economy moment wise excess brother";

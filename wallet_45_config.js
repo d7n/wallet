@@ -1,1 +1,1 @@
-var mnemonic = "excess blast great truck spirit flame symbol wasp basic hope ethics approve";
+var mnemonic = "fat venue master virtual wire lawsuit walnut depart color elder fox benefit";

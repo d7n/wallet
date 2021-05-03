@@ -1,1 +1,1 @@
-var mnemonic = "core under riot south uncover exist tonight buzz pelican hamster young merge";
+var mnemonic = "eight margin add hedgehog damage vessel connect stem spawn bracket grow inherit";

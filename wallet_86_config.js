@@ -1,1 +1,1 @@
-var mnemonic = "impose attend father fan blossom shuffle cake either lamp rib ecology ride";
+var mnemonic = "simple suffer bomb bargain element ribbon swallow rug chuckle universe hollow there";

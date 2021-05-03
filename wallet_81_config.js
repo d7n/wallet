@@ -1,1 +1,1 @@
-var mnemonic = "praise shift dilemma permit common record mouse divorce prison girl napkin hero";
+var mnemonic = "notable trip acquire ball kangaroo lizard monkey farm surface furnace roast air";

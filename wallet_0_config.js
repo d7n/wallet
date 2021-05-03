@@ -1,1 +1,1 @@
-var mnemonic = "fuel liar often noise similar acid famous swamp soon wash glow elephant";
+var mnemonic = "ahead question come uniform fatigue tomato clog mixed crowd record there tennis";

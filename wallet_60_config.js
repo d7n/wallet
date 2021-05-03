@@ -1,1 +1,1 @@
-var mnemonic = "soap virtual two disease about jacket alter enrich habit suit toddler ladder";
+var mnemonic = "box follow beach appear cherry rabbit exhaust steak snake alarm shaft fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "gap movie water rail ill decide trip track design jelly loop aunt";
+var mnemonic = "defy case harbor error extend kiss tiger weather clock bike nut taste";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome night cat path speed legal route iron defy globe uncover finish";
+var mnemonic = "drink buffalo client task web vault caught topple garage royal execute order";

@@ -1,1 +1,1 @@
-var mnemonic = "hurry twice canvas figure clerk used dash session south bag sentence panther";
+var mnemonic = "ethics flip will valve glass truth afford appear space brother tiger engine";

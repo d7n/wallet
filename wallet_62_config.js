@@ -1,1 +1,1 @@
-var mnemonic = "trouble you rude swarm carbon deputy mutual love degree mixture junk open";
+var mnemonic = "make resist vague vocal topic host please treat stadium purchase start nose";

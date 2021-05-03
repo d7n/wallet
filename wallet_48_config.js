@@ -1,1 +1,1 @@
-var mnemonic = "tongue return remind tattoo hat enter claw illegal engine badge tag since";
+var mnemonic = "ecology achieve design pitch define nuclear private plastic lyrics school receive proud";

@@ -1,1 +1,1 @@
-var mnemonic = "switch skirt owner poverty simple permit staff crucial timber tired flame pen";
+var mnemonic = "allow license essence employ pizza ostrich lift month scrap catch job wild";

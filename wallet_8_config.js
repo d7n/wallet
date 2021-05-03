@@ -1,1 +1,1 @@
-var mnemonic = "drink hip goose lyrics insect attract dirt they fish rude salmon claw";
+var mnemonic = "panic stumble wild solve creek pause sail medal spare swallow enjoy tool";

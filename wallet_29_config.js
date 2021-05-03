@@ -1,1 +1,1 @@
-var mnemonic = "damp thank rookie kangaroo half dawn valve clog urban dragon fortune abuse";
+var mnemonic = "stone limb lock leave web ethics unit siren session scan resist hover";

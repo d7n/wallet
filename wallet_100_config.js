@@ -1,1 +1,1 @@
-var mnemonic = "fresh tool jelly finish tackle coffee across whisper audit sick diagram swim";
+var mnemonic = "success leg there win valve six upon mechanic wink luggage border corn";

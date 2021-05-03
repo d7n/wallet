@@ -1,1 +1,1 @@
-var mnemonic = "inch taste video fatigue main card train expose expect original alcohol loan";
+var mnemonic = "valid rifle slim grass intact nose car outer fetch orange useless thunder";
