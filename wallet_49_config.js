@@ -1,1 +1,1 @@
-var mnemonic = "hen drift spoil join useless nose virus silent afford wet route custom";
+var mnemonic = "brain orphan grain little pottery cry trade miss plug torch federal before";

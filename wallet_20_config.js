@@ -1,1 +1,1 @@
-var mnemonic = "lottery warfare lucky father yellow nose piece ketchup hire method loud like";
+var mnemonic = "round cruise neutral stereo sick enforce flush museum planet cube walk identify";

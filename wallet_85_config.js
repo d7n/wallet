@@ -1,1 +1,1 @@
-var mnemonic = "belt dumb input stuff limit paddle sadness toilet find baby horn foam";
+var mnemonic = "fix sand popular notable praise already appear want jewel crowd stadium jump";

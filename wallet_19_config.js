@@ -1,1 +1,1 @@
-var mnemonic = "crisp noble cupboard awake cannon unaware trial taxi pyramid confirm prevent capital";
+var mnemonic = "pole cancel bring violin park act mule sponsor maple stove fade gate";

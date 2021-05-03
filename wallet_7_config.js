@@ -1,1 +1,1 @@
-var mnemonic = "allow license essence employ pizza ostrich lift month scrap catch job wild";
+var mnemonic = "emotion book poem ice poverty sell rug card virtual lake artefact whisper";

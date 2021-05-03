@@ -1,1 +1,1 @@
-var mnemonic = "share marine fruit slam donor waste economy piece ask grace carbon pledge";
+var mnemonic = "ignore story demand rude horror remain song fuel someone paddle worth life";

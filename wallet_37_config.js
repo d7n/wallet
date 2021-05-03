@@ -1,1 +1,1 @@
-var mnemonic = "eight margin add hedgehog damage vessel connect stem spawn bracket grow inherit";
+var mnemonic = "trash sleep champion avocado slim grief increase juice easily winter soda strategy";

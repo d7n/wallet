@@ -1,1 +1,1 @@
-var mnemonic = "empower walnut venture mandate unable gorilla rebuild charge search trade sugar punch";
+var mnemonic = "gesture hub tortoise grab force include setup globe infant sell wasp switch";

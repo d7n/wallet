@@ -1,1 +1,1 @@
-var mnemonic = "sell unaware castle immune price mosquito leaf certain copper agree clock quiz";
+var mnemonic = "violin price garment mercy sausage blossom adjust wait banner finish faint clay";

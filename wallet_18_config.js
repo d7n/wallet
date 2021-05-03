@@ -1,1 +1,1 @@
-var mnemonic = "tumble hidden vote airport reform motor marble since same despair bitter hazard";
+var mnemonic = "rebuild salt merge flee eight debate agree bullet party whisper come bomb";

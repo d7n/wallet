@@ -1,1 +1,1 @@
-var mnemonic = "elephant glove develop suggest certain order rough capable skirt shop gloom begin";
+var mnemonic = "waste winner axis save dance exile setup emerge key orbit chef sand";

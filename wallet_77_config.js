@@ -1,1 +1,1 @@
-var mnemonic = "field debris social negative sustain degree moon give science route runway satoshi";
+var mnemonic = "mass duck rescue wrist clog toast random approve car enter grace brisk";

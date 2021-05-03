@@ -1,1 +1,1 @@
-var mnemonic = "pattern glance twin silent indoor coast doctor easy tongue amount gun famous";
+var mnemonic = "modify kingdom oven phrase enjoy crash catalog asthma goat force robot truck";

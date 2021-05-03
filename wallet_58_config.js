@@ -1,1 +1,1 @@
-var mnemonic = "unveil hello teach input peanut drill tell trial shadow dirt toast stool";
+var mnemonic = "settle stone segment rookie floor noodle exact alley tuna prevent thrive fatal";

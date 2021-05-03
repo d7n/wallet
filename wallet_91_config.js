@@ -1,1 +1,1 @@
-var mnemonic = "sound helmet rather sound narrow hood kick gossip hour happy yard purity";
+var mnemonic = "tenant mean reunion elegant now shadow trial plastic happy arrest crunch egg";

@@ -1,1 +1,1 @@
-var mnemonic = "hour fossil fork subway evil else absent please vocal tide adapt enact";
+var mnemonic = "video pistol worth trick draft join fan pave file beach video muffin";

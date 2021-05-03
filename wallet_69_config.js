@@ -1,1 +1,1 @@
-var mnemonic = "slogan ancient more salute various mystery wife pelican insane casual quit issue";
+var mnemonic = "slogan clown prize foster alpha axis six glide country derive evoke honey";

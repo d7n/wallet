@@ -1,1 +1,1 @@
-var mnemonic = "wasp horse require sound clock salmon arrange beauty flight notable mistake bubble";
+var mnemonic = "drive tuna tide middle horror ahead fresh skill fine either cloth tone";

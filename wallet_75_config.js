@@ -1,1 +1,1 @@
-var mnemonic = "rally laugh add unveil credit crater state off skirt until minimum hedgehog";
+var mnemonic = "tenant believe quick desert indicate author exact balance fly alert congress pitch";

@@ -1,1 +1,1 @@
-var mnemonic = "car violin party follow gauge clinic noise skate banner venue asset more";
+var mnemonic = "dinosaur heavy involve carbon swarm silent wine okay famous bamboo column perfect";

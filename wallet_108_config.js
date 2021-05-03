@@ -1,1 +1,1 @@
-var mnemonic = "fever better office record bid car duck middle distance glide wrist note";
+var mnemonic = "impact property left pear divorce auction fade crunch hole vacuum outside client";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor indicate harvest gauge eight april smoke interest tragic foot cluster bench";
+var mnemonic = "nation acid best crop crime cook odor poverty cousin corn daring penalty";

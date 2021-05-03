@@ -1,1 +1,1 @@
-var mnemonic = "roof camera please luxury anxiety sleep vault horror cereal cake early curious";
+var mnemonic = "define sell betray shop live apple civil neutral permit alley left summer";

@@ -1,1 +1,1 @@
-var mnemonic = "ahead question come uniform fatigue tomato clog mixed crowd record there tennis";
+var mnemonic = "night battle utility false cool swamp sure soon echo pledge nurse explain";

@@ -1,1 +1,1 @@
-var mnemonic = "great rule body claw stadium question blue use man this keep canoe";
+var mnemonic = "culture pistol excess man crime excess labor magnet kingdom infant escape gloom";

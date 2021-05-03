@@ -1,1 +1,1 @@
-var mnemonic = "orbit energy setup quote march sudden frost antenna seed mix kingdom virus";
+var mnemonic = "mule wrap few soldier sibling major under text copy hope direct another";

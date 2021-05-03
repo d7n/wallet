@@ -1,1 +1,1 @@
-var mnemonic = "blood vocal half layer drastic account fade once nasty rib before pipe";
+var mnemonic = "copy knee west boy illegal sweet purse aunt review bar luxury fork";

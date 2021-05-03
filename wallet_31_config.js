@@ -1,1 +1,1 @@
-var mnemonic = "adjust game whip maple bargain start pill stock dignity bracket horn piano";
+var mnemonic = "bright rough split cruel useful glare cute mechanic observe bottom nasty drastic";

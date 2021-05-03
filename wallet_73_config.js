@@ -1,1 +1,1 @@
-var mnemonic = "pause know turtle zebra iron icon magnet manual leader list century fluid";
+var mnemonic = "gown digital defy sock course width moment tonight guard bean laugh dirt";

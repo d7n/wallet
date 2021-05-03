@@ -1,1 +1,1 @@
-var mnemonic = "valid rifle slim grass intact nose car outer fetch orange useless thunder";
+var mnemonic = "horror weather uphold permit better wire tackle whale always lounge actual appear";

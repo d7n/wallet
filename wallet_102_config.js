@@ -1,1 +1,1 @@
-var mnemonic = "number unusual differ aim exact goose shaft kiwi move romance train grief";
+var mnemonic = "thrive furnace abuse shy melt raccoon piece mechanic boost steak deposit joke";

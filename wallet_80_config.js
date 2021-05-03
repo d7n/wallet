@@ -1,1 +1,1 @@
-var mnemonic = "cancel when coral voyage give garment polar coach grit long lizard craft";
+var mnemonic = "enemy divorce fame useful stuff vast impulse endless weasel borrow trumpet page";

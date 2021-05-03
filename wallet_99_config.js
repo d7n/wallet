@@ -1,1 +1,1 @@
-var mnemonic = "model marriage crop debate fold average clutch churn rate voice input license";
+var mnemonic = "notable craft clay sadness pond lunar slab ten robust rich panda cart";

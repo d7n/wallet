@@ -1,1 +1,1 @@
-var mnemonic = "depart east purse kit physical insane assault giraffe fat note fortune shoulder";
+var mnemonic = "foam throw burden curve abuse mercy detail palm brisk since leader oblige";

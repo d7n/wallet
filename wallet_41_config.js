@@ -1,1 +1,1 @@
-var mnemonic = "flame reopen coconut flame clog wagon suffer wall gold damage blind absurd";
+var mnemonic = "abandon flat auto curtain actor machine alone general giggle rubber ceiling blouse";

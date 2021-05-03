@@ -1,1 +1,1 @@
-var mnemonic = "notable trip acquire ball kangaroo lizard monkey farm surface furnace roast air";
+var mnemonic = "squeeze bitter lunch almost proud poet vehicle deposit sunset betray because exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "catch negative army output session veteran horror victory pioneer iron tomato slush";
+var mnemonic = "soon photo lab street table inject defy humor breeze robot bounce auto";

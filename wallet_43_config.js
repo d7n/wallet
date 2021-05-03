@@ -1,1 +1,1 @@
-var mnemonic = "label decline banner loop bullet enroll burger tiny autumn this know gesture";
+var mnemonic = "then save luggage verify cinnamon cool fiscal pill gas write flight depend";

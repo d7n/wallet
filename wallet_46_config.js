@@ -1,1 +1,1 @@
-var mnemonic = "company urge sunset aspect edit cross mechanic fabric delay gentle mystery ice";
+var mnemonic = "split doll pepper pudding net praise about upon hidden click differ deny";

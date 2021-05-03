@@ -1,1 +1,1 @@
-var mnemonic = "ordinary muscle win bird impact east elite auction elevator nest piano loan";
+var mnemonic = "hill fox peasant capital useless predict faint glide common refuse keep half";

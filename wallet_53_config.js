@@ -1,1 +1,1 @@
-var mnemonic = "treat hedgehog afford donate basic fetch century burger window actor pass ride";
+var mnemonic = "message melody human quality emerge bachelor rather mix divorce trouble blouse tuition";

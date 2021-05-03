@@ -1,1 +1,1 @@
-var mnemonic = "ribbon illness tree helmet valid pulp tourist dance struggle peace trouble lens";
+var mnemonic = "pact habit permit access dry scare security ketchup cruel finish account solar";

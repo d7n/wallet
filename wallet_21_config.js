@@ -1,1 +1,1 @@
-var mnemonic = "silent repeat elbow rival notable hybrid hat visual achieve normal ostrich meat";
+var mnemonic = "trap hurt other radar chair calm banner system escape reflect pulp rural";

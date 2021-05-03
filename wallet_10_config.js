@@ -1,1 +1,1 @@
-var mnemonic = "fetch machine easily supply where deputy jaguar economy moment wise excess brother";
+var mnemonic = "bracket ketchup mystery link company wedding differ clog patch economy garbage custom";

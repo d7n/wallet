@@ -1,1 +1,1 @@
-var mnemonic = "settle cousin rabbit word away famous clown umbrella business panther first patrol";
+var mnemonic = "hen taxi cute physical horror token duty slush soap tragic audit genius";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster train great wet quarter flush whip hockey hybrid junk snake frown";
+var mnemonic = "pudding pigeon execute coconut short chef often leg elder else pave goose";

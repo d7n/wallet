@@ -1,1 +1,1 @@
-var mnemonic = "mad swap insane medal next myself adapt army frown monkey dune again";
+var mnemonic = "private suffer work intact drip wise divorce wonder climb ghost jeans jacket";

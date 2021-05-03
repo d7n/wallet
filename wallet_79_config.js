@@ -1,1 +1,1 @@
-var mnemonic = "stumble toward demand crisp neck pool shy slim knee render desk echo";
+var mnemonic = "keen enemy transfer wait roast easy anchor purity best ketchup oppose salon";

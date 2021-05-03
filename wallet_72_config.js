@@ -1,1 +1,1 @@
-var mnemonic = "trumpet position giggle humble nest spell engage pigeon age net salute scene";
+var mnemonic = "midnight laundry surge army menu below story faculty brand capital cage kiwi";

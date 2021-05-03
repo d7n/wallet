@@ -1,1 +1,1 @@
-var mnemonic = "office solar risk usage same cruel affair steak else ladder retire logic";
+var mnemonic = "pig barrel unlock various myself change cannon tired bachelor vapor leg horse";

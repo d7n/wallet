@@ -1,1 +1,1 @@
-var mnemonic = "true swamp dress excite inflict host valley skirt pause pelican purchase scatter";
+var mnemonic = "senior spell couch flee such test tornado cloth oblige quote account infant";

@@ -1,1 +1,1 @@
-var mnemonic = "success leg there win valve six upon mechanic wink luggage border corn";
+var mnemonic = "color adult leg laptop purse lab despair spider afraid foam carbon orphan";

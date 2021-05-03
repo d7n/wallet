@@ -1,1 +1,1 @@
-var mnemonic = "defy case harbor error extend kiss tiger weather clock bike nut taste";
+var mnemonic = "claim useful awful nerve hurdle impose two bounce buddy session hen expose";

@@ -1,1 +1,1 @@
-var mnemonic = "catalog grocery bullet clay phrase hidden ensure general joy off grace balance";
+var mnemonic = "morning middle loan giant someone venture frog admit asthma finish process upon";

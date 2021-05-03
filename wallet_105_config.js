@@ -1,1 +1,1 @@
-var mnemonic = "crunch spin dolphin appear burger have shadow brush argue mesh piece raw";
+var mnemonic = "income announce frame position account veteran grocery swim lamp purse brand adapt";

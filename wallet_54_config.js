@@ -1,1 +1,1 @@
-var mnemonic = "horror metal mother original ticket acid margin maze tornado reunion girl fame";
+var mnemonic = "before dove tilt below elbow above excess whip damp spice stage slight";

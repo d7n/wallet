@@ -1,1 +1,1 @@
-var mnemonic = "ranch property cook ship unlock satoshi prize swap black appear early soon";
+var mnemonic = "plug trouble appear thank dress fatal suggest advance earth brick captain pair";

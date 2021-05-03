@@ -1,1 +1,1 @@
-var mnemonic = "dance siege boss resemble neck admit phrase category solar expect long tide";
+var mnemonic = "dune inspire sadness history margin speed polar grain pizza explain april wasp";

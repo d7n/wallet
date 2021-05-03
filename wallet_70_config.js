@@ -1,1 +1,1 @@
-var mnemonic = "few push evil burst pear dash base vacant drop divert embrace mouse";
+var mnemonic = "machine sight bicycle theory rain meat despair casual slender draw bracket great";

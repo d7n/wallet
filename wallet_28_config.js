@@ -1,1 +1,1 @@
-var mnemonic = "goddess bike panda assume soul wet merry arena stomach possible million void";
+var mnemonic = "furnace arrow rice elephant blast claw romance rigid glow number shop reason";

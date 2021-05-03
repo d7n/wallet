@@ -1,1 +1,1 @@
-var mnemonic = "make resist vague vocal topic host please treat stadium purchase start nose";
+var mnemonic = "this nest cheese organ wonder reopen slot horn spell obvious inflict code";

@@ -1,1 +1,1 @@
-var mnemonic = "dash friend number unit double fire secret renew link improve next siren";
+var mnemonic = "weapon dance bitter dismiss rigid path suspect bring return wall history robust";

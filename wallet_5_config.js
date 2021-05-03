@@ -1,1 +1,1 @@
-var mnemonic = "clever auto stick ivory sign shoot aware deliver mesh cream almost evoke";
+var mnemonic = "pink stable deal rate defy evoke rabbit nasty brown cause blast wise";

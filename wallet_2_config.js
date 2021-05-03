@@ -1,1 +1,1 @@
-var mnemonic = "brain clinic soldier bridge train rifle vicious essay sphere fantasy swim unfold";
+var mnemonic = "lounge fish grass crack position furnace urge era immune noble put unlock";

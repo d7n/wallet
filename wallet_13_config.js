@@ -1,1 +1,1 @@
-var mnemonic = "stick magic employ bicycle bicycle trend carbon forget best hockey pepper history";
+var mnemonic = "vacuum produce pitch priority eye tongue kind brass cash enable shiver tennis";

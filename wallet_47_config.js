@@ -1,1 +1,1 @@
-var mnemonic = "adult say ticket blush enemy jaguar license brush immense mansion grain miss";
+var mnemonic = "artist love bracket awful online divert anchor find calm medal chunk slush";

@@ -1,1 +1,1 @@
-var mnemonic = "base merry cloud emerge cash anxiety flower train size glide deputy history";
+var mnemonic = "ankle suggest spray pool pause drill decade globe word ice family cross";

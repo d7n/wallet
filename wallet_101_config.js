@@ -1,1 +1,1 @@
-var mnemonic = "hotel excuse stereo summer edge fossil pretty hamster gate car catalog pole";
+var mnemonic = "two mixture hungry office veteran tilt dynamic fix squirrel beyond devote warm";

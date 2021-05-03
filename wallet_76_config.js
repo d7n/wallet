@@ -1,1 +1,1 @@
-var mnemonic = "camp cousin type rotate gallery milk vehicle music awesome olympic fury night";
+var mnemonic = "yard elite market fire stem guide couple hard poem jungle now cushion";

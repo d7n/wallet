@@ -1,1 +1,1 @@
-var mnemonic = "vessel avoid conduct satisfy equal kit hood divide conduct bus coffee tennis";
+var mnemonic = "bundle onion risk body bacon accuse strategy gym knee skirt mystery armed";

@@ -1,1 +1,1 @@
-var mnemonic = "guess upset citizen search father grain found hamster mad absent ecology mouse";
+var mnemonic = "ranch awesome steel high range vanish nephew lady neglect message brush slogan";

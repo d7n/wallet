@@ -1,1 +1,1 @@
-var mnemonic = "attack express barrel ribbon struggle drill board shock club gesture damp bread";
+var mnemonic = "stem cushion detect prevent deputy nothing concert flight kick basket curve balance";

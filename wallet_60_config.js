@@ -1,1 +1,1 @@
-var mnemonic = "box follow beach appear cherry rabbit exhaust steak snake alarm shaft fashion";
+var mnemonic = "candy brave action affair plunge result trick hip bridge steak buffalo toss";

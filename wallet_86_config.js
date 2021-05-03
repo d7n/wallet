@@ -1,1 +1,1 @@
-var mnemonic = "simple suffer bomb bargain element ribbon swallow rug chuckle universe hollow there";
+var mnemonic = "okay student armed allow cute follow athlete deal lock six van inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "vintage fatigue slim ride horn ceiling badge alert rack slim tube tone";
+var mnemonic = "fashion leg artwork dose spread kiss wide eight roast frost void dignity";

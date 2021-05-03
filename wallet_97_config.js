@@ -1,1 +1,1 @@
-var mnemonic = "game victory purpose lottery calm physical family pet coin dentist claw fame";
+var mnemonic = "update orchard patrol board please help rude quarter crouch tomato display execute";

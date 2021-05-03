@@ -1,1 +1,1 @@
-var mnemonic = "stone limb lock leave web ethics unit siren session scan resist hover";
+var mnemonic = "cash ramp pass bomb small horse clever upon fossil cushion online canvas";

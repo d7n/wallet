@@ -1,1 +1,1 @@
-var mnemonic = "brush alien cycle nurse piece ginger cactus friend gadget kit hedgehog glow";
+var mnemonic = "sock upper raw cat leader patch depth noise can wing tooth moral";

@@ -1,1 +1,1 @@
-var mnemonic = "burden maple stool beef cinnamon room sunset hover maximum dynamic east tent";
+var mnemonic = "blade tape announce summer stuff grow face mule awkward receive alter sadness";

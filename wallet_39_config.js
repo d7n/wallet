@@ -1,1 +1,1 @@
-var mnemonic = "extra shoe convince congress apart model hungry crew luxury just scale spoil";
+var mnemonic = "inner rely sail still various worth rifle near fix chief front diamond";

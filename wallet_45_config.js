@@ -1,1 +1,1 @@
-var mnemonic = "fat venue master virtual wire lawsuit walnut depart color elder fox benefit";
+var mnemonic = "erupt shrug guitar away burger two small resource hat hand manage shoe";

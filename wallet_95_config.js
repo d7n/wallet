@@ -1,1 +1,1 @@
-var mnemonic = "confirm reopen copper hat rain jealous desk crazy witness trigger soft message";
+var mnemonic = "famous lucky ride category sell man pumpkin recycle swear account grit lyrics";

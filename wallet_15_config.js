@@ -1,1 +1,1 @@
-var mnemonic = "scissors seek grape drive else wrist party adult switch nest child clock";
+var mnemonic = "ball pear image worry raw oil shine dial opinion vanish page explain";

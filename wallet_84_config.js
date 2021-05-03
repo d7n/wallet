@@ -1,1 +1,1 @@
-var mnemonic = "spread robust fragile payment asthma chef grow cereal egg crop maze struggle";
+var mnemonic = "cancel board skull window hurdle acoustic raven segment limit plunge fatal rubber";

@@ -1,1 +1,1 @@
-var mnemonic = "bright achieve tide auto owner afford taxi similar leave barrel split metal";
+var mnemonic = "play cotton coast pencil skate stool urban wear roof twelve pair maximum";

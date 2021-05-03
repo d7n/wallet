@@ -1,1 +1,1 @@
-var mnemonic = "panic stumble wild solve creek pause sail medal spare swallow enjoy tool";
+var mnemonic = "clever skate execute multiply rude turtle planet clay chair charge because final";

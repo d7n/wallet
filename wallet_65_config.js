@@ -1,1 +1,1 @@
-var mnemonic = "review priority enlist try whale hybrid else ankle that elegant trigger crystal";
+var mnemonic = "woman assist crystal parade toilet witness bitter mystery paddle picture mosquito now";

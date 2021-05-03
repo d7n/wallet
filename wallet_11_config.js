@@ -1,1 +1,1 @@
-var mnemonic = "ethics flip will valve glass truth afford appear space brother tiger engine";
+var mnemonic = "owner brand aunt snake drama village scale permit harsh desk wagon denial";

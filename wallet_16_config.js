@@ -1,1 +1,1 @@
-var mnemonic = "protect armor rich dance amount foil client fade merry start copy merge";
+var mnemonic = "west turtle tumble bridge blind nest quality struggle relax utility frozen balcony";

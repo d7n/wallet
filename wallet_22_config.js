@@ -1,1 +1,1 @@
-var mnemonic = "clarify inflict ocean shine grid zero original claw bird apology climb lock";
+var mnemonic = "embark shed flower broom eight eyebrow focus example humble summer couple wrestle";

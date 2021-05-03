@@ -1,1 +1,1 @@
-var mnemonic = "bacon tonight rubber ring build attend million stone increase core flat parent";
+var mnemonic = "timber local card scout sword arch awake reunion peace envelope expose axis";

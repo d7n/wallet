@@ -1,1 +1,1 @@
-var mnemonic = "bachelor material wear version crowd solve gate faint spot swear water wood";
+var mnemonic = "error naive process plate day hungry skin connect grow south tuna chunk";

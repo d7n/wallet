@@ -1,1 +1,1 @@
-var mnemonic = "feed illness debate winter parent alien victory caught kit pill slight young";
+var mnemonic = "coin offer glove rotate timber swap stand original educate mistake vendor manage";

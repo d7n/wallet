@@ -1,1 +1,1 @@
-var mnemonic = "once collect combine visual razor mistake calm afraid govern ball absurd hungry";
+var mnemonic = "remove bomb season opera normal only turkey loyal join leisure fluid brother";

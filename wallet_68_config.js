@@ -1,1 +1,1 @@
-var mnemonic = "receive inhale notice mushroom bike artefact oval loan version song castle game";
+var mnemonic = "system love resist stem option famous buffalo case dirt quality train purity";
