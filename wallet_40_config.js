@@ -1,1 +1,1 @@
-var mnemonic = "list whip push perfect bless cake glue retreat rib easy emotion prosper";
+var mnemonic = "tortoise cluster material cousin tell border gold engage reject sand million veteran";

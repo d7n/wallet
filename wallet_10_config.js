@@ -1,1 +1,1 @@
-var mnemonic = "air charge recall grid field concert satisfy enlist body distance turkey sad";
+var mnemonic = "apology hero tool approve fossil youth night above talent eyebrow neutral autumn";

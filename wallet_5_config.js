@@ -1,1 +1,1 @@
-var mnemonic = "liar fish can cloth rack favorite spatial north buyer trim hub throw";
+var mnemonic = "avocado trophy snap second abstract injury fitness orient slab random junior remain";

@@ -1,1 +1,1 @@
-var mnemonic = "garden repeat utility sound panther one street ticket banner pact much tomorrow";
+var mnemonic = "reduce leisure mean explain sweet impact mix october live like domain metal";

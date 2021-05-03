@@ -1,1 +1,1 @@
-var mnemonic = "muffin section aisle cage fossil talk emotion frequent harbor place rabbit salon";
+var mnemonic = "jeans grant winner unusual business hollow cost meadow section heavy gun win";

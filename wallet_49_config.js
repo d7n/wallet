@@ -1,1 +1,1 @@
-var mnemonic = "zebra empty smart have sausage basic execute clean sick faculty chapter magic";
+var mnemonic = "consider memory physical volume cricket inner wash turkey elegant develop behave audit";

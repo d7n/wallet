@@ -1,1 +1,1 @@
-var mnemonic = "rule regret imitate lock update blue donor stand toddler amount resource spread";
+var mnemonic = "card make accuse daring tree true despair stage ripple devote hold mansion";

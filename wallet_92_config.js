@@ -1,1 +1,1 @@
-var mnemonic = "praise camp dignity siege video glass crumble panther become label census correct";
+var mnemonic = "there museum betray axis rotate warrior beef busy swear develop artist valid";

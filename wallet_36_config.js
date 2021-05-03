@@ -1,1 +1,1 @@
-var mnemonic = "public much final crash clog spirit cradle execute solid rifle maximum tongue";
+var mnemonic = "coconut people barrel valid pill program pencil spray risk welcome bike coin";

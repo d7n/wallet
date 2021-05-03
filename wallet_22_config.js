@@ -1,1 +1,1 @@
-var mnemonic = "cry cage test mammal slow memory false lens all apple ocean evoke";
+var mnemonic = "limit page tape gown lawn dutch rural ring equal battle treat suspect";

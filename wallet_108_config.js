@@ -1,1 +1,1 @@
-var mnemonic = "foam raven again cradle trophy dream summer tiny explain speak radar glue";
+var mnemonic = "journey visual across hazard fantasy monkey prepare evolve thunder domain bone bonus";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma hungry tiny inherit ticket merge galaxy whisper damp sudden duty kit";
+var mnemonic = "update letter coast where believe either borrow unaware pave endorse service until";

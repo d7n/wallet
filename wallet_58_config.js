@@ -1,1 +1,1 @@
-var mnemonic = "myth exchange bounce vacant hover mercy gain cave rain boost resist orchard";
+var mnemonic = "million lift useless sell frost match century village because display world initial";

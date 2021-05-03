@@ -1,1 +1,1 @@
-var mnemonic = "kid swing boring adapt marine license remind diagram alien cloud furnace system";
+var mnemonic = "drama summer fan tool call gauge act plunge alley glide price choice";

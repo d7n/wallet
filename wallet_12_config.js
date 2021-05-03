@@ -1,1 +1,1 @@
-var mnemonic = "ridge offer live strong job link young inside always renew unaware better";
+var mnemonic = "learn grid december calm column warrior truly unit bar thumb city sort";

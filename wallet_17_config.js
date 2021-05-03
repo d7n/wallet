@@ -1,1 +1,1 @@
-var mnemonic = "catch moon seven forest idea sell question affair boss gesture relief spoil";
+var mnemonic = "basket shrug drive legend brain gadget trust wool pretty clock subject shield";

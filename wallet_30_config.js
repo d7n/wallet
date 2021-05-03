@@ -1,1 +1,1 @@
-var mnemonic = "fever all mouse guide gather correct boring donor pupil donate kidney brush";
+var mnemonic = "lemon solution skirt custom crucial shift forward pottery frequent gauge inject define";

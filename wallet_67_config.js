@@ -1,1 +1,1 @@
-var mnemonic = "toddler cactus brown economy west exhibit foil gym anxiety stage picture cement";
+var mnemonic = "crash index whisper refuse logic siege palm fruit negative entire feel bike";

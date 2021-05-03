@@ -1,1 +1,1 @@
-var mnemonic = "ethics weekend vague expect soft tragic option ready fortune caught cart increase";
+var mnemonic = "aisle gravity radar guard book palm myself chief lamp apple club day";

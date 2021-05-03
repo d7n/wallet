@@ -1,1 +1,1 @@
-var mnemonic = "enemy innocent history gift announce sting bundle cry slow sketch hole donkey";
+var mnemonic = "cost slab acid spider name note fashion chat ginger shuffle hen visa";

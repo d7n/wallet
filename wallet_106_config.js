@@ -1,1 +1,1 @@
-var mnemonic = "odor shallow rubber affair where silver silent road unusual scout ripple rate";
+var mnemonic = "treat tag try month physical canoe inch sketch utility air nature brass";

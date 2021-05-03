@@ -1,1 +1,1 @@
-var mnemonic = "baby few burst wheat tourist milk soup recycle today armed bullet can";
+var mnemonic = "sail type rather approve can left drink correct visa plunge push permit";

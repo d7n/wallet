@@ -1,1 +1,1 @@
-var mnemonic = "agent drop snap staff group midnight warm gossip dog width hammer nasty";
+var mnemonic = "misery unfold prefer top alarm inflict about robust lonely august review citizen";

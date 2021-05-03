@@ -1,1 +1,1 @@
-var mnemonic = "sign unable result meadow around senior neither unit remember vintage stay worth";
+var mnemonic = "fetch repeat truly mirror target success floor casino truth matter deer song";

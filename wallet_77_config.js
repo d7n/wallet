@@ -1,1 +1,1 @@
-var mnemonic = "burst quiz bench live voice island ride beauty strong uphold silver bid";
+var mnemonic = "meadow feed nest cook glory hurt web relief actor maple drum prevent";

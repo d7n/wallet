@@ -1,1 +1,1 @@
-var mnemonic = "lazy across spirit observe night paddle found oil catalog speed viable pipe";
+var mnemonic = "below letter taxi town wheat grow dutch rent soda tumble abuse frog";

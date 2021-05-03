@@ -1,1 +1,1 @@
-var mnemonic = "grow chief exhaust sponsor bitter math rent cloud clock what random chuckle";
+var mnemonic = "document swarm liberty model rather cradle differ weapon north choose promote bargain";

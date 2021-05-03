@@ -1,1 +1,1 @@
-var mnemonic = "husband switch glory pistol parent various attack present purpose decorate stem spin";
+var mnemonic = "latin knee alley thought solar spray butter glance lens core dune fever";

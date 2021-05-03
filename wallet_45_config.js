@@ -1,1 +1,1 @@
-var mnemonic = "spice over derive hurt lesson nasty age alcohol lazy orient nothing primary";
+var mnemonic = "segment raise crouch silk maze girl mutual include siege interest analyst ripple";

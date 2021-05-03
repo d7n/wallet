@@ -1,1 +1,1 @@
-var mnemonic = "parade destroy carry clock coconut spare stamp jungle another list nest predict";
+var mnemonic = "erupt ordinary rice meat mule wear wolf dumb twenty setup saddle combine";

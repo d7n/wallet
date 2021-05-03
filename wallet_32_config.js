@@ -1,1 +1,1 @@
-var mnemonic = "lobster guilt exile noble boring actress conduct extra leopard potato differ family";
+var mnemonic = "arrange dad hazard chief rib risk dry rail cement deal wasp enroll";

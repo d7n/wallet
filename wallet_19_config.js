@@ -1,1 +1,1 @@
-var mnemonic = "drum achieve thank direct sail apart dad jeans industry resist pretty worth";
+var mnemonic = "quiz badge power smile sleep jazz public engage foster intact common speak";

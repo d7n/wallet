@@ -1,1 +1,1 @@
-var mnemonic = "planet decide arm have office normal era wild donkey when oven canal";
+var mnemonic = "breeze camp summer cricket current achieve marble chapter gain candy kitchen adult";

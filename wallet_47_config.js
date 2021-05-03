@@ -1,1 +1,1 @@
-var mnemonic = "cushion produce current love anger enter parade cool zoo access palm still";
+var mnemonic = "daring whisper magnet awkward ridge panel bright curtain wealth nose pistol drastic";

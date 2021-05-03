@@ -1,1 +1,1 @@
-var mnemonic = "meat grid material spare case skirt share kiss transfer accident roast spot";
+var mnemonic = "wear diamond stumble baby elephant tobacco army leader join fatal lumber swarm";

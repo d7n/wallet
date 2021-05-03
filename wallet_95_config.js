@@ -1,1 +1,1 @@
-var mnemonic = "learn clean educate wise false glove front good fitness execute split afraid";
+var mnemonic = "cool economy age absorb solve amateur volume card lunar potato alley express";

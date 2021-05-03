@@ -1,1 +1,1 @@
-var mnemonic = "matter floor coach stomach ecology essay alarm random smart front blur scout";
+var mnemonic = "antique moral blast tuition suggest garbage problem romance iron mountain copy three";

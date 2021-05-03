@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur coach soft miracle august swift remind route rain gesture provide cream";
+var mnemonic = "day subject bullet tuition base approve mind century pepper wash cinnamon defy";

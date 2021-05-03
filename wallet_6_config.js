@@ -1,1 +1,1 @@
-var mnemonic = "essence squirrel pottery live believe tragic coast add aim shock fortune donate";
+var mnemonic = "vote diesel apple wait rotate social cigar bring fuel waste degree lyrics";

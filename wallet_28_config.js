@@ -1,1 +1,1 @@
-var mnemonic = "deputy hunt delay merit collect table equip rack scheme route execute express";
+var mnemonic = "rack future bacon cycle royal hub twenty inflict kidney category joy stereo";

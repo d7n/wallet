@@ -1,1 +1,1 @@
-var mnemonic = "mosquito citizen risk allow rubber pink proof charge segment thank worry absurd";
+var mnemonic = "wrestle corn velvet float leisure soldier miss jealous void harbor hole parent";

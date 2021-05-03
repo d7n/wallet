@@ -1,1 +1,1 @@
-var mnemonic = "strong elegant thank apart antenna settle poet color brief fossil crawl test";
+var mnemonic = "elephant figure adjust orphan flavor output twice nut betray angry aunt chronic";

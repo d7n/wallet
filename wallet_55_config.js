@@ -1,1 +1,1 @@
-var mnemonic = "peanut view belt deposit burst average region quiz tiger dumb pizza reason";
+var mnemonic = "horse what near hungry jump reopen journey ridge drastic curious okay dice";

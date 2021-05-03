@@ -1,1 +1,1 @@
-var mnemonic = "deal field employ monitor decide pause bench giant leisure trophy door piano";
+var mnemonic = "tribe sea sample bright torch excess snap draft bus sport sing blame";

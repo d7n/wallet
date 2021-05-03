@@ -1,1 +1,1 @@
-var mnemonic = "comic vote view federal keep peanut giant divide grab tourist woman car";
+var mnemonic = "special shed animal issue credit capable pencil hazard liberty rule ridge hole";

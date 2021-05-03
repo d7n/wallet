@@ -1,1 +1,1 @@
-var mnemonic = "apart door august dune average feel machine debate faint entire inquiry super";
+var mnemonic = "beyond bless carry biology domain network put envelope they history spin mother";

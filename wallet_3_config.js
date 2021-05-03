@@ -1,1 +1,1 @@
-var mnemonic = "reopen method word jaguar clerk fossil inflict clean bundle cliff genre rice";
+var mnemonic = "pulp wink chief moral damp hospital artwork foot lizard illness noodle soldier";

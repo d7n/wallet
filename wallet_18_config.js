@@ -1,1 +1,1 @@
-var mnemonic = "fat popular someone prefer solution skill student jazz cause elevator snow fragile";
+var mnemonic = "discover rocket often mixture coconut release join whip wide enlist legal vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "insect crop caught person wood above farm tuition ensure baby wish mother";
+var mnemonic = "state bitter drastic vicious globe amazing buddy culture trigger filter boy just";

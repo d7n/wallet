@@ -1,1 +1,1 @@
-var mnemonic = "airport fat awake notice brown story dog sphere retire coin loyal cabbage";
+var mnemonic = "tomorrow amateur repeat brain quick trash nuclear possible debate attack home tenant";

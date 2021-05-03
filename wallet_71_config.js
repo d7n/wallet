@@ -1,1 +1,1 @@
-var mnemonic = "valve much output exclude ecology settle ship swing lunch board lawsuit tilt";
+var mnemonic = "burden lucky observe vote slide two lucky top fringe little mad peasant";

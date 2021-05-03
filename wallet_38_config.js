@@ -1,1 +1,1 @@
-var mnemonic = "ski tail sadness winter tattoo garbage control patch swamp axis valley capital";
+var mnemonic = "toss minimum leader skull fetch electric upper when bulb fringe citizen tower";

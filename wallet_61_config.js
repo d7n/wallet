@@ -1,1 +1,1 @@
-var mnemonic = "chief mountain cook area person hobby dizzy tenant tennis own music same";
+var mnemonic = "smoke length prison victory cage pole broccoli farm diet control crumble disease";

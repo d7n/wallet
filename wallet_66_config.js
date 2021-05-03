@@ -1,1 +1,1 @@
-var mnemonic = "room lunch disease couch sense confirm refuse raise theme crunch play chunk";
+var mnemonic = "tide pass lyrics real raise teach north exist kick empty often river";

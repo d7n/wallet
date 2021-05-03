@@ -1,1 +1,1 @@
-var mnemonic = "mosquito pattern pledge disease brick heart meat record divide exhibit provide matter";
+var mnemonic = "destroy novel truck catalog glimpse rent core tiny woman canyon hello receive";

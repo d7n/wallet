@@ -1,1 +1,1 @@
-var mnemonic = "cricket digital code settle truth civil spread faint reunion brush capital cost";
+var mnemonic = "unhappy parade quote saddle coral security about crash wrap train merge dumb";

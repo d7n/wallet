@@ -1,1 +1,1 @@
-var mnemonic = "payment rather click egg caught shoe rapid toy essence lunch shoot damp";
+var mnemonic = "guide animal crane extra virus toddler dawn stadium final october keen will";

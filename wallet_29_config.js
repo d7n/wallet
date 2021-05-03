@@ -1,1 +1,1 @@
-var mnemonic = "drip champion clerk couch candy scout squirrel trophy movie tilt loan equal";
+var mnemonic = "camp grape mask december robust regular extra state ecology carbon worth bounce";

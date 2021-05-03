@@ -1,1 +1,1 @@
-var mnemonic = "ahead able armor sphere affair side finish crater wage slow pioneer episode";
+var mnemonic = "setup demand slow slam border abstract gym smile depend damage enrich blush";

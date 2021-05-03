@@ -1,1 +1,1 @@
-var mnemonic = "fancy present essay carpet catalog autumn husband focus sick useless abandon sheriff";
+var mnemonic = "learn injury term live fence tunnel history verb ignore drift nothing pistol";

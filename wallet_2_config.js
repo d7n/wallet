@@ -1,1 +1,1 @@
-var mnemonic = "insane sock tuna melody barrel income census find strong error sick bracket";
+var mnemonic = "allow always track senior shallow coil legend tortoise insane globe business hamster";

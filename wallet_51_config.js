@@ -1,1 +1,1 @@
-var mnemonic = "vote ice dune seven narrow toe topple code surface vicious achieve kite";
+var mnemonic = "reduce pulse average decide decline sibling subway fabric sorry symbol borrow toy";

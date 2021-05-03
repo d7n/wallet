@@ -1,1 +1,1 @@
-var mnemonic = "aunt device dentist garment bundle favorite twice supreme find certain theory later";
+var mnemonic = "dial essay winner hard clock scout mother kiss obscure sketch paddle bus";

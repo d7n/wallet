@@ -1,1 +1,1 @@
-var mnemonic = "vote despair wish arrow museum charge depend twist visit until lend empty";
+var mnemonic = "swap blue bag claw above busy kitten pink select rapid smile trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "shoulder clown hobby donor file culture universe bike tide region code assume";
+var mnemonic = "grocery milk reflect used rebuild dragon quiz regular piano beach deny excuse";

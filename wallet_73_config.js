@@ -1,1 +1,1 @@
-var mnemonic = "shine curious dilemma gown advice cinnamon crunch ethics earth clump quick giggle";
+var mnemonic = "sibling obvious pill differ quarter ranch airport drum fly coral fatigue day";

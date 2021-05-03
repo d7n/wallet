@@ -1,1 +1,1 @@
-var mnemonic = "sport sadness claim interest carpet solve require joke interest nominee melody injury";
+var mnemonic = "yellow cliff patrol identify sketch seek meadow scale lucky plate target need";

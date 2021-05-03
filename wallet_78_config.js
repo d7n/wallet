@@ -1,1 +1,1 @@
-var mnemonic = "broccoli country idle excuse soccer boost sponsor enemy option race found market";
+var mnemonic = "spawn select spider hour gallery opera ugly use cliff flight depart choose";

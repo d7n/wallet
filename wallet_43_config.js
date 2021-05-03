@@ -1,1 +1,1 @@
-var mnemonic = "nest visit actual shaft quarter rough word stem push clap forward stand";
+var mnemonic = "consider pause heavy dutch leaf cabbage pass world also stay song bitter";

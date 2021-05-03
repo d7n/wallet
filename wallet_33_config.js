@@ -1,1 +1,1 @@
-var mnemonic = "penalty space add acoustic vital relief logic during peanut cover chuckle fortune";
+var mnemonic = "love zebra inherit morning fine cost person fun bottom banana please begin";

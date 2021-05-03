@@ -1,1 +1,1 @@
-var mnemonic = "brief female squeeze quiz sport diary noodle human wrong earn mountain link";
+var mnemonic = "layer orphan seed loop skill run dinner gospel diagram blanket cage shove";

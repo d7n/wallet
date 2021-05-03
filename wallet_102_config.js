@@ -1,1 +1,1 @@
-var mnemonic = "mountain shed addict claim lady tourist frog okay rare air capable rotate";
+var mnemonic = "hope educate pet leg stove admit ill manage excess reduce polar tobacco";

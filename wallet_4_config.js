@@ -1,1 +1,1 @@
-var mnemonic = "salmon cube hobby sea vessel spoon vacant live baby verb claim truly";
+var mnemonic = "drum ribbon cable coin snap review firm gossip limit theme front equal";

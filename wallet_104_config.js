@@ -1,1 +1,1 @@
-var mnemonic = "sugar time slot answer safe bean birth endorse toy organ order autumn";
+var mnemonic = "hover split enemy boring cinnamon debris hedgehog hip hidden beauty injury between";

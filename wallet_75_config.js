@@ -1,1 +1,1 @@
-var mnemonic = "aware good account differ flame rapid assist zero green push come sun";
+var mnemonic = "enemy vague group scout oppose tuition finish album chuckle bomb sibling cage";

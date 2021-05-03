@@ -1,1 +1,1 @@
-var mnemonic = "melt stage dynamic prepare once pipe gas tribe genre win web violin";
+var mnemonic = "convince depth canal slim gadget shoot news where joy gain smoke find";

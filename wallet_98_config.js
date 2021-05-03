@@ -1,1 +1,1 @@
-var mnemonic = "crop neutral case acquire split plug ten exclude screen force camera field";
+var mnemonic = "eye about call tribe decrease shell speak public congress punch embrace shell";

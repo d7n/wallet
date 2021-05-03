@@ -1,1 +1,1 @@
-var mnemonic = "update cage keen swing funny connect guard gate abandon vapor science fire";
+var mnemonic = "spy rotate imitate story prefer permit lunch sphere fluid drop cup twenty";

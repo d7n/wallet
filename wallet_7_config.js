@@ -1,1 +1,1 @@
-var mnemonic = "pride panic hollow marble park again voyage monkey risk infant icon sound";
+var mnemonic = "dumb version fly tunnel mimic acquire together strategy draw panther library shoe";

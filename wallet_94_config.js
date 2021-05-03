@@ -1,1 +1,1 @@
-var mnemonic = "return artefact destroy lobster foil lumber slush salad dress assume length expire";
+var mnemonic = "spirit quiz left rack small leaf comic fence parade supreme ensure used";

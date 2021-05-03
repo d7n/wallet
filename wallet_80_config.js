@@ -1,1 +1,1 @@
-var mnemonic = "service bar either wait hood rapid doll left render lady advance goose";
+var mnemonic = "alcohol sorry subject butter real broken note acquire pyramid version clock west";

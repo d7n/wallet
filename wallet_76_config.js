@@ -1,1 +1,1 @@
-var mnemonic = "phone left elegant arrive flat put quality hood satisfy giraffe original rent";
+var mnemonic = "tide humble meadow legend setup enrich evidence settle index leg daring angry";

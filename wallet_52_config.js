@@ -1,1 +1,1 @@
-var mnemonic = "wise off mother tent fatigue spray soup index castle wheel skirt stable";
+var mnemonic = "park reward oxygen van win opera puppy dynamic title original desert tumble";

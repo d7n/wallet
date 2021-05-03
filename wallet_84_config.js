@@ -1,1 +1,1 @@
-var mnemonic = "sun quiz zero october spatial finger flip often dress wedding ripple urge";
+var mnemonic = "illegal machine trip van bamboo annual warrior sponsor giraffe baby midnight then";

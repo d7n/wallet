@@ -1,1 +1,1 @@
-var mnemonic = "lunch monkey volume lamp fix pizza ridge result perfect wing awake sustain";
+var mnemonic = "vendor flush banner urge worry brick subject lion release second scorpion measure";

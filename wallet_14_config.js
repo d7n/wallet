@@ -1,1 +1,1 @@
-var mnemonic = "record destroy club math bonus inside sock engage tomato lady local solid";
+var mnemonic = "circle rose visit join reason nut crash defy flash diary ancient february";

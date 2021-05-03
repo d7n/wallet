@@ -1,1 +1,1 @@
-var mnemonic = "brain supreme snow invest bar float amused ivory want limb song very";
+var mnemonic = "column better boat pioneer tenant film law tag crucial athlete nurse basket";

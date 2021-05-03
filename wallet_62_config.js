@@ -1,1 +1,1 @@
-var mnemonic = "gasp draw innocent this swift shrug sentence analyst point beyond crane youth";
+var mnemonic = "magic because hungry tape acoustic inflict spatial catch sphere mad that dash";

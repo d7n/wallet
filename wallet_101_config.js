@@ -1,1 +1,1 @@
-var mnemonic = "warfare camera step crowd apology unusual stay voice derive connect history maze";
+var mnemonic = "today ensure advice genuine junk consider paddle hamster barrel bronze magic badge";

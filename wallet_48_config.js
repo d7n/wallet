@@ -1,1 +1,1 @@
-var mnemonic = "lonely hobby ordinary voyage piece say drip involve law update lecture grid";
+var mnemonic = "letter icon stool outside scare game area rail genre elegant source sister";

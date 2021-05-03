@@ -1,1 +1,1 @@
-var mnemonic = "catch spy mind miracle ship blood galaxy alcohol pulp regular behind cave";
+var mnemonic = "ancient trial panel reject escape diesel also purity wonder cousin base actual";

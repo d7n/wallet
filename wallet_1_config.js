@@ -1,1 +1,1 @@
-var mnemonic = "myth argue addict divorce hunt rotate despair gossip element corn reflect extra";
+var mnemonic = "cannon food risk retreat lounge month dice accident discover wolf tackle state";

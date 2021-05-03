@@ -1,1 +1,1 @@
-var mnemonic = "record catch orient frog trash wife solar ice genuine practice enlist build";
+var mnemonic = "clerk ill gauge plate baby grab scene powder point vocal ordinary avoid";
