@@ -1,1 +1,1 @@
-var mnemonic = "food rival draft unable pill course improve pepper night glimpse citizen conduct";
+var mnemonic = "area apart dress decline rabbit under among cushion puzzle thought action creek";

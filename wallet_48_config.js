@@ -1,1 +1,1 @@
-var mnemonic = "viable message upper transfer six pioneer deny thought seed aunt body fiscal";
+var mnemonic = "voyage side modify lemon fish conduct across reason midnight bring cheap win";

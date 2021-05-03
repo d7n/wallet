@@ -1,1 +1,1 @@
-var mnemonic = "course stomach identify slot pride clap junior sister harvest face crunch bag";
+var mnemonic = "adult unlock elegant improve photo pool crumble other sick donor acquire supreme";

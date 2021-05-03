@@ -1,1 +1,1 @@
-var mnemonic = "notable execute reform work junior token inch tenant embody wonder fold palm";
+var mnemonic = "auto spot scheme tip blossom great desert guilt tube bounce wire mosquito";

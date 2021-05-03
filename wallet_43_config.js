@@ -1,1 +1,1 @@
-var mnemonic = "fluid balcony better tail stool dizzy sister deposit sick coach outdoor maple";
+var mnemonic = "page urge sad manage cart agent visit side fashion mass guide fly";

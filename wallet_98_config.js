@@ -1,1 +1,1 @@
-var mnemonic = "foot common reopen member shock flee state puzzle direct hat pink unit";
+var mnemonic = "orbit rigid explain deliver eagle verify gospel comfort coffee lazy fatal salad";

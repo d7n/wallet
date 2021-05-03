@@ -1,1 +1,1 @@
-var mnemonic = "identify insane lyrics kid recall certain glide trap appear film file cup";
+var mnemonic = "race jazz portion police oven useful hockey nerve hold slogan couch nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "prefer happy grocery tired claw artist diet reunion frame habit one seminar";
+var mnemonic = "fence year actor price leg tomato live achieve lecture distance impulse embody";

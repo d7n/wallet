@@ -1,1 +1,1 @@
-var mnemonic = "anchor radar royal city own poem leopard involve smooth couple brother artist";
+var mnemonic = "hurry void asset endorse donate detail rain version ranch faith cycle upper";

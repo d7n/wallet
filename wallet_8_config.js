@@ -1,1 +1,1 @@
-var mnemonic = "side best silk mandate theme beef bunker castle swing outside royal hospital";
+var mnemonic = "gate happy erosion afford enjoy benefit chase hazard easily forest palace observe";

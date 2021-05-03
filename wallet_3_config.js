@@ -1,1 +1,1 @@
-var mnemonic = "unfair tooth awful yellow image crystal ability supreme voyage cancel unveil monitor";
+var mnemonic = "repeat sudden mule crater baby apology side acquire harvest decade stumble hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "crater combine lemon legend mesh oxygen adapt shell drink slot captain sorry";
+var mnemonic = "broccoli crew lend body result vault volcano trend web will dove cake";

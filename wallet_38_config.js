@@ -1,1 +1,1 @@
-var mnemonic = "mass absurd fun young stand major knife burger mother owner stairs brick";
+var mnemonic = "dove among sting immune fashion segment force dish recycle quick inflict income";

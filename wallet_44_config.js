@@ -1,1 +1,1 @@
-var mnemonic = "planet repair left victory wide adult marble glow hint clap vocal business";
+var mnemonic = "gold write there fetch hurry school fine update mobile title skate catch";

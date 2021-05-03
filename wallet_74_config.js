@@ -1,1 +1,1 @@
-var mnemonic = "sad audit volume gospel cement book science ethics bless brand grab real";
+var mnemonic = "mobile group shove face surround travel fish habit account service snake coach";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon frequent lecture enable man first force attract base approve above lift";
+var mnemonic = "search vintage obscure proud stand quick pass absent begin bar source lion";

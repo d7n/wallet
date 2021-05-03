@@ -1,1 +1,1 @@
-var mnemonic = "segment legend dish round manual park crane grid midnight demand develop flock";
+var mnemonic = "wrap slam winner unveil ranch chest rebel mule believe reform corn way";

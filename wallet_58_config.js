@@ -1,1 +1,1 @@
-var mnemonic = "educate sort wall item barely silk confirm art script knock either useless";
+var mnemonic = "essence monitor curious trouble nurse guilt polar viable lunar pride stomach perfect";

@@ -1,1 +1,1 @@
-var mnemonic = "riot weapon scrub kangaroo reveal almost badge report olympic thought marine spare";
+var mnemonic = "shop final abstract small betray they slim again chuckle correct distance exist";

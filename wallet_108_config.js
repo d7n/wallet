@@ -1,1 +1,1 @@
-var mnemonic = "arena blood equip grab crystal mobile rocket side exercise fatigue dumb grab";
+var mnemonic = "chase soap cloud table motion tongue door figure wasp video crucial answer";

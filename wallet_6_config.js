@@ -1,1 +1,1 @@
-var mnemonic = "cricket fury flight jacket shock disorder ceiling joke economy sense behave crew";
+var mnemonic = "cry property provide farm fever sort crisp salmon lucky sport net analyst";

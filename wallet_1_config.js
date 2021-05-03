@@ -1,1 +1,1 @@
-var mnemonic = "bless power volcano glare best group obtain puppy pottery gun oblige network";
+var mnemonic = "juice engine top run spider solution romance paper attend unaware culture update";

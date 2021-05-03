@@ -1,1 +1,1 @@
-var mnemonic = "ostrich pupil hood chase transfer opinion fringe leopard fault pottery ill advance";
+var mnemonic = "exhibit miss brown asthma label maple affair floor income visa pattern fuel";

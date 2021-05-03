@@ -1,1 +1,1 @@
-var mnemonic = "brick cause bottom figure leave surprise symptom draw siren matrix secret rigid";
+var mnemonic = "enter jar filter normal response rail coil powder oyster rotate congress alley";

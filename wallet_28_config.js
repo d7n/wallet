@@ -1,1 +1,1 @@
-var mnemonic = "slab april model write quick distance novel test step ship ticket donkey";
+var mnemonic = "custom drama quality flame rough canvas ivory steel kick ethics zoo mouse";

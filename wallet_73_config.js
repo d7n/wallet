@@ -1,1 +1,1 @@
-var mnemonic = "dress angle act dynamic impulse clean yellow provide tube math reveal oil";
+var mnemonic = "safe nasty caught rib visa maple curtain salt bean debate street hold";

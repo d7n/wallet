@@ -1,1 +1,1 @@
-var mnemonic = "juice merry decline unaware crucial aim answer fame mass doctor entry weekend";
+var mnemonic = "swift name plug situate chef upgrade inside shell round earth illegal silk";

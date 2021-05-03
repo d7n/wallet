@@ -1,1 +1,1 @@
-var mnemonic = "habit inhale fuel engage color message allow parent deer remove luxury attack";
+var mnemonic = "minute robust drive middle scorpion gasp clog develop unknown coral couch estate";

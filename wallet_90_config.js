@@ -1,1 +1,1 @@
-var mnemonic = "alert wreck spray control sword boat funny final since hen hour member";
+var mnemonic = "general used salon joke ignore canvas wheel army crush solve coin panel";

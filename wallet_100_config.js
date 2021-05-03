@@ -1,1 +1,1 @@
-var mnemonic = "afraid acquire rough thing honey say play frequent chronic guide crouch dial";
+var mnemonic = "inject come panda lizard rent real party owner unusual genius yellow tortoise";

@@ -1,1 +1,1 @@
-var mnemonic = "two fruit weasel license melt child monkey brief face cube blush brain";
+var mnemonic = "diesel someone pupil summer tired puppy assume fox attitude nurse riot until";

@@ -1,1 +1,1 @@
-var mnemonic = "dice steak unknown ability diagram trim lady vacant thrive film reform lend";
+var mnemonic = "marriage inmate tooth kiss balance kitchen narrow rapid stand sting dune pyramid";

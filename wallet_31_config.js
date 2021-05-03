@@ -1,1 +1,1 @@
-var mnemonic = "abstract anger range sunny shell despair rent bulb lab injury special make";
+var mnemonic = "spike waste brisk shallow eager tunnel rent fortune anxiety alert hero route";

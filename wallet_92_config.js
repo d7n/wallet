@@ -1,1 +1,1 @@
-var mnemonic = "slim birth space silent flavor agree nothing accuse force come hint movie";
+var mnemonic = "vast pet crew govern digital visa time purchase alone fluid code iron";

@@ -1,1 +1,1 @@
-var mnemonic = "else hair legend whip return polar strike summer breeze apology lizard entry";
+var mnemonic = "pulse then cage soccer vicious jungle already lecture boy spoil globe wool";

@@ -1,1 +1,1 @@
-var mnemonic = "horse gas knock wash unveil kitten mechanic labor double coast try split";
+var mnemonic = "dry taste much employ state auto plate race royal polar ticket load";

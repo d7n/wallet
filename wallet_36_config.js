@@ -1,1 +1,1 @@
-var mnemonic = "gadget distance transfer dignity source pull cash gossip require pyramid praise wheat";
+var mnemonic = "love finish cry dune welcome vanish come general panel minor amazing coconut";

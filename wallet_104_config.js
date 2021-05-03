@@ -1,1 +1,1 @@
-var mnemonic = "flee involve repeat armor guide render join curious home meadow gym doctor";
+var mnemonic = "embark breeze decade frown frost sight swallow memory volume wagon crop surround";

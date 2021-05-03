@@ -1,1 +1,1 @@
-var mnemonic = "like drift exercise speak release resist trophy arch project recipe wage pluck";
+var mnemonic = "argue hair deer equip decorate eight cattle action alone auto load plunge";

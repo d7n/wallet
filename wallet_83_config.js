@@ -1,1 +1,1 @@
-var mnemonic = "rubber tide dragon brand garden vehicle squirrel mimic spend lunch asset fat";
+var mnemonic = "umbrella silly soda spy escape please jewel code august auction crawl crucial";

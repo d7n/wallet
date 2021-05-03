@@ -1,1 +1,1 @@
-var mnemonic = "double hybrid left then orange notable negative brand vessel envelope image frequent";
+var mnemonic = "elite monster expand exchange chuckle tackle eyebrow exhibit merge proud ready medal";

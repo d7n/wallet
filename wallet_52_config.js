@@ -1,1 +1,1 @@
-var mnemonic = "mercy job donor senior tray arrive record royal grant mix candy chat";
+var mnemonic = "title job broken ozone wide drive rapid cloth train wage sniff vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive identify close opinion shop sibling culture child couch live immense toward";
+var mnemonic = "into trend street cousin unlock knock breeze quantum book group frequent possible";

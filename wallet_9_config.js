@@ -1,1 +1,1 @@
-var mnemonic = "erosion sniff beach much wonder garbage knife course confirm radio unaware dress";
+var mnemonic = "decade monster fade force invite empower fire empower mountain network hawk protect";

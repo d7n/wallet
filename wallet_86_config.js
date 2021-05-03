@@ -1,1 +1,1 @@
-var mnemonic = "amount arrow gadget nice ask inner crazy oblige replace clerk loop system";
+var mnemonic = "arm blur rate fatigue winter fox worth motor foam enemy detail inch";

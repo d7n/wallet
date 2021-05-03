@@ -1,1 +1,1 @@
-var mnemonic = "portion diagram oyster buzz goddess chuckle nose domain crash seed walk shoulder";
+var mnemonic = "asthma cup liquid barrel material detail table coral reason middle life pride";

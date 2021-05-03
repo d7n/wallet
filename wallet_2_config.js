@@ -1,1 +1,1 @@
-var mnemonic = "exercise during tower dizzy keen giraffe tool benefit bundle stadium urge reflect";
+var mnemonic = "series name evidence pudding exile scatter glow salmon treat donate inch snake";

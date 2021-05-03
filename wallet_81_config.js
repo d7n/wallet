@@ -1,1 +1,1 @@
-var mnemonic = "limb trust feed renew aunt hybrid feature near mutual snake reform critic";
+var mnemonic = "raccoon install ring trim over yard civil mystery rescue crack dish spend";

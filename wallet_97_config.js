@@ -1,1 +1,1 @@
-var mnemonic = "boat photo eyebrow magic help van chat hero inflict orange since extend";
+var mnemonic = "sad resemble elite either object lady present master hole lucky shell satisfy";

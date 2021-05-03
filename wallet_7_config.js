@@ -1,1 +1,1 @@
-var mnemonic = "season divert edit connect cat civil garden youth aspect flee poem country";
+var mnemonic = "wisdom rare jelly phone miss enforce worry submit fox carbon sibling typical";

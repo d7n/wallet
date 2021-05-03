@@ -1,1 +1,1 @@
-var mnemonic = "farm tonight jump dentist prefer worry paddle boring project venture cool book";
+var mnemonic = "climb shop element pistol gather stuff conduct poverty deputy bachelor chat mean";

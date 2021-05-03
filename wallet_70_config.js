@@ -1,1 +1,1 @@
-var mnemonic = "promote bulb party animal poet cinnamon mechanic loop audit awake object avocado";
+var mnemonic = "worth hedgehog destroy fiction tuition open blush pudding shed monitor release tomorrow";

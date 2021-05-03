@@ -1,1 +1,1 @@
-var mnemonic = "cook hour zero season fun joy fire margin path dose violin rice";
+var mnemonic = "modify oxygen market call hover ship infant common pluck frequent walnut gallery";

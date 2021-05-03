@@ -1,1 +1,1 @@
-var mnemonic = "depart prepare smart pioneer grass amused lion resist advice patrol travel when";
+var mnemonic = "either wolf cherry magic theory hero pen detail business adjust world real";

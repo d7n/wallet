@@ -1,1 +1,1 @@
-var mnemonic = "strong plug seven memory quarter digital flash twice diamond gate blood voyage";
+var mnemonic = "check clog expire actress fashion advice dynamic offer logic normal pig brand";

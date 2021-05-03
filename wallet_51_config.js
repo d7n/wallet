@@ -1,1 +1,1 @@
-var mnemonic = "correct hire venue mask amount face bring risk obvious month nasty during";
+var mnemonic = "rely invite wife sunny hero wheel wish warm upset glove plastic fiscal";

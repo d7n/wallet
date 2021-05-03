@@ -1,1 +1,1 @@
-var mnemonic = "direct adapt execute flower affair clown essence risk lunch recycle thumb situate";
+var mnemonic = "sketch wish ocean only forum pear afford scrap rebel flag saddle cream";

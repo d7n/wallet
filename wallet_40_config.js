@@ -1,1 +1,1 @@
-var mnemonic = "sound retire old delay denial invest imitate blade note van hockey short";
+var mnemonic = "wire silly leopard artefact toast firm arrive table charge table interest brave";

@@ -1,1 +1,1 @@
-var mnemonic = "ketchup discover field pluck pony canvas fun stumble sniff only photo enter";
+var mnemonic = "fetch soon swim glad quote excite stove arctic swarm series jelly bring";

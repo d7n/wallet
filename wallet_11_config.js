@@ -1,1 +1,1 @@
-var mnemonic = "safe valve harvest dentist pave tool glad tornado tragic session helmet owner";
+var mnemonic = "brass space correct clip pulp present soul opera student jazz humor cheap";

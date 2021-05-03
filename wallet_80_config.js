@@ -1,1 +1,1 @@
-var mnemonic = "burger wreck elbow surprise wire negative wife tortoise barely balcony cigar hint";
+var mnemonic = "together palace intact naive that depend worth switch once episode later income";

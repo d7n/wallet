@@ -1,1 +1,1 @@
-var mnemonic = "inhale spatial apart deputy lyrics fun wave blame undo walnut pretty project";
+var mnemonic = "baby cigar bubble sample time pride pair mixture sort ride goddess spy";

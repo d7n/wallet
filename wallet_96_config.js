@@ -1,1 +1,1 @@
-var mnemonic = "ten ready tilt name okay yellow wild sniff opinion when snap glimpse";
+var mnemonic = "hundred gain tell auto reflect vapor boy baby lunch stable skill left";

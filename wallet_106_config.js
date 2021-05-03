@@ -1,1 +1,1 @@
-var mnemonic = "diamond once border pride lawsuit sorry buyer yard setup sure bounce income";
+var mnemonic = "gadget orange find marriage nose gossip stereo much process call word poem";

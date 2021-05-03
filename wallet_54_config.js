@@ -1,1 +1,1 @@
-var mnemonic = "trip mask coyote clap main moment apple deny naive distance bitter tilt";
+var mnemonic = "deliver jelly evoke banner build what mandate retire coral strike point bless";

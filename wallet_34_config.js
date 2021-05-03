@@ -1,1 +1,1 @@
-var mnemonic = "winter pave coffee arrange fade orient cheese visa fault arrive circle run";
+var mnemonic = "thought have inside kitten medal math senior inhale goose remember like story";

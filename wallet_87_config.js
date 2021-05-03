@@ -1,1 +1,1 @@
-var mnemonic = "reform olympic where assist bus ramp west divorce wolf city ribbon suspect";
+var mnemonic = "mechanic smooth slender cable pepper forward jar update recipe student steel skirt";

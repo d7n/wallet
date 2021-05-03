@@ -1,1 +1,1 @@
-var mnemonic = "glare liquid combine salon noodle suit teach clinic tortoise pair auto broken";
+var mnemonic = "patrol guide grain idea festival shine flee other insect hint stool slim";

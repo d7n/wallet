@@ -1,1 +1,1 @@
-var mnemonic = "hover age device good flight essence party liberty same result diesel scrub";
+var mnemonic = "siren pole theory apart mad charge garment pizza develop twice warfare dish";

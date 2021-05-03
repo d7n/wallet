@@ -1,1 +1,1 @@
-var mnemonic = "away broken vanish display opinion swamp warfare donate shove liar crush enough";
+var mnemonic = "wife novel shine erosion afford salt blouse bag pattern blossom tomato silk";

@@ -1,1 +1,1 @@
-var mnemonic = "engage shy core kangaroo panther angry asset novel vote bachelor frog cereal";
+var mnemonic = "knock bullet series earth sport step kitten smart town mom song runway";

@@ -1,1 +1,1 @@
-var mnemonic = "curve twin ceiling quiz pistol nephew erosion deposit almost force push salt";
+var mnemonic = "say sing slogan another twelve price bachelor never topple globe hire chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "old oak hard shrug twenty evoke vivid title network place fetch conduct";
+var mnemonic = "royal push find bright catch sudden twin grape casual inherit eye emotion";

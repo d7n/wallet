@@ -1,1 +1,1 @@
-var mnemonic = "police hawk ceiling rescue gap into legend obey butter almost man burden";
+var mnemonic = "type detail dutch like security fun zero asthma swing screen true craft";

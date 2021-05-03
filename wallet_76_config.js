@@ -1,1 +1,1 @@
-var mnemonic = "search aunt entire liar sweet twice month quiz distance inhale umbrella degree";
+var mnemonic = "duty critic mountain glide mechanic chuckle since carpet belt soldier pass wrestle";

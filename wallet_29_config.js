@@ -1,1 +1,1 @@
-var mnemonic = "fatigue hand paper lottery way kind coil walnut hub disorder bulb vanish";
+var mnemonic = "buyer ecology mimic surge fashion capable level weapon pride excuse exist win";

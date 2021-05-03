@@ -1,1 +1,1 @@
-var mnemonic = "load topple begin inch lunch adjust true attack brief pig tree tool";
+var mnemonic = "base end soda oil badge dish use almost cat wild mind fine";

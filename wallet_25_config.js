@@ -1,1 +1,1 @@
-var mnemonic = "winter potato tuition hammer answer crowd since define file machine always weekend";
+var mnemonic = "banner end beef happy dish chimney absent embody year shaft sorry silly";

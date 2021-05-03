@@ -1,1 +1,1 @@
-var mnemonic = "swift baby mimic wear mix document quality trigger cook burst banana vessel";
+var mnemonic = "farm leave capable erode staff angry repair web pioneer neither prefer wine";

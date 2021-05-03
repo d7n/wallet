@@ -1,1 +1,1 @@
-var mnemonic = "gossip lock fish joke inch team vanish apart light absent garment lumber";
+var mnemonic = "captain spawn about spider detect swim decorate over siege lyrics dragon disorder";

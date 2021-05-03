@@ -1,1 +1,1 @@
-var mnemonic = "century wheat course comfort paper bid sample huge dream spell grid right";
+var mnemonic = "lazy trade frame income embark lizard response pupil deny wash settle fork";

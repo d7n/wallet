@@ -1,1 +1,1 @@
-var mnemonic = "unhappy attack pumpkin wire wall noise art lounge satoshi unlock can kingdom";
+var mnemonic = "twelve pen science toddler duck sadness differ caution loan board wheat virtual";

@@ -1,1 +1,1 @@
-var mnemonic = "front bachelor name trip reopen wrap final resemble razor situate tilt endless";
+var mnemonic = "length december sand demand adult entry rebel dog sunset snow trust trophy";
