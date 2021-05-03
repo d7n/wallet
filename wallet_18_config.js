@@ -1,1 +1,1 @@
-var mnemonic = "pear hurry settle image artefact kingdom any home detail dust axis source";
+var mnemonic = "bamboo clown radio swarm recall avoid fan else ten code aim shock";

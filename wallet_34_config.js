@@ -1,1 +1,1 @@
-var mnemonic = "acid shy guess horse fatal derive rib slam six trophy nurse canal";
+var mnemonic = "jeans problem coin private portion shed hobby inflict notice gorilla exist smoke";

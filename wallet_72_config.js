@@ -1,1 +1,1 @@
-var mnemonic = "exchange key cube void toe elite install holiday analyst current danger wrestle";
+var mnemonic = "express lock evoke blast young gospel offer reflect swift attitude crowd merry";

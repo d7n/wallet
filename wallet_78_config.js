@@ -1,1 +1,1 @@
-var mnemonic = "alien because crazy female city list easily suspect document rent blood magic";
+var mnemonic = "hollow neutral exclude fan return rocket still whisper hair action avoid write";

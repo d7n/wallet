@@ -1,1 +1,1 @@
-var mnemonic = "system mushroom crack person dinner slow siren limit mistake team eyebrow phone";
+var mnemonic = "kick lake spoil bless bulk black hamster token antique neglect clean enough";

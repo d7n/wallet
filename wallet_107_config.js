@@ -1,1 +1,1 @@
-var mnemonic = "minute mosquito traffic uniform split because lecture subject theory figure gap core";
+var mnemonic = "empower public response start dust aware main life midnight priority exist worry";

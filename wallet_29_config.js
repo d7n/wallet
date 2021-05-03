@@ -1,1 +1,1 @@
-var mnemonic = "primary kid win meadow tired bind hurt right express table humble road";
+var mnemonic = "mom story leisure recycle atom sea napkin hurry leopard wave razor guard";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal survey game movie feature already frost bread fruit solid grab just";
+var mnemonic = "luggage luxury detect farm camp insect great hat dice parrot frost live";

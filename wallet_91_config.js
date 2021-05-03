@@ -1,1 +1,1 @@
-var mnemonic = "shift few copy hill symptom badge soap prepare peanut earth faint recycle";
+var mnemonic = "empty cruise reject normal useful basket ladder impulse comic almost unusual level";

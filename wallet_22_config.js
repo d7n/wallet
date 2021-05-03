@@ -1,1 +1,1 @@
-var mnemonic = "urban walnut blade admit salt popular need refuse winter foam believe coffee";
+var mnemonic = "card gift crunch gorilla sea word inherit orange infant own loop city";

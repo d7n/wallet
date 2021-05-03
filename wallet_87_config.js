@@ -1,1 +1,1 @@
-var mnemonic = "cross clay gun code wool damp grow sort outer knock economy vote";
+var mnemonic = "crew erase lumber universe average mutual all girl dress blanket frown enhance";

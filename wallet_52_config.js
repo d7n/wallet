@@ -1,1 +1,1 @@
-var mnemonic = "swallow end drastic cash gap wolf sense warrior list thought upgrade ready";
+var mnemonic = "park deputy fiction team eagle dignity solution promote term protect sponsor elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol first remain moon ice citizen delay weather hamster assist table alert";
+var mnemonic = "purity relax measure view wrestle social exact artwork outside adjust idea ordinary";

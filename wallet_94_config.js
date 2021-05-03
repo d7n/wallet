@@ -1,1 +1,1 @@
-var mnemonic = "vacuum pull mean venture perfect file action input scrap impulse swarm behind";
+var mnemonic = "draw script distance cost sunny decade appear rural lamp embrace essence antique";

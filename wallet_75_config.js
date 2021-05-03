@@ -1,1 +1,1 @@
-var mnemonic = "embody city bike apart vital fee element manual viable scout camp sound";
+var mnemonic = "army friend permit sign crisp defense float almost hungry resemble doll pill";

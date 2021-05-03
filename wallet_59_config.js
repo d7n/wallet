@@ -1,1 +1,1 @@
-var mnemonic = "cross element wink during bridge image leaf dial click room produce beyond";
+var mnemonic = "orchard gain borrow crumble weekend pride utility soccer deny lawsuit clever turn";

@@ -1,1 +1,1 @@
-var mnemonic = "husband swamp old marine hybrid main horn tell lesson used vocal clap";
+var mnemonic = "slight lyrics cross minimum very salon pact gold broken list club brick";

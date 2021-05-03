@@ -1,1 +1,1 @@
-var mnemonic = "people rice credit final leaf hard off knee increase crucial case solid";
+var mnemonic = "play small clean general this soap enact enter cotton census empty awake";

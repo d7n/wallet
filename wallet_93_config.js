@@ -1,1 +1,1 @@
-var mnemonic = "result math appear occur come tennis scatter aerobic legal year such power";
+var mnemonic = "direct legal effort spawn tobacco tobacco antenna kind weekend unlock resemble wink";

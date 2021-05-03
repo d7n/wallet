@@ -1,1 +1,1 @@
-var mnemonic = "width spot bachelor monster give reveal vendor monkey quiz innocent shoulder ozone";
+var mnemonic = "left pottery taxi bronze frequent hurt agree slow hand twenty mother gun";

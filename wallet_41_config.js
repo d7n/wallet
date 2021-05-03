@@ -1,1 +1,1 @@
-var mnemonic = "snap topple service guess bronze first legend way heavy stamp yellow swift";
+var mnemonic = "chest extend acquire jacket noodle girl allow doll opinion bike sunset gun";

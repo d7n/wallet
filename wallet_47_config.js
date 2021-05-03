@@ -1,1 +1,1 @@
-var mnemonic = "skirt dirt village also toilet image hundred coffee process junior unhappy stand";
+var mnemonic = "damp glow vendor mom trouble tail mistake awkward sample version flower neglect";

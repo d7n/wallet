@@ -1,1 +1,1 @@
-var mnemonic = "bundle happy buyer prosper cart short salmon reflect crush kingdom census option";
+var mnemonic = "borrow amazing cabin wealth base assault write inside fortune famous olympic idea";

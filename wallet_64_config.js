@@ -1,1 +1,1 @@
-var mnemonic = "pill tissue open feel shock sand enable nature oil accuse romance crowd";
+var mnemonic = "tobacco fabric panel pattern banner salt surprise common foot angry pigeon forget";

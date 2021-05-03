@@ -1,1 +1,1 @@
-var mnemonic = "mother payment lab final reunion hamster region ask machine same custom demand";
+var mnemonic = "notable mammal thank leader skate dirt muffin girl gallery frame retire report";

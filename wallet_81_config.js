@@ -1,1 +1,1 @@
-var mnemonic = "quantum bar nuclear aisle combine bar youth actress nest enemy talent exchange";
+var mnemonic = "giraffe mercy employ point trash stock capital forest olive blind select dress";

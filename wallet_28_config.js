@@ -1,1 +1,1 @@
-var mnemonic = "kitchen flag solar salt sniff brass warrior track observe party narrow shop";
+var mnemonic = "deer phone drum time must settle behind brother desert circle piece tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "elder cart thank expire gas tonight then supply tell release jar diesel";
+var mnemonic = "primary ensure angle ski invite base crawl lemon crush congress width that";

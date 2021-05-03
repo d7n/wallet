@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin notice bacon pencil remove donor suit thank board green clock rain";
+var mnemonic = "atom share tired decorate fog false upon pledge lunch token symptom holiday";

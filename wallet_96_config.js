@@ -1,1 +1,1 @@
-var mnemonic = "royal economy apart paper icon loud poverty priority easy wave evolve find";
+var mnemonic = "unusual then cargo raven way where interest warm spoil scare giant lock";

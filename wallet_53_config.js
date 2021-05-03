@@ -1,1 +1,1 @@
-var mnemonic = "decorate morning injury disease task inquiry rail snow indicate assault slogan sock";
+var mnemonic = "vacant kid sunny globe infant clump swap provide awkward close crater lock";

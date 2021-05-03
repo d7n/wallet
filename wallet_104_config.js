@@ -1,1 +1,1 @@
-var mnemonic = "wolf surge quarter open bitter damage obscure depart change pupil release moral";
+var mnemonic = "earth animal nation swap hamster upon search powder argue roof easy grow";

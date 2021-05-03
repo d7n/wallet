@@ -1,1 +1,1 @@
-var mnemonic = "put crane smart process solid waste truth design excite indicate donate cart";
+var mnemonic = "arctic castle inside state debris syrup goddess tape year state excite permit";

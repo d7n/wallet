@@ -1,1 +1,1 @@
-var mnemonic = "drop dove history outer vault only utility main index glare furnace expire";
+var mnemonic = "climb prison able idle space copper motor script ridge desk journey floor";

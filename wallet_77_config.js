@@ -1,1 +1,1 @@
-var mnemonic = "diesel sunny tray sail hammer tiny vague rookie ritual pioneer fever monkey";
+var mnemonic = "village spell more clown fox tortoise renew attitude lava settle traffic blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "guess canvas pupil horse swim voice bracket muscle gain style country story";
+var mnemonic = "ship rebel snack tiny luggage follow pattern measure weekend visa chaos doll";

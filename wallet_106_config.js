@@ -1,1 +1,1 @@
-var mnemonic = "rabbit route shift pepper same extra tree rug sauce zone armed deposit";
+var mnemonic = "dress pause maid egg civil art stadium top recipe grid dish light";

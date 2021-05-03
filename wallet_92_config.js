@@ -1,1 +1,1 @@
-var mnemonic = "dilemma broken select turtle dose actual flower eight economy chuckle moon frame";
+var mnemonic = "turn pilot satoshi hunt orient ocean measure strong derive cherry erode biology";

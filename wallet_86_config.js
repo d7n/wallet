@@ -1,1 +1,1 @@
-var mnemonic = "guard penalty armed cart arrow sugar fancy bamboo paper match repair year";
+var mnemonic = "lobster switch talent best labor kid erosion sense dust envelope reject law";

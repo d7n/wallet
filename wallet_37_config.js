@@ -1,1 +1,1 @@
-var mnemonic = "doll next cabin dumb hub weird toast enrich elbow fire glass height";
+var mnemonic = "mind drink token addict hub shoulder drink giant code always polar zoo";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter coast champion discover race maple screen clown require deliver circle acid";
+var mnemonic = "husband need disease wrong unhappy symptom truck april maple tenant draw sweet";

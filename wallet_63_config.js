@@ -1,1 +1,1 @@
-var mnemonic = "pear inspire list income mad dutch save express tiger need during reunion";
+var mnemonic = "cargo wrong zoo enter chapter arrest pluck purpose shadow exercise topple unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "second lawsuit coast utility visit check scissors city quality urban practice very";
+var mnemonic = "regret gauge rail use robust genuine cry luxury silly knee name leopard";

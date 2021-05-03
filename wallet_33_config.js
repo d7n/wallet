@@ -1,1 +1,1 @@
-var mnemonic = "cricket police evil hold shove dilemma illegal smile month congress bamboo guard";
+var mnemonic = "truck black bench initial dolphin upon device prevent bench print turkey cube";

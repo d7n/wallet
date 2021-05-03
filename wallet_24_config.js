@@ -1,1 +1,1 @@
-var mnemonic = "diagram aunt help dilemma fetch diary omit honey guide until profit salt";
+var mnemonic = "issue jaguar planet weapon flight spice rent resist tilt scatter gospel purity";

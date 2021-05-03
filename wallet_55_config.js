@@ -1,1 +1,1 @@
-var mnemonic = "pave foam ball hat frog grant foil banner enrich digital floor arrow";
+var mnemonic = "mobile upgrade arctic elephant miss oil route glance spray team mixed energy";

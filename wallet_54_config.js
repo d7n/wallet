@@ -1,1 +1,1 @@
-var mnemonic = "magic letter this dice survey turkey alien episode melody wheat birth swift";
+var mnemonic = "sell elegant humor appear art surround enact vacant slush fiction tobacco brick";

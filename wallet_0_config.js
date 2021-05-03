@@ -1,1 +1,1 @@
-var mnemonic = "sail ready enhance alarm cruel rough cycle grass rocket suspect catch piece";
+var mnemonic = "survey priority plug fresh truth glass hub surround rocket ice letter service";

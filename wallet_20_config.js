@@ -1,1 +1,1 @@
-var mnemonic = "loud antique remove trumpet pulp tube cattle cluster drop maximum flight parrot";
+var mnemonic = "dose cram bacon bullet dwarf collect cycle bar permit expose nurse cost";

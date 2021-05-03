@@ -1,1 +1,1 @@
-var mnemonic = "mandate drip slight combine amount lens believe toy visual right attend gate";
+var mnemonic = "satoshi remove bicycle merge chimney song wait avoid helmet problem fury casino";

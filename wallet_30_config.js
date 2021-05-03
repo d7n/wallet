@@ -1,1 +1,1 @@
-var mnemonic = "install attitude cube simple index acoustic useless blanket curious tennis hawk gallery";
+var mnemonic = "neutral oak peace frog motor scale about measure guilt wood bless math";

@@ -1,1 +1,1 @@
-var mnemonic = "nice box survey frame gain hotel consider strategy fruit toe approve ecology";
+var mnemonic = "wrist space pupil correct noble egg glory suit deposit tennis lunch large";

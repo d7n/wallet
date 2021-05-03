@@ -1,1 +1,1 @@
-var mnemonic = "grow obtain like beach danger festival matter margin range bind step island";
+var mnemonic = "dance measure ankle original surface idea tired drink rebel leisure satoshi wealth";

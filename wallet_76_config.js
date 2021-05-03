@@ -1,1 +1,1 @@
-var mnemonic = "dog female infant chicken enter permit lazy cinnamon vintage club position inquiry";
+var mnemonic = "manual broccoli chat wet announce cattle omit matrix trade join silent urge";

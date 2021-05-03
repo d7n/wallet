@@ -1,1 +1,1 @@
-var mnemonic = "park slender gas exclude air twin path public empower face mobile eagle";
+var mnemonic = "alley dune diamond purchase rookie viable about rough need crawl robot salmon";

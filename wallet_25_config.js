@@ -1,1 +1,1 @@
-var mnemonic = "access dinosaur assault unhappy elder song nominee van under hold usual erase";
+var mnemonic = "all brass then fish envelope huge neutral you matter above soldier again";

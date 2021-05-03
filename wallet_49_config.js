@@ -1,1 +1,1 @@
-var mnemonic = "cave usage opinion video flat square taxi oppose churn leave blue bring";
+var mnemonic = "rent town draft kingdom need fantasy mutual defy cupboard swallow wall sorry";

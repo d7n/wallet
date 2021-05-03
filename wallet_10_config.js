@@ -1,1 +1,1 @@
-var mnemonic = "afraid wisdom pill keep artwork jeans treat achieve mixture output steel hollow";
+var mnemonic = "walnut blast correct paddle around grow ten detail senior dose antique rapid";

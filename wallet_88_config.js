@@ -1,1 +1,1 @@
-var mnemonic = "frame gaze minimum eternal work wheel hobby real element duck submit unaware";
+var mnemonic = "crack fatigue grit eight stumble bicycle curtain rural stem mechanic love provide";

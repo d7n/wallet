@@ -1,1 +1,1 @@
-var mnemonic = "security delay uphold spatial where logic congress cradle metal check measure lizard";
+var mnemonic = "ethics cube zone adjust fruit coyote subject limb menu swear economy ordinary";

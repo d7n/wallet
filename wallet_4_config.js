@@ -1,1 +1,1 @@
-var mnemonic = "lounge spatial midnight tube keen disorder artefact riot jeans script chat road";
+var mnemonic = "scale myself kit retire soon private mechanic make wish ball delay girl";

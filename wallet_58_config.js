@@ -1,1 +1,1 @@
-var mnemonic = "riot ankle quote boss spy tunnel edit skull reward miracle hope aerobic";
+var mnemonic = "fade pretty ivory online love dash sunny interest forget announce slam common";

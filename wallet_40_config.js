@@ -1,1 +1,1 @@
-var mnemonic = "link middle position middle police derive churn car chicken chair disagree witness";
+var mnemonic = "proud assist spice pluck lion young domain tent waste agree laundry exclude";

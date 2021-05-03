@@ -1,1 +1,1 @@
-var mnemonic = "flame prize erase actual company antenna spoil pass write alpha impact law";
+var mnemonic = "coil soccer duck woman give chunk rain style expose wrong badge tomorrow";

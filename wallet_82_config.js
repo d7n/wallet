@@ -1,1 +1,1 @@
-var mnemonic = "exit snake lunch educate armor volcano dish basic usage fitness kangaroo legal";
+var mnemonic = "surge orange latin this suspect hire eager erosion dune hospital object soul";

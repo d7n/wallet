@@ -1,1 +1,1 @@
-var mnemonic = "foil inch choice crowd night habit seek maple month manage shed brush";
+var mnemonic = "dynamic shy grab energy share permit actress worth walnut shop say census";

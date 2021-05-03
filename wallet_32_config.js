@@ -1,1 +1,1 @@
-var mnemonic = "rail black erase polar apology loyal embrace expect short wife winter rain";
+var mnemonic = "thought trust jealous boy fiber breeze basic error review now vapor false";

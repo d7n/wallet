@@ -1,1 +1,1 @@
-var mnemonic = "coffee slogan abstract taxi fiction cable inject glow horror slim path lucky";
+var mnemonic = "danger pumpkin history define polar scrub quote zone vessel task tired movie";

@@ -1,1 +1,1 @@
-var mnemonic = "page crime bench snap subway subject term clever hundred borrow fragile cupboard";
+var mnemonic = "glimpse harsh witness name chuckle burst stove nest cup fine luggage change";

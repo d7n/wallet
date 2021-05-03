@@ -1,1 +1,1 @@
-var mnemonic = "train heart apology sibling meadow walk slide various spell heart betray duck";
+var mnemonic = "board jazz grass wink script mistake soft awake observe obscure cheap real";

@@ -1,1 +1,1 @@
-var mnemonic = "hundred below pill artwork chef puzzle trim rib direct elite parrot climb";
+var mnemonic = "awkward audit wolf cross sport hen gym car kick balcony moral ready";

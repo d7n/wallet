@@ -1,1 +1,1 @@
-var mnemonic = "traffic hello duty melody inspire tennis miracle gather soccer plastic tape all";
+var mnemonic = "future garment someone human gospel noise eight senior jump plastic liquid delay";

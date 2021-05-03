@@ -1,1 +1,1 @@
-var mnemonic = "humble rain demand few kind work kite obtain manual torch employ ready";
+var mnemonic = "secret nature hawk since zero cancel chuckle rain remain ethics belt mom";

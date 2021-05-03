@@ -1,1 +1,1 @@
-var mnemonic = "seat unaware napkin hunt shop arctic type sing happy able flash shuffle";
+var mnemonic = "diet birth spring inside economy tuna team pink trophy aunt maple field";

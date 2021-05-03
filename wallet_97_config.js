@@ -1,1 +1,1 @@
-var mnemonic = "caution prison venture ski silk cigar ozone access plug supply error ask";
+var mnemonic = "snow sponsor wasp source maze jelly slush garden kiss august find sell";

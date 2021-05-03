@@ -1,1 +1,1 @@
-var mnemonic = "rule sight endless wild produce execute question regret wheat devote great visa";
+var mnemonic = "mind tree minor pen field vibrant metal fork great skate youth path";

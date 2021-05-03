@@ -1,1 +1,1 @@
-var mnemonic = "list can clap combine faint front material claw faculty arctic victory width";
+var mnemonic = "abstract try observe script void grass renew fury snap joy achieve card";

@@ -1,1 +1,1 @@
-var mnemonic = "skill vintage chaos bird sign sausage suit library furnace layer remain delay";
+var mnemonic = "theme truly drift ethics milk warfare forest very ball what obtain rocket";

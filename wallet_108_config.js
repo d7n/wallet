@@ -1,1 +1,1 @@
-var mnemonic = "mouse reward loud moon lazy school crane check sense unique phrase hill";
+var mnemonic = "siren peanut craft magic venture second together ticket mercy call spider source";

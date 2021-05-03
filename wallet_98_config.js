@@ -1,1 +1,1 @@
-var mnemonic = "salute hat hazard tribe govern door spoil basket spare grunt afford review";
+var mnemonic = "myself need wall rocket digital journey envelope kind hill save solar buffalo";

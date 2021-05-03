@@ -1,1 +1,1 @@
-var mnemonic = "squirrel render roof lamp width mushroom liberty someone assault hedgehog monitor toy";
+var mnemonic = "little mixture essay outer cancel easily beach critic film rifle lyrics license";

@@ -1,1 +1,1 @@
-var mnemonic = "session veteran asthma desk situate load sail sniff box tree series summer";
+var mnemonic = "gym book reason century hockey double eye gossip clay fix cloud tree";

@@ -1,1 +1,1 @@
-var mnemonic = "empower barrel neither ladder gas gadget glimpse crawl acid couple hungry mind";
+var mnemonic = "ketchup august snap produce inform poverty picnic expand female conduct stairs uncle";

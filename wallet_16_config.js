@@ -1,1 +1,1 @@
-var mnemonic = "creek click flame scrap huge inmate adapt index road flight parade when";
+var mnemonic = "chimney betray immense enact member tumble develop gather timber wild belt hill";

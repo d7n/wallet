@@ -1,1 +1,1 @@
-var mnemonic = "ball invest waste hedgehog bleak tiny purchase blush buyer february valve draw";
+var mnemonic = "twenty habit velvet issue change bone where boat home obey shell only";
