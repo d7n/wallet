@@ -1,1 +1,1 @@
-var mnemonic = "industry tortoise iron retreat vital deliver until fiber grab second random any";
+var mnemonic = "exact stone dignity fringe prosper broom siren slim anger concert start insect";

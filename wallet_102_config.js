@@ -1,1 +1,1 @@
-var mnemonic = "stamp april river funny gift bright swim faith mystery pond poem canyon";
+var mnemonic = "almost surge endless approve auto yard powder start coral stone sister type";

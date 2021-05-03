@@ -1,1 +1,1 @@
-var mnemonic = "nature protect lion admit apology quit tooth idle defy mad glide pilot";
+var mnemonic = "dose miracle sword dream alarm theme sponsor hybrid horse apple squirrel maximum";

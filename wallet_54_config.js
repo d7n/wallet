@@ -1,1 +1,1 @@
-var mnemonic = "path hungry angle tail other comfort border drum company better slow people";
+var mnemonic = "scheme vacuum flash switch ghost youth rose desert group feel rebel toast";

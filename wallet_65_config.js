@@ -1,1 +1,1 @@
-var mnemonic = "box dial prevent normal butter deposit end artwork aerobic adapt aunt quarter";
+var mnemonic = "true water region panther canal carbon mad predict repair grain pave laptop";

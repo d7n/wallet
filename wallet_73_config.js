@@ -1,1 +1,1 @@
-var mnemonic = "viable gossip polar rack segment silent fortune congress wood army wonder future";
+var mnemonic = "deal wool crime dress thumb faint behind east worry grass floor target";

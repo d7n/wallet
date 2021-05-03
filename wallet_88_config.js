@@ -1,1 +1,1 @@
-var mnemonic = "letter include rural kiss frame shift sugar oven calm blast current tonight";
+var mnemonic = "thing post dinosaur valid water defense educate hotel coyote foam obey control";

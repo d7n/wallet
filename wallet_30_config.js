@@ -1,1 +1,1 @@
-var mnemonic = "trick achieve judge tuition increase alarm distance feed alert jaguar license tourist";
+var mnemonic = "north lend hover wedding actual comic exclude exact narrow winter federal economy";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss payment chair human tongue soldier thrive leisure danger chicken decorate actress";
+var mnemonic = "couch found window rabbit outdoor bounce opinion prepare fish glare episode miss";

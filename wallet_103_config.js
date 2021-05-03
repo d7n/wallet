@@ -1,1 +1,1 @@
-var mnemonic = "empty swap ozone stick quick tribe nerve boy citizen where turtle where";
+var mnemonic = "near weather badge unit return real bunker depart hawk mango zebra replace";

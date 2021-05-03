@@ -1,1 +1,1 @@
-var mnemonic = "heavy riot barely kingdom town monkey tonight holiday luxury claim pluck debris";
+var mnemonic = "uphold biology defense dune defy audit element gaze problem eager allow alter";

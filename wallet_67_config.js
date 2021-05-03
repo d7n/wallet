@@ -1,1 +1,1 @@
-var mnemonic = "expose scare fame orient tomorrow skate very avoid ring fever logic cliff";
+var mnemonic = "ticket armed business ordinary helmet later student become skirt exhibit pistol cycle";

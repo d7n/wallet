@@ -1,1 +1,1 @@
-var mnemonic = "language purse prevent tunnel patient cash art enrich craft where love cherry";
+var mnemonic = "time naive tongue cream define journey step where twice harvest want awake";

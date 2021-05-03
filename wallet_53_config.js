@@ -1,1 +1,1 @@
-var mnemonic = "term imitate manual fringe shell winner reunion tribe home during good heavy";
+var mnemonic = "divorce egg urge together pole quit simple price caught public carbon punch";

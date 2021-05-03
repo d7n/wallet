@@ -1,1 +1,1 @@
-var mnemonic = "minute candy parent until suggest plug fade toe avocado human spawn early";
+var mnemonic = "guilt laugh shy alcohol wise decorate resist volcano scout unveil pumpkin lunar";

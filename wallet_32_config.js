@@ -1,1 +1,1 @@
-var mnemonic = "useful metal void wealth distance lab produce pond congress solution ceiling useless";
+var mnemonic = "memory walnut anchor quit phone movie hurry casual cabin celery lizard athlete";

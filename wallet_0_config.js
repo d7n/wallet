@@ -1,1 +1,1 @@
-var mnemonic = "saddle vacuum sister cream gold allow demise neutral auto someone buddy play";
+var mnemonic = "urge muffin improve liquid say say copy report upgrade degree solve girl";

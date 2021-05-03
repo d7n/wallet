@@ -1,1 +1,1 @@
-var mnemonic = "scrap cross hungry move smile clown ticket scissors session urban april blouse";
+var mnemonic = "token abandon diamond come friend drill jungle dizzy wink second salon lecture";

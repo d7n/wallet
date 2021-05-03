@@ -1,1 +1,1 @@
-var mnemonic = "banana wreck comic write melody copy sport timber step iron happy make";
+var mnemonic = "item drink find exhibit reason pact abstract opera give viable turn menu";

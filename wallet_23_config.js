@@ -1,1 +1,1 @@
-var mnemonic = "ribbon scheme index confirm mixed pottery sudden popular subway program source volcano";
+var mnemonic = "service chalk unusual truth staff brand critic glance science power subject priority";

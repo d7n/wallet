@@ -1,1 +1,1 @@
-var mnemonic = "mushroom retreat husband verb tattoo churn enjoy alter dentist mass scatter stamp";
+var mnemonic = "fish shallow female coil warfare remind spring unable only narrow general wait";

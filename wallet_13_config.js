@@ -1,1 +1,1 @@
-var mnemonic = "walk defense book neither hurt ancient tip rescue awkward story salmon pistol";
+var mnemonic = "hero hurdle wrong script ozone give trip client venue method cotton road";

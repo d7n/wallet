@@ -1,1 +1,1 @@
-var mnemonic = "burden inner permit poem armed flight clever sauce search old quantum tower";
+var mnemonic = "female high deposit knock before invest tennis trophy appear maximum weasel advice";

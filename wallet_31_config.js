@@ -1,1 +1,1 @@
-var mnemonic = "sock panther review end clip heart nephew motion throw behind forward move";
+var mnemonic = "feel glance solid trigger kangaroo confirm embody afford drop forward senior figure";

@@ -1,1 +1,1 @@
-var mnemonic = "catch cook lamp garlic stable test dentist column increase track index frame";
+var mnemonic = "unaware wet panel gun promote parrot general coach error soon sweet hint";

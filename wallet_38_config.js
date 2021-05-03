@@ -1,1 +1,1 @@
-var mnemonic = "aspect heart kitchen item salmon utility narrow elegant picture soul ladder know";
+var mnemonic = "anchor nation undo organ dynamic churn rare advance emerge armor snake vapor";

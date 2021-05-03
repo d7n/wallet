@@ -1,1 +1,1 @@
-var mnemonic = "senior body loyal twenty loop curtain calm put amount chief apple fantasy";
+var mnemonic = "wool simple pulse ahead bench master layer burger coyote drum glory ranch";

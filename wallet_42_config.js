@@ -1,1 +1,1 @@
-var mnemonic = "boss hockey normal travel promote marble potato regret rely group grace sunset";
+var mnemonic = "sign track same hedgehog winter board welcome relax museum try decorate width";

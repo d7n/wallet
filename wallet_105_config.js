@@ -1,1 +1,1 @@
-var mnemonic = "thank swamp cactus top kingdom veteran coast sort flock live egg luxury";
+var mnemonic = "witness angry affair answer vibrant occur wheel tunnel connect end lift force";

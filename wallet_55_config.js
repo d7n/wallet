@@ -1,1 +1,1 @@
-var mnemonic = "try breeze arrest result judge slogan trash crucial same shoot gloom husband";
+var mnemonic = "silk inch pen aware ritual cushion merry hazard bright gadget tiny soon";

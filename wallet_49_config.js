@@ -1,1 +1,1 @@
-var mnemonic = "try chuckle trophy post involve sponsor latin sunny child sleep pizza urban";
+var mnemonic = "weekend bulk argue coffee scout injury asthma defense shove hint coyote shrug";

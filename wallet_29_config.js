@@ -1,1 +1,1 @@
-var mnemonic = "balance sell people neck base rookie leopard glimpse absorb general angry void";
+var mnemonic = "luggage genre increase orbit essence clay smooth borrow light poverty neither fee";

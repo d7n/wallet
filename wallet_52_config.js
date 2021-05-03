@@ -1,1 +1,1 @@
-var mnemonic = "tomato phrase tissue ready raise best elegant nest space sight develop sister";
+var mnemonic = "soap lemon allow peace army shop eight fever youth glance icon bring";

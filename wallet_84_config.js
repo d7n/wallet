@@ -1,1 +1,1 @@
-var mnemonic = "west flag snap spread size fragile replace kit anxiety chapter renew income";
+var mnemonic = "wedding indoor elevator best guide polar snap enrich vendor phone oak neck";

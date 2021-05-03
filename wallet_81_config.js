@@ -1,1 +1,1 @@
-var mnemonic = "sadness bind rain army monster into twist marble joy nominee will legend";
+var mnemonic = "breeze tunnel foster draft runway seven save bid cloud prepare aspect dragon";

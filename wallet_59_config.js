@@ -1,1 +1,1 @@
-var mnemonic = "brother topple mushroom indicate flat near slight father maid churn crater force";
+var mnemonic = "slam erode forum wolf obvious fruit laundry life kiwi exist truck never";

@@ -1,1 +1,1 @@
-var mnemonic = "era obey fiction prosper unfold smooth tackle mountain mesh arm special basket";
+var mnemonic = "kingdom glue improve float warrior kitchen satoshi hedgehog invest error fury indoor";

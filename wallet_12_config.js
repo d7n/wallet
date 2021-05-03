@@ -1,1 +1,1 @@
-var mnemonic = "rotate melody raccoon beyond shine screen mix pride window flight fetch trim";
+var mnemonic = "jewel meadow simple grab night mixture balance modify decorate cancel belt join";

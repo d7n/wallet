@@ -1,1 +1,1 @@
-var mnemonic = "wheat juice analyst reason stove shy wrong hope dad latin bike absent";
+var mnemonic = "oxygen room equal height meat rule plate math avocado typical enjoy recycle";

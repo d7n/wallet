@@ -1,1 +1,1 @@
-var mnemonic = "enable rice height sorry beauty employ clap absurd dinosaur pool action cloth";
+var mnemonic = "hunt text reunion glide panda fetch shallow approve venture race degree bacon";

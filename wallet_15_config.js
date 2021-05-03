@@ -1,1 +1,1 @@
-var mnemonic = "demise mention baby hour they sign witness random jeans frozen verify celery";
+var mnemonic = "increase dice icon bicycle virus possible cruel solar bind pretty salon correct";

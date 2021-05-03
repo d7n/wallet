@@ -1,1 +1,1 @@
-var mnemonic = "final blast monkey stable elder riot drive valid rebel idea neck space";
+var mnemonic = "scrub render useless fatigue faculty shock unveil limit evidence law seat wall";

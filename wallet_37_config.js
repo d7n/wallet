@@ -1,1 +1,1 @@
-var mnemonic = "fetch pitch riot foot vehicle length canal equip hawk good season atom";
+var mnemonic = "evoke garment victory table oak first dilemma exit sphere access glow horse";

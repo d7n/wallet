@@ -1,1 +1,1 @@
-var mnemonic = "frequent salad impulse forest imitate salon rough nominee outside seminar differ adjust";
+var mnemonic = "lesson reduce person rather bean lens adjust female buzz photo vital drip";

@@ -1,1 +1,1 @@
-var mnemonic = "boss engage music egg subway almost filter silly trash tourist snake hello";
+var mnemonic = "public enjoy trophy kitten clog blast describe print moment secret title caution";

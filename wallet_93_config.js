@@ -1,1 +1,1 @@
-var mnemonic = "spatial movie orient copy salmon connect brown celery business file face harsh";
+var mnemonic = "beach crazy empty useless food divorce churn seed spoil any girl penalty";

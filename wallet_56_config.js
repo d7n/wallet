@@ -1,1 +1,1 @@
-var mnemonic = "husband resist involve affair remain battle exist muscle reunion still wise keep";
+var mnemonic = "frost extend rural dash illness dad great nuclear spoon cost neglect awesome";

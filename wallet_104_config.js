@@ -1,1 +1,1 @@
-var mnemonic = "acid tired license drive hard improve thought maple recall typical asset mystery";
+var mnemonic = "fatigue august maid spoon upon want relief uncle tourist throw execute park";

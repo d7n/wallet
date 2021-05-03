@@ -1,1 +1,1 @@
-var mnemonic = "stay tent tobacco weekend creek announce already option biology brain feed involve";
+var mnemonic = "baby hello legal hat flavor decorate swap vapor asset matter cigar address";

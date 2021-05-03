@@ -1,1 +1,1 @@
-var mnemonic = "belt super chuckle lamp beauty wild project expire turkey lake amused glide";
+var mnemonic = "grant ghost normal lawsuit oval stable share decline road follow avoid project";

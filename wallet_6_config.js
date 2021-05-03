@@ -1,1 +1,1 @@
-var mnemonic = "slogan delay survey bike mushroom rather stamp edge net narrow clip derive";
+var mnemonic = "giant just aware cry slice hidden wheel act amount judge away million";

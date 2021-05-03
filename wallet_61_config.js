@@ -1,1 +1,1 @@
-var mnemonic = "mix inside sponsor twice frequent bottom paper artefact donor student rather alert";
+var mnemonic = "claw citizen broom rally gate organ caution include hockey hundred pizza deputy";

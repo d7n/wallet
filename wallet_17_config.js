@@ -1,1 +1,1 @@
-var mnemonic = "raven champion transfer seat hole mystery surface control thunder love design balance";
+var mnemonic = "bulk bottom rib human squeeze burst elephant royal leg fitness impulse consider";

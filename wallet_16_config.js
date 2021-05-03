@@ -1,1 +1,1 @@
-var mnemonic = "feel actual hill senior hobby drive conduct conduct globe guard fresh clever";
+var mnemonic = "rubber future control faculty beyond end project fiber valid flock damp buzz";

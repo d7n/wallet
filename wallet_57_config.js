@@ -1,1 +1,1 @@
-var mnemonic = "six mobile sibling round flip critic weather swarm fitness inform roast reward";
+var mnemonic = "offer alert vacuum vibrant forward pig armor ridge imitate lumber grit witness";

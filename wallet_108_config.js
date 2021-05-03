@@ -1,1 +1,1 @@
-var mnemonic = "shoe mutual inmate shrimp chef vacant normal turn kitchen diagram intact stamp";
+var mnemonic = "there gauge brown life network timber consider robust nut symptom choice under";

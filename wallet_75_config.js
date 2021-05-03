@@ -1,1 +1,1 @@
-var mnemonic = "load endorse steel below whale swear body exclude enemy female pull close";
+var mnemonic = "head pistol muffin athlete main hard hood stairs clean era place maple";

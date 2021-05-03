@@ -1,1 +1,1 @@
-var mnemonic = "announce spy baby teach hurry hover style network hen toward sleep scene";
+var mnemonic = "loud broom rare hybrid fluid ribbon legend coral salute mass sword frost";

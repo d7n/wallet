@@ -1,1 +1,1 @@
-var mnemonic = "flight visual gaze snack unfair brand velvet term frame usage rich rare";
+var mnemonic = "grain divorce solid brother balcony mutual shrimp invest gather vendor vital series";

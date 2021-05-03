@@ -1,1 +1,1 @@
-var mnemonic = "rabbit search twist saddle oyster occur pause today next report scheme lend";
+var mnemonic = "client piece then winter render bomb eternal damage rhythm grow talk drip";

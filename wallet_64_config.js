@@ -1,1 +1,1 @@
-var mnemonic = "treat million state similar market faint slab front defense match youth ordinary";
+var mnemonic = "auto abuse flee fire kiss combine tackle napkin afford drastic property scene";

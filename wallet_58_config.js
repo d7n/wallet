@@ -1,1 +1,1 @@
-var mnemonic = "zone often impulse ankle such piece weird duty peanut govern other soul";
+var mnemonic = "pelican elegant jazz provide promote hybrid rural bachelor tonight vote attitude alley";

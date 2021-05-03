@@ -1,1 +1,1 @@
-var mnemonic = "notice side bridge marble rug scissors buyer tiger lift garlic cement fit";
+var mnemonic = "sail hotel spirit silk minimum oil flavor armor practice burger object injury";

@@ -1,1 +1,1 @@
-var mnemonic = "health work hurt novel mystery curve sad tenant stay tired best resource";
+var mnemonic = "penalty wing crazy faith bacon rule gift cattle slender any deal prison";

@@ -1,1 +1,1 @@
-var mnemonic = "blind mobile venture recipe rain win mother chalk shoulder memory innocent emotion";
+var mnemonic = "library rapid foster help quick title vital lobster gun flip walnut violin";

@@ -1,1 +1,1 @@
-var mnemonic = "very atom north same eager minute cargo story relax hill lab true";
+var mnemonic = "nut delay major iron elder dinner away today burst balance friend genre";

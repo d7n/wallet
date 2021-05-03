@@ -1,1 +1,1 @@
-var mnemonic = "sentence law clarify apple below mammal tuition loyal tragic glove illegal during";
+var mnemonic = "dawn valve inquiry admit acid april chuckle check produce boy title regret";

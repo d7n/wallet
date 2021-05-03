@@ -1,1 +1,1 @@
-var mnemonic = "fortune gorilla detect wide leaf narrow clock hawk renew cargo journey coast";
+var mnemonic = "involve grow void dash better arrive water either domain infant casino road";

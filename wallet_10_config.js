@@ -1,1 +1,1 @@
-var mnemonic = "combine fence town sibling shield lava cabin pluck cousin only below ask";
+var mnemonic = "super nation notice general gossip misery saddle van page object quote mammal";

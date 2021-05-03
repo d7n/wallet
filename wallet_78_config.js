@@ -1,1 +1,1 @@
-var mnemonic = "employ hard match trade rotate memory acquire female wild earn only grab";
+var mnemonic = "present another cherry birth object danger monster syrup list wonder butter cause";

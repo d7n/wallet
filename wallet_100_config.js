@@ -1,1 +1,1 @@
-var mnemonic = "fee fluid firm fatigue bundle more truth people flip shed pepper category";
+var mnemonic = "top clever toddler stumble bridge brisk detect share suit index session sniff";

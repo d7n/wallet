@@ -1,1 +1,1 @@
-var mnemonic = "home art gaze forum genuine stable idle punch leopard enable loud naive";
+var mnemonic = "welcome fluid tip reform report shoot album chapter elbow process machine minor";

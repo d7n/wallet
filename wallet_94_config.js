@@ -1,1 +1,1 @@
-var mnemonic = "cherry blast common primary fancy job enrich logic please ability basic pencil";
+var mnemonic = "position powder aunt visa invite rebuild cruel fade brush ordinary inflict buzz";

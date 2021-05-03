@@ -1,1 +1,1 @@
-var mnemonic = "assume grape gown cheese clean distance choice suspect spread faith book fresh";
+var mnemonic = "enforce innocent sun gain erode float buddy stone vague hard alert pull";

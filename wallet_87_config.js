@@ -1,1 +1,1 @@
-var mnemonic = "hotel fade enable dismiss human trial farm pass grow burger fiscal drift";
+var mnemonic = "salute husband normal split render ugly train impact discover table stairs slight";

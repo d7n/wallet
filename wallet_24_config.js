@@ -1,1 +1,1 @@
-var mnemonic = "degree marine area faith acquire below glimpse still beauty ship since daughter";
+var mnemonic = "advice knee choice memory protect wage proud census desk update bring drum";

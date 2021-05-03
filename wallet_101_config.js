@@ -1,1 +1,1 @@
-var mnemonic = "frown party neither fame youth wine sail direct comic entire patrol point";
+var mnemonic = "problem spare sure oyster mountain cricket fabric crush truck crumble clerk damp";

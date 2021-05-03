@@ -1,1 +1,1 @@
-var mnemonic = "prefer sheriff employ boring female own vintage gaze tourist life lawsuit grant";
+var mnemonic = "gossip absent ethics wisdom render ensure lesson pen fetch bright rack target";

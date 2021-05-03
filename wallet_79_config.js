@@ -1,1 +1,1 @@
-var mnemonic = "mountain nurse lamp spring pave regret angry acoustic book unveil river blur";
+var mnemonic = "patch aim dentist across river relief stamp canvas melt scheme banner select";

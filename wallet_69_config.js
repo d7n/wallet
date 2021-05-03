@@ -1,1 +1,1 @@
-var mnemonic = "silent broccoli system gaze jealous erase royal grit island knee body toward";
+var mnemonic = "shock lift pattern change coral cargo girl universe outside modify candy popular";

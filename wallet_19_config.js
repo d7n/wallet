@@ -1,1 +1,1 @@
-var mnemonic = "breeze obscure festival mixture friend across nominee tourist skill clog cannon autumn";
+var mnemonic = "cotton memory popular model industry limb three double stand confirm mom okay";

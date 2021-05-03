@@ -1,1 +1,1 @@
-var mnemonic = "memory rigid cabin stereo awesome video kite visual allow place cabbage side";
+var mnemonic = "vast gun address honey rookie gather universe dragon paddle visa dizzy distance";

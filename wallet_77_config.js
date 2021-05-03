@@ -1,1 +1,1 @@
-var mnemonic = "lock fringe wire sunset chase ginger jewel twin purse soup spin decide";
+var mnemonic = "thrive shrug bleak attack churn horror grocery often lake loud moment course";

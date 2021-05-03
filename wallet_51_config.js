@@ -1,1 +1,1 @@
-var mnemonic = "final fold vibrant sting rather april safe impact actual alcohol error radar";
+var mnemonic = "recipe retreat post carbon velvet square absorb tool mad day mean gown";

@@ -1,1 +1,1 @@
-var mnemonic = "adapt vocal vibrant sausage trick decrease horror sort diamond favorite one mountain";
+var mnemonic = "pledge scissors reason vendor camera away wool evil mom moon able lake";

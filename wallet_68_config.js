@@ -1,1 +1,1 @@
-var mnemonic = "cry woman prize blur bacon swear expire grant manual list seat sustain";
+var mnemonic = "soldier relief purity narrow grit tip trouble noise soccer evidence point tragic";

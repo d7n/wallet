@@ -1,1 +1,1 @@
-var mnemonic = "spider shove wrong sort flash horror ten main such monster shoulder raven";
+var mnemonic = "hard captain jeans sheriff course expose ignore scrub visa student turn trip";

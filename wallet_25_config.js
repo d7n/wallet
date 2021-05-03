@@ -1,1 +1,1 @@
-var mnemonic = "bomb appear orbit buffalo youth innocent satoshi exercise push lake silent gentle";
+var mnemonic = "same trap repair strong stereo renew pencil cigar tail inject pen nerve";

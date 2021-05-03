@@ -1,1 +1,1 @@
-var mnemonic = "vague enroll admit uncover shy loud traffic crush apology duck inside health";
+var mnemonic = "chunk cliff gesture shield relax boil camp nuclear spoil nut abandon gun";
