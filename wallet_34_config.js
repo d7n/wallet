@@ -1,1 +1,1 @@
-var mnemonic = "oval text upgrade tilt vendor neutral horror nest indoor loop rough leg";
+var mnemonic = "buzz light sauce pause boy roast assist can theme butter oyster total";

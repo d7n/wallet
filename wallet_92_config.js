@@ -1,1 +1,1 @@
-var mnemonic = "attend broom cherry fog jelly dove saddle nest hurt chicken mercy dilemma";
+var mnemonic = "cigar broom amazing alien gaze wide idle funny shift sudden throw army";

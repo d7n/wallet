@@ -1,1 +1,1 @@
-var mnemonic = "prosper nose rule stamp cargo merit leave steak bleak tourist sunset script";
+var mnemonic = "sudden negative discover liberty collect exhibit pistol label insect twelve now celery";

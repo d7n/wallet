@@ -1,1 +1,1 @@
-var mnemonic = "nerve food opinion icon quick spray various tired second skate weapon frame";
+var mnemonic = "trigger report wait slam sense borrow jewel control insect fall negative kit";

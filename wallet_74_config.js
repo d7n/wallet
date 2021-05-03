@@ -1,1 +1,1 @@
-var mnemonic = "sorry double nerve pluck stool sense field before name just midnight scene";
+var mnemonic = "rifle gloom off marble maid tissue humble bacon sunny like caution layer";

@@ -1,1 +1,1 @@
-var mnemonic = "busy curtain dream blade glide couple tower boy goddess chest what glove";
+var mnemonic = "custom produce raw become height raw badge shoulder rally medal alter goose";

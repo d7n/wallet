@@ -1,1 +1,1 @@
-var mnemonic = "random merry order recipe top end stay door vast screen vast lawsuit";
+var mnemonic = "spirit sorry elbow laugh dog knee decline canoe update much increase sniff";

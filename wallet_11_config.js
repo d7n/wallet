@@ -1,1 +1,1 @@
-var mnemonic = "throw else review help panda allow like seek olive misery critic clip";
+var mnemonic = "clump moment bar ketchup float return left inherit large slam month topic";

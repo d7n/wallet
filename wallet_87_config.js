@@ -1,1 +1,1 @@
-var mnemonic = "auto upgrade develop half mule salad model strong rhythm permit shoe source";
+var mnemonic = "bus amateur duck give thought double notice noise pond draft slab quick";

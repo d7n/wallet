@@ -1,1 +1,1 @@
-var mnemonic = "this midnight flight mammal letter fall aim pepper stem purchase envelope trash";
+var mnemonic = "reveal blast prefer gap element target rare immense atom chuckle tackle artwork";

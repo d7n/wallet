@@ -1,1 +1,1 @@
-var mnemonic = "glance trophy balance answer lemon squirrel select learn legend photo clean soul";
+var mnemonic = "drama duck good dial maze tone mammal cruise armor glory depend thought";

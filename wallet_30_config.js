@@ -1,1 +1,1 @@
-var mnemonic = "moment unit bring stay program car type universe spike define mammal slide";
+var mnemonic = "urban uncover lawsuit latin verb nation mother tourist cattle scheme maid begin";

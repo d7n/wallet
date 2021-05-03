@@ -1,1 +1,1 @@
-var mnemonic = "stand away tongue buffalo daughter toy satoshi interest fetch flush picnic delay";
+var mnemonic = "daughter ketchup knee coconut industry stem frequent define salon strike rely sheriff";

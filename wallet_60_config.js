@@ -1,1 +1,1 @@
-var mnemonic = "catalog extend enhance cabin fury giant squeeze public stereo open cliff flush";
+var mnemonic = "judge team orbit penalty will write art spell purse behave embody cry";

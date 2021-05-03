@@ -1,1 +1,1 @@
-var mnemonic = "tooth picture juice faculty physical sustain near improve predict acquire enemy shop";
+var mnemonic = "clock struggle snow tide fatal boost spike very nasty protect vehicle truck";

@@ -1,1 +1,1 @@
-var mnemonic = "bright rate peasant coconut okay fence universe round inquiry three aware urge";
+var mnemonic = "indicate kiss carry female toy license enough culture crawl tent electric donor";

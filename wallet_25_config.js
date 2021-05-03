@@ -1,1 +1,1 @@
-var mnemonic = "coconut wide dolphin output rack better trick check ecology enter drive icon";
+var mnemonic = "alcohol remind gauge ball because anchor law symptom polar swamp feature trap";

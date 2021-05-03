@@ -1,1 +1,1 @@
-var mnemonic = "legal gown enroll thing gaze order output object across false usage rebuild";
+var mnemonic = "question access layer awful identify agent wheel trick transfer daughter theme arm";

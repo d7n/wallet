@@ -1,1 +1,1 @@
-var mnemonic = "bachelor rifle business road game same bridge arch catalog reform beef tooth";
+var mnemonic = "chief tuna room mother trend bench century test mystery call zoo illegal";

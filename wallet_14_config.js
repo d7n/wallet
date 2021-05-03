@@ -1,1 +1,1 @@
-var mnemonic = "say pen miss wild merit ahead bright verify convince clutch motion mammal";
+var mnemonic = "vocal popular biology refuse fame bone live drink mistake sing simple silent";

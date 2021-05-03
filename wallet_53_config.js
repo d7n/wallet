@@ -1,1 +1,1 @@
-var mnemonic = "endless solar toast sentence bag seed arctic client van cruise link treat";
+var mnemonic = "thrive forward series divide donate gym term remain valid ethics pitch taste";

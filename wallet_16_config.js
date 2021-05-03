@@ -1,1 +1,1 @@
-var mnemonic = "fit limit vault album ship clump knee figure industry ability team certain";
+var mnemonic = "system shoe evoke miracle logic hungry pill east ritual gift abstract thunder";

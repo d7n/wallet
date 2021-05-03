@@ -1,1 +1,1 @@
-var mnemonic = "rule equal family loop marriage spring chunk coffee vital job three empty";
+var mnemonic = "phone crawl doctor find confirm bundle bus erupt great stand modify gravity";

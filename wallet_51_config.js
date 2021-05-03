@@ -1,1 +1,1 @@
-var mnemonic = "puzzle merit old crawl drive trash laundry catch jar ceiling decide cabbage";
+var mnemonic = "unfair piece puzzle mushroom citizen cook pony million concert olive urge turtle";

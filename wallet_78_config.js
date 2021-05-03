@@ -1,1 +1,1 @@
-var mnemonic = "risk original unable act craft saddle despair actor maid canvas napkin civil";
+var mnemonic = "vendor jazz warm cactus kingdom jeans father autumn mutual noise climb result";

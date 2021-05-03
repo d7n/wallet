@@ -1,1 +1,1 @@
-var mnemonic = "black help lawsuit long first juice prize where escape invite ball artist";
+var mnemonic = "view train match excuse arm eagle swim pink dust august alarm meat";

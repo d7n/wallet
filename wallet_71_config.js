@@ -1,1 +1,1 @@
-var mnemonic = "want argue topple cash spatial want model mansion siege smooth page marble";
+var mnemonic = "give sphere recipe protect satoshi short raise depart shove pelican coyote ghost";

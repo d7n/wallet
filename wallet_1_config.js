@@ -1,1 +1,1 @@
-var mnemonic = "belt present tomorrow happy slow dawn essay veteran quick goose light erase";
+var mnemonic = "negative vibrant unfold desert unique hospital upset wonder again sport mystery lock";

@@ -1,1 +1,1 @@
-var mnemonic = "cream question drop gather daring resist direct inspire lamp hurt ginger under";
+var mnemonic = "add earth weapon april solution typical actor pig girl explain axis spend";

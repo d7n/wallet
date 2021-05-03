@@ -1,1 +1,1 @@
-var mnemonic = "blind rose assist tennis normal engine smart slam pear earth toilet fat";
+var mnemonic = "crucial cheese project bless trap idle grid blouse toddler cash junior nut";

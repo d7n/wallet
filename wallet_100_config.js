@@ -1,1 +1,1 @@
-var mnemonic = "dad sauce large gospel night wire depth shuffle voice goat maid sort";
+var mnemonic = "lottery vintage basic immense inner figure garden answer erupt ignore inch hidden";

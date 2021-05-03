@@ -1,1 +1,1 @@
-var mnemonic = "panda screen chicken keen cluster approve bench bind warfare goat hunt broom";
+var mnemonic = "march various volcano hurt truck stamp tooth crop dismiss purpose track danger";

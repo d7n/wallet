@@ -1,1 +1,1 @@
-var mnemonic = "second panic paper inherit person transfer minute code dry actual true forest";
+var mnemonic = "vibrant network butter share decide wisdom fault author segment cash spider expire";

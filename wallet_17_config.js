@@ -1,1 +1,1 @@
-var mnemonic = "diary public rebuild annual bitter arrest gossip work avocado excite garden deputy";
+var mnemonic = "style turn gaze key rigid agent turtle flash orient dad original sock";

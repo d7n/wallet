@@ -1,1 +1,1 @@
-var mnemonic = "cereal obscure person apology subway excuse mad outside friend actor business whisper";
+var mnemonic = "warfare wedding lazy lemon flame rigid father switch input february budget raw";

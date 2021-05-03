@@ -1,1 +1,1 @@
-var mnemonic = "dynamic fresh practice goddess hamster reduce peasant change laundry gentle mystery turkey";
+var mnemonic = "throw shield intact unusual devote couple expose true atom tent jeans live";

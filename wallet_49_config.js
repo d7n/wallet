@@ -1,1 +1,1 @@
-var mnemonic = "merge wedding there fence worth purse clinic effort error vicious motor salmon";
+var mnemonic = "flash until hen easily limit state uncle someone dinner normal culture weather";

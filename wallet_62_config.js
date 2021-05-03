@@ -1,1 +1,1 @@
-var mnemonic = "exist around ecology vicious private sea wasp alcohol present sport pepper space";
+var mnemonic = "punch excite talent police pear inner join hungry usage fox please hold";

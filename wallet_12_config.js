@@ -1,1 +1,1 @@
-var mnemonic = "artefact attend during glue unlock candy offer brass chef such gym make";
+var mnemonic = "mom street vanish near veteran beauty satisfy truth melody wedding coral wreck";

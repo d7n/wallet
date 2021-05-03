@@ -1,1 +1,1 @@
-var mnemonic = "sphere crystal student jazz shy couch piece acid pluck deputy observe roof";
+var mnemonic = "ship tonight illegal prefer ethics reveal hybrid book angle banner plunge stand";

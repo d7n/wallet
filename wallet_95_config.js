@@ -1,1 +1,1 @@
-var mnemonic = "dumb bullet exercise bounce domain despair sail core number brother jelly basket";
+var mnemonic = "suspect cross private kick gloom way start jazz ten erosion ghost mother";

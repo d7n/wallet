@@ -1,1 +1,1 @@
-var mnemonic = "coyote gate attend better search credit emerge utility dawn priority wrap century";
+var mnemonic = "wedding name language flash alpha street cart tortoise social cable zero planet";

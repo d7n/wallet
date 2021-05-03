@@ -1,1 +1,1 @@
-var mnemonic = "shell hazard afford common card doll offer load trick alone vault bulk";
+var mnemonic = "arm still desk fly echo split civil empty floor again business cherry";

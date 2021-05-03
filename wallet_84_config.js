@@ -1,1 +1,1 @@
-var mnemonic = "crowd people cousin slush eyebrow alter spike material credit love file side";
+var mnemonic = "shaft jump filter sorry flee insane equip citizen claim industry dolphin board";

@@ -1,1 +1,1 @@
-var mnemonic = "client stick sick ivory arrest can lava slender gun clutch fantasy between";
+var mnemonic = "minor clap lawsuit easy quarter valid country domain leave payment script category";

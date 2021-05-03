@@ -1,1 +1,1 @@
-var mnemonic = "powder hedgehog session scale toilet trick cigar fiscal license claim alarm hood";
+var mnemonic = "miracle hat clay make favorite absorb setup pen expect glare field slot";

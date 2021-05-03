@@ -1,1 +1,1 @@
-var mnemonic = "home enjoy fiber switch robust help humor mirror shy crew section sell";
+var mnemonic = "adjust deal sight across strategy fringe rapid two trust liberty hood disagree";

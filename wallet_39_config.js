@@ -1,1 +1,1 @@
-var mnemonic = "chest ginger apple remain bunker already cereal rate device medal address radio";
+var mnemonic = "time once taste swift define mind advance elder expose lemon peace gold";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry either endorse video rare nerve mutual topple bridge caught alarm vast";
+var mnemonic = "supply you never repair verb black hundred pelican current two pull size";

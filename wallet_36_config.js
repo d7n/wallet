@@ -1,1 +1,1 @@
-var mnemonic = "bag canyon favorite educate ticket boat surprise treat swift object grief furnace";
+var mnemonic = "ladder east treat must solution sphere latin fringe eight holiday high capital";

@@ -1,1 +1,1 @@
-var mnemonic = "enough wise shine impulse mutual spice problem absorb shadow genre write pony";
+var mnemonic = "cage brain stairs human eight similar select shaft blade finger light primary";

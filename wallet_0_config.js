@@ -1,1 +1,1 @@
-var mnemonic = "crew fashion vocal bring where stove second goose cradle swing medal husband";
+var mnemonic = "hood oval know blast immense candy very say grace wife dawn sort";

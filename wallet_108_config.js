@@ -1,1 +1,1 @@
-var mnemonic = "person question glare boring seven claw today wealth crystal hedgehog produce walnut";
+var mnemonic = "reform neither online hello mouse vivid rural whip helmet acquire pair warfare";

@@ -1,1 +1,1 @@
-var mnemonic = "fatal symbol off desk lecture struggle behind chair cruise enact bronze list";
+var mnemonic = "twice ramp album will pulp tobacco old drip embrace stereo economy cotton";

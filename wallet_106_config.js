@@ -1,1 +1,1 @@
-var mnemonic = "evidence pitch luggage worth abstract remind ice situate attract razor spray elbow";
+var mnemonic = "powder pause total snake host bag stomach grape expose fall zero alien";

@@ -1,1 +1,1 @@
-var mnemonic = "auction illness goat outdoor crowd topic mercy gas wall solid motion away";
+var mnemonic = "remind tool vague drink civil game delay inherit slab cargo dinosaur illegal";

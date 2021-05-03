@@ -1,1 +1,1 @@
-var mnemonic = "cement number month spread owner finger athlete gown crouch tower sick capable";
+var mnemonic = "stumble black globe civil patient cook state jungle sentence climb vanish notable";

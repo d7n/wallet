@@ -1,1 +1,1 @@
-var mnemonic = "rude custom horn ask alley tray will desert what roof round rib";
+var mnemonic = "tree cute timber monitor thumb train stable upset diet gap post prepare";

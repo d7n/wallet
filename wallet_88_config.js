@@ -1,1 +1,1 @@
-var mnemonic = "social sound fat wrestle sense put wagon protect bomb amazing wall renew";
+var mnemonic = "balcony pitch deputy knife relief adjust vacant used mother biology naive south";

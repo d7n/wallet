@@ -1,1 +1,1 @@
-var mnemonic = "slab dish bomb evil category engage lend struggle crater rib educate hockey";
+var mnemonic = "twist laundry cat forum buyer ask opinion pulp antique equip thumb drip";

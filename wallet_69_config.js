@@ -1,1 +1,1 @@
-var mnemonic = "daughter under stem knock this myself aerobic farm proof certain remove shove";
+var mnemonic = "give arm loan sight divorce thing result top voyage announce bag raccoon";

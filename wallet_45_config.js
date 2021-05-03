@@ -1,1 +1,1 @@
-var mnemonic = "boring truth wood neither sauce excess enrich raccoon body congress inquiry clay";
+var mnemonic = "village party poem able plunge hair decorate mystery annual wife tourist genre";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort voyage coyote evidence host submit shed code glare enlist visa wagon";
+var mnemonic = "dynamic eagle talk doll crack good morning engage balcony guard alien swap";

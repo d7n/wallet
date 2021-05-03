@@ -1,1 +1,1 @@
-var mnemonic = "notice guitar claim poet actor badge clown explain cave hover obvious adjust";
+var mnemonic = "blanket anchor else reflect prize hero crucial provide track sort grass embark";

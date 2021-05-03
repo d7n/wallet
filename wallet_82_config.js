@@ -1,1 +1,1 @@
-var mnemonic = "churn toss ankle exist dawn lumber sustain minor position bacon original crystal";
+var mnemonic = "curve picture energy verb right boil favorite staff about edge middle have";

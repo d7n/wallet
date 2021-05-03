@@ -1,1 +1,1 @@
-var mnemonic = "portion deal expect notable quiz wasp hill novel uncover fun knee venue";
+var mnemonic = "average boring busy okay strategy update motion imitate bulk assault network window";

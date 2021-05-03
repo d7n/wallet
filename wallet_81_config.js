@@ -1,1 +1,1 @@
-var mnemonic = "addict riot again report roast stairs develop vault regret practice person rural";
+var mnemonic = "web marine album nurse truly monitor secret warm advice region submit bench";

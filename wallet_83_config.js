@@ -1,1 +1,1 @@
-var mnemonic = "fit attract thank wood hotel clog small employ estate witness same timber";
+var mnemonic = "lift drum boring exist fish wrong world super zoo state empty uncle";

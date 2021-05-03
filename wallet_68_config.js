@@ -1,1 +1,1 @@
-var mnemonic = "glove assume guitar later edit muffin decide wisdom curve noise vapor beyond";
+var mnemonic = "alley olive round angry someone edit bleak air birth alcohol woman current";

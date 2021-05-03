@@ -1,1 +1,1 @@
-var mnemonic = "celery federal member stadium peanut push climb garage garment card shell draw";
+var mnemonic = "lady soap creek virus romance test crush zebra nest cluster village shoe";

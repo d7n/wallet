@@ -1,1 +1,1 @@
-var mnemonic = "gallery cup limit laptop wheel offer into token stomach teach belt retire";
+var mnemonic = "analyst loyal balance vault merge apology aspect ride dress casino odor remove";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic slam boil erase bone summer rich elder boy mechanic safe tunnel";
+var mnemonic = "hire reduce mass zebra keep quit student easy snack gloom stick absent";

@@ -1,1 +1,1 @@
-var mnemonic = "together vague idle champion equip riot invite grief bacon inject major move";
+var mnemonic = "unique dolphin immune spend art ill actor soup pipe mean dress crisp";

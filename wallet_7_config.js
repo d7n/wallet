@@ -1,1 +1,1 @@
-var mnemonic = "correct clip panther hurt unveil glare ethics pull elevator inch once bronze";
+var mnemonic = "approve lyrics bicycle unfair lend tilt emotion virus smooth print evil skill";

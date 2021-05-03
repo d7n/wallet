@@ -1,1 +1,1 @@
-var mnemonic = "sudden claim orphan erosion actor antique shiver easy sword document turtle friend";
+var mnemonic = "stage thumb deposit acoustic tonight demand move rent mimic expire company unfair";

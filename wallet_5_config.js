@@ -1,1 +1,1 @@
-var mnemonic = "regret fabric age regular arrive admit agree furnace gaze between neglect average";
+var mnemonic = "praise sadness identify much special wide media cruise hybrid orchard gap steel";

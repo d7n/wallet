@@ -1,1 +1,1 @@
-var mnemonic = "cross celery key ramp pyramid kitten cattle jungle wire until attitude ten";
+var mnemonic = "left sure typical best try vocal task blame pretty arrange wrong upset";

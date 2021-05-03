@@ -1,1 +1,1 @@
-var mnemonic = "gap rival other twist need fetch damp truth gossip swamp seat south";
+var mnemonic = "mind energy agent luxury ignore high duck liquid maze diamond toddler best";

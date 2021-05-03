@@ -1,1 +1,1 @@
-var mnemonic = "path return label depth world traffic peace brick they power two vapor";
+var mnemonic = "hawk clean dutch top sunset evil alone oblige silk tent retire height";

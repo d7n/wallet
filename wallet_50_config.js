@@ -1,1 +1,1 @@
-var mnemonic = "joke nuclear carry vivid spawn silent advance chest swing clutch hammer margin";
+var mnemonic = "rose bubble rude fringe area argue rose random guitar love roast nasty";

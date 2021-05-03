@@ -1,1 +1,1 @@
-var mnemonic = "mother measure brisk wolf priority mobile hedgehog desert session excuse hawk badge";
+var mnemonic = "life toddler section steel gentle security begin coil kitten top owner slender";

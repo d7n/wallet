@@ -1,1 +1,1 @@
-var mnemonic = "mystery dose pear chronic armed feature toddler identify fish shadow uncover funny";
+var mnemonic = "project clock road frame proud silver cake soldier please struggle marble economy";

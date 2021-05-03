@@ -1,1 +1,1 @@
-var mnemonic = "tackle tomato oblige sadness wash lottery like put dial gloom else above";
+var mnemonic = "bundle mystery illness focus solution cream argue risk above inherit rib border";

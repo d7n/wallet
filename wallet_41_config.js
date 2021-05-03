@@ -1,1 +1,1 @@
-var mnemonic = "feel also chaos giant floor trap water series glare exhaust special sure";
+var mnemonic = "bring tower unhappy impulse wagon indoor mistake before goddess frozen cheap end";

@@ -1,1 +1,1 @@
-var mnemonic = "simple frozen field stay dish because bounce cry ship motion creek silent";
+var mnemonic = "three curious home fiscal over crisp result speak resist tornado crush dinner";

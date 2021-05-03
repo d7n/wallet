@@ -1,1 +1,1 @@
-var mnemonic = "retire useless trim theme mom street execute meat erode bleak glove goose";
+var mnemonic = "maple conduct distance horn turtle trigger easy tobacco bus horn body require";

@@ -1,1 +1,1 @@
-var mnemonic = "skirt december network pilot clutch pulse curtain sheriff symptom notice surge sunny";
+var mnemonic = "monkey spawn fee announce furnace similar excuse hat menu brass seminar baby";

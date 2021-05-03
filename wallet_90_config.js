@@ -1,1 +1,1 @@
-var mnemonic = "course seven file gift violin antenna where chapter skate output start broken";
+var mnemonic = "session immune same fun naive enroll work razor program face simple priority";

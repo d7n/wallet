@@ -1,1 +1,1 @@
-var mnemonic = "resist umbrella since tide morning guard uncle oppose million shell finish hip";
+var mnemonic = "urban door ancient sheriff abstract fragile hamster friend equal sphere fitness dawn";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover gym civil genius border rebel cliff extend warfare reflect goat target";
+var mnemonic = "episode equip arch great dry milk scan toward find credit major bunker";

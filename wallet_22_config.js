@@ -1,1 +1,1 @@
-var mnemonic = "umbrella vote burden thrive prevent public gaze inmate gadget kite famous action";
+var mnemonic = "session depend drift cradle approve neglect topple alone network pet second elbow";

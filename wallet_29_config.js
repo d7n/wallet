@@ -1,1 +1,1 @@
-var mnemonic = "lazy town toilet victory limb budget board color review clinic outer grief";
+var mnemonic = "monkey black tomorrow film sign logic problem inhale rough enjoy more build";

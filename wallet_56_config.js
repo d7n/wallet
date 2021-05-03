@@ -1,1 +1,1 @@
-var mnemonic = "camp tumble hope hazard warm coyote begin pass enrich good boost jealous";
+var mnemonic = "motion chief consider tattoo example brave team fringe pair invest switch trigger";
