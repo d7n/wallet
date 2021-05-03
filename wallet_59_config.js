@@ -1,1 +1,1 @@
-var mnemonic = "great modify caught icon burden swarm crouch collect nephew spend stool wisdom";
+var mnemonic = "they more water napkin problem toy labor sort bundle horn uphold peasant";

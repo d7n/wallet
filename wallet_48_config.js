@@ -1,1 +1,1 @@
-var mnemonic = "real boy sample eager version scatter mountain just sphere remove uniform settle";
+var mnemonic = "script across wedding fade cube relief bus churn now soccer more decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "humble mean return solution diagram section sauce awful patch disagree bone pen";
+var mnemonic = "habit inform advance unable pride kidney early shadow tuna arch hobby reason";

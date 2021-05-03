@@ -1,1 +1,1 @@
-var mnemonic = "fancy reflect borrow girl indoor throw mistake vanish toast merry crystal plunge";
+var mnemonic = "suit crystal torch copy federal forward middle turtle thumb few escape cause";

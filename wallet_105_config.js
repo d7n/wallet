@@ -1,1 +1,1 @@
-var mnemonic = "hole system deny stomach online guide say pyramid gasp elevator dad session";
+var mnemonic = "tribe own weather glad vivid jacket intact text cheese speak wrap pole";

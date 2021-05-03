@@ -1,1 +1,1 @@
-var mnemonic = "monster peanut vacuum already wolf select twice nation notice chimney bar clock";
+var mnemonic = "post sick faint frown lyrics inquiry cave reopen until canvas price twice";

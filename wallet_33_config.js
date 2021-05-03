@@ -1,1 +1,1 @@
-var mnemonic = "emerge horse client rich object confirm icon tuition assault close forward talent";
+var mnemonic = "large version garbage sugar bus exhibit can monster utility spy sleep guitar";

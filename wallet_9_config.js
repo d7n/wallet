@@ -1,1 +1,1 @@
-var mnemonic = "adjust hole economy maple lamp ghost transfer delay faith mind naive frown";
+var mnemonic = "arrow noble atom force again dilemma buffalo fresh smart group help invest";

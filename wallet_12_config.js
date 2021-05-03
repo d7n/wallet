@@ -1,1 +1,1 @@
-var mnemonic = "inform quality dolphin use capital chronic cupboard strategy hill welcome loan never";
+var mnemonic = "ocean mesh whisper main patient skirt jacket various shrimp hollow unknown frozen";

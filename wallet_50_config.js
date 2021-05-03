@@ -1,1 +1,1 @@
-var mnemonic = "oak entire strong input sun crack harbor find dawn divorce olive result";
+var mnemonic = "snow uncover squirrel enrich lesson flame water advance choice skin future first";

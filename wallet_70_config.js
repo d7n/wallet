@@ -1,1 +1,1 @@
-var mnemonic = "company snack velvet position auto say cherry donkey plate umbrella derive curtain";
+var mnemonic = "humor pizza target when salmon horn family corn shaft laptop first detect";

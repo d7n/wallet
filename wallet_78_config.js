@@ -1,1 +1,1 @@
-var mnemonic = "beyond seek drama people disorder shine tumble orphan someone fire analyst imitate";
+var mnemonic = "program kiwi domain gospel wave security safe volume weasel casino diary point";

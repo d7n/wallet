@@ -1,1 +1,1 @@
-var mnemonic = "month yard dress goose digital other good slide artist guilt tonight success";
+var mnemonic = "glare rice indicate tower aisle width curtain duck laptop awkward diesel flash";

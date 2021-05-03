@@ -1,1 +1,1 @@
-var mnemonic = "useful salt envelope soft kit field edit jungle round design funny panda";
+var mnemonic = "elegant extra excess produce mule juice ancient raise practice payment morning select";

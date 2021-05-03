@@ -1,1 +1,1 @@
-var mnemonic = "crew float cloud shift letter crunch stereo absent novel horn dignity fuel";
+var mnemonic = "ten wish life insect feel wealth split exist split either daughter jar";

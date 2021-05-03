@@ -1,1 +1,1 @@
-var mnemonic = "negative visual leader together goose illegal fat rich try ordinary reunion joy";
+var mnemonic = "few huge rebuild ginger wheel hill olympic easy symptom brave feed protect";

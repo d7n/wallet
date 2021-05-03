@@ -1,1 +1,1 @@
-var mnemonic = "beauty poet sweet satisfy erase fold penalty scheme call vibrant install obey";
+var mnemonic = "slot above october diesel language raven ship reflect already scissors income praise";

@@ -1,1 +1,1 @@
-var mnemonic = "clip effort arena name flock size clarify easy grow balcony subject blade";
+var mnemonic = "reveal enter private observe rate equal large oak radio cargo found hub";

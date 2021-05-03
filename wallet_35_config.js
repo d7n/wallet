@@ -1,1 +1,1 @@
-var mnemonic = "lens toast vessel gather clean false quarter scrap solve angle life resist";
+var mnemonic = "ketchup garment belt wide unit wear satoshi trip basic animal jealous heart";

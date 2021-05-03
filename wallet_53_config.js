@@ -1,1 +1,1 @@
-var mnemonic = "slow imitate swarm crater dice popular roast will alcohol else gold siren";
+var mnemonic = "void gloom lazy guilt glove leader when school useless motion security online";

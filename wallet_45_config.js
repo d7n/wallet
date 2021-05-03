@@ -1,1 +1,1 @@
-var mnemonic = "bronze goose page final ticket silent response inhale yard click cost athlete";
+var mnemonic = "kick remain egg pen praise vault sweet hospital unusual lava observe coffee";

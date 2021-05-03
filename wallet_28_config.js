@@ -1,1 +1,1 @@
-var mnemonic = "talk essay swift fly sad bomb creek music bus slow crew survey";
+var mnemonic = "flower hammer warfare napkin cactus satisfy water kid unable swift elite adult";

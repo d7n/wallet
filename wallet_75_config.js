@@ -1,1 +1,1 @@
-var mnemonic = "amazing task novel worry type radar mule tissue govern example opera jungle";
+var mnemonic = "essence victory script review heart wide join notice beef course obvious essay";

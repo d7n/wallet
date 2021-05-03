@@ -1,1 +1,1 @@
-var mnemonic = "trade bleak visit video pig remain caution zone toddler air capable afraid";
+var mnemonic = "dial fox female immense region trash warfare day run warfare exist glove";

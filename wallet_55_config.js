@@ -1,1 +1,1 @@
-var mnemonic = "castle misery liquid verb liberty recycle imitate airport anger morning marble flush";
+var mnemonic = "float example chef license ball size scare grace unique glad approve toss";

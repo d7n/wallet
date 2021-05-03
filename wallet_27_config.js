@@ -1,1 +1,1 @@
-var mnemonic = "day quick okay cover joke symptom list cake picture casino soda tornado";
+var mnemonic = "interest swim chef blind fence depth team fever gentle clog deal bottom";

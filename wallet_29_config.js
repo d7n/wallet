@@ -1,1 +1,1 @@
-var mnemonic = "seven bamboo bone boil rose crowd turtle animal error story more benefit";
+var mnemonic = "lumber furnace bid fruit shoulder jar rib bag expand bird erode loop";

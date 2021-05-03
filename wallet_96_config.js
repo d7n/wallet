@@ -1,1 +1,1 @@
-var mnemonic = "swarm device moment bounce dial curious panda skill engage strong square rice";
+var mnemonic = "prison finger crime core kitten candy surge river boring essay spoil very";

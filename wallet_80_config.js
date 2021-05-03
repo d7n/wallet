@@ -1,1 +1,1 @@
-var mnemonic = "laundry rose shiver siren crack timber layer nature yellow spin during mass";
+var mnemonic = "blossom kiss mix doll tortoise habit nuclear rare someone exclude right swift";

@@ -1,1 +1,1 @@
-var mnemonic = "chief rapid slight brain morning code fortune gaze alert search minor bounce";
+var mnemonic = "gauge shine teach gravity distance insect squirrel lend junk banner material post";

@@ -1,1 +1,1 @@
-var mnemonic = "six control knee swift vault among finish castle day reform park athlete";
+var mnemonic = "spin tape run latin vapor slice lift silk edit genre lemon afford";

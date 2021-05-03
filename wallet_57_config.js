@@ -1,1 +1,1 @@
-var mnemonic = "aisle rescue tank fashion divorce memory science bitter romance whisper economy truck";
+var mnemonic = "end hollow juice age public distance diamond soldier price arctic leave canvas";

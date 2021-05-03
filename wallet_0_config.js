@@ -1,1 +1,1 @@
-var mnemonic = "mind wild armed blur select perfect lift matrix patient foot weekend fantasy";
+var mnemonic = "rich velvet drama october spirit harbor cave orient solution student embark elder";

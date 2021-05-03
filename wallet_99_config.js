@@ -1,1 +1,1 @@
-var mnemonic = "great cup mask limit ice ostrich render pilot push marriage remember print";
+var mnemonic = "coach cabbage raw budget oil term clap team brother potato absorb chair";

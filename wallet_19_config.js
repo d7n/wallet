@@ -1,1 +1,1 @@
-var mnemonic = "obvious muscle know merry peasant chest leader plug often element ignore law";
+var mnemonic = "mistake south resemble tube float gap pride scout smoke focus warm visual";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella nation case exercise debris kid perfect kite peanut crater shoe hedgehog";
+var mnemonic = "style quantum monkey solar april life crash sock subway scrub face parrot";

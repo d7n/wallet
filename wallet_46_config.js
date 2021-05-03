@@ -1,1 +1,1 @@
-var mnemonic = "glance insane light actress general lift item retreat way join over arctic";
+var mnemonic = "jelly heart easy add until between cash sibling video congress fuel meadow";

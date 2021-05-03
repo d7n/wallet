@@ -1,1 +1,1 @@
-var mnemonic = "crater mixed useless obscure hold blossom exhaust pupil pluck erupt knife employ";
+var mnemonic = "oval retreat figure list original peace fix dolphin fruit magnet address floor";

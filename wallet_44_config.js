@@ -1,1 +1,1 @@
-var mnemonic = "tunnel flame fix exile own dignity wedding rain wonder exclude beauty word";
+var mnemonic = "audit bind ritual magnet fuel cactus upset vague they funny check tower";

@@ -1,1 +1,1 @@
-var mnemonic = "cement chief fun balance pond art artwork over economy awake report skate";
+var mnemonic = "upon will aisle void dish spice inflict avoid arrive asthma category identify";

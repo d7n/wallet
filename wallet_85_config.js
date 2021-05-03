@@ -1,1 +1,1 @@
-var mnemonic = "fancy vanish tumble about base paper glad dust ensure measure obey burger";
+var mnemonic = "autumn cycle finish party galaxy now alcohol doctor horse item pig spring";

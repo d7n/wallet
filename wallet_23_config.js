@@ -1,1 +1,1 @@
-var mnemonic = "movie tag lucky plug among boring empower cart sick swallow harvest someone";
+var mnemonic = "element breeze blame idea aunt tomorrow text accident purity entire ball earth";

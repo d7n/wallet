@@ -1,1 +1,1 @@
-var mnemonic = "infant labor minimum act pulse cute bench blame wait abstract welcome alert";
+var mnemonic = "rescue click play clump swamp prosper window small bind laugh labor sand";

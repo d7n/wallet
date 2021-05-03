@@ -1,1 +1,1 @@
-var mnemonic = "hurry chase end blouse regular obvious genuine dolphin taxi enlist plunge cliff";
+var mnemonic = "simple reward loud enhance shed eagle keen pipe vault flame cupboard husband";

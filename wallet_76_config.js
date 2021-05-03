@@ -1,1 +1,1 @@
-var mnemonic = "tenant rally mouse trophy pyramid rhythm spring survey title country three endless";
+var mnemonic = "couple record sun habit general penalty develop glance weasel employ pioneer echo";

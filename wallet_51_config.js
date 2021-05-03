@@ -1,1 +1,1 @@
-var mnemonic = "orbit nature insane cloud warrior urge raw system kind unknown alpha merry";
+var mnemonic = "circle best alpha below disagree share play sad blame vital song broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "arch dinner together aspect suspect hidden margin athlete oval breeze cupboard butter";
+var mnemonic = "buddy ostrich inflict parent loud news captain affair copper sail surprise chat";

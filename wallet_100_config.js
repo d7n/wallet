@@ -1,1 +1,1 @@
-var mnemonic = "awake hotel noble void copper tonight memory salon protect clip awful never";
+var mnemonic = "arrest year record capable moral awesome civil valley success rigid milk flush";

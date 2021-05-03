@@ -1,1 +1,1 @@
-var mnemonic = "topic ill crash eye enough diary dune harsh rotate survey east ten";
+var mnemonic = "federal buzz joke two now taste brick upgrade scrub traffic try express";

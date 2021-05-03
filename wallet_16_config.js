@@ -1,1 +1,1 @@
-var mnemonic = "bundle flower teach palm best excess price waste fury decide key future";
+var mnemonic = "device alley secret student chair vanish tag bronze fix behind lizard fine";

@@ -1,1 +1,1 @@
-var mnemonic = "song rate verb deputy injury topple truly gun fit few imitate egg";
+var mnemonic = "baby hood produce order change topic kid axis foster double tissue phone";

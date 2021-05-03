@@ -1,1 +1,1 @@
-var mnemonic = "rigid idea era reason artwork globe burger salt another zoo speed future";
+var mnemonic = "cycle pigeon burst believe there kitchen elder bird lucky laundry surface two";

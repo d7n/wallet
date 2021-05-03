@@ -1,1 +1,1 @@
-var mnemonic = "battle remove cash entire opera tide prevent choose muscle forward illness umbrella";
+var mnemonic = "either rotate legal flavor cannon mention fire person library initial fit bar";

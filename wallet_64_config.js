@@ -1,1 +1,1 @@
-var mnemonic = "canal play conduct minimum fresh six execute moment output winner waste bundle";
+var mnemonic = "artefact hold mimic session scatter wife green tobacco injury humor front royal";

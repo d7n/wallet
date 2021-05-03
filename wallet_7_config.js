@@ -1,1 +1,1 @@
-var mnemonic = "pioneer fuel meat east pretty repeat pipe blade course motion indicate ostrich";
+var mnemonic = "armed soldier prize leg pill giggle section usage occur winner apology chief";

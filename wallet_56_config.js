@@ -1,1 +1,1 @@
-var mnemonic = "ill loop cycle insect inquiry oval correct hurdle warm design buyer crazy";
+var mnemonic = "angry spot radar fork banana black region glass sweet hospital device toe";

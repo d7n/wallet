@@ -1,1 +1,1 @@
-var mnemonic = "property live blossom blouse surprise second bar cousin grant soda fade super";
+var mnemonic = "legend room ladder first problem spend service column rebel stomach girl swallow";

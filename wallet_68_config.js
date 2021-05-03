@@ -1,1 +1,1 @@
-var mnemonic = "swim magic require rabbit start glove promote predict funny melt high rookie";
+var mnemonic = "know kite fix buzz medal ignore undo situate unfair horror elite bless";

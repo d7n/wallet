@@ -1,1 +1,1 @@
-var mnemonic = "famous humor silent regular damage brain quit bacon enter fold grab stairs";
+var mnemonic = "only document access column act cattle vicious ramp door leader comic woman";

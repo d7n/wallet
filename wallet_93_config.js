@@ -1,1 +1,1 @@
-var mnemonic = "clarify because egg wash infant sweet fall sentence trip buffalo degree below";
+var mnemonic = "moral dress glance waste story elegant honey razor sport poet cable box";

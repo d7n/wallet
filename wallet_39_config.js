@@ -1,1 +1,1 @@
-var mnemonic = "vague wolf emerge ready enforce gorilla battle team upgrade vast mind twice";
+var mnemonic = "run chapter distance gather false crush obtain nose long bar verb huge";

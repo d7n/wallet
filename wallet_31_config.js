@@ -1,1 +1,1 @@
-var mnemonic = "hair toe cargo reveal return rally solar develop noise vibrant wage history";
+var mnemonic = "carbon giggle small narrow solar disease scout also transfer ladder skate base";

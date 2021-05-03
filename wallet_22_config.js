@@ -1,1 +1,1 @@
-var mnemonic = "furnace update empower celery unhappy daring multiply weasel engine moral frog turn";
+var mnemonic = "million outside turn chef uphold whip output siren sorry summer throw reduce";

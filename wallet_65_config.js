@@ -1,1 +1,1 @@
-var mnemonic = "mystery inside nest wisdom post mosquito adult chunk reveal toward engage enroll";
+var mnemonic = "thing extra bottom heart error upper cover gift myth lock position lecture";

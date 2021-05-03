@@ -1,1 +1,1 @@
-var mnemonic = "law cover coyote casino trumpet nurse peanut assume coral lady response vital";
+var mnemonic = "bronze gorilla antenna proud sugar funny produce deliver clinic mule since hat";

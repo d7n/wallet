@@ -1,1 +1,1 @@
-var mnemonic = "hole indicate monkey detect blur lake purchase entire before pet lift soccer";
+var mnemonic = "father solution copper survey raw into list wrestle broken success stove correct";

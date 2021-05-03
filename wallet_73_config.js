@@ -1,1 +1,1 @@
-var mnemonic = "festival inmate symbol void enrich design furnace creek must swing public universe";
+var mnemonic = "fun cart alone special dizzy jeans fly yellow finish wife album wisdom";

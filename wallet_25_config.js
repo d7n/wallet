@@ -1,1 +1,1 @@
-var mnemonic = "mushroom kiss raw stereo define chapter taste fan return frozen trade logic";
+var mnemonic = "draw mobile sheriff robot chef innocent knock taste adjust base ginger silk";

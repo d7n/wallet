@@ -1,1 +1,1 @@
-var mnemonic = "pioneer amount gospel pepper notable table true riot pyramid bomb once dial";
+var mnemonic = "history ghost derive shadow mystery bubble gauge capital cheese noodle coyote horn";

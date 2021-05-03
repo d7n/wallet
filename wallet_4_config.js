@@ -1,1 +1,1 @@
-var mnemonic = "letter cross pulse blanket merge excess gift second neutral chimney kiss silk";
+var mnemonic = "submit journey rotate cage category agent marriage asthma pencil sample ring require";

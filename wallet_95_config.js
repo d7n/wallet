@@ -1,1 +1,1 @@
-var mnemonic = "grace melody cargo gym delay vacant toast fork before door dizzy thumb";
+var mnemonic = "embrace arrive easily siege skate combine ship game spoon silk goat silly";

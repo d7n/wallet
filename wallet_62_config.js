@@ -1,1 +1,1 @@
-var mnemonic = "insect color heart smoke truck plunge lake enlist kit man ball want";
+var mnemonic = "taste mammal comfort regret attitude people panther copper film like vague addict";

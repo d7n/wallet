@@ -1,1 +1,1 @@
-var mnemonic = "antique miss rhythm bicycle shrug wrap choose dynamic chase ill surface envelope";
+var mnemonic = "vehicle table that enter dry wait wrestle increase tiger nuclear video fever";

@@ -1,1 +1,1 @@
-var mnemonic = "reform useful virtual silent pretty noodle weapon empty angle bicycle usage erupt";
+var mnemonic = "fox license today bonus elbow thunder visit balance office alien phone escape";

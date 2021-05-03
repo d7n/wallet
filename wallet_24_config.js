@@ -1,1 +1,1 @@
-var mnemonic = "double shoe arrange thing bargain exchange limb mandate share matrix often quarter";
+var mnemonic = "warrior beach bunker grace age manage trap divide home caught join phrase";

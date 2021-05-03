@@ -1,1 +1,1 @@
-var mnemonic = "recipe romance lottery leaf trigger depend air dance fruit hospital begin hobby";
+var mnemonic = "swim display shoulder left enable airport broken bus civil jar woman super";

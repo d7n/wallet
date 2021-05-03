@@ -1,1 +1,1 @@
-var mnemonic = "surface pledge easily keen pause crack stage amazing cliff uncover raven shine";
+var mnemonic = "accuse lab choose betray casino derive napkin general address proud sword three";

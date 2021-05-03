@@ -1,1 +1,1 @@
-var mnemonic = "program sample flush sell file solve aerobic expire indoor pair hair cloud";
+var mnemonic = "unaware brass little open leave grape fix extra settle route poverty dutch";

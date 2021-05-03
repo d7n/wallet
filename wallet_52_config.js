@@ -1,1 +1,1 @@
-var mnemonic = "napkin defy express duty insane tag follow enough patient occur region riot";
+var mnemonic = "village drill gadget fabric height loan attend achieve arrange small faculty ready";

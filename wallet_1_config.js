@@ -1,1 +1,1 @@
-var mnemonic = "genius praise element guitar rack chalk agree elbow square erase blade trumpet";
+var mnemonic = "alley shoe veteran avocado busy neglect kiss tail merry slide gate deposit";

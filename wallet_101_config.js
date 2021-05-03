@@ -1,1 +1,1 @@
-var mnemonic = "erase empower rebuild ensure good crazy neither banana sense number moral sadness";
+var mnemonic = "voyage educate work rate merry chest frozen life bridge oppose scan venue";

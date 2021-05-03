@@ -1,1 +1,1 @@
-var mnemonic = "cheap midnight rack ticket bottom leisure struggle nation proud subject electric awkward";
+var mnemonic = "ball because powder theme margin auction cost wrist south lazy damp arena";

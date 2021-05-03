@@ -1,1 +1,1 @@
-var mnemonic = "man good bus level ostrich pizza soccer toast hand evil doll submit";
+var mnemonic = "spend margin swear switch dinner congress monitor ranch empty clock napkin arch";

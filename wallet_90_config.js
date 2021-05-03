@@ -1,1 +1,1 @@
-var mnemonic = "uncover eager fabric point river risk fog cabbage pull shell double vicious";
+var mnemonic = "kiwi salon loyal come scrub youth skill capital supply consider uphold light";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow ceiling sorry cage faculty syrup blame shift hurdle pulp false dirt";
+var mnemonic = "ski year enlist execute bridge fresh ugly right grit poem corn strategy";

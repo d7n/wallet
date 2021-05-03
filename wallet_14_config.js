@@ -1,1 +1,1 @@
-var mnemonic = "subject endorse fox impulse exhibit affair drum call asthma cabbage track urban";
+var mnemonic = "annual debate high market brass plunge video essence describe hurry demise addict";

@@ -1,1 +1,1 @@
-var mnemonic = "icon rent asset asthma gate agent maze vague festival dream despair winter";
+var mnemonic = "clerk afraid sorry young author patch solar oven hover history silver nuclear";

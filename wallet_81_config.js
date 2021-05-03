@@ -1,1 +1,1 @@
-var mnemonic = "use educate gun priority diet hobby desert leave please hollow angry taxi";
+var mnemonic = "ugly raccoon marble portion uniform light female prize paddle hungry possible novel";

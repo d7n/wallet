@@ -1,1 +1,1 @@
-var mnemonic = "neglect place approve ring clean book grit child legal elegant crime like";
+var mnemonic = "shallow still horror abstract scale crawl emotion wire come mosquito trip tumble";

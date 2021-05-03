@@ -1,1 +1,1 @@
-var mnemonic = "decade pole enrich margin essay pause flat hungry ozone punch lizard awesome";
+var mnemonic = "enroll recycle process mixture action leaf measure wolf bench sorry wool train";

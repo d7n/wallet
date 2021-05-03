@@ -1,1 +1,1 @@
-var mnemonic = "above green game plastic large pitch stem crystal dust pink tiger matrix";
+var mnemonic = "december rely penalty join print vivid method absurd air smile slim body";

@@ -1,1 +1,1 @@
-var mnemonic = "slam devote wink kingdom flee breeze either lottery cost picnic issue author";
+var mnemonic = "long actor eight deal only slot forum primary wink total faith inform";
