@@ -1,1 +1,1 @@
-var mnemonic = "island fat party inner reduce civil win butter world pave when example";
+var mnemonic = "drill sausage gift crunch lemon mixed sting average cage scissors bone menu";

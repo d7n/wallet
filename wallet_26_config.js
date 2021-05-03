@@ -1,1 +1,1 @@
-var mnemonic = "lion month tourist industry fix recycle ugly slide industry give sustain hunt";
+var mnemonic = "pumpkin earn noise scan ramp hen right token social destroy hurry nuclear";

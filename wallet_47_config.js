@@ -1,1 +1,1 @@
-var mnemonic = "anger include struggle purity anxiety upset erupt trouble blood barrel august address";
+var mnemonic = "canvas voyage custom cotton verify tiny basket canvas cruise avoid focus spoon";

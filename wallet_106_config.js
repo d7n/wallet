@@ -1,1 +1,1 @@
-var mnemonic = "onion wait weekend cabbage eye doll suspect behave rubber muffin vehicle true";
+var mnemonic = "pony short soup ridge expand switch code swim point soldier elevator lawsuit";

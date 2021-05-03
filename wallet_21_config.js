@@ -1,1 +1,1 @@
-var mnemonic = "profit girl local spray glide stone kiwi poverty stairs drum seek say";
+var mnemonic = "crater tape garment day club gap razor lobster top during adult year";

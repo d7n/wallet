@@ -1,1 +1,1 @@
-var mnemonic = "sudden memory buddy refuse neck inhale crowd good car fall level asthma";
+var mnemonic = "senior engine casual survey all hidden social borrow elder approve connect rather";

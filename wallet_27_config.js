@@ -1,1 +1,1 @@
-var mnemonic = "climb stuff cigar roast crucial enhance track brisk what use venue gadget";
+var mnemonic = "regret oil quick depend entry alert grid tomorrow neglect video bind shock";

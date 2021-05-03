@@ -1,1 +1,1 @@
-var mnemonic = "language improve media marble veteran movie wrap deny business bleak mammal mail";
+var mnemonic = "fantasy ecology human elephant today picture gain comfort kit motion card weekend";

@@ -1,1 +1,1 @@
-var mnemonic = "mind road add book catch eager suit tomato lyrics entry vendor ugly";
+var mnemonic = "grid admit scale faint fiscal like drink umbrella doctor book valley wild";

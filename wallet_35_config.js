@@ -1,1 +1,1 @@
-var mnemonic = "proof country defense fitness increase hello climb impact sibling smart also virus";
+var mnemonic = "isolate matrix human assist poem diesel nice clap online gas code debris";

@@ -1,1 +1,1 @@
-var mnemonic = "glad fault margin nuclear bamboo tackle trumpet write sight tired globe region";
+var mnemonic = "neglect limit surprise jazz elevator boat apart shock crater edit acoustic badge";

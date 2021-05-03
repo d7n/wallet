@@ -1,1 +1,1 @@
-var mnemonic = "sure layer satoshi expose virtual grunt quarter aerobic recycle sting reveal reunion";
+var mnemonic = "good elephant arch glue absurd convince screen family payment hospital finish lens";

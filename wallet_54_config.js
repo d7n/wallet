@@ -1,1 +1,1 @@
-var mnemonic = "sadness jaguar bone case roast jelly common hotel cook soldier oven film";
+var mnemonic = "mistake market endorse silly mammal iron peasant since slice october dynamic toe";

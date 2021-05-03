@@ -1,1 +1,1 @@
-var mnemonic = "sheriff mesh demand company stone ring crush bread cousin glad walk rhythm";
+var mnemonic = "become holiday length delay plate gauge prison dust flock brand clerk inflict";

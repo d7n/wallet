@@ -1,1 +1,1 @@
-var mnemonic = "garden timber disorder clean worth tent donor bridge kitten open behind common";
+var mnemonic = "soup item cabbage lava prison spice ridge clever increase approve nice plastic";

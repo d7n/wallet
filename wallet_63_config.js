@@ -1,1 +1,1 @@
-var mnemonic = "smile bleak logic young awake notice cool change remain artefact arena loan";
+var mnemonic = "suffer deal piece silver wheat current foot setup dragon feed today present";

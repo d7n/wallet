@@ -1,1 +1,1 @@
-var mnemonic = "hour table subway one mandate valve mixed glimpse blue coil sentence speed";
+var mnemonic = "atom syrup impulse balcony midnight latin arrest pool album type burden dawn";

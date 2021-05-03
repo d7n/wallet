@@ -1,1 +1,1 @@
-var mnemonic = "resemble cargo abstract manage hammer sibling media model culture caution dumb shrug";
+var mnemonic = "shoulder science relief horn daughter bunker control casino fine cross six wreck";

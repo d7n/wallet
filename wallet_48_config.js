@@ -1,1 +1,1 @@
-var mnemonic = "heavy because twin purity unfold kid enrich wage cause catalog excuse luggage";
+var mnemonic = "escape language gadget monkey kangaroo shrug used dwarf grid merit dumb globe";

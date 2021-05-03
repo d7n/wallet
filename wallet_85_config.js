@@ -1,1 +1,1 @@
-var mnemonic = "left erase antique term power liberty husband board stove cook flag gym";
+var mnemonic = "fitness visit saddle enlist wall distance trend south auto divert lunar they";

@@ -1,1 +1,1 @@
-var mnemonic = "collect gap glow equal model thing amused genius apart glide skirt word";
+var mnemonic = "claw disagree high attend grain jump ship catalog elephant churn unfold solar";

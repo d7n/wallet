@@ -1,1 +1,1 @@
-var mnemonic = "ethics large annual valley glad card bench pill honey feel talent city";
+var mnemonic = "sand cargo swing animal frog crazy poverty nature radar grit water provide";

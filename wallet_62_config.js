@@ -1,1 +1,1 @@
-var mnemonic = "extend shy wagon bulk now extend soup wire ozone wisdom squirrel wish";
+var mnemonic = "upset purse fragile tunnel walk cargo income employ soap usage valve asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "uniform attract list average fun select problem until sadness movie liberty round";
+var mnemonic = "pass donor knee below vapor door nothing old speak ginger cupboard donate";

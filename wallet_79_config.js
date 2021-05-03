@@ -1,1 +1,1 @@
-var mnemonic = "glow hen exclude million scare negative diet stable there quote maximum undo";
+var mnemonic = "position woman before elite this treat oyster retire suffer rally fat day";

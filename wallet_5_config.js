@@ -1,1 +1,1 @@
-var mnemonic = "goddess life narrow symptom ticket globe neither arrest pear menu fun mango";
+var mnemonic = "solid play vault permit liberty pull cream able word deputy crawl pudding";

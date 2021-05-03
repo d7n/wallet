@@ -1,1 +1,1 @@
-var mnemonic = "eight tragic amused learn raven odor verify wolf during office stamp behave";
+var mnemonic = "cycle siren chaos depth benefit gloom steel timber damp lunar cable earn";

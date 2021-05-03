@@ -1,1 +1,1 @@
-var mnemonic = "monitor filter easy clever enroll sponsor kiwi sister never often below picnic";
+var mnemonic = "type rival wheat rookie people shed tuna brain elder fork dice ribbon";

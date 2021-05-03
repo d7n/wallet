@@ -1,1 +1,1 @@
-var mnemonic = "call detail beach weekend style purse security nation rigid zone worry captain";
+var mnemonic = "mention achieve menu father come turn barely noodle monitor creek enough spike";

@@ -1,1 +1,1 @@
-var mnemonic = "tuition parade bacon reveal scissors merge wise symbol swarm tag paddle gift";
+var mnemonic = "hamster spoon dynamic scale sunny same loop scale faith life time van";

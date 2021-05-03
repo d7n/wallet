@@ -1,1 +1,1 @@
-var mnemonic = "yellow eight order drastic impose middle wink veteran flag discover fog board";
+var mnemonic = "comfort dust stumble ketchup practice anxiety kangaroo dice front winter donate news";

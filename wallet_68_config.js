@@ -1,1 +1,1 @@
-var mnemonic = "economy diesel leader skin large purpose fitness ugly grit ivory fitness toddler";
+var mnemonic = "filter matter response immense old curtain laundry rug stove blade tumble arm";

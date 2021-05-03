@@ -1,1 +1,1 @@
-var mnemonic = "season glare humor fence shallow rabbit loan habit armed foam shield pink";
+var mnemonic = "fall wire captain coast confirm pretty drill strong prevent inmate family skill";

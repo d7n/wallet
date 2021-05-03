@@ -1,1 +1,1 @@
-var mnemonic = "sun tornado unhappy hero bachelor energy easily item awake bulk armed invite";
+var mnemonic = "mercy prepare engine able chair comfort novel bid inflict donate cattle unit";

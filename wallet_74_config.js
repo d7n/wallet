@@ -1,1 +1,1 @@
-var mnemonic = "correct believe volume dune garbage swift knife fine tired museum tag fiction";
+var mnemonic = "cushion road reveal orphan position monitor vote rebel dignity false balance reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "path crash lawn utility legal vote alarm front surprise cake carry lend";
+var mnemonic = "student body trial electric fatigue hawk build syrup useful prevent very subject";

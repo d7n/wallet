@@ -1,1 +1,1 @@
-var mnemonic = "cupboard near light ordinary swallow enroll tornado feel walk rebel repeat million";
+var mnemonic = "unique digital smile rug april tunnel sadness warfare tenant protect humble guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair between regular little area rigid guard tragic drastic atom outer salon";
+var mnemonic = "good monitor between explain dizzy gather fiber tower assume chicken jump oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "army keen exile ask icon awful captain slush army tuition pyramid shrug";
+var mnemonic = "mutual post pink spider mixed loan online clog sight coconut motor unhappy";

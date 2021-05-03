@@ -1,1 +1,1 @@
-var mnemonic = "net include evoke acoustic try rather arrange glass earn bounce sting female";
+var mnemonic = "truck coconut snake field benefit someone business picnic tissue infant dwarf income";

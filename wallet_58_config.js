@@ -1,1 +1,1 @@
-var mnemonic = "bus sadness slice silver jewel assault random capital syrup dinosaur appear obtain";
+var mnemonic = "ship stairs steel essay wink afford setup curve saddle affair marriage rose";

@@ -1,1 +1,1 @@
-var mnemonic = "still canal van top safe second album exhaust access stem spend topic";
+var mnemonic = "supply grit kiwi swift hover bitter music play minute tiny cinnamon boat";

@@ -1,1 +1,1 @@
-var mnemonic = "quick law nose since release effort detail blush defense thing elbow clutch";
+var mnemonic = "denial churn unfold blur ginger tissue glory pigeon negative urge bachelor good";

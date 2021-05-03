@@ -1,1 +1,1 @@
-var mnemonic = "pudding bridge south energy answer gasp devote brief south leopard estate undo";
+var mnemonic = "hand mandate crunch risk wet path hammer common submit focus congress crack";

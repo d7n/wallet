@@ -1,1 +1,1 @@
-var mnemonic = "file clock unhappy actual aspect index mask heart dial wrist believe found";
+var mnemonic = "enjoy brown social cotton mother bid angle kind give cactus fetch furnace";

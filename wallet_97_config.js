@@ -1,1 +1,1 @@
-var mnemonic = "tongue lounge visual chimney ivory effort jazz garment stumble same height flat";
+var mnemonic = "sweet anxiety drama various army cactus alpha physical hover double echo arch";

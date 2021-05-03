@@ -1,1 +1,1 @@
-var mnemonic = "tomato beyond bind false pioneer web audit need hand home match fly";
+var mnemonic = "congress assault derive canyon canyon deny eternal manage voice industry still romance";

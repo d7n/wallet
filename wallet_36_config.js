@@ -1,1 +1,1 @@
-var mnemonic = "thunder false local rude baby entry buzz mistake razor maple mix service";
+var mnemonic = "buddy parrot empty boil swift cinnamon sustain mango hero manage victory path";

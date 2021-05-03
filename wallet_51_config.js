@@ -1,1 +1,1 @@
-var mnemonic = "minute pyramid water asthma title erupt face tiny dawn bean guide reduce";
+var mnemonic = "salute loud begin dwarf inner uncover wolf appear defy swarm normal ramp";

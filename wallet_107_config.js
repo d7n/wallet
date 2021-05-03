@@ -1,1 +1,1 @@
-var mnemonic = "nothing fame act guess way calm bicycle extra degree blouse depart vessel";
+var mnemonic = "tattoo syrup diamond skill behave page portion funny card clip better coconut";

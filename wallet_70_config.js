@@ -1,1 +1,1 @@
-var mnemonic = "present olympic tube about session people consider humble crystal win unit speak";
+var mnemonic = "strong color yard ketchup tail slot oblige diary settle giant orphan quit";

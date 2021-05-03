@@ -1,1 +1,1 @@
-var mnemonic = "cereal mango suspect science danger guide wonder prefer marriage stuff possible range";
+var mnemonic = "require blanket wealth twelve palace recipe bleak acquire shaft torch monkey quiz";

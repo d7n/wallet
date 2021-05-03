@@ -1,1 +1,1 @@
-var mnemonic = "tape misery alert patient want record seminar text mom laptop shoot access";
+var mnemonic = "design noise oak honey pill curve rib verify grid mechanic champion notice";

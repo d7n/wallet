@@ -1,1 +1,1 @@
-var mnemonic = "target garage banner fog brave floor smart train park tone tattoo arm";
+var mnemonic = "onion match divorce horn category trumpet sudden legend high ship warfare emotion";

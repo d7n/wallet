@@ -1,1 +1,1 @@
-var mnemonic = "inner blade pelican between kick they another vault midnight sand cheese monkey";
+var mnemonic = "pulse barrel outside invite core wealth limb rain square benefit world volume";

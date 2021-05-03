@@ -1,1 +1,1 @@
-var mnemonic = "audit elephant wife truck bag easy rule wrist dilemma amateur mobile market";
+var mnemonic = "estate dress right educate powder caution absurd conduct renew snack electric buyer";

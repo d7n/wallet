@@ -1,1 +1,1 @@
-var mnemonic = "cart alien key mosquito usage reject burst valve include chair mechanic artefact";
+var mnemonic = "supreme million evidence picnic nose salute damage supreme quick wrap fish burger";

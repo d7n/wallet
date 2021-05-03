@@ -1,1 +1,1 @@
-var mnemonic = "tennis leader jeans rent time exercise trim jungle artefact drum peace relax";
+var mnemonic = "coyote object ready napkin salad grant act acid increase flag issue cause";

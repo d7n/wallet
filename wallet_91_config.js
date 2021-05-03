@@ -1,1 +1,1 @@
-var mnemonic = "license lunar tumble arctic sword quarter nuclear hold pact flee dice tribe";
+var mnemonic = "forget ordinary soup uncle genius waste rice aunt regret rocket immense cage";

@@ -1,1 +1,1 @@
-var mnemonic = "ten estate pupil turkey try genre cinnamon path oppose zero burst nominee";
+var mnemonic = "arrange core arctic youth hard sock artwork office curve slice race expire";

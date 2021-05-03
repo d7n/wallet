@@ -1,1 +1,1 @@
-var mnemonic = "dwarf seed apology rapid same raven birth width devote jealous bitter zebra";
+var mnemonic = "naive neck town field soap crew ill accident rough daring able van";

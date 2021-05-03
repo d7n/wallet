@@ -1,1 +1,1 @@
-var mnemonic = "curtain hole negative jeans antenna vehicle pistol neglect chat elephant shift program";
+var mnemonic = "arena always outer gauge harbor pair muscle idle head install regret eight";

@@ -1,1 +1,1 @@
-var mnemonic = "charge pulse outside pave tail slush federal apple fire early wrap lend";
+var mnemonic = "version wheel vast relief jar zoo melody warm slide tonight grant present";

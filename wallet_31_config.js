@@ -1,1 +1,1 @@
-var mnemonic = "length relief warfare lend curtain track pioneer crack join actor table history";
+var mnemonic = "observe elder robust village winter use east invite change novel hip alley";

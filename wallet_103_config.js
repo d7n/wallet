@@ -1,1 +1,1 @@
-var mnemonic = "hub decrease drastic mom bag edge anchor tape energy hen wild shove";
+var mnemonic = "latin warfare paddle crowd illness absent misery satisfy iron spray vintage million";

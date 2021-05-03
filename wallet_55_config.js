@@ -1,1 +1,1 @@
-var mnemonic = "change teach combine predict notable merit feature window notable side segment print";
+var mnemonic = "opera loud pupil toast maple dream conduct photo attack ensure tray spend";

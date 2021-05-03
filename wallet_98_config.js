@@ -1,1 +1,1 @@
-var mnemonic = "deposit three faith absent fine rather crane eagle hat chat rally faint";
+var mnemonic = "laugh type cabin route soldier short monitor panda sweet you clap south";

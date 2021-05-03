@@ -1,1 +1,1 @@
-var mnemonic = "catch model flip noble render label little possible exhibit renew more water";
+var mnemonic = "dice frame over wink second language risk during waste vast baby outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "antique essence twist cat destroy jealous tornado member congress lawsuit consider obtain";
+var mnemonic = "main fossil banner crew range income ticket patient panther foil area language";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise elephant digital piano only dad ahead mix slender other trend still";
+var mnemonic = "figure coin desert phone champion clown behind jazz debris become winter group";

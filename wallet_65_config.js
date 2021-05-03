@@ -1,1 +1,1 @@
-var mnemonic = "nephew seed proud half shift violin order domain game good sense earn";
+var mnemonic = "large resemble dawn march pitch lunch scout rocket post used enough ancient";

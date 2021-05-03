@@ -1,1 +1,1 @@
-var mnemonic = "case memory kite audit express chest twist green middle wrestle when body";
+var mnemonic = "major behind metal dial spike staff govern deputy increase rescue era rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "famous dignity poem marriage sustain focus poverty fashion receive alien wing crouch";
+var mnemonic = "tuna exhibit enemy delay siren science choice night animal hotel desk list";

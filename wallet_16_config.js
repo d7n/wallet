@@ -1,1 +1,1 @@
-var mnemonic = "door pond hurry impact glad ancient bone gauge doll dentist follow repeat";
+var mnemonic = "balcony erase plate glove dad ethics note weapon visual direct bird idea";

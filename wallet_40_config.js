@@ -1,1 +1,1 @@
-var mnemonic = "leave basic race wish laptop miss common heart glue island mix shrug";
+var mnemonic = "blanket useless boss body better cabbage taste beyond alien orange absent swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion economy avoid crew punch sting brush farm guard engage link kite";
+var mnemonic = "vast road erase fun select voice pig gift scout armed suspect cup";

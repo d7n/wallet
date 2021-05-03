@@ -1,1 +1,1 @@
-var mnemonic = "solar allow language art mango benefit gather arena juice focus speed own";
+var mnemonic = "witness clay zoo virus love garbage blood armed slow track air myth";

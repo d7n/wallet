@@ -1,1 +1,1 @@
-var mnemonic = "lion faculty resist argue silk system human senior exhaust practice another session";
+var mnemonic = "pact mutual galaxy sleep joy chicken horse promote symbol spray exile tide";

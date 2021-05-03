@@ -1,1 +1,1 @@
-var mnemonic = "trim rail afford need theory donkey weather tail diary weasel forest marriage";
+var mnemonic = "skirt evolve jungle urge taste arrange hand sand middle impulse number drastic";

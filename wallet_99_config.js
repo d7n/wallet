@@ -1,1 +1,1 @@
-var mnemonic = "crunch hunt weapon cheap offer finish popular main addict taste impulse axis";
+var mnemonic = "history pulse peanut lady fiber payment avoid subway return glory judge act";

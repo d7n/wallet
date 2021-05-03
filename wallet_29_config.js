@@ -1,1 +1,1 @@
-var mnemonic = "sense egg earn merit health solution inflict gas swamp soap butter rice";
+var mnemonic = "man detect involve excess join similar blood promote avoid faculty culture sheriff";

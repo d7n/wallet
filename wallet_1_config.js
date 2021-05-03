@@ -1,1 +1,1 @@
-var mnemonic = "glance indoor label light elbow license initial bitter pause disagree left short";
+var mnemonic = "armed satoshi wagon relief grid allow metal fork response eternal vacant spatial";

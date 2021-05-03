@@ -1,1 +1,1 @@
-var mnemonic = "simple mountain asset analyst kiss arrive nominee solve matrix fossil chest valve";
+var mnemonic = "youth payment blush permit segment knee sugar cigar display suffer else orphan";

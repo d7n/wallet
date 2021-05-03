@@ -1,1 +1,1 @@
-var mnemonic = "stay tenant often believe source lecture chunk anxiety water point insect tunnel";
+var mnemonic = "squirrel flash process alone idle van remember bean nut plate holiday memory";

@@ -1,1 +1,1 @@
-var mnemonic = "grit click double unusual throw trap level voice exercise void skin demise";
+var mnemonic = "bicycle size kick wagon idea damage pattern upper dust nature high mad";

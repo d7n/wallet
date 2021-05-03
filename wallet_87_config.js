@@ -1,1 +1,1 @@
-var mnemonic = "civil kiwi final ticket other wash mind payment execute slender group destroy";
+var mnemonic = "atom door can shock worry bus depth assist gaze artefact ladder pupil";

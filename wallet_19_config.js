@@ -1,1 +1,1 @@
-var mnemonic = "spoon video letter differ witness kiwi grit lion teach cross supply blue";
+var mnemonic = "collect artwork spring clarify love rose opinion anger doctor portion sad since";

@@ -1,1 +1,1 @@
-var mnemonic = "ride capital guess shield galaxy feature below tornado actual fence example topic";
+var mnemonic = "then pair trip bag decline penalty nephew hover tongue theme urban glance";

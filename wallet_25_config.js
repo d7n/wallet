@@ -1,1 +1,1 @@
-var mnemonic = "silly injury spy extend juice evidence town add army pride attack spice";
+var mnemonic = "swap rent crisp craft tree dynamic pretty employ solar wasp yard dynamic";

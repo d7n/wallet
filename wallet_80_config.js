@@ -1,1 +1,1 @@
-var mnemonic = "measure trap theory file only relax neither outer cabin wing burger evolve";
+var mnemonic = "design void pride diary ramp slide turn hobby salad century mistake clump";
