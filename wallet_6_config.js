@@ -1,1 +1,1 @@
-var mnemonic = "interest basket rotate winter accuse mass penalty field truly price outdoor fringe";
+var mnemonic = "course nut proud negative manage side fit plunge cancel acoustic mushroom twelve";

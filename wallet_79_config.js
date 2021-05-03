@@ -1,1 +1,1 @@
-var mnemonic = "write wrap disease chunk drive present large fee inject describe dress edit";
+var mnemonic = "ready person book tissue century jewel village soon dash raise advance social";

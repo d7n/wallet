@@ -1,1 +1,1 @@
-var mnemonic = "bean diesel tiny venture fabric blanket climb december kind print order fame";
+var mnemonic = "desk auction secret never furnace artwork cable public click episode tissue infant";

@@ -1,1 +1,1 @@
-var mnemonic = "moral kiss direct hedgehog vague bird pistol pond pig december oxygen fold";
+var mnemonic = "dry twenty private swarm drive clay roast cover expand agent hub fade";

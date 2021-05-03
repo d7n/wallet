@@ -1,1 +1,1 @@
-var mnemonic = "sentence oak vital ginger habit problem harsh canoe focus emerge matter arrange";
+var mnemonic = "test video hero gasp sheriff maple confirm prosper embody blast energy dance";

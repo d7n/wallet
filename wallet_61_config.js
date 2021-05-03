@@ -1,1 +1,1 @@
-var mnemonic = "snow universe trouble pottery aisle derive feel video tomorrow destroy kangaroo scan";
+var mnemonic = "merit olive drip culture hello peanut buyer south census clump proof organ";

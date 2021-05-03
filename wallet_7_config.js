@@ -1,1 +1,1 @@
-var mnemonic = "treat naive zero carry ranch tooth river place chat insect always clog";
+var mnemonic = "april script public word around dismiss beef hospital pepper behind life loan";

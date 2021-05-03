@@ -1,1 +1,1 @@
-var mnemonic = "column vibrant girl warrior brick horse planet quantum rail beyond mushroom exact";
+var mnemonic = "life nest recipe void echo antique lesson only language chair during school";

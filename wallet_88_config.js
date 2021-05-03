@@ -1,1 +1,1 @@
-var mnemonic = "puzzle year caught resemble baby scatter fossil style pet banana element enroll";
+var mnemonic = "retire sell square liberty second book sing unfair lock tuna glare sad";

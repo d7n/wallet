@@ -1,1 +1,1 @@
-var mnemonic = "endless quantum dutch pill pole margin display canyon sunny miracle asset toss";
+var mnemonic = "blast success exercise spatial rose company solve champion deputy slice detect divert";

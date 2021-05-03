@@ -1,1 +1,1 @@
-var mnemonic = "casual spoon female siege polar top tilt faint search syrup silver defense";
+var mnemonic = "thank artefact cool hold undo clay arrive coin adjust crack circle common";

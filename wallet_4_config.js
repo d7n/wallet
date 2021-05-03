@@ -1,1 +1,1 @@
-var mnemonic = "gadget shoot onion nurse door solution siege dish siren myth cigar nation";
+var mnemonic = "acid giant rude lift lucky media hobby protect thing normal impose habit";

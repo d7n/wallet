@@ -1,1 +1,1 @@
-var mnemonic = "vibrant lonely silver mail street gravity faith culture tonight course uncover ride";
+var mnemonic = "curtain fog bleak solution ride margin include virtual goat gallery comfort bleak";

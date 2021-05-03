@@ -1,1 +1,1 @@
-var mnemonic = "inquiry refuse extra slow rate fossil page vicious improve sibling arctic crack";
+var mnemonic = "during deer aspect photo pigeon six joy priority fog lecture congress mammal";

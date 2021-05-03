@@ -1,1 +1,1 @@
-var mnemonic = "gather circle soup equal quote team muscle dial fall mind alone jump";
+var mnemonic = "culture learn shrug wall rule budget camp kid pigeon hurry wheel candy";

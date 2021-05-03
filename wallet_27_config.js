@@ -1,1 +1,1 @@
-var mnemonic = "census clump wool poem idea slush minor behave success slender bounce load";
+var mnemonic = "february gold uncle mansion inch limb month bomb exclude library nuclear tumble";

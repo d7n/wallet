@@ -1,1 +1,1 @@
-var mnemonic = "catalog cherry video daring enlist easy note snake enrich afford level erode";
+var mnemonic = "reward what steak sauce update prefer thing mesh tornado option lonely box";

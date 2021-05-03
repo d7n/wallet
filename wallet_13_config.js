@@ -1,1 +1,1 @@
-var mnemonic = "sleep patient matrix kitchen sight awake assist solar slot skill direct stove";
+var mnemonic = "town brisk stay cotton tube party veteran mimic aisle cash enact analyst";

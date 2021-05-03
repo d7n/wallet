@@ -1,1 +1,1 @@
-var mnemonic = "service reveal task fiction excite open work squirrel exact feature start soccer";
+var mnemonic = "dice can category together destroy tragic holiday time crew monster morning coffee";

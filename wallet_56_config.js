@@ -1,1 +1,1 @@
-var mnemonic = "palm advice endless ranch clutch cement session rapid else assist glimpse olympic";
+var mnemonic = "kit solution forget plunge excite comfort filter real bar call faith exit";

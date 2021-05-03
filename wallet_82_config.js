@@ -1,1 +1,1 @@
-var mnemonic = "tobacco try exhaust portion clap faculty wheel fatigue outer income close patch";
+var mnemonic = "popular garment female obscure market exist aisle choice brain nominee grit make";

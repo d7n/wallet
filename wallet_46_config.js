@@ -1,1 +1,1 @@
-var mnemonic = "repair remove essence brown angle bargain during have hope play test work";
+var mnemonic = "crush door offer betray base west fade umbrella because edit interest torch";

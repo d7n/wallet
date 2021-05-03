@@ -1,1 +1,1 @@
-var mnemonic = "process empty stand glue oyster ten gate orbit reform blind immense disorder";
+var mnemonic = "rib hint duty light banner hair alone sibling faith option squeeze science";

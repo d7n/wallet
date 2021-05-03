@@ -1,1 +1,1 @@
-var mnemonic = "merit throw multiply ocean anchor across pluck beach tiger sure girl identify";
+var mnemonic = "mutual door olympic scale scene nasty belt truly also balcony put stable";

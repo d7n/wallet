@@ -1,1 +1,1 @@
-var mnemonic = "flag dice forget pumpkin journey behave excuse sunset vague dream little police";
+var mnemonic = "indicate measure wear hedgehog sign forward snack pencil picnic bid satisfy put";

@@ -1,1 +1,1 @@
-var mnemonic = "curtain three wheat walk soccer gospel analyst guitar tag property novel innocent";
+var mnemonic = "account author book knee hazard much obey plate crash illness spy door";

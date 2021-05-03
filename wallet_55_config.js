@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon weapon despair below joke gun edge escape edit stone absorb obvious";
+var mnemonic = "detect critic thunder snap flash deposit day belt vehicle corn divide canal";

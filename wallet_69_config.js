@@ -1,1 +1,1 @@
-var mnemonic = "syrup believe shine eyebrow move rose finish coach prosper capable essay search";
+var mnemonic = "wife club buyer release acoustic drum often solar catalog discover ride unable";

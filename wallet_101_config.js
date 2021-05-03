@@ -1,1 +1,1 @@
-var mnemonic = "thing olive income bullet figure fall dutch absent enemy absurd hospital wine";
+var mnemonic = "sibling liberty tired unit early ecology address correct charge resemble hurry trend";

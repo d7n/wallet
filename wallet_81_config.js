@@ -1,1 +1,1 @@
-var mnemonic = "seed current meat wire tragic olive defy opera industry item anchor pulp";
+var mnemonic = "aim dismiss duck vibrant choice parent muffin mountain adjust brush harsh will";

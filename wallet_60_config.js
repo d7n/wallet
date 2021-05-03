@@ -1,1 +1,1 @@
-var mnemonic = "salmon improve decade seat dilemma faith zoo scan shift spider chief uniform";
+var mnemonic = "atom absorb future lobster smart duck iron degree bracket tuition tree drastic";

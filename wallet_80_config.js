@@ -1,1 +1,1 @@
-var mnemonic = "multiply state conduct refuse spike pass raven simple impact fire kitten shine";
+var mnemonic = "ranch law catalog fine year dose two card circle theme elephant poet";

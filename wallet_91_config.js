@@ -1,1 +1,1 @@
-var mnemonic = "final exist always employ empty kingdom keen winner give include flame clerk";
+var mnemonic = "misery rubber brick decide trap gasp pattern shiver tackle bar brother stadium";

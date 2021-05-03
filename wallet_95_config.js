@@ -1,1 +1,1 @@
-var mnemonic = "before come squeeze finish tragic table reward life cram truck fresh sad";
+var mnemonic = "tail tuna maze swear naive parade obey gossip dress bread normal crater";

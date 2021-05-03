@@ -1,1 +1,1 @@
-var mnemonic = "web tortoise jump leopard antenna lazy rabbit plunge fitness list group damage";
+var mnemonic = "gravity text width tattoo girl bullet mind afford acquire else session city";

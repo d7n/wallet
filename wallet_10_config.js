@@ -1,1 +1,1 @@
-var mnemonic = "cable midnight century apple oblige income rhythm method swim girl about left";
+var mnemonic = "dust junior artist news donate shop scare trade small flat baby indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "connect bomb sentence shine day neck dance material grow blast scrap idle";
+var mnemonic = "quick excite title tent risk pudding husband pause soap proof crucial nest";

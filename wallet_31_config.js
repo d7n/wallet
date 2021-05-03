@@ -1,1 +1,1 @@
-var mnemonic = "van game viable diet nasty target media obvious celery ugly elder mercy";
+var mnemonic = "shallow between mouse vapor enemy assist gauge reveal veteran force over suggest";

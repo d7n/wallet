@@ -1,1 +1,1 @@
-var mnemonic = "order narrow field upset venue odor rice since tower wood slender step";
+var mnemonic = "best awake nurse trigger people slush race display mechanic fiscal believe letter";

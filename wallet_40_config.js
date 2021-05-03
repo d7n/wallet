@@ -1,1 +1,1 @@
-var mnemonic = "inject cupboard gentle ladder vibrant aerobic possible sentence bar laptop stable announce";
+var mnemonic = "dignity auto excite sauce runway foam zone drift property slim country choose";

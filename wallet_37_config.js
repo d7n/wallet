@@ -1,1 +1,1 @@
-var mnemonic = "fade main talk away measure word buyer fly marble poverty brass negative";
+var mnemonic = "eternal orbit cattle cushion erode hat convince husband monkey food silver rather";

@@ -1,1 +1,1 @@
-var mnemonic = "public stock night jealous old snow have lab water cube shrimp urban";
+var mnemonic = "blade faculty sword bullet card dream bunker lesson admit fiction into rose";

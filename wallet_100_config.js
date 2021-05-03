@@ -1,1 +1,1 @@
-var mnemonic = "sleep lesson stomach female process hub orchard dizzy deputy hero float text";
+var mnemonic = "unit weasel lonely park oak glove genre clerk tell harvest reduce gather";

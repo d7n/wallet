@@ -1,1 +1,1 @@
-var mnemonic = "charge lazy imitate bunker oak confirm pet foster thunder seek fade push";
+var mnemonic = "around beef belt napkin huge case visit knock awake debate trip lyrics";

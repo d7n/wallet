@@ -1,1 +1,1 @@
-var mnemonic = "smile multiply velvet prepare volume goat history reflect ability zone sort chef";
+var mnemonic = "weasel video rice child service autumn chimney ostrich fever joy panel noodle";

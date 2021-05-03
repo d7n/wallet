@@ -1,1 +1,1 @@
-var mnemonic = "daughter morning nation diagram title medal naive hidden tell tackle script throw";
+var mnemonic = "rigid father bike crane punch fun issue exotic side wonder lawsuit deputy";

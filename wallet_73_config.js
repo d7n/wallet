@@ -1,1 +1,1 @@
-var mnemonic = "flag hospital other shock work they warfare furnace romance bachelor vote silk";
+var mnemonic = "include claw solar black buffalo brother kid gauge category gym jungle atom";

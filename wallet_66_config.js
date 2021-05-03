@@ -1,1 +1,1 @@
-var mnemonic = "agent hill supreme improve note human include cushion dinosaur captain sphere own";
+var mnemonic = "bonus cost situate sick love outside grace salon job praise expire tomorrow";

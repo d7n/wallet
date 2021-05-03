@@ -1,1 +1,1 @@
-var mnemonic = "kite gravity satisfy salt dance outer poet once concert field cinnamon virtual";
+var mnemonic = "material grow violin online surround layer orchard room achieve bracket piece image";

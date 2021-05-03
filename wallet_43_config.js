@@ -1,1 +1,1 @@
-var mnemonic = "three disorder critic friend aerobic unable exact maple grass result delay attract";
+var mnemonic = "pudding climb this happy very example sweet picture float huge speed together";

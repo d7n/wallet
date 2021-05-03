@@ -1,1 +1,1 @@
-var mnemonic = "conduct rail write usage copper must garbage wood ring armor alcohol lizard";
+var mnemonic = "antenna key series trophy fiction pottery unfold six stuff stove wing guard";

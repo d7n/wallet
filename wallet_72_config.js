@@ -1,1 +1,1 @@
-var mnemonic = "security dignity prison race design legend across wire saddle sunset kitchen mom";
+var mnemonic = "inherit act syrup carpet public swim course acid priority judge sniff ugly";

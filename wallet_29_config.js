@@ -1,1 +1,1 @@
-var mnemonic = "analyst vital same pioneer then chuckle pepper siege tool dignity dove mistake";
+var mnemonic = "bulb perfect diagram gloom genre weasel involve drastic great flight leopard spike";

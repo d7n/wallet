@@ -1,1 +1,1 @@
-var mnemonic = "final pear science panic dose scene throw more exact pretty eternal add";
+var mnemonic = "win earn celery ring carbon side stool jacket lunch top coil link";

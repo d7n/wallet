@@ -1,1 +1,1 @@
-var mnemonic = "movie dice maid upon buddy nature all there hedgehog sphere hobby place";
+var mnemonic = "hope save behave bullet oxygen rotate vocal cruel public valve taxi gospel";

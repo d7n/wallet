@@ -1,1 +1,1 @@
-var mnemonic = "group light describe occur rose height color advice twice naive funny exist";
+var mnemonic = "wealth trigger can polar unit vendor blush media disease stairs butter beef";

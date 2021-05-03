@@ -1,1 +1,1 @@
-var mnemonic = "dose steel remove alarm mirror soap concert unique drama shoulder collect lake";
+var mnemonic = "recycle layer spread unique spatial cash steel fan virus gym napkin stick";

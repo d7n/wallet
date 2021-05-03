@@ -1,1 +1,1 @@
-var mnemonic = "electric one help divert supreme combine globe diamond large sample fitness winter";
+var mnemonic = "sing mountain hint broken ring faith erase oblige book brave tomorrow play";

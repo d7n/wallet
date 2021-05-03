@@ -1,1 +1,1 @@
-var mnemonic = "core horror motor field nasty wolf clutch lumber wrestle clutch donkey allow";
+var mnemonic = "rude bring wave below usual oven emerge need deer calm inherit stage";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur board pledge ketchup tissue city recycle cigar fatal brown hire found";
+var mnemonic = "valve mosquito crunch harbor digital capable rocket payment seat section mercy ball";

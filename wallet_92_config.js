@@ -1,1 +1,1 @@
-var mnemonic = "caught name way drip play wide answer style drama squirrel group above";
+var mnemonic = "dinner label gloom basket require host video ill flee latin dilemma sting";

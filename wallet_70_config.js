@@ -1,1 +1,1 @@
-var mnemonic = "glue person fox clay elegant secret appear answer patch phrase away diet";
+var mnemonic = "measure shrug wreck six dad little glad tomorrow upgrade advice force another";

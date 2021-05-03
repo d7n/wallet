@@ -1,1 +1,1 @@
-var mnemonic = "space sort fire where bag make void snake truck regret piano end";
+var mnemonic = "outside ginger priority alpha large word garbage reflect jaguar easy rhythm repeat";

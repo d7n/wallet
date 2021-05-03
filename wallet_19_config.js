@@ -1,1 +1,1 @@
-var mnemonic = "token type tragic buffalo repair orbit note wrap protect cup egg burst";
+var mnemonic = "galaxy okay flush jacket term regret present tortoise invite depart limit wet";

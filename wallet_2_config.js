@@ -1,1 +1,1 @@
-var mnemonic = "layer silk bleak team panic fatigue harbor unknown wild glimpse mom swear";
+var mnemonic = "trade desk hurdle quick assist rival dilemma hint mirror holiday lecture long";

@@ -1,1 +1,1 @@
-var mnemonic = "announce beyond demise fluid world shy spare another parade wrestle lesson must";
+var mnemonic = "merit okay deer artist decline donate beyond immense sleep liberty toy marine";

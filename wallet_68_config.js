@@ -1,1 +1,1 @@
-var mnemonic = "cushion spawn camp rain glow buddy goat raccoon surprise enrich mix exact";
+var mnemonic = "sentence honey artwork sleep canoe crop wood ill funny play borrow warfare";

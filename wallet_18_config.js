@@ -1,1 +1,1 @@
-var mnemonic = "grocery rain holiday nest entire have basket toe aerobic dentist venue honey";
+var mnemonic = "ramp memory have ugly spike load okay merit fit horse ahead humble";

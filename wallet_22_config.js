@@ -1,1 +1,1 @@
-var mnemonic = "hockey jelly leg huge return employ close name victory weird time broom";
+var mnemonic = "kangaroo switch taste holiday heavy outdoor source blood wide idle rack palm";

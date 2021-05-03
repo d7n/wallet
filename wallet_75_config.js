@@ -1,1 +1,1 @@
-var mnemonic = "ladder hidden page bright unveil wasp sing audit embody meat evoke bullet";
+var mnemonic = "test picture wet cute coach snack cancel bundle erode man vault vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "lion target jacket border term aim climb cupboard three human dove debris";
+var mnemonic = "page what faint birth usual crime soccer tomorrow spoon vicious position video";

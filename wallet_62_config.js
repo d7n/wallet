@@ -1,1 +1,1 @@
-var mnemonic = "planet matrix monitor energy turkey mind shove pumpkin resource order pill shrug";
+var mnemonic = "army coin test open forget person float wear advice view cereal model";

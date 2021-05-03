@@ -1,1 +1,1 @@
-var mnemonic = "document oppose worry actual brick make worth hawk insect state boy narrow";
+var mnemonic = "syrup range infant predict pitch direct squirrel erosion dust position stool invite";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle guide carpet express excess ketchup matter spy obey cactus head cinnamon";
+var mnemonic = "end become dumb casino whisper draft hospital reward million lecture joy piano";

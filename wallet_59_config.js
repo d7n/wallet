@@ -1,1 +1,1 @@
-var mnemonic = "doll peasant wild umbrella cup short update skill seed bundle topic beauty";
+var mnemonic = "office legal flower heavy neutral tell crumble output verb prepare board cotton";

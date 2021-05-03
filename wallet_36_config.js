@@ -1,1 +1,1 @@
-var mnemonic = "ritual quarter wagon pear else tenant gossip unusual man rigid glory spice";
+var mnemonic = "bargain tape decide dragon gas paddle sketch category drama milk seminar world";

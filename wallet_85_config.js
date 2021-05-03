@@ -1,1 +1,1 @@
-var mnemonic = "chimney debris attract announce nation add tide laundry shiver baby misery child";
+var mnemonic = "negative finish clean honey resemble plate aware myself neck worth impact ceiling";

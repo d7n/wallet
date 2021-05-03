@@ -1,1 +1,1 @@
-var mnemonic = "soccer canyon find custom blood cage exile motion lamp lounge before digital";
+var mnemonic = "always spread until unknown conduct furnace heavy hundred exhaust reward salt island";

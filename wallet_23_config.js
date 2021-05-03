@@ -1,1 +1,1 @@
-var mnemonic = "behind summer chef now bind scissors gallery bundle recall abandon struggle place";
+var mnemonic = "salad observe vacuum fetch marble farm easily ozone bind virus kitten rose";

@@ -1,1 +1,1 @@
-var mnemonic = "yard fuel eternal joy series addict situate van smoke thumb secret win";
+var mnemonic = "domain gauge cube ugly involve shrimp margin fatal way evolve stone hunt";

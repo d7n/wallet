@@ -1,1 +1,1 @@
-var mnemonic = "unknown open output shrug abuse board ivory image category stone alpha oval";
+var mnemonic = "right armed section eager negative pupil hobby excite cradle rent polar worry";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh lawn spy ghost staff add buffalo stairs forest vast sentence comfort";
+var mnemonic = "frown enact chest table tooth faith burden matter air produce marriage frog";

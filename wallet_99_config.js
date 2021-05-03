@@ -1,1 +1,1 @@
-var mnemonic = "dawn twice total shed scatter liar install tennis worry damp borrow notable";
+var mnemonic = "gospel barrel slam piano crystal good build punch whale dolphin hold hundred";

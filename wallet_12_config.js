@@ -1,1 +1,1 @@
-var mnemonic = "hour dry soap art acoustic drift market into quarter noise quit high";
+var mnemonic = "dentist chase just hurt asthma govern describe blast fat civil attitude obey";

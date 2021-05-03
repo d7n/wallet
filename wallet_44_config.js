@@ -1,1 +1,1 @@
-var mnemonic = "reopen occur fix zoo leader beyond into addict during winter acquire supply";
+var mnemonic = "bread old collect news cave surge liquid awkward buzz bag arena proof";
