@@ -1,1 +1,1 @@
-var mnemonic = "strike pill okay powder correct debris solid item renew able slide audit";
+var mnemonic = "merry funny giant despair early spell alcohol joy display valley slice hard";

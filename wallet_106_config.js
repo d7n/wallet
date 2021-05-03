@@ -1,1 +1,1 @@
-var mnemonic = "erode novel key pull novel salute remain gossip cactus govern general pyramid";
+var mnemonic = "sorry toilet cradle concert region improve alley surge body fee stone convince";

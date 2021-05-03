@@ -1,1 +1,1 @@
-var mnemonic = "lottery hill joke cry frost mammal seat exact what trade expand topic";
+var mnemonic = "coral question save tube area ozone fan invite debate flush kite trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "catch farm mother better broom decide question fit car fish broken garage";
+var mnemonic = "turn tool keen salute real rose box stay give enrich call frequent";

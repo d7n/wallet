@@ -1,1 +1,1 @@
-var mnemonic = "swallow blood small north cancel brick unique retire chef grit course arrest";
+var mnemonic = "lake truly onion surprise mechanic harvest magic scatter when cotton spy mimic";

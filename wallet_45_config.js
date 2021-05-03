@@ -1,1 +1,1 @@
-var mnemonic = "they device avoid loud snack wagon rich fog crack outer juice knock";
+var mnemonic = "child modify wear fury sing oyster arrow purpose pipe cart bind segment";

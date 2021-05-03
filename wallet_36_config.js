@@ -1,1 +1,1 @@
-var mnemonic = "glory letter horn roast sail glue arena census magic canvas helmet sausage";
+var mnemonic = "undo high bird clinic market garage leave cousin frozen sick once enroll";

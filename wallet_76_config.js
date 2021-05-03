@@ -1,1 +1,1 @@
-var mnemonic = "choose flush nest behind actor aisle oxygen develop usage earth miss acoustic";
+var mnemonic = "idle rookie someone sound length card arm puppy middle bamboo banana state";

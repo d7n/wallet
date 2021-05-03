@@ -1,1 +1,1 @@
-var mnemonic = "wealth tank soup soul region finger citizen usage gossip donate master when";
+var mnemonic = "kit excess dwarf lottery police poem country original income man perfect also";

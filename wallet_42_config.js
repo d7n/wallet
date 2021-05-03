@@ -1,1 +1,1 @@
-var mnemonic = "make dumb fog toast this snap ski blade history bike layer width";
+var mnemonic = "rice ordinary manual brave switch north man person original early aerobic wrap";

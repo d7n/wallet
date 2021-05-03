@@ -1,1 +1,1 @@
-var mnemonic = "cricket equip repeat trumpet shaft mask category shrimp license embody dumb cradle";
+var mnemonic = "layer weird blood blue swarm despair chief seed swear leader gossip tomorrow";

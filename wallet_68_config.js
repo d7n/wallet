@@ -1,1 +1,1 @@
-var mnemonic = "exercise travel kit they type own sail bounce fever layer ozone express";
+var mnemonic = "curve game frost repair cabbage couch gadget all about party system glow";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney intact penalty sight tattoo abandon debris popular private raise adapt maple";
+var mnemonic = "fantasy crucial job slender expect gift scene diagram frown speak caution service";

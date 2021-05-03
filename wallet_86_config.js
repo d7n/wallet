@@ -1,1 +1,1 @@
-var mnemonic = "journey dove winter never identify indicate eager same clerk brick response endorse";
+var mnemonic = "nice rack tilt clay belt photo devote loyal marine holiday category belt";

@@ -1,1 +1,1 @@
-var mnemonic = "idle universe profit voice warm scatter stand approve verify allow grab decrease";
+var mnemonic = "enroll scan camp custom snack alien turn dad cat fatal canal fog";

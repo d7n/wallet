@@ -1,1 +1,1 @@
-var mnemonic = "ritual velvet live butter hunt gun vital limit artist valley stock thank";
+var mnemonic = "consider dutch tenant carry lion bless purpose pumpkin tomato media blouse step";

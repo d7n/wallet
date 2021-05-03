@@ -1,1 +1,1 @@
-var mnemonic = "thing arena bless very joke loyal assist level feed buzz drive tonight";
+var mnemonic = "erosion plug inform nothing muffin apart ceiling detail brush kitchen library first";

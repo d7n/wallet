@@ -1,1 +1,1 @@
-var mnemonic = "actual solve rotate busy toilet drip barely basic into sunset sister ticket";
+var mnemonic = "update rain mule hollow crunch dog maple project news reflect laundry woman";

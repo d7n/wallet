@@ -1,1 +1,1 @@
-var mnemonic = "bulb biology now ability spell duty frost include spirit engage someone pen";
+var mnemonic = "surprise employ gospel unaware predict north sister payment box climb hungry enrich";

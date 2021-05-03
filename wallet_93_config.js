@@ -1,1 +1,1 @@
-var mnemonic = "galaxy stage reflect payment coast wave desk jealous diary tone husband delay";
+var mnemonic = "silver three imitate empower acid measure suggest mountain dawn kitchen keep open";

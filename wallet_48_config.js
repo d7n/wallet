@@ -1,1 +1,1 @@
-var mnemonic = "fly ramp gun fortune retreat draft shell you ecology diesel try joke";
+var mnemonic = "bean call consider system knife length find river shiver phrase soul message";

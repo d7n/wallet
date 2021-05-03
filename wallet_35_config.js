@@ -1,1 +1,1 @@
-var mnemonic = "museum survey cushion top code equal stock around ancient walnut midnight raise";
+var mnemonic = "athlete powder seven property hollow urge road snap term fit unaware connect";

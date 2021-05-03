@@ -1,1 +1,1 @@
-var mnemonic = "other unit wise artefact exhaust type rose spin uphold situate amount nominee";
+var mnemonic = "unhappy dismiss uncle raise index gloom palace tower air joke auto pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "link umbrella trap solid sand minimum evil lift tiger annual glare under";
+var mnemonic = "diagram raccoon mechanic ceiling virtual that legal saddle panic plug aware whisper";

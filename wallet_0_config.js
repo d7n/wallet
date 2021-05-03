@@ -1,1 +1,1 @@
-var mnemonic = "next pig elevator fossil what tube mosquito icon trend note grocery such";
+var mnemonic = "surge index soda hole man west angry patrol piece bundle roof lawsuit";

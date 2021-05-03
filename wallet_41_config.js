@@ -1,1 +1,1 @@
-var mnemonic = "clean scout rely virus tomato palace mixture segment olympic case govern layer";
+var mnemonic = "drift minimum insect draft tray horse runway jelly grid waste bulb wolf";

@@ -1,1 +1,1 @@
-var mnemonic = "still catalog ramp light lumber earth rug gadget receive recall cream range";
+var mnemonic = "warfare shiver universe month abuse congress must invite useful view brick scorpion";

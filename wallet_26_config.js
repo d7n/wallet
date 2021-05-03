@@ -1,1 +1,1 @@
-var mnemonic = "domain protect visit tragic bicycle exclude poverty cloud fix open afford police";
+var mnemonic = "exist bag rhythm round captain hello like tired animal silent play coach";

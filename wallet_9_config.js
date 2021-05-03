@@ -1,1 +1,1 @@
-var mnemonic = "great change dumb express priority lawsuit target spare annual found solar undo";
+var mnemonic = "cherry rent iron help sell jacket argue glow crucial bleak rebuild enroll";

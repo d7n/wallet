@@ -1,1 +1,1 @@
-var mnemonic = "today all coral more inherit engine myself coffee reveal boy train palm";
+var mnemonic = "found moon february muscle develop reform acoustic toast become sail month purchase";

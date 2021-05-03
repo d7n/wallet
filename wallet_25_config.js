@@ -1,1 +1,1 @@
-var mnemonic = "exit hole claw address movie camera lounge exclude modify pudding uncover ketchup";
+var mnemonic = "auction ring luxury govern earn tilt timber rapid expand token kitten city";

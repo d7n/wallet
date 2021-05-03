@@ -1,1 +1,1 @@
-var mnemonic = "toe remind hen reject hair vapor ranch board caught junior dance march";
+var mnemonic = "minute hungry soft grunt glad borrow eagle clock fame scatter spatial cause";

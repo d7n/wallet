@@ -1,1 +1,1 @@
-var mnemonic = "matrix confirm reason pact town oppose knee exhaust route wear blur awful";
+var mnemonic = "brass intact crush amateur typical invest version live husband nominee invite woman";

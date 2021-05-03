@@ -1,1 +1,1 @@
-var mnemonic = "danger pyramid kick wing buzz shiver weasel capital involve trip glue they";
+var mnemonic = "vacuum test wheat true mammal elegant mammal essence welcome initial region begin";

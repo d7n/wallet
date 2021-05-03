@@ -1,1 +1,1 @@
-var mnemonic = "pluck verify mirror tribe actor sad action tornado youth balcony twin awake";
+var mnemonic = "original arrange oxygen ask unique hurt coil hobby plunge cry old ridge";

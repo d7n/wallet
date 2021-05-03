@@ -1,1 +1,1 @@
-var mnemonic = "crowd example lift six club wood hero often add tourist hard expose";
+var mnemonic = "nephew baby also noodle volcano sausage cabbage spend utility raise never clown";

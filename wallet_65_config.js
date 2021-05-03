@@ -1,1 +1,1 @@
-var mnemonic = "excess elite inflict laugh valley response hurt mercy trouble bulb jelly sword";
+var mnemonic = "ridge table knock gauge used protect erupt metal pen midnight sweet stomach";

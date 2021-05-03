@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit deny wash denial shaft prefer lemon earth great never assume umbrella";
+var mnemonic = "disorder nuclear breeze tree unknown fame wear health few giant brother forward";

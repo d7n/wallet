@@ -1,1 +1,1 @@
-var mnemonic = "priority mercy anxiety wrist blush enable fruit food emerge employ chicken brisk";
+var mnemonic = "drama pretty extra swarm skate include wild alter snack cement amateur upgrade";

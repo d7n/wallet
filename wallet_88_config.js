@@ -1,1 +1,1 @@
-var mnemonic = "museum basic step move either cash say dirt goose jelly dial magnet";
+var mnemonic = "absorb cube wish ramp pigeon soap oblige there spot expose devote dentist";

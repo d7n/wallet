@@ -1,1 +1,1 @@
-var mnemonic = "north notice type misery genuine kitchen shoe impact month high inner can";
+var mnemonic = "journey grit jazz truck genre prevent conduct tired tennis front run pulse";

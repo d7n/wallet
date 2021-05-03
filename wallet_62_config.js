@@ -1,1 +1,1 @@
-var mnemonic = "nice february clap letter master segment traffic law police bamboo raise absorb";
+var mnemonic = "cactus flame fork decline umbrella marble verb artist lend gorilla useless beach";

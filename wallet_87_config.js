@@ -1,1 +1,1 @@
-var mnemonic = "bid all pupil shoot cabbage source define negative twenty sort opinion raven";
+var mnemonic = "electric mom now evolve mad parrot behind hospital junk tool balcony alien";

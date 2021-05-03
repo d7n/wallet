@@ -1,1 +1,1 @@
-var mnemonic = "wave sister future treat rare village forward stone leisure judge drill orient";
+var mnemonic = "cute payment bridge music endless grocery symptom spot amateur please must joke";

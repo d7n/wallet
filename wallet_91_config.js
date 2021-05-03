@@ -1,1 +1,1 @@
-var mnemonic = "proud fit puzzle veteran craft lyrics brand stem crisp banana alien consider";
+var mnemonic = "decorate math bomb rail there unknown reunion north crystal mosquito fame chair";

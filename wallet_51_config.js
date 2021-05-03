@@ -1,1 +1,1 @@
-var mnemonic = "fancy any arch such ridge civil coach write remind broken fiscal latin";
+var mnemonic = "river jazz march health air minute royal coast gravity couch model travel";

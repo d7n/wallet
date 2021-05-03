@@ -1,1 +1,1 @@
-var mnemonic = "either elevator gun hair item scatter tiny depend brain own capital quit";
+var mnemonic = "chef sting release naive wife nest life bunker domain degree wear funny";

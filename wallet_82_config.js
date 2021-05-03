@@ -1,1 +1,1 @@
-var mnemonic = "luggage icon about define kite rally fire grief immense story bottom mention";
+var mnemonic = "twenty trip brief edit velvet resemble measure diamond acid accuse potato inherit";

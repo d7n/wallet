@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon world library garment eight fabric matrix olympic deer chat drift ring";
+var mnemonic = "deposit private boost cube solve pluck pony sausage switch online blade already";

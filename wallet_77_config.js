@@ -1,1 +1,1 @@
-var mnemonic = "rude sun differ fuel artefact promote chaos cage among fever lend rigid";
+var mnemonic = "provide couple expect town develop truth paper few topic sad tape tube";

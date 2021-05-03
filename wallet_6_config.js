@@ -1,1 +1,1 @@
-var mnemonic = "false unfair noble hazard clean please become endless salon spare nurse soap";
+var mnemonic = "easily orphan dish change refuse picture body replace victory mistake night flash";

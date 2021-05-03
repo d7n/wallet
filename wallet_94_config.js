@@ -1,1 +1,1 @@
-var mnemonic = "clerk autumn cute tragic multiply such once property record guard inflict proof";
+var mnemonic = "drama receive among cannon mutual donkey merry arrest jaguar mango boss exchange";

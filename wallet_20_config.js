@@ -1,1 +1,1 @@
-var mnemonic = "inch april discover material ship gap parent quit slam harvest drop mountain";
+var mnemonic = "prevent hair slender evil ocean protect toast soul tape furnace never regret";

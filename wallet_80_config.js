@@ -1,1 +1,1 @@
-var mnemonic = "source candy visit dinner cinnamon seek coach quiz leisure veteran jaguar vacuum";
+var mnemonic = "story equip test twin canyon people episode foot glove knife scrub fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant year chimney door canoe movie chest unlock fade awful ocean chunk";
+var mnemonic = "crazy quiz bachelor position lunar daughter ice industry floor route hole blind";

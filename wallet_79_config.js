@@ -1,1 +1,1 @@
-var mnemonic = "future chat economy walnut duty airport pledge grape gold erase divide blush";
+var mnemonic = "manual pact diet brisk juice famous vessel slot noise ill ability blame";

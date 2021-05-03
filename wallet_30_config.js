@@ -1,1 +1,1 @@
-var mnemonic = "embody save exchange skin coral laugh husband oil oil moon today bar";
+var mnemonic = "trouble embody candy ethics pond phone cry vehicle tilt shield invest visual";

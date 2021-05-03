@@ -1,1 +1,1 @@
-var mnemonic = "run unable tissue indicate put please erode wish afford move category primary";
+var mnemonic = "pistol crazy salmon goose owner uncover polar energy balcony gasp patch deliver";

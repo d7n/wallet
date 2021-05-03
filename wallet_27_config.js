@@ -1,1 +1,1 @@
-var mnemonic = "corn magic cake salmon ask awkward blood clip cinnamon mix ask drip";
+var mnemonic = "display snow jump original pink grow axis verify appear method series hero";

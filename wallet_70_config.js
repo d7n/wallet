@@ -1,1 +1,1 @@
-var mnemonic = "chair mind ribbon huge bag cradle gentle curve apology drama valley broccoli";
+var mnemonic = "modify meadow glow virus exhibit account baby exit dirt canyon near impulse";

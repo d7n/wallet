@@ -1,1 +1,1 @@
-var mnemonic = "absent metal silent ignore genius select boy decade pistol nature six nose";
+var mnemonic = "muscle diary firm lonely shoe fire error account ride win eagle trade";

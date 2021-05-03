@@ -1,1 +1,1 @@
-var mnemonic = "put voyage hold broom humor fruit bitter ancient trick easily blur confirm";
+var mnemonic = "near hurry logic advance jewel lecture ancient local betray suit angry wrist";

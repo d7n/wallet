@@ -1,1 +1,1 @@
-var mnemonic = "rural throw immense giant attitude kingdom twist alpha denial neither old boring";
+var mnemonic = "spin also giraffe else trend leg simple junk tortoise sunset home else";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch spare crater public credit exact ghost jaguar entire web vapor grocery";
+var mnemonic = "hire unit dismiss leave copper join alley ginger method gas blur rate";

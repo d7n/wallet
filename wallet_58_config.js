@@ -1,1 +1,1 @@
-var mnemonic = "flavor prefer horn energy spend wage unusual aim call jazz enemy good";
+var mnemonic = "marriage sadness law nothing select fan party mail wave island upon nest";

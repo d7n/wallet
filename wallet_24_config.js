@@ -1,1 +1,1 @@
-var mnemonic = "learn couch floor earn stairs protect visa grain inside wheat angry vacuum";
+var mnemonic = "piano juice rent motor blade material share jar myth dentist govern roast";

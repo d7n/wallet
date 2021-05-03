@@ -1,1 +1,1 @@
-var mnemonic = "proud autumn measure diesel group ability cotton step ask scale follow frozen";
+var mnemonic = "model evil tumble inside bar diagram wealth cable wood penalty session empty";

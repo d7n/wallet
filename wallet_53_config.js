@@ -1,1 +1,1 @@
-var mnemonic = "charge scan clog gym identify begin curve guilt parade dune boat eye";
+var mnemonic = "creek fossil trash frozen trouble million believe park senior mixture path lesson";

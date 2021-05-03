@@ -1,1 +1,1 @@
-var mnemonic = "voice neglect caution zebra buzz sense scene giant balcony distance fluid desert";
+var mnemonic = "army general immune motion village garlic snake web expand pizza salon globe";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding tired kit frown retreat work impose accident gift honey eternal exercise";
+var mnemonic = "silk asset narrow behave original adapt crowd embrace blade trim siren silk";

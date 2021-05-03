@@ -1,1 +1,1 @@
-var mnemonic = "garden eternal please arrow require drama miracle divide drill staff grace sibling";
+var mnemonic = "zone pottery amount oval shoot bless immune pact turn song kidney hurry";

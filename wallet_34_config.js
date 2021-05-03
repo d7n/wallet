@@ -1,1 +1,1 @@
-var mnemonic = "crunch wonder kick artefact soul comfort romance find right dirt kit convince";
+var mnemonic = "flat human wall beach cloud cheap end rebel castle side timber shrug";

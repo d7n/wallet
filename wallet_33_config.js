@@ -1,1 +1,1 @@
-var mnemonic = "this exhibit ship sign lady keen increase stadium school aim fiscal myth";
+var mnemonic = "pencil taxi isolate expose aim buffalo invest deliver spoon ahead twelve bird";

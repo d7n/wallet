@@ -1,1 +1,1 @@
-var mnemonic = "exact dwarf funny doctor length betray truly mass clerk rich save search";
+var mnemonic = "burden liquid icon swing wrong gas install purse allow goddess success gospel";

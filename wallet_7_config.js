@@ -1,1 +1,1 @@
-var mnemonic = "begin record add side drama point student pizza august develop asthma common";
+var mnemonic = "suit egg truth choice giraffe fence place focus deposit lens mother either";

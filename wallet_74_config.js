@@ -1,1 +1,1 @@
-var mnemonic = "favorite blossom strong arctic slam uniform weasel rude kidney photo access gloom";
+var mnemonic = "dream pepper job scale saddle twelve lesson behave latin skull cost lounge";

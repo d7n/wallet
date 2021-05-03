@@ -1,1 +1,1 @@
-var mnemonic = "industry sing hungry mouse unit rack bottom style female private defense output";
+var mnemonic = "rival harvest catalog cherry arch kidney typical unaware tool spread loud rally";

@@ -1,1 +1,1 @@
-var mnemonic = "tail federal giant track wide robust hunt mesh stool attract grid swift";
+var mnemonic = "file february search bamboo auction state chicken define during funny label spare";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple educate undo turtle rib marriage female culture mango roof word crucial";
+var mnemonic = "smile warfare tired body fee paddle swarm lock find tip little day";

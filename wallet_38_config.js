@@ -1,1 +1,1 @@
-var mnemonic = "become toddler ship crystal ahead resist soft border dynamic improve winner silly";
+var mnemonic = "estate quality buffalo voyage hat uniform multiply okay suspect bread blur sweet";

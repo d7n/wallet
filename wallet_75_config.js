@@ -1,1 +1,1 @@
-var mnemonic = "prepare slow program under envelope rate silk day mixed submit special rude";
+var mnemonic = "group fog you tennis vacuum detect embrace weird brand move social nerve";

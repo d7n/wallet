@@ -1,1 +1,1 @@
-var mnemonic = "circle hurry guide desk dolphin fabric barely enter unfold beyond impose soul";
+var mnemonic = "hub initial correct diagram pulp usual spread nothing crawl bracket steak melody";

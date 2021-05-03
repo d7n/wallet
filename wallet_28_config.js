@@ -1,1 +1,1 @@
-var mnemonic = "family affair awake green ticket hill company grief give meat damage word";
+var mnemonic = "spray live edit hair exclude side learn spray situate shoulder venture peanut";

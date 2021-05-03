@@ -1,1 +1,1 @@
-var mnemonic = "business crucial input soccer cradle call biology denial hood voice chronic fun";
+var mnemonic = "erode slot shoulder manage notable tube image royal legal daring impose average";

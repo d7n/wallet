@@ -1,1 +1,1 @@
-var mnemonic = "later spider super dad wrong seminar bar staff rare fat similar embody";
+var mnemonic = "width pelican scout noodle day ecology clay liberty guide amazing october dish";

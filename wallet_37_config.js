@@ -1,1 +1,1 @@
-var mnemonic = "quit apology present dad drop obscure unique slot split main rebuild creek";
+var mnemonic = "brain rug attitude energy acid notable net gas sauce sister upset abuse";

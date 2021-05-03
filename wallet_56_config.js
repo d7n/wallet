@@ -1,1 +1,1 @@
-var mnemonic = "abuse length ancient rate acid salute sure riot onion employ maid pair";
+var mnemonic = "powder stay front normal wall much frog quick mushroom salt cart unusual";

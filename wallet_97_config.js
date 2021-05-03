@@ -1,1 +1,1 @@
-var mnemonic = "fiscal tiger rose mind whale enhance boost bonus organ surge stomach dial";
+var mnemonic = "trumpet rocket liar virus tool afraid imitate dice cry parent trip memory";

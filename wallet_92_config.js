@@ -1,1 +1,1 @@
-var mnemonic = "dry certain assume cattle prize farm garage energy illness excess casino mango";
+var mnemonic = "minimum media empower disagree anchor language truth keep path during mouse staff";

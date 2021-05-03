@@ -1,1 +1,1 @@
-var mnemonic = "sight bean away weapon job hour copy pitch consider since know poet";
+var mnemonic = "girl blade captain broccoli quantum asthma slice fantasy shop omit catalog knife";

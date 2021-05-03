@@ -1,1 +1,1 @@
-var mnemonic = "unveil surface area manage fragile pigeon table raccoon evolve cause have toilet";
+var mnemonic = "vacant grief vacuum attend nose mystery annual frozen educate roof crash verify";
