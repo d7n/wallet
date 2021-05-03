@@ -1,1 +1,1 @@
-var mnemonic = "miss pool kit runway boil mechanic change october confirm phrase crawl fantasy";
+var mnemonic = "sick culture talk able drama cheap fine salon half power lawn change";

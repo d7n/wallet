@@ -1,1 +1,1 @@
-var mnemonic = "abuse ten view margin initial true insect truly balance use eyebrow render";
+var mnemonic = "marble chimney brief parade forum stumble gift name satisfy trash then pink";

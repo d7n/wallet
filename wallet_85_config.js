@@ -1,1 +1,1 @@
-var mnemonic = "earn labor brown scheme force holiday focus typical west modify much exotic";
+var mnemonic = "garlic habit across master utility wrist gravity huge shed message buffalo describe";

@@ -1,1 +1,1 @@
-var mnemonic = "pluck baby pottery text myself inform tank orbit friend fashion destroy loop";
+var mnemonic = "teach slam narrow multiply choose tree great deposit result rebel recycle bleak";

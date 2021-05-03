@@ -1,1 +1,1 @@
-var mnemonic = "require rib viable citizen moon arrest waste anger license summer undo next";
+var mnemonic = "achieve argue drink already keen elder pilot join turtle news wheel over";

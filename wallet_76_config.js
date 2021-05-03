@@ -1,1 +1,1 @@
-var mnemonic = "envelope oxygen typical usage aunt act walnut grocery permit guilt echo banana";
+var mnemonic = "birth wheat swim nice roast year unfold shoulder paddle slab athlete flag";

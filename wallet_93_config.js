@@ -1,1 +1,1 @@
-var mnemonic = "volcano logic fiscal must dirt digital parrot spin tree situate profit salon";
+var mnemonic = "place bunker poverty marriage want drip auto aisle federal erode fence this";

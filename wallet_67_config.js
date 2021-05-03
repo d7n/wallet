@@ -1,1 +1,1 @@
-var mnemonic = "around night flush cloth audit country security van crater capable taxi cram";
+var mnemonic = "spy abuse balance muscle more neither rocket sustain combine penalty shrimp excite";

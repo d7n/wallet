@@ -1,1 +1,1 @@
-var mnemonic = "liar material eight electric future junior wife melody flavor sketch culture friend";
+var mnemonic = "velvet above nice trumpet merit oyster fossil input trim tank fire normal";

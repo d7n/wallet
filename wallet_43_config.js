@@ -1,1 +1,1 @@
-var mnemonic = "diamond surround few era awesome strong adult expire uphold stay poverty choose";
+var mnemonic = "hidden tail middle uphold series easy green owner dawn duty danger lonely";

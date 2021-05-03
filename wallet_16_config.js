@@ -1,1 +1,1 @@
-var mnemonic = "drink school scheme raw census pledge deposit stairs kind alpha add baby";
+var mnemonic = "hockey web world sunset amazing gas swift pumpkin shine flush security eager";

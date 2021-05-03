@@ -1,1 +1,1 @@
-var mnemonic = "spider exile grocery target bulk behave offer master blue marriage flip judge";
+var mnemonic = "jaguar erupt silly scatter brand rose ostrich flame six violin drum parade";

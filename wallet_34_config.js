@@ -1,1 +1,1 @@
-var mnemonic = "drop slim trim jelly discover wish much slot street million spend festival";
+var mnemonic = "amateur yellow impact weasel festival report garlic burst control spy top story";

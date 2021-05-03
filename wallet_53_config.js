@@ -1,1 +1,1 @@
-var mnemonic = "search sheriff permit festival tent lake lens spell before jacket issue cost";
+var mnemonic = "obscure menu culture resemble suspect prepare wood image dust filter famous fiscal";

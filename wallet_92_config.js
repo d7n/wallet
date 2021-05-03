@@ -1,1 +1,1 @@
-var mnemonic = "dog lounge antenna grace actress day smooth midnight mushroom swear mixture hint";
+var mnemonic = "soccer pluck return deer hazard scout fiber faith tide sing plate column";

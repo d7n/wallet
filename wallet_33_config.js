@@ -1,1 +1,1 @@
-var mnemonic = "caution butter column drink walk muffin wink senior obtain fossil gap funny";
+var mnemonic = "fire pink valid gather hire omit easy sock melody staff manual girl";

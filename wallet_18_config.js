@@ -1,1 +1,1 @@
-var mnemonic = "want spoil emerge edit success flip surface first floor tilt hat unique";
+var mnemonic = "dice bundle return piece trip load train coach evolve want sick ghost";

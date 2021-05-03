@@ -1,1 +1,1 @@
-var mnemonic = "citizen chest dial expect breeze giant captain insane wife inner bleak flash";
+var mnemonic = "record curve grass lounge miracle heavy enough just together amateur problem noble";

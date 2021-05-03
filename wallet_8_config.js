@@ -1,1 +1,1 @@
-var mnemonic = "mercy else badge affair bridge cheese pause cannon organ library shed matter";
+var mnemonic = "drink hip goose lyrics insect attract dirt they fish rude salmon claw";

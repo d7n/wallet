@@ -1,1 +1,1 @@
-var mnemonic = "number uphold river best illness throw public hockey dignity great sport goose";
+var mnemonic = "win spin convince wish pottery warrior unknown eternal horn lens antenna sort";

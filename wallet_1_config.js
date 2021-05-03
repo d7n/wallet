@@ -1,1 +1,1 @@
-var mnemonic = "milk shuffle april pill hire country woman river lion winner nasty please";
+var mnemonic = "police decide coyote innocent post imitate enroll vault right flavor clown glue";

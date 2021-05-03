@@ -1,1 +1,1 @@
-var mnemonic = "baby journey finish column aspect upon enrich bomb capital bind dove artwork";
+var mnemonic = "tumble frost victory cabbage brain dentist thought lesson together battle foster renew";

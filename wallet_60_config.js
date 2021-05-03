@@ -1,1 +1,1 @@
-var mnemonic = "spring dash once toward melody dawn early equip elder country mercy anxiety";
+var mnemonic = "soap virtual two disease about jacket alter enrich habit suit toddler ladder";

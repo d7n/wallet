@@ -1,1 +1,1 @@
-var mnemonic = "gate survey slow cute old private canal debris volcano pulp security rifle";
+var mnemonic = "embody endorse permit shield absurd unhappy nose slide assist credit few syrup";

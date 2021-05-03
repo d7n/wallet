@@ -1,1 +1,1 @@
-var mnemonic = "equip blue oil tunnel patient trade oak morning turtle maximum control green";
+var mnemonic = "antenna sea defense siren chronic eye auction safe happy tattoo bridge leg";

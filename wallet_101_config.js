@@ -1,1 +1,1 @@
-var mnemonic = "runway addict fade south oil kite universe danger school biology awake easily";
+var mnemonic = "describe antenna build practice banner hurry usage wall mean genre limit floor";

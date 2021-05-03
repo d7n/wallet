@@ -1,1 +1,1 @@
-var mnemonic = "boy badge chalk visa valley chat aware loud velvet aware solution toilet";
+var mnemonic = "road crouch same excuse wife degree twelve sail type phone rack pull";

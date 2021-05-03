@@ -1,1 +1,1 @@
-var mnemonic = "snap undo resist wedding begin chaos expire coin ski edge brisk gallery";
+var mnemonic = "cream off shoot eagle noise bullet soon tail laptop sound narrow exercise";

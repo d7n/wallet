@@ -1,1 +1,1 @@
-var mnemonic = "adjust sort gift distance almost kingdom step topic foster grow recall slab";
+var mnemonic = "pudding scare forward poverty sand arch subject crater ivory flush fiber across";

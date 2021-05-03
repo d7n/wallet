@@ -1,1 +1,1 @@
-var mnemonic = "because minor ocean pigeon leaf garlic army prefer morning grocery carry verb";
+var mnemonic = "victory garlic kitten achieve submit loyal destroy brand modify produce better exist";

@@ -1,1 +1,1 @@
-var mnemonic = "venue park citizen impose hedgehog ghost exile there bunker toss pole embrace";
+var mnemonic = "correct right gaze anxiety oval velvet gloom core limb figure carpet output";

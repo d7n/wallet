@@ -1,1 +1,1 @@
-var mnemonic = "elder source apology believe barrel pave fiber mistake sea meadow pizza female";
+var mnemonic = "helmet latin buddy then become december version island mountain bounce dove blade";

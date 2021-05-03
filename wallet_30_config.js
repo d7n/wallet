@@ -1,1 +1,1 @@
-var mnemonic = "thumb wagon appear syrup rival poem mercy divert strong budget assist embark";
+var mnemonic = "awesome night cat path speed legal route iron defy globe uncover finish";

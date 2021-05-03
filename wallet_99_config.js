@@ -1,1 +1,1 @@
-var mnemonic = "asset life marble eager useful fit fault custom escape know convince forward";
+var mnemonic = "time elite grit pig gate abstract robot real match alter retreat gasp";

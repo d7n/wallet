@@ -1,1 +1,1 @@
-var mnemonic = "bronze exchange mercy demand bridge render sort feature attack habit stuff faint";
+var mnemonic = "salon shed empty trade nut inmate wall small token lecture scan crisp";

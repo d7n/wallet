@@ -1,1 +1,1 @@
-var mnemonic = "foot aunt when rough mail swarm motor advice jazz trust trick doll";
+var mnemonic = "tongue return remind tattoo hat enter claw illegal engine badge tag since";

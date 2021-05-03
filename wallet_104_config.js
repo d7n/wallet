@@ -1,1 +1,1 @@
-var mnemonic = "order raccoon modify barrel wrong suffer home initial ensure rigid weapon office";
+var mnemonic = "crucial rubber hover wish fossil purse acid recycle dad sock chimney water";

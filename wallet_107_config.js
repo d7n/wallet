@@ -1,1 +1,1 @@
-var mnemonic = "what cram own easy useless flee sea flavor decrease unhappy shoe cousin";
+var mnemonic = "inch taste video fatigue main card train expose expect original alcohol loan";

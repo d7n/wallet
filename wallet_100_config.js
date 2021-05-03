@@ -1,1 +1,1 @@
-var mnemonic = "party dignity suit expose anger merge ship cup elegant custom achieve crime";
+var mnemonic = "fresh tool jelly finish tackle coffee across whisper audit sick diagram swim";

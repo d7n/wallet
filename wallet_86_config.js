@@ -1,1 +1,1 @@
-var mnemonic = "nothing action dilemma hard jazz twenty border foster doctor observe snack oil";
+var mnemonic = "impose attend father fan blossom shuffle cake either lamp rib ecology ride";

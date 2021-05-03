@@ -1,1 +1,1 @@
-var mnemonic = "comfort soup chaos dune alley mistake deposit puzzle staff cactus crowd father";
+var mnemonic = "fuel liar often noise similar acid famous swamp soon wash glow elephant";

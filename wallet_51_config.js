@@ -1,1 +1,1 @@
-var mnemonic = "rhythm bullet train favorite huge comic piano notable pulse easy receive thumb";
+var mnemonic = "figure eagle wolf grab churn december myself elite tooth chuckle hospital shed";

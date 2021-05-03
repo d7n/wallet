@@ -1,1 +1,1 @@
-var mnemonic = "crisp crowd noise guilt crazy broom dizzy bus video slush concert family";
+var mnemonic = "trouble you rude swarm carbon deputy mutual love degree mixture junk open";

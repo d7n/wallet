@@ -1,1 +1,1 @@
-var mnemonic = "bridge ankle scheme else guard army bean soda quarter hood crunch galaxy";
+var mnemonic = "service expose outside mule midnight forward orient blame town seek cherry include";

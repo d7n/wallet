@@ -1,1 +1,1 @@
-var mnemonic = "donate cash split picture awesome poverty matter now fly shift cause eight";
+var mnemonic = "fade crunch brass hire solution merry whisper laugh slide calm win tackle";

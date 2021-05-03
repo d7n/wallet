@@ -1,1 +1,1 @@
-var mnemonic = "lounge below mail cool impulse fuel grab resist junior pool click desk";
+var mnemonic = "rival picnic hurdle usual wish shoe beyond pumpkin nest magnet rhythm useful";

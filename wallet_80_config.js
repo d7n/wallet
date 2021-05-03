@@ -1,1 +1,1 @@
-var mnemonic = "sausage key belt august apology tragic real wood feed comfort ahead breeze";
+var mnemonic = "spatial define already laugh often trade enlist since middle lesson welcome mountain";

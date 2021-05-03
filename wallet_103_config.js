@@ -1,1 +1,1 @@
-var mnemonic = "list dinosaur magnet clay problem air stock drop demand pledge castle people";
+var mnemonic = "caught interest table lazy swim wage father thrive minute dizzy catch kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "once collect broom sample image arrest usage drum have shine park drive";
+var mnemonic = "million person gentle cycle motion aspect license seek poem until silly rookie";

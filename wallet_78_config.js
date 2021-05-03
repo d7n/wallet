@@ -1,1 +1,1 @@
-var mnemonic = "cable fire field rack piece field visa able jar magic wild glass";
+var mnemonic = "suit story shift exercise shuffle utility rug duck obtain unusual crash caught";

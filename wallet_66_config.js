@@ -1,1 +1,1 @@
-var mnemonic = "world error science brush middle any rare accident rely visual exhaust seed";
+var mnemonic = "actor belt absorb fantasy wall derive magic palm before small mushroom heavy";

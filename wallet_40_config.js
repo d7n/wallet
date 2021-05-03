@@ -1,1 +1,1 @@
-var mnemonic = "harvest mosquito noise consider thing acid claw gorilla find dumb episode budget";
+var mnemonic = "kick witness advice wide divide chase into arena museum nerve mule public";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely blood artist swift letter issue wet enact symptom visual pottery furnace";
+var mnemonic = "wrong title radio school unfair vast warrior slight night claw chuckle review";

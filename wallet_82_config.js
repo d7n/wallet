@@ -1,1 +1,1 @@
-var mnemonic = "point crater ability gun exhaust poverty favorite fossil tag rigid must tone";
+var mnemonic = "wood cradle quit kite describe hurt vacuum portion crash sound solar transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "bottom magnet caution mistake rabbit topic state whip dune surface coin fat";
+var mnemonic = "hunt today text sad afford future creek tray retreat lyrics car hamster";

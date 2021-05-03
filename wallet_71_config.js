@@ -1,1 +1,1 @@
-var mnemonic = "kit verb electric air hub cute shock flag security van vivid dentist";
+var mnemonic = "knife heart atom faith jump leopard cement dinner flag taste curious talk";

@@ -1,1 +1,1 @@
-var mnemonic = "fog puzzle cost trip elevator purpose clean length victory hope pluck toy";
+var mnemonic = "weasel twice brief fork vapor bus filter loyal coin drastic logic drastic";

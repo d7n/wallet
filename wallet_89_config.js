@@ -1,1 +1,1 @@
-var mnemonic = "reject assist powder master away lesson dutch install run gesture depth afraid";
+var mnemonic = "fabric city more jaguar arrive between hire vapor glare sadness mom between";

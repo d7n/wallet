@@ -1,1 +1,1 @@
-var mnemonic = "rose fit almost day noise inject magnet fire garage initial gown unaware";
+var mnemonic = "inherit pistol blouse custom hammer pet bus boy similar response beauty what";

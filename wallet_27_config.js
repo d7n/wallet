@@ -1,1 +1,1 @@
-var mnemonic = "habit zero team mule veteran frequent myself fence deputy shuffle siren stumble";
+var mnemonic = "cycle dune mercy dentist uncle inspire fire palace taste deliver jacket swarm";

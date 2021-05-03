@@ -1,1 +1,1 @@
-var mnemonic = "weapon vote seven shift east bottom axis axis suspect illness brush sail";
+var mnemonic = "cart insect ranch panel derive recall sight impulse actor fork until one";

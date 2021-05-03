@@ -1,1 +1,1 @@
-var mnemonic = "define nature nice walnut choose drop enjoy faint infant exchange chapter useless";
+var mnemonic = "copper elephant code crew coast cinnamon target usage all brave horse grab";

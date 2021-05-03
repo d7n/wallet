@@ -1,1 +1,1 @@
-var mnemonic = "coil result confirm attend breeze wrong lock chase patrol enforce toilet purity";
+var mnemonic = "margin purse style affair document diet salon patch into install card dove";

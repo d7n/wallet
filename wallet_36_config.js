@@ -1,1 +1,1 @@
-var mnemonic = "explain fatigue lizard reflect initial onion appear drastic scale safe exotic develop";
+var mnemonic = "suffer ceiling taste reward act dog opera fine spread random planet foam";

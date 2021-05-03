@@ -1,1 +1,1 @@
-var mnemonic = "volcano naive luxury kiwi slush object electric want burger century coin educate";
+var mnemonic = "kitten eight crush pull broken secret dial parent boy drama rookie giant";

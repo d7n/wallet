@@ -1,1 +1,1 @@
-var mnemonic = "bunker identify alter bone annual hood brisk true famous crane satisfy thank";
+var mnemonic = "secret viable camera blue host innocent advance broom lounge hedgehog right toss";

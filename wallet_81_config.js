@@ -1,1 +1,1 @@
-var mnemonic = "odor ginger fatal memory satoshi label candy frog rhythm major clay honey";
+var mnemonic = "praise shift dilemma permit common record mouse divorce prison girl napkin hero";

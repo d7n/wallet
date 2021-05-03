@@ -1,1 +1,1 @@
-var mnemonic = "figure salon payment laundry prison such task boss response nurse amount obtain";
+var mnemonic = "little lyrics ring various summer cage obvious crater tribe amazing scrub shiver";

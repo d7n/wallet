@@ -1,1 +1,1 @@
-var mnemonic = "trumpet dream debate blast alley betray fine delay car hour author noble";
+var mnemonic = "mountain price sign initial push submit utility basic spawn pupil disorder field";

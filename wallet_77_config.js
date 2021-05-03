@@ -1,1 +1,1 @@
-var mnemonic = "pony manual denial series actress raccoon critic goddess resist bridge canal truck";
+var mnemonic = "miss enlist space razor explain define goose must power vast general army";

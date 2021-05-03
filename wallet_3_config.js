@@ -1,1 +1,1 @@
-var mnemonic = "grunt shaft rebel thunder fluid salon sign island clip water identify width";
+var mnemonic = "degree margin cruise scout spoon market matter girl clay aware rhythm spring";

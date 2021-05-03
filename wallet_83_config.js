@@ -1,1 +1,1 @@
-var mnemonic = "cry layer fiscal spell gain husband soul angry genre scare elite option";
+var mnemonic = "rule change eye long river opinion impulse nation scrub absent toy erupt";

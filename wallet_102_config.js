@@ -1,1 +1,1 @@
-var mnemonic = "prepare priority steel front bargain phrase bench muffin distance inspire flame brick";
+var mnemonic = "into age air pyramid tell tragic glimpse assume apart sword hollow firm";

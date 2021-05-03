@@ -1,1 +1,1 @@
-var mnemonic = "close define chicken price warm boil wire aim useless vacuum oblige pilot";
+var mnemonic = "damp thank rookie kangaroo half dawn valve clog urban dragon fortune abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "grape soul emerge easy ethics remove nice obey edit swamp keen airport";
+var mnemonic = "remind limb song orbit certain fun march eye easily lottery common leader";

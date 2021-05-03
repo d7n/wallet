@@ -1,1 +1,1 @@
-var mnemonic = "clump blossom waste scale toddler enemy ripple venue render actual depend imitate";
+var mnemonic = "tonight clutch ignore track dignity stand moment flower weasel jealous day isolate";

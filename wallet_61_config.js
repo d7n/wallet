@@ -1,1 +1,1 @@
-var mnemonic = "jewel because joy sorry buyer evidence ethics glove trial title destroy flavor";
+var mnemonic = "solar pet upgrade text dutch mother dust lounge attitude ball undo myth";

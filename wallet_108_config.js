@@ -1,1 +1,1 @@
-var mnemonic = "ugly mimic manual travel vast ignore ripple same post song simple confirm";
+var mnemonic = "hybrid stadium twist garden suspect custom oyster earth desk buffalo figure opinion";

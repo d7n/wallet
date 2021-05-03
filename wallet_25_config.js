@@ -1,1 +1,1 @@
-var mnemonic = "hold admit use expand brother frog horror host gate rather summer theme";
+var mnemonic = "venture clay aware uncover brisk worth unusual shallow alien mammal insect dinosaur";

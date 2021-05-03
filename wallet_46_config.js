@@ -1,1 +1,1 @@
-var mnemonic = "stone marine surprise total only castle essay elbow razor lecture play garden";
+var mnemonic = "position right flash snap quit below unknown atom limit episode comic attract";

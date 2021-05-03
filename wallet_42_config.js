@@ -1,1 +1,1 @@
-var mnemonic = "own luggage second pact happy icon harbor wave agree ecology smoke noble";
+var mnemonic = "gap movie water rail ill decide trip track design jelly loop aunt";

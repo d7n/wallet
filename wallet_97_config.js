@@ -1,1 +1,1 @@
-var mnemonic = "dance trigger since shrug fury minor eagle moment salon mistake moral aerobic";
+var mnemonic = "apple hobby stuff stove rough delay leader father unhappy input tennis rice";

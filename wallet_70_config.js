@@ -1,1 +1,1 @@
-var mnemonic = "sleep shock mail cart pony vibrant super inhale improve monitor basket behave";
+var mnemonic = "tonight sudden amused bronze portion chaos until dad found popular receive alley";

@@ -1,1 +1,1 @@
-var mnemonic = "primary afraid nominee caution insect vendor caught card arrange eye humble flip";
+var mnemonic = "lottery boat midnight harbor lunch cart fringe movie scene loop spice round";

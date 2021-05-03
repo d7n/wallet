@@ -1,1 +1,1 @@
-var mnemonic = "tiny machine innocent salad news morning vote mix february fresh claim town";
+var mnemonic = "almost flower dad now filter gas arrest panic swing balcony hill anxiety";

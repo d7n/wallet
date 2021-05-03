@@ -1,1 +1,1 @@
-var mnemonic = "pet reform wide museum winter merit provide boost woman catch arch keen";
+var mnemonic = "core under riot south uncover exist tonight buzz pelican hamster young merge";

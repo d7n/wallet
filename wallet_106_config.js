@@ -1,1 +1,1 @@
-var mnemonic = "click atom about lake thought else few bag robot best unknown camera";
+var mnemonic = "tunnel dry next flat merge uncle zone when loyal surge midnight glance";

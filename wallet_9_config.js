@@ -1,1 +1,1 @@
-var mnemonic = "fly focus token tiny post fun embrace oil lamp gym shove horror";
+var mnemonic = "pill churn life pride gap interest motor title inquiry cloud warrior august";

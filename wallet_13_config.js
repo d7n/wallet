@@ -1,1 +1,1 @@
-var mnemonic = "fluid cook discover early spend security truck jealous jump goat document swallow";
+var mnemonic = "post multiply amateur enhance unlock exclude ripple sugar enroll lesson capable reopen";

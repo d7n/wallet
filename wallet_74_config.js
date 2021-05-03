@@ -1,1 +1,1 @@
-var mnemonic = "joke moment culture address arrive attitude result wrong extend any roof gain";
+var mnemonic = "retreat arrest fix heavy supreme huge chaos banana alarm donkey athlete rate";
