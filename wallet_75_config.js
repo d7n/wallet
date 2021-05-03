@@ -1,1 +1,1 @@
-var mnemonic = "column only disease modify raven random excuse laundry fall dutch media town";
+var mnemonic = "disorder truck teach rapid occur resemble scene depend device leopard isolate category";

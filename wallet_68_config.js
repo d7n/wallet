@@ -1,1 +1,1 @@
-var mnemonic = "guide valid grit muffin pitch trophy need body tent fee quarter problem";
+var mnemonic = "wage core alpha home magnet glass frown eagle carry youth guilt grit";

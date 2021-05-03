@@ -1,1 +1,1 @@
-var mnemonic = "drift skull culture transfer destroy fog sugar puzzle burst inside tornado head";
+var mnemonic = "expire license laugh bamboo chaos deal elevator divide bounce lemon gaze offer";

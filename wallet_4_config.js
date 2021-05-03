@@ -1,1 +1,1 @@
-var mnemonic = "double chef repair situate code occur trumpet globe salad wild culture gravity";
+var mnemonic = "nominee fog hover urban arm boat expose collect edit off pride slice";

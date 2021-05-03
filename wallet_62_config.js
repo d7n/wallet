@@ -1,1 +1,1 @@
-var mnemonic = "mouse random doll original sing crane soccer hazard pyramid best coyote spirit";
+var mnemonic = "flash join garden silent bundle garbage brain prosper gravity happy extra price";

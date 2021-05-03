@@ -1,1 +1,1 @@
-var mnemonic = "lady quit stumble angle bench canyon negative toast burger emerge inflict belt";
+var mnemonic = "fall prepare endless balance until napkin bounce fat edit live annual story";

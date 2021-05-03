@@ -1,1 +1,1 @@
-var mnemonic = "title move ocean enforce purity fit clinic alter razor color vibrant badge";
+var mnemonic = "similar venue ghost behind mix waste vintage crime sustain item airport nose";

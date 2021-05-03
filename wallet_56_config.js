@@ -1,1 +1,1 @@
-var mnemonic = "guess salmon end void jungle alley odor clap purchase illness three eager";
+var mnemonic = "industry normal enroll lesson pen accuse rude fee keep impulse loud calm";

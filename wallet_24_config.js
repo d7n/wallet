@@ -1,1 +1,1 @@
-var mnemonic = "enemy wheel ankle begin catalog artefact butter woman peasant grit lizard badge";
+var mnemonic = "harvest circle skin alert emotion inform like catalog vote usual ocean off";

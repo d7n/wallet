@@ -1,1 +1,1 @@
-var mnemonic = "lecture quantum mechanic sound mushroom arrive eight uniform climb draft wife female";
+var mnemonic = "twin steak hour replace ship flat update moon excite impulse impact scare";

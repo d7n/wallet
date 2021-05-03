@@ -1,1 +1,1 @@
-var mnemonic = "service brief valid vicious earth whip hard fresh trip hard noble clarify";
+var mnemonic = "jealous loan unit life museum cabin kingdom tag embrace path exotic turtle";

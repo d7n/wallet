@@ -1,1 +1,1 @@
-var mnemonic = "marble park churn high force vibrant bronze miracle wall strategy view gap";
+var mnemonic = "right ugly base social alien blast narrow dynamic trouble dentist ugly please";

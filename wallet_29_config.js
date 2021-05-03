@@ -1,1 +1,1 @@
-var mnemonic = "replace wrestle ask vacuum margin donkey write about tube next issue mask";
+var mnemonic = "lawsuit virtual shock setup infant spring insect link welcome citizen clean cube";

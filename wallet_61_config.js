@@ -1,1 +1,1 @@
-var mnemonic = "critic invite myth pause fat hotel bacon flag inspire loop fade visual";
+var mnemonic = "obscure giant disorder another supreme base crane must owner muscle true page";

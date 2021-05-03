@@ -1,1 +1,1 @@
-var mnemonic = "exhibit fame promote lizard capital access feature fork chimney need charge bounce";
+var mnemonic = "kingdom physical main wheel pair tip fog caution coach session film another";

@@ -1,1 +1,1 @@
-var mnemonic = "idea bullet hire renew moon margin head creek grass tribe chaos evoke";
+var mnemonic = "vintage casino street web must ancient struggle search square sting language memory";

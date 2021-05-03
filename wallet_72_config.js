@@ -1,1 +1,1 @@
-var mnemonic = "whisper denial enhance pulp police possible winter fuel inhale toy custom knock";
+var mnemonic = "horn photo bless asthma finger truly display review chief shoe festival obvious";

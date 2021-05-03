@@ -1,1 +1,1 @@
-var mnemonic = "oval stable extra state syrup blood core quit price dress wall stem";
+var mnemonic = "country best topic roof cook define school mixed model ginger settle gauge";

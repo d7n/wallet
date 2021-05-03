@@ -1,1 +1,1 @@
-var mnemonic = "relief fabric pact industry palm company fatigue hat clever sample valid bacon";
+var mnemonic = "hazard still school jump ahead series upset leopard flash click salon jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle brand husband riot renew vacuum suspect online afraid scissors census injury";
+var mnemonic = "web recall economy inmate control often donor neutral crew bleak meadow unhappy";

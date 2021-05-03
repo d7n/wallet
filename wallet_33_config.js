@@ -1,1 +1,1 @@
-var mnemonic = "monitor deposit escape maple enemy police twenty hurdle pottery main olympic blush";
+var mnemonic = "cricket guilt mechanic vicious joke panic inspire effort power stay direct attack";

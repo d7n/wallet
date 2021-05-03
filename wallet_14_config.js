@@ -1,1 +1,1 @@
-var mnemonic = "find keen verb loan execute peanut suspect bullet net need beach teach";
+var mnemonic = "spell image tunnel august ginger cabbage news chapter pledge move dynamic rotate";

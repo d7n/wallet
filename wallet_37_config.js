@@ -1,1 +1,1 @@
-var mnemonic = "room gauge relief west marine defense universe despair choose seed fix drum";
+var mnemonic = "inherit program salad impulse fancy tube shaft angle borrow raccoon amount patient";

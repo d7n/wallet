@@ -1,1 +1,1 @@
-var mnemonic = "exclude object gauge staff label winter banner solve engine shell fat choose";
+var mnemonic = "deputy worth future winter knife patrol rule lava borrow machine coil relax";

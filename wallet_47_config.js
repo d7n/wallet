@@ -1,1 +1,1 @@
-var mnemonic = "track ship cram eager wish title castle fun aim lunch record bring";
+var mnemonic = "cheap awful switch brand safe box various health patrol latin village trick";

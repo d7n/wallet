@@ -1,1 +1,1 @@
-var mnemonic = "tobacco input chief deer task urban brand similar base frost gaze cash";
+var mnemonic = "diet picture coyote tissue worry skull nurse nuclear aspect core wave giggle";

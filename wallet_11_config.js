@@ -1,1 +1,1 @@
-var mnemonic = "rival hen exile problem capital sibling box oyster figure above used slide";
+var mnemonic = "chief chest argue desk success myself release balcony traffic bread useful evoke";

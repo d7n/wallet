@@ -1,1 +1,1 @@
-var mnemonic = "oxygen edit ice hidden display accident across vanish squirrel peanut choice divorce";
+var mnemonic = "snow shine autumn toddler glare tell turkey supply say lonely keen country";

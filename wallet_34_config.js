@@ -1,1 +1,1 @@
-var mnemonic = "ostrich term basket view thought summer fluid poverty hungry patch record assault";
+var mnemonic = "alien elbow alley worry car tilt inflict juice margin pioneer comfort hedgehog";

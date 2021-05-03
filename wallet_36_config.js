@@ -1,1 +1,1 @@
-var mnemonic = "follow reopen machine debris legend effort door garment letter above purity stereo";
+var mnemonic = "cousin faith wild giggle artefact swallow armor cigar gown bulk twice taxi";

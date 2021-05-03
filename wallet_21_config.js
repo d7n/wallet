@@ -1,1 +1,1 @@
-var mnemonic = "juice donkey cake museum humble pony trigger word snow piece lamp space";
+var mnemonic = "uphold put among balance news cruise demand use fox pull wink copper";

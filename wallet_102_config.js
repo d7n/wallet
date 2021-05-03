@@ -1,1 +1,1 @@
-var mnemonic = "ginger blouse buyer walk isolate wedding recipe crush cruise faculty fruit brass";
+var mnemonic = "nominee forest abandon water shift grocery convince into wonder idle noise cage";

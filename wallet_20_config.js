@@ -1,1 +1,1 @@
-var mnemonic = "comic typical seed exhaust casino celery radio coin swamp sick nurse turn";
+var mnemonic = "frequent pattern waste addict reason bicycle letter fame learn sample buffalo raise";

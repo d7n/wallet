@@ -1,1 +1,1 @@
-var mnemonic = "bitter chapter alone soon ranch feature seminar resist nose sheriff wing old";
+var mnemonic = "alarm major surprise attract wait ride dune key innocent recycle analyst adapt";

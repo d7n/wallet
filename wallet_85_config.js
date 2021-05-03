@@ -1,1 +1,1 @@
-var mnemonic = "split cotton tomato armor attract turkey main census paper journey leader wing";
+var mnemonic = "seminar found clever again frown tube plastic arrive predict ball beyond wage";

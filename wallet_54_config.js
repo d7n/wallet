@@ -1,1 +1,1 @@
-var mnemonic = "parade runway limb tone lucky south family reduce weapon bronze ignore again";
+var mnemonic = "injury custom local chef minimum dash mandate hip slab stumble spot pear";

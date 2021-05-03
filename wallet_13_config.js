@@ -1,1 +1,1 @@
-var mnemonic = "luggage laundry anger resource since emerge cause ridge coast lesson library still";
+var mnemonic = "hedgehog speed receive become hip culture occur elephant bulk lion knee waste";

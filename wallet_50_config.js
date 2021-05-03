@@ -1,1 +1,1 @@
-var mnemonic = "giant one material source garlic salon shadow favorite pink hint bird small";
+var mnemonic = "flash hungry flight twice viable bomb between shallow anchor item game crater";

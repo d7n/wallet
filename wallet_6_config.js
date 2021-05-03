@@ -1,1 +1,1 @@
-var mnemonic = "galaxy drill output act tomato jeans stock false west follow whip universe";
+var mnemonic = "carbon song observe follow random doctor dolphin wink dinosaur chair cigar claim";

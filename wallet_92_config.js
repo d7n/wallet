@@ -1,1 +1,1 @@
-var mnemonic = "circle wonder twelve penalty sleep sell hotel achieve lift industry top video";
+var mnemonic = "matrix pistol lonely quit over garlic brother lake animal genius blue improve";

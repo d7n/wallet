@@ -1,1 +1,1 @@
-var mnemonic = "raw sock hub example note bomb rough connect adult climb kid napkin";
+var mnemonic = "plastic device minute picnic raven gown crisp tumble normal what zone caught";

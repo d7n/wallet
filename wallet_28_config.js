@@ -1,1 +1,1 @@
-var mnemonic = "ginger finish tower once dutch equal north arrive funny frog sustain crunch";
+var mnemonic = "lunar flight symptom bubble kid business require lemon economy orange salt random";

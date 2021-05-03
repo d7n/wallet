@@ -1,1 +1,1 @@
-var mnemonic = "always soon april walk wolf farm scrub pyramid shoulder resist security calm";
+var mnemonic = "stay wire marriage home lonely glow human barely move okay creek wreck";

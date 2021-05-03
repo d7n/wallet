@@ -1,1 +1,1 @@
-var mnemonic = "release large woman reflect glance improve shift whip vapor firm stuff marriage";
+var mnemonic = "heavy fever moon ethics kingdom mobile alarm juice quantum disorder air clip";

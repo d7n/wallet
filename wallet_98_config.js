@@ -1,1 +1,1 @@
-var mnemonic = "disease allow coral parade tonight bleak bacon sister weapon enough trial only";
+var mnemonic = "stamp estate paper office siege crush screen floor palm danger code rely";

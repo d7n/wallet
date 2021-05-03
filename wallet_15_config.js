@@ -1,1 +1,1 @@
-var mnemonic = "half metal woman silent tunnel jungle evil welcome public joy gesture sniff";
+var mnemonic = "jealous prize lava unaware fitness way sadness gauge casual duty used negative";

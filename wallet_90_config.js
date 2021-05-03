@@ -1,1 +1,1 @@
-var mnemonic = "protect power pulp stay moon explain hour cable apart afford enrich goose";
+var mnemonic = "range dice main balcony remove tunnel range only earn nuclear net vocal";

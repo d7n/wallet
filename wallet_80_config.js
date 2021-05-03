@@ -1,1 +1,1 @@
-var mnemonic = "pottery champion obvious country memory emerge want swap board kingdom toy provide";
+var mnemonic = "pet silver stool portion valve rug famous put enhance leopard glue will";

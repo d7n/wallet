@@ -1,1 +1,1 @@
-var mnemonic = "grant quarter layer spawn voice fall bachelor that wealth orphan enhance soup";
+var mnemonic = "noble swear regret lizard erupt fragile gravity tongue provide liberty way swap";

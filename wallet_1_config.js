@@ -1,1 +1,1 @@
-var mnemonic = "silent pole obtain small ribbon west mule error pool monitor fly swim";
+var mnemonic = "opinion reopen suffer nominee side occur eight body van insect dream universe";

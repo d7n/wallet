@@ -1,1 +1,1 @@
-var mnemonic = "ramp phone pudding tip opera bundle suffer edit wonder response illegal violin";
+var mnemonic = "rocket evil nominee inch hobby toilet sister explain layer job pupil pet";

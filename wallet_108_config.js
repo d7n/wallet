@@ -1,1 +1,1 @@
-var mnemonic = "gold bomb fitness talk person wear stairs release scene tag return memory";
+var mnemonic = "zero please few desk vote prevent another junk ranch improve vibrant vicious";

@@ -1,1 +1,1 @@
-var mnemonic = "talent essence muffin fan parrot drastic sister empty flip behave winter panel";
+var mnemonic = "popular oyster stumble faculty bunker excess rally until light ceiling river force";

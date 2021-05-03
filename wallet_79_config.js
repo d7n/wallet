@@ -1,1 +1,1 @@
-var mnemonic = "room swift mean wrong loyal green fix depth detail climb squirrel drama";
+var mnemonic = "valve view hungry velvet license fever put atom clinic rubber nerve voice";

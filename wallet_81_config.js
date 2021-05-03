@@ -1,1 +1,1 @@
-var mnemonic = "north cricket beach logic calm lucky useless hybrid tent visual tank manual";
+var mnemonic = "unit enhance lumber solve height define soft lesson vacuum video rocket tray";

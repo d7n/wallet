@@ -1,1 +1,1 @@
-var mnemonic = "armed carbon crazy sweet wrong music foster liar flag wise coconut omit";
+var mnemonic = "vibrant era best sad chuckle peace survey flame wheat belt outside stay";

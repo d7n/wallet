@@ -1,1 +1,1 @@
-var mnemonic = "conduct spice divorce effort angle seven point bike resource airport adult pulp";
+var mnemonic = "follow plate sick carpet bulk huge vintage alarm mean sudden struggle loud";

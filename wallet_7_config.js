@@ -1,1 +1,1 @@
-var mnemonic = "size treat board benefit alter husband supreme muscle dinner finish switch dizzy";
+var mnemonic = "gloom visa burden proof prosper razor camera shine elegant just print lucky";

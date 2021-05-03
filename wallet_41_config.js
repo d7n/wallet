@@ -1,1 +1,1 @@
-var mnemonic = "amateur wealth river cabin inject flame tank intact exhaust color barely arrow";
+var mnemonic = "work step review chronic vote alert gossip smile dress section column lottery";

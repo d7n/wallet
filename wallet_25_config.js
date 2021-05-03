@@ -1,1 +1,1 @@
-var mnemonic = "people asset tide exile hour black favorite finish cave sick noise display";
+var mnemonic = "globe transfer volume syrup soft cinnamon useful destroy army arrive festival parent";

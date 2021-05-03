@@ -1,1 +1,1 @@
-var mnemonic = "bean vacant blame cradle height poverty slam pistol lawsuit glove refuse wish";
+var mnemonic = "bread parent march hold hockey injury cloud other weird warfare borrow jar";

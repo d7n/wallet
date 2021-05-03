@@ -1,1 +1,1 @@
-var mnemonic = "cross spring treat rural six under source motor kit scout basic kitchen";
+var mnemonic = "ugly twenty solve present section stadium gym flock ride grow local ritual";

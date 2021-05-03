@@ -1,1 +1,1 @@
-var mnemonic = "neck plug element panel domain garlic museum quarter eight sauce clown curious";
+var mnemonic = "human slow biology spell become enhance chuckle actress ahead scrap arctic garment";

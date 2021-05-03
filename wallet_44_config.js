@@ -1,1 +1,1 @@
-var mnemonic = "trouble actress expose wood faculty enemy blame century canal swamp cute party";
+var mnemonic = "trash comfort mom only trust elephant pretty risk melody oak desert gloom";

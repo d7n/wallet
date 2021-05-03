@@ -1,1 +1,1 @@
-var mnemonic = "hard waste humor profit evidence popular leisure away wreck debris wise profit";
+var mnemonic = "fragile few arch dizzy cover siren elevator law school live grain payment";

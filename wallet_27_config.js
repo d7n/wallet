@@ -1,1 +1,1 @@
-var mnemonic = "position expect unfair limit nominee mercy daring guitar wedding ribbon own silent";
+var mnemonic = "knock supreme burden notice news lamp road novel other salad coffee gate";

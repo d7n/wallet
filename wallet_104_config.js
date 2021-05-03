@@ -1,1 +1,1 @@
-var mnemonic = "foster birth pull save cannon echo april neutral blossom army dentist never";
+var mnemonic = "lava action keen oxygen layer repair lava fire alien certain venture harvest";

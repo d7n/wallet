@@ -1,1 +1,1 @@
-var mnemonic = "siege faculty tomorrow quote mass trim eyebrow rule stand circle pear merit";
+var mnemonic = "remind suit word hen paddle balance enter rely primary tobacco morning loan";

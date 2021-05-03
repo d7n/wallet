@@ -1,1 +1,1 @@
-var mnemonic = "attract board pool library grab noodle picnic scare bus kiwi define glide";
+var mnemonic = "peace quality alert supply track crew box road model divorce chapter follow";

@@ -1,1 +1,1 @@
-var mnemonic = "firm dose dress reopen exercise august shell cannon system concert now trust";
+var mnemonic = "economy involve dust panic sad robot egg fitness priority glue rival smoke";

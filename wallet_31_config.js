@@ -1,1 +1,1 @@
-var mnemonic = "slab radio pelican gun stairs session test minute moment special blouse olive";
+var mnemonic = "fox dragon fish rival escape phone artwork lift radio stomach neglect car";

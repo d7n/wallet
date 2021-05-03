@@ -1,1 +1,1 @@
-var mnemonic = "educate vital start sample sign basic sauce arch art under joy lazy";
+var mnemonic = "broom reopen vendor fat twice vague blanket feature kitchen among elbow million";

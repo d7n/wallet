@@ -1,1 +1,1 @@
-var mnemonic = "rabbit gallery elephant boil peanut office clever embrace magic afraid arrow struggle";
+var mnemonic = "icon adapt maid fragile talent drift lecture scare shield hand knife dinosaur";

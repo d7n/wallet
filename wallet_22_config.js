@@ -1,1 +1,1 @@
-var mnemonic = "harvest weapon panic snow three account market parrot senior shrimp hedgehog job";
+var mnemonic = "blanket erase purchase update false sphere unknown maze flee speak original rain";

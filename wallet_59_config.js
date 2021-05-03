@@ -1,1 +1,1 @@
-var mnemonic = "burst moment knock trumpet equal insane table destroy reject found feel valve";
+var mnemonic = "october dial unfair pause doll divert hurdle refuse document coil mercy hello";

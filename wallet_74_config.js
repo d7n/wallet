@@ -1,1 +1,1 @@
-var mnemonic = "humor fun inhale shuffle case vicious express inquiry seat swing demand few";
+var mnemonic = "sphere angle silent custom library foster spot ball silent hungry end female";

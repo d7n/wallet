@@ -1,1 +1,1 @@
-var mnemonic = "praise fashion leaf latin water shock basic flee ozone aware upper web";
+var mnemonic = "desert alert rose disagree square sting climb hair noodle destroy ignore stone";

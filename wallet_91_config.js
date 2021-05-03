@@ -1,1 +1,1 @@
-var mnemonic = "save honey innocent kit visa liberty hard mule tissue shiver journey embody";
+var mnemonic = "wrist omit alert chief hawk current stairs fabric day kidney input analyst";

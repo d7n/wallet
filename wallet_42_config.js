@@ -1,1 +1,1 @@
-var mnemonic = "artefact forget fashion start can left friend balcony situate mystery knee sunny";
+var mnemonic = "blade accident critic antenna hour brown valve design jar chuckle sponsor survey";

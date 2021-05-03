@@ -1,1 +1,1 @@
-var mnemonic = "tent waste torch blur nice later piano main poet helmet mechanic casual";
+var mnemonic = "fringe flash bone derive firm image jeans rather involve super trophy cloud";

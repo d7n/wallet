@@ -1,1 +1,1 @@
-var mnemonic = "short phone stable silk chief subway rural produce agent chair faith version";
+var mnemonic = "moon scorpion affair energy diagram step model debate minute object program outer";

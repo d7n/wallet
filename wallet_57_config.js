@@ -1,1 +1,1 @@
-var mnemonic = "agree way awake average creek brave blur gentle mind mule urban space";
+var mnemonic = "almost mechanic please tone badge ugly expect cloth oxygen vague pill ritual";

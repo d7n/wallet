@@ -1,1 +1,1 @@
-var mnemonic = "proof what away siege friend tornado snap shaft traffic odor humor broccoli";
+var mnemonic = "eight cost word fashion reason attend debate bless ceiling suggest kind future";

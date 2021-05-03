@@ -1,1 +1,1 @@
-var mnemonic = "rotate business life hope island screen certain talent ten course hedgehog drill";
+var mnemonic = "theory already expect gorilla start fold spoon lawn canoe kiss travel picture";

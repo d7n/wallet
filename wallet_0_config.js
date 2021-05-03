@@ -1,1 +1,1 @@
-var mnemonic = "coffee match alarm remain judge zebra sea measure horror spice pilot tent";
+var mnemonic = "advance defy since orbit scrub renew pencil garlic useful exchange october squirrel";

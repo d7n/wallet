@@ -1,1 +1,1 @@
-var mnemonic = "crumble also often together casino label electric roast light hobby violin chair";
+var mnemonic = "water boring country pitch helmet cost panda life dial ceiling fruit notice";
