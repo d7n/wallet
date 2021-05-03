@@ -1,1 +1,1 @@
-var mnemonic = "wife twist tobacco enroll critic blouse subway require name balcony music throw";
+var mnemonic = "owner ball elder antenna doll crowd innocent shoot subject abandon photo drill";

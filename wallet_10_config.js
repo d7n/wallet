@@ -1,1 +1,1 @@
-var mnemonic = "custom utility drama ripple basic mountain silk this cushion room gloom grit";
+var mnemonic = "air charge recall grid field concert satisfy enlist body distance turkey sad";

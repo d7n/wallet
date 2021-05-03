@@ -1,1 +1,1 @@
-var mnemonic = "clever stock injury render mimic family skate private popular spare card unlock";
+var mnemonic = "dizzy castle toe cotton turtle junior power panda barely weekend way liar";

@@ -1,1 +1,1 @@
-var mnemonic = "balance sugar avocado rain enforce brisk slender play finish what spawn day";
+var mnemonic = "muffin section aisle cage fossil talk emotion frequent harbor place rabbit salon";

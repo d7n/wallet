@@ -1,1 +1,1 @@
-var mnemonic = "busy popular penalty alien sort apology castle steel call business aisle ride";
+var mnemonic = "list whip push perfect bless cake glue retreat rib easy emotion prosper";

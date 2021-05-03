@@ -1,1 +1,1 @@
-var mnemonic = "sun isolate video stove asthma unit rocket hammer ramp ripple liquid mouse";
+var mnemonic = "sport sadness claim interest carpet solve require joke interest nominee melody injury";

@@ -1,1 +1,1 @@
-var mnemonic = "champion riot mask blame auction glue kiwi middle race claw reveal problem";
+var mnemonic = "matter floor coach stomach ecology essay alarm random smart front blur scout";

@@ -1,1 +1,1 @@
-var mnemonic = "clip make height game once soul pull rich remove goddess endorse mask";
+var mnemonic = "insane sock tuna melody barrel income census find strong error sick bracket";

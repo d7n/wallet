@@ -1,1 +1,1 @@
-var mnemonic = "museum curtain sad good purse adult veteran resemble pear uphold can hazard";
+var mnemonic = "reopen method word jaguar clerk fossil inflict clean bundle cliff genre rice";

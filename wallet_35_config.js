@@ -1,1 +1,1 @@
-var mnemonic = "report response entire rate absent combine bulb donor you zoo utility echo";
+var mnemonic = "catch spy mind miracle ship blood galaxy alcohol pulp regular behind cave";

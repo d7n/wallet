@@ -1,1 +1,1 @@
-var mnemonic = "marble bench goddess link seat medal beach outside awful pretty rent fossil";
+var mnemonic = "baby few burst wheat tourist milk soup recycle today armed bullet can";

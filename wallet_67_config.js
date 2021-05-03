@@ -1,1 +1,1 @@
-var mnemonic = "mystery potato carpet useless bunker crawl pig mouse waste crop space echo";
+var mnemonic = "toddler cactus brown economy west exhibit foil gym anxiety stage picture cement";

@@ -1,1 +1,1 @@
-var mnemonic = "expose tuna dream identify trigger mountain undo into bind south panic mobile";
+var mnemonic = "update cage keen swing funny connect guard gate abandon vapor science fire";

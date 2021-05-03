@@ -1,1 +1,1 @@
-var mnemonic = "rain tide unable tape dilemma ozone envelope original neglect any funny memory";
+var mnemonic = "return artefact destroy lobster foil lumber slush salad dress assume length expire";

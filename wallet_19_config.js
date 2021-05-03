@@ -1,1 +1,1 @@
-var mnemonic = "wet expect report envelope what gap evidence sick work fashion chapter novel";
+var mnemonic = "drum achieve thank direct sail apart dad jeans industry resist pretty worth";

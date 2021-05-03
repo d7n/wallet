@@ -1,1 +1,1 @@
-var mnemonic = "army slim pen win arrange tissue write easily fluid lion net delay";
+var mnemonic = "odor shallow rubber affair where silver silent road unusual scout ripple rate";

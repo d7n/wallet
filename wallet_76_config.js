@@ -1,1 +1,1 @@
-var mnemonic = "indoor earth ripple hand arrive pledge grab kid gentle divide size pigeon";
+var mnemonic = "phone left elegant arrive flat put quality hood satisfy giraffe original rent";

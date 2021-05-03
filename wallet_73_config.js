@@ -1,1 +1,1 @@
-var mnemonic = "scissors canvas timber drop mosquito glory observe cave budget fish trigger annual";
+var mnemonic = "shine curious dilemma gown advice cinnamon crunch ethics earth clump quick giggle";

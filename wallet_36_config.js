@@ -1,1 +1,1 @@
-var mnemonic = "bag cherry kite between cave high rebuild buffalo aisle visa tissue domain";
+var mnemonic = "public much final crash clog spirit cradle execute solid rifle maximum tongue";

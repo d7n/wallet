@@ -1,1 +1,1 @@
-var mnemonic = "business wink pen what guilt city verify priority athlete deposit service lottery";
+var mnemonic = "deputy hunt delay merit collect table equip rack scheme route execute express";

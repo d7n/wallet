@@ -1,1 +1,1 @@
-var mnemonic = "tape avocado tray laptop outer turn code random parrot borrow robot fruit";
+var mnemonic = "nature involve lift toe equip neck crystal canyon recall avoid enlist series";

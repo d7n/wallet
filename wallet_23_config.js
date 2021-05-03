@@ -1,1 +1,1 @@
-var mnemonic = "menu wash cream drum vote burden vault alter cigar captain kiss awesome";
+var mnemonic = "grow chief exhaust sponsor bitter math rent cloud clock what random chuckle";

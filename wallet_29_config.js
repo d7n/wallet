@@ -1,1 +1,1 @@
-var mnemonic = "favorite shine wait someone control bridge bundle west session venue nerve hunt";
+var mnemonic = "drip champion clerk couch candy scout squirrel trophy movie tilt loan equal";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney punch hunt reduce ball gadget raw derive dice bless joy gravity";
+var mnemonic = "render ice rain twist cannon area prosper almost vocal cook boost place";

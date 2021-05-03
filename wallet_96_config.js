@@ -1,1 +1,1 @@
-var mnemonic = "guide urge valve palm online brother video mercy solve tooth matter insane";
+var mnemonic = "enemy innocent history gift announce sting bundle cry slow sketch hole donkey";

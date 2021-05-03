@@ -1,1 +1,1 @@
-var mnemonic = "pretty industry ski envelope jealous engage party negative evoke mango youth elite";
+var mnemonic = "vote ice dune seven narrow toe topple code surface vicious achieve kite";

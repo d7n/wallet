@@ -1,1 +1,1 @@
-var mnemonic = "coin shaft own hotel decide glory where heart surge victory often eager";
+var mnemonic = "sign unable result meadow around senior neither unit remember vintage stay worth";

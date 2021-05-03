@@ -1,1 +1,1 @@
-var mnemonic = "wonder section wine hunt race curious crew execute result obtain angry problem";
+var mnemonic = "mountain shed addict claim lady tourist frog okay rare air capable rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "club obey real health border crack extend usage cheap party method predict";
+var mnemonic = "cry cage test mammal slow memory false lens all apple ocean evoke";

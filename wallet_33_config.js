@@ -1,1 +1,1 @@
-var mnemonic = "also yellow frozen rail pledge mutual tooth curious mask next slim dynamic";
+var mnemonic = "penalty space add acoustic vital relief logic during peanut cover chuckle fortune";

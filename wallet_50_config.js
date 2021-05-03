@@ -1,1 +1,1 @@
-var mnemonic = "access snack vital squeeze inch system bid raise concert coin any subway";
+var mnemonic = "ahead able armor sphere affair side finish crater wage slow pioneer episode";

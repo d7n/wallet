@@ -1,1 +1,1 @@
-var mnemonic = "replace nature limb usage fetch nasty normal rose salon divert virtual then";
+var mnemonic = "estate fog enact swarm moon alone brush ecology flat brain apart inch";

@@ -1,1 +1,1 @@
-var mnemonic = "whisper fever addict image use clown dumb light tide edit phone tell";
+var mnemonic = "catch moon seven forest idea sell question affair boss gesture relief spoil";

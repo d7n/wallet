@@ -1,1 +1,1 @@
-var mnemonic = "reflect must bamboo car describe select that wave load clock vibrant rack";
+var mnemonic = "fever all mouse guide gather correct boring donor pupil donate kidney brush";

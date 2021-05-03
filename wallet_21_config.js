@@ -1,1 +1,1 @@
-var mnemonic = "timber rain master coral mixture slender chronic rebel marine access accident burst";
+var mnemonic = "cricket digital code settle truth civil spread faint reunion brush capital cost";

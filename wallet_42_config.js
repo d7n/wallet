@@ -1,1 +1,1 @@
-var mnemonic = "chief flower turn harbor squeeze they meadow debate empty capital bench vapor";
+var mnemonic = "boost lazy icon fever search foot pen host ten nominee horn oyster";

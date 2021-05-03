@@ -1,1 +1,1 @@
-var mnemonic = "exhibit hurdle girl sail sponsor addict luxury stadium evidence dice divert sunset";
+var mnemonic = "vote despair wish arrow museum charge depend twist visit until lend empty";

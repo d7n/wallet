@@ -1,1 +1,1 @@
-var mnemonic = "usual neutral cannon breeze civil play brick accident card autumn feature insect";
+var mnemonic = "gasp draw innocent this swift shrug sentence analyst point beyond crane youth";

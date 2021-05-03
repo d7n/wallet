@@ -1,1 +1,1 @@
-var mnemonic = "blade time during slow cheese canvas trend twice similar weird coral river";
+var mnemonic = "foam raven again cradle trophy dream summer tiny explain speak radar glue";

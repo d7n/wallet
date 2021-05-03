@@ -1,1 +1,1 @@
-var mnemonic = "vacant basket ring ride pair ability disorder shift plate reduce wink bomb";
+var mnemonic = "mosquito citizen risk allow rubber pink proof charge segment thank worry absurd";

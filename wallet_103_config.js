@@ -1,1 +1,1 @@
-var mnemonic = "caught curtain miracle knock hole camera conduct aerobic silly ill tennis glide";
+var mnemonic = "move crucial attend purse orbit movie enable sniff salt carbon slam crouch";

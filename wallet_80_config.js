@@ -1,1 +1,1 @@
-var mnemonic = "umbrella elevator tribe fresh crystal can letter bean that judge syrup spike";
+var mnemonic = "service bar either wait hood rapid doll left render lady advance goose";

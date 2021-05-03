@@ -1,1 +1,1 @@
-var mnemonic = "glove clip grant invest legal knife later arena aspect imitate stool mother";
+var mnemonic = "dinosaur coach soft miracle august swift remind route rain gesture provide cream";

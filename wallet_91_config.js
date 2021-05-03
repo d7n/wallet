@@ -1,1 +1,1 @@
-var mnemonic = "sick replace equip north conduct unfair menu brother rare eye receive render";
+var mnemonic = "garden repeat utility sound panther one street ticket banner pact much tomorrow";

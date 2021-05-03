@@ -1,1 +1,1 @@
-var mnemonic = "toward elbow clock fall lake boring donkey problem happy dress north assault";
+var mnemonic = "mosquito pattern pledge disease brick heart meat record divide exhibit provide matter";

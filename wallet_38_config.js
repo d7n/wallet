@@ -1,1 +1,1 @@
-var mnemonic = "rookie put rude coach spray sheriff ketchup strong song family fork hub";
+var mnemonic = "ski tail sadness winter tattoo garbage control patch swamp axis valley capital";

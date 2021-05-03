@@ -1,1 +1,1 @@
-var mnemonic = "music describe debris attack camp gate name sheriff shadow give scan ignore";
+var mnemonic = "apart door august dune average feel machine debate faint entire inquiry super";

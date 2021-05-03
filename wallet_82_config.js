@@ -1,1 +1,1 @@
-var mnemonic = "fat vault lady wrist cable around jelly story word repair gadget logic";
+var mnemonic = "husband switch glory pistol parent various attack present purpose decorate stem spin";

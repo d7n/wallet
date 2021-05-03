@@ -1,1 +1,1 @@
-var mnemonic = "coconut warm wisdom reject cattle mango flip glue service expose skill report";
+var mnemonic = "myth argue addict divorce hunt rotate despair gossip element corn reflect extra";

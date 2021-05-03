@@ -1,1 +1,1 @@
-var mnemonic = "swamp wrong toast half slide grid boring tornado animal float nut cushion";
+var mnemonic = "spice over derive hurt lesson nasty age alcohol lazy orient nothing primary";

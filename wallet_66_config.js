@@ -1,1 +1,1 @@
-var mnemonic = "forest hard crane vote save device occur hawk consider bright rent bunker";
+var mnemonic = "room lunch disease couch sense confirm refuse raise theme crunch play chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "gather country nose cause reduce alpha pass sight patrol civil basket reject";
+var mnemonic = "broccoli country idle excuse soccer boost sponsor enemy option race found market";

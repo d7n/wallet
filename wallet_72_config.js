@@ -1,1 +1,1 @@
-var mnemonic = "chuckle thing exotic skull key alarm rack ice network rally hospital sun";
+var mnemonic = "asthma hungry tiny inherit ticket merge galaxy whisper damp sudden duty kit";

@@ -1,1 +1,1 @@
-var mnemonic = "ginger guilt same tumble toddler style shoulder hub stand hope fix network";
+var mnemonic = "wife crop try shrimp portion picture mechanic doll learn wall remember purity";

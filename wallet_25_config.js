@@ -1,1 +1,1 @@
-var mnemonic = "laundry under snack letter person paper slide garlic shaft pulse legend frost";
+var mnemonic = "aunt device dentist garment bundle favorite twice supreme find certain theory later";

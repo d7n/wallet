@@ -1,1 +1,1 @@
-var mnemonic = "teach heart spin upper invite display later egg access raven three arena";
+var mnemonic = "lunch monkey volume lamp fix pizza ridge result perfect wing awake sustain";

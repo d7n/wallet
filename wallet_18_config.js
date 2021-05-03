@@ -1,1 +1,1 @@
-var mnemonic = "hunt color tip price ivory ghost portion pyramid scissors soft dentist ridge";
+var mnemonic = "fat popular someone prefer solution skill student jazz cause elevator snow fragile";

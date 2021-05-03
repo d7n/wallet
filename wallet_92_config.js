@@ -1,1 +1,1 @@
-var mnemonic = "busy cancel fold very dose old stove possible recipe flush nose hello";
+var mnemonic = "praise camp dignity siege video glass crumble panther become label census correct";

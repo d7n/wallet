@@ -1,1 +1,1 @@
-var mnemonic = "comfort access struggle salt shy limit chase silver return fatal thumb gas";
+var mnemonic = "session obvious arrest health mammal program year monster venue before pigeon slight";

@@ -1,1 +1,1 @@
-var mnemonic = "garment ancient forum cigar speak almost resource hawk hospital frost bread pattern";
+var mnemonic = "chaos cushion mix sheriff maid expose strategy tell youth online few empower";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic weapon relax defense creek measure sunset monkey erupt palace rifle sword";
+var mnemonic = "burst quiz bench live voice island ride beauty strong uphold silver bid";

@@ -1,1 +1,1 @@
-var mnemonic = "orange neutral fresh vocal gospel devote door motor fall egg sponsor voice";
+var mnemonic = "slide crumble pizza idea meat muffin glimpse crime leave sustain blur federal";

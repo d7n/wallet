@@ -1,1 +1,1 @@
-var mnemonic = "team person tank sail leave connect sunny maple review sketch defense minor";
+var mnemonic = "shoulder clown hobby donor file culture universe bike tide region code assume";

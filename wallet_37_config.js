@@ -1,1 +1,1 @@
-var mnemonic = "silly annual pull seek label orient great audit cushion mule umbrella ability";
+var mnemonic = "insect crop caught person wood above farm tuition ensure baby wish mother";

@@ -1,1 +1,1 @@
-var mnemonic = "open leave hint erode drill fly truth share intact phrase connect culture";
+var mnemonic = "essence squirrel pottery live believe tragic coast add aim shock fortune donate";

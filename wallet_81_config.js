@@ -1,1 +1,1 @@
-var mnemonic = "detail trick talk lazy paddle junk need social response leisure since silly";
+var mnemonic = "lazy across spirit observe night paddle found oil catalog speed viable pipe";

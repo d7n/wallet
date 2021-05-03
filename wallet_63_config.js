@@ -1,1 +1,1 @@
-var mnemonic = "palm essence acquire claw material object salt coffee regular shoot gossip sponsor";
+var mnemonic = "ethics weekend vague expect soft tragic option ready fortune caught cart increase";

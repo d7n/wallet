@@ -1,1 +1,1 @@
-var mnemonic = "space raw dove inspire wisdom victory bundle episode paper clock hard move";
+var mnemonic = "record catch orient frog trash wife solar ice genuine practice enlist build";

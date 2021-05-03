@@ -1,1 +1,1 @@
-var mnemonic = "swift orient camera finish shoot process prepare salon genuine junk tuition hurdle";
+var mnemonic = "payment rather click egg caught shoe rapid toy essence lunch shoot damp";

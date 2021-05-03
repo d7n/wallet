@@ -1,1 +1,1 @@
-var mnemonic = "grace viable illness auto better catalog major toss enter clay skin language";
+var mnemonic = "valve much output exclude ecology settle ship swing lunch board lawsuit tilt";

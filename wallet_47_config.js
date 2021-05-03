@@ -1,1 +1,1 @@
-var mnemonic = "resemble deer copy oblige odor shy tray exchange people slot miracle remain";
+var mnemonic = "cushion produce current love anger enter parade cool zoo access palm still";

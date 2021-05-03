@@ -1,1 +1,1 @@
-var mnemonic = "system color demise camp antique milk earn over lesson best digital whale";
+var mnemonic = "liar fish can cloth rack favorite spatial north buyer trim hub throw";

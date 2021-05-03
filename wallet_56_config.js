@@ -1,1 +1,1 @@
-var mnemonic = "ripple alcohol water number coast try ceiling foil hen square decade fantasy";
+var mnemonic = "purity unit truck churn slot spray foil recipe defense analyst zoo ancient";

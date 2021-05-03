@@ -1,1 +1,1 @@
-var mnemonic = "real hood uniform rail country pudding this drink syrup more false carbon";
+var mnemonic = "wise off mother tent fatigue spray soup index castle wheel skirt stable";

@@ -1,1 +1,1 @@
-var mnemonic = "wealth sword region faith list foster slight scheme depth gallery foster rain";
+var mnemonic = "peanut view belt deposit burst average region quiz tiger dumb pizza reason";

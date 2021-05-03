@@ -1,1 +1,1 @@
-var mnemonic = "fire annual sorry pear furnace april direct major exhaust oil coffee bless";
+var mnemonic = "cloth salon size plastic begin tongue fortune weapon endless embark final describe";

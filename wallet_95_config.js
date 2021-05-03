@@ -1,1 +1,1 @@
-var mnemonic = "release cool torch swing omit garden taxi oxygen wrist drink travel squeeze";
+var mnemonic = "learn clean educate wise false glove front good fitness execute split afraid";

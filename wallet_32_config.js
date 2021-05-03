@@ -1,1 +1,1 @@
-var mnemonic = "volume rich shock velvet denial season wrong asset robot able color diesel";
+var mnemonic = "lobster guilt exile noble boring actress conduct extra leopard potato differ family";

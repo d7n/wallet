@@ -1,1 +1,1 @@
-var mnemonic = "farm urge square build increase entire kitten curious popular wrong pilot grief";
+var mnemonic = "meat grid material spare case skirt share kiss transfer accident roast spot";

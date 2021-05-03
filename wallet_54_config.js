@@ -1,1 +1,1 @@
-var mnemonic = "custom normal reason bacon nose ride blue cruel weather ginger horse second";
+var mnemonic = "planet decide arm have office normal era wild donkey when oven canal";

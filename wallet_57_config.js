@@ -1,1 +1,1 @@
-var mnemonic = "october document among wing pair video young good first maximum dog fantasy";
+var mnemonic = "strong elegant thank apart antenna settle poet color brief fossil crawl test";

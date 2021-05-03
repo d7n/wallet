@@ -1,1 +1,1 @@
-var mnemonic = "urban village choose fantasy muffin boy velvet puppy jacket nation tool myth";
+var mnemonic = "nest visit actual shaft quarter rough word stem push clap forward stand";

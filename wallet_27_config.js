@@ -1,1 +1,1 @@
-var mnemonic = "bulb coach child such can team stove electric drum ship fish reduce";
+var mnemonic = "airport fat awake notice brown story dog sphere retire coin loyal cabbage";

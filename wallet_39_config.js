@@ -1,1 +1,1 @@
-var mnemonic = "fox burst clean sunset harvest miss seminar usual host hub forget ensure";
+var mnemonic = "melt stage dynamic prepare once pipe gas tribe genre win web violin";

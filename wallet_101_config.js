@@ -1,1 +1,1 @@
-var mnemonic = "agent force ice carbon hero crystal change pill wild biology celery beauty";
+var mnemonic = "warfare camera step crowd apology unusual stay voice derive connect history maze";

@@ -1,1 +1,1 @@
-var mnemonic = "machine inflict above kidney cradle lend shift orange harsh dismiss jazz banner";
+var mnemonic = "salmon cube hobby sea vessel spoon vacant live baby verb claim truly";

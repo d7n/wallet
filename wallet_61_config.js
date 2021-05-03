@@ -1,1 +1,1 @@
-var mnemonic = "bless clump focus thought inner laptop similar device legend aerobic wrong depend";
+var mnemonic = "chief mountain cook area person hobby dizzy tenant tennis own music same";

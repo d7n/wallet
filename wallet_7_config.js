@@ -1,1 +1,1 @@
-var mnemonic = "bring sick oyster notice wink first card kitchen depart flower surface trick";
+var mnemonic = "pride panic hollow marble park again voyage monkey risk infant icon sound";

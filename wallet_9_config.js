@@ -1,1 +1,1 @@
-var mnemonic = "female improve snack diet hamster slam start object floor region ugly glass";
+var mnemonic = "brief female squeeze quiz sport diary noodle human wrong earn mountain link";

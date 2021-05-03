@@ -1,1 +1,1 @@
-var mnemonic = "ask unaware sea emerge indicate matrix since traffic father plate rude expose";
+var mnemonic = "crop neutral case acquire split plug ten exclude screen force camera field";

@@ -1,1 +1,1 @@
-var mnemonic = "amused artwork pilot upset summer biology reunion concert duck want seminar radio";
+var mnemonic = "deal field employ monitor decide pause bench giant leisure trophy door piano";

@@ -1,1 +1,1 @@
-var mnemonic = "clown actual oxygen high buyer cash width once stone canyon number surface";
+var mnemonic = "fancy present essay carpet catalog autumn husband focus sick useless abandon sheriff";

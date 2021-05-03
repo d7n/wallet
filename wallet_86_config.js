@@ -1,1 +1,1 @@
-var mnemonic = "view bacon deny little cigar relief sunset flat sample burden reason quiz";
+var mnemonic = "brain supreme snow invest bar float amused ivory want limb song very";
