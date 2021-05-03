@@ -1,1 +1,1 @@
-var mnemonic = "grain length torch defense surround shuffle cart solve sell fix zebra aim";
+var mnemonic = "vibrant calm vibrant teach across slide powder entry liquid monkey help wolf";

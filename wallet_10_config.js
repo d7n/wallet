@@ -1,1 +1,1 @@
-var mnemonic = "renew bitter absurd romance island faith menu wash admit crop denial space";
+var mnemonic = "curtain kingdom easy settle lecture era detect syrup fault engine fee turtle";

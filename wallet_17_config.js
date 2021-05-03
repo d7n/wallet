@@ -1,1 +1,1 @@
-var mnemonic = "raccoon enemy execute first teach trouble boat dose school human strike chronic";
+var mnemonic = "excite modify off sister razor sport chunk rain moon silk source impose";

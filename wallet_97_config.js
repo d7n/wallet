@@ -1,1 +1,1 @@
-var mnemonic = "unlock ordinary nut annual inch chimney limit jeans food trade awful insect";
+var mnemonic = "honey install stairs enhance pen ride soda walnut mass multiply twin still";

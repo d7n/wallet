@@ -1,1 +1,1 @@
-var mnemonic = "monster develop heart draw bamboo bird promote pistol attitude tower arena return";
+var mnemonic = "bargain sugar pluck carry win repeat skirt rack track dust ridge movie";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney acoustic venue canvas dice below blanket this brisk knife pipe plug";
+var mnemonic = "wrestle home dice tower pulse neglect south journey sting decade alley harvest";

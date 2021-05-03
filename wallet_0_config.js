@@ -1,1 +1,1 @@
-var mnemonic = "mutual napkin middle catalog easily mother essence track grant prison cause swear";
+var mnemonic = "estate pigeon avocado episode vacuum involve bubble comfort melt annual install voyage";

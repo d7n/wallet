@@ -1,1 +1,1 @@
-var mnemonic = "situate fruit muffin bitter cabin ridge mom distance theory act luxury into";
+var mnemonic = "order dash edit donate absent evil ride magic oval concert summer dawn";

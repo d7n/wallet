@@ -1,1 +1,1 @@
-var mnemonic = "hole retreat soap fade make sleep rigid token pave keep legal ahead";
+var mnemonic = "patch modify scheme circle pumpkin fragile hip enroll decide junior minimum stumble";

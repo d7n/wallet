@@ -1,1 +1,1 @@
-var mnemonic = "tobacco twice vessel guitar market cover bulb service usual cute alert fame";
+var mnemonic = "script spice property hub process sample jewel thought orphan exhaust library appear";

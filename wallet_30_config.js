@@ -1,1 +1,1 @@
-var mnemonic = "small success lion unlock street marriage snake boost rocket later call drama";
+var mnemonic = "twelve twin good blind sing cycle frost target fitness memory ship polar";

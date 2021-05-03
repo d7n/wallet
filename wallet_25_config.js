@@ -1,1 +1,1 @@
-var mnemonic = "avocado senior average network local ugly write certain prize garlic tent dentist";
+var mnemonic = "traffic custom mention crisp gas top grass remember skill wine chimney network";

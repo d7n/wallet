@@ -1,1 +1,1 @@
-var mnemonic = "agent bleak primary rural broken inform unique hurt hospital ignore have brush";
+var mnemonic = "fringe menu grace shiver canyon mouse bleak next lens erase torch wrestle";

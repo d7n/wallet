@@ -1,1 +1,1 @@
-var mnemonic = "magnet circle action wall dish kid drastic toast alarm train short arrow";
+var mnemonic = "lobster jeans task leaf bench empty garment primary iron lion extend local";

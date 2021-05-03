@@ -1,1 +1,1 @@
-var mnemonic = "dismiss quarter mule veteran ordinary tail dragon any judge member strike claw";
+var mnemonic = "aspect old silent jeans abuse peasant west swear artist install subject potato";

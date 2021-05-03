@@ -1,1 +1,1 @@
-var mnemonic = "decide evolve small six wagon circle special useful ride excuse muffin citizen";
+var mnemonic = "august ride until legal forget evolve dry glimpse average uncover delay stick";

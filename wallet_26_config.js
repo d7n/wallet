@@ -1,1 +1,1 @@
-var mnemonic = "person abstract size orbit brave ahead gauge since predict whale neck aware";
+var mnemonic = "mix topple fly illness bring across jump praise whisper hospital radar style";

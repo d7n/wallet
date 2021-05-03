@@ -1,1 +1,1 @@
-var mnemonic = "price lizard hole connect gun laundry cover name upon metal caught else";
+var mnemonic = "suit hip pluck basic much certain view hurry filter nature hawk cement";

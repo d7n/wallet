@@ -1,1 +1,1 @@
-var mnemonic = "include hidden dolphin sniff unhappy aerobic fork mom sustain arctic letter what";
+var mnemonic = "genius mystery orphan gorilla boy doll crack main clap zero helmet cycle";

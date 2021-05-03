@@ -1,1 +1,1 @@
-var mnemonic = "label animal try hamster limit hub true prepare ghost north evolve kind";
+var mnemonic = "slight parade elephant pottery smoke toilet team clever decide above eagle boil";

@@ -1,1 +1,1 @@
-var mnemonic = "market tomorrow abstract meat side stay raccoon crystal child edit chat dish";
+var mnemonic = "pyramid wrist emotion wage power flag bunker memory yard genius furnace animal";

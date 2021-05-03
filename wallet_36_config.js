@@ -1,1 +1,1 @@
-var mnemonic = "maple type method buzz yellow truth discover orient pull output solar crush";
+var mnemonic = "cheese task culture misery scene similar analyst hotel boat deal three menu";

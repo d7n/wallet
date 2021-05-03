@@ -1,1 +1,1 @@
-var mnemonic = "draft high today december float hub antenna eyebrow creek twice profit hobby";
+var mnemonic = "country forget parrot blanket robust educate speed attack foam hidden amused stool";

@@ -1,1 +1,1 @@
-var mnemonic = "chunk arrive cabbage view shaft wish exercise adjust face labor depth bullet";
+var mnemonic = "envelope elegant warrior case host problem rail below option must ill embark";

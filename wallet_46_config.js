@@ -1,1 +1,1 @@
-var mnemonic = "shoot bridge casual decide bright amused cave dish abuse happy regular blind";
+var mnemonic = "hamster visual inflict way direct usual abstract worry clarify shed mom bacon";

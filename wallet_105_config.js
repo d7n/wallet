@@ -1,1 +1,1 @@
-var mnemonic = "menu mobile deer inch about buffalo ginger topic seven either bid expose";
+var mnemonic = "math topple adjust tilt clay gun garment enrich transfer jungle issue cruel";

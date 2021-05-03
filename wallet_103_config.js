@@ -1,1 +1,1 @@
-var mnemonic = "become snake honey point lucky orange actor month atom shaft tongue fall";
+var mnemonic = "cup duty cousin frequent frame attract submit rotate mutual forum aware subway";

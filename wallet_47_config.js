@@ -1,1 +1,1 @@
-var mnemonic = "frozen long claw proud circle injury exhibit skate degree shop fine feel";
+var mnemonic = "season uncover rally wreck equal blouse dynamic fame coach actress cross helmet";

@@ -1,1 +1,1 @@
-var mnemonic = "engine mouse void owner exercise vibrant lunar furnace fish injury dirt success";
+var mnemonic = "chest solution zero world whisper interest hamster hello surge occur tool priority";

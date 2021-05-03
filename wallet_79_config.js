@@ -1,1 +1,1 @@
-var mnemonic = "beach visual honey file struggle hood unlock amazing hurt upper brand arrow";
+var mnemonic = "donkey exotic marble hub valve hammer lion ethics gift giggle sponsor profit";

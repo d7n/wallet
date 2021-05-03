@@ -1,1 +1,1 @@
-var mnemonic = "guard away symbol other student father seven party silly news cram price";
+var mnemonic = "decorate please sister hotel ladder affair provide together bone swarm member various";

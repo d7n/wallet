@@ -1,1 +1,1 @@
-var mnemonic = "invest shield old shaft pulp later weasel edit game awake canyon hidden";
+var mnemonic = "sail upon artist remain evoke seed blade olympic round unaware afraid awake";

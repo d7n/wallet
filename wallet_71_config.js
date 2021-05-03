@@ -1,1 +1,1 @@
-var mnemonic = "two rain merge jazz frost castle inform salmon april medal denial velvet";
+var mnemonic = "cabin pass hip sound truck second gap still trust nephew scrap average";

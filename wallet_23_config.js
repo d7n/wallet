@@ -1,1 +1,1 @@
-var mnemonic = "weapon oppose escape degree wine asset say census design spatial grant dune";
+var mnemonic = "balance digital hobby diary guard often ozone grief police under toss divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "now lake evil little figure round raccoon junk rally liquid eyebrow capable";
+var mnemonic = "crash student supply sad common volume day claw school sustain vibrant vital";

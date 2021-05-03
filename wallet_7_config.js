@@ -1,1 +1,1 @@
-var mnemonic = "uncover grief heart maximum doll honey thing later toilet speak trend way";
+var mnemonic = "violin federal symptom sense seminar relief buddy since assume claim snap tortoise";

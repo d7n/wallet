@@ -1,1 +1,1 @@
-var mnemonic = "giraffe way maximum room velvet door sphere cool turtle fatal divide lawsuit";
+var mnemonic = "load drift valve object annual video giggle betray gossip vacuum spend segment";

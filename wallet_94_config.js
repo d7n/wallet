@@ -1,1 +1,1 @@
-var mnemonic = "crowd clutch fossil gas wing lock option case fence seek oven rich";
+var mnemonic = "only fantasy tail life melody wear page differ venue derive quantum destroy";

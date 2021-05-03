@@ -1,1 +1,1 @@
-var mnemonic = "ocean spice yellow scan myself salt trouble because eye act derive offer";
+var mnemonic = "inspire upgrade intact clay kidney post sell edge cabbage coach chat atom";

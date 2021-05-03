@@ -1,1 +1,1 @@
-var mnemonic = "moon violin ginger hybrid beauty able fatigue nurse laptop squeeze pride another";
+var mnemonic = "walnut meadow asset brief cereal canyon border birth axis guide accuse essence";

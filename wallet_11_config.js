@@ -1,1 +1,1 @@
-var mnemonic = "monkey split wisdom palace lazy wheel term age awkward measure pretty december";
+var mnemonic = "veteran teach leisure patrol account boy chest fatigue poet salt liar captain";

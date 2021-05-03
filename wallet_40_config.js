@@ -1,1 +1,1 @@
-var mnemonic = "example pudding town material fresh smart appear large vital friend super network";
+var mnemonic = "attack renew avocado cousin bubble brother write diesel attend strategy lava athlete";

@@ -1,1 +1,1 @@
-var mnemonic = "solar ripple latin shock comfort feel visual marriage domain either start perfect";
+var mnemonic = "build arrow pistol sword outdoor noble banner tail absurd immense law material";

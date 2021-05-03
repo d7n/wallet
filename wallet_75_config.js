@@ -1,1 +1,1 @@
-var mnemonic = "fatigue chat anchor couch able motion coral cigar jealous trip blossom alpha";
+var mnemonic = "glance waste mechanic hood this harvest critic cheap column obey rebuild occur";

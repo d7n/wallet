@@ -1,1 +1,1 @@
-var mnemonic = "index predict cheese polar cup shove select amazing boring input attitude shop";
+var mnemonic = "become flash popular manual cinnamon entire transfer tissue fox inform thing chuckle";

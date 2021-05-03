@@ -1,1 +1,1 @@
-var mnemonic = "rather witness size spring tissue proof roast duty arrange domain account sudden";
+var mnemonic = "asthma holiday horn since caught crash tooth electric common absorb remain seat";

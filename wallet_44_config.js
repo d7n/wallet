@@ -1,1 +1,1 @@
-var mnemonic = "vital reveal raccoon drama close immense cinnamon inherit solve feel client raccoon";
+var mnemonic = "smile fancy execute action upgrade glad repair sock behave right crazy pen";

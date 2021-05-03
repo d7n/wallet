@@ -1,1 +1,1 @@
-var mnemonic = "swing smile club cotton release page bread quality cram artwork program found";
+var mnemonic = "security rice night lounge matter distance relief early rally act topple glimpse";

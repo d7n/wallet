@@ -1,1 +1,1 @@
-var mnemonic = "skin north tonight whip depend thunder donkey middle under bullet kid repeat";
+var mnemonic = "upper reveal pink squirrel hollow online bitter critic rebuild parent oxygen neck";

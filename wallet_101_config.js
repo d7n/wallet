@@ -1,1 +1,1 @@
-var mnemonic = "addict crowd wash stem issue tumble room mosquito time pact deer pretty";
+var mnemonic = "alien price strong you color trim wheat fee eye ginger there rapid";

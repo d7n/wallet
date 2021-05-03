@@ -1,1 +1,1 @@
-var mnemonic = "symbol sister obtain hawk melody other awake leopard paddle wild sugar melt";
+var mnemonic = "future ride unknown crane drastic planet chronic dentist nest lawsuit opinion despair";

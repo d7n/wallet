@@ -1,1 +1,1 @@
-var mnemonic = "wage design reward unusual return because spend monkey hedgehog put ladder pilot";
+var mnemonic = "crazy jacket wheel claim arch settle senior cart copy draw whip kid";

@@ -1,1 +1,1 @@
-var mnemonic = "taste sentence please vehicle muffin hero permit expand matter hour novel torch";
+var mnemonic = "arena shiver shadow ice chaos twelve casino army carry disagree awesome blanket";

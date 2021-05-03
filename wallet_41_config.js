@@ -1,1 +1,1 @@
-var mnemonic = "beach sun share flight excite envelope among myself smart twin floor alpha";
+var mnemonic = "private jar chronic winner spawn tail tenant size permit argue daughter youth";

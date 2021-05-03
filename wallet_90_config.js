@@ -1,1 +1,1 @@
-var mnemonic = "april virus effort empty drum best finger fog stumble library thunder blush";
+var mnemonic = "few indicate supply message record alarm ripple wide case circle matrix napkin";

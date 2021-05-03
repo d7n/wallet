@@ -1,1 +1,1 @@
-var mnemonic = "blossom hollow cancel odor gift expect market alarm stand warm spider unable";
+var mnemonic = "stock snake upgrade actual initial bracket solid cinnamon surge flame essence public";

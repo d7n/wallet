@@ -1,1 +1,1 @@
-var mnemonic = "cradle pistol force night opinion cat cry amateur depart panda mule chimney";
+var mnemonic = "beauty story jelly network celery can cheese cram flock aim gym abstract";

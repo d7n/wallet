@@ -1,1 +1,1 @@
-var mnemonic = "patient reveal city accuse movie into grace name boost dust issue ladder";
+var mnemonic = "humble final luxury pool sauce into route surge border stomach forward club";

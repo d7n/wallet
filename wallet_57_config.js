@@ -1,1 +1,1 @@
-var mnemonic = "expire glass essay mean sadness south link inherit assist lady victory immune";
+var mnemonic = "finish trophy bright myself mail retire satisfy pride face jungle huge three";

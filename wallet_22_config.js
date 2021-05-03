@@ -1,1 +1,1 @@
-var mnemonic = "tongue admit clog sense riot clarify such thing discover rate swamp trial";
+var mnemonic = "destroy magnet frequent liberty quick excess occur boil alcohol owner salute output";

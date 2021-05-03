@@ -1,1 +1,1 @@
-var mnemonic = "cloth illness resource topic uphold antenna little donor verb can bronze neglect";
+var mnemonic = "gallery pyramid rookie negative high uncle swing gentle stock goat decrease poem";

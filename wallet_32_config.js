@@ -1,1 +1,1 @@
-var mnemonic = "erosion depth helmet hurt fresh drum anchor list poet negative coyote team";
+var mnemonic = "blush sword street rocket grit sing trumpet comfort light danger model tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "reason dwarf wheat labor room sniff icon fence curious library daring thought";
+var mnemonic = "private toast frozen edit brass aim beach screen ring road pudding switch";

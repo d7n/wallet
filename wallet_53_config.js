@@ -1,1 +1,1 @@
-var mnemonic = "orchard example asset large bundle push crater puzzle insect dial client primary";
+var mnemonic = "gadget call crazy leaf gravity swap learn asset mechanic bronze runway mouse";

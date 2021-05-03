@@ -1,1 +1,1 @@
-var mnemonic = "nation black people dwarf tortoise peace tobacco picnic harsh gold poem sauce";
+var mnemonic = "dream lawsuit pitch venue verb odor thought connect travel team check require";

@@ -1,1 +1,1 @@
-var mnemonic = "glove car oyster access remember goose large island proof fade ladder very";
+var mnemonic = "wonder infant purse tumble online output scan lunch valley any summer transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "track basket era simple chief brass slam pulse caution vicious utility sleep";
+var mnemonic = "spirit mountain gadget negative busy claw uncle photo arrange melody pulp neither";

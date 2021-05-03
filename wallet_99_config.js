@@ -1,1 +1,1 @@
-var mnemonic = "island useful innocent dinner firm slam flash surprise hollow swear jeans dilemma";
+var mnemonic = "neglect fashion bargain razor license surround fork style aware judge umbrella turn";

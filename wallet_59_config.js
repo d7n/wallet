@@ -1,1 +1,1 @@
-var mnemonic = "lake stable question smooth into swallow plate lazy gold adult episode until";
+var mnemonic = "kiss purchase time leisure process shaft draft kite bar order cushion ticket";

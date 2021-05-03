@@ -1,1 +1,1 @@
-var mnemonic = "wet cradle addict curve fame oblige legal party pool boy music vanish";
+var mnemonic = "yellow forget physical rally pact method nerve cactus author answer click doll";

@@ -1,1 +1,1 @@
-var mnemonic = "rich injury index whisper gallery path relief student right vicious pause security";
+var mnemonic = "island error pluck exchange retreat find then talent ramp debate cause cash";

@@ -1,1 +1,1 @@
-var mnemonic = "medal involve ostrich fiber champion wash saddle main injury help motor unfair";
+var mnemonic = "inch lazy paper sense device keep talk blanket argue ramp crack canoe";

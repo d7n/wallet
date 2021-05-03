@@ -1,1 +1,1 @@
-var mnemonic = "produce balcony leaf green tell primary cage witness rabbit bulk group risk";
+var mnemonic = "live job tattoo tourist divide category raven label program drive medal vendor";

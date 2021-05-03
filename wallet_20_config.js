@@ -1,1 +1,1 @@
-var mnemonic = "soldier often unique someone still elbow buyer unknown patch usual shy sibling";
+var mnemonic = "slice puzzle tank either adapt elephant great output park antenna pass consider";

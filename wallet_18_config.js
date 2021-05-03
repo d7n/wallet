@@ -1,1 +1,1 @@
-var mnemonic = "dream gravity hospital boat anger still cannon neck vibrant purpose cram spike";
+var mnemonic = "exercise stove unknown bounce island call flock lesson soccer cry transfer defense";

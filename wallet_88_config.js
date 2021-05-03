@@ -1,1 +1,1 @@
-var mnemonic = "power fashion gasp calm muffin please expose indicate bonus display random access";
+var mnemonic = "spike ranch shuffle poet avocado soup few latin universe debris fan east";

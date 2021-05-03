@@ -1,1 +1,1 @@
-var mnemonic = "volume gap bottom push angry must earth just whale obey solve off";
+var mnemonic = "plate abstract coconut festival violin vacant when fitness tragic common secret wood";

@@ -1,1 +1,1 @@
-var mnemonic = "vague frog grass choose disease fuel mansion parade liar table certain piano";
+var mnemonic = "bench faith borrow comfort pottery luxury barrel crush stool cancel skin industry";

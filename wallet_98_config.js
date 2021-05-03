@@ -1,1 +1,1 @@
-var mnemonic = "opera emotion matter razor express tape ozone addict call suffer old flush";
+var mnemonic = "asthma milk neutral border lawn hello demise sustain august dilemma rival wear";

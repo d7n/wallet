@@ -1,1 +1,1 @@
-var mnemonic = "egg social off owner this enable price train reject absurd estate normal";
+var mnemonic = "clutch bike oppose recall exile garbage scatter inhale tired soup obtain stay";

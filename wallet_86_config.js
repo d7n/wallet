@@ -1,1 +1,1 @@
-var mnemonic = "feature stage oak extra fresh army core note pelican bright cloud destroy";
+var mnemonic = "waste journey token tiny hat base carry recipe minor utility top short";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy poet skate distance moral spawn nerve jelly fiber artwork menu car";
+var mnemonic = "loop inmate gallery similar recall tell visit high merge crater party history";

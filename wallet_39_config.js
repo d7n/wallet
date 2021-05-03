@@ -1,1 +1,1 @@
-var mnemonic = "food very rebel spread volcano cactus frame about option lunch famous rather";
+var mnemonic = "wash spare fortune duck dinosaur armor stumble bacon dolphin ride fuel recall";

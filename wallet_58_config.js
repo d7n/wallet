@@ -1,1 +1,1 @@
-var mnemonic = "tiny physical swing toast love pulse spawn devote lyrics faculty enlist sibling";
+var mnemonic = "thought coast blue order crystal clarify gate jar valve lonely cloud wall";

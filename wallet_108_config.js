@@ -1,1 +1,1 @@
-var mnemonic = "rent behave small glue blast silver august hollow pig fame promote faculty";
+var mnemonic = "empty gaze wheel frozen raw that sock glue yellow error betray canoe";

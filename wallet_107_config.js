@@ -1,1 +1,1 @@
-var mnemonic = "accident frost seed pledge recycle torch hood wasp rubber poet banana correct";
+var mnemonic = "fatal run atom divide pilot detail test yard knock curve confirm burst";

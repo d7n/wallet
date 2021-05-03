@@ -1,1 +1,1 @@
-var mnemonic = "inner pause tornado spell minor maze slow risk avocado letter reject cat";
+var mnemonic = "today artwork gauge buddy swallow always group task stone mushroom scatter metal";

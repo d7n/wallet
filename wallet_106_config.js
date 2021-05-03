@@ -1,1 +1,1 @@
-var mnemonic = "world must pear danger crazy spoon shift loop airport palm stove dilemma";
+var mnemonic = "song system term twice panther found object giraffe sword ahead lake congress";

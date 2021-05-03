@@ -1,1 +1,1 @@
-var mnemonic = "ostrich crew miracle siege hat today direct tragic ozone patrol cruel diet";
+var mnemonic = "sense company assault recall spoon squirrel actor capable cannon beauty wage shield";

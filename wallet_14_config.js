@@ -1,1 +1,1 @@
-var mnemonic = "rifle slide monitor more endless tissue ice spoon tool adjust urban source";
+var mnemonic = "network hub review asthma summer festival angle fiber fashion ocean truly also";

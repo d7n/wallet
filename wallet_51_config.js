@@ -1,1 +1,1 @@
-var mnemonic = "seed pretty license legal bar salmon bridge process mobile wine rhythm expose";
+var mnemonic = "thumb hazard kick region width also mask stumble snack grid decade olive";

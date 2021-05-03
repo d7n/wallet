@@ -1,1 +1,1 @@
-var mnemonic = "ranch churn able opinion rotate mad outer right shield immense dry glory";
+var mnemonic = "produce vague tattoo comfort movie teach vehicle exclude indicate tube lottery leisure";

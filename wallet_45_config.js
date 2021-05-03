@@ -1,1 +1,1 @@
-var mnemonic = "miss tumble tip marriage enemy replace pause legal civil file impulse sponsor";
+var mnemonic = "reveal tone response mobile crop husband poverty sock captain juice bubble hour";

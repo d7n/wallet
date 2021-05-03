@@ -1,1 +1,1 @@
-var mnemonic = "flavor swift million account gesture oil regular fresh invest math raw throw";
+var mnemonic = "squirrel truly forest eager theme canyon unaware bar clever latin vault image";
