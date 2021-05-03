@@ -1,1 +1,1 @@
-var mnemonic = "timber awkward trick chuckle faint kite faith rescue diary gold seven vapor";
+var mnemonic = "else hair legend whip return polar strike summer breeze apology lizard entry";

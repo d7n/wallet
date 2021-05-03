@@ -1,1 +1,1 @@
-var mnemonic = "panic brass noble shiver bottom wink much baby search century tube glass";
+var mnemonic = "abstract anger range sunny shell despair rent bulb lab injury special make";

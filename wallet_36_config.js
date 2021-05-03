@@ -1,1 +1,1 @@
-var mnemonic = "mention body argue famous ivory slide toward basket razor giggle regular vital";
+var mnemonic = "gadget distance transfer dignity source pull cash gossip require pyramid praise wheat";

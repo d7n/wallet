@@ -1,1 +1,1 @@
-var mnemonic = "mind absurd tip cousin retire finger shop crush cattle credit inquiry catch";
+var mnemonic = "prefer happy grocery tired claw artist diet reunion frame habit one seminar";

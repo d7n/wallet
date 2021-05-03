@@ -1,1 +1,1 @@
-var mnemonic = "awkward audit glimpse auction sauce sword right neutral blur sadness walnut tissue";
+var mnemonic = "sad audit volume gospel cement book science ethics bless brand grab real";

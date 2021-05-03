@@ -1,1 +1,1 @@
-var mnemonic = "animal patient future sea hidden rookie buzz number sport coral valid raise";
+var mnemonic = "planet repair left victory wide adult marble glow hint clap vocal business";

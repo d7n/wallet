@@ -1,1 +1,1 @@
-var mnemonic = "attack stay matrix make depart inspire satisfy concert depend better earn uniform";
+var mnemonic = "mass piano unfair aware crawl soon fly spider skirt broom polar oblige";

@@ -1,1 +1,1 @@
-var mnemonic = "okay someone awake misery elder high holiday mom remember stadium pilot deer";
+var mnemonic = "engage shy core kangaroo panther angry asset novel vote bachelor frog cereal";

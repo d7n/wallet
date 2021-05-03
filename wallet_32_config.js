@@ -1,1 +1,1 @@
-var mnemonic = "beauty hawk exact collect advance laundry butter lend caution call bullet supreme";
+var mnemonic = "inhale spatial apart deputy lyrics fun wave blame undo walnut pretty project";

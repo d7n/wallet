@@ -1,1 +1,1 @@
-var mnemonic = "earn method steak pitch rate swift scissors flat ski avocado toe odor";
+var mnemonic = "notable execute reform work junior token inch tenant embody wonder fold palm";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery valley shoot immense humble quit fence sister door love struggle elegant";
+var mnemonic = "correct hire venue mask amount face bring risk obvious month nasty during";

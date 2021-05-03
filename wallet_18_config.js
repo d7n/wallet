@@ -1,1 +1,1 @@
-var mnemonic = "brief cat crisp galaxy release silk laugh violin spoil slogan virtual process";
+var mnemonic = "depart prepare smart pioneer grass amused lion resist advice patrol travel when";

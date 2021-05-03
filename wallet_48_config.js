@@ -1,1 +1,1 @@
-var mnemonic = "sock body hip verb acoustic tape detail spend month cannon bronze vanish";
+var mnemonic = "viable message upper transfer six pioneer deny thought seed aunt body fiscal";

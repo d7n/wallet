@@ -1,1 +1,1 @@
-var mnemonic = "mesh later obey pen verb dumb abandon garment dove miracle quit art";
+var mnemonic = "never spot twelve adult place short snack super illegal hire afford wall";

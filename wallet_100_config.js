@@ -1,1 +1,1 @@
-var mnemonic = "intact list enact anchor sail minute medal wave anchor craft gown spell";
+var mnemonic = "afraid acquire rough thing honey say play frequent chronic guide crouch dial";

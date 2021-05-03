@@ -1,1 +1,1 @@
-var mnemonic = "outside plunge allow today blossom bonus senior tilt mind frequent gauge bronze";
+var mnemonic = "segment legend dish round manual park crane grid midnight demand develop flock";

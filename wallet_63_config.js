@@ -1,1 +1,1 @@
-var mnemonic = "shrug message ill brand van quiz harsh desert panic snap clown caught";
+var mnemonic = "creek crew gold oil coin slam across air crouch valley promote country";

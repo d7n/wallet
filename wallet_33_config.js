@@ -1,1 +1,1 @@
-var mnemonic = "discover rug wing sort wrong eternal ladder steel hospital latin cement toast";
+var mnemonic = "like drift exercise speak release resist trophy arch project recipe wage pluck";

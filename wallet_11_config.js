@@ -1,1 +1,1 @@
-var mnemonic = "front dynamic drift inquiry diesel road chat unhappy math immune scene glare";
+var mnemonic = "safe valve harvest dentist pave tool glad tornado tragic session helmet owner";

@@ -1,1 +1,1 @@
-var mnemonic = "never hair turtle tackle leave brave adapt flower live miracle fabric right";
+var mnemonic = "identify insane lyrics kid recall certain glide trap appear film file cup";

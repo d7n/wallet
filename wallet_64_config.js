@@ -1,1 +1,1 @@
-var mnemonic = "cup faculty love stay address picture regular inside arctic rabbit artwork palm";
+var mnemonic = "brick cause bottom figure leave surprise symptom draw siren matrix secret rigid";

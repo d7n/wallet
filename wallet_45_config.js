@@ -1,1 +1,1 @@
-var mnemonic = "evidence magnet wisdom green super face bright parrot silly never vast gossip";
+var mnemonic = "coin aspect round attitude uncover silk surround mandate champion filter frozen approve";

@@ -1,1 +1,1 @@
-var mnemonic = "theory pull tip second pilot spike slab disagree melt napkin cat acid";
+var mnemonic = "bless power volcano glare best group obtain puppy pottery gun oblige network";

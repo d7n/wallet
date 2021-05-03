@@ -1,1 +1,1 @@
-var mnemonic = "reveal flight close melody news raven pelican turkey device medal helmet size";
+var mnemonic = "thrive identify close opinion shop sibling culture child couch live immense toward";

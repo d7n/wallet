@@ -1,1 +1,1 @@
-var mnemonic = "question beach phone monitor stuff rack dawn together example sting congress review";
+var mnemonic = "century wheat course comfort paper bid sample huge dream spell grid right";

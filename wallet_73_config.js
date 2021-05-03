@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin reject rare lesson siege river cute wine maze approve jewel target";
+var mnemonic = "dress angle act dynamic impulse clean yellow provide tube math reveal oil";

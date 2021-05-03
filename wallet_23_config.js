@@ -1,1 +1,1 @@
-var mnemonic = "alert never rebel village execute basic sample jaguar pulse address report almost";
+var mnemonic = "heart team very surface blade pill hidden yard cram exercise mother history";

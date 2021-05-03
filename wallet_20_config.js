@@ -1,1 +1,1 @@
-var mnemonic = "frequent execute someone knee knife hero junior trip screen myth agent true";
+var mnemonic = "swift baby mimic wear mix document quality trigger cook burst banana vessel";

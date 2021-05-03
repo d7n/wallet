@@ -1,1 +1,1 @@
-var mnemonic = "cradle frown speed lumber legal state must dignity attack cover unable vast";
+var mnemonic = "proof own shift rocket mimic powder world develop breeze turn sunset hundred";

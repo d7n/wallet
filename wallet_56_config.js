@@ -1,1 +1,1 @@
-var mnemonic = "velvet hood sail clutch alarm mail acquire language hybrid castle rifle enrich";
+var mnemonic = "crater combine lemon legend mesh oxygen adapt shell drink slot captain sorry";

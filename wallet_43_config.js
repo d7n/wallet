@@ -1,1 +1,1 @@
-var mnemonic = "annual sail decade random gate curious industry orphan dust palm chat hub";
+var mnemonic = "fluid balcony better tail stool dizzy sister deposit sick coach outdoor maple";

@@ -1,1 +1,1 @@
-var mnemonic = "much hub wagon dolphin hybrid bring volcano cigar script wear actual program";
+var mnemonic = "slender sister frozen kangaroo skate beach foster shed auto horse gospel diamond";

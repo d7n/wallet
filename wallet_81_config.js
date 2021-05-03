@@ -1,1 +1,1 @@
-var mnemonic = "swift original radio term viable wine audit roast whip define worth merge";
+var mnemonic = "limb trust feed renew aunt hybrid feature near mutual snake reform critic";

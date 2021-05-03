@@ -1,1 +1,1 @@
-var mnemonic = "senior slab charge border boat hammer express float sing wrap group spend";
+var mnemonic = "educate sort wall item barely silk confirm art script knock either useless";

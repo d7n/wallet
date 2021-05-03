@@ -1,1 +1,1 @@
-var mnemonic = "alpha width eight admit myself surround cousin also wonder pen property comfort";
+var mnemonic = "strong plug seven memory quarter digital flash twice diamond gate blood voyage";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow cash quality middle trumpet pilot zone blind retire stereo mom insect";
+var mnemonic = "follow spoil client just wear advice travel amused kid sibling soup path";

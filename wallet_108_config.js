@@ -1,1 +1,1 @@
-var mnemonic = "exact gaze brown label client night job vivid dose bubble since romance";
+var mnemonic = "arena blood equip grab crystal mobile rocket side exercise fatigue dumb grab";

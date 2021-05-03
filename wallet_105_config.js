@@ -1,1 +1,1 @@
-var mnemonic = "antenna embark common floor divorce soul series cinnamon surge few kitten actress";
+var mnemonic = "direct adapt execute flower affair clown essence risk lunch recycle thumb situate";

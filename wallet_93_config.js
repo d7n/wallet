@@ -1,1 +1,1 @@
-var mnemonic = "early code trade garbage glory neck sponsor force pole car treat gentle";
+var mnemonic = "husband asthma solar voice inner enroll act uncover title print black size";

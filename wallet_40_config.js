@@ -1,1 +1,1 @@
-var mnemonic = "into hawk long satoshi cliff shiver inquiry believe cool month wage hover";
+var mnemonic = "sound retire old delay denial invest imitate blade note van hockey short";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel flame dune leaf amount tortoise armor dad drastic uncover dilemma fetch";
+var mnemonic = "unhappy attack pumpkin wire wall noise art lounge satoshi unlock can kingdom";

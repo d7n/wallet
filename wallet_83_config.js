@@ -1,1 +1,1 @@
-var mnemonic = "veteran flash calm utility awkward behind ostrich lift pottery uphold laundry trust";
+var mnemonic = "rubber tide dragon brand garden vehicle squirrel mimic spend lunch asset fat";

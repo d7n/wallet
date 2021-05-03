@@ -1,1 +1,1 @@
-var mnemonic = "book happy thrive injury clerk north rebel include shiver blanket into weather";
+var mnemonic = "habit inhale fuel engage color message allow parent deer remove luxury attack";

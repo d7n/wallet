@@ -1,1 +1,1 @@
-var mnemonic = "loyal fox fun breeze donate upon fold illness assist raccoon foil debate";
+var mnemonic = "old oak hard shrug twenty evoke vivid title network place fetch conduct";

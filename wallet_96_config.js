@@ -1,1 +1,1 @@
-var mnemonic = "inmate guide object charge never monitor valley social assault flight win paddle";
+var mnemonic = "ten ready tilt name okay yellow wild sniff opinion when snap glimpse";

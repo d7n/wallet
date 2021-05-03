@@ -1,1 +1,1 @@
-var mnemonic = "fitness safe myself strike sunny pepper twist timber guide unable scheme hour";
+var mnemonic = "glare liquid combine salon noodle suit teach clinic tortoise pair auto broken";

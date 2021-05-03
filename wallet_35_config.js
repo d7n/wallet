@@ -1,1 +1,1 @@
-var mnemonic = "clap nest wool lawsuit unusual cancel grit rookie soft raccoon twenty jeans";
+var mnemonic = "horse gas knock wash unveil kitten mechanic labor double coast try split";

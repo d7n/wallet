@@ -1,1 +1,1 @@
-var mnemonic = "modify current attack castle fancy pattern pepper include festival media elite loud";
+var mnemonic = "erosion sniff beach much wonder garbage knife course confirm radio unaware dress";

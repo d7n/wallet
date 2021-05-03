@@ -1,1 +1,1 @@
-var mnemonic = "actress pony identify fine enlist sunset maple bread garden rhythm govern album";
+var mnemonic = "promote bulb party animal poet cinnamon mechanic loop audit awake object avocado";

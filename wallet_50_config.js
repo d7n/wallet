@@ -1,1 +1,1 @@
-var mnemonic = "rib charge road exotic illegal describe lottery maximum trap trick occur segment";
+var mnemonic = "gossip lock fish joke inch team vanish apart light absent garment lumber";

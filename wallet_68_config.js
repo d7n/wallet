@@ -1,1 +1,1 @@
-var mnemonic = "vast envelope beauty release excite half lava stumble thing quiz daring mimic";
+var mnemonic = "riot weapon scrub kangaroo reveal almost badge report olympic thought marine spare";

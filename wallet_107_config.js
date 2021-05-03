@@ -1,1 +1,1 @@
-var mnemonic = "rookie absorb music alpha fringe volume lava knee sponsor drop owner into";
+var mnemonic = "sausage together next derive urge actual initial dentist aware similar stuff mirror";

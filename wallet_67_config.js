@@ -1,1 +1,1 @@
-var mnemonic = "agree hurdle distance choice powder race virtual knife chalk pink daring uniform";
+var mnemonic = "feed mimic sudden bamboo ranch hen finger century result confirm brass forum";

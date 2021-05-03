@@ -1,1 +1,1 @@
-var mnemonic = "trumpet valve lonely perfect truck empty road canvas find hospital movie coil";
+var mnemonic = "reform olympic where assist bus ramp west divorce wolf city ribbon suspect";

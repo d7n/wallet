@@ -1,1 +1,1 @@
-var mnemonic = "crucial alcohol defy field knife hotel fish marriage tattoo success topple shell";
+var mnemonic = "use report south pioneer kiss filter question skull common erupt fabric pupil";

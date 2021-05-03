@@ -1,1 +1,1 @@
-var mnemonic = "fossil alter mention fold absorb grain debris recycle winner coffee depth hybrid";
+var mnemonic = "trip mask coyote clap main moment apple deny naive distance bitter tilt";

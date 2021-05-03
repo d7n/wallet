@@ -1,1 +1,1 @@
-var mnemonic = "correct barely lawsuit health devote lend remember deputy vintage people warrior impulse";
+var mnemonic = "course stomach identify slot pride clap junior sister harvest face crunch bag";

@@ -1,1 +1,1 @@
-var mnemonic = "vital dress approve denial snap loop option rebel silly lunch off before";
+var mnemonic = "two fruit weasel license melt child monkey brief face cube blush brain";

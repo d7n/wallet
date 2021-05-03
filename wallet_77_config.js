@@ -1,1 +1,1 @@
-var mnemonic = "lady page drastic medal slot only dance panic agree stone ethics grit";
+var mnemonic = "farm tonight jump dentist prefer worry paddle boring project venture cool book";

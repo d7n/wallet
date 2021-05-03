@@ -1,1 +1,1 @@
-var mnemonic = "mule setup travel wire domain pistol produce boil volume usage rather suspect";
+var mnemonic = "flight monkey own wreck drastic zebra correct test vendor cruel door length";

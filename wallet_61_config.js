@@ -1,1 +1,1 @@
-var mnemonic = "letter lecture excess fabric off next jump blame mask idea nest wheat";
+var mnemonic = "ostrich tomato major surface shift isolate squirrel prefer stove because stand equip";

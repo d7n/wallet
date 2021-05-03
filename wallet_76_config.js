@@ -1,1 +1,1 @@
-var mnemonic = "little blossom bracket film dove board under buzz float lady phrase denial";
+var mnemonic = "search aunt entire liar sweet twice month quiz distance inhale umbrella degree";

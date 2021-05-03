@@ -1,1 +1,1 @@
-var mnemonic = "powder twice noble waste finish urge idea vintage acquire supply hidden auto";
+var mnemonic = "ticket price someone sun leg essay average pistol setup gun galaxy stick";

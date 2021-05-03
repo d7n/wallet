@@ -1,1 +1,1 @@
-var mnemonic = "loud victory cushion adult impact honey knock lottery clutch what stomach off";
+var mnemonic = "side best silk mandate theme beef bunker castle swing outside royal hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "word slogan obscure bless actress trend around present capable umbrella poverty federal";
+var mnemonic = "fatigue hand paper lottery way kind coil walnut hub disorder bulb vanish";

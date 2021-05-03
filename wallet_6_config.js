@@ -1,1 +1,1 @@
-var mnemonic = "stable busy armed couch follow second often engine memory vintage shoot permit";
+var mnemonic = "cricket fury flight jacket shock disorder ceiling joke economy sense behave crew";

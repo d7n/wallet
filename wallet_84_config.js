@@ -1,1 +1,1 @@
-var mnemonic = "health law cheese drama pond three fragile ostrich shoot tumble yellow monkey";
+var mnemonic = "food rival draft unable pill course improve pepper night glimpse citizen conduct";

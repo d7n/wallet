@@ -1,1 +1,1 @@
-var mnemonic = "label solar dial expect type pulse gap rug good museum meadow cycle";
+var mnemonic = "another midnight craft another music bus twin slow mechanic coconut rural behave";

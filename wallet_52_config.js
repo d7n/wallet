@@ -1,1 +1,1 @@
-var mnemonic = "hour trumpet patient release change method dwarf phone entry ordinary resist stool";
+var mnemonic = "mercy job donor senior tray arrive record royal grant mix candy chat";

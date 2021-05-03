@@ -1,1 +1,1 @@
-var mnemonic = "nothing swarm success joke guess arrive obtain brother adult wild answer expose";
+var mnemonic = "silent dice area hello time olive rent cart suspect turtle actual swear";

@@ -1,1 +1,1 @@
-var mnemonic = "spend bacon produce display source fire bubble once token tenant young autumn";
+var mnemonic = "juice merry decline unaware crucial aim answer fame mass doctor entry weekend";

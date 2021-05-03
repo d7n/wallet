@@ -1,1 +1,1 @@
-var mnemonic = "install puzzle female couch unlock kangaroo carbon member blur fat intact maze";
+var mnemonic = "ketchup discover field pluck pony canvas fun stumble sniff only photo enter";

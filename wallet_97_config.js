@@ -1,1 +1,1 @@
-var mnemonic = "bless inspire gaze pave trumpet whisper twenty flock wide major laugh ready";
+var mnemonic = "boat photo eyebrow magic help van chat hero inflict orange since extend";

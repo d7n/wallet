@@ -1,1 +1,1 @@
-var mnemonic = "gate sunny network cable syrup pipe lucky kit crouch click bamboo federal";
+var mnemonic = "slab april model write quick distance novel test step ship ticket donkey";

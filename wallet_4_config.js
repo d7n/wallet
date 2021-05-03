@@ -1,1 +1,1 @@
-var mnemonic = "energy wagon giggle rude grab suggest drift tool burst file patrol fabric";
+var mnemonic = "front bachelor name trip reopen wrap final resemble razor situate tilt endless";

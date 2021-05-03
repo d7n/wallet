@@ -1,1 +1,1 @@
-var mnemonic = "imitate ramp employ cream worry drama region awesome broccoli exotic prison retire";
+var mnemonic = "hover age device good flight essence party liberty same result diesel scrub";

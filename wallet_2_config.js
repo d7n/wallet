@@ -1,1 +1,1 @@
-var mnemonic = "next fuel mean announce puppy direct punch relax please wrong boss siren";
+var mnemonic = "exercise during tower dizzy keen giraffe tool benefit bundle stadium urge reflect";

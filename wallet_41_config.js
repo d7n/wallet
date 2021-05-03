@@ -1,1 +1,1 @@
-var mnemonic = "pond toe lucky index echo six endless slice neither ladder chalk robust";
+var mnemonic = "century require believe grit because panther what coin unable once genius speak";

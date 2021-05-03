@@ -1,1 +1,1 @@
-var mnemonic = "hospital shaft initial long pull travel disease reward credit project great trim";
+var mnemonic = "trade bone fly impact helmet glory hazard sock dinner rate slot spread";

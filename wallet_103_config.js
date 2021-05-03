@@ -1,1 +1,1 @@
-var mnemonic = "duck surge tobacco trust pass disease follow urge luxury lady reject give";
+var mnemonic = "wagon frequent lecture enable man first force attract base approve above lift";

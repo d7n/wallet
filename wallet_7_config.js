@@ -1,1 +1,1 @@
-var mnemonic = "sail world busy husband awesome fan issue spread keen faith document stick";
+var mnemonic = "season divert edit connect cat civil garden youth aspect flee poem country";

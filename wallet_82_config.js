@@ -1,1 +1,1 @@
-var mnemonic = "spot until sorry bubble unit fire pudding sunny output foster grunt thunder";
+var mnemonic = "load topple begin inch lunch adjust true attack brief pig tree tool";

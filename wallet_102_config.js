@@ -1,1 +1,1 @@
-var mnemonic = "child solid soul stand brief lottery donor family message document aisle veteran";
+var mnemonic = "cook hour zero season fun joy fire margin path dose violin rice";
