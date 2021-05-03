@@ -1,1 +1,1 @@
-var mnemonic = "creek cruise core liquid business brave never cost direct crack outdoor little";
+var mnemonic = "impose inhale target potato work gift theme blame over flush phrase invest";

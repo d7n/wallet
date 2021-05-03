@@ -1,1 +1,1 @@
-var mnemonic = "rib unusual civil essay ridge alert custom waste horse film debate cash";
+var mnemonic = "card barely cloth barrel fish reveal shadow feel unhappy dove cabin cream";

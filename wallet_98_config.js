@@ -1,1 +1,1 @@
-var mnemonic = "fall chef learn earn grid warm verify scissors decrease riot guess action";
+var mnemonic = "people salt run vessel hole spring genius farm safe still harvest toe";

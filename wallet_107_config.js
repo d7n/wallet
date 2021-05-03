@@ -1,1 +1,1 @@
-var mnemonic = "rebel finish degree drum angry chapter trend hunt river custom face purse";
+var mnemonic = "bargain ten feed faith mountain transfer rescue grass mountain sniff profit adult";

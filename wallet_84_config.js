@@ -1,1 +1,1 @@
-var mnemonic = "intact rival cherry duty rate appear marble method ahead fabric icon blood";
+var mnemonic = "circle ivory bronze prison canoe nut vote page nose bus false train";

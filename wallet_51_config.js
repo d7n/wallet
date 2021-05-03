@@ -1,1 +1,1 @@
-var mnemonic = "frozen dignity slim comic little cute vendor loud rail casino admit wolf";
+var mnemonic = "enable early tragic brass shrimp purity test legend machine fitness oval canal";

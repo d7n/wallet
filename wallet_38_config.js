@@ -1,1 +1,1 @@
-var mnemonic = "letter trash general luggage motion away chef chapter admit milk want obey";
+var mnemonic = "pond cloud top harbor swap giraffe surprise speed letter crouch tent guide";

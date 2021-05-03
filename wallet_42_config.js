@@ -1,1 +1,1 @@
-var mnemonic = "food camera kangaroo transfer also modify era visual car worth barrel assault";
+var mnemonic = "evoke december amused flame where drill innocent must advice cactus hidden image";

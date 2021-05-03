@@ -1,1 +1,1 @@
-var mnemonic = "crop estate spike shop brown glory offer daughter moon zebra pencil person";
+var mnemonic = "fan anxiety dress novel expand toy cruel machine wave ill attract aunt";

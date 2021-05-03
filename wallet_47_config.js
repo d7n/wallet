@@ -1,1 +1,1 @@
-var mnemonic = "hair diamond sugar border romance leopard taste segment can danger despair pluck";
+var mnemonic = "write spawn wrestle name good torch engine couple symbol because flavor absent";

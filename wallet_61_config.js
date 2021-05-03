@@ -1,1 +1,1 @@
-var mnemonic = "horror neither rib pen practice shoe audit true certain dad prevent mechanic";
+var mnemonic = "piece pool hole shiver world duck phone situate glimpse route rough gadget";

@@ -1,1 +1,1 @@
-var mnemonic = "meat relief middle invite cost public typical universe spawn rally truth dizzy";
+var mnemonic = "stairs wealth vault energy undo crowd deer dune faculty bitter future army";

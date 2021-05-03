@@ -1,1 +1,1 @@
-var mnemonic = "hat save tomato clerk exclude ritual nominee train curtain path napkin dismiss";
+var mnemonic = "leg tackle donor stone distance home decide december pyramid shove puppy radar";

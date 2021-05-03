@@ -1,1 +1,1 @@
-var mnemonic = "reject staff record tattoo photo wood artwork total coconut gain novel surprise";
+var mnemonic = "piano service couch sing senior occur margin funny source exchange uphold couple";

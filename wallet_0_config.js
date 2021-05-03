@@ -1,1 +1,1 @@
-var mnemonic = "child already quantum observe orbit again victory sail cupboard can version have";
+var mnemonic = "lonely random mesh special tonight timber basket advice weather father fashion just";

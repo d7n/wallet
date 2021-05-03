@@ -1,1 +1,1 @@
-var mnemonic = "state quality drastic rude abstract element fence grape slogan hover biology delay";
+var mnemonic = "drum recipe mimic title much home civil move square venue office margin";

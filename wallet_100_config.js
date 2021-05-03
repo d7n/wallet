@@ -1,1 +1,1 @@
-var mnemonic = "enact measure ankle deposit video spider twist anxiety voyage olympic defense donate";
+var mnemonic = "fury spice copy nurse answer poem glide wasp antique version ethics peace";

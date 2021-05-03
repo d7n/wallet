@@ -1,1 +1,1 @@
-var mnemonic = "fox day illness bean penalty check garden goddess eye replace column eager";
+var mnemonic = "pool noise sentence egg miracle trick vault snake voice thing apology special";

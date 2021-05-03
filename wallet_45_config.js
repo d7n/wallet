@@ -1,1 +1,1 @@
-var mnemonic = "bicycle engine fish helmet caution capital fine flash athlete civil hip this";
+var mnemonic = "evidence sign slush wall panic distance fitness delay mention skull lift update";

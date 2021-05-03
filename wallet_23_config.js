@@ -1,1 +1,1 @@
-var mnemonic = "kitchen view debate raise nephew phone depend simple gospel coffee advance helmet";
+var mnemonic = "tornado sign favorite quote inject trial slide cloud nest shock alter blossom";

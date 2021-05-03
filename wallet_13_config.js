@@ -1,1 +1,1 @@
-var mnemonic = "sheriff fat before drink sunset task furnace possible observe adult poverty this";
+var mnemonic = "act must hand crouch recall depart beef steel toss market gold excuse";

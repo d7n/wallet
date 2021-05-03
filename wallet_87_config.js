@@ -1,1 +1,1 @@
-var mnemonic = "trick wheel obey now seminar sketch promote discover crack amused win dish";
+var mnemonic = "pyramid cream guitar only fiscal nest million coach fall notable invite devote";

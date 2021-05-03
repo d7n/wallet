@@ -1,1 +1,1 @@
-var mnemonic = "debate combine physical bounce coast pencil clay wire fringe horse pizza same";
+var mnemonic = "spray again grief core raven save bitter style keen fatigue mountain logic";

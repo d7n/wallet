@@ -1,1 +1,1 @@
-var mnemonic = "grass float mean sugar jelly bright hazard screen before buzz excess cargo";
+var mnemonic = "level clean bulb broom speed small enjoy napkin tool camera crumble light";

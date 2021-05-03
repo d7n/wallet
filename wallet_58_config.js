@@ -1,1 +1,1 @@
-var mnemonic = "turkey merit juice rifle apology bread run beyond earn giant melt awkward";
+var mnemonic = "battle cage shed shop tiny never miracle expire fury elevator round captain";

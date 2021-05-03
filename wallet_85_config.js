@@ -1,1 +1,1 @@
-var mnemonic = "diary aspect exile avoid defense grace pistol mosquito flat hat rally diamond";
+var mnemonic = "pioneer crater pioneer sell say combine much student tumble answer coyote unable";

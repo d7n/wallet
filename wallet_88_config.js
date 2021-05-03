@@ -1,1 +1,1 @@
-var mnemonic = "prepare quantum daring menu churn spawn useless camera salt side degree together";
+var mnemonic = "area business neither unit awful siege duck process top cricket furnace need";

@@ -1,1 +1,1 @@
-var mnemonic = "gown control kite blade indicate mean remove breeze animal whisper popular atom";
+var mnemonic = "panda pulse stone planet scissors nasty ice float example denial post orbit";

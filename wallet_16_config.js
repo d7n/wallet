@@ -1,1 +1,1 @@
-var mnemonic = "client creek venture cigar proud vanish cotton differ lawn plunge veteran barrel";
+var mnemonic = "hundred govern charge mom fat legend over monitor pupil gloom install close";

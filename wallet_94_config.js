@@ -1,1 +1,1 @@
-var mnemonic = "rural plug network pulse vendor taste cousin cruise silver grow process rice";
+var mnemonic = "abstract method garment obtain hold mind explain hub suspect code escape peanut";

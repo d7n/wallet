@@ -1,1 +1,1 @@
-var mnemonic = "yard home celery decline slice federal diesel forward stumble chef observe funny";
+var mnemonic = "minimum venue fresh bulb diagram color write frozen blast consider reunion eagle";

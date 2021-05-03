@@ -1,1 +1,1 @@
-var mnemonic = "before neither vast misery during solar strike scrap zoo large act wage";
+var mnemonic = "glimpse kitten welcome unlock vault salt grab blind month bag arrive great";

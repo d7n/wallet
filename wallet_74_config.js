@@ -1,1 +1,1 @@
-var mnemonic = "mixture start pulse antenna spin antenna warm sketch park tomorrow cost uphold";
+var mnemonic = "mandate tiger skill like pencil brass dinosaur piece wisdom defense acoustic motor";

@@ -1,1 +1,1 @@
-var mnemonic = "name response alone comfort utility express submit innocent allow trash state swarm";
+var mnemonic = "jazz swallow tag print doctor prevent venue width hint rack kangaroo property";

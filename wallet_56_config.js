@@ -1,1 +1,1 @@
-var mnemonic = "toddler race market climb brush hammer huge remind aisle boy outside federal";
+var mnemonic = "sure hire collect they select earn quarter wage vintage wide screen smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "basket mad jacket obvious dash injury truck tornado taxi left sponsor idle";
+var mnemonic = "fade duck oven believe foam true blame viable syrup shoe squeeze poem";

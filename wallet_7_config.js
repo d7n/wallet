@@ -1,1 +1,1 @@
-var mnemonic = "garment rally merry identify pudding sphere royal foam ribbon kitten smart adult";
+var mnemonic = "fiscal square equip drama path bamboo donate frown stool laugh grape swear";

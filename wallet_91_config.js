@@ -1,1 +1,1 @@
-var mnemonic = "drive guilt weird lottery country badge enforce gown local dirt then mango";
+var mnemonic = "foil category relax palace bitter twelve chat cage shoot range asset arena";

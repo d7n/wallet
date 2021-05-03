@@ -1,1 +1,1 @@
-var mnemonic = "grocery effort venture they various chapter pause tissue mercy later mechanic bring";
+var mnemonic = "affair marble angle behind tribe glance exchange mail grid much hood satoshi";

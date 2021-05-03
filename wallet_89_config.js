@@ -1,1 +1,1 @@
-var mnemonic = "indicate quiz expire act file company eyebrow fox subway liberty monster ginger";
+var mnemonic = "decline thing nuclear safe bullet message diagram winter cargo rude ethics canoe";

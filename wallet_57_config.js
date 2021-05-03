@@ -1,1 +1,1 @@
-var mnemonic = "twist sad seek love snow axis slab acid immense obey mimic prevent";
+var mnemonic = "cactus slot quit write lawn real canoe gadget key trophy furnace regret";

@@ -1,1 +1,1 @@
-var mnemonic = "broom alpha nuclear parent genius east settle arena matrix work blind earn";
+var mnemonic = "clean transfer thing shuffle endless north find lobster wrap arrange add clever";

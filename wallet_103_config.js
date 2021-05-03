@@ -1,1 +1,1 @@
-var mnemonic = "chase half lonely alien supreme mom athlete rubber eagle shield penalty curtain";
+var mnemonic = "brave spin secret walnut fever record submit father guitar better extra cherry";

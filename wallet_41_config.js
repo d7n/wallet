@@ -1,1 +1,1 @@
-var mnemonic = "almost alone estate elbow flavor move hobby error build word picture letter";
+var mnemonic = "found again ticket goddess eyebrow mule village swing eager raccoon size secret";

@@ -1,1 +1,1 @@
-var mnemonic = "paper capital lottery monkey clap humble anxiety buffalo bench month abuse undo";
+var mnemonic = "uniform place theory dose cigar blanket enable sport close swarm cheap vapor";

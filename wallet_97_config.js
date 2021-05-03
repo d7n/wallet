@@ -1,1 +1,1 @@
-var mnemonic = "crush hello collect party explain car impose census unfold possible eyebrow rocket";
+var mnemonic = "shuffle tape spread exact olympic clown canyon exclude black abuse episode scan";

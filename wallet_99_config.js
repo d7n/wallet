@@ -1,1 +1,1 @@
-var mnemonic = "shrug expire owner enforce frequent exchange cute dignity maze pass journey twist";
+var mnemonic = "method buffalo message cousin total detail innocent omit claim cat volcano engage";

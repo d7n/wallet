@@ -1,1 +1,1 @@
-var mnemonic = "sort mandate ring mom humor library thumb useful own cherry junior stairs";
+var mnemonic = "town mule nice endorse almost casual problem tent arrive eyebrow wedding umbrella";

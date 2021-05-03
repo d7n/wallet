@@ -1,1 +1,1 @@
-var mnemonic = "across wink lecture prison trumpet double audit vendor afford rate note fancy";
+var mnemonic = "file arm tide juice acoustic jewel naive fox library water ahead draft";

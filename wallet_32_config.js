@@ -1,1 +1,1 @@
-var mnemonic = "infant gather alarm empower letter genius erupt oil paddle plug fury crouch";
+var mnemonic = "wall hungry aerobic kite trick ancient skate drastic upon day primary sea";

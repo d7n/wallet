@@ -1,1 +1,1 @@
-var mnemonic = "comic foil slight chair captain thing title eight wing cousin double ill";
+var mnemonic = "hawk disagree horse tobacco matrix mansion volcano humor cover nothing sport actress";

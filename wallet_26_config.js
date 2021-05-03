@@ -1,1 +1,1 @@
-var mnemonic = "refuse agree seminar inform file great coconut club shock frame enhance position";
+var mnemonic = "urban cook gold ordinary true mind stone island very tone day master";

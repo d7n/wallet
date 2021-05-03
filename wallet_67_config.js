@@ -1,1 +1,1 @@
-var mnemonic = "dry trim vendor jungle control swap coach traffic caught essay own shuffle";
+var mnemonic = "attack pudding float theory just casino front theme mercy suspect pause cave";

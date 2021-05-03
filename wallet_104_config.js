@@ -1,1 +1,1 @@
-var mnemonic = "castle super leg occur profit salute clerk steak movie coral wink sort";
+var mnemonic = "school upset poem point market ride prison whisper agree finish wild desk";

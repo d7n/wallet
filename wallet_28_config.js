@@ -1,1 +1,1 @@
-var mnemonic = "size drum embrace swamp party dash become nature erosion strong arrow general";
+var mnemonic = "gate humor actual jungle any coconut ocean type boy wheel naive region";

@@ -1,1 +1,1 @@
-var mnemonic = "spell ride worth when hobby ethics parent orange amused damage pitch join";
+var mnemonic = "produce deny fat omit weapon wise worry rifle physical library exit cherry";

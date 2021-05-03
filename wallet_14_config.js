@@ -1,1 +1,1 @@
-var mnemonic = "material achieve unit awesome pulp clerk fault blade list ripple example sponsor";
+var mnemonic = "spawn slam alone able hill wish balcony barely where convince logic hockey";

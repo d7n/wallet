@@ -1,1 +1,1 @@
-var mnemonic = "citizen waste special disagree collect tornado ripple depend thrive eyebrow yellow ethics";
+var mnemonic = "pride body under empty aunt hat second friend hundred mistake wing time";

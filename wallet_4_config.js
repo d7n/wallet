@@ -1,1 +1,1 @@
-var mnemonic = "cheap swallow ski essence vendor neck radio tower paper shallow harsh document";
+var mnemonic = "cliff uphold rice mom water rapid flush source penalty first girl cabin";

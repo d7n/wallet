@@ -1,1 +1,1 @@
-var mnemonic = "update impact shock supreme live voyage general clever afford enough effort train";
+var mnemonic = "cousin check walk label because cigar hobby devote utility casino lyrics either";

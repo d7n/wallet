@@ -1,1 +1,1 @@
-var mnemonic = "shaft math gallery acquire frog setup motor into evoke true strategy kitten";
+var mnemonic = "bid motion satisfy inner gather method ensure leaf argue transfer garage battle";

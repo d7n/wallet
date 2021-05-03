@@ -1,1 +1,1 @@
-var mnemonic = "assist scan rib that lemon faith common vibrant adapt mammal ill shadow";
+var mnemonic = "bomb tired regular nothing season antenna glue student aim father build shy";

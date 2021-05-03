@@ -1,1 +1,1 @@
-var mnemonic = "loyal repair obvious flavor warrior mesh mesh garage betray bone pepper drip";
+var mnemonic = "spin october transfer disagree glow junk pluck faint slot spider notice verify";

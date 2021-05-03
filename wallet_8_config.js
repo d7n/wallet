@@ -1,1 +1,1 @@
-var mnemonic = "focus popular lock viable erase rather spoon soccer prepare unknown indicate saddle";
+var mnemonic = "boat famous advice future just cross comic rural drip disagree piece swear";

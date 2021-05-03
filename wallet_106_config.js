@@ -1,1 +1,1 @@
-var mnemonic = "edge document wide pelican wash album guide scan oblige glue front elite";
+var mnemonic = "bread also toilet dash crash limit flock letter monkey satisfy tourist verb";

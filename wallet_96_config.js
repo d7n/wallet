@@ -1,1 +1,1 @@
-var mnemonic = "hotel radio donate wreck love dinner couch chair onion exclude picnic slogan";
+var mnemonic = "fortune broken later front gas dentist panic gorilla use range mouse shield";

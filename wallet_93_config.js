@@ -1,1 +1,1 @@
-var mnemonic = "brain obey vicious system skirt supply quick fix ticket glow gentle laugh";
+var mnemonic = "weapon live topic select embark display sadness excuse tip artwork dutch behind";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery clock column huge spice foster ancient snack rival dune box dove";
+var mnemonic = "rug rough certain laugh glory vapor random annual tomorrow sustain myself leave";

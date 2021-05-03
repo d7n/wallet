@@ -1,1 +1,1 @@
-var mnemonic = "start spread turn stock sadness consider tourist method replace logic evolve upset";
+var mnemonic = "panic trap mom patch horror similar panda rare arena return copper lyrics";

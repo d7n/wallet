@@ -1,1 +1,1 @@
-var mnemonic = "saddle private volcano strong basic faint glow kind planet actor grain right";
+var mnemonic = "shove success welcome occur final voyage side trumpet nature enter benefit solve";

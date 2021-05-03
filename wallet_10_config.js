@@ -1,1 +1,1 @@
-var mnemonic = "ginger muffin fatigue banner elbow gesture amused copper verify flat fuel announce";
+var mnemonic = "again laugh segment shoulder response tiny tube cat palm feed arch hotel";

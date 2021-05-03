@@ -1,1 +1,1 @@
-var mnemonic = "lion task athlete attract number grab wreck roast monster grant fragile tide";
+var mnemonic = "beach nothing benefit fish brush alcohol whip risk grab remember parrot inflict";

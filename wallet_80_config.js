@@ -1,1 +1,1 @@
-var mnemonic = "weapon genius north girl churn jump pumpkin survey problem reflect spatial one";
+var mnemonic = "squeeze mutual vault patch female believe seat fragile buyer lecture attend ensure";

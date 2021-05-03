@@ -1,1 +1,1 @@
-var mnemonic = "poet indicate accuse increase tag vapor wrist wood marriage purpose debate pipe";
+var mnemonic = "identify goose ride unaware age web shy creek brand ticket blouse ketchup";

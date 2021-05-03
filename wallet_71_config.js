@@ -1,1 +1,1 @@
-var mnemonic = "distance trophy theory squeeze proof humble sudden regular rail sphere inside ball";
+var mnemonic = "say spoon pet onion emotion void off boy small chase zone glory";

@@ -1,1 +1,1 @@
-var mnemonic = "nature fish scene arrange tomato pride dirt rabbit utility public innocent host";
+var mnemonic = "wool auction census text exercise amused air lend fantasy swim basket bag";

@@ -1,1 +1,1 @@
-var mnemonic = "forward dress chaos hammer neither behind figure twelve method river upgrade under";
+var mnemonic = "visa nose lumber gym share finger pelican usage control army era kingdom";

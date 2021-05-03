@@ -1,1 +1,1 @@
-var mnemonic = "pupil flee tag robot exhaust cherry flee excite soldier reveal help citizen";
+var mnemonic = "consider weather barely anger final stock fringe roast kidney dizzy crystal course";

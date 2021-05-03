@@ -1,1 +1,1 @@
-var mnemonic = "enroll dirt skin solar more mushroom version review during strategy salad corn";
+var mnemonic = "album walk rescue check party garment clip favorite sign host prize among";

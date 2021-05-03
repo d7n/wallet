@@ -1,1 +1,1 @@
-var mnemonic = "jar arm cash race diary type drip lazy city swamp neutral pause";
+var mnemonic = "flat reduce amazing link special pledge valve unknown stay black parrot glide";

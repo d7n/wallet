@@ -1,1 +1,1 @@
-var mnemonic = "awkward castle unique crowd team else relief still stem pluck clerk have";
+var mnemonic = "doll blanket dash entire world fancy group butter donate shaft gadget exit";

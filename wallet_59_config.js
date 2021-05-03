@@ -1,1 +1,1 @@
-var mnemonic = "final search relief oil horn agent clinic onion ribbon gate office galaxy";
+var mnemonic = "outer home demise worry donate shrimp rice december special across able dizzy";

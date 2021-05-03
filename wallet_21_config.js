@@ -1,1 +1,1 @@
-var mnemonic = "mixture similar always vibrant afraid citizen advice random plunge trust march tragic";
+var mnemonic = "try runway plate champion alpha luggage chair social swarm sleep remove innocent";

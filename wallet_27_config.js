@@ -1,1 +1,1 @@
-var mnemonic = "act capital render start pact bargain net arrange write vacant power airport";
+var mnemonic = "cake fever walnut annual aerobic shock tired bunker sea garment such priority";

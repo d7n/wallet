@@ -1,1 +1,1 @@
-var mnemonic = "assume strong lift naive survey jelly hen hope odor hero engine fury";
+var mnemonic = "blanket inside innocent increase diamond toddler subject ridge response brain coin cabbage";

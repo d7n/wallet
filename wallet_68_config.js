@@ -1,1 +1,1 @@
-var mnemonic = "apart increase wheel filter evidence cross bulb goose ability era sing recycle";
+var mnemonic = "urban oak copper neck cereal fragile other reveal quality august skate deer";

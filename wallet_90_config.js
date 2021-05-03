@@ -1,1 +1,1 @@
-var mnemonic = "true maze lady proud ostrich lady alien other girl month capable pretty";
+var mnemonic = "truth corn zero panther kitchen female file water among prize cost anxiety";

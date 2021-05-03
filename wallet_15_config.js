@@ -1,1 +1,1 @@
-var mnemonic = "celery invest neither still ritual response balcony turn rule priority solid large";
+var mnemonic = "pet sentence ship scare until gun enjoy fix meadow laundry enlist race";

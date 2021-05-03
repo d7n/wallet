@@ -1,1 +1,1 @@
-var mnemonic = "carbon lady lazy decade daughter onion series ship erode leopard weapon spice";
+var mnemonic = "essay gauge fragile pottery dragon help current truck october reunion comfort second";

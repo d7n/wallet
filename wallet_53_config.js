@@ -1,1 +1,1 @@
-var mnemonic = "craft creek exact common mosquito fury slice snake repeat bulb rival nice";
+var mnemonic = "coast spot essence portion diagram usage drift stable frost elephant hat offer";

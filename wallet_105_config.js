@@ -1,1 +1,1 @@
-var mnemonic = "clap spy banner number rug accident kiwi gym breeze slight neither fix";
+var mnemonic = "achieve word useless trust connect fix burger subway pledge six mammal august";

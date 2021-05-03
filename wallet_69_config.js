@@ -1,1 +1,1 @@
-var mnemonic = "until jeans pepper dumb brown valid kidney display bundle actor pill zebra";
+var mnemonic = "game trick right daring because orphan divert push frown omit giraffe student";
