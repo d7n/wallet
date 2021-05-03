@@ -1,1 +1,1 @@
-var mnemonic = "pond cloud top harbor swap giraffe surprise speed letter crouch tent guide";
+var mnemonic = "into host sauce island night smoke faculty exile chaos radio funny discover";

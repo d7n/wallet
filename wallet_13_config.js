@@ -1,1 +1,1 @@
-var mnemonic = "act must hand crouch recall depart beef steel toss market gold excuse";
+var mnemonic = "front innocent math little cycle ill stadium blush trumpet worry razor surround";

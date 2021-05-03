@@ -1,1 +1,1 @@
-var mnemonic = "fade duck oven believe foam true blame viable syrup shoe squeeze poem";
+var mnemonic = "snack inner surge poet train pass enforce already moral still cricket general";

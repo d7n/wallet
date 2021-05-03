@@ -1,1 +1,1 @@
-var mnemonic = "leg tackle donor stone distance home decide december pyramid shove puppy radar";
+var mnemonic = "method poverty chef possible produce twenty penalty access tuition brand believe noodle";

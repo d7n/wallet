@@ -1,1 +1,1 @@
-var mnemonic = "fiscal square equip drama path bamboo donate frown stool laugh grape swear";
+var mnemonic = "reunion eagle urban egg tent emerge raven bean silver feel shadow lemon";

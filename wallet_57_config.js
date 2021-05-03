@@ -1,1 +1,1 @@
-var mnemonic = "cactus slot quit write lawn real canoe gadget key trophy furnace regret";
+var mnemonic = "mammal milk assist arrange normal pear repeat soup fun palace casino west";

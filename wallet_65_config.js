@@ -1,1 +1,1 @@
-var mnemonic = "bomb tired regular nothing season antenna glue student aim father build shy";
+var mnemonic = "goat gossip omit federal acid always fashion damp betray regular jacket truly";

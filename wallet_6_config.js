@@ -1,1 +1,1 @@
-var mnemonic = "visa nose lumber gym share finger pelican usage control army era kingdom";
+var mnemonic = "endorse lamp report okay skull wide tongue random fold umbrella envelope alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve word useless trust connect fix burger subway pledge six mammal august";
+var mnemonic = "fox coast merry pizza beef sort winner trip cake luxury shove bargain";

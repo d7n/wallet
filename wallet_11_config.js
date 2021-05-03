@@ -1,1 +1,1 @@
-var mnemonic = "essay gauge fragile pottery dragon help current truck october reunion comfort second";
+var mnemonic = "disease visit oak nephew rookie lamp fix expire trouble tomato easy device";

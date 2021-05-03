@@ -1,1 +1,1 @@
-var mnemonic = "glimpse kitten welcome unlock vault salt grab blind month bag arrive great";
+var mnemonic = "merge mobile board size junior employ snow sketch wrap unit naive wine";

@@ -1,1 +1,1 @@
-var mnemonic = "circle ivory bronze prison canoe nut vote page nose bus false train";
+var mnemonic = "legend silk nest item paddle input avocado merge void moral wave taste";

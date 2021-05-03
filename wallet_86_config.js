@@ -1,1 +1,1 @@
-var mnemonic = "spin october transfer disagree glow junk pluck faint slot spider notice verify";
+var mnemonic = "clown client ill oval smoke enroll nurse slush orphan maple first diet";

@@ -1,1 +1,1 @@
-var mnemonic = "insane kind work labor symbol inspire peanut enroll usage boss adult crumble";
+var mnemonic = "vehicle ecology hold tobacco wisdom black ecology blue final lonely frozen doctor";

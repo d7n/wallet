@@ -1,1 +1,1 @@
-var mnemonic = "fade twenty fiction yard solve addict evolve derive meat trap enrich gloom";
+var mnemonic = "drift lake summer taste joke catch boil mail biology rival fat eternal";

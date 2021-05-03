@@ -1,1 +1,1 @@
-var mnemonic = "card barely cloth barrel fish reveal shadow feel unhappy dove cabin cream";
+var mnemonic = "junior neck myth fury salt nominee budget member promote shoulder analyst eternal";

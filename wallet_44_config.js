@@ -1,1 +1,1 @@
-var mnemonic = "intact rice sad pattern gather impose shove assume mind amused series fortune";
+var mnemonic = "satisfy indoor round senior polar regular shock fine mix kitten erosion pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz swallow tag print doctor prevent venue width hint rack kangaroo property";
+var mnemonic = "deer girl canyon cigar bean absorb act need wise juice theory recall";

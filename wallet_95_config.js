@@ -1,1 +1,1 @@
-var mnemonic = "file arm tide juice acoustic jewel naive fox library water ahead draft";
+var mnemonic = "trial couch unfair island disease buffalo account horn cluster ability merit wise";

@@ -1,1 +1,1 @@
-var mnemonic = "doll blanket dash entire world fancy group butter donate shaft gadget exit";
+var mnemonic = "cup indoor timber improve comfort wasp industry cost country lawsuit rookie make";

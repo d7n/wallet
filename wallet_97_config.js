@@ -1,1 +1,1 @@
-var mnemonic = "shuffle tape spread exact olympic clown canyon exclude black abuse episode scan";
+var mnemonic = "quantum foam state ceiling skull nominee egg nice insect hungry stay purse";

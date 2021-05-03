@@ -1,1 +1,1 @@
-var mnemonic = "sound era wheat joke flag horn noodle bright firm auto strategy output";
+var mnemonic = "slide mango wink shiver help notable plug wonder toss motion onion jaguar";

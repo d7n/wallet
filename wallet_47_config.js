@@ -1,1 +1,1 @@
-var mnemonic = "write spawn wrestle name good torch engine couple symbol because flavor absent";
+var mnemonic = "tonight frame elevator bullet pledge sell author donkey ill gather december snow";

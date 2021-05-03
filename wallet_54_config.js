@@ -1,1 +1,1 @@
-var mnemonic = "pool noise sentence egg miracle trick vault snake voice thing apology special";
+var mnemonic = "inspire nest until orient utility traffic relief warm silent shoulder uncle pulp";

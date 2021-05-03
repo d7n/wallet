@@ -1,1 +1,1 @@
-var mnemonic = "lonely random mesh special tonight timber basket advice weather father fashion just";
+var mnemonic = "supply weasel afford rotate coin local suggest left perfect torch pepper essence";

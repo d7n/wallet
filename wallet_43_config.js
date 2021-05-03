@@ -1,1 +1,1 @@
-var mnemonic = "album walk rescue check party garment clip favorite sign host prize among";
+var mnemonic = "enroll document media robust media employ fossil bachelor funny warfare divide basket";

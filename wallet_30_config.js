@@ -1,1 +1,1 @@
-var mnemonic = "uniform place theory dose cigar blanket enable sport close swarm cheap vapor";
+var mnemonic = "model kick work undo term explain spot pumpkin smooth chief teach cake";

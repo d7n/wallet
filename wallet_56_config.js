@@ -1,1 +1,1 @@
-var mnemonic = "sure hire collect they select earn quarter wage vintage wide screen smooth";
+var mnemonic = "treat fly fade oil squeeze best trust crumble distance outer science toast";

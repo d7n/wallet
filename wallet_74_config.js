@@ -1,1 +1,1 @@
-var mnemonic = "mandate tiger skill like pencil brass dinosaur piece wisdom defense acoustic motor";
+var mnemonic = "repair lab prefer silly leave pretty senior wisdom trust frog shove silent";

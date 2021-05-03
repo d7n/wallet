@@ -1,1 +1,1 @@
-var mnemonic = "enable early tragic brass shrimp purity test legend machine fitness oval canal";
+var mnemonic = "million hunt crack mouse spatial supreme essay crowd bench guide ramp diagram";

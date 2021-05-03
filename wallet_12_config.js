@@ -1,1 +1,1 @@
-var mnemonic = "consider weather barely anger final stock fringe roast kidney dizzy crystal course";
+var mnemonic = "there alarm jelly home huge spatial betray dinner dog lonely grass trade";

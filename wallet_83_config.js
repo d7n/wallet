@@ -1,1 +1,1 @@
-var mnemonic = "budget smart innocent easy town violin legal goose border either mixed smooth";
+var mnemonic = "inject cave across sick explain paper trouble miss glimpse minimum elephant mention";

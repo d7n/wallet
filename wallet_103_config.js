@@ -1,1 +1,1 @@
-var mnemonic = "brave spin secret walnut fever record submit father guitar better extra cherry";
+var mnemonic = "live time horror nation tooth visa cart pepper leader critic sunny mixture";

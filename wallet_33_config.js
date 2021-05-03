@@ -1,1 +1,1 @@
-var mnemonic = "soon devote fancy lake impulse suffer ensure rib record stand shoot industry";
+var mnemonic = "canvas aspect casual silver maid weapon food square wealth pear skull myself";

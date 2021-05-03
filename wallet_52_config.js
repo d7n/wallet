@@ -1,1 +1,1 @@
-var mnemonic = "minimum venue fresh bulb diagram color write frozen blast consider reunion eagle";
+var mnemonic = "still swim inner drink twice civil install ask trouble notice demise skill";

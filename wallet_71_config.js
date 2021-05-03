@@ -1,1 +1,1 @@
-var mnemonic = "say spoon pet onion emotion void off boy small chase zone glory";
+var mnemonic = "fire treat prepare valve lawn entry old venture sugar jaguar now open";

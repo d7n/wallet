@@ -1,1 +1,1 @@
-var mnemonic = "school upset poem point market ride prison whisper agree finish wild desk";
+var mnemonic = "lake will fiction virtual salt lizard spike among luggage element doll attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "truth corn zero panther kitchen female file water among prize cost anxiety";
+var mnemonic = "result wheel about science pair vicious famous rail loop blast elegant tree";

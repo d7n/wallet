@@ -1,1 +1,1 @@
-var mnemonic = "area business neither unit awful siege duck process top cricket furnace need";
+var mnemonic = "mirror glide gaze inquiry scene output ostrich east erupt faint soccer auction";

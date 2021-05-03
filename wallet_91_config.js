@@ -1,1 +1,1 @@
-var mnemonic = "foil category relax palace bitter twelve chat cage shoot range asset arena";
+var mnemonic = "syrup old lake girl chaos inquiry income bachelor source version mutual clown";

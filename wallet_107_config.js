@@ -1,1 +1,1 @@
-var mnemonic = "bargain ten feed faith mountain transfer rescue grass mountain sniff profit adult";
+var mnemonic = "include peasant entry pass survey about start expand obtain sphere dolphin accuse";

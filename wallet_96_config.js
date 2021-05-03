@@ -1,1 +1,1 @@
-var mnemonic = "fortune broken later front gas dentist panic gorilla use range mouse shield";
+var mnemonic = "simple citizen save finish tent fragile outside print pact finger venture measure";

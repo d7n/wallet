@@ -1,1 +1,1 @@
-var mnemonic = "pioneer crater pioneer sell say combine much student tumble answer coyote unable";
+var mnemonic = "resist foam idea accuse alley castle unlock latin soon brown fence time";

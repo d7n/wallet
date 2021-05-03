@@ -1,1 +1,1 @@
-var mnemonic = "another verb supreme inmate net team rice transfer clever scene tooth unique";
+var mnemonic = "plug peace stage spider physical report minimum physical more bunker vocal essence";

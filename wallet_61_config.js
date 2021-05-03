@@ -1,1 +1,1 @@
-var mnemonic = "piece pool hole shiver world duck phone situate glimpse route rough gadget";
+var mnemonic = "verb allow method crater street number industry hole alley select box weird";

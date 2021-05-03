@@ -1,1 +1,1 @@
-var mnemonic = "plug fresh labor foil task scheme point spray goat pupil boost sun";
+var mnemonic = "what convince favorite police improve approve list purchase repeat imitate gain brother";

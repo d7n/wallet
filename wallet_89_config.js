@@ -1,1 +1,1 @@
-var mnemonic = "decline thing nuclear safe bullet message diagram winter cargo rude ethics canoe";
+var mnemonic = "list marriage enhance pulp muffin lecture shift walnut mix arctic alone easy";

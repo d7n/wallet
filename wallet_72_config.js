@@ -1,1 +1,1 @@
-var mnemonic = "panic trap mom patch horror similar panda rare arena return copper lyrics";
+var mnemonic = "move scatter mix dumb tuition tired mass soccer state inspire learn primary";

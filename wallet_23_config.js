@@ -1,1 +1,1 @@
-var mnemonic = "tornado sign favorite quote inject trial slide cloud nest shock alter blossom";
+var mnemonic = "impact essay suit use have bless truck shift banner breeze sunset empty";

@@ -1,1 +1,1 @@
-var mnemonic = "urban oak copper neck cereal fragile other reveal quality august skate deer";
+var mnemonic = "laptop kit sock patient slender weather sadness volcano supply elite morning eye";

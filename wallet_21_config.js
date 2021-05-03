@@ -1,1 +1,1 @@
-var mnemonic = "try runway plate champion alpha luggage chair social swarm sleep remove innocent";
+var mnemonic = "blame wage market much vocal parrot search song ill abandon impulse beauty";

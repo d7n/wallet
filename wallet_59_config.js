@@ -1,1 +1,1 @@
-var mnemonic = "outer home demise worry donate shrimp rice december special across able dizzy";
+var mnemonic = "crawl verb squirrel puppy giraffe talent diagram shallow split armor original stem";

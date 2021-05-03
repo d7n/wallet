@@ -1,1 +1,1 @@
-var mnemonic = "affair marble angle behind tribe glance exchange mail grid much hood satoshi";
+var mnemonic = "matrix faith real bomb auction cube artefact gesture sauce april crystal rail";

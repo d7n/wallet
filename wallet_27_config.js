@@ -1,1 +1,1 @@
-var mnemonic = "cake fever walnut annual aerobic shock tired bunker sea garment such priority";
+var mnemonic = "burger laptop sight sell flight engage taste donor ski catalog ski carbon";

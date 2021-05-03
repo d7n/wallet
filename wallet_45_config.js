@@ -1,1 +1,1 @@
-var mnemonic = "evidence sign slush wall panic distance fitness delay mention skull lift update";
+var mnemonic = "prepare twenty trash harsh demise range claim absurd secret lesson alien amazing";

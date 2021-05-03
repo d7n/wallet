@@ -1,1 +1,1 @@
-var mnemonic = "battle cage shed shop tiny never miracle expire fury elevator round captain";
+var mnemonic = "urban penalty cycle casual inherit betray move wood pudding enact stand help";

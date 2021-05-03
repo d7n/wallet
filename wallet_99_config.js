@@ -1,1 +1,1 @@
-var mnemonic = "method buffalo message cousin total detail innocent omit claim cat volcano engage";
+var mnemonic = "truth harsh rifle guard route remain modify bind flower ice glue business";

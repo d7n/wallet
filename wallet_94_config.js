@@ -1,1 +1,1 @@
-var mnemonic = "abstract method garment obtain hold mind explain hub suspect code escape peanut";
+var mnemonic = "float moon embrace tape book proud frown grass only speed purity wise";

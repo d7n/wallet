@@ -1,1 +1,1 @@
-var mnemonic = "spawn slam alone able hill wish balcony barely where convince logic hockey";
+var mnemonic = "dentist flat remove moral lens label involve crouch lesson possible mail auto";

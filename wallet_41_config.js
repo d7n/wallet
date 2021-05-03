@@ -1,1 +1,1 @@
-var mnemonic = "found again ticket goddess eyebrow mule village swing eager raccoon size secret";
+var mnemonic = "produce confirm system fence scan uphold juice soldier aspect athlete silly retreat";

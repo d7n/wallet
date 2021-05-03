@@ -1,1 +1,1 @@
-var mnemonic = "fan anxiety dress novel expand toy cruel machine wave ill attract aunt";
+var mnemonic = "remain orchard early upgrade metal gym pluck three youth awesome employ crazy";

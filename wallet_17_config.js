@@ -1,1 +1,1 @@
-var mnemonic = "shove success welcome occur final voyage side trumpet nature enter benefit solve";
+var mnemonic = "boil crew vintage aim palace anxiety essay metal truth kind route limb";

@@ -1,1 +1,1 @@
-var mnemonic = "level clean bulb broom speed small enjoy napkin tool camera crumble light";
+var mnemonic = "harsh april great topple annual pelican volume jewel bread cattle course sort";

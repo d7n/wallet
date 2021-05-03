@@ -1,1 +1,1 @@
-var mnemonic = "pyramid cream guitar only fiscal nest million coach fall notable invite devote";
+var mnemonic = "donkey marine suggest high number ostrich appear second rare novel lonely flower";

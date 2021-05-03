@@ -1,1 +1,1 @@
-var mnemonic = "fury spice copy nurse answer poem glide wasp antique version ethics peace";
+var mnemonic = "oven exchange top that duty suspect kick virus since alien loan raise";

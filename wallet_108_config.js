@@ -1,1 +1,1 @@
-var mnemonic = "clean transfer thing shuffle endless north find lobster wrap arrange add clever";
+var mnemonic = "also inject relief brush grab math spare file angle achieve sudden abstract";

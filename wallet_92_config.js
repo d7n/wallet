@@ -1,1 +1,1 @@
-var mnemonic = "cousin check walk label because cigar hobby devote utility casino lyrics either";
+var mnemonic = "leaf zebra slight all myth diet curious rhythm panic eye sauce dutch";

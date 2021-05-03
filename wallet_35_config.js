@@ -1,1 +1,1 @@
-var mnemonic = "charge announce tiger inform fatal sail key obscure knee victory lift physical";
+var mnemonic = "prosper rug response verb evoke patient one debris radar skirt vague begin";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze mutual vault patch female believe seat fragile buyer lecture attend ensure";
+var mnemonic = "entire youth vote base clutch glad title earth always voice text pride";

@@ -1,1 +1,1 @@
-var mnemonic = "roof worth width train behind pluck rice execute regular embark dilemma veteran";
+var mnemonic = "exit kingdom filter betray toss cruel project verify exist exhibit torch repeat";

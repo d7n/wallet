@@ -1,1 +1,1 @@
-var mnemonic = "drum recipe mimic title much home civil move square venue office margin";
+var mnemonic = "height attend million ramp sadness cycle square roast govern metal bag piece";

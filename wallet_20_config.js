@@ -1,1 +1,1 @@
-var mnemonic = "impose inhale target potato work gift theme blame over flush phrase invest";
+var mnemonic = "burst slight throw luggage tag equip absurd service image pool inject evolve";

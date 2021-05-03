@@ -1,1 +1,1 @@
-var mnemonic = "hawk disagree horse tobacco matrix mansion volcano humor cover nothing sport actress";
+var mnemonic = "obvious supply now scan deer fly winter piece sentence atom toy eternal";

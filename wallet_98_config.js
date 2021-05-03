@@ -1,1 +1,1 @@
-var mnemonic = "people salt run vessel hole spring genius farm safe still harvest toe";
+var mnemonic = "spy vintage diagram learn borrow skirt screen style plate ten right people";

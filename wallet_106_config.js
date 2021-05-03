@@ -1,1 +1,1 @@
-var mnemonic = "bread also toilet dash crash limit flock letter monkey satisfy tourist verb";
+var mnemonic = "mosquito safe antique hungry waste cricket treat symbol reveal brick bronze hockey";

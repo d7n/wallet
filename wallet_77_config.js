@@ -1,1 +1,1 @@
-var mnemonic = "beach nothing benefit fish brush alcohol whip risk grab remember parrot inflict";
+var mnemonic = "alcohol bunker cook magnet wonder life city kiwi cloud define casual upper";

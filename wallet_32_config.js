@@ -1,1 +1,1 @@
-var mnemonic = "wall hungry aerobic kite trick ancient skate drastic upon day primary sea";
+var mnemonic = "dentist emerge mask kingdom joke cargo all walk approve zoo vast enrich";

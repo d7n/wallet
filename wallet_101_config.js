@@ -1,1 +1,1 @@
-var mnemonic = "produce deny fat omit weapon wise worry rifle physical library exit cherry";
+var mnemonic = "theme tiny conduct parent tenant solar truly they crush skill snake congress";

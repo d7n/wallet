@@ -1,1 +1,1 @@
-var mnemonic = "piano service couch sing senior occur margin funny source exchange uphold couple";
+var mnemonic = "fog cover later thrive shoulder wink thing mean police tank silver cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "flat reduce amazing link special pledge valve unknown stay black parrot glide";
+var mnemonic = "coyote talent taste clarify bachelor file solar length donor butter skirt silver";

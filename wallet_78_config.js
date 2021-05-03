@@ -1,1 +1,1 @@
-var mnemonic = "identify goose ride unaware age web shy creek brand ticket blouse ketchup";
+var mnemonic = "mandate remind pact ill boy priority palace square dinosaur fat pause juice";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke december amused flame where drill innocent must advice cactus hidden image";
+var mnemonic = "always panther hill rural gold despair deputy ancient soccer demand system jar";

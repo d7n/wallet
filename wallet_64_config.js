@@ -1,1 +1,1 @@
-var mnemonic = "monkey law deliver check purpose wise there joy boil bread slam core";
+var mnemonic = "fit cart project able hero organ test route burst sniff toy quote";

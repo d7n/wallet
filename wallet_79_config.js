@@ -1,1 +1,1 @@
-var mnemonic = "genius elbow wreck paddle topic museum apple note cherry alley surface magnet";
+var mnemonic = "suggest produce nerve joke garage power display minimum category hope axis oblige";

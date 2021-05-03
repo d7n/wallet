@@ -1,1 +1,1 @@
-var mnemonic = "spray again grief core raven save bitter style keen fatigue mountain logic";
+var mnemonic = "dry seed faint similar corn forum claim fold various equal bicycle act";

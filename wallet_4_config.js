@@ -1,1 +1,1 @@
-var mnemonic = "cliff uphold rice mom water rapid flush source penalty first girl cabin";
+var mnemonic = "stock scale lens zebra summer toast man puppy transfer critic follow vanish";

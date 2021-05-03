@@ -1,1 +1,1 @@
-var mnemonic = "pride body under empty aunt hat second friend hundred mistake wing time";
+var mnemonic = "saddle engine identify section reopen able amount canyon volcano vapor gap rib";

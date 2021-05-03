@@ -1,1 +1,1 @@
-var mnemonic = "wool auction census text exercise amused air lend fantasy swim basket bag";
+var mnemonic = "beef awake story twist office say fruit enhance apart security distance universe";

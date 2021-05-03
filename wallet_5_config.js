@@ -1,1 +1,1 @@
-var mnemonic = "town mule nice endorse almost casual problem tent arrive eyebrow wedding umbrella";
+var mnemonic = "scrap deal slide genuine joy ability matrix number approve menu mirror student";

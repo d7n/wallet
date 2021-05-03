@@ -1,1 +1,1 @@
-var mnemonic = "weapon live topic select embark display sadness excuse tip artwork dutch behind";
+var mnemonic = "play can until ice almost marine speak kid total figure tattoo narrow";

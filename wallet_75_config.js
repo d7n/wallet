@@ -1,1 +1,1 @@
-var mnemonic = "keep near emerge recall book dragon magic toddler fruit town scorpion weapon";
+var mnemonic = "forum fun bird modify submit green coral frame space good hill toy";

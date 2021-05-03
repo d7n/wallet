@@ -1,1 +1,1 @@
-var mnemonic = "bid motion satisfy inner gather method ensure leaf argue transfer garage battle";
+var mnemonic = "habit kit only moment critic fortune hello plunge category sure until toilet";
