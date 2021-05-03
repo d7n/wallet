@@ -1,1 +1,1 @@
-var mnemonic = "pair execute cake all hire history fall post model century priority test";
+var mnemonic = "next pig elevator fossil what tube mosquito icon trend note grocery such";

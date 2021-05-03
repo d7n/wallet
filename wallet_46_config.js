@@ -1,1 +1,1 @@
-var mnemonic = "all ritual critic rocket tenant pluck board fiction mandate early mule insane";
+var mnemonic = "rural throw immense giant attitude kingdom twist alpha denial neither old boring";

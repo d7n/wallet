@@ -1,1 +1,1 @@
-var mnemonic = "truck once soda ride like clog forest sand credit vast huge public";
+var mnemonic = "lunch spare crater public credit exact ghost jaguar entire web vapor grocery";

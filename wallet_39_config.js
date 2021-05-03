@@ -1,1 +1,1 @@
-var mnemonic = "violin latin imitate false credit park paddle senior power miracle monitor fitness";
+var mnemonic = "toe remind hen reject hair vapor ranch board caught junior dance march";

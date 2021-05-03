@@ -1,1 +1,1 @@
-var mnemonic = "trust wine purchase fiction quantum future bridge chuckle frown deer fuel cherry";
+var mnemonic = "thing arena bless very joke loyal assist level feed buzz drive tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon raven enjoy lyrics wave define welcome dismiss present miracle one little";
+var mnemonic = "luggage icon about define kite rally fire grief immense story bottom mention";

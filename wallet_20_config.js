@@ -1,1 +1,1 @@
-var mnemonic = "admit erupt frown drum upgrade spy rely cover alert shiver bottom acquire";
+var mnemonic = "inch april discover material ship gap parent quit slam harvest drop mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "rate cement grab robust surround knock remember blind combine hover pave senior";
+var mnemonic = "source candy visit dinner cinnamon seek coach quiz leisure veteran jaguar vacuum";

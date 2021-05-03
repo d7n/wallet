@@ -1,1 +1,1 @@
-var mnemonic = "oxygen devote approve motion repeat disagree siren jacket model high cigar sweet";
+var mnemonic = "circle hurry guide desk dolphin fabric barely enter unfold beyond impose soul";

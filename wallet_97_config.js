@@ -1,1 +1,1 @@
-var mnemonic = "dune reunion cook fitness honey column void shoe dizzy forest lounge jealous";
+var mnemonic = "fiscal tiger rose mind whale enhance boost bonus organ surge stomach dial";

@@ -1,1 +1,1 @@
-var mnemonic = "snack rotate rural health heavy leg front lumber impulse just spatial one";
+var mnemonic = "vicious grief book street bread indoor just pet fiber track convince planet";

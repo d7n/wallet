@@ -1,1 +1,1 @@
-var mnemonic = "nature crane radio misery square share clinic runway scene whip round ozone";
+var mnemonic = "run unable tissue indicate put please erode wish afford move category primary";

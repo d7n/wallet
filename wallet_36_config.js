@@ -1,1 +1,1 @@
-var mnemonic = "benefit crane swap alpha toy ask swift load news twin rubber helmet";
+var mnemonic = "glory letter horn roast sail glue arena census magic canvas helmet sausage";

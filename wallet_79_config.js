@@ -1,1 +1,1 @@
-var mnemonic = "cram horse original journey melt puzzle acquire sweet way six onion shallow";
+var mnemonic = "future chat economy walnut duty airport pledge grape gold erase divide blush";

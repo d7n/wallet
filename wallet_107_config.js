@@ -1,1 +1,1 @@
-var mnemonic = "jazz brand bring finish middle icon dragon piano primary exit soap salad";
+var mnemonic = "unveil surface area manage fragile pigeon table raccoon evolve cause have toilet";

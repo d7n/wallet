@@ -1,1 +1,1 @@
-var mnemonic = "shield reward farm design wet vanish green same illness crew company motion";
+var mnemonic = "couple safe early hood future ride grain near moral useless just above";

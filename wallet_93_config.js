@@ -1,1 +1,1 @@
-var mnemonic = "name method twenty gather cat step amazing squirrel imitate novel miracle situate";
+var mnemonic = "galaxy stage reflect payment coast wave desk jealous diary tone husband delay";

@@ -1,1 +1,1 @@
-var mnemonic = "palace ozone cabin urban over cheap edit inside daughter island hungry excite";
+var mnemonic = "put voyage hold broom humor fruit bitter ancient trick easily blur confirm";

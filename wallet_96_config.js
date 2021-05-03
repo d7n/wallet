@@ -1,1 +1,1 @@
-var mnemonic = "today initial repeat isolate hurdle payment extend member kidney intact birth double";
+var mnemonic = "write eagle earth path leg abuse trouble ordinary spatial drop ritual afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "marble thank dizzy confirm void year protect source approve gallery ocean hero";
+var mnemonic = "industry sing hungry mouse unit rack bottom style female private defense output";

@@ -1,1 +1,1 @@
-var mnemonic = "shield general lift fever mountain volcano puzzle foam cave element baby remind";
+var mnemonic = "unfair boring nice fever company audit east harbor scout achieve best season";

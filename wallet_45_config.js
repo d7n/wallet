@@ -1,1 +1,1 @@
-var mnemonic = "enroll ocean young crazy barely pepper rib ribbon spirit will wire between";
+var mnemonic = "they device avoid loud snack wagon rich fog crack outer juice knock";

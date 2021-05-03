@@ -1,1 +1,1 @@
-var mnemonic = "worth dog smile six matrix large beyond rescue fame door disease slice";
+var mnemonic = "ripple educate undo turtle rib marriage female culture mango roof word crucial";

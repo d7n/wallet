@@ -1,1 +1,1 @@
-var mnemonic = "ritual candy include merry hip hip palm venue bunker shuffle voice dial";
+var mnemonic = "turtle enact flat exist injury master illness tray flock clap island memory";

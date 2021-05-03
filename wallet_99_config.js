@@ -1,1 +1,1 @@
-var mnemonic = "behind toast idea tornado law bean motor apology myth act fee acid";
+var mnemonic = "priority mercy anxiety wrist blush enable fruit food emerge employ chicken brisk";

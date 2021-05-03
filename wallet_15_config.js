@@ -1,1 +1,1 @@
-var mnemonic = "spider swamp easy harbor ten then tourist kid script agree correct cabin";
+var mnemonic = "copper sand key glimpse vapor label health easy cage tunnel monkey wedding";

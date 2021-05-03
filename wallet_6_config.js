@@ -1,1 +1,1 @@
-var mnemonic = "view plastic square medal merge region size clay gloom include sort parade";
+var mnemonic = "false unfair noble hazard clean please become endless salon spare nurse soap";

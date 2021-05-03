@@ -1,1 +1,1 @@
-var mnemonic = "okay caution raw cargo canoe crumble fun immense build destroy pioneer actual";
+var mnemonic = "crush eight broken judge salute leopard whisper layer rapid canyon shop adult";

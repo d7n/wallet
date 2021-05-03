@@ -1,1 +1,1 @@
-var mnemonic = "media push century rude exotic draw glory surprise split magic pudding home";
+var mnemonic = "business crucial input soccer cradle call biology denial hood voice chronic fun";

@@ -1,1 +1,1 @@
-var mnemonic = "very pulse attack scare method donor six trick essay lawn vocal twenty";
+var mnemonic = "chair mind ribbon huge bag cradle gentle curve apology drama valley broccoli";

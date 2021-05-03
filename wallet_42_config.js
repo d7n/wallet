@@ -1,1 +1,1 @@
-var mnemonic = "saddle swift above protect cage baby connect sting zoo catch enough idea";
+var mnemonic = "make dumb fog toast this snap ski blade history bike layer width";

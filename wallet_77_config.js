@@ -1,1 +1,1 @@
-var mnemonic = "negative survey crime double alien issue control nothing mechanic prison found sad";
+var mnemonic = "rude sun differ fuel artefact promote chaos cage among fever lend rigid";

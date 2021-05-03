@@ -1,1 +1,1 @@
-var mnemonic = "emerge step giraffe leopard absorb fuel across chaos access install silk rough";
+var mnemonic = "begin record add side drama point student pizza august develop asthma common";

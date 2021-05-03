@@ -1,1 +1,1 @@
-var mnemonic = "either upset rich antique leave farm plunge wage garden water barely foster";
+var mnemonic = "crunch wonder kick artefact soul comfort romance find right dirt kit convince";

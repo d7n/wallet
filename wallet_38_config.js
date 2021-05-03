@@ -1,1 +1,1 @@
-var mnemonic = "oppose agent alcohol release involve bus top feel surprise rely slice dizzy";
+var mnemonic = "become toddler ship crystal ahead resist soft border dynamic improve winner silly";

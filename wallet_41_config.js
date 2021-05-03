@@ -1,1 +1,1 @@
-var mnemonic = "goat life capital cute rude child month eternal leaf cruise rotate glue";
+var mnemonic = "clean scout rely virus tomato palace mixture segment olympic case govern layer";

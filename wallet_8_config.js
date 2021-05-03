@@ -1,1 +1,1 @@
-var mnemonic = "lesson fiber analyst blossom shrimp embody victory language mammal glue marine noble";
+var mnemonic = "either elevator gun hair item scatter tiny depend brain own capital quit";

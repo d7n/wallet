@@ -1,1 +1,1 @@
-var mnemonic = "grow infant merge fame survey stool ability zone coral owner soda alien";
+var mnemonic = "crowd example lift six club wood hero often add tourist hard expose";

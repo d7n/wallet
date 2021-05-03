@@ -1,1 +1,1 @@
-var mnemonic = "borrow energy toss video virus between couple little rookie category require feature";
+var mnemonic = "bulb biology now ability spell duty frost include spirit engage someone pen";

@@ -1,1 +1,1 @@
-var mnemonic = "brain lobster oxygen cube uniform among nerve sign quit globe jacket remind";
+var mnemonic = "matrix confirm reason pact town oppose knee exhaust route wear blur awful";

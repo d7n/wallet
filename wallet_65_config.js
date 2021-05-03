@@ -1,1 +1,1 @@
-var mnemonic = "fun faith warm blur art marine multiply craft suspect ring reject violin";
+var mnemonic = "excess elite inflict laugh valley response hurt mercy trouble bulb jelly sword";

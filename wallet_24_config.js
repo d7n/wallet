@@ -1,1 +1,1 @@
-var mnemonic = "scare kiwi during health note learn follow inhale update mercy inform movie";
+var mnemonic = "learn couch floor earn stairs protect visa grain inside wheat angry vacuum";

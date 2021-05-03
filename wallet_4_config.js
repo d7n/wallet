@@ -1,1 +1,1 @@
-var mnemonic = "fossil toddler digital ladder cigar gold bread boat clever elite monster spin";
+var mnemonic = "sight bean away weapon job hour copy pitch consider since know poet";

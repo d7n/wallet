@@ -1,1 +1,1 @@
-var mnemonic = "book shallow tumble biology plunge ozone involve tissue kangaroo zoo sorry bright";
+var mnemonic = "forest universe solar local entire hood satisfy quick start antenna fine cinnamon";

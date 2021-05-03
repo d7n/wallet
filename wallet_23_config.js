@@ -1,1 +1,1 @@
-var mnemonic = "office axis shield quarter cart festival sea target during kiss idle brisk";
+var mnemonic = "exact dwarf funny doctor length betray truly mass clerk rich save search";

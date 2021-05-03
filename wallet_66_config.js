@@ -1,1 +1,1 @@
-var mnemonic = "actual remind bind seminar about force gorilla humble door credit exchange profit";
+var mnemonic = "kidney intact penalty sight tattoo abandon debris popular private raise adapt maple";

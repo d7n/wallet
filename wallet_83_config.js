@@ -1,1 +1,1 @@
-var mnemonic = "winter tower labor nice census caught void trouble foot exotic pause glare";
+var mnemonic = "wedding tired kit frown retreat work impose accident gift honey eternal exercise";

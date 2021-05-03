@@ -1,1 +1,1 @@
-var mnemonic = "reward glove elder joke hard riot reason impulse guitar capital shoot axis";
+var mnemonic = "elegant year chimney door canoe movie chest unlock fade awful ocean chunk";

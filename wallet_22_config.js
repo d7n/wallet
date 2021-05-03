@@ -1,1 +1,1 @@
-var mnemonic = "put zone leaf name portion angle purity master motion upset tone truck";
+var mnemonic = "swallow blood small north cancel brick unique retire chef grit course arrest";

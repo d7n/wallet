@@ -1,1 +1,1 @@
-var mnemonic = "occur middle name age adjust asset sugar unlock antique draw furnace arm";
+var mnemonic = "wealth tank soup soul region finger citizen usage gossip donate master when";

@@ -1,1 +1,1 @@
-var mnemonic = "easily scale sponsor salad canvas bottom easily catch crush milk cushion crisp";
+var mnemonic = "today all coral more inherit engine myself coffee reveal boy train palm";

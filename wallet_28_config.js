@@ -1,1 +1,1 @@
-var mnemonic = "opera quiz work cat repair produce local hover just educate novel cancel";
+var mnemonic = "family affair awake green ticket hill company grief give meat damage word";

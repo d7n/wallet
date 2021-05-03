@@ -1,1 +1,1 @@
-var mnemonic = "trigger denial few urge salute kingdom unable destroy nose upgrade merry slim";
+var mnemonic = "garden eternal please arrow require drama miracle divide drill staff grace sibling";

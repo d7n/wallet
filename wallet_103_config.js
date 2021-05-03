@@ -1,1 +1,1 @@
-var mnemonic = "trumpet dizzy kitchen metal spot spirit silent impact omit allow robust renew";
+var mnemonic = "north notice type misery genuine kitchen shoe impact month high inner can";

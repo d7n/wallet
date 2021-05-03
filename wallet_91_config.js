@@ -1,1 +1,1 @@
-var mnemonic = "target hover myth inflict unknown link hundred bamboo silk test pen lobster";
+var mnemonic = "proud fit puzzle veteran craft lyrics brand stem crisp banana alien consider";

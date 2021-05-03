@@ -1,1 +1,1 @@
-var mnemonic = "coyote pony label involve boost differ core social syrup neither wheat craft";
+var mnemonic = "critic onion circle cherry position deny wealth buffalo vacant sick artefact drill";

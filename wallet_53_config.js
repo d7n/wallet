@@ -1,1 +1,1 @@
-var mnemonic = "thrive exist second reform tornado wide foam pudding check long hello lens";
+var mnemonic = "charge scan clog gym identify begin curve guilt parade dune boat eye";

@@ -1,1 +1,1 @@
-var mnemonic = "oak robust frost bring chair broccoli grit return erosion warm health dust";
+var mnemonic = "danger pyramid kick wing buzz shiver weasel capital involve trip glue they";

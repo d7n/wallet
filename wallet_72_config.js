@@ -1,1 +1,1 @@
-var mnemonic = "inner ride clock pigeon error tortoise youth blanket box brass tiny debris";
+var mnemonic = "still catalog ramp light lumber earth rug gadget receive recall cream range";

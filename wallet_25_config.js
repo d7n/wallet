@@ -1,1 +1,1 @@
-var mnemonic = "nerve kiwi enroll gun midnight buzz cherry lonely erupt echo corn salad";
+var mnemonic = "exit hole claw address movie camera lounge exclude modify pudding uncover ketchup";

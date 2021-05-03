@@ -1,1 +1,1 @@
-var mnemonic = "depth rebel supreme practice limit math whip arrest much trend smile city";
+var mnemonic = "bid all pupil shoot cabbage source define negative twenty sort opinion raven";

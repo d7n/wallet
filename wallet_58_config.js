@@ -1,1 +1,1 @@
-var mnemonic = "spread lake stem toe rapid coyote raise syrup annual lamp aerobic situate";
+var mnemonic = "flavor prefer horn energy spend wage unusual aim call jazz enemy good";

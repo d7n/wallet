@@ -1,1 +1,1 @@
-var mnemonic = "rapid correct click happy ill moment neutral clever below blood dwarf toy";
+var mnemonic = "fly ramp gun fortune retreat draft shell you ecology diesel try joke";

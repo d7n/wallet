@@ -1,1 +1,1 @@
-var mnemonic = "flame key sell stock library collect banner coral public era trigger valley";
+var mnemonic = "exercise travel kit they type own sail bounce fever layer ozone express";

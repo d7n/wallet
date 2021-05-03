@@ -1,1 +1,1 @@
-var mnemonic = "beyond hollow foot mechanic surround card north second rain clay job crawl";
+var mnemonic = "journey dove winter never identify indicate eager same clerk brick response endorse";

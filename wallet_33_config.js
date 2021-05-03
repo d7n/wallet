@@ -1,1 +1,1 @@
-var mnemonic = "devote open grunt dial sting gym busy knock bronze list canvas range";
+var mnemonic = "this exhibit ship sign lady keen increase stadium school aim fiscal myth";

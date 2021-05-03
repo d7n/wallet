@@ -1,1 +1,1 @@
-var mnemonic = "multiply head endless agent dentist atom violin actress card what hover prepare";
+var mnemonic = "proud autumn measure diesel group ability cotton step ask scale follow frozen";

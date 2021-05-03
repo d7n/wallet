@@ -1,1 +1,1 @@
-var mnemonic = "bottom veteran mad hole object amused bag episode puzzle found champion hand";
+var mnemonic = "choose flush nest behind actor aisle oxygen develop usage earth miss acoustic";

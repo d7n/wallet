@@ -1,1 +1,1 @@
-var mnemonic = "edit devote twist coach essence upon remove fall direct nation glare despair";
+var mnemonic = "other unit wise artefact exhaust type rose spin uphold situate amount nominee";

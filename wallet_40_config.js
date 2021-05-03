@@ -1,1 +1,1 @@
-var mnemonic = "claim object violin giant frown sport net wool color exotic leaf slot";
+var mnemonic = "category flag raw fancy galaxy april client blossom south buddy case bracket";

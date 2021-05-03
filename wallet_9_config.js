@@ -1,1 +1,1 @@
-var mnemonic = "net buffalo bottom quality lock link pigeon sign pupil valid hub great";
+var mnemonic = "great change dumb express priority lawsuit target spare annual found solar undo";

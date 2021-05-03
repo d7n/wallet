@@ -1,1 +1,1 @@
-var mnemonic = "cloud card deer report immune cruel logic lottery day abandon grain grab";
+var mnemonic = "erode novel key pull novel salute remain gossip cactus govern general pyramid";

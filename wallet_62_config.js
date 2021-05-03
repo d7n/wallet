@@ -1,1 +1,1 @@
-var mnemonic = "hammer chicken goat tuition parrot loyal render basic key drill guilt garlic";
+var mnemonic = "nice february clap letter master segment traffic law police bamboo raise absorb";

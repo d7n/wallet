@@ -1,1 +1,1 @@
-var mnemonic = "position fringe peace infant lake demise chase buzz chalk book humor hat";
+var mnemonic = "catch farm mother better broom decide question fit car fish broken garage";

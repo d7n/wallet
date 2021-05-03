@@ -1,1 +1,1 @@
-var mnemonic = "december mean again wage theme wage tent gain upon build gold hip";
+var mnemonic = "shadow slim clean cinnamon drum screen task eternal click vote dream convince";

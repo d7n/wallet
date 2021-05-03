@@ -1,1 +1,1 @@
-var mnemonic = "process mystery ripple quote volume stand alter quick fitness flat iron scrub";
+var mnemonic = "prepare slow program under envelope rate silk day mixed submit special rude";

@@ -1,1 +1,1 @@
-var mnemonic = "fame scale unique left online taste leg pact patrol style cinnamon subject";
+var mnemonic = "wave sister future treat rare village forward stone leisure judge drill orient";

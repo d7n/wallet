@@ -1,1 +1,1 @@
-var mnemonic = "ordinary float duck mobile person genius cover erosion diagram cradle drill sugar";
+var mnemonic = "idle universe profit voice warm scatter stand approve verify allow grab decrease";

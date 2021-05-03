@@ -1,1 +1,1 @@
-var mnemonic = "seek loop rapid service lens finger response wrap million false flip gasp";
+var mnemonic = "dry certain assume cattle prize farm garage energy illness excess casino mango";

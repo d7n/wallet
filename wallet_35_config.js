@@ -1,1 +1,1 @@
-var mnemonic = "fossil travel print light ceiling sample share donate crawl pizza match later";
+var mnemonic = "museum survey cushion top code equal stock around ancient walnut midnight raise";

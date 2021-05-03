@@ -1,1 +1,1 @@
-var mnemonic = "trouble pigeon popular exclude common recycle bunker mystery citizen announce radar bicycle";
+var mnemonic = "inner year flight host scout motion adult angle indoor dragon chief squeeze";

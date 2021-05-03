@@ -1,1 +1,1 @@
-var mnemonic = "earn soda wagon promote catch shove nest yellow silk inspire slim avoid";
+var mnemonic = "ritual velvet live butter hunt gun vital limit artist valley stock thank";

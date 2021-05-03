@@ -1,1 +1,1 @@
-var mnemonic = "ocean disease runway good nominee shrimp tank tennis strategy carpet inform film";
+var mnemonic = "multiply unfold evidence huge valley common mutual ripple tissue whip perfect small";

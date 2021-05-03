@@ -1,1 +1,1 @@
-var mnemonic = "fiscal wise enjoy uncover repair struggle plate diesel security people box glance";
+var mnemonic = "cricket equip repeat trumpet shaft mask category shrimp license embody dumb cradle";
