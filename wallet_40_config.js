@@ -1,1 +1,1 @@
-var mnemonic = "raven govern person oven power impulse pumpkin crush input chalk alarm giraffe";
+var mnemonic = "average brother health day half high gesture wait clean horror glare jump";

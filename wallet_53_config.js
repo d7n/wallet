@@ -1,1 +1,1 @@
-var mnemonic = "slice salute amount mule comic agree wool addict bind fit leave frequent";
+var mnemonic = "cat average bonus join draw pizza mystery suit snap report piece share";

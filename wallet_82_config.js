@@ -1,1 +1,1 @@
-var mnemonic = "conduct fatigue crunch purchase chicken iron rebuild topic return symbol escape elegant";
+var mnemonic = "normal follow kidney abandon pink firm vintage estate hover ritual blush wrist";

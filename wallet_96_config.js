@@ -1,1 +1,1 @@
-var mnemonic = "gadget soldier buzz alcohol coil impose shoot retreat advance magic little acquire";
+var mnemonic = "coil vessel skin left isolate still false heavy clinic between since mother";

@@ -1,1 +1,1 @@
-var mnemonic = "notable captain talent glad issue minimum animal wheat access leader budget elevator";
+var mnemonic = "talent key jazz load music frost world barrel army submit embody ethics";

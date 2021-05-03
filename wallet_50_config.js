@@ -1,1 +1,1 @@
-var mnemonic = "figure lizard engage harbor unique reduce spice midnight list feed little relax";
+var mnemonic = "crowd assume wrestle fade situate build tag enter danger frown assault drastic";

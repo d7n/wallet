@@ -1,1 +1,1 @@
-var mnemonic = "item symbol hurry card creek two cannon hazard rough age about typical";
+var mnemonic = "taxi absorb clutch asthma bronze magic milk climb heavy bind gesture illegal";

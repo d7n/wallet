@@ -1,1 +1,1 @@
-var mnemonic = "ripple galaxy broccoli vicious improve behind flight sense submit sheriff involve senior";
+var mnemonic = "thing cruise modify pave pulp genius route pattern record harvest cattle sample";

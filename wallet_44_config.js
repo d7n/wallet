@@ -1,1 +1,1 @@
-var mnemonic = "maid dilemma moral pony sport picture pledge trophy polar mammal captain vintage";
+var mnemonic = "winter planet follow add major price rhythm absent recall chunk cactus flight";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden jelly knife toddler pattern tower rug alert region clean cup old";
+var mnemonic = "iron like key scout evidence float siren chapter gather blast chapter mercy";

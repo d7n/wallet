@@ -1,1 +1,1 @@
-var mnemonic = "cause odor purity country twenty soon caught notice portion attack shift lawsuit";
+var mnemonic = "awake ski crew humor success betray violin sadness usual guard tobacco soldier";

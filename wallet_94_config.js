@@ -1,1 +1,1 @@
-var mnemonic = "cherry winter valve write strategy library horror venture magnet balcony foot property";
+var mnemonic = "mansion start vault famous west scissors bubble stone verb waste found agent";

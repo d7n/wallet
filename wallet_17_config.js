@@ -1,1 +1,1 @@
-var mnemonic = "shy reopen sausage quiz relax tribe orchard bean keep marriage dress during";
+var mnemonic = "dry initial sample mixture universe claw kick quit solution clap spin dad";

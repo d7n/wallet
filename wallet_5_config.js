@@ -1,1 +1,1 @@
-var mnemonic = "ill build wedding duck poet family tuition charge bless table they fetch";
+var mnemonic = "current labor bus size rather social inform bless later insane country resemble";

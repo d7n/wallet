@@ -1,1 +1,1 @@
-var mnemonic = "pony shaft price clap evoke day faith knee park beauty chalk first";
+var mnemonic = "inform refuse reward able deny disagree before stuff shield smoke embark globe";

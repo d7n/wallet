@@ -1,1 +1,1 @@
-var mnemonic = "neither title ramp reunion lend brick vicious flee trouble beef umbrella sand";
+var mnemonic = "frog private bar glimpse boy quantum salon theory grief almost stem soon";

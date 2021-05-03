@@ -1,1 +1,1 @@
-var mnemonic = "exist pole expand infant basket heavy scrap smoke blade trial inform light";
+var mnemonic = "meat leg buddy cloud false proof chalk rule match february brisk still";

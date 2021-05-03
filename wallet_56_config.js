@@ -1,1 +1,1 @@
-var mnemonic = "chronic hundred giggle airport top orchard crawl picnic depend north poverty treat";
+var mnemonic = "output school tail length emotion board beef canvas lawn can twin border";

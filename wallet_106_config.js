@@ -1,1 +1,1 @@
-var mnemonic = "rail bracket hire attack crew gift vicious point trend zoo divide private";
+var mnemonic = "fire fun height april kind save early letter merge sand daughter limit";

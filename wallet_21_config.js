@@ -1,1 +1,1 @@
-var mnemonic = "finish resemble walk slot rhythm coyote account afford rib remove fever uncle";
+var mnemonic = "turn virus memory rib police open hold diary mango erase hill detail";

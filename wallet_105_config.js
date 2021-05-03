@@ -1,1 +1,1 @@
-var mnemonic = "room inspire short bright just life trap tooth bottom utility fold smoke";
+var mnemonic = "void rough practice human deposit stumble accuse winter elephant thought tobacco eagle";

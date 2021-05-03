@@ -1,1 +1,1 @@
-var mnemonic = "issue radio apple joy core gesture text imitate proof young fire coin";
+var mnemonic = "thank extra taste one ankle link vapor film barely dawn globe awful";

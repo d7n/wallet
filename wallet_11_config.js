@@ -1,1 +1,1 @@
-var mnemonic = "uncover renew width rally horn bacon release scissors worry eight float ability";
+var mnemonic = "section valid defense coin phrase age lemon brand gift confirm era travel";

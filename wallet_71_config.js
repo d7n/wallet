@@ -1,1 +1,1 @@
-var mnemonic = "dream before baby help match absent vendor lazy almost guide feel oak";
+var mnemonic = "solar ability tattoo crouch unique power settle crunch damage vacant noise cook";

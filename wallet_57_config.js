@@ -1,1 +1,1 @@
-var mnemonic = "tell bundle twin afraid rescue infant unlock woman letter hood glory prefer";
+var mnemonic = "alien way pipe inspire abuse decline hurdle oval tail opera nose sweet";

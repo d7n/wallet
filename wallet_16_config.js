@@ -1,1 +1,1 @@
-var mnemonic = "range tank draft useless account desert magnet wild feel will onion egg";
+var mnemonic = "stomach forest into parent already dog blanket pond damage science lemon author";

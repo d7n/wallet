@@ -1,1 +1,1 @@
-var mnemonic = "crouch time minor mistake ribbon lounge usual eyebrow life clerk vague calm";
+var mnemonic = "success ignore slice early reason wide rhythm slam over permit zoo crawl";

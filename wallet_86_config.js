@@ -1,1 +1,1 @@
-var mnemonic = "flight uncover oil when gym hungry soup kit shell crane jewel accuse";
+var mnemonic = "awkward mean scorpion can van divide boring coin violin ten hope best";

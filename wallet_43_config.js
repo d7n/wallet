@@ -1,1 +1,1 @@
-var mnemonic = "prevent wait dress basket acid surface exhibit ill tank unveil cactus short";
+var mnemonic = "repair north casino relief angle surface elder craft once flat vehicle gun";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle donor volcano casino aerobic salt gentle quiz butter page ceiling attitude";
+var mnemonic = "riot prison boss motor height chronic awful umbrella search rain bus post";

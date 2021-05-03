@@ -1,1 +1,1 @@
-var mnemonic = "castle pony lumber furnace fiscal creek across fiber lens voyage nurse night";
+var mnemonic = "ecology clever cable mosquito flock nasty forest quiz extra gold veteran also";

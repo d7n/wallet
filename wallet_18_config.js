@@ -1,1 +1,1 @@
-var mnemonic = "cupboard shadow task breeze pottery pole market smart hip special book prison";
+var mnemonic = "office amateur violin rookie wire thought rebel orient calm fury remember piece";

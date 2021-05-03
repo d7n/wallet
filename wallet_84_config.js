@@ -1,1 +1,1 @@
-var mnemonic = "gallery clutch poet private pizza flag curve reflect flush curve boring order";
+var mnemonic = "caught evoke cause south era marriage sister case magnet minute innocent salmon";

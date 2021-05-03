@@ -1,1 +1,1 @@
-var mnemonic = "moon mind few never legal pretty select library play deal firm tired";
+var mnemonic = "unique awkward decorate derive improve ankle bright cruise live update grit sugar";

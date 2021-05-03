@@ -1,1 +1,1 @@
-var mnemonic = "alone clarify bonus shift pet fiction fiction frozen unlock abandon globe leave";
+var mnemonic = "fit give strike write infant emotion they egg benefit canal weapon question";

@@ -1,1 +1,1 @@
-var mnemonic = "unlock adapt together athlete price believe know notable tragic discover category end";
+var mnemonic = "over cash year hybrid bulb argue town weapon crazy provide urge edge";

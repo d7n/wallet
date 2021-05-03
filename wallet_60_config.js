@@ -1,1 +1,1 @@
-var mnemonic = "used boost now ski ostrich nerve light settle farm prison beef early";
+var mnemonic = "swift job flame talk among lonely donkey action bottom scare decorate buyer";

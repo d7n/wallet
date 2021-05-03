@@ -1,1 +1,1 @@
-var mnemonic = "correct inherit neither right toilet wagon mail debris anger behave parent tilt";
+var mnemonic = "soap prize job produce evidence deliver monster screen holiday strategy ankle response";

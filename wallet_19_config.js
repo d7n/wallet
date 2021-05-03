@@ -1,1 +1,1 @@
-var mnemonic = "reduce olympic next baby clip photo august poet liar live outside gaze";
+var mnemonic = "output garlic mutual fatigue father rose visa shed decrease cliff empty budget";

@@ -1,1 +1,1 @@
-var mnemonic = "assume village around deer water immune warm odor shine easy weapon envelope";
+var mnemonic = "leaf pool obscure size work enhance session alien angry depart lens extend";

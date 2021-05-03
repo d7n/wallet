@@ -1,1 +1,1 @@
-var mnemonic = "truth dragon burger excuse lottery solid clerk prison total whale oven finger";
+var mnemonic = "guard fiction pledge enforce coast jealous ticket you inch cliff humble feature";

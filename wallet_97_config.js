@@ -1,1 +1,1 @@
-var mnemonic = "lecture garment ocean wagon warfare absurd thunder drop view harvest name unfold";
+var mnemonic = "park ridge grid naive rare metal element timber rebuild renew vanish family";

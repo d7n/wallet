@@ -1,1 +1,1 @@
-var mnemonic = "total oxygen option property grant loud material hedgehog bike veteran fluid fuel";
+var mnemonic = "fatigue blind orphan put pepper flee age blanket clean arrow swim gap";

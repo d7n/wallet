@@ -1,1 +1,1 @@
-var mnemonic = "crouch health drip aunt fitness income fatal fury thing proud broom confirm";
+var mnemonic = "tape exhibit easy maximum harsh domain employ episode expand test float grief";

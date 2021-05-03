@@ -1,1 +1,1 @@
-var mnemonic = "hero include genuine purity enact sauce can fade sword brave ketchup disagree";
+var mnemonic = "gate harsh captain any offer notable monster gift news stable volume skull";

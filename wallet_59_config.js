@@ -1,1 +1,1 @@
-var mnemonic = "round throw interest resource spin chat couch fruit improve inspire nice panel";
+var mnemonic = "wink warrior tourist boring wolf extra festival coyote stadium hero quarter proof";

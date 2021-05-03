@@ -1,1 +1,1 @@
-var mnemonic = "need lion giggle snack eager destroy cabbage glad express april wealth fault";
+var mnemonic = "later subject eager glimpse circle prosper giggle mixture orphan slab exercise clock";

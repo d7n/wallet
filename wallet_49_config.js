@@ -1,1 +1,1 @@
-var mnemonic = "wet gauge dream demise what engage swift kingdom father hen prefer purchase";
+var mnemonic = "fall equal believe net early father primary trouble twelve main critic inspire";

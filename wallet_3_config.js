@@ -1,1 +1,1 @@
-var mnemonic = "swear august board three virtual spin text image burden split decline fade";
+var mnemonic = "wage glory swallow february benefit obey truck seat become hip program diesel";

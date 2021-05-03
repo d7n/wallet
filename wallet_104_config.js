@@ -1,1 +1,1 @@
-var mnemonic = "rubber reward edge wedding assault rebuild fruit hollow input column online point";
+var mnemonic = "side medal clutch where bacon faint harvest invest humble slice real cattle";

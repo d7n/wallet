@@ -1,1 +1,1 @@
-var mnemonic = "theory lend kick invite basket slide breeze news bitter kit token dragon";
+var mnemonic = "garage illness science price current top future where ticket shy rice derive";

@@ -1,1 +1,1 @@
-var mnemonic = "target liquid punch theme family drip weapon hidden dragon health home among";
+var mnemonic = "raw giraffe balance glass stove push inspire erupt elephant boat sample chief";

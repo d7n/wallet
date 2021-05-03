@@ -1,1 +1,1 @@
-var mnemonic = "isolate subway phone casino nephew distance shadow pact explain gesture peasant embark";
+var mnemonic = "fringe design wall medal ivory plate decrease shoulder vapor charge inspire master";

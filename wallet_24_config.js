@@ -1,1 +1,1 @@
-var mnemonic = "tumble elite game domain actress lamp glove forum grit coast basic reward";
+var mnemonic = "crazy ancient small daring horror cave broken over young matter return text";

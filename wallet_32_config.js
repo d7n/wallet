@@ -1,1 +1,1 @@
-var mnemonic = "busy mother choose amazing globe nation frost vehicle balcony use tattoo pride";
+var mnemonic = "obey rapid early rather kind letter mushroom pride cook close turn wrap";

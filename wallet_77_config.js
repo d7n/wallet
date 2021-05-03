@@ -1,1 +1,1 @@
-var mnemonic = "observe question fancy flat planet eagle exhibit dune eager label empower cup";
+var mnemonic = "turkey girl retreat piano canal flat coyote purity frog someone ready blossom";

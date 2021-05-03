@@ -1,1 +1,1 @@
-var mnemonic = "artist inject arrive decade maple bonus bread hybrid dove artefact more argue";
+var mnemonic = "manage knife impulse raven move hidden cup fiction play pair fun cup";

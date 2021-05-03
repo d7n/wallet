@@ -1,1 +1,1 @@
-var mnemonic = "drift million test bid icon foam utility awful second shaft hover soon";
+var mnemonic = "mouse tomorrow hollow drum rather kit wish elite cliff flash spend blossom";

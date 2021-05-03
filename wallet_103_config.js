@@ -1,1 +1,1 @@
-var mnemonic = "million cancel rent camera priority broom paddle expire travel convince strong expand";
+var mnemonic = "fashion protect shoulder raise they bridge clever struggle brand sea dash nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "common element cluster canoe fashion talk hamster identify bubble couch legal abuse";
+var mnemonic = "faith polar same tenant tired slot put tissue beef surge almost wood";

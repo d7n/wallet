@@ -1,1 +1,1 @@
-var mnemonic = "shoot matrix goat party cook brush assume length leaf jar tomato arrest";
+var mnemonic = "crash wild clutch plastic produce vast lunar report health destroy aisle engine";

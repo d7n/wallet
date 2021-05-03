@@ -1,1 +1,1 @@
-var mnemonic = "path injury survey habit off oven borrow evolve quality siege above dragon";
+var mnemonic = "grace sample primary census universe because main idea genius decide time ostrich";

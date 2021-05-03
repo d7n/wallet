@@ -1,1 +1,1 @@
-var mnemonic = "seat afraid enable trigger squeeze pelican satisfy seat jar subject school crack";
+var mnemonic = "label tourist ski meat evidence exile among service trigger rubber gun same";

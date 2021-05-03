@@ -1,1 +1,1 @@
-var mnemonic = "maze smoke hazard wine evil eternal purchase apology style this dumb chalk";
+var mnemonic = "edit place oyster sudden panther blame desert dentist hole undo degree maple";

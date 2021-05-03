@@ -1,1 +1,1 @@
-var mnemonic = "anger boss wrestle torch twice fuel nice spawn monster canoe cargo wagon";
+var mnemonic = "piece tool plastic latin balcony volume soda blame sheriff hire chimney museum";

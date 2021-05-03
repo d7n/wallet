@@ -1,1 +1,1 @@
-var mnemonic = "fix hip double trash later knock rural escape just simple royal teach";
+var mnemonic = "firm fancy blind fall opera debate sweet grain home laugh sorry engine";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch any boil obvious danger nice apple edge just dose era faith";
+var mnemonic = "matrix gather park act pond super theme aware type upper cross visual";

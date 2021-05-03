@@ -1,1 +1,1 @@
-var mnemonic = "rain family rail want federal mask asthma run move observe shaft calm";
+var mnemonic = "into stamp visa gospel street win boss tortoise ill resource place hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "return era ethics private blue reward abstract review column blind skin people";
+var mnemonic = "solid matter hand wash supply basket trick subway shop ticket orphan erase";

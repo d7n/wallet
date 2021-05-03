@@ -1,1 +1,1 @@
-var mnemonic = "bicycle mammal thunder face balcony index diesel rival message hill diesel suggest";
+var mnemonic = "blur canyon abandon enable dragon patient click drastic elbow aunt entire seven";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi brother dolphin poverty heavy nuclear local gym term actual brand fade";
+var mnemonic = "mammal final own tag census cloth funny trip jelly panic double solution";

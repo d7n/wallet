@@ -1,1 +1,1 @@
-var mnemonic = "devote enjoy borrow ozone suggest accident palm choose pizza first oval road";
+var mnemonic = "arena pet network spare post stairs hello decide degree because dinner truck";

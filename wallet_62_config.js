@@ -1,1 +1,1 @@
-var mnemonic = "gown treat chicken game success announce stadium apple tattoo cigar broccoli famous";
+var mnemonic = "moral post bracket into fold exit common infant sketch delay burst design";

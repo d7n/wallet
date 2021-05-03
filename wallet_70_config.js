@@ -1,1 +1,1 @@
-var mnemonic = "craft kangaroo kitten vote ethics curve distance caught cotton blanket you check";
+var mnemonic = "find museum soon antique once dilemma dice jungle list second decade common";

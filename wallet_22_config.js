@@ -1,1 +1,1 @@
-var mnemonic = "nut pumpkin peace barrel tilt section inflict replace tissue deal concert joy";
+var mnemonic = "melody vintage rent bring pill attract vintage empower asset car dirt unhappy";

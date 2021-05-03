@@ -1,1 +1,1 @@
-var mnemonic = "loyal awake pride wagon bicycle rice canvas convince private monitor click baby";
+var mnemonic = "lucky immune panel earth crisp device tent snake defense remove chase tip";

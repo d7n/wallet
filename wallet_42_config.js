@@ -1,1 +1,1 @@
-var mnemonic = "own share blur tired short ten decade normal blanket hockey dry weapon";
+var mnemonic = "tissue gaze bind uphold deny razor eight pitch jungle essence sport evoke";

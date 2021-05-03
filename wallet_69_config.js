@@ -1,1 +1,1 @@
-var mnemonic = "melt accuse together hurt urban purchase setup lady spring enable umbrella quantum";
+var mnemonic = "afraid rule human exhibit easy confirm feature agree illegal improve argue slogan";

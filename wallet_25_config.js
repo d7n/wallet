@@ -1,1 +1,1 @@
-var mnemonic = "expand reduce young snap rhythm sail market alarm piece throw swim domain";
+var mnemonic = "grunt boat fever fringe calm stumble govern engine laundry winner usage bag";

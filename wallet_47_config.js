@@ -1,1 +1,1 @@
-var mnemonic = "oak cheap all please salute dizzy child renew town card prize few";
+var mnemonic = "tuition jungle wage delay crop clump tell scout amount width view true";

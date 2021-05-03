@@ -1,1 +1,1 @@
-var mnemonic = "type surface pattern typical kick umbrella gym scissors power scrub cook raven";
+var mnemonic = "champion problem address material exercise audit inform mutual bus person kite kidney";

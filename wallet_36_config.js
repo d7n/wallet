@@ -1,1 +1,1 @@
-var mnemonic = "clutch giant elbow marine payment mechanic radio fashion public sail swim window";
+var mnemonic = "reflect punch index estate electric curious easily dish whale list sting erase";

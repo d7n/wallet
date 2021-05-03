@@ -1,1 +1,1 @@
-var mnemonic = "flame oil can skull cream sand north mule remain print special soccer";
+var mnemonic = "recipe vintage reunion deliver wet reflect panel glance equal tell nephew liquid";

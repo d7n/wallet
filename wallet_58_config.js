@@ -1,1 +1,1 @@
-var mnemonic = "filter steel drift decorate card energy age defy repeat report plunge apology";
+var mnemonic = "topple erupt world snap fabric crouch venture fish evidence essay fly similar";

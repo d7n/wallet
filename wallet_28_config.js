@@ -1,1 +1,1 @@
-var mnemonic = "silver assist rebuild glass answer ugly scrub speak thank ecology satoshi uncle";
+var mnemonic = "kitchen pyramid fine blur trust find nice emerge zone raccoon parent weasel";

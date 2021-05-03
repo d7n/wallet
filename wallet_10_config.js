@@ -1,1 +1,1 @@
-var mnemonic = "snake hip claw napkin trim reason thing always panic scrub you napkin";
+var mnemonic = "sorry rice pledge right gossip ignore pet oppose young trick style wrist";

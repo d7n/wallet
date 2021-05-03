@@ -1,1 +1,1 @@
-var mnemonic = "unaware chimney town dad wild van cannon junior minimum brave spatial question";
+var mnemonic = "mechanic tape advice color knife cruel another profit shy crack attract grief";

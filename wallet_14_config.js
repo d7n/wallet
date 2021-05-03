@@ -1,1 +1,1 @@
-var mnemonic = "dumb million load assume pilot unusual robot priority salute happy robot wing";
+var mnemonic = "squirrel moral claw stereo frozen limit size dose beef elegant essence float";

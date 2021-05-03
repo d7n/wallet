@@ -1,1 +1,1 @@
-var mnemonic = "once address hand night wash census describe noise later ranch cause knock";
+var mnemonic = "glue mechanic lyrics infant talk weekend combine sting cannon resist pudding obey";

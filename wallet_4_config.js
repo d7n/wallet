@@ -1,1 +1,1 @@
-var mnemonic = "shell devote either camera virtual crop narrow keep jelly amount tree proud";
+var mnemonic = "object ready kit accident state sunny simple must gun index lab alley";

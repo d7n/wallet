@@ -1,1 +1,1 @@
-var mnemonic = "olympic leopard salmon base result duty inspire stuff disease hammer siege grocery";
+var mnemonic = "hurdle finish clever prize tired evolve hip mango swallow only improve zone";

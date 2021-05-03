@@ -1,1 +1,1 @@
-var mnemonic = "learn slam cabbage ball guess mixture ethics maze jewel impact price fiction";
+var mnemonic = "piano bench hand chimney knock credit quick boost remind office spirit east";

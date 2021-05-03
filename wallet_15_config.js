@@ -1,1 +1,1 @@
-var mnemonic = "seed arena assault present mistake injury fury fetch release invite squeeze scan";
+var mnemonic = "juice use distance leopard soul keep planet blood sight combine hood option";

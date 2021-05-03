@@ -1,1 +1,1 @@
-var mnemonic = "verb dinosaur donkey job salad pipe enforce never story tower repeat travel";
+var mnemonic = "arena profit rebuild park soap fiber cook crash pair snake language shadow";
