@@ -1,1 +1,1 @@
-var mnemonic = "creek decline bubble attitude arrange blouse equip brass title modify fee minute";
+var mnemonic = "expand depth tiny engine stand quiz erase labor topic despair sick panel";

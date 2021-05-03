@@ -1,1 +1,1 @@
-var mnemonic = "casual crystal impose census random flower ketchup main tenant glue fix income";
+var mnemonic = "gain picture entire key cereal viable away judge menu fantasy ethics object";

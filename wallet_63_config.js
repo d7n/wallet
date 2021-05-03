@@ -1,1 +1,1 @@
-var mnemonic = "music mystery saddle mechanic toss planet net fatigue pepper library rival biology";
+var mnemonic = "act conduct father gasp figure better fiber double orphan busy stamp snap";

@@ -1,1 +1,1 @@
-var mnemonic = "resist alert trigger hawk addict immense puzzle couch casual exhaust laugh never";
+var mnemonic = "crime bone soldier sauce village wealth rescue during random grief crystal raise";

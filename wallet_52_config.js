@@ -1,1 +1,1 @@
-var mnemonic = "hood corn welcome blanket velvet acoustic velvet steak cupboard toilet cancel crane";
+var mnemonic = "manual weekend material giggle abandon pumpkin attend mail true off panther basket";

@@ -1,1 +1,1 @@
-var mnemonic = "grab blur dice shallow planet toddler rescue exit beach dry unveil success";
+var mnemonic = "picnic cattle skirt fashion speed cheese stand security nut borrow adapt enact";

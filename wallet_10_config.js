@@ -1,1 +1,1 @@
-var mnemonic = "unfold cinnamon virus sing wife sight zero clerk romance tiny empty between";
+var mnemonic = "cup glimpse because share pottery receive punch chaos pudding lounge anxiety warm";

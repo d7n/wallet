@@ -1,1 +1,1 @@
-var mnemonic = "merit strong canoe average burden verify assist come obtain relax tissue olive";
+var mnemonic = "mom love stadium hover kiss citizen carpet welcome client kangaroo eyebrow muffin";

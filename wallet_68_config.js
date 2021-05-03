@@ -1,1 +1,1 @@
-var mnemonic = "neck thing lake box stem country raven invite rice slide drill inquiry";
+var mnemonic = "blush gauge man fish intact depart oak valve tree lady smoke ill";

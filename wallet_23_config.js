@@ -1,1 +1,1 @@
-var mnemonic = "cave green play casual ramp cool author nasty alert liquid song penalty";
+var mnemonic = "save middle bleak feature whip race cushion awful rack expand squirrel token";

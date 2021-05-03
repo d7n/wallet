@@ -1,1 +1,1 @@
-var mnemonic = "assault tool latin join powder huge vapor photo private consider stock chest";
+var mnemonic = "energy helmet name chapter squeeze memory truck second boy equal right sample";

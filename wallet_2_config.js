@@ -1,1 +1,1 @@
-var mnemonic = "bridge glide dream rule wheel double banner chapter soldier actual credit symptom";
+var mnemonic = "render calm blood heart accuse work connect truly donate wheat photo engage";

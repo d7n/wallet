@@ -1,1 +1,1 @@
-var mnemonic = "fame diary raven obvious range coyote man forest home divert ribbon evidence";
+var mnemonic = "project jazz survey adjust keen unaware deposit tuition word enter carbon cry";

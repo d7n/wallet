@@ -1,1 +1,1 @@
-var mnemonic = "town friend into stay test crack version address wheat strategy opera forum";
+var mnemonic = "leg snow avoid divide talk kingdom pass wide extend amateur extra broom";

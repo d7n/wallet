@@ -1,1 +1,1 @@
-var mnemonic = "prison add couch crash because kangaroo short hurdle turtle grief manual figure";
+var mnemonic = "evidence man good maximum engage please enter wrap hunt fashion dry arena";

@@ -1,1 +1,1 @@
-var mnemonic = "grow tuna escape consider omit fade ignore inflict possible bubble ceiling skull";
+var mnemonic = "general prepare convince injury clever mammal fence gauge outdoor nephew win achieve";

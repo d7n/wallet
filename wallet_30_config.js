@@ -1,1 +1,1 @@
-var mnemonic = "win shy layer method walnut release nothing already mind physical engage climb";
+var mnemonic = "open west keep gather turtle cloth vessel cotton perfect enhance stumble tent";

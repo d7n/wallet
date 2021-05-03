@@ -1,1 +1,1 @@
-var mnemonic = "debate trade clutch palm coil famous green hybrid black report aerobic shiver";
+var mnemonic = "replace exit analyst art slice later drip mix next labor neutral matter";

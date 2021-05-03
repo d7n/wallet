@@ -1,1 +1,1 @@
-var mnemonic = "alone drum spoil enforce normal token whale purity orphan promote volcano feed";
+var mnemonic = "artist suffer ivory ostrich mixture report any employ ethics useful own cheap";

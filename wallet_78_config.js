@@ -1,1 +1,1 @@
-var mnemonic = "youth thumb segment certain club display fan forest love fiber sting almost";
+var mnemonic = "shadow employ write absurd roast regular gorilla tooth prison reunion capable usage";

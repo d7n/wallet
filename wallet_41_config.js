@@ -1,1 +1,1 @@
-var mnemonic = "toy angry water marriage diesel learn punch thank right parade man act";
+var mnemonic = "project opinion remind deputy glove lucky bind swarm glass method hungry abandon";

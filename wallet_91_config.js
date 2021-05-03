@@ -1,1 +1,1 @@
-var mnemonic = "tower parent goose sword hat congress stereo finger lumber swallow frown caution";
+var mnemonic = "lawsuit range craft sing smooth uniform season alpha fan scan link remain";

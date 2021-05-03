@@ -1,1 +1,1 @@
-var mnemonic = "coconut stove balcony tornado chair profit consider bounce penalty icon govern curve";
+var mnemonic = "buzz infant fix ahead pulp resist exercise mansion section couple inject essay";

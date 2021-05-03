@@ -1,1 +1,1 @@
-var mnemonic = "genuine drastic margin lab stereo side solve urge track copper segment burst";
+var mnemonic = "rural sport source athlete ten gesture obscure enrich mention stem valley shiver";

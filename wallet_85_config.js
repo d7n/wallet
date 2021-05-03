@@ -1,1 +1,1 @@
-var mnemonic = "spatial demise panic elbow chunk able prefer latin island scrap nature smooth";
+var mnemonic = "anxiety message govern load ticket cheese rely eternal knock place belt gym";

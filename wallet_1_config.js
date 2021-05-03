@@ -1,1 +1,1 @@
-var mnemonic = "lazy hurt cargo rebel student airport copper dirt dad addict gauge trick";
+var mnemonic = "pencil captain genre chief feature puppy drift strategy aerobic drop monkey stable";

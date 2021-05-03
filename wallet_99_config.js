@@ -1,1 +1,1 @@
-var mnemonic = "hope guard lunar sure rabbit shuffle tissue burst boil dream try actual";
+var mnemonic = "south type luggage verb clerk luxury life essence grocery weather sock best";

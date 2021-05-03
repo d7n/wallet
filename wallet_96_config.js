@@ -1,1 +1,1 @@
-var mnemonic = "witness recycle cement access world virtual real nasty clock soap flat vast";
+var mnemonic = "helmet jelly urban original craft smooth diesel cactus orbit shoe liquid join";

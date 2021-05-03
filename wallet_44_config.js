@@ -1,1 +1,1 @@
-var mnemonic = "law hospital tribe neglect confirm rabbit income share credit trend kitten surface";
+var mnemonic = "idea juice cruel cement depend share fly dose tattoo wrap pistol help";

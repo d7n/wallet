@@ -1,1 +1,1 @@
-var mnemonic = "shrug pitch tiny galaxy surge dignity blast chronic ugly february champion length";
+var mnemonic = "demand typical lend profit people caution ranch guess scale rescue genuine soldier";

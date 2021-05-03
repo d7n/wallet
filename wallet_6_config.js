@@ -1,1 +1,1 @@
-var mnemonic = "unfold sing park like strategy blush another puzzle robust artwork sand language";
+var mnemonic = "empower conduct laugh donkey guide ship ocean find total void edge scorpion";

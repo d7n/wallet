@@ -1,1 +1,1 @@
-var mnemonic = "secret renew strong judge sad will delay kit pizza session token tower";
+var mnemonic = "torch loan bird sail follow recipe hint subject abuse tiny blame jungle";

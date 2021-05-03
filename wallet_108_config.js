@@ -1,1 +1,1 @@
-var mnemonic = "canoe laptop focus toilet smooth clip frame school love sauce mercy tomato";
+var mnemonic = "near thrive side drink glow whip unable snack room boil giant adjust";

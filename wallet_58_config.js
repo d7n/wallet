@@ -1,1 +1,1 @@
-var mnemonic = "obscure express demise priority under wagon pave edit castle lawsuit bid tenant";
+var mnemonic = "case slight jump virus inner exhibit blush isolate shove fossil inmate jazz";

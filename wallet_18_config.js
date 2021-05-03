@@ -1,1 +1,1 @@
-var mnemonic = "sketch shed favorite squirrel wave edge high elegant spirit various awkward fluid";
+var mnemonic = "balcony expand cruise tape dawn sort feature february depend repair drive bar";

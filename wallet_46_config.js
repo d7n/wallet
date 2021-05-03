@@ -1,1 +1,1 @@
-var mnemonic = "ghost rare fitness stomach senior neutral tornado dune fine success loop ozone";
+var mnemonic = "poet volume giraffe fee figure minimum law coin comfort banner speed tower";

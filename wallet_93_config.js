@@ -1,1 +1,1 @@
-var mnemonic = "adult left snake deposit elite carbon flip canvas inhale few unknown notice";
+var mnemonic = "usual stumble orbit deputy tattoo candy across cushion pull output alert settle";

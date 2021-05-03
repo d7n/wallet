@@ -1,1 +1,1 @@
-var mnemonic = "oven mail fragile manage hire city leaf cabin join ramp game juice";
+var mnemonic = "actress slight virus cabbage half yard quote public find donor wage strong";

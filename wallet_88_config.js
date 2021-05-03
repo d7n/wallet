@@ -1,1 +1,1 @@
-var mnemonic = "seminar tired stadium blood shaft certain pond short coin monster load vocal";
+var mnemonic = "cousin local enough illness dinosaur police grit leave spider black robust face";

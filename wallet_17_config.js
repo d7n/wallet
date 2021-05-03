@@ -1,1 +1,1 @@
-var mnemonic = "east loan banner fish fix buzz turn feel limit light split salt";
+var mnemonic = "occur fossil above build throw extend clerk upset weather small spread satoshi";

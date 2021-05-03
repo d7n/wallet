@@ -1,1 +1,1 @@
-var mnemonic = "crop tag tortoise holiday cable make sentence oil grab risk width endless";
+var mnemonic = "dinosaur vault rapid fragile engine annual blur leg prosper wrap wire prepare";

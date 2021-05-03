@@ -1,1 +1,1 @@
-var mnemonic = "manage own chat lyrics adjust age boost divorce network rookie park mixed";
+var mnemonic = "return olympic shrug silent fluid fine razor shy ignore ordinary vicious melody";

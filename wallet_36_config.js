@@ -1,1 +1,1 @@
-var mnemonic = "detail degree patch banana push offer until salute special before car dentist";
+var mnemonic = "amused town lock rail robot short flee apology before reason venue note";

@@ -1,1 +1,1 @@
-var mnemonic = "hand about mystery spread firm shock identify reveal ostrich ritual tell clinic";
+var mnemonic = "escape master replace spoon tag file easily mom maximum cook stove strong";

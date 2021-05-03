@@ -1,1 +1,1 @@
-var mnemonic = "mean happy usage mistake concert master disease stand orange middle trap soap";
+var mnemonic = "derive brave dragon swamp spend gallery labor apart verb clean margin rely";

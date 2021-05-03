@@ -1,1 +1,1 @@
-var mnemonic = "metal march august bless major word limb side mind rocket family hill";
+var mnemonic = "absent into someone tilt barrel all resource prison tube danger unable exclude";

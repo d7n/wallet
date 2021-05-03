@@ -1,1 +1,1 @@
-var mnemonic = "reopen team exclude appear lyrics salmon moral voice uncle guess gallery toe";
+var mnemonic = "iron filter palm home rescue scan abandon spatial film salon fine acquire";

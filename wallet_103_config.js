@@ -1,1 +1,1 @@
-var mnemonic = "calm dirt exit tree diet picnic entry sting shoulder invite entry alien";
+var mnemonic = "bounce stay unfair useful mechanic purpose muscle cactus squirrel basket today crunch";

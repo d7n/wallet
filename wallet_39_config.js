@@ -1,1 +1,1 @@
-var mnemonic = "utility waste today excite life vintage paddle shy visa depth work carry";
+var mnemonic = "hub best churn lens piano receive medal pulp rail pond quantum dish";

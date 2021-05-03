@@ -1,1 +1,1 @@
-var mnemonic = "tank eternal season glad domain very upgrade guard vacuum lamp invest fiscal";
+var mnemonic = "miracle grocery picture away gloom price certain crumble embrace sun craft patch";

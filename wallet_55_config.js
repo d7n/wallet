@@ -1,1 +1,1 @@
-var mnemonic = "reflect animal wonder excite thank warrior vibrant insect prefer mimic shove glory";
+var mnemonic = "glove glare bamboo live decorate labor normal link expand pole soon entire";

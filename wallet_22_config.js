@@ -1,1 +1,1 @@
-var mnemonic = "lamp wood disease taxi employ april match salon junior title before crystal";
+var mnemonic = "hidden adjust purchase comfort mass liberty imitate kick zoo flame drink local";

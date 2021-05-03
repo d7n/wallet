@@ -1,1 +1,1 @@
-var mnemonic = "boss style fee great differ gentle arrest wonder program chuckle wood feature";
+var mnemonic = "input climb speak electric medal sponsor distance canyon outside obtain fury truly";

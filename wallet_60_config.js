@@ -1,1 +1,1 @@
-var mnemonic = "drop bamboo green dress donate rhythm try expand replace destroy praise social";
+var mnemonic = "castle clinic rain absurd warrior glue brain nurse between topple wheat tent";

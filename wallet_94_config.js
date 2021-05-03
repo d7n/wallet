@@ -1,1 +1,1 @@
-var mnemonic = "stay book scrap purity click chronic urge amused grain zoo maple agent";
+var mnemonic = "critic wheel minor topic analyst injury evolve plunge thing icon shallow school";

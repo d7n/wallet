@@ -1,1 +1,1 @@
-var mnemonic = "option amateur piano earn smoke upset veteran wage bubble laundry fan fence";
+var mnemonic = "play north any youth skull keen imitate powder ankle inflict coach oval";

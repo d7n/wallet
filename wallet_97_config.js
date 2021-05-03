@@ -1,1 +1,1 @@
-var mnemonic = "museum weekend wasp leisure interest chimney tunnel term clutch cube hundred solar";
+var mnemonic = "throw eyebrow hub response egg stairs vacant near uncle glory wing glad";

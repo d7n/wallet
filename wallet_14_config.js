@@ -1,1 +1,1 @@
-var mnemonic = "chunk sure actual denial shrug weekend poverty level wage prison there transfer";
+var mnemonic = "cluster sleep journey brain strike require foster loyal shop develop into clip";

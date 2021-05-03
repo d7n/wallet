@@ -1,1 +1,1 @@
-var mnemonic = "search trumpet october diamond spray shoot model inner fresh bronze argue buffalo";
+var mnemonic = "cancel enter pride catalog please tool moral favorite output useless search practice";

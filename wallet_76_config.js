@@ -1,1 +1,1 @@
-var mnemonic = "frost curve cake true sausage worry expire negative like please left furnace";
+var mnemonic = "kite ribbon reveal person era coconut then swap cattle example harbor reject";

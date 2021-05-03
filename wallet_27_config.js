@@ -1,1 +1,1 @@
-var mnemonic = "youth quiz eager oppose patch core blur attitude vintage slender blind gown";
+var mnemonic = "typical priority gain degree rabbit measure crew obtain polar radar flight chronic";

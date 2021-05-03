@@ -1,1 +1,1 @@
-var mnemonic = "become ridge crunch stool midnight stick cabbage trust smart arctic bicycle satoshi";
+var mnemonic = "marriage bring chase animal token diet mail lab toy region color upon";

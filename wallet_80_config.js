@@ -1,1 +1,1 @@
-var mnemonic = "sea escape leisure pulse tumble design outdoor pole cart avocado rich coconut";
+var mnemonic = "bright shine recycle cake harbor process bar media only mushroom rice accuse";

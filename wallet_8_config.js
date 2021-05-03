@@ -1,1 +1,1 @@
-var mnemonic = "party fatal execute culture chunk horse document trust talent glue caught grid";
+var mnemonic = "they tray present badge habit soccer chicken spirit fancy tattoo catalog rival";

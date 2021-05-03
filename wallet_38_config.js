@@ -1,1 +1,1 @@
-var mnemonic = "crucial cherry predict unable pigeon shield best ladder jelly glide divide spice";
+var mnemonic = "hire bicycle ridge trigger own voice bind plate pair caution opinion cloth";

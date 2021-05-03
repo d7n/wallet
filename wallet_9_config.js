@@ -1,1 +1,1 @@
-var mnemonic = "world broom language fork addict organ popular erosion area surface sock guilt";
+var mnemonic = "mother scout problem tape rhythm error coil finish guess slab future denial";

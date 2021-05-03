@@ -1,1 +1,1 @@
-var mnemonic = "fence suit explain answer clever myth nut trend spice rent small dice";
+var mnemonic = "soul boost curtain elegant buzz lyrics card task remain human bird pilot";

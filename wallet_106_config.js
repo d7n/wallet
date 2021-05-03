@@ -1,1 +1,1 @@
-var mnemonic = "reject bicycle mix pill mean festival quick suggest tree harvest evidence luxury";
+var mnemonic = "economy ill artist lyrics hockey side flower time image omit earn solution";

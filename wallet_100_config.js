@@ -1,1 +1,1 @@
-var mnemonic = "pistol judge random april ready wrist hat member quality virus mention cluster";
+var mnemonic = "finger corn primary museum dutch drum decline bright stuff rib fruit rug";

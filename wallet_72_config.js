@@ -1,1 +1,1 @@
-var mnemonic = "plug honey south obscure certain fruit maze drum tone into decorate nominee";
+var mnemonic = "main august remind secret benefit address tube school addict produce vital mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "choose solution clump exhaust mirror dove nephew guard day dove rubber oil";
+var mnemonic = "behind heart hello narrow narrow digital wagon dice ship sadness image repair";

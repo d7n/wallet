@@ -1,1 +1,1 @@
-var mnemonic = "tackle warrior sibling scrub waste alcohol mass crucial little add cover blind";
+var mnemonic = "slide siren apart toast dove across clutch item gun spawn orchard traffic";

@@ -1,1 +1,1 @@
-var mnemonic = "humor onion category minute display bronze happy bird rely lens blur play";
+var mnemonic = "motion social giant hand echo surprise train inside vicious tourist peace merry";

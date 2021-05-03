@@ -1,1 +1,1 @@
-var mnemonic = "dove girl breeze helmet giant ahead clinic whisper hover sight siege verify";
+var mnemonic = "tilt decrease input penalty person outdoor harsh sudden rabbit immune champion cruel";

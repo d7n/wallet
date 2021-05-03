@@ -1,1 +1,1 @@
-var mnemonic = "olive wire retire early dove learn screen laptop split wagon wagon ocean";
+var mnemonic = "bright modify picnic judge chat forest hurdle choice catch destroy reason win";

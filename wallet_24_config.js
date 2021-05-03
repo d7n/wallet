@@ -1,1 +1,1 @@
-var mnemonic = "wool outdoor garden rebuild find soft exotic tonight neglect model display frame";
+var mnemonic = "word scorpion horror smoke fragile banana bleak local spatial zone wait atom";

@@ -1,1 +1,1 @@
-var mnemonic = "fragile apology cereal foot gown chronic theme subject clip august bottom trim";
+var mnemonic = "energy inch theme please nice body family legal draft frequent draw zone";

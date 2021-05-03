@@ -1,1 +1,1 @@
-var mnemonic = "large entry hand mirror iron upon mix trial rug oppose train service";
+var mnemonic = "luxury once road undo prison tail beyond random outside ability remain settle";

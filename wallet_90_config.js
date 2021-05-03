@@ -1,1 +1,1 @@
-var mnemonic = "brave tortoise orchard true unable lunar blame phone picnic vague bus metal";
+var mnemonic = "eternal example tongue waste south this diesel develop fortune wide forget onion";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket pistol object romance enforce hold peanut shaft net element charge glory";
+var mnemonic = "mutual repeat coil symbol lion wonder bronze meat entire balcony rich render";
