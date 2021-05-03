@@ -1,1 +1,1 @@
-var mnemonic = "shallow between mouse vapor enemy assist gauge reveal veteran force over suggest";
+var mnemonic = "grow tuna escape consider omit fade ignore inflict possible bubble ceiling skull";

@@ -1,1 +1,1 @@
-var mnemonic = "course nut proud negative manage side fit plunge cancel acoustic mushroom twelve";
+var mnemonic = "unfold sing park like strategy blush another puzzle robust artwork sand language";

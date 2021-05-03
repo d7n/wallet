@@ -1,1 +1,1 @@
-var mnemonic = "during deer aspect photo pigeon six joy priority fog lecture congress mammal";
+var mnemonic = "spread repeat debate close patch dress speak despair relax gift asthma denial";

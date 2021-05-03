@@ -1,1 +1,1 @@
-var mnemonic = "measure shrug wreck six dad little glad tomorrow upgrade advice force another";
+var mnemonic = "reopen team exclude appear lyrics salmon moral voice uncle guess gallery toe";

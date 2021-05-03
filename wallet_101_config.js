@@ -1,1 +1,1 @@
-var mnemonic = "sibling liberty tired unit early ecology address correct charge resemble hurry trend";
+var mnemonic = "hand about mystery spread firm shock identify reveal ostrich ritual tell clinic";

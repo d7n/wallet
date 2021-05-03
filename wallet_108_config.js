@@ -1,1 +1,1 @@
-var mnemonic = "end become dumb casino whisper draft hospital reward million lecture joy piano";
+var mnemonic = "canoe laptop focus toilet smooth clip frame school love sauce mercy tomato";

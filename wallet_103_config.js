@@ -1,1 +1,1 @@
-var mnemonic = "frown enact chest table tooth faith burden matter air produce marriage frog";
+var mnemonic = "calm dirt exit tree diet picnic entry sting shoulder invite entry alien";

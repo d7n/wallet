@@ -1,1 +1,1 @@
-var mnemonic = "ready person book tissue century jewel village soon dash raise advance social";
+var mnemonic = "boil cotton normal brass mammal space girl inhale result verb sea shoe";

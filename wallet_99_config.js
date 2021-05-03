@@ -1,1 +1,1 @@
-var mnemonic = "gospel barrel slam piano crystal good build punch whale dolphin hold hundred";
+var mnemonic = "hope guard lunar sure rabbit shuffle tissue burst boil dream try actual";

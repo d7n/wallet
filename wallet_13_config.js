@@ -1,1 +1,1 @@
-var mnemonic = "town brisk stay cotton tube party veteran mimic aisle cash enact analyst";
+var mnemonic = "fragile apology cereal foot gown chronic theme subject clip august bottom trim";

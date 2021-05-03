@@ -1,1 +1,1 @@
-var mnemonic = "reward what steak sauce update prefer thing mesh tornado option lonely box";
+var mnemonic = "search trumpet october diamond spray shoot model inner fresh bronze argue buffalo";

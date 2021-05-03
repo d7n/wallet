@@ -1,1 +1,1 @@
-var mnemonic = "dice can category together destroy tragic holiday time crew monster morning coffee";
+var mnemonic = "assume country sunset web trim adapt sponsor clarify impulse inspire promote robust";

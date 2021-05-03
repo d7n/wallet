@@ -1,1 +1,1 @@
-var mnemonic = "merit olive drip culture hello peanut buyer south census clump proof organ";
+var mnemonic = "metal march august bless major word limb side mind rocket family hill";

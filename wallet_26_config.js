@@ -1,1 +1,1 @@
-var mnemonic = "place crater produce dinosaur fantasy only mechanic pluck snow drill toast mirror";
+var mnemonic = "element cloth travel basic glory desert source humor cloth boat surround whip";

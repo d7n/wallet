@@ -1,1 +1,1 @@
-var mnemonic = "thank artefact cool hold undo clay arrive coin adjust crack circle common";
+var mnemonic = "gasp afraid scan mean earth mystery cement leader kiwi kingdom palace young";

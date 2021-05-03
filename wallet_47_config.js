@@ -1,1 +1,1 @@
-var mnemonic = "brave skirt story illegal sketch solve danger caution provide garment bounce notice";
+var mnemonic = "crop tag tortoise holiday cable make sentence oil grab risk width endless";

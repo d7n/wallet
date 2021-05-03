@@ -1,1 +1,1 @@
-var mnemonic = "culture learn shrug wall rule budget camp kid pigeon hurry wheel candy";
+var mnemonic = "town friend into stay test crack version address wheat strategy opera forum";

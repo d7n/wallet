@@ -1,1 +1,1 @@
-var mnemonic = "trade desk hurdle quick assist rival dilemma hint mirror holiday lecture long";
+var mnemonic = "bridge glide dream rule wheel double banner chapter soldier actual credit symptom";

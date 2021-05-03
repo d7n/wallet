@@ -1,1 +1,1 @@
-var mnemonic = "atom absorb future lobster smart duck iron degree bracket tuition tree drastic";
+var mnemonic = "drop bamboo green dress donate rhythm try expand replace destroy praise social";

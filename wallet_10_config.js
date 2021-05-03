@@ -1,1 +1,1 @@
-var mnemonic = "dust junior artist news donate shop scare trade small flat baby indicate";
+var mnemonic = "unfold cinnamon virus sing wife sight zero clerk romance tiny empty between";

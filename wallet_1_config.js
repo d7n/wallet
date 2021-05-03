@@ -1,1 +1,1 @@
-var mnemonic = "rigid father bike crane punch fun issue exotic side wonder lawsuit deputy";
+var mnemonic = "lazy hurt cargo rebel student airport copper dirt dad addict gauge trick";

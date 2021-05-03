@@ -1,1 +1,1 @@
-var mnemonic = "dice provide planet goddess gaze pottery today chase rich ring clerk air";
+var mnemonic = "party fatal execute culture chunk horse document trust talent glue caught grid";

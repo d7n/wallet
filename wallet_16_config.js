@@ -1,1 +1,1 @@
-var mnemonic = "page what faint birth usual crime soccer tomorrow spoon vicious position video";
+var mnemonic = "coconut stove balcony tornado chair profit consider bounce penalty icon govern curve";

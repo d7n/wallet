@@ -1,1 +1,1 @@
-var mnemonic = "report crunch input flush stairs snack remain inherit morning pelican move wild";
+var mnemonic = "seek nation ask long enough inner mobile pond swift chapter apology urge";

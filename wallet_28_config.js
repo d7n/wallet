@@ -1,1 +1,1 @@
-var mnemonic = "bonus verify basic depart glow nominee favorite long sock razor whale rude";
+var mnemonic = "casual crystal impose census random flower ketchup main tenant glue fix income";

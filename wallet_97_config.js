@@ -1,1 +1,1 @@
-var mnemonic = "inmate health post myself fork cliff cram rug shove addict slice guess";
+var mnemonic = "museum weekend wasp leisure interest chimney tunnel term clutch cube hundred solar";

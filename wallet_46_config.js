@@ -1,1 +1,1 @@
-var mnemonic = "crush door offer betray base west fade umbrella because edit interest torch";
+var mnemonic = "ghost rare fitness stomach senior neutral tornado dune fine success loop ozone";

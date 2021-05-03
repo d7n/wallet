@@ -1,1 +1,1 @@
-var mnemonic = "bonus cost situate sick love outside grace salon job praise expire tomorrow";
+var mnemonic = "assault tool latin join powder huge vapor photo private consider stock chest";

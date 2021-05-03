@@ -1,1 +1,1 @@
-var mnemonic = "right armed section eager negative pupil hobby excite cradle rent polar worry";
+var mnemonic = "sound athlete excess goddess patient guess call acid level train giraffe pulp";

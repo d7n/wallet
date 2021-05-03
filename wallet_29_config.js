@@ -1,1 +1,1 @@
-var mnemonic = "bulb perfect diagram gloom genre weasel involve drastic great flight leopard spike";
+var mnemonic = "tank eternal season glad domain very upgrade guard vacuum lamp invest fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "detect critic thunder snap flash deposit day belt vehicle corn divide canal";
+var mnemonic = "reflect animal wonder excite thank warrior vibrant insect prefer mimic shove glory";

@@ -1,1 +1,1 @@
-var mnemonic = "popular garment female obscure market exist aisle choice brain nominee grit make";
+var mnemonic = "oven mail fragile manage hire city leaf cabin join ramp game juice";

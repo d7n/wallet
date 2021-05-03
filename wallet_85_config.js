@@ -1,1 +1,1 @@
-var mnemonic = "negative finish clean honey resemble plate aware myself neck worth impact ceiling";
+var mnemonic = "spatial demise panic elbow chunk able prefer latin island scrap nature smooth";

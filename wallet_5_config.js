@@ -1,1 +1,1 @@
-var mnemonic = "quick excite title tent risk pudding husband pause soap proof crucial nest";
+var mnemonic = "phone pudding audit crew wing slender truly beauty salon boost firm dinosaur";

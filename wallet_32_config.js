@@ -1,1 +1,1 @@
-var mnemonic = "syrup range infant predict pitch direct squirrel erosion dust position stool invite";
+var mnemonic = "fame diary raven obvious range coyote man forest home divert ribbon evidence";

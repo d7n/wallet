@@ -1,1 +1,1 @@
-var mnemonic = "best awake nurse trigger people slush race display mechanic fiscal believe letter";
+var mnemonic = "choose solution clump exhaust mirror dove nephew guard day dove rubber oil";

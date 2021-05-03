@@ -1,1 +1,1 @@
-var mnemonic = "trap report scout rescue tail elephant disease combine ancient floor shrimp ugly";
+var mnemonic = "world broom language fork addict organ popular erosion area surface sock guilt";

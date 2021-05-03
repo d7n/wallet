@@ -1,1 +1,1 @@
-var mnemonic = "kit solution forget plunge excite comfort filter real bar call faith exit";
+var mnemonic = "mean happy usage mistake concert master disease stand orange middle trap soap";

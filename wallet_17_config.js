@@ -1,1 +1,1 @@
-var mnemonic = "domain gauge cube ugly involve shrimp margin fatal way evolve stone hunt";
+var mnemonic = "east loan banner fish fix buzz turn feel limit light split salt";

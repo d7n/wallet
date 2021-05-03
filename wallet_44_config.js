@@ -1,1 +1,1 @@
-var mnemonic = "bread old collect news cave surge liquid awkward buzz bag arena proof";
+var mnemonic = "law hospital tribe neglect confirm rabbit income share credit trend kitten surface";

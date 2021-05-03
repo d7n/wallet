@@ -1,1 +1,1 @@
-var mnemonic = "wife club buyer release acoustic drum often solar catalog discover ride unable";
+var mnemonic = "option amateur piano earn smoke upset veteran wage bubble laundry fan fence";

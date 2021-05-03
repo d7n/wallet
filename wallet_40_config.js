@@ -1,1 +1,1 @@
-var mnemonic = "dignity auto excite sauce runway foam zone drift property slim country choose";
+var mnemonic = "olive wire retire early dove learn screen laptop split wagon wagon ocean";

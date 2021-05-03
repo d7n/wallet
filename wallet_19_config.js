@@ -1,1 +1,1 @@
-var mnemonic = "galaxy okay flush jacket term regret present tortoise invite depart limit wet";
+var mnemonic = "crew detect enhance maple soup mercy few celery holiday harsh fox mom";

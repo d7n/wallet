@@ -1,1 +1,1 @@
-var mnemonic = "misery rubber brick decide trap gasp pattern shiver tackle bar brother stadium";
+var mnemonic = "tower parent goose sword hat congress stereo finger lumber swallow frown caution";

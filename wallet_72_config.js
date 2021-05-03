@@ -1,1 +1,1 @@
-var mnemonic = "inherit act syrup carpet public swim course acid priority judge sniff ugly";
+var mnemonic = "plug honey south obscure certain fruit maze drum tone into decorate nominee";

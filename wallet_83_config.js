@@ -1,1 +1,1 @@
-var mnemonic = "gravity text width tattoo girl bullet mind afford acquire else session city";
+var mnemonic = "humor onion category minute display bronze happy bird rely lens blur play";

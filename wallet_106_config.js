@@ -1,1 +1,1 @@
-var mnemonic = "mutual door olympic scale scene nasty belt truly also balcony put stable";
+var mnemonic = "reject bicycle mix pill mean festival quick suggest tree harvest evidence luxury";

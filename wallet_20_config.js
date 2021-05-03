@@ -1,1 +1,1 @@
-var mnemonic = "sugar dune result blade oil dance magnet bicycle empty pledge hungry pear";
+var mnemonic = "transfer lawsuit tragic parade differ brother recycle month stomach pluck strike fresh";

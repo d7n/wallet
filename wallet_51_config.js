@@ -1,1 +1,1 @@
-var mnemonic = "retire gap bread uncle afford orphan emerge layer giraffe weasel impose clever";
+var mnemonic = "creek decline bubble attitude arrange blouse equip brass title modify fee minute";

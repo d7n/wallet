@@ -1,1 +1,1 @@
-var mnemonic = "material grow violin online surround layer orchard room achieve bracket piece image";
+var mnemonic = "tackle warrior sibling scrub waste alcohol mass crucial little add cover blind";

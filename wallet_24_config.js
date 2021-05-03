@@ -1,1 +1,1 @@
-var mnemonic = "buddy cabin gauge thunder silver program edit same code perfect sauce imitate";
+var mnemonic = "wool outdoor garden rebuild find soft exotic tonight neglect model display frame";

@@ -1,1 +1,1 @@
-var mnemonic = "sentence honey artwork sleep canoe crop wood ill funny play borrow warfare";
+var mnemonic = "neck thing lake box stem country raven invite rice slide drill inquiry";

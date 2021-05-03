@@ -1,1 +1,1 @@
-var mnemonic = "acid giant rude lift lucky media hobby protect thing normal impose habit";
+var mnemonic = "public horse hour wish pumpkin diary decade slab render change furnace crush";

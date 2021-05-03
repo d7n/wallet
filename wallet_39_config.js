@@ -1,1 +1,1 @@
-var mnemonic = "echo parent inner stomach steak blur retire noodle jar enemy average spike";
+var mnemonic = "utility waste today excite life vintage paddle shy visa depth work carry";

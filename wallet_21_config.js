@@ -1,1 +1,1 @@
-var mnemonic = "outside ginger priority alpha large word garbage reflect jaguar easy rhythm repeat";
+var mnemonic = "merit strong canoe average burden verify assist come obtain relax tissue olive";

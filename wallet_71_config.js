@@ -1,1 +1,1 @@
-var mnemonic = "hope save behave bullet oxygen rotate vocal cruel public valve taxi gospel";
+var mnemonic = "genuine drastic margin lab stereo side solve urge track copper segment burst";

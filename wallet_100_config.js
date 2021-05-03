@@ -1,1 +1,1 @@
-var mnemonic = "unit weasel lonely park oak glove genre clerk tell harvest reduce gather";
+var mnemonic = "pistol judge random april ready wrist hat member quality virus mention cluster";

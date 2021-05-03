@@ -1,1 +1,1 @@
-var mnemonic = "account author book knee hazard much obey plate crash illness spy door";
+var mnemonic = "secret renew strong judge sad will delay kit pizza session token tower";

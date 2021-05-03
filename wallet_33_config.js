@@ -1,1 +1,1 @@
-var mnemonic = "tray drastic network infant kiwi random stove small sport glare mechanic prefer";
+var mnemonic = "fence suit explain answer clever myth nut trend spice rent small dice";

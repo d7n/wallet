@@ -1,1 +1,1 @@
-var mnemonic = "middle over season before dash tag leopard fall under over jazz special";
+var mnemonic = "become ridge crunch stool midnight stick cabbage trust smart arctic bicycle satoshi";

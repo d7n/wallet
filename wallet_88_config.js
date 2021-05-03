@@ -1,1 +1,1 @@
-var mnemonic = "retire sell square liberty second book sing unfair lock tuna glare sad";
+var mnemonic = "seminar tired stadium blood shaft certain pond short coin monster load vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze oven still bubble glare quarter again napkin royal enrich north grant";
+var mnemonic = "stomach wasp firm file always shock gaze crumble sock swap capital tray";

@@ -1,1 +1,1 @@
-var mnemonic = "rib hint duty light banner hair alone sibling faith option squeeze science";
+var mnemonic = "struggle endorse barely snow merry ghost seminar shed ostrich cash wife clay";

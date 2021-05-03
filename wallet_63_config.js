@@ -1,1 +1,1 @@
-var mnemonic = "desk auction secret never furnace artwork cable public click episode tissue infant";
+var mnemonic = "music mystery saddle mechanic toss planet net fatigue pepper library rival biology";

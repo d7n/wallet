@@ -1,1 +1,1 @@
-var mnemonic = "always spread until unknown conduct furnace heavy hundred exhaust reward salt island";
+var mnemonic = "resist alert trigger hawk addict immense puzzle couch casual exhaust laugh never";

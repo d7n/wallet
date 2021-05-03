@@ -1,1 +1,1 @@
-var mnemonic = "test video hero gasp sheriff maple confirm prosper embody blast energy dance";
+var mnemonic = "witness recycle cement access world virtual real nasty clock soap flat vast";

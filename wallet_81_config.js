@@ -1,1 +1,1 @@
-var mnemonic = "aim dismiss duck vibrant choice parent muffin mountain adjust brush harsh will";
+var mnemonic = "depart chief infant marble jungle document spread doctor summer old shoulder sense";

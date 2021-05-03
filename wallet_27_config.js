@@ -1,1 +1,1 @@
-var mnemonic = "february gold uncle mansion inch limb month bomb exclude library nuclear tumble";
+var mnemonic = "youth quiz eager oppose patch core blur attitude vintage slender blind gown";

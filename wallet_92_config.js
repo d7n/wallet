@@ -1,1 +1,1 @@
-var mnemonic = "dinner label gloom basket require host video ill flee latin dilemma sting";
+var mnemonic = "dove girl breeze helmet giant ahead clinic whisper hover sight siege verify";

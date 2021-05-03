@@ -1,1 +1,1 @@
-var mnemonic = "sing mountain hint broken ring faith erase oblige book brave tomorrow play";
+var mnemonic = "puppy bachelor minute witness jacket chase search erase poverty autumn top citizen";

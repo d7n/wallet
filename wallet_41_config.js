@@ -1,1 +1,1 @@
-var mnemonic = "wealth trigger can polar unit vendor blush media disease stairs butter beef";
+var mnemonic = "toy angry water marriage diesel learn punch thank right parade man act";

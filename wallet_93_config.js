@@ -1,1 +1,1 @@
-var mnemonic = "merit okay deer artist decline donate beyond immense sleep liberty toy marine";
+var mnemonic = "adult left snake deposit elite carbon flip canvas inhale few unknown notice";

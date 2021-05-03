@@ -1,1 +1,1 @@
-var mnemonic = "ostrich card someone small manual violin hundred identify leg helmet buyer anchor";
+var mnemonic = "provide bus throw ready swear please plate ticket suffer label aunt welcome";

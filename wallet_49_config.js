@@ -1,1 +1,1 @@
-var mnemonic = "recycle layer spread unique spatial cash steel fan virus gym napkin stick";
+var mnemonic = "sausage hockey fork remember cabin faint viable glory project review enlist fringe";

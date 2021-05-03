@@ -1,1 +1,1 @@
-var mnemonic = "dry twenty private swarm drive clay roast cover expand agent hub fade";
+var mnemonic = "letter thing reform second tree rule trumpet crack unable enforce dinosaur express";

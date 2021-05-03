@@ -1,1 +1,1 @@
-var mnemonic = "pudding climb this happy very example sweet picture float huge speed together";
+var mnemonic = "blossom shop run tool flavor purchase enlist laugh van square retreat assault";

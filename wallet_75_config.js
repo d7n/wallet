@@ -1,1 +1,1 @@
-var mnemonic = "test picture wet cute coach snack cancel bundle erode man vault vintage";
+var mnemonic = "romance repeat way nest width aunt quiz various cause boring tobacco clip";

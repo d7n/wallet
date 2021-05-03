@@ -1,1 +1,1 @@
-var mnemonic = "dentist chase just hurt asthma govern describe blast fat civil attitude obey";
+var mnemonic = "debate trade clutch palm coil famous green hybrid black report aerobic shiver";

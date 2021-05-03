@@ -1,1 +1,1 @@
-var mnemonic = "april script public word around dismiss beef hospital pepper behind life loan";
+var mnemonic = "grab blur dice shallow planet toddler rescue exit beach dry unveil success";

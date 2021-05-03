@@ -1,1 +1,1 @@
-var mnemonic = "slow nuclear under cattle nerve caught violin brown bracket term expect sight";
+var mnemonic = "shrug pitch tiny galaxy surge dignity blast chronic ugly february champion length";

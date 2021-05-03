@@ -1,1 +1,1 @@
-var mnemonic = "curtain fog bleak solution ride margin include virtual goat gallery comfort bleak";
+var mnemonic = "large entry hand mirror iron upon mix trial rug oppose train service";

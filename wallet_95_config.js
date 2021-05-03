@@ -1,1 +1,1 @@
-var mnemonic = "tail tuna maze swear naive parade obey gossip dress bread normal crater";
+var mnemonic = "prison add couch crash because kangaroo short hurdle turtle grief manual figure";

@@ -1,1 +1,1 @@
-var mnemonic = "rude bring wave below usual oven emerge need deer calm inherit stage";
+var mnemonic = "frost curve cake true sausage worry expire negative like please left furnace";

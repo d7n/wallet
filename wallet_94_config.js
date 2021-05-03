@@ -1,1 +1,1 @@
-var mnemonic = "win earn celery ring carbon side stool jacket lunch top coil link";
+var mnemonic = "stay book scrap purity click chronic urge amused grain zoo maple agent";
