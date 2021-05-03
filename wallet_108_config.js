@@ -1,1 +1,1 @@
-var mnemonic = "width pelican scout noodle day ecology clay liberty guide amazing october dish";
+var mnemonic = "gold bomb fitness talk person wear stairs release scene tag return memory";

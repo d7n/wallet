@@ -1,1 +1,1 @@
-var mnemonic = "army general immune motion village garlic snake web expand pizza salon globe";
+var mnemonic = "burst moment knock trumpet equal insane table destroy reject found feel valve";

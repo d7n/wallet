@@ -1,1 +1,1 @@
-var mnemonic = "prevent hair slender evil ocean protect toast soul tape furnace never regret";
+var mnemonic = "comic typical seed exhaust casino celery radio coin swamp sick nurse turn";

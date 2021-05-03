@@ -1,1 +1,1 @@
-var mnemonic = "provide couple expect town develop truth paper few topic sad tape tube";
+var mnemonic = "siege faculty tomorrow quote mass trim eyebrow rule stand circle pear merit";

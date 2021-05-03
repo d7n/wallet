@@ -1,1 +1,1 @@
-var mnemonic = "ridge table knock gauge used protect erupt metal pen midnight sweet stomach";
+var mnemonic = "oxygen edit ice hidden display accident across vanish squirrel peanut choice divorce";

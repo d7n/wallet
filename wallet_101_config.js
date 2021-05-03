@@ -1,1 +1,1 @@
-var mnemonic = "nephew baby also noodle volcano sausage cabbage spend utility raise never clown";
+var mnemonic = "clap coconut math shoe exile answer cattle space host mountain afraid useless";

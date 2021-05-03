@@ -1,1 +1,1 @@
-var mnemonic = "exist bag rhythm round captain hello like tired animal silent play coach";
+var mnemonic = "marble park churn high force vibrant bronze miracle wall strategy view gap";

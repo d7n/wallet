@@ -1,1 +1,1 @@
-var mnemonic = "cherry rent iron help sell jacket argue glow crucial bleak rebuild enroll";
+var mnemonic = "neck plug element panel domain garlic museum quarter eight sauce clown curious";

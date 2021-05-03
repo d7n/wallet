@@ -1,1 +1,1 @@
-var mnemonic = "suit egg truth choice giraffe fence place focus deposit lens mother either";
+var mnemonic = "size treat board benefit alter husband supreme muscle dinner finish switch dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion plug inform nothing muffin apart ceiling detail brush kitchen library first";
+var mnemonic = "car fossil prison play evolve nice tongue nothing job purity draft topple";

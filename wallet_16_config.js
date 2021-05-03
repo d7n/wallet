@@ -1,1 +1,1 @@
-var mnemonic = "found moon february muscle develop reform acoustic toast become sail month purchase";
+var mnemonic = "damage seven sauce pulse fruit follow adjust skill sight pulse address make";

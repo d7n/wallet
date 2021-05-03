@@ -1,1 +1,1 @@
-var mnemonic = "muscle diary firm lonely shoe fire error account ride win eagle trade";
+var mnemonic = "firm dose dress reopen exercise august shell cannon system concert now trust";

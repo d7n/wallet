@@ -1,1 +1,1 @@
-var mnemonic = "idle rookie someone sound length card arm puppy middle bamboo banana state";
+var mnemonic = "exhibit fame promote lizard capital access feature fork chimney need charge bounce";

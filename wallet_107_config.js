@@ -1,1 +1,1 @@
-var mnemonic = "vacant grief vacuum attend nose mystery annual frozen educate roof crash verify";
+var mnemonic = "praise fashion leaf latin water shock basic flee ozone aware upper web";

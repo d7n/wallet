@@ -1,1 +1,1 @@
-var mnemonic = "pencil taxi isolate expose aim buffalo invest deliver spoon ahead twelve bird";
+var mnemonic = "monitor deposit escape maple enemy police twenty hurdle pottery main olympic blush";

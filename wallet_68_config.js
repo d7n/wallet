@@ -1,1 +1,1 @@
-var mnemonic = "curve game frost repair cabbage couch gadget all about party system glow";
+var mnemonic = "guide valid grit muffin pitch trophy need body tent fee quarter problem";

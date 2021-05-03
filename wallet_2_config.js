@@ -1,1 +1,1 @@
-var mnemonic = "cute payment bridge music endless grocery symptom spot amateur please must joke";
+var mnemonic = "service brief valid vicious earth whip hard fresh trip hard noble clarify";

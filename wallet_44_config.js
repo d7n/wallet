@@ -1,1 +1,1 @@
-var mnemonic = "bulk elbow token wait march become genre push tide scrub vendor oppose";
+var mnemonic = "trouble actress expose wood faculty enemy blame century canal swamp cute party";

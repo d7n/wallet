@@ -1,1 +1,1 @@
-var mnemonic = "hurry lucky gym guilt discover disagree want umbrella month elevator lift vapor";
+var mnemonic = "attract board pool library grab noodle picnic scare bus kiwi define glide";

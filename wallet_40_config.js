@@ -1,1 +1,1 @@
-var mnemonic = "actress rain pepper cupboard civil punch uniform food rookie pair plastic fiction";
+var mnemonic = "exclude object gauge staff label winter banner solve engine shell fat choose";

@@ -1,1 +1,1 @@
-var mnemonic = "decorate math bomb rail there unknown reunion north crystal mosquito fame chair";
+var mnemonic = "save honey innocent kit visa liberty hard mule tissue shiver journey embody";

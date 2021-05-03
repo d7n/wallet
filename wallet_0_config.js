@@ -1,1 +1,1 @@
-var mnemonic = "surge index soda hole man west angry patrol piece bundle roof lawsuit";
+var mnemonic = "coffee match alarm remain judge zebra sea measure horror spice pilot tent";

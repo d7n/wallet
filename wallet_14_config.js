@@ -1,1 +1,1 @@
-var mnemonic = "disorder nuclear breeze tree unknown fame wear health few giant brother forward";
+var mnemonic = "find keen verb loan execute peanut suspect bullet net need beach teach";

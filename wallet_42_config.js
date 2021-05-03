@@ -1,1 +1,1 @@
-var mnemonic = "rice ordinary manual brave switch north man person original early aerobic wrap";
+var mnemonic = "artefact forget fashion start can left friend balcony situate mystery knee sunny";

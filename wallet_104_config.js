@@ -1,1 +1,1 @@
-var mnemonic = "hire unit dismiss leave copper join alley ginger method gas blur rate";
+var mnemonic = "foster birth pull save cannon echo april neutral blossom army dentist never";

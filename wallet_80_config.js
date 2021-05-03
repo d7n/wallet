@@ -1,1 +1,1 @@
-var mnemonic = "story equip test twin canyon people episode foot glove knife scrub fatal";
+var mnemonic = "pottery champion obvious country memory emerge want swap board kingdom toy provide";

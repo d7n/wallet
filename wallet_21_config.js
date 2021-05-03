@@ -1,1 +1,1 @@
-var mnemonic = "coral question save tube area ozone fan invite debate flush kite trigger";
+var mnemonic = "juice donkey cake museum humble pony trigger word snow piece lamp space";

@@ -1,1 +1,1 @@
-var mnemonic = "drift minimum insect draft tray horse runway jelly grid waste bulb wolf";
+var mnemonic = "amateur wealth river cabin inject flame tank intact exhaust color barely arrow";

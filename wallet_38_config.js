@@ -1,1 +1,1 @@
-var mnemonic = "estate quality buffalo voyage hat uniform multiply okay suspect bread blur sweet";
+var mnemonic = "pluck topple empty detect awkward open abandon quit sort churn squirrel olympic";

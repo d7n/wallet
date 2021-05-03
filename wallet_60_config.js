@@ -1,1 +1,1 @@
-var mnemonic = "error business save example alley safe bullet ecology hurt path sister cannon";
+var mnemonic = "idea bullet hire renew moon margin head creek grass tribe chaos evoke";

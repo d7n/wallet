@@ -1,1 +1,1 @@
-var mnemonic = "auction ring luxury govern earn tilt timber rapid expand token kitten city";
+var mnemonic = "people asset tide exile hour black favorite finish cave sick noise display";

@@ -1,1 +1,1 @@
-var mnemonic = "chef sting release naive wife nest life bunker domain degree wear funny";
+var mnemonic = "prison person decline able carpet clinic never drill finish insane scan exact";

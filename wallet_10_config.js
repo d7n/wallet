@@ -1,1 +1,1 @@
-var mnemonic = "consider dutch tenant carry lion bless purpose pumpkin tomato media blouse step";
+var mnemonic = "very hazard feature rotate range organ snake sniff jump peanut gauge cabin";

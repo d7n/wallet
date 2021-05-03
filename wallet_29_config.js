@@ -1,1 +1,1 @@
-var mnemonic = "smile warfare tired body fee paddle swarm lock find tip little day";
+var mnemonic = "replace wrestle ask vacuum margin donkey write about tube next issue mask";

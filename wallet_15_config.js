@@ -1,1 +1,1 @@
-var mnemonic = "regret tuition wish hair outdoor quantum require aim diary gather space topic";
+var mnemonic = "half metal woman silent tunnel jungle evil welcome public joy gesture sniff";

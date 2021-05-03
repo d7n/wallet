@@ -1,1 +1,1 @@
-var mnemonic = "flat human wall beach cloud cheap end rebel castle side timber shrug";
+var mnemonic = "ostrich term basket view thought summer fluid poverty hungry patch record assault";

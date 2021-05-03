@@ -1,1 +1,1 @@
-var mnemonic = "cactus flame fork decline umbrella marble verb artist lend gorilla useless beach";
+var mnemonic = "mouse random doll original sing crane soccer hazard pyramid best coyote spirit";

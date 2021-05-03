@@ -1,1 +1,1 @@
-var mnemonic = "field scrap join area bridge bulk escape evoke lawn midnight sort swamp";
+var mnemonic = "turtle favorite link clean maid feature skin divorce junk wrist that despair";

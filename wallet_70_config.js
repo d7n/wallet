@@ -1,1 +1,1 @@
-var mnemonic = "modify meadow glow virus exhibit account baby exit dirt canyon near impulse";
+var mnemonic = "hub liar wrong bamboo sample purpose moral neglect extra genre kid youth";

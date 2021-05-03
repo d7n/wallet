@@ -1,1 +1,1 @@
-var mnemonic = "easily orphan dish change refuse picture body replace victory mistake night flash";
+var mnemonic = "galaxy drill output act tomato jeans stock false west follow whip universe";

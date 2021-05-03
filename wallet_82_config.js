@@ -1,1 +1,1 @@
-var mnemonic = "twenty trip brief edit velvet resemble measure diamond acid accuse potato inherit";
+var mnemonic = "paddle brand husband riot renew vacuum suspect online afraid scissors census injury";

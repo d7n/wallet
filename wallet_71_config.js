@@ -1,1 +1,1 @@
-var mnemonic = "deposit private boost cube solve pluck pony sausage switch online blade already";
+var mnemonic = "conduct spice divorce effort angle seven point bike resource airport adult pulp";

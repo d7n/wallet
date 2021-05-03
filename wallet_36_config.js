@@ -1,1 +1,1 @@
-var mnemonic = "undo high bird clinic market garage leave cousin frozen sick once enroll";
+var mnemonic = "follow reopen machine debris legend effort door garment letter above purity stereo";

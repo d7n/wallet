@@ -1,1 +1,1 @@
-var mnemonic = "baby laptop renew normal initial hair list chest choose tray rifle trigger";
+var mnemonic = "disease allow coral parade tonight bleak bacon sister weapon enough trial only";

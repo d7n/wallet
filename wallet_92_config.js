@@ -1,1 +1,1 @@
-var mnemonic = "minimum media empower disagree anchor language truth keep path during mouse staff";
+var mnemonic = "circle wonder twelve penalty sleep sell hotel achieve lift industry top video";

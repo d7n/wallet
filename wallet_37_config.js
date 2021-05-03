@@ -1,1 +1,1 @@
-var mnemonic = "brain rug attitude energy acid notable net gas sauce sister upset abuse";
+var mnemonic = "room gauge relief west marine defense universe despair choose seed fix drum";

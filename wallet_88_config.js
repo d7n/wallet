@@ -1,1 +1,1 @@
-var mnemonic = "absorb cube wish ramp pigeon soap oblige there spot expose devote dentist";
+var mnemonic = "rotate business life hope island screen certain talent ten course hedgehog drill";

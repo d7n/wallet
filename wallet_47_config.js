@@ -1,1 +1,1 @@
-var mnemonic = "layer weird blood blue swarm despair chief seed swear leader gossip tomorrow";
+var mnemonic = "track ship cram eager wish title castle fun aim lunch record bring";

@@ -1,1 +1,1 @@
-var mnemonic = "child modify wear fury sing oyster arrow purpose pipe cart bind segment";
+var mnemonic = "raw sock hub example note bomb rough connect adult climb kid napkin";

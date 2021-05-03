@@ -1,1 +1,1 @@
-var mnemonic = "drama receive among cannon mutual donkey merry arrest jaguar mango boss exchange";
+var mnemonic = "always soon april walk wolf farm scrub pyramid shoulder resist security calm";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy quiz bachelor position lunar daughter ice industry floor route hole blind";
+var mnemonic = "tobacco input chief deer task urban brand similar base frost gaze cash";

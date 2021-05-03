@@ -1,1 +1,1 @@
-var mnemonic = "file february search bamboo auction state chicken define during funny label spare";
+var mnemonic = "parade runway limb tone lucky south family reduce weapon bronze ignore again";

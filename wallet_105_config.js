@@ -1,1 +1,1 @@
-var mnemonic = "hub initial correct diagram pulp usual spread nothing crawl bracket steak melody";
+var mnemonic = "attitude nest aim injury urge isolate rug they tortoise avocado wolf logic";

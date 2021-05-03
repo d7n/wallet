@@ -1,1 +1,1 @@
-var mnemonic = "powder stay front normal wall much frog quick mushroom salt cart unusual";
+var mnemonic = "guess salmon end void jungle alley odor clap purchase illness three eager";

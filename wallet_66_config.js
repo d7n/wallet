@@ -1,1 +1,1 @@
-var mnemonic = "fantasy crucial job slender expect gift scene diagram frown speak caution service";
+var mnemonic = "proof what away siege friend tornado snap shaft traffic odor humor broccoli";

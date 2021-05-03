@@ -1,1 +1,1 @@
-var mnemonic = "diagram raccoon mechanic ceiling virtual that legal saddle panic plug aware whisper";
+var mnemonic = "lady quit stumble angle bench canyon negative toast burger emerge inflict belt";

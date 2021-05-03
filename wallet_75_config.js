@@ -1,1 +1,1 @@
-var mnemonic = "group fog you tennis vacuum detect embrace weird brand move social nerve";
+var mnemonic = "column only disease modify raven random excuse laundry fall dutch media town";

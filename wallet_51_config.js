@@ -1,1 +1,1 @@
-var mnemonic = "river jazz march health air minute royal coast gravity couch model travel";
+var mnemonic = "oval stable extra state syrup blood core quit price dress wall stem";

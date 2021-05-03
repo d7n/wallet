@@ -1,1 +1,1 @@
-var mnemonic = "dream pepper job scale saddle twelve lesson behave latin skull cost lounge";
+var mnemonic = "humor fun inhale shuffle case vicious express inquiry seat swing demand few";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose guilt spider family final pipe river universe square will excite version";
+var mnemonic = "bitter chapter alone soon ranch feature seminar resist nose sheriff wing old";

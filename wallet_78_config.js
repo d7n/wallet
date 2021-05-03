@@ -1,1 +1,1 @@
-var mnemonic = "tissue talent tank six deliver trim vocal car predict abstract color cram";
+var mnemonic = "lawn sketch gaze cereal gospel tunnel valley celery express depart stuff nut";

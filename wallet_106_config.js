@@ -1,1 +1,1 @@
-var mnemonic = "sorry toilet cradle concert region improve alley surge body fee stone convince";
+var mnemonic = "lizard monitor decline power float remove decorate now jazz south mobile detect";

@@ -1,1 +1,1 @@
-var mnemonic = "original arrange oxygen ask unique hurt coil hobby plunge cry old ridge";
+var mnemonic = "agree way awake average creek brave blur gentle mind mule urban space";

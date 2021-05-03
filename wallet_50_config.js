@@ -1,1 +1,1 @@
-var mnemonic = "surprise employ gospel unaware predict north sister payment box climb hungry enrich";
+var mnemonic = "giant one material source garlic salon shadow favorite pink hint bird small";

@@ -1,1 +1,1 @@
-var mnemonic = "athlete powder seven property hollow urge road snap term fit unaware connect";
+var mnemonic = "crumble also often together casino label electric roast light hobby violin chair";

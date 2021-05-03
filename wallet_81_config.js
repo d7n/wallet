@@ -1,1 +1,1 @@
-var mnemonic = "brass intact crush amateur typical invest version live husband nominee invite woman";
+var mnemonic = "north cricket beach logic calm lucky useless hybrid tent visual tank manual";

@@ -1,1 +1,1 @@
-var mnemonic = "shine flush blanket large high talent rude toe butter gadget stuff basic";
+var mnemonic = "ethics rabbit path tissue version sunny sheriff candy wine vintage inflict moral";

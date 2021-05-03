@@ -1,1 +1,1 @@
-var mnemonic = "erode slot shoulder manage notable tube image royal legal daring impose average";
+var mnemonic = "rabbit gallery elephant boil peanut office clever embrace magic afraid arrow struggle";

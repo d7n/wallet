@@ -1,1 +1,1 @@
-var mnemonic = "machine fossil ethics lucky guilt scene crouch early loan grunt number record";
+var mnemonic = "hard waste humor profit evidence popular leisure away wreck debris wise profit";

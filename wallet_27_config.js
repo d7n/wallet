@@ -1,1 +1,1 @@
-var mnemonic = "display snow jump original pink grow axis verify appear method series hero";
+var mnemonic = "position expect unfair limit nominee mercy daring guitar wedding ribbon own silent";

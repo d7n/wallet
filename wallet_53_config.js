@@ -1,1 +1,1 @@
-var mnemonic = "creek fossil trash frozen trouble million believe park senior mixture path lesson";
+var mnemonic = "thought wasp oxygen accident antenna trouble audit hub rotate tenant maple airport";

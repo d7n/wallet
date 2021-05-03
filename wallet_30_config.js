@@ -1,1 +1,1 @@
-var mnemonic = "trouble embody candy ethics pond phone cry vehicle tilt shield invest visual";
+var mnemonic = "grant quarter layer spawn voice fall bachelor that wealth orphan enhance soup";

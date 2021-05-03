@@ -1,1 +1,1 @@
-var mnemonic = "merry funny giant despair early spell alcohol joy display valley slice hard";
+var mnemonic = "talent essence muffin fan parrot drastic sister empty flip behave winter panel";

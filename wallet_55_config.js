@@ -1,1 +1,1 @@
-var mnemonic = "model evil tumble inside bar diagram wealth cable wood penalty session empty";
+var mnemonic = "short phone stable silk chief subway rural produce agent chair faith version";

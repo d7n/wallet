@@ -1,1 +1,1 @@
-var mnemonic = "zone pottery amount oval shoot bless immune pact turn song kidney hurry";
+var mnemonic = "protect power pulp stay moon explain hour cable apart afford enrich goose";

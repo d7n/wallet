@@ -1,1 +1,1 @@
-var mnemonic = "girl blade captain broccoli quantum asthma slice fantasy shop omit catalog knife";
+var mnemonic = "double chef repair situate code occur trumpet globe salad wild culture gravity";

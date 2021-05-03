@@ -1,1 +1,1 @@
-var mnemonic = "pistol crazy salmon goose owner uncover polar energy balcony gasp patch deliver";
+var mnemonic = "alpha echo loan allow raise crawl wealth receive cannon spice assume aunt";

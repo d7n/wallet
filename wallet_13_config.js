@@ -1,1 +1,1 @@
-var mnemonic = "flush green lottery deny economy great endless banner flag enemy around fun";
+var mnemonic = "luggage laundry anger resource since emerge cause ridge coast lesson library still";

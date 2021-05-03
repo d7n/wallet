@@ -1,1 +1,1 @@
-var mnemonic = "kit excess dwarf lottery police poem country original income man perfect also";
+var mnemonic = "venue dirt strike pair category hungry recipe boil correct cruel yard idle";

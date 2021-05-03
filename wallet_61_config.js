@@ -1,1 +1,1 @@
-var mnemonic = "price chapter pause excuse list ginger mandate math magic morning flock harbor";
+var mnemonic = "critic invite myth pause fat hotel bacon flag inspire loop fade visual";

@@ -1,1 +1,1 @@
-var mnemonic = "manual pact diet brisk juice famous vessel slot noise ill ability blame";
+var mnemonic = "room swift mean wrong loyal green fix depth detail climb squirrel drama";

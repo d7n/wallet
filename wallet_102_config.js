@@ -1,1 +1,1 @@
-var mnemonic = "sword quality inherit ride bind praise street brisk remain parade peace police";
+var mnemonic = "ginger blouse buyer walk isolate wedding recipe crush cruise faculty fruit brass";

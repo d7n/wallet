@@ -1,1 +1,1 @@
-var mnemonic = "silk asset narrow behave original adapt crowd embrace blade trim siren silk";
+var mnemonic = "east exchange find flag false grab denial clap acoustic short melt ocean";

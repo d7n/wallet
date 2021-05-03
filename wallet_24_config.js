@@ -1,1 +1,1 @@
-var mnemonic = "piano juice rent motor blade material share jar myth dentist govern roast";
+var mnemonic = "enemy wheel ankle begin catalog artefact butter woman peasant grit lizard badge";

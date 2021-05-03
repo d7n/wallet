@@ -1,1 +1,1 @@
-var mnemonic = "monkey mirror bone emotion theory poem spider cliff concert curve jewel parent";
+var mnemonic = "split cotton tomato armor attract turkey main census paper journey leader wing";

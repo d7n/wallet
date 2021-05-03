@@ -1,1 +1,1 @@
-var mnemonic = "unhappy dismiss uncle raise index gloom palace tower air joke auto pencil";
+var mnemonic = "onion logic claim add split gate basic female trust awkward enter laptop";

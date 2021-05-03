@@ -1,1 +1,1 @@
-var mnemonic = "enroll scan camp custom snack alien turn dad cat fatal canal fog";
+var mnemonic = "ramp phone pudding tip opera bundle suffer edit wonder response illegal violin";

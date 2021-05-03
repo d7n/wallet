@@ -1,1 +1,1 @@
-var mnemonic = "rival harvest catalog cherry arch kidney typical unaware tool spread loud rally";
+var mnemonic = "bean vacant blame cradle height poverty slam pistol lawsuit glove refuse wish";

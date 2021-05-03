@@ -1,1 +1,1 @@
-var mnemonic = "spray live edit hair exclude side learn spray situate shoulder venture peanut";
+var mnemonic = "ginger finish tower once dutch equal north arrive funny frog sustain crunch";

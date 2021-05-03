@@ -1,1 +1,1 @@
-var mnemonic = "turn tool keen salute real rose box stay give enrich call frequent";
+var mnemonic = "slab radio pelican gun stairs session test minute moment special blouse olive";

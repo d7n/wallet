@@ -1,1 +1,1 @@
-var mnemonic = "burden liquid icon swing wrong gas install purse allow goddess success gospel";
+var mnemonic = "release large woman reflect glance improve shift whip vapor firm stuff marriage";
