@@ -1,1 +1,1 @@
-var mnemonic = "survey describe crater erupt brisk focus alert movie inch company wolf ride";
+var mnemonic = "drop glory glance gadget indoor home float uncover festival wreck basket box";

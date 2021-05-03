@@ -1,1 +1,1 @@
-var mnemonic = "globe world dance remove session clock topple valley round disagree betray tube";
+var mnemonic = "impose scan release inch usual price chief repeat stamp tape rich usual";

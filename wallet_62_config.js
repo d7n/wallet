@@ -1,1 +1,1 @@
-var mnemonic = "main pigeon online body term dice tiny segment renew skull rival injury";
+var mnemonic = "afford seminar dentist rural patient huge aerobic deliver slogan smile sponsor car";

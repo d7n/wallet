@@ -1,1 +1,1 @@
-var mnemonic = "warrior figure warfare stadium vital maid alone biology reject sudden vital orient";
+var mnemonic = "point crash deliver document liar neck will gym creek hollow muscle tip";

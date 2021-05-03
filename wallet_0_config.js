@@ -1,1 +1,1 @@
-var mnemonic = "empower lens erode add floor orient obey slogan friend account east light";
+var mnemonic = "brief sun immune section fitness consider ask breeze can light basic drive";

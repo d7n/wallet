@@ -1,1 +1,1 @@
-var mnemonic = "plunge sugar tonight logic black stone donate clip situate doll dolphin drive";
+var mnemonic = "stone detail garlic ice project cry black hospital inside ozone waste grief";

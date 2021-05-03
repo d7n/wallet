@@ -1,1 +1,1 @@
-var mnemonic = "bring fee room depart empower nurse usage collect reopen toast address garment";
+var mnemonic = "wood post urban love salon column business output ship write opera lizard";

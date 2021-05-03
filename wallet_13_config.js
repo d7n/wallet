@@ -1,1 +1,1 @@
-var mnemonic = "leg rhythm grief item crew rural alter sure start foot dumb version";
+var mnemonic = "gorilla clarify volcano skill rug catch summer monster host grit virus simple";

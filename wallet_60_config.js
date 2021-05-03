@@ -1,1 +1,1 @@
-var mnemonic = "room harsh scene small ten crime imitate viable correct innocent rescue wrist";
+var mnemonic = "liquid segment elder viable online april gauge drink rely scale kid patch";

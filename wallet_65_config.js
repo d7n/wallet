@@ -1,1 +1,1 @@
-var mnemonic = "upon team snap potato wisdom stable junk ramp laptop nasty one switch";
+var mnemonic = "modify ride tongue melody work illness catalog company just federal fly negative";

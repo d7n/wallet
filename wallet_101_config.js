@@ -1,1 +1,1 @@
-var mnemonic = "gospel earn advance derive also sign genre silk bomb until logic hello";
+var mnemonic = "state sign wish buffalo drama junior ripple pig winter bean differ excite";

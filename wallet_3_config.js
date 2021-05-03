@@ -1,1 +1,1 @@
-var mnemonic = "core utility oven profit inspire high dolphin orchard blur slot barely giant";
+var mnemonic = "wave soul seat engage cannon secret village spawn secret jump struggle sick";

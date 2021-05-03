@@ -1,1 +1,1 @@
-var mnemonic = "fury feature cushion sell nature west garlic daring share witness medal three";
+var mnemonic = "before taxi express fan language annual random develop mushroom play merry saddle";

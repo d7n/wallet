@@ -1,1 +1,1 @@
-var mnemonic = "ghost adult maid moon income lava local disease hair drum notable assist";
+var mnemonic = "student frost dad trophy hub pull grid castle discover provide assist cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "shiver royal hazard prison imitate meadow mimic work taxi secret immense bike";
+var mnemonic = "rail limb spider left lucky steak caution cattle glance tone faint crazy";

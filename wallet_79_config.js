@@ -1,1 +1,1 @@
-var mnemonic = "grit cheese dilemma pelican resource ketchup van repair gym pistol aisle glory";
+var mnemonic = "stock test present chief viable place emotion pilot wool life ten replace";

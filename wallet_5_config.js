@@ -1,1 +1,1 @@
-var mnemonic = "exhibit ensure forest sun pink squeeze metal popular exotic capable figure conduct";
+var mnemonic = "armed curious thought ahead settle velvet correct elbow expect twice skull answer";

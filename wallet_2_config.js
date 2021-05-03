@@ -1,1 +1,1 @@
-var mnemonic = "juice say flash kidney quit timber reveal ghost post member trumpet calm";
+var mnemonic = "core quick tooth forest boil just pole alcohol cage scout excite trip";

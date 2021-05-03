@@ -1,1 +1,1 @@
-var mnemonic = "morning afford live cupboard lunch endless expand furnace never garlic seven proof";
+var mnemonic = "prefer old story equal mountain position general awkward foster gain educate island";

@@ -1,1 +1,1 @@
-var mnemonic = "hood latin adult fuel genre doctor iron exclude ugly over absorb clump";
+var mnemonic = "embrace smooth remember scatter side panda protect nerve number pelican destroy above";

@@ -1,1 +1,1 @@
-var mnemonic = "craft someone curve puzzle delay burger belt open false empty sail relax";
+var mnemonic = "pond between lobster spend office mercy layer juice close until actor puppy";

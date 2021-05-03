@@ -1,1 +1,1 @@
-var mnemonic = "moral bone true payment inspire spider sketch hour inside air crash daring";
+var mnemonic = "opera nephew pony step oval ivory liquid leopard goddess pave romance age";

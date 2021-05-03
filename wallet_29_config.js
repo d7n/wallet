@@ -1,1 +1,1 @@
-var mnemonic = "tenant tree pave turkey antique solve one crawl question recall large auction";
+var mnemonic = "riot bonus rail chalk lounge spoon wife easy whale slight maximum awful";

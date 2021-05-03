@@ -1,1 +1,1 @@
-var mnemonic = "pyramid execute waste brain velvet present tunnel expect jealous much finish verify";
+var mnemonic = "stove tissue orchard liberty force twice few pluck extend explain pride neither";

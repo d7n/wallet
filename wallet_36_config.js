@@ -1,1 +1,1 @@
-var mnemonic = "scene isolate joy school eyebrow ugly pool antique artwork trade bounce bean";
+var mnemonic = "taxi document beauty club model concert chicken survey carpet acoustic flush zebra";

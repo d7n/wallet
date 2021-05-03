@@ -1,1 +1,1 @@
-var mnemonic = "leader enough inform notice wish alone wear kiwi destroy salon decide surface";
+var mnemonic = "furnace pond orchard print clever title pink resemble loud tissue leader logic";

@@ -1,1 +1,1 @@
-var mnemonic = "obscure upgrade drop grape route upon hope able sunny clown among panda";
+var mnemonic = "spawn gate master garbage forget rare turn only episode flavor amused image";

@@ -1,1 +1,1 @@
-var mnemonic = "sad lady monkey save differ denial extend toward benefit mystery pair humble";
+var mnemonic = "secret usage timber urge doll crop brother sugar inflict flush auto bind";

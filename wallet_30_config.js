@@ -1,1 +1,1 @@
-var mnemonic = "gorilla illegal pistol goose icon right bicycle job grape burger crumble fitness";
+var mnemonic = "coconut tumble cable panel fabric ankle story vibrant sponsor cushion visual suit";

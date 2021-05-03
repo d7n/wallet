@@ -1,1 +1,1 @@
-var mnemonic = "group live envelope prison shop disorder brush announce order layer faculty derive";
+var mnemonic = "chicken false prosper wear depend method virus will bottom loan trim note";

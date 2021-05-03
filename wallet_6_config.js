@@ -1,1 +1,1 @@
-var mnemonic = "gossip hard common stove real item give fish minor minor venture chuckle";
+var mnemonic = "wealth spoon oxygen major control oyster drastic invite market distance asthma soon";

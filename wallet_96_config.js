@@ -1,1 +1,1 @@
-var mnemonic = "bread nuclear easy hold wait minute curve slide away loud logic spoon";
+var mnemonic = "claw update title dismiss wonder combine plastic chair finger exhaust post room";

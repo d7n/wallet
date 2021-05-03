@@ -1,1 +1,1 @@
-var mnemonic = "sibling occur machine fiscal same olive close goddess carpet assault rural caution";
+var mnemonic = "virus pigeon favorite shrug enemy elder tooth across blast youth bridge betray";

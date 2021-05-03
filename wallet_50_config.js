@@ -1,1 +1,1 @@
-var mnemonic = "grace decrease quote slam keep empower gauge deputy private noise stadium keen";
+var mnemonic = "knee simple inhale doll plug myth knee hill clerk route world shed";

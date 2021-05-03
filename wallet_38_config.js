@@ -1,1 +1,1 @@
-var mnemonic = "senior submit correct slab pill jealous motion north hammer vicious shock sniff";
+var mnemonic = "truly feature burst eye dragon fish better consider clarify month chalk garbage";

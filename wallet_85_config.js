@@ -1,1 +1,1 @@
-var mnemonic = "bus sketch injury sick doll special glory parade cable domain abuse always";
+var mnemonic = "educate tenant relief cousin borrow dragon express hundred pen umbrella menu undo";

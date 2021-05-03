@@ -1,1 +1,1 @@
-var mnemonic = "key spread follow virtual chapter lava earth mammal output prosper reject club";
+var mnemonic = "immune script under maximum key exotic toilet tag reject knee spot jump";

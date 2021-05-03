@@ -1,1 +1,1 @@
-var mnemonic = "typical vague kitchen leisure combine dress length design pool junior curious exist";
+var mnemonic = "claw pact prefer erase funny faith outdoor famous gaze dentist caught report";

@@ -1,1 +1,1 @@
-var mnemonic = "grain account ostrich cement slam inject drip divide prison elbow flash best";
+var mnemonic = "phrase true level already until attend near priority party ignore sign diesel";

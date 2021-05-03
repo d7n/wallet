@@ -1,1 +1,1 @@
-var mnemonic = "tilt paddle faith chase infant swarm guide there better target interest dismiss";
+var mnemonic = "trade rapid topple sadness poet suit describe anger hood dizzy lumber much";

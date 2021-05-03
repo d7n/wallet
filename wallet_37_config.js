@@ -1,1 +1,1 @@
-var mnemonic = "shoot tomorrow vocal actress involve elephant swim company stick universe opera blade";
+var mnemonic = "spread picture budget crater person six inflict label boat science throw room";

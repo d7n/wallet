@@ -1,1 +1,1 @@
-var mnemonic = "regret balcony east like abuse neck wire work police bread tragic pilot";
+var mnemonic = "toss arch sponsor chicken deposit laundry galaxy rally behind host tumble nuclear";

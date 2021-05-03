@@ -1,1 +1,1 @@
-var mnemonic = "humor hello differ lunar video borrow neck member can magic produce creek";
+var mnemonic = "fire carry satisfy flip increase dutch pear goat virtual churn cake banana";

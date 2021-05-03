@@ -1,1 +1,1 @@
-var mnemonic = "course topple kidney barely loan crop chronic rug gas try sight bright";
+var mnemonic = "ride wrestle cause ignore sweet fancy hill young blast crater seed coach";

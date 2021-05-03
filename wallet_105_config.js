@@ -1,1 +1,1 @@
-var mnemonic = "modify decrease rather section trust fetch lamp limit aware bottom message earth";
+var mnemonic = "acquire hunt frown access immune thrive ring mango impulse dutch empower throw";

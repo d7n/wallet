@@ -1,1 +1,1 @@
-var mnemonic = "topple inch raw furnace gaze protect fiscal excess cheap essay dirt begin";
+var mnemonic = "alarm spoil poverty smart maple injury bulk govern cattle snap erode pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse wide cook move select drastic pencil virus latin danger cream advance";
+var mnemonic = "scout couple popular enroll eye notable frame include deny asthma purpose hundred";

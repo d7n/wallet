@@ -1,1 +1,1 @@
-var mnemonic = "keep sound genius aim wet match bag cave lazy park copper unfair";
+var mnemonic = "frog royal scrap runway confirm beach admit either army duck govern sniff";

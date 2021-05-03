@@ -1,1 +1,1 @@
-var mnemonic = "use early deposit finger duty lift flight raven purse federal trophy reunion";
+var mnemonic = "home emotion neither furnace term creek stool clock debris wealth visa bean";

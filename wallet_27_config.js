@@ -1,1 +1,1 @@
-var mnemonic = "cream task bullet short wasp egg foil stay become garlic record wait";
+var mnemonic = "glimpse join toe save term teach husband helmet party illegal welcome keen";

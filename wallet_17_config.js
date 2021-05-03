@@ -1,1 +1,1 @@
-var mnemonic = "cost meat hotel load armed honey secret decade tunnel coral used oak";
+var mnemonic = "shield ketchup jewel sell nature frequent tuition bleak odor gauge virtual riot";

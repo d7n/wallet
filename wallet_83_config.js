@@ -1,1 +1,1 @@
-var mnemonic = "scatter brave join crunch stage embark inhale laundry smoke soon antenna stable";
+var mnemonic = "carbon elite garage flee swim arch post abandon scrub click ship minute";

@@ -1,1 +1,1 @@
-var mnemonic = "boring bird benefit decade protect midnight siege mutual cost slide pitch satisfy";
+var mnemonic = "water monkey perfect task bacon early sustain earn mixed find satoshi hub";

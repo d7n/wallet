@@ -1,1 +1,1 @@
-var mnemonic = "champion youth mean unfair dice engage rack sad indoor flame gap film";
+var mnemonic = "shoulder access media quick secret dentist yellow badge frequent smart please truth";

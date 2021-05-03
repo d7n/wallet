@@ -1,1 +1,1 @@
-var mnemonic = "left first day act creek wagon assume kick entry direct drop laundry";
+var mnemonic = "trip trumpet canvas common risk blanket pill winter bless install cricket pulp";

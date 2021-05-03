@@ -1,1 +1,1 @@
-var mnemonic = "girl slender sibling melt roof hurdle pattern high smoke pulse axis inflict";
+var mnemonic = "mule confirm almost again screen tooth pigeon enforce loan fossil wasp tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "glass combine wrong easy aunt net female logic enlist fashion answer asset";
+var mnemonic = "relief mask alcohol wash obscure alien corn job skate sight curious want";

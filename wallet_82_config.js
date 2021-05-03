@@ -1,1 +1,1 @@
-var mnemonic = "moral bind little cage success family retreat about cricket ready lonely stumble";
+var mnemonic = "dish update catch digital salon follow rug resemble library rough grain hood";

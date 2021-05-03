@@ -1,1 +1,1 @@
-var mnemonic = "mad course extend cliff soft industry mystery battle park exist trend insect";
+var mnemonic = "feature oyster gentle execute penalty mango shrug special draft organ wheel lunch";

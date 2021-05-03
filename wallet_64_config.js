@@ -1,1 +1,1 @@
-var mnemonic = "change choose resemble foster example ramp picture father soul venue click galaxy";
+var mnemonic = "athlete suit flash flower child pass void era trip table hold ceiling";

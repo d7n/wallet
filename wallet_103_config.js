@@ -1,1 +1,1 @@
-var mnemonic = "beauty hamster rude image absorb hungry sign argue model drive beyond fluid";
+var mnemonic = "embrace kid weekend future rubber bone picture wait cabin hundred glide spell";

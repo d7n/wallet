@@ -1,1 +1,1 @@
-var mnemonic = "wash rapid soup fire glance civil spin belt weekend reveal tired float";
+var mnemonic = "modify upper rocket female board paddle correct girl add rich dinner manual";

@@ -1,1 +1,1 @@
-var mnemonic = "decorate sad liar alarm among pupil portion cotton access act rely minimum";
+var mnemonic = "toy process rescue belt safe pilot display furnace remind witness matter coach";

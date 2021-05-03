@@ -1,1 +1,1 @@
-var mnemonic = "useful child bless magic describe term recipe drum flag depend decrease jazz";
+var mnemonic = "frame warrior safe punch soft crash jazz spin phone nation year island";

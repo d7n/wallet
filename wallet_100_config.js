@@ -1,1 +1,1 @@
-var mnemonic = "grocery day hope turkey correct casino never police six powder upgrade arrow";
+var mnemonic = "correct build merit blanket million whisper forget useless social divide firm chaos";

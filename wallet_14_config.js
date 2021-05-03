@@ -1,1 +1,1 @@
-var mnemonic = "brave relief junior minimum post still junior awesome biology rookie bean marine";
+var mnemonic = "critic crystal fire evoke already wear symptom turtle market excess thumb style";

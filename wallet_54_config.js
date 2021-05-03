@@ -1,1 +1,1 @@
-var mnemonic = "slot original morning there virus bring game search spirit ribbon vacuum keep";
+var mnemonic = "once unknown hand century debris addict knee glad half alcohol artist rival";

@@ -1,1 +1,1 @@
-var mnemonic = "sister usage jeans athlete original spend bright century chaos toss air eight";
+var mnemonic = "tiny pilot owner wine december nasty young cube tumble knock rigid various";

@@ -1,1 +1,1 @@
-var mnemonic = "garment sight domain jeans often type diary tone person gown fever save";
+var mnemonic = "end horse kite retire pledge mouse novel interest busy strategy super wait";

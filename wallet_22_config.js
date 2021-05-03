@@ -1,1 +1,1 @@
-var mnemonic = "noise lunch method surge tonight turkey toddler pigeon wood buzz ring pause";
+var mnemonic = "siege whip second top poet prize burst produce apple year cook eight";

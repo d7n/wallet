@@ -1,1 +1,1 @@
-var mnemonic = "pupil fade flag brother employ ahead talk have online duck bulb super";
+var mnemonic = "jealous hero engage advice jealous tell torch embody ship what paper lady";

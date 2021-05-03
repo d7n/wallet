@@ -1,1 +1,1 @@
-var mnemonic = "idea mandate jealous cluster divert depend flight inherit blood pipe menu you";
+var mnemonic = "timber sauce choice transfer penalty actual insane cup faculty foam rapid suspect";

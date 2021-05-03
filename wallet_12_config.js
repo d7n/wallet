@@ -1,1 +1,1 @@
-var mnemonic = "hurdle street rally letter satoshi acoustic outer foil hurry start smoke genuine";
+var mnemonic = "praise supreme lyrics matter burden waste oppose swing pupil short clap mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "school august medal chicken barely asset sponsor record head ball hidden release";
+var mnemonic = "add unfold world suit tortoise tornado never humble staff give crowd rule";

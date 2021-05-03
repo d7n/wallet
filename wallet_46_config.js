@@ -1,1 +1,1 @@
-var mnemonic = "nest game supply purpose finger romance enjoy bitter mind field hold bid";
+var mnemonic = "dinosaur oven tower valley stage yellow one input damp legal since horse";

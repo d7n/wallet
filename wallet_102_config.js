@@ -1,1 +1,1 @@
-var mnemonic = "whisper plunge ordinary illness puzzle grape scan now love flag broccoli slight";
+var mnemonic = "negative taste dignity state doll section prepare dress turtle envelope matter medal";

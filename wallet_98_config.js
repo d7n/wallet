@@ -1,1 +1,1 @@
-var mnemonic = "agent uncover retreat height banner post gap virtual interest juice minimum lecture";
+var mnemonic = "thrive mass cloth decline episode round medal cushion arena marble milk hat";

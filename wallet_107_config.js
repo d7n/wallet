@@ -1,1 +1,1 @@
-var mnemonic = "polar job basket dish globe senior vendor vague close cook crew extra";
+var mnemonic = "round head install give window image mammal dismiss forum morning promote canvas";

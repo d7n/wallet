@@ -1,1 +1,1 @@
-var mnemonic = "enough mask jewel peanut time anxiety kid host logic cannon robot boil";
+var mnemonic = "depart kitten apology mail tray problem document noodle turtle ritual illegal retreat";

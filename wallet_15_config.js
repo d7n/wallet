@@ -1,1 +1,1 @@
-var mnemonic = "brand slogan smooth marriage clap material shoulder table forward side across various";
+var mnemonic = "company rhythm cargo blame sea clinic treat kangaroo aunt during person decrease";

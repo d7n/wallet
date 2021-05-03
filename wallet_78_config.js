@@ -1,1 +1,1 @@
-var mnemonic = "okay right melt plunge this muscle lunar vacuum release hill field brisk";
+var mnemonic = "lizard dose assault feed season staff work police able still pact behave";

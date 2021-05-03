@@ -1,1 +1,1 @@
-var mnemonic = "outside coin rigid access steel sudden physical garbage act lounge injury antique";
+var mnemonic = "please grocery toy rude one nuclear crunch shove simple settle bone regret";

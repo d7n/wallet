@@ -1,1 +1,1 @@
-var mnemonic = "gesture figure globe pitch cause camera three limit giggle word soap job";
+var mnemonic = "swift swear nasty museum soccer endorse cover such garden mom machine erosion";

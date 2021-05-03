@@ -1,1 +1,1 @@
-var mnemonic = "arrive quarter bless ticket proof disorder bamboo message ensure mosquito various thumb";
+var mnemonic = "elite quantum actual pioneer chief upset govern breeze ladder lava spread purchase";
