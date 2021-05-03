@@ -1,1 +1,1 @@
-var mnemonic = "traffic entry february surface confirm isolate caught draw know rifle blur marine";
+var mnemonic = "talk essay swift fly sad bomb creek music bus slow crew survey";

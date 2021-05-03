@@ -1,1 +1,1 @@
-var mnemonic = "burger laptop sight sell flight engage taste donor ski catalog ski carbon";
+var mnemonic = "day quick okay cover joke symptom list cake picture casino soda tornado";

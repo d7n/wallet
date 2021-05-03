@@ -1,1 +1,1 @@
-var mnemonic = "live time horror nation tooth visa cart pepper leader critic sunny mixture";
+var mnemonic = "tragic coast call charge insane usual attitude swear error want trip describe";

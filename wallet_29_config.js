@@ -1,1 +1,1 @@
-var mnemonic = "knock deal stamp royal search game boy panel flag luxury traffic olympic";
+var mnemonic = "seven bamboo bone boil rose crowd turtle animal error story more benefit";

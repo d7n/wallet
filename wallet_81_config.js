@@ -1,1 +1,1 @@
-var mnemonic = "plug peace stage spider physical report minimum physical more bunker vocal essence";
+var mnemonic = "use educate gun priority diet hobby desert leave please hollow angry taxi";

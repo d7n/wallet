@@ -1,1 +1,1 @@
-var mnemonic = "lake will fiction virtual salt lizard spike among luggage element doll attitude";
+var mnemonic = "decade pole enrich margin essay pause flat hungry ozone punch lizard awesome";

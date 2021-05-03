@@ -1,1 +1,1 @@
-var mnemonic = "there alarm jelly home huge spatial betray dinner dog lonely grass trade";
+var mnemonic = "inform quality dolphin use capital chronic cupboard strategy hill welcome loan never";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist flat remove moral lens label involve crouch lesson possible mail auto";
+var mnemonic = "subject endorse fox impulse exhibit affair drum call asthma cabbage track urban";

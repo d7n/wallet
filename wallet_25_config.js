@@ -1,1 +1,1 @@
-var mnemonic = "habit kit only moment critic fortune hello plunge category sure until toilet";
+var mnemonic = "mushroom kiss raw stereo define chapter taste fan return frozen trade logic";

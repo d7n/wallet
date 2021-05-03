@@ -1,1 +1,1 @@
-var mnemonic = "exit kingdom filter betray toss cruel project verify exist exhibit torch repeat";
+var mnemonic = "surface pledge easily keen pause crack stage amazing cliff uncover raven shine";

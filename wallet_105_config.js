@@ -1,1 +1,1 @@
-var mnemonic = "fox coast merry pizza beef sort winner trip cake luxury shove bargain";
+var mnemonic = "hole system deny stomach online guide say pyramid gasp elevator dad session";

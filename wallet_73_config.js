@@ -1,1 +1,1 @@
-var mnemonic = "harsh april great topple annual pelican volume jewel bread cattle course sort";
+var mnemonic = "festival inmate symbol void enrich design furnace creek must swing public universe";

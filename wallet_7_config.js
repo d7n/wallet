@@ -1,1 +1,1 @@
-var mnemonic = "reunion eagle urban egg tent emerge raven bean silver feel shadow lemon";
+var mnemonic = "pioneer fuel meat east pretty repeat pipe blade course motion indicate ostrich";

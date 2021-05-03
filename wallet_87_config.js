@@ -1,1 +1,1 @@
-var mnemonic = "donkey marine suggest high number ostrich appear second rare novel lonely flower";
+var mnemonic = "battle remove cash entire opera tide prevent choose muscle forward illness umbrella";

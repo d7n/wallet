@@ -1,1 +1,1 @@
-var mnemonic = "repair lab prefer silly leave pretty senior wisdom trust frog shove silent";
+var mnemonic = "cement chief fun balance pond art artwork over economy awake report skate";

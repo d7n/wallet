@@ -1,1 +1,1 @@
-var mnemonic = "simple citizen save finish tent fragile outside print pact finger venture measure";
+var mnemonic = "swarm device moment bounce dial curious panda skill engage strong square rice";

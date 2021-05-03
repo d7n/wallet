@@ -1,1 +1,1 @@
-var mnemonic = "burst slight throw luggage tag equip absurd service image pool inject evolve";
+var mnemonic = "clip effort arena name flock size clarify easy grow balcony subject blade";

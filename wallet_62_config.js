@@ -1,1 +1,1 @@
-var mnemonic = "dry seed faint similar corn forum claim fold various equal bicycle act";
+var mnemonic = "insect color heart smoke truck plunge lake enlist kit man ball want";

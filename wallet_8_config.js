@@ -1,1 +1,1 @@
-var mnemonic = "magnet color gravity stamp belt caught effort vibrant gaze thunder prize math";
+var mnemonic = "rigid idea era reason artwork globe burger salt another zoo speed future";

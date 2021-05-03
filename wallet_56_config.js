@@ -1,1 +1,1 @@
-var mnemonic = "treat fly fade oil squeeze best trust crumble distance outer science toast";
+var mnemonic = "ill loop cycle insect inquiry oval correct hurdle warm design buyer crazy";

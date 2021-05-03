@@ -1,1 +1,1 @@
-var mnemonic = "inspire nest until orient utility traffic relief warm silent shoulder uncle pulp";
+var mnemonic = "smart drift six ugly grid diary force ceiling grain small people domain";

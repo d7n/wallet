@@ -1,1 +1,1 @@
-var mnemonic = "saddle engine identify section reopen able amount canyon volcano vapor gap rib";
+var mnemonic = "double shoe arrange thing bargain exchange limb mandate share matrix often quarter";

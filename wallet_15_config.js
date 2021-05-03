@@ -1,1 +1,1 @@
-var mnemonic = "common stock warrior equal fun siren because hidden cry street federal reunion";
+var mnemonic = "admit emerge proof mutual yellow random window chef culture network exchange armed";

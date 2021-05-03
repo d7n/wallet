@@ -1,1 +1,1 @@
-var mnemonic = "list marriage enhance pulp muffin lecture shift walnut mix arctic alone easy";
+var mnemonic = "giraffe lizard decide portion just problem smooth salt balance hole permit dash";

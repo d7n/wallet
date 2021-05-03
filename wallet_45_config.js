@@ -1,1 +1,1 @@
-var mnemonic = "prepare twenty trash harsh demise range claim absurd secret lesson alien amazing";
+var mnemonic = "bronze goose page final ticket silent response inhale yard click cost athlete";

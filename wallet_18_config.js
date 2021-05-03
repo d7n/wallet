@@ -1,1 +1,1 @@
-var mnemonic = "consider common soldier zone tobacco denial twice parrot ice honey tiger undo";
+var mnemonic = "trade bleak visit video pig remain caution zone toddler air capable afraid";

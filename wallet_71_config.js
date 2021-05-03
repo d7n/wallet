@@ -1,1 +1,1 @@
-var mnemonic = "fire treat prepare valve lawn entry old venture sugar jaguar now open";
+var mnemonic = "gentle dignity pear vicious warrior enable friend exist execute pizza grit upgrade";

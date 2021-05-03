@@ -1,1 +1,1 @@
-var mnemonic = "tonight frame elevator bullet pledge sell author donkey ill gather december snow";
+var mnemonic = "gauge outdoor palm bright north waste still old hundred vote immune solid";

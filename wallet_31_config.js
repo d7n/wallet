@@ -1,1 +1,1 @@
-var mnemonic = "what convince favorite police improve approve list purchase repeat imitate gain brother";
+var mnemonic = "hair toe cargo reveal return rally solar develop noise vibrant wage history";

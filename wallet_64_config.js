@@ -1,1 +1,1 @@
-var mnemonic = "fit cart project able hero organ test route burst sniff toy quote";
+var mnemonic = "canal play conduct minimum fresh six execute moment output winner waste bundle";

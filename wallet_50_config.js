@@ -1,1 +1,1 @@
-var mnemonic = "category often glass erupt flash always consider rebel brush note desk excess";
+var mnemonic = "oak entire strong input sun crack harbor find dawn divorce olive result";

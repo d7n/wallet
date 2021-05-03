@@ -1,1 +1,1 @@
-var mnemonic = "junior neck myth fury salt nominee budget member promote shoulder analyst eternal";
+var mnemonic = "demand derive educate test harsh magic aware east rotate window size deposit";

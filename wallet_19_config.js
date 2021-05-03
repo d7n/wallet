@@ -1,1 +1,1 @@
-var mnemonic = "height attend million ramp sadness cycle square roast govern metal bag piece";
+var mnemonic = "obvious muscle know merry peasant chest leader plug often element ignore law";

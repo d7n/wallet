@@ -1,1 +1,1 @@
-var mnemonic = "include peasant entry pass survey about start expand obtain sphere dolphin accuse";
+var mnemonic = "useful salt envelope soft kit field edit jungle round design funny panda";

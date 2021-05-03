@@ -1,1 +1,1 @@
-var mnemonic = "novel mushroom input divide code shy twin track anxiety husband park nuclear";
+var mnemonic = "slow imitate swarm crater dice popular roast will alcohol else gold siren";

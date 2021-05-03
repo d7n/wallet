@@ -1,1 +1,1 @@
-var mnemonic = "remain orchard early upgrade metal gym pluck three youth awesome employ crazy";
+var mnemonic = "song rate verb deputy injury topple truly gun fit few imitate egg";

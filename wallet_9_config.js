@@ -1,1 +1,1 @@
-var mnemonic = "cruise capital script recycle flight stamp vocal winner leader music furnace tape";
+var mnemonic = "adjust hole economy maple lamp ghost transfer delay faith mind naive frown";

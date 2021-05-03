@@ -1,1 +1,1 @@
-var mnemonic = "inject cave across sick explain paper trouble miss glimpse minimum elephant mention";
+var mnemonic = "arch dinner together aspect suspect hidden margin athlete oval breeze cupboard butter";

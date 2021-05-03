@@ -1,1 +1,1 @@
-var mnemonic = "blame wage market much vocal parrot search song ill abandon impulse beauty";
+var mnemonic = "six control knee swift vault among finish castle day reform park athlete";

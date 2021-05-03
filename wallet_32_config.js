@@ -1,1 +1,1 @@
-var mnemonic = "dentist emerge mask kingdom joke cargo all walk approve zoo vast enrich";
+var mnemonic = "law cover coyote casino trumpet nurse peanut assume coral lady response vital";

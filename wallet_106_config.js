@@ -1,1 +1,1 @@
-var mnemonic = "mosquito safe antique hungry waste cricket treat symbol reveal brick bronze hockey";
+var mnemonic = "crew float cloud shift letter crunch stereo absent novel horn dignity fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "coyote talent taste clarify bachelor file solar length donor butter skirt silver";
+var mnemonic = "helmet similar flash cannon mean truth shed spoil trial category core jacket";

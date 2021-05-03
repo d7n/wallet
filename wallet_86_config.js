@@ -1,1 +1,1 @@
-var mnemonic = "clown client ill oval smoke enroll nurse slush orphan maple first diet";
+var mnemonic = "man good bus level ostrich pizza soccer toast hand evil doll submit";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll document media robust media employ fossil bachelor funny warfare divide basket";
+var mnemonic = "beauty poet sweet satisfy erase fold penalty scheme call vibrant install obey";

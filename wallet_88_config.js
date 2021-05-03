@@ -1,1 +1,1 @@
-var mnemonic = "mirror glide gaze inquiry scene output ostrich east erupt faint soccer auction";
+var mnemonic = "program sample flush sell file solve aerobic expire indoor pair hair cloud";

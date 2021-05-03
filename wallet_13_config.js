@@ -1,1 +1,1 @@
-var mnemonic = "front innocent math little cycle ill stadium blush trumpet worry razor surround";
+var mnemonic = "month yard dress goose digital other good slide artist guilt tonight success";

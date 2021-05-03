@@ -1,1 +1,1 @@
-var mnemonic = "boil crew vintage aim palace anxiety essay metal truth kind route limb";
+var mnemonic = "obscure cause insect stomach pony exchange banner junk wine violin trick report";

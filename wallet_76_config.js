@@ -1,1 +1,1 @@
-var mnemonic = "happy spoil unknown ranch lawsuit spray sugar worth agent wood ceiling inflict";
+var mnemonic = "tenant rally mouse trophy pyramid rhythm spring survey title country three endless";

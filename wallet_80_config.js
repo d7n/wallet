@@ -1,1 +1,1 @@
-var mnemonic = "entire youth vote base clutch glad title earth always voice text pride";
+var mnemonic = "laundry rose shiver siren crack timber layer nature yellow spin during mass";

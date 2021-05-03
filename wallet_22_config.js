@@ -1,1 +1,1 @@
-var mnemonic = "method poverty chef possible produce twenty penalty access tuition brand believe noodle";
+var mnemonic = "furnace update empower celery unhappy daring multiply weasel engine moral frog turn";

@@ -1,1 +1,1 @@
-var mnemonic = "vague broccoli dad kit help obtain rescue lucky length group leisure brain";
+var mnemonic = "bundle flower teach palm best excess price waste fury decide key future";

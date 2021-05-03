@@ -1,1 +1,1 @@
-var mnemonic = "slide mango wink shiver help notable plug wonder toss motion onion jaguar";
+var mnemonic = "humble mean return solution diagram section sauce awful patch disagree bone pen";

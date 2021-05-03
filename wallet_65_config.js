@@ -1,1 +1,1 @@
-var mnemonic = "goat gossip omit federal acid always fashion damp betray regular jacket truly";
+var mnemonic = "mystery inside nest wisdom post mosquito adult chunk reveal toward engage enroll";

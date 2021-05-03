@@ -1,1 +1,1 @@
-var mnemonic = "move scatter mix dumb tuition tired mass soccer state inspire learn primary";
+var mnemonic = "icon rent asset asthma gate agent maze vague festival dream despair winter";

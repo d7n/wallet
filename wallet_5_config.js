@@ -1,1 +1,1 @@
-var mnemonic = "scrap deal slide genuine joy ability matrix number approve menu mirror student";
+var mnemonic = "property live blossom blouse surprise second bar cousin grant soda fade super";

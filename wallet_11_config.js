@@ -1,1 +1,1 @@
-var mnemonic = "disease visit oak nephew rookie lamp fix expire trouble tomato easy device";
+var mnemonic = "seed rely trouble brief mushroom hold voice toward useful advance forget pencil";

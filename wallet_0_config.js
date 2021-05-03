@@ -1,1 +1,1 @@
-var mnemonic = "supply weasel afford rotate coin local suggest left perfect torch pepper essence";
+var mnemonic = "mind wild armed blur select perfect lift matrix patient foot weekend fantasy";

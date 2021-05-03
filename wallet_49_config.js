@@ -1,1 +1,1 @@
-var mnemonic = "beef awake story twist office say fruit enhance apart security distance universe";
+var mnemonic = "antique miss rhythm bicycle shrug wrap choose dynamic chase ill surface envelope";

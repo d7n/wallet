@@ -1,1 +1,1 @@
-var mnemonic = "produce confirm system fence scan uphold juice soldier aspect athlete silly retreat";
+var mnemonic = "era basket autumn jeans century suspect visa order shed sunny job thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "float moon embrace tape book proud frown grass only speed purity wise";
+var mnemonic = "fancy reflect borrow girl indoor throw mistake vanish toast merry crystal plunge";

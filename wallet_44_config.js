@@ -1,1 +1,1 @@
-var mnemonic = "satisfy indoor round senior polar regular shock fine mix kitten erosion pumpkin";
+var mnemonic = "tunnel flame fix exile own dignity wedding rain wonder exclude beauty word";

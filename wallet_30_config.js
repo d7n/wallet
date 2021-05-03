@@ -1,1 +1,1 @@
-var mnemonic = "model kick work undo term explain spot pumpkin smooth chief teach cake";
+var mnemonic = "wreck into joy repeat now walk acid blur sauce obey honey life";

@@ -1,1 +1,1 @@
-var mnemonic = "dust country rule silly gown want unusual stick feature main ramp mail";
+var mnemonic = "elbow ceiling sorry cage faculty syrup blame shift hurdle pulp false dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "forum fun bird modify submit green coral frame space good hill toy";
+var mnemonic = "amazing task novel worry type radar mule tissue govern example opera jungle";

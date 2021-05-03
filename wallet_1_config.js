@@ -1,1 +1,1 @@
-var mnemonic = "drift lake summer taste joke catch boil mail biology rival fat eternal";
+var mnemonic = "genius praise element guitar rack chalk agree elbow square erase blade trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "deer girl canyon cigar bean absorb act need wise juice theory recall";
+var mnemonic = "wink torch vital whale bunker feature endless toilet best couple parent virus";

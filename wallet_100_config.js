@@ -1,1 +1,1 @@
-var mnemonic = "oven exchange top that duty suspect kick virus since alien loan raise";
+var mnemonic = "awake hotel noble void copper tonight memory salon protect clip awful never";

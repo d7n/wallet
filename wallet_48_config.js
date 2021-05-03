@@ -1,1 +1,1 @@
-var mnemonic = "obvious supply now scan deer fly winter piece sentence atom toy eternal";
+var mnemonic = "real boy sample eager version scatter mountain just sphere remove uniform settle";

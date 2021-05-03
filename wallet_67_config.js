@@ -1,1 +1,1 @@
-var mnemonic = "cream weather hedgehog cinnamon cradle rescue sport oil oven eye rice regret";
+var mnemonic = "above green game plastic large pitch stem crystal dust pink tiger matrix";

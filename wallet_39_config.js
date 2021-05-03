@@ -1,1 +1,1 @@
-var mnemonic = "royal update ill marriage sight picture chat clog social letter rebel despair";
+var mnemonic = "vague wolf emerge ready enforce gorilla battle team upgrade vast mind twice";

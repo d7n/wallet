@@ -1,1 +1,1 @@
-var mnemonic = "life interest sniff dog follow captain tackle tomato city pumpkin fantasy pause";
+var mnemonic = "glance insane light actress general lift item retreat way join over arctic";

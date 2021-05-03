@@ -1,1 +1,1 @@
-var mnemonic = "legend silk nest item paddle input avocado merge void moral wave taste";
+var mnemonic = "neglect place approve ring clean book grit child legal elegant crime like";

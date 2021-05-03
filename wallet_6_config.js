@@ -1,1 +1,1 @@
-var mnemonic = "endorse lamp report okay skull wide tongue random fold umbrella envelope alcohol";
+var mnemonic = "reform useful virtual silent pretty noodle weapon empty angle bicycle usage erupt";

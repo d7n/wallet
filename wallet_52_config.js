@@ -1,1 +1,1 @@
-var mnemonic = "still swim inner drink twice civil install ask trouble notice demise skill";
+var mnemonic = "napkin defy express duty insane tag follow enough patient occur region riot";

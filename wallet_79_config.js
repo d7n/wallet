@@ -1,1 +1,1 @@
-var mnemonic = "suggest produce nerve joke garage power display minimum category hope axis oblige";
+var mnemonic = "umbrella nation case exercise debris kid perfect kite peanut crater shoe hedgehog";

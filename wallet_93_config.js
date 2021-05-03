@@ -1,1 +1,1 @@
-var mnemonic = "play can until ice almost marine speak kid total figure tattoo narrow";
+var mnemonic = "clarify because egg wash infant sweet fall sentence trip buffalo degree below";

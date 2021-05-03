@@ -1,1 +1,1 @@
-var mnemonic = "impact essay suit use have bless truck shift banner breeze sunset empty";
+var mnemonic = "movie tag lucky plug among boring empower cart sick swallow harvest someone";

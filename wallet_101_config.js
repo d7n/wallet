@@ -1,1 +1,1 @@
-var mnemonic = "theme tiny conduct parent tenant solar truly they crush skill snake congress";
+var mnemonic = "erase empower rebuild ensure good crazy neither banana sense number moral sadness";

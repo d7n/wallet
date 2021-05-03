@@ -1,1 +1,1 @@
-var mnemonic = "leaf zebra slight all myth diet curious rhythm panic eye sauce dutch";
+var mnemonic = "silver wet loyal plastic have step silk dose exist shed puppy chat";

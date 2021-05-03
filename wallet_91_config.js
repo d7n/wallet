@@ -1,1 +1,1 @@
-var mnemonic = "syrup old lake girl chaos inquiry income bachelor source version mutual clown";
+var mnemonic = "infant labor minimum act pulse cute bench blame wait abstract welcome alert";

@@ -1,1 +1,1 @@
-var mnemonic = "verb allow method crater street number industry hole alley select box weird";
+var mnemonic = "famous humor silent regular damage brain quit bacon enter fold grab stairs";

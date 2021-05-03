@@ -1,1 +1,1 @@
-var mnemonic = "museum brief piece winner devote credit egg actress puppy excuse kitten town";
+var mnemonic = "polar air teach beef grocery coast print duck steel alien panel cute";

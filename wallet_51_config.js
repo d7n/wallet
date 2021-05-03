@@ -1,1 +1,1 @@
-var mnemonic = "million hunt crack mouse spatial supreme essay crowd bench guide ramp diagram";
+var mnemonic = "orbit nature insane cloud warrior urge raw system kind unknown alpha merry";

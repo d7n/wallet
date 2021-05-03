@@ -1,1 +1,1 @@
-var mnemonic = "cup indoor timber improve comfort wasp industry cost country lawsuit rookie make";
+var mnemonic = "crater mixed useless obscure hold blossom exhaust pupil pluck erupt knife employ";

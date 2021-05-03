@@ -1,1 +1,1 @@
-var mnemonic = "ten cabin wealth noise tooth boat top leader multiply parade cousin dust";
+var mnemonic = "topic ill crash eye enough diary dune harsh rotate survey east ten";

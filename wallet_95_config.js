@@ -1,1 +1,1 @@
-var mnemonic = "trial couch unfair island disease buffalo account horn cluster ability merit wise";
+var mnemonic = "grace melody cargo gym delay vacant toast fork before door dizzy thumb";

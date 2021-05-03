@@ -1,1 +1,1 @@
-var mnemonic = "result wheel about science pair vicious famous rail loop blast elegant tree";
+var mnemonic = "uncover eager fabric point river risk fog cabbage pull shell double vicious";

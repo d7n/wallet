@@ -1,1 +1,1 @@
-var mnemonic = "snack inner surge poet train pass enforce already moral still cricket general";
+var mnemonic = "castle misery liquid verb liberty recycle imitate airport anger morning marble flush";

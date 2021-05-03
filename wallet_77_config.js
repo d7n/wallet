@@ -1,1 +1,1 @@
-var mnemonic = "alcohol bunker cook magnet wonder life city kiwi cloud define casual upper";
+var mnemonic = "pioneer amount gospel pepper notable table true riot pyramid bomb once dial";

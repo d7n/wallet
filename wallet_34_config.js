@@ -1,1 +1,1 @@
-var mnemonic = "merge mobile board size junior employ snow sketch wrap unit naive wine";
+var mnemonic = "monster peanut vacuum already wolf select twice nation notice chimney bar clock";

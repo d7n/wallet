@@ -1,1 +1,1 @@
-var mnemonic = "resist foam idea accuse alley castle unlock latin soon brown fence time";
+var mnemonic = "fancy vanish tumble about base paper glad dust ensure measure obey burger";

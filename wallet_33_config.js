@@ -1,1 +1,1 @@
-var mnemonic = "canvas aspect casual silver maid weapon food square wealth pear skull myself";
+var mnemonic = "emerge horse client rich object confirm icon tuition assault close forward talent";

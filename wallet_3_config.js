@@ -1,1 +1,1 @@
-var mnemonic = "vehicle ecology hold tobacco wisdom black ecology blue final lonely frozen doctor";
+var mnemonic = "slam devote wink kingdom flee breeze either lottery cost picnic issue author";

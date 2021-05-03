@@ -1,1 +1,1 @@
-var mnemonic = "fog cover later thrive shoulder wink thing mean police tank silver cushion";
+var mnemonic = "cover bind possible victory smooth horse cave belt pepper crystal shine tattoo";
