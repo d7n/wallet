@@ -1,1 +1,1 @@
-var mnemonic = "shed paper vote hawk inside lion embark attract bomb else puppy asthma";
+var mnemonic = "sell census solution now innocent remain fragile outdoor wire spin poet consider";

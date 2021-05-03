@@ -1,1 +1,1 @@
-var mnemonic = "tip vessel recycle grace moral pistol acoustic grid easy assist vendor tattoo";
+var mnemonic = "six mobile sibling round flip critic weather swarm fitness inform roast reward";

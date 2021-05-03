@@ -1,1 +1,1 @@
-var mnemonic = "confirm grief voice bike explain chronic rule soul few round film rice";
+var mnemonic = "brother topple mushroom indicate flat near slight father maid churn crater force";

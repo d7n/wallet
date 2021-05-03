@@ -1,1 +1,1 @@
-var mnemonic = "flight modify display outdoor aware lunch clever claw follow wink accident venture";
+var mnemonic = "final blast monkey stable elder riot drive valid rebel idea neck space";

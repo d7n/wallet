@@ -1,1 +1,1 @@
-var mnemonic = "mistake attack company clog sail vague special opinion buffalo small borrow child";
+var mnemonic = "spatial movie orient copy salmon connect brown celery business file face harsh";

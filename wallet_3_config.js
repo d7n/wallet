@@ -1,1 +1,1 @@
-var mnemonic = "envelope flat attitude ribbon another summer tank gloom oil flavor oil position";
+var mnemonic = "language purse prevent tunnel patient cash art enrich craft where love cherry";

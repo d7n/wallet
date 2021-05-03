@@ -1,1 +1,1 @@
-var mnemonic = "appear time accuse mesh one lemon charge predict early trip document round";
+var mnemonic = "nature protect lion admit apology quit tooth idle defy mad glide pilot";

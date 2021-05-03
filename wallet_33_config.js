@@ -1,1 +1,1 @@
-var mnemonic = "bamboo trade trend collect suggest fame alien blanket between clown family solution";
+var mnemonic = "minute candy parent until suggest plug fade toe avocado human spawn early";

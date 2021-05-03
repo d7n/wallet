@@ -1,1 +1,1 @@
-var mnemonic = "payment trim wolf fold scale reflect lecture plunge saddle place aware giraffe";
+var mnemonic = "assume grape gown cheese clean distance choice suspect spread faith book fresh";

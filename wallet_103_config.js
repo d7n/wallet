@@ -1,1 +1,1 @@
-var mnemonic = "elite figure chicken behind predict flash walk army clarify assist trial final";
+var mnemonic = "empty swap ozone stick quick tribe nerve boy citizen where turtle where";

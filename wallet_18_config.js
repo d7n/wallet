@@ -1,1 +1,1 @@
-var mnemonic = "play matter bunker submit swim arrive celery elbow wish surge void pet";
+var mnemonic = "senior body loyal twenty loop curtain calm put amount chief apple fantasy";

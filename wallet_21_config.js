@@ -1,1 +1,1 @@
-var mnemonic = "wreck trap steak trip humor process index thrive zebra wing doctor disorder";
+var mnemonic = "decide tattoo pipe undo biology wasp sound code little exclude course daughter";

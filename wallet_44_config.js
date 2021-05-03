@@ -1,1 +1,1 @@
-var mnemonic = "vintage term scissors decrease winter control cry forget crunch flame address poem";
+var mnemonic = "era obey fiction prosper unfold smooth tackle mountain mesh arm special basket";

@@ -1,1 +1,1 @@
-var mnemonic = "vast time someone diesel crack inherit trouble battle example purpose hip inflict";
+var mnemonic = "belt super chuckle lamp beauty wild project expire turkey lake amused glide";

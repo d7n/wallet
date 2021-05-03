@@ -1,1 +1,1 @@
-var mnemonic = "long silver meadow hungry future mistake repeat leopard such gospel recycle modify";
+var mnemonic = "scrap cross hungry move smile clown ticket scissors session urban april blouse";

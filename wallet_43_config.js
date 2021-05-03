@@ -1,1 +1,1 @@
-var mnemonic = "panic celery poet night flavor loud arrange around reopen joke afford dream";
+var mnemonic = "adapt vocal vibrant sausage trick decrease horror sort diamond favorite one mountain";

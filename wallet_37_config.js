@@ -1,1 +1,1 @@
-var mnemonic = "aim start tube security slush achieve wall check damage parrot vapor shield";
+var mnemonic = "fetch pitch riot foot vehicle length canal equip hawk good season atom";

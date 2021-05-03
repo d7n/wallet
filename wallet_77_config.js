@@ -1,1 +1,1 @@
-var mnemonic = "scare ridge error flock awkward dove vicious chimney plastic stock blue soup";
+var mnemonic = "lock fringe wire sunset chase ginger jewel twin purse soup spin decide";

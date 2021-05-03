@@ -1,1 +1,1 @@
-var mnemonic = "knife cherry figure behave tiger weird prize reduce vital age patient enlist";
+var mnemonic = "stamp april river funny gift bright swim faith mystery pond poem canyon";

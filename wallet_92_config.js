@@ -1,1 +1,1 @@
-var mnemonic = "brave toddler island negative year avoid bulk sauce horse hunt barely session";
+var mnemonic = "spatial beauty nominee year avoid dutch month brick sweet term rice soup";

@@ -1,1 +1,1 @@
-var mnemonic = "grant thumb library night phone else logic stuff drama cheap book day";
+var mnemonic = "dismiss payment chair human tongue soldier thrive leisure danger chicken decorate actress";

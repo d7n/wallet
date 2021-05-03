@@ -1,1 +1,1 @@
-var mnemonic = "obtain yellow fat eagle absurd bench fog choose peasant very catch minor";
+var mnemonic = "wheat juice analyst reason stove shy wrong hope dad latin bike absent";

@@ -1,1 +1,1 @@
-var mnemonic = "join brief notable leg earn attend once polar drift exchange code modify";
+var mnemonic = "rotate melody raccoon beyond shine screen mix pride window flight fetch trim";

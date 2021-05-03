@@ -1,1 +1,1 @@
-var mnemonic = "modify whip excuse scene expect worry giggle crazy entire seven diamond firm";
+var mnemonic = "catch cook lamp garlic stable test dentist column increase track index frame";

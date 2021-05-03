@@ -1,1 +1,1 @@
-var mnemonic = "gown name skin soul pen horn mirror trial inflict truly when clay";
+var mnemonic = "try breeze arrest result judge slogan trash crucial same shoot gloom husband";

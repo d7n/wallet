@@ -1,1 +1,1 @@
-var mnemonic = "anxiety initial knife slot helmet castle guide educate project friend famous will";
+var mnemonic = "enable rice height sorry beauty employ clap absurd dinosaur pool action cloth";

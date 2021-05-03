@@ -1,1 +1,1 @@
-var mnemonic = "sphere shop pull jewel gap tuition behind swallow lava topic few risk";
+var mnemonic = "walk defense book neither hurt ancient tip rescue awkward story salmon pistol";

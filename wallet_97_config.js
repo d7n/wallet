@@ -1,1 +1,1 @@
-var mnemonic = "reunion deputy slim dish still foil mail hood grab armor spray amazing";
+var mnemonic = "suspect horror borrow alpha narrow acquire voice hawk way glow mixed butter";

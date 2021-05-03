@@ -1,1 +1,1 @@
-var mnemonic = "sight biology first strike correct sustain circle hip solid narrow alcohol fragile";
+var mnemonic = "rabbit search twist saddle oyster occur pause today next report scheme lend";

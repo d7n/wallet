@@ -1,1 +1,1 @@
-var mnemonic = "patrol wrestle awful legend shed rebel special sun display innocent rough night";
+var mnemonic = "notice side bridge marble rug scissors buyer tiger lift garlic cement fit";

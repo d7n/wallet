@@ -1,1 +1,1 @@
-var mnemonic = "record layer jungle virtual weird pluck immense knock dust sell moment medal";
+var mnemonic = "marble certain garage hip flower setup family bone prosper curve govern ski";

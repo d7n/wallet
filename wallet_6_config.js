@@ -1,1 +1,1 @@
-var mnemonic = "property exile card wedding town struggle genuine trip sustain claim story corn";
+var mnemonic = "slogan delay survey bike mushroom rather stamp edge net narrow clip derive";

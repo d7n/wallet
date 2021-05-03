@@ -1,1 +1,1 @@
-var mnemonic = "math identify paper trouble drop dragon rival main brand fiscal danger road";
+var mnemonic = "expose scare fame orient tomorrow skate very avoid ring fever logic cliff";

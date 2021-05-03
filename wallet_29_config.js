@@ -1,1 +1,1 @@
-var mnemonic = "please because number action face pact occur illness dress club jacket napkin";
+var mnemonic = "balance sell people neck base rookie leopard glimpse absorb general angry void";

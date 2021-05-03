@@ -1,1 +1,1 @@
-var mnemonic = "dance minor awake try clip sand butter federal lonely distance furnace bar";
+var mnemonic = "breeze obscure festival mixture friend across nominee tourist skill clog cannon autumn";

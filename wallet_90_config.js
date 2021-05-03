@@ -1,1 +1,1 @@
-var mnemonic = "ahead text noise setup garage brown drop person job coffee primary victory";
+var mnemonic = "pause lyrics blade trigger hat live skill eye animal raw rib tank";

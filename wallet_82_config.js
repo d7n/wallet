@@ -1,1 +1,1 @@
-var mnemonic = "noble kit mean regular actor impose drive age elevator eager warm gossip";
+var mnemonic = "mushroom retreat husband verb tattoo churn enjoy alter dentist mass scatter stamp";

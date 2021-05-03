@@ -1,1 +1,1 @@
-var mnemonic = "enact blossom into outside crane border arrest beach assist uniform unlock merge";
+var mnemonic = "frequent salad impulse forest imitate salon rough nominee outside seminar differ adjust";

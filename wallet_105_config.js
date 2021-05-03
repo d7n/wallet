@@ -1,1 +1,1 @@
-var mnemonic = "connect diamond tide rally south orchard pause file bulb vehicle blade amount";
+var mnemonic = "thank swamp cactus top kingdom veteran coast sort flock live egg luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "huge pitch trick inspire pole leisure brave galaxy common tackle around dust";
+var mnemonic = "letter include rural kiss frame shift sugar oven calm blast current tonight";

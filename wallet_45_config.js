@@ -1,1 +1,1 @@
-var mnemonic = "boost deny cabin leg laptop fog girl verify brand scout balance hammer";
+var mnemonic = "federal drip alarm major around champion toe arrange game deny undo budget";

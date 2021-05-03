@@ -1,1 +1,1 @@
-var mnemonic = "mad help alley radio spin candy zero reward amount castle occur cream";
+var mnemonic = "acid tired license drive hard improve thought maple recall typical asset mystery";

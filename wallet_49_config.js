@@ -1,1 +1,1 @@
-var mnemonic = "immense art lawn globe cradle pottery captain list spirit ribbon distance loop";
+var mnemonic = "try chuckle trophy post involve sponsor latin sunny child sleep pizza urban";

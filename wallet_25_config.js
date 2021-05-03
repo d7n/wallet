@@ -1,1 +1,1 @@
-var mnemonic = "swim inch banana favorite kangaroo fetch prize element dress various inflict figure";
+var mnemonic = "bomb appear orbit buffalo youth innocent satoshi exercise push lake silent gentle";

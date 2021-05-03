@@ -1,1 +1,1 @@
-var mnemonic = "multiply shield odor banner fall tone brain piano school road notice novel";
+var mnemonic = "final fold vibrant sting rather april safe impact actual alcohol error radar";

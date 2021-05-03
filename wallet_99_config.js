@@ -1,1 +1,1 @@
-var mnemonic = "cheese device velvet town away sight one oak spend february glue comic";
+var mnemonic = "interest blur shy train print rabbit today pottery risk copy position hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "file gate oak together size right fault fossil stick among stool grape";
+var mnemonic = "hotel fade enable dismiss human trial farm pass grow burger fiscal drift";

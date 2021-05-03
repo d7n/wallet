@@ -1,1 +1,1 @@
-var mnemonic = "grid wrist draw feature strong push select around interest bring aisle fan";
+var mnemonic = "prefer sheriff employ boring female own vintage gaze tourist life lawsuit grant";

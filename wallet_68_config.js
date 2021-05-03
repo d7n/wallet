@@ -1,1 +1,1 @@
-var mnemonic = "motion music hobby mansion piano vault adult ice demand quality tattoo actual";
+var mnemonic = "cry woman prize blur bacon swear expire grant manual list seat sustain";

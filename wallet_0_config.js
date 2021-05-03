@@ -1,1 +1,1 @@
-var mnemonic = "luxury such bounce struggle zebra horse over deer canyon minimum electric merit";
+var mnemonic = "saddle vacuum sister cream gold allow demise neutral auto someone buddy play";

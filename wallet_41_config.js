@@ -1,1 +1,1 @@
-var mnemonic = "tent nominee omit exist book intact face special trash pride banner home";
+var mnemonic = "banana wreck comic write melody copy sport timber step iron happy make";

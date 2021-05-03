@@ -1,1 +1,1 @@
-var mnemonic = "hobby egg tattoo duck trip earn fruit whip robot shift duty because";
+var mnemonic = "box dial prevent normal butter deposit end artwork aerobic adapt aunt quarter";

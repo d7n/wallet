@@ -1,1 +1,1 @@
-var mnemonic = "special bulk spray upper judge climb brick length long girl position pupil";
+var mnemonic = "sniff summer impact bleak shoulder spoon immune dog draw hurry embark area";

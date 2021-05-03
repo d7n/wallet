@@ -1,1 +1,1 @@
-var mnemonic = "impulse airport glare confirm oval analyst fever dumb chimney easy permit group";
+var mnemonic = "wave popular win feel boss seminar truly jump market clinic problem solar";

@@ -1,1 +1,1 @@
-var mnemonic = "mango warrior palace rival wealth amateur tone knee alley nominee kind pulse";
+var mnemonic = "tomato phrase tissue ready raise best elegant nest space sight develop sister";

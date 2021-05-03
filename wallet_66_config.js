@@ -1,1 +1,1 @@
-var mnemonic = "rail curious plate raccoon quantum remember story pencil laundry cable cup galaxy";
+var mnemonic = "man camp trophy divert secret banner hover cliff climb budget cargo memory";

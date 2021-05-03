@@ -1,1 +1,1 @@
-var mnemonic = "life antique can spin mixed heart odor grit pool choice simple gas";
+var mnemonic = "blind mobile venture recipe rain win mother chalk shoulder memory innocent emotion";

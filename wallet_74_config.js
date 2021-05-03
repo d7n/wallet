@@ -1,1 +1,1 @@
-var mnemonic = "absent opinion pledge congress lens route audit dice rose orange tobacco brass";
+var mnemonic = "loan genre crash atom innocent kiwi letter flash junior friend kidney marble";

@@ -1,1 +1,1 @@
-var mnemonic = "hour cannon rather proof mention absorb modify daughter universe chalk patrol alcohol";
+var mnemonic = "spider shove wrong sort flash horror ten main such monster shoulder raven";

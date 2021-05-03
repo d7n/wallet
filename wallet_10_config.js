@@ -1,1 +1,1 @@
-var mnemonic = "mention gallery umbrella wide column segment aisle abstract camp busy pigeon magnet";
+var mnemonic = "combine fence town sibling shield lava cabin pluck cousin only below ask";

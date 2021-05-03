@@ -1,1 +1,1 @@
-var mnemonic = "salt cook into crucial cross notice bundle snack behave boring pottery hobby";
+var mnemonic = "employ hard match trade rotate memory acquire female wild earn only grab";

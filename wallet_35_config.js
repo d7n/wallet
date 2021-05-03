@@ -1,1 +1,1 @@
-var mnemonic = "depend sock diary hobby enforce friend dune arrange inside gain foster release";
+var mnemonic = "boss engage music egg subway almost filter silly trash tourist snake hello";

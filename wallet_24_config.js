@@ -1,1 +1,1 @@
-var mnemonic = "few certain bird gym source main seven master pupil fossil inmate infant";
+var mnemonic = "degree marine area faith acquire below glimpse still beauty ship since daughter";

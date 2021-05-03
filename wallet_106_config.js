@@ -1,1 +1,1 @@
-var mnemonic = "net carbon essence monster outdoor tuna oven welcome pretty latin kiwi burger";
+var mnemonic = "drop short salon satisfy supply immune couple protect debate plastic ramp key";

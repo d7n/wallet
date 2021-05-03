@@ -1,1 +1,1 @@
-var mnemonic = "situate reduce much switch scene vehicle climb ignore execute luxury bracket burst";
+var mnemonic = "sadness bind rain army monster into twist marble joy nominee will legend";

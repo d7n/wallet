@@ -1,1 +1,1 @@
-var mnemonic = "achieve check approve unknown tortoise juice file magic link snap rich boost";
+var mnemonic = "west flag snap spread size fragile replace kit anxiety chapter renew income";

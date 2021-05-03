@@ -1,1 +1,1 @@
-var mnemonic = "half focus meadow fiber install crew legal laundry kid economy predict suffer";
+var mnemonic = "sentence law clarify apple below mammal tuition loyal tragic glove illegal during";

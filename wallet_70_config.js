@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow better noise position true shoe ordinary doctor repair tunnel captain unaware";
+var mnemonic = "donate short crane cement actress gaze citizen cable case ankle goat north";

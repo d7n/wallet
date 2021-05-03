@@ -1,1 +1,1 @@
-var mnemonic = "neglect foam blur toss idea dumb medal wealth assume move man dynamic";
+var mnemonic = "material hurry hero work coach attitude will strategy correct market pony baby";

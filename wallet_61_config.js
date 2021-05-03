@@ -1,1 +1,1 @@
-var mnemonic = "crush skill movie ask innocent excuse quality dolphin only robot push solution";
+var mnemonic = "mix inside sponsor twice frequent bottom paper artefact donor student rather alert";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito alter prefer slow stem mansion shop crumble lab prize brush demand";
+var mnemonic = "frown party neither fame youth wine sail direct comic entire patrol point";

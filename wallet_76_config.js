@@ -1,1 +1,1 @@
-var mnemonic = "cook audit vicious sphere grant loyal life mutual trophy panel three shove";
+var mnemonic = "vague enroll admit uncover shy loud traffic crush apology duck inside health";

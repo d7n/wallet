@@ -1,1 +1,1 @@
-var mnemonic = "destroy unique fiber material fragile tank surge distance various amateur wave void";
+var mnemonic = "mountain nurse lamp spring pave regret angry acoustic book unveil river blur";

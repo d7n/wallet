@@ -1,1 +1,1 @@
-var mnemonic = "twist owner brisk wisdom misery neck clever devote mad furnace average pen";
+var mnemonic = "husband resist involve affair remain battle exist muscle reunion still wise keep";

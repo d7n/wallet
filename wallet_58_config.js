@@ -1,1 +1,1 @@
-var mnemonic = "three test cover confirm carry cream olive priority simple alpha sock adult";
+var mnemonic = "zone often impulse ankle such piece weird duty peanut govern other soul";

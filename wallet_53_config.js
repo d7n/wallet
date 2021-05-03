@@ -1,1 +1,1 @@
-var mnemonic = "stove pill ribbon remember capital deer chat extend jar mule scatter desert";
+var mnemonic = "term imitate manual fringe shell winner reunion tribe home during good heavy";

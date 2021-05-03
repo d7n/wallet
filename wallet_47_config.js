@@ -1,1 +1,1 @@
-var mnemonic = "mention copper access impulse nephew armor blossom honey hurry certain allow input";
+var mnemonic = "stay tent tobacco weekend creek announce already option biology brain feed involve";

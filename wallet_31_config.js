@@ -1,1 +1,1 @@
-var mnemonic = "video outer slogan example wasp rebuild limit jar polar boost exchange crash";
+var mnemonic = "sock panther review end clip heart nephew motion throw behind forward move";

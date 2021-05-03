@@ -1,1 +1,1 @@
-var mnemonic = "steak decorate choose edge shoot monitor weather easy save sing cash nephew";
+var mnemonic = "raven champion transfer seat hole mystery surface control thunder love design balance";

@@ -1,1 +1,1 @@
-var mnemonic = "mask garbage intact skin fresh throw innocent case salute actor direct broken";
+var mnemonic = "fortune gorilla detect wide leaf narrow clock hawk renew cargo journey coast";

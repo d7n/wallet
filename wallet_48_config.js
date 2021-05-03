@@ -1,1 +1,1 @@
-var mnemonic = "glove elbow layer pilot horn orphan avocado trial suspect horn devote hello";
+var mnemonic = "home art gaze forum genuine stable idle punch leopard enable loud naive";

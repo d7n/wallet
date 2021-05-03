@@ -1,1 +1,1 @@
-var mnemonic = "tank already nuclear code shrimp field opinion avoid weapon interest visit teach";
+var mnemonic = "boss hockey normal travel promote marble potato regret rely group grace sunset";

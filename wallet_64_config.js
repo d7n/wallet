@@ -1,1 +1,1 @@
-var mnemonic = "minute upgrade position jump inform custom home unusual blush build they sausage";
+var mnemonic = "treat million state similar market faint slab front defense match youth ordinary";

@@ -1,1 +1,1 @@
-var mnemonic = "panel opera orange tenant inject roof syrup deliver little wisdom scissors zero";
+var mnemonic = "aspect heart kitchen item salmon utility narrow elegant picture soul ladder know";

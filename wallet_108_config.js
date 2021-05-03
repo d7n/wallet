@@ -1,1 +1,1 @@
-var mnemonic = "sister polar write dish inquiry side left atom innocent spoon sock rate";
+var mnemonic = "shoe mutual inmate shrimp chef vacant normal turn kitchen diagram intact stamp";

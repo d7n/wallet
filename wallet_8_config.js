@@ -1,1 +1,1 @@
-var mnemonic = "else ivory rely wrestle job universe list over critic delay fold parent";
+var mnemonic = "health work hurt novel mystery curve sad tenant stay tired best resource";

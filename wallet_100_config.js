@@ -1,1 +1,1 @@
-var mnemonic = "educate cigar sugar firm churn bus flame canvas glory like among skin";
+var mnemonic = "fee fluid firm fatigue bundle more truth people flip shed pepper category";

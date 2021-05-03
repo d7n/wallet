@@ -1,1 +1,1 @@
-var mnemonic = "mango double suffer gossip film market come yard idle inspire oppose crucial";
+var mnemonic = "ribbon scheme index confirm mixed pottery sudden popular subway program source volcano";
