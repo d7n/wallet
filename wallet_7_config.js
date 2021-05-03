@@ -1,1 +1,1 @@
-var mnemonic = "hard captain jeans sheriff course expose ignore scrub visa student turn trip";
+var mnemonic = "betray exit afford gun empower rare lyrics crack draft mention warm south";

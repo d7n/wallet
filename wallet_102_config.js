@@ -1,1 +1,1 @@
-var mnemonic = "almost surge endless approve auto yard powder start coral stone sister type";
+var mnemonic = "edit evolve sight actress focus repeat artefact collect ahead breeze agent beef";

@@ -1,1 +1,1 @@
-var mnemonic = "there gauge brown life network timber consider robust nut symptom choice under";
+var mnemonic = "host turtle umbrella dad fault coffee response forest excite floor zebra harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "service chalk unusual truth staff brand critic glance science power subject priority";
+var mnemonic = "major dolphin box season away glare forward episode record essence capable warm";

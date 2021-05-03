@@ -1,1 +1,1 @@
-var mnemonic = "excuse game museum tilt you trip cinnamon always diet pretty famous furnace";
+var mnemonic = "smart sphere fever embody weapon frost holiday secret assume today ignore skate";

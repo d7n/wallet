@@ -1,1 +1,1 @@
-var mnemonic = "jewel meadow simple grab night mixture balance modify decorate cancel belt join";
+var mnemonic = "feel leg metal grid narrow laptop simple useless quarter cement bracket napkin";

@@ -1,1 +1,1 @@
-var mnemonic = "hero hurdle wrong script ozone give trip client venue method cotton road";
+var mnemonic = "rapid crisp rival aunt similar spoil wasp improve motion flat pudding analyst";

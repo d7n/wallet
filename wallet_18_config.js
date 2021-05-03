@@ -1,1 +1,1 @@
-var mnemonic = "wool simple pulse ahead bench master layer burger coyote drum glory ranch";
+var mnemonic = "kite brick practice aware radio person that weird sunny orange claw fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge scissors reason vendor camera away wool evil mom moon able lake";
+var mnemonic = "avoid donkey engine motor jealous view snack race humble true patrol cook";

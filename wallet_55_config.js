@@ -1,1 +1,1 @@
-var mnemonic = "silk inch pen aware ritual cushion merry hazard bright gadget tiny soon";
+var mnemonic = "want screen lens absorb rifle solar snap sweet gain design winter rather";

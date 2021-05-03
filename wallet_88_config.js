@@ -1,1 +1,1 @@
-var mnemonic = "thing post dinosaur valid water defense educate hotel coyote foam obey control";
+var mnemonic = "fashion canoe pool home web near pluck vocal strong good blue machine";

@@ -1,1 +1,1 @@
-var mnemonic = "recipe retreat post carbon velvet square absorb tool mad day mean gown";
+var mnemonic = "mule deny possible dune mail hotel mom degree scare across obscure shield";

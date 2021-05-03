@@ -1,1 +1,1 @@
-var mnemonic = "soldier relief purity narrow grit tip trouble noise soccer evidence point tragic";
+var mnemonic = "hockey rifle phrase spin accident nation butter then eight mix usage crazy";

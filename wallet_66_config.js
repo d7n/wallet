@@ -1,1 +1,1 @@
-var mnemonic = "sure obtain find apart problem ignore adult mesh sunny sponsor enroll right";
+var mnemonic = "limit shallow loop desert reform gadget ball merit void follow weird chief";

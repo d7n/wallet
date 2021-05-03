@@ -1,1 +1,1 @@
-var mnemonic = "unaware wet panel gun promote parrot general coach error soon sweet hint";
+var mnemonic = "soup neither amateur key fan purpose fold spot like best tragic way";

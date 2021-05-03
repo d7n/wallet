@@ -1,1 +1,1 @@
-var mnemonic = "loud broom rare hybrid fluid ribbon legend coral salute mass sword frost";
+var mnemonic = "hope marine antenna oxygen enter disorder urban pluck cousin aim wife chalk";

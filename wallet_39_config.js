@@ -1,1 +1,1 @@
-var mnemonic = "grant ghost normal lawsuit oval stable share decline road follow avoid project";
+var mnemonic = "scout obey merry easy palm dilemma pattern clip weird car wife live";

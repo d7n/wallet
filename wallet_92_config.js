@@ -1,1 +1,1 @@
-var mnemonic = "grunt buffalo saddle shaft scissors upset style buyer egg seed injury february";
+var mnemonic = "stand cancel shoot equal impulse verify stuff glow document beyond adapt diesel";

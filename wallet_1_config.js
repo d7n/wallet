@@ -1,1 +1,1 @@
-var mnemonic = "library rapid foster help quick title vital lobster gun flip walnut violin";
+var mnemonic = "action dry stool boost tip speed tuition recall blush shift charge absorb";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty wing crazy faith bacon rule gift cattle slender any deal prison";
+var mnemonic = "sign globe sure during upset wreck edge artefact crime off wide skill";

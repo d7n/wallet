@@ -1,1 +1,1 @@
-var mnemonic = "shop kid valley omit twist title globe engage fragile sister cup judge";
+var mnemonic = "raw idle loyal capital luxury pride usage task huge adjust athlete kind";

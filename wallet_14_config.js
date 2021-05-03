@@ -1,1 +1,1 @@
-var mnemonic = "grain divorce solid brother balcony mutual shrimp invest gather vendor vital series";
+var mnemonic = "radio install dismiss spring reunion denial good lunar vehicle fault fabric gaze";

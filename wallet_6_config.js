@@ -1,1 +1,1 @@
-var mnemonic = "giant just aware cry slice hidden wheel act amount judge away million";
+var mnemonic = "breeze finger burger around explain hungry cluster dream bread extend plastic lecture";

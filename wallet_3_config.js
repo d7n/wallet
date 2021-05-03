@@ -1,1 +1,1 @@
-var mnemonic = "time naive tongue cream define journey step where twice harvest want awake";
+var mnemonic = "axis lava magnet live tilt fabric harbor essence oil trade curtain fever";

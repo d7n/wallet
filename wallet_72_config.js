@@ -1,1 +1,1 @@
-var mnemonic = "hunt text reunion glide panda fetch shallow approve venture race degree bacon";
+var mnemonic = "remove gossip mistake lock family kid repeat either whip accident hamster buffalo";

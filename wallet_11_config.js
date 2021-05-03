@@ -1,1 +1,1 @@
-var mnemonic = "dose miracle sword dream alarm theme sponsor hybrid horse apple squirrel maximum";
+var mnemonic = "alarm have tape orchard chair tower math biology slush dragon pair easily";

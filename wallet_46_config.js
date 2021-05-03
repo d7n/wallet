@@ -1,1 +1,1 @@
-var mnemonic = "token abandon diamond come friend drill jungle dizzy wink second salon lecture";
+var mnemonic = "quality movie absorb genius elder champion eye weasel capable settle train child";

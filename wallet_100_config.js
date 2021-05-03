@@ -1,1 +1,1 @@
-var mnemonic = "top clever toddler stumble bridge brisk detect share suit index session sniff";
+var mnemonic = "idea vote math recipe visit giraffe trash skirt wave bubble lend seven";

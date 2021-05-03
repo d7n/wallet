@@ -1,1 +1,1 @@
-var mnemonic = "bulk bottom rib human squeeze burst elephant royal leg fitness impulse consider";
+var mnemonic = "blossom stay million initial promote credit fold force search six crime wet";

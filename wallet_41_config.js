@@ -1,1 +1,1 @@
-var mnemonic = "item drink find exhibit reason pact abstract opera give viable turn menu";
+var mnemonic = "drill robust road govern robot target rice print visa mind craft festival";

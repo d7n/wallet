@@ -1,1 +1,1 @@
-var mnemonic = "embody fly science undo news amateur search about frequent change this culture";
+var mnemonic = "tower source video lyrics morning smile drastic stem fire gesture battle radio";

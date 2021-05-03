@@ -1,1 +1,1 @@
-var mnemonic = "thrive shrug bleak attack churn horror grocery often lake loud moment course";
+var mnemonic = "clock victory tuna quick joy interest coach slow horror grab avocado field";

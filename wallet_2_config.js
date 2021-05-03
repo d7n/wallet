@@ -1,1 +1,1 @@
-var mnemonic = "enforce innocent sun gain erode float buddy stone vague hard alert pull";
+var mnemonic = "vintage once enjoy vendor frost thing rule sadness asset ring must card";

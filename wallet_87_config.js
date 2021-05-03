@@ -1,1 +1,1 @@
-var mnemonic = "salute husband normal split render ugly train impact discover table stairs slight";
+var mnemonic = "slab anger concert section update bless glad clap shove couple symbol idea";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom glue improve float warrior kitchen satoshi hedgehog invest error fury indoor";
+var mnemonic = "fine desk toy sibling drastic put trend cruise divide harvest input fuel";

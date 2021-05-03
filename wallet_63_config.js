@@ -1,1 +1,1 @@
-var mnemonic = "female high deposit knock before invest tennis trophy appear maximum weasel advice";
+var mnemonic = "stone describe harvest dish have result faculty dinosaur net also cabbage cinnamon";

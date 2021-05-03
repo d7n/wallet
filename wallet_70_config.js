@@ -1,1 +1,1 @@
-var mnemonic = "bachelor violin neutral control describe toast audit betray inspire undo museum wealth";
+var mnemonic = "gorilla tattoo dose stumble often warrior mixed slide boil father today hat";

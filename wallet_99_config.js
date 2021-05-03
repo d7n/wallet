@@ -1,1 +1,1 @@
-var mnemonic = "cream rough shell neutral smoke relief ahead fitness weather enemy ten town";
+var mnemonic = "ticket ramp supply mass sister rate people husband mutual clerk evolve symptom";

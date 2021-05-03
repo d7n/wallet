@@ -1,1 +1,1 @@
-var mnemonic = "divorce egg urge together pole quit simple price caught public carbon punch";
+var mnemonic = "cable forest network hire repair asthma bachelor office ripple duck flat replace";

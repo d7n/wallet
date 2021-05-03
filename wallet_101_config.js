@@ -1,1 +1,1 @@
-var mnemonic = "problem spare sure oyster mountain cricket fabric crush truck crumble clerk damp";
+var mnemonic = "victory ride elite feed limit wolf length shed shine please wool search";

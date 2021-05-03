@@ -1,1 +1,1 @@
-var mnemonic = "uphold biology defense dune defy audit element gaze problem eager allow alter";
+var mnemonic = "gaze inhale voyage liar shy ball scout heavy tool version napkin tiger";

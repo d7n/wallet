@@ -1,1 +1,1 @@
-var mnemonic = "couch found window rabbit outdoor bounce opinion prepare fish glare episode miss";
+var mnemonic = "visit dash scissors raise gain green ticket conduct connect wave unaware eagle";

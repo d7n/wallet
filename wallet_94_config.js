@@ -1,1 +1,1 @@
-var mnemonic = "position powder aunt visa invite rebuild cruel fade brush ordinary inflict buzz";
+var mnemonic = "bubble fee outer slot system tornado space truly amount monster window vast";

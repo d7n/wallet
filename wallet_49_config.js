@@ -1,1 +1,1 @@
-var mnemonic = "weekend bulk argue coffee scout injury asthma defense shove hint coyote shrug";
+var mnemonic = "kite guess gloom retreat plastic pond afford know noble night page machine";

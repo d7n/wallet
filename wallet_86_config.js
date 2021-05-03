@@ -1,1 +1,1 @@
-var mnemonic = "flock alone cross spoon survey slogan tail thought load onion army title";
+var mnemonic = "divorce cement antenna road need fire jacket neutral turkey fence hood throw";

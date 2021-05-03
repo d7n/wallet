@@ -1,1 +1,1 @@
-var mnemonic = "breeze tunnel foster draft runway seven save bid cloud prepare aspect dragon";
+var mnemonic = "lunch dish cute shock consider mushroom remind inherit vanish stone shove hold";

@@ -1,1 +1,1 @@
-var mnemonic = "cotton memory popular model industry limb three double stand confirm mom okay";
+var mnemonic = "frog casino left tobacco earth culture fine conduct ketchup under grape toddler";

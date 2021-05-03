@@ -1,1 +1,1 @@
-var mnemonic = "super nation notice general gossip misery saddle van page object quote mammal";
+var mnemonic = "toilet mobile jacket force fault sphere crumble year rose grit limb other";

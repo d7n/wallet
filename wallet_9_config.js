@@ -1,1 +1,1 @@
-var mnemonic = "duty bid math feed exclude post junk salmon blouse beyond cupboard rib";
+var mnemonic = "define million animal trick business toddler lunch access clump chest this trip";

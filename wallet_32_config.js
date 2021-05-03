@@ -1,1 +1,1 @@
-var mnemonic = "memory walnut anchor quit phone movie hurry casual cabin celery lizard athlete";
+var mnemonic = "diary wedding swallow hundred recycle agree general awkward liar share advance inform";

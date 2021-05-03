@@ -1,1 +1,1 @@
-var mnemonic = "wedding indoor elevator best guide polar snap enrich vendor phone oak neck";
+var mnemonic = "spike tip ranch between lion diary any muffin elevator square afford net";

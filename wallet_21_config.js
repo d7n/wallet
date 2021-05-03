@@ -1,1 +1,1 @@
-var mnemonic = "tuition order yard mountain spider swing panda couple focus mountain state add";
+var mnemonic = "verb source element clump lizard twelve mule promote accident street that host";

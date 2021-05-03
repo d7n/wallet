@@ -1,1 +1,1 @@
-var mnemonic = "auto abuse flee fire kiss combine tackle napkin afford drastic property scene";
+var mnemonic = "repeat hawk fun seven become around shiver journey scrap fame save apology";

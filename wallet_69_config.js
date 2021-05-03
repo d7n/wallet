@@ -1,1 +1,1 @@
-var mnemonic = "shock lift pattern change coral cargo girl universe outside modify candy popular";
+var mnemonic = "chicken episode lesson twist cross between fury inhale write tool reward mansion";

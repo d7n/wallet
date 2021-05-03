@@ -1,1 +1,1 @@
-var mnemonic = "increase dice icon bicycle virus possible cruel solar bind pretty salon correct";
+var mnemonic = "also isolate spend mixture appear question cause casino manual tumble combine frame";

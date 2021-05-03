@@ -1,1 +1,1 @@
-var mnemonic = "frost extend rural dash illness dad great nuclear spoon cost neglect awesome";
+var mnemonic = "useless clean focus auction airport people year struggle impact action write assume";

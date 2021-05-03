@@ -1,1 +1,1 @@
-var mnemonic = "offer alert vacuum vibrant forward pig armor ridge imitate lumber grit witness";
+var mnemonic = "private amused candy enjoy bunker wheat cousin already today case parade similar";

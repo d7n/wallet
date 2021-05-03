@@ -1,1 +1,1 @@
-var mnemonic = "battle proof organ wait estate better treat crime tattoo author noodle swarm";
+var mnemonic = "skin enact sudden teach object absent novel garment kit connect twin cry";

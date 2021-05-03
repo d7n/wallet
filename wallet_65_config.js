@@ -1,1 +1,1 @@
-var mnemonic = "true water region panther canal carbon mad predict repair grain pave laptop";
+var mnemonic = "pledge trap charge uncle scene blood casual someone purpose obvious report loan";

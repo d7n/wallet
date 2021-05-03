@@ -1,1 +1,1 @@
-var mnemonic = "kitten wash fancy world right junk drop shrimp weapon fade aware urge";
+var mnemonic = "physical mandate state knee client awesome decrease draw road safe absurd survey";

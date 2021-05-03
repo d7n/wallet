@@ -1,1 +1,1 @@
-var mnemonic = "gossip absent ethics wisdom render ensure lesson pen fetch bright rack target";
+var mnemonic = "drop tail police sure business snap chuckle give fitness monster juice bicycle";

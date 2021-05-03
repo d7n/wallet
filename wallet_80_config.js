@@ -1,1 +1,1 @@
-var mnemonic = "scrub render useless fatigue faculty shock unveil limit evidence law seat wall";
+var mnemonic = "panther forest hurdle scissors finger oval ensure love warm month adapt tomato";

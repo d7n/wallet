@@ -1,1 +1,1 @@
-var mnemonic = "near weather badge unit return real bunker depart hawk mango zebra replace";
+var mnemonic = "engage logic focus lunch judge drop hero elite curious online choose topic";

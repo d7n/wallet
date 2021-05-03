@@ -1,1 +1,1 @@
-var mnemonic = "deal wool crime dress thumb faint behind east worry grass floor target";
+var mnemonic = "task pause wave minor duck trigger settle guess narrow couple royal oak";

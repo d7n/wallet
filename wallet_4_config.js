@@ -1,1 +1,1 @@
-var mnemonic = "dawn valve inquiry admit acid april chuckle check produce boy title regret";
+var mnemonic = "bomb oven female pave domain device midnight vacuum kid arrest forum dune";

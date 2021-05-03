@@ -1,1 +1,1 @@
-var mnemonic = "evoke garment victory table oak first dilemma exit sphere access glow horse";
+var mnemonic = "other title huge bright excuse fury kid stove divorce soup cool pudding";

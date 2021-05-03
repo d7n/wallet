@@ -1,1 +1,1 @@
-var mnemonic = "venue used advance envelope claim faculty grit butter evil steel never loud";
+var mnemonic = "inside blossom car truly song oyster during dwarf exercise awake deliver purse";

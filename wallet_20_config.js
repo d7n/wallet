@@ -1,1 +1,1 @@
-var mnemonic = "exact stone dignity fringe prosper broom siren slim anger concert start insect";
+var mnemonic = "action smooth spell blanket unhappy orient gadget escape choice viable hospital output";

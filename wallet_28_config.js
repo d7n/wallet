@@ -1,1 +1,1 @@
-var mnemonic = "involve grow void dash better arrive water either domain infant casino road";
+var mnemonic = "entire since fantasy enforce thank famous topple gesture embark rotate cart symbol";

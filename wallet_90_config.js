@@ -1,1 +1,1 @@
-var mnemonic = "bunker rib embark rural filter slight open choose desert bus social faith";
+var mnemonic = "width end discover man label clerk edit cause review arrest host buddy";

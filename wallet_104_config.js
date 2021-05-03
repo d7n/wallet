@@ -1,1 +1,1 @@
-var mnemonic = "fatigue august maid spoon upon want relief uncle tourist throw execute park";
+var mnemonic = "crew danger swap private laugh chronic fragile strong method bicycle visa relief";

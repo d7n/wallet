@@ -1,1 +1,1 @@
-var mnemonic = "welcome fluid tip reform report shoot album chapter elbow process machine minor";
+var mnemonic = "practice lemon gym pause pear magnet tiny rain all alone seat flight";

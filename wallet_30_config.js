@@ -1,1 +1,1 @@
-var mnemonic = "north lend hover wedding actual comic exclude exact narrow winter federal economy";
+var mnemonic = "swap rebel fringe canyon oblige flag simple churn finger easy scheme regret";

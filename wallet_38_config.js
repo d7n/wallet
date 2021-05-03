@@ -1,1 +1,1 @@
-var mnemonic = "anchor nation undo organ dynamic churn rare advance emerge armor snake vapor";
+var mnemonic = "diamond say almost song type first gesture round shuffle hundred punch confirm";

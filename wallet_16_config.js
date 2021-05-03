@@ -1,1 +1,1 @@
-var mnemonic = "rubber future control faculty beyond end project fiber valid flock damp buzz";
+var mnemonic = "monitor abandon denial bounce thought weekend sort genuine able run symbol walk";

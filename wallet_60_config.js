@@ -1,1 +1,1 @@
-var mnemonic = "lesson reduce person rather bean lens adjust female buzz photo vital drip";
+var mnemonic = "coin memory solar bleak churn ripple soul loud secret version lesson match";

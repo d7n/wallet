@@ -1,1 +1,1 @@
-var mnemonic = "oxygen room equal height meat rule plate math avocado typical enjoy recycle";
+var mnemonic = "oyster student camera decline mean reunion transfer mansion waste hen knife legal";

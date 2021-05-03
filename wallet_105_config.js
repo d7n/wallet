@@ -1,1 +1,1 @@
-var mnemonic = "witness angry affair answer vibrant occur wheel tunnel connect end lift force";
+var mnemonic = "mix detect like road soldier during leopard hand glass october sorry blanket";

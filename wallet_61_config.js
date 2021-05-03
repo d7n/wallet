@@ -1,1 +1,1 @@
-var mnemonic = "claw citizen broom rally gate organ caution include hockey hundred pizza deputy";
+var mnemonic = "tribe fall crowd spare shallow head actual metal control effort grief sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "public enjoy trophy kitten clog blast describe print moment secret title caution";
+var mnemonic = "give culture blue pledge joy razor start thumb kitten hair post maid";

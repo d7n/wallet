@@ -1,1 +1,1 @@
-var mnemonic = "forward lottery sister silver develop drama wool pear accident arrange pony huge";
+var mnemonic = "hedgehog lend expose absent local secret close dry group pen punch gym";

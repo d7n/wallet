@@ -1,1 +1,1 @@
-var mnemonic = "advice knee choice memory protect wage proud census desk update bring drum";
+var mnemonic = "decide rebel forest surprise shuffle legal mule matrix giant fit broccoli skin";

@@ -1,1 +1,1 @@
-var mnemonic = "sail hotel spirit silk minimum oil flavor armor practice burger object injury";
+var mnemonic = "gospel bulb kingdom measure salad fever bacon need cram head diesel abstract";

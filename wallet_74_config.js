@@ -1,1 +1,1 @@
-var mnemonic = "lazy emerge pass fashion wedding brief open leader nice funny advance illness";
+var mnemonic = "erode tube huge rare legend black stadium where judge wife badge disorder";

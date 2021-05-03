@@ -1,1 +1,1 @@
-var mnemonic = "same trap repair strong stereo renew pencil cigar tail inject pen nerve";
+var mnemonic = "penalty skate solar push involve speak total napkin flight appear series purse";
