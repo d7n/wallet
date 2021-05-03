@@ -1,1 +1,1 @@
-var mnemonic = "feed volume clay wait update vintage panther divorce maximum naive catch treat";
+var mnemonic = "volume gap bottom push angry must earth just whale obey solve off";

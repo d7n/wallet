@@ -1,1 +1,1 @@
-var mnemonic = "toss minimum leader skull fetch electric upper when bulb fringe citizen tower";
+var mnemonic = "draft high today december float hub antenna eyebrow creek twice profit hobby";

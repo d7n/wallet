@@ -1,1 +1,1 @@
-var mnemonic = "below letter taxi town wheat grow dutch rent soda tumble abuse frog";
+var mnemonic = "magnet circle action wall dish kid drastic toast alarm train short arrow";

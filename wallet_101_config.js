@@ -1,1 +1,1 @@
-var mnemonic = "today ensure advice genuine junk consider paddle hamster barrel bronze magic badge";
+var mnemonic = "addict crowd wash stem issue tumble room mosquito time pact deer pretty";

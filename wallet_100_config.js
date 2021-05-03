@@ -1,1 +1,1 @@
-var mnemonic = "curious track summer reopen comic print tone aware spare pole nurse lucky";
+var mnemonic = "ocean spice yellow scan myself salt trouble because eye act derive offer";

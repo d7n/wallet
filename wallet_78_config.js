@@ -1,1 +1,1 @@
-var mnemonic = "spawn select spider hour gallery opera ugly use cliff flight depart choose";
+var mnemonic = "egg social off owner this enable price train reject absurd estate normal";

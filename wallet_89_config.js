@@ -1,1 +1,1 @@
-var mnemonic = "cabbage check fitness concert pool key rookie thing unique field front matter";
+var mnemonic = "melody reason dignity bike lemon gap enter main cheap laugh soft drastic";

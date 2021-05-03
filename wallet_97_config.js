@@ -1,1 +1,1 @@
-var mnemonic = "sail type rather approve can left drink correct visa plunge push permit";
+var mnemonic = "unlock ordinary nut annual inch chimney limit jeans food trade awful insect";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal machine trip van bamboo annual warrior sponsor giraffe baby midnight then";
+var mnemonic = "medal involve ostrich fiber champion wash saddle main injury help motor unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "drama summer fan tool call gauge act plunge alley glide price choice";
+var mnemonic = "track basket era simple chief brass slam pulse caution vicious utility sleep";

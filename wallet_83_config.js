@@ -1,1 +1,1 @@
-var mnemonic = "swap blue bag claw above busy kitten pink select rapid smile trigger";
+var mnemonic = "chimney acoustic venue canvas dice below blanket this brisk knife pipe plug";

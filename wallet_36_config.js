@@ -1,1 +1,1 @@
-var mnemonic = "coconut people barrel valid pill program pencil spray risk welcome bike coin";
+var mnemonic = "maple type method buzz yellow truth discover orient pull output solar crush";

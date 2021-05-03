@@ -1,1 +1,1 @@
-var mnemonic = "dumb version fly tunnel mimic acquire together strategy draw panther library shoe";
+var mnemonic = "uncover grief heart maximum doll honey thing later toilet speak trend way";

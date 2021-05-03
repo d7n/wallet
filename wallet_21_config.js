@@ -1,1 +1,1 @@
-var mnemonic = "unhappy parade quote saddle coral security about crash wrap train merge dumb";
+var mnemonic = "ranch churn able opinion rotate mad outer right shield immense dry glory";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise cluster material cousin tell border gold engage reject sand million veteran";
+var mnemonic = "example pudding town material fresh smart appear large vital friend super network";

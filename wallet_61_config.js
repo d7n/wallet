@@ -1,1 +1,1 @@
-var mnemonic = "smoke length prison victory cage pole broccoli farm diet control crumble disease";
+var mnemonic = "despair nothing fox syrup pudding loyal almost antique taxi tumble addict casino";

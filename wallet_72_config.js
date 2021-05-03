@@ -1,1 +1,1 @@
-var mnemonic = "update letter coast where believe either borrow unaware pave endorse service until";
+var mnemonic = "ostrich crew miracle siege hat today direct tragic ozone patrol cruel diet";

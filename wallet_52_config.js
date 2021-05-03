@@ -1,1 +1,1 @@
-var mnemonic = "park reward oxygen van win opera puppy dynamic title original desert tumble";
+var mnemonic = "wave room wrist onion discover valve balcony welcome coin warm genuine nose";

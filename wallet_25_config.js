@@ -1,1 +1,1 @@
-var mnemonic = "dial essay winner hard clock scout mother kiss obscure sketch paddle bus";
+var mnemonic = "avocado senior average network local ugly write certain prize garlic tent dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "quiz badge power smile sleep jazz public engage foster intact common speak";
+var mnemonic = "turkey change receive capable guess fitness jealous crack such swap trouble banana";

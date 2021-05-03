@@ -1,1 +1,1 @@
-var mnemonic = "special shed animal issue credit capable pencil hazard liberty rule ridge hole";
+var mnemonic = "flavor swift million account gesture oil regular fresh invest math raw throw";

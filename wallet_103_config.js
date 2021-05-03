@@ -1,1 +1,1 @@
-var mnemonic = "neither dwarf shadow unusual orbit trial tourist turtle fog toe close wonder";
+var mnemonic = "become snake honey point lucky orange actor month atom shaft tongue fall";

@@ -1,1 +1,1 @@
-var mnemonic = "limit page tape gown lawn dutch rural ring equal battle treat suspect";
+var mnemonic = "tongue admit clog sense riot clarify such thing discover rate swamp trial";

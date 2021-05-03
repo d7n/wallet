@@ -1,1 +1,1 @@
-var mnemonic = "elephant figure adjust orphan flavor output twice nut betray angry aunt chronic";
+var mnemonic = "expire glass essay mean sadness south link inherit assist lady victory immune";

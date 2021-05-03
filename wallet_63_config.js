@@ -1,1 +1,1 @@
-var mnemonic = "aisle gravity radar guard book palm myself chief lamp apple club day";
+var mnemonic = "include hidden dolphin sniff unhappy aerobic fork mom sustain arctic letter what";

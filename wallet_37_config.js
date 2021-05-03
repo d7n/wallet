@@ -1,1 +1,1 @@
-var mnemonic = "state bitter drastic vicious globe amazing buddy culture trigger filter boy just";
+var mnemonic = "glove car oyster access remember goose large island proof fade ladder very";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze camp summer cricket current achieve marble chapter gain candy kitchen adult";
+var mnemonic = "grain length torch defense surround shuffle cart solve sell fix zebra aim";

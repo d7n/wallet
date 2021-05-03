@@ -1,1 +1,1 @@
-var mnemonic = "setup demand slow slam border abstract gym smile depend damage enrich blush";
+var mnemonic = "vague frog grass choose disease fuel mansion parade liar table certain piano";

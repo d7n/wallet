@@ -1,1 +1,1 @@
-var mnemonic = "yellow cliff patrol identify sketch seek meadow scale lucky plate target need";
+var mnemonic = "solar ripple latin shock comfort feel visual marriage domain either start perfect";

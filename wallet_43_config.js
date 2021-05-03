@@ -1,1 +1,1 @@
-var mnemonic = "consider pause heavy dutch leaf cabbage pass world also stay song bitter";
+var mnemonic = "hole hover proud satisfy interest october jewel tissue satoshi sphere dirt denial";

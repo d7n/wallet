@@ -1,1 +1,1 @@
-var mnemonic = "butter system ugly true north coin neutral kidney fly wide pepper blue";
+var mnemonic = "engine mouse void owner exercise vibrant lunar furnace fish injury dirt success";

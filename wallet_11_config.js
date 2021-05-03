@@ -1,1 +1,1 @@
-var mnemonic = "safe spirit divert huge eager canvas kind gun path enable piece mention";
+var mnemonic = "monkey split wisdom palace lazy wheel term age awkward measure pretty december";

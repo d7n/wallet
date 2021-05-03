@@ -1,1 +1,1 @@
-var mnemonic = "column better boat pioneer tenant film law tag crucial athlete nurse basket";
+var mnemonic = "feature stage oak extra fresh army core note pelican bright cloud destroy";

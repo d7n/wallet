@@ -1,1 +1,1 @@
-var mnemonic = "tribe sea sample bright torch excess snap draft bus sport sing blame";
+var mnemonic = "orchard example asset large bundle push crater puzzle insect dial client primary";

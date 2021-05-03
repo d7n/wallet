@@ -1,1 +1,1 @@
-var mnemonic = "ancient trial panel reject escape diesel also purity wonder cousin base actual";
+var mnemonic = "moon violin ginger hybrid beauty able fatigue nurse laptop squeeze pride another";

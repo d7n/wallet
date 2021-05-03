@@ -1,1 +1,1 @@
-var mnemonic = "enjoy off amused clock anchor fancy cram guide flee grunt artefact flock";
+var mnemonic = "beach sun share flight excite envelope among myself smart twin floor alpha";

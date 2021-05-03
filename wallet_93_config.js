@@ -1,1 +1,1 @@
-var mnemonic = "jeans grant winner unusual business hollow cost meadow section heavy gun win";
+var mnemonic = "wage design reward unusual return because spend monkey hedgehog put ladder pilot";

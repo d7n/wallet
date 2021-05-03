@@ -1,1 +1,1 @@
-var mnemonic = "misery unfold prefer top alarm inflict about robust lonely august review citizen";
+var mnemonic = "lake stable question smooth into swallow plate lazy gold adult episode until";

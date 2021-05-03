@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow amateur repeat brain quick trash nuclear possible debate attack home tenant";
+var mnemonic = "produce balcony leaf green tell primary cage witness rabbit bulk group risk";

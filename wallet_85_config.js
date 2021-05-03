@@ -1,1 +1,1 @@
-var mnemonic = "clerk ill gauge plate baby grab scene powder point vocal ordinary avoid";
+var mnemonic = "goose surprise involve tribe that together public used post pulse erase ticket";

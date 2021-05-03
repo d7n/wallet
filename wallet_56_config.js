@@ -1,1 +1,1 @@
-var mnemonic = "salute seek surprise gentle crane deputy jewel rotate frequent below chef margin";
+var mnemonic = "symbol sister obtain hawk melody other awake leopard paddle wild sugar melt";

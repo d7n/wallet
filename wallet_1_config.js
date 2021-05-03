@@ -1,1 +1,1 @@
-var mnemonic = "cannon food risk retreat lounge month dice accident discover wolf tackle state";
+var mnemonic = "now lake evil little figure round raccoon junk rally liquid eyebrow capable";

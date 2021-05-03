@@ -1,1 +1,1 @@
-var mnemonic = "treat tag try month physical canoe inch sketch utility air nature brass";
+var mnemonic = "world must pear danger crazy spoon shift loop airport palm stove dilemma";

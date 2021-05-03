@@ -1,1 +1,1 @@
-var mnemonic = "grocery milk reflect used rebuild dragon quiz regular piano beach deny excuse";
+var mnemonic = "decide evolve small six wagon circle special useful ride excuse muffin citizen";

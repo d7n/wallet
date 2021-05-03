@@ -1,1 +1,1 @@
-var mnemonic = "hover split enemy boring cinnamon debris hedgehog hip hidden beauty injury between";
+var mnemonic = "danger unknown candy wet denial identify fashion lion sustain unveil conduct material";

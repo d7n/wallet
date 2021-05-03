@@ -1,1 +1,1 @@
-var mnemonic = "basket shrug drive legend brain gadget trust wool pretty clock subject shield";
+var mnemonic = "raccoon enemy execute first teach trouble boat dose school human strike chronic";

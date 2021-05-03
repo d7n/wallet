@@ -1,1 +1,1 @@
-var mnemonic = "there museum betray axis rotate warrior beef busy swear develop artist valid";
+var mnemonic = "reason dwarf wheat labor room sniff icon fence curious library daring thought";

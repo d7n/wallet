@@ -1,1 +1,1 @@
-var mnemonic = "convince depth canal slim gadget shoot news where joy gain smoke find";
+var mnemonic = "food very rebel spread volcano cactus frame about option lunch famous rather";

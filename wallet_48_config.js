@@ -1,1 +1,1 @@
-var mnemonic = "letter icon stool outside scare game area rail genre elegant source sister";
+var mnemonic = "label animal try hamster limit hub true prepare ghost north evolve kind";

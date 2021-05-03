@@ -1,1 +1,1 @@
-var mnemonic = "consider memory physical volume cricket inner wash turkey elegant develop behave audit";
+var mnemonic = "rather witness size spring tissue proof roast duty arrange domain account sudden";

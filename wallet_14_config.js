@@ -1,1 +1,1 @@
-var mnemonic = "circle rose visit join reason nut crash defy flash diary ancient february";
+var mnemonic = "rifle slide monitor more endless tissue ice spoon tool adjust urban source";

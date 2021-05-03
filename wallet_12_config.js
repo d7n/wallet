@@ -1,1 +1,1 @@
-var mnemonic = "learn grid december calm column warrior truly unit bar thumb city sort";
+var mnemonic = "swing smile club cotton release page bread quality cram artwork program found";

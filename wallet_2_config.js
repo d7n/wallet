@@ -1,1 +1,1 @@
-var mnemonic = "allow always track senior shallow coil legend tortoise insane globe business hamster";
+var mnemonic = "tobacco twice vessel guitar market cover bulb service usual cute alert fame";

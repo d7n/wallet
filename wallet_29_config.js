@@ -1,1 +1,1 @@
-var mnemonic = "camp grape mask december robust regular extra state ecology carbon worth bounce";
+var mnemonic = "nation black people dwarf tortoise peace tobacco picnic harsh gold poem sauce";

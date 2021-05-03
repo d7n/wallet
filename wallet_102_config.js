@@ -1,1 +1,1 @@
-var mnemonic = "hope educate pet leg stove admit ill manage excess reduce polar tobacco";
+var mnemonic = "monster develop heart draw bamboo bird promote pistol attitude tower arena return";

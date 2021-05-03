@@ -1,1 +1,1 @@
-var mnemonic = "enemy vague group scout oppose tuition finish album chuckle bomb sibling cage";
+var mnemonic = "fatigue chat anchor couch able motion coral cigar jealous trip blossom alpha";

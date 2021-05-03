@@ -1,1 +1,1 @@
-var mnemonic = "card make accuse daring tree true despair stage ripple devote hold mansion";
+var mnemonic = "person abstract size orbit brave ahead gauge since predict whale neck aware";

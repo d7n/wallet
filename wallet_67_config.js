@@ -1,1 +1,1 @@
-var mnemonic = "crash index whisper refuse logic siege palm fruit negative entire feel bike";
+var mnemonic = "rich injury index whisper gallery path relief student right vicious pause security";

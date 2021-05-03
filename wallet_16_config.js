@@ -1,1 +1,1 @@
-var mnemonic = "beyond bless carry biology domain network put envelope they history spin mother";
+var mnemonic = "situate fruit muffin bitter cabin ridge mom distance theory act luxury into";

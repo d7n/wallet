@@ -1,1 +1,1 @@
-var mnemonic = "measure clay black couch air monster pelican edge grant egg home wide";
+var mnemonic = "wet cradle addict curve fame oblige legal party pool boy music vanish";

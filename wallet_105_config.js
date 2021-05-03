@@ -1,1 +1,1 @@
-var mnemonic = "antique moral blast tuition suggest garbage problem romance iron mountain copy three";
+var mnemonic = "menu mobile deer inch about buffalo ginger topic seven either bid expose";

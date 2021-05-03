@@ -1,1 +1,1 @@
-var mnemonic = "meadow feed nest cook glory hurt web relief actor maple drum prevent";
+var mnemonic = "cloth illness resource topic uphold antenna little donor verb can bronze neglect";

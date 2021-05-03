@@ -1,1 +1,1 @@
-var mnemonic = "million lift useless sell frost match century village because display world initial";
+var mnemonic = "tiny physical swing toast love pulse spawn devote lyrics faculty enlist sibling";

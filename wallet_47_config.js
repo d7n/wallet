@@ -1,1 +1,1 @@
-var mnemonic = "daring whisper magnet awkward ridge panel bright curtain wealth nose pistol drastic";
+var mnemonic = "frozen long claw proud circle injury exhibit skate degree shop fine feel";

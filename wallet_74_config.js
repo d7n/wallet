@@ -1,1 +1,1 @@
-var mnemonic = "guide animal crane extra virus toddler dawn stadium final october keen will";
+var mnemonic = "ridge survey easily hello brain glimpse video cheap autumn you notice soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol sorry subject butter real broken note acquire pyramid version clock west";
+var mnemonic = "luggage dismiss into trap family fatigue easy donate either similar note strategy";

@@ -1,1 +1,1 @@
-var mnemonic = "mention reason cool shuffle cover use below dry brick office limit grace";
+var mnemonic = "soldier often unique someone still elbow buyer unknown patch usual shy sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "burden lucky observe vote slide two lucky top fringe little mad peasant";
+var mnemonic = "two rain merge jazz frost castle inform salmon april medal denial velvet";

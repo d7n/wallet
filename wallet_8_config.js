@@ -1,1 +1,1 @@
-var mnemonic = "vendor flush banner urge worry brick subject lion release second scorpion measure";
+var mnemonic = "cradle pistol force night opinion cat cry amateur depart panda mule chimney";

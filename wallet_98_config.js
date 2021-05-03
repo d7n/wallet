@@ -1,1 +1,1 @@
-var mnemonic = "eye about call tribe decrease shell speak public congress punch embrace shell";
+var mnemonic = "opera emotion matter razor express tape ozone addict call suffer old flush";

@@ -1,1 +1,1 @@
-var mnemonic = "segment raise crouch silk maze girl mutual include siege interest analyst ripple";
+var mnemonic = "miss tumble tip marriage enemy replace pause legal civil file impulse sponsor";

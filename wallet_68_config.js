@@ -1,1 +1,1 @@
-var mnemonic = "pelican tray aunt elegant rude wrap galaxy fox either mango exact profit";
+var mnemonic = "pool dash fresh skill step token guilt banner latin west ice adult";

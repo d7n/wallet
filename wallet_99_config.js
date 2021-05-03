@@ -1,1 +1,1 @@
-var mnemonic = "wrestle corn velvet float leisure soldier miss jealous void harbor hole parent";
+var mnemonic = "island useful innocent dinner firm slam flash surprise hollow swear jeans dilemma";

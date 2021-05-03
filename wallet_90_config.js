@@ -1,1 +1,1 @@
-var mnemonic = "erupt ordinary rice meat mule wear wolf dumb twenty setup saddle combine";
+var mnemonic = "april virus effort empty drum best finger fog stumble library thunder blush";

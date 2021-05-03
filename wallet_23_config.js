@@ -1,1 +1,1 @@
-var mnemonic = "document swarm liberty model rather cradle differ weapon north choose promote bargain";
+var mnemonic = "weapon oppose escape degree wine asset say census design spatial grant dune";

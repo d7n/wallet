@@ -1,1 +1,1 @@
-var mnemonic = "fetch repeat truly mirror target success floor casino truth matter deer song";
+var mnemonic = "shoot bridge casual decide bright amused cave dish abuse happy regular blind";

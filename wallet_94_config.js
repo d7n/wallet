@@ -1,1 +1,1 @@
-var mnemonic = "spirit quiz left rack small leaf comic fence parade supreme ensure used";
+var mnemonic = "crowd clutch fossil gas wing lock option case fence seek oven rich";

@@ -1,1 +1,1 @@
-var mnemonic = "vote diesel apple wait rotate social cigar bring fuel waste degree lyrics";
+var mnemonic = "smart then fiscal hawk kid acid interest rare sustain much raccoon brain";

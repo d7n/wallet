@@ -1,1 +1,1 @@
-var mnemonic = "apology hero tool approve fossil youth night above talent eyebrow neutral autumn";
+var mnemonic = "renew bitter absurd romance island faith menu wash admit crop denial space";

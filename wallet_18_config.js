@@ -1,1 +1,1 @@
-var mnemonic = "discover rocket often mixture coconut release join whip wide enlist legal vibrant";
+var mnemonic = "dream gravity hospital boat anger still cannon neck vibrant purpose cram spike";

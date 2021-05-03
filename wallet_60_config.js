@@ -1,1 +1,1 @@
-var mnemonic = "spy rotate imitate story prefer permit lunch sphere fluid drop cup twenty";
+var mnemonic = "invest shield old shaft pulp later weasel edit game awake canyon hidden";

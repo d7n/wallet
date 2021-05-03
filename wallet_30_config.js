@@ -1,1 +1,1 @@
-var mnemonic = "lemon solution skirt custom crucial shift forward pottery frequent gauge inject define";
+var mnemonic = "small success lion unlock street marriage snake boost rocket later call drama";

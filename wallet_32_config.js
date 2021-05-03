@@ -1,1 +1,1 @@
-var mnemonic = "arrange dad hazard chief rib risk dry rail cement deal wasp enroll";
+var mnemonic = "erosion depth helmet hurt fresh drum anchor list poet negative coyote team";

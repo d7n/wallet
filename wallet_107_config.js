@@ -1,1 +1,1 @@
-var mnemonic = "wear diamond stumble baby elephant tobacco army leader join fatal lumber swarm";
+var mnemonic = "accident frost seed pledge recycle torch hood wasp rubber poet banana correct";

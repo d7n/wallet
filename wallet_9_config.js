@@ -1,1 +1,1 @@
-var mnemonic = "layer orphan seed loop skill run dinner gospel diagram blanket cage shove";
+var mnemonic = "rocket spirit flower alien stadium crowd exist couch recipe torch toast flush";

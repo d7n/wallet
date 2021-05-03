@@ -1,1 +1,1 @@
-var mnemonic = "magic because hungry tape acoustic inflict spatial catch sphere mad that dash";
+var mnemonic = "truly truck slide execute robot mass cup edge drift pride year yard";

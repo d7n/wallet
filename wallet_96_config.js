@@ -1,1 +1,1 @@
-var mnemonic = "cost slab acid spider name note fashion chat ginger shuffle hen visa";
+var mnemonic = "immense paper kitchen error beef type salon firm champion win blur trap";

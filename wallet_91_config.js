@@ -1,1 +1,1 @@
-var mnemonic = "reduce leisure mean explain sweet impact mix october live like domain metal";
+var mnemonic = "skin north tonight whip depend thunder donkey middle under bullet kid repeat";

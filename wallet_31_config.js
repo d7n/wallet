@@ -1,1 +1,1 @@
-var mnemonic = "scrap table ribbon escape mother dismiss diet oven tag solve mad debris";
+var mnemonic = "blossom hollow cancel odor gift expect market alarm stand warm spider unable";

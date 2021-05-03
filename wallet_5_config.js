@@ -1,1 +1,1 @@
-var mnemonic = "avocado trophy snap second abstract injury fitness orient slab random junior remain";
+var mnemonic = "guard away symbol other student father seven party silly news cram price";

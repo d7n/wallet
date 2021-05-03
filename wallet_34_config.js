@@ -1,1 +1,1 @@
-var mnemonic = "destroy novel truck catalog glimpse rent core tiny woman canyon hello receive";
+var mnemonic = "price lizard hole connect gun laundry cover name upon metal caught else";
