@@ -1,1 +1,1 @@
-var mnemonic = "thought trust jealous boy fiber breeze basic error review now vapor false";
+var mnemonic = "busy mother choose amazing globe nation frost vehicle balcony use tattoo pride";

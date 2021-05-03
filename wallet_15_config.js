@@ -1,1 +1,1 @@
-var mnemonic = "little mixture essay outer cancel easily beach critic film rifle lyrics license";
+var mnemonic = "seed arena assault present mistake injury fury fetch release invite squeeze scan";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet flush evolve mobile put gossip relax eight spray medal vague yard";
+var mnemonic = "gallery clutch poet private pizza flag curve reflect flush curve boring order";

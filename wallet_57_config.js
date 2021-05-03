@@ -1,1 +1,1 @@
-var mnemonic = "coil soccer duck woman give chunk rain style expose wrong badge tomorrow";
+var mnemonic = "tell bundle twin afraid rescue infant unlock woman letter hood glory prefer";

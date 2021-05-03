@@ -1,1 +1,1 @@
-var mnemonic = "hollow neutral exclude fan return rocket still whisper hair action avoid write";
+var mnemonic = "unaware chimney town dad wild van cannon junior minimum brave spatial question";

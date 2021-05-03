@@ -1,1 +1,1 @@
-var mnemonic = "arctic castle inside state debris syrup goddess tape year state excite permit";
+var mnemonic = "correct inherit neither right toilet wagon mail debris anger behave parent tilt";

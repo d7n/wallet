@@ -1,1 +1,1 @@
-var mnemonic = "empower public response start dust aware main life midnight priority exist worry";
+var mnemonic = "drift million test bid icon foam utility awful second shaft hover soon";

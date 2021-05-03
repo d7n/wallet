@@ -1,1 +1,1 @@
-var mnemonic = "secret nature hawk since zero cancel chuckle rain remain ethics belt mom";
+var mnemonic = "flame oil can skull cream sand north mule remain print special soccer";

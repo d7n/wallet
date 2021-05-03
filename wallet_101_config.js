@@ -1,1 +1,1 @@
-var mnemonic = "all shiver random ten cancel hedgehog sting birth bracket turkey claw deposit";
+var mnemonic = "crouch time minor mistake ribbon lounge usual eyebrow life clerk vague calm";

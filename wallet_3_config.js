@@ -1,1 +1,1 @@
-var mnemonic = "diet birth spring inside economy tuna team pink trophy aunt maple field";
+var mnemonic = "swear august board three virtual spin text image burden split decline fade";

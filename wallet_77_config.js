@@ -1,1 +1,1 @@
-var mnemonic = "village spell more clown fox tortoise renew attitude lava settle traffic blanket";
+var mnemonic = "observe question fancy flat planet eagle exhibit dune eager label empower cup";

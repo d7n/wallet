@@ -1,1 +1,1 @@
-var mnemonic = "milk outdoor magnet wreck hen canyon flip mandate sniff local lunar trumpet";
+var mnemonic = "exist pole expand infant basket heavy scrap smoke blade trial inform light";

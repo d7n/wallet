@@ -1,1 +1,1 @@
-var mnemonic = "park deputy fiction team eagle dignity solution promote term protect sponsor elephant";
+var mnemonic = "crouch health drip aunt fitness income fatal fury thing proud broom confirm";

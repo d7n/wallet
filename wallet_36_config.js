@@ -1,1 +1,1 @@
-var mnemonic = "glimpse harsh witness name chuckle burst stove nest cup fine luggage change";
+var mnemonic = "clutch giant elbow marine payment mechanic radio fashion public sail swim window";

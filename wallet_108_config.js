@@ -1,1 +1,1 @@
-var mnemonic = "siren peanut craft magic venture second together ticket mercy call spider source";
+var mnemonic = "item symbol hurry card creek two cannon hazard rough age about typical";

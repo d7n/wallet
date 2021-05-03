@@ -1,1 +1,1 @@
-var mnemonic = "quality ranch place barrel egg capital reward middle atom elite tumble refuse";
+var mnemonic = "drink venture major purse excite survey banner oxygen doctor accuse top speed";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant kid sunny globe infant clump swap provide awkward close crater lock";
+var mnemonic = "slice salute amount mule comic agree wool addict bind fit leave frequent";

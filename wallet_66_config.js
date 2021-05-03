@@ -1,1 +1,1 @@
-var mnemonic = "dance measure ankle original surface idea tired drink rebel leisure satoshi wealth";
+var mnemonic = "moon mind few never legal pretty select library play deal firm tired";

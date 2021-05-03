@@ -1,1 +1,1 @@
-var mnemonic = "chest extend acquire jacket noodle girl allow doll opinion bike sunset gun";
+var mnemonic = "artist inject arrive decade maple bonus bread hybrid dove artefact more argue";

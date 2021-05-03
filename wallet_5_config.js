@@ -1,1 +1,1 @@
-var mnemonic = "slight lyrics cross minimum very salon pact gold broken list club brick";
+var mnemonic = "ill build wedding duck poet family tuition charge bless table they fetch";

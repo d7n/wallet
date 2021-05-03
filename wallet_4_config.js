@@ -1,1 +1,1 @@
-var mnemonic = "scale myself kit retire soon private mechanic make wish ball delay girl";
+var mnemonic = "shell devote either camera virtual crop narrow keep jelly amount tree proud";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans problem coin private portion shed hobby inflict notice gorilla exist smoke";
+var mnemonic = "learn slam cabbage ball guess mixture ethics maze jewel impact price fiction";

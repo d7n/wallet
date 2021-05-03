@@ -1,1 +1,1 @@
-var mnemonic = "snow sponsor wasp source maze jelly slush garden kiss august find sell";
+var mnemonic = "lecture garment ocean wagon warfare absurd thunder drop view harvest name unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "surge orange latin this suspect hire eager erosion dune hospital object soul";
+var mnemonic = "conduct fatigue crunch purchase chicken iron rebuild topic return symbol escape elegant";

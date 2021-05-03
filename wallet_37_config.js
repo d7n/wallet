@@ -1,1 +1,1 @@
-var mnemonic = "mind drink token addict hub shoulder drink giant code always polar zoo";
+var mnemonic = "weapon alone eight castle crisp nephew capital wet salute rotate basic rate";

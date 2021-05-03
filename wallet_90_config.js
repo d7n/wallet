@@ -1,1 +1,1 @@
-var mnemonic = "viable infant swear steel index horse glory spy smart token dust vault";
+var mnemonic = "use marble design exchange moment machine enable other dolphin memory velvet embody";

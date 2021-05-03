@@ -1,1 +1,1 @@
-var mnemonic = "empty cruise reject normal useful basket ladder impulse comic almost unusual level";
+var mnemonic = "assume village around deer water immune warm odor shine easy weapon envelope";

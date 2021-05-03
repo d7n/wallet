@@ -1,1 +1,1 @@
-var mnemonic = "myself need wall rocket digital journey envelope kind hill save solar buffalo";
+var mnemonic = "alone clarify bonus shift pet fiction fiction frozen unlock abandon globe leave";

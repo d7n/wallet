@@ -1,1 +1,1 @@
-var mnemonic = "primary ensure angle ski invite base crawl lemon crush congress width that";
+var mnemonic = "reduce olympic next baby clip photo august poet liar live outside gaze";

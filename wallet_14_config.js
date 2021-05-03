@@ -1,1 +1,1 @@
-var mnemonic = "humble cable modify couch broccoli latin crumble chapter test grain bicycle stumble";
+var mnemonic = "dumb million load assume pilot unusual robot priority salute happy robot wing";

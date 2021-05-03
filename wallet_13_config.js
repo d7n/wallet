@@ -1,1 +1,1 @@
-var mnemonic = "ship rebel snack tiny luggage follow pattern measure weekend visa chaos doll";
+var mnemonic = "grab treat stool path vacuum minimum twelve nice zero alcohol suggest decline";

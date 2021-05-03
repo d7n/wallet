@@ -1,1 +1,1 @@
-var mnemonic = "notable mammal thank leader skate dirt muffin girl gallery frame retire report";
+var mnemonic = "melt accuse together hurt urban purchase setup lady spring enable umbrella quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "gesture slam filter limb clump mean nothing debate engine desk aisle barely";
+var mnemonic = "verb dinosaur donkey job salad pipe enforce never story tower repeat travel";

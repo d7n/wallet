@@ -1,1 +1,1 @@
-var mnemonic = "cry whale tongue sweet wise zero pact mom plastic wagon sing bomb";
+var mnemonic = "uncover renew width rally horn bacon release scissors worry eight float ability";

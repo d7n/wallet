@@ -1,1 +1,1 @@
-var mnemonic = "cargo wrong zoo enter chapter arrest pluck purpose shadow exercise topple unusual";
+var mnemonic = "need lion giggle snack eager destroy cabbage glad express april wealth fault";

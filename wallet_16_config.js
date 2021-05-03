@@ -1,1 +1,1 @@
-var mnemonic = "chimney betray immense enact member tumble develop gather timber wild belt hill";
+var mnemonic = "range tank draft useless account desert magnet wild feel will onion egg";

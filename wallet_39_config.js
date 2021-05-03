@@ -1,1 +1,1 @@
-var mnemonic = "dynamic shy grab energy share permit actress worth walnut shop say census";
+var mnemonic = "issue radio apple joy core gesture text imitate proof young fire coin";

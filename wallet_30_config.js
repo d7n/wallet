@@ -1,1 +1,1 @@
-var mnemonic = "neutral oak peace frog motor scale about measure guilt wood bless math";
+var mnemonic = "target liquid punch theme family drip weapon hidden dragon health home among";

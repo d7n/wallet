@@ -1,1 +1,1 @@
-var mnemonic = "play small clean general this soap enact enter cotton census empty awake";
+var mnemonic = "ripple galaxy broccoli vicious improve behind flight sense submit sheriff involve senior";

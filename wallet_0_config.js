@@ -1,1 +1,1 @@
-var mnemonic = "survey priority plug fresh truth glass hub surround rocket ice letter service";
+var mnemonic = "castle pony lumber furnace fiscal creek across fiber lens voyage nurse night";

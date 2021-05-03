@@ -1,1 +1,1 @@
-var mnemonic = "elephant kingdom hope lecture phone pact plastic embrace elegant scissors what thunder";
+var mnemonic = "devote enjoy borrow ozone suggest accident palm choose pizza first oval road";

@@ -1,1 +1,1 @@
-var mnemonic = "ethics cube zone adjust fruit coyote subject limb menu swear economy ordinary";
+var mnemonic = "loyal awake pride wagon bicycle rice canvas convince private monitor click baby";

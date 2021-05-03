@@ -1,1 +1,1 @@
-var mnemonic = "climb prison able idle space copper motor script ridge desk journey floor";
+var mnemonic = "total oxygen option property grant loud material hedgehog bike veteran fluid fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch bring curious zero spell jewel cigar wash main pond strike circle";
+var mnemonic = "country warm pole mass give glue army wait tray ticket phrase nest";

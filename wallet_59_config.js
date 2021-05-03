@@ -1,1 +1,1 @@
-var mnemonic = "orchard gain borrow crumble weekend pride utility soccer deny lawsuit clever turn";
+var mnemonic = "round throw interest resource spin chat couch fruit improve inspire nice panel";

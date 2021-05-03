@@ -1,1 +1,1 @@
-var mnemonic = "theme truly drift ethics milk warfare forest very ball what obtain rocket";
+var mnemonic = "million cancel rent camera priority broom paddle expire travel convince strong expand";

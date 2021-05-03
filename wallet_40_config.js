@@ -1,1 +1,1 @@
-var mnemonic = "proud assist spice pluck lion young domain tent waste agree laundry exclude";
+var mnemonic = "raven govern person oven power impulse pumpkin crush input chalk alarm giraffe";

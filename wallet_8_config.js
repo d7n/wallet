@@ -1,1 +1,1 @@
-var mnemonic = "eye cruise napkin slice talk february old sell nut wife few huge";
+var mnemonic = "maze smoke hazard wine evil eternal purchase apology style this dumb chalk";

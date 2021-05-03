@@ -1,1 +1,1 @@
-var mnemonic = "mobile upgrade arctic elephant miss oil route glance spray team mixed energy";
+var mnemonic = "notable captain talent glad issue minimum animal wheat access leader budget elevator";

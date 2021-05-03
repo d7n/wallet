@@ -1,1 +1,1 @@
-var mnemonic = "earth animal nation swap hamster upon search powder argue roof easy grow";
+var mnemonic = "rubber reward edge wedding assault rebuild fruit hollow input column online point";

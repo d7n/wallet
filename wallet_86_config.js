@@ -1,1 +1,1 @@
-var mnemonic = "lobster switch talent best labor kid erosion sense dust envelope reject law";
+var mnemonic = "flight uncover oil when gym hungry soup kit shell crane jewel accuse";

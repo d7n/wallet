@@ -1,1 +1,1 @@
-var mnemonic = "narrow firm elite lake peace tomorrow walnut anger impact label salad brass";
+var mnemonic = "once address hand night wash census describe noise later ranch cause knock";

@@ -1,1 +1,1 @@
-var mnemonic = "dress pause maid egg civil art stadium top recipe grid dish light";
+var mnemonic = "rail bracket hire attack crew gift vicious point trend zoo divide private";

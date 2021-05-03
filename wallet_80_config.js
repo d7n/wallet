@@ -1,1 +1,1 @@
-var mnemonic = "load donate boil derive language chapter actual harvest hidden safe enough suit";
+var mnemonic = "shoot matrix goat party cook brush assume length leaf jar tomato arrest";

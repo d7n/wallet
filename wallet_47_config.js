@@ -1,1 +1,1 @@
-var mnemonic = "damp glow vendor mom trouble tail mistake awkward sample version flower neglect";
+var mnemonic = "oak cheap all please salute dizzy child renew town card prize few";

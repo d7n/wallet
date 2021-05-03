@@ -1,1 +1,1 @@
-var mnemonic = "regret gauge rail use robust genuine cry luxury silly knee name leopard";
+var mnemonic = "room inspire short bright just life trap tooth bottom utility fold smoke";

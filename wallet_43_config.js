@@ -1,1 +1,1 @@
-var mnemonic = "mind tree minor pen field vibrant metal fork great skate youth path";
+var mnemonic = "prevent wait dress basket acid surface exhibit ill tank unveil cactus short";

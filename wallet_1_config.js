@@ -1,1 +1,1 @@
-var mnemonic = "alley dune diamond purchase rookie viable about rough need crawl robot salmon";
+var mnemonic = "cause odor purity country twenty soon caught notice portion attack shift lawsuit";

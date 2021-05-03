@@ -1,1 +1,1 @@
-var mnemonic = "all brass then fish envelope huge neutral you matter above soldier again";
+var mnemonic = "expand reduce young snap rhythm sail market alarm piece throw swim domain";

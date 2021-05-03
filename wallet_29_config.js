@@ -1,1 +1,1 @@
-var mnemonic = "mom story leisure recycle atom sea napkin hurry leopard wave razor guard";
+var mnemonic = "hero include genuine purity enact sauce can fade sword brave ketchup disagree";

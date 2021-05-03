@@ -1,1 +1,1 @@
-var mnemonic = "left pottery taxi bronze frequent hurt agree slow hand twenty mother gun";
+var mnemonic = "theory lend kick invite basket slide breeze news bitter kit token dragon";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual then cargo raven way where interest warm spoil scare giant lock";
+var mnemonic = "gadget soldier buzz alcohol coil impose shoot retreat advance magic little acquire";

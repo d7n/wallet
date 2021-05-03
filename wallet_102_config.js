@@ -1,1 +1,1 @@
-var mnemonic = "evil staff tenant lemon reunion develop nerve hover worry mimic annual defense";
+var mnemonic = "question young scare puzzle buyer run soft sugar vessel april anxiety novel";

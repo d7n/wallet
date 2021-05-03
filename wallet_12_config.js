@@ -1,1 +1,1 @@
-var mnemonic = "tired faint omit unable early remove vanish rough dolphin arrest tree wealth";
+var mnemonic = "arrest hat cat chat cake modify reopen trap great sad bread estate";

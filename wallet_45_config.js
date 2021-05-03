@@ -1,1 +1,1 @@
-var mnemonic = "master belt nerve shove awkward pioneer profit wrist mimic anger again imitate";
+var mnemonic = "satoshi brother dolphin poverty heavy nuclear local gym term actual brand fade";

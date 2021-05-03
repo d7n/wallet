@@ -1,1 +1,1 @@
-var mnemonic = "bamboo clown radio swarm recall avoid fan else ten code aim shock";
+var mnemonic = "cupboard shadow task breeze pottery pole market smart hip special book prison";

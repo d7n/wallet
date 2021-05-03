@@ -1,1 +1,1 @@
-var mnemonic = "board jazz grass wink script mistake soft awake observe obscure cheap real";
+var mnemonic = "common element cluster canoe fashion talk hamster identify bubble couch legal abuse";

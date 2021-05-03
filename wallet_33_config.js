@@ -1,1 +1,1 @@
-var mnemonic = "truck black bench initial dolphin upon device prevent bench print turkey cube";
+var mnemonic = "path injury survey habit off oven borrow evolve quality siege above dragon";

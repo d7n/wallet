@@ -1,1 +1,1 @@
-var mnemonic = "card gift crunch gorilla sea word inherit orange infant own loop city";
+var mnemonic = "nut pumpkin peace barrel tilt section inflict replace tissue deal concert joy";

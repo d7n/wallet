@@ -1,1 +1,1 @@
-var mnemonic = "awkward audit wolf cross sport hen gym car kick balcony moral ready";
+var mnemonic = "unlock adapt together athlete price believe know notable tragic discover category end";

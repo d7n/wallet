@@ -1,1 +1,1 @@
-var mnemonic = "rather beef year turn tortoise dentist raw suit engage room debris before";
+var mnemonic = "chronic hundred giggle airport top orchard crawl picnic depend north poverty treat";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist space pupil correct noble egg glory suit deposit tennis lunch large";
+var mnemonic = "olympic leopard salmon base result duty inspire stuff disease hammer siege grocery";

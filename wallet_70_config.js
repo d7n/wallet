@@ -1,1 +1,1 @@
-var mnemonic = "gym book reason century hockey double eye gossip clay fix cloud tree";
+var mnemonic = "craft kangaroo kitten vote ethics curve distance caught cotton blanket you check";

@@ -1,1 +1,1 @@
-var mnemonic = "crack fatigue grit eight stumble bicycle curtain rural stem mechanic love provide";
+var mnemonic = "type surface pattern typical kick umbrella gym scissors power scrub cook raven";

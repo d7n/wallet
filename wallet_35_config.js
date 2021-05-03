@@ -1,1 +1,1 @@
-var mnemonic = "kick lake spoil bless bulk black hamster token antique neglect clean enough";
+var mnemonic = "anger boss wrestle torch twice fuel nice spawn monster canoe cargo wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty habit velvet issue change bone where boat home obey shell only";
+var mnemonic = "tree squirrel return tuna patch coral rubber repair ill narrow home ethics";

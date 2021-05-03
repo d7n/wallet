@@ -1,1 +1,1 @@
-var mnemonic = "dose cram bacon bullet dwarf collect cycle bar permit expose nurse cost";
+var mnemonic = "fix hip double trash later knock rural escape just simple royal teach";

@@ -1,1 +1,1 @@
-var mnemonic = "giraffe mercy employ point trash stock capital forest olive blind select dress";
+var mnemonic = "vehicle donor volcano casino aerobic salt gentle quiz butter page ceiling attitude";

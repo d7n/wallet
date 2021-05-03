@@ -1,1 +1,1 @@
-var mnemonic = "purity relax measure view wrestle social exact artwork outside adjust idea ordinary";
+var mnemonic = "gown treat chicken game success announce stadium apple tattoo cigar broccoli famous";

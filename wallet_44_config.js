@@ -1,1 +1,1 @@
-var mnemonic = "ketchup august snap produce inform poverty picnic expand female conduct stairs uncle";
+var mnemonic = "maid dilemma moral pony sport picture pledge trophy polar mammal captain vintage";

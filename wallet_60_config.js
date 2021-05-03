@@ -1,1 +1,1 @@
-var mnemonic = "more mechanic similar fashion real tooth false fetch way glad chalk artefact";
+var mnemonic = "used boost now ski ostrich nerve light settle farm prison beef early";

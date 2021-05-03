@@ -1,1 +1,1 @@
-var mnemonic = "army friend permit sign crisp defense float almost hungry resemble doll pill";
+var mnemonic = "seat afraid enable trigger squeeze pelican satisfy seat jar subject school crack";

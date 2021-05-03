@@ -1,1 +1,1 @@
-var mnemonic = "loud festival oppose rail canvas math dwarf march dinosaur library midnight cricket";
+var mnemonic = "isolate subway phone casino nephew distance shadow pact explain gesture peasant embark";

@@ -1,1 +1,1 @@
-var mnemonic = "deer phone drum time must settle behind brother desert circle piece tiny";
+var mnemonic = "silver assist rebuild glass answer ugly scrub speak thank ecology satoshi uncle";

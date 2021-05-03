@@ -1,1 +1,1 @@
-var mnemonic = "express lock evoke blast young gospel offer reflect swift attitude crowd merry";
+var mnemonic = "rain family rail want federal mask asthma run move observe shaft calm";

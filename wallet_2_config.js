@@ -1,1 +1,1 @@
-var mnemonic = "borrow amazing cabin wealth base assault write inside fortune famous olympic idea";
+var mnemonic = "boat about toast brother depend sun solve genius reject fury royal sign";

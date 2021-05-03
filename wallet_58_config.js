@@ -1,1 +1,1 @@
-var mnemonic = "fade pretty ivory online love dash sunny interest forget announce slam common";
+var mnemonic = "filter steel drift decorate card energy age defy repeat report plunge apology";

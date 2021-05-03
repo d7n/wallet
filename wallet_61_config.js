@@ -1,1 +1,1 @@
-var mnemonic = "dignity bicycle credit security voyage evoke baby unable opinion blind obey knee";
+var mnemonic = "neither title ramp reunion lend brick vicious flee trouble beef umbrella sand";

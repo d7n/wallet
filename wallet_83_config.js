@@ -1,1 +1,1 @@
-var mnemonic = "husband need disease wrong unhappy symptom truck april maple tenant draw sweet";
+var mnemonic = "link puzzle glance bicycle stuff kind miss budget game unknown degree iron";

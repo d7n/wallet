@@ -1,1 +1,1 @@
-var mnemonic = "future garment someone human gospel noise eight senior jump plastic liquid delay";
+var mnemonic = "supreme depart dilemma nose wall inform shallow alley anxiety life mansion today";

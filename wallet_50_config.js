@@ -1,1 +1,1 @@
-var mnemonic = "abstract try observe script void grass renew fury snap joy achieve card";
+var mnemonic = "figure lizard engage harbor unique reduce spice midnight list feed little relax";

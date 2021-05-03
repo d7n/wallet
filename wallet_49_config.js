@@ -1,1 +1,1 @@
-var mnemonic = "rent town draft kingdom need fantasy mutual defy cupboard swallow wall sorry";
+var mnemonic = "wet gauge dream demise what engage swift kingdom father hen prefer purchase";
