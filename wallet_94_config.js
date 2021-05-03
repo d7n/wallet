@@ -1,1 +1,1 @@
-var mnemonic = "fetch soon swim glad quote excite stove arctic swarm series jelly bring";
+var mnemonic = "warrior balcony boss harbor sadness purchase width thunder imitate come scan acid";

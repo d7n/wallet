@@ -1,1 +1,1 @@
-var mnemonic = "asthma cup liquid barrel material detail table coral reason middle life pride";
+var mnemonic = "pretty require pizza refuse farm apart absorb develop step virtual engage rail";

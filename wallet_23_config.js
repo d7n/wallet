@@ -1,1 +1,1 @@
-var mnemonic = "asthma frame tilt net evoke push hover affair shoe leaf planet beach";
+var mnemonic = "squirrel caught note decade stool fetch shrimp sausage program beef mind prosper";

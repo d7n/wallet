@@ -1,1 +1,1 @@
-var mnemonic = "gold write there fetch hurry school fine update mobile title skate catch";
+var mnemonic = "noise trial order smart copper smile require still culture attitude victory display";

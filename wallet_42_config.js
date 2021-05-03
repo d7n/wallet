@@ -1,1 +1,1 @@
-var mnemonic = "mouse ramp tennis color grief shiver donate isolate undo bulb indicate rule";
+var mnemonic = "pulp under picnic dance infant confirm wish caution soldier civil sword thought";

@@ -1,1 +1,1 @@
-var mnemonic = "shop final abstract small betray they slim again chuckle correct distance exist";
+var mnemonic = "comic kiss fortune rain toddler chair diagram cabbage swamp butter festival culture";

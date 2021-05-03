@@ -1,1 +1,1 @@
-var mnemonic = "fence year actor price leg tomato live achieve lecture distance impulse embody";
+var mnemonic = "three industry immense hunt kid interest pioneer ripple clock they degree write";

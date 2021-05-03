@@ -1,1 +1,1 @@
-var mnemonic = "doctor bracket artist fog rookie repeat dumb ecology legend marriage slight record";
+var mnemonic = "seven upset also rhythm pass devote suit ball still virus success build";

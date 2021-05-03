@@ -1,1 +1,1 @@
-var mnemonic = "gadget orange find marriage nose gossip stereo much process call word poem";
+var mnemonic = "erosion hammer pave baby come toilet transfer sketch fatigue round insane solar";

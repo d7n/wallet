@@ -1,1 +1,1 @@
-var mnemonic = "nuclear invite glass magic opinion gauge top enact winner truly warfare snap";
+var mnemonic = "general man wife artefact bleak desert torch amateur sheriff awful rough fancy";

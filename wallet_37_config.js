@@ -1,1 +1,1 @@
-var mnemonic = "pulse then cage soccer vicious jungle already lecture boy spoil globe wool";
+var mnemonic = "position cherry flash rebel clump organ champion govern radar cereal hollow gate";

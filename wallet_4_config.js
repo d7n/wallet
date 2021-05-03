@@ -1,1 +1,1 @@
-var mnemonic = "length december sand demand adult entry rebel dog sunset snow trust trophy";
+var mnemonic = "item knife sick please pig shaft fame surge veteran capital zone ill";

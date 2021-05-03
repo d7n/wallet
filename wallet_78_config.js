@@ -1,1 +1,1 @@
-var mnemonic = "diesel someone pupil summer tired puppy assume fox attitude nurse riot until";
+var mnemonic = "pencil zero labor pyramid skill patient fever north best panic bless improve";

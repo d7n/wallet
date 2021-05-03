@@ -1,1 +1,1 @@
-var mnemonic = "turkey whale render cool market firm pepper lizard sure embody thrive wall";
+var mnemonic = "prosper window tilt mom deal simple addict club fragile venue else draft";

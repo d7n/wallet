@@ -1,1 +1,1 @@
-var mnemonic = "sudden want base army pepper abandon item around enemy snow hip sheriff";
+var mnemonic = "picture online treat dial hamster dilemma bone pave fiber face undo beyond";

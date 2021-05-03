@@ -1,1 +1,1 @@
-var mnemonic = "exhibit miss brown asthma label maple affair floor income visa pattern fuel";
+var mnemonic = "depth humor muscle juice cricket payment point usual tower beef fatigue pepper";

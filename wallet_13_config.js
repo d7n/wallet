@@ -1,1 +1,1 @@
-var mnemonic = "door clock metal engine noise clinic second retreat obscure agree dignity agree";
+var mnemonic = "quarter rich potato pull ocean old seat liquid suffer title penalty material";

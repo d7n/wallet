@@ -1,1 +1,1 @@
-var mnemonic = "search vintage obscure proud stand quick pass absent begin bar source lion";
+var mnemonic = "nature desk hungry love firm citizen exhaust fault price museum tail very";

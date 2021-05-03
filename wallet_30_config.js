@@ -1,1 +1,1 @@
-var mnemonic = "elite monster expand exchange chuckle tackle eyebrow exhibit merge proud ready medal";
+var mnemonic = "lesson dry faculty upon scatter brass half vague scene endless nerve uphold";

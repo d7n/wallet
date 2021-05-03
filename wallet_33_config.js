@@ -1,1 +1,1 @@
-var mnemonic = "argue hair deer equip decorate eight cattle action alone auto load plunge";
+var mnemonic = "segment name buddy young lava hamster interest alcohol acoustic autumn sample speed";

@@ -1,1 +1,1 @@
-var mnemonic = "spike waste brisk shallow eager tunnel rent fortune anxiety alert hero route";
+var mnemonic = "second reduce month vivid miracle episode divorce simple goddess avocado tell sight";

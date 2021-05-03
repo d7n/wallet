@@ -1,1 +1,1 @@
-var mnemonic = "either wolf cherry magic theory hero pen detail business adjust world real";
+var mnemonic = "sign offer bless special toward opinion dignity lazy social marriage inherit confirm";

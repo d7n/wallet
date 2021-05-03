@@ -1,1 +1,1 @@
-var mnemonic = "chimney lamp switch text hair hurdle narrow pattern coach green hawk stomach";
+var mnemonic = "grocery opinion script size box twist pull space employ hazard inform shoulder";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely decade salad program theory daughter matter pumpkin angry worth floor witness";
+var mnemonic = "laptop damage announce found stamp quantum please whip rigid hurt duck else";

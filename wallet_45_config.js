@@ -1,1 +1,1 @@
-var mnemonic = "addict conduct beauty invite occur entire document spatial nominee deputy ivory delay";
+var mnemonic = "fashion enough maple goddess glow bright list fiction lava rate donate virus";

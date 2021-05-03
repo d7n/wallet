@@ -1,1 +1,1 @@
-var mnemonic = "embark breeze decade frown frost sight swallow memory volume wagon crop surround";
+var mnemonic = "avocado someone mix robust west slight away garden page purity danger board";

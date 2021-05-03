@@ -1,1 +1,1 @@
-var mnemonic = "climb shop element pistol gather stuff conduct poverty deputy bachelor chat mean";
+var mnemonic = "gravity banana gorilla maze blur goddess yard finger noise armor liquid expect";

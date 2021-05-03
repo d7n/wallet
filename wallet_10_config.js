@@ -1,1 +1,1 @@
-var mnemonic = "diagram fortune fever welcome path pony nerve picture apple copper lake day";
+var mnemonic = "just burden kitten tattoo kitchen abuse nurse tide ugly giggle measure prison";

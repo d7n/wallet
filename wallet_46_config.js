@@ -1,1 +1,1 @@
-var mnemonic = "race jazz portion police oven useful hockey nerve hold slogan couch nephew";
+var mnemonic = "split dry female bag cream unknown beach pyramid toss merge submit force";

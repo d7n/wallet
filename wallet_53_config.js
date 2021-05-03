@@ -1,1 +1,1 @@
-var mnemonic = "check clog expire actress fashion advice dynamic offer logic normal pig brand";
+var mnemonic = "orange then season want corn sport retreat capital cricket mail extra soap";

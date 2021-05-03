@@ -1,1 +1,1 @@
-var mnemonic = "fetch nuclear reason donate minute motion vapor rough loop west glue artist";
+var mnemonic = "such mansion truth unaware basket goat present curious brain arrange burst foil";

@@ -1,1 +1,1 @@
-var mnemonic = "essence monitor curious trouble nurse guilt polar viable lunar pride stomach perfect";
+var mnemonic = "tower anger empty output matrix easily daughter fall sock spice open horror";

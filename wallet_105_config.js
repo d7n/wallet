@@ -1,1 +1,1 @@
-var mnemonic = "sketch wish ocean only forum pear afford scrap rebel flag saddle cream";
+var mnemonic = "december finish ranch slush primary dentist raven broken hurt fiber brass guide";

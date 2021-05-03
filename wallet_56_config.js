@@ -1,1 +1,1 @@
-var mnemonic = "broccoli crew lend body result vault volcano trend web will dove cake";
+var mnemonic = "hawk rely memory sentence purse layer feed daring olive hazard happy poet";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar mutual remain clock wall pitch toy couple mom copper divert coffee";
+var mnemonic = "climb fuel endless horror ribbon drum remind tattoo reject spatial dose cool";

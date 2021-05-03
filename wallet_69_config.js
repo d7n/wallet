@@ -1,1 +1,1 @@
-var mnemonic = "swift name plug situate chef upgrade inside shell round earth illegal silk";
+var mnemonic = "helmet affair rough sport sort oak vast mountain stove web follow leave";

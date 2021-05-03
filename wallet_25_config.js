@@ -1,1 +1,1 @@
-var mnemonic = "banner end beef happy dish chimney absent embody year shaft sorry silly";
+var mnemonic = "bring egg pupil defense amused enough agree solar shrimp century demise kind";

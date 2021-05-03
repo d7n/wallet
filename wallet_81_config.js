@@ -1,1 +1,1 @@
-var mnemonic = "raccoon install ring trim over yard civil mystery rescue crack dish spend";
+var mnemonic = "gasp lecture bleak focus attend sick liar drip accident happy van coyote";

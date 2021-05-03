@@ -1,1 +1,1 @@
-var mnemonic = "wait sail harvest quit spice cute already wheel mountain allow dawn snack";
+var mnemonic = "like coast garment myth pumpkin gain load nurse coral clean great script";

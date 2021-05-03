@@ -1,1 +1,1 @@
-var mnemonic = "wisdom rare jelly phone miss enforce worry submit fox carbon sibling typical";
+var mnemonic = "robust light deal oblige throw success bacon hockey state excite immune science";

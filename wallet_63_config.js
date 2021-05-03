@@ -1,1 +1,1 @@
-var mnemonic = "mad frown that rice away salt clip monkey stairs grief car rice";
+var mnemonic = "alley fine twenty birth wave planet bike butter save raw moment balance";

@@ -1,1 +1,1 @@
-var mnemonic = "siren pole theory apart mad charge garment pizza develop twice warfare dish";
+var mnemonic = "vicious hurt any pulse wild body kid always gentle burger boat twin";

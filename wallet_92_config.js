@@ -1,1 +1,1 @@
-var mnemonic = "vast pet crew govern digital visa time purchase alone fluid code iron";
+var mnemonic = "horse barrel road smile unfair donkey pepper ride mesh critic original comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "adult unlock elegant improve photo pool crumble other sick donor acquire supreme";
+var mnemonic = "hard cancel famous nut town hello clog entry welcome can swamp course";

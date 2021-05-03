@@ -1,1 +1,1 @@
-var mnemonic = "wire silly leopard artefact toast firm arrive table charge table interest brave";
+var mnemonic = "solid breeze breeze trial manual valve police voice brass morning avocado huge";

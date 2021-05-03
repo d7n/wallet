@@ -1,1 +1,1 @@
-var mnemonic = "buyer ecology mimic surge fashion capable level weapon pride excuse exist win";
+var mnemonic = "duty gorilla nurse all quiz calm error absurd knife planet program run";

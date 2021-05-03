@@ -1,1 +1,1 @@
-var mnemonic = "auto spot scheme tip blossom great desert guilt tube bounce wire mosquito";
+var mnemonic = "tongue main gold faint member drip injury improve recipe woman lock duty";

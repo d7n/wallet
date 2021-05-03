@@ -1,1 +1,1 @@
-var mnemonic = "voyage side modify lemon fish conduct across reason midnight bring cheap win";
+var mnemonic = "enrich minor dynamic story nice forum gospel follow choose dust orient patient";

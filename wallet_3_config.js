@@ -1,1 +1,1 @@
-var mnemonic = "repeat sudden mule crater baby apology side acquire harvest decade stumble hungry";
+var mnemonic = "reveal crush crisp never protect upper clutch enable cry monster only jaguar";

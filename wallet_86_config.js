@@ -1,1 +1,1 @@
-var mnemonic = "arm blur rate fatigue winter fox worth motor foam enemy detail inch";
+var mnemonic = "spring isolate holiday wrist warrior spoil cotton swap december join source between";

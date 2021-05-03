@@ -1,1 +1,1 @@
-var mnemonic = "giggle donkey army inherit home spy tragic half harsh mixed bargain prison";
+var mnemonic = "awkward panda reflect hero evidence choose skate floor like damage position spatial";

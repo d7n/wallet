@@ -1,1 +1,1 @@
-var mnemonic = "name tiger face link attract segment stone snap genuine nation intact select";
+var mnemonic = "timber dune spring sunny already jazz chest vacuum casual water genre gather";

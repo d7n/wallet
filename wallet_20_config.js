@@ -1,1 +1,1 @@
-var mnemonic = "farm leave capable erode staff angry repair web pioneer neither prefer wine";
+var mnemonic = "assault forum betray either soul keen globe giraffe gospel fiber evoke dinosaur";

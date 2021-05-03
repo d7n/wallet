@@ -1,1 +1,1 @@
-var mnemonic = "chase soap cloud table motion tongue door figure wasp video crucial answer";
+var mnemonic = "reunion limb price post suffer room song walnut slight border ordinary reflect";

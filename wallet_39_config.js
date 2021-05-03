@@ -1,1 +1,1 @@
-var mnemonic = "length seminar sniff about purse scorpion front front weird fire army inner";
+var mnemonic = "require medal tail myth minimum deputy razor valley excess unique effort gown";

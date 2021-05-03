@@ -1,1 +1,1 @@
-var mnemonic = "sad resemble elite either object lady present master hole lucky shell satisfy";
+var mnemonic = "month velvet during solar calm crime ecology afraid broom clarify rough uniform";

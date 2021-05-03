@@ -1,1 +1,1 @@
-var mnemonic = "page urge sad manage cart agent visit side fashion mass guide fly";
+var mnemonic = "sun canoe kit punch rough walnut head surprise deputy album heart lazy";

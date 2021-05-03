@@ -1,1 +1,1 @@
-var mnemonic = "general used salon joke ignore canvas wheel army crush solve coin panel";
+var mnemonic = "menu liar thunder bargain title bonus gadget split bird nature lamp fun";

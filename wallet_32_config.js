@@ -1,1 +1,1 @@
-var mnemonic = "baby cigar bubble sample time pride pair mixture sort ride goddess spy";
+var mnemonic = "slice tomorrow pyramid volume cinnamon toilet chef burger salt follow write castle";

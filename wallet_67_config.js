@@ -1,1 +1,1 @@
-var mnemonic = "tunnel decade say opera spin erase fancy sort laugh diesel decide fluid";
+var mnemonic = "outer barrel minimum help size proud hard drop word win endorse find";

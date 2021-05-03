@@ -1,1 +1,1 @@
-var mnemonic = "knock bullet series earth sport step kitten smart town mom song runway";
+var mnemonic = "evidence radar work bless exact skill lumber sunny movie maximum unfold target";

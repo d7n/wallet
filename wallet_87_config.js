@@ -1,1 +1,1 @@
-var mnemonic = "mechanic smooth slender cable pepper forward jar update recipe student steel skirt";
+var mnemonic = "oppose dry oyster next mule manage shaft sad excess leaf dove purchase";

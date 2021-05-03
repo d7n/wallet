@@ -1,1 +1,1 @@
-var mnemonic = "brick tomato remind series gate similar turn cloth special require calm athlete";
+var mnemonic = "scare attitude series system chaos engine vote prison wasp chief sport harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "worth hedgehog destroy fiction tuition open blush pudding shed monitor release tomorrow";
+var mnemonic = "royal leave diary obvious step bright vault distance whale lesson aisle purpose";

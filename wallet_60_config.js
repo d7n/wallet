@@ -1,1 +1,1 @@
-var mnemonic = "globe what crumble fork normal oxygen hockey high rate trick leaf doctor";
+var mnemonic = "mad solid fiction normal rotate chronic pulse sign anxiety obvious gospel fit";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol guide grain idea festival shine flee other insect hint stool slim";
+var mnemonic = "flame this obvious never quarter barely lemon replace hour aim element impose";

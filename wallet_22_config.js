@@ -1,1 +1,1 @@
-var mnemonic = "minute robust drive middle scorpion gasp clog develop unknown coral couch estate";
+var mnemonic = "sunset exotic until nerve donate glass mountain good truck nerve lamp frozen";

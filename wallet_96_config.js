@@ -1,1 +1,1 @@
-var mnemonic = "hundred gain tell auto reflect vapor boy baby lunch stable skill left";
+var mnemonic = "adjust morning guilt diet memory easy master burger angry miss ghost sick";

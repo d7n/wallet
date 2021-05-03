@@ -1,1 +1,1 @@
-var mnemonic = "decade monster fade force invite empower fire empower mountain network hawk protect";
+var mnemonic = "large rare chicken aspect between act cousin cousin quiz adapt divorce title";

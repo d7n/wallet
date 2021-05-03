@@ -1,1 +1,1 @@
-var mnemonic = "juice engine top run spider solution romance paper attend unaware culture update";
+var mnemonic = "finger scheme want vapor hope observe chicken desk become perfect pave supreme";

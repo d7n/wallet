@@ -1,1 +1,1 @@
-var mnemonic = "dove among sting immune fashion segment force dish recycle quick inflict income";
+var mnemonic = "melt trumpet vocal verify flower bleak peanut race bleak renew stove adult";

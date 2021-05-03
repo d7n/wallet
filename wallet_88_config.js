@@ -1,1 +1,1 @@
-var mnemonic = "hurry void asset endorse donate detail rain version ranch faith cycle upper";
+var mnemonic = "medal will office boss tube across merry elbow pilot tribe speak test";

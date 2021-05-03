@@ -1,1 +1,1 @@
-var mnemonic = "captain spawn about spider detect swim decorate over siege lyrics dragon disorder";
+var mnemonic = "mind swing juice first rice satisfy orange major net grass topic verb";

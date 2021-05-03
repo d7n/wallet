@@ -1,1 +1,1 @@
-var mnemonic = "into trend street cousin unlock knock breeze quantum book group frequent possible";
+var mnemonic = "charge risk motion confirm private behave negative lion later index physical bone";

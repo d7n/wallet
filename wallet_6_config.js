@@ -1,1 +1,1 @@
-var mnemonic = "cry property provide farm fever sort crisp salmon lucky sport net analyst";
+var mnemonic = "green ten tower prize seek rely turkey drip pool gas rice extra";

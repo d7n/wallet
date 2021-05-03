@@ -1,1 +1,1 @@
-var mnemonic = "wife novel shine erosion afford salt blouse bag pattern blossom tomato silk";
+var mnemonic = "expand hand oval pave car fuel believe shoot thumb runway comfort spot";

@@ -1,1 +1,1 @@
-var mnemonic = "love finish cry dune welcome vanish come general panel minor amazing coconut";
+var mnemonic = "middle concert neither rice access hotel exchange better syrup tongue novel thought";

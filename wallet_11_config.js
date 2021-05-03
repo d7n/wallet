@@ -1,1 +1,1 @@
-var mnemonic = "brass space correct clip pulp present soul opera student jazz humor cheap";
+var mnemonic = "flavor seven town ghost advance quality special satoshi sport poverty coffee giraffe";

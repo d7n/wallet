@@ -1,1 +1,1 @@
-var mnemonic = "wear mushroom asset slice crime decade random oppose cup valve improve left";
+var mnemonic = "fuel cabbage sauce people group wise slight end cave salute obtain east";

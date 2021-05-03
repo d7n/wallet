@@ -1,1 +1,1 @@
-var mnemonic = "dry taste much employ state auto plate race royal polar ticket load";
+var mnemonic = "patient diesel venture gold arrive sentence foil mystery curtain bubble size ticket";

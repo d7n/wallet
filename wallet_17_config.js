@@ -1,1 +1,1 @@
-var mnemonic = "chronic purity case venue unable humor dutch control truck sock neglect sister";
+var mnemonic = "ignore join balcony wave energy learn barrel diet uniform nation model force";

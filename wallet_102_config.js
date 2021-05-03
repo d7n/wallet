@@ -1,1 +1,1 @@
-var mnemonic = "modify oxygen market call hover ship infant common pluck frequent walnut gallery";
+var mnemonic = "nothing oven century torch conduct cloth firm ribbon aim orbit rich glance";

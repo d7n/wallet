@@ -1,1 +1,1 @@
-var mnemonic = "duty critic mountain glide mechanic chuckle since carpet belt soldier pass wrestle";
+var mnemonic = "reason trouble awake taste soap make stock lawsuit issue cliff photo public";
