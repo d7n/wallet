@@ -1,1 +1,1 @@
-var mnemonic = "winter planet follow add major price rhythm absent recall chunk cactus flight";
+var mnemonic = "home ski assault find first spoon winner rival upon capable error smile";

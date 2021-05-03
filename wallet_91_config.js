@@ -1,1 +1,1 @@
-var mnemonic = "leaf pool obscure size work enhance session alien angry depart lens extend";
+var mnemonic = "mad rebuild bamboo cushion electric pear pencil drum chicken pair coast regret";

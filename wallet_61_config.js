@@ -1,1 +1,1 @@
-var mnemonic = "frog private bar glimpse boy quantum salon theory grief almost stem soon";
+var mnemonic = "work sister agent deposit grid long nasty give repeat dragon gather identify";

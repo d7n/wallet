@@ -1,1 +1,1 @@
-var mnemonic = "mouse tomorrow hollow drum rather kit wish elite cliff flash spend blossom";
+var mnemonic = "execute wheel plug struggle onion above tissue melt hat horror honey soda";

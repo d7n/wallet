@@ -1,1 +1,1 @@
-var mnemonic = "fire fun height april kind save early letter merge sand daughter limit";
+var mnemonic = "tube family wrist assault ecology taxi resist trigger nation fat organ cave";

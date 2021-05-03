@@ -1,1 +1,1 @@
-var mnemonic = "brisk outdoor flower fit vapor flush trophy minute genius dinosaur area allow";
+var mnemonic = "coin wrist lecture remain social water remain print model rubber carbon doll";

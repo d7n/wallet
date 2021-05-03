@@ -1,1 +1,1 @@
-var mnemonic = "blood response tooth visual edge call sorry exile symbol arrow work exact";
+var mnemonic = "tail danger decorate lava slender craft race piece report flight tennis supreme";

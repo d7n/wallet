@@ -1,1 +1,1 @@
-var mnemonic = "object ready kit accident state sunny simple must gun index lab alley";
+var mnemonic = "neck tired initial coach diary soup tourist party exotic steak nose tissue";

@@ -1,1 +1,1 @@
-var mnemonic = "wink warrior tourist boring wolf extra festival coyote stadium hero quarter proof";
+var mnemonic = "over cinnamon still proof kiwi march license damp able divert patient adapt";

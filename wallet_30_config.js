@@ -1,1 +1,1 @@
-var mnemonic = "raw giraffe balance glass stove push inspire erupt elephant boat sample chief";
+var mnemonic = "horn object segment skill measure old awful size mistake dragon argue mosquito";

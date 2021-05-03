@@ -1,1 +1,1 @@
-var mnemonic = "later subject eager glimpse circle prosper giggle mixture orphan slab exercise clock";
+var mnemonic = "faculty rule chronic twin absorb insane gallery game chapter hub require vehicle";

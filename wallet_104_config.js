@@ -1,1 +1,1 @@
-var mnemonic = "side medal clutch where bacon faint harvest invest humble slice real cattle";
+var mnemonic = "nice frame empty empty give lyrics country because settle spoil child panther";

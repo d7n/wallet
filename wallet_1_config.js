@@ -1,1 +1,1 @@
-var mnemonic = "awake ski crew humor success betray violin sadness usual guard tobacco soldier";
+var mnemonic = "boost next attend liquid meadow control mass immune chase link ramp jealous";

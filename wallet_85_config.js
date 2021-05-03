@@ -1,1 +1,1 @@
-var mnemonic = "thing cruise modify pave pulp genius route pattern record harvest cattle sample";
+var mnemonic = "soft daring buffalo rescue certain size crouch blue fan another total subway";

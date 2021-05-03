@@ -1,1 +1,1 @@
-var mnemonic = "fatigue blind orphan put pepper flee age blanket clean arrow swim gap";
+var mnemonic = "page number forum slide search weapon wall install eternal prevent occur negative";

@@ -1,1 +1,1 @@
-var mnemonic = "boat rigid flight number candy wise airport digital cross estate grunt fabric";
+var mnemonic = "clog there claw blade slogan parrot unfold weekend luggage control drink seven";

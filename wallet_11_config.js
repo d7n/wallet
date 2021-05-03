@@ -1,1 +1,1 @@
-var mnemonic = "section valid defense coin phrase age lemon brand gift confirm era travel";
+var mnemonic = "hover express trap picture famous seat spirit anchor normal tank business duty";

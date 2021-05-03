@@ -1,1 +1,1 @@
-var mnemonic = "matrix gather park act pond super theme aware type upper cross visual";
+var mnemonic = "come man machine build quit agree pistol door course mystery broccoli merit";

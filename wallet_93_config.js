@@ -1,1 +1,1 @@
-var mnemonic = "steel whisper earn win early peasant outdoor erupt true copper main country";
+var mnemonic = "cancel cash manage ivory mango choose camera patrol fly distance knee cannon";

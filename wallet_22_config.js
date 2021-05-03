@@ -1,1 +1,1 @@
-var mnemonic = "melody vintage rent bring pill attract vintage empower asset car dirt unhappy";
+var mnemonic = "dove radio main silver humble song media able spell muscle casual prison";

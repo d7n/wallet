@@ -1,1 +1,1 @@
-var mnemonic = "riot rhythm disagree unit uphold aim follow someone boy disorder advance inject";
+var mnemonic = "security napkin catalog salt predict retreat car question world dragon wrestle polar";

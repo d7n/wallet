@@ -1,1 +1,1 @@
-var mnemonic = "output school tail length emotion board beef canvas lawn can twin border";
+var mnemonic = "pact swing chalk later sibling hope unhappy manual violin during cup daring";

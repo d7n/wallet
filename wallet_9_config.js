@@ -1,1 +1,1 @@
-var mnemonic = "blur canyon abandon enable dragon patient click drastic elbow aunt entire seven";
+var mnemonic = "glimpse cloud must opera toy music enroll potato bus castle gorilla oil";

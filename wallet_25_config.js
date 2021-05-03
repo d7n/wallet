@@ -1,1 +1,1 @@
-var mnemonic = "grunt boat fever fringe calm stumble govern engine laundry winner usage bag";
+var mnemonic = "hold theme claw ketchup ramp car build snap someone alley security pill";

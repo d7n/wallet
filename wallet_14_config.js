@@ -1,1 +1,1 @@
-var mnemonic = "squirrel moral claw stereo frozen limit size dose beef elegant essence float";
+var mnemonic = "tell narrow evoke notice tomato machine dizzy order luxury income assault steak";

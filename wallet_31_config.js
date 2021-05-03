@@ -1,1 +1,1 @@
-var mnemonic = "bundle vacant apart course shield tenant sock chimney siren assume chalk despair";
+var mnemonic = "defense guilt today input focus night habit venue air core flush measure";

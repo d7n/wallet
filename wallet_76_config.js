@@ -1,1 +1,1 @@
-var mnemonic = "guard fiction pledge enforce coast jealous ticket you inch cliff humble feature";
+var mnemonic = "field advance consider into elder motor use valley oak trip picnic burden";

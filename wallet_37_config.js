@@ -1,1 +1,1 @@
-var mnemonic = "cake manual fruit various monitor explain super top harsh layer drift excess";
+var mnemonic = "fan wonder fortune brave inherit response pear segment churn save member trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "faith polar same tenant tired slot put tissue beef surge almost wood";
+var mnemonic = "special journey cool december tourist dentist nuclear blanket exist bean detail noise";

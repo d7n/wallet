@@ -1,1 +1,1 @@
-var mnemonic = "afraid rule human exhibit easy confirm feature agree illegal improve argue slogan";
+var mnemonic = "slide gloom glare goose return gun riot sunny inside public mind wide";

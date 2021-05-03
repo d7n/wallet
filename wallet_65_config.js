@@ -1,1 +1,1 @@
-var mnemonic = "over cash year hybrid bulb argue town weapon crazy provide urge edge";
+var mnemonic = "image whip meat traffic ridge twice split summer inhale dynamic pumpkin history";

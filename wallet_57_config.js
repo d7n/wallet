@@ -1,1 +1,1 @@
-var mnemonic = "alien way pipe inspire abuse decline hurdle oval tail opera nose sweet";
+var mnemonic = "young drift battle rebuild divide spray dizzy enable love museum odor habit";

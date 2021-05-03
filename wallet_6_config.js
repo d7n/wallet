@@ -1,1 +1,1 @@
-var mnemonic = "garage illness science price current top future where ticket shy rice derive";
+var mnemonic = "stool fiscal artwork space know teach mechanic merit lumber rigid across ticket";

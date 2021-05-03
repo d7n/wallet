@@ -1,1 +1,1 @@
-var mnemonic = "juice use distance leopard soul keep planet blood sight combine hood option";
+var mnemonic = "unique green lemon impose legend armed patrol calm uphold boat shop spell";

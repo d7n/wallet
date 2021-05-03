@@ -1,1 +1,1 @@
-var mnemonic = "iron like key scout evidence float siren chapter gather blast chapter mercy";
+var mnemonic = "volcano worth vocal curious bachelor wrong increase jacket dad miracle fatigue ceiling";

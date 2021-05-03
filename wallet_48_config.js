@@ -1,1 +1,1 @@
-var mnemonic = "arena profit rebuild park soap fiber cook crash pair snake language shadow";
+var mnemonic = "smart disagree insect absorb daring orange remember run sauce coil impulse venture";

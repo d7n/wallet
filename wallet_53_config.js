@@ -1,1 +1,1 @@
-var mnemonic = "cat average bonus join draw pizza mystery suit snap report piece share";
+var mnemonic = "level later slice gold scout mutual liberty crane tool yard love license";

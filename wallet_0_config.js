@@ -1,1 +1,1 @@
-var mnemonic = "ecology clever cable mosquito flock nasty forest quiz extra gold veteran also";
+var mnemonic = "mechanic sentence guide extra offer dad where gate horror ice arctic drastic";

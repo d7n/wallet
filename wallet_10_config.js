@@ -1,1 +1,1 @@
-var mnemonic = "sorry rice pledge right gossip ignore pet oppose young trick style wrist";
+var mnemonic = "genuine chase result merry reduce century omit spirit captain duty weekend picnic";

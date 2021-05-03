@@ -1,1 +1,1 @@
-var mnemonic = "reflect punch index estate electric curious easily dish whale list sting erase";
+var mnemonic = "flush mirror bunker grocery describe rural either motion blade above orient range";

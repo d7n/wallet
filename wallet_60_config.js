@@ -1,1 +1,1 @@
-var mnemonic = "swift job flame talk among lonely donkey action bottom scare decorate buyer";
+var mnemonic = "hole muffin hold worth what myself mean satisfy curtain chase cabin visual";

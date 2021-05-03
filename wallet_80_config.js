@@ -1,1 +1,1 @@
-var mnemonic = "crash wild clutch plastic produce vast lunar report health destroy aisle engine";
+var mnemonic = "shrug runway else arm aisle lesson tennis valve feel bounce tuition symbol";

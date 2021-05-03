@@ -1,1 +1,1 @@
-var mnemonic = "riot prison boss motor height chronic awful umbrella search rain bus post";
+var mnemonic = "cruel scrub act index open strategy gift sight suspect dumb daring garment";

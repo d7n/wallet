@@ -1,1 +1,1 @@
-var mnemonic = "fringe design wall medal ivory plate decrease shoulder vapor charge inspire master";
+var mnemonic = "critic shock head relief example hip flag ensure affair tenant cause notice";

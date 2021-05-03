@@ -1,1 +1,1 @@
-var mnemonic = "inform refuse reward able deny disagree before stuff shield smoke embark globe";
+var mnemonic = "release advance just ready rich jaguar tribe divert secret sand extend sausage";

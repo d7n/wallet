@@ -1,1 +1,1 @@
-var mnemonic = "manage knife impulse raven move hidden cup fiction play pair fun cup";
+var mnemonic = "still loud ski soda thrive digital bachelor knock this section conduct height";

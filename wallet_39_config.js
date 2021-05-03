@@ -1,1 +1,1 @@
-var mnemonic = "thank extra taste one ankle link vapor film barely dawn globe awful";
+var mnemonic = "split airport ensure focus cinnamon balcony joke poem reason floor car mesh";

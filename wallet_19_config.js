@@ -1,1 +1,1 @@
-var mnemonic = "output garlic mutual fatigue father rose visa shed decrease cliff empty budget";
+var mnemonic = "scare letter detail riot pause spawn genius pipe daughter define average agent";

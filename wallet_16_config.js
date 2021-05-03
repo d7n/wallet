@@ -1,1 +1,1 @@
-var mnemonic = "stomach forest into parent already dog blanket pond damage science lemon author";
+var mnemonic = "beyond rate code identify recall start forest uncover reunion kingdom case black";

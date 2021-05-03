@@ -1,1 +1,1 @@
-var mnemonic = "grace sample primary census universe because main idea genius decide time ostrich";
+var mnemonic = "belt delay upon render sponsor know meadow fossil kitten ripple will thunder";

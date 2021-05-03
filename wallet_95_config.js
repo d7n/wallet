@@ -1,1 +1,1 @@
-var mnemonic = "meat leg buddy cloud false proof chalk rule match february brisk still";
+var mnemonic = "rigid repair rug quantum notable lumber fluid exact coral upgrade when lunch";

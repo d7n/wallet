@@ -1,1 +1,1 @@
-var mnemonic = "repair north casino relief angle surface elder craft once flat vehicle gun";
+var mnemonic = "siren innocent skin fox salute since cash penalty sword half weekend hope";

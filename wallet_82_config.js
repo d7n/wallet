@@ -1,1 +1,1 @@
-var mnemonic = "normal follow kidney abandon pink firm vintage estate hover ritual blush wrist";
+var mnemonic = "history sphere deny prefer similar pet blouse front clog peanut reunion robust";

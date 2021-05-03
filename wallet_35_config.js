@@ -1,1 +1,1 @@
-var mnemonic = "piece tool plastic latin balcony volume soda blame sheriff hire chimney museum";
+var mnemonic = "attend private market title settle coach science matter pair dad journey leg";

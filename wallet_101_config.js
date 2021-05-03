@@ -1,1 +1,1 @@
-var mnemonic = "success ignore slice early reason wide rhythm slam over permit zoo crawl";
+var mnemonic = "welcome oven nothing shrimp radio comic silly antique club school spawn twin";

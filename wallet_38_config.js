@@ -1,1 +1,1 @@
-var mnemonic = "lucky immune panel earth crisp device tent snake defense remove chase tip";
+var mnemonic = "child seven clog they ability toast brisk lunar forward voice tuition kiss";

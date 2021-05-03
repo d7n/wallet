@@ -1,1 +1,1 @@
-var mnemonic = "caught evoke cause south era marriage sister case magnet minute innocent salmon";
+var mnemonic = "deny hamster one absurd glow comic alley camp anchor virus wink sing";

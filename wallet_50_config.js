@@ -1,1 +1,1 @@
-var mnemonic = "crowd assume wrestle fade situate build tag enter danger frown assault drastic";
+var mnemonic = "dwarf ginger silk birth belt lesson spoil bunker spring extend ripple fox";

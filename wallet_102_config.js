@@ -1,1 +1,1 @@
-var mnemonic = "belt mystery magnet lawn beef situate tourist round collect profit patch current";
+var mnemonic = "skull wedding piano timber enjoy parade endless crouch merry sound robot upgrade";

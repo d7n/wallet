@@ -1,1 +1,1 @@
-var mnemonic = "champion problem address material exercise audit inform mutual bus person kite kidney";
+var mnemonic = "sheriff trade laptop draft border exist grab ignore nerve prevent tiny favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "soap prize job produce evidence deliver monster screen holiday strategy ankle response";
+var mnemonic = "return soda raise genre same tribe mouse crawl monitor banner good chair";

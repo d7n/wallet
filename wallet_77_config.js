@@ -1,1 +1,1 @@
-var mnemonic = "turkey girl retreat piano canal flat coyote purity frog someone ready blossom";
+var mnemonic = "piece census woman asthma cushion use laptop evolve duty scene ribbon candy";

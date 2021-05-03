@@ -1,1 +1,1 @@
-var mnemonic = "gate harsh captain any offer notable monster gift news stable volume skull";
+var mnemonic = "bullet repair crater dust cheap yard recall picture screen devote ecology visa";

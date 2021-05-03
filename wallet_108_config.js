@@ -1,1 +1,1 @@
-var mnemonic = "taxi absorb clutch asthma bronze magic milk climb heavy bind gesture illegal";
+var mnemonic = "broom young wine farm virtual dice vacuum vast nurse balcony stone arena";

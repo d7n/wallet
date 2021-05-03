@@ -1,1 +1,1 @@
-var mnemonic = "unique awkward decorate derive improve ankle bright cruise live update grit sugar";
+var mnemonic = "talk divert team silent camera air review adapt wet window rocket way";

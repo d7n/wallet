@@ -1,1 +1,1 @@
-var mnemonic = "caution normal more you spin check anger mercy impose box fashion color";
+var mnemonic = "sorry stadium zebra flavor oppose giggle option when pipe behave media whale";

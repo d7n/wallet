@@ -1,1 +1,1 @@
-var mnemonic = "kitchen pyramid fine blur trust find nice emerge zone raccoon parent weasel";
+var mnemonic = "donate shell sound hair matrix lonely joy swamp gossip service quiz artwork";

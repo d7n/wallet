@@ -1,1 +1,1 @@
-var mnemonic = "office amateur violin rookie wire thought rebel orient calm fury remember piece";
+var mnemonic = "chase bottom cotton slide inflict august liar lift solve amateur style perfect";

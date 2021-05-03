@@ -1,1 +1,1 @@
-var mnemonic = "mechanic tape advice color knife cruel another profit shy crack attract grief";
+var mnemonic = "endorse common need trap artist quote enter uncle door ozone hat comic";

@@ -1,1 +1,1 @@
-var mnemonic = "dry initial sample mixture universe claw kick quit solution clap spin dad";
+var mnemonic = "emerge salmon nuclear similar enforce craft layer slide unhappy one hidden mammal";

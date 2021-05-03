@@ -1,1 +1,1 @@
-var mnemonic = "average brother health day half high gesture wait clean horror glare jump";
+var mnemonic = "pear drive torch solid vault able supreme left deer defense brisk scorpion";

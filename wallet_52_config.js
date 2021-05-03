@@ -1,1 +1,1 @@
-var mnemonic = "tape exhibit easy maximum harsh domain employ episode expand test float grief";
+var mnemonic = "roof space front goddess goat better fog dad credit cycle coin strike";

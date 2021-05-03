@@ -1,1 +1,1 @@
-var mnemonic = "recipe vintage reunion deliver wet reflect panel glance equal tell nephew liquid";
+var mnemonic = "sense dwarf hair special casino hire split sheriff plunge flush shallow title";

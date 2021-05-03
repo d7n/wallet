@@ -1,1 +1,1 @@
-var mnemonic = "topple erupt world snap fabric crouch venture fish evidence essay fly similar";
+var mnemonic = "gym actual awesome orphan purchase alone clog romance kiss hazard measure what";

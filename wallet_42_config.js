@@ -1,1 +1,1 @@
-var mnemonic = "tissue gaze bind uphold deny razor eight pitch jungle essence sport evoke";
+var mnemonic = "protect ancient net follow dentist shop include oil muffin friend text improve";

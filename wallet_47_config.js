@@ -1,1 +1,1 @@
-var mnemonic = "tuition jungle wage delay crop clump tell scout amount width view true";
+var mnemonic = "all rude cost seminar shock tribe protect suit amused spider salute swing";

@@ -1,1 +1,1 @@
-var mnemonic = "edit place oyster sudden panther blame desert dentist hole undo degree maple";
+var mnemonic = "corn differ multiply clean will orphan focus detail mixture exclude brave perfect";

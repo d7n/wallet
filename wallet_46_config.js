@@ -1,1 +1,1 @@
-var mnemonic = "glue mechanic lyrics infant talk weekend combine sting cannon resist pudding obey";
+var mnemonic = "human mushroom husband fossil rent bind horror glare kidney giggle original opera";

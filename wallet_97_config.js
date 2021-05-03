@@ -1,1 +1,1 @@
-var mnemonic = "park ridge grid naive rare metal element timber rebuild renew vanish family";
+var mnemonic = "slice hat wedding vehicle service helmet ripple reduce diary pull arena much";

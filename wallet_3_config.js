@@ -1,1 +1,1 @@
-var mnemonic = "wage glory swallow february benefit obey truck seat become hip program diesel";
+var mnemonic = "spell glow legal tone give reunion result cliff own bounce walnut bullet";

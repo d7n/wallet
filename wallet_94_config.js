@@ -1,1 +1,1 @@
-var mnemonic = "mansion start vault famous west scissors bubble stone verb waste found agent";
+var mnemonic = "ten knee blouse knife mansion blood rifle wild soap cage save wheat";

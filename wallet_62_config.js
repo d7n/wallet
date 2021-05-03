@@ -1,1 +1,1 @@
-var mnemonic = "moral post bracket into fold exit common infant sketch delay burst design";
+var mnemonic = "talent pig release unfair nose february muffin february add upper blanket three";

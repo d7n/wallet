@@ -1,1 +1,1 @@
-var mnemonic = "fall equal believe net early father primary trouble twelve main critic inspire";
+var mnemonic = "waste issue marine brain front pact fresh blame spice cross pattern dumb";

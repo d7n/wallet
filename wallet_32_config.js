@@ -1,1 +1,1 @@
-var mnemonic = "obey rapid early rather kind letter mushroom pride cook close turn wrap";
+var mnemonic = "absurd snake later wet thank kind broccoli offer vicious sand fault lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward mean scorpion can van divide boring coin violin ten hope best";
+var mnemonic = "worry way boring seed slice practice fluid winner about you upset brisk";

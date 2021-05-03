@@ -1,1 +1,1 @@
-var mnemonic = "coil vessel skin left isolate still false heavy clinic between since mother";
+var mnemonic = "embrace gain audit antenna correct lonely cause dynamic hurry slogan believe rookie";
