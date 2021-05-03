@@ -1,1 +1,1 @@
-var mnemonic = "only border ring emotion depend hen toddler buzz segment scan solution hen";
+var mnemonic = "company repeat start memory wear main village reward rose rail again match";

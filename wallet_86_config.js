@@ -1,1 +1,1 @@
-var mnemonic = "spring isolate holiday wrist warrior spoil cotton swap december join source between";
+var mnemonic = "lab fruit anchor wonder jewel kind lamp dinosaur detail tiger champion limb";

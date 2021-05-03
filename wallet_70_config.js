@@ -1,1 +1,1 @@
-var mnemonic = "royal leave diary obvious step bright vault distance whale lesson aisle purpose";
+var mnemonic = "account once glove auto bus inform divorce creek execute asthma later again";

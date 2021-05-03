@@ -1,1 +1,1 @@
-var mnemonic = "twice field resist pet swarm flee jaguar stool range nuclear sample decade";
+var mnemonic = "agent uncover retreat height banner post gap virtual interest juice minimum lecture";

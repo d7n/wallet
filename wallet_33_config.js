@@ -1,1 +1,1 @@
-var mnemonic = "segment name buddy young lava hamster interest alcohol acoustic autumn sample speed";
+var mnemonic = "idea mandate jealous cluster divert depend flight inherit blood pipe menu you";

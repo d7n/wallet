@@ -1,1 +1,1 @@
-var mnemonic = "awkward panda reflect hero evidence choose skate floor like damage position spatial";
+var mnemonic = "jealous plastic sword device attract father mesh flame ordinary stem swamp festival";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal crush crisp never protect upper clutch enable cry monster only jaguar";
+var mnemonic = "core utility oven profit inspire high dolphin orchard blur slot barely giant";

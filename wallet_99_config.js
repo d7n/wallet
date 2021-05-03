@@ -1,1 +1,1 @@
-var mnemonic = "render legend void strong message east bind where try balcony dirt bus";
+var mnemonic = "decorate sad liar alarm among pupil portion cotton access act rely minimum";

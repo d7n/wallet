@@ -1,1 +1,1 @@
-var mnemonic = "december finish ranch slush primary dentist raven broken hurt fiber brass guide";
+var mnemonic = "modify decrease rather section trust fetch lamp limit aware bottom message earth";

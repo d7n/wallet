@@ -1,1 +1,1 @@
-var mnemonic = "outer barrel minimum help size proud hard drop word win endorse find";
+var mnemonic = "champion youth mean unfair dice engage rack sad indoor flame gap film";

@@ -1,1 +1,1 @@
-var mnemonic = "else path tilt door vacuum mushroom hobby series lottery awake behave donate";
+var mnemonic = "cream task bullet short wasp egg foil stay become garlic record wait";

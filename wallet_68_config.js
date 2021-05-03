@@ -1,1 +1,1 @@
-var mnemonic = "comic kiss fortune rain toddler chair diagram cabbage swamp butter festival culture";
+var mnemonic = "grain account ostrich cement slam inject drip divide prison elbow flash best";

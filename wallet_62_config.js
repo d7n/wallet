@@ -1,1 +1,1 @@
-var mnemonic = "picture online treat dial hamster dilemma bone pave fiber face undo beyond";
+var mnemonic = "main pigeon online body term dice tiny segment renew skull rival injury";

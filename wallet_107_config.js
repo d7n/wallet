@@ -1,1 +1,1 @@
-var mnemonic = "such mansion truth unaware basket goat present curious brain arrange burst foil";
+var mnemonic = "polar job basket dish globe senior vendor vague close cook crew extra";

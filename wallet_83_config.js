@@ -1,1 +1,1 @@
-var mnemonic = "program fog morning mango year frozen trophy sock earn fashion excite catalog";
+var mnemonic = "scatter brave join crunch stage embark inhale laundry smoke soon antenna stable";

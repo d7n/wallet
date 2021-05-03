@@ -1,1 +1,1 @@
-var mnemonic = "position cherry flash rebel clump organ champion govern radar cereal hollow gate";
+var mnemonic = "shoot tomorrow vocal actress involve elephant swim company stick universe opera blade";

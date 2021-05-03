@@ -1,1 +1,1 @@
-var mnemonic = "prosper window tilt mom deal simple addict club fragile venue else draft";
+var mnemonic = "garment sight domain jeans often type diary tone person gown fever save";

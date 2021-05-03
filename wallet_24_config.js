@@ -1,1 +1,1 @@
-var mnemonic = "option below seat evolve join fluid churn garlic gather riot whisper receive";
+var mnemonic = "punch rebuild demand planet bless identify typical plastic unlock race screen hope";

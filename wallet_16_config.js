@@ -1,1 +1,1 @@
-var mnemonic = "expand hand oval pave car fuel believe shoot thumb runway comfort spot";
+var mnemonic = "squeeze field certain axis edge draft fitness multiply orange sail memory social";

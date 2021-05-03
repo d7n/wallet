@@ -1,1 +1,1 @@
-var mnemonic = "gravity banana gorilla maze blur goddess yard finger noise armor liquid expect";
+var mnemonic = "keep sound genius aim wet match bag cave lazy park copper unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess crunch flame series acquire private worry donate tornado mushroom family tennis";
+var mnemonic = "wild table best absurd visual abstract lava vast lottery prosper zebra medal";

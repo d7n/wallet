@@ -1,1 +1,1 @@
-var mnemonic = "robust light deal oblige throw success bacon hockey state excite immune science";
+var mnemonic = "prepare arrive solution popular bone simple bus where engage glimpse aim excuse";

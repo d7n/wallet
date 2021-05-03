@@ -1,1 +1,1 @@
-var mnemonic = "assault forum betray either soul keen globe giraffe gospel fiber evoke dinosaur";
+var mnemonic = "ghost adult maid moon income lava local disease hair drum notable assist";

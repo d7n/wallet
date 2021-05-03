@@ -1,1 +1,1 @@
-var mnemonic = "finger scheme want vapor hope observe chicken desk become perfect pave supreme";
+var mnemonic = "obscure upgrade drop grape route upon hope able sunny clown among panda";

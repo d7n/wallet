@@ -1,1 +1,1 @@
-var mnemonic = "heavy tissue maple forward half ankle tonight govern mother cart gallery render";
+var mnemonic = "hurdle street rally letter satoshi acoustic outer foil hurry start smoke genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit lamp elegant cereal moral goddess glue fluid over matter inch able";
+var mnemonic = "enough mask jewel peanut time anxiety kid host logic cannon robot boil";

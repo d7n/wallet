@@ -1,1 +1,1 @@
-var mnemonic = "enrich minor dynamic story nice forum gospel follow choose dust orient patient";
+var mnemonic = "sister usage jeans athlete original spend bright century chaos toss air eight";

@@ -1,1 +1,1 @@
-var mnemonic = "tower anger empty output matrix easily daughter fall sock spice open horror";
+var mnemonic = "bring fee room depart empower nurse usage collect reopen toast address garment";

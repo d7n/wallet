@@ -1,1 +1,1 @@
-var mnemonic = "fuel cabbage sauce people group wise slight end cave salute obtain east";
+var mnemonic = "use early deposit finger duty lift flight raven purse federal trophy reunion";

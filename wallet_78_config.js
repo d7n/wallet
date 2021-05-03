@@ -1,1 +1,1 @@
-var mnemonic = "pencil zero labor pyramid skill patient fever north best panic bless improve";
+var mnemonic = "okay right melt plunge this muscle lunar vacuum release hill field brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion hammer pave baby come toilet transfer sketch fatigue round insane solar";
+var mnemonic = "arrive quarter bless ticket proof disorder bamboo message ensure mosquito various thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "hard cancel famous nut town hello clog entry welcome can swamp course";
+var mnemonic = "warrior figure warfare stadium vital maid alone biology reject sudden vital orient";

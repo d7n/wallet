@@ -1,1 +1,1 @@
-var mnemonic = "solid breeze breeze trial manual valve police voice brass morning avocado huge";
+var mnemonic = "sand doctor chuckle wheel vacant dragon defense young tomato repair struggle code";

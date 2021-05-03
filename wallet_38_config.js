@@ -1,1 +1,1 @@
-var mnemonic = "melt trumpet vocal verify flower bleak peanut race bleak renew stove adult";
+var mnemonic = "senior submit correct slab pill jealous motion north hammer vicious shock sniff";

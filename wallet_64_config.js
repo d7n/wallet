@@ -1,1 +1,1 @@
-var mnemonic = "staff clap health copper scan shoe outdoor youth rather coach slot scrap";
+var mnemonic = "change choose resemble foster example ramp picture father soul venue click galaxy";

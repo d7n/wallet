@@ -1,1 +1,1 @@
-var mnemonic = "item knife sick please pig shaft fame surge veteran capital zone ill";
+var mnemonic = "typical vague kitchen leisure combine dress length design pool junior curious exist";

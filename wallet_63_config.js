@@ -1,1 +1,1 @@
-var mnemonic = "alley fine twenty birth wave planet bike butter save raw moment balance";
+var mnemonic = "since seek trash banner awesome affair brown disorder broken moon minimum core";

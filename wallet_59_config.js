@@ -1,1 +1,1 @@
-var mnemonic = "grocery opinion script size box twist pull space employ hazard inform shoulder";
+var mnemonic = "fury feature cushion sell nature west garlic daring share witness medal three";

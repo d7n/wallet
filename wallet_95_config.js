@@ -1,1 +1,1 @@
-var mnemonic = "evidence radar work bless exact skill lumber sunny movie maximum unfold target";
+var mnemonic = "situate object stick festival wise thrive air eight body will announce angle";

@@ -1,1 +1,1 @@
-var mnemonic = "split dry female bag cream unknown beach pyramid toss merge submit force";
+var mnemonic = "nest game supply purpose finger romance enjoy bitter mind field hold bid";

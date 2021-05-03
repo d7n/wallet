@@ -1,1 +1,1 @@
-var mnemonic = "nature desk hungry love firm citizen exhaust fault price museum tail very";
+var mnemonic = "beauty hamster rude image absorb hungry sign argue model drive beyond fluid";

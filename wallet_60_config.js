@@ -1,1 +1,1 @@
-var mnemonic = "mad solid fiction normal rotate chronic pulse sign anxiety obvious gospel fit";
+var mnemonic = "room harsh scene small ten crime imitate viable correct innocent rescue wrist";

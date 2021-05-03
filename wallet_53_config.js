@@ -1,1 +1,1 @@
-var mnemonic = "orange then season want corn sport retreat capital cricket mail extra soap";
+var mnemonic = "carry badge stomach idle isolate harsh crop mail clutch electric brush sleep";

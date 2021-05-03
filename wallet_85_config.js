@@ -1,1 +1,1 @@
-var mnemonic = "depth humor muscle juice cricket payment point usual tower beef fatigue pepper";
+var mnemonic = "bus sketch injury sick doll special glory parade cable domain abuse always";

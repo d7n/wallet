@@ -1,1 +1,1 @@
-var mnemonic = "monster beef gaze pair shuffle merit candy change unusual salon test helmet";
+var mnemonic = "useful child bless magic describe term recipe drum flag depend decrease jazz";

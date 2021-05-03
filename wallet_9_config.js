@@ -1,1 +1,1 @@
-var mnemonic = "large rare chicken aspect between act cousin cousin quiz adapt divorce title";
+var mnemonic = "topple inch raw furnace gaze protect fiscal excess cheap essay dirt begin";

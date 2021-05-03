@@ -1,1 +1,1 @@
-var mnemonic = "charge risk motion confirm private behave negative lion later index physical bone";
+var mnemonic = "gospel earn advance derive also sign genre silk bomb until logic hello";

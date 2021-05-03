@@ -1,1 +1,1 @@
-var mnemonic = "middle concert neither rice access hotel exchange better syrup tongue novel thought";
+var mnemonic = "scene isolate joy school eyebrow ugly pool antique artwork trade bounce bean";

@@ -1,1 +1,1 @@
-var mnemonic = "mind swing juice first rice satisfy orange major net grass topic verb";
+var mnemonic = "grace decrease quote slam keep empower gauge deputy private noise stadium keen";

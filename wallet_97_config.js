@@ -1,1 +1,1 @@
-var mnemonic = "month velvet during solar calm crime ecology afraid broom clarify rough uniform";
+var mnemonic = "panic coconut payment parade state baby nasty road idea shaft slide still";

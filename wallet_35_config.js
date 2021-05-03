@@ -1,1 +1,1 @@
-var mnemonic = "patient diesel venture gold arrive sentence foil mystery curtain bubble size ticket";
+var mnemonic = "glass combine wrong easy aunt net female logic enlist fashion answer asset";

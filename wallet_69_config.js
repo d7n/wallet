@@ -1,1 +1,1 @@
-var mnemonic = "helmet affair rough sport sort oak vast mountain stove web follow leave";
+var mnemonic = "sibling occur machine fiscal same olive close goddess carpet assault rural caution";

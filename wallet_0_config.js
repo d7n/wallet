@@ -1,1 +1,1 @@
-var mnemonic = "like coast garment myth pumpkin gain load nurse coral clean great script";
+var mnemonic = "empower lens erode add floor orient obey slogan friend account east light";

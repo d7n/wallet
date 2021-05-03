@@ -1,1 +1,1 @@
-var mnemonic = "lesson dry faculty upon scatter brass half vague scene endless nerve uphold";
+var mnemonic = "gorilla illegal pistol goose icon right bicycle job grape burger crumble fitness";

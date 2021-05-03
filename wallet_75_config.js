@@ -1,1 +1,1 @@
-var mnemonic = "general man wife artefact bleak desert torch amateur sheriff awful rough fancy";
+var mnemonic = "group live envelope prison shop disorder brush announce order layer faculty derive";

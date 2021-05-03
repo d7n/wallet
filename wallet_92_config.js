@@ -1,1 +1,1 @@
-var mnemonic = "horse barrel road smile unfair donkey pepper ride mesh critic original comfort";
+var mnemonic = "pupil fade flag brother employ ahead talk have online duck bulb super";

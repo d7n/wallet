@@ -1,1 +1,1 @@
-var mnemonic = "basic already muffin rough pioneer bubble coil gasp capital layer mad seed";
+var mnemonic = "slot original morning there virus bring game search spirit ribbon vacuum keep";

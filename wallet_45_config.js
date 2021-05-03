@@ -1,1 +1,1 @@
-var mnemonic = "fashion enough maple goddess glow bright list fiction lava rate donate virus";
+var mnemonic = "coyote skirt kit bright where gentle enlist swift ribbon fun lake segment";

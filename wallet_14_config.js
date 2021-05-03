@@ -1,1 +1,1 @@
-var mnemonic = "flame this obvious never quarter barely lemon replace hour aim element impose";
+var mnemonic = "brave relief junior minimum post still junior awesome biology rookie bean marine";

@@ -1,1 +1,1 @@
-var mnemonic = "fit rely spell grow dawn fancy deal program satisfy pet gadget shoot";
+var mnemonic = "grocery day hope turkey correct casino never police six powder upgrade arrow";

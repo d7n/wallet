@@ -1,1 +1,1 @@
-var mnemonic = "pulp under picnic dance infant confirm wish caution soldier civil sword thought";
+var mnemonic = "left first day act creek wagon assume kick entry direct drop laundry";

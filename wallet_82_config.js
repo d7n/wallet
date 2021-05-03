@@ -1,1 +1,1 @@
-var mnemonic = "wish captain code oyster island gauge inherit patch panda venture prepare crumble";
+var mnemonic = "moral bind little cage success family retreat about cricket ready lonely stumble";

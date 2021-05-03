@@ -1,1 +1,1 @@
-var mnemonic = "squirrel caught note decade stool fetch shrimp sausage program beef mind prosper";
+var mnemonic = "tower brass decade weekend bean coach lab shrimp dice pen tunnel powder";

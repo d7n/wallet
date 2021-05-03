@@ -1,1 +1,1 @@
-var mnemonic = "laptop damage announce found stamp quantum please whip rigid hurt duck else";
+var mnemonic = "upon team snap potato wisdom stable junk ramp laptop nasty one switch";

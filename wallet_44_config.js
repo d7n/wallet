@@ -1,1 +1,1 @@
-var mnemonic = "noise trial order smart copper smile require still culture attitude victory display";
+var mnemonic = "duck sentence film garden word response river club oxygen crystal eye jaguar";

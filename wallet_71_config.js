@@ -1,1 +1,1 @@
-var mnemonic = "joy radio dinosaur tape eternal later balance call maple cousin sort caution";
+var mnemonic = "school august medal chicken barely asset sponsor record head ball hidden release";

@@ -1,1 +1,1 @@
-var mnemonic = "green ten tower prize seek rely turkey drip pool gas rice extra";
+var mnemonic = "gossip hard common stove real item give fish minor minor venture chuckle";

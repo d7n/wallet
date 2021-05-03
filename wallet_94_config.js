@@ -1,1 +1,1 @@
-var mnemonic = "warrior balcony boss harbor sadness purchase width thunder imitate come scan acid";
+var mnemonic = "sad lady monkey save differ denial extend toward benefit mystery pair humble";

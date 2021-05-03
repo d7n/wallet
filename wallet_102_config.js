@@ -1,1 +1,1 @@
-var mnemonic = "nothing oven century torch conduct cloth firm ribbon aim orbit rich glance";
+var mnemonic = "whisper plunge ordinary illness puzzle grape scan now love flag broccoli slight";

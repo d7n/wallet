@@ -1,1 +1,1 @@
-var mnemonic = "avocado someone mix robust west slight away garden page purity danger board";
+var mnemonic = "hold segment doctor elite romance summer letter ball fence reform garage trumpet";

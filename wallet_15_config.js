@@ -1,1 +1,1 @@
-var mnemonic = "cause bar tent shield color game parrot bamboo popular suspect domain zero";
+var mnemonic = "brand slogan smooth marriage clap material shoulder table forward side across various";

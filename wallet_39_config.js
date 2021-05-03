@@ -1,1 +1,1 @@
-var mnemonic = "require medal tail myth minimum deputy razor valley excess unique effort gown";
+var mnemonic = "girl slender sibling melt roof hurdle pattern high smoke pulse axis inflict";

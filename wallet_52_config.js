@@ -1,1 +1,1 @@
-var mnemonic = "ask suspect bottom color also slab zebra motion cruise fog citizen plate";
+var mnemonic = "course topple kidney barely loan crop chronic rug gas try sight bright";

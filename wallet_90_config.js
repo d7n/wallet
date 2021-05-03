@@ -1,1 +1,1 @@
-var mnemonic = "menu liar thunder bargain title bonus gadget split bird nature lamp fun";
+var mnemonic = "outside coin rigid access steel sudden physical garbage act lounge injury antique";

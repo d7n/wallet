@@ -1,1 +1,1 @@
-var mnemonic = "sun canoe kit punch rough walnut head surprise deputy album heart lazy";
+var mnemonic = "gesture figure globe pitch cause camera three limit giggle word soap job";

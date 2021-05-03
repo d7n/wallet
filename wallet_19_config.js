@@ -1,1 +1,1 @@
-var mnemonic = "three industry immense hunt kid interest pioneer ripple clock they degree write";
+var mnemonic = "inflict believe between tackle empty edit vocal reason win analyst depth artwork";

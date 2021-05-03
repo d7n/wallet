@@ -1,1 +1,1 @@
-var mnemonic = "inflict cost repair route mix mad famous proof ribbon mouse innocent artefact";
+var mnemonic = "praise museum reward crumble laptop rare learn tell marine plug elite weekend";

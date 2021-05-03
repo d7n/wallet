@@ -1,1 +1,1 @@
-var mnemonic = "just burden kitten tattoo kitchen abuse nurse tide ugly giggle measure prison";
+var mnemonic = "visit base unusual bleak seven tourist siege parade kiwi elevator regret family";

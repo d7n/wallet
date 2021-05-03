@@ -1,1 +1,1 @@
-var mnemonic = "grant speed dream spike tide surface priority patch peasant nut critic nice";
+var mnemonic = "cream figure delay boat work diet expect reunion enact benefit must hospital";

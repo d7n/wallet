@@ -1,1 +1,1 @@
-var mnemonic = "adjust morning guilt diet memory easy master burger angry miss ghost sick";
+var mnemonic = "bread nuclear easy hold wait minute curve slide away loud logic spoon";

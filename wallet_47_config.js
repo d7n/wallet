@@ -1,1 +1,1 @@
-var mnemonic = "vicious hurt any pulse wild body kid always gentle burger boat twin";
+var mnemonic = "stamp situate price inject sell sister glance song mix isolate risk example";

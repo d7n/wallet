@@ -1,1 +1,1 @@
-var mnemonic = "sunset exotic until nerve donate glass mountain good truck nerve lamp frozen";
+var mnemonic = "noise lunch method surge tonight turkey toddler pigeon wood buzz ring pause";

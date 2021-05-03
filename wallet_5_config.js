@@ -1,1 +1,1 @@
-var mnemonic = "pretty require pizza refuse farm apart absorb develop step virtual engage rail";
+var mnemonic = "exhibit ensure forest sun pink squeeze metal popular exotic capable figure conduct";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion limb price post suffer room song walnut slight border ordinary reflect";
+var mnemonic = "key spread follow virtual chapter lava earth mammal output prosper reject club";

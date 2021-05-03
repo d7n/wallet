@@ -1,1 +1,1 @@
-var mnemonic = "sign offer bless special toward opinion dignity lazy social marriage inherit confirm";
+var mnemonic = "globe world dance remove session clock topple valley round disagree betray tube";

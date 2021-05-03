@@ -1,1 +1,1 @@
-var mnemonic = "reason trouble awake taste soap make stock lawsuit issue cliff photo public";
+var mnemonic = "hood latin adult fuel genre doctor iron exclude ugly over absorb clump";

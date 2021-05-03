@@ -1,1 +1,1 @@
-var mnemonic = "medal will office boss tube across merry elbow pilot tribe speak test";
+var mnemonic = "mad course extend cliff soft industry mystery battle park exist trend insect";

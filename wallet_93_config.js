@@ -1,1 +1,1 @@
-var mnemonic = "climb fuel endless horror ribbon drum remind tattoo reject spatial dose cool";
+var mnemonic = "leader enough inform notice wish alone wear kiwi destroy salon decide surface";

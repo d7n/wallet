@@ -1,1 +1,1 @@
-var mnemonic = "quarter rich potato pull ocean old seat liquid suffer title penalty material";
+var mnemonic = "leg rhythm grief item crew rural alter sure start foot dumb version";
