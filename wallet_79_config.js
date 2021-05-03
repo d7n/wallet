@@ -1,1 +1,1 @@
-var mnemonic = "style quantum monkey solar april life crash sock subway scrub face parrot";
+var mnemonic = "glow hen exclude million scare negative diet stable there quote maximum undo";

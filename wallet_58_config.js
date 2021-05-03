@@ -1,1 +1,1 @@
-var mnemonic = "ball because powder theme margin auction cost wrist south lazy damp arena";
+var mnemonic = "bus sadness slice silver jewel assault random capital syrup dinosaur appear obtain";

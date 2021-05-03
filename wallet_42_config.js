@@ -1,1 +1,1 @@
-var mnemonic = "swim display shoulder left enable airport broken bus civil jar woman super";
+var mnemonic = "quick law nose since release effort detail blush defense thing elbow clutch";

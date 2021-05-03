@@ -1,1 +1,1 @@
-var mnemonic = "define denial strategy box slow suffer arch tree still salon general pepper";
+var mnemonic = "glad fault margin nuclear bamboo tackle trumpet write sight tired globe region";

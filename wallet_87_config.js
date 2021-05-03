@@ -1,1 +1,1 @@
-var mnemonic = "either rotate legal flavor cannon mention fire person library initial fit bar";
+var mnemonic = "civil kiwi final ticket other wash mind payment execute slender group destroy";

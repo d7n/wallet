@@ -1,1 +1,1 @@
-var mnemonic = "tribe own weather glad vivid jacket intact text cheese speak wrap pole";
+var mnemonic = "ten estate pupil turkey try genre cinnamon path oppose zero burst nominee";

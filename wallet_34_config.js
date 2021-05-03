@@ -1,1 +1,1 @@
-var mnemonic = "post sick faint frown lyrics inquiry cave reopen until canvas price twice";
+var mnemonic = "call detail beach weekend style purse security nation rigid zone worry captain";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue click play clump swamp prosper window small bind laugh labor sand";
+var mnemonic = "license lunar tumble arctic sword quarter nuclear hold pact flee dice tribe";

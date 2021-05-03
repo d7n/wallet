@@ -1,1 +1,1 @@
-var mnemonic = "december rely penalty join print vivid method absurd air smile slim body";
+var mnemonic = "hour table subway one mandate valve mixed glimpse blue coil sentence speed";

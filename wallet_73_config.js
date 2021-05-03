@@ -1,1 +1,1 @@
-var mnemonic = "fun cart alone special dizzy jeans fly yellow finish wife album wisdom";
+var mnemonic = "yellow eight order drastic impose middle wink veteran flag discover fog board";

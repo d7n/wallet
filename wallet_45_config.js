@@ -1,1 +1,1 @@
-var mnemonic = "kick remain egg pen praise vault sweet hospital unusual lava observe coffee";
+var mnemonic = "audit elephant wife truck bag easy rule wrist dilemma amateur mobile market";

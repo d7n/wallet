@@ -1,1 +1,1 @@
-var mnemonic = "ten wish life insect feel wealth split exist split either daughter jar";
+var mnemonic = "onion wait weekend cabbage eye doll suspect behave rubber muffin vehicle true";

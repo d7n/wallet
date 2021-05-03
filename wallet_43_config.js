@@ -1,1 +1,1 @@
-var mnemonic = "slot above october diesel language raven ship reflect already scissors income praise";
+var mnemonic = "fold switch salon fury protect ready void rebuild object faith palace pattern";

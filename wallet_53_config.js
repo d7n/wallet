@@ -1,1 +1,1 @@
-var mnemonic = "void gloom lazy guilt glove leader when school useless motion security online";
+var mnemonic = "case memory kite audit express chest twist green middle wrestle when body";

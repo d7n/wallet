@@ -1,1 +1,1 @@
-var mnemonic = "banana stomach ensure measure snow awake space invest decorate spoon wall mandate";
+var mnemonic = "lion month tourist industry fix recycle ugly slide industry give sustain hunt";

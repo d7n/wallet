@@ -1,1 +1,1 @@
-var mnemonic = "warrior beach bunker grace age manage trap divide home caught join phrase";
+var mnemonic = "name emerge material crane make elbow wall bounce analyst drastic benefit special";

@@ -1,1 +1,1 @@
-var mnemonic = "glare rice indicate tower aisle width curtain duck laptop awkward diesel flash";
+var mnemonic = "million camp frame lens raw hand steak mosquito bronze loop excite inch";

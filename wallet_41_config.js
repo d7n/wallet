@@ -1,1 +1,1 @@
-var mnemonic = "end point label lawsuit perfect ugly armor crater bicycle antique lamp chalk";
+var mnemonic = "simple mountain asset analyst kiss arrive nominee solve matrix fossil chest valve";

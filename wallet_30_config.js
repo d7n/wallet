@@ -1,1 +1,1 @@
-var mnemonic = "local student pilot ahead deliver what liberty goose canyon breeze access soda";
+var mnemonic = "inside wolf minimum dizzy chase flash brush fault easily execute later news";

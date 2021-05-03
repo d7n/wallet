@@ -1,1 +1,1 @@
-var mnemonic = "moral dress glance waste story elegant honey razor sport poet cable box";
+var mnemonic = "garden timber disorder clean worth tent donor bridge kitten open behind common";

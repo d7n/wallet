@@ -1,1 +1,1 @@
-var mnemonic = "oval retreat figure list original peace fix dolphin fruit magnet address floor";
+var mnemonic = "inner blade pelican between kick they another vault midnight sand cheese monkey";

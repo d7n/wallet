@@ -1,1 +1,1 @@
-var mnemonic = "script across wedding fade cube relief bus churn now soccer more decrease";
+var mnemonic = "heavy because twin purity unfold kid enrich wage cause catalog excuse luggage";

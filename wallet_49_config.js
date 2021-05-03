@@ -1,1 +1,1 @@
-var mnemonic = "vehicle table that enter dry wait wrestle increase tiger nuclear video fever";
+var mnemonic = "lion faculty resist argue silk system human senior exhaust practice another session";

@@ -1,1 +1,1 @@
-var mnemonic = "suit crystal torch copy federal forward middle turtle thumb few escape cause";
+var mnemonic = "net include evoke acoustic try rather arrange glass earn bounce sting female";

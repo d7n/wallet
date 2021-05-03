@@ -1,1 +1,1 @@
-var mnemonic = "arrow noble atom force again dilemma buffalo fresh smart group help invest";
+var mnemonic = "canoe glue forget display timber ski fix behave direct keep kingdom wild";

@@ -1,1 +1,1 @@
-var mnemonic = "sense idea oyster stuff crowd run tone traffic inch good cheap truck";
+var mnemonic = "collect gap glow equal model thing amused genius apart glide skirt word";

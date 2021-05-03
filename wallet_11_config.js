@@ -1,1 +1,1 @@
-var mnemonic = "affair update giant bag salon stool nest voyage suggest orbit cupboard approve";
+var mnemonic = "trim rail afford need theory donkey weather tail diary weasel forest marriage";

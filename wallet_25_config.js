@@ -1,1 +1,1 @@
-var mnemonic = "draw mobile sheriff robot chef innocent knock taste adjust base ginger silk";
+var mnemonic = "silly injury spy extend juice evidence town add army pride attack spice";

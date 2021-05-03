@@ -1,1 +1,1 @@
-var mnemonic = "ugly raccoon marble portion uniform light female prize paddle hungry possible novel";
+var mnemonic = "horse plastic inform agree junk program drink figure change worth steel trophy";

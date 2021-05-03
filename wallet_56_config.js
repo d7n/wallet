@@ -1,1 +1,1 @@
-var mnemonic = "angry spot radar fork banana black region glass sweet hospital device toe";
+var mnemonic = "canyon dutch circle bar drum blur dove silk master car cross smile";

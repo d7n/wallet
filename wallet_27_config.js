@@ -1,1 +1,1 @@
-var mnemonic = "interest swim chef blind fence depth team fever gentle clog deal bottom";
+var mnemonic = "climb stuff cigar roast crucial enhance track brisk what use venue gadget";

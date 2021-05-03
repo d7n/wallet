@@ -1,1 +1,1 @@
-var mnemonic = "legend room ladder first problem spend service column rebel stomach girl swallow";
+var mnemonic = "goddess life narrow symptom ticket globe neither arrest pear menu fun mango";

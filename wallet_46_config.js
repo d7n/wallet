@@ -1,1 +1,1 @@
-var mnemonic = "jelly heart easy add until between cash sibling video congress fuel meadow";
+var mnemonic = "cart alien key mosquito usage reject burst valve include chair mechanic artefact";

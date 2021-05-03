@@ -1,1 +1,1 @@
-var mnemonic = "essence victory script review heart wide join notice beef course obvious essay";
+var mnemonic = "distance exotic brick apart chat essay disorder goddess deposit pitch duck adapt";

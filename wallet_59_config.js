@@ -1,1 +1,1 @@
-var mnemonic = "they more water napkin problem toy labor sort bundle horn uphold peasant";
+var mnemonic = "sun tornado unhappy hero bachelor energy easily item awake bulk armed invite";

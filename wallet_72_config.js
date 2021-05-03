@@ -1,1 +1,1 @@
-var mnemonic = "clerk afraid sorry young author patch solar oven hover history silver nuclear";
+var mnemonic = "type lazy segment whip erosion laundry quality improve uncover such claim adapt";

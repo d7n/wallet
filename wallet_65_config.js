@@ -1,1 +1,1 @@
-var mnemonic = "thing extra bottom heart error upper cover gift myth lock position lecture";
+var mnemonic = "nephew seed proud half shift violin order domain game good sense earn";

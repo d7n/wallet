@@ -1,1 +1,1 @@
-var mnemonic = "ski year enlist execute bridge fresh ugly right grit poem corn strategy";
+var mnemonic = "island fat party inner reduce civil win butter world pave when example";

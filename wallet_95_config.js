@@ -1,1 +1,1 @@
-var mnemonic = "embrace arrive easily siege skate combine ship game spoon silk goat silly";
+var mnemonic = "unfair between regular little area rigid guard tragic drastic atom outer salon";

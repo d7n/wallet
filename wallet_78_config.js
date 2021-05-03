@@ -1,1 +1,1 @@
-var mnemonic = "program kiwi domain gospel wave security safe volume weasel casino diary point";
+var mnemonic = "mind road add book catch eager suit tomato lyrics entry vendor ugly";

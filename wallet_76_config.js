@@ -1,1 +1,1 @@
-var mnemonic = "couple record sun habit general penalty develop glance weasel employ pioneer echo";
+var mnemonic = "antique essence twist cat destroy jealous tornado member congress lawsuit consider obtain";

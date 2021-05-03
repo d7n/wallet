@@ -1,1 +1,1 @@
-var mnemonic = "kiwi salon loyal come scrub youth skill capital supply consider uphold light";
+var mnemonic = "tuition parade bacon reveal scissors merge wise symbol swarm tag paddle gift";

@@ -1,1 +1,1 @@
-var mnemonic = "upon will aisle void dish spice inflict avoid arrive asthma category identify";
+var mnemonic = "correct believe volume dune garbage swift knife fine tired museum tag fiction";

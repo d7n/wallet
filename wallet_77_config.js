@@ -1,1 +1,1 @@
-var mnemonic = "history ghost derive shadow mystery bubble gauge capital cheese noodle coyote horn";
+var mnemonic = "tomato beyond bind false pioneer web audit need hand home match fly";

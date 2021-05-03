@@ -1,1 +1,1 @@
-var mnemonic = "snow uncover squirrel enrich lesson flame water advance choice skin future first";
+var mnemonic = "curtain hole negative jeans antenna vehicle pistol neglect chat elephant shift program";

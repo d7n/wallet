@@ -1,1 +1,1 @@
-var mnemonic = "cycle pigeon burst believe there kitchen elder bird lucky laundry surface two";
+var mnemonic = "file clock unhappy actual aspect index mask heart dial wrist believe found";

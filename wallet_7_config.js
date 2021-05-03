@@ -1,1 +1,1 @@
-var mnemonic = "armed soldier prize leg pill giggle section usage occur winner apology chief";
+var mnemonic = "mask mutual chapter outer bounce settle gloom once prefer speak quiz cable";

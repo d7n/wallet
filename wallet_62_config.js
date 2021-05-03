@@ -1,1 +1,1 @@
-var mnemonic = "taste mammal comfort regret attitude people panther copper film like vague addict";
+var mnemonic = "extend shy wagon bulk now extend soup wire ozone wisdom squirrel wish";

@@ -1,1 +1,1 @@
-var mnemonic = "father solution copper survey raw into list wrestle broken success stove correct";
+var mnemonic = "ethics large annual valley glad card bench pill honey feel talent city";

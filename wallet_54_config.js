@@ -1,1 +1,1 @@
-var mnemonic = "stand scissors clever obscure cargo barrel aim lawsuit increase master excuse express";
+var mnemonic = "sadness jaguar bone case roast jelly common hotel cook soldier oven film";

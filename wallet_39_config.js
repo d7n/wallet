@@ -1,1 +1,1 @@
-var mnemonic = "run chapter distance gather false crush obtain nose long bar verb huge";
+var mnemonic = "attitude inmate sting winter grain energy purchase wine announce cool business key";

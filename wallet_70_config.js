@@ -1,1 +1,1 @@
-var mnemonic = "humor pizza target when salmon horn family corn shaft laptop first detect";
+var mnemonic = "present olympic tube about session people consider humble crystal win unit speak";

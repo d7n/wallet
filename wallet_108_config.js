@@ -1,1 +1,1 @@
-var mnemonic = "region coral present card notable minute ocean kitchen talk shove ozone delay";
+var mnemonic = "critic stove orchard monitor mind clump early wear romance daughter enroll unhappy";

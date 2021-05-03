@@ -1,1 +1,1 @@
-var mnemonic = "coach cabbage raw budget oil term clap team brother potato absorb chair";
+var mnemonic = "crunch hunt weapon cheap offer finish popular main addict taste impulse axis";

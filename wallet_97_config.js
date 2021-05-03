@@ -1,1 +1,1 @@
-var mnemonic = "gauge shine teach gravity distance insect squirrel lend junk banner material post";
+var mnemonic = "tongue lounge visual chimney ivory effort jazz garment stumble same height flat";

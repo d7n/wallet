@@ -1,1 +1,1 @@
-var mnemonic = "artefact hold mimic session scatter wife green tobacco injury humor front royal";
+var mnemonic = "eight tragic amused learn raven odor verify wolf during office stamp behave";

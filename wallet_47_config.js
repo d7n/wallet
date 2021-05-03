@@ -1,1 +1,1 @@
-var mnemonic = "current boil normal kid come board grit produce drastic cheese neither uniform";
+var mnemonic = "anger include struggle purity anxiety upset erupt trouble blood barrel august address";

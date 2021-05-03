@@ -1,1 +1,1 @@
-var mnemonic = "elegant extra excess produce mule juice ancient raise practice payment morning select";
+var mnemonic = "nothing fame act guess way calm bicycle extra degree blouse depart vessel";

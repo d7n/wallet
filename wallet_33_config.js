@@ -1,1 +1,1 @@
-var mnemonic = "large version garbage sugar bus exhibit can monster utility spy sleep guitar";
+var mnemonic = "monitor filter easy clever enroll sponsor kiwi sister never often below picnic";

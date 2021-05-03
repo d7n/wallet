@@ -1,1 +1,1 @@
-var mnemonic = "long actor eight deal only slot forum primary wink total faith inform";
+var mnemonic = "solar allow language art mango benefit gather arena juice focus speed own";

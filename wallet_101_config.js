@@ -1,1 +1,1 @@
-var mnemonic = "voyage educate work rate merry chest frozen life bridge oppose scan venue";
+var mnemonic = "resemble cargo abstract manage hammer sibling media model culture caution dumb shrug";

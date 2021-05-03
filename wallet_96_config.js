@@ -1,1 +1,1 @@
-var mnemonic = "prison finger crime core kitten candy surge river boring essay spoil very";
+var mnemonic = "army keen exile ask icon awful captain slush army tuition pyramid shrug";

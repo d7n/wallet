@@ -1,1 +1,1 @@
-var mnemonic = "only document access column act cattle vicious ramp door leader comic woman";
+var mnemonic = "cruise elephant digital piano only dad ahead mix slender other trend still";

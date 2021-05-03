@@ -1,1 +1,1 @@
-var mnemonic = "poverty food cake car enhance seed express poem paper hungry misery display";
+var mnemonic = "cupboard near light ordinary swallow enroll tornado feel walk rebel repeat million";

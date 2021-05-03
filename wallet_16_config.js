@@ -1,1 +1,1 @@
-var mnemonic = "device alley secret student chair vanish tag bronze fix behind lizard fine";
+var mnemonic = "door pond hurry impact glad ancient bone gauge doll dentist follow repeat";

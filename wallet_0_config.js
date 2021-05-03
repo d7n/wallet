@@ -1,1 +1,1 @@
-var mnemonic = "rich velvet drama october spirit harbor cave orient solution student embark elder";
+var mnemonic = "language improve media marble veteran movie wrap deny business bleak mammal mail";

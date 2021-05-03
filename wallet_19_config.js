@@ -1,1 +1,1 @@
-var mnemonic = "mistake south resemble tube float gap pride scout smoke focus warm visual";
+var mnemonic = "spoon video letter differ witness kiwi grit lion teach cross supply blue";

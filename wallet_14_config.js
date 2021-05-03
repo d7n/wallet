@@ -1,1 +1,1 @@
-var mnemonic = "annual debate high market brass plunge video essence describe hurry demise addict";
+var mnemonic = "jazz long mean endorse fun chuckle birth service gossip spawn certain sister";

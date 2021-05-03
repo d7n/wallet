@@ -1,1 +1,1 @@
-var mnemonic = "baby hood produce order change topic kid axis foster double tissue phone";
+var mnemonic = "neck tenant possible pilot phone usual hand tennis core differ image casino";

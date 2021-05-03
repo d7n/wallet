@@ -1,1 +1,1 @@
-var mnemonic = "end hollow juice age public distance diamond soldier price arctic leave canvas";
+var mnemonic = "case swim arrive punch peasant eagle veteran essay weekend heart patient cost";

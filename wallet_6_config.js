@@ -1,1 +1,1 @@
-var mnemonic = "fox license today bonus elbow thunder visit balance office alien phone escape";
+var mnemonic = "pass deer advance awesome silent scout rival behave insane sort upper blush";

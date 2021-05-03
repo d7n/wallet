@@ -1,1 +1,1 @@
-var mnemonic = "federal buzz joke two now taste brick upgrade scrub traffic try express";
+var mnemonic = "stay tenant often believe source lecture chunk anxiety water point insect tunnel";

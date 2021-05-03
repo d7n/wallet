@@ -1,1 +1,1 @@
-var mnemonic = "mechanic bone spot spike powder portion amateur early solar envelope palace casual";
+var mnemonic = "hub decrease drastic mom bag edge anchor tape energy hen wild shove";

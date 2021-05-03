@@ -1,1 +1,1 @@
-var mnemonic = "ocean mesh whisper main patient skirt jacket various shrimp hollow unknown frozen";
+var mnemonic = "pudding bridge south energy answer gasp devote brief south leopard estate undo";

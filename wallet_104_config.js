@@ -1,1 +1,1 @@
-var mnemonic = "enroll recycle process mixture action leaf measure wolf bench sorry wool train";
+var mnemonic = "sheriff mesh demand company stone ring crush bread cousin glad walk rhythm";

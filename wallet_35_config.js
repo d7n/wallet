@@ -1,1 +1,1 @@
-var mnemonic = "ketchup garment belt wide unit wear satoshi trip basic animal jealous heart";
+var mnemonic = "proof country defense fitness increase hello climb impact sibling smart also virus";

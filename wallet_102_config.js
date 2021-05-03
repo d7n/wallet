@@ -1,1 +1,1 @@
-var mnemonic = "few huge rebuild ginger wheel hill olympic easy symptom brave feed protect";
+var mnemonic = "target garage banner fog brave floor smart train park tone tattoo arm";

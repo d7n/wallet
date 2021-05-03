@@ -1,1 +1,1 @@
-var mnemonic = "trophy flavor mutual congress where liberty summer risk frequent doctor robust mobile";
+var mnemonic = "path crash lawn utility legal vote alarm front surprise cake carry lend";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn cycle finish party galaxy now alcohol doctor horse item pig spring";
+var mnemonic = "left erase antique term power liberty husband board stove cook flag gym";

@@ -1,1 +1,1 @@
-var mnemonic = "document know fruit genre beef flight sight grant domain caught sell safe";
+var mnemonic = "thunder false local rude baby entry buzz mistake razor maple mix service";

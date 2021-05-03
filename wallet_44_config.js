@@ -1,1 +1,1 @@
-var mnemonic = "audit bind ritual magnet fuel cactus upset vague they funny check tower";
+var mnemonic = "grit click double unusual throw trap level voice exercise void skin demise";

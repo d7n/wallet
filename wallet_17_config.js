@@ -1,1 +1,1 @@
-var mnemonic = "benefit trigger rhythm sick carry begin swim suffer access heart adult magic";
+var mnemonic = "tape misery alert patient want record seminar text mom laptop shoot access";

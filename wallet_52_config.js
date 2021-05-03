@@ -1,1 +1,1 @@
-var mnemonic = "village drill gadget fabric height loan attend achieve arrange small faculty ready";
+var mnemonic = "tennis leader jeans rent time exercise trim jungle artefact drum peace relax";

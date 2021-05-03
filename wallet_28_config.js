@@ -1,1 +1,1 @@
-var mnemonic = "flower hammer warfare napkin cactus satisfy water kid unable swift elite adult";
+var mnemonic = "cereal mango suspect science danger guide wonder prefer marriage stuff possible range";

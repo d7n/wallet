@@ -1,1 +1,1 @@
-var mnemonic = "float example chef license ball size scare grace unique glad approve toss";
+var mnemonic = "change teach combine predict notable merit feature window notable side segment print";

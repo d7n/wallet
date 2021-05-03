@@ -1,1 +1,1 @@
-var mnemonic = "carbon giggle small narrow solar disease scout also transfer ladder skate base";
+var mnemonic = "length relief warfare lend curtain track pioneer crack join actor table history";

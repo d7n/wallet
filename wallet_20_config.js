@@ -1,1 +1,1 @@
-var mnemonic = "reveal enter private observe rate equal large oak radio cargo found hub";
+var mnemonic = "ride capital guess shield galaxy feature below tornado actual fence example topic";

@@ -1,1 +1,1 @@
-var mnemonic = "rural topic decrease clip east sand panic jar quit twist unhappy useful";
+var mnemonic = "purse dial motion saddle violin knock inquiry boring decide lake elephant pony";

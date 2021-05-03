@@ -1,1 +1,1 @@
-var mnemonic = "shallow still horror abstract scale crawl emotion wire come mosquito trip tumble";
+var mnemonic = "fame spawn talent art demand fat judge patrol shine daring domain fiber";

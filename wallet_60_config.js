@@ -1,1 +1,1 @@
-var mnemonic = "accuse lab choose betray casino derive napkin general address proud sword three";
+var mnemonic = "uniform attract list average fun select problem until sadness movie liberty round";

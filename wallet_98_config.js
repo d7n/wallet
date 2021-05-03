@@ -1,1 +1,1 @@
-var mnemonic = "simple reward loud enhance shed eagle keen pipe vault flame cupboard husband";
+var mnemonic = "deposit three faith absent fine rather crane eagle hat chat rally faint";

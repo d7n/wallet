@@ -1,1 +1,1 @@
-var mnemonic = "circle best alpha below disagree share play sad blame vital song broccoli";
+var mnemonic = "minute pyramid water asthma title erupt face tiny dawn bean guide reduce";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest year record capable moral awesome civil valley success rigid milk flush";
+var mnemonic = "season glare humor fence shallow rabbit loan habit armed foam shield pink";

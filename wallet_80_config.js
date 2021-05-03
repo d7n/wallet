@@ -1,1 +1,1 @@
-var mnemonic = "blossom kiss mix doll tortoise habit nuclear rare someone exclude right swift";
+var mnemonic = "measure trap theory file only relax neither outer cabin wing burger evolve";
