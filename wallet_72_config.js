@@ -1,1 +1,1 @@
-var mnemonic = "sense company assault recall spoon squirrel actor capable cannon beauty wage shield";
+var mnemonic = "include kangaroo they outer mosquito forum post concert favorite alpha glance riot";

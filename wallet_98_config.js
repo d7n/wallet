@@ -1,1 +1,1 @@
-var mnemonic = "asthma milk neutral border lawn hello demise sustain august dilemma rival wear";
+var mnemonic = "cheese icon cause approve october foil often age vital drill neck mistake";

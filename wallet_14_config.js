@@ -1,1 +1,1 @@
-var mnemonic = "network hub review asthma summer festival angle fiber fashion ocean truly also";
+var mnemonic = "anxiety birth that evoke load essence company visual shadow surge virtual panel";

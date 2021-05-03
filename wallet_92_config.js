@@ -1,1 +1,1 @@
-var mnemonic = "private toast frozen edit brass aim beach screen ring road pudding switch";
+var mnemonic = "ask arm rule mystery kiss large smile identify round habit clip potato";

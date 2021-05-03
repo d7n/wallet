@@ -1,1 +1,1 @@
-var mnemonic = "august ride until legal forget evolve dry glimpse average uncover delay stick";
+var mnemonic = "expire undo senior actor enable scan salon lady unknown image diary express";

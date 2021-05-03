@@ -1,1 +1,1 @@
-var mnemonic = "script spice property hub process sample jewel thought orphan exhaust library appear";
+var mnemonic = "yellow goose attract child escape vanish basket gadget common champion type world";

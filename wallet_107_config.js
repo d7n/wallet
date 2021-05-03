@@ -1,1 +1,1 @@
-var mnemonic = "fatal run atom divide pilot detail test yard knock curve confirm burst";
+var mnemonic = "whale bread rose skate purse distance mutual dry hedgehog kidney flavor remain";

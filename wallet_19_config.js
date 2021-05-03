@@ -1,1 +1,1 @@
-var mnemonic = "slow stem famous artefact relief come myth prosper orphan treat silk scene";
+var mnemonic = "vocal reward crumble energy tribe between man metal wasp hundred valid width";

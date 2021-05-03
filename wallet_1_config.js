@@ -1,1 +1,1 @@
-var mnemonic = "crash student supply sad common volume day claw school sustain vibrant vital";
+var mnemonic = "report select abstract leave town grass trouble reform crop atom girl glance";

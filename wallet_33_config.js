@@ -1,1 +1,1 @@
-var mnemonic = "patch modify scheme circle pumpkin fragile hip enroll decide junior minimum stumble";
+var mnemonic = "luggage famous october wolf popular transfer elevator album rural pumpkin bus deputy";

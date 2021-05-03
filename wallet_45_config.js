@@ -1,1 +1,1 @@
-var mnemonic = "reveal tone response mobile crop husband poverty sock captain juice bubble hour";
+var mnemonic = "faculty tilt rice wild sausage split indicate system trash meat top table";

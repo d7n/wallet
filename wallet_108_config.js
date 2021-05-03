@@ -1,1 +1,1 @@
-var mnemonic = "empty gaze wheel frozen raw that sock glue yellow error betray canoe";
+var mnemonic = "pause flame action moral donate crouch heart renew knee cover fossil hire";

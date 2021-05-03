@@ -1,1 +1,1 @@
-var mnemonic = "chest solution zero world whisper interest hamster hello surge occur tool priority";
+var mnemonic = "latin chronic roast donate snap angry design about spoon result wisdom better";

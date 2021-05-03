@@ -1,1 +1,1 @@
-var mnemonic = "build arrow pistol sword outdoor noble banner tail absurd immense law material";
+var mnemonic = "fire ahead save town visual couple spawn want scene trumpet resemble effort";

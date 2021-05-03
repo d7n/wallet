@@ -1,1 +1,1 @@
-var mnemonic = "thumb hazard kick region width also mask stumble snack grid decade olive";
+var mnemonic = "detect unique flat toy style very exist culture crime major van donkey";

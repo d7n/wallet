@@ -1,1 +1,1 @@
-var mnemonic = "myself cool dress any oblige father mountain path charge fit share swim";
+var mnemonic = "iron fee usual trash honey essence face settle grow lobster blush vacuum";

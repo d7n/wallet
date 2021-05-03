@@ -1,1 +1,1 @@
-var mnemonic = "balance digital hobby diary guard often ozone grief police under toss divorce";
+var mnemonic = "glory cruise inject into mule off rough sound argue stomach guitar tool";

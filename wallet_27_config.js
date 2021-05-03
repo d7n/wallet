@@ -1,1 +1,1 @@
-var mnemonic = "live job tattoo tourist divide category raven label program drive medal vendor";
+var mnemonic = "frost hope original normal beauty thought notable used enrich paper argue donkey";

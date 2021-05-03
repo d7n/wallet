@@ -1,1 +1,1 @@
-var mnemonic = "bench faith borrow comfort pottery luxury barrel crush stool cancel skin industry";
+var mnemonic = "barely arrow zero pudding garage skirt pitch toast high mimic cupboard settle";

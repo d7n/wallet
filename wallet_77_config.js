@@ -1,1 +1,1 @@
-var mnemonic = "gallery pyramid rookie negative high uncle swing gentle stock goat decrease poem";
+var mnemonic = "identify say moment camera gorilla mechanic security client message buffalo chicken rebuild";

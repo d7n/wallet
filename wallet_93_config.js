@@ -1,1 +1,1 @@
-var mnemonic = "crazy jacket wheel claim arch settle senior cart copy draw whip kid";
+var mnemonic = "holiday crush journey index bacon february advice option tackle useless dizzy shy";

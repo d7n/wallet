@@ -1,1 +1,1 @@
-var mnemonic = "clutch bike oppose recall exile garbage scatter inhale tired soup obtain stay";
+var mnemonic = "dinosaur impact magic chunk dove call round elite rule clutch deliver thing";

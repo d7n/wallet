@@ -1,1 +1,1 @@
-var mnemonic = "blush sword street rocket grit sing trumpet comfort light danger model tumble";
+var mnemonic = "asset minor typical library first clip response junk apart juice rail width";

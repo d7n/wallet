@@ -1,1 +1,1 @@
-var mnemonic = "donkey exotic marble hub valve hammer lion ethics gift giggle sponsor profit";
+var mnemonic = "comic spike dose material guitar spend ranch food name bridge slab trap";

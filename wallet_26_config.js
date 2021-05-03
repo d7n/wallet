@@ -1,1 +1,1 @@
-var mnemonic = "mix topple fly illness bring across jump praise whisper hospital radar style";
+var mnemonic = "flush appear stone unusual also lesson throw describe fun volume jump evil";

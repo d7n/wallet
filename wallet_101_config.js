@@ -1,1 +1,1 @@
-var mnemonic = "alien price strong you color trim wheat fee eye ginger there rapid";
+var mnemonic = "educate strategy adapt biology dish sad minute stadium piano immune link shell";

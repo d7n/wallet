@@ -1,1 +1,1 @@
-var mnemonic = "dream lawsuit pitch venue verb odor thought connect travel team check require";
+var mnemonic = "thing follow lottery about abstract parrot sausage blossom scissors method jeans hub";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain sugar pluck carry win repeat skirt rack track dust ridge movie";
+var mnemonic = "taxi fame apart reject waste approve drop talent song style alpha armed";

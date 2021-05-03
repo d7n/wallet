@@ -1,1 +1,1 @@
-var mnemonic = "rose core ticket rare monster good minute art fan slush crater female";
+var mnemonic = "bounce boring unlock issue alert net scale old talk embody broccoli frog";

@@ -1,1 +1,1 @@
-var mnemonic = "suit hip pluck basic much certain view hurry filter nature hawk cement";
+var mnemonic = "media join autumn unit cousin field powder all another tail letter parrot";

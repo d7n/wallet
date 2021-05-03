@@ -1,1 +1,1 @@
-var mnemonic = "arena shiver shadow ice chaos twelve casino army carry disagree awesome blanket";
+var mnemonic = "speed dentist panic simple file save mail term smart mountain exhibit decrease";

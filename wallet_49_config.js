@@ -1,1 +1,1 @@
-var mnemonic = "asthma holiday horn since caught crash tooth electric common absorb remain seat";
+var mnemonic = "pattern immense virtual muffin decrease pen amount priority latin quantum extra taste";

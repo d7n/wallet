@@ -1,1 +1,1 @@
-var mnemonic = "vibrant calm vibrant teach across slide powder entry liquid monkey help wolf";
+var mnemonic = "coral beef pair trumpet lounge swear quit spirit drink virus riot mushroom";

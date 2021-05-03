@@ -1,1 +1,1 @@
-var mnemonic = "inspire upgrade intact clay kidney post sell edge cabbage coach chat atom";
+var mnemonic = "gold fabric stone nephew hat one bleak damp stove mule range east";

@@ -1,1 +1,1 @@
-var mnemonic = "violin federal symptom sense seminar relief buddy since assume claim snap tortoise";
+var mnemonic = "auto acquire bridge shoe travel gauge planet bamboo violin wonder trend awful";

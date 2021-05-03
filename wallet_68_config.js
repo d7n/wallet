@@ -1,1 +1,1 @@
-var mnemonic = "spray make push pole grunt awkward goddess keep acquire mesh cherry coach";
+var mnemonic = "grab silver mosquito lesson shaft coyote squeeze party method parrot mean foil";

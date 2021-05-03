@@ -1,1 +1,1 @@
-var mnemonic = "decorate please sister hotel ladder affair provide together bone swarm member various";
+var mnemonic = "ask satoshi original curious good market boss swallow mystery clean slight snap";

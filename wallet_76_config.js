@@ -1,1 +1,1 @@
-var mnemonic = "aspect old silent jeans abuse peasant west swear artist install subject potato";
+var mnemonic = "lunch follow fatal film subway mechanic swim over expose manual message win";

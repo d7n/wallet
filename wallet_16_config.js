@@ -1,1 +1,1 @@
-var mnemonic = "order dash edit donate absent evil ride magic oval concert summer dawn";
+var mnemonic = "again doctor peanut eye bachelor gallery obvious cube cluster display ripple moral";

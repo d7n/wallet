@@ -1,1 +1,1 @@
-var mnemonic = "sail upon artist remain evoke seed blade olympic round unaware afraid awake";
+var mnemonic = "work caution biology viable once glare shy hobby issue moral maze dish";

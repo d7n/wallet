@@ -1,1 +1,1 @@
-var mnemonic = "loop inmate gallery similar recall tell visit high merge crater party history";
+var mnemonic = "imitate brick trade gun beach sun extra disorder cup system retreat shoot";

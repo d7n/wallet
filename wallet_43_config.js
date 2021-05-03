@@ -1,1 +1,1 @@
-var mnemonic = "stool example tiger major bamboo verify carbon fee mixed torch tell wasp";
+var mnemonic = "purse trip wine salon tuition trick draft curve romance van enact apple";

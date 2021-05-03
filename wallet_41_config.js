@@ -1,1 +1,1 @@
-var mnemonic = "private jar chronic winner spawn tail tenant size permit argue daughter youth";
+var mnemonic = "unaware position assist choose pipe mouse present cover tip void suit lemon";

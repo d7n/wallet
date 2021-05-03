@@ -1,1 +1,1 @@
-var mnemonic = "wash spare fortune duck dinosaur armor stumble bacon dolphin ride fuel recall";
+var mnemonic = "harsh lazy inquiry resemble someone awful chunk check lizard put apple tower";

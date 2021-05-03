@@ -1,1 +1,1 @@
-var mnemonic = "island error pluck exchange retreat find then talent ramp debate cause cash";
+var mnemonic = "give unit machine sauce fabric reduce stage sad treat wide rubber fashion";

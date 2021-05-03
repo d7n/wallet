@@ -1,1 +1,1 @@
-var mnemonic = "load drift valve object annual video giggle betray gossip vacuum spend segment";
+var mnemonic = "relief scatter phone fever fault trial exile stumble hurry village crucial apart";

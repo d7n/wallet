@@ -1,1 +1,1 @@
-var mnemonic = "humble final luxury pool sauce into route surge border stomach forward club";
+var mnemonic = "cousin general caution immune proud gorilla beach index hood avocado wheat unit";

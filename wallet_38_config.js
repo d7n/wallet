@@ -1,1 +1,1 @@
-var mnemonic = "country forget parrot blanket robust educate speed attack foam hidden amused stool";
+var mnemonic = "easily fury cheese cat creek fever mom brown fame earn bacon broccoli";

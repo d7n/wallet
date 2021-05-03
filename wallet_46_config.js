@@ -1,1 +1,1 @@
-var mnemonic = "hamster visual inflict way direct usual abstract worry clarify shed mom bacon";
+var mnemonic = "tomato cement point vanish clog upset turkey shell pave notice kingdom myself";

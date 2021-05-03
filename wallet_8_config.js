@@ -1,1 +1,1 @@
-var mnemonic = "beauty story jelly network celery can cheese cram flock aim gym abstract";
+var mnemonic = "worth law insect shuffle trust air slow vibrant wife ordinary flip impact";

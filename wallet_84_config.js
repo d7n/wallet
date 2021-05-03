@@ -1,1 +1,1 @@
-var mnemonic = "inch lazy paper sense device keep talk blanket argue ramp crack canoe";
+var mnemonic = "pole buffalo motor icon floor trick exhibit tape alert rose taxi hat";

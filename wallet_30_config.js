@@ -1,1 +1,1 @@
-var mnemonic = "twelve twin good blind sing cycle frost target fitness memory ship polar";
+var mnemonic = "lava economy crush evidence dress memory desert season radar deputy shoulder raw";

@@ -1,1 +1,1 @@
-var mnemonic = "season uncover rally wreck equal blouse dynamic fame coach actress cross helmet";
+var mnemonic = "arrive earn recall transfer chest ozone arrive guard win peanut inform speak";

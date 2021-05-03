@@ -1,1 +1,1 @@
-var mnemonic = "future ride unknown crane drastic planet chronic dentist nest lawsuit opinion despair";
+var mnemonic = "vehicle settle nut note regular noodle outdoor parent because abuse rib sausage";

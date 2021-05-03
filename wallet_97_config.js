@@ -1,1 +1,1 @@
-var mnemonic = "honey install stairs enhance pen ride soda walnut mass multiply twin still";
+var mnemonic = "angle brush often act butter universe strong produce fade economy report myth";

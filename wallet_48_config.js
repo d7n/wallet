@@ -1,1 +1,1 @@
-var mnemonic = "slight parade elephant pottery smoke toilet team clever decide above eagle boil";
+var mnemonic = "kite bench foil symptom supply employ sausage announce dash what virus relief";

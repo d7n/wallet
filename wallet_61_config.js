@@ -1,1 +1,1 @@
-var mnemonic = "lens trash tackle struggle huge motor junk bunker world peace oak tag";
+var mnemonic = "fade fabric attend service increase glide reason clock settle valid raven jewel";

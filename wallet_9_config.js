@@ -1,1 +1,1 @@
-var mnemonic = "job clay market hill chest obey skate hour grace young elevator element";
+var mnemonic = "drill feel boss stairs lady company unknown there modify direct morning relax";

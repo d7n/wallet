@@ -1,1 +1,1 @@
-var mnemonic = "poem oil fiscal silver rescue announce awful shadow mercy grief ahead solution";
+var mnemonic = "ice decide fantasy people wait evoke ready lens office between worth rather";

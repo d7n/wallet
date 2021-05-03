@@ -1,1 +1,1 @@
-var mnemonic = "baby grunt category odor talk decline birth shadow reason fetch spike aerobic";
+var mnemonic = "idea denial agent love piano awesome loud endless knock exact guitar soda";

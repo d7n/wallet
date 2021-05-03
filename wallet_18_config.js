@@ -1,1 +1,1 @@
-var mnemonic = "exercise stove unknown bounce island call flock lesson soccer cry transfer defense";
+var mnemonic = "bonus run autumn lake plate short point sick elegant thumb voice suit";

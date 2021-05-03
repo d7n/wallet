@@ -1,1 +1,1 @@
-var mnemonic = "cabin pass hip sound truck second gap still trust nephew scrap average";
+var mnemonic = "club cannon lion report stay fragile coffee naive much pear dolphin provide";

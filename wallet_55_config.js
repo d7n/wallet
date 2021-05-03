@@ -1,1 +1,1 @@
-var mnemonic = "fringe menu grace shiver canyon mouse bleak next lens erase torch wrestle";
+var mnemonic = "stem rare give teach neglect quality discover parrot peace corn warfare scrub";

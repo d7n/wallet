@@ -1,1 +1,1 @@
-var mnemonic = "squirrel truly forest eager theme canyon unaware bar clever latin vault image";
+var mnemonic = "build search seminar scatter easy trend blanket mammal jewel throw zero dilemma";

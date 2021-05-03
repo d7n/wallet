@@ -1,1 +1,1 @@
-var mnemonic = "wrestle home dice tower pulse neglect south journey sting decade alley harvest";
+var mnemonic = "lizard script loan remind party sibling rapid width custom ice captain organ";

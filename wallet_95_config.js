@@ -1,1 +1,1 @@
-var mnemonic = "become flash popular manual cinnamon entire transfer tissue fox inform thing chuckle";
+var mnemonic = "reopen blanket order spirit silly oyster carpet novel upgrade bag message atom";

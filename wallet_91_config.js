@@ -1,1 +1,1 @@
-var mnemonic = "upper reveal pink squirrel hollow online bitter critic rebuild parent oxygen neck";
+var mnemonic = "face dwarf dose gossip betray zone impose shoulder gospel leopard over asset";

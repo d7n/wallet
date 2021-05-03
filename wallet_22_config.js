@@ -1,1 +1,1 @@
-var mnemonic = "destroy magnet frequent liberty quick excess occur boil alcohol owner salute output";
+var mnemonic = "expand rain panda notice focus exotic taxi aerobic yellow planet oval same";

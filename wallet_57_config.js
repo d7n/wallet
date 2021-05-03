@@ -1,1 +1,1 @@
-var mnemonic = "finish trophy bright myself mail retire satisfy pride face jungle huge three";
+var mnemonic = "hen strategy limb force sunny unit lock mean eager talent fatal riot";

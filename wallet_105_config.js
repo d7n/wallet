@@ -1,1 +1,1 @@
-var mnemonic = "math topple adjust tilt clay gun garment enrich transfer jungle issue cruel";
+var mnemonic = "under chief melody summer resist alpha laptop trade program dutch pond hawk";

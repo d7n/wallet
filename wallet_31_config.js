@@ -1,1 +1,1 @@
-var mnemonic = "stock snake upgrade actual initial bracket solid cinnamon surge flame essence public";
+var mnemonic = "agent smile ivory cushion little salt orchard pumpkin lazy wife help verify";

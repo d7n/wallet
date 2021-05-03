@@ -1,1 +1,1 @@
-var mnemonic = "spirit amused dignity rocket near execute office stay sausage bitter property balance";
+var mnemonic = "faculty uncle gain cigar swim creek pizza survey weather sock decade garlic";

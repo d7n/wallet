@@ -1,1 +1,1 @@
-var mnemonic = "security rice night lounge matter distance relief early rally act topple glimpse";
+var mnemonic = "music cruel adjust verify witness fat stuff goat vendor shine sadness feed";

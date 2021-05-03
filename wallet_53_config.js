@@ -1,1 +1,1 @@
-var mnemonic = "gadget call crazy leaf gravity swap learn asset mechanic bronze runway mouse";
+var mnemonic = "unusual add fuel novel shuffle reform syrup doll thunder atom prosper space";

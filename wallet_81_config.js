@@ -1,1 +1,1 @@
-var mnemonic = "lobster jeans task leaf bench empty garment primary iron lion extend local";
+var mnemonic = "board forest airport stairs bitter example lazy hobby october comfort frozen agent";

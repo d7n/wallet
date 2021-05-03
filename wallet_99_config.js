@@ -1,1 +1,1 @@
-var mnemonic = "neglect fashion bargain razor license surround fork style aware judge umbrella turn";
+var mnemonic = "raise thrive round first soap spawn risk never portion combine jar youth";

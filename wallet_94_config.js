@@ -1,1 +1,1 @@
-var mnemonic = "only fantasy tail life melody wear page differ venue derive quantum destroy";
+var mnemonic = "real conduct saddle all upon rival coast steak mule amount sing purchase";

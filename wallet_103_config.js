@@ -1,1 +1,1 @@
-var mnemonic = "cup duty cousin frequent frame attract submit rotate mutual forum aware subway";
+var mnemonic = "genius thought welcome lesson diet squeeze amazing soon glad judge crawl lizard";

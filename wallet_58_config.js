@@ -1,1 +1,1 @@
-var mnemonic = "thought coast blue order crystal clarify gate jar valve lonely cloud wall";
+var mnemonic = "quality valve duty push result vapor curve entry jealous good stone journey";

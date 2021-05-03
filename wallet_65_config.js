@@ -1,1 +1,1 @@
-var mnemonic = "plate abstract coconut festival violin vacant when fitness tragic common secret wood";
+var mnemonic = "apology random pet impose sound squeeze alter grass steel taxi risk average";

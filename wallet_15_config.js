@@ -1,1 +1,1 @@
-var mnemonic = "envelope elegant warrior case host problem rail below option must ill embark";
+var mnemonic = "toss refuse arrange ceiling notable clap unlock erupt unable sibling truck creek";

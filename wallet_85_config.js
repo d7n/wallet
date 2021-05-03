@@ -1,1 +1,1 @@
-var mnemonic = "casino crouch sweet absorb vote can logic member belt favorite crawl spy";
+var mnemonic = "warm toe huge evidence alpha nation flower oak cactus amateur disease window";

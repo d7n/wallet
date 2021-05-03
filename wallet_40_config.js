@@ -1,1 +1,1 @@
-var mnemonic = "attack renew avocado cousin bubble brother write diesel attend strategy lava athlete";
+var mnemonic = "lucky rely crash puppy rate scare oxygen leisure section earth panda verb";

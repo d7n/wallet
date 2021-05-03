@@ -1,1 +1,1 @@
-var mnemonic = "song system term twice panther found object giraffe sword ahead lake congress";
+var mnemonic = "act better lesson swarm little today test skirt balcony truly cupboard actress";

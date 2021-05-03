@@ -1,1 +1,1 @@
-var mnemonic = "produce vague tattoo comfort movie teach vehicle exclude indicate tube lottery leisure";
+var mnemonic = "acquire simple coyote drama thumb diesel south stamp useless connect runway promote";

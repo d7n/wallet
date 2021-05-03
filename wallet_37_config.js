@@ -1,1 +1,1 @@
-var mnemonic = "wonder infant purse tumble online output scan lunch valley any summer transfer";
+var mnemonic = "vague endless lobster emerge primary question small disorder shed thank sunny cruise";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss purchase time leisure process shaft draft kite bar order cushion ticket";
+var mnemonic = "prison copper color define aspect spread nuclear portion clinic wing gauge humble";
