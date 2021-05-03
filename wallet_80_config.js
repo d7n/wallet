@@ -1,1 +1,1 @@
-var mnemonic = "design void pride diary ramp slide turn hobby salad century mistake clump";
+var mnemonic = "rate cement grab robust surround knock remember blind combine hover pave senior";

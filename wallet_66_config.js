@@ -1,1 +1,1 @@
-var mnemonic = "web degree render kiss heart spell vocal odor throw credit honey proof";
+var mnemonic = "actual remind bind seminar about force gorilla humble door credit exchange profit";

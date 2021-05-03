@@ -1,1 +1,1 @@
-var mnemonic = "doll option dutch document breeze layer fog brush appear dream visual december";
+var mnemonic = "net buffalo bottom quality lock link pigeon sign pupil valid hub great";

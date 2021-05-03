@@ -1,1 +1,1 @@
-var mnemonic = "enjoy brown social cotton mother bid angle kind give cactus fetch furnace";
+var mnemonic = "lesson fiber analyst blossom shrimp embody victory language mammal glue marine noble";

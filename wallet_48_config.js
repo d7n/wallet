@@ -1,1 +1,1 @@
-var mnemonic = "escape language gadget monkey kangaroo shrug used dwarf grid merit dumb globe";
+var mnemonic = "rapid correct click happy ill moment neutral clever below blood dwarf toy";

@@ -1,1 +1,1 @@
-var mnemonic = "youth payment blush permit segment knee sugar cigar display suffer else orphan";
+var mnemonic = "goat life capital cute rude child month eternal leaf cruise rotate glue";

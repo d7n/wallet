@@ -1,1 +1,1 @@
-var mnemonic = "require blanket wealth twelve palace recipe bleak acquire shaft torch monkey quiz";
+var mnemonic = "opera quiz work cat repair produce local hover just educate novel cancel";

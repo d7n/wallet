@@ -1,1 +1,1 @@
-var mnemonic = "atom syrup impulse balcony midnight latin arrest pool album type burden dawn";
+var mnemonic = "edit devote twist coach essence upon remove fall direct nation glare despair";

@@ -1,1 +1,1 @@
-var mnemonic = "man detect involve excess join similar blood promote avoid faculty culture sheriff";
+var mnemonic = "worth dog smile six matrix large beyond rescue fame door disease slice";

@@ -1,1 +1,1 @@
-var mnemonic = "estate dress right educate powder caution absurd conduct renew snack electric buyer";
+var mnemonic = "enroll ocean young crazy barely pepper rib ribbon spirit will wire between";

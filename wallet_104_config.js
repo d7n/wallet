@@ -1,1 +1,1 @@
-var mnemonic = "become holiday length delay plate gauge prison dust flock brand clerk inflict";
+var mnemonic = "truck once soda ride like clog forest sand credit vast huge public";

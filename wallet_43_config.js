@@ -1,1 +1,1 @@
-var mnemonic = "urban imitate ghost surprise demise monkey cotton exile copper donor risk visual";
+var mnemonic = "trust wine purchase fiction quantum future bridge chuckle frown deer fuel cherry";

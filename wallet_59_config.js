@@ -1,1 +1,1 @@
-var mnemonic = "mercy prepare engine able chair comfort novel bid inflict donate cattle unit";
+var mnemonic = "struggle sponsor girl simple beef element perfect unit use tomato often essay";

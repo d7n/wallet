@@ -1,1 +1,1 @@
-var mnemonic = "pass donor knee below vapor door nothing old speak ginger cupboard donate";
+var mnemonic = "december mean again wage theme wage tent gain upon build gold hip";

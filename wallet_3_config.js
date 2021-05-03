@@ -1,1 +1,1 @@
-var mnemonic = "witness clay zoo virus love garbage blood armed slow track air myth";
+var mnemonic = "marble thank dizzy confirm void year protect source approve gallery ocean hero";

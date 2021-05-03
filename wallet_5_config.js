@@ -1,1 +1,1 @@
-var mnemonic = "solid play vault permit liberty pull cream able word deputy crawl pudding";
+var mnemonic = "media push century rude exotic draw glory surprise split magic pudding home";

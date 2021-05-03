@@ -1,1 +1,1 @@
-var mnemonic = "fantasy ecology human elephant today picture gain comfort kit motion card weekend";
+var mnemonic = "pair execute cake all hire history fall post model century priority test";

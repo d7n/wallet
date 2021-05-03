@@ -1,1 +1,1 @@
-var mnemonic = "good elephant arch glue absurd convince screen family payment hospital finish lens";
+var mnemonic = "winter tower labor nice census caught void trouble foot exotic pause glare";

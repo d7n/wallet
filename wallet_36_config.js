@@ -1,1 +1,1 @@
-var mnemonic = "buddy parrot empty boil swift cinnamon sustain mango hero manage victory path";
+var mnemonic = "benefit crane swap alpha toy ask swift load news twin rubber helmet";

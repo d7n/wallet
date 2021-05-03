@@ -1,1 +1,1 @@
-var mnemonic = "swap rent crisp craft tree dynamic pretty employ solar wasp yard dynamic";
+var mnemonic = "nerve kiwi enroll gun midnight buzz cherry lonely erupt echo corn salad";

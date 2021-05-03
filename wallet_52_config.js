@@ -1,1 +1,1 @@
-var mnemonic = "coyote object ready napkin salad grant act acid increase flag issue cause";
+var mnemonic = "skull spirit month decorate nasty student auto cry wrong breeze fruit family";

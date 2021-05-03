@@ -1,1 +1,1 @@
-var mnemonic = "latin warfare paddle crowd illness absent misery satisfy iron spray vintage million";
+var mnemonic = "trumpet dizzy kitchen metal spot spirit silent impact omit allow robust renew";

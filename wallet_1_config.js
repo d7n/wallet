@@ -1,1 +1,1 @@
-var mnemonic = "armed satoshi wagon relief grid allow metal fork response eternal vacant spatial";
+var mnemonic = "seed copper crazy favorite crowd junk infant dizzy moon alter try discover";

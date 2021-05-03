@@ -1,1 +1,1 @@
-var mnemonic = "cushion road reveal orphan position monitor vote rebel dignity false balance reflect";
+var mnemonic = "join secret ceiling welcome above noodle steel adjust submit enjoy sunset produce";

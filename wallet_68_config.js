@@ -1,1 +1,1 @@
-var mnemonic = "filter matter response immense old curtain laundry rug stove blade tumble arm";
+var mnemonic = "flame key sell stock library collect banner coral public era trigger valley";

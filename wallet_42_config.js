@@ -1,1 +1,1 @@
-var mnemonic = "denial churn unfold blur ginger tissue glory pigeon negative urge bachelor good";
+var mnemonic = "saddle swift above protect cage baby connect sting zoo catch enough idea";

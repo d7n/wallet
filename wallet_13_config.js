@@ -1,1 +1,1 @@
-var mnemonic = "ensure bubble eternal half asthma dizzy acquire state coconut soft elder garbage";
+var mnemonic = "snack rotate rural health heavy leg front lumber impulse just spatial one";

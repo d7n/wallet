@@ -1,1 +1,1 @@
-var mnemonic = "burst year often please filter pill three grief purse scare element unique";
+var mnemonic = "inner ride clock pigeon error tortoise youth blanket box brass tiny debris";

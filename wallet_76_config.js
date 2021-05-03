@@ -1,1 +1,1 @@
-var mnemonic = "main fossil banner crew range income ticket patient panther foil area language";
+var mnemonic = "bottom veteran mad hole object amused bag episode puzzle found champion hand";

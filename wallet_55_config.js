@@ -1,1 +1,1 @@
-var mnemonic = "opera loud pupil toast maple dream conduct photo attack ensure tray spend";
+var mnemonic = "multiply head endless agent dentist atom violin actress card what hover prepare";

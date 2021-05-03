@@ -1,1 +1,1 @@
-var mnemonic = "stay victory sail insect august culture cook genuine raise lobster price melt";
+var mnemonic = "feature sail thrive tomorrow purity such pitch blue total unable minor thing";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel flash process alone idle van remember bean nut plate holiday memory";
+var mnemonic = "coyote pony label involve boost differ core social syrup neither wheat craft";

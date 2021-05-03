@@ -1,1 +1,1 @@
-var mnemonic = "crater solution ivory drama essay number inject cactus police absurd found destroy";
+var mnemonic = "job balance silk put alien ozone online scale cat enough grant enhance";

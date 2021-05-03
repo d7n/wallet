@@ -1,1 +1,1 @@
-var mnemonic = "major behind metal dial spike staff govern deputy increase rescue era rapid";
+var mnemonic = "thrive exist second reform tornado wide foam pudding check long hello lens";

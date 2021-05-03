@@ -1,1 +1,1 @@
-var mnemonic = "sweet anxiety drama various army cactus alpha physical hover double echo arch";
+var mnemonic = "dune reunion cook fitness honey column void shoe dizzy forest lounge jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "atom door can shock worry bus depth assist gaze artefact ladder pupil";
+var mnemonic = "depth rebel supreme practice limit math whip arrest much trend smile city";

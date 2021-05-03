@@ -1,1 +1,1 @@
-var mnemonic = "arrange core arctic youth hard sock artwork office curve slice race expire";
+var mnemonic = "oxygen devote approve motion repeat disagree siren jacket model high cigar sweet";

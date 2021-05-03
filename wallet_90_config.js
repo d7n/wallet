@@ -1,1 +1,1 @@
-var mnemonic = "hamster spoon dynamic scale sunny same loop scale faith life time van";
+var mnemonic = "trigger denial few urge salute kingdom unable destroy nose upgrade merry slim";

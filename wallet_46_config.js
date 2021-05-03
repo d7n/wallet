@@ -1,1 +1,1 @@
-var mnemonic = "supreme million evidence picnic nose salute damage supreme quick wrap fish burger";
+var mnemonic = "all ritual critic rocket tenant pluck board fiction mandate early mule insane";

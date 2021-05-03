@@ -1,1 +1,1 @@
-var mnemonic = "student body trial electric fatigue hawk build syrup useful prevent very subject";
+var mnemonic = "fame scale unique left online taste leg pact patrol style cinnamon subject";

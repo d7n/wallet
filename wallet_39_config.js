@@ -1,1 +1,1 @@
-var mnemonic = "square submit noble hip hill pair metal kite wonder brown unveil myth";
+var mnemonic = "violin latin imitate false credit park paddle senior power miracle monitor fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "history pulse peanut lady fiber payment avoid subway return glory judge act";
+var mnemonic = "behind toast idea tornado law bean motor apology myth act fee acid";

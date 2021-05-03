@@ -1,1 +1,1 @@
-var mnemonic = "arena always outer gauge harbor pair muscle idle head install regret eight";
+var mnemonic = "borrow energy toss video virus between couple little rookie category require feature";

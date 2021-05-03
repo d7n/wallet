@@ -1,1 +1,1 @@
-var mnemonic = "position woman before elite this treat oyster retire suffer rally fat day";
+var mnemonic = "cram horse original journey melt puzzle acquire sweet way six onion shallow";

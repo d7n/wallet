@@ -1,1 +1,1 @@
-var mnemonic = "neglect limit surprise jazz elevator boat apart shock crater edit acoustic badge";
+var mnemonic = "seek loop rapid service lens finger response wrap million false flip gasp";

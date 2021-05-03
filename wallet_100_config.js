@@ -1,1 +1,1 @@
-var mnemonic = "fall wire captain coast confirm pretty drill strong prevent inmate family skill";
+var mnemonic = "occur middle name age adjust asset sugar unlock antique draw furnace arm";

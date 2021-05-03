@@ -1,1 +1,1 @@
-var mnemonic = "provide scheme lawn decide flat wave amount cat topic apple meadow awkward";
+var mnemonic = "scare kiwi during health note learn follow inhale update mercy inform movie";

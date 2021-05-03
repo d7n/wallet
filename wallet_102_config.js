@@ -1,1 +1,1 @@
-var mnemonic = "onion match divorce horn category trumpet sudden legend high ship warfare emotion";
+var mnemonic = "ocean disease runway good nominee shrimp tank tennis strategy carpet inform film";

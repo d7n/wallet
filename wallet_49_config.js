@@ -1,1 +1,1 @@
-var mnemonic = "pact mutual galaxy sleep joy chicken horse promote symbol spray exile tide";
+var mnemonic = "reward glove elder joke hard riot reason impulse guitar capital shoot axis";

@@ -1,1 +1,1 @@
-var mnemonic = "strong color yard ketchup tail slot oblige diary settle giant orphan quit";
+var mnemonic = "very pulse attack scare method donor six trick essay lawn vocal twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "ship stairs steel essay wink afford setup curve saddle affair marriage rose";
+var mnemonic = "spread lake stem toe rapid coyote raise syrup annual lamp aerobic situate";

@@ -1,1 +1,1 @@
-var mnemonic = "pony short soup ridge expand switch code swim point soldier elevator lawsuit";
+var mnemonic = "cloud card deer report immune cruel logic lottery day abandon grain grab";

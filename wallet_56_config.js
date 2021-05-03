@@ -1,1 +1,1 @@
-var mnemonic = "raccoon police reunion alarm solution pave assist eternal range wash manage island";
+var mnemonic = "mirror notable now evolve omit motion sand ecology logic galaxy expire client";

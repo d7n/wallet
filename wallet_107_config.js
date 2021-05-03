@@ -1,1 +1,1 @@
-var mnemonic = "tattoo syrup diamond skill behave page portion funny card clip better coconut";
+var mnemonic = "jazz brand bring finish middle icon dragon piano primary exit soap salad";

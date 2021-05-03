@@ -1,1 +1,1 @@
-var mnemonic = "supply grit kiwi swift hover bitter music play minute tiny cinnamon boat";
+var mnemonic = "spider swamp easy harbor ten then tourist kid script agree correct cabin";

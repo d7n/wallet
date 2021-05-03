@@ -1,1 +1,1 @@
-var mnemonic = "quick depart glass devote decorate attend goose kidney used view pudding vicious";
+var mnemonic = "process mystery ripple quote volume stand alter quick fitness flat iron scrub";

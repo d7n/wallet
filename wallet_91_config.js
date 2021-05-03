@@ -1,1 +1,1 @@
-var mnemonic = "forget ordinary soup uncle genius waste rice aunt regret rocket immense cage";
+var mnemonic = "target hover myth inflict unknown link hundred bamboo silk test pen lobster";

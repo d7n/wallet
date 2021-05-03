@@ -1,1 +1,1 @@
-var mnemonic = "able aerobic wool stable file because chapter host isolate render proud iron";
+var mnemonic = "book shallow tumble biology plunge ozone involve tissue kangaroo zoo sorry bright";

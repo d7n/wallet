@@ -1,1 +1,1 @@
-var mnemonic = "comfort dust stumble ketchup practice anxiety kangaroo dice front winter donate news";
+var mnemonic = "shield general lift fever mountain volcano puzzle foam cave element baby remind";

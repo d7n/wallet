@@ -1,1 +1,1 @@
-var mnemonic = "figure coin desert phone champion clown behind jazz debris become winter group";
+var mnemonic = "okay caution raw cargo canoe crumble fun immense build destroy pioneer actual";

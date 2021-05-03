@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin earn noise scan ramp hen right token social destroy hurry nuclear";
+var mnemonic = "tomato foam tennis scatter enhance keen business limb tooth spot cheese park";

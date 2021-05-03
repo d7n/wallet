@@ -1,1 +1,1 @@
-var mnemonic = "ramp clean menu awkward fish mercy alarm better crime math depend eager";
+var mnemonic = "settle apart south piece easily obscure apart fury rule close damp burger";

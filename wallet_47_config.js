@@ -1,1 +1,1 @@
-var mnemonic = "canvas voyage custom cotton verify tiny basket canvas cruise avoid focus spoon";
+var mnemonic = "fiscal wise enjoy uncover repair struggle plate diesel security people box glance";

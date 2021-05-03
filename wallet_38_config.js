@@ -1,1 +1,1 @@
-var mnemonic = "sand cargo swing animal frog crazy poverty nature radar grit water provide";
+var mnemonic = "oppose agent alcohol release involve bus top feel surprise rely slice dizzy";

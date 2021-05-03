@@ -1,1 +1,1 @@
-var mnemonic = "then pair trip bag decline penalty nephew hover tongue theme urban glance";
+var mnemonic = "admit erupt frown drum upgrade spy rely cover alert shiver bottom acquire";

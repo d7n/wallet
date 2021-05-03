@@ -1,1 +1,1 @@
-var mnemonic = "large resemble dawn march pitch lunch scout rocket post used enough ancient";
+var mnemonic = "fun faith warm blur art marine multiply craft suspect ring reject violin";

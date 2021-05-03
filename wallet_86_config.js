@@ -1,1 +1,1 @@
-var mnemonic = "senior engine casual survey all hidden social borrow elder approve connect rather";
+var mnemonic = "beyond hollow foot mechanic surround card north second rain clay job crawl";

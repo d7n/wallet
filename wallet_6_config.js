@@ -1,1 +1,1 @@
-var mnemonic = "trick obtain behind artwork believe oil arrive neither lady pottery tell tumble";
+var mnemonic = "view plastic square medal merge region size clay gloom include sort parade";

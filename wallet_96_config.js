@@ -1,1 +1,1 @@
-var mnemonic = "mutual post pink spider mixed loan online clog sight coconut motor unhappy";
+var mnemonic = "today initial repeat isolate hurdle payment extend member kidney intact birth double";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh type cabin route soldier short monitor panda sweet you clap south";
+var mnemonic = "parade slab join appear ill crop moral letter juice pizza absent ostrich";

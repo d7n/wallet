@@ -1,1 +1,1 @@
-var mnemonic = "bicycle size kick wagon idea damage pattern upper dust nature high mad";
+var mnemonic = "trouble pigeon popular exclude common recycle bunker mystery citizen announce radar bicycle";

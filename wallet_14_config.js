@@ -1,1 +1,1 @@
-var mnemonic = "pencil post dawn odor hip eyebrow copy dice movie quit crush sign";
+var mnemonic = "make impose attract conduct canyon wreck work decide script jacket ozone occur";

@@ -1,1 +1,1 @@
-var mnemonic = "hand mandate crunch risk wet path hammer common submit focus congress crack";
+var mnemonic = "fix captain brass veteran hawk figure arena error denial frame dignity skate";

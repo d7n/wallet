@@ -1,1 +1,1 @@
-var mnemonic = "salute loud begin dwarf inner uncover wolf appear defy swarm normal ramp";
+var mnemonic = "people split shadow earth bird chapter luxury mention kit figure fan call";

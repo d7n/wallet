@@ -1,1 +1,1 @@
-var mnemonic = "collect artwork spring clarify love rose opinion anger doctor portion sad since";
+var mnemonic = "oak robust frost bring chair broccoli grit return erosion warm health dust";

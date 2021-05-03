@@ -1,1 +1,1 @@
-var mnemonic = "suffer deal piece silver wheat current foot setup dragon feed today present";
+var mnemonic = "dolphin find solve neglect regret example wreck scale dutch give toe hole";

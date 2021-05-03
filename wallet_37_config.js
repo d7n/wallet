@@ -1,1 +1,1 @@
-var mnemonic = "unique digital smile rug april tunnel sadness warfare tenant protect humble guilt";
+var mnemonic = "design soul team local year federal panic frost brick pig manual upon";

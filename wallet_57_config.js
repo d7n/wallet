@@ -1,1 +1,1 @@
-var mnemonic = "lake time can vapor egg motion diagram excess relief habit goose lumber";
+var mnemonic = "light space promote level alien waste trust horror boil girl shrug adapt";

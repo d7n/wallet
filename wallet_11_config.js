@@ -1,1 +1,1 @@
-var mnemonic = "skirt evolve jungle urge taste arrange hand sand middle impulse number drastic";
+var mnemonic = "palace ozone cabin urban over cheap edit inside daughter island hungry excite";

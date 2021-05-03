@@ -1,1 +1,1 @@
-var mnemonic = "library girl write disagree hint tired illness tourist fox allow vibrant october";
+var mnemonic = "emerge step giraffe leopard absorb fuel across chaos access install silk rough";

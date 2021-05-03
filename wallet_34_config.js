@@ -1,1 +1,1 @@
-var mnemonic = "mention achieve menu father come turn barely noodle monitor creek enough spike";
+var mnemonic = "either upset rich antique leave farm plunge wage garden water barely foster";

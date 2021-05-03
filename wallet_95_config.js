@@ -1,1 +1,1 @@
-var mnemonic = "good monitor between explain dizzy gather fiber tower assume chicken jump oppose";
+var mnemonic = "ordinary float duck mobile person genius cover erosion diagram cradle drill sugar";

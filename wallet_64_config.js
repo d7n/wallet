@@ -1,1 +1,1 @@
-var mnemonic = "cycle siren chaos depth benefit gloom steel timber damp lunar cable earn";
+var mnemonic = "shield reward farm design wet vanish green same illness crew company motion";

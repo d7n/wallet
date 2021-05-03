@@ -1,1 +1,1 @@
-var mnemonic = "truck coconut snake field benefit someone business picnic tissue infant dwarf income";
+var mnemonic = "rug elite satoshi ripple hundred energy jar alpha guide security giraffe retire";

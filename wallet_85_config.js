@@ -1,1 +1,1 @@
-var mnemonic = "fitness visit saddle enlist wall distance trend south auto divert lunar they";
+var mnemonic = "fix now memory twist slight muffin nasty trouble swim trade elder arch";

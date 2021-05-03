@@ -1,1 +1,1 @@
-var mnemonic = "claw disagree high attend grain jump ship catalog elephant churn unfold solar";
+var mnemonic = "ritual candy include merry hip hip palm venue bunker shuffle voice dial";

@@ -1,1 +1,1 @@
-var mnemonic = "soup item cabbage lava prison spice ridge clever increase approve nice plastic";
+var mnemonic = "name method twenty gather cat step amazing squirrel imitate novel miracle situate";

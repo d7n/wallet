@@ -1,1 +1,1 @@
-var mnemonic = "pulse barrel outside invite core wealth limb rain square benefit world volume";
+var mnemonic = "cannon raven enjoy lyrics wave define welcome dismiss present miracle one little";

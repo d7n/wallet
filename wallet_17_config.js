@@ -1,1 +1,1 @@
-var mnemonic = "design noise oak honey pill curve rib verify grid mechanic champion notice";
+var mnemonic = "reform twist grunt segment supreme rally coyote flush bird board oyster ball";

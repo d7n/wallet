@@ -1,1 +1,1 @@
-var mnemonic = "isolate matrix human assist poem diesel nice clap online gas code debris";
+var mnemonic = "fossil travel print light ceiling sample share donate crawl pizza match later";
