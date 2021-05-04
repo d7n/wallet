@@ -1,1 +1,1 @@
-var mnemonic = "fire truly comic eternal filter main tired impulse like seven manual add";
+var mnemonic = "youth warrior skirt student expect marriage capable ostrich vacant lava hunt suspect";

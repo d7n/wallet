@@ -1,1 +1,1 @@
-var mnemonic = "survey convince tag isolate bubble grief parrot arena rice office nephew jewel";
+var mnemonic = "scrub pass general rabbit actual dust machine strong stairs wheat sheriff village";

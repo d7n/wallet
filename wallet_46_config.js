@@ -1,1 +1,1 @@
-var mnemonic = "genius crater mesh rate blue method business slot toast flower flavor around";
+var mnemonic = "enable flat toast road later casino nasty cheap path sugar boost blood";

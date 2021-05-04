@@ -1,1 +1,1 @@
-var mnemonic = "plate profit online ten seminar scene man basket fruit rail outer color";
+var mnemonic = "endless shoe silent dice age dentist eight game rely lemon book thrive";

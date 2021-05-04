@@ -1,1 +1,1 @@
-var mnemonic = "toilet side embrace topic balance open blind armor hill canoe afford citizen";
+var mnemonic = "object stone enjoy horn obtain script error series blanket camp soldier shiver";

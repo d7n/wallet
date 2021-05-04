@@ -1,1 +1,1 @@
-var mnemonic = "follow fuel luggage attitude firm eye artefact walk cereal discover foster section";
+var mnemonic = "ghost island occur muscle fix model shaft easily science joy park identify";

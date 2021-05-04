@@ -1,1 +1,1 @@
-var mnemonic = "mass tomato earn room scan dolphin glimpse push enroll night naive cake";
+var mnemonic = "empower install invest race region rescue nice pioneer response split dismiss fog";

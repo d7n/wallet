@@ -1,1 +1,1 @@
-var mnemonic = "amazing pottery average quality admit benefit settle brand curtain elevator deer allow";
+var mnemonic = "tilt modify oyster raw trim pen affair twist memory obscure spider slot";

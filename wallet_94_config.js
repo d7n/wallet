@@ -1,1 +1,1 @@
-var mnemonic = "melody cinnamon fitness fossil modify kitten among beyond jacket anxiety flip today";
+var mnemonic = "gaze north online casual timber wide point round round profit error cash";

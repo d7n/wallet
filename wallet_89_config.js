@@ -1,1 +1,1 @@
-var mnemonic = "raven neutral wink already strike bubble armed original phrase egg side thumb";
+var mnemonic = "skin purity satoshi diary uniform deputy upper mystery cherry civil inch pave";

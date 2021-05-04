@@ -1,1 +1,1 @@
-var mnemonic = "ball flat author vehicle leg erosion inspire basic manual patrol happy agent";
+var mnemonic = "cluster spice fuel rail fiber gate merit town plastic limit sadness gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct wash quit slab fiction tuna describe car able pact solid ugly";
+var mnemonic = "tired trade remind bleak grape mountain enjoy grant mouse cloud upon cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "loop easy nation twist cannon movie health horn hospital loop feel transfer";
+var mnemonic = "frequent remember knee elite portion example depth motion night spoil express quarter";

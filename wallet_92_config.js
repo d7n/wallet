@@ -1,1 +1,1 @@
-var mnemonic = "hurry rent argue congress will lava pear spoil weasel need connect universe";
+var mnemonic = "ski repair thank divorce pony save minute toward piano blind explain swallow";

@@ -1,1 +1,1 @@
-var mnemonic = "save empower quantum sponsor green yard into level online dignity analyst airport";
+var mnemonic = "bachelor shell glimpse rude border wisdom coil dream earth ranch enlist spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "winner legend seed leader palm glue search educate lift autumn pink poet";
+var mnemonic = "danger kind happy pelican rebuild gas festival egg now genre pool stumble";

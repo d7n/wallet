@@ -1,1 +1,1 @@
-var mnemonic = "wish practice legal crash ten hour timber twice royal glove level ritual";
+var mnemonic = "lawn depart guess ask inner someone usage gate guess reject silk talk";

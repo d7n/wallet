@@ -1,1 +1,1 @@
-var mnemonic = "chat team system knife control raw crack trim genuine cluster undo city";
+var mnemonic = "skate peanut farm nurse seed mistake improve perfect theory spread shrimp now";

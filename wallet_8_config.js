@@ -1,1 +1,1 @@
-var mnemonic = "admit extra diagram recall ecology office canyon novel control garden exotic panel";
+var mnemonic = "hidden hill front soldier seek clinic call know kangaroo exhaust arena suggest";

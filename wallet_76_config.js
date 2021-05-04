@@ -1,1 +1,1 @@
-var mnemonic = "powder camp parade fluid mosquito egg shoot lyrics venue enlist hawk exit";
+var mnemonic = "soul film salon knife cargo swear alien vendor cancel team sad upper";

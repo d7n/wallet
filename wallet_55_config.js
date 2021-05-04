@@ -1,1 +1,1 @@
-var mnemonic = "receive slam disagree minute slot bag panel balcony stem matrix marine cake";
+var mnemonic = "name nominee pipe acoustic blame monster meat access jeans humor ketchup enrich";

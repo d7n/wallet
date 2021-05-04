@@ -1,1 +1,1 @@
-var mnemonic = "artist source note west trouble reflect spell travel quarter cruel apology exclude";
+var mnemonic = "caution spare donkey pumpkin slight chapter vote build mean demise dynamic priority";

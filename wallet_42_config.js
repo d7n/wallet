@@ -1,1 +1,1 @@
-var mnemonic = "report logic bitter view finish south hollow merry siren fashion anxiety school";
+var mnemonic = "grocery trust box mystery tennis three scheme multiply close october spirit century";

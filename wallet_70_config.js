@@ -1,1 +1,1 @@
-var mnemonic = "either secret kid rival chalk remove always arrest rural okay improve negative";
+var mnemonic = "camera advance image witness uphold below axis bike consider fury decorate stove";

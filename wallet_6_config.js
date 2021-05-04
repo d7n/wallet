@@ -1,1 +1,1 @@
-var mnemonic = "usage junk use unlock tourist swamp agree glad city sponsor color blush";
+var mnemonic = "off pilot wisdom produce sustain outer raise delay page digital weasel garage";

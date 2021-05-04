@@ -1,1 +1,1 @@
-var mnemonic = "forest priority spatial crater income mushroom involve tell budget result sing bar";
+var mnemonic = "planet rally arch slush pulse shoot spawn cream soon rib market property";

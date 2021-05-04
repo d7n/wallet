@@ -1,1 +1,1 @@
-var mnemonic = "talk hero caught hint spot wasp swim mad warrior long sort hen";
+var mnemonic = "chase device live effort lunch direct utility east select husband soon super";

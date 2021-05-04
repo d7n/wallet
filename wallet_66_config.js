@@ -1,1 +1,1 @@
-var mnemonic = "brass essay decade element hurry angry boil merry youth fiber alpha learn";
+var mnemonic = "mention before horse winner deer off someone valley general vanish right corn";

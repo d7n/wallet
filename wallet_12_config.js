@@ -1,1 +1,1 @@
-var mnemonic = "lava grab pink autumn dish pepper parrot thrive potato novel nose save";
+var mnemonic = "notable drill essay vacuum twin census canvas silly hotel supply chest limit";

@@ -1,1 +1,1 @@
-var mnemonic = "earn audit month hamster install wide eternal today rack purchase quarter bar";
+var mnemonic = "forum doctor horn wheel mail shop exchange faint dumb bind buzz minimum";

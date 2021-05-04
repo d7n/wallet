@@ -1,1 +1,1 @@
-var mnemonic = "immune cash fit trial dose unveil borrow city cheap laugh humor aerobic";
+var mnemonic = "hard throw uncle size duck little badge duck shoot rule birth favorite";

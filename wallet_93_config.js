@@ -1,1 +1,1 @@
-var mnemonic = "toddler easily apart flower hole food fragile magic shoot away very supreme";
+var mnemonic = "world island nation caught fancy toss finger link helmet keen salmon nation";

@@ -1,1 +1,1 @@
-var mnemonic = "uphold salmon toe dust twist calm sketch cream intact valid exercise scout";
+var mnemonic = "topic canoe smart summer arena will plunge melody month usual stereo purpose";

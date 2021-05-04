@@ -1,1 +1,1 @@
-var mnemonic = "crew toss hood jungle invest pipe harsh gate office yellow popular tunnel";
+var mnemonic = "dynamic base mind multiply clog over umbrella claw ramp drum dinosaur cactus";

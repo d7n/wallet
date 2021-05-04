@@ -1,1 +1,1 @@
-var mnemonic = "sing keen guess gallery razor wise cave wait display peanut table decrease";
+var mnemonic = "waste rule spray sick wife only dawn ocean menu flash school own";

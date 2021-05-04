@@ -1,1 +1,1 @@
-var mnemonic = "off question garment machine destroy car sudden garden height expand present tumble";
+var mnemonic = "elegant actor device join nurse use tooth symptom attend video tuition fantasy";

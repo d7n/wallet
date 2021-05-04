@@ -1,1 +1,1 @@
-var mnemonic = "fetch radio deposit birth use delay neck original member flame equip napkin";
+var mnemonic = "unit tilt mirror theory rocket clump jealous category harsh grab only despair";

@@ -1,1 +1,1 @@
-var mnemonic = "feature wage caught combine kind awkward shadow noise very cup agent follow";
+var mnemonic = "sketch lunar someone rubber pluck play hole element bullet coral record stay";

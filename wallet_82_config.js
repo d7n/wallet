@@ -1,1 +1,1 @@
-var mnemonic = "globe garment prison dance nation actor shed analyst mansion betray orbit switch";
+var mnemonic = "tail enact slogan custom nut check magnet demand exile welcome palace canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "egg federal siren vicious predict sadness zebra oak pool curtain observe cricket";
+var mnemonic = "develop broken photo aware obey inflict leopard fix into employ soccer name";

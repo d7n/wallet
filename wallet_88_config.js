@@ -1,1 +1,1 @@
-var mnemonic = "acoustic cricket junior barely oval cloud egg claw smart fantasy monkey infant";
+var mnemonic = "secret happy swallow cousin enact buffalo race actual general firm ticket file";

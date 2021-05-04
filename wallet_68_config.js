@@ -1,1 +1,1 @@
-var mnemonic = "situate key minimum dove economy box update that this stem derive despair";
+var mnemonic = "asthma dice rib ball decade funny clap seed sad derive next plastic";

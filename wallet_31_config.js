@@ -1,1 +1,1 @@
-var mnemonic = "cricket ribbon ahead plastic find glory snap major green rib ranch shove";
+var mnemonic = "shiver wish fever number vocal verb adapt seven maple forest upper shallow";

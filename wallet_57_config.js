@@ -1,1 +1,1 @@
-var mnemonic = "deer fall room fun cake snack impact into gold become leave useless";
+var mnemonic = "happy enroll lamp local lucky tuna stereo hamster double vital ordinary noodle";

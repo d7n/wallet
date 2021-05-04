@@ -1,1 +1,1 @@
-var mnemonic = "engine year often arrest there celery transfer typical unfold joy lecture vintage";
+var mnemonic = "result settle shove finger exile elbow roof hire oxygen guilt vehicle visual";

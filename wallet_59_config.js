@@ -1,1 +1,1 @@
-var mnemonic = "return rhythm labor allow convince fox bamboo cat dash maid drink mercy";
+var mnemonic = "cousin jealous dolphin borrow copy maple because spy various transfer arena wall";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust squirrel quick mixed income teach nest speak cotton sudden affair benefit";
+var mnemonic = "head dance stumble gauge offer wrap planet paper bid observe goddess kid";

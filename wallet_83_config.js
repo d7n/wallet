@@ -1,1 +1,1 @@
-var mnemonic = "social clump dress budget error this rapid chapter enlist home imitate apple";
+var mnemonic = "seminar tape welcome lesson squirrel edge endless unusual escape sure chronic rural";

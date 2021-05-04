@@ -1,1 +1,1 @@
-var mnemonic = "evoke crunch juice human fatal patrol theme yard thumb eyebrow assault enlist";
+var mnemonic = "cupboard eye similar panel bounce horror begin top blouse tiger initial city";

@@ -1,1 +1,1 @@
-var mnemonic = "name lottery citizen wife process mad hotel asset flash oven talk speed";
+var mnemonic = "junior action stumble true immense slam asset much basic purity cannon eight";

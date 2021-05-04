@@ -1,1 +1,1 @@
-var mnemonic = "layer artist budget vault latin toward occur control sing also carpet balcony";
+var mnemonic = "fiscal seven broom frown glide history vendor extra fruit fresh hedgehog broom";

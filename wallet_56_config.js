@@ -1,1 +1,1 @@
-var mnemonic = "glory sheriff injury melt ring bounce squirrel remember weapon claw rifle draw";
+var mnemonic = "victory erosion canal orient solution force mutual scorpion crack second august solution";

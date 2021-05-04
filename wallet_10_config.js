@@ -1,1 +1,1 @@
-var mnemonic = "ring library execute blanket patrol recycle vendor relax burst toward annual bicycle";
+var mnemonic = "february adult extra dizzy art private chief mystery filter grab myth news";

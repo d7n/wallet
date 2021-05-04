@@ -1,1 +1,1 @@
-var mnemonic = "anxiety asset weapon mistake jewel elephant afraid replace manual rib memory walnut";
+var mnemonic = "merge average nut team flower ritual drastic banner leg calm annual umbrella";

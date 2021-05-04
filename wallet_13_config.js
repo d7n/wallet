@@ -1,1 +1,1 @@
-var mnemonic = "cruel produce ahead cream hollow outdoor rule amount lift comic total jaguar";
+var mnemonic = "twenty theory course churn pill knee scout marine wisdom sting tourist cotton";

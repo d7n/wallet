@@ -1,1 +1,1 @@
-var mnemonic = "already remove ready second party piece floor tiny pumpkin boost fix gesture";
+var mnemonic = "essay champion custom giant pitch random token core estate can choice eyebrow";

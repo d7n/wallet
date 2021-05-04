@@ -1,1 +1,1 @@
-var mnemonic = "kind dirt water marble segment add diary casino flash cross amazing artist";
+var mnemonic = "unfair ozone debate future tent present insect width town about rescue smart";

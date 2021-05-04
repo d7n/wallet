@@ -1,1 +1,1 @@
-var mnemonic = "noodle worth toy rare february index version buyer whale recall opinion chef";
+var mnemonic = "easy duck jaguar ride ten host only attend man peasant acquire bubble";

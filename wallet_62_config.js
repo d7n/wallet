@@ -1,1 +1,1 @@
-var mnemonic = "right power delay hurt brass material capital shaft mercy pigeon hollow neither";
+var mnemonic = "liberty blossom fatigue chest perfect salmon rally sister grow danger pretty spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "museum immense child tray despair marriage evil best clip riot system enough";
+var mnemonic = "execute gift door issue blame exhibit capital script tornado seed differ leopard";

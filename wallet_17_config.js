@@ -1,1 +1,1 @@
-var mnemonic = "verify expect pen library cat sunny path sunny heavy govern canvas sight";
+var mnemonic = "ethics drip major mix enforce figure inform attend butter toss decorate motion";

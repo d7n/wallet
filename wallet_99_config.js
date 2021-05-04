@@ -1,1 +1,1 @@
-var mnemonic = "surprise alpha response rate turtle couch picnic slight stairs staff climb develop";
+var mnemonic = "shell roof ladder tail hybrid cannon morning isolate step used round radio";

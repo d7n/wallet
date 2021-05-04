@@ -1,1 +1,1 @@
-var mnemonic = "pottery gate arrest garlic labor deny ask disease peace usual throw erupt";
+var mnemonic = "swap evidence daring steel volcano squirrel cover relief seminar april mountain hollow";

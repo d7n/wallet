@@ -1,1 +1,1 @@
-var mnemonic = "wage puppy sadness gallery ordinary tissue gauge issue repeat end confirm grocery";
+var mnemonic = "wave ship fan beach bid smooth shock cave clump alert retreat record";

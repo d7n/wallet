@@ -1,1 +1,1 @@
-var mnemonic = "impact purchase voice cancel explain august medal ski ketchup blouse talk prepare";
+var mnemonic = "poverty kite bench behave deer plug maple million style leopard screen outdoor";

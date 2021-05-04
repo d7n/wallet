@@ -1,1 +1,1 @@
-var mnemonic = "orchard helmet spot apple surge obtain alert honey behave keen primary blouse";
+var mnemonic = "found text buffalo usual fantasy science ensure when floor final pig super";

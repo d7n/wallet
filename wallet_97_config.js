@@ -1,1 +1,1 @@
-var mnemonic = "abuse unaware mountain bright amount vault absorb tattoo nurse rebuild police scatter";
+var mnemonic = "sugar trophy emotion feel miss scan cause welcome dumb later atom track";

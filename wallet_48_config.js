@@ -1,1 +1,1 @@
-var mnemonic = "medal clutch unique ghost reopen act upper profit spare tuna clean mimic";
+var mnemonic = "chunk fence net old almost reject sauce equal mosquito goose hammer burger";

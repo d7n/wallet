@@ -1,1 +1,1 @@
-var mnemonic = "jewel lounge coral clever confirm citizen list above final soda calm normal";
+var mnemonic = "brass swing era category accident list omit palm stock subject crane pair";

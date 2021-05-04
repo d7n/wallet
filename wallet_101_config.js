@@ -1,1 +1,1 @@
-var mnemonic = "used response flower act pottery burst comic original impulse broccoli physical man";
+var mnemonic = "athlete siege layer subject solid protect bone unlock divorce grid strong try";

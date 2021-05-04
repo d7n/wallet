@@ -1,1 +1,1 @@
-var mnemonic = "virus soldier thunder kit armor advice silent horse hen remember lobster radar";
+var mnemonic = "home valid spider bacon online scrub skate thank domain whisper sell grain";

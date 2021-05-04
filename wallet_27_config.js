@@ -1,1 +1,1 @@
-var mnemonic = "output want enjoy lobster welcome noodle skull plunge great approve mosquito guilt";
+var mnemonic = "proof custom upper royal still poverty hazard object wrong depart defy spike";

@@ -1,1 +1,1 @@
-var mnemonic = "love purpose spoon lock short weird jewel situate stand siege begin fade";
+var mnemonic = "private tiny tree mention vacuum youth dice stable citizen chaos gift bicycle";

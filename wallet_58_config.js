@@ -1,1 +1,1 @@
-var mnemonic = "sting soft grain inform stand flock cash course news funny collect swift";
+var mnemonic = "parent fabric innocent gain virus elite library exercise grain off fossil labor";

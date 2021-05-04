@@ -1,1 +1,1 @@
-var mnemonic = "act almost damage silver fragile cannon error intact nothing winner torch rib";
+var mnemonic = "nominee around prefer ecology make cross notice embark wrestle dizzy gym wolf";

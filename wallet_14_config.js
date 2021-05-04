@@ -1,1 +1,1 @@
-var mnemonic = "upon carry involve advance puppy length throw adjust pill exact orange phrase";
+var mnemonic = "supreme bulk result remind turkey guitar loud report add wire bright video";

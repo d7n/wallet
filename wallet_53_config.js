@@ -1,1 +1,1 @@
-var mnemonic = "foster lobster coral exist fiscal pepper conduct place expand blush view unlock";
+var mnemonic = "stumble kick build autumn liquid work stable bird issue news audit digital";

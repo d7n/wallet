@@ -1,1 +1,1 @@
-var mnemonic = "shaft rookie bulb bench embrace learn kind health tenant student tragic chuckle";
+var mnemonic = "club balcony soon avoid cushion despair scrap pear decide narrow client hospital";

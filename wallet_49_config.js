@@ -1,1 +1,1 @@
-var mnemonic = "gather dismiss result office topic slender aerobic pond employ engage reject lake";
+var mnemonic = "artefact jazz thrive advance bottom never boss please raven vocal region crop";

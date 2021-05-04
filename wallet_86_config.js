@@ -1,1 +1,1 @@
-var mnemonic = "can output sleep dinosaur wasp extra eye window toe buyer acoustic off";
+var mnemonic = "mix retreat dad universe early motion tissue move control harbor female copy";

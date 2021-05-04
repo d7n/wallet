@@ -1,1 +1,1 @@
-var mnemonic = "awesome bean mansion script expire code seven price bundle fruit glare flavor";
+var mnemonic = "like ride scene harsh measure spot ugly assist stand toward actor edge";

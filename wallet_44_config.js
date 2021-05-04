@@ -1,1 +1,1 @@
-var mnemonic = "unit shine grace either exercise ankle jealous select capital resist legal join";
+var mnemonic = "tomato number use above exchange enhance lounge fall night direct skin usual";

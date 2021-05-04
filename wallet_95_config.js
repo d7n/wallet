@@ -1,1 +1,1 @@
-var mnemonic = "fatal spray nephew use curve chase exotic tide because clay renew dune";
+var mnemonic = "grain ladder math hour lemon predict salmon worth solution matter liquid load";

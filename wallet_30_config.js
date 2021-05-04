@@ -1,1 +1,1 @@
-var mnemonic = "betray artwork gallery join leopard adjust rifle kit evil street grape desert";
+var mnemonic = "hawk absurd napkin spin arm question essence soda dose flower mammal pipe";

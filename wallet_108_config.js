@@ -1,1 +1,1 @@
-var mnemonic = "exhibit bomb match snake include lab order shoe torch swift paper put";
+var mnemonic = "eternal grunt illness two parrot palm arctic year fence inspire secret write";

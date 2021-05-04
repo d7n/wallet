@@ -1,1 +1,1 @@
-var mnemonic = "fetch supreme claim box pepper fish scout rural blood burden rule snack";
+var mnemonic = "clever spoon author bring space tray symbol naive craft sting feature then";

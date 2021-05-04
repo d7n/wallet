@@ -1,1 +1,1 @@
-var mnemonic = "cable juice elder school degree disorder empty phrase brief pigeon energy viable";
+var mnemonic = "energy category harsh window alcohol poem vibrant fit swap phone club occur";
