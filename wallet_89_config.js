@@ -1,1 +1,1 @@
-var mnemonic = "coffee infant desk mention ostrich come april total auto stable industry enlist";
+var mnemonic = "cute wild clump owner nasty cruise amount sea crystal liar write improve";

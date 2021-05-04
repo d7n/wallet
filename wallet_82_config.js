@@ -1,1 +1,1 @@
-var mnemonic = "boil door amazing circle basket across now you bench black liberty cluster";
+var mnemonic = "crawl fruit surge black remind inject example shift once chase walnut matrix";

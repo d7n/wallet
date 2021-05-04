@@ -1,1 +1,1 @@
-var mnemonic = "base tonight snack column now true before stereo opera bike heavy hurdle";
+var mnemonic = "mechanic hour about race must corn intact valve ice stay cube tobacco";

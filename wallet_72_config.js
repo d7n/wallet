@@ -1,1 +1,1 @@
-var mnemonic = "path visa marriage caught sister benefit rate top cancel pill debate off";
+var mnemonic = "until crystal leg select proud only game piano enough connect twice tone";

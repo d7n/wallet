@@ -1,1 +1,1 @@
-var mnemonic = "ceiling adapt attend marriage feel table action welcome scorpion today bridge canvas";
+var mnemonic = "digital fashion swarm leg solution sure galaxy affair asset foam explain banana";

@@ -1,1 +1,1 @@
-var mnemonic = "involve gloom win job sorry success reunion sight garage today because toss";
+var mnemonic = "video ghost lamp joy judge awkward idle loud swamp mad enact bag";

@@ -1,1 +1,1 @@
-var mnemonic = "survey extra champion satisfy response trim van ancient crew guess grit stand";
+var mnemonic = "there put rebel trim slow riot special tornado hen response twenty bus";

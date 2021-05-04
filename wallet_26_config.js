@@ -1,1 +1,1 @@
-var mnemonic = "tail lava opera venue diet grunt asthma frozen ship rug shiver solution";
+var mnemonic = "key oval cousin upon confirm mirror viable bus saddle kick nose tank";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon allow cereal tool envelope spare wine subway swap inmate vessel settle";
+var mnemonic = "magnet logic celery razor rail squeeze learn notable person public praise grocery";

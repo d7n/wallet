@@ -1,1 +1,1 @@
-var mnemonic = "dirt cradle girl entry brick slice jeans sense problem dilemma legal bacon";
+var mnemonic = "wonder arch virus mind notable shy repair poverty monkey involve tiger actual";

@@ -1,1 +1,1 @@
-var mnemonic = "glance tiger tooth genre race senior airport earth cash cross intact oxygen";
+var mnemonic = "dawn good runway pony arm funny magic matrix parade boy world gadget";

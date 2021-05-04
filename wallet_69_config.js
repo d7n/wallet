@@ -1,1 +1,1 @@
-var mnemonic = "kingdom fade drastic profit sample cook utility battle service divide poem put";
+var mnemonic = "regular sadness weapon vicious suggest ozone welcome nice suggest super keep depth";

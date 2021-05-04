@@ -1,1 +1,1 @@
-var mnemonic = "link trip consider soap romance erode across equal between donkey annual couple";
+var mnemonic = "allow frown betray sting bread proud comic pig tape spell empty rigid";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy patient inside cloud peace pond atom anchor note thunder marriage object";
+var mnemonic = "address rebel peasant between sense way puzzle prevent end buddy rude ozone";

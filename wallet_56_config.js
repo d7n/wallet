@@ -1,1 +1,1 @@
-var mnemonic = "slice transfer danger state taste surface swift huge gentle review finish pretty";
+var mnemonic = "flush economy squeeze eagle rival imitate captain advice solar very drip fatal";

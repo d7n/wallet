@@ -1,1 +1,1 @@
-var mnemonic = "code throw number usual laugh pigeon girl congress myself leaf work since";
+var mnemonic = "seek weasel tackle genius object fortune march appear skull pear mimic daughter";

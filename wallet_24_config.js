@@ -1,1 +1,1 @@
-var mnemonic = "measure essay belt grant vibrant slab gauge hope enough cousin pool clay";
+var mnemonic = "ozone fee hidden genuine point cattle media sense orbit wheel lawn parrot";

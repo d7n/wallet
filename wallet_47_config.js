@@ -1,1 +1,1 @@
-var mnemonic = "cargo leader jewel despair satisfy priority flavor sheriff faint empower vocal depth";
+var mnemonic = "craft valve rifle paper legend wage panic fire rural flame card rich";

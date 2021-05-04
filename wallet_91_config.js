@@ -1,1 +1,1 @@
-var mnemonic = "wash party organ old shove business wish burger able bar about verb";
+var mnemonic = "fluid argue lecture planet allow baby erode bottom pond dust humor early";

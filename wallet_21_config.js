@@ -1,1 +1,1 @@
-var mnemonic = "slice elbow income engine tell skull empower venture false timber very ahead";
+var mnemonic = "vacant explain aunt elbow move lemon tenant alert canoe weekend perfect soul";

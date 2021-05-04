@@ -1,1 +1,1 @@
-var mnemonic = "border bulk valve walnut oak fit ski blame luxury family adapt found";
+var mnemonic = "fancy meadow witness year click thumb night universe divert powder aim arm";

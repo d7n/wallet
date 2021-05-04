@@ -1,1 +1,1 @@
-var mnemonic = "grunt mimic filter bronze winner focus become joy picture session palace weekend";
+var mnemonic = "impulse critic broken castle egg human cram jar sail grunt bright income";

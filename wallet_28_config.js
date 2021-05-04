@@ -1,1 +1,1 @@
-var mnemonic = "toe wheat dream miracle fan pumpkin come bean brisk race bar cannon";
+var mnemonic = "snap ritual deer chaos dress cradle try pact stock jazz jazz fortune";

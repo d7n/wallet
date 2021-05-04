@@ -1,1 +1,1 @@
-var mnemonic = "foster update warrior practice half again dial fluid observe supreme adult win";
+var mnemonic = "inner wait quantum tiny upon describe kangaroo consider machine strong example dice";

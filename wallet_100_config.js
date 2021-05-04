@@ -1,1 +1,1 @@
-var mnemonic = "dress engine useless burden doctor struggle online inquiry resource isolate ribbon great";
+var mnemonic = "reject prefer talk spirit utility stock cycle noodle glove coach run attack";

@@ -1,1 +1,1 @@
-var mnemonic = "student intact small enable orange join battle wife hybrid rose month goat";
+var mnemonic = "run cube cry mammal best mimic deputy axis orbit shove visual lumber";

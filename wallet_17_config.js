@@ -1,1 +1,1 @@
-var mnemonic = "true affair join lunch marble thought ramp document win neutral minimum hand";
+var mnemonic = "thrive noise jaguar mammal soldier consider conduct grow armor charge era inside";

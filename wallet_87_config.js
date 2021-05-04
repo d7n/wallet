@@ -1,1 +1,1 @@
-var mnemonic = "egg bubble average ten grain tribe talk inside novel rain pave afford";
+var mnemonic = "catch faith burger nasty surround desert rapid win rescue almost similar release";

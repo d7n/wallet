@@ -1,1 +1,1 @@
-var mnemonic = "space fetch ankle orbit toe luggage slogan spike awful globe sibling charge";
+var mnemonic = "image lunar girl option alpha useful agent extend man security raw where";

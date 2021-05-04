@@ -1,1 +1,1 @@
-var mnemonic = "two erase wrestle spin erode rifle visit loan monkey essay arm citizen";
+var mnemonic = "scare genuine mind grunt captain rate clean high idea record mercy usual";

@@ -1,1 +1,1 @@
-var mnemonic = "mansion cheese position goat athlete peasant fly stand feel kid cycle other";
+var mnemonic = "hungry exhaust lady client winter half bulk cook hammer valve foil pizza";

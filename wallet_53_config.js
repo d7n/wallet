@@ -1,1 +1,1 @@
-var mnemonic = "online live punch dream noble pumpkin ecology business fork sunny rocket velvet";
+var mnemonic = "lounge nothing stock endless art wife globe slush similar trap kind logic";

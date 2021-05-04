@@ -1,1 +1,1 @@
-var mnemonic = "test party pond bullet wine inside web gloom check gadget nurse miss";
+var mnemonic = "cruise dove whip planet extra hurt elder grant wonder way length ensure";

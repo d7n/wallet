@@ -1,1 +1,1 @@
-var mnemonic = "trip deposit view plug genre gun elegant occur index foster feel axis";
+var mnemonic = "velvet circle run damp romance aspect flash message output base stairs grow";

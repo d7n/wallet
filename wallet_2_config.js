@@ -1,1 +1,1 @@
-var mnemonic = "minute giggle caught goat clog found object pluck tornado snack shuffle tiger";
+var mnemonic = "bread then duck injury grunt clap follow company wrap home glare anger";

@@ -1,1 +1,1 @@
-var mnemonic = "celery celery token swear below today shy possible antique monkey end lady";
+var mnemonic = "build lemon alley know ski cool leg first scissors topic nurse weird";

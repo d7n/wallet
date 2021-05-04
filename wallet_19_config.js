@@ -1,1 +1,1 @@
-var mnemonic = "bright final panda drastic below fruit satisfy elephant margin edge ripple fossil";
+var mnemonic = "another wood dish ensure only infant betray sting prevent pumpkin primary cruise";

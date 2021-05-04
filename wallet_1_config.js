@@ -1,1 +1,1 @@
-var mnemonic = "harbor hole elder debate first room achieve echo maximum build elder forum";
+var mnemonic = "sight upon inner life delay hurdle piano measure fantasy room cotton path";

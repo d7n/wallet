@@ -1,1 +1,1 @@
-var mnemonic = "bunker divorce chief disorder hamster cancel addict mention uniform when hero expect";
+var mnemonic = "bleak weekend fly unlock green again coin unknown artwork cliff drink sorry";

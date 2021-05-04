@@ -1,1 +1,1 @@
-var mnemonic = "radio begin obvious admit common stove onion joy glove race middle away";
+var mnemonic = "upgrade entire devote remind save legal history door achieve strategy drink shove";

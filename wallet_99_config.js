@@ -1,1 +1,1 @@
-var mnemonic = "super yellow raw burden banana abstract debris quick guitar rebel curtain opera";
+var mnemonic = "amount canvas crop remain provide wrong jealous juice romance object floor brain";

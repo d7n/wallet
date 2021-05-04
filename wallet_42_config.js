@@ -1,1 +1,1 @@
-var mnemonic = "congress mad point round enjoy desert cheese special device shrimp situate clay";
+var mnemonic = "satisfy match bicycle priority response engage advice double receive similar mimic during";

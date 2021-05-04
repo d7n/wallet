@@ -1,1 +1,1 @@
-var mnemonic = "describe hole poem silk breeze involve bacon truly expose february label mosquito";
+var mnemonic = "farm couch lava victory hungry recipe caution truth pass settle slush fat";

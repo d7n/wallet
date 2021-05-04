@@ -1,1 +1,1 @@
-var mnemonic = "stone service ride obscure mention column accuse rifle name cannon limit shrug";
+var mnemonic = "party relax chase pact panther shoe need pole park local glare dog";

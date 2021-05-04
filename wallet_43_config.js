@@ -1,1 +1,1 @@
-var mnemonic = "million erupt essay churn wild tourist spray north quote custom beyond conduct";
+var mnemonic = "supply chalk peasant crack powder effort route stone trap turtle sail filter";

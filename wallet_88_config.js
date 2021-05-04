@@ -1,1 +1,1 @@
-var mnemonic = "banana comfort fat leisure argue exotic thing nominee frost insect cousin magic";
+var mnemonic = "alcohol theme rescue require deal use door battle parrot custom budget auto";

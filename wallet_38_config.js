@@ -1,1 +1,1 @@
-var mnemonic = "pen spy evolve sausage human can tide welcome board maid torch best";
+var mnemonic = "jar attitude mercy special olive system scrub replace hen universe unusual rigid";

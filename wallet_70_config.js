@@ -1,1 +1,1 @@
-var mnemonic = "index happy fresh input moral session exit always perfect delay member this";
+var mnemonic = "faculty asthma wire ankle area fork above lounge tape grass useless staff";

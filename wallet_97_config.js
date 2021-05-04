@@ -1,1 +1,1 @@
-var mnemonic = "poverty garlic index amateur nest edge leopard ugly timber peace often gasp";
+var mnemonic = "chat tenant axis tooth dash add orphan empty submit industry sibling absent";

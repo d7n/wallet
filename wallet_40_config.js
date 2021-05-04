@@ -1,1 +1,1 @@
-var mnemonic = "pigeon since pulp hedgehog motor slim radar empower pony ill sand horn";
+var mnemonic = "large toilet fiber case impulse company unveil hundred miracle view fence document";

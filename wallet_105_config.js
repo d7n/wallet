@@ -1,1 +1,1 @@
-var mnemonic = "clarify drift real dose seminar eight hammer solid message lobster discover announce";
+var mnemonic = "habit define spatial item keen ginger sport silver other twenty dinner pink";

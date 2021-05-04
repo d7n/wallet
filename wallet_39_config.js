@@ -1,1 +1,1 @@
-var mnemonic = "moon twice chase father easy praise parent plug fresh involve blossom pipe";
+var mnemonic = "limit system divide dolphin behave rely clutch wasp ask define decade artwork";

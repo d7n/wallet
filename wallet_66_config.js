@@ -1,1 +1,1 @@
-var mnemonic = "denial pizza puzzle ensure ethics nominee foam amazing call shield purchase screen";
+var mnemonic = "enemy essence update inquiry tone jazz tornado pipe strong ozone virtual jealous";

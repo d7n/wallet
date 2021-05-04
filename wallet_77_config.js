@@ -1,1 +1,1 @@
-var mnemonic = "oyster federal clean cup coin random pulp fiction dizzy magic kick range";
+var mnemonic = "squirrel turtle release kidney shell funny badge misery brave fold garlic deliver";

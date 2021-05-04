@@ -1,1 +1,1 @@
-var mnemonic = "woman save danger one maximum move rain hat object giraffe flock disorder";
+var mnemonic = "elite transfer occur rescue display blossom crunch floor side health symbol bench";

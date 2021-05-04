@@ -1,1 +1,1 @@
-var mnemonic = "hammer sea rail grunt punch gym benefit text barely then wine common";
+var mnemonic = "nothing custom mobile axis gasp load thought section attitude receive gentle mosquito";

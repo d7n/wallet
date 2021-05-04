@@ -1,1 +1,1 @@
-var mnemonic = "shell write any gossip leaf lounge grant bacon there blur forum asthma";
+var mnemonic = "coin file vocal rule hip bullet hint combine grunt consider solar joke";

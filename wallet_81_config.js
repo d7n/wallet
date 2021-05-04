@@ -1,1 +1,1 @@
-var mnemonic = "film clock local muscle nothing color argue apology hello spell magnet pill";
+var mnemonic = "mirror pulp actress moment prison absurd response secret disorder dial frog vapor";

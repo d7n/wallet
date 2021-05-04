@@ -1,1 +1,1 @@
-var mnemonic = "occur shrug loop chimney assist flat feed dust soldier knife brown favorite";
+var mnemonic = "woman industry asset broccoli opera erode orange canoe memory virus ask traffic";

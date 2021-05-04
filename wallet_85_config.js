@@ -1,1 +1,1 @@
-var mnemonic = "three toy exercise post essay draw forest found health merit wide gallery";
+var mnemonic = "napkin salt style fiber strike spot agree slot age addict tourist walnut";

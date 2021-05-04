@@ -1,1 +1,1 @@
-var mnemonic = "damp paddle rival whale again dignity rail churn room cluster flash party";
+var mnemonic = "illegal catalog time invite broom omit lab hotel put oval about plastic";

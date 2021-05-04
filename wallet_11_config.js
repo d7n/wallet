@@ -1,1 +1,1 @@
-var mnemonic = "omit master column buffalo coast matter solid blade employ aware reason primary";
+var mnemonic = "actual fruit thunder submit garlic fork coin enact fortune prison amazing draw";

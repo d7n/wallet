@@ -1,1 +1,1 @@
-var mnemonic = "humble match room badge key off march toddler napkin picture draft hover";
+var mnemonic = "amateur actual bottom head document pulse range usual float market mad tennis";

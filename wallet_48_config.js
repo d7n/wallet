@@ -1,1 +1,1 @@
-var mnemonic = "flower outer path toward receive maze follow second draft various primary crop";
+var mnemonic = "panic guide brave sheriff miss valley essence rebuild patrol index coin border";

@@ -1,1 +1,1 @@
-var mnemonic = "name rude reject crack pill menu royal flee private relief siren make";
+var mnemonic = "resemble aware bus juice behave fragile expose recycle laptop machine galaxy garden";

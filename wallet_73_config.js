@@ -1,1 +1,1 @@
-var mnemonic = "surprise elegant jaguar trash shove spin float chair sunset tide traffic ask";
+var mnemonic = "artefact ready eager asset forum over million stone file bike remind tree";

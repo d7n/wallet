@@ -1,1 +1,1 @@
-var mnemonic = "traffic pilot novel sister present gap best hammer state permit derive sibling";
+var mnemonic = "finger decrease demand fork humor machine someone amazing mammal settle case exhibit";

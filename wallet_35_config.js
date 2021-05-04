@@ -1,1 +1,1 @@
-var mnemonic = "rhythm security before rural diagram token catch lumber winner vicious jump panel";
+var mnemonic = "enhance cigar lend flee security bike equip oak pigeon resemble shell cousin";

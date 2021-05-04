@@ -1,1 +1,1 @@
-var mnemonic = "poet disorder say twin uniform swarm afford capital sausage fetch job phone";
+var mnemonic = "punch bargain early clutch split hip gravity recycle stomach pitch pave similar";

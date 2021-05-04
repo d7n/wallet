@@ -1,1 +1,1 @@
-var mnemonic = "ketchup spray sun quality sugar obey tray remove horror adjust minimum battle";
+var mnemonic = "side mystery arena small lunar quality dad web jealous primary age cabbage";

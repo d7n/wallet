@@ -1,1 +1,1 @@
-var mnemonic = "maze cook stuff behind humor empty title bubble chronic able winter diagram";
+var mnemonic = "ethics risk intact sentence cereal shift blast voyage erupt myth junior web";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue antenna engage tomorrow meat fade festival tree occur response flat test";
+var mnemonic = "trust razor balance display intact parrot nothing child blast cloud plastic fabric";

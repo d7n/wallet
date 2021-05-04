@@ -1,1 +1,1 @@
-var mnemonic = "stove letter slide axis slush trigger lake happy almost slush split apology";
+var mnemonic = "spirit west shine garbage asset hood expand siren cross horn enrich above";

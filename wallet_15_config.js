@@ -1,1 +1,1 @@
-var mnemonic = "leaf bird galaxy core student fashion kind voice entry glance dash skill";
+var mnemonic = "gallery canyon income husband web gallery roast illness patient doctor wrist lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "blush task few stem demise section travel bomb another toy pact meadow";
+var mnemonic = "sleep focus oil moment wish impact dragon robust metal earth kingdom basic";

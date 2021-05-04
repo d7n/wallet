@@ -1,1 +1,1 @@
-var mnemonic = "output vague blanket smile goose spell shrug crime gadget child special cute";
+var mnemonic = "hip reform harbor more gentle input topic trash february verb stomach rural";

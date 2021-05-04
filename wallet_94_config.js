@@ -1,1 +1,1 @@
-var mnemonic = "attack spin afraid broom finish copy manage book dutch picnic off poverty";
+var mnemonic = "virus luxury cup health oyster echo again gate fossil judge purpose oxygen";

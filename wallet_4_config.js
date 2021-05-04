@@ -1,1 +1,1 @@
-var mnemonic = "innocent type midnight review toddler poet onion have thrive uphold draw edge";
+var mnemonic = "cradle name mind table outside subway basic card uncover parade unhappy confirm";

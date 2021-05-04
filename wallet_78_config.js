@@ -1,1 +1,1 @@
-var mnemonic = "guess blade junior access flame earth this foster rule situate cliff brain";
+var mnemonic = "main world okay mirror wink trash cat depend sea bacon erase orchard";

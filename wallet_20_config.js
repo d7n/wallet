@@ -1,1 +1,1 @@
-var mnemonic = "depth slight sheriff sausage shy disagree wealth possible dismiss demand size stamp";
+var mnemonic = "pottery dolphin second flip zone undo street glimpse cable prepare report stove";

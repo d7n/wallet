@@ -1,1 +1,1 @@
-var mnemonic = "melody side power extra coconut charge crawl umbrella waste spike very shell";
+var mnemonic = "marble inner water lawn sphere thunder convince dismiss gain nature pave hurt";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage seed deliver lift glass wife drop canvas track armed purpose marine";
+var mnemonic = "polar wall account define profit half kit balance phone flip position razor";

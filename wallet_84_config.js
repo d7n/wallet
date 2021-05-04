@@ -1,1 +1,1 @@
-var mnemonic = "rapid timber educate announce skull antenna join coffee fancy asthma portion goat";
+var mnemonic = "math basket grid hamster sudden shed topple panel olympic bitter captain robot";

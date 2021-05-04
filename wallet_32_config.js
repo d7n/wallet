@@ -1,1 +1,1 @@
-var mnemonic = "bomb setup lens escape brand myth essence corn around slab tube limb";
+var mnemonic = "holiday trouble enforce innocent viable virus shy witness perfect scrap gadget protect";

@@ -1,1 +1,1 @@
-var mnemonic = "ribbon bleak output manage flat little dad rifle open brass diesel cabin";
+var mnemonic = "fault pretty name deal solar script word juice suffer vehicle lecture faith";

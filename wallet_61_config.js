@@ -1,1 +1,1 @@
-var mnemonic = "faint acid egg kick gossip address coconut mule feel aim travel update";
+var mnemonic = "picnic gather daring thumb puzzle aunt video biology decide shrug light awesome";
