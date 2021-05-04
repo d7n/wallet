@@ -1,1 +1,1 @@
-var mnemonic = "found surge gain control dice assume chaos inspire mother fade whale height";
+var mnemonic = "target path fortune tired group runway pottery poem service anger mobile law";

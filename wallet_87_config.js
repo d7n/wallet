@@ -1,1 +1,1 @@
-var mnemonic = "hour dose exit flight cute entry engine until cute icon bronze gravity";
+var mnemonic = "fluid indicate world tip finish fat suggest pet pen current garden license";

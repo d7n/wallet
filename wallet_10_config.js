@@ -1,1 +1,1 @@
-var mnemonic = "destroy curious dry wear physical chapter hedgehog gadget steel velvet outside saddle";
+var mnemonic = "monkey opera kitten adapt mammal match speak lock escape sample horn series";

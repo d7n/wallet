@@ -1,1 +1,1 @@
-var mnemonic = "else output call fix undo hope cement bike frown attend burst oppose";
+var mnemonic = "various bus copy orchard denial elephant amateur salute little tired cliff slice";

@@ -1,1 +1,1 @@
-var mnemonic = "diary hen rack holiday kitchen fall warfare fence recall bounce option sell";
+var mnemonic = "cancel december degree embrace quote infant subject final alone mango chronic state";

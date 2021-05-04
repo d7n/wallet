@@ -1,1 +1,1 @@
-var mnemonic = "sausage sibling civil alien section honey power useful service cancel remove poverty";
+var mnemonic = "menu mirror derive manage party wool about because carry attitude joy adult";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol paddle tower holiday blue next gate kit begin income tenant vehicle";
+var mnemonic = "inmate charge absent combine birth multiply win short duck scale laptop omit";

@@ -1,1 +1,1 @@
-var mnemonic = "pluck rifle inhale lab zebra expose scatter way recipe pass fluid open";
+var mnemonic = "actual salute marriage discover brisk toward click caught repair lunch peanut kite";

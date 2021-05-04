@@ -1,1 +1,1 @@
-var mnemonic = "tonight antenna car lady kiss knock sort crisp select ridge argue roast";
+var mnemonic = "north fold gentle like monster movie turkey scatter erupt obey canyon debris";

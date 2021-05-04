@@ -1,1 +1,1 @@
-var mnemonic = "staff give nephew grunt drift repair volcano raise immune wise tornado soap";
+var mnemonic = "bamboo table burger alpha explain various come outside cash combine razor observe";

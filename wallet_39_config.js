@@ -1,1 +1,1 @@
-var mnemonic = "include fly melt success extend you paddle picnic axis churn attract zero";
+var mnemonic = "dune success resource matter dice spoon cart cabbage moon diary ready enact";

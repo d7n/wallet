@@ -1,1 +1,1 @@
-var mnemonic = "control chronic van minor explain final second victory advice sad congress ozone";
+var mnemonic = "frost vapor tenant nominee eight wet siege grow major canyon plate shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "test satisfy tattoo vocal pluck polar waste giraffe sketch cool truth wet";
+var mnemonic = "enemy sun tiger little moment say prize canyon use possible hungry grain";

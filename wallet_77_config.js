@@ -1,1 +1,1 @@
-var mnemonic = "security sweet damage alien tail boil transfer merit great turkey mystery eager";
+var mnemonic = "version symptom service east chat ghost ten lawsuit category job cruel bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow level cannon ranch absorb list exclude iron switch nut sort youth";
+var mnemonic = "pony child rely neither pepper absorb same member dinner clock proof office";

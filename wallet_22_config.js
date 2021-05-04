@@ -1,1 +1,1 @@
-var mnemonic = "woman situate ribbon clarify rent taxi observe develop indicate wise only toss";
+var mnemonic = "car frame kid better belt shield depth pelican prefer oppose engine segment";

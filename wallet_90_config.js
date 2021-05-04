@@ -1,1 +1,1 @@
-var mnemonic = "pencil auction remind bachelor buffalo talk equal sorry enlist bring consider warrior";
+var mnemonic = "position sentence figure dune lonely gas diagram company snack boost day scrub";

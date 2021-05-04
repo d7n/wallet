@@ -1,1 +1,1 @@
-var mnemonic = "expire enemy crunch simple tail digital trend point forward curve dilemma tree";
+var mnemonic = "trap mom build insane idle trash noble pupil picture eyebrow unknown melody";

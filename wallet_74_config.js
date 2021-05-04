@@ -1,1 +1,1 @@
-var mnemonic = "decorate spot panic print garage step excite ordinary powder skate when hold";
+var mnemonic = "unable soap purity shoe tobacco peanut document economy curtain solar cat face";

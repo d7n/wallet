@@ -1,1 +1,1 @@
-var mnemonic = "chase clog attitude sign wrist swim bar since bacon observe bamboo system";
+var mnemonic = "furnace donkey fork squeeze valley detect protect immense carbon enlist suffer pattern";

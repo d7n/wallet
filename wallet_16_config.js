@@ -1,1 +1,1 @@
-var mnemonic = "protect dentist oxygen bleak ability pitch want parrot into drill cruise innocent";
+var mnemonic = "slab keen reveal angle used police borrow document office curve soul grass";

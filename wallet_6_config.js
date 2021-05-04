@@ -1,1 +1,1 @@
-var mnemonic = "juice basket cycle beach anxiety praise ketchup kit retreat crack kidney fiction";
+var mnemonic = "surprise balance void final inside style depth guess play mail ten asthma";

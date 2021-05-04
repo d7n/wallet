@@ -1,1 +1,1 @@
-var mnemonic = "glad flock dirt jealous cancel canyon awkward where onion exhaust gravity erode";
+var mnemonic = "water long true fog about bird maze sing unusual opinion there soldier";

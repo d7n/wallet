@@ -1,1 +1,1 @@
-var mnemonic = "pepper amazing idea stem moral hybrid orange bullet ankle funny neutral degree";
+var mnemonic = "width lesson hobby hamster time skull horse magic protect regular impact lake";

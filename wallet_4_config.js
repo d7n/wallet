@@ -1,1 +1,1 @@
-var mnemonic = "betray knock accident wire shrimp absurd giggle lumber virus wait law swamp";
+var mnemonic = "basket inch occur talk blush gaze since liar army female proof faculty";

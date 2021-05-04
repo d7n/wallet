@@ -1,1 +1,1 @@
-var mnemonic = "arrive path rigid elegant estate abuse brown vote poem marine hedgehog wrap";
+var mnemonic = "priority tank hotel side desert repeat gospel soft suit hair jungle iron";

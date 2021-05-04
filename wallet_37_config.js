@@ -1,1 +1,1 @@
-var mnemonic = "asset enjoy accuse protect mixture asset hip enter merge cabin wool then";
+var mnemonic = "wheat into stage minute minute funny peanut village nuclear because quick leopard";

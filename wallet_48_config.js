@@ -1,1 +1,1 @@
-var mnemonic = "flight borrow alien dry joy zero company crucial clinic finger offer elevator";
+var mnemonic = "renew acoustic reason social wedding wing ordinary between light ancient affair suit";

@@ -1,1 +1,1 @@
-var mnemonic = "oxygen method course various fog dice buyer rail donate surge chunk enhance";
+var mnemonic = "hunt collect decline author butter hip skin plate predict major turtle volcano";

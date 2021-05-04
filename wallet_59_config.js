@@ -1,1 +1,1 @@
-var mnemonic = "book already short divide ostrich era eye divert canyon lake pyramid merry";
+var mnemonic = "salad eyebrow visa crime annual torch laptop into achieve wrist legend world";

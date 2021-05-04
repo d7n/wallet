@@ -1,1 +1,1 @@
-var mnemonic = "dilemma uncover tunnel female approve fruit dash steel crush sister museum brass";
+var mnemonic = "foil simple veteran enforce sketch warfare giggle door index knee slight thing";

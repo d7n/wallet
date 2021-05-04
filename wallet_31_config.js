@@ -1,1 +1,1 @@
-var mnemonic = "kit always cradle man core copper say casual hand injury dinner fence";
+var mnemonic = "acid advance brick employ calm cook brick wise often manual orbit gauge";

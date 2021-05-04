@@ -1,1 +1,1 @@
-var mnemonic = "husband expect slow unique shift car timber eagle actual educate mango december";
+var mnemonic = "metal noble album creek behave bird dolphin interest depend second dish market";

@@ -1,1 +1,1 @@
-var mnemonic = "actual blouse view special word grit lawn sock orange solution vault tongue";
+var mnemonic = "sure hundred dolphin medal actor oyster bracket snap balcony spoon appear update";

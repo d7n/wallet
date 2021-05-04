@@ -1,1 +1,1 @@
-var mnemonic = "thing pilot wrong venue genius drive net champion cigar action fix hunt";
+var mnemonic = "orchard oppose ritual reason indicate place pilot soft ivory company predict region";

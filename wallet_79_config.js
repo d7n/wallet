@@ -1,1 +1,1 @@
-var mnemonic = "phone program true fury timber coast dice job absurd harbor pizza evolve";
+var mnemonic = "humble still lucky rigid poem grab clip income prosper what account cargo";

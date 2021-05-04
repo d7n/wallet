@@ -1,1 +1,1 @@
-var mnemonic = "capable mimic flip boil cereal unlock immune utility sadness craft reflect hundred";
+var mnemonic = "wet often canyon banana grass sword theory force goat trap grunt enlist";

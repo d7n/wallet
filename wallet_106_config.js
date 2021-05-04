@@ -1,1 +1,1 @@
-var mnemonic = "chunk south embody cry address enable alter all discover sport sort clerk";
+var mnemonic = "focus trade submit extend camp soldier thought picture joy kick video tunnel";

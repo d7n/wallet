@@ -1,1 +1,1 @@
-var mnemonic = "mango section gap second record retire detect example puzzle loop fiber film";
+var mnemonic = "margin cart twist slight view amount infant trap surprise wheel parrot unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "enter slide update drop estate curve increase cup youth mention mansion will";
+var mnemonic = "sock noble salon gain agree pyramid alpha elephant guess silent party shrimp";

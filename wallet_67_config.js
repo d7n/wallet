@@ -1,1 +1,1 @@
-var mnemonic = "vicious valve orbit life detect dose coach creek sentence path rocket ship";
+var mnemonic = "unveil goose father rude romance organ kick flee armed donate stand elevator";

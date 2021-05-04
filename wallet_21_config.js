@@ -1,1 +1,1 @@
-var mnemonic = "become panda bachelor proof end chaos have park catch drum culture impact";
+var mnemonic = "style flock pelican spray dream erase clown love season canal debate spring";

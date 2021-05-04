@@ -1,1 +1,1 @@
-var mnemonic = "slight twenty one addict purse unfair pill speed access place mammal adjust";
+var mnemonic = "recycle junior wear much bacon assist other mistake disorder junk super awkward";

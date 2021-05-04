@@ -1,1 +1,1 @@
-var mnemonic = "fancy talent add adjust protect jazz travel wrap galaxy stumble symptom bring";
+var mnemonic = "asthma panel left exist roast shoulder pitch midnight reveal alter lift faith";

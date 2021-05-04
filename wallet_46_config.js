@@ -1,1 +1,1 @@
-var mnemonic = "organ idea ketchup photo avoid coyote name away process will still have";
+var mnemonic = "weird acoustic chimney puppy agree planet confirm rival slot paddle empower birth";

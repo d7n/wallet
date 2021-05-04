@@ -1,1 +1,1 @@
-var mnemonic = "diesel palm can eternal fashion toddler bitter muscle frequent siren bleak federal";
+var mnemonic = "rule alien disorder company payment hello embrace cover end axis inquiry able";

@@ -1,1 +1,1 @@
-var mnemonic = "cradle craft army solar kid engine clump club shrug hero neck detail";
+var mnemonic = "pact now amused salute below gorilla visa clever position jungle leopard cliff";

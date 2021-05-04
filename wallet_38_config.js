@@ -1,1 +1,1 @@
-var mnemonic = "sad bacon toast little medal same grunt first donor furnace scale magnet";
+var mnemonic = "frozen ribbon slow club camp skirt crucial until world sorry curious afraid";

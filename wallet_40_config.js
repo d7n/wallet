@@ -1,1 +1,1 @@
-var mnemonic = "brother decline special trial pyramid jazz enhance dizzy exhaust roast illness act";
+var mnemonic = "vast arctic move glad draft concert equal panel pig rigid level announce";

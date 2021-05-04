@@ -1,1 +1,1 @@
-var mnemonic = "emotion parent wagon real isolate capable peace admit inherit alter rail turkey";
+var mnemonic = "any excite giant accuse unhappy jeans matrix chimney nut company tattoo resemble";

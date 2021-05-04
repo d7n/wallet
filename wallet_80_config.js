@@ -1,1 +1,1 @@
-var mnemonic = "illegal stand trust version piece oven muffin february scene slab myth error";
+var mnemonic = "ensure oxygen ginger sketch pencil lonely material arch supply keep ship bubble";

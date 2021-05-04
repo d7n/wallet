@@ -1,1 +1,1 @@
-var mnemonic = "frog say story sugar couple midnight around attitude dice pledge machine keen";
+var mnemonic = "remain toy position icon boil rather lumber stairs solution casino force combine";

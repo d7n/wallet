@@ -1,1 +1,1 @@
-var mnemonic = "deposit ozone slice before lounge shove piece inch quality pipe spawn panda";
+var mnemonic = "borrow open hobby mango grief height clinic sting clarify fat market mercy";

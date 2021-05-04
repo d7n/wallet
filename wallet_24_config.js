@@ -1,1 +1,1 @@
-var mnemonic = "claw way path few royal document whale setup illness pulp pelican antique";
+var mnemonic = "later sense casual iron language rib cup beauty craft north panther sound";

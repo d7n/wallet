@@ -1,1 +1,1 @@
-var mnemonic = "menu occur excuse tag mountain local autumn bamboo rescue hunt decline diet";
+var mnemonic = "inject radio destroy flame junk layer guess feel label fiber kit orbit";

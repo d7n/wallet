@@ -1,1 +1,1 @@
-var mnemonic = "mobile rebuild senior tackle rich diet winter present age kitchen notice narrow";
+var mnemonic = "harvest powder library online pelican denial hood vast smile doll female speed";

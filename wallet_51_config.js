@@ -1,1 +1,1 @@
-var mnemonic = "negative exhaust surface tail notable service blast green ugly weekend review shed";
+var mnemonic = "marine crack twist manual pizza box use boy feed border square decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "gym route soap slide swear garden peanut will today spoil planet broken";
+var mnemonic = "assist expire feature rich bamboo despair gasp sudden winter decade chaos slight";

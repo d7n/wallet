@@ -1,1 +1,1 @@
-var mnemonic = "horror auction lonely phone ripple news wrestle online come summer fire magnet";
+var mnemonic = "prefer chronic pond foil picnic leader object lunch magnet clip total inspire";

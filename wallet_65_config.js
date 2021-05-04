@@ -1,1 +1,1 @@
-var mnemonic = "reunion arrow avoid audit salon clever fiscal garbage repair sheriff elephant nest";
+var mnemonic = "address genre enlist visual accident veteran friend elephant little nest light frown";

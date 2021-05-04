@@ -1,1 +1,1 @@
-var mnemonic = "renew range hour rigid kingdom rack rebuild supply crucial fatigue aspect warm";
+var mnemonic = "shield assume ramp mind clip wrap desk quarter because bus blind pig";

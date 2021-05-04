@@ -1,1 +1,1 @@
-var mnemonic = "level account cupboard road sunny crumble collect embrace route valid occur swap";
+var mnemonic = "easy can artist spatial trust jeans pig vanish burden humble disorder city";

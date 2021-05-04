@@ -1,1 +1,1 @@
-var mnemonic = "double smile ostrich wash great illegal mansion culture saddle dilemma myself sentence";
+var mnemonic = "exact also lottery grass flag field find manage busy busy indicate energy";

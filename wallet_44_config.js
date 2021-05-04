@@ -1,1 +1,1 @@
-var mnemonic = "blood wish candy erase holiday below later wrist subject faint midnight palm";
+var mnemonic = "empty easily glance crime quick gym prison horn faith demand behind skull";

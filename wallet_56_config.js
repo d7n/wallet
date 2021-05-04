@@ -1,1 +1,1 @@
-var mnemonic = "elegant repair involve negative oak please scorpion calm fantasy day boil sister";
+var mnemonic = "modify trigger vast board anxiety budget tourist rack argue ship jar acoustic";

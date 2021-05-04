@@ -1,1 +1,1 @@
-var mnemonic = "timber sound rifle material defy member enough away once lonely nice latin";
+var mnemonic = "diamond churn equal buyer knock hour solution client child sword knife connect";

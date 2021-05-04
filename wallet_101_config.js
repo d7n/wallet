@@ -1,1 +1,1 @@
-var mnemonic = "venue success dry mobile hill wagon tongue share struggle cute below major";
+var mnemonic = "cluster patient sponsor obvious bread steel chimney wheat neutral wink wave language";

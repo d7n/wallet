@@ -1,1 +1,1 @@
-var mnemonic = "aspect interest near walk lamp elegant abuse panel tired van photo race";
+var mnemonic = "love during case about garage push again crazy leisure similar detect obscure";

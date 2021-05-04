@@ -1,1 +1,1 @@
-var mnemonic = "hip reopen twin sorry frequent talent floor shield arena over hard swallow";
+var mnemonic = "retreat mule olive trap stem present company tunnel impulse lawn damp iron";

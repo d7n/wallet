@@ -1,1 +1,1 @@
-var mnemonic = "consider reform year summer extra panic empower try ten sustain salmon october";
+var mnemonic = "mimic harbor tray beef segment normal motor badge nuclear occur very soft";

@@ -1,1 +1,1 @@
-var mnemonic = "approve range issue voyage reason fortune push angle swift shop april case";
+var mnemonic = "list obey dove refuse crowd lava jeans stable plastic amount success pulse";

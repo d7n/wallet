@@ -1,1 +1,1 @@
-var mnemonic = "teach extend dirt shrug equal razor guitar solve tell retreat range shoulder";
+var mnemonic = "budget fit blanket token cross lock message switch bomb can float strike";

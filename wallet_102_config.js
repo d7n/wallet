@@ -1,1 +1,1 @@
-var mnemonic = "fence divorce head naive clog code eight swarm rescue brain host direct";
+var mnemonic = "awake lady hello universe mammal episode begin second sibling boost identify slam";

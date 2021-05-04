@@ -1,1 +1,1 @@
-var mnemonic = "bind blade same absorb lunch wrap enact exercise ridge vapor swear era";
+var mnemonic = "swing cactus super stadium sniff indicate endless coin polar spring glory exhaust";

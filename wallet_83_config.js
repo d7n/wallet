@@ -1,1 +1,1 @@
-var mnemonic = "frown romance genius fatigue drama sadness month grass parade garment puppy fancy";
+var mnemonic = "uniform arm jazz crouch ranch buddy wrist dinosaur better decide skin wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "youth area piano gossip typical gate round thank person panic lounge method";
+var mnemonic = "bring someone alter food state catch best doll draft orange enhance picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital vivid embark eternal all cup genius topple snow stem razor rally";
+var mnemonic = "fitness wealth dune robust wait clog symbol woman cream gown lawn skirt";

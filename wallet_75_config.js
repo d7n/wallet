@@ -1,1 +1,1 @@
-var mnemonic = "slim junk eager drum draft bunker they obscure good wink rose scrap";
+var mnemonic = "swamp stem diet dance insane kitchen recall symbol quantum resource poet virtual";

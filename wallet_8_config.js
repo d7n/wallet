@@ -1,1 +1,1 @@
-var mnemonic = "theme escape team zebra twenty orphan theme typical track tragic wrist immune";
+var mnemonic = "oval neither rotate convince kingdom orbit entry key squirrel fame mammal bonus";

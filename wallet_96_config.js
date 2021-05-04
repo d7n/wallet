@@ -1,1 +1,1 @@
-var mnemonic = "object mixed sorry gun summer liquid rescue mutual author immense receive west";
+var mnemonic = "crime detect butter similar vicious tragic dose chaos scatter dirt flash glory";

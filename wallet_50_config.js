@@ -1,1 +1,1 @@
-var mnemonic = "ritual pair stand alone drastic document beauty govern cause earth math legend";
+var mnemonic = "coffee maximum ivory art shy only crisp smooth half neither village garden";

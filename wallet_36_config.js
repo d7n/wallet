@@ -1,1 +1,1 @@
-var mnemonic = "casino happy easy property hybrid pigeon lift royal grunt recipe endless penalty";
+var mnemonic = "state battle someone trust coffee come ridge street garment funny soldier age";

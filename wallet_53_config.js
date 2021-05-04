@@ -1,1 +1,1 @@
-var mnemonic = "liquid shield secret scout goose such cake later napkin oblige mystery rival";
+var mnemonic = "group match innocent noodle switch anchor satoshi bag same educate filter anchor";

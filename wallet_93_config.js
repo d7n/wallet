@@ -1,1 +1,1 @@
-var mnemonic = "match lounge bacon help gauge demise long middle cash lift style dawn";
+var mnemonic = "insane evidence engage bomb snap depth vibrant often weekend crazy corn system";

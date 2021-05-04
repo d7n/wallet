@@ -1,1 +1,1 @@
-var mnemonic = "access mail fade cactus noodle pond lazy price sun love style camera";
+var mnemonic = "script journey subway crane animal tongue rib roast century human core panel";

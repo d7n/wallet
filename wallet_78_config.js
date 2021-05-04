@@ -1,1 +1,1 @@
-var mnemonic = "umbrella myself unknown bar delay merry collect city sniff boil calm picnic";
+var mnemonic = "current toilet blanket demise wrist hawk rabbit soda true ride school heart";

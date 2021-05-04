@@ -1,1 +1,1 @@
-var mnemonic = "slight month sport swim soft country hidden ice slight total similar merge";
+var mnemonic = "lazy casual symbol upon oil reopen addict ranch gold donor board caught";

@@ -1,1 +1,1 @@
-var mnemonic = "agree crawl drink flag debate anxiety tape achieve slice craft bean nerve";
+var mnemonic = "dash acid pipe educate tooth spoil piano crash knock fence bamboo stool";

@@ -1,1 +1,1 @@
-var mnemonic = "curve powder rigid fancy trigger february search speak daring salad violin similar";
+var mnemonic = "label federal call bubble very excuse dragon tilt own odor april aspect";

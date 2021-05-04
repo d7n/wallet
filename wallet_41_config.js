@@ -1,1 +1,1 @@
-var mnemonic = "pink office slot film merry govern teach soldier advice toilet keen arrest";
+var mnemonic = "arrive crunch alert idea chair junior fabric rigid waste defy deputy expand";

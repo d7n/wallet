@@ -1,1 +1,1 @@
-var mnemonic = "absurd depth daring income phrase sunset report forest snow trophy brown erupt";
+var mnemonic = "express silly jelly bitter ski mesh celery deliver execute sauce teach jacket";

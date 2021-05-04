@@ -1,1 +1,1 @@
-var mnemonic = "body unlock cream reward split trade tree harvest file valley enact celery";
+var mnemonic = "profit disagree autumn gadget weasel mask thought body three wild margin lift";

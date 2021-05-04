@@ -1,1 +1,1 @@
-var mnemonic = "whale ocean ride tank fog great easily feel upset episode sun urban";
+var mnemonic = "ladder twice easily cash erase ocean must wage cup rely goat recipe";

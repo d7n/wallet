@@ -1,1 +1,1 @@
-var mnemonic = "hill yellow together vivid trigger toast group dinosaur wrong grace connect cable";
+var mnemonic = "siren sock chunk rib one mutual front involve appear ozone grass blood";
