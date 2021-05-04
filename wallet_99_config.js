@@ -1,1 +1,1 @@
-var mnemonic = "object poem tent goddess pigeon range audit hip liquid trip guide define";
+var mnemonic = "alcohol space picture cake fancy lamp brown half subject bird fatal abuse";

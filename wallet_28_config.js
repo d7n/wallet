@@ -1,1 +1,1 @@
-var mnemonic = "cricket tiger travel snake senior roast crunch sign web female skull convince";
+var mnemonic = "large apology betray west festival stumble wolf code summer school shiver remove";

@@ -1,1 +1,1 @@
-var mnemonic = "model world poet defy expand group danger cloud kitten venue expand bunker";
+var mnemonic = "body village frequent adapt clinic october cabbage disorder rotate traffic sheriff emotion";

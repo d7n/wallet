@@ -1,1 +1,1 @@
-var mnemonic = "they solid boring omit era state clip reject type prosper scene olive";
+var mnemonic = "spray shuffle artwork oxygen abstract lunar subway trash chapter fog round inmate";

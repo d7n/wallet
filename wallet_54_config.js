@@ -1,1 +1,1 @@
-var mnemonic = "trade ranch husband stereo sponsor fiscal ranch shove middle gossip squeeze wolf";
+var mnemonic = "pole cement ride staff staff master age evil dynamic tiny inside movie";

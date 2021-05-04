@@ -1,1 +1,1 @@
-var mnemonic = "chicken police romance spend journey minor pool morning tackle chunk extend truck";
+var mnemonic = "absent torch gaze cousin private asthma intact defy olympic bring can knee";

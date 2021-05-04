@@ -1,1 +1,1 @@
-var mnemonic = "west day machine erase human crunch plunge enact health brown vanish drastic";
+var mnemonic = "tell buyer glow lumber absorb nest rabbit come discover drift indicate guard";

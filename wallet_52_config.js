@@ -1,1 +1,1 @@
-var mnemonic = "tuna october fossil sight only wave mesh glue morning balcony piano chicken";
+var mnemonic = "increase dwarf visit eye legend palm sauce winner female know proud all";

@@ -1,1 +1,1 @@
-var mnemonic = "child picnic above fox piano butter mobile spray insane toy focus local";
+var mnemonic = "soup bottom tobacco run quote submit rotate produce artefact ghost business tomorrow";

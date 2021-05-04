@@ -1,1 +1,1 @@
-var mnemonic = "scissors canal approve lottery code spirit polar course solar vacuum little want";
+var mnemonic = "smart evil piano flame bless story crime warfare about derive belt idle";

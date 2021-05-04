@@ -1,1 +1,1 @@
-var mnemonic = "camera mind clap sock episode parrot credit frequent tent blanket index verb";
+var mnemonic = "affair able toilet start treat tennis school vivid near fold card panther";

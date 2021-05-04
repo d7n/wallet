@@ -1,1 +1,1 @@
-var mnemonic = "certain couple spoil high seven cousin order night split poet base dinosaur";
+var mnemonic = "canyon answer cherry mail jaguar injury tennis recycle skirt tumble laugh feature";

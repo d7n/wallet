@@ -1,1 +1,1 @@
-var mnemonic = "shy float crater adapt favorite cake pledge random pool demise trip distance";
+var mnemonic = "actress about embark maximum edge coral wrestle tray idea broken arrow olive";

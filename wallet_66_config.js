@@ -1,1 +1,1 @@
-var mnemonic = "skill valve into grant found talk boring fame axis taste lucky patient";
+var mnemonic = "unaware civil harbor manual craft champion fancy delay engage exhibit apart tribe";

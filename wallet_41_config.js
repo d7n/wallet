@@ -1,1 +1,1 @@
-var mnemonic = "century phrase erosion orient social duck choice fringe orange neither other change";
+var mnemonic = "alter fault eagle work pole exclude scatter boat endless evil glare cruel";

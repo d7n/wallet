@@ -1,1 +1,1 @@
-var mnemonic = "such lend blood parent collect barely glory come corn journey when excess";
+var mnemonic = "life mesh goose flush jungle relief wink mistake chase disagree nature fashion";

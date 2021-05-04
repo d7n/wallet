@@ -1,1 +1,1 @@
-var mnemonic = "broken web load upon divert cheese churn pluck nerve turkey hen enjoy";
+var mnemonic = "name judge mass guess rely orient fantasy use lab naive mask roof";

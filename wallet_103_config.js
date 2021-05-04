@@ -1,1 +1,1 @@
-var mnemonic = "sorry rival enlist nuclear seed pepper coffee fault drive nice expire insect";
+var mnemonic = "shy ancient wise pill help property health amazing gain fix mirror stairs";

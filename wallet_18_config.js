@@ -1,1 +1,1 @@
-var mnemonic = "cushion horror prevent candy bottom crouch sunset swap blame squirrel gun hamster";
+var mnemonic = "warrior gift coin reduce hawk token friend doctor ramp zebra margin pitch";

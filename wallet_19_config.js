@@ -1,1 +1,1 @@
-var mnemonic = "raccoon gym decrease blame sphere pipe other cricket album robust fan laptop";
+var mnemonic = "type service penalty frozen exchange turn panel suit permit close safe napkin";

@@ -1,1 +1,1 @@
-var mnemonic = "menu waste upon skate favorite position recipe alpha solar various desert cake";
+var mnemonic = "margin guitar oil increase inform warm inspire cloth live deny safe father";

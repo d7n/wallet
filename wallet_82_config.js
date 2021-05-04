@@ -1,1 +1,1 @@
-var mnemonic = "segment test bitter salute marine float broom option task repair reopen eight";
+var mnemonic = "traffic torch sick phrase month embrace vibrant civil unaware actual chair museum";

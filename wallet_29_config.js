@@ -1,1 +1,1 @@
-var mnemonic = "symptom desk resemble bean narrow enforce ordinary when naive dune group field";
+var mnemonic = "ignore federal radar flame oven impose robot tuna between gospel shrug enhance";

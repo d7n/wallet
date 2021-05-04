@@ -1,1 +1,1 @@
-var mnemonic = "arrive impulse budget unit text salad erupt middle night avoid fault jazz";
+var mnemonic = "sadness certain fantasy entry salt point index upper laugh unable route monkey";

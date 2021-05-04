@@ -1,1 +1,1 @@
-var mnemonic = "lock panic crucial yellow decline must head million vacuum keep slush piece";
+var mnemonic = "move valve gown boring neutral shine original spider congress because avocado aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "panel crawl april unhappy siren pretty path reward claim high much blame";
+var mnemonic = "sleep notice like coast arm toy accuse begin bottom certain measure hood";

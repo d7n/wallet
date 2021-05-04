@@ -1,1 +1,1 @@
-var mnemonic = "deputy resemble shove butter rice hurt casino source surface hood found ramp";
+var mnemonic = "mom invest exclude zero ship riot shallow joke canyon ecology round enlist";

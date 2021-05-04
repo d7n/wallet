@@ -1,1 +1,1 @@
-var mnemonic = "throw glad lounge obey agree program scrap toward awesome diagram stamp element";
+var mnemonic = "dice exhaust crystal damp crawl because indoor lounge desert convince able trap";

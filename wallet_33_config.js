@@ -1,1 +1,1 @@
-var mnemonic = "brown devote sleep switch garden neglect total column guitar hour kiwi upper";
+var mnemonic = "polar vintage room slender boil save name govern salmon trophy immune hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse story guard follow dynamic tomorrow bronze hobby journey film confirm employ";
+var mnemonic = "arch cushion sentence power garden grace lemon credit income energy spring river";

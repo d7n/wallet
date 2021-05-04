@@ -1,1 +1,1 @@
-var mnemonic = "result shift muffin cage razor warm similar owner grow scatter clarify waste";
+var mnemonic = "cream menu pact pipe piano trust gloom march donor glow gap snack";

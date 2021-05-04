@@ -1,1 +1,1 @@
-var mnemonic = "butter misery same unaware swear draw party around economy open skin spice";
+var mnemonic = "symptom history degree piece put brief hobby school hero vast tower keep";

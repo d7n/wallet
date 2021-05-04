@@ -1,1 +1,1 @@
-var mnemonic = "celery surround ghost addict general acoustic motor mango warfare boring make oyster";
+var mnemonic = "found mansion pledge depth betray innocent pitch script gorilla embrace loud hungry";

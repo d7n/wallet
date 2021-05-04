@@ -1,1 +1,1 @@
-var mnemonic = "clean echo submit brush boy canvas oil flush salad bean jealous knife";
+var mnemonic = "swift october skull space raise elevator various attend pet another master foot";

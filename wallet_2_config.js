@@ -1,1 +1,1 @@
-var mnemonic = "claim act occur soft town afford limb enable input neck frown pave";
+var mnemonic = "unaware exchange vault where remember fragile ethics weird rebuild assume photo logic";

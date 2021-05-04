@@ -1,1 +1,1 @@
-var mnemonic = "wall ceiling mouse solid cry blur solid shift rug nest inform crouch";
+var mnemonic = "vital online excite want update sea wide skirt sort carbon welcome doll";

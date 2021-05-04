@@ -1,1 +1,1 @@
-var mnemonic = "sunset idea slice call brick opinion december ahead minor rabbit marine hat";
+var mnemonic = "clap custom bench add spring night damage shadow dish toe involve shock";

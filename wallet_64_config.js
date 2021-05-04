@@ -1,1 +1,1 @@
-var mnemonic = "video silk order manage spin endless theme myth balcony sudden size nominee";
+var mnemonic = "spatial knife person adapt west design grape sell inmate field glory poem";

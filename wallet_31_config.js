@@ -1,1 +1,1 @@
-var mnemonic = "split improve broken document clever illegal swing expect raw yard tiger twice";
+var mnemonic = "vague puppy like chronic height people east biology park dream fruit surround";

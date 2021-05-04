@@ -1,1 +1,1 @@
-var mnemonic = "shed belt fiscal special topic hello leopard craft toast armed wrap toward";
+var mnemonic = "soon item arrest zebra achieve moral pause glimpse bag skirt ability elite";

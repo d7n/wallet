@@ -1,1 +1,1 @@
-var mnemonic = "canyon wash dove unfold jacket dolphin warfare weekend crash mystery panic coil";
+var mnemonic = "surprise text address snack panel rotate way elite best creek define pilot";

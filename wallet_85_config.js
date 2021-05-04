@@ -1,1 +1,1 @@
-var mnemonic = "luggage october unusual cloth glue velvet enough barrel amazing build wage they";
+var mnemonic = "garage chest rail demand picture bone bomb loyal minute truck recycle virtual";

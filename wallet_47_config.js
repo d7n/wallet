@@ -1,1 +1,1 @@
-var mnemonic = "like pause artefact resemble survey cart balance glare giraffe youth orchard comic";
+var mnemonic = "oak tragic beauty barely shrug library crop ecology title rate divide plug";

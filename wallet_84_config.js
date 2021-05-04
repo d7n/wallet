@@ -1,1 +1,1 @@
-var mnemonic = "glad need security satoshi degree exit album gun solid pencil ketchup cross";
+var mnemonic = "cute crush turkey remove come vague emerge public inspire return speed horn";

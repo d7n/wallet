@@ -1,1 +1,1 @@
-var mnemonic = "salt kind kiss foil walnut illegal script bar wave leader replace mad";
+var mnemonic = "review stick worth dream permit fabric whip stage trap annual grass innocent";

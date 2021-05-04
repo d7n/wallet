@@ -1,1 +1,1 @@
-var mnemonic = "armed issue effort radar nothing green repeat floor ghost dolphin ticket neck";
+var mnemonic = "icon spring love pen piano anger parent chicken story fringe agree episode";

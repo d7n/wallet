@@ -1,1 +1,1 @@
-var mnemonic = "hen gentle iron romance thumb scan view dismiss rate super merge agree";
+var mnemonic = "busy latin team prevent panel erase reduce boil episode alley tenant audit";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut solar motor open vapor timber elbow front brother horn garden must";
+var mnemonic = "consider park broccoli injury put immune mercy shoe dignity basic answer response";

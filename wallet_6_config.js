@@ -1,1 +1,1 @@
-var mnemonic = "fat exact skate gossip path drink ten fan helmet tuna casual exact";
+var mnemonic = "cinnamon alter ladder dial east help isolate fix midnight horse rally rich";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty assault impose degree lawn scale alien december unfold sunset glimpse custom";
+var mnemonic = "expand pitch thing huge sign harvest notice shy profit exist hello vital";

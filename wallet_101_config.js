@@ -1,1 +1,1 @@
-var mnemonic = "october broccoli regret burst bronze spice supreme dish half pulp earth early";
+var mnemonic = "sponsor flush recycle point resist useless above rib learn orange actress topple";

@@ -1,1 +1,1 @@
-var mnemonic = "cup shock slogan offer submit kit whisper abstract lawsuit shop pioneer east";
+var mnemonic = "drama shuffle scatter tube aunt caution pupil van lunar gauge tail index";

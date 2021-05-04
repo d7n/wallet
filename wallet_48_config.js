@@ -1,1 +1,1 @@
-var mnemonic = "rack exhibit beach spread call engage august often alter crime senior surround";
+var mnemonic = "left speed address two inner ghost during hour elevator foam wood maid";

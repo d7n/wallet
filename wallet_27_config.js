@@ -1,1 +1,1 @@
-var mnemonic = "baby slice ginger smile key security post street bulb easy faint shallow";
+var mnemonic = "kite page token camera teach nasty name tribe happy unveil parent refuse";

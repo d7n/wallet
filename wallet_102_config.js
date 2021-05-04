@@ -1,1 +1,1 @@
-var mnemonic = "height crack pride neutral faculty urge mistake drive you loop fringe surround";
+var mnemonic = "walk planet sorry output debate book parent afford island cycle panther erase";

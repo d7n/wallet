@@ -1,1 +1,1 @@
-var mnemonic = "document accident can gentle typical need paper fragile spawn cancel clap focus";
+var mnemonic = "fragile flag rookie model elephant tuition mixed flat adjust sheriff wish language";

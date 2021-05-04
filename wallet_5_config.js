@@ -1,1 +1,1 @@
-var mnemonic = "protect mom neutral insect upon jewel acid base turn cattle quality virtual";
+var mnemonic = "civil degree away oil love bright gap glow despair then demise trim";

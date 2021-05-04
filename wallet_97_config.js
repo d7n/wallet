@@ -1,1 +1,1 @@
-var mnemonic = "music supply bridge cute captain garbage hat depth license salon blossom donkey";
+var mnemonic = "adapt obvious certain board elephant aunt torch blind trial install firm december";

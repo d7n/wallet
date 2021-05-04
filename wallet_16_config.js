@@ -1,1 +1,1 @@
-var mnemonic = "they gift rapid glow stem damage true lemon green shop outside pelican";
+var mnemonic = "hurt boy pupil almost slide gorilla sand venue school satoshi toss sorry";

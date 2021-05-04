@@ -1,1 +1,1 @@
-var mnemonic = "laugh illegal stove double knock armor whisper stadium chicken reopen rigid alert";
+var mnemonic = "library reward road scale loan cattle dress anchor finish scorpion install dismiss";

@@ -1,1 +1,1 @@
-var mnemonic = "connect hard zebra wealth carpet hire enter step pumpkin connect flavor motor";
+var mnemonic = "century winner abandon blush once topic tube blanket rain achieve slow defy";

@@ -1,1 +1,1 @@
-var mnemonic = "topple gown fit liberty celery cushion minute flat mesh equal churn steak";
+var mnemonic = "police keep fall position defy advice leopard tool business pony hundred spatial";

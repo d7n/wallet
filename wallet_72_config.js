@@ -1,1 +1,1 @@
-var mnemonic = "acid speed link another move exclude able gospel false now grow inject";
+var mnemonic = "ball slim lawsuit legal fancy interest become actual inject main quick fault";

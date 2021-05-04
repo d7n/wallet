@@ -1,1 +1,1 @@
-var mnemonic = "spice oblige inhale spike file lobster another portion few echo again gallery";
+var mnemonic = "patch exchange inch cry come federal journey deputy legal dignity city lawn";

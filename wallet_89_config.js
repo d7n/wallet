@@ -1,1 +1,1 @@
-var mnemonic = "proud silver gallery usual crater forget giant object wire quarter cushion horror";
+var mnemonic = "sweet area cruise must art gauge brick tornado deputy rent glimpse number";

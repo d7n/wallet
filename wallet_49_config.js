@@ -1,1 +1,1 @@
-var mnemonic = "snow life endorse neck flash cruel calm during indicate busy staff nest";
+var mnemonic = "parrot ridge danger cluster inside ghost bid harvest network march outer session";

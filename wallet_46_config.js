@@ -1,1 +1,1 @@
-var mnemonic = "captain forward region knife purity inject limb olive casual angle rebuild ring";
+var mnemonic = "cargo various mention beyond online rocket hedgehog foil rent poem claw mosquito";

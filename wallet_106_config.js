@@ -1,1 +1,1 @@
-var mnemonic = "deliver have senior season include consider exhibit upgrade matrix purchase rookie raw";
+var mnemonic = "car disagree labor try chunk wonder another steak hedgehog hazard animal bean";

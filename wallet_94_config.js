@@ -1,1 +1,1 @@
-var mnemonic = "approve old skill truck bronze health used cloud alarm find brave force";
+var mnemonic = "usual rich brush play borrow never staff myth summer face donkey rely";

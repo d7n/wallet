@@ -1,1 +1,1 @@
-var mnemonic = "tag home head scale gentle boil example kiwi special meadow reform ring";
+var mnemonic = "surge fancy swap uncover head add tired update artwork code party inherit";

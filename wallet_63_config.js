@@ -1,1 +1,1 @@
-var mnemonic = "permit interest tuna park more student click message regret segment patch glimpse";
+var mnemonic = "spider ivory knock frozen alter scatter lawsuit rare boss heavy tribe style";

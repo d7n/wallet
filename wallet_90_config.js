@@ -1,1 +1,1 @@
-var mnemonic = "floor outer inspire cabin gauge visit memory raw guard athlete away weird";
+var mnemonic = "vicious song decorate sketch wife walnut duty exact patrol section sting cook";

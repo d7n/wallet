@@ -1,1 +1,1 @@
-var mnemonic = "sunset load ride search bitter verify improve margin mixture animal ankle cup";
+var mnemonic = "blade derive conduct laptop goddess practice slim steak duty outer damage increase";

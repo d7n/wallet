@@ -1,1 +1,1 @@
-var mnemonic = "update maze motor safe curve often wreck inmate organ unfold charge ghost";
+var mnemonic = "disorder panic allow beauty few harvest vault awkward street arrest bottom nice";

@@ -1,1 +1,1 @@
-var mnemonic = "absorb crash essay guess crawl reveal weekend riot oak roast output grid";
+var mnemonic = "matrix fatal engine credit drill quarter grant laugh release federal drink lava";

@@ -1,1 +1,1 @@
-var mnemonic = "enrich holiday sense blame athlete quiz hawk puzzle pattern dinner cube pave";
+var mnemonic = "debris torch effort pistol fabric arm comic okay one bounce clog series";

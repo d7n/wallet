@@ -1,1 +1,1 @@
-var mnemonic = "prosper welcome torch slogan edge churn sunset face night female globe scale";
+var mnemonic = "wild knife plug demise century polar tobacco plate video assume enable turtle";

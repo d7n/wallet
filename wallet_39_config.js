@@ -1,1 +1,1 @@
-var mnemonic = "silly double aunt away air smile dish auto useless kick hospital wink";
+var mnemonic = "artwork junk pond street effort radio exile monitor donor subject basic remember";

@@ -1,1 +1,1 @@
-var mnemonic = "stereo fly yellow man season suggest range bottom enhance trick explain sausage";
+var mnemonic = "quit bird vicious vanish family dirt hero frequent scrub theory love jar";

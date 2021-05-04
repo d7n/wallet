@@ -1,1 +1,1 @@
-var mnemonic = "crew art bracket tell apology include birth scene snack hair slight volume";
+var mnemonic = "antenna rookie pioneer silver short ring sweet unfair sudden enemy sponsor adult";

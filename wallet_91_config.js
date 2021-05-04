@@ -1,1 +1,1 @@
-var mnemonic = "elite exact ancient suit borrow time trigger pink pyramid earth cupboard check";
+var mnemonic = "window crowd nice minor junk home melody discover unveil angle near liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic lottery mushroom combine basic alley mosquito assume sorry analyst govern glove";
+var mnemonic = "element patrol spice ladder ready fame eyebrow card sustain peace enlist reveal";

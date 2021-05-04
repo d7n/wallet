@@ -1,1 +1,1 @@
-var mnemonic = "fly animal verify win strike flush holiday owner original hand define frown";
+var mnemonic = "change entry spoil rather lab delay van hero crowd return shop panther";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer quarter edit minimum concert reason hand oppose woman knee audit team";
+var mnemonic = "element icon soul amateur unfold camp parrot friend bomb interest second upset";

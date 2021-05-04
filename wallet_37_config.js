@@ -1,1 +1,1 @@
-var mnemonic = "fee shadow jelly live report thing defy soup major say liberty immense";
+var mnemonic = "pink phrase coin juice front label poem spray dinner drive phrase sleep";

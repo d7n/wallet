@@ -1,1 +1,1 @@
-var mnemonic = "afraid rude mistake account subject equip birth select enforce pitch admit mango";
+var mnemonic = "nurse junk horror endless drama suffer inside cruise civil portion caution amount";

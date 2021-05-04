@@ -1,1 +1,1 @@
-var mnemonic = "nation wall reveal topic present skill head vast sword skull shoot salad";
+var mnemonic = "rescue alone organ auction prison leave unknown share dash tunnel donor improve";

@@ -1,1 +1,1 @@
-var mnemonic = "shift mistake kitchen enhance catalog snake oval since buddy belt strong illness";
+var mnemonic = "deliver recycle crew detail unique paddle cactus local peasant raw twenty pet";

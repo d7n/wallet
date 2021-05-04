@@ -1,1 +1,1 @@
-var mnemonic = "way satisfy artist yard right asthma rescue tourist spoon twist remember great";
+var mnemonic = "limb cook maple slush life lunar comic meadow trial fancy session loop";

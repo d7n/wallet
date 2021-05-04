@@ -1,1 +1,1 @@
-var mnemonic = "happy loan time bleak dial palace tilt brick owner absorb extra retreat";
+var mnemonic = "lamp try run champion explain decline caught modify pledge type spirit escape";

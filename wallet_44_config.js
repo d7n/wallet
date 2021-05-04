@@ -1,1 +1,1 @@
-var mnemonic = "skull swallow they cousin ladder surround around chase tone gallery lamp broken";
+var mnemonic = "slow monkey elephant siege eye predict defense scissors during bamboo marble during";

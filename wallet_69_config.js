@@ -1,1 +1,1 @@
-var mnemonic = "emerge gospel simple nose rebel educate purity badge leopard damage exclude civil";
+var mnemonic = "science electric final hobby scorpion market ride document various blind bicycle worry";

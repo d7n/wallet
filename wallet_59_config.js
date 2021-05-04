@@ -1,1 +1,1 @@
-var mnemonic = "buffalo vacuum under transfer whip remove affair pig erase leaf mad cry";
+var mnemonic = "fiction gas spray glory disagree debate mobile luggage loud method involve type";

@@ -1,1 +1,1 @@
-var mnemonic = "lock derive grit liberty subway have tide resource fuel wisdom glory horse";
+var mnemonic = "party tomato bike inherit bacon federal wing quiz coach kit parade more";

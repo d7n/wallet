@@ -1,1 +1,1 @@
-var mnemonic = "lady sell name announce fetch decide retire network grain act million able";
+var mnemonic = "open dry assault taste bind benefit hungry home evoke charge repair build";

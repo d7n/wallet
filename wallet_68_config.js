@@ -1,1 +1,1 @@
-var mnemonic = "render chest grocery radio wage season shoot early economy save away actual";
+var mnemonic = "shield estate fatal gap crane cube urge climb base record oil evidence";

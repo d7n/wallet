@@ -1,1 +1,1 @@
-var mnemonic = "like table chalk tribe diagram labor answer clip pudding bless rare curious";
+var mnemonic = "kit inhale tuition sniff delay bacon chunk frame doll find drop jar";

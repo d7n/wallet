@@ -1,1 +1,1 @@
-var mnemonic = "flat island tortoise inflict aware brick amateur fade august worry census wealth";
+var mnemonic = "quality famous clarify nuclear manual fan gentle pilot debate search opinion term";
