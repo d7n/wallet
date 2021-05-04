@@ -1,1 +1,1 @@
-var mnemonic = "fragile mesh canvas original novel pattern impulse robust grab bright pass skill";
+var mnemonic = "width taxi frame sting danger bean dirt tank video rail film lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "twist brother lend dance dove receive wear crane symbol flock pen mutual";
+var mnemonic = "trophy divert benefit dragon critic depend season carbon echo key throw chalk";

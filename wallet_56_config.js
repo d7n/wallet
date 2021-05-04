@@ -1,1 +1,1 @@
-var mnemonic = "defense day stick any common spare system kind rate salad affair spawn";
+var mnemonic = "shoulder office join boost ring animal lady green tortoise leader useful decrease";

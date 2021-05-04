@@ -1,1 +1,1 @@
-var mnemonic = "praise lunar spirit silly poverty mixed item arctic decrease reject meat recipe";
+var mnemonic = "master coil invest ensure fish wedding public wire apart nation prison oppose";

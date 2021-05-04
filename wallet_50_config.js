@@ -1,1 +1,1 @@
-var mnemonic = "number proof acid fit area blood involve push draft cannon unique episode";
+var mnemonic = "original tone pear armor game rubber cheese cycle snap anchor jeans fury";

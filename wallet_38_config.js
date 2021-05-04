@@ -1,1 +1,1 @@
-var mnemonic = "awful impact evoke sugar title coin nothing dial length harsh bench you";
+var mnemonic = "depart chest scheme army employ tide perfect dress pull warfare decade nominee";

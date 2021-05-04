@@ -1,1 +1,1 @@
-var mnemonic = "strike patch dove prevent slot silent island joke yard culture tunnel render";
+var mnemonic = "width grant off six unable ring accuse gain during harbor animal cluster";

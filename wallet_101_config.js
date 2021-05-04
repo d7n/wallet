@@ -1,1 +1,1 @@
-var mnemonic = "cute riot short limit can eight submit bright walnut giggle trick strong";
+var mnemonic = "achieve can home cancel salon must summer sea summer inject fall blur";

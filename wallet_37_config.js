@@ -1,1 +1,1 @@
-var mnemonic = "fish okay index indicate argue garage jeans kite scatter waste simple label";
+var mnemonic = "latin giraffe shaft caught client pluck person thank valve traffic bamboo mother";

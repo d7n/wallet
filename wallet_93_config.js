@@ -1,1 +1,1 @@
-var mnemonic = "ice mixture help cactus cousin table random human amateur response blame found";
+var mnemonic = "motor assault analyst proof diamond survey must mistake pitch safe tunnel print";

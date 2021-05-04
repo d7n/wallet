@@ -1,1 +1,1 @@
-var mnemonic = "cheese patient avocado fortune coin garage harbor issue length coconut absurd crisp";
+var mnemonic = "avoid office music zebra day infant civil glow box tourist differ view";

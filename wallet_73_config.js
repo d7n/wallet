@@ -1,1 +1,1 @@
-var mnemonic = "palace curve bridge eager settle retire smoke box culture hospital circle level";
+var mnemonic = "vicious wide merry cause office reduce chicken now miss misery decrease city";

@@ -1,1 +1,1 @@
-var mnemonic = "proof margin reject secret sponsor angle gasp fever absent lounge toss very";
+var mnemonic = "tortoise hotel trim have snake gather select return there fever trap pudding";

@@ -1,1 +1,1 @@
-var mnemonic = "cube ankle skill make agree impact useless grass rose off arrive cake";
+var mnemonic = "dentist cube fly giraffe gasp eagle express hour main nasty elbow lend";

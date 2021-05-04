@@ -1,1 +1,1 @@
-var mnemonic = "grief trap endorse slide shoulder source clump method kiwi foam bright idea";
+var mnemonic = "plug lift keep stairs state regret champion verify dilemma digital lake west";

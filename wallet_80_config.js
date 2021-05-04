@@ -1,1 +1,1 @@
-var mnemonic = "loop sentence company seed warm month segment film quiz laptop divert early";
+var mnemonic = "solution lamp cube cancel story build sister rural monkey cradle drink siren";

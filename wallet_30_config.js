@@ -1,1 +1,1 @@
-var mnemonic = "insect wife enhance play make cinnamon dial remain sketch old glue main";
+var mnemonic = "token private boat vanish cube expire gun lumber sort depth impact spirit";

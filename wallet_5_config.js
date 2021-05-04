@@ -1,1 +1,1 @@
-var mnemonic = "stamp exhibit patrol fire glue coffee nice ketchup maze imitate attend luggage";
+var mnemonic = "candy priority update nothing code domain welcome visa palace obey slush century";

@@ -1,1 +1,1 @@
-var mnemonic = "over screen usual coffee unit mass gap mouse oak divert hobby dignity";
+var mnemonic = "drum bronze merit fatigue upper dial fiscal destroy innocent meat army edit";

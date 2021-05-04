@@ -1,1 +1,1 @@
-var mnemonic = "aunt provide airport warm frost slogan rifle token sister where seed bike";
+var mnemonic = "relief antenna mail educate shoe planet version shift board setup debate visa";

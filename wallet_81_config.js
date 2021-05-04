@@ -1,1 +1,1 @@
-var mnemonic = "mouse impact amazing clog liberty decline fury pluck twelve uncover mammal tail";
+var mnemonic = "cannon hamster riot this nation gather equal laundry quote slush fiscal mixture";

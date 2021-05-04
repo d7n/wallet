@@ -1,1 +1,1 @@
-var mnemonic = "punch fortune decrease inform curve rookie south coil elbow session visual roast";
+var mnemonic = "heavy despair real like become whale become pear inhale tray alcohol mushroom";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract chef combine glad deputy canvas begin crumble pond private essence thumb";
+var mnemonic = "relax shuffle easily casual effort school history credit fiber custom concert bachelor";

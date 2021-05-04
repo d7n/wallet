@@ -1,1 +1,1 @@
-var mnemonic = "hurt tool crush page correct anxiety artist shine gaze face boost resource";
+var mnemonic = "distance smart knock pig skate glide sausage tattoo regret cherry degree lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor dragon suspect welcome right state inherit buzz police bounce duck choose";
+var mnemonic = "tenant antique problem woman inmate monitor annual matrix say horror confirm this";

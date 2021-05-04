@@ -1,1 +1,1 @@
-var mnemonic = "job harbor relief vivid casino pretty duty manual digital shed alert labor";
+var mnemonic = "above degree artefact erode auto popular eager cotton adjust toe expire reduce";

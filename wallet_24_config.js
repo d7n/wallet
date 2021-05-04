@@ -1,1 +1,1 @@
-var mnemonic = "treat border gift apology owner monster series define engage opinion chest sponsor";
+var mnemonic = "deal fork nerve concert body ugly eager ten ethics flame fortune fuel";

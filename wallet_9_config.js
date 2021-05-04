@@ -1,1 +1,1 @@
-var mnemonic = "cattle canoe good toast dirt group swap bachelor forward topic next mesh";
+var mnemonic = "quote dream relax accuse hazard pluck mass frog owner clown layer brass";

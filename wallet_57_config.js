@@ -1,1 +1,1 @@
-var mnemonic = "cave castle virus false hazard few auction ticket secret civil student ugly";
+var mnemonic = "jelly inside plastic verb vivid camp text cable clap hungry chase thunder";

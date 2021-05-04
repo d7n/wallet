@@ -1,1 +1,1 @@
-var mnemonic = "club misery swing maple morning lawsuit gather fix topple merit tray quiz";
+var mnemonic = "decide shoot velvet rival make improve vague mimic era van quiz struggle";

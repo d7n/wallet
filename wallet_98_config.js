@@ -1,1 +1,1 @@
-var mnemonic = "believe mansion vacuum photo damp picture explain loan coast hour develop game";
+var mnemonic = "easily gauge mom crush alarm alone abstract federal lobster layer coconut party";

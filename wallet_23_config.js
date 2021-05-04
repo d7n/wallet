@@ -1,1 +1,1 @@
-var mnemonic = "attend broom sentence scheme badge side various resource diet globe page people";
+var mnemonic = "tattoo desert primary post refuse crew cart alpha jungle shuffle increase ripple";

@@ -1,1 +1,1 @@
-var mnemonic = "garage winner gap trick cage muscle cross whisper friend bone wink eagle";
+var mnemonic = "yard diamond clinic spend worth swamp okay service can sing talk address";

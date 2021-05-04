@@ -1,1 +1,1 @@
-var mnemonic = "damp hard laptop brush force legal struggle foster swallow celery extend impact";
+var mnemonic = "old lift manage topic cry luxury snow captain twelve position output verb";

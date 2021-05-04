@@ -1,1 +1,1 @@
-var mnemonic = "scheme erupt kick skill unit soft trigger quote glance upgrade brick table";
+var mnemonic = "symptom collect fiscal motion domain story water knock boil bicycle approve excite";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict oak social laundry guard begin off humble tower scissors rival welcome";
+var mnemonic = "draft sustain sausage deposit feel person toddler write useless unknown prevent accident";

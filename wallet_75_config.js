@@ -1,1 +1,1 @@
-var mnemonic = "photo best future prosper angry harsh casino above can tank neither reunion";
+var mnemonic = "damage crime diesel bottom cargo draw beef midnight armed expect deputy section";

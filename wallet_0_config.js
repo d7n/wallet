@@ -1,1 +1,1 @@
-var mnemonic = "acid model love regular garlic bacon rural harsh apology frequent dress rate";
+var mnemonic = "robust dragon real promote unaware faith patient blame yellow cabbage canoe bench";

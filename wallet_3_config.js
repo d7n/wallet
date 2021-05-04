@@ -1,1 +1,1 @@
-var mnemonic = "hour scout kitchen refuse shoot mountain shop code nasty wonder decline quit";
+var mnemonic = "good tag mesh use assume true advance either recycle domain speak bright";

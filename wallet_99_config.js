@@ -1,1 +1,1 @@
-var mnemonic = "moral injury erase mask visa quiz hood write volcano real come ladder";
+var mnemonic = "various eagle install recycle action master oil raw dose hour object fan";

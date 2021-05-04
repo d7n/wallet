@@ -1,1 +1,1 @@
-var mnemonic = "maid virtual cushion answer nature begin click direct adapt dwarf young chimney";
+var mnemonic = "skill fit brother dismiss salmon key flat coffee train craft shift palace";

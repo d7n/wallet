@@ -1,1 +1,1 @@
-var mnemonic = "chronic oval smart tag limit salt acoustic choice noise scare regret liberty";
+var mnemonic = "nominee alien picture august capable guard magnet push arrow bomb element tourist";

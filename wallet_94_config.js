@@ -1,1 +1,1 @@
-var mnemonic = "sniff antenna fox economy domain muffin buyer flee warm glue cover before";
+var mnemonic = "inspire link globe true feel carry crash mass size please pride defense";

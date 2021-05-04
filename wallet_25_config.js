@@ -1,1 +1,1 @@
-var mnemonic = "swallow return anxiety trend maple enrich prefer accident bachelor ring hidden snake";
+var mnemonic = "wait equal valley detail sign style say stone account member health razor";

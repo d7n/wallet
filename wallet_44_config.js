@@ -1,1 +1,1 @@
-var mnemonic = "pretty brush mountain captain limb win idea useless task doctor skirt cargo";
+var mnemonic = "result reflect income area couch sunny search dignity tooth shock reason author";

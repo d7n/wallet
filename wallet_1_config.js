@@ -1,1 +1,1 @@
-var mnemonic = "impose nerve hazard garment child hole buffalo fancy stomach attack antenna history";
+var mnemonic = "famous donate analyst draw caution harvest message always tail cheap carpet struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "now render rain fetch input turn someone upon cattle crumble easily nation";
+var mnemonic = "shoe crunch atom pencil social fit vote refuse pill employ energy carpet";

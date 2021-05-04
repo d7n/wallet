@@ -1,1 +1,1 @@
-var mnemonic = "move require romance blue correct marine exhibit transfer grant slight voice awake";
+var mnemonic = "negative man skate cross fantasy soap abuse table crumble exotic talk pioneer";

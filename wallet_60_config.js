@@ -1,1 +1,1 @@
-var mnemonic = "wheel silent screen rookie blanket lonely mirror dance path bike search clump";
+var mnemonic = "uniform rookie minor pistol vessel penalty belt slow trim lock private organ";

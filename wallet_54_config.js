@@ -1,1 +1,1 @@
-var mnemonic = "estate crew real slide critic any dumb gesture enhance hard admit scale";
+var mnemonic = "song meadow tower enroll explain item target primary wheel picnic grace decline";

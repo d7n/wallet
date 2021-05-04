@@ -1,1 +1,1 @@
-var mnemonic = "script symptom lunch quiz beyond behind expand rhythm behind unveil tennis cause";
+var mnemonic = "negative song recall water process shock trip drama try mail job member";

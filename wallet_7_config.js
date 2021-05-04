@@ -1,1 +1,1 @@
-var mnemonic = "potato veteran tip blanket foster talent antenna salmon ladder scorpion oval flash";
+var mnemonic = "add walnut sea history deliver unusual file water volcano kitten bacon fault";

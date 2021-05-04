@@ -1,1 +1,1 @@
-var mnemonic = "puppy sibling option uniform rose flower any seat buddy grocery pony sauce";
+var mnemonic = "jacket pill this unveil vanish that tiny cheap flag banner segment tide";

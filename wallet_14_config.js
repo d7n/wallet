@@ -1,1 +1,1 @@
-var mnemonic = "celery special lizard pledge tunnel lunar pottery bench inflict worry pet eager";
+var mnemonic = "bachelor error bring convince random obscure knock trust enlist easy push nephew";

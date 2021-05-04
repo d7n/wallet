@@ -1,1 +1,1 @@
-var mnemonic = "certain pause morning upset frame interest shove setup owner outer solve tenant";
+var mnemonic = "model ten collect retire odor spare neutral rabbit pepper omit drill tide";

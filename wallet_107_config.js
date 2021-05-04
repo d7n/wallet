@@ -1,1 +1,1 @@
-var mnemonic = "silk before approve coil raven pilot half mule follow planet champion water";
+var mnemonic = "maple equal glad spin embark arch ahead anger pole recipe balcony address";

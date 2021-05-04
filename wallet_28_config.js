@@ -1,1 +1,1 @@
-var mnemonic = "tobacco cousin eyebrow figure math spell polar jar double two similar melody";
+var mnemonic = "million sign double ribbon possible scene option armor soon celery angle wagon";

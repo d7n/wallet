@@ -1,1 +1,1 @@
-var mnemonic = "certain immune bottom club skull produce alcohol action volcano earth couch measure";
+var mnemonic = "typical wrap horror poet insane gloom hobby luggage fog quick twin tent";

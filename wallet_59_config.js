@@ -1,1 +1,1 @@
-var mnemonic = "fatigue ticket rate law buyer summer forest demand fuel people roof wrap";
+var mnemonic = "plate subway wrestle enhance unlock bone must organ chase loud twin essay";

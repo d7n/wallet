@@ -1,1 +1,1 @@
-var mnemonic = "gift diamond lonely wash sheriff furnace lesson chuckle hungry unit gaze myth";
+var mnemonic = "aim setup cereal guide physical marble library news embrace damage crystal peasant";

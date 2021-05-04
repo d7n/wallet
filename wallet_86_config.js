@@ -1,1 +1,1 @@
-var mnemonic = "moon young carbon neck avoid tuition sad anxiety remove mango carry use";
+var mnemonic = "ivory actor brown cheese rough parrot stand travel oval catch syrup sunset";

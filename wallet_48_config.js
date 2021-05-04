@@ -1,1 +1,1 @@
-var mnemonic = "kidney panic marriage play model now card limit near mosquito adjust swim";
+var mnemonic = "guide liquid alert rocket banana orient fly decline piece elite solve estate";

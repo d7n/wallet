@@ -1,1 +1,1 @@
-var mnemonic = "object minute mad agent lend balance spare sniff lobster rate boy apology";
+var mnemonic = "velvet poet cherry ball predict elephant lady idle auction reflect match become";

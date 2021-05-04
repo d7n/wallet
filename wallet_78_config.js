@@ -1,1 +1,1 @@
-var mnemonic = "blood okay kidney plastic friend badge salad round plunge camp super fuel";
+var mnemonic = "congress just short issue alien topple mountain unusual news consider tape casual";

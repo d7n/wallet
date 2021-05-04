@@ -1,1 +1,1 @@
-var mnemonic = "until twenty sadness priority drip turn scrap baby wheel zebra figure inside";
+var mnemonic = "kidney mad trophy inmate observe material sorry neutral fly black quality blue";

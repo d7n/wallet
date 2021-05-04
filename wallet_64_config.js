@@ -1,1 +1,1 @@
-var mnemonic = "lobster funny gesture lizard napkin disease slice grant enhance main wine urban";
+var mnemonic = "mimic foster acoustic trigger salt volcano hazard flip depend dress charge picture";

@@ -1,1 +1,1 @@
-var mnemonic = "usage clown rich relax arm broom drip offer sing program strong tattoo";
+var mnemonic = "sheriff scrap jungle other mutual upper announce tomato tape dirt bulk upper";

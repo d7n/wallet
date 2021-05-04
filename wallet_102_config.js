@@ -1,1 +1,1 @@
-var mnemonic = "neck travel wage drop parent umbrella top bunker shed real response fall";
+var mnemonic = "act damp shallow earn gap earth noble topple toilet reject decline dash";

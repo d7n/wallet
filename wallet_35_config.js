@@ -1,1 +1,1 @@
-var mnemonic = "school exit long erosion armed mushroom extra sorry december hat glass betray";
+var mnemonic = "gun bone midnight brief pelican what wealth brain penalty force arch disorder";

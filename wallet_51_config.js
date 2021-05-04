@@ -1,1 +1,1 @@
-var mnemonic = "odor rail since frost front moment major man female oven exotic purse";
+var mnemonic = "globe spare claim cluster congress valley gown letter wait wrist cigar announce";

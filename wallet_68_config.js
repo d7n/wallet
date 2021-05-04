@@ -1,1 +1,1 @@
-var mnemonic = "elbow seed proof cattle example always fire welcome jaguar boss sport buzz";
+var mnemonic = "change core together cabbage outdoor junior gadget draw about forum muscle section";

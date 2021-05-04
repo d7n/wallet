@@ -1,1 +1,1 @@
-var mnemonic = "glass run harvest stairs rough buffalo jump sketch disorder display sponsor dentist";
+var mnemonic = "distance heart square cradle nothing awkward never guide blanket pluck end business";

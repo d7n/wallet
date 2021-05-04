@@ -1,1 +1,1 @@
-var mnemonic = "kiwi unknown fog tube echo assume champion awkward stem cook ice message";
+var mnemonic = "inquiry zone whale build topple must wool update ecology early erupt guide";

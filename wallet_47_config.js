@@ -1,1 +1,1 @@
-var mnemonic = "damage multiply toe accident census square jeans cigar raven soft baby dinosaur";
+var mnemonic = "stadium alter opinion venture tray donor shoot noble day merge rural random";

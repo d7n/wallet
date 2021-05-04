@@ -1,1 +1,1 @@
-var mnemonic = "smoke drip bless sad sustain column detail spoon sample juice census regret";
+var mnemonic = "creek clever oppose leisure credit dove inform wear castle acoustic dry test";

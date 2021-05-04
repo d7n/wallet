@@ -1,1 +1,1 @@
-var mnemonic = "fun lounge music fortune blade kick ride hope stem target lunch rain";
+var mnemonic = "attitude small symptom ecology tonight scorpion thought purpose search misery gain lab";

@@ -1,1 +1,1 @@
-var mnemonic = "mind gasp put penalty list voice apart select remain remain sorry entire";
+var mnemonic = "space echo small surprise rhythm coin grant history float impose invest clump";

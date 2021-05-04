@@ -1,1 +1,1 @@
-var mnemonic = "tiny praise purchase group neutral sadness shaft undo modify furnace become ketchup";
+var mnemonic = "corn message roof mixture first expose special taste post breeze powder police";

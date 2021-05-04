@@ -1,1 +1,1 @@
-var mnemonic = "exchange view eight father syrup height above menu above umbrella estate educate";
+var mnemonic = "refuse vintage smart syrup elevator salad gallery forget crush jungle sugar river";

@@ -1,1 +1,1 @@
-var mnemonic = "what ocean disorder rose announce arrow trial cabin laugh offer there rally";
+var mnemonic = "because poverty ski cousin sunset guide welcome main invite abandon drink symptom";

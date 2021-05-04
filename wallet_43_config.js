@@ -1,1 +1,1 @@
-var mnemonic = "provide blast skirt during machine gym acid illness velvet ramp consider asset";
+var mnemonic = "ostrich pupil office blush side disease panda awful neck lens elbow traffic";

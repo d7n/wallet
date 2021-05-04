@@ -1,1 +1,1 @@
-var mnemonic = "sibling moral spread okay real useless invest hub bike burst alpha hair";
+var mnemonic = "list stable smart mansion illness moral viable palace oil aisle reason ski";

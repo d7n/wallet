@@ -1,1 +1,1 @@
-var mnemonic = "heart exit dwarf badge roast weasel toe talent eagle reunion victory hurdle";
+var mnemonic = "earn smooth extend light patient success deny clown matter enroll version pulse";
