@@ -1,1 +1,1 @@
-var mnemonic = "gasp ancient goat text safe include blur chase tank birth silk enemy";
+var mnemonic = "find good project trial asset blur tennis web luxury palm culture pig";

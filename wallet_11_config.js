@@ -1,1 +1,1 @@
-var mnemonic = "cliff burst seat marriage penalty dry uncle rare join obtain man profit";
+var mnemonic = "weekend used admit web hint join bitter tone machine child able strike";

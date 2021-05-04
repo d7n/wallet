@@ -1,1 +1,1 @@
-var mnemonic = "divide crash gown wife crystal lion bar differ what glide cram essence";
+var mnemonic = "hen knock sweet soldier spider useless cheap suggest scout path cart biology";

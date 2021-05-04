@@ -1,1 +1,1 @@
-var mnemonic = "notable anxiety antenna celery rude veteran code modify crane potato actual shuffle";
+var mnemonic = "teach reveal just twelve renew crisp actual portion hazard teach voice walk";

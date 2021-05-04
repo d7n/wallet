@@ -1,1 +1,1 @@
-var mnemonic = "suffer inherit sample outside twenty decline benefit timber practice divert old around";
+var mnemonic = "basic tilt chef aim denial hood meadow hello coil discover capital style";

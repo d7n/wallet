@@ -1,1 +1,1 @@
-var mnemonic = "just tomorrow crime firm adapt together deal joke used gun lift remind";
+var mnemonic = "excite badge century depend guide fire bleak attract whip road civil pudding";

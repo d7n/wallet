@@ -1,1 +1,1 @@
-var mnemonic = "rabbit neglect extra moon sting fossil news tell fiber proud pill current";
+var mnemonic = "stairs level anxiety illegal priority obtain gallery fish dawn walk junk heavy";

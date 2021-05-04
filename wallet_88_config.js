@@ -1,1 +1,1 @@
-var mnemonic = "mother history cart coconut drum obey flash exact mad useless matter vast";
+var mnemonic = "solve fragile include device auction crane hat slice scene quality fish coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "act capable hurt screen rally pill hurry album shine abuse guess blur";
+var mnemonic = "exact rely stumble tortoise siren garbage property average expire half expose spot";

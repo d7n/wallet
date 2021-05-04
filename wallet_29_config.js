@@ -1,1 +1,1 @@
-var mnemonic = "lawn unlock deal clerk employ what pink rude alone minimum enjoy crouch";
+var mnemonic = "exhaust series swing control one modify vault car noble mansion peanut floor";

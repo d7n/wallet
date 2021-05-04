@@ -1,1 +1,1 @@
-var mnemonic = "property sail wage that believe dress portion theme fix remove garden just";
+var mnemonic = "lens success claim welcome adult any hurry machine veteran win horse ridge";

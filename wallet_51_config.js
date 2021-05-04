@@ -1,1 +1,1 @@
-var mnemonic = "level foil daughter festival runway into festival fabric uncover copy topple address";
+var mnemonic = "copy garlic wall better square slight rude tennis miss arena elite popular";

@@ -1,1 +1,1 @@
-var mnemonic = "area sunset action picture sphere sample boss spike suffer lock ensure mushroom";
+var mnemonic = "staff east unfair lawsuit display region thrive payment shoot ankle gun unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle evolve upgrade tip odor twice depend company stool joke paper lumber";
+var mnemonic = "merge wrong usual teach practice final dawn casual loop laundry forum cloud";

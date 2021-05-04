@@ -1,1 +1,1 @@
-var mnemonic = "hen infant type flat remember monitor verify pulse exit typical infant globe";
+var mnemonic = "tackle boat ordinary surge bacon creek use feature horn grab gospel swallow";

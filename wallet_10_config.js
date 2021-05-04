@@ -1,1 +1,1 @@
-var mnemonic = "baby achieve achieve bullet quote flush mammal million lift tuition rack ripple";
+var mnemonic = "bulb turkey repeat retire easily eagle minute quick merry caught eagle vanish";

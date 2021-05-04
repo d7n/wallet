@@ -1,1 +1,1 @@
-var mnemonic = "drift benefit urban solve middle tragic rug knee color barrel when draft";
+var mnemonic = "pyramid sample coffee one pitch horn usage honey cool sorry attend mirror";

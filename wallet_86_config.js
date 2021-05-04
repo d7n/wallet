@@ -1,1 +1,1 @@
-var mnemonic = "horror caught glow install flower coast choose bronze axis unique maple hungry";
+var mnemonic = "suit hammer style drill shy fish enlist duck maple useless lion pupil";

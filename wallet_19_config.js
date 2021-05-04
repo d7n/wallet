@@ -1,1 +1,1 @@
-var mnemonic = "remain ripple term color grief economy ketchup issue help endless hurt uniform";
+var mnemonic = "adult humor mean goose early humble hood cement camp arrest oyster arrive";

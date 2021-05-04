@@ -1,1 +1,1 @@
-var mnemonic = "sword rubber abstract dizzy water obey tail position demise accident phrase vintage";
+var mnemonic = "capable during logic rough human field giant ball palace code path favorite";

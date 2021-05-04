@@ -1,1 +1,1 @@
-var mnemonic = "illegal banner urge load bundle tell what extra globe mom panic fossil";
+var mnemonic = "spawn trust circle crunch machine online govern token amazing chest wild ugly";

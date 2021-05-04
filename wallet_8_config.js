@@ -1,1 +1,1 @@
-var mnemonic = "odor atom capital fence parent then simple enable earn vibrant luxury hurry";
+var mnemonic = "escape razor rapid clock thing antenna bone hello giggle finish doll bar";

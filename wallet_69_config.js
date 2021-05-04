@@ -1,1 +1,1 @@
-var mnemonic = "edge broken ocean negative citizen oak original stone paper prepare wedding despair";
+var mnemonic = "base start tribe omit capable sail cover quantum love neutral peace basket";

@@ -1,1 +1,1 @@
-var mnemonic = "off dawn attend ankle same total clutch left gallery link boil major";
+var mnemonic = "need blanket tent disease theme quarter deer timber trade pause attract service";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling chaos budget brick grit almost cushion tide salon fix rate easy";
+var mnemonic = "lounge forget will abstract impulse october orange dragon flavor charge catch only";

@@ -1,1 +1,1 @@
-var mnemonic = "that style easily push deliver brand owner tray trust uphold captain cinnamon";
+var mnemonic = "summer ask square phrase robot number dad lunar cargo eyebrow label anchor";

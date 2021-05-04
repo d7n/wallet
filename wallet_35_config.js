@@ -1,1 +1,1 @@
-var mnemonic = "icon brick lizard river debate major fortune chair resemble impact cherry ball";
+var mnemonic = "virus advance diary net toilet alcohol shell setup catch follow grace nephew";

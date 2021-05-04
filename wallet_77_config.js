@@ -1,1 +1,1 @@
-var mnemonic = "chunk hire car empower there royal budget beauty swamp spike denial couch";
+var mnemonic = "crane over rubber senior doctor city cash spare real ankle gown steak";

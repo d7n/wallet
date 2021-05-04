@@ -1,1 +1,1 @@
-var mnemonic = "dish among strike priority hurry fog remove child grant kangaroo glide sunset";
+var mnemonic = "security palm vacant sheriff outer song pool search silver gather owner ship";

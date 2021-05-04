@@ -1,1 +1,1 @@
-var mnemonic = "fan embark file sort stairs spoon twice hold fiscal public debris leopard";
+var mnemonic = "burst original human horse old supreme spirit suffer tunnel stumble belt indoor";

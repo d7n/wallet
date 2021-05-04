@@ -1,1 +1,1 @@
-var mnemonic = "desert bar bunker donkey vessel reunion jealous help arena north vendor tilt";
+var mnemonic = "mixed short either solid curtain nephew boring master observe verb alter fog";

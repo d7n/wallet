@@ -1,1 +1,1 @@
-var mnemonic = "response birth control rabbit brief joy fuel smart audit monster flee category";
+var mnemonic = "since aunt public impulse remove fiscal powder course pigeon require fancy ask";

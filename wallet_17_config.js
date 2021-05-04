@@ -1,1 +1,1 @@
-var mnemonic = "second suit exhibit garment welcome frost theme snake cushion ocean front swarm";
+var mnemonic = "chronic photo tenant gloom trash insect pencil spirit erase flight subject much";

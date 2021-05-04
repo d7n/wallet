@@ -1,1 +1,1 @@
-var mnemonic = "grow rookie sail toward special name isolate ready inform barrel visual gauge";
+var mnemonic = "dry boost unveil century search into suffer relax payment world sand submit";

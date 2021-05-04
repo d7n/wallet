@@ -1,1 +1,1 @@
-var mnemonic = "empower warrior own mixture height voyage reflect laundry correct divorce trumpet reject";
+var mnemonic = "consider remember mean truth public venue kite symbol key retreat inherit love";

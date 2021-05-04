@@ -1,1 +1,1 @@
-var mnemonic = "tortoise spray change bracket diary drive vacant seek tool tip gauge sugar";
+var mnemonic = "stable art never uncover stove rubber virus galaxy crouch remind pear rate";

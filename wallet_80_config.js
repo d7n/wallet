@@ -1,1 +1,1 @@
-var mnemonic = "ecology clip filter knee reveal weasel dream clip copy winter grow toy";
+var mnemonic = "during still oblige wasp sphere suspect honey supply act twenty begin visa";

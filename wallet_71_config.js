@@ -1,1 +1,1 @@
-var mnemonic = "borrow load teach cargo valve call extra scare outdoor tape attitude orient";
+var mnemonic = "traffic float flavor jewel fork honey police drum eagle ritual feed peasant";

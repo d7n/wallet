@@ -1,1 +1,1 @@
-var mnemonic = "frog object student all vacuum chapter talk mixture peasant only hello peanut";
+var mnemonic = "misery use install top jump mistake six acoustic model useful keen month";

@@ -1,1 +1,1 @@
-var mnemonic = "online teach slab wide still royal guitar staff stereo select pill devote";
+var mnemonic = "piece ritual stuff drive skin dance offer solution quit grid invest shed";

@@ -1,1 +1,1 @@
-var mnemonic = "case resist true canoe avoid name critic vehicle gloom horn taxi icon";
+var mnemonic = "motion soup jelly possible slogan pencil series hint shed indicate deputy behind";

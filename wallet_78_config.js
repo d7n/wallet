@@ -1,1 +1,1 @@
-var mnemonic = "glory network item struggle urge prefer music pitch learn hunt skate process";
+var mnemonic = "rate army clerk canyon eight radar blast elbow useless assault tuna tiger";

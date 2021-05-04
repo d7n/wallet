@@ -1,1 +1,1 @@
-var mnemonic = "valve episode modify win ginger cash click notice wealth city clip main";
+var mnemonic = "vacuum enact spell advice noodle antenna license also tower nation misery barely";

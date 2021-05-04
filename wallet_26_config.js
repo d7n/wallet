@@ -1,1 +1,1 @@
-var mnemonic = "alien candy begin desk zebra curious alien flip hedgehog butter remember exercise";
+var mnemonic = "couch upgrade eternal steak frown naive sell august pyramid local royal clerk";

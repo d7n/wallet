@@ -1,1 +1,1 @@
-var mnemonic = "canyon mask wheat shock eye noble symptom kiss cradle crash merit unaware";
+var mnemonic = "over picture fever ill holiday reflect crime whale increase social come option";

@@ -1,1 +1,1 @@
-var mnemonic = "load demise weapon rain term kite wrestle body speed bid tongue ketchup";
+var mnemonic = "strike region mystery idle just street reward truck trap similar barely table";

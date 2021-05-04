@@ -1,1 +1,1 @@
-var mnemonic = "banana skull era topple evidence mirror fall digital worth unit remain doll";
+var mnemonic = "ketchup movie action blame impact arch layer wreck two material settle sting";

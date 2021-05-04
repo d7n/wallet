@@ -1,1 +1,1 @@
-var mnemonic = "prepare ceiling mesh outer woman dutch nose zone giggle faint room blade";
+var mnemonic = "fold defy reject umbrella adult napkin swallow hill radar quick success grid";

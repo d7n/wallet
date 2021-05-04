@@ -1,1 +1,1 @@
-var mnemonic = "tide frozen shadow tennis rib impose hover matter bulb dragon cotton connect";
+var mnemonic = "surprise code silk eternal wave bread dog wonder climb main bitter grape";

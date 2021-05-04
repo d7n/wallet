@@ -1,1 +1,1 @@
-var mnemonic = "crawl engage rain monkey pizza whisper genius rare they market leg derive";
+var mnemonic = "cram guilt market tired day swim story rose inner stock symbol hollow";

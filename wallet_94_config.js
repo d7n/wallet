@@ -1,1 +1,1 @@
-var mnemonic = "permit oven alpha drill solve fancy insane drink reunion ripple movie seek";
+var mnemonic = "hover radio slight truck friend identify apple tornado milk category ill federal";

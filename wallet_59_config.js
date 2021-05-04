@@ -1,1 +1,1 @@
-var mnemonic = "super beyond treat habit develop still guilt hub often index prosper rich";
+var mnemonic = "amount champion client energy beyond champion treat narrow magnet magnet feel cram";

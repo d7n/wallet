@@ -1,1 +1,1 @@
-var mnemonic = "tobacco float wreck panic once latin cry curtain dragon attack crunch web";
+var mnemonic = "again assault million job across test sister kick solution pill deliver weekend";

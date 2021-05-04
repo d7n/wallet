@@ -1,1 +1,1 @@
-var mnemonic = "special upgrade coyote render once bright shoe awful talent until bean present";
+var mnemonic = "wave congress snake talk hundred street draft imitate false deer lab trophy";

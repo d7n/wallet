@@ -1,1 +1,1 @@
-var mnemonic = "chief egg hat blind speak because guide couch embark blue maid add";
+var mnemonic = "dolphin unable bamboo lend lens time protect recipe equip entire zero crumble";

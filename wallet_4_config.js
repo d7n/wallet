@@ -1,1 +1,1 @@
-var mnemonic = "trophy twelve future napkin shrimp manual public script orphan offer subway describe";
+var mnemonic = "brother brave erupt culture ceiling term three dial old lawn female pretty";

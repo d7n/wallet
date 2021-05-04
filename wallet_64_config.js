@@ -1,1 +1,1 @@
-var mnemonic = "layer model property crater teach picture depend accuse universe noise promote humble";
+var mnemonic = "camera pull public aware suggest benefit canoe brand run uncle include client";

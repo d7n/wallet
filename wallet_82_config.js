@@ -1,1 +1,1 @@
-var mnemonic = "champion fuel enemy surround flock cable transfer claim pony excess exile predict";
+var mnemonic = "notable peanut hungry company auto cushion people luggage file isolate galaxy toilet";

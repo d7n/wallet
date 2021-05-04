@@ -1,1 +1,1 @@
-var mnemonic = "visa repeat decide borrow exile six food shoulder walnut escape minimum perfect";
+var mnemonic = "draw alone say crouch equip humble birth artwork helmet lonely water pass";

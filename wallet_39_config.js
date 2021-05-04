@@ -1,1 +1,1 @@
-var mnemonic = "mobile produce small near copy century volume west disorder supply order have";
+var mnemonic = "culture search rely seven anxiety oil orbit stand emotion coconut notable dawn";

@@ -1,1 +1,1 @@
-var mnemonic = "amount street machine alien much gun bean state there slush acquire adjust";
+var mnemonic = "layer maple tobacco mule scan obey dice chaos vacuum borrow shell punch";

@@ -1,1 +1,1 @@
-var mnemonic = "display chicken rather middle truth thank exit want lava divide balcony grab";
+var mnemonic = "carpet seminar giraffe vapor ranch cupboard dream reward bus ocean name throw";

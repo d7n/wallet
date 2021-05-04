@@ -1,1 +1,1 @@
-var mnemonic = "deputy fringe reward omit digital void until secret festival adjust cable lens";
+var mnemonic = "actress chase drastic duck drive travel witness bubble auction during mimic pattern";

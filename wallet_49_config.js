@@ -1,1 +1,1 @@
-var mnemonic = "federal worth define nasty hub sniff skull loyal random cart patrol return";
+var mnemonic = "fox object stone orbit trial security change royal future spoon detail magic";

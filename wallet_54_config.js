@@ -1,1 +1,1 @@
-var mnemonic = "fox exist world symbol lens talk original raven ensure one fiber bag";
+var mnemonic = "rebel card exotic human wink fork lizard member margin position sight edge";

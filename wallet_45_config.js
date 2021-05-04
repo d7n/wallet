@@ -1,1 +1,1 @@
-var mnemonic = "pluck mule hamster ugly raise burden reform flat west sibling display this";
+var mnemonic = "elite wheat survey expire critic win genre suit people poet valve unaware";

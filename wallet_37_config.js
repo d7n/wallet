@@ -1,1 +1,1 @@
-var mnemonic = "cycle seat need color trust lyrics puppy argue bounce canvas crop feel";
+var mnemonic = "remove news concert cruise milk ahead wear resist make term quit slot";

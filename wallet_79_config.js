@@ -1,1 +1,1 @@
-var mnemonic = "level blanket share track nephew sort shuffle strike mouse traffic above force";
+var mnemonic = "subway weather ship work search proof aware dial upset gravity kingdom exotic";

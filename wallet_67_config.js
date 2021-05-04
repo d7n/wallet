@@ -1,1 +1,1 @@
-var mnemonic = "render rule fire summer phone bulb tone announce mail monkey provide below";
+var mnemonic = "time web cushion chaos nominee crawl depend section park dragon science doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "response enough elegant bright will gun hunt simple tenant whisper fatigue rice";
+var mnemonic = "pluck reward summer sunset kite miracle follow vague whale intact champion neither";

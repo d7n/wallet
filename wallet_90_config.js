@@ -1,1 +1,1 @@
-var mnemonic = "sphere leave half crunch design large outer glory cash hen page before";
+var mnemonic = "explain march immense blanket off step property security unhappy live cruel soccer";

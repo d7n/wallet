@@ -1,1 +1,1 @@
-var mnemonic = "visual syrup cram butter involve clutch pipe sponsor unfair saddle above egg";
+var mnemonic = "front another resemble other oak extend rhythm damage school desert glow fury";

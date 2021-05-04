@@ -1,1 +1,1 @@
-var mnemonic = "ocean virtual source suspect margin river walnut maid congress crisp awesome tattoo";
+var mnemonic = "follow upgrade soap profit maple repair seminar grief uphold school idle daughter";

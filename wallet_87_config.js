@@ -1,1 +1,1 @@
-var mnemonic = "cause element squeeze column rail involve worth weekend split empty minute olive";
+var mnemonic = "rally cargo feel peasant gospel grass purpose noodle cute scrap sort around";

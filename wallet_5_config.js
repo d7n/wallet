@@ -1,1 +1,1 @@
-var mnemonic = "elbow solution pill morning host ring safe mandate noble coach general cinnamon";
+var mnemonic = "world elite law grass alien change fade virus enforce mistake allow sausage";

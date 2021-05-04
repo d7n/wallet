@@ -1,1 +1,1 @@
-var mnemonic = "try repeat text same inject soft absurd window husband loop have cupboard";
+var mnemonic = "about trap summer jewel prosper pigeon tiger demise remind bag close supply";

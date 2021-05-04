@@ -1,1 +1,1 @@
-var mnemonic = "van wolf better rent bless squeeze second combine step smile mobile clog";
+var mnemonic = "rotate vague lend endless erupt stadium pool peasant certain service false little";

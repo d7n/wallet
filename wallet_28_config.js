@@ -1,1 +1,1 @@
-var mnemonic = "panther electric kite hard excite hungry relax choose museum artefact hat clog";
+var mnemonic = "crowd trade enjoy today swift flash slush garment alarm laptop invest crater";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap rose unveil bag senior dragon cabbage that room stay mesh pumpkin";
+var mnemonic = "donor assume key dawn monster sword slender anger height marriage clown arrive";

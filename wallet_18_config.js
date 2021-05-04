@@ -1,1 +1,1 @@
-var mnemonic = "heavy robot banana parent question volume sauce sausage poem hard toast before";
+var mnemonic = "cousin surface give brave field bright letter real width juice orange dolphin";

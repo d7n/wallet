@@ -1,1 +1,1 @@
-var mnemonic = "almost case organ rice later deal tool jazz broken genuine length lens";
+var mnemonic = "volume spread winner valley enemy sign grow flight member basic law have";

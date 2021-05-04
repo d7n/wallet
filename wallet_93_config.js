@@ -1,1 +1,1 @@
-var mnemonic = "erode find party property auction inhale release minimum penalty shoot margin dolphin";
+var mnemonic = "artist fluid lonely discover captain pill mass raccoon torch similar daughter accident";

@@ -1,1 +1,1 @@
-var mnemonic = "flush gossip mind fall bird chicken pottery fee special tonight search solar";
+var mnemonic = "seven gravity work inmate update inmate gravity lonely cushion fold chunk protect";

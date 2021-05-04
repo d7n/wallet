@@ -1,1 +1,1 @@
-var mnemonic = "collect identify tree dry duty ridge scrub stove wave vote drift attack";
+var mnemonic = "outside lonely immense process marriage myself file ritual panther van small afford";

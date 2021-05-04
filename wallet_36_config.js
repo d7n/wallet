@@ -1,1 +1,1 @@
-var mnemonic = "together act chest sort pen report disagree park puzzle grow custom awful";
+var mnemonic = "bread cruise harbor thumb scissors rapid food typical ranch wise model soldier";
