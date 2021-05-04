@@ -1,1 +1,1 @@
-var mnemonic = "kick december public remind parent usual divide spike symptom phone satisfy volcano";
+var mnemonic = "example stay purchase dragon bind nerve wing excite reason flat increase vault";

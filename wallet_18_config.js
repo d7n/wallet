@@ -1,1 +1,1 @@
-var mnemonic = "clinic parade reflect garlic million poverty case lend stomach raven wide cotton";
+var mnemonic = "cave stove window impulse vibrant merit uniform eyebrow scissors trumpet bless strong";

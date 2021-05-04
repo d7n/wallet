@@ -1,1 +1,1 @@
-var mnemonic = "later clutch neglect mesh consider betray anxiety pet extra depth deny super";
+var mnemonic = "purse lawn coin trust once oil arrest month depart sugar weekend six";

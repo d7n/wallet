@@ -1,1 +1,1 @@
-var mnemonic = "worry sustain anger public you figure glue polar home earth opinion eye";
+var mnemonic = "feature mercy purity argue sight cash art immense always enemy away earn";

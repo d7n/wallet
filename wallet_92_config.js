@@ -1,1 +1,1 @@
-var mnemonic = "future total random capital soul soup mother soap disease gospel limb promote";
+var mnemonic = "sun marine sadness mosquito fall remind select nephew assault market power river";

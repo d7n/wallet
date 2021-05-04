@@ -1,1 +1,1 @@
-var mnemonic = "size staff badge ramp globe very keep retire goat spring suggest mushroom";
+var mnemonic = "high worry stuff elevator wire tragic romance elbow erase quick humor salad";

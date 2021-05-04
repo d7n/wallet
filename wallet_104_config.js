@@ -1,1 +1,1 @@
-var mnemonic = "author school pencil pitch album east donor basic mystery measure post funny";
+var mnemonic = "novel example motion example raccoon around luxury stable fancy crush style arctic";

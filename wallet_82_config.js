@@ -1,1 +1,1 @@
-var mnemonic = "rural pupil shop ensure debate outside popular baby check shrimp refuse smart";
+var mnemonic = "you immense cat recall pitch page hub exclude trigger tide error welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "powder lizard gentle arm second castle receive radar farm dose always escape";
+var mnemonic = "one child illness grant argue else bundle eagle grunt select track super";

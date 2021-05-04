@@ -1,1 +1,1 @@
-var mnemonic = "runway cheap service enjoy depth live random enjoy hybrid tuna fun six";
+var mnemonic = "edge orbit joke garlic chat thank awesome bunker elegant charge belt mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "field cricket wheat boring ice kiwi sister hedgehog similar essay tired rate";
+var mnemonic = "eight width sheriff tunnel flag this sudden distance service number journey dial";

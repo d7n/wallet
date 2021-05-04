@@ -1,1 +1,1 @@
-var mnemonic = "maximum local pool mosquito just length truly pizza critic emerge ecology purchase";
+var mnemonic = "laugh riot you repeat into exotic build inch sand blossom spin rate";

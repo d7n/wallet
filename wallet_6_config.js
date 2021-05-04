@@ -1,1 +1,1 @@
-var mnemonic = "barrel tackle chat drive system damp feel estate ghost name shop then";
+var mnemonic = "peanut worry giant print wave trim planet type foster advice mom local";

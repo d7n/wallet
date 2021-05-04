@@ -1,1 +1,1 @@
-var mnemonic = "purchase until hello dish speak replace vote smart open fan target wise";
+var mnemonic = "thumb people pigeon glory marine final sight cool shell rib civil loyal";

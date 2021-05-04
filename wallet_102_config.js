@@ -1,1 +1,1 @@
-var mnemonic = "subject pioneer patient denial they allow useful proud enter derive grunt direct";
+var mnemonic = "body that thunder kid own sister blast interest main question live smooth";

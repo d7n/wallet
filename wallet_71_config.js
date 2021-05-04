@@ -1,1 +1,1 @@
-var mnemonic = "destroy stick vapor rich student fork great mask name jungle flag sausage";
+var mnemonic = "spray raven unaware alien usage destroy brand old session whip gentle van";

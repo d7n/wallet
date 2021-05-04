@@ -1,1 +1,1 @@
-var mnemonic = "result region train liquid jewel bird orphan update ignore security arrive ritual";
+var mnemonic = "bronze vague keen tiger shrug slow intact hard ripple lottery math snow";

@@ -1,1 +1,1 @@
-var mnemonic = "margin crime barely soccer obvious thumb whip guitar ozone diet crumble quality";
+var mnemonic = "voyage wood wash radar prevent photo check fog device private lumber ethics";

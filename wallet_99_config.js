@@ -1,1 +1,1 @@
-var mnemonic = "century prosper have cruel ready execute craft faint under dice pumpkin program";
+var mnemonic = "grass situate sugar pumpkin gap pepper pole ice door load hungry correct";

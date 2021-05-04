@@ -1,1 +1,1 @@
-var mnemonic = "cattle over drastic lock over victory tonight wear ten rack sword lizard";
+var mnemonic = "powder child spin company route fresh picnic satoshi evoke timber element escape";

@@ -1,1 +1,1 @@
-var mnemonic = "point flavor hint pottery mean deposit toilet true organ tool window van";
+var mnemonic = "anger dress aim tell uniform cycle medal dish rug because token wait";

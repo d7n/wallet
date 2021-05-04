@@ -1,1 +1,1 @@
-var mnemonic = "priority thrive manage canal gain myself taste nice will floor answer abuse";
+var mnemonic = "fluid stadium hub tray other all sadness secret envelope opera hire fragile";

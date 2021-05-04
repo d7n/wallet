@@ -1,1 +1,1 @@
-var mnemonic = "draft chapter combine position copper only siren depart alcohol owner mass tiger";
+var mnemonic = "throw perfect curious vital hedgehog energy crash soup large dinner narrow cousin";

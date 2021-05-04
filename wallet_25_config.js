@@ -1,1 +1,1 @@
-var mnemonic = "misery loyal ridge able kitten tenant congress admit orange region alter goddess";
+var mnemonic = "honey inside layer student timber rural rescue predict lemon ritual cram mix";

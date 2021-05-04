@@ -1,1 +1,1 @@
-var mnemonic = "problem obey trash drink nuclear few van illegal news woman saddle pottery";
+var mnemonic = "trip spice club soon short vague panic genre odor mixture excuse sight";

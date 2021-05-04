@@ -1,1 +1,1 @@
-var mnemonic = "valve mandate brave alone lecture because hard require that heavy accident car";
+var mnemonic = "ride leave credit hidden crater metal zone title siren fish scatter teach";

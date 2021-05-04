@@ -1,1 +1,1 @@
-var mnemonic = "prison next split chimney acquire advance prefer trade clown eager comic infant";
+var mnemonic = "pudding sadness tortoise divorce key guitar erase confirm situate fatal train blood";

@@ -1,1 +1,1 @@
-var mnemonic = "tape balcony regular tomato danger scout enemy smart point easy fall sound";
+var mnemonic = "solar carpet lecture sweet join elevator never charge bread palm cherry salmon";

@@ -1,1 +1,1 @@
-var mnemonic = "check rural coconut range code use question paper attend witness army few";
+var mnemonic = "urban section travel torch october clerk squirrel strike ostrich one flash punch";

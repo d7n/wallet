@@ -1,1 +1,1 @@
-var mnemonic = "alter trick govern mandate earth unaware nasty address glue position morning adjust";
+var mnemonic = "vault rough save they weird place enhance auction lobster cupboard script celery";

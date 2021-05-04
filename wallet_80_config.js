@@ -1,1 +1,1 @@
-var mnemonic = "alcohol under prevent access advice pulse depend same weird dumb mad excuse";
+var mnemonic = "rocket ancient first below zoo casino again lounge song gather kiwi excite";

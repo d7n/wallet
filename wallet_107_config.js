@@ -1,1 +1,1 @@
-var mnemonic = "despair over ritual ritual tank black basic debris spider breeze frog curtain";
+var mnemonic = "capable regular enroll alone deposit vicious birth symbol cloth twenty swift badge";

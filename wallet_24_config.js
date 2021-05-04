@@ -1,1 +1,1 @@
-var mnemonic = "math hurt inflict skirt olive leave water sell rug affair must shoulder";
+var mnemonic = "cabbage wealth ketchup hawk roast cactus ramp flip globe stomach purchase mass";

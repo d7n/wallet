@@ -1,1 +1,1 @@
-var mnemonic = "suit vital street cabin umbrella absorb estate candy way hedgehog connect enlist";
+var mnemonic = "hold typical lab verb snack arrow poverty pipe angle average region blush";

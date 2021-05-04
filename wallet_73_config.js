@@ -1,1 +1,1 @@
-var mnemonic = "special gallery once exact poet piece spirit audit actor raccoon glad giant";
+var mnemonic = "despair fish furnace wealth laptop canoe word left visit crisp belt produce";

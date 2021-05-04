@@ -1,1 +1,1 @@
-var mnemonic = "hello bottom small parade zoo mystery latin lab poverty eyebrow rather secret";
+var mnemonic = "start title merge arrive grass bag novel tree step sibling icon lawn";

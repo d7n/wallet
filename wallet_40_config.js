@@ -1,1 +1,1 @@
-var mnemonic = "razor ritual action sea ski energy dress gadget path skill arch party";
+var mnemonic = "clutch lonely sport reject travel bubble expand online recall alien length age";

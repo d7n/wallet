@@ -1,1 +1,1 @@
-var mnemonic = "napkin polar again world artist ritual print tail insane casual topic safe";
+var mnemonic = "learn appear bunker pattern license skull mixture treat hotel fever pioneer expose";

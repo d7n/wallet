@@ -1,1 +1,1 @@
-var mnemonic = "enforce blood quote crush monster describe hazard verify crawl ritual crawl table";
+var mnemonic = "couple talent opera witness whale mammal upset force pizza wide torch slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "system enroll box badge conduct casino witness urban wedding dry thought can";
+var mnemonic = "gas fall matrix topic ketchup deny unfold change host predict tell rude";

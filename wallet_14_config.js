@@ -1,1 +1,1 @@
-var mnemonic = "depth cup clap cook elbow tell turkey clutch crowd buyer member view";
+var mnemonic = "hire chair visual slide gap churn acid kiss embark spirit wealth bitter";

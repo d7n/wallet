@@ -1,1 +1,1 @@
-var mnemonic = "say face play culture hotel that pudding sunny invest video basket select";
+var mnemonic = "lake matter that hungry manage snack maximum split frost fade hover taste";

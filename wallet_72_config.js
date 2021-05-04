@@ -1,1 +1,1 @@
-var mnemonic = "stamp jealous cake shield blanket narrow episode solve crime fatal convince law";
+var mnemonic = "junior odor view exchange ripple fox advance pig salute hollow village endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "torch approve flip profit slim unable cry adapt auto merry cross cotton";
+var mnemonic = "rib special boss venture because girl kidney roof wave orchard spin whale";

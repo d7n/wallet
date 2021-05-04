@@ -1,1 +1,1 @@
-var mnemonic = "bamboo pilot other normal blush reveal float grief bottom afford wet purse";
+var mnemonic = "retreat sponsor position stone jealous robust belt roast ship hurry shallow media";

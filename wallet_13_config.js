@@ -1,1 +1,1 @@
-var mnemonic = "cannon destroy educate hole ostrich expire mirror sort aunt join captain barely";
+var mnemonic = "food keep major rate stick shock daughter thing phrase miracle jaguar occur";

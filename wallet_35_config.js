@@ -1,1 +1,1 @@
-var mnemonic = "scene industry patch ketchup museum life annual post bridge verb sport bachelor";
+var mnemonic = "direct raw orbit salon chuckle hazard awkward struggle mouse fat buyer solar";

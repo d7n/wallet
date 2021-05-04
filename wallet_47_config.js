@@ -1,1 +1,1 @@
-var mnemonic = "interest hold train observe pioneer wrap device violin method business motor demand";
+var mnemonic = "merge coil chalk trigger vintage furnace pelican actual cheese lunar ginger meat";

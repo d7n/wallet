@@ -1,1 +1,1 @@
-var mnemonic = "false acoustic barely raw bleak rare human project dress sugar patch slam";
+var mnemonic = "film summer language magic ramp bachelor soon elevator guard glide throw bounce";

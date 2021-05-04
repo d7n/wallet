@@ -1,1 +1,1 @@
-var mnemonic = "estate betray rebel dad tip federal surprise pause mail raise ancient never";
+var mnemonic = "vacant supply waste tip video input chest balcony cash snow program cup";

@@ -1,1 +1,1 @@
-var mnemonic = "kitten chest address lamp series trial valid tissue oil wet butter page";
+var mnemonic = "enact quick unfair turn surprise embrace antenna pulp similar leader trim cube";

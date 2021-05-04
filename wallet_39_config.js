@@ -1,1 +1,1 @@
-var mnemonic = "flight guilt near pipe disorder error farm cabbage harsh biology crush junior";
+var mnemonic = "speed master screen elder time garment advance wave push clog claw local";

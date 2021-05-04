@@ -1,1 +1,1 @@
-var mnemonic = "monitor divorce powder sponsor toast helmet item large fatigue stairs sock hungry";
+var mnemonic = "insect tourist whip trophy trip put silly north hospital limit iron discover";

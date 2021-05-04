@@ -1,1 +1,1 @@
-var mnemonic = "sound sunset music setup swift peace avoid clay boost enforce truly dinosaur";
+var mnemonic = "expand coach reform outdoor off kingdom arrange position almost finish pistol melody";

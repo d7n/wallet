@@ -1,1 +1,1 @@
-var mnemonic = "universe accuse tornado donor large embark orphan someone session north century consider";
+var mnemonic = "leader bubble age tree pioneer obvious target crazy surge allow transfer divert";

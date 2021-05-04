@@ -1,1 +1,1 @@
-var mnemonic = "monkey aware vacuum adjust reopen puzzle helmet table ginger announce safe cereal";
+var mnemonic = "want episode say tomato exile knee panic gloom boss average solve verify";

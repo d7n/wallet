@@ -1,1 +1,1 @@
-var mnemonic = "bag wonder inject snow uphold shaft current write duck hundred east risk";
+var mnemonic = "mushroom humble talk admit loyal cruise coil large horn quiz few absent";

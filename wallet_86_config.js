@@ -1,1 +1,1 @@
-var mnemonic = "this gorilla shell element width illegal solve pelican resemble hover fetch green";
+var mnemonic = "coin oblige host sweet cross ranch robot boss cat swing loan weapon";

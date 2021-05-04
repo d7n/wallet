@@ -1,1 +1,1 @@
-var mnemonic = "one wheat skull win claim doll unhappy dawn today welcome matrix total";
+var mnemonic = "city alpha begin electric exact lyrics potato entry short boss emerge junior";

@@ -1,1 +1,1 @@
-var mnemonic = "intact spin custom enter clarify movie omit brother rather hungry panic believe";
+var mnemonic = "special lock fault census gym discover family dish behave since scale inhale";

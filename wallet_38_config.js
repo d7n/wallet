@@ -1,1 +1,1 @@
-var mnemonic = "blue mystery destroy injury melody wood clever train endless short quote student";
+var mnemonic = "chaos arm cry fish aware brain dress cotton sad erase marble system";

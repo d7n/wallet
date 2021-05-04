@@ -1,1 +1,1 @@
-var mnemonic = "metal prize fury much rather mountain valve used reunion usual camera expire";
+var mnemonic = "cause turtle base jump quiz rare erosion multiply mean hand error sand";

@@ -1,1 +1,1 @@
-var mnemonic = "basket diary combine city chronic slight rifle play zoo mail program dove";
+var mnemonic = "girl super dry noble squirrel uncover stuff belt novel wear above eternal";

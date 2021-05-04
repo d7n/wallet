@@ -1,1 +1,1 @@
-var mnemonic = "deal benefit output sea wheat tent spray hint cricket road you aware";
+var mnemonic = "scatter royal century grab room vivid exclude fancy sunset else amazing people";

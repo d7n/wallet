@@ -1,1 +1,1 @@
-var mnemonic = "code medal van soccer frost unveil since film cabin derive uphold vague";
+var mnemonic = "main habit dust addict divorce stable swallow forum please fold arrow mango";

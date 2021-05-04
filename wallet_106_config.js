@@ -1,1 +1,1 @@
-var mnemonic = "mango letter blur degree exhaust oak aspect invite surprise shoot tube strong";
+var mnemonic = "wet mountain width winter despair tone always deposit negative palace mask disorder";

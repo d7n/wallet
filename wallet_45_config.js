@@ -1,1 +1,1 @@
-var mnemonic = "adult spider fold scrap buyer frozen wonder silk invest devote artefact endorse";
+var mnemonic = "opera front keep fault grid plug dust witness romance attack whale cactus";

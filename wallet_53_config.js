@@ -1,1 +1,1 @@
-var mnemonic = "hungry sudden wisdom vicious easy arctic hobby noble used proud animal address";
+var mnemonic = "flash echo category indicate display fragile interest seven dragon evolve author arrest";

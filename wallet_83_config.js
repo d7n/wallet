@@ -1,1 +1,1 @@
-var mnemonic = "knife dinner ivory guitar noble alter harbor afford shy total velvet spread";
+var mnemonic = "desert rare swift quick false script artefact off allow pool curve success";

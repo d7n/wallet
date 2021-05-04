@@ -1,1 +1,1 @@
-var mnemonic = "bar network explain result blouse modify rather hurt worth huge valley pupil";
+var mnemonic = "route exit comfort oven melody eye congress often early text merry potato";

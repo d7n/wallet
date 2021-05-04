@@ -1,1 +1,1 @@
-var mnemonic = "where soup disorder obtain pretty knee skill artwork boy you view seed";
+var mnemonic = "ridge memory author pioneer track ketchup traffic enable forest creek jump skate";

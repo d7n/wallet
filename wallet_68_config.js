@@ -1,1 +1,1 @@
-var mnemonic = "giggle blanket picnic coral world easy twist acquire tilt pencil ignore extend";
+var mnemonic = "depart chaos cost blade simple treat prevent few whisper frame tray pond";

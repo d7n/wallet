@@ -1,1 +1,1 @@
-var mnemonic = "student vehicle run pair under inject cross detail bamboo autumn long picnic";
+var mnemonic = "grunt damp exchange derive dwarf credit across chat term father betray present";

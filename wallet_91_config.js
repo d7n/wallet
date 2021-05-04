@@ -1,1 +1,1 @@
-var mnemonic = "fault trophy unusual quarter case title ready weird lottery custom dish dentist";
+var mnemonic = "flight road month resource ghost orient candy monitor month silent reason fuel";

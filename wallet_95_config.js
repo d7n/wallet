@@ -1,1 +1,1 @@
-var mnemonic = "lemon together gym library odor duck sphere chuckle faith annual act ball";
+var mnemonic = "people man lens minor cup rice couple tuition enter fire exotic release";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow tray skirt clean expire tiny unable oyster action trust ask salt";
+var mnemonic = "delay monster strike orient pulse wood dilemma bone wing jealous feel garlic";

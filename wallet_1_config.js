@@ -1,1 +1,1 @@
-var mnemonic = "hero modify huge eight truck deliver draw pride enrich spend spring shell";
+var mnemonic = "able pyramid cycle tiger leader heavy bacon fiction crane spoon burst long";

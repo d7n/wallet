@@ -1,1 +1,1 @@
-var mnemonic = "tower certain honey document swap melt shallow parrot rural broken claim twist";
+var mnemonic = "useful height jump grass decorate vessel service nature burst fiction foam figure";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon rookie lonely oil guess stem february verify remain senior primary defense";
+var mnemonic = "army battle spider thunder chuckle demise goat coil upset pave ocean knife";

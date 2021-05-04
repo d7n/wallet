@@ -1,1 +1,1 @@
-var mnemonic = "inflict puzzle accuse great fluid grain spot broccoli wolf soup exercise learn";
+var mnemonic = "afraid display will obtain mail solid hub small census finger uncover liar";

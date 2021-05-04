@@ -1,1 +1,1 @@
-var mnemonic = "disagree cover tent during fluid exhibit control float palace across swear peanut";
+var mnemonic = "direct power snack fitness cereal surprise rent swamp live cover pumpkin dizzy";

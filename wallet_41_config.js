@@ -1,1 +1,1 @@
-var mnemonic = "section echo ketchup pyramid later also garlic horror nuclear report ugly mandate";
+var mnemonic = "evolve fix trap rain sausage top copper lemon old surface olympic vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "urban love blossom derive flash because away matrix crumble accident once hazard";
+var mnemonic = "bench arctic eyebrow cabin fiction column quarter animal worth south sugar pond";

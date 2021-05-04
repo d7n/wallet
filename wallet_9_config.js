@@ -1,1 +1,1 @@
-var mnemonic = "bacon siren school slow float river seek region matrix guide offer volcano";
+var mnemonic = "coil mail matter orchard adapt pony stick float regret copper poverty badge";

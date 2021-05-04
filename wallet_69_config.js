@@ -1,1 +1,1 @@
-var mnemonic = "fly timber sound menu palace check two laugh gun clay cotton receive";
+var mnemonic = "grief eager tiger burden wire broom sauce model lab price slice time";

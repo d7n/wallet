@@ -1,1 +1,1 @@
-var mnemonic = "wedding gather message rigid fit trap captain leaf alpha race blind jazz";
+var mnemonic = "walnut jar sail obscure wreck when modify decline shop now spray bike";

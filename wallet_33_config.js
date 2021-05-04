@@ -1,1 +1,1 @@
-var mnemonic = "test stage typical strong omit ready fever immune music imitate conduct history";
+var mnemonic = "addict offer mosquito bean helmet system range tiger van rescue catch tenant";
