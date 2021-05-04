@@ -1,1 +1,1 @@
-var mnemonic = "exhibit pumpkin river harsh crime employ spike isolate fatigue also system stereo";
+var mnemonic = "deposit coil hawk fee basket pattern electric carry quit wheat avocado carbon";

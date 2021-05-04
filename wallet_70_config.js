@@ -1,1 +1,1 @@
-var mnemonic = "fashion catalog around illegal artefact woman drum canvas describe firm elevator menu";
+var mnemonic = "erase truck toss side charge merit list glass collect demise insect aim";

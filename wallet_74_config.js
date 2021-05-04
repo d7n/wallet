@@ -1,1 +1,1 @@
-var mnemonic = "evidence public assault like myth device theme endorse smile subway embrace wait";
+var mnemonic = "face oil jungle reject benefit silent pistol green bargain canal slim festival";

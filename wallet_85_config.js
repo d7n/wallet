@@ -1,1 +1,1 @@
-var mnemonic = "beauty wagon steel april kind roof car gesture august attack cancel flag";
+var mnemonic = "forward develop method practice quantum coil happy bonus address jump arch uphold";

@@ -1,1 +1,1 @@
-var mnemonic = "supreme achieve fossil owner suggest join just anchor mother lab island one";
+var mnemonic = "aspect cluster gift village suit fatal kitchen boost cluster crisp crouch language";

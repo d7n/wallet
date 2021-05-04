@@ -1,1 +1,1 @@
-var mnemonic = "hungry squirrel direct modify share skill fortune virtual doll surprise cube turtle";
+var mnemonic = "jewel obscure eagle enemy estate random ignore much balance vast perfect text";

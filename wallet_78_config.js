@@ -1,1 +1,1 @@
-var mnemonic = "permit arm retreat thank offer pen slide real ozone crater owner spoon";
+var mnemonic = "panther escape width night speak canyon mountain pretty end lake strong wagon";

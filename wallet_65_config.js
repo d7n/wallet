@@ -1,1 +1,1 @@
-var mnemonic = "usage saddle crush used trial destroy meat desert ability hill omit figure";
+var mnemonic = "clever gold foot runway pen praise viable theory cliff orient sign matter";

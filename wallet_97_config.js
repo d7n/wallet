@@ -1,1 +1,1 @@
-var mnemonic = "camera infant open globe impact valley oil arm unknown soccer ahead rug";
+var mnemonic = "double pumpkin cabin coral bridge country kiss milk satoshi stamp note nothing";

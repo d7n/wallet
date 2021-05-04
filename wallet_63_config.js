@@ -1,1 +1,1 @@
-var mnemonic = "swift tunnel ball frame upon over bulk puppy candy void attitude wife";
+var mnemonic = "rotate stuff steak vehicle give loud pool spy picnic trigger rebel pumpkin";

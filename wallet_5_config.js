@@ -1,1 +1,1 @@
-var mnemonic = "attack enact laptop produce disorder ridge often social cheap section horse elite";
+var mnemonic = "level year hybrid dilemma kite veteran pelican sphere grass distance any panther";

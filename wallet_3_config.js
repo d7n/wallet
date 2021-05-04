@@ -1,1 +1,1 @@
-var mnemonic = "lumber muscle cage motion tide mystery swarm nut clever want toe horse";
+var mnemonic = "merit crazy woman plunge good street athlete spray depend section strong unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "cover popular hybrid scan romance tuna foster silk truck stand switch word";
+var mnemonic = "invest perfect frog still stadium lawn patrol expose pave kiwi video problem";

@@ -1,1 +1,1 @@
-var mnemonic = "gasp chest practice reduce exact light country antenna vague grow exchange flame";
+var mnemonic = "unveil stereo skull parade dune tornado hurry news portion rubber year almost";

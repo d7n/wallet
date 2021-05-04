@@ -1,1 +1,1 @@
-var mnemonic = "legal guitar frost priority grow delay use umbrella fiscal about dry beauty";
+var mnemonic = "zoo youth glimpse denial indoor provide federal right force will rely book";

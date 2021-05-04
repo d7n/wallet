@@ -1,1 +1,1 @@
-var mnemonic = "final blade earn task ivory novel help release gold deputy daring gun";
+var mnemonic = "clip put husband slogan decide motion renew blush neutral can portion bird";

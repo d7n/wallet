@@ -1,1 +1,1 @@
-var mnemonic = "fence luggage feel twice toddler slice shrimp wing huge phrase base vanish";
+var mnemonic = "fossil diamond father match fire vanish father word road renew topple maple";

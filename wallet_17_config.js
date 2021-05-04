@@ -1,1 +1,1 @@
-var mnemonic = "group penalty room strong quality job penalty vacant process sword eight symbol";
+var mnemonic = "mule journey area balcony company room paper cash trouble brain local absorb";

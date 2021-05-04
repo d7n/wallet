@@ -1,1 +1,1 @@
-var mnemonic = "gallery fold few path notable copper turkey void aware salon baby memory";
+var mnemonic = "toddler include hunt ball armor hero either danger plastic mask taxi embrace";

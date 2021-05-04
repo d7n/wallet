@@ -1,1 +1,1 @@
-var mnemonic = "cousin spoon person demise kangaroo annual recycle inherit access turtle quiz apple";
+var mnemonic = "crumble true swear dilemma april amount venture bracket film pear slight bleak";

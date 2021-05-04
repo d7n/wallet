@@ -1,1 +1,1 @@
-var mnemonic = "cotton space congress twice grain shoot reason market treat tattoo juice motion";
+var mnemonic = "identify monkey expose gravity kite practice certain knee need tornado when crack";

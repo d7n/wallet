@@ -1,1 +1,1 @@
-var mnemonic = "pledge tissue auto green lyrics crucial various fortune wash kingdom worry struggle";
+var mnemonic = "phone remember goat recycle tissue shoot nest company explain day member silent";

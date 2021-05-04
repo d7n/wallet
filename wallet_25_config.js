@@ -1,1 +1,1 @@
-var mnemonic = "anchor hockey learn captain focus ugly radar resemble retire chunk kind remove";
+var mnemonic = "fiction nut resource uncle age expose silent yard key solar dizzy stage";

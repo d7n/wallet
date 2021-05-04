@@ -1,1 +1,1 @@
-var mnemonic = "mandate midnight ignore south decorate truly uniform morning must master face essay";
+var mnemonic = "orchard keep patient satisfy path shock reduce fringe project drift zoo describe";

@@ -1,1 +1,1 @@
-var mnemonic = "ask loyal axis burst word ability giggle spare silk cruel rubber bargain";
+var mnemonic = "timber essay curve attitude north dawn escape about trash rubber pulse already";

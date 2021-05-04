@@ -1,1 +1,1 @@
-var mnemonic = "ring kind naive predict joke easy program degree always powder account true";
+var mnemonic = "recall when afford offer early collect velvet carbon pony fault drink garment";

@@ -1,1 +1,1 @@
-var mnemonic = "wash giggle scorpion aisle draft tired hat pony cushion message joy rule";
+var mnemonic = "sniff bounce genuine service carry supreme insect mystery young zebra orient script";

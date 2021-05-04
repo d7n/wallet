@@ -1,1 +1,1 @@
-var mnemonic = "quarter dragon ride giggle parade oval left mix symbol forest card valve";
+var mnemonic = "holiday stone awkward ocean best raise dwarf inflict awake giggle pride concert";

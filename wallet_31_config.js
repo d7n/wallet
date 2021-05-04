@@ -1,1 +1,1 @@
-var mnemonic = "behind super space media ostrich race crazy glow rigid beauty bullet obvious";
+var mnemonic = "ranch police struggle arrange poet glass crack record nice service visual wash";

@@ -1,1 +1,1 @@
-var mnemonic = "museum kitchen heart half adjust program dolphin drum position find make impulse";
+var mnemonic = "rifle course almost movie horror chief husband smile screen patient pretty gloom";

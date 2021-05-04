@@ -1,1 +1,1 @@
-var mnemonic = "screen duck pave squirrel core design chat clap danger diamond escape outside";
+var mnemonic = "squirrel joke body board there pledge audit jewel library enough tag setup";

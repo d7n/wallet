@@ -1,1 +1,1 @@
-var mnemonic = "that pond myth finger wink base force slogan elevator renew beach able";
+var mnemonic = "mosquito anchor wife fat equip mountain whisper favorite clean absurd uncover pulp";

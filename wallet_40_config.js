@@ -1,1 +1,1 @@
-var mnemonic = "sugar blast today dial butter convince crystal horn apology curtain brave upper";
+var mnemonic = "arrange welcome bundle always ring destroy garage inject that cousin element knock";

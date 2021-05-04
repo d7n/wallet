@@ -1,1 +1,1 @@
-var mnemonic = "twenty memory hero kiwi finger rib market wealth tuna where gauge found";
+var mnemonic = "chimney drip crazy robust below shrimp alarm dose piano destroy deny edge";

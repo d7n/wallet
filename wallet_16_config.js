@@ -1,1 +1,1 @@
-var mnemonic = "achieve book lottery hill test put swift shed badge library flavor harvest";
+var mnemonic = "priority oil version scrap click fog prosper young stem pond stage emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "diary emotion certain know oblige garment female flee tunnel celery lounge gather";
+var mnemonic = "prosper just actress embark midnight nominee drive explain vibrant panic rose pond";

@@ -1,1 +1,1 @@
-var mnemonic = "throw chuckle supreme need voyage torch canvas science snake able typical brief";
+var mnemonic = "depart phrase desk moon corn love copy expand laugh witness already target";

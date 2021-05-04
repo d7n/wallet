@@ -1,1 +1,1 @@
-var mnemonic = "solar circle develop solid render today hill bind violin clock hollow obtain";
+var mnemonic = "meadow snow entire super harsh pencil kitchen fury unusual judge wise agree";

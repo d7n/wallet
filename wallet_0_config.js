@@ -1,1 +1,1 @@
-var mnemonic = "pact oven sound car write pair license busy device toy famous outside";
+var mnemonic = "surround gap bargain erode sentence horn derive hover galaxy best wine chalk";

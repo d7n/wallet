@@ -1,1 +1,1 @@
-var mnemonic = "write mammal ten universe mandate quantum clap matter cause sustain debris rent";
+var mnemonic = "correct please mesh elder jar smile craft club stable suspect brown shoot";

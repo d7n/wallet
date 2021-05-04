@@ -1,1 +1,1 @@
-var mnemonic = "train arena exit bone december diagram they umbrella swarm harsh original rent";
+var mnemonic = "feel attend wolf stumble butter wish jaguar caught kangaroo usual reopen material";

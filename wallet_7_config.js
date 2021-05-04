@@ -1,1 +1,1 @@
-var mnemonic = "silk news resemble bag fortune dish ghost biology october add situate balcony";
+var mnemonic = "music innocent chase hazard blood kick van provide avoid either airport blouse";

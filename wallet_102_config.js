@@ -1,1 +1,1 @@
-var mnemonic = "hamster trust fiction rack hour tornado project gossip glow speak other blush";
+var mnemonic = "fault predict attack unknown banner leaf virus win adult before inner polar";

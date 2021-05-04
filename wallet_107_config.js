@@ -1,1 +1,1 @@
-var mnemonic = "bitter snake enjoy creek ranch salmon comic join harsh soap tooth dawn";
+var mnemonic = "lottery thank innocent barely price rail path rose trigger turtle clump winter";

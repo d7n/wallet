@@ -1,1 +1,1 @@
-var mnemonic = "rival quantum egg sibling orchard proud shuffle grit apart marine thumb angle";
+var mnemonic = "acid dumb october fresh ethics bag soup lab reflect drama absent van";

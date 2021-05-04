@@ -1,1 +1,1 @@
-var mnemonic = "music erase chalk mushroom barely guess nominee load depart novel essence exchange";
+var mnemonic = "unknown carbon second sword dwarf write fragile what will report crucial true";

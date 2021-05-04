@@ -1,1 +1,1 @@
-var mnemonic = "length employ say lecture sound recipe pet february globe blush initial image";
+var mnemonic = "twin talent key mail boat depart shell unhappy symptom letter foil trumpet";

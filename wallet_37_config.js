@@ -1,1 +1,1 @@
-var mnemonic = "exile quit disease unusual small inner circle sentence emotion car network physical";
+var mnemonic = "hollow gravity energy process joke indoor pair fuel gloom fury into very";

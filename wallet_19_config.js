@@ -1,1 +1,1 @@
-var mnemonic = "dove suit concert tumble term wrap acid endless owner science say garbage";
+var mnemonic = "cream ritual brown rely oak riot december shy orchard stool kind prosper";

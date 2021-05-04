@@ -1,1 +1,1 @@
-var mnemonic = "curtain diagram doll blur essence clerk unaware vapor capital sunny endless oven";
+var mnemonic = "survey focus retreat veteran brand thunder insane give panel refuse donor tornado";

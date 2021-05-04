@@ -1,1 +1,1 @@
-var mnemonic = "session sentence pepper nothing quote spatial divorce index seminar remember hotel finish";
+var mnemonic = "program gallery shaft south trade mandate bacon outdoor enact odor secret north";

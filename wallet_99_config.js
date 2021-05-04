@@ -1,1 +1,1 @@
-var mnemonic = "scrap gate idle differ story must crystal buddy ship track swap want";
+var mnemonic = "deer question nest dog demand repair tip improve crawl tip evil combine";

@@ -1,1 +1,1 @@
-var mnemonic = "ring tragic open sudden chicken stand kiss seat settle setup daring blood";
+var mnemonic = "elephant neglect avocado crack swarm wealth discover angry knife cabin device tool";

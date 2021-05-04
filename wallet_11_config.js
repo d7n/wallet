@@ -1,1 +1,1 @@
-var mnemonic = "replace daring flag brain zebra furnace rice tilt reason reward buffalo hidden";
+var mnemonic = "warrior sight dutch erosion phrase mosquito pitch spell lend useless kidney gas";

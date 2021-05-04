@@ -1,1 +1,1 @@
-var mnemonic = "crystal veteran message taxi foot supply section lesson duck when stick genuine";
+var mnemonic = "prize skill ticket option buffalo cave tonight face earn resist chair sentence";

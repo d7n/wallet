@@ -1,1 +1,1 @@
-var mnemonic = "skirt plate swing absurd usual key defy stock noise galaxy alarm gain";
+var mnemonic = "student work display extend pen noble joy congress similar tool peasant weasel";

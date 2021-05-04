@@ -1,1 +1,1 @@
-var mnemonic = "infant beach decline network fine feed question pony head wave illness vacant";
+var mnemonic = "shuffle group item decline hood exhaust great trap suspect monster recycle trip";

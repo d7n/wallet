@@ -1,1 +1,1 @@
-var mnemonic = "drop youth ask else prosper plate brief quote diary drip elbow rival";
+var mnemonic = "other fever income normal cement lawsuit absent sign auto shop method bonus";

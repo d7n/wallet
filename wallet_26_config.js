@@ -1,1 +1,1 @@
-var mnemonic = "ripple arrive symptom split canal ostrich armed skirt happy void panic trouble";
+var mnemonic = "cloth address frequent believe harvest cube giant tent rent abandon tortoise camp";

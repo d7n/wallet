@@ -1,1 +1,1 @@
-var mnemonic = "comic please ladder discover mad thumb bike indicate syrup trim boss antenna";
+var mnemonic = "royal stool sunny dawn isolate friend animal benefit purse segment produce unfair";

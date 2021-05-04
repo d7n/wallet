@@ -1,1 +1,1 @@
-var mnemonic = "people any lemon off afford panel identify small merge game snap behind";
+var mnemonic = "brother dwarf puzzle stamp face mention license around noise logic vacant huge";

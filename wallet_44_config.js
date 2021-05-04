@@ -1,1 +1,1 @@
-var mnemonic = "october gold smart vocal key pizza torch dust illness erode glory assist";
+var mnemonic = "shop rebel portion shrimp rapid intact raw lizard maximum tent pet shoulder";

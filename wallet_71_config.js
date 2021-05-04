@@ -1,1 +1,1 @@
-var mnemonic = "expose crouch toward taste betray reward amount bamboo valve visit goose immune";
+var mnemonic = "cook brand size hen until oval join stadium air seven venue picnic";

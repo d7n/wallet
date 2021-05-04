@@ -1,1 +1,1 @@
-var mnemonic = "image dose turn license always alarm pet crop reveal width museum slice";
+var mnemonic = "permit valid harbor simple food ordinary slogan enroll valve scan decrease sting";

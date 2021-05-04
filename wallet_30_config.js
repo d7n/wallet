@@ -1,1 +1,1 @@
-var mnemonic = "brisk disorder alley roof nose clog okay slide cake average sound pelican";
+var mnemonic = "glimpse guess clerk wasp coast box organ afford honey city left victory";

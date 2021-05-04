@@ -1,1 +1,1 @@
-var mnemonic = "swift present twelve seat accuse kid group hat woman clown able elegant";
+var mnemonic = "supreme need step treat estate repeat profit crop giggle matter social cloud";

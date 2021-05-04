@@ -1,1 +1,1 @@
-var mnemonic = "carpet aim spider broken casual can tuna smooth half suffer detect crumble";
+var mnemonic = "push divorce survey siege praise anger cherry observe illness cigar bubble tunnel";

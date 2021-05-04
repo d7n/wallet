@@ -1,1 +1,1 @@
-var mnemonic = "pear involve know bid decade dinosaur trust sting suit employ recycle reunion";
+var mnemonic = "tag across gown decade foster solid ivory naive element occur mention mandate";

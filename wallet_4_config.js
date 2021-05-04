@@ -1,1 +1,1 @@
-var mnemonic = "wish firm enact erase resource grocery space uphold enroll access sea carbon";
+var mnemonic = "tube bless describe transfer cargo music also act host stick bracket length";

@@ -1,1 +1,1 @@
-var mnemonic = "wife inner symptom club brave demise fortune clump rude animal radio enable";
+var mnemonic = "equal crop fog alpha stereo nasty diamond swarm install seed split solve";

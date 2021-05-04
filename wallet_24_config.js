@@ -1,1 +1,1 @@
-var mnemonic = "same visual stairs video rebuild lucky pause six cactus swift clog outside";
+var mnemonic = "all agree virus dial absorb glad afford case pony crime private return";

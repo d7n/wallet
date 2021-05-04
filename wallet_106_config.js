@@ -1,1 +1,1 @@
-var mnemonic = "law library zero immense dawn diamond crawl inside employ wild basic black";
+var mnemonic = "exit candy label february audit leaf deputy sausage release bargain group zebra";

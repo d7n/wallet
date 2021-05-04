@@ -1,1 +1,1 @@
-var mnemonic = "kick aspect orphan crop forget century alcohol mushroom opera spare add praise";
+var mnemonic = "card property super garlic volcano scheme monster enemy smooth galaxy olympic endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "print spawn payment undo seed jump parent quiz grant topic vault segment";
+var mnemonic = "retire begin amount castle interest green sudden shoe real satoshi permit utility";

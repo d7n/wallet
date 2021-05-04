@@ -1,1 +1,1 @@
-var mnemonic = "strong left risk install echo magic address just coach choose fork simple";
+var mnemonic = "dry picture govern feature open token tobacco phone depart tiny air jewel";

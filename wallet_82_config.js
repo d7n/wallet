@@ -1,1 +1,1 @@
-var mnemonic = "enter agent reunion typical valve output state where solution canyon cube faith";
+var mnemonic = "inherit cotton pulp entire salad accuse survey hint very enjoy course perfect";

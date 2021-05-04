@@ -1,1 +1,1 @@
-var mnemonic = "cover rigid future almost unaware reward siren phrase hard pulse ritual oil";
+var mnemonic = "toddler beef program path nephew thank puzzle decorate fish sail narrow purity";

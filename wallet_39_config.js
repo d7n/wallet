@@ -1,1 +1,1 @@
-var mnemonic = "damp tired denial sausage end dentist reflect emotion interest group solid outside";
+var mnemonic = "inform move ceiling about divide pig second rescue amused tip narrow must";

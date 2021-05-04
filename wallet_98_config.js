@@ -1,1 +1,1 @@
-var mnemonic = "acoustic destroy sibling angle staff maid love rabbit smart recipe weasel curtain";
+var mnemonic = "loop session label electric merit entire decorate frog car heart barely clean";

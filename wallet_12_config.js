@@ -1,1 +1,1 @@
-var mnemonic = "veteran math sword talk museum fringe click quote gossip tail powder guide";
+var mnemonic = "firm world renew oak inhale film spin summer alien mean image tornado";

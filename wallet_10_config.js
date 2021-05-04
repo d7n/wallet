@@ -1,1 +1,1 @@
-var mnemonic = "unusual cereal skin garden swallow salon tortoise catalog paddle chapter ginger list";
+var mnemonic = "rabbit host bitter marble rely like junior repeat cannon same invite museum";

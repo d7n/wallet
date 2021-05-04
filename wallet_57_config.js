@@ -1,1 +1,1 @@
-var mnemonic = "menu online machine panel picnic lift misery slight gown salmon castle unfair";
+var mnemonic = "exhaust gym help junior dust engage reunion scorpion web lemon clip dumb";

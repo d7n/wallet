@@ -1,1 +1,1 @@
-var mnemonic = "bamboo energy repair paddle approve grass rug write arrive simple hard stick";
+var mnemonic = "inside chaos true census error cluster romance plastic annual hip portion require";

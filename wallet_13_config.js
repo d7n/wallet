@@ -1,1 +1,1 @@
-var mnemonic = "govern system short alcohol dynamic cross fantasy monkey public switch reunion benefit";
+var mnemonic = "imitate circle seat pole again else salon emerge youth barely type craft";

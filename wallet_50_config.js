@@ -1,1 +1,1 @@
-var mnemonic = "tool country soon artist spawn tank twin ski nurse bone milk spell";
+var mnemonic = "gentle average rude turtle car recycle coral glue model glove zone truth";

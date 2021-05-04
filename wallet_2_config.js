@@ -1,1 +1,1 @@
-var mnemonic = "escape wisdom mutual oven equal eagle brush giraffe guess pyramid toy book";
+var mnemonic = "tank tunnel clown grocery vibrant siege kind exercise scheme pave fatigue predict";

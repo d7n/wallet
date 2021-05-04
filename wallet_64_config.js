@@ -1,1 +1,1 @@
-var mnemonic = "cost ordinary mechanic only express update stage old enact snap leader health";
+var mnemonic = "sunny castle type boat decade hill gain wisdom shoulder pizza festival donkey";
