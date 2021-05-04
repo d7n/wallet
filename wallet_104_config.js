@@ -1,1 +1,1 @@
-var mnemonic = "bleak rapid pudding dismiss catch shop mosquito brown umbrella yard gain door";
+var mnemonic = "trust artist reject noise room oppose innocent thunder senior switch song reform";

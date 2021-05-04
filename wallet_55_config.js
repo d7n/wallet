@@ -1,1 +1,1 @@
-var mnemonic = "inherit solar spend payment oven derive topic swap fruit door paddle buyer";
+var mnemonic = "mercy vital toast luxury toy history lake goose ill advance capable reject";

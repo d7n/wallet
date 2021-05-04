@@ -1,1 +1,1 @@
-var mnemonic = "neck blue yard enjoy elephant actress innocent soda pill vast split rather";
+var mnemonic = "walk decide rookie gadget issue engage weather response mystery boy fun usage";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar blush below reduce mixed bacon surge jeans morning infant mistake mystery";
+var mnemonic = "hip father claw badge face poem foster job doll grace more ability";

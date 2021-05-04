@@ -1,1 +1,1 @@
-var mnemonic = "evoke keep hollow brush quarter train size steak seed ramp lend library";
+var mnemonic = "garlic effort upgrade lesson salute gadget surface palace frog hungry develop define";

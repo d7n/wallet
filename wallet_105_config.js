@@ -1,1 +1,1 @@
-var mnemonic = "hungry innocent wood club plate guard web owner mimic fluid wisdom settle";
+var mnemonic = "base slide spoil pottery violin unknown humble flock ridge make present pony";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor dream social hard old world couple income lesson open always neither";
+var mnemonic = "noble velvet champion win satisfy ski hill truck audit remain salon crawl";

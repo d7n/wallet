@@ -1,1 +1,1 @@
-var mnemonic = "number earn cigar provide glare organ athlete lonely people much injury divert";
+var mnemonic = "exercise tourist sniff region genius decide vague cabin neutral output adapt item";

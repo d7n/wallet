@@ -1,1 +1,1 @@
-var mnemonic = "family tiny mule reunion clap warm cover video resemble flee badge traffic";
+var mnemonic = "trick shock flight drama afford rude flock agent glad give rare breeze";

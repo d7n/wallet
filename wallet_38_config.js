@@ -1,1 +1,1 @@
-var mnemonic = "ecology wrist link praise urge wall evolve razor reform report inflict oppose";
+var mnemonic = "duty pond wolf fruit frog skill noodle attract copper talent load crater";

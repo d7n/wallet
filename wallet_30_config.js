@@ -1,1 +1,1 @@
-var mnemonic = "pottery source adapt swim motion motor female peasant resource recipe rigid runway";
+var mnemonic = "logic puzzle section ivory winner fossil wire raccoon robust ethics mansion infant";

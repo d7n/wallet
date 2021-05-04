@@ -1,1 +1,1 @@
-var mnemonic = "cruel among deposit typical broccoli left long used lawsuit next stage mom";
+var mnemonic = "battle large term jelly strike speak fall dumb alpha busy arrive hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "jump sniff chaos engine spike feel wear man piece ship sadness memory";
+var mnemonic = "mouse elegant earn doctor thing casual wreck during civil nurse material misery";

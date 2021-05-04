@@ -1,1 +1,1 @@
-var mnemonic = "avoid catalog once portion true clump spend foot episode stove peanut hold";
+var mnemonic = "fork gadget leaf junk hidden cross patch flat brisk claim glass course";

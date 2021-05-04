@@ -1,1 +1,1 @@
-var mnemonic = "behave gold twelve brain man oil skull attract resource sauce trophy define";
+var mnemonic = "upset famous merry crouch pattern there what make radar eternal lake melt";

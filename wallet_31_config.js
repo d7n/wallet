@@ -1,1 +1,1 @@
-var mnemonic = "traffic repair voyage circle donor door local race quiz jealous seek solution";
+var mnemonic = "path nominee best truth example annual depart orphan faith input observe waste";

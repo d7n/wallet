@@ -1,1 +1,1 @@
-var mnemonic = "can donate diet spirit fat ostrich nephew elder flock extend walnut capital";
+var mnemonic = "pepper collect release jar glimpse uncover bread name clock fun tooth burden";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss laptop mother gather throw picnic win tool nerve collect swim tree";
+var mnemonic = "leisure snap dutch tell memory trip ginger diet crumble into kingdom trash";

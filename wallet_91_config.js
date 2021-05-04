@@ -1,1 +1,1 @@
-var mnemonic = "hint become diesel major express proud gun trumpet act marine piano position";
+var mnemonic = "very area proud pool brave latin settle shaft wagon curious legal adapt";

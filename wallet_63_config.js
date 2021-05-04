@@ -1,1 +1,1 @@
-var mnemonic = "beach giraffe bean issue vibrant track candy arrow initial belt bronze know";
+var mnemonic = "lunch another basket shadow fix case trophy brother rail scene join spawn";

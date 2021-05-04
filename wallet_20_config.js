@@ -1,1 +1,1 @@
-var mnemonic = "invest park toe confirm steak glass shine drill protect rug leader hundred";
+var mnemonic = "tag another evoke retire entire cart vacant minute shop outer then access";

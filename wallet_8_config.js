@@ -1,1 +1,1 @@
-var mnemonic = "draft connect supreme setup outer dad invite scrub antique they name crack";
+var mnemonic = "cloud zero pluck chalk edit vital ring august torch stem legal envelope";

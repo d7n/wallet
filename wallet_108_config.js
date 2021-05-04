@@ -1,1 +1,1 @@
-var mnemonic = "mouse all inhale clock decrease zoo huge dog rich virtual lunar problem";
+var mnemonic = "library auction connect west toy recipe coral roast clip twin casino biology";

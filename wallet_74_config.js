@@ -1,1 +1,1 @@
-var mnemonic = "unhappy desk same lecture still depend kingdom image air verb wine double";
+var mnemonic = "enable raccoon trophy gesture angle endless seek tomorrow fetch ride wave will";

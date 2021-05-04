@@ -1,1 +1,1 @@
-var mnemonic = "attack alone almost mass title purchase alter spawn regret short talk avocado";
+var mnemonic = "apart actual bless harbor swift salmon shuffle charge kid year eight giggle";

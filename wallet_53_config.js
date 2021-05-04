@@ -1,1 +1,1 @@
-var mnemonic = "bag relief cluster recall soldier canvas winner item monitor best retreat faith";
+var mnemonic = "squeeze clever clock price mosquito carry few since try dragon notable antique";

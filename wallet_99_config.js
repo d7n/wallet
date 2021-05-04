@@ -1,1 +1,1 @@
-var mnemonic = "bronze wet husband forest gauge law visit denial smooth tissue brief green";
+var mnemonic = "initial master endorse head disagree control collect top thought idea never live";

@@ -1,1 +1,1 @@
-var mnemonic = "address unit life coffee whisper charge luggage vicious grow stomach dream modify";
+var mnemonic = "relax innocent emerge spread tomorrow only patrol nation guilt clap essence age";

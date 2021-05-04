@@ -1,1 +1,1 @@
-var mnemonic = "emotion garlic sort camp universe castle couch blossom dice oyster emerge three";
+var mnemonic = "rather few report chuckle answer version jump fog equip choose blue meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "list marriage second describe bind negative phrase tone castle excuse pipe elegant";
+var mnemonic = "attract vacant nominee ancient future better holiday surge spirit belt damage select";

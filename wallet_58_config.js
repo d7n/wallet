@@ -1,1 +1,1 @@
-var mnemonic = "fox silly mix tobacco try million teach affair alcohol purity wedding sadness";
+var mnemonic = "situate anxiety night review rubber example dutch slow essence fog material game";

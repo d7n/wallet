@@ -1,1 +1,1 @@
-var mnemonic = "cake patrol proof wealth twenty shrug hard meat vacuum equal angry physical";
+var mnemonic = "dice buddy debate much now dinosaur wasp wagon super rival beauty critic";

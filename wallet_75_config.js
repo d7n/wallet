@@ -1,1 +1,1 @@
-var mnemonic = "horse ignore erosion obtain junk ignore kiwi title feature never sail lawsuit";
+var mnemonic = "sadness multiply throw sort amateur keep when fold margin family since beach";

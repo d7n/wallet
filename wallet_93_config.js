@@ -1,1 +1,1 @@
-var mnemonic = "pair jealous flame fetch client text praise faint tired hair law today";
+var mnemonic = "slide outer kangaroo tomorrow bone opinion negative pact raven aerobic body desert";

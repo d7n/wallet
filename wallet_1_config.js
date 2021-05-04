@@ -1,1 +1,1 @@
-var mnemonic = "guitar army impulse flight spare crane mixed capable recall cube torch hawk";
+var mnemonic = "risk just smoke behind jar park tongue table relax social woman wave";

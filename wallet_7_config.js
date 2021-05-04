@@ -1,1 +1,1 @@
-var mnemonic = "leopard found swamp champion spawn garment donor view account exercise dog giraffe";
+var mnemonic = "sorry sense minute canyon poem century ocean prefer throw lemon spy crash";

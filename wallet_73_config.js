@@ -1,1 +1,1 @@
-var mnemonic = "spin tube before lesson escape injury rocket find inflict pencil soul link";
+var mnemonic = "artwork crater message wine wear noise swarm decorate aspect spread cream icon";

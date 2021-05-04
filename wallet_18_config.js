@@ -1,1 +1,1 @@
-var mnemonic = "observe leader ridge ivory trick copper furnace moral general erase expect turkey";
+var mnemonic = "kingdom student decade two attract senior stable marble worry actor fortune settle";

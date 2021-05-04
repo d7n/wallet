@@ -1,1 +1,1 @@
-var mnemonic = "seek man fall where yard aunt miss eight tape receive super vacant";
+var mnemonic = "buddy dial space feed saddle hockey medal candy shiver execute alarm pole";

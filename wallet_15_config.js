@@ -1,1 +1,1 @@
-var mnemonic = "coconut famous ranch bag merge addict icon switch absent coconut party sudden";
+var mnemonic = "popular harsh obscure palace divorce awake race person giggle recall idea blade";

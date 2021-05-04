@@ -1,1 +1,1 @@
-var mnemonic = "wild mandate trial desert image layer income joy spirit transfer race merge";
+var mnemonic = "force poem razor convince cube enhance sand bonus eagle mention usage agent";

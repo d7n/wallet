@@ -1,1 +1,1 @@
-var mnemonic = "someone guard vital hollow fold patrol around citizen skin chicken sort popular";
+var mnemonic = "leader flag cotton find middle clap problem always cook balance twist repeat";

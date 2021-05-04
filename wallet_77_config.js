@@ -1,1 +1,1 @@
-var mnemonic = "large burst weird blush wagon cannon explain aware tobacco fox apple cage";
+var mnemonic = "brown cave alter buzz problem material quiz stay hunt debris grass arch";

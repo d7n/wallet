@@ -1,1 +1,1 @@
-var mnemonic = "strong kiss stage impulse another mystery tag gas sustain assume crunch version";
+var mnemonic = "february prevent vault virtual vibrant hospital siren interest crater aunt manual cycle";

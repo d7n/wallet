@@ -1,1 +1,1 @@
-var mnemonic = "federal wrist umbrella enter earth half element thing robot canoe juice meadow";
+var mnemonic = "spare wreck corn bubble forest air inflict veteran region ill hazard erosion";

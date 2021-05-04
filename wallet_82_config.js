@@ -1,1 +1,1 @@
-var mnemonic = "mystery surprise couch miracle install update door fish genre soul proof myself";
+var mnemonic = "tomato muffin message gravity rapid cloud ten weapon guitar angry normal mistake";

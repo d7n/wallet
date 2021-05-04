@@ -1,1 +1,1 @@
-var mnemonic = "tongue nerve toe dry arctic humor cabbage cup suspect retreat rotate juice";
+var mnemonic = "enforce guitar episode luggage believe glide deer unfold toast border sister invest";

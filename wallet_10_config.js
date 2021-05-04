@@ -1,1 +1,1 @@
-var mnemonic = "fog force inner giant possible someone knee small focus unlock life inject";
+var mnemonic = "response cross gate screen farm space fence inform vault head found bulb";

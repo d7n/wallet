@@ -1,1 +1,1 @@
-var mnemonic = "twist health ship solid inch few describe denial orange keep acquire blossom";
+var mnemonic = "vanish buyer patch season bridge trash kingdom remember embody student blade column";

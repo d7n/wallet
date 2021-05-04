@@ -1,1 +1,1 @@
-var mnemonic = "decade robust security correct option orange chapter roof canal sibling debate anchor";
+var mnemonic = "shiver fiscal immense bonus idle like sign more forward spoil remain material";

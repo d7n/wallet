@@ -1,1 +1,1 @@
-var mnemonic = "exile dust slight infant maze east pumpkin vague clown draw cancel brain";
+var mnemonic = "derive fork casual island butter radar paper tribe marriage torch champion staff";

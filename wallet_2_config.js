@@ -1,1 +1,1 @@
-var mnemonic = "thumb shine mimic spider scissors cave arm learn track invite polar quiz";
+var mnemonic = "victory plug general pink spring direct this vote turkey enroll powder flavor";

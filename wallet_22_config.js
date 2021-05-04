@@ -1,1 +1,1 @@
-var mnemonic = "symbol thing produce visit edge liberty supply board ankle cup burden abstract";
+var mnemonic = "inhale pledge grant sell royal blossom potato distance region range layer stand";

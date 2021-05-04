@@ -1,1 +1,1 @@
-var mnemonic = "major sort warfare infant camera quote arrow frozen scene chuckle wasp onion";
+var mnemonic = "sting deny detail wonder chat original mountain rubber caution real situate impact";

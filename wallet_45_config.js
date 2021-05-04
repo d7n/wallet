@@ -1,1 +1,1 @@
-var mnemonic = "express picnic property valley morning action bus shoe juice trade left upon";
+var mnemonic = "phrase large want amateur promote evolve news feel jacket donkey expire garment";

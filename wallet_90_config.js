@@ -1,1 +1,1 @@
-var mnemonic = "arena prefer gas gas essay prison produce express excite six review warfare";
+var mnemonic = "hover fiscal normal salad card entry sense target crop quiz minor loyal";

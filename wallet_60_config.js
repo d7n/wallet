@@ -1,1 +1,1 @@
-var mnemonic = "fog cricket deliver glow unlock album melt ketchup omit palm neglect grace";
+var mnemonic = "patrol liquid gravity milk panther snake slight fence boring industry boring inform";

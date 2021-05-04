@@ -1,1 +1,1 @@
-var mnemonic = "bulk exclude credit caution faith motion click point toss donor strike reflect";
+var mnemonic = "mail boat absurd drum initial attract number lobster spice topic maid online";

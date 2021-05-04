@@ -1,1 +1,1 @@
-var mnemonic = "daring load shrug resemble dance carry visual stove symbol kind dose scale";
+var mnemonic = "bunker aisle fancy wine gadget account negative kingdom thrive injury disagree organ";

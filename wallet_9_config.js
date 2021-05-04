@@ -1,1 +1,1 @@
-var mnemonic = "trial female slide taste theme ecology alter obey fossil rescue invest orphan";
+var mnemonic = "field exclude favorite claim tornado sadness gate deposit hawk express link seek";

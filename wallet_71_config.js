@@ -1,1 +1,1 @@
-var mnemonic = "spoon crater shoe ticket donate tube cook wagon develop polar alone speed";
+var mnemonic = "muscle alter federal embark bird embrace divert language rice employ across code";

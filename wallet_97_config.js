@@ -1,1 +1,1 @@
-var mnemonic = "outside open wolf east smooth satisfy share path whisper february theory betray";
+var mnemonic = "jeans robot sheriff deliver void story visual mad coral gorilla leave clown";

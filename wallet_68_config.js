@@ -1,1 +1,1 @@
-var mnemonic = "climb humor dial morning fix nerve spread unaware situate mask unusual industry";
+var mnemonic = "trigger erode butter arch earn live angle nest mix similar patient canvas";

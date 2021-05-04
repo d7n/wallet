@@ -1,1 +1,1 @@
-var mnemonic = "scout enlist since analyst slow wing depart force tribe pelican call deliver";
+var mnemonic = "grid media oyster material size glide easy guard long excite end aware";

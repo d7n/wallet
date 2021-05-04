@@ -1,1 +1,1 @@
-var mnemonic = "begin unveil crunch tackle fatal boat rescue health snack curve goose fragile";
+var mnemonic = "crush today meat wisdom parade unit tongue craft topic pond motion teach";

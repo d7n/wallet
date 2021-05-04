@@ -1,1 +1,1 @@
-var mnemonic = "wink dentist there system situate large glide region neutral pluck wife repair";
+var mnemonic = "tackle wage winter feel clay battle tip buddy history transfer fault safe";

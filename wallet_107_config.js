@@ -1,1 +1,1 @@
-var mnemonic = "ask seat uncover thank cycle fire choose busy stable earth journey magnet";
+var mnemonic = "usual anxiety harvest catch purpose hurry witness member liberty nerve course army";

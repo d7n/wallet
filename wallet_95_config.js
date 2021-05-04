@@ -1,1 +1,1 @@
-var mnemonic = "valley sunset defy special couple modify bus accident expose cover actual whip";
+var mnemonic = "final hurdle benefit thought identify rack forward dove word fabric hood powder";

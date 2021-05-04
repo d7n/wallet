@@ -1,1 +1,1 @@
-var mnemonic = "network sniff muscle pledge deposit idle zone wisdom today adult school swim";
+var mnemonic = "neck child area garage install lava drop sign expire lawsuit issue behave";

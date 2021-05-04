@@ -1,1 +1,1 @@
-var mnemonic = "flip tongue never question kid hazard picture add cage cancel demand stone";
+var mnemonic = "lens skin audit visual priority divert hundred cable gospel auction law baby";

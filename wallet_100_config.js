@@ -1,1 +1,1 @@
-var mnemonic = "inch cactus kite fade evidence mango weapon black fence round example describe";
+var mnemonic = "obtain pave lunar salad wash quiz crime ramp only kind raccoon often";

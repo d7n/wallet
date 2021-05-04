@@ -1,1 +1,1 @@
-var mnemonic = "replace law monitor assist bounce base link detail say quantum paddle argue";
+var mnemonic = "stand input inject save laugh fit vanish senior bunker rough cheap benefit";

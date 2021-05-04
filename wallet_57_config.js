@@ -1,1 +1,1 @@
-var mnemonic = "border tattoo repair over sadness depart airport dance theme case endorse donate";
+var mnemonic = "wife meadow hover depth dismiss wagon wool teach write pattern section success";

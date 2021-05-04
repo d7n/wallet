@@ -1,1 +1,1 @@
-var mnemonic = "demise monkey thank champion chuckle gravity trim erode dune debate firm divide";
+var mnemonic = "power verb monkey ordinary month field rocket place camera much asset april";

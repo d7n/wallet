@@ -1,1 +1,1 @@
-var mnemonic = "cake peasant hockey play pyramid laugh bargain ensure poverty dinner winner between";
+var mnemonic = "copy story tuna attack save grape luxury phrase rely tenant bean recall";

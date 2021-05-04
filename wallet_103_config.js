@@ -1,1 +1,1 @@
-var mnemonic = "suffer wide rabbit junior enact amazing approve property wild metal excess manual";
+var mnemonic = "mandate barely prosper wood jacket celery foster pitch concert discover manual electric";

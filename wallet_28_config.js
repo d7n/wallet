@@ -1,1 +1,1 @@
-var mnemonic = "zero dirt industry blue grocery essay foam category advance agent beauty crack";
+var mnemonic = "liar lounge salmon traffic piano build curious alien lemon oven wasp vehicle";

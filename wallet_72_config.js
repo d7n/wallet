@@ -1,1 +1,1 @@
-var mnemonic = "govern risk spray shallow topic glory couch online rapid exist faculty warm";
+var mnemonic = "tattoo steel slow doll ankle work female delay unusual scrub flush novel";

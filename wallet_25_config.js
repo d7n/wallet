@@ -1,1 +1,1 @@
-var mnemonic = "lens render achieve pizza cushion chair carbon mother saddle always reflect double";
+var mnemonic = "law two cigar frame whip circle nasty table gift all rare index";

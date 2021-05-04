@@ -1,1 +1,1 @@
-var mnemonic = "issue twin reward sea same swing stem enforce target review town target";
+var mnemonic = "surface door dutch kiss once normal cram turtle leaf alone scene place";

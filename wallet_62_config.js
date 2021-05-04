@@ -1,1 +1,1 @@
-var mnemonic = "awkward spawn van teach jaguar rhythm project tortoise purpose bag stereo arctic";
+var mnemonic = "swarm actor race lunch between undo easily acoustic dad parrot hungry share";

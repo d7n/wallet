@@ -1,1 +1,1 @@
-var mnemonic = "travel tattoo copper bargain faith major truck reject fun modify basic patrol";
+var mnemonic = "sign melody struggle math topic say situate tissue wire guilt pumpkin truth";

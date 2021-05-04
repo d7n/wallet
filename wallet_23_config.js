@@ -1,1 +1,1 @@
-var mnemonic = "level announce lottery carpet sibling large pumpkin average execute sheriff canal coil";
+var mnemonic = "dignity garment hurry recipe few pattern discover harvest quantum grace armed vendor";

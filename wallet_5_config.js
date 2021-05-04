@@ -1,1 +1,1 @@
-var mnemonic = "find guard wreck enhance chest report print sweet hip alarm oak when";
+var mnemonic = "manage hedgehog practice warm kitten rude flush floor false stable rib globe";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle unable animal hat surge green fall fruit sphere link like achieve";
+var mnemonic = "caught marine box pass feature conduct crowd shine vintage vague outside sibling";

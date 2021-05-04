@@ -1,1 +1,1 @@
-var mnemonic = "slogan access morning benefit this unit physical leave family loan piece blush";
+var mnemonic = "clump mercy picture moon moment remind rain material acoustic waste promote gallery";

@@ -1,1 +1,1 @@
-var mnemonic = "lake delay round tornado wine open addict special gown misery sample smoke";
+var mnemonic = "bench wear bench captain another run feel balance shoot subway spin upgrade";

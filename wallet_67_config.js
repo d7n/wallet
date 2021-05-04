@@ -1,1 +1,1 @@
-var mnemonic = "gospel motion panic repair fruit fiber round mango fantasy movie slab bicycle";
+var mnemonic = "monkey rib fabric piano actual judge waste blur twelve cute promote liar";

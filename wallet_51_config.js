@@ -1,1 +1,1 @@
-var mnemonic = "husband grass country champion area apple submit coffee vague area border fee";
+var mnemonic = "regular civil loop fly upset lock coffee jeans diesel spider rate emotion";

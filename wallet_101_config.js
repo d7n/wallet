@@ -1,1 +1,1 @@
-var mnemonic = "open scan pluck fox stuff delay daughter happy flip south weird thought";
+var mnemonic = "antenna day inner witness donkey oppose female empower pig private chimney credit";

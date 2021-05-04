@@ -1,1 +1,1 @@
-var mnemonic = "very often hen couch exit sense mule sugar chalk glide leopard bounce";
+var mnemonic = "nature wild basic energy south floor boss flat very title safe destroy";

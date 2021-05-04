@@ -1,1 +1,1 @@
-var mnemonic = "refuse friend bronze pottery entry galaxy spare laundry chest empty anchor ladder";
+var mnemonic = "gate sick debate search runway receive remove mirror moment concert faith check";
