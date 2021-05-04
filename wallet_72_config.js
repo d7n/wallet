@@ -1,1 +1,1 @@
-var mnemonic = "any excite giant accuse unhappy jeans matrix chimney nut company tattoo resemble";
+var mnemonic = "fade seed fuel lend define because hybrid jump follow expect favorite ghost";

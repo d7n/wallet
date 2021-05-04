@@ -1,1 +1,1 @@
-var mnemonic = "frost vapor tenant nominee eight wet siege grow major canyon plate shoot";
+var mnemonic = "ride isolate empty click dismiss maid dolphin fever kiwi page yard country";

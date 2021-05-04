@@ -1,1 +1,1 @@
-var mnemonic = "exact also lottery grass flag field find manage busy busy indicate energy";
+var mnemonic = "rug auction man company dirt run say program baby debris volume lady";

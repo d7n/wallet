@@ -1,1 +1,1 @@
-var mnemonic = "express silly jelly bitter ski mesh celery deliver execute sauce teach jacket";
+var mnemonic = "metal below sight current dash hazard cancel cage canal avoid bacon syrup";

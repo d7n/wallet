@@ -1,1 +1,1 @@
-var mnemonic = "brand tide bus vital blur settle any surface mail rebel brisk into";
+var mnemonic = "system try gentle secret pumpkin enforce velvet leader student ramp demise among";

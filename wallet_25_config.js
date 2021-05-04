@@ -1,1 +1,1 @@
-var mnemonic = "drink swarm erupt six nephew script extra flavor pitch dog rude toe";
+var mnemonic = "hybrid magnet monitor achieve donkey half dog sting guitar ignore sunset olympic";

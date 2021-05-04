@@ -1,1 +1,1 @@
-var mnemonic = "state battle someone trust coffee come ridge street garment funny soldier age";
+var mnemonic = "grass voyage together save chief shoe winner brain argue bullet reduce shaft";

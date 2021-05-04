@@ -1,1 +1,1 @@
-var mnemonic = "various bus copy orchard denial elephant amateur salute little tired cliff slice";
+var mnemonic = "couch home indicate actress promote drop six sleep hidden people post loop";

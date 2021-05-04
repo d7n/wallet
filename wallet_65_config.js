@@ -1,1 +1,1 @@
-var mnemonic = "address genre enlist visual accident veteran friend elephant little nest light frown";
+var mnemonic = "shy photo define leopard adult trial spirit sand lemon glove surface switch";

@@ -1,1 +1,1 @@
-var mnemonic = "retreat mule olive trap stem present company tunnel impulse lawn damp iron";
+var mnemonic = "cricket puzzle master nerve pyramid age sponsor love laugh spatial wink citizen";

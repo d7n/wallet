@@ -1,1 +1,1 @@
-var mnemonic = "north fold gentle like monster movie turkey scatter erupt obey canyon debris";
+var mnemonic = "nest grunt patient barely flavor yard face leg idle sniff chase expect";

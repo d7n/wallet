@@ -1,1 +1,1 @@
-var mnemonic = "swamp stem diet dance insane kitchen recall symbol quantum resource poet virtual";
+var mnemonic = "surge picture rival tuition polar pottery special diagram image way february sad";

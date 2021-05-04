@@ -1,1 +1,1 @@
-var mnemonic = "mimic harbor tray beef segment normal motor badge nuclear occur very soft";
+var mnemonic = "elegant peasant biology seven page endorse hawk raven canoe devote teach vehicle";

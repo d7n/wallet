@@ -1,1 +1,1 @@
-var mnemonic = "unveil goose father rude romance organ kick flee armed donate stand elevator";
+var mnemonic = "collect duck buffalo access bachelor lady fetch improve resist swap goat harbor";

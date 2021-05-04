@@ -1,1 +1,1 @@
-var mnemonic = "script journey subway crane animal tongue rib roast century human core panel";
+var mnemonic = "ticket core level urge spatial room solution crazy design expire peasant abandon";

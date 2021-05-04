@@ -1,1 +1,1 @@
-var mnemonic = "borrow open hobby mango grief height clinic sting clarify fat market mercy";
+var mnemonic = "dismiss follow exhibit ozone century bacon distance occur aunt art ghost entry";

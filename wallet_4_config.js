@@ -1,1 +1,1 @@
-var mnemonic = "basket inch occur talk blush gaze since liar army female proof faculty";
+var mnemonic = "clay glove buffalo proud grid carpet worth camp paper divert can admit";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard oppose ritual reason indicate place pilot soft ivory company predict region";
+var mnemonic = "mammal venue knock chalk bright basket explain shaft despair boil dog raw";

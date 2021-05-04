@@ -1,1 +1,1 @@
-var mnemonic = "bring someone alter food state catch best doll draft orange enhance picnic";
+var mnemonic = "slush shock since garage film consider lumber chaos position column senior pledge";

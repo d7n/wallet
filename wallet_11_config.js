@@ -1,1 +1,1 @@
-var mnemonic = "asthma panel left exist roast shoulder pitch midnight reveal alter lift faith";
+var mnemonic = "rapid fly help pass add excite title sun wheat day ozone illegal";

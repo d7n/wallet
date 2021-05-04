@@ -1,1 +1,1 @@
-var mnemonic = "later sense casual iron language rib cup beauty craft north panther sound";
+var mnemonic = "today require repeat news anchor uphold illegal multiply hair health jewel shiver";

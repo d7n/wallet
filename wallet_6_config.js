@@ -1,1 +1,1 @@
-var mnemonic = "surprise balance void final inside style depth guess play mail ten asthma";
+var mnemonic = "stable argue use paddle you ripple vague turkey bottom skate wall dragon";

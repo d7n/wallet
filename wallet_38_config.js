@@ -1,1 +1,1 @@
-var mnemonic = "frozen ribbon slow club camp skirt crucial until world sorry curious afraid";
+var mnemonic = "actual nothing engine delay loyal neutral plunge lazy seminar produce family snow";

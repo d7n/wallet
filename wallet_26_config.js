@@ -1,1 +1,1 @@
-var mnemonic = "harvest powder library online pelican denial hood vast smile doll female speed";
+var mnemonic = "beauty bubble nasty focus source hood squirrel silk humble topic bread champion";

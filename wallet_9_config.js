@@ -1,1 +1,1 @@
-var mnemonic = "foil simple veteran enforce sketch warfare giggle door index knee slight thing";
+var mnemonic = "push museum bottom filter pretty cage knife elder project notice argue office";

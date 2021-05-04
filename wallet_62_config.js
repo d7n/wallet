@@ -1,1 +1,1 @@
-var mnemonic = "trap mom build insane idle trash noble pupil picture eyebrow unknown melody";
+var mnemonic = "tiger interest orbit member limit nice private second duty wood wheel turtle";

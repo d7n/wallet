@@ -1,1 +1,1 @@
-var mnemonic = "crime detect butter similar vicious tragic dose chaos scatter dirt flash glory";
+var mnemonic = "pizza behind flock occur lion notable work gaze put march nice rally";

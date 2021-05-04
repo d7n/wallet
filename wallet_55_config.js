@@ -1,1 +1,1 @@
-var mnemonic = "rule alien disorder company payment hello embrace cover end axis inquiry able";
+var mnemonic = "vendor immune illegal art member resource end melt again enlist setup debate";

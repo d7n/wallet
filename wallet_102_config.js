@@ -1,1 +1,1 @@
-var mnemonic = "awake lady hello universe mammal episode begin second sibling boost identify slam";
+var mnemonic = "auto cheap beauty body cheap pledge seat ceiling retreat general ghost cry";

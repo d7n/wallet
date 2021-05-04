@@ -1,1 +1,1 @@
-var mnemonic = "enemy sun tiger little moment say prize canyon use possible hungry grain";
+var mnemonic = "lawn embrace omit useless half buyer birth fun flush night quarter extend";

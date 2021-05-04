@@ -1,1 +1,1 @@
-var mnemonic = "assist expire feature rich bamboo despair gasp sudden winter decade chaos slight";
+var mnemonic = "hard girl artefact distance into marriage kite grow recipe laundry hint mushroom";

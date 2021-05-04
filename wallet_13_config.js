@@ -1,1 +1,1 @@
-var mnemonic = "rather tornado slogan recipe drive aunt exclude source woman basic glory winter";
+var mnemonic = "alley lend gun yellow course plate flash hub banana display link symptom";

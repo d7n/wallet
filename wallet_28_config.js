@@ -1,1 +1,1 @@
-var mnemonic = "menu mirror derive manage party wool about because carry attitude joy adult";
+var mnemonic = "bomb slush unveil kite draft pause acid dinner online ribbon side prize";

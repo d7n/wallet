@@ -1,1 +1,1 @@
-var mnemonic = "eager reunion aerobic foam melody sport purchase clap photo calm nerve matter";
+var mnemonic = "champion close bleak kangaroo select rough bid weather write sweet fluid pact";

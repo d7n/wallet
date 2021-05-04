@@ -1,1 +1,1 @@
-var mnemonic = "hunt collect decline author butter hip skin plate predict major turtle volcano";
+var mnemonic = "upper people armor real fragile vault focus tenant orchard copy road regret";

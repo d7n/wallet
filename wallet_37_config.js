@@ -1,1 +1,1 @@
-var mnemonic = "wheat into stage minute minute funny peanut village nuclear because quick leopard";
+var mnemonic = "smooth ceiling talk treat install hen spider quantum job cause exotic mobile";

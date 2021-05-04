@@ -1,1 +1,1 @@
-var mnemonic = "fitness wealth dune robust wait clog symbol woman cream gown lawn skirt";
+var mnemonic = "resource unfair cactus math dry acquire idle salmon used clay chimney liar";

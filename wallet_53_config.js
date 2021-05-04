@@ -1,1 +1,1 @@
-var mnemonic = "group match innocent noodle switch anchor satoshi bag same educate filter anchor";
+var mnemonic = "aerobic bronze night despair because photo great rate material yard energy echo";

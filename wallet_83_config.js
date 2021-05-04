@@ -1,1 +1,1 @@
-var mnemonic = "uniform arm jazz crouch ranch buddy wrist dinosaur better decide skin wagon";
+var mnemonic = "latin invest update anchor first record click tiger before excess agree entire";

@@ -1,1 +1,1 @@
-var mnemonic = "reform achieve favorite convince answer actress blush certain dumb episode lend they";
+var mnemonic = "history suggest turn rate museum fee ride poverty hungry remind strategy marriage";

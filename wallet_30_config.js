@@ -1,1 +1,1 @@
-var mnemonic = "inmate charge absent combine birth multiply win short duck scale laptop omit";
+var mnemonic = "prevent female knee lend beauty couple oblige cool slot galaxy west peace";

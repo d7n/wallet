@@ -1,1 +1,1 @@
-var mnemonic = "sure hundred dolphin medal actor oyster bracket snap balcony spoon appear update";
+var mnemonic = "expect mandate diet merry dust roof ignore captain upset enlist nuclear tunnel";

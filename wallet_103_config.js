@@ -1,1 +1,1 @@
-var mnemonic = "water long true fog about bird maze sing unusual opinion there soldier";
+var mnemonic = "swear skirt awkward measure maple sock congress endorse veteran mercy kit note";

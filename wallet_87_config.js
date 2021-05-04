@@ -1,1 +1,1 @@
-var mnemonic = "fluid indicate world tip finish fat suggest pet pen current garden license";
+var mnemonic = "sense message menu seek outside spell fiber amused release east oval arrow";

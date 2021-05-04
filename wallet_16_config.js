@@ -1,1 +1,1 @@
-var mnemonic = "slab keen reveal angle used police borrow document office curve soul grass";
+var mnemonic = "scissors vital miss boat valve sleep stock sponsor rare coconut beach wing";

@@ -1,1 +1,1 @@
-var mnemonic = "cluster patient sponsor obvious bread steel chimney wheat neutral wink wave language";
+var mnemonic = "beauty dentist tumble among knee glow hair six hungry thrive hold oyster";

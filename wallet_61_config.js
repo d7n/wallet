@@ -1,1 +1,1 @@
-var mnemonic = "target path fortune tired group runway pottery poem service anger mobile law";
+var mnemonic = "hub grape save only camera real elephant deliver treat satisfy naive usage";

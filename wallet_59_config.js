@@ -1,1 +1,1 @@
-var mnemonic = "salad eyebrow visa crime annual torch laptop into achieve wrist legend world";
+var mnemonic = "maximum major odor farm female enlist unlock donkey betray celery shoe this";

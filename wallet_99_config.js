@@ -1,1 +1,1 @@
-var mnemonic = "profit disagree autumn gadget weasel mask thought body three wild margin lift";
+var mnemonic = "rigid puppy rebuild clump pen guitar shoulder lion pause struggle ship retire";

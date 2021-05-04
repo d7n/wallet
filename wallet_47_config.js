@@ -1,1 +1,1 @@
-var mnemonic = "inject radio destroy flame junk layer guess feel label fiber kit orbit";
+var mnemonic = "mosquito boy senior kit pilot zone pupil torch crowd coyote ship scrub";

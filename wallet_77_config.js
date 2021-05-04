@@ -1,1 +1,1 @@
-var mnemonic = "version symptom service east chat ghost ten lawsuit category job cruel bachelor";
+var mnemonic = "limb pipe draw sell join lunch priority right type neither elephant hill";

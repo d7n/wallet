@@ -1,1 +1,1 @@
-var mnemonic = "true pull credit wisdom render during tide critic mango license pony library";
+var mnemonic = "doll furnace monkey earn liar food sphere surround fetch strategy dash grab";

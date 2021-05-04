@@ -1,1 +1,1 @@
-var mnemonic = "easy can artist spatial trust jeans pig vanish burden humble disorder city";
+var mnemonic = "cricket convince cram dove flush worry luxury stage cost recipe cloth phrase";

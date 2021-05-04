@@ -1,1 +1,1 @@
-var mnemonic = "recycle junior wear much bacon assist other mistake disorder junk super awkward";
+var mnemonic = "jazz fire timber auction sadness appear easily amateur hint into fluid soap";

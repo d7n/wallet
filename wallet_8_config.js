@@ -1,1 +1,1 @@
-var mnemonic = "oval neither rotate convince kingdom orbit entry key squirrel fame mammal bonus";
+var mnemonic = "together worry cannon paddle beef relief damp sight comic gospel day lottery";

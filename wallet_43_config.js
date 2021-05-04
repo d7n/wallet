@@ -1,1 +1,1 @@
-var mnemonic = "ladder twice easily cash erase ocean must wage cup rely goat recipe";
+var mnemonic = "virtual legend jelly country resource remain lumber comfort breeze hip pluck tube";

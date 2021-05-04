@@ -1,1 +1,1 @@
-var mnemonic = "acid advance brick employ calm cook brick wise often manual orbit gauge";
+var mnemonic = "garage waste arrive window ankle gather virtual people sure issue either void";

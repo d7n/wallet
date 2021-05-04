@@ -1,1 +1,1 @@
-var mnemonic = "cancel december degree embrace quote infant subject final alone mango chronic state";
+var mnemonic = "offer believe famous divert kangaroo various basket hole bag climb ethics bacon";

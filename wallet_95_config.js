@@ -1,1 +1,1 @@
-var mnemonic = "margin cart twist slight view amount infant trap surprise wheel parrot unaware";
+var mnemonic = "prevent clump draft scan journey farm dizzy borrow smile raven series bulk";

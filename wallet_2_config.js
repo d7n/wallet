@@ -1,1 +1,1 @@
-var mnemonic = "shield assume ramp mind clip wrap desk quarter because bus blind pig";
+var mnemonic = "six unknown cloth fox swift kick another keen tape suffer hen consider";

@@ -1,1 +1,1 @@
-var mnemonic = "focus trade submit extend camp soldier thought picture joy kick video tunnel";
+var mnemonic = "radio fun fault tilt size melt spoon outer dumb torch glove degree";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy gate all reduce net raw park stumble merge install abstract sail";
+var mnemonic = "jungle wool valley nerve doll flag peasant old surface excuse have crater";

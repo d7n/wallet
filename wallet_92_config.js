@@ -1,1 +1,1 @@
-var mnemonic = "siren sock chunk rib one mutual front involve appear ozone grass blood";
+var mnemonic = "creek simple number tone hammer cook mimic cart donkey web peace day";

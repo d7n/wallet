@@ -1,1 +1,1 @@
-var mnemonic = "wet often canyon banana grass sword theory force goat trap grunt enlist";
+var mnemonic = "change worry snack palace leopard deer scan foam neutral notice scrub mansion";

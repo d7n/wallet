@@ -1,1 +1,1 @@
-var mnemonic = "vast arctic move glad draft concert equal panel pig rigid level announce";
+var mnemonic = "art umbrella symptom bomb walk squeeze stone analyst rain horn similar gorilla";

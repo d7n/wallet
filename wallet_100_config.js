@@ -1,1 +1,1 @@
-var mnemonic = "list obey dove refuse crowd lava jeans stable plastic amount success pulse";
+var mnemonic = "enemy debate gesture assume drama place click skin excuse acid thunder island";

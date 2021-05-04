@@ -1,1 +1,1 @@
-var mnemonic = "sock noble salon gain agree pyramid alpha elephant guess silent party shrimp";
+var mnemonic = "glory quiz shiver also text off quick helmet child satisfy episode you";

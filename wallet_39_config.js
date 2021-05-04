@@ -1,1 +1,1 @@
-var mnemonic = "dune success resource matter dice spoon cart cabbage moon diary ready enact";
+var mnemonic = "disorder funny smile type approve acid patrol oval welcome action zebra club";

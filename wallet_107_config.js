@@ -1,1 +1,1 @@
-var mnemonic = "swing cactus super stadium sniff indicate endless coin polar spring glory exhaust";
+var mnemonic = "team soda any public identify crane local negative bar sword fiction seven";

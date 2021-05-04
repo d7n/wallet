@@ -1,1 +1,1 @@
-var mnemonic = "current toilet blanket demise wrist hawk rabbit soda true ride school heart";
+var mnemonic = "dry click response keen accident knife render feature half crater taxi own";

@@ -1,1 +1,1 @@
-var mnemonic = "just unfair shoulder trigger cattle pulp obvious wild conduct hidden round galaxy";
+var mnemonic = "empower right caution broccoli mimic fantasy toilet attack feed lobster shiver goddess";

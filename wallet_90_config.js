@@ -1,1 +1,1 @@
-var mnemonic = "position sentence figure dune lonely gas diagram company snack boost day scrub";
+var mnemonic = "volume sentence trash nut coin captain spirit glue primary renew mushroom odor";

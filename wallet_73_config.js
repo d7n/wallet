@@ -1,1 +1,1 @@
-var mnemonic = "actual salute marriage discover brisk toward click caught repair lunch peanut kite";
+var mnemonic = "super prosper claw wide swamp salmon lonely luggage mule south forget snap";

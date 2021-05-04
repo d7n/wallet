@@ -1,1 +1,1 @@
-var mnemonic = "humble still lucky rigid poem grab clip income prosper what account cargo";
+var mnemonic = "barrel together hover there ankle lazy rather monkey dinner jealous illness poverty";

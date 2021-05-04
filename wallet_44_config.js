@@ -1,1 +1,1 @@
-var mnemonic = "empty easily glance crime quick gym prison horn faith demand behind skull";
+var mnemonic = "betray candy bicycle return radar child point scale bargain jewel lamp core";

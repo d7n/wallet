@@ -1,1 +1,1 @@
-var mnemonic = "priority tank hotel side desert repeat gospel soft suit hair jungle iron";
+var mnemonic = "space coil rebuild hire slender heart shove metal planet damage coral cat";

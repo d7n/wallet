@@ -1,1 +1,1 @@
-var mnemonic = "unable soap purity shoe tobacco peanut document economy curtain solar cat face";
+var mnemonic = "fog oak draft tragic high write autumn conduct behind stage skill news";

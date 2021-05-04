@@ -1,1 +1,1 @@
-var mnemonic = "love during case about garage push again crazy leisure similar detect obscure";
+var mnemonic = "impulse badge army begin laptop three crystal broccoli forget below shoot toast";

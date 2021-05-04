@@ -1,1 +1,1 @@
-var mnemonic = "arrive crunch alert idea chair junior fabric rigid waste defy deputy expand";
+var mnemonic = "educate lamp fine blade rough bird horn response example kitchen crumble energy";

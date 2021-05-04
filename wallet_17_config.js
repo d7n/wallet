@@ -1,1 +1,1 @@
-var mnemonic = "lazy casual symbol upon oil reopen addict ranch gold donor board caught";
+var mnemonic = "universe frozen artist candy palace surface spread sustain derive amazing quarter accident";

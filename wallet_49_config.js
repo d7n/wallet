@@ -1,1 +1,1 @@
-var mnemonic = "music surprise poem three room embrace tent bleak egg horror conduct puzzle";
+var mnemonic = "entry attract echo rib stereo inspire lamp income tuna bonus left toe";

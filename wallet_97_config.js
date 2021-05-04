@@ -1,1 +1,1 @@
-var mnemonic = "remain toy position icon boil rather lumber stairs solution casino force combine";
+var mnemonic = "okay bulb that favorite tribe kind deliver live logic consider mutual room";

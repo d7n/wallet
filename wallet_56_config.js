@@ -1,1 +1,1 @@
-var mnemonic = "modify trigger vast board anxiety budget tourist rack argue ship jar acoustic";
+var mnemonic = "ride prosper trumpet capable appear exchange vacuum fatigue conduct chunk police sting";

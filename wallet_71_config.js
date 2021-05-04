@@ -1,1 +1,1 @@
-var mnemonic = "tone exchange welcome depth exercise cheap dice draft purpose tube assist lab";
+var mnemonic = "clarify smart grape judge cushion vague hard autumn panic suit detect document";

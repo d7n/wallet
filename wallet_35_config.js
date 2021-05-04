@@ -1,1 +1,1 @@
-var mnemonic = "furnace donkey fork squeeze valley detect protect immense carbon enlist suffer pattern";
+var mnemonic = "dutch arrange label camp hair trap abuse radar region village panther leopard";

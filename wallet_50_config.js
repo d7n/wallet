@@ -1,1 +1,1 @@
-var mnemonic = "coffee maximum ivory art shy only crisp smooth half neither village garden";
+var mnemonic = "sustain awkward evidence milk awesome combine labor honey army found profit harbor";

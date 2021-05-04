@@ -1,1 +1,1 @@
-var mnemonic = "metal noble album creek behave bird dolphin interest depend second dish market";
+var mnemonic = "pulp scene reject attract weekend genuine lock clog problem dragon bike vessel";

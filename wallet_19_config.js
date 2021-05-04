@@ -1,1 +1,1 @@
-var mnemonic = "bamboo table burger alpha explain various come outside cash combine razor observe";
+var mnemonic = "hub view where oppose riot cement hole pink beyond beauty wait deliver";
