@@ -1,1 +1,1 @@
-var mnemonic = "find code such brief mass over staff swallow real upon still card";
+var mnemonic = "photo best future prosper angry harsh casino above can tank neither reunion";

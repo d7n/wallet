@@ -1,1 +1,1 @@
-var mnemonic = "bag concert volume vacant fade negative amateur fork spare false buyer monitor";
+var mnemonic = "what ocean disorder rose announce arrow trial cabin laugh offer there rally";

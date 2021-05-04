@@ -1,1 +1,1 @@
-var mnemonic = "draw thing laptop expose crystal benefit animal deposit olympic receive thought melt";
+var mnemonic = "enlist scatter van gorilla myth display duck diary arctic orphan great please";

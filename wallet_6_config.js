@@ -1,1 +1,1 @@
-var mnemonic = "ripple awake gold admit wing copy family loyal lemon model dutch project";
+var mnemonic = "exchange view eight father syrup height above menu above umbrella estate educate";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid interest arm answer quality issue step frown strike mule domain champion";
+var mnemonic = "punch fortune decrease inform curve rookie south coil elbow session visual roast";

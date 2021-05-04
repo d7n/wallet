@@ -1,1 +1,1 @@
-var mnemonic = "daring cousin owner opinion hello city visit pledge rapid lion runway zero";
+var mnemonic = "friend diamond sponsor monster bird melt short tumble drive diesel dog sustain";

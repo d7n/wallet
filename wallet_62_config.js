@@ -1,1 +1,1 @@
-var mnemonic = "below hammer pupil ready cat accuse inside olive autumn wait ocean kick";
+var mnemonic = "twist brother lend dance dove receive wear crane symbol flock pen mutual";

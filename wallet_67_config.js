@@ -1,1 +1,1 @@
-var mnemonic = "anxiety gasp wolf genius refuse custom hope chapter fatigue during bless saddle";
+var mnemonic = "fragile mesh canvas original novel pattern impulse robust grab bright pass skill";

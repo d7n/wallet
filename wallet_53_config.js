@@ -1,1 +1,1 @@
-var mnemonic = "narrow magnet antenna injury army carry beyond pilot crumble nice estate cousin";
+var mnemonic = "over screen usual coffee unit mass gap mouse oak divert hobby dignity";

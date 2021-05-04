@@ -1,1 +1,1 @@
-var mnemonic = "caught debris swallow parent match utility blood pattern candy awkward youth fall";
+var mnemonic = "mouse impact amazing clog liberty decline fury pluck twelve uncover mammal tail";

@@ -1,1 +1,1 @@
-var mnemonic = "habit flee between penalty second riot gallery silk clarify festival traffic panther";
+var mnemonic = "concert upgrade uncle ten bind unit slender mutual will beach volume spray";

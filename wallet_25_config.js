@@ -1,1 +1,1 @@
-var mnemonic = "horn this page puzzle loan fiction volcano melody jazz display proof drama";
+var mnemonic = "swallow return anxiety trend maple enrich prefer accident bachelor ring hidden snake";

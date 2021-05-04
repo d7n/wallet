@@ -1,1 +1,1 @@
-var mnemonic = "iron worth deputy camera goose illegal field hip prepare supreme rocket frequent";
+var mnemonic = "fish okay index indicate argue garage jeans kite scatter waste simple label";

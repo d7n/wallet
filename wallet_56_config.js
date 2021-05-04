@@ -1,1 +1,1 @@
-var mnemonic = "build sport rookie business waste estate dice slow era depend addict end";
+var mnemonic = "defense day stick any common spare system kind rate salad affair spawn";

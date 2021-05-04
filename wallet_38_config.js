@@ -1,1 +1,1 @@
-var mnemonic = "stable mansion venture ethics depth flip buzz win describe level retire word";
+var mnemonic = "awful impact evoke sugar title coin nothing dial length harsh bench you";

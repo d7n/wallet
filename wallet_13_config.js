@@ -1,1 +1,1 @@
-var mnemonic = "warrior injury finish century item manual detect region regular toast laptop obtain";
+var mnemonic = "maid virtual cushion answer nature begin click direct adapt dwarf young chimney";

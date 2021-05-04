@@ -1,1 +1,1 @@
-var mnemonic = "flat lobster segment kitten drip trade same chapter swim outdoor habit swap";
+var mnemonic = "fun lounge music fortune blade kick ride hope stem target lunch rain";

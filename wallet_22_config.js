@@ -1,1 +1,1 @@
-var mnemonic = "illness capable equal echo method harsh term anxiety swear wing fragile ill";
+var mnemonic = "fame tower dawn grant clog leopard poet pet acid away actor tray";

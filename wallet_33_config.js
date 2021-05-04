@@ -1,1 +1,1 @@
-var mnemonic = "dizzy old fee beauty loud prepare awful decline arrow impulse suggest wear";
+var mnemonic = "cube ankle skill make agree impact useless grass rose off arrive cake";

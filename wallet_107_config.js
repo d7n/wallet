@@ -1,1 +1,1 @@
-var mnemonic = "suit canvas tape minor since crouch sunny alter burger orphan flock jacket";
+var mnemonic = "silk before approve coil raven pilot half mule follow planet champion water";

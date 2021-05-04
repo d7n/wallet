@@ -1,1 +1,1 @@
-var mnemonic = "mother trend stumble art grunt divert family search push cotton sail oyster";
+var mnemonic = "cattle canoe good toast dirt group swap bachelor forward topic next mesh";

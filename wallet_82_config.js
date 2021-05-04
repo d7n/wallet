@@ -1,1 +1,1 @@
-var mnemonic = "theory final panther permit man detail morning toilet couch daring yard slot";
+var mnemonic = "chronic oval smart tag limit salt acoustic choice noise scare regret liberty";

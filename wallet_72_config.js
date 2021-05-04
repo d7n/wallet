@@ -1,1 +1,1 @@
-var mnemonic = "about document rough fog margin street day draw protect boring gas hundred";
+var mnemonic = "exotic canal afford dragon reopen lemon dream aerobic hedgehog stool fine drastic";

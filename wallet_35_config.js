@@ -1,1 +1,1 @@
-var mnemonic = "tribe drink rib movie multiply online hurry unhappy trial easily busy custom";
+var mnemonic = "school exit long erosion armed mushroom extra sorry december hat glass betray";

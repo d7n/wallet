@@ -1,1 +1,1 @@
-var mnemonic = "grid false mercy merge area dress burst biology squeeze sight method consider";
+var mnemonic = "ordinary imitate siege spy gallery arrange measure suggest beyond daughter crystal ready";

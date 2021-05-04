@@ -1,1 +1,1 @@
-var mnemonic = "giant leaf town hope warrior thing fancy matrix mercy neutral violin stairs";
+var mnemonic = "cave castle virus false hazard few auction ticket secret civil student ugly";

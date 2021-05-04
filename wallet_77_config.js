@@ -1,1 +1,1 @@
-var mnemonic = "above skin warfare equip sustain coil phrase pool energy seed tail fetch";
+var mnemonic = "delay addict monster hello armor wash green stand ocean unable license gauge";

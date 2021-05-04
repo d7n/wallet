@@ -1,1 +1,1 @@
-var mnemonic = "chalk exotic girl cactus addict six state regret mystery desert ocean bind";
+var mnemonic = "moral injury erase mask visa quiz hood write volcano real come ladder";

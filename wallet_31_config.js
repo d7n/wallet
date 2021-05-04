@@ -1,1 +1,1 @@
-var mnemonic = "cycle utility dust van ability gate wink chef surge pledge cable bonus";
+var mnemonic = "until twenty sadness priority drip turn scrap baby wheel zebra figure inside";

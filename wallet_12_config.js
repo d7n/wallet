@@ -1,1 +1,1 @@
-var mnemonic = "mercy child vicious broom cool rule blind maple champion addict aim away";
+var mnemonic = "anchor dragon suspect welcome right state inherit buzz police bounce duck choose";

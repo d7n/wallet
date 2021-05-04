@@ -1,1 +1,1 @@
-var mnemonic = "celery such second inform glue also barely spot immune buyer kind man";
+var mnemonic = "hurt tool crush page correct anxiety artist shine gaze face boost resource";

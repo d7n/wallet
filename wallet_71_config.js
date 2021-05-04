@@ -1,1 +1,1 @@
-var mnemonic = "street economy post east coral wrist liar jaguar include quality school search";
+var mnemonic = "strike patch dove prevent slot silent island joke yard culture tunnel render";

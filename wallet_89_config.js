@@ -1,1 +1,1 @@
-var mnemonic = "phrase hammer subway guard market evoke obvious midnight foster birth test traffic";
+var mnemonic = "myself rubber wife fashion blade mushroom decide main chapter nose oblige coin";

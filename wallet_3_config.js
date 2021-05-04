@@ -1,1 +1,1 @@
-var mnemonic = "camp kind harvest summer bulk leaf acid word mother head buddy upset";
+var mnemonic = "hour scout kitchen refuse shoot mountain shop code nasty wonder decline quit";

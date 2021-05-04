@@ -1,1 +1,1 @@
-var mnemonic = "fish solid misery enough night frequent early fade track demise tonight early";
+var mnemonic = "cute riot short limit can eight submit bright walnut giggle trick strong";

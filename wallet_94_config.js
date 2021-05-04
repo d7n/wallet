@@ -1,1 +1,1 @@
-var mnemonic = "usage universe cost rifle clip wife dismiss click airport resist vast arrow";
+var mnemonic = "sniff antenna fox economy domain muffin buyer flee warm glue cover before";

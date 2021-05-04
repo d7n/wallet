@@ -1,1 +1,1 @@
-var mnemonic = "absurd ring museum enroll liar reflect accident pig sausage little glide legend";
+var mnemonic = "damage multiply toe accident census square jeans cigar raven soft baby dinosaur";

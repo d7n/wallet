@@ -1,1 +1,1 @@
-var mnemonic = "also organ poet reject lend hybrid glance verb either achieve force live";
+var mnemonic = "usage clown rich relax arm broom drip offer sing program strong tattoo";

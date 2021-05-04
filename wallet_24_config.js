@@ -1,1 +1,1 @@
-var mnemonic = "despair athlete appear park tell fashion boat file pretty brief barrel borrow";
+var mnemonic = "treat border gift apology owner monster series define engage opinion chest sponsor";

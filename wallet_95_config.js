@@ -1,1 +1,1 @@
-var mnemonic = "admit effort injury traffic consider feed ancient belt story client fabric tape";
+var mnemonic = "now render rain fetch input turn someone upon cattle crumble easily nation";

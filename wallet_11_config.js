@@ -1,1 +1,1 @@
-var mnemonic = "disagree volcano idea pill text corn wheat envelope prepare post wash blush";
+var mnemonic = "birth shield sponsor ginger logic dial symbol proud verb foot mimic draw";

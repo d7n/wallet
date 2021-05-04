@@ -1,1 +1,1 @@
-var mnemonic = "prevent short identify release tray fabric omit antique sausage success topic guilt";
+var mnemonic = "cheese patient avocado fortune coin garage harbor issue length coconut absurd crisp";

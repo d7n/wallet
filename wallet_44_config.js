@@ -1,1 +1,1 @@
-var mnemonic = "cushion ladder snake desert differ armor sure diagram nephew kit room satisfy";
+var mnemonic = "pretty brush mountain captain limb win idea useless task doctor skirt cargo";

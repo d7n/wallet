@@ -1,1 +1,1 @@
-var mnemonic = "eagle sausage marine draft attack detail puppy loud only concert wisdom gas";
+var mnemonic = "odor rail since frost front moment major man female oven exotic purse";

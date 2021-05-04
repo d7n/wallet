@@ -1,1 +1,1 @@
-var mnemonic = "divide gloom arch scare reopen gather surround quantum race frame chicken tree";
+var mnemonic = "move require romance blue correct marine exhibit transfer grant slight voice awake";

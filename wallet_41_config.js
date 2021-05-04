@@ -1,1 +1,1 @@
-var mnemonic = "again leisure august vendor evoke flee drum click primary adapt survey napkin";
+var mnemonic = "abstract chef combine glad deputy canvas begin crumble pond private essence thumb";

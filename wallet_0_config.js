@@ -1,1 +1,1 @@
-var mnemonic = "fun clip local congress then evidence palm radio over clock artefact bless";
+var mnemonic = "acid model love regular garlic bacon rural harsh apology frequent dress rate";

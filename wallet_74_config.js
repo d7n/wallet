@@ -1,1 +1,1 @@
-var mnemonic = "bullet scrub marriage penalty verb cabin social pear umbrella luxury tell idle";
+var mnemonic = "flee steak add project artwork memory spirit pumpkin object crystal gain ticket";

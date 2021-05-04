@@ -1,1 +1,1 @@
-var mnemonic = "focus please quote again flower wild fox silly paddle runway hard wife";
+var mnemonic = "spider magnet biology gain diary damp deal boost vicious this height bid";

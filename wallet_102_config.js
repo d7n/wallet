@@ -1,1 +1,1 @@
-var mnemonic = "drop vicious embark fiscal whip bike lobster board fish sense certain execute";
+var mnemonic = "neck travel wage drop parent umbrella top bunker shed real response fall";

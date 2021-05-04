@@ -1,1 +1,1 @@
-var mnemonic = "shoulder wrong found sunny soul demise desk entry february twice boil raccoon";
+var mnemonic = "crater library coconut input search universe jaguar distance fiction blast river raccoon";

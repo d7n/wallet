@@ -1,1 +1,1 @@
-var mnemonic = "memory honey sweet emerge tooth dirt alpha tuition police soul rigid wool";
+var mnemonic = "welcome bottom often media diagram solid mask frog soap scout material solve";

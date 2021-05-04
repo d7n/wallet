@@ -1,1 +1,1 @@
-var mnemonic = "ready crop stage unfold phone regular foil cannon action link dwarf arrange";
+var mnemonic = "hat cry supreme zone turkey rely wheel hotel essence coral rail lamp";

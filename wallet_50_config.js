@@ -1,1 +1,1 @@
-var mnemonic = "same purpose fabric excite jaguar digital banner umbrella clog quarter snap exhaust";
+var mnemonic = "number proof acid fit area blood involve push draft cannon unique episode";

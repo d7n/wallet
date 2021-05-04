@@ -1,1 +1,1 @@
-var mnemonic = "become chaos inflict common elite million desk sponsor gold hood govern butter";
+var mnemonic = "stamp exhibit patrol fire glue coffee nice ketchup maze imitate attend luggage";

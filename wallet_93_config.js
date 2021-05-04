@@ -1,1 +1,1 @@
-var mnemonic = "club torch ketchup wire gravity prefer swift lock recall pool piano rose";
+var mnemonic = "ice mixture help cactus cousin table random human amateur response blame found";

@@ -1,1 +1,1 @@
-var mnemonic = "attack narrow medal response amused income simple between vast portion size sadness";
+var mnemonic = "praise lunar spirit silly poverty mixed item arctic decrease reject meat recipe";

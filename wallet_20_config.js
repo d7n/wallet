@@ -1,1 +1,1 @@
-var mnemonic = "pipe essay strike member girl shadow other cloud burden visit remain tooth";
+var mnemonic = "return lottery ball end lift smooth orbit wisdom kick crouch theory dose";

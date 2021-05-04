@@ -1,1 +1,1 @@
-var mnemonic = "palace process speed analyst nut that divide scrap lumber renew camera pitch";
+var mnemonic = "club misery swing maple morning lawsuit gather fix topple merit tray quiz";

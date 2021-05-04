@@ -1,1 +1,1 @@
-var mnemonic = "patrol trend grain prefer host jacket cry draw film olympic kiss ramp";
+var mnemonic = "mammal wear rebuild shed find eagle will include benefit fragile limb buddy";

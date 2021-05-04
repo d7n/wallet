@@ -1,1 +1,1 @@
-var mnemonic = "mobile age green foster dance muscle mind unfold clerk entry design vital";
+var mnemonic = "garage winner gap trick cage muscle cross whisper friend bone wink eagle";

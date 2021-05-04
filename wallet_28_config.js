@@ -1,1 +1,1 @@
-var mnemonic = "raw square energy auto pen brisk father tunnel faith maximum fat shield";
+var mnemonic = "tobacco cousin eyebrow figure math spell polar jar double two similar melody";

@@ -1,1 +1,1 @@
-var mnemonic = "cry summer weekend game project jazz wet female weekend midnight review domain";
+var mnemonic = "damp hard laptop brush force legal struggle foster swallow celery extend impact";

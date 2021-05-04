@@ -1,1 +1,1 @@
-var mnemonic = "minimum apology frog february ramp fan degree valid danger sight nature veteran";
+var mnemonic = "elbow seed proof cattle example always fire welcome jaguar boss sport buzz";

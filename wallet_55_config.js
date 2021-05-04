@@ -1,1 +1,1 @@
-var mnemonic = "right vote bundle fence rose walnut tomato child language venue under soap";
+var mnemonic = "shield nose field moment travel caution luxury ice access lunch monkey post";

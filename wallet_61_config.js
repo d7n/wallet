@@ -1,1 +1,1 @@
-var mnemonic = "arrow gravity cup panda ribbon trophy depth dry draft era source under";
+var mnemonic = "mind gasp put penalty list voice apart select remain remain sorry entire";

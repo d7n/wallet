@@ -1,1 +1,1 @@
-var mnemonic = "lunar wave relief bid post hill swamp exotic test child setup stove";
+var mnemonic = "insect wife enhance play make cinnamon dial remain sketch old glue main";

@@ -1,1 +1,1 @@
-var mnemonic = "picture three erupt panic express small nest hammer addict next pumpkin gift";
+var mnemonic = "potato veteran tip blanket foster talent antenna salmon ladder scorpion oval flash";

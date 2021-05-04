@@ -1,1 +1,1 @@
-var mnemonic = "town pink meat arrow maple smooth danger blanket claim age ridge warrior";
+var mnemonic = "grief trap endorse slide shoulder source clump method kiwi foam bright idea";

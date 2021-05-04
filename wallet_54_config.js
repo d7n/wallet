@@ -1,1 +1,1 @@
-var mnemonic = "label kiwi plunge high divide spawn border soft stadium ranch charge taste";
+var mnemonic = "estate crew real slide critic any dumb gesture enhance hard admit scale";

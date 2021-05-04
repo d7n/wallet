@@ -1,1 +1,1 @@
-var mnemonic = "vintage frequent bronze genuine stable science task speed survey steel interest trap";
+var mnemonic = "certain immune bottom club skull produce alcohol action volcano earth couch measure";

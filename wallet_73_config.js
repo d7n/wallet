@@ -1,1 +1,1 @@
-var mnemonic = "minute cotton impose corn peace access coach change found burger accident address";
+var mnemonic = "palace curve bridge eager settle retire smoke box culture hospital circle level";

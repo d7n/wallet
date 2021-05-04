@@ -1,1 +1,1 @@
-var mnemonic = "air carry still neutral click taxi lake budget usage swing swallow brand";
+var mnemonic = "check satoshi genuine grass bread letter aware sting female couch conduct priority";

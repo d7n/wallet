@@ -1,1 +1,1 @@
-var mnemonic = "category vote fiction lounge know shrimp hotel circle recycle trip dune capital";
+var mnemonic = "puppy sibling option uniform rose flower any seat buddy grocery pony sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "connect segment worry dirt protect cube behave orient vague foil enjoy scout";
+var mnemonic = "scheme erupt kick skill unit soft trigger quote glance upgrade brick table";

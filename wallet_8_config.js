@@ -1,1 +1,1 @@
-var mnemonic = "grain various chair kitten dream cargo old kangaroo vendor divide hybrid sting";
+var mnemonic = "couch myself mirror lumber video wire autumn curve educate middle mountain actor";

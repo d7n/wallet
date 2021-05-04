@@ -1,1 +1,1 @@
-var mnemonic = "slogan employ wasp bullet mother cabin mesh bicycle voyage metal test hole";
+var mnemonic = "believe mansion vacuum photo damp picture explain loan coast hour develop game";

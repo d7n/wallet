@@ -1,1 +1,1 @@
-var mnemonic = "inject across erode auto kiwi weekend quit alpha view lecture expire harvest";
+var mnemonic = "setup speed balance memory aisle priority recall use royal sleep bleak clutch";

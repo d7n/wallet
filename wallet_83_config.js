@@ -1,1 +1,1 @@
-var mnemonic = "moon radio double course neutral oyster tunnel luggage oil cream task best";
+var mnemonic = "heart exit dwarf badge roast weasel toe talent eagle reunion victory hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "lift pipe pattern warrior frequent hurry kit common affair dog pony explain";
+var mnemonic = "provide blast skirt during machine gym acid illness velvet ramp consider asset";

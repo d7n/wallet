@@ -1,1 +1,1 @@
-var mnemonic = "damp that dove basket solution cream tiger cupboard ridge cancel dutch frame";
+var mnemonic = "kiwi unknown fog tube echo assume champion awkward stem cook ice message";

@@ -1,1 +1,1 @@
-var mnemonic = "balance cart nephew process subway upon army arena very easy same erase";
+var mnemonic = "attend broom sentence scheme badge side various resource diet globe page people";

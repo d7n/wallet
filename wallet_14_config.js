@@ -1,1 +1,1 @@
-var mnemonic = "candy behind escape enough peanut cluster syrup office fancy accident secret group";
+var mnemonic = "celery special lizard pledge tunnel lunar pottery bench inflict worry pet eager";

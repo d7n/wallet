@@ -1,1 +1,1 @@
-var mnemonic = "orange panic narrow mammal deposit coconut blade small grain expose sense oil";
+var mnemonic = "glass run harvest stairs rough buffalo jump sketch disorder display sponsor dentist";

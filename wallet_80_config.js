@@ -1,1 +1,1 @@
-var mnemonic = "shuffle capital muffin nominee table tower crouch magic alien october people lyrics";
+var mnemonic = "loop sentence company seed warm month segment film quiz laptop divert early";

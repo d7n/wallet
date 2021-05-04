@@ -1,1 +1,1 @@
-var mnemonic = "moon wool oblige mixed cement robot rule tired insect naive crack pact";
+var mnemonic = "essay vicious planet upgrade silly soda glance inner runway slush exist gaze";
