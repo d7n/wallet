@@ -1,1 +1,1 @@
-var mnemonic = "below rifle nominee place minute december sail nation girl rebel evil stable";
+var mnemonic = "solution run indoor matter pond horn fetch choose hello stadium play oblige";

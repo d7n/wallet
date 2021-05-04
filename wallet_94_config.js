@@ -1,1 +1,1 @@
-var mnemonic = "barely weasel usage comic device stock swing divide bronze truck trigger market";
+var mnemonic = "nerve little art rookie long zone level fringe lounge you swear joy";

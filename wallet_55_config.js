@@ -1,1 +1,1 @@
-var mnemonic = "super change proof forget notice breeze law join clinic select frame butter";
+var mnemonic = "fold kiss resist initial supply avocado warm sugar script spring pool ski";

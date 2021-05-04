@@ -1,1 +1,1 @@
-var mnemonic = "distance message shy talent twelve rather comfort garage aerobic answer popular snow";
+var mnemonic = "toast impulse join egg pull concert together together shoe couch where worry";

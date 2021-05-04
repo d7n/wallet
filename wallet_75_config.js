@@ -1,1 +1,1 @@
-var mnemonic = "define crouch culture repeat wait stove solve supply pupil swear stereo broom";
+var mnemonic = "twenty recipe ankle net promote other rude arctic wheat twist tail real";

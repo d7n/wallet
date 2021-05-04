@@ -1,1 +1,1 @@
-var mnemonic = "undo crowd balance oak decrease dash aunt sponsor ceiling balance stove tooth";
+var mnemonic = "enact blush session salute hockey fiber minimum cycle door fix word dry";

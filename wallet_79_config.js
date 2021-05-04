@@ -1,1 +1,1 @@
-var mnemonic = "action donor crucial awful spoil phrase base idea old physical skate maximum";
+var mnemonic = "rare series depend giant trick tree world knee minute effort kangaroo toss";

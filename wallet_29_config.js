@@ -1,1 +1,1 @@
-var mnemonic = "spell display gown churn short primary during retreat witness case female trouble";
+var mnemonic = "change wrestle long seek noble pioneer siren glance leg snow ketchup wing";

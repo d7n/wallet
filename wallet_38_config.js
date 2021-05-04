@@ -1,1 +1,1 @@
-var mnemonic = "task tilt easy empower champion answer dog enroll document blood foil divorce";
+var mnemonic = "diamond copper flip globe kick reward ensure enrich modify obvious resemble wine";

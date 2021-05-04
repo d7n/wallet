@@ -1,1 +1,1 @@
-var mnemonic = "six ketchup test certain will range scale warm hero essence click staff";
+var mnemonic = "reflect crawl leg luggage organ estate satoshi welcome pride size myth twin";

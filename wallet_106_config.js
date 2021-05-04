@@ -1,1 +1,1 @@
-var mnemonic = "destroy school put glide clutch assume acoustic bamboo sport arena same canal";
+var mnemonic = "lucky behave egg range normal happy text image father final sorry blanket";

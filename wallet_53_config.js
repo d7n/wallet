@@ -1,1 +1,1 @@
-var mnemonic = "pet cover snake easy win impact cat awake grunt sad pig fly";
+var mnemonic = "talent robust dance clip sock try animal melt peasant trial aspect wood";

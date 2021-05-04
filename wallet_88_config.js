@@ -1,1 +1,1 @@
-var mnemonic = "rule slab crash funny inch skate vessel broken casual board artist slight";
+var mnemonic = "stage execute artist gauge stick owner snap air elevator provide mandate unfair";

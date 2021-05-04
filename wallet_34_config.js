@@ -1,1 +1,1 @@
-var mnemonic = "correct rebel team ozone legal decide uncover detect endless conduct once left";
+var mnemonic = "answer split either tent dish one eagle knee machine mixed club seed";

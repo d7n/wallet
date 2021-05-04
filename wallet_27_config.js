@@ -1,1 +1,1 @@
-var mnemonic = "spirit employ decade twice palace mirror life mask answer rocket salute west";
+var mnemonic = "sunset grief knock surround piece atom grant feed symbol scatter pause unlock";

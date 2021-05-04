@@ -1,1 +1,1 @@
-var mnemonic = "feed baby clever palm repeat boil lottery holiday model cement casual until";
+var mnemonic = "survey object float seat lonely treat novel eye rifle knee ocean image";

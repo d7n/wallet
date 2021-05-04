@@ -1,1 +1,1 @@
-var mnemonic = "response shoot tilt cage dinosaur rather mouse glove come room prepare sick";
+var mnemonic = "retire cluster other spin injury scan blue script feel tissue enact mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "ancient corn unit social acoustic skull busy check attack purpose creek bridge";
+var mnemonic = "symptom faith elegant any hint junk dog ancient rabbit vote expect enhance";

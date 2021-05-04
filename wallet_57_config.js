@@ -1,1 +1,1 @@
-var mnemonic = "during inject number twin junk cinnamon wheat chase frozen ordinary slab divide";
+var mnemonic = "frame basic rural pause derive team repeat woman spare language neither oyster";

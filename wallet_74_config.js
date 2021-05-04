@@ -1,1 +1,1 @@
-var mnemonic = "fresh fish total naive foil lucky tomorrow task stage execute save mention";
+var mnemonic = "lobster quiz urge patch harvest dance surge diary nominee sustain coach embark";

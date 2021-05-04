@@ -1,1 +1,1 @@
-var mnemonic = "fog unknown differ black bronze traffic tumble demand inquiry bulk intact mail";
+var mnemonic = "kidney leopard bless rural margin sausage alter supreme ostrich magnet garden filter";

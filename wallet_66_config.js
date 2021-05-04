@@ -1,1 +1,1 @@
-var mnemonic = "outdoor sustain behind warm youth rule become poet cattle certain moment hard";
+var mnemonic = "pistol define catch inherit cause odor pupil level inspire kiwi sunny father";

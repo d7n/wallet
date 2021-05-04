@@ -1,1 +1,1 @@
-var mnemonic = "invest tent end clump hint style impose goat animal good eager romance";
+var mnemonic = "second peasant husband razor crisp wage mirror fit peasant various cinnamon seminar";

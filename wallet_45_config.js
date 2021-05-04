@@ -1,1 +1,1 @@
-var mnemonic = "unable weekend typical town angle gold emotion slim hard worth basic random";
+var mnemonic = "system rebuild electric sample unknown electric end crystal ask letter about vendor";

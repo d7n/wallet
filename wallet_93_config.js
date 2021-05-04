@@ -1,1 +1,1 @@
-var mnemonic = "talent poet sadness flock steel reflect satisfy then blue sister crisp mandate";
+var mnemonic = "bicycle jacket dumb work confirm purse topple awkward improve combine night arrest";

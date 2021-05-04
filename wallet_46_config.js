@@ -1,1 +1,1 @@
-var mnemonic = "cement fringe tumble similar task sniff nephew destroy funny trim sentence disagree";
+var mnemonic = "seven hat rice winter coffee you card urge rescue park middle acid";

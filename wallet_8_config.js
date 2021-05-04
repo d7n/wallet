@@ -1,1 +1,1 @@
-var mnemonic = "expose fever marine physical brother liquid spoil tourist belt pumpkin body shy";
+var mnemonic = "old glue cricket easily february hour nurse party brother idle rotate curious";

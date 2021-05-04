@@ -1,1 +1,1 @@
-var mnemonic = "reopen upgrade entry tired square early adapt filter drama market fuel pass";
+var mnemonic = "tunnel entry design female entry demise cake ripple aunt dash biology swift";

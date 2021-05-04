@@ -1,1 +1,1 @@
-var mnemonic = "detect warfare fan disagree about such figure ripple improve whisper game slender";
+var mnemonic = "tape custom street latin useful credit gold bounce wrist stable innocent pipe";

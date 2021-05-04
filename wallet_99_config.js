@@ -1,1 +1,1 @@
-var mnemonic = "pyramid right win expect caution drum three super river cargo accident pill";
+var mnemonic = "chef exile mixture road note mouse three physical obey circle okay manual";

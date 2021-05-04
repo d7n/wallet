@@ -1,1 +1,1 @@
-var mnemonic = "angle laptop light flush omit early dice tribe evil feature talent emerge";
+var mnemonic = "grunt enhance scrub card dynamic mention master sad rich maximum resist add";

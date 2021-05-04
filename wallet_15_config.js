@@ -1,1 +1,1 @@
-var mnemonic = "turtle around dish express tennis pave still radio inquiry occur together spice";
+var mnemonic = "absorb angry snake shed pretty brush embark sail label observe off casual";

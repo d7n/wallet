@@ -1,1 +1,1 @@
-var mnemonic = "day normal future verify rug skill power hat topic meat present volcano";
+var mnemonic = "fame sweet pilot engage jacket dove sunny fitness medal wealth pyramid coffee";

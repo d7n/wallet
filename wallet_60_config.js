@@ -1,1 +1,1 @@
-var mnemonic = "solar huge olympic weapon expose nut capable quote large company height victory";
+var mnemonic = "select promote easy pelican mad position gadget holiday call ridge slim axis";

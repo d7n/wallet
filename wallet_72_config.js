@@ -1,1 +1,1 @@
-var mnemonic = "march shuffle choice sister retreat east assault hidden height say glove bird";
+var mnemonic = "carpet wing bomb violin never enroll lion drive reward debris round address";

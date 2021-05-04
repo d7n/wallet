@@ -1,1 +1,1 @@
-var mnemonic = "volcano shock giraffe divert neck math secret train duty taste offer lawn";
+var mnemonic = "flat purity off crime powder together vacant right extra away wait tube";

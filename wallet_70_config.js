@@ -1,1 +1,1 @@
-var mnemonic = "frozen company design fit scatter exchange intact like cash little kiwi staff";
+var mnemonic = "bounce list long victory regret belt name reform blind couple balcony truly";

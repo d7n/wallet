@@ -1,1 +1,1 @@
-var mnemonic = "recall census baby approve pole duty solid siege soldier bicycle left step";
+var mnemonic = "home mercy insane shoe grass multiply nuclear prison accident bus repeat talk";

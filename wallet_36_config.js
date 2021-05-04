@@ -1,1 +1,1 @@
-var mnemonic = "iron kick decline crane liquid clip pause left people door fun hand";
+var mnemonic = "action mad bridge response radar width topple wet chaos ensure used logic";

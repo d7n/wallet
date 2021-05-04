@@ -1,1 +1,1 @@
-var mnemonic = "submit drill stand unknown profit second exercise medal mercy advance excite crush";
+var mnemonic = "glass warfare better dial ahead rain soft envelope quick tide diet donkey";

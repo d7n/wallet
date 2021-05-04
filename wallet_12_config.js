@@ -1,1 +1,1 @@
-var mnemonic = "weird wasp avoid unhappy remind garage brother avoid fame romance end purse";
+var mnemonic = "upper blush joy piece track project paper forest buddy fiber void knife";

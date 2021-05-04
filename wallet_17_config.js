@@ -1,1 +1,1 @@
-var mnemonic = "six mechanic differ track credit neutral sphere remind push glance tired ball";
+var mnemonic = "average portion leader among govern chunk oppose foil floor gun sudden since";

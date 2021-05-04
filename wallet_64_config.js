@@ -1,1 +1,1 @@
-var mnemonic = "confirm elevator stable airport borrow mask bundle junior solve member frame leaf";
+var mnemonic = "harbor cable guard true duck rookie joke equip moment viable fall dilemma";

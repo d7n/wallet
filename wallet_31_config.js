@@ -1,1 +1,1 @@
-var mnemonic = "morning arrive rely prepare burden hold mask shine august scorpion bubble father";
+var mnemonic = "brave atom furnace point year nest picture system witness actor update canvas";

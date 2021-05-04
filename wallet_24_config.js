@@ -1,1 +1,1 @@
-var mnemonic = "border alter truck thought side ecology occur check sail dizzy nothing sail";
+var mnemonic = "immune elder dignity exchange push hybrid scale describe asset report escape vast";

@@ -1,1 +1,1 @@
-var mnemonic = "digital ball skin leader light armor either old broccoli ramp hold web";
+var mnemonic = "sponsor cement depart rifle grief matrix beyond adjust element envelope iron green";

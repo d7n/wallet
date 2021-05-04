@@ -1,1 +1,1 @@
-var mnemonic = "record loud hidden spend private impose stand join label razor cage recycle";
+var mnemonic = "exile helmet seed snap market boost rule food jacket jacket motor hazard";

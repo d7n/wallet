@@ -1,1 +1,1 @@
-var mnemonic = "help ridge they season action banner another direct bleak defense drive praise";
+var mnemonic = "soup car stove trash hair blast arrest gain jewel absent enrich penalty";

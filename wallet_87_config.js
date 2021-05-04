@@ -1,1 +1,1 @@
-var mnemonic = "garden person solve donor when dutch trust country key drive resist hunt";
+var mnemonic = "young ordinary tide mercy ride stage crazy purity trade sign gift nature";

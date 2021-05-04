@@ -1,1 +1,1 @@
-var mnemonic = "cover tennis dinner bike satoshi fatal select gossip scrap crawl pencil photo";
+var mnemonic = "inspire ginger rate zoo idle resist lab satoshi small huge hazard move";

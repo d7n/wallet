@@ -1,1 +1,1 @@
-var mnemonic = "correct bullet begin kite fan true sport wage fame interest mandate point";
+var mnemonic = "cabbage between cactus volume escape marine pioneer alert token announce nerve trend";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk summer clown fish define phrase ranch before struggle eager target sadness";
+var mnemonic = "pull kid boy supply minute much garment ice alarm habit pony frog";

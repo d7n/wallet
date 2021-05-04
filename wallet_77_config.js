@@ -1,1 +1,1 @@
-var mnemonic = "spatial candy scan proof seat whisper path adult manual wonder green unaware";
+var mnemonic = "dentist scale garlic thrive parade giant primary girl catch siege stock twin";

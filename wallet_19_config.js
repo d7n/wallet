@@ -1,1 +1,1 @@
-var mnemonic = "volcano jealous seven notice net august hockey pitch entry citizen victory area";
+var mnemonic = "portion promote melody item wait visual clap abuse report artwork remind real";

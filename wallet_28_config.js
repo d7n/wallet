@@ -1,1 +1,1 @@
-var mnemonic = "traffic crack gauge drama demand garbage ask anger very umbrella unknown kit";
+var mnemonic = "elite vote tuna foot fiscal tortoise amateur provide shoe dinosaur swarm ribbon";

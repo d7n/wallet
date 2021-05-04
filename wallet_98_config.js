@@ -1,1 +1,1 @@
-var mnemonic = "letter lens afraid pulse quit angry tuna present alarm bright over mercy";
+var mnemonic = "regular school impose circle gaze wonder scheme portion bomb cluster dumb vital";

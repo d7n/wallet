@@ -1,1 +1,1 @@
-var mnemonic = "wolf blouse annual robust satoshi belt mixed country salad loyal audit give";
+var mnemonic = "train wire slogan siren lonely square crush burger mercy undo copper skirt";

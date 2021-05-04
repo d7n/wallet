@@ -1,1 +1,1 @@
-var mnemonic = "chunk book angry pelican luggage hope poem swear sad alert lunch wave";
+var mnemonic = "hint depart inspire ancient use wear relax connect science memory maximum inch";

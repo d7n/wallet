@@ -1,1 +1,1 @@
-var mnemonic = "sister assist soul property judge plunge aspect theme dynamic daring degree dream";
+var mnemonic = "false garment weather unaware deputy vacant denial zoo collect depart update table";

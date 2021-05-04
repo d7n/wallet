@@ -1,1 +1,1 @@
-var mnemonic = "seat unfair jealous club beach because book liar barrel smooth shrug aspect";
+var mnemonic = "damage cupboard capital stomach leisure next round excuse horror liberty toast federal";

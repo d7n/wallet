@@ -1,1 +1,1 @@
-var mnemonic = "ostrich entry fan snow siren expose monkey category among answer chalk feed";
+var mnemonic = "pink estate thumb stool health custom flat weasel isolate picnic material fatal";

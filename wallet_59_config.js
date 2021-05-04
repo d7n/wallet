@@ -1,1 +1,1 @@
-var mnemonic = "man bounce stamp various beef chef heavy rescue taste property track birth";
+var mnemonic = "mix action manage expire phrase bitter couch envelope walnut manual speak notice";

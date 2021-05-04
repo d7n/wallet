@@ -1,1 +1,1 @@
-var mnemonic = "trade stairs reunion erase toilet drop unlock teach apple okay robot box";
+var mnemonic = "wealth about goddess extra luxury trust wrap song mosquito away since pupil";

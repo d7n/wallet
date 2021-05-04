@@ -1,1 +1,1 @@
-var mnemonic = "insane total shaft salon add cousin pony link normal ten use nice";
+var mnemonic = "velvet scout weapon shield educate culture fury scare hurdle effort enroll what";

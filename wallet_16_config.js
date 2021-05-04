@@ -1,1 +1,1 @@
-var mnemonic = "film busy engine journey pear model absorb lunch baby female draft open";
+var mnemonic = "tennis flat champion game extend brass leader lecture volume cargo obey route";

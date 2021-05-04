@@ -1,1 +1,1 @@
-var mnemonic = "apology moon hundred castle foot crouch fresh shift smile correct subway salon";
+var mnemonic = "common subway thumb admit eager bean effort coast invite grocery struggle business";

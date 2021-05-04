@@ -1,1 +1,1 @@
-var mnemonic = "example civil morning volcano fatigue panel clerk toy venture satisfy genius devote";
+var mnemonic = "eagle siege enough gesture cargo zero shy plastic century rose lion bag";

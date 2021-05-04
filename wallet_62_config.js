@@ -1,1 +1,1 @@
-var mnemonic = "income retreat claw donkey spider dust misery live saddle betray use wagon";
+var mnemonic = "step arrive idle melody tape illness quiz awkward devote tank rally bone";

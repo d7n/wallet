@@ -1,1 +1,1 @@
-var mnemonic = "amateur canvas claim silly scrap between universe thank usual timber segment void";
+var mnemonic = "only solid misery wisdom benefit shoe trend print rebel race float loop";

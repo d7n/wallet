@@ -1,1 +1,1 @@
-var mnemonic = "about expand faint payment meat neglect erupt random scatter claw round supply";
+var mnemonic = "use ridge panther security science bulk tray panther pumpkin leader arrive chief";

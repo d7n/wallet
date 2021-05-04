@@ -1,1 +1,1 @@
-var mnemonic = "grass marriage level cabbage effort cherry team mushroom crawl rib blame people";
+var mnemonic = "version moral ill hand ahead auction obvious seed message reward pledge stem";

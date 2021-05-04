@@ -1,1 +1,1 @@
-var mnemonic = "canvas runway wage together mammal cause eagle gate dry art can strike";
+var mnemonic = "whisper grief steel glow record devote moon isolate sword protect sudden senior";

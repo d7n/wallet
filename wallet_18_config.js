@@ -1,1 +1,1 @@
-var mnemonic = "talent wrong head elder true kite seek always cinnamon build derive neutral";
+var mnemonic = "tuna hundred twice allow master asthma horror bind country safe parade happy";

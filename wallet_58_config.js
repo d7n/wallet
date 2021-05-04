@@ -1,1 +1,1 @@
-var mnemonic = "secret network strong still adapt birth memory engage blouse lamp series ivory";
+var mnemonic = "daring orchard pill potato learn street creek weapon click scorpion success provide";

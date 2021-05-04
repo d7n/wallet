@@ -1,1 +1,1 @@
-var mnemonic = "there quiz master rubber connect vessel agree picture undo school warfare dolphin";
+var mnemonic = "strategy ghost crane diagram sudden trumpet gesture flight lava silver cook ride";

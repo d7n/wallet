@@ -1,1 +1,1 @@
-var mnemonic = "crane eager soccer hazard rabbit render defy canal prize illegal fluid idea";
+var mnemonic = "napkin base table comic shoot floor success acquire latin profit series segment";

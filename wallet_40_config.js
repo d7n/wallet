@@ -1,1 +1,1 @@
-var mnemonic = "mango sudden couple balcony noise ball shock case extra mind wedding act";
+var mnemonic = "bulk engine orphan fringe leader alley middle unique zone effort maximum sister";

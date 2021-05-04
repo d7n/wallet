@@ -1,1 +1,1 @@
-var mnemonic = "thrive write cake choice island clerk normal visual crucial stuff become item";
+var mnemonic = "mistake differ arrest adult chalk width crucial state phrase proud blind chuckle";

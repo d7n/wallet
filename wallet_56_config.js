@@ -1,1 +1,1 @@
-var mnemonic = "father joke collect spare dignity velvet symbol material pulse bacon exile dial";
+var mnemonic = "gun ugly collect draft alcohol bundle aerobic plate ill ramp arrest lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding uniform rocket arrest laptop skirt viable picnic toilet pioneer club cotton";
+var mnemonic = "act file total chat zebra slice permit clog close truly gallery swallow";

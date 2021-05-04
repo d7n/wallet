@@ -1,1 +1,1 @@
-var mnemonic = "submit inherit flash hawk brave fence fury pelican recipe horse jeans useless";
+var mnemonic = "bench rain among urge surface upset ten craft turtle broom list lobster";

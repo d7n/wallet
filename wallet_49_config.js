@@ -1,1 +1,1 @@
-var mnemonic = "climb trust version clog fade clarify couple split lawn misery left dismiss";
+var mnemonic = "consider welcome way want diesel this silver believe december skill absent tent";

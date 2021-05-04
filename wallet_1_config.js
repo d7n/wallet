@@ -1,1 +1,1 @@
-var mnemonic = "little figure flip pelican begin focus hover judge diesel picnic stuff badge";
+var mnemonic = "spread inherit lake ship private waste weather assault lens runway whisper pistol";

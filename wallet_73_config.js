@@ -1,1 +1,1 @@
-var mnemonic = "claim blanket never record universe cake want dice cave sock aerobic blood";
+var mnemonic = "average galaxy holiday twice relax venture project wool lunch culture almost slide";

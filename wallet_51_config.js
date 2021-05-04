@@ -1,1 +1,1 @@
-var mnemonic = "balcony general east blade honey palm cruise define parade language fire arctic";
+var mnemonic = "ritual daring moment slow slight great type cactus toddler staff basket foil";

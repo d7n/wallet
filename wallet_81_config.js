@@ -1,1 +1,1 @@
-var mnemonic = "subway inspire badge kingdom bacon neutral nation park decline learn ridge cannon";
+var mnemonic = "glad leopard taste piano quality bottom burst wheel sing inflict victory coyote";

@@ -1,1 +1,1 @@
-var mnemonic = "know original helmet happy clown outside camp three when example warfare title";
+var mnemonic = "skin blade robot toilet crack trouble trouble load tuna intact dove oak";

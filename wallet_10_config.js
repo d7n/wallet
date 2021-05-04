@@ -1,1 +1,1 @@
-var mnemonic = "joke between cloud crisp device stairs sound analyst rule festival space edge";
+var mnemonic = "fuel diary there okay awkward birth humble wasp follow hurry trigger riot";

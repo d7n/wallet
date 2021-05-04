@@ -1,1 +1,1 @@
-var mnemonic = "range rather nephew gather keep wisdom march slot grief gate rapid squirrel";
+var mnemonic = "goddess tiger glass next banner apple seven clay soup topic mansion shine";

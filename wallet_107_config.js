@@ -1,1 +1,1 @@
-var mnemonic = "someone media gallery fetch blame umbrella gasp eight inform again museum guess";
+var mnemonic = "melody group fall runway rebuild improve lazy turn lion come attract machine";

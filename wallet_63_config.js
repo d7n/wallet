@@ -1,1 +1,1 @@
-var mnemonic = "notice cupboard eyebrow planet random space tongue strike convince once crash close";
+var mnemonic = "giant length border become middle host tribe snack absent ecology say desert";

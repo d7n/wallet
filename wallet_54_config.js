@@ -1,1 +1,1 @@
-var mnemonic = "glare bench village ethics ship pretty volume major eight prefer bless anxiety";
+var mnemonic = "range egg oil crater claim birth cupboard crumble response excess any sick";

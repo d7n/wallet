@@ -1,1 +1,1 @@
-var mnemonic = "steak promote modify tree tone start shine orchard inform attitude gasp reveal";
+var mnemonic = "social head until crumble rely spawn creek recall sample digital noise stable";

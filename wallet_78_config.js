@@ -1,1 +1,1 @@
-var mnemonic = "potato adjust boy garden change pretty possible train plug cigar lawn blast";
+var mnemonic = "soul kitten link ask exile yard admit pride shrug cliff notable glance";

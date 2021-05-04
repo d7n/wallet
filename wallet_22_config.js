@@ -1,1 +1,1 @@
-var mnemonic = "picnic lamp desk immense transfer ancient paper stand daughter venue history ribbon";
+var mnemonic = "road kid club train degree castle chaos version network keep boil sort";

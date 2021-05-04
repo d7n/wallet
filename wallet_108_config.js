@@ -1,1 +1,1 @@
-var mnemonic = "soon actress jeans relax blood strike major elite deer apple celery census";
+var mnemonic = "lemon metal funny opera network range hurt other raven track exercise bargain";
