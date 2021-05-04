@@ -1,1 +1,1 @@
-var mnemonic = "rapid tunnel repeat tennis stem pitch mansion entire insane shallow tortoise oil";
+var mnemonic = "snap space hard simple illegal april helmet vanish lend jungle student switch";

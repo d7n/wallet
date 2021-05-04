@@ -1,1 +1,1 @@
-var mnemonic = "twenty raccoon excuse merge body crowd glimpse renew any kidney riot faint";
+var mnemonic = "advice athlete recycle write song venture distance frequent accuse maze try slogan";

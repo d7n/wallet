@@ -1,1 +1,1 @@
-var mnemonic = "eagle little illegal spot height buddy few lumber nut again life very";
+var mnemonic = "room sweet decrease future arena faint rain control kick cave common bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "clip soccer trumpet service just box correct wood rural holiday symbol any";
+var mnemonic = "caution senior future virtual result assume pottery cloth blue arena grow antenna";

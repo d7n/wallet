@@ -1,1 +1,1 @@
-var mnemonic = "roof agree weird immense cable mistake catch nice pepper control office dinner";
+var mnemonic = "vicious alcohol jeans gold lawsuit okay around easy industry true cart mountain";

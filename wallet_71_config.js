@@ -1,1 +1,1 @@
-var mnemonic = "dilemma tomorrow owner hope record true fabric street attack chaos olive woman";
+var mnemonic = "any subject genuine ability photo antenna alter crew rice share donate brown";

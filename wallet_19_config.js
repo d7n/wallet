@@ -1,1 +1,1 @@
-var mnemonic = "enough museum profit debris almost guard brick outer hurry flock clutch legend";
+var mnemonic = "now angle mad already say lobster sock excess witness tube baby stove";

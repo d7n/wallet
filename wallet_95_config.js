@@ -1,1 +1,1 @@
-var mnemonic = "river advice high need pony initial must tonight ladder oyster ride strategy";
+var mnemonic = "electric practice coffee fire learn glass orange increase fix tone option gospel";

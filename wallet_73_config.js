@@ -1,1 +1,1 @@
-var mnemonic = "tumble keen life ramp force spray brand lawn type apart say nest";
+var mnemonic = "reward burst frost spoil paddle kangaroo ill crime sting jump sponsor pact";

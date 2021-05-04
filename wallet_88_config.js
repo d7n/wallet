@@ -1,1 +1,1 @@
-var mnemonic = "float option mask know grant sound fever top kite cabin erode supply";
+var mnemonic = "unusual angry judge barely buyer grief mutual grunt outside alpha mimic cement";

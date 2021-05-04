@@ -1,1 +1,1 @@
-var mnemonic = "couch hobby endless trip gadget patrol zoo exhaust cable amazing link air";
+var mnemonic = "fabric gap bird key glove chaos pride bubble item brand theory spoon";

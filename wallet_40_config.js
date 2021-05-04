@@ -1,1 +1,1 @@
-var mnemonic = "drip nasty panel hill clock planet subject lend female wrist snow category";
+var mnemonic = "that frame talk comfort opera awesome invite animal crew remind radar pitch";

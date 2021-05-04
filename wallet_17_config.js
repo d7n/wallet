@@ -1,1 +1,1 @@
-var mnemonic = "way gasp exile general syrup certain output jealous absorb dilemma wide power";
+var mnemonic = "oppose tape essay column loyal wash group tray umbrella unlock wool inch";

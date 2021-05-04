@@ -1,1 +1,1 @@
-var mnemonic = "phrase mixture rug embark build climb depth pitch dream cage ribbon smoke";
+var mnemonic = "nut stand february wave assault burden apple educate tank remove vocal neither";

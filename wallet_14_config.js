@@ -1,1 +1,1 @@
-var mnemonic = "noble genius bounce enroll window brain argue stairs rich bag valid exhaust";
+var mnemonic = "kite shoe sight live adult alert cheese monster crop bunker notable effort";

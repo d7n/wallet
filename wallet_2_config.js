@@ -1,1 +1,1 @@
-var mnemonic = "rocket dice typical height hurt kid time dirt february wasp rhythm security";
+var mnemonic = "various father camera simple casual uncover merit flame hybrid unlock foot north";

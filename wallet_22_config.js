@@ -1,1 +1,1 @@
-var mnemonic = "foster december wheat cream liar bone letter corn version flat venue report";
+var mnemonic = "myself absurd spare there skate assume window artefact smile high blush fatigue";

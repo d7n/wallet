@@ -1,1 +1,1 @@
-var mnemonic = "polar casual artefact wink hen busy stomach hybrid abandon outdoor image limit";
+var mnemonic = "you arrive fall frown mushroom scheme exercise love charge tent eight wink";

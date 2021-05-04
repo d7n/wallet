@@ -1,1 +1,1 @@
-var mnemonic = "lounge over acoustic gap lawn true wine theory over awake young milk";
+var mnemonic = "broom dizzy tunnel solar youth modify glide trophy collect sleep option lunch";

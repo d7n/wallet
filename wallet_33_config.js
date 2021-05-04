@@ -1,1 +1,1 @@
-var mnemonic = "almost trial defy connect economy market cave brave wonder upper pizza elbow";
+var mnemonic = "borrow first ceiling gap frown emerge wood elite evoke okay celery inside";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery flock drop fetch quick another coach make this confirm maple seven";
+var mnemonic = "museum dignity hill they divorce company home vibrant disorder mammal era mammal";

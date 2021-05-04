@@ -1,1 +1,1 @@
-var mnemonic = "ginger option grace grocery other hire naive earth girl oblige ship ball";
+var mnemonic = "pool slim uncover bone hungry deer surprise robot giraffe catalog way feel";

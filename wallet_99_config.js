@@ -1,1 +1,1 @@
-var mnemonic = "carry ring perfect drum soldier patient margin course weekend buffalo all doll";
+var mnemonic = "humor laundry reopen trial connect solar diesel spirit drill salute side lumber";

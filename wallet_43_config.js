@@ -1,1 +1,1 @@
-var mnemonic = "ivory distance pilot sad indoor lyrics fence cabin session hour type police";
+var mnemonic = "level emerge cheese gesture scatter rare wash average bench relax elbow subject";

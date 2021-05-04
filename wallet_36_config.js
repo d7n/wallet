@@ -1,1 +1,1 @@
-var mnemonic = "permit episode skin animal salt tennis camera candy wear curtain page ship";
+var mnemonic = "erosion they brush shy genius drastic dignity when rebuild able cricket moment";

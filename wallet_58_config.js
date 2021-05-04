@@ -1,1 +1,1 @@
-var mnemonic = "initial hungry athlete crazy husband birth right involve object meat girl old";
+var mnemonic = "input airport theme trumpet ankle hold popular bamboo divert vibrant perfect motion";

@@ -1,1 +1,1 @@
-var mnemonic = "pear puzzle position know horn air mobile broken tower barrel problem virtual";
+var mnemonic = "endless broken wink call forest pattern pave invest pulp box stock super";

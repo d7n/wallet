@@ -1,1 +1,1 @@
-var mnemonic = "swap extend annual sorry double leaf gym unique excuse another into city";
+var mnemonic = "wave bunker juice scheme predict donate patient dune pet month raven couch";

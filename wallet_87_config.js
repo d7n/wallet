@@ -1,1 +1,1 @@
-var mnemonic = "angle pony hint swallow august occur prize juice sponsor never adult oyster";
+var mnemonic = "abandon mammal place lunch winter minimum topple bean boy trust squirrel rug";

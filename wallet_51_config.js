@@ -1,1 +1,1 @@
-var mnemonic = "bleak wave tool enable stamp fox expand romance dry tiger vivid smooth";
+var mnemonic = "rival reveal palace blush gas miracle panel violin twice reveal mountain genuine";

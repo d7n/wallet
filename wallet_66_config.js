@@ -1,1 +1,1 @@
-var mnemonic = "indicate knee another wolf soap bulk weekend tissue rich crane grocery cheap";
+var mnemonic = "report enemy fruit core crime picture home wrap woman super fury few";

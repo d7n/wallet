@@ -1,1 +1,1 @@
-var mnemonic = "violin cart group doctor alone level east control misery tray caution picnic";
+var mnemonic = "property fame sick carbon current orbit forget mutual put example scheme light";

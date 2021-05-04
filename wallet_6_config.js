@@ -1,1 +1,1 @@
-var mnemonic = "decline knife hospital chef forget toast address donor twice mirror rebel subway";
+var mnemonic = "angle sponsor biology save firm leopard infant fox wagon violin genre attack";

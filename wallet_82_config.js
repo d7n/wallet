@@ -1,1 +1,1 @@
-var mnemonic = "melt best divert caution tooth awful lemon home eager dice design rifle";
+var mnemonic = "initial ticket filter waste fetch tag match camp quality hold expire urban";

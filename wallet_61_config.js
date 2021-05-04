@@ -1,1 +1,1 @@
-var mnemonic = "dash tail dynamic remove horse proud vacant window sudden open bag crazy";
+var mnemonic = "become humor blush embody smooth eager boost cycle off return manage urban";

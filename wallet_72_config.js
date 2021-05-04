@@ -1,1 +1,1 @@
-var mnemonic = "across real village match major trash undo fold steak leader various cost";
+var mnemonic = "squirrel guitar gallery chef found option quiz spike loyal melt fitness change";

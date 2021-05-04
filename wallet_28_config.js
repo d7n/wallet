@@ -1,1 +1,1 @@
-var mnemonic = "coin dune example valid attract wonder regret evil pear animal end today";
+var mnemonic = "course danger stove fire tribe coyote marble spoon creek renew remind fox";

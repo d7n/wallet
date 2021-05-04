@@ -1,1 +1,1 @@
-var mnemonic = "piece choice safe wash fiscal winner kick bicycle student buzz gold name";
+var mnemonic = "life skirt layer kite muffin sphere basic trust cheap dolphin shrug silly";

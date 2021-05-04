@@ -1,1 +1,1 @@
-var mnemonic = "crowd about update powder chimney surface invite argue aerobic dutch rabbit enrich";
+var mnemonic = "hip kit arrive rich hollow jazz pony science urge zebra deal risk";

@@ -1,1 +1,1 @@
-var mnemonic = "mass paper elevator balance cruise gasp champion alarm slogan rough august enforce";
+var mnemonic = "hair asthma fox salt spider evil raven wheel sad estate copy yellow";

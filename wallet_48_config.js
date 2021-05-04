@@ -1,1 +1,1 @@
-var mnemonic = "obvious mystery abstract citizen display together solar vivid picnic tuna service exit";
+var mnemonic = "coral remove achieve palm marriage first reform risk lend spirit between quick";

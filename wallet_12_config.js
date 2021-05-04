@@ -1,1 +1,1 @@
-var mnemonic = "energy female twin dog theme kick ranch funny claim despair fortune brown";
+var mnemonic = "afford dust magic tuition upon various upgrade devote nice observe hungry armor";

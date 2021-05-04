@@ -1,1 +1,1 @@
-var mnemonic = "foil patch learn around blush zero void more rabbit spin brown trophy";
+var mnemonic = "embody cash barrel east split require face robust dance result tattoo border";

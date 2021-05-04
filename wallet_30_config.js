@@ -1,1 +1,1 @@
-var mnemonic = "summer until egg sister goat permit improve glow fox loud someone enemy";
+var mnemonic = "record lesson high diet destroy off blanket park envelope inform buffalo produce";

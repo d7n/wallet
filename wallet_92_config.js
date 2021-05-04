@@ -1,1 +1,1 @@
-var mnemonic = "envelope toe future crane throw loyal airport rely thrive crane outer open";
+var mnemonic = "must learn flame nephew police scissors another tank jacket reopen evidence senior";

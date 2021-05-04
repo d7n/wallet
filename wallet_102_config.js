@@ -1,1 +1,1 @@
-var mnemonic = "dress valley consider three notice wonder design traffic deliver fiction grass shove";
+var mnemonic = "book world victory rubber first search neither shiver element space man tennis";

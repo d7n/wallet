@@ -1,1 +1,1 @@
-var mnemonic = "copy history fury elder shrug dream galaxy magic cargo merge catalog energy";
+var mnemonic = "little image accuse close inflict alcohol sausage diet leisure random marine rice";

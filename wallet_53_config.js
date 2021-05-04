@@ -1,1 +1,1 @@
-var mnemonic = "hospital say nominee argue clock enrich squeeze same visit myth head gate";
+var mnemonic = "wheat direct seed address large page kitten level hope sniff jeans bonus";

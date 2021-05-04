@@ -1,1 +1,1 @@
-var mnemonic = "kind wheat physical smart join carpet foster cloth valve meat timber differ";
+var mnemonic = "only judge few rocket glad above camp describe fortune fox board gather";

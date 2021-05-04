@@ -1,1 +1,1 @@
-var mnemonic = "urge poem glimpse draft wrong confirm plastic arctic spell appear property any";
+var mnemonic = "knife brand harsh endorse margin stairs cabbage analyst winter stairs trend actual";

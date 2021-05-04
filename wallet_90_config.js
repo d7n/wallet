@@ -1,1 +1,1 @@
-var mnemonic = "mystery happy act castle letter sponsor exile box hollow enable rhythm eager";
+var mnemonic = "scissors expose salute drastic language artefact token eternal cherry gauge true this";

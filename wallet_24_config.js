@@ -1,1 +1,1 @@
-var mnemonic = "bird lizard park venue lunar regular desk exact wealth region will buyer";
+var mnemonic = "when live spring update piano sail feel youth orchard high want dry";

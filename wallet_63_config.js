@@ -1,1 +1,1 @@
-var mnemonic = "kitten six enough focus merge small creek maple erosion coil ranch cattle";
+var mnemonic = "deliver excess episode ankle corn claim turn sword bless public salmon cave";

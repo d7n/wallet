@@ -1,1 +1,1 @@
-var mnemonic = "situate bean truly mother page amazing gas dutch cycle fat wink office";
+var mnemonic = "way poem force govern broken museum baby have hip good giggle strike";

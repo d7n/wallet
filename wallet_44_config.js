@@ -1,1 +1,1 @@
-var mnemonic = "relief attract buyer swap cereal only vault produce turn shield amused seat";
+var mnemonic = "speed appear pioneer knock kiwi paddle often ugly report inch area volume";

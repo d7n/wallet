@@ -1,1 +1,1 @@
-var mnemonic = "school capable brick despair position unfold settle art physical assume basic kitchen";
+var mnemonic = "blossom ball actress simple couch mind tooth exercise ready excite strong again";

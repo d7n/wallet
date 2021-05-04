@@ -1,1 +1,1 @@
-var mnemonic = "matrix tuna illegal useless during chest noble pool distance copper grab survey";
+var mnemonic = "crack jungle cigar supply goose axis shallow swap select ceiling circle radio";

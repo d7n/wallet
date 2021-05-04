@@ -1,1 +1,1 @@
-var mnemonic = "message stool warfare grain earn ahead bomb disorder prepare outer rotate toy";
+var mnemonic = "frost island penalty forest vicious pave canal option bullet movie can swing";

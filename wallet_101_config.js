@@ -1,1 +1,1 @@
-var mnemonic = "drastic melody blade draft voyage draft level huge sketch wise immune census";
+var mnemonic = "shoot bitter lab fringe motion tissue stairs wing cost debate dutch orange";

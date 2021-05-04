@@ -1,1 +1,1 @@
-var mnemonic = "vanish skull insane love student prepare neglect vault remain demise minute surge";
+var mnemonic = "cash consider bar install course aisle path item maze volcano rebuild voice";

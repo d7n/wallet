@@ -1,1 +1,1 @@
-var mnemonic = "jacket apart canal bargain install glass evolve cricket garage century dinner juice";
+var mnemonic = "dignity midnight west man shed situate earn fluid flee ring strategy avocado";

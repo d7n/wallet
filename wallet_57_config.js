@@ -1,1 +1,1 @@
-var mnemonic = "wire bounce field remind coin guess noble mimic wedding girl proud arm";
+var mnemonic = "satisfy key lottery divert accuse civil base genius amused moral control aware";

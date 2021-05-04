@@ -1,1 +1,1 @@
-var mnemonic = "resist shock squirrel humor industry educate subject category soft install bar awkward";
+var mnemonic = "interest visual sample fatigue hire method large age theory roof obey jar";

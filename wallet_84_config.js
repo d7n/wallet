@@ -1,1 +1,1 @@
-var mnemonic = "tail thought record unknown chest seven mean coconut pair promote mystery tribe";
+var mnemonic = "rocket engage stone hair usage soup sense nuclear feel repair fog warrior";

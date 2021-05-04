@@ -1,1 +1,1 @@
-var mnemonic = "across witness calm pluck slight poem sport fitness noodle visual update merry";
+var mnemonic = "engine endorse seek health spoon mechanic sponsor net art speak cake approve";

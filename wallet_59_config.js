@@ -1,1 +1,1 @@
-var mnemonic = "load minute crouch donkey point repeat bid deputy balance cabin pull bullet";
+var mnemonic = "artefact foot involve ethics violin ugly setup silly when edit smart pill";

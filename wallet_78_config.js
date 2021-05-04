@@ -1,1 +1,1 @@
-var mnemonic = "slogan amateur picture bomb split rabbit tortoise stem duck pretty pet royal";
+var mnemonic = "world lens palace minute basic awkward fame cute light happy autumn blind";

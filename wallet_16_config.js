@@ -1,1 +1,1 @@
-var mnemonic = "follow purse huge fuel share unknown region train harvest hundred nest risk";
+var mnemonic = "violin truly purpose february gap jeans expect jazz deal term primary strategy";

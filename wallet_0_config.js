@@ -1,1 +1,1 @@
-var mnemonic = "cube submit erupt scrap artefact wall labor month filter frost pear pill";
+var mnemonic = "language there tiger language toy bomb rail whisper agree ribbon invite defense";

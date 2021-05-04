@@ -1,1 +1,1 @@
-var mnemonic = "before maple uncle identify spice snow dial abstract pepper body divide sleep";
+var mnemonic = "grape outdoor tilt alter chef kick lamp receive deliver gesture tobacco require";

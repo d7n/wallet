@@ -1,1 +1,1 @@
-var mnemonic = "hood industry foil ordinary time hundred absent panther gossip impact develop mansion";
+var mnemonic = "rigid insect harvest fit ensure boy enforce moment era toddler ticket salt";

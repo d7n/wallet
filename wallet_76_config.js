@@ -1,1 +1,1 @@
-var mnemonic = "vivid useless level milk cannon file account advance soup panel regret certain";
+var mnemonic = "immune hub stairs fragile spoon screen pretty impose pulse insane glad metal";

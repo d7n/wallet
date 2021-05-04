@@ -1,1 +1,1 @@
-var mnemonic = "lawn address aerobic dust energy bonus urban forward race orange issue renew";
+var mnemonic = "system blast bunker all shrimp pink blush diesel limit melt impose peace";

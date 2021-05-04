@@ -1,1 +1,1 @@
-var mnemonic = "oblige lawn alone economy matter wheel burger retire used mansion cup pilot";
+var mnemonic = "resemble barrel rotate hockey pulp rookie vintage leopard prosper give report nuclear";

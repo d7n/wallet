@@ -1,1 +1,1 @@
-var mnemonic = "attend ticket give subject list bar inch silver thumb divorce jewel wash";
+var mnemonic = "foam miss velvet guess fade push orphan silk divert bone identify army";

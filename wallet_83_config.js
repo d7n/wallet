@@ -1,1 +1,1 @@
-var mnemonic = "lift paper service appear struggle obey butter debris tide praise divert volume";
+var mnemonic = "tenant hole claw dash mixed person gym income oil update neck knee";

@@ -1,1 +1,1 @@
-var mnemonic = "any parade bulb make skate gesture panel screen pilot depth plastic island";
+var mnemonic = "sea coconut fine muffin mystery nominee nice exile monster club hip over";

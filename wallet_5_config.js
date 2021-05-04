@@ -1,1 +1,1 @@
-var mnemonic = "august young panther inner industry march juice system whale donate invite repeat";
+var mnemonic = "old state turn gadget leaf ginger evolve radio skin bid any walnut";

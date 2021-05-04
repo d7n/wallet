@@ -1,1 +1,1 @@
-var mnemonic = "kind small cricket venture history donate ability wing rose detail attack island";
+var mnemonic = "program film thank slow category beef umbrella usage logic thing domain survey";

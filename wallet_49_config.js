@@ -1,1 +1,1 @@
-var mnemonic = "else dilemma sample furnace erase dismiss private either kidney remember mad idle";
+var mnemonic = "once galaxy culture stove satisfy young acoustic strong fantasy salon expose depth";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum dry banana relax humor first ride party develop depart portion powder";
+var mnemonic = "water link throw siren drift nice motor wide vacuum angry source dinosaur";

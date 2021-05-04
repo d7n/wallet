@@ -1,1 +1,1 @@
-var mnemonic = "birth salmon someone cry clog century under sea glad chapter endless motion";
+var mnemonic = "bonus movie derive neither neutral jewel ivory lake diagram cheese winter idle";

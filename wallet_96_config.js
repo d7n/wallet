@@ -1,1 +1,1 @@
-var mnemonic = "spider soon taste icon quiz dirt nose enforce glimpse age matrix ankle";
+var mnemonic = "vicious gasp lock frost plate risk employ spread song riot empty develop";

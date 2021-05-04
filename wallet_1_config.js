@@ -1,1 +1,1 @@
-var mnemonic = "swarm hero happy misery gown fortune discover onion next horror budget grit";
+var mnemonic = "title stairs stairs toilet pistol rough brother filter deer ten prefer ribbon";

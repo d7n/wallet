@@ -1,1 +1,1 @@
-var mnemonic = "crowd cry faculty feed sing anxiety churn elite segment amazing warfare lizard";
+var mnemonic = "inspire shoe despair snap lyrics frog innocent puzzle certain pupil crouch distance";

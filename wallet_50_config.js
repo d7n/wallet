@@ -1,1 +1,1 @@
-var mnemonic = "witness deliver swear frozen source oppose brother unknown illness intact certain repeat";
+var mnemonic = "reform remain pass holiday atom bracket capital surface favorite casino attitude birth";

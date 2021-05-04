@@ -1,1 +1,1 @@
-var mnemonic = "motor mountain web estate such demise next laundry extra admit outdoor trial";
+var mnemonic = "label sunset social ghost salute such climb almost fish hold moon length";

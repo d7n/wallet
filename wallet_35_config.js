@@ -1,1 +1,1 @@
-var mnemonic = "obvious primary six toilet repair state evil donkey pioneer pioneer unaware park";
+var mnemonic = "organ mirror lucky table defense spy giraffe vendor slab grunt peanut someone";

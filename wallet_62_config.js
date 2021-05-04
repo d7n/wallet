@@ -1,1 +1,1 @@
-var mnemonic = "truly drop daughter december patch long spirit dentist purity genre view fury";
+var mnemonic = "write wrist same design clarify match cloud spin bracket since acoustic cement";

@@ -1,1 +1,1 @@
-var mnemonic = "duck joke open dutch riot strong shell firm shadow require junk horror";
+var mnemonic = "opinion roast filter lab orient market volume add creek wisdom cluster staff";

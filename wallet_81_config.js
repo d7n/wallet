@@ -1,1 +1,1 @@
-var mnemonic = "output usage deposit acquire tattoo spare cage axis lock traffic choose cargo";
+var mnemonic = "produce canal unit roast drink hospital gaze duty project light rich midnight";
