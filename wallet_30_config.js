@@ -1,1 +1,1 @@
-var mnemonic = "seed tongue melt stage three muffin sort rapid holiday hospital equal addict";
+var mnemonic = "own welcome reopen spend radar pet energy picnic exchange keep festival clown";

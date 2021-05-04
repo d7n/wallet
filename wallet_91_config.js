@@ -1,1 +1,1 @@
-var mnemonic = "barely ensure patrol crack road ceiling hollow hunt yard author length trash";
+var mnemonic = "jaguar hope forget civil dress access file kind faith antique rather borrow";

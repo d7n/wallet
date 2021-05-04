@@ -1,1 +1,1 @@
-var mnemonic = "gloom clap desert view system hammer huge cement search bind employ rib";
+var mnemonic = "scissors verb interest shoulder more vessel select life damp penalty hero foam";

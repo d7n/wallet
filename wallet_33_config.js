@@ -1,1 +1,1 @@
-var mnemonic = "suggest van piano cream entry torch exist general they black amateur scene";
+var mnemonic = "happy swim wave page october dentist object bind belt horror else proof";

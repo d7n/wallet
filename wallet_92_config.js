@@ -1,1 +1,1 @@
-var mnemonic = "dolphin spin punch anxiety receive flame tide long figure loop fringe arch";
+var mnemonic = "confirm consider rude blast grape inform lend problem output bonus inject certain";

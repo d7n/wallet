@@ -1,1 +1,1 @@
-var mnemonic = "feed bright glory copy advice wheat spell mango guitar over brief album";
+var mnemonic = "toast success athlete husband symptom need time bulb doll bomb carbon piano";

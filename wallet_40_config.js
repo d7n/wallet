@@ -1,1 +1,1 @@
-var mnemonic = "stand coyote gate zoo exile steel name lyrics small fantasy tail female";
+var mnemonic = "beyond label pattern race idle toward dumb cover clip usage air able";

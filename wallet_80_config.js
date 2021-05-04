@@ -1,1 +1,1 @@
-var mnemonic = "venture office diary shift organ crack increase include stand safe style inmate";
+var mnemonic = "relief thing february youth blind photo gaze device ghost cage chronic ribbon";

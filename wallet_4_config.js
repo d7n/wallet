@@ -1,1 +1,1 @@
-var mnemonic = "frozen category rail setup misery science enjoy voyage spray upper romance vault";
+var mnemonic = "circle rose federal rescue charge picture nothing recycle visual donkey plunge cushion";

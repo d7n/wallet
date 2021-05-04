@@ -1,1 +1,1 @@
-var mnemonic = "purity when door second orchard scout pen fruit museum eagle soon grab";
+var mnemonic = "option convince rapid route net sun confirm coffee around paddle industry float";

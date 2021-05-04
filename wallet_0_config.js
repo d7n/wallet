@@ -1,1 +1,1 @@
-var mnemonic = "razor forest source monkey extend bleak lab inherit crew labor left clay";
+var mnemonic = "bulb debris wasp flash scrub champion delay comfort toilet town wrestle kid";

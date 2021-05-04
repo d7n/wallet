@@ -1,1 +1,1 @@
-var mnemonic = "item employ cute laundry use cliff olympic position rib grocery teach force";
+var mnemonic = "barrel afford legend nice plug below silent blossom deputy barely method spray";

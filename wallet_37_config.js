@@ -1,1 +1,1 @@
-var mnemonic = "mechanic expose upon usage glance document jelly inch december total tackle food";
+var mnemonic = "noodle patch quality slide bean sight left kind spoil current hole interest";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce stock omit vague double term twelve lift iron time reason because";
+var mnemonic = "random analyst boy hint where door bless trade home awesome vocal brisk";

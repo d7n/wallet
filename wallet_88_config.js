@@ -1,1 +1,1 @@
-var mnemonic = "century artist bench edit behind coral retire blast armed patrol flavor mail";
+var mnemonic = "across reveal truth sick member world logic radar train shell wheel shop";

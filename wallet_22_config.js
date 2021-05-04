@@ -1,1 +1,1 @@
-var mnemonic = "dolphin foster town column eagle exist post bridge convince future border provide";
+var mnemonic = "execute yellow dad avocado magic estate cabbage toward basic pumpkin later arena";

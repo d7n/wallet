@@ -1,1 +1,1 @@
-var mnemonic = "around anxiety whip drill maximum vital great work visit science question add";
+var mnemonic = "false home uncover badge grid proof reopen monitor action cabbage armor crumble";

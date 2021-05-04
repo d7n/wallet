@@ -1,1 +1,1 @@
-var mnemonic = "design draw fatigue attract indoor survey pottery track cinnamon scene hawk lawn";
+var mnemonic = "hurt menu endless student innocent between pink nature suffer garbage ramp consider";

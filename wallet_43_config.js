@@ -1,1 +1,1 @@
-var mnemonic = "biology tape vessel matrix pledge marble match brother neither rice social burst";
+var mnemonic = "correct dream sell mail hero vessel team matter ball organ bulb meadow";

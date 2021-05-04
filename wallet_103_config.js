@@ -1,1 +1,1 @@
-var mnemonic = "already harsh rate pear public high damp wasp fire artwork wash buddy";
+var mnemonic = "announce error nose stool oven trick tag economy gorilla keen nuclear interest";

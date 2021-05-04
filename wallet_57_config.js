@@ -1,1 +1,1 @@
-var mnemonic = "mail pepper hold company swarm fork tilt noodle pistol want rival any";
+var mnemonic = "tenant travel bomb hollow aerobic course waste cage trim shiver melody pupil";

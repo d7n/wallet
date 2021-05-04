@@ -1,1 +1,1 @@
-var mnemonic = "fringe tiger equip soap require virus magic festival voyage struggle sense code";
+var mnemonic = "regret celery diagram inside baby paper measure material mimic enrich brain syrup";

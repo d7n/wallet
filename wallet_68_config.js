@@ -1,1 +1,1 @@
-var mnemonic = "depart path cash guitar bench scene flag real oppose excess tube initial";
+var mnemonic = "then exit slice magnet physical thought pelican coyote inform sentence clap copy";

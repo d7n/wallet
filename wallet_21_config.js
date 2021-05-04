@@ -1,1 +1,1 @@
-var mnemonic = "then aim empty peasant combine menu maple orbit tray tail gauge news";
+var mnemonic = "squirrel trial milk allow tomato sponsor together boost lumber behave first inspire";

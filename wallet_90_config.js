@@ -1,1 +1,1 @@
-var mnemonic = "common cloth athlete wrist twenty load lab normal enemy orient emotion acquire";
+var mnemonic = "adapt absurd hope sleep glue flame shell alien move day bag sock";

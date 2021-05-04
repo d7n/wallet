@@ -1,1 +1,1 @@
-var mnemonic = "notice same example sniff topic coin jealous kid rack history pair salon";
+var mnemonic = "add dose pilot dumb pelican calm kiwi depth credit tone recycle limb";

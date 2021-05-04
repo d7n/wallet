@@ -1,1 +1,1 @@
-var mnemonic = "bid engage sight ramp option arctic hair degree liberty syrup chalk govern";
+var mnemonic = "circle museum envelope aisle hole shed radio ribbon tape token twist audit";

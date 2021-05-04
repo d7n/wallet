@@ -1,1 +1,1 @@
-var mnemonic = "social taxi square miracle secret obtain section access stock atom exercise eye";
+var mnemonic = "gain term rookie blur undo amused marriage sorry abandon rule blade oppose";

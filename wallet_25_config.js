@@ -1,1 +1,1 @@
-var mnemonic = "believe weather umbrella unhappy stamp duck welcome season snake clean lens stove";
+var mnemonic = "bargain inherit demand rail gate wedding below debris much eye vivid potato";

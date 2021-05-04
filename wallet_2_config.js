@@ -1,1 +1,1 @@
-var mnemonic = "across song zone absent surface income veteran lady mandate good exotic evidence";
+var mnemonic = "strategy smile culture napkin donate become sunny mango mistake noise hockey click";

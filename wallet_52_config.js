@@ -1,1 +1,1 @@
-var mnemonic = "tell labor beyond family glance organ holiday draft start uniform please nose";
+var mnemonic = "design play amateur wine income unfair snap behave velvet dutch pact excess";

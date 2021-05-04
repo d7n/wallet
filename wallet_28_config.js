@@ -1,1 +1,1 @@
-var mnemonic = "oppose loop april kiwi night obtain level razor shift income solid coyote";
+var mnemonic = "trim energy run unusual rebel diagram tree deal blade dumb wire battle";

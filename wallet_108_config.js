@@ -1,1 +1,1 @@
-var mnemonic = "south minor ritual tone van curtain drink mountain opinion blouse noble tomorrow";
+var mnemonic = "swallow bullet hundred noodle coral snake between identify clutch gap cat sheriff";

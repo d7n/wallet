@@ -1,1 +1,1 @@
-var mnemonic = "excite stem era era stairs neck donate item library feel festival flight";
+var mnemonic = "book select kit online hurdle craft minute warfare win strike cash crush";

@@ -1,1 +1,1 @@
-var mnemonic = "grow priority awesome drastic amount square opinion judge brush gate sudden fine";
+var mnemonic = "caught seminar theory hope mammal govern demise dizzy step secret butter arrive";

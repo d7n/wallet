@@ -1,1 +1,1 @@
-var mnemonic = "card empower wing supreme spin elite feature sad pluck front kick kiwi";
+var mnemonic = "disorder risk dinner predict entire furnace decorate general clock unaware fish neither";

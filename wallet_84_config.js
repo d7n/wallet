@@ -1,1 +1,1 @@
-var mnemonic = "infant jewel sphere enter finish adjust lumber scale april bottom main pact";
+var mnemonic = "celery fragile animal crane saddle like weird sad swift record genius hub";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon auction loop add shock maximum odor glue hybrid humble elevator layer";
+var mnemonic = "bottom fit marine sauce mobile wing era train below casual staff bird";

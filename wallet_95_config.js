@@ -1,1 +1,1 @@
-var mnemonic = "public trap ride next quality old high sound below enter upgrade nuclear";
+var mnemonic = "kite ladder dirt romance breeze earth table remove practice source balcony cloth";

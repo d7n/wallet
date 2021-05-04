@@ -1,1 +1,1 @@
-var mnemonic = "job diesel furnace timber twenty mango similar parrot owner dirt various cat";
+var mnemonic = "pulse play cupboard tragic polar vacant jealous used brave ignore seek fitness";

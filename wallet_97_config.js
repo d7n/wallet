@@ -1,1 +1,1 @@
-var mnemonic = "club scene acid traffic entire sea finger inherit agent tomorrow trigger boil";
+var mnemonic = "grain fox carry master flock seminar syrup lunar super wrong claim hundred";

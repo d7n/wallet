@@ -1,1 +1,1 @@
-var mnemonic = "real elevator renew ill genre pistol talent mixture parade strike process avocado";
+var mnemonic = "gold seed way point indoor various arrange subject surface lazy finish mirror";

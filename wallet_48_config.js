@@ -1,1 +1,1 @@
-var mnemonic = "parrot choose advice cake enroll nuclear trial raccoon expand fresh innocent meadow";
+var mnemonic = "butter world require race alien swamp protect rebuild light hair into excite";

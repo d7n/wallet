@@ -1,1 +1,1 @@
-var mnemonic = "useful question swift shove make section find cycle clock allow dish woman";
+var mnemonic = "effort smoke pen annual girl burger guitar much dolphin moon rescue finger";

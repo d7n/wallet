@@ -1,1 +1,1 @@
-var mnemonic = "impose general ignore bring chicken one toy spoil truly recall endorse measure";
+var mnemonic = "rural humor scorpion kite put coyote spy capital income interest custom peasant";

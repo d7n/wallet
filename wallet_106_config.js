@@ -1,1 +1,1 @@
-var mnemonic = "emotion sustain spare use street video cup hint car tip pig chronic";
+var mnemonic = "fork gate sun upgrade rocket radar siren ladder pond letter solution album";

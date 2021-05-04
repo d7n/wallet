@@ -1,1 +1,1 @@
-var mnemonic = "empower style fresh flame nasty donate melody number brother movie valley tennis";
+var mnemonic = "toddler spice jacket hungry dolphin army gasp hint unable fiber play slide";

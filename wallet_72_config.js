@@ -1,1 +1,1 @@
-var mnemonic = "wood tank ladder mule only page brass topple nature song balcony purity";
+var mnemonic = "transfer foster warfare liberty defy chat spoon peasant stock act catch edge";

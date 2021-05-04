@@ -1,1 +1,1 @@
-var mnemonic = "dish lunch cherry floor daring educate first ensure sign number wet extend";
+var mnemonic = "number soccer polar camp attack come catch entire donate pulse then seven";

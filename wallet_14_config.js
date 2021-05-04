@@ -1,1 +1,1 @@
-var mnemonic = "find insect question nerve sail jacket become affair space resemble evil maple";
+var mnemonic = "strike mercy organ grid shop slight rich dress clarify slush skull reunion";

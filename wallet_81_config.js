@@ -1,1 +1,1 @@
-var mnemonic = "parrot girl yard eager thank mobile blade cupboard laundry myself switch bid";
+var mnemonic = "galaxy daring give ginger swamp behind firm vapor cotton jaguar claim lecture";

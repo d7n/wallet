@@ -1,1 +1,1 @@
-var mnemonic = "pave usage document wasp observe lesson hidden judge retire antenna cereal half";
+var mnemonic = "jealous nose custom annual short family blade account off beef resource decade";

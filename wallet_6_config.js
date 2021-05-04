@@ -1,1 +1,1 @@
-var mnemonic = "diamond pride slice inside earn rain nose fine label roast silver photo";
+var mnemonic = "chuckle economy journey romance liquid unlock talk reflect child huge despair dad";

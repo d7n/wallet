@@ -1,1 +1,1 @@
-var mnemonic = "fade stuff beyond body pause relax dizzy fever grid pupil father judge";
+var mnemonic = "lift inspire iron scrub decrease beauty duty side coach virus palace vacant";

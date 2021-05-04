@@ -1,1 +1,1 @@
-var mnemonic = "nature hard tuition fat waste twin document mind seat aerobic derive immense";
+var mnemonic = "profit blind claw fantasy remove spoon remind author huge toddler tiger input";

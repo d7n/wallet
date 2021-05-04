@@ -1,1 +1,1 @@
-var mnemonic = "announce country walk scrub post rude drastic shaft memory upper ill humor";
+var mnemonic = "electric enlist bundle amazing orange nerve top dune favorite evolve fatal bronze";

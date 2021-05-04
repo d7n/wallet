@@ -1,1 +1,1 @@
-var mnemonic = "sleep extra delay floor author develop awkward slim banana mimic absorb family";
+var mnemonic = "bomb sick april game syrup electric come pig photo start dignity injury";

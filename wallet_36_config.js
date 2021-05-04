@@ -1,1 +1,1 @@
-var mnemonic = "soup between diagram wolf silver width start chronic blur lady nurse cruise";
+var mnemonic = "resemble rare domain tiger sad reopen buyer citizen purpose delay cricket eternal";

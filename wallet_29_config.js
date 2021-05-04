@@ -1,1 +1,1 @@
-var mnemonic = "inmate question myth winner word sell fluid apart say pulp fee mention";
+var mnemonic = "only update sick odor infant exclude flame fresh trip bright baby season";

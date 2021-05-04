@@ -1,1 +1,1 @@
-var mnemonic = "gasp laugh fold vintage song grape tail path bomb anxiety end crew";
+var mnemonic = "ticket element egg client life snack outer suffer good talk rookie hover";

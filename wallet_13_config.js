@@ -1,1 +1,1 @@
-var mnemonic = "grow coach aunt tennis tornado card goat portion reflect page kingdom nuclear";
+var mnemonic = "total isolate twist nasty glance tomato minute receive afford remove deny leave";

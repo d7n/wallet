@@ -1,1 +1,1 @@
-var mnemonic = "long anxiety butter pull auto rate age comfort nest sell flock cherry";
+var mnemonic = "horn ancient meat nothing burger toy art merit civil century net current";

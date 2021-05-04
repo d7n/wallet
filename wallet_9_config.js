@@ -1,1 +1,1 @@
-var mnemonic = "dizzy wage medal toss jewel response photo comfort skate swarm bitter vibrant";
+var mnemonic = "window squirrel wonder night fuel assault suspect powder cake patrol middle mercy";

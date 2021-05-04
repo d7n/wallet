@@ -1,1 +1,1 @@
-var mnemonic = "pill bike seed define chronic ugly among legal icon sweet mad movie";
+var mnemonic = "gospel option render act color naive hair cat virtual coil economy movie";

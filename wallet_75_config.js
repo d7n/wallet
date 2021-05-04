@@ -1,1 +1,1 @@
-var mnemonic = "photo theme rocket shaft ensure sibling hero tomorrow dwarf memory bullet floor";
+var mnemonic = "diagram frown match rude melody ahead derive cheap chalk end glory crew";

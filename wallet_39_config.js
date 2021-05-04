@@ -1,1 +1,1 @@
-var mnemonic = "among tired parrot blossom glass elevator eye squirrel pulse runway cargo issue";
+var mnemonic = "grain sign smart accident trash apart curve charge cabin place have sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "dish solid cliff about joy broom stone busy maze second cattle fiber";
+var mnemonic = "galaxy unit busy frozen elegant wide antique tattoo life race choice seek";

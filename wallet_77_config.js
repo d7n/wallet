@@ -1,1 +1,1 @@
-var mnemonic = "vibrant anxiety burden patch museum cage odor fan squeeze garage wait vintage";
+var mnemonic = "shell lift force version solve artefact obtain suspect cart awake exact wish";

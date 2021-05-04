@@ -1,1 +1,1 @@
-var mnemonic = "mad gym combine original okay assist laptop sibling agree duty card obtain";
+var mnemonic = "asset improve simple twenty glance door sad perfect outside receive salt guilt";

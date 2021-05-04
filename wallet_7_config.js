@@ -1,1 +1,1 @@
-var mnemonic = "demand never hour cupboard borrow weather palace million tackle onion tobacco spike";
+var mnemonic = "leader ugly orphan stock chef intact diesel neutral once permit rude burst";

@@ -1,1 +1,1 @@
-var mnemonic = "luxury erupt eager trial review task round gauge cool puzzle you setup";
+var mnemonic = "gym blush next unusual fortune alarm maple pig lucky furnace reflect process";

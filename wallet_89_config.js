@@ -1,1 +1,1 @@
-var mnemonic = "topple picnic left square cheese diagram zebra spot worth smooth problem satisfy";
+var mnemonic = "cable almost rent make survey second potato balcony thank diagram mass fee";

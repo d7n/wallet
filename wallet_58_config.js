@@ -1,1 +1,1 @@
-var mnemonic = "hello later team cable basket unusual nephew diagram tail mobile ride bone";
+var mnemonic = "empty know aspect wine mixed wear pull goat prosper pink wife retire";

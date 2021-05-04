@@ -1,1 +1,1 @@
-var mnemonic = "liar mammal fragile fruit sting swift reward check craft gospel night luggage";
+var mnemonic = "seed claw bring opera diet bridge glove mountain globe cruel tornado dentist";

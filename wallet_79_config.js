@@ -1,1 +1,1 @@
-var mnemonic = "visit melt rubber fetch divorce grab wood ozone sound vapor avocado fragile";
+var mnemonic = "helmet lizard gauge know audit spider room tree inject offer kite voice";

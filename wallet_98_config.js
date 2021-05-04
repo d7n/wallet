@@ -1,1 +1,1 @@
-var mnemonic = "drastic speak excuse pumpkin pluck exile sea glove light roast beef police";
+var mnemonic = "easy melt penalty shoulder toe core cross oyster mesh advice tree left";

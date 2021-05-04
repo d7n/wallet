@@ -1,1 +1,1 @@
-var mnemonic = "item evoke scout mirror reason squirrel era found involve hollow smile aspect";
+var mnemonic = "whisper pyramid alone select color gentle tobacco beauty file blush frequent record";

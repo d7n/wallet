@@ -1,1 +1,1 @@
-var mnemonic = "bench transfer match term rebel green infant under guess inquiry flush large";
+var mnemonic = "girl palm crawl update edit neglect street say random almost ankle until";

@@ -1,1 +1,1 @@
-var mnemonic = "exhaust settle fun tuna cattle drip current erupt myself flock can potato";
+var mnemonic = "joy buyer high banana art add lawn once oppose property parent garment";

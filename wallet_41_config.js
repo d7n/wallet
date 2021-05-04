@@ -1,1 +1,1 @@
-var mnemonic = "expire silly put magnet valid brick candy artwork visual replace hill disorder";
+var mnemonic = "nuclear escape hawk core gold leaf silk strong brave swim suit major";

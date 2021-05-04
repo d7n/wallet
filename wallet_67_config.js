@@ -1,1 +1,1 @@
-var mnemonic = "unusual enable curtain festival teach grass purchase blind hamster speed symptom include";
+var mnemonic = "figure surprise cupboard math survey drum athlete pioneer album alcohol silver guilt";

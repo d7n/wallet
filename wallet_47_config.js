@@ -1,1 +1,1 @@
-var mnemonic = "exercise actress name often month crazy rich truth abstract unhappy you among";
+var mnemonic = "rice trigger nature collect wing lake catch equal path success stairs canyon";

@@ -1,1 +1,1 @@
-var mnemonic = "solid song biology winter federal play forward polar lecture any gravity paddle";
+var mnemonic = "stick allow noble tail salt joy huge card term tag finger marble";

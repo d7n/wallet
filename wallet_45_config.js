@@ -1,1 +1,1 @@
-var mnemonic = "this text glad nerve fog own quality few perfect wrap renew exchange";
+var mnemonic = "exhaust quote blossom modify liar siege swamp poverty ensure staff fame neutral";

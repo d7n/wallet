@@ -1,1 +1,1 @@
-var mnemonic = "raise matrix eternal rural artist client auto circle clerk cry section adjust";
+var mnemonic = "crime steel bronze click detail retreat section title funny just syrup involve";

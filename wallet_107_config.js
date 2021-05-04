@@ -1,1 +1,1 @@
-var mnemonic = "during rapid odor better credit demand aware rack glove party invest logic";
+var mnemonic = "miracle resist verb primary argue cereal task enable they canal visa street";

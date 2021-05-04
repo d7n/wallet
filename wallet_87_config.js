@@ -1,1 +1,1 @@
-var mnemonic = "critic person barely burger flock fall blur lamp merge woman ostrich call";
+var mnemonic = "echo scrub sweet fame supreme okay cousin option system job soft brand";

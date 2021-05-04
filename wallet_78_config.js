@@ -1,1 +1,1 @@
-var mnemonic = "hero fade brain better power dish silver defy eager video eternal item";
+var mnemonic = "caught swim oil helmet author media repeat split ticket disorder kind nothing";
