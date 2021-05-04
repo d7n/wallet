@@ -1,1 +1,1 @@
-var mnemonic = "stumble kick build autumn liquid work stable bird issue news audit digital";
+var mnemonic = "proof equal hip lazy rigid transfer faculty resemble chair miracle title galaxy";

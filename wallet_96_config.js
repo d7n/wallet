@@ -1,1 +1,1 @@
-var mnemonic = "valve best satoshi decline track donor crack apart evolve tribe regular enable";
+var mnemonic = "select avoid whale resource disease crawl habit flee tonight ship bonus swarm";

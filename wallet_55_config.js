@@ -1,1 +1,1 @@
-var mnemonic = "name nominee pipe acoustic blame monster meat access jeans humor ketchup enrich";
+var mnemonic = "zone about solar ask strike purpose broccoli month print paddle amount stable";

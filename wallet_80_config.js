@@ -1,1 +1,1 @@
-var mnemonic = "head dance stumble gauge offer wrap planet paper bid observe goddess kid";
+var mnemonic = "window hazard vendor about settle system suit client lottery puppy release draft";

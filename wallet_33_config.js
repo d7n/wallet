@@ -1,1 +1,1 @@
-var mnemonic = "private tiny tree mention vacuum youth dice stable citizen chaos gift bicycle";
+var mnemonic = "license album roof inject group soft void snack negative favorite female program";

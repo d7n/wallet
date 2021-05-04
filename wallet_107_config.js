@@ -1,1 +1,1 @@
-var mnemonic = "forum doctor horn wheel mail shop exchange faint dumb bind buzz minimum";
+var mnemonic = "food frequent require multiply acoustic media waste depart inmate toe fiction atom";

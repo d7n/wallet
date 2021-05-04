@@ -1,1 +1,1 @@
-var mnemonic = "essay champion custom giant pitch random token core estate can choice eyebrow";
+var mnemonic = "hawk act turkey company fiction cigar bomb walk comic inherit ball deal";

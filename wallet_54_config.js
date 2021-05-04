@@ -1,1 +1,1 @@
-var mnemonic = "cupboard eye similar panel bounce horror begin top blouse tiger initial city";
+var mnemonic = "insect short word affair group weather sadness damage raven attend edit grow";

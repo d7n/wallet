@@ -1,1 +1,1 @@
-var mnemonic = "grain ladder math hour lemon predict salmon worth solution matter liquid load";
+var mnemonic = "explain favorite lyrics giant popular scrap robust family sugar unhappy giraffe else";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma dice rib ball decade funny clap seed sad derive next plastic";
+var mnemonic = "explain bus school uphold gift room festival salmon milk urge pill shop";

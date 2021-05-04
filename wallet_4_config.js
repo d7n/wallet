@@ -1,1 +1,1 @@
-var mnemonic = "like ride scene harsh measure spot ugly assist stand toward actor edge";
+var mnemonic = "battle hurt laptop goat sad swift elder cargo minimum brief truck clever";

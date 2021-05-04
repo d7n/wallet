@@ -1,1 +1,1 @@
-var mnemonic = "liberty blossom fatigue chest perfect salmon rally sister grow danger pretty spoil";
+var mnemonic = "client tube glory dirt degree tuna fossil mouse three recipe someone digital";

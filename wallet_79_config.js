@@ -1,1 +1,1 @@
-var mnemonic = "prison square surround nut early lawsuit cabin cotton submit slam legend shove";
+var mnemonic = "wink fortune witness goat success style glance connect physical capable rocket spatial";

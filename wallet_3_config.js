@@ -1,1 +1,1 @@
-var mnemonic = "fiscal seven broom frown glide history vendor extra fruit fresh hedgehog broom";
+var mnemonic = "afford leader phone easily lucky easily occur earth enlist want predict gym";

@@ -1,1 +1,1 @@
-var mnemonic = "february adult extra dizzy art private chief mystery filter grab myth news";
+var mnemonic = "eight detect popular buzz gorilla tattoo nephew quit diamond resource humor earn";

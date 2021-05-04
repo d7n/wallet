@@ -1,1 +1,1 @@
-var mnemonic = "parent fabric innocent gain virus elite library exercise grain off fossil labor";
+var mnemonic = "hockey drink south fan sunny crater cloud weekend charge task minor praise";

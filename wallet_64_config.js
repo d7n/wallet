@@ -1,1 +1,1 @@
-var mnemonic = "chase device live effort lunch direct utility east select husband soon super";
+var mnemonic = "ancient iron circle safe mail day gold swing sting true palm column";

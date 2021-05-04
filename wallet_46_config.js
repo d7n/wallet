@@ -1,1 +1,1 @@
-var mnemonic = "enable flat toast road later casino nasty cheap path sugar boost blood";
+var mnemonic = "setup mom mercy pink brown sun horn weapon breeze west second truck";

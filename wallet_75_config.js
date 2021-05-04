@@ -1,1 +1,1 @@
-var mnemonic = "brass swing era category accident list omit palm stock subject crane pair";
+var mnemonic = "taste flock ask moon surprise craft door myth priority wear clay glow";

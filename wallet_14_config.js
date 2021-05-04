@@ -1,1 +1,1 @@
-var mnemonic = "supreme bulk result remind turkey guitar loud report add wire bright video";
+var mnemonic = "demand involve flame divert differ gospel omit employ animal aware picture library";

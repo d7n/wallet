@@ -1,1 +1,1 @@
-var mnemonic = "mix retreat dad universe early motion tissue move control harbor female copy";
+var mnemonic = "doll bird hope position vivid before actor mistake hurry assault just embrace";

@@ -1,1 +1,1 @@
-var mnemonic = "home valid spider bacon online scrub skate thank domain whisper sell grain";
+var mnemonic = "sketch artwork borrow sibling sphere cram panel surprise predict author limb evil";

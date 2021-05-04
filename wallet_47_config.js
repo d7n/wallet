@@ -1,1 +1,1 @@
-var mnemonic = "bachelor shell glimpse rude border wisdom coil dream earth ranch enlist spatial";
+var mnemonic = "symbol correct broom celery dilemma coyote layer battle acquire crumble clinic improve";

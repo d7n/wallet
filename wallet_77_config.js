@@ -1,1 +1,1 @@
-var mnemonic = "indoor peace census tip virus multiply file decline position pipe shrimp crop";
+var mnemonic = "relief lounge satoshi isolate frame cat dinosaur atom cotton nurse solution ceiling";

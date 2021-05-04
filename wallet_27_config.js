@@ -1,1 +1,1 @@
-var mnemonic = "proof custom upper royal still poverty hazard object wrong depart defy spike";
+var mnemonic = "race across beauty awkward fever admit typical bird antenna disorder lend transfer";

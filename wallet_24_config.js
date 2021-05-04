@@ -1,1 +1,1 @@
-var mnemonic = "swap evidence daring steel volcano squirrel cover relief seminar april mountain hollow";
+var mnemonic = "purchase burst silly side wall genuine wreck increase alert umbrella cradle jaguar";

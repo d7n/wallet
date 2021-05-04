@@ -1,1 +1,1 @@
-var mnemonic = "planet rally arch slush pulse shoot spawn cream soon rib market property";
+var mnemonic = "horn laptop round cry exotic verify step enlist purpose drip indicate inquiry";

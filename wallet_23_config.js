@@ -1,1 +1,1 @@
-var mnemonic = "junior action stumble true immense slam asset much basic purity cannon eight";
+var mnemonic = "faith lawsuit grunt pave merry else cash belt gaze hammer kite celery";

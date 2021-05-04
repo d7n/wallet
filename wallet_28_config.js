@@ -1,1 +1,1 @@
-var mnemonic = "oxygen sunset desert noodle person beef table uncle foil say bright session";
+var mnemonic = "day domain economy thing rhythm ride crane broken logic before party carbon";

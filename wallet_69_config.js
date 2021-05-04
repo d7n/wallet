@@ -1,1 +1,1 @@
-var mnemonic = "caution spare donkey pumpkin slight chapter vote build mean demise dynamic priority";
+var mnemonic = "index world raven blossom beef helmet range draft hen lonely because caught";

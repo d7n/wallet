@@ -1,1 +1,1 @@
-var mnemonic = "unfair ozone debate future tent present insect width town about rescue smart";
+var mnemonic = "curious twenty stool bleak drama burden cram dove receive lion seed drill";

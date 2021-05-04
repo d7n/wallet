@@ -1,1 +1,1 @@
-var mnemonic = "hard throw uncle size duck little badge duck shoot rule birth favorite";
+var mnemonic = "void rack youth west design metal drip crisp column inch mind couple";

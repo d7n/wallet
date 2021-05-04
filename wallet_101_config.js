@@ -1,1 +1,1 @@
-var mnemonic = "athlete siege layer subject solid protect bone unlock divorce grid strong try";
+var mnemonic = "child dune input grain bulb flee test nice cattle left human express";

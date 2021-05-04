@@ -1,1 +1,1 @@
-var mnemonic = "danger kind happy pelican rebuild gas festival egg now genre pool stumble";
+var mnemonic = "wealth vault liar obey cute diesel will venture surround shuffle scrap country";

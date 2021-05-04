@@ -1,1 +1,1 @@
-var mnemonic = "ski repair thank divorce pony save minute toward piano blind explain swallow";
+var mnemonic = "caught stove mammal deny behave famous always lunar banner process elephant scare";

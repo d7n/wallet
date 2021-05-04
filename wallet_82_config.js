@@ -1,1 +1,1 @@
-var mnemonic = "tail enact slogan custom nut check magnet demand exile welcome palace canoe";
+var mnemonic = "gown member language corn over rescue health asset begin cat source pony";

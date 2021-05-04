@@ -1,1 +1,1 @@
-var mnemonic = "notable drill essay vacuum twin census canvas silly hotel supply chest limit";
+var mnemonic = "edit width soft current kite quit grow drama canyon arrange judge fan";

@@ -1,1 +1,1 @@
-var mnemonic = "employ age stock weekend grab nut fame mix then youth surface ride";
+var mnemonic = "badge shrug buyer mandate bonus domain rhythm duck buyer trash joy cigar";

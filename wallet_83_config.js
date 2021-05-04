@@ -1,1 +1,1 @@
-var mnemonic = "seminar tape welcome lesson squirrel edge endless unusual escape sure chronic rural";
+var mnemonic = "saddle weather cross habit advance squirrel mobile loop morning business metal grant";

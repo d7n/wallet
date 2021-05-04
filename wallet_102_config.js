@@ -1,1 +1,1 @@
-var mnemonic = "apple purse certain bar toilet crush tip fossil hip knee hamster fork";
+var mnemonic = "blanket gather laugh puzzle guide friend inspire foil second excuse hunt okay";

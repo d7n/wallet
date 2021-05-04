@@ -1,1 +1,1 @@
-var mnemonic = "hamster during repeat dial exclude when income domain uphold genuine creek ankle";
+var mnemonic = "robot view fox dial around pitch gold champion jealous lunch save solve";

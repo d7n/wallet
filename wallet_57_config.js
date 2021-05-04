@@ -1,1 +1,1 @@
-var mnemonic = "happy enroll lamp local lucky tuna stereo hamster double vital ordinary noodle";
+var mnemonic = "convince man cart situate peace edge lift mind weekend just sugar clean";

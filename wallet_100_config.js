@@ -1,1 +1,1 @@
-var mnemonic = "rival reopen marine private pitch solution devote saddle thunder wrist nature voice";
+var mnemonic = "umbrella street grid ripple camp tray census suit police holiday drip foil";

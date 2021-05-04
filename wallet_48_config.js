@@ -1,1 +1,1 @@
-var mnemonic = "chunk fence net old almost reject sauce equal mosquito goose hammer burger";
+var mnemonic = "mushroom size liberty design enrich wonder write drink artist match ostrich lend";

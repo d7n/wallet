@@ -1,1 +1,1 @@
-var mnemonic = "sugar trophy emotion feel miss scan cause welcome dumb later atom track";
+var mnemonic = "solid cover nature hurt cover napkin marble mom update place noise high";

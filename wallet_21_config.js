@@ -1,1 +1,1 @@
-var mnemonic = "topic canoe smart summer arena will plunge melody month usual stereo purpose";
+var mnemonic = "garment mad dilemma voyage empty head solid inner august spirit voyage flash";

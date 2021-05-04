@@ -1,1 +1,1 @@
-var mnemonic = "tomato number use above exchange enhance lounge fall night direct skin usual";
+var mnemonic = "this claim olympic top vault april unable high calm divorce throw fat";

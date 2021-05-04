@@ -1,1 +1,1 @@
-var mnemonic = "wave ship fan beach bid smooth shock cave clump alert retreat record";
+var mnemonic = "topple achieve wrong quote plunge fresh have cricket trial address recall cross";

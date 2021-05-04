@@ -1,1 +1,1 @@
-var mnemonic = "waste rule spray sick wife only dawn ocean menu flash school own";
+var mnemonic = "fence super wife armor clip enter assume alcohol ring century call scheme";

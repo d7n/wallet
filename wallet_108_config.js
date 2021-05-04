@@ -1,1 +1,1 @@
-var mnemonic = "eternal grunt illness two parrot palm arctic year fence inspire secret write";
+var mnemonic = "busy rubber law club ritual use height fluid modify race lounge service";

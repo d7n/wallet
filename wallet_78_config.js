@@ -1,1 +1,1 @@
-var mnemonic = "poverty kite bench behave deer plug maple million style leopard screen outdoor";
+var mnemonic = "blossom enable cook squirrel badge happy lawn valley tide project genius deal";

@@ -1,1 +1,1 @@
-var mnemonic = "victory erosion canal orient solution force mutual scorpion crack second august solution";
+var mnemonic = "envelope gesture jewel million tobacco trigger busy elder whale tape host grain";

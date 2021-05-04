@@ -1,1 +1,1 @@
-var mnemonic = "energy category harsh window alcohol poem vibrant fit swap phone club occur";
+var mnemonic = "guard naive wall comic sniff inch appear hope glide valid congress normal";

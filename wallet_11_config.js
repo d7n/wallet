@@ -1,1 +1,1 @@
-var mnemonic = "clever spoon author bring space tray symbol naive craft sting feature then";
+var mnemonic = "faith inspire tobacco lock arch shell teach video joy ask bind science";

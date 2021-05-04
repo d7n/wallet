@@ -1,1 +1,1 @@
-var mnemonic = "ethics drip major mix enforce figure inform attend butter toss decorate motion";
+var mnemonic = "burst merge jewel sketch rude sudden neck case sponsor glue doctor fence";

@@ -1,1 +1,1 @@
-var mnemonic = "tired trade remind bleak grape mountain enjoy grant mouse cloud upon cheese";
+var mnemonic = "excite loop minute ignore blouse reflect engine nothing aware cigar hint include";

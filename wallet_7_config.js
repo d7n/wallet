@@ -1,1 +1,1 @@
-var mnemonic = "elegant actor device join nurse use tooth symptom attend video tuition fantasy";
+var mnemonic = "cash tip bubble front fish toddler job bag eye tongue coil swear";

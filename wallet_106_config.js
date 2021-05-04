@@ -1,1 +1,1 @@
-var mnemonic = "club balcony soon avoid cushion despair scrap pear decide narrow client hospital";
+var mnemonic = "zoo sausage rhythm tail ugly rabbit curious exile simple gasp script solid";

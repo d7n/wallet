@@ -1,1 +1,1 @@
-var mnemonic = "ghost island occur muscle fix model shaft easily science joy park identify";
+var mnemonic = "jazz rubber cry capable wing belt depart luggage diagram anxiety palm great";

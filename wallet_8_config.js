@@ -1,1 +1,1 @@
-var mnemonic = "hidden hill front soldier seek clinic call know kangaroo exhaust arena suggest";
+var mnemonic = "seek useful circle shiver job car critic nest extra vote blood walk";

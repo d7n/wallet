@@ -1,1 +1,1 @@
-var mnemonic = "skate peanut farm nurse seed mistake improve perfect theory spread shrimp now";
+var mnemonic = "summer raw typical vapor trumpet monkey armed grit survey initial travel bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze ivory doctor stool glad nominee cabbage syrup cube tree fade over";
+var mnemonic = "drip amused sketch bag frost lobster impose discover clap crime brisk conduct";

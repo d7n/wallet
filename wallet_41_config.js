@@ -1,1 +1,1 @@
-var mnemonic = "brother cannon rule fish tag hammer cute people danger envelope mule rocket";
+var mnemonic = "acoustic science outside can spatial topple horn orphan frog slim burst rough";

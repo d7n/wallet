@@ -1,1 +1,1 @@
-var mnemonic = "fringe pledge crawl owner seat engine second boring walk airport whip harvest";
+var mnemonic = "attend stock easily develop crater human monster clutch either rally enlist wonder";

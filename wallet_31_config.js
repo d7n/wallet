@@ -1,1 +1,1 @@
-var mnemonic = "shiver wish fever number vocal verb adapt seven maple forest upper shallow";
+var mnemonic = "lesson jaguar brave illness energy carbon canvas sting town pond trend still";

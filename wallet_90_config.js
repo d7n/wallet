@@ -1,1 +1,1 @@
-var mnemonic = "endless shoe silent dice age dentist eight game rely lemon book thrive";
+var mnemonic = "word actor goat advance reveal prison hundred group favorite lucky embark stereo";

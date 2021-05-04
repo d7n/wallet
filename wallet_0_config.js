@@ -1,1 +1,1 @@
-var mnemonic = "tray retire early enjoy cupboard electric reward obscure onion believe scissors oxygen";
+var mnemonic = "spike coffee goat royal wheat wing view iron cause now hockey among";

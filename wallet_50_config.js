@@ -1,1 +1,1 @@
-var mnemonic = "because ghost melt right eight quality urban mechanic head best cruise priority";
+var mnemonic = "poem orbit pony snake person hedgehog tuna cricket behind monitor endless fade";

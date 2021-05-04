@@ -1,1 +1,1 @@
-var mnemonic = "tumble force gap sing later tip midnight debate napkin cabin window blossom";
+var mnemonic = "finish broken phone chuckle balance little provide into jar timber online disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "slush elder lesson panda number october glow shy moment daughter tuna limb";
+var mnemonic = "afraid hockey chaos parent proof series all warrior increase please spend predict";

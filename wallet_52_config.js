@@ -1,1 +1,1 @@
-var mnemonic = "mechanic vivid risk word exhaust mind arrive pause oppose flame great great";
+var mnemonic = "enroll column gravity twelve gossip live idle toast notice equal scrub category";

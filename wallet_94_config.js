@@ -1,1 +1,1 @@
-var mnemonic = "gaze north online casual timber wide point round round profit error cash";
+var mnemonic = "level search boss today bright faith release toddler menu reform marble baby";

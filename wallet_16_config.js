@@ -1,1 +1,1 @@
-var mnemonic = "develop broken photo aware obey inflict leopard fix into employ soccer name";
+var mnemonic = "current used remember cash nation autumn limit rate dwarf bounce veteran stock";

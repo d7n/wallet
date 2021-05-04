@@ -1,1 +1,1 @@
-var mnemonic = "found text buffalo usual fantasy science ensure when floor final pig super";
+var mnemonic = "donor person believe view outer mosquito clip fluid cloud staff bullet evil";

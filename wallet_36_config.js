@@ -1,1 +1,1 @@
-var mnemonic = "easy duck jaguar ride ten host only attend man peasant acquire bubble";
+var mnemonic = "around that under rural iron trumpet priority dust cricket else soup box";

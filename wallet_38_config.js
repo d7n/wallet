@@ -1,1 +1,1 @@
-var mnemonic = "rocket oven cactus owner mirror rigid three weasel aisle bean donor spin";
+var mnemonic = "snack witness short apple aunt hill liquid document caught fiction coach verb";

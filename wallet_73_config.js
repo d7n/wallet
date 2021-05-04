@@ -1,1 +1,1 @@
-var mnemonic = "tobacco all thank during happy food caught diamond grace outer immune switch";
+var mnemonic = "define shield butter cheese limb heart join merge toy emerge grant wide";

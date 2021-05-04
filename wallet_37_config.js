@@ -1,1 +1,1 @@
-var mnemonic = "arrive country chat bronze salad same surge shop brand usual hero abuse";
+var mnemonic = "tissue kick sadness space flame arrange art sweet potato coral catch fox";

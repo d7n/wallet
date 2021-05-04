@@ -1,1 +1,1 @@
-var mnemonic = "soul film salon knife cargo swear alien vendor cancel team sad upper";
+var mnemonic = "monitor tired across table clap indicate hurt bundle siege science entry jungle";

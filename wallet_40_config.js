@@ -1,1 +1,1 @@
-var mnemonic = "dynamic base mind multiply clog over umbrella claw ramp drum dinosaur cactus";
+var mnemonic = "toddler unusual clean hello cliff august cradle near flee arena pelican decorate";

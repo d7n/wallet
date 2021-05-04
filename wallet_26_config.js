@@ -1,1 +1,1 @@
-var mnemonic = "cluster spice fuel rail fiber gate merit town plastic limit sadness gesture";
+var mnemonic = "bird govern fan drive poet muscle panic brass alpha joke world rule";

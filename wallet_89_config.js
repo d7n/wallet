@@ -1,1 +1,1 @@
-var mnemonic = "skin purity satoshi diary uniform deputy upper mystery cherry civil inch pave";
+var mnemonic = "adult fix wave meat soccer apple minimum improve glow foot rich maze";

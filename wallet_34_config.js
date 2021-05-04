@@ -1,1 +1,1 @@
-var mnemonic = "object stone enjoy horn obtain script error series blanket camp soldier shiver";
+var mnemonic = "crunch act file craft wasp raise pet tunnel mail enlist bacon vehicle";

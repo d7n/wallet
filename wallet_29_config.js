@@ -1,1 +1,1 @@
-var mnemonic = "unit tilt mirror theory rocket clump jealous category harsh grab only despair";
+var mnemonic = "poem there please bottom exhaust salon panic yellow traffic impulse loyal innocent";

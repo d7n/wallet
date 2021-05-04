@@ -1,1 +1,1 @@
-var mnemonic = "shell roof ladder tail hybrid cannon morning isolate step used round radio";
+var mnemonic = "barely jazz wing picnic census search payment large neglect dog negative omit";

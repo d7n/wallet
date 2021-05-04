@@ -1,1 +1,1 @@
-var mnemonic = "off pilot wisdom produce sustain outer raise delay page digital weasel garage";
+var mnemonic = "try tomato festival typical retreat coin reopen green guide tired program museum";

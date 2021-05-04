@@ -1,1 +1,1 @@
-var mnemonic = "merge average nut team flower ritual drastic banner leg calm annual umbrella";
+var mnemonic = "shuffle budget thunder begin way brisk exhaust deputy pretty helmet stock early";

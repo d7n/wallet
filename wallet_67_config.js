@@ -1,1 +1,1 @@
-var mnemonic = "head ahead favorite auto naive awkward fiction zebra ghost obvious blouse display";
+var mnemonic = "domain inside force acid mix focus clinic evil ahead blanket element desert";

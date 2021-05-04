@@ -1,1 +1,1 @@
-var mnemonic = "execute gift door issue blame exhibit capital script tornado seed differ leopard";
+var mnemonic = "boy credit bike denial talk physical memory segment ice flavor humor easily";

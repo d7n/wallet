@@ -1,1 +1,1 @@
-var mnemonic = "nominee around prefer ecology make cross notice embark wrestle dizzy gym wolf";
+var mnemonic = "midnight share exile soon home wreck lawn fall direct impact mouse someone";

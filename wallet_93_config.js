@@ -1,1 +1,1 @@
-var mnemonic = "world island nation caught fancy toss finger link helmet keen salmon nation";
+var mnemonic = "sure genius runway upper gaze wealth safe assault daring town section robust";
