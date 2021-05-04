@@ -1,1 +1,1 @@
-var mnemonic = "artwork glance stairs chase endorse water honey artist goose web offer pupil";
+var mnemonic = "trend silk match enemy survey please garbage feed toward weird reason october";

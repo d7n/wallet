@@ -1,1 +1,1 @@
-var mnemonic = "slogan raise blouse salad cream accuse palm furnace pigeon ginger bomb asset";
+var mnemonic = "flush gossip mind fall bird chicken pottery fee special tonight search solar";

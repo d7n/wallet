@@ -1,1 +1,1 @@
-var mnemonic = "possible envelope merge cash ship reward claim heavy fence gas emotion grace";
+var mnemonic = "remain ripple term color grief economy ketchup issue help endless hurt uniform";

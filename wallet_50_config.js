@@ -1,1 +1,1 @@
-var mnemonic = "balcony major mother abstract improve erode cherry dance wool chair modify extra";
+var mnemonic = "abstract cram giant clog little drill change monitor burger various warfare actress";

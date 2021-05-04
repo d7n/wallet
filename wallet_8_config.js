@@ -1,1 +1,1 @@
-var mnemonic = "enjoy burst split recipe check private door uncover arch gasp height strong";
+var mnemonic = "odor atom capital fence parent then simple enable earn vibrant luxury hurry";

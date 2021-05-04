@@ -1,1 +1,1 @@
-var mnemonic = "sing silver heavy person match machine foil quality ketchup kitten liberty river";
+var mnemonic = "tortoise spray change bracket diary drive vacant seek tool tip gauge sugar";

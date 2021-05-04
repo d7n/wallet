@@ -1,1 +1,1 @@
-var mnemonic = "harsh appear empower mind spider traffic congress wheel gain rescue gorilla attend";
+var mnemonic = "cliff burst seat marriage penalty dry uncle rare join obtain man profit";

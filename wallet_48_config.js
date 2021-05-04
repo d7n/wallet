@@ -1,1 +1,1 @@
-var mnemonic = "curtain spirit mad apology asthma erupt license violin job obvious pony hamster";
+var mnemonic = "dish among strike priority hurry fog remove child grant kangaroo glide sunset";

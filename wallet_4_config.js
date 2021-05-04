@@ -1,1 +1,1 @@
-var mnemonic = "innocent already brisk camp rug obey execute height unaware sphere peasant violin";
+var mnemonic = "trophy twelve future napkin shrimp manual public script orphan offer subway describe";

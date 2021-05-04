@@ -1,1 +1,1 @@
-var mnemonic = "blouse shop panic search later lunar gold match office narrow common school";
+var mnemonic = "super beyond treat habit develop still guilt hub often index prosper rich";

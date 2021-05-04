@@ -1,1 +1,1 @@
-var mnemonic = "pipe cry lonely distance speed worry public table vital blind hobby solar";
+var mnemonic = "horror caught glow install flower coast choose bronze axis unique maple hungry";

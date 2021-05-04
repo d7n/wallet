@@ -1,1 +1,1 @@
-var mnemonic = "debris join federal space top select lift rib crane shallow circle kind";
+var mnemonic = "wrist kidney mutual cinnamon soldier horse column celery lava shuffle cricket liar";

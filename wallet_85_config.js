@@ -1,1 +1,1 @@
-var mnemonic = "pelican speak grow voice client adjust crime smoke add old tunnel volume";
+var mnemonic = "property sail wage that believe dress portion theme fix remove garden just";

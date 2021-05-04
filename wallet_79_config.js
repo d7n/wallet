@@ -1,1 +1,1 @@
-var mnemonic = "cycle dilemma ahead fresh nature elbow total person pipe coconut mimic grass";
+var mnemonic = "level blanket share track nephew sort shuffle strike mouse traffic above force";

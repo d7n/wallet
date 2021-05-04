@@ -1,1 +1,1 @@
-var mnemonic = "wink faint unveil marriage tide ignore uniform hip spice also settle sure";
+var mnemonic = "area sunset action picture sphere sample boss spike suffer lock ensure mushroom";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm novel then bring sort harsh rude produce split enlist apology disorder";
+var mnemonic = "ozone share hotel crop exclude debris include creek birth legend royal word";

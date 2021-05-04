@@ -1,1 +1,1 @@
-var mnemonic = "collect scheme ripple town forward swift art farm truly thought debate mystery";
+var mnemonic = "pluck mule hamster ugly raise burden reform flat west sibling display this";

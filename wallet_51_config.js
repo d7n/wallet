@@ -1,1 +1,1 @@
-var mnemonic = "gown boost release junior rate century furnace render sister dismiss sand tank";
+var mnemonic = "level foil daughter festival runway into festival fabric uncover copy topple address";

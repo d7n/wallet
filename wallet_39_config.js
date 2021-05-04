@@ -1,1 +1,1 @@
-var mnemonic = "equal pyramid suspect hint shy mutual change media mind resemble abstract iron";
+var mnemonic = "mobile produce small near copy century volume west disorder supply order have";

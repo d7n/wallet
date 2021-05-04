@@ -1,1 +1,1 @@
-var mnemonic = "head swear task win sudden index nuclear sea print unaware leaf turn";
+var mnemonic = "tide frozen shadow tennis rib impose hover matter bulb dragon cotton connect";

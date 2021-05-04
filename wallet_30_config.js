@@ -1,1 +1,1 @@
-var mnemonic = "kit weather upon pond brief flock struggle fame buffalo size output note";
+var mnemonic = "hen infant type flat remember monitor verify pulse exit typical infant globe";

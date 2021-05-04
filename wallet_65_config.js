@@ -1,1 +1,1 @@
-var mnemonic = "occur damp dinner shoe gasp organ symbol mix key country orient inspire";
+var mnemonic = "grow rookie sail toward special name isolate ready inform barrel visual gauge";

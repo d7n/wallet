@@ -1,1 +1,1 @@
-var mnemonic = "cube senior ladder cross gloom where mouse couple coin draft blouse kangaroo";
+var mnemonic = "peanut relief quote suffer boat blast good canoe trash flight giraffe green";

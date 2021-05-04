@@ -1,1 +1,1 @@
-var mnemonic = "orphan train candy bone sustain melt episode term end stay lawn now";
+var mnemonic = "baby achieve achieve bullet quote flush mammal million lift tuition rack ripple";

@@ -1,1 +1,1 @@
-var mnemonic = "garage park unknown vote glass awkward say conduct guitar key sheriff brown";
+var mnemonic = "divide crash gown wife crystal lion bar differ what glide cram essence";

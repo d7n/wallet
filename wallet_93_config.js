@@ -1,1 +1,1 @@
-var mnemonic = "crop stage strong nature belt appear smart month alpha cabbage lazy inhale";
+var mnemonic = "erode find party property auction inhale release minimum penalty shoot margin dolphin";

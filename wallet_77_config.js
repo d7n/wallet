@@ -1,1 +1,1 @@
-var mnemonic = "endorse neglect pencil morning miss tag undo wish staff soup loan develop";
+var mnemonic = "chunk hire car empower there royal budget beauty swamp spike denial couch";

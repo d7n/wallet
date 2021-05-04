@@ -1,1 +1,1 @@
-var mnemonic = "method hover bracket picnic diary lawn drama flower arrow cycle slight total";
+var mnemonic = "icon brick lizard river debate major fortune chair resemble impact cherry ball";

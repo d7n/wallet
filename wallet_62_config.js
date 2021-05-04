@@ -1,1 +1,1 @@
-var mnemonic = "average crop gossip because urban staff cinnamon fish blue arm parade stuff";
+var mnemonic = "noise spend exhaust soft ritual width sponsor firm attack salute smile small";

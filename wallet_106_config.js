@@ -1,1 +1,1 @@
-var mnemonic = "umbrella leg resource market volcano dice novel tree weasel veteran knock tray";
+var mnemonic = "library disorder jeans expose invest tooth obey holiday blame useless only cargo";

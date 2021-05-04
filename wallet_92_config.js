@@ -1,1 +1,1 @@
-var mnemonic = "prosper van father silent pass excess hover appear fatigue learn brisk ribbon";
+var mnemonic = "visual syrup cram butter involve clutch pipe sponsor unfair saddle above egg";

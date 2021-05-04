@@ -1,1 +1,1 @@
-var mnemonic = "pass junk motor iron jazz avocado budget flip model laundry cupboard hole";
+var mnemonic = "response enough elegant bright will gun hunt simple tenant whisper fatigue rice";

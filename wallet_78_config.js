@@ -1,1 +1,1 @@
-var mnemonic = "warfare illness alarm useless ice tube cart slush west vivid tail enrich";
+var mnemonic = "glory network item struggle urge prefer music pitch learn hunt skate process";

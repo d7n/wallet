@@ -1,1 +1,1 @@
-var mnemonic = "capable pool side speed skill era village oblige weapon valley rotate enjoy";
+var mnemonic = "marine clutch excite catch gesture belt fine circle farm man shiver curve";

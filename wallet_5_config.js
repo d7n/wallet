@@ -1,1 +1,1 @@
-var mnemonic = "cost loyal head toss tomato fix emerge explain payment mind bonus maple";
+var mnemonic = "elbow solution pill morning host ring safe mandate noble coach general cinnamon";

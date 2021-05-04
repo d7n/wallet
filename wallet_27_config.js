@@ -1,1 +1,1 @@
-var mnemonic = "idea apart gym flip hen episode guilt romance lyrics garment verify deny";
+var mnemonic = "prepare ceiling mesh outer woman dutch nose zone giggle faint room blade";

@@ -1,1 +1,1 @@
-var mnemonic = "unable involve pony weasel maximum tennis blanket ahead ethics glad reject gallery";
+var mnemonic = "ecology clip filter knee reveal weasel dream clip copy winter grow toy";

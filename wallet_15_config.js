@@ -1,1 +1,1 @@
-var mnemonic = "monster cat collect cube melt stadium tired click wise sauce switch saddle";
+var mnemonic = "verify mansion lunch portion slender boring inmate unveil mix capable genuine ice";

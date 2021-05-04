@@ -1,1 +1,1 @@
-var mnemonic = "depend layer cup taste intact lab shed odor stool target matter borrow";
+var mnemonic = "gasp ancient goat text safe include blur chase tank birth silk enemy";

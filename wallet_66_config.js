@@ -1,1 +1,1 @@
-var mnemonic = "fork audit search depend tomorrow omit truly drift album piece grunt another";
+var mnemonic = "rabbit neglect extra moon sting fossil news tell fiber proud pill current";

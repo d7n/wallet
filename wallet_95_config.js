@@ -1,1 +1,1 @@
-var mnemonic = "like museum author fine cherry warfare chaos carbon gauge danger exhibit cushion";
+var mnemonic = "fan embark file sort stairs spoon twice hold fiscal public debris leopard";

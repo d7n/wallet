@@ -1,1 +1,1 @@
-var mnemonic = "funny jealous route beauty frost during cement bicycle kiss ship sort base";
+var mnemonic = "drift benefit urban solve middle tragic rug knee color barrel when draft";

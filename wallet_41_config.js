@@ -1,1 +1,1 @@
-var mnemonic = "kitchen choose drip lamp little beef sting antenna yellow oven sail convince";
+var mnemonic = "crawl engage rain monkey pizza whisper genius rare they market leg derive";

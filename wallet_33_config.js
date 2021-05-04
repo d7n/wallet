@@ -1,1 +1,1 @@
-var mnemonic = "hospital legal enroll guess force two velvet sand army witness sort brisk";
+var mnemonic = "worth notable bread nominee manage warrior rhythm skin hand trophy tongue candy";

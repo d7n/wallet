@@ -1,1 +1,1 @@
-var mnemonic = "galaxy steak fun state economy there recycle security famous blade fatigue effort";
+var mnemonic = "tobacco float wreck panic once latin cry curtain dragon attack crunch web";

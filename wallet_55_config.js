@@ -1,1 +1,1 @@
-var mnemonic = "oyster polar legal rifle suggest render marble cactus prison urge artwork tumble";
+var mnemonic = "document post climb puppy clever salt cannon fossil ring plunge churn rebel";

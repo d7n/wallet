@@ -1,1 +1,1 @@
-var mnemonic = "nest accuse vehicle figure fiction buzz dirt magic uncover aware refuse fruit";
+var mnemonic = "decrease empty unaware ghost file media nation hotel help satoshi arrange rely";

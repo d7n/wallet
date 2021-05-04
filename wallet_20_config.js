@@ -1,1 +1,1 @@
-var mnemonic = "orphan uncle also bike expose segment cat stumble century quality ordinary keep";
+var mnemonic = "exhaust visa tattoo wish latin blame suspect solid energy rifle match book";

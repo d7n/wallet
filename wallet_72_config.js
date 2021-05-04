@@ -1,1 +1,1 @@
-var mnemonic = "promote all just march wait develop rice nest pond reduce draw menu";
+var mnemonic = "chief egg hat blind speak because guide couch embark blue maid add";

@@ -1,1 +1,1 @@
-var mnemonic = "worry salon devote crime door illegal token strategy ignore carpet swap gossip";
+var mnemonic = "wrap rose unveil bag senior dragon cabbage that room stay mesh pumpkin";

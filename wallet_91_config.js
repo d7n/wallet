@@ -1,1 +1,1 @@
-var mnemonic = "tooth cause ensure promote rifle hurt bitter drill afraid luggage oil phrase";
+var mnemonic = "suffer inherit sample outside twenty decline benefit timber practice divert old around";

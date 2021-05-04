@@ -1,1 +1,1 @@
-var mnemonic = "wisdom night rack cruise allow wide hard second hotel prosper mystery useless";
+var mnemonic = "empower warrior own mixture height voyage reflect laundry correct divorce trumpet reject";

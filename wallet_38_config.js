@@ -1,1 +1,1 @@
-var mnemonic = "heart modify school stage festival absorb fault kind tent title dwarf base";
+var mnemonic = "cattle evolve upgrade tip odor twice depend company stool joke paper lumber";

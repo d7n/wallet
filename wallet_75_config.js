@@ -1,1 +1,1 @@
-var mnemonic = "inform coach roof soda true seed winter fabric right tape pencil suit";
+var mnemonic = "deputy fringe reward omit digital void until secret festival adjust cable lens";

@@ -1,1 +1,1 @@
-var mnemonic = "bid entire document robust hamster need powder flush predict table eyebrow ketchup";
+var mnemonic = "escape advance region crumble derive blade toddler mirror audit skill purse six";

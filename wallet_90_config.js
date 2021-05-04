@@ -1,1 +1,1 @@
-var mnemonic = "marine frost sustain push finger siege present super sense relax lawsuit please";
+var mnemonic = "sphere leave half crunch design large outer glory cash hen page before";

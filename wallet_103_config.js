@@ -1,1 +1,1 @@
-var mnemonic = "spin axis hybrid donate exist safe door urban already reduce inhale forget";
+var mnemonic = "stadium funny just smart autumn system curve upset coconut settle sniff flash";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain umbrella brand dog peasant cart adapt buzz effort pass riot merge";
+var mnemonic = "second suit exhibit garment welcome frost theme snake cushion ocean front swarm";

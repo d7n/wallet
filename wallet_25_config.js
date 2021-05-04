@@ -1,1 +1,1 @@
-var mnemonic = "list cherry drama object flower found exclude cement bean mass mass unlock";
+var mnemonic = "amount street machine alien much gun bean state there slush acquire adjust";

@@ -1,1 +1,1 @@
-var mnemonic = "message rhythm net disagree asset ivory teach quick culture unaware aim winter";
+var mnemonic = "ceiling chaos budget brick grit almost cushion tide salon fix rate easy";

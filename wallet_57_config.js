@@ -1,1 +1,1 @@
-var mnemonic = "usage garlic volume project vibrant tent save combine super expose visual mixed";
+var mnemonic = "special upgrade coyote render once bright shoe awful talent until bean present";

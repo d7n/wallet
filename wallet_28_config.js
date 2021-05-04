@@ -1,1 +1,1 @@
-var mnemonic = "three item library debris energy owner first chalk cancel patrol track original";
+var mnemonic = "panther electric kite hard excite hungry relax choose museum artefact hat clog";

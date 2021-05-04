@@ -1,1 +1,1 @@
-var mnemonic = "sock because never ahead similar retreat habit inspire scheme number misery kingdom";
+var mnemonic = "cycle seat need color trust lyrics puppy argue bounce canvas crop feel";

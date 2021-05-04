@@ -1,1 +1,1 @@
-var mnemonic = "void rebuild almost violin need broom palace hair twist pact actual scout";
+var mnemonic = "edge broken ocean negative citizen oak original stone paper prepare wedding despair";

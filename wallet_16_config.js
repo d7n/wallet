@@ -1,1 +1,1 @@
-var mnemonic = "evolve avocado measure cherry child bronze uncover below earth basic toilet ketchup";
+var mnemonic = "almost case organ rice later deal tool jazz broken genuine length lens";

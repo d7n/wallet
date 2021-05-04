@@ -1,1 +1,1 @@
-var mnemonic = "tattoo negative length flock feed creek enroll flight panic object dentist hollow";
+var mnemonic = "illegal banner urge load bundle tell what extra globe mom panic fossil";

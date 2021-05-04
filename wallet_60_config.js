@@ -1,1 +1,1 @@
-var mnemonic = "mango kidney oval turtle caught city mesh business float violin carbon walk";
+var mnemonic = "inmate whip select orange empower duty crisp laundry apple timber canvas truck";

@@ -1,1 +1,1 @@
-var mnemonic = "bean wing powder much glory tuition cruel fame blind umbrella acid title";
+var mnemonic = "fox exist world symbol lens talk original raven ensure one fiber bag";

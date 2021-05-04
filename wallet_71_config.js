@@ -1,1 +1,1 @@
-var mnemonic = "tiger document dose fence leader clip oval blouse below lava enter brave";
+var mnemonic = "borrow load teach cargo valve call extra scare outdoor tape attitude orient";

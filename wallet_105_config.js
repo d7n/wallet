@@ -1,1 +1,1 @@
-var mnemonic = "spatial path cargo divert deputy heavy pilot input arch shaft merge glide";
+var mnemonic = "van wolf better rent bless squeeze second combine step smile mobile clog";

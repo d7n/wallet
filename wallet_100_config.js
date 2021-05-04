@@ -1,1 +1,1 @@
-var mnemonic = "lunar garage fix emotion mobile upset august ensure ripple vital dismiss sea";
+var mnemonic = "sword rubber abstract dizzy water obey tail position demise accident phrase vintage";

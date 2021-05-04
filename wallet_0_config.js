@@ -1,1 +1,1 @@
-var mnemonic = "cloud hunt phrase chief dish photo brisk degree neglect purchase canoe bronze";
+var mnemonic = "major engine essence boy define accident funny science guide juice payment cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe runway retire stem practice develop jewel check patient pipe ahead surround";
+var mnemonic = "gravity length unveil peace plunge guard monkey shrimp hint useful antique remove";

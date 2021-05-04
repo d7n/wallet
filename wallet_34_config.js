@@ -1,1 +1,1 @@
-var mnemonic = "note ketchup catch ring drop baby awkward neglect fence portion scatter anchor";
+var mnemonic = "response birth control rabbit brief joy fuel smart audit monster flee category";

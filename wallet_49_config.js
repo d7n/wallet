@@ -1,1 +1,1 @@
-var mnemonic = "return above excess laundry bike expand dirt nominee reward someone globe anchor";
+var mnemonic = "federal worth define nasty hub sniff skull loyal random cart patrol return";

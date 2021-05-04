@@ -1,1 +1,1 @@
-var mnemonic = "miracle assume agent toddler bulk jewel segment include doll mix torch vanish";
+var mnemonic = "off dawn attend ankle same total clutch left gallery link boil major";

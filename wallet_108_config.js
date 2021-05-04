@@ -1,1 +1,1 @@
-var mnemonic = "produce grain rescue piano unfair icon balance day better detail spray lawsuit";
+var mnemonic = "load demise weapon rain term kite wrestle body speed bid tongue ketchup";

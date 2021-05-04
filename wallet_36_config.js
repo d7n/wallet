@@ -1,1 +1,1 @@
-var mnemonic = "video spin artwork stumble mixed boost prize seed frozen limit destroy law";
+var mnemonic = "together act chest sort pen report disagree park puzzle grow custom awful";

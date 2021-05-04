@@ -1,1 +1,1 @@
-var mnemonic = "mule ancient broom luggage cancel demand leave romance snap audit romance kid";
+var mnemonic = "layer model property crater teach picture depend accuse universe noise promote humble";

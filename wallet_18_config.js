@@ -1,1 +1,1 @@
-var mnemonic = "border patient capital pudding venture law frog prize tone minor snake invite";
+var mnemonic = "heavy robot banana parent question volume sauce sausage poem hard toast before";

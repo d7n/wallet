@@ -1,1 +1,1 @@
-var mnemonic = "use afford craft merit aware open wedding limb school armor frost run";
+var mnemonic = "banana skull era topple evidence mirror fall digital worth unit remain doll";

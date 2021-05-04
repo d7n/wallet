@@ -1,1 +1,1 @@
-var mnemonic = "hood worry outdoor repair clap picture grab wall dinosaur bread north fancy";
+var mnemonic = "valve episode modify win ginger cash click notice wealth city clip main";

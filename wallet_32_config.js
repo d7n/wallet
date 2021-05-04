@@ -1,1 +1,1 @@
-var mnemonic = "grid void fence tortoise rigid attitude steel spoon wisdom slender label match";
+var mnemonic = "that style easily push deliver brand owner tray trust uphold captain cinnamon";

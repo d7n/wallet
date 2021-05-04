@@ -1,1 +1,1 @@
-var mnemonic = "rug life tumble emerge whip rifle egg draft change engine grocery letter";
+var mnemonic = "alien candy begin desk zebra curious alien flip hedgehog butter remember exercise";

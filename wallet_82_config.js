@@ -1,1 +1,1 @@
-var mnemonic = "agree system proud arena solar topple rent neither sad dumb expect noodle";
+var mnemonic = "champion fuel enemy surround flock cable transfer claim pony excess exile predict";

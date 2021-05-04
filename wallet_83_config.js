@@ -1,1 +1,1 @@
-var mnemonic = "shrug tourist code release need able panther thumb beyond unhappy solution blast";
+var mnemonic = "canyon mask wheat shock eye noble symptom kiss cradle crash merit unaware";

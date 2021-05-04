@@ -1,1 +1,1 @@
-var mnemonic = "truly bike west exhaust curtain record inch consider want main direct venue";
+var mnemonic = "antique update aware someone group skirt clinic coil observe grit blind salmon";

@@ -1,1 +1,1 @@
-var mnemonic = "course law current grape omit come license forest soccer eyebrow lazy busy";
+var mnemonic = "notable anxiety antenna celery rude veteran code modify crane potato actual shuffle";

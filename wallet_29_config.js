@@ -1,1 +1,1 @@
-var mnemonic = "section diamond phone pizza nice prison sorry like error wheat anger raccoon";
+var mnemonic = "lawn unlock deal clerk employ what pink rude alone minimum enjoy crouch";

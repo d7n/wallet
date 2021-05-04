@@ -1,1 +1,1 @@
-var mnemonic = "mobile brown novel such eager outside rhythm smooth gaze wrong peanut blue";
+var mnemonic = "collect identify tree dry duty ridge scrub stove wave vote drift attack";

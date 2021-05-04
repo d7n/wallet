@@ -1,1 +1,1 @@
-var mnemonic = "message biology fame home shop domain winner special mean junk vault siren";
+var mnemonic = "render rule fire summer phone bulb tone announce mail monkey provide below";

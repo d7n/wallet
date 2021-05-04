@@ -1,1 +1,1 @@
-var mnemonic = "cup split six lunar dash toss monitor inflict gallery cactus benefit chief";
+var mnemonic = "try repeat text same inject soft absurd window husband loop have cupboard";

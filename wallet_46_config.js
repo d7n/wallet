@@ -1,1 +1,1 @@
-var mnemonic = "embody clown now buffalo happy method reopen green sentence invest office maple";
+var mnemonic = "just tomorrow crime firm adapt together deal joke used gun lift remind";
