@@ -1,1 +1,1 @@
-var mnemonic = "extend saddle version remind have badge nurse merry budget entry caught prefer";
+var mnemonic = "leave panther draft sunset then either immense fee seven patient broken salon";

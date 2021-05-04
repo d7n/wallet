@@ -1,1 +1,1 @@
-var mnemonic = "private seminar wash flip worth all demand moral hub home original inform";
+var mnemonic = "hidden gasp auto you stay main sheriff time famous blast midnight riot";

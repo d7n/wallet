@@ -1,1 +1,1 @@
-var mnemonic = "hint melt bundle lonely vast salad grow amazing stand eternal section sand";
+var mnemonic = "trim identify torch hope crack wood luxury trumpet gallery near write whip";

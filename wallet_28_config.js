@@ -1,1 +1,1 @@
-var mnemonic = "book among title march copy erase lazy tribe drink valley find thought";
+var mnemonic = "mango flat cost verify betray flower cousin blame nut isolate stadium opinion";

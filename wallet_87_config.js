@@ -1,1 +1,1 @@
-var mnemonic = "gown rigid artefact margin kitchen evoke wool orphan violin card garment title";
+var mnemonic = "suit used column exchange off clay check asthma helmet hawk error squirrel";

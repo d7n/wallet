@@ -1,1 +1,1 @@
-var mnemonic = "pupil gas online always any dream awful shine ten orient heavy okay";
+var mnemonic = "interest sight office rug genre bulb proud radio mimic magic tourist same";

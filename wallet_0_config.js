@@ -1,1 +1,1 @@
-var mnemonic = "start circle sister hero sentence wish assault leader occur arrive cluster powder";
+var mnemonic = "address betray sausage cradle grain bachelor garlic mouse flight cricket ranch system";

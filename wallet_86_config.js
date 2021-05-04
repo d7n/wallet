@@ -1,1 +1,1 @@
-var mnemonic = "pony best office keen lemon unveil sun flower boat honey casino pistol";
+var mnemonic = "wire system three monster anger disease midnight range horse fabric enhance melt";

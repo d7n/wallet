@@ -1,1 +1,1 @@
-var mnemonic = "globe laugh west claim lawn evil column tonight dutch video various anchor";
+var mnemonic = "bean wash smooth also canyon boy renew uphold parrot make captain danger";

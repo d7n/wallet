@@ -1,1 +1,1 @@
-var mnemonic = "minor emotion add measure soldier monitor outdoor help crush shove twelve maximum";
+var mnemonic = "crisp tail glory jaguar priority target hand before forget swap use theory";

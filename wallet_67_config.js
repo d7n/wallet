@@ -1,1 +1,1 @@
-var mnemonic = "volcano prison lift palace mix tennis desk wild cruel link rail street";
+var mnemonic = "body dentist same limb prosper win shoulder pulse fresh birth throw dismiss";

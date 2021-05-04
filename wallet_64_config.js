@@ -1,1 +1,1 @@
-var mnemonic = "consider december identify fortune deny cage gun intact lava swing energy mammal";
+var mnemonic = "belt scissors field window like fog inquiry faculty daughter will educate umbrella";

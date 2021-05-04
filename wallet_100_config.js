@@ -1,1 +1,1 @@
-var mnemonic = "raw among question major debris offer devote infant crumble scale knock wing";
+var mnemonic = "any equal fossil flat hold flower clerk enhance crucial similar obscure version";

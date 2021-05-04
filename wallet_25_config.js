@@ -1,1 +1,1 @@
-var mnemonic = "huge family point grass budget cradle title defy song ivory nasty large";
+var mnemonic = "whale gallery raise decline moon knife crop crisp tonight witness actress kangaroo";

@@ -1,1 +1,1 @@
-var mnemonic = "vital sign fork broom quality blush frog into asset attitude you man";
+var mnemonic = "brother ecology scene desert together sausage tool stereo zoo final cluster middle";

@@ -1,1 +1,1 @@
-var mnemonic = "room arrange happy blue provide mail visit today wing wise wrap lonely";
+var mnemonic = "metal drum almost amazing bar region solar sunset curve tomato return face";

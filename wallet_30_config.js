@@ -1,1 +1,1 @@
-var mnemonic = "gauge elite eternal rhythm want expire sock elephant fury pen great horn";
+var mnemonic = "deliver toddler warrior drive gap evoke judge ready venue monkey margin mobile";

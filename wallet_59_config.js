@@ -1,1 +1,1 @@
-var mnemonic = "prepare clay drama million conduct yard food run legal test strong pottery";
+var mnemonic = "saddle broken student decorate awake mom burger people disorder occur behave clap";

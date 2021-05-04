@@ -1,1 +1,1 @@
-var mnemonic = "valley lend assume cigar kit dismiss sport now online flavor roof kitten";
+var mnemonic = "action more nephew leg nominee display ginger popular feed stand live frog";

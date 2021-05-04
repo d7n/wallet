@@ -1,1 +1,1 @@
-var mnemonic = "above give syrup wreck melt absorb boat spawn bread sure tower assault";
+var mnemonic = "hawk rate web owner fee property calm street dumb bind safe sentence";

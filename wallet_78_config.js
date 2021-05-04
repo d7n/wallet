@@ -1,1 +1,1 @@
-var mnemonic = "permit extra season urban witness degree meadow kind middle afford life concert";
+var mnemonic = "symptom item scissors include message sausage transfer goat lamp suggest appear spike";

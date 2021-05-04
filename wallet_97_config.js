@@ -1,1 +1,1 @@
-var mnemonic = "abuse correct rare edit census search gospel book true pattern detect effort";
+var mnemonic = "tank vivid unfair payment vital illegal fly transfer guilt relief achieve wasp";

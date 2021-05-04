@@ -1,1 +1,1 @@
-var mnemonic = "alter motion cushion oval over repair risk between cabin slice judge soldier";
+var mnemonic = "town hope nothing diesel share dwarf stamp impact act disorder jacket crunch";

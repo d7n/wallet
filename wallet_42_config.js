@@ -1,1 +1,1 @@
-var mnemonic = "door future crawl tube dwarf proud cushion advice please section indicate undo";
+var mnemonic = "better tool govern hand axis such want sausage slim retire spare reduce";

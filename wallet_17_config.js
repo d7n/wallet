@@ -1,1 +1,1 @@
-var mnemonic = "repeat host mother involve mother path harsh output culture half quick jaguar";
+var mnemonic = "achieve response portion grab behind first cross wear office romance smoke solid";

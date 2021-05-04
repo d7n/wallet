@@ -1,1 +1,1 @@
-var mnemonic = "summer honey moment citizen mushroom loan nuclear exercise segment focus dutch impulse";
+var mnemonic = "phone comic shoulder risk nothing donor oppose panel solve misery night blind";

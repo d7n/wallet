@@ -1,1 +1,1 @@
-var mnemonic = "hole until cradle birth situate devote scan mansion alarm stage copper dizzy";
+var mnemonic = "absorb person slush horn index aim plate caught problem where skate group";

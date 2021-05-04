@@ -1,1 +1,1 @@
-var mnemonic = "rain black affair beyond word run bag shock vote slice humble venue";
+var mnemonic = "local easy author hill illegal double muscle ramp achieve oblige rifle uphold";

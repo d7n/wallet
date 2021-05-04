@@ -1,1 +1,1 @@
-var mnemonic = "move index expand snow rely reopen uphold almost dwarf volcano course poet";
+var mnemonic = "ready sample spy turkey lottery whip sunny bronze divide keep coast drift";

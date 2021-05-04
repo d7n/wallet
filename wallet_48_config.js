@@ -1,1 +1,1 @@
-var mnemonic = "distance expose cousin ten impose royal argue lounge can fish lunar note";
+var mnemonic = "forest comic urban refuse moral extend catalog awake present indicate whisper mixed";

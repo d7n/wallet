@@ -1,1 +1,1 @@
-var mnemonic = "nation rack away course second seek vessel long walk neck stadium park";
+var mnemonic = "tree fit junior crazy speed floor tag stool school exotic hour depart";

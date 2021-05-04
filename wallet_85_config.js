@@ -1,1 +1,1 @@
-var mnemonic = "ceiling fence guitar edge dash vicious either mixture extra syrup day they";
+var mnemonic = "misery fix segment mimic smooth pave lunch canal maid devote material catalog";

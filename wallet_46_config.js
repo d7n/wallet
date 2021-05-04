@@ -1,1 +1,1 @@
-var mnemonic = "equal mention cage anger fix canal loud shiver end spin friend review";
+var mnemonic = "pull wink vanish jacket black alpha foster extra surprise enroll weasel wild";

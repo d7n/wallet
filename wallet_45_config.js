@@ -1,1 +1,1 @@
-var mnemonic = "pigeon want outside stereo asset pulp allow scare unique kit mother hello";
+var mnemonic = "brain patient hurt diet chuckle blossom hurdle slam obtain derive idle wool";

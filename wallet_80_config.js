@@ -1,1 +1,1 @@
-var mnemonic = "fabric core wink section initial tackle vintage dad credit olive sword very";
+var mnemonic = "eager stable mimic rail choose hidden mind frog attack gun original door";

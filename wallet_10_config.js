@@ -1,1 +1,1 @@
-var mnemonic = "pact wing stumble insect harsh spot stove desk ozone stock peace danger";
+var mnemonic = "board palm supply identify wrong purpose extra company skill myself clip clean";

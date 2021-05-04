@@ -1,1 +1,1 @@
-var mnemonic = "bundle machine slender problem cute thing submit protect iron phone hero online";
+var mnemonic = "best crouch liar soup sign rule lion violin west raise month pistol";

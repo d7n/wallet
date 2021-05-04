@@ -1,1 +1,1 @@
-var mnemonic = "relief skull fog position few mass sorry depart admit salad multiply march";
+var mnemonic = "draft endorse together violin flight exotic orchard vital toilet deer melt grunt";

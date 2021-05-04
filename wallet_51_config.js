@@ -1,1 +1,1 @@
-var mnemonic = "hazard false front surface budget boring office census exclude kidney patient want";
+var mnemonic = "pen keen worry direct trap topple february reason image will mom increase";

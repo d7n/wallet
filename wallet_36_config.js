@@ -1,1 +1,1 @@
-var mnemonic = "refuse vacant country dignity peasant crush fall toast civil engine rifle aisle";
+var mnemonic = "leaf daughter inquiry genuine weird cost reveal already feel home clerk abstract";

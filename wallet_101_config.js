@@ -1,1 +1,1 @@
-var mnemonic = "leisure vital zero tuna sketch rice they scale bright angle jelly shop";
+var mnemonic = "chunk increase sibling tortoise slim shift advance rather loan kingdom twin ten";

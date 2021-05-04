@@ -1,1 +1,1 @@
-var mnemonic = "east novel dinosaur tape wrist father hole solution sword occur govern diet";
+var mnemonic = "real fury between display mail hungry card upon immense chair frown isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "circle wish fire firm response clarify two stairs blood apart chest require";
+var mnemonic = "report ramp fee family already guard sleep ankle derive mesh arctic toss";

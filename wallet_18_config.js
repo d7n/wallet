@@ -1,1 +1,1 @@
-var mnemonic = "current bounce dutch weird rifle tomato situate office super glance style sort";
+var mnemonic = "female only have finish month head sad layer team traffic amused allow";

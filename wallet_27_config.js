@@ -1,1 +1,1 @@
-var mnemonic = "copy gasp frown fossil suspect culture human record rifle security struggle mandate";
+var mnemonic = "latin intact dance shadow artwork essay rocket rookie garment involve winner fringe";

@@ -1,1 +1,1 @@
-var mnemonic = "position common whisper end hand nasty misery crouch pupil second obtain vicious";
+var mnemonic = "keep stamp during digital radar actress utility anxiety lake either hero until";

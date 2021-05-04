@@ -1,1 +1,1 @@
-var mnemonic = "heart narrow extra edge bike among regular school response rate expect bachelor";
+var mnemonic = "short trade sound rail blue asset husband share stone music dumb poverty";

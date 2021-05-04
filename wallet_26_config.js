@@ -1,1 +1,1 @@
-var mnemonic = "latin timber catch rebuild begin talk will refuse actress subject promote bar";
+var mnemonic = "fresh tunnel knock boss diamond vague tongue obtain effort foam body try";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare dune actress attract surprise carpet loud settle faculty dust vapor burger";
+var mnemonic = "cool burst employ valve sport home tag point rocket assault riot rival";

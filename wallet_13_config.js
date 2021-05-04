@@ -1,1 +1,1 @@
-var mnemonic = "spring estate abstract grab right desert loop turn collect pig middle extend";
+var mnemonic = "clown tuition hero faint public south siren shrug hunt fluid human sorry";

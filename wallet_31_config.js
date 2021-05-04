@@ -1,1 +1,1 @@
-var mnemonic = "wisdom fragile obscure squirrel tennis census check around swallow vocal language garlic";
+var mnemonic = "struggle warfare grit blind sweet gift mean chief accident defy more auction";

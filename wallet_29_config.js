@@ -1,1 +1,1 @@
-var mnemonic = "reform rice vivid impulse matrix slight duck gauge style trumpet joke bundle";
+var mnemonic = "train trim account hawk price employ stumble raven relief verb brief ankle";

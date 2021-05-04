@@ -1,1 +1,1 @@
-var mnemonic = "refuse input clarify lab other human pen soon reward cute ill front";
+var mnemonic = "seat problem mutual split rural surface direct destroy rain client parrot horse";

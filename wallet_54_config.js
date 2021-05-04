@@ -1,1 +1,1 @@
-var mnemonic = "swear hamster vanish runway pepper beef humor update real develop rival question";
+var mnemonic = "myself save sauce giraffe ozone snap energy royal library obtain pen taste";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle element grief dilemma anxiety occur demand snap very sphere infant capital";
+var mnemonic = "clinic elegant entire eye side small doll recipe pony december add airport";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty human tomato combine camera food absurd license range save gift scheme";
+var mnemonic = "method hold price reflect recipe dinosaur improve banana decrease right stomach wing";

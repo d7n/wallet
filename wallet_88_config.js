@@ -1,1 +1,1 @@
-var mnemonic = "side ordinary book depth bunker gadget hungry angry wedding decade cook jelly";
+var mnemonic = "aerobic coffee sting flee two output admit spread piece voice pencil case";

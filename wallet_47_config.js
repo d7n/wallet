@@ -1,1 +1,1 @@
-var mnemonic = "clarify craft bench work asset fitness jar purse version decade mechanic bronze";
+var mnemonic = "possible pelican arena truth vendor access soft task tent truck erase satisfy";

@@ -1,1 +1,1 @@
-var mnemonic = "reduce absent all float area together dune spend purchase canvas meat amused";
+var mnemonic = "lawsuit right glow child wheat visa grow student either measure chalk miss";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy salt wonder goddess amazing vendor dress six arctic sort toe light";
+var mnemonic = "buyer buffalo palace tuition rubber rice almost poverty utility jeans wash milk";

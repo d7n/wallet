@@ -1,1 +1,1 @@
-var mnemonic = "oblige autumn promote organ beyond orbit hill glory utility glass castle maid";
+var mnemonic = "water rural prize dutch naive anxiety demise clutch relief employ receive bounce";

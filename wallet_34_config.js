@@ -1,1 +1,1 @@
-var mnemonic = "title tunnel ring drip mushroom morning pyramid powder dry breeze thought between";
+var mnemonic = "fancy alcohol flower unfold warm put census proud artist true rocket corn";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk depth word save main own raven denial because neither damage glide";
+var mnemonic = "desert kick any pride fringe bacon dial dragon tortoise stumble shrimp assist";

@@ -1,1 +1,1 @@
-var mnemonic = "label lady amazing milk island mansion economy aisle blur impact sick federal";
+var mnemonic = "giant attract dignity prepare velvet gain liberty arch spirit youth genuine certain";

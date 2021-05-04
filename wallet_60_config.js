@@ -1,1 +1,1 @@
-var mnemonic = "essence turkey device vapor reject youth level gadget cereal broccoli silver garden";
+var mnemonic = "region eternal pact dash online alarm carpet coast current prize way air";

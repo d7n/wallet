@@ -1,1 +1,1 @@
-var mnemonic = "prison size decade already couch cream offer switch jelly dumb property venue";
+var mnemonic = "blue case crane deal auto crack stool involve process minimum chest vessel";

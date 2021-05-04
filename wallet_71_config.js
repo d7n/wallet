@@ -1,1 +1,1 @@
-var mnemonic = "nephew elevator cute clutch result book earn grid brand first electric build";
+var mnemonic = "churn double tennis used guilt outside diary term truth foam produce swift";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp dream involve broom suit witness desert twice impact avocado keep van";
+var mnemonic = "girl attract novel extend you miss civil dance grant awesome radar goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm move shuffle tone early dream glance orchard ethics glimpse pet mass";
+var mnemonic = "rack tenant assault cycle isolate gate lava kid stuff reduce snack acid";

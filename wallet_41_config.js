@@ -1,1 +1,1 @@
-var mnemonic = "doctor regret code account ozone argue filter walk duck lawn save relax";
+var mnemonic = "zoo photo saddle admit circle faculty lobster endorse crouch struggle bamboo spin";

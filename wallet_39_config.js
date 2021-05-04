@@ -1,1 +1,1 @@
-var mnemonic = "armor have pause select message cruise beach hat express choice copper once";
+var mnemonic = "occur winner convince happy interest dignity museum endorse enrich spider course saddle";

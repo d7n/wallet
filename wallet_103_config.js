@@ -1,1 +1,1 @@
-var mnemonic = "display twice quality believe course arm permit sweet retreat detect off praise";
+var mnemonic = "interest bus shiver magic mention lonely staff believe girl carbon primary network";

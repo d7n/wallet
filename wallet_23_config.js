@@ -1,1 +1,1 @@
-var mnemonic = "neck stock stick steak banner fun phrase truck slam zone cherry result";
+var mnemonic = "square sick outdoor globe twice level often aunt embark curve require crawl";

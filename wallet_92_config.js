@@ -1,1 +1,1 @@
-var mnemonic = "decline thunder creek thunder solid robust foam sword hollow twin document announce";
+var mnemonic = "feel wall slogan luggage rabbit fan tattoo museum service space hospital defy";

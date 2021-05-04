@@ -1,1 +1,1 @@
-var mnemonic = "welcome crunch talk decline exercise comfort border mother border script suggest age";
+var mnemonic = "life twenty tongue lady blush flag gentle decline alert regret dizzy edge";

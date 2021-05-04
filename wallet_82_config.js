@@ -1,1 +1,1 @@
-var mnemonic = "legal idea frequent thing early mammal torch face strategy novel use round";
+var mnemonic = "motor fame describe useless diesel weapon leopard ride build eagle cable solution";

@@ -1,1 +1,1 @@
-var mnemonic = "retreat neck lottery forward matrix include nose emotion universe fit truck audit";
+var mnemonic = "hotel only sail rack before rice manage chapter wall risk crunch credit";

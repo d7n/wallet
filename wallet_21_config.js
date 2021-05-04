@@ -1,1 +1,1 @@
-var mnemonic = "sheriff crater unit logic plunge jaguar burger front army eternal menu dawn";
+var mnemonic = "arrow elder impulse swarm order february portion hazard huge say silk regular";

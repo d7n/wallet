@@ -1,1 +1,1 @@
-var mnemonic = "budget horn nephew era choose frame lamp exit prison improve canvas dizzy";
+var mnemonic = "unaware faith clump anger derive empty order crisp hip moral bulb addict";

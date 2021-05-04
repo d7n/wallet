@@ -1,1 +1,1 @@
-var mnemonic = "draft tell potato lava buzz hire develop illegal coach else panther three";
+var mnemonic = "boss owner region muscle toddler million reject razor ginger property relief best";

@@ -1,1 +1,1 @@
-var mnemonic = "flock absorb predict glance spend note melody leg science brief glide chunk";
+var mnemonic = "clock transfer agent basic asset marine unfold bulk bubble squeeze moon silent";

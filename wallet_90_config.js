@@ -1,1 +1,1 @@
-var mnemonic = "hub hold start rare law finish kid eyebrow purchase problem base satisfy";
+var mnemonic = "frog mesh myself ecology left pole hub select noise orbit fault vast";

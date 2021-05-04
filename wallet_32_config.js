@@ -1,1 +1,1 @@
-var mnemonic = "guide solid cricket fresh negative under style radio dose cry kind injury";
+var mnemonic = "bachelor vague noodle nephew home minimum deal radar force trip jar spare";

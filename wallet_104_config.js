@@ -1,1 +1,1 @@
-var mnemonic = "during subway harsh task candy neck prepare subject fit surface prepare grass";
+var mnemonic = "design between mobile catalog ecology mind junior demise fix dwarf baby amateur";

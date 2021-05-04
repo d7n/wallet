@@ -1,1 +1,1 @@
-var mnemonic = "chunk mistake that draft blossom civil boy daughter million run heart coral";
+var mnemonic = "orange autumn diamond lamp orphan drastic join zoo omit file cave double";

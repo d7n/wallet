@@ -1,1 +1,1 @@
-var mnemonic = "cotton famous faint provide squirrel ripple hub dismiss cheese crowd twin settle";
+var mnemonic = "zone wealth seminar garage window harbor funny praise option code inject carpet";

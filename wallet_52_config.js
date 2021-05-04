@@ -1,1 +1,1 @@
-var mnemonic = "monster home tattoo mesh piano lamp arrest captain face ancient taste frog";
+var mnemonic = "erase avocado quit spread critic floor assault below vanish body soldier similar";

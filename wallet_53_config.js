@@ -1,1 +1,1 @@
-var mnemonic = "oven swim record maximum spare give category palace bulk laundry mountain knife";
+var mnemonic = "muscle carry vacuum nasty option oppose trophy annual whisper amateur engine category";

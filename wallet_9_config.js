@@ -1,1 +1,1 @@
-var mnemonic = "valid elder badge cradle disease eternal warrior wash knife village this palm";
+var mnemonic = "alone choose chief cigar glass loan blanket estate polar couple barely few";

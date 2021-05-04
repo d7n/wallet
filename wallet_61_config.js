@@ -1,1 +1,1 @@
-var mnemonic = "bulb typical life foot future lizard what liberty rescue enforce monitor cloth";
+var mnemonic = "saddle grab jaguar smooth during mercy exhibit love all rifle blanket tail";
