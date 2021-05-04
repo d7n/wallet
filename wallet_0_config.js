@@ -1,1 +1,1 @@
-var mnemonic = "actress about embark maximum edge coral wrestle tray idea broken arrow olive";
+var mnemonic = "uniform trumpet size rival kingdom remember admit tonight post bicycle unlock merge";

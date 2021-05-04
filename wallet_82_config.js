@@ -1,1 +1,1 @@
-var mnemonic = "traffic torch sick phrase month embrace vibrant civil unaware actual chair museum";
+var mnemonic = "sing security giant lottery skill useless gown age frozen nasty invite into";

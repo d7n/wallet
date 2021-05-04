@@ -1,1 +1,1 @@
-var mnemonic = "artwork junk pond street effort radio exile monitor donor subject basic remember";
+var mnemonic = "acquire thank tell human east child bus liar wear utility secret galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "cream menu pact pipe piano trust gloom march donor glow gap snack";
+var mnemonic = "laptop rail cabbage head survey bread holiday acquire resemble flavor baby sauce";

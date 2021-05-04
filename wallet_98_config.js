@@ -1,1 +1,1 @@
-var mnemonic = "library reward road scale loan cattle dress anchor finish scorpion install dismiss";
+var mnemonic = "hub kiss man melt taxi stomach purchase invite rare please electric sister";

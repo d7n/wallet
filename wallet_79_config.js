@@ -1,1 +1,1 @@
-var mnemonic = "disorder panic allow beauty few harvest vault awkward street arrest bottom nice";
+var mnemonic = "defense ridge laptop boost hold hollow angle ozone consider raw such remind";

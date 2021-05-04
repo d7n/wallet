@@ -1,1 +1,1 @@
-var mnemonic = "clap custom bench add spring night damage shadow dish toe involve shock";
+var mnemonic = "bounce fine monitor town fantasy depth rice kitten artist goddess capable wood";

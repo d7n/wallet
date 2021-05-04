@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon alter ladder dial east help isolate fix midnight horse rally rich";
+var mnemonic = "umbrella wrong leave coin blush vast couch innocent find labor smart fragile";

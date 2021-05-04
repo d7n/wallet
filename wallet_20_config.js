@@ -1,1 +1,1 @@
-var mnemonic = "wild knife plug demise century polar tobacco plate video assume enable turtle";
+var mnemonic = "damp scrub hard divert width talk income second melt boost luggage fantasy";

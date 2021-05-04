@@ -1,1 +1,1 @@
-var mnemonic = "surprise text address snack panel rotate way elite best creek define pilot";
+var mnemonic = "pact shield patch liquid sphere neck convince garbage vendor kid joke blood";

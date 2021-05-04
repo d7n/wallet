@@ -1,1 +1,1 @@
-var mnemonic = "move valve gown boring neutral shine original spider congress because avocado aisle";
+var mnemonic = "endless peasant evoke great copper accident public parent surround injury tornado cloth";

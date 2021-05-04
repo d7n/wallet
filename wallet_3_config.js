@@ -1,1 +1,1 @@
-var mnemonic = "element icon soul amateur unfold camp parrot friend bomb interest second upset";
+var mnemonic = "hobby combine oval nurse mandate assist duck aisle crucial just this regret";

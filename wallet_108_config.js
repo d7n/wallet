@@ -1,1 +1,1 @@
-var mnemonic = "party tomato bike inherit bacon federal wing quiz coach kit parade more";
+var mnemonic = "attend despair boil goat level cart disorder draw problem family crater reduce";

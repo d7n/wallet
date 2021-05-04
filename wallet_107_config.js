@@ -1,1 +1,1 @@
-var mnemonic = "blouse image follow distance power bench lion garlic genius athlete energy rabbit";
+var mnemonic = "syrup scorpion job age faint mistake shield cross jealous gain lawsuit cup";

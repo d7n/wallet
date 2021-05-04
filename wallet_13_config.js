@@ -1,1 +1,1 @@
-var mnemonic = "quit bird vicious vanish family dirt hero frequent scrub theory love jar";
+var mnemonic = "subject second total film patch learn spider citizen rose cigar prison tell";

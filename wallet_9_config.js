@@ -1,1 +1,1 @@
-var mnemonic = "sadness certain fantasy entry salt point index upper laugh unable route monkey";
+var mnemonic = "pool fruit bracket puppy egg little street pizza already what orient unfair";

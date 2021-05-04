@@ -1,1 +1,1 @@
-var mnemonic = "hurt boy pupil almost slide gorilla sand venue school satoshi toss sorry";
+var mnemonic = "brown favorite peasant spend visit rival genius main yellow second average glove";

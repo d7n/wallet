@@ -1,1 +1,1 @@
-var mnemonic = "theory gauge rule observe rail recycle perfect collect matter skull main myth";
+var mnemonic = "warfare fresh nut jeans proud thunder country loop cheese enough salt demand";

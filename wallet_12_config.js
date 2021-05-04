@@ -1,1 +1,1 @@
-var mnemonic = "sleep notice like coast arm toy accuse begin bottom certain measure hood";
+var mnemonic = "firm brave about squeeze differ dentist right ensure aunt dial grow goose";

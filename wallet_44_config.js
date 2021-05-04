@@ -1,1 +1,1 @@
-var mnemonic = "slow monkey elephant siege eye predict defense scissors during bamboo marble during";
+var mnemonic = "retreat lonely lion maze adult case rebuild envelope solve hobby also exhaust";

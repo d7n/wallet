@@ -1,1 +1,1 @@
-var mnemonic = "change entry spoil rather lab delay van hero crowd return shop panther";
+var mnemonic = "tissue category girl grief quality scrap dumb tissue apology decline model river";

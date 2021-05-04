@@ -1,1 +1,1 @@
-var mnemonic = "antenna rookie pioneer silver short ring sweet unfair sudden enemy sponsor adult";
+var mnemonic = "popular pizza spray giggle unique luggage million crime collect undo derive when";

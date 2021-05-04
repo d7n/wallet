@@ -1,1 +1,1 @@
-var mnemonic = "affair able toilet start treat tennis school vivid near fold card panther";
+var mnemonic = "lock bless quote cereal comfort theme soldier bright muscle carpet usage chunk";

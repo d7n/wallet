@@ -1,1 +1,1 @@
-var mnemonic = "scrub smooth below slogan limb squirrel gadget tank balcony toe clay fruit";
+var mnemonic = "into unit warm orphan element stamp catalog shift tissue proof mule design";

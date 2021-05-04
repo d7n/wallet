@@ -1,1 +1,1 @@
-var mnemonic = "warrior gift coin reduce hawk token friend doctor ramp zebra margin pitch";
+var mnemonic = "mutual humor penalty call festival turtle inquiry phone alien horn fox boring";

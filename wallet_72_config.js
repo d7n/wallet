@@ -1,1 +1,1 @@
-var mnemonic = "ball slim lawsuit legal fancy interest become actual inject main quick fault";
+var mnemonic = "cross give alert unveil assault poverty outdoor number ahead victory table swamp";

@@ -1,1 +1,1 @@
-var mnemonic = "swift october skull space raise elevator various attend pet another master foot";
+var mnemonic = "angle gun cannon educate creek tooth short smoke gain pretty fluid fog";

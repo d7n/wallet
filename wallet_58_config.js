@@ -1,1 +1,1 @@
-var mnemonic = "fragile flag rookie model elephant tuition mixed flat adjust sheriff wish language";
+var mnemonic = "deliver rail marble remain glory scatter toe romance absorb horn phone frozen";

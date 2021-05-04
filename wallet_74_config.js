@@ -1,1 +1,1 @@
-var mnemonic = "quality famous clarify nuclear manual fan gentle pilot debate search opinion term";
+var mnemonic = "lion volcano swing sustain ride rely concert grunt rally code mad found";

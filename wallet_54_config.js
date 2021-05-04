@@ -1,1 +1,1 @@
-var mnemonic = "pole cement ride staff staff master age evil dynamic tiny inside movie";
+var mnemonic = "silent river sad mention type debate jacket gospel either permit today reject";

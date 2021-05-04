@@ -1,1 +1,1 @@
-var mnemonic = "job fault elevator galaxy charge device fossil episode banana key rural bamboo";
+var mnemonic = "flag letter dolphin vibrant scrap alone window mixture company valve public mule";

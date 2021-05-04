@@ -1,1 +1,1 @@
-var mnemonic = "icon spring love pen piano anger parent chicken story fringe agree episode";
+var mnemonic = "horn slot fashion wine athlete crumble frame normal alert model thrive allow";

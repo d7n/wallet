@@ -1,1 +1,1 @@
-var mnemonic = "clutch say evoke step garlic tomato shine guitar bulb business enjoy elephant";
+var mnemonic = "reunion patient gaze chat maple broccoli oppose common dish chef salon people";

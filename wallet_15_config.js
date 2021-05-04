@@ -1,1 +1,1 @@
-var mnemonic = "rescue alone organ auction prison leave unknown share dash tunnel donor improve";
+var mnemonic = "organ army pink unlock medal hip convince write hope denial bean limb";

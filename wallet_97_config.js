@@ -1,1 +1,1 @@
-var mnemonic = "adapt obvious certain board elephant aunt torch blind trial install firm december";
+var mnemonic = "snack surge unit shuffle gauge tiger proof gift rigid service elegant hunt";

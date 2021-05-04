@@ -1,1 +1,1 @@
-var mnemonic = "sweet area cruise must art gauge brick tornado deputy rent glimpse number";
+var mnemonic = "indicate entry still mimic airport hat basic grape smile junior garden until";

@@ -1,1 +1,1 @@
-var mnemonic = "patch exchange inch cry come federal journey deputy legal dignity city lawn";
+var mnemonic = "urban kick month inner flavor mouse dry slim clinic record exact orange";

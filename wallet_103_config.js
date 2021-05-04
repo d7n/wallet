@@ -1,1 +1,1 @@
-var mnemonic = "shy ancient wise pill help property health amazing gain fix mirror stairs";
+var mnemonic = "horse subway hour gold skirt puppy patrol dolphin rough pass dose scout";

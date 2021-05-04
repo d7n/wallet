@@ -1,1 +1,1 @@
-var mnemonic = "debris torch effort pistol fabric arm comic okay one bounce clog series";
+var mnemonic = "night expand pool tone utility spatial fold brick chimney apology reject hero";

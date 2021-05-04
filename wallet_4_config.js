@@ -1,1 +1,1 @@
-var mnemonic = "found mansion pledge depth betray innocent pitch script gorilla embrace loud hungry";
+var mnemonic = "pulse swap charge lounge dad couch minute horror team riot laptop where";

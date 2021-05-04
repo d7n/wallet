@@ -1,1 +1,1 @@
-var mnemonic = "body village frequent adapt clinic october cabbage disorder rotate traffic sheriff emotion";
+var mnemonic = "wash lobster clock atom shift sunny access vessel quick palm decide reason";

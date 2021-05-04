@@ -1,1 +1,1 @@
-var mnemonic = "walk planet sorry output debate book parent afford island cycle panther erase";
+var mnemonic = "fat pattern image educate label sick program hire cake harbor gesture trumpet";

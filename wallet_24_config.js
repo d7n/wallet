@@ -1,1 +1,1 @@
-var mnemonic = "tell buyer glow lumber absorb nest rabbit come discover drift indicate guard";
+var mnemonic = "forward surface silly surge then spirit sure nest episode vibrant exist unfold";

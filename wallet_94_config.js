@@ -1,1 +1,1 @@
-var mnemonic = "usual rich brush play borrow never staff myth summer face donkey rely";
+var mnemonic = "hungry cereal garage nut suit skin upon upon torch swift already speed";

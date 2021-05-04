@@ -1,1 +1,1 @@
-var mnemonic = "shield estate fatal gap crane cube urge climb base record oil evidence";
+var mnemonic = "copper win car game view inch sentence scheme double afford combine toast";

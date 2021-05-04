@@ -1,1 +1,1 @@
-var mnemonic = "arch cushion sentence power garden grace lemon credit income energy spring river";
+var mnemonic = "mechanic cheese coach canoe draw leopard power catalog grab awesome blast enable";

@@ -1,1 +1,1 @@
-var mnemonic = "lamp try run champion explain decline caught modify pledge type spirit escape";
+var mnemonic = "toward alter olympic glass sick unaware head crawl office decide fine sand";

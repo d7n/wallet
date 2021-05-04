@@ -1,1 +1,1 @@
-var mnemonic = "sponsor flush recycle point resist useless above rib learn orange actress topple";
+var mnemonic = "ankle submit more ring craft hill banner involve nothing report pioneer drastic";

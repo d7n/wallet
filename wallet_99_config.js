@@ -1,1 +1,1 @@
-var mnemonic = "alcohol space picture cake fancy lamp brown half subject bird fatal abuse";
+var mnemonic = "common quote style winner raise talk apple west volcano artwork swing bounce";

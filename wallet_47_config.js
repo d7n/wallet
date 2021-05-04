@@ -1,1 +1,1 @@
-var mnemonic = "oak tragic beauty barely shrug library crop ecology title rate divide plug";
+var mnemonic = "decorate cluster machine misery dial fetch find thought volcano various noble orbit";

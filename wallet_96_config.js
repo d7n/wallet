@@ -1,1 +1,1 @@
-var mnemonic = "nurse junk horror endless drama suffer inside cruise civil portion caution amount";
+var mnemonic = "thunder ridge leader glare inner exile electric initial wheat beach equal cage";

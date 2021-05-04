@@ -1,1 +1,1 @@
-var mnemonic = "blade derive conduct laptop goddess practice slim steak duty outer damage increase";
+var mnemonic = "foster acquire alpha cream oppose soft escape oxygen memory harbor elite position";

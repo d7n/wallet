@@ -1,1 +1,1 @@
-var mnemonic = "spray shuffle artwork oxygen abstract lunar subway trash chapter fog round inmate";
+var mnemonic = "voice army flip pipe dry okay music worth voyage arrange dawn color";

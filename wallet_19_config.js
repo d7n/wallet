@@ -1,1 +1,1 @@
-var mnemonic = "type service penalty frozen exchange turn panel suit permit close safe napkin";
+var mnemonic = "model athlete repeat tooth trap feature bird napkin clutch title meadow rug";

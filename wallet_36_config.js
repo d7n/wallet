@@ -1,1 +1,1 @@
-var mnemonic = "open dry assault taste bind benefit hungry home evoke charge repair build";
+var mnemonic = "voyage planet nature smooth avocado crop obtain student hawk outside know observe";

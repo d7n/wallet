@@ -1,1 +1,1 @@
-var mnemonic = "smart evil piano flame bless story crime warfare about derive belt idle";
+var mnemonic = "lens paddle vague trash spend valid bomb beauty tomato pole deny grape";

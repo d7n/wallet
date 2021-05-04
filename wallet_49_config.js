@@ -1,1 +1,1 @@
-var mnemonic = "parrot ridge danger cluster inside ghost bid harvest network march outer session";
+var mnemonic = "situate vendor cliff fish spirit long deposit pretty narrow tuna fatal grab";

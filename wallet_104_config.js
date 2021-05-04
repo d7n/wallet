@@ -1,1 +1,1 @@
-var mnemonic = "expand pitch thing huge sign harvest notice shy profit exist hello vital";
+var mnemonic = "category goose possible divert clog banner behind palm draft whisper super magic";

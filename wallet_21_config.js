@@ -1,1 +1,1 @@
-var mnemonic = "symptom history degree piece put brief hobby school hero vast tower keep";
+var mnemonic = "impose basket step drill gas similar prefer food dress point arm menu";

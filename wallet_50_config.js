@@ -1,1 +1,1 @@
-var mnemonic = "mom invest exclude zero ship riot shallow joke canyon ecology round enlist";
+var mnemonic = "cruel lyrics reject reward science cause attend escape siren ethics erode body";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore federal radar flame oven impose robot tuna between gospel shrug enhance";
+var mnemonic = "silent foil abstract october fuel lecture west over mammal view add chimney";

@@ -1,1 +1,1 @@
-var mnemonic = "total owner turtle rough dinner runway indoor siege swift mom battle carry";
+var mnemonic = "submit over useful gown guilt alter fossil knock humor swim retire balance";

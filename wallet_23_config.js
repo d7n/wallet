@@ -1,1 +1,1 @@
-var mnemonic = "deliver recycle crew detail unique paddle cactus local peasant raw twenty pet";
+var mnemonic = "exile powder toss diary found arrive fog shine use decade forest genre";

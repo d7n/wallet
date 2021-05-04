@@ -1,1 +1,1 @@
-var mnemonic = "canyon answer cherry mail jaguar injury tennis recycle skirt tumble laugh feature";
+var mnemonic = "note diamond alter purity cave amount lion horror fever route kit injury";

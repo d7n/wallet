@@ -1,1 +1,1 @@
-var mnemonic = "vague puppy like chronic height people east biology park dream fruit surround";
+var mnemonic = "health today letter alley balcony impulse end yard occur detail side ancient";

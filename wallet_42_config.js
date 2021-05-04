@@ -1,1 +1,1 @@
-var mnemonic = "century winner abandon blush once topic tube blanket rain achieve slow defy";
+var mnemonic = "derive between team office busy now weekend craft novel math hungry paddle";

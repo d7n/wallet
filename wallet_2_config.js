@@ -1,1 +1,1 @@
-var mnemonic = "unaware exchange vault where remember fragile ethics weird rebuild assume photo logic";
+var mnemonic = "hood trial quantum suggest infant volume gentle venue maximum critic rule dragon";

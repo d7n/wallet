@@ -1,1 +1,1 @@
-var mnemonic = "spatial knife person adapt west design grape sell inmate field glory poem";
+var mnemonic = "year giggle gaze until wine neither degree twenty believe talk will worry";

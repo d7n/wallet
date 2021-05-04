@@ -1,1 +1,1 @@
-var mnemonic = "sister opinion way cover vanish useful harvest eight glare pole gather hard";
+var mnemonic = "cloud snake tooth rabbit cheese same crater library sweet man book require";

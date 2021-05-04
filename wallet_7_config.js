@@ -1,1 +1,1 @@
-var mnemonic = "absent torch gaze cousin private asthma intact defy olympic bring can knee";
+var mnemonic = "olive uncover master tumble almost believe crane oak clean keep distance leave";

@@ -1,1 +1,1 @@
-var mnemonic = "increase dwarf visit eye legend palm sauce winner female know proud all";
+var mnemonic = "fun regret patient major weather key sheriff april tank rotate six inflict";

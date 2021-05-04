@@ -1,1 +1,1 @@
-var mnemonic = "name judge mass guess rely orient fantasy use lab naive mask roof";
+var mnemonic = "denial onion wall course kitchen east legend fragile motion grow jealous bargain";

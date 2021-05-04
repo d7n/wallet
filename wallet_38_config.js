@@ -1,1 +1,1 @@
-var mnemonic = "consider park broccoli injury put immune mercy shoe dignity basic answer response";
+var mnemonic = "card bicycle crack copper senior cargo recycle embark account behind planet stumble";

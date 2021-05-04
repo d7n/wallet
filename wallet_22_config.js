@@ -1,1 +1,1 @@
-var mnemonic = "margin guitar oil increase inform warm inspire cloth live deny safe father";
+var mnemonic = "surround dance grief axis someone calm enter stable purchase poet tunnel pull";

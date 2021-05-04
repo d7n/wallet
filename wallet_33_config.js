@@ -1,1 +1,1 @@
-var mnemonic = "polar vintage room slender boil save name govern salmon trophy immune hidden";
+var mnemonic = "board mistake during job egg despair brief whisper curtain below hood text";

@@ -1,1 +1,1 @@
-var mnemonic = "pink phrase coin juice front label poem spray dinner drive phrase sleep";
+var mnemonic = "visual bench bench want bamboo desert remove sweet hole enable make snow";

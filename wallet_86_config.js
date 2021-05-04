@@ -1,1 +1,1 @@
-var mnemonic = "soon item arrest zebra achieve moral pause glimpse bag skirt ability elite";
+var mnemonic = "pool option worry captain cousin total jewel piano quarter venue involve notice";

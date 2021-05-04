@@ -1,1 +1,1 @@
-var mnemonic = "review stick worth dream permit fabric whip stage trap annual grass innocent";
+var mnemonic = "tool eight pitch resource use parade glue also lion state odor crisp";

@@ -1,1 +1,1 @@
-var mnemonic = "car disagree labor try chunk wonder another steak hedgehog hazard animal bean";
+var mnemonic = "lounge tail trouble shock hour extra dismiss pond sure grief lend upset";

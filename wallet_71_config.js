@@ -1,1 +1,1 @@
-var mnemonic = "pyramid crack clown phone wrap rescue sunny rent chunk govern couch easily";
+var mnemonic = "spend drastic parent sure only shove document artist reopen fish present warrior";

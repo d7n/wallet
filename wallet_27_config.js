@@ -1,1 +1,1 @@
-var mnemonic = "kite page token camera teach nasty name tribe happy unveil parent refuse";
+var mnemonic = "bunker retreat south border throw top tide much hurt neutral awake anxiety";

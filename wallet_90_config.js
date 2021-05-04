@@ -1,1 +1,1 @@
-var mnemonic = "vicious song decorate sketch wife walnut duty exact patrol section sting cook";
+var mnemonic = "mutual sample bench faith all lonely robot settle patrol badge swing raw";

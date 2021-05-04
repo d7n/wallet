@@ -1,1 +1,1 @@
-var mnemonic = "garage chest rail demand picture bone bomb loyal minute truck recycle virtual";
+var mnemonic = "into blur school dream title decade best spray dice wet mobile turtle";

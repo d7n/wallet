@@ -1,1 +1,1 @@
-var mnemonic = "cargo various mention beyond online rocket hedgehog foil rent poem claw mosquito";
+var mnemonic = "remember express effort bacon dish parrot glory raccoon palm shrimp actor bike";

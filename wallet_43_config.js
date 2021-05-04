@@ -1,1 +1,1 @@
-var mnemonic = "drama shuffle scatter tube aunt caution pupil van lunar gauge tail index";
+var mnemonic = "finish dance estate distance general swap disease game stuff winner gesture detail";

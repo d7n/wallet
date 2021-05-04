@@ -1,1 +1,1 @@
-var mnemonic = "civil degree away oil love bright gap glow despair then demise trim";
+var mnemonic = "sudden cannon harsh blind elbow impact wrestle bus boat fashion canoe social";

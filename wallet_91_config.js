@@ -1,1 +1,1 @@
-var mnemonic = "window crowd nice minor junk home melody discover unveil angle near liquid";
+var mnemonic = "title mimic valve transfer wine improve actual tube web gorilla song student";

@@ -1,1 +1,1 @@
-var mnemonic = "busy latin team prevent panel erase reduce boil episode alley tenant audit";
+var mnemonic = "eagle child online jacket reform suggest toilet critic mention genre purchase essence";

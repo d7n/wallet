@@ -1,1 +1,1 @@
-var mnemonic = "limb cook maple slush life lunar comic meadow trial fancy session loop";
+var mnemonic = "virus million vocal endorse night mechanic dirt rate lunar rebuild glove truck";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware civil harbor manual craft champion fancy delay engage exhibit apart tribe";
+var mnemonic = "cactus among ranch office upon eight board language miracle hurdle romance occur";
