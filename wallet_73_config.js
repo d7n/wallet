@@ -1,1 +1,1 @@
-var mnemonic = "reward burst frost spoil paddle kangaroo ill crime sting jump sponsor pact";
+var mnemonic = "dust ridge real income warrior hidden foot drill stage task surface seven";

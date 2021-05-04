@@ -1,1 +1,1 @@
-var mnemonic = "must learn flame nephew police scissors another tank jacket reopen evidence senior";
+var mnemonic = "explain worth actor desert clap mistake answer inmate dream sort maple shadow";

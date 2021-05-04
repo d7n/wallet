@@ -1,1 +1,1 @@
-var mnemonic = "inspire shoe despair snap lyrics frog innocent puzzle certain pupil crouch distance";
+var mnemonic = "rubber mobile broom idea left behind size elegant scorpion depend minimum ginger";

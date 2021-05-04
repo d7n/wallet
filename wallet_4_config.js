@@ -1,1 +1,1 @@
-var mnemonic = "renew bean future tribe affair polar suit fossil daughter achieve home physical";
+var mnemonic = "nominee reunion banana click winter verb anxiety vast will crash lobster album";

@@ -1,1 +1,1 @@
-var mnemonic = "engine endorse seek health spoon mechanic sponsor net art speak cake approve";
+var mnemonic = "crouch leave desert velvet vital good fringe monster village code evolve walk";

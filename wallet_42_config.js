@@ -1,1 +1,1 @@
-var mnemonic = "garment inch clump mercy stone rose clever album pudding icon wealth meat";
+var mnemonic = "peasant marble leg card inject bean dinosaur universe slush diary this faint";

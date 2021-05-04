@@ -1,1 +1,1 @@
-var mnemonic = "wheat direct seed address large page kitten level hope sniff jeans bonus";
+var mnemonic = "romance bless pass borrow useful away kangaroo calm sustain clay atom few";

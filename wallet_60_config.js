@@ -1,1 +1,1 @@
-var mnemonic = "sustain mercy toe lobster face leg void gravity spike game wool lunar";
+var mnemonic = "tool remove any middle voice arctic rather barely gravity orchard icon erase";

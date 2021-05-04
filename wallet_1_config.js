@@ -1,1 +1,1 @@
-var mnemonic = "title stairs stairs toilet pistol rough brother filter deer ten prefer ribbon";
+var mnemonic = "claw entry chef sting celery thunder almost predict deny seven team defense";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid insect harvest fit ensure boy enforce moment era toddler ticket salt";
+var mnemonic = "frequent glass culture simple apology divorce sunset income section space young engage";

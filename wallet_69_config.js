@@ -1,1 +1,1 @@
-var mnemonic = "label sunset social ghost salute such climb almost fish hold moon length";
+var mnemonic = "olive west cement panic weapon rib task lunar knee kick summer toast";

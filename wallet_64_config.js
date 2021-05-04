@@ -1,1 +1,1 @@
-var mnemonic = "bonus movie derive neither neutral jewel ivory lake diagram cheese winter idle";
+var mnemonic = "cat fresh transfer armor enhance casino math finger like genre faith aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "cash consider bar install course aisle path item maze volcano rebuild voice";
+var mnemonic = "decline spider order island firm midnight suffer drive number among cry stool";

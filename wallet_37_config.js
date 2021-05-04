@@ -1,1 +1,1 @@
-var mnemonic = "silent exotic duck reason hour lava roast mechanic borrow stadium leave hint";
+var mnemonic = "lonely decade behind cake resemble nominee smooth fluid pink primary castle lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose tape essay column loyal wash group tray umbrella unlock wool inch";
+var mnemonic = "popular news spread odor laundry tired wall assist document immense cousin spring";

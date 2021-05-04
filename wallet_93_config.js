@@ -1,1 +1,1 @@
-var mnemonic = "only judge few rocket glad above camp describe fortune fox board gather";
+var mnemonic = "artist donate repeat coast nurse unhappy region push mask absent race later";

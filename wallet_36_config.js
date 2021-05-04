@@ -1,1 +1,1 @@
-var mnemonic = "erosion they brush shy genius drastic dignity when rebuild able cricket moment";
+var mnemonic = "impulse maple husband rate light story humor glue squeeze choice lawn input";

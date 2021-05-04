@@ -1,1 +1,1 @@
-var mnemonic = "now angle mad already say lobster sock excess witness tube baby stove";
+var mnemonic = "bracket swim urge snow balcony case poet arm token hungry wisdom weapon";

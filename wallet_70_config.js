@@ -1,1 +1,1 @@
-var mnemonic = "caution senior future virtual result assume pottery cloth blue arena grow antenna";
+var mnemonic = "fossil wife describe enlist tattoo legend trick witness faith spray senior south";

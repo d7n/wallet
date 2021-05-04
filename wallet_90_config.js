@@ -1,1 +1,1 @@
-var mnemonic = "scissors expose salute drastic language artefact token eternal cherry gauge true this";
+var mnemonic = "update narrow east sentence rug old stable perfect change position begin panther";

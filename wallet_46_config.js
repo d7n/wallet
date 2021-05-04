@@ -1,1 +1,1 @@
-var mnemonic = "grape outdoor tilt alter chef kick lamp receive deliver gesture tobacco require";
+var mnemonic = "gain aerobic talent rotate foil inquiry bright orchard shoot fall pool embrace";

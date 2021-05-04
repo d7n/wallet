@@ -1,1 +1,1 @@
-var mnemonic = "network salt keep mean wasp empty armor asset melt glide magic twice";
+var mnemonic = "sail describe seven twice essay organ glimpse cheap trouble write enemy kind";

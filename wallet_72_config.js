@@ -1,1 +1,1 @@
-var mnemonic = "squirrel guitar gallery chef found option quiz spike loyal melt fitness change";
+var mnemonic = "taste atom narrow aspect about radar wall share best foil physical knee";

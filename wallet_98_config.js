@@ -1,1 +1,1 @@
-var mnemonic = "vendor night patch defy vanish antenna gun battle embrace person mouse immense";
+var mnemonic = "escape later average fan oxygen tired drift seminar thrive heavy broken math";

@@ -1,1 +1,1 @@
-var mnemonic = "afford dust magic tuition upon various upgrade devote nice observe hungry armor";
+var mnemonic = "resemble present wisdom gate anxiety sibling cave funny tuna power couple quality";

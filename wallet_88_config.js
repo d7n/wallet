@@ -1,1 +1,1 @@
-var mnemonic = "unusual angry judge barely buyer grief mutual grunt outside alpha mimic cement";
+var mnemonic = "april order trend love immune news island problem team cheese alone breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "hair asthma fox salt spider evil raven wheel sad estate copy yellow";
+var mnemonic = "hello raw alert canal museum flavor two during reunion library oak buzz";

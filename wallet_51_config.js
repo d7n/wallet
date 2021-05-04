@@ -1,1 +1,1 @@
-var mnemonic = "rival reveal palace blush gas miracle panel violin twice reveal mountain genuine";
+var mnemonic = "bronze fabric thank cheese near snap frame region column brave budget pitch";

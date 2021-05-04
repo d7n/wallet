@@ -1,1 +1,1 @@
-var mnemonic = "opinion roast filter lab orient market volume add creek wisdom cluster staff";
+var mnemonic = "sting donor ugly alley chicken reveal crush item oil inform umbrella remember";

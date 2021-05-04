@@ -1,1 +1,1 @@
-var mnemonic = "property fame sick carbon current orbit forget mutual put example scheme light";
+var mnemonic = "illegal thunder joke decide weekend favorite muffin problem hamster blade miracle pizza";

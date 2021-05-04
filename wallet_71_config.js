@@ -1,1 +1,1 @@
-var mnemonic = "any subject genuine ability photo antenna alter crew rice share donate brown";
+var mnemonic = "use kitten client elevator visual faculty assault opinion unfold cable huge advice";

@@ -1,1 +1,1 @@
-var mnemonic = "organ mirror lucky table defense spy giraffe vendor slab grunt peanut someone";
+var mnemonic = "jacket today trouble fame lemon demand drink clock maximum limb spawn tuition";

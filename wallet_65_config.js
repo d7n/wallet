@@ -1,1 +1,1 @@
-var mnemonic = "interest visual sample fatigue hire method large age theory roof obey jar";
+var mnemonic = "stool pact thing bike people aspect jealous jump marble source worth raw";

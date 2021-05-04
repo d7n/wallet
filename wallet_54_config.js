@@ -1,1 +1,1 @@
-var mnemonic = "vicious alcohol jeans gold lawsuit okay around easy industry true cart mountain";
+var mnemonic = "erase assist talk nice detect wash below detail fashion real frame sick";

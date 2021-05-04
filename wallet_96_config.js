@@ -1,1 +1,1 @@
-var mnemonic = "vicious gasp lock frost plate risk employ spread song riot empty develop";
+var mnemonic = "blossom phrase ripple bean fabric morning bridge goat snow comic flag defense";

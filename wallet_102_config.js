@@ -1,1 +1,1 @@
-var mnemonic = "book world victory rubber first search neither shiver element space man tennis";
+var mnemonic = "jewel road essay donor account whisper indoor vessel chuckle tissue price reunion";

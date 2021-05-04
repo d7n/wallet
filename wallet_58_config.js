@@ -1,1 +1,1 @@
-var mnemonic = "input airport theme trumpet ankle hold popular bamboo divert vibrant perfect motion";
+var mnemonic = "planet diesel thing sugar churn school multiply panther discover robust scorpion spy";

@@ -1,1 +1,1 @@
-var mnemonic = "when live spring update piano sail feel youth orchard high want dry";
+var mnemonic = "profit very obvious labor quarter popular banner joke frog genre dry sphere";

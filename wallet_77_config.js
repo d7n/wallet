@@ -1,1 +1,1 @@
-var mnemonic = "room sweet decrease future arena faint rain control kick cave common bicycle";
+var mnemonic = "tired reflect wide solid scrap cactus upon they space silver oven glare";

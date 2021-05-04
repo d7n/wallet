@@ -1,1 +1,1 @@
-var mnemonic = "museum dignity hill they divorce company home vibrant disorder mammal era mammal";
+var mnemonic = "eager unfair local express amount topic icon reward nut moment silent lady";

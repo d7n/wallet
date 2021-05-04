@@ -1,1 +1,1 @@
-var mnemonic = "dentist trend ignore brown bronze narrow radio luggage kingdom treat basic daughter";
+var mnemonic = "kit puzzle run master keen ship orphan hover always attract miracle upgrade";

@@ -1,1 +1,1 @@
-var mnemonic = "coral remove achieve palm marriage first reform risk lend spirit between quick";
+var mnemonic = "dolphin lazy sock please wink arm soup service penalty model smart cherry";

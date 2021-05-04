@@ -1,1 +1,1 @@
-var mnemonic = "series can broom bachelor dentist flight caught dose upper talent click asthma";
+var mnemonic = "oven federal comic clinic favorite proud bulk lava junior remove person rate";

@@ -1,1 +1,1 @@
-var mnemonic = "crack jungle cigar supply goose axis shallow swap select ceiling circle radio";
+var mnemonic = "flight peanut smoke decorate tongue bottom dial coffee plug wrap exotic near";

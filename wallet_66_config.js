@@ -1,1 +1,1 @@
-var mnemonic = "report enemy fruit core crime picture home wrap woman super fury few";
+var mnemonic = "quick twin parade under once snow test warm enrich blood wire change";

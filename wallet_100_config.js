@@ -1,1 +1,1 @@
-var mnemonic = "fabric gap bird key glove chaos pride bubble item brand theory spoon";
+var mnemonic = "trade audit palm pool assume bottom uniform ghost put shrug shadow outside";

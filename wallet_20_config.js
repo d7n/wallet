@@ -1,1 +1,1 @@
-var mnemonic = "foam miss velvet guess fade push orphan silk divert bone identify army";
+var mnemonic = "gap keen inner annual hen reform category music sketch fun this noodle";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble barrel rotate hockey pulp rookie vintage leopard prosper give report nuclear";
+var mnemonic = "equal wet core true struggle educate cluster sauce magnet dial drive fortune";

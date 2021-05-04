@@ -1,1 +1,1 @@
-var mnemonic = "deliver excess episode ankle corn claim turn sword bless public salmon cave";
+var mnemonic = "sauce robust wear symptom rich grass jazz camera head atom into message";

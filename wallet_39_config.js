@@ -1,1 +1,1 @@
-var mnemonic = "dignity midnight west man shed situate earn fluid flee ring strategy avocado";
+var mnemonic = "ancient observe high robot kangaroo stone sphere digital father speed dance digital";

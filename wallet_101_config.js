@@ -1,1 +1,1 @@
-var mnemonic = "shoot bitter lab fringe motion tissue stairs wing cost debate dutch orange";
+var mnemonic = "thing void mansion bubble aware liquid win gauge output dynamic team mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "other daughter illegal bless island token write tonight chat energy reveal mix";
+var mnemonic = "outside tourist flock fossil couple wish reopen welcome fiscal donkey rail prevent";

@@ -1,1 +1,1 @@
-var mnemonic = "world lens palace minute basic awkward fame cute light happy autumn blind";
+var mnemonic = "gift mean throw winter hurt before shine force trust flock regret congress";

@@ -1,1 +1,1 @@
-var mnemonic = "slide voice pony heart height truly news february author guess ignore road";
+var mnemonic = "together dolphin broccoli tennis arm two swamp liberty month toward east song";

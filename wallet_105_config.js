@@ -1,1 +1,1 @@
-var mnemonic = "sea coconut fine muffin mystery nominee nice exile monster club hip over";
+var mnemonic = "exchange virus crouch embrace notable tackle melt junior shoot coconut foot obvious";

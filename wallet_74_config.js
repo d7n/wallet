@@ -1,1 +1,1 @@
-var mnemonic = "hip kit arrive rich hollow jazz pony science urge zebra deal risk";
+var mnemonic = "noise alone decide check gospel wisdom bicycle morning burst ceiling ketchup repair";

@@ -1,1 +1,1 @@
-var mnemonic = "endless broken wink call forest pattern pave invest pulp box stock super";
+var mnemonic = "actor iron trip long grocery begin swap mountain decline cement kingdom service";

@@ -1,1 +1,1 @@
-var mnemonic = "pool slim uncover bone hungry deer surprise robot giraffe catalog way feel";
+var mnemonic = "sign river merge humble can lunch intact differ hazard pepper trend pyramid";

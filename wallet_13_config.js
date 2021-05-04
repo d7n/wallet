@@ -1,1 +1,1 @@
-var mnemonic = "embody cash barrel east split require face robust dance result tattoo border";
+var mnemonic = "find garage domain marriage apart bubble jaguar potato swamp will scheme effort";

@@ -1,1 +1,1 @@
-var mnemonic = "write wrist same design clarify match cloud spin bracket since acoustic cement";
+var mnemonic = "monkey master person melody script manage replace layer theory lecture short stamp";

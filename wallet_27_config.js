@@ -1,1 +1,1 @@
-var mnemonic = "water link throw siren drift nice motor wide vacuum angry source dinosaur";
+var mnemonic = "income game life lion zebra there rely glad marriage crumble digital mechanic";

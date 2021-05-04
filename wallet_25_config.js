@@ -1,1 +1,1 @@
-var mnemonic = "arrow approve cotton pride entire code slide dawn party vote thrive toddler";
+var mnemonic = "black rule venture safe toy demand skate urge engage crunch glory smooth";

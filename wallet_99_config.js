@@ -1,1 +1,1 @@
-var mnemonic = "humor laundry reopen trial connect solar diesel spirit drill salute side lumber";
+var mnemonic = "ankle tennis topple exotic jungle path wait document guard spoon question album";

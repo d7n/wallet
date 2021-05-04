@@ -1,1 +1,1 @@
-var mnemonic = "wave bunker juice scheme predict donate patient dune pet month raven couch";
+var mnemonic = "video lounge garden wet purpose truck ostrich later soda glare expire frog";

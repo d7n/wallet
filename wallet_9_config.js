@@ -1,1 +1,1 @@
-var mnemonic = "little image accuse close inflict alcohol sausage diet leisure random marine rice";
+var mnemonic = "twenty crisp nut hint option inhale curtain october frequent duck tomato rack";

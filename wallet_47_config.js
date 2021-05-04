@@ -1,1 +1,1 @@
-var mnemonic = "nut stand february wave assault burden apple educate tank remove vocal neither";
+var mnemonic = "crouch rule tuition salmon beauty snake absorb target museum urge water load";

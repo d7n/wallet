@@ -1,1 +1,1 @@
-var mnemonic = "federal foil gauge witness primary remain broken build situate wish hunt sad";
+var mnemonic = "mom web traffic ghost quarter noble believe leopard hour foster hollow park";

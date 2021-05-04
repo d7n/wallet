@@ -1,1 +1,1 @@
-var mnemonic = "material season tattoo stone elbow middle ball rib elder drink moment enough";
+var mnemonic = "bargain unusual stone move domain stable agent rule board snow safe increase";

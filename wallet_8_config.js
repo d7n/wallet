@@ -1,1 +1,1 @@
-var mnemonic = "fix gym analyst absent cry whisper lonely actor vendor analyst arctic journey";
+var mnemonic = "disorder crush tennis grit state index force blouse connect industry topple crane";

@@ -1,1 +1,1 @@
-var mnemonic = "broom dizzy tunnel solar youth modify glide trophy collect sleep option lunch";
+var mnemonic = "gloom slab any wool state invest wise problem salt turn news wheat";

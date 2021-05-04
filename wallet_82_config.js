@@ -1,1 +1,1 @@
-var mnemonic = "initial ticket filter waste fetch tag match camp quality hold expire urban";
+var mnemonic = "coral mechanic orient tired bind country index bronze cage concert exotic faculty";

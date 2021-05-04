@@ -1,1 +1,1 @@
-var mnemonic = "level emerge cheese gesture scatter rare wash average bench relax elbow subject";
+var mnemonic = "tortoise mobile indicate glide width dinner front hedgehog mutual viable lion park";

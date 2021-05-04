@@ -1,1 +1,1 @@
-var mnemonic = "knife brand harsh endorse margin stairs cabbage analyst winter stairs trend actual";
+var mnemonic = "equal initial myself stuff joy supreme strike void next across ranch borrow";

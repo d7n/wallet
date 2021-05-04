@@ -1,1 +1,1 @@
-var mnemonic = "borrow first ceiling gap frown emerge wood elite evoke okay celery inside";
+var mnemonic = "parrot luxury old review reveal evil truth quality scale key brand people";

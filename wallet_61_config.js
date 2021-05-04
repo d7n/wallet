@@ -1,1 +1,1 @@
-var mnemonic = "become humor blush embody smooth eager boost cycle off return manage urban";
+var mnemonic = "phrase salt energy hundred twice crucial vacuum ozone vanish oyster torch episode";

@@ -1,1 +1,1 @@
-var mnemonic = "speed appear pioneer knock kiwi paddle often ugly report inch area volume";
+var mnemonic = "crew rival degree country foster episode stereo shoot fold mom bubble height";

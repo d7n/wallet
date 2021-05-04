@@ -1,1 +1,1 @@
-var mnemonic = "abandon mammal place lunch winter minimum topple bean boy trust squirrel rug";
+var mnemonic = "ripple inmate kiwi next initial bottom scrap blame learn elevator brother release";

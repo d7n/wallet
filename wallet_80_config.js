@@ -1,1 +1,1 @@
-var mnemonic = "blossom ball actress simple couch mind tooth exercise ready excite strong again";
+var mnemonic = "boss silver good jeans beyond recall tone pulp cupboard twenty page olympic";

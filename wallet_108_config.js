@@ -1,1 +1,1 @@
-var mnemonic = "snap space hard simple illegal april helmet vanish lend jungle student switch";
+var mnemonic = "other title pepper wash bicycle cage note blade exotic insect way protect";

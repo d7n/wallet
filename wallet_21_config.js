@@ -1,1 +1,1 @@
-var mnemonic = "way poem force govern broken museum baby have hip good giggle strike";
+var mnemonic = "ball flat glory addict cupboard certain exist wealth long gentle silly lawn";

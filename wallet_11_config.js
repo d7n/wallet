@@ -1,1 +1,1 @@
-var mnemonic = "life skirt layer kite muffin sphere basic trust cheap dolphin shrug silly";
+var mnemonic = "mistake inch stock grid pulp punch supply faculty helmet toward control lunch";

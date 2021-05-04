@@ -1,1 +1,1 @@
-var mnemonic = "that frame talk comfort opera awesome invite animal crew remind radar pitch";
+var mnemonic = "chuckle old piano nose winter dirt library ugly stumble razor summer round";

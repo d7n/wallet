@@ -1,1 +1,1 @@
-var mnemonic = "satisfy key lottery divert accuse civil base genius amused moral control aware";
+var mnemonic = "hat board brain dignity begin cause pumpkin only piece found risk lecture";

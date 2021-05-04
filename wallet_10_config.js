@@ -1,1 +1,1 @@
-var mnemonic = "frost island penalty forest vicious pave canal option bullet movie can swing";
+var mnemonic = "able uncover fancy charge jacket profit picture age behave movie armed once";

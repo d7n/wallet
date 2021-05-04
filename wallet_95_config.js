@@ -1,1 +1,1 @@
-var mnemonic = "electric practice coffee fire learn glass orange increase fix tone option gospel";
+var mnemonic = "rebel silver spatial member upon grab goose hair arrow repeat quarter budget";

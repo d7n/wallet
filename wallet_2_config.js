@@ -1,1 +1,1 @@
-var mnemonic = "various father camera simple casual uncover merit flame hybrid unlock foot north";
+var mnemonic = "hammer below sight where amateur lizard parrot that sunset myself rotate topple";

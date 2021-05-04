@@ -1,1 +1,1 @@
-var mnemonic = "angle sponsor biology save firm leopard infant fox wagon violin genre attack";
+var mnemonic = "siren inform genre ancient banner pulse sheriff sell lion slot mad unusual";

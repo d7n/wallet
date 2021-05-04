@@ -1,1 +1,1 @@
-var mnemonic = "example develop poem trade worth dry promote chair tongue flavor puzzle paper";
+var mnemonic = "utility copper evolve unaware unit reason tip bamboo supply iron exotic civil";

@@ -1,1 +1,1 @@
-var mnemonic = "tenant hole claw dash mixed person gym income oil update neck knee";
+var mnemonic = "dial wrist owner humor method swallow ocean praise prison whale harbor vital";
