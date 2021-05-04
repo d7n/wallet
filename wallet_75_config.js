@@ -1,1 +1,1 @@
-var mnemonic = "squeeze penalty ski rather note uncover dutch flight have custom beyond denial";
+var mnemonic = "inform coach roof soda true seed winter fabric right tape pencil suit";

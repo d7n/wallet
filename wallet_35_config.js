@@ -1,1 +1,1 @@
-var mnemonic = "dance canoe neglect odor kitchen best decorate blur river swim erosion oil";
+var mnemonic = "method hover bracket picnic diary lawn drama flower arrow cycle slight total";

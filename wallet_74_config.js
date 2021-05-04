@@ -1,1 +1,1 @@
-var mnemonic = "raise census border eagle trade receive brown monster salt secret latin letter";
+var mnemonic = "message rhythm net disagree asset ivory teach quick culture unaware aim winter";

@@ -1,1 +1,1 @@
-var mnemonic = "budget bachelor thumb gather hamster play doll worry wear educate rubber film";
+var mnemonic = "equal pyramid suspect hint shy mutual change media mind resemble abstract iron";

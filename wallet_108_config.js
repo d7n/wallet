@@ -1,1 +1,1 @@
-var mnemonic = "network want item come canoe siren blade ahead another interest drama bachelor";
+var mnemonic = "produce grain rescue piano unfair icon balance day better detail spray lawsuit";

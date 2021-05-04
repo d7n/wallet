@@ -1,1 +1,1 @@
-var mnemonic = "please pioneer record neck maze virus wood mesh tumble task maximum trade";
+var mnemonic = "expect frame cluster forget oyster tiger auction report height bounce submit improve";

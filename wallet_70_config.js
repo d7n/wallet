@@ -1,1 +1,1 @@
-var mnemonic = "buyer flush globe scrap amount police just fame shy middle elevator discover";
+var mnemonic = "tattoo negative length flock feed creek enroll flight panic object dentist hollow";

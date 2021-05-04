@@ -1,1 +1,1 @@
-var mnemonic = "nominee cup depth major salt crowd economy truly denial age love ecology";
+var mnemonic = "tooth cause ensure promote rifle hurt bitter drill afraid luggage oil phrase";

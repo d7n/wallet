@@ -1,1 +1,1 @@
-var mnemonic = "priority interest diet problem practice win dream real face bitter attend settle";
+var mnemonic = "pelican speak grow voice client adjust crime smoke add old tunnel volume";

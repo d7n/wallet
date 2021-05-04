@@ -1,1 +1,1 @@
-var mnemonic = "drip conduct shuffle car book proof cattle report notice chapter random refuse";
+var mnemonic = "mobile brown novel such eager outside rhythm smooth gaze wrong peanut blue";

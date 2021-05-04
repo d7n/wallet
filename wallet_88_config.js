@@ -1,1 +1,1 @@
-var mnemonic = "guide science lift lady kangaroo vibrant pottery come cluster parade barely coconut";
+var mnemonic = "era innocent want seminar cheese tissue able rocket weekend negative vivid caught";

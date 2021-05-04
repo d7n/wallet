@@ -1,1 +1,1 @@
-var mnemonic = "account news cement hen shaft comic enhance wisdom finish physical wood season";
+var mnemonic = "unable involve pony weasel maximum tennis blanket ahead ethics glad reject gallery";

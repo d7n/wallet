@@ -1,1 +1,1 @@
-var mnemonic = "swamp invite visual van shadow fiction fantasy guess nephew royal betray net";
+var mnemonic = "wisdom night rack cruise allow wide hard second hotel prosper mystery useless";

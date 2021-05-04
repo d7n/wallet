@@ -1,1 +1,1 @@
-var mnemonic = "frozen sponsor cream rocket resist gap obtain crazy junk tail zebra believe";
+var mnemonic = "pipe cry lonely distance speed worry public table vital blind hobby solar";

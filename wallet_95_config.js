@@ -1,1 +1,1 @@
-var mnemonic = "dog right keen place resist please job wonder rack huge fine afraid";
+var mnemonic = "like museum author fine cherry warfare chaos carbon gauge danger exhibit cushion";

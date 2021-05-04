@@ -1,1 +1,1 @@
-var mnemonic = "vapor tent achieve humble point shop matter daring happy teach venue elegant";
+var mnemonic = "message biology fame home shop domain winner special mean junk vault siren";

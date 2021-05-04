@@ -1,1 +1,1 @@
-var mnemonic = "rude arrive history devote scare reform this rich calm island inmate fossil";
+var mnemonic = "rebel flower primary tag warm confirm castle victory prison episode regular grab";

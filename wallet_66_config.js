@@ -1,1 +1,1 @@
-var mnemonic = "spice embark inside move fault minute toast gentle copper urban minute concert";
+var mnemonic = "fork audit search depend tomorrow omit truly drift album piece grunt another";

@@ -1,1 +1,1 @@
-var mnemonic = "whale setup faith crisp scheme sustain capable solar rural affair mimic drip";
+var mnemonic = "return above excess laundry bike expand dirt nominee reward someone globe anchor";

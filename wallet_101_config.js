@@ -1,1 +1,1 @@
-var mnemonic = "name whale runway humble leisure diesel frozen umbrella tone stock mule vendor";
+var mnemonic = "worry salon devote crime door illegal token strategy ignore carpet swap gossip";

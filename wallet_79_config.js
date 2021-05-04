@@ -1,1 +1,1 @@
-var mnemonic = "few pioneer relief joy clinic echo vocal junk trade kidney float legal";
+var mnemonic = "cycle dilemma ahead fresh nature elbow total person pipe coconut mimic grass";

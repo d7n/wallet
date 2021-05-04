@@ -1,1 +1,1 @@
-var mnemonic = "barrel enough enact craft scare receive soap ladder bomb keep legend matter";
+var mnemonic = "funny jealous route beauty frost during cement bicycle kiss ship sort base";

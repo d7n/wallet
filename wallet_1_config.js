@@ -1,1 +1,1 @@
-var mnemonic = "tiger glimpse seek fruit success illness like try snap enroll skull nice";
+var mnemonic = "artwork glance stairs chase endorse water honey artist goose web offer pupil";

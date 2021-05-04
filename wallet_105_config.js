@@ -1,1 +1,1 @@
-var mnemonic = "pet thought car recipe endless regular drill unhappy yellow cram dirt album";
+var mnemonic = "spatial path cargo divert deputy heavy pilot input arch shaft merge glide";

@@ -1,1 +1,1 @@
-var mnemonic = "milk verify report region record mouse awful grunt file nice chimney meat";
+var mnemonic = "three item library debris energy owner first chalk cancel patrol track original";

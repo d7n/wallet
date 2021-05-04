@@ -1,1 +1,1 @@
-var mnemonic = "beef farm bag make old neck session copper drama island lava office";
+var mnemonic = "video spin artwork stumble mixed boost prize seed frozen limit destroy law";

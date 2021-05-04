@@ -1,1 +1,1 @@
-var mnemonic = "weekend reject season track blade monitor citizen close spoon pencil list treat";
+var mnemonic = "cloud hunt phrase chief dish photo brisk degree neglect purchase canoe bronze";

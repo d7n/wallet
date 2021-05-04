@@ -1,1 +1,1 @@
-var mnemonic = "gossip bring curve stay hold shell call giant clip curious episode holiday";
+var mnemonic = "grid void fence tortoise rigid attitude steel spoon wisdom slender label match";

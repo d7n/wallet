@@ -1,1 +1,1 @@
-var mnemonic = "nominee drive school column dry grace despair sudden mango wife again like";
+var mnemonic = "umbrella leg resource market volcano dice novel tree weasel veteran knock tray";

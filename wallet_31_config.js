@@ -1,1 +1,1 @@
-var mnemonic = "claim matrix track cook giraffe blame season cannon able uniform clap dwarf";
+var mnemonic = "meat just custom split math employ lens chicken wash energy tuition cloud";

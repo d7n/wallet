@@ -1,1 +1,1 @@
-var mnemonic = "pilot struggle pupil matrix media toddler else warrior usual whip lucky rose";
+var mnemonic = "tribe runway retire stem practice develop jewel check patient pipe ahead surround";

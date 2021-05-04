@@ -1,1 +1,1 @@
-var mnemonic = "shrimp inch soup domain act acoustic tide loud barrel mask advice minor";
+var mnemonic = "garage park unknown vote glass awkward say conduct guitar key sheriff brown";

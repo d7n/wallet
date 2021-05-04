@@ -1,1 +1,1 @@
-var mnemonic = "prepare story message elegant marble miss motion endorse valve essence certain slab";
+var mnemonic = "bean wing powder much glory tuition cruel fame blind umbrella acid title";

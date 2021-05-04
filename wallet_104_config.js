@@ -1,1 +1,1 @@
-var mnemonic = "merge blur deal wife attract mixed adjust tent hire that vivid program";
+var mnemonic = "approve fatigue screen surround bulb bar confirm skate absorb scatter stone enjoy";

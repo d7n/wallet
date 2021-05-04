@@ -1,1 +1,1 @@
-var mnemonic = "donkey iron call lens runway drop globe idle allow actual ethics siege";
+var mnemonic = "setup innocent group lemon cycle throw heavy push lecture manual scatter genius";

@@ -1,1 +1,1 @@
-var mnemonic = "lucky farm live confirm island laundry settle grief effort summer trade drink";
+var mnemonic = "possible envelope merge cash ship reward claim heavy fence gas emotion grace";

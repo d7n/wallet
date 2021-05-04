@@ -1,1 +1,1 @@
-var mnemonic = "stem valve pottery scatter gallery note cereal render hint total hazard certain";
+var mnemonic = "scatter fault vanish fruit twice someone phrase bunker tooth upgrade steel book";

@@ -1,1 +1,1 @@
-var mnemonic = "bulk cargo final hole prefer perfect fee wet vocal twist best call";
+var mnemonic = "blouse shop panic search later lunar gold match office narrow common school";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate worry blood lounge october next peanut win vote method soup antenna";
+var mnemonic = "warfare illness alarm useless ice tube cart slush west vivid tail enrich";

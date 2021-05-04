@@ -1,1 +1,1 @@
-var mnemonic = "vanish broken art vacuum entire bid liar script distance inside come elevator";
+var mnemonic = "path bamboo merge winter all trumpet settle truly usual box pyramid table";

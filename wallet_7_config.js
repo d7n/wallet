@@ -1,1 +1,1 @@
-var mnemonic = "price fabric lava they shoe frost broom prison flight demand interest bleak";
+var mnemonic = "exclude panic domain clap flash furnace access nation reveal inmate shy assist";

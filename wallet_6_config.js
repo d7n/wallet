@@ -1,1 +1,1 @@
-var mnemonic = "pulse race they tenant sadness wasp mouse deer lamp require cactus tumble";
+var mnemonic = "nest accuse vehicle figure fiction buzz dirt magic uncover aware refuse fruit";

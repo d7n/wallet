@@ -1,1 +1,1 @@
-var mnemonic = "weekend raw chunk trophy plate spirit tone almost permit normal help wedding";
+var mnemonic = "orphan uncle also bike expose segment cat stumble century quality ordinary keep";

@@ -1,1 +1,1 @@
-var mnemonic = "chuckle hold basket intact rocket undo hawk hedgehog crystal obtain result casino";
+var mnemonic = "spin axis hybrid donate exist safe door urban already reduce inhale forget";

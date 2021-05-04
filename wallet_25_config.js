@@ -1,1 +1,1 @@
-var mnemonic = "arch mule soap claw reflect parent dilemma sustain steel suggest deliver chronic";
+var mnemonic = "list cherry drama object flower found exclude cement bean mass mass unlock";

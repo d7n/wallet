@@ -1,1 +1,1 @@
-var mnemonic = "flock pair nation north tongue cotton vacuum size jungle vendor clarify banana";
+var mnemonic = "jacket swamp eyebrow rule surge uniform antique bid ramp dynamic equal myself";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil robot double collect engine camera now reveal sport nephew pen turn";
+var mnemonic = "still tide diet float walnut neutral census caution feature receive change vendor";

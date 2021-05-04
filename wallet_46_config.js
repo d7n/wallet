@@ -1,1 +1,1 @@
-var mnemonic = "early giant simple antique green impact oval tilt nice quality slide ring";
+var mnemonic = "embody clown now buffalo happy method reopen green sentence invest office maple";

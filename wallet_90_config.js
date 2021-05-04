@@ -1,1 +1,1 @@
-var mnemonic = "loyal orchard artwork badge aspect priority fuel power wreck fog spell lecture";
+var mnemonic = "marine frost sustain push finger siege present super sense relax lawsuit please";

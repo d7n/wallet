@@ -1,1 +1,1 @@
-var mnemonic = "answer topple bus again camera abandon ancient hobby fold thing today electric";
+var mnemonic = "galaxy steak fun state economy there recycle security famous blade fatigue effort";

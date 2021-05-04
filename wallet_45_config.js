@@ -1,1 +1,1 @@
-var mnemonic = "tide copper yard text thunder erupt slush delay calm soda glow toddler";
+var mnemonic = "collect scheme ripple town forward swift art farm truly thought debate mystery";

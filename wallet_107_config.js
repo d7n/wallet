@@ -1,1 +1,1 @@
-var mnemonic = "great mosquito type dirt differ giggle decade kick apology leaf gallery latin";
+var mnemonic = "use afford craft merit aware open wedding limb school armor frost run";

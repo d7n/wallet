@@ -1,1 +1,1 @@
-var mnemonic = "dynamic derive panel capable anger again razor ensure post bacon inmate various";
+var mnemonic = "agree system proud arena solar topple rent neither sad dumb expect noodle";

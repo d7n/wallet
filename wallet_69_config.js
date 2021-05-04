@@ -1,1 +1,1 @@
-var mnemonic = "tail board split narrow tissue style impact device skill laugh bullet unhappy";
+var mnemonic = "void rebuild almost violin need broom palace hair twist pact actual scout";

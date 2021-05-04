@@ -1,1 +1,1 @@
-var mnemonic = "robust mango square soul lend liberty comfort rain young blast pact flee";
+var mnemonic = "innocent already brisk camp rug obey execute height unaware sphere peasant violin";

@@ -1,1 +1,1 @@
-var mnemonic = "code enter oven common gain fox flash bag paper gentle spawn canoe";
+var mnemonic = "lunar garage fix emotion mobile upset august ensure ripple vital dismiss sea";

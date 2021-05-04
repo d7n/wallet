@@ -1,1 +1,1 @@
-var mnemonic = "strike west sword extend aerobic pair body shoe nut canvas grunt tone";
+var mnemonic = "crop stage strong nature belt appear smart month alpha cabbage lazy inhale";

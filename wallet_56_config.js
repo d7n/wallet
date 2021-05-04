@@ -1,1 +1,1 @@
-var mnemonic = "oyster visual spoon mass february document general pave cash party knife photo";
+var mnemonic = "wink faint unveil marriage tide ignore uniform hip spice also settle sure";

@@ -1,1 +1,1 @@
-var mnemonic = "spread knife bundle maximum flame lobster pull usual aerobic language strong siren";
+var mnemonic = "miracle assume agent toddler bulk jewel segment include doll mix torch vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "cradle mixed sunny abuse net picture churn best raise skate token lyrics";
+var mnemonic = "cost loyal head toss tomato fix emerge explain payment mind bonus maple";

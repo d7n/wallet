@@ -1,1 +1,1 @@
-var mnemonic = "response holiday online avocado soap stadium ring skirt salt swift creek attack";
+var mnemonic = "capable pool side speed skill era village oblige weapon valley rotate enjoy";

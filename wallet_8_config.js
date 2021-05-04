@@ -1,1 +1,1 @@
-var mnemonic = "number dumb season chase amused risk tag lottery child keen rent fiber";
+var mnemonic = "enjoy burst split recipe check private door uncover arch gasp height strong";

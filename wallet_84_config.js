@@ -1,1 +1,1 @@
-var mnemonic = "make either gloom tonight enrich balcony eternal copper put special aspect melody";
+var mnemonic = "hood worry outdoor repair clap picture grab wall dinosaur bread north fancy";

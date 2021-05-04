@@ -1,1 +1,1 @@
-var mnemonic = "electric nest universe mouse velvet economy word sleep explain floor letter ocean";
+var mnemonic = "sing silver heavy person match machine foil quality ketchup kitten liberty river";

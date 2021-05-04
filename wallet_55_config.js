@@ -1,1 +1,1 @@
-var mnemonic = "act sadness unknown budget aisle project bacon monitor clutch foam delay tuna";
+var mnemonic = "oyster polar legal rifle suggest render marble cactus prison urge artwork tumble";

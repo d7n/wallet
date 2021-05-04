@@ -1,1 +1,1 @@
-var mnemonic = "expire pet assault silent other awake fade mixed lend tiny cash glow";
+var mnemonic = "kitchen choose drip lamp little beef sting antenna yellow oven sail convince";

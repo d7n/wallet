@@ -1,1 +1,1 @@
-var mnemonic = "stuff sting zoo hire mad mercy grape number wise slim devote swift";
+var mnemonic = "usage garlic volume project vibrant tent save combine super expose visual mixed";

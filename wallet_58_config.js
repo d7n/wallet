@@ -1,1 +1,1 @@
-var mnemonic = "palm dinner certain great smooth depend fuel simple acoustic subway famous crater";
+var mnemonic = "cup split six lunar dash toss monitor inflict gallery cactus benefit chief";

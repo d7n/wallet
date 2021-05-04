@@ -1,1 +1,1 @@
-var mnemonic = "large tell wheat bonus grape slot dismiss wolf toddler layer nose mask";
+var mnemonic = "heart modify school stage festival absorb fault kind tent title dwarf base";

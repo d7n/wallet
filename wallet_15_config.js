@@ -1,1 +1,1 @@
-var mnemonic = "hockey knock sibling arctic business frog soccer dash afford slush harvest begin";
+var mnemonic = "monster cat collect cube melt stadium tired click wise sauce switch saddle";

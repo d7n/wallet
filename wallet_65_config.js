@@ -1,1 +1,1 @@
-var mnemonic = "fame latin warrior power morning coral civil ritual fish bone machine viable";
+var mnemonic = "occur damp dinner shoe gasp organ symbol mix key country orient inspire";

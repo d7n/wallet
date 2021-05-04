@@ -1,1 +1,1 @@
-var mnemonic = "weapon wasp dose rare service garage prefer kangaroo misery radar exile advance";
+var mnemonic = "mean denial grass fish churn dad curve armor web access gift custom";

@@ -1,1 +1,1 @@
-var mnemonic = "chase joy fiber meat offer okay various cricket flag rocket test ritual";
+var mnemonic = "head swear task win sudden index nuclear sea print unaware leaf turn";

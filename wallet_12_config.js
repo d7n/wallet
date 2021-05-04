@@ -1,1 +1,1 @@
-var mnemonic = "athlete toe visual unveil pond piano chimney title lamp news brave alcohol";
+var mnemonic = "cube senior ladder cross gloom where mouse couple coin draft blouse kangaroo";

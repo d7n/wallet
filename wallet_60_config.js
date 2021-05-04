@@ -1,1 +1,1 @@
-var mnemonic = "able spike lizard alpha rail laundry slogan thunder silly face tunnel resist";
+var mnemonic = "mango kidney oval turtle caught city mesh business float violin carbon walk";

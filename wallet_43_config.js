@@ -1,1 +1,1 @@
-var mnemonic = "trick enroll helmet lounge helmet talent valid wage company jacket drop purse";
+var mnemonic = "confirm novel then bring sort harsh rude produce split enlist apology disorder";

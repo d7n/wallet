@@ -1,1 +1,1 @@
-var mnemonic = "satoshi receive dice wire battle skin ticket rescue virus absorb annual charge";
+var mnemonic = "rug life tumble emerge whip rifle egg draft change engine grocery letter";

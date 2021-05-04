@@ -1,1 +1,1 @@
-var mnemonic = "produce notable coil paddle whip member sweet friend crane month tomorrow accident";
+var mnemonic = "orphan train candy bone sustain melt episode term end stay lawn now";

@@ -1,1 +1,1 @@
-var mnemonic = "talent pear foil material dove tiger giant spy expect puzzle please index";
+var mnemonic = "depend layer cup taste intact lab shed odor stool target matter borrow";

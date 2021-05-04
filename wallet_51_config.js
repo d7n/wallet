@@ -1,1 +1,1 @@
-var mnemonic = "erode cook until enough mean topic depth clog rigid aware payment blind";
+var mnemonic = "gown boost release junior rate century furnace render sister dismiss sand tank";

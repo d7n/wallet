@@ -1,1 +1,1 @@
-var mnemonic = "afraid garden hammer dumb panel object tiny grape bird camera injury layer";
+var mnemonic = "hospital legal enroll guess force two velvet sand army witness sort brisk";

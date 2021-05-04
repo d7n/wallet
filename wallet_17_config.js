@@ -1,1 +1,1 @@
-var mnemonic = "foil march region try wrestle museum quiz river miracle fitness symbol lesson";
+var mnemonic = "obtain umbrella brand dog peasant cart adapt buzz effort pass riot merge";

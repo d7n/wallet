@@ -1,1 +1,1 @@
-var mnemonic = "develop yard patient own despair stove cliff hill broken punch toe ghost";
+var mnemonic = "idea apart gym flip hen episode guilt romance lyrics garment verify deny";

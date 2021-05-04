@@ -1,1 +1,1 @@
-var mnemonic = "slow regret cotton rain fortune claw oxygen supply weather library cool jeans";
+var mnemonic = "curtain spirit mad apology asthma erupt license violin job obvious pony hamster";

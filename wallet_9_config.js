@@ -1,1 +1,1 @@
-var mnemonic = "letter toddler armor alien civil wet now prize month visual evil accuse";
+var mnemonic = "truly bike west exhaust curtain record inch consider want main direct venue";

@@ -1,1 +1,1 @@
-var mnemonic = "water general during abuse office liberty add beyond custom inject push banner";
+var mnemonic = "hard hidden thank initial unknown detect rival salon mansion remove border churn";

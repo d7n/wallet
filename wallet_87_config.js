@@ -1,1 +1,1 @@
-var mnemonic = "copy indicate school century version answer raccoon faculty reject inherit tuition purity";
+var mnemonic = "amazing dove need weapon entire palace blind save shrimp banner clap slam";

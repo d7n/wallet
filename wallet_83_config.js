@@ -1,1 +1,1 @@
-var mnemonic = "face wrong medal obscure goat degree dynamic regret clock deny true shrimp";
+var mnemonic = "shrug tourist code release need able panther thumb beyond unhappy solution blast";

@@ -1,1 +1,1 @@
-var mnemonic = "either final peanut noise harvest also old wink advice box mule fox";
+var mnemonic = "balcony major mother abstract improve erode cherry dance wool chair modify extra";

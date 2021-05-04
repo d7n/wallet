@@ -1,1 +1,1 @@
-var mnemonic = "minute charge fall garment cram tide winter involve used hand unknown motion";
+var mnemonic = "slogan raise blouse salad cream accuse palm furnace pigeon ginger bomb asset";
