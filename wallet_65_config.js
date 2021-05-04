@@ -1,1 +1,1 @@
-var mnemonic = "various history face rare place history coral avoid then casual immense try";
+var mnemonic = "material warm legend exchange timber arch taxi spirit judge deposit good clap";

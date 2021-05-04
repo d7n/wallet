@@ -1,1 +1,1 @@
-var mnemonic = "toilet intact tragic cause spice clean slush elephant avoid throw october gold";
+var mnemonic = "spring estate abstract grab right desert loop turn collect pig middle extend";

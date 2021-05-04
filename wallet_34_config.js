@@ -1,1 +1,1 @@
-var mnemonic = "tobacco wait siege birth art disorder spider shield wave rug magic celery";
+var mnemonic = "title tunnel ring drip mushroom morning pyramid powder dry breeze thought between";

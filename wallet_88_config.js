@@ -1,1 +1,1 @@
-var mnemonic = "stage lobster scout clock cradle hobby nest rapid chimney else chronic legal";
+var mnemonic = "side ordinary book depth bunker gadget hungry angry wedding decade cook jelly";

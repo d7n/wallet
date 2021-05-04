@@ -1,1 +1,1 @@
-var mnemonic = "label high forum order check soccer cloud neck youth circle pupil impulse";
+var mnemonic = "ceiling fence guitar edge dash vicious either mixture extra syrup day they";

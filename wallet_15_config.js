@@ -1,1 +1,1 @@
-var mnemonic = "lonely kitchen lonely dust ugly usage truth age leg divert slight warrior";
+var mnemonic = "hole until cradle birth situate devote scan mansion alarm stage copper dizzy";

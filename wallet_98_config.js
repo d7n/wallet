@@ -1,1 +1,1 @@
-var mnemonic = "course giraffe sand judge write february found actual else mango local mesh";
+var mnemonic = "prison size decade already couch cream offer switch jelly dumb property venue";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo dust immense chaos genius vicious between secret panda front worth panther";
+var mnemonic = "alter motion cushion oval over repair risk between cabin slice judge soldier";

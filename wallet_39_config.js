@@ -1,1 +1,1 @@
-var mnemonic = "secret hood extra begin result below bonus chimney cherry box snow capable";
+var mnemonic = "armor have pause select message cruise beach hat express choice copper once";

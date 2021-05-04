@@ -1,1 +1,1 @@
-var mnemonic = "fox away ready comic voice cup net cook minimum swift hazard dune";
+var mnemonic = "abuse correct rare edit census search gospel book true pattern detect effort";

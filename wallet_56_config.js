@@ -1,1 +1,1 @@
-var mnemonic = "gun notice bean picture cover squirrel slide setup return leopard volcano mom";
+var mnemonic = "extend saddle version remind have badge nurse merry budget entry caught prefer";

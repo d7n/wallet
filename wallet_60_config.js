@@ -1,1 +1,1 @@
-var mnemonic = "web gasp vessel rocket cotton pyramid lawsuit adapt stock hidden cute tobacco";
+var mnemonic = "essence turkey device vapor reject youth level gadget cereal broccoli silver garden";

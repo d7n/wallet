@@ -1,1 +1,1 @@
-var mnemonic = "dirt street bird employ track label shrimp put corn forum olive entire";
+var mnemonic = "swear hamster vanish runway pepper beef humor update real develop rival question";

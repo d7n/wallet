@@ -1,1 +1,1 @@
-var mnemonic = "that mule educate nature visual blossom expire proof planet mistake rug roast";
+var mnemonic = "oblige autumn promote organ beyond orbit hill glory utility glass castle maid";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet humor judge analyst harbor link flight limit buzz shock winner vendor";
+var mnemonic = "door future crawl tube dwarf proud cushion advice please section indicate undo";

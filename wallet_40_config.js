@@ -1,1 +1,1 @@
-var mnemonic = "fossil mule october congress milk olympic number essay hub decade river school";
+var mnemonic = "heart narrow extra edge bike among regular school response rate expect bachelor";

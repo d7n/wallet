@@ -1,1 +1,1 @@
-var mnemonic = "height human flower embody admit tortoise charge educate steel flee play inner";
+var mnemonic = "move index expand snow rely reopen uphold almost dwarf volcano course poet";

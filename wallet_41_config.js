@@ -1,1 +1,1 @@
-var mnemonic = "tone return bargain ribbon crazy list nurse tribe team still result toilet";
+var mnemonic = "doctor regret code account ozone argue filter walk duck lawn save relax";

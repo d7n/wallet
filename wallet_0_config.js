@@ -1,1 +1,1 @@
-var mnemonic = "six chicken cousin head film that rich target motor differ garlic power";
+var mnemonic = "start circle sister hero sentence wish assault leader occur arrive cluster powder";

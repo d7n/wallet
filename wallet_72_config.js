@@ -1,1 +1,1 @@
-var mnemonic = "cruise novel isolate family trophy science follow symptom roast monitor suspect like";
+var mnemonic = "globe laugh west claim lawn evil column tonight dutch video various anchor";

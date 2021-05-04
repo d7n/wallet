@@ -1,1 +1,1 @@
-var mnemonic = "cube draft camera patrol connect fat swift impact venue grain valve burden";
+var mnemonic = "rain black affair beyond word run bag shock vote slice humble venue";

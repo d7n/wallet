@@ -1,1 +1,1 @@
-var mnemonic = "chase damage walnut opera account choose elite federal grass awesome lady vote";
+var mnemonic = "latin timber catch rebuild begin talk will refuse actress subject promote bar";

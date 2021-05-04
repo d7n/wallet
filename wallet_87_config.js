@@ -1,1 +1,1 @@
-var mnemonic = "sail trial salad town select wheel kingdom now return nothing together high";
+var mnemonic = "gown rigid artefact margin kitchen evoke wool orphan violin card garment title";

@@ -1,1 +1,1 @@
-var mnemonic = "siren wink clarify arrest lion winner return march trim must night museum";
+var mnemonic = "fabric core wink section initial tackle vintage dad credit olive sword very";

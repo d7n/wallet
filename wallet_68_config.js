@@ -1,1 +1,1 @@
-var mnemonic = "begin focus mind imitate swamp apple chaos debate girl predict useful exist";
+var mnemonic = "label lady amazing milk island mansion economy aisle blur impact sick federal";

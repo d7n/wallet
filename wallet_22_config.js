@@ -1,1 +1,1 @@
-var mnemonic = "metal gesture inform december question input ginger input detail soul fiction car";
+var mnemonic = "pupil gas online always any dream awful shine ten orient heavy okay";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal bronze person wedding gift spot release solution guitar riot swap warm";
+var mnemonic = "legal idea frequent thing early mammal torch face strategy novel use round";

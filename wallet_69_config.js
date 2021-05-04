@@ -1,1 +1,1 @@
-var mnemonic = "cube book arrange memory spare brisk friend salute desert conduct scale alone";
+var mnemonic = "shuffle element grief dilemma anxiety occur demand snap very sphere infant capital";

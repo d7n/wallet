@@ -1,1 +1,1 @@
-var mnemonic = "deliver audit parade dress figure typical elegant amateur river correct all disease";
+var mnemonic = "gauge elite eternal rhythm want expire sock elephant fury pen great horn";

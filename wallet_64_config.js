@@ -1,1 +1,1 @@
-var mnemonic = "describe spy adult expose security flee ceiling defy illness insane make outer";
+var mnemonic = "consider december identify fortune deny cage gun intact lava swing energy mammal";

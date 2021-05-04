@@ -1,1 +1,1 @@
-var mnemonic = "capable zoo orange tape dirt picture good man gaze skirt custom shove";
+var mnemonic = "hand alert athlete sock master analyst pistol inside legend father ship submit";

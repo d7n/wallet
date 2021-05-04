@@ -1,1 +1,1 @@
-var mnemonic = "hood middle since enough output dinner scale notice hip visa blade monkey";
+var mnemonic = "hazard false front surface budget boring office census exclude kidney patient want";

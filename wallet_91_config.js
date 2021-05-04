@@ -1,1 +1,1 @@
-var mnemonic = "angle loyal settle year equal rhythm legal uncover muffin humble senior diet";
+var mnemonic = "private seminar wash flip worth all demand moral hub home original inform";

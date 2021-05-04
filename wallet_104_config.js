@@ -1,1 +1,1 @@
-var mnemonic = "use corn predict color bleak column melody hour broom lizard bus foil";
+var mnemonic = "during subway harsh task candy neck prepare subject fit surface prepare grass";

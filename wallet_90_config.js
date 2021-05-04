@@ -1,1 +1,1 @@
-var mnemonic = "wheat cradle cushion when nest logic win dynamic stand island tattoo trumpet";
+var mnemonic = "hub hold start rare law finish kid eyebrow purchase problem base satisfy";

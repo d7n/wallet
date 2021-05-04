@@ -1,1 +1,1 @@
-var mnemonic = "all embark hire clean prepare cycle aerobic gauge despair target blame hour";
+var mnemonic = "equal mention cage anger fix canal loud shiver end spin friend review";

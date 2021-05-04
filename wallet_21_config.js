@@ -1,1 +1,1 @@
-var mnemonic = "grace box advice pencil arctic eternal daughter window useless mountain motion card";
+var mnemonic = "sheriff crater unit logic plunge jaguar burger front army eternal menu dawn";

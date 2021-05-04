@@ -1,1 +1,1 @@
-var mnemonic = "medal inner guide spoon slide narrow citizen air marriage glove denial occur";
+var mnemonic = "prepare clay drama million conduct yard food run legal test strong pottery";

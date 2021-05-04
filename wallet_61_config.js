@@ -1,1 +1,1 @@
-var mnemonic = "orient reflect lottery album whisper thumb giant walk teach blue bean afford";
+var mnemonic = "bulb typical life foot future lizard what liberty rescue enforce monitor cloth";

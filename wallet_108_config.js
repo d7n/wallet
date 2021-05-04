@@ -1,1 +1,1 @@
-var mnemonic = "black already pipe skirt cliff report employ amused present swear tunnel office";
+var mnemonic = "position common whisper end hand nasty misery crouch pupil second obtain vicious";

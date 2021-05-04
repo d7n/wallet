@@ -1,1 +1,1 @@
-var mnemonic = "tray frown slow lucky sword saddle patch razor animal same luxury joy";
+var mnemonic = "neck stock stick steak banner fun phrase truck slam zone cherry result";

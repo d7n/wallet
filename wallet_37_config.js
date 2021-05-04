@@ -1,1 +1,1 @@
-var mnemonic = "phrase furnace bid dinosaur car notable lawsuit obvious tomorrow flat defy pyramid";
+var mnemonic = "cotton famous faint provide squirrel ripple hub dismiss cheese crowd twin settle";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon joy cliff hair hover resemble book box need happy march buffalo";
+var mnemonic = "bundle machine slender problem cute thing submit protect iron phone hero online";

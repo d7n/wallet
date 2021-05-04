@@ -1,1 +1,1 @@
-var mnemonic = "almost ugly stem arrest lend above try clerk rocket electric success hope";
+var mnemonic = "oven swim record maximum spare give category palace bulk laundry mountain knife";

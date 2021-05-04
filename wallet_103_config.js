@@ -1,1 +1,1 @@
-var mnemonic = "crash thought laundry embrace night assist frequent amused actual rate menu fee";
+var mnemonic = "display twice quality believe course arm permit sweet retreat detect off praise";

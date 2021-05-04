@@ -1,1 +1,1 @@
-var mnemonic = "awful senior creek coyote mix lunch apart alpha voyage okay vehicle remain";
+var mnemonic = "room arrange happy blue provide mail visit today wing wise wrap lonely";

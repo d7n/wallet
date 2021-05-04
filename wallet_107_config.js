@@ -1,1 +1,1 @@
-var mnemonic = "protect assist long metal piece neglect used width hand faith muscle under";
+var mnemonic = "east novel dinosaur tape wrist father hole solution sword occur govern diet";

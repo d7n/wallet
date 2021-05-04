@@ -1,1 +1,1 @@
-var mnemonic = "iron opinion stool suffer crowd aerobic floor expect cart thing number seek";
+var mnemonic = "summer honey moment citizen mushroom loan nuclear exercise segment focus dutch impulse";

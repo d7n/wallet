@@ -1,1 +1,1 @@
-var mnemonic = "true popular cave any gown state deal special finger bleak bamboo between";
+var mnemonic = "receive vivid cousin match unaware inquiry seven shuffle decorate board brisk angry";

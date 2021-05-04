@@ -1,1 +1,1 @@
-var mnemonic = "extend winter afraid frown bench defy science giggle embody nose erosion deputy";
+var mnemonic = "reform rice vivid impulse matrix slight duck gauge style trumpet joke bundle";

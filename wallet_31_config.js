@@ -1,1 +1,1 @@
-var mnemonic = "more dream genuine total eyebrow inflict amateur upon aisle avocado shrimp gesture";
+var mnemonic = "wisdom fragile obscure squirrel tennis census check around swallow vocal language garlic";

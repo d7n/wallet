@@ -1,1 +1,1 @@
-var mnemonic = "melody sock panther about force ecology mistake comic play what shift snack";
+var mnemonic = "decline thunder creek thunder solid robust foam sword hollow twin document announce";

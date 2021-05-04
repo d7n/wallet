@@ -1,1 +1,1 @@
-var mnemonic = "work color lyrics town dress sibling reward arrow scale seed alter void";
+var mnemonic = "minor emotion add measure soldier monitor outdoor help crush shove twelve maximum";

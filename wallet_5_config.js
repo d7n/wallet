@@ -1,1 +1,1 @@
-var mnemonic = "smooth ice staff foster tongue level phone material father galaxy bid harvest";
+var mnemonic = "gentle cause lyrics reunion urban detect that estate emotion siege cupboard miss";

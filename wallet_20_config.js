@@ -1,1 +1,1 @@
-var mnemonic = "episode like orient glow visa street alien such tornado minimum month inflict";
+var mnemonic = "valley lend assume cigar kit dismiss sport now online flavor roof kitten";

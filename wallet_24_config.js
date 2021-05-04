@@ -1,1 +1,1 @@
-var mnemonic = "senior inject liar once pull panel list inform tail picture boy confirm";
+var mnemonic = "welcome crunch talk decline exercise comfort border mother border script suggest age";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness forget say dragon fabric dentist obscure tackle much elegant rate dad";
+var mnemonic = "book among title march copy erase lazy tribe drink valley find thought";

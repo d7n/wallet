@@ -1,1 +1,1 @@
-var mnemonic = "side grain potato brave silk pepper hold quick coyote access alter wasp";
+var mnemonic = "huge family point grass budget cradle title defy song ivory nasty large";

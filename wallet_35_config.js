@@ -1,1 +1,1 @@
-var mnemonic = "reduce dice bacon slow lonely again video love pizza medal head spring";
+var mnemonic = "nation rack away course second seek vessel long walk neck stadium park";

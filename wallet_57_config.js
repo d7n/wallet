@@ -1,1 +1,1 @@
-var mnemonic = "syrup flower rifle valve able easy text estate anxiety slot borrow wood";
+var mnemonic = "relief skull fog position few mass sorry depart admit salad multiply march";

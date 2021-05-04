@@ -1,1 +1,1 @@
-var mnemonic = "critic pencil envelope view patient come beyond pony humor congress alley tail";
+var mnemonic = "rhythm move shuffle tone early dream glance orchard ethics glimpse pet mass";

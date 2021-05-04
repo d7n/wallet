@@ -1,1 +1,1 @@
-var mnemonic = "unknown tail glass clock mercy pluck light result connect apple moon clump";
+var mnemonic = "crater chaos what enemy october fatal able double typical valley option fun";

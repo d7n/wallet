@@ -1,1 +1,1 @@
-var mnemonic = "tobacco card lazy ensure vapor flame advice ankle surround detect transfer machine";
+var mnemonic = "reduce absent all float area together dune spend purchase canvas meat amused";

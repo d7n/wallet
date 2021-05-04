@@ -1,1 +1,1 @@
-var mnemonic = "coin idea orange whisper hospital physical major adjust horn cigar this zebra";
+var mnemonic = "couch rebel increase ginger project tilt expire dutch jacket suit ripple report";

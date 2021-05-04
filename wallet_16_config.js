@@ -1,1 +1,1 @@
-var mnemonic = "coast drip salon afraid enhance that coast pond seed aspect electric average";
+var mnemonic = "vital sign fork broom quality blush frog into asset attitude you man";

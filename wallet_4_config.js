@@ -1,1 +1,1 @@
-var mnemonic = "gadget ripple half affair dawn mango soon middle float bright congress forest";
+var mnemonic = "hawk depth word save main own raven denial because neither damage glide";

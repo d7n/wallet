@@ -1,1 +1,1 @@
-var mnemonic = "bag fiber question immense worth essence cotton uncle clutch column spy table";
+var mnemonic = "volcano prison lift palace mix tennis desk wild cruel link rail street";

@@ -1,1 +1,1 @@
-var mnemonic = "glove slogan walk ski recipe bind lake thank shoe excess seed eight";
+var mnemonic = "copy gasp frown fossil suspect culture human record rifle security struggle mandate";

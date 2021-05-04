@@ -1,1 +1,1 @@
-var mnemonic = "rent extra celery donkey draft test business powder guard clutch sunset primary";
+var mnemonic = "pretty human tomato combine camera food absurd license range save gift scheme";

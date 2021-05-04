@@ -1,1 +1,1 @@
-var mnemonic = "picture work february define stool post chest affair spice guide shy sting";
+var mnemonic = "garlic utility multiply copy bread present town address fault arrive napkin truth";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry room tape unknown solid jelly employ heavy unveil expose purse gravity";
+var mnemonic = "rich analyst vocal ankle laundry topic ready upper almost exhaust sorry capable";

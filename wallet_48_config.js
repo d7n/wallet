@@ -1,1 +1,1 @@
-var mnemonic = "nuclear simple exercise unit now cereal click gentle core jeans rate story";
+var mnemonic = "distance expose cousin ten impose royal argue lounge can fish lunar note";

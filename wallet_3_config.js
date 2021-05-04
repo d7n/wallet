@@ -1,1 +1,1 @@
-var mnemonic = "caught wife clutch margin coconut attack purpose pink panther next need physical";
+var mnemonic = "comfort banner swallow alter slush finger old injury other kiwi oxygen upset";

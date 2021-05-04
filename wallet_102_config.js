@@ -1,1 +1,1 @@
-var mnemonic = "fiction curtain camera mimic lesson trouble busy ten hawk shallow wasp pill";
+var mnemonic = "draft tell potato lava buzz hire develop illegal coach else panther three";

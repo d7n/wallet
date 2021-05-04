@@ -1,1 +1,1 @@
-var mnemonic = "possible side math actual enough sun original essay slam vehicle language rookie";
+var mnemonic = "refuse input clarify lab other human pen soon reward cute ill front";

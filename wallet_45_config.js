@@ -1,1 +1,1 @@
-var mnemonic = "roof pledge endless leisure visual tone sad energy right timber legal economy";
+var mnemonic = "pigeon want outside stereo asset pulp allow scare unique kit mother hello";

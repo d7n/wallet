@@ -1,1 +1,1 @@
-var mnemonic = "wear saddle cluster team normal dutch climb cook shrimp humor mix delay";
+var mnemonic = "group obtain always board evoke glue approve sample very dolphin add inherit";

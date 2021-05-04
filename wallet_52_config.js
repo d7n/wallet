@@ -1,1 +1,1 @@
-var mnemonic = "trigger nose cloud clump arena slender case inform surface illness rural also";
+var mnemonic = "monster home tattoo mesh piano lamp arrest captain face ancient taste frog";

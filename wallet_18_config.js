@@ -1,1 +1,1 @@
-var mnemonic = "scissors muffin play equal habit sister grow pet retreat grab furnace nasty";
+var mnemonic = "current bounce dutch weird rifle tomato situate office super glance style sort";

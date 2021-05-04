@@ -1,1 +1,1 @@
-var mnemonic = "lemon flee permit wrist gun despair comfort six remember bulb crowd swift";
+var mnemonic = "refuse vacant country dignity peasant crush fall toast civil engine rifle aisle";

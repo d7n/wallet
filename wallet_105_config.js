@@ -1,1 +1,1 @@
-var mnemonic = "cave pill february tornado item solid elbow moral margin regular window leave";
+var mnemonic = "heavy salt wonder goddess amazing vendor dress six arctic sort toe light";

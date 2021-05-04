@@ -1,1 +1,1 @@
-var mnemonic = "movie split clown park foot west original forum enforce pull phrase average";
+var mnemonic = "repeat host mother involve mother path harsh output culture half quick jaguar";

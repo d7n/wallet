@@ -1,1 +1,1 @@
-var mnemonic = "brass shrug embark blush pyramid news drastic unhappy will degree excess sure";
+var mnemonic = "circle wish fire firm response clarify two stairs blood apart chest require";

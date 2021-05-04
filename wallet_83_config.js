@@ -1,1 +1,1 @@
-var mnemonic = "tiny deputy town village order either laptop crazy tobacco hub above artist";
+var mnemonic = "retreat neck lottery forward matrix include nose emotion universe fit truck audit";
