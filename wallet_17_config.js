@@ -1,1 +1,1 @@
-var mnemonic = "burst merge jewel sketch rude sudden neck case sponsor glue doctor fence";
+var mnemonic = "one wheat skull win claim doll unhappy dawn today welcome matrix total";

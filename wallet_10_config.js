@@ -1,1 +1,1 @@
-var mnemonic = "eight detect popular buzz gorilla tattoo nephew quit diamond resource humor earn";
+var mnemonic = "tower certain honey document swap melt shallow parrot rural broken claim twist";

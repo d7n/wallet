@@ -1,1 +1,1 @@
-var mnemonic = "excite loop minute ignore blouse reflect engine nothing aware cigar hint include";
+var mnemonic = "later clutch neglect mesh consider betray anxiety pet extra depth deny super";

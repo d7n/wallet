@@ -1,1 +1,1 @@
-var mnemonic = "topple achieve wrong quote plunge fresh have cricket trial address recall cross";
+var mnemonic = "flight guilt near pipe disorder error farm cabbage harsh biology crush junior";

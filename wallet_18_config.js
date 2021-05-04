@@ -1,1 +1,1 @@
-var mnemonic = "badge shrug buyer mandate bonus domain rhythm duck buyer trash joy cigar";
+var mnemonic = "clinic parade reflect garlic million poverty case lend stomach raven wide cotton";

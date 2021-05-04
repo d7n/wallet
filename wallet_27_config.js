@@ -1,1 +1,1 @@
-var mnemonic = "race across beauty awkward fever admit typical bird antenna disorder lend transfer";
+var mnemonic = "report balcony rookie fury suspect fury correct fall object room chat usual";

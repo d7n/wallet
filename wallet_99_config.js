@@ -1,1 +1,1 @@
-var mnemonic = "barely jazz wing picnic census search payment large neglect dog negative omit";
+var mnemonic = "century prosper have cruel ready execute craft faint under dice pumpkin program";

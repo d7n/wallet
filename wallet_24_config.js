@@ -1,1 +1,1 @@
-var mnemonic = "purchase burst silly side wall genuine wreck increase alert umbrella cradle jaguar";
+var mnemonic = "math hurt inflict skirt olive leave water sell rug affair must shoulder";

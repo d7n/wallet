@@ -1,1 +1,1 @@
-var mnemonic = "index world raven blossom beef helmet range draft hen lonely because caught";
+var mnemonic = "fly timber sound menu palace check two laugh gun clay cotton receive";

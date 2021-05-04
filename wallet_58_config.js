@@ -1,1 +1,1 @@
-var mnemonic = "hockey drink south fan sunny crater cloud weekend charge task minor praise";
+var mnemonic = "torch approve flip profit slim unable cry adapt auto merry cross cotton";

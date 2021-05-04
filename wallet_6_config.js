@@ -1,1 +1,1 @@
-var mnemonic = "try tomato festival typical retreat coin reopen green guide tired program museum";
+var mnemonic = "barrel tackle chat drive system damp feel estate ghost name shop then";

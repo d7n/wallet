@@ -1,1 +1,1 @@
-var mnemonic = "hawk act turkey company fiction cigar bomb walk comic inherit ball deal";
+var mnemonic = "priority thrive manage canal gain myself taste nice will floor answer abuse";

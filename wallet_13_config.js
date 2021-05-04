@@ -1,1 +1,1 @@
-var mnemonic = "rose foot welcome spin cover mandate drink rally level earn switch spoil";
+var mnemonic = "cannon destroy educate hole ostrich expire mirror sort aunt join captain barely";

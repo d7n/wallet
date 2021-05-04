@@ -1,1 +1,1 @@
-var mnemonic = "sure genius runway upper gaze wealth safe assault daring town section robust";
+var mnemonic = "problem obey trash drink nuclear few van illegal news woman saddle pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "ancient iron circle safe mail day gold swing sting true palm column";
+var mnemonic = "where soup disorder obtain pretty knee skill artwork boy you view seed";

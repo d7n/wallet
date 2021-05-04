@@ -1,1 +1,1 @@
-var mnemonic = "window hazard vendor about settle system suit client lottery puppy release draft";
+var mnemonic = "alcohol under prevent access advice pulse depend same weird dumb mad excuse";

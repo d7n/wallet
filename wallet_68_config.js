@@ -1,1 +1,1 @@
-var mnemonic = "explain bus school uphold gift room festival salmon milk urge pill shop";
+var mnemonic = "giggle blanket picnic coral world easy twist acquire tilt pencil ignore extend";

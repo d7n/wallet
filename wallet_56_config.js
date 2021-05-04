@@ -1,1 +1,1 @@
-var mnemonic = "envelope gesture jewel million tobacco trigger busy elder whale tape host grain";
+var mnemonic = "say face play culture hotel that pudding sunny invest video basket select";

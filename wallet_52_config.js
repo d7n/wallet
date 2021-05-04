@@ -1,1 +1,1 @@
-var mnemonic = "enroll column gravity twelve gossip live idle toast notice equal scrub category";
+var mnemonic = "cattle over drastic lock over victory tonight wear ten rack sword lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "adult fix wave meat soccer apple minimum improve glow foot rich maze";
+var mnemonic = "draft chapter combine position copper only siren depart alcohol owner mass tiger";

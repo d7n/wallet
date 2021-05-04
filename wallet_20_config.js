@@ -1,1 +1,1 @@
-var mnemonic = "boy credit bike denial talk physical memory segment ice flavor humor easily";
+var mnemonic = "check rural coconut range code use question paper attend witness army few";

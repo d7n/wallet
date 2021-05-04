@@ -1,1 +1,1 @@
-var mnemonic = "pistol donor retreat tenant leaf supply anxiety safe coconut left crime breeze";
+var mnemonic = "basket diary combine city chronic slight rifle play zoo mail program dove";

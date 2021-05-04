@@ -1,1 +1,1 @@
-var mnemonic = "demand involve flame divert differ gospel omit employ animal aware picture library";
+var mnemonic = "depth cup clap cook elbow tell turkey clutch crowd buyer member view";

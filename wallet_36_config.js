@@ -1,1 +1,1 @@
-var mnemonic = "around that under rural iron trumpet priority dust cricket else soup box";
+var mnemonic = "runway cheap service enjoy depth live random enjoy hybrid tuna fun six";

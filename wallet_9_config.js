@@ -1,1 +1,1 @@
-var mnemonic = "summer raw typical vapor trumpet monkey armed grit survey initial travel bulb";
+var mnemonic = "bacon siren school slow float river seek region matrix guide offer volcano";

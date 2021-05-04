@@ -1,1 +1,1 @@
-var mnemonic = "doll bird hope position vivid before actor mistake hurry assault just embrace";
+var mnemonic = "this gorilla shell element width illegal solve pelican resemble hover fetch green";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz rubber cry capable wing belt depart luggage diagram anxiety palm great";
+var mnemonic = "misery loyal ridge able kitten tenant congress admit orange region alter goddess";

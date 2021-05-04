@@ -1,1 +1,1 @@
-var mnemonic = "client tube glory dirt degree tuna fossil mouse three recipe someone digital";
+var mnemonic = "suit vital street cabin umbrella absorb estate candy way hedgehog connect enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue kick sadness space flame arrange art sweet potato coral catch fox";
+var mnemonic = "tape balcony regular tomato danger scout enemy smart point easy fall sound";

@@ -1,1 +1,1 @@
-var mnemonic = "wealth vault liar obey cute diesel will venture surround shuffle scrap country";
+var mnemonic = "urban love blossom derive flash because away matrix crumble accident once hazard";

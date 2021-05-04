@@ -1,1 +1,1 @@
-var mnemonic = "level search boss today bright faith release toddler menu reform marble baby";
+var mnemonic = "devote slide chuckle quick imitate dismiss voice guess sing try round poverty";

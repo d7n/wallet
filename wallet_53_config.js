@@ -1,1 +1,1 @@
-var mnemonic = "proof equal hip lazy rigid transfer faculty resemble chair miracle title galaxy";
+var mnemonic = "hungry sudden wisdom vicious easy arctic hobby noble used proud animal address";

@@ -1,1 +1,1 @@
-var mnemonic = "midnight share exile soon home wreck lawn fall direct impact mouse someone";
+var mnemonic = "napkin polar again world artist ritual print tail insane casual topic safe";

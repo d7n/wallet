@@ -1,1 +1,1 @@
-var mnemonic = "bird govern fan drive poet muscle panic brass alpha joke world rule";
+var mnemonic = "field cricket wheat boring ice kiwi sister hedgehog similar essay tired rate";

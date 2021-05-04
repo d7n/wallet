@@ -1,1 +1,1 @@
-var mnemonic = "guard naive wall comic sniff inch appear hope glide valid congress normal";
+var mnemonic = "sound sunset music setup swift peace avoid clay boost enforce truly dinosaur";

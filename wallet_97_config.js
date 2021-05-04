@@ -1,1 +1,1 @@
-var mnemonic = "solid cover nature hurt cover napkin marble mom update place noise high";
+var mnemonic = "bar network explain result blouse modify rather hurt worth huge valley pupil";

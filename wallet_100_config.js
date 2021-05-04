@@ -1,1 +1,1 @@
-var mnemonic = "umbrella street grid ripple camp tray census suit police holiday drip foil";
+var mnemonic = "false acoustic barely raw bleak rare human project dress sugar patch slam";

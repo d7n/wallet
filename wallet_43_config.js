@@ -1,1 +1,1 @@
-var mnemonic = "toast gauge there divide utility olive trap easy rigid pupil any tomato";
+var mnemonic = "sock trophy monkey cash citizen water ankle salt advance such cabin six";

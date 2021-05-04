@@ -1,1 +1,1 @@
-var mnemonic = "current used remember cash nation autumn limit rate dwarf bounce veteran stock";
+var mnemonic = "intact spin custom enter clarify movie omit brother rather hungry panic believe";

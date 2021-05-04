@@ -1,1 +1,1 @@
-var mnemonic = "license album roof inject group soft void snack negative favorite female program";
+var mnemonic = "test stage typical strong omit ready fever immune music imitate conduct history";

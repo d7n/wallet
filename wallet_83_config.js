@@ -1,1 +1,1 @@
-var mnemonic = "saddle weather cross habit advance squirrel mobile loop morning business metal grant";
+var mnemonic = "knife dinner ivory guitar noble alter harbor afford shy total velvet spread";

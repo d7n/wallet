@@ -1,1 +1,1 @@
-var mnemonic = "candy west clean rare distance faith can sport suffer helmet antique post";
+var mnemonic = "kiwi ancient own prefer canvas eight end spring baby castle cabbage hundred";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor tired across table clap indicate hurt bundle siege science entry jungle";
+var mnemonic = "bamboo pilot other normal blush reveal float grief bottom afford wet purse";

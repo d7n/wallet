@@ -1,1 +1,1 @@
-var mnemonic = "shuffle budget thunder begin way brisk exhaust deputy pretty helmet stock early";
+var mnemonic = "code medal van soccer frost unveil since film cabin derive uphold vague";

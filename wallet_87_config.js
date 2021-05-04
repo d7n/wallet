@@ -1,1 +1,1 @@
-var mnemonic = "danger young pride cloth moral burst prefer silent stumble dinner fever ring";
+var mnemonic = "enforce blood quote crush monster describe hazard verify crawl ritual crawl table";

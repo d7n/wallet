@@ -1,1 +1,1 @@
-var mnemonic = "void rack youth west design metal drip crisp column inch mind couple";
+var mnemonic = "maximum local pool mosquito just length truly pizza critic emerge ecology purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "robot view fox dial around pitch gold champion jealous lunch save solve";
+var mnemonic = "hero modify huge eight truck deliver draw pride enrich spend spring shell";

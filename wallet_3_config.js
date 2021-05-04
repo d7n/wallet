@@ -1,1 +1,1 @@
-var mnemonic = "afford leader phone easily lucky easily occur earth enlist want predict gym";
+var mnemonic = "monitor divorce powder sponsor toast helmet item large fatigue stairs sock hungry";

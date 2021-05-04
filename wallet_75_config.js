@@ -1,1 +1,1 @@
-var mnemonic = "taste flock ask moon surprise craft door myth priority wear clay glow";
+var mnemonic = "island category echo wagon wool wife chalk video lizard hurdle fossil balcony";

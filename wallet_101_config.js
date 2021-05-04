@@ -1,1 +1,1 @@
-var mnemonic = "child dune input grain bulb flee test nice cattle left human express";
+var mnemonic = "gather room mule asthma way laundry olive rich coil crew verb multiply";

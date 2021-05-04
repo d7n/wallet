@@ -1,1 +1,1 @@
-var mnemonic = "brief divert prison bone repeat grain silly cart allow vague rug afraid";
+var mnemonic = "monkey aware vacuum adjust reopen puzzle helmet table ginger announce safe cereal";

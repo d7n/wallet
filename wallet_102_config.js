@@ -1,1 +1,1 @@
-var mnemonic = "blanket gather laugh puzzle guide friend inspire foil second excuse hunt okay";
+var mnemonic = "subject pioneer patient denial they allow useful proud enter derive grunt direct";

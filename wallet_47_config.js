@@ -1,1 +1,1 @@
-var mnemonic = "symbol correct broom celery dilemma coyote layer battle acquire crumble clinic improve";
+var mnemonic = "interest hold train observe pioneer wrap device violin method business motor demand";

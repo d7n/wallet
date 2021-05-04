@@ -1,1 +1,1 @@
-var mnemonic = "convince man cart situate peace edge lift mind weekend just sugar clean";
+var mnemonic = "wedding gather message rigid fit trap captain leaf alpha race blind jazz";

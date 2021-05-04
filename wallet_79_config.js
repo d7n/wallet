@@ -1,1 +1,1 @@
-var mnemonic = "wink fortune witness goat success style glance connect physical capable rocket spatial";
+var mnemonic = "kick december public remind parent usual divide spike symptom phone satisfy volcano";

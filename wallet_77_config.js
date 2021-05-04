@@ -1,1 +1,1 @@
-var mnemonic = "relief lounge satoshi isolate frame cat dinosaur atom cotton nurse solution ceiling";
+var mnemonic = "album random sphere island invest edge crime miss settle arrest noodle tent";

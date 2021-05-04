@@ -1,1 +1,1 @@
-var mnemonic = "possible kangaroo maple skin exact comic spatial anchor cube promote crew effort";
+var mnemonic = "destroy stick vapor rich student fork great mask name jungle flag sausage";

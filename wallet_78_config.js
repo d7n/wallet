@@ -1,1 +1,1 @@
-var mnemonic = "blossom enable cook squirrel badge happy lawn valley tide project genius deal";
+var mnemonic = "snap point pulp pyramid tomato expand since buzz ugly dose enlist gorilla";

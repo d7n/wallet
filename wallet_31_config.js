@@ -1,1 +1,1 @@
-var mnemonic = "lesson jaguar brave illness energy carbon canvas sting town pond trend still";
+var mnemonic = "region riot water oyster bounce result female town weekend evolve sea popular";

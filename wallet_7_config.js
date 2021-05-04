@@ -1,1 +1,1 @@
-var mnemonic = "cash tip bubble front fish toddler job bag eye tongue coil swear";
+var mnemonic = "universe accuse tornado donor large embark orphan someone session north century consider";

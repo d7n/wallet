@@ -1,1 +1,1 @@
-var mnemonic = "gap scissors secret interest raw uphold length toe quit frequent fiber cake";
+var mnemonic = "kitten chest address lamp series trial valid tissue oil wet butter page";

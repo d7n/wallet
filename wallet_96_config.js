@@ -1,1 +1,1 @@
-var mnemonic = "select avoid whale resource disease crawl habit flee tonight ship bonus swarm";
+var mnemonic = "powder lizard gentle arm second castle receive radar farm dose always escape";

@@ -1,1 +1,1 @@
-var mnemonic = "define shield butter cheese limb heart join merge toy emerge grant wide";
+var mnemonic = "special gallery once exact poet piece spirit audit actor raccoon glad giant";

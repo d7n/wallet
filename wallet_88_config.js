@@ -1,1 +1,1 @@
-var mnemonic = "raw kid blur pioneer cake hover asset range eternal depend ensure nerve";
+var mnemonic = "eight wheat attract oxygen amateur divorce amount bullet gold silly grunt addict";

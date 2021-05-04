@@ -1,1 +1,1 @@
-var mnemonic = "afraid hockey chaos parent proof series all warrior increase please spend predict";
+var mnemonic = "adult spider fold scrap buyer frozen wonder silk invest devote artefact endorse";

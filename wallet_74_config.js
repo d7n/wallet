@@ -1,1 +1,1 @@
-var mnemonic = "finish broken phone chuckle balance little provide into jar timber online disagree";
+var mnemonic = "hello bottom small parade zoo mystery latin lab poverty eyebrow rather secret";

@@ -1,1 +1,1 @@
-var mnemonic = "busy rubber law club ritual use height fluid modify race lounge service";
+var mnemonic = "jungle brief icon appear shine gasp abandon region sausage puzzle kiss farm";

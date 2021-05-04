@@ -1,1 +1,1 @@
-var mnemonic = "faith lawsuit grunt pave merry else cash belt gaze hammer kite celery";
+var mnemonic = "elbow tray skirt clean expire tiny unable oyster action trust ask salt";

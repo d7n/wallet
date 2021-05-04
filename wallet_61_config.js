@@ -1,1 +1,1 @@
-var mnemonic = "attend stock easily develop crater human monster clutch either rally enlist wonder";
+var mnemonic = "bag wonder inject snow uphold shaft current write duck hundred east risk";

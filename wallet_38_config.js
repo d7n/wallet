@@ -1,1 +1,1 @@
-var mnemonic = "snack witness short apple aunt hill liquid document caught fiction coach verb";
+var mnemonic = "blue mystery destroy injury melody wood clever train endless short quote student";

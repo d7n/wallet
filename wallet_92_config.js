@@ -1,1 +1,1 @@
-var mnemonic = "caught stove mammal deny behave famous always lunar banner process elephant scare";
+var mnemonic = "future total random capital soul soup mother soap disease gospel limb promote";

@@ -1,1 +1,1 @@
-var mnemonic = "poem there please bottom exhaust salon panic yellow traffic impulse loyal innocent";
+var mnemonic = "round end fluid scale attitude athlete fish step convince cable seek bicycle";

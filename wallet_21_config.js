@@ -1,1 +1,1 @@
-var mnemonic = "garment mad dilemma voyage empty head solid inner august spirit voyage flash";
+var mnemonic = "margin crime barely soccer obvious thumb whip guitar ozone diet crumble quality";

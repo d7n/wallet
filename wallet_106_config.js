@@ -1,1 +1,1 @@
-var mnemonic = "zoo sausage rhythm tail ugly rabbit curious exile simple gasp script solid";
+var mnemonic = "mango letter blur degree exhaust oak aspect invite surprise shoot tube strong";

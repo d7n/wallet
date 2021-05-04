@@ -1,1 +1,1 @@
-var mnemonic = "this claim olympic top vault april unable high calm divorce throw fat";
+var mnemonic = "size staff badge ramp globe very keep retire goat spring suggest mushroom";

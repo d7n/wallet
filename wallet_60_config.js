@@ -1,1 +1,1 @@
-var mnemonic = "seek delay truly use crowd rough auto benefit unusual lobster stick mobile";
+var mnemonic = "purchase until hello dish speak replace vote smart open fan target wise";

@@ -1,1 +1,1 @@
-var mnemonic = "day domain economy thing rhythm ride crane broken logic before party carbon";
+var mnemonic = "want fruit mosquito crime patrol salt street ready ethics weekend harvest way";

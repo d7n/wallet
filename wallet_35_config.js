@@ -1,1 +1,1 @@
-var mnemonic = "fence super wife armor clip enter assume alcohol ring century call scheme";
+var mnemonic = "scene industry patch ketchup museum life annual post bridge verb sport bachelor";

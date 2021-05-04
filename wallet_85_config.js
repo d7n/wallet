@@ -1,1 +1,1 @@
-var mnemonic = "range sister unknown omit clean when maze bachelor fatigue obvious minute daughter";
+var mnemonic = "net brief share service twist run antique find there language indoor squirrel";

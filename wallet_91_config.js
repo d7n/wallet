@@ -1,1 +1,1 @@
-var mnemonic = "square clap achieve gas never security infant produce erode blast wood mention";
+var mnemonic = "fault trophy unusual quarter case title ready weird lottery custom dish dentist";

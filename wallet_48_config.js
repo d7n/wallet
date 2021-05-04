@@ -1,1 +1,1 @@
-var mnemonic = "mushroom size liberty design enrich wonder write drink artist match ostrich lend";
+var mnemonic = "glimpse visual exact omit zoo correct industry ribbon swim urge latin news";

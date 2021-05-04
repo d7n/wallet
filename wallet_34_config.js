@@ -1,1 +1,1 @@
-var mnemonic = "crunch act file craft wasp raise pet tunnel mail enlist bacon vehicle";
+var mnemonic = "valve mandate brave alone lecture because hard require that heavy accident car";

@@ -1,1 +1,1 @@
-var mnemonic = "sketch artwork borrow sibling sphere cram panel surprise predict author limb evil";
+var mnemonic = "cash pottery blossom large group search couple peasant mushroom traffic vacuum raccoon";

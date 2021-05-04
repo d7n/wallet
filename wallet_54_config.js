@@ -1,1 +1,1 @@
-var mnemonic = "insect short word affair group weather sadness damage raven attend edit grow";
+var mnemonic = "point flavor hint pottery mean deposit toilet true organ tool window van";

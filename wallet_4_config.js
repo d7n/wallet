@@ -1,1 +1,1 @@
-var mnemonic = "battle hurt laptop goat sad swift elder cargo minimum brief truck clever";
+var mnemonic = "alter trick govern mandate earth unaware nasty address glue position morning adjust";

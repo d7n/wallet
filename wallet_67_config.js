@@ -1,1 +1,1 @@
-var mnemonic = "domain inside force acid mix focus clinic evil ahead blanket element desert";
+var mnemonic = "broken caution ball doctor riot seek nut paper veteran opinion short assume";
