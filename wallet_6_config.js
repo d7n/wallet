@@ -1,1 +1,1 @@
-var mnemonic = "damage wet yard sleep actor slam size brother fox armed turn cost";
+var mnemonic = "usage junk use unlock tourist swamp agree glad city sponsor color blush";

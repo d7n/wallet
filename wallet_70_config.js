@@ -1,1 +1,1 @@
-var mnemonic = "spawn trust circle crunch machine online govern token amazing chest wild ugly";
+var mnemonic = "either secret kid rival chalk remove always arrest rural okay improve negative";

@@ -1,1 +1,1 @@
-var mnemonic = "draw alone say crouch equip humble birth artwork helmet lonely water pass";
+var mnemonic = "abuse unaware mountain bright amount vault absorb tattoo nurse rebuild police scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "adult humor mean goose early humble hood cement camp arrest oyster arrive";
+var mnemonic = "cable juice elder school degree disorder empty phrase brief pigeon energy viable";

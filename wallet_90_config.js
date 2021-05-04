@@ -1,1 +1,1 @@
-var mnemonic = "explain march immense blanket off step property security unhappy live cruel soccer";
+var mnemonic = "plate profit online ten seminar scene man basket fruit rail outer color";

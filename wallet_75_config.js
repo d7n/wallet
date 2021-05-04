@@ -1,1 +1,1 @@
-var mnemonic = "actress chase drastic duck drive travel witness bubble auction during mimic pattern";
+var mnemonic = "jewel lounge coral clever confirm citizen list above final soda calm normal";

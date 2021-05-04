@@ -1,1 +1,1 @@
-var mnemonic = "orphan electric sun wagon coyote wire myself easily stereo absent seek ship";
+var mnemonic = "chat team system knife control raw crack trim genuine cluster undo city";

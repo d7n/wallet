@@ -1,1 +1,1 @@
-var mnemonic = "capable during logic rough human field giant ball palace code path favorite";
+var mnemonic = "fiber prosper finger hour high crush major ignore dish wall human prefer";

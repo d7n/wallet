@@ -1,1 +1,1 @@
-var mnemonic = "chalk learn armor sauce thumb cliff forward fine canyon member degree eyebrow";
+var mnemonic = "ginger salute cloud jeans half point sorry parade decade crystal category column";

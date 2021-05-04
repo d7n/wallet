@@ -1,1 +1,1 @@
-var mnemonic = "athlete prefer story quality approve fabric hawk glow right stamp dolphin always";
+var mnemonic = "tired know valley seminar task common license pigeon mansion fix grocery zoo";

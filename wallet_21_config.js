@@ -1,1 +1,1 @@
-var mnemonic = "outside lonely immense process marriage myself file ritual panther van small afford";
+var mnemonic = "uphold salmon toe dust twist calm sketch cream intact valid exercise scout";

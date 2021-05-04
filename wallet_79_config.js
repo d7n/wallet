@@ -1,1 +1,1 @@
-var mnemonic = "subway weather ship work search proof aware dial upset gravity kingdom exotic";
+var mnemonic = "labor soup display unlock ginger extend dish pottery waste melody rival engage";

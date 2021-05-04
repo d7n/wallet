@@ -1,1 +1,1 @@
-var mnemonic = "carpet seminar giraffe vapor ranch cupboard dream reward bus ocean name throw";
+var mnemonic = "situate key minimum dove economy box update that this stem derive despair";

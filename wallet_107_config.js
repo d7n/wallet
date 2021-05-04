@@ -1,1 +1,1 @@
-var mnemonic = "ketchup movie action blame impact arch layer wreck two material settle sting";
+var mnemonic = "earn audit month hamster install wide eternal today rack purchase quarter bar";

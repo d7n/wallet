@@ -1,1 +1,1 @@
-var mnemonic = "world elite law grass alien change fade virus enforce mistake allow sausage";
+var mnemonic = "act almost damage silver fragile cannon error intact nothing winner torch rib";

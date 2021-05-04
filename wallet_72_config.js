@@ -1,1 +1,1 @@
-var mnemonic = "dolphin unable bamboo lend lens time protect recipe equip entire zero crumble";
+var mnemonic = "bridge match dust nurse combine glue hover satisfy ostrich bachelor ankle donate";

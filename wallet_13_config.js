@@ -1,1 +1,1 @@
-var mnemonic = "mixed short either solid curtain nephew boring master observe verb alter fog";
+var mnemonic = "cruel produce ahead cream hollow outdoor rule amount lift comic total jaguar";

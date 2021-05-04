@@ -1,1 +1,1 @@
-var mnemonic = "chronic photo tenant gloom trash insect pencil spirit erase flight subject much";
+var mnemonic = "verify expect pen library cat sunny path sunny heavy govern canvas sight";

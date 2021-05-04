@@ -1,1 +1,1 @@
-var mnemonic = "seven gravity work inmate update inmate gravity lonely cushion fold chunk protect";
+var mnemonic = "powder camp parade fluid mosquito egg shoot lyrics venue enlist hawk exit";

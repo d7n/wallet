@@ -1,1 +1,1 @@
-var mnemonic = "escape razor rapid clock thing antenna bone hello giggle finish doll bar";
+var mnemonic = "admit extra diagram recall ecology office canyon novel control garden exotic panel";

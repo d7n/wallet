@@ -1,1 +1,1 @@
-var mnemonic = "staff east unfair lawsuit display region thrive payment shoot ankle gun unfair";
+var mnemonic = "glory sheriff injury melt ring bounce squirrel remember weapon claw rifle draw";

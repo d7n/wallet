@@ -1,1 +1,1 @@
-var mnemonic = "follow upgrade soap profit maple repair seminar grief uphold school idle daughter";
+var mnemonic = "raven neutral wink already strike bubble armed original phrase egg side thumb";

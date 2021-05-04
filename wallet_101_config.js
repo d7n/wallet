@@ -1,1 +1,1 @@
-var mnemonic = "donor assume key dawn monster sword slender anger height marriage clown arrive";
+var mnemonic = "used response flower act pottery burst comic original impulse broccoli physical man";

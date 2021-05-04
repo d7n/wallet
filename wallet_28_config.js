@@ -1,1 +1,1 @@
-var mnemonic = "crowd trade enjoy today swift flash slush garment alarm laptop invest crater";
+var mnemonic = "model exact wheel bundle armor cloth right juice bird surface spawn foot";

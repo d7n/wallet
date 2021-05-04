@@ -1,1 +1,1 @@
-var mnemonic = "exact rely stumble tortoise siren garbage property average expire half expose spot";
+var mnemonic = "sense ginger beef visual taxi loan normal emerge erode idea vivid culture";

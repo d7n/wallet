@@ -1,1 +1,1 @@
-var mnemonic = "fold defy reject umbrella adult napkin swallow hill radar quick success grid";
+var mnemonic = "output want enjoy lobster welcome noodle skull plunge great approve mosquito guilt";

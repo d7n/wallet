@@ -1,1 +1,1 @@
-var mnemonic = "over picture fever ill holiday reflect crime whale increase social come option";
+var mnemonic = "social clump dress budget error this rapid chapter enlist home imitate apple";

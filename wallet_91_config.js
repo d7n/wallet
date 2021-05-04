@@ -1,1 +1,1 @@
-var mnemonic = "basic tilt chef aim denial hood meadow hello coil discover capital style";
+var mnemonic = "amazing pottery average quality admit benefit settle brand curtain elevator deer allow";

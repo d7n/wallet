@@ -1,1 +1,1 @@
-var mnemonic = "rotate vague lend endless erupt stadium pool peasant certain service false little";
+var mnemonic = "anxiety asset weapon mistake jewel elephant afraid replace manual rib memory walnut";

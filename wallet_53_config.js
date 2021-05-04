@@ -1,1 +1,1 @@
-var mnemonic = "again assault million job across test sister kick solution pill deliver weekend";
+var mnemonic = "foster lobster coral exist fiscal pepper conduct place expand blush view unlock";

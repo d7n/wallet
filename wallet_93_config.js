@@ -1,1 +1,1 @@
-var mnemonic = "artist fluid lonely discover captain pill mass raccoon torch similar daughter accident";
+var mnemonic = "toddler easily apart flower hole food fragile magic shoot away very supreme";

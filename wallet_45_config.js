@@ -1,1 +1,1 @@
-var mnemonic = "elite wheat survey expire critic win genre suit people poet valve unaware";
+var mnemonic = "olive metal divert enjoy kid pet album hope add wash sponsor goddess";

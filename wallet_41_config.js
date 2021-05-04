@@ -1,1 +1,1 @@
-var mnemonic = "cram guilt market tired day swim story rose inner stock symbol hollow";
+var mnemonic = "decrease range stick pass hunt erosion issue myth until pool east jar";

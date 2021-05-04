@@ -1,1 +1,1 @@
-var mnemonic = "dry boost unveil century search into suffer relax payment world sand submit";
+var mnemonic = "forest priority spatial crater income mushroom involve tell budget result sing bar";

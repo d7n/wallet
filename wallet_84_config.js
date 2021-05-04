@@ -1,1 +1,1 @@
-var mnemonic = "vacuum enact spell advice noodle antenna license also tower nation misery barely";
+var mnemonic = "orchard helmet spot apple surge obtain alert honey behave keen primary blouse";

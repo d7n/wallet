@@ -1,1 +1,1 @@
-var mnemonic = "wave congress snake talk hundred street draft imitate false deer lab trophy";
+var mnemonic = "deer fall room fun cake snack impact into gold become leave useless";

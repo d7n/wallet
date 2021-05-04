@@ -1,1 +1,1 @@
-var mnemonic = "senior fetch demand olympic come hat skull collect grief add grace pepper";
+var mnemonic = "receive slam disagree minute slot bag panel balcony stem matrix marine cake";

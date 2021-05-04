@@ -1,1 +1,1 @@
-var mnemonic = "cousin surface give brave field bright letter real width juice orange dolphin";
+var mnemonic = "power medal spring film mule unit elevator dune hip access entry bundle";

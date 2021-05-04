@@ -1,1 +1,1 @@
-var mnemonic = "amount champion client energy beyond champion treat narrow magnet magnet feel cram";
+var mnemonic = "return rhythm labor allow convince fox bamboo cat dash maid drink mercy";

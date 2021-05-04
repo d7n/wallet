@@ -1,1 +1,1 @@
-var mnemonic = "couch upgrade eternal steak frown naive sell august pyramid local royal clerk";
+var mnemonic = "ball flat author vehicle leg erosion inspire basic manual patrol happy agent";

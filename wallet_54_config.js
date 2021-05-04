@@ -1,1 +1,1 @@
-var mnemonic = "rebel card exotic human wink fork lizard member margin position sight edge";
+var mnemonic = "evoke crunch juice human fatal patrol theme yard thumb eyebrow assault enlist";

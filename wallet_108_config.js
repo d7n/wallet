@@ -1,1 +1,1 @@
-var mnemonic = "strike region mystery idle just street reward truck trap similar barely table";
+var mnemonic = "exhibit bomb match snake include lab order shoe torch swift paper put";

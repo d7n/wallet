@@ -1,1 +1,1 @@
-var mnemonic = "need blanket tent disease theme quarter deer timber trade pause attract service";
+var mnemonic = "surge hope update success scatter model abandon jungle wrong tourist spare clean";

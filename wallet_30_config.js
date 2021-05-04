@@ -1,1 +1,1 @@
-var mnemonic = "tackle boat ordinary surge bacon creek use feature horn grab gospel swallow";
+var mnemonic = "betray artwork gallery join leopard adjust rifle kit evil street grape desert";

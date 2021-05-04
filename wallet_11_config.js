@@ -1,1 +1,1 @@
-var mnemonic = "weekend used admit web hint join bitter tone machine child able strike";
+var mnemonic = "fetch supreme claim box pepper fish scout rural blood burden rule snack";

@@ -1,1 +1,1 @@
-var mnemonic = "about trap summer jewel prosper pigeon tiger demise remind bag close supply";
+var mnemonic = "sting soft grain inform stand flock cash course news funny collect swift";

@@ -1,1 +1,1 @@
-var mnemonic = "base start tribe omit capable sail cover quantum love neutral peace basket";
+var mnemonic = "artist source note west trouble reflect spell travel quarter cruel apology exclude";

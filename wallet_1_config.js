@@ -1,1 +1,1 @@
-var mnemonic = "collect lab exotic mansion picture visit chapter pet bonus mail abuse steak";
+var mnemonic = "wage interest figure tag pioneer record blanket fox confirm salt antenna flash";

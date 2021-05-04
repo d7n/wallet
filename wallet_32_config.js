@@ -1,1 +1,1 @@
-var mnemonic = "summer ask square phrase robot number dad lunar cargo eyebrow label anchor";
+var mnemonic = "survey convince tag isolate bubble grief parrot arena rice office nephew jewel";

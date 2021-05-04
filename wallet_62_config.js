@@ -1,1 +1,1 @@
-var mnemonic = "foam offer agree same state evoke anger wealth cannon garage tribe syrup";
+var mnemonic = "right power delay hurt brass material capital shaft mercy pigeon hollow neither";

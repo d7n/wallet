@@ -1,1 +1,1 @@
-var mnemonic = "bread cruise harbor thumb scissors rapid food typical ranch wise model soldier";
+var mnemonic = "noodle worth toy rare february index version buyer whale recall opinion chef";

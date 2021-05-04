@@ -1,1 +1,1 @@
-var mnemonic = "traffic float flavor jewel fork honey police drum eagle ritual feed peasant";
+var mnemonic = "loop easy nation twist cannon movie health horn hospital loop feel transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "burst original human horse old supreme spirit suffer tunnel stumble belt indoor";
+var mnemonic = "fatal spray nephew use curve chase exotic tide because clay renew dune";

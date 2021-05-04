@@ -1,1 +1,1 @@
-var mnemonic = "merge wrong usual teach practice final dawn casual loop laundry forum cloud";
+var mnemonic = "govern critic park toilet unique shaft project dream brand imitate follow equip";

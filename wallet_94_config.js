@@ -1,1 +1,1 @@
-var mnemonic = "hover radio slight truck friend identify apple tornado milk category ill federal";
+var mnemonic = "melody cinnamon fitness fossil modify kitten among beyond jacket anxiety flip today";

@@ -1,1 +1,1 @@
-var mnemonic = "virus advance diary net toilet alcohol shell setup catch follow grace nephew";
+var mnemonic = "sing keen guess gallery razor wise cave wait display peanut table decrease";

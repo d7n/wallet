@@ -1,1 +1,1 @@
-var mnemonic = "rally cargo feel peasant gospel grass purpose noodle cute scrap sort around";
+var mnemonic = "wish practice legal crash ten hour timber twice royal glove level ritual";

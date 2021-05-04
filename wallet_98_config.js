@@ -1,1 +1,1 @@
-var mnemonic = "pyramid sample coffee one pitch horn usage honey cool sorry attend mirror";
+var mnemonic = "feature wage caught combine kind awkward shadow noise very cup agent follow";

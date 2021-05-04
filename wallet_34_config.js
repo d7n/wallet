@@ -1,1 +1,1 @@
-var mnemonic = "since aunt public impulse remove fiscal powder course pigeon require fancy ask";
+var mnemonic = "toilet side embrace topic balance open blind armor hill canoe afford citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "gain brass stand tube wheat educate sport number nice bulb year walnut";
+var mnemonic = "report logic bitter view finish south hollow merry siren fashion anxiety school";

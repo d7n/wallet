@@ -1,1 +1,1 @@
-var mnemonic = "crane over rubber senior doctor city cash spare real ankle gown steak";
+var mnemonic = "filter boost jelly one chaos gown casino jacket tag chase exile grief";

@@ -1,1 +1,1 @@
-var mnemonic = "notable peanut hungry company auto cushion people luggage file isolate galaxy toilet";
+var mnemonic = "globe garment prison dance nation actor shed analyst mansion betray orbit switch";

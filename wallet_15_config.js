@@ -1,1 +1,1 @@
-var mnemonic = "early problem used crane joy minimum head boil rug fever dust arrange";
+var mnemonic = "already remove ready second party piece floor tiny pumpkin boost fix gesture";

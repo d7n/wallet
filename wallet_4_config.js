@@ -1,1 +1,1 @@
-var mnemonic = "brother brave erupt culture ceiling term three dial old lawn female pretty";
+var mnemonic = "awesome bean mansion script expire code seven price bundle fruit glare flavor";

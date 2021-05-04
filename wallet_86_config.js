@@ -1,1 +1,1 @@
-var mnemonic = "suit hammer style drill shy fish enlist duck maple useless lion pupil";
+var mnemonic = "can output sleep dinosaur wasp extra eye window toe buyer acoustic off";

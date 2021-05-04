@@ -1,1 +1,1 @@
-var mnemonic = "front another resemble other oak extend rhythm damage school desert glow fury";
+var mnemonic = "hurry rent argue congress will lava pear spoil weasel need connect universe";

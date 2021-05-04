@@ -1,1 +1,1 @@
-var mnemonic = "layer maple tobacco mule scan obey dice chaos vacuum borrow shell punch";
+var mnemonic = "follow fuel luggage attitude firm eye artefact walk cereal discover foster section";

@@ -1,1 +1,1 @@
-var mnemonic = "excite badge century depend guide fire bleak attract whip road civil pudding";
+var mnemonic = "genius crater mesh rate blue method business slot toast flower flavor around";

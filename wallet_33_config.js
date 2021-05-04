@@ -1,1 +1,1 @@
-var mnemonic = "opera scrap anxiety today option release food spirit swim path pistol short";
+var mnemonic = "love purpose spoon lock short weird jewel situate stand siege begin fade";

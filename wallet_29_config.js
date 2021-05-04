@@ -1,1 +1,1 @@
-var mnemonic = "exhaust series swing control one modify vault car noble mansion peanut floor";
+var mnemonic = "fetch radio deposit birth use delay neck original member flame equip napkin";

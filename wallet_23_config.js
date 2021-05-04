@@ -1,1 +1,1 @@
-var mnemonic = "oyster scatter essay shine track tribe jacket riot market arena pet catalog";
+var mnemonic = "name lottery citizen wife process mad hotel asset flash oven talk speed";

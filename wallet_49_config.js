@@ -1,1 +1,1 @@
-var mnemonic = "fox object stone orbit trial security change royal future spoon detail magic";
+var mnemonic = "gather dismiss result office topic slender aerobic pond employ engage reject lake";

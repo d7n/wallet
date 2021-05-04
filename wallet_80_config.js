@@ -1,1 +1,1 @@
-var mnemonic = "during still oblige wasp sphere suspect honey supply act twenty begin visa";
+var mnemonic = "adjust squirrel quick mixed income teach nest speak cotton sudden affair benefit";

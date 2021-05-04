@@ -1,1 +1,1 @@
-var mnemonic = "lens success claim welcome adult any hurry machine veteran win horse ridge";
+var mnemonic = "mass tomato earn room scan dolphin glimpse push enroll night naive cake";

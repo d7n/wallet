@@ -1,1 +1,1 @@
-var mnemonic = "remove news concert cruise milk ahead wear resist make term quit slot";
+var mnemonic = "frame virus curve push write suggest crazy indicate jungle moment skirt chaos";

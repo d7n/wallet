@@ -1,1 +1,1 @@
-var mnemonic = "pluck reward summer sunset kite miracle follow vague whale intact champion neither";
+var mnemonic = "engine year often arrest there celery transfer typical unfold joy lecture vintage";

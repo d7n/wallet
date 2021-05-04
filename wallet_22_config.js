@@ -1,1 +1,1 @@
-var mnemonic = "piece ritual stuff drive skin dance offer solution quit grid invest shed";
+var mnemonic = "kind dirt water marble segment add diary casino flash cross amazing artist";

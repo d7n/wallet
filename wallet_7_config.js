@@ -1,1 +1,1 @@
-var mnemonic = "bubble stem illness scan small hobby fringe side lock belt brick direct";
+var mnemonic = "off question garment machine destroy car sudden garden height expand present tumble";

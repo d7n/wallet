@@ -1,1 +1,1 @@
-var mnemonic = "copy garlic wall better square slight rude tennis miss arena elite popular";
+var mnemonic = "virus soldier thunder kit armor advice silent horse hen remember lobster radar";

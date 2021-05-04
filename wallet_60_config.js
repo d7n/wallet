@@ -1,1 +1,1 @@
-var mnemonic = "shrimp prison life minimum rabbit hunt strong loop title setup soul empower";
+var mnemonic = "fire truly comic eternal filter main tired impulse like seven manual add";

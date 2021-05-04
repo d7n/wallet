@@ -1,1 +1,1 @@
-var mnemonic = "snow push they electric badge slender dream surge neglect razor rather gather";
+var mnemonic = "shaft rookie bulb bench embrace learn kind health tenant student tragic chuckle";

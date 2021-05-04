@@ -1,1 +1,1 @@
-var mnemonic = "find good project trial asset blur tennis web luxury palm culture pig";
+var mnemonic = "mutual reduce stamp social move tape bubble language crowd opinion ivory smile";

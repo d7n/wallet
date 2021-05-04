@@ -1,1 +1,1 @@
-var mnemonic = "consider remember mean truth public venue kite symbol key retreat inherit love";
+var mnemonic = "surprise alpha response rate turtle couch picnic slight stairs staff climb develop";

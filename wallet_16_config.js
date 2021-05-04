@@ -1,1 +1,1 @@
-var mnemonic = "volume spread winner valley enemy sign grow flight member basic law have";
+var mnemonic = "egg federal siren vicious predict sadness zebra oak pool curtain observe cricket";

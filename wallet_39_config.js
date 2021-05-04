@@ -1,1 +1,1 @@
-var mnemonic = "culture search rely seven anxiety oil orbit stand emotion coconut notable dawn";
+var mnemonic = "wage puppy sadness gallery ordinary tissue gauge issue repeat end confirm grocery";

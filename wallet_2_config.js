@@ -1,1 +1,1 @@
-var mnemonic = "misery use install top jump mistake six acoustic model useful keen month";
+var mnemonic = "immune cash fit trial dose unveil borrow city cheap laugh humor aerobic";

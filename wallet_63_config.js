@@ -1,1 +1,1 @@
-var mnemonic = "surprise code silk eternal wave bread dog wonder climb main bitter grape";
+var mnemonic = "conduct wash quit slab fiction tuna describe car able pact solid ugly";
