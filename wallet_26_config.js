@@ -1,1 +1,1 @@
-var mnemonic = "beauty bubble nasty focus source hood squirrel silk humble topic bread champion";
+var mnemonic = "option similar waste firm inquiry lumber shop live trim federal move gym";

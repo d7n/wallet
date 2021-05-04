@@ -1,1 +1,1 @@
-var mnemonic = "super prosper claw wide swamp salmon lonely luggage mule south forget snap";
+var mnemonic = "grain duty eyebrow bulb match fire final distance hip victory mobile dismiss";

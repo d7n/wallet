@@ -1,1 +1,1 @@
-var mnemonic = "bike owner stumble adult tongue vast upper rebel during scale pattern minor";
+var mnemonic = "unhappy scheme six kind wasp plate trend milk debris item two stock";

@@ -1,1 +1,1 @@
-var mnemonic = "color congress orange project affair card sugar cake wreck vendor fancy unable";
+var mnemonic = "refuse enough chunk liquid brisk start scissors lamp wagon gas resist entire";

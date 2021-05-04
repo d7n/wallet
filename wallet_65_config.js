@@ -1,1 +1,1 @@
-var mnemonic = "shy photo define leopard adult trial spirit sand lemon glove surface switch";
+var mnemonic = "link decide breeze disorder term emerge join cup female acid tomorrow spread";

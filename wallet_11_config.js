@@ -1,1 +1,1 @@
-var mnemonic = "rapid fly help pass add excite title sun wheat day ozone illegal";
+var mnemonic = "girl tuna square fiction offer crucial jealous erode casino buddy give lamp";

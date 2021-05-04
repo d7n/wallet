@@ -1,1 +1,1 @@
-var mnemonic = "beauty dentist tumble among knee glow hair six hungry thrive hold oyster";
+var mnemonic = "sentence hollow cereal leaf modify top flower reveal advice venture patch lemon";

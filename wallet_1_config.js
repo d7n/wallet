@@ -1,1 +1,1 @@
-var mnemonic = "offer believe famous divert kangaroo various basket hole bag climb ethics bacon";
+var mnemonic = "myself exist step utility enhance multiply cliff brisk pluck winter team canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito boy senior kit pilot zone pupil torch crowd coyote ship scrub";
+var mnemonic = "dinner liar erode sibling champion sock barrel donkey laptop state track thing";

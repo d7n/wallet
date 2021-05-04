@@ -1,1 +1,1 @@
-var mnemonic = "glory quiz shiver also text off quick helmet child satisfy episode you";
+var mnemonic = "input inhale river unveil student topic mass blanket attack voice job borrow";

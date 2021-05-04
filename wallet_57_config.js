@@ -1,1 +1,1 @@
-var mnemonic = "history suggest turn rate museum fee ride poverty hungry remind strategy marriage";
+var mnemonic = "awkward regret inform glory catch blind unusual champion address engage obey oil";

@@ -1,1 +1,1 @@
-var mnemonic = "collect duck buffalo access bachelor lady fetch improve resist swap goat harbor";
+var mnemonic = "often private swing angle elder deposit favorite monkey peace powder giggle minimum";

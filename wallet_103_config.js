@@ -1,1 +1,1 @@
-var mnemonic = "swear skirt awkward measure maple sock congress endorse veteran mercy kit note";
+var mnemonic = "deputy use claim write kingdom soft fall dutch wrist fox cause acoustic";

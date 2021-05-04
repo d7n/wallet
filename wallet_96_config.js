@@ -1,1 +1,1 @@
-var mnemonic = "pizza behind flock occur lion notable work gaze put march nice rally";
+var mnemonic = "smile aerobic expand celery brain antique income wear detect rack game fresh";

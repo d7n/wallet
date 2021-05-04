@@ -1,1 +1,1 @@
-var mnemonic = "impulse badge army begin laptop three crystal broccoli forget below shoot toast";
+var mnemonic = "bone cruise fence vapor sunny asset movie orbit crime swear heavy shield";

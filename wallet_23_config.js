@@ -1,1 +1,1 @@
-var mnemonic = "ticket core level urge spatial room solution crazy design expire peasant abandon";
+var mnemonic = "robot village circle will ramp timber climb slim velvet steel inner fog";

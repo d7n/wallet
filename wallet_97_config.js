@@ -1,1 +1,1 @@
-var mnemonic = "okay bulb that favorite tribe kind deliver live logic consider mutual room";
+var mnemonic = "limb sweet royal guitar disease width useful crash soul two poem ocean";

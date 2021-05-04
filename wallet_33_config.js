@@ -1,1 +1,1 @@
-var mnemonic = "nest grunt patient barely flavor yard face leg idle sniff chase expect";
+var mnemonic = "sad unusual anxiety clown donate crucial symptom panda art afraid ask cannon";

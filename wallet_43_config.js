@@ -1,1 +1,1 @@
-var mnemonic = "virtual legend jelly country resource remain lumber comfort breeze hip pluck tube";
+var mnemonic = "garbage stick erosion spell attitude cycle text situate basic vessel machine level";

@@ -1,1 +1,1 @@
-var mnemonic = "radio fun fault tilt size melt spoon outer dumb torch glove degree";
+var mnemonic = "wire brisk invest hello winter rate stadium category autumn hockey belt youth";

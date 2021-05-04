@@ -1,1 +1,1 @@
-var mnemonic = "barrel together hover there ankle lazy rather monkey dinner jealous illness poverty";
+var mnemonic = "brisk trial skate blood rose album journey stable type grief exile napkin";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor immune illegal art member resource end melt again enlist setup debate";
+var mnemonic = "educate hungry update advance present turtle topple typical embark bicycle divorce canal";

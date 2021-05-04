@@ -1,1 +1,1 @@
-var mnemonic = "tiger interest orbit member limit nice private second duty wood wheel turtle";
+var mnemonic = "wreck knee alcohol ill tag lunch online crush famous clock coyote city";

@@ -1,1 +1,1 @@
-var mnemonic = "push museum bottom filter pretty cage knife elder project notice argue office";
+var mnemonic = "chronic visual loop lizard gown play riot rich vote faint ginger sort";

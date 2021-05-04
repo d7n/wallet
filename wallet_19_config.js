@@ -1,1 +1,1 @@
-var mnemonic = "hub view where oppose riot cement hole pink beyond beauty wait deliver";
+var mnemonic = "eagle sheriff access permit pumpkin bullet jazz maze cool giant worth lottery";

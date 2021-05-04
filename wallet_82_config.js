@@ -1,1 +1,1 @@
-var mnemonic = "cricket puzzle master nerve pyramid age sponsor love laugh spatial wink citizen";
+var mnemonic = "tobacco banner gas stuff type wash million ecology ghost game noise rate";

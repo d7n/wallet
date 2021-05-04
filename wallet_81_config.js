@@ -1,1 +1,1 @@
-var mnemonic = "empower right caution broccoli mimic fantasy toilet attack feed lobster shiver goddess";
+var mnemonic = "trial salmon toward enroll find dice relax lumber want razor cruel actress";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb slush unveil kite draft pause acid dinner online ribbon side prize";
+var mnemonic = "pizza hair spread reflect very dose seminar priority oil damp detail hope";

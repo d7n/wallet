@@ -1,1 +1,1 @@
-var mnemonic = "upper people armor real fragile vault focus tenant orchard copy road regret";
+var mnemonic = "symptom visa junior snake bless file day pattern until drastic evoke patient";

@@ -1,1 +1,1 @@
-var mnemonic = "skate arctic develop husband jar hazard side switch token uphold drama youth";
+var mnemonic = "cover mystery put diesel reduce tennis giggle chunk purity wide fold theme";

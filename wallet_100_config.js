@@ -1,1 +1,1 @@
-var mnemonic = "enemy debate gesture assume drama place click skin excuse acid thunder island";
+var mnemonic = "fever canal citizen speed stick desk turkey unlock find hood pencil stumble";

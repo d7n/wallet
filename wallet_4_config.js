@@ -1,1 +1,1 @@
-var mnemonic = "clay glove buffalo proud grid carpet worth camp paper divert can admit";
+var mnemonic = "joke muscle negative sudden hint valley hope dance someone mansion range chef";

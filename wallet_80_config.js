@@ -1,1 +1,1 @@
-var mnemonic = "capital pipe fold faint combine brush move embark engage radio mesh crunch";
+var mnemonic = "time glass someone famous spell gain razor shrimp smile defense original broken";

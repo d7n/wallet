@@ -1,1 +1,1 @@
-var mnemonic = "educate lamp fine blade rough bird horn response example kitchen crumble energy";
+var mnemonic = "window abstract mixed clown arrive abuse client deliver page school drop slight";

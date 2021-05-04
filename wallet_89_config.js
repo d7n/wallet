@@ -1,1 +1,1 @@
-var mnemonic = "expect mandate diet merry dust roof ignore captain upset enlist nuclear tunnel";
+var mnemonic = "farm outer extra project wood zero resist lens journey other puzzle arrest";

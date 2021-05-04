@@ -1,1 +1,1 @@
-var mnemonic = "sense message menu seek outside spell fiber amused release east oval arrow";
+var mnemonic = "such approve resist source admit bleak antenna laptop news ostrich ostrich that";

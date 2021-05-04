@@ -1,1 +1,1 @@
-var mnemonic = "team soda any public identify crane local negative bar sword fiction seven";
+var mnemonic = "lion state client nose upset robust item city spend stand beauty mixed";

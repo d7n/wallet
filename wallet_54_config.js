@@ -1,1 +1,1 @@
-var mnemonic = "element hire board enroll goddess tongue stuff smooth exist nothing rate position";
+var mnemonic = "fragile consider rural episode lion vendor second access summer leisure link alcohol";

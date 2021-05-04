@@ -1,1 +1,1 @@
-var mnemonic = "orbit arch exile recall mandate interest element deer mixed south story ensure";
+var mnemonic = "lumber blast upon add twin armor age sketch lunch record romance unveil";

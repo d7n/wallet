@@ -1,1 +1,1 @@
-var mnemonic = "alley lend gun yellow course plate flash hub banana display link symptom";
+var mnemonic = "cereal solid donor fluid hope jealous fame wrist project stuff silk spend";

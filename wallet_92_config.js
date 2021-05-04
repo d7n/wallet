@@ -1,1 +1,1 @@
-var mnemonic = "creek simple number tone hammer cook mimic cart donkey web peace day";
+var mnemonic = "toss leopard usual pact rival must cactus coral hungry own coconut draft";

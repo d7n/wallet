@@ -1,1 +1,1 @@
-var mnemonic = "dry click response keen accident knife render feature half crater taxi own";
+var mnemonic = "person asthma lounge always bounce tornado stem effort unable isolate uphold jaguar";

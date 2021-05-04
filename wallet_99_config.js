@@ -1,1 +1,1 @@
-var mnemonic = "rigid puppy rebuild clump pen guitar shoulder lion pause struggle ship retire";
+var mnemonic = "letter bridge flavor math scheme grass tide orphan easy play license beach";

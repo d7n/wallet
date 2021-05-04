@@ -1,1 +1,1 @@
-var mnemonic = "maximum major odor farm female enlist unlock donkey betray celery shoe this";
+var mnemonic = "unable famous grant mix dream resource violin ill can lift patrol despair";

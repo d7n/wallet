@@ -1,1 +1,1 @@
-var mnemonic = "high high day apology antique home spoon inmate vacant rough old face";
+var mnemonic = "manual choice advance deposit agree enemy tank dinosaur favorite nerve possible angry";

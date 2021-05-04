@@ -1,1 +1,1 @@
-var mnemonic = "metal below sight current dash hazard cancel cage canal avoid bacon syrup";
+var mnemonic = "merge stay dirt level grass tenant follow deliver arctic edit crowd assume";

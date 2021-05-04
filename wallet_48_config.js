@@ -1,1 +1,1 @@
-var mnemonic = "purchase detect sibling gold miracle brisk napkin lens under twin clerk pelican";
+var mnemonic = "supply purchase exhibit tomorrow keep truly ceiling hammer memory feel denial eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "auto cheap beauty body cheap pledge seat ceiling retreat general ghost cry";
+var mnemonic = "auto talk later despair destroy achieve announce frown bitter craft worry nest";

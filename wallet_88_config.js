@@ -1,1 +1,1 @@
-var mnemonic = "skin camp clean success grocery unaware flee grant use display clerk giant";
+var mnemonic = "bless later uncle drift eight predict vendor piano embark beef fun twice";

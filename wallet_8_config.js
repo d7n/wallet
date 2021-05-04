@@ -1,1 +1,1 @@
-var mnemonic = "together worry cannon paddle beef relief damp sight comic gospel day lottery";
+var mnemonic = "toilet ostrich miracle rule robot topic slam open target sample host project";

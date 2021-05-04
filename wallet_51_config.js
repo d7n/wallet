@@ -1,1 +1,1 @@
-var mnemonic = "network broom below turkey vacuum phone thank angle know arch field army";
+var mnemonic = "solid angle pen need inhale casino bunker then sudden type worry distance";

@@ -1,1 +1,1 @@
-var mnemonic = "six unknown cloth fox swift kick another keen tape suffer hen consider";
+var mnemonic = "claim small execute engine flower blind angle ability ethics prison floor lyrics";

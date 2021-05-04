@@ -1,1 +1,1 @@
-var mnemonic = "aerobic bronze night despair because photo great rate material yard energy echo";
+var mnemonic = "indoor input plunge shrug donkey few mother faith volume dream cage bike";

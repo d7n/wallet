@@ -1,1 +1,1 @@
-var mnemonic = "sustain awkward evidence milk awesome combine labor honey army found profit harbor";
+var mnemonic = "list blind man bench south offer cook squirrel rib inquiry help horror";

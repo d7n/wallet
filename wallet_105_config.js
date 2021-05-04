@@ -1,1 +1,1 @@
-var mnemonic = "rug auction man company dirt run say program baby debris volume lady";
+var mnemonic = "negative crystal siren kid simple curtain one wisdom arrow obvious spatial give";

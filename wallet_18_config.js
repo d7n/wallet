@@ -1,1 +1,1 @@
-var mnemonic = "resource unfair cactus math dry acquire idle salmon used clay chimney liar";
+var mnemonic = "tennis unable isolate cruel time wrestle utility detect valve grain great forward";

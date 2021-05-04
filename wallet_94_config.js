@@ -1,1 +1,1 @@
-var mnemonic = "change worry snack palace leopard deer scan foam neutral notice scrub mansion";
+var mnemonic = "company floor axis venue reject when hollow object vague actual horror width";

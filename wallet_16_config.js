@@ -1,1 +1,1 @@
-var mnemonic = "scissors vital miss boat valve sleep stock sponsor rare coconut beach wing";
+var mnemonic = "edge ask action already style grant blood away mimic cover direct snack";

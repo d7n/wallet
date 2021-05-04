@@ -1,1 +1,1 @@
-var mnemonic = "fog oak draft tragic high write autumn conduct behind stage skill news";
+var mnemonic = "gold know worry then afford riot lonely mule dilemma certain inhale tribe";

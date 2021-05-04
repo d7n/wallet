@@ -1,1 +1,1 @@
-var mnemonic = "betray candy bicycle return radar child point scale bargain jewel lamp core";
+var mnemonic = "easily tornado secret yard fork worth agent palace swap analyst people lumber";

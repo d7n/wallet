@@ -1,1 +1,1 @@
-var mnemonic = "space coil rebuild hire slender heart shove metal planet damage coral cat";
+var mnemonic = "dad pet broccoli odor want solve exotic slim hotel deny runway gate";

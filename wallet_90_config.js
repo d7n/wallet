@@ -1,1 +1,1 @@
-var mnemonic = "volume sentence trash nut coin captain spirit glue primary renew mushroom odor";
+var mnemonic = "taxi trend lazy prepare donor hip hunt play crucial this siege hazard";

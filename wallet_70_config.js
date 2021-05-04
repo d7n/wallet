@@ -1,1 +1,1 @@
-var mnemonic = "real worry able party muffin pipe sustain stuff member follow kangaroo obvious";
+var mnemonic = "suggest pottery canal admit parent weekend brain ancient laugh spice high property";

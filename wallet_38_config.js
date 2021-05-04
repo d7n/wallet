@@ -1,1 +1,1 @@
-var mnemonic = "actual nothing engine delay loyal neutral plunge lazy seminar produce family snow";
+var mnemonic = "eternal coconut imitate maple mystery major crash attract bronze angle intact outdoor";

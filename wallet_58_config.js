@@ -1,1 +1,1 @@
-var mnemonic = "rude crucial clinic popular local company list march crouch keen guard chase";
+var mnemonic = "document steak utility slide detect cycle sheriff sister material ill need bring";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify smart grape judge cushion vague hard autumn panic suit detect document";
+var mnemonic = "renew debate initial resource put rally snap uncle protect never they symptom";

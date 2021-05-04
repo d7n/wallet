@@ -1,1 +1,1 @@
-var mnemonic = "slush shock since garage film consider lumber chaos position column senior pledge";
+var mnemonic = "fat suit parrot gown similar hungry gym umbrella cigar few sentence hello";

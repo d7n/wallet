@@ -1,1 +1,1 @@
-var mnemonic = "stable argue use paddle you ripple vague turkey bottom skate wall dragon";
+var mnemonic = "mail torch maximum nuclear seed fresh wine rain tube chicken dad decorate";

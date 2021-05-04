@@ -1,1 +1,1 @@
-var mnemonic = "mammal venue knock chalk bright basket explain shaft despair boil dog raw";
+var mnemonic = "leader snake armor magnet setup speak record ocean voice spawn enlist alarm";

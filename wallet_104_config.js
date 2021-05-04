@@ -1,1 +1,1 @@
-var mnemonic = "decline congress buzz figure milk party limit robust castle change horn captain";
+var mnemonic = "kiss spare galaxy jelly slice fit denial ball course actor jelly just";

@@ -1,1 +1,1 @@
-var mnemonic = "couch home indicate actress promote drop six sleep hidden people post loop";
+var mnemonic = "answer ritual process piece shove crush truck canvas defense kiss common ten";

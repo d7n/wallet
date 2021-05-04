@@ -1,1 +1,1 @@
-var mnemonic = "hub grape save only camera real elephant deliver treat satisfy naive usage";
+var mnemonic = "sauce note pitch cereal year owner eight open focus place rather mercy";

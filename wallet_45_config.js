@@ -1,1 +1,1 @@
-var mnemonic = "cross uniform laundry report remove list venue lyrics crisp early oil asset";
+var mnemonic = "employ disease lake various citizen speak circle shell lounge north sleep jacket";

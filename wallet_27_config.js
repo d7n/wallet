@@ -1,1 +1,1 @@
-var mnemonic = "pulp scene reject attract weekend genuine lock clog problem dragon bike vessel";
+var mnemonic = "feature post enroll lesson peasant summer ramp slot fuel transfer drink confirm";

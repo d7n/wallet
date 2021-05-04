@@ -1,1 +1,1 @@
-var mnemonic = "ride isolate empty click dismiss maid dolphin fever kiwi page yard country";
+var mnemonic = "tuna wink snake similar sound valley north blush lazy tooth behave clock";

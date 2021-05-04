@@ -1,1 +1,1 @@
-var mnemonic = "latin invest update anchor first record click tiger before excess agree entire";
+var mnemonic = "oven enforce cruel income arrange sustain tunnel extend ignore deal library dad";

@@ -1,1 +1,1 @@
-var mnemonic = "victory language bonus pet turtle fatal kidney crisp run sail ranch save";
+var mnemonic = "wasp monkey odor clean prevent quote urge sense couch potato agent clock";

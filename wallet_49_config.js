@@ -1,1 +1,1 @@
-var mnemonic = "entry attract echo rib stereo inspire lamp income tuna bonus left toe";
+var mnemonic = "pool certain little muffin false choose oyster tomato talent pen glare employ";

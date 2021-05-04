@@ -1,1 +1,1 @@
-var mnemonic = "prevent clump draft scan journey farm dizzy borrow smile raven series bulk";
+var mnemonic = "distance word quit pumpkin puzzle super amount duck grain slice gasp will";

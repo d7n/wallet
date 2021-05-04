@@ -1,1 +1,1 @@
-var mnemonic = "hard girl artefact distance into marriage kite grow recipe laundry hint mushroom";
+var mnemonic = "leisure october view direct decrease scissors scheme response domain surface embrace maximum";

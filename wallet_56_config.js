@@ -1,1 +1,1 @@
-var mnemonic = "ride prosper trumpet capable appear exchange vacuum fatigue conduct chunk police sting";
+var mnemonic = "insane lend weather grid squeeze need virus section crime banner tonight feed";

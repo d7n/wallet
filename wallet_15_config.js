@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit party awake dirt ankle artefact tank mammal deputy finger surprise tilt";
+var mnemonic = "slender october gate mistake you orchard imitate gesture heavy advance firm mother";

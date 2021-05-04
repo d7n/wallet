@@ -1,1 +1,1 @@
-var mnemonic = "system try gentle secret pumpkin enforce velvet leader student ramp demise among";
+var mnemonic = "parent toy share brown replace damp olympic clerk unfair grant trade damage";

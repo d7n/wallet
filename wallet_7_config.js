@@ -1,1 +1,1 @@
-var mnemonic = "dismiss follow exhibit ozone century bacon distance occur aunt art ghost entry";
+var mnemonic = "rather trend social bleak mother edge nominee drive glass since stage lesson";

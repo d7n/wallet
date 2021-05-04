@@ -1,1 +1,1 @@
-var mnemonic = "bachelor beef arrest brick another struggle crime infant pave puppy solve concert";
+var mnemonic = "miracle torch anxiety gesture confirm safe beef husband ripple guitar note chat";

@@ -1,1 +1,1 @@
-var mnemonic = "fade seed fuel lend define because hybrid jump follow expect favorite ghost";
+var mnemonic = "cluster mixed vast aunt proud popular manual wood profit aware elbow tip";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn embrace omit useless half buyer birth fun flush night quarter extend";
+var mnemonic = "insane icon view decide lava crane small torch cake earth cabin autumn";

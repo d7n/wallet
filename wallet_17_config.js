@@ -1,1 +1,1 @@
-var mnemonic = "universe frozen artist candy palace surface spread sustain derive amazing quarter accident";
+var mnemonic = "angle vicious repeat rose salute wheat bid tumble license fog relief guess";

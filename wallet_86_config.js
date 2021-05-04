@@ -1,1 +1,1 @@
-var mnemonic = "champion close bleak kangaroo select rough bid weather write sweet fluid pact";
+var mnemonic = "sail accuse hold bachelor space prison local come normal pyramid improve claim";

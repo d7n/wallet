@@ -1,1 +1,1 @@
-var mnemonic = "limb pipe draw sell join lunch priority right type neither elephant hill";
+var mnemonic = "giggle pen glass beyond garage tool dinner inflict circle course giant broken";

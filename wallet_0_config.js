@@ -1,1 +1,1 @@
-var mnemonic = "doll furnace monkey earn liar food sphere surround fetch strategy dash grab";
+var mnemonic = "slogan gather garden royal tattoo drum travel forward security urban settle upgrade";

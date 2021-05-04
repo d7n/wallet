@@ -1,1 +1,1 @@
-var mnemonic = "differ basic chaos globe diagram decline novel powder actor photo pencil idle";
+var mnemonic = "myself heavy inspire raw galaxy august endorse knife forum leisure announce average";

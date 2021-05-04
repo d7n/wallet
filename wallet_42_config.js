@@ -1,1 +1,1 @@
-var mnemonic = "jungle wool valley nerve doll flag peasant old surface excuse have crater";
+var mnemonic = "meat bright cousin face tornado gallery hawk lizard eyebrow midnight cradle chaos";

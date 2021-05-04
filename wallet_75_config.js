@@ -1,1 +1,1 @@
-var mnemonic = "surge picture rival tuition polar pottery special diagram image way february sad";
+var mnemonic = "edge paddle spare undo animal vacant robot elbow that call involve hunt";
