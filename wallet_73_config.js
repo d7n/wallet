@@ -1,1 +1,1 @@
-var mnemonic = "cruise group spring arena surprise hawk dumb adjust sugar tube bracket hire";
+var mnemonic = "trick noise tube hundred boil please pride total example fiction inmate broom";

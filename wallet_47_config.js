@@ -1,1 +1,1 @@
-var mnemonic = "thought knife future aim ozone raven castle panther shrug stairs giant verify";
+var mnemonic = "worth situate diesel simple pizza ostrich curve brief armed traffic sketch victory";

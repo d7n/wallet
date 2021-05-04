@@ -1,1 +1,1 @@
-var mnemonic = "obey blind spare change best autumn junior slam juice vehicle excite rabbit";
+var mnemonic = "cushion chunk tone element strategy catch boat safe silly eyebrow winner usage";

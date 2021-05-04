@@ -1,1 +1,1 @@
-var mnemonic = "panda good unaware horse cinnamon column lonely cradle stadium rib detail intact";
+var mnemonic = "mammal used churn thumb upgrade quality suffer raise else evoke defy south";

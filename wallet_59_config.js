@@ -1,1 +1,1 @@
-var mnemonic = "smile tip dry reunion rocket cricket spread era mosquito assume throw skirt";
+var mnemonic = "off business update skirt mandate project wire coyote mobile route eye combine";

@@ -1,1 +1,1 @@
-var mnemonic = "person rifle snap pepper wash miss crawl dismiss moment special hip fury";
+var mnemonic = "found help remove vehicle ability heart camera target cart forum brown junk";

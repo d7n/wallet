@@ -1,1 +1,1 @@
-var mnemonic = "fame tennis alien august month alter raven flag void canvas bullet scatter";
+var mnemonic = "green tonight shaft utility magnet damp thing mosquito zone click region model";

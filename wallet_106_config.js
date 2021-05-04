@@ -1,1 +1,1 @@
-var mnemonic = "adult shrug chuckle nominee pottery dune lecture second record busy oblige lend";
+var mnemonic = "speak oval liar seminar idea cool nut orient achieve reveal atom abandon";

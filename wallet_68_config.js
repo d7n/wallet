@@ -1,1 +1,1 @@
-var mnemonic = "merry walnut wide useful volume slush normal home arrow endorse census mixed";
+var mnemonic = "test next adult slight mosquito tape desk tattoo lift wagon usual tornado";

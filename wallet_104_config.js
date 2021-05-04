@@ -1,1 +1,1 @@
-var mnemonic = "athlete off menu cat bracket bread alert soccer final fly health common";
+var mnemonic = "fortune silk ritual sponsor trial feed valve undo loud off rough advance";

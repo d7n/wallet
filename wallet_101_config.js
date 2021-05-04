@@ -1,1 +1,1 @@
-var mnemonic = "unfold action purchase intact slim disorder cannon timber right trim grief used";
+var mnemonic = "scare galaxy novel oppose huge donkey soup play attack mind autumn pudding";

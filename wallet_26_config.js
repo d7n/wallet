@@ -1,1 +1,1 @@
-var mnemonic = "spray expire among repeat analyst frame mammal inmate tag spring erode speak";
+var mnemonic = "order trophy hedgehog useless together grunt purchase pledge pelican winter jewel trial";

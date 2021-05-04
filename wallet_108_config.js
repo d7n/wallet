@@ -1,1 +1,1 @@
-var mnemonic = "foil dance canvas museum return weird husband confirm eagle wine museum hamster";
+var mnemonic = "elbow elegant demand motion canoe ring better bounce replace parade valve tide";

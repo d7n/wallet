@@ -1,1 +1,1 @@
-var mnemonic = "repair range zoo excuse convince celery cat stairs check such lyrics scare";
+var mnemonic = "virtual squeeze cluster curve label acquire awkward truck toy cushion success circle";

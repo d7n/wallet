@@ -1,1 +1,1 @@
-var mnemonic = "snap main boat kiss loan city clinic appear legend when title patch";
+var mnemonic = "general mandate open hello panel fold sure spatial eight artefact horn reform";

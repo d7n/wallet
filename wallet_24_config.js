@@ -1,1 +1,1 @@
-var mnemonic = "treat pelican stool shove cheap hub similar survey soda correct fish sibling";
+var mnemonic = "title window tonight toilet solid monitor cross desk mobile torch ahead off";

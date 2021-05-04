@@ -1,1 +1,1 @@
-var mnemonic = "chronic favorite glare quiz hybrid burden blind already address dwarf hazard eye";
+var mnemonic = "history cinnamon member dinosaur soup beauty insane cycle baby fabric eyebrow viable";

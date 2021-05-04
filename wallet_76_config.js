@@ -1,1 +1,1 @@
-var mnemonic = "wise put olive drip valley poet service surprise sorry salute draw budget";
+var mnemonic = "morning color discover soda stadium wrap lunch slow top mutual awkward nasty";

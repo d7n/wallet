@@ -1,1 +1,1 @@
-var mnemonic = "slight used swing matrix hockey fan document truly caution quality century blanket";
+var mnemonic = "tenant very unfair hurt train swing side reduce frequent raccoon owner cube";

@@ -1,1 +1,1 @@
-var mnemonic = "ready spatial winter okay pluck prepare fly train deposit solve wheat smart";
+var mnemonic = "ring speed degree announce venture angry soccer bounce boring outdoor remove similar";

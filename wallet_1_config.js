@@ -1,1 +1,1 @@
-var mnemonic = "melody access artefact know arrow orphan dust mechanic wagon sauce suit swamp";
+var mnemonic = "legal sibling forum address recycle awesome worth castle woman canyon maple velvet";

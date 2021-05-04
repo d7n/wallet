@@ -1,1 +1,1 @@
-var mnemonic = "three repair just math video goddess hundred define thunder mansion cabbage lyrics";
+var mnemonic = "nominee whale display chair slide slush civil exercise random squeeze identify axis";

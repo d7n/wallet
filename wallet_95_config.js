@@ -1,1 +1,1 @@
-var mnemonic = "flat body unlock among into depth affair link dolphin dry divert edit";
+var mnemonic = "duty unable modify menu mesh ski wing huge off simple monster pen";

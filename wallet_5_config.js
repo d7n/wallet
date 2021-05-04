@@ -1,1 +1,1 @@
-var mnemonic = "armor typical sunset chimney asthma wish laundry mask dirt squirrel all metal";
+var mnemonic = "busy desert enjoy rifle debate exhaust inhale immune afraid aisle giggle vibrant";

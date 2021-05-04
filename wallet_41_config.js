@@ -1,1 +1,1 @@
-var mnemonic = "lizard impact strong transfer sunset example bird shove public defense nasty chaos";
+var mnemonic = "crystal ethics canyon fortune wear trust juice avocado album slab weekend until";

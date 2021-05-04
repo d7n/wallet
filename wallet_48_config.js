@@ -1,1 +1,1 @@
-var mnemonic = "level myth desk false hybrid small wreck citizen two device sudden catch";
+var mnemonic = "ride hope cup law drama critic skirt inflict undo amused mirror ready";

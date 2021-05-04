@@ -1,1 +1,1 @@
-var mnemonic = "execute violin nerve cage link finish orbit turtle rhythm spring primary giant";
+var mnemonic = "find flavor decade ice brick weapon vague wheat gasp decade twin tide";

@@ -1,1 +1,1 @@
-var mnemonic = "soldier attitude slim accident forest cover kidney sting distance casino reduce section";
+var mnemonic = "meadow animal much reflect suggest runway sure execute spring matrix depth artefact";

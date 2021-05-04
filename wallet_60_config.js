@@ -1,1 +1,1 @@
-var mnemonic = "shallow recipe brick arctic decorate fabric lady absorb accident vacant away alpha";
+var mnemonic = "hybrid snap awkward supply famous rifle surge acoustic question enable club save";

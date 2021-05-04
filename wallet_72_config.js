@@ -1,1 +1,1 @@
-var mnemonic = "tourist wrestle member true pink warfare retire twenty animal pencil small account";
+var mnemonic = "frost club kangaroo help pen beef supreme park when open fly cart";

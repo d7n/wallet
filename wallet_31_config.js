@@ -1,1 +1,1 @@
-var mnemonic = "venue boy soon cook fog enact drill claw welcome fortune donkey alter";
+var mnemonic = "position beach learn beef youth regular found wing penalty equip board off";

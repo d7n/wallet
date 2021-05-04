@@ -1,1 +1,1 @@
-var mnemonic = "infant garlic risk debate ghost under attack credit insane bullet inflict claw";
+var mnemonic = "advance immune abandon fatal home write lawn hope harvest much oppose result";

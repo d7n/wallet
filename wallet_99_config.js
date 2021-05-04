@@ -1,1 +1,1 @@
-var mnemonic = "enable often cage city debris tiger wolf congress there soccer fuel rival";
+var mnemonic = "cruel charge kiwi envelope family notice inner divide draft item later egg";

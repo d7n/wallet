@@ -1,1 +1,1 @@
-var mnemonic = "venue purpose average over heavy copy spike absent unfair rare pupil silent";
+var mnemonic = "retire certain chalk empower follow become come key arrange fuel relax wheat";

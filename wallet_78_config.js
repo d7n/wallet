@@ -1,1 +1,1 @@
-var mnemonic = "pencil dawn wolf alter seed phone method reopen able stairs sustain before";
+var mnemonic = "autumn any muscle size pioneer tonight coffee antique athlete solve glance just";

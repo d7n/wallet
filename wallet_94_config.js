@@ -1,1 +1,1 @@
-var mnemonic = "reflect unfair leg guilt patch voice ahead sibling accuse life divert hotel";
+var mnemonic = "crisp female taste wild vault shrimp any primary approve legend tree adult";

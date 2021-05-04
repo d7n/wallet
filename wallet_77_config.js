@@ -1,1 +1,1 @@
-var mnemonic = "category start unlock great other symptom turkey fresh column tonight bulb thrive";
+var mnemonic = "gather wage device coast owner market road bike gate unique romance judge";

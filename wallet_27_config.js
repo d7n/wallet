@@ -1,1 +1,1 @@
-var mnemonic = "library reunion rescue often floor pencil friend brush lava another rib paddle";
+var mnemonic = "lobster debate type screen novel craft submit task inject mammal casino ugly";

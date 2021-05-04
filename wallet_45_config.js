@@ -1,1 +1,1 @@
-var mnemonic = "aim amazing height quantum spread artist clip host exercise potato gas dismiss";
+var mnemonic = "problem matter true sport stumble occur legend shoe enforce upper frost stadium";

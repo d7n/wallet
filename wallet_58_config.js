@@ -1,1 +1,1 @@
-var mnemonic = "rose primary vivid win laugh pyramid reward clump noodle patrol honey rose";
+var mnemonic = "timber immense wife crucial fitness base under pony ready ripple enhance fox";

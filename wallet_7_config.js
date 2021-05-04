@@ -1,1 +1,1 @@
-var mnemonic = "pass album negative half notable either suffer easily alert ice copper sense";
+var mnemonic = "they evoke lawsuit train multiply cover amateur pepper inhale stuff fall oxygen";

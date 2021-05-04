@@ -1,1 +1,1 @@
-var mnemonic = "priority crazy tonight minimum poverty more round horn resemble result remove edge";
+var mnemonic = "virtual nominee episode cherry copy recall garment gold lab travel window cigar";

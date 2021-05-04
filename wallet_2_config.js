@@ -1,1 +1,1 @@
-var mnemonic = "issue market bike dragon umbrella often peanut throw thunder message install pass";
+var mnemonic = "museum indoor guide slogan aunt blue decorate input message reward anxiety scale";

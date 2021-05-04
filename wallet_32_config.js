@@ -1,1 +1,1 @@
-var mnemonic = "admit glow humble smart chair reopen upset cycle seed firm train cruel";
+var mnemonic = "squirrel notice satoshi body decide turtle sure script shadow any mistake cost";

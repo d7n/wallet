@@ -1,1 +1,1 @@
-var mnemonic = "buffalo swim together pony extra speed useless payment frog tide fatal lion";
+var mnemonic = "tell wool bless stadium vast dance pride tuition attack oxygen raccoon ginger";

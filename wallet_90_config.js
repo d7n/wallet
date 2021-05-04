@@ -1,1 +1,1 @@
-var mnemonic = "rich else save club slice lounge loan salad delay aware glad accuse";
+var mnemonic = "two stairs enter basket sausage bacon guitar coil electric glide victory agree";

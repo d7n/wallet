@@ -1,1 +1,1 @@
-var mnemonic = "spell genius best track abuse gas run genre trade increase series fashion";
+var mnemonic = "unit item maximum charge fury sister nephew health draft opinion uncle squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "draft debris normal reward soccer exclude sword ritual very correct comic wreck";
+var mnemonic = "now burger any impulse awake tent miracle rough tone stool close tiger";

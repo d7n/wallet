@@ -1,1 +1,1 @@
-var mnemonic = "lottery cream camera become stereo coast degree reveal trap sudden about rival";
+var mnemonic = "aim main curious property dinner cotton range lizard level subject echo summer";

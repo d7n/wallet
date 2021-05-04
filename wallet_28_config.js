@@ -1,1 +1,1 @@
-var mnemonic = "potato cactus chase holiday crush giant gallery awkward ask able lucky first";
+var mnemonic = "ankle execute bid plate blossom uncover abstract cancel harbor divert comic husband";

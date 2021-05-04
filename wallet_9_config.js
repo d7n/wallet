@@ -1,1 +1,1 @@
-var mnemonic = "ozone army mention patch mimic industry basket drip letter found welcome country";
+var mnemonic = "tone nation depart flag funny course frown diesel stage tobacco spatial across";

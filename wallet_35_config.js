@@ -1,1 +1,1 @@
-var mnemonic = "vocal assume square local tortoise explain reveal nothing eagle orange demand stairs";
+var mnemonic = "relax tornado resist employ envelope metal badge wood fault student scrap kick";

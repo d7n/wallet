@@ -1,1 +1,1 @@
-var mnemonic = "into good river year kid fringe scrap faculty illness deposit ginger enhance";
+var mnemonic = "illness canyon salmon nurse asthma sunny fame grass return page oil daring";

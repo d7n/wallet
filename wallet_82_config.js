@@ -1,1 +1,1 @@
-var mnemonic = "eternal universe party dash sample already castle desk raw neither recipe baby";
+var mnemonic = "surprise gospel genre dance usual outer smart weekend fork say rebel carry";

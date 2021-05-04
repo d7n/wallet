@@ -1,1 +1,1 @@
-var mnemonic = "silk vintage alone laundry valley clown penalty fox nothing escape buddy uniform";
+var mnemonic = "random key aerobic payment strong blue flash faint brush episode second violin";

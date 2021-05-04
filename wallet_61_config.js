@@ -1,1 +1,1 @@
-var mnemonic = "service about price glove garbage burden ketchup end uncover blouse gaze year";
+var mnemonic = "execute media rib web entry uphold purse fine gate pass ribbon wish";

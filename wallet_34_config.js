@@ -1,1 +1,1 @@
-var mnemonic = "giggle giraffe radio enforce early spread term shuffle glue mansion heavy grunt";
+var mnemonic = "update traffic borrow fashion ketchup switch filter elegant jungle indoor federal midnight";

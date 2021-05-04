@@ -1,1 +1,1 @@
-var mnemonic = "keen napkin umbrella spring lonely goat innocent image sustain trial bicycle total";
+var mnemonic = "leg over modify inherit also worry suffer cotton include phrase party science";

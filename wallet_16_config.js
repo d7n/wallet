@@ -1,1 +1,1 @@
-var mnemonic = "nasty smooth suffer step vacuum very elephant cash afford gown jump science";
+var mnemonic = "soccer price fatigue noise transfer coin milk fold trial dog ginger trust";

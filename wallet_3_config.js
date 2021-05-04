@@ -1,1 +1,1 @@
-var mnemonic = "board seven live extra digital degree page cycle evidence tenant fitness flip";
+var mnemonic = "again hockey relief kid program drama earth pencil double motor victory number";

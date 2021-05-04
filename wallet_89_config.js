@@ -1,1 +1,1 @@
-var mnemonic = "honey puppy grab labor nerve good mix bar ball defy river decorate";
+var mnemonic = "build hamster cabin color piece cage sun tragic network oppose adult list";

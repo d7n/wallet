@@ -1,1 +1,1 @@
-var mnemonic = "morning post huge govern derive upon embark video enact bar relax leopard";
+var mnemonic = "direct silent receive melt feed home collect belt hammer reveal maximum chaos";

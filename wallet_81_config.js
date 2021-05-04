@@ -1,1 +1,1 @@
-var mnemonic = "huge scout unveil offer elephant neither museum dice impact person memory slot";
+var mnemonic = "series toward danger dash direct isolate close slam machine napkin safe room";

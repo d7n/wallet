@@ -1,1 +1,1 @@
-var mnemonic = "butter remind cruel cruise door increase permit shed area river cart spend";
+var mnemonic = "disagree balcony funny unfair bitter point month unit agree cup speak horn";

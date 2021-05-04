@@ -1,1 +1,1 @@
-var mnemonic = "young boy pen foster cabin almost long either same multiply couple exotic";
+var mnemonic = "shield wood hundred trouble object moon edit trust fold pencil void slogan";

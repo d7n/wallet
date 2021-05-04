@@ -1,1 +1,1 @@
-var mnemonic = "claim anxiety zebra gravity supreme oxygen human click exchange pistol until legend";
+var mnemonic = "rich super vanish time peasant fashion book lawn unknown adapt stage rare";

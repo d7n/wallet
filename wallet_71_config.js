@@ -1,1 +1,1 @@
-var mnemonic = "timber book special narrow lab nature school system gate wedding rookie road";
+var mnemonic = "bicycle acid hand cage lyrics trap seat radar girl off sniff chapter";

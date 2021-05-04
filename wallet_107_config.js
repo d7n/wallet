@@ -1,1 +1,1 @@
-var mnemonic = "shoot modify pattern survey sweet during runway trick slogan stadium effort nice";
+var mnemonic = "visa approve wealth ocean cover anger uphold grid foam blue stone three";

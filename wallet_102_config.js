@@ -1,1 +1,1 @@
-var mnemonic = "practice hello ranch grit real steel chef april army result tube oppose";
+var mnemonic = "hidden anchor hole wild myth kiss man inquiry raven rabbit worth hospital";

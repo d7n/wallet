@@ -1,1 +1,1 @@
-var mnemonic = "south wait route upper echo hurry float fat question dirt lyrics blind";
+var mnemonic = "response knee already board venue chimney honey crouch seek charge capable actress";

@@ -1,1 +1,1 @@
-var mnemonic = "utility sweet proud blush believe fortune master learn image oblige lava vault";
+var mnemonic = "pony infant hollow home leg paper reflect ozone brave weird sail whip";

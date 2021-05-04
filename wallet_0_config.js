@@ -1,1 +1,1 @@
-var mnemonic = "oblige snow switch neglect share very common card feed junk since review";
+var mnemonic = "muffin humor ignore scale boost ball hard tank ginger picture chunk armed";

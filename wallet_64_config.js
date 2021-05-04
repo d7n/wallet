@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin achieve violin antique supply kidney ugly process error rib draw wear";
+var mnemonic = "quick calm lab famous injury version live dragon pony grief cereal slide";

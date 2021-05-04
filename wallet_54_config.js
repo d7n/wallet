@@ -1,1 +1,1 @@
-var mnemonic = "wrestle gossip insect movie eager dynamic alien silver fine sibling hobby antique";
+var mnemonic = "ecology inject wheel attract silk scout floor conduct art provide merge rare";

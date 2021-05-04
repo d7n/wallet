@@ -1,1 +1,1 @@
-var mnemonic = "lounge host spoil citizen above solar honey hotel fine drift ship film";
+var mnemonic = "fossil resource setup multiply tornado drastic oxygen retreat zero conduct autumn name";

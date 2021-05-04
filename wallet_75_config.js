@@ -1,1 +1,1 @@
-var mnemonic = "harbor grunt couch mandate crucial coach sea cushion symptom panic keen guilt";
+var mnemonic = "pattern slush laptop actual keep rubber steak first path pencil thing such";

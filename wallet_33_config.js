@@ -1,1 +1,1 @@
-var mnemonic = "axis announce ready call venue volume diet tired palace vendor family hand";
+var mnemonic = "sheriff boring mail insect enforce hospital afford corn punch rabbit accuse together";

@@ -1,1 +1,1 @@
-var mnemonic = "transfer poem margin canoe guard gravity subway fringe emotion inflict attend wild";
+var mnemonic = "garage develop scissors bracket tip topple turtle lab outdoor drive between visual";

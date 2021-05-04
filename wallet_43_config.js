@@ -1,1 +1,1 @@
-var mnemonic = "skill matrix kiss opinion recipe much park shield elevator diesel develop mention";
+var mnemonic = "struggle oyster best embark oppose juice angle hybrid night shoulder abstract idle";

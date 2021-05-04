@@ -1,1 +1,1 @@
-var mnemonic = "sign order champion health volcano armor interest humble affair work blanket track";
+var mnemonic = "danger correct spirit wash barely scene path gym hundred uphold again monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial wage clerk behave galaxy estate ghost bunker shop girl ladder slot";
+var mnemonic = "elephant dial bulk area crumble damp kid another gravity defy own obvious";

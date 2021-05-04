@@ -1,1 +1,1 @@
-var mnemonic = "river casual spray chicken walnut entire scorpion multiply couple more song glance";
+var mnemonic = "concert cupboard mule soccer diagram solar stay fiscal alien camp parade cousin";

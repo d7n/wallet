@@ -1,1 +1,1 @@
-var mnemonic = "have blind reunion latin smooth climb forest bitter involve loop erosion fluid";
+var mnemonic = "heart tackle decade enlist mom parrot prefer tongue vocal swim blade resemble";

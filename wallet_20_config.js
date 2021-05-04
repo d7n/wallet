@@ -1,1 +1,1 @@
-var mnemonic = "post tone shadow glow property citizen predict fetch dial color another actual";
+var mnemonic = "change drive amazing leg match undo will chase bleak glow husband endless";

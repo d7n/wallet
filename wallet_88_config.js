@@ -1,1 +1,1 @@
-var mnemonic = "fabric alien hover junior sorry film slim between long desert distance language";
+var mnemonic = "silly camera print clarify rally ensure trap table believe head panel code";

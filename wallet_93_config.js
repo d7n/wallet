@@ -1,1 +1,1 @@
-var mnemonic = "decide thing art monkey funny candy enroll humble kind alien gain vital";
+var mnemonic = "weasel ankle salad maze circle connect ask ill dutch palace blade razor";

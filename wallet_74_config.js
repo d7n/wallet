@@ -1,1 +1,1 @@
-var mnemonic = "twin argue myth sing gossip language jazz will hidden bottom famous usual";
+var mnemonic = "shoe track clean bind crew race lottery hospital unusual indicate job vacant";

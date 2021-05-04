@@ -1,1 +1,1 @@
-var mnemonic = "voice comfort invest strategy popular speed trim clap bullet ceiling arctic begin";
+var mnemonic = "foot column carpet medal client defy oblige border body search island cave";

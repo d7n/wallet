@@ -1,1 +1,1 @@
-var mnemonic = "embark sell position casual elder license capable special wreck devote exotic turn";
+var mnemonic = "vendor evoke glance measure discover film grant pool barrel tag catalog miss";

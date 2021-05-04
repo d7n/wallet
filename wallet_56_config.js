@@ -1,1 +1,1 @@
-var mnemonic = "hen blast fashion nut dirt life raw tennis inner marble sting solution";
+var mnemonic = "thumb help hobby code violin remove vendor tiger pause cluster else case";

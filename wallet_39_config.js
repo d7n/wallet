@@ -1,1 +1,1 @@
-var mnemonic = "proud output apple hope tone material hover pair drop flight afraid rich";
+var mnemonic = "wreck abandon goose leader tenant merge way faculty express fold artist together";
