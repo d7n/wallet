@@ -1,1 +1,1 @@
-var mnemonic = "trim energy run unusual rebel diagram tree deal blade dumb wire battle";
+var mnemonic = "sausage sibling civil alien section honey power useful service cancel remove poverty";

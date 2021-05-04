@@ -1,1 +1,1 @@
-var mnemonic = "toast success athlete husband symptom need time bulb doll bomb carbon piano";
+var mnemonic = "youth area piano gossip typical gate round thank person panic lounge method";

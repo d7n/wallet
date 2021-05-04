@@ -1,1 +1,1 @@
-var mnemonic = "toddler spice jacket hungry dolphin army gasp hint unable fiber play slide";
+var mnemonic = "pepper amazing idea stem moral hybrid orange bullet ankle funny neutral degree";

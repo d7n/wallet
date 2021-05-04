@@ -1,1 +1,1 @@
-var mnemonic = "rice trigger nature collect wing lake catch equal path success stairs canyon";
+var mnemonic = "menu occur excuse tag mountain local autumn bamboo rescue hunt decline diet";

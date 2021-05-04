@@ -1,1 +1,1 @@
-var mnemonic = "add dose pilot dumb pelican calm kiwi depth credit tone recycle limb";
+var mnemonic = "diesel palm can eternal fashion toddler bitter muscle frequent siren bleak federal";

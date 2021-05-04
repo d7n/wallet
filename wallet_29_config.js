@@ -1,1 +1,1 @@
-var mnemonic = "only update sick odor infant exclude flame fresh trip bright baby season";
+var mnemonic = "exercise galaxy flash absent legend neglect text army economy finish save patient";

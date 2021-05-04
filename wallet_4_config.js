@@ -1,1 +1,1 @@
-var mnemonic = "circle rose federal rescue charge picture nothing recycle visual donkey plunge cushion";
+var mnemonic = "betray knock accident wire shrimp absurd giggle lumber virus wait law swamp";

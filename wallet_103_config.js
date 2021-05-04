@@ -1,1 +1,1 @@
-var mnemonic = "announce error nose stool oven trick tag economy gorilla keen nuclear interest";
+var mnemonic = "glad flock dirt jealous cancel canyon awkward where onion exhaust gravity erode";

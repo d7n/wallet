@@ -1,1 +1,1 @@
-var mnemonic = "false home uncover badge grid proof reopen monitor action cabbage armor crumble";
+var mnemonic = "organ idea ketchup photo avoid coyote name away process will still have";

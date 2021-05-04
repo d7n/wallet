@@ -1,1 +1,1 @@
-var mnemonic = "number soccer polar camp attack come catch entire donate pulse then seven";
+var mnemonic = "almost dizzy pupil monster congress kangaroo fire text wait master tent again";

@@ -1,1 +1,1 @@
-var mnemonic = "book select kit online hurdle craft minute warfare win strike cash crush";
+var mnemonic = "approve range issue voyage reason fortune push angle swift shop april case";

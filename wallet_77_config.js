@@ -1,1 +1,1 @@
-var mnemonic = "shell lift force version solve artefact obtain suspect cart awake exact wish";
+var mnemonic = "security sweet damage alien tail boil transfer merit great turkey mystery eager";

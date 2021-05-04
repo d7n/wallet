@@ -1,1 +1,1 @@
-var mnemonic = "hurt menu endless student innocent between pink nature suffer garbage ramp consider";
+var mnemonic = "diary hen rack holiday kitchen fall warfare fence recall bounce option sell";

@@ -1,1 +1,1 @@
-var mnemonic = "gain term rookie blur undo amused marriage sorry abandon rule blade oppose";
+var mnemonic = "destroy curious dry wear physical chapter hedgehog gadget steel velvet outside saddle";

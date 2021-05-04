@@ -1,1 +1,1 @@
-var mnemonic = "galaxy unit busy frozen elegant wide antique tattoo life race choice seek";
+var mnemonic = "cradle craft army solar kid engine clump club shrug hero neck detail";

@@ -1,1 +1,1 @@
-var mnemonic = "olive average capable quote stereo output gossip ivory virus short tonight surround";
+var mnemonic = "frown romance genius fatigue drama sadness month grass parade garment puppy fancy";

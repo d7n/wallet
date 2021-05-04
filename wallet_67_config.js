@@ -1,1 +1,1 @@
-var mnemonic = "figure surprise cupboard math survey drum athlete pioneer album alcohol silver guilt";
+var mnemonic = "vicious valve orbit life detect dose coach creek sentence path rocket ship";

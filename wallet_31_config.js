@@ -1,1 +1,1 @@
-var mnemonic = "regret celery diagram inside baby paper measure material mimic enrich brain syrup";
+var mnemonic = "kit always cradle man core copper say casual hand injury dinner fence";

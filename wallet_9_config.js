@@ -1,1 +1,1 @@
-var mnemonic = "window squirrel wonder night fuel assault suspect powder cake patrol middle mercy";
+var mnemonic = "dilemma uncover tunnel female approve fruit dash steel crush sister museum brass";

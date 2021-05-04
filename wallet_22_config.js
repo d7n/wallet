@@ -1,1 +1,1 @@
-var mnemonic = "execute yellow dad avocado magic estate cabbage toward basic pumpkin later arena";
+var mnemonic = "woman situate ribbon clarify rent taxi observe develop indicate wise only toss";

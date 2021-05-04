@@ -1,1 +1,1 @@
-var mnemonic = "bulb debris wasp flash scrub champion delay comfort toilet town wrestle kid";
+var mnemonic = "easy file vault orange civil gate list gate pool diet maid hamster";

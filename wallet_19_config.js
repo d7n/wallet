@@ -1,1 +1,1 @@
-var mnemonic = "pulse play cupboard tragic polar vacant jealous used brave ignore seek fitness";
+var mnemonic = "staff give nephew grunt drift repair volcano raise immune wise tornado soap";

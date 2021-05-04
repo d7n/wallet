@@ -1,1 +1,1 @@
-var mnemonic = "bargain inherit demand rail gate wedding below debris much eye vivid potato";
+var mnemonic = "access oil scrub ordinary pattern grain plunge stone mansion crumble orchard exist";

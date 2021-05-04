@@ -1,1 +1,1 @@
-var mnemonic = "wagon couple gossip loop private arctic ship reform affair much reunion cover";
+var mnemonic = "venue success dry mobile hill wagon tongue share struggle cute below major";

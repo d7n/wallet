@@ -1,1 +1,1 @@
-var mnemonic = "effort smoke pen annual girl burger guitar much dolphin moon rescue finger";
+var mnemonic = "slight twenty one addict purse unfair pill speed access place mammal adjust";

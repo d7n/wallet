@@ -1,1 +1,1 @@
-var mnemonic = "ticket element egg client life snack outer suffer good talk rookie hover";
+var mnemonic = "protect dentist oxygen bleak ability pitch want parrot into drill cruise innocent";

@@ -1,1 +1,1 @@
-var mnemonic = "gym blush next unusual fortune alarm maple pig lucky furnace reflect process";
+var mnemonic = "sad bacon toast little medal same grunt first donor furnace scale magnet";

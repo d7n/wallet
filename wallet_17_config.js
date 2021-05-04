@@ -1,1 +1,1 @@
-var mnemonic = "scissors verb interest shoulder more vessel select life damp penalty hero foam";
+var mnemonic = "slight month sport swim soft country hidden ice slight total similar merge";

@@ -1,1 +1,1 @@
-var mnemonic = "rural humor scorpion kite put coyote spy capital income interest custom peasant";
+var mnemonic = "pluck rifle inhale lab zebra expose scatter way recipe pass fluid open";

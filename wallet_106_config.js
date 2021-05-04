@@ -1,1 +1,1 @@
-var mnemonic = "fork gate sun upgrade rocket radar siren ladder pond letter solution album";
+var mnemonic = "chunk south embody cry address enable alter all discover sport sort clerk";

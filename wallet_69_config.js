@@ -1,1 +1,1 @@
-var mnemonic = "acid penalty rigid cross notice frown situate marriage drink weather cinnamon unknown";
+var mnemonic = "arrive path rigid elegant estate abuse brown vote poem marine hedgehog wrap";

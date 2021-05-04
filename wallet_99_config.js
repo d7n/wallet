@@ -1,1 +1,1 @@
-var mnemonic = "horn ancient meat nothing burger toy art merit civil century net current";
+var mnemonic = "body unlock cream reward split trade tree harvest file valley enact celery";

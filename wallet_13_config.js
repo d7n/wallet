@@ -1,1 +1,1 @@
-var mnemonic = "total isolate twist nasty glance tomato minute receive afford remove deny leave";
+var mnemonic = "topic sudden sense timber another muscle slow cherry stamp omit visa stable";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster very icon produce image slot leisure census number action cheese cricket";
+var mnemonic = "fence divorce head naive clog code eight swarm rescue brain host direct";

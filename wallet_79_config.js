@@ -1,1 +1,1 @@
-var mnemonic = "helmet lizard gauge know audit spider room tree inject offer kite voice";
+var mnemonic = "phone program true fury timber coast dice job absurd harbor pizza evolve";

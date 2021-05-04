@@ -1,1 +1,1 @@
-var mnemonic = "jealous nose custom annual short family blade account off beef resource decade";
+var mnemonic = "aspect interest near walk lamp elegant abuse panel tired van photo race";

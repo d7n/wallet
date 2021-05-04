@@ -1,1 +1,1 @@
-var mnemonic = "option convince rapid route net sun confirm coffee around paddle industry float";
+var mnemonic = "husband expect slow unique shift car timber eagle actual educate mango december";

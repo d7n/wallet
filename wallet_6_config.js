@@ -1,1 +1,1 @@
-var mnemonic = "chuckle economy journey romance liquid unlock talk reflect child huge despair dad";
+var mnemonic = "juice basket cycle beach anxiety praise ketchup kit retreat crack kidney fiction";

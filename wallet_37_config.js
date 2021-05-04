@@ -1,1 +1,1 @@
-var mnemonic = "noodle patch quality slide bean sight left kind spoil current hole interest";
+var mnemonic = "asset enjoy accuse protect mixture asset hip enter merge cabin wool then";

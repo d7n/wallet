@@ -1,1 +1,1 @@
-var mnemonic = "grain fox carry master flock seminar syrup lunar super wrong claim hundred";
+var mnemonic = "frog say story sugar couple midnight around attitude dice pledge machine keen";

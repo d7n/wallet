@@ -1,1 +1,1 @@
-var mnemonic = "joy buyer high banana art add lawn once oppose property parent garment";
+var mnemonic = "hip reopen twin sorry frequent talent floor shield arena over hard swallow";

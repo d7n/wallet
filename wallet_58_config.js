@@ -1,1 +1,1 @@
-var mnemonic = "empty know aspect wine mixed wear pull goat prosper pink wife retire";
+var mnemonic = "teach extend dirt shrug equal razor guitar solve tell retreat range shoulder";

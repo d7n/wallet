@@ -1,1 +1,1 @@
-var mnemonic = "gospel option render act color naive hair cat virtual coil economy movie";
+var mnemonic = "pig success brief budget episode domain antenna nose bracket misery dial assume";

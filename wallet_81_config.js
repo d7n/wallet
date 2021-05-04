@@ -1,1 +1,1 @@
-var mnemonic = "galaxy daring give ginger swamp behind firm vapor cotton jaguar claim lecture";
+var mnemonic = "patrol talent sustain grid label alien metal want portion risk deer ostrich";

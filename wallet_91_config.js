@@ -1,1 +1,1 @@
-var mnemonic = "jaguar hope forget civil dress access file kind faith antique rather borrow";
+var mnemonic = "oxygen method course various fog dice buyer rail donate surge chunk enhance";

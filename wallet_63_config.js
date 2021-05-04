@@ -1,1 +1,1 @@
-var mnemonic = "girl palm crawl update edit neglect street say random almost ankle until";
+var mnemonic = "timber sound rifle material defy member enough away once lonely nice latin";

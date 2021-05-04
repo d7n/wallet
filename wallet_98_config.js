@@ -1,1 +1,1 @@
-var mnemonic = "easy melt penalty shoulder toe core cross oyster mesh advice tree left";
+var mnemonic = "agree crawl drink flag debate anxiety tape achieve slice craft bean nerve";

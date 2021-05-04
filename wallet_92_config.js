@@ -1,1 +1,1 @@
-var mnemonic = "confirm consider rude blast grape inform lend problem output bonus inject certain";
+var mnemonic = "hill yellow together vivid trigger toast group dinosaur wrong grace connect cable";

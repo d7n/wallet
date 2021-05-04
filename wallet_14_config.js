@@ -1,1 +1,1 @@
-var mnemonic = "strike mercy organ grid shop slight rich dress clarify slush skull reunion";
+var mnemonic = "test satisfy tattoo vocal pluck polar waste giraffe sketch cool truth wet";

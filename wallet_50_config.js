@@ -1,1 +1,1 @@
-var mnemonic = "ancient will among candy chair volcano broccoli sting grass voyage enact wash";
+var mnemonic = "ritual pair stand alone drastic document beauty govern cause earth math legend";

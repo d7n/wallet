@@ -1,1 +1,1 @@
-var mnemonic = "caught swim oil helmet author media repeat split ticket disorder kind nothing";
+var mnemonic = "umbrella myself unknown bar delay merry collect city sniff boil calm picnic";

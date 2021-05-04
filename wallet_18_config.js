@@ -1,1 +1,1 @@
-var mnemonic = "service range fold water fine fringe race attitude swamp gaze vacuum expand";
+var mnemonic = "hospital vivid embark eternal all cup genius topple snow stem razor rally";

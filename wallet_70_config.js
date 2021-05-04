@@ -1,1 +1,1 @@
-var mnemonic = "bottom fit marine sauce mobile wing era train below casual staff bird";
+var mnemonic = "horror auction lonely phone ripple news wrestle online come summer fire magnet";

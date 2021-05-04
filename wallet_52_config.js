@@ -1,1 +1,1 @@
-var mnemonic = "design play amateur wine income unfair snap behave velvet dutch pact excess";
+var mnemonic = "gym route soap slide swear garden peanut will today spoil planet broken";

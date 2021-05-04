@@ -1,1 +1,1 @@
-var mnemonic = "cable almost rent make survey second potato balcony thank diagram mass fee";
+var mnemonic = "actual blouse view special word grit lawn sock orange solution vault tongue";

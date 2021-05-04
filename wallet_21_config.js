@@ -1,1 +1,1 @@
-var mnemonic = "squirrel trial milk allow tomato sponsor together boost lumber behave first inspire";
+var mnemonic = "become panda bachelor proof end chaos have park catch drum culture impact";

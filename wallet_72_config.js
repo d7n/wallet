@@ -1,1 +1,1 @@
-var mnemonic = "transfer foster warfare liberty defy chat spoon peasant stock act catch edge";
+var mnemonic = "emotion parent wagon real isolate capable peace admit inherit alter rail turkey";

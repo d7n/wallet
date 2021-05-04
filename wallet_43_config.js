@@ -1,1 +1,1 @@
-var mnemonic = "correct dream sell mail hero vessel team matter ball organ bulb meadow";
+var mnemonic = "whale ocean ride tank fog great easily feel upset episode sun urban";

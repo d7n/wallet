@@ -1,1 +1,1 @@
-var mnemonic = "whisper pyramid alone select color gentle tobacco beauty file blush frequent record";
+var mnemonic = "chase clog attitude sign wrist swim bar since bacon observe bamboo system";

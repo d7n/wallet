@@ -1,1 +1,1 @@
-var mnemonic = "plate network organ remind suit satisfy wool use insect fuel quantum october";
+var mnemonic = "control chronic van minor explain final second victory advice sad congress ozone";

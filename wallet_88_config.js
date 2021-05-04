@@ -1,1 +1,1 @@
-var mnemonic = "across reveal truth sick member world logic radar train shell wheel shop";
+var mnemonic = "curve powder rigid fancy trigger february search speak daring salad violin similar";

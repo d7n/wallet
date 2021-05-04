@@ -1,1 +1,1 @@
-var mnemonic = "entire recall home quality dune quit section divert cheese around walk tissue";
+var mnemonic = "upgrade sick empty library sting bread giraffe seat year valve crane good";

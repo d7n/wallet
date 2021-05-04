@@ -1,1 +1,1 @@
-var mnemonic = "celery fragile animal crane saddle like weird sad swift record genius hub";
+var mnemonic = "enter slide update drop estate curve increase cup youth mention mansion will";

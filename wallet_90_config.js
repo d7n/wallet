@@ -1,1 +1,1 @@
-var mnemonic = "adapt absurd hope sleep glue flame shell alien move day bag sock";
+var mnemonic = "pencil auction remind bachelor buffalo talk equal sorry enlist bring consider warrior";

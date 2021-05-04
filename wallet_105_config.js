@@ -1,1 +1,1 @@
-var mnemonic = "seed claw bring opera diet bridge glove mountain globe cruel tornado dentist";
+var mnemonic = "double smile ostrich wash great illegal mansion culture saddle dilemma myself sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "relief thing february youth blind photo gaze device ghost cage chronic ribbon";
+var mnemonic = "illegal stand trust version piece oven muffin february scene slab myth error";

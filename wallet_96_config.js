@@ -1,1 +1,1 @@
-var mnemonic = "clip appear sustain bronze outside flower bag pupil inside supply any topic";
+var mnemonic = "object mixed sorry gun summer liquid rescue mutual author immense receive west";

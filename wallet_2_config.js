@@ -1,1 +1,1 @@
-var mnemonic = "strategy smile culture napkin donate become sunny mango mistake noise hockey click";
+var mnemonic = "renew range hour rigid kingdom rack rebuild supply crucial fatigue aspect warm";

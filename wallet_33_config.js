@@ -1,1 +1,1 @@
-var mnemonic = "happy swim wave page october dentist object bind belt horror else proof";
+var mnemonic = "tonight antenna car lady kiss knock sort crisp select ridge argue roast";

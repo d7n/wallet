@@ -1,1 +1,1 @@
-var mnemonic = "grain sign smart accident trash apart curve charge cabin place have sniff";
+var mnemonic = "include fly melt success extend you paddle picnic axis churn attract zero";

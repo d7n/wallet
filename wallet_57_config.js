@@ -1,1 +1,1 @@
-var mnemonic = "tenant travel bomb hollow aerobic course waste cage trim shiver melody pupil";
+var mnemonic = "pelican remain swing ivory sketch glue apology spell family mountain country volcano";

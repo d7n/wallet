@@ -1,1 +1,1 @@
-var mnemonic = "caught seminar theory hope mammal govern demise dizzy step secret butter arrive";
+var mnemonic = "teach promote weasel hope mercy doll bless symptom small vague horse special";

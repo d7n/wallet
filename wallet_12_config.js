@@ -1,1 +1,1 @@
-var mnemonic = "crime steel bronze click detail retreat section title funny just syrup involve";
+var mnemonic = "consider reform year summer extra panic empower try ten sustain salmon october";

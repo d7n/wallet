@@ -1,1 +1,1 @@
-var mnemonic = "gold seed way point indoor various arrange subject surface lazy finish mirror";
+var mnemonic = "essence power repair spring brass dragon bachelor doll arch flame pass demand";

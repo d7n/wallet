@@ -1,1 +1,1 @@
-var mnemonic = "electric enlist bundle amazing orange nerve top dune favorite evolve fatal bronze";
+var mnemonic = "capable mimic flip boil cereal unlock immune utility sadness craft reflect hundred";

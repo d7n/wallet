@@ -1,1 +1,1 @@
-var mnemonic = "finger stand fame into labor proud flame bacon use action diagram train";
+var mnemonic = "negative exhaust surface tail notable service blast green ugly weekend review shed";

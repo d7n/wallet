@@ -1,1 +1,1 @@
-var mnemonic = "innocent swift essence draw final battle suffer left exclude jazz coffee still";
+var mnemonic = "theme escape team zebra twenty orphan theme typical track tragic wrist immune";

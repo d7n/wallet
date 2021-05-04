@@ -1,1 +1,1 @@
-var mnemonic = "miracle resist verb primary argue cereal task enable they canal visa street";
+var mnemonic = "bind blade same absorb lunch wrap enact exercise ridge vapor swear era";

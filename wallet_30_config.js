@@ -1,1 +1,1 @@
-var mnemonic = "own welcome reopen spend radar pet energy picnic exchange keep festival clown";
+var mnemonic = "symbol paddle tower holiday blue next gate kit begin income tenant vehicle";

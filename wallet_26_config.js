@@ -1,1 +1,1 @@
-var mnemonic = "profit blind claw fantasy remove spoon remind author huge toddler tiger input";
+var mnemonic = "mobile rebuild senior tackle rich diet winter present age kitchen notice narrow";

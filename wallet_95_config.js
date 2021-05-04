@@ -1,1 +1,1 @@
-var mnemonic = "kite ladder dirt romance breeze earth table remove practice source balcony cloth";
+var mnemonic = "mango section gap second record retire detect example puzzle loop fiber film";

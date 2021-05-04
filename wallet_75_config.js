@@ -1,1 +1,1 @@
-var mnemonic = "diagram frown match rude melody ahead derive cheap chalk end glory crew";
+var mnemonic = "slim junk eager drum draft bunker they obscure good wink rose scrap";

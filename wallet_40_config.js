@@ -1,1 +1,1 @@
-var mnemonic = "beyond label pattern race idle toward dumb cover clip usage air able";
+var mnemonic = "brother decline special trial pyramid jazz enhance dizzy exhaust roast illness act";
