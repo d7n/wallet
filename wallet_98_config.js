@@ -1,1 +1,1 @@
-var mnemonic = "net purchase ability tennis tomato fold yellow fringe slush onion daring neither";
+var mnemonic = "course giraffe sand judge write february found actual else mango local mesh";

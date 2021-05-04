@@ -1,1 +1,1 @@
-var mnemonic = "fetch artwork crane subject typical feel street defy rule hazard basket sail";
+var mnemonic = "glove slogan walk ski recipe bind lake thank shoe excess seed eight";

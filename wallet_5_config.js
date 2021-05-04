@@ -1,1 +1,1 @@
-var mnemonic = "office scan cherry club end speed alien fog eye mosquito identify lounge";
+var mnemonic = "smooth ice staff foster tongue level phone material father galaxy bid harvest";

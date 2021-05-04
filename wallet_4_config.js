@@ -1,1 +1,1 @@
-var mnemonic = "sword spatial educate range process region relief noise argue mechanic soul witness";
+var mnemonic = "gadget ripple half affair dawn mango soon middle float bright congress forest";

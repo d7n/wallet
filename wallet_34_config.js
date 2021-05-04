@@ -1,1 +1,1 @@
-var mnemonic = "romance victory ramp vibrant online frame humor someone cute target obvious universe";
+var mnemonic = "tobacco wait siege birth art disorder spider shield wave rug magic celery";

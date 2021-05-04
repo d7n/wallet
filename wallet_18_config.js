@@ -1,1 +1,1 @@
-var mnemonic = "captain ivory then eye chuckle track dry scare receive immense about slim";
+var mnemonic = "scissors muffin play equal habit sister grow pet retreat grab furnace nasty";

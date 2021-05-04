@@ -1,1 +1,1 @@
-var mnemonic = "south spike visual area bargain trial lady define candy pole guide found";
+var mnemonic = "deliver audit parade dress figure typical elegant amateur river correct all disease";

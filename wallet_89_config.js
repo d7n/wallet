@@ -1,1 +1,1 @@
-var mnemonic = "model strong blouse away play trouble quiz play slogan spice floor drink";
+var mnemonic = "sentence afraid clock ski raccoon vacant amazing ketchup slice hill allow music";

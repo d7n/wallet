@@ -1,1 +1,1 @@
-var mnemonic = "hammer vast lumber naive enter walnut try evolve provide tent weather push";
+var mnemonic = "grace box advice pencil arctic eternal daughter window useless mountain motion card";

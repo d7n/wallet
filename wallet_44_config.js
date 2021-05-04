@@ -1,1 +1,1 @@
-var mnemonic = "text bleak olympic short heavy mouse spoon loan cry decline essence luggage";
+var mnemonic = "work color lyrics town dress sibling reward arrow scale seed alter void";

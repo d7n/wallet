@@ -1,1 +1,1 @@
-var mnemonic = "ski tornado correct violin tomato style genre quit exit able favorite exist";
+var mnemonic = "cube draft camera patrol connect fat swift impact venue grain valve burden";

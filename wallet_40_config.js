@@ -1,1 +1,1 @@
-var mnemonic = "craft city conduct power have click ignore trouble planet bundle unfair behind";
+var mnemonic = "fossil mule october congress milk olympic number essay hub decade river school";

@@ -1,1 +1,1 @@
-var mnemonic = "student few destroy chunk hungry outer promote asset verify timber tide become";
+var mnemonic = "depart example loop menu kiwi eagle trick bundle repair broom board lazy";

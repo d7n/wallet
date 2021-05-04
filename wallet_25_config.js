@@ -1,1 +1,1 @@
-var mnemonic = "receive scout soldier protect minute retreat upgrade crack link dragon ethics train";
+var mnemonic = "side grain potato brave silk pepper hold quick coyote access alter wasp";

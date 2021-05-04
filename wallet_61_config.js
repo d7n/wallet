@@ -1,1 +1,1 @@
-var mnemonic = "gravity six success dentist analyst pond virtual any deal reflect crowd caught";
+var mnemonic = "orient reflect lottery album whisper thumb giant walk teach blue bean afford";

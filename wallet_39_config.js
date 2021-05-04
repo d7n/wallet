@@ -1,1 +1,1 @@
-var mnemonic = "strike material change curve sudden salt peace hill chase spend fiber ranch";
+var mnemonic = "secret hood extra begin result below bonus chimney cherry box snow capable";

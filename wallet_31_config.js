@@ -1,1 +1,1 @@
-var mnemonic = "kingdom cabbage base catch father spirit cherry report human drip mixture guess";
+var mnemonic = "more dream genuine total eyebrow inflict amateur upon aisle avocado shrimp gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "interest force royal snake goat nut carpet reflect town silly sea leave";
+var mnemonic = "chat famous office blanket gadget basket forget bind shaft cruise month salad";

@@ -1,1 +1,1 @@
-var mnemonic = "punch monster glove someone toast strong educate second faint soccer bleak foster";
+var mnemonic = "cave pill february tornado item solid elbow moral margin regular window leave";

@@ -1,1 +1,1 @@
-var mnemonic = "cake report myth waste credit admit kite able cat draft pioneer actual";
+var mnemonic = "tone return bargain ribbon crazy list nurse tribe team still result toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn pave impact unveil old merit rifle seed jealous replace palm lounge";
+var mnemonic = "fox away ready comic voice cup net cook minimum swift hazard dune";

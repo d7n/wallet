@@ -1,1 +1,1 @@
-var mnemonic = "depart skill reopen punch motor advice rack dial eyebrow pilot topic priority";
+var mnemonic = "gaze day enact shy payment guess hotel dry kangaroo journey senior once";

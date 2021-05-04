@@ -1,1 +1,1 @@
-var mnemonic = "disorder order shaft deposit submit cram session brain ask behind chronic open";
+var mnemonic = "coin idea orange whisper hospital physical major adjust horn cigar this zebra";

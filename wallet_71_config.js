@@ -1,1 +1,1 @@
-var mnemonic = "entry behave cement donor inquiry first electric frog lyrics evidence spike shrimp";
+var mnemonic = "opera lawsuit scatter head room smart build fatigue catalog drive loan auction";

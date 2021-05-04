@@ -1,1 +1,1 @@
-var mnemonic = "urge eyebrow leave economy fresh find angry frame donate unfold blame world";
+var mnemonic = "unable involve differ tired soda fly husband lady voyage welcome jaguar typical";

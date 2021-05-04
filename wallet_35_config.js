@@ -1,1 +1,1 @@
-var mnemonic = "bone image cupboard math soldier lazy cancel humor finish lift benefit gospel";
+var mnemonic = "reduce dice bacon slow lonely again video love pizza medal head spring";

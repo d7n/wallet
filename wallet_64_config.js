@@ -1,1 +1,1 @@
-var mnemonic = "lock nest want multiply hint derive machine cave depend believe vast order";
+var mnemonic = "describe spy adult expose security flee ceiling defy illness insane make outer";

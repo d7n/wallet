@@ -1,1 +1,1 @@
-var mnemonic = "fluid blush buyer dune elbow organ icon palace height impact axis actress";
+var mnemonic = "capable zoo orange tape dirt picture good man gaze skirt custom shove";

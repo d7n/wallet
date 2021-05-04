@@ -1,1 +1,1 @@
-var mnemonic = "neither hybrid kidney struggle comfort mind fade dish over pigeon head lottery";
+var mnemonic = "syrup flower rifle valve able easy text estate anxiety slot borrow wood";

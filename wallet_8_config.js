@@ -1,1 +1,1 @@
-var mnemonic = "bring become logic little south swear shadow possible whale castle clinic person";
+var mnemonic = "tobacco card lazy ensure vapor flame advice ankle surround detect transfer machine";

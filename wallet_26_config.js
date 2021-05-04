@@ -1,1 +1,1 @@
-var mnemonic = "magnet ritual adapt hope scheme tilt arena flush consider pet melody fade";
+var mnemonic = "chase damage walnut opera account choose elite federal grass awesome lady vote";

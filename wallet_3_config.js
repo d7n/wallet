@@ -1,1 +1,1 @@
-var mnemonic = "cube damage human dinosaur elephant identify buzz mom mutual online magnet flock";
+var mnemonic = "caught wife clutch margin coconut attack purpose pink panther next need physical";

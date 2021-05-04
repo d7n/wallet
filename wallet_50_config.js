@@ -1,1 +1,1 @@
-var mnemonic = "member universe nephew penalty bargain alley usual infant alarm main afford minute";
+var mnemonic = "manage dog glue access opera fine report skate radio lava flower strike";

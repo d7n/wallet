@@ -1,1 +1,1 @@
-var mnemonic = "tone harbor joke heavy design already doll approve expect radio spare hawk";
+var mnemonic = "picture work february define stool post chest affair spice guide shy sting";

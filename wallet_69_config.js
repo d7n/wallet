@@ -1,1 +1,1 @@
-var mnemonic = "hope found mad vocal sugar ranch chair measure flame ocean mix elite";
+var mnemonic = "cube book arrange memory spare brisk friend salute desert conduct scale alone";

@@ -1,1 +1,1 @@
-var mnemonic = "logic better blouse modify never wild scene wink nerve twist hat then";
+var mnemonic = "shoulder chuckle flee document solid army dance album orchard casual save scorpion";

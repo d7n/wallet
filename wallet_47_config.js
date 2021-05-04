@@ -1,1 +1,1 @@
-var mnemonic = "egg crucial adapt number spider dog enhance learn receive about easy lumber";
+var mnemonic = "obvious gas amount call provide kick fly pumpkin sphere dance ticket must";

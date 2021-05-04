@@ -1,1 +1,1 @@
-var mnemonic = "piece valid use dish veteran hurdle fitness limit bamboo wear vote assist";
+var mnemonic = "leaf rule scale tooth boost sock van detect pigeon captain uniform someone";

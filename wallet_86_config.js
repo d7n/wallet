@@ -1,1 +1,1 @@
-var mnemonic = "wall year found dog aunt kitten false happy chicken until attend keep";
+var mnemonic = "opera twenty teach raccoon rally radar fade mobile rotate tumble episode define";

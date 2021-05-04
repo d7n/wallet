@@ -1,1 +1,1 @@
-var mnemonic = "balance scout badge doctor rotate repair wolf swallow liquid reject tape vote";
+var mnemonic = "tray frown slow lucky sword saddle patch razor animal same luxury joy";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit rib abstract grass horse wrestle hair clinic abandon mutual camera try";
+var mnemonic = "borrow myth more wet quick usual grape zero clump vibrant about exercise";

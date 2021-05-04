@@ -1,1 +1,1 @@
-var mnemonic = "soccer detail lawn loyal useful rail network ten soldier story dry load";
+var mnemonic = "quantum lab saddle sort subject alarm aware frog slab because hover bonus";

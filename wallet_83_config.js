@@ -1,1 +1,1 @@
-var mnemonic = "plunge depart apart trigger friend hammer dizzy stable audit ecology valid crop";
+var mnemonic = "tiny deputy town village order either laptop crazy tobacco hub above artist";

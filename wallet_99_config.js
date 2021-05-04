@@ -1,1 +1,1 @@
-var mnemonic = "public essay control route among cruel orchard film bomb copy govern follow";
+var mnemonic = "strong pizza output thank job scout innocent long twin theme hospital tomorrow";

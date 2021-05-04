@@ -1,1 +1,1 @@
-var mnemonic = "bottom grass minimum accident when habit safe zebra claw group aspect excess";
+var mnemonic = "aim decline carpet addict success indicate all illness practice pave cousin hip";

@@ -1,1 +1,1 @@
-var mnemonic = "what oven sibling emotion range cabbage grit juice host hidden enroll absurd";
+var mnemonic = "critic pencil envelope view patient come beyond pony humor congress alley tail";

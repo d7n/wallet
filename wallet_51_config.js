@@ -1,1 +1,1 @@
-var mnemonic = "permit horn broken tribe left evil mammal mango radio door leaf finish";
+var mnemonic = "hood middle since enough output dinner scale notice hip visa blade monkey";

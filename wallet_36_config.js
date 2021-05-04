@@ -1,1 +1,1 @@
-var mnemonic = "dawn enjoy fantasy auto moment address knock secret congress soul abstract carpet";
+var mnemonic = "lemon flee permit wrist gun despair comfort six remember bulb crowd swift";

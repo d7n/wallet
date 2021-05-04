@@ -1,1 +1,1 @@
-var mnemonic = "mail media spot bus pudding clever frown direct output pizza sample spike";
+var mnemonic = "true popular cave any gown state deal special finger bleak bamboo between";

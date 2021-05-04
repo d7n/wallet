@@ -1,1 +1,1 @@
-var mnemonic = "project depart float despair art space frog indicate try spread ozone giant";
+var mnemonic = "medal inner guide spoon slide narrow citizen air marriage glove denial occur";

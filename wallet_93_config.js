@@ -1,1 +1,1 @@
-var mnemonic = "nurse spoon sun purity offer clever train music right welcome change broom";
+var mnemonic = "round fog finger sketch inject goddess knock goose unit butter wall appear";

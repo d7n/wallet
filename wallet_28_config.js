@@ -1,1 +1,1 @@
-var mnemonic = "burger summer blood disagree seat try brown make emotion jeans all gown";
+var mnemonic = "sadness forget say dragon fabric dentist obscure tackle much elegant rate dad";

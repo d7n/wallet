@@ -1,1 +1,1 @@
-var mnemonic = "tiny horse van cause goat decorate rent sample stamp spot enforce fabric";
+var mnemonic = "that mule educate nature visual blossom expire proof planet mistake rug roast";

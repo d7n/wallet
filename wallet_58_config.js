@@ -1,1 +1,1 @@
-var mnemonic = "alley need top awkward another era clog furnace farm victory blue immune";
+var mnemonic = "wear saddle cluster team normal dutch climb cook shrimp humor mix delay";

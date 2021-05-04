@@ -1,1 +1,1 @@
-var mnemonic = "nuclear ask anxiety peasant turn speak price giraffe bundle milk wealth crowd";
+var mnemonic = "gun notice bean picture cover squirrel slide setup return leopard volcano mom";

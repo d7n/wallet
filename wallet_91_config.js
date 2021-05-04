@@ -1,1 +1,1 @@
-var mnemonic = "youth target together sudden snack tide beyond measure opera yellow resist brand";
+var mnemonic = "angle loyal settle year equal rhythm legal uncover muffin humble senior diet";

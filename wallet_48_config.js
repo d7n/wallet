@@ -1,1 +1,1 @@
-var mnemonic = "push favorite vendor news scrap when eager boat kit armed auction desert";
+var mnemonic = "nuclear simple exercise unit now cereal click gentle core jeans rate story";

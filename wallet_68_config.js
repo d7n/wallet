@@ -1,1 +1,1 @@
-var mnemonic = "debris lion pull donkey combine float trade trophy spoon soda east rude";
+var mnemonic = "begin focus mind imitate swamp apple chaos debate girl predict useful exist";

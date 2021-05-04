@@ -1,1 +1,1 @@
-var mnemonic = "away catalog wise tower know casual wrong chaos shuffle olympic enable hat";
+var mnemonic = "wagon joy cliff hair hover resemble book box need happy march buffalo";

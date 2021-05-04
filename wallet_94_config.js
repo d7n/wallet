@@ -1,1 +1,1 @@
-var mnemonic = "topic power share glue arm siege van angle post fossil river police";
+var mnemonic = "age swift update faith virtual pony ring remove split crazy kangaroo kit";

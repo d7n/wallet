@@ -1,1 +1,1 @@
-var mnemonic = "reason unhappy enter salon know able orchard submit describe version west maple";
+var mnemonic = "reveal bronze person wedding gift spot release solution guitar riot swap warm";

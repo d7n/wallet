@@ -1,1 +1,1 @@
-var mnemonic = "author scrub tonight wave together address dinner demise annual silent hobby release";
+var mnemonic = "inquiry room tape unknown solid jelly employ heavy unveil expose purse gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "garden guide surface believe rare aisle correct purpose issue worry sausage delay";
+var mnemonic = "toilet intact tragic cause spice clean slush elephant avoid throw october gold";

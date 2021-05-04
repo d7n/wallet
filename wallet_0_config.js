@@ -1,1 +1,1 @@
-var mnemonic = "excite flag ancient physical green place swarm moment boss afford public zebra";
+var mnemonic = "six chicken cousin head film that rich target motor differ garlic power";

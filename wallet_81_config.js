@@ -1,1 +1,1 @@
-var mnemonic = "trick hole weapon wedding cabin double tone cement please clarify write dilemma";
+var mnemonic = "bracket primary silly trap final stick area stick hope sniff differ more";

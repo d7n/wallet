@@ -1,1 +1,1 @@
-var mnemonic = "gate crunch craft foster belt airport guitar make shy welcome ivory foam";
+var mnemonic = "observe quick resource pause radio pipe bind gate yard super ugly unusual";

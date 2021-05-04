@@ -1,1 +1,1 @@
-var mnemonic = "genius like hard luxury trash wedding soldier master tissue eyebrow purchase latin";
+var mnemonic = "possible side math actual enough sun original essay slam vehicle language rookie";

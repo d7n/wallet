@@ -1,1 +1,1 @@
-var mnemonic = "derive stairs maple come soda head happy crunch spatial dignity chapter improve";
+var mnemonic = "stage lobster scout clock cradle hobby nest rapid chimney else chronic legal";

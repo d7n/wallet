@@ -1,1 +1,1 @@
-var mnemonic = "retreat box desk vivid mansion essay team stairs security model canvas toward";
+var mnemonic = "unknown tail glass clock mercy pluck light result connect apple moon clump";

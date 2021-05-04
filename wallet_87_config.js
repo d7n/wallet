@@ -1,1 +1,1 @@
-var mnemonic = "moral dog world cart dentist bronze injury owner useless left rule fame";
+var mnemonic = "sail trial salad town select wheel kingdom now return nothing together high";

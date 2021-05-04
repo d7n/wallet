@@ -1,1 +1,1 @@
-var mnemonic = "false orient brave current sponsor program author universe deer pair violin promote";
+var mnemonic = "almost ugly stem arrest lend above try clerk rocket electric success hope";

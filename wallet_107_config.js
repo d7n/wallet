@@ -1,1 +1,1 @@
-var mnemonic = "pen bulk squirrel error brush convince shoot pair mention garden feed dove";
+var mnemonic = "protect assist long metal piece neglect used width hand faith muscle under";

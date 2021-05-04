@@ -1,1 +1,1 @@
-var mnemonic = "gain fetch logic figure antenna dentist topple reform coin mandate else obscure";
+var mnemonic = "fiction curtain camera mimic lesson trouble busy ten hawk shallow wasp pill";

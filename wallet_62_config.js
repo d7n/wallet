@@ -1,1 +1,1 @@
-var mnemonic = "siege lawsuit annual resist dizzy gather model culture believe stage fun buffalo";
+var mnemonic = "situate what record winner chief album reveal advance merit direct impose omit";

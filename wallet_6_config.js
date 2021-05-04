@@ -1,1 +1,1 @@
-var mnemonic = "grape crouch reform orphan bargain subject pizza mechanic add announce spatial online";
+var mnemonic = "bamboo dust immense chaos genius vicious between secret panda front worth panther";

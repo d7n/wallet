@@ -1,1 +1,1 @@
-var mnemonic = "rebuild burst solution enact crucial print elbow ostrich muffin marine prosper obtain";
+var mnemonic = "web gasp vessel rocket cotton pyramid lawsuit adapt stock hidden cute tobacco";

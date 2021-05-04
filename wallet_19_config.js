@@ -1,1 +1,1 @@
-var mnemonic = "matter exact spice alpha avoid figure rely dream misery exchange real frown";
+var mnemonic = "brass shrug embark blush pyramid news drastic unhappy will degree excess sure";

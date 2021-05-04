@@ -1,1 +1,1 @@
-var mnemonic = "wait cage slide session alcohol wife intact pipe sorry comfort absorb tent";
+var mnemonic = "miss clarify sustain food lounge repair worry athlete rail trade poem logic";

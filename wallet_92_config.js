@@ -1,1 +1,1 @@
-var mnemonic = "fruit legend merge increase result chapter mammal point token lyrics stable brisk";
+var mnemonic = "melody sock panther about force ecology mistake comic play what shift snack";

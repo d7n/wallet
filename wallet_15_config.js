@@ -1,1 +1,1 @@
-var mnemonic = "enhance cluster civil people good green claw caution blame panda behind runway";
+var mnemonic = "lonely kitchen lonely dust ugly usage truth age leg divert slight warrior";

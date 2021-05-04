@@ -1,1 +1,1 @@
-var mnemonic = "nation wheel amused income zoo scheme circle talent fine surface sock dash";
+var mnemonic = "awful senior creek coyote mix lunch apart alpha voyage okay vehicle remain";

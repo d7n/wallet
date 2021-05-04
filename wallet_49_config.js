@@ -1,1 +1,1 @@
-var mnemonic = "various robot quiz warrior first order exact jelly weasel recall viable heart";
+var mnemonic = "rent extra celery donkey draft test business powder guard clutch sunset primary";

@@ -1,1 +1,1 @@
-var mnemonic = "hub gasp print left desk drip obtain trumpet sleep elbow focus perfect";
+var mnemonic = "movie split clown park foot west original forum enforce pull phrase average";

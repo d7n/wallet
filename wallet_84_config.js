@@ -1,1 +1,1 @@
-var mnemonic = "hotel clog segment raise they mother infant flip bag fitness alien slot";
+var mnemonic = "iron opinion stool suffer crowd aerobic floor expect cart thing number seek";

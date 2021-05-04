@@ -1,1 +1,1 @@
-var mnemonic = "math fresh unhappy quiz wish van width broccoli mechanic leopard alter have";
+var mnemonic = "trigger nose cloud clump arena slender case inform surface illness rural also";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune soul suspect mango breeze fan naive divert injury cream short sorry";
+var mnemonic = "dragon speak rival punch idea wild cycle bring worth flat portion dice";

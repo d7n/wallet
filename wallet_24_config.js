@@ -1,1 +1,1 @@
-var mnemonic = "space cart help jump tag document aspect hole riot sustain describe adapt";
+var mnemonic = "senior inject liar once pull panel list inform tail picture boy confirm";

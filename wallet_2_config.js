@@ -1,1 +1,1 @@
-var mnemonic = "already cover parade story pilot concert opinion fix since message crater social";
+var mnemonic = "rude prepare use video mind nose sting hawk shrimp spoon tragic debris";
