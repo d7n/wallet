@@ -1,1 +1,1 @@
-var mnemonic = "ride hope cup law drama critic skirt inflict undo amused mirror ready";
+var mnemonic = "wash giggle scorpion aisle draft tired hat pony cushion message joy rule";

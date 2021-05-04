@@ -1,1 +1,1 @@
-var mnemonic = "response knee already board venue chimney honey crouch seek charge capable actress";
+var mnemonic = "brisk disorder alley roof nose clog okay slide cake average sound pelican";

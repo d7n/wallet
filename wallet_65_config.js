@@ -1,1 +1,1 @@
-var mnemonic = "blush middle unknown forum pattern clean nothing crouch provide angry fringe impact";
+var mnemonic = "usage saddle crush used trial destroy meat desert ability hill omit figure";

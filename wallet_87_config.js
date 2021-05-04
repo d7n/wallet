@@ -1,1 +1,1 @@
-var mnemonic = "unit item maximum charge fury sister nephew health draft opinion uncle squeeze";
+var mnemonic = "final blade earn task ivory novel help release gold deputy daring gun";

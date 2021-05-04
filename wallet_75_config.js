@@ -1,1 +1,1 @@
-var mnemonic = "pattern slush laptop actual keep rubber steak first path pencil thing such";
+var mnemonic = "solar circle develop solid render today hill bind violin clock hollow obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "tone nation depart flag funny course frown diesel stage tobacco spatial across";
+var mnemonic = "various satisfy smooth spirit rural used work cigar twin crash cheap snap";

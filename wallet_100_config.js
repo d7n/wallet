@@ -1,1 +1,1 @@
-var mnemonic = "salt object post fit hip culture quiz accuse fade dutch old inform";
+var mnemonic = "offer eager kit bullet sail rather narrow region december push shove term";

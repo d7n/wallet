@@ -1,1 +1,1 @@
-var mnemonic = "virtual squeeze cluster curve label acquire awkward truck toy cushion success circle";
+var mnemonic = "bind congress word elevator whale correct chair pigeon ocean castle wealth future";

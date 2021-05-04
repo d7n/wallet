@@ -1,1 +1,1 @@
-var mnemonic = "museum indoor guide slogan aunt blue decorate input message reward anxiety scale";
+var mnemonic = "escape wisdom mutual oven equal eagle brush giraffe guess pyramid toy book";

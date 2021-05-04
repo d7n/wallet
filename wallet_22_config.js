@@ -1,1 +1,1 @@
-var mnemonic = "foot column carpet medal client defy oblige border body search island cave";
+var mnemonic = "strong left risk install echo magic address just coach choose fork simple";

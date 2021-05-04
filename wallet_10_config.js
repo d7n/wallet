@@ -1,1 +1,1 @@
-var mnemonic = "engage hen sand grain neck magic express fence demand clog dance program";
+var mnemonic = "unusual cereal skin garden swallow salon tortoise catalog paddle chapter ginger list";

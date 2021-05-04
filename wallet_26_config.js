@@ -1,1 +1,1 @@
-var mnemonic = "order trophy hedgehog useless together grunt purchase pledge pelican winter jewel trial";
+var mnemonic = "ripple arrive symptom split canal ostrich armed skirt happy void panic trouble";

@@ -1,1 +1,1 @@
-var mnemonic = "shield wood hundred trouble object moon edit trust fold pencil void slogan";
+var mnemonic = "session sentence pepper nothing quote spatial divorce index seminar remember hotel finish";

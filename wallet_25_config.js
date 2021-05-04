@@ -1,1 +1,1 @@
-var mnemonic = "animal lawn wealth milk enter describe wasp merge digital squirrel crucial lunch";
+var mnemonic = "anchor hockey learn captain focus ugly radar resemble retire chunk kind remove";

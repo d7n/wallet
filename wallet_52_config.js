@@ -1,1 +1,1 @@
-var mnemonic = "disagree balcony funny unfair bitter point month unit agree cup speak horn";
+var mnemonic = "mandate midnight ignore south decorate truly uniform morning must master face essay";

@@ -1,1 +1,1 @@
-var mnemonic = "nose weather rain crunch travel woman inner horror tattoo people exit lumber";
+var mnemonic = "fence luggage feel twice toddler slice shrimp wing huge phrase base vanish";

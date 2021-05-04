@@ -1,1 +1,1 @@
-var mnemonic = "hybrid snap awkward supply famous rifle surge acoustic question enable club save";
+var mnemonic = "flower core kidney quarter hunt reflect another woman soda east undo exotic";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel charge kiwi envelope family notice inner divide draft item later egg";
+var mnemonic = "scrap gate idle differ story must crystal buddy ship track swap want";

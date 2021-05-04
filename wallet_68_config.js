@@ -1,1 +1,1 @@
-var mnemonic = "test next adult slight mosquito tape desk tattoo lift wagon usual tornado";
+var mnemonic = "skirt plate swing absurd usual key defy stock noise galaxy alarm gain";

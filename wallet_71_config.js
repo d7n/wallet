@@ -1,1 +1,1 @@
-var mnemonic = "bicycle acid hand cage lyrics trap seat radar girl off sniff chapter";
+var mnemonic = "expose crouch toward taste betray reward amount bamboo valve visit goose immune";

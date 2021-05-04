@@ -1,1 +1,1 @@
-var mnemonic = "direct silent receive melt feed home collect belt hammer reveal maximum chaos";
+var mnemonic = "screen duck pave squirrel core design chat clap danger diamond escape outside";

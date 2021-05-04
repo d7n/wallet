@@ -1,1 +1,1 @@
-var mnemonic = "muffin humor ignore scale boost ball hard tank ginger picture chunk armed";
+var mnemonic = "pact oven sound car write pair license busy device toy famous outside";

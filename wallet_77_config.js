@@ -1,1 +1,1 @@
-var mnemonic = "gather wage device coast owner market road bike gate unique romance judge";
+var mnemonic = "legal guitar frost priority grow delay use umbrella fiscal about dry beauty";

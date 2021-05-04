@@ -1,1 +1,1 @@
-var mnemonic = "find flavor decade ice brick weapon vague wheat gasp decade twin tide";
+var mnemonic = "forward naive video practice attract unhappy rude budget vote slogan swap language";

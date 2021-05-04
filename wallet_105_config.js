@@ -1,1 +1,1 @@
-var mnemonic = "tenant very unfair hurt train swing side reduce frequent raccoon owner cube";
+var mnemonic = "swift present twelve seat accuse kid group hat woman clown able elegant";

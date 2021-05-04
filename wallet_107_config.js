@@ -1,1 +1,1 @@
-var mnemonic = "visa approve wealth ocean cover anger uphold grid foam blue stone three";
+var mnemonic = "bitter snake enjoy creek ranch salmon comic join harsh soap tooth dawn";

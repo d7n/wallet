@@ -1,1 +1,1 @@
-var mnemonic = "autumn any muscle size pioneer tonight coffee antique athlete solve glance just";
+var mnemonic = "permit arm retreat thank offer pen slide real ozone crater owner spoon";

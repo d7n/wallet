@@ -1,1 +1,1 @@
-var mnemonic = "mosquito april cream despair ski hawk eagle eye mandate category dream tennis";
+var mnemonic = "beauty wagon steel april kind roof car gesture august attack cancel flag";

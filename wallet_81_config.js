@@ -1,1 +1,1 @@
-var mnemonic = "series toward danger dash direct isolate close slam machine napkin safe room";
+var mnemonic = "image dose turn license always alarm pet crop reveal width museum slice";

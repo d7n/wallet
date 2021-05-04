@@ -1,1 +1,1 @@
-var mnemonic = "ecology inject wheel attract silk scout floor conduct art provide merge rare";
+var mnemonic = "path thought rate agent open uniform popular please doctor parent diesel state";

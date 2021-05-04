@@ -1,1 +1,1 @@
-var mnemonic = "decade riot quit apple essence hand reward asthma term clever puzzle hill";
+var mnemonic = "fashion catalog around illegal artefact woman drum canvas describe firm elevator menu";

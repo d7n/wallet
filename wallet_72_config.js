@@ -1,1 +1,1 @@
-var mnemonic = "frost club kangaroo help pen beef supreme park when open fly cart";
+var mnemonic = "supreme achieve fossil owner suggest join just anchor mother lab island one";

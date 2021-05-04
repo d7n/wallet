@@ -1,1 +1,1 @@
-var mnemonic = "random key aerobic payment strong blue flash faint brush episode second violin";
+var mnemonic = "october gold smart vocal key pizza torch dust illness erode glory assist";

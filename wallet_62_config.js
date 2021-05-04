@@ -1,1 +1,1 @@
-var mnemonic = "history cinnamon member dinosaur soup beauty insane cycle baby fabric eyebrow viable";
+var mnemonic = "wife inner symptom club brave demise fortune clump rude animal radio enable";

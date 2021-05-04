@@ -1,1 +1,1 @@
-var mnemonic = "mammal used churn thumb upgrade quality suffer raise else evoke defy south";
+var mnemonic = "age kind similar raccoon gravity employ gym search board tomorrow tag gown";

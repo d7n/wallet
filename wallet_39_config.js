@@ -1,1 +1,1 @@
-var mnemonic = "wreck abandon goose leader tenant merge way faculty express fold artist together";
+var mnemonic = "damp tired denial sausage end dentist reflect emotion interest group solid outside";

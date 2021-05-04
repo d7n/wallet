@@ -1,1 +1,1 @@
-var mnemonic = "relax tornado resist employ envelope metal badge wood fault student scrap kick";
+var mnemonic = "throw chuckle supreme need voyage torch canvas science snake able typical brief";

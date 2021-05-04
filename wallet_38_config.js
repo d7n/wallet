@@ -1,1 +1,1 @@
-var mnemonic = "pyramid garment elbow cherry monster ugly anxiety say work airport lend cinnamon";
+var mnemonic = "army usage manage disagree minimum palace hamster disorder hood cash salmon asthma";

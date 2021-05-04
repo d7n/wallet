@@ -1,1 +1,1 @@
-var mnemonic = "morning color discover soda stadium wrap lunch slow top mutual awkward nasty";
+var mnemonic = "cotton space congress twice grain shoot reason market treat tattoo juice motion";

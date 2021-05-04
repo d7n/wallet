@@ -1,1 +1,1 @@
-var mnemonic = "ring speed degree announce venture angry soccer bounce boring outdoor remove similar";
+var mnemonic = "that pond myth finger wink base force slogan elevator renew beach able";

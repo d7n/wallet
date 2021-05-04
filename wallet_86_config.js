@@ -1,1 +1,1 @@
-var mnemonic = "peasant wink erase era update churn sail cat allow rough snake pause";
+var mnemonic = "train arena exit bone december diagram they umbrella swarm harsh original rent";

@@ -1,1 +1,1 @@
-var mnemonic = "garage develop scissors bracket tip topple turtle lab outdoor drive between visual";
+var mnemonic = "museum kitchen heart half adjust program dolphin drum position find make impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "danger correct spirit wash barely scene path gym hundred uphold again monitor";
+var mnemonic = "gasp chest practice reduce exact light country antenna vague grow exchange flame";

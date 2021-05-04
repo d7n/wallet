@@ -1,1 +1,1 @@
-var mnemonic = "hidden anchor hole wild myth kiss man inquiry raven rabbit worth hospital";
+var mnemonic = "hamster trust fiction rack hour tornado project gossip glow speak other blush";

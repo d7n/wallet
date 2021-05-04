@@ -1,1 +1,1 @@
-var mnemonic = "earn proof quick submit leave derive become sound material chief action smart";
+var mnemonic = "menu online machine panel picnic lift misery slight gown salmon castle unfair";

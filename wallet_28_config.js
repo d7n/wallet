@@ -1,1 +1,1 @@
-var mnemonic = "ankle execute bid plate blossom uncover abstract cancel harbor divert comic husband";
+var mnemonic = "vote blind twist during same path merge parrot fade arch adjust company";

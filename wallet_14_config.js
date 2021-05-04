@@ -1,1 +1,1 @@
-var mnemonic = "illness canyon salmon nurse asthma sunny fame grass return page oil daring";
+var mnemonic = "net dynamic pony opera purity term deny sample fetch flag rather net";

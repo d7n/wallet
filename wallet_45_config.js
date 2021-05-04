@@ -1,1 +1,1 @@
-var mnemonic = "problem matter true sport stumble occur legend shoe enforce upper frost stadium";
+var mnemonic = "cover popular hybrid scan romance tuna foster silk truck stand switch word";

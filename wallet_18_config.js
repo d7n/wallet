@@ -1,1 +1,1 @@
-var mnemonic = "heart tackle decade enlist mom parrot prefer tongue vocal swim blade resemble";
+var mnemonic = "print spawn payment undo seed jump parent quiz grant topic vault segment";

@@ -1,1 +1,1 @@
-var mnemonic = "duty unable modify menu mesh ski wing huge off simple monster pen";
+var mnemonic = "people any lemon off afford panel identify small merge game snap behind";

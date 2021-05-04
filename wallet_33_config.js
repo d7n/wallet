@@ -1,1 +1,1 @@
-var mnemonic = "sheriff boring mail insect enforce hospital afford corn punch rabbit accuse together";
+var mnemonic = "delay creek voice insane grit melt lady knife mule annual daring anger";

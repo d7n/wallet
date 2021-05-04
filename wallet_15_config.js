@@ -1,1 +1,1 @@
-var mnemonic = "any panther maple news wasp second copper advance drink vacuum situate doll";
+var mnemonic = "doctor prosper observe gun voice embrace true prefer emotion wear already trouble";

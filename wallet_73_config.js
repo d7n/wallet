@@ -1,1 +1,1 @@
-var mnemonic = "trick noise tube hundred boil please pride total example fiction inmate broom";
+var mnemonic = "slam scout entire apology weapon bleak fame resource panther danger poverty enrich";

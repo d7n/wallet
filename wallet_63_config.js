@@ -1,1 +1,1 @@
-var mnemonic = "general mandate open hello panel fold sure spatial eight artefact horn reform";
+var mnemonic = "swift tunnel ball frame upon over bulk puppy candy void attitude wife";

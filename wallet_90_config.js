@@ -1,1 +1,1 @@
-var mnemonic = "two stairs enter basket sausage bacon guitar coil electric glide victory agree";
+var mnemonic = "music erase chalk mushroom barely guess nominee load depart novel essence exchange";

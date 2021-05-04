@@ -1,1 +1,1 @@
-var mnemonic = "meadow animal much reflect suggest runway sure execute spring matrix depth artefact";
+var mnemonic = "group penalty room strong quality job penalty vacant process sword eight symbol";

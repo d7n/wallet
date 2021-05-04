@@ -1,1 +1,1 @@
-var mnemonic = "ancient sample belt village view rain crane unfair coyote school library awesome";
+var mnemonic = "capital check photo execute worry arch hero thumb hip tourist normal pattern";

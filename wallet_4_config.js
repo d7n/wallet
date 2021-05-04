@@ -1,1 +1,1 @@
-var mnemonic = "mosquito scrub unhappy inspire bracket cushion always absurd output health noise young";
+var mnemonic = "wish firm enact erase resource grocery space uphold enroll access sea carbon";

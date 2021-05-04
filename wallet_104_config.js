@@ -1,1 +1,1 @@
-var mnemonic = "fortune silk ritual sponsor trial feed valve undo loud off rough advance";
+var mnemonic = "pledge tissue auto green lyrics crucial various fortune wash kingdom worry struggle";

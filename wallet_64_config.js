@@ -1,1 +1,1 @@
-var mnemonic = "quick calm lab famous injury version live dragon pony grief cereal slide";
+var mnemonic = "cost ordinary mechanic only express update stage old enact snap leader health";

@@ -1,1 +1,1 @@
-var mnemonic = "faith evidence steel buddy empty breeze soup bargain ribbon awake layer input";
+var mnemonic = "sword into fringe void cook describe jelly tower decline bag coil daring";

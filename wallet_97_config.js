@@ -1,1 +1,1 @@
-var mnemonic = "tell wool bless stadium vast dance pride tuition attack oxygen raccoon ginger";
+var mnemonic = "camera infant open globe impact valley oil arm unknown soccer ahead rug";

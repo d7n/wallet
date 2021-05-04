@@ -1,1 +1,1 @@
-var mnemonic = "aim main curious property dinner cotton range lizard level subject echo summer";
+var mnemonic = "ring kind naive predict joke easy program degree always powder account true";

@@ -1,1 +1,1 @@
-var mnemonic = "pony infant hollow home leg paper reflect ozone brave weird sail whip";
+var mnemonic = "drop youth ask else prosper plate brief quote diary drip elbow rival";

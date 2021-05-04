@@ -1,1 +1,1 @@
-var mnemonic = "quote celery kitchen mixed clip horn skill flock loop defense wedding scan";
+var mnemonic = "write mammal ten universe mandate quantum clap matter cause sustain debris rent";

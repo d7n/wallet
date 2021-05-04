@@ -1,1 +1,1 @@
-var mnemonic = "cushion chunk tone element strategy catch boat safe silly eyebrow winner usage";
+var mnemonic = "twenty memory hero kiwi finger rib market wealth tuna where gauge found";

@@ -1,1 +1,1 @@
-var mnemonic = "change drive amazing leg match undo will chase bleak glow husband endless";
+var mnemonic = "board critic enact earth dove april glory desert pattern hotel squirrel text";

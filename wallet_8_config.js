@@ -1,1 +1,1 @@
-var mnemonic = "advance immune abandon fatal home write lawn hope harvest much oppose result";
+var mnemonic = "bamboo energy repair paddle approve grass rug write arrive simple hard stick";

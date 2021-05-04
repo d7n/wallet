@@ -1,1 +1,1 @@
-var mnemonic = "start faint time bless anger isolate success drastic pudding hint vendor robust";
+var mnemonic = "crystal veteran message taxi foot supply section lesson duck when stick genuine";

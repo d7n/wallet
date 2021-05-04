@@ -1,1 +1,1 @@
-var mnemonic = "silly camera print clarify rally ensure trap table believe head panel code";
+var mnemonic = "ask loyal axis burst word ability giggle spare silk cruel rubber bargain";

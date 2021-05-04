@@ -1,1 +1,1 @@
-var mnemonic = "lobster debate type screen novel craft submit task inject mammal casino ugly";
+var mnemonic = "omit fetch seek series symbol resemble alert lazy lawn pool lazy dizzy";

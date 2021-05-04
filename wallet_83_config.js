@@ -1,1 +1,1 @@
-var mnemonic = "elephant dial bulk area crumble damp kid another gravity defy own obvious";
+var mnemonic = "cover rigid future almost unaware reward siren phrase hard pulse ritual oil";

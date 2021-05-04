@@ -1,1 +1,1 @@
-var mnemonic = "target nothing guard ticket narrow country actor lunch blade leaf gasp blame";
+var mnemonic = "govern system short alcohol dynamic cross fantasy monkey public switch reunion benefit";

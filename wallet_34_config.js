@@ -1,1 +1,1 @@
-var mnemonic = "update traffic borrow fashion ketchup switch filter elegant jungle indoor federal midnight";
+var mnemonic = "quarter dragon ride giggle parade oval left mix symbol forest card valve";

@@ -1,1 +1,1 @@
-var mnemonic = "speak oval liar seminar idea cool nut orient achieve reveal atom abandon";
+var mnemonic = "law library zero immense dawn diamond crawl inside employ wild basic black";

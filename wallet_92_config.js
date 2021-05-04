@@ -1,1 +1,1 @@
-var mnemonic = "virtual nominee episode cherry copy recall garment gold lab travel window cigar";
+var mnemonic = "hungry squirrel direct modify share skill fortune virtual doll surprise cube turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "title window tonight toilet solid monitor cross desk mobile torch ahead off";
+var mnemonic = "same visual stairs video rebuild lucky pause six cactus swift clog outside";

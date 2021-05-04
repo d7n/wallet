@@ -1,1 +1,1 @@
-var mnemonic = "they evoke lawsuit train multiply cover amateur pepper inhale stuff fall oxygen";
+var mnemonic = "silk news resemble bag fortune dish ghost biology october add situate balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "again hockey relief kid program drama earth pencil double motor victory number";
+var mnemonic = "lumber muscle cage motion tide mystery swarm nut clever want toe horse";

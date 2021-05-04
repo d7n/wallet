@@ -1,1 +1,1 @@
-var mnemonic = "position beach learn beef youth regular found wing penalty equip board off";
+var mnemonic = "behind super space media ostrich race crazy glow rigid beauty bullet obvious";

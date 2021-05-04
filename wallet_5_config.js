@@ -1,1 +1,1 @@
-var mnemonic = "busy desert enjoy rifle debate exhaust inhale immune afraid aisle giggle vibrant";
+var mnemonic = "attack enact laptop produce disorder ridge often social cheap section horse elite";

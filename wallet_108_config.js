@@ -1,1 +1,1 @@
-var mnemonic = "elbow elegant demand motion canoe ring better bounce replace parade valve tide";
+var mnemonic = "pear involve know bid decade dinosaur trust sting suit employ recycle reunion";

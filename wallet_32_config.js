@@ -1,1 +1,1 @@
-var mnemonic = "squirrel notice satoshi body decide turtle sure script shadow any mistake cost";
+var mnemonic = "rival quantum egg sibling orchard proud shuffle grit apart marine thumb angle";

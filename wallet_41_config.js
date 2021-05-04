@@ -1,1 +1,1 @@
-var mnemonic = "crystal ethics canyon fortune wear trust juice avocado album slab weekend until";
+var mnemonic = "pizza whisper cheap upset anchor trick small usage grape hen abandon wisdom";

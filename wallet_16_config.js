@@ -1,1 +1,1 @@
-var mnemonic = "soccer price fatigue noise transfer coin milk fold trial dog ginger trust";
+var mnemonic = "achieve book lottery hill test put swift shed badge library flavor harvest";

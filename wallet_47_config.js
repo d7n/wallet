@@ -1,1 +1,1 @@
-var mnemonic = "worth situate diesel simple pizza ostrich curve brief armed traffic sketch victory";
+var mnemonic = "exhibit pumpkin river harsh crime employ spike isolate fatigue also system stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "rich super vanish time peasant fashion book lawn unknown adapt stage rare";
+var mnemonic = "comic please ladder discover mad thumb bike indicate syrup trim boss antenna";

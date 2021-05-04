@@ -1,1 +1,1 @@
-var mnemonic = "retire certain chalk empower follow become come key arrange fuel relax wheat";
+var mnemonic = "nation depth female panther picture thank movie column reason east defense balcony";

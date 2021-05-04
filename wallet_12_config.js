@@ -1,1 +1,1 @@
-var mnemonic = "green tonight shaft utility magnet damp thing mosquito zone click region model";
+var mnemonic = "veteran math sword talk museum fringe click quote gossip tail powder guide";

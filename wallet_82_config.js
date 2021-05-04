@@ -1,1 +1,1 @@
-var mnemonic = "surprise gospel genre dance usual outer smart weekend fork say rebel carry";
+var mnemonic = "enter agent reunion typical valve output state where solution canyon cube faith";

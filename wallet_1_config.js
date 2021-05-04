@@ -1,1 +1,1 @@
-var mnemonic = "legal sibling forum address recycle awesome worth castle woman canyon maple velvet";
+var mnemonic = "carpet aim spider broken casual can tuna smooth half suffer detect crumble";

@@ -1,1 +1,1 @@
-var mnemonic = "leg over modify inherit also worry suffer cotton include phrase party science";
+var mnemonic = "infant beach decline network fine feed question pony head wave illness vacant";

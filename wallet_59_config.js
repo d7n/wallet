@@ -1,1 +1,1 @@
-var mnemonic = "off business update skirt mandate project wire coyote mobile route eye combine";
+var mnemonic = "cousin spoon person demise kangaroo annual recycle inherit access turtle quiz apple";

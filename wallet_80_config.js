@@ -1,1 +1,1 @@
-var mnemonic = "fossil resource setup multiply tornado drastic oxygen retreat zero conduct autumn name";
+var mnemonic = "diary emotion certain know oblige garment female flee tunnel celery lounge gather";

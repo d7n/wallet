@@ -1,1 +1,1 @@
-var mnemonic = "timber immense wife crucial fitness base under pony ready ripple enhance fox";
+var mnemonic = "length employ say lecture sound recipe pet february globe blush initial image";
