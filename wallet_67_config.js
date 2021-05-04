@@ -1,1 +1,1 @@
-var mnemonic = "amount north crawl tongue umbrella zero zero seven add fetch universe pupil";
+var mnemonic = "vapor tent achieve humble point shop matter daring happy teach venue elegant";

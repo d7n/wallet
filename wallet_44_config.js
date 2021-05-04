@@ -1,1 +1,1 @@
-var mnemonic = "sweet book tiny dove bracket hard neck armed hollow sea keep blast";
+var mnemonic = "jelly unaware paddle among lamp mad accident essay gloom palace sadness second";

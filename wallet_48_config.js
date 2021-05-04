@@ -1,1 +1,1 @@
-var mnemonic = "surface climb hurry script sword boy image mosquito blade depth employ iron";
+var mnemonic = "slow regret cotton rain fortune claw oxygen supply weather library cool jeans";

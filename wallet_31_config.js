@@ -1,1 +1,1 @@
-var mnemonic = "early because wrestle catalog fiction uphold regular double easy sport adjust valve";
+var mnemonic = "claim matrix track cook giraffe blame season cannon able uniform clap dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "grit truly luggage fury unique must gorilla click sphere satisfy invest gas";
+var mnemonic = "large tell wheat bonus grape slot dismiss wolf toddler layer nose mask";

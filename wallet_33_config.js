@@ -1,1 +1,1 @@
-var mnemonic = "casino move width believe comic hidden gather acquire mask acoustic thing mail";
+var mnemonic = "afraid garden hammer dumb panel object tiny grape bird camera injury layer";

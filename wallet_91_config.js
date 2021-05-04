@@ -1,1 +1,1 @@
-var mnemonic = "camp hurry try trigger price shy excite awake mushroom memory baby day";
+var mnemonic = "nominee cup depth major salt crowd economy truly denial age love ecology";

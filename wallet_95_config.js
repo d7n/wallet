@@ -1,1 +1,1 @@
-var mnemonic = "defense behave jewel siren minute prosper stick token gentle book wire that";
+var mnemonic = "dog right keen place resist please job wonder rack huge fine afraid";

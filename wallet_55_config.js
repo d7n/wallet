@@ -1,1 +1,1 @@
-var mnemonic = "good install amount tornado differ pulse worth example little defy slice great";
+var mnemonic = "act sadness unknown budget aisle project bacon monitor clutch foam delay tuna";

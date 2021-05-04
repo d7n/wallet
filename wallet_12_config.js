@@ -1,1 +1,1 @@
-var mnemonic = "bone arrow tool report hour liquid vintage olive language hard auction elegant";
+var mnemonic = "athlete toe visual unveil pond piano chimney title lamp news brave alcohol";

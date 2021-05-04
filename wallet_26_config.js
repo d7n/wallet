@@ -1,1 +1,1 @@
-var mnemonic = "resist eager rural chuckle kingdom dolphin never brick meat cruise test liar";
+var mnemonic = "satoshi receive dice wire battle skin ticket rescue virus absorb annual charge";

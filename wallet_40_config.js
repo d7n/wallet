@@ -1,1 +1,1 @@
-var mnemonic = "leg bachelor film art welcome faculty text tourist blouse praise palace alter";
+var mnemonic = "pilot struggle pupil matrix media toddler else warrior usual whip lucky rose";

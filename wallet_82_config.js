@@ -1,1 +1,1 @@
-var mnemonic = "sock teach educate choose cruel mansion shoe observe trash grit agent swift";
+var mnemonic = "dynamic derive panel capable anger again razor ensure post bacon inmate various";

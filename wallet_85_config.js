@@ -1,1 +1,1 @@
-var mnemonic = "venue include solid job hip hollow hello young slide lobster sponsor lizard";
+var mnemonic = "priority interest diet problem practice win dream real face bitter attend settle";

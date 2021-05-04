@@ -1,1 +1,1 @@
-var mnemonic = "amount way before already health energy penalty illness off praise reason buzz";
+var mnemonic = "guide science lift lady kangaroo vibrant pottery come cluster parade barely coconut";

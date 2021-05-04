@@ -1,1 +1,1 @@
-var mnemonic = "grunt embrace acid before thumb citizen stairs type crawl theme pilot festival";
+var mnemonic = "benefit brief sample soap combine museum jealous deputy model point drill sure";

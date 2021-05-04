@@ -1,1 +1,1 @@
-var mnemonic = "wasp canal index cattle opera gap sheriff degree remove develop harsh chase";
+var mnemonic = "clerk rely bridge bid joke silver cake virtual pact yard worry child";

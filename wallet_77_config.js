@@ -1,1 +1,1 @@
-var mnemonic = "machine cliff weapon delay race kite proud since foil utility usual symptom";
+var mnemonic = "horn scissors over polar icon pattern increase cube genius only about smoke";

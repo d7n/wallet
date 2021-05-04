@@ -1,1 +1,1 @@
-var mnemonic = "reunion arena siege wreck video diamond stadium wear fatal feature rebel oppose";
+var mnemonic = "tail board split narrow tissue style impact device skill laugh bullet unhappy";

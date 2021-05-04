@@ -1,1 +1,1 @@
-var mnemonic = "scare fiction crowd shop young abandon render zone radar negative peanut west";
+var mnemonic = "oyster visual spoon mass february document general pave cash party knife photo";

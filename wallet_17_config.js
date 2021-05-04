@@ -1,1 +1,1 @@
-var mnemonic = "special ready deliver bike cactus ticket stand cigar audit sponsor magic coach";
+var mnemonic = "foil march region try wrestle museum quiz river miracle fitness symbol lesson";

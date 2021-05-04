@@ -1,1 +1,1 @@
-var mnemonic = "rent lock lumber plunge rough verb interest cousin twin liquid bottom spend";
+var mnemonic = "slide gorilla category kiwi assault chunk device husband vocal taxi bid discover";

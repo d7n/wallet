@@ -1,1 +1,1 @@
-var mnemonic = "amazing predict depart motion country afraid olympic giggle resemble afraid blue cave";
+var mnemonic = "trick enroll helmet lounge helmet talent valid wage company jacket drop purse";

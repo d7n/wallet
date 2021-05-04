@@ -1,1 +1,1 @@
-var mnemonic = "human season reveal man allow lumber melt warfare outdoor vote grocery oppose";
+var mnemonic = "gossip bring curve stay hold shell call giant clip curious episode holiday";

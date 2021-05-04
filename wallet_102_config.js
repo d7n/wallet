@@ -1,1 +1,1 @@
-var mnemonic = "model banner face across abstract fault wink right fly clay month clerk";
+var mnemonic = "unveil robot double collect engine camera now reveal sport nephew pen turn";

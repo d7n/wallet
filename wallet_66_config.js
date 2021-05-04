@@ -1,1 +1,1 @@
-var mnemonic = "derive often skull prosper balcony skin garden milk exhaust skull asthma donor";
+var mnemonic = "spice embark inside move fault minute toast gentle copper urban minute concert";

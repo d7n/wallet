@@ -1,1 +1,1 @@
-var mnemonic = "sense inhale half theme ozone add pony open recall board champion lyrics";
+var mnemonic = "nominee drive school column dry grace despair sudden mango wife again like";

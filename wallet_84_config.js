@@ -1,1 +1,1 @@
-var mnemonic = "fatal thrive convince pipe dignity rent boss sign this lion school estate";
+var mnemonic = "make either gloom tonight enrich balcony eternal copper put special aspect melody";

@@ -1,1 +1,1 @@
-var mnemonic = "scare cost family guide tell sphere exhibit neither noble ask stay gift";
+var mnemonic = "chef betray tornado unique cup write train divide reward island cliff couch";

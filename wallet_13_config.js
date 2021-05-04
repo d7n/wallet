@@ -1,1 +1,1 @@
-var mnemonic = "napkin step brush design ramp differ exhibit public display debris someone smart";
+var mnemonic = "stem valve pottery scatter gallery note cereal render hint total hazard certain";

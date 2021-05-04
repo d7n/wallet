@@ -1,1 +1,1 @@
-var mnemonic = "effort clean bonus bicycle fee hospital end method receive vacuum useful code";
+var mnemonic = "strike west sword extend aerobic pair body shoe nut canvas grunt tone";

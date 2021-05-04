@@ -1,1 +1,1 @@
-var mnemonic = "awful bird sausage often joy foam welcome define cotton normal remember spice";
+var mnemonic = "network want item come canoe siren blade ahead another interest drama bachelor";

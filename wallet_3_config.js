@@ -1,1 +1,1 @@
-var mnemonic = "object work fiber green legend struggle journey glimpse public spawn saddle amateur";
+var mnemonic = "rude arrive history devote scare reform this rich calm island inmate fossil";

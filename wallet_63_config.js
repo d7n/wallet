@@ -1,1 +1,1 @@
-var mnemonic = "casino energy base color trash faculty nephew dynamic mutual meadow tool loud";
+var mnemonic = "chase joy fiber meat offer okay various cricket flag rocket test ritual";

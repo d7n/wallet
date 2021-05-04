@@ -1,1 +1,1 @@
-var mnemonic = "clown crane rural access remain win deal turtle eternal drift dove fruit";
+var mnemonic = "lucky farm live confirm island laundry settle grief effort summer trade drink";

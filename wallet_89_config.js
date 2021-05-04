@@ -1,1 +1,1 @@
-var mnemonic = "return future early crop gasp friend menu virtual major clerk member thunder";
+var mnemonic = "weapon wasp dose rare service garage prefer kangaroo misery radar exile advance";

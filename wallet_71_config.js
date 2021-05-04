@@ -1,1 +1,1 @@
-var mnemonic = "doctor service sunset foam north meat pulse supply eight celery enjoy rather";
+var mnemonic = "volcano equip spirit decline analyst hockey tone loop arena admit woman marble";

@@ -1,1 +1,1 @@
-var mnemonic = "foil found million describe hood note dish now clever poverty wheel diet";
+var mnemonic = "squeeze penalty ski rather note uncover dutch flight have custom beyond denial";

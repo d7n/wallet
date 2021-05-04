@@ -1,1 +1,1 @@
-var mnemonic = "resist good panic shuffle next chair stereo era raise dinner deputy stage";
+var mnemonic = "donkey iron call lens runway drop globe idle allow actual ethics siege";

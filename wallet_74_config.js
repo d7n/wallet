@@ -1,1 +1,1 @@
-var mnemonic = "afraid across chimney symptom update pole female quit sock barrel script drink";
+var mnemonic = "raise census border eagle trade receive brown monster salt secret latin letter";

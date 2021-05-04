@@ -1,1 +1,1 @@
-var mnemonic = "ritual nurse enough food siege luxury level urge online female sock blast";
+var mnemonic = "answer topple bus again camera abandon ancient hobby fold thing today electric";

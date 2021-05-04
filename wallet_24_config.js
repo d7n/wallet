@@ -1,1 +1,1 @@
-var mnemonic = "elevator art kite jealous village reopen furnace best almost outside thumb gesture";
+var mnemonic = "electric nest universe mouse velvet economy word sleep explain floor letter ocean";

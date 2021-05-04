@@ -1,1 +1,1 @@
-var mnemonic = "road range collect mistake feature basket link throw menu govern cover clip";
+var mnemonic = "water general during abuse office liberty add beyond custom inject push banner";

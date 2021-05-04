@@ -1,1 +1,1 @@
-var mnemonic = "night soda very number beef victory festival village spatial planet license van";
+var mnemonic = "loyal orchard artwork badge aspect priority fuel power wreck fog spell lecture";

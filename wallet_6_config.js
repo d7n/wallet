@@ -1,1 +1,1 @@
-var mnemonic = "concert vivid either repair protect tooth ignore month knife stuff inhale inside";
+var mnemonic = "pulse race they tenant sadness wasp mouse deer lamp require cactus tumble";

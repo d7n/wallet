@@ -1,1 +1,1 @@
-var mnemonic = "museum head cruise zero cotton phrase drive virus mention hurt nature reject";
+var mnemonic = "palm dinner certain great smooth depend fuel simple acoustic subway famous crater";

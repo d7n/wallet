@@ -1,1 +1,1 @@
-var mnemonic = "spatial hen cup chat north social blush calm later execute jungle flight";
+var mnemonic = "shrimp inch soup domain act acoustic tide loud barrel mask advice minor";

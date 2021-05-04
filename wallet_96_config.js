@@ -1,1 +1,1 @@
-var mnemonic = "destroy kangaroo small hill icon blossom dose tiger neither glove soda milk";
+var mnemonic = "suffer industry law ticket caution person license dolphin eternal cycle plug crystal";

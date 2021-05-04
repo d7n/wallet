@@ -1,1 +1,1 @@
-var mnemonic = "sight drift net sponsor trial air clock tribe agree oven near raccoon";
+var mnemonic = "expire pet assault silent other awake fade mixed lend tiny cash glow";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow blind what grass sea sunset drama surprise lobster tourist mutual rug";
+var mnemonic = "whale setup faith crisp scheme sustain capable solar rural affair mimic drip";

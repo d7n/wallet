@@ -1,1 +1,1 @@
-var mnemonic = "vault fee vault guess huge wild song meadow employ water person script";
+var mnemonic = "fame latin warrior power morning coral civil ritual fish bone machine viable";

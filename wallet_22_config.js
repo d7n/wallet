@@ -1,1 +1,1 @@
-var mnemonic = "impose alien smooth fame high true useless notice income nerve impose cliff";
+var mnemonic = "flock pair nation north tongue cotton vacuum size jungle vendor clarify banana";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle soup brush stool sell patient volume release imitate leg state emerge";
+var mnemonic = "able spike lizard alpha rail laundry slogan thunder silly face tunnel resist";

@@ -1,1 +1,1 @@
-var mnemonic = "promote wine pond minute army typical business spirit today ecology must bar";
+var mnemonic = "explain oak bid immune order provide crop verb ocean truly wasp busy";

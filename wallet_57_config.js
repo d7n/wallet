@@ -1,1 +1,1 @@
-var mnemonic = "floor slim people accuse web cattle print since explain cream muscle fashion";
+var mnemonic = "stuff sting zoo hire mad mercy grape number wise slim devote swift";

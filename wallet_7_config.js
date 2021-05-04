@@ -1,1 +1,1 @@
-var mnemonic = "document cake retreat bleak afford report siren abstract call suspect bitter scan";
+var mnemonic = "price fabric lava they shoe frost broom prison flight demand interest bleak";

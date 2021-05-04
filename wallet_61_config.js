@@ -1,1 +1,1 @@
-var mnemonic = "output sleep midnight toy tool property artefact enter lift there moral vivid";
+var mnemonic = "talent pear foil material dove tiger giant spy expect puzzle please index";

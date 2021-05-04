@@ -1,1 +1,1 @@
-var mnemonic = "hand bullet season state frame can ecology eagle arena soul rule unknown";
+var mnemonic = "bulk cargo final hole prefer perfect fee wet vocal twist best call";

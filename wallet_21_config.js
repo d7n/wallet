@@ -1,1 +1,1 @@
-var mnemonic = "suspect crawl interest habit saddle addict happy hurry chimney dad glove theory";
+var mnemonic = "drip conduct shuffle car book proof cattle report notice chapter random refuse";

@@ -1,1 +1,1 @@
-var mnemonic = "identify three atom broken depend car curve wasp bracket tone supply light";
+var mnemonic = "garment beach feed cargo mix hen cannon blouse famous head promote hold";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen bitter empower acoustic claim search narrow rival supreme profit monkey ankle";
+var mnemonic = "swamp invite visual van shadow fiction fantasy guess nephew royal betray net";

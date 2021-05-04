@@ -1,1 +1,1 @@
-var mnemonic = "bulb jelly boil canvas antenna acoustic swamp noodle tonight vote expose wet";
+var mnemonic = "key yard rice demise extra slot mystery melody pool permit senior coast";

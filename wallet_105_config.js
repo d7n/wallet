@@ -1,1 +1,1 @@
-var mnemonic = "sand weapon shop cattle trash loop upset account orange pepper brain dress";
+var mnemonic = "pet thought car recipe endless regular drill unhappy yellow cram dirt album";

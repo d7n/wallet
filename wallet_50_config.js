@@ -1,1 +1,1 @@
-var mnemonic = "tennis start funny plug under crouch grass undo sibling topic sustain someone";
+var mnemonic = "either final peanut noise harvest also old wink advice box mule fox";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual accident include beauty all mouse drive grab farm length since grab";
+var mnemonic = "vanish broken art vacuum entire bid liar script distance inside come elevator";

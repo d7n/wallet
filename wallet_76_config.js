@@ -1,1 +1,1 @@
-var mnemonic = "dice result early decorate weekend candy test chat actress safe crater room";
+var mnemonic = "minute charge fall garment cram tide winter involve used hand unknown motion";

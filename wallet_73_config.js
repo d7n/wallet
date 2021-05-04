@@ -1,1 +1,1 @@
-var mnemonic = "tray lizard enroll priority shell assist season suspect start sad tattoo card";
+var mnemonic = "spread knife bundle maximum flame lobster pull usual aerobic language strong siren";

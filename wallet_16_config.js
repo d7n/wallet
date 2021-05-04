@@ -1,1 +1,1 @@
-var mnemonic = "spice naive awful patient hat similar tissue match drop strong danger differ";
+var mnemonic = "report quick replace snack circle lift way wedding penalty speak coil audit";

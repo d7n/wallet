@@ -1,1 +1,1 @@
-var mnemonic = "leaf still virtual timber vapor miracle merry joke only endorse engage pave";
+var mnemonic = "mandate worry blood lounge october next peanut win vote method soup antenna";

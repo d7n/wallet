@@ -1,1 +1,1 @@
-var mnemonic = "guide minute gown marine adult blue session carbon assault witness quote cement";
+var mnemonic = "number dumb season chase amused risk tag lottery child keen rent fiber";

@@ -1,1 +1,1 @@
-var mnemonic = "drop sound nation young eager appear narrow element mercy actual blood gospel";
+var mnemonic = "dance canoe neglect odor kitchen best decorate blur river swim erosion oil";

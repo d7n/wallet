@@ -1,1 +1,1 @@
-var mnemonic = "display tuna behind surge upon click achieve enjoy random kind palm aisle";
+var mnemonic = "merge blur deal wife attract mixed adjust tent hire that vivid program";

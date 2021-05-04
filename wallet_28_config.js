@@ -1,1 +1,1 @@
-var mnemonic = "leopard pull tuna transfer memory gather usual member soup slim tip invite";
+var mnemonic = "milk verify report region record mouse awful grunt file nice chimney meat";

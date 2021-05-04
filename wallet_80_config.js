@@ -1,1 +1,1 @@
-var mnemonic = "shaft broken rapid phone merry genre bundle tape whisper laundry element square";
+var mnemonic = "account news cement hen shaft comic enhance wisdom finish physical wood season";

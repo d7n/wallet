@@ -1,1 +1,1 @@
-var mnemonic = "kidney avoid alarm they bomb grape ritual digital bullet stuff practice angle";
+var mnemonic = "olympic spoil dragon cat crawl where tenant quick shiver subject forest myth";

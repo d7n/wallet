@@ -1,1 +1,1 @@
-var mnemonic = "soccer weird purse mountain pattern settle act drastic citizen slight main ketchup";
+var mnemonic = "frozen sponsor cream rocket resist gap obtain crazy junk tail zebra believe";

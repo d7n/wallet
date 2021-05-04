@@ -1,1 +1,1 @@
-var mnemonic = "window honey merry mean burden episode garlic case know spider early badge";
+var mnemonic = "few pioneer relief joy clinic echo vocal junk trade kidney float legal";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory attitude find monitor duty immune polar alien market lunch across plunge";
+var mnemonic = "arch mule soap claw reflect parent dilemma sustain steel suggest deliver chronic";

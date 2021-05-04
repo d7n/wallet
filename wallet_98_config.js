@@ -1,1 +1,1 @@
-var mnemonic = "cloth special blanket attract forward receive mixture ginger cook share avocado fuel";
+var mnemonic = "barrel enough enact craft scare receive soap ladder bomb keep legend matter";

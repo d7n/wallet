@@ -1,1 +1,1 @@
-var mnemonic = "subject maze then hub write battle shoot scare defy shell left suffer";
+var mnemonic = "tide copper yard text thunder erupt slush delay calm soda glow toddler";

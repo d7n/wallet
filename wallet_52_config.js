@@ -1,1 +1,1 @@
-var mnemonic = "club extend honey tip busy stock crumble right sing elephant surge ocean";
+var mnemonic = "shove actual crazy actress own pattern shoe author immense wisdom spread coffee";

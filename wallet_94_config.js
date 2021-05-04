@@ -1,1 +1,1 @@
-var mnemonic = "youth verb magic citizen arrow shove kick hundred flock portion wrap rookie";
+var mnemonic = "please pioneer record neck maze virus wood mesh tumble task maximum trade";

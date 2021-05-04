@@ -1,1 +1,1 @@
-var mnemonic = "unusual mixed outdoor spray fluid rare panther catalog gentle add panda buffalo";
+var mnemonic = "budget bachelor thumb gather hamster play doll worry wear educate rubber film";

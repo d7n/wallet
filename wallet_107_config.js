@@ -1,1 +1,1 @@
-var mnemonic = "fine depart kingdom arrange ribbon scare wife submit peace vast torch maid";
+var mnemonic = "great mosquito type dirt differ giggle decade kick apology leaf gallery latin";

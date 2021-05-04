@@ -1,1 +1,1 @@
-var mnemonic = "belt mimic stock people nose teach convince junior cry pig math what";
+var mnemonic = "chuckle hold basket intact rocket undo hawk hedgehog crystal obtain result casino";
