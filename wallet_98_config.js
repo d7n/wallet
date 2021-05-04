@@ -1,1 +1,1 @@
-var mnemonic = "blue case crane deal auto crack stool involve process minimum chest vessel";
+var mnemonic = "family tiny mule reunion clap warm cover video resemble flee badge traffic";

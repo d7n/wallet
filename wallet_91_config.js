@@ -1,1 +1,1 @@
-var mnemonic = "hidden gasp auto you stay main sheriff time famous blast midnight riot";
+var mnemonic = "hint become diesel major express proud gun trumpet act marine piano position";

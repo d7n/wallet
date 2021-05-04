@@ -1,1 +1,1 @@
-var mnemonic = "saddle broken student decorate awake mom burger people disorder occur behave clap";
+var mnemonic = "anchor dream social hard old world couple income lesson open always neither";

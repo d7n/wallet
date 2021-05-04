@@ -1,1 +1,1 @@
-var mnemonic = "differ betray attack dice boil viable nice tube knock crop extra rally";
+var mnemonic = "ecology wrist link praise urge wall evolve razor reform report inflict oppose";

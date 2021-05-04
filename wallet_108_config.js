@@ -1,1 +1,1 @@
-var mnemonic = "keep stamp during digital radar actress utility anxiety lake either hero until";
+var mnemonic = "mouse all inhale clock decrease zoo huge dog rich virtual lunar problem";

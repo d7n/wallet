@@ -1,1 +1,1 @@
-var mnemonic = "arrow elder impulse swarm order february portion hazard huge say silk regular";
+var mnemonic = "maze ranch confirm catch lucky consider slice normal build observe dolphin protect";

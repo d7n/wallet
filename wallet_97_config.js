@@ -1,1 +1,1 @@
-var mnemonic = "tank vivid unfair payment vital illegal fly transfer guilt relief achieve wasp";
+var mnemonic = "outside open wolf east smooth satisfy share path whisper february theory betray";

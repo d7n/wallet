@@ -1,1 +1,1 @@
-var mnemonic = "stay team hair town wrap walk pulp layer tag armed pudding hundred";
+var mnemonic = "inherit solar spend payment oven derive topic swap fruit door paddle buyer";

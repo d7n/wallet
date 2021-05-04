@@ -1,1 +1,1 @@
-var mnemonic = "achieve response portion grab behind first cross wear office romance smoke solid";
+var mnemonic = "major sort warfare infant camera quote arrow frozen scene chuckle wasp onion";

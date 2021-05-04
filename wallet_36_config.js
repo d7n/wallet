@@ -1,1 +1,1 @@
-var mnemonic = "leaf daughter inquiry genuine weird cost reveal already feel home clerk abstract";
+var mnemonic = "cruel among deposit typical broccoli left long used lawsuit next stage mom";

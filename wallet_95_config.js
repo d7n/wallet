@@ -1,1 +1,1 @@
-var mnemonic = "warfare cheap swear arch empty auction mimic news inhale rubber hello vivid";
+var mnemonic = "valley sunset defy special couple modify bus accident expose cover actual whip";

@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit right glow child wheat visa grow student either measure chalk miss";
+var mnemonic = "draft connect supreme setup outer dad invite scrub antique they name crack";

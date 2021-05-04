@@ -1,1 +1,1 @@
-var mnemonic = "life twenty tongue lady blush flag gentle decline alert regret dizzy edge";
+var mnemonic = "number earn cigar provide glare organ athlete lonely people much injury divert";

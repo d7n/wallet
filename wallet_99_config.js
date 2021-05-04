@@ -1,1 +1,1 @@
-var mnemonic = "hawk rate web owner fee property calm street dumb bind safe sentence";
+var mnemonic = "bronze wet husband forest gauge law visit denial smooth tissue brief green";

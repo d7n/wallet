@@ -1,1 +1,1 @@
-var mnemonic = "latin intact dance shadow artwork essay rocket rookie garment involve winner fringe";
+var mnemonic = "slogan access morning benefit this unit physical leave family loan piece blush";

@@ -1,1 +1,1 @@
-var mnemonic = "eager stable mimic rail choose hidden mind frog attack gun original door";
+var mnemonic = "network sniff muscle pledge deposit idle zone wisdom today adult school swim";

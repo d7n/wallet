@@ -1,1 +1,1 @@
-var mnemonic = "draft endorse together violin flight exotic orchard vital toilet deer melt grunt";
+var mnemonic = "border tattoo repair over sadness depart airport dance theme case endorse donate";

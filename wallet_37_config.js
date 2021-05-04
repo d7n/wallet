@@ -1,1 +1,1 @@
-var mnemonic = "zone wealth seminar garage window harbor funny praise option code inject carpet";
+var mnemonic = "federal wrist umbrella enter earth half element thing robot canoe juice meadow";

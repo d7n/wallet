@@ -1,1 +1,1 @@
-var mnemonic = "pottery alarm romance system buyer diary puzzle child uncle crop airport girl";
+var mnemonic = "beach giraffe bean issue vibrant track candy arrow initial belt bronze know";

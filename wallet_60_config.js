@@ -1,1 +1,1 @@
-var mnemonic = "region eternal pact dash online alarm carpet coast current prize way air";
+var mnemonic = "fog cricket deliver glow unlock album melt ketchup omit palm neglect grace";

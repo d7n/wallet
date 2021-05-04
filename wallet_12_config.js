@@ -1,1 +1,1 @@
-var mnemonic = "stem broccoli bounce author clown resemble define rebel grab alcohol enhance pig";
+var mnemonic = "seek man fall where yard aunt miss eight tape receive super vacant";

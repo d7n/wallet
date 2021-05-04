@@ -1,1 +1,1 @@
-var mnemonic = "bean wash smooth also canyon boy renew uphold parrot make captain danger";
+var mnemonic = "govern risk spray shallow topic glory couch online rapid exist faculty warm";

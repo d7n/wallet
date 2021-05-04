@@ -1,1 +1,1 @@
-var mnemonic = "female only have finish month head sad layer team traffic amused allow";
+var mnemonic = "observe leader ridge ivory trick copper furnace moral general erase expect turkey";

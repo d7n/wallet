@@ -1,1 +1,1 @@
-var mnemonic = "absorb person slush horn index aim plate caught problem where skate group";
+var mnemonic = "coconut famous ranch bag merge addict icon switch absent coconut party sudden";

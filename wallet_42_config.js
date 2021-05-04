@@ -1,1 +1,1 @@
-var mnemonic = "better tool govern hand axis such want sausage slim retire spare reduce";
+var mnemonic = "emotion garlic sort camp universe castle couch blossom dice oyster emerge three";

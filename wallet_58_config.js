@@ -1,1 +1,1 @@
-var mnemonic = "wing tuition flee enact olive under stem razor dumb stamp giggle skill";
+var mnemonic = "fox silly mix tobacco try million teach affair alcohol purity wedding sadness";

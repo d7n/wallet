@@ -1,1 +1,1 @@
-var mnemonic = "symptom item scissors include message sausage transfer goat lamp suggest appear spike";
+var mnemonic = "bonus crew dice pumpkin robust alley cheese feel float uphold tobacco trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "ring illness illegal toss reopen slogan tomato village cement canoe kit invite";
+var mnemonic = "refuse friend bronze pottery entry galaxy spare laundry chest empty anchor ladder";

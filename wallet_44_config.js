@@ -1,1 +1,1 @@
-var mnemonic = "crisp tail glory jaguar priority target hand before forget swap use theory";
+var mnemonic = "tongue nerve toe dry arctic humor cabbage cup suspect retreat rotate juice";

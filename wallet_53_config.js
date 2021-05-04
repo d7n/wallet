@@ -1,1 +1,1 @@
-var mnemonic = "muscle carry vacuum nasty option oppose trophy annual whisper amateur engine category";
+var mnemonic = "bag relief cluster recall soldier canvas winner item monitor best retreat faith";

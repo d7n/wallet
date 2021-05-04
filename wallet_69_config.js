@@ -1,1 +1,1 @@
-var mnemonic = "clinic elegant entire eye side small doll recipe pony december add airport";
+var mnemonic = "begin unveil crunch tackle fatal boat rescue health snack curve goose fragile";

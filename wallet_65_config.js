@@ -1,1 +1,1 @@
-var mnemonic = "enemy cluster brief very focus alarm either wheel fog beauty arrange coin";
+var mnemonic = "double ankle float hope base artwork roof foster want ketchup cousin absent";

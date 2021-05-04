@@ -1,1 +1,1 @@
-var mnemonic = "paper balcony aspect panda color embark blanket bench lab obvious exclude hire";
+var mnemonic = "leopard found swamp champion spawn garment donor view account exercise dog giraffe";

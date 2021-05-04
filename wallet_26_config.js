@@ -1,1 +1,1 @@
-var mnemonic = "fresh tunnel knock boss diamond vague tongue obtain effort foam body try";
+var mnemonic = "atom asthma present rather salmon slot opera spider lava boat critic cliff";

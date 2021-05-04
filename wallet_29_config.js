@@ -1,1 +1,1 @@
-var mnemonic = "train trim account hawk price employ stumble raven relief verb brief ankle";
+var mnemonic = "uncle unable animal hat surge green fall fruit sphere link like achieve";

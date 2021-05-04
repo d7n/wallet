@@ -1,1 +1,1 @@
-var mnemonic = "clock transfer agent basic asset marine unfold bulk bubble squeeze moon silent";
+var mnemonic = "earth deer fix glad galaxy young exchange where box say runway sheriff";

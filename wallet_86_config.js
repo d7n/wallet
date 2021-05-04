@@ -1,1 +1,1 @@
-var mnemonic = "wire system three monster anger disease midnight range horse fabric enhance melt";
+var mnemonic = "favorite involve upper chalk icon hamster novel life empower tourist actor absurd";

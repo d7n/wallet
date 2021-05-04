@@ -1,1 +1,1 @@
-var mnemonic = "zoo photo saddle admit circle faculty lobster endorse crouch struggle bamboo spin";
+var mnemonic = "flip tongue never question kid hazard picture add cage cancel demand stone";

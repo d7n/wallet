@@ -1,1 +1,1 @@
-var mnemonic = "food race praise knee faith awful column renew economy honey crop radio";
+var mnemonic = "spin tube before lesson escape injury rocket find inflict pencil soul link";

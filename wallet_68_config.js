@@ -1,1 +1,1 @@
-var mnemonic = "giant attract dignity prepare velvet gain liberty arch spirit youth genuine certain";
+var mnemonic = "climb humor dial morning fix nerve spread unaware situate mask unusual industry";

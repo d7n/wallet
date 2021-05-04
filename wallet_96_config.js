@@ -1,1 +1,1 @@
-var mnemonic = "seat problem mutual split rural surface direct destroy rain client parrot horse";
+var mnemonic = "wink dentist there system situate large glide region neutral pluck wife repair";

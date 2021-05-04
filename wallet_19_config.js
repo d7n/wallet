@@ -1,1 +1,1 @@
-var mnemonic = "report ramp fee family already guard sleep ankle derive mesh arctic toss";
+var mnemonic = "bar flat sport sheriff badge rough fade display bitter town edit ivory";

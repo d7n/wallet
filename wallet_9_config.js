@@ -1,1 +1,1 @@
-var mnemonic = "alone choose chief cigar glass loan blanket estate polar couple barely few";
+var mnemonic = "trial female slide taste theme ecology alter obey fossil rescue invest orphan";

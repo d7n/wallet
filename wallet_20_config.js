@@ -1,1 +1,1 @@
-var mnemonic = "action more nephew leg nominee display ginger popular feed stand live frog";
+var mnemonic = "invest park toe confirm steak glass shine drill protect rug leader hundred";

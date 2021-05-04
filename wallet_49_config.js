@@ -1,1 +1,1 @@
-var mnemonic = "method hold price reflect recipe dinosaur improve banana decrease right stomach wing";
+var mnemonic = "jump sniff chaos engine spike feel wear man piece ship sadness memory";

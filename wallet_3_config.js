@@ -1,1 +1,1 @@
-var mnemonic = "clap diamond ramp casino caught rescue cliff flower issue mimic curious eternal";
+var mnemonic = "trend rhythm slender demise critic shift benefit plastic skill coyote chronic pet";

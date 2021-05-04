@@ -1,1 +1,1 @@
-var mnemonic = "chunk increase sibling tortoise slim shift advance rather loan kingdom twin ten";
+var mnemonic = "open scan pluck fox stuff delay daughter happy flip south weird thought";

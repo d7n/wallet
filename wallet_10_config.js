@@ -1,1 +1,1 @@
-var mnemonic = "board palm supply identify wrong purpose extra company skill myself clip clean";
+var mnemonic = "fog force inner giant possible someone knee small focus unlock life inject";

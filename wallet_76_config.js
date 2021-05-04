@@ -1,1 +1,1 @@
-var mnemonic = "want fatal click first quick artist globe autumn explain amused gate punch";
+var mnemonic = "sugar blush below reduce mixed bacon surge jeans morning infant mistake mystery";

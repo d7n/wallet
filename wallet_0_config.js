@@ -1,1 +1,1 @@
-var mnemonic = "address betray sausage cradle grain bachelor garlic mouse flight cricket ranch system";
+var mnemonic = "kind razor across nation perfect total obscure wolf agent warm bounce riot";

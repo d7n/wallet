@@ -1,1 +1,1 @@
-var mnemonic = "erase avocado quit spread critic floor assault below vanish body soldier similar";
+var mnemonic = "bulk exclude credit caution faith motion click point toss donor strike reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "whale gallery raise decline moon knife crop crisp tonight witness actress kangaroo";
+var mnemonic = "lens render achieve pizza cushion chair carbon mother saddle always reflect double";

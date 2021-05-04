@@ -1,1 +1,1 @@
-var mnemonic = "water rural prize dutch naive anxiety demise clutch relief employ receive bounce";
+var mnemonic = "attack alone almost mass title purchase alter spawn regret short talk avocado";

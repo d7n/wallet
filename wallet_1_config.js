@@ -1,1 +1,1 @@
-var mnemonic = "girl attract novel extend you miss civil dance grant awesome radar goddess";
+var mnemonic = "guitar army impulse flight spare crane mixed capable recall cube torch hawk";

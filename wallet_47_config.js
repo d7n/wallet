@@ -1,1 +1,1 @@
-var mnemonic = "possible pelican arena truth vendor access soft task tent truck erase satisfy";
+var mnemonic = "strong kiss stage impulse another mystery tag gas sustain assume crunch version";

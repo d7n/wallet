@@ -1,1 +1,1 @@
-var mnemonic = "illness paper ready apple tonight tomato hill crush dog regret whale decide";
+var mnemonic = "unhappy desk same lecture still depend kingdom image air verb wine double";

@@ -1,1 +1,1 @@
-var mnemonic = "phone comic shoulder risk nothing donor oppose panel solve misery night blind";
+var mnemonic = "palace hobby home isolate glow expire hospital series hip average eagle neck";

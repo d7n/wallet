@@ -1,1 +1,1 @@
-var mnemonic = "pen keen worry direct trap topple february reason image will mom increase";
+var mnemonic = "husband grass country champion area apple submit coffee vague area border fee";

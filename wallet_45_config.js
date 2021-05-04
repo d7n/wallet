@@ -1,1 +1,1 @@
-var mnemonic = "brain patient hurt diet chuckle blossom hurdle slam obtain derive idle wool";
+var mnemonic = "express picnic property valley morning action bus shoe juice trade left upon";

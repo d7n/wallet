@@ -1,1 +1,1 @@
-var mnemonic = "grocery tourist give sense animal drive father rack trash click venture similar";
+var mnemonic = "flavor derive sniff frequent abstract surge junk movie board pizza retire kingdom";

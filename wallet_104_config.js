@@ -1,1 +1,1 @@
-var mnemonic = "design between mobile catalog ecology mind junior demise fix dwarf baby amateur";
+var mnemonic = "bleak rapid pudding dismiss catch shop mosquito brown umbrella yard gain door";

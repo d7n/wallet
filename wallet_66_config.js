@@ -1,1 +1,1 @@
-var mnemonic = "rack tenant assault cycle isolate gate lava kid stuff reduce snack acid";
+var mnemonic = "issue twin reward sea same swing stem enforce target review town target";

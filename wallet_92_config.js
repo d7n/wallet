@@ -1,1 +1,1 @@
-var mnemonic = "feel wall slogan luggage rabbit fan tattoo museum service space hospital defy";
+var mnemonic = "very often hen couch exit sense mule sugar chalk glide leopard bounce";

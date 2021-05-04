@@ -1,1 +1,1 @@
-var mnemonic = "saddle grab jaguar smooth during mercy exhibit love all rifle blanket tail";
+var mnemonic = "like ginger gloom rotate file sea parent skin siege kitchen uncle dentist";

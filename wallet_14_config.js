@@ -1,1 +1,1 @@
-var mnemonic = "cool burst employ valve sport home tag point rocket assault riot rival";
+var mnemonic = "can donate diet spirit fat ostrich nephew elder flock extend walnut capital";

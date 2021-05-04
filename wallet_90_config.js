@@ -1,1 +1,1 @@
-var mnemonic = "frog mesh myself ecology left pole hub select noise orbit fault vast";
+var mnemonic = "arena prefer gas gas essay prison produce express excite six review warfare";

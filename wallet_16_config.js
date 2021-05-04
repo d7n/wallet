@@ -1,1 +1,1 @@
-var mnemonic = "brother ecology scene desert together sausage tool stereo zoo final cluster middle";
+var mnemonic = "desert flat vault meat describe balance old drop soap purse angle clever";

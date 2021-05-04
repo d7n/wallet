@@ -1,1 +1,1 @@
-var mnemonic = "body dentist same limb prosper win shoulder pulse fresh birth throw dismiss";
+var mnemonic = "gospel motion panic repair fruit fiber round mango fantasy movie slab bicycle";

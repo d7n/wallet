@@ -1,1 +1,1 @@
-var mnemonic = "bachelor vague noodle nephew home minimum deal radar force trip jar spare";
+var mnemonic = "daring load shrug resemble dance carry visual stove symbol kind dose scale";

@@ -1,1 +1,1 @@
-var mnemonic = "motor fame describe useless diesel weapon leopard ride build eagle cable solution";
+var mnemonic = "mystery surprise couch miracle install update door fish genre soul proof myself";

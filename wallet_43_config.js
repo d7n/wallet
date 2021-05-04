@@ -1,1 +1,1 @@
-var mnemonic = "best crouch liar soup sign rule lion violin west raise month pistol";
+var mnemonic = "list marriage second describe bind negative phrase tone castle excuse pipe elegant";

@@ -1,1 +1,1 @@
-var mnemonic = "trim identify torch hope crack wood luxury trumpet gallery near write whip";
+var mnemonic = "pair jealous flame fetch client text praise faint tired hair law today";

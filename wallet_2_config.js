@@ -1,1 +1,1 @@
-var mnemonic = "unaware faith clump anger derive empty order crisp hip moral bulb addict";
+var mnemonic = "thumb shine mimic spider scissors cave arm learn track invite polar quiz";

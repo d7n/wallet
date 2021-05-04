@@ -1,1 +1,1 @@
-var mnemonic = "pull wink vanish jacket black alpha foster extra surprise enroll weasel wild";
+var mnemonic = "lake delay round tornado wine open addict special gown misery sample smoke";

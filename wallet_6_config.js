@@ -1,1 +1,1 @@
-var mnemonic = "town hope nothing diesel share dwarf stamp impact act disorder jacket crunch";
+var mnemonic = "someone guard vital hollow fold patrol around citizen skin chicken sort popular";

@@ -1,1 +1,1 @@
-var mnemonic = "deliver toddler warrior drive gap evoke judge ready venue monkey margin mobile";
+var mnemonic = "pottery source adapt swim motion motor female peasant resource recipe rigid runway";

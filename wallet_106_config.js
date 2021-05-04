@@ -1,1 +1,1 @@
-var mnemonic = "hat sample review only rifle oven cabin voyage atom poem hundred ready";
+var mnemonic = "crash adjust truth outer tilt galaxy valid potato lesson peace owner arrive";

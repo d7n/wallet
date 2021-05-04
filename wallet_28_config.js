@@ -1,1 +1,1 @@
-var mnemonic = "mango flat cost verify betray flower cousin blame nut isolate stadium opinion";
+var mnemonic = "zero dirt industry blue grocery essay foam category advance agent beauty crack";

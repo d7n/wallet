@@ -1,1 +1,1 @@
-var mnemonic = "yard cement mouse tone bargain arctic globe today garden equal caught chuckle";
+var mnemonic = "large burst weird blush wagon cannon explain aware tobacco fox apple cage";

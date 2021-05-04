@@ -1,1 +1,1 @@
-var mnemonic = "myself save sauce giraffe ozone snap energy royal library obtain pen taste";
+var mnemonic = "wild mandate trial desert image layer income joy spirit transfer race merge";

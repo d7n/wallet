@@ -1,1 +1,1 @@
-var mnemonic = "suit used column exchange off clay check asthma helmet hawk error squirrel";
+var mnemonic = "dry ensure federal hard swarm select catalog nothing grab february solve domain";

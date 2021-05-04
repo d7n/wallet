@@ -1,1 +1,1 @@
-var mnemonic = "struggle warfare grit blind sweet gift mean chief accident defy more auction";
+var mnemonic = "traffic repair voyage circle donor door local race quiz jealous seek solution";

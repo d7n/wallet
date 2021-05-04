@@ -1,1 +1,1 @@
-var mnemonic = "buyer buffalo palace tuition rubber rice almost poverty utility jeans wash milk";
+var mnemonic = "hungry innocent wood club plate guard web owner mimic fluid wisdom settle";

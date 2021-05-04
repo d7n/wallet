@@ -1,1 +1,1 @@
-var mnemonic = "leave panther draft sunset then either immense fee seven patient broken salon";
+var mnemonic = "address unit life coffee whisper charge luggage vicious grow stomach dream modify";

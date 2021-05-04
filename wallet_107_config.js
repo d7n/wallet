@@ -1,1 +1,1 @@
-var mnemonic = "real fury between display mail hungry card upon immense chair frown isolate";
+var mnemonic = "ask seat uncover thank cycle fire choose busy stable earth journey magnet";

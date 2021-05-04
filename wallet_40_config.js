@@ -1,1 +1,1 @@
-var mnemonic = "short trade sound rail blue asset husband share stone music dumb poverty";
+var mnemonic = "license record prosper parade ivory dish camera transfer awful just chuckle police";

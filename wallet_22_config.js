@@ -1,1 +1,1 @@
-var mnemonic = "interest sight office rug genre bulb proud radio mimic magic tourist same";
+var mnemonic = "symbol thing produce visit edge liberty supply board ankle cup burden abstract";

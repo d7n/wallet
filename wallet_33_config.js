@@ -1,1 +1,1 @@
-var mnemonic = "orange autumn diamond lamp orphan drastic join zoo omit file cave double";
+var mnemonic = "cake patrol proof wealth twenty shrug hard meat vacuum equal angry physical";

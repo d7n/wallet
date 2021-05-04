@@ -1,1 +1,1 @@
-var mnemonic = "picnic fix scorpion dream mean thought call spend short recycle plastic able";
+var mnemonic = "awkward spawn van teach jaguar rhythm project tortoise purpose bag stereo arctic";

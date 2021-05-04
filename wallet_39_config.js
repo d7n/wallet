@@ -1,1 +1,1 @@
-var mnemonic = "occur winner convince happy interest dignity museum endorse enrich spider course saddle";
+var mnemonic = "behave gold twelve brain man oil skull attract resource sauce trophy define";

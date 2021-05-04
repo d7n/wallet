@@ -1,1 +1,1 @@
-var mnemonic = "aerobic coffee sting flee two output admit spread piece voice pencil case";
+var mnemonic = "neck blue yard enjoy elephant actress innocent soda pill vast split rather";

@@ -1,1 +1,1 @@
-var mnemonic = "desert kick any pride fringe bacon dial dragon tortoise stumble shrimp assist";
+var mnemonic = "replace law monitor assist bounce base link detail say quantum paddle argue";

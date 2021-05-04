@@ -1,1 +1,1 @@
-var mnemonic = "clown tuition hero faint public south siren shrug hunt fluid human sorry";
+var mnemonic = "demise monkey thank champion chuckle gravity trim erode dune debate firm divide";

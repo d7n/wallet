@@ -1,1 +1,1 @@
-var mnemonic = "interest bus shiver magic mention lonely staff believe girl carbon primary network";
+var mnemonic = "suffer wide rabbit junior enact amazing approve property wild metal excess manual";

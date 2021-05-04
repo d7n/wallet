@@ -1,1 +1,1 @@
-var mnemonic = "boss owner region muscle toddler million reject razor ginger property relief best";
+var mnemonic = "dismiss laptop mother gather throw picnic win tool nerve collect swim tree";
