@@ -1,1 +1,1 @@
-var mnemonic = "build lemon alley know ski cool leg first scissors topic nurse weird";
+var mnemonic = "this text glad nerve fog own quality few perfect wrap renew exchange";

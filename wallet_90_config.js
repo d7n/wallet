@@ -1,1 +1,1 @@
-var mnemonic = "address rebel peasant between sense way puzzle prevent end buddy rude ozone";
+var mnemonic = "common cloth athlete wrist twenty load lab normal enemy orient emotion acquire";

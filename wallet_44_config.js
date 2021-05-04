@@ -1,1 +1,1 @@
-var mnemonic = "bleak weekend fly unlock green again coin unknown artwork cliff drink sorry";
+var mnemonic = "card empower wing supreme spin elite feature sad pluck front kick kiwi";

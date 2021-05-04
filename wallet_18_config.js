@@ -1,1 +1,1 @@
-var mnemonic = "nothing custom mobile axis gasp load thought section attitude receive gentle mosquito";
+var mnemonic = "opinion story purpose depart during must record enforce crush tortoise soda decorate";

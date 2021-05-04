@@ -1,1 +1,1 @@
-var mnemonic = "fault pretty name deal solar script word juice suffer vehicle lecture faith";
+var mnemonic = "seed tongue melt stage three muffin sort rapid holiday hospital equal addict";

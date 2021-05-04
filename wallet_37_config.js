@@ -1,1 +1,1 @@
-var mnemonic = "oak kid exile federal invite odor spin path indoor diet retreat hotel";
+var mnemonic = "mechanic expose upon usage glance document jelly inch december total tackle food";

@@ -1,1 +1,1 @@
-var mnemonic = "farm couch lava victory hungry recipe caution truth pass settle slush fat";
+var mnemonic = "fade stuff beyond body pause relax dizzy fever grid pupil father judge";

@@ -1,1 +1,1 @@
-var mnemonic = "flush economy squeeze eagle rival imitate captain advice solar very drip fatal";
+var mnemonic = "banner detail unfair never holiday trust beauty silent hidden twin wife trick";

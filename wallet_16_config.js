@@ -1,1 +1,1 @@
-var mnemonic = "illness law casino tribe lift shift gather spell oyster ordinary network nest";
+var mnemonic = "gasp laugh fold vintage song grape tail path bomb anxiety end crew";

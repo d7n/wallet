@@ -1,1 +1,1 @@
-var mnemonic = "artefact ready eager asset forum over million stone file bike remind tree";
+var mnemonic = "impose general ignore bring chicken one toy spoil truly recall endorse measure";

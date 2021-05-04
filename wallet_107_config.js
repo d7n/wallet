@@ -1,1 +1,1 @@
-var mnemonic = "marble inner water lawn sphere thunder convince dismiss gain nature pave hurt";
+var mnemonic = "during rapid odor better credit demand aware rack glove party invest logic";

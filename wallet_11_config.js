@@ -1,1 +1,1 @@
-var mnemonic = "actual fruit thunder submit garlic fork coin enact fortune prison amazing draw";
+var mnemonic = "inmate stay bus route exchange under curious beauty stage sugar verify film";

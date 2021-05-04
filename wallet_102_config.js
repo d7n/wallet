@@ -1,1 +1,1 @@
-var mnemonic = "upgrade entire devote remind save legal history door achieve strategy drink shove";
+var mnemonic = "like casino ranch piano save hint news tissue fatigue teach exact explain";

@@ -1,1 +1,1 @@
-var mnemonic = "coin file vocal rule hip bullet hint combine grunt consider solar joke";
+var mnemonic = "emotion sustain spare use street video cup hint car tip pig chronic";

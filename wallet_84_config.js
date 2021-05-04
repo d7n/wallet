@@ -1,1 +1,1 @@
-var mnemonic = "math basket grid hamster sudden shed topple panel olympic bitter captain robot";
+var mnemonic = "infant jewel sphere enter finish adjust lumber scale april bottom main pact";

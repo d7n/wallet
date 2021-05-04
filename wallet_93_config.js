@@ -1,1 +1,1 @@
-var mnemonic = "there put rebel trim slow riot special tornado hen response twenty bus";
+var mnemonic = "silly sketch delay embark reunion exit horn bleak chair powder snow refuse";

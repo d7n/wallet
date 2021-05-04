@@ -1,1 +1,1 @@
-var mnemonic = "enhance cigar lend flee security bike equip oak pigeon resemble shell cousin";
+var mnemonic = "item evoke scout mirror reason squirrel era found involve hollow smile aspect";

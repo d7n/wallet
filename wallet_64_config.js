@@ -1,1 +1,1 @@
-var mnemonic = "woman industry asset broccoli opera erode orange canoe memory virus ask traffic";
+var mnemonic = "useful question swift shove make section find cycle clock allow dish woman";

@@ -1,1 +1,1 @@
-var mnemonic = "frown alter pizza install theme hope put cloth weasel bottom host antique";
+var mnemonic = "purity when door second orchard scout pen fruit museum eagle soon grab";

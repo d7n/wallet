@@ -1,1 +1,1 @@
-var mnemonic = "spirit west shine garbage asset hood expand siren cross horn enrich above";
+var mnemonic = "dish lunch cherry floor daring educate first ensure sign number wet extend";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal catalog time invite broom omit lab hotel put oval about plastic";
+var mnemonic = "photo theme rocket shaft ensure sibling hero tomorrow dwarf memory bullet floor";

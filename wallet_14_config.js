@@ -1,1 +1,1 @@
-var mnemonic = "hip reform harbor more gentle input topic trash february verb stomach rural";
+var mnemonic = "find insect question nerve sail jacket become affair space resemble evil maple";

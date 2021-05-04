@@ -1,1 +1,1 @@
-var mnemonic = "craft valve rifle paper legend wage panic fire rural flame card rich";
+var mnemonic = "exercise actress name often month crazy rich truth abstract unhappy you among";

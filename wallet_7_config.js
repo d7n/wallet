@@ -1,1 +1,1 @@
-var mnemonic = "impulse critic broken castle egg human cram jar sail grunt bright income";
+var mnemonic = "demand never hour cupboard borrow weather palace million tackle onion tobacco spike";

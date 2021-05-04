@@ -1,1 +1,1 @@
-var mnemonic = "virus luxury cup health oyster echo again gate fossil judge purpose oxygen";
+var mnemonic = "announce country walk scrub post rude drastic shaft memory upper ill humor";

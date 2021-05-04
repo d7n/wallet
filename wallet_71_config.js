@@ -1,1 +1,1 @@
-var mnemonic = "fancy meadow witness year click thumb night universe divert powder aim arm";
+var mnemonic = "grow priority awesome drastic amount square opinion judge brush gate sudden fine";

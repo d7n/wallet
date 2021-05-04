@@ -1,1 +1,1 @@
-var mnemonic = "seek weasel tackle genius object fortune march appear skull pear mimic daughter";
+var mnemonic = "hello later team cable basket unusual nephew diagram tail mobile ride bone";

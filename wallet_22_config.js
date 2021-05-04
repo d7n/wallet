@@ -1,1 +1,1 @@
-var mnemonic = "finger decrease demand fork humor machine someone amazing mammal settle case exhibit";
+var mnemonic = "dolphin foster town column eagle exist post bridge convince future border provide";

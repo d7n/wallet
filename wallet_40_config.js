@@ -1,1 +1,1 @@
-var mnemonic = "large toilet fiber case impulse company unveil hundred miracle view fence document";
+var mnemonic = "stand coyote gate zoo exile steel name lyrics small fantasy tail female";

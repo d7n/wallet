@@ -1,1 +1,1 @@
-var mnemonic = "catch faith burger nasty surround desert rapid win rescue almost similar release";
+var mnemonic = "critic person barely burger flock fall blur lamp merge woman ostrich call";

@@ -1,1 +1,1 @@
-var mnemonic = "holiday trouble enforce innocent viable virus shy witness perfect scrap gadget protect";
+var mnemonic = "solid song biology winter federal play forward polar lecture any gravity paddle";

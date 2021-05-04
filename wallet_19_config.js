@@ -1,1 +1,1 @@
-var mnemonic = "another wood dish ensure only infant betray sting prevent pumpkin primary cruise";
+var mnemonic = "job diesel furnace timber twenty mango similar parrot owner dirt various cat";

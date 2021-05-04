@@ -1,1 +1,1 @@
-var mnemonic = "cradle name mind table outside subway basic card uncover parade unhappy confirm";
+var mnemonic = "frozen category rail setup misery science enjoy voyage spray upper romance vault";

@@ -1,1 +1,1 @@
-var mnemonic = "rain interest liar fit noodle regret remove task above corn solution easy";
+var mnemonic = "minimum gallery phone lazy beauty nose section double truly champion cycle mesh";

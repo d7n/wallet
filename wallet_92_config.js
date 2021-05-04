@@ -1,1 +1,1 @@
-var mnemonic = "siren cream nation very pigeon love kidney awful cash fault pyramid adjust";
+var mnemonic = "dolphin spin punch anxiety receive flame tide long figure loop fringe arch";

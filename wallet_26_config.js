@@ -1,1 +1,1 @@
-var mnemonic = "key oval cousin upon confirm mirror viable bus saddle kick nose tank";
+var mnemonic = "nature hard tuition fat waste twin document mind seat aerobic derive immense";

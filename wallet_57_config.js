@@ -1,1 +1,1 @@
-var mnemonic = "magnet logic celery razor rail squeeze learn notable person public praise grocery";
+var mnemonic = "mail pepper hold company swarm fork tilt noodle pistol want rival any";

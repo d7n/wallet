@@ -1,1 +1,1 @@
-var mnemonic = "squirrel turtle release kidney shell funny badge misery brave fold garlic deliver";
+var mnemonic = "vibrant anxiety burden patch museum cage odor fan squeeze garage wait vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "side mystery arena small lunar quality dad web jealous primary age cabbage";
+var mnemonic = "feed bright glory copy advice wheat spell mango guitar over brief album";

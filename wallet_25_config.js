@@ -1,1 +1,1 @@
-var mnemonic = "belt erode pattern boy urban basic crazy army join earth wealth call";
+var mnemonic = "believe weather umbrella unhappy stamp duck welcome season snake clean lens stove";

@@ -1,1 +1,1 @@
-var mnemonic = "mirror pulp actress moment prison absurd response secret disorder dial frog vapor";
+var mnemonic = "parrot girl yard eager thank mobile blade cupboard laundry myself switch bid";

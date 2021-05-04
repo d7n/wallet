@@ -1,1 +1,1 @@
-var mnemonic = "picnic gather daring thumb puzzle aunt video biology decide shrug light awesome";
+var mnemonic = "perfect reform country buddy only stereo champion silver puzzle phrase dizzy live";

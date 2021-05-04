@@ -1,1 +1,1 @@
-var mnemonic = "habit define spatial item keen ginger sport silver other twenty dinner pink";
+var mnemonic = "liar mammal fragile fruit sting swift reward check craft gospel night luggage";

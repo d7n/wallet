@@ -1,1 +1,1 @@
-var mnemonic = "wonder arch virus mind notable shy repair poverty monkey involve tiger actual";
+var mnemonic = "kite rice palace dial empower oven rotate place float initial prefer stage";

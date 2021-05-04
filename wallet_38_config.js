@@ -1,1 +1,1 @@
-var mnemonic = "jar attitude mercy special olive system scrub replace hen universe unusual rigid";
+var mnemonic = "luxury erupt eager trial review task round gauge cool puzzle you setup";

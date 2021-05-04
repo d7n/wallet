@@ -1,1 +1,1 @@
-var mnemonic = "cute wild clump owner nasty cruise amount sea crystal liar write improve";
+var mnemonic = "topple picnic left square cheese diagram zebra spot worth smooth problem satisfy";

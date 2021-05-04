@@ -1,1 +1,1 @@
-var mnemonic = "party relax chase pact panther shoe need pole park local glare dog";
+var mnemonic = "around anxiety whip drill maximum vital great work visit science question add";

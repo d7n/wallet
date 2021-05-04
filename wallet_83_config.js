@@ -1,1 +1,1 @@
-var mnemonic = "diesel bind imitate slice autumn tennis guess express eye aisle paddle river";
+var mnemonic = "toy old agree dial seat target must food write tiger only olympic";

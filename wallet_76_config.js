@@ -1,1 +1,1 @@
-var mnemonic = "dawn good runway pony arm funny magic matrix parade boy world gadget";
+var mnemonic = "polar close invest pig luxury defense roof stomach fluid cinnamon lemon palace";

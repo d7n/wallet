@@ -1,1 +1,1 @@
-var mnemonic = "sleep focus oil moment wish impact dragon robust metal earth kingdom basic";
+var mnemonic = "pave usage document wasp observe lesson hidden judge retire antenna cereal half";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol theme rescue require deal use door battle parrot custom budget auto";
+var mnemonic = "century artist bench edit behind coral retire blast armed patrol flavor mail";

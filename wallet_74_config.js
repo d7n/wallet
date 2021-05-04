@@ -1,1 +1,1 @@
-var mnemonic = "run cube cry mammal best mimic deputy axis orbit shove visual lumber";
+var mnemonic = "item employ cute laundry use cliff olympic position rib grocery teach force";

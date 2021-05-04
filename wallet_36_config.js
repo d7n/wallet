@@ -1,1 +1,1 @@
-var mnemonic = "elite transfer occur rescue display blossom crunch floor side health symbol bench";
+var mnemonic = "soup between diagram wolf silver width start chronic blur lady nurse cruise";

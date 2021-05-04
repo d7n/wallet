@@ -1,1 +1,1 @@
-var mnemonic = "pottery dolphin second flip zone undo street glimpse cable prepare report stove";
+var mnemonic = "coral seminar honey scale off age junk gadget broom vessel physical near";

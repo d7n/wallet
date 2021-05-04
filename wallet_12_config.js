@@ -1,1 +1,1 @@
-var mnemonic = "juice bone oblige rough track venture awful fringe shine open chair easy";
+var mnemonic = "raise matrix eternal rural artist client auto circle clerk cry section adjust";

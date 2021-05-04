@@ -1,1 +1,1 @@
-var mnemonic = "faculty asthma wire ankle area fork above lounge tape grass useless staff";
+var mnemonic = "cinnamon auction loop add shock maximum odor glue hybrid humble elevator layer";

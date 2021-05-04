@@ -1,1 +1,1 @@
-var mnemonic = "depart company exhaust group matter evolve enjoy burst table trade beyond shock";
+var mnemonic = "public trap ride next quality old high sound below enter upgrade nuclear";

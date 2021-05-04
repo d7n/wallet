@@ -1,1 +1,1 @@
-var mnemonic = "resemble aware bus juice behave fragile expose recycle laptop machine galaxy garden";
+var mnemonic = "bench transfer match term rebel green infant under guess inquiry flush large";

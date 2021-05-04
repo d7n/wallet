@@ -1,1 +1,1 @@
-var mnemonic = "hungry exhaust lady client winter half bulk cook hammer valve foil pizza";
+var mnemonic = "candy pencil evoke boil neglect nest friend cancel rule lift creek health";

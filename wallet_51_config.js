@@ -1,1 +1,1 @@
-var mnemonic = "allow frown betray sting bread proud comic pig tape spell empty rigid";
+var mnemonic = "young vote grunt where ride food apple air heavy assist faint produce";

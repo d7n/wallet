@@ -1,1 +1,1 @@
-var mnemonic = "main world okay mirror wink trash cat depend sea bacon erase orchard";
+var mnemonic = "hero fade brain better power dish silver defy eager video eternal item";

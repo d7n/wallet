@@ -1,1 +1,1 @@
-var mnemonic = "wife father pretty gate setup unlock endless cupboard clerk boring blade warrior";
+var mnemonic = "suggest van piano cream entry torch exist general they black amateur scene";

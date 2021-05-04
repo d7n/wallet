@@ -1,1 +1,1 @@
-var mnemonic = "regular sadness weapon vicious suggest ozone welcome nice suggest super keep depth";
+var mnemonic = "poem remember kiss story proud naive entire awkward answer produce melody immense";

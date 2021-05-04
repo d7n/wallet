@@ -1,1 +1,1 @@
-var mnemonic = "fluid argue lecture planet allow baby erode bottom pond dust humor early";
+var mnemonic = "barely ensure patrol crack road ceiling hollow hunt yard author length trash";

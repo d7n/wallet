@@ -1,1 +1,1 @@
-var mnemonic = "ethics risk intact sentence cereal shift blast voyage erupt myth junior web";
+var mnemonic = "enforce stock omit vague double term twelve lift iron time reason because";

@@ -1,1 +1,1 @@
-var mnemonic = "sight upon inner life delay hurdle piano measure fantasy room cotton path";
+var mnemonic = "design draw fatigue attract indoor survey pottery track cinnamon scene hawk lawn";

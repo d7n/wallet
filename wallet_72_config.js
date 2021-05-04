@@ -1,1 +1,1 @@
-var mnemonic = "until crystal leg select proud only game piano enough connect twice tone";
+var mnemonic = "wood tank ladder mule only page brass topple nature song balcony purity";

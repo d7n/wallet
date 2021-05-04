@@ -1,1 +1,1 @@
-var mnemonic = "limit system divide dolphin behave rely clutch wasp ask define decade artwork";
+var mnemonic = "among tired parrot blossom glass elevator eye squirrel pulse runway cargo issue";

@@ -1,1 +1,1 @@
-var mnemonic = "scare genuine mind grunt captain rate clean high idea record mercy usual";
+var mnemonic = "unusual enable curtain festival teach grass purchase blind hamster speed symptom include";

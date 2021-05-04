@@ -1,1 +1,1 @@
-var mnemonic = "velvet circle run damp romance aspect flash message output base stairs grow";
+var mnemonic = "expire silly put magnet valid brick candy artwork visual replace hill disorder";

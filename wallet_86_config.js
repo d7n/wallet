@@ -1,1 +1,1 @@
-var mnemonic = "train more modify column keep sell blossom voice sound recipe usage myself";
+var mnemonic = "festival sea live kit broom live joy loop noise swim youth subway";

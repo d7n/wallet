@@ -1,1 +1,1 @@
-var mnemonic = "cruise dove whip planet extra hurt elder grant wonder way length ensure";
+var mnemonic = "fringe tiger equip soap require virus magic festival voyage struggle sense code";

@@ -1,1 +1,1 @@
-var mnemonic = "panic guide brave sheriff miss valley essence rebuild patrol index coin border";
+var mnemonic = "parrot choose advice cake enroll nuclear trial raccoon expand fresh innocent meadow";

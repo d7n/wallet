@@ -1,1 +1,1 @@
-var mnemonic = "snap ritual deer chaos dress cradle try pact stock jazz jazz fortune";
+var mnemonic = "oppose loop april kiwi night obtain level razor shift income solid coyote";

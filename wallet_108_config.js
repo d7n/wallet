@@ -1,1 +1,1 @@
-var mnemonic = "trust razor balance display intact parrot nothing child blast cloud plastic fabric";
+var mnemonic = "south minor ritual tone van curtain drink mountain opinion blouse noble tomorrow";

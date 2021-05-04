@@ -1,1 +1,1 @@
-var mnemonic = "thrive noise jaguar mammal soldier consider conduct grow armor charge era inside";
+var mnemonic = "gloom clap desert view system hammer huge cement search bind employ rib";

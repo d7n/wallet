@@ -1,1 +1,1 @@
-var mnemonic = "satisfy match bicycle priority response engage advice double receive similar mimic during";
+var mnemonic = "real elevator renew ill genre pistol talent mixture parade strike process avocado";

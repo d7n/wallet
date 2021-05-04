@@ -1,1 +1,1 @@
-var mnemonic = "lock race sick common earth lazy stuff clog wheel ozone vintage rail";
+var mnemonic = "simple abandon property ladder discover medal dish bullet jeans noodle angry swim";

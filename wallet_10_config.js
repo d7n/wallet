@@ -1,1 +1,1 @@
-var mnemonic = "punch bargain early clutch split hip gravity recycle stomach pitch pave similar";
+var mnemonic = "social taxi square miracle secret obtain section access stock atom exercise eye";

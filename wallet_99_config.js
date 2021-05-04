@@ -1,1 +1,1 @@
-var mnemonic = "amount canvas crop remain provide wrong jealous juice romance object floor brain";
+var mnemonic = "long anxiety butter pull auto rate age comfort nest sell flock cherry";

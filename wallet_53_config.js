@@ -1,1 +1,1 @@
-var mnemonic = "lounge nothing stock endless art wife globe slush similar trap kind logic";
+var mnemonic = "raven labor body music news trade oblige neglect approve like put leave";

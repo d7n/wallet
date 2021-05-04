@@ -1,1 +1,1 @@
-var mnemonic = "sudden pilot genre tragic race rotate uniform two urban exit luxury rigid";
+var mnemonic = "razor forest source monkey extend bleak lab inherit crew labor left clay";

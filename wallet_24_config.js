@@ -1,1 +1,1 @@
-var mnemonic = "ozone fee hidden genuine point cattle media sense orbit wheel lawn parrot";
+var mnemonic = "bid engage sight ramp option arctic hair degree liberty syrup chalk govern";

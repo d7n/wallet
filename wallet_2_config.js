@@ -1,1 +1,1 @@
-var mnemonic = "bread then duck injury grunt clap follow company wrap home glare anger";
+var mnemonic = "across song zone absent surface income veteran lady mandate good exotic evidence";

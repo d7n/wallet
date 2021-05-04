@@ -1,1 +1,1 @@
-var mnemonic = "galaxy burden lend hip helmet caution half horn detect camp coffee strong";
+var mnemonic = "mad gym combine original okay assist laptop sibling agree duty card obtain";

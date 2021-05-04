@@ -1,1 +1,1 @@
-var mnemonic = "napkin salt style fiber strike spot agree slot age addict tourist walnut";
+var mnemonic = "battle hybrid favorite wrist fence clay visual law enemy spoon bike visit";

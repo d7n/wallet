@@ -1,1 +1,1 @@
-var mnemonic = "reject prefer talk spirit utility stock cycle noodle glove coach run attack";
+var mnemonic = "excite stem era era stairs neck donate item library feel festival flight";

@@ -1,1 +1,1 @@
-var mnemonic = "image lunar girl option alpha useful agent extend man security raw where";
+var mnemonic = "decide slight clump rifle mention praise pilot okay own snake shock convince";

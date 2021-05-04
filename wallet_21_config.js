@@ -1,1 +1,1 @@
-var mnemonic = "vacant explain aunt elbow move lemon tenant alert canoe weekend perfect soul";
+var mnemonic = "then aim empty peasant combine menu maple orbit tray tail gauge news";

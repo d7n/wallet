@@ -1,1 +1,1 @@
-var mnemonic = "enemy essence update inquiry tone jazz tornado pipe strong ozone virtual jealous";
+var mnemonic = "pill bike seed define chronic ugly among legal icon sweet mad movie";

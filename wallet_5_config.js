@@ -1,1 +1,1 @@
-var mnemonic = "explain viable either agree october embrace off crouch bonus obey birth please";
+var mnemonic = "empower style fresh flame nasty donate melody number brother movie valley tennis";
