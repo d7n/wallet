@@ -1,1 +1,1 @@
-var mnemonic = "hub inherit purity deal cancel sand legend lottery typical version head link";
+var mnemonic = "sketch maple keep rubber arrest fix high verb farm juice prefer route";

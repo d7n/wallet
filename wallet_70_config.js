@@ -1,1 +1,1 @@
-var mnemonic = "debate exhaust track weekend remove teach place raw sense super parrot parade";
+var mnemonic = "guide away online increase lunch burden apart crisp rain shove because stick";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter tent reward uphold reflect emerge exit jeans arrow worry ready please";
+var mnemonic = "fitness author drill crystal absent rather draft alley razor predict autumn scare";

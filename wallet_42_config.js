@@ -1,1 +1,1 @@
-var mnemonic = "narrow regular sun annual dress fiber second palm trophy diary rice lamp";
+var mnemonic = "moment donate furnace riot much cattle pottery unit floor faith orphan plate";

@@ -1,1 +1,1 @@
-var mnemonic = "clap ribbon borrow bind farm face round tennis normal argue result spy";
+var mnemonic = "produce federal empty category kick orbit spatial winter mouse rug balance cloud";

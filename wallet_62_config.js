@@ -1,1 +1,1 @@
-var mnemonic = "vivid waste rude negative detail ordinary ginger expect fortune pulse tissue sure";
+var mnemonic = "ethics health artwork wrong kingdom split grain kind race unlock crumble fog";

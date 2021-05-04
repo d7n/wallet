@@ -1,1 +1,1 @@
-var mnemonic = "venue decade aisle silent correct vacuum employ edge retreat often viable spice";
+var mnemonic = "boring afraid light pull grocery team chase captain blanket scale brief sweet";

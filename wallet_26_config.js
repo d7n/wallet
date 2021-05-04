@@ -1,1 +1,1 @@
-var mnemonic = "wink control struggle limb verify clinic require room solid excess rhythm chuckle";
+var mnemonic = "diesel salmon lizard fantasy tattoo dress chase fog soccer endless enact intact";

@@ -1,1 +1,1 @@
-var mnemonic = "witness gift never utility country fragile day elite trim loyal hotel kitchen";
+var mnemonic = "deposit camp rigid public ensure episode void horror congress thank pilot audit";

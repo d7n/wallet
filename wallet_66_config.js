@@ -1,1 +1,1 @@
-var mnemonic = "pledge entry judge economy father icon right method drastic reflect public zero";
+var mnemonic = "garden select merry aunt ghost load industry toe embody girl start junior";

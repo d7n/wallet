@@ -1,1 +1,1 @@
-var mnemonic = "rubber just address route pudding hawk resist side sing bid pipe frame";
+var mnemonic = "metal brown cheap corn sort exact exchange tissue rice surround capable sand";

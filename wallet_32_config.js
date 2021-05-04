@@ -1,1 +1,1 @@
-var mnemonic = "tenant favorite peace injury lounge retire typical unfold crash kingdom keen imitate";
+var mnemonic = "supreme example fault account chicken reject jaguar teach spin enforce coral stomach";

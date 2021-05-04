@@ -1,1 +1,1 @@
-var mnemonic = "knife crawl item snow bread speak joke scrub grit scheme ranch random";
+var mnemonic = "recipe gorilla piece will leader traffic olive electric dice witness captain fresh";

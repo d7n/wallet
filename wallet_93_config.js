@@ -1,1 +1,1 @@
-var mnemonic = "such wine frown vanish throw element afford stem slow arrive alter inch";
+var mnemonic = "want layer shy future cup diet flee nominee sick assist course degree";

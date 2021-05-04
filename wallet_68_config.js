@@ -1,1 +1,1 @@
-var mnemonic = "candy evil consider major draft dismiss script property mirror another impose cabbage";
+var mnemonic = "hollow profit describe open banner liar credit whisper prosper spy result amount";

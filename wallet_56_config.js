@@ -1,1 +1,1 @@
-var mnemonic = "float toast climb safe long trash food someone brief breeze suffer report";
+var mnemonic = "pyramid feed october window access trial vintage fantasy lawn runway comfort topic";

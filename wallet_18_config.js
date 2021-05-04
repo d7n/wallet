@@ -1,1 +1,1 @@
-var mnemonic = "piano slab moral ball arena success mixed ceiling sample lunch person evidence";
+var mnemonic = "lucky giggle final mix interest worth smile recipe sail maximum escape silver";

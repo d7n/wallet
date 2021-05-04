@@ -1,1 +1,1 @@
-var mnemonic = "bonus appear fiction scale ill metal dwarf bag assist pen swift warrior";
+var mnemonic = "year wolf muffin cruel dirt swap time paddle below mushroom insect pluck";

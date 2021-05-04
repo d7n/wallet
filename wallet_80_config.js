@@ -1,1 +1,1 @@
-var mnemonic = "huge team spoon suit rural obvious rich island dragon gate swift spray";
+var mnemonic = "grid elder asset potato stable insane voyage genuine scrub among brisk model";

@@ -1,1 +1,1 @@
-var mnemonic = "song skill vote human radio moral guilt type general rich globe final";
+var mnemonic = "design arch sea injury rapid smooth typical soccer coffee clarify define crouch";

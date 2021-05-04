@@ -1,1 +1,1 @@
-var mnemonic = "cage example dial approve tourist upgrade eye floor weird solution alpha now";
+var mnemonic = "bicycle pink welcome attract neither patient story citizen month mother able tooth";

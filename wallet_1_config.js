@@ -1,1 +1,1 @@
-var mnemonic = "beauty kangaroo master dragon screen brisk attitude garlic ready unfold traffic bullet";
+var mnemonic = "ignore ignore patrol issue crystal jaguar father gain virus direct rough debris";

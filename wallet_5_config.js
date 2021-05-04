@@ -1,1 +1,1 @@
-var mnemonic = "maximum view sunny aerobic unable vacuum motor congress poem fortune outside into";
+var mnemonic = "bronze uncover athlete fade follow cheap book either dress birth super unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "clip orphan flip tackle illness success trim mother cash wool clinic assume";
+var mnemonic = "secret hard food guitar lake misery stadium rack caught crowd whisper merry";

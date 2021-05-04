@@ -1,1 +1,1 @@
-var mnemonic = "sphere keen inspire adult yellow satoshi diesel ladder possible clean grow trap";
+var mnemonic = "category museum midnight divide rice staff motor blade venue attitude valley motor";

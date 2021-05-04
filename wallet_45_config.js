@@ -1,1 +1,1 @@
-var mnemonic = "front cover height receive allow crawl federal trade swim tornado buzz hard";
+var mnemonic = "skull gather cute oblige host modify position reflect biology knee regular vehicle";

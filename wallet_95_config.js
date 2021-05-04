@@ -1,1 +1,1 @@
-var mnemonic = "cute shoulder lottery scare purse that gloom pulse naive budget mad talent";
+var mnemonic = "entire pair impose since trophy switch spring already loan side banner hurry";

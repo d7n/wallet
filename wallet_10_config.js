@@ -1,1 +1,1 @@
-var mnemonic = "liquid hat until sausage first harvest unaware expire indicate unveil leisure parent";
+var mnemonic = "battle leaf loyal depart acoustic balcony busy appear extra true leaf pyramid";

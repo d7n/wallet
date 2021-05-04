@@ -1,1 +1,1 @@
-var mnemonic = "apple bridge amateur desert train wheel muscle mushroom history order differ area";
+var mnemonic = "moral donkey room float wish farm arrive elder buyer area affair immense";

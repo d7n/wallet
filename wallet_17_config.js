@@ -1,1 +1,1 @@
-var mnemonic = "they submit female hand faith dream find during sorry april off gentle";
+var mnemonic = "toss judge december normal network leave gloom barrel dust lemon laugh garden";

@@ -1,1 +1,1 @@
-var mnemonic = "betray arm jelly drop brain baby leaf lobster lunar general chief tooth";
+var mnemonic = "fossil harbor small isolate vast bronze plate library awful fog submit girl";

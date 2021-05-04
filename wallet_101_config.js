@@ -1,1 +1,1 @@
-var mnemonic = "sorry road fun mass person sense void cluster join focus kiss shrug";
+var mnemonic = "group round shift frozen dial clay great attend select govern happy puppy";

@@ -1,1 +1,1 @@
-var mnemonic = "tool glow pledge child galaxy moon tomorrow output clever make buyer scorpion";
+var mnemonic = "crew tilt rib swim merit patch apology sauce during toast unfold little";

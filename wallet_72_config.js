@@ -1,1 +1,1 @@
-var mnemonic = "want town stable fragile inflict reflect lake hood bright have festival boat";
+var mnemonic = "route boat account cushion field churn invest jewel grunt news senior together";

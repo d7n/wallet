@@ -1,1 +1,1 @@
-var mnemonic = "between matter hair student safe garlic diagram fiber donor nation hair soccer";
+var mnemonic = "shaft climb unlock real ski sugar letter gasp unable mushroom under middle";

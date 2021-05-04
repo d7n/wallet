@@ -1,1 +1,1 @@
-var mnemonic = "number goat bus copy shallow stove album admit skill nerve expand impact";
+var mnemonic = "tape mobile case spike people clown view message real reveal wonder lesson";

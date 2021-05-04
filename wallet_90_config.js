@@ -1,1 +1,1 @@
-var mnemonic = "similar job half matrix cave poet twin warrior morning sight rather month";
+var mnemonic = "obscure gorilla insane short rare cycle shaft panther trigger blanket humor can";

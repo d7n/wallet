@@ -1,1 +1,1 @@
-var mnemonic = "tower town chaos route wreck mad hover sponsor kidney dinosaur fall slogan";
+var mnemonic = "transfer shield climb amazing patient egg reject ring toward artist flee suit";

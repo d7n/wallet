@@ -1,1 +1,1 @@
-var mnemonic = "dynamic fragile mixture mass gasp pyramid pizza volcano morning click blur action";
+var mnemonic = "more exit today illegal mind lawn tourist silent garlic peace grass rare";

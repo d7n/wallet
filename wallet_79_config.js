@@ -1,1 +1,1 @@
-var mnemonic = "again better business kitchen wear illness royal frost today morning page trend";
+var mnemonic = "fancy fruit era firm chaos bubble interest mesh dice foot box chaos";

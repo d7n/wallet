@@ -1,1 +1,1 @@
-var mnemonic = "rabbit bonus property connect please sock crouch sea chest category garlic blast";
+var mnemonic = "ring absurd dignity loop praise glad slush office infant town meat know";

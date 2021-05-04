@@ -1,1 +1,1 @@
-var mnemonic = "glide still hero account elite banner step flash advance census prefer nuclear";
+var mnemonic = "hope merry next icon menu buffalo absurd soda maple domain genius rice";

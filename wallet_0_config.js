@@ -1,1 +1,1 @@
-var mnemonic = "foot grab carbon potato novel nuclear undo vacuum minute village else crack";
+var mnemonic = "citizen blossom fitness cheap matrix trick reduce wine night enhance vacant jar";

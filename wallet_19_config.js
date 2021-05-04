@@ -1,1 +1,1 @@
-var mnemonic = "fade festival dismiss tent faculty riot then sun motor canvas eyebrow ketchup";
+var mnemonic = "dinner dune way shock gallery fragile number great shrimp swarm want come";

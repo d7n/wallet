@@ -1,1 +1,1 @@
-var mnemonic = "bring include wave wink solar enough occur slight segment finger hand series";
+var mnemonic = "lucky rough skill pupil shed sponsor mercy easily diagram stairs logic swim";

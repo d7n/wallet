@@ -1,1 +1,1 @@
-var mnemonic = "raw dinosaur exchange shoe slush stomach outside output faculty alarm minute laugh";
+var mnemonic = "horror egg dynamic again layer coil service crush glue pizza thought poet";

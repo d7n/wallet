@@ -1,1 +1,1 @@
-var mnemonic = "calm village cotton style nice tenant blossom around real bridge penalty address";
+var mnemonic = "permit degree message orphan arrow ticket dolphin paddle tobacco sugar grit knee";

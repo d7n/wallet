@@ -1,1 +1,1 @@
-var mnemonic = "bicycle fabric now belt pool olympic walnut soul minimum always artwork smart";
+var mnemonic = "shaft process you situate enforce grunt agent gallery canvas hand audit green";

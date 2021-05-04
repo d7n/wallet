@@ -1,1 +1,1 @@
-var mnemonic = "jump correct success wool year album sadness grow thrive country cupboard student";
+var mnemonic = "tornado craft mention enemy foam secret yellow fog punch effort attend steel";

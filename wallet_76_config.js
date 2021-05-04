@@ -1,1 +1,1 @@
-var mnemonic = "among phrase sad frequent walk grape sword drill monitor pause screen august";
+var mnemonic = "outside demand beyond comic husband wall include boss debate reform alcohol vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "toy observe shift ship title mean fiction tool torch aim sunny pair";
+var mnemonic = "dwarf resist enrich stamp skate used warrior problem prevent material review wasp";

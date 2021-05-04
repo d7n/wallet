@@ -1,1 +1,1 @@
-var mnemonic = "helmet stereo strike pet slush stomach champion spatial ensure pudding destroy grunt";
+var mnemonic = "marine volcano match fossil near quote apple load cause carry tunnel course";

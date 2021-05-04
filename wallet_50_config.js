@@ -1,1 +1,1 @@
-var mnemonic = "sort rule vote proud glimpse pipe brother tuition canvas yellow normal animal";
+var mnemonic = "achieve rebuild inherit sponsor leave game spoil age curve squirrel depth crystal";

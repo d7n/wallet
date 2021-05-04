@@ -1,1 +1,1 @@
-var mnemonic = "stamp fossil prefer useful machine little sibling dance choice rent antique position";
+var mnemonic = "know drama typical card marine height matrix only metal few label immune";

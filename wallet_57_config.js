@@ -1,1 +1,1 @@
-var mnemonic = "destroy topic kind option person tag denial split notable pink gospel trigger";
+var mnemonic = "blood fortune during problem tuition army hurry magnet bring foot ignore gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "poem print grid immense course pulse husband narrow evoke tattoo feature run";
+var mnemonic = "short abuse portion push damage speed tag frequent banana pole logic junior";

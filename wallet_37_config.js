@@ -1,1 +1,1 @@
-var mnemonic = "minimum derive bench unfold pond stuff phone bridge call retreat cry oven";
+var mnemonic = "stove unveil canal chunk face business table wreck lunar museum come elevator";

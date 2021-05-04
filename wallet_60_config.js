@@ -1,1 +1,1 @@
-var mnemonic = "robust cause liquid holiday punch omit general shield more enemy meat nothing";
+var mnemonic = "best borrow creek vocal asthma coconut song special immense valve walnut transfer";

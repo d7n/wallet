@@ -1,1 +1,1 @@
-var mnemonic = "silk find segment wide robot rare beach august whip supply meat layer";
+var mnemonic = "top surge lamp tobacco build letter weapon kiss child ship minimum indicate";

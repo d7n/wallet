@@ -1,1 +1,1 @@
-var mnemonic = "end coach pet fatigue insane ritual unknown opera reject chief banner hurt";
+var mnemonic = "youth desert clown goose foot vanish gesture fury spread destroy barrel frog";

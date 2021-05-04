@@ -1,1 +1,1 @@
-var mnemonic = "toast news marble seminar wife snack gorilla bind trial blue man danger";
+var mnemonic = "screen heart purse drink elder business media snow news pet badge live";

@@ -1,1 +1,1 @@
-var mnemonic = "venue action people middle final leaf honey lizard excite avocado giggle doctor";
+var mnemonic = "guide member sand enter crowd romance cereal method segment drift allow great";

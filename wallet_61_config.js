@@ -1,1 +1,1 @@
-var mnemonic = "soon door fiction okay measure wine churn energy sick core sound grit";
+var mnemonic = "cotton wage satisfy impact tool educate tongue angle bird egg exercise primary";

@@ -1,1 +1,1 @@
-var mnemonic = "artwork hello paper equip swamp honey layer dune baby rude busy fence";
+var mnemonic = "inmate second media spin truth fantasy crouch dose dove comic unhappy stove";

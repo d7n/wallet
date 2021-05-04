@@ -1,1 +1,1 @@
-var mnemonic = "flee typical two cube helmet exhibit call pipe recycle very crowd flee";
+var mnemonic = "hip catch aunt skill member era east gorilla gate rough foil effort";

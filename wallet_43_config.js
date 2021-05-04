@@ -1,1 +1,1 @@
-var mnemonic = "armed grunt strong dog session clutch grocery sphere make mother must vote";
+var mnemonic = "genre brick upper twenty winter wage pluck adapt invest essay museum fruit";

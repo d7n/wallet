@@ -1,1 +1,1 @@
-var mnemonic = "risk saddle pause stay window deal until happy drama notable frame brand";
+var mnemonic = "broom age output first equal unfold foster tiny frost minor memory cover";

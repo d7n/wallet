@@ -1,1 +1,1 @@
-var mnemonic = "smooth wasp document unknown recycle misery bar spin purchase sign grace eye";
+var mnemonic = "toward sausage entire great chronic camp install ladder day use slogan bus";

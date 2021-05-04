@@ -1,1 +1,1 @@
-var mnemonic = "little cash grow speak candy guilt west puzzle level orient ramp critic";
+var mnemonic = "extra young kiwi lyrics chat universe ice marble toward trim myself film";

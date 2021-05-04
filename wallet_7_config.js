@@ -1,1 +1,1 @@
-var mnemonic = "yellow gift shield kitten witness truly cousin almost wheat measure rich brave";
+var mnemonic = "angry behave lounge lesson whip sponsor they remain ill blast seat pizza";

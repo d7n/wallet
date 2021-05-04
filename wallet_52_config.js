@@ -1,1 +1,1 @@
-var mnemonic = "detail return mandate fan drift impulse december gossip siren deal flock property";
+var mnemonic = "unusual metal finger joke valid wrestle chimney one gadget van hair wrong";

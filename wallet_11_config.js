@@ -1,1 +1,1 @@
-var mnemonic = "derive cliff cash two reject celery fix cube salt cigar inner wall";
+var mnemonic = "body electric cream fence spell lottery cricket defy economy slim radio kiwi";

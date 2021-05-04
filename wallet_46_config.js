@@ -1,1 +1,1 @@
-var mnemonic = "boost basket soda test tomato monster pool sniff broom siege basket today";
+var mnemonic = "honey mystery then breeze canvas vehicle shoulder blossom same sound tell veteran";

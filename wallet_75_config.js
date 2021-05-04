@@ -1,1 +1,1 @@
-var mnemonic = "forget smoke company minimum portion fire grow since cage stairs harbor pair";
+var mnemonic = "vibrant open barrel autumn venture letter only recipe stand afford midnight taste";

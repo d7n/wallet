@@ -1,1 +1,1 @@
-var mnemonic = "enforce few december visa series boss card camp cigar increase cram ring";
+var mnemonic = "ocean uncle beyond snap place peasant slim open state bench zebra neck";

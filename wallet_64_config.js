@@ -1,1 +1,1 @@
-var mnemonic = "enhance valley fancy team melody bulk asthma just appear hundred wine start";
+var mnemonic = "arch state park escape gown doll peasant reduce chronic lizard fashion lawn";

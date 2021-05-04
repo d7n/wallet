@@ -1,1 +1,1 @@
-var mnemonic = "rude giant neck hood boss innocent noodle miss inch gorilla save effort";
+var mnemonic = "tunnel skirt skill stay carpet illness sell parent model eagle perfect segment";

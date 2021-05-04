@@ -1,1 +1,1 @@
-var mnemonic = "remind car grunt forum uncle include urban manage south adjust caution bargain";
+var mnemonic = "body wall flag antenna tobacco identify will flower employ receive opera process";

@@ -1,1 +1,1 @@
-var mnemonic = "mind onion bless tower sun evil wild ski olive cement solar hawk";
+var mnemonic = "robust stuff bind marble faculty hawk spin convince blue pet main faint";

@@ -1,1 +1,1 @@
-var mnemonic = "final method cloud portion armed slam stadium install orphan fresh piece witness";
+var mnemonic = "gaze common average exile join pond trophy solution accident couch two try";

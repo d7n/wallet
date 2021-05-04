@@ -1,1 +1,1 @@
-var mnemonic = "ketchup slot nerve unable lawn please veteran right approve agent soul glance";
+var mnemonic = "silent journey dignity iron surround inside lumber current stuff release roof remind";

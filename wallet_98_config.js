@@ -1,1 +1,1 @@
-var mnemonic = "switch raw label benefit test picture sibling basket skate resource trap abstract";
+var mnemonic = "cheap screen student balance dose online sample cabbage super inspire opinion tongue";

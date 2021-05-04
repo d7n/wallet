@@ -1,1 +1,1 @@
-var mnemonic = "frog old faith obvious snow muscle layer exile foster know change emotion";
+var mnemonic = "naive eager insect notice amount half train screen fancy tooth hunt normal";

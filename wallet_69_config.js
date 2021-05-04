@@ -1,1 +1,1 @@
-var mnemonic = "they city firm super setup suspect warm edit page merit wing magnet";
+var mnemonic = "unit reject genuine pledge pet cloud success immense six vague poem oblige";

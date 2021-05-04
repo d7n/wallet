@@ -1,1 +1,1 @@
-var mnemonic = "afford jelly evoke company staff never sport cry demise black health fat";
+var mnemonic = "stairs cable world pelican brief intact nest drop toast vendor gravity about";

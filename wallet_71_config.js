@@ -1,1 +1,1 @@
-var mnemonic = "struggle cigar fashion arena erase custom open office faith pupil rare gain";
+var mnemonic = "spy awake kick detect corn pistol buffalo stool core multiply bachelor subway";

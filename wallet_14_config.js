@@ -1,1 +1,1 @@
-var mnemonic = "person shield fruit glare snap six glance have tonight polar connect salmon";
+var mnemonic = "welcome exotic invite alone crunch rely crawl runway access banana cave trade";

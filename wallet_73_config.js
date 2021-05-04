@@ -1,1 +1,1 @@
-var mnemonic = "fold witness robust width tooth bronze common label float brass manual crawl";
+var mnemonic = "twice keep amazing gravity rack short absent degree beyond public quiz amount";

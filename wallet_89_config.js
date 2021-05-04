@@ -1,1 +1,1 @@
-var mnemonic = "violin settle praise idle barely until victory way ecology fade sentence position";
+var mnemonic = "crystal mass teach pluck test similar auction hen steak cereal firm any";

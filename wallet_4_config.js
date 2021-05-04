@@ -1,1 +1,1 @@
-var mnemonic = "possible opinion drop worth firm giant appear another grunt cage business soup";
+var mnemonic = "nose rival tortoise carry gravity basket end over royal amazing focus label";

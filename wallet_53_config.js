@@ -1,1 +1,1 @@
-var mnemonic = "obtain diesel install blood recipe sustain satisfy tomato blue clog flee gloom";
+var mnemonic = "chef vendor face distance vicious disagree track october panel media possible culture";
