@@ -1,1 +1,1 @@
-var mnemonic = "orphan board differ modify police mosquito vapor huge awesome float climb alter";
+var mnemonic = "noble genius bounce enroll window brain argue stairs rich bag valid exhaust";

@@ -1,1 +1,1 @@
-var mnemonic = "prevent toss jazz mountain release feed clinic bike episode into empty search";
+var mnemonic = "school capable brick despair position unfold settle art physical assume basic kitchen";

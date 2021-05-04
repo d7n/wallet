@@ -1,1 +1,1 @@
-var mnemonic = "flavor curve romance chat vault since arrive sea suggest tiny peanut liberty";
+var mnemonic = "birth salmon someone cry clog century under sea glad chapter endless motion";

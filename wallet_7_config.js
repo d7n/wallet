@@ -1,1 +1,1 @@
-var mnemonic = "device finish stumble fine mushroom tip crawl seek admit blossom solution issue";
+var mnemonic = "mass paper elevator balance cruise gasp champion alarm slogan rough august enforce";

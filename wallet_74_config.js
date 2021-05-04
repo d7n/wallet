@@ -1,1 +1,1 @@
-var mnemonic = "mushroom promote bless pact peace wait wage spin pink amused pulp pig";
+var mnemonic = "crowd about update powder chimney surface invite argue aerobic dutch rabbit enrich";

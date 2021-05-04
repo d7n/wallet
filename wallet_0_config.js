@@ -1,1 +1,1 @@
-var mnemonic = "check under crowd donkey chaos extend syrup hunt merit sort high brand";
+var mnemonic = "cube submit erupt scrap artefact wall labor month filter frost pear pill";

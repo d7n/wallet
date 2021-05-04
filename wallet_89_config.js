@@ -1,1 +1,1 @@
-var mnemonic = "oxygen best reunion tide cabin arctic taxi fruit six margin increase robust";
+var mnemonic = "vanish skull insane love student prepare neglect vault remain demise minute surge";

@@ -1,1 +1,1 @@
-var mnemonic = "casual swarm output true thumb caught popular convince vehicle garage charge donor";
+var mnemonic = "across real village match major trash undo fold steak leader various cost";

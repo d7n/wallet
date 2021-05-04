@@ -1,1 +1,1 @@
-var mnemonic = "essay sand coast ozone satoshi endless dumb awful immense coast solid duck";
+var mnemonic = "bleak wave tool enable stamp fox expand romance dry tiger vivid smooth";

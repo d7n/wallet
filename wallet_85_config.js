@@ -1,1 +1,1 @@
-var mnemonic = "stool cannon tunnel speed march pattern goose twist lend bullet shuffle ankle";
+var mnemonic = "kind small cricket venture history donate ability wing rose detail attack island";

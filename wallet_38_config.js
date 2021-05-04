@@ -1,1 +1,1 @@
-var mnemonic = "error spare churn lumber say prevent first pass spice van coral hotel";
+var mnemonic = "pear puzzle position know horn air mobile broken tower barrel problem virtual";

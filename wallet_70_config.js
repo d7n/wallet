@@ -1,1 +1,1 @@
-var mnemonic = "leaf cattle polar subway develop scrub anger glad thunder kangaroo car general";
+var mnemonic = "clip soccer trumpet service just box correct wood rural holiday symbol any";

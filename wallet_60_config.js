@@ -1,1 +1,1 @@
-var mnemonic = "another quantum inherit popular universe thing police predict insect sudden calm primary";
+var mnemonic = "avoid toe draw frame feed barrel gallery actual sponsor false sad fatigue";

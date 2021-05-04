@@ -1,1 +1,1 @@
-var mnemonic = "enroll vessel butter bar satoshi soap shove soldier luggage other sing home";
+var mnemonic = "couch hobby endless trip gadget patrol zoo exhaust cable amazing link air";

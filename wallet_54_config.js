@@ -1,1 +1,1 @@
-var mnemonic = "gas resemble cook physical salt chalk reason barrel hundred route harvest practice";
+var mnemonic = "roof agree weird immense cable mistake catch nice pepper control office dinner";

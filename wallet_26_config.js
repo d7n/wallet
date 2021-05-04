@@ -1,1 +1,1 @@
-var mnemonic = "utility smooth space subway rookie city lion until couple boost welcome joy";
+var mnemonic = "pigeon lawn mosquito improve equip simple virus sponsor wash body loan alcohol";

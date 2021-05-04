@@ -1,1 +1,1 @@
-var mnemonic = "question wheel impact crew book trophy concert maple blast inside mirror street";
+var mnemonic = "float option mask know grant sound fever top kite cabin erode supply";

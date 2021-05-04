@@ -1,1 +1,1 @@
-var mnemonic = "crystal click weapon satisfy priority marine fun found south stock decorate author";
+var mnemonic = "situate bean truly mother page amazing gas dutch cycle fat wink office";

@@ -1,1 +1,1 @@
-var mnemonic = "rough guitar response language around silly embrace void arm oval double energy";
+var mnemonic = "eagle little illegal spot height buddy few lumber nut again life very";

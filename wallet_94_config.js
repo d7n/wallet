@@ -1,1 +1,1 @@
-var mnemonic = "track health mandate live slush wish live cream sustain twelve twin dutch";
+var mnemonic = "reopen club direct display betray reveal raise guard bridge table basic conduct";

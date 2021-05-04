@@ -1,1 +1,1 @@
-var mnemonic = "melody good dinosaur lava cook debate wealth stereo theory door style antenna";
+var mnemonic = "alert rifle tonight mirror jelly shed deposit mad ball brave rate holiday";

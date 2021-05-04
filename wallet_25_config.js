@@ -1,1 +1,1 @@
-var mnemonic = "keep limb chaos rescue adjust sea young girl suggest test clip immense";
+var mnemonic = "size axis december welcome chunk great copy cash error fatal unhappy dice";

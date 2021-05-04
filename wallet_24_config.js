@@ -1,1 +1,1 @@
-var mnemonic = "where melody trumpet east card knee urban blind negative robot capable leopard";
+var mnemonic = "bird lizard park venue lunar regular desk exact wealth region will buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "recall floor market index strategy birth coral impulse swallow dance glow coil";
+var mnemonic = "wire bounce field remind coin guess noble mimic wedding girl proud arm";

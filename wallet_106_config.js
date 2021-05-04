@@ -1,1 +1,1 @@
-var mnemonic = "purchase fat health spike absurd become country inform network hybrid space blue";
+var mnemonic = "ancient weapon absent echo museum siege exile guitar spatial fiscal age pattern";

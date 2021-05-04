@@ -1,1 +1,1 @@
-var mnemonic = "insane tongue absent below circle choose pistol sell glide midnight digital this";
+var mnemonic = "decline knife hospital chef forget toast address donor twice mirror rebel subway";

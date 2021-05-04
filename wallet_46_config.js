@@ -1,1 +1,1 @@
-var mnemonic = "boy play gown polar express canyon dust steak blade midnight rookie orange";
+var mnemonic = "before maple uncle identify spice snow dial abstract pepper body divide sleep";

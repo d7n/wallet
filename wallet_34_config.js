@@ -1,1 +1,1 @@
-var mnemonic = "prosper alcohol file radio smoke bus bind shine resist buzz kingdom adapt";
+var mnemonic = "duck joke open dutch riot strong shell firm shadow require junk horror";

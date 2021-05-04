@@ -1,1 +1,1 @@
-var mnemonic = "street panel else icon arrange pen legal toddler inch clinic roast mail";
+var mnemonic = "carry ring perfect drum soldier patient margin course weekend buffalo all doll";

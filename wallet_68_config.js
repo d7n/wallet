@@ -1,1 +1,1 @@
-var mnemonic = "cake fence envelope exhaust seven pact solve sibling sure december betray window";
+var mnemonic = "sound eager devote earth cave final now cruel various help aunt taxi";

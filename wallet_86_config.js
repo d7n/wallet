@@ -1,1 +1,1 @@
-var mnemonic = "offer orient squeeze mixed electric lens tattoo dream rice noise wheel weird";
+var mnemonic = "language state immune share pool flag often middle snack empty table govern";

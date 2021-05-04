@@ -1,1 +1,1 @@
-var mnemonic = "lazy warrior talent trip hello stem all illegal biology gossip ability early";
+var mnemonic = "mystery happy act castle letter sponsor exile box hollow enable rhythm eager";

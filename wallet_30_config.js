@@ -1,1 +1,1 @@
-var mnemonic = "theme crack insect father hammer first butter obvious field attitude misery shaft";
+var mnemonic = "summer until egg sister goat permit improve glow fox loud someone enemy";

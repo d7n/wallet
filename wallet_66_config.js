@@ -1,1 +1,1 @@
-var mnemonic = "gold bright hero switch cactus spy love omit snap smile dune silly";
+var mnemonic = "indicate knee another wolf soap bulk weekend tissue rich crane grocery cheap";

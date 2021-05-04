@@ -1,1 +1,1 @@
-var mnemonic = "cannon weekend home polar thing thrive flower size extra pulse brother wolf";
+var mnemonic = "hospital say nominee argue clock enrich squeeze same visit myth head gate";

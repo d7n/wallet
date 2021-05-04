@@ -1,1 +1,1 @@
-var mnemonic = "enforce web guide client exclude drive rain suggest dinner phone flame rule";
+var mnemonic = "swarm hero happy misery gown fortune discover onion next horror budget grit";

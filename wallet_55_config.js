@@ -1,1 +1,1 @@
-var mnemonic = "scout balance wink shove swing hunt wheat marine quick sustain actress wire";
+var mnemonic = "twenty raccoon excuse merge body crowd glimpse renew any kidney riot faint";

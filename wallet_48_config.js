@@ -1,1 +1,1 @@
-var mnemonic = "divert erase spike slight position rebuild believe rigid network inject excuse pretty";
+var mnemonic = "obvious mystery abstract citizen display together solar vivid picnic tuna service exit";

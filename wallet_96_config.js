@@ -1,1 +1,1 @@
-var mnemonic = "bridge dolphin else obscure fish supreme lawsuit surface output hood giraffe joy";
+var mnemonic = "spider soon taste icon quiz dirt nose enforce glimpse age matrix ankle";

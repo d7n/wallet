@@ -1,1 +1,1 @@
-var mnemonic = "student chicken swear occur blush cream minor coconut inner fabric chronic runway";
+var mnemonic = "resist shock squirrel humor industry educate subject category soft install bar awkward";

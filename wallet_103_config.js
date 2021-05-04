@@ -1,1 +1,1 @@
-var mnemonic = "drama solution today beef deny analyst couch favorite science predict vacant census";
+var mnemonic = "violin cart group doctor alone level east control misery tray caution picnic";

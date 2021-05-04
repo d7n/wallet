@@ -1,1 +1,1 @@
-var mnemonic = "tackle afford moment stock celery fall exile response banner category amount coyote";
+var mnemonic = "oblige lawn alone economy matter wheel burger retire used mansion cup pilot";

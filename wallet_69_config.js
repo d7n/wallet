@@ -1,1 +1,1 @@
-var mnemonic = "staff inform expand model model more supreme bridge actor cloth chief alert";
+var mnemonic = "motor mountain web estate such demise next laundry extra admit outdoor trial";

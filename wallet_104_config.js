@@ -1,1 +1,1 @@
-var mnemonic = "glance plastic speed ability armed april glance giraffe exact tongue cluster wreck";
+var mnemonic = "crowd cry faculty feed sing anxiety churn elite segment amazing warfare lizard";

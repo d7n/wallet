@@ -1,1 +1,1 @@
-var mnemonic = "expand mountain fire cloud switch harsh vocal merge culture boost moment shrimp";
+var mnemonic = "lounge over acoustic gap lawn true wine theory over awake young milk";

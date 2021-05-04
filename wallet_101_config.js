@@ -1,1 +1,1 @@
-var mnemonic = "slam syrup caution property caution reform fresh mandate minute work other roast";
+var mnemonic = "drastic melody blade draft voyage draft level huge sketch wise immune census";

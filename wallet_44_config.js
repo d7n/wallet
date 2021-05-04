@@ -1,1 +1,1 @@
-var mnemonic = "boat muffin virus chuckle gentle ice south mystery flee away similar tiger";
+var mnemonic = "relief attract buyer swap cereal only vault produce turn shield amused seat";

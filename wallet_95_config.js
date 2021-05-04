@@ -1,1 +1,1 @@
-var mnemonic = "wait cart season match future goose ramp luxury object silly settle symbol";
+var mnemonic = "river advice high need pony initial must tonight ladder oyster ride strategy";

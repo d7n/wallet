@@ -1,1 +1,1 @@
-var mnemonic = "mango mutual letter permit brown disagree culture cloth toilet detail enough cart";
+var mnemonic = "envelope toe future crane throw loyal airport rely thrive crane outer open";

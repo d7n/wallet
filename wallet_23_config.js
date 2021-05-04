@@ -1,1 +1,1 @@
-var mnemonic = "evidence zero source until friend warrior other clean yard sure acoustic carry";
+var mnemonic = "urge poem glimpse draft wrong confirm plastic arctic spell appear property any";

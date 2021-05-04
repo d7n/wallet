@@ -1,1 +1,1 @@
-var mnemonic = "lobster quiz upon injury salad gravity frozen alter custom sphere lunch depend";
+var mnemonic = "almost trial defy connect economy market cave brave wonder upper pizza elbow";

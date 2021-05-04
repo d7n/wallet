@@ -1,1 +1,1 @@
-var mnemonic = "beyond expose august soon used giraffe orange humor runway leave club either";
+var mnemonic = "enough museum profit debris almost guard brick outer hurry flock clutch legend";

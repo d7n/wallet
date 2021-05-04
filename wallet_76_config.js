@@ -1,1 +1,1 @@
-var mnemonic = "wage flat park control print harbor season local awful forest actor cat";
+var mnemonic = "vivid useless level milk cannon file account advance soup panel regret certain";

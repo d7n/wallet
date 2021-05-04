@@ -1,1 +1,1 @@
-var mnemonic = "invite gossip morning crystal scheme improve scissors whale improve purchase suspect slot";
+var mnemonic = "valley grain case banana silly marine movie sudden romance faith liberty electric";

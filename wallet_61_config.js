@@ -1,1 +1,1 @@
-var mnemonic = "amazing tumble memory clever age penalty drip wrist heart sea betray current";
+var mnemonic = "dash tail dynamic remove horse proud vacant window sudden open bag crazy";

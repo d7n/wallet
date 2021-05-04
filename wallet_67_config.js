@@ -1,1 +1,1 @@
-var mnemonic = "hello inform retire list mystery pizza hammer bubble seven jacket open merry";
+var mnemonic = "tissue forum arctic behind useless broken mother into rib girl style junk";

@@ -1,1 +1,1 @@
-var mnemonic = "remind vague wisdom fortune neutral seek cargo tank rural drum donate purpose";
+var mnemonic = "kitten six enough focus merge small creek maple erosion coil ranch cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "word very reflect foam orphan prepare point crater demise repair west snap";
+var mnemonic = "energy female twin dog theme kick ranch funny claim despair fortune brown";

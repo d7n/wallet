@@ -1,1 +1,1 @@
-var mnemonic = "before clean desk call mammal road about slam wrong tag direct excuse";
+var mnemonic = "initial hungry athlete crazy husband birth right involve object meat girl old";

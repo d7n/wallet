@@ -1,1 +1,1 @@
-var mnemonic = "keep since crime process wage stage piano treat sniff tilt physical deputy";
+var mnemonic = "witness deliver swear frozen source oppose brother unknown illness intact certain repeat";

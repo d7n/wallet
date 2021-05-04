@@ -1,1 +1,1 @@
-var mnemonic = "daughter better similar bless misery patient trouble fever quit pill garden lazy";
+var mnemonic = "grant busy tackle gentle transfer cabin devote vessel input wash blossom protect";

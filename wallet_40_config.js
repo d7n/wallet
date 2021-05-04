@@ -1,1 +1,1 @@
-var mnemonic = "heart hour solid situate ahead pass retire kingdom scrub run notable punch";
+var mnemonic = "drip nasty panel hill clock planet subject lend female wrist snow category";

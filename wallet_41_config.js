@@ -1,1 +1,1 @@
-var mnemonic = "tunnel erase nominee paddle offer tourist track error chapter hip settle vanish";
+var mnemonic = "bench typical whale name book moment seminar pull item myself viable grab";

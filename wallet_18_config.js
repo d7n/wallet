@@ -1,1 +1,1 @@
-var mnemonic = "copy level pilot olive install happy elder pulse water fly narrow echo";
+var mnemonic = "across witness calm pluck slight poem sport fitness noodle visual update merry";

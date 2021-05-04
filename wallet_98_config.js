@@ -1,1 +1,1 @@
-var mnemonic = "equal motor cattle famous refuse observe walk switch master brown guide object";
+var mnemonic = "wealth digital food flag dog install industry endless chuckle sport smoke short";

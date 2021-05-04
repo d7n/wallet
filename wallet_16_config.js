@@ -1,1 +1,1 @@
-var mnemonic = "north unusual cannon oblige virus resemble velvet divorce hollow boost holiday message";
+var mnemonic = "follow purse huge fuel share unknown region train harvest hundred nest risk";

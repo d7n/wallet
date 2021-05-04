@@ -1,1 +1,1 @@
-var mnemonic = "approve scheme artwork ocean scheme vague off ensure present speed ivory over";
+var mnemonic = "lottery flock drop fetch quick another coach make this confirm maple seven";

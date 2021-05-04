@@ -1,1 +1,1 @@
-var mnemonic = "forest light pulse fashion slim valve bounce expect very pass ski select";
+var mnemonic = "swap extend annual sorry double leaf gym unique excuse another into city";

@@ -1,1 +1,1 @@
-var mnemonic = "rich wrong excuse best top discover foster dog cup capable furnace cushion";
+var mnemonic = "lift paper service appear struggle obey butter debris tide praise divert volume";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic ripple fee oblige bean digital faint call disorder later fetch omit";
+var mnemonic = "kind wheat physical smart join carpet foster cloth valve meat timber differ";

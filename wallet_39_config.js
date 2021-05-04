@@ -1,1 +1,1 @@
-var mnemonic = "adjust female spray foster diary tree another bus bridge live start expand";
+var mnemonic = "jacket apart canal bargain install glass evolve cricket garage century dinner juice";

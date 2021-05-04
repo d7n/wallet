@@ -1,1 +1,1 @@
-var mnemonic = "giant future foil health sponsor toward shift base short gun scan fun";
+var mnemonic = "angle pony hint swallow august occur prize juice sponsor never adult oyster";

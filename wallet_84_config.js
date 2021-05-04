@@ -1,1 +1,1 @@
-var mnemonic = "unveil major extend glue speak year wreck bargain render armor shaft gasp";
+var mnemonic = "tail thought record unknown chest seven mean coconut pair promote mystery tribe";

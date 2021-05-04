@@ -1,1 +1,1 @@
-var mnemonic = "real tissue torch post hundred trade soap pass tourist faith fantasy alpha";
+var mnemonic = "ginger option grace grocery other hire naive earth girl oblige ship ball";

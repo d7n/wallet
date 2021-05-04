@@ -1,1 +1,1 @@
-var mnemonic = "plug empty bamboo stamp kick teach twice actor height smooth rapid crater";
+var mnemonic = "foil patch learn around blush zero void more rabbit spin brown trophy";

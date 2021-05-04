@@ -1,1 +1,1 @@
-var mnemonic = "goose tilt suggest inch blur merry swing infant nuclear quantum smile fuel";
+var mnemonic = "dress valley consider three notice wonder design traffic deliver fiction grass shove";

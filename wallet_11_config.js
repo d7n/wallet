@@ -1,1 +1,1 @@
-var mnemonic = "ensure swamp slender grant boss breeze warrior milk square rude speak click";
+var mnemonic = "piece choice safe wash fiscal winner kick bicycle student buzz gold name";

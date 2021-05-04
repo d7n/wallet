@@ -1,1 +1,1 @@
-var mnemonic = "gloom village dynamic civil arctic tunnel question cable slab nut jungle innocent";
+var mnemonic = "load minute crouch donkey point repeat bid deputy balance cabin pull bullet";

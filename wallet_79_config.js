@@ -1,1 +1,1 @@
-var mnemonic = "jungle boil include tourist bargain sorry play trend prepare desert menu laptop";
+var mnemonic = "attend transfer elephant track silver scan drill correct trophy suggest number wink";

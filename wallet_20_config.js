@@ -1,1 +1,1 @@
-var mnemonic = "brain flag that brisk stick certain manual canoe settle gather turkey cereal";
+var mnemonic = "attend ticket give subject list bar inch silver thumb divorce jewel wash";

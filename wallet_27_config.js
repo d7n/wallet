@@ -1,1 +1,1 @@
-var mnemonic = "chuckle seven acoustic reward render collect lecture kiss buddy popular shift mercy";
+var mnemonic = "quantum dry banana relax humor first ride party develop depart portion powder";

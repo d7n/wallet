@@ -1,1 +1,1 @@
-var mnemonic = "steel define property useful way renew index legend dance oval fluid wealth";
+var mnemonic = "small truth globe dune into humble success jar obscure green feature airport";
