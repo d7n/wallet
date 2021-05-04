@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog celery awesome code cannon wave edge pass stairs nasty nose matter";
+var mnemonic = "debris lion pull donkey combine float trade trophy spoon soda east rude";

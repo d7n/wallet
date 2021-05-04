@@ -1,1 +1,1 @@
-var mnemonic = "baby silver betray cousin toward country fortune rare feel math minimum sword";
+var mnemonic = "math fresh unhappy quiz wish van width broccoli mechanic leopard alter have";

@@ -1,1 +1,1 @@
-var mnemonic = "tackle fatal total proud awake name fat arrow parade hotel magic horror";
+var mnemonic = "text bleak olympic short heavy mouse spoon loan cry decline essence luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "together swing glare juice slam sail twist snap into horn wise boat";
+var mnemonic = "fruit legend merge increase result chapter mammal point token lyrics stable brisk";

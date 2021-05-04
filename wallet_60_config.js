@@ -1,1 +1,1 @@
-var mnemonic = "home wonder model borrow where abstract fancy evolve danger primary similar load";
+var mnemonic = "rebuild burst solution enact crucial print elbow ostrich muffin marine prosper obtain";

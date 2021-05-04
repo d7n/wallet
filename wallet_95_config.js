@@ -1,1 +1,1 @@
-var mnemonic = "pledge still current diet snack patient under theory photo hold unusual plate";
+var mnemonic = "author scrub tonight wave together address dinner demise annual silent hobby release";

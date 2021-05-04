@@ -1,1 +1,1 @@
-var mnemonic = "error kite trophy cousin gun trap pupil poem broom dust oxygen animal";
+var mnemonic = "south spike visual area bargain trial lady define candy pole guide found";

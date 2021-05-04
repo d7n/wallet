@@ -1,1 +1,1 @@
-var mnemonic = "small diary tourist mad village vessel pencil dial hollow carbon describe supreme";
+var mnemonic = "permit horn broken tribe left evil mammal mango radio door leaf finish";

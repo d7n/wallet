@@ -1,1 +1,1 @@
-var mnemonic = "exclude before fuel drum offer steak sentence install auction virtual school pill";
+var mnemonic = "push favorite vendor news scrap when eager boat kit armed auction desert";

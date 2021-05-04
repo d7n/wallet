@@ -1,1 +1,1 @@
-var mnemonic = "vault figure tortoise damage grape album canoe wall draw hire dry airport";
+var mnemonic = "tone harbor joke heavy design already doll approve expect radio spare hawk";

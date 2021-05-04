@@ -1,1 +1,1 @@
-var mnemonic = "price amazing debate butter setup exact husband include slide radar awake knife";
+var mnemonic = "hub gasp print left desk drip obtain trumpet sleep elbow focus perfect";

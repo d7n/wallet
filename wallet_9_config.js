@@ -1,1 +1,1 @@
-var mnemonic = "cause easy cool bless blouse raven peanut early absurd brush despair total";
+var mnemonic = "memory cover caution blame setup veteran lawsuit amazing weapon pioneer master brush";

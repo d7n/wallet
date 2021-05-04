@@ -1,1 +1,1 @@
-var mnemonic = "drama asthma brand heavy field current suspect parent ribbon clever defense notable";
+var mnemonic = "cake report myth waste credit admit kite able cat draft pioneer actual";

@@ -1,1 +1,1 @@
-var mnemonic = "worth flee echo diet seed tent evidence trouble tomorrow brick dwarf bind";
+var mnemonic = "genius like hard luxury trash wedding soldier master tissue eyebrow purchase latin";

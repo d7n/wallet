@@ -1,1 +1,1 @@
-var mnemonic = "amazing bronze symbol verify clip erase away ensure topic because enhance fork";
+var mnemonic = "interest force royal snake goat nut carpet reflect town silly sea leave";

@@ -1,1 +1,1 @@
-var mnemonic = "fan bamboo right together hidden waste hybrid burden donate again blouse private";
+var mnemonic = "student few destroy chunk hungry outer promote asset verify timber tide become";

@@ -1,1 +1,1 @@
-var mnemonic = "jar divert smooth pull shaft link happy west harbor exact hen make";
+var mnemonic = "naive truth book merry monkey come girl unhappy govern mountain twist another";

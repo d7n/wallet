@@ -1,1 +1,1 @@
-var mnemonic = "second soda march company attack winter lamp regular morning celery crisp abuse";
+var mnemonic = "project depart float despair art space frog indicate try spread ozone giant";

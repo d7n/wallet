@@ -1,1 +1,1 @@
-var mnemonic = "found arrest damp reveal laundry diamond come gold nest silk south outdoor";
+var mnemonic = "garden guide surface believe rare aisle correct purpose issue worry sausage delay";

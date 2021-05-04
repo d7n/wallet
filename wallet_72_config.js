@@ -1,1 +1,1 @@
-var mnemonic = "stick bird credit flag park riot much hybrid oil nothing help embody";
+var mnemonic = "pattern bomb scorpion acoustic sauce view awesome glimpse pause stage coin trigger";

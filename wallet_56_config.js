@@ -1,1 +1,1 @@
-var mnemonic = "physical promote govern sport hill cabbage grunt dynamic average gun health nominee";
+var mnemonic = "nuclear ask anxiety peasant turn speak price giraffe bundle milk wealth crowd";

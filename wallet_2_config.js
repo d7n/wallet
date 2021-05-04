@@ -1,1 +1,1 @@
-var mnemonic = "twelve bomb roast sound buyer gather drama throw record hood enroll text";
+var mnemonic = "already cover parade story pilot concert opinion fix since message crater social";

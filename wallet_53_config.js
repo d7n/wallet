@@ -1,1 +1,1 @@
-var mnemonic = "gorilla become miracle bleak receive pipe impose follow vapor miracle prosper claw";
+var mnemonic = "false orient brave current sponsor program author universe deer pair violin promote";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond above exotic access fluid bone ridge enhance timber elegant then swallow";
+var mnemonic = "disorder order shaft deposit submit cram session brain ask behind chronic open";

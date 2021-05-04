@@ -1,1 +1,1 @@
-var mnemonic = "frequent atom amazing across whip genuine stomach whale blur truck dynamic omit";
+var mnemonic = "receive scout soldier protect minute retreat upgrade crack link dragon ethics train";

@@ -1,1 +1,1 @@
-var mnemonic = "resource aerobic iron okay stand city junk devote segment sign squeeze lava";
+var mnemonic = "captain ivory then eye chuckle track dry scare receive immense about slim";

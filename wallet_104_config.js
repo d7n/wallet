@@ -1,1 +1,1 @@
-var mnemonic = "lady tank harbor vicious stock flag canyon august century source indicate village";
+var mnemonic = "glare blanket play denial gossip invest alert lend decrease youth rug device";

@@ -1,1 +1,1 @@
-var mnemonic = "toy antenna inside exist below direct rural awkward blouse oval addict goose";
+var mnemonic = "bone image cupboard math soldier lazy cancel humor finish lift benefit gospel";

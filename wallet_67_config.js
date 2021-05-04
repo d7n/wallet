@@ -1,1 +1,1 @@
-var mnemonic = "field flat short stone dash ecology swap cushion pen utility bulb garbage";
+var mnemonic = "pulp void pond sweet tumble skate number rocket pair genius task table";

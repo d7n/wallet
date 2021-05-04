@@ -1,1 +1,1 @@
-var mnemonic = "foil box fold quote december top stuff discover drama coffee input shoulder";
+var mnemonic = "logic better blouse modify never wild scene wink nerve twist hat then";

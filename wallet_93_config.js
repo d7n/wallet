@@ -1,1 +1,1 @@
-var mnemonic = "word sentence stairs sustain worth more essay thrive front mosquito minute accident";
+var mnemonic = "nurse spoon sun purity offer clever train music right welcome change broom";

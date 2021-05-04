@@ -1,1 +1,1 @@
-var mnemonic = "clutch excuse limb length analyst syrup tilt spatial enjoy erode swear imitate";
+var mnemonic = "urge eyebrow leave economy fresh find angry frame donate unfold blame world";

@@ -1,1 +1,1 @@
-var mnemonic = "myself route claim spy point anchor rich title certain category detail trash";
+var mnemonic = "kid bamboo chunk trust kitchen pluck nature eye nephew solar idea peasant";

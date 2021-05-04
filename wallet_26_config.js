@@ -1,1 +1,1 @@
-var mnemonic = "airport teach stadium awkward celery silent quantum harvest camp sleep error badge";
+var mnemonic = "magnet ritual adapt hope scheme tilt arena flush consider pet melody fade";

@@ -1,1 +1,1 @@
-var mnemonic = "before length board relax burst ancient drum method refuse run metal poet";
+var mnemonic = "hammer vast lumber naive enter walnut try evolve provide tent weather push";

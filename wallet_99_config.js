@@ -1,1 +1,1 @@
-var mnemonic = "gown laugh donate east fat pizza street proud image enforce ketchup chaos";
+var mnemonic = "public essay control route among cruel orchard film bomb copy govern follow";

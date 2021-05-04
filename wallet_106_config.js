@@ -1,1 +1,1 @@
-var mnemonic = "type forget quantum liberty account october anxiety walk color boring minor olive";
+var mnemonic = "depart skill reopen punch motor advice rack dial eyebrow pilot topic priority";

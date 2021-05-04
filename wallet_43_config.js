@@ -1,1 +1,1 @@
-var mnemonic = "fiber ceiling hard knee wisdom keep wonder tray minor perfect ball vanish";
+var mnemonic = "away catalog wise tower know casual wrong chaos shuffle olympic enable hat";

@@ -1,1 +1,1 @@
-var mnemonic = "panel noodle female then pear snow ocean unfold safe erosion remind wife";
+var mnemonic = "dawn enjoy fantasy auto moment address knock secret congress soul abstract carpet";

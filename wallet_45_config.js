@@ -1,1 +1,1 @@
-var mnemonic = "marble round change canvas crane minimum shoot slender wagon tree buddy sock";
+var mnemonic = "stool stairs tenant crowd good throw pizza dust essay bag early earn";

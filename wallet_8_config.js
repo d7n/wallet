@@ -1,1 +1,1 @@
-var mnemonic = "stove whale one fence hour stadium auto identify clinic fatal include nurse";
+var mnemonic = "bring become logic little south swear shadow possible whale castle clinic person";

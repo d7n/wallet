@@ -1,1 +1,1 @@
-var mnemonic = "size crater orchard stereo news afford mention kiwi brick layer circle size";
+var mnemonic = "soccer detail lawn loyal useful rail network ten soldier story dry load";

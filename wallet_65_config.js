@@ -1,1 +1,1 @@
-var mnemonic = "quality this grocery essay sudden chair output bind beauty lucky grain aunt";
+var mnemonic = "torch eight settle mention damage explain coconut simple square area used company";

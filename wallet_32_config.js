@@ -1,1 +1,1 @@
-var mnemonic = "drift muffin gas satisfy knock book outside segment narrow true honey juice";
+var mnemonic = "gate crunch craft foster belt airport guitar make shy welcome ivory foam";

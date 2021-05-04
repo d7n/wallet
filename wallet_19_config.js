@@ -1,1 +1,1 @@
-var mnemonic = "salt muscle prize ivory hurry junior seat notice cook kick butter income";
+var mnemonic = "matter exact spice alpha avoid figure rely dream misery exchange real frown";

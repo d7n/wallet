@@ -1,1 +1,1 @@
-var mnemonic = "elite swim safe stone stable surface feed rocket cost alone almost wheel";
+var mnemonic = "excite flag ancient physical green place swarm moment boss afford public zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "property flat foam supreme fiber betray pepper tattoo cat useless pink alter";
+var mnemonic = "burger summer blood disagree seat try brown make emotion jeans all gown";

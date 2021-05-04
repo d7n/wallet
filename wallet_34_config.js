@@ -1,1 +1,1 @@
-var mnemonic = "pudding conduct amused nature transfer include virus shallow grow reason enhance laugh";
+var mnemonic = "romance victory ramp vibrant online frame humor someone cute target obvious universe";

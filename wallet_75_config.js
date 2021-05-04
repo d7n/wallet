@@ -1,1 +1,1 @@
-var mnemonic = "picnic stereo accuse blood raise panther fossil thank oyster arrest shoulder series";
+var mnemonic = "nation wheel amused income zoo scheme circle talent fine surface sock dash";

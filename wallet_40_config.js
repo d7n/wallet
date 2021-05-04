@@ -1,1 +1,1 @@
-var mnemonic = "nothing van lamp bitter below jump census crop salt please farm supply";
+var mnemonic = "craft city conduct power have click ignore trouble planet bundle unfair behind";

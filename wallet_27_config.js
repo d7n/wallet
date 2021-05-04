@@ -1,1 +1,1 @@
-var mnemonic = "multiply stuff grow clap lift blade grunt sad blind fork mixture protect";
+var mnemonic = "fetch artwork crane subject typical feel street defy rule hazard basket sail";

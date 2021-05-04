@@ -1,1 +1,1 @@
-var mnemonic = "close river interest trumpet shop coach like mass viable mobile indicate trend";
+var mnemonic = "lock nest want multiply hint derive machine cave depend believe vast order";

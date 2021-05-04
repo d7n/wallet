@@ -1,1 +1,1 @@
-var mnemonic = "cherry cloud picnic order keen confirm napkin pupil theory curtain size net";
+var mnemonic = "goat bachelor expand margin family price sock habit science family weasel material";

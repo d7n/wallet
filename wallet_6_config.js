@@ -1,1 +1,1 @@
-var mnemonic = "forum resemble kangaroo barrel brush wave rack charge love pause receive parrot";
+var mnemonic = "grape crouch reform orphan bargain subject pizza mechanic add announce spatial online";

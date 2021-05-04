@@ -1,1 +1,1 @@
-var mnemonic = "girl donor tower cross top same cool curve blur author symptom fatal";
+var mnemonic = "enhance cluster civil people good green claw caution blame panda behind runway";

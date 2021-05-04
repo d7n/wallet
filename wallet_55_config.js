@@ -1,1 +1,1 @@
-var mnemonic = "license vessel setup only island cheap jewel super cause beef state match";
+var mnemonic = "mail media spot bus pudding clever frown direct output pizza sample spike";

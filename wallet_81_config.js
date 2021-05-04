@@ -1,1 +1,1 @@
-var mnemonic = "empower fuel there frame lens fame public parade sorry female gaze agent";
+var mnemonic = "trick hole weapon wedding cabin double tone cement please clarify write dilemma";

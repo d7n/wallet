@@ -1,1 +1,1 @@
-var mnemonic = "devote lizard claim invite defense pact dynamic shrug tribe speak word organ";
+var mnemonic = "youth target together sudden snack tide beyond measure opera yellow resist brand";

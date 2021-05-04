@@ -1,1 +1,1 @@
-var mnemonic = "before unusual prepare private intact symptom fade seed puppy device lift silk";
+var mnemonic = "gain fetch logic figure antenna dentist topple reform coin mandate else obscure";

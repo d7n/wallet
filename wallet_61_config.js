@@ -1,1 +1,1 @@
-var mnemonic = "symptom beauty ice shift major produce brisk push crew car lion relief";
+var mnemonic = "gravity six success dentist analyst pond virtual any deal reflect crowd caught";

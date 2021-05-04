@@ -1,1 +1,1 @@
-var mnemonic = "path lab kitchen elite plate promote neglect ranch grant panic auto replace";
+var mnemonic = "various robot quiz warrior first order exact jelly weasel recall viable heart";

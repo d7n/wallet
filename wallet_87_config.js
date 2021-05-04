@@ -1,1 +1,1 @@
-var mnemonic = "cruise click screen stick term random laugh crawl case flame beach analyst";
+var mnemonic = "moral dog world cart dentist bronze injury owner useless left rule fame";

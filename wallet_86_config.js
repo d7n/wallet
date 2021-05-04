@@ -1,1 +1,1 @@
-var mnemonic = "paddle educate behind vehicle parrot kitchen food scout doll dog follow time";
+var mnemonic = "wall year found dog aunt kitten false happy chicken until attend keep";

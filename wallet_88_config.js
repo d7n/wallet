@@ -1,1 +1,1 @@
-var mnemonic = "boring prepare unfair lobster route famous radar decade wreck mention lucky super";
+var mnemonic = "derive stairs maple come soda head happy crunch spatial dignity chapter improve";

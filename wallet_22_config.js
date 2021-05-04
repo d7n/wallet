@@ -1,1 +1,1 @@
-var mnemonic = "riot special sample wedding ten odor crane mixture outdoor account minimum vital";
+var mnemonic = "wisdom urge lonely soda sauce solar chapter range clerk balcony faculty keep";

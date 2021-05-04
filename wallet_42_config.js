@@ -1,1 +1,1 @@
-var mnemonic = "fragile grass million forum know list lunar carbon choice humble end sad";
+var mnemonic = "acoustic toddler raise inflict voyage grief twin phrase shaft pear age rely";

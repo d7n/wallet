@@ -1,1 +1,1 @@
-var mnemonic = "nut myth latin crisp rotate car always lamp canal fun odor meat";
+var mnemonic = "ski tornado correct violin tomato style genre quit exit able favorite exist";

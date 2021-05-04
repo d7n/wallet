@@ -1,1 +1,1 @@
-var mnemonic = "punch body refuse essay satisfy amount cheese someone claw vapor essay drastic";
+var mnemonic = "office scan cherry club end speed alien fog eye mosquito identify lounge";

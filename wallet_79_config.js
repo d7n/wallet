@@ -1,1 +1,1 @@
-var mnemonic = "disorder pact combine soup flip promote news snack absurd amateur skull glance";
+var mnemonic = "tiny horse van cause goat decorate rent sample stamp spot enforce fabric";

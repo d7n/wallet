@@ -1,1 +1,1 @@
-var mnemonic = "limit neglect web digital defense prison quantum physical birth suffer error wheel";
+var mnemonic = "misery foam genre skate junk butter pair dizzy puppy obey stomach mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong toward ring morning middle genius blur crime lens trophy meat raise";
+var mnemonic = "wait cage slide session alcohol wife intact pipe sorry comfort absorb tent";

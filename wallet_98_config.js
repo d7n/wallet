@@ -1,1 +1,1 @@
-var mnemonic = "sing dinosaur senior order bread all foam liar caught father budget profit";
+var mnemonic = "net purchase ability tennis tomato fold yellow fringe slush onion daring neither";

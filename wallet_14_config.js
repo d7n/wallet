@@ -1,1 +1,1 @@
-var mnemonic = "disease frog soul employ merge absent divide quiz upgrade ask course uncle";
+var mnemonic = "slogan crowd tool monitor party consider fame blur volume rifle magic tape";

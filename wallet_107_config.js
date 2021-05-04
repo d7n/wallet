@@ -1,1 +1,1 @@
-var mnemonic = "actor category reason absorb monitor eager nose left season emotion hen six";
+var mnemonic = "pen bulk squirrel error brush convince shoot pair mention garden feed dove";

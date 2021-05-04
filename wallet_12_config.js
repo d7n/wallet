@@ -1,1 +1,1 @@
-var mnemonic = "flash birth circle spare flight clap tell clarify typical day chair setup";
+var mnemonic = "bottom grass minimum accident when habit safe zebra claw group aspect excess";

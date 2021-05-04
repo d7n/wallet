@@ -1,1 +1,1 @@
-var mnemonic = "man produce whisper huge gas live grocery creek prepare grain like ghost";
+var mnemonic = "member universe nephew penalty bargain alley usual infant alarm main afford minute";

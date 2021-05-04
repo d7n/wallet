@@ -1,1 +1,1 @@
-var mnemonic = "noise hello half tuna coffee cereal knife unique pluck creek online since";
+var mnemonic = "neither hybrid kidney struggle comfort mind fade dish over pigeon head lottery";

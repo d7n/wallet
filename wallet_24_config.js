@@ -1,1 +1,1 @@
-var mnemonic = "utility just rifle ship ahead awesome weather dismiss hero parrot civil august";
+var mnemonic = "space cart help jump tag document aspect hole riot sustain describe adapt";

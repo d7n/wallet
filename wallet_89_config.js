@@ -1,1 +1,1 @@
-var mnemonic = "dynamic matter bag blade february radio glide empower blouse keen type leg";
+var mnemonic = "model strong blouse away play trouble quiz play slogan spice floor drink";

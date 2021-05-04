@@ -1,1 +1,1 @@
-var mnemonic = "desk finish alone impulse ridge net charge warfare sentence figure twice old";
+var mnemonic = "alley need top awkward another era clog furnace farm victory blue immune";

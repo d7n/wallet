@@ -1,1 +1,1 @@
-var mnemonic = "online soda bounce jar female dizzy coin mouse hold budget tilt major";
+var mnemonic = "topic power share glue arm siege van angle post fossil river police";

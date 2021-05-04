@@ -1,1 +1,1 @@
-var mnemonic = "assume turkey black gas flavor grunt morning town choose tiny hand rose";
+var mnemonic = "awkward animal betray verify fruit version lonely kit keen sibling arrange cost";

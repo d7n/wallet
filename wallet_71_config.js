@@ -1,1 +1,1 @@
-var mnemonic = "aware cherry captain kangaroo vote push immune excuse crouch annual fragile option";
+var mnemonic = "entry behave cement donor inquiry first electric frog lyrics evidence spike shrimp";

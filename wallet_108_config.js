@@ -1,1 +1,1 @@
-var mnemonic = "ill duty frost claim capable inform gossip umbrella ribbon symbol way recall";
+var mnemonic = "betray cactus remove enemy reject copy dry tip luggage order toss wrestle";

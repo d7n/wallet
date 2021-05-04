@@ -1,1 +1,1 @@
-var mnemonic = "chronic romance device real trust decorate picture little tonight decrease ugly drink";
+var mnemonic = "banana multiply hamster crater source absorb cram country decrease pull myself aim";

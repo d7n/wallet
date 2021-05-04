@@ -1,1 +1,1 @@
-var mnemonic = "twice warfare net dad truck sibling sell garage kangaroo oxygen like tortoise";
+var mnemonic = "piece valid use dish veteran hurdle fitness limit bamboo wear vote assist";

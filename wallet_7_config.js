@@ -1,1 +1,1 @@
-var mnemonic = "cruel high bracket club nest lift gravity rain surge combine armor gaze";
+var mnemonic = "retreat box desk vivid mansion essay team stairs security model canvas toward";

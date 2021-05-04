@@ -1,1 +1,1 @@
-var mnemonic = "decade pencil stadium home weekend hybrid advance breeze joke company section bargain";
+var mnemonic = "reason unhappy enter salon know able orchard submit describe version west maple";

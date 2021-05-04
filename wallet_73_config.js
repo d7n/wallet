@@ -1,1 +1,1 @@
-var mnemonic = "mechanic volume wheel dawn sorry cattle copy saddle claw agree public father";
+var mnemonic = "fortune soul suspect mango breeze fan naive divert injury cream short sorry";

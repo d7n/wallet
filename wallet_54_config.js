@@ -1,1 +1,1 @@
-var mnemonic = "kidney into silent task kitchen budget load rude there acid exit now";
+var mnemonic = "saddle dwarf honey lunch pledge mesh wheel target pelican caught base planet";
