@@ -1,1 +1,1 @@
-var mnemonic = "exit candy label february audit leaf deputy sausage release bargain group zebra";
+var mnemonic = "attack narrow medal response amused income simple between vast portion size sadness";

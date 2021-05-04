@@ -1,1 +1,1 @@
-var mnemonic = "auction immense fee orchard gym garbage birth boost dignity october fitness slot";
+var mnemonic = "label kiwi plunge high divide spawn border soft stadium ranch charge taste";

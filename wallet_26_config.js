@@ -1,1 +1,1 @@
-var mnemonic = "cloth address frequent believe harvest cube giant tent rent abandon tortoise camp";
+var mnemonic = "hollow area spirit glass square entry cause plug wasp pulp plastic program";

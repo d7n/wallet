@@ -1,1 +1,1 @@
-var mnemonic = "retire begin amount castle interest green sudden shoe real satoshi permit utility";
+var mnemonic = "patrol trend grain prefer host jacket cry draw film olympic kiss ramp";

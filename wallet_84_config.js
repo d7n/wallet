@@ -1,1 +1,1 @@
-var mnemonic = "royal stool sunny dawn isolate friend animal benefit purse segment produce unfair";
+var mnemonic = "leader place depend reopen tissue index mixture hidden sail hunt odor bless";

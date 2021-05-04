@@ -1,1 +1,1 @@
-var mnemonic = "toddler beef program path nephew thank puzzle decorate fish sail narrow purity";
+var mnemonic = "moon radio double course neutral oyster tunnel luggage oil cream task best";

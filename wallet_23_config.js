@@ -1,1 +1,1 @@
-var mnemonic = "appear use act desert foam donor chest expect peace close notable immune";
+var mnemonic = "balance cart nephew process subway upon army arena very easy same erase";

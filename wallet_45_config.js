@@ -1,1 +1,1 @@
-var mnemonic = "invest perfect frog still stadium lawn patrol expose pave kiwi video problem";
+var mnemonic = "shoulder wrong found sunny soul demise desk entry february twice boil raccoon";

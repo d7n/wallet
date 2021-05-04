@@ -1,1 +1,1 @@
-var mnemonic = "equal crop fog alpha stereo nasty diamond swarm install seed split solve";
+var mnemonic = "below hammer pupil ready cat accuse inside olive autumn wait ocean kick";

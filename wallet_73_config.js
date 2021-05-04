@@ -1,1 +1,1 @@
-var mnemonic = "river when recycle doll tube again wrist fold license ball noise pair";
+var mnemonic = "minute cotton impose corn peace access coach change found burger accident address";

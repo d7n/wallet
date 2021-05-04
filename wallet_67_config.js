@@ -1,1 +1,1 @@
-var mnemonic = "shuffle group item decline hood exhaust great trap suspect monster recycle trip";
+var mnemonic = "anxiety gasp wolf genius refuse custom hope chapter fatigue during bless saddle";

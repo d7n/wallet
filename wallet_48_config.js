@@ -1,1 +1,1 @@
-var mnemonic = "sniff bounce genuine service carry supreme insect mystery young zebra orient script";
+var mnemonic = "motor caught perfect stumble dolphin world cereal tired despair fluid patrol cheese";

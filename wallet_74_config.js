@@ -1,1 +1,1 @@
-var mnemonic = "face oil jungle reject benefit silent pistol green bargain canal slim festival";
+var mnemonic = "bullet scrub marriage penalty verb cabin social pear umbrella luxury tell idle";

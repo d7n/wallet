@@ -1,1 +1,1 @@
-var mnemonic = "inherit cotton pulp entire salad accuse survey hint very enjoy course perfect";
+var mnemonic = "theory final panther permit man detail morning toilet couch daring yard slot";

@@ -1,1 +1,1 @@
-var mnemonic = "invite start bullet tide choice bargain day crop jacket swap tomato fatal";
+var mnemonic = "build sport rookie business waste estate dice slow era depend addict end";

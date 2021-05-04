@@ -1,1 +1,1 @@
-var mnemonic = "zoo youth glimpse denial indoor provide federal right force will rely book";
+var mnemonic = "above skin warfare equip sustain coil phrase pool energy seed tail fetch";

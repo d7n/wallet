@@ -1,1 +1,1 @@
-var mnemonic = "warrior sight dutch erosion phrase mosquito pitch spell lend useless kidney gas";
+var mnemonic = "disagree volcano idea pill text corn wheat envelope prepare post wash blush";

@@ -1,1 +1,1 @@
-var mnemonic = "card property super garlic volcano scheme monster enemy smooth galaxy olympic endorse";
+var mnemonic = "fish solid misery enough night frequent early fade track demise tonight early";

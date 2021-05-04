@@ -1,1 +1,1 @@
-var mnemonic = "ranch police struggle arrange poet glass crack record nice service visual wash";
+var mnemonic = "cycle utility dust van ability gate wink chef surge pledge cable bonus";

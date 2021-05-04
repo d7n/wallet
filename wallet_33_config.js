@@ -1,1 +1,1 @@
-var mnemonic = "first symptom eager smooth hurdle daring embrace ghost claim jaguar execute lock";
+var mnemonic = "dizzy old fee beauty loud prepare awful decline arrow impulse suggest wear";

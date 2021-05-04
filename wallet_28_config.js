@@ -1,1 +1,1 @@
-var mnemonic = "taxi valid grief elder drop swing inspire frost minor coast clinic student";
+var mnemonic = "raw square energy auto pen brisk father tunnel faith maximum fat shield";

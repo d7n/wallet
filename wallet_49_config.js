@@ -1,1 +1,1 @@
-var mnemonic = "garage raise increase estate elegant acoustic skull hamster simple charge wagon rain";
+var mnemonic = "bag concert volume vacant fade negative amateur fork spare false buyer monitor";

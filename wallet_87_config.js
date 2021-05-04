@@ -1,1 +1,1 @@
-var mnemonic = "clip put husband slogan decide motion renew blush neutral can portion bird";
+var mnemonic = "moon wool oblige mixed cement robot rule tired insect naive crack pact";

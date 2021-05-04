@@ -1,1 +1,1 @@
-var mnemonic = "exhaust gym help junior dust engage reunion scorpion web lemon clip dumb";
+var mnemonic = "giant leaf town hope warrior thing fancy matrix mercy neutral violin stairs";

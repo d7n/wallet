@@ -1,1 +1,1 @@
-var mnemonic = "unveil stereo skull parade dune tornado hurry news portion rubber year almost";
+var mnemonic = "category vote fiction lounge know shrimp hotel circle recycle trip dune capital";

@@ -1,1 +1,1 @@
-var mnemonic = "cook brand size hen until oval join stadium air seven venue picnic";
+var mnemonic = "street economy post east coral wrist liar jaguar include quality school search";

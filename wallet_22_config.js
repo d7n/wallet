@@ -1,1 +1,1 @@
-var mnemonic = "dry picture govern feature open token tobacco phone depart tiny air jewel";
+var mnemonic = "illness capable equal echo method harsh term anxiety swear wing fragile ill";

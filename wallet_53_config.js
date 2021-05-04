@@ -1,1 +1,1 @@
-var mnemonic = "mosquito anchor wife fat equip mountain whisper favorite clean absurd uncover pulp";
+var mnemonic = "narrow magnet antenna injury army carry beyond pilot crumble nice estate cousin";

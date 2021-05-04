@@ -1,1 +1,1 @@
-var mnemonic = "deer question nest dog demand repair tip improve crawl tip evil combine";
+var mnemonic = "chalk exotic girl cactus addict six state regret mystery desert ocean bind";

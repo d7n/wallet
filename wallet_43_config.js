@@ -1,1 +1,1 @@
-var mnemonic = "planet strike embody cage walnut pill tape erosion degree will kick truck";
+var mnemonic = "lift pipe pattern warrior frequent hurry kit common affair dog pony explain";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter mushroom end brush track soon okay pig flame carry stock december";
+var mnemonic = "candy behind escape enough peanut cluster syrup office fancy accident secret group";

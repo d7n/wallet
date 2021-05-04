@@ -1,1 +1,1 @@
-var mnemonic = "forward develop method practice quantum coil happy bonus address jump arch uphold";
+var mnemonic = "inject across erode auto kiwi weekend quit alpha view lecture expire harvest";

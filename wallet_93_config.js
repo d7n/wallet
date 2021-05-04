@@ -1,1 +1,1 @@
-var mnemonic = "toddler include hunt ball armor hero either danger plastic mask taxi embrace";
+var mnemonic = "club torch ketchup wire gravity prefer swift lock recall pool piano rose";

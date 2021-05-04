@@ -1,1 +1,1 @@
-var mnemonic = "cream ritual brown rely oak riot december shy orchard stool kind prosper";
+var mnemonic = "also organ poet reject lend hybrid glance verb either achieve force live";

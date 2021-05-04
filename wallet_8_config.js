@@ -1,1 +1,1 @@
-var mnemonic = "inside chaos true census error cluster romance plastic annual hip portion require";
+var mnemonic = "grain various chair kitten dream cargo old kangaroo vendor divide hybrid sting";

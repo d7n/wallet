@@ -1,1 +1,1 @@
-var mnemonic = "candy smart supreme lunar window banner keep jar arrest level senior govern";
+var mnemonic = "pipe essay strike member girl shadow other cloud burden visit remain tooth";

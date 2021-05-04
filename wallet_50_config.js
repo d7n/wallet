@@ -1,1 +1,1 @@
-var mnemonic = "gentle average rude turtle car recycle coral glue model glove zone truth";
+var mnemonic = "same purpose fabric excite jaguar digital banner umbrella clog quarter snap exhaust";

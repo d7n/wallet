@@ -1,1 +1,1 @@
-var mnemonic = "tag across gown decade foster solid ivory naive element occur mention mandate";
+var mnemonic = "mobile age green foster dance muscle mind unfold clerk entry design vital";

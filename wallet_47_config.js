@@ -1,1 +1,1 @@
-var mnemonic = "deposit coil hawk fee basket pattern electric carry quit wheat avocado carbon";
+var mnemonic = "absurd ring museum enroll liar reflect accident pig sausage little glide legend";

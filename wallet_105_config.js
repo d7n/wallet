@@ -1,1 +1,1 @@
-var mnemonic = "supreme need step treat estate repeat profit crop giggle matter social cloud";
+var mnemonic = "memory honey sweet emerge tooth dirt alpha tuition police soul rigid wool";

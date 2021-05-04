@@ -1,1 +1,1 @@
-var mnemonic = "pen clay key recall winner erase identify useful jeans ignore relax runway";
+var mnemonic = "again leisure august vendor evoke flee drum click primary adapt survey napkin";

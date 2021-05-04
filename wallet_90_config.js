@@ -1,1 +1,1 @@
-var mnemonic = "unknown carbon second sword dwarf write fragile what will report crucial true";
+var mnemonic = "cute sell donate tonight calm property anchor auto pencil mistake snack badge";

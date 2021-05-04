@@ -1,1 +1,1 @@
-var mnemonic = "merit crazy woman plunge good street athlete spray depend section strong unfold";
+var mnemonic = "camp kind harvest summer bulk leaf acid word mother head buddy upset";

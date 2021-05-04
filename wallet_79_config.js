@@ -1,1 +1,1 @@
-var mnemonic = "shiver swift angry urge report point good decide loyal loan goddess run";
+var mnemonic = "error island soup rhythm diet sort illegal copy assault fan snack churn";

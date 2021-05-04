@@ -1,1 +1,1 @@
-var mnemonic = "relax sport include diesel text seminar protect vendor help require voyage clutch";
+var mnemonic = "flock grape depth gift scrap share honey arrive drill title love language";

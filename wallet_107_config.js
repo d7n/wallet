@@ -1,1 +1,1 @@
-var mnemonic = "lottery thank innocent barely price rail path rose trigger turtle clump winter";
+var mnemonic = "suit canvas tape minor since crouch sunny alter burger orphan flock jacket";

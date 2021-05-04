@@ -1,1 +1,1 @@
-var mnemonic = "glimpse guess clerk wasp coast box organ afford honey city left victory";
+var mnemonic = "lunar wave relief bid post hill swamp exotic test child setup stove";

@@ -1,1 +1,1 @@
-var mnemonic = "music innocent chase hazard blood kick van provide avoid either airport blouse";
+var mnemonic = "picture three erupt panic express small nest hammer addict next pumpkin gift";

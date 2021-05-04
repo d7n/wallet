@@ -1,1 +1,1 @@
-var mnemonic = "improve skull tongue mosquito hand energy era close task lobster observe act";
+var mnemonic = "mother trend stumble art grunt divert family search push cotton sail oyster";

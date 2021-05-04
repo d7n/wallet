@@ -1,1 +1,1 @@
-var mnemonic = "fossil diamond father match fire vanish father word road renew topple maple";
+var mnemonic = "right vote bundle fence rose walnut tomato child language venue under soap";

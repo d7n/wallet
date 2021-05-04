@@ -1,1 +1,1 @@
-var mnemonic = "hollow gravity energy process joke indoor pair fuel gloom fury into very";
+var mnemonic = "iron worth deputy camera goose illegal field hip prepare supreme rocket frequent";

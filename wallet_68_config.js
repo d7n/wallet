@@ -1,1 +1,1 @@
-var mnemonic = "student work display extend pen noble joy congress similar tool peasant weasel";
+var mnemonic = "minimum apology frog february ramp fan degree valid danger sight nature veteran";

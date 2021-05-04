@@ -1,1 +1,1 @@
-var mnemonic = "program gallery shaft south trade mandate bacon outdoor enact odor secret north";
+var mnemonic = "napkin purchase eyebrow cattle cool foil rebuild depend taxi number snow wave";

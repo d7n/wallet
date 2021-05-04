@@ -1,1 +1,1 @@
-var mnemonic = "squirrel joke body board there pledge audit jewel library enough tag setup";
+var mnemonic = "connect segment worry dirt protect cube behave orient vague foil enjoy scout";

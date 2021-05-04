@@ -1,1 +1,1 @@
-var mnemonic = "panther escape width night speak canyon mountain pretty end lake strong wagon";
+var mnemonic = "announce fold gravity nose found seminar student uncle cram veteran castle stone";

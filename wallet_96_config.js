@@ -1,1 +1,1 @@
-var mnemonic = "until distance vast size melody youth tiny lemon pioneer draw metal inform";
+var mnemonic = "town pink meat arrow maple smooth danger blanket claim age ridge warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant neglect avocado crack swarm wealth discover angry knife cabin device tool";
+var mnemonic = "phrase hammer subway guard market evoke obvious midnight foster birth test traffic";

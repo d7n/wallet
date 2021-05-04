@@ -1,1 +1,1 @@
-var mnemonic = "other fever income normal cement lawsuit absent sign auto shop method bonus";
+var mnemonic = "lift maple shaft exit lesson cry deal dynamic labor extend scale digital";

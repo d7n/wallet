@@ -1,1 +1,1 @@
-var mnemonic = "phone remember goat recycle tissue shoot nest company explain day member silent";
+var mnemonic = "draw thing laptop expose crystal benefit animal deposit olympic receive thought melt";

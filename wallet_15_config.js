@@ -1,1 +1,1 @@
-var mnemonic = "accuse garage display buzz open success brief choice super nut glow spy";
+var mnemonic = "palace process speed analyst nut that divide scrap lumber renew camera pitch";

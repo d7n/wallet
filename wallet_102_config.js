@@ -1,1 +1,1 @@
-var mnemonic = "fault predict attack unknown banner leaf virus win adult before inner polar";
+var mnemonic = "drop vicious embark fiscal whip bike lobster board fish sense certain execute";

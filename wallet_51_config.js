@@ -1,1 +1,1 @@
-var mnemonic = "absorb toss frequent earth odor card current razor honey broken method north";
+var mnemonic = "eagle sausage marine draft attack detail puppy loud only concert wisdom gas";

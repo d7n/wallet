@@ -1,1 +1,1 @@
-var mnemonic = "rifle course almost movie horror chief husband smile screen patient pretty gloom";
+var mnemonic = "give clever quiz again clay hint mesh robust trip outside normal raw";

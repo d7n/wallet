@@ -1,1 +1,1 @@
-var mnemonic = "firm world renew oak inhale film spin summer alien mean image tornado";
+var mnemonic = "mercy child vicious broom cool rule blind maple champion addict aim away";

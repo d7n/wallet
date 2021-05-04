@@ -1,1 +1,1 @@
-var mnemonic = "clever gold foot runway pen praise viable theory cliff orient sign matter";
+var mnemonic = "neck mirror abstract adult vessel tortoise equal message lyrics pull dust crater";

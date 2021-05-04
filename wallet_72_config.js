@@ -1,1 +1,1 @@
-var mnemonic = "aspect cluster gift village suit fatal kitchen boost cluster crisp crouch language";
+var mnemonic = "about document rough fog margin street day draw protect boring gas hundred";

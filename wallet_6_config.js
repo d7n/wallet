@@ -1,1 +1,1 @@
-var mnemonic = "prize skill ticket option buffalo cave tonight face earn resist chair sentence";
+var mnemonic = "ripple awake gold admit wing copy family loyal lemon model dutch project";

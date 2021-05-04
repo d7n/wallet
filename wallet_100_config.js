@@ -1,1 +1,1 @@
-var mnemonic = "imitate exhibit airport raven will nut kid muscle enhance devote flock merry";
+var mnemonic = "focus please quote again flower wild fox silly paddle runway hard wife";

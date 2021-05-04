@@ -1,1 +1,1 @@
-var mnemonic = "depart phrase desk moon corn love copy expand laugh witness already target";
+var mnemonic = "tribe drink rib movie multiply online hurry unhappy trial easily busy custom";

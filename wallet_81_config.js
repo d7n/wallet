@@ -1,1 +1,1 @@
-var mnemonic = "permit valid harbor simple food ordinary slogan enroll valve scan decrease sting";
+var mnemonic = "caught debris swallow parent match utility blood pattern candy awkward youth fall";

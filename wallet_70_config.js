@@ -1,1 +1,1 @@
-var mnemonic = "erase truck toss side charge merit list glass collect demise insect aim";
+var mnemonic = "damp that dove basket solution cream tiger cupboard ridge cancel dutch frame";

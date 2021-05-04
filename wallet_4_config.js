@@ -1,1 +1,1 @@
-var mnemonic = "tube bless describe transfer cargo music also act host stick bracket length";
+var mnemonic = "divide gloom arch scare reopen gather surround quantum race frame chicken tree";

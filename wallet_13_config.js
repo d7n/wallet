@@ -1,1 +1,1 @@
-var mnemonic = "imitate circle seat pole again else salon emerge youth barely type craft";
+var mnemonic = "warrior injury finish century item manual detect region regular toast laptop obtain";

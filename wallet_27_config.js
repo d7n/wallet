@@ -1,1 +1,1 @@
-var mnemonic = "spin teach fire ripple horror scissors rabbit today melt spoil young topple";
+var mnemonic = "daring cousin owner opinion hello city visit pledge rapid lion runway zero";

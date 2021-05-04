@@ -1,1 +1,1 @@
-var mnemonic = "push divorce survey siege praise anger cherry observe illness cigar bubble tunnel";
+var mnemonic = "fork wisdom neither such minute lava fitness antique gloom airport plunge notable";

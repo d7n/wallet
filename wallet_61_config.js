@@ -1,1 +1,1 @@
-var mnemonic = "era smoke toddler flip robust sign crack utility begin genius until earth";
+var mnemonic = "arrow gravity cup panda ribbon trophy depth dry draft era source under";

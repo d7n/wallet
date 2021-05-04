@@ -1,1 +1,1 @@
-var mnemonic = "cement shrimp gadget motor gospel wheat fuel coin middle inflict razor permit";
+var mnemonic = "flat lobster segment kitten drip trade same chapter swim outdoor habit swap";

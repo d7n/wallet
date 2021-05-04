@@ -1,1 +1,1 @@
-var mnemonic = "arrange welcome bundle always ring destroy garage inject that cousin element knock";
+var mnemonic = "orange panic narrow mammal deposit coconut blade small grain expose sense oil";

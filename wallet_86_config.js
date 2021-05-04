@@ -1,1 +1,1 @@
-var mnemonic = "feel attend wolf stumble butter wish jaguar caught kangaroo usual reopen material";
+var mnemonic = "exit grace develop private hip way bleak report luxury parrot modify august";

@@ -1,1 +1,1 @@
-var mnemonic = "timber essay curve attitude north dawn escape about trash rubber pulse already";
+var mnemonic = "celery such second inform glue also barely spot immune buyer kind man";

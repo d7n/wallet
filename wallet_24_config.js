@@ -1,1 +1,1 @@
-var mnemonic = "all agree virus dial absorb glad afford case pony crime private return";
+var mnemonic = "despair athlete appear park tell fashion boat file pretty brief barrel borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny castle type boat decade hill gain wisdom shoulder pizza festival donkey";
+var mnemonic = "genuine top crush always grace violin drive alcohol exhaust embrace sign rough";

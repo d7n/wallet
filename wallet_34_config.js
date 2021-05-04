@@ -1,1 +1,1 @@
-var mnemonic = "holiday stone awkward ocean best raise dwarf inflict awake giggle pride concert";
+var mnemonic = "cry summer weekend game project jazz wet female weekend midnight review domain";

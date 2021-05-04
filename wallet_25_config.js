@@ -1,1 +1,1 @@
-var mnemonic = "fiction nut resource uncle age expose silent yard key solar dizzy stage";
+var mnemonic = "horn this page puzzle loan fiction volcano melody jazz display proof drama";
