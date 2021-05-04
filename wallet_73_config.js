@@ -1,1 +1,1 @@
-var mnemonic = "sentence asthma train math judge lonely van dinosaur oval year load modify";
+var mnemonic = "mechanic volume wheel dawn sorry cattle copy saddle claw agree public father";

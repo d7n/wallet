@@ -1,1 +1,1 @@
-var mnemonic = "group bomb scorpion antenna auto elevator blame true pear try curtain inspire";
+var mnemonic = "forum resemble kangaroo barrel brush wave rack charge love pause receive parrot";

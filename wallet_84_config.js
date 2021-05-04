@@ -1,1 +1,1 @@
-var mnemonic = "nut man letter usual inject ensure evolve eye dance hold range shrug";
+var mnemonic = "depth off actress nerve book together absent turn aisle deer soul allow";

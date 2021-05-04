@@ -1,1 +1,1 @@
-var mnemonic = "donate debris track special judge useless maid dad team burst winner latin";
+var mnemonic = "disorder pact combine soup flip promote news snack absurd amateur skull glance";

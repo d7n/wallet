@@ -1,1 +1,1 @@
-var mnemonic = "laugh few limb stick salute phrase skirt bottom author hip cliff party";
+var mnemonic = "assume turkey black gas flavor grunt morning town choose tiny hand rose";

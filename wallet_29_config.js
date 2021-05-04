@@ -1,1 +1,1 @@
-var mnemonic = "mushroom dice identify sustain absurd seminar idea bread deny stomach duty unhappy";
+var mnemonic = "jar divert smooth pull shaft link happy west harbor exact hen make";

@@ -1,1 +1,1 @@
-var mnemonic = "have damp chest submit quit oven dinosaur noodle rare snake trim doctor";
+var mnemonic = "limit neglect web digital defense prison quantum physical birth suffer error wheel";

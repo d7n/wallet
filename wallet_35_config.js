@@ -1,1 +1,1 @@
-var mnemonic = "advance segment appear squeeze rural bonus dentist phone have false blast vapor";
+var mnemonic = "toy antenna inside exist below direct rural awkward blouse oval addict goose";

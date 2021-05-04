@@ -1,1 +1,1 @@
-var mnemonic = "hobby benefit mercy patient casino emotion fun alarm gown salon wisdom pattern";
+var mnemonic = "vivid canoe index panel ten hold daughter element question dignity letter very";

@@ -1,1 +1,1 @@
-var mnemonic = "clean mammal process deposit pen tenant depend utility wrist casual ship ensure";
+var mnemonic = "exclude before fuel drum offer steak sentence install auction virtual school pill";

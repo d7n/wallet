@@ -1,1 +1,1 @@
-var mnemonic = "amazing treat actual valve angle top clay area elephant reject voice excuse";
+var mnemonic = "gown laugh donate east fat pizza street proud image enforce ketchup chaos";

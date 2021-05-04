@@ -1,1 +1,1 @@
-var mnemonic = "retire latin course desert rival when crunch bundle dial response soon absent";
+var mnemonic = "disease frog soul employ merge absent divide quiz upgrade ask course uncle";

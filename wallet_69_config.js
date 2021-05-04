@@ -1,1 +1,1 @@
-var mnemonic = "improve tiger require window economy olympic media spawn music peanut bless degree";
+var mnemonic = "fruit math place derive visa source aunt equip twice useless film cram";

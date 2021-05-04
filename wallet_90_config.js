@@ -1,1 +1,1 @@
-var mnemonic = "black aspect fiscal discover strong swear odor mind stomach wasp upgrade private";
+var mnemonic = "arctic mention stove receive umbrella unaware zebra address review loan nation hard";

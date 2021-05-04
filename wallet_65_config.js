@@ -1,1 +1,1 @@
-var mnemonic = "cricket flush nature dutch element chapter olympic gun piano piece route abandon";
+var mnemonic = "quality this grocery essay sudden chair output bind beauty lucky grain aunt";

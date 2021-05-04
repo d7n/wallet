@@ -1,1 +1,1 @@
-var mnemonic = "cousin illness garage usual young science student finish simple whip citizen ensure";
+var mnemonic = "sing dinosaur senior order bread all foam liar caught father budget profit";

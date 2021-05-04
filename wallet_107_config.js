@@ -1,1 +1,1 @@
-var mnemonic = "already text transfer trim liquid ritual still harvest cigar acid youth mule";
+var mnemonic = "actor category reason absorb monitor eager nose left season emotion hen six";

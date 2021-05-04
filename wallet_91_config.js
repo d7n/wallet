@@ -1,1 +1,1 @@
-var mnemonic = "frequent borrow isolate hip expect sweet public impose sand fold captain exile";
+var mnemonic = "devote lizard claim invite defense pact dynamic shrug tribe speak word organ";

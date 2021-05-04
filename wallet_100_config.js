@@ -1,1 +1,1 @@
-var mnemonic = "envelope hurt pretty beef clump property dumb trap shift various father resource";
+var mnemonic = "foil box fold quote december top stuff discover drama coffee input shoulder";

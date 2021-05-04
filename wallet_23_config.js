@@ -1,1 +1,1 @@
-var mnemonic = "neglect defy glad cost friend wood town audit survey buyer firm apart";
+var mnemonic = "movie burger fish bulk orphan oak pond inject indicate cook soccer brass";

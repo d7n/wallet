@@ -1,1 +1,1 @@
-var mnemonic = "summer bar post leaf near edge pitch civil oak snake neck antique";
+var mnemonic = "beyond above exotic access fluid bone ridge enhance timber elegant then swallow";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson violin capable before exclude fade cross erupt saddle tower ability tuition";
+var mnemonic = "together swing glare juice slam sail twist snap into horn wise boat";

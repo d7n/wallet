@@ -1,1 +1,1 @@
-var mnemonic = "admit meat coach rice fancy plate pulp fame foot plastic tunnel ticket";
+var mnemonic = "gorilla become miracle bleak receive pipe impose follow vapor miracle prosper claw";

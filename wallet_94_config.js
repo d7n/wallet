@@ -1,1 +1,1 @@
-var mnemonic = "problem release skate execute shrug oppose frown best again pretty hand tip";
+var mnemonic = "online soda bounce jar female dizzy coin mouse hold budget tilt major";

@@ -1,1 +1,1 @@
-var mnemonic = "genre tiger target feed vault street spare image cup print diagram hurdle";
+var mnemonic = "aware cherry captain kangaroo vote push immune excuse crouch annual fragile option";

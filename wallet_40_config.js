@@ -1,1 +1,1 @@
-var mnemonic = "depart parrot sentence empty guitar gaze jar net play detect float useful";
+var mnemonic = "nothing van lamp bitter below jump census crop salt please farm supply";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel balcony spend keep rotate surround oak find maple crystal basket feel";
+var mnemonic = "twice warfare net dad truck sibling sell garage kangaroo oxygen like tortoise";

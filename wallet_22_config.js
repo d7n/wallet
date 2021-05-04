@@ -1,1 +1,1 @@
-var mnemonic = "language concert noodle celery pelican artefact employ alley dial fiscal maximum soccer";
+var mnemonic = "riot special sample wedding ten odor crane mixture outdoor account minimum vital";

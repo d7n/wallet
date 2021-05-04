@@ -1,1 +1,1 @@
-var mnemonic = "steel viable syrup garlic list scrap bundle february mail address usual chef";
+var mnemonic = "vault figure tortoise damage grape album canoe wall draw hire dry airport";

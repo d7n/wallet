@@ -1,1 +1,1 @@
-var mnemonic = "icon cabin kiss outside random scrub walnut angry concert hole mule witness";
+var mnemonic = "desk finish alone impulse ridge net charge warfare sentence figure twice old";

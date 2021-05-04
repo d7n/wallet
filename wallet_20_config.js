@@ -1,1 +1,1 @@
-var mnemonic = "shoulder eye matrix orphan risk jealous view canal shadow brush device middle";
+var mnemonic = "chronic romance device real trust decorate picture little tonight decrease ugly drink";

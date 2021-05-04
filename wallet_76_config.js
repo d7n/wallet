@@ -1,1 +1,1 @@
-var mnemonic = "balance great ladder great angle lobster brave reunion ancient defense decrease target";
+var mnemonic = "ticket thumb primary jeans regret man addict access tissue usual ocean impose";

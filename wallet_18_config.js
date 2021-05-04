@@ -1,1 +1,1 @@
-var mnemonic = "door floor hollow shoe cement very creek discover pill muscle fog super";
+var mnemonic = "resource aerobic iron okay stand city junk devote segment sign squeeze lava";

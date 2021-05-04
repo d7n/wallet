@@ -1,1 +1,1 @@
-var mnemonic = "clock provide april concert like impact sentence six spider quote sail alert";
+var mnemonic = "nut myth latin crisp rotate car always lamp canal fun odor meat";

@@ -1,1 +1,1 @@
-var mnemonic = "general excuse uncover pave super fetch habit input flash faculty little chapter";
+var mnemonic = "elite swim safe stone stable surface feed rocket cost alone almost wheel";

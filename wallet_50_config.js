@@ -1,1 +1,1 @@
-var mnemonic = "real film announce sock afraid item hello purity music beauty add beauty";
+var mnemonic = "man produce whisper huge gas live grocery creek prepare grain like ghost";

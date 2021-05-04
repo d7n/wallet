@@ -1,1 +1,1 @@
-var mnemonic = "gun subject jar afford sense fit unaware rabbit few identify coffee ensure";
+var mnemonic = "type forget quantum liberty account october anxiety walk color boring minor olive";

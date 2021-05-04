@@ -1,1 +1,1 @@
-var mnemonic = "response squirrel coil raw advance outer scheme laptop run fury tree library";
+var mnemonic = "clutch excuse limb length analyst syrup tilt spatial enjoy erode swear imitate";

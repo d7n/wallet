@@ -1,1 +1,1 @@
-var mnemonic = "style actress federal renew hungry female paper hip anxiety antenna grunt silly";
+var mnemonic = "size crater orchard stereo news afford mention kiwi brick layer circle size";

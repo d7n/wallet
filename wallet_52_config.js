@@ -1,1 +1,1 @@
-var mnemonic = "sausage like need crawl video year atom toilet amused coast follow swarm";
+var mnemonic = "baby silver betray cousin toward country fortune rare feel math minimum sword";

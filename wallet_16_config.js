@@ -1,1 +1,1 @@
-var mnemonic = "drink come tumble bitter have mobile oblige speed two antique whisper shield";
+var mnemonic = "music dismiss keen oyster shiver clerk rubber enable image master smart sick";

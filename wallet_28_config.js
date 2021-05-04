@@ -1,1 +1,1 @@
-var mnemonic = "ozone alarm type angle wife grain wrap panther similar collect asset shallow";
+var mnemonic = "property flat foam supreme fiber betray pepper tattoo cat useless pink alter";

@@ -1,1 +1,1 @@
-var mnemonic = "common cigar crush leaf wedding car hidden wrong alert park twist worry";
+var mnemonic = "multiply stuff grow clap lift blade grunt sad blind fork mixture protect";

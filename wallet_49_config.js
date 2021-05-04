@@ -1,1 +1,1 @@
-var mnemonic = "volume enough stool post museum sudden warfare truck tennis quality physical slogan";
+var mnemonic = "path lab kitchen elite plate promote neglect ranch grant panic auto replace";

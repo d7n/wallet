@@ -1,1 +1,1 @@
-var mnemonic = "gallery price normal duck echo nurse lyrics corn cover shoe shop original";
+var mnemonic = "decade pencil stadium home weekend hybrid advance breeze joke company section bargain";

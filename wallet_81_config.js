@@ -1,1 +1,1 @@
-var mnemonic = "champion citizen tackle benefit view never corn grant timber frown bean slam";
+var mnemonic = "empower fuel there frame lens fame public parade sorry female gaze agent";

@@ -1,1 +1,1 @@
-var mnemonic = "destroy attract vibrant fiber proof plug diagram delay total giraffe exist junior";
+var mnemonic = "before unusual prepare private intact symptom fade seed puppy device lift silk";

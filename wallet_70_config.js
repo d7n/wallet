@@ -1,1 +1,1 @@
-var mnemonic = "rifle era tip pink absorb subway alert rebel stock stumble resource powder";
+var mnemonic = "cherry cloud picnic order keen confirm napkin pupil theory curtain size net";

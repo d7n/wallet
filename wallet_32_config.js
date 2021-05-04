@@ -1,1 +1,1 @@
-var mnemonic = "angle young soda creek tornado century tourist just exact arctic display drink";
+var mnemonic = "drift muffin gas satisfy knock book outside segment narrow true honey juice";

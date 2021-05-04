@@ -1,1 +1,1 @@
-var mnemonic = "sustain copper green swamp west same spin visit lecture nothing dance kangaroo";
+var mnemonic = "ill duty frost claim capable inform gossip umbrella ribbon symbol way recall";

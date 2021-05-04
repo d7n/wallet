@@ -1,1 +1,1 @@
-var mnemonic = "shoot evil collect initial filter problem mouse trick flame normal seven tide";
+var mnemonic = "fiber ceiling hard knee wisdom keep wonder tray minor perfect ball vanish";

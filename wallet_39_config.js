@@ -1,1 +1,1 @@
-var mnemonic = "neutral scatter fabric element admit left sun grape mix admit weird tornado";
+var mnemonic = "wreck slow armor laugh wonder daughter call today spy book buyer common";

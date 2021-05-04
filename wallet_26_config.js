@@ -1,1 +1,1 @@
-var mnemonic = "dish vendor actress alcohol best gate people bounce piece settle rude inherit";
+var mnemonic = "airport teach stadium awkward celery silent quantum harvest camp sleep error badge";

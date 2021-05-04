@@ -1,1 +1,1 @@
-var mnemonic = "leave jacket mirror deposit case park ask grant snap antenna rather palm";
+var mnemonic = "cruel high bracket club nest lift gravity rain surge combine armor gaze";

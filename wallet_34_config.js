@@ -1,1 +1,1 @@
-var mnemonic = "clay collect dove simple blossom output market doll note silent journey any";
+var mnemonic = "pudding conduct amused nature transfer include virus shallow grow reason enhance laugh";

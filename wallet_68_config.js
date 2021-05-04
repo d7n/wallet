@@ -1,1 +1,1 @@
-var mnemonic = "vapor online hero song great truck drip reunion matrix grass choose alcohol";
+var mnemonic = "hedgehog celery awesome code cannon wave edge pass stairs nasty nose matter";

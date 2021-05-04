@@ -1,1 +1,1 @@
-var mnemonic = "shop veteran agree spin know industry develop funny demand language cigar refuse";
+var mnemonic = "mad trigger blind agree already amazing visit section evolve great exhibit patrol";

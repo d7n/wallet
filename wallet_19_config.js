@@ -1,1 +1,1 @@
-var mnemonic = "finger inform romance tree category category solid wrong season mass spike whip";
+var mnemonic = "salt muscle prize ivory hurry junior seat notice cook kick butter income";

@@ -1,1 +1,1 @@
-var mnemonic = "hen immune online heavy shine obscure chat cupboard million tank wave voice";
+var mnemonic = "before length board relax burst ancient drum method refuse run metal poet";

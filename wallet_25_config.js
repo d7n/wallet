@@ -1,1 +1,1 @@
-var mnemonic = "rude wrestle world night situate acquire smooth onion urge calm around ride";
+var mnemonic = "frequent atom amazing across whip genuine stomach whale blur truck dynamic omit";

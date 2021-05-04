@@ -1,1 +1,1 @@
-var mnemonic = "style steak already riot cause sunset network enlist capital consider extra harsh";
+var mnemonic = "stick bird credit flag park riot much hybrid oil nothing help embody";

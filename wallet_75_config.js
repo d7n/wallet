@@ -1,1 +1,1 @@
-var mnemonic = "later damp twelve camp mirror cry cash wheel magnet before air barrel";
+var mnemonic = "picnic stereo accuse blood raise panther fossil thank oyster arrest shoulder series";

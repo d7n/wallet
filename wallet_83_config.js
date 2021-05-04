@@ -1,1 +1,1 @@
-var mnemonic = "disorder list dice lunch return tomato ankle solution antique ancient gentle maze";
+var mnemonic = "milk dynamic combine make snack biology crack indicate vehicle boy toward evoke";

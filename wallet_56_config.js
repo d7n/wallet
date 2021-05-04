@@ -1,1 +1,1 @@
-var mnemonic = "wash ramp fantasy push ocean ramp answer club awful host patch drum";
+var mnemonic = "physical promote govern sport hill cabbage grunt dynamic average gun health nominee";

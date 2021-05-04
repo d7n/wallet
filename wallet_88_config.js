@@ -1,1 +1,1 @@
-var mnemonic = "report tail nuclear cactus response sponsor hospital damage decline merit gloom donate";
+var mnemonic = "boring prepare unfair lobster route famous radar decade wreck mention lucky super";

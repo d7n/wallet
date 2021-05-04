@@ -1,1 +1,1 @@
-var mnemonic = "lend social icon inmate barrel peasant indicate finger ginger brush inject banner";
+var mnemonic = "myself route claim spy point anchor rich title certain category detail trash";

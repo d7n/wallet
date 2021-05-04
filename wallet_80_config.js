@@ -1,1 +1,1 @@
-var mnemonic = "gospel truly filter average notable giraffe birth three walk brave arctic inner";
+var mnemonic = "broken index puppy drip amazing barely gym scene version shoot concert horn";

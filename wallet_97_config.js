@@ -1,1 +1,1 @@
-var mnemonic = "style basic remember option lawn episode reunion lonely guard blue winter resist";
+var mnemonic = "hour garbage glove stumble skin excite approve pause planet suspect fiber swap";

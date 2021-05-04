@@ -1,1 +1,1 @@
-var mnemonic = "visual amused assume security ritual sign table width strong ignore raven divide";
+var mnemonic = "kidney into silent task kitchen budget load rude there acid exit now";

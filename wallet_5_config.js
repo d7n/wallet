@@ -1,1 +1,1 @@
-var mnemonic = "pepper used peace pattern west vacant word dad embrace utility combine race";
+var mnemonic = "punch body refuse essay satisfy amount cheese someone claw vapor essay drastic";

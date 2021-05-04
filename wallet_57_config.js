@@ -1,1 +1,1 @@
-var mnemonic = "glass cake cover cake race across early sketch option humble cactus front";
+var mnemonic = "noise hello half tuna coffee cereal knife unique pluck creek online since";

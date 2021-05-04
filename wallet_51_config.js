@@ -1,1 +1,1 @@
-var mnemonic = "reduce token half soccer museum lecture regret danger journey trade spice fan";
+var mnemonic = "small diary tourist mad village vessel pencil dial hollow carbon describe supreme";

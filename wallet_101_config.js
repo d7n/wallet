@@ -1,1 +1,1 @@
-var mnemonic = "slush joy ocean tail hurry sand stock exile drop aim boat design";
+var mnemonic = "fan bamboo right together hidden waste hybrid burden donate again blouse private";

@@ -1,1 +1,1 @@
-var mnemonic = "immense cotton oven solar rather glide castle gloom heart increase update gaze";
+var mnemonic = "license vessel setup only island cheap jewel super cause beef state match";

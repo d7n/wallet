@@ -1,1 +1,1 @@
-var mnemonic = "ticket train erode endless sell brisk obey short warfare summer lesson drop";
+var mnemonic = "word sentence stairs sustain worth more essay thrive front mosquito minute accident";

@@ -1,1 +1,1 @@
-var mnemonic = "seed dice husband economy gauge shrug tooth copper resist slush glove expose";
+var mnemonic = "flash birth circle spare flight clap tell clarify typical day chair setup";

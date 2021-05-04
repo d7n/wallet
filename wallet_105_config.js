@@ -1,1 +1,1 @@
-var mnemonic = "ski father garden skate word switch perfect legend oblige two pulp raven";
+var mnemonic = "involve segment movie please pact winter inch author result turn parent sketch";

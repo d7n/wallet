@@ -1,1 +1,1 @@
-var mnemonic = "slot globe man announce punch echo timber napkin token caution train tube";
+var mnemonic = "dynamic matter bag blade february radio glide empower blouse keen type leg";

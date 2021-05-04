@@ -1,1 +1,1 @@
-var mnemonic = "table puzzle idle orient judge solve govern network young typical female person";
+var mnemonic = "panel noodle female then pear snow ocean unfold safe erosion remind wife";

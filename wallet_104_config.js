@@ -1,1 +1,1 @@
-var mnemonic = "motion ghost pull wool inch cash strike genre quantum cook old zebra";
+var mnemonic = "lady tank harbor vicious stock flag canyon august century source indicate village";

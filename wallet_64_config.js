@@ -1,1 +1,1 @@
-var mnemonic = "cliff very connect voyage expire eager regular obscure seminar exit battle hurdle";
+var mnemonic = "close river interest trumpet shop coach like mass viable mobile indicate trend";

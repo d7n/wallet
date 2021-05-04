@@ -1,1 +1,1 @@
-var mnemonic = "bird document upper fitness vacant tomato become stairs cruise scout tortoise offer";
+var mnemonic = "siege drive beauty invite inflict develop chat couple robot cable moment any";

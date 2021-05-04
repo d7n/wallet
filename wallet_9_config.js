@@ -1,1 +1,1 @@
-var mnemonic = "multiply betray siren emerge insane about surround possible size syrup shed raccoon";
+var mnemonic = "cause easy cool bless blouse raven peanut early absurd brush despair total";

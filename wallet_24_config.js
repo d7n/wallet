@@ -1,1 +1,1 @@
-var mnemonic = "man keep object differ bicycle fork require myth multiply life welcome tissue";
+var mnemonic = "utility just rifle ship ahead awesome weather dismiss hero parrot civil august";

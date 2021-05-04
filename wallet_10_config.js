@@ -1,1 +1,1 @@
-var mnemonic = "tattoo ill journey release valve next swim wolf order bomb search card";
+var mnemonic = "wrong toward ring morning middle genius blur crime lens trophy meat raise";

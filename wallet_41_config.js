@@ -1,1 +1,1 @@
-var mnemonic = "tennis march wrong horn gentle try jazz interest track exotic payment find";
+var mnemonic = "drama asthma brand heavy field current suspect parent ribbon clever defense notable";

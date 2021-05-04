@@ -1,1 +1,1 @@
-var mnemonic = "airport body luxury index general run boil siege mutual name warrior seed";
+var mnemonic = "error kite trophy cousin gun trap pupil poem broom dust oxygen animal";

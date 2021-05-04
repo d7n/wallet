@@ -1,1 +1,1 @@
-var mnemonic = "fetch shell master margin ecology trip stool edge ordinary riot similar fox";
+var mnemonic = "nothing such appear galaxy attack abuse system deposit bread upgrade become plate";

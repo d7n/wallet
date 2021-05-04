@@ -1,1 +1,1 @@
-var mnemonic = "abuse dial slogan foam knock alter patrol dove weasel joke dynamic hire";
+var mnemonic = "cruise click screen stick term random laugh crawl case flame beach analyst";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse raven oak sort seven inside chronic husband craft ask switch cram";
+var mnemonic = "symptom beauty ice shift major produce brisk push crew car lion relief";
