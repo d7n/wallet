@@ -1,1 +1,1 @@
-var mnemonic = "board mistake during job egg despair brief whisper curtain below hood text";
+var mnemonic = "lobster quiz upon injury salad gravity frozen alter custom sphere lunch depend";

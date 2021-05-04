@@ -1,1 +1,1 @@
-var mnemonic = "horse subway hour gold skirt puppy patrol dolphin rough pass dose scout";
+var mnemonic = "drama solution today beef deny analyst couch favorite science predict vacant census";

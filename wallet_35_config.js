@@ -1,1 +1,1 @@
-var mnemonic = "mechanic cheese coach canoe draw leopard power catalog grab awesome blast enable";
+var mnemonic = "sand oppose learn language cargo unaware february cable hard maid diet category";

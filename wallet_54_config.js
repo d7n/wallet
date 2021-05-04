@@ -1,1 +1,1 @@
-var mnemonic = "silent river sad mention type debate jacket gospel either permit today reject";
+var mnemonic = "gas resemble cook physical salt chalk reason barrel hundred route harvest practice";

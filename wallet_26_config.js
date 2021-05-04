@@ -1,1 +1,1 @@
-var mnemonic = "wash lobster clock atom shift sunny access vessel quick palm decide reason";
+var mnemonic = "utility smooth space subway rookie city lion until couple boost welcome joy";

@@ -1,1 +1,1 @@
-var mnemonic = "flag letter dolphin vibrant scrap alone window mixture company valve public mule";
+var mnemonic = "when village secret tree material copper govern fruit mercy peasant ostrich broom";

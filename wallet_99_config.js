@@ -1,1 +1,1 @@
-var mnemonic = "common quote style winner raise talk apple west volcano artwork swing bounce";
+var mnemonic = "street panel else icon arrange pen legal toddler inch clinic roast mail";

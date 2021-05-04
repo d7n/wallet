@@ -1,1 +1,1 @@
-var mnemonic = "category goose possible divert clog banner behind palm draft whisper super magic";
+var mnemonic = "glance plastic speed ability armed april glance giraffe exact tongue cluster wreck";

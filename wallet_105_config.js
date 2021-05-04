@@ -1,1 +1,1 @@
-var mnemonic = "amazing feed annual skirt note ridge throw height cabin dismiss mouse spell";
+var mnemonic = "giggle two dinner inject three more message ketchup clock offer minute found";

@@ -1,1 +1,1 @@
-var mnemonic = "model athlete repeat tooth trap feature bird napkin clutch title meadow rug";
+var mnemonic = "beyond expose august soon used giraffe orange humor runway leave club either";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce fine monitor town fantasy depth rice kitten artist goddess capable wood";
+var mnemonic = "wage flat park control print harbor season local awful forest actor cat";

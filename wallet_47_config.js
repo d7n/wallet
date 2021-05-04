@@ -1,1 +1,1 @@
-var mnemonic = "decorate cluster machine misery dial fetch find thought volcano various noble orbit";
+var mnemonic = "swamp depart toast grocery lunar income unlock shrimp memory minute blanket extend";

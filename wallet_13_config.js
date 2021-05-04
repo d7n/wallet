@@ -1,1 +1,1 @@
-var mnemonic = "subject second total film patch learn spider citizen rose cigar prison tell";
+var mnemonic = "plug empty bamboo stamp kick teach twice actor height smooth rapid crater";

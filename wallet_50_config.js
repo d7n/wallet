@@ -1,1 +1,1 @@
-var mnemonic = "cruel lyrics reject reward science cause attend escape siren ethics erode body";
+var mnemonic = "keep since crime process wage stage piano treat sniff tilt physical deputy";

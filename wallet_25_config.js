@@ -1,1 +1,1 @@
-var mnemonic = "into unit warm orphan element stamp catalog shift tissue proof mule design";
+var mnemonic = "keep limb chaos rescue adjust sea young girl suggest test clip immense";

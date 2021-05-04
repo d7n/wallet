@@ -1,1 +1,1 @@
-var mnemonic = "pulse swap charge lounge dad couch minute horror team riot laptop where";
+var mnemonic = "salmon open treat skill useless mosquito memory special phrase arrive invite dry";

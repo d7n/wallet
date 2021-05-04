@@ -1,1 +1,1 @@
-var mnemonic = "lens paddle vague trash spend valid bomb beauty tomato pole deny grape";
+var mnemonic = "olympic ripple fee oblige bean digital faint call disorder later fetch omit";

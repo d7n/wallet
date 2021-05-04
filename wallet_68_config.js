@@ -1,1 +1,1 @@
-var mnemonic = "copper win car game view inch sentence scheme double afford combine toast";
+var mnemonic = "cake fence envelope exhaust seven pact solve sibling sure december betray window";

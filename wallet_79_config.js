@@ -1,1 +1,1 @@
-var mnemonic = "defense ridge laptop boost hold hollow angle ozone consider raw such remind";
+var mnemonic = "jungle boil include tourist bargain sorry play trend prepare desert menu laptop";

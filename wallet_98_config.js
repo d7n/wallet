@@ -1,1 +1,1 @@
-var mnemonic = "hub kiss man melt taxi stomach purchase invite rare please electric sister";
+var mnemonic = "equal motor cattle famous refuse observe walk switch master brown guide object";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker retreat south border throw top tide much hurt neutral awake anxiety";
+var mnemonic = "chuckle seven acoustic reward render collect lecture kiss buddy popular shift mercy";

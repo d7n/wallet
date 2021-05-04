@@ -1,1 +1,1 @@
-var mnemonic = "syrup scorpion job age faint mistake shield cross jealous gain lawsuit cup";
+var mnemonic = "melody good dinosaur lava cook debate wealth stereo theory door style antenna";

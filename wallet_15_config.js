@@ -1,1 +1,1 @@
-var mnemonic = "organ army pink unlock medal hip convince write hope denial bean limb";
+var mnemonic = "also trash rate fault surge toe cycle dilemma exact advice grunt link";

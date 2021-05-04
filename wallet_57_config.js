@@ -1,1 +1,1 @@
-var mnemonic = "tool eight pitch resource use parade glue also lion state odor crisp";
+var mnemonic = "recall floor market index strategy birth coral impulse swallow dance glow coil";

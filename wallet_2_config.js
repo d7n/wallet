@@ -1,1 +1,1 @@
-var mnemonic = "hood trial quantum suggest infant volume gentle venue maximum critic rule dragon";
+var mnemonic = "cactus salmon cross begin boss soft live cover empower host effort liberty";

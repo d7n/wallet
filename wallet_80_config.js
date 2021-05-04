@@ -1,1 +1,1 @@
-var mnemonic = "horn slot fashion wine athlete crumble frame normal alert model thrive allow";
+var mnemonic = "prevent toss jazz mountain release feed clinic bike episode into empty search";

@@ -1,1 +1,1 @@
-var mnemonic = "nice oyster predict school daughter pigeon either story major twelve census strong";
+var mnemonic = "amazing tumble memory clever age penalty drip wrist heart sea betray current";

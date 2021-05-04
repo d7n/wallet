@@ -1,1 +1,1 @@
-var mnemonic = "supreme injury idle before jazz also viable arch subway mouse spoil pledge";
+var mnemonic = "divert erase spike slight position rebuild believe rigid network inject excuse pretty";

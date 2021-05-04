@@ -1,1 +1,1 @@
-var mnemonic = "job rival receive stamp rabbit suit wild common floor vibrant use kite";
+var mnemonic = "remind vague wisdom fortune neutral seek cargo tank rural drum donate purpose";

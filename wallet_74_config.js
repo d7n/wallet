@@ -1,1 +1,1 @@
-var mnemonic = "lion volcano swing sustain ride rely concert grunt rally code mad found";
+var mnemonic = "mushroom promote bless pact peace wait wage spin pink amused pulp pig";

@@ -1,1 +1,1 @@
-var mnemonic = "visual bench bench want bamboo desert remove sweet hole enable make snow";
+var mnemonic = "fee pause collect fault supply torch major steak visit stairs venture weasel";

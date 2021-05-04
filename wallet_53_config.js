@@ -1,1 +1,1 @@
-var mnemonic = "together chunk amateur want betray range neglect toe gown promote boring author";
+var mnemonic = "cannon weekend home polar thing thrive flower size extra pulse brother wolf";

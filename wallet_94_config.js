@@ -1,1 +1,1 @@
-var mnemonic = "hungry cereal garage nut suit skin upon upon torch swift already speed";
+var mnemonic = "track health mandate live slush wish live cream sustain twelve twin dutch";

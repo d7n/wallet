@@ -1,1 +1,1 @@
-var mnemonic = "derive between team office busy now weekend craft novel math hungry paddle";
+var mnemonic = "invite gossip morning crystal scheme improve scissors whale improve purchase suspect slot";

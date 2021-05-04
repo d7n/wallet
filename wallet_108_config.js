@@ -1,1 +1,1 @@
-var mnemonic = "attend despair boil goat level cart disorder draw problem family crater reduce";
+var mnemonic = "key huge vanish stay ranch teach license muffin quit walk angry vote";

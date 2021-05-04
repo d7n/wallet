@@ -1,1 +1,1 @@
-var mnemonic = "lounge tail trouble shock hour extra dismiss pond sure grief lend upset";
+var mnemonic = "purchase fat health spike absurd become country inform network hybrid space blue";

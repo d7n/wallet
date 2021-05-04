@@ -1,1 +1,1 @@
-var mnemonic = "animal vessel undo urge drastic cheap pelican grunt income task theory immense";
+var mnemonic = "rich wrong excuse best top discover foster dog cup capable furnace cushion";

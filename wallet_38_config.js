@@ -1,1 +1,1 @@
-var mnemonic = "card bicycle crack copper senior cargo recycle embark account behind planet stumble";
+var mnemonic = "error spare churn lumber say prevent first pass spice van coral hotel";

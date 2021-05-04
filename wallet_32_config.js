@@ -1,1 +1,1 @@
-var mnemonic = "tissue category girl grief quality scrap dumb tissue apology decline model river";
+var mnemonic = "echo town crane spring supreme abuse chest mistake slot census album hand";

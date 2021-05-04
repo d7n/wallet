@@ -1,1 +1,1 @@
-var mnemonic = "cloud snake tooth rabbit cheese same crater library sweet man book require";
+var mnemonic = "fitness topic human purse arrow play admit recall badge patrol stock mistake";

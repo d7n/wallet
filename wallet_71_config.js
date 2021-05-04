@@ -1,1 +1,1 @@
-var mnemonic = "spend drastic parent sure only shove document artist reopen fish present warrior";
+var mnemonic = "process tattoo fortune deposit blouse ski chair cinnamon dune alter strategy cupboard";

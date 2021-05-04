@@ -1,1 +1,1 @@
-var mnemonic = "remember express effort bacon dish parrot glory raccoon palm shrimp actor bike";
+var mnemonic = "boy play gown polar express canyon dust steak blade midnight rookie orange";

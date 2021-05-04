@@ -1,1 +1,1 @@
-var mnemonic = "deliver rail marble remain glory scatter toe romance absorb horn phone frozen";
+var mnemonic = "before clean desk call mammal road about slam wrong tag direct excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "pool fruit bracket puppy egg little street pizza already what orient unfair";
+var mnemonic = "acoustic flight dune fork one thumb hurt pupil enemy pear busy mango";

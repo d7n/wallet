@@ -1,1 +1,1 @@
-var mnemonic = "small convince danger pumpkin play summer plug suggest noise double labor slot";
+var mnemonic = "scout balance wink shove swing hunt wheat marine quick sustain actress wire";

@@ -1,1 +1,1 @@
-var mnemonic = "smooth retreat hope wing perfect position joy era mesh wonder noise refuse";
+var mnemonic = "another quantum inherit popular universe thing police predict insect sudden calm primary";

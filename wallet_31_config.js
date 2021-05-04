@@ -1,1 +1,1 @@
-var mnemonic = "health today letter alley balcony impulse end yard occur detail side ancient";
+var mnemonic = "daughter better similar bless misery patient trouble fever quit pill garden lazy";

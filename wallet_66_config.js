@@ -1,1 +1,1 @@
-var mnemonic = "cactus among ranch office upon eight board language miracle hurdle romance occur";
+var mnemonic = "gold bright hero switch cactus spy love omit snap smile dune silly";

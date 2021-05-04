@@ -1,1 +1,1 @@
-var mnemonic = "fun regret patient major weather key sheriff april tank rotate six inflict";
+var mnemonic = "forest light pulse fashion slim valve bounce expect very pass ski select";

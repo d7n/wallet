@@ -1,1 +1,1 @@
-var mnemonic = "urban kick month inner flavor mouse dry slim clinic record exact orange";
+var mnemonic = "ensure swamp slender grant boss breeze warrior milk square rude speak click";

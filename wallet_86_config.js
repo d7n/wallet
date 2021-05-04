@@ -1,1 +1,1 @@
-var mnemonic = "pool option worry captain cousin total jewel piano quarter venue involve notice";
+var mnemonic = "offer orient squeeze mixed electric lens tattoo dream rice noise wheel weird";

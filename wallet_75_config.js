@@ -1,1 +1,1 @@
-var mnemonic = "virus million vocal endorse night mechanic dirt rate lunar rebuild glove truck";
+var mnemonic = "local twice dolphin island primary popular area explain concert dinner mango lend";

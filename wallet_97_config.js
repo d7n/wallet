@@ -1,1 +1,1 @@
-var mnemonic = "snack surge unit shuffle gauge tiger proof gift rigid service elegant hunt";
+var mnemonic = "real tissue torch post hundred trade soap pass tourist faith fantasy alpha";

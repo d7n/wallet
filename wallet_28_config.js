@@ -1,1 +1,1 @@
-var mnemonic = "infant eager silent present verb blossom horse cube punch stem utility open";
+var mnemonic = "unit crater fruit clip figure today stuff draft matter short cannon flush";

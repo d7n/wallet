@@ -1,1 +1,1 @@
-var mnemonic = "mutual humor penalty call festival turtle inquiry phone alien horn fox boring";
+var mnemonic = "copy level pilot olive install happy elder pulse water fly narrow echo";

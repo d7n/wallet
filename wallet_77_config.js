@@ -1,1 +1,1 @@
-var mnemonic = "submit over useful gown guilt alter fossil knock humor swim retire balance";
+var mnemonic = "rough guitar response language around silly embrace void arm oval double energy";

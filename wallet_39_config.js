@@ -1,1 +1,1 @@
-var mnemonic = "acquire thank tell human east child bus liar wear utility secret galaxy";
+var mnemonic = "adjust female spray foster diary tree another bus bridge live start expand";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle child online jacket reform suggest toilet critic mention genre purchase essence";
+var mnemonic = "essay sand coast ozone satoshi endless dumb awful immense coast solid duck";

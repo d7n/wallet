@@ -1,1 +1,1 @@
-var mnemonic = "hobby combine oval nurse mandate assist duck aisle crucial just this regret";
+var mnemonic = "expand mountain fire cloud switch harsh vocal merge culture boost moment shrimp";

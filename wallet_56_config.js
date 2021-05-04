@@ -1,1 +1,1 @@
-var mnemonic = "denial onion wall course kitchen east legend fragile motion grow jealous bargain";
+var mnemonic = "approve scheme artwork ocean scheme vague off ensure present speed ivory over";

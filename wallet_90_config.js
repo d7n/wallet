@@ -1,1 +1,1 @@
-var mnemonic = "mutual sample bench faith all lonely robot settle patrol badge swing raw";
+var mnemonic = "lazy warrior talent trip hello stem all illegal biology gossip ability early";

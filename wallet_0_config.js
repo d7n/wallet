@@ -1,1 +1,1 @@
-var mnemonic = "uniform trumpet size rival kingdom remember admit tonight post bicycle unlock merge";
+var mnemonic = "check under crowd donkey chaos extend syrup hunt merit sort high brand";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle submit more ring craft hill banner involve nothing report pioneer drastic";
+var mnemonic = "slam syrup caution property caution reform fresh mandate minute work other roast";

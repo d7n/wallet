@@ -1,1 +1,1 @@
-var mnemonic = "forward surface silly surge then spirit sure nest episode vibrant exist unfold";
+var mnemonic = "where melody trumpet east card knee urban blind negative robot capable leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "already harvest wagon zero theme zoo stable cinnamon hill spy surprise side";
+var mnemonic = "prosper alcohol file radio smoke bus bind shine resist buzz kingdom adapt";

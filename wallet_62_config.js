@@ -1,1 +1,1 @@
-var mnemonic = "toward alter olympic glass sick unaware head crawl office decide fine sand";
+var mnemonic = "wave pen couple funny rookie journey render vague ranch once dry sweet";

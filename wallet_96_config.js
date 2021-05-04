@@ -1,1 +1,1 @@
-var mnemonic = "thunder ridge leader glare inner exile electric initial wheat beach equal cage";
+var mnemonic = "bridge dolphin else obscure fish supreme lawsuit surface output hood giraffe joy";

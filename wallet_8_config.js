@@ -1,1 +1,1 @@
-var mnemonic = "foster acquire alpha cream oppose soft escape oxygen memory harbor elite position";
+var mnemonic = "steel define property useful way renew index legend dance oval fluid wealth";

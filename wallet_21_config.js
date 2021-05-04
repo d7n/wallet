@@ -1,1 +1,1 @@
-var mnemonic = "impose basket step drill gas similar prefer food dress point arm menu";
+var mnemonic = "crystal click weapon satisfy priority marine fun found south stock decorate author";

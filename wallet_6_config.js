@@ -1,1 +1,1 @@
-var mnemonic = "umbrella wrong leave coin blush vast couch innocent find labor smart fragile";
+var mnemonic = "insane tongue absent below circle choose pistol sell glide midnight digital this";

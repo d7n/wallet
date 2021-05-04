@@ -1,1 +1,1 @@
-var mnemonic = "indicate entry still mimic airport hat basic grape smile junior garden until";
+var mnemonic = "oxygen best reunion tide cabin arctic taxi fruit six margin increase robust";

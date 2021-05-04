@@ -1,1 +1,1 @@
-var mnemonic = "popular pizza spray giggle unique luggage million crime collect undo derive when";
+var mnemonic = "orphan board differ modify police mosquito vapor huge awesome float climb alter";

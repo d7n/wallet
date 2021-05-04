@@ -1,1 +1,1 @@
-var mnemonic = "build melody adjust object radar pelican erupt echo plunge remind renew reason";
+var mnemonic = "question wheel impact crew book trophy concert maple blast inside mirror street";

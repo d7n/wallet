@@ -1,1 +1,1 @@
-var mnemonic = "damp scrub hard divert width talk income second melt boost luggage fantasy";
+var mnemonic = "brain flag that brisk stick certain manual canoe settle gather turkey cereal";

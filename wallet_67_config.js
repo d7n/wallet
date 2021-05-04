@@ -1,1 +1,1 @@
-var mnemonic = "endless peasant evoke great copper accident public parent surround injury tornado cloth";
+var mnemonic = "hello inform retire list mystery pizza hammer bubble seven jacket open merry";

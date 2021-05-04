@@ -1,1 +1,1 @@
-var mnemonic = "night expand pool tone utility spatial fold brick chimney apology reject hero";
+var mnemonic = "theme crack insect father hammer first butter obvious field attitude misery shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "note diamond alter purity cave amount lion horror fever route kit injury";
+var mnemonic = "wait cart season match future goose ramp luxury object silly settle symbol";

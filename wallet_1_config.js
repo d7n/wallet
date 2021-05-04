@@ -1,1 +1,1 @@
-var mnemonic = "stereo divide aisle deputy swap pen spoon course wonder bike burst palace";
+var mnemonic = "enforce web guide client exclude drive rain suggest dinner phone flame rule";

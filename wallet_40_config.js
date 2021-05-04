@@ -1,1 +1,1 @@
-var mnemonic = "pact shield patch liquid sphere neck convince garbage vendor kid joke blood";
+var mnemonic = "heart hour solid situate ahead pass retire kingdom scrub run notable punch";

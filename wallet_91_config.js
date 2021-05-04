@@ -1,1 +1,1 @@
-var mnemonic = "title mimic valve transfer wine improve actual tube web gorilla song student";
+var mnemonic = "wife universe teach table tiger flock arctic velvet age race ride fancy";

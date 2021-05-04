@@ -1,1 +1,1 @@
-var mnemonic = "trash hunt put engage human prevent steak bachelor grocery middle flock soap";
+var mnemonic = "cost quick group food sight six hidden sadness nut order lucky brown";

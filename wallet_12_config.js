@@ -1,1 +1,1 @@
-var mnemonic = "firm brave about squeeze differ dentist right ensure aunt dial grow goose";
+var mnemonic = "word very reflect foam orphan prepare point crater demise repair west snap";

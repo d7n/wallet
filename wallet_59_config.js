@@ -1,1 +1,1 @@
-var mnemonic = "ridge dirt express fury country dance scissors scan stone scale sorry sphere";
+var mnemonic = "gloom village dynamic civil arctic tunnel question cable slab nut jungle innocent";

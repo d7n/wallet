@@ -1,1 +1,1 @@
-var mnemonic = "gather awful three escape pyramid prefer mix west ordinary flag shop art";
+var mnemonic = "alarm tuna unknown beef rapid sleep flat upset change brick spoon thunder";

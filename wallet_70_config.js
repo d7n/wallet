@@ -1,1 +1,1 @@
-var mnemonic = "voice army flip pipe dry okay music worth voyage arrange dawn color";
+var mnemonic = "leaf cattle polar subway develop scrub anger glad thunder kangaroo car general";

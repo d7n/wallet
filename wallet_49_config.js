@@ -1,1 +1,1 @@
-var mnemonic = "situate vendor cliff fish spirit long deposit pretty narrow tuna fatal grab";
+var mnemonic = "moral embrace little rocket what popular script crash aim chat steak chapter";

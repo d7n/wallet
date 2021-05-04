@@ -1,1 +1,1 @@
-var mnemonic = "angle gun cannon educate creek tooth short smoke gain pretty fluid fog";
+var mnemonic = "student chicken swear occur blush cream minor coconut inner fabric chronic runway";

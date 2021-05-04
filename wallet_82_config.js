@@ -1,1 +1,1 @@
-var mnemonic = "sing security giant lottery skill useless gown age frozen nasty invite into";
+var mnemonic = "fog offer slide hedgehog else mistake chaos style enroll rival garlic cherry";

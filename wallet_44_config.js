@@ -1,1 +1,1 @@
-var mnemonic = "retreat lonely lion maze adult case rebuild envelope solve hobby also exhaust";
+var mnemonic = "boat muffin virus chuckle gentle ice south mystery flee away similar tiger";
