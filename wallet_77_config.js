@@ -1,1 +1,1 @@
-var mnemonic = "giggle pen glass beyond garage tool dinner inflict circle course giant broken";
+var mnemonic = "ramp ask dial glove solve height work race sand wasp song daughter";

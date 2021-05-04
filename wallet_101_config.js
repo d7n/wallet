@@ -1,1 +1,1 @@
-var mnemonic = "sentence hollow cereal leaf modify top flower reveal advice venture patch lemon";
+var mnemonic = "express blood goat cricket vague under peasant kite frequent stand proud exhibit";

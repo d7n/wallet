@@ -1,1 +1,1 @@
-var mnemonic = "mammal boring admit vicious dove warrior churn much violin farm bottom pepper";
+var mnemonic = "medal outer above evil crawl symbol culture grab asset quit wrong movie";

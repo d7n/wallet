@@ -1,1 +1,1 @@
-var mnemonic = "cereal solid donor fluid hope jealous fame wrist project stuff silk spend";
+var mnemonic = "carpet deny choose delay check uniform allow trend volcano more dice retire";

@@ -1,1 +1,1 @@
-var mnemonic = "dinner liar erode sibling champion sock barrel donkey laptop state track thing";
+var mnemonic = "bag digital absurd voyage change prosper major leopard daring aim artwork portion";

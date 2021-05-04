@@ -1,1 +1,1 @@
-var mnemonic = "limb sweet royal guitar disease width useful crash soul two poem ocean";
+var mnemonic = "fame brown idle upper city please heavy gun easily gold purse cement";

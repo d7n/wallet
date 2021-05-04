@@ -1,1 +1,1 @@
-var mnemonic = "toilet ostrich miracle rule robot topic slam open target sample host project";
+var mnemonic = "blossom dish refuse solar tomato light that siege veteran noise order such";

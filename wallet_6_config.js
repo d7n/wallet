@@ -1,1 +1,1 @@
-var mnemonic = "mail torch maximum nuclear seed fresh wine rain tube chicken dad decorate";
+var mnemonic = "fiber crawl company custom column notable duty merge candy curve coyote excess";

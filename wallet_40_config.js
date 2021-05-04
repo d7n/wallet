@@ -1,1 +1,1 @@
-var mnemonic = "put isolate vanish follow pitch ceiling west inject blush news series common";
+var mnemonic = "dirt fatal lizard disorder laugh nest soap cushion okay tiny address wet";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi trend lazy prepare donor hip hunt play crucial this siege hazard";
+var mnemonic = "tone off stable word main park gate kind pizza lens secret spike";

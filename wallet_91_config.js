@@ -1,1 +1,1 @@
-var mnemonic = "symptom visa junior snake bless file day pattern until drastic evoke patient";
+var mnemonic = "wedding olive series raven remind coin snake tissue net digital add apology";

@@ -1,1 +1,1 @@
-var mnemonic = "devote face spare wink clutch talk spray borrow ramp faint ramp upset";
+var mnemonic = "husband canal swim machine want chapter slide grief inner shell sister lonely";

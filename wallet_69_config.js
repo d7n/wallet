@@ -1,1 +1,1 @@
-var mnemonic = "dad pet broccoli odor want solve exotic slim hotel deny runway gate";
+var mnemonic = "other enrich weird shine news ribbon detail outdoor stool fun input piano";

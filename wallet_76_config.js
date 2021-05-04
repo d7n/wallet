@@ -1,1 +1,1 @@
-var mnemonic = "merge stay dirt level grass tenant follow deliver arctic edit crowd assume";
+var mnemonic = "rabbit metal argue apple always often sand grocery kid taste solve vault";

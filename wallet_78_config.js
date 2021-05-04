@@ -1,1 +1,1 @@
-var mnemonic = "person asthma lounge always bounce tornado stem effort unable isolate uphold jaguar";
+var mnemonic = "group bachelor below typical view bring unhappy divert sleep beyond foam dinner";

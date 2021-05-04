@@ -1,1 +1,1 @@
-var mnemonic = "document steak utility slide detect cycle sheriff sister material ill need bring";
+var mnemonic = "rescue youth dream april know cart goat access scheme violin text ketchup";

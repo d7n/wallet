@@ -1,1 +1,1 @@
-var mnemonic = "scare dawn unique aunt feature jump sample bullet since glow practice defense";
+var mnemonic = "eye disagree piano lady youth retreat butter spice giant fade canvas nature";

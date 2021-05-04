@@ -1,1 +1,1 @@
-var mnemonic = "meat bright cousin face tornado gallery hawk lizard eyebrow midnight cradle chaos";
+var mnemonic = "much cherry copper rose pizza promote torch sugar split zoo there gloom";

@@ -1,1 +1,1 @@
-var mnemonic = "oven enforce cruel income arrange sustain tunnel extend ignore deal library dad";
+var mnemonic = "illness six interest work banner cargo film inner ordinary nuclear waste shed";

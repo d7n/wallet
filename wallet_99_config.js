@@ -1,1 +1,1 @@
-var mnemonic = "letter bridge flavor math scheme grass tide orphan easy play license beach";
+var mnemonic = "way stuff cruise insane domain crop drill derive ramp accuse cost sort";

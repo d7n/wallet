@@ -1,1 +1,1 @@
-var mnemonic = "miracle torch anxiety gesture confirm safe beef husband ripple guitar note chat";
+var mnemonic = "essay alpha eagle upgrade frozen sleep tip grit city fish quote travel";

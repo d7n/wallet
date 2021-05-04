@@ -1,1 +1,1 @@
-var mnemonic = "sibling math unknown bid roof fatigue direct august mushroom six slow say";
+var mnemonic = "mountain ozone poet voice flight tree turn melt real ranch stable spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy use claim write kingdom soft fall dutch wrist fox cause acoustic";
+var mnemonic = "plate series angry parade attend embark ancient slice ritual pyramid tobacco curtain";

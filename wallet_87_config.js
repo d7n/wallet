@@ -1,1 +1,1 @@
-var mnemonic = "such approve resist source admit bleak antenna laptop news ostrich ostrich that";
+var mnemonic = "earn candy retire wish canyon company huge reflect swarm rule leopard decide";

@@ -1,1 +1,1 @@
-var mnemonic = "joke muscle negative sudden hint valley hope dance someone mansion range chef";
+var mnemonic = "glide actress barrel onion enough stand bag chicken soda put sunny caution";

@@ -1,1 +1,1 @@
-var mnemonic = "link decide breeze disorder term emerge join cup female acid tomorrow spread";
+var mnemonic = "hint stereo panther congress escape faculty lumber couple merge anxiety stumble surprise";

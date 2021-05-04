@@ -1,1 +1,1 @@
-var mnemonic = "edge paddle spare undo animal vacant robot elbow that call involve hunt";
+var mnemonic = "advice enact steel genre palm few assault cart birth grit conduct cushion";

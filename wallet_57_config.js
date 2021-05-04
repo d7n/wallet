@@ -1,1 +1,1 @@
-var mnemonic = "awkward regret inform glory catch blind unusual champion address engage obey oil";
+var mnemonic = "exhibit spike bring decide throw much pigeon sell skill plastic noise sport";

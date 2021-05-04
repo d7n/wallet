@@ -1,1 +1,1 @@
-var mnemonic = "twelve rebel usage sure zoo tray forget dish soul ball design horror";
+var mnemonic = "dutch glow ankle hard bridge attend seven people forget shove screen hamster";

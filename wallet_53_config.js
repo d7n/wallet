@@ -1,1 +1,1 @@
-var mnemonic = "indoor input plunge shrug donkey few mother faith volume dream cage bike";
+var mnemonic = "boss stove olive electric diamond ritual switch cattle inspire all expect accident";

@@ -1,1 +1,1 @@
-var mnemonic = "solid angle pen need inhale casino bunker then sudden type worry distance";
+var mnemonic = "click gather decline common torch art design that trip absorb maple off";

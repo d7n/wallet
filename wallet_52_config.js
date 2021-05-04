@@ -1,1 +1,1 @@
-var mnemonic = "leisure october view direct decrease scissors scheme response domain surface embrace maximum";
+var mnemonic = "stock rookie view pioneer suggest actor broom result glare cart convince alert";

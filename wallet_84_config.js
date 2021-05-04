@@ -1,1 +1,1 @@
-var mnemonic = "input inhale river unveil student topic mass blanket attack voice job borrow";
+var mnemonic = "stick quote pilot point juice animal tortoise dilemma sure rug horn photo";

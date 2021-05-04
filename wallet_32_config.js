@@ -1,1 +1,1 @@
-var mnemonic = "answer ritual process piece shove crush truck canvas defense kiss common ten";
+var mnemonic = "quick notice orbit gesture tornado suffer rare transfer water panic action nothing";

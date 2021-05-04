@@ -1,1 +1,1 @@
-var mnemonic = "chronic visual loop lizard gown play riot rich vote faint ginger sort";
+var mnemonic = "dial diamond cloth actress ancient pole sauce beyond whale vessel dish eight";

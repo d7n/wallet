@@ -1,1 +1,1 @@
-var mnemonic = "cover mystery put diesel reduce tennis giggle chunk purity wide fold theme";
+var mnemonic = "regular find bulk basket curtain human hole gate reject access staff salad";

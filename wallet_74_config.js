@@ -1,1 +1,1 @@
-var mnemonic = "gold know worry then afford riot lonely mule dilemma certain inhale tribe";
+var mnemonic = "debate social skirt gesture truth utility mercy uncover assume unusual icon clerk";

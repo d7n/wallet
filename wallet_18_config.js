@@ -1,1 +1,1 @@
-var mnemonic = "tennis unable isolate cruel time wrestle utility detect valve grain great forward";
+var mnemonic = "fatigue bronze shoot little piece also chunk doctor payment push quantum under";

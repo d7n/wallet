@@ -1,1 +1,1 @@
-var mnemonic = "leader snake armor magnet setup speak record ocean voice spawn enlist alarm";
+var mnemonic = "muffin side erosion response melt strong track island damp impact legal patrol";

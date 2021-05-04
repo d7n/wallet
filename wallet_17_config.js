@@ -1,1 +1,1 @@
-var mnemonic = "angle vicious repeat rose salute wheat bid tumble license fog relief guess";
+var mnemonic = "dash host brand bright mushroom blind slender lady use grab photo mutual";

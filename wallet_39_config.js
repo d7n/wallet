@@ -1,1 +1,1 @@
-var mnemonic = "regular blame neck flavor noodle clown plug custom welcome census motor vacuum";
+var mnemonic = "unit gravity begin squirrel trash twist act fiscal crowd spike system cup";

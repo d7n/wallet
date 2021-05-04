@@ -1,1 +1,1 @@
-var mnemonic = "auto talk later despair destroy achieve announce frown bitter craft worry nest";
+var mnemonic = "luggage kitten embrace limb eternal catalog apology nation chuckle eager road satisfy";

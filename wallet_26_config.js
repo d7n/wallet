@@ -1,1 +1,1 @@
-var mnemonic = "option similar waste firm inquiry lumber shop live trim federal move gym";
+var mnemonic = "develop enhance employ grunt jazz milk electric exact source face equal climb";

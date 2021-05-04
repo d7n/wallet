@@ -1,1 +1,1 @@
-var mnemonic = "supply purchase exhibit tomorrow keep truly ceiling hammer memory feel denial eternal";
+var mnemonic = "about broken steel fence mechanic engine link explain split cotton ecology burden";

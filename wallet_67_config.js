@@ -1,1 +1,1 @@
-var mnemonic = "often private swing angle elder deposit favorite monkey peace powder giggle minimum";
+var mnemonic = "answer popular general trade judge notice column ladder rent key iron cheap";

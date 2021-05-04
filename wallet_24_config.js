@@ -1,1 +1,1 @@
-var mnemonic = "tag ripple rebel lion pole future master electric control siege owner purpose";
+var mnemonic = "habit private abstract cram green taste zero snake once earn pupil crane";

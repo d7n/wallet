@@ -1,1 +1,1 @@
-var mnemonic = "robot village circle will ramp timber climb slim velvet steel inner fog";
+var mnemonic = "bless famous street winter hub token latin husband river urban check bargain";

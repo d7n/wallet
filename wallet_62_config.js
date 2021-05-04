@@ -1,1 +1,1 @@
-var mnemonic = "wreck knee alcohol ill tag lunch online crush famous clock coyote city";
+var mnemonic = "wink vessel purpose permit distance divert struggle cat female change cram actor";

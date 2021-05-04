@@ -1,1 +1,1 @@
-var mnemonic = "manual choice advance deposit agree enemy tank dinosaur favorite nerve possible angry";
+var mnemonic = "panther laugh february garlic glide cave ramp thought rocket isolate double leg";

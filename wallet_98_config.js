@@ -1,1 +1,1 @@
-var mnemonic = "lumber blast upon add twin armor age sketch lunch record romance unveil";
+var mnemonic = "hood feel crop hole album express input cute unveil depend elder rib";

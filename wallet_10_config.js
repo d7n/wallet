@@ -1,1 +1,1 @@
-var mnemonic = "myself heavy inspire raw galaxy august endorse knife forum leisure announce average";
+var mnemonic = "forum stove sleep clock ladder federal cradle ranch raven tissue elder repair";

@@ -1,1 +1,1 @@
-var mnemonic = "inch click behave ozone best list life dad cricket recipe magic scrap";
+var mnemonic = "crater inflict regular luggage property diamond twin flash mansion whisper gas crumble";

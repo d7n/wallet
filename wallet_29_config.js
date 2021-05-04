@@ -1,1 +1,1 @@
-var mnemonic = "parent toy share brown replace damp olympic clerk unfair grant trade damage";
+var mnemonic = "couple volcano cousin inherit home vote dolphin luxury fence adult couple nature";

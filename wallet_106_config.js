@@ -1,1 +1,1 @@
-var mnemonic = "wire brisk invest hello winter rate stadium category autumn hockey belt youth";
+var mnemonic = "damage obtain shoulder trend gift clown finger scale school cute school pole";

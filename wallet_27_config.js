@@ -1,1 +1,1 @@
-var mnemonic = "feature post enroll lesson peasant summer ramp slot fuel transfer drink confirm";
+var mnemonic = "direct casual occur person boring noise clump web curious book grit timber";

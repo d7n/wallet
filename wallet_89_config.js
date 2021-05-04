@@ -1,1 +1,1 @@
-var mnemonic = "farm outer extra project wood zero resist lens journey other puzzle arrest";
+var mnemonic = "evolve wool warm vault fame faint fix sport card once sound skill";

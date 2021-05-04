@@ -1,1 +1,1 @@
-var mnemonic = "eagle sheriff access permit pumpkin bullet jazz maze cool giant worth lottery";
+var mnemonic = "excite cherry edge cotton check drum cute recipe side mother coffee boil";

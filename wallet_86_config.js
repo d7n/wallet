@@ -1,1 +1,1 @@
-var mnemonic = "sail accuse hold bachelor space prison local come normal pyramid improve claim";
+var mnemonic = "fury spend critic pull scheme pride burst sustain own admit usual possible";

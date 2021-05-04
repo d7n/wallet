@@ -1,1 +1,1 @@
-var mnemonic = "pool certain little muffin false choose oyster tomato talent pen glare employ";
+var mnemonic = "lift unhappy cabbage neglect olive carbon recycle pizza asthma comfort unusual cave";

@@ -1,1 +1,1 @@
-var mnemonic = "bone cruise fence vapor sunny asset movie orbit crime swear heavy shield";
+var mnemonic = "clarify media ice address hill hurt woman burger bracket ensure turkey almost";

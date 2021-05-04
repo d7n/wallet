@@ -1,1 +1,1 @@
-var mnemonic = "girl tuna square fiction offer crucial jealous erode casino buddy give lamp";
+var mnemonic = "chronic seminar island crazy pilot unknown album reject lock frost robot indicate";

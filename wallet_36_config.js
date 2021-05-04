@@ -1,1 +1,1 @@
-var mnemonic = "snack celery adjust crime clean goat business paper year then science spatial";
+var mnemonic = "describe planet brick lazy daughter curious walnut inside noble olympic scene gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "trial salmon toward enroll find dice relax lumber want razor cruel actress";
+var mnemonic = "vast bundle point fossil option tag album code eager acid crucial ask";

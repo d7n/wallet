@@ -1,1 +1,1 @@
-var mnemonic = "wasp monkey odor clean prevent quote urge sense couch potato agent clock";
+var mnemonic = "insect rookie despair leopard foam common gun hurt vanish call bulb sign";

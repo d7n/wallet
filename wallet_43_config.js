@@ -1,1 +1,1 @@
-var mnemonic = "garbage stick erosion spell attitude cycle text situate basic vessel machine level";
+var mnemonic = "price attitude jazz oven slow offer siren palace message concert frequent uncover";

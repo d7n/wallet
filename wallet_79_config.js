@@ -1,1 +1,1 @@
-var mnemonic = "brisk trial skate blood rose album journey stable type grief exile napkin";
+var mnemonic = "common burst mansion purse asthma town rude supreme where slide betray ten";

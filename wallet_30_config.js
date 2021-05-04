@@ -1,1 +1,1 @@
-var mnemonic = "achieve morning above expire piano rabbit library tape property buddy wage spend";
+var mnemonic = "voyage hero comfort share reform country truck hidden basket parade sphere tool";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce note pitch cereal year owner eight open focus place rather mercy";
+var mnemonic = "film front then royal coin blue series disorder sight enrich loyal book";

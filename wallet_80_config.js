@@ -1,1 +1,1 @@
-var mnemonic = "time glass someone famous spell gain razor shrimp smile defense original broken";
+var mnemonic = "marine swim ritual alley festival divide message subway office naive spike agent";

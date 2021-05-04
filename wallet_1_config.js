@@ -1,1 +1,1 @@
-var mnemonic = "myself exist step utility enhance multiply cliff brisk pluck winter team canvas";
+var mnemonic = "taxi list agree scan deliver team major screen boring number rather journey";

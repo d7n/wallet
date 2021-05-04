@@ -1,1 +1,1 @@
-var mnemonic = "bless later uncle drift eight predict vendor piano embark beef fun twice";
+var mnemonic = "wing other route invite pipe during thank chicken camera prosper broccoli shuffle";

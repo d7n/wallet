@@ -1,1 +1,1 @@
-var mnemonic = "tone correct short receive injury document coral peanut exchange mind veteran step";
+var mnemonic = "silly car stage ginger tape manage crime replace client vanish assault pitch";

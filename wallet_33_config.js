@@ -1,1 +1,1 @@
-var mnemonic = "sad unusual anxiety clown donate crucial symptom panda art afraid ask cannon";
+var mnemonic = "few ladder gym suit hope update aware silent interest miracle only question";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy scheme six kind wasp plate trend milk debris item two stock";
+var mnemonic = "creek ancient weather great clap aware truth fog budget such eternal swear";

@@ -1,1 +1,1 @@
-var mnemonic = "claim small execute engine flower blind angle ability ethics prison floor lyrics";
+var mnemonic = "collect waste fame soon tennis proof base awful chimney focus deer invest";

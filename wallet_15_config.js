@@ -1,1 +1,1 @@
-var mnemonic = "slender october gate mistake you orchard imitate gesture heavy advance firm mother";
+var mnemonic = "captain cancel icon forget unknown illness thrive slight turkey fantasy rapid add";

@@ -1,1 +1,1 @@
-var mnemonic = "easily tornado secret yard fork worth agent palace swap analyst people lumber";
+var mnemonic = "solid bottom tornado that view devote sunset east olive elephant owner size";

@@ -1,1 +1,1 @@
-var mnemonic = "pride mesh cradle ecology glide bubble script boy wood soda evolve video";
+var mnemonic = "spoon shadow hotel blood six maid copper wheat senior minute warrior valid";

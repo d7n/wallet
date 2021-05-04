@@ -1,1 +1,1 @@
-var mnemonic = "shop cool sheriff life tortoise hub impulse female erode coast bronze situate";
+var mnemonic = "cushion symbol permit blue explain victory gasp vibrant thumb copy female crop";

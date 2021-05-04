@@ -1,1 +1,1 @@
-var mnemonic = "pizza hair spread reflect very dose seminar priority oil damp detail hope";
+var mnemonic = "nose offer shadow strategy asset worry acid gift cliff dry whip couch";

@@ -1,1 +1,1 @@
-var mnemonic = "rather trend social bleak mother edge nominee drive glass since stage lesson";
+var mnemonic = "heart spice next select leg dad brush coin loop kite stereo key";

@@ -1,1 +1,1 @@
-var mnemonic = "unable famous grant mix dream resource violin ill can lift patrol despair";
+var mnemonic = "hurdle ocean secret economy dolphin view initial century thought harsh capable rural";

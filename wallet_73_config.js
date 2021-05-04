@@ -1,1 +1,1 @@
-var mnemonic = "grain duty eyebrow bulb match fire final distance hip victory mobile dismiss";
+var mnemonic = "index desert trap suspect only edit shove inquiry limb favorite strategy follow";

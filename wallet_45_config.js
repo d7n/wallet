@@ -1,1 +1,1 @@
-var mnemonic = "employ disease lake various citizen speak circle shell lounge north sleep jacket";
+var mnemonic = "ecology tower boy defense lab glare proud either west engage castle shove";

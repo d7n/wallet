@@ -1,1 +1,1 @@
-var mnemonic = "tuna wink snake similar sound valley north blush lazy tooth behave clock";
+var mnemonic = "slab affair average illness jazz beef color crunch meadow error nation innocent";

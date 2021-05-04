@@ -1,1 +1,1 @@
-var mnemonic = "lion state client nose upset robust item city spend stand beauty mixed";
+var mnemonic = "silver cup remind pool test phrase obvious patient label company jungle fire";

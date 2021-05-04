@@ -1,1 +1,1 @@
-var mnemonic = "fat suit parrot gown similar hungry gym umbrella cigar few sentence hello";
+var mnemonic = "document salad allow alpha fault age brisk quote pretty myself put eagle";
