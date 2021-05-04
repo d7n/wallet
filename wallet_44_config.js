@@ -1,1 +1,1 @@
-var mnemonic = "fun access cloud put novel copy effort history chuckle north hamster name";
+var mnemonic = "skull swallow they cousin ladder surround around chase tone gallery lamp broken";

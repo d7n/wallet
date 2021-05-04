@@ -1,1 +1,1 @@
-var mnemonic = "sponsor cement depart rifle grief matrix beyond adjust element envelope iron green";
+var mnemonic = "october broccoli regret burst bronze spice supreme dish half pulp earth early";

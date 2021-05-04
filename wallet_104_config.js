@@ -1,1 +1,1 @@
-var mnemonic = "flat purity off crime powder together vacant right extra away wait tube";
+var mnemonic = "nasty assault impose degree lawn scale alien december unfold sunset glimpse custom";

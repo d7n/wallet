@@ -1,1 +1,1 @@
-var mnemonic = "pull kid boy supply minute much garment ice alarm habit pony frog";
+var mnemonic = "fly animal verify win strike flush holiday owner original hand define frown";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage between cactus volume escape marine pioneer alert token announce nerve trend";
+var mnemonic = "emerge gospel simple nose rebel educate purity badge leopard damage exclude civil";

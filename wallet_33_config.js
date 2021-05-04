@@ -1,1 +1,1 @@
-var mnemonic = "retire cluster other spin injury scan blue script feel tissue enact mistake";
+var mnemonic = "brown devote sleep switch garden neglect total column guitar hour kiwi upper";

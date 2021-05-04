@@ -1,1 +1,1 @@
-var mnemonic = "act file total chat zebra slice permit clog close truly gallery swallow";
+var mnemonic = "elite exact ancient suit borrow time trigger pink pyramid earth cupboard check";

@@ -1,1 +1,1 @@
-var mnemonic = "young ordinary tide mercy ride stage crazy purity trade sign gift nature";
+var mnemonic = "camera mind clap sock episode parrot credit frequent tent blanket index verb";

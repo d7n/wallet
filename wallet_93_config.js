@@ -1,1 +1,1 @@
-var mnemonic = "bicycle jacket dumb work confirm purse topple awkward improve combine night arrest";
+var mnemonic = "scissors canal approve lottery code spirit polar course solar vacuum little want";

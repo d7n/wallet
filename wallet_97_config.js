@@ -1,1 +1,1 @@
-var mnemonic = "pencil exist drift voice fetch scan lemon release athlete brief inject family";
+var mnemonic = "music supply bridge cute captain garbage hat depth license salon blossom donkey";

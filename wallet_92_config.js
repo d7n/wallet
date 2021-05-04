@@ -1,1 +1,1 @@
-var mnemonic = "tell nice poverty door salad copper business panda process sing amount country";
+var mnemonic = "charge alone dirt spot try winner uncover miss skin onion endorse truth";

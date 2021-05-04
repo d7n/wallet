@@ -1,1 +1,1 @@
-var mnemonic = "giant length border become middle host tribe snack absent ecology say desert";
+var mnemonic = "permit interest tuna park more student click message regret segment patch glimpse";

@@ -1,1 +1,1 @@
-var mnemonic = "soup car stove trash hair blast arrest gain jewel absent enrich penalty";
+var mnemonic = "stereo fly yellow man season suggest range bottom enhance trick explain sausage";

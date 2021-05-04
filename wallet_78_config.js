@@ -1,1 +1,1 @@
-var mnemonic = "soul kitten link ask exile yard admit pride shrug cliff notable glance";
+var mnemonic = "february youth pottery mind announce adjust fox reveal key diet churn mixed";

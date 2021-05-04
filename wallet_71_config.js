@@ -1,1 +1,1 @@
-var mnemonic = "damage cupboard capital stomach leisure next round excuse horror liberty toast federal";
+var mnemonic = "naive swing fence ring donor office gym captain arrow burst casual live";

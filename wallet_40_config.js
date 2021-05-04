@@ -1,1 +1,1 @@
-var mnemonic = "bulk engine orphan fringe leader alley middle unique zone effort maximum sister";
+var mnemonic = "canyon wash dove unfold jacket dolphin warfare weekend crash mystery panic coil";

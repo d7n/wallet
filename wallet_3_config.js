@@ -1,1 +1,1 @@
-var mnemonic = "spoon over please six tribe leisure opinion indoor setup hire magnet like";
+var mnemonic = "hammer quarter edit minimum concert reason hand oppose woman knee audit team";

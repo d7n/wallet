@@ -1,1 +1,1 @@
-var mnemonic = "tunnel entry design female entry demise cake ripple aunt dash biology swift";
+var mnemonic = "deputy resemble shove butter rice hurt casino source surface hood found ramp";

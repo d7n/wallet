@@ -1,1 +1,1 @@
-var mnemonic = "immune elder dignity exchange push hybrid scale describe asset report escape vast";
+var mnemonic = "west day machine erase human crunch plunge enact health brown vanish drastic";

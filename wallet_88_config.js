@@ -1,1 +1,1 @@
-var mnemonic = "stage execute artist gauge stick owner snap air elevator provide mandate unfair";
+var mnemonic = "throw glad lounge obey agree program scrap toward awesome diagram stamp element";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter orchard explain learn play daughter island evolve athlete midnight grain neither";
+var mnemonic = "armed issue effort radar nothing green repeat floor ghost dolphin ticket neck";

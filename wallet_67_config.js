@@ -1,1 +1,1 @@
-var mnemonic = "toast impulse join egg pull concert together together shoe couch where worry";
+var mnemonic = "lock panic crucial yellow decline must head million vacuum keep slush piece";

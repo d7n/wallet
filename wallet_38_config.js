@@ -1,1 +1,1 @@
-var mnemonic = "diamond copper flip globe kick reward ensure enrich modify obvious resemble wine";
+var mnemonic = "coconut solar motor open vapor timber elbow front brother horn garden must";

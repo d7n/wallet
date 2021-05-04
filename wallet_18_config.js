@@ -1,1 +1,1 @@
-var mnemonic = "tuna hundred twice allow master asthma horror bind country safe parade happy";
+var mnemonic = "cushion horror prevent candy bottom crouch sunset swap blame squirrel gun hamster";

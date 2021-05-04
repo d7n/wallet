@@ -1,1 +1,1 @@
-var mnemonic = "old glue cricket easily february hour nurse party brother idle rotate curious";
+var mnemonic = "sunset load ride search bitter verify improve margin mixture animal ankle cup";

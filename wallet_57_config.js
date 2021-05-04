@@ -1,1 +1,1 @@
-var mnemonic = "frame basic rural pause derive team repeat woman spare language neither oyster";
+var mnemonic = "salt kind kiss foil walnut illegal script bar wave leader replace mad";

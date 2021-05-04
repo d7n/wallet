@@ -1,1 +1,1 @@
-var mnemonic = "inspire ginger rate zoo idle resist lab satoshi small huge hazard move";
+var mnemonic = "arrive impulse budget unit text salad erupt middle night avoid fault jazz";

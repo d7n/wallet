@@ -1,1 +1,1 @@
-var mnemonic = "daring orchard pill potato learn street creek weapon click scorpion success provide";
+var mnemonic = "document accident can gentle typical need paper fragile spawn cancel clap focus";

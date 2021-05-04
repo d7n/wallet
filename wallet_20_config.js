@@ -1,1 +1,1 @@
-var mnemonic = "false garment weather unaware deputy vacant denial zoo collect depart update table";
+var mnemonic = "prosper welcome torch slogan edge churn sunset face night female globe scale";

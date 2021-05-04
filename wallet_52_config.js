@@ -1,1 +1,1 @@
-var mnemonic = "cactus lizard palm awful slab draft punch segment shrimp melt burger manage";
+var mnemonic = "tuna october fossil sight only wave mesh glue morning balcony piano chicken";

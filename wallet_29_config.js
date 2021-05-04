@@ -1,1 +1,1 @@
-var mnemonic = "change wrestle long seek noble pioneer siren glance leg snow ketchup wing";
+var mnemonic = "symptom desk resemble bean narrow enforce ordinary when naive dune group field";

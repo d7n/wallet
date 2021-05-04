@@ -1,1 +1,1 @@
-var mnemonic = "talent robust dance clip sock try animal melt peasant trial aspect wood";
+var mnemonic = "wall ceiling mouse solid cry blur solid shift rug nest inform crouch";

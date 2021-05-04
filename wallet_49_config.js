@@ -1,1 +1,1 @@
-var mnemonic = "consider welcome way want diesel this silver believe december skill absent tent";
+var mnemonic = "snow life endorse neck flash cruel calm during indicate busy staff nest";

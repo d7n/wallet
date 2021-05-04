@@ -1,1 +1,1 @@
-var mnemonic = "bench rain among urge surface upset ten craft turtle broom list lobster";
+var mnemonic = "glad need security satoshi degree exit album gun solid pencil ketchup cross";

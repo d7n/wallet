@@ -1,1 +1,1 @@
-var mnemonic = "ritual daring moment slow slight great type cactus toddler staff basket foil";
+var mnemonic = "hen gentle iron romance thumb scan view dismiss rate super merge agree";

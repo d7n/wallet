@@ -1,1 +1,1 @@
-var mnemonic = "road kid club train degree castle chaos version network keep boil sort";
+var mnemonic = "menu waste upon skate favorite position recipe alpha solar various desert cake";

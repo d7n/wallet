@@ -1,1 +1,1 @@
-var mnemonic = "upper blush joy piece track project paper forest buddy fiber void knife";
+var mnemonic = "panel crawl april unhappy siren pretty path reward claim high much blame";

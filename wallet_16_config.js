@@ -1,1 +1,1 @@
-var mnemonic = "tennis flat champion game extend brass leader lecture volume cargo obey route";
+var mnemonic = "they gift rapid glow stem damage true lemon green shop outside pelican";

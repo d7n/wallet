@@ -1,1 +1,1 @@
-var mnemonic = "action mad bridge response radar width topple wet chaos ensure used logic";
+var mnemonic = "lady sell name announce fetch decide retire network grain act million able";

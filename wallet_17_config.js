@@ -1,1 +1,1 @@
-var mnemonic = "average portion leader among govern chunk oppose foil floor gun sudden since";
+var mnemonic = "such lend blood parent collect barely glory come corn journey when excess";

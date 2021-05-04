@@ -1,1 +1,1 @@
-var mnemonic = "goddess tiger glass next banner apple seven clay soup topic mansion shine";
+var mnemonic = "segment test bitter salute marine float broom option task repair reopen eight";

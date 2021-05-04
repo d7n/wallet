@@ -1,1 +1,1 @@
-var mnemonic = "melody group fall runway rebuild improve lazy turn lion come attract machine";
+var mnemonic = "dwarf swing universe cruise vapor husband energy mammal fit lake ramp deal";

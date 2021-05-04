@@ -1,1 +1,1 @@
-var mnemonic = "home mercy insane shoe grass multiply nuclear prison accident bus repeat talk";
+var mnemonic = "floor outer inspire cabin gauge visit memory raw guard athlete away weird";

@@ -1,1 +1,1 @@
-var mnemonic = "solution run indoor matter pond horn fetch choose hello stadium play oblige";
+var mnemonic = "like pause artefact resemble survey cart balance glare giraffe youth orchard comic";

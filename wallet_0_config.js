@@ -1,1 +1,1 @@
-var mnemonic = "second peasant husband razor crisp wage mirror fit peasant various cinnamon seminar";
+var mnemonic = "shy float crater adapt favorite cake pledge random pool demise trip distance";

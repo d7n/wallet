@@ -1,1 +1,1 @@
-var mnemonic = "arctic make mother lamp mechanic pear prefer result trap pistol stadium owner";
+var mnemonic = "harbor bitter knock custom travel jacket brush tomato play shine seed heart";

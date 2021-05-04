@@ -1,1 +1,1 @@
-var mnemonic = "glad leopard taste piano quality bottom burst wheel sing inflict victory coyote";
+var mnemonic = "margin auction middle all basket rebel harbor glow ghost rival vocal feel";

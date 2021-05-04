@@ -1,1 +1,1 @@
-var mnemonic = "nerve little art rookie long zone level fringe lounge you swear joy";
+var mnemonic = "approve old skill truck bronze health used cloud alarm find brave force";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake differ arrest adult chalk width crucial state phrase proud blind chuckle";
+var mnemonic = "rack exhibit beach spread call engage august often alter crime senior surround";

@@ -1,1 +1,1 @@
-var mnemonic = "hint depart inspire ancient use wear relax connect science memory maximum inch";
+var mnemonic = "like table chalk tribe diagram labor answer clip pudding bless rare curious";

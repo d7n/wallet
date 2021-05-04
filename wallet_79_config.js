@@ -1,1 +1,1 @@
-var mnemonic = "rare series depend giant trick tree world knee minute effort kangaroo toss";
+var mnemonic = "update maze motor safe curve often wreck inmate organ unfold charge ghost";

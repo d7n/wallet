@@ -1,1 +1,1 @@
-var mnemonic = "lemon metal funny opera network range hurt other raven track exercise bargain";
+var mnemonic = "lock derive grit liberty subway have tide resource fuel wisdom glory horse";

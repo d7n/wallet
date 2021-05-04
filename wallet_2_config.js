@@ -1,1 +1,1 @@
-var mnemonic = "glass warfare better dial ahead rain soft envelope quick tide diet donkey";
+var mnemonic = "claim act occur soft town afford limb enable input neck frown pave";

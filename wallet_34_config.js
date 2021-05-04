@@ -1,1 +1,1 @@
-var mnemonic = "answer split either tent dish one eagle knee machine mixed club seed";
+var mnemonic = "child picnic above fox piano butter mobile spray insane toy focus local";

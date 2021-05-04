@@ -1,1 +1,1 @@
-var mnemonic = "lobster quiz urge patch harvest dance surge diary nominee sustain coach embark";
+var mnemonic = "flat island tortoise inflict aware brick amateur fade august worry census wealth";

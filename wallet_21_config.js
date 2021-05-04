@@ -1,1 +1,1 @@
-var mnemonic = "skin blade robot toilet crack trouble trouble load tuna intact dove oak";
+var mnemonic = "butter misery same unaware swear draw party around economy open skin spice";

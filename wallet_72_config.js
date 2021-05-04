@@ -1,1 +1,1 @@
-var mnemonic = "carpet wing bomb violin never enroll lion drive reward debris round address";
+var mnemonic = "acid speed link another move exclude able gospel false now grow inject";

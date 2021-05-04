@@ -1,1 +1,1 @@
-var mnemonic = "absorb angry snake shed pretty brush embark sail label observe off casual";
+var mnemonic = "nation wall reveal topic present skill head vast sword skull shoot salad";

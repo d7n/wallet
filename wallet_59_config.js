@@ -1,1 +1,1 @@
-var mnemonic = "mix action manage expire phrase bitter couch envelope walnut manual speak notice";
+var mnemonic = "buffalo vacuum under transfer whip remove affair pig erase leaf mad cry";

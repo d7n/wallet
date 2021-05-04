@@ -1,1 +1,1 @@
-var mnemonic = "sunset grief knock surround piece atom grant feed symbol scatter pause unlock";
+var mnemonic = "baby slice ginger smile key security post street bulb easy faint shallow";

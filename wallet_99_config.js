@@ -1,1 +1,1 @@
-var mnemonic = "chef exile mixture road note mouse three physical obey circle okay manual";
+var mnemonic = "object poem tent goddess pigeon range audit hip liquid trip guide define";

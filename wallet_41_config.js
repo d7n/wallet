@@ -1,1 +1,1 @@
-var mnemonic = "common subway thumb admit eager bean effort coast invite grocery struggle business";
+var mnemonic = "century phrase erosion orient social duck choice fringe orange neither other change";

@@ -1,1 +1,1 @@
-var mnemonic = "portion promote melody item wait visual clap abuse report artwork remind real";
+var mnemonic = "raccoon gym decrease blame sphere pipe other cricket album robust fan laptop";

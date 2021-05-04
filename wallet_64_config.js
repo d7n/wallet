@@ -1,1 +1,1 @@
-var mnemonic = "harbor cable guard true duck rookie joke equip moment viable fall dilemma";
+var mnemonic = "video silk order manage spin endless theme myth balcony sudden size nominee";

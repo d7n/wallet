@@ -1,1 +1,1 @@
-var mnemonic = "pistol define catch inherit cause odor pupil level inspire kiwi sunny father";
+var mnemonic = "skill valve into grant found talk boring fame axis taste lucky patient";

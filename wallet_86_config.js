@@ -1,1 +1,1 @@
-var mnemonic = "tape custom street latin useful credit gold bounce wrist stable innocent pipe";
+var mnemonic = "shed belt fiscal special topic hello leopard craft toast armed wrap toward";

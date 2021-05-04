@@ -1,1 +1,1 @@
-var mnemonic = "version moral ill hand ahead auction obvious seed message reward pledge stem";
+var mnemonic = "connect hard zebra wealth carpet hire enter step pumpkin connect flavor motor";

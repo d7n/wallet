@@ -1,1 +1,1 @@
-var mnemonic = "eagle siege enough gesture cargo zero shy plastic century rose lion bag";
+var mnemonic = "luggage october unusual cloth glue velvet enough barrel amazing build wage they";

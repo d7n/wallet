@@ -1,1 +1,1 @@
-var mnemonic = "fuel diary there okay awkward birth humble wasp follow hurry trigger riot";
+var mnemonic = "result shift muffin cage razor warm similar owner grow scatter clarify waste";

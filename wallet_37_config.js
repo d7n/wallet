@@ -1,1 +1,1 @@
-var mnemonic = "whisper grief steel glow record devote moon isolate sword protect sudden senior";
+var mnemonic = "fee shadow jelly live report thing defy soup major say liberty immense";

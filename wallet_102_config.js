@@ -1,1 +1,1 @@
-var mnemonic = "grunt enhance scrub card dynamic mention master sad rich maximum resist add";
+var mnemonic = "height crack pride neutral faculty urge mistake drive you loop fringe surround";

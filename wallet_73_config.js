@@ -1,1 +1,1 @@
-var mnemonic = "average galaxy holiday twice relax venture project wool lunch culture almost slide";
+var mnemonic = "fix file mind confirm initial fury hidden radio timber stem party theory";

@@ -1,1 +1,1 @@
-var mnemonic = "regular school impose circle gaze wonder scheme portion bomb cluster dumb vital";
+var mnemonic = "laugh illegal stove double knock armor whisper stadium chicken reopen rigid alert";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist scale garlic thrive parade giant primary girl catch siege stock twin";
+var mnemonic = "river genre enjoy caution blind spend diesel glimpse father olive pluck diagram";

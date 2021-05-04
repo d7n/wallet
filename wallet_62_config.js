@@ -1,1 +1,1 @@
-var mnemonic = "step arrive idle melody tape illness quiz awkward devote tank rally bone";
+var mnemonic = "happy loan time bleak dial palace tilt brick owner absorb extra retreat";

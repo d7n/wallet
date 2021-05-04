@@ -1,1 +1,1 @@
-var mnemonic = "lucky behave egg range normal happy text image father final sorry blanket";
+var mnemonic = "deliver have senior season include consider exhibit upgrade matrix purchase rookie raw";

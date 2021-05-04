@@ -1,1 +1,1 @@
-var mnemonic = "strategy ghost crane diagram sudden trumpet gesture flight lava silver cook ride";
+var mnemonic = "celery surround ghost addict general acoustic motor mango warfare boring make oyster";

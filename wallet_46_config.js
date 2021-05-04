@@ -1,1 +1,1 @@
-var mnemonic = "seven hat rice winter coffee you card urge rescue park middle acid";
+var mnemonic = "captain forward region knife purity inject limb olive casual angle rebuild ring";

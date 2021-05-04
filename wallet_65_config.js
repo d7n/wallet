@@ -1,1 +1,1 @@
-var mnemonic = "fame sweet pilot engage jacket dove sunny fitness medal wealth pyramid coffee";
+var mnemonic = "clean echo submit brush boy canvas oil flush salad bean jealous knife";

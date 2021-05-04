@@ -1,1 +1,1 @@
-var mnemonic = "enhance pelican shadow system version coast crash leave powder cram bubble retreat";
+var mnemonic = "sunset idea slice call brick opinion december ahead minor rabbit marine hat";

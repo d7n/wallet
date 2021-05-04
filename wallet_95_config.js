@@ -1,1 +1,1 @@
-var mnemonic = "survey object float seat lonely treat novel eye rifle knee ocean image";
+var mnemonic = "certain couple spoil high seven cousin order night split poet base dinosaur";

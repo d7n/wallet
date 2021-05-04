@@ -1,1 +1,1 @@
-var mnemonic = "only solid misery wisdom benefit shoe trend print rebel race float loop";
+var mnemonic = "lecture lunar volume upgrade loyal later farm enhance pizza famous can flip";

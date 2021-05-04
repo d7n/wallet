@@ -1,1 +1,1 @@
-var mnemonic = "use ridge panther security science bulk tray panther pumpkin leader arrive chief";
+var mnemonic = "manual steak example dolphin impose noise grape wise hand arctic state eyebrow";

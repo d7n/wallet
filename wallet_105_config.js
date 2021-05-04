@@ -1,1 +1,1 @@
-var mnemonic = "velvet scout weapon shield educate culture fury scare hurdle effort enroll what";
+var mnemonic = "tag home head scale gentle boil example kiwi special meadow reform ring";

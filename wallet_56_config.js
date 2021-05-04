@@ -1,1 +1,1 @@
-var mnemonic = "gun ugly collect draft alcohol bundle aerobic plate ill ramp arrest lounge";
+var mnemonic = "broken web load upon divert cheese churn pluck nerve turkey hen enjoy";

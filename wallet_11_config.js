@@ -1,1 +1,1 @@
-var mnemonic = "enact blush session salute hockey fiber minimum cycle door fix word dry";
+var mnemonic = "spice oblige inhale spike file lobster another portion few echo again gallery";

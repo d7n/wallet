@@ -1,1 +1,1 @@
-var mnemonic = "dove rack barely when project update balance width impulse narrow grass antenna";
+var mnemonic = "silly double aunt away air smile dish auto useless kick hospital wink";

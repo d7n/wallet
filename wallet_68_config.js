@@ -1,1 +1,1 @@
-var mnemonic = "pink estate thumb stool health custom flat weasel isolate picnic material fatal";
+var mnemonic = "render chest grocery radio wage season shoot early economy save away actual";

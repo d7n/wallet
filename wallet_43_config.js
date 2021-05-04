@@ -1,1 +1,1 @@
-var mnemonic = "focus twist gate predict window practice ladder give entire love peace pig";
+var mnemonic = "cup shock slogan offer submit kit whisper abstract lawsuit shop pioneer east";

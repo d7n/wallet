@@ -1,1 +1,1 @@
-var mnemonic = "sight call cost eyebrow differ type hazard man possible curious bottom theme";
+var mnemonic = "shift mistake kitchen enhance catalog snake oval since buddy belt strong illness";

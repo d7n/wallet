@@ -1,1 +1,1 @@
-var mnemonic = "symptom faith elegant any hint junk dog ancient rabbit vote expect enhance";
+var mnemonic = "proud silver gallery usual crater forget giant object wire quarter cushion horror";
