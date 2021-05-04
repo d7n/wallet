@@ -1,1 +1,1 @@
-var mnemonic = "middle lounge cube issue lava earn cabin endless beauty pause fix actress";
+var mnemonic = "jump correct success wool year album sadness grow thrive country cupboard student";

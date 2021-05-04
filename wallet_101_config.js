@@ -1,1 +1,1 @@
-var mnemonic = "cement pupil tumble orbit custom myself dwarf inherit rice army uniform afraid";
+var mnemonic = "sorry road fun mass person sense void cluster join focus kiss shrug";

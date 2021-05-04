@@ -1,1 +1,1 @@
-var mnemonic = "boy novel sorry lizard innocent glad visa morning motion airport bubble fatal";
+var mnemonic = "forget smoke company minimum portion fire grow since cage stairs harbor pair";

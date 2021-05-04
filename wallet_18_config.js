@@ -1,1 +1,1 @@
-var mnemonic = "depend chair total state senior scene wheel green wild raw fever slogan";
+var mnemonic = "piano slab moral ball arena success mixed ceiling sample lunch person evidence";

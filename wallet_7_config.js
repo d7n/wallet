@@ -1,1 +1,1 @@
-var mnemonic = "plug brand monitor sock again please cannon what dash bird wear leader";
+var mnemonic = "yellow gift shield kitten witness truly cousin almost wheat measure rich brave";

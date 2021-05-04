@@ -1,1 +1,1 @@
-var mnemonic = "wall neither north buyer squeeze interest method high injury embark night gesture";
+var mnemonic = "armed grunt strong dog session clutch grocery sphere make mother must vote";

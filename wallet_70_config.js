@@ -1,1 +1,1 @@
-var mnemonic = "rice fossil six explain since quote oppose junior woman icon unlock glide";
+var mnemonic = "debate exhaust track weekend remove teach place raw sense super parrot parade";

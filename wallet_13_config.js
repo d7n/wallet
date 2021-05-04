@@ -1,1 +1,1 @@
-var mnemonic = "cluster corn chaos brief autumn shine logic ecology judge produce they warm";
+var mnemonic = "artwork hello paper equip swamp honey layer dune baby rude busy fence";

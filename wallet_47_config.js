@@ -1,1 +1,1 @@
-var mnemonic = "design burst change during scorpion embody yellow tank street swift broom gloom";
+var mnemonic = "clip orphan flip tackle illness success trim mother cash wool clinic assume";

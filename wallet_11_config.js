@@ -1,1 +1,1 @@
-var mnemonic = "verify gauge hair hub awesome position target gap rotate endless iron arrow";
+var mnemonic = "derive cliff cash two reject celery fix cube salt cigar inner wall";

@@ -1,1 +1,1 @@
-var mnemonic = "sand inside detect situate empower loud seed cake try future equal december";
+var mnemonic = "little cash grow speak candy guilt west puzzle level orient ramp critic";

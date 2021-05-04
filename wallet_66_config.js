@@ -1,1 +1,1 @@
-var mnemonic = "sister try city marble slam public buzz drop antique page inform acquire";
+var mnemonic = "pledge entry judge economy father icon right method drastic reflect public zero";

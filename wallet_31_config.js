@@ -1,1 +1,1 @@
-var mnemonic = "dish mimic gap receive north host bronze volume hamster vault celery embark";
+var mnemonic = "helmet stereo strike pet slush stomach champion spatial ensure pudding destroy grunt";

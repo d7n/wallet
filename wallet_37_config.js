@@ -1,1 +1,1 @@
-var mnemonic = "disease way gesture waste access hill crisp survey cluster giant hidden kite";
+var mnemonic = "minimum derive bench unfold pond stuff phone bridge call retreat cry oven";

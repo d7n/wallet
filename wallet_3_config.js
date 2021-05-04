@@ -1,1 +1,1 @@
-var mnemonic = "bleak mansion advance eight rookie various ski vintage celery hair sudden dream";
+var mnemonic = "rude giant neck hood boss innocent noodle miss inch gorilla save effort";

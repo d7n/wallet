@@ -1,1 +1,1 @@
-var mnemonic = "ocean liquid sting game cattle flavor display area home correct enable resemble";
+var mnemonic = "song skill vote human radio moral guilt type general rich globe final";

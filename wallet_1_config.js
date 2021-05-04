@@ -1,1 +1,1 @@
-var mnemonic = "nuclear debris silent gravity cactus riot country excess axis happy unusual flag";
+var mnemonic = "beauty kangaroo master dragon screen brisk attitude garlic ready unfold traffic bullet";

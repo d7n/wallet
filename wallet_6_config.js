@@ -1,1 +1,1 @@
-var mnemonic = "print blade blossom rack copy nest sauce slide hole average limb worth";
+var mnemonic = "clap ribbon borrow bind farm face round tennis normal argue result spy";

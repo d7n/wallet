@@ -1,1 +1,1 @@
-var mnemonic = "paper have web mind mercy nerve frown borrow wrong dizzy swallow egg";
+var mnemonic = "switch raw label benefit test picture sibling basket skate resource trap abstract";

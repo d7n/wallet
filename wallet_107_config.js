@@ -1,1 +1,1 @@
-var mnemonic = "source congress install dinosaur vivid fame expand devote quick express cargo cradle";
+var mnemonic = "recipe risk style phrase manage piano tortoise detect foster screen shift series";

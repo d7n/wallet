@@ -1,1 +1,1 @@
-var mnemonic = "bleak melt embody oven figure cruel visit elevator hybrid cricket hobby leave";
+var mnemonic = "birth weasel provide hard lock market unveil merit actress lunar garbage tilt";

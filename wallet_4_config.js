@@ -1,1 +1,1 @@
-var mnemonic = "into wrong bullet either minimum limb cute elevator month fruit vague grocery";
+var mnemonic = "possible opinion drop worth firm giant appear another grunt cage business soup";

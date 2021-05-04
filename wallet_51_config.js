@@ -1,1 +1,1 @@
-var mnemonic = "tuition under dignity canal trade afraid sadness iron spoil east solid poverty";
+var mnemonic = "remind car grunt forum uncle include urban manage south adjust caution bargain";

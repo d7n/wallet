@@ -1,1 +1,1 @@
-var mnemonic = "kingdom exchange company junk furnace foster zone health cream across expect tongue";
+var mnemonic = "couple fiber deliver enable cry fancy volcano defense clog guard bench very";

@@ -1,1 +1,1 @@
-var mnemonic = "slab arena agree bunker pulse popular chest fold salt organ embark actress";
+var mnemonic = "tool glow pledge child galaxy moon tomorrow output clever make buyer scorpion";

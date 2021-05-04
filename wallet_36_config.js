@@ -1,1 +1,1 @@
-var mnemonic = "dad recycle female vivid name dismiss good pizza cabin cruise alpha zero";
+var mnemonic = "mind onion bless tower sun evil wild ski olive cement solar hawk";

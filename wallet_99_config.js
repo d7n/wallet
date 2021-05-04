@@ -1,1 +1,1 @@
-var mnemonic = "stadium lobster veteran feed omit shoulder online nasty truth video neck novel";
+var mnemonic = "siege host behind enjoy rule trick switch camp work elevator valid skate";

@@ -1,1 +1,1 @@
-var mnemonic = "exist remove safe open possible gap invest gown submit wasp anxiety opinion";
+var mnemonic = "stamp fossil prefer useful machine little sibling dance choice rent antique position";

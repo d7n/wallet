@@ -1,1 +1,1 @@
-var mnemonic = "evil borrow cheese knife amused false hint sausage spot angle unveil mad";
+var mnemonic = "whip city reward favorite issue swamp neck laptop tuition usual inside weasel";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust half group enemy brisk hurry crisp frame area impose topple ethics";
+var mnemonic = "violin settle praise idle barely until victory way ecology fade sentence position";

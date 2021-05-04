@@ -1,1 +1,1 @@
-var mnemonic = "torch link bounce skirt program shoe delay index case try core crystal";
+var mnemonic = "home wrong fiscal dentist parrot misery success brief cry fantasy yellow assault";

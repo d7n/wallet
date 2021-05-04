@@ -1,1 +1,1 @@
-var mnemonic = "melt aware floor remind bacon convince vapor blur cousin skull shoot aware";
+var mnemonic = "robust cause liquid holiday punch omit general shield more enemy meat nothing";

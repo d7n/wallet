@@ -1,1 +1,1 @@
-var mnemonic = "volcano business trade immune ill smooth soft rice rib immense flower mimic";
+var mnemonic = "rubber just address route pudding hawk resist side sing bid pipe frame";

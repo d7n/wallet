@@ -1,1 +1,1 @@
-var mnemonic = "vicious pause quick belt crisp taste almost twist among ask frost brief";
+var mnemonic = "patrol suffer remember friend weapon pottery hungry refuse embody churn nurse armed";

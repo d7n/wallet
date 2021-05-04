@@ -1,1 +1,1 @@
-var mnemonic = "burden world track olive basket tenant bleak assault cake menu aim saddle";
+var mnemonic = "scatter tent reward uphold reflect emerge exit jeans arrow worry ready please";

@@ -1,1 +1,1 @@
-var mnemonic = "hello tone crack walk traffic fall frown hurt leader boy economy supply";
+var mnemonic = "between matter hair student safe garlic diagram fiber donor nation hair soccer";

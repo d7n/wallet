@@ -1,1 +1,1 @@
-var mnemonic = "zero bomb fiscal swear gasp avocado portion child urge various sugar bone";
+var mnemonic = "first prison dune divorce drift before joy indoor pond same spoil visual";

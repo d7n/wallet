@@ -1,1 +1,1 @@
-var mnemonic = "end bike regret tape carbon zoo scorpion fiscal banner hen rail fatigue";
+var mnemonic = "hub inherit purity deal cancel sand legend lottery typical version head link";

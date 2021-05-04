@@ -1,1 +1,1 @@
-var mnemonic = "minor stay exhibit humble capital roof clerk obvious ugly cherry hard clock";
+var mnemonic = "knife crawl item snow bread speak joke scrub grit scheme ranch random";

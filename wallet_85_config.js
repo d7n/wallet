@@ -1,1 +1,1 @@
-var mnemonic = "voice betray radar resist captain inmate matrix clutch mango digital sense involve";
+var mnemonic = "toast news marble seminar wife snack gorilla bind trial blue man danger";

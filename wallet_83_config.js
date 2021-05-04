@@ -1,1 +1,1 @@
-var mnemonic = "shy tonight runway tonight voyage prefer soccer young sound increase system present";
+var mnemonic = "flee typical two cube helmet exhibit call pipe recycle very crowd flee";

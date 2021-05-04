@@ -1,1 +1,1 @@
-var mnemonic = "plug term similar remain depth lazy execute unaware lab clean blur rifle";
+var mnemonic = "final method cloud portion armed slam stadium install orphan fresh piece witness";

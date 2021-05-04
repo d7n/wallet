@@ -1,1 +1,1 @@
-var mnemonic = "obey slush donkey convince flag stove home sauce liquid baby illness together";
+var mnemonic = "smooth wasp document unknown recycle misery bar spin purchase sign grace eye";

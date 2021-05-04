@@ -1,1 +1,1 @@
-var mnemonic = "job swamp solve hair call debate toddler where slide ghost city afford";
+var mnemonic = "wink control struggle limb verify clinic require room solid excess rhythm chuckle";

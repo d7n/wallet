@@ -1,1 +1,1 @@
-var mnemonic = "cash turtle scene transfer guide such shoot spy tree avocado flavor toy";
+var mnemonic = "tower town chaos route wreck mad hover sponsor kidney dinosaur fall slogan";

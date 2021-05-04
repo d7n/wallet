@@ -1,1 +1,1 @@
-var mnemonic = "garage almost pelican duty lobster exercise october adapt service muffin verify abstract";
+var mnemonic = "obtain diesel install blood recipe sustain satisfy tomato blue clog flee gloom";

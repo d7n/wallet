@@ -1,1 +1,1 @@
-var mnemonic = "dignity join garment rifle sunny remind hundred they slam cheese news witness";
+var mnemonic = "bonus appear fiction scale ill metal dwarf bag assist pen swift warrior";

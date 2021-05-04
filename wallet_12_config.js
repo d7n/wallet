@@ -1,1 +1,1 @@
-var mnemonic = "program depth bonus put record actor kite enter imitate tiny undo present";
+var mnemonic = "venue decade aisle silent correct vacuum employ edge retreat often viable spice";

@@ -1,1 +1,1 @@
-var mnemonic = "dynamic clean glow lion guilt infant pulp skate actress ice elbow fitness";
+var mnemonic = "such wine frown vanish throw element afford stem slow arrive alter inch";

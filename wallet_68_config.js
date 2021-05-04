@@ -1,1 +1,1 @@
-var mnemonic = "swarm brother trade team animal hurdle file armed proud consider ancient now";
+var mnemonic = "candy evil consider major draft dismiss script property mirror another impose cabbage";

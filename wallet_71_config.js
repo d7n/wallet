@@ -1,1 +1,1 @@
-var mnemonic = "goddess gain impose october dinner roof bracket math endorse motor luxury paddle";
+var mnemonic = "struggle cigar fashion arena erase custom open office faith pupil rare gain";

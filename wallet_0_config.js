@@ -1,1 +1,1 @@
-var mnemonic = "tilt matter grief bunker wall road wealth view debate traffic winner anxiety";
+var mnemonic = "foot grab carbon potato novel nuclear undo vacuum minute village else crack";

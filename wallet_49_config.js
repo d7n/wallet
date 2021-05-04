@@ -1,1 +1,1 @@
-var mnemonic = "bronze interest digital code ivory future smart special already trap pen tongue";
+var mnemonic = "poem print grid immense course pulse husband narrow evoke tattoo feature run";

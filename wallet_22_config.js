@@ -1,1 +1,1 @@
-var mnemonic = "document window panic intact force human orphan organ city pepper fortune smart";
+var mnemonic = "dynamic fragile mixture mass gasp pyramid pizza volcano morning click blur action";

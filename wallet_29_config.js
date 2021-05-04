@@ -1,1 +1,1 @@
-var mnemonic = "lion rare damp again meadow assume nothing relax guide olive access embark";
+var mnemonic = "bicycle fabric now belt pool olympic walnut soul minimum always artwork smart";

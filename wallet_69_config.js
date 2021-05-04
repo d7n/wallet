@@ -1,1 +1,1 @@
-var mnemonic = "club emerge leopard crack record fire motion bacon fever jacket gap supreme";
+var mnemonic = "they city firm super setup suspect warm edit page merit wing magnet";

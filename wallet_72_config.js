@@ -1,1 +1,1 @@
-var mnemonic = "gas supply roast option talent come actor attitude salad arm draft match";
+var mnemonic = "want town stable fragile inflict reflect lake hood bright have festival boat";

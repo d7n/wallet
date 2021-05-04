@@ -1,1 +1,1 @@
-var mnemonic = "piece pole broken novel produce shrimp patrol donate glad tennis suggest staff";
+var mnemonic = "cage example dial approve tourist upgrade eye floor weird solution alpha now";

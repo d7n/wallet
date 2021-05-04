@@ -1,1 +1,1 @@
-var mnemonic = "novel near private loyal ladder utility boy pigeon unusual maze lounge sort";
+var mnemonic = "sphere keen inspire adult yellow satoshi diesel ladder possible clean grow trap";

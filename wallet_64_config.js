@@ -1,1 +1,1 @@
-var mnemonic = "spider pair deputy interest submit beach lemon dish knee claim bless drastic";
+var mnemonic = "enhance valley fancy team melody bulk asthma just appear hundred wine start";

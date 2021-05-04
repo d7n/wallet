@@ -1,1 +1,1 @@
-var mnemonic = "style circle repair potato matrix truly fortune zone control satoshi royal island";
+var mnemonic = "frog old faith obvious snow muscle layer exile foster know change emotion";

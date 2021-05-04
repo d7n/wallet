@@ -1,1 +1,1 @@
-var mnemonic = "fine wagon good fancy step teach deny bike little spray front service";
+var mnemonic = "again better business kitchen wear illness royal frost today morning page trend";

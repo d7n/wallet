@@ -1,1 +1,1 @@
-var mnemonic = "early obscure zoo drill skin ladder buddy curious soup pact street predict";
+var mnemonic = "fade festival dismiss tent faculty riot then sun motor canvas eyebrow ketchup";

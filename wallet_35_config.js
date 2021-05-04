@@ -1,1 +1,1 @@
-var mnemonic = "sign anchor kangaroo busy gun bright fuel salt carpet shell convince tank";
+var mnemonic = "myth innocent exile junior keep acid unit erupt fetch child labor hobby";

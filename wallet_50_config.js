@@ -1,1 +1,1 @@
-var mnemonic = "myth mail help alien step thought omit fever glimpse alien lion among";
+var mnemonic = "sort rule vote proud glimpse pipe brother tuition canvas yellow normal animal";

@@ -1,1 +1,1 @@
-var mnemonic = "auction hawk style omit tomato top bleak soul talk title wire marble";
+var mnemonic = "clean liquid accuse flight unknown limb memory brush blouse they gloom winner";

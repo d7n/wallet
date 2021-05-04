@@ -1,1 +1,1 @@
-var mnemonic = "device library pill any laptop royal dentist typical owner motor enemy damage";
+var mnemonic = "float toast climb safe long trash food someone brief breeze suffer report";

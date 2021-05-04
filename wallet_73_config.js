@@ -1,1 +1,1 @@
-var mnemonic = "avocado that tag defy imitate learn ability trumpet truck economy exist decade";
+var mnemonic = "fold witness robust width tooth bronze common label float brass manual crawl";

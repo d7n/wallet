@@ -1,1 +1,1 @@
-var mnemonic = "trim idea index extra poem network myself weasel nominee bleak peace hybrid";
+var mnemonic = "destroy topic kind option person tag denial split notable pink gospel trigger";

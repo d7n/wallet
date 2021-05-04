@@ -1,1 +1,1 @@
-var mnemonic = "almost cushion lemon plastic narrow depth price affair phrase shallow mechanic quick";
+var mnemonic = "person shield fruit glare snap six glance have tonight polar connect salmon";

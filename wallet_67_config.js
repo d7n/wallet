@@ -1,1 +1,1 @@
-var mnemonic = "prison beauty cage urban toward spring ripple chronic find budget fiber retreat";
+var mnemonic = "venue action people middle final leaf honey lizard excite avocado giggle doctor";

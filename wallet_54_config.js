@@ -1,1 +1,1 @@
-var mnemonic = "ancient exist phone truck record soft minimum broom elevator scissors warrior warfare";
+var mnemonic = "silk find segment wide robot rare beach august whip supply meat layer";

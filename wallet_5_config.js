@@ -1,1 +1,1 @@
-var mnemonic = "sell tuition art shoulder dynamic game struggle captain cotton expose magnet clean";
+var mnemonic = "maximum view sunny aerobic unable vacuum motor congress poem fortune outside into";

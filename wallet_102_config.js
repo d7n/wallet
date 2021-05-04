@@ -1,1 +1,1 @@
-var mnemonic = "tonight among grocery reunion maid whale raccoon february sell army best flight";
+var mnemonic = "onion they equip lift believe poem please thunder panel travel unfair regret";

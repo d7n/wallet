@@ -1,1 +1,1 @@
-var mnemonic = "provide strike draw assume license remind stereo ginger clown retire unveil design";
+var mnemonic = "detail return mandate fan drift impulse december gossip siren deal flock property";

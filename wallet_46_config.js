@@ -1,1 +1,1 @@
-var mnemonic = "ignore crop impact elegant indoor excess warfare oak prefer proof hedgehog enrich";
+var mnemonic = "boost basket soda test tomato monster pool sniff broom siege basket today";

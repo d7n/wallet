@@ -1,1 +1,1 @@
-var mnemonic = "antenna boss belt exile road income trick stay fancy ocean slice early";
+var mnemonic = "betray arm jelly drop brain baby leaf lobster lunar general chief tooth";

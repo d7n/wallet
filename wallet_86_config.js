@@ -1,1 +1,1 @@
-var mnemonic = "liberty peasant eternal funny crack warm harvest car exclude elephant crisp situate";
+var mnemonic = "bring include wave wink solar enough occur slight segment finger hand series";

@@ -1,1 +1,1 @@
-var mnemonic = "artist taste nut zoo erode shine dash visit screen image suffer tackle";
+var mnemonic = "paper inch person unfair stable deliver thank right inside photo half ensure";

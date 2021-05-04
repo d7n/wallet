@@ -1,1 +1,1 @@
-var mnemonic = "relax memory purity business negative vendor shoe admit remember steel cause curious";
+var mnemonic = "toy observe shift ship title mean fiction tool torch aim sunny pair";

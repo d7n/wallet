@@ -1,1 +1,1 @@
-var mnemonic = "acoustic drill act oyster frozen theme theory siren congress brain alpha circle";
+var mnemonic = "huge team spoon suit rural obvious rich island dragon gate swift spray";

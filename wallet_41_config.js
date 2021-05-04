@@ -1,1 +1,1 @@
-var mnemonic = "trend seed margin trust soft winner wage diagram pizza book female awesome";
+var mnemonic = "apple bridge amateur desert train wheel muscle mushroom history order differ area";

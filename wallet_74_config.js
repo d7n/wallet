@@ -1,1 +1,1 @@
-var mnemonic = "pull sad advice funny ability give giraffe above wife gaze load suspect";
+var mnemonic = "merit negative deputy pilot oyster local vote island trade over midnight sword";

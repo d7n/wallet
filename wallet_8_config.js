@@ -1,1 +1,1 @@
-var mnemonic = "token target judge say discover defy fog cat sick black usual worry";
+var mnemonic = "injury fancy pretty labor scorpion kite bargain drum apology knife timber mosquito";

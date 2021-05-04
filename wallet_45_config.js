@@ -1,1 +1,1 @@
-var mnemonic = "mention major task draw glow survey vacant thought awkward doctor erode gospel";
+var mnemonic = "front cover height receive allow crawl federal trade swim tornado buzz hard";

@@ -1,1 +1,1 @@
-var mnemonic = "ginger hello peasant august dog cart goddess monkey trade coach marriage inherit";
+var mnemonic = "narrow regular sun annual dress fiber second palm trophy diary rice lamp";

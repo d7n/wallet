@@ -1,1 +1,1 @@
-var mnemonic = "theme couch immune erode token vital rural private uncle rely industry measure";
+var mnemonic = "similar job half matrix cave poet twin warrior morning sight rather month";

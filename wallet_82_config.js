@@ -1,1 +1,1 @@
-var mnemonic = "salmon achieve slot will choice burger churn wrestle speed song method dragon";
+var mnemonic = "calm village cotton style nice tenant blossom around real bridge penalty address";
