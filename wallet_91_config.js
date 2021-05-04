@@ -1,1 +1,1 @@
-var mnemonic = "purity galaxy split summer lemon relax biology fruit warfare saddle sleep life";
+var mnemonic = "cruel inhale angry tray exercise phrase they popular swing strategy layer fury";

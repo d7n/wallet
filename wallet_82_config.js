@@ -1,1 +1,1 @@
-var mnemonic = "coral mechanic orient tired bind country index bronze cage concert exotic faculty";
+var mnemonic = "below thunder prosper snow birth large ensure cat scrub reject cage address";

@@ -1,1 +1,1 @@
-var mnemonic = "tackle clarify fame gospel caution unknown jaguar scrub hammer antenna offer decade";
+var mnemonic = "nurse security sick situate catch sight buffalo animal there economy polar assault";

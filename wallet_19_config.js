@@ -1,1 +1,1 @@
-var mnemonic = "bracket swim urge snow balcony case poet arm token hungry wisdom weapon";
+var mnemonic = "patient planet story congress sibling define boil suspect cause crunch stereo trash";

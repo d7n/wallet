@@ -1,1 +1,1 @@
-var mnemonic = "romance bless pass borrow useful away kangaroo calm sustain clay atom few";
+var mnemonic = "suit science win puzzle wait harbor enlist bid palace idle mistake script";

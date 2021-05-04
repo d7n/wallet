@@ -1,1 +1,1 @@
-var mnemonic = "bargain unusual stone move domain stable agent rule board snow safe increase";
+var mnemonic = "improve tomorrow mystery someone quit ugly pluck impose table easily mind dismiss";

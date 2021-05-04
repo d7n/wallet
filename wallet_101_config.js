@@ -1,1 +1,1 @@
-var mnemonic = "thing void mansion bubble aware liquid win gauge output dynamic team mirror";
+var mnemonic = "amazing athlete better barely smoke machine lamp stereo interest soon vessel pyramid";

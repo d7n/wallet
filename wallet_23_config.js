@@ -1,1 +1,1 @@
-var mnemonic = "equal initial myself stuff joy supreme strike void next across ranch borrow";
+var mnemonic = "logic expire dynamic maximum pottery oak engine head slab tomorrow sight quick";

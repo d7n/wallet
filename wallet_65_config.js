@@ -1,1 +1,1 @@
-var mnemonic = "stool pact thing bike people aspect jealous jump marble source worth raw";
+var mnemonic = "robust audit topic auction matter able drive swarm enrich turn merge water";

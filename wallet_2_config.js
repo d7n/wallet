@@ -1,1 +1,1 @@
-var mnemonic = "hammer below sight where amateur lizard parrot that sunset myself rotate topple";
+var mnemonic = "town gap valley record repair unique deal diamond father glue core color";

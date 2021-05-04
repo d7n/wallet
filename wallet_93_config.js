@@ -1,1 +1,1 @@
-var mnemonic = "artist donate repeat coast nurse unhappy region push mask absent race later";
+var mnemonic = "raise other census axis supreme mirror love thumb they ritual home pistol";

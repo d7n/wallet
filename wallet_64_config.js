@@ -1,1 +1,1 @@
-var mnemonic = "cat fresh transfer armor enhance casino math finger like genre faith aunt";
+var mnemonic = "mixed nerve stereo face acoustic boy echo enhance winner total rocket magic";

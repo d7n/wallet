@@ -1,1 +1,1 @@
-var mnemonic = "rebel silver spatial member upon grab goose hair arrow repeat quarter budget";
+var mnemonic = "edit love board north uniform gentle shy chaos soldier scale now play";

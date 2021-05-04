@@ -1,1 +1,1 @@
-var mnemonic = "ripple inmate kiwi next initial bottom scrap blame learn elevator brother release";
+var mnemonic = "square senior own middle visual once season enjoy hill meadow pizza loan";

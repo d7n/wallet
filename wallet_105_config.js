@@ -1,1 +1,1 @@
-var mnemonic = "exchange virus crouch embrace notable tackle melt junior shoot coconut foot obvious";
+var mnemonic = "submit trouble sense motion eight road person depth market toe always lucky";

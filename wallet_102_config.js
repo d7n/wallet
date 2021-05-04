@@ -1,1 +1,1 @@
-var mnemonic = "jewel road essay donor account whisper indoor vessel chuckle tissue price reunion";
+var mnemonic = "tourist unique angle kitchen latin situate problem divorce spike salute media hold";

@@ -1,1 +1,1 @@
-var mnemonic = "update narrow east sentence rug old stable perfect change position begin panther";
+var mnemonic = "fashion build dilemma loan hood upper gift client october special age vacant";

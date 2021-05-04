@@ -1,1 +1,1 @@
-var mnemonic = "sign river merge humble can lunch intact differ hazard pepper trend pyramid";
+var mnemonic = "pitch search six code zoo novel tobacco liquid express inside wrap omit";

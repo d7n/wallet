@@ -1,1 +1,1 @@
-var mnemonic = "sleep toddler gold add destroy else fantasy clerk write machine square potato";
+var mnemonic = "reason eager favorite three minimum wire cheese wrong comic inject manage south";

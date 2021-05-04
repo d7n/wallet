@@ -1,1 +1,1 @@
-var mnemonic = "kit puzzle run master keen ship orphan hover always attract miracle upgrade";
+var mnemonic = "mansion hen all section rug giant merry velvet measure rail student fever";

@@ -1,1 +1,1 @@
-var mnemonic = "planet diesel thing sugar churn school multiply panther discover robust scorpion spy";
+var mnemonic = "injury ginger orbit pull inquiry today follow satisfy vendor robot draw club";

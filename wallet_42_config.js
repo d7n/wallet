@@ -1,1 +1,1 @@
-var mnemonic = "peasant marble leg card inject bean dinosaur universe slush diary this faint";
+var mnemonic = "dizzy behind truck roast base genius advice chuckle sword unhappy oil bus";

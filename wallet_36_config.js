@@ -1,1 +1,1 @@
-var mnemonic = "impulse maple husband rate light story humor glue squeeze choice lawn input";
+var mnemonic = "april lobster fresh stool road hurry never limb lend pair avoid song";

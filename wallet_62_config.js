@@ -1,1 +1,1 @@
-var mnemonic = "monkey master person melody script manage replace layer theory lecture short stamp";
+var mnemonic = "nurse sentence display blast else disease easily balance hand walk decorate swarm";

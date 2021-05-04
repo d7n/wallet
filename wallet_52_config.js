@@ -1,1 +1,1 @@
-var mnemonic = "video lounge garden wet purpose truck ostrich later soda glare expire frog";
+var mnemonic = "cat diesel student enrich rebel scissors fiscal type raven guitar forget pretty";

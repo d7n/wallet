@@ -1,1 +1,1 @@
-var mnemonic = "use kitten client elevator visual faculty assault opinion unfold cable huge advice";
+var mnemonic = "remind mercy anger fan sister exist vivid primary congress basic fiber modify";

@@ -1,1 +1,1 @@
-var mnemonic = "escape later average fan oxygen tired drift seminar thrive heavy broken math";
+var mnemonic = "company deposit embark wool siege broom foot movie defense two inspire sunny";

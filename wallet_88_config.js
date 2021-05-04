@@ -1,1 +1,1 @@
-var mnemonic = "april order trend love immune news island problem team cheese alone breeze";
+var mnemonic = "wolf best lock process palace scan salmon used candy diet raven fancy";

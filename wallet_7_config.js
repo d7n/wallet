@@ -1,1 +1,1 @@
-var mnemonic = "hello raw alert canal museum flavor two during reunion library oak buzz";
+var mnemonic = "toilet viable timber source good doctor pepper mushroom debris elder own flower";

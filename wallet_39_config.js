@@ -1,1 +1,1 @@
-var mnemonic = "ancient observe high robot kangaroo stone sphere digital father speed dance digital";
+var mnemonic = "cabin cinnamon stamp eyebrow domain honey feed bid inch omit embark other";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely decade behind cake resemble nominee smooth fluid pink primary castle lucky";
+var mnemonic = "door comic become ticket adult random fetch dose use faculty snake veteran";

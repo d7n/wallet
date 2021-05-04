@@ -1,1 +1,1 @@
-var mnemonic = "salt galaxy rubber risk better audit powder voyage upgrade thunder wife noble";
+var mnemonic = "future friend lottery arrest seat kite fade ceiling minor air dwarf black";

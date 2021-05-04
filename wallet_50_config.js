@@ -1,1 +1,1 @@
-var mnemonic = "twin pause alone banner coyote sand key clarify they antenna bless keen";
+var mnemonic = "destroy empower regular fury exist hold evil breeze wet hollow identify brain";

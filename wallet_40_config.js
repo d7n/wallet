@@ -1,1 +1,1 @@
-var mnemonic = "chuckle old piano nose winter dirt library ugly stumble razor summer round";
+var mnemonic = "leaf remove seven lift minimum blade embrace help weird region say scheme";

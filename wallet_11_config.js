@@ -1,1 +1,1 @@
-var mnemonic = "mistake inch stock grid pulp punch supply faculty helmet toward control lunch";
+var mnemonic = "cool view prosper syrup crack indoor month sister orchard adjust cotton rifle";

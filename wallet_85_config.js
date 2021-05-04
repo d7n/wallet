@@ -1,1 +1,1 @@
-var mnemonic = "raise type sugar nest exchange loan critic crucial news snap gather require";
+var mnemonic = "picture above culture current tilt genuine enemy develop borrow spy pill border";

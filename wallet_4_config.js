@@ -1,1 +1,1 @@
-var mnemonic = "nominee reunion banana click winter verb anxiety vast will crash lobster album";
+var mnemonic = "between oyster strategy asthma kit water giant album usage label radar hen";

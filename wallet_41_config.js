@@ -1,1 +1,1 @@
-var mnemonic = "outside tourist flock fossil couple wish reopen welcome fiscal donkey rail prevent";
+var mnemonic = "warrior dish prefer festival hedgehog clown ordinary chapter rubber absorb student luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "sketch hour clog betray common emerge galaxy mango carry notable boss never";
+var mnemonic = "mirror hazard always item august velvet boy matrix squirrel grunt long raise";

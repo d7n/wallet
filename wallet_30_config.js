@@ -1,1 +1,1 @@
-var mnemonic = "neither logic biology lunch dignity coil exit mushroom sunny typical april topic";
+var mnemonic = "staff total moral common pill decrease timber stage rubber grid public math";

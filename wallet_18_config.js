@@ -1,1 +1,1 @@
-var mnemonic = "crouch leave desert velvet vital good fringe monster village code evolve walk";
+var mnemonic = "two east lunch hamster survey draft pudding water pear total razor diary";

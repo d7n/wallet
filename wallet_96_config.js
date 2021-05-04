@@ -1,1 +1,1 @@
-var mnemonic = "blossom phrase ripple bean fabric morning bridge goat snow comic flag defense";
+var mnemonic = "label garden raw supreme sing enjoy soul badge security sentence seed toast";

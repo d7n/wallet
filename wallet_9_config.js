@@ -1,1 +1,1 @@
-var mnemonic = "twenty crisp nut hint option inhale curtain october frequent duck tomato rack";
+var mnemonic = "course marble twelve lobster unaware wide slice jacket grit lend relief order";

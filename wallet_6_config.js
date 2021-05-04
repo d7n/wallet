@@ -1,1 +1,1 @@
-var mnemonic = "siren inform genre ancient banner pulse sheriff sell lion slot mad unusual";
+var mnemonic = "define rebel label ball today unlock gauge spy similar hurt rookie deputy";

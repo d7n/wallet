@@ -1,1 +1,1 @@
-var mnemonic = "black rule venture safe toy demand skate urge engage crunch glory smooth";
+var mnemonic = "shaft amateur table steel pencil whip island blue ranch mistake consider clog";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket today trouble fame lemon demand drink clock maximum limb spawn tuition";
+var mnemonic = "rough move mammal doctor ribbon current craft legal narrow enemy save sun";

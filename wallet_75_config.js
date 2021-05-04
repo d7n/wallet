@@ -1,1 +1,1 @@
-var mnemonic = "flight peanut smoke decorate tongue bottom dial coffee plug wrap exotic near";
+var mnemonic = "destroy crash avoid broken act area melody north short matter orient tiger";

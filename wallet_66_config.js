@@ -1,1 +1,1 @@
-var mnemonic = "quick twin parade under once snow test warm enrich blood wire change";
+var mnemonic = "baby argue mail man suspect april pottery cliff evil kind digital cherry";

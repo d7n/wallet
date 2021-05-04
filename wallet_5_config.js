@@ -1,1 +1,1 @@
-var mnemonic = "still remind matter broom idea scale reflect puzzle envelope carry acoustic riot";
+var mnemonic = "above bomb cradle member lawsuit spy example security finish tooth skill team";

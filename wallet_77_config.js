@@ -1,1 +1,1 @@
-var mnemonic = "tired reflect wide solid scrap cactus upon they space silver oven glare";
+var mnemonic = "supply evoke vital speak return state sniff ladder gun basket tobacco practice";

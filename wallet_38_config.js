@@ -1,1 +1,1 @@
-var mnemonic = "actor iron trip long grocery begin swap mountain decline cement kingdom service";
+var mnemonic = "orbit essence cute trophy dizzy scare pluck raven payment split labor hello";

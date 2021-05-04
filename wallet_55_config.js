@@ -1,1 +1,1 @@
-var mnemonic = "punch need young immense unveil coffee session survey lunar melt wonder same";
+var mnemonic = "enough aunt ripple craft month wear twist calm fruit cancel bitter announce";

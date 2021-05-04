@@ -1,1 +1,1 @@
-var mnemonic = "equal wet core true struggle educate cluster sauce magnet dial drive fortune";
+var mnemonic = "employ stand chimney right angry breeze sheriff flee flat scare scissors firm";

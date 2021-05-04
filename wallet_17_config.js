@@ -1,1 +1,1 @@
-var mnemonic = "popular news spread odor laundry tired wall assist document immense cousin spring";
+var mnemonic = "pumpkin dynamic stumble input wedding loan merry install major plunge coral town";

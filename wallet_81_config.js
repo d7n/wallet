@@ -1,1 +1,1 @@
-var mnemonic = "entire test hover prosper time rookie forget flavor scout yellow moral federal";
+var mnemonic = "hollow pear outdoor evolve pizza core leg warfare deny day floor violin";

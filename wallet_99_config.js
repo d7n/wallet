@@ -1,1 +1,1 @@
-var mnemonic = "ankle tennis topple exotic jungle path wait document guard spoon question album";
+var mnemonic = "mystery merit track style private flavor stairs mammal kangaroo approve local nominee";

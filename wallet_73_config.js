@@ -1,1 +1,1 @@
-var mnemonic = "dust ridge real income warrior hidden foot drill stage task surface seven";
+var mnemonic = "glance vital digital hello trophy story lizard air harvest rough leg correct";

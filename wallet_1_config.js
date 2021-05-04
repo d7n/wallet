@@ -1,1 +1,1 @@
-var mnemonic = "claw entry chef sting celery thunder almost predict deny seven team defense";
+var mnemonic = "enable orphan rice duty unhappy small math believe link latin joy area";

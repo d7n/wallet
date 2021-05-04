@@ -1,1 +1,1 @@
-var mnemonic = "gloom slab any wool state invest wise problem salt turn news wheat";
+var mnemonic = "stool citizen maid letter fog expand vault enlist gloom hero mixed flush";

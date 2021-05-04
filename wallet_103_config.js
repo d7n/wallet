@@ -1,1 +1,1 @@
-var mnemonic = "illegal thunder joke decide weekend favorite muffin problem hamster blade miracle pizza";
+var mnemonic = "final typical grain drill rocket smooth palace about exercise clarify onion insane";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble present wisdom gate anxiety sibling cave funny tuna power couple quality";
+var mnemonic = "still orphan keen hockey accident upon employ nut safe disagree pelican moral";

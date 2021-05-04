@@ -1,1 +1,1 @@
-var mnemonic = "oven federal comic clinic favorite proud bulk lava junior remove person rate";
+var mnemonic = "neck peace side box narrow segment autumn frequent history cake head exotic";

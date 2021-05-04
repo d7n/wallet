@@ -1,1 +1,1 @@
-var mnemonic = "other title pepper wash bicycle cage note blade exotic insect way protect";
+var mnemonic = "dress taxi gasp injury route minimum cigar tuition broom arena now fitness";

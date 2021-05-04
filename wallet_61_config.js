@@ -1,1 +1,1 @@
-var mnemonic = "phrase salt energy hundred twice crucial vacuum ozone vanish oyster torch episode";
+var mnemonic = "decorate suffer silent couch clean man when minute roast regret project soup";

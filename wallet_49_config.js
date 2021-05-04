@@ -1,1 +1,1 @@
-var mnemonic = "exit better ten filter jacket venue boost hybrid lunar sign record fitness";
+var mnemonic = "sphere hub club vessel buzz roast foam tip october wolf already rough";

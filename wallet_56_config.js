@@ -1,1 +1,1 @@
-var mnemonic = "eager unfair local express amount topic icon reward nut moment silent lady";
+var mnemonic = "sail distance hint ethics stool banner debris eager shove attend moment execute";

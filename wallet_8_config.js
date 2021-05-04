@@ -1,1 +1,1 @@
-var mnemonic = "disorder crush tennis grit state index force blouse connect industry topple crane";
+var mnemonic = "trash virtual cave story birth tape horn ice topple pyramid multiply slot";

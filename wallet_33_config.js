@@ -1,1 +1,1 @@
-var mnemonic = "parrot luxury old review reveal evil truth quality scale key brand people";
+var mnemonic = "manage near rib like mansion plastic rally mistake month voyage limb vessel";

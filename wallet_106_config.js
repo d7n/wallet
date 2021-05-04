@@ -1,1 +1,1 @@
-var mnemonic = "utility copper evolve unaware unit reason tip bamboo supply iron exotic civil";
+var mnemonic = "pumpkin innocent weasel sadness robot bar gaze churn ball proud draw liberty";

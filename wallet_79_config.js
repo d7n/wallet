@@ -1,1 +1,1 @@
-var mnemonic = "around stick flame outer boss globe business eager climb fun globe margin";
+var mnemonic = "project buffalo sister head sad fold goose river kiss notable chicken tone";

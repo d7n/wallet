@@ -1,1 +1,1 @@
-var mnemonic = "dial wrist owner humor method swallow ocean praise prison whale harbor vital";
+var mnemonic = "unit enlist mosquito render word multiply rally deer cushion seminar absent setup";

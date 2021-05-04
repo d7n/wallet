@@ -1,1 +1,1 @@
-var mnemonic = "income game life lion zebra there rely glad marriage crumble digital mechanic";
+var mnemonic = "rich filter proud evolve genius welcome flat leisure lemon retire sleep fit";

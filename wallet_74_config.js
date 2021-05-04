@@ -1,1 +1,1 @@
-var mnemonic = "noise alone decide check gospel wisdom bicycle morning burst ceiling ketchup repair";
+var mnemonic = "season remove brand arrange route hero bright flip duty exact result toward";

@@ -1,1 +1,1 @@
-var mnemonic = "find garage domain marriage apart bubble jaguar potato swamp will scheme effort";
+var mnemonic = "purpose grid spring chaos column agent double diesel soccer foster type pass";

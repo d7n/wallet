@@ -1,1 +1,1 @@
-var mnemonic = "gain aerobic talent rotate foil inquiry bright orchard shoot fall pool embrace";
+var mnemonic = "rookie dragon detail toss bright clarify can cute illegal myth notable adjust";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise mobile indicate glide width dinner front hedgehog mutual viable lion park";
+var mnemonic = "come can save canoe you make canyon hidden sentence forest path tribe";

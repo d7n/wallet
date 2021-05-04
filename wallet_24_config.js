@@ -1,1 +1,1 @@
-var mnemonic = "profit very obvious labor quarter popular banner joke frog genre dry sphere";
+var mnemonic = "wrong print jeans spray orphan glass ticket world average two soda craft";

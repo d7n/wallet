@@ -1,1 +1,1 @@
-var mnemonic = "taste atom narrow aspect about radar wall share best foil physical knee";
+var mnemonic = "nerve filter video cradle helmet attract lobster nature today congress hospital black";

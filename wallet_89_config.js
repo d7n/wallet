@@ -1,1 +1,1 @@
-var mnemonic = "decline spider order island firm midnight suffer drive number among cry stool";
+var mnemonic = "elbow rural opinion weird bronze hybrid saddle arrive trim drop era razor";

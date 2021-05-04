@@ -1,1 +1,1 @@
-var mnemonic = "crew rival degree country foster episode stereo shoot fold mom bubble height";
+var mnemonic = "review wage hire sport oval achieve icon pink mention saddle edit ribbon";

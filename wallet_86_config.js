@@ -1,1 +1,1 @@
-var mnemonic = "sail describe seven twice essay organ glimpse cheap trouble write enemy kind";
+var mnemonic = "below nice extend crop father sense decrease smoke inside sausage claw wasp";

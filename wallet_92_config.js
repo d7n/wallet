@@ -1,1 +1,1 @@
-var mnemonic = "explain worth actor desert clap mistake answer inmate dream sort maple shadow";
+var mnemonic = "side fatal vendor much school silent problem when review great run garlic";

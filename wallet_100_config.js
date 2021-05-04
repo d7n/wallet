@@ -1,1 +1,1 @@
-var mnemonic = "trade audit palm pool assume bottom uniform ghost put shrug shadow outside";
+var mnemonic = "survey fun common day double library maze deposit field smoke judge trash";

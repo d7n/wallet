@@ -1,1 +1,1 @@
-var mnemonic = "erase assist talk nice detect wash below detail fashion real frame sick";
+var mnemonic = "pair suggest shell crouch bachelor verify idle select weird weather choose often";

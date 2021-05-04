@@ -1,1 +1,1 @@
-var mnemonic = "dolphin lazy sock please wink arm soup service penalty model smart cherry";
+var mnemonic = "ozone budget target emotion only manage ensure media glue loyal boat hobby";

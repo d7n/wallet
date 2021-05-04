@@ -1,1 +1,1 @@
-var mnemonic = "great topple hill ten angle hold winner trade stool bullet hazard priority";
+var mnemonic = "road butter source donor unhappy squirrel grain erase pass bamboo concert sister";

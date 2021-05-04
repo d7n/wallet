@@ -1,1 +1,1 @@
-var mnemonic = "olive west cement panic weapon rib task lunar knee kick summer toast";
+var mnemonic = "wall wheel cigar fun game pupil typical truly biology biology fringe grab";

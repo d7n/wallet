@@ -1,1 +1,1 @@
-var mnemonic = "clog feed unhappy pizza harbor angry armor recycle pattern adjust tape ribbon";
+var mnemonic = "decrease kitten learn program help enough enlist egg thumb scorpion setup jungle";

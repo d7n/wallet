@@ -1,1 +1,1 @@
-var mnemonic = "rubber mobile broom idea left behind size elegant scorpion depend minimum ginger";
+var mnemonic = "blouse unveil surface public among source seat position salmon behind dragon issue";

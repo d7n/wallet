@@ -1,1 +1,1 @@
-var mnemonic = "crouch rule tuition salmon beauty snake absorb target museum urge water load";
+var mnemonic = "toe kid aunt case spoil banana length recall swamp vague shallow service";

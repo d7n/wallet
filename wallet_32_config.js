@@ -1,1 +1,1 @@
-var mnemonic = "method zoo tunnel ball top industry pattern angle spoon laptop fitness march";
+var mnemonic = "dynamic choice marriage wool scout peace appear breeze design panic december pond";

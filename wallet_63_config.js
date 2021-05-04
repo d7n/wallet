@@ -1,1 +1,1 @@
-var mnemonic = "sauce robust wear symptom rich grass jazz camera head atom into message";
+var mnemonic = "east capital saddle other curve fox slab funny dinosaur catch guide arctic";
