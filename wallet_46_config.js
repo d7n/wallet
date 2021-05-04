@@ -1,1 +1,1 @@
-var mnemonic = "feature mercy purity argue sight cash art immense always enemy away earn";
+var mnemonic = "ignore crop impact elegant indoor excess warfare oak prefer proof hedgehog enrich";

@@ -1,1 +1,1 @@
-var mnemonic = "couple talent opera witness whale mammal upset force pizza wide torch slogan";
+var mnemonic = "artist taste nut zoo erode shine dash visit screen image suffer tackle";

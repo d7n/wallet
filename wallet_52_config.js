@@ -1,1 +1,1 @@
-var mnemonic = "powder child spin company route fresh picnic satoshi evoke timber element escape";
+var mnemonic = "provide strike draw assume license remind stereo ginger clown retire unveil design";

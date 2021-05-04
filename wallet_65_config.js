@@ -1,1 +1,1 @@
-var mnemonic = "grunt damp exchange derive dwarf credit across chat term father betray present";
+var mnemonic = "bleak melt embody oven figure cruel visit elevator hybrid cricket hobby leave";

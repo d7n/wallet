@@ -1,1 +1,1 @@
-var mnemonic = "laugh riot you repeat into exotic build inch sand blossom spin rate";
+var mnemonic = "teach episode tribe helmet beef father hub parade rally tragic barrel loyal";

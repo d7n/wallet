@@ -1,1 +1,1 @@
-var mnemonic = "delay monster strike orient pulse wood dilemma bone wing jealous feel garlic";
+var mnemonic = "cash turtle scene transfer guide such shoot spy tree avocado flavor toy";

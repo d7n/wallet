@@ -1,1 +1,1 @@
-var mnemonic = "flight road month resource ghost orient candy monitor month silent reason fuel";
+var mnemonic = "sentence peasant final final initial bachelor rotate warm say simple ensure victory";

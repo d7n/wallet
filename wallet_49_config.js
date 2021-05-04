@@ -1,1 +1,1 @@
-var mnemonic = "gas fall matrix topic ketchup deny unfold change host predict tell rude";
+var mnemonic = "bronze interest digital code ivory future smart special already trap pen tongue";

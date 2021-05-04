@@ -1,1 +1,1 @@
-var mnemonic = "minute siege snap grace element universe margin degree torch august theme swing";
+var mnemonic = "zero bomb fiscal swear gasp avocado portion child urge various sugar bone";

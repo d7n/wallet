@@ -1,1 +1,1 @@
-var mnemonic = "paper become toy where mystery cereal film twin nose cannon business pet";
+var mnemonic = "voice betray radar resist captain inmate matrix clutch mango digital sense involve";

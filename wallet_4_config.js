@@ -1,1 +1,1 @@
-var mnemonic = "vault rough save they weird place enhance auction lobster cupboard script celery";
+var mnemonic = "into wrong bullet either minimum limb cute elevator month fruit vague grocery";

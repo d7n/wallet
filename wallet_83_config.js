@@ -1,1 +1,1 @@
-var mnemonic = "desert rare swift quick false script artefact off allow pool curve success";
+var mnemonic = "shy tonight runway tonight voyage prefer soccer young sound increase system present";

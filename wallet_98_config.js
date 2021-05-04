@@ -1,1 +1,1 @@
-var mnemonic = "silver father rent zoo unhappy wait picnic moral economy security toilet fortune";
+var mnemonic = "paper have web mind mercy nerve frown borrow wrong dizzy swallow egg";

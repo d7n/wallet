@@ -1,1 +1,1 @@
-var mnemonic = "cabbage wealth ketchup hawk roast cactus ramp flip globe stomach purchase mass";
+var mnemonic = "hello tone crack walk traffic fall frown hurt leader boy economy supply";

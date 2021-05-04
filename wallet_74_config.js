@@ -1,1 +1,1 @@
-var mnemonic = "start title merge arrive grass bag novel tree step sibling icon lawn";
+var mnemonic = "pull sad advice funny ability give giraffe above wife gaze load suspect";

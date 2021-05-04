@@ -1,1 +1,1 @@
-var mnemonic = "stock broken clever phrase faith decrease risk injury blur twenty lesson tragic";
+var mnemonic = "tilt matter grief bunker wall road wealth view debate traffic winner anxiety";

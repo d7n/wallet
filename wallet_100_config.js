@@ -1,1 +1,1 @@
-var mnemonic = "film summer language magic ramp bachelor soon elevator guard glide throw bounce";
+var mnemonic = "blouse fame identify visit clerk since yard market since laundry object oxygen";

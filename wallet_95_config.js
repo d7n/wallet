@@ -1,1 +1,1 @@
-var mnemonic = "people man lens minor cup rice couple tuition enter fire exotic release";
+var mnemonic = "accident few immense session warm narrow awful they joke suspect turn kiwi";

@@ -1,1 +1,1 @@
-var mnemonic = "addict offer mosquito bean helmet system range tiger van rescue catch tenant";
+var mnemonic = "relax memory purity business negative vendor shoe admit remember steel cause curious";

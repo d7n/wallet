@@ -1,1 +1,1 @@
-var mnemonic = "pudding sadness tortoise divorce key guitar erase confirm situate fatal train blood";
+var mnemonic = "minor stay exhibit humble capital roof clerk obvious ugly cherry hard clock";

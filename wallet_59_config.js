@@ -1,1 +1,1 @@
-var mnemonic = "slogan awkward produce hybrid find cube scatter tired vanish tip absorb thing";
+var mnemonic = "piece pole broken novel produce shrimp patrol donate glad tennis suggest staff";

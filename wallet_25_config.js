@@ -1,1 +1,1 @@
-var mnemonic = "honey inside layer student timber rural rescue predict lemon ritual cram mix";
+var mnemonic = "kingdom exchange company junk furnace foster zone health cream across expect tongue";

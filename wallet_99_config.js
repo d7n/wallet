@@ -1,1 +1,1 @@
-var mnemonic = "grass situate sugar pumpkin gap pepper pole ice door load hungry correct";
+var mnemonic = "stadium lobster veteran feed omit shoulder online nasty truth video neck novel";

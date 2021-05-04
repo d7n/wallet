@@ -1,1 +1,1 @@
-var mnemonic = "ride leave credit hidden crater metal zone title siren fish scatter teach";
+var mnemonic = "ask wonder bicycle senior vessel maid cinnamon wait pig dumb motion pulse";

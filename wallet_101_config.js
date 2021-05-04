@@ -1,1 +1,1 @@
-var mnemonic = "claw upset sand bottom risk boy cement other frame armor blue black";
+var mnemonic = "cement pupil tumble orbit custom myself dwarf inherit rice army uniform afraid";

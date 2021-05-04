@@ -1,1 +1,1 @@
-var mnemonic = "girl super dry noble squirrel uncover stuff belt novel wear above eternal";
+var mnemonic = "sister try city marble slam public buzz drop antique page inform acquire";

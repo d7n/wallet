@@ -1,1 +1,1 @@
-var mnemonic = "wrong gadget cave swift stadium track leaf habit word enhance current twist";
+var mnemonic = "myth mail help alien step thought omit fever glimpse alien lion among";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze vague keen tiger shrug slow intact hard ripple lottery math snow";
+var mnemonic = "theme couch immune erode token vital rural private uncle rely industry measure";

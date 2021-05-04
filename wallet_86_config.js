@@ -1,1 +1,1 @@
-var mnemonic = "coin oblige host sweet cross ranch robot boss cat swing loan weapon";
+var mnemonic = "liberty peasant eternal funny crack warm harvest car exclude elephant crisp situate";

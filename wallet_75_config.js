@@ -1,1 +1,1 @@
-var mnemonic = "tattoo vivid toe position ride yard noble disorder hammer cheese lawn sail";
+var mnemonic = "boy novel sorry lizard innocent glad visa morning motion airport bubble fatal";

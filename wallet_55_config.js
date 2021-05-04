@@ -1,1 +1,1 @@
-var mnemonic = "army battle spider thunder chuckle demise goat coil upset pave ocean knife";
+var mnemonic = "novel near private loyal ladder utility boy pigeon unusual maze lounge sort";

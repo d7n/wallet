@@ -1,1 +1,1 @@
-var mnemonic = "test siege noble awful question inform arrange quick couch supreme exhibit ignore";
+var mnemonic = "wall neither north buyer squeeze interest method high injury embark night gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "route exit comfort oven melody eye congress often early text merry potato";
+var mnemonic = "style circle repair potato matrix truly fortune zone control satoshi royal island";

@@ -1,1 +1,1 @@
-var mnemonic = "rib special boss venture because girl kidney roof wave orchard spin whale";
+var mnemonic = "vicious pause quick belt crisp taste almost twist among ask frost brief";

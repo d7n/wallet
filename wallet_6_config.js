@@ -1,1 +1,1 @@
-var mnemonic = "peanut worry giant print wave trim planet type foster advice mom local";
+var mnemonic = "print blade blossom rack copy nest sauce slide hole average limb worth";

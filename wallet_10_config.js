@@ -1,1 +1,1 @@
-var mnemonic = "useful height jump grass decorate vessel service nature burst fiction foam figure";
+var mnemonic = "brick citizen position game sunset talk tower beef muffin kit spy easily";

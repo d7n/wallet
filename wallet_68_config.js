@@ -1,1 +1,1 @@
-var mnemonic = "depart chaos cost blade simple treat prevent few whisper frame tray pond";
+var mnemonic = "swarm brother trade team animal hurdle file armed proud consider ancient now";

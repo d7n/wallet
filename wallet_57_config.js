@@ -1,1 +1,1 @@
-var mnemonic = "walnut jar sail obscure wreck when modify decline shop now spray bike";
+var mnemonic = "trim idea index extra poem network myself weasel nominee bleak peace hybrid";

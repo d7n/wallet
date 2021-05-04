@@ -1,1 +1,1 @@
-var mnemonic = "learn appear bunker pattern license skull mixture treat hotel fever pioneer expose";
+var mnemonic = "sell tuition art shoulder dynamic game struggle captain cotton expose magnet clean";

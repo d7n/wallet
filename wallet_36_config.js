@@ -1,1 +1,1 @@
-var mnemonic = "edge orbit joke garlic chat thank awesome bunker elegant charge belt mercy";
+var mnemonic = "dad recycle female vivid name dismiss good pizza cabin cruise alpha zero";

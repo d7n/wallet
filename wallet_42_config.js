@@ -1,1 +1,1 @@
-var mnemonic = "cause turtle base jump quiz rare erosion multiply mean hand error sand";
+var mnemonic = "ginger hello peasant august dog cart goddess monkey trade coach marriage inherit";

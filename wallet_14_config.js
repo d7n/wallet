@@ -1,1 +1,1 @@
-var mnemonic = "hire chair visual slide gap churn acid kiss embark spirit wealth bitter";
+var mnemonic = "almost cushion lemon plastic narrow depth price affair phrase shallow mechanic quick";

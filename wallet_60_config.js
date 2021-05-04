@@ -1,1 +1,1 @@
-var mnemonic = "thumb people pigeon glory marine final sight cool shell rib civil loyal";
+var mnemonic = "melt aware floor remind bacon convince vapor blur cousin skull shoot aware";

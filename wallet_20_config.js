@@ -1,1 +1,1 @@
-var mnemonic = "urban section travel torch october clerk squirrel strike ostrich one flash punch";
+var mnemonic = "sand inside detect situate empower loud seed cake try future equal december";

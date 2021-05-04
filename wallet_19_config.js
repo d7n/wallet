@@ -1,1 +1,1 @@
-var mnemonic = "expand coach reform outdoor off kingdom arrange position almost finish pistol melody";
+var mnemonic = "early obscure zoo drill skin ladder buddy curious soup pact street predict";

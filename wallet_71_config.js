@@ -1,1 +1,1 @@
-var mnemonic = "spray raven unaware alien usage destroy brand old session whip gentle van";
+var mnemonic = "goddess gain impose october dinner roof bracket math endorse motor luxury paddle";

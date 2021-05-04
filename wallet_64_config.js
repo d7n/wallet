@@ -1,1 +1,1 @@
-var mnemonic = "ridge memory author pioneer track ketchup traffic enable forest creek jump skate";
+var mnemonic = "spider pair deputy interest submit beach lemon dish knee claim bless drastic";

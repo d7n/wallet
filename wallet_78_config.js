@@ -1,1 +1,1 @@
-var mnemonic = "flock outdoor stem holiday exhibit present category mouse warrior sketch pulse stumble";
+var mnemonic = "dignity join garment rifle sunny remind hundred they slam cheese news witness";

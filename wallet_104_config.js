@@ -1,1 +1,1 @@
-var mnemonic = "novel example motion example raccoon around luxury stable fancy crush style arctic";
+var mnemonic = "ocean liquid sting game cattle flavor display area home correct enable resemble";

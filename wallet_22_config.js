@@ -1,1 +1,1 @@
-var mnemonic = "scatter royal century grab room vivid exclude fancy sunset else amazing people";
+var mnemonic = "document window panic intact force human orphan organ city pepper fortune smart";

@@ -1,1 +1,1 @@
-var mnemonic = "throw perfect curious vital hedgehog energy crash soup large dinner narrow cousin";
+var mnemonic = "adjust half group enemy brisk hurry crisp frame area impose topple ethics";

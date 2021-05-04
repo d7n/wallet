@@ -1,1 +1,1 @@
-var mnemonic = "despair fish furnace wealth laptop canoe word left visit crisp belt produce";
+var mnemonic = "avocado that tag defy imitate learn ability trumpet truck economy exist decade";

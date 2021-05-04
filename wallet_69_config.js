@@ -1,1 +1,1 @@
-var mnemonic = "grief eager tiger burden wire broom sauce model lab price slice time";
+var mnemonic = "club emerge leopard crack record fire motion bacon fever jacket gap supreme";

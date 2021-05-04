@@ -1,1 +1,1 @@
-var mnemonic = "food keep major rate stick shock daughter thing phrase miracle jaguar occur";
+var mnemonic = "cluster corn chaos brief autumn shine logic ecology judge produce they warm";

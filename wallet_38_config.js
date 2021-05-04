@@ -1,1 +1,1 @@
-var mnemonic = "chaos arm cry fish aware brain dress cotton sad erase marble system";
+var mnemonic = "enrich tone pride seven develop shallow purpose van notice feature install real";

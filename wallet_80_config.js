@@ -1,1 +1,1 @@
-var mnemonic = "rocket ancient first below zoo casino again lounge song gather kiwi excite";
+var mnemonic = "acoustic drill act oyster frozen theme theory siren congress brain alpha circle";

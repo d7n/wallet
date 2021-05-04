@@ -1,1 +1,1 @@
-var mnemonic = "sun marine sadness mosquito fall remind select nephew assault market power river";
+var mnemonic = "sick situate diary thumb drip hen photo pretty worth network celery diary";

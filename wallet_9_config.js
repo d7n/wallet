@@ -1,1 +1,1 @@
-var mnemonic = "coil mail matter orchard adapt pony stick float regret copper poverty badge";
+var mnemonic = "volcano business trade immune ill smooth soft rice rib immense flower mimic";

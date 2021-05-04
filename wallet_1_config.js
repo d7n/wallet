@@ -1,1 +1,1 @@
-var mnemonic = "able pyramid cycle tiger leader heavy bacon fiction crane spoon burst long";
+var mnemonic = "nuclear debris silent gravity cactus riot country excess axis happy unusual flag";

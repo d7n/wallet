@@ -1,1 +1,1 @@
-var mnemonic = "one child illness grant argue else bundle eagle grunt select track super";
+var mnemonic = "evil borrow cheese knife amused false hint sausage spot angle unveil mad";

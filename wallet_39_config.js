@@ -1,1 +1,1 @@
-var mnemonic = "speed master screen elder time garment advance wave push clog claw local";
+var mnemonic = "ocean puppy quality faint account merry dance kidney health art clip hover";

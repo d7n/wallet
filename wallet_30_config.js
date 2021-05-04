@@ -1,1 +1,1 @@
-var mnemonic = "brown volume give mercy fury lamp nurse enough little hammer virus hobby";
+var mnemonic = "middle lounge cube issue lava earn cabin endless beauty pause fix actress";

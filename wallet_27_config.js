@@ -1,1 +1,1 @@
-var mnemonic = "mountain forget timber add upgrade thunder stand try seminar scout strategy music";
+var mnemonic = "plug term similar remain depth lazy execute unaware lab clean blur rifle";

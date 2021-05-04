@@ -1,1 +1,1 @@
-var mnemonic = "example stay purchase dragon bind nerve wing excite reason flat increase vault";
+var mnemonic = "fine wagon good fancy step teach deny bike little spray front service";

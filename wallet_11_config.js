@@ -1,1 +1,1 @@
-var mnemonic = "clock denial depart ring tired input minor theory nation rude visual grief";
+var mnemonic = "verify gauge hair hub awesome position target gap rotate endless iron arrow";

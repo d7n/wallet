@@ -1,1 +1,1 @@
-var mnemonic = "direct raw orbit salon chuckle hazard awkward struggle mouse fat buyer solar";
+var mnemonic = "sign anchor kangaroo busy gun bright fuel salt carpet shell convince tank";

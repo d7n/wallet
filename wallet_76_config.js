@@ -1,1 +1,1 @@
-var mnemonic = "retreat sponsor position stone jealous robust belt roast ship hurry shallow media";
+var mnemonic = "kingdom start company organ symptom find source brown truck life erosion frozen";

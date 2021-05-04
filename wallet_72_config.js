@@ -1,1 +1,1 @@
-var mnemonic = "junior odor view exchange ripple fox advance pig salute hollow village endorse";
+var mnemonic = "gas supply roast option talent come actor attitude salad arm draft match";

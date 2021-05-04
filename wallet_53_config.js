@@ -1,1 +1,1 @@
-var mnemonic = "flash echo category indicate display fragile interest seven dragon evolve author arrest";
+var mnemonic = "garage almost pelican duty lobster exercise october adapt service muffin verify abstract";

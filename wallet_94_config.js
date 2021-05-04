@@ -1,1 +1,1 @@
-var mnemonic = "myth hood depart cigar inhale fury rebuild cliff ridge mixture crucial job";
+var mnemonic = "slab arena agree bunker pulse popular chest fold salt organ embark actress";

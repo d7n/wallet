@@ -1,1 +1,1 @@
-var mnemonic = "track region mango feed property wreck ozone chapter rigid bar mimic science";
+var mnemonic = "auction hawk style omit tomato top bleak soul talk title wire marble";

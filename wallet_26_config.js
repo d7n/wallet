@@ -1,1 +1,1 @@
-var mnemonic = "eight width sheriff tunnel flag this sudden distance service number journey dial";
+var mnemonic = "job swamp solve hair call debate toddler where slide ghost city afford";

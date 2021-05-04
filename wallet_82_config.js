@@ -1,1 +1,1 @@
-var mnemonic = "you immense cat recall pitch page hub exclude trigger tide error welcome";
+var mnemonic = "salmon achieve slot will choice burger churn wrestle speed song method dragon";

@@ -1,1 +1,1 @@
-var mnemonic = "input tube hope board horse elite kiss grocery joke galaxy harvest shock";
+var mnemonic = "prison beauty cage urban toward spring ripple chronic find budget fiber retreat";

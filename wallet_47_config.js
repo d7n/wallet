@@ -1,1 +1,1 @@
-var mnemonic = "merge coil chalk trigger vintage furnace pelican actual cheese lunar ginger meat";
+var mnemonic = "design burst change during scorpion embody yellow tank street swift broom gloom";

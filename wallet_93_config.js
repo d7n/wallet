@@ -1,1 +1,1 @@
-var mnemonic = "trip spice club soon short vague panic genre odor mixture excuse sight";
+var mnemonic = "dynamic clean glow lion guilt infant pulp skate actress ice elbow fitness";

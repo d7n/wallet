@@ -1,1 +1,1 @@
-var mnemonic = "solar carpet lecture sweet join elevator never charge bread palm cherry salmon";
+var mnemonic = "disease way gesture waste access hill crisp survey cluster giant hidden kite";

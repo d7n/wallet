@@ -1,1 +1,1 @@
-var mnemonic = "opera front keep fault grid plug dust witness romance attack whale cactus";
+var mnemonic = "mention major task draw glow survey vacant thought awkward doctor erode gospel";

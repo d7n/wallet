@@ -1,1 +1,1 @@
-var mnemonic = "lake matter that hungry manage snack maximum split frost fade hover taste";
+var mnemonic = "device library pill any laptop royal dentist typical owner motor enemy damage";

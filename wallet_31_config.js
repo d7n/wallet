@@ -1,1 +1,1 @@
-var mnemonic = "gun mule wise type conduct thank join consider express steel accuse mixed";
+var mnemonic = "dish mimic gap receive north host bronze volume hamster vault celery embark";

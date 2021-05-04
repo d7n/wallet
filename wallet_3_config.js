@@ -1,1 +1,1 @@
-var mnemonic = "insect tourist whip trophy trip put silly north hospital limit iron discover";
+var mnemonic = "bleak mansion advance eight rookie various ski vintage celery hair sudden dream";

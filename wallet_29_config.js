@@ -1,1 +1,1 @@
-var mnemonic = "talent piano bracket someone iron misery infant bargain oyster reduce mutual sister";
+var mnemonic = "lion rare damp again meadow assume nothing relax guide olive access embark";

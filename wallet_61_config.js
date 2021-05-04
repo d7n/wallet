@@ -1,1 +1,1 @@
-var mnemonic = "mushroom humble talk admit loyal cruise coil large horn quiz few absent";
+var mnemonic = "galaxy yellow coast stand item biology task vintage exchange stand entire grass";

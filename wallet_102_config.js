@@ -1,1 +1,1 @@
-var mnemonic = "body that thunder kid own sister blast interest main question live smooth";
+var mnemonic = "tonight among grocery reunion maid whale raccoon february sell army best flight";

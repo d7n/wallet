@@ -1,1 +1,1 @@
-var mnemonic = "voyage wood wash radar prevent photo check fog device private lumber ethics";
+var mnemonic = "chapter vicious connect season note skirt force spawn rocket harbor enemy ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "anger dress aim tell uniform cycle medal dish rug because token wait";
+var mnemonic = "ancient exist phone truck record soft minimum broom elevator scissors warrior warfare";

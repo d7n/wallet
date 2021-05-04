@@ -1,1 +1,1 @@
-var mnemonic = "differ brisk maid island differ horse okay find tattoo hamster never salon";
+var mnemonic = "income core pony surface soldier now average pipe sign tragic balcony cube";

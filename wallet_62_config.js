@@ -1,1 +1,1 @@
-var mnemonic = "hold typical lab verb snack arrow poverty pipe angle average region blush";
+var mnemonic = "distance conduct drip piece vital earth six turkey jacket oil father vague";

@@ -1,1 +1,1 @@
-var mnemonic = "purse lawn coin trust once oil arrest month depart sugar weekend six";
+var mnemonic = "network typical mixture table confirm enroll pond denial table earn table witness";
