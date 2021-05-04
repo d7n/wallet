@@ -1,1 +1,1 @@
-var mnemonic = "boat follow exhibit finger fox subway olympic six frog margin diagram ski";
+var mnemonic = "knee above fame trend athlete swing evil couple air front very brush";

@@ -1,1 +1,1 @@
-var mnemonic = "bag digital absurd voyage change prosper major leopard daring aim artwork portion";
+var mnemonic = "virtual accident include beauty all mouse drive grab farm length since grab";

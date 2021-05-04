@@ -1,1 +1,1 @@
-var mnemonic = "rescue youth dream april know cart goat access scheme violin text ketchup";
+var mnemonic = "museum head cruise zero cotton phrase drive virus mention hurt nature reject";

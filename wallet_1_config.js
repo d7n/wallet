@@ -1,1 +1,1 @@
-var mnemonic = "taxi list agree scan deliver team major screen boring number rather journey";
+var mnemonic = "tenant public walnut group square quiz crazy vacuum ignore jungle luxury kangaroo";

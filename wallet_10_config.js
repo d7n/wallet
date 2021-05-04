@@ -1,1 +1,1 @@
-var mnemonic = "forum stove sleep clock ladder federal cradle ranch raven tissue elder repair";
+var mnemonic = "correct unhappy slab multiply mirror dolphin nerve lounge milk camp clerk grocery";

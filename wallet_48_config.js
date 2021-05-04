@@ -1,1 +1,1 @@
-var mnemonic = "about broken steel fence mechanic engine link explain split cotton ecology burden";
+var mnemonic = "surface climb hurry script sword boy image mosquito blade depth employ iron";

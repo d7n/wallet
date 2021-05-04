@@ -1,1 +1,1 @@
-var mnemonic = "east woman obscure announce mention lawn blanket ginger bread jungle absent flag";
+var mnemonic = "ivory attitude find monitor duty immune polar alien market lunch across plunge";

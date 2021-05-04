@@ -1,1 +1,1 @@
-var mnemonic = "earn candy retire wish canyon company huge reflect swarm rule leopard decide";
+var mnemonic = "vault grace become ugly enter bargain middle loud imitate walnut subway middle";

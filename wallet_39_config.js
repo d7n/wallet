@@ -1,1 +1,1 @@
-var mnemonic = "unit gravity begin squirrel trash twist act fiscal crowd spike system cup";
+var mnemonic = "unusual mixed outdoor spray fluid rare panther catalog gentle add panda buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "fury spend critic pull scheme pride burst sustain own admit usual possible";
+var mnemonic = "soccer weird purse mountain pattern settle act drastic citizen slight main ketchup";

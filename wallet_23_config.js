@@ -1,1 +1,1 @@
-var mnemonic = "bless famous street winter hub token latin husband river urban check bargain";
+var mnemonic = "seminar people plastic fork liar mosquito enforce hour lobster target planet write";

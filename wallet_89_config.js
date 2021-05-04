@@ -1,1 +1,1 @@
-var mnemonic = "evolve wool warm vault fame faint fix sport card once sound skill";
+var mnemonic = "return future early crop gasp friend menu virtual major clerk member thunder";

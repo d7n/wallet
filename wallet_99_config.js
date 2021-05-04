@@ -1,1 +1,1 @@
-var mnemonic = "way stuff cruise insane domain crop drill derive ramp accuse cost sort";
+var mnemonic = "reopen bitter empower acoustic claim search narrow rival supreme profit monkey ankle";

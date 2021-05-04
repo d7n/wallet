@@ -1,1 +1,1 @@
-var mnemonic = "carpet deny choose delay check uniform allow trend volcano more dice retire";
+var mnemonic = "napkin step brush design ramp differ exhibit public display debris someone smart";

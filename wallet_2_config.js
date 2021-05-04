@@ -1,1 +1,1 @@
-var mnemonic = "collect waste fame soon tennis proof base awful chimney focus deer invest";
+var mnemonic = "road range collect mistake feature basket link throw menu govern cover clip";

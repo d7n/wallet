@@ -1,1 +1,1 @@
-var mnemonic = "fringe settle strategy chase twelve biology range inflict follow crucial odor benefit";
+var mnemonic = "sight drift net sponsor trial air clock tribe agree oven near raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "cushion symbol permit blue explain victory gasp vibrant thumb copy female crop";
+var mnemonic = "derive often skull prosper balcony skin garden milk exhaust skull asthma donor";

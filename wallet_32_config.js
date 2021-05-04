@@ -1,1 +1,1 @@
-var mnemonic = "quick notice orbit gesture tornado suffer rare transfer water panic action nothing";
+var mnemonic = "human season reveal man allow lumber melt warfare outdoor vote grocery oppose";

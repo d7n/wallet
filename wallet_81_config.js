@@ -1,1 +1,1 @@
-var mnemonic = "vast bundle point fossil option tag album code eager acid crucial ask";
+var mnemonic = "promote wine pond minute army typical business spirit today ecology must bar";

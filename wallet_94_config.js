@@ -1,1 +1,1 @@
-var mnemonic = "fade diesel please simple february minute theme term capital wisdom zoo walk";
+var mnemonic = "youth verb magic citizen arrow shove kick hundred flock portion wrap rookie";

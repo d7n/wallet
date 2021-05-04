@@ -1,1 +1,1 @@
-var mnemonic = "ecology tower boy defense lab glare proud either west engage castle shove";
+var mnemonic = "subject maze then hub write battle shoot scare defy shell left suffer";

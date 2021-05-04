@@ -1,1 +1,1 @@
-var mnemonic = "husband canal swim machine want chapter slide grief inner shell sister lonely";
+var mnemonic = "scatter lucky hockey below strike define galaxy cat mention join repeat baby";

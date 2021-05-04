@@ -1,1 +1,1 @@
-var mnemonic = "silly car stage ginger tape manage crime replace client vanish assault pitch";
+var mnemonic = "effort clean bonus bicycle fee hospital end method receive vacuum useful code";

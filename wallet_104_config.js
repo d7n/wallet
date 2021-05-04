@@ -1,1 +1,1 @@
-var mnemonic = "portion warm post scout such trust father excess indicate legend weekend nose";
+var mnemonic = "display tuna behind surge upon click achieve enjoy random kind palm aisle";

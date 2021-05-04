@@ -1,1 +1,1 @@
-var mnemonic = "bitter already ancient spin execute staff believe trap hybrid patrol funny depend";
+var mnemonic = "sand weapon shop cattle trash loop upset account orange pepper brain dress";

@@ -1,1 +1,1 @@
-var mnemonic = "heart spice next select leg dad brush coin loop kite stereo key";
+var mnemonic = "document cake retreat bleak afford report siren abstract call suspect bitter scan";

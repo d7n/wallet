@@ -1,1 +1,1 @@
-var mnemonic = "clarify media ice address hill hurt woman burger bracket ensure turkey almost";
+var mnemonic = "object work fiber green legend struggle journey glimpse public spawn saddle amateur";

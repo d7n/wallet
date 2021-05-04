@@ -1,1 +1,1 @@
-var mnemonic = "price attitude jazz oven slow offer siren palace message concert frequent uncover";
+var mnemonic = "amazing predict depart motion country afraid olympic giggle resemble afraid blue cave";

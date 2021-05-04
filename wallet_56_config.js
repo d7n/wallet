@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon power balcony save bracket become behind pencil crater april theory toy";
+var mnemonic = "scare fiction crowd shop young abandon render zone radar negative peanut west";

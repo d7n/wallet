@@ -1,1 +1,1 @@
-var mnemonic = "marine swim ritual alley festival divide message subway office naive spike agent";
+var mnemonic = "shaft broken rapid phone merry genre bundle tape whisper laundry element square";

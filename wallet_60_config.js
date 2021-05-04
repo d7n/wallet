@@ -1,1 +1,1 @@
-var mnemonic = "muffin side erosion response melt strong track island damp impact legal patrol";
+var mnemonic = "recycle soup brush stool sell patient volume release imitate leg state emerge";

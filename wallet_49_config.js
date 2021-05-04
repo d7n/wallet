@@ -1,1 +1,1 @@
-var mnemonic = "lift unhappy cabbage neglect olive carbon recycle pizza asthma comfort unusual cave";
+var mnemonic = "shadow blind what grass sea sunset drama surprise lobster tourist mutual rug";

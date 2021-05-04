@@ -1,1 +1,1 @@
-var mnemonic = "couple volcano cousin inherit home vote dolphin luxury fence adult couple nature";
+var mnemonic = "scare cost family guide tell sphere exhibit neither noble ask stay gift";

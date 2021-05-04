@@ -1,1 +1,1 @@
-var mnemonic = "hood feel crop hole album express input cute unveil depend elder rib";
+var mnemonic = "cloth special blanket attract forward receive mixture ginger cook share avocado fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "quote toe love horror april echo cannon wet save shy denial crumble";
+var mnemonic = "earth blade mechanic jaguar remember trigger paper expand panda fun diesel palace";

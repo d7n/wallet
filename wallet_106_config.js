@@ -1,1 +1,1 @@
-var mnemonic = "damage obtain shoulder trend gift clown finger scale school cute school pole";
+var mnemonic = "sense inhale half theme ozone add pony open recall board champion lyrics";

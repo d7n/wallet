@@ -1,1 +1,1 @@
-var mnemonic = "develop enhance employ grunt jazz milk electric exact source face equal climb";
+var mnemonic = "resist eager rural chuckle kingdom dolphin never brick meat cruise test liar";

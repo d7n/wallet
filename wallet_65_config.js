@@ -1,1 +1,1 @@
-var mnemonic = "hint stereo panther congress escape faculty lumber couple merge anxiety stumble surprise";
+var mnemonic = "vault fee vault guess huge wild song meadow employ water person script";

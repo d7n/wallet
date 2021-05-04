@@ -1,1 +1,1 @@
-var mnemonic = "enforce border square sweet chief squirrel skate maze intact dash magic clock";
+var mnemonic = "good install amount tornado differ pulse worth example little defy slice great";

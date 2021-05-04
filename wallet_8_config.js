@@ -1,1 +1,1 @@
-var mnemonic = "blossom dish refuse solar tomato light that siege veteran noise order such";
+var mnemonic = "guide minute gown marine adult blue session carbon assault witness quote cement";

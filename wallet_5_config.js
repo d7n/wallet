@@ -1,1 +1,1 @@
-var mnemonic = "atom aunt perfect dirt shell desert satoshi proof rival alpha loud above";
+var mnemonic = "science clump promote trade toss able inject camera now tornado tourist uphold";

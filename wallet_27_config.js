@@ -1,1 +1,1 @@
-var mnemonic = "direct casual occur person boring noise clump web curious book grit timber";
+var mnemonic = "wasp artefact seat icon abandon weird father gas rough describe intact help";

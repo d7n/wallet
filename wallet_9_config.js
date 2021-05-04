@@ -1,1 +1,1 @@
-var mnemonic = "dial diamond cloth actress ancient pole sauce beyond whale vessel dish eight";
+var mnemonic = "cheap cherry budget plunge section trade old snack segment success treat pattern";

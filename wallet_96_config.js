@@ -1,1 +1,1 @@
-var mnemonic = "mobile fiscal father have situate borrow shock cool enable attract chimney fly";
+var mnemonic = "destroy kangaroo small hill icon blossom dose tiger neither glove soda milk";

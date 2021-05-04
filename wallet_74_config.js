@@ -1,1 +1,1 @@
-var mnemonic = "debate social skirt gesture truth utility mercy uncover assume unusual icon clerk";
+var mnemonic = "afraid across chimney symptom update pole female quit sock barrel script drink";

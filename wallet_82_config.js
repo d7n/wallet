@@ -1,1 +1,1 @@
-var mnemonic = "decade canal rifle state share find biology blur produce opinion parent abandon";
+var mnemonic = "sock teach educate choose cruel mansion shoe observe trash grit agent swift";

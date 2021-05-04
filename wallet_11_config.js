@@ -1,1 +1,1 @@
-var mnemonic = "chronic seminar island crazy pilot unknown album reject lock frost robot indicate";
+var mnemonic = "barely radar scheme forward assume between reward pudding fashion intact stumble hip";

@@ -1,1 +1,1 @@
-var mnemonic = "answer popular general trade judge notice column ladder rent key iron cheap";
+var mnemonic = "amount north crawl tongue umbrella zero zero seven add fetch universe pupil";

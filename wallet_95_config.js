@@ -1,1 +1,1 @@
-var mnemonic = "immune bike rifle crush round divert offer boil return lend crunch give";
+var mnemonic = "defense behave jewel siren minute prosper stick token gentle book wire that";

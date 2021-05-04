@@ -1,1 +1,1 @@
-var mnemonic = "silver cup remind pool test phrase obvious patient label company jungle fire";
+var mnemonic = "fine depart kingdom arrange ribbon scare wife submit peace vast torch maid";

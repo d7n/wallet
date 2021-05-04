@@ -1,1 +1,1 @@
-var mnemonic = "boss stove olive electric diamond ritual switch cattle inspire all expect accident";
+var mnemonic = "ritual nurse enough food siege luxury level urge online female sock blast";

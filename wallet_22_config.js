@@ -1,1 +1,1 @@
-var mnemonic = "eye disagree piano lady youth retreat butter spice giant fade canvas nature";
+var mnemonic = "impose alien smooth fame high true useless notice income nerve impose cliff";

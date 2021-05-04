@@ -1,1 +1,1 @@
-var mnemonic = "creek ancient weather great clap aware truth fog budget such eternal swear";
+var mnemonic = "resist good panic shuffle next chair stereo era raise dinner deputy stage";

@@ -1,1 +1,1 @@
-var mnemonic = "group bachelor below typical view bring unhappy divert sleep beyond foam dinner";
+var mnemonic = "leaf still virtual timber vapor miracle merry joke only endorse engage pave";

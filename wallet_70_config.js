@@ -1,1 +1,1 @@
-var mnemonic = "nation employ idea index base vibrant puzzle furnace nurse exit lobster basic";
+var mnemonic = "orange toast vacant know plug target case announce laundry setup wet abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "express blood goat cricket vague under peasant kite frequent stand proud exhibit";
+var mnemonic = "viable merit return leader execute scene opera help vacant purpose unknown demand";

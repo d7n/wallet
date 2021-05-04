@@ -1,1 +1,1 @@
-var mnemonic = "click gather decline common torch art design that trip absorb maple off";
+var mnemonic = "dry load rate cross ladder unfold avoid frown owner ill fat bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt fatal lizard disorder laugh nest soap cushion okay tiny address wet";
+var mnemonic = "leg bachelor film art welcome faculty text tourist blouse praise palace alter";

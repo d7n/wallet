@@ -1,1 +1,1 @@
-var mnemonic = "captain cancel icon forget unknown illness thrive slight turkey fantasy rapid add";
+var mnemonic = "leave victory brief where language purse tilt shield state foot combine crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "century celery drip sniff nut hope cube rack cute shuffle wide jelly";
+var mnemonic = "doctor service sunset foam north meat pulse supply eight celery enjoy rather";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle ocean secret economy dolphin view initial century thought harsh capable rural";
+var mnemonic = "hand bullet season state frame can ecology eagle arena soul rule unknown";

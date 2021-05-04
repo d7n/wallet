@@ -1,1 +1,1 @@
-var mnemonic = "rabbit metal argue apple always often sand grocery kid taste solve vault";
+var mnemonic = "dice result early decorate weekend candy test chat actress safe crater room";

@@ -1,1 +1,1 @@
-var mnemonic = "essay alpha eagle upgrade frozen sleep tip grit city fish quote travel";
+var mnemonic = "suspect crawl interest habit saddle addict happy hurry chimney dad glove theory";

@@ -1,1 +1,1 @@
-var mnemonic = "much cherry copper rose pizza promote torch sugar split zoo there gloom";
+var mnemonic = "wasp canal index cattle opera gap sheriff degree remove develop harsh chase";

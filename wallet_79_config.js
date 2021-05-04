@@ -1,1 +1,1 @@
-var mnemonic = "common burst mansion purse asthma town rude supreme where slide betray ten";
+var mnemonic = "window honey merry mean burden episode garlic case know spider early badge";

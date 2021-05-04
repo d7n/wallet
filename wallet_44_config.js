@@ -1,1 +1,1 @@
-var mnemonic = "solid bottom tornado that view devote sunset east olive elephant owner size";
+var mnemonic = "sweet book tiny dove bracket hard neck armed hollow sea keep blast";

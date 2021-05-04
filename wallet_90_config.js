@@ -1,1 +1,1 @@
-var mnemonic = "tone off stable word main park gate kind pizza lens secret spike";
+var mnemonic = "night soda very number beef victory festival village spatial planet license van";

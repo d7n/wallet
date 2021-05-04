@@ -1,1 +1,1 @@
-var mnemonic = "stock rookie view pioneer suggest actor broom result glare cart convince alert";
+var mnemonic = "club extend honey tip busy stock crumble right sing elephant surge ocean";

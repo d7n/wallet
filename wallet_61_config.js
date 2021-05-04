@@ -1,1 +1,1 @@
-var mnemonic = "film front then royal coin blue series disorder sight enrich loyal book";
+var mnemonic = "output sleep midnight toy tool property artefact enter lift there moral vivid";

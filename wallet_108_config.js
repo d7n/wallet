@@ -1,1 +1,1 @@
-var mnemonic = "crater inflict regular luggage property diamond twin flash mansion whisper gas crumble";
+var mnemonic = "awful bird sausage often joy foam welcome define cotton normal remember spice";

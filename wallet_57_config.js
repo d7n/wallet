@@ -1,1 +1,1 @@
-var mnemonic = "exhibit spike bring decide throw much pigeon sell skill plastic noise sport";
+var mnemonic = "floor slim people accuse web cattle print since explain cream muscle fashion";

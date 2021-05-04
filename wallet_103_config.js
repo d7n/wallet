@@ -1,1 +1,1 @@
-var mnemonic = "plate series angry parade attend embark ancient slice ritual pyramid tobacco curtain";
+var mnemonic = "belt mimic stock people nose teach convince junior cry pig math what";

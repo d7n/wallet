@@ -1,1 +1,1 @@
-var mnemonic = "advice enact steel genre palm few assault cart birth grit conduct cushion";
+var mnemonic = "foil found million describe hood note dish now clever poverty wheel diet";

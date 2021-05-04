@@ -1,1 +1,1 @@
-var mnemonic = "wing other route invite pipe during thank chicken camera prosper broccoli shuffle";
+var mnemonic = "amount way before already health energy penalty illness off praise reason buzz";

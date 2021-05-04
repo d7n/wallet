@@ -1,1 +1,1 @@
-var mnemonic = "glide actress barrel onion enough stand bag chicken soda put sunny caution";
+var mnemonic = "drum boat subway they route climb real speak double best annual uphold";

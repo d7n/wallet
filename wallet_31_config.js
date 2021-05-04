@@ -1,1 +1,1 @@
-var mnemonic = "dutch glow ankle hard bridge attend seven people forget shove screen hamster";
+var mnemonic = "early because wrestle catalog fiction uphold regular double easy sport adjust valve";

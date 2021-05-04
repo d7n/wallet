@@ -1,1 +1,1 @@
-var mnemonic = "other enrich weird shine news ribbon detail outdoor stool fun input piano";
+var mnemonic = "reunion arena siege wreck video diamond stadium wear fatal feature rebel oppose";

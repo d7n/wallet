@@ -1,1 +1,1 @@
-var mnemonic = "stick quote pilot point juice animal tortoise dilemma sure rug horn photo";
+var mnemonic = "fatal thrive convince pipe dignity rent boss sign this lion school estate";

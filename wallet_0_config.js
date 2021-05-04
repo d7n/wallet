@@ -1,1 +1,1 @@
-var mnemonic = "inflict fish clay acquire season fabric twenty museum vital napkin butter loan";
+var mnemonic = "earn foster essay scissors board correct sell stem guard grit cake crane";

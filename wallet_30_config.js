@@ -1,1 +1,1 @@
-var mnemonic = "voyage hero comfort share reform country truck hidden basket parade sphere tool";
+var mnemonic = "bulb jelly boil canvas antenna acoustic swamp noodle tonight vote expose wet";

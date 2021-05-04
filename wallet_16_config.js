@@ -1,1 +1,1 @@
-var mnemonic = "busy pizza system garlic style fantasy dress real season track garment deal";
+var mnemonic = "spice naive awful patient hat similar tissue match drop strong danger differ";

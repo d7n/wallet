@@ -1,1 +1,1 @@
-var mnemonic = "fame brown idle upper city please heavy gun easily gold purse cement";
+var mnemonic = "retreat snack polar vendor seven picnic glare home staff pave vague emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "index desert trap suspect only edit shove inquiry limb favorite strategy follow";
+var mnemonic = "tray lizard enroll priority shell assist season suspect start sad tattoo card";

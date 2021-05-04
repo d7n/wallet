@@ -1,1 +1,1 @@
-var mnemonic = "fiber crawl company custom column notable duty merge candy curve coyote excess";
+var mnemonic = "concert vivid either repair protect tooth ignore month knife stuff inhale inside";

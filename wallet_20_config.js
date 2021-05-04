@@ -1,1 +1,1 @@
-var mnemonic = "panther laugh february garlic glide cave ramp thought rocket isolate double leg";
+var mnemonic = "intact this noble bundle since film salmon harvest bus frown poem frame";

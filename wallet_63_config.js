@@ -1,1 +1,1 @@
-var mnemonic = "regular find bulk basket curtain human hole gate reject access staff salad";
+var mnemonic = "casino energy base color trash faculty nephew dynamic mutual meadow tool loud";
