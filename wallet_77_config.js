@@ -1,1 +1,1 @@
-var mnemonic = "master crop vault taxi sample either olympic permit life insect any domain";
+var mnemonic = "afford swap stage swallow fossil sugar funny bulk bind win roast receive";

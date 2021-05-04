@@ -1,1 +1,1 @@
-var mnemonic = "play what inhale float cook candy wait forward secret insect much rain";
+var mnemonic = "vast friend divide slide return security veteran dirt demand century family lazy";

@@ -1,1 +1,1 @@
-var mnemonic = "shoe crunch atom pencil social fit vote refuse pill employ energy carpet";
+var mnemonic = "candy task spatial dash rug note craft album develop network worth dad";

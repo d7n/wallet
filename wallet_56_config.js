@@ -1,1 +1,1 @@
-var mnemonic = "shoulder office join boost ring animal lady green tortoise leader useful decrease";
+var mnemonic = "garage frost pretty absurd weasel worth select intact news adapt apple crack";

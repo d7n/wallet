@@ -1,1 +1,1 @@
-var mnemonic = "globe spare claim cluster congress valley gown letter wait wrist cigar announce";
+var mnemonic = "bring suffer ladder sugar mutual bonus move ostrich transfer stairs lion smart";

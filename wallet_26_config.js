@@ -1,1 +1,1 @@
-var mnemonic = "negative song recall water process shock trip drama try mail job member";
+var mnemonic = "effort upgrade vocal broccoli health cupboard decide chaos uncle april blossom direct";

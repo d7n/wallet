@@ -1,1 +1,1 @@
-var mnemonic = "list stable smart mansion illness moral viable palace oil aisle reason ski";
+var mnemonic = "short float pet check multiply auction item absent math slide when chronic";

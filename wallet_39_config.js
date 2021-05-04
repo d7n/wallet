@@ -1,1 +1,1 @@
-var mnemonic = "nation reject claim sustain board upgrade model gold review give original remind";
+var mnemonic = "genre proud light slush choice hold jelly catch inject slogan high flight";

@@ -1,1 +1,1 @@
-var mnemonic = "wait equal valley detail sign style say stone account member health razor";
+var mnemonic = "sugar tonight brisk index evoke cricket top kingdom ball basket scout jungle";

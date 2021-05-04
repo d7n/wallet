@@ -1,1 +1,1 @@
-var mnemonic = "famous donate analyst draw caution harvest message always tail cheap carpet struggle";
+var mnemonic = "reopen gap drip process medal lazy deny try forward please endorse bag";

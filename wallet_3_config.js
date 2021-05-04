@@ -1,1 +1,1 @@
-var mnemonic = "good tag mesh use assume true advance either recycle domain speak bright";
+var mnemonic = "path vicious baby century area pear cruel gentle copy scrub blossom primary";

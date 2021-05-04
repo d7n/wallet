@@ -1,1 +1,1 @@
-var mnemonic = "point laptop blanket extend absent guess addict stairs stage enter away tragic";
+var mnemonic = "phrase honey sausage garbage taste strike rare number gallery eager syrup keep";

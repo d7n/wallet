@@ -1,1 +1,1 @@
-var mnemonic = "easily gauge mom crush alarm alone abstract federal lobster layer coconut party";
+var mnemonic = "fresh minor shock jungle frog match remove excite truck umbrella hungry begin";

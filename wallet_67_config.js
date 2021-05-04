@@ -1,1 +1,1 @@
-var mnemonic = "width taxi frame sting danger bean dirt tank video rail film lizard";
+var mnemonic = "genre era unit consider rule arm toy recall word beyond vanish tone";

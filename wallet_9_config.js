@@ -1,1 +1,1 @@
-var mnemonic = "quote dream relax accuse hazard pluck mass frog owner clown layer brass";
+var mnemonic = "grid amused into ladder country egg round planet impact close tower robust";

@@ -1,1 +1,1 @@
-var mnemonic = "flag want hope office stumble life wasp bounce april summer catch weather";
+var mnemonic = "scatter apple pottery bus wise wrong differ wire local volcano gorilla loan";

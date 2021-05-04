@@ -1,1 +1,1 @@
-var mnemonic = "earn smooth extend light patient success deny clown matter enroll version pulse";
+var mnemonic = "breeze upon grid raccoon family sail price develop true match nurse assault";

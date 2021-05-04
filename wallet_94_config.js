@@ -1,1 +1,1 @@
-var mnemonic = "inspire link globe true feel carry crash mass size please pride defense";
+var mnemonic = "autumn lift wide knock cat connect crime canvas sunset syrup neutral label";

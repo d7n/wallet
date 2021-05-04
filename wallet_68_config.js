@@ -1,1 +1,1 @@
-var mnemonic = "change core together cabbage outdoor junior gadget draw about forum muscle section";
+var mnemonic = "aim seat mushroom guard stamp black roof merry liar cinnamon north melody";

@@ -1,1 +1,1 @@
-var mnemonic = "draft sustain sausage deposit feel person toddler write useless unknown prevent accident";
+var mnemonic = "addict decade hidden nothing toss sure uncle degree claw rigid casual chimney";

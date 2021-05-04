@@ -1,1 +1,1 @@
-var mnemonic = "motor assault analyst proof diamond survey must mistake pitch safe tunnel print";
+var mnemonic = "come analyst useless popular fee monitor mail blanket search vocal inform search";

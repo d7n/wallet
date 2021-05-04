@@ -1,1 +1,1 @@
-var mnemonic = "yard diamond clinic spend worth swamp okay service can sing talk address";
+var mnemonic = "blade idea deer craft soup runway muffin creek worry talent park dragon";

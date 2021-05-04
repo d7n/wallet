@@ -1,1 +1,1 @@
-var mnemonic = "riot bridge argue dismiss define flame swift video fork share risk park";
+var mnemonic = "code gauge bean search way riot hint wide viable soda already innocent";

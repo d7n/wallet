@@ -1,1 +1,1 @@
-var mnemonic = "mimic foster acoustic trigger salt volcano hazard flip depend dress charge picture";
+var mnemonic = "tide visa update minimum glory right subway method antenna bless enforce initial";

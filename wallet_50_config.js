@@ -1,1 +1,1 @@
-var mnemonic = "original tone pear armor game rubber cheese cycle snap anchor jeans fury";
+var mnemonic = "venue depend replace ill planet method cube fantasy mention spring dash tag";

@@ -1,1 +1,1 @@
-var mnemonic = "because poverty ski cousin sunset guide welcome main invite abandon drink symptom";
+var mnemonic = "until celery fringe south yellow alley way kite elegant acid junior vote";

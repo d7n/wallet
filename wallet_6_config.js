@@ -1,1 +1,1 @@
-var mnemonic = "refuse vintage smart syrup elevator salad gallery forget crush jungle sugar river";
+var mnemonic = "hidden hurt monster link guide someone twist athlete cause razor smooth custom";

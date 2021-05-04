@@ -1,1 +1,1 @@
-var mnemonic = "exile chronic label pizza wealth cause awful lunar metal analyst flat dawn";
+var mnemonic = "aim machine admit giggle float various work once fix merit detect want";

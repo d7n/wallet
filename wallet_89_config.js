@@ -1,1 +1,1 @@
-var mnemonic = "barrel diamond chapter clock police nephew immune bar turn promote list van";
+var mnemonic = "kiwi stand flush rebel ticket knife post kite icon slam window play";

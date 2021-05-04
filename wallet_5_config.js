@@ -1,1 +1,1 @@
-var mnemonic = "candy priority update nothing code domain welcome visa palace obey slush century";
+var mnemonic = "economy mass brand ugly enforce veteran quality fossil over alter strike push";

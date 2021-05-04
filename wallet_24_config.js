@@ -1,1 +1,1 @@
-var mnemonic = "deal fork nerve concert body ugly eager ten ethics flame fortune fuel";
+var mnemonic = "between spirit piano this pigeon maple move series inside tent stereo lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude small symptom ecology tonight scorpion thought purpose search misery gain lab";
+var mnemonic = "assault erase marriage month lion drink industry muscle problem hollow bulb whip";

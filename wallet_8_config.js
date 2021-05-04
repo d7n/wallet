@@ -1,1 +1,1 @@
-var mnemonic = "soda number purpose debate decorate foil casino woman history mix fat unable";
+var mnemonic = "hand merry exclude shield crack onion subject twenty gaze social off roast";

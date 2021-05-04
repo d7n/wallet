@@ -1,1 +1,1 @@
-var mnemonic = "tortoise hotel trim have snake gather select return there fever trap pudding";
+var mnemonic = "receive prison dynamic winter champion small share quit debris couple girl draw";

@@ -1,1 +1,1 @@
-var mnemonic = "enter require real matrix marine dose topple foam palm always aerobic barrel";
+var mnemonic = "fortune amused sight magnet radar giraffe swallow razor drama sweet trade type";

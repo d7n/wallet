@@ -1,1 +1,1 @@
-var mnemonic = "typical wrap horror poet insane gloom hobby luggage fog quick twin tent";
+var mnemonic = "view fat produce slide absorb cry avocado fancy ranch correct garment hard";

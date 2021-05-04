@@ -1,1 +1,1 @@
-var mnemonic = "guide liquid alert rocket banana orient fly decline piece elite solve estate";
+var mnemonic = "afford ghost canoe unfold initial clinic sheriff shaft step female door model";

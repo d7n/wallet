@@ -1,1 +1,1 @@
-var mnemonic = "tenant antique problem woman inmate monitor annual matrix say horror confirm this";
+var mnemonic = "icon direct creek bike fun category cat winter assist razor toilet unaware";

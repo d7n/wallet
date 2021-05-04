@@ -1,1 +1,1 @@
-var mnemonic = "negative man skate cross fantasy soap abuse table crumble exotic talk pioneer";
+var mnemonic = "action build ladder idle glide analyst label release beyond conduct mass moral";

@@ -1,1 +1,1 @@
-var mnemonic = "uphold brass wasp absorb urban cabbage pottery demand labor rescue strategy favorite";
+var mnemonic = "light cannon use romance glass argue clap business image bounce beyond recipe";

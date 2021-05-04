@@ -1,1 +1,1 @@
-var mnemonic = "latin giraffe shaft caught client pluck person thank valve traffic bamboo mother";
+var mnemonic = "toast office garden require cigar satoshi parade category alien rubber cube avocado";

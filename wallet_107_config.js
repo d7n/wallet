@@ -1,1 +1,1 @@
-var mnemonic = "maple equal glad spin embark arch ahead anger pole recipe balcony address";
+var mnemonic = "crop mention stamp sample super escape involve vault square word balcony lazy";

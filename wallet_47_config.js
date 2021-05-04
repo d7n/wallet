@@ -1,1 +1,1 @@
-var mnemonic = "stadium alter opinion venture tray donor shoot noble day merge rural random";
+var mnemonic = "execute desk inflict glad knife cruise toss level crack lottery dog noble";

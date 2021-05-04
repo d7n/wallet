@@ -1,1 +1,1 @@
-var mnemonic = "lend inflict desert stadium blue barrel soap weapon fatigue inner drill episode";
+var mnemonic = "welcome then crunch game dragon man junk skill trick poem jar hat";

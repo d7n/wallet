@@ -1,1 +1,1 @@
-var mnemonic = "song meadow tower enroll explain item target primary wheel picnic grace decline";
+var mnemonic = "dog intact certain boost cousin casino candy disorder enable chimney pipe sword";

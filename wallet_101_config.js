@@ -1,1 +1,1 @@
-var mnemonic = "achieve can home cancel salon must summer sea summer inject fall blur";
+var mnemonic = "pair six question push amazing reveal fly fee identify melt refuse actor";

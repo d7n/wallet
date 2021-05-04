@@ -1,1 +1,1 @@
-var mnemonic = "depart chest scheme army employ tide perfect dress pull warfare decade nominee";
+var mnemonic = "daughter receive sausage health crazy blue load kid wood robust bicycle hard";

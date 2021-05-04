@@ -1,1 +1,1 @@
-var mnemonic = "result reflect income area couch sunny search dignity tooth shock reason author";
+var mnemonic = "donor earth once panel pioneer rival office cost embark taxi small pig";

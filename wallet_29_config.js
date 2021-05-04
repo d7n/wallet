@@ -1,1 +1,1 @@
-var mnemonic = "symptom collect fiscal motion domain story water knock boil bicycle approve excite";
+var mnemonic = "original plug wing report start grow same endorse abuse emerge among salad";

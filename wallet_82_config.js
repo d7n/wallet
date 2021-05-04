@@ -1,1 +1,1 @@
-var mnemonic = "nominee alien picture august capable guard magnet push arrow bomb element tourist";
+var mnemonic = "assault wrestle soul anchor subway battle gown inspire room rely pill expect";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket pill this unveil vanish that tiny cheap flag banner segment tide";
+var mnemonic = "hint initial artefact rose chapter shallow small material edit miracle report zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "aim setup cereal guide physical marble library news embrace damage crystal peasant";
+var mnemonic = "lazy fashion practice away nominee high mechanic oblige caution eager height state";

@@ -1,1 +1,1 @@
-var mnemonic = "distance smart knock pig skate glide sausage tattoo regret cherry degree lobster";
+var mnemonic = "claw lemon rigid vivid wrong mobile repeat bench confirm camera cable lunch";

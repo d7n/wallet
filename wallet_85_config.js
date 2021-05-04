@@ -1,1 +1,1 @@
-var mnemonic = "head female donkey whip robot media deputy fancy apology unaware polar prize";
+var mnemonic = "control mercy fatal awful keen beach dizzy cupboard salute share artefact head";

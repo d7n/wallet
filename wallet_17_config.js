@@ -1,1 +1,1 @@
-var mnemonic = "corn message roof mixture first expose special taste post breeze powder police";
+var mnemonic = "cruel anchor pitch sea cover awesome addict spatial drive amazing alley accident";

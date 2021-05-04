@@ -1,1 +1,1 @@
-var mnemonic = "sheriff scrap jungle other mutual upper announce tomato tape dirt bulk upper";
+var mnemonic = "need blame frog level wise city crazy emotion nose rebel prevent argue";

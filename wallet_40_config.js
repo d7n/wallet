@@ -1,1 +1,1 @@
-var mnemonic = "distance heart square cradle nothing awkward never guide blanket pluck end business";
+var mnemonic = "copper elder asset wave meat shop recycle head rice arena skate jeans";

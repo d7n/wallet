@@ -1,1 +1,1 @@
-var mnemonic = "initial normal hunt card waste primary mansion length naive account chunk divert";
+var mnemonic = "feel jump true gap sight shop boring engage lazy hand benefit smoke";

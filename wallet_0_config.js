@@ -1,1 +1,1 @@
-var mnemonic = "robust dragon real promote unaware faith patient blame yellow cabbage canoe bench";
+var mnemonic = "apology ride usage stairs law spend strong clap guard clock bitter denial";

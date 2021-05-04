@@ -1,1 +1,1 @@
-var mnemonic = "soul space vote hunt cool pottery deposit capable scan shy approve level";
+var mnemonic = "window motion once surface because choice inflict gorilla bamboo recall debate flock";

@@ -1,1 +1,1 @@
-var mnemonic = "grocery relief coach cloth sheriff remove episode another mandate bean direct near";
+var mnemonic = "hen become faint rich wheat photo kind discover abstract man morning elder";

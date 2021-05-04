@@ -1,1 +1,1 @@
-var mnemonic = "plate subway wrestle enhance unlock bone must organ chase loud twin essay";
+var mnemonic = "morning useless surge pilot mountain cupboard fatigue file memory start empower street";

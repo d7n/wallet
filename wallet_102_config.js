@@ -1,1 +1,1 @@
-var mnemonic = "act damp shallow earn gap earth noble topple toilet reject decline dash";
+var mnemonic = "spider april stumble sock actress neck awful foil alert gift great essay";

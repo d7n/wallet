@@ -1,1 +1,1 @@
-var mnemonic = "uniform rookie minor pistol vessel penalty belt slow trim lock private organ";
+var mnemonic = "exhibit core jump slim cabin hobby bunker ensure music goat color hood";

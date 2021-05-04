@@ -1,1 +1,1 @@
-var mnemonic = "relief antenna mail educate shoe planet version shift board setup debate visa";
+var mnemonic = "because space faint toe erase finger analyst ribbon promote vapor mansion trouble";

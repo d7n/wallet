@@ -1,1 +1,1 @@
-var mnemonic = "space echo small surprise rhythm coin grant history float impose invest clump";
+var mnemonic = "turkey derive tissue dash crater drive target mobile issue shadow year glove";

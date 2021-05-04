@@ -1,1 +1,1 @@
-var mnemonic = "million sign double ribbon possible scene option armor soon celery angle wagon";
+var mnemonic = "kiss doctor purse insect fury cry add submit congress hire trip symptom";

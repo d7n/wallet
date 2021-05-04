@@ -1,1 +1,1 @@
-var mnemonic = "drum bronze merit fatigue upper dial fiscal destroy innocent meat army edit";
+var mnemonic = "you people churn vendor biology course liar jewel myself tree toward state";

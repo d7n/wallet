@@ -1,1 +1,1 @@
-var mnemonic = "auction crouch health tail jealous enter fee pottery usage loop valley green";
+var mnemonic = "inmate before syrup this hungry abandon opera obvious unusual card dinosaur heart";

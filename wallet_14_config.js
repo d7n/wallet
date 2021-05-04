@@ -1,1 +1,1 @@
-var mnemonic = "bachelor error bring convince random obscure knock trust enlist easy push nephew";
+var mnemonic = "riot adjust ceiling action celery anger gaze border powder glance advance design";

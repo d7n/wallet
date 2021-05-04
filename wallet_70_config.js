@@ -1,1 +1,1 @@
-var mnemonic = "inquiry zone whale build topple must wool update ecology early erupt guide";
+var mnemonic = "bus stand inch dinner amazing awkward illness flash unaware universe two allow";

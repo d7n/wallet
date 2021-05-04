@@ -1,1 +1,1 @@
-var mnemonic = "repeat boring reason polar defense topple naive scrub submit style crop pigeon";
+var mnemonic = "once square fatigue course winner abstract sand dragon crop olympic half biology";

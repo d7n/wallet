@@ -1,1 +1,1 @@
-var mnemonic = "skill fit brother dismiss salmon key flat coffee train craft shift palace";
+var mnemonic = "farm because wait lion sausage hurry suffer wedding rigid bulk harbor sight";

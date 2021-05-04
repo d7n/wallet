@@ -1,1 +1,1 @@
-var mnemonic = "avoid office music zebra day infant civil glow box tourist differ view";
+var mnemonic = "matter field lecture opinion comic bread grain top develop social phrase garment";

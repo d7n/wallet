@@ -1,1 +1,1 @@
-var mnemonic = "velvet poet cherry ball predict elephant lady idle auction reflect match become";
+var mnemonic = "another destroy school only panther aerobic benefit witness flock save fresh endless";

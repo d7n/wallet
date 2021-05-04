@@ -1,1 +1,1 @@
-var mnemonic = "toddler idea need wealth private orient garden inquiry flower globe project figure";
+var mnemonic = "zone monster chalk client device rabbit brisk wealth increase chat cat tomorrow";

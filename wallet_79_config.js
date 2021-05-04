@@ -1,1 +1,1 @@
-var mnemonic = "chase portion damp chef amused divide chef movie void table burden brisk";
+var mnemonic = "envelope dune affair gown execute trust disorder marriage nasty mystery situate drive";

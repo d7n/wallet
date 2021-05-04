@@ -1,1 +1,1 @@
-var mnemonic = "tattoo desert primary post refuse crew cart alpha jungle shuffle increase ripple";
+var mnemonic = "spend purity season chaos service crack seven asthma lunar laptop girl south";

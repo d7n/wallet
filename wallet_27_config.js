@@ -1,1 +1,1 @@
-var mnemonic = "possible load rebuild uncle nut vacant chase quote plunge iron right display";
+var mnemonic = "snow rural club use chat focus feel test potato choice blade gate";

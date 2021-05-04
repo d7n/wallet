@@ -1,1 +1,1 @@
-var mnemonic = "cram tomorrow shock govern misery scare giraffe despair holiday only day oppose";
+var mnemonic = "hood raven panic across three message supply practice duck enact gallery south";

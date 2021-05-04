@@ -1,1 +1,1 @@
-var mnemonic = "relax shuffle easily casual effort school history credit fiber custom concert bachelor";
+var mnemonic = "hour renew nominee enforce answer oak success penalty happy wealth display venture";

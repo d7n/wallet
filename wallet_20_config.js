@@ -1,1 +1,1 @@
-var mnemonic = "improve already describe cheap steak february confirm twenty fashion glow gas income";
+var mnemonic = "symbol slice piano mobile alpha problem cube dirt code jar alcohol spot";

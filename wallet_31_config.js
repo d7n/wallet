@@ -1,1 +1,1 @@
-var mnemonic = "kidney mad trophy inmate observe material sorry neutral fly black quality blue";
+var mnemonic = "help panda bread subway chief announce mutual huge muscle slender answer confirm";

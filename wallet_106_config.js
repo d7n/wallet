@@ -1,1 +1,1 @@
-var mnemonic = "master coil invest ensure fish wedding public wire apart nation prison oppose";
+var mnemonic = "congress predict sponsor dream identify side danger link bamboo load rebuild entry";

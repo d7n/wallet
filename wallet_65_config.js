@@ -1,1 +1,1 @@
-var mnemonic = "creek clever oppose leisure credit dove inform wear castle acoustic dry test";
+var mnemonic = "mind split safe cargo dismiss category pledge purchase use audit river clap";

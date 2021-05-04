@@ -1,1 +1,1 @@
-var mnemonic = "trophy divert benefit dragon critic depend season carbon echo key throw chalk";
+var mnemonic = "attitude carbon undo cherry garbage drink armor light crystal soup public top";

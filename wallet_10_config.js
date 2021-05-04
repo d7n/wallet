@@ -1,1 +1,1 @@
-var mnemonic = "model ten collect retire odor spare neutral rabbit pepper omit drill tide";
+var mnemonic = "unfold shock protect ahead rely tooth venue loop indoor smart asthma poet";

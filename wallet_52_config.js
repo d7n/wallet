@@ -1,1 +1,1 @@
-var mnemonic = "clump crawl pole apology fine any perfect churn hip student drip orphan";
+var mnemonic = "scatter response vault moment cage misery juice layer gauge vital parade tragic";

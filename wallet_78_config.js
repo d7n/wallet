@@ -1,1 +1,1 @@
-var mnemonic = "congress just short issue alien topple mountain unusual news consider tape casual";
+var mnemonic = "achieve walk depend cart rent ball drive immense aisle ostrich benefit acquire";

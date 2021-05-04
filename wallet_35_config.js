@@ -1,1 +1,1 @@
-var mnemonic = "gun bone midnight brief pelican what wealth brain penalty force arch disorder";
+var mnemonic = "vapor soldier syrup sure coconut reduce dress insect image special miracle foam";

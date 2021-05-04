@@ -1,1 +1,1 @@
-var mnemonic = "damage crime diesel bottom cargo draw beef midnight armed expect deputy section";
+var mnemonic = "address label conduct misery enrich image frame puzzle wise umbrella resemble own";

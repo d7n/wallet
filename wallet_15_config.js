@@ -1,1 +1,1 @@
-var mnemonic = "decide shoot velvet rival make improve vague mimic era van quiz struggle";
+var mnemonic = "corn stairs pupil rough sea unable acquire soap draw avoid sound tail";
