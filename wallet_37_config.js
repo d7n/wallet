@@ -1,1 +1,1 @@
-var mnemonic = "stove unveil canal chunk face business table wreck lunar museum come elevator";
+var mnemonic = "sea lounge wet upon festival excuse pause shield advice daughter whale brother";

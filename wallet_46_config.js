@@ -1,1 +1,1 @@
-var mnemonic = "honey mystery then breeze canvas vehicle shoulder blossom same sound tell veteran";
+var mnemonic = "resource fantasy innocent forum recipe swallow flee summer dinner gift move manual";

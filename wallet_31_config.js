@@ -1,1 +1,1 @@
-var mnemonic = "marine volcano match fossil near quote apple load cause carry tunnel course";
+var mnemonic = "frozen useless fee scrub cram recipe trash fiscal slogan rug crystal biology";

@@ -1,1 +1,1 @@
-var mnemonic = "body electric cream fence spell lottery cricket defy economy slim radio kiwi";
+var mnemonic = "buffalo peasant happy prefer sea liberty february river clump other exist budget";

@@ -1,1 +1,1 @@
-var mnemonic = "accuse harvest husband board ability excite bird deposit flight hammer soul royal";
+var mnemonic = "inform planet wet step indoor endorse image inhale inside carpet pave agent";

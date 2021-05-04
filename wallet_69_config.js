@@ -1,1 +1,1 @@
-var mnemonic = "unit reject genuine pledge pet cloud success immense six vague poem oblige";
+var mnemonic = "swallow talent size imitate senior awful focus wash mad oyster run reopen";

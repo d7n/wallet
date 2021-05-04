@@ -1,1 +1,1 @@
-var mnemonic = "horror egg dynamic again layer coil service crush glue pizza thought poet";
+var mnemonic = "rug nest burst again destroy lyrics slush little brass document chapter pretty";

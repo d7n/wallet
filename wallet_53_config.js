@@ -1,1 +1,1 @@
-var mnemonic = "chef vendor face distance vicious disagree track october panel media possible culture";
+var mnemonic = "catalog rival innocent hotel appear payment treat defense tank purpose scare cat";

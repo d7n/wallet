@@ -1,1 +1,1 @@
-var mnemonic = "blood fortune during problem tuition army hurry magnet bring foot ignore gravity";
+var mnemonic = "ship predict file elder purity usual pluck jacket farm drastic surround purchase";

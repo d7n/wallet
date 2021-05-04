@@ -1,1 +1,1 @@
-var mnemonic = "faint crash word front dish glare ball pattern dose spy fork length";
+var mnemonic = "resemble post pet vendor rookie galaxy minute roast install sure army grace";

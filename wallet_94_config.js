@@ -1,1 +1,1 @@
-var mnemonic = "crew tilt rib swim merit patch apology sauce during toast unfold little";
+var mnemonic = "surround frost frost better gloom paddle song bulk water festival announce snap";

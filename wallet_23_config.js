@@ -1,1 +1,1 @@
-var mnemonic = "transfer shield climb amazing patient egg reject ring toward artist flee suit";
+var mnemonic = "road wonder result account project fan prison powder dilemma truck ketchup ignore";

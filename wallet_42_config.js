@@ -1,1 +1,1 @@
-var mnemonic = "moment donate furnace riot much cattle pottery unit floor faith orphan plate";
+var mnemonic = "material phone inform undo lens library cupboard yellow whip orient patch type";

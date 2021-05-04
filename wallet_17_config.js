@@ -1,1 +1,1 @@
-var mnemonic = "toss judge december normal network leave gloom barrel dust lemon laugh garden";
+var mnemonic = "shed output senior about absent balcony armor morning return myself seed project";

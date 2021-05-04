@@ -1,1 +1,1 @@
-var mnemonic = "secret hard food guitar lake misery stadium rack caught crowd whisper merry";
+var mnemonic = "filter shield just random battle school injury ethics dignity merit pony ring";

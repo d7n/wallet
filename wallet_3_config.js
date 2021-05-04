@@ -1,1 +1,1 @@
-var mnemonic = "tunnel skirt skill stay carpet illness sell parent model eagle perfect segment";
+var mnemonic = "today elephant assist bag inquiry surround verb vicious priority give roast approve";

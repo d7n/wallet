@@ -1,1 +1,1 @@
-var mnemonic = "genre brick upper twenty winter wage pluck adapt invest essay museum fruit";
+var mnemonic = "subject feature reject present ship seek actor galaxy pitch install process rival";

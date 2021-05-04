@@ -1,1 +1,1 @@
-var mnemonic = "bubble course together noble fee ride pride sketch when process stumble attitude";
+var mnemonic = "mix because family electric crime brisk tool vanish skin shallow timber omit";

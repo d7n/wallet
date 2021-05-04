@@ -1,1 +1,1 @@
-var mnemonic = "crystal mass teach pluck test similar auction hen steak cereal firm any";
+var mnemonic = "hood trial involve divorce maze various pattern tag dwarf wood deliver boy";

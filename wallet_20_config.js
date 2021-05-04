@@ -1,1 +1,1 @@
-var mnemonic = "extra young kiwi lyrics chat universe ice marble toward trim myself film";
+var mnemonic = "crush horn example gap word verb sight century trial gain garden apology";

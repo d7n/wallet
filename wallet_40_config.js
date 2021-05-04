@@ -1,1 +1,1 @@
-var mnemonic = "ocean uncle beyond snap place peasant slim open state bench zebra neck";
+var mnemonic = "blue stereo flavor state copy bracket solar dice improve curious twin win";

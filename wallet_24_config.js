@@ -1,1 +1,1 @@
-var mnemonic = "shaft climb unlock real ski sugar letter gasp unable mushroom under middle";
+var mnemonic = "cool meat slot result outside nation horror nation opera dress open stove";

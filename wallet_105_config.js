@@ -1,1 +1,1 @@
-var mnemonic = "task step shy okay neglect upset urban rib glide crater middle audit";
+var mnemonic = "floor target hawk swim evoke rude village random shove repair shadow enjoy";

@@ -1,1 +1,1 @@
-var mnemonic = "citizen blossom fitness cheap matrix trick reduce wine night enhance vacant jar";
+var mnemonic = "strike critic mimic organ sleep wealth ketchup apology govern nature joke wave";

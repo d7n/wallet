@@ -1,1 +1,1 @@
-var mnemonic = "toward sausage entire great chronic camp install ladder day use slogan bus";
+var mnemonic = "traffic erase announce garlic add famous what hero father this celery deal";

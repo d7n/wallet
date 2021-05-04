@@ -1,1 +1,1 @@
-var mnemonic = "nurse tackle away athlete once grief expire glide sentence label topple salute";
+var mnemonic = "wheat skull very math purchase file strategy yellow seat dash mad choose";

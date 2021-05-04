@@ -1,1 +1,1 @@
-var mnemonic = "dinner dune way shock gallery fragile number great shrimp swarm want come";
+var mnemonic = "case weird collect attract garbage deputy question own fall rescue decorate pave";

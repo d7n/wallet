@@ -1,1 +1,1 @@
-var mnemonic = "ring absurd dignity loop praise glad slush office infant town meat know";
+var mnemonic = "boss belt game drum twist divorce report inform fall arrow antenna extend";

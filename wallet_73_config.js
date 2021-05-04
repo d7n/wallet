@@ -1,1 +1,1 @@
-var mnemonic = "twice keep amazing gravity rack short absent degree beyond public quiz amount";
+var mnemonic = "smart asthma ability impact purity render fee trade tongue trash adapt hotel";

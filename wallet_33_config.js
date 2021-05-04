@@ -1,1 +1,1 @@
-var mnemonic = "dwarf resist enrich stamp skate used warrior problem prevent material review wasp";
+var mnemonic = "stable melody affair motor cupboard foster icon paddle glad trial funny double";

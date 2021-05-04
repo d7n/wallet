@@ -1,1 +1,1 @@
-var mnemonic = "top surge lamp tobacco build letter weapon kiss child ship minimum indicate";
+var mnemonic = "weird usage emerge move horn weapon toast napkin leg ridge wrestle matrix";

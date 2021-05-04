@@ -1,1 +1,1 @@
-var mnemonic = "deposit camp rigid public ensure episode void horror congress thank pilot audit";
+var mnemonic = "garlic glide dream ozone focus hundred scheme verify example virus abuse wife";

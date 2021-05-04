@@ -1,1 +1,1 @@
-var mnemonic = "garden select merry aunt ghost load industry toe embody girl start junior";
+var mnemonic = "spot sure public garlic kind damage demand chapter skill hover return galaxy";

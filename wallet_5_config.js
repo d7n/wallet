@@ -1,1 +1,1 @@
-var mnemonic = "bronze uncover athlete fade follow cheap book either dress birth super unaware";
+var mnemonic = "tool coral pipe dance honey ten flat certain cross gospel gorilla moon";

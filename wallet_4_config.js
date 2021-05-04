@@ -1,1 +1,1 @@
-var mnemonic = "nose rival tortoise carry gravity basket end over royal amazing focus label";
+var mnemonic = "expect beef image galaxy more disease essence post broccoli coral glance spread";

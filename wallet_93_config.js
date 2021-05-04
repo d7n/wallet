@@ -1,1 +1,1 @@
-var mnemonic = "want layer shy future cup diet flee nominee sick assist course degree";
+var mnemonic = "all expire mountain wasp oval gym genius verb supply another advice convince";

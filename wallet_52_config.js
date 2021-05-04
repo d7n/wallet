@@ -1,1 +1,1 @@
-var mnemonic = "unusual metal finger joke valid wrestle chimney one gadget van hair wrong";
+var mnemonic = "protect country save spread vicious solar approve pulse used deal stage priority";

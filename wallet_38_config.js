@@ -1,1 +1,1 @@
-var mnemonic = "photo cause route february decorate degree pulse foot horror foot enable ginger";
+var mnemonic = "about caught motion monkey again change ripple kitchen leg ritual once dress";

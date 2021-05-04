@@ -1,1 +1,1 @@
-var mnemonic = "skull gather cute oblige host modify position reflect biology knee regular vehicle";
+var mnemonic = "name crack siege acquire supreme clown goat actor same design humble marriage";

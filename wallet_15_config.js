@@ -1,1 +1,1 @@
-var mnemonic = "hope merry next icon menu buffalo absurd soda maple domain genius rice";
+var mnemonic = "bullet retire lake rare shove picture bargain jungle sauce hybrid oyster air";

@@ -1,1 +1,1 @@
-var mnemonic = "angry behave lounge lesson whip sponsor they remain ill blast seat pizza";
+var mnemonic = "lava industry rebel index student neither seminar lab banner rose two hat";

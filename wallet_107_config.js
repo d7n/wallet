@@ -1,1 +1,1 @@
-var mnemonic = "fan skin squeeze almost sister sail feel speed judge major exit fox";
+var mnemonic = "spring age record able picture calm upset noise combine language boost culture";

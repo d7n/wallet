@@ -1,1 +1,1 @@
-var mnemonic = "lucky giggle final mix interest worth smile recipe sail maximum escape silver";
+var mnemonic = "labor divorce cook extend cotton concert elegant tonight mosquito tumble coconut bicycle";

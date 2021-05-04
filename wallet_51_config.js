@@ -1,1 +1,1 @@
-var mnemonic = "body wall flag antenna tobacco identify will flower employ receive opera process";
+var mnemonic = "scatter obscure faint slice smoke axis end banana avocado behind remember gasp";

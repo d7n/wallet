@@ -1,1 +1,1 @@
-var mnemonic = "boring afraid light pull grocery team chase captain blanket scale brief sweet";
+var mnemonic = "suggest fly coffee six sample retire walnut bind pluck bird taste version";

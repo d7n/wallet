@@ -1,1 +1,1 @@
-var mnemonic = "humble write fatal good sauce roast wrist mass payment rule pencil pitch";
+var mnemonic = "yellow trouble decorate earth stock slice expose cake elbow erupt nose spin";

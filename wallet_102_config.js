@@ -1,1 +1,1 @@
-var mnemonic = "radar sword demand convince code abandon garbage sorry suffer whip absent tobacco";
+var mnemonic = "liar brand satisfy isolate tower athlete lyrics law jacket purse rabbit point";

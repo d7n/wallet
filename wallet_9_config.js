@@ -1,1 +1,1 @@
-var mnemonic = "metal brown cheap corn sort exact exchange tissue rice surround capable sand";
+var mnemonic = "equip math cinnamon pill pencil keep horn old satoshi volcano scrap round";

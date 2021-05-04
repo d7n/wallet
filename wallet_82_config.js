@@ -1,1 +1,1 @@
-var mnemonic = "permit degree message orphan arrow ticket dolphin paddle tobacco sugar grit knee";
+var mnemonic = "enhance armor private also token ceiling various sentence stomach strategy portion armor";

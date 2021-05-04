@@ -1,1 +1,1 @@
-var mnemonic = "entire pair impose since trophy switch spring already loan side banner hurry";
+var mnemonic = "capable fade year gather same cloud dad only jump train nurse lawsuit";

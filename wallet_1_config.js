@@ -1,1 +1,1 @@
-var mnemonic = "ignore ignore patrol issue crystal jaguar father gain virus direct rough debris";
+var mnemonic = "intact garden blade flock burst attitude prize private acoustic music melody pottery";

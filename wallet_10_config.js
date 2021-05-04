@@ -1,1 +1,1 @@
-var mnemonic = "battle leaf loyal depart acoustic balcony busy appear extra true leaf pyramid";
+var mnemonic = "where inspire alone attend ranch biology elevator devote mixture earth yard flock";

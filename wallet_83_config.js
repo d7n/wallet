@@ -1,1 +1,1 @@
-var mnemonic = "hip catch aunt skill member era east gorilla gate rough foil effort";
+var mnemonic = "rotate giggle bind interest resist parade divert agree warfare culture mix object";

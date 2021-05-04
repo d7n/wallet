@@ -1,1 +1,1 @@
-var mnemonic = "achieve rebuild inherit sponsor leave game spoil age curve squirrel depth crystal";
+var mnemonic = "aspect quit depend green please diagram appear mirror shed material mutual pledge";

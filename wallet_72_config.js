@@ -1,1 +1,1 @@
-var mnemonic = "route boat account cushion field churn invest jewel grunt news senior together";
+var mnemonic = "doctor blast lava route improve bulb never kitten usual warrior exchange above";

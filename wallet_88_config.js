@@ -1,1 +1,1 @@
-var mnemonic = "sketch maple keep rubber arrest fix high verb farm juice prefer route";
+var mnemonic = "asset remember wash strong parent odor junior garment inner win rotate bird";

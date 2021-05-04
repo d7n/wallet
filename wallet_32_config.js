@@ -1,1 +1,1 @@
-var mnemonic = "supreme example fault account chicken reject jaguar teach spin enforce coral stomach";
+var mnemonic = "frog tag office excess video lesson hockey title woman size denial visa";

@@ -1,1 +1,1 @@
-var mnemonic = "tape mobile case spike people clown view message real reveal wonder lesson";
+var mnemonic = "bar chest vanish favorite crop happy mutual cat above legend sphere secret";

@@ -1,1 +1,1 @@
-var mnemonic = "short abuse portion push damage speed tag frequent banana pole logic junior";
+var mnemonic = "enable expire barrel clever summer latin fragile proof ensure seminar shaft butter";

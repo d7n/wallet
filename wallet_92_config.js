@@ -1,1 +1,1 @@
-var mnemonic = "behave person guide club balcony patrol inflict latin atom mobile tent ask";
+var mnemonic = "weasel clever sponsor runway reveal often dizzy shove dune desk rebel survey";

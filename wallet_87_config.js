@@ -1,1 +1,1 @@
-var mnemonic = "marble present where gloom relief length maze cluster forest used render model";
+var mnemonic = "awful author crazy guess egg eager shed clinic carbon ensure happy damp";

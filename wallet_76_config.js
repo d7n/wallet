@@ -1,1 +1,1 @@
-var mnemonic = "outside demand beyond comic husband wall include boss debate reform alcohol vessel";
+var mnemonic = "rescue gate fame menu eye usual myth shrug filter help color athlete";

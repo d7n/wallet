@@ -1,1 +1,1 @@
-var mnemonic = "fitness author drill crystal absent rather draft alley razor predict autumn scare";
+var mnemonic = "agree garbage grief alley away magic clip finish position home admit ahead";

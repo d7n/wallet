@@ -1,1 +1,1 @@
-var mnemonic = "naive eager insect notice amount half train screen fancy tooth hunt normal";
+var mnemonic = "twist excess monkey flat teach impose harbor hammer mixture loan area permit";

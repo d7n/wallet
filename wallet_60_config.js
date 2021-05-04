@@ -1,1 +1,1 @@
-var mnemonic = "best borrow creek vocal asthma coconut song special immense valve walnut transfer";
+var mnemonic = "estate rent gossip rose cushion solid method ball before hand live arrange";

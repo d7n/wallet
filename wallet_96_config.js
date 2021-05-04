@@ -1,1 +1,1 @@
-var mnemonic = "spare flash vacuum main deny wait huge flight until album glad frequent";
+var mnemonic = "coil shy ozone table alpha foster palace casual indoor error main buddy";

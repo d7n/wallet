@@ -1,1 +1,1 @@
-var mnemonic = "know drama typical card marine height matrix only metal few label immune";
+var mnemonic = "female secret park satoshi wire tumble machine romance oak buddy aware economy";

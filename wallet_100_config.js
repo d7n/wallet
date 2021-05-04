@@ -1,1 +1,1 @@
-var mnemonic = "stairs cable world pelican brief intact nest drop toast vendor gravity about";
+var mnemonic = "slice funny romance gaze mango denial frame property chapter where clay lyrics";

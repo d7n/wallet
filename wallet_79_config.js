@@ -1,1 +1,1 @@
-var mnemonic = "fancy fruit era firm chaos bubble interest mesh dice foot box chaos";
+var mnemonic = "album regret prevent cave slide couch essay shed exclude know index topic";

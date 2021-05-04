@@ -1,1 +1,1 @@
-var mnemonic = "spy awake kick detect corn pistol buffalo stool core multiply bachelor subway";
+var mnemonic = "nature subject coil fee report hat letter antenna sunny lemon radio blanket";

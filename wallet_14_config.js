@@ -1,1 +1,1 @@
-var mnemonic = "welcome exotic invite alone crunch rely crawl runway access banana cave trade";
+var mnemonic = "ten shine edit strategy chalk submit protect mercy collect prosper pelican donor";

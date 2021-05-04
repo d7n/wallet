@@ -1,1 +1,1 @@
-var mnemonic = "youth desert clown goose foot vanish gesture fury spread destroy barrel frog";
+var mnemonic = "youth street toddler salad plug market strategy nature remind oven wage install";

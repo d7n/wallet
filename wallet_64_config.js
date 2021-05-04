@@ -1,1 +1,1 @@
-var mnemonic = "arch state park escape gown doll peasant reduce chronic lizard fashion lawn";
+var mnemonic = "away nice vacant minor victory venue evoke lesson tunnel forest lamp rail";

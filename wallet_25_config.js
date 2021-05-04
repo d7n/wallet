@@ -1,1 +1,1 @@
-var mnemonic = "cry leisure manual gorilla chapter such tissue gain cost disagree fire nuclear";
+var mnemonic = "defy rain response scout brave quit wealth blur harbor snow wet route";

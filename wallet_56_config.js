@@ -1,1 +1,1 @@
-var mnemonic = "pyramid feed october window access trial vintage fantasy lawn runway comfort topic";
+var mnemonic = "eagle length cargo relief garment story plug exhibit install file habit purse";

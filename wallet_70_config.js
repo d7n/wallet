@@ -1,1 +1,1 @@
-var mnemonic = "guide away online increase lunch burden apart crisp rain shove because stick";
+var mnemonic = "edge ranch fish develop desert over body scene head betray pill rack";

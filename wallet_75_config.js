@@ -1,1 +1,1 @@
-var mnemonic = "vibrant open barrel autumn venture letter only recipe stand afford midnight taste";
+var mnemonic = "pony valid subject churn bread arch leader promote suit donate swift auto";

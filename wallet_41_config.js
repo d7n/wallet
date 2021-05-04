@@ -1,1 +1,1 @@
-var mnemonic = "moral donkey room float wish farm arrive elder buyer area affair immense";
+var mnemonic = "zero virtual assist merry sphere city climb favorite list spawn kite shed";

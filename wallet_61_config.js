@@ -1,1 +1,1 @@
-var mnemonic = "cotton wage satisfy impact tool educate tongue angle bird egg exercise primary";
+var mnemonic = "transfer rookie year error thunder museum air inflict artefact remain safe sun";

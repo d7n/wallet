@@ -1,1 +1,1 @@
-var mnemonic = "diesel salmon lizard fantasy tattoo dress chase fog soccer endless enact intact";
+var mnemonic = "upon pigeon video cruel elbow dynamic salmon relax keep saddle prevent report";

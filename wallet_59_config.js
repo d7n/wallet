@@ -1,1 +1,1 @@
-var mnemonic = "bicycle pink welcome attract neither patient story citizen month mother able tooth";
+var mnemonic = "staff stumble brain toe author copy wave move ancient dynamic salon fashion";

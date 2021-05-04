@@ -1,1 +1,1 @@
-var mnemonic = "more exit today illegal mind lawn tourist silent garlic peace grass rare";
+var mnemonic = "expire hundred canyon waste evidence fun person round indicate network abstract service";

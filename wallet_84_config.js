@@ -1,1 +1,1 @@
-var mnemonic = "recipe gorilla piece will leader traffic olive electric dice witness captain fresh";
+var mnemonic = "depart panel manual relax three blade heavy ceiling large vital question prison";

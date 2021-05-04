@@ -1,1 +1,1 @@
-var mnemonic = "produce federal empty category kick orbit spatial winter mouse rug balance cloud";
+var mnemonic = "improve power galaxy worry umbrella gas gorilla story fish point scrub mountain";

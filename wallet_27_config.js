@@ -1,1 +1,1 @@
-var mnemonic = "gaze common average exile join pond trophy solution accident couch two try";
+var mnemonic = "lottery second clog scatter harbor library garden grant increase because swamp word";

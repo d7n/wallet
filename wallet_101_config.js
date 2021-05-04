@@ -1,1 +1,1 @@
-var mnemonic = "group round shift frozen dial clay great attend select govern happy puppy";
+var mnemonic = "throw initial opera case public year trade biology woman collect custom common";

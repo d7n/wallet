@@ -1,1 +1,1 @@
-var mnemonic = "industry bitter rent spider idea that deposit hero sight puppy butter february";
+var mnemonic = "language journey water beauty flame exit disease fury nature frozen season manual";

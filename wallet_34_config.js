@@ -1,1 +1,1 @@
-var mnemonic = "cool runway punch vault shove host hover dish daring inch aunt melody";
+var mnemonic = "text notice barely cloud sunny swift sauce ethics become weather poet arrange";

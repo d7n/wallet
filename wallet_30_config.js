@@ -1,1 +1,1 @@
-var mnemonic = "tornado craft mention enemy foam secret yellow fog punch effort attend steel";
+var mnemonic = "bleak defense share garbage onion sound vicious quick floor second logic judge";

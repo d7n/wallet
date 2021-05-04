@@ -1,1 +1,1 @@
-var mnemonic = "silent journey dignity iron surround inside lumber current stuff release roof remind";
+var mnemonic = "style south wing arm machine say document sister spot piano place deputy";

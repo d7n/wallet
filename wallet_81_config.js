@@ -1,1 +1,1 @@
-var mnemonic = "fossil harbor small isolate vast bronze plate library awful fog submit girl";
+var mnemonic = "surge degree motor title female identify moral coconut nominee talk tree note";

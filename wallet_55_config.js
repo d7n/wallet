@@ -1,1 +1,1 @@
-var mnemonic = "category museum midnight divide rice staff motor blade venue attitude valley motor";
+var mnemonic = "hub coral best beach cricket setup brush lava adjust planet reduce prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "relax april worth scissors room above luxury weasel infant struggle intact exhibit";
+var mnemonic = "immune laugh auction exotic coast ten crawl broom practice owner pistol rely";

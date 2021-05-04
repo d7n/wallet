@@ -1,1 +1,1 @@
-var mnemonic = "robust stuff bind marble faculty hawk spin convince blue pet main faint";
+var mnemonic = "bright weapon used obtain garlic example citizen garment develop focus rabbit enrich";
