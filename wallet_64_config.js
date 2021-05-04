@@ -1,1 +1,1 @@
-var mnemonic = "vanish buyer patch season bridge trash kingdom remember embody student blade column";
+var mnemonic = "occur shrug loop chimney assist flat feed dust soldier knife brown favorite";

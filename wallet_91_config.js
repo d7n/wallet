@@ -1,1 +1,1 @@
-var mnemonic = "very area proud pool brave latin settle shaft wagon curious legal adapt";
+var mnemonic = "wash party organ old shove business wish burger able bar about verb";

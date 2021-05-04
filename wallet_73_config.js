@@ -1,1 +1,1 @@
-var mnemonic = "artwork crater message wine wear noise swarm decorate aspect spread cream icon";
+var mnemonic = "surprise elegant jaguar trash shove spin float chair sunset tide traffic ask";

@@ -1,1 +1,1 @@
-var mnemonic = "popular harsh obscure palace divorce awake race person giggle recall idea blade";
+var mnemonic = "leaf bird galaxy core student fashion kind voice entry glance dash skill";

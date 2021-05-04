@@ -1,1 +1,1 @@
-var mnemonic = "neck child area garage install lava drop sign expire lawsuit issue behave";
+var mnemonic = "involve gloom win job sorry success reunion sight garage today because toss";

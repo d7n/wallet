@@ -1,1 +1,1 @@
-var mnemonic = "situate anxiety night review rubber example dutch slow essence fog material game";
+var mnemonic = "code throw number usual laugh pigeon girl congress myself leaf work since";

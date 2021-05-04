@@ -1,1 +1,1 @@
-var mnemonic = "duty pond wolf fruit frog skill noodle attract copper talent load crater";
+var mnemonic = "pen spy evolve sausage human can tide welcome board maid torch best";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious ill doctor cool job ethics weekend index abstract day paddle record";
+var mnemonic = "faint acid egg kick gossip address coconut mule feel aim travel update";

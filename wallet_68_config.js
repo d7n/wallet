@@ -1,1 +1,1 @@
-var mnemonic = "trigger erode butter arch earn live angle nest mix similar patient canvas";
+var mnemonic = "angle attack junk dinner below rabbit until cruise embody wall cement crucial";

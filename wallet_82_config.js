@@ -1,1 +1,1 @@
-var mnemonic = "tomato muffin message gravity rapid cloud ten weapon guitar angry normal mistake";
+var mnemonic = "boil door amazing circle basket across now you bench black liberty cluster";

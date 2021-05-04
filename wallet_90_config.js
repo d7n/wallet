@@ -1,1 +1,1 @@
-var mnemonic = "hover fiscal normal salad card entry sense target crop quiz minor loyal";
+var mnemonic = "strategy patient inside cloud peace pond atom anchor note thunder marriage object";

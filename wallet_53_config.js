@@ -1,1 +1,1 @@
-var mnemonic = "squeeze clever clock price mosquito carry few since try dragon notable antique";
+var mnemonic = "online live punch dream noble pumpkin ecology business fork sunny rocket velvet";

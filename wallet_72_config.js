@@ -1,1 +1,1 @@
-var mnemonic = "tattoo steel slow doll ankle work female delay unusual scrub flush novel";
+var mnemonic = "path visa marriage caught sister benefit rate top cancel pill debate off";

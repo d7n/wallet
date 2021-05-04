@@ -1,1 +1,1 @@
-var mnemonic = "victory plug general pink spring direct this vote turkey enroll powder flavor";
+var mnemonic = "minute giggle caught goat clog found object pluck tornado snack shuffle tiger";

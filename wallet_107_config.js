@@ -1,1 +1,1 @@
-var mnemonic = "usual anxiety harvest catch purpose hurry witness member liberty nerve course army";
+var mnemonic = "melody side power extra coconut charge crawl umbrella waste spike very shell";

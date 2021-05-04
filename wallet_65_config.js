@@ -1,1 +1,1 @@
-var mnemonic = "engage easy usual obtain cool picture buddy recipe caught source primary end";
+var mnemonic = "general extend diesel noise verb announce congress giraffe weasel annual blur hobby";

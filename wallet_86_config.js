@@ -1,1 +1,1 @@
-var mnemonic = "frozen silent mansion pill ancient panda morning canoe useful success enhance carpet";
+var mnemonic = "tilt ivory juice absent stock divert truly drastic inhale human outside virtual";

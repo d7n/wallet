@@ -1,1 +1,1 @@
-var mnemonic = "obtain pave lunar salad wash quiz crime ramp only kind raccoon often";
+var mnemonic = "dress engine useless burden doctor struggle online inquiry resource isolate ribbon great";

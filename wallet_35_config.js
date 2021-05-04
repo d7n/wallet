@@ -1,1 +1,1 @@
-var mnemonic = "fork gadget leaf junk hidden cross patch flat brisk claim glass course";
+var mnemonic = "rhythm security before rural diagram token catch lumber winner vicious jump panel";

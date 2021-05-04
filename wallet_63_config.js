@@ -1,1 +1,1 @@
-var mnemonic = "lunch another basket shadow fix case trophy brother rail scene join spawn";
+var mnemonic = "name rude reject crack pill menu royal flee private relief siren make";

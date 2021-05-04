@@ -1,1 +1,1 @@
-var mnemonic = "trick shock flight drama afford rude flock agent glad give rare breeze";
+var mnemonic = "behind enrich argue area carry gain teach female alcohol rough six pitch";

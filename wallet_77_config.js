@@ -1,1 +1,1 @@
-var mnemonic = "brown cave alter buzz problem material quiz stay hunt debris grass arch";
+var mnemonic = "oyster federal clean cup coin random pulp fiction dizzy magic kick range";

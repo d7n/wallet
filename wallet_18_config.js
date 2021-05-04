@@ -1,1 +1,1 @@
-var mnemonic = "kingdom student decade two attract senior stable marble worry actor fortune settle";
+var mnemonic = "hammer sea rail grunt punch gym benefit text barely then wine common";

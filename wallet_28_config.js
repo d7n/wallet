@@ -1,1 +1,1 @@
-var mnemonic = "liar lounge salmon traffic piano build curious alien lemon oven wasp vehicle";
+var mnemonic = "toe wheat dream miracle fan pumpkin come bean brisk race bar cannon";

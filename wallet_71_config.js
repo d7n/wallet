@@ -1,1 +1,1 @@
-var mnemonic = "muscle alter federal embark bird embrace divert language rice employ across code";
+var mnemonic = "border bulk valve walnut oak fit ski blame luxury family adapt found";

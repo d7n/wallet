@@ -1,1 +1,1 @@
-var mnemonic = "inhale pledge grant sell royal blossom potato distance region range layer stand";
+var mnemonic = "traffic pilot novel sister present gap best hammer state permit derive sibling";

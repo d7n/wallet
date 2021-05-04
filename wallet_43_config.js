@@ -1,1 +1,1 @@
-var mnemonic = "attract vacant nominee ancient future better holiday surge spirit belt damage select";
+var mnemonic = "million erupt essay churn wild tourist spray north quote custom beyond conduct";

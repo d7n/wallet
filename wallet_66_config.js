@@ -1,1 +1,1 @@
-var mnemonic = "surface door dutch kiss once normal cram turtle leaf alone scene place";
+var mnemonic = "denial pizza puzzle ensure ethics nominee foam amazing call shield purchase screen";

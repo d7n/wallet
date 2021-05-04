@@ -1,1 +1,1 @@
-var mnemonic = "crush today meat wisdom parade unit tongue craft topic pond motion teach";
+var mnemonic = "kingdom fade drastic profit sample cook utility battle service divide poem put";

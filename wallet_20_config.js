@@ -1,1 +1,1 @@
-var mnemonic = "tag another evoke retire entire cart vacant minute shop outer then access";
+var mnemonic = "depth slight sheriff sausage shy disagree wealth possible dismiss demand size stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate barely prosper wood jacket celery foster pitch concert discover manual electric";
+var mnemonic = "foster update warrior practice half again dial fluid observe supreme adult win";

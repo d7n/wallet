@@ -1,1 +1,1 @@
-var mnemonic = "forget attend depart acquire fade seed carry phone vault admit evoke dinner";
+var mnemonic = "omit master column buffalo coast matter solid blade employ aware reason primary";

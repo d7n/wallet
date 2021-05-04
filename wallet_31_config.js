@@ -1,1 +1,1 @@
-var mnemonic = "path nominee best truth example annual depart orphan faith input observe waste";
+var mnemonic = "test party pond bullet wine inside web gloom check gadget nurse miss";

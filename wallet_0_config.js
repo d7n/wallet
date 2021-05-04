@@ -1,1 +1,1 @@
-var mnemonic = "advice gas ball march problem hobby way mimic embody involve luxury whisper";
+var mnemonic = "trigger gym across depth gym scorpion dilemma analyst tube express easy stable";

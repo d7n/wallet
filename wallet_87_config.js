@@ -1,1 +1,1 @@
-var mnemonic = "giggle dad assault differ parent panda fall razor hood ten fuel glass";
+var mnemonic = "egg bubble average ten grain tribe talk inside novel rain pave afford";

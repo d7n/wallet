@@ -1,1 +1,1 @@
-var mnemonic = "keen dilemma crater will major swamp tissue myself round wedding brick city";
+var mnemonic = "bright final panda drastic below fruit satisfy elephant margin edge ripple fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "power verb monkey ordinary month field rocket place camera much asset april";
+var mnemonic = "sausage seed deliver lift glass wife drop canvas track armed purpose marine";

@@ -1,1 +1,1 @@
-var mnemonic = "mercy vital toast luxury toy history lake goose ill advance capable reject";
+var mnemonic = "vessel put carry lesson tomato casual road famous ten sword stool lesson";

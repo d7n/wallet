@@ -1,1 +1,1 @@
-var mnemonic = "tackle wage winter feel clay battle tip buddy history transfer fault safe";
+var mnemonic = "mansion cheese position goat athlete peasant fly stand feel kid cycle other";

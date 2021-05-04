@@ -1,1 +1,1 @@
-var mnemonic = "jeans robot sheriff deliver void story visual mad coral gorilla leave clown";
+var mnemonic = "poverty garlic index amateur nest edge leopard ugly timber peace often gasp";

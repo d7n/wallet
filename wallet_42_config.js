@@ -1,1 +1,1 @@
-var mnemonic = "rather few report chuckle answer version jump fog equip choose blue meadow";
+var mnemonic = "congress mad point round enjoy desert cheese special device shrimp situate clay";

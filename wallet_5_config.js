@@ -1,1 +1,1 @@
-var mnemonic = "manage hedgehog practice warm kitten rude flush floor false stable rib globe";
+var mnemonic = "power indoor dose cannon offer repair assist anchor knee knock gift pizza";

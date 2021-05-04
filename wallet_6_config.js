@@ -1,1 +1,1 @@
-var mnemonic = "leader flag cotton find middle clap problem always cook balance twist repeat";
+var mnemonic = "ceiling adapt attend marriage feel table action welcome scorpion today bridge canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "grid media oyster material size glide easy guard long excite end aware";
+var mnemonic = "ketchup spray sun quality sugar obey tray remove horror adjust minimum battle";

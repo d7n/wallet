@@ -1,1 +1,1 @@
-var mnemonic = "relax innocent emerge spread tomorrow only patrol nation guilt clap essence age";
+var mnemonic = "slice transfer danger state taste surface swift huge gentle review finish pretty";

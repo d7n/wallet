@@ -1,1 +1,1 @@
-var mnemonic = "royal save rare accuse now swing protect duty brief problem ramp parade";
+var mnemonic = "attack spin afraid broom finish copy manage book dutch picnic off poverty";

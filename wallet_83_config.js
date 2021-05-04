@@ -1,1 +1,1 @@
-var mnemonic = "garlic effort upgrade lesson salute gadget surface palace frog hungry develop define";
+var mnemonic = "letter awake occur orange north salmon increase explain shock sell ticket word";

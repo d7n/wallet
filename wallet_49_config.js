@@ -1,1 +1,1 @@
-var mnemonic = "mouse elegant earn doctor thing casual wreck during civil nurse material misery";
+var mnemonic = "stove letter slide axis slush trigger lake happy almost slush split apology";

@@ -1,1 +1,1 @@
-var mnemonic = "field exclude favorite claim tornado sadness gate deposit hawk express link seek";
+var mnemonic = "end million food wine man used road sibling fragile hat champion upon";

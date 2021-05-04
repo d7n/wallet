@@ -1,1 +1,1 @@
-var mnemonic = "wife meadow hover depth dismiss wagon wool teach write pattern section success";
+var mnemonic = "dragon allow cereal tool envelope spare wine subway swap inmate vessel settle";

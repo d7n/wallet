@@ -1,1 +1,1 @@
-var mnemonic = "gate sick debate search runway receive remove mirror moment concert faith check";
+var mnemonic = "coffee infant desk mention ostrich come april total auto stable industry enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "apart actual bless harbor swift salmon shuffle charge kid year eight giggle";
+var mnemonic = "humble match room badge key off march toddler napkin picture draft hover";

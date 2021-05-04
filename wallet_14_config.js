@@ -1,1 +1,1 @@
-var mnemonic = "pepper collect release jar glimpse uncover bread name clock fun tooth burden";
+var mnemonic = "output vague blanket smile goose spell shrug crime gadget child special cute";

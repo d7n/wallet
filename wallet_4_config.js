@@ -1,1 +1,1 @@
-var mnemonic = "stand input inject save laugh fit vanish senior bunker rough cheap benefit";
+var mnemonic = "innocent type midnight review toddler poet onion have thrive uphold draw edge";

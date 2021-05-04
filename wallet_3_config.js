@@ -1,1 +1,1 @@
-var mnemonic = "decide debate join affair average liberty pink nasty book law denial sell";
+var mnemonic = "blush task few stem demise section travel bomb another toy pact meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "fabric connect mother core spot neck carpet able kingdom vanish stuff sweet";
+var mnemonic = "tail lava opera venue diet grunt asthma frozen ship rug shiver solution";

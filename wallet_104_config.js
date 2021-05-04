@@ -1,1 +1,1 @@
-var mnemonic = "trust artist reject noise room oppose innocent thunder senior switch song reform";
+var mnemonic = "maze cook stuff behind humor empty title bubble chronic able winter diagram";

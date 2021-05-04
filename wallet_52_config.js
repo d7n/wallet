@@ -1,1 +1,1 @@
-var mnemonic = "mail boat absurd drum initial attract number lobster spice topic maid online";
+var mnemonic = "indoor search much rifle yellow egg gaze airport brick example patrol sight";

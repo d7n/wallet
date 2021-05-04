@@ -1,1 +1,1 @@
-var mnemonic = "slide outer kangaroo tomorrow bone opinion negative pact raven aerobic body desert";
+var mnemonic = "survey extra champion satisfy response trim van ancient crew guess grit stand";

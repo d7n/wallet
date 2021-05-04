@@ -1,1 +1,1 @@
-var mnemonic = "announce range hurdle then boil stomach fatal demise share chalk develop bag";
+var mnemonic = "film clock local muscle nothing color argue apology hello spell magnet pill";

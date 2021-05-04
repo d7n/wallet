@@ -1,1 +1,1 @@
-var mnemonic = "sadness multiply throw sort amateur keep when fold margin family since beach";
+var mnemonic = "damp paddle rival whale again dignity rail churn room cluster flash party";

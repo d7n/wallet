@@ -1,1 +1,1 @@
-var mnemonic = "sting deny detail wonder chat original mountain rubber caution real situate impact";
+var mnemonic = "true affair join lunch marble thought ramp document win neutral minimum hand";

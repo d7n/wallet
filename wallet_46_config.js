@@ -1,1 +1,1 @@
-var mnemonic = "bench wear bench captain another run feel balance shoot subway spin upgrade";
+var mnemonic = "stone service ride obscure mention column accuse rifle name cannon limit shrug";

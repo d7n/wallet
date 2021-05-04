@@ -1,1 +1,1 @@
-var mnemonic = "monkey rib fabric piano actual judge waste blur twelve cute promote liar";
+var mnemonic = "two erase wrestle spin erode rifle visit loan monkey essay arm citizen";

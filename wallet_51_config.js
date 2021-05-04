@@ -1,1 +1,1 @@
-var mnemonic = "regular civil loop fly upset lock coffee jeans diesel spider rate emotion";
+var mnemonic = "link trip consider soap romance erode across equal between donkey annual couple";

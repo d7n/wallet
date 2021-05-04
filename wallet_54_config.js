@@ -1,1 +1,1 @@
-var mnemonic = "force poem razor convince cube enhance sand bonus eagle mention usage agent";
+var mnemonic = "describe hole poem silk breeze involve bacon truly expose february label mosquito";

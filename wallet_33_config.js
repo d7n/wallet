@@ -1,1 +1,1 @@
-var mnemonic = "dice buddy debate much now dinosaur wasp wagon super rival beauty critic";
+var mnemonic = "know agree text adjust wasp owner enemy antique dawn boil chronic taste";

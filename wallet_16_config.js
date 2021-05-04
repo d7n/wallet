@@ -1,1 +1,1 @@
-var mnemonic = "elevator tip ugly piece sand enter pulse cloud position angry shy recipe";
+var mnemonic = "upset evolve hungry warm click credit dust dream differ sun airport immune";

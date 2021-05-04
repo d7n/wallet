@@ -1,1 +1,1 @@
-var mnemonic = "logic puzzle section ivory winner fossil wire raccoon robust ethics mansion infant";
+var mnemonic = "ribbon bleak output manage flat little dad rifle open brass diesel cabin";

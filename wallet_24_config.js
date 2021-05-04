@@ -1,1 +1,1 @@
-var mnemonic = "exercise tourist sniff region genius decide vague cabin neutral output adapt item";
+var mnemonic = "measure essay belt grant vibrant slab gauge hope enough cousin pool clay";

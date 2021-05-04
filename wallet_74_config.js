@@ -1,1 +1,1 @@
-var mnemonic = "enable raccoon trophy gesture angle endless seek tomorrow fetch ride wave will";
+var mnemonic = "student intact small enable orange join battle wife hybrid rose month goat";

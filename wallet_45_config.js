@@ -1,1 +1,1 @@
-var mnemonic = "phrase large want amateur promote evolve news feel jacket donkey expire garment";
+var mnemonic = "celery celery token swear below today shy possible antique monkey end lady";

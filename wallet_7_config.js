@@ -1,1 +1,1 @@
-var mnemonic = "sorry sense minute canyon poem century ocean prefer throw lemon spy crash";
+var mnemonic = "grunt mimic filter bronze winner focus become joy picture session palace weekend";

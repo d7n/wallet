@@ -1,1 +1,1 @@
-var mnemonic = "patrol liquid gravity milk panther snake slight fence boring industry boring inform";
+var mnemonic = "space fetch ankle orbit toe luggage slogan spike awful globe sibling charge";

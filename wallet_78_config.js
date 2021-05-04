@@ -1,1 +1,1 @@
-var mnemonic = "bamboo ten vocal ladder skill genius inform where rescue age orchard scatter";
+var mnemonic = "guess blade junior access flame earth this foster rule situate cliff brain";

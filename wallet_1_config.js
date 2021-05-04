@@ -1,1 +1,1 @@
-var mnemonic = "risk just smoke behind jar park tongue table relax social woman wave";
+var mnemonic = "harbor hole elder debate first room achieve echo maximum build elder forum";

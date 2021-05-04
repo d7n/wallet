@@ -1,1 +1,1 @@
-var mnemonic = "spare wreck corn bubble forest air inflict veteran region ill hazard erosion";
+var mnemonic = "between valve coyote again forget pole fiber certain parent town sheriff valley";

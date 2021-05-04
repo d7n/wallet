@@ -1,1 +1,1 @@
-var mnemonic = "final hurdle benefit thought identify rack forward dove word fabric hood powder";
+var mnemonic = "struggle occur devote flower robust rare cabin humble swap shop divorce scatter";

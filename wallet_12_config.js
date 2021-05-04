@@ -1,1 +1,1 @@
-var mnemonic = "buddy dial space feed saddle hockey medal candy shiver execute alarm pole";
+var mnemonic = "swing address input assist jewel segment embody brick amazing bubble cheap destroy";

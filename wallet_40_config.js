@@ -1,1 +1,1 @@
-var mnemonic = "slot evidence occur bundle cloud giant rain mother bone theory jaguar mask";
+var mnemonic = "pigeon since pulp hedgehog motor slim radar empower pony ill sand horn";

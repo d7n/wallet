@@ -1,1 +1,1 @@
-var mnemonic = "shiver fiscal immense bonus idle like sign more forward spoil remain material";
+var mnemonic = "three toy exercise post essay draw forest found health merit wide gallery";

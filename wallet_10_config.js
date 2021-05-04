@@ -1,1 +1,1 @@
-var mnemonic = "response cross gate screen farm space fence inform vault head found bulb";
+var mnemonic = "poet disorder say twin uniform swarm afford capital sausage fetch job phone";

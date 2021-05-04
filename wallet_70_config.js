@@ -1,1 +1,1 @@
-var mnemonic = "derive fork casual island butter radar paper tribe marriage torch champion staff";
+var mnemonic = "index happy fresh input moral session exit always perfect delay member this";

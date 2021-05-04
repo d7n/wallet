@@ -1,1 +1,1 @@
-var mnemonic = "base slide spoil pottery violin unknown humble flock ridge make present pony";
+var mnemonic = "clarify drift real dose seminar eight hammer solid message lobster discover announce";

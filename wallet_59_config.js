@@ -1,1 +1,1 @@
-var mnemonic = "noble velvet champion win satisfy ski hill truck audit remain salon crawl";
+var mnemonic = "sock husband control warrior balcony wrong auction insect antenna suit possible legend";

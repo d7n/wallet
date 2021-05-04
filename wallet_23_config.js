@@ -1,1 +1,1 @@
-var mnemonic = "dignity garment hurry recipe few pattern discover harvest quantum grace armed vendor";
+var mnemonic = "any hire pass feel oxygen crawl current science bracket valve remind attend";

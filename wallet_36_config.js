@@ -1,1 +1,1 @@
-var mnemonic = "battle large term jelly strike speak fall dumb alpha busy arrive hunt";
+var mnemonic = "woman save danger one maximum move rain hat object giraffe flock disorder";
