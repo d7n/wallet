@@ -1,1 +1,1 @@
-var mnemonic = "leaf remove seven lift minimum blade embrace help weird region say scheme";
+var mnemonic = "embark sell position casual elder license capable special wreck devote exotic turn";

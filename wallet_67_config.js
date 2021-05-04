@@ -1,1 +1,1 @@
-var mnemonic = "mansion hen all section rug giant merry velvet measure rail student fever";
+var mnemonic = "keen napkin umbrella spring lonely goat innocent image sustain trial bicycle total";

@@ -1,1 +1,1 @@
-var mnemonic = "toe kid aunt case spoil banana length recall swamp vague shallow service";
+var mnemonic = "thought knife future aim ozone raven castle panther shrug stairs giant verify";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet viable timber source good doctor pepper mushroom debris elder own flower";
+var mnemonic = "pass album negative half notable either suffer easily alert ice copper sense";

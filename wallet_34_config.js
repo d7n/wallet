@@ -1,1 +1,1 @@
-var mnemonic = "budget glue cluster skin dragon convince crouch rescue harbor any surprise trial";
+var mnemonic = "giggle giraffe radio enforce early spread term shuffle glue mansion heavy grunt";

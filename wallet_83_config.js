@@ -1,1 +1,1 @@
-var mnemonic = "unit enlist mosquito render word multiply rally deer cushion seminar absent setup";
+var mnemonic = "crucial wage clerk behave galaxy estate ghost bunker shop girl ladder slot";

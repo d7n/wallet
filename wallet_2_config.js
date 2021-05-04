@@ -1,1 +1,1 @@
-var mnemonic = "town gap valley record repair unique deal diamond father glue core color";
+var mnemonic = "issue market bike dragon umbrella often peanut throw thunder message install pass";

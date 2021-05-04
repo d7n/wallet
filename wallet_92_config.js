@@ -1,1 +1,1 @@
-var mnemonic = "side fatal vendor much school silent problem when review great run garlic";
+var mnemonic = "priority crazy tonight minimum poverty more round horn resemble result remove edge";

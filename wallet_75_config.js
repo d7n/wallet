@@ -1,1 +1,1 @@
-var mnemonic = "destroy crash avoid broken act area melody north short matter orient tiger";
+var mnemonic = "harbor grunt couch mandate crucial coach sea cushion symptom panic keen guilt";

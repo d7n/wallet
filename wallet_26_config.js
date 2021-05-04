@@ -1,1 +1,1 @@
-var mnemonic = "improve tomorrow mystery someone quit ugly pluck impose table easily mind dismiss";
+var mnemonic = "spray expire among repeat analyst frame mammal inmate tag spring erode speak";

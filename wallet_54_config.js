@@ -1,1 +1,1 @@
-var mnemonic = "pair suggest shell crouch bachelor verify idle select weird weather choose often";
+var mnemonic = "wrestle gossip insect movie eager dynamic alien silver fine sibling hobby antique";

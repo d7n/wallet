@@ -1,1 +1,1 @@
-var mnemonic = "rate kitten provide quiz giggle absorb month tray excess series toward riot";
+var mnemonic = "merry walnut wide useful volume slush normal home arrow endorse census mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz tool domain crisp aspect flush pull symbol edge fiber mimic fruit";
+var mnemonic = "reflect unfair leg guilt patch voice ahead sibling accuse life divert hotel";

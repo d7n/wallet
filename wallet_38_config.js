@@ -1,1 +1,1 @@
-var mnemonic = "orbit essence cute trophy dizzy scare pluck raven payment split labor hello";
+var mnemonic = "wheel among lazy enforce cement position fragile link member recycle skirt industry";

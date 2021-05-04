@@ -1,1 +1,1 @@
-var mnemonic = "mystery merit track style private flavor stairs mammal kangaroo approve local nominee";
+var mnemonic = "enable often cage city debris tiger wolf congress there soccer fuel rival";

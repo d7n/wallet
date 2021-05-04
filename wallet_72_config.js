@@ -1,1 +1,1 @@
-var mnemonic = "nerve filter video cradle helmet attract lobster nature today congress hospital black";
+var mnemonic = "tourist wrestle member true pink warfare retire twenty animal pencil small account";

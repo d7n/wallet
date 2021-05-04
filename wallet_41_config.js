@@ -1,1 +1,1 @@
-var mnemonic = "warrior dish prefer festival hedgehog clown ordinary chapter rubber absorb student luxury";
+var mnemonic = "lizard impact strong transfer sunset example bird shove public defense nasty chaos";

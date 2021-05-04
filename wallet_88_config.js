@@ -1,1 +1,1 @@
-var mnemonic = "wolf best lock process palace scan salmon used candy diet raven fancy";
+var mnemonic = "fabric alien hover junior sorry film slim between long desert distance language";

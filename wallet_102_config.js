@@ -1,1 +1,1 @@
-var mnemonic = "tourist unique angle kitchen latin situate problem divorce spike salute media hold";
+var mnemonic = "practice hello ranch grit real steel chef april army result tube oppose";

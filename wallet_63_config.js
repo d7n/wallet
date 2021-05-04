@@ -1,1 +1,1 @@
-var mnemonic = "east capital saddle other curve fox slab funny dinosaur catch guide arctic";
+var mnemonic = "snap main boat kiss loan city clinic appear legend when title patch";

@@ -1,1 +1,1 @@
-var mnemonic = "neck peace side box narrow segment autumn frequent history cake head exotic";
+var mnemonic = "venue boy soon cook fog enact drill claw welcome fortune donkey alter";

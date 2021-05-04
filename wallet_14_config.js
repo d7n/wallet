@@ -1,1 +1,1 @@
-var mnemonic = "mind hybrid thrive idea pill nut wish lunch fly way forum trash";
+var mnemonic = "into good river year kid fringe scrap faculty illness deposit ginger enhance";

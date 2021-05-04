@@ -1,1 +1,1 @@
-var mnemonic = "purpose grid spring chaos column agent double diesel soccer foster type pass";
+var mnemonic = "share obvious nasty puzzle beach rain wool capable excuse tell crop perfect";

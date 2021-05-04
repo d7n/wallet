@@ -1,1 +1,1 @@
-var mnemonic = "orient crash daring candy music license finish miss punch receive remain cost";
+var mnemonic = "smile tip dry reunion rocket cricket spread era mosquito assume throw skirt";

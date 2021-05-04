@@ -1,1 +1,1 @@
-var mnemonic = "wrong print jeans spray orphan glass ticket world average two soda craft";
+var mnemonic = "treat pelican stool shove cheap hub similar survey soda correct fish sibling";

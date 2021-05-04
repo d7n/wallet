@@ -1,1 +1,1 @@
-var mnemonic = "rough move mammal doctor ribbon current craft legal narrow enemy save sun";
+var mnemonic = "vocal assume square local tortoise explain reveal nothing eagle orange demand stairs";

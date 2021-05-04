@@ -1,1 +1,1 @@
-var mnemonic = "enable orphan rice duty unhappy small math believe link latin joy area";
+var mnemonic = "melody access artefact know arrow orphan dust mechanic wagon sauce suit swamp";

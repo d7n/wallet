@@ -1,1 +1,1 @@
-var mnemonic = "decorate suffer silent couch clean man when minute roast regret project soup";
+var mnemonic = "service about price glove garbage burden ketchup end uncover blouse gaze year";

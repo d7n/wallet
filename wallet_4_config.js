@@ -1,1 +1,1 @@
-var mnemonic = "between oyster strategy asthma kit water giant album usage label radar hen";
+var mnemonic = "insane business direct develop crowd viable result clump duty insane other fury";

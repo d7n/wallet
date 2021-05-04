@@ -1,1 +1,1 @@
-var mnemonic = "ozone budget target emotion only manage ensure media glue loyal boat hobby";
+var mnemonic = "level myth desk false hybrid small wreck citizen two device sudden catch";

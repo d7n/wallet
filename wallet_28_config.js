@@ -1,1 +1,1 @@
-var mnemonic = "future friend lottery arrest seat kite fade ceiling minor air dwarf black";
+var mnemonic = "potato cactus chase holiday crush giant gallery awkward ask able lucky first";

@@ -1,1 +1,1 @@
-var mnemonic = "decrease kitten learn program help enough enlist egg thumb scorpion setup jungle";
+var mnemonic = "voice comfort invest strategy popular speed trim clap bullet ceiling arctic begin";

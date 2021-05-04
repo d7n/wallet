@@ -1,1 +1,1 @@
-var mnemonic = "stool citizen maid letter fog expand vault enlist gloom hero mixed flush";
+var mnemonic = "board seven live extra digital degree page cycle evidence tenant fitness flip";

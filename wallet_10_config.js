@@ -1,1 +1,1 @@
-var mnemonic = "current robot remind recycle unknown december direct sand chief work electric mechanic";
+var mnemonic = "shrug park close radio shock dinosaur already crop uniform evidence wheel fancy";

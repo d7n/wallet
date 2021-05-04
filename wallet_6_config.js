@@ -1,1 +1,1 @@
-var mnemonic = "define rebel label ball today unlock gauge spy similar hurt rookie deputy";
+var mnemonic = "february seven rebel twin combine shoe enroll gorilla satoshi action approve photo";

@@ -1,1 +1,1 @@
-var mnemonic = "pitch search six code zoo novel tobacco liquid express inside wrap omit";
+var mnemonic = "buffalo swim together pony extra speed useless payment frog tide fatal lion";

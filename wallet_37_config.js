@@ -1,1 +1,1 @@
-var mnemonic = "door comic become ticket adult random fetch dose use faculty snake veteran";
+var mnemonic = "person rifle snap pepper wash miss crawl dismiss moment special hip fury";

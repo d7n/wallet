@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin dynamic stumble input wedding loan merry install major plunge coral town";
+var mnemonic = "soldier attitude slim accident forest cover kidney sting distance casino reduce section";

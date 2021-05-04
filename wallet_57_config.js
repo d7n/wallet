@@ -1,1 +1,1 @@
-var mnemonic = "fade purpose opinion become pill endless elbow whip destroy strike prize crawl";
+var mnemonic = "estate thunder media assault assume clever excess van hair improve birth rebuild";

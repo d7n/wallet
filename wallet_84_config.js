@@ -1,1 +1,1 @@
-var mnemonic = "nurse security sick situate catch sight buffalo animal there economy polar assault";
+var mnemonic = "claim anxiety zebra gravity supreme oxygen human click exchange pistol until legend";

@@ -1,1 +1,1 @@
-var mnemonic = "build immune make fringe rice panel visual blade term print term ozone";
+var mnemonic = "pencil dawn wolf alter seed phone method reopen able stairs sustain before";

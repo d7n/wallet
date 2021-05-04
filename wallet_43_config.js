@@ -1,1 +1,1 @@
-var mnemonic = "come can save canoe you make canyon hidden sentence forest path tribe";
+var mnemonic = "skill matrix kiss opinion recipe much park shield elevator diesel develop mention";

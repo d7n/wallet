@@ -1,1 +1,1 @@
-var mnemonic = "multiply seminar fine best tower cloth nerve aspect spoon quality satisfy illegal";
+var mnemonic = "leopard poet use grace crouch rapid wine pipe object sense fiction hedgehog";

@@ -1,1 +1,1 @@
-var mnemonic = "cat diesel student enrich rebel scissors fiscal type raven guitar forget pretty";
+var mnemonic = "butter remind cruel cruise door increase permit shed area river cart spend";

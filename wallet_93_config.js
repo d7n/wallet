@@ -1,1 +1,1 @@
-var mnemonic = "raise other census axis supreme mirror love thumb they ritual home pistol";
+var mnemonic = "decide thing art monkey funny candy enroll humble kind alien gain vital";

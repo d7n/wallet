@@ -1,1 +1,1 @@
-var mnemonic = "sail distance hint ethics stool banner debris eager shove attend moment execute";
+var mnemonic = "hen blast fashion nut dirt life raw tennis inner marble sting solution";

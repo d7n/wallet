@@ -1,1 +1,1 @@
-var mnemonic = "supply evoke vital speak return state sniff ladder gun basket tobacco practice";
+var mnemonic = "category start unlock great other symptom turkey fresh column tonight bulb thrive";

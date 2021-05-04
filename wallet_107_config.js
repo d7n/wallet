@@ -1,1 +1,1 @@
-var mnemonic = "decide feed tunnel runway connect blouse change auction ask ice banana bridge";
+var mnemonic = "shoot modify pattern survey sweet during runway trick slogan stadium effort nice";

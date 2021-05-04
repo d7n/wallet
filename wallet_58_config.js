@@ -1,1 +1,1 @@
-var mnemonic = "injury ginger orbit pull inquiry today follow satisfy vendor robot draw club";
+var mnemonic = "rose primary vivid win laugh pyramid reward clump noodle patrol honey rose";

@@ -1,1 +1,1 @@
-var mnemonic = "library venture crush offer dash behind skirt quarter effort gown battle ahead";
+var mnemonic = "shallow recipe brick arctic decorate fabric lady absorb accident vacant away alpha";

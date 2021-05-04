@@ -1,1 +1,1 @@
-var mnemonic = "uphold narrow cake still liquid method increase calm knock social gun amazing";
+var mnemonic = "aim amazing height quantum spread artist clip host exercise potato gas dismiss";

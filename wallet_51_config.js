@@ -1,1 +1,1 @@
-var mnemonic = "embark number auction ranch shiver dizzy crime act mad boat intact erode";
+var mnemonic = "lobster limit permit oval feed emerge curtain imitate quit wish amount when";

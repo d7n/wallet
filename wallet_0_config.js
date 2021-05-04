@@ -1,1 +1,1 @@
-var mnemonic = "reason eager favorite three minimum wire cheese wrong comic inject manage south";
+var mnemonic = "oblige snow switch neglect share very common card feed junk since review";

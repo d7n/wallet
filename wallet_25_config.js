@@ -1,1 +1,1 @@
-var mnemonic = "shaft amateur table steel pencil whip island blue ranch mistake consider clog";
+var mnemonic = "theory they zone couple chronic century ramp trim wine spoil sphere patch";

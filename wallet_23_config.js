@@ -1,1 +1,1 @@
-var mnemonic = "logic expire dynamic maximum pottery oak engine head slab tomorrow sight quick";
+var mnemonic = "rare drill milk either stone august zone rain fringe loan pistol bright";

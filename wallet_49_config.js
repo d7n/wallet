@@ -1,1 +1,1 @@
-var mnemonic = "sphere hub club vessel buzz roast foam tip october wolf already rough";
+var mnemonic = "repair range zoo excuse convince celery cat stairs check such lyrics scare";

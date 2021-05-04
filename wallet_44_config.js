@@ -1,1 +1,1 @@
-var mnemonic = "review wage hire sport oval achieve icon pink mention saddle edit ribbon";
+var mnemonic = "silk vintage alone laundry valley clown penalty fox nothing escape buddy uniform";

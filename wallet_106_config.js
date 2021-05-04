@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin innocent weasel sadness robot bar gaze churn ball proud draw liberty";
+var mnemonic = "adult shrug chuckle nominee pottery dune lecture second record busy oblige lend";

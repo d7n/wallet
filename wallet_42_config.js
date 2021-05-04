@@ -1,1 +1,1 @@
-var mnemonic = "dizzy behind truck roast base genius advice chuckle sword unhappy oil bus";
+var mnemonic = "sign order champion health volcano armor interest humble affair work blanket track";

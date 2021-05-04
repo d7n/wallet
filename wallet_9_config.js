@@ -1,1 +1,1 @@
-var mnemonic = "course marble twelve lobster unaware wide slice jacket grit lend relief order";
+var mnemonic = "ozone army mention patch mimic industry basket drip letter found welcome country";

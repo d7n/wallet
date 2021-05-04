@@ -1,1 +1,1 @@
-var mnemonic = "survey fun common day double library maze deposit field smoke judge trash";
+var mnemonic = "arrest spend toe crowd right fox gloom practice heavy atom skate inner";

@@ -1,1 +1,1 @@
-var mnemonic = "picture above culture current tilt genuine enemy develop borrow spy pill border";
+var mnemonic = "sudden onion wine apology stick surface more march fat blanket scale hockey";

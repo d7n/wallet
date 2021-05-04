@@ -1,1 +1,1 @@
-var mnemonic = "suit science win puzzle wait harbor enlist bid palace idle mistake script";
+var mnemonic = "ready spatial winter okay pluck prepare fly train deposit solve wheat smart";

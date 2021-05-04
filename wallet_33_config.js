@@ -1,1 +1,1 @@
-var mnemonic = "manage near rib like mansion plastic rally mistake month voyage limb vessel";
+var mnemonic = "axis announce ready call venue volume diet tired palace vendor family hand";

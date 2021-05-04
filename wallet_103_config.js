@@ -1,1 +1,1 @@
-var mnemonic = "final typical grain drill rocket smooth palace about exercise clarify onion insane";
+var mnemonic = "young boy pen foster cabin almost long either same multiply couple exotic";

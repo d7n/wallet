@@ -1,1 +1,1 @@
-var mnemonic = "fashion build dilemma loan hood upper gift client october special age vacant";
+var mnemonic = "rich else save club slice lounge loan salad delay aware glad accuse";

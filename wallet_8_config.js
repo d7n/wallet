@@ -1,1 +1,1 @@
-var mnemonic = "trash virtual cave story birth tape horn ice topple pyramid multiply slot";
+var mnemonic = "infant garlic risk debate ghost under attack credit insane bullet inflict claw";

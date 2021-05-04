@@ -1,1 +1,1 @@
-var mnemonic = "glance vital digital hello trophy story lizard air harvest rough leg correct";
+var mnemonic = "cruise group spring arena surprise hawk dumb adjust sugar tube bracket hire";

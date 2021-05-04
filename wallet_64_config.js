@@ -1,1 +1,1 @@
-var mnemonic = "mixed nerve stereo face acoustic boy echo enhance winner total rocket magic";
+var mnemonic = "pumpkin achieve violin antique supply kidney ugly process error rib draw wear";

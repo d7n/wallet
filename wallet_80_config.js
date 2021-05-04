@@ -1,1 +1,1 @@
-var mnemonic = "green foam cushion flag town skill praise cat tribe social inch arrange";
+var mnemonic = "lounge host spoil citizen above solar honey hotel fine drift ship film";

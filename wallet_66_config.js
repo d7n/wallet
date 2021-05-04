@@ -1,1 +1,1 @@
-var mnemonic = "baby argue mail man suspect april pottery cliff evil kind digital cherry";
+var mnemonic = "shuffle fix gospel when skin pulse body urban blade slab cupboard unit";

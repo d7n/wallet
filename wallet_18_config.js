@@ -1,1 +1,1 @@
-var mnemonic = "two east lunch hamster survey draft pudding water pear total razor diary";
+var mnemonic = "have blind reunion latin smooth climb forest bitter involve loop erosion fluid";

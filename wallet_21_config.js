@@ -1,1 +1,1 @@
-var mnemonic = "forum view spider parent bullet invite reopen produce answer anxiety crunch smile";
+var mnemonic = "venue purpose average over heavy copy spike absent unfair rare pupil silent";

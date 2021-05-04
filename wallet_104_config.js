@@ -1,1 +1,1 @@
-var mnemonic = "blouse unveil surface public among source seat position salmon behind dragon issue";
+var mnemonic = "athlete off menu cat bracket bread alert soccer final fly health common";

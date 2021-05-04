@@ -1,1 +1,1 @@
-var mnemonic = "cruel inhale angry tray exercise phrase they popular swing strategy layer fury";
+var mnemonic = "obey blind spare change best autumn junior slam juice vehicle excite rabbit";

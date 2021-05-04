@@ -1,1 +1,1 @@
-var mnemonic = "cabin cinnamon stamp eyebrow domain honey feed bid inch omit embark other";
+var mnemonic = "proud output apple hope tone material hover pair drop flight afraid rich";

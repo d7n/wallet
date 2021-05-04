@@ -1,1 +1,1 @@
-var mnemonic = "wall wheel cigar fun game pupil typical truly biology biology fringe grab";
+var mnemonic = "lottery cream camera become stereo coast degree reveal trap sudden about rival";

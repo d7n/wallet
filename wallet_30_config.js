@@ -1,1 +1,1 @@
-var mnemonic = "staff total moral common pill decrease timber stage rubber grid public math";
+var mnemonic = "south wait route upper echo hurry float fat question dirt lyrics blind";

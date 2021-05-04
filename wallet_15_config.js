@@ -1,1 +1,1 @@
-var mnemonic = "road butter source donor unhappy squirrel grain erase pass bamboo concert sister";
+var mnemonic = "large lizard laptop almost coast mandate rather border wall album absurd when";

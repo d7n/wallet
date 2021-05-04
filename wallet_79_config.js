@@ -1,1 +1,1 @@
-var mnemonic = "project buffalo sister head sad fold goose river kiss notable chicken tone";
+var mnemonic = "execute violin nerve cage link finish orbit turtle rhythm spring primary giant";

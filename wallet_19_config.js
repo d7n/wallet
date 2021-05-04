@@ -1,1 +1,1 @@
-var mnemonic = "patient planet story congress sibling define boil suspect cause crunch stereo trash";
+var mnemonic = "three repair just math video goddess hundred define thunder mansion cabbage lyrics";

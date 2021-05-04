@@ -1,1 +1,1 @@
-var mnemonic = "season remove brand arrange route hero bright flip duty exact result toward";
+var mnemonic = "twin argue myth sing gossip language jazz will hidden bottom famous usual";

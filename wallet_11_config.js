@@ -1,1 +1,1 @@
-var mnemonic = "cool view prosper syrup crack indoor month sister orchard adjust cotton rifle";
+var mnemonic = "draft debris normal reward soccer exclude sword ritual very correct comic wreck";

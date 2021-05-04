@@ -1,1 +1,1 @@
-var mnemonic = "mirror hazard always item august velvet boy matrix squirrel grunt long raise";
+var mnemonic = "nasty smooth suffer step vacuum very elephant cash afford gown jump science";

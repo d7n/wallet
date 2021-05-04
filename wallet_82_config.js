@@ -1,1 +1,1 @@
-var mnemonic = "below thunder prosper snow birth large ensure cat scrub reject cage address";
+var mnemonic = "eternal universe party dash sample already castle desk raw neither recipe baby";

@@ -1,1 +1,1 @@
-var mnemonic = "hollow pear outdoor evolve pizza core leg warfare deny day floor violin";
+var mnemonic = "huge scout unveil offer elephant neither museum dice impact person memory slot";
