@@ -1,1 +1,1 @@
-var mnemonic = "tool coral pipe dance honey ten flat certain cross gospel gorilla moon";
+var mnemonic = "trade stairs reunion erase toilet drop unlock teach apple okay robot box";

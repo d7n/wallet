@@ -1,1 +1,1 @@
-var mnemonic = "surround frost frost better gloom paddle song bulk water festival announce snap";
+var mnemonic = "barely weasel usage comic device stock swing divide bronze truck trigger market";

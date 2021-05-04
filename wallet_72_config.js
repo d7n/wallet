@@ -1,1 +1,1 @@
-var mnemonic = "doctor blast lava route improve bulb never kitten usual warrior exchange above";
+var mnemonic = "march shuffle choice sister retreat east assault hidden height say glove bird";

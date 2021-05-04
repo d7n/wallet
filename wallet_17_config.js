@@ -1,1 +1,1 @@
-var mnemonic = "shed output senior about absent balcony armor morning return myself seed project";
+var mnemonic = "six mechanic differ track credit neutral sphere remind push glance tired ball";

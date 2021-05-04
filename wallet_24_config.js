@@ -1,1 +1,1 @@
-var mnemonic = "cool meat slot result outside nation horror nation opera dress open stove";
+var mnemonic = "border alter truck thought side ecology occur check sail dizzy nothing sail";

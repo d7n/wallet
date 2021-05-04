@@ -1,1 +1,1 @@
-var mnemonic = "youth street toddler salad plug market strategy nature remind oven wage install";
+var mnemonic = "page wonder jump top joke avoid place oblige dose pull portion source";

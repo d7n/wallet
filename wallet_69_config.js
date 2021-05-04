@@ -1,1 +1,1 @@
-var mnemonic = "swallow talent size imitate senior awful focus wash mad oyster run reopen";
+var mnemonic = "correct bullet begin kite fan true sport wage fame interest mandate point";

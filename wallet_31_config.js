@@ -1,1 +1,1 @@
-var mnemonic = "frozen useless fee scrub cram recipe trash fiscal slogan rug crystal biology";
+var mnemonic = "morning arrive rely prepare burden hold mask shine august scorpion bubble father";

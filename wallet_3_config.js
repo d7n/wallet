@@ -1,1 +1,1 @@
-var mnemonic = "today elephant assist bag inquiry surround verb vicious priority give roast approve";
+var mnemonic = "emotion trouble lion congress expand lesson shy budget shuffle pottery concert erase";

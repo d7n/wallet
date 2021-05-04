@@ -1,1 +1,1 @@
-var mnemonic = "enhance armor private also token ceiling various sentence stomach strategy portion armor";
+var mnemonic = "range rather nephew gather keep wisdom march slot grief gate rapid squirrel";

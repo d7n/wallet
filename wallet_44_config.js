@@ -1,1 +1,1 @@
-var mnemonic = "agree garbage grief alley away magic clip finish position home admit ahead";
+var mnemonic = "section surround affair submit recycle carbon ladder army bring defense empower gun";

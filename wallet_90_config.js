@@ -1,1 +1,1 @@
-var mnemonic = "number camera feature ceiling glass vicious fame ridge theme avoid glove stock";
+var mnemonic = "recall census baby approve pole duty solid siege soldier bicycle left step";

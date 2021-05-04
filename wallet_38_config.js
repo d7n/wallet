@@ -1,1 +1,1 @@
-var mnemonic = "about caught motion monkey again change ripple kitchen leg ritual once dress";
+var mnemonic = "task tilt easy empower champion answer dog enroll document blood foil divorce";

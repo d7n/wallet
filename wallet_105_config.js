@@ -1,1 +1,1 @@
-var mnemonic = "floor target hawk swim evoke rude village random shove repair shadow enjoy";
+var mnemonic = "insane total shaft salon add cousin pony link normal ten use nice";

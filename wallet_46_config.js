@@ -1,1 +1,1 @@
-var mnemonic = "resource fantasy innocent forum recipe swallow flee summer dinner gift move manual";
+var mnemonic = "cement fringe tumble similar task sniff nephew destroy funny trim sentence disagree";

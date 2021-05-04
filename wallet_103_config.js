@@ -1,1 +1,1 @@
-var mnemonic = "female secret park satoshi wire tumble machine romance oak buddy aware economy";
+var mnemonic = "wealth gate improve luggage employ prepare duck elegant use mobile net history";

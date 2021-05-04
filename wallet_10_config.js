@@ -1,1 +1,1 @@
-var mnemonic = "where inspire alone attend ranch biology elevator devote mixture earth yard flock";
+var mnemonic = "joke between cloud crisp device stairs sound analyst rule festival space edge";

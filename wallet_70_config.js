@@ -1,1 +1,1 @@
-var mnemonic = "edge ranch fish develop desert over body scene head betray pill rack";
+var mnemonic = "frozen company design fit scatter exchange intact like cash little kiwi staff";

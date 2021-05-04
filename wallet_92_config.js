@@ -1,1 +1,1 @@
-var mnemonic = "weasel clever sponsor runway reveal often dizzy shove dune desk rebel survey";
+var mnemonic = "leopard column voyage steel ripple script frost crash fit obey pony boost";

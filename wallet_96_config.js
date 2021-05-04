@@ -1,1 +1,1 @@
-var mnemonic = "coil shy ozone table alpha foster palace casual indoor error main buddy";
+var mnemonic = "six ketchup test certain will range scale warm hero essence click staff";

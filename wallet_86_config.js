@@ -1,1 +1,1 @@
-var mnemonic = "scatter promote visit also alert slight win judge arm huge hundred craft";
+var mnemonic = "detect warfare fan disagree about such figure ripple improve whisper game slender";

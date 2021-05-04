@@ -1,1 +1,1 @@
-var mnemonic = "material phone inform undo lens library cupboard yellow whip orient patch type";
+var mnemonic = "grass marriage level cabbage effort cherry team mushroom crawl rib blame people";

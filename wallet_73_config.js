@@ -1,1 +1,1 @@
-var mnemonic = "smart asthma ability impact purity render fee trade tongue trash adapt hotel";
+var mnemonic = "claim blanket never record universe cake want dice cave sock aerobic blood";

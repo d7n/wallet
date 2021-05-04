@@ -1,1 +1,1 @@
-var mnemonic = "all expire mountain wasp oval gym genius verb supply another advice convince";
+var mnemonic = "talent poet sadness flock steel reflect satisfy then blue sister crisp mandate";

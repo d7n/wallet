@@ -1,1 +1,1 @@
-var mnemonic = "name crack siege acquire supreme clown goat actor same design humble marriage";
+var mnemonic = "unable weekend typical town angle gold emotion slim hard worth basic random";

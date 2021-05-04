@@ -1,1 +1,1 @@
-var mnemonic = "frog tag office excess video lesson hockey title woman size denial visa";
+var mnemonic = "hawk summer clown fish define phrase ranch before struggle eager target sadness";

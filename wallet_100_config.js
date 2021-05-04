@@ -1,1 +1,1 @@
-var mnemonic = "slice funny romance gaze mango denial frame property chapter where clay lyrics";
+var mnemonic = "amateur canvas claim silly scrap between universe thank usual timber segment void";

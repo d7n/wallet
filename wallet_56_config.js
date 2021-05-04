@@ -1,1 +1,1 @@
-var mnemonic = "eagle length cargo relief garment story plug exhibit install file habit purse";
+var mnemonic = "father joke collect spare dignity velvet symbol material pulse bacon exile dial";

@@ -1,1 +1,1 @@
-var mnemonic = "accuse gym critic hole file staff sorry twelve mosquito unable head hockey";
+var mnemonic = "help ridge they season action banner another direct bleak defense drive praise";

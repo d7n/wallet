@@ -1,1 +1,1 @@
-var mnemonic = "rescue gate fame menu eye usual myth shrug filter help color athlete";
+var mnemonic = "feature shoe gain film service anchor zero one twelve test crane super";

@@ -1,1 +1,1 @@
-var mnemonic = "blue stereo flavor state copy bracket solar dice improve curious twin win";
+var mnemonic = "mango sudden couple balcony noise ball shock case extra mind wedding act";

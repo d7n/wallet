@@ -1,1 +1,1 @@
-var mnemonic = "wasp nice average brick can leader lemon comfort fossil hen awake interest";
+var mnemonic = "fuel orient logic merry kingdom code winner wild claim among valve drill";

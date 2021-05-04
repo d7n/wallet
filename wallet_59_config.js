@@ -1,1 +1,1 @@
-var mnemonic = "staff stumble brain toe author copy wave move ancient dynamic salon fashion";
+var mnemonic = "man bounce stamp various beef chef heavy rescue taste property track birth";

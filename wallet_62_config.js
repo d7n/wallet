@@ -1,1 +1,1 @@
-var mnemonic = "lizard pledge aunt rice process paddle position must island nature ecology feed";
+var mnemonic = "income retreat claw donkey spider dust misery live saddle betray use wagon";

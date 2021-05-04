@@ -1,1 +1,1 @@
-var mnemonic = "pony valid subject churn bread arch leader promote suit donate swift auto";
+var mnemonic = "define crouch culture repeat wait stove solve supply pupil swear stereo broom";

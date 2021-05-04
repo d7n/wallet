@@ -1,1 +1,1 @@
-var mnemonic = "buffalo peasant happy prefer sea liberty february river clump other exist budget";
+var mnemonic = "undo crowd balance oak decrease dash aunt sponsor ceiling balance stove tooth";

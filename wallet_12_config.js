@@ -1,1 +1,1 @@
-var mnemonic = "suggest fly coffee six sample retire walnut bind pluck bird taste version";
+var mnemonic = "weird wasp avoid unhappy remind garage brother avoid fame romance end purse";

@@ -1,1 +1,1 @@
-var mnemonic = "throw initial opera case public year trade biology woman collect custom common";
+var mnemonic = "digital ball skin leader light armor either old broccoli ramp hold web";

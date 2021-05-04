@@ -1,1 +1,1 @@
-var mnemonic = "aisle jump auction charge bargain garage tunnel appear trust spike vibrant capable";
+var mnemonic = "spatial candy scan proof seat whisper path adult manual wonder green unaware";

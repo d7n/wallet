@@ -1,1 +1,1 @@
-var mnemonic = "stable melody affair motor cupboard foster icon paddle glad trial funny double";
+var mnemonic = "response shoot tilt cage dinosaur rather mouse glove come room prepare sick";

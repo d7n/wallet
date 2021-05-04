@@ -1,1 +1,1 @@
-var mnemonic = "zero virtual assist merry sphere city climb favorite list spawn kite shed";
+var mnemonic = "apology moon hundred castle foot crouch fresh shift smile correct subway salon";

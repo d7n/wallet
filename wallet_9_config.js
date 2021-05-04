@@ -1,1 +1,1 @@
-var mnemonic = "equip math cinnamon pill pencil keep horn old satoshi volcano scrap round";
+var mnemonic = "cover tennis dinner bike satoshi fatal select gossip scrap crawl pencil photo";

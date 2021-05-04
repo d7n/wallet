@@ -1,1 +1,1 @@
-var mnemonic = "liar brand satisfy isolate tower athlete lyrics law jacket purse rabbit point";
+var mnemonic = "angle laptop light flush omit early dice tribe evil feature talent emerge";

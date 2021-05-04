@@ -1,1 +1,1 @@
-var mnemonic = "bar chest vanish favorite crop happy mutual cat above legend sphere secret";
+var mnemonic = "film busy engine journey pear model absorb lunch baby female draft open";

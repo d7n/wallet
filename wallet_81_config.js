@@ -1,1 +1,1 @@
-var mnemonic = "surge degree motor title female identify moral coconut nominee talk tree note";
+var mnemonic = "subway inspire badge kingdom bacon neutral nation park decline learn ridge cannon";

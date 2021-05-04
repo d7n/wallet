@@ -1,1 +1,1 @@
-var mnemonic = "catalog rival innocent hotel appear payment treat defense tank purpose scare cat";
+var mnemonic = "pet cover snake easy win impact cat awake grunt sad pig fly";

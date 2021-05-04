@@ -1,1 +1,1 @@
-var mnemonic = "filter shield just random battle school injury ethics dignity merit pony ring";
+var mnemonic = "below rifle nominee place minute december sail nation girl rebel evil stable";

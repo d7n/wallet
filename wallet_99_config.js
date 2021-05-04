@@ -1,1 +1,1 @@
-var mnemonic = "mix because family electric crime brisk tool vanish skin shallow timber omit";
+var mnemonic = "pyramid right win expect caution drum three super river cargo accident pill";

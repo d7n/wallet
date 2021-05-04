@@ -1,1 +1,1 @@
-var mnemonic = "protect country save spread vicious solar approve pulse used deal stage priority";
+var mnemonic = "believe cart face have expire wrong melt minute thank license ecology pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "bullet retire lake rare shove picture bargain jungle sauce hybrid oyster air";
+var mnemonic = "turtle around dish express tennis pave still radio inquiry occur together spice";

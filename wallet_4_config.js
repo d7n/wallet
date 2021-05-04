@@ -1,1 +1,1 @@
-var mnemonic = "expect beef image galaxy more disease essence post broccoli coral glance spread";
+var mnemonic = "there quiz master rubber connect vessel agree picture undo school warfare dolphin";

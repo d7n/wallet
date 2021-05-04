@@ -1,1 +1,1 @@
-var mnemonic = "away nice vacant minor victory venue evoke lesson tunnel forest lamp rail";
+var mnemonic = "confirm elevator stable airport borrow mask bundle junior solve member frame leaf";

@@ -1,1 +1,1 @@
-var mnemonic = "asset remember wash strong parent odor junior garment inner win rotate bird";
+var mnemonic = "rule slab crash funny inch skate vessel broken casual board artist slight";

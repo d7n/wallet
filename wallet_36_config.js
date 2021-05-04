@@ -1,1 +1,1 @@
-var mnemonic = "bright weapon used obtain garlic example citizen garment develop focus rabbit enrich";
+var mnemonic = "iron kick decline crane liquid clip pause left people door fun hand";

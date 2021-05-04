@@ -1,1 +1,1 @@
-var mnemonic = "spot sure public garlic kind damage demand chapter skill hover return galaxy";
+var mnemonic = "outdoor sustain behind warm youth rule become poet cattle certain moment hard";

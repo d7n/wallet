@@ -1,1 +1,1 @@
-var mnemonic = "wear bind crystal alarm ridge abstract pattern clutch promote excite off steel";
+var mnemonic = "spell display gown churn short primary during retreat witness case female trouble";

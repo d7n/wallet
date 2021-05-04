@@ -1,1 +1,1 @@
-var mnemonic = "lottery second clog scatter harbor library garden grant increase because swamp word";
+var mnemonic = "spirit employ decade twice palace mirror life mask answer rocket salute west";

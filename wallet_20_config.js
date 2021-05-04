@@ -1,1 +1,1 @@
-var mnemonic = "crush horn example gap word verb sight century trial gain garden apology";
+var mnemonic = "sister assist soul property judge plunge aspect theme dynamic daring degree dream";

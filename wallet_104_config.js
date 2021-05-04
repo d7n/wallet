@@ -1,1 +1,1 @@
-var mnemonic = "review breeze april illness nurse bleak shadow cruise museum kitchen original lens";
+var mnemonic = "volcano shock giraffe divert neck math secret train duty taste offer lawn";

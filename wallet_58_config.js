@@ -1,1 +1,1 @@
-var mnemonic = "kite behind appear cross gas input inject cable bitter delay donor observe";
+var mnemonic = "secret network strong still adapt birth memory engage blouse lamp series ivory";

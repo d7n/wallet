@@ -1,1 +1,1 @@
-var mnemonic = "strike critic mimic organ sleep wealth ketchup apology govern nature joke wave";
+var mnemonic = "invest tent end clump hint style impose goat animal good eager romance";

@@ -1,1 +1,1 @@
-var mnemonic = "chief bid near calm later pitch coconut limit between ensure under response";
+var mnemonic = "day normal future verify rug skill power hat topic meat present volcano";

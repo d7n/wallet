@@ -1,1 +1,1 @@
-var mnemonic = "bridge drill brother column dizzy cave attend illness secret light side surface";
+var mnemonic = "distance message shy talent twelve rather comfort garage aerobic answer popular snow";

@@ -1,1 +1,1 @@
-var mnemonic = "ten shine edit strategy chalk submit protect mercy collect prosper pelican donor";
+var mnemonic = "song employ begin mountain coconut vault butter novel dash sorry obey until";

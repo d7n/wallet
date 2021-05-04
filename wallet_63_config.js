@@ -1,1 +1,1 @@
-var mnemonic = "style south wing arm machine say document sister spot piano place deputy";
+var mnemonic = "notice cupboard eyebrow planet random space tongue strike convince once crash close";

@@ -1,1 +1,1 @@
-var mnemonic = "upon pigeon video cruel elbow dynamic salmon relax keep saddle prevent report";
+var mnemonic = "wolf blouse annual robust satoshi belt mixed country salad loyal audit give";

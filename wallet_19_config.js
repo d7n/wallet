@@ -1,1 +1,1 @@
-var mnemonic = "case weird collect attract garbage deputy question own fall rescue decorate pave";
+var mnemonic = "volcano jealous seven notice net august hockey pitch entry citizen victory area";

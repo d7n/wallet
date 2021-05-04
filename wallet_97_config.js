@@ -1,1 +1,1 @@
-var mnemonic = "twist excess monkey flat teach impose harbor hammer mixture loan area permit";
+var mnemonic = "follow mail cruise pave embrace comic motor undo injury multiply loan system";

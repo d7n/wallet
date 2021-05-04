@@ -1,1 +1,1 @@
-var mnemonic = "transfer rookie year error thunder museum air inflict artefact remain safe sun";
+var mnemonic = "about expand faint payment meat neglect erupt random scatter claw round supply";

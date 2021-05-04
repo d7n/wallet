@@ -1,1 +1,1 @@
-var mnemonic = "intact garden blade flock burst attitude prize private acoustic music melody pottery";
+var mnemonic = "little figure flip pelican begin focus hover judge diesel picnic stuff badge";

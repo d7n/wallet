@@ -1,1 +1,1 @@
-var mnemonic = "text notice barely cloud sunny swift sauce ethics become weather poet arrange";
+var mnemonic = "correct rebel team ozone legal decide uncover detect endless conduct once left";

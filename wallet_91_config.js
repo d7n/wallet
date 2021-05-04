@@ -1,1 +1,1 @@
-var mnemonic = "boss belt game drum twist divorce report inform fall arrow antenna extend";
+var mnemonic = "wedding uniform rocket arrest laptop skirt viable picnic toilet pioneer club cotton";

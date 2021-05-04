@@ -1,1 +1,1 @@
-var mnemonic = "album regret prevent cave slide couch essay shed exclude know index topic";
+var mnemonic = "action donor crucial awful spoil phrase base idea old physical skate maximum";

@@ -1,1 +1,1 @@
-var mnemonic = "glory ethics quiz like frozen wealth marriage depend course border snack acoustic";
+var mnemonic = "potato adjust boy garden change pretty possible train plug cigar lawn blast";

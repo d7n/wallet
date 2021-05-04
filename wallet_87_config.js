@@ -1,1 +1,1 @@
-var mnemonic = "awful author crazy guess egg eager shed clinic carbon ensure happy damp";
+var mnemonic = "garden person solve donor when dutch trust country key drive resist hunt";

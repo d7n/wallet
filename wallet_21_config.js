@@ -1,1 +1,1 @@
-var mnemonic = "rug nest burst again destroy lyrics slush little brass document chapter pretty";
+var mnemonic = "know original helmet happy clown outside camp three when example warfare title";

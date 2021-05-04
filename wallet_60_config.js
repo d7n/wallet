@@ -1,1 +1,1 @@
-var mnemonic = "estate rent gossip rose cushion solid method ball before hand live arrange";
+var mnemonic = "solar huge olympic weapon expose nut capable quote large company height victory";

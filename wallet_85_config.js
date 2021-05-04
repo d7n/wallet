@@ -1,1 +1,1 @@
-var mnemonic = "day return off ride subject disagree wisdom mushroom nut path vast polar";
+var mnemonic = "example civil morning volcano fatigue panel clerk toy venture satisfy genius devote";

@@ -1,1 +1,1 @@
-var mnemonic = "until staff wine jealous example tide struggle airport shadow moral edit sunset";
+var mnemonic = "letter lens afraid pulse quit angry tuna present alarm bright over mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak defense share garbage onion sound vicious quick floor second logic judge";
+var mnemonic = "steak promote modify tree tone start shine orchard inform attitude gasp reveal";

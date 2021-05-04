@@ -1,1 +1,1 @@
-var mnemonic = "defy rain response scout brave quit wealth blur harbor snow wet route";
+var mnemonic = "expect bitter beach shrug damp predict salon spread staff fever pigeon romance";

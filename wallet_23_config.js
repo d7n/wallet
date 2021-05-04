@@ -1,1 +1,1 @@
-var mnemonic = "road wonder result account project fan prison powder dilemma truck ketchup ignore";
+var mnemonic = "decrease bronze benefit antique timber perfect people diesel mammal crash oppose zebra";

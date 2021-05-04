@@ -1,1 +1,1 @@
-var mnemonic = "nature subject coil fee report hat letter antenna sunny lemon radio blanket";
+var mnemonic = "seat unfair jealous club beach because book liar barrel smooth shrug aspect";

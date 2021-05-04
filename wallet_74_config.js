@@ -1,1 +1,1 @@
-var mnemonic = "inform planet wet step indoor endorse image inhale inside carpet pave agent";
+var mnemonic = "fresh fish total naive foil lucky tomorrow task stage execute save mention";

@@ -1,1 +1,1 @@
-var mnemonic = "ship predict file elder purity usual pluck jacket farm drastic surround purchase";
+var mnemonic = "during inject number twin junk cinnamon wheat chase frozen ordinary slab divide";

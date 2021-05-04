@@ -1,1 +1,1 @@
-var mnemonic = "hood trial involve divorce maze various pattern tag dwarf wood deliver boy";
+var mnemonic = "ancient corn unit social acoustic skull busy check attack purpose creek bridge";

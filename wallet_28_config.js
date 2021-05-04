@@ -1,1 +1,1 @@
-var mnemonic = "wheat skull very math purchase file strategy yellow seat dash mad choose";
+var mnemonic = "traffic crack gauge drama demand garbage ask anger very umbrella unknown kit";

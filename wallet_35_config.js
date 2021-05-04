@@ -1,1 +1,1 @@
-var mnemonic = "yellow trouble decorate earth stock slice expose cake elbow erupt nose spin";
+var mnemonic = "record loud hidden spend private impose stand join label razor cage recycle";

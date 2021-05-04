@@ -1,1 +1,1 @@
-var mnemonic = "scatter obscure faint slice smoke axis end banana avocado behind remember gasp";
+var mnemonic = "balcony general east blade honey palm cruise define parade language fire arctic";

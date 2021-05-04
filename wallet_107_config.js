@@ -1,1 +1,1 @@
-var mnemonic = "spring age record able picture calm upset noise combine language boost culture";
+var mnemonic = "someone media gallery fetch blame umbrella gasp eight inform again museum guess";

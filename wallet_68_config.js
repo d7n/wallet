@@ -1,1 +1,1 @@
-var mnemonic = "regular alarm price still muffin worth state brisk fever beef labor clinic";
+var mnemonic = "ostrich entry fan snow siren expose monkey category among answer chalk feed";

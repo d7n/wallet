@@ -1,1 +1,1 @@
-var mnemonic = "immune laugh auction exotic coast ten crawl broom practice owner pistol rely";
+var mnemonic = "expose fever marine physical brother liquid spoil tourist belt pumpkin body shy";
