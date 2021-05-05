@@ -1,1 +1,1 @@
-var mnemonic = "two pumpkin seed nature volcano speed media call lava hazard address gasp";
+var mnemonic = "please roof capital clerk brief oyster old girl now congress blouse wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "cart sponsor risk luxury wife melody prison arrange clinic breeze about harvest";
+var mnemonic = "tone ocean option ice flip pistol notice deal spring hammer emotion napkin";

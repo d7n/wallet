@@ -1,1 +1,1 @@
-var mnemonic = "chaos bargain thumb injury orchard enjoy broccoli phrase december day hero pipe";
+var mnemonic = "assist crumble script nurse cradle explain subject female result aspect evidence inform";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy cigar scrap thrive appear lizard approve dignity maze erase aspect exist";
+var mnemonic = "dolphin enroll party gossip increase butter know cloth appear typical behave away";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge carpet bleak like firm glance salmon fitness run allow another artwork";
+var mnemonic = "limit truth genre truth model witness piece pride famous deposit bird manual";

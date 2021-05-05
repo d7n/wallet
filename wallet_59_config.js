@@ -1,1 +1,1 @@
-var mnemonic = "enough sort april carry sight future embark basket theory hand copy bomb";
+var mnemonic = "entry company left acquire pull zone mimic degree diary attitude initial wisdom";

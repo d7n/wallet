@@ -1,1 +1,1 @@
-var mnemonic = "mixture mail follow access cake deposit decorate sketch snake faculty knock void";
+var mnemonic = "carpet hurry charge phone obey smooth addict often gasp fossil tennis planet";

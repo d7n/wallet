@@ -1,1 +1,1 @@
-var mnemonic = "banana virus worth hold donate maple diesel maple fruit spirit safe project";
+var mnemonic = "toddler garbage kingdom gesture elder bless egg million word section air excess";

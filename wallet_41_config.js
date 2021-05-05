@@ -1,1 +1,1 @@
-var mnemonic = "guide december unlock decrease venue baby teach machine strategy luggage stable mixed";
+var mnemonic = "trumpet curtain sign salute door wrestle pottery young pave gap hold figure";

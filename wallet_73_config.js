@@ -1,1 +1,1 @@
-var mnemonic = "manual obtain acquire pitch liar tragic virtual artwork right dumb share satisfy";
+var mnemonic = "reject label kangaroo latin visit rebuild insane hat bulk boss advance priority";

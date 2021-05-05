@@ -1,1 +1,1 @@
-var mnemonic = "inject invest that seat seven crime replace robot slim tent choice fantasy";
+var mnemonic = "shiver sponsor call pony seat say salon tilt gallery crime female liar";

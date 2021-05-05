@@ -1,1 +1,1 @@
-var mnemonic = "ankle purse great spell pass rotate canyon east virtual empty trim column";
+var mnemonic = "hill sock profit giggle response world patch quarter pizza gate apology screen";

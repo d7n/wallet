@@ -1,1 +1,1 @@
-var mnemonic = "carbon world gauge denial mechanic rhythm draw truly tired fluid fatigue demand";
+var mnemonic = "sugar ship approve essence spin issue reject exchange carpet bulb alcohol frown";

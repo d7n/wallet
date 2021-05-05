@@ -1,1 +1,1 @@
-var mnemonic = "fat stove organ piano author option refuse melt other glow camera around";
+var mnemonic = "detect beef thunder spend fine vintage key scrap episode certain someone section";

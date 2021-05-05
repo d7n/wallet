@@ -1,1 +1,1 @@
-var mnemonic = "direct urban athlete loud delay toss giant raccoon because kidney ignore renew";
+var mnemonic = "capable trouble erosion blast inquiry short once shy real fee crash apple";

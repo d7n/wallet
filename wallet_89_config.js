@@ -1,1 +1,1 @@
-var mnemonic = "salad bundle devote sound item flush concert regret buyer ethics device swift";
+var mnemonic = "umbrella tenant gesture copy vast crystal patient cycle weird choice seek weekend";

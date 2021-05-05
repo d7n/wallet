@@ -1,1 +1,1 @@
-var mnemonic = "okay crop bottom debris furnace end squeeze game embody tissue quiz rack";
+var mnemonic = "truly slight mystery lawn broken inherit tree afford suggest pretty pilot potato";

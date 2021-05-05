@@ -1,1 +1,1 @@
-var mnemonic = "protect ladder ridge chicken cause receive couch engine kiwi must lucky ostrich";
+var mnemonic = "dwarf noise circle blue moral record safe drill soldier taxi insect regret";

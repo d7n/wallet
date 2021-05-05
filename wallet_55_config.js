@@ -1,1 +1,1 @@
-var mnemonic = "genre obvious sea battle song winter proof slogan among second aisle once";
+var mnemonic = "during depart entire doctor manual ill bronze erosion govern metal crew traffic";

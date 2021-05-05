@@ -1,1 +1,1 @@
-var mnemonic = "apple gallery crater kidney split type air yellow inject spin identify title";
+var mnemonic = "stove morning mechanic badge oxygen dry all unknown trend miracle utility diesel";

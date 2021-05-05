@@ -1,1 +1,1 @@
-var mnemonic = "grain muffin prefer valve govern quarter practice february dismiss aspect spot argue";
+var mnemonic = "diesel fantasy local acid sick twice pill call afraid turn absurd leaf";

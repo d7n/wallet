@@ -1,1 +1,1 @@
-var mnemonic = "enough funny deposit emerge april foster baby snake cover own suffer choose";
+var mnemonic = "divide math mosquito surface shell hard remind stick sail marriage payment barrel";

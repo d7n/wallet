@@ -1,1 +1,1 @@
-var mnemonic = "glass actress deposit crisp wheat rule cereal anchor know prevent finish slab";
+var mnemonic = "stable visit miss bundle alone there comic wild nurse promote cricket owner";

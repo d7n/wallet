@@ -1,1 +1,1 @@
-var mnemonic = "drink tongue foil leopard include leisure sleep satoshi chat glare inject absorb";
+var mnemonic = "manage gravity universe country brown cube tattoo ridge action globe hen space";

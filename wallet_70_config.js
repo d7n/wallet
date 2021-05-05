@@ -1,1 +1,1 @@
-var mnemonic = "siren profit gallery flight atom cook marble net monster reject scorpion magnet";
+var mnemonic = "trap install rocket finish jump clutch easily divide skull reopen obscure matrix";

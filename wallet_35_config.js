@@ -1,1 +1,1 @@
-var mnemonic = "furnace tumble retreat december middle good attack tissue trend hold ride claim";
+var mnemonic = "october gadget couple head helmet logic drink smile sell stamp extra absorb";

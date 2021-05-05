@@ -1,1 +1,1 @@
-var mnemonic = "start profit coconut wonder pilot option alien zoo rate immense account keep";
+var mnemonic = "search kitchen shock attend blush slender picture gauge tube exclude image tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "stereo outside cargo obscure capable glove join spice universe worth piano talent";
+var mnemonic = "chronic stable novel solid crush double bus grit document banana toss scene";

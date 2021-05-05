@@ -1,1 +1,1 @@
-var mnemonic = "stem proud possible exhibit sense media place bread exact behind grace fuel";
+var mnemonic = "mouse spatial celery learn army twist copy fish perfect any couple spy";

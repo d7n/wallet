@@ -1,1 +1,1 @@
-var mnemonic = "else access police transfer require grace method nephew gadget fury maid regret";
+var mnemonic = "pond nose zone mean focus brisk endless object spot claw boat clay";

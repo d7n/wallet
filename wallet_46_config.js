@@ -1,1 +1,1 @@
-var mnemonic = "check trophy scrub usage trial nut rigid panda crew behind orchard situate";
+var mnemonic = "much candy struggle still swift gain file post panda lock general vanish";

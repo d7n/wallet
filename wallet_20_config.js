@@ -1,1 +1,1 @@
-var mnemonic = "narrow situate quote icon label motion dinner fiscal behind loop crater motion";
+var mnemonic = "conduct discover beach whip window crush shoot boost fence cat auto that";

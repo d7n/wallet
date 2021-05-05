@@ -1,1 +1,1 @@
-var mnemonic = "sort wrist provide grid cage smart alien siren solve ask current detail";
+var mnemonic = "various once carbon window veteran bacon paddle matter brother nation garment burden";

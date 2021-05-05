@@ -1,1 +1,1 @@
-var mnemonic = "drip apart exotic excuse easy stock ignore crouch puppy letter random drink";
+var mnemonic = "grow grab eight legend name hero catch pen group sand ignore receive";

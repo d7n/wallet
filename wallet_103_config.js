@@ -1,1 +1,1 @@
-var mnemonic = "void spell fine bicycle burden tuna approve lens section want replace slogan";
+var mnemonic = "humor merit rule camp chaos throw market school spawn bench tissue multiply";

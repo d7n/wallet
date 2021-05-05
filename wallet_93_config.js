@@ -1,1 +1,1 @@
-var mnemonic = "clock wheat object omit melt nephew found win actress resist reveal parent";
+var mnemonic = "style toy flush better cinnamon trumpet casino fix fantasy execute execute bulb";

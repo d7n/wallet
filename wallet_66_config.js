@@ -1,1 +1,1 @@
-var mnemonic = "circle kidney badge advice exist fury solid boss jewel arrange regret report";
+var mnemonic = "evoke genuine attack bright warfare flight butter scan bar uphold spend spell";

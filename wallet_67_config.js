@@ -1,1 +1,1 @@
-var mnemonic = "pretty laugh antique cover general outdoor sick educate learn silent wreck crucial";
+var mnemonic = "series purse square rely frame denial tenant effort guide twist consider virus";

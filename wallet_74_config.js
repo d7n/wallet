@@ -1,1 +1,1 @@
-var mnemonic = "soul run clump point aunt thing note staff pet knife input guess";
+var mnemonic = "online boring beauty visa echo flip sail matrix naive orphan oak kitten";

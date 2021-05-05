@@ -1,1 +1,1 @@
-var mnemonic = "bottom coyote energy fiction matrix erase patrol move elephant poet jacket party";
+var mnemonic = "account forum vast sphere magnet nephew bring mechanic obey cannon wear violin";

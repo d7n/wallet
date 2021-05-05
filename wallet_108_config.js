@@ -1,1 +1,1 @@
-var mnemonic = "arrive worry office youth news cave good bless like host alien pelican";
+var mnemonic = "grain man course slender first eager indicate code source column ship enroll";

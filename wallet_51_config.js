@@ -1,1 +1,1 @@
-var mnemonic = "endless three allow tail royal palm smart pelican witness attract valid flash";
+var mnemonic = "plastic demand input notable cover silk sun wood music eight chase thunder";

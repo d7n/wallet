@@ -1,1 +1,1 @@
-var mnemonic = "cat climb swamp planet involve enemy popular chair birth cake away buddy";
+var mnemonic = "place slim siege casual annual lock loyal among language era club trumpet";

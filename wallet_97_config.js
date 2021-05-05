@@ -1,1 +1,1 @@
-var mnemonic = "youth obvious spike father prefer indicate pull violin slab pact category scene";
+var mnemonic = "jealous blanket calm female believe army govern poem garbage price dog script";

@@ -1,1 +1,1 @@
-var mnemonic = "resource village system absent north output square empty property manual milk crisp";
+var mnemonic = "sign they shove quick toddler jungle glance afraid ordinary thunder okay casino";

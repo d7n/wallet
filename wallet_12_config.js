@@ -1,1 +1,1 @@
-var mnemonic = "found onion evil confirm senior critic inflict toward fun lucky matrix drama";
+var mnemonic = "stock muscle steel seminar work bamboo then valid tide album battle ramp";

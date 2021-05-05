@@ -1,1 +1,1 @@
-var mnemonic = "scale minute lesson blanket great tube column galaxy smoke reduce pumpkin brush";
+var mnemonic = "witness hazard need code company naive nasty lava sphere assume toward urban";

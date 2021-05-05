@@ -1,1 +1,1 @@
-var mnemonic = "early senior park tank zone bitter have awesome october edit joke syrup";
+var mnemonic = "stage lady reunion before hidden culture world moon foster pond primary lunch";

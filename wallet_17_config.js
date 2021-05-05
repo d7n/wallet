@@ -1,1 +1,1 @@
-var mnemonic = "sausage airport general describe artist build chimney glow isolate midnight rain bachelor";
+var mnemonic = "nice belt rural around mouse spatial cherry vapor kiwi marriage tomato dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "mom gown whale proud gossip smart grain slot valley alley speed direct";
+var mnemonic = "picture dash yellow turn strong slot tool bunker know furnace test lucky";

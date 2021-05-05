@@ -1,1 +1,1 @@
-var mnemonic = "oxygen car hole basic burst worth govern yellow found reason elevator sphere";
+var mnemonic = "crop seed seminar barrel wear valve myself result alert inform strike emotion";

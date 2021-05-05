@@ -1,1 +1,1 @@
-var mnemonic = "whale ensure grief submit shiver legal defy rice baby save cable beef";
+var mnemonic = "snow devote veteran cover smooth cost naive skirt gate asthma hamster impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow version cup catalog smart leg link west dose father during industry";
+var mnemonic = "large road roof ripple happy mesh tower step girl gallery during soul";

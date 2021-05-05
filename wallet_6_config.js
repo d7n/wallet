@@ -1,1 +1,1 @@
-var mnemonic = "awkward hour wrap machine bomb motion under lyrics derive gas million powder";
+var mnemonic = "also coral offer upon enter ethics recycle anger elder cram fault inside";

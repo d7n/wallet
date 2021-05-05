@@ -1,1 +1,1 @@
-var mnemonic = "chuckle exile wait ripple item industry error north other combine false hero";
+var mnemonic = "able shallow off lock hold giggle fence script blind slender mind chair";

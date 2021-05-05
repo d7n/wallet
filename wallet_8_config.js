@@ -1,1 +1,1 @@
-var mnemonic = "quick genre omit right enemy size kitten just tornado reduce harsh unhappy";
+var mnemonic = "congress surround dad tackle demise approve fault slush gasp fashion grow will";

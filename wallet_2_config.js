@@ -1,1 +1,1 @@
-var mnemonic = "west tongue federal radio over flip oil survey turtle fetch evidence blood";
+var mnemonic = "plate erase table soul wire roast valley luxury legend antenna hat pledge";

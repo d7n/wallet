@@ -1,1 +1,1 @@
-var mnemonic = "token nut pact venue profit company noise approve transfer tent cycle obey";
+var mnemonic = "wood ritual aware grace grid whip relief advice cram visit can ill";

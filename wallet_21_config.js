@@ -1,1 +1,1 @@
-var mnemonic = "salmon smoke exhaust rescue cargo lazy crime adjust explain indoor leisure predict";
+var mnemonic = "square debate another cool pool uncle citizen oven pass bronze damp receive";

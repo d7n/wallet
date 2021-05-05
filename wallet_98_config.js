@@ -1,1 +1,1 @@
-var mnemonic = "private key finger furnace online humor cave cereal educate advance current security";
+var mnemonic = "image immense evoke arrive comfort margin check skin govern name click smoke";

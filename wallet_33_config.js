@@ -1,1 +1,1 @@
-var mnemonic = "rack tenant aisle promote amazing stool brand crime step volume hope embody";
+var mnemonic = "fringe share pattern humble head hobby menu urban purse great advice client";

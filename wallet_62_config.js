@@ -1,1 +1,1 @@
-var mnemonic = "welcome steel board write profit rule chase indoor helmet again depth exhibit";
+var mnemonic = "forest throw mutual giggle ghost grass glare you slide belt robot place";

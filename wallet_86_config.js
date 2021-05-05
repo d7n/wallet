@@ -1,1 +1,1 @@
-var mnemonic = "dilemma glad clever mammal universe floor save indoor black side adult burger";
+var mnemonic = "shiver visa artefact better mask dentist cross describe display people moon damp";

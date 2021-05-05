@@ -1,1 +1,1 @@
-var mnemonic = "ecology gorilla search valid chat favorite west practice bottom demand insane ensure";
+var mnemonic = "crawl fall ethics swim correct square manage joke buyer margin reveal fault";

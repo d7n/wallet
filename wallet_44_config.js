@@ -1,1 +1,1 @@
-var mnemonic = "click swamp legend drastic mind abstract live find chapter meat tackle include";
+var mnemonic = "wood leopard rural convince vessel whisper assault device pilot law candy disagree";

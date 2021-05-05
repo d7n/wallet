@@ -1,1 +1,1 @@
-var mnemonic = "quantum all betray clip crack dish foam never conduct odor give rhythm";
+var mnemonic = "evolve crane warrior drift coil firm butter divide cabin deposit book guard";

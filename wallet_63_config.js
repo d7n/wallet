@@ -1,1 +1,1 @@
-var mnemonic = "alone choose behind seed extend evil spread improve glad crunch employ burst";
+var mnemonic = "crowd jelly embody allow argue dust easy father egg worth salad north";

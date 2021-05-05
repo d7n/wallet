@@ -1,1 +1,1 @@
-var mnemonic = "say pupil shoe skirt key decrease key unfold alone sketch awful knife";
+var mnemonic = "empty replace adjust exhibit citizen vital tag glimpse dad proud zone wink";

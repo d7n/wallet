@@ -1,1 +1,1 @@
-var mnemonic = "blur puppy slight critic inhale survey peanut enemy fan melody weekend fork";
+var mnemonic = "buzz project exhaust remain general woman beauty evoke install velvet smooth olive";

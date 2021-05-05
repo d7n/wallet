@@ -1,1 +1,1 @@
-var mnemonic = "because resemble dirt trick relax actor track shadow prepare elephant play license";
+var mnemonic = "badge rebel gown rice case hybrid two tomato tired estate dog crop";

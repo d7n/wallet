@@ -1,1 +1,1 @@
-var mnemonic = "mesh couch luxury cluster source churn valve silk solve awesome split simple";
+var mnemonic = "come genuine vacuum give lake pepper valid mercy sudden verify lens cluster";

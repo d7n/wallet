@@ -1,1 +1,1 @@
-var mnemonic = "sphere shy december almost neglect sea intact peasant harbor anxiety intact clean";
+var mnemonic = "pioneer steak expire sponsor spend path owner clown rabbit swear burst marine";

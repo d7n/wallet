@@ -1,1 +1,1 @@
-var mnemonic = "alert beef dignity arch faint juice pledge cargo belt genre nut fatal";
+var mnemonic = "method oxygen canvas carbon abandon museum kind sight sadness park assume lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "ancient toss dog high crazy enrich strong rhythm lake blouse client artwork";
+var mnemonic = "odor skate envelope fiscal quote marine couch baby unfold bridge tilt enact";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon another feel useless provide guard hire place breeze elder flame sample";
+var mnemonic = "ceiling phrase pony school half oil mansion frame leaf bamboo join cupboard";

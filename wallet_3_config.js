@@ -1,1 +1,1 @@
-var mnemonic = "winner fruit pupil panther latin cube wheat blast jar peanut isolate debate";
+var mnemonic = "nice antique giraffe auto analyst fancy asthma symptom shine memory race betray";

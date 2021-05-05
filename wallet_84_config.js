@@ -1,1 +1,1 @@
-var mnemonic = "luxury evidence million brisk wash rocket gaze rhythm social trophy swarm firm";
+var mnemonic = "drill unaware advance crop general fox symptom excite attitude genuine custom woman";

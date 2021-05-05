@@ -1,1 +1,1 @@
-var mnemonic = "mixture cherry protect toilet dolphin beyond bus brisk mention top olive ethics";
+var mnemonic = "ordinary garbage image best deer blame marine leopard mistake friend capable future";

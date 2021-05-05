@@ -1,1 +1,1 @@
-var mnemonic = "peasant plastic shield robust despair gasp bench pudding drift favorite trend muscle";
+var mnemonic = "crop trouble combine cloud swear plunge february canal enjoy magic obtain festival";

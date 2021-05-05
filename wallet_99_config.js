@@ -1,1 +1,1 @@
-var mnemonic = "welcome ready steel upper rug spend age injury sick plug discover phrase";
+var mnemonic = "exotic rebuild wreck victory garage census jump bike slow flavor cement need";

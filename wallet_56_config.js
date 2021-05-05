@@ -1,1 +1,1 @@
-var mnemonic = "world tip zone buffalo rent caution idle involve embrace spoil novel firm";
+var mnemonic = "sheriff gospel brief tower post prefer beyond boil penalty level discover current";

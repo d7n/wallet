@@ -1,1 +1,1 @@
-var mnemonic = "source over hungry bicycle family super public tumble boy light vehicle scatter";
+var mnemonic = "joke shallow autumn lake chaos tuition check choose fresh eternal exercise mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "spread average stomach blood cry buyer intact assault abuse machine skill supply";
+var mnemonic = "patrol thank shadow example fragile caught help feature boil tide process nothing";
