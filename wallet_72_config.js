@@ -1,1 +1,1 @@
-var mnemonic = "repeat neck term cement mammal addict stadium small alcohol scissors crowd decline";
+var mnemonic = "flight pave alone taxi sense defense resist defense pluck search abuse recipe";

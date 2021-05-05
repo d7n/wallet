@@ -1,1 +1,1 @@
-var mnemonic = "infant obvious salad raw dirt dolphin swear wild glance upset jar network";
+var mnemonic = "bid caution solve lab renew mimic lift together wisdom unknown allow original";

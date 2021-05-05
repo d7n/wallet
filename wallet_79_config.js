@@ -1,1 +1,1 @@
-var mnemonic = "illegal blue banner toast child human nature very output faint critic robot";
+var mnemonic = "cover involve circle key border planet industry side toddler latin cross sail";

@@ -1,1 +1,1 @@
-var mnemonic = "flash sell copy liar mushroom symptom other tobacco manual intact fun liberty";
+var mnemonic = "oven wrist cable swallow pizza ginger borrow penalty rug gesture west seminar";

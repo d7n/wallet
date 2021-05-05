@@ -1,1 +1,1 @@
-var mnemonic = "bench small shift consider merry drift bicycle wisdom festival main into slender";
+var mnemonic = "whip coast post panel prefer vast edit zero pool cousin visual unique";

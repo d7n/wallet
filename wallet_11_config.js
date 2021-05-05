@@ -1,1 +1,1 @@
-var mnemonic = "cake domain club also ticket end street great youth ginger pair popular";
+var mnemonic = "clever puzzle away illness priority treat brass novel nice fine refuse shove";

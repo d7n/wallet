@@ -1,1 +1,1 @@
-var mnemonic = "permit rude novel gadget degree nurse friend taste one olive bean during";
+var mnemonic = "design daring success excite wide filter approve enhance nice chimney minimum rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "basic ketchup clean anxiety castle intact hurry priority input ship hour census";
+var mnemonic = "cool local trash program design rural glow glass awkward this morning inherit";

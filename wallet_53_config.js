@@ -1,1 +1,1 @@
-var mnemonic = "derive ostrich skull olive quality split course oval spell fever identify enjoy";
+var mnemonic = "bus once frozen three tennis eyebrow dad police attack okay gift artefact";

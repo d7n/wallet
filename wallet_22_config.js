@@ -1,1 +1,1 @@
-var mnemonic = "smile clean guess clutch assume yellow long avocado dragon defense science ranch";
+var mnemonic = "cruel teach actual kitten arrow tape sense admit where sentence menu leaf";

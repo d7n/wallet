@@ -1,1 +1,1 @@
-var mnemonic = "list dust shy candy essence inch humble brand oven furnace gentle monitor";
+var mnemonic = "unknown clerk fiber knock cabin merge arrange immense dawn raw firm office";

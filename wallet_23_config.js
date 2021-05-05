@@ -1,1 +1,1 @@
-var mnemonic = "primary radar chat peace canyon demise wagon visit vintage when portion eagle";
+var mnemonic = "swing blouse outside miss crazy you pen talk exile legal job library";

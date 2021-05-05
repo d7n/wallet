@@ -1,1 +1,1 @@
-var mnemonic = "good card scan order bamboo cool double traffic mixture gown pair angry";
+var mnemonic = "help gauge sorry brother away tray pistol large eye sunny human coyote";

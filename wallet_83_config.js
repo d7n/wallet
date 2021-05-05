@@ -1,1 +1,1 @@
-var mnemonic = "service town fame furnace pride dilemma nice avoid pledge remind upgrade say";
+var mnemonic = "feature trigger before purchase anger actor panel coffee limit office dress blanket";

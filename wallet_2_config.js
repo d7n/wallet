@@ -1,1 +1,1 @@
-var mnemonic = "lucky thought night assist enter sustain more swear gift erupt verify agent";
+var mnemonic = "panel off hammer mad nasty session pitch thrive oblige either you then";

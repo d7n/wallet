@@ -1,1 +1,1 @@
-var mnemonic = "suggest heart genuine sleep post spirit web creek small page hotel before";
+var mnemonic = "shove crush ivory shy nasty entry economy story popular cactus admit mean";

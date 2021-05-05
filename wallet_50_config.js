@@ -1,1 +1,1 @@
-var mnemonic = "assault surprise jealous dice success toe mix purity sustain report swing nose";
+var mnemonic = "chef essence junior pistol exchange safe wise age december boat chimney actual";

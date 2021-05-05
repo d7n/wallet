@@ -1,1 +1,1 @@
-var mnemonic = "rebel denial ice farm confirm season neck buyer expose pass require horse";
+var mnemonic = "average divert vote wrap vendor nerve mean pear pigeon member lake soap";

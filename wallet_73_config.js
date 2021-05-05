@@ -1,1 +1,1 @@
-var mnemonic = "suit transfer loan bleak merry animal cave unique spy bronze taste cave";
+var mnemonic = "velvet tide fortune air area fragile mosquito shield sight betray transfer fiscal";

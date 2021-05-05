@@ -1,1 +1,1 @@
-var mnemonic = "melody list ripple slab wheel random lottery myself tired promote genre garbage";
+var mnemonic = "wave bunker brain hero normal fringe hover pistol follow keep shoot feel";

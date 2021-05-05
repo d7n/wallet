@@ -1,1 +1,1 @@
-var mnemonic = "meat brain cat total industry maid used purity future busy ribbon cereal";
+var mnemonic = "dynamic kiss inspire patrol point right metal excess now club crater patrol";

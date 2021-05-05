@@ -1,1 +1,1 @@
-var mnemonic = "action hamster twelve fashion bring wedding grid prepare yellow rather talent first";
+var mnemonic = "fruit inside essay exotic link skill moral warfare session federal nose skirt";

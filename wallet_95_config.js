@@ -1,1 +1,1 @@
-var mnemonic = "grit matter endorse stadium heavy artwork alert elite degree planet opinion denial";
+var mnemonic = "west pizza artefact sing bind shine pigeon blue adapt ginger either entry";

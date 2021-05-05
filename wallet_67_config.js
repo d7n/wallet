@@ -1,1 +1,1 @@
-var mnemonic = "practice already mountain hip hen silly marble rally polar maximum ask slim";
+var mnemonic = "such moon draft toddler erosion lizard upon length tuition bubble apart ticket";

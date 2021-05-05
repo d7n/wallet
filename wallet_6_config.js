@@ -1,1 +1,1 @@
-var mnemonic = "one swallow work cost split gas often suspect afraid quick rescue hub";
+var mnemonic = "bleak post absent daughter smooth flock allow always devote venture rug near";

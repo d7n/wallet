@@ -1,1 +1,1 @@
-var mnemonic = "scout rely ship era say royal senior exotic lunch same scale lock";
+var mnemonic = "setup salt human reward odor across custom doll denial hand brass enact";

@@ -1,1 +1,1 @@
-var mnemonic = "grief basket frost rather educate six flee fork monitor absent awesome move";
+var mnemonic = "stamp ahead again erupt globe resist hour strike three kite oak ask";

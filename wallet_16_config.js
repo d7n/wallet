@@ -1,1 +1,1 @@
-var mnemonic = "loyal wheel unusual clay regular cheese disease unlock spell drip provide napkin";
+var mnemonic = "garbage blame boil depart glide cabbage prize pyramid ridge health slide skate";

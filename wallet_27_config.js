@@ -1,1 +1,1 @@
-var mnemonic = "suspect tilt give urge pet lesson twice park north regular web endless";
+var mnemonic = "bike divide client position wise metal profit meat knock wedding village neither";

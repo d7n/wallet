@@ -1,1 +1,1 @@
-var mnemonic = "flower ahead vendor rich banana minimum device birth curve element occur behave";
+var mnemonic = "slot upset diesel piece tiny hard vast fire joke tomorrow deny pipe";

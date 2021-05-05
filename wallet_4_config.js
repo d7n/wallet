@@ -1,1 +1,1 @@
-var mnemonic = "beach come rule ritual kit cloth tiger genuine current teach quantum skill";
+var mnemonic = "foot civil broom suggest guard noble despair chuckle curve suggest click elephant";

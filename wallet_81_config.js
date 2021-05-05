@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin image coffee trust army boy sibling suspect chair woman mutual prosper";
+var mnemonic = "wool vote success pass utility oven donor lawn current law bamboo trip";

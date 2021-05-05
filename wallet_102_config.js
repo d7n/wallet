@@ -1,1 +1,1 @@
-var mnemonic = "today sauce recipe evolve gate provide analyst electric guard aunt boil holiday";
+var mnemonic = "swing salon child runway flavor pudding orphan convince chair grape between pact";

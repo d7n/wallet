@@ -1,1 +1,1 @@
-var mnemonic = "under nose ahead connect vital agent sight cigar pupil kangaroo sketch oil";
+var mnemonic = "pattern trap chest alcohol company broken spare behave vanish flight bottom toast";

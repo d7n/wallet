@@ -1,1 +1,1 @@
-var mnemonic = "popular guard ahead story jungle keep issue catch exact orchard omit boat";
+var mnemonic = "educate heart apple detail thing yard neck foam voyage ridge delay exhaust";

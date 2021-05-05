@@ -1,1 +1,1 @@
-var mnemonic = "sponsor wine pave kingdom sniff damage seek chalk object mix timber mad";
+var mnemonic = "notable slush rate inspire oblige net feel resource census invite solve galaxy";

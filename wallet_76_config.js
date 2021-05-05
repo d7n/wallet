@@ -1,1 +1,1 @@
-var mnemonic = "faculty eagle rigid report cruel ski theme ketchup pledge truck flip damage";
+var mnemonic = "tray blush volume corn twice trumpet gym erase private omit scheme gun";

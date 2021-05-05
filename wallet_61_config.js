@@ -1,1 +1,1 @@
-var mnemonic = "library token champion join vast about sea sand garlic jewel remind fitness";
+var mnemonic = "wolf wreck purchase group exist unknown tuna group banner ten smart apple";

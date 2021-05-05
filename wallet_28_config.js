@@ -1,1 +1,1 @@
-var mnemonic = "oil ghost daring member blouse comic piano collect hen credit report square";
+var mnemonic = "behind holiday fury violin shoot club fat lounge width impose buddy all";

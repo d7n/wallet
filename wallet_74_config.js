@@ -1,1 +1,1 @@
-var mnemonic = "chaos human nerve clerk table argue olympic define orphan park thrive artist";
+var mnemonic = "ice remember casual gauge coyote carbon laundry later kingdom pause fabric trick";

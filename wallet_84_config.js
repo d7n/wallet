@@ -1,1 +1,1 @@
-var mnemonic = "cram lumber work cup jacket jar change demand empower walk spell envelope";
+var mnemonic = "drum december ticket often talent swear wrap often canvas stuff spy distance";

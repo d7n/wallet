@@ -1,1 +1,1 @@
-var mnemonic = "buzz demand creek baby roof food rookie around town patient box phone";
+var mnemonic = "loud dinosaur zebra shoe group baby under afraid fit river defy settle";

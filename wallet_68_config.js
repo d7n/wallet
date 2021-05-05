@@ -1,1 +1,1 @@
-var mnemonic = "time truck lecture tiger minimum runway clip truck cry basic bullet vapor";
+var mnemonic = "end sample adult person repair oil fat aspect opinion fiber possible brisk";

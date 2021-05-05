@@ -1,1 +1,1 @@
-var mnemonic = "purity empower rule adult asset moon eagle valid until affair evil echo";
+var mnemonic = "used history pioneer priority nature inquiry kid million swim tent soap walnut";

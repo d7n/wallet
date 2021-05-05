@@ -1,1 +1,1 @@
-var mnemonic = "fox panel consider man bubble point main dice velvet venue clever reason";
+var mnemonic = "sudden kiss antenna people slender useless give spider foot pizza magnet satisfy";

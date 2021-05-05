@@ -1,1 +1,1 @@
-var mnemonic = "horn virus fashion soldier that turn angle forget apart receive order gadget";
+var mnemonic = "across exit tobacco void tone hub wedding dish tape permit promote mail";

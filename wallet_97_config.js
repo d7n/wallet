@@ -1,1 +1,1 @@
-var mnemonic = "spoon same orbit surface summer more inform arch find antique solve lock";
+var mnemonic = "express emerge radio camp oak floor admit clean metal else actor medal";

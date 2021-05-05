@@ -1,1 +1,1 @@
-var mnemonic = "enhance echo cruise uphold decade icon usage fortune decrease make mad leaf";
+var mnemonic = "split north explain vehicle evolve undo cover alcohol bullet black foam flower";

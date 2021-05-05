@@ -1,1 +1,1 @@
-var mnemonic = "dash share quick dizzy cream earth bamboo ticket ancient timber sure town";
+var mnemonic = "airport million bulk grace marriage glimpse angle husband flush sorry damage wire";

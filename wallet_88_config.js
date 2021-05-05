@@ -1,1 +1,1 @@
-var mnemonic = "goddess beef creek miracle hole science brain birth educate purchase order dove";
+var mnemonic = "section mail heart slender glory whisper drastic skill virtual quick mass poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "moral strike around craft space outside confirm pudding social faith require trip";
+var mnemonic = "reform client sense elder powder nothing trial shock brass advice obtain trade";

@@ -1,1 +1,1 @@
-var mnemonic = "daring saddle puppy head steak present resemble puppy flame reveal captain core";
+var mnemonic = "appear output merry giggle nothing draw castle bench notable real noise fee";

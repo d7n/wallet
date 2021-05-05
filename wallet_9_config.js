@@ -1,1 +1,1 @@
-var mnemonic = "this magic sea aisle shield address orient differ tackle person mask slogan";
+var mnemonic = "nation fruit indicate grief cabbage hard grow possible prison couple royal custom";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd screen bus aunt switch treat diary couple amazing brand sudden prison";
+var mnemonic = "market bottom north visit behave license sleep garden nominee struggle require army";

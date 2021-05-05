@@ -1,1 +1,1 @@
-var mnemonic = "emotion topple sheriff august denial orphan pencil smoke order stomach gravity upper";
+var mnemonic = "omit shine dial mail sign unique exit grocery any address believe soup";

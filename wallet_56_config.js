@@ -1,1 +1,1 @@
-var mnemonic = "response skill weird agent candy spin potato season rib purpose guard region";
+var mnemonic = "ship include target hybrid special poet job bar vault scatter base demand";

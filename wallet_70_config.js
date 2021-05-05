@@ -1,1 +1,1 @@
-var mnemonic = "great smile venue obvious voyage ancient tennis uniform trend broom suffer foil";
+var mnemonic = "rate index turkey example pattern receive time first misery limb stage assault";

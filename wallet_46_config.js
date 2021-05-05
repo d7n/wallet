@@ -1,1 +1,1 @@
-var mnemonic = "injury weasel repair beauty lake curious text occur make noise endorse innocent";
+var mnemonic = "equal barely sail coconut siren fiber online color banner okay live afford";

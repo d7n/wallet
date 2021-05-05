@@ -1,1 +1,1 @@
-var mnemonic = "tide enhance decorate voyage cause drama neck garbage flash jeans cancel drill";
+var mnemonic = "number scheme peace rough diesel raccoon forum grant quantum vast almost stem";

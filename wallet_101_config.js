@@ -1,1 +1,1 @@
-var mnemonic = "tumble harsh super lyrics oxygen grunt nest merge margin arctic valid able";
+var mnemonic = "strong welcome wave ring suffer motor toss ketchup creek payment swift cycle";

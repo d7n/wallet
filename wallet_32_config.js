@@ -1,1 +1,1 @@
-var mnemonic = "brain welcome blade siren praise cabbage busy great grunt gold crack toddler";
+var mnemonic = "pioneer toddler reveal grant boil arrest lend enemy bulb fabric drink action";

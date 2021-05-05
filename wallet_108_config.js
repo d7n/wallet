@@ -1,1 +1,1 @@
-var mnemonic = "acid blame language stay kidney eagle reopen cover extra because endorse gold";
+var mnemonic = "lizard tuna mind snack bicycle recipe smooth major pluck december rare arrow";

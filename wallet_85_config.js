@@ -1,1 +1,1 @@
-var mnemonic = "gift below define worry frown dismiss alone pen soul museum flush turn";
+var mnemonic = "code copy blouse beyond attitude brand light kick surge spring shell food";

@@ -1,1 +1,1 @@
-var mnemonic = "manual bubble park earn chat need connect radio curious north valid warfare";
+var mnemonic = "talk strategy swing prize owner state core park soul outdoor viable cup";

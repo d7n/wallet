@@ -1,1 +1,1 @@
-var mnemonic = "planet enough below mystery mansion myth brass frozen damage penalty radio clown";
+var mnemonic = "athlete exist image enact more aisle ostrich pigeon assist mail taste minor";

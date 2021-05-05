@@ -1,1 +1,1 @@
-var mnemonic = "name primary protect wet jaguar box senior can dune right struggle derive";
+var mnemonic = "else tunnel garden clay manage old chapter flower space great typical man";

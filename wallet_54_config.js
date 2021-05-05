@@ -1,1 +1,1 @@
-var mnemonic = "impact fiction notice quiz sing case card acquire spread confirm matter wear";
+var mnemonic = "exhaust alcohol mule repair pear age cheap purity wagon shiver mosquito glue";

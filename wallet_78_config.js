@@ -1,1 +1,1 @@
-var mnemonic = "photo identify when best what issue project another iron brother mail apology";
+var mnemonic = "profit silent hole grocery dilemma donate uphold measure marriage admit disease survey";

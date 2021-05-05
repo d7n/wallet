@@ -1,1 +1,1 @@
-var mnemonic = "damage junior tiny brass harvest ball poem brick fly moment inject identify";
+var mnemonic = "romance coyote this sign quick sad faith hospital size ticket people merge";

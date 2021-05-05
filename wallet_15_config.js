@@ -1,1 +1,1 @@
-var mnemonic = "accuse crunch scout alarm reason middle search snack silent soldier child trumpet";
+var mnemonic = "venue harsh brisk bench desk truth banana saddle absent idea tower erosion";

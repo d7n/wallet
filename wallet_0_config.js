@@ -1,1 +1,1 @@
-var mnemonic = "wild sentence bracket boring bless enforce matrix wasp mixture prison uphold funny";
+var mnemonic = "smooth whisper ecology traffic sand orchard ginger obey model unique bullet concert";

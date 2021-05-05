@@ -1,1 +1,1 @@
-var mnemonic = "quit tank frozen move tourist stand violin hybrid inmate firm equip trap";
+var mnemonic = "bottom genuine author excite quantum boost foster guitar mother reason discover lamp";

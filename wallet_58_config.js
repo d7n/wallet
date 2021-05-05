@@ -1,1 +1,1 @@
-var mnemonic = "tag culture connect torch layer favorite remind false brain because side bottom";
+var mnemonic = "fluid degree return chaos vessel push addict stage gun bind slow usual";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase caution hawk more conduct intact often lucky enjoy earth used nature";
+var mnemonic = "clock print nation vote ice apart situate champion tape truly renew stuff";

@@ -1,1 +1,1 @@
-var mnemonic = "climb lion taste cart shrug color rival topple nerve sibling access pottery";
+var mnemonic = "slide tissue athlete couple extra slight anchor captain heavy aisle initial boost";

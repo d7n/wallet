@@ -1,1 +1,1 @@
-var mnemonic = "ocean minute drive good danger dwarf useful option mountain off wasp carry";
+var mnemonic = "smile chimney jewel lens museum capable what neither polar screen arena resource";

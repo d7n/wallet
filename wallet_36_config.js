@@ -1,1 +1,1 @@
-var mnemonic = "twin kite visa magic swing pull transfer wreck aspect milk hope walk";
+var mnemonic = "day science nice outer awesome run trim drink mistake profit million master";

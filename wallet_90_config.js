@@ -1,1 +1,1 @@
-var mnemonic = "behind layer force cloud sibling tree thumb tank never throw arch shy";
+var mnemonic = "include detail chair grunt barrel silk coin corn youth shiver lunch dirt";

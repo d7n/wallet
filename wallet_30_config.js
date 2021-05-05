@@ -1,1 +1,1 @@
-var mnemonic = "cousin kiss bar rebel walk blame reunion ginger rent large leader sadness";
+var mnemonic = "useful special sibling feel nuclear gap palm tone clean abuse salute develop";

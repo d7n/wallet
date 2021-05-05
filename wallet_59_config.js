@@ -1,1 +1,1 @@
-var mnemonic = "legend term manage into rival hood assault zero square convince until bleak";
+var mnemonic = "unaware place ring float unusual mesh blood tree trash badge music cheese";

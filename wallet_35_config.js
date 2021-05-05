@@ -1,1 +1,1 @@
-var mnemonic = "one dynamic ethics north surge shell loyal staff move aerobic large doll";
+var mnemonic = "laptop hundred high sock history aunt game beauty mansion picture thumb motor";

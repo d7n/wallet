@@ -1,1 +1,1 @@
-var mnemonic = "enjoy renew flame crystal ecology sound trust enact matrix alcohol slot object";
+var mnemonic = "all surprise report cotton metal purity skill holiday peasant six device hover";

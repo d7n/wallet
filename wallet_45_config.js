@@ -1,1 +1,1 @@
-var mnemonic = "entire trade balance purpose parent stem shoe address ten attend enemy gloom";
+var mnemonic = "render company seat dignity bridge search olive announce tag normal urban swift";

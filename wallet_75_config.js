@@ -1,1 +1,1 @@
-var mnemonic = "usage surround frozen vehicle obtain cluster matter shine scatter off family angle";
+var mnemonic = "text visual grace glimpse differ diary author powder panda option chest verb";

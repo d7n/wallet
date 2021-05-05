@@ -1,1 +1,1 @@
-var mnemonic = "rescue bulb verify endless nest claim gate lonely hunt engine fiscal tennis";
+var mnemonic = "type define book tree twist lady swamp pelican quantum tenant weekend space";

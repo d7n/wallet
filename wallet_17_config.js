@@ -1,1 +1,1 @@
-var mnemonic = "order found swear service margin small company quick casual upper obscure crunch";
+var mnemonic = "fitness anchor access dilemma champion glue visit inject record display welcome shaft";

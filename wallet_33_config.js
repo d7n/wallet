@@ -1,1 +1,1 @@
-var mnemonic = "ankle garment option game main story doll pledge circle stock knock decrease";
+var mnemonic = "green buffalo toward blade update mention uniform brick whisper empower vanish want";
