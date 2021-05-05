@@ -1,1 +1,1 @@
-var mnemonic = "novel liar sentence tornado have twenty exchange woman rent repair boil boil";
+var mnemonic = "poet oppose same cluster awake swear say cat tired cotton tired online";

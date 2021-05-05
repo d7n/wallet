@@ -1,1 +1,1 @@
-var mnemonic = "lobster rebuild jacket brief account vacuum give beyond hint figure power dress";
+var mnemonic = "dice truck nest toast food island elephant width merry dish castle ugly";

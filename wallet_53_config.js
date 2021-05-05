@@ -1,1 +1,1 @@
-var mnemonic = "gentle drink laundry escape special brass keen abuse snake crowd defy outer";
+var mnemonic = "diet puppy track market cousin chunk neglect dragon frost mosquito auction leader";

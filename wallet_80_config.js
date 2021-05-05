@@ -1,1 +1,1 @@
-var mnemonic = "drum bone brain original grab now never hunt lemon survey coil card";
+var mnemonic = "option language captain cattle north harvest parade couple idea slogan address plastic";

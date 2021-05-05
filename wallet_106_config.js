@@ -1,1 +1,1 @@
-var mnemonic = "monitor appear setup orient cage burger chronic hollow skin boy home frozen";
+var mnemonic = "glow rhythm use genuine scrub poem mesh attitude brick shell issue cotton";

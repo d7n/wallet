@@ -1,1 +1,1 @@
-var mnemonic = "multiply slide toast until exclude major wolf mirror course solid order canal";
+var mnemonic = "cancel glow dilemma hidden wrist weather assume defy cloud brass spell cart";

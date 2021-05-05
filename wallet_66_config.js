@@ -1,1 +1,1 @@
-var mnemonic = "trick volume antenna swear peace tired swing hold key timber spare caught";
+var mnemonic = "quick fluid desert shed correct region situate cancel human swamp fit hip";

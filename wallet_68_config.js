@@ -1,1 +1,1 @@
-var mnemonic = "trash estate pass rebuild cream cigar certain cause glide uncover hurdle spray";
+var mnemonic = "hurry hip credit kick metal chef usage water vanish cash saddle hawk";

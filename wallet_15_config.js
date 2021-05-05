@@ -1,1 +1,1 @@
-var mnemonic = "grab reopen barrel pizza retreat onion neglect never asset round print rebel";
+var mnemonic = "end sustain inhale bullet cliff eager monkey museum radio square timber will";

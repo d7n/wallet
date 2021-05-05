@@ -1,1 +1,1 @@
-var mnemonic = "draw explain stem decline annual original gap merit fossil high moral tone";
+var mnemonic = "mix wolf vendor dinner sign rate song village repeat click unhappy dynamic";

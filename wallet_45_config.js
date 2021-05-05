@@ -1,1 +1,1 @@
-var mnemonic = "ski deposit exhaust victory opera property silent left three dolphin guard gravity";
+var mnemonic = "clip athlete negative cabbage pilot robust equal hard rookie pulse deny gas";

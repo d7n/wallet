@@ -1,1 +1,1 @@
-var mnemonic = "accident violin quantum judge abstract mixture escape trophy stomach dose twin clown";
+var mnemonic = "morning shuffle busy dove refuse print that cannon van limb item property";

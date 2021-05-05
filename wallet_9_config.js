@@ -1,1 +1,1 @@
-var mnemonic = "woman warm case away project arctic scale other chimney topic spoil age";
+var mnemonic = "cargo swing exclude eye glare gas jewel crunch dumb camera matter couple";

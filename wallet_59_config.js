@@ -1,1 +1,1 @@
-var mnemonic = "tail kid winner wash cake student betray cabbage account dance diet museum";
+var mnemonic = "shaft fortune betray tilt base sudden village bar certain anger fantasy tongue";

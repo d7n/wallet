@@ -1,1 +1,1 @@
-var mnemonic = "keen addict demand hammer slogan control program disagree syrup rabbit float twenty";
+var mnemonic = "cheese coconut now wisdom clever city nerve armor debris gather rebel settle";

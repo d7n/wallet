@@ -1,1 +1,1 @@
-var mnemonic = "beauty two deer purchase joy fuel amateur friend grief inhale subject slab";
+var mnemonic = "hour describe forget write current lend pear north trophy rib pepper again";

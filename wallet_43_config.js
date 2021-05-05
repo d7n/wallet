@@ -1,1 +1,1 @@
-var mnemonic = "apart vicious key light chuckle ribbon muscle law ancient immense below erupt";
+var mnemonic = "appear soldier rifle drum space damp impact simple rail antenna claim marine";

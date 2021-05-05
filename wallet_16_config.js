@@ -1,1 +1,1 @@
-var mnemonic = "fence enrich expect chronic cup element acquire desk pottery grunt neither belt";
+var mnemonic = "lonely magnet trophy copper divide yellow point legend prevent point diamond will";

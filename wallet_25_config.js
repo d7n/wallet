@@ -1,1 +1,1 @@
-var mnemonic = "seminar fiber swim join pyramid arena eight because cash venture one region";
+var mnemonic = "flip void spray candy normal chief muffin custom lumber emerge happy vehicle";

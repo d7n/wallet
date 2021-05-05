@@ -1,1 +1,1 @@
-var mnemonic = "tip solve oval fragile disease unfair merge disease elevator trust armed vicious";
+var mnemonic = "whale blue frozen bleak wink garden husband plunge grocery spell volume where";

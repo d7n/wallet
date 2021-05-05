@@ -1,1 +1,1 @@
-var mnemonic = "toe soda quality draw section course advance winter wheel drastic vague session";
+var mnemonic = "potato prison hard forget slam torch clerk weasel sauce want sea soup";

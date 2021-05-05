@@ -1,1 +1,1 @@
-var mnemonic = "arrow used bunker trumpet cattle inch voice coyote swallow second south digital";
+var mnemonic = "rather certain quote rare special project useless again guitar axis hammer tackle";

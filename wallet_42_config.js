@@ -1,1 +1,1 @@
-var mnemonic = "venue retreat nominee glimpse book topic police cushion dad dad empty march";
+var mnemonic = "breeze click attitude february verb swamp raven cable car fruit bleak basket";

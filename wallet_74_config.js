@@ -1,1 +1,1 @@
-var mnemonic = "cactus garage damage saddle cricket ill expire useful organ town remain daughter";
+var mnemonic = "cup endless man chase text genre snack mercy addict broom clock dance";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap thing ring web timber cigar edit that cousin ketchup absent crane";
+var mnemonic = "bunker exit skull own company crew adapt weekend focus earth uniform dwarf";

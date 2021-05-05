@@ -1,1 +1,1 @@
-var mnemonic = "surface cancel orange lumber annual rose carry satisfy digital broken pact inquiry";
+var mnemonic = "scrap amount trial luggage select rib vanish phone loan snack chimney addict";

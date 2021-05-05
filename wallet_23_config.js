@@ -1,1 +1,1 @@
-var mnemonic = "laugh reward army actual poem wreck enlist little fade electric trap web";
+var mnemonic = "ready gadget police city price senior season nephew use middle pond crew";

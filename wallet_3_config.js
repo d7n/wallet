@@ -1,1 +1,1 @@
-var mnemonic = "summer clay argue orchard wall fall snap slab loop sport filter jungle";
+var mnemonic = "vendor crucial shift volcano tool neglect clap develop steel train grace mind";

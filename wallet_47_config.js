@@ -1,1 +1,1 @@
-var mnemonic = "speed nose drift purchase volume isolate piece guard cancel chicken immense decorate";
+var mnemonic = "color muscle scare sorry nephew level robot relief flush famous hospital random";

@@ -1,1 +1,1 @@
-var mnemonic = "duck wink taste narrow thought arm match lunch expire coffee finger clown";
+var mnemonic = "burger evidence table heavy duck exhaust style clay indicate mesh stuff core";

@@ -1,1 +1,1 @@
-var mnemonic = "misery brain grape undo excite cushion chimney tribe language remember tank voice";
+var mnemonic = "someone donate pilot butter quiz lion desert tide pave sun shop penalty";

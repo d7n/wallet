@@ -1,1 +1,1 @@
-var mnemonic = "copy cradle suggest slender glad flight assault pass domain cushion drum able";
+var mnemonic = "enemy vivid beef route vague whip senior great crawl attitude plastic jacket";

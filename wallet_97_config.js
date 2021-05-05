@@ -1,1 +1,1 @@
-var mnemonic = "veteran garbage seminar replace aim version art object shoe network fruit novel";
+var mnemonic = "cousin author fury neglect board when ship solar mansion rare vapor noodle";

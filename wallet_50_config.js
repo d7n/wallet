@@ -1,1 +1,1 @@
-var mnemonic = "toast buyer dash quit eye silver master tube drama leisure moral online";
+var mnemonic = "twin virus student evil stereo combine social local record favorite file sheriff";

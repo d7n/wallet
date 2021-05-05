@@ -1,1 +1,1 @@
-var mnemonic = "school bleak ridge hotel impact kit barely blush nation legal cactus donate";
+var mnemonic = "aspect short room popular thank gorilla main smart review allow route try";

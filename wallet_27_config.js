@@ -1,1 +1,1 @@
-var mnemonic = "core echo empower among amateur luggage eyebrow raven quick wheat south little";
+var mnemonic = "dial jeans vocal cargo carbon post ivory tonight they army potato spring";

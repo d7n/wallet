@@ -1,1 +1,1 @@
-var mnemonic = "learn coconut bracket ring can decline kid nerve vacuum direct loan beauty";
+var mnemonic = "moment twelve bid siren trigger hollow want enhance someone surprise work balance";

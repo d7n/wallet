@@ -1,1 +1,1 @@
-var mnemonic = "drive throw city erode tone exotic detect immune spirit detect royal lake";
+var mnemonic = "furnace search junk sustain valid carpet ignore hazard walnut kiwi glide wire";

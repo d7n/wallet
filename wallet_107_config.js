@@ -1,1 +1,1 @@
-var mnemonic = "vanish remain visual waste slam lend pizza pigeon virtual glass damp enroll";
+var mnemonic = "extend true illness movie season cup alpha cute wish spike tourist flower";

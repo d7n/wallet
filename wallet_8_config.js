@@ -1,1 +1,1 @@
-var mnemonic = "account daughter asthma shrug dentist guilt quality very tourist there bag oxygen";
+var mnemonic = "priority tone orbit cactus utility season battle catch siege level where warrior";

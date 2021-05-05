@@ -1,1 +1,1 @@
-var mnemonic = "uncover spoon work ribbon tooth tomato beauty hat obtain keep robust edit";
+var mnemonic = "thing panda coil squeeze congress flash vacant mammal extend credit program monster";

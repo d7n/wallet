@@ -1,1 +1,1 @@
-var mnemonic = "flight milk category romance street surface giggle olive credit first model fun";
+var mnemonic = "live foil involve rotate video sniff junior donkey pupil piece hello city";

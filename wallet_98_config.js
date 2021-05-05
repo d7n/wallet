@@ -1,1 +1,1 @@
-var mnemonic = "stove clever hole divorce write camera impose hybrid cry resist together occur";
+var mnemonic = "gadget plug fetch shaft powder guess town vote dune climb evoke craft";

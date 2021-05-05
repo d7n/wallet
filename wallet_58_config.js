@@ -1,1 +1,1 @@
-var mnemonic = "cruel main gun toddler zoo fluid gravity omit unlock body strong claw";
+var mnemonic = "snack scrap beef alley affair dolphin write struggle leader dose swarm chest";

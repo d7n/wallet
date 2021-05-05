@@ -1,1 +1,1 @@
-var mnemonic = "afraid fresh limit lounge romance brief novel onion undo between high drum";
+var mnemonic = "job cactus merit enter stage toward when public ignore avoid hip cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "cart drip duck logic reform scout panel output note prize advice clerk";
+var mnemonic = "daring day toilet notable angry indoor garage disease carry crack access habit";

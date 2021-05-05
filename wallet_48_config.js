@@ -1,1 +1,1 @@
-var mnemonic = "odor doctor acquire tortoise supreme crane strong pelican segment nephew crowd worry";
+var mnemonic = "innocent sting flock siege meadow science discover dove fruit melody evil brush";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty rail come during anxiety hamster jewel scheme nasty luxury term kit";
+var mnemonic = "gold reward leisure lake version tortoise behind photo alien clinic target tree";

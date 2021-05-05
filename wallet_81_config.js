@@ -1,1 +1,1 @@
-var mnemonic = "toast legend kiwi excess expand mask expire dog industry know wise word";
+var mnemonic = "holiday crystal nature awake draw increase fee monkey paddle solid old final";

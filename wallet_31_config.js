@@ -1,1 +1,1 @@
-var mnemonic = "camera define immune economy lady scrap rhythm poem carbon veteran usage what";
+var mnemonic = "panel express odor timber bridge struggle foster lawsuit ginger bind shop kind";

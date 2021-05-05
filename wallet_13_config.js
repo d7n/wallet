@@ -1,1 +1,1 @@
-var mnemonic = "doll poem alert wreck athlete figure insane balcony school garlic pulp protect";
+var mnemonic = "champion energy reunion cluster order feed biology join august jaguar area dress";

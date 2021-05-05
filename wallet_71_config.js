@@ -1,1 +1,1 @@
-var mnemonic = "team marble economy pizza inner ranch giant true fashion crystal taste item";
+var mnemonic = "middle long garment entire damp note seek tobacco post cup prosper winner";

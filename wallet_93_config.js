@@ -1,1 +1,1 @@
-var mnemonic = "primary trend increase tobacco cigar marble valid mosquito rally pair wing idea";
+var mnemonic = "mask saddle strike valid virus tooth then width pride lobster donkey cigar";

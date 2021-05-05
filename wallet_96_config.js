@@ -1,1 +1,1 @@
-var mnemonic = "lunch amount ghost basket merry badge assist salad torch joke disorder coil";
+var mnemonic = "shop people strong vibrant goat strong sudden result grocery depend canvas legend";

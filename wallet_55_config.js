@@ -1,1 +1,1 @@
-var mnemonic = "unfold deal basket solid outside bridge sell program frame protect abuse average";
+var mnemonic = "will sleep flip glove twice envelope doctor session hobby miss civil cash";

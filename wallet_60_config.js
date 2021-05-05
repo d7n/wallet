@@ -1,1 +1,1 @@
-var mnemonic = "furnace else youth forward vibrant bid about club blanket bounce act few";
+var mnemonic = "net deposit first fault only danger nest inmate gaze glance sock daughter";

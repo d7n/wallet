@@ -1,1 +1,1 @@
-var mnemonic = "mixture relief vast kangaroo plunge build suffer mushroom creek exercise inquiry chicken";
+var mnemonic = "autumn north sorry equal census bike logic forest dune piano water stadium";

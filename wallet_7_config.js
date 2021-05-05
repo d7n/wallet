@@ -1,1 +1,1 @@
-var mnemonic = "forest kiss veteran coast rough wide parade quality push ride speak year";
+var mnemonic = "town case faint slab jar vital security seat polar abandon slab midnight";

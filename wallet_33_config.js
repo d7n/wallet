@@ -1,1 +1,1 @@
-var mnemonic = "crew broom expect increase illegal awesome spare street say mixture mimic escape";
+var mnemonic = "biology notable shoe wool merge congress wall dust mobile blur notable omit";

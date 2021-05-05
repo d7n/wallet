@@ -1,1 +1,1 @@
-var mnemonic = "laugh trade apple degree sustain prepare feed chat salon leisure outside extend";
+var mnemonic = "start question toast pair describe water once result height oblige tuna tower";

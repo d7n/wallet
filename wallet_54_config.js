@@ -1,1 +1,1 @@
-var mnemonic = "defense orchard rifle cradle decorate say scorpion regular erupt peasant end anxiety";
+var mnemonic = "gown trip letter swallow sausage honey win toast dash core cart disorder";

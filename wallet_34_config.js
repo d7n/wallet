@@ -1,1 +1,1 @@
-var mnemonic = "purity melt another trip reflect rib custom public liquid cream chief casino";
+var mnemonic = "cousin shuffle early talk safe float shock charge lonely cat add reject";

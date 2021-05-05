@@ -1,1 +1,1 @@
-var mnemonic = "tray holiday hobby scheme toddler rally menu real find friend feel spice";
+var mnemonic = "rapid orchard anxiety truck thunder spin moment loud income cart alpha scale";

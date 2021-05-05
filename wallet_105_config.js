@@ -1,1 +1,1 @@
-var mnemonic = "promote urge always cover wife eye riot cash essence blush drop slim";
+var mnemonic = "okay indicate cross maze flavor scare neutral toddler party retire aim where";

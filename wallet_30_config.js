@@ -1,1 +1,1 @@
-var mnemonic = "already glue excite garlic laptop galaxy room inspire ozone consider payment engine";
+var mnemonic = "shoe rate emerge maximum sand autumn pottery coil unfair forward custom speed";

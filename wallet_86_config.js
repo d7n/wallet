@@ -1,1 +1,1 @@
-var mnemonic = "dragon large remain cargo actress scout rail rent prison wing second churn";
+var mnemonic = "upper tongue ring captain use nerve order arrive correct inherit add mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss clarify orbit august elbow wheel void cattle track judge tired ginger";
+var mnemonic = "weekend hour proof absent absorb example until brass also wool pitch rubber";

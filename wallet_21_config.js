@@ -1,1 +1,1 @@
-var mnemonic = "head hello solve bless merry mystery success position other unfair sort clutch";
+var mnemonic = "pledge flame session depart pole ride federal female mobile double enrich theme";

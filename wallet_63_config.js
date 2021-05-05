@@ -1,1 +1,1 @@
-var mnemonic = "demand chase person base tiger nurse canyon cement tunnel grab high suffer";
+var mnemonic = "crumble drill install this hole universe donate quit carry panther rifle weekend";

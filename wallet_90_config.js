@@ -1,1 +1,1 @@
-var mnemonic = "ribbon electric creek wisdom creek zone virus toast novel quick magnet fortune";
+var mnemonic = "imitate play fat family there rail peasant route panic physical erode style";

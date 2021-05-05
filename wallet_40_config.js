@@ -1,1 +1,1 @@
-var mnemonic = "lemon scene enter village attend toss job velvet belt rather sentence shoe";
+var mnemonic = "misery casino text buzz oblige airport ahead ten tuition social happy heavy";

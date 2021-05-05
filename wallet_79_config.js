@@ -1,1 +1,1 @@
-var mnemonic = "key inform that orange tiny squirrel public aunt behind taste stadium ketchup";
+var mnemonic = "drama annual ketchup tongue bulk text park juice allow wisdom police suspect";

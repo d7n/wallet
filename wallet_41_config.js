@@ -1,1 +1,1 @@
-var mnemonic = "digital bonus trap label flat thrive quick bulb old quit gas solution";
+var mnemonic = "impact bullet upgrade end offer process settle drift program consider interest opinion";

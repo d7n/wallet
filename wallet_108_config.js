@@ -1,1 +1,1 @@
-var mnemonic = "expand wish sting demand moon bounce brother unfair echo engine under finger";
+var mnemonic = "disorder brain fish nice onion retire juice fly mind lawn cross simple";

@@ -1,1 +1,1 @@
-var mnemonic = "valve royal range visa devote attend garment possible faculty wife push embark";
+var mnemonic = "when income cabbage keen kiwi very cube peasant zoo rail amateur oil";

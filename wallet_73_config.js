@@ -1,1 +1,1 @@
-var mnemonic = "glad asthma crash sketch obscure swift all decrease nest gas game visit";
+var mnemonic = "short street sniff broken gas alone harsh vintage annual donate make banana";

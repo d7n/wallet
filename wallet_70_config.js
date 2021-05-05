@@ -1,1 +1,1 @@
-var mnemonic = "chaos patrol witness wagon eternal settle argue visa couple oil second fossil";
+var mnemonic = "tortoise fun wave chalk caught bachelor poet recipe outer debris fine initial";

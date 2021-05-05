@@ -1,1 +1,1 @@
-var mnemonic = "dish peasant coin penalty slice cart gadget turtle civil before cage food";
+var mnemonic = "second sorry demand erupt slim head gown embody husband oak raise try";

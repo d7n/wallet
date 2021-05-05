@@ -1,1 +1,1 @@
-var mnemonic = "spare error define trophy pattern agent grass task initial fish magic spatial";
+var mnemonic = "cabbage please child jar wall burden legal rare inform swear bracket estate";

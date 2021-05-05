@@ -1,1 +1,1 @@
-var mnemonic = "divert purchase quote ensure essay delay outdoor foster market wolf uniform puzzle";
+var mnemonic = "first fame firm pitch grape smart orient rail carpet never put upset";

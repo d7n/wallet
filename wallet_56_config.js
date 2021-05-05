@@ -1,1 +1,1 @@
-var mnemonic = "prevent fine wheel screen stock evidence salad argue okay candy amateur seven";
+var mnemonic = "ignore tuna sport aim wide ancient rice penalty truck inside roof burst";

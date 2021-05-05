@@ -1,1 +1,1 @@
-var mnemonic = "celery way thought cheese victory concert fatal tape reduce slogan unfold rail";
+var mnemonic = "report any crash excess meadow vicious shop shadow reason retreat private exact";

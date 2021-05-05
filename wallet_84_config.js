@@ -1,1 +1,1 @@
-var mnemonic = "vacant use push eager pact unaware banana nice load catch copy beyond";
+var mnemonic = "lock blouse neglect bulk nasty actual spoon grid sport robust castle frog";

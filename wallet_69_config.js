@@ -1,1 +1,1 @@
-var mnemonic = "guitar friend chuckle sell six envelope question opinion stomach trumpet soldier coil";
+var mnemonic = "agree skill dry cause satisfy tired clock blind muscle lyrics vessel moment";

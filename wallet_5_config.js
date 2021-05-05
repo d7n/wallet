@@ -1,1 +1,1 @@
-var mnemonic = "lake wrap health wide describe item stable explain network unique hurt frown";
+var mnemonic = "people output interest man mutual spread traffic creek bid narrow interest venture";

@@ -1,1 +1,1 @@
-var mnemonic = "patient blame spring clay replace ask truly income cheap drive rent lens";
+var mnemonic = "second speed stage panther maze clown relief page bounce frame lucky tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "search wagon desk now sponsor cry angle just vendor symbol cancel abstract";
+var mnemonic = "bomb lunar chair dismiss state faith frog young rate regular resource length";

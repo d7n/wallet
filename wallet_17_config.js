@@ -1,1 +1,1 @@
-var mnemonic = "jaguar cake until siren mass cheese fossil cry galaxy fiber cruise rule";
+var mnemonic = "muscle artist menu romance replace bronze also much three giraffe link resist";

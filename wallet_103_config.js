@@ -1,1 +1,1 @@
-var mnemonic = "tray rough execute tomorrow pull answer split federal october place planet song";
+var mnemonic = "require fantasy noodle afraid myself dress hint alter film tag measure proof";

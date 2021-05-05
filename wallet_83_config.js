@@ -1,1 +1,1 @@
-var mnemonic = "build plug few burden woman pistol oxygen rain type uniform wet example";
+var mnemonic = "report admit pact hamster ramp boss know surface gadget misery quit member";

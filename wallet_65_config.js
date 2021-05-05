@@ -1,1 +1,1 @@
-var mnemonic = "rack please kid wreck lottery dog pause speed spice wagon blame best";
+var mnemonic = "radio garment boss damage pact grab liberty labor monkey skill puppy regret";

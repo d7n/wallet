@@ -1,1 +1,1 @@
-var mnemonic = "hawk run hundred pledge relax swift range eight there youth crunch job";
+var mnemonic = "pattern foster announce oblige city wrong fame claw yard cave brown donate";

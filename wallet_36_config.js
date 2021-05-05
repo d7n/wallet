@@ -1,1 +1,1 @@
-var mnemonic = "roof edge daughter twist oven group charge rain floor fade tenant tattoo";
+var mnemonic = "basket art canyon busy leader cement person noodle pass morning exile mansion";

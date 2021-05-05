@@ -1,1 +1,1 @@
-var mnemonic = "shell relief together transfer rack vendor level mad absurd leaf need segment";
+var mnemonic = "earth vital awkward fuel struggle response brother hill miss medal into cupboard";
