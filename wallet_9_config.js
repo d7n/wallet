@@ -1,1 +1,1 @@
-var mnemonic = "push joy raw radio dynamic mango guilt execute couple atom absorb post";
+var mnemonic = "asthma birth kitten buyer view canal electric nerve dynamic industry ocean occur";

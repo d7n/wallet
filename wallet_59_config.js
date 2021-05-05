@@ -1,1 +1,1 @@
-var mnemonic = "cry island resource exotic garage height work struggle tree mule nose profit";
+var mnemonic = "ceiling monitor atom enemy balance ripple chicken apple swarm monitor kind panel";

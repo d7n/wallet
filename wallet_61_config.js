@@ -1,1 +1,1 @@
-var mnemonic = "uncover famous dwarf earn culture almost gown aunt engage renew music swim";
+var mnemonic = "audit theme number pudding planet still fee canal session tomato cruel taste";

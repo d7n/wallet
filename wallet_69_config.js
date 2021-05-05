@@ -1,1 +1,1 @@
-var mnemonic = "cram lottery nuclear response master spell candy dog lobster salute gold idle";
+var mnemonic = "slight bridge insect okay ask lecture october air laptop smile involve all";

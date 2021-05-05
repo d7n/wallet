@@ -1,1 +1,1 @@
-var mnemonic = "over depend someone menu nasty vibrant kiwi forest solution save stamp stem";
+var mnemonic = "vacant drive keep project over meat cute laptop major aunt mercy deliver";

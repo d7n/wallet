@@ -1,1 +1,1 @@
-var mnemonic = "kick enable veteran garden lock wheat fiscal foil sound violin person sister";
+var mnemonic = "humble egg absurd object cause kiss race office agent adult inject snack";

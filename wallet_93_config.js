@@ -1,1 +1,1 @@
-var mnemonic = "mushroom salt arch saddle fiber entry once car pave crisp nasty pencil";
+var mnemonic = "betray near cricket avocado proud mad reject situate birth nice power hidden";

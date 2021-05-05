@@ -1,1 +1,1 @@
-var mnemonic = "fresh palm now enable black group strike vapor always private mercy what";
+var mnemonic = "upgrade answer punch vehicle private wonder all hotel drill brother weapon novel";

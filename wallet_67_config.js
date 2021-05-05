@@ -1,1 +1,1 @@
-var mnemonic = "ring inhale protect cook bracket fan depend flame almost file slice trade";
+var mnemonic = "there iron wise chronic bird lawn decide magic produce rule captain stadium";

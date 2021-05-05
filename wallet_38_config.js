@@ -1,1 +1,1 @@
-var mnemonic = "yard language equip solid observe charge clown loyal excite memory confirm hunt";
+var mnemonic = "kite foam various silk derive upgrade garden misery setup snap innocent physical";

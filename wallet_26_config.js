@@ -1,1 +1,1 @@
-var mnemonic = "aim pave update moral anger debris century ridge room unique shift shove";
+var mnemonic = "salad twist prefer humble page address dynamic lobster guide injury orbit judge";

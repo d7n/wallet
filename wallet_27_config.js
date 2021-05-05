@@ -1,1 +1,1 @@
-var mnemonic = "february demise dirt kit grow draw guitar police sponsor soccer spider deny";
+var mnemonic = "mammal manage source unfold silver health sphere attend outdoor black axis weapon";

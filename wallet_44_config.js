@@ -1,1 +1,1 @@
-var mnemonic = "six know west salute leaf skull mass pet century oxygen narrow result";
+var mnemonic = "twice breeze grab sell oven organ ridge half luxury goat west design";

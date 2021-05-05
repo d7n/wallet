@@ -1,1 +1,1 @@
-var mnemonic = "give duck moon nothing room opera parrot casual cave between unknown video";
+var mnemonic = "fee attract air clerk wink buyer install session spatial spawn bicycle push";

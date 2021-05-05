@@ -1,1 +1,1 @@
-var mnemonic = "nephew net ankle example sign fiction turn language dog catch artwork family";
+var mnemonic = "logic primary monster school fortune salt general left horn record twenty purpose";

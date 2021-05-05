@@ -1,1 +1,1 @@
-var mnemonic = "direct cube undo dance sure fluid gravity parent mushroom joy grace drift";
+var mnemonic = "eye sense fit arrive rescue mushroom dynamic power artist current arrange correct";

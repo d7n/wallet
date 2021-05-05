@@ -1,1 +1,1 @@
-var mnemonic = "ocean cable deposit toast story picnic flag organ purse auto cabbage luggage";
+var mnemonic = "smoke endorse kiss rude rifle nut behind fancy already symptom vague bomb";

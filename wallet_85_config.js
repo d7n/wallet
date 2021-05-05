@@ -1,1 +1,1 @@
-var mnemonic = "blade zero radio thrive banana blind image gift mystery powder wood rack";
+var mnemonic = "december raccoon pave party pistol worth notice pattern verb service drink squirrel";

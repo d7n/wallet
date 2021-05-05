@@ -1,1 +1,1 @@
-var mnemonic = "relax flower remain olive lonely trouble maple crack defense dose weekend radio";
+var mnemonic = "attract miss source iron random scrub federal rubber purpose promote tornado coast";

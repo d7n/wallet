@@ -1,1 +1,1 @@
-var mnemonic = "crime cancel chronic allow romance pitch rate unlock chair example tooth bus";
+var mnemonic = "gauge expand obtain radar near conduct rebuild exist echo gown prize reopen";

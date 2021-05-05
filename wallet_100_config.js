@@ -1,1 +1,1 @@
-var mnemonic = "phrase remember region yard garment deliver thank treat steel sail dismiss engine";
+var mnemonic = "adapt fan critic thumb biology sweet half giant comic language fox define";

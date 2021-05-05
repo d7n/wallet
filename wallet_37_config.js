@@ -1,1 +1,1 @@
-var mnemonic = "stove kitten original vehicle mean budget double mechanic patrol brick nasty giggle";
+var mnemonic = "hungry lonely aim interest erase into reason border kingdom liar enough estate";

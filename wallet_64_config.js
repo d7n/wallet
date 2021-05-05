@@ -1,1 +1,1 @@
-var mnemonic = "torch palace obey merge month mouse mind broccoli fringe club light deny";
+var mnemonic = "cute pretty struggle year assault dry obscure mountain clarify zone recipe wolf";

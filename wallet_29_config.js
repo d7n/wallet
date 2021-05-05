@@ -1,1 +1,1 @@
-var mnemonic = "cave jealous between column fashion jeans enough fog usual genuine turn ice";
+var mnemonic = "twenty symbol rigid purchase very lecture abandon omit follow surprise sponsor cool";

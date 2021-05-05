@@ -1,1 +1,1 @@
-var mnemonic = "camp cattle shine vault display furnace divide payment left coach puzzle rally";
+var mnemonic = "truck mind weekend alone satisfy achieve wish garment ridge health alcohol spare";

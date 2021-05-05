@@ -1,1 +1,1 @@
-var mnemonic = "happy broccoli runway inmate cousin wrestle music plug bid giggle ranch change";
+var mnemonic = "donor kitchen case devote remove size fiscal glove path exclude scorpion evolve";

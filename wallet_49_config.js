@@ -1,1 +1,1 @@
-var mnemonic = "type sugar flip rail fruit library abstract crisp abstract reflect setup damp";
+var mnemonic = "pull case two trim swamp account decade display action fire farm little";

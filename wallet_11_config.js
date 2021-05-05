@@ -1,1 +1,1 @@
-var mnemonic = "dawn load lyrics museum online rookie rally deal hood jaguar stock stamp";
+var mnemonic = "fitness surround rural face symbol peasant news abuse slight faculty crane what";

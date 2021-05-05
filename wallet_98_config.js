@@ -1,1 +1,1 @@
-var mnemonic = "awesome brief risk predict wool entire twice farm scan nerve fat divert";
+var mnemonic = "silent chair divide swarm machine thunder stumble lawn west wrong audit unusual";

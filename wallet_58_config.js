@@ -1,1 +1,1 @@
-var mnemonic = "two try topic between effort web amount mother two staff pumpkin shaft";
+var mnemonic = "cupboard liberty ripple lazy ivory aware during tag pilot wasp motion clog";

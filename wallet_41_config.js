@@ -1,1 +1,1 @@
-var mnemonic = "offer armor narrow sand raise proof injury unfold rescue require child coffee";
+var mnemonic = "dragon volume novel census whale shrimp entry invest measure bring surprise stay";

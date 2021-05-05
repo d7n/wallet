@@ -1,1 +1,1 @@
-var mnemonic = "federal wrestle demise current filter gather skin border shift surprise inject loan";
+var mnemonic = "junior decline fall plug negative step melody increase vapor pilot shoot rescue";

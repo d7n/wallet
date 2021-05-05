@@ -1,1 +1,1 @@
-var mnemonic = "fruit sound idle kiss spell gloom noble virtual hammer nothing hybrid magnet";
+var mnemonic = "obvious amazing aware twin draw attack write marble bracket arch rubber win";

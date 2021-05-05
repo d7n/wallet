@@ -1,1 +1,1 @@
-var mnemonic = "distance finish list banana misery rural trip turkey symbol power mother bless";
+var mnemonic = "guide bracket river defense random thank enter happy piece accuse leisure firm";

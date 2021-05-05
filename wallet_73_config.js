@@ -1,1 +1,1 @@
-var mnemonic = "federal connect perfect artwork chuckle frost chunk hungry drama toast argue clever";
+var mnemonic = "ticket service bounce novel camera weapon edit trash company call patch slight";

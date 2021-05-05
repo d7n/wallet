@@ -1,1 +1,1 @@
-var mnemonic = "razor mind eager spare disagree question carbon chef admit poverty science ability";
+var mnemonic = "require sustain wasp list stool hood crack aunt hollow brush pause uniform";

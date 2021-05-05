@@ -1,1 +1,1 @@
-var mnemonic = "vague trumpet deputy piano special industry vocal tuna purse like shed live";
+var mnemonic = "rubber maid cargo gym acquire bachelor eager door hero riot pencil pause";

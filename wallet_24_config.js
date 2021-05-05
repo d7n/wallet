@@ -1,1 +1,1 @@
-var mnemonic = "party draft upgrade design perfect ordinary erupt virus canal jealous country satisfy";
+var mnemonic = "receive skull puppy because fork hotel notice frozen merit resemble balance coach";

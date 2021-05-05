@@ -1,1 +1,1 @@
-var mnemonic = "asset saddle ice onion alarm where system security elegant latin spawn stadium";
+var mnemonic = "faith fuel staff rookie pause ribbon nature exchange crane turkey butter group";

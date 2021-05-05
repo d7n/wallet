@@ -1,1 +1,1 @@
-var mnemonic = "napkin garment lawn joke clerk assume flavor virus assist mosquito electric regular";
+var mnemonic = "move lucky enhance sad egg please foam ensure butter hedgehog uniform abandon";

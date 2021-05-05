@@ -1,1 +1,1 @@
-var mnemonic = "prefer hand beauty canyon silly pledge title peace wheel load swift trend";
+var mnemonic = "utility seed blush suspect leader window photo grocery glad bar oppose history";

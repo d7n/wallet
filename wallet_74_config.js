@@ -1,1 +1,1 @@
-var mnemonic = "olive duty either reward outdoor frame kit card future daughter observe question";
+var mnemonic = "answer owner deny punch wrap spoil turtle sentence turkey addict trick rally";

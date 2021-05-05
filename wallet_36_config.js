@@ -1,1 +1,1 @@
-var mnemonic = "pistol add identify pattern entry length wonder narrow rescue smart rookie hazard";
+var mnemonic = "flame upgrade crush height walnut insane coin treat gather coast uncover axis";

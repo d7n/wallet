@@ -1,1 +1,1 @@
-var mnemonic = "return vicious lawsuit traffic rain hunt fog capable episode scout bone stairs";
+var mnemonic = "venture filter slender midnight champion junk relief mix absent summer sphere help";

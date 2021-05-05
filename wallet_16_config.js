@@ -1,1 +1,1 @@
-var mnemonic = "fringe wire column cereal double fee feature dignity bullet pear elder easily";
+var mnemonic = "steel derive shy zoo coach clap picture drift recycle remind sea attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "angle mystery salmon solid style brain all humor practice anchor negative vivid";
+var mnemonic = "balance crowd abstract joke hockey fun city dolphin point output club brown";

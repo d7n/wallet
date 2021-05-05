@@ -1,1 +1,1 @@
-var mnemonic = "want capable parade photo tongue skill slim build smart acid erode salmon";
+var mnemonic = "crowd spatial board squeeze dirt tell segment neglect fetch rare nest burst";

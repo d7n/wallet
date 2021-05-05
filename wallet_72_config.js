@@ -1,1 +1,1 @@
-var mnemonic = "high suffer garment glare eight person pipe mountain opera fire unfair physical";
+var mnemonic = "glove mechanic kiwi match act east notice goat economy genre analyst saddle";

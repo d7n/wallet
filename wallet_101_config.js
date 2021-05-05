@@ -1,1 +1,1 @@
-var mnemonic = "hope cloud asthma glow write vote staff nose federal vital perfect memory";
+var mnemonic = "deer bleak busy jacket fee afford theme cement position grow amateur gap";

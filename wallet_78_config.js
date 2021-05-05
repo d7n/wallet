@@ -1,1 +1,1 @@
-var mnemonic = "gift busy monitor focus certain note fly limb theme put rebuild earn";
+var mnemonic = "present awake satoshi dish honey ranch rocket rival today spend brown school";

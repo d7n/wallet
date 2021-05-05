@@ -1,1 +1,1 @@
-var mnemonic = "tired violin radio pudding good flip fatal genuine service half swarm ethics";
+var mnemonic = "survey sentence isolate crop trash bamboo orient churn captain canvas work civil";

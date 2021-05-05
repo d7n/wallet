@@ -1,1 +1,1 @@
-var mnemonic = "system luggage indoor common glow struggle you unique document foil scrap tunnel";
+var mnemonic = "ahead lawsuit daring uphold suffer treat gauge delay session prepare body fence";

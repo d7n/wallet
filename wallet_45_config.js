@@ -1,1 +1,1 @@
-var mnemonic = "metal width family decade actor account alarm rent doll armed onion library";
+var mnemonic = "viable design humble fox column dress empower notable axis forum witness catalog";

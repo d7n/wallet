@@ -1,1 +1,1 @@
-var mnemonic = "empower cause tattoo view pipe bracket damp hospital radio athlete alcohol virus";
+var mnemonic = "allow harsh young rough shove involve cancel topic ridge unfold oven civil";

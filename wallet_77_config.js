@@ -1,1 +1,1 @@
-var mnemonic = "boss scrub myth delay announce robot lift sweet effort olympic thought moral";
+var mnemonic = "green solar kidney fabric stadium number lyrics february buffalo ready truck subject";

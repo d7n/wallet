@@ -1,1 +1,1 @@
-var mnemonic = "shock neglect entry vault upper spice solid beach suspect ghost wheel thought";
+var mnemonic = "vote empty devote afford muscle dad foam athlete success above clump only";

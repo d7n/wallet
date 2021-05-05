@@ -1,1 +1,1 @@
-var mnemonic = "sense depend such series loop keep system rough denial narrow palace add";
+var mnemonic = "echo exhaust tenant stumble lonely grass adjust feel deer unusual marriage lottery";

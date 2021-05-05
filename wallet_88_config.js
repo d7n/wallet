@@ -1,1 +1,1 @@
-var mnemonic = "outside pattern problem like fiction arena this width double night adapt east";
+var mnemonic = "inquiry reform air april release cycle witness space assume zero before immune";

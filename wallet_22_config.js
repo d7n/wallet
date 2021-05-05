@@ -1,1 +1,1 @@
-var mnemonic = "taxi flower obscure dune wink lonely amused comfort bean guitar isolate powder";
+var mnemonic = "moral wear museum round final toward record sadness cargo wedding sibling void";

@@ -1,1 +1,1 @@
-var mnemonic = "cheap salmon inside gallery ostrich swallow combine ignore economy convince hill sibling";
+var mnemonic = "couple truck private ticket field pizza suspect animal smart ugly cover buddy";

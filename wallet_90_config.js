@@ -1,1 +1,1 @@
-var mnemonic = "easily hurdle ocean illegal click style bubble virus best skill afford govern";
+var mnemonic = "banana cool quantum chaos clerk rebel tobacco twin run small trip cradle";

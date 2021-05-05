@@ -1,1 +1,1 @@
-var mnemonic = "remain model multiply wise middle corn rice pair home glow day engine";
+var mnemonic = "lounge canal decade federal vault fade vague ticket year dynamic hockey window";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy miracle claim horse decline hurdle lawsuit hole portion dust farm trial";
+var mnemonic = "turn coin bridge enemy wolf private emerge aerobic leader immense slice mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "book jump diesel donkey art cement enlist expect bicycle cigar never mix";
+var mnemonic = "unhappy gain dolphin business profit dune poet silly party belt oak order";

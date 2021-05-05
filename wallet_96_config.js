@@ -1,1 +1,1 @@
-var mnemonic = "planet army panel priority reject imitate all era ensure boy syrup toss";
+var mnemonic = "inflict lens bachelor rural fancy galaxy salmon merge source verb kitchen force";

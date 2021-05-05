@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog memory napkin tortoise modify pause online angle inspire rebel organ hundred";
+var mnemonic = "match dry fatigue knee pair panic tackle erode kiss scale sad hockey";

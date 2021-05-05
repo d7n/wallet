@@ -1,1 +1,1 @@
-var mnemonic = "east spike stay honey across bomb airport raven delay mouse powder patrol";
+var mnemonic = "image napkin school swift also pistol mango bind deputy any quiz shuffle";

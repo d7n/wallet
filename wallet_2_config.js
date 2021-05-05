@@ -1,1 +1,1 @@
-var mnemonic = "sick infant slab because sell chief track talk wrist stuff mistake recipe";
+var mnemonic = "memory hold cream hospital bind bronze success chase wonder float left drink";

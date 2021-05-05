@@ -1,1 +1,1 @@
-var mnemonic = "kit need swarm they milk voyage arm agree cement slight priority cave";
+var mnemonic = "aware royal agent imitate outer between kangaroo trip ship possible bind breeze";

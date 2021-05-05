@@ -1,1 +1,1 @@
-var mnemonic = "remove please version waste ordinary spell excuse walnut smoke royal hedgehog donate";
+var mnemonic = "vault peace steak oven obvious woman steak elder busy trap license unable";

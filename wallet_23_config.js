@@ -1,1 +1,1 @@
-var mnemonic = "south general wear craft shoe february this jewel lesson spice motion riot";
+var mnemonic = "inquiry position acoustic crater fiscal arctic transfer amused step lobster announce item";

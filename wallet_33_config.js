@@ -1,1 +1,1 @@
-var mnemonic = "meadow expand lesson job eternal bunker mom bunker advice swap stem grape";
+var mnemonic = "wreck buyer supreme knock float bind february stumble detect kiwi injury believe";

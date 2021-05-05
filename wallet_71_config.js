@@ -1,1 +1,1 @@
-var mnemonic = "fork only swift ivory divorce spread maid segment vocal jar actor hammer";
+var mnemonic = "mom monitor witness outdoor wrist hard any fresh electric crucial throw ecology";

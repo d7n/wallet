@@ -1,1 +1,1 @@
-var mnemonic = "circle broccoli black deer champion number device tone trial ride apology mixed";
+var mnemonic = "evoke language refuse seminar zone flame also coyote day bonus focus jacket";

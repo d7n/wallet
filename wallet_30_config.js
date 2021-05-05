@@ -1,1 +1,1 @@
-var mnemonic = "grief snow arrest memory gloom provide elite anxiety client grain scene sphere";
+var mnemonic = "fitness like job regular cargo pig shoe arrest trim empower social push";

@@ -1,1 +1,1 @@
-var mnemonic = "normal heavy visual fork analyst belt fade truth inner faint creek alien";
+var mnemonic = "hidden indoor lend ostrich wrestle pigeon float unfold inch easily pizza garbage";

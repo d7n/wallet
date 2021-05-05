@@ -1,1 +1,1 @@
-var mnemonic = "unable floor juice fuel tomorrow seed main object bind shock hill hover";
+var mnemonic = "bind swim label lunch rival approve erosion puppy measure mystery chicken prefer";

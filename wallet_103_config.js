@@ -1,1 +1,1 @@
-var mnemonic = "opera extra live labor double track craft miss quick alter month problem";
+var mnemonic = "path clay solid call seminar moral country step width stairs wrist judge";

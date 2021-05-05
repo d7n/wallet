@@ -1,1 +1,1 @@
-var mnemonic = "stay boil squeeze kiwi crane pizza talk digital marriage draw wash merge";
+var mnemonic = "move teach brief strong token monkey fence marble label come need horn";

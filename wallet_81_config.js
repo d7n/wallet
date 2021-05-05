@@ -1,1 +1,1 @@
-var mnemonic = "clock warrior apple parade angle scrub essence day coin advance exhaust siren";
+var mnemonic = "thank school pull pet various embark enter prefer enroll adjust law question";

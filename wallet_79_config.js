@@ -1,1 +1,1 @@
-var mnemonic = "truth cross measure track sketch ordinary success medal switch juice hard century";
+var mnemonic = "shrimp ocean amused device fiscal crystal renew firm hidden much tuition castle";

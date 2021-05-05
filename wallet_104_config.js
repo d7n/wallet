@@ -1,1 +1,1 @@
-var mnemonic = "unfair maple picture novel mother eyebrow rotate defense tornado crazy easily episode";
+var mnemonic = "hub wish advice cricket poverty cinnamon jeans buddy chase unaware match wink";

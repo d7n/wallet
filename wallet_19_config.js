@@ -1,1 +1,1 @@
-var mnemonic = "anxiety east next admit essay reject lobster sick salon above super charge";
+var mnemonic = "undo miss ask quality verify eternal unaware badge expect frown wild include";

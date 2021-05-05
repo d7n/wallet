@@ -1,1 +1,1 @@
-var mnemonic = "math atom smoke enact clump real lecture heavy forget oxygen nature project";
+var mnemonic = "strong pledge agree tornado render save medal this advance between clean scout";

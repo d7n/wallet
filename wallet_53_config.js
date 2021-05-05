@@ -1,1 +1,1 @@
-var mnemonic = "field brisk cluster travel meat record smart attitude crater cotton myself giant";
+var mnemonic = "mansion bind morning height chat episode hundred vendor weasel airport stamp height";

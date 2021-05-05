@@ -1,1 +1,1 @@
-var mnemonic = "unfold donate during quick arrange deputy secret horn weasel civil neutral inquiry";
+var mnemonic = "report bone inmate latin dial poem tourist sibling cube brain unveil unique";

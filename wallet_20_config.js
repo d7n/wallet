@@ -1,1 +1,1 @@
-var mnemonic = "visual fossil grunt excess bracket liberty hunt stock toe mail kit indicate";
+var mnemonic = "hawk vapor version open goat doctor vessel mercy arena grace siren again";

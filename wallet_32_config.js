@@ -1,1 +1,1 @@
-var mnemonic = "grain throw bicycle carry wheat sick gather cluster wine man volume sketch";
+var mnemonic = "bamboo shine carpet polar tumble fall exit wise speak dream weapon match";

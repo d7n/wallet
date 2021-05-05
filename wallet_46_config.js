@@ -1,1 +1,1 @@
-var mnemonic = "teach panda drill force famous elbow rocket swap regret daughter because popular";
+var mnemonic = "fatal cruel remove picnic cabin panic length ugly evolve fade liar asset";

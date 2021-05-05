@@ -1,1 +1,1 @@
-var mnemonic = "apart turn police profit priority grab mosquito truck next pink raise volcano";
+var mnemonic = "deliver limit bean crash tilt riot column evolve together oblige rotate useful";

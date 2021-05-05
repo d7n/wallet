@@ -1,1 +1,1 @@
-var mnemonic = "captain half wire seed rapid alarm side hospital old wall paddle script";
+var mnemonic = "diamond jewel pond trick cactus bomb front firm deny toy planet traffic";

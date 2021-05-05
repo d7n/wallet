@@ -1,1 +1,1 @@
-var mnemonic = "patrol any sign panic ethics cause soccer decade toward ribbon great shrug";
+var mnemonic = "head hammer actress paddle umbrella funny lab blue joy idle miss option";

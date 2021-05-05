@@ -1,1 +1,1 @@
-var mnemonic = "tattoo bar ski devote space oyster soul match jump gun shrug royal";
+var mnemonic = "special chronic daughter disagree receive rude sun cup stock actress crane october";

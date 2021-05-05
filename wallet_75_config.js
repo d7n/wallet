@@ -1,1 +1,1 @@
-var mnemonic = "tumble fever tobacco gift copper can piece dice print sentence case dog";
+var mnemonic = "twice turn penalty noise proof artist process wrap steel end virus bean";
