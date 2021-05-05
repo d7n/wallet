@@ -1,1 +1,1 @@
-var mnemonic = "super umbrella royal foam unaware toe one harvest crunch visa evidence gallery";
+var mnemonic = "better intact receive pulp swap tide clinic fluid party excuse walnut supreme";

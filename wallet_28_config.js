@@ -1,1 +1,1 @@
-var mnemonic = "chat sniff dog render situate sail awesome assume supply choice sibling rib";
+var mnemonic = "game mad kitchen doll unhappy actress deputy swing mystery remain flavor void";

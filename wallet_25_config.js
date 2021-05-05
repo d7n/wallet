@@ -1,1 +1,1 @@
-var mnemonic = "proud clinic tide toward wet wine yard reopen maple effort party leopard";
+var mnemonic = "skate kite scale club chicken volcano damp evoke cart private label comfort";

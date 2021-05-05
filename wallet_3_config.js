@@ -1,1 +1,1 @@
-var mnemonic = "sound orchard whisper awful elevator liberty egg junior change proud moon stairs";
+var mnemonic = "rebuild unusual antenna cement summer insect sketch promote all number budget exchange";

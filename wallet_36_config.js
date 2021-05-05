@@ -1,1 +1,1 @@
-var mnemonic = "real race floor explain blush wonder drink idea agent nation report family";
+var mnemonic = "bulb hat disorder lock smoke field assume ask thrive next sniff kitten";

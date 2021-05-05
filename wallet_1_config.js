@@ -1,1 +1,1 @@
-var mnemonic = "crack slight age essay spin match shed relax amateur record deposit absorb";
+var mnemonic = "jealous addict envelope undo burger common anxiety fashion also hundred neutral float";

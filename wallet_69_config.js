@@ -1,1 +1,1 @@
-var mnemonic = "annual loop screen aspect run fame rural obvious gap gentle giraffe winter";
+var mnemonic = "output absorb tennis reopen force message use treat aspect also possible divorce";

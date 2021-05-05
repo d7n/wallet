@@ -1,1 +1,1 @@
-var mnemonic = "spoon travel edge shrug urge warm foam nuclear upset pattern flock hat";
+var mnemonic = "liberty like frame liberty tray turtle dry accident boost because canal churn";

@@ -1,1 +1,1 @@
-var mnemonic = "fetch harvest better raw fantasy sheriff cave ranch pond smile reward ignore";
+var mnemonic = "girl blood pony exile reward runway nothing toward pen govern carbon viable";

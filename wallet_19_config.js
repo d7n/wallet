@@ -1,1 +1,1 @@
-var mnemonic = "hand crunch rib flavor grunt wonder direct raise garage setup business unit";
+var mnemonic = "sunset dignity thrive quarter tail silent donkey blanket candy deposit defy apple";

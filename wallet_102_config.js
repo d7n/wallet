@@ -1,1 +1,1 @@
-var mnemonic = "balance simple cushion grid view minor endless blood praise between mixture convince";
+var mnemonic = "cupboard defy sheriff wrist thrive mistake number shock nature artwork marble trick";

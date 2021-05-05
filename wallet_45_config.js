@@ -1,1 +1,1 @@
-var mnemonic = "culture dilemma pattern young phone regular drum afford castle vacuum visit strike";
+var mnemonic = "income differ know imitate chicken gadget rate canoe sugar picnic certain unit";

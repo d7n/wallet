@@ -1,1 +1,1 @@
-var mnemonic = "drift amused indicate blush spring cart flat weather fan devote city vapor";
+var mnemonic = "lend busy brick pupil impose section punch stay parent habit effort cancel";

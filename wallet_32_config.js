@@ -1,1 +1,1 @@
-var mnemonic = "attract critic slice blade book correct cart fat invest laundry eternal inflict";
+var mnemonic = "panic small suspect donor echo laptop believe couch tell supreme method come";

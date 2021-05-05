@@ -1,1 +1,1 @@
-var mnemonic = "weather wedding good mom forward popular recipe physical amazing fringe dwarf antenna";
+var mnemonic = "hammer wrap host act poverty interest coach tree consider music estate maid";

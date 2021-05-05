@@ -1,1 +1,1 @@
-var mnemonic = "cook feature choose wish bubble protect right utility fitness brown other volume";
+var mnemonic = "roast cement pitch output parrot rubber bright ride awful focus damp draft";

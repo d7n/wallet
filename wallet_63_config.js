@@ -1,1 +1,1 @@
-var mnemonic = "cupboard hidden paddle ritual guess crowd about logic object nerve kind lab";
+var mnemonic = "toast summer night potato hill sea twenty wrestle undo carpet mass amused";

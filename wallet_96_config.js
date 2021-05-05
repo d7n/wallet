@@ -1,1 +1,1 @@
-var mnemonic = "void dash stuff crazy situate absent analyst law shine outside rebuild own";
+var mnemonic = "drive exclude quarter when spot cabin narrow fruit must must split six";

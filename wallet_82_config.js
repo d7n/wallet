@@ -1,1 +1,1 @@
-var mnemonic = "plug defense agent search obvious culture ribbon intact combine chimney dad jewel";
+var mnemonic = "enable sick choose stove evil exotic pride pilot gold endless virtual praise";

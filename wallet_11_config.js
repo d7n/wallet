@@ -1,1 +1,1 @@
-var mnemonic = "picnic dry awake since useful escape acid ordinary cherry bus reduce weasel";
+var mnemonic = "obey question tiger afraid corn mind skull fine suffer dish scrub repair";

@@ -1,1 +1,1 @@
-var mnemonic = "segment month crisp fatal cancel photo vocal prevent chimney fossil buffalo swift";
+var mnemonic = "enemy accuse parent seminar nature usage school verb story trust twenty mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "valve flight ethics general tattoo fish raise describe penalty clerk churn hurdle";
+var mnemonic = "fringe rocket body update trigger custom display bulk laugh gloom what laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon celery salad injury empty kangaroo shiver sing desert lonely mule mix";
+var mnemonic = "when remind obey obvious soccer avoid purity curtain matrix ring negative speak";

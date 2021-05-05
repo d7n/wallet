@@ -1,1 +1,1 @@
-var mnemonic = "body auto until service bar unaware hospital spread leaf dream drift middle";
+var mnemonic = "cheese fee machine twin follow monkey beef piece elder marriage jaguar tomato";

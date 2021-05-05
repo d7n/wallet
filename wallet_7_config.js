@@ -1,1 +1,1 @@
-var mnemonic = "neutral dish thumb give lend slogan solid iron wrap survey aim thank";
+var mnemonic = "myself daughter depth lounge athlete rally fee size arrest fever soldier there";

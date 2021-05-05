@@ -1,1 +1,1 @@
-var mnemonic = "voice denial fruit occur shrug bounce shoe mind rice invest orchard similar";
+var mnemonic = "civil mixed render fruit ask share brick rent hungry risk maze vanish";

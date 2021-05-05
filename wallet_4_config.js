@@ -1,1 +1,1 @@
-var mnemonic = "upset slam fashion host used august tomorrow labor sudden north salmon claim";
+var mnemonic = "explain network loan render fox crime cloth camp warm frost sunny wash";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle primary arrest can cruel item hazard poverty hand poverty indicate business";
+var mnemonic = "ignore satoshi base between deposit crisp memory south error exit input artwork";

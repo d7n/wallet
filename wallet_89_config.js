@@ -1,1 +1,1 @@
-var mnemonic = "toast sausage noise pilot junior juice remember bachelor common rack real mountain";
+var mnemonic = "bullet hello luggage october galaxy banner cigar leader pony almost bunker merit";

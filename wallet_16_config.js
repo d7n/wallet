@@ -1,1 +1,1 @@
-var mnemonic = "orient spatial clump guard usual swallow soldier present prefer escape guard analyst";
+var mnemonic = "gold soda test inherit rare prevent meadow you picnic exhibit argue hurdle";

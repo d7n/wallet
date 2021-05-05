@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit reveal enroll alien solution decide anger poet twelve air marriage ketchup";
+var mnemonic = "equal water club avocado race any gate physical hover system find movie";

@@ -1,1 +1,1 @@
-var mnemonic = "divorce february join rocket aerobic skill embrace favorite wear feed century diet";
+var mnemonic = "grow hold pipe drama plug opinion tonight chicken rug better child smoke";

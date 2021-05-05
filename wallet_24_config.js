@@ -1,1 +1,1 @@
-var mnemonic = "deposit prevent spirit agree voice ride recall runway holiday dawn oyster medal";
+var mnemonic = "divert zoo police almost parrot place can utility embody property turkey zebra";

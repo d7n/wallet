@@ -1,1 +1,1 @@
-var mnemonic = "guilt winter nothing wrap gesture biology say burger wink alley dinosaur drift";
+var mnemonic = "boss drum obtain method pill palm abuse volume layer humor theory copper";

@@ -1,1 +1,1 @@
-var mnemonic = "slot bus orient gaze you eagle tomorrow artefact wish monster poem draw";
+var mnemonic = "minimum can mention section stove anger verify noise medal patrol tragic breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion lyrics sponsor clutch rapid decade lunar outer tired train option pretty";
+var mnemonic = "syrup oak demand mango blame thought iron panda angry ship retire crazy";

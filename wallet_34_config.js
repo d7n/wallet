@@ -1,1 +1,1 @@
-var mnemonic = "company alley drip mom upset more social jealous flash dinosaur welcome smoke";
+var mnemonic = "hen erode present rose ancient foster detect note stove repeat maximum draft";

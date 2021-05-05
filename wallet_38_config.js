@@ -1,1 +1,1 @@
-var mnemonic = "various excite tiny noodle fetch easy cabbage antenna aerobic rare lift armor";
+var mnemonic = "nation barrel wife logic pool summer decade crack yard north asset analyst";

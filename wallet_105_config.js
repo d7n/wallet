@@ -1,1 +1,1 @@
-var mnemonic = "metal seminar forum fence rebuild shallow bubble wheat luggage library girl glove";
+var mnemonic = "canvas video rare sheriff embody body loop beauty away win design resist";

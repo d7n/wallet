@@ -1,1 +1,1 @@
-var mnemonic = "youth brother fire news excuse milk evidence humor reunion industry country magic";
+var mnemonic = "clarify bounce doctor pull industry unit flush assault snap tuition comfort net";

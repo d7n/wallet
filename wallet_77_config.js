@@ -1,1 +1,1 @@
-var mnemonic = "there explain music comfort produce badge bullet they boring great property need";
+var mnemonic = "marine board math woman obscure key evil wait correct logic enhance asset";

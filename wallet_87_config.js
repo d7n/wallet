@@ -1,1 +1,1 @@
-var mnemonic = "mammal gun often dwarf upgrade mango pass toddler weapon fuel harvest creek";
+var mnemonic = "sing fashion process pool pumpkin inject report skill elevator sponsor skull energy";

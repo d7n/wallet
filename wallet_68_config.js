@@ -1,1 +1,1 @@
-var mnemonic = "depth hundred emerge grid dutch inject mushroom blur bargain fragile genius weekend";
+var mnemonic = "breeze romance beauty tree initial south across want physical parrot wet project";

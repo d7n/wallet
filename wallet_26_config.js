@@ -1,1 +1,1 @@
-var mnemonic = "easily axis meat summer volcano lamp bid merry rookie almost ill pioneer";
+var mnemonic = "notable inform hunt someone victory require bean weather trouble manage useless elite";

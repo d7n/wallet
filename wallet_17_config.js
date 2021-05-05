@@ -1,1 +1,1 @@
-var mnemonic = "warrior orphan today burst floor program frog become cat powder cluster wrestle";
+var mnemonic = "economy team type walnut engine flip energy tide eyebrow immune gun blouse";

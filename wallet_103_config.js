@@ -1,1 +1,1 @@
-var mnemonic = "cloud goddess unknown amount tide wreck modify table crew potato tongue goat";
+var mnemonic = "milk digital save museum supply super account also rally argue ring talent";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding taxi review bleak garment viable chimney local kingdom uncle gap inspire";
+var mnemonic = "accuse company also scan usage idle fever cry reduce already water judge";

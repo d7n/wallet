@@ -1,1 +1,1 @@
-var mnemonic = "sustain nominee sweet traffic enhance remove annual attitude coconut occur pattern east";
+var mnemonic = "analyst arm near crystal critic ball sauce lunar picnic cushion estate broom";

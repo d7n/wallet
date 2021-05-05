@@ -1,1 +1,1 @@
-var mnemonic = "cruel spring want seek broken country crew stage vast business blossom foot";
+var mnemonic = "quick wing lazy legend autumn gospel will define isolate age squirrel entire";

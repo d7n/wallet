@@ -1,1 +1,1 @@
-var mnemonic = "together ethics early erupt salon radar distance model cruise can stone unlock";
+var mnemonic = "food spray danger party between assist theory twice another panda discover ill";

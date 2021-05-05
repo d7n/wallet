@@ -1,1 +1,1 @@
-var mnemonic = "crew wedding super salad clarify wine win ethics carry cupboard whisper wagon";
+var mnemonic = "horse stomach poverty purity connect quick amount lawsuit notable mimic hamster draft";

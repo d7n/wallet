@@ -1,1 +1,1 @@
-var mnemonic = "include scan transfer fog outdoor sword misery charge retire shed slush boy";
+var mnemonic = "lobster clarify lunch nasty faith online improve gas prosper dumb violin limit";

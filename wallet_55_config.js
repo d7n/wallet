@@ -1,1 +1,1 @@
-var mnemonic = "wise mirror betray resemble cat february habit science bridge frame seat grant";
+var mnemonic = "business paddle possible early garbage lunar buddy proof spot couch hungry flat";

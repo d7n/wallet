@@ -1,1 +1,1 @@
-var mnemonic = "between slight mountain dutch elephant grass pull where earn notable come pelican";
+var mnemonic = "narrow safe roast play best virus fit oil merit motion limit robust";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune account depend carbon inform bundle current tuna utility better obtain because";
+var mnemonic = "daughter radio afford mix garment material defense atom cable hour tag unhappy";

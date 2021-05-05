@@ -1,1 +1,1 @@
-var mnemonic = "tail rubber cabin interest resource august hawk coil frozen wasp doll author";
+var mnemonic = "advance speak bird gallery car hope chef mixed auto aunt spend lava";

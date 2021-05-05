@@ -1,1 +1,1 @@
-var mnemonic = "caution wheel current turtle matter drip clarify genre blast hunt almost gossip";
+var mnemonic = "lab jacket jaguar weather cliff grain jar bleak copy bundle ahead movie";

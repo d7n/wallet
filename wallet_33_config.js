@@ -1,1 +1,1 @@
-var mnemonic = "dumb afraid jungle text case report fee dawn broken noise mercy certain";
+var mnemonic = "little lawn staff search kitchen quit woman sleep robust energy high strategy";

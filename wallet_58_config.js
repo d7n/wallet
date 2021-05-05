@@ -1,1 +1,1 @@
-var mnemonic = "teach atom reopen glare afford bind almost method skin dress thumb guide";
+var mnemonic = "field pony nation hole video slice mutual advance example kind pipe fiction";

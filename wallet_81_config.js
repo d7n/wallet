@@ -1,1 +1,1 @@
-var mnemonic = "cheap east olympic army prize buffalo execute bronze labor blossom bounce cloud";
+var mnemonic = "all surprise bundle actress become boy often cause wine sentence park maximum";

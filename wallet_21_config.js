@@ -1,1 +1,1 @@
-var mnemonic = "frequent equip lunch nothing phrase mass battle liquid auto bridge afraid fat";
+var mnemonic = "boost horse raccoon other buyer garment hand where flavor future lemon behave";

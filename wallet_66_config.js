@@ -1,1 +1,1 @@
-var mnemonic = "trade assume giggle upper wagon ocean owner grid abstract welcome twin awake";
+var mnemonic = "soccer more bachelor occur section ladder system medal fit alter usage cliff";

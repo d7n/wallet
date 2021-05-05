@@ -1,1 +1,1 @@
-var mnemonic = "culture catalog vocal now valid antique infant power member vital arena confirm";
+var mnemonic = "replace lend mom wagon profit cloud elevator weekend moment equip female before";

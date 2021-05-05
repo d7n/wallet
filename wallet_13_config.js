@@ -1,1 +1,1 @@
-var mnemonic = "off fuel pudding hair robot hair lock arena hill nuclear wrong prosper";
+var mnemonic = "firm arrest orbit relax spoil ball topple retire orient gown inherit ugly";

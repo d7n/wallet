@@ -1,1 +1,1 @@
-var mnemonic = "brain rare leisure theme rhythm mosquito tennis resemble summer legal daughter scale";
+var mnemonic = "advance stem make dress raise economy fashion pencil ship moon umbrella naive";

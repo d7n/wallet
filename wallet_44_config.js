@@ -1,1 +1,1 @@
-var mnemonic = "sock orient silver satisfy tail sweet volume run eager near all quiz";
+var mnemonic = "alarm venue layer action divide enhance room comic mind reform lava business";

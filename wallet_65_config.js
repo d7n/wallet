@@ -1,1 +1,1 @@
-var mnemonic = "festival useful crazy about later marriage width glare train impose oval ghost";
+var mnemonic = "between tiny segment flash one scatter inherit basket february soap chapter fancy";

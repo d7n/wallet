@@ -1,1 +1,1 @@
-var mnemonic = "wink raise demise breeze obey repair gallery profit top limit popular virus";
+var mnemonic = "mammal buyer injury planet credit valid all trash document quality wing inhale";

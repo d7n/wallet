@@ -1,1 +1,1 @@
-var mnemonic = "fan song crazy night april extend exchange offer make spawn strong priority";
+var mnemonic = "tuna project reform reveal accuse card fox accuse whale hover elegant base";

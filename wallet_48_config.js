@@ -1,1 +1,1 @@
-var mnemonic = "fog balcony coil bright medal couple common kiss lava income face draft";
+var mnemonic = "toast author fold install silent grab tennis crumble book mixed depth size";

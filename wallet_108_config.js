@@ -1,1 +1,1 @@
-var mnemonic = "modify pear flush trust cram general sister soft delay crime vocal sustain";
+var mnemonic = "draft intact raise gas coffee limb boat gasp vintage below fee flame";

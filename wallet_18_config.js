@@ -1,1 +1,1 @@
-var mnemonic = "dial magic much monster beef day hill pave inject pistol wise provide";
+var mnemonic = "guilt prefer atom erode street sweet jungle marriage taxi atom direct brain";

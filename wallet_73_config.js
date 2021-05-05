@@ -1,1 +1,1 @@
-var mnemonic = "tackle zebra hello glory rail palace forest human deposit lounge royal fish";
+var mnemonic = "sock render math hammer delay victory bless wing weird gloom spirit museum";

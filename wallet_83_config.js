@@ -1,1 +1,1 @@
-var mnemonic = "laptop basic flash orange bridge often before grow balcony payment position ecology";
+var mnemonic = "human release host transfer hungry there brisk fever bridge shallow draft avocado";

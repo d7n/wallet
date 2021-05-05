@@ -1,1 +1,1 @@
-var mnemonic = "jacket nation device start shell ghost tomorrow wrong surround shell say swarm";
+var mnemonic = "motion differ miracle confirm token cotton table farm wise clarify arena region";

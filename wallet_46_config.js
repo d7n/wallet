@@ -1,1 +1,1 @@
-var mnemonic = "story magic giggle embrace often valid grass engage focus armor unveil cliff";
+var mnemonic = "town exist example cousin jaguar sort judge weapon decade garment busy chat";

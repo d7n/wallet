@@ -1,1 +1,1 @@
-var mnemonic = "explain blind divorce crop hunt hood predict meat tape mushroom iron civil";
+var mnemonic = "tail deny fluid ordinary quantum any rain object depth acquire great code";

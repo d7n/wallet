@@ -1,1 +1,1 @@
-var mnemonic = "sugar case course topic unfold match hold squirrel gap session raise cattle";
+var mnemonic = "spot calm luxury tunnel minute enlist loud breeze trim mutual tonight regret";

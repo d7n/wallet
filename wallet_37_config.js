@@ -1,1 +1,1 @@
-var mnemonic = "coil banner night census anchor cherry toe junior casual wish enact claw";
+var mnemonic = "foam memory cattle elevator wink want yard wife goose welcome oval table";

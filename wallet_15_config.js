@@ -1,1 +1,1 @@
-var mnemonic = "swim invite busy awkward what right real horse census snack link doll";
+var mnemonic = "margin cover faith suffer spray pretty punch old surprise unique access put";

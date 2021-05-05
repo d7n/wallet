@@ -1,1 +1,1 @@
-var mnemonic = "horror analyst talk skill kidney diamond use team monster bind denial round";
+var mnemonic = "invite donkey pattern mask torch certain pioneer other report head sunny burden";

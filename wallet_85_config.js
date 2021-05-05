@@ -1,1 +1,1 @@
-var mnemonic = "member elite disagree include cupboard wrestle switch bird daughter engage swear project";
+var mnemonic = "year ivory ancient muscle slush damage resource trial pioneer victory disorder bike";

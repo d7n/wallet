@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin toss miracle magnet beauty brass control impulse imitate awkward float bitter";
+var mnemonic = "addict security rally quick address eagle either still select divert memory finger";

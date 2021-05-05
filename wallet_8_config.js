@@ -1,1 +1,1 @@
-var mnemonic = "worth doll side enter truck can prosper fork awful panther sunny consider";
+var mnemonic = "force baby bicycle enroll silver avocado reveal jazz frown innocent boring sibling";

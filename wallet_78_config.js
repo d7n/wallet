@@ -1,1 +1,1 @@
-var mnemonic = "correct pair toe champion nerve tilt card teach material surround network rookie";
+var mnemonic = "time sleep ridge prison order better venture industry insane collect balance child";

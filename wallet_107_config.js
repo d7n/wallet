@@ -1,1 +1,1 @@
-var mnemonic = "clean reform sphere excuse inject kiss apart liberty couple motion sadness hawk";
+var mnemonic = "lunar exile shed business butter best custom foot inherit hill online debate";

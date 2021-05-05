@@ -1,1 +1,1 @@
-var mnemonic = "owner almost limit story gospel sniff night moon sleep strong monster grass";
+var mnemonic = "wealth royal umbrella drip labor search broom warm join aim catalog error";
