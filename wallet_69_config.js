@@ -1,1 +1,1 @@
-var mnemonic = "monitor trip alter sport tray lonely goat broom dial record kidney wood";
+var mnemonic = "balance update distance marble cube amount layer emotion iron frown cluster patient";

@@ -1,1 +1,1 @@
-var mnemonic = "glance slot method clay orphan apple sauce cancel fun merit wink accuse";
+var mnemonic = "have trial fabric immense solution north change essence jacket gadget garlic cook";

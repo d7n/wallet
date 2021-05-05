@@ -1,1 +1,1 @@
-var mnemonic = "morning seminar table fancy main kind benefit power say ill bag nephew";
+var mnemonic = "learn cannon floor glove trick loud olympic story direct carpet install matrix";

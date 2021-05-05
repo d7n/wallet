@@ -1,1 +1,1 @@
-var mnemonic = "typical identify aware clerk rapid story cram rent submit sock tape radio";
+var mnemonic = "penalty hill aunt comic sea captain random keep shrug alcohol theme already";

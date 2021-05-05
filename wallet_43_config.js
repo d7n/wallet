@@ -1,1 +1,1 @@
-var mnemonic = "awesome light scene emotion strong save robust balance drift budget south short";
+var mnemonic = "oyster sorry assume renew worth riot leave clarify border view poem improve";

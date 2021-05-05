@@ -1,1 +1,1 @@
-var mnemonic = "void average idea whip reunion tooth come program boy swing fine obscure";
+var mnemonic = "add bag civil clever broom valid police major zoo fortune business muffin";

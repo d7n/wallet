@@ -1,1 +1,1 @@
-var mnemonic = "slow fame fan reflect clutch raise goat admit away put fury connect";
+var mnemonic = "subject verb sibling recycle reduce wire amazing sadness unusual country process suspect";

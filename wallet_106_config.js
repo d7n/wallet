@@ -1,1 +1,1 @@
-var mnemonic = "despair city achieve vital apart addict point tumble symbol actual dwarf else";
+var mnemonic = "average despair soccer hill pistol beach pepper slight public mammal tray hour";

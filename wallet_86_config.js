@@ -1,1 +1,1 @@
-var mnemonic = "camp common tomorrow example rocket foster behind online spoon snap route ritual";
+var mnemonic = "arch wild invest wrestle balance effort crack impose leaf hospital eight scan";

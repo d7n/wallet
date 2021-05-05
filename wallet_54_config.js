@@ -1,1 +1,1 @@
-var mnemonic = "faculty pretty supreme east practice nothing eight symbol bounce awful green decade";
+var mnemonic = "garlic dynamic orphan debate isolate relief alone alpha wing fortune brick mouse";

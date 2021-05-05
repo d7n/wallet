@@ -1,1 +1,1 @@
-var mnemonic = "deer until onion pepper focus flock sound august scale board stuff patrol";
+var mnemonic = "drink era brush skate pilot custom exotic manage hair before elephant machine";

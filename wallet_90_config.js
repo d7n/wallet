@@ -1,1 +1,1 @@
-var mnemonic = "flat employ update base swim ignore announce swallow idle supply minute long";
+var mnemonic = "cluster shop brother invest mom squeeze tomato crystal bird bench unit imitate";

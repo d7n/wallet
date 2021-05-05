@@ -1,1 +1,1 @@
-var mnemonic = "deer regular message grain until time need year theme stem train keep";
+var mnemonic = "simple liar pudding aim swear ring item scare minimum task exotic rack";

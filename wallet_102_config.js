@@ -1,1 +1,1 @@
-var mnemonic = "honey boost series never wealth yellow another board learn soccer slot doll";
+var mnemonic = "burst type sign thought accuse also survey kind twelve run marine strike";

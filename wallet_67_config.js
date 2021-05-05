@@ -1,1 +1,1 @@
-var mnemonic = "sudden attract whale early stumble jeans fee enjoy winter museum biology sort";
+var mnemonic = "meat mouse usual renew vivid kiwi stairs finish polar city width market";

@@ -1,1 +1,1 @@
-var mnemonic = "rude online coil lucky scrap yard race senior disagree dad whip toward";
+var mnemonic = "execute walk bronze build survey regular country style smooth clever under code";

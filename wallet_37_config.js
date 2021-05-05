@@ -1,1 +1,1 @@
-var mnemonic = "staff moment virus assume snow warrior success sausage swap theme use drill";
+var mnemonic = "dad rebuild busy april moon scout bonus mean duty property digital detect";

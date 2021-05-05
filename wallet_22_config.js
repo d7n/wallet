@@ -1,1 +1,1 @@
-var mnemonic = "long heart learn equip defy enter humor believe love senior grow glass";
+var mnemonic = "ride excess whale fox alien fluid swing maximum practice thunder pink connect";

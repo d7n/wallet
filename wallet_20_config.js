@@ -1,1 +1,1 @@
-var mnemonic = "police angle wine melt waste quality inhale deposit athlete grass oppose control";
+var mnemonic = "diagram cherry call swarm drastic acoustic fancy eternal cinnamon silk sweet catch";

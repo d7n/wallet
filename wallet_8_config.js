@@ -1,1 +1,1 @@
-var mnemonic = "wagon enter hour stool stay rely foam marine unit image useless front";
+var mnemonic = "solution boat mosquito horse humble afford right ring follow copy again smart";

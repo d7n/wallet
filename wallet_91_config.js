@@ -1,1 +1,1 @@
-var mnemonic = "embody dial entire retire check skirt lonely good enough memory amateur cupboard";
+var mnemonic = "knock circle candy convince acid enhance share unfair paddle help laundry river";

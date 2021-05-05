@@ -1,1 +1,1 @@
-var mnemonic = "merit bonus bright sure cool lamp story suit valve curve keen dawn";
+var mnemonic = "bamboo divert assist oyster nominee system cricket enroll bunker kite attend steel";

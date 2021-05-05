@@ -1,1 +1,1 @@
-var mnemonic = "leopard sting animal trumpet piano wing short problem lobster gossip shock teach";
+var mnemonic = "pretty student minor mercy exchange traffic hundred runway record unable erupt desk";

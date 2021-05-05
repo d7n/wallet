@@ -1,1 +1,1 @@
-var mnemonic = "device swear height chimney apple together garbage trim brave under uncle rent";
+var mnemonic = "enable bomb salt turn absorb motion torch cost burst horn into inch";

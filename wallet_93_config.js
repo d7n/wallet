@@ -1,1 +1,1 @@
-var mnemonic = "square deer emotion real reduce cool sustain potato cycle tilt setup wide";
+var mnemonic = "muscle treat turn manage armed mandate napkin element alone kitten torch pill";

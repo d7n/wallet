@@ -1,1 +1,1 @@
-var mnemonic = "flip skill town force diesel spice crisp dial census fade army decorate";
+var mnemonic = "bone one spatial easy meadow moral relax best describe fantasy prize mail";

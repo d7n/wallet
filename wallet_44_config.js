@@ -1,1 +1,1 @@
-var mnemonic = "hen slight exit resemble victory caution energy route swarm pioneer decrease sign";
+var mnemonic = "accuse curious lobster banner reveal dizzy gas drop alien erode exclude erode";

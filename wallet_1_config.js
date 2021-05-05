@@ -1,1 +1,1 @@
-var mnemonic = "whale stamp bring select hard lunch three episode tank vapor useless basic";
+var mnemonic = "hub transfer erosion easily issue merge puzzle run perfect butter dog faint";

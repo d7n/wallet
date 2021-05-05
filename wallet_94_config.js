@@ -1,1 +1,1 @@
-var mnemonic = "mix guilt spring body depart cloud result month initial arrow voyage physical";
+var mnemonic = "royal pledge shed call slight either today mail card immense comic dynamic";

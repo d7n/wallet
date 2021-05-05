@@ -1,1 +1,1 @@
-var mnemonic = "popular face topple theory garbage mistake slender airport barrel journey deny riot";
+var mnemonic = "west arrest crawl symptom guess turkey erupt ridge cruise shuffle runway force";

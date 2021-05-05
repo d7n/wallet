@@ -1,1 +1,1 @@
-var mnemonic = "crane remember spend thumb begin pink member hawk degree idle fruit issue";
+var mnemonic = "blind action canyon economy critic warm bring inflict need daughter relief master";

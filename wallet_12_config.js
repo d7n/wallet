@@ -1,1 +1,1 @@
-var mnemonic = "pupil minor attack address jeans enforce work reform advice barrel select smart";
+var mnemonic = "timber submit visa ankle spare broken then demand craft carry adapt tube";

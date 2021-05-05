@@ -1,1 +1,1 @@
-var mnemonic = "smile hammer forward erase kangaroo trust stuff item garlic gold volume always";
+var mnemonic = "portion orchard rib ginger error kidney disease network venture sail rigid century";

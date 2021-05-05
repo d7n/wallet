@@ -1,1 +1,1 @@
-var mnemonic = "dial canvas farm hair diary skull pudding deny hello ribbon pelican injury";
+var mnemonic = "wedding garbage tired there offer retreat worth law tail month interest search";

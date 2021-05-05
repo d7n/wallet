@@ -1,1 +1,1 @@
-var mnemonic = "awake pave smoke end soul settle phrase chimney system exact syrup cactus";
+var mnemonic = "receive index height twist duty toilet sword victory protect corn tip supreme";

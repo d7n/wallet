@@ -1,1 +1,1 @@
-var mnemonic = "govern grow already elder off live erosion convince twenty pig dream acquire";
+var mnemonic = "trim park crew idea kitchen tumble embody tenant flavor acoustic can comfort";

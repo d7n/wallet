@@ -1,1 +1,1 @@
-var mnemonic = "tank bargain ostrich unknown they install crazy orange bronze push armor enter";
+var mnemonic = "attitude evil stage salute fence idle deer tuition sea ski shrug physical";

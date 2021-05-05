@@ -1,1 +1,1 @@
-var mnemonic = "topple sight return long common track clean major close budget leave whip";
+var mnemonic = "protect trap voice choose book hold diagram key random review artefact ancient";

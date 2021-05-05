@@ -1,1 +1,1 @@
-var mnemonic = "stomach start note kid meadow entire annual bullet answer post wedding clarify";
+var mnemonic = "cluster invest doll comfort nasty auction index angry depth horn home almost";

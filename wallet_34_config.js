@@ -1,1 +1,1 @@
-var mnemonic = "degree document toward aunt position shed oyster execute raw vapor collect jealous";
+var mnemonic = "protect high journey degree equal dizzy pave nominee hint casual dune tragic";

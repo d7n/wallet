@@ -1,1 +1,1 @@
-var mnemonic = "video mixed wreck system impose teach tonight flush frost size bus episode";
+var mnemonic = "normal comfort unable vintage giggle flush still feed knee boring napkin crazy";

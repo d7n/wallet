@@ -1,1 +1,1 @@
-var mnemonic = "hip coin hole bicycle crunch frown page fix coffee image potato talk";
+var mnemonic = "build seed jar siege broccoli faculty debris slush trip airport lens flag";

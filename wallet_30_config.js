@@ -1,1 +1,1 @@
-var mnemonic = "despair flag into hospital word text broccoli nest provide industry muscle garden";
+var mnemonic = "home spider lift tail foam nephew mandate aware pool venue disagree bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "setup buzz tornado echo private mammal sell street manual speed barely crunch";
+var mnemonic = "quick receive loan repeat east fix expire trial later uncle donor actress";

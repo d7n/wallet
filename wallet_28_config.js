@@ -1,1 +1,1 @@
-var mnemonic = "expose absorb wrap square session will jelly demise thing during liquid key";
+var mnemonic = "bundle clay review angle whisper throw screen cube install fox change quote";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent glad gloom camera acid original rude core science arm deal math";
+var mnemonic = "burger argue carry way gown fringe illegal cube scout milk pudding admit";

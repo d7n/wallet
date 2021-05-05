@@ -1,1 +1,1 @@
-var mnemonic = "knife bar next dial goddess harbor artefact save north recall song endless";
+var mnemonic = "utility output vapor wear dial black humble cabin gym quiz rain tape";

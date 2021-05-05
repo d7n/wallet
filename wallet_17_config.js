@@ -1,1 +1,1 @@
-var mnemonic = "surprise phone decide load barrel dinner zero meadow frost drink wrist retreat";
+var mnemonic = "vital vessel chalk coral laugh page describe always major habit course coffee";

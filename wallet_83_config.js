@@ -1,1 +1,1 @@
-var mnemonic = "board worry essay habit pioneer ramp axis tank can series unfair draw";
+var mnemonic = "recycle roast love pistol excite dentist scene artefact trial donkey voyage two";

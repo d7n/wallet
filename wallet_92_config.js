@@ -1,1 +1,1 @@
-var mnemonic = "squirrel alley term sorry tuition demise announce mix prevent abandon bomb aim";
+var mnemonic = "slow hollow trouble discover cook casual object social crumble segment abstract onion";

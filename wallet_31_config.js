@@ -1,1 +1,1 @@
-var mnemonic = "kite share walnut question plastic ghost mansion economy vessel piece season lyrics";
+var mnemonic = "guess rude slight fine charge save master remind token tuna drill true";

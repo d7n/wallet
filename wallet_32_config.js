@@ -1,1 +1,1 @@
-var mnemonic = "box little swift bunker toward scan soup fruit divert celery trade spawn";
+var mnemonic = "feed debris pass coin furnace screen combine tomato salt reveal enlist inside";

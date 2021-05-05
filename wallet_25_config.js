@@ -1,1 +1,1 @@
-var mnemonic = "repeat tag tourist tent circle fury torch gym broken aerobic skull kiss";
+var mnemonic = "subject blood valley execute pumpkin client drama hospital armed outer aim trap";

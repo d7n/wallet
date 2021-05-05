@@ -1,1 +1,1 @@
-var mnemonic = "derive cloth brick unknown virus plug spare dance spider letter undo mandate";
+var mnemonic = "coconut rigid sheriff diet concert admit scorpion message gate surge clever topic";

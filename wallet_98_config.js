@@ -1,1 +1,1 @@
-var mnemonic = "mesh width avoid alley media six assume public nice pair stadium matrix";
+var mnemonic = "neck deposit flip lab expose twin arrest crime cake patient coyote catalog";

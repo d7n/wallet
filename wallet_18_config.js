@@ -1,1 +1,1 @@
-var mnemonic = "atom candy theory siren subject leader confirm immense split hotel plunge such";
+var mnemonic = "give borrow mobile harbor there north fine original video dish fit pigeon";

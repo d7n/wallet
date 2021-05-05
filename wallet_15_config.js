@@ -1,1 +1,1 @@
-var mnemonic = "cannon mystery sketch diet submit surge sudden cousin pause quiz jacket icon";
+var mnemonic = "hunt danger scan flee coach choice lion horn moral bonus kangaroo barrel";

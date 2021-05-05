@@ -1,1 +1,1 @@
-var mnemonic = "dignity unveil nation lion oven gravity bridge forum mutual deer west knife";
+var mnemonic = "vessel armor group actress unlock equip still ship arch country dawn toward";

@@ -1,1 +1,1 @@
-var mnemonic = "diet actress run awful acquire zoo faculty abstract creek situate post bike";
+var mnemonic = "sound almost glad glass small same level produce tank caution execute gentle";

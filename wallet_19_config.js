@@ -1,1 +1,1 @@
-var mnemonic = "adult pole october fiction laundry tornado nasty share jelly song grit parent";
+var mnemonic = "update escape leg fury trim burden cabin legal card mail mandate wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "scout barrel enhance panel fiber flat peasant affair apple divide concert wide";
+var mnemonic = "found hen upon tuna pencil spoon holiday tissue tilt match matrix ranch";

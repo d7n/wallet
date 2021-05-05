@@ -1,1 +1,1 @@
-var mnemonic = "ankle concert board program friend prize matrix tower fat expose try option";
+var mnemonic = "wave pilot jump bean vacant love anger car puzzle kingdom globe media";

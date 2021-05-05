@@ -1,1 +1,1 @@
-var mnemonic = "feed void maid benefit hand combine together way below account rain system";
+var mnemonic = "defy series electric ridge school carbon pitch critic leave humble census play";

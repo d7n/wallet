@@ -1,1 +1,1 @@
-var mnemonic = "near agent city settle able laundry unfold fabric tenant buddy story pride";
+var mnemonic = "scout adjust aerobic someone enroll normal end glow obscure blame surge pull";

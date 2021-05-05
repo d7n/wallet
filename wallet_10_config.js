@@ -1,1 +1,1 @@
-var mnemonic = "only brand trophy rose comic mutual impose ordinary tuition resist lonely firm";
+var mnemonic = "aisle glove debris owner mansion slow dial embody bounce fiscal shrimp travel";

@@ -1,1 +1,1 @@
-var mnemonic = "erase sheriff then elevator float crisp royal reunion half improve sphere render";
+var mnemonic = "orange rifle true ranch boss long feed glimpse carbon liquid drum marine";

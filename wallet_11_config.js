@@ -1,1 +1,1 @@
-var mnemonic = "merry ten error glare want coast use normal camp direct start bulb";
+var mnemonic = "glance artwork cry feel bread desk file maple horror impact defense gossip";

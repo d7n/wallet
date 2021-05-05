@@ -1,1 +1,1 @@
-var mnemonic = "general excite grocery lava awful under prefer ocean custom sunny sugar accuse";
+var mnemonic = "excite pluck city decline wheat put chalk lemon rain staff wire save";

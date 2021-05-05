@@ -1,1 +1,1 @@
-var mnemonic = "digital exotic rookie team avocado soldier minute cart panda scare gas arrange";
+var mnemonic = "swear artwork replace cup wife giraffe cat air between civil noise future";

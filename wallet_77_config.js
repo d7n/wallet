@@ -1,1 +1,1 @@
-var mnemonic = "exchange exchange narrow song ship space sunny name rude moment hazard chef";
+var mnemonic = "margin dynamic blast pigeon sock announce broken ask glare sphere leave picnic";

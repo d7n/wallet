@@ -1,1 +1,1 @@
-var mnemonic = "melody clerk alert guide orient turkey time into gain unaware foster dust";
+var mnemonic = "useful inherit arena young space hair fan wrist peace crash because spring";

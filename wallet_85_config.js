@@ -1,1 +1,1 @@
-var mnemonic = "victory nut spread motion sauce forest matrix this disagree seek nothing update";
+var mnemonic = "lamp enroll rebel blouse over fashion hawk decrease vote expand earth detail";

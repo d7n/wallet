@@ -1,1 +1,1 @@
-var mnemonic = "clerk journey stumble guilt spare trash napkin pause comic feature regret carry";
+var mnemonic = "okay flavor swift radio satisfy armor giggle ceiling sleep sock medal piece";

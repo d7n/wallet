@@ -1,1 +1,1 @@
-var mnemonic = "nominee month chief there nerve copy library remind bronze grow program chicken";
+var mnemonic = "recycle bunker pool number swap argue cloth alien crystal car crew veteran";

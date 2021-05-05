@@ -1,1 +1,1 @@
-var mnemonic = "bomb payment input immense ancient inject draw marble fresh slim night wait";
+var mnemonic = "hurt gentle ordinary naive priority rib weasel weather end poet drift matrix";

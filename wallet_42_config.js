@@ -1,1 +1,1 @@
-var mnemonic = "spice bind vivid mask marble vicious float easy monster maximum print fish";
+var mnemonic = "obscure thing custom example trust major equal unaware sauce arrive cloth almost";

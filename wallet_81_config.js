@@ -1,1 +1,1 @@
-var mnemonic = "where pig party goddess deer switch water flush abstract delay force aim";
+var mnemonic = "cement cheap trim spoil drill deer furnace caution fly hurt sleep acid";

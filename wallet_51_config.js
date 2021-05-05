@@ -1,1 +1,1 @@
-var mnemonic = "ladder aware confirm flavor dismiss maple add glove hundred balcony turn want";
+var mnemonic = "amused suspect antenna gun few property safe roast glance dad cannon endless";

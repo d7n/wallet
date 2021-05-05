@@ -1,1 +1,1 @@
-var mnemonic = "whale brisk december brave repeat curve script endorse gain abstract entry amazing";
+var mnemonic = "ready aim farm identify nest section pill dice mercy bachelor credit raw";

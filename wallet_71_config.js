@@ -1,1 +1,1 @@
-var mnemonic = "own spell guitar model day chicken evoke actor rack night dentist river";
+var mnemonic = "shallow shoe accuse wish ahead call normal emotion diagram unit renew cheap";

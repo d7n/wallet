@@ -1,1 +1,1 @@
-var mnemonic = "flock oppose birth hybrid pride supreme prison feature buddy muffin proud limit";
+var mnemonic = "conduct load brain candy square material swear loan civil cargo nut pact";

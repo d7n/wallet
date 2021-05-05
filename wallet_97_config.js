@@ -1,1 +1,1 @@
-var mnemonic = "unique enact luxury guilt defense able fee reveal design stadium twelve news";
+var mnemonic = "company wear rent glow domain loyal erase car boy ghost snow lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze acid tornado exercise picnic taxi rug denial meat say tiny hollow";
+var mnemonic = "future hill account worry industry inherit elbow wide olympic walk network bone";

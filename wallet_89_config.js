@@ -1,1 +1,1 @@
-var mnemonic = "deal twist situate latin alley appear author domain noodle grace sail novel";
+var mnemonic = "amateur follow tired civil humble disorder lucky ancient visa miracle project speak";

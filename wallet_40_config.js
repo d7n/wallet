@@ -1,1 +1,1 @@
-var mnemonic = "essay quote face sick sick forget elite vessel orchard green warrior coil";
+var mnemonic = "goat small imitate enemy resource force abuse carpet chimney brush wear panther";

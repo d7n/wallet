@@ -1,1 +1,1 @@
-var mnemonic = "crack record volcano treat you number wrap portion gain resist tent alarm";
+var mnemonic = "still nurse allow early choice tennis reward near govern link case onion";

@@ -1,1 +1,1 @@
-var mnemonic = "resource country cloud cry cricket dolphin verb ribbon express nuclear exercise blame";
+var mnemonic = "ice zone build nerve meadow mix spend oven summer chunk can blur";

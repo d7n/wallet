@@ -1,1 +1,1 @@
-var mnemonic = "logic mobile plastic couple fluid rose title buddy mind icon rug oppose";
+var mnemonic = "engage whisper someone rookie badge accuse whip hedgehog estate wrap outdoor surround";

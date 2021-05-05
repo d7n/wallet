@@ -1,1 +1,1 @@
-var mnemonic = "mesh plastic modify curtain cram sweet crucial crystal kiwi advice glare gravity";
+var mnemonic = "region leader exhibit bullet differ soft nephew reason genuine thunder frog jar";

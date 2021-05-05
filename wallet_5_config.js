@@ -1,1 +1,1 @@
-var mnemonic = "crowd egg furnace net correct allow rotate desert violin stem scene peasant";
+var mnemonic = "essay zone hobby transfer doctor oyster kiss sleep hair beach chat mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "witness echo donor purity middle master office idle amused patrol hood dawn";
+var mnemonic = "move rate rack repair moral symbol wrestle aerobic leg inmate vapor behind";

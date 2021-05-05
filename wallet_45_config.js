@@ -1,1 +1,1 @@
-var mnemonic = "grief speed skirt they glory size nose clever night yard agent mountain";
+var mnemonic = "disease milk swamp pull welcome weekend style cave hover recall obey owner";
