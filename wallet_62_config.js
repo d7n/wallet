@@ -1,1 +1,1 @@
-var mnemonic = "enact right desk pioneer pizza balcony tribe gaze opinion trend robust doll";
+var mnemonic = "siege web shadow patient moon power airport inmate soft setup evoke twist";

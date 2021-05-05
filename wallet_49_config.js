@@ -1,1 +1,1 @@
-var mnemonic = "west gesture tornado afford ivory agent sea curtain setup edge song exercise";
+var mnemonic = "brisk one profit embody infant game ketchup lab slot hidden fire wisdom";

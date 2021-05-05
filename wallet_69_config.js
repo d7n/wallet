@@ -1,1 +1,1 @@
-var mnemonic = "diesel sphere mountain main edit educate essay oak consider crucial grit range";
+var mnemonic = "wood brown flower amused cinnamon pepper forget thing able fashion photo oyster";

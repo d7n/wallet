@@ -1,1 +1,1 @@
-var mnemonic = "mask choice style unknown winner decrease orient lyrics cabin marine canyon inside";
+var mnemonic = "faint dune coyote alcohol tube lazy tooth boost glide dutch argue wisdom";

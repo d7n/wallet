@@ -1,1 +1,1 @@
-var mnemonic = "camp peanut run razor expand earth bean hero token distance card senior";
+var mnemonic = "moral text mimic lion boss resemble theory speak enjoy tuna alert luggage";

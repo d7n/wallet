@@ -1,1 +1,1 @@
-var mnemonic = "dutch garlic spring tomorrow boy group artefact urge clump remember finish merge";
+var mnemonic = "venture glue invite hedgehog glad brush invite three involve glide choose issue";

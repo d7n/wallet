@@ -1,1 +1,1 @@
-var mnemonic = "search glow purse sibling record alter angle sudden melody bronze detect online";
+var mnemonic = "train trust board frog dolphin bounce choice harvest truth document arctic other";

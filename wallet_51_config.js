@@ -1,1 +1,1 @@
-var mnemonic = "invite more kick borrow charge airport two artist motion rich beef cargo";
+var mnemonic = "sun source timber gossip desk appear add borrow identify bus radar damp";

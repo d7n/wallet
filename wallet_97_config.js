@@ -1,1 +1,1 @@
-var mnemonic = "thumb bid candy chimney tag inner tent foot foster weather hip save";
+var mnemonic = "quick enter add toss envelope unfair burden toddler dinner breeze weekend original";

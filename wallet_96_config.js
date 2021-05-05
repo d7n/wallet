@@ -1,1 +1,1 @@
-var mnemonic = "pact festival until blossom become extra retire raccoon occur arctic stove sound";
+var mnemonic = "occur slim desert mask hundred recycle give cry replace grief tide ghost";

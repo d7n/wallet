@@ -1,1 +1,1 @@
-var mnemonic = "wet hurry prosper auto similar cigar online oval twice digital mention man";
+var mnemonic = "strike ribbon page issue elevator grant until rent clever mention romance junk";

@@ -1,1 +1,1 @@
-var mnemonic = "reform resource mad blush enlist dish crouch wagon shaft weird intact six";
+var mnemonic = "turkey left van museum smart blue balcony penalty endorse course right daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "shove doll almost dynamic congress setup blood example often wolf derive banana";
+var mnemonic = "junior ocean grace paddle pretty sunset sign clog inside swap hard one";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon conduct force disease hurdle arrest quantum stadium hair brand slender crazy";
+var mnemonic = "permit train warrior quote eager delay foot mutual swing glow blush thank";

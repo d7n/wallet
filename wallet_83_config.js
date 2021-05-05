@@ -1,1 +1,1 @@
-var mnemonic = "flush boost inner cash six path chronic able kitten elegant book soft";
+var mnemonic = "bachelor village marine tomato like route lava innocent cigar design public twice";

@@ -1,1 +1,1 @@
-var mnemonic = "build plug rose wide hero glory claim draw hungry thumb until type";
+var mnemonic = "attract gas drastic chest blur garment child remain arrow saddle sugar same";

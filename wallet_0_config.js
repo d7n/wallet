@@ -1,1 +1,1 @@
-var mnemonic = "before dance cupboard meadow toward quote spring love radar view wagon put";
+var mnemonic = "voyage become enjoy culture portion coffee gravity need broken birth crawl treat";

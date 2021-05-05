@@ -1,1 +1,1 @@
-var mnemonic = "ocean wrap sea return scheme gesture estate chicken battle bean derive hospital";
+var mnemonic = "sure laugh glance lady food wedding board excuse forest nose various menu";

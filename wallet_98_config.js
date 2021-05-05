@@ -1,1 +1,1 @@
-var mnemonic = "match fever domain bridge return adapt bone typical alter eagle scare puzzle";
+var mnemonic = "inch glare spoon bicycle ill vacuum lawn smooth measure bulb tray gap";

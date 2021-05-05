@@ -1,1 +1,1 @@
-var mnemonic = "tiger lunch surprise umbrella trial burger left ice shine open apology dentist";
+var mnemonic = "vapor turtle magic copy echo pretty possible public steak gesture pioneer fade";

@@ -1,1 +1,1 @@
-var mnemonic = "involve figure whip total welcome timber phrase asset idea put divorce school";
+var mnemonic = "outdoor crush you around peanut general foil mixture start now survey warm";

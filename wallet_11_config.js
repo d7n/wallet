@@ -1,1 +1,1 @@
-var mnemonic = "barrel taste donate twist image imitate nut fault truth cash link approve";
+var mnemonic = "orchard breeze because memory company plug citizen manage couple arrest guitar practice";

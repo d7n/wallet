@@ -1,1 +1,1 @@
-var mnemonic = "dance mystery pride squeeze pole final half key misery whip opinion shiver";
+var mnemonic = "leisure keep very result render mixture shoot blouse lottery crop cereal name";

@@ -1,1 +1,1 @@
-var mnemonic = "measure frame defense then absorb bind popular illegal point wonder salmon ugly";
+var mnemonic = "enact sauce rebuild lava truck cycle reunion protect alarm immune yard travel";

@@ -1,1 +1,1 @@
-var mnemonic = "among embody ozone bacon penalty diagram party more wire dignity slot horse";
+var mnemonic = "make devote salute galaxy border million leisure erase disagree blame muscle robust";

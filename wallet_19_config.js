@@ -1,1 +1,1 @@
-var mnemonic = "drink actress question subject just endorse wrestle receive history inch auction draft";
+var mnemonic = "peasant obey lucky start minimum pistol idea debris educate web frame copper";

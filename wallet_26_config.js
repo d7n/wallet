@@ -1,1 +1,1 @@
-var mnemonic = "swallow follow economy boring mix entire core series solid utility diary can";
+var mnemonic = "system found pool entry manual kidney sibling cover vague flee service risk";

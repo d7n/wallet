@@ -1,1 +1,1 @@
-var mnemonic = "obscure match galaxy twice flavor creek belt nest witness grunt under duck";
+var mnemonic = "gospel olympic fiction inch survey increase shrimp smart habit record buddy occur";

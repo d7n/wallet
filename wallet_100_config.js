@@ -1,1 +1,1 @@
-var mnemonic = "thumb put canoe aunt oppose reflect cigar warrior insect narrow diet return";
+var mnemonic = "sniff provide devote toe stamp job spray aisle quarter frame unfair ethics";

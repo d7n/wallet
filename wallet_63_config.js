@@ -1,1 +1,1 @@
-var mnemonic = "breeze rocket become involve quick flip arm panel stand summer urban armed";
+var mnemonic = "gravity scene unhappy pipe also style high chapter swim biology cream fever";

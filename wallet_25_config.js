@@ -1,1 +1,1 @@
-var mnemonic = "random foster dignity that learn negative shrug trumpet rude will intact team";
+var mnemonic = "shy swear file corn miracle remind pipe above loyal rough trust quick";

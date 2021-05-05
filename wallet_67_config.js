@@ -1,1 +1,1 @@
-var mnemonic = "punch notice culture decade water combine decline invest swift reveal rib opinion";
+var mnemonic = "speak crucial check detail rebel elbow custom avocado green loop scorpion nerve";

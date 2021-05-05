@@ -1,1 +1,1 @@
-var mnemonic = "top attract average monster until rate direct together ill awkward grant pyramid";
+var mnemonic = "noble liberty junior erode sing canvas another puppy smoke rib gloom donor";

@@ -1,1 +1,1 @@
-var mnemonic = "team piece path drill fluid puzzle bottom design immense mesh trim among";
+var mnemonic = "avocado anxiety royal blade sorry outside lady upset load deny box offer";

@@ -1,1 +1,1 @@
-var mnemonic = "gorilla cat police nose person lecture moral fancy dentist belt fault auto";
+var mnemonic = "portion news check enlist ordinary stool equal illegal retreat settle stove now";

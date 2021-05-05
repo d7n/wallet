@@ -1,1 +1,1 @@
-var mnemonic = "beauty trophy subway hawk language afraid agree useless aim doctor exchange edge";
+var mnemonic = "blade pet often output click peasant case polar vanish inside grit unknown";

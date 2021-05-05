@@ -1,1 +1,1 @@
-var mnemonic = "envelope possible young need uniform inner evidence moment post tattoo joy steel";
+var mnemonic = "mercy aspect humor used blade legal husband category hood diagram bounce version";

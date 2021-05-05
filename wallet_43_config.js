@@ -1,1 +1,1 @@
-var mnemonic = "lucky wife local chuckle toward force together rack equal churn company announce";
+var mnemonic = "group crop today report column shuffle luxury swear burger cat assume voyage";

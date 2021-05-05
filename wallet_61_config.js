@@ -1,1 +1,1 @@
-var mnemonic = "child pass limb maze kid sword math twelve toward token leg climb";
+var mnemonic = "nature cute visual brand fluid kind verb laundry baby ripple impulse canyon";

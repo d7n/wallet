@@ -1,1 +1,1 @@
-var mnemonic = "poverty flag vague light gentle uncle kiwi useful barely okay tortoise pizza";
+var mnemonic = "modify acquire dolphin curve satoshi indoor ahead parrot swallow jealous pattern mosquito";

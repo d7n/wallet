@@ -1,1 +1,1 @@
-var mnemonic = "tumble winter tobacco force tornado cat pond alcohol text number wrap collect";
+var mnemonic = "now legend essence same bridge play chase expand faculty view denial when";

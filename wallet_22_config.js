@@ -1,1 +1,1 @@
-var mnemonic = "change raven cabbage race hold egg garage height sphere tattoo replace mask";
+var mnemonic = "another program gasp story odor teach slide cattle mesh soldier board ramp";

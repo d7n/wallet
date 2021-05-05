@@ -1,1 +1,1 @@
-var mnemonic = "cat insane front cake essence luxury find rifle chunk asthma install fancy";
+var mnemonic = "arrest that into member language steel original measure melody rotate anger cluster";

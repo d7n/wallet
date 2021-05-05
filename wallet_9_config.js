@@ -1,1 +1,1 @@
-var mnemonic = "bike blush orient thumb female suffer hotel sick merry coach sphere zoo";
+var mnemonic = "cream grunt elder hip case section switch honey liquid portion mimic arm";

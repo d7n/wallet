@@ -1,1 +1,1 @@
-var mnemonic = "giggle gadget recall bitter come civil climb eye tourist solid aspect basic";
+var mnemonic = "play rude episode net stuff paper general ice leopard warm success couch";

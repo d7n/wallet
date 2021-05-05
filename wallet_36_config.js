@@ -1,1 +1,1 @@
-var mnemonic = "deny visit concert eternal ripple area glide twelve umbrella fox vocal cruise";
+var mnemonic = "conduct now hammer release faint actual bless rally twice endorse welcome zero";

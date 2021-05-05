@@ -1,1 +1,1 @@
-var mnemonic = "mansion fury distance chair odor invest message spirit change enforce power elevator";
+var mnemonic = "wink author earn claim silent lonely quick armor eagle horror physical night";

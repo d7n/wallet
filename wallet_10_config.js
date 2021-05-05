@@ -1,1 +1,1 @@
-var mnemonic = "paddle wall father demand tongue arch beef puppy matter desert term memory";
+var mnemonic = "soldier crunch kit embrace minimum goose grocery define victory isolate indicate odor";

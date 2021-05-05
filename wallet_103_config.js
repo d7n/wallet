@@ -1,1 +1,1 @@
-var mnemonic = "talk luggage worth nature crumble develop thunder share wrestle board badge sentence";
+var mnemonic = "insect swap seminar learn laugh ask battle program seek later install hold";

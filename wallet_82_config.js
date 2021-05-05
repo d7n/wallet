@@ -1,1 +1,1 @@
-var mnemonic = "update opera pink daughter reveal danger museum diagram border text slush have";
+var mnemonic = "voyage unable fade nation spike correct ball extend index monitor comfort outside";

@@ -1,1 +1,1 @@
-var mnemonic = "garment fantasy return sadness olive unit credit execute pride damp project teach";
+var mnemonic = "more youth caught prepare shaft burden dress bright voyage ski matrix axis";

@@ -1,1 +1,1 @@
-var mnemonic = "mail multiply endless volcano feel rural hidden monkey certain deputy uphold prize";
+var mnemonic = "enforce crazy gesture tomato usage shine summer push annual robust keen cave";

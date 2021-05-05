@@ -1,1 +1,1 @@
-var mnemonic = "scare resource family chunk join pause shed novel please diesel calm virus";
+var mnemonic = "sentence phone afford imitate educate escape autumn apple garlic dwarf fork engine";

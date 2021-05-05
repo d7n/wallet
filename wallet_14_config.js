@@ -1,1 +1,1 @@
-var mnemonic = "limit trip only tortoise sense deputy staff lion family around exhaust dune";
+var mnemonic = "biology figure peanut phone heart oil type debate attitude meat grief tag";

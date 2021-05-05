@@ -1,1 +1,1 @@
-var mnemonic = "end flame library faith link quality museum love later then scissors gesture";
+var mnemonic = "someone journey pitch remove royal cup cute trap weather coin embrace cause";

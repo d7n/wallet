@@ -1,1 +1,1 @@
-var mnemonic = "monster secret insect embark path help claw vapor helmet sting primary pond";
+var mnemonic = "soul way wrong swift foot umbrella once ancient armor sustain play buyer";

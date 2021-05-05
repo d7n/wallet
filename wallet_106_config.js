@@ -1,1 +1,1 @@
-var mnemonic = "weasel juice plastic book dress equip spoon muscle media alien novel enhance";
+var mnemonic = "pencil modify wrist buffalo camera drop fox lucky very bounce spell narrow";

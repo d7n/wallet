@@ -1,1 +1,1 @@
-var mnemonic = "include castle faint margin like spy tumble jelly palace tuition idea clarify";
+var mnemonic = "strategy assume permit illness vault census august bracket jewel point shell cabbage";

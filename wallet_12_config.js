@@ -1,1 +1,1 @@
-var mnemonic = "caution insane human unhappy special cream runway toy blouse work pass castle";
+var mnemonic = "author organ head column team tongue enact river tower earth inquiry strategy";

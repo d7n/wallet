@@ -1,1 +1,1 @@
-var mnemonic = "crawl because marine fancy deny fossil they remove ordinary marble vendor source";
+var mnemonic = "arrive blame brief awkward fan street prepare chef hope liar obscure cluster";

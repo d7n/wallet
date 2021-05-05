@@ -1,1 +1,1 @@
-var mnemonic = "dawn west cycle swamp jealous blind neglect fox pink solve acoustic total";
+var mnemonic = "among human foam custom element nature infant talent alcohol angle magnet clip";

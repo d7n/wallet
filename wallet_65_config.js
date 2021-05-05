@@ -1,1 +1,1 @@
-var mnemonic = "jazz pony maximum suit sunset dust tip rely chalk maximum program world";
+var mnemonic = "cargo coin trick hero green turn wear manual subject end mind enrich";

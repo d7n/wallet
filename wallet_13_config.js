@@ -1,1 +1,1 @@
-var mnemonic = "weekend labor soup inspire grape review quarter unit affair this powder tape";
+var mnemonic = "vital velvet blame brisk renew oval castle tourist drift judge sibling lion";

@@ -1,1 +1,1 @@
-var mnemonic = "still gap across garden tortoise adapt pole donor broccoli rice wish embark";
+var mnemonic = "idle series submit planet mimic trust have original engine magic mention fabric";

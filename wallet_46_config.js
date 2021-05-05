@@ -1,1 +1,1 @@
-var mnemonic = "sword useful feel address hunt stand fall meadow dose visit helmet saddle";
+var mnemonic = "jaguar tell success arctic ball rose razor earth good crouch wave wreck";

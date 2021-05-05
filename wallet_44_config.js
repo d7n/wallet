@@ -1,1 +1,1 @@
-var mnemonic = "cruel build lava vibrant screen tone pretty recycle hazard brush adapt search";
+var mnemonic = "demise behind trap federal position decade rebuild tumble huge outer rookie human";

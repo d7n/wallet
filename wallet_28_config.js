@@ -1,1 +1,1 @@
-var mnemonic = "jaguar steak eye visa parent obscure female toddler later alien material genre";
+var mnemonic = "elbow ginger original chest mercy battle mango message nature over daughter danger";

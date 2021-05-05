@@ -1,1 +1,1 @@
-var mnemonic = "price judge naive lobster trophy inherit beef short stand burst large boy";
+var mnemonic = "culture share air become pelican rug kiss ripple thank fruit edit display";

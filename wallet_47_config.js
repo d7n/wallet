@@ -1,1 +1,1 @@
-var mnemonic = "monster early human tongue ship voice pause cereal blind vague denial awkward";
+var mnemonic = "craft glance start hurry else vibrant increase three lottery away catch impose";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster lunch pill lunch subject baby boil tide defense sausage wasp stone";
+var mnemonic = "organ student gain health betray fine maze antique neutral plug story machine";

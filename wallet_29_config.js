@@ -1,1 +1,1 @@
-var mnemonic = "gesture fashion puzzle repeat magic camera gesture current harvest quick blast hair";
+var mnemonic = "season fuel random act find brick message agent text kiss degree observe";

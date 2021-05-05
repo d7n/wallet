@@ -1,1 +1,1 @@
-var mnemonic = "state success soon say prison diesel friend border chimney seek dutch more";
+var mnemonic = "way glue acquire ecology wrong wash learn quarter spell rent taste crumble";

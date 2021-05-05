@@ -1,1 +1,1 @@
-var mnemonic = "peanut harsh trip cancel place chunk earth turtle forest lava mean menu";
+var mnemonic = "barely blur shiver correct defy title wealth busy dolphin weird repeat stage";

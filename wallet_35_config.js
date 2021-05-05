@@ -1,1 +1,1 @@
-var mnemonic = "remove loud river flip east surround nice blade kidney found junior hold";
+var mnemonic = "gold must rent world journey avoid slab leopard extend remember record check";

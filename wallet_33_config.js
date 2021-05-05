@@ -1,1 +1,1 @@
-var mnemonic = "volume oppose deliver vicious fatigue bubble tent thing civil minor couple culture";
+var mnemonic = "panic swallow together female clerk piece beyond green across display essence govern";

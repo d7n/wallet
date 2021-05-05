@@ -1,1 +1,1 @@
-var mnemonic = "tiny stable palace derive special learn gentle urge shrimp claw gate coil";
+var mnemonic = "hair document judge run ridge media shiver tomato burst equal goose avocado";

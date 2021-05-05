@@ -1,1 +1,1 @@
-var mnemonic = "tree badge hockey junior art eye west legal two mechanic target time";
+var mnemonic = "rabbit rebuild local talent sniff aunt retire raccoon service debate help crash";

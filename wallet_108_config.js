@@ -1,1 +1,1 @@
-var mnemonic = "crystal wear confirm pilot boring until eyebrow clown design resource weekend chunk";
+var mnemonic = "mechanic behind space bottom tip magnet top impulse they zebra live pen";

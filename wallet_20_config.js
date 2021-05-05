@@ -1,1 +1,1 @@
-var mnemonic = "intact basic dash mouse author slender invest hurry clutch doctor ask husband";
+var mnemonic = "punch erode assume wool lemon welcome unlock noble marine day jar visit";

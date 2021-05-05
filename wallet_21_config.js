@@ -1,1 +1,1 @@
-var mnemonic = "retreat praise arrive spike sea final cable tree march negative guard caught";
+var mnemonic = "orange perfect soda century defense forum rate lady expand mimic glide crop";

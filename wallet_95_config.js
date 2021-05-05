@@ -1,1 +1,1 @@
-var mnemonic = "pause first curious sun auction miss coyote mobile swing require fit mutual";
+var mnemonic = "identify little dream gain basket analyst song salon convince inquiry morning cliff";

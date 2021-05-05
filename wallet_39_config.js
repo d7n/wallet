@@ -1,1 +1,1 @@
-var mnemonic = "submit kidney enact palm awake loop solar pen liar tonight fantasy voyage";
+var mnemonic = "hawk outdoor finish harvest bottom spoon approve dumb cute trim electric reveal";

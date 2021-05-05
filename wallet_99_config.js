@@ -1,1 +1,1 @@
-var mnemonic = "kitten cage youth chair cube price stumble aerobic night biology good capital";
+var mnemonic = "journey fetch sure mountain insect brush follow pact mixed squirrel property planet";

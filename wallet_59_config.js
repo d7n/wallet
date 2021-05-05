@@ -1,1 +1,1 @@
-var mnemonic = "voyage exhibit game flower there jewel cousin mixture farm kid tape sort";
+var mnemonic = "vacant piano exhaust smile muscle broccoli blind heart material industry steak yard";

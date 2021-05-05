@@ -1,1 +1,1 @@
-var mnemonic = "shrug practice talk poem cat ahead track recycle ring say key sphere";
+var mnemonic = "turn flash pen weather kid season topple excite lamp accident solar resist";

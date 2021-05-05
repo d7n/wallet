@@ -1,1 +1,1 @@
-var mnemonic = "practice prepare front best okay pumpkin obtain involve identify sing canoe roof";
+var mnemonic = "smart guide hollow drift case chronic once clown disagree element embark journey";

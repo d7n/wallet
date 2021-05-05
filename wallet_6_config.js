@@ -1,1 +1,1 @@
-var mnemonic = "camp actress boil skull student lake federal marine cave twist blanket crowd";
+var mnemonic = "inmate speed forum choice brief medal order payment pretty faint estate plate";

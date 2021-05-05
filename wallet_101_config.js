@@ -1,1 +1,1 @@
-var mnemonic = "fold reward spell stand bomb scale want picture inform wisdom inmate bargain";
+var mnemonic = "useful silver forest gym puppy era eternal lounge sting shaft unlock access";
