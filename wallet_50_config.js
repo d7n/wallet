@@ -1,1 +1,1 @@
-var mnemonic = "enough olympic surround ladder snap fine monkey matter hurdle orchard salon proof";
+var mnemonic = "pledge climb minimum cup truly tower doll olive two lady treat august";

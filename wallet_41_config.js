@@ -1,1 +1,1 @@
-var mnemonic = "alien beauty anchor swallow phrase rack gesture ability slogan lab alley essence";
+var mnemonic = "blur rookie undo night thunder ecology dinner always board torch tiger into";

@@ -1,1 +1,1 @@
-var mnemonic = "agree spy robust pepper script weapon state animal fragile middle best game";
+var mnemonic = "solid trigger daring maze river tank fat bracket puppy bomb volume live";

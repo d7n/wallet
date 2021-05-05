@@ -1,1 +1,1 @@
-var mnemonic = "error ice cotton inquiry certain light health process cupboard virus legal silver";
+var mnemonic = "cake swarm object dragon knock surround hope sudden drip size awake future";

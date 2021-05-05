@@ -1,1 +1,1 @@
-var mnemonic = "cruise boy gauge famous cabbage scene have pet relief pumpkin flash cart";
+var mnemonic = "oblige tunnel fine girl pond drama crowd eyebrow thrive marriage hurt more";

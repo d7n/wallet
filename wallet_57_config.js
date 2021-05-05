@@ -1,1 +1,1 @@
-var mnemonic = "input economy dinner pipe lady diamond team case weasel shuffle unique trip";
+var mnemonic = "finger unlock file room soccer hood device volume fault tomato mushroom sauce";

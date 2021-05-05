@@ -1,1 +1,1 @@
-var mnemonic = "man inflict pipe velvet rifle grab lens tag youth comic medal alter";
+var mnemonic = "turkey text moon stock cousin sock keep lend excite judge deposit orchard";

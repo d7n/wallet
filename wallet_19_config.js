@@ -1,1 +1,1 @@
-var mnemonic = "relief burst mirror tourist zero isolate scale boil armor volume mercy end";
+var mnemonic = "human couch topic girl mass around blouse honey crumble fashion forget boat";

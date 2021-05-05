@@ -1,1 +1,1 @@
-var mnemonic = "boil theory pitch upset express obscure silent train member divert arena lazy";
+var mnemonic = "major negative jeans buddy monster service sauce insane cushion high vacant reunion";

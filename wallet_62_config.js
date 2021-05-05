@@ -1,1 +1,1 @@
-var mnemonic = "retreat crunch draft infant enlist mule enroll emerge feed park blade glad";
+var mnemonic = "stairs steak popular hub veteran pelican advice gravity race stumble asset bar";

@@ -1,1 +1,1 @@
-var mnemonic = "special second spawn physical endorse update evidence lesson weapon play salmon winner";
+var mnemonic = "swift hidden use grain approve stumble until empower toe average display evolve";

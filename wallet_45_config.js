@@ -1,1 +1,1 @@
-var mnemonic = "matrix town february under sad garage soup pretty nose fault chief biology";
+var mnemonic = "ladder water sport atom drop twice snack shoe liar sudden agent giggle";

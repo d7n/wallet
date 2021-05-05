@@ -1,1 +1,1 @@
-var mnemonic = "minimum test immense fold wrap park add spread chalk august letter elder";
+var mnemonic = "junk lift mansion ride helmet debris fit naive bag patrol stamp discover";

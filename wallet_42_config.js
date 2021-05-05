@@ -1,1 +1,1 @@
-var mnemonic = "bicycle fiber mom filter helmet husband elite cool save that machine warfare";
+var mnemonic = "claim hint any floor vague mirror consider assault gospel sand tourist refuse";

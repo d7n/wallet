@@ -1,1 +1,1 @@
-var mnemonic = "glass task donor private scale rug when win bean use draw thing";
+var mnemonic = "make erosion cabbage have canvas phone whale unfair sell screen concert tribe";

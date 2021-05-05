@@ -1,1 +1,1 @@
-var mnemonic = "monkey smile author mango crunch normal congress bomb youth jelly install bridge";
+var mnemonic = "height hockey slim brush universe scheme drift anxiety gym humor kiss give";

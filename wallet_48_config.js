@@ -1,1 +1,1 @@
-var mnemonic = "quarter fine whisper behind shell genius moment shoot august potato caution decrease";
+var mnemonic = "cover thing muscle mention replace faith cruise embrace only swarm usual resource";

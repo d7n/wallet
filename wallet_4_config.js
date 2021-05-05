@@ -1,1 +1,1 @@
-var mnemonic = "region easily gold utility beauty copper search aware drop inch rookie galaxy";
+var mnemonic = "unknown merge vibrant pistol helmet town blast fashion dial gain view aware";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge swarm lamp imitate brief media sugar day symbol task little quantum";
+var mnemonic = "inch connect romance slot gloom visual example claim behind judge ski own";

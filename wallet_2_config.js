@@ -1,1 +1,1 @@
-var mnemonic = "jazz health voice prevent tribe door dad coin anxiety exhaust brief abstract";
+var mnemonic = "dutch garbage copy grace produce demise prosper intact visa common adapt lift";

@@ -1,1 +1,1 @@
-var mnemonic = "citizen mansion stick bid forum awesome require fluid patrol lunar alert axis";
+var mnemonic = "enhance audit rack moon else pumpkin recipe gallery hockey crush critic autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "add swarm crumble come tiger ladder spy cart cloth board seek fire";
+var mnemonic = "advance hope game humble delay cinnamon oppose similar gasp float tiger hip";

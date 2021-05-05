@@ -1,1 +1,1 @@
-var mnemonic = "rain spy mention pill butter gather accuse pulp pole chronic nuclear rib";
+var mnemonic = "laptop march onion provide year advance parade jewel wave race sausage sentence";

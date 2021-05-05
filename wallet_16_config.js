@@ -1,1 +1,1 @@
-var mnemonic = "simple divide supply essence veteran churn final swing limit extend use leopard";
+var mnemonic = "split asset spread wood calm defense general bottom west actress mad tragic";

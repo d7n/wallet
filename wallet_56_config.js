@@ -1,1 +1,1 @@
-var mnemonic = "knock stock slim arrest load warrior ramp base display put gym asthma";
+var mnemonic = "use curve naive effort knife raccoon design cotton search sting awful jelly";

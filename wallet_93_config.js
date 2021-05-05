@@ -1,1 +1,1 @@
-var mnemonic = "access observe idea magic pioneer secret license invest garlic debate roof random";
+var mnemonic = "alert decade sadness river audit length size wise token family like sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "prosper town sentence cliff ski suggest brother laptop endless soccer train muscle";
+var mnemonic = "choice neck real reason reduce cart stamp notice slight ready copy pudding";

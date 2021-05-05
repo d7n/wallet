@@ -1,1 +1,1 @@
-var mnemonic = "behave cannon ladder blush all author neither end donkey injury welcome twice";
+var mnemonic = "february effort anxiety quantum story faint inner fuel oblige unfair swamp session";

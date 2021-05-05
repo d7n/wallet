@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo soccer hood final inquiry bulb spell adjust spread romance cupboard hidden";
+var mnemonic = "scrap march one brisk harbor amount census lounge spray theory nation foil";

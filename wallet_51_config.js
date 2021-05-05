@@ -1,1 +1,1 @@
-var mnemonic = "true staff hat frozen enable clerk tomato reason cousin liquid report surround";
+var mnemonic = "quantum frown across sea wave enter scheme draft toddler fortune rebuild wet";

@@ -1,1 +1,1 @@
-var mnemonic = "peace sketch common path note burst silver decrease mouse local exist bird";
+var mnemonic = "ship document century know father buddy level advance grape cat depart enable";

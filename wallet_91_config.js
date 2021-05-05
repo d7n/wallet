@@ -1,1 +1,1 @@
-var mnemonic = "exile buzz curious imitate hint inject almost soft route magnet knife brick";
+var mnemonic = "gown wool country carbon draw crystal innocent tent joy bright carry fancy";

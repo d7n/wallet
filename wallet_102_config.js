@@ -1,1 +1,1 @@
-var mnemonic = "sausage arch strong slot hip smile tuition angry clog lemon shallow retire";
+var mnemonic = "remove man gauge pistol equal cradle symbol blue fit flat arrow income";

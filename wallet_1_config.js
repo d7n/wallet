@@ -1,1 +1,1 @@
-var mnemonic = "found jar quick add satoshi annual orange pen satoshi orchard pass draft";
+var mnemonic = "syrup accident olympic actress sound gentle eagle oval volcano patch segment rebel";

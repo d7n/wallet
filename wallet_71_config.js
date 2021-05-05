@@ -1,1 +1,1 @@
-var mnemonic = "reflect vendor trust weather fit alert art child rate illegal radio neglect";
+var mnemonic = "language kangaroo smart question embody power myth receive easy mouse index coral";

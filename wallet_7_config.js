@@ -1,1 +1,1 @@
-var mnemonic = "budget domain boil asthma secret favorite mix cabbage mom enrich round hub";
+var mnemonic = "refuse basket deny police affair bid raise remind accuse funny render draw";

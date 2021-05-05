@@ -1,1 +1,1 @@
-var mnemonic = "beyond spell height nose wonder frown okay enact harbor domain slot please";
+var mnemonic = "faint lion civil silk knife length lend agree cactus stick return piece";

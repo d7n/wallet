@@ -1,1 +1,1 @@
-var mnemonic = "shield meadow try feature soldier then payment pioneer eyebrow rival demand fetch";
+var mnemonic = "tilt knock violin gap stomach horror decide error panic elegant where parade";

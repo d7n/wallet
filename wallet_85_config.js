@@ -1,1 +1,1 @@
-var mnemonic = "sniff stick wrist phone fat sick twist extra split question inner buddy";
+var mnemonic = "huge wreck absent nominee cruise reason excite more interest inflict hope round";

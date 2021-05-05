@@ -1,1 +1,1 @@
-var mnemonic = "curtain shoulder misery ship accident sniff violin giant fossil idle bracket dismiss";
+var mnemonic = "since floor bunker sad congress cigar color resource such salad inquiry chief";

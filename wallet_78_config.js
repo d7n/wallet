@@ -1,1 +1,1 @@
-var mnemonic = "olympic few cover praise enable bridge space riot toy clock hat tooth";
+var mnemonic = "hero moral garage salute brave staff health measure book green depth art";

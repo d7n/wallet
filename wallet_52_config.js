@@ -1,1 +1,1 @@
-var mnemonic = "grocery fire sustain drop between program cabin clerk option grape earn kingdom";
+var mnemonic = "maze lottery domain favorite mind about traffic addict egg demise proof color";

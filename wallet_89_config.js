@@ -1,1 +1,1 @@
-var mnemonic = "circle reject stamp window favorite extra bid laptop fabric senior gloom term";
+var mnemonic = "kidney pen quarter portion govern man ball merry usual vanish matter age";

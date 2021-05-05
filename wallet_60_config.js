@@ -1,1 +1,1 @@
-var mnemonic = "tenant arrange zebra ticket expand sweet world solution symptom endorse cotton response";
+var mnemonic = "bullet tide frequent satoshi belt broom shallow flavor venture left allow dynamic";

@@ -1,1 +1,1 @@
-var mnemonic = "grid flower tell isolate transfer napkin youth episode note accident coffee flat";
+var mnemonic = "light indicate coin few badge corn chunk illness web apart cannon egg";

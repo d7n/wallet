@@ -1,1 +1,1 @@
-var mnemonic = "purity actor beauty vanish gossip torch effort common misery debris reunion cargo";
+var mnemonic = "salon fiscal merge similar calm ivory crowd dolphin shiver crater pulp myth";

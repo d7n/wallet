@@ -1,1 +1,1 @@
-var mnemonic = "casino surprise copper prison december domain forum harsh fuel drift car rookie";
+var mnemonic = "more turkey bicycle sorry pupil minute blossom carry square energy anxiety dignity";

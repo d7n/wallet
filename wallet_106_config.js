@@ -1,1 +1,1 @@
-var mnemonic = "miss castle museum cousin art universe toddler finish grain cram solid city";
+var mnemonic = "bike seminar blood fame adult verb other season govern load property rally";

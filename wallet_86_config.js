@@ -1,1 +1,1 @@
-var mnemonic = "sketch uphold champion exist squeeze earn language brain silver walnut fresh stem";
+var mnemonic = "weather sister element present reopen visa island trouble fit high liberty exclude";

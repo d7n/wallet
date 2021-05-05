@@ -1,1 +1,1 @@
-var mnemonic = "day leg prefer sibling artefact lottery tower quantum knock cat kiss multiply";
+var mnemonic = "utility usual despair coil cushion twelve ethics office question panther else useless";

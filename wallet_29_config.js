@@ -1,1 +1,1 @@
-var mnemonic = "neglect learn fox someone senior win mobile direct steel shadow more warrior";
+var mnemonic = "response robot alone output thing split vital primary hurt screen toilet adult";

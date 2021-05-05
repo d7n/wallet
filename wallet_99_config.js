@@ -1,1 +1,1 @@
-var mnemonic = "peace onion marine exclude major era toe saddle aware peasant fitness tornado";
+var mnemonic = "tone year drill common embark shift gravity noodle mean shine apology merry";

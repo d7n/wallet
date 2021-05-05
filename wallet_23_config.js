@@ -1,1 +1,1 @@
-var mnemonic = "sound sure pull ridge echo festival lobster choose mosquito bike modify marble";
+var mnemonic = "crush parade design trial tape receive beef doctor around elephant skin pencil";

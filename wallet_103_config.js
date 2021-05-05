@@ -1,1 +1,1 @@
-var mnemonic = "pistol grunt achieve junk fog rhythm wisdom shoot enlist glare output used";
+var mnemonic = "thumb segment someone this police drill giraffe fabric scatter street primary daring";

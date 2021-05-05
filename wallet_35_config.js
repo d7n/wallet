@@ -1,1 +1,1 @@
-var mnemonic = "voyage arrive quiz reject salon pioneer duck curious benefit stand process distance";
+var mnemonic = "canvas decline trap furnace ball unlock vacuum memory now laugh have moral";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid casual trust impulse pupil old nation above coffee carpet high black";
+var mnemonic = "right exercise amateur shy cabin stumble garage address produce chair swear cinnamon";

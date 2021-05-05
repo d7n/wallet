@@ -1,1 +1,1 @@
-var mnemonic = "hamster gaze actor celery all tomorrow chalk myself master seek beyond pledge";
+var mnemonic = "bargain spawn basket type midnight trade arena fever hamster penalty logic remind";

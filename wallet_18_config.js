@@ -1,1 +1,1 @@
-var mnemonic = "shoot tiny photo account protect live smoke famous need save hood become";
+var mnemonic = "organ shove swift rug side genre twice about lottery aspect donor book";

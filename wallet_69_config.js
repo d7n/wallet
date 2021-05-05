@@ -1,1 +1,1 @@
-var mnemonic = "gown leg impose girl garden rhythm black auction round demise fiction brave";
+var mnemonic = "word pledge recycle congress morning rookie play present strong taxi false ethics";

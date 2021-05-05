@@ -1,1 +1,1 @@
-var mnemonic = "never connect smile critic ring hire powder merit kangaroo electric emerge few";
+var mnemonic = "attend alert mirror length radar must vintage tiny edit boost service decade";

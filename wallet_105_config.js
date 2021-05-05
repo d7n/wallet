@@ -1,1 +1,1 @@
-var mnemonic = "club garden dragon power van gap wool panda hospital night deal base";
+var mnemonic = "element merge indoor mystery side soldier modify rib genuine wolf odor color";

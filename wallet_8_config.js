@@ -1,1 +1,1 @@
-var mnemonic = "design frozen result rather giggle chef card panther annual month jealous pudding";
+var mnemonic = "unusual tribe ozone pencil occur farm detect pact amount angry action hover";

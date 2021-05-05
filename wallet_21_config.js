@@ -1,1 +1,1 @@
-var mnemonic = "pottery thunder recipe large bracket regular coral viable moon tenant traffic mistake";
+var mnemonic = "sister solar initial risk orchard trophy foot oblige veteran idea neck food";

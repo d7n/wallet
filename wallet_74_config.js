@@ -1,1 +1,1 @@
-var mnemonic = "robot bracket credit team post laptop cat rebel sudden calm stomach renew";
+var mnemonic = "help crisp clump unit flavor birth bamboo course chunk scorpion fix cricket";

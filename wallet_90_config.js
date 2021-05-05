@@ -1,1 +1,1 @@
-var mnemonic = "husband degree green flash under core climb around rescue drive sudden guitar";
+var mnemonic = "winner resist warfare upon gun join lucky member friend focus kite around";

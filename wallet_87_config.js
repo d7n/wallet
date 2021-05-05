@@ -1,1 +1,1 @@
-var mnemonic = "dwarf proof bench hospital desert ill coast front dish discover clap sniff";
+var mnemonic = "start sand notice embrace novel dust various device achieve day arena travel";

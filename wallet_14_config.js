@@ -1,1 +1,1 @@
-var mnemonic = "leg usage galaxy top member make chapter ostrich ring vapor head plug";
+var mnemonic = "connect umbrella polar found armed gate smooth refuse build opera adjust fiber";

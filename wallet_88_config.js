@@ -1,1 +1,1 @@
-var mnemonic = "cruel clip slogan service lazy radar enjoy pledge sun sun wide bargain";
+var mnemonic = "electric tool athlete convince margin talent baby wrestle evolve antenna blouse market";

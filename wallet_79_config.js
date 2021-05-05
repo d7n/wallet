@@ -1,1 +1,1 @@
-var mnemonic = "salmon odor crazy siege balcony congress disease fashion spare limb repeat cement";
+var mnemonic = "play leopard drip occur evil degree cabin undo flower income attitude absorb";

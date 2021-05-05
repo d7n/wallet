@@ -1,1 +1,1 @@
-var mnemonic = "dry harsh name obscure flower artwork bacon analyst you tourist seed pool";
+var mnemonic = "small ordinary burger sight hockey exact armor verify prefer subway flush category";

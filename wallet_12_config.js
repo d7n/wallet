@@ -1,1 +1,1 @@
-var mnemonic = "forest camp kitten report gas mimic table jar host laptop math arrange";
+var mnemonic = "divide slide game melt goose uncover tissue tomato bargain dynamic common science";

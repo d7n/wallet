@@ -1,1 +1,1 @@
-var mnemonic = "strategy pitch exotic document clip film chicken afford curious child check check";
+var mnemonic = "empty pause weekend grape reform bag recall improve news toward pair concert";

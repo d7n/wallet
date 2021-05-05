@@ -1,1 +1,1 @@
-var mnemonic = "limb split pottery crack clerk carbon sugar rocket audit wonder option issue";
+var mnemonic = "match outside urban insane deer month cherry used about supreme sausage south";

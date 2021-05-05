@@ -1,1 +1,1 @@
-var mnemonic = "spray label real eagle hunt fabric notice uphold about shiver excuse husband";
+var mnemonic = "local electric case world alpha kitchen short face slogan trophy kitchen caution";

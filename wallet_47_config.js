@@ -1,1 +1,1 @@
-var mnemonic = "rich cannon indicate crowd antique veteran lava dirt maple relief noodle member";
+var mnemonic = "fatigue choice buffalo manage quality depth decline truck obey garage height annual";

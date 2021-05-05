@@ -1,1 +1,1 @@
-var mnemonic = "route obvious wet position sense copy tape enjoy rich level soon zone";
+var mnemonic = "advance planet sunset border steak tenant arch soft fault hip chapter gather";

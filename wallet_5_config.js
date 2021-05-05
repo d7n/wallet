@@ -1,1 +1,1 @@
-var mnemonic = "drip property man law surprise stadium jar used quick impulse fatal absurd";
+var mnemonic = "canoe inspire frozen else problem arrange reveal south together dignity mandate rigid";

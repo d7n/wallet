@@ -1,1 +1,1 @@
-var mnemonic = "liberty exile nasty unable liar damp table half scatter neglect tone there";
+var mnemonic = "absent crowd corn ecology hundred safe magic food future tennis liberty gallery";

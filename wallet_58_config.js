@@ -1,1 +1,1 @@
-var mnemonic = "inject faith reflect lounge spin reject auto humble aspect weird copy such";
+var mnemonic = "current absorb negative swarm canal coach cherry leave learn renew wool kiwi";

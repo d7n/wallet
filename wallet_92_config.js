@@ -1,1 +1,1 @@
-var mnemonic = "pledge hungry extend immense chicken elevator place output menu sport april position";
+var mnemonic = "voice rabbit feature rapid weekend audit better antenna autumn lottery noise ceiling";

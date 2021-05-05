@@ -1,1 +1,1 @@
-var mnemonic = "owner cinnamon uncle disease tide mammal stuff best trash obvious three machine";
+var mnemonic = "fence piece glare peanut river flip unusual neglect wave february dutch liberty";

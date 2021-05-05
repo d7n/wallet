@@ -1,1 +1,1 @@
-var mnemonic = "coconut tennis side liquid concert risk erupt since cry pink relief around";
+var mnemonic = "pottery extend brief primary umbrella worry cement sea example admit syrup section";

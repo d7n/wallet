@@ -1,1 +1,1 @@
-var mnemonic = "acid coast behave move green local daring bird biology alone shed concert";
+var mnemonic = "merge sport proud victory wall dutch mouse uphold neutral garment certain track";

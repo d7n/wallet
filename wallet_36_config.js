@@ -1,1 +1,1 @@
-var mnemonic = "local hood axis quality brain myself sail easily fantasy have income jealous";
+var mnemonic = "cram possible orphan medal gate outside uphold coyote describe life snack ranch";

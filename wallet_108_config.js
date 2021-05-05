@@ -1,1 +1,1 @@
-var mnemonic = "erode habit march occur wood loop purpose blur love melody goat turn";
+var mnemonic = "ranch funny oval claw miss area paddle clog cool penalty eternal dignity";

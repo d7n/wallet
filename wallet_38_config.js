@@ -1,1 +1,1 @@
-var mnemonic = "celery junk test pipe color pipe smart chair special vacant plunge control";
+var mnemonic = "diary adjust addict mask print argue connect ghost tube balcony ramp sick";

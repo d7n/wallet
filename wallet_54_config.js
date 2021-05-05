@@ -1,1 +1,1 @@
-var mnemonic = "toast hybrid nature comic switch tomato festival unveil correct topple romance mass";
+var mnemonic = "accident rate note slide bone kangaroo game awesome lemon fault focus worth";

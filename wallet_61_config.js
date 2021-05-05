@@ -1,1 +1,1 @@
-var mnemonic = "teach layer path rather small cram edge staff vehicle lake empty oyster";
+var mnemonic = "charge blanket modify east pattern acid letter live scissors what define limit";

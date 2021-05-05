@@ -1,1 +1,1 @@
-var mnemonic = "rabbit twenty conduct flame rose laugh limb wine nest aerobic citizen nice";
+var mnemonic = "obvious screen unfair illegal elite fashion burger armor turn lawn paper tuition";

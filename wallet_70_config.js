@@ -1,1 +1,1 @@
-var mnemonic = "isolate deposit praise execute unfold shift feature thrive gloom zoo hybrid business";
+var mnemonic = "marine broom vendor peace female misery myth west topple seven certain slot";

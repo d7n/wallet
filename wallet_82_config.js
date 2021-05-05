@@ -1,1 +1,1 @@
-var mnemonic = "blur music else immense promote chicken hip problem genius panel lemon mammal";
+var mnemonic = "arrow high strong beach expect blouse loop coach more index sustain wonder";

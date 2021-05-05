@@ -1,1 +1,1 @@
-var mnemonic = "deputy mention bundle two answer wonder pond history solution news velvet shadow";
+var mnemonic = "cost vivid drop rely custom harsh edge key anchor rule ugly wine";

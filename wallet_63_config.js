@@ -1,1 +1,1 @@
-var mnemonic = "lottery note subject swift tone melody fiction swap funny gas roast post";
+var mnemonic = "cat word ill proud mad trip drop soap upon crush gun ill";
