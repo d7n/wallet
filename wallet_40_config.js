@@ -1,1 +1,1 @@
-var mnemonic = "soup search member field crane marble ethics weather sister very naive drop";
+var mnemonic = "misery hotel walk guilt slot army thumb embrace broken tree refuse protect";

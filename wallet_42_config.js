@@ -1,1 +1,1 @@
-var mnemonic = "account around onion side thumb room farm surge wage coin monkey flee";
+var mnemonic = "ranch document assist pony zone switch axis wire reform true enrich about";

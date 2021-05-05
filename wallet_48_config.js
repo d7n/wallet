@@ -1,1 +1,1 @@
-var mnemonic = "wrong flower wrestle cotton flight material wood super belt ocean ethics immense";
+var mnemonic = "sauce april police near obvious flash mule penalty awesome puppy hospital electric";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard burger genuine indoor act trust fiction talent mutual sea glimpse laundry";
+var mnemonic = "husband please shell electric win flip grow mean payment nose soldier seminar";

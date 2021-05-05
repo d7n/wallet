@@ -1,1 +1,1 @@
-var mnemonic = "they zero hospital toy ladder now switch token bomb stem tray daughter";
+var mnemonic = "normal flavor invite cover range page valley load near wolf resource inside";

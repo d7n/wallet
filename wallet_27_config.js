@@ -1,1 +1,1 @@
-var mnemonic = "record puzzle worth surge because fatal gaze rug under position express salt";
+var mnemonic = "armor primary van pass ship celery music shuffle clever price nice lava";

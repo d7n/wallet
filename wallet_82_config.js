@@ -1,1 +1,1 @@
-var mnemonic = "chronic mouse choose head cup head poet act task track carbon direct";
+var mnemonic = "broken forum water parrot velvet remain decline marriage energy glare slight tomato";

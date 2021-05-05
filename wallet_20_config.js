@@ -1,1 +1,1 @@
-var mnemonic = "destroy render milk fish century anxiety base weird camera visa flight call";
+var mnemonic = "nephew rebuild manual tip theory clog deny inform sponsor park trigger market";

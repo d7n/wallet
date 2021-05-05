@@ -1,1 +1,1 @@
-var mnemonic = "warrior knife monster suit wall service dinner solve front reflect unveil charge";
+var mnemonic = "public vast now rigid six foam meat multiply skull inflict either initial";

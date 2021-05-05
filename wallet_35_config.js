@@ -1,1 +1,1 @@
-var mnemonic = "edit risk zebra grow cloud educate lens expect slight shine alert door";
+var mnemonic = "sure tube topple turtle advance crime opinion sure soap carry flip speak";

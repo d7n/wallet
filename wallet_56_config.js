@@ -1,1 +1,1 @@
-var mnemonic = "hen rotate judge lucky chest boost family demand dad believe blossom drink";
+var mnemonic = "image evidence peanut odor slight weekend twice poverty dog test first marble";

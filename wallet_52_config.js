@@ -1,1 +1,1 @@
-var mnemonic = "skate flame add country tiny demand hand universe congress endless negative inch";
+var mnemonic = "metal depend ecology guard source panic present either almost ripple ring exist";

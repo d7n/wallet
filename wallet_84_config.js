@@ -1,1 +1,1 @@
-var mnemonic = "dragon palace harsh faint kid same eye burst choice kitchen siren know";
+var mnemonic = "fuel filter crew click point street mechanic primary tag weekend alcohol vacuum";

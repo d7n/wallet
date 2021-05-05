@@ -1,1 +1,1 @@
-var mnemonic = "course lawsuit light yellow nation topple example seek parade blanket message walk";
+var mnemonic = "hour ranch country tooth put powder bamboo uniform duty curious between torch";

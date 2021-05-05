@@ -1,1 +1,1 @@
-var mnemonic = "lawn photo fury scrub afraid pitch lamp capital silent resource amazing awesome";
+var mnemonic = "hollow dinner camera step dawn noodle leaf front cancel bomb short easy";

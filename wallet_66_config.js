@@ -1,1 +1,1 @@
-var mnemonic = "car method rely wild define tower stock gossip never cherry kingdom wealth";
+var mnemonic = "crush drift point tomorrow swallow pet about ice refuse grass rally violin";

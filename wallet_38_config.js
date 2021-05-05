@@ -1,1 +1,1 @@
-var mnemonic = "hungry report scout flee citizen dash never mean another ripple fix enter";
+var mnemonic = "yard fiber august reflect arm jazz tilt boy bubble lion either remain";

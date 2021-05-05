@@ -1,1 +1,1 @@
-var mnemonic = "hold sand regular now real march mosquito door body turkey lion inflict";
+var mnemonic = "clever film pave wise blossom catalog empower gift giggle omit shrug cave";

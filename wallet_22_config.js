@@ -1,1 +1,1 @@
-var mnemonic = "creek stereo awake disagree clump category kid suit spawn noise planet account";
+var mnemonic = "theory hard walk maze that trip track way renew pumpkin sort symptom";

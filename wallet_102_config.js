@@ -1,1 +1,1 @@
-var mnemonic = "lift right great story jump memory torch battle clinic ship boost already";
+var mnemonic = "fish sand menu toilet enforce eternal alpha clump verb into solid cousin";

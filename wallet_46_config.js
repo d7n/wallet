@@ -1,1 +1,1 @@
-var mnemonic = "decrease picture theme crack steel gauge hotel purity cradle shoe more buddy";
+var mnemonic = "silent push where curtain umbrella fan uphold example thunder chunk flash goat";

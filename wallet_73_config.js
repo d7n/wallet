@@ -1,1 +1,1 @@
-var mnemonic = "duty jump main example member glass circle board source woman uncle toy";
+var mnemonic = "victory knock magnet avoid unfair pulp clay click egg vanish odor hat";

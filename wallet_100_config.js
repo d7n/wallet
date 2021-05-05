@@ -1,1 +1,1 @@
-var mnemonic = "crime often mosquito inject arrest melody increase fly girl sleep brass decorate";
+var mnemonic = "chunk wasp warrior bundle brush text text figure scissors fold buddy swift";

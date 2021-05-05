@@ -1,1 +1,1 @@
-var mnemonic = "retire album era plastic leg brand smooth enough open empower desk false";
+var mnemonic = "have stay armor vacant test reason talk duty ladder wolf faith blood";

@@ -1,1 +1,1 @@
-var mnemonic = "year sure anchor sponsor brand brother fashion regular talent honey fiscal airport";
+var mnemonic = "advice wear glove few engine ritual laptop negative flame midnight vote write";

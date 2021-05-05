@@ -1,1 +1,1 @@
-var mnemonic = "pulp unaware future list bless physical vicious door peasant winter worry modify";
+var mnemonic = "gesture apart own guard can feature swap subway matter pulp veteran retreat";

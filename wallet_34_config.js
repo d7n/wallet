@@ -1,1 +1,1 @@
-var mnemonic = "notice razor carbon round crystal apple actor sign kitten clap soul theory";
+var mnemonic = "raise spice ghost appear trip fork normal sorry plug frown best curtain";

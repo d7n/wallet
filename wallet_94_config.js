@@ -1,1 +1,1 @@
-var mnemonic = "tone pudding sister enroll width canoe shock skill purpose police alley room";
+var mnemonic = "staff scale truly canvas rhythm sun trick midnight rack nurse leopard banana";

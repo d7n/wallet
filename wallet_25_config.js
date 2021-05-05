@@ -1,1 +1,1 @@
-var mnemonic = "audit warm fossil toy high amateur fine razor charge type episode hat";
+var mnemonic = "nature like undo entry industry six head feed giraffe favorite forget point";

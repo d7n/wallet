@@ -1,1 +1,1 @@
-var mnemonic = "exhaust exclude search moon crawl lucky dream swear feed host salt organ";
+var mnemonic = "meadow ritual empower current gospel cereal moon milk ribbon stem stay desert";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson arrow setup agent wealth wolf surface oxygen sure script diesel ostrich";
+var mnemonic = "merit eager age salute desert cliff lounge indoor daring spider plug tortoise";

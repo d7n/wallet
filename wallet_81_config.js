@@ -1,1 +1,1 @@
-var mnemonic = "foster bright scatter invest twelve access fringe figure patch cargo group weasel";
+var mnemonic = "damage install whale town result pilot toddler lecture again flee emerge wrong";

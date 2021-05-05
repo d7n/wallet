@@ -1,1 +1,1 @@
-var mnemonic = "vessel winner song essence fuel shop curtain among topic minute jeans front";
+var mnemonic = "discover citizen spoon village return venue sadness poem blast frog dress crawl";

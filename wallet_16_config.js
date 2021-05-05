@@ -1,1 +1,1 @@
-var mnemonic = "alley pulse butter panic lumber enroll music trial device relax magic comic";
+var mnemonic = "throw chimney admit bid hungry answer flee board demise train endless dog";

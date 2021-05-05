@@ -1,1 +1,1 @@
-var mnemonic = "crater file monkey galaxy clown danger boil ship peasant corn kid robust";
+var mnemonic = "tuition ensure zoo chef gather sudden street because noodle broom garbage vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "fog step always exile lava angry caution answer tackle state left few";
+var mnemonic = "illness tail drop rather electric power desk theory iron trade once impact";

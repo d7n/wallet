@@ -1,1 +1,1 @@
-var mnemonic = "solve purity before mango jewel clay decide pony lady welcome below saddle";
+var mnemonic = "fresh boring method bounce sadness barrel slice blouse laundry animal beach rookie";

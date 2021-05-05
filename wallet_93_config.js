@@ -1,1 +1,1 @@
-var mnemonic = "much polar viable equal ivory practice filter jewel visual obtain taxi add";
+var mnemonic = "eyebrow virus volcano stone address snack friend year finish help know bag";

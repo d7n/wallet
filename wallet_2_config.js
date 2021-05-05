@@ -1,1 +1,1 @@
-var mnemonic = "bring ski auto tube steel decade two injury coconut top talk width";
+var mnemonic = "vintage poet toast equip planet brown insect thumb rebel claim task beauty";

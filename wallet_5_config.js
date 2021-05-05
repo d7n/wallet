@@ -1,1 +1,1 @@
-var mnemonic = "candy busy blame knee stairs powder regular bid disorder elegant way crater";
+var mnemonic = "bar found possible elevator month bus tenant fury visit whip sad able";

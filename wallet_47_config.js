@@ -1,1 +1,1 @@
-var mnemonic = "regular actual shove view blur shiver strike finger whip search tank shallow";
+var mnemonic = "grant rate spider flower bracket cook near hover boy green brass other";

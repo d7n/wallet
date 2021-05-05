@@ -1,1 +1,1 @@
-var mnemonic = "online portion language expose wine nest offer load usage move frame move";
+var mnemonic = "disagree solar pupil vanish erase seek edge lunch capital whip achieve endless";

@@ -1,1 +1,1 @@
-var mnemonic = "arm elegant fossil vivid manage survey height short rice acid gentle ability";
+var mnemonic = "core envelope script medal note disagree state device pact bird drive doctor";

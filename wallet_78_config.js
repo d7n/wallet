@@ -1,1 +1,1 @@
-var mnemonic = "silk border enrich sadness valley erase comfort artist garage vehicle funny sniff";
+var mnemonic = "glide flight approve shove light body leave service flat child dinner post";

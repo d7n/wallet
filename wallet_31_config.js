@@ -1,1 +1,1 @@
-var mnemonic = "kid hire blind twice session water someone best eye fluid narrow differ";
+var mnemonic = "surface curtain belt winter dash horse bus axis junior hammer question gas";

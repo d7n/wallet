@@ -1,1 +1,1 @@
-var mnemonic = "strike birth timber dolphin sentence kiss wrong size milk focus motion seek";
+var mnemonic = "any oil obtain disease lift tennis write spatial lonely grace frozen kiwi";

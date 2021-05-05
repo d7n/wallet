@@ -1,1 +1,1 @@
-var mnemonic = "robot badge wash reduce inquiry rug amused gift kingdom stamp fold assault";
+var mnemonic = "weird wall again found speak world gown orange mushroom large multiply palm";

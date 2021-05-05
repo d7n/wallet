@@ -1,1 +1,1 @@
-var mnemonic = "crunch bring uniform invest purchase rifle sad blood capable worry shell black";
+var mnemonic = "core odor energy initial balcony enter kite brisk sad defy viable grain";

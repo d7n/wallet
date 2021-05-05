@@ -1,1 +1,1 @@
-var mnemonic = "rookie view excess wish laptop child kid ability tissue measure message amateur";
+var mnemonic = "amazing dignity stand twenty carbon fat sad flock girl search above equip";

@@ -1,1 +1,1 @@
-var mnemonic = "alley turtle badge cheese enemy agree west say thing room bag embody";
+var mnemonic = "month ribbon puppy give feed hero fall certain office visual cry decide";

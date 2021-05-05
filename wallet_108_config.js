@@ -1,1 +1,1 @@
-var mnemonic = "company short congress pistol kingdom gravity paper fabric fatal debate train goddess";
+var mnemonic = "episode nuclear check electric curious remain census feature broom floor valley reveal";

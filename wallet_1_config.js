@@ -1,1 +1,1 @@
-var mnemonic = "entry correct fringe there napkin feed autumn prison disagree idle produce knee";
+var mnemonic = "worry fashion bone win sponsor tone zoo action account drastic lock gas";

@@ -1,1 +1,1 @@
-var mnemonic = "right merit clock original rich hole cereal lend host door sight icon";
+var mnemonic = "coil eager narrow tube daring range manual warfare alley exchange vocal police";

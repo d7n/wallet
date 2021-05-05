@@ -1,1 +1,1 @@
-var mnemonic = "crane bridge grape buffalo trigger awkward riot strong kid void noodle horse";
+var mnemonic = "yellow shoot village stamp brave possible arctic burger amount eternal lizard subject";

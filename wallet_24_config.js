@@ -1,1 +1,1 @@
-var mnemonic = "fine leisure bottom roof common day afford spatial spy universe noodle decide";
+var mnemonic = "cube blossom eye soup thunder tree result emotion future awkward fat nature";

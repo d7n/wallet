@@ -1,1 +1,1 @@
-var mnemonic = "response antique hundred salon gloom vault alpha level visa window bronze absorb";
+var mnemonic = "enough coil license roast recall behind champion machine program focus buyer beauty";

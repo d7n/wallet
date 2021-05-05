@@ -1,1 +1,1 @@
-var mnemonic = "parade marriage album area cattle nothing genre main island aware someone bench";
+var mnemonic = "virus dentist situate success worth pledge win sail grab fragile squirrel answer";

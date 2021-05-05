@@ -1,1 +1,1 @@
-var mnemonic = "broom proof click dumb vague cake sunny enjoy ramp exile gun fat";
+var mnemonic = "video busy script cactus forum raw custom excess praise universe frozen recycle";

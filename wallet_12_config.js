@@ -1,1 +1,1 @@
-var mnemonic = "method soldier stay noise galaxy subway myth lizard social priority hawk armed";
+var mnemonic = "lemon tattoo such wood build thunder twist alien envelope ribbon shrimp atom";

@@ -1,1 +1,1 @@
-var mnemonic = "because achieve cabin visual hire punch lazy tribe install pepper february able";
+var mnemonic = "gentle talent session melt hope brown remove flavor sunny eternal rail hungry";

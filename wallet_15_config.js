@@ -1,1 +1,1 @@
-var mnemonic = "key cheap turtle dove better bright obey mesh manage lecture screen entire";
+var mnemonic = "latin sunny source universe quantum section visa wine obscure bonus swap great";

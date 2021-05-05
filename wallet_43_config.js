@@ -1,1 +1,1 @@
-var mnemonic = "jacket era tourist ice calm mushroom mixture slim type furnace situate grape";
+var mnemonic = "neglect slab hood glance strong element fee harvest skate sort mobile acquire";

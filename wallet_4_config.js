@@ -1,1 +1,1 @@
-var mnemonic = "step inflict gallery witness hood slow grant habit acquire hill confirm aunt";
+var mnemonic = "such net gauge monitor edge kite mind long museum alley walk sketch";

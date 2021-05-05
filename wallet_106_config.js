@@ -1,1 +1,1 @@
-var mnemonic = "immense give media motion rice eagle before cat runway chaos fence left";
+var mnemonic = "regular profit attract taste curious school tube world dizzy public author flight";

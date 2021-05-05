@@ -1,1 +1,1 @@
-var mnemonic = "guide hollow spider there awake idea icon series bind reject unique track";
+var mnemonic = "snap glue walnut expect exit short hamster find stamp spider output bone";

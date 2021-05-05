@@ -1,1 +1,1 @@
-var mnemonic = "increase salmon bonus myth calm crop exhibit october cradle judge swamp stuff";
+var mnemonic = "tone divert lizard mad enter symptom cigar sand truck spread injury flight";

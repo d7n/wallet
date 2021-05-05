@@ -1,1 +1,1 @@
-var mnemonic = "recycle always another thought pear embark device strong clean tackle when warm";
+var mnemonic = "wheel setup yard obey float tribe rifle announce excite anxiety embark mix";

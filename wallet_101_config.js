@@ -1,1 +1,1 @@
-var mnemonic = "company ride differ impact damage coyote fun cave toast female success angry";
+var mnemonic = "bag tone moon park pond helmet trumpet label noodle mom upon memory";

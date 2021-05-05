@@ -1,1 +1,1 @@
-var mnemonic = "hurry oven silly dirt embark ocean evil fiscal mouse host swap rare";
+var mnemonic = "neutral focus language cup admit orient embrace dog boy easily fashion goddess";

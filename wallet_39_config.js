@@ -1,1 +1,1 @@
-var mnemonic = "easily hour educate virtual remain moon twelve ranch pupil swamp endorse banana";
+var mnemonic = "laundry vacant pool catalog lazy claim property wage emotion promote rib impact";

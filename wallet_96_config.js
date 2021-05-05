@@ -1,1 +1,1 @@
-var mnemonic = "prison crazy leisure enrich pupil retreat pause toe female morning put panel";
+var mnemonic = "pond build soft husband hobby clock join glare slide slot garbage rapid";

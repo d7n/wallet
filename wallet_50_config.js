@@ -1,1 +1,1 @@
-var mnemonic = "forest luxury mouse success magnet receive okay size lyrics hundred ghost pave";
+var mnemonic = "immune siege space useless marble hen sugar prefer hotel rain sibling narrow";

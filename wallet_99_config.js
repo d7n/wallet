@@ -1,1 +1,1 @@
-var mnemonic = "wave they dish dwarf dove need orchard vibrant hour column when unveil";
+var mnemonic = "rotate moon select degree erase stairs silk family cliff danger swap bus";

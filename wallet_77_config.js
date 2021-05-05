@@ -1,1 +1,1 @@
-var mnemonic = "pattern transfer blur bracket forest siege latin genre hunt connect protect frog";
+var mnemonic = "obscure naive strike snap merge enjoy result plate awesome rapid other smooth";

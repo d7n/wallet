@@ -1,1 +1,1 @@
-var mnemonic = "special leg they loud design dice orange sadness wish abuse volume language";
+var mnemonic = "main fence path staff fossil design capable nothing fault vicious comfort east";

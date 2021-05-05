@@ -1,1 +1,1 @@
-var mnemonic = "torch actress jealous cycle fancy venture version fish theme inform trim number";
+var mnemonic = "brave mouse hamster group jazz spend forget grain cry enjoy scout proof";

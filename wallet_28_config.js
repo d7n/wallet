@@ -1,1 +1,1 @@
-var mnemonic = "novel also mistake fly rough length wheat giggle beef dignity mechanic cinnamon";
+var mnemonic = "embark color coffee stuff area repeat forest safe sheriff fruit rice fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "process stay slab all celery category build chalk jar fiber turn soon";
+var mnemonic = "join either wish wine fuel neglect company twenty early teach seed rubber";

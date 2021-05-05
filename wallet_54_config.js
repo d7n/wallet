@@ -1,1 +1,1 @@
-var mnemonic = "oxygen eyebrow witness stock moon soup obscure bean joy soda blanket thank";
+var mnemonic = "soccer sunset jazz someone angry fancy fame battle exact piano bone dismiss";

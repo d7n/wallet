@@ -1,1 +1,1 @@
-var mnemonic = "sentence vote find cluster kind plug pattern rare stadium screen recipe antique";
+var mnemonic = "evil chest knock during behind pigeon around wear file coral around magnet";

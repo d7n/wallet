@@ -1,1 +1,1 @@
-var mnemonic = "chronic maze pizza express key item usage direct fancy casino zebra hard";
+var mnemonic = "put charge slide final age tag floor talk staff panic nose pond";

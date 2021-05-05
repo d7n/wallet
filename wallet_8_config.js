@@ -1,1 +1,1 @@
-var mnemonic = "host hobby main vivid team bachelor juice slogan hover simple oak fluid";
+var mnemonic = "disagree power record misery equal hedgehog since valve tail lift divorce hand";

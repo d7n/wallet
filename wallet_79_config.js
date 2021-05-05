@@ -1,1 +1,1 @@
-var mnemonic = "wait tortoise bus syrup around book choose waste much step impact impose";
+var mnemonic = "payment chaos cook use minimum blush humble help zero recycle people man";

@@ -1,1 +1,1 @@
-var mnemonic = "hole prosper short oven trouble oven estate goose neither problem often green";
+var mnemonic = "artefact tourist cricket miracle jungle expect frown lens fury tortoise pioneer push";

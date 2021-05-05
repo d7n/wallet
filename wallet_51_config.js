@@ -1,1 +1,1 @@
-var mnemonic = "grape cancel swarm naive want calm shed tide panel sure wrap vacant";
+var mnemonic = "hurry own vast mad uncle wrong install boy blind estate oil excuse";

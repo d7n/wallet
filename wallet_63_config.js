@@ -1,1 +1,1 @@
-var mnemonic = "practice machine tackle column stool addict fat pelican teach crouch blood october";
+var mnemonic = "virus audit spy click bone solar unit install clerk enter foot grief";

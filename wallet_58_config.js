@@ -1,1 +1,1 @@
-var mnemonic = "hip empty hello enroll spin sister picture boil music auction purse tattoo";
+var mnemonic = "discover behind actress message twenty wild mask deliver prepare assist old april";

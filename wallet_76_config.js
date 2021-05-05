@@ -1,1 +1,1 @@
-var mnemonic = "wheat thunder ski jump armor business common phrase proud patient way spike";
+var mnemonic = "angry noodle route tourist slight close broom utility found drive sugar fan";

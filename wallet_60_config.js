@@ -1,1 +1,1 @@
-var mnemonic = "skin loyal canvas mixed scheme cook author crucial jar joy manage ribbon";
+var mnemonic = "case review spell topic venture result ranch talent color inside photo govern";

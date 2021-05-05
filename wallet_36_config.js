@@ -1,1 +1,1 @@
-var mnemonic = "absurd bachelor either cotton advance future code capable dose pill three grape";
+var mnemonic = "huge total spawn alpha consider kiss play spawn pear icon orchard foil";

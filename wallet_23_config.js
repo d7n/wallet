@@ -1,1 +1,1 @@
-var mnemonic = "memory kite endless choice upon phrase trade myself capable barrel below flip";
+var mnemonic = "wasp wave code appear famous auction this tiger frequent trust fox venture";

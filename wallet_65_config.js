@@ -1,1 +1,1 @@
-var mnemonic = "nephew shaft adjust crazy future great object ribbon alley actor bacon dutch";
+var mnemonic = "poet photo elephant switch live speed denial apple unusual piano dwarf grit";

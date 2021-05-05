@@ -1,1 +1,1 @@
-var mnemonic = "volcano payment drill calm frozen truth economy powder slide recipe wrist bless";
+var mnemonic = "strong food head crash odor witness general motor bacon vessel loyal fury";
