@@ -1,1 +1,1 @@
-var mnemonic = "turn coin bridge enemy wolf private emerge aerobic leader immense slice mystery";
+var mnemonic = "ghost gentle return session rabbit pond analyst grape appear truth recipe tag";

@@ -1,1 +1,1 @@
-var mnemonic = "move teach brief strong token monkey fence marble label come need horn";
+var mnemonic = "session type refuse bone unfold erode glare keen food senior media trouble";

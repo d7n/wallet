@@ -1,1 +1,1 @@
-var mnemonic = "kite foam various silk derive upgrade garden misery setup snap innocent physical";
+var mnemonic = "rescue punch reject garbage kid autumn misery cancel weather tank rough section";

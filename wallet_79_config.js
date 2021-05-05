@@ -1,1 +1,1 @@
-var mnemonic = "shrimp ocean amused device fiscal crystal renew firm hidden much tuition castle";
+var mnemonic = "front then judge lamp search during apple mixture provide initial push control";

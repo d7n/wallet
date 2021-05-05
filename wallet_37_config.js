@@ -1,1 +1,1 @@
-var mnemonic = "hungry lonely aim interest erase into reason border kingdom liar enough estate";
+var mnemonic = "maid fiber draft kiss brisk reopen kid boil soup slush supreme ribbon";

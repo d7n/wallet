@@ -1,1 +1,1 @@
-var mnemonic = "bind swim label lunch rival approve erosion puppy measure mystery chicken prefer";
+var mnemonic = "speak luggage follow crystal model decide pizza opinion frozen lucky choose exile";

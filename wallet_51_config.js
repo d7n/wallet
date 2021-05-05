@@ -1,1 +1,1 @@
-var mnemonic = "allow harsh young rough shove involve cancel topic ridge unfold oven civil";
+var mnemonic = "where city ripple drill animal organ vote tip bike buzz kangaroo clown";

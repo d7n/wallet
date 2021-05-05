@@ -1,1 +1,1 @@
-var mnemonic = "inflict lens bachelor rural fancy galaxy salmon merge source verb kitchen force";
+var mnemonic = "drift maid shop neither fluid suspect huge goat lobster fashion resemble smoke";

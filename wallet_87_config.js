@@ -1,1 +1,1 @@
-var mnemonic = "vault peace steak oven obvious woman steak elder busy trap license unable";
+var mnemonic = "sudden armor conduct scare sauce tomorrow spawn trigger balcony minute board buyer";

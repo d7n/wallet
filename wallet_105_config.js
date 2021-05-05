@@ -1,1 +1,1 @@
-var mnemonic = "divorce enjoy like light cup layer decrease squirrel venture lock master anchor";
+var mnemonic = "hybrid drama ticket text lonely enough bridge flip blade slogan clean any";

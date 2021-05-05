@@ -1,1 +1,1 @@
-var mnemonic = "junior decline fall plug negative step melody increase vapor pilot shoot rescue";
+var mnemonic = "deny cinnamon vendor slow vivid idle exist ship gold eyebrow hint worry";

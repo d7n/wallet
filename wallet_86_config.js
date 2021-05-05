@@ -1,1 +1,1 @@
-var mnemonic = "utility seed blush suspect leader window photo grocery glad bar oppose history";
+var mnemonic = "film output order program hybrid parrot public soft book clip catch move";

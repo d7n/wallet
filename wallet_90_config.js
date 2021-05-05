@@ -1,1 +1,1 @@
-var mnemonic = "banana cool quantum chaos clerk rebel tobacco twin run small trip cradle";
+var mnemonic = "spare stereo door party imitate scatter venture clay hunt fantasy found pupil";

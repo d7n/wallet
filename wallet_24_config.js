@@ -1,1 +1,1 @@
-var mnemonic = "receive skull puppy because fork hotel notice frozen merit resemble balance coach";
+var mnemonic = "unique rely position daughter great mind thunder design battle faculty conduct social";

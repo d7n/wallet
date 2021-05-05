@@ -1,1 +1,1 @@
-var mnemonic = "thank school pull pet various embark enter prefer enroll adjust law question";
+var mnemonic = "onion unveil vanish usage credit result follow near during remain stool drive";

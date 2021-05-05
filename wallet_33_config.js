@@ -1,1 +1,1 @@
-var mnemonic = "wreck buyer supreme knock float bind february stumble detect kiwi injury believe";
+var mnemonic = "ring rule misery combine sentence cluster oxygen achieve unaware marble stamp giraffe";

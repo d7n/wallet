@@ -1,1 +1,1 @@
-var mnemonic = "answer owner deny punch wrap spoil turtle sentence turkey addict trick rally";
+var mnemonic = "purpose lawn correct fiber shed pond slice vehicle enjoy husband race that";

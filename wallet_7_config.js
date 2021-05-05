@@ -1,1 +1,1 @@
-var mnemonic = "heavy voyage rule stamp pole neck process push salt beauty garbage hold";
+var mnemonic = "glow ketchup tattoo feature defy better food innocent napkin ladder lens indicate";

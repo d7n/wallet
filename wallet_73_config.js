@@ -1,1 +1,1 @@
-var mnemonic = "ticket service bounce novel camera weapon edit trash company call patch slight";
+var mnemonic = "castle capital pull inner fuel corn best work cruel divide slide amount";

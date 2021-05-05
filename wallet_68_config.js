@@ -1,1 +1,1 @@
-var mnemonic = "vacant step cruel sunny kitten drum behind dream capable wreck chronic range";
+var mnemonic = "paddle caught chapter embrace acoustic faint moment assume crane mistake level drop";

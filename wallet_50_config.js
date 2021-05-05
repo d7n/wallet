@@ -1,1 +1,1 @@
-var mnemonic = "couple truck private ticket field pizza suspect animal smart ugly cover buddy";
+var mnemonic = "wood settle fruit forest kind scrub material dragon chapter domain thunder illness";

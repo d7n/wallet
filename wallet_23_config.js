@@ -1,1 +1,1 @@
-var mnemonic = "inquiry position acoustic crater fiscal arctic transfer amused step lobster announce item";
+var mnemonic = "gun gauge cry worth eight viable margin luxury invite journey element protect";

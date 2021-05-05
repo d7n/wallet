@@ -1,1 +1,1 @@
-var mnemonic = "fatal cruel remove picnic cabin panic length ugly evolve fade liar asset";
+var mnemonic = "physical health all mother twelve fortune inject sibling december vast before syrup";

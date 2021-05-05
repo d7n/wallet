@@ -1,1 +1,1 @@
-var mnemonic = "image napkin school swift also pistol mango bind deputy any quiz shuffle";
+var mnemonic = "exercise acoustic glad gift plunge gas taxi suffer absorb oak trip sunset";

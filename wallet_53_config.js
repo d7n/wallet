@@ -1,1 +1,1 @@
-var mnemonic = "mansion bind morning height chat episode hundred vendor weasel airport stamp height";
+var mnemonic = "bachelor topple cook benefit violin fatigue baby wood meadow jungle awkward index";

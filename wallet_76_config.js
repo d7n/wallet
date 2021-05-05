@@ -1,1 +1,1 @@
-var mnemonic = "thunder calm trip armed caution measure regular speed tomato expand eyebrow jeans";
+var mnemonic = "captain penalty adapt nephew decorate train execute poet end theme shrimp art";

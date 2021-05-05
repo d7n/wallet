@@ -1,1 +1,1 @@
-var mnemonic = "steel derive shy zoo coach clap picture drift recycle remind sea attitude";
+var mnemonic = "tone bulk remain cement measure chief cancel expire always afford save venue";

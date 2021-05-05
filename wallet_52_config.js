@@ -1,1 +1,1 @@
-var mnemonic = "vacant drive keep project over meat cute laptop major aunt mercy deliver";
+var mnemonic = "ostrich medal topple vacant daring later surface intact power wire remember palace";

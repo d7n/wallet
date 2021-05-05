@@ -1,1 +1,1 @@
-var mnemonic = "path clay solid call seminar moral country step width stairs wrist judge";
+var mnemonic = "daughter wet injury member employ property pistol sand beauty unable puppy spot";

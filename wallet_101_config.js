@@ -1,1 +1,1 @@
-var mnemonic = "deer bleak busy jacket fee afford theme cement position grow amateur gap";
+var mnemonic = "visit initial track wide artist edge pledge sentence since health addict again";

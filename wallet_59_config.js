@@ -1,1 +1,1 @@
-var mnemonic = "ceiling monitor atom enemy balance ripple chicken apple swarm monitor kind panel";
+var mnemonic = "river swear crane garage panther slight thumb remove target practice write useless";

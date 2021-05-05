@@ -1,1 +1,1 @@
-var mnemonic = "evoke language refuse seminar zone flame also coyote day bonus focus jacket";
+var mnemonic = "month gauge adapt cycle oyster sausage crumble verify special exist clever cabin";

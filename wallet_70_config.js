@@ -1,1 +1,1 @@
-var mnemonic = "special chronic daughter disagree receive rude sun cup stock actress crane october";
+var mnemonic = "protect involve attract field off ancient fit above air phone six vast";

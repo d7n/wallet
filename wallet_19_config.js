@@ -1,1 +1,1 @@
-var mnemonic = "undo miss ask quality verify eternal unaware badge expect frown wild include";
+var mnemonic = "lizard whip truth announce tennis rocket file proud notice notable pond unit";

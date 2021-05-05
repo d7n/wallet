@@ -1,1 +1,1 @@
-var mnemonic = "mom monitor witness outdoor wrist hard any fresh electric crucial throw ecology";
+var mnemonic = "original nose code puzzle oval over winner alcohol hunt banner trade hidden";

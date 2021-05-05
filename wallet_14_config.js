@@ -1,1 +1,1 @@
-var mnemonic = "mail innocent light color arena same erosion head media theme void cement";
+var mnemonic = "output brick matrix reason alter enlist foam prize alter honey reveal accuse";

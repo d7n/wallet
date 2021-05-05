@@ -1,1 +1,1 @@
-var mnemonic = "slight bridge insect okay ask lecture october air laptop smile involve all";
+var mnemonic = "pottery guide quality december maple almost dwarf tattoo label autumn absent camp";

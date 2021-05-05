@@ -1,1 +1,1 @@
-var mnemonic = "move lucky enhance sad egg please foam ensure butter hedgehog uniform abandon";
+var mnemonic = "solve typical gown sock art inherit mixture own turtle toward use tiny";

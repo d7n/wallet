@@ -1,1 +1,1 @@
-var mnemonic = "hawk vapor version open goat doctor vessel mercy arena grace siren again";
+var mnemonic = "fatal beauty audit laptop rather ginger mammal sauce smart copper below result";

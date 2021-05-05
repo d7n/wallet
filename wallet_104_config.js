@@ -1,1 +1,1 @@
-var mnemonic = "hub wish advice cricket poverty cinnamon jeans buddy chase unaware match wink";
+var mnemonic = "spoil describe woman canvas seminar tongue circle trial account frame pact adjust";

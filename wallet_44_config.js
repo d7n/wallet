@@ -1,1 +1,1 @@
-var mnemonic = "twice breeze grab sell oven organ ridge half luxury goat west design";
+var mnemonic = "wage affair shoe laugh token mind mechanic body above antique mobile rather";

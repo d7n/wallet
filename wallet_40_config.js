@@ -1,1 +1,1 @@
-var mnemonic = "upgrade answer punch vehicle private wonder all hotel drill brother weapon novel";
+var mnemonic = "nose know work enact tomato half setup fruit spot loud again that";

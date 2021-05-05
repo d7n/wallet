@@ -1,1 +1,1 @@
-var mnemonic = "adapt fan critic thumb biology sweet half giant comic language fox define";
+var mnemonic = "reflect brain bomb arrow west globe rack speak bleak three unfair ability";

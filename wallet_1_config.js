@@ -1,1 +1,1 @@
-var mnemonic = "echo exhaust tenant stumble lonely grass adjust feel deer unusual marriage lottery";
+var mnemonic = "recycle climb pill play tail tribe surround combine dial banana found indoor";

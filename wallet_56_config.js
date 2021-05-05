@@ -1,1 +1,1 @@
-var mnemonic = "target toward insect ask abandon page festival figure vacuum thunder moon again";
+var mnemonic = "engine boring author salt reduce more almost misery police borrow enlist unknown";

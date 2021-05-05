@@ -1,1 +1,1 @@
-var mnemonic = "fitness surround rural face symbol peasant news abuse slight faculty crane what";
+var mnemonic = "exhibit sound hand cousin rose market uncle setup time season stove captain";

@@ -1,1 +1,1 @@
-var mnemonic = "cute pretty struggle year assault dry obscure mountain clarify zone recipe wolf";
+var mnemonic = "sauce junior dirt mystery mother process human spring stumble version alone submit";

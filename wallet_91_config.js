@@ -1,1 +1,1 @@
-var mnemonic = "crowd spatial board squeeze dirt tell segment neglect fetch rare nest burst";
+var mnemonic = "useless remain truck unfair chaos abandon casino flame frog place orchard news";

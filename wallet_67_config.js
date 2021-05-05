@@ -1,1 +1,1 @@
-var mnemonic = "there iron wise chronic bird lawn decide magic produce rule captain stadium";
+var mnemonic = "leopard monitor supreme drama alter abandon sort sound unique still waste require";

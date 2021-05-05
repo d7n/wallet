@@ -1,1 +1,1 @@
-var mnemonic = "spirit verify flee develop expose whip flavor scan lion kiwi blouse average";
+var mnemonic = "setup empower olympic upset force brick feature salad forum witness awkward glad";

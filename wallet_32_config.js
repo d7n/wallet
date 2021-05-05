@@ -1,1 +1,1 @@
-var mnemonic = "bamboo shine carpet polar tumble fall exit wise speak dream weapon match";
+var mnemonic = "below slush draft language twin remove section tag embark tuna announce clutch";

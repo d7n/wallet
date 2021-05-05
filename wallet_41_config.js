@@ -1,1 +1,1 @@
-var mnemonic = "dragon volume novel census whale shrimp entry invest measure bring surprise stay";
+var mnemonic = "horn divide tomorrow enter oxygen enemy seed benefit speak match sand govern";

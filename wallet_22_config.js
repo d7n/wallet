@@ -1,1 +1,1 @@
-var mnemonic = "moral wear museum round final toward record sadness cargo wedding sibling void";
+var mnemonic = "tent clean hurry talent situate cause senior scissors jealous flash wrist shift";

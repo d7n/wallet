@@ -1,1 +1,1 @@
-var mnemonic = "audit theme number pudding planet still fee canal session tomato cruel taste";
+var mnemonic = "science real high swarm lonely evoke render music vague fame rookie hunt";

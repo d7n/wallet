@@ -1,1 +1,1 @@
-var mnemonic = "report bone inmate latin dial poem tourist sibling cube brain unveil unique";
+var mnemonic = "mountain explain donor town size excite friend idle situate club claw catch";

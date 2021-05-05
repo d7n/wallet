@@ -1,1 +1,1 @@
-var mnemonic = "salad twist prefer humble page address dynamic lobster guide injury orbit judge";
+var mnemonic = "you vibrant leader snow spike weapon side various engine metal enhance ahead";

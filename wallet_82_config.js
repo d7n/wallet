@@ -1,1 +1,1 @@
-var mnemonic = "bread honey decade wasp hold inside warm client that cable south sting";
+var mnemonic = "honey cereal security system own habit tourist road tunnel indoor paddle script";

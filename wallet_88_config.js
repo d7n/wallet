@@ -1,1 +1,1 @@
-var mnemonic = "inquiry reform air april release cycle witness space assume zero before immune";
+var mnemonic = "danger year spoil flag merry celery wait exchange essence clap champion pig";

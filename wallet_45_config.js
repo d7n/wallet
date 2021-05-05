@@ -1,1 +1,1 @@
-var mnemonic = "viable design humble fox column dress empower notable axis forum witness catalog";
+var mnemonic = "sphere corn buyer route autumn sudden live battle phrase angle main light";

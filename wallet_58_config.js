@@ -1,1 +1,1 @@
-var mnemonic = "cupboard liberty ripple lazy ivory aware during tag pilot wasp motion clog";
+var mnemonic = "thunder identify spend twist craft key coach boat valley peanut hip velvet";

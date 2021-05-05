@@ -1,1 +1,1 @@
-var mnemonic = "glove mechanic kiwi match act east notice goat economy genre analyst saddle";
+var mnemonic = "hour reform spend crater zoo two loan always argue speed toddler love";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy gain dolphin business profit dune poet silly party belt oak order";
+var mnemonic = "chronic screen ignore burst gun furnace world recall cave afraid armor price";

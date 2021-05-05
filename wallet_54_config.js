@@ -1,1 +1,1 @@
-var mnemonic = "guide bracket river defense random thank enter happy piece accuse leisure firm";
+var mnemonic = "ship wealth bracket ceiling team draw picture orchard vapor lamp lecture fork";

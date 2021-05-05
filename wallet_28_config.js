@@ -1,1 +1,1 @@
-var mnemonic = "deliver limit bean crash tilt riot column evolve together oblige rotate useful";
+var mnemonic = "ivory print crawl lawsuit circle leaf label clock copper recall verb same";

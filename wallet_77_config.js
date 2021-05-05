@@ -1,1 +1,1 @@
-var mnemonic = "green solar kidney fabric stadium number lyrics february buffalo ready truck subject";
+var mnemonic = "enter ivory fee april chuckle strategy divert salon about scale tomato small";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge canal decade federal vault fade vague ticket year dynamic hockey window";
+var mnemonic = "gentle claw midnight tackle help can spoon hint doll club joy room";

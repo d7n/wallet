@@ -1,1 +1,1 @@
-var mnemonic = "faith fuel staff rookie pause ribbon nature exchange crane turkey butter group";
+var mnemonic = "squirrel similar hen venture amused warfare hood lumber jazz cluster honey raven";

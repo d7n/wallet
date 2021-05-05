@@ -1,1 +1,1 @@
-var mnemonic = "strong pledge agree tornado render save medal this advance between clean scout";
+var mnemonic = "erode slim neglect priority easily wagon cattle squirrel install secret outer december";

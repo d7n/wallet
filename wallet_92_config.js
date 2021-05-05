@@ -1,1 +1,1 @@
-var mnemonic = "aware royal agent imitate outer between kangaroo trip ship possible bind breeze";
+var mnemonic = "calm screen must digital tray similar coil finger toy vintage mobile early";

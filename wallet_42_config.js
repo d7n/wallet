@@ -1,1 +1,1 @@
-var mnemonic = "logic primary monster school fortune salt general left horn record twenty purpose";
+var mnemonic = "trouble satisfy giraffe decade donkey admit gallery crawl onion angle ordinary garbage";

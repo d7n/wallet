@@ -1,1 +1,1 @@
-var mnemonic = "donor kitchen case devote remove size fiscal glove path exclude scorpion evolve";
+var mnemonic = "guard involve never machine enemy drastic reason jazz state render genre mass";

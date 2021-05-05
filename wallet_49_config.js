@@ -1,1 +1,1 @@
-var mnemonic = "pull case two trim swamp account decade display action fire farm little";
+var mnemonic = "grain teach inhale pony cool marriage spell cool rebuild soccer permit upon";

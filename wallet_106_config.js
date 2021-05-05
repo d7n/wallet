@@ -1,1 +1,1 @@
-var mnemonic = "head hammer actress paddle umbrella funny lab blue joy idle miss option";
+var mnemonic = "stay inner gun local giraffe indicate remove truly base slab time donor";

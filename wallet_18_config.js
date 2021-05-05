@@ -1,1 +1,1 @@
-var mnemonic = "venture filter slender midnight champion junk relief mix absent summer sphere help";
+var mnemonic = "aunt segment belt narrow strategy zone ordinary civil suspect cycle hope slogan";

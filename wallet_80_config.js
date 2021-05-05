@@ -1,1 +1,1 @@
-var mnemonic = "require sustain wasp list stool hood crack aunt hollow brush pause uniform";
+var mnemonic = "target style private glow upset range sugar ill drink whisper define fluid";

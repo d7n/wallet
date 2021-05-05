@@ -1,1 +1,1 @@
-var mnemonic = "ahead lawsuit daring uphold suffer treat gauge delay session prepare body fence";
+var mnemonic = "tiny alarm machine organ anger powder emerge time crop satoshi blast impulse";

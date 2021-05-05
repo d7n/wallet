@@ -1,1 +1,1 @@
-var mnemonic = "attract miss source iron random scrub federal rubber purpose promote tornado coast";
+var mnemonic = "doctor brief east worth actual renew equip staff animal talent sniff cake";

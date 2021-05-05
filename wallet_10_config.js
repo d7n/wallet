@@ -1,1 +1,1 @@
-var mnemonic = "fuel luxury anger unhappy genius hidden number door position jungle edge jewel";
+var mnemonic = "adapt reform myth engage office survey book increase grace powder glue obvious";

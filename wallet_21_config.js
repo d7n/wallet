@@ -1,1 +1,1 @@
-var mnemonic = "fee attract air clerk wink buyer install session spatial spawn bicycle push";
+var mnemonic = "library truck version mix blind gold ten milk cousin potato glad mom";

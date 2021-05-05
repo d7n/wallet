@@ -1,1 +1,1 @@
-var mnemonic = "garlic other expire guilt coil rebuild situate jelly consider tape brush hover";
+var mnemonic = "entire brush image strategy hunt street grocery jar push bargain mind need";

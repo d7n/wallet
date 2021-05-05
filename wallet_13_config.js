@@ -1,1 +1,1 @@
-var mnemonic = "hidden indoor lend ostrich wrestle pigeon float unfold inch easily pizza garbage";
+var mnemonic = "once horn club jaguar subject bulk note canoe fossil outside peace clog";

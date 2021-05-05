@@ -1,1 +1,1 @@
-var mnemonic = "memory hold cream hospital bind bronze success chase wonder float left drink";
+var mnemonic = "grain frame brass whale movie regret idle hollow cloud airport detect rescue";

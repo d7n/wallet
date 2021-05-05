@@ -1,1 +1,1 @@
-var mnemonic = "leader witness ketchup among length glide tourist boost genuine praise month resist";
+var mnemonic = "myself silly maze seminar million boring chat assume rookie mountain rain hood";

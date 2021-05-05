@@ -1,1 +1,1 @@
-var mnemonic = "obvious amazing aware twin draw attack write marble bracket arch rubber win";
+var mnemonic = "palm breeze ten skirt duck cricket turkey purpose anxiety say absorb capital";

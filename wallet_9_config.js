@@ -1,1 +1,1 @@
-var mnemonic = "asthma birth kitten buyer view canal electric nerve dynamic industry ocean occur";
+var mnemonic = "fresh wheel crane expose route sense early fluid slush zero teach enhance";

@@ -1,1 +1,1 @@
-var mnemonic = "vote empty devote afford muscle dad foam athlete success above clump only";
+var mnemonic = "stay explain today advance lawsuit camp glide end injury muffin spike hero";

@@ -1,1 +1,1 @@
-var mnemonic = "humble egg absurd object cause kiss race office agent adult inject snack";
+var mnemonic = "limit grass area banner verify arrive distance cup insect quarter speed verb";

@@ -1,1 +1,1 @@
-var mnemonic = "gauge expand obtain radar near conduct rebuild exist echo gown prize reopen";
+var mnemonic = "heavy tiny essay wall marine tongue oak sorry animal into kitchen youth";

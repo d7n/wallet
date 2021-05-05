@@ -1,1 +1,1 @@
-var mnemonic = "design divert wreck excess keep resemble reward distance bundle voice gossip bless";
+var mnemonic = "ten winter puppy slam genuine grass genius rescue farm already cram panic";
