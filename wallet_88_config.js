@@ -1,1 +1,1 @@
-var mnemonic = "asset settle document cannon praise maid unable episode parent laugh hill solid";
+var mnemonic = "throw human weasel all birth earth moral love east item risk blur";

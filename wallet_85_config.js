@@ -1,1 +1,1 @@
-var mnemonic = "explain daring panda clap sort combine skin hand clock muffin payment urge";
+var mnemonic = "rescue column ocean cute cram inquiry frog private decade dinner place family";

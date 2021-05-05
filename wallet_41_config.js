@@ -1,1 +1,1 @@
-var mnemonic = "gown fold access foil ginger promote region open moon casino confirm hunt";
+var mnemonic = "absurd tail next chaos cheese apology roast shallow ivory stomach whip talk";

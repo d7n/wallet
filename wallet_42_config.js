@@ -1,1 +1,1 @@
-var mnemonic = "pigeon add arch bone blur few voyage drift recipe combine brand tomorrow";
+var mnemonic = "panel crush abuse grape drink puppy rent giraffe rule reflect era cushion";

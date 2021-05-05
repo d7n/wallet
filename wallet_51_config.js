@@ -1,1 +1,1 @@
-var mnemonic = "derive cloud machine raw month rural great tag egg few obvious pink";
+var mnemonic = "tip mask fall ribbon actual nice such ginger pull rabbit assume october";

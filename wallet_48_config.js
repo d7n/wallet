@@ -1,1 +1,1 @@
-var mnemonic = "fruit mask spy top business pear tray initial venue unit crane convince";
+var mnemonic = "laundry physical forum walnut invest dwarf trim labor entire inside vast stone";

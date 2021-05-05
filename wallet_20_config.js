@@ -1,1 +1,1 @@
-var mnemonic = "speak write solid rent seminar glance scheme siege analyst raise injury where";
+var mnemonic = "diesel monster skull long window girl fitness soon bone husband hammer toss";

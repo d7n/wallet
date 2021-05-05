@@ -1,1 +1,1 @@
-var mnemonic = "kick sort expose doctor leave fan promote please proud airport kingdom roof";
+var mnemonic = "between floor sight baby child loop mechanic crowd exist celery estate cost";

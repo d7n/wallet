@@ -1,1 +1,1 @@
-var mnemonic = "soccer help lawsuit nut enroll squeeze defense gospel silk innocent amount husband";
+var mnemonic = "solar fault method eagle praise bullet camera immune talent okay erode bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "ability canyon spoil door improve suggest scare blame hurry dawn walk dust";
+var mnemonic = "divide antique retire bread famous across culture tooth board dance forget angle";

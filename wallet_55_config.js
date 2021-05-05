@@ -1,1 +1,1 @@
-var mnemonic = "diesel name aerobic wrap busy caution derive second liar toilet battle body";
+var mnemonic = "must obey drum skull favorite endorse trick team train brisk coyote tooth";

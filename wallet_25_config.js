@@ -1,1 +1,1 @@
-var mnemonic = "tree bird defy winner shoe kick horse want talent flush cave arrest";
+var mnemonic = "receive gather accident country junior supreme car timber drop target notable glue";

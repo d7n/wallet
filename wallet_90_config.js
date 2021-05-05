@@ -1,1 +1,1 @@
-var mnemonic = "door remember bean mutual mobile solid motion erode park wrist airport allow";
+var mnemonic = "little announce street fresh trade canal speed pact antique universe raw fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "empower eye upgrade boss school urban labor spray message victory buddy above";
+var mnemonic = "option panda dice fall arch depend loop erupt cheese skull aerobic hockey";

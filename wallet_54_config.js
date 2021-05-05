@@ -1,1 +1,1 @@
-var mnemonic = "used legal faith north talk crouch inform river digital double goddess trade";
+var mnemonic = "toilet remember suit luxury maximum cover jewel fox rail wonder eagle ignore";

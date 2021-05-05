@@ -1,1 +1,1 @@
-var mnemonic = "pair sorry cake volcano visa bitter bind volcano loop gown salon travel";
+var mnemonic = "debate pig lend exclude scrap blush survey blast push icon shove song";

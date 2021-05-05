@@ -1,1 +1,1 @@
-var mnemonic = "scorpion motor cube mango fat still calm guess tape amused found matrix";
+var mnemonic = "capital chair august inject immune park attend loud just vessel uncover theory";

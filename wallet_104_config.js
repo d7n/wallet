@@ -1,1 +1,1 @@
-var mnemonic = "parent onion also trouble nasty march hawk seek aim suggest ladder cash";
+var mnemonic = "badge praise plate life ship metal wing moral debate finish glue junk";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty adapt unfold flash vendor breeze wish arrow scout hurry letter creek";
+var mnemonic = "tail throw bind glove soda theory lion recycle debate tray wall talk";

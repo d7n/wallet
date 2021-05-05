@@ -1,1 +1,1 @@
-var mnemonic = "amateur away opera latin system doctor rich next salon shrug panel owner";
+var mnemonic = "destroy welcome another suffer joke idle final battle club lamp fragile senior";

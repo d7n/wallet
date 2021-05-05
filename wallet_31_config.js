@@ -1,1 +1,1 @@
-var mnemonic = "proof question spy embrace fire impose genius novel arena crazy company protect";
+var mnemonic = "sick possible angle verb million proud time napkin middle leopard position provide";

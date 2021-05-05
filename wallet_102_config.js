@@ -1,1 +1,1 @@
-var mnemonic = "enter neck hobby ball hello depart soldier shock cry reward spatial wood";
+var mnemonic = "flame ill immune seed antenna trend column scene sample burden planet vocal";

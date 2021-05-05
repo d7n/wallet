@@ -1,1 +1,1 @@
-var mnemonic = "tomato atom roast recycle pyramid net deal clutch just piece spice battle";
+var mnemonic = "amount now venture solution shrug carry bag rack ginger various sad lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic clean ancient clump front marriage soda giggle nation slice achieve make";
+var mnemonic = "imitate fuel motion noise order royal tree arena only donor coil symbol";

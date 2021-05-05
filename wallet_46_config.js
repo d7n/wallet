@@ -1,1 +1,1 @@
-var mnemonic = "shaft umbrella twin combine garden erode drop wide six naive table trick";
+var mnemonic = "key sun riot pass anger weather bracket amused ensure dilemma wood magnet";

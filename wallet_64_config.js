@@ -1,1 +1,1 @@
-var mnemonic = "delay practice purity group nose treat vapor decorate ability fitness quit caution";
+var mnemonic = "churn surprise unit improve flag coconut miracle manual street soldier noise cruise";

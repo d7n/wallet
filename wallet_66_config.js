@@ -1,1 +1,1 @@
-var mnemonic = "face voyage install arrange save mule write truth chat panther medal virtual";
+var mnemonic = "wood butter toilet glow pretty fence exit there eyebrow evidence food medal";

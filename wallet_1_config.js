@@ -1,1 +1,1 @@
-var mnemonic = "gain spread indoor retire render end fall innocent banner vehicle review sock";
+var mnemonic = "dune erode memory basket wheel attack input ship round cruise moral fox";

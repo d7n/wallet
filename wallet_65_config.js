@@ -1,1 +1,1 @@
-var mnemonic = "clump fuel wire female hurt jeans animal situate bicycle flavor mimic bulb";
+var mnemonic = "trap sleep light control luggage find turtle denial easy scout segment town";

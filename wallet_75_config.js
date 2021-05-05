@@ -1,1 +1,1 @@
-var mnemonic = "hobby smile fiction mirror pigeon jewel coral theory evoke step very behind";
+var mnemonic = "put test carbon cart pipe unit category describe oven pistol mobile seek";

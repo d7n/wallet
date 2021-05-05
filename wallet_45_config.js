@@ -1,1 +1,1 @@
-var mnemonic = "loan grant wool couch phone fee gain hospital zoo base organ pact";
+var mnemonic = "win crew spread canvas jealous tone equal zoo sick save tuition rabbit";

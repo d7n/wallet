@@ -1,1 +1,1 @@
-var mnemonic = "else armed coral simple wall drama crop arrow sister sample mango marine";
+var mnemonic = "border corn way tide clever inject assist disease addict festival moon clog";

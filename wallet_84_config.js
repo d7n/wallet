@@ -1,1 +1,1 @@
-var mnemonic = "sun shadow alcohol huge gesture slow holiday model leave south slight green";
+var mnemonic = "desk spawn auto cake own end nation casino mistake shoulder icon zebra";

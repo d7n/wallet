@@ -1,1 +1,1 @@
-var mnemonic = "symbol inside cart dial secret table mail manual aspect settle poet card";
+var mnemonic = "ladder better drip chef piano funny captain possible loan civil use acquire";

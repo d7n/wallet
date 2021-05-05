@@ -1,1 +1,1 @@
-var mnemonic = "ridge must space rib put where allow lobster scrub buddy trick involve";
+var mnemonic = "salt sword uncover churn dust apology mind asthma blossom glad knee appear";

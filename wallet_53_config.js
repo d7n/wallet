@@ -1,1 +1,1 @@
-var mnemonic = "carpet cactus bless enough man ability voice spot wish ripple rubber kangaroo";
+var mnemonic = "shock fish appear glare guess blame flush actor uncover guide inside column";

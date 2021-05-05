@@ -1,1 +1,1 @@
-var mnemonic = "volume reject attitude ask false liquid august total icon equip brain dizzy";
+var mnemonic = "habit now require diet addict wasp one indoor blur sing enact february";

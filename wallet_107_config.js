@@ -1,1 +1,1 @@
-var mnemonic = "mule swap since recipe biology organ middle assist scrap crunch inside burst";
+var mnemonic = "project jealous stone valley regular engage fabric true option example beach escape";

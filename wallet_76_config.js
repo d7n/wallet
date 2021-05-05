@@ -1,1 +1,1 @@
-var mnemonic = "wedding giggle oven voyage toward party invest pitch early fluid transfer toward";
+var mnemonic = "found stairs once solid turtle various illness fade city face lunar tonight";

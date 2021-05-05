@@ -1,1 +1,1 @@
-var mnemonic = "merit illness reveal ghost choose best deer cheese cool culture army together";
+var mnemonic = "glance notice skull kind practice pulse hen bird trigger pigeon push casino";

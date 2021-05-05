@@ -1,1 +1,1 @@
-var mnemonic = "tone universe harsh behave cool genuine grab shed emerge soul wool conduct";
+var mnemonic = "vault chat tomorrow method winner uphold pigeon manage business man dignity room";

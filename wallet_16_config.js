@@ -1,1 +1,1 @@
-var mnemonic = "goddess sell gain tonight stumble major model nurse essence million crisp color";
+var mnemonic = "mesh sing produce daring elite floor window indoor gadget rack bubble produce";

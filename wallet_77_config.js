@@ -1,1 +1,1 @@
-var mnemonic = "tortoise elite sing mandate hard ugly frame mistake notice clap myself orchard";
+var mnemonic = "plunge talent test galaxy oak put alpha electric wave tube near fortune";

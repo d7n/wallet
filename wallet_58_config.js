@@ -1,1 +1,1 @@
-var mnemonic = "stamp silver few fiscal page floor convince abandon dust sugar real crater";
+var mnemonic = "assault injury chuckle clever potato fog flag comic cheap whisper inmate give";

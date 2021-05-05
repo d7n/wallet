@@ -1,1 +1,1 @@
-var mnemonic = "huge napkin uniform link relax stem ability oxygen maximum equal destroy eternal";
+var mnemonic = "tumble toast knee flag mansion midnight swarm hobby tag post enroll spike";

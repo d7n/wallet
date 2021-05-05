@@ -1,1 +1,1 @@
-var mnemonic = "symptom bunker course sight diary system dance oyster sand palm office knife";
+var mnemonic = "melody choose soon tennis month coconut elephant noble police alone renew valley";

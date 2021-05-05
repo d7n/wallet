@@ -1,1 +1,1 @@
-var mnemonic = "liberty fuel air true seed join sheriff license motion coral course south";
+var mnemonic = "cash deposit sting oppose child cat trade reunion marine cactus gold blast";

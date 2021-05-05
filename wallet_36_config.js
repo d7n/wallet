@@ -1,1 +1,1 @@
-var mnemonic = "prison ten toss hero kiwi wheel portion dilemma sick clever any inspire";
+var mnemonic = "wheel cool admit answer radio wing idea extend stove soldier recall egg";

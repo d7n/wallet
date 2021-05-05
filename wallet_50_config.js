@@ -1,1 +1,1 @@
-var mnemonic = "ritual defy express pattern near expose brief thrive staff winter gun split";
+var mnemonic = "bullet chief brass double ice myself steak raccoon supreme review then swap";

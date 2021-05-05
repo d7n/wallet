@@ -1,1 +1,1 @@
-var mnemonic = "protect clip wage dolphin friend anxiety slice throw marriage cliff release taste";
+var mnemonic = "priority life broccoli word thumb great surprise local hurry dream soccer total";

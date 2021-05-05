@@ -1,1 +1,1 @@
-var mnemonic = "topic must plate picnic shed panic exist rely hint valid industry vacuum";
+var mnemonic = "title access cradle lucky boring entry syrup whisper thought inflict kangaroo method";

@@ -1,1 +1,1 @@
-var mnemonic = "trick globe fix cheese visit ladder exclude resist dolphin cat luggage razor";
+var mnemonic = "bring gas congress direct pause project bread later smile horse author merge";

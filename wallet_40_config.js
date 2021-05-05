@@ -1,1 +1,1 @@
-var mnemonic = "sudden gather code copy stumble hole code wisdom crunch jacket salad forget";
+var mnemonic = "cargo word move pumpkin frame aspect recall life matrix trust bright baby";

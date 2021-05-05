@@ -1,1 +1,1 @@
-var mnemonic = "horror sense peace neither strong ice sure into flock gospel gospel flat";
+var mnemonic = "post forum income effort husband frown powder regret toast trust derive begin";

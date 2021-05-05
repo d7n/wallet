@@ -1,1 +1,1 @@
-var mnemonic = "occur cluster result ranch inject clown work spatial concert jealous top hammer";
+var mnemonic = "arena report panda hard stumble dentist roof bamboo cloth order annual blossom";

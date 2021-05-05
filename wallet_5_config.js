@@ -1,1 +1,1 @@
-var mnemonic = "nominee never shaft auction possible arrange beach buffalo amount much obtain best";
+var mnemonic = "model boss motor hungry dawn stool inside diary toilet spell catch cliff";

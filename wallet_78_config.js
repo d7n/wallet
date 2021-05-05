@@ -1,1 +1,1 @@
-var mnemonic = "lecture gasp culture captain inmate nurse dawn unveil kidney taste purse soul";
+var mnemonic = "during transfer mansion ask wife dry woman erode bring marine amount muffin";

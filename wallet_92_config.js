@@ -1,1 +1,1 @@
-var mnemonic = "fever output swarm cupboard rookie avoid doll prefer silk shallow snap always";
+var mnemonic = "illness deposit ahead desk flower among garment twice indicate coast bullet toast";

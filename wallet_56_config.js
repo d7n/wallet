@@ -1,1 +1,1 @@
-var mnemonic = "lottery guide daughter ostrich right slender item address bike wink crouch midnight";
+var mnemonic = "normal door verb favorite addict toilet west youth bitter dutch season tell";

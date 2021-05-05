@@ -1,1 +1,1 @@
-var mnemonic = "aspect beach grunt climb wood good poverty gospel skill menu afford foot";
+var mnemonic = "street bronze shove fantasy affair joy oxygen jaguar draw fluid table illness";

@@ -1,1 +1,1 @@
-var mnemonic = "pull height above fiscal problem agent term task police shrimp rotate glass";
+var mnemonic = "acoustic obey black sniff tank board hammer evoke question husband vacuum equip";

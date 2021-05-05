@@ -1,1 +1,1 @@
-var mnemonic = "dismiss sunny anxiety life head because large inquiry catalog ski olympic swift";
+var mnemonic = "drift book ivory topic aspect flee first bench position mirror input upper";

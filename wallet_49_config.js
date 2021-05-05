@@ -1,1 +1,1 @@
-var mnemonic = "fan flash soda write candy apology slush twenty ghost stuff tray eyebrow";
+var mnemonic = "evidence refuse glance solve dignity jacket pave frog desk story radar either";

@@ -1,1 +1,1 @@
-var mnemonic = "bridge ring tree cute dignity very timber vehicle enough item hard aspect";
+var mnemonic = "dizzy fix sheriff stool safe mad marble fresh frost eight ignore bread";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan danger choice crouch scatter pigeon tongue sister luxury able grass hello";
+var mnemonic = "emotion dilemma adult work spider vital sister leave argue action broom bridge";

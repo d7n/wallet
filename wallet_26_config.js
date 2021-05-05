@@ -1,1 +1,1 @@
-var mnemonic = "rapid enough loyal mixture bamboo club vapor harsh artwork nothing hub bulk";
+var mnemonic = "inmate music chair alarm solution dust device stay moral catalog rather breeze";

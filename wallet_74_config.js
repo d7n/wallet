@@ -1,1 +1,1 @@
-var mnemonic = "clap orphan upon original daughter thrive kingdom utility sort song hybrid analyst";
+var mnemonic = "coil swim various account cigar child husband clinic once clay invest sorry";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup rabbit pause gather satisfy female salon surround similar cushion desk crumble";
+var mnemonic = "phone foot pilot smooth okay unusual design parade obscure depend sick fog";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon work vivid ill cloth deal annual rate any tissue cat stadium";
+var mnemonic = "shock submit vendor across aim exercise wire afraid rapid frame service alert";

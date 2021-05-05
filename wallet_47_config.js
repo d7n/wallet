@@ -1,1 +1,1 @@
-var mnemonic = "submit donor angry stay beyond artefact snow call excess turkey such riot";
+var mnemonic = "disorder cabbage actress either live shell need search churn december pumpkin outer";

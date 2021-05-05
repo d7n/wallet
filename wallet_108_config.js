@@ -1,1 +1,1 @@
-var mnemonic = "veteran tragic audit define omit mask auto lift critic grape indicate giggle";
+var mnemonic = "gold system property item scissors ahead congress round pizza inherit hammer must";

@@ -1,1 +1,1 @@
-var mnemonic = "actor local sister collect gift humble inquiry arrive cereal sweet issue nephew";
+var mnemonic = "post prepare point south buyer mountain apart fringe object omit charge fiber";

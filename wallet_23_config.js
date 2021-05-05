@@ -1,1 +1,1 @@
-var mnemonic = "urge join hello profit husband peasant crowd rigid injury video coyote reunion";
+var mnemonic = "fly clock fee dilemma ritual zoo praise garden maple clinic harbor athlete";

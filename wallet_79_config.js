@@ -1,1 +1,1 @@
-var mnemonic = "sick abuse husband humble hood vicious lounge swarm panel wolf strategy cage";
+var mnemonic = "correct traffic theme picnic chair leisure pluck gown trigger wedding dish ugly";

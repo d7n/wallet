@@ -1,1 +1,1 @@
-var mnemonic = "robot speed erase face whip village hip near shove unable royal flame";
+var mnemonic = "piece clip kind embody dragon social doctor front brown cup october unlock";

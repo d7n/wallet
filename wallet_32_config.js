@@ -1,1 +1,1 @@
-var mnemonic = "leaf thing fly famous pride flee lift never cry mesh stable tower";
+var mnemonic = "appear need under heart body online snack method sing adjust wisdom mimic";

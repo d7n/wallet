@@ -1,1 +1,1 @@
-var mnemonic = "square minimum coconut empower custom taste viable news stem horror pyramid afford";
+var mnemonic = "behind source image gossip beef slogan private virus furnace boy march season";

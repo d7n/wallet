@@ -1,1 +1,1 @@
-var mnemonic = "label train maximum must fun cram strong inmate banner success lazy fade";
+var mnemonic = "gloom movie noble man arrive tip elegant trigger buyer sea cry inch";

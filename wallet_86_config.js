@@ -1,1 +1,1 @@
-var mnemonic = "glad genius oppose uphold winter code same stick mistake jar run parent";
+var mnemonic = "observe index treat screen number ugly dust glare powder keen property laundry";

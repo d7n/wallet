@@ -1,1 +1,1 @@
-var mnemonic = "chimney swarm trash jump ball stock endless meadow lady chunk fatigue scheme";
+var mnemonic = "dolphin fork child dilemma melt pass wrong person tortoise tank moon happy";

@@ -1,1 +1,1 @@
-var mnemonic = "select game beauty liquid goat trick poet dial blind teach attitude melody";
+var mnemonic = "silly truly bronze mother shift armor vital split mention summer often attract";

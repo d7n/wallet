@@ -1,1 +1,1 @@
-var mnemonic = "awesome physical review antenna wire bright inside crash solution behind bring friend";
+var mnemonic = "crack useful okay forward genre absurd orchard off brave interest entire differ";

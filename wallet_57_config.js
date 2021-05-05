@@ -1,1 +1,1 @@
-var mnemonic = "exotic assist group trash one guilt wrong large project gas area fatigue";
+var mnemonic = "leopard return tragic game neither flag puppy crater beef undo tourist where";

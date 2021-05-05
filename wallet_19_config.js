@@ -1,1 +1,1 @@
-var mnemonic = "afraid age skate right situate calm park couch machine visual mosquito guilt";
+var mnemonic = "human neither govern flame ramp convince spider enroll search term employ spell";

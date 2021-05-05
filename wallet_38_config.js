@@ -1,1 +1,1 @@
-var mnemonic = "host lunar eight cloth debris hollow unit umbrella glare dwarf whale language";
+var mnemonic = "prize catch rough slim ranch skin attack skin elite street wheat move";

@@ -1,1 +1,1 @@
-var mnemonic = "champion consider hard popular hidden inspire artist slot tail purchase hybrid expose";
+var mnemonic = "slow toward smooth close honey rose grant wrong wine insect excite belt";
