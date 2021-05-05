@@ -1,1 +1,1 @@
-var mnemonic = "broccoli select person okay brown end ankle clutch recycle gadget glad firm";
+var mnemonic = "number language filter volcano kingdom strategy replace text verb grant goat laundry";

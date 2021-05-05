@@ -1,1 +1,1 @@
-var mnemonic = "orange rifle true ranch boss long feed glimpse carbon liquid drum marine";
+var mnemonic = "neglect learn fox someone senior win mobile direct steel shadow more warrior";

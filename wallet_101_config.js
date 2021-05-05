@@ -1,1 +1,1 @@
-var mnemonic = "used kick infant worry bean clock ozone remind face build current asthma";
+var mnemonic = "grid flower tell isolate transfer napkin youth episode note accident coffee flat";

@@ -1,1 +1,1 @@
-var mnemonic = "mansion hard plastic drip garden provide window acoustic mandate lumber material coconut";
+var mnemonic = "dwarf proof bench hospital desert ill coast front dish discover clap sniff";

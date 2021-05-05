@@ -1,1 +1,1 @@
-var mnemonic = "subject blood valley execute pumpkin client drama hospital armed outer aim trap";
+var mnemonic = "beyond spell height nose wonder frown okay enact harbor domain slot please";

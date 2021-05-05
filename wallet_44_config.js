@@ -1,1 +1,1 @@
-var mnemonic = "accuse curious lobster banner reveal dizzy gas drop alien erode exclude erode";
+var mnemonic = "rain spy mention pill butter gather accuse pulp pole chronic nuclear rib";

@@ -1,1 +1,1 @@
-var mnemonic = "swear artwork replace cup wife giraffe cat air between civil noise future";
+var mnemonic = "add swarm crumble come tiger ladder spy cart cloth board seek fire";

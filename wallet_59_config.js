@@ -1,1 +1,1 @@
-var mnemonic = "trim park crew idea kitchen tumble embody tenant flavor acoustic can comfort";
+var mnemonic = "merry powder core judge pitch return february behind salmon throw iron dove";

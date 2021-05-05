@@ -1,1 +1,1 @@
-var mnemonic = "penalty hill aunt comic sea captain random keep shrug alcohol theme already";
+var mnemonic = "retreat crunch draft infant enlist mule enroll emerge feed park blade glad";

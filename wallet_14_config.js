@@ -1,1 +1,1 @@
-var mnemonic = "sound almost glad glass small same level produce tank caution execute gentle";
+var mnemonic = "leg usage galaxy top member make chapter ostrich ring vapor head plug";

@@ -1,1 +1,1 @@
-var mnemonic = "burger argue carry way gown fringe illegal cube scout milk pudding admit";
+var mnemonic = "peace onion marine exclude major era toe saddle aware peasant fitness tornado";

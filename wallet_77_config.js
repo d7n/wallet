@@ -1,1 +1,1 @@
-var mnemonic = "margin dynamic blast pigeon sock announce broken ask glare sphere leave picnic";
+var mnemonic = "cruise boy gauge famous cabbage scene have pet relief pumpkin flash cart";

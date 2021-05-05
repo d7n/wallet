@@ -1,1 +1,1 @@
-var mnemonic = "okay flavor swift radio satisfy armor giggle ceiling sleep sock medal piece";
+var mnemonic = "famous galaxy good scale echo priority chronic view kidney above trouble yellow";

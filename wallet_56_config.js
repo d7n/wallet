@@ -1,1 +1,1 @@
-var mnemonic = "enable bomb salt turn absorb motion torch cost burst horn into inch";
+var mnemonic = "knock stock slim arrest load warrior ramp base display put gym asthma";

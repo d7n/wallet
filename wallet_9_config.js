@@ -1,1 +1,1 @@
-var mnemonic = "scout adjust aerobic someone enroll normal end glow obscure blame surge pull";
+var mnemonic = "museum fossil goose ask example enable bike finish pig inspire abuse slender";

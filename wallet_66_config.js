@@ -1,1 +1,1 @@
-var mnemonic = "receive index height twist duty toilet sword victory protect corn tip supreme";
+var mnemonic = "spray label real eagle hunt fabric notice uphold about shiver excuse husband";

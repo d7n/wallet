@@ -1,1 +1,1 @@
-var mnemonic = "oyster sorry assume renew worth riot leave clarify border view poem improve";
+var mnemonic = "curtain shoulder misery ship accident sniff violin giant fossil idle bracket dismiss";

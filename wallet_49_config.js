@@ -1,1 +1,1 @@
-var mnemonic = "attitude evil stage salute fence idle deer tuition sea ski shrug physical";
+var mnemonic = "emerge swarm lamp imitate brief media sugar day symbol task little quantum";

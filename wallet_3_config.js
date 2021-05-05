@@ -1,1 +1,1 @@
-var mnemonic = "vessel armor group actress unlock equip still ship arch country dawn toward";
+var mnemonic = "usage kid point country remove crane congress blue design distance swing radar";

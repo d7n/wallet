@@ -1,1 +1,1 @@
-var mnemonic = "recycle roast love pistol excite dentist scene artefact trial donkey voyage two";
+var mnemonic = "owner cinnamon uncle disease tide mammal stuff best trash obvious three machine";

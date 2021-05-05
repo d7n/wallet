@@ -1,1 +1,1 @@
-var mnemonic = "muscle treat turn manage armed mandate napkin element alone kitten torch pill";
+var mnemonic = "access observe idea magic pioneer secret license invest garlic debate roof random";

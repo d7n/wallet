@@ -1,1 +1,1 @@
-var mnemonic = "diagram cherry call swarm drastic acoustic fancy eternal cinnamon silk sweet catch";
+var mnemonic = "hamster gaze actor celery all tomorrow chalk myself master seek beyond pledge";

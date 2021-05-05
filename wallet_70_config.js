@@ -1,1 +1,1 @@
-var mnemonic = "drink era brush skate pilot custom exotic manage hair before elephant machine";
+var mnemonic = "isolate deposit praise execute unfold shift feature thrive gloom zoo hybrid business";

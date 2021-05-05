@@ -1,1 +1,1 @@
-var mnemonic = "ride excess whale fox alien fluid swing maximum practice thunder pink connect";
+var mnemonic = "never connect smile critic ring hire powder merit kangaroo electric emerge few";

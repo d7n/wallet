@@ -1,1 +1,1 @@
-var mnemonic = "task have rug scout cable way curious begin region tuition cook hover";
+var mnemonic = "peace sketch common path note burst silver decrease mouse local exist bird";

@@ -1,1 +1,1 @@
-var mnemonic = "guess rude slight fine charge save master remind token tuna drill true";
+var mnemonic = "strategy pitch exotic document clip film chicken afford curious child check check";

@@ -1,1 +1,1 @@
-var mnemonic = "cement cheap trim spoil drill deer furnace caution fly hurt sleep acid";
+var mnemonic = "drama raven slice small neglect distance kit chest broom legend great stay";

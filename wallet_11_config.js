@@ -1,1 +1,1 @@
-var mnemonic = "glance artwork cry feel bread desk file maple horror impact defense gossip";
+var mnemonic = "kangaroo soccer hood final inquiry bulb spell adjust spread romance cupboard hidden";

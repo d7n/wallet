@@ -1,1 +1,1 @@
-var mnemonic = "feed debris pass coin furnace screen combine tomato salt reveal enlist inside";
+var mnemonic = "menu deny job toe reject veteran alley trap mosquito middle advance depend";

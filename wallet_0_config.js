@@ -1,1 +1,1 @@
-var mnemonic = "defy series electric ridge school carbon pitch critic leave humble census play";
+var mnemonic = "casino surprise copper prison december domain forum harsh fuel drift car rookie";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic replace law unfair rail beach pattern chaos olympic borrow nest file";
+var mnemonic = "relief crew often reform broken sail force impact enough uniform urban convince";

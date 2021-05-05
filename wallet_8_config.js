@@ -1,1 +1,1 @@
-var mnemonic = "solution boat mosquito horse humble afford right ring follow copy again smart";
+var mnemonic = "design frozen result rather giggle chef card panther annual month jealous pudding";

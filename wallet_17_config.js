@@ -1,1 +1,1 @@
-var mnemonic = "vital vessel chalk coral laugh page describe always major habit course coffee";
+var mnemonic = "invest bridge digital document play finish minute cube cheap brick year purchase";

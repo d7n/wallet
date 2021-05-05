@@ -1,1 +1,1 @@
-var mnemonic = "amused suspect antenna gun few property safe roast glance dad cannon endless";
+var mnemonic = "true staff hat frozen enable clerk tomato reason cousin liquid report surround";

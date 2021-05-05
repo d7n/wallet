@@ -1,1 +1,1 @@
-var mnemonic = "lamp enroll rebel blouse over fashion hawk decrease vote expand earth detail";
+var mnemonic = "sniff stick wrist phone fat sick twist extra split question inner buddy";

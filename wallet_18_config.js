@@ -1,1 +1,1 @@
-var mnemonic = "give borrow mobile harbor there north fine original video dish fit pigeon";
+var mnemonic = "shoot tiny photo account protect live smoke famous need save hood become";

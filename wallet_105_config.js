@@ -1,1 +1,1 @@
-var mnemonic = "conduct load brain candy square material swear loan civil cargo nut pact";
+var mnemonic = "club garden dragon power van gap wool panda hospital night deal base";

@@ -1,1 +1,1 @@
-var mnemonic = "protect high journey degree equal dizzy pave nominee hint casual dune tragic";
+var mnemonic = "monkey smile author mango crunch normal congress bomb youth jelly install bridge";

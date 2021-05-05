@@ -1,1 +1,1 @@
-var mnemonic = "west arrest crawl symptom guess turkey erupt ridge cruise shuffle runway force";
+var mnemonic = "local hood axis quality brain myself sail easily fantasy have income jealous";

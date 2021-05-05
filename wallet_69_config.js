@@ -1,1 +1,1 @@
-var mnemonic = "balance update distance marble cube amount layer emotion iron frown cluster patient";
+var mnemonic = "gown leg impose girl garden rhythm black auction round demise fiction brave";

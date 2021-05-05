@@ -1,1 +1,1 @@
-var mnemonic = "message episode arch hammer media crisp entire lawn net insane bridge toy";
+var mnemonic = "alien beauty anchor swallow phrase rack gesture ability slogan lab alley essence";

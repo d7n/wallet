@@ -1,1 +1,1 @@
-var mnemonic = "disease milk swamp pull welcome weekend style cave hover recall obey owner";
+var mnemonic = "matrix town february under sad garage soup pretty nose fault chief biology";

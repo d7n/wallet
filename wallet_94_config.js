@@ -1,1 +1,1 @@
-var mnemonic = "royal pledge shed call slight either today mail card immense comic dynamic";
+var mnemonic = "quote twenty kind toddler security focus thought belt ugly sausage interest orbit";

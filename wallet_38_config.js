@@ -1,1 +1,1 @@
-var mnemonic = "move rate rack repair moral symbol wrestle aerobic leg inmate vapor behind";
+var mnemonic = "celery junk test pipe color pipe smart chair special vacant plunge control";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding garbage tired there offer retreat worth law tail month interest search";
+var mnemonic = "agree spy robust pepper script weapon state animal fragile middle best game";

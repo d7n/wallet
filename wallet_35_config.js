@@ -1,1 +1,1 @@
-var mnemonic = "cluster invest doll comfort nasty auction index angry depth horn home almost";
+var mnemonic = "voyage arrive quiz reject salon pioneer duck curious benefit stand process distance";

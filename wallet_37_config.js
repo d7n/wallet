@@ -1,1 +1,1 @@
-var mnemonic = "dad rebuild busy april moon scout bonus mean duty property digital detect";
+var mnemonic = "purity actor beauty vanish gossip torch effort common misery debris reunion cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "hurt gentle ordinary naive priority rib weasel weather end poet drift matrix";
+var mnemonic = "acid coast behave move green local daring bird biology alone shed concert";

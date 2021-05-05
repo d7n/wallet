@@ -1,1 +1,1 @@
-var mnemonic = "still nurse allow early choice tennis reward near govern link case onion";
+var mnemonic = "coconut tennis side liquid concert risk erupt since cry pink relief around";

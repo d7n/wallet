@@ -1,1 +1,1 @@
-var mnemonic = "curve venue sword husband either diary tortoise scene dance unveil suffer novel";
+var mnemonic = "behave cannon ladder blush all author neither end donkey injury welcome twice";

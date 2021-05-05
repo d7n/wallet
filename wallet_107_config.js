@@ -1,1 +1,1 @@
-var mnemonic = "subject verb sibling recycle reduce wire amazing sadness unusual country process suspect";
+var mnemonic = "prosper town sentence cliff ski suggest brother laptop endless soccer train muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "push shoe unaware leg surprise obtain pioneer solve slight gloom affair defense";
+var mnemonic = "day leg prefer sibling artefact lottery tower quantum knock cat kiss multiply";

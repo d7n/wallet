@@ -1,1 +1,1 @@
-var mnemonic = "recycle bunker pool number swap argue cloth alien crystal car crew veteran";
+var mnemonic = "salmon odor crazy siege balcony congress disease fashion spare limb repeat cement";

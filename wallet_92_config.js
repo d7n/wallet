@@ -1,1 +1,1 @@
-var mnemonic = "slow hollow trouble discover cook casual object social crumble segment abstract onion";
+var mnemonic = "pledge hungry extend immense chicken elevator place output menu sport april position";

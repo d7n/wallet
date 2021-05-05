@@ -1,1 +1,1 @@
-var mnemonic = "goat small imitate enemy resource force abuse carpet chimney brush wear panther";
+var mnemonic = "glass task donor private scale rug when win bean use draw thing";

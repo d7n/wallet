@@ -1,1 +1,1 @@
-var mnemonic = "skirt maid devote raccoon dream alley cause require fog butter friend involve";
+var mnemonic = "rich cannon indicate crowd antique veteran lava dirt maple relief noodle member";

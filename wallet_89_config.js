@@ -1,1 +1,1 @@
-var mnemonic = "amateur follow tired civil humble disorder lucky ancient visa miracle project speak";
+var mnemonic = "circle reject stamp window favorite extra bid laptop fabric senior gloom term";

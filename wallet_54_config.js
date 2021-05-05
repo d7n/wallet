@@ -1,1 +1,1 @@
-var mnemonic = "garlic dynamic orphan debate isolate relief alone alpha wing fortune brick mouse";
+var mnemonic = "toast hybrid nature comic switch tomato festival unveil correct topple romance mass";

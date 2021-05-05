@@ -1,1 +1,1 @@
-var mnemonic = "cluster shop brother invest mom squeeze tomato crystal bird bench unit imitate";
+var mnemonic = "husband degree green flash under core climb around rescue drive sudden guitar";

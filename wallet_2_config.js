@@ -1,1 +1,1 @@
-var mnemonic = "wish praise ride cricket force proud ugly loyal invite obey orient eternal";
+var mnemonic = "jazz health voice prevent tribe door dad coin anxiety exhaust brief abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "aisle glove debris owner mansion slow dial embody bounce fiscal shrimp travel";
+var mnemonic = "shield meadow try feature soldier then payment pioneer eyebrow rival demand fetch";

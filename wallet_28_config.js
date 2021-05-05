@@ -1,1 +1,1 @@
-var mnemonic = "bundle clay review angle whisper throw screen cube install fox change quote";
+var mnemonic = "boil theory pitch upset express obscure silent train member divert arena lazy";

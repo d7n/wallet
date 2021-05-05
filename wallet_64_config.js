@@ -1,1 +1,1 @@
-var mnemonic = "utility output vapor wear dial black humble cabin gym quiz rain tape";
+var mnemonic = "limb split pottery crack clerk carbon sugar rocket audit wonder option issue";

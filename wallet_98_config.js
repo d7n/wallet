@@ -1,1 +1,1 @@
-var mnemonic = "neck deposit flip lab expose twin arrest crime cake patient coyote catalog";
+var mnemonic = "pink bring tonight carry expand host tag toilet notable scissors pilot camp";

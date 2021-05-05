@@ -1,1 +1,1 @@
-var mnemonic = "wave pilot jump bean vacant love anger car puzzle kingdom globe media";
+var mnemonic = "basic early clinic plastic neither assault ridge dinner raven valley drill sister";

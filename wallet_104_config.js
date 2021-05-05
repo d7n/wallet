@@ -1,1 +1,1 @@
-var mnemonic = "future hill account worry industry inherit elbow wide olympic walk network bone";
+var mnemonic = "special second spawn physical endorse update evidence lesson weapon play salmon winner";

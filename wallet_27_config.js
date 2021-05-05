@@ -1,1 +1,1 @@
-var mnemonic = "found hen upon tuna pencil spoon holiday tissue tilt match matrix ranch";
+var mnemonic = "best rack replace sugar comic garden rigid battle orange ivory east unknown";

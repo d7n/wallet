@@ -1,1 +1,1 @@
-var mnemonic = "build seed jar siege broccoli faculty debris slush trip airport lens flag";
+var mnemonic = "wood promote year proof slow coral shop utility craft hurdle room near";

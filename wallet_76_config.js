@@ -1,1 +1,1 @@
-var mnemonic = "chapter soccer tuition wood check guess peace erosion either plunge unhappy fiber";
+var mnemonic = "dry harsh name obscure flower artwork bacon analyst you tourist seed pool";

@@ -1,1 +1,1 @@
-var mnemonic = "hub transfer erosion easily issue merge puzzle run perfect butter dog faint";
+var mnemonic = "found jar quick add satoshi annual orange pen satoshi orchard pass draft";

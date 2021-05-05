@@ -1,1 +1,1 @@
-var mnemonic = "meat mouse usual renew vivid kiwi stairs finish polar city width market";
+var mnemonic = "liberty exile nasty unable liar damp table half scatter neglect tone there";

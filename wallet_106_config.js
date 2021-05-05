@@ -1,1 +1,1 @@
-var mnemonic = "average despair soccer hill pistol beach pepper slight public mammal tray hour";
+var mnemonic = "miss castle museum cousin art universe toddler finish grain cram solid city";

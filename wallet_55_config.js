@@ -1,1 +1,1 @@
-var mnemonic = "excite pluck city decline wheat put chalk lemon rain staff wire save";
+var mnemonic = "present conduct city awkward garment grape dinosaur sweet soup file tooth detect";

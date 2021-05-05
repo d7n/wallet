@@ -1,1 +1,1 @@
-var mnemonic = "company wear rent glow domain loyal erase car boy ghost snow lizard";
+var mnemonic = "error ice cotton inquiry certain light health process cupboard virus legal silver";

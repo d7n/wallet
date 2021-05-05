@@ -1,1 +1,1 @@
-var mnemonic = "bone one spatial easy meadow moral relax best describe fantasy prize mail";
+var mnemonic = "citizen mansion stick bid forum awesome require fluid patrol lunar alert axis";

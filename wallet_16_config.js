@@ -1,1 +1,1 @@
-var mnemonic = "quick receive loan repeat east fix expire trial later uncle donor actress";
+var mnemonic = "simple divide supply essence veteran churn final swing limit extend use leopard";

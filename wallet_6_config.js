@@ -1,1 +1,1 @@
-var mnemonic = "bamboo divert assist oyster nominee system cricket enroll bunker kite attend steel";
+var mnemonic = "rabbit twenty conduct flame rose laugh limb wine nest aerobic citizen nice";

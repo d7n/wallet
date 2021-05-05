@@ -1,1 +1,1 @@
-var mnemonic = "portion orchard rib ginger error kidney disease network venture sail rigid century";
+var mnemonic = "quarter fine whisper behind shell genius moment shoot august potato caution decrease";

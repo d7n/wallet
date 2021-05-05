@@ -1,1 +1,1 @@
-var mnemonic = "essay zone hobby transfer doctor oyster kiss sleep hair beach chat mandate";
+var mnemonic = "drip property man law surprise stadium jar used quick impulse fatal absurd";

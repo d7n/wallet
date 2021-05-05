@@ -1,1 +1,1 @@
-var mnemonic = "apology clog reflect clever rail found uncle wire burden december blame matrix";
+var mnemonic = "cruel clip slogan service lazy radar enjoy pledge sun sun wide bargain";

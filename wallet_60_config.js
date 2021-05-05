@@ -1,1 +1,1 @@
-var mnemonic = "useful inherit arena young space hair fan wrist peace crash because spring";
+var mnemonic = "tenant arrange zebra ticket expand sweet world solution symptom endorse cotton response";

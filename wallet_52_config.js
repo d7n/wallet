@@ -1,1 +1,1 @@
-var mnemonic = "dust bread share tonight fly august blanket entire glass argue anxiety lock";
+var mnemonic = "grocery fire sustain drop between program cabin clerk option grape earn kingdom";

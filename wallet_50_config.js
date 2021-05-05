@@ -1,1 +1,1 @@
-var mnemonic = "usual health surprise victory pig mercy orchard protect blade render lecture unfold";
+var mnemonic = "enough olympic surround ladder snap fine monkey matter hurdle orchard salon proof";

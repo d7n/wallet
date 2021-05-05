@@ -1,1 +1,1 @@
-var mnemonic = "knock circle candy convince acid enhance share unfair paddle help laundry river";
+var mnemonic = "exile buzz curious imitate hint inject almost soft route magnet knife brick";

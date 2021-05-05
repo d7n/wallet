@@ -1,1 +1,1 @@
-var mnemonic = "execute walk bronze build survey regular country style smooth clever under code";
+var mnemonic = "sound sure pull ridge echo festival lobster choose mosquito bike modify marble";

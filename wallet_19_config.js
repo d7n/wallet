@@ -1,1 +1,1 @@
-var mnemonic = "update escape leg fury trim burden cabin legal card mail mandate wonder";
+var mnemonic = "relief burst mirror tourist zero isolate scale boil armor volume mercy end";

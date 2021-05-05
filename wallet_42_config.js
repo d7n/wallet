@@ -1,1 +1,1 @@
-var mnemonic = "obscure thing custom example trust major equal unaware sauce arrive cloth almost";
+var mnemonic = "bicycle fiber mom filter helmet husband elite cool save that machine warfare";

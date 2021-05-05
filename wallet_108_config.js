@@ -1,1 +1,1 @@
-var mnemonic = "pretty student minor mercy exchange traffic hundred runway record unable erupt desk";
+var mnemonic = "erode habit march occur wood loop purpose blur love melody goat turn";

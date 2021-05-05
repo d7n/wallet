@@ -1,1 +1,1 @@
-var mnemonic = "burst type sign thought accuse also survey kind twelve run marine strike";
+var mnemonic = "sausage arch strong slot hip smile tuition angry clog lemon shallow retire";
