@@ -1,1 +1,1 @@
-var mnemonic = "butter cruel trash home grocery book grow youth online unaware voice resource";
+var mnemonic = "claw echo wheel ill because coyote leaf trouble brick circle never almost";

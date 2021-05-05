@@ -1,1 +1,1 @@
-var mnemonic = "market pave return rent jealous beauty cruise jar rose client tissue lyrics";
+var mnemonic = "bitter food horror glimpse faculty busy key champion amazing urge powder scout";

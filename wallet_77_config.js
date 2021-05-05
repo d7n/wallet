@@ -1,1 +1,1 @@
-var mnemonic = "cluster income type student clip school armor captain moral fantasy alone develop";
+var mnemonic = "face toilet they culture ghost worth collect aunt truck trade match length";

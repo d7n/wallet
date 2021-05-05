@@ -1,1 +1,1 @@
-var mnemonic = "original glad tattoo dice cry verify explain divorce garlic unaware panic limit";
+var mnemonic = "drive nature undo advice soon chicken hope federal display link song daring";

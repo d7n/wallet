@@ -1,1 +1,1 @@
-var mnemonic = "sing hammer liar grape soft boost pilot observe edit next hospital assault";
+var mnemonic = "just sheriff misery medal object whip until waste frown eye razor purity";

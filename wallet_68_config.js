@@ -1,1 +1,1 @@
-var mnemonic = "gadget unhappy parrot eyebrow wash remove family item convince sad pave okay";
+var mnemonic = "odor night section disease stadium special paddle artwork sadness release diary symptom";

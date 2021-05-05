@@ -1,1 +1,1 @@
-var mnemonic = "cream glide exact soon same junior demand lecture bleak wagon uniform canoe";
+var mnemonic = "october coin disagree prefer glove salt road find country column sausage over";

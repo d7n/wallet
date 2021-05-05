@@ -1,1 +1,1 @@
-var mnemonic = "attitude churn skill fork receive core thing occur muffin torch nothing joy";
+var mnemonic = "license base exhaust depend ripple issue month tower broom sun mirror print";

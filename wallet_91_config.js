@@ -1,1 +1,1 @@
-var mnemonic = "silver debate antenna jeans oyster supply phrase bless glory eyebrow accident thing";
+var mnemonic = "lamp olive mom cliff napkin cargo quit prosper axis front boring color";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket remove bottom chuckle urban owner frog tobacco obey shaft pill bird";
+var mnemonic = "salon shoe isolate yellow alley refuse then family table uniform rule arrow";

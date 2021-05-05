@@ -1,1 +1,1 @@
-var mnemonic = "desert dinosaur wage achieve tortoise general bright neck patient magic praise pencil";
+var mnemonic = "liberty put canal cause deputy pelican detect much income sock net palm";

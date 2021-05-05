@@ -1,1 +1,1 @@
-var mnemonic = "put trim august pen concert leisure fantasy call inmate capital lift exist";
+var mnemonic = "radar road doctor hawk kitten decline gaze cup divide useless pulse breeze";

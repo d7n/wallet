@@ -1,1 +1,1 @@
-var mnemonic = "tower debate caught proof because total upset film spike deal season shadow";
+var mnemonic = "great quarter naive maple powder winner joke spell mass december battle paddle";

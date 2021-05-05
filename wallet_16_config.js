@@ -1,1 +1,1 @@
-var mnemonic = "chalk stock acid moment shiver bubble oak attitude like roast pottery own";
+var mnemonic = "derive repair crack add pulp issue like acid insane banana captain burden";

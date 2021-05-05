@@ -1,1 +1,1 @@
-var mnemonic = "lion place call stadium marble eye brain avoid october dose grass eyebrow";
+var mnemonic = "moon sense laugh chapter strong ridge cannon tunnel visa digital doll bamboo";

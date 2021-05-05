@@ -1,1 +1,1 @@
-var mnemonic = "argue away arrange laugh gadget toss random similar text burden renew empower";
+var mnemonic = "sick noise animal tattoo reform where follow ramp energy parrot budget awful";

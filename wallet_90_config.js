@@ -1,1 +1,1 @@
-var mnemonic = "arrest speak police tower round rhythm improve flash elder dynamic bird hair";
+var mnemonic = "plate fringe chest avoid fury tank shift air cabin coffee way clever";

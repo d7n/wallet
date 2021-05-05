@@ -1,1 +1,1 @@
-var mnemonic = "federal candy entire flush search enact hard magic quality sauce banner bounce";
+var mnemonic = "float jeans shoot fossil couch ladder club special work elevator wonder magic";

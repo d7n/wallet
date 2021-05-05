@@ -1,1 +1,1 @@
-var mnemonic = "behave pond junior smart glance sport defense casual spell sport refuse debris";
+var mnemonic = "check replace width supply someone lion elevator chef soup crush public season";

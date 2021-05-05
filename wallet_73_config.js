@@ -1,1 +1,1 @@
-var mnemonic = "program vintage cactus thunder cry tomorrow addict gentle mammal else infant certain";
+var mnemonic = "erupt scorpion plate flag dinner glad first protect tragic next churn present";

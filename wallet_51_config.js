@@ -1,1 +1,1 @@
-var mnemonic = "scare snap nephew bless traffic card silk east minimum aisle decrease bus";
+var mnemonic = "maze race knee need easy enter ugly pill number pink flight tenant";

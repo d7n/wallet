@@ -1,1 +1,1 @@
-var mnemonic = "bless pony syrup quality olympic size divorce hunt magic impact island insane";
+var mnemonic = "rigid deal praise apple orphan this behind tortoise proud indoor voyage cabbage";

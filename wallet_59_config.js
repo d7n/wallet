@@ -1,1 +1,1 @@
-var mnemonic = "ready clarify water direct say rich slice party trouble fossil hover project";
+var mnemonic = "grow diamond annual tag payment narrow dragon history gain pencil spin social";

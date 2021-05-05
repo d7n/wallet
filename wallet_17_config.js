@@ -1,1 +1,1 @@
-var mnemonic = "tortoise badge prison merry wasp team banana wine bullet small minute model";
+var mnemonic = "drama phrase thunder guitar casual salute major husband uncle spare garage title";

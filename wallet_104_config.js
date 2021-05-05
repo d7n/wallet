@@ -1,1 +1,1 @@
-var mnemonic = "approve believe filter reward image drastic interest step express what match one";
+var mnemonic = "what humble ask food error organ address change scene smart sleep village";

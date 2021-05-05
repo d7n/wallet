@@ -1,1 +1,1 @@
-var mnemonic = "conduct awkward have keep pause behave original ugly rather pact uncover result";
+var mnemonic = "belt hunt verb matrix explain author distance steak one fog gas riot";

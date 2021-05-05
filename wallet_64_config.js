@@ -1,1 +1,1 @@
-var mnemonic = "reflect canal vivid couple innocent display chronic jaguar umbrella shove tiger walnut";
+var mnemonic = "oxygen stage trim evil quarter cannon brown good long code butter dance";

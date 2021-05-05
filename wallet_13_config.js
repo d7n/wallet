@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow future cricket color when roast crew modify laptop garden page three";
+var mnemonic = "cheap victory nerve crime success odor rhythm segment diary angle custom sick";

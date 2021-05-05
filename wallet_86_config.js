@@ -1,1 +1,1 @@
-var mnemonic = "come idea error rough jeans primary session play change pact wife correct";
+var mnemonic = "valve hammer pole tank ecology mystery retire stairs ketchup child matter virus";

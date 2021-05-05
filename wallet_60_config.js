@@ -1,1 +1,1 @@
-var mnemonic = "kind any crucial brick tower crush office castle caution little uphold clever";
+var mnemonic = "tired damp fruit knock clutch they man author meat also month net";

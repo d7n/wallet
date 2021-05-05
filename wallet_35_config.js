@@ -1,1 +1,1 @@
-var mnemonic = "room wine ranch board cushion jungle once miss travel planet demand coin";
+var mnemonic = "crane text nice transfer circle frame giggle magnet typical hollow gesture provide";

@@ -1,1 +1,1 @@
-var mnemonic = "bone job empower about electric before ready track venue wheat cheap index";
+var mnemonic = "purchase shift diet joke sure aunt job mad expire pen render road";

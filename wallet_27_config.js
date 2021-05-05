@@ -1,1 +1,1 @@
-var mnemonic = "nation when giant mountain swarm edit cotton duck online universe source million";
+var mnemonic = "smoke cement park chicken arrive wage upgrade together swarm unaware dolphin test";

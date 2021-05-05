@@ -1,1 +1,1 @@
-var mnemonic = "amazing mother silver obey permit drum exhaust lake review average client hour";
+var mnemonic = "eight lock dream menu sketch city escape soup patient thing prize multiply";

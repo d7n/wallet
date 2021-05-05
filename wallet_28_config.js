@@ -1,1 +1,1 @@
-var mnemonic = "utility trophy diesel keen sail lobster visit sure source unique soccer that";
+var mnemonic = "pilot february device tooth insect advice hotel nose exact expire journey swift";

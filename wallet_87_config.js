@@ -1,1 +1,1 @@
-var mnemonic = "gift tobacco space divert cannon make impact comic fence envelope cry pilot";
+var mnemonic = "quality salute ship demand cinnamon flip invite wagon duck pet tortoise nothing";

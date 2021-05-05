@@ -1,1 +1,1 @@
-var mnemonic = "often mosquito squirrel vivid step news discover wonder rude innocent blind orient";
+var mnemonic = "okay light vivid trash fortune bracket harsh credit enrich twist bunker mixture";

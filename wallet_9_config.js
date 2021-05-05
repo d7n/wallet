@@ -1,1 +1,1 @@
-var mnemonic = "buyer room defense year rose inhale together phone casual adjust hard drift";
+var mnemonic = "idle major early loan sand joke glow resource ignore sense pitch bread";

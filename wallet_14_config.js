@@ -1,1 +1,1 @@
-var mnemonic = "drill accident cave domain current uncle employ grace mosquito lab fine holiday";
+var mnemonic = "snake person fan arch skirt coach pencil day forward virtual salad quiz";

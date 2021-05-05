@@ -1,1 +1,1 @@
-var mnemonic = "idea source movie cinnamon palm side you message add eight cycle olympic";
+var mnemonic = "fever fantasy edge original fresh broccoli faith riot refuse device woman album";

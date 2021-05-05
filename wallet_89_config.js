@@ -1,1 +1,1 @@
-var mnemonic = "acid useless vapor lawsuit club cabin unfold brief laundry wear foil text";
+var mnemonic = "idea pepper bike filter pair peace spend make entry detect slab jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "until alone session brain auction broken pumpkin destroy page make bargain satoshi";
+var mnemonic = "december you agent gossip normal fatigue hurdle member crunch install spatial hybrid";

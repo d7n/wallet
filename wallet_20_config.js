@@ -1,1 +1,1 @@
-var mnemonic = "oppose certain protect bless truly example dilemma artefact zebra oxygen reduce alarm";
+var mnemonic = "raven tennis want cycle tumble inherit host evidence captain chief proud there";

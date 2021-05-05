@@ -1,1 +1,1 @@
-var mnemonic = "deer actor lake brass setup cancel pitch ten trim arch embrace pattern";
+var mnemonic = "fun cotton nothing snake round rival diagram door device current dry network";

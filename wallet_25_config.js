@@ -1,1 +1,1 @@
-var mnemonic = "ocean shop cluster elbow afraid scrap forget hub until fury easy resource";
+var mnemonic = "beauty negative need physical piece help wage huge ordinary sure copy hurdle";

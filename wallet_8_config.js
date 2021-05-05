@@ -1,1 +1,1 @@
-var mnemonic = "glue match crowd soda secret pizza tell nothing inmate prison item submit";
+var mnemonic = "betray six blade search oblige degree blanket speed left shuffle vintage cancel";

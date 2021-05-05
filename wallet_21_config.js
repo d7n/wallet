@@ -1,1 +1,1 @@
-var mnemonic = "wine auction margin strike wheat veteran burst venue little response large whisper";
+var mnemonic = "love rain garbage range give dune tent warm anger wonder zoo inch";

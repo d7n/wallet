@@ -1,1 +1,1 @@
-var mnemonic = "alien lava merry aerobic sting omit dutch fine crisp report opinion rhythm";
+var mnemonic = "fatigue vintage journey ask snake split knife explain island angle soft rescue";

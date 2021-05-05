@@ -1,1 +1,1 @@
-var mnemonic = "absorb refuse roast gown tomato destroy romance upon balcony bronze unusual uniform";
+var mnemonic = "culture bamboo tent exist pipe woman talk young section sand monkey emerge";

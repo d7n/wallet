@@ -1,1 +1,1 @@
-var mnemonic = "push welcome endless rent narrow piece spell always chicken suspect nest hope";
+var mnemonic = "firm eight mirror analyst athlete dune oblige guilt derive theme cousin organ";

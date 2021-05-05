@@ -1,1 +1,1 @@
-var mnemonic = "paddle zero one leave phrase river exit rack bring toilet rain cat";
+var mnemonic = "another scout guitar collect demand traffic sausage crazy attitude mercy title waste";

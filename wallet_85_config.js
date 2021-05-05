@@ -1,1 +1,1 @@
-var mnemonic = "suit birth glare valid shy rail blast local involve eternal market peanut";
+var mnemonic = "wait puppy resemble adapt gas orange define impact lobster eight venue gasp";

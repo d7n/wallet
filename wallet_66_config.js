@@ -1,1 +1,1 @@
-var mnemonic = "design control left final skate tattoo artist despair floor option return unhappy";
+var mnemonic = "sample use luxury clock shed six shaft honey peace cute hawk cousin";

@@ -1,1 +1,1 @@
-var mnemonic = "pupil spin avoid horror twin child van domain secret inch vehicle page";
+var mnemonic = "engine shy fresh steak cricket since holiday strategy fossil tragic resemble rose";

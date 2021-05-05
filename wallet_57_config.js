@@ -1,1 +1,1 @@
-var mnemonic = "enable machine advice long dinosaur swing fragile youth sting gaze settle act";
+var mnemonic = "robot trophy loan annual odor focus tide easy hood room matter interest";

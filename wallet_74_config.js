@@ -1,1 +1,1 @@
-var mnemonic = "grace force inhale naive faculty friend jar seminar inch jealous provide venue";
+var mnemonic = "toward ethics scene van merit drastic hurdle license ripple home action cupboard";

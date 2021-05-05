@@ -1,1 +1,1 @@
-var mnemonic = "wide extra luxury face valid climb excite zone provide flock six arrest";
+var mnemonic = "color excess tail robot omit solid runway maple confirm wave era diesel";

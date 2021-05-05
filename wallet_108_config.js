@@ -1,1 +1,1 @@
-var mnemonic = "tonight nature never economy trim twist honey surround amazing oblige that shine";
+var mnemonic = "space magnet example soon fish laptop gather pupil present ability vote length";

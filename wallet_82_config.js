@@ -1,1 +1,1 @@
-var mnemonic = "weekend real swear devote original human sting resemble breeze path version off";
+var mnemonic = "ladder cupboard carpet keen giraffe bunker obscure mouse attack nurse rubber grief";

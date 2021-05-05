@@ -1,1 +1,1 @@
-var mnemonic = "tiger document march bulb survey decrease nation easily code capital whale grocery";
+var mnemonic = "once fruit among duck law web wagon portion strong spatial easy feel";

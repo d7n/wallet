@@ -1,1 +1,1 @@
-var mnemonic = "put love guide prize judge wear pact token resemble eternal wrong puzzle";
+var mnemonic = "sea print viable impulse grape increase trap walnut agent welcome high sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "execute inside example tank adjust domain quick advice reject apology segment royal";
+var mnemonic = "post spot apple warm punch local adjust wisdom cable social device strike";

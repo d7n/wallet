@@ -1,1 +1,1 @@
-var mnemonic = "private metal drum fitness figure caution consider option quiz act crystal vast";
+var mnemonic = "rotate supreme thumb similar moment firm spend filter educate blanket cinnamon runway";

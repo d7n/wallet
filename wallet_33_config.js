@@ -1,1 +1,1 @@
-var mnemonic = "crater excess powder cinnamon angry ranch rebel sword edit lesson image marriage";
+var mnemonic = "guitar foam duty always mirror helmet define have major choice dream hundred";

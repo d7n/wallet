@@ -1,1 +1,1 @@
-var mnemonic = "field census color loyal endorse orient deer more badge cake quiz blood";
+var mnemonic = "pill sick alone place average trick lens hold club beyond absurd portion";

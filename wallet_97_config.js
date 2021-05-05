@@ -1,1 +1,1 @@
-var mnemonic = "demise audit lamp chef endless silver memory harsh mandate actor word mountain";
+var mnemonic = "layer seek gate mother notable siege session burst social fuel witness error";

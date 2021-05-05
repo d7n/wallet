@@ -1,1 +1,1 @@
-var mnemonic = "exhibit auto slim forward pig source know always hole section push sibling";
+var mnemonic = "defense latin casual liar belt west mean mask cool resource owner mean";

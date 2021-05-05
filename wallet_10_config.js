@@ -1,1 +1,1 @@
-var mnemonic = "wrap host expire hurt wash seed unlock fix melody juice shy seek";
+var mnemonic = "famous wool joy agree gadget sight album kingdom best inject fashion draw";

@@ -1,1 +1,1 @@
-var mnemonic = "bean general that churn flag lizard arena radar crazy draw picnic rabbit";
+var mnemonic = "report misery write manage jazz lobster mad fold cave lawsuit then hour";

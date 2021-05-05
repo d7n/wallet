@@ -1,1 +1,1 @@
-var mnemonic = "stumble pave verb shock pretty firm assume enroll smile supreme tilt garden";
+var mnemonic = "domain local marriage sort decrease diamond behind author prevent cannon suspect parade";

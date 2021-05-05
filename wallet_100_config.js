@@ -1,1 +1,1 @@
-var mnemonic = "enough high winner envelope foot seat please ready theme diamond holiday solve";
+var mnemonic = "machine stone friend business reopen able jacket slush crush clump tent toy";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase interest ship tribe critic fuel comfort donate gift rebuild security federal";
+var mnemonic = "mesh carbon carpet panda benefit regular hungry boring soap limit ethics timber";

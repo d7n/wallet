@@ -1,1 +1,1 @@
-var mnemonic = "cross island success boy chief mention birth lonely obvious pond illness horse";
+var mnemonic = "blind depth shop cotton sword trend alpha project afraid foil tornado weasel";

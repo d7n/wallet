@@ -1,1 +1,1 @@
-var mnemonic = "shell lounge skull present urge unknown wage inspire mushroom antique urge present";
+var mnemonic = "pupil mobile forget damp address kitten problem layer confirm mother pizza sea";

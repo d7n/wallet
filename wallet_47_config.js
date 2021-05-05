@@ -1,1 +1,1 @@
-var mnemonic = "tongue endless curtain mansion ensure reopen shift skate surprise inject unlock piece";
+var mnemonic = "disease interest need artefact inquiry wife weasel toilet guide fiber very scatter";

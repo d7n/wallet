@@ -1,1 +1,1 @@
-var mnemonic = "trophy reveal present three monitor resist high panther nest gun unhappy opinion";
+var mnemonic = "level flame fan odor diesel measure forum canvas motor artist enable error";

@@ -1,1 +1,1 @@
-var mnemonic = "rice lizard weather act remain sustain blast slab autumn reveal crawl output";
+var mnemonic = "potato kind author mail vocal write tunnel blast erase unhappy fitness spend";

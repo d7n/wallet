@@ -1,1 +1,1 @@
-var mnemonic = "arrive ankle size rail typical lab citizen prosper aware same elephant fever";
+var mnemonic = "settle essence long blossom asset cushion elegant scare position legal attract field";

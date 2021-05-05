@@ -1,1 +1,1 @@
-var mnemonic = "pass title scan tomorrow midnight celery unaware foil vanish popular sign trap";
+var mnemonic = "airport raw learn dignity stairs sketch casino veteran nuclear record country metal";

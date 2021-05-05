@@ -1,1 +1,1 @@
-var mnemonic = "surge furnace sauce come hill ugly summer nasty rifle fiber legend subject";
+var mnemonic = "elevator barely must ranch display cloth unlock frog exit small just little";

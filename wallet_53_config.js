@@ -1,1 +1,1 @@
-var mnemonic = "license auction flock viable eyebrow found potato produce buddy truly tone soft";
+var mnemonic = "cabin dose soon idle cave infant mosquito pause airport employ delay plastic";

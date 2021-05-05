@@ -1,1 +1,1 @@
-var mnemonic = "tank allow target popular diamond hedgehog assume mandate sudden clay write drop";
+var mnemonic = "episode develop ripple predict drink hope angle prefer replace run accident gravity";

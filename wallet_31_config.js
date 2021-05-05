@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo regular chimney daring pulse youth violin garage come lift include reflect";
+var mnemonic = "local auction access negative raccoon toast badge word stock delay glove scatter";

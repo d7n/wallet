@@ -1,1 +1,1 @@
-var mnemonic = "sibling range dust buffalo impact frown young summer truth attack combine stomach";
+var mnemonic = "reunion tenant health thumb film celery act stamp undo yellow water general";

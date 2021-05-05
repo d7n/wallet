@@ -1,1 +1,1 @@
-var mnemonic = "begin wolf detect small egg erode office iron about tree alarm estate";
+var mnemonic = "drill talk onion behave green tube myself depend response wife senior settle";

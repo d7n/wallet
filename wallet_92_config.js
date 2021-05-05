@@ -1,1 +1,1 @@
-var mnemonic = "orange kick creek upon paddle luggage slot unaware enrich slow salt furnace";
+var mnemonic = "middle meadow card talent arrest patrol hammer crush agent size wealth opinion";

@@ -1,1 +1,1 @@
-var mnemonic = "movie velvet scale gather aware turkey awkward satoshi profit answer shoulder rather";
+var mnemonic = "lamp advance resist security vacuum offer buffalo carry common crime tower often";

@@ -1,1 +1,1 @@
-var mnemonic = "core mandate provide novel wrap drastic ordinary lab toilet exchange mystery home";
+var mnemonic = "swear fun sponsor manage normal inch inflict patch album cement mercy sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit medal giant hub admit great token plug speed awful deal card";
+var mnemonic = "confirm person student faint blossom inherit much style drive picnic grain idea";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet portion egg list way indoor eyebrow pizza slogan stand island filter";
+var mnemonic = "meat lawsuit floor rebel time extend head rescue floor stereo employ retire";

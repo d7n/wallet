@@ -1,1 +1,1 @@
-var mnemonic = "strong mix bind jealous focus orchard empower tenant card under month rain";
+var mnemonic = "story exchange squeeze cigar knife job boil sure judge update actress example";

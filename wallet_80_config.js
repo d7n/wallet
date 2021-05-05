@@ -1,1 +1,1 @@
-var mnemonic = "rare job daring sock model borrow glide fabric filter embody maple act";
+var mnemonic = "test spell evidence oblige accuse speed dynamic dove silver slam adjust farm";

@@ -1,1 +1,1 @@
-var mnemonic = "pear volume jaguar lottery off warfare patch arrow blue oak talk wide";
+var mnemonic = "debate write jeans annual skate large wreck nature cannon define try spider";

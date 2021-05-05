@@ -1,1 +1,1 @@
-var mnemonic = "civil weasel thrive verb antenna know burden panel earn this unlock cactus";
+var mnemonic = "curious teach they point found sea resist item lady gentle wine bunker";
