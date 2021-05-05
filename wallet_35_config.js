@@ -1,1 +1,1 @@
-var mnemonic = "ball orchard gauge bargain demise giggle quit equal hour diary forest decade";
+var mnemonic = "dolphin apology seed pave term banner grocery oxygen clinic half neck asthma";

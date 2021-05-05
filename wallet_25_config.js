@@ -1,1 +1,1 @@
-var mnemonic = "fine real cram solution oven gasp disease vapor hope bachelor amused frame";
+var mnemonic = "rescue trend weather pattern inmate security smoke arrow slide despair survey taste";

@@ -1,1 +1,1 @@
-var mnemonic = "celery possible champion fury since dune drink whisper tackle chicken tongue sugar";
+var mnemonic = "blind stay spot neck swift paddle pen degree safe sorry tilt space";

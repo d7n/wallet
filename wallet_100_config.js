@@ -1,1 +1,1 @@
-var mnemonic = "hockey lunch silly monkey enemy axis autumn input wink only above embrace";
+var mnemonic = "oblige rhythm typical season sting member transfer guilt renew choose quick zero";

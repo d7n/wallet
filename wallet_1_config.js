@@ -1,1 +1,1 @@
-var mnemonic = "small afford duck piece volume egg bachelor actual tell upgrade there exhaust";
+var mnemonic = "mistake segment staff book father version leg pelican board series spell punch";

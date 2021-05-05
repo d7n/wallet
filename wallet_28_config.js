@@ -1,1 +1,1 @@
-var mnemonic = "popular awake street keen wine inject stumble creek honey pig battle demand";
+var mnemonic = "shell garlic funny rose urge glare patch battle stuff copy gentle program";

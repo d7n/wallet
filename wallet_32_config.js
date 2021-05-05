@@ -1,1 +1,1 @@
-var mnemonic = "hollow grant hedgehog cupboard picture olive require accuse juice quiz husband game";
+var mnemonic = "illegal comic come craft chuckle warrior stadium woman drip symbol train journey";

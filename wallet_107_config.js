@@ -1,1 +1,1 @@
-var mnemonic = "defense crew tomato scheme humble donkey welcome under install captain fashion neglect";
+var mnemonic = "oak dose nuclear weather degree zebra develop radio salute soda chaos hospital";

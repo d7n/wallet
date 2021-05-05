@@ -1,1 +1,1 @@
-var mnemonic = "mango minute search spot motion flavor alpha answer thunder wise know scorpion";
+var mnemonic = "entire chimney speak census attend lounge family inhale priority diary lemon awkward";

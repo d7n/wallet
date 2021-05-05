@@ -1,1 +1,1 @@
-var mnemonic = "link mail protect crucial thought humor avoid check north thumb permit useful";
+var mnemonic = "knife battle safe cigar save develop bottom laugh upset wrap scrub during";

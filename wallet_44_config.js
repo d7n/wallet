@@ -1,1 +1,1 @@
-var mnemonic = "team script casual coil bunker jelly flip toddler begin lake dry apology";
+var mnemonic = "sock raw onion fox inch sudden immune violin since option donor fiction";

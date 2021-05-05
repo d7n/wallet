@@ -1,1 +1,1 @@
-var mnemonic = "mesh load chest great endorse wealth crack quick word pave distance post";
+var mnemonic = "unable bread arch rhythm grief replace grab orbit cube lunar that lend";

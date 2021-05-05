@@ -1,1 +1,1 @@
-var mnemonic = "bamboo easy tongue weather scissors misery cup thank absent dash make zero";
+var mnemonic = "dry oval goose swim sponsor mix naive minimum auto arrange unaware bracket";

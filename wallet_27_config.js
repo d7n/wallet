@@ -1,1 +1,1 @@
-var mnemonic = "curve goose shock badge flip anger local smile provide soldier thing apart";
+var mnemonic = "kid honey warrior begin box aim item arctic captain bracket salad regular";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm oval sample return castle dice equip gaze play inject floor seek";
+var mnemonic = "unique bright parrot pledge urban rice grape improve goose shy mandate toe";

@@ -1,1 +1,1 @@
-var mnemonic = "few engine rough friend twice there transfer script swap coach odor client";
+var mnemonic = "boss lady long floor blue candy kiss unknown bus guilt hazard scrub";

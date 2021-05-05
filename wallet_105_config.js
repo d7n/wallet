@@ -1,1 +1,1 @@
-var mnemonic = "evil present split ketchup immune runway obtain spawn wine pond curtain art";
+var mnemonic = "drop improve orchard uphold shove grape recall possible ready ice other bottom";

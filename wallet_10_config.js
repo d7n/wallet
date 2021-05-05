@@ -1,1 +1,1 @@
-var mnemonic = "gasp leaf first achieve vital swap cycle junior bubble stock creek usual";
+var mnemonic = "comfort cover clog abstract promote fence innocent body vault note alien deal";

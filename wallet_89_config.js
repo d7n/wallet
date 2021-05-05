@@ -1,1 +1,1 @@
-var mnemonic = "calm click crop friend fish picture curve october draw awake energy earn";
+var mnemonic = "settle injury mutual local clever inform trick foil hockey recall weekend struggle";

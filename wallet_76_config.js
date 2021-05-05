@@ -1,1 +1,1 @@
-var mnemonic = "pledge sketch slogan sick balcony garden team electric surface barrel horn message";
+var mnemonic = "shove pass chuckle arm nose margin mountain ancient coconut close pattern fortune";

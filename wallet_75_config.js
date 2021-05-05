@@ -1,1 +1,1 @@
-var mnemonic = "filter render slice confirm cost job supply cycle exact type twist bar";
+var mnemonic = "combine reason guitar mass genius blame pumpkin envelope detect honey distance swarm";

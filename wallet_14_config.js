@@ -1,1 +1,1 @@
-var mnemonic = "buddy place abuse fortune bunker nominee omit wedding august cotton main craft";
+var mnemonic = "broken argue owner write flight spatial race idle skate entry lens effort";

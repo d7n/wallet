@@ -1,1 +1,1 @@
-var mnemonic = "screen pony lunch cash atom scare modify person robust fruit method shock";
+var mnemonic = "skirt economy wonder loud weekend forum obscure voyage impulse unveil pony much";

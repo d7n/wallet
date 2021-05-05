@@ -1,1 +1,1 @@
-var mnemonic = "allow climb shy soup ring humor remove during gadget mechanic type fantasy";
+var mnemonic = "breeze genuine during jungle fork neutral travel grain patrol square cable found";

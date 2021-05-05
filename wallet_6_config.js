@@ -1,1 +1,1 @@
-var mnemonic = "enroll eternal grunt artwork orient shrimp immune impose gun thank method valve";
+var mnemonic = "hen side famous dog like surface must fine strike offer actress correct";

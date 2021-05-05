@@ -1,1 +1,1 @@
-var mnemonic = "large viable spray advice tomorrow grief accuse enough couple tower crime hidden";
+var mnemonic = "flat dinosaur glimpse immense pair manual camp crack mail polar void twice";

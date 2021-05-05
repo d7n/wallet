@@ -1,1 +1,1 @@
-var mnemonic = "switch crumble marine bonus game actual vague unaware bar rice sentence two";
+var mnemonic = "neither sure taste shine worth glare cry rack label shadow private grab";

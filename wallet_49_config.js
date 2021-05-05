@@ -1,1 +1,1 @@
-var mnemonic = "text neither weekend fragile shiver educate tornado endless gun double omit frown";
+var mnemonic = "enjoy chase ride before inform cradle sausage alpha example elephant seed gown";

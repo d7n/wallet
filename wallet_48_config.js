@@ -1,1 +1,1 @@
-var mnemonic = "order tip habit match achieve civil crack shrug piano amount knife hope";
+var mnemonic = "ketchup enhance crazy fury genuine scissors globe daring once erosion sound orient";

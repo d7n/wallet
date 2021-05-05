@@ -1,1 +1,1 @@
-var mnemonic = "cart ready culture object parrot wall key pony acid action zero rubber";
+var mnemonic = "celery entry round badge situate congress symbol apology labor donate crater citizen";

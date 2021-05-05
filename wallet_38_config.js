@@ -1,1 +1,1 @@
-var mnemonic = "only neither fix cotton food tennis permit such minimum soup bonus into";
+var mnemonic = "slice scan sorry sea finger case stadium away clock hawk prison fan";

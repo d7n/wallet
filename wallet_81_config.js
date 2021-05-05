@@ -1,1 +1,1 @@
-var mnemonic = "clutch file bridge online year orange little column sleep acid fortune coast";
+var mnemonic = "vague tonight enforce vendor arena fantasy veteran sting attract robust table ginger";

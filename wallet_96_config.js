@@ -1,1 +1,1 @@
-var mnemonic = "beach lens toilet circle improve canvas crane claw tunnel session drive raven";
+var mnemonic = "make fossil lake sugar stone report album lesson spot still various vendor";

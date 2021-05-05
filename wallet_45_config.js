@@ -1,1 +1,1 @@
-var mnemonic = "pact effort citizen expose bulb pear dwarf rigid model ribbon lens choice";
+var mnemonic = "spice pool symptom item exile solve chaos stove biology rabbit wasp early";

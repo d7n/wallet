@@ -1,1 +1,1 @@
-var mnemonic = "drift inflict ring horse trip young grace doctor assist pause minimum ski";
+var mnemonic = "woman spice aim report match muffin please clock reunion sell enact repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "nation dwarf outdoor blood uniform usage loyal life story crunch blind dignity";
+var mnemonic = "grunt prepare access crash cricket sea broccoli quarter turkey awful unique prosper";

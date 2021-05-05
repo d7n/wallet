@@ -1,1 +1,1 @@
-var mnemonic = "surge relax donor cool foot cousin tumble humor whisper rural connect alter";
+var mnemonic = "enemy result shoulder aim present dry notable crop ritual neutral layer chef";

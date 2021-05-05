@@ -1,1 +1,1 @@
-var mnemonic = "talk method verify fade trumpet song romance bird prefer rose car truck";
+var mnemonic = "globe zero lecture circle gorilla grape egg combine seminar hair poet pistol";

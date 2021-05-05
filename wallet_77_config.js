@@ -1,1 +1,1 @@
-var mnemonic = "law able belt season coral water click pull job nuclear clinic sport";
+var mnemonic = "wheat able habit elder amused case remind reason original lonely marble loop";

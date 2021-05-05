@@ -1,1 +1,1 @@
-var mnemonic = "wing drive ready add casino outside ancient dinosaur enforce arrow custom pave";
+var mnemonic = "kiwi danger puppy property hold today human nominee inquiry bird evoke melt";

@@ -1,1 +1,1 @@
-var mnemonic = "start ring regular blossom coconut total paper arrive erupt fat normal service";
+var mnemonic = "cotton economy age lens plug devote volcano always depend safe town hurt";

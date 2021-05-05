@@ -1,1 +1,1 @@
-var mnemonic = "duty innocent palace company now actor hockey face arena ghost reflect unable";
+var mnemonic = "peasant initial gloom also raccoon shiver lucky away poem intact nice master";

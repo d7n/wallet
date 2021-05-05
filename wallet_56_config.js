@@ -1,1 +1,1 @@
-var mnemonic = "endless judge lecture dismiss daughter pass between nephew lumber village lawsuit culture";
+var mnemonic = "helmet object trigger abuse avoid aspect company mushroom era sustain spawn entry";

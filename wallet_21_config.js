@@ -1,1 +1,1 @@
-var mnemonic = "barely shaft forum enact honey earn hobby cargo rude hip practice symbol";
+var mnemonic = "master topic correct fish online clump wine few intact slice disorder thought";

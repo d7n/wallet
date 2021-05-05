@@ -1,1 +1,1 @@
-var mnemonic = "between picture marble eager enemy float goat volcano merry milk raccoon enhance";
+var mnemonic = "swear injury busy frog satisfy depth modify shine end play ginger yellow";

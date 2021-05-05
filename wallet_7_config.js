@@ -1,1 +1,1 @@
-var mnemonic = "stumble cause prize undo toward ramp response napkin mammal tide public tent";
+var mnemonic = "taste clip fiscal lend anchor clarify egg arrest install rug slender myth";

@@ -1,1 +1,1 @@
-var mnemonic = "acid strategy slim system slide expose regret parent slight property aunt width";
+var mnemonic = "caution shrug shed inmate monitor magic inhale grace raw cinnamon physical vacant";

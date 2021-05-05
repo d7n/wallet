@@ -1,1 +1,1 @@
-var mnemonic = "orchard rather wink cradle uncle cement charge push skirt erosion auto issue";
+var mnemonic = "amused enforce curious paddle estate color tumble dutch monster blur erase vessel";

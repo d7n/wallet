@@ -1,1 +1,1 @@
-var mnemonic = "fashion bullet private nature live wreck myself awesome boost reunion mind citizen";
+var mnemonic = "famous panda arctic search guide census picnic afraid april truth gather age";

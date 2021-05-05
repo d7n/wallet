@@ -1,1 +1,1 @@
-var mnemonic = "copper manage service confirm consider pair rescue young shoot start truly radar";
+var mnemonic = "replace escape oblige inject scrub net choose design hat baby fog argue";

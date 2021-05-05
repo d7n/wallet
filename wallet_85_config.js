@@ -1,1 +1,1 @@
-var mnemonic = "series jar soon hotel chicken coin tuition better sleep patient sunset disagree";
+var mnemonic = "label river mad problem topic upon board method destroy cushion frozen salute";

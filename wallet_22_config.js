@@ -1,1 +1,1 @@
-var mnemonic = "file average jealous replace easy peanut brick senior trial lecture sock safe";
+var mnemonic = "media blush pioneer metal diary clump clerk expose advice announce salt magic";

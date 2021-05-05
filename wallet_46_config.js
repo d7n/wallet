@@ -1,1 +1,1 @@
-var mnemonic = "junk husband position cook plunge advice into depend enhance outer genre upset";
+var mnemonic = "merry save afraid cancel range change fog usage spatial kind need verify";

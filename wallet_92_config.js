@@ -1,1 +1,1 @@
-var mnemonic = "define deer virtual swap clean tragic sad hard prefer stuff stumble long";
+var mnemonic = "stove report burst frost pool call dynamic share october hard wasp bamboo";

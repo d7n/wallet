@@ -1,1 +1,1 @@
-var mnemonic = "axis dwarf hamster kiss lawn spread text month pyramid sniff payment cart";
+var mnemonic = "sibling decline normal enjoy boss success solve path kid aim slam extra";

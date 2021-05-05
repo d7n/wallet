@@ -1,1 +1,1 @@
-var mnemonic = "brother relax ring outer exotic sponsor chronic require truly awesome school toe";
+var mnemonic = "isolate that captain breeze truth treat practice chase cart assault mix naive";

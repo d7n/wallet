@@ -1,1 +1,1 @@
-var mnemonic = "trumpet hat napkin response anxiety clever basic where between father disagree leopard";
+var mnemonic = "salad enlist law sustain junk basic door beyond stereo angle there two";

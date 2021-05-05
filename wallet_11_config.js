@@ -1,1 +1,1 @@
-var mnemonic = "embark popular charge settle beyond weather debris antenna cloud boss congress arrange";
+var mnemonic = "cube race theme cave fall slice offer morning agent army feature tennis";

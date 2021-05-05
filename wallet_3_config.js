@@ -1,1 +1,1 @@
-var mnemonic = "ten adapt vocal decrease virtual engage rose abuse swap practice lemon romance";
+var mnemonic = "unique goose industry cradle ginger fame excite daring remove oak globe sound";

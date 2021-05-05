@@ -1,1 +1,1 @@
-var mnemonic = "calm slogan seed public meat lawn program update suit ketchup trial invite";
+var mnemonic = "design fortune muscle chaos hope cannon lend yellow cook dwarf clay vault";

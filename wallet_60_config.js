@@ -1,1 +1,1 @@
-var mnemonic = "rather venture when foot swift cherry test pair brown space acquire analyst";
+var mnemonic = "giggle enhance coil depart nose light marine donkey flavor foot fashion economy";

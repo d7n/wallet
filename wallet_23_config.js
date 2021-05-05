@@ -1,1 +1,1 @@
-var mnemonic = "betray change meadow journey crucial car together breeze sphere defy snake tortoise";
+var mnemonic = "fire cruise logic regular tip garage cattle cloud admit boy robust human";

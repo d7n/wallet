@@ -1,1 +1,1 @@
-var mnemonic = "famous album birth smart pill shop squirrel brother feed again orbit access";
+var mnemonic = "few drip defy pelican surround sad moon swear reflect exotic nephew cry";

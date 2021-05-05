@@ -1,1 +1,1 @@
-var mnemonic = "security mean notable typical liberty mask unfold rug fancy siren you gentle";
+var mnemonic = "rocket human emotion much ahead battle portion enact innocent also group dance";

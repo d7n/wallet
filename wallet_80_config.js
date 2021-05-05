@@ -1,1 +1,1 @@
-var mnemonic = "response trouble favorite such genuine answer argue cool arch describe gate release";
+var mnemonic = "speed muffin genius endless hospital diesel brown spike sting give lady power";

@@ -1,1 +1,1 @@
-var mnemonic = "shop jump salad opera pistol trip velvet direct fluid alcohol people trophy";
+var mnemonic = "rug ripple fox debris coffee melody dentist vocal exhaust pledge craft lens";

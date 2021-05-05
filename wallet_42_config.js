@@ -1,1 +1,1 @@
-var mnemonic = "better rebel dilemma other effort label various normal awful dignity prison warrior";
+var mnemonic = "burger vivid tree cost firm survey connect climb fire lazy moment exotic";

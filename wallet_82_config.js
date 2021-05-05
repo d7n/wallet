@@ -1,1 +1,1 @@
-var mnemonic = "begin visa chest ring wealth clock cereal giant industry trial know call";
+var mnemonic = "copy net visit museum panel reduce stove prefer bone radio fire need";

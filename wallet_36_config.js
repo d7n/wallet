@@ -1,1 +1,1 @@
-var mnemonic = "glove demand urban ahead horse arrange neutral middle dizzy train tunnel disorder";
+var mnemonic = "elite friend fiber sugar mule mule stage hockey phone convince useful mosquito";

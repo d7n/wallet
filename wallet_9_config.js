@@ -1,1 +1,1 @@
-var mnemonic = "around insane crystal proud wild buffalo sustain cinnamon fiction pact scare video";
+var mnemonic = "canoe limit start more use draw survey garlic drink police merit thought";

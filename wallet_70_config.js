@@ -1,1 +1,1 @@
-var mnemonic = "inside race expose myth supply recycle bitter together hedgehog grit flavor border";
+var mnemonic = "car kitten proud light spread good gold entire horror immune saddle business";

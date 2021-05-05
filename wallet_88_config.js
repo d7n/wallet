@@ -1,1 +1,1 @@
-var mnemonic = "axis biology envelope reopen mutual follow ceiling retire hold just across ecology";
+var mnemonic = "either novel spoon disagree radar trip office foster deliver pledge cattle bomb";

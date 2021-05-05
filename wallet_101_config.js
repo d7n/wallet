@@ -1,1 +1,1 @@
-var mnemonic = "hard opera human truck feel cousin tornado together shuffle gain aerobic merry";
+var mnemonic = "tide sting skin tackle table dawn raven answer main affair below drama";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore unit century jewel sick zoo already action trip choose cabbage daughter";
+var mnemonic = "document mad soup mercy empty birth summer reform giant melt strategy grain";

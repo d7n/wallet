@@ -1,1 +1,1 @@
-var mnemonic = "valid jewel evoke blue visa phrase now sleep girl twenty actual remember";
+var mnemonic = "glow raise inject eyebrow mule false doll knife coffee admit bronze inquiry";

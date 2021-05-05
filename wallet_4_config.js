@@ -1,1 +1,1 @@
-var mnemonic = "heavy flag devote portion all grab fabric spoon bench shiver sponsor again";
+var mnemonic = "better borrow analyst draw symbol drill salon depth pause child ranch catalog";

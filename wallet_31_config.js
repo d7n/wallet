@@ -1,1 +1,1 @@
-var mnemonic = "oil rebuild melt nature patrol cinnamon sausage display appear any girl assume";
+var mnemonic = "fame lady render athlete opinion nephew obvious cloud issue nurse trouble sauce";

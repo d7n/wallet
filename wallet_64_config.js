@@ -1,1 +1,1 @@
-var mnemonic = "benefit dry rhythm brief area apology climb candy olive flock economy column";
+var mnemonic = "canal buyer vibrant input where total village blouse gloom whip tower caught";

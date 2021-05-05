@@ -1,1 +1,1 @@
-var mnemonic = "siren then shaft smoke verb panther merit marriage verify panda same lazy";
+var mnemonic = "blind story rug speed genuine lift jump brown food page suit regret";

@@ -1,1 +1,1 @@
-var mnemonic = "please absorb protect very final name dutch brave crime admit verb violin";
+var mnemonic = "tell fade sunset swallow weasel car party ranch idea enable away chunk";

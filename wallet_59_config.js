@@ -1,1 +1,1 @@
-var mnemonic = "law mad yard issue galaxy grunt hire quit pilot squeeze tomato quit";
+var mnemonic = "two crumble elevator abandon rapid fresh aunt museum pizza crouch pluck dwarf";

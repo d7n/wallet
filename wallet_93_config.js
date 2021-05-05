@@ -1,1 +1,1 @@
-var mnemonic = "border note buyer ramp humble reveal hour gesture omit trumpet scan napkin";
+var mnemonic = "creek early naive pilot memory wing clog feed cruel owner arrive strike";
