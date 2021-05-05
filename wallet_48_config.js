@@ -1,1 +1,1 @@
-var mnemonic = "walk only account move that memory minimum hat network fantasy spin piano";
+var mnemonic = "collect control broken chapter recall salt agree turtle dove direct because urge";

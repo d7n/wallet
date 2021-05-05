@@ -1,1 +1,1 @@
-var mnemonic = "damp muffin energy mountain gloom fossil deny erode suffer solution injury receive";
+var mnemonic = "poem work meat pioneer spawn theme invest grocery remind carbon rifle about";

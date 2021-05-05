@@ -1,1 +1,1 @@
-var mnemonic = "young current barrel govern explain forest chase ensure simple flock clever fragile";
+var mnemonic = "acid found hazard decade around alone solid flat debate federal episode style";

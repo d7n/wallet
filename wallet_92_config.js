@@ -1,1 +1,1 @@
-var mnemonic = "choose season prevent frozen profit bright random ten rescue rifle pole trumpet";
+var mnemonic = "vivid sunset memory exit giggle attend catalog write sudden effort draw goose";

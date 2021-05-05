@@ -1,1 +1,1 @@
-var mnemonic = "stand chest dad possible device upon mix flash devote reunion timber toy";
+var mnemonic = "gather drift save basic approve shaft spend man boil vintage step throw";

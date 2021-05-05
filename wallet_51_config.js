@@ -1,1 +1,1 @@
-var mnemonic = "nose walnut embrace vote drive exile silk convince faint rescue explain rebel";
+var mnemonic = "purse fold fossil design effort magnet trim hurry corn once deliver aspect";

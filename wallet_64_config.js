@@ -1,1 +1,1 @@
-var mnemonic = "river scissors tide trash describe staff ski toy spike concert strike strong";
+var mnemonic = "wool only swim grow orange mercy month panic truly rack menu promote";

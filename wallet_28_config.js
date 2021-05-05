@@ -1,1 +1,1 @@
-var mnemonic = "monkey soup never topic bleak burger tomorrow notice defense project minute guide";
+var mnemonic = "screen head badge average toy cream giant tone detail vacuum bracket bitter";

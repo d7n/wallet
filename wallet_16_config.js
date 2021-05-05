@@ -1,1 +1,1 @@
-var mnemonic = "prefer meat myth festival ocean upon pudding deliver ramp bean trick pigeon";
+var mnemonic = "kiwi wolf escape helmet area talent into carry double arctic smooth deliver";

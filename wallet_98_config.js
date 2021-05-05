@@ -1,1 +1,1 @@
-var mnemonic = "brand festival trust better token bunker point surround spoon decorate catch demand";
+var mnemonic = "snake weapon over venture march fancy diary defy hospital remove quote dolphin";

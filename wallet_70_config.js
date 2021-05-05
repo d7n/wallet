@@ -1,1 +1,1 @@
-var mnemonic = "area symptom wreck unit crime obvious robust endless chuckle wool disagree toss";
+var mnemonic = "bike learn movie amused episode subject element armed doll rotate good toilet";

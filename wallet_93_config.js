@@ -1,1 +1,1 @@
-var mnemonic = "best law crucial congress exile oblige virtual recycle lawn hour force train";
+var mnemonic = "giggle aware velvet pelican old this bronze lab tenant ceiling window cup";

@@ -1,1 +1,1 @@
-var mnemonic = "carpet glove sight rally pair unable raw trust ankle decorate author omit";
+var mnemonic = "refuse custom plate expect truly bracket sister about apart rocket stamp fall";

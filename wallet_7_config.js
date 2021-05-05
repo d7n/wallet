@@ -1,1 +1,1 @@
-var mnemonic = "property dad often video journey purpose ceiling glow parent rain general camera";
+var mnemonic = "stomach fatigue ensure action valley increase exile divorce blame march waste then";

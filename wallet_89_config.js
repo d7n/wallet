@@ -1,1 +1,1 @@
-var mnemonic = "crime stand huge anchor jar wonder door learn antique broom sick scissors";
+var mnemonic = "unfair fan warm bracket agent certain empty shoot mix diamond basket gallery";

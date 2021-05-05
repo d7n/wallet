@@ -1,1 +1,1 @@
-var mnemonic = "juice meat smoke vendor reveal vital manual satisfy embrace trust detect impose";
+var mnemonic = "impulse theme educate cradle sister attend opinion neglect cement put victory choose";

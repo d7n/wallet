@@ -1,1 +1,1 @@
-var mnemonic = "shove essay tomorrow current labor position galaxy swim prepare thank fix roof";
+var mnemonic = "carbon muffin hurdle load deliver enact cave bulb sock song market female";

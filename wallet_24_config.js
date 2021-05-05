@@ -1,1 +1,1 @@
-var mnemonic = "trim later chair style congress skate casino dismiss either laugh tackle glove";
+var mnemonic = "inside upgrade tide kangaroo inherit extend bean neck rug inside fork fancy";

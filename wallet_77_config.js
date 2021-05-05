@@ -1,1 +1,1 @@
-var mnemonic = "recycle pigeon tool neck point gauge random refuse network budget merry reduce";
+var mnemonic = "labor dolphin grunt body insane ball enjoy luxury dish shrug order thing";

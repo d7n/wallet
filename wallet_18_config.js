@@ -1,1 +1,1 @@
-var mnemonic = "organ nice pupil need best wheat boy sick skill later exact almost";
+var mnemonic = "cram guide armor hawk bullet vanish seat obvious faculty poem weird across";

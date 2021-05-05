@@ -1,1 +1,1 @@
-var mnemonic = "monster cable blind core swift afraid degree invite index ahead sudden flavor";
+var mnemonic = "cycle retreat crew expose light rent urge thought zebra wheel just myself";

@@ -1,1 +1,1 @@
-var mnemonic = "bird injury brass stadium luxury library box slice surround absent almost happy";
+var mnemonic = "carpet theme job mango office one three hold large panda celery fall";

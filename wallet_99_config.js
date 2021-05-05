@@ -1,1 +1,1 @@
-var mnemonic = "know oppose worry crime tobacco exist chase half water fly deer east";
+var mnemonic = "sure paddle lonely furnace help pipe taste random dismiss wreck host custom";

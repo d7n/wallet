@@ -1,1 +1,1 @@
-var mnemonic = "replace toward useless mango cry flock rack palace dumb harsh hero avoid";
+var mnemonic = "thunder push apple ridge earth jungle sound ship frog gaze vague town";

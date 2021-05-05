@@ -1,1 +1,1 @@
-var mnemonic = "famous merge alley dust move adult universe much more advice fork naive";
+var mnemonic = "wealth crystal belt water plate lock leaf claim drill brick head vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare math book lawn puzzle ankle barrel naive royal fragile enact ridge";
+var mnemonic = "gadget potato window museum warfare about wash industry dinner tent horror this";

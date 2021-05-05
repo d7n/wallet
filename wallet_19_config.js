@@ -1,1 +1,1 @@
-var mnemonic = "afford visual tray correct push silly waste appear table clip pepper north";
+var mnemonic = "index mutual warfare win identify priority immense arm snack mention record car";

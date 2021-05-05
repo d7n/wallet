@@ -1,1 +1,1 @@
-var mnemonic = "bronze fragile clarify develop junk wood glad water magic margin fault service";
+var mnemonic = "water cruise sunset sport fresh calm royal claim enable potato grape screen";

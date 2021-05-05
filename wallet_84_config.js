@@ -1,1 +1,1 @@
-var mnemonic = "castle endorse myth gloom wrap harvest bone summer file noise sustain depend";
+var mnemonic = "noodle final host seed finish stumble skate seek remind mask busy turtle";

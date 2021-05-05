@@ -1,1 +1,1 @@
-var mnemonic = "mammal teach tortoise bomb narrow vanish depend hood script polar rain deliver";
+var mnemonic = "chat stamp focus top please gift tape gossip proud plastic youth hip";

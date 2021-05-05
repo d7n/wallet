@@ -1,1 +1,1 @@
-var mnemonic = "ill antique degree torch sibling shell faint silver quarter knee alter reduce";
+var mnemonic = "private item industry fever actor judge sadness wasp talent cage foil salmon";

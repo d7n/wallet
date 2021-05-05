@@ -1,1 +1,1 @@
-var mnemonic = "film extend pudding retreat tumble sibling noble can crush wage medal misery";
+var mnemonic = "appear cradle front ribbon dragon object need absorb shadow renew charge dove";

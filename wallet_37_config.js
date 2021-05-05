@@ -1,1 +1,1 @@
-var mnemonic = "bench young record pistol raven craft impact fetch toilet athlete mouse replace";
+var mnemonic = "jaguar measure fish flee duty race empower close aware skirt shield aunt";

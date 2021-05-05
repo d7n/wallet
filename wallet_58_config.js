@@ -1,1 +1,1 @@
-var mnemonic = "armor timber gold sustain giggle debate copy damp improve deputy come click";
+var mnemonic = "gravity pear panel absorb end nation veteran report uncover tissue blur modify";

@@ -1,1 +1,1 @@
-var mnemonic = "order aisle behave foam burger hope biology tiny unit april quiz song";
+var mnemonic = "stereo below mosquito sting sun nose trophy clean praise join boil symptom";

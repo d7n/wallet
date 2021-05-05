@@ -1,1 +1,1 @@
-var mnemonic = "forward install bottom gas tray ripple pizza outer system earth service before";
+var mnemonic = "either river unaware captain calm certain grace slow cycle bless neck danger";

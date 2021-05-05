@@ -1,1 +1,1 @@
-var mnemonic = "avoid roof spray jacket portion hub salt goose shed royal thought unique";
+var mnemonic = "input panther glide script fit tree humor journey useless unaware emotion grab";

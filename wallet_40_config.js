@@ -1,1 +1,1 @@
-var mnemonic = "welcome device goat usage pulse wasp tell stumble fortune bulb vapor appear";
+var mnemonic = "sunny business camp rhythm make truly olive remember cluster angry subject film";

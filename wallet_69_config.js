@@ -1,1 +1,1 @@
-var mnemonic = "attend nurse drum element save chief person acoustic holiday dragon kiwi champion";
+var mnemonic = "vanish furnace coconut license loop arch network smile image media tomato dove";

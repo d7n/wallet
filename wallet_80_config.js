@@ -1,1 +1,1 @@
-var mnemonic = "goddess shy veteran provide lottery praise bike stomach shuffle before wrong cactus";
+var mnemonic = "two hub nut absurd purity carbon spy tenant cost logic shy anger";

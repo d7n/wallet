@@ -1,1 +1,1 @@
-var mnemonic = "cute sure surprise firm body fly today bracket result brief budget regular";
+var mnemonic = "range monitor favorite point dove lens empower toss stable tennis trap unaware";

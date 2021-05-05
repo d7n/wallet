@@ -1,1 +1,1 @@
-var mnemonic = "arrange cattle plug dawn unlock retire various pilot uncover ankle brown meat";
+var mnemonic = "erode fringe tourist easily ancient large sister frozen verb meat such stem";

@@ -1,1 +1,1 @@
-var mnemonic = "response peace have start rabbit young foil toilet swamp spend excess cage";
+var mnemonic = "uniform proud mutual diet smooth gorilla pave eight adult skull final impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "security actress outside can roast hammer broccoli clock else fit armor ketchup";
+var mnemonic = "comic soft typical oblige cause cinnamon seek join brown bicycle lab disagree";

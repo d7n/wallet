@@ -1,1 +1,1 @@
-var mnemonic = "sample call face find decline giraffe refuse camera dragon lyrics cheese border";
+var mnemonic = "clever thumb farm liberty sibling syrup cushion dance zero kid method primary";

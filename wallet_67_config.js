@@ -1,1 +1,1 @@
-var mnemonic = "width divorce clever reopen artist success describe crazy spell soft cheese oak";
+var mnemonic = "renew face canoe curtain click moon fault recycle tortoise surface settle wink";

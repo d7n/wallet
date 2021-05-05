@@ -1,1 +1,1 @@
-var mnemonic = "grant cube suit bicycle razor option fan usage edit digital vacant ride";
+var mnemonic = "move rent quantum sorry nose liberty fun margin cheap stable glass wedding";

@@ -1,1 +1,1 @@
-var mnemonic = "lava wreck goat cat spread pistol seat room fade rich dignity exhibit";
+var mnemonic = "shine taxi fashion bag school loyal what program decline silent orchard seat";

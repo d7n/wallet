@@ -1,1 +1,1 @@
-var mnemonic = "rude payment hip oppose dice divert response cost innocent will brave stable";
+var mnemonic = "immense this powder panda smart agree there social pond roof flavor huge";

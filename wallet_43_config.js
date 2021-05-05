@@ -1,1 +1,1 @@
-var mnemonic = "make trigger below finger enforce scene siren bachelor rifle meadow train shoulder";
+var mnemonic = "mad float legend witness front engage actress cave throw wise used sweet";

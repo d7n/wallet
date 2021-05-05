@@ -1,1 +1,1 @@
-var mnemonic = "blush bleak roast increase unaware enough total dwarf alter learn split boss";
+var mnemonic = "affair boat mask echo spend obtain minute rely frown seven stereo stand";

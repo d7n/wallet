@@ -1,1 +1,1 @@
-var mnemonic = "joy park fantasy vast wide confirm potato narrow engine spirit stay leisure";
+var mnemonic = "wrong parrot jazz boost neutral squirrel derive medal curious fire laugh abandon";

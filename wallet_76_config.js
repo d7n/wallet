@@ -1,1 +1,1 @@
-var mnemonic = "father crumble search pyramid glow profit elephant wool middle nest humble barely";
+var mnemonic = "power horn swap silent fruit below issue riot produce shadow snow resist";

@@ -1,1 +1,1 @@
-var mnemonic = "market fame midnight cigar other there penalty target now salad oven slab";
+var mnemonic = "merge tennis tenant ancient gold stand flat pulse sting marble retire huge";

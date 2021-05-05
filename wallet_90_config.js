@@ -1,1 +1,1 @@
-var mnemonic = "original travel equip certain summer draft uphold taste snow beef base crisp";
+var mnemonic = "pen sponsor top silk tuition first record tank notable nuclear alien govern";

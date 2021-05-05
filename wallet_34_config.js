@@ -1,1 +1,1 @@
-var mnemonic = "screen reflect rate once trophy pole utility anger settle hint payment crunch";
+var mnemonic = "bulk planet panther blush indicate fall burden orbit sail suffer elephant involve";

@@ -1,1 +1,1 @@
-var mnemonic = "zone fuel sport cotton popular two document dirt mango wash satisfy sphere";
+var mnemonic = "aim frame there earn diary rug divide icon predict trick kid language";

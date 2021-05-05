@@ -1,1 +1,1 @@
-var mnemonic = "lunch field woman enrich rapid illegal reveal arrange staff silver patrol future";
+var mnemonic = "travel bundle popular hat cycle doctor artist minute must lab milk same";

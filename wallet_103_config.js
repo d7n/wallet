@@ -1,1 +1,1 @@
-var mnemonic = "shift imitate tongue muffin strong connect capable anxiety raw ride mechanic melody";
+var mnemonic = "enact broken wreck skirt soap bamboo weapon mad swim unable chronic execute";

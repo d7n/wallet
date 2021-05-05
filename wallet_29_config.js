@@ -1,1 +1,1 @@
-var mnemonic = "column victory acquire laugh doll cute elite sausage intact mass thought hood";
+var mnemonic = "patient favorite snow normal very supply rocket ketchup apology raise angle collect";

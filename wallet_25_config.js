@@ -1,1 +1,1 @@
-var mnemonic = "receive giggle protect snap survey bleak thunder photo food chronic virtual pen";
+var mnemonic = "black device educate name analyst negative caught suggest daughter melt axis knife";

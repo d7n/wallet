@@ -1,1 +1,1 @@
-var mnemonic = "file pattern town win find ugly obtain only amazing suggest include wedding";
+var mnemonic = "misery twelve foster couple tobacco tone giggle style toddler daughter twist will";

@@ -1,1 +1,1 @@
-var mnemonic = "glue magic myself claw goose possible mirror virus joy require divert abstract";
+var mnemonic = "agent burden vibrant lizard suspect reopen baby play casual aspect light absurd";

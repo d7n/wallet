@@ -1,1 +1,1 @@
-var mnemonic = "gap inmate voyage dumb dad place air nose hospital behave attitude wreck";
+var mnemonic = "license novel sock frost shove medal couple smart elephant myself save bag";

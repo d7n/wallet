@@ -1,1 +1,1 @@
-var mnemonic = "science acquire grocery target fog autumn gaze dynamic twin private extra situate";
+var mnemonic = "wall park reflect oxygen ugly creek infant exact steak permit maid car";

@@ -1,1 +1,1 @@
-var mnemonic = "text student track drastic burst minute hammer lamp afraid adult repeat category";
+var mnemonic = "good forum prison dance asthma report uncle frozen knock holiday near inmate";

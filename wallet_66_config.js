@@ -1,1 +1,1 @@
-var mnemonic = "huge save alley tattoo mango suspect ice lumber middle hockey bacon mail";
+var mnemonic = "glimpse resist casino pride fall net steak twice buyer soda staff between";

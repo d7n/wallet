@@ -1,1 +1,1 @@
-var mnemonic = "museum immune fossil easily short spoon diamond hurry best bonus speed crawl";
+var mnemonic = "split credit purity square canal rescue crew flight unhappy appear state major";

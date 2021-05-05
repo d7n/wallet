@@ -1,1 +1,1 @@
-var mnemonic = "snap true onion maximum issue teach make kick manual moon solve poem";
+var mnemonic = "supply soft flash piece entry medal frame island guess dish fashion refuse";

@@ -1,1 +1,1 @@
-var mnemonic = "cake energy kidney trend release outdoor mention melody glass smile capable want";
+var mnemonic = "ankle reflect screen bulk olympic inflict attend label tone neck donkey average";

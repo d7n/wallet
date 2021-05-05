@@ -1,1 +1,1 @@
-var mnemonic = "aerobic riot stable horse sausage section attitude arrest occur gift street ignore";
+var mnemonic = "squirrel basket collect thunder october poem bitter regret library original smoke ugly";

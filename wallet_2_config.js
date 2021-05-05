@@ -1,1 +1,1 @@
-var mnemonic = "minute manual uncover slender engine elder subway nasty bird book rare toddler";
+var mnemonic = "toy roast ivory fan window key spawn seat damage elegant employ peanut";

@@ -1,1 +1,1 @@
-var mnemonic = "capable guitar remain boy coffee add kiss electric deliver orphan romance draft";
+var mnemonic = "find misery pet napkin element clarify rail birth steak smooth toward basic";

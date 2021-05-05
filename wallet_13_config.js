@@ -1,1 +1,1 @@
-var mnemonic = "before stereo leave goat limb course supply draw account kite primary rotate";
+var mnemonic = "shell audit knife song pistol fan broccoli spider song virtual pluck elite";

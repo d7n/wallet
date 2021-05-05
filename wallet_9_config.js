@@ -1,1 +1,1 @@
-var mnemonic = "soap blush anger furnace transfer solid gadget train tourist frequent canoe dose";
+var mnemonic = "clean local network dumb erupt improve sweet deposit kiss wasp animal fringe";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle garbage genuine any maid actress begin silk dance upper disagree nominee";
+var mnemonic = "tornado anxiety social check evidence sudden artist acid crane venture urge paper";

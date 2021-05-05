@@ -1,1 +1,1 @@
-var mnemonic = "axis adapt dumb lazy urban castle owner cause shiver black arrange peanut";
+var mnemonic = "flower town page law cinnamon narrow pact family avoid cable core gap";

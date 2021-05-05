@@ -1,1 +1,1 @@
-var mnemonic = "palace foot blade immense correct canyon scout verify camera rocket display bag";
+var mnemonic = "desk grow equal high noise easily crime author youth royal buyer devote";

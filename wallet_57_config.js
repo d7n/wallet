@@ -1,1 +1,1 @@
-var mnemonic = "rule cake jump useless arrest thank raw oil ozone carbon asthma picnic";
+var mnemonic = "travel bridge voyage radar giggle arm warrior neutral ask card glove stairs";

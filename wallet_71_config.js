@@ -1,1 +1,1 @@
-var mnemonic = "child brisk visa honey blush lawsuit kangaroo popular allow credit river inside";
+var mnemonic = "foot visual enroll card floor oyster supreme image submit talk cute bid";

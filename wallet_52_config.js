@@ -1,1 +1,1 @@
-var mnemonic = "paddle come mail toward idle outdoor economy view cover thunder divert pair";
+var mnemonic = "enhance bone cost air popular elite vivid soccer dress pizza sight bronze";

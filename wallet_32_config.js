@@ -1,1 +1,1 @@
-var mnemonic = "true next title lift demise destroy fatigue catalog coin assist weapon indoor";
+var mnemonic = "short vanish unlock element frozen song beyond spawn course bus cancel biology";

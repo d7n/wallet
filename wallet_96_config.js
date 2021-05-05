@@ -1,1 +1,1 @@
-var mnemonic = "seek rice document main service inherit lobster peasant rotate resemble upon nature";
+var mnemonic = "holiday panel desk sing effort paddle organ light marble weird wild unknown";

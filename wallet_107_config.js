@@ -1,1 +1,1 @@
-var mnemonic = "course final dice physical soup pool city topic verb perfect slight ritual";
+var mnemonic = "cloud smoke egg sense tuition soul arrange hope solar canvas surge myth";

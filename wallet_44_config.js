@@ -1,1 +1,1 @@
-var mnemonic = "mule sport away decrease tongue valley credit seminar blame cheese wrestle badge";
+var mnemonic = "consider basket old jungle traffic hybrid hospital trust market certain when until";

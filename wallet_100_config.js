@@ -1,1 +1,1 @@
-var mnemonic = "miracle arm keen into wonder lottery mesh eyebrow father fat tragic deny";
+var mnemonic = "siren praise pipe citizen surface oxygen hair cream banner maximum course pen";

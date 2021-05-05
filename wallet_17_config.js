@@ -1,1 +1,1 @@
-var mnemonic = "parent pink jealous rotate rent potato example benefit mountain stand mistake lawn";
+var mnemonic = "grid tell motion deer try snack frame dice apology enforce sponsor bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "hybrid adapt orphan indoor trash success power green tree like slender harsh";
+var mnemonic = "across rival sentence between nut snow road panther thrive index verify squirrel";

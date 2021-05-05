@@ -1,1 +1,1 @@
-var mnemonic = "hobby sample raise desk absurd between machine goose isolate amount dress bulk";
+var mnemonic = "identify aerobic note setup marble company garden chronic better lock minute cement";

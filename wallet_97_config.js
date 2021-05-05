@@ -1,1 +1,1 @@
-var mnemonic = "bunker radio cluster hello tongue cash sudden feel anxiety teach chronic illness";
+var mnemonic = "narrow correct olive photo virtual antenna explain jealous crystal regular quiz ready";

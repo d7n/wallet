@@ -1,1 +1,1 @@
-var mnemonic = "october silver space filter upgrade trophy agent enemy umbrella lava shaft fish";
+var mnemonic = "dutch goose age galaxy cliff affair palace shadow spike glove false defy";

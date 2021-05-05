@@ -1,1 +1,1 @@
-var mnemonic = "onion pyramid sock stock you culture enlist ensure steak arrow cancel quote";
+var mnemonic = "inspire round always dish amused float gossip blue retreat kit cheap light";

@@ -1,1 +1,1 @@
-var mnemonic = "post solid because market solid six morning media there swim census tag";
+var mnemonic = "step silent dune admit lumber view good disagree surface gloom almost swim";

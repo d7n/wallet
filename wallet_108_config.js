@@ -1,1 +1,1 @@
-var mnemonic = "chief staff race quick detect seminar burst rather success flush turkey inherit";
+var mnemonic = "entire brick clap differ hero picture notable decorate grocery copy message melody";

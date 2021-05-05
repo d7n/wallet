@@ -1,1 +1,1 @@
-var mnemonic = "increase talent client gold pilot era gun silent income hobby obey call";
+var mnemonic = "must celery bottom finger stamp artefact display nature hand awkward rally grunt";
