@@ -1,1 +1,1 @@
-var mnemonic = "similar network mule donate frog pumpkin tuition repair quiz author head swarm";
+var mnemonic = "cruel main gun toddler zoo fluid gravity omit unlock body strong claw";

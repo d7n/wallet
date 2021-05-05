@@ -1,1 +1,1 @@
-var mnemonic = "memory between hockey shield inside flame keen promote curve mix number fetch";
+var mnemonic = "defense orchard rifle cradle decorate say scorpion regular erupt peasant end anxiety";

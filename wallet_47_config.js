@@ -1,1 +1,1 @@
-var mnemonic = "symptom inform derive motor truck wasp correct shaft verb illegal still grow";
+var mnemonic = "speed nose drift purchase volume isolate piece guard cancel chicken immense decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "execute slam pair jealous ring nominee library country live upon maze dismiss";
+var mnemonic = "monitor appear setup orient cage burger chronic hollow skin boy home frozen";

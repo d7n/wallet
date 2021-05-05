@@ -1,1 +1,1 @@
-var mnemonic = "spell income diesel rice giant armor bullet scare tent faculty case wash";
+var mnemonic = "team marble economy pizza inner ranch giant true fashion crystal taste item";

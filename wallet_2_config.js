@@ -1,1 +1,1 @@
-var mnemonic = "twelve decrease ski shoe invite hospital bread club style exist mouse capable";
+var mnemonic = "copy cradle suggest slender glad flight assault pass domain cushion drum able";

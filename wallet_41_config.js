@@ -1,1 +1,1 @@
-var mnemonic = "access across sun manual rough mouse can crater school lock genre check";
+var mnemonic = "digital bonus trap label flat thrive quick bulb old quit gas solution";

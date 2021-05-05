@@ -1,1 +1,1 @@
-var mnemonic = "indicate tornado sponsor fault device quick essence kiss liquid law cost lobster";
+var mnemonic = "divert purchase quote ensure essay delay outdoor foster market wolf uniform puzzle";

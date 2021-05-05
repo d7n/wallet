@@ -1,1 +1,1 @@
-var mnemonic = "inflict oven hospital unhappy slow gold zebra liquid garage satisfy aisle payment";
+var mnemonic = "odor doctor acquire tortoise supreme crane strong pelican segment nephew crowd worry";

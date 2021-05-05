@@ -1,1 +1,1 @@
-var mnemonic = "hire cake hover increase final empower witness fine west defense syrup stone";
+var mnemonic = "beauty two deer purchase joy fuel amateur friend grief inhale subject slab";

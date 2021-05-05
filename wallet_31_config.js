@@ -1,1 +1,1 @@
-var mnemonic = "kidney hint rail wish author narrow reopen scorpion family flat select bundle";
+var mnemonic = "camera define immune economy lady scrap rhythm poem carbon veteran usage what";

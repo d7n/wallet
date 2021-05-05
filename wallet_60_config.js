@@ -1,1 +1,1 @@
-var mnemonic = "lottery already carpet lottery assume weapon wear raven empty world bamboo post";
+var mnemonic = "furnace else youth forward vibrant bid about club blanket bounce act few";

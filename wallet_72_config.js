@@ -1,1 +1,1 @@
-var mnemonic = "orbit ignore lawsuit simple glad detail until grape enrich essence awkward slice";
+var mnemonic = "lobster rebuild jacket brief account vacuum give beyond hint figure power dress";

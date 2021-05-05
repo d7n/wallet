@@ -1,1 +1,1 @@
-var mnemonic = "crew box since narrow execute extend test design stuff inside verify gown";
+var mnemonic = "veteran garbage seminar replace aim version art object shoe network fruit novel";

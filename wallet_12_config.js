@@ -1,1 +1,1 @@
-var mnemonic = "actor wrong pave engine divorce ancient rather receive west worth sing photo";
+var mnemonic = "school bleak ridge hotel impact kit barely blush nation legal cactus donate";

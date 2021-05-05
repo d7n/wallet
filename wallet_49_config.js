@@ -1,1 +1,1 @@
-var mnemonic = "rib glare pave reject bronze hour outdoor clever biology valid clump resist";
+var mnemonic = "immune width cricket road minor foster find brand impose wave warm blind";

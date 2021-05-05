@@ -1,1 +1,1 @@
-var mnemonic = "accuse hurdle fiber ribbon frog drip arena profit reward umbrella ahead saddle";
+var mnemonic = "admit turn design element horror tired slogan uncle fossil dumb crazy fabric";

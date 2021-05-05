@@ -1,1 +1,1 @@
-var mnemonic = "gym problem apple infant curve raw secret surprise width special quick tray";
+var mnemonic = "vanish remain visual waste slam lend pizza pigeon virtual glass damp enroll";

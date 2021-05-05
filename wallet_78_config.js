@@ -1,1 +1,1 @@
-var mnemonic = "talk this spawn grocery bullet identify student ceiling kit sorry giggle acquire";
+var mnemonic = "film venture offer upper interest matrix shove hole uniform gauge master joy";

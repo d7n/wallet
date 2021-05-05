@@ -1,1 +1,1 @@
-var mnemonic = "junior path love pattern goat eternal pave shield elder wrist pipe chef";
+var mnemonic = "legend urban sad kind result all alley pottery smoke skull measure depart";

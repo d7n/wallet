@@ -1,1 +1,1 @@
-var mnemonic = "seed portion glance asthma pill spend year gift album kid steel dress";
+var mnemonic = "tip solve oval fragile disease unfair merge disease elevator trust armed vicious";

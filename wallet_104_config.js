@@ -1,1 +1,1 @@
-var mnemonic = "gun fiscal seminar limit shove scrap custom chapter sadness strategy lecture glimpse";
+var mnemonic = "mixture relief vast kangaroo plunge build suffer mushroom creek exercise inquiry chicken";

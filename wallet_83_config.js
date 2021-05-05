@@ -1,1 +1,1 @@
-var mnemonic = "oil stove prosper flash dove runway labor enact pencil mushroom junk caution";
+var mnemonic = "build plug few burden woman pistol oxygen rain type uniform wet example";

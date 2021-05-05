@@ -1,1 +1,1 @@
-var mnemonic = "camp dizzy tower squirrel wheat soul cupboard ring lawn perfect catch state";
+var mnemonic = "purity melt another trip reflect rib custom public liquid cream chief casino";

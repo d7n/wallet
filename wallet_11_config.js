@@ -1,1 +1,1 @@
-var mnemonic = "recipe connect trend enjoy pink punch mistake wise execute grace cannon drama";
+var mnemonic = "duck wink taste narrow thought arm match lunch expire coffee finger clown";

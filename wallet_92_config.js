@@ -1,1 +1,1 @@
-var mnemonic = "able hub mother skate nature search side artefact solid afraid humble major";
+var mnemonic = "wrap thing ring web timber cigar edit that cousin ketchup absent crane";

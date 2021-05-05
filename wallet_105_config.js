@@ -1,1 +1,1 @@
-var mnemonic = "bulb silly canal age asset before intact crash coil emerge charge carbon";
+var mnemonic = "promote urge always cover wife eye riot cash essence blush drop slim";

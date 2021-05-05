@@ -1,1 +1,1 @@
-var mnemonic = "female winter spot shove assist taxi critic hire spike drop goddess female";
+var mnemonic = "dragon large remain cargo actress scout rail rent prison wing second churn";

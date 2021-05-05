@@ -1,1 +1,1 @@
-var mnemonic = "opinion practice enjoy jungle glimpse donor indicate eager chief axis task pull";
+var mnemonic = "head hello solve bless merry mystery success position other unfair sort clutch";

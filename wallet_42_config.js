@@ -1,1 +1,1 @@
-var mnemonic = "under riot wise captain reopen border champion code tenant soon industry suggest";
+var mnemonic = "venue retreat nominee glimpse book topic police cushion dad dad empty march";

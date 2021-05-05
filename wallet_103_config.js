@@ -1,1 +1,1 @@
-var mnemonic = "sphere antenna casual sight trend column frame enter head fix error check";
+var mnemonic = "tray rough execute tomorrow pull answer split federal october place planet song";

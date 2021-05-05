@@ -1,1 +1,1 @@
-var mnemonic = "behind camera bean unknown scrub reason cube corn tip neutral picnic right";
+var mnemonic = "roof edge daughter twist oven group charge rain floor fade tenant tattoo";

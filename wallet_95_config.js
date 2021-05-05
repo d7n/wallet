@@ -1,1 +1,1 @@
-var mnemonic = "regret unfair poverty hat resource wisdom eyebrow spirit tiger police negative letter";
+var mnemonic = "cargo awful expand lion slam smooth bind actor lonely nuclear equip key";

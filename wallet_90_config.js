@@ -1,1 +1,1 @@
-var mnemonic = "slide afraid pelican abuse erase word spawn disagree charge guess dismiss hip";
+var mnemonic = "ribbon electric creek wisdom creek zone virus toast novel quick magnet fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "gas banana front match bag broccoli advice cricket clerk barrel stereo column";
+var mnemonic = "oil moon sudden letter orange wrist silly mention uniform clog soup impact";

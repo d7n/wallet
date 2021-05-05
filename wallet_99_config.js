@@ -1,1 +1,1 @@
-var mnemonic = "major love gain zebra ceiling earn sort wheel resemble time clean width";
+var mnemonic = "garbage believe welcome dynamic random behave tape gossip word name erosion wood";

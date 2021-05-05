@@ -1,1 +1,1 @@
-var mnemonic = "patch leader cloud universe write cheap lobster unveil trust section noodle dilemma";
+var mnemonic = "toast legend kiwi excess expand mask expire dog industry know wise word";

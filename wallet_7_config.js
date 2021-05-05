@@ -1,1 +1,1 @@
-var mnemonic = "seminar return south resemble wait banana lion salon barrel below tired good";
+var mnemonic = "forest kiss veteran coast rough wide parade quality push ride speak year";

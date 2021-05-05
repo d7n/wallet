@@ -1,1 +1,1 @@
-var mnemonic = "rely skill convince intact hospital leaf end pulse era cherry bulb hold";
+var mnemonic = "toe soda quality draw section course advance winter wheel drastic vague session";

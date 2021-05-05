@@ -1,1 +1,1 @@
-var mnemonic = "bitter mad into embark phone shoulder ivory into shy shed era trip";
+var mnemonic = "patient blame spring clay replace ask truly income cheap drive rent lens";

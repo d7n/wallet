@@ -1,1 +1,1 @@
-var mnemonic = "can alien budget seed tackle maze rubber hurdle observe ladder hawk genre";
+var mnemonic = "summer clay argue orchard wall fall snap slab loop sport filter jungle";

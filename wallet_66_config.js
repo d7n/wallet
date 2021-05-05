@@ -1,1 +1,1 @@
-var mnemonic = "behave smoke payment poverty walnut naive arm field shadow drop secret extra";
+var mnemonic = "trick volume antenna swear peace tired swing hold key timber spare caught";

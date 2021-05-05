@@ -1,1 +1,1 @@
-var mnemonic = "globe mountain aunt adapt able loop abandon maid reopen trouble tired negative";
+var mnemonic = "drive throw city erode tone exotic detect immune spirit detect royal lake";

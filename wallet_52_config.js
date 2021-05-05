@@ -1,1 +1,1 @@
-var mnemonic = "champion hood father frequent canyon half husband wall fashion simple avocado income";
+var mnemonic = "keen addict demand hammer slogan control program disagree syrup rabbit float twenty";

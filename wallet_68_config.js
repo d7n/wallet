@@ -1,1 +1,1 @@
-var mnemonic = "letter parrot creek uniform seed version feature paddle vendor toast upgrade field";
+var mnemonic = "trash estate pass rebuild cream cigar certain cause glide uncover hurdle spray";

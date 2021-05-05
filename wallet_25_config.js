@@ -1,1 +1,1 @@
-var mnemonic = "embrace oppose marriage bench come creek enjoy hollow subway cattle achieve quote";
+var mnemonic = "seminar fiber swim join pyramid arena eight because cash venture one region";

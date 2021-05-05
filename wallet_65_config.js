@@ -1,1 +1,1 @@
-var mnemonic = "piece debate price oval gasp best analyst trouble degree install shoe ring";
+var mnemonic = "rack please kid wreck lottery dog pause speed spice wagon blame best";

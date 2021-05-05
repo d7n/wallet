@@ -1,1 +1,1 @@
-var mnemonic = "fashion carbon brown endorse earth village knife cage transfer auction solution pipe";
+var mnemonic = "raven merge soda tooth jelly evil sponsor pear end multiply jelly spy";

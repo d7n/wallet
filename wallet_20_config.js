@@ -1,1 +1,1 @@
-var mnemonic = "share real shield battle excite glare educate error arch token chaos scissors";
+var mnemonic = "draw explain stem decline annual original gap merit fossil high moral tone";

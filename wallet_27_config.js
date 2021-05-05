@@ -1,1 +1,1 @@
-var mnemonic = "bless wagon symptom maximum addict say airport you bargain want puzzle acid";
+var mnemonic = "core echo empower among amateur luggage eyebrow raven quick wheat south little";

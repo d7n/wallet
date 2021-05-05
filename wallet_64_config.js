@@ -1,1 +1,1 @@
-var mnemonic = "uphold shield sea mirror code nice moment stable water lyrics taxi notice";
+var mnemonic = "search wagon desk now sponsor cry angle just vendor symbol cancel abstract";

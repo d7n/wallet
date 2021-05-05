@@ -1,1 +1,1 @@
-var mnemonic = "nature legend ship spring silly remind hole diagram limit nuclear tide frequent";
+var mnemonic = "uncover spoon work ribbon tooth tomato beauty hat obtain keep robust edit";

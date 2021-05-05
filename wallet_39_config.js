@@ -1,1 +1,1 @@
-var mnemonic = "zebra hero private fortune grid curious hope beef satoshi discover race light";
+var mnemonic = "surface cancel orange lumber annual rose carry satisfy digital broken pact inquiry";

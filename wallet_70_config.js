@@ -1,1 +1,1 @@
-var mnemonic = "this tissue become kiss afraid large february finger buyer firm evoke stove";
+var mnemonic = "chaos patrol witness wagon eternal settle argue visa couple oil second fossil";

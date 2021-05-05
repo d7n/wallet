@@ -1,1 +1,1 @@
-var mnemonic = "sphere agent flee quality render lazy render cross pyramid chest code curious";
+var mnemonic = "dish peasant coin penalty slice cart gadget turtle civil before cage food";

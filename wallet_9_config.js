@@ -1,1 +1,1 @@
-var mnemonic = "glass bless three chest smart security jelly exit forget era reform beauty";
+var mnemonic = "woman warm case away project arctic scale other chimney topic spoil age";

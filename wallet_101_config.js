@@ -1,1 +1,1 @@
-var mnemonic = "sail voice arm disease action law tunnel level green measure churn hard";
+var mnemonic = "stomach cactus fever siren unveil party today push abuse price refuse cave";

@@ -1,1 +1,1 @@
-var mnemonic = "predict enrich hawk decline cross gentle olympic sad entry taste video clay";
+var mnemonic = "nasty rail come during anxiety hamster jewel scheme nasty luxury term kit";

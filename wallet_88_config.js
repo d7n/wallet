@@ -1,1 +1,1 @@
-var mnemonic = "fresh material toilet grain nest oval avocado average master property silent kidney";
+var mnemonic = "betray fiscal bundle slam chase crush jewel issue stumble suspect worry cat";

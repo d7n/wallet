@@ -1,1 +1,1 @@
-var mnemonic = "drift render food flag sketch much program prevent front around puzzle film";
+var mnemonic = "stove clever hole divorce write camera impose hybrid cry resist together occur";

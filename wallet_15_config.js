@@ -1,1 +1,1 @@
-var mnemonic = "case laptop auto uncle fork edit pool item stage upset battle birth";
+var mnemonic = "grab reopen barrel pizza retreat onion neglect never asset round print rebel";

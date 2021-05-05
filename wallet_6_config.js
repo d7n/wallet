@@ -1,1 +1,1 @@
-var mnemonic = "picnic hundred hurdle rebel protect timber promote outside bunker also warfare true";
+var mnemonic = "gold float talk adapt upon skill hero balcony fox only bright flush";

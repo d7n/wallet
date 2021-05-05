@@ -1,1 +1,1 @@
-var mnemonic = "drift park deputy fancy bronze thought decrease stomach jealous together edit salon";
+var mnemonic = "cactus garage damage saddle cricket ill expire useful organ town remain daughter";

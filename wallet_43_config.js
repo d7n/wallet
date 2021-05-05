@@ -1,1 +1,1 @@
-var mnemonic = "draft cute measure estate slush breeze shoulder drastic kitten month cabbage parade";
+var mnemonic = "apart vicious key light chuckle ribbon muscle law ancient immense below erupt";

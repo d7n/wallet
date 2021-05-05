@@ -1,1 +1,1 @@
-var mnemonic = "vintage cancel enough various neutral dynamic aisle humble robot swing economy auction";
+var mnemonic = "multiply slide toast until exclude major wolf mirror course solid order canal";

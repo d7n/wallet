@@ -1,1 +1,1 @@
-var mnemonic = "accident congress utility combine total wisdom question nature suspect journey wrap quality";
+var mnemonic = "shell relief together transfer rack vendor level mad absurd leaf need segment";

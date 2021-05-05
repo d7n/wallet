@@ -1,1 +1,1 @@
-var mnemonic = "lock morning claw orient miss remind rescue pink kiwi east vehicle grunt";
+var mnemonic = "lemon scene enter village attend toss job velvet belt rather sentence shoe";

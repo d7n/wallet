@@ -1,1 +1,1 @@
-var mnemonic = "fuel blue daughter floor chase robust panel field icon town lady release";
+var mnemonic = "crew broom expect increase illegal awesome spare street say mixture mimic escape";

@@ -1,1 +1,1 @@
-var mnemonic = "filter glory various update wide motor velvet tennis pond hurt garage over";
+var mnemonic = "vacant use push eager pact unaware banana nice load catch copy beyond";

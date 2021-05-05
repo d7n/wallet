@@ -1,1 +1,1 @@
-var mnemonic = "salon squeeze forest surface check undo trophy execute busy crack shine same";
+var mnemonic = "power logic amateur model rice cloth walk bulb hood sock mistake stay";

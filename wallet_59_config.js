@@ -1,1 +1,1 @@
-var mnemonic = "expire member ahead there dish perfect visual salt lumber favorite milk cage";
+var mnemonic = "tail kid winner wash cake student betray cabbage account dance diet museum";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst pencil inch amount mean giant brand derive awful meadow tissue aspect";
+var mnemonic = "novel liar sentence tornado have twenty exchange woman rent repair boil boil";

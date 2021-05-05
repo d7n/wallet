@@ -1,1 +1,1 @@
-var mnemonic = "inch scrap swap main athlete naive bonus detail stairs stadium reveal dry";
+var mnemonic = "celery way thought cheese victory concert fatal tape reduce slogan unfold rail";

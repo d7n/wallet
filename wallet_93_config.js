@@ -1,1 +1,1 @@
-var mnemonic = "flame extend coconut thrive stumble record tribe spatial sword toy senior steak";
+var mnemonic = "primary trend increase tobacco cigar marble valid mosquito rally pair wing idea";

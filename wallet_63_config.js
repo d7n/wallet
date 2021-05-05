@@ -1,1 +1,1 @@
-var mnemonic = "dose choice drill swear ready uphold upper school annual ice stumble cute";
+var mnemonic = "demand chase person base tiger nurse canyon cement tunnel grab high suffer";

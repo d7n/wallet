@@ -1,1 +1,1 @@
-var mnemonic = "orient below practice famous monitor desert runway indicate canyon grab usage moral";
+var mnemonic = "guitar friend chuckle sell six envelope question opinion stomach trumpet soldier coil";

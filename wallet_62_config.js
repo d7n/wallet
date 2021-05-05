@@ -1,1 +1,1 @@
-var mnemonic = "car river aim virtual amateur pink cool federal goose veteran friend hen";
+var mnemonic = "misery brain grape undo excite cushion chimney tribe language remember tank voice";

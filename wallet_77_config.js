@@ -1,1 +1,1 @@
-var mnemonic = "grocery lava fence purse spring digital foot panel million jewel rapid above";
+var mnemonic = "arrow used bunker trumpet cattle inch voice coyote swallow second south digital";

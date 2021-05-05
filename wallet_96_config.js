@@ -1,1 +1,1 @@
-var mnemonic = "witness client wet neither laugh spider camp health remind remain allow coin";
+var mnemonic = "lunch amount ghost basket merry badge assist salad torch joke disorder coil";

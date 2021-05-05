@@ -1,1 +1,1 @@
-var mnemonic = "search squirrel inner swallow menu aunt angle limit manual slice soap wasp";
+var mnemonic = "valve royal range visa devote attend garment possible faculty wife push embark";

@@ -1,1 +1,1 @@
-var mnemonic = "bless gloom license shove video zoo uniform absent great turkey toilet mixed";
+var mnemonic = "kiss clarify orbit august elbow wheel void cattle track judge tired ginger";

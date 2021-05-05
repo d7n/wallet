@@ -1,1 +1,1 @@
-var mnemonic = "basket clinic marriage art action spawn make duty solid select since earth";
+var mnemonic = "accident violin quantum judge abstract mixture escape trophy stomach dose twin clown";

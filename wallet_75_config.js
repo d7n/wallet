@@ -1,1 +1,1 @@
-var mnemonic = "scout poem adult behind toddler traffic cushion arrow rate govern annual tuna";
+var mnemonic = "menu afford tube upset never change start luxury burger mango rate game";

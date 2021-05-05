@@ -1,1 +1,1 @@
-var mnemonic = "beauty trick beach chair normal picnic flag initial boy define unfair flavor";
+var mnemonic = "learn coconut bracket ring can decline kid nerve vacuum direct loan beauty";

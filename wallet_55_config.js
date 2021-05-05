@@ -1,1 +1,1 @@
-var mnemonic = "suggest season dance tennis turtle possible vehicle frame retreat remember hotel throw";
+var mnemonic = "unfold deal basket solid outside bridge sell program frame protect abuse average";

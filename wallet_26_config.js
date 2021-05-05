@@ -1,1 +1,1 @@
-var mnemonic = "rookie morning math picture rocket print inner select champion farm unaware remove";
+var mnemonic = "laugh trade apple degree sustain prepare feed chat salon leisure outside extend";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit sight mansion develop negative foster tissue grab vendor resemble rug dignity";
+var mnemonic = "expand wish sting demand moon bounce brother unfair echo engine under finger";

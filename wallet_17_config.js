@@ -1,1 +1,1 @@
-var mnemonic = "vendor crop candy citizen range session toe slot tissue dragon parent copy";
+var mnemonic = "jaguar cake until siren mass cheese fossil cry galaxy fiber cruise rule";

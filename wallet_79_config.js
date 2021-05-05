@@ -1,1 +1,1 @@
-var mnemonic = "aim develop lyrics range legend twelve whisper lawsuit rate pipe bachelor village";
+var mnemonic = "key inform that orange tiny squirrel public aunt behind taste stadium ketchup";

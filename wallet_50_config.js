@@ -1,1 +1,1 @@
-var mnemonic = "hollow cruise stick dynamic dress interest keep lottery almost knock anxiety uniform";
+var mnemonic = "toast buyer dash quit eye silver master tube drama leisure moral online";

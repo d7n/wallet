@@ -1,1 +1,1 @@
-var mnemonic = "travel kingdom bracket pen code health girl term cart drift anger pretty";
+var mnemonic = "aunt problem cage gorilla goose expand that garbage search extend simple long";

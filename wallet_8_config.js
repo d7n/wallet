@@ -1,1 +1,1 @@
-var mnemonic = "stadium clump occur puzzle virtual hungry twice zebra length picnic warfare make";
+var mnemonic = "account daughter asthma shrug dentist guilt quality very tourist there bag oxygen";

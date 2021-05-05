@@ -1,1 +1,1 @@
-var mnemonic = "merit arrest draw lyrics void must brisk pen bicycle adult language clean";
+var mnemonic = "spare error define trophy pattern agent grass task initial fish magic spatial";

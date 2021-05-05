@@ -1,1 +1,1 @@
-var mnemonic = "nation wrist twist muffin upgrade maze unhappy napkin forum move mad maximum";
+var mnemonic = "cart drip duck logic reform scout panel output note prize advice clerk";

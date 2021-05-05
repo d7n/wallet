@@ -1,1 +1,1 @@
-var mnemonic = "stone desk tape glue walnut craft win clinic hill napkin vessel bulb";
+var mnemonic = "gentle drink laundry escape special brass keen abuse snake crowd defy outer";
