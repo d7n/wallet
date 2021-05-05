@@ -1,1 +1,1 @@
-var mnemonic = "sentence grief tourist hunt group enjoy stairs shine twice toilet laptop dragon";
+var mnemonic = "grit interest expose hero veteran drop sea grain lemon label pill call";

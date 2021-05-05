@@ -1,1 +1,1 @@
-var mnemonic = "reduce junk exhibit meat entry ozone mansion unveil wife name lizard prosper";
+var mnemonic = "attitude spin glory punch other chief treat project insect onion hurt cloud";

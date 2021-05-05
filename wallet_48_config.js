@@ -1,1 +1,1 @@
-var mnemonic = "helmet wall stay sorry quality solid agent person success virtual length glide";
+var mnemonic = "vague diamond anger theory large atom design road struggle obtain tip century";

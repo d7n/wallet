@@ -1,1 +1,1 @@
-var mnemonic = "either season need ginger modify bracket other expand normal balance horse together";
+var mnemonic = "volume frame forest profit acoustic unable language describe cage vendor impulse leader";

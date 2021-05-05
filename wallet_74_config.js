@@ -1,1 +1,1 @@
-var mnemonic = "upset pizza vibrant smile horn setup lava rally lock boost salute castle";
+var mnemonic = "suit across blouse giggle debris royal need antenna belt drama better useless";

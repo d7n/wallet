@@ -1,1 +1,1 @@
-var mnemonic = "ship risk zero improve burst various genre diagram panic barely gold foam";
+var mnemonic = "noble crater allow protect dust better diamond ethics smooth burger pulse casual";

@@ -1,1 +1,1 @@
-var mnemonic = "fence lizard laundry similar acoustic explain pudding farm frog ginger sad verb";
+var mnemonic = "reopen muscle canal phone firm endless vessel recall giant hold fun dignity";

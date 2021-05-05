@@ -1,1 +1,1 @@
-var mnemonic = "slot duty village team inch major ecology high tired remember salmon parrot";
+var mnemonic = "walnut crash net insect hard broom extra random surround economy antenna faint";

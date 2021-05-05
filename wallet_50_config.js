@@ -1,1 +1,1 @@
-var mnemonic = "nerve metal budget prosper raise absent exhibit tiger correct one swear explain";
+var mnemonic = "concert flower crop genuine series city trial idea cup neglect lemon cluster";

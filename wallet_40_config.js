@@ -1,1 +1,1 @@
-var mnemonic = "pistol outdoor motor invite snow damp shoulder coil champion segment tomorrow actual";
+var mnemonic = "crane neutral attend dish front idle purpose crew rail coil chunk acquire";

@@ -1,1 +1,1 @@
-var mnemonic = "horn give mercy spy human correct salon logic oak dirt earn praise";
+var mnemonic = "proof spoil wine stuff network charge later hunt clock punch lazy only";

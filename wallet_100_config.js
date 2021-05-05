@@ -1,1 +1,1 @@
-var mnemonic = "small ranch board love announce husband trash usage grant cheese hair promote";
+var mnemonic = "dutch emerge student ride eyebrow bracket fancy hybrid live feed sign merge";

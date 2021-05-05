@@ -1,1 +1,1 @@
-var mnemonic = "cigar title youth brother gather argue blade tongue impose galaxy correct boost";
+var mnemonic = "knock retire original arm reflect annual father spy horn traffic engine breeze";

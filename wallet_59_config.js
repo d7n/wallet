@@ -1,1 +1,1 @@
-var mnemonic = "bomb video into trumpet baby coral smoke spare source pigeon remove burden";
+var mnemonic = "portion walnut between sniff angry coyote grab combine two hello purse bread";

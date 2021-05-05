@@ -1,1 +1,1 @@
-var mnemonic = "pepper good trash side slide battle dutch rival maid forget fault decade";
+var mnemonic = "column order sound enrich steak candy panther denial frequent exclude convince sugar";

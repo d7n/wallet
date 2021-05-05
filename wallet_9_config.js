@@ -1,1 +1,1 @@
-var mnemonic = "hold text dumb they dinner cheap misery solid upon click sense combine";
+var mnemonic = "spirit sport sword receive split need swallow excuse kick air movie flag";

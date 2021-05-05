@@ -1,1 +1,1 @@
-var mnemonic = "welcome forest chest appear doll visual either cloud punch stereo harsh candy";
+var mnemonic = "clock worry achieve possible palm senior quiz brain quick nephew spread scrub";

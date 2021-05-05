@@ -1,1 +1,1 @@
-var mnemonic = "length brain cover electric aerobic creek usage primary voyage observe during hollow";
+var mnemonic = "lucky step tip car orange jewel parent wasp soda snow monitor immune";

@@ -1,1 +1,1 @@
-var mnemonic = "pen flower mountain globe torch toilet search coach daring cup hello helmet";
+var mnemonic = "notice crime seven island aim charge impact display quarter tragic engine myself";

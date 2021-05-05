@@ -1,1 +1,1 @@
-var mnemonic = "dynamic wine beauty text cube crack dry near name puzzle inform palace";
+var mnemonic = "used thrive pledge dilemma best ring hobby lock south draft panther lazy";

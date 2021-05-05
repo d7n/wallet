@@ -1,1 +1,1 @@
-var mnemonic = "horror elbow price chronic venue surround bronze any awesome mandate spare cotton";
+var mnemonic = "pig citizen card uncle erode retreat angle shop laundry census duty helmet";

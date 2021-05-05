@@ -1,1 +1,1 @@
-var mnemonic = "rack cactus stumble caution claw attract senior until jelly bounce prize sand";
+var mnemonic = "bird flag upset palm winner mind wrong beach wisdom frog model bubble";

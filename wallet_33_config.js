@@ -1,1 +1,1 @@
-var mnemonic = "title clown plug priority topic pencil hybrid fury picnic sword laugh total";
+var mnemonic = "unaware glad immune obey chalk promote beef minimum group power fiber ecology";

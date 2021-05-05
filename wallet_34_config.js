@@ -1,1 +1,1 @@
-var mnemonic = "spin citizen adult snack erupt arena kitten reduce sand snake wine tobacco";
+var mnemonic = "buzz noise message clinic cigar bridge bargain power zone sweet slice reform";

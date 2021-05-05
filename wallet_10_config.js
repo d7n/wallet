@@ -1,1 +1,1 @@
-var mnemonic = "path caught jazz indoor spice juice try present pulp wolf you potato";
+var mnemonic = "picnic spice piano finish stairs during harsh card major chase design spatial";

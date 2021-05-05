@@ -1,1 +1,1 @@
-var mnemonic = "lobster retreat autumn chat pitch cannon pluck figure engage opinion climb omit";
+var mnemonic = "describe lyrics exchange true grunt mind cube humor cradle sweet violin moment";

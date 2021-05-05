@@ -1,1 +1,1 @@
-var mnemonic = "liberty domain exotic pole situate ride entire junk minor copy away ivory";
+var mnemonic = "creek cattle wheat decade click paper oven faculty tape collect spare copper";

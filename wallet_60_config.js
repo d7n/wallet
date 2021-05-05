@@ -1,1 +1,1 @@
-var mnemonic = "brush quantum sadness betray flash wealth addict crunch crumble decrease one chat";
+var mnemonic = "toddler sister liquid coconut shed gravity cart aim across wet crouch pool";

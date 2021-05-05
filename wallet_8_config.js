@@ -1,1 +1,1 @@
-var mnemonic = "excite exchange pyramid promote solve again blade quantum indicate video error sting";
+var mnemonic = "express blind custom latin ceiling canal matter shield network try swallow slogan";

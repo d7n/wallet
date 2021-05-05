@@ -1,1 +1,1 @@
-var mnemonic = "enjoy slush swear good abuse help grain impose cash curve cloud average";
+var mnemonic = "blush another trend corn hint index logic enlist expand alarm wagon pool";

@@ -1,1 +1,1 @@
-var mnemonic = "skin obey palace deer brother drum usual story entire black wheat foam";
+var mnemonic = "rescue one lady run such include response proof muffin tone strategy believe";

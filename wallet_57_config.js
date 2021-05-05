@@ -1,1 +1,1 @@
-var mnemonic = "jump embark girl domain mammal degree fiscal net collect crunch army menu";
+var mnemonic = "night render screen club sport asthma glad candy retreat deal require pattern";

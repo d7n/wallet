@@ -1,1 +1,1 @@
-var mnemonic = "write start fat found end hope absurd rally impulse click armor snake";
+var mnemonic = "vintage idea bullet suggest globe shrimp toe drive fresh siege again uncover";

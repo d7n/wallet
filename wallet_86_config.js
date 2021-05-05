@@ -1,1 +1,1 @@
-var mnemonic = "save invite swamp clap vehicle floor gloom valid all tourist census crawl";
+var mnemonic = "maze eye clutch now trial nation clay speak kit settle gorilla dog";

@@ -1,1 +1,1 @@
-var mnemonic = "unfold reopen pilot evidence panther mask cage erupt grow peasant pride ordinary";
+var mnemonic = "side wild sense derive staff danger torch parrot artist panic radio modify";

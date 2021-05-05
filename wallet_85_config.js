@@ -1,1 +1,1 @@
-var mnemonic = "human hockey exile sword speak time satisfy picture predict shrug disagree maid";
+var mnemonic = "mountain sheriff treat siren absent naive umbrella couple gravity luggage then subway";

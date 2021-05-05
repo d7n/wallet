@@ -1,1 +1,1 @@
-var mnemonic = "hamster cattle remind material combine laugh legal web random legend naive scrub";
+var mnemonic = "miss point pipe lava eyebrow kitten okay present wage addict south scorpion";

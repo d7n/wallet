@@ -1,1 +1,1 @@
-var mnemonic = "truly film addict slow clever hip destroy indicate biology bargain bomb since";
+var mnemonic = "spend example among ensure rookie outdoor safe sunset sick stick essence flash";

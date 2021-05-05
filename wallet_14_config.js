@@ -1,1 +1,1 @@
-var mnemonic = "parade illness puzzle budget sponsor grief select away dumb copy coral tragic";
+var mnemonic = "faint way spare inside text paddle valid vintage bitter develop fame swing";

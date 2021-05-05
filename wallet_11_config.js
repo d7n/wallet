@@ -1,1 +1,1 @@
-var mnemonic = "giraffe way elder second basket eye depend practice source rib bulb oak";
+var mnemonic = "forward dad saddle language number junk twist charge clever stamp amazing world";

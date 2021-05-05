@@ -1,1 +1,1 @@
-var mnemonic = "eight demand rocket zoo huge build guard amateur master service cry hub";
+var mnemonic = "supply tube twist ride ordinary south rabbit custom glad region copper purchase";

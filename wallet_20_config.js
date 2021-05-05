@@ -1,1 +1,1 @@
-var mnemonic = "add youth month raven hood obtain young web limb crater enrich swamp";
+var mnemonic = "dawn innocent staff trend kingdom dismiss figure ribbon document post route clarify";

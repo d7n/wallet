@@ -1,1 +1,1 @@
-var mnemonic = "differ pass correct vault trust useless demand mother label shed cup twelve";
+var mnemonic = "join lemon deputy shuffle path coyote chest course step betray person stereo";

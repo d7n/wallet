@@ -1,1 +1,1 @@
-var mnemonic = "vital final effort minute scale flock private enlist wrong lobster team sustain";
+var mnemonic = "law left allow mesh cross dragon brother head harvest crumble wild evoke";

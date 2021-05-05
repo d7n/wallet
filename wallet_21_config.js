@@ -1,1 +1,1 @@
-var mnemonic = "battle average mom draft cancel maximum canal mercy wrong glow crowd private";
+var mnemonic = "swallow praise way crime ride task female regret salmon company fault equal";

@@ -1,1 +1,1 @@
-var mnemonic = "zero pipe decline link force provide mule tortoise often skate list life";
+var mnemonic = "glove talk aspect december busy wheel echo spare man island lift pizza";

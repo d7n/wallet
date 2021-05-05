@@ -1,1 +1,1 @@
-var mnemonic = "similar spell people wealth once actor fabric cigar castle media vivid blind";
+var mnemonic = "produce unknown battle riot rifle mistake zebra model dinosaur fee gown elbow";

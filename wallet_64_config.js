@@ -1,1 +1,1 @@
-var mnemonic = "ghost crumble caution smoke subway custom begin range smooth primary fire palm";
+var mnemonic = "escape advance hard quiz author pond vicious bulk decline abstract jealous under";

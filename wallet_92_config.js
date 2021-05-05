@@ -1,1 +1,1 @@
-var mnemonic = "chicken coconut zero comic peasant census estate lens rate deputy chunk special";
+var mnemonic = "deer master type update lamp visa valley exist liar solar liquid find";

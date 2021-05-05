@@ -1,1 +1,1 @@
-var mnemonic = "region polar vicious donate adjust gasp penalty joke stone abandon analyst enable";
+var mnemonic = "much arch food broccoli armed brick mention margin nominee viable across black";

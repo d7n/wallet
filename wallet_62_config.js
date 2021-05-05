@@ -1,1 +1,1 @@
-var mnemonic = "trap kingdom yellow service desert match brisk stone elite aerobic surface taxi";
+var mnemonic = "knife follow ritual alter when scare desk kite letter brush swap decide";

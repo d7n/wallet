@@ -1,1 +1,1 @@
-var mnemonic = "sea purse skin atom ritual flat resemble advance wish bus merry emotion";
+var mnemonic = "obscure perfect envelope web between claw brother carry place pony stem expect";

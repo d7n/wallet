@@ -1,1 +1,1 @@
-var mnemonic = "exit badge poem eyebrow source chicken case initial fox flight elite term";
+var mnemonic = "column safe youth project try add mixture net staff category lab then";

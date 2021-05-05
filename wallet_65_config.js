@@ -1,1 +1,1 @@
-var mnemonic = "drum light tired squeeze youth walk burst yellow volcano aunt odor cute";
+var mnemonic = "normal only appear slight upon april panther also field fall label emerge";

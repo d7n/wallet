@@ -1,1 +1,1 @@
-var mnemonic = "crystal joy law clerk donate wall plate faith company again cement page";
+var mnemonic = "destroy liquid radar promote harbor topple leg feel planet today master picnic";

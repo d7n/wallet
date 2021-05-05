@@ -1,1 +1,1 @@
-var mnemonic = "father creek version rally noble daughter panic quality detail fuel popular dilemma";
+var mnemonic = "quality candy office leaf urge cage tray ocean edit aspect island explain";

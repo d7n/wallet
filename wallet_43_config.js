@@ -1,1 +1,1 @@
-var mnemonic = "utility knock foam tilt crucial guess oyster artwork convince green empower team";
+var mnemonic = "party radar essay foam noble hawk voice annual glide letter rough gauge";

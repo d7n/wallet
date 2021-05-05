@@ -1,1 +1,1 @@
-var mnemonic = "crouch soldier first diagram shell frame green emotion eight pull broccoli goat";
+var mnemonic = "era confirm credit desk cannon bargain unusual blame depth solution electric chase";

@@ -1,1 +1,1 @@
-var mnemonic = "false favorite tiger differ latin carry orphan mule alpha ridge ride host";
+var mnemonic = "twist method coil stuff gate person print slogan admit drink build crash";

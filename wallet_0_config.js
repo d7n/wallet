@@ -1,1 +1,1 @@
-var mnemonic = "before delay deer mother issue middle birth point glare depart shiver shrug";
+var mnemonic = "bench pistol summer pepper ladder member sleep cheap social guard harsh stick";

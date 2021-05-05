@@ -1,1 +1,1 @@
-var mnemonic = "simple mouse step fall blood unveil head erupt question where polar lounge";
+var mnemonic = "night liberty idea avocado kitten aunt unit brand real black board gentle";

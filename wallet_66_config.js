@@ -1,1 +1,1 @@
-var mnemonic = "hurt crop dizzy nose scorpion infant intact step near region genre hen";
+var mnemonic = "enjoy net deliver wrist aspect scout fit panel resemble assume gas solid";

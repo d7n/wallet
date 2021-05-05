@@ -1,1 +1,1 @@
-var mnemonic = "hour expire fruit clinic pipe phrase series spell cancel nephew scrub catalog";
+var mnemonic = "sadness cloud drum alarm vital clarify poverty knee museum satoshi little scrub";

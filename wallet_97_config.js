@@ -1,1 +1,1 @@
-var mnemonic = "bundle edge bleak rain scrub radio waste reason tray flush valve thing";
+var mnemonic = "asthma august drastic profit guard fox job avocado promote oppose invest scrub";

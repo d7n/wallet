@@ -1,1 +1,1 @@
-var mnemonic = "fault wave hello pumpkin body cross cheap pave among later few woman";
+var mnemonic = "trash minute must phone hair maid wrong poverty now occur swamp country";

@@ -1,1 +1,1 @@
-var mnemonic = "soul regular sport twelve list option door hip ghost belt street raven";
+var mnemonic = "style genius expose they harsh bright usage air scheme casino phone garage";

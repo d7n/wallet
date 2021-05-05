@@ -1,1 +1,1 @@
-var mnemonic = "flower ritual outer rural ticket foil public symbol sick rely paper panel";
+var mnemonic = "outer urban hybrid aspect purchase grape cheese eye certain verb valley yellow";

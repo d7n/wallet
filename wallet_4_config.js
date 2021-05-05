@@ -1,1 +1,1 @@
-var mnemonic = "case cave gadget work street holiday lunch caught father grow achieve orbit";
+var mnemonic = "front abstract fragile public health blue hurdle gauge absurd primary sock fuel";

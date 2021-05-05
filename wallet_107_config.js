@@ -1,1 +1,1 @@
-var mnemonic = "eight hope bronze exist atom shop defense gold bundle priority acid nest";
+var mnemonic = "afraid appear left sight oyster fee runway warm puzzle begin wall visual";

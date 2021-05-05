@@ -1,1 +1,1 @@
-var mnemonic = "wisdom earth ostrich heavy toward vapor return year spatial only toddler fade";
+var mnemonic = "wrap heart field truth manage clerk buffalo gauge sweet upgrade portion vivid";

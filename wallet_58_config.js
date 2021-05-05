@@ -1,1 +1,1 @@
-var mnemonic = "analyst afraid ridge repeat coin desert once banner daring mouse ancient caught";
+var mnemonic = "blur unusual path essence tumble fluid false pupil patient vivid mass sphere";

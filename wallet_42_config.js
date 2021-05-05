@@ -1,1 +1,1 @@
-var mnemonic = "float sense shuffle advance hollow tourist topple spoon erosion car cup twelve";
+var mnemonic = "rigid tube food lesson rule benefit emotion school loud bus autumn frown";

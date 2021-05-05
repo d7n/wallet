@@ -1,1 +1,1 @@
-var mnemonic = "iron family hedgehog youth useless elbow card own artist inherit laptop easy";
+var mnemonic = "horn juice cash genius protect example what behave cost adapt legend copper";

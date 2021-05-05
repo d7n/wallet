@@ -1,1 +1,1 @@
-var mnemonic = "now license lawn audit saddle distance surprise cake desk buddy hand winter";
+var mnemonic = "utility frost solve issue soft post memory adjust patient vague vital reform";

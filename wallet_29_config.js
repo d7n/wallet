@@ -1,1 +1,1 @@
-var mnemonic = "sister actor journey square steel hurdle jazz stable power jump switch faith";
+var mnemonic = "brisk display account limit orange morning tiny genre west genius relax woman";

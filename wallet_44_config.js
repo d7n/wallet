@@ -1,1 +1,1 @@
-var mnemonic = "mail hockey hammer exact rival cable sand fee frog seek copper today";
+var mnemonic = "detect alter diagram acquire dinner rough inhale above nephew such depend once";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer crater position end emotion airport wrist wealth manual cute track food";
+var mnemonic = "soup predict dose clog inform eight mechanic slow panic cradle mix explain";

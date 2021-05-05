@@ -1,1 +1,1 @@
-var mnemonic = "situate fiber caution omit fat radio wing dawn develop annual party shrug";
+var mnemonic = "grunt pen topic catalog hero flash use divert approve pencil south trap";

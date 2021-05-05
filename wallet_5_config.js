@@ -1,1 +1,1 @@
-var mnemonic = "target prize exclude craft claw fish amateur cost pumpkin faculty bone style";
+var mnemonic = "discover buzz valley flat true train flower twin swarm square kangaroo shy";

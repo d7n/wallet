@@ -1,1 +1,1 @@
-var mnemonic = "sustain review stem tunnel junior school foot walk board round story mixed";
+var mnemonic = "erupt drip gun favorite lyrics sand select universe program aunt indicate common";

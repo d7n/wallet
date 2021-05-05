@@ -1,1 +1,1 @@
-var mnemonic = "chaos across similar loud pottery glide text share language annual able exercise";
+var mnemonic = "trap crystal soda occur gorilla sand trial olive require decide panther swallow";

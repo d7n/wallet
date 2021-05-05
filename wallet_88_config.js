@@ -1,1 +1,1 @@
-var mnemonic = "impact wheel detail churn mean tomorrow noble bronze apple citizen ketchup grow";
+var mnemonic = "merry one dad behave piano retire nurse city acoustic water armor abandon";

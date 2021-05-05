@@ -1,1 +1,1 @@
-var mnemonic = "valid wide arrow oil believe seat chef bench file record park gravity";
+var mnemonic = "story abuse math auto large labor income hotel echo plate horror winner";

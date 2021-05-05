@@ -1,1 +1,1 @@
-var mnemonic = "rely eagle album bike page brief furnace blouse pumpkin april rich limb";
+var mnemonic = "good shiver this approve hurdle car journey oppose make reduce soft normal";

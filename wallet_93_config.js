@@ -1,1 +1,1 @@
-var mnemonic = "filter butter space antique ice plunge husband pumpkin ordinary wink decrease pitch";
+var mnemonic = "cause tone canoe speak once tourist recycle believe faith season repair million";

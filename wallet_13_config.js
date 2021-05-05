@@ -1,1 +1,1 @@
-var mnemonic = "film evidence track age youth outer palm degree dream plug hard despair";
+var mnemonic = "ask syrup violin lawsuit list joy again unhappy cross sponsor guitar smoke";

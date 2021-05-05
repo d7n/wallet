@@ -1,1 +1,1 @@
-var mnemonic = "addict run obey fiber destroy smart arrow enemy output there donate glide";
+var mnemonic = "crater embody notable because barrel help rebuild raw leisure toss brave hawk";
