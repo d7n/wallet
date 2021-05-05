@@ -1,1 +1,1 @@
-var mnemonic = "travel bridge voyage radar giggle arm warrior neutral ask card glove stairs";
+var mnemonic = "thought stand cage mango scheme smart media wet drink oven vacuum organ";

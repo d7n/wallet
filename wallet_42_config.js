@@ -1,1 +1,1 @@
-var mnemonic = "poem work meat pioneer spawn theme invest grocery remind carbon rifle about";
+var mnemonic = "pond physical coach occur nephew federal cherry bean brother peanut cancel pause";

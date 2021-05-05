@@ -1,1 +1,1 @@
-var mnemonic = "squirrel basket collect thunder october poem bitter regret library original smoke ugly";
+var mnemonic = "section fold original position bike bacon ahead trade leisure real art damage";

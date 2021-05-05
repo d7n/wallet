@@ -1,1 +1,1 @@
-var mnemonic = "black device educate name analyst negative caught suggest daughter melt axis knife";
+var mnemonic = "soul purchase trap scare rule isolate road brand course web flush there";

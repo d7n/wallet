@@ -1,1 +1,1 @@
-var mnemonic = "entire brick clap differ hero picture notable decorate grocery copy message melody";
+var mnemonic = "source silver involve humble cost discover huge upgrade talent cup wish thumb";

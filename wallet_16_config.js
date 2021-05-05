@@ -1,1 +1,1 @@
-var mnemonic = "kiwi wolf escape helmet area talent into carry double arctic smooth deliver";
+var mnemonic = "valley inject barely modify water scheme explain couple buyer thunder circle notice";

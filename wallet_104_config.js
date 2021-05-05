@@ -1,1 +1,1 @@
-var mnemonic = "identify casual laptop garage weird journey eternal analyst live quarter party skirt";
+var mnemonic = "social blood two cruel steak champion hidden love ring include cousin utility";

@@ -1,1 +1,1 @@
-var mnemonic = "water cruise sunset sport fresh calm royal claim enable potato grape screen";
+var mnemonic = "sting wool intact syrup food bench nose general genre connect health birth";

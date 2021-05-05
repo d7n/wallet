@@ -1,1 +1,1 @@
-var mnemonic = "narrow correct olive photo virtual antenna explain jealous crystal regular quiz ready";
+var mnemonic = "turtle ladder hidden inspire immune square quantum useful flee machine salmon noodle";

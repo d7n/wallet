@@ -1,1 +1,1 @@
-var mnemonic = "soap song punch welcome fan trial idle critic slogan oven flame truck";
+var mnemonic = "ladder trim soccer only anxiety wise view wine fantasy velvet spoon merit";

@@ -1,1 +1,1 @@
-var mnemonic = "vanish furnace coconut license loop arch network smile image media tomato dove";
+var mnemonic = "coffee bounce direct retire over clip evil illegal employ simple cousin leisure";

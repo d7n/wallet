@@ -1,1 +1,1 @@
-var mnemonic = "patient favorite snow normal very supply rocket ketchup apology raise angle collect";
+var mnemonic = "husband blood globe place gate lift tag total glad echo initial clutch";

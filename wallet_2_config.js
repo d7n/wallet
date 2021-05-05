@@ -1,1 +1,1 @@
-var mnemonic = "toy roast ivory fan window key spawn seat damage elegant employ peanut";
+var mnemonic = "chase arrive upgrade thunder small bamboo trumpet random bring fresh taste equal";

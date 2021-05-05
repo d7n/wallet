@@ -1,1 +1,1 @@
-var mnemonic = "tornado anxiety social check evidence sudden artist acid crane venture urge paper";
+var mnemonic = "rain vacuum candy celery scheme finish icon cause junk improve dove mimic";

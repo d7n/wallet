@@ -1,1 +1,1 @@
-var mnemonic = "gather drift save basic approve shaft spend man boil vintage step throw";
+var mnemonic = "foil solution advance aspect blush grape audit smooth sting hub allow peace";

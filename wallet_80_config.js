@@ -1,1 +1,1 @@
-var mnemonic = "two hub nut absurd purity carbon spy tenant cost logic shy anger";
+var mnemonic = "subway utility wire power cigar arctic answer suggest essence debate traffic crucial";

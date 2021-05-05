@@ -1,1 +1,1 @@
-var mnemonic = "benefit demise story chronic snack remind cupboard deny cupboard donate hospital surge";
+var mnemonic = "develop throw laptop account good blanket trip riot wealth skill bulk circle";

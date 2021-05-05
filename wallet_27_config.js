@@ -1,1 +1,1 @@
-var mnemonic = "flower town page law cinnamon narrow pact family avoid cable core gap";
+var mnemonic = "goat bamboo sister they father sign tuna antenna arrange advice useless dial";

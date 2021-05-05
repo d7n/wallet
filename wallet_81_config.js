@@ -1,1 +1,1 @@
-var mnemonic = "input panther glide script fit tree humor journey useless unaware emotion grab";
+var mnemonic = "man regular language answer piece season inner scale debris ghost attitude hero";

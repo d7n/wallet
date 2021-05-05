@@ -1,1 +1,1 @@
-var mnemonic = "gravity pear panel absorb end nation veteran report uncover tissue blur modify";
+var mnemonic = "reason stem follow wrist nothing screen problem mosquito food topic indoor pet";

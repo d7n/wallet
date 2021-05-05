@@ -1,1 +1,1 @@
-var mnemonic = "vivid sunset memory exit giggle attend catalog write sudden effort draw goose";
+var mnemonic = "subway wood pony farm luxury wait fitness monkey labor strike bunker suspect";

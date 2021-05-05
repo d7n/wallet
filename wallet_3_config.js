@@ -1,1 +1,1 @@
-var mnemonic = "private item industry fever actor judge sadness wasp talent cage foil salmon";
+var mnemonic = "lawn airport naive license material curtain belt gate ask scout uphold kind";

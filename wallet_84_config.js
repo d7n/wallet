@@ -1,1 +1,1 @@
-var mnemonic = "noodle final host seed finish stumble skate seek remind mask busy turtle";
+var mnemonic = "ethics actual canvas witness smart web abandon bamboo liar ghost system enter";

@@ -1,1 +1,1 @@
-var mnemonic = "enable sport spin curve hope hurt avocado great start damage devote thrive";
+var mnemonic = "rice fancy tray sugar they decorate argue kit anger shuffle false bridge";

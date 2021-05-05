@@ -1,1 +1,1 @@
-var mnemonic = "jaguar measure fish flee duty race empower close aware skirt shield aunt";
+var mnemonic = "attack word blade exhaust frog divert opinion renew clinic ankle wisdom private";

@@ -1,1 +1,1 @@
-var mnemonic = "power horn swap silent fruit below issue riot produce shadow snow resist";
+var mnemonic = "bitter have sphere write spawn knife energy shoot milk game rebel crisp";

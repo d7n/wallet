@@ -1,1 +1,1 @@
-var mnemonic = "license novel sock frost shove medal couple smart elephant myself save bag";
+var mnemonic = "negative basic decide essay wife toast rigid toy agent wild tomorrow odor";

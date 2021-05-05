@@ -1,1 +1,1 @@
-var mnemonic = "giggle aware velvet pelican old this bronze lab tenant ceiling window cup";
+var mnemonic = "rotate ketchup range balance bus art ancient machine announce judge connect armed";

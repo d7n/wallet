@@ -1,1 +1,1 @@
-var mnemonic = "stomach fatigue ensure action valley increase exile divorce blame march waste then";
+var mnemonic = "interest excite vivid horse ability oak blue pluck walnut loyal erase popular";

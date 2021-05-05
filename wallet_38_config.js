@@ -1,1 +1,1 @@
-var mnemonic = "gadget potato window museum warfare about wash industry dinner tent horror this";
+var mnemonic = "assault behind decide alcohol script frozen you tuna fiscal dose saddle cabin";

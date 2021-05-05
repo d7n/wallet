@@ -1,1 +1,1 @@
-var mnemonic = "renew face canoe curtain click moon fault recycle tortoise surface settle wink";
+var mnemonic = "nature panel name obey horror fatal street waste crouch enhance hedgehog void";

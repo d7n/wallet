@@ -1,1 +1,1 @@
-var mnemonic = "immense this powder panda smart agree there social pond roof flavor huge";
+var mnemonic = "blush plunge aisle apple work glow advance horse source assault wasp faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "enact broken wreck skirt soap bamboo weapon mad swim unable chronic execute";
+var mnemonic = "disease media prison crack engage sheriff buffalo behind aware huge crime sand";

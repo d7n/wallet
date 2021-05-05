@@ -1,1 +1,1 @@
-var mnemonic = "misery twelve foster couple tobacco tone giggle style toddler daughter twist will";
+var mnemonic = "artwork buyer rocket food guitar glue lobster rival example art kick need";

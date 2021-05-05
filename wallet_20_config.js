@@ -1,1 +1,1 @@
-var mnemonic = "wrong parrot jazz boost neutral squirrel derive medal curious fire laugh abandon";
+var mnemonic = "follow train wink gather duck abandon donor century insane venue smart nation";

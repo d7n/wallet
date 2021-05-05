@@ -1,1 +1,1 @@
-var mnemonic = "bulk planet panther blush indicate fall burden orbit sail suffer elephant involve";
+var mnemonic = "dust glow cloud steel valid garlic pupil ugly crush man speak whale";

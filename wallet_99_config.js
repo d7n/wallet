@@ -1,1 +1,1 @@
-var mnemonic = "sure paddle lonely furnace help pipe taste random dismiss wreck host custom";
+var mnemonic = "spawn video express civil solid gentle dinner prepare monitor abandon right luxury";

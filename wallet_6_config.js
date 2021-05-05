@@ -1,1 +1,1 @@
-var mnemonic = "step silent dune admit lumber view good disagree surface gloom almost swim";
+var mnemonic = "normal mobile glimpse spoon flavor recall expand demand expire color hour icon";

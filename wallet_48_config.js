@@ -1,1 +1,1 @@
-var mnemonic = "collect control broken chapter recall salt agree turtle dove direct because urge";
+var mnemonic = "hill illegal guilt zero grief disagree loop illness pumpkin chaos artefact noodle";

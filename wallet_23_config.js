@@ -1,1 +1,1 @@
-var mnemonic = "affair boat mask echo spend obtain minute rely frown seven stereo stand";
+var mnemonic = "umbrella wire animal domain pledge conduct surprise spread afford runway person sell";

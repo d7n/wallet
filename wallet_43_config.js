@@ -1,1 +1,1 @@
-var mnemonic = "mad float legend witness front engage actress cave throw wise used sweet";
+var mnemonic = "heart lake moon group aware aware assist motion timber crouch tomorrow profit";

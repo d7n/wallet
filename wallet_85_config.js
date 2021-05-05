@@ -1,1 +1,1 @@
-var mnemonic = "clever thumb farm liberty sibling syrup cushion dance zero kid method primary";
+var mnemonic = "airport ask asthma illegal popular absorb rubber rail city soul slam dinosaur";

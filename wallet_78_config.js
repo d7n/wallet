@@ -1,1 +1,1 @@
-var mnemonic = "shine taxi fashion bag school loyal what program decline silent orchard seat";
+var mnemonic = "update benefit nurse buddy already sunny number pave naive add wait blind";

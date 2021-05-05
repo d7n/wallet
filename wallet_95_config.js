@@ -1,1 +1,1 @@
-var mnemonic = "dutch goose age galaxy cliff affair palace shadow spike glove false defy";
+var mnemonic = "federal deny devote champion evidence search horror place cool cereal kitten flag";

@@ -1,1 +1,1 @@
-var mnemonic = "split credit purity square canal rescue crew flight unhappy appear state major";
+var mnemonic = "cram used film degree broken shrimp choice life poem bronze caught spend";

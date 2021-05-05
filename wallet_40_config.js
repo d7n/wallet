@@ -1,1 +1,1 @@
-var mnemonic = "sunny business camp rhythm make truly olive remember cluster angry subject film";
+var mnemonic = "journey own barrel beyond work okay sausage rotate copper business inmate mimic";

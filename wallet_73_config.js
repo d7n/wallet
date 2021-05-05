@@ -1,1 +1,1 @@
-var mnemonic = "click rely flavor foster rain before leg sketch damage mouse congress patch";
+var mnemonic = "leopard prison cherry blast camera practice crumble mixed include shuffle fruit this";

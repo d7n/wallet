@@ -1,1 +1,1 @@
-var mnemonic = "across rival sentence between nut snow road panther thrive index verify squirrel";
+var mnemonic = "eight shrug world oxygen hair body ball future common jump coffee slogan";

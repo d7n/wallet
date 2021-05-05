@@ -1,1 +1,1 @@
-var mnemonic = "refuse custom plate expect truly bracket sister about apart rocket stamp fall";
+var mnemonic = "regular agree guide hand afraid heavy wire pilot dust clean stage type";

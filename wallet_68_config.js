@@ -1,1 +1,1 @@
-var mnemonic = "merge tennis tenant ancient gold stand flat pulse sting marble retire huge";
+var mnemonic = "crowd aware achieve direct alley morning doctor mass hidden document drip inch";

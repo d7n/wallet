@@ -1,1 +1,1 @@
-var mnemonic = "uniform proud mutual diet smooth gorilla pave eight adult skull final impulse";
+var mnemonic = "valve door surround used rug rule orchard bring captain loop scene prevent";

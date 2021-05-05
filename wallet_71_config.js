@@ -1,1 +1,1 @@
-var mnemonic = "foot visual enroll card floor oyster supreme image submit talk cute bid";
+var mnemonic = "prosper relief seat grab spin smart lion parrot thought gap cancel tray";

@@ -1,1 +1,1 @@
-var mnemonic = "consider basket old jungle traffic hybrid hospital trust market certain when until";
+var mnemonic = "fee recycle miss acid bullet furnace liquid photo supply milk frequent wave";

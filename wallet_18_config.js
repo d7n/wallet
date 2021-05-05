@@ -1,1 +1,1 @@
-var mnemonic = "cram guide armor hawk bullet vanish seat obvious faculty poem weird across";
+var mnemonic = "dial average glide great goddess disease spread rent inspire just fat stage";

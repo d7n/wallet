@@ -1,1 +1,1 @@
-var mnemonic = "warfare riot fox service virus nuclear shrimp food apart liberty captain beach";
+var mnemonic = "mushroom image fold citizen whip dignity trap police burden visit sail scorpion";

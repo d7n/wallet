@@ -1,1 +1,1 @@
-var mnemonic = "acid found hazard decade around alone solid flat debate federal episode style";
+var mnemonic = "rival patient vote now chase climb key era paper sure ribbon concert";

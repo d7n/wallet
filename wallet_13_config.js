@@ -1,1 +1,1 @@
-var mnemonic = "shell audit knife song pistol fan broccoli spider song virtual pluck elite";
+var mnemonic = "steak betray analyst employ frequent feel rifle token tray ramp nephew force";

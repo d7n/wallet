@@ -1,1 +1,1 @@
-var mnemonic = "deputy improve adapt nurse cactus cave grant uphold walk travel erode swarm";
+var mnemonic = "illegal mixed phrase execute option total easily liar unveil bid you elephant";

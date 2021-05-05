@@ -1,1 +1,1 @@
-var mnemonic = "move rent quantum sorry nose liberty fun margin cheap stable glass wedding";
+var mnemonic = "tent chalk group wrist begin attack shrimp much announce load bracket embody";

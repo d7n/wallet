@@ -1,1 +1,1 @@
-var mnemonic = "travel bundle popular hat cycle doctor artist minute must lab milk same";
+var mnemonic = "fancy title modify square rookie lend crouch miss among suffer rescue panda";

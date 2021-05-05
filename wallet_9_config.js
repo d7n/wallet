@@ -1,1 +1,1 @@
-var mnemonic = "clean local network dumb erupt improve sweet deposit kiss wasp animal fringe";
+var mnemonic = "outer forward disorder orient alley dwarf senior ceiling infant normal brief text";

@@ -1,1 +1,1 @@
-var mnemonic = "impulse theme educate cradle sister attend opinion neglect cement put victory choose";
+var mnemonic = "stem detail sound process awesome reward wait pipe era drum cushion hub";

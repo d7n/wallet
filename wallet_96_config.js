@@ -1,1 +1,1 @@
-var mnemonic = "holiday panel desk sing effort paddle organ light marble weird wild unknown";
+var mnemonic = "disease finish above cool habit smart access resemble coyote similar jewel picnic";

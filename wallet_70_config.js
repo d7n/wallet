@@ -1,1 +1,1 @@
-var mnemonic = "bike learn movie amused episode subject element armed doll rotate good toilet";
+var mnemonic = "faith dish narrow intact tired october decrease almost spirit aware style smoke";

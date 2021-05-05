@@ -1,1 +1,1 @@
-var mnemonic = "carpet theme job mango office one three hold large panda celery fall";
+var mnemonic = "venue put execute train tackle citizen meadow rotate cancel bulb bless fly";

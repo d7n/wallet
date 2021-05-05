@@ -1,1 +1,1 @@
-var mnemonic = "argue obvious artefact sock horror jazz kitchen excess orphan fall arctic kangaroo";
+var mnemonic = "plug leopard gym acoustic achieve strong second purchase mass chief refuse pledge";

@@ -1,1 +1,1 @@
-var mnemonic = "wall park reflect oxygen ugly creek infant exact steak permit maid car";
+var mnemonic = "dress squirrel heart detail kingdom gift critic melody flat index grid earth";

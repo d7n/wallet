@@ -1,1 +1,1 @@
-var mnemonic = "grid tell motion deer try snack frame dice apology enforce sponsor bicycle";
+var mnemonic = "expose hair label river owner element original sausage agent time elder style";

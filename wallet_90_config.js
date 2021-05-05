@@ -1,1 +1,1 @@
-var mnemonic = "pen sponsor top silk tuition first record tank notable nuclear alien govern";
+var mnemonic = "shock allow history one common shoulder six quiz reunion grant same picture";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder push apple ridge earth jungle sound ship frog gaze vague town";
+var mnemonic = "case unveil truth clarify express soup spatial mistake element market tell large";

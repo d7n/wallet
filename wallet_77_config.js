@@ -1,1 +1,1 @@
-var mnemonic = "labor dolphin grunt body insane ball enjoy luxury dish shrug order thing";
+var mnemonic = "dinner viable invest jeans scrap engine salmon ensure abstract mango column mirror";

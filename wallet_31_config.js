@@ -1,1 +1,1 @@
-var mnemonic = "desk grow equal high noise easily crime author youth royal buyer devote";
+var mnemonic = "exit suggest jeans glass shrug traffic tower inmate dry green rude hazard";

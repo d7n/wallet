@@ -1,1 +1,1 @@
-var mnemonic = "range monitor favorite point dove lens empower toss stable tennis trap unaware";
+var mnemonic = "public say skill innocent rough fan half picnic raw reward tired trend";

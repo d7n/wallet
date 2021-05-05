@@ -1,1 +1,1 @@
-var mnemonic = "carbon muffin hurdle load deliver enact cave bulb sock song market female";
+var mnemonic = "track galaxy next run estate quit chair increase mobile alert rally helmet";

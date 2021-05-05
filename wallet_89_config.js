@@ -1,1 +1,1 @@
-var mnemonic = "unfair fan warm bracket agent certain empty shoot mix diamond basket gallery";
+var mnemonic = "valley portion pelican clarify plate divorce chunk green possible invest sell plate";

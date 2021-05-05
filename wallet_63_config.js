@@ -1,1 +1,1 @@
-var mnemonic = "erode fringe tourist easily ancient large sister frozen verb meat such stem";
+var mnemonic = "express chef south unknown shoe smooth angle piano survey engage add final";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry cement dose clock poet approve angle skin hire rapid choice love";
+var mnemonic = "shuffle vapor play please nice affair melody point nerve marine text that";

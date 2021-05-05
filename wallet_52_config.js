@@ -1,1 +1,1 @@
-var mnemonic = "enhance bone cost air popular elite vivid soccer dress pizza sight bronze";
+var mnemonic = "wedding dream town obey gossip evolve knife head practice trick blade off";

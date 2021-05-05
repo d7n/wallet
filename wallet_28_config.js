@@ -1,1 +1,1 @@
-var mnemonic = "screen head badge average toy cream giant tone detail vacuum bracket bitter";
+var mnemonic = "left universe tired dance unfair slab lobster topic course grow steel member";

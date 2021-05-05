@@ -1,1 +1,1 @@
-var mnemonic = "good forum prison dance asthma report uncle frozen knock holiday near inmate";
+var mnemonic = "beef sketch loan dinner field rival federal run basic inherit soda urge";

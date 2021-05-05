@@ -1,1 +1,1 @@
-var mnemonic = "identify aerobic note setup marble company garden chronic better lock minute cement";
+var mnemonic = "spare sunset silk taste tattoo wrap paper night quarter leave champion force";

@@ -1,1 +1,1 @@
-var mnemonic = "siren praise pipe citizen surface oxygen hair cream banner maximum course pen";
+var mnemonic = "attract just correct avocado face hammer wealth smoke clever during into bind";

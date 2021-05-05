@@ -1,1 +1,1 @@
-var mnemonic = "index mutual warfare win identify priority immense arm snack mention record car";
+var mnemonic = "ugly dignity follow certain miss filter vacuum rally live end evolve idea";

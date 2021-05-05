@@ -1,1 +1,1 @@
-var mnemonic = "chat stamp focus top please gift tape gossip proud plastic youth hip";
+var mnemonic = "item gossip judge fashion harsh motion main attract toddler leisure tattoo balcony";

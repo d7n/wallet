@@ -1,1 +1,1 @@
-var mnemonic = "must celery bottom finger stamp artefact display nature hand awkward rally grunt";
+var mnemonic = "thumb arrest tuition junk tiny piano solar wrestle spy atom actress cinnamon";
