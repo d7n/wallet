@@ -1,1 +1,1 @@
-var mnemonic = "lens common remove object mixture adapt young spell glimpse bubble awesome chef";
+var mnemonic = "utility stove aware slogan mushroom banner bleak frame tourist endless violin evil";

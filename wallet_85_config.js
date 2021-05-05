@@ -1,1 +1,1 @@
-var mnemonic = "knock sight business flame off sample transfer frame region mule best online";
+var mnemonic = "gain year review cinnamon swap penalty run thrive digital gift slab caught";

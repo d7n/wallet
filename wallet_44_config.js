@@ -1,1 +1,1 @@
-var mnemonic = "dish metal holiday hole throw fly math noble usual fog grow recipe";
+var mnemonic = "industry fault apart sunset sight state orbit also upset welcome actor grain";

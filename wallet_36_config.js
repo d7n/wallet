@@ -1,1 +1,1 @@
-var mnemonic = "thought glue news blind friend jealous provide biology blossom daughter devote record";
+var mnemonic = "ready culture exact invite cream air label foster extend bulb couch try";

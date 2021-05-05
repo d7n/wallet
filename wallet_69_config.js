@@ -1,1 +1,1 @@
-var mnemonic = "plunge raw knee sail olive nest pumpkin voyage ginger thumb awake play";
+var mnemonic = "target leave engage isolate convince dish leave dice sword cattle fancy capable";

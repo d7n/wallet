@@ -1,1 +1,1 @@
-var mnemonic = "gold list pipe tribe lecture refuse case foot nut seed exotic net";
+var mnemonic = "group magic salon pulp victory garlic knee mobile reduce hill wet spice";

@@ -1,1 +1,1 @@
-var mnemonic = "source earth whisper connect critic crowd supreme menu chef hundred attitude doctor";
+var mnemonic = "horn silly fiction arrive swarm hat design property enhance unveil vendor wagon";

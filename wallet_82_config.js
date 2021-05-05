@@ -1,1 +1,1 @@
-var mnemonic = "grace nephew vault hover brisk country lamp scorpion rule index own ethics";
+var mnemonic = "canyon syrup seed tuna lizard they crash flavor real among idle secret";

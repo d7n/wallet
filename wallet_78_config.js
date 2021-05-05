@@ -1,1 +1,1 @@
-var mnemonic = "ocean unique cancel genre episode genre zoo settle glad husband unfold zoo";
+var mnemonic = "void enable vessel acoustic usual bench need decrease onion park swallow reveal";

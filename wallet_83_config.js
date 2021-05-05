@@ -1,1 +1,1 @@
-var mnemonic = "health vessel tower video enforce budget burger rich album biology speak fame";
+var mnemonic = "that audit cinnamon check feed custom fix soft stool primary glare picture";

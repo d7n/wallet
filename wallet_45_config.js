@@ -1,1 +1,1 @@
-var mnemonic = "culture host nose balance mother rocket pen cable elite divide client dinosaur";
+var mnemonic = "control spike embrace tooth version wisdom region laundry liquid ranch stay clock";

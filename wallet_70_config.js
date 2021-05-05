@@ -1,1 +1,1 @@
-var mnemonic = "found burst daughter eye help spot panther surround next check state moral";
+var mnemonic = "daring remind bubble actor royal cross ordinary turn certain state enact fury";

@@ -1,1 +1,1 @@
-var mnemonic = "sight vehicle save grief engine pill still quantum crunch scene solve oxygen";
+var mnemonic = "topple wife dial nature pelican pet walnut insect wolf twelve deny visa";

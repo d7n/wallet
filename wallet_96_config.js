@@ -1,1 +1,1 @@
-var mnemonic = "vibrant cry chalk organ wolf rally ask viable close regular mass six";
+var mnemonic = "weekend snow unfold soccer armor moral legend degree army glimpse arch disorder";

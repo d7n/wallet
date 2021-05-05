@@ -1,1 +1,1 @@
-var mnemonic = "decorate pave pig frown fly payment caution donate have cup unit buzz";
+var mnemonic = "unaware cargo narrow warm twist april remove chief tribe doll cradle sign";

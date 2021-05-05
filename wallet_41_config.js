@@ -1,1 +1,1 @@
-var mnemonic = "impulse loyal captain claw firm spare enjoy lounge claim lunar fresh camp";
+var mnemonic = "food bright hub dirt flame industry purity material fetch mimic chuckle noodle";

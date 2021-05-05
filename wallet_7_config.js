@@ -1,1 +1,1 @@
-var mnemonic = "mother apple cute proof suffer west pluck bright describe rapid daring shine";
+var mnemonic = "dash number version oven summer pride kind speak system forget warrior best";

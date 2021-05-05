@@ -1,1 +1,1 @@
-var mnemonic = "rely ball apology drastic night ability people sponsor sorry hand frost arrange";
+var mnemonic = "cupboard brisk decade cactus congress language marble grief document prefer tumble prefer";

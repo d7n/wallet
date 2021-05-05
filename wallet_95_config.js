@@ -1,1 +1,1 @@
-var mnemonic = "vintage talk material scout parrot cousin taxi hospital oblige scout door enjoy";
+var mnemonic = "second green recipe expose gown erosion double dream bulb horn someone poet";

@@ -1,1 +1,1 @@
-var mnemonic = "valve input short shoot result flavor fetch next right luggage shrimp dismiss";
+var mnemonic = "subway enforce powder winner kangaroo require assist delay lawn burden artist panther";

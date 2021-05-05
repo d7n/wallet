@@ -1,1 +1,1 @@
-var mnemonic = "obvious ask asset car media speed capable coast depth maid parrot ketchup";
+var mnemonic = "cinnamon nest athlete elegant sphere conduct monkey portion such crowd core mixture";

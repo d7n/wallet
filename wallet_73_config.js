@@ -1,1 +1,1 @@
-var mnemonic = "step whisper clip vessel hammer potato wink wrist talent into stairs praise";
+var mnemonic = "winter mouse call chair ill cousin mirror garbage traffic tourist fragile around";

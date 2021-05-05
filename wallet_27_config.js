@@ -1,1 +1,1 @@
-var mnemonic = "hood cheese trigger diamond slam clutch avocado pave sword dove pattern inch";
+var mnemonic = "burst toss taxi happy text bundle embrace exclude popular infant tube much";

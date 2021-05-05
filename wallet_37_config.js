@@ -1,1 +1,1 @@
-var mnemonic = "bullet wrestle surprise faint concert call goddess dress wine release unable unusual";
+var mnemonic = "fancy pool horse evolve fury review result payment head vacuum novel noble";

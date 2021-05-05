@@ -1,1 +1,1 @@
-var mnemonic = "earn shock palace purse coast drill wealth negative raven ignore sniff boring";
+var mnemonic = "heavy dolphin canoe stool sniff half ostrich indicate inner rough tent mail";

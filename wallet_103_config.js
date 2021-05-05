@@ -1,1 +1,1 @@
-var mnemonic = "edit before payment grab choice lumber shuffle arrange spider stay stay waste";
+var mnemonic = "fall risk taxi shock play trigger only mammal opinion mail duck delay";

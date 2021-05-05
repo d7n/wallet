@@ -1,1 +1,1 @@
-var mnemonic = "twist churn wool ready afford elite city giant result produce era cricket";
+var mnemonic = "urban olive soul point argue eternal profit snack monster rookie speak surge";

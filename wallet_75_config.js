@@ -1,1 +1,1 @@
-var mnemonic = "because west drama price peanut choose fragile rib grow tongue hold marine";
+var mnemonic = "accident fog clump abstract desert arch crew devote twelve job accident bacon";

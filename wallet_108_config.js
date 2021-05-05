@@ -1,1 +1,1 @@
-var mnemonic = "degree usage slogan sustain comic spoil nephew inhale excess never blue dog";
+var mnemonic = "final what august craft diet galaxy sample crouch pizza draft thing rhythm";

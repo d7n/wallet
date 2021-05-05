@@ -1,1 +1,1 @@
-var mnemonic = "purse orbit excite chimney super leader life alien cry scrub stable mosquito";
+var mnemonic = "body try little ostrich choice poem crunch pool draw car bonus suffer";

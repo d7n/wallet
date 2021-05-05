@@ -1,1 +1,1 @@
-var mnemonic = "accident novel excuse surge pair problem multiply wasp pepper mandate solution require";
+var mnemonic = "dress mind genius imitate antenna entry evoke yard shield permit flock horse";

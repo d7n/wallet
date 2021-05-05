@@ -1,1 +1,1 @@
-var mnemonic = "paddle patient kingdom fruit just moral play orient coast manage session short";
+var mnemonic = "jeans any dial stamp swift caught minimum you balcony gas work boat";

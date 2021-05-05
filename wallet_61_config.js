@@ -1,1 +1,1 @@
-var mnemonic = "machine install oval fit soon pole minute entry spy enforce school toy";
+var mnemonic = "climb flee become exchange sniff sausage room snow extra elephant trim pepper";

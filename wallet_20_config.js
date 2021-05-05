@@ -1,1 +1,1 @@
-var mnemonic = "obtain exclude cloud smoke lunch book shaft artefact merge dutch arena because";
+var mnemonic = "illness portion cigar race diary need ankle polar ranch blame seven comic";

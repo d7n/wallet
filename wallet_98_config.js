@@ -1,1 +1,1 @@
-var mnemonic = "early drill hurdle urge soft people paper impact garage obvious fuel horror";
+var mnemonic = "like robot cable donkey seminar search argue round feed anchor smoke range";

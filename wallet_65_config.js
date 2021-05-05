@@ -1,1 +1,1 @@
-var mnemonic = "option stomach oval scare shell raise dragon ceiling voice tourist liar explain";
+var mnemonic = "negative glue twenty way cable assist sustain wrist amazing ladder mansion cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "enable such evidence nest add elegant boat layer earth pass rookie math";
+var mnemonic = "fatal material expose awesome salute census produce meadow office mesh net inquiry";

@@ -1,1 +1,1 @@
-var mnemonic = "avocado theme speed chicken border motor maple defense retreat inner inner ritual";
+var mnemonic = "behind wagon special auction million photo wrestle rose then acoustic hover genuine";

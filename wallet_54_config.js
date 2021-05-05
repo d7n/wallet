@@ -1,1 +1,1 @@
-var mnemonic = "derive turtle lift rocket hole year leisure mansion again struggle family number";
+var mnemonic = "bind rally race silk rookie quote material problem suffer witness knock effort";

@@ -1,1 +1,1 @@
-var mnemonic = "script frame problem gun love exist verb adapt scene buyer spider mosquito";
+var mnemonic = "horn ahead unusual require parrot gauge wolf length repair suggest north issue";

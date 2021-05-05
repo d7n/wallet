@@ -1,1 +1,1 @@
-var mnemonic = "express unusual symptom morning pumpkin swap flash punch pulse know move garment";
+var mnemonic = "keen spring ribbon teach defense setup gather stool cheese guard myself soup";

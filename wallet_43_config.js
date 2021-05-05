@@ -1,1 +1,1 @@
-var mnemonic = "hold family address inside reunion notice force young discover subject you trade";
+var mnemonic = "wide list chimney orange alpha stem diagram opinion good purpose other deliver";

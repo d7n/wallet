@@ -1,1 +1,1 @@
-var mnemonic = "toss nephew drive solve inhale brand glare fork veteran moral method puppy";
+var mnemonic = "since multiply tiny crush private own toast promote fix merry comfort pass";

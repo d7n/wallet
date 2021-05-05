@@ -1,1 +1,1 @@
-var mnemonic = "snack meat tower material junk order tiny slice horror armed film panther";
+var mnemonic = "firm spike impact clutch narrow head festival cram radio output welcome symbol";

@@ -1,1 +1,1 @@
-var mnemonic = "cream deer uncle hospital artefact trophy choice inquiry abstract people water cat";
+var mnemonic = "pride dawn nominee task lawsuit dinosaur flame kind enough idle extra glance";

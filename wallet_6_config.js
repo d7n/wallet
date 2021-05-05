@@ -1,1 +1,1 @@
-var mnemonic = "dragon clerk whale worry toddler foot bachelor cup blanket fall battle wire";
+var mnemonic = "slim initial owner planet wheat exile mobile result repair breeze endless hockey";

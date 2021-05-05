@@ -1,1 +1,1 @@
-var mnemonic = "cupboard photo govern tooth where alley idle truck subway silly enlist reduce";
+var mnemonic = "forget voice slow bread grant hard elephant unhappy shaft daughter conduct nation";

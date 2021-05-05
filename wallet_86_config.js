@@ -1,1 +1,1 @@
-var mnemonic = "rib engine can betray work observe flag raven tip aspect toe million";
+var mnemonic = "twin giggle joy split around expect shoulder bid imitate rather stairs media";

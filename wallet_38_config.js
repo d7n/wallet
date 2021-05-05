@@ -1,1 +1,1 @@
-var mnemonic = "omit defense marine west shoot much twist coin spy over ancient risk";
+var mnemonic = "tenant scatter gorilla unknown source obscure dish ritual still cage crawl idea";

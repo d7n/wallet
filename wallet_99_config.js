@@ -1,1 +1,1 @@
-var mnemonic = "sunset make oil rail police morning gentle image pumpkin purpose ability cruise";
+var mnemonic = "jungle rack misery topple denial assault yellow distance strong vanish staff enough";

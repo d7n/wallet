@@ -1,1 +1,1 @@
-var mnemonic = "impose logic solid often plastic pioneer dinosaur uniform great water enable toilet";
+var mnemonic = "pulp shoot shrimp royal sister marine awake color utility strategy drop turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant limb invest grunt light skill vital rabbit pledge soup fashion fiber";
+var mnemonic = "vapor second dragon bid need dwarf essay dentist twenty slim thrive middle";

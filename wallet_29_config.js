@@ -1,1 +1,1 @@
-var mnemonic = "unaware stove wide make city region sing menu hurry power text produce";
+var mnemonic = "outside razor public kitchen era cereal gap delay similar roof brand income";

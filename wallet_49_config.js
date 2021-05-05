@@ -1,1 +1,1 @@
-var mnemonic = "error round fragile uncle question bone glass excess large uncover denial sunny";
+var mnemonic = "find agent work wasp shrimp paddle able oak educate vapor border design";

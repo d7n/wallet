@@ -1,1 +1,1 @@
-var mnemonic = "coffee fly tumble clip under hair label since lizard gloom news token";
+var mnemonic = "remove squirrel phone desert cry jaguar document pitch onion timber drop burger";

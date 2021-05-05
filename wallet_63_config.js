@@ -1,1 +1,1 @@
-var mnemonic = "affair popular cost chest nice tobacco anger about swamp please salmon total";
+var mnemonic = "mystery hard duty excite escape settle canvas bench innocent history top elegant";

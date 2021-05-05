@@ -1,1 +1,1 @@
-var mnemonic = "hobby budget dutch unit visual hand album shock trust broom lazy able";
+var mnemonic = "vanish since over obey boost sunny adult elder pencil tiny second above";

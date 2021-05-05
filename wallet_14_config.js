@@ -1,1 +1,1 @@
-var mnemonic = "injury inside forum surge rich blast impact input another gravity candy toilet";
+var mnemonic = "tray garden fashion tuna seek horror engine danger unusual diary eternal cattle";

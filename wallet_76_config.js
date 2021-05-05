@@ -1,1 +1,1 @@
-var mnemonic = "fossil arrest mask face mango just limit twenty expire worth behind pass";
+var mnemonic = "divert steel slam stable apple tonight soda hurry escape employ around mix";

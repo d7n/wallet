@@ -1,1 +1,1 @@
-var mnemonic = "music glass minimum flower satoshi flee close alley turtle embark license interest";
+var mnemonic = "sorry gauge pepper spoil sorry silent obtain finger notable father leopard person";

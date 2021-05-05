@@ -1,1 +1,1 @@
-var mnemonic = "stock cash village uncle mimic shrug seed forward orange local toddler hen";
+var mnemonic = "scare lumber ketchup pause private explain elder winner obey reopen move there";

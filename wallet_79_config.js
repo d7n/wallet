@@ -1,1 +1,1 @@
-var mnemonic = "rack chalk mean clap problem cancel update six short clog rough gym";
+var mnemonic = "escape future bounce year shoulder heart gospel nothing toy hawk undo maze";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing undo symptom sunset copy glory shift screen nasty bottom crazy inflict";
+var mnemonic = "balcony soda remember art tattoo concert suggest miracle refuse smooth crowd trouble";

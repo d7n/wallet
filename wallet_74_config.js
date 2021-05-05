@@ -1,1 +1,1 @@
-var mnemonic = "danger follow stand noodle proof movie stadium window bacon vault fancy hunt";
+var mnemonic = "yard address mesh demand flower chronic kit enroll install quiz bicycle path";

@@ -1,1 +1,1 @@
-var mnemonic = "hurt invite say glove army wait want already scare enroll walk vital";
+var mnemonic = "sun scare brief hurt model dwarf mirror rule float sauce feature fresh";

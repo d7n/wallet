@@ -1,1 +1,1 @@
-var mnemonic = "reform sleep recall salon theme virus rare depend seven citizen submit middle";
+var mnemonic = "great green ahead critic pink become loan benefit cactus orbit poem simple";

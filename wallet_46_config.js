@@ -1,1 +1,1 @@
-var mnemonic = "party add alone iron omit zebra sure rich goddess worry spawn plastic";
+var mnemonic = "secret autumn truth message wall there cash tiny exotic where uphold weird";

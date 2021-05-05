@@ -1,1 +1,1 @@
-var mnemonic = "begin crew harbor impose robot inform seminar outdoor frown talk sell brother";
+var mnemonic = "guilt work tunnel hip diesel neglect cart fun casino permit vapor sorry";

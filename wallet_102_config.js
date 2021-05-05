@@ -1,1 +1,1 @@
-var mnemonic = "swarm orchard surface own parent visual about spin weasel inner elephant health";
+var mnemonic = "shoot hire figure pony alcohol despair heavy stumble pledge spike pink bar";

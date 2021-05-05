@@ -1,1 +1,1 @@
-var mnemonic = "theory kiss brief patient shine wolf topple sadness sad rely connect ill";
+var mnemonic = "clog blush route anchor renew keen shock ecology relax vibrant novel mix";

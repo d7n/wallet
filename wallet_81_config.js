@@ -1,1 +1,1 @@
-var mnemonic = "toward method myth hero thing tent twist maple soda initial return lift";
+var mnemonic = "second fade fashion beach chat file peasant dolphin need girl simple divert";

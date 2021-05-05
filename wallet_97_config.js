@@ -1,1 +1,1 @@
-var mnemonic = "annual despair uniform green theory sudden earth identify skill void original universe";
+var mnemonic = "arrest tired engage oppose attack prevent dolphin bus suffer jacket fever reveal";

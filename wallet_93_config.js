@@ -1,1 +1,1 @@
-var mnemonic = "simple emerge acid belt kite syrup acoustic fan notice heavy fork business";
+var mnemonic = "wreck father kingdom repeat bronze benefit absorb tongue amount clever fork spin";

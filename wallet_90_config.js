@@ -1,1 +1,1 @@
-var mnemonic = "destroy tool stage join kitten banner other coffee smile dinner figure jar";
+var mnemonic = "approve beach angle culture effort doctor lunch bachelor shrimp tilt scan laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh call dentist rent happy dad bone march mixture fox bundle fringe";
+var mnemonic = "asset deposit bracket carry elder motion add hotel maid secret episode design";

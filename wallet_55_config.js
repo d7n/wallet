@@ -1,1 +1,1 @@
-var mnemonic = "horn answer problem minute happy elevator stick wage add merge just glow";
+var mnemonic = "hair repeat obtain hill coconut soup fat busy boost original curve case";

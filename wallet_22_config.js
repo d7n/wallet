@@ -1,1 +1,1 @@
-var mnemonic = "live size crouch include oak funny cycle girl merit same cereal dad";
+var mnemonic = "inflict muffin library index hawk naive sell absurd rough pilot hurt ozone";

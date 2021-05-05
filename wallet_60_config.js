@@ -1,1 +1,1 @@
-var mnemonic = "repeat person forward random arena eye genre dry duck spice stable robust";
+var mnemonic = "glue motion rare weapon spawn sting stumble worth sausage furnace choice baby";

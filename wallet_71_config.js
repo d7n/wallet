@@ -1,1 +1,1 @@
-var mnemonic = "cover speed super wife limit way emerge resource dog pretty salon multiply";
+var mnemonic = "slim citizen winter goddess noodle junk measure cube doctor flight weather first";

@@ -1,1 +1,1 @@
-var mnemonic = "toy bring dynamic broom napkin angry tenant item purse twin shock side";
+var mnemonic = "audit gate rack badge crack release arctic sing crane world sound into";

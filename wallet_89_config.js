@@ -1,1 +1,1 @@
-var mnemonic = "olympic harsh click decline dinosaur fragile tell crack attack seed next sell";
+var mnemonic = "call trade middle type shoulder enter image damage urban matrix caught decrease";

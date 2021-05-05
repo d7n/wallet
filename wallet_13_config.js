@@ -1,1 +1,1 @@
-var mnemonic = "snow shuffle balcony cycle prosper chef baby chunk ritual mail leader hint";
+var mnemonic = "armor afford skin health match hint digital stable tomato pepper buyer race";
