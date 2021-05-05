@@ -1,1 +1,1 @@
-var mnemonic = "damage mention wheat sound essence tape grape theory small need gorilla habit";
+var mnemonic = "measure frame defense then absorb bind popular illegal point wonder salmon ugly";

@@ -1,1 +1,1 @@
-var mnemonic = "enjoy chase ride before inform cradle sausage alpha example elephant seed gown";
+var mnemonic = "west gesture tornado afford ivory agent sea curtain setup edge song exercise";

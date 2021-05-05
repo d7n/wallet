@@ -1,1 +1,1 @@
-var mnemonic = "master topic correct fish online clump wine few intact slice disorder thought";
+var mnemonic = "retreat praise arrive spike sea final cable tree march negative guard caught";

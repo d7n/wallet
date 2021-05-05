@@ -1,1 +1,1 @@
-var mnemonic = "car kitten proud light spread good gold entire horror immune saddle business";
+var mnemonic = "drink order steak upset october begin dizzy fade nuclear fancy liar panda";

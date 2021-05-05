@@ -1,1 +1,1 @@
-var mnemonic = "skirt economy wonder loud weekend forum obscure voyage impulse unveil pony much";
+var mnemonic = "sock salon alert sunset foot talk drastic crisp penalty diagram exchange trophy";

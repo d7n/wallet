@@ -1,1 +1,1 @@
-var mnemonic = "boil bounce trophy practice night amused force ginger shallow slab pilot coin";
+var mnemonic = "ocean wrap sea return scheme gesture estate chicken battle bean derive hospital";

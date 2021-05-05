@@ -1,1 +1,1 @@
-var mnemonic = "media blush pioneer metal diary clump clerk expose advice announce salt magic";
+var mnemonic = "change raven cabbage race hold egg garage height sphere tattoo replace mask";

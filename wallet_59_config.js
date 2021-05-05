@@ -1,1 +1,1 @@
-var mnemonic = "two crumble elevator abandon rapid fresh aunt museum pizza crouch pluck dwarf";
+var mnemonic = "voyage exhibit game flower there jewel cousin mixture farm kid tape sort";

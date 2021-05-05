@@ -1,1 +1,1 @@
-var mnemonic = "wheat able habit elder amused case remind reason original lonely marble loop";
+var mnemonic = "still gap across garden tortoise adapt pole donor broccoli rice wish embark";

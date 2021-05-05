@@ -1,1 +1,1 @@
-var mnemonic = "tell fade sunset swallow weasel car party ranch idea enable away chunk";
+var mnemonic = "before dance cupboard meadow toward quote spring love radar view wagon put";

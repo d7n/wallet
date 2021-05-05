@@ -1,1 +1,1 @@
-var mnemonic = "rescue trend weather pattern inmate security smoke arrow slide despair survey taste";
+var mnemonic = "random foster dignity that learn negative shrug trumpet rude will intact team";

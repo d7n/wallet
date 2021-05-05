@@ -1,1 +1,1 @@
-var mnemonic = "merry save afraid cancel range change fog usage spatial kind need verify";
+var mnemonic = "sword useful feel address hunt stand fall meadow dose visit helmet saddle";

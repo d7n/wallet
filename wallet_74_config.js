@@ -1,1 +1,1 @@
-var mnemonic = "slogan grief category left dolphin unfold person clock one salt ecology nut";
+var mnemonic = "include castle faint margin like spy tumble jelly palace tuition idea clarify";

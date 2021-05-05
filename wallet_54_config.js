@@ -1,1 +1,1 @@
-var mnemonic = "few drip defy pelican surround sad moon swear reflect exotic nephew cry";
+var mnemonic = "peanut harsh trip cancel place chunk earth turtle forest lava mean menu";

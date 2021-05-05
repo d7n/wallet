@@ -1,1 +1,1 @@
-var mnemonic = "elite friend fiber sugar mule mule stage hockey phone convince useful mosquito";
+var mnemonic = "deny visit concert eternal ripple area glide twelve umbrella fox vocal cruise";

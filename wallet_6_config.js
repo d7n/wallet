@@ -1,1 +1,1 @@
-var mnemonic = "hen side famous dog like surface must fine strike offer actress correct";
+var mnemonic = "camp actress boil skull student lake federal marine cave twist blanket crowd";

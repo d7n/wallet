@@ -1,1 +1,1 @@
-var mnemonic = "burger vivid tree cost firm survey connect climb fire lazy moment exotic";
+var mnemonic = "reform resource mad blush enlist dish crouch wagon shaft weird intact six";

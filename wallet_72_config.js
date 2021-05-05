@@ -1,1 +1,1 @@
-var mnemonic = "trick cat budget proud tomorrow plug spatial thrive stay wait genius poem";
+var mnemonic = "fatigue venture hood cloth upper leaf dragon swap sense chief gaze flavor";

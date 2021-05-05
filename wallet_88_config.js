@@ -1,1 +1,1 @@
-var mnemonic = "either novel spoon disagree radar trip office foster deliver pledge cattle bomb";
+var mnemonic = "chronic quick state pill meadow settle there square short alarm bid bright";

@@ -1,1 +1,1 @@
-var mnemonic = "grass ginger chapter pride burden palace there dove trip mad agent female";
+var mnemonic = "extra fiber book coconut pilot coil fall salad collect garbage auction jar";

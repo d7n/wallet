@@ -1,1 +1,1 @@
-var mnemonic = "opera fury voyage assist toast wall remind enact knee panel course prosper";
+var mnemonic = "monster early human tongue ship voice pause cereal blind vague denial awkward";

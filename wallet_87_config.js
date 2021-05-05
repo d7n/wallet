@@ -1,1 +1,1 @@
-var mnemonic = "arctic disagree project plunge boost junior test desert deposit squirrel deny fade";
+var mnemonic = "fit perfect they skirt art unfold pyramid genre country water evil host";

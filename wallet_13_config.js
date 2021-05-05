@@ -1,1 +1,1 @@
-var mnemonic = "flat dinosaur glimpse immense pair manual camp crack mail polar void twice";
+var mnemonic = "weekend labor soup inspire grape review quarter unit affair this powder tape";

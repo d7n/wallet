@@ -1,1 +1,1 @@
-var mnemonic = "replace escape oblige inject scrub net choose design hat baby fog argue";
+var mnemonic = "flush boost inner cash six path chronic able kitten elegant book soft";

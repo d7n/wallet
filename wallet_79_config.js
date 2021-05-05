@@ -1,1 +1,1 @@
-var mnemonic = "matter sweet warfare any evidence drive settle awake rent bench drive moon";
+var mnemonic = "beach lecture inmate announce you title wink observe method age mushroom fish";

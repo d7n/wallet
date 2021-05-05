@@ -1,1 +1,1 @@
-var mnemonic = "matter drum crouch brick width square feel acoustic throw screen rally service";
+var mnemonic = "rescue ten device promote maximum jungle artist absent transfer like finger museum";

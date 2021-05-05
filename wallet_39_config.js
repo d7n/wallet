@@ -1,1 +1,1 @@
-var mnemonic = "boss lady long floor blue candy kiss unknown bus guilt hazard scrub";
+var mnemonic = "submit kidney enact palm awake loop solar pen liar tonight fantasy voyage";

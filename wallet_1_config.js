@@ -1,1 +1,1 @@
-var mnemonic = "mistake segment staff book father version leg pelican board series spell punch";
+var mnemonic = "beauty trophy subway hawk language afraid agree useless aim doctor exchange edge";

@@ -1,1 +1,1 @@
-var mnemonic = "woman spice aim report match muffin please clock reunion sell enact repeat";
+var mnemonic = "kitten cage youth chair cube price stumble aerobic night biology good capital";

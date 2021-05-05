@@ -1,1 +1,1 @@
-var mnemonic = "mix tree document salmon crush planet health inflict govern famous divide state";
+var mnemonic = "talk luggage worth nature crumble develop thunder share wrestle board badge sentence";

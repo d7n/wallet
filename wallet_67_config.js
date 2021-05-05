@@ -1,1 +1,1 @@
-var mnemonic = "kiwi danger puppy property hold today human nominee inquiry bird evoke melt";
+var mnemonic = "punch notice culture decade water combine decline invest swift reveal rib opinion";

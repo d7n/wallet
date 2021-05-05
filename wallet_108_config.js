@@ -1,1 +1,1 @@
-var mnemonic = "knife battle safe cigar save develop bottom laugh upset wrap scrub during";
+var mnemonic = "crystal wear confirm pilot boring until eyebrow clown design resource weekend chunk";

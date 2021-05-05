@@ -1,1 +1,1 @@
-var mnemonic = "copy net visit museum panel reduce stove prefer bone radio fire need";
+var mnemonic = "update opera pink daughter reveal danger museum diagram border text slush have";

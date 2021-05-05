@@ -1,1 +1,1 @@
-var mnemonic = "stove report burst frost pool call dynamic share october hard wasp bamboo";
+var mnemonic = "grant denial sick depth turn worry clutch ball bird mask slight match";

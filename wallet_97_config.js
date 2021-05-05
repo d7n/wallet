@@ -1,1 +1,1 @@
-var mnemonic = "cancel resist barely elite system master shoulder key arch quiz title visit";
+var mnemonic = "thumb bid candy chimney tag inner tent foot foster weather hip save";

@@ -1,1 +1,1 @@
-var mnemonic = "amused enforce curious paddle estate color tumble dutch monster blur erase vessel";
+var mnemonic = "breeze rocket become involve quick flip arm panel stand summer urban armed";

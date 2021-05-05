@@ -1,1 +1,1 @@
-var mnemonic = "rocket human emotion much ahead battle portion enact innocent also group dance";
+var mnemonic = "shrug practice talk poem cat ahead track recycle ring say key sphere";

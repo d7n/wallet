@@ -1,1 +1,1 @@
-var mnemonic = "media fever soccer grid recall similar concert blame wear latin suit sport";
+var mnemonic = "build plug rose wide hero glory claim draw hungry thumb until type";

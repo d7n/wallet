@@ -1,1 +1,1 @@
-var mnemonic = "taste clip fiscal lend anchor clarify egg arrest install rug slender myth";
+var mnemonic = "dance mystery pride squeeze pole final half key misery whip opinion shiver";

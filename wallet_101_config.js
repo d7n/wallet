@@ -1,1 +1,1 @@
-var mnemonic = "tide sting skin tackle table dawn raven answer main affair below drama";
+var mnemonic = "fold reward spell stand bomb scale want picture inform wisdom inmate bargain";

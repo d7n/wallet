@@ -1,1 +1,1 @@
-var mnemonic = "dry oval goose swim sponsor mix naive minimum auto arrange unaware bracket";
+var mnemonic = "state success soon say prison diesel friend border chimney seek dutch more";

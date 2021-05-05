@@ -1,1 +1,1 @@
-var mnemonic = "major soon draft priority scrub crazy island gravity enforce sauce segment arrest";
+var mnemonic = "caution insane human unhappy special cream runway toy blouse work pass castle";

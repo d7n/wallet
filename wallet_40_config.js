@@ -1,1 +1,1 @@
-var mnemonic = "swear injury busy frog satisfy depth modify shine end play ginger yellow";
+var mnemonic = "dutch garlic spring tomorrow boy group artefact urge clump remember finish merge";

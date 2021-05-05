@@ -1,1 +1,1 @@
-var mnemonic = "ketchup enhance crazy fury genuine scissors globe daring once erosion sound orient";
+var mnemonic = "among embody ozone bacon penalty diagram party more wire dignity slot horse";

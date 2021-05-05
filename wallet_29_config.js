@@ -1,1 +1,1 @@
-var mnemonic = "isolate that captain breeze truth treat practice chase cart assault mix naive";
+var mnemonic = "gesture fashion puzzle repeat magic camera gesture current harvest quick blast hair";

@@ -1,1 +1,1 @@
-var mnemonic = "sock raw onion fox inch sudden immune violin since option donor fiction";
+var mnemonic = "cruel build lava vibrant screen tone pretty recycle hazard brush adapt search";

@@ -1,1 +1,1 @@
-var mnemonic = "blind story rug speed genuine lift jump brown food page suit regret";
+var mnemonic = "volume oppose deliver vicious fatigue bubble tent thing civil minor couple culture";

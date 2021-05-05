@@ -1,1 +1,1 @@
-var mnemonic = "celery entry round badge situate congress symbol apology labor donate crater citizen";
+var mnemonic = "scare resource family chunk join pause shed novel please diesel calm virus";

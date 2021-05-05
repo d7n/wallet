@@ -1,1 +1,1 @@
-var mnemonic = "comfort cover clog abstract promote fence innocent body vault note alien deal";
+var mnemonic = "paddle wall father demand tongue arch beef puppy matter desert term memory";

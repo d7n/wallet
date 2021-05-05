@@ -1,1 +1,1 @@
-var mnemonic = "unable bread arch rhythm grief replace grab orbit cube lunar that lend";
+var mnemonic = "child pass limb maze kid sword math twelve toward token leg climb";

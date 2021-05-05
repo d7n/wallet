@@ -1,1 +1,1 @@
-var mnemonic = "vague tonight enforce vendor arena fantasy veteran sting attract robust table ginger";
+var mnemonic = "caution salt purpose token slab camera diet text weird sell amazing urge";

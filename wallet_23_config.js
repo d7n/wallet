@@ -1,1 +1,1 @@
-var mnemonic = "fire cruise logic regular tip garage cattle cloud admit boy robust human";
+var mnemonic = "end flame library faith link quality museum love later then scissors gesture";

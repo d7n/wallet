@@ -1,1 +1,1 @@
-var mnemonic = "sibling decline normal enjoy boss success solve path kid aim slam extra";
+var mnemonic = "enact right desk pioneer pizza balcony tribe gaze opinion trend robust doll";

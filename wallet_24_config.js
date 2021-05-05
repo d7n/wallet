@@ -1,1 +1,1 @@
-var mnemonic = "grunt prepare access crash cricket sea broccoli quarter turkey awful unique prosper";
+var mnemonic = "search glow purse sibling record alter angle sudden melody bronze detect online";

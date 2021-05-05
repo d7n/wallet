@@ -1,1 +1,1 @@
-var mnemonic = "breeze genuine during jungle fork neutral travel grain patrol square cable found";
+var mnemonic = "weasel juice plastic book dress equip spoon muscle media alien novel enhance";

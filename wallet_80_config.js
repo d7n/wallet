@@ -1,1 +1,1 @@
-var mnemonic = "speed muffin genius endless hospital diesel brown spike sting give lady power";
+var mnemonic = "envelope possible young need uniform inner evidence moment post tattoo joy steel";

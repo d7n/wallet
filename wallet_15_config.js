@@ -1,1 +1,1 @@
-var mnemonic = "famous panda arctic search guide census picnic afraid april truth gather age";
+var mnemonic = "obscure match galaxy twice flavor creek belt nest witness grunt under duck";

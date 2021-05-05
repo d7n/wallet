@@ -1,1 +1,1 @@
-var mnemonic = "canal buyer vibrant input where total village blouse gloom whip tower caught";
+var mnemonic = "marble plunge tumble flock follow tower another scene text atom cement mean";

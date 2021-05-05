@@ -1,1 +1,1 @@
-var mnemonic = "broken argue owner write flight spatial race idle skate entry lens effort";
+var mnemonic = "limit trip only tortoise sense deputy staff lion family around exhaust dune";

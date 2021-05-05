@@ -1,1 +1,1 @@
-var mnemonic = "motor danger antenna behind leaf list thought rebuild near usual core excuse";
+var mnemonic = "practice prepare front best okay pumpkin obtain involve identify sing canoe roof";

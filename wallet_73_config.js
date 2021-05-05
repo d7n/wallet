@@ -1,1 +1,1 @@
-var mnemonic = "borrow frequent quiz farm tongue describe salad mushroom relax noise equip pipe";
+var mnemonic = "poverty flag vague light gentle uncle kiwi useful barely okay tortoise pizza";

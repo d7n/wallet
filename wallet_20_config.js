@@ -1,1 +1,1 @@
-var mnemonic = "entire chimney speak census attend lounge family inhale priority diary lemon awkward";
+var mnemonic = "intact basic dash mouse author slender invest hurry clutch doctor ask husband";

@@ -1,1 +1,1 @@
-var mnemonic = "salad enlist law sustain junk basic door beyond stereo angle there two";
+var mnemonic = "absorb label dawn cinnamon wool nasty phrase begin shuffle alpha erode face";

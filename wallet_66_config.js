@@ -1,1 +1,1 @@
-var mnemonic = "blind stay spot neck swift paddle pen degree safe sorry tilt space";
+var mnemonic = "garment fantasy return sadness olive unit credit execute pride damp project teach";

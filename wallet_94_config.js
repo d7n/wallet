@@ -1,1 +1,1 @@
-var mnemonic = "group suggest surface path side drama awake foil art collect distance steel";
+var mnemonic = "shove doll almost dynamic congress setup blood example often wolf derive banana";

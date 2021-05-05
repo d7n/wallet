@@ -1,1 +1,1 @@
-var mnemonic = "enemy result shoulder aim present dry notable crop ritual neutral layer chef";
+var mnemonic = "inner give voice honey nuclear inhale tornado left magnet banner pave steel";

@@ -1,1 +1,1 @@
-var mnemonic = "accident motor rocket pear funny session uncover sail beach margin maid strike";
+var mnemonic = "love planet marble depth feel now indoor now asset mechanic neither solution";

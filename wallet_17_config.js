@@ -1,1 +1,1 @@
-var mnemonic = "unique bright parrot pledge urban rice grape improve goose shy mandate toe";
+var mnemonic = "tilt reason damage mule gentle come ticket sunny joy top dirt turtle";

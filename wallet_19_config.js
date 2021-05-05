@@ -1,1 +1,1 @@
-var mnemonic = "noodle chunk subway wear veteran where math raven cross find velvet decrease";
+var mnemonic = "drink actress question subject just endorse wrestle receive history inch auction draft";

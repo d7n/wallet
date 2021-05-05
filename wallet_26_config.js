@@ -1,1 +1,1 @@
-var mnemonic = "deer aunt pioneer east rival deposit enhance valve hole scorpion spy ritual";
+var mnemonic = "swallow follow economy boring mix entire core series solid utility diary can";

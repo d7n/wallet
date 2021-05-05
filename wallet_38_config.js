@@ -1,1 +1,1 @@
-var mnemonic = "slice scan sorry sea finger case stadium away clock hawk prison fan";
+var mnemonic = "mansion fury distance chair odor invest message spirit change enforce power elevator";

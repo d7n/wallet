@@ -1,1 +1,1 @@
-var mnemonic = "rug ripple fox debris coffee melody dentist vocal exhaust pledge craft lens";
+var mnemonic = "gorilla cat police nose person lecture moral fancy dentist belt fault auto";

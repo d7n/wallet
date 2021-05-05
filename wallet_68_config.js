@@ -1,1 +1,1 @@
-var mnemonic = "gate casino rally all exhaust weapon require pupil hurry clay kiss enhance";
+var mnemonic = "tree badge hockey junior art eye west legal two mechanic target time";

@@ -1,1 +1,1 @@
-var mnemonic = "drop improve orchard uphold shove grape recall possible ready ice other bottom";
+var mnemonic = "wet hurry prosper auto similar cigar online oval twice digital mention man";

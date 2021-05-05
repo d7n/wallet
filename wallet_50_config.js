@@ -1,1 +1,1 @@
-var mnemonic = "swap mail opinion struggle brisk wheel rebel basic gasp deal organ fiscal";
+var mnemonic = "tunnel clip other share knee puppy punch equal beauty differ subject alley";

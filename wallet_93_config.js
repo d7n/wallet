@@ -1,1 +1,1 @@
-var mnemonic = "creek early naive pilot memory wing clog feed cruel owner arrive strike";
+var mnemonic = "price judge naive lobster trophy inherit beef short stand burst large boy";

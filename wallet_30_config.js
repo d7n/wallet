@@ -1,1 +1,1 @@
-var mnemonic = "inflict salon cement best web video poem cart fantasy portion piece grace";
+var mnemonic = "team piece path drill fluid puzzle bottom design immense mesh trim among";

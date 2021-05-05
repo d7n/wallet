@@ -1,1 +1,1 @@
-var mnemonic = "settle injury mutual local clever inform trick foil hockey recall weekend struggle";
+var mnemonic = "involve figure whip total welcome timber phrase asset idea put divorce school";

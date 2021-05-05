@@ -1,1 +1,1 @@
-var mnemonic = "cotton economy age lens plug devote volcano always depend safe town hurt";
+var mnemonic = "oyster lunch pill lunch subject baby boil tide defense sausage wasp stone";

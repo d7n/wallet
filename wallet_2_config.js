@@ -1,1 +1,1 @@
-var mnemonic = "globe zero lecture circle gorilla grape egg combine seminar hair poet pistol";
+var mnemonic = "camp peanut run razor expand earth bean hero token distance card senior";

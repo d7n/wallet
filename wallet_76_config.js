@@ -1,1 +1,1 @@
-var mnemonic = "shove pass chuckle arm nose margin mountain ancient coconut close pattern fortune";
+var mnemonic = "tiger lunch surprise umbrella trial burger left ice shine open apology dentist";

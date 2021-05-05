@@ -1,1 +1,1 @@
-var mnemonic = "foot actor clutch goose farm file brass vivid uncover damp differ grunt";
+var mnemonic = "match fever domain bridge return adapt bone typical alter eagle scare puzzle";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal comic come craft chuckle warrior stadium woman drip symbol train journey";
+var mnemonic = "emerge critic firm example census remain aware oyster gossip weather swamp record";

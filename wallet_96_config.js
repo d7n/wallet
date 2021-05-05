@@ -1,1 +1,1 @@
-var mnemonic = "make fossil lake sugar stone report album lesson spot still various vendor";
+var mnemonic = "pact festival until blossom become extra retire raccoon occur arctic stove sound";

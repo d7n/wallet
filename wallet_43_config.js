@@ -1,1 +1,1 @@
-var mnemonic = "neither sure taste shine worth glare cry rack label shadow private grab";
+var mnemonic = "lucky wife local chuckle toward force together rack equal churn company announce";

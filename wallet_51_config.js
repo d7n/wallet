@@ -1,1 +1,1 @@
-var mnemonic = "gallery aspect nut moon umbrella quarter sorry jelly pipe master grow mail";
+var mnemonic = "invite more kick borrow charge airport two artist motion rich beef cargo";

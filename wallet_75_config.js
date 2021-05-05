@@ -1,1 +1,1 @@
-var mnemonic = "combine reason guitar mass genius blame pumpkin envelope detect honey distance swarm";
+var mnemonic = "mask choice style unknown winner decrease orient lyrics cabin marine canyon inside";
