@@ -1,1 +1,1 @@
-var mnemonic = "mesh sing produce daring elite floor window indoor gadget rack bubble produce";
+var mnemonic = "aware advice rose blur wing horror ahead carpet scout rate urban puzzle";

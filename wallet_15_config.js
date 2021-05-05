@@ -1,1 +1,1 @@
-var mnemonic = "tail throw bind glove soda theory lion recycle debate tray wall talk";
+var mnemonic = "noble bracket dove denial coyote summer cannon edge example air miracle movie";

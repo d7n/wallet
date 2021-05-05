@@ -1,1 +1,1 @@
-var mnemonic = "cargo word move pumpkin frame aspect recall life matrix trust bright baby";
+var mnemonic = "trial drama until permit amateur protect road minor keen permit usage more";

@@ -1,1 +1,1 @@
-var mnemonic = "shop soda sister roof noodle maid advance food want between tooth butter";
+var mnemonic = "season discover stem street exclude finish picnic fork famous trash board grant";

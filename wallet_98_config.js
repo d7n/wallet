@@ -1,1 +1,1 @@
-var mnemonic = "silly truly bronze mother shift armor vital split mention summer often attract";
+var mnemonic = "rifle ostrich breeze army label crowd glow dish crane foster quantum virus";

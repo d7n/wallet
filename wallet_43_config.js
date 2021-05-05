@@ -1,1 +1,1 @@
-var mnemonic = "average will girl sustain panda crouch aunt hood subway replace opinion brief";
+var mnemonic = "raccoon prize nest accident visual desk unlock erode case oblige brain client";

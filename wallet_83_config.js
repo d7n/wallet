@@ -1,1 +1,1 @@
-var mnemonic = "phone foot pilot smooth okay unusual design parade obscure depend sick fog";
+var mnemonic = "key jelly insect verify waste weird second lunar right raise hollow pull";

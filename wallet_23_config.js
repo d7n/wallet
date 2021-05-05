@@ -1,1 +1,1 @@
-var mnemonic = "fly clock fee dilemma ritual zoo praise garden maple clinic harbor athlete";
+var mnemonic = "box month celery hungry pear ability misery trend century simple salon age";

@@ -1,1 +1,1 @@
-var mnemonic = "acoustic obey black sniff tank board hammer evoke question husband vacuum equip";
+var mnemonic = "eagle situate retire electric uncle fiber avocado comfort blanket undo mandate same";

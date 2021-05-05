@@ -1,1 +1,1 @@
-var mnemonic = "decorate total gaze fish settle wise gaze proof ghost option position slam";
+var mnemonic = "angle easily awkward process gentle describe range silk gravity sell pyramid vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "panel crush abuse grape drink puppy rent giraffe rule reflect era cushion";
+var mnemonic = "scrap garbage army evoke rescue text secret spirit call crouch exhibit north";

@@ -1,1 +1,1 @@
-var mnemonic = "glance notice skull kind practice pulse hen bird trigger pigeon push casino";
+var mnemonic = "pluck perfect museum now trip betray surface dad swear mass glide dolphin";

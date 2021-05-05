@@ -1,1 +1,1 @@
-var mnemonic = "dune erode memory basket wheel attack input ship round cruise moral fox";
+var mnemonic = "pen rather already move vanish decrease clip rookie dentist bid bulk swear";

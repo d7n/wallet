@@ -1,1 +1,1 @@
-var mnemonic = "appear need under heart body online snack method sing adjust wisdom mimic";
+var mnemonic = "beauty music actor success panther lawsuit crystal capital anxiety tail sport remove";

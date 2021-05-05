@@ -1,1 +1,1 @@
-var mnemonic = "gravity doll income feature garlic artist play cross kind offer horror job";
+var mnemonic = "valley pear motor skin cancel neither insane glue picture search flight pride";

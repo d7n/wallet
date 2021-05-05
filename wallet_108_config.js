@@ -1,1 +1,1 @@
-var mnemonic = "gold system property item scissors ahead congress round pizza inherit hammer must";
+var mnemonic = "find neutral brain text author truly lawn comic rival pride romance bamboo";

@@ -1,1 +1,1 @@
-var mnemonic = "shock fish appear glare guess blame flush actor uncover guide inside column";
+var mnemonic = "senior super together path hint kangaroo drive junk near critic machine infant";

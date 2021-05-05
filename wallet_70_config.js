@@ -1,1 +1,1 @@
-var mnemonic = "stadium debate laptop cry goddess boring anxiety plug desert detect scrap basket";
+var mnemonic = "winter mirror glory hidden chunk bubble cup paddle raccoon vocal ketchup wheat";

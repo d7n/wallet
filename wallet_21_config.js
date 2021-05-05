@@ -1,1 +1,1 @@
-var mnemonic = "picture kidney patch copper tone glide suspect asset luggage useful thing unknown";
+var mnemonic = "jungle chief wise firm twenty present boat begin behind tail view grow";

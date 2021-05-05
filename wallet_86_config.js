@@ -1,1 +1,1 @@
-var mnemonic = "observe index treat screen number ugly dust glare powder keen property laundry";
+var mnemonic = "awesome lake voice brown inch boil photo genuine snake trumpet enact mountain";

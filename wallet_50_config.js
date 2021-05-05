@@ -1,1 +1,1 @@
-var mnemonic = "bullet chief brass double ice myself steak raccoon supreme review then swap";
+var mnemonic = "cement quality spray diagram field dragon lyrics kind autumn type child square";

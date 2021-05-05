@@ -1,1 +1,1 @@
-var mnemonic = "divide antique retire bread famous across culture tooth board dance forget angle";
+var mnemonic = "depart trigger easily define melt stomach vague gallery enact explain fog utility";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy fix sheriff stool safe mad marble fresh frost eight ignore bread";
+var mnemonic = "journey horror slam color once scrub pill upon replace empower dose silent";

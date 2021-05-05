@@ -1,1 +1,1 @@
-var mnemonic = "assault injury chuckle clever potato fog flag comic cheap whisper inmate give";
+var mnemonic = "false awkward rival group siren nation question arrow table claim rapid scorpion";

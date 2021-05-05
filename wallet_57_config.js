@@ -1,1 +1,1 @@
-var mnemonic = "leopard return tragic game neither flag puppy crater beef undo tourist where";
+var mnemonic = "talent cricket super proof entry quote wool tribe erase oppose access smart";

@@ -1,1 +1,1 @@
-var mnemonic = "exclude tell fault curve sorry amused truck swift wise stove correct bag";
+var mnemonic = "slide quick wise century bag candy dog orbit chalk wing debris tiny";

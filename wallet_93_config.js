@@ -1,1 +1,1 @@
-var mnemonic = "slow toward smooth close honey rose grant wrong wine insect excite belt";
+var mnemonic = "famous category together flash faculty tilt employ advance original across upon crumble";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry physical forum walnut invest dwarf trim labor entire inside vast stone";
+var mnemonic = "slide spring ostrich cage kiwi ability father isolate absurd real wear ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "hard veteran memory shoe skill setup catch grid border giraffe eager bracket";
+var mnemonic = "shell unfair head prize number blast rebel much faculty need wave drama";

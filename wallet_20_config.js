@@ -1,1 +1,1 @@
-var mnemonic = "diesel monster skull long window girl fitness soon bone husband hammer toss";
+var mnemonic = "mass foam heavy game item gravity lazy clutch caution gas fortune jazz";

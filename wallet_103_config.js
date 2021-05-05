@@ -1,1 +1,1 @@
-var mnemonic = "assist lend shrug industry desk runway vague inform void mystery laundry hotel";
+var mnemonic = "owner stable syrup ugly snow impulse false fatal neglect volcano sand matrix";

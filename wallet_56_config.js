@@ -1,1 +1,1 @@
-var mnemonic = "normal door verb favorite addict toilet west youth bitter dutch season tell";
+var mnemonic = "shaft credit uphold only glimpse minimum trick result depth walnut expand legal";

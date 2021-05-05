@@ -1,1 +1,1 @@
-var mnemonic = "drift book ivory topic aspect flee first bench position mirror input upper";
+var mnemonic = "innocent keen wet pact this joy winner again plug kid assist frown";

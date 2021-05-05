@@ -1,1 +1,1 @@
-var mnemonic = "bring gas congress direct pause project bread later smile horse author merge";
+var mnemonic = "solution ticket circle allow olive industry snack measure alley scheme crawl rural";

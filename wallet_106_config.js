@@ -1,1 +1,1 @@
-var mnemonic = "piece clip kind embody dragon social doctor front brown cup october unlock";
+var mnemonic = "hunt donkey leader nuclear predict destroy upgrade agree horror lion ocean gesture";

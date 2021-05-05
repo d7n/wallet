@@ -1,1 +1,1 @@
-var mnemonic = "amount now venture solution shrug carry bag rack ginger various sad lawn";
+var mnemonic = "margin capital filter amazing shop portion cook lend you dose staff boat";

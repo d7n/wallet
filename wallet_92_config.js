@@ -1,1 +1,1 @@
-var mnemonic = "illness deposit ahead desk flower among garment twice indicate coast bullet toast";
+var mnemonic = "orbit admit toy ecology reject another gather thunder limit enact voyage smooth";

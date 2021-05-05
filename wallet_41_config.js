@@ -1,1 +1,1 @@
-var mnemonic = "absurd tail next chaos cheese apology roast shallow ivory stomach whip talk";
+var mnemonic = "course tail badge praise talent cliff lawsuit north weasel riot soda despair";

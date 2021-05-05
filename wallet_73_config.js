@@ -1,1 +1,1 @@
-var mnemonic = "ladder better drip chef piano funny captain possible loan civil use acquire";
+var mnemonic = "drop earn leader prison river cancel village used only guide update route";

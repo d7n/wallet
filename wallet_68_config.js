@@ -1,1 +1,1 @@
-var mnemonic = "imitate fuel motion noise order royal tree arena only donor coil symbol";
+var mnemonic = "chronic grape bread pulse junior battle toe peasant wild sugar theme grace";

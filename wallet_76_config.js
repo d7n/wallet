@@ -1,1 +1,1 @@
-var mnemonic = "found stairs once solid turtle various illness fade city face lunar tonight";
+var mnemonic = "penalty sea craft trial helmet nephew couch budget motor wide rally opinion";

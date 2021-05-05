@@ -1,1 +1,1 @@
-var mnemonic = "project jealous stone valley regular engage fabric true option example beach escape";
+var mnemonic = "early fiscal drastic island august east valley urge bargain toilet trip power";

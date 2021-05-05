@@ -1,1 +1,1 @@
-var mnemonic = "crack useful okay forward genre absurd orchard off brave interest entire differ";
+var mnemonic = "lens attack forget chronic special grocery weapon debris diamond sell orchard liar";

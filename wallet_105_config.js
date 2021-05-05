@@ -1,1 +1,1 @@
-var mnemonic = "solar fault method eagle praise bullet camera immune talent okay erode bridge";
+var mnemonic = "clarify post pledge guilt tell parrot moon donor border clever attend decrease";

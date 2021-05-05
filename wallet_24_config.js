@@ -1,1 +1,1 @@
-var mnemonic = "inspire soul announce lumber barely panel unaware pond clay thank slight buyer";
+var mnemonic = "invest just wheat prevent rate puzzle impulse girl furnace funny impulse muffin";

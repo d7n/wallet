@@ -1,1 +1,1 @@
-var mnemonic = "toilet remember suit luxury maximum cover jewel fox rail wonder eagle ignore";
+var mnemonic = "mimic fall shock ball check ahead sustain confirm enact slogan weird detect";

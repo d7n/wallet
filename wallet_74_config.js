@@ -1,1 +1,1 @@
-var mnemonic = "coil swim various account cigar child husband clinic once clay invest sorry";
+var mnemonic = "trash office small ugly motion atom evil sphere robot become okay flush";

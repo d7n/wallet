@@ -1,1 +1,1 @@
-var mnemonic = "emotion dilemma adult work spider vital sister leave argue action broom bridge";
+var mnemonic = "know ancient stairs resist dignity evil weapon soup category foster cradle finish";

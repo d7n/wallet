@@ -1,1 +1,1 @@
-var mnemonic = "dolphin fork child dilemma melt pass wrong person tortoise tank moon happy";
+var mnemonic = "traffic usual gesture divert burst return appear tilt capital produce treat retreat";

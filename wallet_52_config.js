@@ -1,1 +1,1 @@
-var mnemonic = "destroy welcome another suffer joke idle final battle club lamp fragile senior";
+var mnemonic = "uncle jacket unhappy arm detail agree canal group shoe trophy wave like";

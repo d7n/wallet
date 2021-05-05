@@ -1,1 +1,1 @@
-var mnemonic = "during transfer mansion ask wife dry woman erode bring marine amount muffin";
+var mnemonic = "category gasp junior token token panel pizza dignity worry leave organ frog";

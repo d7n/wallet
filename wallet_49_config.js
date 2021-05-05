@@ -1,1 +1,1 @@
-var mnemonic = "evidence refuse glance solve dignity jacket pave frog desk story radar either";
+var mnemonic = "keep cannon width magic country typical undo educate income zero puzzle inspire";

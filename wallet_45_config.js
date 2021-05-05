@@ -1,1 +1,1 @@
-var mnemonic = "win crew spread canvas jealous tone equal zoo sick save tuition rabbit";
+var mnemonic = "train swallow blanket diagram unveil mind amazing okay tackle symptom cruise matter";

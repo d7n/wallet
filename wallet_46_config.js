@@ -1,1 +1,1 @@
-var mnemonic = "key sun riot pass anger weather bracket amused ensure dilemma wood magnet";
+var mnemonic = "switch day trap guess audit liquid day shock still myself belt sudden";

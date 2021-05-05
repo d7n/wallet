@@ -1,1 +1,1 @@
-var mnemonic = "gloom movie noble man arrive tip elegant trigger buyer sea cry inch";
+var mnemonic = "fee describe alien word mansion sad maze fresh measure patch squeeze drill";

@@ -1,1 +1,1 @@
-var mnemonic = "churn surprise unit improve flag coconut miracle manual street soldier noise cruise";
+var mnemonic = "airport stuff mind usual solid disagree milk seminar oak song sand render";

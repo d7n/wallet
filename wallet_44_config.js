@@ -1,1 +1,1 @@
-var mnemonic = "behind source image gossip beef slogan private virus furnace boy march season";
+var mnemonic = "wet junk oil denial earn album fiscal century draft athlete hill yellow";

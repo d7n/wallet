@@ -1,1 +1,1 @@
-var mnemonic = "tip mask fall ribbon actual nice such ginger pull rabbit assume october";
+var mnemonic = "wrap elite harbor garden crazy predict entry sweet this cherry holiday meat";

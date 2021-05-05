@@ -1,1 +1,1 @@
-var mnemonic = "must obey drum skull favorite endorse trick team train brisk coyote tooth";
+var mnemonic = "load trick female solution month dirt suggest mixture trade divide one ladder";

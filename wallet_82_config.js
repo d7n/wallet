@@ -1,1 +1,1 @@
-var mnemonic = "border corn way tide clever inject assist disease addict festival moon clog";
+var mnemonic = "quit rapid thought certain verb mesh saddle tower bus flight tackle art";

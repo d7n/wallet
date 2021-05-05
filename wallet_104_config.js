@@ -1,1 +1,1 @@
-var mnemonic = "badge praise plate life ship metal wing moral debate finish glue junk";
+var mnemonic = "trip allow bonus labor evoke reform raise napkin enlist present wing true";

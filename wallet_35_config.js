@@ -1,1 +1,1 @@
-var mnemonic = "post prepare point south buyer mountain apart fringe object omit charge fiber";
+var mnemonic = "banner subject daring please letter soldier creek yellow trim offer wide sadness";

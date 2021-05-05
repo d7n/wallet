@@ -1,1 +1,1 @@
-var mnemonic = "desk spawn auto cake own end nation casino mistake shoulder icon zebra";
+var mnemonic = "pluck fire close diet exist custom pattern render exercise board pulse debris";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue column ocean cute cram inquiry frog private decade dinner place family";
+var mnemonic = "nurse blind control excuse blind mountain dream audit ball diary lizard record";

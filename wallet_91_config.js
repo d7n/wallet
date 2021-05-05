@@ -1,1 +1,1 @@
-var mnemonic = "post forum income effort husband frown powder regret toast trust derive begin";
+var mnemonic = "slim cheap cake green what metal avoid nest marble insect pencil assume";

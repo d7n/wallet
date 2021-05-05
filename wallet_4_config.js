@@ -1,1 +1,1 @@
-var mnemonic = "shock submit vendor across aim exercise wire afraid rapid frame service alert";
+var mnemonic = "toward scrub over mass size camera alien visa honey aisle harvest nose";

@@ -1,1 +1,1 @@
-var mnemonic = "negative end shove peanut tray circle spread toss away rigid book talk";
+var mnemonic = "cat web traffic girl journey abstract balance yellow guard frozen device wage";

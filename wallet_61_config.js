@@ -1,1 +1,1 @@
-var mnemonic = "amused reduce wise throw olive spin uncover truly across dog pizza angle";
+var mnemonic = "mouse prosper picnic trend day vendor alcohol trap universe punch garage repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel cool admit answer radio wing idea extend stove soldier recall egg";
+var mnemonic = "canyon cup trash bomb toast good elevator hair april ugly south supply";

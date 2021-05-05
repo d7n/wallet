@@ -1,1 +1,1 @@
-var mnemonic = "disorder cabbage actress either live shell need search churn december pumpkin outer";
+var mnemonic = "bench bring element debate feature orchard feed squeeze chimney fan feature post";

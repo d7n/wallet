@@ -1,1 +1,1 @@
-var mnemonic = "between floor sight baby child loop mechanic crowd exist celery estate cost";
+var mnemonic = "blue bean hand approve video mistake song attract display dinosaur pepper nut";

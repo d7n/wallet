@@ -1,1 +1,1 @@
-var mnemonic = "tumble toast knee flag mansion midnight swarm hobby tag post enroll spike";
+var mnemonic = "unveil error glad salute universe burden into edit ring pupil chair ritual";

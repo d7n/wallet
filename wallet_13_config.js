@@ -1,1 +1,1 @@
-var mnemonic = "title access cradle lucky boring entry syrup whisper thought inflict kangaroo method";
+var mnemonic = "shrimp easily team wrap hand spider wink meat bitter west page festival";

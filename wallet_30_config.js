@@ -1,1 +1,1 @@
-var mnemonic = "enable torch dove crumble twist brown thought laugh firm helmet couple crop";
+var mnemonic = "follow vague narrow true scorpion wise wrestle apple coconut prepare harvest bonus";

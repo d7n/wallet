@@ -1,1 +1,1 @@
-var mnemonic = "marriage hollow robust deposit baby wall estate menu retreat entire mirror demand";
+var mnemonic = "gasp more pull refuse sudden canoe siren bind guard afford lend oppose";

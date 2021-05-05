@@ -1,1 +1,1 @@
-var mnemonic = "athlete blanket any weather actor tornado flock youth alien aerobic nation weather";
+var mnemonic = "glass detect pledge share pause chalk collect finish medal kid balance chapter";

@@ -1,1 +1,1 @@
-var mnemonic = "model boss motor hungry dawn stool inside diary toilet spell catch cliff";
+var mnemonic = "ethics demand change narrow found gate chef item token insect bulb alarm";

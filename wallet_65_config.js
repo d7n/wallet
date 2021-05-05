@@ -1,1 +1,1 @@
-var mnemonic = "trap sleep light control luggage find turtle denial easy scout segment town";
+var mnemonic = "express celery control foam penalty sword merry cluster hat tail deal cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "option panda dice fall arch depend loop erupt cheese skull aerobic hockey";
+var mnemonic = "dizzy solar coffee august crazy aerobic require cotton potato cherry meadow tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "door glove black estate yellow atom aware budget donor couch banner era";
+var mnemonic = "ask fat cupboard endorse teach best hole royal fabric cheap olympic tragic";

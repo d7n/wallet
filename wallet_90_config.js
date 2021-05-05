@@ -1,1 +1,1 @@
-var mnemonic = "little announce street fresh trade canal speed pact antique universe raw fitness";
+var mnemonic = "hockey exit excite settle orange keep evidence install autumn pave chaos feature";

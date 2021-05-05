@@ -1,1 +1,1 @@
-var mnemonic = "melody choose soon tennis month coconut elephant noble police alone renew valley";
+var mnemonic = "grit abstract nose mesh similar museum tourist patrol adult tray stumble insect";

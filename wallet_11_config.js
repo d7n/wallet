@@ -1,1 +1,1 @@
-var mnemonic = "debate pig lend exclude scrap blush survey blast push icon shove song";
+var mnemonic = "knee code tobacco topic patrol pool surface exercise joy level define minute";

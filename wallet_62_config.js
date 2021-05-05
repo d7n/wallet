@@ -1,1 +1,1 @@
-var mnemonic = "pet unique machine bitter junk vital dad client stomach scene burger educate";
+var mnemonic = "turtle soccer trash kiss loop toddler tuition tank traffic clog myself slight";

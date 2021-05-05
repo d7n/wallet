@@ -1,1 +1,1 @@
-var mnemonic = "inmate music chair alarm solution dust device stay moral catalog rather breeze";
+var mnemonic = "glow cotton also stereo return situate title razor nerve vibrant dose knee";

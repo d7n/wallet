@@ -1,1 +1,1 @@
-var mnemonic = "describe lounge grass taste income half moon brain finish volcano apart clown";
+var mnemonic = "powder adjust demise net argue stage accident avocado this inform code matrix";

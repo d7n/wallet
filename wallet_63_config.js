@@ -1,1 +1,1 @@
-var mnemonic = "cash deposit sting oppose child cat trade reunion marine cactus gold blast";
+var mnemonic = "gesture mirror ignore food trash prosper dizzy uphold escape gap trap client";

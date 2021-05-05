@@ -1,1 +1,1 @@
-var mnemonic = "sick possible angle verb million proud time napkin middle leopard position provide";
+var mnemonic = "skate morning wait wrist side spike tobacco patch poverty stage final blossom";

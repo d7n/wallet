@@ -1,1 +1,1 @@
-var mnemonic = "capital chair august inject immune park attend loud just vessel uncover theory";
+var mnemonic = "junior actress option amount apology ghost tuition swallow will marriage timber hood";
