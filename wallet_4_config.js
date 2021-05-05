@@ -1,1 +1,1 @@
-var mnemonic = "hill sock profit giggle response world patch quarter pizza gate apology screen";
+var mnemonic = "case cave gadget work street holiday lunch caught father grow achieve orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic stable novel solid crush double bus grit document banana toss scene";
+var mnemonic = "analyst afraid ridge repeat coin desert once banner daring mouse ancient caught";

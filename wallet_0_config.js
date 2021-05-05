@@ -1,1 +1,1 @@
-var mnemonic = "dwarf noise circle blue moral record safe drill soldier taxi insect regret";
+var mnemonic = "before delay deer mother issue middle birth point glare depart shiver shrug";

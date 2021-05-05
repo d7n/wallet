@@ -1,1 +1,1 @@
-var mnemonic = "sheriff gospel brief tower post prefer beyond boil penalty level discover current";
+var mnemonic = "urban fabric pupil erosion domain all onion modify label mean visit hollow";

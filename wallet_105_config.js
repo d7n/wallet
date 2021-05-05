@@ -1,1 +1,1 @@
-var mnemonic = "proud come sure chuckle modify benefit method another eternal puppy lounge mass";
+var mnemonic = "horn give mercy spy human correct salon logic oak dirt earn praise";

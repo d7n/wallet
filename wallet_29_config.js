@@ -1,1 +1,1 @@
-var mnemonic = "large road roof ripple happy mesh tower step girl gallery during soul";
+var mnemonic = "sister actor journey square steel hurdle jazz stable power jump switch faith";

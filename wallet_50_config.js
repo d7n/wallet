@@ -1,1 +1,1 @@
-var mnemonic = "organ heart addict snap motion wage ritual void retreat blanket advance actor";
+var mnemonic = "nerve metal budget prosper raise absent exhibit tiger correct one swear explain";

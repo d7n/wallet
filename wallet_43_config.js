@@ -1,1 +1,1 @@
-var mnemonic = "shadow butter scheme aerobic captain pink bullet trim erosion either filter wait";
+var mnemonic = "utility knock foam tilt crucial guess oyster artwork convince green empower team";

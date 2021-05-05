@@ -1,1 +1,1 @@
-var mnemonic = "various once carbon window veteran bacon paddle matter brother nation garment burden";
+var mnemonic = "reduce junk exhibit meat entry ozone mansion unveil wife name lizard prosper";

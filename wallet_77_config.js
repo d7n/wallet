@@ -1,1 +1,1 @@
-var mnemonic = "sting combine require join health rude list sand voyage burger acoustic amused";
+var mnemonic = "pen flower mountain globe torch toilet search coach daring cup hello helmet";

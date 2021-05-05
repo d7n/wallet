@@ -1,1 +1,1 @@
-var mnemonic = "series purse square rely frame denial tenant effort guide twist consider virus";
+var mnemonic = "sorry hotel page split organ diet public hour canyon favorite thought blur";

@@ -1,1 +1,1 @@
-var mnemonic = "carpet hurry charge phone obey smooth addict often gasp fossil tennis planet";
+var mnemonic = "similar spell people wealth once actor fabric cigar castle media vivid blind";

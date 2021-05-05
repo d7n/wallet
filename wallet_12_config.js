@@ -1,1 +1,1 @@
-var mnemonic = "stock muscle steel seminar work bamboo then valid tide album battle ramp";
+var mnemonic = "six champion travel gaze buzz fever august bulk resemble pyramid trick someone";

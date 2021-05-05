@@ -1,1 +1,1 @@
-var mnemonic = "witness hazard need code company naive nasty lava sphere assume toward urban";
+var mnemonic = "human hockey exile sword speak time satisfy picture predict shrug disagree maid";

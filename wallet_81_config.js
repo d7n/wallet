@@ -1,1 +1,1 @@
-var mnemonic = "search kitchen shock attend blush slender picture gauge tube exclude image tragic";
+var mnemonic = "sustain review stem tunnel junior school foot walk board round story mixed";

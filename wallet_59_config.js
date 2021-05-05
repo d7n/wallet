@@ -1,1 +1,1 @@
-var mnemonic = "entry company left acquire pull zone mimic degree diary attitude initial wisdom";
+var mnemonic = "bomb video into trumpet baby coral smoke spare source pigeon remove burden";

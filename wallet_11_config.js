@@ -1,1 +1,1 @@
-var mnemonic = "roof industry occur violin grant gravity tongue december toast mandate walk table";
+var mnemonic = "giraffe way elder second basket eye depend practice source rib bulb oak";

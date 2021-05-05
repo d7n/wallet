@@ -1,1 +1,1 @@
-var mnemonic = "say buffalo learn basket cupboard daughter icon amateur october ability glow ranch";
+var mnemonic = "fence lizard laundry similar acoustic explain pudding farm frog ginger sad verb";

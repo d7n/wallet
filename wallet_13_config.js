@@ -1,1 +1,1 @@
-var mnemonic = "dolphin enroll party gossip increase butter know cloth appear typical behave away";
+var mnemonic = "film evidence track age youth outer palm degree dream plug hard despair";

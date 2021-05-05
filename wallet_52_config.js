@@ -1,1 +1,1 @@
-var mnemonic = "joke shallow autumn lake chaos tuition check choose fresh eternal exercise mobile";
+var mnemonic = "write start fat found end hope absurd rally impulse click armor snake";

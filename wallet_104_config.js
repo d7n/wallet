@@ -1,1 +1,1 @@
-var mnemonic = "crystal ten monster decide lottery minute noble cart sustain axis bright extra";
+var mnemonic = "sentence grief tourist hunt group enjoy stairs shine twice toilet laptop dragon";

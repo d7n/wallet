@@ -1,1 +1,1 @@
-var mnemonic = "forest throw mutual giggle ghost grass glare you slide belt robot place";
+var mnemonic = "trap kingdom yellow service desert match brisk stone elite aerobic surface taxi";

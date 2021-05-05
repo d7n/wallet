@@ -1,1 +1,1 @@
-var mnemonic = "umbrella tenant gesture copy vast crystal patient cycle weird choice seek weekend";
+var mnemonic = "pioneer crater position end emotion airport wrist wealth manual cute track food";

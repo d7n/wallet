@@ -1,1 +1,1 @@
-var mnemonic = "grain man course slender first eager indicate code source column ship enroll";
+var mnemonic = "chaos across similar loud pottery glide text share language annual able exercise";

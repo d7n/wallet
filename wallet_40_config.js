@@ -1,1 +1,1 @@
-var mnemonic = "badge rebel gown rice case hybrid two tomato tired estate dog crop";
+var mnemonic = "pistol outdoor motor invite snow damp shoulder coil champion segment tomorrow actual";

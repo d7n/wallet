@@ -1,1 +1,1 @@
-var mnemonic = "seed fee keen column never exclude police kitchen comic shaft sick coast";
+var mnemonic = "cigar title youth brother gather argue blade tongue impose galaxy correct boost";

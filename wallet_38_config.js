@@ -1,1 +1,1 @@
-var mnemonic = "evolve crane warrior drift coil firm butter divide cabin deposit book guard";
+var mnemonic = "rely eagle album bike page brief furnace blouse pumpkin april rich limb";

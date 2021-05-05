@@ -1,1 +1,1 @@
-var mnemonic = "slice bundle only intact nut any spread fat energy style absurd course";
+var mnemonic = "wisdom earth ostrich heavy toward vapor return year spatial only toddler fade";

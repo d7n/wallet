@@ -1,1 +1,1 @@
-var mnemonic = "manage gravity universe country brown cube tattoo ridge action globe hen space";
+var mnemonic = "false favorite tiger differ latin carry orphan mule alpha ridge ride host";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol thank shadow example fragile caught help feature boil tide process nothing";
+var mnemonic = "fault wave hello pumpkin body cross cheap pave among later few woman";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse spatial celery learn army twist copy fish perfect any couple spy";
+var mnemonic = "eight hope bronze exist atom shop defense gold bundle priority acid nest";

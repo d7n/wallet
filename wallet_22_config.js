@@ -1,1 +1,1 @@
-var mnemonic = "capable trouble erosion blast inquiry short once shy real fee crash apple";
+var mnemonic = "exit badge poem eyebrow source chicken case initial fox flight elite term";

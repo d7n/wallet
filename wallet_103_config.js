@@ -1,1 +1,1 @@
-var mnemonic = "humor merit rule camp chaos throw market school spawn bench tissue multiply";
+var mnemonic = "eager best resist float hello coyote material system hill metal rule divorce";

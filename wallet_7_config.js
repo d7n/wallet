@@ -1,1 +1,1 @@
-var mnemonic = "purpose number struggle fragile alley axis unit success exist cricket fatigue flock";
+var mnemonic = "lobster retreat autumn chat pitch cannon pluck figure engage opinion climb omit";

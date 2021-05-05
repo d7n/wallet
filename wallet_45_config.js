@@ -1,1 +1,1 @@
-var mnemonic = "come genuine vacuum give lake pepper valid mercy sudden verify lens cluster";
+var mnemonic = "pepper good trash side slide battle dutch rival maid forget fault decade";

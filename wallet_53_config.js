@@ -1,1 +1,1 @@
-var mnemonic = "stove morning mechanic badge oxygen dry all unknown trend miracle utility diesel";
+var mnemonic = "zero pipe decline link force provide mule tortoise often skate list life";

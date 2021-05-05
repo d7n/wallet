@@ -1,1 +1,1 @@
-var mnemonic = "during depart entire doctor manual ill bronze erosion govern metal crew traffic";
+var mnemonic = "situate fiber caution omit fat radio wing dawn develop annual party shrug";

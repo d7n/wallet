@@ -1,1 +1,1 @@
-var mnemonic = "trumpet curtain sign salute door wrestle pottery young pave gap hold figure";
+var mnemonic = "slot duty village team inch major ecology high tired remember salmon parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "place slim siege casual annual lock loyal among language era club trumpet";
+var mnemonic = "flower ritual outer rural ticket foil public symbol sick rely paper panel";

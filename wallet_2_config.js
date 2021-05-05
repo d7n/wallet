@@ -1,1 +1,1 @@
-var mnemonic = "plate erase table soul wire roast valley luxury legend antenna hat pledge";
+var mnemonic = "cattle script measure utility bacon valid affair fence gossip review flat armor";

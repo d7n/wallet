@@ -1,1 +1,1 @@
-var mnemonic = "diesel fantasy local acid sick twice pill call afraid turn absurd leaf";
+var mnemonic = "gallery nasty unit truck purse battle angry swift prize power omit juice";

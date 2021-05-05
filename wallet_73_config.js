@@ -1,1 +1,1 @@
-var mnemonic = "reject label kangaroo latin visit rebuild insane hat bulk boss advance priority";
+var mnemonic = "eight demand rocket zoo huge build guard amateur master service cry hub";

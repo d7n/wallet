@@ -1,1 +1,1 @@
-var mnemonic = "ceiling phrase pony school half oil mansion frame leaf bamboo join cupboard";
+var mnemonic = "hour expire fruit clinic pipe phrase series spell cancel nephew scrub catalog";

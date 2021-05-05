@@ -1,1 +1,1 @@
-var mnemonic = "please roof capital clerk brief oyster old girl now congress blouse wasp";
+var mnemonic = "jump embark girl domain mammal degree fiscal net collect crunch army menu";

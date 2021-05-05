@@ -1,1 +1,1 @@
-var mnemonic = "plastic demand input notable cover silk sun wood music eight chase thunder";
+var mnemonic = "final melt method raw stereo dance sheriff school atom virus mistake robot";

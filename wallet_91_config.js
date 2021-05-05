@@ -1,1 +1,1 @@
-var mnemonic = "cabbage lucky another glory mushroom bundle trumpet female describe hungry banana charge";
+var mnemonic = "simple mouse step fall blood unveil head erupt question where polar lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe share pattern humble head hobby menu urban purse great advice client";
+var mnemonic = "title clown plug priority topic pencil hybrid fury picnic sword laugh total";

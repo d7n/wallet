@@ -1,1 +1,1 @@
-var mnemonic = "shiver visa artefact better mask dentist cross describe display people moon damp";
+var mnemonic = "save invite swamp clap vehicle floor gloom valid all tourist census crawl";

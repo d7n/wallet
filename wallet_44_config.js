@@ -1,1 +1,1 @@
-var mnemonic = "wood leopard rural convince vessel whisper assault device pilot law candy disagree";
+var mnemonic = "mail hockey hammer exact rival cable sand fee frog seek copper today";

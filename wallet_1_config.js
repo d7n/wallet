@@ -1,1 +1,1 @@
-var mnemonic = "ordinary garbage image best deer blame marine leopard mistake friend capable future";
+var mnemonic = "father creek version rally noble daughter panic quality detail fuel popular dilemma";

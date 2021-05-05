@@ -1,1 +1,1 @@
-var mnemonic = "omit load prize invite forum unknown order sustain margin lady enforce arctic";
+var mnemonic = "hold text dumb they dinner cheap misery solid upon click sense combine";

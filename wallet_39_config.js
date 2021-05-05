@@ -1,1 +1,1 @@
-var mnemonic = "crawl fall ethics swim correct square manage joke buyer margin reveal fault";
+var mnemonic = "video wall behave knee bronze output weather miss maze machine debris honey";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct discover beach whip window crush shoot boost fence cat auto that";
+var mnemonic = "add youth month raven hood obtain young web limb crater enrich swamp";

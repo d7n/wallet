@@ -1,1 +1,1 @@
-var mnemonic = "online boring beauty visa echo flip sail matrix naive orphan oak kitten";
+var mnemonic = "upset pizza vibrant smile horn setup lava rally lock boost salute castle";

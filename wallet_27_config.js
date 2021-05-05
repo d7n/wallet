@@ -1,1 +1,1 @@
-var mnemonic = "truly empty arrow legend valve reform twenty hill future danger monitor path";
+var mnemonic = "fury boil shop bargain waste gloom order eternal artefact open admit whisper";

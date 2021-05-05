@@ -1,1 +1,1 @@
-var mnemonic = "style toy flush better cinnamon trumpet casino fix fantasy execute execute bulb";
+var mnemonic = "filter butter space antique ice plunge husband pumpkin ordinary wink decrease pitch";

@@ -1,1 +1,1 @@
-var mnemonic = "october gadget couple head helmet logic drink smile sell stamp extra absorb";
+var mnemonic = "welcome forest chest appear doll visual either cloud punch stereo harsh candy";

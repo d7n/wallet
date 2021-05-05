@@ -1,1 +1,1 @@
-var mnemonic = "picture dash yellow turn strong slot tool bunker know furnace test lucky";
+var mnemonic = "target prize exclude craft claw fish amateur cost pumpkin faculty bone style";

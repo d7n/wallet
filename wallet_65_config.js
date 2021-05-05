@@ -1,1 +1,1 @@
-var mnemonic = "sugar ship approve essence spin issue reject exchange carpet bulb alcohol frown";
+var mnemonic = "drum light tired squeeze youth walk burst yellow volcano aunt odor cute";

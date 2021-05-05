@@ -1,1 +1,1 @@
-var mnemonic = "sign they shove quick toddler jungle glance afraid ordinary thunder okay casino";
+var mnemonic = "soul regular sport twelve list option door hip ghost belt street raven";

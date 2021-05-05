@@ -1,1 +1,1 @@
-var mnemonic = "method oxygen canvas carbon abandon museum kind sight sadness park assume lucky";
+var mnemonic = "helmet wall stay sorry quality solid agent person success virtual length glide";

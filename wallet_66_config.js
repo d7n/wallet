@@ -1,1 +1,1 @@
-var mnemonic = "evoke genuine attack bright warfare flight butter scan bar uphold spend spell";
+var mnemonic = "hurt crop dizzy nose scorpion infant intact step near region genre hen";

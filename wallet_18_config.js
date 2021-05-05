@@ -1,1 +1,1 @@
-var mnemonic = "shiver sponsor call pony seat say salon tilt gallery crime female liar";
+var mnemonic = "bachelor possible label fun smile wide fork shell version demise meadow sustain";

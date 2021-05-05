@@ -1,1 +1,1 @@
-var mnemonic = "stable visit miss bundle alone there comic wild nurse promote cricket owner";
+var mnemonic = "path caught jazz indoor spice juice try present pulp wolf you potato";

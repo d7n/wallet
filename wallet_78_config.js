@@ -1,1 +1,1 @@
-var mnemonic = "odor skate envelope fiscal quote marine couch baby unfold bridge tilt enact";
+var mnemonic = "sentence gold tackle barrel member pear push tell warfare okay depart fee";

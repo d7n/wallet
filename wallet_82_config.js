@@ -1,1 +1,1 @@
-var mnemonic = "possible swear donkey kit mistake goat dwarf soccer conduct palm empower quarter";
+var mnemonic = "wrestle load amazing turn orphan asset sunset fatigue lamp shield hybrid return";

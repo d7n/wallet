@@ -1,1 +1,1 @@
-var mnemonic = "pond nose zone mean focus brisk endless object spot claw boat clay";
+var mnemonic = "dutch slide ketchup august volume chef voyage cost dinosaur rebel oppose lens";

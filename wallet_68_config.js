@@ -1,1 +1,1 @@
-var mnemonic = "tone ocean option ice flip pistol notice deal spring hammer emotion napkin";
+var mnemonic = "shuffle hold west artwork combine laundry clay bargain ugly foil make bullet";

@@ -1,1 +1,1 @@
-var mnemonic = "able shallow off lock hold giggle fence script blind slender mind chair";
+var mnemonic = "skin obey palace deer brother drum usual story entire black wheat foam";

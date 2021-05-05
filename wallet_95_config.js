@@ -1,1 +1,1 @@
-var mnemonic = "crop trouble combine cloud swear plunge february canal enjoy magic obtain festival";
+var mnemonic = "dynamic wine beauty text cube crack dry near name puzzle inform palace";

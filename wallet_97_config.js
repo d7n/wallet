@@ -1,1 +1,1 @@
-var mnemonic = "jealous blanket calm female believe army govern poem garbage price dog script";
+var mnemonic = "bundle edge bleak rain scrub radio waste reason tray flush valve thing";

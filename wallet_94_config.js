@@ -1,1 +1,1 @@
-var mnemonic = "divide math mosquito surface shell hard remind stick sail marriage payment barrel";
+var mnemonic = "initial reveal trigger foam then reform modify body auction penalty subway upon";

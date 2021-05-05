@@ -1,1 +1,1 @@
-var mnemonic = "stage lady reunion before hidden culture world moon foster pond primary lunch";
+var mnemonic = "float sense shuffle advance hollow tourist topple spoon erosion car cup twelve";

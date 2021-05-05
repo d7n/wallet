@@ -1,1 +1,1 @@
-var mnemonic = "debate six video oyster false engine village benefit forget vicious agent practice";
+var mnemonic = "impact wheel detail churn mean tomorrow noble bronze apple citizen ketchup grow";

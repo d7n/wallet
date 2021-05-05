@@ -1,1 +1,1 @@
-var mnemonic = "detect beef thunder spend fine vintage key scrap episode certain someone section";
+var mnemonic = "ghost crumble caution smoke subway custom begin range smooth primary fire palm";

@@ -1,1 +1,1 @@
-var mnemonic = "limit truth genre truth model witness piece pride famous deposit bird manual";
+var mnemonic = "brush quantum sadness betray flash wealth addict crunch crumble decrease one chat";

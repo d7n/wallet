@@ -1,1 +1,1 @@
-var mnemonic = "drill unaware advance crop general fox symptom excite attitude genuine custom woman";
+var mnemonic = "crouch soldier first diagram shell frame green emotion eight pull broccoli goat";

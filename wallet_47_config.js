@@ -1,1 +1,1 @@
-var mnemonic = "empty replace adjust exhibit citizen vital tag glimpse dad proud zone wink";
+var mnemonic = "hamster cattle remind material combine laugh legal web random legend naive scrub";

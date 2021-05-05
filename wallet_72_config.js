@@ -1,1 +1,1 @@
-var mnemonic = "check slow athlete oil sign health opera turn profit first humble rural";
+var mnemonic = "liberty domain exotic pole situate ride entire junk minor copy away ivory";

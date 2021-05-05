@@ -1,1 +1,1 @@
-var mnemonic = "crop seed seminar barrel wear valve myself result alert inform strike emotion";
+var mnemonic = "addict run obey fiber destroy smart arrow enemy output there donate glide";

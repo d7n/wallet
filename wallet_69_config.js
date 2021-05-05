@@ -1,1 +1,1 @@
-var mnemonic = "dog moment immune globe soda bicycle brown blush claw panda puzzle theory";
+var mnemonic = "sea purse skin atom ritual flat resemble advance wish bus merry emotion";

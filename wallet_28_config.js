@@ -1,1 +1,1 @@
-var mnemonic = "inmate inside change hundred true pink egg vehicle van nasty airport garbage";
+var mnemonic = "region polar vicious donate adjust gasp penalty joke stone abandon analyst enable";

@@ -1,1 +1,1 @@
-var mnemonic = "notice rug yellow point merge gap assume inform wrist love cousin maximum";
+var mnemonic = "truly film addict slow clever hip destroy indicate biology bargain bomb since";

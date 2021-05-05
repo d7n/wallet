@@ -1,1 +1,1 @@
-var mnemonic = "lens exotic mesh tornado angry skill lady faith hat noise carry evidence";
+var mnemonic = "spin citizen adult snack erupt arena kitten reduce sand snake wine tobacco";

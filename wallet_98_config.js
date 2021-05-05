@@ -1,1 +1,1 @@
-var mnemonic = "image immense evoke arrive comfort margin check skin govern name click smoke";
+var mnemonic = "valid wide arrow oil believe seat chef bench file record park gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "truly slight mystery lawn broken inherit tree afford suggest pretty pilot potato";
+var mnemonic = "unfold reopen pilot evidence panther mask cage erupt grow peasant pride ordinary";

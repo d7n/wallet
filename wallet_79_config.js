@@ -1,1 +1,1 @@
-var mnemonic = "pioneer steak expire sponsor spend path owner clown rabbit swear burst marine";
+var mnemonic = "siren amateur cover deliver own voyage spirit practice door profit flat gloom";

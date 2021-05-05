@@ -1,1 +1,1 @@
-var mnemonic = "scissors doctor rally travel prison lobster hurry economy cruel scout another tunnel";
+var mnemonic = "iron family hedgehog youth useless elbow card own artist inherit laptop easy";

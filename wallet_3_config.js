@@ -1,1 +1,1 @@
-var mnemonic = "nice antique giraffe auto analyst fancy asthma symptom shine memory race betray";
+var mnemonic = "crystal joy law clerk donate wall plate faith company again cement page";

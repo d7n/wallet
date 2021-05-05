@@ -1,1 +1,1 @@
-var mnemonic = "bottom submit pave rather lava deer they apple nest forum excite else";
+var mnemonic = "rack cactus stumble caution claw attract senior until jelly bounce prize sand";
