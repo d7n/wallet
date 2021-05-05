@@ -1,1 +1,1 @@
-var mnemonic = "steak october wonder disease scrap entry order idea crowd mistake open develop";
+var mnemonic = "casual clown trumpet scale crunch equip tent cousin sadness song dynamic water";

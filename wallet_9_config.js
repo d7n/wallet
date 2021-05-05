@@ -1,1 +1,1 @@
-var mnemonic = "ripple project army shock display unaware swap lawn toast embrace solution blush";
+var mnemonic = "assume enter nurse strong supreme enemy panel rich chapter carry scatter orchard";

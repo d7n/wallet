@@ -1,1 +1,1 @@
-var mnemonic = "glance lucky thought lumber firm void distance artefact miracle radio glove galaxy";
+var mnemonic = "exhibit apology attack symptom sing poem tomorrow permit giant upon amateur latin";

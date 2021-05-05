@@ -1,1 +1,1 @@
-var mnemonic = "squeeze child trophy brick solid shove gain segment require sunset hundred type";
+var mnemonic = "hospital path slide large drip breeze result yard scene dust worry decade";

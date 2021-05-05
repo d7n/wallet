@@ -1,1 +1,1 @@
-var mnemonic = "enter just illegal advance junior minimum rose hope ball swear never example";
+var mnemonic = "veteran afford age grace north lyrics all elephant sad climb fiber evolve";

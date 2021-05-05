@@ -1,1 +1,1 @@
-var mnemonic = "unfold general wolf layer awful donkey design fall cluster grow spray away";
+var mnemonic = "reopen fun seek mixed ignore sentence close off eight model tourist squirrel";

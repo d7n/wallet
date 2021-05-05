@@ -1,1 +1,1 @@
-var mnemonic = "unit cheese cross horror wealth group where nerve noble enemy faint black";
+var mnemonic = "fresh tower alien endorse soup bubble very exercise base exotic assist rookie";

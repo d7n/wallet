@@ -1,1 +1,1 @@
-var mnemonic = "any reopen until wink melt boring green weapon suggest energy tongue omit";
+var mnemonic = "coast shrimp ride mention require physical adapt video lady orange act image";

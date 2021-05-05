@@ -1,1 +1,1 @@
-var mnemonic = "polar banner much shed faith spring nut forest author fire can gloom";
+var mnemonic = "property eyebrow gown furnace can sadness indicate giant prefer undo discover olive";

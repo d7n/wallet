@@ -1,1 +1,1 @@
-var mnemonic = "assault become type prepare slender actor artefact jazz cereal stay scheme nephew";
+var mnemonic = "fringe window shine swift evolve honey mirror tone limit frog slam warm";

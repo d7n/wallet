@@ -1,1 +1,1 @@
-var mnemonic = "hood veteran resist gentle claw flag bless limb guide quiz enjoy insect";
+var mnemonic = "timber blouse innocent quality surface scatter box glove design control laugh soul";

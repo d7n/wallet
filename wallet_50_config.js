@@ -1,1 +1,1 @@
-var mnemonic = "foster injury few amused couple reject shove unable crisp vacant issue avocado";
+var mnemonic = "vicious brown learn jump labor mistake sleep wedding term confirm genre search";

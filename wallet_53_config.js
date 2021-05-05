@@ -1,1 +1,1 @@
-var mnemonic = "nasty rabbit minute coyote orange wagon rabbit fire fence search tortoise silver";
+var mnemonic = "symbol only height deliver amused orange drift scorpion strategy couch divorce history";

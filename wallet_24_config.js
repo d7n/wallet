@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit emerge worth bright assist arrow oppose piano wolf boring waste replace";
+var mnemonic = "same smart crystal wash absent debate bicycle alien property remind until say";

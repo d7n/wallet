@@ -1,1 +1,1 @@
-var mnemonic = "agent tennis tonight puzzle bulk know genuine drama mass gauge fan alert";
+var mnemonic = "harvest subject police hammer relief ridge family bless account insane pink exact";

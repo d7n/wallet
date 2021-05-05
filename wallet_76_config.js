@@ -1,1 +1,1 @@
-var mnemonic = "quick crack sing wasp action acquire raise toss suspect short soft only";
+var mnemonic = "weather number tunnel reduce blind lab husband system size fire sea act";

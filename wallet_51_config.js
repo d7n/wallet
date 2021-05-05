@@ -1,1 +1,1 @@
-var mnemonic = "coin laundry lizard dog aerobic light noise library gravity front error erode";
+var mnemonic = "vacuum assist item change teach satisfy churn whip moon snake transfer equip";

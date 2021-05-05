@@ -1,1 +1,1 @@
-var mnemonic = "match clean heavy coconut notice height absent world gold life cruise nation";
+var mnemonic = "double antenna police salad gloom liberty time mystery bread seat attend consider";

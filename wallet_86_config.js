@@ -1,1 +1,1 @@
-var mnemonic = "cover soap strategy dance slab derive tag turn above kangaroo ring camp";
+var mnemonic = "security target output exact invite oppose fun quantum defy exercise mesh toast";

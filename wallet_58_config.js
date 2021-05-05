@@ -1,1 +1,1 @@
-var mnemonic = "domain sauce child execute aerobic name item ready inside hospital test service";
+var mnemonic = "guilt scheme outer street already rib umbrella leisure half once dress notable";

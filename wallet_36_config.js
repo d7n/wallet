@@ -1,1 +1,1 @@
-var mnemonic = "glow book session length giant share quit aspect side define various young";
+var mnemonic = "chapter wall pull cactus alien update collect oxygen interest impose amazing embrace";

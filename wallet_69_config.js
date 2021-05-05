@@ -1,1 +1,1 @@
-var mnemonic = "blouse spray alien blouse undo move pen runway believe have chat humor";
+var mnemonic = "cricket blur enact manage impose country chronic brisk vendor runway trend normal";

@@ -1,1 +1,1 @@
-var mnemonic = "guard keen toilet sick flock size jewel cart dinosaur reopen trip human";
+var mnemonic = "truck agree version lawn amount multiply maid elegant auction lawsuit wish winter";

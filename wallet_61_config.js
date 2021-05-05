@@ -1,1 +1,1 @@
-var mnemonic = "enough that tiny sniff cake devote evidence cherry deposit pigeon glue abandon";
+var mnemonic = "advice admit same short topple parent start destroy bean infant tortoise glide";

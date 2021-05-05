@@ -1,1 +1,1 @@
-var mnemonic = "catalog absent chair coconut pudding obey coach drip daughter check spawn float";
+var mnemonic = "shallow luxury animal mammal immense popular spring drop artwork end toast design";

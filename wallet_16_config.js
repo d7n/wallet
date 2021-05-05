@@ -1,1 +1,1 @@
-var mnemonic = "echo unveil bus twin pull immense chuckle chuckle rare cruel cake whip";
+var mnemonic = "govern nominee force ice license until brief tray stay police charge rebel";

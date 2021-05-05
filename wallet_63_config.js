@@ -1,1 +1,1 @@
-var mnemonic = "quit depart catch inch sniff ostrich decade weasel abandon sense bomb tired";
+var mnemonic = "mother fat hint loan lounge flee climb initial traffic promote stay bottom";

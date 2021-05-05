@@ -1,1 +1,1 @@
-var mnemonic = "soon ring disease pretty gorilla explain retire depend quality program laugh power";
+var mnemonic = "eight identify fat curtain loud detail embrace ketchup enter warrior crop father";

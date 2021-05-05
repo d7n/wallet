@@ -1,1 +1,1 @@
-var mnemonic = "oblige also speed reward blind breeze brush rocket pull scheme senior display";
+var mnemonic = "wish bless only two phrase icon dove churn metal discover bounce estate";

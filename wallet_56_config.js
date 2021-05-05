@@ -1,1 +1,1 @@
-var mnemonic = "future sweet photo deal one vendor cart retire hub art reject panther";
+var mnemonic = "height divorce scale permit flat steak cause giraffe horn eye ball senior";

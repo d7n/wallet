@@ -1,1 +1,1 @@
-var mnemonic = "live tortoise story shield luxury goddess seek resource visa degree fork trend";
+var mnemonic = "frog achieve affair blame humble subject noise now response coil vendor flip";

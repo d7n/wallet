@@ -1,1 +1,1 @@
-var mnemonic = "bargain nephew urge two only ghost federal human million moon vanish tennis";
+var mnemonic = "dismiss utility hard resource emerge build nurse stock laundry silk purity chalk";

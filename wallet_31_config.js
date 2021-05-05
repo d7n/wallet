@@ -1,1 +1,1 @@
-var mnemonic = "seed follow gorilla knee immense inflict damage basic bulk sweet weather rain";
+var mnemonic = "guilt screen cup canvas lecture edge post animal girl minor combine useless";

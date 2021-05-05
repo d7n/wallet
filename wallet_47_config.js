@@ -1,1 +1,1 @@
-var mnemonic = "wagon lyrics never retreat grain sell exotic frequent private winter verb island";
+var mnemonic = "alpha rigid guess year spatial equal bulk cause spatial trumpet more right";

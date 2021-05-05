@@ -1,1 +1,1 @@
-var mnemonic = "year cabin weird buffalo deal leisure pink drip finger volume fine cabin";
+var mnemonic = "office world mountain kingdom soon evil abstract coyote behind pattern slab trick";

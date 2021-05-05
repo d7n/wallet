@@ -1,1 +1,1 @@
-var mnemonic = "produce husband mountain route dumb attitude danger bike razor taste measure total";
+var mnemonic = "holiday midnight almost aunt various what fork lunch battle expect electric bright";

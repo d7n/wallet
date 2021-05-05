@@ -1,1 +1,1 @@
-var mnemonic = "basket range congress wedding since pig eagle desert thought flower cave end";
+var mnemonic = "ahead coffee conduct track jacket mushroom mushroom bag dove robust chair team";

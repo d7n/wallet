@@ -1,1 +1,1 @@
-var mnemonic = "episode upgrade crucial simple price ancient demise spell salt street legend annual";
+var mnemonic = "aerobic bus hybrid decrease valve simple mystery reduce ceiling apology amount whip";

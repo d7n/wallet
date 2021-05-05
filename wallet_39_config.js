@@ -1,1 +1,1 @@
-var mnemonic = "wonder left marriage expect result trip pistol inch able shadow wife gallery";
+var mnemonic = "churn fame achieve spike float fetch curious open interest sentence melody plate";

@@ -1,1 +1,1 @@
-var mnemonic = "feature hood opera evoke rather during tuition payment text spirit cup clarify";
+var mnemonic = "bone orphan aspect lock sure robust elegant access hello spirit tongue meadow";

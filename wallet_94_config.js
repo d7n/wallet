@@ -1,1 +1,1 @@
-var mnemonic = "loan myth cabin total trumpet quick inform judge sugar only train dumb";
+var mnemonic = "decide federal critic tape excess enact embody crucial kind chef alarm cash";

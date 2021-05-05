@@ -1,1 +1,1 @@
-var mnemonic = "empty lounge pride canyon dolphin medal rug problem minute ensure win divorce";
+var mnemonic = "breeze outside giggle vessel curve vivid reveal frown trick select nephew tobacco";

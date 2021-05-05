@@ -1,1 +1,1 @@
-var mnemonic = "firm layer art advice engage muffin leisure you under emotion city bonus";
+var mnemonic = "finger approve grace fossil film secret angle aisle group glance carry wheat";

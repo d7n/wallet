@@ -1,1 +1,1 @@
-var mnemonic = "olympic uncover pact sorry solar speak gadget zero worry viable hill describe";
+var mnemonic = "resource arrive sound power fade ancient entry evidence drama meadow biology execute";

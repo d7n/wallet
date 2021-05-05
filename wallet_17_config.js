@@ -1,1 +1,1 @@
-var mnemonic = "blue lamp fashion canoe post nothing tuna relax donkey method chicken mechanic";
+var mnemonic = "horn genuine blame amateur vote double mass proud good grant december dove";

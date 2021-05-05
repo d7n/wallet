@@ -1,1 +1,1 @@
-var mnemonic = "fish uncover margin obey appear what scatter make loan atom friend exit";
+var mnemonic = "design typical face busy crop identify bless cat lake major rescue camera";

@@ -1,1 +1,1 @@
-var mnemonic = "guess print square cake park ticket pigeon talk palace nut swim hedgehog";
+var mnemonic = "ship move quantum oven gold much explain dentist pottery damage fame armor";

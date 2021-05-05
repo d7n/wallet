@@ -1,1 +1,1 @@
-var mnemonic = "image skull section country winter inspire fossil trouble deer relax turn chimney";
+var mnemonic = "repeat stereo inmate enter genre output when hill add wealth want lyrics";

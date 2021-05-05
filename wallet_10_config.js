@@ -1,1 +1,1 @@
-var mnemonic = "shallow know merry era isolate link initial estate oil reward gap walk";
+var mnemonic = "cannon bottom umbrella friend used merry misery crouch party lyrics boat dust";

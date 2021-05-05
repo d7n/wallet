@@ -1,1 +1,1 @@
-var mnemonic = "job spare scorpion silk lawn little laugh blast neither today forward clap";
+var mnemonic = "wise inmate pet happy vague circle quiz elite install merit safe dry";

@@ -1,1 +1,1 @@
-var mnemonic = "blast exhaust miss slab gossip avoid scissors ordinary twice income announce basket";
+var mnemonic = "ribbon typical armed that high refuse jealous nation adapt fetch suspect tell";

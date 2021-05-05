@@ -1,1 +1,1 @@
-var mnemonic = "truth desk pigeon style scrap museum time stand chat duck dose essence";
+var mnemonic = "jungle disagree heart staff creek fragile click general analyst sibling diamond frame";

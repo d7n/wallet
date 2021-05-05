@@ -1,1 +1,1 @@
-var mnemonic = "shrimp involve off dinosaur afraid damage enforce coconut card flash confirm hungry";
+var mnemonic = "vote deer near frame fun float disease nothing liberty success sight bottom";

@@ -1,1 +1,1 @@
-var mnemonic = "erase island era grant ecology taste trash inch during custom skirt old";
+var mnemonic = "conduct forum valley inhale inject time maid pudding damage pool shine wing";

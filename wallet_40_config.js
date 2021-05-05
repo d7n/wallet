@@ -1,1 +1,1 @@
-var mnemonic = "feel street twice tornado zebra cube group guide cry fever theme oyster";
+var mnemonic = "mosquito exercise mosquito mansion scan online naive final coach merit load gravity";

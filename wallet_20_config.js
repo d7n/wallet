@@ -1,1 +1,1 @@
-var mnemonic = "direct advice increase annual trap much when inherit used demise grant lamp";
+var mnemonic = "butter endless retire model stomach fat satoshi wave hedgehog corn double three";

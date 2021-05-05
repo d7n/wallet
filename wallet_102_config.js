@@ -1,1 +1,1 @@
-var mnemonic = "bright creek tenant soap predict panda grocery stove bronze kick unable decide";
+var mnemonic = "useless garbage fine pledge exist defy unlock change mix margin clump polar";

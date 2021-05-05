@@ -1,1 +1,1 @@
-var mnemonic = "kit glue vocal exotic canvas resource brief assume nephew flavor fuel magic";
+var mnemonic = "snack nominee insane decorate door onion reason loyal rug oblige dust express";

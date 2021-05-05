@@ -1,1 +1,1 @@
-var mnemonic = "oyster street dad kingdom chunk future mirror robot ceiling monitor stairs hazard";
+var mnemonic = "arrow few piece practice entry lesson acid dinosaur pupil rotate divide rare";

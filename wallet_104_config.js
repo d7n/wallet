@@ -1,1 +1,1 @@
-var mnemonic = "polar borrow fiscal fresh extend coconut avoid bread adapt giraffe confirm theme";
+var mnemonic = "letter dumb verify absent tired border real tree suspect tortoise forum calm";

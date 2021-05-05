@@ -1,1 +1,1 @@
-var mnemonic = "cook divert public can various avocado chaos chimney say prefer vocal memory";
+var mnemonic = "floor make salon firm orient echo jar cable able cricket age script";

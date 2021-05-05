@@ -1,1 +1,1 @@
-var mnemonic = "loud race limit mammal laundry print parade sphere absorb toddler cricket crush";
+var mnemonic = "file heart choice genius then cushion fiction egg accident siege inject crawl";

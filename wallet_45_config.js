@@ -1,1 +1,1 @@
-var mnemonic = "body between random cargo melt erupt setup peanut twin illegal office brief";
+var mnemonic = "keen tourist bread faculty dial horn favorite inquiry luxury tuna crisp thrive";

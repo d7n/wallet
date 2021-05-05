@@ -1,1 +1,1 @@
-var mnemonic = "flag avocado puppy axis angle voyage speak prosper live add valley upon";
+var mnemonic = "pizza raccoon juice engage situate daring giggle memory bonus bonus among own";

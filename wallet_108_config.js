@@ -1,1 +1,1 @@
-var mnemonic = "world video bitter jungle happy flower abstract prison grow vendor kitten radar";
+var mnemonic = "buzz shy custom arm small scare sword film scare damage apology fetch";

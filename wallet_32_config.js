@@ -1,1 +1,1 @@
-var mnemonic = "arrive carry blossom equip notable surprise human nerve wage grant over spike";
+var mnemonic = "vapor captain debris kit toddler observe lunar during pledge forget midnight pumpkin";

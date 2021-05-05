@@ -1,1 +1,1 @@
-var mnemonic = "age great tell army scout embark old art sign auto firm gadget";
+var mnemonic = "erase spring library tiny joke agree ozone display long wink change tired";

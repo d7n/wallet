@@ -1,1 +1,1 @@
-var mnemonic = "border that slow spy seat tree crash wreck ugly act viable tuna";
+var mnemonic = "orbit collect cousin cluster chunk novel motor next treat desk poverty arch";

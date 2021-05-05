@@ -1,1 +1,1 @@
-var mnemonic = "vast staff obscure rescue swing visit quick trap century minimum smart diary";
+var mnemonic = "cram come error field legend repeat discover client hobby master accident yard";

@@ -1,1 +1,1 @@
-var mnemonic = "feel jar hurdle middle index special glimpse dinosaur rude magic chimney void";
+var mnemonic = "express butter arena awesome order balance impact fire tribe mechanic example destroy";

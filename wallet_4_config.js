@@ -1,1 +1,1 @@
-var mnemonic = "mask sting there improve visa borrow social tired air energy priority lend";
+var mnemonic = "tone enhance accuse burden human script this attend force volume parrot better";

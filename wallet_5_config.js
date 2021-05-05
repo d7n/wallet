@@ -1,1 +1,1 @@
-var mnemonic = "unknown dolphin merry impose sibling husband present almost public avoid kangaroo border";
+var mnemonic = "comic deer castle march moon goddess tag high afraid bitter skirt oak";

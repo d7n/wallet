@@ -1,1 +1,1 @@
-var mnemonic = "sport twist cake group unusual pencil shield ceiling shock lady snack foam";
+var mnemonic = "hobby egg damage honey state garbage unhappy robot roof quality surface collect";

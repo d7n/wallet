@@ -1,1 +1,1 @@
-var mnemonic = "manage ancient under start wide sorry riot city struggle laugh cake half";
+var mnemonic = "verb clarify joy focus robot various panther swear success auto image option";

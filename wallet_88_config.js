@@ -1,1 +1,1 @@
-var mnemonic = "laugh doctor fog evil pact pottery shed rival dinosaur venture dream fetch";
+var mnemonic = "answer mammal damage rib toss dry arctic famous much actual satoshi filter";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy asset undo shine sorry hunt pupil kiwi spare cluster east knee";
+var mnemonic = "scorpion hollow pig spy scrap control lazy sea scan culture frown wild";

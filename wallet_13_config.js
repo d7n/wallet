@@ -1,1 +1,1 @@
-var mnemonic = "age wild palm sauce utility mixed lamp shrimp claim knee end pizza";
+var mnemonic = "explain rug captain soap perfect hungry carbon kind budget frequent sphere extend";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise fragile member clutch math debate vivid cube rare layer deliver game";
+var mnemonic = "hammer grunt excite media veteran mistake toilet impact garden effort erosion east";

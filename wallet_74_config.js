@@ -1,1 +1,1 @@
-var mnemonic = "feed benefit evoke reform suffer broom piano enable fame list mercy regular";
+var mnemonic = "awesome knock tourist truth state soft title indicate season copper short small";

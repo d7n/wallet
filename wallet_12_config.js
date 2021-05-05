@@ -1,1 +1,1 @@
-var mnemonic = "warfare future snow still table truth situate waste silent there penalty reopen";
+var mnemonic = "mobile tape cabin suggest glide kitten song catalog dignity hub raise flock";

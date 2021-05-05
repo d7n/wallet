@@ -1,1 +1,1 @@
-var mnemonic = "joke lesson broom mother garden supreme hello flat digital sad joke sorry";
+var mnemonic = "neglect tackle hover hedgehog hill crop major view trumpet three during assault";

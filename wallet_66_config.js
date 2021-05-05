@@ -1,1 +1,1 @@
-var mnemonic = "fox champion lizard garage tank library evil grain modify police front title";
+var mnemonic = "rice velvet ensure mesh donate indoor resist never fiscal club october push";

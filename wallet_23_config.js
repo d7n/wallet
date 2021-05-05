@@ -1,1 +1,1 @@
-var mnemonic = "body piece doll immune wolf nation ahead profit crew sketch strike vanish";
+var mnemonic = "oven razor until misery stone bamboo explain panda enrich ring process remember";

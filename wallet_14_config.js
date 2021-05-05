@@ -1,1 +1,1 @@
-var mnemonic = "predict black issue local phone emerge talk young lonely reunion among run";
+var mnemonic = "bonus drink song resemble rotate limb jar coach group glimpse key honey";

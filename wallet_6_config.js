@@ -1,1 +1,1 @@
-var mnemonic = "market grief vapor uncle party palm please hammer salon few coyote rhythm";
+var mnemonic = "weapon picture staff cry panther sign hire spin rich cloth pulp mushroom";

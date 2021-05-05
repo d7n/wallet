@@ -1,1 +1,1 @@
-var mnemonic = "bus east swim dream find predict smart olympic need slab hollow battle";
+var mnemonic = "idle allow aisle sadness depend food truth lesson alone zone luxury eagle";
