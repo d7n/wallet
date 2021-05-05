@@ -1,1 +1,1 @@
-var mnemonic = "property eyebrow gown furnace can sadness indicate giant prefer undo discover olive";
+var mnemonic = "stove kitten original vehicle mean budget double mechanic patrol brick nasty giggle";

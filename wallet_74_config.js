@@ -1,1 +1,1 @@
-var mnemonic = "awesome knock tourist truth state soft title indicate season copper short small";
+var mnemonic = "olive duty either reward outdoor frame kit card future daughter observe question";

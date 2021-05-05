@@ -1,1 +1,1 @@
-var mnemonic = "height divorce scale permit flat steak cause giraffe horn eye ball senior";
+var mnemonic = "charge broom want able load price cliff foster knee mobile genre atom";

@@ -1,1 +1,1 @@
-var mnemonic = "horn genuine blame amateur vote double mass proud good grant december dove";
+var mnemonic = "fruit sound idle kiss spell gloom noble virtual hammer nothing hybrid magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure purity recall husband debris steak attend damage race scheme punch globe";
+var mnemonic = "ocean cable deposit toast story picnic flag organ purse auto cabbage luggage";

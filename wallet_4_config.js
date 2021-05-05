@@ -1,1 +1,1 @@
-var mnemonic = "tone enhance accuse burden human script this attend force volume parrot better";
+var mnemonic = "asset saddle ice onion alarm where system security elegant latin spawn stadium";

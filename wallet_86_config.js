@@ -1,1 +1,1 @@
-var mnemonic = "security target output exact invite oppose fun quantum defy exercise mesh toast";
+var mnemonic = "prefer hand beauty canyon silly pledge title peace wheel load swift trend";

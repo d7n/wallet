@@ -1,1 +1,1 @@
-var mnemonic = "gaze jaguar title stuff high frame forget prefer nature pause jungle gentle";
+var mnemonic = "swarm bread oyster search act nerve win produce tortoise rocket lobster glass";

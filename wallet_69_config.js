@@ -1,1 +1,1 @@
-var mnemonic = "cricket blur enact manage impose country chronic brisk vendor runway trend normal";
+var mnemonic = "cram lottery nuclear response master spell candy dog lobster salute gold idle";

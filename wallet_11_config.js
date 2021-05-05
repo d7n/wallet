@@ -1,1 +1,1 @@
-var mnemonic = "swift federal material sound river solution isolate update hundred lesson royal order";
+var mnemonic = "dawn load lyrics museum online rookie rally deal hood jaguar stock stamp";

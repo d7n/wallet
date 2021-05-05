@@ -1,1 +1,1 @@
-var mnemonic = "bonus drink song resemble rotate limb jar coach group glimpse key honey";
+var mnemonic = "helmet theme toast curtain virus melt boring siege faith gorilla they hub";

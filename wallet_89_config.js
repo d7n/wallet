@@ -1,1 +1,1 @@
-var mnemonic = "harvest subject police hammer relief ridge family bless account insane pink exact";
+var mnemonic = "math atom smoke enact clump real lecture heavy forget oxygen nature project";

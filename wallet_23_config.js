@@ -1,1 +1,1 @@
-var mnemonic = "oven razor until misery stone bamboo explain panda enrich ring process remember";
+var mnemonic = "south general wear craft shoe february this jewel lesson spice motion riot";

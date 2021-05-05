@@ -1,1 +1,1 @@
-var mnemonic = "fringe window shine swift evolve honey mirror tone limit frog slam warm";
+var mnemonic = "type sugar flip rail fruit library abstract crisp abstract reflect setup damp";

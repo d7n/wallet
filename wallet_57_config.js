@@ -1,1 +1,1 @@
-var mnemonic = "erase spring library tiny joke agree ozone display long wink change tired";
+var mnemonic = "stay boil squeeze kiwi crane pizza talk digital marriage draw wash merge";

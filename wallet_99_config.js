@@ -1,1 +1,1 @@
-var mnemonic = "scorpion hollow pig spy scrap control lazy sea scan culture frown wild";
+var mnemonic = "equip entry sauce protect unknown rely midnight bundle vessel muscle unable chuckle";

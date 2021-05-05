@@ -1,1 +1,1 @@
-var mnemonic = "snack nominee insane decorate door onion reason loyal rug oblige dust express";
+var mnemonic = "aim pave update moral anger debris century ridge room unique shift shove";

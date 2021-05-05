@@ -1,1 +1,1 @@
-var mnemonic = "ahead coffee conduct track jacket mushroom mushroom bag dove robust chair team";
+var mnemonic = "system luggage indoor common glow struggle you unique document foil scrap tunnel";

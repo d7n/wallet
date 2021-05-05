@@ -1,1 +1,1 @@
-var mnemonic = "weapon picture staff cry panther sign hire spin rich cloth pulp mushroom";
+var mnemonic = "shock neglect entry vault upper spice solid beach suspect ghost wheel thought";

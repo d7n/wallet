@@ -1,1 +1,1 @@
-var mnemonic = "girl lonely rate clutch below anchor punch roast essay digital coast someone";
+var mnemonic = "yard language equip solid observe charge clown loyal excite memory confirm hunt";

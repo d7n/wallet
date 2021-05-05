@@ -1,1 +1,1 @@
-var mnemonic = "floor make salon firm orient echo jar cable able cricket age script";
+var mnemonic = "sausage mean old topple old common useful debate patient snake engine hamster";

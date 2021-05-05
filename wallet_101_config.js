@@ -1,1 +1,1 @@
-var mnemonic = "double antenna police salad gloom liberty time mystery bread seat attend consider";
+var mnemonic = "hope cloud asthma glow write vote staff nose federal vital perfect memory";

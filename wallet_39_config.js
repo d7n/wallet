@@ -1,1 +1,1 @@
-var mnemonic = "churn fame achieve spike float fetch curious open interest sentence melody plate";
+var mnemonic = "juice suit deposit panic brick evidence tooth omit sibling horror version require";

@@ -1,1 +1,1 @@
-var mnemonic = "maid screen vital nature picnic banana lamp owner bus genre sign suggest";
+var mnemonic = "tired violin radio pudding good flip fatal genuine service half swarm ethics";

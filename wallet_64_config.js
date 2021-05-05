@@ -1,1 +1,1 @@
-var mnemonic = "speak marriage pelican inspire spread fly ecology sting fault orange buddy finish";
+var mnemonic = "torch palace obey merge month mouse mind broccoli fringe club light deny";

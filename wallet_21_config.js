@@ -1,1 +1,1 @@
-var mnemonic = "frog achieve affair blame humble subject noise now response coil vendor flip";
+var mnemonic = "give duck moon nothing room opera parrot casual cave between unknown video";

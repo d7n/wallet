@@ -1,1 +1,1 @@
-var mnemonic = "resource arrive sound power fade ancient entry evidence drama meadow biology execute";
+var mnemonic = "planet army panel priority reject imitate all era ensure boy syrup toss";

@@ -1,1 +1,1 @@
-var mnemonic = "rice velvet ensure mesh donate indoor resist never fiscal club october push";
+var mnemonic = "puzzle couch truck also great rug wealth act marine talk trigger still";

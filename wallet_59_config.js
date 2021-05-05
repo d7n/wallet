@@ -1,1 +1,1 @@
-var mnemonic = "file item concert eager place satisfy nothing stuff price cricket near welcome";
+var mnemonic = "cry island resource exotic garage height work struggle tree mule nose profit";

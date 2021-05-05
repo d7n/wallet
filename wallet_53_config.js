@@ -1,1 +1,1 @@
-var mnemonic = "symbol only height deliver amused orange drift scorpion strategy couch divorce history";
+var mnemonic = "field brisk cluster travel meat record smart attitude crater cotton myself giant";

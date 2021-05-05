@@ -1,1 +1,1 @@
-var mnemonic = "govern nominee force ice license until brief tray stay police charge rebel";
+var mnemonic = "fringe wire column cereal double fee feature dignity bullet pear elder easily";

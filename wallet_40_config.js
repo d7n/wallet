@@ -1,1 +1,1 @@
-var mnemonic = "mosquito exercise mosquito mansion scan online naive final coach merit load gravity";
+var mnemonic = "fresh palm now enable black group strike vapor always private mercy what";

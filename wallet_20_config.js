@@ -1,1 +1,1 @@
-var mnemonic = "butter endless retire model stomach fat satoshi wave hedgehog corn double three";
+var mnemonic = "visual fossil grunt excess bracket liberty hunt stock toe mail kit indicate";

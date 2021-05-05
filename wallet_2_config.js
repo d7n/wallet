@@ -1,1 +1,1 @@
-var mnemonic = "hospital path slide large drip breeze result yard scene dust worry decade";
+var mnemonic = "sick infant slab because sell chief track talk wrist stuff mistake recipe";

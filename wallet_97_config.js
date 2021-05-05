@@ -1,1 +1,1 @@
-var mnemonic = "file heart choice genius then cushion fiction egg accident siege inject crawl";
+var mnemonic = "federal wrestle demise current filter gather skin border shift surprise inject loan";

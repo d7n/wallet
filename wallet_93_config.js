@@ -1,1 +1,1 @@
-var mnemonic = "net alert sure space valve silent tilt cram tomorrow sign demise arm";
+var mnemonic = "mushroom salt arch saddle fiber entry once car pave crisp nasty pencil";

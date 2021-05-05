@@ -1,1 +1,1 @@
-var mnemonic = "coast shrimp ride mention require physical adapt video lady orange act image";
+var mnemonic = "angle mystery salmon solid style brain all humor practice anchor negative vivid";

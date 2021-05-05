@@ -1,1 +1,1 @@
-var mnemonic = "letter dumb verify absent tired border real tree suspect tortoise forum calm";
+var mnemonic = "unfair maple picture novel mother eyebrow rotate defense tornado crazy easily episode";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum assist item change teach satisfy churn whip moon snake transfer equip";
+var mnemonic = "empower cause tattoo view pipe bracket damp hospital radio athlete alcohol virus";

@@ -1,1 +1,1 @@
-var mnemonic = "drive fruit duty round cat nasty problem resource hollow image aspect island";
+var mnemonic = "awesome brief risk predict wool entire twice farm scan nerve fat divert";

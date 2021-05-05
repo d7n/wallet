@@ -1,1 +1,1 @@
-var mnemonic = "idle allow aisle sadness depend food truth lesson alone zone luxury eagle";
+var mnemonic = "hedgehog memory napkin tortoise modify pause online angle inspire rebel organ hundred";

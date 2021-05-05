@@ -1,1 +1,1 @@
-var mnemonic = "alpha rigid guess year spatial equal bulk cause spatial trumpet more right";
+var mnemonic = "vague trumpet deputy piano special industry vocal tuna purse like shed live";

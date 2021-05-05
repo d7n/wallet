@@ -1,1 +1,1 @@
-var mnemonic = "have coach above fox nose confirm front nut family man across final";
+var mnemonic = "boss scrub myth delay announce robot lift sweet effort olympic thought moral";

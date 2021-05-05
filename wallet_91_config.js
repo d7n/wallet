@@ -1,1 +1,1 @@
-var mnemonic = "verb clarify joy focus robot various panther swear success auto image option";
+var mnemonic = "want capable parade photo tongue skill slim build smart acid erode salmon";

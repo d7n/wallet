@@ -1,1 +1,1 @@
-var mnemonic = "column choice repair defy sign worry boring hollow very true enemy jungle";
+var mnemonic = "high suffer garment glare eight person pipe mountain opera fire unfair physical";

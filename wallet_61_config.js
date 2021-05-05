@@ -1,1 +1,1 @@
-var mnemonic = "advice admit same short topple parent start destroy bean infant tortoise glide";
+var mnemonic = "uncover famous dwarf earn culture almost gown aunt engage renew music swim";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz shy custom arm small scare sword film scare damage apology fetch";
+var mnemonic = "plate banana illness rifle glimpse walk cricket milk jar educate side local";

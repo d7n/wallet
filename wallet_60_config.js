@@ -1,1 +1,1 @@
-var mnemonic = "congress trash fatigue digital slab gap decline huge space biology crucial brass";
+var mnemonic = "relax flower remain olive lonely trouble maple crack defense dose weekend radio";

@@ -1,1 +1,1 @@
-var mnemonic = "eight identify fat curtain loud detail embrace ketchup enter warrior crop father";
+var mnemonic = "clock warrior apple parade angle scrub essence day coin advance exhaust siren";

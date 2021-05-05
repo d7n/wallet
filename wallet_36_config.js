@@ -1,1 +1,1 @@
-var mnemonic = "chapter wall pull cactus alien update collect oxygen interest impose amazing embrace";
+var mnemonic = "pistol add identify pattern entry length wonder narrow rescue smart rookie hazard";

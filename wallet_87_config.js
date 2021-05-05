@@ -1,1 +1,1 @@
-var mnemonic = "suit burger seed six rough target swap try tilt citizen service huge";
+var mnemonic = "remove please version waste ordinary spell excuse walnut smoke royal hedgehog donate";

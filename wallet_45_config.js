@@ -1,1 +1,1 @@
-var mnemonic = "keen tourist bread faculty dial horn favorite inquiry luxury tuna crisp thrive";
+var mnemonic = "metal width family decade actor account alarm rent doll armed onion library";

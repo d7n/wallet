@@ -1,1 +1,1 @@
-var mnemonic = "weather number tunnel reduce blind lab husband system size fire sea act";
+var mnemonic = "rival crumble mechanic drink analyst cash general speed route erosion other exact";

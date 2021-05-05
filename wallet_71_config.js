@@ -1,1 +1,1 @@
-var mnemonic = "ship move quantum oven gold much explain dentist pottery damage fame armor";
+var mnemonic = "fork only swift ivory divorce spread maid segment vocal jar actor hammer";

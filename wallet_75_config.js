@@ -1,1 +1,1 @@
-var mnemonic = "rack turn cherry there scorpion exhaust surge shallow mistake slush category earn";
+var mnemonic = "tumble fever tobacco gift copper can piece dice print sentence case dog";

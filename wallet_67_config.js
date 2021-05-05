@@ -1,1 +1,1 @@
-var mnemonic = "ribbon typical armed that high refuse jealous nation adapt fetch suspect tell";
+var mnemonic = "ring inhale protect cook bracket fan depend flame almost file slice trade";

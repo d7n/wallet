@@ -1,1 +1,1 @@
-var mnemonic = "lab witness fantasy unusual buzz dirt escape design hint afraid adapt industry";
+var mnemonic = "hunt three capital bullet reform motor glide hold inmate decline spatial resist";

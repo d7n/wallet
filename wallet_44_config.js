@@ -1,1 +1,1 @@
-var mnemonic = "marble basket bulk blouse song man nothing mad luggage news unveil scrub";
+var mnemonic = "six know west salute leaf skull mass pet century oxygen narrow result";

@@ -1,1 +1,1 @@
-var mnemonic = "office world mountain kingdom soon evil abstract coyote behind pattern slab trick";
+var mnemonic = "nephew net ankle example sign fiction turn language dog catch artwork family";

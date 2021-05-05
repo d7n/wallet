@@ -1,1 +1,1 @@
-var mnemonic = "express butter arena awesome order balance impact fire tribe mechanic example destroy";
+var mnemonic = "easily hurdle ocean illegal click style bubble virus best skill afford govern";

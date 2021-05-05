@@ -1,1 +1,1 @@
-var mnemonic = "bone orphan aspect lock sure robust elegant access hello spirit tongue meadow";
+var mnemonic = "east spike stay honey across bomb airport raven delay mouse powder patrol";

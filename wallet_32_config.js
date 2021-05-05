@@ -1,1 +1,1 @@
-var mnemonic = "vapor captain debris kit toddler observe lunar during pledge forget midnight pumpkin";
+var mnemonic = "grain throw bicycle carry wheat sick gather cluster wine man volume sketch";

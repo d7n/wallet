@@ -1,1 +1,1 @@
-var mnemonic = "olympic dinosaur patient scissors monkey purchase school cost wire endorse gorilla theory";
+var mnemonic = "camp cattle shine vault display furnace divide payment left coach puzzle rally";

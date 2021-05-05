@@ -1,1 +1,1 @@
-var mnemonic = "satisfy achieve expose elder urge slice help army shadow flat please fatigue";
+var mnemonic = "unhappy miracle claim horse decline hurdle lawsuit hole portion dust farm trial";

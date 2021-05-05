@@ -1,1 +1,1 @@
-var mnemonic = "orbit collect cousin cluster chunk novel motor next treat desk poverty arch";
+var mnemonic = "grief snow arrest memory gloom provide elite anxiety client grain scene sphere";

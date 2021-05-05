@@ -1,1 +1,1 @@
-var mnemonic = "knee annual surprise result confirm fringe suit apple team fly fragile left";
+var mnemonic = "sense depend such series loop keep system rough denial narrow palace add";

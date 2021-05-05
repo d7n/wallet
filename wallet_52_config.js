@@ -1,1 +1,1 @@
-var mnemonic = "holiday midnight almost aunt various what fork lunch battle expect electric bright";
+var mnemonic = "over depend someone menu nasty vibrant kiwi forest solution save stamp stem";

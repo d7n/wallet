@@ -1,1 +1,1 @@
-var mnemonic = "decide federal critic tape excess enact embody crucial kind chef alarm cash";
+var mnemonic = "book jump diesel donkey art cement enlist expect bicycle cigar never mix";

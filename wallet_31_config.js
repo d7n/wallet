@@ -1,1 +1,1 @@
-var mnemonic = "guilt screen cup canvas lecture edge post animal girl minor combine useless";
+var mnemonic = "milk draft ceiling hamster source web enter roast leave clip amount lonely";

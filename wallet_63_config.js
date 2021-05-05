@@ -1,1 +1,1 @@
-var mnemonic = "mother fat hint loan lounge flee climb initial traffic promote stay bottom";
+var mnemonic = "napkin garment lawn joke clerk assume flavor virus assist mosquito electric regular";

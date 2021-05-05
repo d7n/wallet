@@ -1,1 +1,1 @@
-var mnemonic = "dismiss utility hard resource emerge build nurse stock laundry silk purity chalk";
+var mnemonic = "apart turn police profit priority grab mosquito truck next pink raise volcano";

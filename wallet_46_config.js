@@ -1,1 +1,1 @@
-var mnemonic = "repeat stereo inmate enter genre output when hill add wealth want lyrics";
+var mnemonic = "teach panda drill force famous elbow rocket swap regret daughter because popular";

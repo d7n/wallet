@@ -1,1 +1,1 @@
-var mnemonic = "comic deer castle march moon goddess tag high afraid bitter skirt oak";
+var mnemonic = "unable floor juice fuel tomorrow seed main object bind shock hill hover";

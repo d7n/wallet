@@ -1,1 +1,1 @@
-var mnemonic = "cram come error field legend repeat discover client hobby master accident yard";
+var mnemonic = "phrase remember region yard garment deliver thank treat steel sail dismiss engine";

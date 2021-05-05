@@ -1,1 +1,1 @@
-var mnemonic = "truck agree version lawn amount multiply maid elegant auction lawsuit wish winter";
+var mnemonic = "taxi flower obscure dune wink lonely amused comfort bean guitar isolate powder";

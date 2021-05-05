@@ -1,1 +1,1 @@
-var mnemonic = "shallow luxury animal mammal immense popular spring drop artwork end toast design";
+var mnemonic = "happy broccoli runway inmate cousin wrestle music plug bid giggle ranch change";

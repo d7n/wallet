@@ -1,1 +1,1 @@
-var mnemonic = "aerobic bus hybrid decrease valve simple mystery reduce ceiling apology amount whip";
+var mnemonic = "razor mind eager spare disagree question carbon chef admit poverty science ability";

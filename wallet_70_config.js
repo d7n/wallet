@@ -1,1 +1,1 @@
-var mnemonic = "reopen fun seek mixed ignore sentence close off eight model tourist squirrel";
+var mnemonic = "tattoo bar ski devote space oyster soul match jump gun shrug royal";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow few piece practice entry lesson acid dinosaur pupil rotate divide rare";
+var mnemonic = "expose delay ice fame dizzy survey vote ridge dwarf giggle ivory ridge";

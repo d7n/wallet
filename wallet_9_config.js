@@ -1,1 +1,1 @@
-var mnemonic = "assume enter nurse strong supreme enemy panel rich chapter carry scatter orchard";
+var mnemonic = "push joy raw radio dynamic mango guilt execute couple atom absorb post";

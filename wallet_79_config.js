@@ -1,1 +1,1 @@
-var mnemonic = "exhibit apology attack symptom sing poem tomorrow permit giant upon amateur latin";
+var mnemonic = "truth cross measure track sketch ordinary success medal switch juice hard century";

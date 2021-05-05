@@ -1,1 +1,1 @@
-var mnemonic = "cannon bottom umbrella friend used merry misery crouch party lyrics boat dust";
+var mnemonic = "diagram phrase remind select hard slot spread busy reveal blood pitch join";
