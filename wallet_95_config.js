@@ -1,1 +1,1 @@
-var mnemonic = "hazard purpose worry buffalo pulp cement area slot carry clog cake anxiety";
+var mnemonic = "beef slogan bind fiction sock oven lunch marine emotion monitor reunion buffalo";

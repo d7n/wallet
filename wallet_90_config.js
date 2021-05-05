@@ -1,1 +1,1 @@
-var mnemonic = "alter turtle laptop cannon lecture sign diet wild check fetch decade bread";
+var mnemonic = "insane produce frost vessel joy party duck security choice defy toilet fabric";

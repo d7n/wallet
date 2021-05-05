@@ -1,1 +1,1 @@
-var mnemonic = "vanish expand fork finish sketch enter media enrich absorb exclude endless velvet";
+var mnemonic = "coil task gallery glove govern faith spike toe agent bubble slender pledge";

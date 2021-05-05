@@ -1,1 +1,1 @@
-var mnemonic = "fame napkin feature organ orphan false want want pole bulk loan dynamic";
+var mnemonic = "explain yellow two bachelor scene absorb common spin tiny own tribe vast";

@@ -1,1 +1,1 @@
-var mnemonic = "cereal crater cave engine regret moon neutral fog path critic exit shop";
+var mnemonic = "visa announce daughter casual evidence light prize image glide elegant milk cash";

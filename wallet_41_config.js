@@ -1,1 +1,1 @@
-var mnemonic = "wrap discover cloth embark account step need what sign sister burger vague";
+var mnemonic = "benefit box jacket correct potato draw shrimp ivory defy recall various poet";

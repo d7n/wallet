@@ -1,1 +1,1 @@
-var mnemonic = "inhale gravity stem random wild tower unable daughter melody nature core uniform";
+var mnemonic = "moon little jaguar trade clap ordinary atom wheel dice rifle upgrade mango";

@@ -1,1 +1,1 @@
-var mnemonic = "genre job proud unhappy small snow dove modify boss mansion junior satisfy";
+var mnemonic = "peanut bachelor inhale raven grit gasp fabric gorilla cheap account wing wealth";

@@ -1,1 +1,1 @@
-var mnemonic = "connect glide female private chaos situate hip explain smooth math climb sugar";
+var mnemonic = "merit glide popular moon jewel attitude engine unable vehicle jacket human verb";

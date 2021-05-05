@@ -1,1 +1,1 @@
-var mnemonic = "senior old couple digital arrange pave excess lumber sock over address noise";
+var mnemonic = "sorry good thing credit fall fence captain tag brain country forest such";

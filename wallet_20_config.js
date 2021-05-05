@@ -1,1 +1,1 @@
-var mnemonic = "genuine tip tissue onion winner stairs junk chicken vocal twelve pen twin";
+var mnemonic = "powder aware carbon melt maximum cushion roof lonely either mushroom foot park";

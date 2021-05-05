@@ -1,1 +1,1 @@
-var mnemonic = "south victory quality verb number typical twelve expect slender cage genuine citizen";
+var mnemonic = "funny pact during choice wool speed elbow tomorrow north wait ride forest";

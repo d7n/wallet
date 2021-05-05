@@ -1,1 +1,1 @@
-var mnemonic = "intact ramp tent error donor bench genuine when team garden guilt cushion";
+var mnemonic = "spider goat doctor mansion ivory guilt bicycle sand slush mix topic black";

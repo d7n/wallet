@@ -1,1 +1,1 @@
-var mnemonic = "reveal jazz near remember source divide green veteran purpose adapt frozen bus";
+var mnemonic = "fluid check best sand secret rigid hurt maid fish divorce exchange busy";

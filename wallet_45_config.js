@@ -1,1 +1,1 @@
-var mnemonic = "sell layer purchase review armor mystery fitness merge sick ridge sea impose";
+var mnemonic = "fiber climb offer issue close cross toe pass person federal idea aisle";

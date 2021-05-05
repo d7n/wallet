@@ -1,1 +1,1 @@
-var mnemonic = "there culture lion blast aspect drill vivid rent bless insane giant wealth";
+var mnemonic = "season vivid impose harvest paddle resist push segment hip vote planet metal";

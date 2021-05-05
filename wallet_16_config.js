@@ -1,1 +1,1 @@
-var mnemonic = "spray list tired slam shallow visit nice shove timber series elephant trim";
+var mnemonic = "coconut garbage original spend banner mechanic walk valve talk daughter easily border";

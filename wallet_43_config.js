@@ -1,1 +1,1 @@
-var mnemonic = "little food virus actress average open coyote pitch trust legend clinic cruel";
+var mnemonic = "shy calm replace found inflict extra receive must host video slight gesture";

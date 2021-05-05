@@ -1,1 +1,1 @@
-var mnemonic = "liquid vanish express captain divorce park blind shrug child ranch fork swap";
+var mnemonic = "course decorate village record fall uniform slight empty mushroom toast text total";

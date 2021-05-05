@@ -1,1 +1,1 @@
-var mnemonic = "action upon wire destroy setup pizza verify bicycle carry rebuild film spray";
+var mnemonic = "peanut wolf mail remind essay captain match caught wood stool portion actress";

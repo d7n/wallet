@@ -1,1 +1,1 @@
-var mnemonic = "drive powder print expose session worth museum pig suffer tone run bind";
+var mnemonic = "unhappy valley arctic divide differ category hard sniff shine merry tag toward";

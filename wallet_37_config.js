@@ -1,1 +1,1 @@
-var mnemonic = "fresh lobster problem brass deposit remain lazy erupt mixture property volcano peace";
+var mnemonic = "old system wine rigid unfold medal beauty screen talent youth define poverty";

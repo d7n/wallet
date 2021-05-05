@@ -1,1 +1,1 @@
-var mnemonic = "alarm they gasp poverty glare swarm tag walnut tape pencil siege veteran";
+var mnemonic = "army sheriff fade husband buddy electric taste runway uniform glove grass wish";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy close this morning nephew luggage stone toilet already myself mimic fashion";
+var mnemonic = "staff across license peanut truth head smoke plug grant joke guilt art";

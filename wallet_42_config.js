@@ -1,1 +1,1 @@
-var mnemonic = "remind bullet faculty call again position awake same quality glass clever soda";
+var mnemonic = "rice trend earth draft require transfer bounce change wolf double snap come";

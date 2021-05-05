@@ -1,1 +1,1 @@
-var mnemonic = "casino device summer aspect venue harsh cattle wave dog million armed enact";
+var mnemonic = "elephant home globe faith hair chase banana expire rail dismiss fan vault";

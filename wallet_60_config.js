@@ -1,1 +1,1 @@
-var mnemonic = "rib sting kind tattoo tone forget lottery update hood onion whip episode";
+var mnemonic = "body rare purse alien favorite crunch again layer stage other energy moral";

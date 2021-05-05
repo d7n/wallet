@@ -1,1 +1,1 @@
-var mnemonic = "volume wrong wrap country liar release sister chalk easily hamster harbor galaxy";
+var mnemonic = "photo disagree fiction inmate power another veteran dumb oblige tragic miracle banana";

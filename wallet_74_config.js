@@ -1,1 +1,1 @@
-var mnemonic = "find cost bulb charge tribe grant final will warm remain you among";
+var mnemonic = "same satoshi artwork vault intact cause slice soap seminar rug notable come";

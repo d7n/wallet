@@ -1,1 +1,1 @@
-var mnemonic = "hard minute develop brain square harvest genius sure kiss luxury gate soldier";
+var mnemonic = "venue bounce stuff affair height youth maze roof amount evoke beach armor";

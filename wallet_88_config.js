@@ -1,1 +1,1 @@
-var mnemonic = "tortoise ticket dirt youth liberty net ready buffalo will code visa guide";
+var mnemonic = "valve congress inform spatial heavy hotel friend leg click word carbon theme";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn parade pilot course leisure crystal dust palm social jungle inflict planet";
+var mnemonic = "record busy rose machine foster divide skull climb escape initial relief unveil";

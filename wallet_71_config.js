@@ -1,1 +1,1 @@
-var mnemonic = "fantasy derive wrist abandon sponsor logic that minute picnic day wonder bridge";
+var mnemonic = "village position myself melt wall loyal spend equal token empower possible turkey";

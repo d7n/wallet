@@ -1,1 +1,1 @@
-var mnemonic = "release skate improve onion immense bottom adult auto giggle torch wolf repair";
+var mnemonic = "hope sport history yard blanket gap render panic crush suggest now come";

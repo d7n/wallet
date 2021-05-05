@@ -1,1 +1,1 @@
-var mnemonic = "outdoor siege plastic polar gown enjoy night include wink runway until hold";
+var mnemonic = "brave boy winner imitate usage essay hello swift mask either zone tackle";

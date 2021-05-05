@@ -1,1 +1,1 @@
-var mnemonic = "across trouble media soap double online six point about adult shift small";
+var mnemonic = "symbol frequent decade tragic weekend acquire view nature type enroll smooth resemble";

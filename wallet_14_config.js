@@ -1,1 +1,1 @@
-var mnemonic = "setup city asset zebra artist future barrel fold eternal vacant shrimp item";
+var mnemonic = "screen attract neither tragic exile genre strike waste ill text ring settle";

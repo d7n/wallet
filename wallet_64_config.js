@@ -1,1 +1,1 @@
-var mnemonic = "scale nothing just custom path grape solar sudden pond stereo vacant actress";
+var mnemonic = "stamp mutual torch master midnight glory profit wrong slab guess off embrace";

@@ -1,1 +1,1 @@
-var mnemonic = "beauty mountain minute below dumb umbrella helmet zero proud donkey fiction melody";
+var mnemonic = "desk behave area enhance attend across bread food imitate jungle check uphold";

@@ -1,1 +1,1 @@
-var mnemonic = "quick goat logic blanket occur breeze ecology alpha ethics fine diesel denial";
+var mnemonic = "raccoon cousin extra hidden issue hurdle chat patient problem loud bird vote";

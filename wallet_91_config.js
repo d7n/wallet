@@ -1,1 +1,1 @@
-var mnemonic = "symptom oppose mouse reduce swear fuel early bronze loyal parrot birth pizza";
+var mnemonic = "ride animal angry exhaust pipe clerk kangaroo blame output online pulp long";

@@ -1,1 +1,1 @@
-var mnemonic = "teach loud charge bottom toddler pyramid hungry creek hidden oval save sign";
+var mnemonic = "method audit endless color sea defense pretty identify pond rate wheel ready";

@@ -1,1 +1,1 @@
-var mnemonic = "world tent position arena wrap atom dirt stone history primary modify retreat";
+var mnemonic = "write aerobic cigar unfold become midnight insane humor wine armor problem west";

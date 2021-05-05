@@ -1,1 +1,1 @@
-var mnemonic = "air penalty sketch object hybrid cereal recall judge great guitar flag stable";
+var mnemonic = "toddler blur job indicate life month found install uncover horn lion soccer";

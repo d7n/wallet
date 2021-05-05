@@ -1,1 +1,1 @@
-var mnemonic = "tribe capital fame escape reform boil marriage divide imitate quality fabric baby";
+var mnemonic = "tank rely moon dismiss subway fury develop immense bamboo more warm village";

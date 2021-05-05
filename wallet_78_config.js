@@ -1,1 +1,1 @@
-var mnemonic = "hello pole attend early miracle want imitate proof powder express riot stereo";
+var mnemonic = "clinic leave drama open upper check clump air reduce tell faculty witness";

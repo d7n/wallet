@@ -1,1 +1,1 @@
-var mnemonic = "increase devote fire steel van wet mail weasel month hospital diary flock";
+var mnemonic = "farm crucial price hawk cram bracket glide pizza risk normal inside ethics";

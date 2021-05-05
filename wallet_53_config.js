@@ -1,1 +1,1 @@
-var mnemonic = "okay nut toss joy kidney club deny husband judge edit shrug review";
+var mnemonic = "clump brick front tilt photo clog clock cannon benefit live twin fancy";

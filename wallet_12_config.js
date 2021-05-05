@@ -1,1 +1,1 @@
-var mnemonic = "unknown rare artwork resist change area address notable vacuum people country media";
+var mnemonic = "sponsor comic pond clap glance body sunny vital pattern front oblige episode";

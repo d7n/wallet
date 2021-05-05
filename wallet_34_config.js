@@ -1,1 +1,1 @@
-var mnemonic = "such broccoli jazz ecology easily vapor mule sound pact episode eyebrow barrel";
+var mnemonic = "ship vicious pair immense chunk ostrich ostrich name wrestle feel dinner security";

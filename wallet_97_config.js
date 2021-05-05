@@ -1,1 +1,1 @@
-var mnemonic = "note pipe donor fashion cup sponsor fatigue slide bid scatter quick oblige";
+var mnemonic = "cabin keen hope process old child govern soccer egg someone pilot spot";

@@ -1,1 +1,1 @@
-var mnemonic = "hurry walnut lend still tissue review service knee cram cash inch broccoli";
+var mnemonic = "solve average pig snap advice toss fun noble same peasant canoe unknown";

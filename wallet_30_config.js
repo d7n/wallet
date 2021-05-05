@@ -1,1 +1,1 @@
-var mnemonic = "roast hockey recipe forum announce error insane loop bulb enter march inject";
+var mnemonic = "trap armed element virtual hurdle picnic apple enforce mosquito worth lyrics often";

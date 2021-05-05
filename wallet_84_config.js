@@ -1,1 +1,1 @@
-var mnemonic = "trap organ when steak lake extra glue muffin idle canal unique pig";
+var mnemonic = "emerge calm cargo diagram deer breeze outer token meadow token settle blast";

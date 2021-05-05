@@ -1,1 +1,1 @@
-var mnemonic = "doctor chapter loan purpose husband rough busy theory timber response sausage rack";
+var mnemonic = "card usage brand hamster gospel mountain timber tilt guide route fiscal sentence";

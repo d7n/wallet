@@ -1,1 +1,1 @@
-var mnemonic = "smooth run used put health chronic usual flavor shuffle voice hazard matrix";
+var mnemonic = "same second squirrel patient exchange valley useless what either obscure pause often";

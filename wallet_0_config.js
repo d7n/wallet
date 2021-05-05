@@ -1,1 +1,1 @@
-var mnemonic = "capital cup royal catch mechanic abstract hurt lesson humor slow similar order";
+var mnemonic = "write suit electric nice bundle ignore injury cover father usual april clock";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny daughter endorse basic veteran nerve arch affair coyote found vehicle much";
+var mnemonic = "enable absurd amount canvas pulse canal tooth rain ivory warrior shadow stock";

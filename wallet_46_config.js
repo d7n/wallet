@@ -1,1 +1,1 @@
-var mnemonic = "soap honey museum guitar upset dash rather floor net wage twin endless";
+var mnemonic = "suggest blanket faint mechanic mercy screen tiny intact isolate frame jazz sort";

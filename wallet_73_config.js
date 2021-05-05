@@ -1,1 +1,1 @@
-var mnemonic = "elbow question bulk boost theme collect know purpose soldier ridge donkey bracket";
+var mnemonic = "sort dash river eager artwork level husband treat curious chunk subway ramp";

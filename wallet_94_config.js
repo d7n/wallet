@@ -1,1 +1,1 @@
-var mnemonic = "empower doctor crop magic vacant economy feel theory movie admit young fog";
+var mnemonic = "trigger glove electric common soldier state solid caught cram van mention cycle";

@@ -1,1 +1,1 @@
-var mnemonic = "inch valley apart over cry crane warm dizzy rose wash return jaguar";
+var mnemonic = "black rhythm forest metal dad lonely ripple use edit top twenty stay";

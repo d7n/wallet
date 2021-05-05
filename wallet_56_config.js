@@ -1,1 +1,1 @@
-var mnemonic = "bid february ask mosquito twice either pottery hover link cook slender image";
+var mnemonic = "few check goose symptom amazing amazing staff price mango pizza adult donor";

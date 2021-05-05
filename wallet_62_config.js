@@ -1,1 +1,1 @@
-var mnemonic = "release market elevator insane chimney add uphold method anxiety congress cry pride";
+var mnemonic = "gold infant twice year govern forest either design law run cigar recycle";

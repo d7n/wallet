@@ -1,1 +1,1 @@
-var mnemonic = "permit dinosaur sketch eager beyond material isolate puzzle horn fitness satoshi orient";
+var mnemonic = "govern exist artist miracle fan uncover song security adult grain minor length";

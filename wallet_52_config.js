@@ -1,1 +1,1 @@
-var mnemonic = "equal layer action shine pilot universe heavy defense normal magic strategy before";
+var mnemonic = "february taste goose juice narrow canyon kangaroo vocal cash soccer this document";

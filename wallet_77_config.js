@@ -1,1 +1,1 @@
-var mnemonic = "kidney sea cradle gaze skin inch one quality merry scout beyond useless";
+var mnemonic = "creek write miracle around beach venue promote window access primary way artist";

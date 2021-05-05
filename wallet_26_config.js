@@ -1,1 +1,1 @@
-var mnemonic = "check photo retire apart proof fitness satoshi nurse hundred suggest certain element";
+var mnemonic = "hard fresh light asset employ float reopen post pipe warfare tide crumble";

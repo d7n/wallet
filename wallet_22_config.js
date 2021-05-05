@@ -1,1 +1,1 @@
-var mnemonic = "today agree city charge radar weird damage sand bottom inch faculty stumble";
+var mnemonic = "pupil excess island mask that daring panic grid praise stem cactus old";

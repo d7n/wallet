@@ -1,1 +1,1 @@
-var mnemonic = "evolve brave love pill they horror program wool mother team first hidden";
+var mnemonic = "silver earth ancient spatial help fresh large mule keep advance tiger buddy";

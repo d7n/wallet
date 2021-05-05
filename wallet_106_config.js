@@ -1,1 +1,1 @@
-var mnemonic = "local helmet rebel priority slim pull poet satoshi hurry man canoe amused";
+var mnemonic = "bronze cattle error addict tourist bulb nominee eagle narrow accuse expect sock";

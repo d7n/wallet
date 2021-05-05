@@ -1,1 +1,1 @@
-var mnemonic = "price sibling absurd chaos market steel blouse video prize message moon poet";
+var mnemonic = "diary soccer visa boss rough uphold effort print intact egg ranch coral";

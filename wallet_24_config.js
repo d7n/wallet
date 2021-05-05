@@ -1,1 +1,1 @@
-var mnemonic = "fix reveal blast lumber climb above cherry crane nasty arena beef mass";
+var mnemonic = "swear gorilla runway minor such pact enhance citizen desk worth clever damp";

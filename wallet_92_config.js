@@ -1,1 +1,1 @@
-var mnemonic = "leader unit estate reflect ceiling deny saddle reveal expire volcano aisle fatigue";
+var mnemonic = "model cake fruit evoke fly board mother visa depend liberty nerve dry";

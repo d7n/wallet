@@ -1,1 +1,1 @@
-var mnemonic = "else ignore citizen fossil exhibit warfare safe fossil apart unhappy exile arctic";
+var mnemonic = "scissors over build fall cruel kangaroo pioneer regular hollow dream marine tooth";

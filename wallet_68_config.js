@@ -1,1 +1,1 @@
-var mnemonic = "pink crop shy follow rival load lend tide head account oppose pumpkin";
+var mnemonic = "limb govern spatial admit boy nasty spend trap move oyster spare script";

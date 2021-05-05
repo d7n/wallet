@@ -1,1 +1,1 @@
-var mnemonic = "wine maximum marriage judge repair helmet like mirror fresh grain hire doctor";
+var mnemonic = "such fabric sibling actress teach spread upset save flat noodle correct fat";

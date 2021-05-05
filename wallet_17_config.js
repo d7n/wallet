@@ -1,1 +1,1 @@
-var mnemonic = "cluster tenant hard reunion frequent aunt boost anger rare shrug arm gather";
+var mnemonic = "more vault couple tent plastic come arrow banana patient correct solar oxygen";

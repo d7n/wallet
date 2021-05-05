@@ -1,1 +1,1 @@
-var mnemonic = "walk naive turtle category tag wrist buddy inquiry man capable limb episode";
+var mnemonic = "staff husband nature muscle alien moral skill erase february boat drill taxi";

@@ -1,1 +1,1 @@
-var mnemonic = "fiscal bicycle over silly hawk where gasp permit dice ordinary extra pave";
+var mnemonic = "cabbage hill gallery wrong code always plate record off grab fire habit";

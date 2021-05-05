@@ -1,1 +1,1 @@
-var mnemonic = "unveil armor recipe airport promote salon pen aim suspect clarify twenty satisfy";
+var mnemonic = "camera tenant notable parrot loud hunt answer dash drip layer beef penalty";

@@ -1,1 +1,1 @@
-var mnemonic = "supreme camera smart return embody alcohol dry finish cave utility subway job";
+var mnemonic = "suit tobacco kid stairs lawn ozone glance gift float stand mixture layer";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst struggle trial return shrug various carbon away robot decide private wait";
+var mnemonic = "decrease random cigar disagree panel buffalo faith siege grace wet wet ski";

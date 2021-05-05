@@ -1,1 +1,1 @@
-var mnemonic = "idea sponsor brand two relax pulp witness tongue nest staff burst wish";
+var mnemonic = "slush love enforce hurt outdoor leisure measure this sail cinnamon notice original";

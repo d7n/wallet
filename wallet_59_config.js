@@ -1,1 +1,1 @@
-var mnemonic = "deputy arm junk page similar food bitter jar jacket spot float master";
+var mnemonic = "sunny lunch shadow scene acid entry protect hurt nut charge pink pond";

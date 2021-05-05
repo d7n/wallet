@@ -1,1 +1,1 @@
-var mnemonic = "rally nose direct piece wrap champion dance hurry kick clarify spread diesel";
+var mnemonic = "library girl spoil invest door water bone caution play vehicle innocent educate";

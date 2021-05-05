@@ -1,1 +1,1 @@
-var mnemonic = "dirt angry correct brain amused differ noise crowd crystal gather hour ankle";
+var mnemonic = "right bomb check velvet when fish glimpse vacant atom canyon skill album";

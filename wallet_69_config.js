@@ -1,1 +1,1 @@
-var mnemonic = "absent feature must motion mechanic sound state tone family chest during family";
+var mnemonic = "conduct much concert wide victory trouble type myth any dinosaur hello clown";

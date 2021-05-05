@@ -1,1 +1,1 @@
-var mnemonic = "chef remain field shrimp humor display erode act blue shine bonus ramp";
+var mnemonic = "believe rocket peace awesome pony saddle version immense decorate still actress bottom";
