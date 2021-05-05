@@ -1,1 +1,1 @@
-var mnemonic = "cupboard brisk decade cactus congress language marble grief document prefer tumble prefer";
+var mnemonic = "poet enhance file shaft message speak pulse aspect hedgehog pyramid fit opera";

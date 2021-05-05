@@ -1,1 +1,1 @@
-var mnemonic = "pulp shoot shrimp royal sister marine awake color utility strategy drop turtle";
+var mnemonic = "extra fault whisper smooth since provide order physical stomach public supreme course";

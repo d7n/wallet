@@ -1,1 +1,1 @@
-var mnemonic = "elder blade hill inch soccer slim parade april ketchup marriage dwarf output";
+var mnemonic = "daring soldier rare solve chimney pudding firm taste whale foot ten submit";

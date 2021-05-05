@@ -1,1 +1,1 @@
-var mnemonic = "glue motion rare weapon spawn sting stumble worth sausage furnace choice baby";
+var mnemonic = "detect rabbit property idea donkey sauce short fortune success power olive ordinary";

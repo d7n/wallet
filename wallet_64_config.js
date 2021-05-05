@@ -1,1 +1,1 @@
-var mnemonic = "guilt work tunnel hip diesel neglect cart fun casino permit vapor sorry";
+var mnemonic = "bench extra chief toss anger mix lawsuit close slender ankle napkin weekend";

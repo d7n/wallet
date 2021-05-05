@@ -1,1 +1,1 @@
-var mnemonic = "entry shoot strategy cake picnic brick text diagram cliff plunge analyst holiday";
+var mnemonic = "grid naive chase future gravity pencil heart all provide input turtle gold";

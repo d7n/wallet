@@ -1,1 +1,1 @@
-var mnemonic = "ready culture exact invite cream air label foster extend bulb couch try";
+var mnemonic = "before barely level visual issue vendor caution object together category solid between";

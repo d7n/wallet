@@ -1,1 +1,1 @@
-var mnemonic = "attend quality tomorrow correct home comfort solar torch essence bomb swing phone";
+var mnemonic = "august dog jewel neglect cheese sugar approve vintage pet fiber fatal episode";

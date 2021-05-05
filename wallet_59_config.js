@@ -1,1 +1,1 @@
-var mnemonic = "horn silly fiction arrive swarm hat design property enhance unveil vendor wagon";
+var mnemonic = "then motor delay uncle install desk crisp receive hen put advice reform";

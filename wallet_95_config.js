@@ -1,1 +1,1 @@
-var mnemonic = "second green recipe expose gown erosion double dream bulb horn someone poet";
+var mnemonic = "jacket cluster legend kid nasty enrich unhappy phone floor action pond resource";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy pool horse evolve fury review result payment head vacuum novel noble";
+var mnemonic = "kangaroo behave utility illegal present ivory dune modify pill team again reform";

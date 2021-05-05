@@ -1,1 +1,1 @@
-var mnemonic = "subway enforce powder winner kangaroo require assist delay lawn burden artist panther";
+var mnemonic = "number void suggest coach snake tissue crack lawn much correct traffic brass";

@@ -1,1 +1,1 @@
-var mnemonic = "medal various couch family wasp multiply island rally head front night tumble";
+var mnemonic = "foil creek gold exact life bring gaze prefer steel blanket raccoon invite";

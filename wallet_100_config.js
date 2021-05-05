@@ -1,1 +1,1 @@
-var mnemonic = "vapor second dragon bid need dwarf essay dentist twenty slim thrive middle";
+var mnemonic = "census tool begin chronic injury dry pave pluck truth easily consider clown";

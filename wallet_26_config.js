@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon nest athlete elegant sphere conduct monkey portion such crowd core mixture";
+var mnemonic = "two tell wise federal salad worry gloom ladder swift mind era sight";

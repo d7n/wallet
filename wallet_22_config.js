@@ -1,1 +1,1 @@
-var mnemonic = "inflict muffin library index hawk naive sell absurd rough pilot hurt ozone";
+var mnemonic = "possible stick tired trash mom arrive rebuild energy cattle angry leisure deliver";

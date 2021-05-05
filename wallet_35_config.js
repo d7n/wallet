@@ -1,1 +1,1 @@
-var mnemonic = "urban olive soul point argue eternal profit snack monster rookie speak surge";
+var mnemonic = "boost mask series worry punch possible illness peanut method answer small cactus";

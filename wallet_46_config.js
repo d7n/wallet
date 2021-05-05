@@ -1,1 +1,1 @@
-var mnemonic = "secret autumn truth message wall there cash tiny exotic where uphold weird";
+var mnemonic = "dignity quit swap claim hour skin crash dentist force caught head pattern";

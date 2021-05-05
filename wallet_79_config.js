@@ -1,1 +1,1 @@
-var mnemonic = "escape future bounce year shoulder heart gospel nothing toy hawk undo maze";
+var mnemonic = "silent alert know swim renew car summer future muffin movie shoe radar";

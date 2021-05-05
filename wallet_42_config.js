@@ -1,1 +1,1 @@
-var mnemonic = "group magic salon pulp victory garlic knee mobile reduce hill wet spice";
+var mnemonic = "caught bright give define shield palace frost arm body tower kind kidney";

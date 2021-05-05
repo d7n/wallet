@@ -1,1 +1,1 @@
-var mnemonic = "weekend snow unfold soccer armor moral legend degree army glimpse arch disorder";
+var mnemonic = "cram excuse mushroom proud life slow lunch autumn ketchup thumb fork tattoo";

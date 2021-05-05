@@ -1,1 +1,1 @@
-var mnemonic = "rhythm brush river velvet army hat clean type film swamp pact evolve";
+var mnemonic = "scrub glove erupt paddle test armed engine marine settle adjust fan power";

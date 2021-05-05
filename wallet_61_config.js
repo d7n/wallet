@@ -1,1 +1,1 @@
-var mnemonic = "climb flee become exchange sniff sausage room snow extra elephant trim pepper";
+var mnemonic = "obey team bomb few volume flee bright same paddle theory garage sad";

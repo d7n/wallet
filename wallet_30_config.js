@@ -1,1 +1,1 @@
-var mnemonic = "vanish since over obey boost sunny adult elder pencil tiny second above";
+var mnemonic = "damage remember steel move myself swarm matrix machine recycle please half blue";

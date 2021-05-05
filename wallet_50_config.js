@@ -1,1 +1,1 @@
-var mnemonic = "ivory join humble guilt first coach cram drift license adult double fork";
+var mnemonic = "era volume put train lady check merge build cheese innocent mobile add";

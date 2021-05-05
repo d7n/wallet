@@ -1,1 +1,1 @@
-var mnemonic = "final what august craft diet galaxy sample crouch pizza draft thing rhythm";
+var mnemonic = "list across tissue dismiss exact mail square dentist walk quit bar cry";

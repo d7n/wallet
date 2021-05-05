@@ -1,1 +1,1 @@
-var mnemonic = "clog blush route anchor renew keen shock ecology relax vibrant novel mix";
+var mnemonic = "same depth airport snap immense build card gown anger toss jar phone";

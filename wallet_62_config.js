@@ -1,1 +1,1 @@
-var mnemonic = "horn ahead unusual require parrot gauge wolf length repair suggest north issue";
+var mnemonic = "duck all finish youth tunnel extra solar bird near harvest chunk taxi";

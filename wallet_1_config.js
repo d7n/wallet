@@ -1,1 +1,1 @@
-var mnemonic = "kitchen bundle unveil issue garage orient endorse fiscal large erosion document cool";
+var mnemonic = "wash novel wrong shoulder lawn online scorpion satoshi circle slot possible motor";

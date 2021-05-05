@@ -1,1 +1,1 @@
-var mnemonic = "scare lumber ketchup pause private explain elder winner obey reopen move there";
+var mnemonic = "word robust direct marriage stadium order deliver slide shoe eternal eyebrow suggest";

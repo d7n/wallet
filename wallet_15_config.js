@@ -1,1 +1,1 @@
-var mnemonic = "sun scare brief hurt model dwarf mirror rule float sauce feature fresh";
+var mnemonic = "hill version engine obtain cry clarify legal blue truth barrel furnace envelope";

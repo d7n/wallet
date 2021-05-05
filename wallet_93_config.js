@@ -1,1 +1,1 @@
-var mnemonic = "wreck father kingdom repeat bronze benefit absorb tongue amount clever fork spin";
+var mnemonic = "live release early frown gain small second scare stick fix gorilla rural";

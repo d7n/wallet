@@ -1,1 +1,1 @@
-var mnemonic = "rhythm goddess wealth state model east person patrol mule wine slush item";
+var mnemonic = "critic borrow swap bracket heavy image fragile comic fabric maple pool gas";

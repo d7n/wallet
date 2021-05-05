@@ -1,1 +1,1 @@
-var mnemonic = "fatal material expose awesome salute census produce meadow office mesh net inquiry";
+var mnemonic = "era country throw host vapor goose gas element puppy thumb uncover basket";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy dolphin canoe stool sniff half ostrich indicate inner rough tent mail";
+var mnemonic = "trust entry body derive arrange twist parrot hurdle burden donate wheel motor";

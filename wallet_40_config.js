@@ -1,1 +1,1 @@
-var mnemonic = "orphan thank diagram vanish elegant butter stairs fatal immune prevent verify submit";
+var mnemonic = "laundry lounge length impose mountain sun when empty pink release abstract only";

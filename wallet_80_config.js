@@ -1,1 +1,1 @@
-var mnemonic = "audit gate rack badge crack release arctic sing crane world sound into";
+var mnemonic = "shrug side urge benefit donor august grid quiz true broken employ conduct";

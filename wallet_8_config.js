@@ -1,1 +1,1 @@
-var mnemonic = "pride dawn nominee task lawsuit dinosaur flame kind enough idle extra glance";
+var mnemonic = "scissors craft tired actor birth dance fever night dust marble plastic better";

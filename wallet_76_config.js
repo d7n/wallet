@@ -1,1 +1,1 @@
-var mnemonic = "divert steel slam stable apple tonight soda hurry escape employ around mix";
+var mnemonic = "later anchor hurt collect city runway unknown double donor secret ski autumn";

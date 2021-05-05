@@ -1,1 +1,1 @@
-var mnemonic = "shield rude guard monkey finish sail parade decline setup develop that craft";
+var mnemonic = "load sleep machine image appear favorite legal emotion ginger denial aim twelve";

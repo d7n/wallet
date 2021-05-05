@@ -1,1 +1,1 @@
-var mnemonic = "mystery hard duty excite escape settle canvas bench innocent history top elegant";
+var mnemonic = "drink bind bar assume apart cargo fit local firm check cave hidden";

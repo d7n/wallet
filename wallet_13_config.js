@@ -1,1 +1,1 @@
-var mnemonic = "armor afford skin health match hint digital stable tomato pepper buyer race";
+var mnemonic = "high sibling scale swallow vintage clip tumble health price security prepare goat";

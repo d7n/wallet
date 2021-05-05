@@ -1,1 +1,1 @@
-var mnemonic = "guilt practice frozen throw suit sun cruise silent regret recipe decide sweet";
+var mnemonic = "affair tackle credit noise select vast buffalo decide promote pole tourist color";

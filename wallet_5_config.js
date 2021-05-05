@@ -1,1 +1,1 @@
-var mnemonic = "mixed boost skull outdoor gas scrub pact approve history emerge shallow lift";
+var mnemonic = "little shrimp session tree cousin bacon inflict asthma harbor balance tail salon";

@@ -1,1 +1,1 @@
-var mnemonic = "habit bid tell design refuse since car bridge between hip rookie unfair";
+var mnemonic = "arrange human steak country ethics mom three gather copper empower will chalk";

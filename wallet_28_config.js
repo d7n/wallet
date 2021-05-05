@@ -1,1 +1,1 @@
-var mnemonic = "unaware cargo narrow warm twist april remove chief tribe doll cradle sign";
+var mnemonic = "minor whip coil rebel bamboo rib shoot trust shield wave combine notice";

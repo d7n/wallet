@@ -1,1 +1,1 @@
-var mnemonic = "like robot cable donkey seminar search argue round feed anchor smoke range";
+var mnemonic = "certain material hunt vacant caught cram tornado army scout awake ethics wheel";

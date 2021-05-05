@@ -1,1 +1,1 @@
-var mnemonic = "great green ahead critic pink become loan benefit cactus orbit poem simple";
+var mnemonic = "frame myself rally pride auto guide bird clever noodle vault milk axis";

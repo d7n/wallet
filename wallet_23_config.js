@@ -1,1 +1,1 @@
-var mnemonic = "forget voice slow bread grant hard elephant unhappy shaft daughter conduct nation";
+var mnemonic = "promote orphan educate young recall school kite wealth choice weasel warfare permit";

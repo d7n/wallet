@@ -1,1 +1,1 @@
-var mnemonic = "bind rally race silk rookie quote material problem suffer witness knock effort";
+var mnemonic = "version witness scene trip skill ask summer burst mail child bench noodle";

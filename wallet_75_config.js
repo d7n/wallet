@@ -1,1 +1,1 @@
-var mnemonic = "accident fog clump abstract desert arch crew devote twelve job accident bacon";
+var mnemonic = "boss purpose index palace you stamp reveal staff warm muffin equip observe";

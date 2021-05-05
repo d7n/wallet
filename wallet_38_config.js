@@ -1,1 +1,1 @@
-var mnemonic = "tenant scatter gorilla unknown source obscure dish ritual still cage crawl idea";
+var mnemonic = "predict shoot income car believe spoil health flush october convince turkey wait";

@@ -1,1 +1,1 @@
-var mnemonic = "food bright hub dirt flame industry purity material fetch mimic chuckle noodle";
+var mnemonic = "avocado security improve author focus plunge sea hidden warfare trend expose husband";

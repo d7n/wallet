@@ -1,1 +1,1 @@
-var mnemonic = "since multiply tiny crush private own toast promote fix merry comfort pass";
+var mnemonic = "tennis trumpet wing film topic sleep more hollow depth quality apology fetch";

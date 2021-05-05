@@ -1,1 +1,1 @@
-var mnemonic = "that audit cinnamon check feed custom fix soft stool primary glare picture";
+var mnemonic = "stem update rebel when dawn measure resist skin squeeze wreck such include";

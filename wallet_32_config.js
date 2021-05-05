@@ -1,1 +1,1 @@
-var mnemonic = "spring spike sample road sure hurdle purse hammer custom rate open arrange";
+var mnemonic = "review angle flight boat explain ask grace hurt either mean orbit link";

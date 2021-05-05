@@ -1,1 +1,1 @@
-var mnemonic = "topple wife dial nature pelican pet walnut insect wolf twelve deny visa";
+var mnemonic = "head reject senior captain wild entire beef mimic sick jeans grant sorry";

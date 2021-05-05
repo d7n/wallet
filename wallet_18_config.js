@@ -1,1 +1,1 @@
-var mnemonic = "dress mind genius imitate antenna entry evoke yard shield permit flock horse";
+var mnemonic = "word leisure cage inmate dynamic december venue inhale immense year door alarm";

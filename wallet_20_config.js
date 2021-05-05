@@ -1,1 +1,1 @@
-var mnemonic = "illness portion cigar race diary need ankle polar ranch blame seven comic";
+var mnemonic = "rookie kidney riot wage cave detail one smooth describe cliff scene cheap";

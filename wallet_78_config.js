@@ -1,1 +1,1 @@
-var mnemonic = "void enable vessel acoustic usual bench need decrease onion park swallow reveal";
+var mnemonic = "begin grocery donkey decade media gas scrub output local call poverty section";

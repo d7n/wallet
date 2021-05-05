@@ -1,1 +1,1 @@
-var mnemonic = "firm spike impact clutch narrow head festival cram radio output welcome symbol";
+var mnemonic = "cereal series hundred picture acquire fire annual document flush muffin liberty twelve";

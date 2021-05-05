@@ -1,1 +1,1 @@
-var mnemonic = "yard address mesh demand flower chronic kit enroll install quiz bicycle path";
+var mnemonic = "basket motion ginger cry repeat slender topple weapon abstract major century pass";

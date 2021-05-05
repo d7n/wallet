@@ -1,1 +1,1 @@
-var mnemonic = "slim initial owner planet wheat exile mobile result repair breeze endless hockey";
+var mnemonic = "lobster prosper live hard heart often track awake casino digital planet harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry gauge pepper spoil sorry silent obtain finger notable father leopard person";
+var mnemonic = "warfare teach fancy mechanic measure ignore decade legend maze still lemon member";

@@ -1,1 +1,1 @@
-var mnemonic = "airport leopard wise trip salon marine path soul eager green truck correct";
+var mnemonic = "forget angry mimic mule budget match salon dice decide twin dawn hour";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest tired engage oppose attack prevent dolphin bus suffer jacket fever reveal";
+var mnemonic = "shy shed video salmon easy flag stay tornado unable record portion bitter";

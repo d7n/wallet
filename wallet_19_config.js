@@ -1,1 +1,1 @@
-var mnemonic = "balcony soda remember art tattoo concert suggest miracle refuse smooth crowd trouble";
+var mnemonic = "item above half blur soda vessel bike apple vivid file power music";

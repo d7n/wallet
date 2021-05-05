@@ -1,1 +1,1 @@
-var mnemonic = "jeans any dial stamp swift caught minimum you balcony gas work boat";
+var mnemonic = "home cluster skin nest atom beach normal thank improve afraid maple inner";

@@ -1,1 +1,1 @@
-var mnemonic = "find agent work wasp shrimp paddle able oak educate vapor border design";
+var mnemonic = "spread dice gap option denial august leader absent gaze gauge floor minor";

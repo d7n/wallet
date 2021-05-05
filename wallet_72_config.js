@@ -1,1 +1,1 @@
-var mnemonic = "remove squirrel phone desert cry jaguar document pitch onion timber drop burger";
+var mnemonic = "shift miss want mail slim repeat tackle news popular copper gas across";

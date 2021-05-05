@@ -1,1 +1,1 @@
-var mnemonic = "behind wagon special auction million photo wrestle rose then acoustic hover genuine";
+var mnemonic = "twist will smile idea shoe choice castle dutch pig depth witness steel";

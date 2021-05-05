@@ -1,1 +1,1 @@
-var mnemonic = "human boil wrist fee rally betray junior give lesson sketch immune essence";
+var mnemonic = "crystal opinion grit economy penalty lesson traffic symptom receive illness wish adjust";

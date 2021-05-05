@@ -1,1 +1,1 @@
-var mnemonic = "keen spring ribbon teach defense setup gather stool cheese guard myself soup";
+var mnemonic = "earn foster earn rotate task jewel inquiry material certain salon erupt aim";

@@ -1,1 +1,1 @@
-var mnemonic = "body try little ostrich choice poem crunch pool draw car bonus suffer";
+var mnemonic = "denial escape brain rule simple claim find crawl style oxygen subway rare";

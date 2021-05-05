@@ -1,1 +1,1 @@
-var mnemonic = "evoke wise amused make father virtual crash zebra gym laugh fringe hurt";
+var mnemonic = "angle hat plate crack thunder boy bonus boring chef myself morning street";

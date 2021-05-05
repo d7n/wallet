@@ -1,1 +1,1 @@
-var mnemonic = "wide list chimney orange alpha stem diagram opinion good purpose other deliver";
+var mnemonic = "oval usage fatigue lumber gasp hurdle alpha limb vacant session differ flee";

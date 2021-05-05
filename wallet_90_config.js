@@ -1,1 +1,1 @@
-var mnemonic = "approve beach angle culture effort doctor lunch bachelor shrimp tilt scan laptop";
+var mnemonic = "people tape fitness violin dust stable cheap best come report know omit";

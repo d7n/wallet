@@ -1,1 +1,1 @@
-var mnemonic = "gain year review cinnamon swap penalty run thrive digital gift slab caught";
+var mnemonic = "cross donkey december tortoise assume rich annual math movie novel outer matter";

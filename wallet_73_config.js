@@ -1,1 +1,1 @@
-var mnemonic = "winter mouse call chair ill cousin mirror garbage traffic tourist fragile around";
+var mnemonic = "around minor jungle cook syrup palace enhance brother easily trash input more";

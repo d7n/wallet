@@ -1,1 +1,1 @@
-var mnemonic = "retire dragon shine fuel arena problem infant solar game domain soft favorite";
+var mnemonic = "vibrant topple program jewel unhappy jar ability moon merry strategy indoor royal";

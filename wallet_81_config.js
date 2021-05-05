@@ -1,1 +1,1 @@
-var mnemonic = "second fade fashion beach chat file peasant dolphin need girl simple divert";
+var mnemonic = "actual enforce butter juice orbit flavor perfect cinnamon empty inch acid escape";

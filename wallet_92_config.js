@@ -1,1 +1,1 @@
-var mnemonic = "utility stove aware slogan mushroom banner bleak frame tourist endless violin evil";
+var mnemonic = "wash fossil demise raven paddle tattoo journey liberty frozen favorite chapter little";

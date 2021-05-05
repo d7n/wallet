@@ -1,1 +1,1 @@
-var mnemonic = "industry fault apart sunset sight state orbit also upset welcome actor grain";
+var mnemonic = "chronic grant work comfort auto summer spike knee spell arch smile brain";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel beach spell mountain buyer curve icon split battle school term start";
+var mnemonic = "filter balcony return hip office obscure army able clay visit aerobic whip";

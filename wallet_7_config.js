@@ -1,1 +1,1 @@
-var mnemonic = "dash number version oven summer pride kind speak system forget warrior best";
+var mnemonic = "acid faint fiscal spell prison virus pepper fringe manage swim service equip";

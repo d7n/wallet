@@ -1,1 +1,1 @@
-var mnemonic = "control spike embrace tooth version wisdom region laundry liquid ranch stay clock";
+var mnemonic = "book science auction horn mandate lens midnight flame own flat issue deal";

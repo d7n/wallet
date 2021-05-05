@@ -1,1 +1,1 @@
-var mnemonic = "hair repeat obtain hill coconut soup fat busy boost original curve case";
+var mnemonic = "improve movie invest man word flight course find tool onion erase pass";

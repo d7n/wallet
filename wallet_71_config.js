@@ -1,1 +1,1 @@
-var mnemonic = "slim citizen winter goddess noodle junk measure cube doctor flight weather first";
+var mnemonic = "soon average kingdom behind reunion pepper moon warm churn eye fiscal trust";

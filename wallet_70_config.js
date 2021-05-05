@@ -1,1 +1,1 @@
-var mnemonic = "daring remind bubble actor royal cross ordinary turn certain state enact fury";
+var mnemonic = "cargo number order winter multiply magnet escape blur improve ranch fade cry";

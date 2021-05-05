@@ -1,1 +1,1 @@
-var mnemonic = "oven hidden unlock waste board exit never fee crumble two wink caution";
+var mnemonic = "stay sick else dolphin license route desert youth blanket hen tone rotate";

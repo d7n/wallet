@@ -1,1 +1,1 @@
-var mnemonic = "humor outside major link job arrow amazing champion service advance day phrase";
+var mnemonic = "surround bright couch milk drive diesel smooth scene hybrid goat bone chat";

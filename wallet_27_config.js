@@ -1,1 +1,1 @@
-var mnemonic = "burst toss taxi happy text bundle embrace exclude popular infant tube much";
+var mnemonic = "arm endorse equip require filter case network climb demise service unknown city";

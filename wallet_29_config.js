@@ -1,1 +1,1 @@
-var mnemonic = "outside razor public kitchen era cereal gap delay similar roof brand income";
+var mnemonic = "lady party adult marine firm volume shiver lyrics scatter piece tonight wage";
