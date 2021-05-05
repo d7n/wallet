@@ -1,1 +1,1 @@
-var mnemonic = "wedding dream town obey gossip evolve knife head practice trick blade off";
+var mnemonic = "cousin awesome prepare obvious lava pretty prosper gravity please sweet army opera";

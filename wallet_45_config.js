@@ -1,1 +1,1 @@
-var mnemonic = "tent chalk group wrist begin attack shrimp much announce load bracket embody";
+var mnemonic = "culture dilemma pattern young phone regular drum afford castle vacuum visit strike";

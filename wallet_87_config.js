@@ -1,1 +1,1 @@
-var mnemonic = "venue put execute train tackle citizen meadow rotate cancel bulb bless fly";
+var mnemonic = "mammal gun often dwarf upgrade mango pass toddler weapon fuel harvest creek";

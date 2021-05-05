@@ -1,1 +1,1 @@
-var mnemonic = "pond physical coach occur nephew federal cherry bean brother peanut cancel pause";
+var mnemonic = "together ethics early erupt salon radar distance model cruise can stone unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "blush plunge aisle apple work glow advance horse source assault wasp faculty";
+var mnemonic = "picnic dry awake since useful escape acid ordinary cherry bus reduce weasel";

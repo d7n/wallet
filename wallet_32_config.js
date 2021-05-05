@@ -1,1 +1,1 @@
-var mnemonic = "artwork method cruise feel crazy rubber trade prepare limit fame remind basket";
+var mnemonic = "attract critic slice blade book correct cart fat invest laundry eternal inflict";

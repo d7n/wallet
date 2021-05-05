@@ -1,1 +1,1 @@
-var mnemonic = "steak betray analyst employ frequent feel rifle token tray ramp nephew force";
+var mnemonic = "off fuel pudding hair robot hair lock arena hill nuclear wrong prosper";

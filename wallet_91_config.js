@@ -1,1 +1,1 @@
-var mnemonic = "section fold original position bike bacon ahead trade leisure real art damage";
+var mnemonic = "fortune account depend carbon inform bundle current tuna utility better obtain because";

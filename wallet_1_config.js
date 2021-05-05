@@ -1,1 +1,1 @@
-var mnemonic = "cram used film degree broken shrimp choice life poem bronze caught spend";
+var mnemonic = "crack slight age essay spin match shed relax amateur record deposit absorb";

@@ -1,1 +1,1 @@
-var mnemonic = "plug leopard gym acoustic achieve strong second purchase mass chief refuse pledge";
+var mnemonic = "story magic giggle embrace often valid grass engage focus armor unveil cliff";

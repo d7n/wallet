@@ -1,1 +1,1 @@
-var mnemonic = "praise cargo daring ordinary guilt grass dog bubble crane august whisper poet";
+var mnemonic = "voice denial fruit occur shrug bounce shoe mind rice invest orchard similar";

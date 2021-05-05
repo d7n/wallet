@@ -1,1 +1,1 @@
-var mnemonic = "follow train wink gather duck abandon donor century insane venue smart nation";
+var mnemonic = "cruel spring want seek broken country crew stage vast business blossom foot";

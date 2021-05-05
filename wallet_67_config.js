@@ -1,1 +1,1 @@
-var mnemonic = "nature panel name obey horror fatal street waste crouch enhance hedgehog void";
+var mnemonic = "crew wedding super salad clarify wine win ethics carry cupboard whisper wagon";

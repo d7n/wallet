@@ -1,1 +1,1 @@
-var mnemonic = "source silver involve humble cost discover huge upgrade talent cup wish thumb";
+var mnemonic = "modify pear flush trust cram general sister soft delay crime vocal sustain";

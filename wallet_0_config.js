@@ -1,1 +1,1 @@
-var mnemonic = "dress squirrel heart detail kingdom gift critic melody flat index grid earth";
+var mnemonic = "wedding taxi review bleak garment viable chimney local kingdom uncle gap inspire";

@@ -1,1 +1,1 @@
-var mnemonic = "goat bamboo sister they father sign tuna antenna arrange advice useless dial";
+var mnemonic = "caution wheel current turtle matter drip clarify genre blast hunt almost gossip";

@@ -1,1 +1,1 @@
-var mnemonic = "expose hair label river owner element original sausage agent time elder style";
+var mnemonic = "warrior orphan today burst floor program frog become cat powder cluster wrestle";

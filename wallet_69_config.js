@@ -1,1 +1,1 @@
-var mnemonic = "coffee bounce direct retire over clip evil illegal employ simple cousin leisure";
+var mnemonic = "annual loop screen aspect run fame rural obvious gap gentle giraffe winter";

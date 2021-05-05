@@ -1,1 +1,1 @@
-var mnemonic = "gate possible dumb betray lock release weapon only predict hurdle lab soap";
+var mnemonic = "sugar case course topic unfold match hold squirrel gap session raise cattle";

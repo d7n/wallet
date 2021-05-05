@@ -1,1 +1,1 @@
-var mnemonic = "item gossip judge fashion harsh motion main attract toddler leisure tattoo balcony";
+var mnemonic = "slot bus orient gaze you eagle tomorrow artefact wish monster poem draw";

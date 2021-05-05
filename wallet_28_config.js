@@ -1,1 +1,1 @@
-var mnemonic = "left universe tired dance unfair slab lobster topic course grow steel member";
+var mnemonic = "chat sniff dog render situate sail awesome assume supply choice sibling rib";

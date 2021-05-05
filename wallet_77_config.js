@@ -1,1 +1,1 @@
-var mnemonic = "dinner viable invest jeans scrap engine salmon ensure abstract mango column mirror";
+var mnemonic = "there explain music comfort produce badge bullet they boring great property need";

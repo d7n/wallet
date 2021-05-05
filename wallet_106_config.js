@@ -1,1 +1,1 @@
-var mnemonic = "mushroom image fold citizen whip dignity trap police burden visit sail scorpion";
+var mnemonic = "comfort marriage giraffe loud advice fame town expect used buzz recycle lucky";

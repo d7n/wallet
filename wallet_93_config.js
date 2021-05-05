@@ -1,1 +1,1 @@
-var mnemonic = "rotate ketchup range balance bus art ancient machine announce judge connect armed";
+var mnemonic = "setup tonight merry giraffe attitude dad armed topic balcony present arena dignity";

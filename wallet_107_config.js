@@ -1,1 +1,1 @@
-var mnemonic = "bridge enough identify salon matrix valley ivory bracket invite bomb screen repeat";
+var mnemonic = "clean reform sphere excuse inject kiss apart liberty couple motion sadness hawk";

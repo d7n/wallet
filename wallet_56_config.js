@@ -1,1 +1,1 @@
-var mnemonic = "develop throw laptop account good blanket trip riot wealth skill bulk circle";
+var mnemonic = "opinion lyrics sponsor clutch rapid decade lunar outer tired train option pretty";

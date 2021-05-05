@@ -1,1 +1,1 @@
-var mnemonic = "eight shrug world oxygen hair body ball future common jump coffee slogan";
+var mnemonic = "hard carpet gauge cream ecology weasel fortune night floor castle evoke auction";

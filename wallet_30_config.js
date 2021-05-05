@@ -1,1 +1,1 @@
-var mnemonic = "shuffle vapor play please nice affair melody point nerve marine text that";
+var mnemonic = "fan song crazy night april extend exchange offer make spawn strong priority";

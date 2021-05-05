@@ -1,1 +1,1 @@
-var mnemonic = "exit suggest jeans glass shrug traffic tower inmate dry green rude hazard";
+var mnemonic = "height envelope exhaust grant unable announce kangaroo dog initial ecology try hello";

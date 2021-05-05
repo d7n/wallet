@@ -1,1 +1,1 @@
-var mnemonic = "stem detail sound process awesome reward wait pipe era drum cushion hub";
+var mnemonic = "engage smoke surge shoe brave sister eagle unit goddess lock diesel powder";

@@ -1,1 +1,1 @@
-var mnemonic = "normal mobile glimpse spoon flavor recall expand demand expire color hour icon";
+var mnemonic = "divorce february join rocket aerobic skill embrace favorite wear feed century diet";

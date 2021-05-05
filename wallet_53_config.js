@@ -1,1 +1,1 @@
-var mnemonic = "track galaxy next run estate quit chair increase mobile alert rally helmet";
+var mnemonic = "pluck napkin undo maple volume long gain erupt income pet lend immune";

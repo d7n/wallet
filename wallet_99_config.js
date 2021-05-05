@@ -1,1 +1,1 @@
-var mnemonic = "spawn video express civil solid gentle dinner prepare monitor abandon right luxury";
+var mnemonic = "cook feature choose wish bubble protect right utility fitness brown other volume";

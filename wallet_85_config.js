@@ -1,1 +1,1 @@
-var mnemonic = "airport ask asthma illegal popular absorb rubber rail city soul slam dinosaur";
+var mnemonic = "member elite disagree include cupboard wrestle switch bird daughter engage swear project";

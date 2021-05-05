@@ -1,1 +1,1 @@
-var mnemonic = "negative basic decide essay wife toast rigid toy agent wild tomorrow odor";
+var mnemonic = "metal seminar forum fence rebuild shallow bubble wheat luggage library girl glove";

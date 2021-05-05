@@ -1,1 +1,1 @@
-var mnemonic = "ladder trim soccer only anxiety wise view wine fantasy velvet spoon merit";
+var mnemonic = "real race floor explain blush wonder drink idea agent nation report family";

@@ -1,1 +1,1 @@
-var mnemonic = "foil solution advance aspect blush grape audit smooth sting hub allow peace";
+var mnemonic = "festival useful crazy about later marriage width glare train impose oval ghost";

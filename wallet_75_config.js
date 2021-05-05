@@ -1,1 +1,1 @@
-var mnemonic = "empower hat toy recipe angle actor flash spider they bone satoshi boil";
+var mnemonic = "youth brother fire news excuse milk evidence humor reunion industry country magic";

@@ -1,1 +1,1 @@
-var mnemonic = "member crazy burden flock situate luggage spray dwarf collect swamp spawn thought";
+var mnemonic = "swim invite busy awkward what right real horse census snack link doll";

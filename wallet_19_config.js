@@ -1,1 +1,1 @@
-var mnemonic = "ugly dignity follow certain miss filter vacuum rally live end evolve idea";
+var mnemonic = "hand crunch rib flavor grunt wonder direct raise garage setup business unit";

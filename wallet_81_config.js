@@ -1,1 +1,1 @@
-var mnemonic = "man regular language answer piece season inner scale debris ghost attitude hero";
+var mnemonic = "cheap east olympic army prize buffalo execute bronze labor blossom bounce cloud";

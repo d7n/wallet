@@ -1,1 +1,1 @@
-var mnemonic = "umbrella wire animal domain pledge conduct surprise spread afford runway person sell";
+var mnemonic = "guilt winter nothing wrap gesture biology say burger wink alley dinosaur drift";

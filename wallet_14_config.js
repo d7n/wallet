@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow estate mansion risk short office tourist sell pledge slam vintage stool";
+var mnemonic = "sustain nominee sweet traffic enhance remove annual attitude coconut occur pattern east";

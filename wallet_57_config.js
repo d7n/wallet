@@ -1,1 +1,1 @@
-var mnemonic = "thought stand cage mango scheme smart media wet drink oven vacuum organ";
+var mnemonic = "tail rubber cabin interest resource august hawk coil frozen wasp doll author";

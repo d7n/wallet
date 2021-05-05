@@ -1,1 +1,1 @@
-var mnemonic = "public say skill innocent rough fan half picnic raw reward tired trend";
+var mnemonic = "horror analyst talk skill kidney diamond use team monster bind denial round";

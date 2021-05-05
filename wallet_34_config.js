@@ -1,1 +1,1 @@
-var mnemonic = "dust glow cloud steel valid garlic pupil ugly crush man speak whale";
+var mnemonic = "company alley drip mom upset more social jealous flash dinosaur welcome smoke";

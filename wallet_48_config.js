@@ -1,1 +1,1 @@
-var mnemonic = "hill illegal guilt zero grief disagree loop illness pumpkin chaos artefact noodle";
+var mnemonic = "fog balcony coil bright medal couple common kiss lava income face draft";

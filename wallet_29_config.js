@@ -1,1 +1,1 @@
-var mnemonic = "husband blood globe place gate lift tag total glad echo initial clutch";
+var mnemonic = "type head material level erode artefact dismiss patrol dove slogan hawk remove";

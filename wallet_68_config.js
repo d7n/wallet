@@ -1,1 +1,1 @@
-var mnemonic = "crowd aware achieve direct alley morning doctor mass hidden document drip inch";
+var mnemonic = "depth hundred emerge grid dutch inject mushroom blur bargain fragile genius weekend";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter have sphere write spawn knife energy shoot milk game rebel crisp";
+var mnemonic = "segment month crisp fatal cancel photo vocal prevent chimney fossil buffalo swift";

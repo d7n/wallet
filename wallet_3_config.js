@@ -1,1 +1,1 @@
-var mnemonic = "lawn airport naive license material curtain belt gate ask scout uphold kind";
+var mnemonic = "sound orchard whisper awful elevator liberty egg junior change proud moon stairs";

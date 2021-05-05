@@ -1,1 +1,1 @@
-var mnemonic = "hurdle staff honey exclude wagon sun bright pig birth obvious stumble sauce";
+var mnemonic = "balance simple cushion grid view minor endless blood praise between mixture convince";

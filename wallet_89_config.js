@@ -1,1 +1,1 @@
-var mnemonic = "valley portion pelican clarify plate divorce chunk green possible invest sell plate";
+var mnemonic = "toast sausage noise pilot junior juice remember bachelor common rack real mountain";

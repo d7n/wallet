@@ -1,1 +1,1 @@
-var mnemonic = "uniform atom bleak thought involve hazard dove holiday help draw evolve kidney";
+var mnemonic = "fetch harvest better raw fantasy sheriff cave ranch pond smile reward ignore";

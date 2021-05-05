@@ -1,1 +1,1 @@
-var mnemonic = "illegal mixed phrase execute option total easily liar unveil bid you elephant";
+var mnemonic = "carbon celery salad injury empty kangaroo shiver sing desert lonely mule mix";

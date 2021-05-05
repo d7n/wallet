@@ -1,1 +1,1 @@
-var mnemonic = "artwork buyer rocket food guitar glue lobster rival example art kick need";
+var mnemonic = "easily axis meat summer volcano lamp bid merry rookie almost ill pioneer";

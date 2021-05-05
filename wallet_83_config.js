@@ -1,1 +1,1 @@
-var mnemonic = "rice fancy tray sugar they decorate argue kit anger shuffle false bridge";
+var mnemonic = "laptop basic flash orange bridge often before grow balcony payment position ecology";

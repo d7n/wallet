@@ -1,1 +1,1 @@
-var mnemonic = "pill shoe polar bounce fossil uniform ship live naive hello lawsuit box";
+var mnemonic = "plug defense agent search obvious culture ribbon intact combine chimney dad jewel";

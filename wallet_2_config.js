@@ -1,1 +1,1 @@
-var mnemonic = "chase arrive upgrade thunder small bamboo trumpet random bring fresh taste equal";
+var mnemonic = "wink raise demise breeze obey repair gallery profit top limit popular virus";

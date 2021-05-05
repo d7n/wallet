@@ -1,1 +1,1 @@
-var mnemonic = "turtle ladder hidden inspire immune square quantum useful flee machine salmon noodle";
+var mnemonic = "weather wedding good mom forward popular recipe physical amazing fringe dwarf antenna";

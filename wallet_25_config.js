@@ -1,1 +1,1 @@
-var mnemonic = "soul purchase trap scare rule isolate road brand course web flush there";
+var mnemonic = "proud clinic tide toward wet wine yard reopen maple effort party leopard";

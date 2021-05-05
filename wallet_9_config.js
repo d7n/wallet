@@ -1,1 +1,1 @@
-var mnemonic = "outer forward disorder orient alley dwarf senior ceiling infant normal brief text";
+var mnemonic = "super umbrella royal foam unaware toe one harvest crunch visa evidence gallery";

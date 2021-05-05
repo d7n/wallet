@@ -1,1 +1,1 @@
-var mnemonic = "prosper relief seat grab spin smart lion parrot thought gap cancel tray";
+var mnemonic = "patrol call sick parade bulk hawk witness ecology fitness nature tragic you";

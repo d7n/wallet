@@ -1,1 +1,1 @@
-var mnemonic = "assault behind decide alcohol script frozen you tuna fiscal dose saddle cabin";
+var mnemonic = "various excite tiny noodle fetch easy cabbage antenna aerobic rare lift armor";

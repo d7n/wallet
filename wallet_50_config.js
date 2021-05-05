@@ -1,1 +1,1 @@
-var mnemonic = "neutral old someone dish useful solid supreme occur oppose sweet unfair satoshi";
+var mnemonic = "pumpkin toss miracle magnet beauty brass control impulse imitate awkward float bitter";

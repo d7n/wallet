@@ -1,1 +1,1 @@
-var mnemonic = "sting wool intact syrup food bench nose general genre connect health birth";
+var mnemonic = "ceiling dwarf razor weekend place arrive spread paper badge crime spin antenna";

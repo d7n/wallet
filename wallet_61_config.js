@@ -1,1 +1,1 @@
-var mnemonic = "valve door surround used rug rule orchard bring captain loop scene prevent";
+var mnemonic = "spoon travel edge shrug urge warm foam nuclear upset pattern flock hat";

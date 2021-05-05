@@ -1,1 +1,1 @@
-var mnemonic = "firm decorate decade ability invest reform find angle scene desk nature possible";
+var mnemonic = "forum deer aunt onion traffic panel fatal raven shrimp hen favorite legal";

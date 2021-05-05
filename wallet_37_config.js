@@ -1,1 +1,1 @@
-var mnemonic = "attack word blade exhaust frog divert opinion renew clinic ankle wisdom private";
+var mnemonic = "coil banner night census anchor cherry toe junior casual wish enact claw";

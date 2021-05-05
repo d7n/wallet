@@ -1,1 +1,1 @@
-var mnemonic = "fancy title modify square rookie lend crouch miss among suffer rescue panda";
+var mnemonic = "excite knife trial envelope result robot journey limb cup you panel bottom";

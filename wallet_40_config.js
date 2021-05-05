@@ -1,1 +1,1 @@
-var mnemonic = "journey own barrel beyond work okay sausage rotate copper business inmate mimic";
+var mnemonic = "kiwi network captain method ocean all pulse manage mirror casino giggle trumpet";

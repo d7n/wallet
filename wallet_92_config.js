@@ -1,1 +1,1 @@
-var mnemonic = "subway wood pony farm luxury wait fitness monkey labor strike bunker suspect";
+var mnemonic = "toilet refuse unhappy next around flag clock country arrest develop blood hover";

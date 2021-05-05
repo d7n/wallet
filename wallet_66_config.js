@@ -1,1 +1,1 @@
-var mnemonic = "puzzle neither dry seek tackle deal much similar model casino rebuild noble";
+var mnemonic = "trade assume giggle upper wagon ocean owner grid abstract welcome twin awake";

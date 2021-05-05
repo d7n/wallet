@@ -1,1 +1,1 @@
-var mnemonic = "honey jealous school bird rabbit usage wild fiber motor envelope nurse magic";
+var mnemonic = "explain blind divorce crop hunt hood predict meat tape mushroom iron civil";

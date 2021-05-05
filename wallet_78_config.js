@@ -1,1 +1,1 @@
-var mnemonic = "update benefit nurse buddy already sunny number pave naive add wait blind";
+var mnemonic = "correct pair toe champion nerve tilt card teach material surround network rookie";

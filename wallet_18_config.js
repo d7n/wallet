@@ -1,1 +1,1 @@
-var mnemonic = "dial average glide great goddess disease spread rent inspire just fat stage";
+var mnemonic = "dial magic much monster beef day hill pave inject pistol wise provide";

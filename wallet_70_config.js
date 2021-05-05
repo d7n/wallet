@@ -1,1 +1,1 @@
-var mnemonic = "faith dish narrow intact tired october decrease almost spirit aware style smoke";
+var mnemonic = "paddle primary arrest can cruel item hazard poverty hand poverty indicate business";

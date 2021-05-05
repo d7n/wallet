@@ -1,1 +1,1 @@
-var mnemonic = "eternal explain sentence moment hello window venture obtain lawsuit first key glad";
+var mnemonic = "drift amused indicate blush spring cart flat weather fan devote city vapor";

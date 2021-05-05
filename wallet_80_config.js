@@ -1,1 +1,1 @@
-var mnemonic = "subway utility wire power cigar arctic answer suggest essence debate traffic crucial";
+var mnemonic = "pole push scissors gun broken update staff ecology meat old rifle alien";

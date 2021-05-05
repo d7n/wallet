@@ -1,1 +1,1 @@
-var mnemonic = "heart lake moon group aware aware assist motion timber crouch tomorrow profit";
+var mnemonic = "brain rare leisure theme rhythm mosquito tennis resemble summer legal daughter scale";

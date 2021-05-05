@@ -1,1 +1,1 @@
-var mnemonic = "attract just correct avocado face hammer wealth smoke clever during into bind";
+var mnemonic = "race snake hint state child arrest height about siren worth remain spice";

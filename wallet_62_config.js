@@ -1,1 +1,1 @@
-var mnemonic = "thumb arrest tuition junk tiny piano solar wrestle spy atom actress cinnamon";
+var mnemonic = "cake wink february pyramid friend potato slender congress avocado soap iron promote";
