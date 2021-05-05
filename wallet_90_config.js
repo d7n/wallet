@@ -1,1 +1,1 @@
-var mnemonic = "fresh rug hollow student conduct rug diet swear skin add lion quiz";
+var mnemonic = "breeze ride ivory paddle this emerge scout easy congress review pull seek";

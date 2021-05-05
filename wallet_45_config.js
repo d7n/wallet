@@ -1,1 +1,1 @@
-var mnemonic = "limit fault cannon van wet borrow kid eye small also middle flight";
+var mnemonic = "motor age scrub horn save route notable alone hockey surface just sting";

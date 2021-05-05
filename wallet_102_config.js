@@ -1,1 +1,1 @@
-var mnemonic = "famous essay case rebuild jungle cancel language bridge abuse eagle lab mixture";
+var mnemonic = "maid stuff group expect spice deal purpose weird fat wheel occur finger";

@@ -1,1 +1,1 @@
-var mnemonic = "spray razor news deer delay lyrics effort truck cabin captain ceiling upset";
+var mnemonic = "modify ketchup actress december chronic they laugh catch very trumpet priority swift";

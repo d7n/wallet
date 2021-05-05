@@ -1,1 +1,1 @@
-var mnemonic = "match zoo indoor picture figure certain surprise endorse hospital melt require gun";
+var mnemonic = "renew also false tape lottery mirror place endless kit lunar believe feel";

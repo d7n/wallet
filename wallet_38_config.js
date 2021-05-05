@@ -1,1 +1,1 @@
-var mnemonic = "trap prepare spring frog heavy real hope yard danger panel tray small";
+var mnemonic = "season void term flock scissors dolphin predict pluck board idle beyond what";

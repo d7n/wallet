@@ -1,1 +1,1 @@
-var mnemonic = "twist tell join enemy saddle decade turn correct hope hurdle suspect have";
+var mnemonic = "alien cream roof dirt key series medal illegal damp duty nuclear orange";

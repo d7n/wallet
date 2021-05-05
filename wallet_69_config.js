@@ -1,1 +1,1 @@
-var mnemonic = "document rate jungle raw umbrella access chair grocery cement tomorrow air gain";
+var mnemonic = "situate tennis drop chase act best zone jewel upset style memory leaf";

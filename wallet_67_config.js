@@ -1,1 +1,1 @@
-var mnemonic = "brass display circle invest cinnamon leopard result endless mixture popular snow canyon";
+var mnemonic = "field camera peasant mammal canyon harvest bitter beef beef promote display space";

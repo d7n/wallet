@@ -1,1 +1,1 @@
-var mnemonic = "dry waste cross system shoe amused true venture thumb lesson dinner defense";
+var mnemonic = "rate exact differ chalk dismiss lazy pioneer coast buzz rapid height crazy";

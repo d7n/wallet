@@ -1,1 +1,1 @@
-var mnemonic = "relief control creek civil wrong pride want name crouch robust anchor primary";
+var mnemonic = "universe dwarf check brave trick caution layer voyage theory loan junior pupil";

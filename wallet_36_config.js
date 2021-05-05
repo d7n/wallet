@@ -1,1 +1,1 @@
-var mnemonic = "inform coin ability share simple stadium fly loop tribe menu general fever";
+var mnemonic = "voyage little favorite hunt float green history pencil metal guess gift hurt";

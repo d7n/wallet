@@ -1,1 +1,1 @@
-var mnemonic = "dirt castle oval danger near salad cage old budget earth elite path";
+var mnemonic = "tomorrow dial puppy keep turkey crawl pulse oblige stool stem alert crunch";

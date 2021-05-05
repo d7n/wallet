@@ -1,1 +1,1 @@
-var mnemonic = "goddess tip release purpose mirror novel desk cook void license crowd yellow";
+var mnemonic = "tragic neither lecture access dinosaur flat thank original vacant goddess zebra frequent";

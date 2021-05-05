@@ -1,1 +1,1 @@
-var mnemonic = "local marine develop leaf barrel dress critic they giant joke friend virus";
+var mnemonic = "fashion gun blush gather error pass claim shoe work film fence raise";

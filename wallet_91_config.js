@@ -1,1 +1,1 @@
-var mnemonic = "water bid enemy oven jungle antenna tongue depend siege craft refuse evolve";
+var mnemonic = "road silk maze zebra swap bottom grit brisk sort fatigue burger unhappy";

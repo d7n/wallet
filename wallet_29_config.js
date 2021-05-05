@@ -1,1 +1,1 @@
-var mnemonic = "void witness because kiwi arctic torch trophy scrub enable hen erupt anger";
+var mnemonic = "lottery scout muscle dress quality april report hat segment tower firm stone";

@@ -1,1 +1,1 @@
-var mnemonic = "gate humor pulp six call consider avocado machine biology novel job ridge";
+var mnemonic = "task under modify bachelor mutual seven try print brand snap erode great";

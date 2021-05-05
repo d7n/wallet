@@ -1,1 +1,1 @@
-var mnemonic = "when measure camera frog reason fog awful buzz goat review inspire stay";
+var mnemonic = "design public away fence win trigger clean mystery gravity satoshi dish unfold";

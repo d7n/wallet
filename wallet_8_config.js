@@ -1,1 +1,1 @@
-var mnemonic = "company keen enough zoo wing nest vault bread buffalo buzz claim cry";
+var mnemonic = "door away sell away electric garment level runway quick man material practice";

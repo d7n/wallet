@@ -1,1 +1,1 @@
-var mnemonic = "section wrist twice iron region pumpkin anxiety master sing prefer eagle bundle";
+var mnemonic = "design corn illegal combine infant bar mobile execute badge auto one shiver";

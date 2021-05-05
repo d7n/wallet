@@ -1,1 +1,1 @@
-var mnemonic = "glide dream old minimum mesh dragon paddle seed permit dune scout squeeze";
+var mnemonic = "doctor wrist sorry feature donor pipe congress sniff toward arrive talk ugly";

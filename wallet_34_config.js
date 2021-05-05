@@ -1,1 +1,1 @@
-var mnemonic = "jaguar attitude chronic motor tell hair post guess armed despair doll skill";
+var mnemonic = "cram bread canvas worry soon excuse battle hero defy burger skirt asthma";

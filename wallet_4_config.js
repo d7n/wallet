@@ -1,1 +1,1 @@
-var mnemonic = "text ill shop next gesture bacon purity arena soldier remember scrap fiscal";
+var mnemonic = "museum fame among zebra lottery catch custom grocery toy random valley off";

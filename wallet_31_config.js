@@ -1,1 +1,1 @@
-var mnemonic = "machine unveil denial spatial canvas control push system senior twenty victory govern";
+var mnemonic = "room renew smoke gravity token maple glance bring nominee alarm provide tape";

@@ -1,1 +1,1 @@
-var mnemonic = "aisle apple educate text dinosaur dizzy casino forget involve dice setup final";
+var mnemonic = "dune method always mobile fever beach benefit wing rib disorder wild cheese";

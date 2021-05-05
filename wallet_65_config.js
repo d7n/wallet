@@ -1,1 +1,1 @@
-var mnemonic = "supreme labor episode early private romance cement hobby copy size obscure depart";
+var mnemonic = "size theory tail despair shed this oyster athlete vanish ensure first table";

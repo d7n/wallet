@@ -1,1 +1,1 @@
-var mnemonic = "mixture drift coyote prosper attack ticket van become steel salad limit theory";
+var mnemonic = "spatial great unit street rigid gown timber atom because convince include winter";

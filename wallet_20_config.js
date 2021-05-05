@@ -1,1 +1,1 @@
-var mnemonic = "oblige buddy cause arctic royal basket magnet arrive today luggage figure toy";
+var mnemonic = "eight gravity math rain right step light derive idea civil hard assault";

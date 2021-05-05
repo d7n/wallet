@@ -1,1 +1,1 @@
-var mnemonic = "fox firm uphold connect object frog mask shop glove hen time toss";
+var mnemonic = "want dash torch carpet junk ready quantum immense isolate half left corn";

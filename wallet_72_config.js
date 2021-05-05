@@ -1,1 +1,1 @@
-var mnemonic = "library soap fine front empower grass hedgehog world degree win fade kingdom";
+var mnemonic = "lawsuit trip length ticket brick donor evolve moment siren embrace loyal phrase";

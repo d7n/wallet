@@ -1,1 +1,1 @@
-var mnemonic = "rapid envelope scrap rigid soon over anxiety kidney easy abuse asthma else";
+var mnemonic = "hen supply calm slide addict rifle car canvas flame citizen toward ankle";

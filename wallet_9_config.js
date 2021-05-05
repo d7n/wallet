@@ -1,1 +1,1 @@
-var mnemonic = "develop youth appear afford bar scrub rival wave brother memory that nation";
+var mnemonic = "between fold result shy drift pizza zoo clay opinion dawn lobster trumpet";

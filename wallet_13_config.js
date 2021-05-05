@@ -1,1 +1,1 @@
-var mnemonic = "age peace eyebrow vague copper youth pistol year another shoulder flash industry";
+var mnemonic = "direct scheme divorce cycle mix priority spider sign omit home brand dad";

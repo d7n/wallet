@@ -1,1 +1,1 @@
-var mnemonic = "baby daring vendor youth memory brain frequent flavor educate tilt ability violin";
+var mnemonic = "charge brother cargo crawl subject divide powder labor improve adjust tobacco tomorrow";

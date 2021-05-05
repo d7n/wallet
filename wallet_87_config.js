@@ -1,1 +1,1 @@
-var mnemonic = "explain figure alarm salute walk old goat rare punch figure view fame";
+var mnemonic = "ranch guide amazing safe laugh donate icon birth embrace gravity visual stock";

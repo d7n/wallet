@@ -1,1 +1,1 @@
-var mnemonic = "increase tunnel entire slim tissue cement law rose name moral birth arrest";
+var mnemonic = "feature asset sure small century kick subject relax dune three royal jazz";

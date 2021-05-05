@@ -1,1 +1,1 @@
-var mnemonic = "hip thrive later gate duck nest need spider steak sheriff essay chunk";
+var mnemonic = "more loud filter old mountain regular poem notable exile depth despair fog";

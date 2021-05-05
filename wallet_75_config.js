@@ -1,1 +1,1 @@
-var mnemonic = "harbor couch medal cargo spin offer stamp world engine floor decline hobby";
+var mnemonic = "video satoshi tube deer era merit canvas suggest spell about kid enable";

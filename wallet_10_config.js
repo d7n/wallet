@@ -1,1 +1,1 @@
-var mnemonic = "tape spend shallow real food excess tent mule urge dawn initial grain";
+var mnemonic = "suggest slush police please frog camp resemble join ahead can join try";

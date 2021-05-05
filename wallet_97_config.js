@@ -1,1 +1,1 @@
-var mnemonic = "logic fly defy health agree smoke witness kid skill lecture liar badge";
+var mnemonic = "object judge traffic cash ladder adjust already divide repair express rib syrup";

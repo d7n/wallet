@@ -1,1 +1,1 @@
-var mnemonic = "tortoise fall ketchup kiss remain inside claim wrestle skill green section parade";
+var mnemonic = "sheriff scout amateur recycle true lounge proud occur appear solid tag disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "runway lyrics tonight climb symptom collect cash insane property wealth quick resist";
+var mnemonic = "clinic hidden sure evolve snap tool glide envelope crop rich roast album";

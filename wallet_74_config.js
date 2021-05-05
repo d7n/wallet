@@ -1,1 +1,1 @@
-var mnemonic = "pelican unknown spirit donate iron combine goose topple little blade clown parrot";
+var mnemonic = "plunge major mango report eight vacuum candy action build vacant open slight";

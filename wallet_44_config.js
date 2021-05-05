@@ -1,1 +1,1 @@
-var mnemonic = "planet during gospel wool protect bleak game rebel invest transfer attack bamboo";
+var mnemonic = "tool sort veteran zone exile fun fence fresh vital midnight expire winner";

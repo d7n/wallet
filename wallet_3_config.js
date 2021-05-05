@@ -1,1 +1,1 @@
-var mnemonic = "slot found devote antique industry harbor bachelor city arena grid symptom length";
+var mnemonic = "swap position minute blast thunder attitude survey reward blanket attack earth spare";

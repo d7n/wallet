@@ -1,1 +1,1 @@
-var mnemonic = "inspire lucky million swap fall ocean raw elbow nominee lunar edit paddle";
+var mnemonic = "liberty method black flag city rude whip coral govern hazard critic luxury";

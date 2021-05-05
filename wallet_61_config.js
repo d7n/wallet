@@ -1,1 +1,1 @@
-var mnemonic = "rose copper carpet blade crack coin spawn toast use luggage lava pumpkin";
+var mnemonic = "eternal into gauge scorpion excite parade raccoon sphere client expose degree drama";

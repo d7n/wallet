@@ -1,1 +1,1 @@
-var mnemonic = "case asthma basket card ladder trial sunny measure enroll concert garage member";
+var mnemonic = "connect science system blouse celery scan evoke prevent maple room oyster dismiss";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire hold camp wine deer latin beauty east exit mail usual walnut";
+var mnemonic = "cabin shed velvet blanket buffalo predict sauce logic garment draft bulk hollow";

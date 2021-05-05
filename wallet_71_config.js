@@ -1,1 +1,1 @@
-var mnemonic = "ostrich jeans weather deposit fiction fever someone maximum market hen crouch model";
+var mnemonic = "music purse certain device castle warm staff quantum conduct lizard gate insect";

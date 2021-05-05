@@ -1,1 +1,1 @@
-var mnemonic = "route damp nephew harsh tobacco book cluster trigger dose sustain truly wood";
+var mnemonic = "order adult split supply clarify turn twin arena axis jump name valid";

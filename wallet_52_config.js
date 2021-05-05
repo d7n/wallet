@@ -1,1 +1,1 @@
-var mnemonic = "usual move narrow list thing check movie already six educate tired awesome";
+var mnemonic = "save empower angle someone climb demise client mistake turtle business smooth reform";

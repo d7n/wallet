@@ -1,1 +1,1 @@
-var mnemonic = "over vapor pear add junk smile punch screen bench coral shock innocent";
+var mnemonic = "salute stable dog remember prefer search large panther wall monster essence reduce";

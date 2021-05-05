@@ -1,1 +1,1 @@
-var mnemonic = "replace select seat demand spend life whisper invite increase add error alien";
+var mnemonic = "nothing wish weekend upon maximum video half item risk kangaroo envelope champion";

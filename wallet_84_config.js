@@ -1,1 +1,1 @@
-var mnemonic = "unable entry display wife life plastic clerk nominee primary that leave feature";
+var mnemonic = "original veteran demise pair embark draft pudding sound corn avocado buzz hold";

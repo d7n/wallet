@@ -1,1 +1,1 @@
-var mnemonic = "immense settle regular north list boat basket tell ocean rib liquid innocent";
+var mnemonic = "cement detect raw garage call symbol luggage green slush toss prize sock";

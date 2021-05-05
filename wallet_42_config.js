@@ -1,1 +1,1 @@
-var mnemonic = "sunny swamp various hub hole sorry repeat spatial wealth hip pink search";
+var mnemonic = "slam patch program erosion consider feel leaf future live vapor lesson begin";

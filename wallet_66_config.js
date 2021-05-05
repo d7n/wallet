@@ -1,1 +1,1 @@
-var mnemonic = "abuse away film blur develop model unhappy segment dog double salad dad";
+var mnemonic = "catalog casino slender penalty off filter topple kangaroo call second economy uphold";

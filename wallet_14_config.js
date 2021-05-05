@@ -1,1 +1,1 @@
-var mnemonic = "know naive close gossip traffic lemon speak liberty adapt uniform length super";
+var mnemonic = "spare rifle address staff champion almost yellow negative print identify fruit reject";

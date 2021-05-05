@@ -1,1 +1,1 @@
-var mnemonic = "tumble nominee arena era young awful aspect royal cotton legal enemy buyer";
+var mnemonic = "flee inflict shallow power result cute mutual wolf acid try alien wine";

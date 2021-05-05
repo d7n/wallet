@@ -1,1 +1,1 @@
-var mnemonic = "section quiz foster able post air ability harsh decade salad luggage couch";
+var mnemonic = "access beauty hollow velvet profit settle apology refuse door wrestle cabbage wet";

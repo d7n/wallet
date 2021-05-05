@@ -1,1 +1,1 @@
-var mnemonic = "salt hollow brave cabin require round fall endless raw tooth zebra banana";
+var mnemonic = "decrease nature cream alpha paddle rocket often minute twin fresh bacon expect";

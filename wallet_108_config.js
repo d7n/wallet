@@ -1,1 +1,1 @@
-var mnemonic = "bitter space zone night minute coin flower major stage empty truly emotion";
+var mnemonic = "ivory similar guide erase purchase brick tree nose onion invite fat snack";

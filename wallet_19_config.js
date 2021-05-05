@@ -1,1 +1,1 @@
-var mnemonic = "gain core marriage confirm hope hybrid correct you green trend jelly mango";
+var mnemonic = "private minute flame feed goat broccoli blush indoor curtain announce invite burger";

@@ -1,1 +1,1 @@
-var mnemonic = "stone delay cross keep anxiety script return pretty wagon message rent hidden";
+var mnemonic = "decorate travel office palace ecology cancel tired dog section clean away key";

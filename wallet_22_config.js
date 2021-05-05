@@ -1,1 +1,1 @@
-var mnemonic = "eager moment view arm place book midnight agent jewel cry celery ready";
+var mnemonic = "bone popular index scout bulk banner suit local weasel stick few grape";

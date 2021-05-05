@@ -1,1 +1,1 @@
-var mnemonic = "symbol error hunt clay spider dinosaur submit pear brain when another begin";
+var mnemonic = "below inject huge decade festival flower credit upset transfer pair midnight polar";

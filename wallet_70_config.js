@@ -1,1 +1,1 @@
-var mnemonic = "neck glass choose decline artefact anger crash address minimum office square wasp";
+var mnemonic = "surround mom cattle donate virus file ice maximum pave sphere cycle time";

@@ -1,1 +1,1 @@
-var mnemonic = "story endorse deputy scan divert account soap casual love pottery moment tortoise";
+var mnemonic = "observe tackle kingdom cause sponsor repeat equip record tobacco burden vibrant slide";

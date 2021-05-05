@@ -1,1 +1,1 @@
-var mnemonic = "pen embrace attack auction one review elevator hurry burst fault elite fantasy";
+var mnemonic = "ceiling dune useful bag embody pear actress surge rabbit sadness fresh split";

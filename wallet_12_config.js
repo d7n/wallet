@@ -1,1 +1,1 @@
-var mnemonic = "exclude learn humor magic tray camera reject fiscal reduce wrong company shadow";
+var mnemonic = "universe rocket one leader snack praise iron gain initial paddle exile mobile";

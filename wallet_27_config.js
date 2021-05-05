@@ -1,1 +1,1 @@
-var mnemonic = "pool just junior identify zebra million main ribbon talk purse recipe pilot";
+var mnemonic = "bullet bronze despair able spin fossil nose thumb vague lift worth orient";

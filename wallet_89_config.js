@@ -1,1 +1,1 @@
-var mnemonic = "anger distance leisure average universe intact napkin approve isolate festival noble cycle";
+var mnemonic = "immense unknown zero surge warfare tornado achieve badge draw rather slab stool";

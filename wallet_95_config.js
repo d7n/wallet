@@ -1,1 +1,1 @@
-var mnemonic = "uphold settle gun bean stage deposit mom noodle attend warfare wage lobster";
+var mnemonic = "stumble gym exhaust nut switch uphold bid loop unfair laundry soft pond";

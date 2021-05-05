@@ -1,1 +1,1 @@
-var mnemonic = "truck blue nature swim detail furnace elevator hole enemy cement urban arrange";
+var mnemonic = "summer clean room fence gather organ transfer convince cup kiss assume begin";

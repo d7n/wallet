@@ -1,1 +1,1 @@
-var mnemonic = "agree mixed era forward soup regular visa motor sudden room shuffle taste";
+var mnemonic = "taxi melody leopard employ wreck trim nation click flame six strong recipe";

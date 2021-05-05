@@ -1,1 +1,1 @@
-var mnemonic = "tennis allow neglect wink jealous doll tuna film civil pumpkin moral wasp";
+var mnemonic = "tortoise carry jelly grain segment torch time income below truly bronze judge";

@@ -1,1 +1,1 @@
-var mnemonic = "comic aunt virtual spin toilet power assume pride recycle retire shoulder excite";
+var mnemonic = "town oak someone stove nature essay decade lecture yellow hair process feed";

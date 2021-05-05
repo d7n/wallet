@@ -1,1 +1,1 @@
-var mnemonic = "empty gravity day abuse fix wife virtual another divorce gauge truck make";
+var mnemonic = "endorse physical shrug during foil mention olive slim airport develop cool depend";

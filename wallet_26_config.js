@@ -1,1 +1,1 @@
-var mnemonic = "cat warm finish slim security army october air piano host they goose";
+var mnemonic = "river pass disease jacket subway author speak market doll cloud term siren";

@@ -1,1 +1,1 @@
-var mnemonic = "slice merge chunk swarm scene emerge kidney oak screen urban dentist useful";
+var mnemonic = "dilemma diet dismiss fault sound eternal clock sound silver fury exist virus";

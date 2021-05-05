@@ -1,1 +1,1 @@
-var mnemonic = "bacon diet canal horse true kitchen sight junior circle test pledge brother";
+var mnemonic = "tumble model close cupboard fly act bless meat trip deputy kind garment";

@@ -1,1 +1,1 @@
-var mnemonic = "sample regular awkward alone ship staff resist near kit clown butter okay";
+var mnemonic = "exit draw dress crush gaze boring junior quiz flush glue plug tissue";

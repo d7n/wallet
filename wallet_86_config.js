@@ -1,1 +1,1 @@
-var mnemonic = "announce tent prison between seat pumpkin grocery target exotic winner off blouse";
+var mnemonic = "insane party flee episode bacon entire inspire pudding mosquito sign theory caught";

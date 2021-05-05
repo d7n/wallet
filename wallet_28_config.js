@@ -1,1 +1,1 @@
-var mnemonic = "young whale quantum hour paddle enroll refuse suit artwork payment walnut traffic";
+var mnemonic = "habit interest siren drip beef black clean ensure nurse sound away trigger";

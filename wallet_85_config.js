@@ -1,1 +1,1 @@
-var mnemonic = "pattern tell black crack turn chunk squirrel park tenant alert furnace two";
+var mnemonic = "retreat symbol fee behave question torch champion depart purity garden buffalo olympic";

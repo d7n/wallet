@@ -1,1 +1,1 @@
-var mnemonic = "general globe soldier one door fox sport plunge depend arena ring bulk";
+var mnemonic = "voice romance quit aware around copper city gaze park hamster forward purchase";

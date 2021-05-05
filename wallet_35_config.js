@@ -1,1 +1,1 @@
-var mnemonic = "wreck square omit tree satoshi error effort unhappy tumble almost catalog unlock";
+var mnemonic = "maximum know report find monkey category consider easily finger good broccoli scrub";
