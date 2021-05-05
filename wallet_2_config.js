@@ -1,1 +1,1 @@
-var mnemonic = "grain frame brass whale movie regret idle hollow cloud airport detect rescue";
+var mnemonic = "random neutral card disease bind orbit barely teach melody cheap vapor machine";

@@ -1,1 +1,1 @@
-var mnemonic = "film output order program hybrid parrot public soft book clip catch move";
+var mnemonic = "pigeon pitch session animal stock mass half host brief struggle vendor gold";

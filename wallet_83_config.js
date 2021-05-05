@@ -1,1 +1,1 @@
-var mnemonic = "fish slide average village frown border drama ritual cup track bomb term";
+var mnemonic = "army yellow despair version upon nut end indicate pyramid safe jeans stand";

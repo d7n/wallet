@@ -1,1 +1,1 @@
-var mnemonic = "matter marble page donor later glimpse above onion antenna faculty roof federal";
+var mnemonic = "rose reunion hold enforce short borrow thrive buffalo uncover rally permit fiction";

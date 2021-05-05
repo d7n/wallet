@@ -1,1 +1,1 @@
-var mnemonic = "thunder identify spend twist craft key coach boat valley peanut hip velvet";
+var mnemonic = "scatter keen siren assist coin repair walk page glass claim glimpse bean";

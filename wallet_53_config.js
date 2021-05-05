@@ -1,1 +1,1 @@
-var mnemonic = "bachelor topple cook benefit violin fatigue baby wood meadow jungle awkward index";
+var mnemonic = "fiscal error empower control uncle usage journey tackle reform rack shy suggest";

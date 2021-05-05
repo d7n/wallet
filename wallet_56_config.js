@@ -1,1 +1,1 @@
-var mnemonic = "engine boring author salt reduce more almost misery police borrow enlist unknown";
+var mnemonic = "logic slow burger matter pet share observe couple feed movie alter pony";

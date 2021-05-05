@@ -1,1 +1,1 @@
-var mnemonic = "fresh wheel crane expose route sense early fluid slush zero teach enhance";
+var mnemonic = "supply quiz train salon ostrich genuine before million power spawn name swarm";

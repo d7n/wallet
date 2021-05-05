@@ -1,1 +1,1 @@
-var mnemonic = "useless remain truck unfair chaos abandon casino flame frog place orchard news";
+var mnemonic = "near slender found design someone chase account expose energy key pulse magic";

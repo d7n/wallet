@@ -1,1 +1,1 @@
-var mnemonic = "gun gauge cry worth eight viable margin luxury invite journey element protect";
+var mnemonic = "social age harsh fever wrong mountain result art million mule blood spirit";

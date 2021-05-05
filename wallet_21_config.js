@@ -1,1 +1,1 @@
-var mnemonic = "library truck version mix blind gold ten milk cousin potato glad mom";
+var mnemonic = "unit shoe exile certain coin option fossil ribbon match stool fame exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "leopard monitor supreme drama alter abandon sort sound unique still waste require";
+var mnemonic = "kingdom amateur dune place prevent spy once pave tool giggle key setup";

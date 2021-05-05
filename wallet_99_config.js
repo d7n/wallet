@@ -1,1 +1,1 @@
-var mnemonic = "entire brush image strategy hunt street grocery jar push bargain mind need";
+var mnemonic = "bulb exercise cliff comfort math mind expose miracle mobile amazing wreck april";

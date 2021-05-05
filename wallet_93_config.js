@@ -1,1 +1,1 @@
-var mnemonic = "analyst slogan spend warfare grunt trend noble sure joy toilet canyon stumble";
+var mnemonic = "resemble glove tooth spell better either asthma special reform share foot rent";

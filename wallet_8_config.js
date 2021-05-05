@@ -1,1 +1,1 @@
-var mnemonic = "exercise acoustic glad gift plunge gas taxi suffer absorb oak trip sunset";
+var mnemonic = "action access curve kid have film receive embrace gossip theme goat gate";

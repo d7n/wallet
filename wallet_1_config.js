@@ -1,1 +1,1 @@
-var mnemonic = "recycle climb pill play tail tribe surround combine dial banana found indoor";
+var mnemonic = "tide zero sign balcony keep leader window twice mad grocery glance guide";

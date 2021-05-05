@@ -1,1 +1,1 @@
-var mnemonic = "wood settle fruit forest kind scrub material dragon chapter domain thunder illness";
+var mnemonic = "animal enact among spider rug project arrow hour ankle panda fluid whale";

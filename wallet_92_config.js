@@ -1,1 +1,1 @@
-var mnemonic = "calm screen must digital tray similar coil finger toy vintage mobile early";
+var mnemonic = "game crumble method order science entire saddle popular rotate dinosaur raven drip";

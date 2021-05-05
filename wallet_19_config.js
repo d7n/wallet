@@ -1,1 +1,1 @@
-var mnemonic = "lizard whip truth announce tennis rocket file proud notice notable pond unit";
+var mnemonic = "spatial accuse guitar tail used among chase author meadow exist senior energy";

@@ -1,1 +1,1 @@
-var mnemonic = "below slush draft language twin remove section tag embark tuna announce clutch";
+var mnemonic = "during tag sure document require opinion typical planet arm cluster afford tragic";

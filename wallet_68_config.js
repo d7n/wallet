@@ -1,1 +1,1 @@
-var mnemonic = "paddle caught chapter embrace acoustic faint moment assume crane mistake level drop";
+var mnemonic = "cost control million discover nasty alley maze unhappy iron forget boy swing";

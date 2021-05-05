@@ -1,1 +1,1 @@
-var mnemonic = "limit grass area banner verify arrive distance cup insect quarter speed verb";
+var mnemonic = "device dignity wait close walk energy speed daughter wish clap error chicken";

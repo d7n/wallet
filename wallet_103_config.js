@@ -1,1 +1,1 @@
-var mnemonic = "daughter wet injury member employ property pistol sand beauty unable puppy spot";
+var mnemonic = "shiver orbit vague usage april eagle age orange ensure truly situate omit";

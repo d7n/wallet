@@ -1,1 +1,1 @@
-var mnemonic = "protect involve attract field off ancient fit above air phone six vast";
+var mnemonic = "diary window awful best flower trash pitch deposit parrot stumble humor penalty";

@@ -1,1 +1,1 @@
-var mnemonic = "exhibit sound hand cousin rose market uncle setup time season stove captain";
+var mnemonic = "maple later front bubble harsh hotel maximum stock act addict away become";

@@ -1,1 +1,1 @@
-var mnemonic = "tent clean hurry talent situate cause senior scissors jealous flash wrist shift";
+var mnemonic = "crouch flee hamster tide follow ginger secret kit defy truth analyst senior";

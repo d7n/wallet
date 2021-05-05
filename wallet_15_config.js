@@ -1,1 +1,1 @@
-var mnemonic = "awful round artwork vivid slush alien upon more unfair easily eye guide";
+var mnemonic = "tube bitter glance jar unhappy night melt around sand nominee conduct cattle";

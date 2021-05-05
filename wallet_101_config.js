@@ -1,1 +1,1 @@
-var mnemonic = "visit initial track wide artist edge pledge sentence since health addict again";
+var mnemonic = "delay modify dice shield spoil enroll whip critic random speak under outside";

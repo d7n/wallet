@@ -1,1 +1,1 @@
-var mnemonic = "nose know work enact tomato half setup fruit spot loud again that";
+var mnemonic = "believe horror legend trash above fault split bag day topple proud chaos";

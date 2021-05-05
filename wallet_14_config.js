@@ -1,1 +1,1 @@
-var mnemonic = "output brick matrix reason alter enlist foam prize alter honey reveal accuse";
+var mnemonic = "seat make happy winner remind broccoli salmon shrimp shy slogan tornado clever";

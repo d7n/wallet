@@ -1,1 +1,1 @@
-var mnemonic = "ghost gentle return session rabbit pond analyst grape appear truth recipe tag";
+var mnemonic = "crawl concert stereo outer nest mango man key ignore sorry spoon profit";

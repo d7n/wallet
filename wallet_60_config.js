@@ -1,1 +1,1 @@
-var mnemonic = "doctor brief east worth actual renew equip staff animal talent sniff cake";
+var mnemonic = "side clerk scale august decrease ridge drop verb view soldier coach attend";

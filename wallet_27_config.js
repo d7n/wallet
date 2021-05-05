@@ -1,1 +1,1 @@
-var mnemonic = "bundle age antique grape lazy audit drift squeeze step write giraffe man";
+var mnemonic = "forum step horror section bulb grunt video dice hybrid suffer call sauce";

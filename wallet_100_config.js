@@ -1,1 +1,1 @@
-var mnemonic = "reflect brain bomb arrow west globe rack speak bleak three unfair ability";
+var mnemonic = "pitch voice verify thank soccer hand fiscal problem grit grass wild track";

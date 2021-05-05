@@ -1,1 +1,1 @@
-var mnemonic = "spare stereo door party imitate scatter venture clay hunt fantasy found pupil";
+var mnemonic = "dwarf hockey device screen myself spy goose maximum improve company again when";

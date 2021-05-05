@@ -1,1 +1,1 @@
-var mnemonic = "captain penalty adapt nephew decorate train execute poet end theme shrimp art";
+var mnemonic = "canyon mistake remember million address gallery hazard genius write interest vacant arrange";

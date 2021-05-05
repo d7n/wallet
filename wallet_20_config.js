@@ -1,1 +1,1 @@
-var mnemonic = "fatal beauty audit laptop rather ginger mammal sauce smart copper below result";
+var mnemonic = "august kangaroo swing soda load legend twenty sorry ignore material save race";

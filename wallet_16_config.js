@@ -1,1 +1,1 @@
-var mnemonic = "tone bulk remain cement measure chief cancel expire always afford save venue";
+var mnemonic = "valid science similar sample scare outer want duck outdoor giggle opinion giant";

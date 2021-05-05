@@ -1,1 +1,1 @@
-var mnemonic = "guard involve never machine enemy drastic reason jazz state render genre mass";
+var mnemonic = "tomato suffer gorilla pole nature review furnace route believe reveal argue mesh";

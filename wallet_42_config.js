@@ -1,1 +1,1 @@
-var mnemonic = "trouble satisfy giraffe decade donkey admit gallery crawl onion angle ordinary garbage";
+var mnemonic = "panther hidden hub age involve diagram bulb dizzy blue old sound inch";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory print crawl lawsuit circle leaf label clock copper recall verb same";
+var mnemonic = "before hurry innocent eternal salmon luxury educate also bacon auto trick name";

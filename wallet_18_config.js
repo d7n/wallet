@@ -1,1 +1,1 @@
-var mnemonic = "aunt segment belt narrow strategy zone ordinary civil suspect cycle hope slogan";
+var mnemonic = "charge cherry treat sibling cross step because rhythm surround pitch neck grant";

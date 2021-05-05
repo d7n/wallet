@@ -1,1 +1,1 @@
-var mnemonic = "grain teach inhale pony cool marriage spell cool rebuild soccer permit upon";
+var mnemonic = "weekend easily explain effort prepare book minute night initial super begin clock";

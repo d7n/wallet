@@ -1,1 +1,1 @@
-var mnemonic = "custom open club add wreck dizzy blood say hill deny rice shine";
+var mnemonic = "ghost swarm rescue alarm help combine below learn hurdle social spawn usage";

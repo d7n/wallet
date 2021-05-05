@@ -1,1 +1,1 @@
-var mnemonic = "once horn club jaguar subject bulk note canoe fossil outside peace clog";
+var mnemonic = "stage tumble sure door sheriff gaze bright clever price intact bike pear";

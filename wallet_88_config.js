@@ -1,1 +1,1 @@
-var mnemonic = "danger year spoil flag merry celery wait exchange essence clap champion pig";
+var mnemonic = "name enjoy bleak sun hero expand divide kitten bundle parrot ketchup upper";

@@ -1,1 +1,1 @@
-var mnemonic = "drift maid shop neither fluid suspect huge goat lobster fashion resemble smoke";
+var mnemonic = "offer pool scheme material belt busy lady heavy seven smart man ocean";

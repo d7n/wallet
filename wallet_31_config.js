@@ -1,1 +1,1 @@
-var mnemonic = "myself silly maze seminar million boring chat assume rookie mountain rain hood";
+var mnemonic = "pole piano coil cool almost vehicle shoe fog youth rigid moment attend";

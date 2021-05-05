@@ -1,1 +1,1 @@
-var mnemonic = "enter ivory fee april chuckle strategy divert salon about scale tomato small";
+var mnemonic = "onion lizard apple where dumb banana window ridge friend predict repair history";

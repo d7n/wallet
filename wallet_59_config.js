@@ -1,1 +1,1 @@
-var mnemonic = "river swear crane garage panther slight thumb remove target practice write useless";
+var mnemonic = "kidney short hub empty long cousin day pass topple gaze lift smart";

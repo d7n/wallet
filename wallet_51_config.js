@@ -1,1 +1,1 @@
-var mnemonic = "where city ripple drill animal organ vote tip bike buzz kangaroo clown";
+var mnemonic = "pupil start acoustic fragile true movie index wrong good burden orphan alley";

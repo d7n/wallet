@@ -1,1 +1,1 @@
-var mnemonic = "erode slim neglect priority easily wagon cattle squirrel install secret outer december";
+var mnemonic = "sugar hen recipe amateur better okay electric dry dove tank crazy draft";

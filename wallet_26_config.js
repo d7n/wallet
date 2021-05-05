@@ -1,1 +1,1 @@
-var mnemonic = "you vibrant leader snow spike weapon side various engine metal enhance ahead";
+var mnemonic = "tower panther absorb crater custom sport elevator require secret slice peace people";

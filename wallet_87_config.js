@@ -1,1 +1,1 @@
-var mnemonic = "sudden armor conduct scare sauce tomorrow spawn trigger balcony minute board buyer";
+var mnemonic = "narrow february amazing aim wide episode rhythm palm jelly next hurt pole";

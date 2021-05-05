@@ -1,1 +1,1 @@
-var mnemonic = "target style private glow upset range sugar ill drink whisper define fluid";
+var mnemonic = "neither region dawn sign obvious jealous alley autumn polar pupil video force";

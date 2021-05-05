@@ -1,1 +1,1 @@
-var mnemonic = "theme salad inch drift dirt hip intact cabin buffalo unfair mom month";
+var mnemonic = "prison loud behind slide aim sustain program add leave badge response silk";

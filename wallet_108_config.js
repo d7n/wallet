@@ -1,1 +1,1 @@
-var mnemonic = "cannon strike mosquito frequent width minimum garlic decade group auction swap smile";
+var mnemonic = "april jazz bird theme kidney wire balance abuse salmon raise image story";

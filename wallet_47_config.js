@@ -1,1 +1,1 @@
-var mnemonic = "always winter switch among announce into order modify chronic identify trophy hire";
+var mnemonic = "surge since solid notice cluster cage apple bottom tell agree excuse theme";

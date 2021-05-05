@@ -1,1 +1,1 @@
-var mnemonic = "deny cinnamon vendor slow vivid idle exist ship gold eyebrow hint worry";
+var mnemonic = "motor symbol priority ginger deal speak ginger result random field armor same";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery guide quality december maple almost dwarf tattoo label autumn absent camp";
+var mnemonic = "menu order unit fault mind economy wash gas dismiss vapor umbrella disagree";

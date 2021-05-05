@@ -1,1 +1,1 @@
-var mnemonic = "mountain explain donor town size excite friend idle situate club claw catch";
+var mnemonic = "industry ability hire differ about total pave law interest write prize concert";

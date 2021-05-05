@@ -1,1 +1,1 @@
-var mnemonic = "purpose lawn correct fiber shed pond slice vehicle enjoy husband race that";
+var mnemonic = "rival olive toss ball foam village run topple boil all liberty dawn";

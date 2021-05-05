@@ -1,1 +1,1 @@
-var mnemonic = "speak luggage follow crystal model decide pizza opinion frozen lucky choose exile";
+var mnemonic = "village coffee side follow enable diary snap iron hover salt element silver";

@@ -1,1 +1,1 @@
-var mnemonic = "front then judge lamp search during apple mixture provide initial push control";
+var mnemonic = "recall federal stock slush quick wine consider chuckle fat heart diary invest";

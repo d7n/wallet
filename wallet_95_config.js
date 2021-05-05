@@ -1,1 +1,1 @@
-var mnemonic = "setup empower olympic upset force brick feature salad forum witness awkward glad";
+var mnemonic = "rather around warm surprise acquire despair buyer uncover hint neck cup harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy tiny essay wall marine tongue oak sorry animal into kitchen youth";
+var mnemonic = "tape trend choose fiscal erode right print glue clinic space town pottery";

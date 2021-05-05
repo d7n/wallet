@@ -1,1 +1,1 @@
-var mnemonic = "flock exist cupboard balance song find sausage axis chuckle problem patrol pigeon";
+var mnemonic = "mirror certain excess ranch volume tent plate fancy offer tree patch admit";

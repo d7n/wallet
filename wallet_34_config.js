@@ -1,1 +1,1 @@
-var mnemonic = "apple start silver deny eyebrow image broccoli immune twice bundle anxiety vendor";
+var mnemonic = "run odor word famous ahead skirt kitchen height topic frost dawn six";

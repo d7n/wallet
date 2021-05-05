@@ -1,1 +1,1 @@
-var mnemonic = "ring rule misery combine sentence cluster oxygen achieve unaware marble stamp giraffe";
+var mnemonic = "power pencil december woman bright result faith example leg price scrub breeze";

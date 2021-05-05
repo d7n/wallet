@@ -1,1 +1,1 @@
-var mnemonic = "tiny alarm machine organ anger powder emerge time crop satoshi blast impulse";
+var mnemonic = "indoor conduct tired miss float attract sail cupboard marriage enjoy reflect thrive";

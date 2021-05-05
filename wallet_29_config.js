@@ -1,1 +1,1 @@
-var mnemonic = "master pill stage hurdle remove match often sail dizzy fiscal example enroll";
+var mnemonic = "path beyond guess clog advice kitchen warfare vibrant recall peasant quick throw";

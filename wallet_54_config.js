@@ -1,1 +1,1 @@
-var mnemonic = "ship wealth bracket ceiling team draw picture orchard vapor lamp lecture fork";
+var mnemonic = "swamp outdoor sausage host ghost shaft axis about whisper make reason lonely";

@@ -1,1 +1,1 @@
-var mnemonic = "exercise position upgrade express wasp artefact verify novel fold image race company";
+var mnemonic = "oppose chair ripple bird slide resemble fix sport affair style cricket nation";

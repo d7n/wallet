@@ -1,1 +1,1 @@
-var mnemonic = "wage affair shoe laugh token mind mechanic body above antique mobile rather";
+var mnemonic = "dentist note trophy genre small core school evolve early grid elder cliff";

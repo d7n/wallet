@@ -1,1 +1,1 @@
-var mnemonic = "ostrich medal topple vacant daring later surface intact power wire remember palace";
+var mnemonic = "hospital item gravity grow silly soda party material notable hurt become outside";

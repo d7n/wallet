@@ -1,1 +1,1 @@
-var mnemonic = "month gauge adapt cycle oyster sausage crumble verify special exist clever cabin";
+var mnemonic = "essay nasty cruise repeat fresh physical drive suspect derive beef luxury mountain";

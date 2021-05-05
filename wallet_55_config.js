@@ -1,1 +1,1 @@
-var mnemonic = "tongue acid pencil jaguar pen allow orient dwarf timber green hair utility";
+var mnemonic = "lunar toward cup reform powder entry ensure exhibit ginger dizzy consider employ";

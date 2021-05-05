@@ -1,1 +1,1 @@
-var mnemonic = "palm breeze ten skirt duck cricket turkey purpose anxiety say absorb capital";
+var mnemonic = "junior enable kid life green game salon front erode survey neutral wolf";

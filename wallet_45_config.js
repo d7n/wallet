@@ -1,1 +1,1 @@
-var mnemonic = "sphere corn buyer route autumn sudden live battle phrase angle main light";
+var mnemonic = "riot crowd tornado fine sock clarify jealous energy clown ridge glove mixture";

@@ -1,1 +1,1 @@
-var mnemonic = "unique rely position daughter great mind thunder design battle faculty conduct social";
+var mnemonic = "search exit alarm merry solution obscure dilemma traffic blame thunder note season";

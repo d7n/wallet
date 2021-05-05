@@ -1,1 +1,1 @@
-var mnemonic = "onion unveil vanish usage credit result follow near during remain stool drive";
+var mnemonic = "elegant bounce job draw front cost course grain purity test next kit";

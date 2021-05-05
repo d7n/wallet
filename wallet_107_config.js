@@ -1,1 +1,1 @@
-var mnemonic = "oak betray occur domain deputy jelly catch punch pear catch poverty chalk";
+var mnemonic = "exist finger napkin blade divorce couch vendor home early window sweet basket";

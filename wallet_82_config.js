@@ -1,1 +1,1 @@
-var mnemonic = "honey cereal security system own habit tourist road tunnel indoor paddle script";
+var mnemonic = "roast reward domain riot slice broken food gentle cute bike remember wrong";

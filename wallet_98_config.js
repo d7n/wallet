@@ -1,1 +1,1 @@
-var mnemonic = "strategy senior cash two margin gym latin scrap spoon dawn give stable";
+var mnemonic = "tape obtain error slush knock museum combine shallow ginger second owner card";

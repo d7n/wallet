@@ -1,1 +1,1 @@
-var mnemonic = "jealous pet rose baby above diary employ half flat rail travel innocent";
+var mnemonic = "discover estate expect turtle diesel broom negative ranch color half doll stamp";
