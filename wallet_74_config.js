@@ -1,1 +1,1 @@
-var mnemonic = "trash office small ugly motion atom evil sphere robot become okay flush";
+var mnemonic = "danger follow stand noodle proof movie stadium window bacon vault fancy hunt";

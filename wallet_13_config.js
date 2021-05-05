@@ -1,1 +1,1 @@
-var mnemonic = "shrimp easily team wrap hand spider wink meat bitter west page festival";
+var mnemonic = "snow shuffle balcony cycle prosper chef baby chunk ritual mail leader hint";

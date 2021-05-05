@@ -1,1 +1,1 @@
-var mnemonic = "hockey exit excite settle orange keep evidence install autumn pave chaos feature";
+var mnemonic = "destroy tool stage join kitten banner other coffee smile dinner figure jar";

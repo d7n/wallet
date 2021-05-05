@@ -1,1 +1,1 @@
-var mnemonic = "powder adjust demise net argue stage accident avocado this inform code matrix";
+var mnemonic = "cover speed super wife limit way emerge resource dog pretty salon multiply";

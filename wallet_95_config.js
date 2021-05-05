@@ -1,1 +1,1 @@
-var mnemonic = "gasp more pull refuse sudden canoe siren bind guard afford lend oppose";
+var mnemonic = "vintage talk material scout parrot cousin taxi hospital oblige scout door enjoy";

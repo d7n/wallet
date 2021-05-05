@@ -1,1 +1,1 @@
-var mnemonic = "critic wasp picnic bridge follow ketchup style stove claim warfare much eager";
+var mnemonic = "amazing undo symptom sunset copy glory shift screen nasty bottom crazy inflict";

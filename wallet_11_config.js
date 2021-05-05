@@ -1,1 +1,1 @@
-var mnemonic = "knee code tobacco topic patrol pool surface exercise joy level define minute";
+var mnemonic = "attack little people citizen prepare story cycle giggle space arrow love awful";

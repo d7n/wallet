@@ -1,1 +1,1 @@
-var mnemonic = "margin capital filter amazing shop portion cook lend you dose staff boat";
+var mnemonic = "sunset make oil rail police morning gentle image pumpkin purpose ability cruise";

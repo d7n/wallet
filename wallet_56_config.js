@@ -1,1 +1,1 @@
-var mnemonic = "shaft credit uphold only glimpse minimum trick result depth walnut expand legal";
+var mnemonic = "unable crisp farm hood sun rose between salmon grocery exhaust capable satoshi";

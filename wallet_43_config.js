@@ -1,1 +1,1 @@
-var mnemonic = "raccoon prize nest accident visual desk unlock erode case oblige brain client";
+var mnemonic = "hold family address inside reunion notice force young discover subject you trade";

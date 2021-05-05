@@ -1,1 +1,1 @@
-var mnemonic = "season discover stem street exclude finish picnic fork famous trash board grant";
+var mnemonic = "injury inside forum surge rich blast impact input another gravity candy toilet";

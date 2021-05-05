@@ -1,1 +1,1 @@
-var mnemonic = "mixed little apart ocean column fiscal upper grow verb zone service hockey";
+var mnemonic = "rack chalk mean clap problem cancel update six short clog rough gym";

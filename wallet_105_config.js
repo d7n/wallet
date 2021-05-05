@@ -1,1 +1,1 @@
-var mnemonic = "clarify post pledge guilt tell parrot moon donor border clever attend decrease";
+var mnemonic = "dinner install combine rice symbol night idea radar crater gesture noble inquiry";

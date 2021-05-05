@@ -1,1 +1,1 @@
-var mnemonic = "box month celery hungry pear ability misery trend century simple salon age";
+var mnemonic = "cupboard photo govern tooth where alley idle truck subway silly enlist reduce";

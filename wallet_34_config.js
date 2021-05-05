@@ -1,1 +1,1 @@
-var mnemonic = "ask fat cupboard endorse teach best hole royal fabric cheap olympic tragic";
+var mnemonic = "thank mom warm boat cushion gain glove opinion dumb hawk relax armed";

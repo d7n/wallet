@@ -1,1 +1,1 @@
-var mnemonic = "judge ginger once escape six long area gesture resemble suspect gain scene";
+var mnemonic = "purse orbit excite chimney super leader life alien cry scrub stable mosquito";

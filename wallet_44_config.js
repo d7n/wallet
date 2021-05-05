@@ -1,1 +1,1 @@
-var mnemonic = "wet junk oil denial earn album fiscal century draft athlete hill yellow";
+var mnemonic = "dish metal holiday hole throw fly math noble usual fog grow recipe";

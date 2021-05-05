@@ -1,1 +1,1 @@
-var mnemonic = "dizzy solar coffee august crazy aerobic require cotton potato cherry meadow tumble";
+var mnemonic = "toward method myth hero thing tent twist maple soda initial return lift";

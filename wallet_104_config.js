@@ -1,1 +1,1 @@
-var mnemonic = "trip allow bonus labor evoke reform raise napkin enlist present wing true";
+var mnemonic = "author belt coral save surprise tank boil gorilla turtle blame market opinion";

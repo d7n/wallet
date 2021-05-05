@@ -1,1 +1,1 @@
-var mnemonic = "winter mirror glory hidden chunk bubble cup paddle raccoon vocal ketchup wheat";
+var mnemonic = "found burst daughter eye help spot panther surround next check state moral";

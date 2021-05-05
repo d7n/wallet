@@ -1,1 +1,1 @@
-var mnemonic = "ethics demand change narrow found gate chef item token insect bulb alarm";
+var mnemonic = "maple female hazard split people beef blood hour steel festival snack size";

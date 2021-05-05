@@ -1,1 +1,1 @@
-var mnemonic = "mouse prosper picnic trend day vendor alcohol trap universe punch garage repeat";
+var mnemonic = "machine install oval fit soon pole minute entry spy enforce school toy";

@@ -1,1 +1,1 @@
-var mnemonic = "depart trigger easily define melt stomach vague gallery enact explain fog utility";
+var mnemonic = "bullet wrestle surprise faint concert call goddess dress wine release unable unusual";

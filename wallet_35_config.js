@@ -1,1 +1,1 @@
-var mnemonic = "banner subject daring please letter soldier creek yellow trim offer wide sadness";
+var mnemonic = "twist churn wool ready afford elite city giant result produce era cricket";

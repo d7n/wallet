@@ -1,1 +1,1 @@
-var mnemonic = "orbit admit toy ecology reject another gather thunder limit enact voyage smooth";
+var mnemonic = "lens common remove object mixture adapt young spell glimpse bubble awesome chef";

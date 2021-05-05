@@ -1,1 +1,1 @@
-var mnemonic = "scrap garbage army evoke rescue text secret spirit call crouch exhibit north";
+var mnemonic = "gold list pipe tribe lecture refuse case foot nut seed exotic net";

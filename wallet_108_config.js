@@ -1,1 +1,1 @@
-var mnemonic = "find neutral brain text author truly lawn comic rival pride romance bamboo";
+var mnemonic = "degree usage slogan sustain comic spoil nephew inhale excess never blue dog";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel law clump armor used define enlist truck approve tone duty obvious";
+var mnemonic = "enable such evidence nest add elegant boat layer earth pass rookie math";

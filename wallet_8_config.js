@@ -1,1 +1,1 @@
-var mnemonic = "way bitter moment heart bulk what grain heart zero must clip buffalo";
+var mnemonic = "cream deer uncle hospital artefact trophy choice inquiry abstract people water cat";

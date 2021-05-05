@@ -1,1 +1,1 @@
-var mnemonic = "early fiscal drastic island august east valley urge bargain toilet trip power";
+var mnemonic = "business unknown erode credit mass impact acid above hard join abandon long";

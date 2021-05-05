@@ -1,1 +1,1 @@
-var mnemonic = "course tail badge praise talent cliff lawsuit north weasel riot soda despair";
+var mnemonic = "impulse loyal captain claw firm spare enjoy lounge claim lunar fresh camp";

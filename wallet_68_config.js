@@ -1,1 +1,1 @@
-var mnemonic = "chronic grape bread pulse junior battle toe peasant wild sugar theme grace";
+var mnemonic = "fresh call dentist rent happy dad bone march mixture fox bundle fringe";

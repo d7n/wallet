@@ -1,1 +1,1 @@
-var mnemonic = "pluck fire close diet exist custom pattern render exercise board pulse debris";
+var mnemonic = "avocado theme speed chicken border motor maple defense retreat inner inner ritual";

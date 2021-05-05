@@ -1,1 +1,1 @@
-var mnemonic = "talent cricket super proof entry quote wool tribe erase oppose access smart";
+var mnemonic = "theory kiss brief patient shine wolf topple sadness sad rely connect ill";

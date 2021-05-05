@@ -1,1 +1,1 @@
-var mnemonic = "know ancient stairs resist dignity evil weapon soup category foster cradle finish";
+var mnemonic = "silver drip make rhythm flip screen floor praise coach exist horn put";

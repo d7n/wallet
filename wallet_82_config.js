@@ -1,1 +1,1 @@
-var mnemonic = "quit rapid thought certain verb mesh saddle tower bus flight tackle art";
+var mnemonic = "grace nephew vault hover brisk country lamp scorpion rule index own ethics";

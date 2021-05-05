@@ -1,1 +1,1 @@
-var mnemonic = "skate morning wait wrist side spike tobacco patch poverty stage final blossom";
+var mnemonic = "cricket photo argue area cousin lift weasel abandon letter organ couch diesel";

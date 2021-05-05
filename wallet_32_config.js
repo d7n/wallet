@@ -1,1 +1,1 @@
-var mnemonic = "beauty music actor success panther lawsuit crystal capital anxiety tail sport remove";
+var mnemonic = "chimney fix gesture duty cruise cake clown fix sign soup ankle music";

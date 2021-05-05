@@ -1,1 +1,1 @@
-var mnemonic = "toward scrub over mass size camera alien visa honey aisle harvest nose";
+var mnemonic = "wash talent age dizzy rival dinner between draft wolf suit often since";

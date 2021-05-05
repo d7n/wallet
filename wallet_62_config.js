@@ -1,1 +1,1 @@
-var mnemonic = "turtle soccer trash kiss loop toddler tuition tank traffic clog myself slight";
+var mnemonic = "script frame problem gun love exist verb adapt scene buyer spider mosquito";

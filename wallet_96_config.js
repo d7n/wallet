@@ -1,1 +1,1 @@
-var mnemonic = "traffic usual gesture divert burst return appear tilt capital produce treat retreat";
+var mnemonic = "vibrant cry chalk organ wolf rally ask viable close regular mass six";

@@ -1,1 +1,1 @@
-var mnemonic = "nurse blind control excuse blind mountain dream audit ball diary lizard record";
+var mnemonic = "knock sight business flame off sample transfer frame region mule best online";

@@ -1,1 +1,1 @@
-var mnemonic = "happy swap small best fatigue once ostrich pudding sense best robust alarm";
+var mnemonic = "because west drama price peanut choose fragile rib grow tongue hold marine";

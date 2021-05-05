@@ -1,1 +1,1 @@
-var mnemonic = "invest just wheat prevent rate puzzle impulse girl furnace funny impulse muffin";
+var mnemonic = "kiss mail wedding accident lawn panther skirt pond vendor essay fiction expand";

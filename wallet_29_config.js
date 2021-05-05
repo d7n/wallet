@@ -1,1 +1,1 @@
-var mnemonic = "grit abstract nose mesh similar museum tourist patrol adult tray stumble insect";
+var mnemonic = "unaware stove wide make city region sing menu hurry power text produce";

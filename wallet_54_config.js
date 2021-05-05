@@ -1,1 +1,1 @@
-var mnemonic = "mimic fall shock ball check ahead sustain confirm enact slogan weird detect";
+var mnemonic = "derive turtle lift rocket hole year leisure mansion again struggle family number";

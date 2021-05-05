@@ -1,1 +1,1 @@
-var mnemonic = "extend crisp obscure valve actress about produce salon true nasty milk orbit";
+var mnemonic = "rely ball apology drastic night ability people sponsor sorry hand frost arrange";

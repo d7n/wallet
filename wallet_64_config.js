@@ -1,1 +1,1 @@
-var mnemonic = "airport stuff mind usual solid disagree milk seminar oak song sand render";
+var mnemonic = "begin crew harbor impose robot inform seminar outdoor frown talk sell brother";

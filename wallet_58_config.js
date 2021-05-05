@@ -1,1 +1,1 @@
-var mnemonic = "false awkward rival group siren nation question arrow table claim rapid scorpion";
+var mnemonic = "music glass minimum flower satoshi flee close alley turtle embark license interest";

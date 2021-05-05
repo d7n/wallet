@@ -1,1 +1,1 @@
-var mnemonic = "jungle chief wise firm twenty present boat begin behind tail view grow";
+var mnemonic = "toss nephew drive solve inhale brand glare fork veteran moral method puppy";

@@ -1,1 +1,1 @@
-var mnemonic = "glow cotton also stereo return situate title razor nerve vibrant dose knee";
+var mnemonic = "obvious ask asset car media speed capable coast depth maid parrot ketchup";

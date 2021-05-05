@@ -1,1 +1,1 @@
-var mnemonic = "awesome lake voice brown inch boil photo genuine snake trumpet enact mountain";
+var mnemonic = "rib engine can betray work observe flag raven tip aspect toe million";

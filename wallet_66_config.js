@@ -1,1 +1,1 @@
-var mnemonic = "pause squeeze knife upon idle keen tragic dawn tone impose live ankle";
+var mnemonic = "enhance shoulder entry shove steel borrow hard amount drastic two silver trouble";

@@ -1,1 +1,1 @@
-var mnemonic = "train swallow blanket diagram unveil mind amazing okay tackle symptom cruise matter";
+var mnemonic = "culture host nose balance mother rocket pen cable elite divide client dinosaur";

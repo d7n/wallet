@@ -1,1 +1,1 @@
-var mnemonic = "load trick female solution month dirt suggest mixture trade divide one ladder";
+var mnemonic = "horn answer problem minute happy elevator stick wage add merge just glow";

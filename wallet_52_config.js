@@ -1,1 +1,1 @@
-var mnemonic = "uncle jacket unhappy arm detail agree canal group shoe trophy wave like";
+var mnemonic = "remove unhappy absorb monitor jeans violin print nuclear monkey plug solar paddle";

@@ -1,1 +1,1 @@
-var mnemonic = "slide spring ostrich cage kiwi ability father isolate absurd real wear ketchup";
+var mnemonic = "ring base slam flock portion emerge enforce bulb service position among permit";

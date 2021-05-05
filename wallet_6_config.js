@@ -1,1 +1,1 @@
-var mnemonic = "remove arrive obtain fancy bubble key shop over anger ticket waste castle";
+var mnemonic = "dragon clerk whale worry toddler foot bachelor cup blanket fall battle wire";

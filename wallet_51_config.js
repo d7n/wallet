@@ -1,1 +1,1 @@
-var mnemonic = "wrap elite harbor garden crazy predict entry sweet this cherry holiday meat";
+var mnemonic = "valve input short shoot result flavor fetch next right luggage shrimp dismiss";

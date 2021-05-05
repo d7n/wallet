@@ -1,1 +1,1 @@
-var mnemonic = "pen rather already move vanish decrease clip rookie dentist bid bulk swear";
+var mnemonic = "reopen aunt black defy upon avocado bleak educate whale shiver plunge remove";

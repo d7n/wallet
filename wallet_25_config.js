@@ -1,1 +1,1 @@
-var mnemonic = "mansion knife rack yellow joke dumb student idle approve dune nature figure";
+var mnemonic = "random zebra dragon roast industry upset biology tobacco hurry soap pyramid survey";

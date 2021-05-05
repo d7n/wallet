@@ -1,1 +1,1 @@
-var mnemonic = "copy render cannon hair absent lava begin desk you yard tortoise clap";
+var mnemonic = "swarm orchard surface own parent visual about spin weasel inner elephant health";

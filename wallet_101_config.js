@@ -1,1 +1,1 @@
-var mnemonic = "era vacuum mountain drop speed mistake fence very cross book pupil mad";
+var mnemonic = "six bracket strategy next common again struggle trophy pool stove chunk jacket";

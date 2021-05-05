@@ -1,1 +1,1 @@
-var mnemonic = "category gasp junior token token panel pizza dignity worry leave organ frog";
+var mnemonic = "ocean unique cancel genre episode genre zoo settle glad husband unfold zoo";

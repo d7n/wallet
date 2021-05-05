@@ -1,1 +1,1 @@
-var mnemonic = "glass detect pledge share pause chalk collect finish medal kid balance chapter";
+var mnemonic = "coffee fly tumble clip under hair label since lizard gloom news token";

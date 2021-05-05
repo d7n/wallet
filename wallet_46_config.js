@@ -1,1 +1,1 @@
-var mnemonic = "switch day trap guess audit liquid day shock still myself belt sudden";
+var mnemonic = "party add alone iron omit zebra sure rich goddess worry spawn plastic";

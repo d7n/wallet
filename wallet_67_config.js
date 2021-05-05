@@ -1,1 +1,1 @@
-var mnemonic = "lens attack forget chronic special grocery weapon debris diamond sell orchard liar";
+var mnemonic = "victory march frame digital powder drum discover vote tube potato axis demise";

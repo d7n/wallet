@@ -1,1 +1,1 @@
-var mnemonic = "follow vague narrow true scorpion wise wrestle apple coconut prepare harvest bonus";
+var mnemonic = "hobby budget dutch unit visual hand album shock trust broom lazy able";

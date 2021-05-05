@@ -1,1 +1,1 @@
-var mnemonic = "blue bean hand approve video mistake song attract display dinosaur pepper nut";
+var mnemonic = "all super apple coyote mother sword fossil sail speed report economy claw";

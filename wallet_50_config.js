@@ -1,1 +1,1 @@
-var mnemonic = "cement quality spray diagram field dragon lyrics kind autumn type child square";
+var mnemonic = "egg labor surface cat frog dirt fault bridge remember insane add allow";

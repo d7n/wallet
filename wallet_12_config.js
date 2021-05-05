@@ -1,1 +1,1 @@
-var mnemonic = "favorite mercy talk gravity patch soon flip lens grit dinosaur spray sand";
+var mnemonic = "paddle patient kingdom fruit just moral play orient coast manage session short";

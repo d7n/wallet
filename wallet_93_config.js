@@ -1,1 +1,1 @@
-var mnemonic = "famous category together flash faculty tilt employ advance original across upon crumble";
+var mnemonic = "simple emerge acid belt kite syrup acoustic fan notice heavy fork business";

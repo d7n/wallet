@@ -1,1 +1,1 @@
-var mnemonic = "chunk energy maze breeze favorite latin noise skin test cute meadow struggle";
+var mnemonic = "olympic harsh click decline dinosaur fragile tell crack attack seed next sell";

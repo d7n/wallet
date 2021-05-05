@@ -1,1 +1,1 @@
-var mnemonic = "slim cheap cake green what metal avoid nest marble insect pencil assume";
+var mnemonic = "sight vehicle save grief engine pill still quantum crunch scene solve oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "fee describe alien word mansion sad maze fresh measure patch squeeze drill";
+var mnemonic = "clown pride high lesson wrap fun expand afraid frown book subway demise";

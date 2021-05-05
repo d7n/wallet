@@ -1,1 +1,1 @@
-var mnemonic = "owner stable syrup ugly snow impulse false fatal neglect volcano sand matrix";
+var mnemonic = "edit before payment grab choice lumber shuffle arrange spider stay stay waste";

@@ -1,1 +1,1 @@
-var mnemonic = "old step chair caught cake nature cruel hamster note wet hidden assume";
+var mnemonic = "omit defense marine west shoot much twist coin spy over ancient risk";

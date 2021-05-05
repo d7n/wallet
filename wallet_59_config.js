@@ -1,1 +1,1 @@
-var mnemonic = "solution ticket circle allow olive industry snack measure alley scheme crawl rural";
+var mnemonic = "source earth whisper connect critic crowd supreme menu chef hundred attitude doctor";

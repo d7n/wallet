@@ -1,1 +1,1 @@
-var mnemonic = "trial drama until permit amateur protect road minor keen permit usage more";
+var mnemonic = "plastic oxygen swing tilt bamboo join angry distance shaft device tortoise parent";

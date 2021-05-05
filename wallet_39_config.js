@@ -1,1 +1,1 @@
-var mnemonic = "tag glow empower runway essence sound auto awesome drip bitter push mass";
+var mnemonic = "ancient myself little glue dirt sausage ramp spoil undo menu company damage";

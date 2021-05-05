@@ -1,1 +1,1 @@
-var mnemonic = "valley pear motor skin cancel neither insane glue picture search flight pride";
+var mnemonic = "recall enough basic merry anchor hub random police admit position wreck expose";

@@ -1,1 +1,1 @@
-var mnemonic = "note clown february other gauge marriage quality paper hundred notable boring jealous";
+var mnemonic = "ivory broccoli reveal exchange public cabin expire parrot weapon together embark diet";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle ostrich breeze army label crowd glow dish crane foster quantum virus";
+var mnemonic = "early drill hurdle urge soft people paper impact garage obvious fuel horror";

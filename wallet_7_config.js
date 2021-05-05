@@ -1,1 +1,1 @@
-var mnemonic = "unveil error glad salute universe burden into edit ring pupil chair ritual";
+var mnemonic = "mother apple cute proof suffer west pluck bright describe rapid daring shine";

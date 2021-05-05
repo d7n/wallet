@@ -1,1 +1,1 @@
-var mnemonic = "express celery control foam penalty sword merry cluster hat tail deal cattle";
+var mnemonic = "option stomach oval scare shell raise dragon ceiling voice tourist liar explain";

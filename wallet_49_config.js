@@ -1,1 +1,1 @@
-var mnemonic = "keep cannon width magic country typical undo educate income zero puzzle inspire";
+var mnemonic = "error round fragile uncle question bone glass excess large uncover denial sunny";

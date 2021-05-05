@@ -1,1 +1,1 @@
-var mnemonic = "senior super together path hint kangaroo drive junk near critic machine infant";
+var mnemonic = "snack meat tower material junk order tiny slice horror armed film panther";

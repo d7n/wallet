@@ -1,1 +1,1 @@
-var mnemonic = "mass foam heavy game item gravity lazy clutch caution gas fortune jazz";
+var mnemonic = "obtain exclude cloud smoke lunch book shaft artefact merge dutch arena because";
