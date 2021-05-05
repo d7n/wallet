@@ -1,1 +1,1 @@
-var mnemonic = "palace legal enact achieve slush excuse science year ethics electric harvest raccoon";
+var mnemonic = "over glide twelve run gate wish bicycle beach regular concert snack cage";

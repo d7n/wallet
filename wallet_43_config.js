@@ -1,1 +1,1 @@
-var mnemonic = "peasant begin praise gun arch proud canyon sick enrich flock stove metal";
+var mnemonic = "sniff weasel fan dawn general grant minimum safe program sunny luxury destroy";

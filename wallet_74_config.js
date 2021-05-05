@@ -1,1 +1,1 @@
-var mnemonic = "staff valley edge crack pave pass another olive tomorrow camp exclude sample";
+var mnemonic = "mystery enable copper expect mask cruel guitar office midnight blossom wood tonight";

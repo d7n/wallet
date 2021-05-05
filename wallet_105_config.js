@@ -1,1 +1,1 @@
-var mnemonic = "wink parent trash wreck arch pride play unfold evolve august erase step";
+var mnemonic = "honey now oak witness phrase people reunion song shield subway divide buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh feature joke melody unique kite purity review final dilemma satoshi clap";
+var mnemonic = "gentle switch polar swim good afford way love wheat size sing magic";

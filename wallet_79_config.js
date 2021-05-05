@@ -1,1 +1,1 @@
-var mnemonic = "mystery tuna thrive joke draw crush push evidence until essay spirit remember";
+var mnemonic = "coyote cross clever install slim place home post envelope sing nurse trophy";

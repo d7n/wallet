@@ -1,1 +1,1 @@
-var mnemonic = "squirrel elbow client powder model differ because crystal picnic mammal border desert";
+var mnemonic = "profit sister owner bottom lawn sick merry muffin angry view hybrid budget";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle sport video urban arrive robust almost island one marble run word";
+var mnemonic = "weapon wonder dutch weird example assume endless nerve name umbrella abandon dinosaur";

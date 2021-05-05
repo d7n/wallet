@@ -1,1 +1,1 @@
-var mnemonic = "fetch cable spring area divert vapor pony garlic sadness unit ancient three";
+var mnemonic = "cargo strike voyage discover artefact rebuild wine rebel engage clean raise suspect";

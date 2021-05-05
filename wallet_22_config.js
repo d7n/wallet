@@ -1,1 +1,1 @@
-var mnemonic = "behind hint loop cool garment pledge like world suggest direct until follow";
+var mnemonic = "wear shoulder team scatter emotion buzz indicate room fever dinosaur between knock";

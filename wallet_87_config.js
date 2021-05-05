@@ -1,1 +1,1 @@
-var mnemonic = "stem fence pill message patrol adult opinion will step upon occur choice";
+var mnemonic = "giant truly tunnel strike apart army wink want code fat brisk holiday";

@@ -1,1 +1,1 @@
-var mnemonic = "crop gain great fun fat judge pattern night reopen earn machine actual";
+var mnemonic = "bind later clump wet doll crater rent cream ozone verify turkey crystal";

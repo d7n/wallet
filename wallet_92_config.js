@@ -1,1 +1,1 @@
-var mnemonic = "inch filter surprise claw brave neglect sand slight wrong goddess give route";
+var mnemonic = "price true raccoon region extend feel impose cat wool broken save tomorrow";

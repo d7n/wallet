@@ -1,1 +1,1 @@
-var mnemonic = "drum dash catch hill novel rich coin unveil canyon crucial pitch swallow";
+var mnemonic = "point flavor unlock second fish clever damage imitate cook gun insect couple";

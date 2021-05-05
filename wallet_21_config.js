@@ -1,1 +1,1 @@
-var mnemonic = "mistake oppose identify engage magnet error banana husband sudden nothing world cricket";
+var mnemonic = "casino recall cancel figure expire still trumpet work lazy swim bring athlete";

@@ -1,1 +1,1 @@
-var mnemonic = "element also roof blossom squeeze image ocean together floor task joy salad";
+var mnemonic = "wild topple tiny cup little remain exercise ship matter fork blanket jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter vague soon tackle shiver emerge gravity surge birth keen curious tent";
+var mnemonic = "copy survey forum more army cat visa chicken congress attend video radar";

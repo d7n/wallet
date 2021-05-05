@@ -1,1 +1,1 @@
-var mnemonic = "energy useless vocal method excess upon group riot cargo van rose calm";
+var mnemonic = "garage cart flag garlic pepper enact view device sort jelly tail message";

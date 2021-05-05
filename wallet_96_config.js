@@ -1,1 +1,1 @@
-var mnemonic = "one winter police thunder repair make caution hunt peace word sibling truck";
+var mnemonic = "scorpion tomorrow liar lonely rough bonus version wheel piece design equal cabbage";

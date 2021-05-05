@@ -1,1 +1,1 @@
-var mnemonic = "cheese country cram thumb critic gallery cover helmet romance they tragic diet";
+var mnemonic = "sniff catalog audit dust puppy hand cloud stumble sell unfair agree bomb";

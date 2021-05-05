@@ -1,1 +1,1 @@
-var mnemonic = "right expose exotic grocery urban conduct nest satisfy key satisfy east brisk";
+var mnemonic = "clutch ice almost clog donate tennis good isolate skirt kangaroo melody tuna";

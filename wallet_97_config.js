@@ -1,1 +1,1 @@
-var mnemonic = "gentle age warfare honey garment famous laugh pupil window color rent carry";
+var mnemonic = "range lizard picnic job allow embark ask brass ceiling street royal exit";

@@ -1,1 +1,1 @@
-var mnemonic = "awake level mansion medal culture hunt scale abuse own elephant clerk purpose";
+var mnemonic = "table capital long bubble metal need cheese laptop eager start unaware improve";

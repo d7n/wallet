@@ -1,1 +1,1 @@
-var mnemonic = "wasp blouse race crisp image deposit humor rescue angle smart arch merge";
+var mnemonic = "cherry dwarf unique option blade move behind bachelor chaos flame salad elbow";

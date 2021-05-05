@@ -1,1 +1,1 @@
-var mnemonic = "that major giraffe dentist leopard exchange marriage near depth original visa drill";
+var mnemonic = "supreme path camera soul glimpse consider addict expire fine fever hungry problem";

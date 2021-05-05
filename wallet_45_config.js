@@ -1,1 +1,1 @@
-var mnemonic = "sausage faint lion pelican scrap whale abuse winner life acid text inquiry";
+var mnemonic = "rack cluster van dish rare soda common save rookie solve giggle federal";

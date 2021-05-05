@@ -1,1 +1,1 @@
-var mnemonic = "grunt bubble nephew onion bread frown path load maximum dwarf lounge mango";
+var mnemonic = "merit animal funny toast spare mountain rude barrel bag earn company six";

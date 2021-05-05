@@ -1,1 +1,1 @@
-var mnemonic = "maple endorse enrich sorry type film raven sight invest crunch jump midnight";
+var mnemonic = "garbage middle amount evolve invest sugar matter travel stick van genuine trap";

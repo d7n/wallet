@@ -1,1 +1,1 @@
-var mnemonic = "version melt dawn absurd also flight shrimp same need athlete exhaust nest";
+var mnemonic = "burger piano already flush join double issue olympic upgrade version edit capable";

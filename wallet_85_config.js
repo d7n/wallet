@@ -1,1 +1,1 @@
-var mnemonic = "basket knife squeeze stairs approve soap finger ill horror approve myself sample";
+var mnemonic = "kingdom language traffic outdoor fence pony topic swear goat route lock song";

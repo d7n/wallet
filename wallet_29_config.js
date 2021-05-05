@@ -1,1 +1,1 @@
-var mnemonic = "expire critic youth busy clinic lemon smooth chef major stand unlock pigeon";
+var mnemonic = "wedding radar tattoo math title silent wish west client arrive child globe";

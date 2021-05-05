@@ -1,1 +1,1 @@
-var mnemonic = "cloth glass cruise symptom help hawk juice topple evidence shoot comfort teach";
+var mnemonic = "duty language buffalo alpha source wedding chapter theory client wrist ice course";

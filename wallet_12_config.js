@@ -1,1 +1,1 @@
-var mnemonic = "round resist benefit faculty square damp dismiss current brick camera step soft";
+var mnemonic = "also boring satisfy pave surround gauge harbor sad ripple patrol swing noble";

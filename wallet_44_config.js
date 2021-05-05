@@ -1,1 +1,1 @@
-var mnemonic = "voyage ensure notice broccoli federal garbage shoulder resource sugar swamp boss arrest";
+var mnemonic = "jelly satoshi inject mushroom kingdom advice list logic rescue orbit kiss drink";

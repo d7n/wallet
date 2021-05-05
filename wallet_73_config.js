@@ -1,1 +1,1 @@
-var mnemonic = "chair roof ancient grass dust charge cup cabin mutual attitude little birth";
+var mnemonic = "room fluid office blast napkin aunt table clutch security hotel mixed cat";

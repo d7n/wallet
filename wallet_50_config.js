@@ -1,1 +1,1 @@
-var mnemonic = "hair hint grid coach myth twelve earth vacuum reward collect wasp symbol";
+var mnemonic = "position about exist define dinner arctic fiction erupt mother hub popular child";

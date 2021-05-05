@@ -1,1 +1,1 @@
-var mnemonic = "month army barely grab then leader gossip talent funny survey question shove";
+var mnemonic = "tiger nurse fragile ozone else cake usual naive thunder green family trouble";

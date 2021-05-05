@@ -1,1 +1,1 @@
-var mnemonic = "liberty goat coach brave curious element pepper level damp wing surround change";
+var mnemonic = "frame leisure bleak fragile custom arm false into unit wear rent honey";

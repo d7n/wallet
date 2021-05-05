@@ -1,1 +1,1 @@
-var mnemonic = "symbol rail wood around dial faint habit dynamic grant adjust person random";
+var mnemonic = "wheat avocado kidney wall polar fetch media decide fit cushion move run";

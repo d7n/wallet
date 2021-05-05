@@ -1,1 +1,1 @@
-var mnemonic = "woman fix author dish ride dial together swift sorry super level fortune";
+var mnemonic = "speak predict trigger wild present design surge vehicle develop bulb yellow dragon";

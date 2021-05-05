@@ -1,1 +1,1 @@
-var mnemonic = "glass design jelly acid two rude alpha tide puppy steel other arch";
+var mnemonic = "attitude brand gun novel bunker sudden mesh genre sheriff inspire still weekend";

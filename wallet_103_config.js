@@ -1,1 +1,1 @@
-var mnemonic = "about desk later teach defy giraffe miss chief purse document path brush";
+var mnemonic = "rough sponsor worth enhance gain more stock fix cabbage celery celery brick";

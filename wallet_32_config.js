@@ -1,1 +1,1 @@
-var mnemonic = "piece excuse fire check fish unfair into thumb stove dismiss trophy soul";
+var mnemonic = "couple dial will enough robot rare chuckle luxury merry mammal burger foot";

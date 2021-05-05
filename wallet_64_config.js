@@ -1,1 +1,1 @@
-var mnemonic = "dumb globe million lion author sponsor flat alcohol prefer affair news rice";
+var mnemonic = "tortoise ball clown kiss clutch another anxiety very deer fat mass impulse";

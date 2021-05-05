@@ -1,1 +1,1 @@
-var mnemonic = "labor section wet glimpse pen rule addict basic ensure flower muffin autumn";
+var mnemonic = "slab soda ginger primary average climb sport poverty useful save field sausage";

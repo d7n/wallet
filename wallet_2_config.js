@@ -1,1 +1,1 @@
-var mnemonic = "oxygen dinosaur combine near often evoke palm uncover plunge trade genuine member";
+var mnemonic = "depth siren old vacant short weapon mule umbrella salon idea coast crane";

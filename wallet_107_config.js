@@ -1,1 +1,1 @@
-var mnemonic = "sister target about undo tourist industry foot time image chase equip opinion";
+var mnemonic = "orphan hotel plate matter foster winter world sphere update axis lumber wing";

@@ -1,1 +1,1 @@
-var mnemonic = "alone predict retreat viable hidden future pitch give daughter kangaroo visual stock";
+var mnemonic = "eyebrow battle promote actor inner frog capable nation ask brief rice chalk";

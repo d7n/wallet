@@ -1,1 +1,1 @@
-var mnemonic = "decline record bullet salt frown estate thing add defense spin sister mosquito";
+var mnemonic = "list monitor noise better spoon scheme home fantasy letter parade cat liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "clap viable pact ranch gather final sad angle uncle cause own treat";
+var mnemonic = "any group elephant fossil autumn visit sunny phrase cost walnut mother cheap";

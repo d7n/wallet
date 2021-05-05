@@ -1,1 +1,1 @@
-var mnemonic = "gap lamp marine gentle girl myself noble face taxi chest hybrid eternal";
+var mnemonic = "disagree early flower donor damp spirit opera antique base chair senior hero";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose pig neither zebra pioneer crane liar art reopen joy video speed";
+var mnemonic = "monkey lottery school hunt join swing donor pen inherit zoo wheel loud";

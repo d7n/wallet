@@ -1,1 +1,1 @@
-var mnemonic = "wheat ring sentence shallow write arrow tomorrow alert melt switch engine such";
+var mnemonic = "just tissue actress grit rely rival casino elite library blouse mesh feed";

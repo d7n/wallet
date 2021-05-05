@@ -1,1 +1,1 @@
-var mnemonic = "bonus defy crazy film pride daughter unable romance model alert robust near";
+var mnemonic = "hurt satisfy clinic reform garden friend spray helmet survey museum evidence receive";

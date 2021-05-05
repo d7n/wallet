@@ -1,1 +1,1 @@
-var mnemonic = "health latin switch face owner couch dice knee siege wrap answer foot";
+var mnemonic = "scorpion outdoor walk east good dress allow pelican artist behind shed amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "fade hire monster announce equal panther siege sheriff always recipe immune regret";
+var mnemonic = "alcohol once blossom afraid raven pilot fly champion admit quit place kit";

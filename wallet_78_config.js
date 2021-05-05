@@ -1,1 +1,1 @@
-var mnemonic = "ready cover deputy near fade theory clog pluck aerobic measure fresh settle";
+var mnemonic = "liquid oxygen emotion strike twice quit history debris frame toilet maple flame";

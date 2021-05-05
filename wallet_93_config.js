@@ -1,1 +1,1 @@
-var mnemonic = "famous melody genius element pact close cloud jeans slow outer woman baby";
+var mnemonic = "bamboo safe rule copper kitten dune never orient scout cargo glove tornado";

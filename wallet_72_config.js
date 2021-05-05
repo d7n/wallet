@@ -1,1 +1,1 @@
-var mnemonic = "opinion fix jeans walk antenna kit fiction problem visit quarter civil proud";
+var mnemonic = "scatter quick need suspect auto word long liar winner burger favorite travel";

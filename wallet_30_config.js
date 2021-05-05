@@ -1,1 +1,1 @@
-var mnemonic = "sunny coconut crazy nurse garden urban marine call account stone fine ball";
+var mnemonic = "bulb winter panel mass today cement general surface example aware reward change";

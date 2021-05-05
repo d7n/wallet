@@ -1,1 +1,1 @@
-var mnemonic = "north baby broccoli sword program siren hungry frozen fly brave game twist";
+var mnemonic = "stamp valid slender extend know topple nice accuse rhythm finger address practice";

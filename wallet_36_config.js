@@ -1,1 +1,1 @@
-var mnemonic = "design sudden cigar ivory outside wrestle angle assist indicate wealth palace mountain";
+var mnemonic = "favorite joke device direct toddler awful unlock pioneer knock van candy spike";

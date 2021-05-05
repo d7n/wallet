@@ -1,1 +1,1 @@
-var mnemonic = "now fork interest drastic ability mystery bicycle future zebra crisp dutch blanket";
+var mnemonic = "junior asthma oppose eyebrow avoid barrel search merit convince culture endless regret";

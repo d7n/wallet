@@ -1,1 +1,1 @@
-var mnemonic = "glide exist hamster shoulder sell buddy rebel earn spawn clarify lounge donkey";
+var mnemonic = "step island mask when chase ordinary guitar keep squirrel worth broom until";

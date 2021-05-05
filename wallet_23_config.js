@@ -1,1 +1,1 @@
-var mnemonic = "rabbit mad easily fine game truth dinner chest oil season sand chase";
+var mnemonic = "there service hole aim build secret fish become absurd joke crisp feature";

@@ -1,1 +1,1 @@
-var mnemonic = "tree left sail lemon palm approve author trust three primary since robust";
+var mnemonic = "avoid recipe marble expand circle length foam smart supreme april rhythm clown";

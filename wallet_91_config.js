@@ -1,1 +1,1 @@
-var mnemonic = "early combine sock bird debate expand fire chapter round stumble child try";
+var mnemonic = "slam velvet blouse ten dwarf sample able draft math enable park flavor";

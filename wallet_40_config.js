@@ -1,1 +1,1 @@
-var mnemonic = "festival eight flush soon message close lazy ankle avoid very sting shoe";
+var mnemonic = "forget trend tape ozone wrestle filter father job this comfort ginger ritual";

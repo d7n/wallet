@@ -1,1 +1,1 @@
-var mnemonic = "fork best garden clinic neutral power summer tribe mixed supply scissors flee";
+var mnemonic = "oval useless actor various leg expire sniff liar kick sunny bonus garage";

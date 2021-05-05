@@ -1,1 +1,1 @@
-var mnemonic = "strategy comic cluster sand client noise accuse employ type combine urban very";
+var mnemonic = "lawn suffer design element kiwi great stove anger hole obvious knee plastic";

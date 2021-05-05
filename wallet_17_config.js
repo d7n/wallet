@@ -1,1 +1,1 @@
-var mnemonic = "scatter race clip furnace army corn remain hen park tobacco girl sell";
+var mnemonic = "melody ask chair dream beef initial road where bright entry want world";

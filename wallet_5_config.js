@@ -1,1 +1,1 @@
-var mnemonic = "polar fragile sniff fringe angle host prepare all tomorrow lens evidence enforce";
+var mnemonic = "wrap heavy mom step waste cheap move power spray among cross eight";

@@ -1,1 +1,1 @@
-var mnemonic = "convince harsh stuff vocal rack error seek jacket wedding twenty fruit market";
+var mnemonic = "setup time hawk cargo ketchup medal neglect uncle method response celery copy";

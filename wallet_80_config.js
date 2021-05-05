@@ -1,1 +1,1 @@
-var mnemonic = "target pact north tiger cabbage surprise enjoy account goat share liberty melt";
+var mnemonic = "enemy crucial noble circle ahead earth sweet exercise brisk knife suffer pencil";

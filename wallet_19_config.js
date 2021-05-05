@@ -1,1 +1,1 @@
-var mnemonic = "horn expire pitch laundry budget squirrel climb sample jeans smoke outer trim";
+var mnemonic = "tuna skull rebuild soft bridge crane gasp fee soul hip culture fresh";

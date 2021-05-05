@@ -1,1 +1,1 @@
-var mnemonic = "situate embark ozone claim hole green announce awful force various bargain base";
+var mnemonic = "foster quantum believe position damp palm judge broken fire judge talk toddler";

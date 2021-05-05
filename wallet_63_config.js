@@ -1,1 +1,1 @@
-var mnemonic = "whale win spray van impose swear stamp myself race file assault edit";
+var mnemonic = "all tower able peace midnight calm deal action alert sphere wrist embark";

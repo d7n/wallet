@@ -1,1 +1,1 @@
-var mnemonic = "denial earn exile aware immune clever midnight what disorder view ladder roof";
+var mnemonic = "elevator rapid pave follow stadium head forward gadget wave defense dance music";

@@ -1,1 +1,1 @@
-var mnemonic = "gap select tray brown hollow bamboo arch never tunnel gun paddle hair";
+var mnemonic = "cycle ribbon anchor celery aisle sniff neglect wood solve heavy aim best";

@@ -1,1 +1,1 @@
-var mnemonic = "inside bargain payment door aisle open chaos web venue awkward sausage mind";
+var mnemonic = "phone olive umbrella sister into novel bike prefer phrase start shy radar";

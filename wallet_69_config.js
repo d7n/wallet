@@ -1,1 +1,1 @@
-var mnemonic = "civil champion marble mixed rack left prosper artefact mystery keep erupt narrow";
+var mnemonic = "material apple profit achieve arena mind picnic pattern raise fashion jewel hard";

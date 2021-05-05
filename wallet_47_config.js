@@ -1,1 +1,1 @@
-var mnemonic = "urban face rabbit core layer test empower drill ring rapid law illness";
+var mnemonic = "sail tackle melody oval mobile daring genius used pride dynamic example involve";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral glance check only kick toe series diary provide hobby market abstract";
+var mnemonic = "sense frame scheme lawn fringe twin lock genius barely scare father bench";

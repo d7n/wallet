@@ -1,1 +1,1 @@
-var mnemonic = "number gesture unaware trick life public thank sure force viable cube vibrant";
+var mnemonic = "soup decide survey duck follow face better embark explain coin short asthma";

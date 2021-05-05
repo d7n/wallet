@@ -1,1 +1,1 @@
-var mnemonic = "light sphere shrug above syrup erosion spider picnic window funny ketchup debate";
+var mnemonic = "climb uncle vintage book math draft dance hollow catalog birth below video";

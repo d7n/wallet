@@ -1,1 +1,1 @@
-var mnemonic = "merit certain stool actress drop grace sense elephant metal skirt write combine";
+var mnemonic = "emotion never noise popular fresh pass work rich wall peasant bomb action";

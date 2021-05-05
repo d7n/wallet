@@ -1,1 +1,1 @@
-var mnemonic = "mountain wage embody alcohol later seek shoe cement knock patrol novel effort";
+var mnemonic = "army parrot mandate genuine throw tip odor jump below buzz innocent simple";
