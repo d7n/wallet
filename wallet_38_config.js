@@ -1,1 +1,1 @@
-var mnemonic = "life camp dad sand razor boat humble number put december eye early";
+var mnemonic = "volume wrong wrap country liar release sister chalk easily hamster harbor galaxy";

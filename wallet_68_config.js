@@ -1,1 +1,1 @@
-var mnemonic = "climb uncle vintage book math draft dance hollow catalog birth below video";
+var mnemonic = "pink crop shy follow rival load lend tide head account oppose pumpkin";

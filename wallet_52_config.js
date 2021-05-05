@@ -1,1 +1,1 @@
-var mnemonic = "fiscal height report focus much grid pyramid churn attend basket tortoise either";
+var mnemonic = "equal layer action shine pilot universe heavy defense normal magic strategy before";

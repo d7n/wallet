@@ -1,1 +1,1 @@
-var mnemonic = "duty language buffalo alpha source wedding chapter theory client wrist ice course";
+var mnemonic = "analyst struggle trial return shrug various carbon away robot decide private wait";

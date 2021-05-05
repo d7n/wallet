@@ -1,1 +1,1 @@
-var mnemonic = "rack cluster van dish rare soda common save rookie solve giggle federal";
+var mnemonic = "sell layer purchase review armor mystery fitness merge sick ridge sea impose";

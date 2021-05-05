@@ -1,1 +1,1 @@
-var mnemonic = "kingdom language traffic outdoor fence pony topic swear goat route lock song";
+var mnemonic = "supreme camera smart return embody alcohol dry finish cave utility subway job";

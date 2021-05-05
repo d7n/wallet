@@ -1,1 +1,1 @@
-var mnemonic = "tiger nurse fragile ozone else cake usual naive thunder green family trouble";
+var mnemonic = "action upon wire destroy setup pizza verify bicycle carry rebuild film spray";

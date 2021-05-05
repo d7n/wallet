@@ -1,1 +1,1 @@
-var mnemonic = "bamboo safe rule copper kitten dune never orient scout cargo glove tornado";
+var mnemonic = "vanish expand fork finish sketch enter media enrich absorb exclude endless velvet";

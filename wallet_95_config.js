@@ -1,1 +1,1 @@
-var mnemonic = "wild topple tiny cup little remain exercise ship matter fork blanket jewel";
+var mnemonic = "hazard purpose worry buffalo pulp cement area slot carry clog cake anxiety";

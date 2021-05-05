@@ -1,1 +1,1 @@
-var mnemonic = "globe horse trend echo disease adapt retreat forum unfold public artist master";
+var mnemonic = "senior old couple digital arrange pave excess lumber sock over address noise";

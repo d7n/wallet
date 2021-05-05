@@ -1,1 +1,1 @@
-var mnemonic = "emotion never noise popular fresh pass work rich wall peasant bomb action";
+var mnemonic = "quick goat logic blanket occur breeze ecology alpha ethics fine diesel denial";

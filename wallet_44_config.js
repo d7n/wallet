@@ -1,1 +1,1 @@
-var mnemonic = "jelly satoshi inject mushroom kingdom advice list logic rescue orbit kiss drink";
+var mnemonic = "liquid vanish express captain divorce park blind shrug child ranch fork swap";

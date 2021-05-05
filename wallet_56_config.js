@@ -1,1 +1,1 @@
-var mnemonic = "slab soda ginger primary average climb sport poverty useful save field sausage";
+var mnemonic = "bid february ask mosquito twice either pottery hover link cook slender image";

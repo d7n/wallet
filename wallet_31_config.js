@@ -1,1 +1,1 @@
-var mnemonic = "merit animal funny toast spare mountain rude barrel bag earn company six";
+var mnemonic = "caught envelope popular fiscal version nut argue alone coast profit advance explain";

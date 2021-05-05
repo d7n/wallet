@@ -1,1 +1,1 @@
-var mnemonic = "gesture ethics sample village little dumb helmet minimum chicken negative blouse diet";
+var mnemonic = "else ignore citizen fossil exhibit warfare safe fossil apart unhappy exile arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "sell length scan crush drum around noble forward sound uniform jungle south";
+var mnemonic = "unaware fan similar gloom verb attract voyage canoe click pave prevent chase";

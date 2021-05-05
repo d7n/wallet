@@ -1,1 +1,1 @@
-var mnemonic = "one hero improve quote impose enter danger attitude ramp cargo grunt august";
+var mnemonic = "idea sponsor brand two relax pulp witness tongue nest staff burst wish";

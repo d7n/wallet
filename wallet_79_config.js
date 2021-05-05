@@ -1,1 +1,1 @@
-var mnemonic = "coyote cross clever install slim place home post envelope sing nurse trophy";
+var mnemonic = "rally nose direct piece wrap champion dance hurry kick clarify spread diesel";

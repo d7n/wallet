@@ -1,1 +1,1 @@
-var mnemonic = "sail tackle melody oval mobile daring genius used pride dynamic example involve";
+var mnemonic = "evolve brave love pill they horror program wool mother team first hidden";

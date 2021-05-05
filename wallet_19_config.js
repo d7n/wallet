@@ -1,1 +1,1 @@
-var mnemonic = "tuna skull rebuild soft bridge crane gasp fee soul hip culture fresh";
+var mnemonic = "world tent position arena wrap atom dirt stone history primary modify retreat";

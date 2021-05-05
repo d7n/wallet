@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow battle promote actor inner frog capable nation ask brief rice chalk";
+var mnemonic = "cereal crater cave engine regret moon neutral fog path critic exit shop";

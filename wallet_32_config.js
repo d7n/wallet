@@ -1,1 +1,1 @@
-var mnemonic = "couple dial will enough robot rare chuckle luxury merry mammal burger foot";
+var mnemonic = "elegant state consider avoid bench curious lion model when month brick derive";

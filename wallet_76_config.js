@@ -1,1 +1,1 @@
-var mnemonic = "clutch ice almost clog donate tennis good isolate skirt kangaroo melody tuna";
+var mnemonic = "price sibling absurd chaos market steel blouse video prize message moon poet";

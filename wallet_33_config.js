@@ -1,1 +1,1 @@
-var mnemonic = "alcohol once blossom afraid raven pilot fly champion admit quit place kit";
+var mnemonic = "outdoor siege plastic polar gown enjoy night include wink runway until hold";

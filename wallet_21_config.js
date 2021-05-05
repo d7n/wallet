@@ -1,1 +1,1 @@
-var mnemonic = "casino recall cancel figure expire still trumpet work lazy swim bring athlete";
+var mnemonic = "tribe capital fame escape reform boil marriage divide imitate quality fabric baby";

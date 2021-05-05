@@ -1,1 +1,1 @@
-var mnemonic = "alarm syrup design clutch today settle reunion lawsuit crater benefit act live";
+var mnemonic = "deputy close this morning nephew luggage stone toilet already myself mimic fashion";

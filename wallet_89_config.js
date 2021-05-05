@@ -1,1 +1,1 @@
-var mnemonic = "cargo strike voyage discover artefact rebuild wine rebel engage clean raise suspect";
+var mnemonic = "spoil fan casino alpha keen rice mix stamp tired argue tomorrow chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "enemy crucial noble circle ahead earth sweet exercise brisk knife suffer pencil";
+var mnemonic = "fiscal bicycle over silly hawk where gasp permit dice ordinary extra pave";

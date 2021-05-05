@@ -1,1 +1,1 @@
-var mnemonic = "common acid wage father private genius together shaft embrace remove train tower";
+var mnemonic = "capital cup royal catch mechanic abstract hurt lesson humor slow similar order";

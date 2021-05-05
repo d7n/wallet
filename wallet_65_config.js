@@ -1,1 +1,1 @@
-var mnemonic = "garbage middle amount evolve invest sugar matter travel stick van genuine trap";
+var mnemonic = "hello rubber adult talk illness spider garlic venue change memory initial radio";

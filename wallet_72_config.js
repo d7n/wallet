@@ -1,1 +1,1 @@
-var mnemonic = "scatter quick need suspect auto word long liar winner burger favorite travel";
+var mnemonic = "beauty mountain minute below dumb umbrella helmet zero proud donkey fiction melody";

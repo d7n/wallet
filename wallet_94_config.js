@@ -1,1 +1,1 @@
-var mnemonic = "junior asthma oppose eyebrow avoid barrel search merit convince culture endless regret";
+var mnemonic = "empower doctor crop magic vacant economy feel theory movie admit young fog";

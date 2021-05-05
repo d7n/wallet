@@ -1,1 +1,1 @@
-var mnemonic = "lawn suffer design element kiwi great stove anger hole obvious knee plastic";
+var mnemonic = "alone talent surround ball library setup state test vacant glove choose sketch";

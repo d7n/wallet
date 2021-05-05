@@ -1,1 +1,1 @@
-var mnemonic = "attitude brand gun novel bunker sudden mesh genre sheriff inspire still weekend";
+var mnemonic = "fresh lobster problem brass deposit remain lazy erupt mixture property volcano peace";

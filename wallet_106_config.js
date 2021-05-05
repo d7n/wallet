@@ -1,1 +1,1 @@
-var mnemonic = "list monitor noise better spoon scheme home fantasy letter parade cat liberty";
+var mnemonic = "local helmet rebel priority slim pull poet satoshi hurry man canoe amused";

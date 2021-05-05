@@ -1,1 +1,1 @@
-var mnemonic = "setup time hawk cargo ketchup medal neglect uncle method response celery copy";
+var mnemonic = "inhale gravity stem random wild tower unable daughter melody nature core uniform";

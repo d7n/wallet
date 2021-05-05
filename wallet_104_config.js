@@ -1,1 +1,1 @@
-var mnemonic = "disorder assume random slender draw milk remain empty unknown exit safe polar";
+var mnemonic = "unveil armor recipe airport promote salon pen aim suspect clarify twenty satisfy";

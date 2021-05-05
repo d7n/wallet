@@ -1,1 +1,1 @@
-var mnemonic = "universe brisk ring clock chair cage tail knock wagon clap peanut print";
+var mnemonic = "there culture lion blast aspect drill vivid rent bless insane giant wealth";

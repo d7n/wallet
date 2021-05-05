@@ -1,1 +1,1 @@
-var mnemonic = "all tower able peace midnight calm deal action alert sphere wrist embark";
+var mnemonic = "describe roof chuckle width duty warfare speed sauce test stamp country pluck";

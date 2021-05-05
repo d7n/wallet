@@ -1,1 +1,1 @@
-var mnemonic = "cherry dwarf unique option blade move behind bachelor chaos flame salad elbow";
+var mnemonic = "popular mercy joy noise another fruit below orient approve magnet special mixed";

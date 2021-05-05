@@ -1,1 +1,1 @@
-var mnemonic = "over glide twelve run gate wish bicycle beach regular concert snack cage";
+var mnemonic = "advance spread deer chalk merit away canoe fortune local husband accuse hill";

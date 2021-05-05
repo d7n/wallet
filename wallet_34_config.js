@@ -1,1 +1,1 @@
-var mnemonic = "thrive faint patrol other unveil nerve verb consider nurse trophy vapor kitchen";
+var mnemonic = "such broccoli jazz ecology easily vapor mule sound pact episode eyebrow barrel";

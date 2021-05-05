@@ -1,1 +1,1 @@
-var mnemonic = "supreme path camera soul glimpse consider addict expire fine fever hungry problem";
+var mnemonic = "connect glide female private chaos situate hip explain smooth math climb sugar";

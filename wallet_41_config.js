@@ -1,1 +1,1 @@
-var mnemonic = "step island mask when chase ordinary guitar keep squirrel worth broom until";
+var mnemonic = "wrap discover cloth embark account step need what sign sister burger vague";

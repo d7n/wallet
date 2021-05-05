@@ -1,1 +1,1 @@
-var mnemonic = "position about exist define dinner arctic fiction erupt mother hub popular child";
+var mnemonic = "release skate improve onion immense bottom adult auto giggle torch wolf repair";

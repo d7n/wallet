@@ -1,1 +1,1 @@
-var mnemonic = "soul feed obvious glance civil baby replace element rely task grant tree";
+var mnemonic = "alter turtle laptop cannon lecture sign diet wild check fetch decade bread";

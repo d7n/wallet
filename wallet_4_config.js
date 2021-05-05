@@ -1,1 +1,1 @@
-var mnemonic = "bind later clump wet doll crater rent cream ozone verify turkey crystal";
+var mnemonic = "once title father wave cover repair room buffalo soda fatigue trip material";

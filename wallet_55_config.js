@@ -1,1 +1,1 @@
-var mnemonic = "weapon wonder dutch weird example assume endless nerve name umbrella abandon dinosaur";
+var mnemonic = "nurse artwork pistol napkin coach powder outside false scale shaft strong wrist";

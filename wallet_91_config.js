@@ -1,1 +1,1 @@
-var mnemonic = "slam velvet blouse ten dwarf sample able draft math enable park flavor";
+var mnemonic = "symptom oppose mouse reduce swear fuel early bronze loyal parrot birth pizza";

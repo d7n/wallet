@@ -1,1 +1,1 @@
-var mnemonic = "depth siren old vacant short weapon mule umbrella salon idea coast crane";
+var mnemonic = "permit dinosaur sketch eager beyond material isolate puzzle horn fitness satoshi orient";

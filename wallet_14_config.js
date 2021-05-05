@@ -1,1 +1,1 @@
-var mnemonic = "mutual salad tuna version unfold sea nothing horse orient leg cheap flock";
+var mnemonic = "setup city asset zebra artist future barrel fold eternal vacant shrimp item";

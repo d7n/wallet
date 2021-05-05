@@ -1,1 +1,1 @@
-var mnemonic = "monkey lottery school hunt join swing donor pen inherit zoo wheel loud";
+var mnemonic = "smooth run used put health chronic usual flavor shuffle voice hazard matrix";

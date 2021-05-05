@@ -1,1 +1,1 @@
-var mnemonic = "soup decide survey duck follow face better embark explain coin short asthma";
+var mnemonic = "teach loud charge bottom toddler pyramid hungry creek hidden oval save sign";

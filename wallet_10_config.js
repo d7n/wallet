@@ -1,1 +1,1 @@
-var mnemonic = "speak predict trigger wild present design surge vehicle develop bulb yellow dragon";
+var mnemonic = "air penalty sketch object hybrid cereal recall judge great guitar flag stable";

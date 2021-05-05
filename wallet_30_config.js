@@ -1,1 +1,1 @@
-var mnemonic = "bulb winter panel mass today cement general surface example aware reward change";
+var mnemonic = "roast hockey recipe forum announce error insane loop bulb enter march inject";

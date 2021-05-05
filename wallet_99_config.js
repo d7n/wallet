@@ -1,1 +1,1 @@
-var mnemonic = "point flavor unlock second fish clever damage imitate cook gun insect couple";
+var mnemonic = "casino device summer aspect venue harsh cattle wave dog million armed enact";

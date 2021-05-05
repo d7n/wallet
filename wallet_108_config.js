@@ -1,1 +1,1 @@
-var mnemonic = "scorpion outdoor walk east good dress allow pelican artist behind shed amateur";
+var mnemonic = "chef remain field shrimp humor display erode act blue shine bonus ramp";

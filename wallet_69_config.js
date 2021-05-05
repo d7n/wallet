@@ -1,1 +1,1 @@
-var mnemonic = "material apple profit achieve arena mind picnic pattern raise fashion jewel hard";
+var mnemonic = "absent feature must motion mechanic sound state tone family chest during family";

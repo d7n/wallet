@@ -1,1 +1,1 @@
-var mnemonic = "oval useless actor various leg expire sniff liar kick sunny bonus garage";
+var mnemonic = "kidney sea cradle gaze skin inch one quality merry scout beyond useless";

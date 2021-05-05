@@ -1,1 +1,1 @@
-var mnemonic = "foster quantum believe position damp palm judge broken fire judge talk toddler";
+var mnemonic = "deputy arm junk page similar food bitter jar jacket spot float master";

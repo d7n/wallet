@@ -1,1 +1,1 @@
-var mnemonic = "cycle ribbon anchor celery aisle sniff neglect wood solve heavy aim best";
+var mnemonic = "trap organ when steak lake extra glue muffin idle canal unique pig";

@@ -1,1 +1,1 @@
-var mnemonic = "avoid recipe marble expand circle length foam smart supreme april rhythm clown";
+var mnemonic = "rib sting kind tattoo tone forget lottery update hood onion whip episode";

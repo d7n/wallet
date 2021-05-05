@@ -1,1 +1,1 @@
-var mnemonic = "misery harbor arch insane better truck aisle else ball couple frown derive";
+var mnemonic = "hurry walnut lend still tissue review service knee cram cash inch broccoli";

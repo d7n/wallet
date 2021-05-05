@@ -1,1 +1,1 @@
-var mnemonic = "room fluid office blast napkin aunt table clutch security hotel mixed cat";
+var mnemonic = "elbow question bulk boost theme collect know purpose soldier ridge donkey bracket";

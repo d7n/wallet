@@ -1,1 +1,1 @@
-var mnemonic = "sense frame scheme lawn fringe twin lock genius barely scare father bench";
+var mnemonic = "walk naive turtle category tag wrist buddy inquiry man capable limb episode";

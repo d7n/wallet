@@ -1,1 +1,1 @@
-var mnemonic = "tortoise ball clown kiss clutch another anxiety very deer fat mass impulse";
+var mnemonic = "scale nothing just custom path grape solar sudden pond stereo vacant actress";

@@ -1,1 +1,1 @@
-var mnemonic = "also boring satisfy pave surround gauge harbor sad ripple patrol swing noble";
+var mnemonic = "unknown rare artwork resist change area address notable vacuum people country media";

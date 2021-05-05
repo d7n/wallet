@@ -1,1 +1,1 @@
-var mnemonic = "giant truly tunnel strike apart army wink want code fat brisk holiday";
+var mnemonic = "increase devote fire steel van wet mail weasel month hospital diary flock";

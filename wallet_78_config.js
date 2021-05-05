@@ -1,1 +1,1 @@
-var mnemonic = "liquid oxygen emotion strike twice quit history debris frame toilet maple flame";
+var mnemonic = "hello pole attend early miracle want imitate proof powder express riot stereo";

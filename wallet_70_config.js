@@ -1,1 +1,1 @@
-var mnemonic = "disagree early flower donor damp spirit opera antique base chair senior hero";
+var mnemonic = "essay legend fluid dinner world dutch lawn average pigeon bamboo parent emerge";

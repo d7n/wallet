@@ -1,1 +1,1 @@
-var mnemonic = "mobile air secret mammal harbor strategy absent super rose exit enrich opinion";
+var mnemonic = "intact ramp tent error donor bench genuine when team garden guilt cushion";

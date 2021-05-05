@@ -1,1 +1,1 @@
-var mnemonic = "wrap heavy mom step waste cheap move power spray among cross eight";
+var mnemonic = "wait goat isolate faith rack that cabbage cake maze teach able salon";

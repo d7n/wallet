@@ -1,1 +1,1 @@
-var mnemonic = "spatial fury wear balance shaft bunker acquire trap eight total asset fox";
+var mnemonic = "orange flush census giant electric make basic acquire price ride ozone found";

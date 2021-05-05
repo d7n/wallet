@@ -1,1 +1,1 @@
-var mnemonic = "hurt satisfy clinic reform garden friend spray helmet survey museum evidence receive";
+var mnemonic = "tortoise ticket dirt youth liberty net ready buffalo will code visa guide";

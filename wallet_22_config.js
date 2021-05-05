@@ -1,1 +1,1 @@
-var mnemonic = "wear shoulder team scatter emotion buzz indicate room fever dinosaur between knock";
+var mnemonic = "today agree city charge radar weird damage sand bottom inch faculty stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "price true raccoon region extend feel impose cat wool broken save tomorrow";
+var mnemonic = "leader unit estate reflect ceiling deny saddle reveal expire volcano aisle fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator rapid pave follow stadium head forward gadget wave defense dance music";
+var mnemonic = "okay nut toss joy kidney club deny husband judge edit shrug review";

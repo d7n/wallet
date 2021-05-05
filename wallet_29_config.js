@@ -1,1 +1,1 @@
-var mnemonic = "wedding radar tattoo math title silent wish west client arrive child globe";
+var mnemonic = "dirt angry correct brain amused differ noise crowd crystal gather hour ankle";

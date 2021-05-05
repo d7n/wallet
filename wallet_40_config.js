@@ -1,1 +1,1 @@
-var mnemonic = "forget trend tape ozone wrestle filter father job this comfort ginger ritual";
+var mnemonic = "across trouble media soap double online six point about adult shift small";

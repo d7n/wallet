@@ -1,1 +1,1 @@
-var mnemonic = "purchase clarify spring episode nice normal odor first heart empty city answer";
+var mnemonic = "soap honey museum guitar upset dash rather floor net wage twin endless";

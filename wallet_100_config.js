@@ -1,1 +1,1 @@
-var mnemonic = "apple weekend bread turkey city circle square manual young usage fragile staff";
+var mnemonic = "alarm they gasp poverty glare swarm tag walnut tape pencil siege veteran";

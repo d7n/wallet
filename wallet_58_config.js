@@ -1,1 +1,1 @@
-var mnemonic = "gentle switch polar swim good afford way love wheat size sing magic";
+var mnemonic = "hard minute develop brain square harvest genius sure kiss luxury gate soldier";

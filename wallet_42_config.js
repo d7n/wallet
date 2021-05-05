@@ -1,1 +1,1 @@
-var mnemonic = "stamp valid slender extend know topple nice accuse rhythm finger address practice";
+var mnemonic = "remind bullet faculty call again position awake same quality glass clever soda";

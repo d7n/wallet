@@ -1,1 +1,1 @@
-var mnemonic = "valid front indicate chicken defense sister nut wasp cushion initial deal favorite";
+var mnemonic = "fix reveal blast lumber climb above cherry crane nasty arena beef mass";

@@ -1,1 +1,1 @@
-var mnemonic = "there service hole aim build secret fish become absurd joke crisp feature";
+var mnemonic = "include puppy security slice advance push medal erupt rich tortoise song drastic";

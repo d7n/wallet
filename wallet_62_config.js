@@ -1,1 +1,1 @@
-var mnemonic = "daughter luggage forward toe sugar saddle venture planet among sunny laundry jeans";
+var mnemonic = "release market elevator insane chimney add uphold method anxiety congress cry pride";

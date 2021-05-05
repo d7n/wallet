@@ -1,1 +1,1 @@
-var mnemonic = "favorite joke device direct toddler awful unlock pioneer knock van candy spike";
+var mnemonic = "cereal sick laundry switch burst scan weasel favorite pyramid tackle fragile force";

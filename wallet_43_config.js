@@ -1,1 +1,1 @@
-var mnemonic = "sniff weasel fan dawn general grant minimum safe program sunny luxury destroy";
+var mnemonic = "little food virus actress average open coyote pitch trust legend clinic cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion tomorrow liar lonely rough bonus version wheel piece design equal cabbage";
+var mnemonic = "misery mansion avoid entry sister devote click flower coil system allow school";

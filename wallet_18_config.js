@@ -1,1 +1,1 @@
-var mnemonic = "table capital long bubble metal need cheese laptop eager start unaware improve";
+var mnemonic = "scrap throw arm oven razor pilot miracle again reunion describe rail deny";

@@ -1,1 +1,1 @@
-var mnemonic = "any group elephant fossil autumn visit sunny phrase cost walnut mother cheap";
+var mnemonic = "spray list tired slam shallow visit nice shove timber series elephant trim";

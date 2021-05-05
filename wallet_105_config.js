@@ -1,1 +1,1 @@
-var mnemonic = "honey now oak witness phrase people reunion song shield subway divide buffalo";
+var mnemonic = "opinion melt ski unfold lab spot summer siren spike cancel host try";

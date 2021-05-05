@@ -1,1 +1,1 @@
-var mnemonic = "orphan hotel plate matter foster winter world sphere update axis lumber wing";
+var mnemonic = "doctor chapter loan purpose husband rough busy theory timber response sausage rack";
