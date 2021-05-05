@@ -1,1 +1,1 @@
-var mnemonic = "violin mountain settle talk health toward style menu lounge elder credit swap";
+var mnemonic = "differ arena flat wisdom burden bomb jelly tiny attract pride envelope unveil";

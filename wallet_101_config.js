@@ -1,1 +1,1 @@
-var mnemonic = "spring hood merge credit gentle absorb carry impulse obvious describe kite rally";
+var mnemonic = "zoo recycle plate easy mule stand alarm save disagree envelope inflict wolf";

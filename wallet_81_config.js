@@ -1,1 +1,1 @@
-var mnemonic = "holiday crystal nature awake draw increase fee monkey paddle solid old final";
+var mnemonic = "zebra word avoid topic champion buddy foster jar faith turkey tomorrow seminar";

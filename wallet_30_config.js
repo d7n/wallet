@@ -1,1 +1,1 @@
-var mnemonic = "shoe rate emerge maximum sand autumn pottery coil unfair forward custom speed";
+var mnemonic = "brother tail puzzle review donate grow marriage pig spice unhappy arrive ahead";

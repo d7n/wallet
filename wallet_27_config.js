@@ -1,1 +1,1 @@
-var mnemonic = "dial jeans vocal cargo carbon post ivory tonight they army potato spring";
+var mnemonic = "maid market tone rescue title alien fantasy enough inflict scorpion shed scale";

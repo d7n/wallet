@@ -1,1 +1,1 @@
-var mnemonic = "basket art canyon busy leader cement person noodle pass morning exile mansion";
+var mnemonic = "robust barrel town close state impact ceiling audit grocery salt direct whisper";

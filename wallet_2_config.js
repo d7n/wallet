@@ -1,1 +1,1 @@
-var mnemonic = "enemy vivid beef route vague whip senior great crawl attitude plastic jacket";
+var mnemonic = "hard moral reopen category mail surge rifle ostrich street stable theory come";

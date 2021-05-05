@@ -1,1 +1,1 @@
-var mnemonic = "second speed stage panther maze clown relief page bounce frame lucky tiny";
+var mnemonic = "inherit couch neutral inquiry cable lens picnic genuine judge jeans item crash";

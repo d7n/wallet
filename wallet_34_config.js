@@ -1,1 +1,1 @@
-var mnemonic = "cousin shuffle early talk safe float shock charge lonely cat add reject";
+var mnemonic = "ginger school annual curtain absent welcome laptop oblige thing enjoy emotion input";

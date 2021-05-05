@@ -1,1 +1,1 @@
-var mnemonic = "potato prison hard forget slam torch clerk weasel sauce want sea soup";
+var mnemonic = "access text garment bar yard course sorry repeat enable group dirt tuition";

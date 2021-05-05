@@ -1,1 +1,1 @@
-var mnemonic = "hurry hip credit kick metal chef usage water vanish cash saddle hawk";
+var mnemonic = "today vapor proud oblige explain save cricket injury year trend worth cargo";

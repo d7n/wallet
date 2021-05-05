@@ -1,1 +1,1 @@
-var mnemonic = "job cactus merit enter stage toward when public ignore avoid hip cabin";
+var mnemonic = "hollow forum asthma dance elevator furnace neutral obey animal tissue more vital";

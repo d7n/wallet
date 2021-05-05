@@ -1,1 +1,1 @@
-var mnemonic = "quick fluid desert shed correct region situate cancel human swamp fit hip";
+var mnemonic = "adapt crazy size what scare luxury mechanic velvet sea city frozen dose";

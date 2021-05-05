@@ -1,1 +1,1 @@
-var mnemonic = "daring day toilet notable angry indoor garage disease carry crack access habit";
+var mnemonic = "miracle holiday chimney powder process wrap congress step bean custom health cupboard";

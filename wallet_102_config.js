@@ -1,1 +1,1 @@
-var mnemonic = "muffin morning kingdom oyster such left neglect capable before rigid nature tooth";
+var mnemonic = "mechanic whisper dad viable spot curtain guard skate pig bring oil tide";

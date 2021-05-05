@@ -1,1 +1,1 @@
-var mnemonic = "dice truck nest toast food island elephant width merry dish castle ugly";
+var mnemonic = "syrup south mesh topic cousin ramp vast smart distance street minute despair";

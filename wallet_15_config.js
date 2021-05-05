@@ -1,1 +1,1 @@
-var mnemonic = "end sustain inhale bullet cliff eager monkey museum radio square timber will";
+var mnemonic = "brain desert asset velvet neglect mushroom betray awkward bacon person ankle husband";

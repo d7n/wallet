@@ -1,1 +1,1 @@
-var mnemonic = "breeze click attitude february verb swamp raven cable car fruit bleak basket";
+var mnemonic = "wonder little where romance pulse hello dice farm sting cost beach solar";

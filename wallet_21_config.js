@@ -1,1 +1,1 @@
-var mnemonic = "pledge flame session depart pole ride federal female mobile double enrich theme";
+var mnemonic = "sight minimum decide humor grief night rich narrow reward top drill impulse";

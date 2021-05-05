@@ -1,1 +1,1 @@
-var mnemonic = "ethics rice among bargain mix jeans nothing gym old giraffe extra announce";
+var mnemonic = "maximum neglect drill web major able rhythm leaf blouse slim film ancient";

@@ -1,1 +1,1 @@
-var mnemonic = "panel express odor timber bridge struggle foster lawsuit ginger bind shop kind";
+var mnemonic = "fun poverty acid rival inject such prevent boost aunt demand prosper donate";

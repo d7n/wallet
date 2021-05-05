@@ -1,1 +1,1 @@
-var mnemonic = "disorder brain fish nice onion retire juice fly mind lawn cross simple";
+var mnemonic = "velvet friend immense ostrich alert cruel hazard gap margin swap crucial apple";

@@ -1,1 +1,1 @@
-var mnemonic = "latin faint umbrella ancient cradle scheme similar little protect antenna danger battle";
+var mnemonic = "opinion palm unique quality snow anger scrap actual audit chicken walnut execute";

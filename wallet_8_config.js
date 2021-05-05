@@ -1,1 +1,1 @@
-var mnemonic = "priority tone orbit cactus utility season battle catch siege level where warrior";
+var mnemonic = "vocal glance actual earth prevent faith desert credit topic battle miracle few";

@@ -1,1 +1,1 @@
-var mnemonic = "crumble drill install this hole universe donate quit carry panther rifle weekend";
+var mnemonic = "cage draft result open light head coin fatal pitch crush grocery drop";

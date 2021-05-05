@@ -1,1 +1,1 @@
-var mnemonic = "vendor crucial shift volcano tool neglect clap develop steel train grace mind";
+var mnemonic = "unveil return duck arrange uncle typical promote island sense hood trick invite";

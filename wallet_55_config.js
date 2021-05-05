@@ -1,1 +1,1 @@
-var mnemonic = "will sleep flip glove twice envelope doctor session hobby miss civil cash";
+var mnemonic = "assume end region engage loud inside era hen twenty fine member float";

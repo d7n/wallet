@@ -1,1 +1,1 @@
-var mnemonic = "option language captain cattle north harvest parade couple idea slogan address plastic";
+var mnemonic = "abstract sing east nominee half bright gospel tongue vibrant price bracket talent";

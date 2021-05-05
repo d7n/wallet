@@ -1,1 +1,1 @@
-var mnemonic = "extend true illness movie season cup alpha cute wish spike tourist flower";
+var mnemonic = "valid merry athlete stable rail turkey husband inform river pink among suggest";

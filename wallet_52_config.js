@@ -1,1 +1,1 @@
-var mnemonic = "cheese coconut now wisdom clever city nerve armor debris gather rebel settle";
+var mnemonic = "cliff chief situate giraffe soap property predict knife theory rescue pool dash";

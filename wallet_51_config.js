@@ -1,1 +1,1 @@
-var mnemonic = "consider day august canoe fiscal battle health avoid floor any parrot mobile";
+var mnemonic = "because eternal twist soda opinion gloom labor siren roof safe monitor range";

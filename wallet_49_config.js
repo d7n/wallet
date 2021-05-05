@@ -1,1 +1,1 @@
-var mnemonic = "arrive female pulp this rebel ribbon hair intact capable include diamond animal";
+var mnemonic = "number buddy eight afraid federal rabbit arm eye sea expose lawn federal";

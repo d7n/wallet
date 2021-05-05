@@ -1,1 +1,1 @@
-var mnemonic = "thought dumb bleak mansion dish spot vanish wife ivory license round term";
+var mnemonic = "drive visual shiver exclude regular front grit trap local cost patrol merit";

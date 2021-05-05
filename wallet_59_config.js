@@ -1,1 +1,1 @@
-var mnemonic = "shaft fortune betray tilt base sudden village bar certain anger fantasy tongue";
+var mnemonic = "embark upset security goat patch size supreme spatial athlete waste drive addict";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern foster announce oblige city wrong fame claw yard cave brown donate";
+var mnemonic = "bridge mixed critic black purse stone extra rather drill rigid enjoy record";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget plug fetch shaft powder guess town vote dune climb evoke craft";
+var mnemonic = "domain soon ivory pledge buddy powder cigar fame dad second pumpkin valley";

@@ -1,1 +1,1 @@
-var mnemonic = "second sorry demand erupt slim head gown embody husband oak raise try";
+var mnemonic = "april tower prefer thrive vendor damp bitter horn remove wife brother chicken";

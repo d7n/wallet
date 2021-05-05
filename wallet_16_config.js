@@ -1,1 +1,1 @@
-var mnemonic = "lonely magnet trophy copper divide yellow point legend prevent point diamond will";
+var mnemonic = "then cherry mule mystery urban blind guide matrix solve link sort harbor";

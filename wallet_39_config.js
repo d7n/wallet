@@ -1,1 +1,1 @@
-var mnemonic = "scrap amount trial luggage select rib vanish phone loan snack chimney addict";
+var mnemonic = "fine pause mom legal lawsuit nation nasty dawn minute want draw gesture";

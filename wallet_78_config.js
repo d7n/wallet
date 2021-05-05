@@ -1,1 +1,1 @@
-var mnemonic = "rent solve unknown hundred foam magnet music left answer globe tuition angle";
+var mnemonic = "slab frost major whip very defense cloth income aware cloud elder junior";

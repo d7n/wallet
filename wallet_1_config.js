@@ -1,1 +1,1 @@
-var mnemonic = "furnace search junk sustain valid carpet ignore hazard walnut kiwi glide wire";
+var mnemonic = "clarify bone host afford hat day supreme season ball net spatial steel";

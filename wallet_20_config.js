@@ -1,1 +1,1 @@
-var mnemonic = "mix wolf vendor dinner sign rate song village repeat click unhappy dynamic";
+var mnemonic = "omit upgrade census essence include debris auto appear tumble deposit belt hazard";

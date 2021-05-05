@@ -1,1 +1,1 @@
-var mnemonic = "mask saddle strike valid virus tooth then width pride lobster donkey cigar";
+var mnemonic = "tiny gown risk civil toss post liquid maze grief capable planet collect";

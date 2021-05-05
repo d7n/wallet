@@ -1,1 +1,1 @@
-var mnemonic = "champion energy reunion cluster order feed biology join august jaguar area dress";
+var mnemonic = "advice vendor vague bullet goose satoshi industry case game exile airport member";

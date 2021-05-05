@@ -1,1 +1,1 @@
-var mnemonic = "agree skill dry cause satisfy tired clock blind muscle lyrics vessel moment";
+var mnemonic = "raccoon actor style whale entry waste pelican explain fresh cool crowd post";

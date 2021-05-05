@@ -1,1 +1,1 @@
-var mnemonic = "riot shop valve giggle satisfy cube era resist awful slice caution broom";
+var mnemonic = "cash flush town exit mixed love quiz umbrella foot click luxury cake";

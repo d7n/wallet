@@ -1,1 +1,1 @@
-var mnemonic = "upper tongue ring captain use nerve order arrive correct inherit add mercy";
+var mnemonic = "sun vast broken disorder drink wine protect blade human put double label";

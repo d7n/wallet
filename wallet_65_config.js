@@ -1,1 +1,1 @@
-var mnemonic = "radio garment boss damage pact grab liberty labor monkey skill puppy regret";
+var mnemonic = "annual online okay network pool shoulder sunny youth control response drop wait";

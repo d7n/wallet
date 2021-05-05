@@ -1,1 +1,1 @@
-var mnemonic = "cabbage please child jar wall burden legal rare inform swear bracket estate";
+var mnemonic = "skill humble bag core adult merry profit seat pull taste daughter rabbit";

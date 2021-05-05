@@ -1,1 +1,1 @@
-var mnemonic = "drama annual ketchup tongue bulk text park juice allow wisdom police suspect";
+var mnemonic = "hockey abstract glory bottom caught fall jaguar human aspect achieve clump quote";

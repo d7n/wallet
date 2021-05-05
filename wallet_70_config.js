@@ -1,1 +1,1 @@
-var mnemonic = "tortoise fun wave chalk caught bachelor poet recipe outer debris fine initial";
+var mnemonic = "glass cement soft lazy bottom fetch domain icon era raccoon angle time";

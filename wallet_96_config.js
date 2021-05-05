@@ -1,1 +1,1 @@
-var mnemonic = "shop people strong vibrant goat strong sudden result grocery depend canvas legend";
+var mnemonic = "resource renew achieve whale glance vocal number fence motion seat first shoot";

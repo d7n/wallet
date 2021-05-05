@@ -1,1 +1,1 @@
-var mnemonic = "biology notable shoe wool merge congress wall dust mobile blur notable omit";
+var mnemonic = "supreme enforce crush snow marble predict rose upon state crunch harsh identify";

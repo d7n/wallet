@@ -1,1 +1,1 @@
-var mnemonic = "aspect short room popular thank gorilla main smart review allow route try";
+var mnemonic = "panda still video feel pool success author major camera enter inquiry grace";

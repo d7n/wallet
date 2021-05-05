@@ -1,1 +1,1 @@
-var mnemonic = "net deposit first fault only danger nest inmate gaze glance sock daughter";
+var mnemonic = "list blush spoil auto winter raccoon spare offer reopen dove try island";

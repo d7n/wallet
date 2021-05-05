@@ -1,1 +1,1 @@
-var mnemonic = "alcohol barrel account trumpet disease foot table destroy expand trial brother silly";
+var mnemonic = "phrase advice snap enforce later grunt cluster churn clock rhythm review life";

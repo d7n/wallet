@@ -1,1 +1,1 @@
-var mnemonic = "when income cabbage keen kiwi very cube peasant zoo rail amateur oil";
+var mnemonic = "toward bench badge ketchup print label small gather foster any vote merit";

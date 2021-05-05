@@ -1,1 +1,1 @@
-var mnemonic = "electric chapter indoor twist fitness hospital trash rain powder suit blur patient";
+var mnemonic = "practice review evolve river blade spike dizzy stairs cinnamon apple grief when";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend hour proof absent absorb example until brass also wool pitch rubber";
+var mnemonic = "giraffe coconut section toward goat defense wagon perfect wear puppy immune mother";

@@ -1,1 +1,1 @@
-var mnemonic = "impact bullet upgrade end offer process settle drift program consider interest opinion";
+var mnemonic = "sample shiver april knee idea bridge sing mushroom wreck vintage expect bus";

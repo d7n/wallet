@@ -1,1 +1,1 @@
-var mnemonic = "lock blouse neglect bulk nasty actual spoon grid sport robust castle frog";
+var mnemonic = "traffic funny layer fine educate scatter wish vocal flush they refuse screen";

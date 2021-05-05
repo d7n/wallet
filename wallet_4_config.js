@@ -1,1 +1,1 @@
-var mnemonic = "gold reward leisure lake version tortoise behind photo alien clinic target tree";
+var mnemonic = "lazy trip damage lazy luggage cactus grass enrich circle heart exist strike";

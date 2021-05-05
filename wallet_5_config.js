@@ -1,1 +1,1 @@
-var mnemonic = "people output interest man mutual spread traffic creek bid narrow interest venture";
+var mnemonic = "number suit else electric harbor small such coral broom such mind few";

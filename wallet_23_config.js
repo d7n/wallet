@@ -1,1 +1,1 @@
-var mnemonic = "ready gadget police city price senior season nephew use middle pond crew";
+var mnemonic = "jazz crash cute sick mule kite soft carbon slim swear disagree enroll";

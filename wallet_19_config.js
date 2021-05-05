@@ -1,1 +1,1 @@
-var mnemonic = "morning shuffle busy dove refuse print that cannon van limb item property";
+var mnemonic = "year orchard spawn page furnace cable leaf poverty giraffe race comic offer";

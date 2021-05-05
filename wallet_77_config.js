@@ -1,1 +1,1 @@
-var mnemonic = "rather certain quote rare special project useless again guitar axis hammer tackle";
+var mnemonic = "february tower base old sort matter youth approve series occur teach paper";

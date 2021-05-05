@@ -1,1 +1,1 @@
-var mnemonic = "appear soldier rifle drum space damp impact simple rail antenna claim marine";
+var mnemonic = "pole hunt suspect zone income hidden century bleak ocean subject gloom round";

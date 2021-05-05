@@ -1,1 +1,1 @@
-var mnemonic = "whale blue frozen bleak wink garden husband plunge grocery spell volume where";
+var mnemonic = "can void lawsuit across size tribe toss assist still mix panic nature";

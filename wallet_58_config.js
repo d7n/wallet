@@ -1,1 +1,1 @@
-var mnemonic = "snack scrap beef alley affair dolphin write struggle leader dose swarm chest";
+var mnemonic = "above swallow rib believe people pluck inflict second field slice rubber swift";

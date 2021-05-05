@@ -1,1 +1,1 @@
-var mnemonic = "someone donate pilot butter quiz lion desert tide pave sun shop penalty";
+var mnemonic = "citizen okay caught nasty churn physical sugar cement early scrap electric monitor";

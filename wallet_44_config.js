@@ -1,1 +1,1 @@
-var mnemonic = "runway tennis square run pride license thing nominee best cupboard awkward token";
+var mnemonic = "discover actual kid grief match awesome brother humor oak broom drift acid";

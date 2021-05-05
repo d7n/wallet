@@ -1,1 +1,1 @@
-var mnemonic = "imitate play fat family there rail peasant route panic physical erode style";
+var mnemonic = "panic able trend spare truth senior defense gun powder bracket analyst foster";

@@ -1,1 +1,1 @@
-var mnemonic = "okay indicate cross maze flavor scare neutral toddler party retire aim where";
+var mnemonic = "hint connect need mixture balance manage tenant victory endorse call special crystal";

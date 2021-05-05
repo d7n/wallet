@@ -1,1 +1,1 @@
-var mnemonic = "glow rhythm use genuine scrub poem mesh attitude brick shell issue cotton";
+var mnemonic = "sail autumn lemon abstract doll language sample retreat milk couch fuel jungle";

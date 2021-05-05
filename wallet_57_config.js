@@ -1,1 +1,1 @@
-var mnemonic = "rapid orchard anxiety truck thunder spin moment loud income cart alpha scale";
+var mnemonic = "camera device achieve impose welcome until afraid off safe earth muffin twin";

@@ -1,1 +1,1 @@
-var mnemonic = "clip athlete negative cabbage pilot robust equal hard rookie pulse deny gas";
+var mnemonic = "tiger family consider slim glance west acid erode situate tongue total maple";

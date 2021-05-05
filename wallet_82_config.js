@@ -1,1 +1,1 @@
-var mnemonic = "poet oppose same cluster awake swear say cat tired cotton tired online";
+var mnemonic = "useless isolate upgrade era refuse detail excite coast abstract old pepper uniform";

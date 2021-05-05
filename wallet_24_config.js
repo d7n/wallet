@@ -1,1 +1,1 @@
-var mnemonic = "live foil involve rotate video sniff junior donkey pupil piece hello city";
+var mnemonic = "guitar onion matrix march drip reduce main stand clinic fruit blame never";

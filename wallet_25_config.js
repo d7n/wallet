@@ -1,1 +1,1 @@
-var mnemonic = "flip void spray candy normal chief muffin custom lumber emerge happy vehicle";
+var mnemonic = "client spike jar over chat risk thank romance left tomato lake embrace";

@@ -1,1 +1,1 @@
-var mnemonic = "short street sniff broken gas alone harsh vintage annual donate make banana";
+var mnemonic = "frog cousin proud index attract simple tuna agent pause liberty limit tail";

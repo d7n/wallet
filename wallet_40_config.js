@@ -1,1 +1,1 @@
-var mnemonic = "misery casino text buzz oblige airport ahead ten tuition social happy heavy";
+var mnemonic = "brown curious glimpse struggle permit tube hurry mirror vendor asset december jeans";

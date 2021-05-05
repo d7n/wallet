@@ -1,1 +1,1 @@
-var mnemonic = "bean tragic share maze faith angle upon supply eager dog image leisure";
+var mnemonic = "float fun volume dad private delay call model amateur vanish marriage tonight";

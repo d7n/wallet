@@ -1,1 +1,1 @@
-var mnemonic = "cousin author fury neglect board when ship solar mansion rare vapor noodle";
+var mnemonic = "gate deliver asset nominee blood velvet finger enemy wasp feel weasel subway";

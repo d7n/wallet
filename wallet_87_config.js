@@ -1,1 +1,1 @@
-var mnemonic = "thing panda coil squeeze congress flash vacant mammal extend credit program monster";
+var mnemonic = "sphere relax glow immune fee peace shoot ghost tube earth noodle must";

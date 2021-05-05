@@ -1,1 +1,1 @@
-var mnemonic = "cargo swing exclude eye glare gas jewel crunch dumb camera matter couple";
+var mnemonic = "beyond angle reason edit order palm abstract utility visa dentist sound grain";

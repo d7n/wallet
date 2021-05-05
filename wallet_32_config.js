@@ -1,1 +1,1 @@
-var mnemonic = "earth vital awkward fuel struggle response brother hill miss medal into cupboard";
+var mnemonic = "situate job unable doll horn smoke siren you slice announce robot window";

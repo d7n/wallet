@@ -1,1 +1,1 @@
-var mnemonic = "bomb lunar chair dismiss state faith frog young rate regular resource length";
+var mnemonic = "math yellow amateur social era write garage coffee rice maze renew document";

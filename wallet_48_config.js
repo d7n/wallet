@@ -1,1 +1,1 @@
-var mnemonic = "innocent sting flock siege meadow science discover dove fruit melody evil brush";
+var mnemonic = "pumpkin goddess knee candy romance mass actor recall total anger marriage elite";

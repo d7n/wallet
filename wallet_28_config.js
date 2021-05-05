@@ -1,1 +1,1 @@
-var mnemonic = "cancel glow dilemma hidden wrist weather assume defy cloud brass spell cart";
+var mnemonic = "try radio tone gadget cage month dice luxury clap clown chest gown";

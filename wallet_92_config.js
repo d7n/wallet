@@ -1,1 +1,1 @@
-var mnemonic = "bunker exit skull own company crew adapt weekend focus earth uniform dwarf";
+var mnemonic = "shoulder joy cupboard panel height burger attitude link inch hill empty motion";

@@ -1,1 +1,1 @@
-var mnemonic = "cup endless man chase text genre snack mercy addict broom clock dance";
+var mnemonic = "fat tobacco insane nurse clutch meat slab royal glance struggle diesel gift";

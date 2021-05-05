@@ -1,1 +1,1 @@
-var mnemonic = "burger evidence table heavy duck exhaust style clay indicate mesh stuff core";
+var mnemonic = "fatal oven secret asset february prison feel cheese brief garbage robot dwarf";

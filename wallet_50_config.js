@@ -1,1 +1,1 @@
-var mnemonic = "twin virus student evil stereo combine social local record favorite file sheriff";
+var mnemonic = "option fiscal student suffer neglect vague funny private intact learn buddy across";

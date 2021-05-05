@@ -1,1 +1,1 @@
-var mnemonic = "gown trip letter swallow sausage honey win toast dash core cart disorder";
+var mnemonic = "dish that skin audit inject sauce cycle grain column daughter solve solar";

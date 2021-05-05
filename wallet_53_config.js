@@ -1,1 +1,1 @@
-var mnemonic = "diet puppy track market cousin chunk neglect dragon frost mosquito auction leader";
+var mnemonic = "erupt error border bar rich appear maid waste scheme soda math powder";

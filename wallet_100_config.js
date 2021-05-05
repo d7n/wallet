@@ -1,1 +1,1 @@
-var mnemonic = "remove pilot cheap hub purpose inquiry run trial next detect cricket squirrel";
+var mnemonic = "swing actress multiply sea common burst ice husband cloud now accident awkward";

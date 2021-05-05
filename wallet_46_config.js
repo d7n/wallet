@@ -1,1 +1,1 @@
-var mnemonic = "hour describe forget write current lend pear north trophy rib pepper again";
+var mnemonic = "sail skate soul flock solid tobacco pepper life lava fog dash anxiety";
