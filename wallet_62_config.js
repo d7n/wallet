@@ -1,1 +1,1 @@
-var mnemonic = "industry ability hire differ about total pave law interest write prize concert";
+var mnemonic = "merge antenna dune write clap plastic people orphan girl render tornado wave";

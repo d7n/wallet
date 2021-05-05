@@ -1,1 +1,1 @@
-var mnemonic = "shiver orbit vague usage april eagle age orange ensure truly situate omit";
+var mnemonic = "aim echo reason push ignore dragon same glad upon hub woman either";

@@ -1,1 +1,1 @@
-var mnemonic = "tell march repeat sound comfort fossil narrow pony nation wall cigar hen";
+var mnemonic = "climb city exhibit earth battle enhance spend squirrel ridge trial cabbage car";

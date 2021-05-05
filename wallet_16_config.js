@@ -1,1 +1,1 @@
-var mnemonic = "valid science similar sample scare outer want duck outdoor giggle opinion giant";
+var mnemonic = "initial slight few office raw salute someone steel situate armor bamboo exhaust";

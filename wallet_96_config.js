@@ -1,1 +1,1 @@
-var mnemonic = "offer pool scheme material belt busy lady heavy seven smart man ocean";
+var mnemonic = "debate soul entry smart virtual hold moment minor net ranch hat return";

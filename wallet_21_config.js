@@ -1,1 +1,1 @@
-var mnemonic = "unit shoe exile certain coin option fossil ribbon match stool fame exhibit";
+var mnemonic = "rose atom catch ice wool special tag yellow smoke chair pottery imitate";

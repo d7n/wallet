@@ -1,1 +1,1 @@
-var mnemonic = "discover estate expect turtle diesel broom negative ranch color half doll stamp";
+var mnemonic = "output lounge rookie coach pattern surface echo beef document sudden oxygen approve";

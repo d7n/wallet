@@ -1,1 +1,1 @@
-var mnemonic = "rather around warm surprise acquire despair buyer uncover hint neck cup harvest";
+var mnemonic = "fetch vocal scout mosquito arrow salon spoon jacket dove foster resource diesel";

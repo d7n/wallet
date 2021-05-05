@@ -1,1 +1,1 @@
-var mnemonic = "path beyond guess clog advice kitchen warfare vibrant recall peasant quick throw";
+var mnemonic = "little organ mechanic museum arrest access excess liquid few change endorse chest";

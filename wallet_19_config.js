@@ -1,1 +1,1 @@
-var mnemonic = "spatial accuse guitar tail used among chase author meadow exist senior energy";
+var mnemonic = "phrase rally confirm eyebrow bench category stem reason hard cousin afford burden";

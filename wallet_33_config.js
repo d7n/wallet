@@ -1,1 +1,1 @@
-var mnemonic = "power pencil december woman bright result faith example leg price scrub breeze";
+var mnemonic = "beauty round limb diet fuel pass burden cricket corn game emotion october";

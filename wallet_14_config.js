@@ -1,1 +1,1 @@
-var mnemonic = "seat make happy winner remind broccoli salmon shrimp shy slogan tornado clever";
+var mnemonic = "rigid turkey slam picnic bone slot universe humor thumb prevent poem jump";

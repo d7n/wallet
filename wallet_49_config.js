@@ -1,1 +1,1 @@
-var mnemonic = "weekend easily explain effort prepare book minute night initial super begin clock";
+var mnemonic = "powder among tomato route victory neck depth early blind above curtain layer";

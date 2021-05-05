@@ -1,1 +1,1 @@
-var mnemonic = "forum step horror section bulb grunt video dice hybrid suffer call sauce";
+var mnemonic = "enter between pilot orphan shaft old laugh spray rebuild cushion easy master";

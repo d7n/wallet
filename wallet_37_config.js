@@ -1,1 +1,1 @@
-var mnemonic = "ski grid drip awkward wedding canyon virtual resist bargain rabbit twin crew";
+var mnemonic = "bike wood soon high faculty rebuild immune elegant artwork miss cool dance";

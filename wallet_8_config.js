@@ -1,1 +1,1 @@
-var mnemonic = "action access curve kid have film receive embrace gossip theme goat gate";
+var mnemonic = "combine okay engage right era exist office supply jazz degree child noodle";

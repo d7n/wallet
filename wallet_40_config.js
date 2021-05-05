@@ -1,1 +1,1 @@
-var mnemonic = "believe horror legend trash above fault split bag day topple proud chaos";
+var mnemonic = "escape rally blue text faculty quit secret chimney fatigue choice elite fragile";

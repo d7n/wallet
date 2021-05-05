@@ -1,1 +1,1 @@
-var mnemonic = "roast reward domain riot slice broken food gentle cute bike remember wrong";
+var mnemonic = "secret visa mutual beach source exact access extra aspect sausage dawn warm";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom amateur dune place prevent spy once pave tool giggle key setup";
+var mnemonic = "broccoli soup clap acoustic tower already region echo theme still another add";

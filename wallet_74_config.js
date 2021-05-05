@@ -1,1 +1,1 @@
-var mnemonic = "rival olive toss ball foam village run topple boil all liberty dawn";
+var mnemonic = "little napkin night clever rabbit empower timber argue tray august arrange gorilla";

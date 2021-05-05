@@ -1,1 +1,1 @@
-var mnemonic = "name enjoy bleak sun hero expand divide kitten bundle parrot ketchup upper";
+var mnemonic = "satoshi sweet panel pull sure obscure discover fruit amount invest donkey click";

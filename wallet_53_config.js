@@ -1,1 +1,1 @@
-var mnemonic = "fiscal error empower control uncle usage journey tackle reform rack shy suggest";
+var mnemonic = "tiny summer assume predict pair quality pool mountain identify forget spin maid";

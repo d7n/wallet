@@ -1,1 +1,1 @@
-var mnemonic = "diary window awful best flower trash pitch deposit parrot stumble humor penalty";
+var mnemonic = "vapor ugly flee tape sad when above soda spawn success spike immune";

@@ -1,1 +1,1 @@
-var mnemonic = "august kangaroo swing soda load legend twenty sorry ignore material save race";
+var mnemonic = "never february seek present wish drastic acid target pluck alert apart galaxy";

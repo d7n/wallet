@@ -1,1 +1,1 @@
-var mnemonic = "record wide car dash permit girl average garbage brother beyond oblige slim";
+var mnemonic = "brick trumpet swift wet myth defy phrase road symbol horn rapid verify";

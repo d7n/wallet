@@ -1,1 +1,1 @@
-var mnemonic = "oppose chair ripple bird slide resemble fix sport affair style cricket nation";
+var mnemonic = "napkin weather fiscal local sugar legal jacket hobby find ramp dignity pony";

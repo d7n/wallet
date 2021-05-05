@@ -1,1 +1,1 @@
-var mnemonic = "panic sad help merge topple fever pigeon suggest park flip cargo hurry";
+var mnemonic = "reason notable cupboard tongue adapt net oven belt reform basic vocal joy";

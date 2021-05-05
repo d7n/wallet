@@ -1,1 +1,1 @@
-var mnemonic = "dentist note trophy genre small core school evolve early grid elder cliff";
+var mnemonic = "run swamp boss script excess law vague flower trophy around aware uncover";

@@ -1,1 +1,1 @@
-var mnemonic = "circle vicious such churn airport puzzle dynamic either check twenty ripple grace";
+var mnemonic = "comic dilemma reason loud club famous impose drum snap unaware coral today";

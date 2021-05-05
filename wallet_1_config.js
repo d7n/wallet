@@ -1,1 +1,1 @@
-var mnemonic = "tide zero sign balcony keep leader window twice mad grocery glance guide";
+var mnemonic = "scheme lake antique parrot symptom check apple flat thunder library balance above";

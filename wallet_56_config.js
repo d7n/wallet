@@ -1,1 +1,1 @@
-var mnemonic = "logic slow burger matter pet share observe couple feed movie alter pony";
+var mnemonic = "skate asset alien car exhaust snow since tribe pelican lift hybrid object";

@@ -1,1 +1,1 @@
-var mnemonic = "surge since solid notice cluster cage apple bottom tell agree excuse theme";
+var mnemonic = "apology pilot load hair usage rapid reason debris great silk color table";

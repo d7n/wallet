@@ -1,1 +1,1 @@
-var mnemonic = "recall federal stock slush quick wine consider chuckle fat heart diary invest";
+var mnemonic = "skate river mesh slice limit edit coyote cart rent quick vintage perfect";

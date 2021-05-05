@@ -1,1 +1,1 @@
-var mnemonic = "crouch flee hamster tide follow ginger secret kit defy truth analyst senior";
+var mnemonic = "ginger smart spawn cotton option range catch menu group coconut alcohol detail";

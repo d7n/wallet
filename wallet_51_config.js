@@ -1,1 +1,1 @@
-var mnemonic = "pupil start acoustic fragile true movie index wrong good burden orphan alley";
+var mnemonic = "torch hold energy patrol inner lens acoustic remain fiction solution curious move";

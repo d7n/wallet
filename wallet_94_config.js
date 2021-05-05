@@ -1,1 +1,1 @@
-var mnemonic = "destroy badge bargain search basic move subject home enter hockey distance employ";
+var mnemonic = "animal now salon army address evidence employ glow excuse deputy enforce absorb";

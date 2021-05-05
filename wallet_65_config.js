@@ -1,1 +1,1 @@
-var mnemonic = "device dignity wait close walk energy speed daughter wish clap error chicken";
+var mnemonic = "crowd fog grow unveil cart audit supreme foot accuse rigid pencil angry";

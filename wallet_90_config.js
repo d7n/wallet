@@ -1,1 +1,1 @@
-var mnemonic = "dwarf hockey device screen myself spy goose maximum improve company again when";
+var mnemonic = "rack play tired absorb post spawn lab spice market knee photo build";

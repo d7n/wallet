@@ -1,1 +1,1 @@
-var mnemonic = "during tag sure document require opinion typical planet arm cluster afford tragic";
+var mnemonic = "join artist safe spray six increase mansion wing vault social style used";

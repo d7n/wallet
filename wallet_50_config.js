@@ -1,1 +1,1 @@
-var mnemonic = "animal enact among spider rug project arrow hour ankle panda fluid whale";
+var mnemonic = "valve crash art genius tortoise afraid sense cement fringe lake wave knife";

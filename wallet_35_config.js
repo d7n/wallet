@@ -1,1 +1,1 @@
-var mnemonic = "indoor conduct tired miss float attract sail cupboard marriage enjoy reflect thrive";
+var mnemonic = "enjoy power orbit then beach robot renew state congress excuse collect speed";

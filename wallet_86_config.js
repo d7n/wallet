@@ -1,1 +1,1 @@
-var mnemonic = "pigeon pitch session animal stock mass half host brief struggle vendor gold";
+var mnemonic = "account smart boost mutual stadium describe spell company trouble tumble maid jaguar";

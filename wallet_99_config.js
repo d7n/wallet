@@ -1,1 +1,1 @@
-var mnemonic = "bulb exercise cliff comfort math mind expose miracle mobile amazing wreck april";
+var mnemonic = "coffee video basic negative boat still private supply suspect volcano awake pony";

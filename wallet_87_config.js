@@ -1,1 +1,1 @@
-var mnemonic = "narrow february amazing aim wide episode rhythm palm jelly next hurt pole";
+var mnemonic = "shy agent addict fame swamp web spider width keep muffin empower cushion";

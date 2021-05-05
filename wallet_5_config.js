@@ -1,1 +1,1 @@
-var mnemonic = "village coffee side follow enable diary snap iron hover salt element silver";
+var mnemonic = "high valve member baby proud vapor divert honey tackle spell reject spell";

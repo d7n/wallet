@@ -1,1 +1,1 @@
-var mnemonic = "neither region dawn sign obvious jealous alley autumn polar pupil video force";
+var mnemonic = "galaxy radio lens reward walnut nice harsh kitchen card forest eternal simple";

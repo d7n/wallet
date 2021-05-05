@@ -1,1 +1,1 @@
-var mnemonic = "charge cherry treat sibling cross step because rhythm surround pitch neck grant";
+var mnemonic = "cram lift attend oak answer loan once visa connect amateur island general";

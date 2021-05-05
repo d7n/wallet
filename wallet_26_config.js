@@ -1,1 +1,1 @@
-var mnemonic = "tower panther absorb crater custom sport elevator require secret slice peace people";
+var mnemonic = "enact carbon clever jelly tribe ceiling program priority hour world era suffer";

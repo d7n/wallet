@@ -1,1 +1,1 @@
-var mnemonic = "run odor word famous ahead skirt kitchen height topic frost dawn six";
+var mnemonic = "lava blade fault finger shop tourist fan rigid injury ecology rebel off";

@@ -1,1 +1,1 @@
-var mnemonic = "core cigar train powder travel screen audit barrel rabbit syrup hen oppose";
+var mnemonic = "protect cup gold shock hen wet text fame rail either wagon emerge";

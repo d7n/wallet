@@ -1,1 +1,1 @@
-var mnemonic = "friend radar elbow hover roof guitar eternal sand vote glass regret employ";
+var mnemonic = "wage trouble slam omit couch asset infant bounce bless hockey random observe";

@@ -1,1 +1,1 @@
-var mnemonic = "onion lizard apple where dumb banana window ridge friend predict repair history";
+var mnemonic = "catch bicycle swap roast stick journey liberty prevent visit wrap enrich behind";

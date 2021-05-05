@@ -1,1 +1,1 @@
-var mnemonic = "scatter keen siren assist coin repair walk page glass claim glimpse bean";
+var mnemonic = "case agree polar arena produce diamond pride fatigue gain tray net crucial";

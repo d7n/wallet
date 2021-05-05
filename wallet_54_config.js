@@ -1,1 +1,1 @@
-var mnemonic = "swamp outdoor sausage host ghost shaft axis about whisper make reason lonely";
+var mnemonic = "label shy clip arrow scrub tiny abstract champion cheese ridge surprise powder";

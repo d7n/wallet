@@ -1,1 +1,1 @@
-var mnemonic = "hospital item gravity grow silly soda party material notable hurt become outside";
+var mnemonic = "fortune keep arena grunt claim drama floor benefit private exclude stairs convince";

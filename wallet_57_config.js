@@ -1,1 +1,1 @@
-var mnemonic = "badge fragile leaf front system session vicious more endorse polar jelly goat";
+var mnemonic = "fit always exit scrub usual fuel mercy gap hunt tooth wrong must";

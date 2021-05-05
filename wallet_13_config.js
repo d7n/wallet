@@ -1,1 +1,1 @@
-var mnemonic = "stage tumble sure door sheriff gaze bright clever price intact bike pear";
+var mnemonic = "merry used illness unhappy canal erosion object bus security dirt age cigar";

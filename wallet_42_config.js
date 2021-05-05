@@ -1,1 +1,1 @@
-var mnemonic = "panther hidden hub age involve diagram bulb dizzy blue old sound inch";
+var mnemonic = "million mirror advice boy come chapter picnic eager laugh butter lesson crawl";

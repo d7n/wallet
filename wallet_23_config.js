@@ -1,1 +1,1 @@
-var mnemonic = "social age harsh fever wrong mountain result art million mule blood spirit";
+var mnemonic = "kiss sound network reveal cash guilt differ flame snack hint family scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "menu order unit fault mind economy wash gas dismiss vapor umbrella disagree";
+var mnemonic = "hub uniform uncle entire master rare nephew offer cupboard robust stable unveil";

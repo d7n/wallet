@@ -1,1 +1,1 @@
-var mnemonic = "lunar toward cup reform powder entry ensure exhibit ginger dizzy consider employ";
+var mnemonic = "matter person nature slender innocent crunch buddy minor august rib honey asset";

@@ -1,1 +1,1 @@
-var mnemonic = "mirror certain excess ranch volume tent plate fancy offer tree patch admit";
+var mnemonic = "chimney six message dress salute fiber head lady fire silver crazy borrow";

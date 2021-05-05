@@ -1,1 +1,1 @@
-var mnemonic = "answer kitchen hood trumpet dutch mule circle wide drive name wise gravity";
+var mnemonic = "obey inflict pool coin income december worth second small sense transfer rigid";

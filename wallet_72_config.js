@@ -1,1 +1,1 @@
-var mnemonic = "vibrant enact health recall mom guitar clutch clown hub bar dream leg";
+var mnemonic = "dismiss mistake impulse venture disease busy receive bird swamp segment ripple key";

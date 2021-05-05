@@ -1,1 +1,1 @@
-var mnemonic = "sphere sustain machine bomb target spring remember mushroom lamp planet churn lion";
+var mnemonic = "nerve client photo police dismiss trap blouse effort reveal check aspect know";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost swarm rescue alarm help combine below learn hurdle social spawn usage";
+var mnemonic = "uniform accuse say food rose help shed wait maximum west exercise survey";

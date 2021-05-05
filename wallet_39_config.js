@@ -1,1 +1,1 @@
-var mnemonic = "guard clerk cushion nerve unfair among poem decrease midnight issue scrub love";
+var mnemonic = "lizard ask display remind breeze wash ivory electric input fine festival bid";

@@ -1,1 +1,1 @@
-var mnemonic = "tape trend choose fiscal erode right print glue clinic space town pottery";
+var mnemonic = "half use amateur accident affair sausage kidney argue chronic miracle maze fatal";

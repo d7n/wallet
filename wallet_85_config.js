@@ -1,1 +1,1 @@
-var mnemonic = "raise whale near tent trick adapt mechanic tourist vacuum check salt merge";
+var mnemonic = "screen quick phrase uncle loud iron morning ivory model nephew weapon math";

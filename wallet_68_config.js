@@ -1,1 +1,1 @@
-var mnemonic = "cost control million discover nasty alley maze unhappy iron forget boy swing";
+var mnemonic = "target convince glory leg achieve appear glimpse ceiling mix sign upset roof";

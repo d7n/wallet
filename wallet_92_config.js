@@ -1,1 +1,1 @@
-var mnemonic = "game crumble method order science entire saddle popular rotate dinosaur raven drip";
+var mnemonic = "alcohol alarm gravity primary cage ostrich address replace offer super exercise regret";

@@ -1,1 +1,1 @@
-var mnemonic = "supply quiz train salon ostrich genuine before million power spawn name swarm";
+var mnemonic = "olympic kiwi flash dust rescue rice height electric trust speak immune truck";

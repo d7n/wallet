@@ -1,1 +1,1 @@
-var mnemonic = "banner excuse grocery swamp orphan couple coach clinic pair rocket gospel during";
+var mnemonic = "desert tomato shop miss lock pipe safe swing drive deer solar pair";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble glove tooth spell better either asthma special reform share foot rent";
+var mnemonic = "forget cart immune around width pottery skirt weapon island cannon enact normal";

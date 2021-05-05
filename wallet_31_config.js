@@ -1,1 +1,1 @@
-var mnemonic = "pole piano coil cool almost vehicle shoe fog youth rigid moment attend";
+var mnemonic = "confirm age kick salon episode solid spatial settle impact duck horror mosquito";

@@ -1,1 +1,1 @@
-var mnemonic = "ski voyage supreme raven turn guard aisle detail zoo broccoli wood crater";
+var mnemonic = "just say property refuse hazard acquire security stomach forum merit danger veteran";

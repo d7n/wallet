@@ -1,1 +1,1 @@
-var mnemonic = "maple later front bubble harsh hotel maximum stock act addict away become";
+var mnemonic = "club volume plastic worry kangaroo pencil misery zoo hammer firm cushion weather";

@@ -1,1 +1,1 @@
-var mnemonic = "essay nasty cruise repeat fresh physical drive suspect derive beef luxury mountain";
+var mnemonic = "earth oak blanket clock gesture diamond brief enable proud zoo cry push";

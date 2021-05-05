@@ -1,1 +1,1 @@
-var mnemonic = "kidney short hub empty long cousin day pass topple gaze lift smart";
+var mnemonic = "equip quick loop earth myth erupt please unknown permit aunt sugar fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "crawl concert stereo outer nest mango man key ignore sorry spoon profit";
+var mnemonic = "marine gauge west nephew one cabin advice space aspect hunt pluck this";

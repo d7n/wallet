@@ -1,1 +1,1 @@
-var mnemonic = "search exit alarm merry solution obscure dilemma traffic blame thunder note season";
+var mnemonic = "bachelor dutch spend patch ring old woman nerve impose garbage eagle solid";

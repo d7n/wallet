@@ -1,1 +1,1 @@
-var mnemonic = "near slender found design someone chase account expose energy key pulse magic";
+var mnemonic = "reward seven acid spell lizard wait uncle clown diet exhaust near farm";

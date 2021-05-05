@@ -1,1 +1,1 @@
-var mnemonic = "stomach spring before lemon pave wagon then just follow wreck regular average";
+var mnemonic = "cart bitter viable orchard often clever circle cry duty prison immense conduct";

@@ -1,1 +1,1 @@
-var mnemonic = "april jazz bird theme kidney wire balance abuse salmon raise image story";
+var mnemonic = "toy scrap near blade vicious snake glad dinosaur stumble music often valley";

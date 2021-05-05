@@ -1,1 +1,1 @@
-var mnemonic = "tomato suffer gorilla pole nature review furnace route believe reveal argue mesh";
+var mnemonic = "dawn crop member sadness arch business spirit gold fun grain deliver ribbon";

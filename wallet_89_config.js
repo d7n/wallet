@@ -1,1 +1,1 @@
-var mnemonic = "sugar hen recipe amateur better okay electric dry dove tank crazy draft";
+var mnemonic = "web under fox super naive rack today decide fiber draft know canvas";
