@@ -1,1 +1,1 @@
-var mnemonic = "slam patch program erosion consider feel leaf future live vapor lesson begin";
+var mnemonic = "better rebel dilemma other effort label various normal awful dignity prison warrior";

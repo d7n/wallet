@@ -1,1 +1,1 @@
-var mnemonic = "feature asset sure small century kick subject relax dune three royal jazz";
+var mnemonic = "bamboo easy tongue weather scissors misery cup thank absent dash make zero";

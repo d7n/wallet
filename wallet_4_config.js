@@ -1,1 +1,1 @@
-var mnemonic = "museum fame among zebra lottery catch custom grocery toy random valley off";
+var mnemonic = "heavy flag devote portion all grab fabric spoon bench shiver sponsor again";

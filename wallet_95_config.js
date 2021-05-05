@@ -1,1 +1,1 @@
-var mnemonic = "stumble gym exhaust nut switch uphold bid loop unfair laundry soft pond";
+var mnemonic = "outside snap drum veteran report left purity surprise orange fiction gasp calm";

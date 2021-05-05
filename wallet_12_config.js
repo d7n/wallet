@@ -1,1 +1,1 @@
-var mnemonic = "universe rocket one leader snack praise iron gain initial paddle exile mobile";
+var mnemonic = "canal core absorb guard raven hover leopard aunt tuition rent write raccoon";

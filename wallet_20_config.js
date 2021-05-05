@@ -1,1 +1,1 @@
-var mnemonic = "eight gravity math rain right step light derive idea civil hard assault";
+var mnemonic = "mango minute search spot motion flavor alpha answer thunder wise know scorpion";

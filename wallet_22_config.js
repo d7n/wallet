@@ -1,1 +1,1 @@
-var mnemonic = "bone popular index scout bulk banner suit local weasel stick few grape";
+var mnemonic = "file average jealous replace easy peanut brick senior trial lecture sock safe";

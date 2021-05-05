@@ -1,1 +1,1 @@
-var mnemonic = "fashion gun blush gather error pass claim shoe work film fence raise";
+var mnemonic = "please absorb protect very final name dutch brave crime admit verb violin";

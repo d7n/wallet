@@ -1,1 +1,1 @@
-var mnemonic = "nothing wish weekend upon maximum video half item risk kangaroo envelope champion";
+var mnemonic = "law able belt season coral water click pull job nuclear clinic sport";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic hidden sure evolve snap tool glide envelope crop rich roast album";
+var mnemonic = "enroll eternal grunt artwork orient shrimp immune impose gun thank method valve";

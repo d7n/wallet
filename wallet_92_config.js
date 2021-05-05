@@ -1,1 +1,1 @@
-var mnemonic = "design corn illegal combine infant bar mobile execute badge auto one shiver";
+var mnemonic = "define deer virtual swap clean tragic sad hard prefer stuff stumble long";

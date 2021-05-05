@@ -1,1 +1,1 @@
-var mnemonic = "endorse physical shrug during foil mention olive slim airport develop cool depend";
+var mnemonic = "cart ready culture object parrot wall key pony acid action zero rubber";

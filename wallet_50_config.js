@@ -1,1 +1,1 @@
-var mnemonic = "want dash torch carpet junk ready quantum immense isolate half left corn";
+var mnemonic = "trim rug blossom toy tray evoke august fruit castle hard skull require";

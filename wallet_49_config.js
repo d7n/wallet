@@ -1,1 +1,1 @@
-var mnemonic = "vapor rebuild dose pact chat bubble carpet pipe wage bird mass shield";
+var mnemonic = "text neither weekend fragile shiver educate tornado endless gun double omit frown";

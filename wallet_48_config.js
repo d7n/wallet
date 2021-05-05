@@ -1,1 +1,1 @@
-var mnemonic = "dune method always mobile fever beach benefit wing rib disorder wild cheese";
+var mnemonic = "order tip habit match achieve civil crack shrug piano amount knife hope";

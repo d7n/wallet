@@ -1,1 +1,1 @@
-var mnemonic = "field camera peasant mammal canyon harvest bitter beef beef promote display space";
+var mnemonic = "wing drive ready add casino outside ancient dinosaur enforce arrow custom pave";

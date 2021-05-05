@@ -1,1 +1,1 @@
-var mnemonic = "between fold result shy drift pizza zoo clay opinion dawn lobster trumpet";
+var mnemonic = "around insane crystal proud wild buffalo sustain cinnamon fiction pact scare video";

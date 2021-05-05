@@ -1,1 +1,1 @@
-var mnemonic = "door away sell away electric garment level runway quick man material practice";
+var mnemonic = "logic lift truck maximum wood joy inch angle risk upgrade despair rhythm";

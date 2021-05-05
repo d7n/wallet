@@ -1,1 +1,1 @@
-var mnemonic = "connect science system blouse celery scan evoke prevent maple room oyster dismiss";
+var mnemonic = "phrase dry shy client cover ask december pledge brush dose pilot insect";

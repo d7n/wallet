@@ -1,1 +1,1 @@
-var mnemonic = "any grab focus wait sure bridge diesel need fetch autumn dust behave";
+var mnemonic = "trumpet hat napkin response anxiety clever basic where between father disagree leopard";

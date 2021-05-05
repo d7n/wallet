@@ -1,1 +1,1 @@
-var mnemonic = "universe dwarf check brave trick caution layer voyage theory loan junior pupil";
+var mnemonic = "hard opera human truck feel cousin tornado together shuffle gain aerobic merry";

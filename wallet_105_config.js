@@ -1,1 +1,1 @@
-var mnemonic = "renew also false tape lottery mirror place endless kit lunar believe feel";
+var mnemonic = "evil present split ketchup immune runway obtain spawn wine pond curtain art";

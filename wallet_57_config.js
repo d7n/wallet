@@ -1,1 +1,1 @@
-var mnemonic = "tortoise carry jelly grain segment torch time income below truly bronze judge";
+var mnemonic = "knee fold spin trophy acid movie rate task exile swamp electric type";

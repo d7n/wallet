@@ -1,1 +1,1 @@
-var mnemonic = "taxi melody leopard employ wreck trim nation click flame six strong recipe";
+var mnemonic = "diet crash despair expand rifle chat engage effort exhibit stool bitter abandon";

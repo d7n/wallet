@@ -1,1 +1,1 @@
-var mnemonic = "below inject huge decade festival flower credit upset transfer pair midnight polar";
+var mnemonic = "alarm oval sample return castle dice equip gaze play inject floor seek";

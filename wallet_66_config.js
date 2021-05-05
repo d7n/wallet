@@ -1,1 +1,1 @@
-var mnemonic = "catalog casino slender penalty off filter topple kangaroo call second economy uphold";
+var mnemonic = "celery possible champion fury since dune drink whisper tackle chicken tongue sugar";

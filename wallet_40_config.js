@@ -1,1 +1,1 @@
-var mnemonic = "shift snake brush casual universe rare develop strong all myth tonight shell";
+var mnemonic = "between picture marble eager enemy float goat volcano merry milk raccoon enhance";

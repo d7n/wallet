@@ -1,1 +1,1 @@
-var mnemonic = "tool sort veteran zone exile fun fence fresh vital midnight expire winner";
+var mnemonic = "team script casual coil bunker jelly flip toddler begin lake dry apology";

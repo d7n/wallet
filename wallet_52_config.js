@@ -1,1 +1,1 @@
-var mnemonic = "save empower angle someone climb demise client mistake turtle business smooth reform";
+var mnemonic = "normal resemble sun blossom edit maze option vocal evidence limb coast father";

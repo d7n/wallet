@@ -1,1 +1,1 @@
-var mnemonic = "cloth artwork noble range course creek profit room maze village chase one";
+var mnemonic = "few engine rough friend twice there transfer script swap coach odor client";

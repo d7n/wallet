@@ -1,1 +1,1 @@
-var mnemonic = "situate tennis drop chase act best zone jewel upset style memory leaf";
+var mnemonic = "ignore unit century jewel sick zoo already action trip choose cabbage daughter";

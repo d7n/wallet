@@ -1,1 +1,1 @@
-var mnemonic = "voice romance quit aware around copper city gaze park hamster forward purchase";
+var mnemonic = "fashion bullet private nature live wreck myself awesome boost reunion mind citizen";

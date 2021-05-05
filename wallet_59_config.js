@@ -1,1 +1,1 @@
-var mnemonic = "modify ketchup actress december chronic they laugh catch very trumpet priority swift";
+var mnemonic = "law mad yard issue galaxy grunt hire quit pilot squeeze tomato quit";

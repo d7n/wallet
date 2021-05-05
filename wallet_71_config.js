@@ -1,1 +1,1 @@
-var mnemonic = "music purse certain device castle warm staff quantum conduct lizard gate insect";
+var mnemonic = "foot glass twice flight there large slab behave ready talent drill diagram";

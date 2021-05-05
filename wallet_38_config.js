@@ -1,1 +1,1 @@
-var mnemonic = "season void term flock scissors dolphin predict pluck board idle beyond what";
+var mnemonic = "only neither fix cotton food tennis permit such minimum soup bonus into";

@@ -1,1 +1,1 @@
-var mnemonic = "town oak someone stove nature essay decade lecture yellow hair process feed";
+var mnemonic = "stumble cause prize undo toward ramp response napkin mammal tide public tent";

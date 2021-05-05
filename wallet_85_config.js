@@ -1,1 +1,1 @@
-var mnemonic = "retreat symbol fee behave question torch champion depart purity garden buffalo olympic";
+var mnemonic = "series jar soon hotel chicken coin tuition better sleep patient sunset disagree";

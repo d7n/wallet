@@ -1,1 +1,1 @@
-var mnemonic = "liberty method black flag city rude whip coral govern hazard critic luxury";
+var mnemonic = "shiver year lobster fork truck system grace mind awkward regret give drill";

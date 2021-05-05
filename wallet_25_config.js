@@ -1,1 +1,1 @@
-var mnemonic = "design public away fence win trigger clean mystery gravity satoshi dish unfold";
+var mnemonic = "fine real cram solution oven gasp disease vapor hope bachelor amused frame";

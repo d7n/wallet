@@ -1,1 +1,1 @@
-var mnemonic = "river pass disease jacket subway author speak market doll cloud term siren";
+var mnemonic = "sauce artefact melt lizard autumn swap picture limit vibrant echo rescue grace";

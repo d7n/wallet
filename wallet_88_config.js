@@ -1,1 +1,1 @@
-var mnemonic = "rate exact differ chalk dismiss lazy pioneer coast buzz rapid height crazy";
+var mnemonic = "axis biology envelope reopen mutual follow ceiling retire hold just across ecology";

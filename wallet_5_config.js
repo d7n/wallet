@@ -1,1 +1,1 @@
-var mnemonic = "decrease nature cream alpha paddle rocket often minute twin fresh bacon expect";
+var mnemonic = "acid strategy slim system slide expose regret parent slight property aunt width";

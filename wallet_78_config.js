@@ -1,1 +1,1 @@
-var mnemonic = "panda egg educate hungry raccoon blind fold assume prefer acid excuse cost";
+var mnemonic = "dress enact patient peanut when poverty lion matter verify paper flower romance";

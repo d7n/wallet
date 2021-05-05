@@ -1,1 +1,1 @@
-var mnemonic = "direct scheme divorce cycle mix priority spider sign omit home brand dad";
+var mnemonic = "large viable spray advice tomorrow grief accuse enough couple tower crime hidden";

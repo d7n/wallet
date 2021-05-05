@@ -1,1 +1,1 @@
-var mnemonic = "private minute flame feed goat broccoli blush indoor curtain announce invite burger";
+var mnemonic = "wink lion kick elder aisle stereo account devote gospel update armor dream";

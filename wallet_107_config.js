@@ -1,1 +1,1 @@
-var mnemonic = "task under modify bachelor mutual seven try print brand snap erode great";
+var mnemonic = "defense crew tomato scheme humble donkey welcome under install captain fashion neglect";

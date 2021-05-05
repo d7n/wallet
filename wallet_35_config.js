@@ -1,1 +1,1 @@
-var mnemonic = "maximum know report find monkey category consider easily finger good broccoli scrub";
+var mnemonic = "ball orchard gauge bargain demise giggle quit equal hour diary forest decade";

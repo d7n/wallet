@@ -1,1 +1,1 @@
-var mnemonic = "sheriff scout amateur recycle true lounge proud occur appear solid tag disagree";
+var mnemonic = "beach lens toilet circle improve canvas crane claw tunnel session drive raven";

@@ -1,1 +1,1 @@
-var mnemonic = "access beauty hollow velvet profit settle apology refuse door wrestle cabbage wet";
+var mnemonic = "pledge sketch slogan sick balcony garden team electric surface barrel horn message";

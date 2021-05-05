@@ -1,1 +1,1 @@
-var mnemonic = "one kite interest slice sock over syrup drift figure metal deliver nose";
+var mnemonic = "hollow grant hedgehog cupboard picture olive require accuse juice quiz husband game";

@@ -1,1 +1,1 @@
-var mnemonic = "essence focus balance educate siren lobster aerobic canvas match possible clog foam";
+var mnemonic = "drift inflict ring horse trip young grace doctor assist pause minimum ski";

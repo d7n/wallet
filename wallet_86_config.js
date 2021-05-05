@@ -1,1 +1,1 @@
-var mnemonic = "insane party flee episode bacon entire inspire pudding mosquito sign theory caught";
+var mnemonic = "calm slogan seed public meat lawn program update suit ketchup trial invite";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow dial puppy keep turkey crawl pulse oblige stool stem alert crunch";
+var mnemonic = "embark popular charge settle beyond weather debris antenna cloud boss congress arrange";

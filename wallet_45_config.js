@@ -1,1 +1,1 @@
-var mnemonic = "motor age scrub horn save route notable alone hockey surface just sting";
+var mnemonic = "pact effort citizen expose bulb pear dwarf rigid model ribbon lens choice";

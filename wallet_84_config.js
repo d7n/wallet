@@ -1,1 +1,1 @@
-var mnemonic = "original veteran demise pair embark draft pudding sound corn avocado buzz hold";
+var mnemonic = "security mean notable typical liberty mask unfold rug fancy siren you gentle";

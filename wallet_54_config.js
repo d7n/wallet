@@ -1,1 +1,1 @@
-var mnemonic = "more loud filter old mountain regular poem notable exile depth despair fog";
+var mnemonic = "famous album birth smart pill shop squirrel brother feed again orbit access";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze ride ivory paddle this emerge scout easy congress review pull seek";
+var mnemonic = "lion journey submit feature post tube near jealous critic rail domain sweet";

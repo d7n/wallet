@@ -1,1 +1,1 @@
-var mnemonic = "doctor wrist sorry feature donor pipe congress sniff toward arrive talk ugly";
+var mnemonic = "position super blur shine east narrow combine divorce story express left long";

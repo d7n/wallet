@@ -1,1 +1,1 @@
-var mnemonic = "poet oxygen pyramid evil zebra suffer grant lounge scare rather broken crack";
+var mnemonic = "puzzle mango coyote drop satisfy accuse fly naive twelve hope thunder team";

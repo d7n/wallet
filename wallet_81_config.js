@@ -1,1 +1,1 @@
-var mnemonic = "cabin shed velvet blanket buffalo predict sauce logic garment draft bulk hollow";
+var mnemonic = "clutch file bridge online year orange little column sleep acid fortune coast";

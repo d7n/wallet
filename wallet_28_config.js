@@ -1,1 +1,1 @@
-var mnemonic = "habit interest siren drip beef black clean ensure nurse sound away trigger";
+var mnemonic = "popular awake street keen wine inject stumble creek honey pig battle demand";

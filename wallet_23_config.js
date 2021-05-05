@@ -1,1 +1,1 @@
-var mnemonic = "trade orange live eye satoshi rent dentist tobacco damp abandon spike wave";
+var mnemonic = "betray change meadow journey crucial car together breeze sphere defy snake tortoise";

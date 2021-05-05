@@ -1,1 +1,1 @@
-var mnemonic = "plunge major mango report eight vacuum candy action build vacant open slight";
+var mnemonic = "crack spring injury claim hazard kite mask tuition special document shell rapid";

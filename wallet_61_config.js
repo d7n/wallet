@@ -1,1 +1,1 @@
-var mnemonic = "eternal into gauge scorpion excite parade raccoon sphere client expose degree drama";
+var mnemonic = "mesh load chest great endorse wealth crack quick word pave distance post";

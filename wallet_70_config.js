@@ -1,1 +1,1 @@
-var mnemonic = "surround mom cattle donate virus file ice maximum pave sphere cycle time";
+var mnemonic = "inside race expose myth supply recycle bitter together hedgehog grit flavor border";

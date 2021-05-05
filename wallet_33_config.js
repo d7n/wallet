@@ -1,1 +1,1 @@
-var mnemonic = "decorate travel office palace ecology cancel tired dog section clean away key";
+var mnemonic = "siren then shaft smoke verb panther merit marriage verify panda same lazy";

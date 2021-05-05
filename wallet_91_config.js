@@ -1,1 +1,1 @@
-var mnemonic = "road silk maze zebra swap bottom grit brisk sort fatigue burger unhappy";
+var mnemonic = "start ring regular blossom coconut total paper arrive erupt fat normal service";

@@ -1,1 +1,1 @@
-var mnemonic = "suggest slush police please frog camp resemble join ahead can join try";
+var mnemonic = "gasp leaf first achieve vital swap cycle junior bubble stock creek usual";

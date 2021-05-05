@@ -1,1 +1,1 @@
-var mnemonic = "voyage little favorite hunt float green history pencil metal guess gift hurt";
+var mnemonic = "glove demand urban ahead horse arrange neutral middle dizzy train tunnel disorder";

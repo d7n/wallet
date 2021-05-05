@@ -1,1 +1,1 @@
-var mnemonic = "dilemma diet dismiss fault sound eternal clock sound silver fury exist virus";
+var mnemonic = "orchard rather wink cradle uncle cement charge push skirt erosion auto issue";

@@ -1,1 +1,1 @@
-var mnemonic = "maid stuff group expect spice deal purpose weird fat wheel occur finger";
+var mnemonic = "token banner general way retreat torch large suspect able wasp mention edit";

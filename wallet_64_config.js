@@ -1,1 +1,1 @@
-var mnemonic = "charge brother cargo crawl subject divide powder labor improve adjust tobacco tomorrow";
+var mnemonic = "benefit dry rhythm brief area apology climb candy olive flock economy column";

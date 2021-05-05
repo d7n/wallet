@@ -1,1 +1,1 @@
-var mnemonic = "nature advice reopen attract soup inflict pulp yellow tide zoo pear robust";
+var mnemonic = "small afford duck piece volume egg bachelor actual tell upgrade there exhaust";

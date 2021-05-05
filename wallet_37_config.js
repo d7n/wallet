@@ -1,1 +1,1 @@
-var mnemonic = "island list provide sadness antique girl worth crew churn emerge obey ethics";
+var mnemonic = "duty innocent palace company now actor hockey face arena ghost reflect unable";

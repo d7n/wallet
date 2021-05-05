@@ -1,1 +1,1 @@
-var mnemonic = "cram bread canvas worry soon excuse battle hero defy burger skirt asthma";
+var mnemonic = "shop jump salad opera pistol trip velvet direct fluid alcohol people trophy";

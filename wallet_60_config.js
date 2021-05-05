@@ -1,1 +1,1 @@
-var mnemonic = "summer clean room fence gather organ transfer convince cup kiss assume begin";
+var mnemonic = "rather venture when foot swift cherry test pair brown space acquire analyst";

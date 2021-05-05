@@ -1,1 +1,1 @@
-var mnemonic = "chimney pilot name skill cruel pet copy imitate lizard hub sting sudden";
+var mnemonic = "border note buyer ramp humble reveal hour gesture omit trumpet scan napkin";

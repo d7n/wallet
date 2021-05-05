@@ -1,1 +1,1 @@
-var mnemonic = "cement detect raw garage call symbol luggage green slush toss prize sock";
+var mnemonic = "day name zebra tag spray nasty habit memory garden ethics dutch toe";

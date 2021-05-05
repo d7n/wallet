@@ -1,1 +1,1 @@
-var mnemonic = "ceiling dune useful bag embody pear actress surge rabbit sadness fresh split";
+var mnemonic = "endless judge lecture dismiss daughter pass between nephew lumber village lawsuit culture";

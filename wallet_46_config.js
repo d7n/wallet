@@ -1,1 +1,1 @@
-var mnemonic = "danger wood cycle month avocado pet vacant amateur march seed cherry volcano";
+var mnemonic = "junk husband position cook plunge advice into depend enhance outer genre upset";

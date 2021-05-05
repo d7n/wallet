@@ -1,1 +1,1 @@
-var mnemonic = "hen supply calm slide addict rifle car canvas flame citizen toward ankle";
+var mnemonic = "combine smooth photo original fan orchard express this base budget rate brown";

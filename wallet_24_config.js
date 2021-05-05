@@ -1,1 +1,1 @@
-var mnemonic = "salute stable dog remember prefer search large panther wall monster essence reduce";
+var mnemonic = "nation dwarf outdoor blood uniform usage loyal life story crunch blind dignity";

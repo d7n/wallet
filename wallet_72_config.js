@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit trip length ticket brick donor evolve moment siren embrace loyal phrase";
+var mnemonic = "entire giant give educate unit physical bulb coconut guess nerve report behind";

@@ -1,1 +1,1 @@
-var mnemonic = "medal safe patch uniform scatter aware hotel margin flash summer escape rare";
+var mnemonic = "couple olympic floor armor local cliff caught inhale license bullet embrace gentle";

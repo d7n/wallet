@@ -1,1 +1,1 @@
-var mnemonic = "tumble model close cupboard fly act bless meat trip deputy kind garment";
+var mnemonic = "hockey lunch silly monkey enemy axis autumn input wink only above embrace";

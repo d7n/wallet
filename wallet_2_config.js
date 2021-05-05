@@ -1,1 +1,1 @@
-var mnemonic = "exit draw dress crush gaze boring junior quiz flush glue plug tissue";
+var mnemonic = "talk method verify fade trumpet song romance bird prefer rose car truck";

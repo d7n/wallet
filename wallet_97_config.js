@@ -1,1 +1,1 @@
-var mnemonic = "object judge traffic cash ladder adjust already divide repair express rib syrup";
+var mnemonic = "clean fiscal siege gaze write inform mosquito calm van bar refuse behave";

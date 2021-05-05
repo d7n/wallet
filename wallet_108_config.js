@@ -1,1 +1,1 @@
-var mnemonic = "ivory similar guide erase purchase brick tree nose onion invite fat snack";
+var mnemonic = "link mail protect crucial thought humor avoid check north thumb permit useful";

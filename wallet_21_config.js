@@ -1,1 +1,1 @@
-var mnemonic = "enlist day bike absorb broken upon young extend echo switch universe crime";
+var mnemonic = "barely shaft forum enact honey earn hobby cargo rude hip practice symbol";

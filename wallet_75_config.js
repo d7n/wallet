@@ -1,1 +1,1 @@
-var mnemonic = "video satoshi tube deer era merit canvas suggest spell about kid enable";
+var mnemonic = "filter render slice confirm cost job supply cycle exact type twist bar";

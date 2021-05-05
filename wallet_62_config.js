@@ -1,1 +1,1 @@
-var mnemonic = "alien cream roof dirt key series medal illegal damp duty nuclear orange";
+var mnemonic = "axis dwarf hamster kiss lawn spread text month pyramid sniff payment cart";

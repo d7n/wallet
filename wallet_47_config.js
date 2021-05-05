@@ -1,1 +1,1 @@
-var mnemonic = "spatial great unit street rigid gown timber atom because convince include winter";
+var mnemonic = "crowd brisk pigeon obvious utility select cabin river promote welcome fire skull";

@@ -1,1 +1,1 @@
-var mnemonic = "observe tackle kingdom cause sponsor repeat equip record tobacco burden vibrant slide";
+var mnemonic = "switch crumble marine bonus game actual vague unaware bar rice sentence two";

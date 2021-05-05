@@ -1,1 +1,1 @@
-var mnemonic = "spare rifle address staff champion almost yellow negative print identify fruit reject";
+var mnemonic = "buddy place abuse fortune bunker nominee omit wedding august cotton main craft";

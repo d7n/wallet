@@ -1,1 +1,1 @@
-var mnemonic = "bullet bronze despair able spin fossil nose thumb vague lift worth orient";
+var mnemonic = "curve goose shock badge flip anger local smile provide soldier thing apart";

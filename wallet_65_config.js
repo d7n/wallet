@@ -1,1 +1,1 @@
-var mnemonic = "size theory tail despair shed this oyster athlete vanish ensure first table";
+var mnemonic = "valid jewel evoke blue visa phrase now sleep girl twenty actual remember";

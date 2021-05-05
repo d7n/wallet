@@ -1,1 +1,1 @@
-var mnemonic = "immense unknown zero surge warfare tornado achieve badge draw rather slab stool";
+var mnemonic = "calm click crop friend fish picture curve october draw awake energy earn";
