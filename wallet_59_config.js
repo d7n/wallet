@@ -1,1 +1,1 @@
-var mnemonic = "unaware place ring float unusual mesh blood tree trash badge music cheese";
+var mnemonic = "convince slide buzz orchard venture garden one patch jealous monitor promote floor";

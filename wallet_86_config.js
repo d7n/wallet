@@ -1,1 +1,1 @@
-var mnemonic = "type define book tree twist lady swamp pelican quantum tenant weekend space";
+var mnemonic = "property clutch ticket oblige kick spin worth keen lazy common muscle clown";

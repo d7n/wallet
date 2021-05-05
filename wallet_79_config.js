@@ -1,1 +1,1 @@
-var mnemonic = "cover involve circle key border planet industry side toddler latin cross sail";
+var mnemonic = "picnic entry album boil push arrow source impose wet invite indoor story";

@@ -1,1 +1,1 @@
-var mnemonic = "behind holiday fury violin shoot club fat lounge width impose buddy all";
+var mnemonic = "tip giant okay arena veteran oppose basket cement clarify away cool again";

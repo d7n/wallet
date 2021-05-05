@@ -1,1 +1,1 @@
-var mnemonic = "setup salt human reward odor across custom doll denial hand brass enact";
+var mnemonic = "need giggle address distance arch medal easy session monster already enhance absent";

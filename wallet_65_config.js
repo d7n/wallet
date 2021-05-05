@@ -1,1 +1,1 @@
-var mnemonic = "rookie nature young parrot usage adapt stadium modify bulk receive release amused";
+var mnemonic = "found document bind pig tired fiscal cherry elbow excess race begin expose";

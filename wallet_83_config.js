@@ -1,1 +1,1 @@
-var mnemonic = "feature trigger before purchase anger actor panel coffee limit office dress blanket";
+var mnemonic = "humble olive panther enroll proof stand engine nation dynamic paper candy true";

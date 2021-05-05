@@ -1,1 +1,1 @@
-var mnemonic = "axis ugly romance casual remain guilt item fence easy click juice split";
+var mnemonic = "sweet term deer lock amount cream fabric gorilla blur bounce profit belt";

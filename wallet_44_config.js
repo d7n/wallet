@@ -1,1 +1,1 @@
-var mnemonic = "deer shield chuckle stamp six answer blast basic control surround mean only";
+var mnemonic = "soccer off coral predict pole canvas cinnamon good arch coral worth admit";

@@ -1,1 +1,1 @@
-var mnemonic = "used history pioneer priority nature inquiry kid million swim tent soap walnut";
+var mnemonic = "question round valid stick ticket eye wrap speed panel payment fiscal blood";

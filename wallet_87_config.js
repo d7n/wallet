@@ -1,1 +1,1 @@
-var mnemonic = "clock rabbit mobile control alter patrol suit style spot label flavor salute";
+var mnemonic = "keep ivory jungle steak sword clay vicious rescue auto addict spike elevator";

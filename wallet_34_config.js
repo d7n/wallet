@@ -1,1 +1,1 @@
-var mnemonic = "stable legend wish wheat panic appear arena lunch trust soccer fringe setup";
+var mnemonic = "eye track enter drip duck north surface legend suit useless april mail";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet tide fortune air area fragile mosquito shield sight betray transfer fiscal";
+var mnemonic = "arctic cram plunge amazing lucky scorpion convince service possible satoshi abstract either";

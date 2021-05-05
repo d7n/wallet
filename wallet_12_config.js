@@ -1,1 +1,1 @@
-var mnemonic = "smile chimney jewel lens museum capable what neither polar screen arena resource";
+var mnemonic = "tenant rapid globe man blue soul badge reject gravity ivory champion image";

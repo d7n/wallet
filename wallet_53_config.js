@@ -1,1 +1,1 @@
-var mnemonic = "bus once frozen three tennis eyebrow dad police attack okay gift artefact";
+var mnemonic = "praise vapor barrel tiny crisp tide drill stock club daring grab delay";

@@ -1,1 +1,1 @@
-var mnemonic = "express emerge radio camp oak floor admit clean metal else actor medal";
+var mnemonic = "fish skate brain champion cousin lottery width crisp chef visa turn slot";

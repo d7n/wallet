@@ -1,1 +1,1 @@
-var mnemonic = "stamp ahead again erupt globe resist hour strike three kite oak ask";
+var mnemonic = "tenant tennis wheat erupt smart inspire cube vapor below jazz mom cluster";

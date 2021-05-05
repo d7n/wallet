@@ -1,1 +1,1 @@
-var mnemonic = "number scheme peace rough diesel raccoon forum grant quantum vast almost stem";
+var mnemonic = "brave sound nephew vendor assault sting section upper style fix hover beach";

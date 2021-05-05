@@ -1,1 +1,1 @@
-var mnemonic = "loud dinosaur zebra shoe group baby under afraid fit river defy settle";
+var mnemonic = "iron silk meat spray north damp hockey ankle tumble drive system fatigue";

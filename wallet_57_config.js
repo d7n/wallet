@@ -1,1 +1,1 @@
-var mnemonic = "border clutch suggest trap you brown immense walk flash police citizen flock";
+var mnemonic = "impose plastic section joke across prepare april celery soap must nice divide";

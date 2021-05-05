@@ -1,1 +1,1 @@
-var mnemonic = "bottom genuine author excite quantum boost foster guitar mother reason discover lamp";
+var mnemonic = "they ignore cruise bundle diamond sustain average tackle own joke twelve music";

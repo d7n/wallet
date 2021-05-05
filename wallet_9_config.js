@@ -1,1 +1,1 @@
-var mnemonic = "nation fruit indicate grief cabbage hard grow possible prison couple royal custom";
+var mnemonic = "oak lemon gift exotic mail daughter search plug arrange shop bitter change";

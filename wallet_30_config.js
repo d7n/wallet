@@ -1,1 +1,1 @@
-var mnemonic = "useful special sibling feel nuclear gap palm tone clean abuse salute develop";
+var mnemonic = "inch amazing velvet unknown custom usual regular cabin bunker innocent boy judge";

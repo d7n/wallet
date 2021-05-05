@@ -1,1 +1,1 @@
-var mnemonic = "pioneer toddler reveal grant boil arrest lend enemy bulb fabric drink action";
+var mnemonic = "travel angry champion liberty boy remain sting endorse acoustic share useful critic";

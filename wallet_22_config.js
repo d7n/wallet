@@ -1,1 +1,1 @@
-var mnemonic = "cruel teach actual kitten arrow tape sense admit where sentence menu leaf";
+var mnemonic = "mistake omit alone special fetch rent face element section antenna code best";

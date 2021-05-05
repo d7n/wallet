@@ -1,1 +1,1 @@
-var mnemonic = "predict similar recycle box outside hotel ensure dawn visa vacuum armed reason";
+var mnemonic = "sleep scare tray vague length dumb more victory crater snow food copper";

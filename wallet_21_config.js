@@ -1,1 +1,1 @@
-var mnemonic = "talk strategy swing prize owner state core park soul outdoor viable cup";
+var mnemonic = "cherry foam obscure riot turkey stock thought spider hint must bright quantum";

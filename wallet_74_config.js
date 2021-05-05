@@ -1,1 +1,1 @@
-var mnemonic = "ice remember casual gauge coyote carbon laundry later kingdom pause fabric trick";
+var mnemonic = "elder pill stumble century engine survey rural adapt region tourist style cry";

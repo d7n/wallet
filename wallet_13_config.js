@@ -1,1 +1,1 @@
-var mnemonic = "all surprise report cotton metal purity skill holiday peasant six device hover";
+var mnemonic = "wink match install inhale smoke couple pitch faculty infant verb panther garlic";

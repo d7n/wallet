@@ -1,1 +1,1 @@
-var mnemonic = "swing salon child runway flavor pudding orphan convince chair grape between pact";
+var mnemonic = "differ envelope door uncover capable puppy fall unique more cost diary lumber";

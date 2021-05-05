@@ -1,1 +1,1 @@
-var mnemonic = "cool local trash program design rural glow glass awkward this morning inherit";
+var mnemonic = "busy hair profit kidney include horn erase ribbon flag police foot hip";

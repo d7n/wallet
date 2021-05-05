@@ -1,1 +1,1 @@
-var mnemonic = "spirit kite tree brand dance wreck hover gold fold orbit bonus analyst";
+var mnemonic = "tiger chuckle cool glory video space satoshi dial slab extra you essence";

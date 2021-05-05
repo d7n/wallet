@@ -1,1 +1,1 @@
-var mnemonic = "wave bunker brain hero normal fringe hover pistol follow keep shoot feel";
+var mnemonic = "scheme puzzle rhythm shine party depart unable pause spring develop public hungry";

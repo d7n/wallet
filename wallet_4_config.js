@@ -1,1 +1,1 @@
-var mnemonic = "foot civil broom suggest guard noble despair chuckle curve suggest click elephant";
+var mnemonic = "dragon flee busy duty warrior creek alcohol type apart live insane left";

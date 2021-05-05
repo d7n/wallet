@@ -1,1 +1,1 @@
-var mnemonic = "include detail chair grunt barrel silk coin corn youth shiver lunch dirt";
+var mnemonic = "inherit enter laundry cherry moral loop ugly shrimp lesson idle earn cinnamon";

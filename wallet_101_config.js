@@ -1,1 +1,1 @@
-var mnemonic = "strong welcome wave ring suffer motor toss ketchup creek payment swift cycle";
+var mnemonic = "service mix together ride execute zone minor piano put wide neutral client";

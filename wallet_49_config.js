@@ -1,1 +1,1 @@
-var mnemonic = "appear output merry giggle nothing draw castle bench notable real noise fee";
+var mnemonic = "security vacuum race outdoor muscle wife erupt shock top tiger black alter";

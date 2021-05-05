@@ -1,1 +1,1 @@
-var mnemonic = "flight pave alone taxi sense defense resist defense pluck search abuse recipe";
+var mnemonic = "aim develop aunt anxiety raw captain sense belt collect strong phrase fluid";

@@ -1,1 +1,1 @@
-var mnemonic = "oven wrist cable swallow pizza ginger borrow penalty rug gesture west seminar";
+var mnemonic = "faint sort dismiss cattle parrot peasant image replace stone slot naive pet";

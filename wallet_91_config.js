@@ -1,1 +1,1 @@
-var mnemonic = "market bottom north visit behave license sleep garden nominee struggle require army";
+var mnemonic = "walk renew that wheel immune master panther chat install viable chase extend";

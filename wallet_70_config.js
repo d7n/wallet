@@ -1,1 +1,1 @@
-var mnemonic = "rate index turkey example pattern receive time first misery limb stage assault";
+var mnemonic = "situate rapid romance install pottery armed employ over now young shy knock";

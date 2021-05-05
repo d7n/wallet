@@ -1,1 +1,1 @@
-var mnemonic = "eternal apple glove ostrich nut same member capital divide catch wood else";
+var mnemonic = "action bitter then square bundle mass female open bamboo chicken stamp stem";

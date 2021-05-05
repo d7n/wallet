@@ -1,1 +1,1 @@
-var mnemonic = "profit silent hole grocery dilemma donate uphold measure marriage admit disease survey";
+var mnemonic = "lizard wash unlock bracket ribbon acquire ghost inquiry aspect innocent scissors pet";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor thought sun wrong concert disease symptom endless midnight daring knock goddess";
+var mnemonic = "inspire genuine mouse cool found mirror slow sketch fetch change canal swap";

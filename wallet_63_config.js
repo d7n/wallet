@@ -1,1 +1,1 @@
-var mnemonic = "slide tissue athlete couple extra slight anchor captain heavy aisle initial boost";
+var mnemonic = "plug wash absorb cloud involve link balance result high tumble fatal enjoy";

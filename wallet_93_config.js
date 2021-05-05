@@ -1,1 +1,1 @@
-var mnemonic = "shove crush ivory shy nasty entry economy story popular cactus admit mean";
+var mnemonic = "rookie warm always tray broken muscle private question debate edit speak picture";

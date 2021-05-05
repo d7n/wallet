@@ -1,1 +1,1 @@
-var mnemonic = "garbage blame boil depart glide cabbage prize pyramid ridge health slide skate";
+var mnemonic = "seven suspect plug rebel point make image broom click lazy sweet void";

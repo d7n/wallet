@@ -1,1 +1,1 @@
-var mnemonic = "across exit tobacco void tone hub wedding dish tape permit promote mail";
+var mnemonic = "rotate swift series play cook leisure ten pattern elbow victory parrot jaguar";

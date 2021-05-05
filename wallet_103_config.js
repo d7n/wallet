@@ -1,1 +1,1 @@
-var mnemonic = "athlete exist image enact more aisle ostrich pigeon assist mail taste minor";
+var mnemonic = "behave fetch tool lazy coin link discover dove music kidney wing ocean";

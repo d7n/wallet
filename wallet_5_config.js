@@ -1,1 +1,1 @@
-var mnemonic = "country annual edit worth trouble legal expand mansion average sing same domain";
+var mnemonic = "bacon worry gun pottery prison heart tool bird hard curious craft scrap";

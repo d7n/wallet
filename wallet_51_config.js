@@ -1,1 +1,1 @@
-var mnemonic = "spare crucial three knife quarter short bag federal advance income off erupt";
+var mnemonic = "blade fever soft orient festival cradle glimpse grab radio critic father skate";

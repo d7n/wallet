@@ -1,1 +1,1 @@
-var mnemonic = "bike divide client position wise metal profit meat knock wedding village neither";
+var mnemonic = "siren action suit theme this liquid live good miracle swim step brick";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak post absent daughter smooth flock allow always devote venture rug near";
+var mnemonic = "push south flee town weasel habit calm honey orange undo gaze body";

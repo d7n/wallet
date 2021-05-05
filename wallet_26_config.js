@@ -1,1 +1,1 @@
-var mnemonic = "notable slush rate inspire oblige net feel resource census invite solve galaxy";
+var mnemonic = "hospital purchase public pudding town shuffle buyer dance isolate seven globe artist";

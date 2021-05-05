@@ -1,1 +1,1 @@
-var mnemonic = "exhaust alcohol mule repair pear age cheap purity wagon shiver mosquito glue";
+var mnemonic = "excess carpet bus behind camera panel pattern culture spread rhythm improve gown";

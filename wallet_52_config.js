@@ -1,1 +1,1 @@
-var mnemonic = "educate heart apple detail thing yard neck foam voyage ridge delay exhaust";
+var mnemonic = "banner blush occur recipe gift dove stomach switch shadow wise width half";

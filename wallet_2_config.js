@@ -1,1 +1,1 @@
-var mnemonic = "panel off hammer mad nasty session pitch thrive oblige either you then";
+var mnemonic = "rail pair already sock train someone labor resist clean bag cruel oven";

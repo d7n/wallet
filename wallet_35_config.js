@@ -1,1 +1,1 @@
-var mnemonic = "laptop hundred high sock history aunt game beauty mansion picture thumb motor";
+var mnemonic = "jeans advance champion jazz excuse park famous case input shield write asthma";

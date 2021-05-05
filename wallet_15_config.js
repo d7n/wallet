@@ -1,1 +1,1 @@
-var mnemonic = "venue harsh brisk bench desk truth banana saddle absent idea tower erosion";
+var mnemonic = "wink actress spot width cousin hazard hamster pause guitar various pitch brave";

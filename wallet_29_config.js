@@ -1,1 +1,1 @@
-var mnemonic = "omit shine dial mail sign unique exit grocery any address believe soup";
+var mnemonic = "car cable better jacket season crop peasant design execute front diary lunch";

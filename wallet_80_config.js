@@ -1,1 +1,1 @@
-var mnemonic = "romance coyote this sign quick sad faith hospital size ticket people merge";
+var mnemonic = "example smooth seminar taste rather soul avoid brand bronze must private industry";

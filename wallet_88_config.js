@@ -1,1 +1,1 @@
-var mnemonic = "section mail heart slender glory whisper drastic skill virtual quick mass poverty";
+var mnemonic = "real risk quick height dragon peace cannon rocket resemble dinosaur kiss carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "purse genius liberty script marine hurdle canvas uncover plunge fine dash enlist";
+var mnemonic = "outer crawl asthma couch joke relax omit puzzle kiwi blush cruel way";

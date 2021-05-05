@@ -1,1 +1,1 @@
-var mnemonic = "west pizza artefact sing bind shine pigeon blue adapt ginger either entry";
+var mnemonic = "drink matter benefit enemy auto agree senior slab remain scale marriage pulp";

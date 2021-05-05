@@ -1,1 +1,1 @@
-var mnemonic = "reform client sense elder powder nothing trial shock brass advice obtain trade";
+var mnemonic = "close gaze pull hero pyramid choice spread extra clap fabric balance suit";

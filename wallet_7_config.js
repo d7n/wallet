@@ -1,1 +1,1 @@
-var mnemonic = "help gauge sorry brother away tray pistol large eye sunny human coyote";
+var mnemonic = "pottery resource detect theory squeeze naive artist glow tonight search duck wife";

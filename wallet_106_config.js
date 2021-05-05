@@ -1,1 +1,1 @@
-var mnemonic = "pattern trap chest alcohol company broken spare behave vanish flight bottom toast";
+var mnemonic = "regular consider cook machine subject cable gospel gauge acquire canal inner such";

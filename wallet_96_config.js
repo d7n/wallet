@@ -1,1 +1,1 @@
-var mnemonic = "dynamic kiss inspire patrol point right metal excess now club crater patrol";
+var mnemonic = "sick section ghost spider mammal squeeze swim transfer sound impose nose dynamic";

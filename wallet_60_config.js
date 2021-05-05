@@ -1,1 +1,1 @@
-var mnemonic = "unknown clerk fiber knock cabin merge arrange immense dawn raw firm office";
+var mnemonic = "expect eyebrow blouse spirit mutual kidney luxury owner blast thought illness inspire";

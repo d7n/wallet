@@ -1,1 +1,1 @@
-var mnemonic = "render company seat dignity bridge search olive announce tag normal urban swift";
+var mnemonic = "spoil salt impact able labor truck major coyote pledge course movie knee";

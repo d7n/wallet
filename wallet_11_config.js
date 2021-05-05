@@ -1,1 +1,1 @@
-var mnemonic = "clever puzzle away illness priority treat brass novel nice fine refuse shove";
+var mnemonic = "legal envelope obtain account kingdom satisfy deputy spare crucial fluid axis fluid";

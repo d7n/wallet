@@ -1,1 +1,1 @@
-var mnemonic = "sign midnight liquid odor jar effort seek strike enemy zero whip reopen";
+var mnemonic = "dress panel length ketchup modify page river reduce great hobby cousin immense";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness anchor access dilemma champion glue visit inject record display welcome shaft";
+var mnemonic = "gesture cattle awful kitchen swim tobacco brisk candy result verb salad wink";

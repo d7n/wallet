@@ -1,1 +1,1 @@
-var mnemonic = "green buffalo toward blade update mention uniform brick whisper empower vanish want";
+var mnemonic = "mirror junior woman agree wash simple shock wink theme best summer city";

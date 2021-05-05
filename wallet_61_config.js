@@ -1,1 +1,1 @@
-var mnemonic = "wolf wreck purchase group exist unknown tuna group banner ten smart apple";
+var mnemonic = "share spirit balcony agree globe soda expand wrestle detect limb audit merry";

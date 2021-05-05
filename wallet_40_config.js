@@ -1,1 +1,1 @@
-var mnemonic = "fluid clarify chef novel solid river cute solar subject nuclear forest tape";
+var mnemonic = "special layer warfare pond snow wire brand empower stone essay own funny";

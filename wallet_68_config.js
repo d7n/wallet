@@ -1,1 +1,1 @@
-var mnemonic = "end sample adult person repair oil fat aspect opinion fiber possible brisk";
+var mnemonic = "across old demise upset theme squirrel stuff blouse arena panic dynamic scatter";

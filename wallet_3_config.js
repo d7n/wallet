@@ -1,1 +1,1 @@
-var mnemonic = "else tunnel garden clay manage old chapter flower space great typical man";
+var mnemonic = "grape puppy artwork brand short toilet category oxygen frequent oblige begin stick";

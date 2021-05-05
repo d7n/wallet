@@ -1,1 +1,1 @@
-var mnemonic = "design daring success excite wide filter approve enhance nice chimney minimum rhythm";
+var mnemonic = "pigeon lemon buffalo decade sick leg embark ordinary chaos naive survey ripple";

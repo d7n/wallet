@@ -1,1 +1,1 @@
-var mnemonic = "average divert vote wrap vendor nerve mean pear pigeon member lake soap";
+var mnemonic = "plunge rice enact tip donate inform donkey toddler doll shove master oil";

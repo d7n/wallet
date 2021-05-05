@@ -1,1 +1,1 @@
-var mnemonic = "jeans gorilla gentle sponsor index final anchor prison fruit pave hurt amused";
+var mnemonic = "enemy uphold depth panther seven provide tray reopen stamp nation allow open";

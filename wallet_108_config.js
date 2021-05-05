@@ -1,1 +1,1 @@
-var mnemonic = "lizard tuna mind snack bicycle recipe smooth major pluck december rare arrow";
+var mnemonic = "library immense boss quick knock busy weekend nephew genuine trap harvest hospital";

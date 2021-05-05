@@ -1,1 +1,1 @@
-var mnemonic = "sudden kiss antenna people slender useless give spider foot pizza magnet satisfy";
+var mnemonic = "vacuum mother upon pattern jump token version grass february rice captain remind";

@@ -1,1 +1,1 @@
-var mnemonic = "wool vote success pass utility oven donor lawn current law bamboo trip";
+var mnemonic = "announce salt spoil token blossom sweet wave total wise artefact smooth file";

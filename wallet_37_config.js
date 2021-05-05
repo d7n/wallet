@@ -1,1 +1,1 @@
-var mnemonic = "clock print nation vote ice apart situate champion tape truly renew stuff";
+var mnemonic = "torch joy march amount machine rose resemble athlete behave cancel reason mimic";

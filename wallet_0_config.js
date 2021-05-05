@@ -1,1 +1,1 @@
-var mnemonic = "smooth whisper ecology traffic sand orchard ginger obey model unique bullet concert";
+var mnemonic = "purchase afraid live drum suffer notable buffalo oblige shoot slender ill version";

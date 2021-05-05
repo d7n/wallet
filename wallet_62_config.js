@@ -1,1 +1,1 @@
-var mnemonic = "bid caution solve lab renew mimic lift together wisdom unknown allow original";
+var mnemonic = "worry vibrant knock enroll vast laptop fine lunch such write alone fatigue";

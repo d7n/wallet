@@ -1,1 +1,1 @@
-var mnemonic = "swing blouse outside miss crazy you pen talk exile legal job library";
+var mnemonic = "cereal seed company pool debate raise music kitten home toilet awake solar";
