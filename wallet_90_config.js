@@ -1,1 +1,1 @@
-var mnemonic = "people tape fitness violin dust stable cheap best come report know omit";
+var mnemonic = "reward issue daughter sail mask crazy spawn fashion smart seminar truth potato";

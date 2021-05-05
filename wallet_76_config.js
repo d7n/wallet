@@ -1,1 +1,1 @@
-var mnemonic = "later anchor hurt collect city runway unknown double donor secret ski autumn";
+var mnemonic = "critic fatal sting fault impact purity share subject subway orphan jealous syrup";

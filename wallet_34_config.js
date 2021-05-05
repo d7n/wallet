@@ -1,1 +1,1 @@
-var mnemonic = "angle hat plate crack thunder boy bonus boring chef myself morning street";
+var mnemonic = "twin loyal same news seek better color drive dolphin winner debate visa";

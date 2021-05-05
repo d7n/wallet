@@ -1,1 +1,1 @@
-var mnemonic = "hill version engine obtain cry clarify legal blue truth barrel furnace envelope";
+var mnemonic = "cage income topple witness slot drift twelve ocean spawn uncle pigeon island";

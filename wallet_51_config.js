@@ -1,1 +1,1 @@
-var mnemonic = "number void suggest coach snake tissue crack lawn much correct traffic brass";
+var mnemonic = "airport arrive boost quit blood unhappy inhale train error giraffe gossip local";

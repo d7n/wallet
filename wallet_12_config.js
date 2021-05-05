@@ -1,1 +1,1 @@
-var mnemonic = "home cluster skin nest atom beach normal thank improve afraid maple inner";
+var mnemonic = "world resist move negative crater valve syrup soup skin hole stairs brush";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug side urge benefit donor august grid quiz true broken employ conduct";
+var mnemonic = "sphere where fruit rotate use fuel supreme wreck lesson midnight squirrel deal";

@@ -1,1 +1,1 @@
-var mnemonic = "stem update rebel when dawn measure resist skin squeeze wreck such include";
+var mnemonic = "delay lens curious weather useful honey name shadow day click people critic";

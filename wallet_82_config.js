@@ -1,1 +1,1 @@
-var mnemonic = "merit nose manual twelve spice catch subway key vehicle payment benefit virus";
+var mnemonic = "spin cushion shiver chat forward build draft gravity measure deny order auction";

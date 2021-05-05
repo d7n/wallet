@@ -1,1 +1,1 @@
-var mnemonic = "lobster prosper live hard heart often track awake casino digital planet harvest";
+var mnemonic = "market anchor echo affair gauge shoe day draw naive double together remove";

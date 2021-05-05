@@ -1,1 +1,1 @@
-var mnemonic = "dinner wrap target obey emerge pitch know damage cactus breeze earn fetch";
+var mnemonic = "sorry weird fog album aunt hospital security affair mosquito jar steel unfold";

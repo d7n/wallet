@@ -1,1 +1,1 @@
-var mnemonic = "around minor jungle cook syrup palace enhance brother easily trash input more";
+var mnemonic = "repeat erosion lend write school plug team gallery fiber clip please school";

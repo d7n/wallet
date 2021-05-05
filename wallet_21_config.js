@@ -1,1 +1,1 @@
-var mnemonic = "tennis trumpet wing film topic sleep more hollow depth quality apology fetch";
+var mnemonic = "focus pistol early focus replace long icon equip milk shell during win";

@@ -1,1 +1,1 @@
-var mnemonic = "august dog jewel neglect cheese sugar approve vintage pet fiber fatal episode";
+var mnemonic = "hold bus ginger water boost improve parrot century donate solid erupt attitude";

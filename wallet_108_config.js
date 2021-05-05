@@ -1,1 +1,1 @@
-var mnemonic = "list across tissue dismiss exact mail square dentist walk quit bar cry";
+var mnemonic = "strike wool dentist cabbage give tank token bullet detail session vapor prosper";

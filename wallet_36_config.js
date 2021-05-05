@@ -1,1 +1,1 @@
-var mnemonic = "before barely level visual issue vendor caution object together category solid between";
+var mnemonic = "mail twin harvest fog half detect outer over whip shaft funny better";

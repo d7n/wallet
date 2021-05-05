@@ -1,1 +1,1 @@
-var mnemonic = "forget angry mimic mule budget match salon dice decide twin dawn hour";
+var mnemonic = "crowd endorse depart own submit derive memory radar gate scout into gold";

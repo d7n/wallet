@@ -1,1 +1,1 @@
-var mnemonic = "crystal opinion grit economy penalty lesson traffic symptom receive illness wish adjust";
+var mnemonic = "winter budget cheese helmet someone fan decorate mosquito flock key master alone";

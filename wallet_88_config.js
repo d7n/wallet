@@ -1,1 +1,1 @@
-var mnemonic = "denial escape brain rule simple claim find crawl style oxygen subway rare";
+var mnemonic = "ahead turtle stool slush donate celery monkey gloom report prevent surge hockey";

@@ -1,1 +1,1 @@
-var mnemonic = "daring soldier rare solve chimney pudding firm taste whale foot ten submit";
+var mnemonic = "fault oyster wheat grunt sweet receive else river ketchup artefact asthma century";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare teach fancy mechanic measure ignore decade legend maze still lemon member";
+var mnemonic = "clip wrestle anchor merge april naive leisure retreat siege ribbon legend nasty";

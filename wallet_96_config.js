@@ -1,1 +1,1 @@
-var mnemonic = "cram excuse mushroom proud life slow lunch autumn ketchup thumb fork tattoo";
+var mnemonic = "wide curve pen away tongue control monster chaos seminar crater bind erosion";

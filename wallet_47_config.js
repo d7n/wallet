@@ -1,1 +1,1 @@
-var mnemonic = "word robust direct marriage stadium order deliver slide shoe eternal eyebrow suggest";
+var mnemonic = "couch ice water flag vote cost keen worry plastic another wave section";

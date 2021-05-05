@@ -1,1 +1,1 @@
-var mnemonic = "high sibling scale swallow vintage clip tumble health price security prepare goat";
+var mnemonic = "pulse cluster distance reflect chat bulk long danger flower february merge awesome";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry lounge length impose mountain sun when empty pink release abstract only";
+var mnemonic = "hub corn grape physical inch return cancel bar spoon try join crumble";

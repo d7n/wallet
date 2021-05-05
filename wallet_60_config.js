@@ -1,1 +1,1 @@
-var mnemonic = "detect rabbit property idea donkey sauce short fortune success power olive ordinary";
+var mnemonic = "grab jaguar oppose concert job cement avoid across butter spider outside device";

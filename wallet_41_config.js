@@ -1,1 +1,1 @@
-var mnemonic = "avocado security improve author focus plunge sea hidden warfare trend expose husband";
+var mnemonic = "midnight arrow kick focus hundred shrug bleak practice critic large suspect knife";

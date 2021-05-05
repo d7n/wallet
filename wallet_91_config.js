@@ -1,1 +1,1 @@
-var mnemonic = "head reject senior captain wild entire beef mimic sick jeans grant sorry";
+var mnemonic = "quality list exile happy level taxi hurt combine craft huge brother option";

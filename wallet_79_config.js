@@ -1,1 +1,1 @@
-var mnemonic = "silent alert know swim renew car summer future muffin movie shoe radar";
+var mnemonic = "rough want food hole fade gather scatter benefit basket tiny spray salon";

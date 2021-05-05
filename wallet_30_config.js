@@ -1,1 +1,1 @@
-var mnemonic = "damage remember steel move myself swarm matrix machine recycle please half blue";
+var mnemonic = "vivid toss fabric strike sign crush nerve exact help job crystal dwarf";

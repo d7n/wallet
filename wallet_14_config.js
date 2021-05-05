@@ -1,1 +1,1 @@
-var mnemonic = "lava powder piece student acoustic wagon advance beef unit absurd there solve";
+var mnemonic = "impose bleak page creek column dragon violin symptom dash replace actual solution";

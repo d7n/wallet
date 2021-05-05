@@ -1,1 +1,1 @@
-var mnemonic = "grid naive chase future gravity pencil heart all provide input turtle gold";
+var mnemonic = "omit picture happy you margin unlock marine below endorse vibrant toy damp";

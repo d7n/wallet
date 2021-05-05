@@ -1,1 +1,1 @@
-var mnemonic = "cereal series hundred picture acquire fire annual document flush muffin liberty twelve";
+var mnemonic = "beyond rather radar various media bless diamond planet polar view lady gap";

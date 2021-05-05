@@ -1,1 +1,1 @@
-var mnemonic = "sister bacon evil bachelor family expect siege feed immune service staff middle";
+var mnemonic = "calm vanish abuse catch bundle jazz track satoshi photo basket tennis extend";

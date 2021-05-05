@@ -1,1 +1,1 @@
-var mnemonic = "basket motion ginger cry repeat slender topple weapon abstract major century pass";
+var mnemonic = "two gasp company melt unfair nation radio bullet price few hedgehog peace";

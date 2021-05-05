@@ -1,1 +1,1 @@
-var mnemonic = "item above half blur soda vessel bike apple vivid file power music";
+var mnemonic = "dust twin daring recipe salad execute license know across dream atom salmon";

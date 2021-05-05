@@ -1,1 +1,1 @@
-var mnemonic = "word leisure cage inmate dynamic december venue inhale immense year door alarm";
+var mnemonic = "mesh steel hole boil wagon spend magnet custom suggest pudding quantum curious";

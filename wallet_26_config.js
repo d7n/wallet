@@ -1,1 +1,1 @@
-var mnemonic = "two tell wise federal salad worry gloom ladder swift mind era sight";
+var mnemonic = "brick need invite fatal foil hurt group knife stem brush mask twenty";

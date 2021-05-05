@@ -1,1 +1,1 @@
-var mnemonic = "foil creek gold exact life bring gaze prefer steel blanket raccoon invite";
+var mnemonic = "border custom critic key genius stand figure want bulk illegal helmet fringe";

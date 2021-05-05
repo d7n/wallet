@@ -1,1 +1,1 @@
-var mnemonic = "stay sick else dolphin license route desert youth blanket hen tone rotate";
+var mnemonic = "rely case mixture danger resist stairs easy lunch tackle tumble fatal call";

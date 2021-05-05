@@ -1,1 +1,1 @@
-var mnemonic = "jacket cluster legend kid nasty enrich unhappy phone floor action pond resource";
+var mnemonic = "install deposit fat tiny victory salad surge upper evidence recall mass chimney";

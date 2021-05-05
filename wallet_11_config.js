@@ -1,1 +1,1 @@
-var mnemonic = "filter balcony return hip office obscure army able clay visit aerobic whip";
+var mnemonic = "captain sick shoulder govern census master urban puzzle soccer napkin surface demand";

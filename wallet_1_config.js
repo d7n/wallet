@@ -1,1 +1,1 @@
-var mnemonic = "wash novel wrong shoulder lawn online scorpion satoshi circle slot possible motor";
+var mnemonic = "fortune layer wrestle stumble addict profit ski wash give romance first clever";

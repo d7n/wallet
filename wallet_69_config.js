@@ -1,1 +1,1 @@
-var mnemonic = "verb found monkey kiss curve rather ostrich actor advice language pulse sentence";
+var mnemonic = "horn stable afford pear spoon donate sugar hub year orange enough coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "oval usage fatigue lumber gasp hurdle alpha limb vacant session differ flee";
+var mnemonic = "fresh electric hint grab sudden mule wine all joke omit reunion field";

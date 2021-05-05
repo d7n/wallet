@@ -1,1 +1,1 @@
-var mnemonic = "caught bright give define shield palace frost arm body tower kind kidney";
+var mnemonic = "vault retire easily fame ethics obscure person dirt water congress recall exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "then motor delay uncle install desk crisp receive hen put advice reform";
+var mnemonic = "ordinary sugar bomb off wide quick inner arena buzz fetch logic mango";

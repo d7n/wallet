@@ -1,1 +1,1 @@
-var mnemonic = "fever pupil mutual vintage side junk heavy oblige item anger that settle";
+var mnemonic = "device sad answer net vehicle tomorrow bacon decrease dignity office ski rack";

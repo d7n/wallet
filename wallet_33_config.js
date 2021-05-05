@@ -1,1 +1,1 @@
-var mnemonic = "vibrant topple program jewel unhappy jar ability moon merry strategy indoor royal";
+var mnemonic = "eagle want claim woman stuff congress climb seat fantasy general flame elder";

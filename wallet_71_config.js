@@ -1,1 +1,1 @@
-var mnemonic = "soon average kingdom behind reunion pepper moon warm churn eye fiscal trust";
+var mnemonic = "tortoise trap boat rural demise upper woman long trouble machine awake mad";

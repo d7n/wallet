@@ -1,1 +1,1 @@
-var mnemonic = "era volume put train lady check merge build cheese innocent mobile add";
+var mnemonic = "grass behave broccoli slim divert beauty dutch seminar flat young nasty impose";

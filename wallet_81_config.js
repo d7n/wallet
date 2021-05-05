@@ -1,1 +1,1 @@
-var mnemonic = "actual enforce butter juice orbit flavor perfect cinnamon empty inch acid escape";
+var mnemonic = "wing depart tree kitten grief runway lunar mass debate rescue oak pill";

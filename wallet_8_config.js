@@ -1,1 +1,1 @@
-var mnemonic = "scissors craft tired actor birth dance fever night dust marble plastic better";
+var mnemonic = "marble crumble forward shed resource actual soap language kiss trumpet acid fence";

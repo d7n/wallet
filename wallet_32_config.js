@@ -1,1 +1,1 @@
-var mnemonic = "review angle flight boat explain ask grace hurt either mean orbit link";
+var mnemonic = "mask review exhaust solar draft disagree endless autumn salmon wage card enlist";

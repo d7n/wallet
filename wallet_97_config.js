@@ -1,1 +1,1 @@
-var mnemonic = "shy shed video salmon easy flag stay tornado unable record portion bitter";
+var mnemonic = "gap finish innocent feel fuel execute lizard ghost weasel ketchup old swim";

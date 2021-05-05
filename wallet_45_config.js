@@ -1,1 +1,1 @@
-var mnemonic = "book science auction horn mandate lens midnight flame own flat issue deal";
+var mnemonic = "medal silent mass add twenty antique scale question absorb floor arrest unique";

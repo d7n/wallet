@@ -1,1 +1,1 @@
-var mnemonic = "census tool begin chronic injury dry pave pluck truth easily consider clown";
+var mnemonic = "inherit metal session rabbit vendor crystal earn slice plug page refuse midnight";

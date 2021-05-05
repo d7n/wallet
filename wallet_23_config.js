@@ -1,1 +1,1 @@
-var mnemonic = "promote orphan educate young recall school kite wealth choice weasel warfare permit";
+var mnemonic = "acid stand silk control surprise pistol chicken develop derive surge blush eyebrow";

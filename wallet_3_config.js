@@ -1,1 +1,1 @@
-var mnemonic = "surround bright couch milk drive diesel smooth scene hybrid goat bone chat";
+var mnemonic = "actual limit shoe circle spike student gallery bag monitor bean skin square";

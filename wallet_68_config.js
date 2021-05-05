@@ -1,1 +1,1 @@
-var mnemonic = "buyer bullet warfare oxygen tool skin razor symptom wage always afford clean";
+var mnemonic = "solution decide ride neglect sibling drop digital era buffalo next buddy skirt";

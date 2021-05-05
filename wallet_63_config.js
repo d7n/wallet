@@ -1,1 +1,1 @@
-var mnemonic = "drink bind bar assume apart cargo fit local firm check cave hidden";
+var mnemonic = "mad remain cement picnic hire debate cement diamond decorate seat later abuse";

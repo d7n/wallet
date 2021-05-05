@@ -1,1 +1,1 @@
-var mnemonic = "certain material hunt vacant caught cram tornado army scout awake ethics wheel";
+var mnemonic = "credit jar salt person letter carbon gather evoke conduct just sadness chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub glove erupt paddle test armed engine marine settle adjust fan power";
+var mnemonic = "abandon physical donkey gift arrow stove goat carpet museum simple poem kangaroo";

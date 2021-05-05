@@ -1,1 +1,1 @@
-var mnemonic = "critic borrow swap bracket heavy image fragile comic fabric maple pool gas";
+var mnemonic = "foot charge diary hello auction awake apology cereal company genuine tumble roast";

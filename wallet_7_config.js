@@ -1,1 +1,1 @@
-var mnemonic = "acid faint fiscal spell prison virus pepper fringe manage swim service equip";
+var mnemonic = "situate fire figure type day half oyster immune rely spring tool space";

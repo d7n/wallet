@@ -1,1 +1,1 @@
-var mnemonic = "poet enhance file shaft message speak pulse aspect hedgehog pyramid fit opera";
+var mnemonic = "gadget supreme income behave guide discover pass oil fine melody minimum worth";

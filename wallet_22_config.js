@@ -1,1 +1,1 @@
-var mnemonic = "possible stick tired trash mom arrive rebuild energy cattle angry leisure deliver";
+var mnemonic = "salmon miss aunt doctor faint morning aim slice family pupil demise own";

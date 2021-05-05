@@ -1,1 +1,1 @@
-var mnemonic = "minute fitness win identify push wise half egg shy camera fever another";
+var mnemonic = "lumber play crawl chase region nice dizzy clump display document lecture title";

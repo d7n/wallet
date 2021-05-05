@@ -1,1 +1,1 @@
-var mnemonic = "push rare basic food slim text coin change umbrella dentist bitter wood";
+var mnemonic = "slot provide depart stadium wrestle peace slam cup era bomb purity solar";

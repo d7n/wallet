@@ -1,1 +1,1 @@
-var mnemonic = "twist will smile idea shoe choice castle dutch pig depth witness steel";
+var mnemonic = "lonely palm better cinnamon file question find since boost color ride stem";

@@ -1,1 +1,1 @@
-var mnemonic = "master hamster park fault gift road sing kind portion journey sister syrup";
+var mnemonic = "frame lemon penalty actress buddy they shrug garage science mad boy text";

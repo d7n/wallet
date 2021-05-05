@@ -1,1 +1,1 @@
-var mnemonic = "arm endorse equip require filter case network climb demise service unknown city";
+var mnemonic = "chicken rent crazy awkward pair cereal road fat tired mouse use surround";

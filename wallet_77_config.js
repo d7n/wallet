@@ -1,1 +1,1 @@
-var mnemonic = "extra fault whisper smooth since provide order physical stomach public supreme course";
+var mnemonic = "spy piece always duty fantasy cactus reopen swamp march cake witness else";

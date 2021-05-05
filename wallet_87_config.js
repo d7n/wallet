@@ -1,1 +1,1 @@
-var mnemonic = "era country throw host vapor goose gas element puppy thumb uncover basket";
+var mnemonic = "flat labor taste what woman visa inject nurse scare trap holiday spring";

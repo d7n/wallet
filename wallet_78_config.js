@@ -1,1 +1,1 @@
-var mnemonic = "begin grocery donkey decade media gas scrub output local call poverty section";
+var mnemonic = "tragic kiwi spoon option illness april voyage snow attitude screen grow core";

@@ -1,1 +1,1 @@
-var mnemonic = "obey team bomb few volume flee bright same paddle theory garage sad";
+var mnemonic = "layer spend negative assist night impulse six can together diary convince wrap";

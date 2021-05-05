@@ -1,1 +1,1 @@
-var mnemonic = "same depth airport snap immense build card gown anger toss jar phone";
+var mnemonic = "sport layer cloth record junk swallow flight bachelor ranch glance purpose filter";

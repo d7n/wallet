@@ -1,1 +1,1 @@
-var mnemonic = "dignity quit swap claim hour skin crash dentist force caught head pattern";
+var mnemonic = "announce indicate domain excuse zebra puppy dress vocal parade put token episode";

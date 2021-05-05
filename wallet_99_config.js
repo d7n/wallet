@@ -1,1 +1,1 @@
-var mnemonic = "museum idle fluid tail orange leg middle angle palace light diesel build";
+var mnemonic = "horn cattle despair animal liar seminar target genuine industry blanket already ride";

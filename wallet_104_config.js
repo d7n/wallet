@@ -1,1 +1,1 @@
-var mnemonic = "better inhale obey stage memory clown author portion fetch sudden coral ranch";
+var mnemonic = "blame gas angle kidney north spice paddle ten tape only middle trouble";

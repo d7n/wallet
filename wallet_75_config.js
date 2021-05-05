@@ -1,1 +1,1 @@
-var mnemonic = "boss purpose index palace you stamp reveal staff warm muffin equip observe";
+var mnemonic = "cart boring shoulder citizen floor soccer caught bracket arrive cloud senior miracle";

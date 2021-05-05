@@ -1,1 +1,1 @@
-var mnemonic = "version witness scene trip skill ask summer burst mail child bench noodle";
+var mnemonic = "grunt company skate solar rail biology vast buzz wine process fetch vintage";

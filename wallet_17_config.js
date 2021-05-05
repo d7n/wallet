@@ -1,1 +1,1 @@
-var mnemonic = "frame myself rally pride auto guide bird clever noodle vault milk axis";
+var mnemonic = "blood want bird test fault theory trust journey pull old fashion obvious";

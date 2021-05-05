@@ -1,1 +1,1 @@
-var mnemonic = "shift miss want mail slim repeat tackle news popular copper gas across";
+var mnemonic = "open snap lift mail chat senior hungry ten critic this fade task";

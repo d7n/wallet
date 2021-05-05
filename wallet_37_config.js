@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo behave utility illegal present ivory dune modify pill team again reform";
+var mnemonic = "grocery shadow sorry dragon awake kiwi clerk educate hobby image tumble relax";

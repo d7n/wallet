@@ -1,1 +1,1 @@
-var mnemonic = "minor whip coil rebel bamboo rib shoot trust shield wave combine notice";
+var mnemonic = "ocean banner sand correct lens load kid imitate city glow ginger scan";

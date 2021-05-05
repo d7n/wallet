@@ -1,1 +1,1 @@
-var mnemonic = "arrange human steak country ethics mom three gather copper empower will chalk";
+var mnemonic = "poem slow buzz photo soap shock annual elder front garbage demand appear";

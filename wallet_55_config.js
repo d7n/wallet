@@ -1,1 +1,1 @@
-var mnemonic = "improve movie invest man word flight course find tool onion erase pass";
+var mnemonic = "holiday disagree grief remember depth upper nut shoulder happy nice property rapid";

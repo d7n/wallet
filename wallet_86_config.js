@@ -1,1 +1,1 @@
-var mnemonic = "grape spread pole genius panel sheriff glory twice secret glance enforce boring";
+var mnemonic = "jacket car certain solve mosquito wink trash depend run pretty design knee";

@@ -1,1 +1,1 @@
-var mnemonic = "feel title laundry abandon couch basket assist eight element subject stool permit";
+var mnemonic = "olympic elite shed plug invest beyond engage garden slim siege cube census";

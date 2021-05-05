@@ -1,1 +1,1 @@
-var mnemonic = "cross donkey december tortoise assume rich annual math movie novel outer matter";
+var mnemonic = "leader patch nephew solution burst reject relax reveal panther eyebrow second miracle";

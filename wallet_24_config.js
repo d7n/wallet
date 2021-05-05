@@ -1,1 +1,1 @@
-var mnemonic = "load sleep machine image appear favorite legal emotion ginger denial aim twelve";
+var mnemonic = "expose bring object teach trial join expire secret pumpkin super poverty hamster";

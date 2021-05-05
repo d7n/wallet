@@ -1,1 +1,1 @@
-var mnemonic = "earn foster earn rotate task jewel inquiry material certain salon erupt aim";
+var mnemonic = "wrap eye point notice elder vibrant abuse mom nice capable material knee";

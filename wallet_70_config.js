@@ -1,1 +1,1 @@
-var mnemonic = "cargo number order winter multiply magnet escape blur improve ranch fade cry";
+var mnemonic = "trim company hidden party boss flag glad service fashion cook panda purchase";

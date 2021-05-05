@@ -1,1 +1,1 @@
-var mnemonic = "lady party adult marine firm volume shiver lyrics scatter piece tonight wage";
+var mnemonic = "flip fatigue embody oyster pluck bottom category drop primary label stomach foster";

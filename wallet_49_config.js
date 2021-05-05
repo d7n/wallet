@@ -1,1 +1,1 @@
-var mnemonic = "spread dice gap option denial august leader absent gaze gauge floor minor";
+var mnemonic = "luxury blush gain include tissue survey glory step term attitude leisure figure";
