@@ -1,1 +1,1 @@
-var mnemonic = "more turkey bicycle sorry pupil minute blossom carry square energy anxiety dignity";
+var mnemonic = "enter just illegal advance junior minimum rose hope ball swear never example";

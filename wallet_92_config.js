@@ -1,1 +1,1 @@
-var mnemonic = "voice rabbit feature rapid weekend audit better antenna autumn lottery noise ceiling";
+var mnemonic = "erase island era grant ecology taste trash inch during custom skirt old";

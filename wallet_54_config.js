@@ -1,1 +1,1 @@
-var mnemonic = "accident rate note slide bone kangaroo game awesome lemon fault focus worth";
+var mnemonic = "job spare scorpion silk lawn little laugh blast neither today forward clap";

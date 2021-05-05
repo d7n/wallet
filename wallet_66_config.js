@@ -1,1 +1,1 @@
-var mnemonic = "local electric case world alpha kitchen short face slogan trophy kitchen caution";
+var mnemonic = "fox champion lizard garage tank library evil grain modify police front title";

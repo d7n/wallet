@@ -1,1 +1,1 @@
-var mnemonic = "cost vivid drop rely custom harsh edge key anchor rule ugly wine";
+var mnemonic = "episode upgrade crucial simple price ancient demise spell salt street legend annual";

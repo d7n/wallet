@@ -1,1 +1,1 @@
-var mnemonic = "dutch garbage copy grace produce demise prosper intact visa common adapt lift";
+var mnemonic = "squeeze child trophy brick solid shove gain segment require sunset hundred type";

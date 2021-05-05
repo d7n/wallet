@@ -1,1 +1,1 @@
-var mnemonic = "mercy lift gap whip strategy bless pyramid able evil bottom island among";
+var mnemonic = "soon ring disease pretty gorilla explain retire depend quality program laugh power";

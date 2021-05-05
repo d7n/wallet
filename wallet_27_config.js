@@ -1,1 +1,1 @@
-var mnemonic = "pencil loud make record confirm blouse police donkey rifle forum wise fame";
+var mnemonic = "shrimp involve off dinosaur afraid damage enforce coconut card flash confirm hungry";

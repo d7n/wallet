@@ -1,1 +1,1 @@
-var mnemonic = "winner resist warfare upon gun join lucky member friend focus kite around";
+var mnemonic = "feel jar hurdle middle index special glimpse dinosaur rude magic chimney void";

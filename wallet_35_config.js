@@ -1,1 +1,1 @@
-var mnemonic = "canvas decline trap furnace ball unlock vacuum memory now laugh have moral";
+var mnemonic = "basket range congress wedding since pig eagle desert thought flower cave end";

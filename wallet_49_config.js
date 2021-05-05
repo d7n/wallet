@@ -1,1 +1,1 @@
-var mnemonic = "inch connect romance slot gloom visual example claim behind judge ski own";
+var mnemonic = "assault become type prepare slender actor artefact jazz cereal stay scheme nephew";

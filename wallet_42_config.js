@@ -1,1 +1,1 @@
-var mnemonic = "claim hint any floor vague mirror consider assault gospel sand tourist refuse";
+var mnemonic = "year cabin weird buffalo deal leisure pink drip finger volume fine cabin";

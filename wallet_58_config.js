@@ -1,1 +1,1 @@
-var mnemonic = "current absorb negative swarm canal coach cherry leave learn renew wool kiwi";
+var mnemonic = "domain sauce child execute aerobic name item ready inside hospital test service";

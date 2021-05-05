@@ -1,1 +1,1 @@
-var mnemonic = "hero moral garage salute brave staff health measure book green depth art";
+var mnemonic = "firm layer art advice engage muffin leisure you under emotion city bonus";

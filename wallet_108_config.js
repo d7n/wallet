@@ -1,1 +1,1 @@
-var mnemonic = "ranch funny oval claw miss area paddle clog cool penalty eternal dignity";
+var mnemonic = "world video bitter jungle happy flower abstract prison grow vendor kitten radar";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain spawn basket type midnight trade arena fever hamster penalty logic remind";
+var mnemonic = "direct advice increase annual trap much when inherit used demise grant lamp";

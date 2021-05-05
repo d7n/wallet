@@ -1,1 +1,1 @@
-var mnemonic = "pledge climb minimum cup truly tower doll olive two lady treat august";
+var mnemonic = "foster injury few amused couple reject shove unable crisp vacant issue avocado";

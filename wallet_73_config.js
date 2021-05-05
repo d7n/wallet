@@ -1,1 +1,1 @@
-var mnemonic = "solid trigger daring maze river tank fat bracket puppy bomb volume live";
+var mnemonic = "hood veteran resist gentle claw flag bless limb guide quiz enjoy insect";

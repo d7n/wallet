@@ -1,1 +1,1 @@
-var mnemonic = "arrow high strong beach expect blouse loop coach more index sustain wonder";
+var mnemonic = "empty lounge pride canyon dolphin medal rug problem minute ensure win divorce";

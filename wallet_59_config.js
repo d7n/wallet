@@ -1,1 +1,1 @@
-var mnemonic = "borrow edit aim rescue rack zero issue scale odor scout advice junk";
+var mnemonic = "humble beach alley impulse boat profit filter tired useful bean medal taxi";

@@ -1,1 +1,1 @@
-var mnemonic = "turtle entire glass arrow online tackle uphold orphan slice leave hammer around";
+var mnemonic = "image skull section country winter inspire fossil trouble deer relax turn chimney";

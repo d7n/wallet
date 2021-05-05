@@ -1,1 +1,1 @@
-var mnemonic = "match outside urban insane deer month cherry used about supreme sausage south";
+var mnemonic = "yard physical lunar staff exclude gallery legend meat episode bid rice shed";

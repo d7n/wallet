@@ -1,1 +1,1 @@
-var mnemonic = "attend alert mirror length radar must vintage tiny edit boost service decade";
+var mnemonic = "guard keen toilet sick flock size jewel cart dinosaur reopen trip human";

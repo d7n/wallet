@@ -1,1 +1,1 @@
-var mnemonic = "laptop march onion provide year advance parade jewel wave race sausage sentence";
+var mnemonic = "chef erosion salt lounge lumber good torch main relax diesel float receive";

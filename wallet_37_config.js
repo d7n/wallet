@@ -1,1 +1,1 @@
-var mnemonic = "salon fiscal merge similar calm ivory crowd dolphin shiver crater pulp myth";
+var mnemonic = "polar banner much shed faith spring nut forest author fire can gloom";

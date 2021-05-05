@@ -1,1 +1,1 @@
-var mnemonic = "empty pause weekend grape reform bag recall improve news toward pair concert";
+var mnemonic = "seed follow gorilla knee immense inflict damage basic bulk sweet weather rain";

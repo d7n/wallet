@@ -1,1 +1,1 @@
-var mnemonic = "cram possible orphan medal gate outside uphold coyote describe life snack ranch";
+var mnemonic = "glow book session length giant share quit aspect side define various young";

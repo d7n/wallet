@@ -1,1 +1,1 @@
-var mnemonic = "thumb segment someone this police drill giraffe fabric scatter street primary daring";
+var mnemonic = "fish uncover margin obey appear what scatter make loan atom friend exit";

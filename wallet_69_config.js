@@ -1,1 +1,1 @@
-var mnemonic = "word pledge recycle congress morning rookie play present strong taxi false ethics";
+var mnemonic = "blouse spray alien blouse undo move pen runway believe have chat humor";

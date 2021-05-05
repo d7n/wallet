@@ -1,1 +1,1 @@
-var mnemonic = "oblige tunnel fine girl pond drama crowd eyebrow thrive marriage hurt more";
+var mnemonic = "teach scan remind evidence holiday until hand sleep abandon horn speak visa";

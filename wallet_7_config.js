@@ -1,1 +1,1 @@
-var mnemonic = "refuse basket deny police affair bid raise remind accuse funny render draw";
+var mnemonic = "joke lesson broom mother garden supreme hello flat digital sad joke sorry";

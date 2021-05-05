@@ -1,1 +1,1 @@
-var mnemonic = "finger unlock file room soccer hood device volume fault tomato mushroom sauce";
+var mnemonic = "age great tell army scout embark old art sign auto firm gadget";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum frown across sea wave enter scheme draft toddler fortune rebuild wet";
+var mnemonic = "coin laundry lizard dog aerobic light noise library gravity front error erode";

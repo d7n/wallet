@@ -1,1 +1,1 @@
-var mnemonic = "right exercise amateur shy cabin stumble garage address produce chair swear cinnamon";
+var mnemonic = "cook divert public can various avocado chaos chimney say prefer vocal memory";

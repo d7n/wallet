@@ -1,1 +1,1 @@
-var mnemonic = "cover thing muscle mention replace faith cruise embrace only swarm usual resource";
+var mnemonic = "case trip target kangaroo blame elegant habit please filter violin detail desert";

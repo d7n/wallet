@@ -1,1 +1,1 @@
-var mnemonic = "junk lift mansion ride helmet debris fit naive bag patrol stamp discover";
+var mnemonic = "olympic uncover pact sorry solar speak gadget zero worry viable hill describe";

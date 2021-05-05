@@ -1,1 +1,1 @@
-var mnemonic = "help crisp clump unit flavor birth bamboo course chunk scorpion fix cricket";
+var mnemonic = "feed benefit evoke reform suffer broom piano enable fame list mercy regular";

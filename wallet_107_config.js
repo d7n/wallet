@@ -1,1 +1,1 @@
-var mnemonic = "choice neck real reason reduce cart stamp notice slight ready copy pudding";
+var mnemonic = "tower matrix below box certain office vivid jazz elite width blush tag";

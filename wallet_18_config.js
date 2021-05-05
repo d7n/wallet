@@ -1,1 +1,1 @@
-var mnemonic = "organ shove swift rug side genre twice about lottery aspect donor book";
+var mnemonic = "educate regret moon wall hope bright roof dragon slide tiger wrong practice";

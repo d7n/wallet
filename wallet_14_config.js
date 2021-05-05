@@ -1,1 +1,1 @@
-var mnemonic = "connect umbrella polar found armed gate smooth refuse build opera adjust fiber";
+var mnemonic = "predict black issue local phone emerge talk young lonely reunion among run";

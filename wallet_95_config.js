@@ -1,1 +1,1 @@
-var mnemonic = "february effort anxiety quantum story faint inner fuel oblige unfair swamp session";
+var mnemonic = "scheme hope ordinary sleep vanish view suspect potato school team find library";

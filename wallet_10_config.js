@@ -1,1 +1,1 @@
-var mnemonic = "tilt knock violin gap stomach horror decide error panic elegant where parade";
+var mnemonic = "shallow know merry era isolate link initial estate oil reward gap walk";

@@ -1,1 +1,1 @@
-var mnemonic = "swift hidden use grain approve stumble until empower toe average display evolve";
+var mnemonic = "polar borrow fiscal fresh extend coconut avoid bread adapt giraffe confirm theme";

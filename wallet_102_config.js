@@ -1,1 +1,1 @@
-var mnemonic = "remove man gauge pistol equal cradle symbol blue fit flat arrow income";
+var mnemonic = "bright creek tenant soap predict panda grocery stove bronze kick unable decide";

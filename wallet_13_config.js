@@ -1,1 +1,1 @@
-var mnemonic = "similar mind tired bracket donate tube letter company world toast donor polar";
+var mnemonic = "age wild palm sauce utility mixed lamp shrimp claim knee end pizza";

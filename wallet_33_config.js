@@ -1,1 +1,1 @@
-var mnemonic = "sword ivory phrase trim anxiety hungry stone critic skill borrow ability have";
+var mnemonic = "balcony dolphin park neglect spray glory catch lake bachelor aisle blind arrest";

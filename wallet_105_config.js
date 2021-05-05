@@ -1,1 +1,1 @@
-var mnemonic = "element merge indoor mystery side soldier modify rib genuine wolf odor color";
+var mnemonic = "muscle recycle vivid destroy garden digital fiber tribe length hurry fog forest";

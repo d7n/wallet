@@ -1,1 +1,1 @@
-var mnemonic = "gown wool country carbon draw crystal innocent tent joy bright carry fancy";
+var mnemonic = "manage ancient under start wide sorry riot city struggle laugh cake half";

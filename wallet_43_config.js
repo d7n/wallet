@@ -1,1 +1,1 @@
-var mnemonic = "since floor bunker sad congress cigar color resource such salad inquiry chief";
+var mnemonic = "include city elevator sibling nephew asset orient kangaroo lyrics weird deny dice";

@@ -1,1 +1,1 @@
-var mnemonic = "crush parade design trial tape receive beef doctor around elephant skin pencil";
+var mnemonic = "body piece doll immune wolf nation ahead profit crew sketch strike vanish";

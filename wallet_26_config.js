@@ -1,1 +1,1 @@
-var mnemonic = "tower easily immune bone chief cry muffin dinosaur slush humor maid main";
+var mnemonic = "kit glue vocal exotic canvas resource brief assume nephew flavor fuel magic";

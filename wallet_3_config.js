@@ -1,1 +1,1 @@
-var mnemonic = "cycle miracle pyramid what left despair film draft reason dial galaxy canyon";
+var mnemonic = "catalog absent chair coconut pudding obey coach drip daughter check spawn float";

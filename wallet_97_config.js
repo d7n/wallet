@@ -1,1 +1,1 @@
-var mnemonic = "cake swarm object dragon knock surround hope sudden drip size awake future";
+var mnemonic = "loud race limit mammal laundry print parade sphere absorb toddler cricket crush";

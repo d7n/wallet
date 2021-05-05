@@ -1,1 +1,1 @@
-var mnemonic = "odor holiday design twelve maze east convince insect plug kind noise argue";
+var mnemonic = "nasty rabbit minute coyote orange wagon rabbit fire fence search tortoise silver";

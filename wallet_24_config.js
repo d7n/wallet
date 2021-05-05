@@ -1,1 +1,1 @@
-var mnemonic = "conduct solution bundle pool car unlock stairs fly close predict small display";
+var mnemonic = "lawsuit emerge worth bright assist arrow oppose piano wolf boring waste replace";

@@ -1,1 +1,1 @@
-var mnemonic = "height hockey slim brush universe scheme drift anxiety gym humor kiss give";
+var mnemonic = "flag avocado puppy axis angle voyage speak prosper live add valley upon";

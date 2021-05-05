@@ -1,1 +1,1 @@
-var mnemonic = "divide slide game melt goose uncover tissue tomato bargain dynamic common science";
+var mnemonic = "warfare future snow still table truth situate waste silent there penalty reopen";

@@ -1,1 +1,1 @@
-var mnemonic = "advance hope game humble delay cinnamon oppose similar gasp float tiger hip";
+var mnemonic = "wonder left marriage expect result trip pistol inch able shadow wife gallery";

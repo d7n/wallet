@@ -1,1 +1,1 @@
-var mnemonic = "ship document century know father buddy level advance grape cat depart enable";
+var mnemonic = "vast staff obscure rescue swing visit quick trap century minimum smart diary";

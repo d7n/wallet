@@ -1,1 +1,1 @@
-var mnemonic = "advance planet sunset border steak tenant arch soft fault hip chapter gather";
+var mnemonic = "border that slow spy seat tree crash wreck ugly act viable tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "charge blanket modify east pattern acid letter live scissors what define limit";
+var mnemonic = "enough that tiny sniff cake devote evidence cherry deposit pigeon glue abandon";

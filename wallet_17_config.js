@@ -1,1 +1,1 @@
-var mnemonic = "virtual burger general today connect tiger leopard nest boss wall mystery urban";
+var mnemonic = "blue lamp fashion canoe post nothing tuna relax donkey method chicken mechanic";

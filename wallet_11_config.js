@@ -1,1 +1,1 @@
-var mnemonic = "scrap march one brisk harbor amount census lounge spray theory nation foil";
+var mnemonic = "quality obtain rocket taste pluck distance nature truck cheap move raven later";

@@ -1,1 +1,1 @@
-var mnemonic = "absent crowd corn ecology hundred safe magic food future tennis liberty gallery";
+var mnemonic = "blast exhaust miss slab gossip avoid scissors ordinary twice income announce basket";

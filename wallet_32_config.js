@@ -1,1 +1,1 @@
-var mnemonic = "squeeze main option exile story fix soccer elder junior mobile approve wise";
+var mnemonic = "arrive carry blossom equip notable surprise human nerve wage grant over spike";

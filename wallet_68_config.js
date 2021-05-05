@@ -1,1 +1,1 @@
-var mnemonic = "enhance audit rack moon else pumpkin recipe gallery hockey crush critic autumn";
+var mnemonic = "oyster street dad kingdom chunk future mirror robot ceiling monitor stairs hazard";

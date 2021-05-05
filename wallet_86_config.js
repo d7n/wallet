@@ -1,1 +1,1 @@
-var mnemonic = "weather sister element present reopen visa island trouble fit high liberty exclude";
+var mnemonic = "cover soap strategy dance slab derive tag turn above kangaroo ring camp";

@@ -1,1 +1,1 @@
-var mnemonic = "response robot alone output thing split vital primary hurt screen toilet adult";
+var mnemonic = "unit cheese cross horror wealth group where nerve noble enemy faint black";

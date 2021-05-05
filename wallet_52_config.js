@@ -1,1 +1,1 @@
-var mnemonic = "maze lottery domain favorite mind about traffic addict egg demise proof color";
+var mnemonic = "produce husband mountain route dumb attitude danger bike razor taste measure total";

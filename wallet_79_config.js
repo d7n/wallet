@@ -1,1 +1,1 @@
-var mnemonic = "play leopard drip occur evil degree cabin undo flower income attitude absorb";
+var mnemonic = "glance lucky thought lumber firm void distance artefact miracle radio glove galaxy";

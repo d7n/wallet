@@ -1,1 +1,1 @@
-var mnemonic = "human couch topic girl mass around blouse honey crumble fashion forget boat";
+var mnemonic = "truth desk pigeon style scrap museum time stand chat duck dose essence";

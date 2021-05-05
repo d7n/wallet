@@ -1,1 +1,1 @@
-var mnemonic = "ladder water sport atom drop twice snack shoe liar sudden agent giggle";
+var mnemonic = "body between random cargo melt erupt setup peanut twin illegal office brief";

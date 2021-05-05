@@ -1,1 +1,1 @@
-var mnemonic = "small ordinary burger sight hockey exact armor verify prefer subway flush category";
+var mnemonic = "quick crack sing wasp action acquire raise toss suspect short soft only";

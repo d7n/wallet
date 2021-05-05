@@ -1,1 +1,1 @@
-var mnemonic = "save fiscal rifle snake scheme call embody citizen hammer predict upper bread";
+var mnemonic = "loan myth cabin total trumpet quick inform judge sugar only train dumb";

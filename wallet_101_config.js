@@ -1,1 +1,1 @@
-var mnemonic = "light indicate coin few badge corn chunk illness web apart cannon egg";
+var mnemonic = "match clean heavy coconut notice height absent world gold life cruise nation";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney pen quarter portion govern man ball merry usual vanish matter age";
+var mnemonic = "agent tennis tonight puzzle bulk know genuine drama mass gauge fan alert";

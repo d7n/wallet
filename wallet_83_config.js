@@ -1,1 +1,1 @@
-var mnemonic = "fence piece glare peanut river flip unusual neglect wave february dutch liberty";
+var mnemonic = "wide answer toy path twist express paddle tool rubber purse assist rigid";

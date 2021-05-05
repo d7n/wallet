@@ -1,1 +1,1 @@
-var mnemonic = "faint lion civil silk knife length lend agree cactus stick return piece";
+var mnemonic = "virus tackle renew flat snow shadow fork purse journey more manage pink";

@@ -1,1 +1,1 @@
-var mnemonic = "use curve naive effort knife raccoon design cotton search sting awful jelly";
+var mnemonic = "future sweet photo deal one vendor cart retire hub art reject panther";

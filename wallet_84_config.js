@@ -1,1 +1,1 @@
-var mnemonic = "utility usual despair coil cushion twelve ethics office question panther else useless";
+var mnemonic = "any reopen until wink melt boring green weapon suggest energy tongue omit";

@@ -1,1 +1,1 @@
-var mnemonic = "turkey text moon stock cousin sock keep lend excite judge deposit orchard";
+var mnemonic = "win feature process coral load exclude goddess kind mistake add again enroll";

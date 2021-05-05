@@ -1,1 +1,1 @@
-var mnemonic = "split asset spread wood calm defense general bottom west actress mad tragic";
+var mnemonic = "echo unveil bus twin pull immense chuckle chuckle rare cruel cake whip";

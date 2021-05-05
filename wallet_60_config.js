@@ -1,1 +1,1 @@
-var mnemonic = "bullet tide frequent satoshi belt broom shallow flavor venture left allow dynamic";
+var mnemonic = "fiction kingdom sheriff sudden sound lend between visit bless mixed today muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs steak popular hub veteran pelican advice gravity race stumble asset bar";
+var mnemonic = "oblige also speed reward blind breeze brush rocket pull scheme senior display";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery extend brief primary umbrella worry cement sea example admit syrup section";
+var mnemonic = "elegant arrange resource thought only common badge update grass damage palace stumble";

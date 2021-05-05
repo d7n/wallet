@@ -1,1 +1,1 @@
-var mnemonic = "language kangaroo smart question embody power myth receive easy mouse index coral";
+var mnemonic = "guess print square cake park ticket pigeon talk palace nut swim hedgehog";

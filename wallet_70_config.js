@@ -1,1 +1,1 @@
-var mnemonic = "marine broom vendor peace female misery myth west topple seven certain slot";
+var mnemonic = "unfold general wolf layer awful donkey design fall cluster grow spray away";

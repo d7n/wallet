@@ -1,1 +1,1 @@
-var mnemonic = "make erosion cabbage have canvas phone whale unfair sell screen concert tribe";
+var mnemonic = "feel street twice tornado zebra cube group guide cry fever theme oyster";
