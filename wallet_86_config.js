@@ -1,1 +1,1 @@
-var mnemonic = "jacket car certain solve mosquito wink trash depend run pretty design knee";
+var mnemonic = "dilemma glad clever mammal universe floor save indoor black side adult burger";

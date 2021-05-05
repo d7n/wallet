@@ -1,1 +1,1 @@
-var mnemonic = "vivid toss fabric strike sign crush nerve exact help job crystal dwarf";
+var mnemonic = "mixture mail follow access cake deposit decorate sketch snake faculty knock void";

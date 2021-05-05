@@ -1,1 +1,1 @@
-var mnemonic = "grass behave broccoli slim divert beauty dutch seminar flat young nasty impose";
+var mnemonic = "pony involve spell speak arch expire liar rabbit trap resist print barrel";

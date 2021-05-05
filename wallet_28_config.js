@@ -1,1 +1,1 @@
-var mnemonic = "ocean banner sand correct lens load kid imitate city glow ginger scan";
+var mnemonic = "enrich quit face photo episode cry lawn drop pear limb silly aim";

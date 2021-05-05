@@ -1,1 +1,1 @@
-var mnemonic = "solution decide ride neglect sibling drop digital era buffalo next buddy skirt";
+var mnemonic = "cart sponsor risk luxury wife melody prison arrange clinic breeze about harvest";

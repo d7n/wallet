@@ -1,1 +1,1 @@
-var mnemonic = "horn cattle despair animal liar seminar target genuine industry blanket already ride";
+var mnemonic = "welcome ready steel upper rug spend age injury sick plug discover phrase";

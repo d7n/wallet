@@ -1,1 +1,1 @@
-var mnemonic = "blood want bird test fault theory trust journey pull old fashion obvious";
+var mnemonic = "sausage airport general describe artist build chimney glow isolate midnight rain bachelor";

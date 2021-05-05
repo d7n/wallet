@@ -1,1 +1,1 @@
-var mnemonic = "rough want food hole fade gather scatter benefit basket tiny spray salon";
+var mnemonic = "sphere shy december almost neglect sea intact peasant harbor anxiety intact clean";

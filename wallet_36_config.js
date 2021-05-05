@@ -1,1 +1,1 @@
-var mnemonic = "mail twin harvest fog half detect outer over whip shaft funny better";
+var mnemonic = "chuckle exile wait ripple item industry error north other combine false hero";

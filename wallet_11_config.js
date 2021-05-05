@@ -1,1 +1,1 @@
-var mnemonic = "captain sick shoulder govern census master urban puzzle soccer napkin surface demand";
+var mnemonic = "daughter hope tube suffer gold dice sign alter scheme tip tourist hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "spy piece always duty fantasy cactus reopen swamp march cake witness else";
+var mnemonic = "crouch gravity old quantum suspect brass paddle anchor pluck pioneer afraid talk";

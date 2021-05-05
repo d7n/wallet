@@ -1,1 +1,1 @@
-var mnemonic = "expose bring object teach trial join expire secret pumpkin super poverty hamster";
+var mnemonic = "oxygen car hole basic burst worth govern yellow found reason elevator sphere";

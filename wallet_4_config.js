@@ -1,1 +1,1 @@
-var mnemonic = "hold bus ginger water boost improve parrot century donate solid erupt attitude";
+var mnemonic = "ankle purse great spell pass rotate canyon east virtual empty trim column";

@@ -1,1 +1,1 @@
-var mnemonic = "slot provide depart stadium wrestle peace slam cup era bomb purity solar";
+var mnemonic = "salad bundle devote sound item flush concert regret buyer ethics device swift";

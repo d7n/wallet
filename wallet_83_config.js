@@ -1,1 +1,1 @@
-var mnemonic = "delay lens curious weather useful honey name shadow day click people critic";
+var mnemonic = "silly welcome give theme exotic person quantum useful over crawl body adult";

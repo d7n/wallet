@@ -1,1 +1,1 @@
-var mnemonic = "airport arrive boost quit blood unhappy inhale train error giraffe gossip local";
+var mnemonic = "endless three allow tail royal palm smart pelican witness attract valid flash";

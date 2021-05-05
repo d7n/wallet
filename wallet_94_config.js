@@ -1,1 +1,1 @@
-var mnemonic = "gadget supreme income behave guide discover pass oil fine melody minimum worth";
+var mnemonic = "enough funny deposit emerge april foster baby snake cover own suffer choose";

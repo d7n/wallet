@@ -1,1 +1,1 @@
-var mnemonic = "vault retire easily fame ethics obscure person dirt water congress recall exhibit";
+var mnemonic = "early senior park tank zone bitter have awesome october edit joke syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise trap boat rural demise upper woman long trouble machine awake mad";
+var mnemonic = "sort wrist provide grid cage smart alien siren solve ask current detail";

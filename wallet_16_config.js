@@ -1,1 +1,1 @@
-var mnemonic = "wrap eye point notice elder vibrant abuse mom nice capable material knee";
+var mnemonic = "poem swift exchange champion safe sport tide hurt miss quote orbit essay";

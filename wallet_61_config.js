@@ -1,1 +1,1 @@
-var mnemonic = "layer spend negative assist night impulse six can together diary convince wrap";
+var mnemonic = "drink tongue foil leopard include leisure sleep satoshi chat glare inject absorb";

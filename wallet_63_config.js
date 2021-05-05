@@ -1,1 +1,1 @@
-var mnemonic = "mad remain cement picnic hire debate cement diamond decorate seat later abuse";
+var mnemonic = "alone choose behind seed extend evil spread improve glad crunch employ burst";

@@ -1,1 +1,1 @@
-var mnemonic = "sport layer cloth record junk swallow flight bachelor ranch glance purpose filter";
+var mnemonic = "two pumpkin seed nature volcano speed media call lava hazard address gasp";

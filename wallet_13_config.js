@@ -1,1 +1,1 @@
-var mnemonic = "pulse cluster distance reflect chat bulk long danger flower february merge awesome";
+var mnemonic = "puppy cigar scrap thrive appear lizard approve dignity maze erase aspect exist";

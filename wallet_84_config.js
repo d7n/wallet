@@ -1,1 +1,1 @@
-var mnemonic = "lonely palm better cinnamon file question find since boost color ride stem";
+var mnemonic = "luxury evidence million brisk wash rocket gaze rhythm social trophy swarm firm";

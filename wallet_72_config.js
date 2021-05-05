@@ -1,1 +1,1 @@
-var mnemonic = "open snap lift mail chat senior hungry ten critic this fade task";
+var mnemonic = "tube head square turkey sausage dutch twelve veteran proud pumpkin boost sight";

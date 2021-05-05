@@ -1,1 +1,1 @@
-var mnemonic = "fresh electric hint grab sudden mule wine all joke omit reunion field";
+var mnemonic = "clever rather lesson sustain high math digital treat sad weasel already tiny";

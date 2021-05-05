@@ -1,1 +1,1 @@
-var mnemonic = "omit picture happy you margin unlock marine below endorse vibrant toy damp";
+var mnemonic = "wrist tube alter empower witness shrimp almost evolve indicate level heavy float";

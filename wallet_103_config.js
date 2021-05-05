@@ -1,1 +1,1 @@
-var mnemonic = "arrow spatial jelly immune sleep rocket gold bench family burger struggle slice";
+var mnemonic = "void spell fine bicycle burden tuna approve lens section want replace slogan";

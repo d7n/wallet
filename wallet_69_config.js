@@ -1,1 +1,1 @@
-var mnemonic = "horn stable afford pear spoon donate sugar hub year orange enough coffee";
+var mnemonic = "video lake swallow yard stamp cotton card length nephew cigar term deny";

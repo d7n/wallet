@@ -1,1 +1,1 @@
-var mnemonic = "announce indicate domain excuse zebra puppy dress vocal parade put token episode";
+var mnemonic = "check trophy scrub usage trial nut rigid panda crew behind orchard situate";

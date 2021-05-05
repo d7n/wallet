@@ -1,1 +1,1 @@
-var mnemonic = "couch ice water flag vote cost keen worry plastic another wave section";
+var mnemonic = "say pupil shoe skirt key decrease key unfold alone sketch awful knife";

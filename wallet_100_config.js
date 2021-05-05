@@ -1,1 +1,1 @@
-var mnemonic = "inherit metal session rabbit vendor crystal earn slice plug page refuse midnight";
+var mnemonic = "blur puppy slight critic inhale survey peanut enemy fan melody weekend fork";

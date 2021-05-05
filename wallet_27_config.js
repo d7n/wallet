@@ -1,1 +1,1 @@
-var mnemonic = "chicken rent crazy awkward pair cereal road fat tired mouse use surround";
+var mnemonic = "flock busy visa october seed arm travel hello language attitude add powder";

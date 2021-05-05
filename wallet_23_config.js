@@ -1,1 +1,1 @@
-var mnemonic = "acid stand silk control surprise pistol chicken develop derive surge blush eyebrow";
+var mnemonic = "dragon another feel useless provide guard hire place breeze elder flame sample";

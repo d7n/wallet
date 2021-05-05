@@ -1,1 +1,1 @@
-var mnemonic = "market anchor echo affair gauge shoe day draw naive double together remove";
+var mnemonic = "awkward hour wrap machine bomb motion under lyrics derive gas million powder";

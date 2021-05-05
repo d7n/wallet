@@ -1,1 +1,1 @@
-var mnemonic = "lumber play crawl chase region nice dizzy clump display document lecture title";
+var mnemonic = "carbon world gauge denial mechanic rhythm draw truly tired fluid fatigue demand";

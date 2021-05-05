@@ -1,1 +1,1 @@
-var mnemonic = "quality list exile happy level taxi hurt combine craft huge brother option";
+var mnemonic = "inquiry link puppy clinic episode claw dune quick swim turkey spoon wisdom";

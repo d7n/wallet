@@ -1,1 +1,1 @@
-var mnemonic = "sphere where fruit rotate use fuel supreme wreck lesson midnight squirrel deal";
+var mnemonic = "else access police transfer require grace method nephew gadget fury maid regret";

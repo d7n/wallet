@@ -1,1 +1,1 @@
-var mnemonic = "brick need invite fatal foil hurt group knife stem brush mask twenty";
+var mnemonic = "resource village system absent north output square empty property manual milk crisp";

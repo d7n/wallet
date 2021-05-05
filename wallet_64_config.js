@@ -1,1 +1,1 @@
-var mnemonic = "boy choose attitude entry sheriff object family today chimney suspect toy trophy";
+var mnemonic = "fat stove organ piano author option refuse melt other glow camera around";

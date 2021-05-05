@@ -1,1 +1,1 @@
-var mnemonic = "midnight arrow kick focus hundred shrug bleak practice critic large suspect knife";
+var mnemonic = "guide december unlock decrease venue baby teach machine strategy luggage stable mixed";

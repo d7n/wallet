@@ -1,1 +1,1 @@
-var mnemonic = "crowd endorse depart own submit derive memory radar gate scout into gold";
+var mnemonic = "pretty laugh antique cover general outdoor sick educate learn silent wreck crucial";

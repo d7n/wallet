@@ -1,1 +1,1 @@
-var mnemonic = "wise rose harbor sugar tray same knife toddler agent include suit orphan";
+var mnemonic = "quantum all betray clip crack dish foam never conduct odor give rhythm";

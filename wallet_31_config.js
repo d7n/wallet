@@ -1,1 +1,1 @@
-var mnemonic = "foot charge diary hello auction awake apology cereal company genuine tumble roast";
+var mnemonic = "banana virus worth hold donate maple diesel maple fruit spirit safe project";

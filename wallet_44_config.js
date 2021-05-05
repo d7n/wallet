@@ -1,1 +1,1 @@
-var mnemonic = "hybrid canvas stand fringe wish usual come world proof disease night razor";
+var mnemonic = "click swamp legend drastic mind abstract live find chapter meat tackle include";

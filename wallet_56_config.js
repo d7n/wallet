@@ -1,1 +1,1 @@
-var mnemonic = "frame lemon penalty actress buddy they shrug garage science mad boy text";
+var mnemonic = "world tip zone buffalo rent caution idle involve embrace spoil novel firm";

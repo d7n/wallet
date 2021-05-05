@@ -1,1 +1,1 @@
-var mnemonic = "ten ski cute matrix forget chat diet retire midnight coach bachelor service";
+var mnemonic = "narrow situate quote icon label motion dinner fiscal behind loop crater motion";

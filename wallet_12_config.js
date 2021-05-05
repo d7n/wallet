@@ -1,1 +1,1 @@
-var mnemonic = "world resist move negative crater valve syrup soup skin hole stairs brush";
+var mnemonic = "found onion evil confirm senior critic inflict toward fun lucky matrix drama";

@@ -1,1 +1,1 @@
-var mnemonic = "marble crumble forward shed resource actual soap language kiss trumpet acid fence";
+var mnemonic = "quick genre omit right enemy size kitten just tornado reduce harsh unhappy";

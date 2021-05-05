@@ -1,1 +1,1 @@
-var mnemonic = "olympic elite shed plug invest beyond engage garden slim siege cube census";
+var mnemonic = "circle kidney badge advice exist fury solid boss jewel arrange regret report";

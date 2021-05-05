@@ -1,1 +1,1 @@
-var mnemonic = "repeat erosion lend write school plug team gallery fiber clip please school";
+var mnemonic = "manual obtain acquire pitch liar tragic virtual artwork right dumb share satisfy";

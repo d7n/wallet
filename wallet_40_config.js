@@ -1,1 +1,1 @@
-var mnemonic = "hub corn grape physical inch return cancel bar spoon try join crumble";
+var mnemonic = "because resemble dirt trick relax actor track shadow prepare elephant play license";

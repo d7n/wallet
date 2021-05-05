@@ -1,1 +1,1 @@
-var mnemonic = "file couch copper drastic chalk hub artefact conduct estate ugly language typical";
+var mnemonic = "alert beef dignity arch faint juice pledge cargo belt genre nut fatal";

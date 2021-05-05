@@ -1,1 +1,1 @@
-var mnemonic = "winter budget cheese helmet someone fan decorate mosquito flock key master alone";
+var mnemonic = "west tongue federal radio over flip oil survey turtle fetch evidence blood";

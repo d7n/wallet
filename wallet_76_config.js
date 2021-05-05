@@ -1,1 +1,1 @@
-var mnemonic = "critic fatal sting fault impact purity share subject subway orphan jealous syrup";
+var mnemonic = "whale ensure grief submit shiver legal defy rice baby save cable beef";

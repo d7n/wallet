@@ -1,1 +1,1 @@
-var mnemonic = "actual limit shoe circle spike student gallery bag monitor bean skin square";
+var mnemonic = "winner fruit pupil panther latin cube wheat blast jar peanut isolate debate";

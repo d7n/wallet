@@ -1,1 +1,1 @@
-var mnemonic = "mesh steel hole boil wagon spend magnet custom suggest pudding quantum curious";
+var mnemonic = "inject invest that seat seven crime replace robot slim tent choice fantasy";

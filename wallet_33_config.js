@@ -1,1 +1,1 @@
-var mnemonic = "eagle want claim woman stuff congress climb seat fantasy general flame elder";
+var mnemonic = "rack tenant aisle promote amazing stool brand crime step volume hope embody";

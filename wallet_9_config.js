@@ -1,1 +1,1 @@
-var mnemonic = "border custom critic key genius stand figure want bulk illegal helmet fringe";
+var mnemonic = "glue merge glare comfort steel seminar dentist bench security visit bright flock";

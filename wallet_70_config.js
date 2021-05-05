@@ -1,1 +1,1 @@
-var mnemonic = "trim company hidden party boss flag glad service fashion cook panda purchase";
+var mnemonic = "siren profit gallery flight atom cook marble net monster reject scorpion magnet";

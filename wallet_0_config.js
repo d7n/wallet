@@ -1,1 +1,1 @@
-var mnemonic = "poem slow buzz photo soap shock annual elder front garbage demand appear";
+var mnemonic = "protect ladder ridge chicken cause receive couch engine kiwi must lucky ostrich";

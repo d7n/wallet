@@ -1,1 +1,1 @@
-var mnemonic = "blame gas angle kidney north spice paddle ten tape only middle trouble";
+var mnemonic = "output gadget moment toss beauty amused exit envelope unusual curve fury please";

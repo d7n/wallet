@@ -1,1 +1,1 @@
-var mnemonic = "flip fatigue embody oyster pluck bottom category drop primary label stomach foster";
+var mnemonic = "meadow version cup catalog smart leg link west dose father during industry";

@@ -1,1 +1,1 @@
-var mnemonic = "gap finish innocent feel fuel execute lizard ghost weasel ketchup old swim";
+var mnemonic = "youth obvious spike father prefer indicate pull violin slab pact category scene";

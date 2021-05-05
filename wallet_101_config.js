@@ -1,1 +1,1 @@
-var mnemonic = "fault oyster wheat grunt sweet receive else river ketchup artefact asthma century";
+var mnemonic = "drip apart exotic excuse easy stock ignore crouch puppy letter random drink";

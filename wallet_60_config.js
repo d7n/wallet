@@ -1,1 +1,1 @@
-var mnemonic = "grab jaguar oppose concert job cement avoid across butter spider outside device";
+var mnemonic = "emerge carpet bleak like firm glance salmon fitness run allow another artwork";

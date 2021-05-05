@@ -1,1 +1,1 @@
-var mnemonic = "clip wrestle anchor merge april naive leisure retreat siege ribbon legend nasty";
+var mnemonic = "stereo outside cargo obscure capable glove join spice universe worth piano talent";

@@ -1,1 +1,1 @@
-var mnemonic = "tragic kiwi spoon option illness april voyage snow attitude screen grow core";
+var mnemonic = "ancient toss dog high crazy enrich strong rhythm lake blouse client artwork";

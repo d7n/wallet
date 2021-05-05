@@ -1,1 +1,1 @@
-var mnemonic = "situate fire figure type day half oyster immune rely spring tool space";
+var mnemonic = "resist bright fun milk crisp legend cup usage history drift oyster unveil";

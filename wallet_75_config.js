@@ -1,1 +1,1 @@
-var mnemonic = "cart boring shoulder citizen floor soccer caught bracket arrive cloud senior miracle";
+var mnemonic = "among guitar humble wild island select motor movie mobile wife luggage slab";

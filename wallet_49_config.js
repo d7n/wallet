@@ -1,1 +1,1 @@
-var mnemonic = "luxury blush gain include tissue survey glory step term attitude leisure figure";
+var mnemonic = "steel gloom refuse attend seminar matrix tag client knock subject giggle model";

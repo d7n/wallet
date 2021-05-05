@@ -1,1 +1,1 @@
-var mnemonic = "solution pair question fossil chaos act arrange chest iron blush voyage eternal";
+var mnemonic = "welcome steel board write profit rule chase indoor helmet again depth exhibit";

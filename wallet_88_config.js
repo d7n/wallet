@@ -1,1 +1,1 @@
-var mnemonic = "ahead turtle stool slush donate celery monkey gloom report prevent surge hockey";
+var mnemonic = "peace claim kingdom pretty wrist squirrel rose scrap video angle super venue";

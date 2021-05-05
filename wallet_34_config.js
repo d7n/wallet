@@ -1,1 +1,1 @@
-var mnemonic = "twin loyal same news seek better color drive dolphin winner debate visa";
+var mnemonic = "head scene famous frost reopen explain price sting embark circle evidence reason";

@@ -1,1 +1,1 @@
-var mnemonic = "reward issue daughter sail mask crazy spawn fashion smart seminar truth potato";
+var mnemonic = "crew tell famous thrive expand luxury gas beach ticket bicycle embark mouse";

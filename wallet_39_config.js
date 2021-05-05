@@ -1,1 +1,1 @@
-var mnemonic = "calm vanish abuse catch bundle jazz track satoshi photo basket tennis extend";
+var mnemonic = "ecology gorilla search valid chat favorite west practice bottom demand insane ensure";

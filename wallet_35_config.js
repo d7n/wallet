@@ -1,1 +1,1 @@
-var mnemonic = "hen change health purpose hobby journey popular rather seed frog unveil brief";
+var mnemonic = "furnace tumble retreat december middle good attack tissue trend hold ride claim";

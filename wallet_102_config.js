@@ -1,1 +1,1 @@
-var mnemonic = "device sad answer net vehicle tomorrow bacon decrease dignity office ski rack";
+var mnemonic = "cat climb swamp planet involve enemy popular chair birth cake away buddy";

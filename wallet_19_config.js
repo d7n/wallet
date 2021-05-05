@@ -1,1 +1,1 @@
-var mnemonic = "dust twin daring recipe salad execute license know across dream atom salmon";
+var mnemonic = "grain muffin prefer valve govern quarter practice february dismiss aspect spot argue";

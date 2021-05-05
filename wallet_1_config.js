@@ -1,1 +1,1 @@
-var mnemonic = "fortune layer wrestle stumble addict profit ski wash give romance first clever";
+var mnemonic = "mixture cherry protect toilet dolphin beyond bus brisk mention top olive ethics";

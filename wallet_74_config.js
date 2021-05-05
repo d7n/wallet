@@ -1,1 +1,1 @@
-var mnemonic = "two gasp company melt unfair nation radio bullet price few hedgehog peace";
+var mnemonic = "soul run clump point aunt thing note staff pet knife input guess";

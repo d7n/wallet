@@ -1,1 +1,1 @@
-var mnemonic = "medal silent mass add twenty antique scale question absorb floor arrest unique";
+var mnemonic = "mesh couch luxury cluster source churn valve silk solve awesome split simple";

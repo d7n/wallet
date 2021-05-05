@@ -1,1 +1,1 @@
-var mnemonic = "over tackle accident emotion problem mandate abuse very bleak observe dial wisdom";
+var mnemonic = "clock wheat object omit melt nephew found win actress resist reveal parent";

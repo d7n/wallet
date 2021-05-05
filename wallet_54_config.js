@@ -1,1 +1,1 @@
-var mnemonic = "grunt company skate solar rail biology vast buzz wine process fetch vintage";
+var mnemonic = "human end educate victory circle oven punch oven offer coffee dizzy smoke";

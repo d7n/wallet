@@ -1,1 +1,1 @@
-var mnemonic = "salmon miss aunt doctor faint morning aim slice family pupil demise own";
+var mnemonic = "direct urban athlete loud delay toss giant raccoon because kidney ignore renew";

@@ -1,1 +1,1 @@
-var mnemonic = "leader patch nephew solution burst reject relax reveal panther eyebrow second miracle";
+var mnemonic = "scale minute lesson blanket great tube column galaxy smoke reduce pumpkin brush";

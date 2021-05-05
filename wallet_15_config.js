@@ -1,1 +1,1 @@
-var mnemonic = "cage income topple witness slot drift twelve ocean spawn uncle pigeon island";
+var mnemonic = "relax fork flee riot neither viable travel length license element session benefit";

@@ -1,1 +1,1 @@
-var mnemonic = "wing depart tree kitten grief runway lunar mass debate rescue oak pill";
+var mnemonic = "start profit coconut wonder pilot option alien zoo rate immense account keep";

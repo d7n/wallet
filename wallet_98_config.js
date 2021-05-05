@@ -1,1 +1,1 @@
-var mnemonic = "credit jar salt person letter carbon gather evoke conduct just sadness chicken";
+var mnemonic = "private key finger furnace online humor cave cereal educate advance current security";

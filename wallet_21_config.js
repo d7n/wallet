@@ -1,1 +1,1 @@
-var mnemonic = "focus pistol early focus replace long icon equip milk shell during win";
+var mnemonic = "salmon smoke exhaust rescue cargo lazy crime adjust explain indoor leisure predict";

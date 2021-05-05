@@ -1,1 +1,1 @@
-var mnemonic = "eternal december visa pony whip hip palm concert corn case calm aim";
+var mnemonic = "okay crop bottom debris furnace end squeeze game embody tissue quiz rack";
