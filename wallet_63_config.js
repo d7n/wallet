@@ -1,1 +1,1 @@
-var mnemonic = "mechanic dirt famous tennis culture since nation purchase weather rival depth recycle";
+var mnemonic = "arrange cattle plug dawn unlock retire various pilot uncover ankle brown meat";

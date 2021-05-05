@@ -1,1 +1,1 @@
-var mnemonic = "owner sort debate describe brother cushion elbow secret oven exercise diary word";
+var mnemonic = "avoid roof spray jacket portion hub salt goose shed royal thought unique";

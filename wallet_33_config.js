@@ -1,1 +1,1 @@
-var mnemonic = "brave boy winner imitate usage essay hello swift mask either zone tackle";
+var mnemonic = "forward install bottom gas tray ripple pizza outer system earth service before";

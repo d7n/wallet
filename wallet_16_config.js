@@ -1,1 +1,1 @@
-var mnemonic = "coconut garbage original spend banner mechanic walk valve talk daughter easily border";
+var mnemonic = "prefer meat myth festival ocean upon pudding deliver ramp bean trick pigeon";

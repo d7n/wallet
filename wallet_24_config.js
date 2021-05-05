@@ -1,1 +1,1 @@
-var mnemonic = "swear gorilla runway minor such pact enhance citizen desk worth clever damp";
+var mnemonic = "trim later chair style congress skate casino dismiss either laugh tackle glove";

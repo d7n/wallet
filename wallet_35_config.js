@@ -1,1 +1,1 @@
-var mnemonic = "visa announce daughter casual evidence light prize image glide elegant milk cash";
+var mnemonic = "cake energy kidney trend release outdoor mention melody glass smile capable want";

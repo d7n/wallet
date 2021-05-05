@@ -1,1 +1,1 @@
-var mnemonic = "illness middle bacon guide coconut east flower crew unveil bridge fly huge";
+var mnemonic = "brand festival trust better token bunker point surround spoon decorate catch demand";

@@ -1,1 +1,1 @@
-var mnemonic = "valve congress inform spatial heavy hotel friend leg click word carbon theme";
+var mnemonic = "famous merge alley dust move adult universe much more advice fork naive";

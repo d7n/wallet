@@ -1,1 +1,1 @@
-var mnemonic = "merit glide popular moon jewel attitude engine unable vehicle jacket human verb";
+var mnemonic = "rule cake jump useless arrest thank raw oil ozone carbon asthma picnic";

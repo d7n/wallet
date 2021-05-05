@@ -1,1 +1,1 @@
-var mnemonic = "chair predict relief oppose pond nice guess prefer device deputy jar match";
+var mnemonic = "agree helmet arrange below month rotate axis march fun actress type square";

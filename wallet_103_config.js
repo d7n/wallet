@@ -1,1 +1,1 @@
-var mnemonic = "such fabric sibling actress teach spread upset save flat noodle correct fat";
+var mnemonic = "shift imitate tongue muffin strong connect capable anxiety raw ride mechanic melody";

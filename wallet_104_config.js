@@ -1,1 +1,1 @@
-var mnemonic = "camera tenant notable parrot loud hunt answer dash drip layer beef penalty";
+var mnemonic = "brick tone artwork cart primary cute right blood donor lamp patrol much";

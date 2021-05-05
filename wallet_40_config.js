@@ -1,1 +1,1 @@
-var mnemonic = "symbol frequent decade tragic weekend acquire view nature type enroll smooth resemble";
+var mnemonic = "welcome device goat usage pulse wasp tell stumble fortune bulb vapor appear";

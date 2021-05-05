@@ -1,1 +1,1 @@
-var mnemonic = "shy calm replace found inflict extra receive must host video slight gesture";
+var mnemonic = "make trigger below finger enforce scene siren bachelor rifle meadow train shoulder";

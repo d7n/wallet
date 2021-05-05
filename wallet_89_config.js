@@ -1,1 +1,1 @@
-var mnemonic = "erode term develop begin reject color eternal material vocal middle woman tongue";
+var mnemonic = "crime stand huge anchor jar wonder door learn antique broom sick scissors";

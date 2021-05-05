@@ -1,1 +1,1 @@
-var mnemonic = "coil task gallery glove govern faith spike toe agent bubble slender pledge";
+var mnemonic = "best law crucial congress exile oblige virtual recycle lawn hour force train";

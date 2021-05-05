@@ -1,1 +1,1 @@
-var mnemonic = "tank rely moon dismiss subway fury develop immense bamboo more warm village";
+var mnemonic = "woman door crater head front tumble extra until gym height room love";

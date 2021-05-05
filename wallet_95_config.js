@@ -1,1 +1,1 @@
-var mnemonic = "beef slogan bind fiction sock oven lunch marine emotion monitor reunion buffalo";
+var mnemonic = "october silver space filter upgrade trophy agent enemy umbrella lava shaft fish";

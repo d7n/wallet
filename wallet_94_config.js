@@ -1,1 +1,1 @@
-var mnemonic = "trigger glove electric common soldier state solid caught cram van mention cycle";
+var mnemonic = "replace toward useless mango cry flock rack palace dumb harsh hero avoid";

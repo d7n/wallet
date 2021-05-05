@@ -1,1 +1,1 @@
-var mnemonic = "spider goat doctor mansion ivory guilt bicycle sand slush mix topic black";
+var mnemonic = "property dad often video journey purpose ceiling glow parent rain general camera";

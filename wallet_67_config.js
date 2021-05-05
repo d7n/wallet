@@ -1,1 +1,1 @@
-var mnemonic = "same second squirrel patient exchange valley useless what either obscure pause often";
+var mnemonic = "width divorce clever reopen artist success describe crazy spell soft cheese oak";

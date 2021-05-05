@@ -1,1 +1,1 @@
-var mnemonic = "village position myself melt wall loyal spend equal token empower possible turkey";
+var mnemonic = "child brisk visa honey blush lawsuit kangaroo popular allow credit river inside";

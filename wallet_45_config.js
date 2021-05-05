@@ -1,1 +1,1 @@
-var mnemonic = "fiber climb offer issue close cross toe pass person federal idea aisle";
+var mnemonic = "grant cube suit bicycle razor option fan usage edit digital vacant ride";

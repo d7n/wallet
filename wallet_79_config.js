@@ -1,1 +1,1 @@
-var mnemonic = "library girl spoil invest door water bone caution play vehicle innocent educate";
+var mnemonic = "lift clever pigeon wrist tobacco claim screen stable wide jealous deputy put";

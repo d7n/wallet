@@ -1,1 +1,1 @@
-var mnemonic = "any sign stuff begin story spend choice ahead stand pencil river april";
+var mnemonic = "october brass solution puzzle laugh river post want merit edit blush tattoo";

@@ -1,1 +1,1 @@
-var mnemonic = "limb govern spatial admit boy nasty spend trap move oyster spare script";
+var mnemonic = "market fame midnight cigar other there penalty target now salad oven slab";

@@ -1,1 +1,1 @@
-var mnemonic = "staff husband nature muscle alien moral skill erase february boat drill taxi";
+var mnemonic = "ill antique degree torch sibling shell faint silver quarter knee alter reduce";

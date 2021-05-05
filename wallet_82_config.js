@@ -1,1 +1,1 @@
-var mnemonic = "peanut wolf mail remind essay captain match caught wood stool portion actress";
+var mnemonic = "capable guitar remain boy coffee add kiss electric deliver orphan romance draft";

@@ -1,1 +1,1 @@
-var mnemonic = "stereo clutch suspect palm beef fury youth domain collect dream reduce portion";
+var mnemonic = "true next title lift demise destroy fatigue catalog coin assist weapon indoor";

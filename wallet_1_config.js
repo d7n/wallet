@@ -1,1 +1,1 @@
-var mnemonic = "unhappy valley arctic divide differ category hard sniff shine merry tag toward";
+var mnemonic = "museum immune fossil easily short spoon diamond hurry best bonus speed crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "staff across license peanut truth head smoke plug grant joke guilt art";
+var mnemonic = "lunch field woman enrich rapid illegal reveal arrange staff silver patrol future";

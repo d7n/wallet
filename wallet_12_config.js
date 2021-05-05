@@ -1,1 +1,1 @@
-var mnemonic = "sponsor comic pond clap glance body sunny vital pattern front oblige episode";
+var mnemonic = "juice meat smoke vendor reveal vital manual satisfy embrace trust detect impose";

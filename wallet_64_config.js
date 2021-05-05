@@ -1,1 +1,1 @@
-var mnemonic = "stamp mutual torch master midnight glory profit wrong slab guess off embrace";
+var mnemonic = "river scissors tide trash describe staff ski toy spike concert strike strong";

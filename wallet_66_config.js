@@ -1,1 +1,1 @@
-var mnemonic = "solve average pig snap advice toss fun noble same peasant canoe unknown";
+var mnemonic = "huge save alley tattoo mango suspect ice lumber middle hockey bacon mail";

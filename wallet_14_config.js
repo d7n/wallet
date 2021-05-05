@@ -1,1 +1,1 @@
-var mnemonic = "screen attract neither tragic exile genre strike waste ill text ring settle";
+var mnemonic = "security actress outside can roast hammer broccoli clock else fit armor ketchup";

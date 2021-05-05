@@ -1,1 +1,1 @@
-var mnemonic = "same satoshi artwork vault intact cause slice soap seminar rug notable come";
+var mnemonic = "monster cable blind core swift afraid degree invite index ahead sudden flavor";

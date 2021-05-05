@@ -1,1 +1,1 @@
-var mnemonic = "cabin keen hope process old child govern soccer egg someone pilot spot";
+var mnemonic = "bunker radio cluster hello tongue cash sudden feel anxiety teach chronic illness";

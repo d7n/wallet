@@ -1,1 +1,1 @@
-var mnemonic = "season vivid impose harvest paddle resist push segment hip vote planet metal";
+var mnemonic = "before stereo leave goat limb course supply draw account kite primary rotate";

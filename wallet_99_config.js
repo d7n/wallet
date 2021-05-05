@@ -1,1 +1,1 @@
-var mnemonic = "elephant home globe faith hair chase banana expire rail dismiss fan vault";
+var mnemonic = "know oppose worry crime tobacco exist chase half water fly deer east";

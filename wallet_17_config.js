@@ -1,1 +1,1 @@
-var mnemonic = "more vault couple tent plastic come arrow banana patient correct solar oxygen";
+var mnemonic = "parent pink jealous rotate rent potato example benefit mountain stand mistake lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon cousin extra hidden issue hurdle chat patient problem loud bird vote";
+var mnemonic = "nose walnut embrace vote drive exile silk convince faint rescue explain rebel";

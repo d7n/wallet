@@ -1,1 +1,1 @@
-var mnemonic = "prison autumn great intact record train connect want iron where topic sock";
+var mnemonic = "blush bleak roast increase unaware enough total dwarf alter learn split boss";

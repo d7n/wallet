@@ -1,1 +1,1 @@
-var mnemonic = "funny pact during choice wool speed elbow tomorrow north wait ride forest";
+var mnemonic = "monkey soup never topic bleak burger tomorrow notice defense project minute guide";

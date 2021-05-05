@@ -1,1 +1,1 @@
-var mnemonic = "photo disagree fiction inmate power another veteran dumb oblige tragic miracle banana";
+var mnemonic = "prepare math book lawn puzzle ankle barrel naive royal fragile enact ridge";

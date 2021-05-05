@@ -1,1 +1,1 @@
-var mnemonic = "right bomb check velvet when fish glimpse vacant atom canyon skill album";
+var mnemonic = "column victory acquire laugh doll cute elite sausage intact mass thought hood";

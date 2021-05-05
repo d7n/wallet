@@ -1,1 +1,1 @@
-var mnemonic = "decrease random cigar disagree panel buffalo faith siege grace wet wet ski";
+var mnemonic = "soap blush anger furnace transfer solid gadget train tourist frequent canoe dose";

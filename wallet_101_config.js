@@ -1,1 +1,1 @@
-var mnemonic = "tunnel enjoy black misery absurd people consider keep attitude sniff ability unit";
+var mnemonic = "young current barrel govern explain forest chase ensure simple flock clever fragile";

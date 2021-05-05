@@ -1,1 +1,1 @@
-var mnemonic = "slender churn family desert ensure mesh gauge lucky decade identify where gossip";
+var mnemonic = "giggle garbage genuine any maid actress begin silk dance upper disagree nominee";

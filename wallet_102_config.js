@@ -1,1 +1,1 @@
-var mnemonic = "method audit endless color sea defense pretty identify pond rate wheel ready";
+var mnemonic = "glue magic myself claw goose possible mirror virus joy require divert abstract";

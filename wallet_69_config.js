@@ -1,1 +1,1 @@
-var mnemonic = "conduct much concert wide victory trouble type myth any dinosaur hello clown";
+var mnemonic = "attend nurse drum element save chief person acoustic holiday dragon kiwi champion";

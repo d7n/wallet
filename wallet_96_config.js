@@ -1,1 +1,1 @@
-var mnemonic = "print quarter swear effort network october eager pyramid item heart borrow bag";
+var mnemonic = "seek rice document main service inherit lobster peasant rotate resemble upon nature";

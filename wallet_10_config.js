@@ -1,1 +1,1 @@
-var mnemonic = "toddler blur job indicate life month found install uncover horn lion soccer";
+var mnemonic = "bronze fragile clarify develop junk wood glad water magic margin fault service";

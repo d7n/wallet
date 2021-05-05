@@ -1,1 +1,1 @@
-var mnemonic = "gold infant twice year govern forest either design law run cigar recycle";
+var mnemonic = "increase talent client gold pilot era gun silent income hobby obey call";

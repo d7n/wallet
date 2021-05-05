@@ -1,1 +1,1 @@
-var mnemonic = "slush love enforce hurt outdoor leisure measure this sail cinnamon notice original";
+var mnemonic = "receive giggle protect snap survey bleak thunder photo food chronic virtual pen";

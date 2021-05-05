@@ -1,1 +1,1 @@
-var mnemonic = "cabbage hill gallery wrong code always plate record off grab fire habit";
+var mnemonic = "goddess shy veteran provide lottery praise bike stomach shuffle before wrong cactus";

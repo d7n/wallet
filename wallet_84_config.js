@@ -1,1 +1,1 @@
-var mnemonic = "emerge calm cargo diagram deer breeze outer token meadow token settle blast";
+var mnemonic = "castle endorse myth gloom wrap harvest bone summer file noise sustain depend";

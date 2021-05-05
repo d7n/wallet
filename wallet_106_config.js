@@ -1,1 +1,1 @@
-var mnemonic = "bronze cattle error addict tourist bulb nominee eagle narrow accuse expect sock";
+var mnemonic = "nerve pig draw game brisk shock hire breeze idea next inmate alone";

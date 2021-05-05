@@ -1,1 +1,1 @@
-var mnemonic = "creek write miracle around beach venue promote window access primary way artist";
+var mnemonic = "recycle pigeon tool neck point gauge random refuse network budget merry reduce";

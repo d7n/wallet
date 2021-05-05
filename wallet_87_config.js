@@ -1,1 +1,1 @@
-var mnemonic = "farm crucial price hawk cram bracket glide pizza risk normal inside ethics";
+var mnemonic = "bird injury brass stadium luxury library box slice surround absent almost happy";

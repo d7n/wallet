@@ -1,1 +1,1 @@
-var mnemonic = "hard fresh light asset employ float reopen post pipe warfare tide crumble";
+var mnemonic = "file pattern town win find ugly obtain only amazing suggest include wedding";

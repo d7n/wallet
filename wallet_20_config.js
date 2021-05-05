@@ -1,1 +1,1 @@
-var mnemonic = "powder aware carbon melt maximum cushion roof lonely either mushroom foot park";
+var mnemonic = "joy park fantasy vast wide confirm potato narrow engine spirit stay leisure";

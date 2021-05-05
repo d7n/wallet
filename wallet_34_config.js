@@ -1,1 +1,1 @@
-var mnemonic = "ship vicious pair immense chunk ostrich ostrich name wrestle feel dinner security";
+var mnemonic = "screen reflect rate once trophy pole utility anger settle hint payment crunch";

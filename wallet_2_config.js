@@ -1,1 +1,1 @@
-var mnemonic = "govern exist artist miracle fan uncover song security adult grain minor length";
+var mnemonic = "minute manual uncover slender engine elder subway nasty bird book rare toddler";

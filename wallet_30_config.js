@@ -1,1 +1,1 @@
-var mnemonic = "trap armed element virtual hurdle picnic apple enforce mosquito worth lyrics often";
+var mnemonic = "cream spread logic blossom draw cereal oven place science cruel lucky ramp";

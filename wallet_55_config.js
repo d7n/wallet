@@ -1,1 +1,1 @@
-var mnemonic = "bike still letter code soon disagree short amazing actress box device domain";
+var mnemonic = "zone fuel sport cotton popular two document dirt mango wash satisfy sphere";

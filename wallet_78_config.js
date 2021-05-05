@@ -1,1 +1,1 @@
-var mnemonic = "clinic leave drama open upper check clump air reduce tell faculty witness";
+var mnemonic = "lava wreck goat cat spread pistol seat room fade rich dignity exhibit";

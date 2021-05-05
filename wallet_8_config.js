@@ -1,1 +1,1 @@
-var mnemonic = "moon little jaguar trade clap ordinary atom wheel dice rifle upgrade mango";
+var mnemonic = "carpet glove sight rally pair unable raw trust ankle decorate author omit";

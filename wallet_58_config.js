@@ -1,1 +1,1 @@
-var mnemonic = "venue bounce stuff affair height youth maze roof amount evoke beach armor";
+var mnemonic = "armor timber gold sustain giggle debate copy damp improve deputy come click";

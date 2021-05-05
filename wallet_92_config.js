@@ -1,1 +1,1 @@
-var mnemonic = "model cake fruit evoke fly board mother visa depend liberty nerve dry";
+var mnemonic = "choose season prevent frozen profit bright random ten rescue rifle pole trumpet";

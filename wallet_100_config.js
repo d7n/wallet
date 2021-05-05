@@ -1,1 +1,1 @@
-var mnemonic = "army sheriff fade husband buddy electric taste runway uniform glove grass wish";
+var mnemonic = "miracle arm keen into wonder lottery mesh eyebrow father fat tragic deny";

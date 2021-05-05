@@ -1,1 +1,1 @@
-var mnemonic = "explain yellow two bachelor scene absorb common spin tiny own tribe vast";
+var mnemonic = "response peace have start rabbit young foil toilet swamp spend excess cage";

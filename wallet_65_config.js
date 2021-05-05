@@ -1,1 +1,1 @@
-var mnemonic = "deal toast science humble begin vapor profit cube powder upset adjust speak";
+var mnemonic = "stand chest dad possible device upon mix flash devote reunion timber toy";

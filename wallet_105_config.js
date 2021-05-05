@@ -1,1 +1,1 @@
-var mnemonic = "retreat carpet media asset random parade option valid vivid obey drift else";
+var mnemonic = "gap inmate voyage dumb dad place air nose hospital behave attitude wreck";

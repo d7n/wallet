@@ -1,1 +1,1 @@
-var mnemonic = "believe rocket peace awesome pony saddle version immense decorate still actress bottom";
+var mnemonic = "chief staff race quick detect seminar burst rather success flush turkey inherit";

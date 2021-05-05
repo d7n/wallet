@@ -1,1 +1,1 @@
-var mnemonic = "music cushion filter left item defy milk junk spray since harsh stadium";
+var mnemonic = "organ nice pupil need best wheat boy sick skill later exact almost";

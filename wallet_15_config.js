@@ -1,1 +1,1 @@
-var mnemonic = "sorry good thing credit fall fence captain tag brain country forest such";
+var mnemonic = "pilot latin say midnight confirm trophy couch produce phone essay segment hole";

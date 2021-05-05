@@ -1,1 +1,1 @@
-var mnemonic = "rice trend earth draft require transfer bounce change wolf double snap come";
+var mnemonic = "damp muffin energy mountain gloom fossil deny erode suffer solution injury receive";

@@ -1,1 +1,1 @@
-var mnemonic = "few check goose symptom amazing amazing staff price mango pizza adult donor";
+var mnemonic = "bronze fit phone sword avoid forest appear sunset pluck flip over two";

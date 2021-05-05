@@ -1,1 +1,1 @@
-var mnemonic = "cabbage depart fault bomb sign grunt alert pulp alarm crunch fox again";
+var mnemonic = "hobby sample raise desk absurd between machine goose isolate amount dress bulk";

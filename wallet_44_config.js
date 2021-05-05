@@ -1,1 +1,1 @@
-var mnemonic = "course decorate village record fall uniform slight empty mushroom toast text total";
+var mnemonic = "mule sport away decrease tongue valley credit seminar blame cheese wrestle badge";

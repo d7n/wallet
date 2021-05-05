@@ -1,1 +1,1 @@
-var mnemonic = "hope sport history yard blanket gap render panic crush suggest now come";
+var mnemonic = "order aisle behave foam burger hope biology tiny unit april quiz song";

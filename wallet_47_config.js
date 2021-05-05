@@ -1,1 +1,1 @@
-var mnemonic = "silver earth ancient spatial help fresh large mule keep advance tiger buddy";
+var mnemonic = "onion pyramid sock stock you culture enlist ensure steak arrow cancel quote";

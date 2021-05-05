@@ -1,1 +1,1 @@
-var mnemonic = "fluid check best sand secret rigid hurt maid fish divorce exchange busy";
+var mnemonic = "mammal teach tortoise bomb narrow vanish depend hood script polar rain deliver";

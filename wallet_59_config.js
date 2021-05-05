@@ -1,1 +1,1 @@
-var mnemonic = "sunny lunch shadow scene acid entry protect hurt nut charge pink pond";
+var mnemonic = "toy quit ship birth spell length panda innocent civil marble zoo weird";

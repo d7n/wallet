@@ -1,1 +1,1 @@
-var mnemonic = "desk behave area enhance attend across bread food imitate jungle check uphold";
+var mnemonic = "cute sure surprise firm body fly today bracket result brief budget regular";

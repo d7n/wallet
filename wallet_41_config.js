@@ -1,1 +1,1 @@
-var mnemonic = "benefit box jacket correct potato draw shrimp ivory defy recall various poet";
+var mnemonic = "script interest impose desert gift orient excuse desk fly clarify peace draft";

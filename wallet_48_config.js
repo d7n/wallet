@@ -1,1 +1,1 @@
-var mnemonic = "surge net you gorilla theme hello conduct sugar stamp measure defy void";
+var mnemonic = "walk only account move that memory minimum hat network fantasy spin piano";

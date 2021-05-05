@@ -1,1 +1,1 @@
-var mnemonic = "insane produce frost vessel joy party duck security choice defy toilet fabric";
+var mnemonic = "original travel equip certain summer draft uphold taste snow beef base crisp";

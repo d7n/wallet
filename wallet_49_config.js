@@ -1,1 +1,1 @@
-var mnemonic = "tonight vicious crystal flee ripple wrestle steak cabbage cabbage mosquito upgrade bottom";
+var mnemonic = "text student track drastic burst minute hammer lamp afraid adult repeat category";

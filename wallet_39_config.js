@@ -1,1 +1,1 @@
-var mnemonic = "scissors over build fall cruel kangaroo pioneer regular hollow dream marine tooth";
+var mnemonic = "keep neck hawk volume spy abuse enter kite output habit sand display";

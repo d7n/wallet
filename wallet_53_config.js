@@ -1,1 +1,1 @@
-var mnemonic = "clump brick front tilt photo clog clock cannon benefit live twin fancy";
+var mnemonic = "shove essay tomorrow current labor position galaxy swim prepare thank fix roof";

@@ -1,1 +1,1 @@
-var mnemonic = "card usage brand hamster gospel mountain timber tilt guide route fiscal sentence";
+var mnemonic = "course final dice physical soup pool city topic verb perfect slight ritual";
