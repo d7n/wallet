@@ -1,1 +1,1 @@
-var mnemonic = "wink author earn claim silent lonely quick armor eagle horror physical night";
+var mnemonic = "grief basket frost rather educate six flee fork monitor absent awesome move";

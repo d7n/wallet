@@ -1,1 +1,1 @@
-var mnemonic = "more youth caught prepare shaft burden dress bright voyage ski matrix axis";
+var mnemonic = "buzz demand creek baby roof food rookie around town patient box phone";

@@ -1,1 +1,1 @@
-var mnemonic = "inch glare spoon bicycle ill vacuum lawn smooth measure bulb tray gap";
+var mnemonic = "bench small shift consider merry drift bicycle wisdom festival main into slender";

@@ -1,1 +1,1 @@
-var mnemonic = "barely blur shiver correct defy title wealth busy dolphin weird repeat stage";
+var mnemonic = "impact fiction notice quiz sing case card acquire spread confirm matter wear";

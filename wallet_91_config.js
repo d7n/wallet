@@ -1,1 +1,1 @@
-var mnemonic = "organ student gain health betray fine maze antique neutral plug story machine";
+var mnemonic = "absurd screen bus aunt switch treat diary couple amazing brand sudden prison";

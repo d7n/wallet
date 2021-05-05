@@ -1,1 +1,1 @@
-var mnemonic = "now legend essence same bridge play chase expand faculty view denial when";
+var mnemonic = "beach come rule ritual kit cloth tiger genuine current teach quantum skill";

@@ -1,1 +1,1 @@
-var mnemonic = "shy swear file corn miracle remind pipe above loyal rough trust quick";
+var mnemonic = "round jelly tray quiz zone mesh gadget novel orchard clown scare loop";

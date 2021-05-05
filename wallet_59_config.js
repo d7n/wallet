@@ -1,1 +1,1 @@
-var mnemonic = "vacant piano exhaust smile muscle broccoli blind heart material industry steak yard";
+var mnemonic = "legend term manage into rival hood assault zero square convince until bleak";

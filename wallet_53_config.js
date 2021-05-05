@@ -1,1 +1,1 @@
-var mnemonic = "enact sauce rebuild lava truck cycle reunion protect alarm immune yard travel";
+var mnemonic = "derive ostrich skull olive quality split course oval spell fever identify enjoy";

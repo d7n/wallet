@@ -1,1 +1,1 @@
-var mnemonic = "faint dune coyote alcohol tube lazy tooth boost glide dutch argue wisdom";
+var mnemonic = "usage surround frozen vehicle obtain cluster matter shine scatter off family angle";

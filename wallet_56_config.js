@@ -1,1 +1,1 @@
-var mnemonic = "boss demand cousin crew more rotate language ability sudden mirror glance goddess";
+var mnemonic = "response skill weird agent candy spin potato season rib purpose guard region";

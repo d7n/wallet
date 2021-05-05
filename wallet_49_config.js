@@ -1,1 +1,1 @@
-var mnemonic = "brisk one profit embody infant game ketchup lab slot hidden fire wisdom";
+var mnemonic = "daring saddle puppy head steak present resemble puppy flame reveal captain core";

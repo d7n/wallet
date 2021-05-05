@@ -1,1 +1,1 @@
-var mnemonic = "mechanic behind space bottom tip magnet top impulse they zebra live pen";
+var mnemonic = "acid blame language stay kidney eagle reopen cover extra because endorse gold";

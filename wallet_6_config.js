@@ -1,1 +1,1 @@
-var mnemonic = "inmate speed forum choice brief medal order payment pretty faint estate plate";
+var mnemonic = "one swallow work cost split gas often suspect afraid quick rescue hub";

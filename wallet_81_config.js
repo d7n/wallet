@@ -1,1 +1,1 @@
-var mnemonic = "time shield edit guilt script bargain crouch hip snap subway weasel act";
+var mnemonic = "pumpkin image coffee trust army boy sibling suspect chair woman mutual prosper";

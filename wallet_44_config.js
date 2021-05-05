@@ -1,1 +1,1 @@
-var mnemonic = "demise behind trap federal position decade rebuild tumble huge outer rookie human";
+var mnemonic = "rookie quiz evolve tuition live verify ten rude safe salon shop hurry";

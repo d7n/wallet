@@ -1,1 +1,1 @@
-var mnemonic = "way glue acquire ecology wrong wash learn quarter spell rent taste crumble";
+var mnemonic = "loyal wheel unusual clay regular cheese disease unlock spell drip provide napkin";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil modify wrist buffalo camera drop fox lucky very bounce spell narrow";
+var mnemonic = "under nose ahead connect vital agent sight cigar pupil kangaroo sketch oil";

@@ -1,1 +1,1 @@
-var mnemonic = "secret ice wall bomb anxiety guard twin keen differ ridge foil elite";
+var mnemonic = "action hamster twelve fashion bring wedding grid prepare yellow rather talent first";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive blame brief awkward fan street prepare chef hope liar obscure cluster";
+var mnemonic = "cook bright nice toddler draw fox drift mad chat problem helmet donor";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest that into member language steel original measure melody rotate anger cluster";
+var mnemonic = "entire trade balance purpose parent stem shoe address ten attend enemy gloom";

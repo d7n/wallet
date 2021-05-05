@@ -1,1 +1,1 @@
-var mnemonic = "avocado anxiety royal blade sorry outside lady upset load deny box offer";
+var mnemonic = "cousin kiss bar rebel walk blame reunion ginger rent large leader sadness";

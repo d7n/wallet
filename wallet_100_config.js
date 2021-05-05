@@ -1,1 +1,1 @@
-var mnemonic = "sniff provide devote toe stamp job spray aisle quarter frame unfair ethics";
+var mnemonic = "evil hungry unfold tiger reunion taxi wait attack farm tone target range";

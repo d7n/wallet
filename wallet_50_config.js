@@ -1,1 +1,1 @@
-var mnemonic = "evoke load arrange orchard plate normal vintage coin wrestle raven ten solution";
+var mnemonic = "assault surprise jealous dice success toe mix purity sustain report swing nose";

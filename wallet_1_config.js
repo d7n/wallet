@@ -1,1 +1,1 @@
-var mnemonic = "blade pet often output click peasant case polar vanish inside grit unknown";
+var mnemonic = "flower ahead vendor rich banana minimum device birth curve element occur behave";

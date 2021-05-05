@@ -1,1 +1,1 @@
-var mnemonic = "conduct now hammer release faint actual bless rally twice endorse welcome zero";
+var mnemonic = "twin kite visa magic swing pull transfer wreck aspect milk hope walk";

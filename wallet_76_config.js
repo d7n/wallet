@@ -1,1 +1,1 @@
-var mnemonic = "vapor turtle magic copy echo pretty possible public steak gesture pioneer fade";
+var mnemonic = "faculty eagle rigid report cruel ski theme ketchup pledge truck flip damage";

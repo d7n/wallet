@@ -1,1 +1,1 @@
-var mnemonic = "elbow ginger original chest mercy battle mango message nature over daughter danger";
+var mnemonic = "oil ghost daring member blouse comic piano collect hen credit report square";

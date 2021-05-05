@@ -1,1 +1,1 @@
-var mnemonic = "grow van zebra hammer urge pretty ring brown video tonight note neck";
+var mnemonic = "name primary protect wet jaguar box senior can dune right struggle derive";

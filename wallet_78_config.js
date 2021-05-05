@@ -1,1 +1,1 @@
-var mnemonic = "girl upgrade brush tornado juice front holiday cake chicken record age tag";
+var mnemonic = "photo identify when best what issue project another iron brother mail apology";

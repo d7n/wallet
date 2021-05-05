@@ -1,1 +1,1 @@
-var mnemonic = "enforce crazy gesture tomato usage shine summer push annual robust keen cave";
+var mnemonic = "humor exile month frame innocent shiver nerve crouch when board galaxy bridge";

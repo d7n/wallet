@@ -1,1 +1,1 @@
-var mnemonic = "attract gas drastic chest blur garment child remain arrow saddle sugar same";
+var mnemonic = "scout rely ship era say royal senior exotic lunch same scale lock";

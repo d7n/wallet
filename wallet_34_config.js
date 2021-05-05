@@ -1,1 +1,1 @@
-var mnemonic = "portion news check enlist ordinary stool equal illegal retreat settle stove now";
+var mnemonic = "clock card assume there group resource tenant arrest fish size service old";

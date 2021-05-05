@@ -1,1 +1,1 @@
-var mnemonic = "idle series submit planet mimic trust have original engine magic mention fabric";
+var mnemonic = "quit tank frozen move tourist stand violin hybrid inmate firm equip trap";

@@ -1,1 +1,1 @@
-var mnemonic = "play rude episode net stuff paper general ice leopard warm success couch";
+var mnemonic = "melt often slab crop voice spirit shift online position scout beef diamond";

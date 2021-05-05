@@ -1,1 +1,1 @@
-var mnemonic = "jaguar tell success arctic ball rose razor earth good crouch wave wreck";
+var mnemonic = "injury weasel repair beauty lake curious text occur make noise endorse innocent";

@@ -1,1 +1,1 @@
-var mnemonic = "interest render milk card misery taxi position solve enact solution breeze ring";
+var mnemonic = "repeat neck term cement mammal addict stadium small alcohol scissors crowd decline";

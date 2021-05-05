@@ -1,1 +1,1 @@
-var mnemonic = "voyage unable fade nation spike correct ball extend index monitor comfort outside";
+var mnemonic = "that immune embrace soup wreck twenty hill black push agent wide misery";

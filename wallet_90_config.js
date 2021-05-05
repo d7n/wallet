@@ -1,1 +1,1 @@
-var mnemonic = "hair document judge run ridge media shiver tomato burst equal goose avocado";
+var mnemonic = "behind layer force cloud sibling tree thumb tank never throw arch shy";

@@ -1,1 +1,1 @@
-var mnemonic = "among human foam custom element nature infant talent alcohol angle magnet clip";
+var mnemonic = "gift below define worry frown dismiss alone pen soul museum flush turn";

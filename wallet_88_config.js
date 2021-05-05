@@ -1,1 +1,1 @@
-var mnemonic = "subway until answer motion market invite put pioneer project city pet finger";
+var mnemonic = "goddess beef creek miracle hole science brain birth educate purchase order dove";

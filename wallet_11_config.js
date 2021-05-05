@@ -1,1 +1,1 @@
-var mnemonic = "orchard breeze because memory company plug citizen manage couple arrest guitar practice";
+var mnemonic = "cake domain club also ticket end street great youth ginger pair popular";

@@ -1,1 +1,1 @@
-var mnemonic = "junior ocean grace paddle pretty sunset sign clog inside swap hard one";
+var mnemonic = "flash sell copy liar mushroom symptom other tobacco manual intact fun liberty";

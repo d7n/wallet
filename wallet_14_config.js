@@ -1,1 +1,1 @@
-var mnemonic = "biology figure peanut phone heart oil type debate attitude meat grief tag";
+var mnemonic = "mammal economy gauge taxi blur focus february plug steel van theory frequent";

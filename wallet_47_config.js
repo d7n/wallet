@@ -1,1 +1,1 @@
-var mnemonic = "craft glance start hurry else vibrant increase three lottery away catch impose";
+var mnemonic = "purity empower rule adult asset moon eagle valid until affair evil echo";

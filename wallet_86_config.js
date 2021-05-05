@@ -1,1 +1,1 @@
-var mnemonic = "permit train warrior quote eager delay foot mutual swing glow blush thank";
+var mnemonic = "rescue bulb verify endless nest claim gate lonely hunt engine fiscal tennis";

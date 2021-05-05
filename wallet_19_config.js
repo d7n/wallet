@@ -1,1 +1,1 @@
-var mnemonic = "peasant obey lucky start minimum pistol idea debris educate web frame copper";
+var mnemonic = "danger box child success conduct jacket famous wink goose rib flight grab";

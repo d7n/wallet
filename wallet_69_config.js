@@ -1,1 +1,1 @@
-var mnemonic = "wood brown flower amused cinnamon pepper forget thing able fashion photo oyster";
+var mnemonic = "horn virus fashion soldier that turn angle forget apart receive order gadget";

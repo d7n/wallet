@@ -1,1 +1,1 @@
-var mnemonic = "sun source timber gossip desk appear add borrow identify bus radar damp";
+var mnemonic = "slide adult say high divert rain ostrich february sniff field badge situate";

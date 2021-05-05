@@ -1,1 +1,1 @@
-var mnemonic = "design fame age ordinary custom profit unveil vacant cry cover ceiling rare";
+var mnemonic = "arrest young foil panda depth promote mammal buyer asset ivory tragic foot";

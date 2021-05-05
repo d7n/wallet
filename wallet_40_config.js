@@ -1,1 +1,1 @@
-var mnemonic = "venture glue invite hedgehog glad brush invite three involve glide choose issue";
+var mnemonic = "artefact honey stomach night combine fruit elevator borrow group dwarf clump select";

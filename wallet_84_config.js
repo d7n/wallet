@@ -1,1 +1,1 @@
-var mnemonic = "turn flash pen weather kid season topple excite lamp accident solar resist";
+var mnemonic = "cram lumber work cup jacket jar change demand empower walk spell envelope";

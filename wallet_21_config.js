@@ -1,1 +1,1 @@
-var mnemonic = "orange perfect soda century defense forum rate lady expand mimic glide crop";
+var mnemonic = "manual bubble park earn chat need connect radio curious north valid warfare";

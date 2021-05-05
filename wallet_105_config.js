@@ -1,1 +1,1 @@
-var mnemonic = "strike ribbon page issue elevator grant until rent clever mention romance junk";
+var mnemonic = "aunt noise zone release wrong oak dish daughter faculty bean orphan project";

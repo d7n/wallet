@@ -1,1 +1,1 @@
-var mnemonic = "occur slim desert mask hundred recycle give cry replace grief tide ghost";
+var mnemonic = "meat brain cat total industry maid used purity future busy ribbon cereal";

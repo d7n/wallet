@@ -1,1 +1,1 @@
-var mnemonic = "rescue swarm honey nothing group crunch suggest page blur door bracket outer";
+var mnemonic = "today sauce recipe evolve gate provide analyst electric guard aunt boil holiday";

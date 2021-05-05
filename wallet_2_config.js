@@ -1,1 +1,1 @@
-var mnemonic = "moral text mimic lion boss resemble theory speak enjoy tuna alert luggage";
+var mnemonic = "lucky thought night assist enter sustain more swear gift erupt verify agent";

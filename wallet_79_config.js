@@ -1,1 +1,1 @@
-var mnemonic = "memory sentence sign follow slender margin valley front gold check stove reflect";
+var mnemonic = "illegal blue banner toast child human nature very output faint critic robot";

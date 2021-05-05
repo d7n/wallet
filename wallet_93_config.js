@@ -1,1 +1,1 @@
-var mnemonic = "culture share air become pelican rug kiss ripple thank fruit edit display";
+var mnemonic = "suggest heart genuine sleep post spirit web creek small page hotel before";

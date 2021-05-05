@@ -1,1 +1,1 @@
-var mnemonic = "polar scrub view ramp jar amused ahead review hip satoshi matter legend";
+var mnemonic = "purchase caution hawk more conduct intact often lucky enjoy earth used nature";

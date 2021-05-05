@@ -1,1 +1,1 @@
-var mnemonic = "someone journey pitch remove royal cup cute trap weather coin embrace cause";
+var mnemonic = "primary radar chat peace canyon demise wagon visit vintage when portion eagle";

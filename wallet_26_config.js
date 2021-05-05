@@ -1,1 +1,1 @@
-var mnemonic = "system found pool entry manual kidney sibling cover vague flee service risk";
+var mnemonic = "sponsor wine pave kingdom sniff damage seek chalk object mix timber mad";

@@ -1,1 +1,1 @@
-var mnemonic = "chief heavy puppy uphold guide fantasy history focus adult edge obvious village";
+var mnemonic = "great smile venue obvious voyage ancient tennis uniform trend broom suffer foil";

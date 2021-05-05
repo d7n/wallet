@@ -1,1 +1,1 @@
-var mnemonic = "useful silver forest gym puppy era eternal lounge sting shaft unlock access";
+var mnemonic = "tumble harsh super lyrics oxygen grunt nest merge margin arctic valid able";

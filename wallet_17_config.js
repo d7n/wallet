@@ -1,1 +1,1 @@
-var mnemonic = "stick erode undo phone feed gentle visa identify naive opinion sunset end";
+var mnemonic = "order found swear service margin small company quick casual upper obscure crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "soul way wrong swift foot umbrella once ancient armor sustain play buyer";
+var mnemonic = "suspect tilt give urge pet lesson twice park north regular web endless";

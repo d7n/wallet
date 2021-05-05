@@ -1,1 +1,1 @@
-var mnemonic = "speak crucial check detail rebel elbow custom avocado green loop scorpion nerve";
+var mnemonic = "practice already mountain hip hen silly marble rally polar maximum ask slim";

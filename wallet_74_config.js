@@ -1,1 +1,1 @@
-var mnemonic = "strategy assume permit illness vault census august bracket jewel point shell cabbage";
+var mnemonic = "chaos human nerve clerk table argue olympic define orphan park thrive artist";

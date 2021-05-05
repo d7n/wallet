@@ -1,1 +1,1 @@
-var mnemonic = "cargo coin trick hero green turn wear manual subject end mind enrich";
+var mnemonic = "merry bone hill what naive citizen tomato raise tourist kiwi apart panic";

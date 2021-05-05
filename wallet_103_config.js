@@ -1,1 +1,1 @@
-var mnemonic = "insect swap seminar learn laugh ask battle program seek later install hold";
+var mnemonic = "planet enough below mystery mansion myth brass frozen damage penalty radio clown";

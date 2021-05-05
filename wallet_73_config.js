@@ -1,1 +1,1 @@
-var mnemonic = "modify acquire dolphin curve satoshi indoor ahead parrot swallow jealous pattern mosquito";
+var mnemonic = "suit transfer loan bleak merry animal cave unique spy bronze taste cave";

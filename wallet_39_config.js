@@ -1,1 +1,1 @@
-var mnemonic = "hawk outdoor finish harvest bottom spoon approve dumb cute trim electric reveal";
+var mnemonic = "enhance echo cruise uphold decade icon usage fortune decrease make mad leaf";

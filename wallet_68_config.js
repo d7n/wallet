@@ -1,1 +1,1 @@
-var mnemonic = "rabbit rebuild local talent sniff aunt retire raccoon service debate help crash";
+var mnemonic = "time truck lecture tiger minimum runway clip truck cry basic bullet vapor";

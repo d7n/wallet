@@ -1,1 +1,1 @@
-var mnemonic = "vital velvet blame brisk renew oval castle tourist drift judge sibling lion";
+var mnemonic = "enjoy renew flame crystal ecology sound trust enact matrix alcohol slot object";

@@ -1,1 +1,1 @@
-var mnemonic = "journey fetch sure mountain insect brush follow pact mixed squirrel property planet";
+var mnemonic = "basic ketchup clean anxiety castle intact hurry priority input ship hour census";

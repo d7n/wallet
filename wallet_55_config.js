@@ -1,1 +1,1 @@
-var mnemonic = "sentence phone afford imitate educate escape autumn apple garlic dwarf fork engine";
+var mnemonic = "fox panel consider man bubble point main dice velvet venue clever reason";

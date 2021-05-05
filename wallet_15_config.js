@@ -1,1 +1,1 @@
-var mnemonic = "gospel olympic fiction inch survey increase shrimp smart habit record buddy occur";
+var mnemonic = "accuse crunch scout alarm reason middle search snack silent soldier child trumpet";

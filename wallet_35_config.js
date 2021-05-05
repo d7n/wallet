@@ -1,1 +1,1 @@
-var mnemonic = "gold must rent world journey avoid slab leopard extend remember record check";
+var mnemonic = "one dynamic ethics north surge shell loyal staff move aerobic large doll";

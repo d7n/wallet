@@ -1,1 +1,1 @@
-var mnemonic = "gravity scene unhappy pipe also style high chapter swim biology cream fever";
+var mnemonic = "climb lion taste cart shrug color rival topple nerve sibling access pottery";

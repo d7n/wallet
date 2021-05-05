@@ -1,1 +1,1 @@
-var mnemonic = "identify little dream gain basket analyst song salon convince inquiry morning cliff";
+var mnemonic = "grit matter endorse stadium heavy artwork alert elite degree planet opinion denial";

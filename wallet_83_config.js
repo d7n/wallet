@@ -1,1 +1,1 @@
-var mnemonic = "bachelor village marine tomato like route lava innocent cigar design public twice";
+var mnemonic = "service town fame furnace pride dilemma nice avoid pledge remind upgrade say";

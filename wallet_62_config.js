@@ -1,1 +1,1 @@
-var mnemonic = "siege web shadow patient moon power airport inmate soft setup evoke twist";
+var mnemonic = "infant obvious salad raw dirt dolphin swear wild glance upset jar network";

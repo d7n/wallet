@@ -1,1 +1,1 @@
-var mnemonic = "quote sport music sort moral property control spirit barely advance height novel";
+var mnemonic = "popular guard ahead story jungle keep issue catch exact orchard omit boat";

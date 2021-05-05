@@ -1,1 +1,1 @@
-var mnemonic = "noble liberty junior erode sing canvas another puppy smoke rib gloom donor";
+var mnemonic = "capital wreck comic aunt satisfy tuition desk list negative soccer normal fluid";

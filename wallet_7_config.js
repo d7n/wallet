@@ -1,1 +1,1 @@
-var mnemonic = "leisure keep very result render mixture shoot blouse lottery crop cereal name";
+var mnemonic = "good card scan order bamboo cool double traffic mixture gown pair angry";

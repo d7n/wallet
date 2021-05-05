@@ -1,1 +1,1 @@
-var mnemonic = "make devote salute galaxy border million leisure erase disagree blame muscle robust";
+var mnemonic = "wonder another tenant punch shove ignore basic orient type kiss crowd filter";

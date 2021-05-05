@@ -1,1 +1,1 @@
-var mnemonic = "nature cute visual brand fluid kind verb laundry baby ripple impulse canyon";
+var mnemonic = "library token champion join vast about sea sand garlic jewel remind fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "sure laugh glance lady food wedding board excuse forest nose various menu";
+var mnemonic = "brown tobacco puzzle reflect cereal scene survey armor satisfy error oyster youth";

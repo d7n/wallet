@@ -1,1 +1,1 @@
-var mnemonic = "soldier crunch kit embrace minimum goose grocery define victory isolate indicate odor";
+var mnemonic = "rebel soldier ranch innocent extra arctic tuition polar month west science immune";

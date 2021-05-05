@@ -1,1 +1,1 @@
-var mnemonic = "punch erode assume wool lemon welcome unlock noble marine day jar visit";
+var mnemonic = "dash share quick dizzy cream earth bamboo ticket ancient timber sure town";

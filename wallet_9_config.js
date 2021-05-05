@@ -1,1 +1,1 @@
-var mnemonic = "cream grunt elder hip case section switch honey liquid portion mimic arm";
+var mnemonic = "this magic sea aisle shield address orient differ tackle person mask slogan";

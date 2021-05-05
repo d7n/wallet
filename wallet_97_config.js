@@ -1,1 +1,1 @@
-var mnemonic = "quick enter add toss envelope unfair burden toddler dinner breeze weekend original";
+var mnemonic = "spoon same orbit surface summer more inform arch find antique solve lock";

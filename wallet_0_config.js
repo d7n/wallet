@@ -1,1 +1,1 @@
-var mnemonic = "voyage become enjoy culture portion coffee gravity need broken birth crawl treat";
+var mnemonic = "wild sentence bracket boring bless enforce matrix wasp mixture prison uphold funny";
