@@ -1,1 +1,1 @@
-var mnemonic = "spend example among ensure rookie outdoor safe sunset sick stick essence flash";
+var mnemonic = "staff moment virus assume snow warrior success sausage swap theme use drill";

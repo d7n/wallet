@@ -1,1 +1,1 @@
-var mnemonic = "afraid appear left sight oyster fee runway warm puzzle begin wall visual";
+var mnemonic = "slow fame fan reflect clutch raise goat admit away put fury connect";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow praise way crime ride task female regret salmon company fault equal";
+var mnemonic = "crane remember spend thumb begin pink member hawk degree idle fruit issue";

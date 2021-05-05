@@ -1,1 +1,1 @@
-var mnemonic = "vendor razor neck detail multiply shine idea blood devote card blue income";
+var mnemonic = "box little swift bunker toward scan soup fruit divert celery trade spawn";

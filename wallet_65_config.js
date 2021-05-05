@@ -1,1 +1,1 @@
-var mnemonic = "normal only appear slight upon april panther also field fall label emerge";
+var mnemonic = "bomb payment input immense ancient inject draw marble fresh slim night wait";

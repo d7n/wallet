@@ -1,1 +1,1 @@
-var mnemonic = "story abuse math auto large labor income hotel echo plate horror winner";
+var mnemonic = "mesh width avoid alley media six assume public nice pair stadium matrix";

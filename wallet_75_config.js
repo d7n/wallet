@@ -1,1 +1,1 @@
-var mnemonic = "law left allow mesh cross dragon brother head harvest crumble wild evoke";
+var mnemonic = "morning seminar table fancy main kind benefit power say ill bag nephew";

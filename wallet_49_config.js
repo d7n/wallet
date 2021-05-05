@@ -1,1 +1,1 @@
-var mnemonic = "noble crater allow protect dust better diamond ethics smooth burger pulse casual";
+var mnemonic = "tank bargain ostrich unknown they install crazy orange bronze push armor enter";

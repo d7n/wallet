@@ -1,1 +1,1 @@
-var mnemonic = "used thrive pledge dilemma best ring hobby lock south draft panther lazy";
+var mnemonic = "other regular chest nothing acid hamster curtain shoot castle april choice weasel";

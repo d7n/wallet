@@ -1,1 +1,1 @@
-var mnemonic = "blush another trend corn hint index logic enlist expand alarm wagon pool";
+var mnemonic = "deer regular message grain until time need year theme stem train keep";

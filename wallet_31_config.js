@@ -1,1 +1,1 @@
-var mnemonic = "grunt coral never diagram can item economy custom scene neither execute razor";
+var mnemonic = "kite share walnut question plastic ghost mansion economy vessel piece season lyrics";

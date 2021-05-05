@@ -1,1 +1,1 @@
-var mnemonic = "improve apple ordinary blush riot frozen twin place level syrup addict bullet";
+var mnemonic = "mesh plastic modify curtain cram sweet crucial crystal kiwi advice glare gravity";

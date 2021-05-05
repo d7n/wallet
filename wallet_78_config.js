@@ -1,1 +1,1 @@
-var mnemonic = "birth impulse foil cheese umbrella merit place safe lock habit recall jacket";
+var mnemonic = "derive cloth brick unknown virus plug spare dance spider letter undo mandate";

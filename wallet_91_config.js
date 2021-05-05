@@ -1,1 +1,1 @@
-var mnemonic = "night liberty idea avocado kitten aunt unit brand real black board gentle";
+var mnemonic = "embody dial entire retire check skirt lonely good enough memory amateur cupboard";

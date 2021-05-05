@@ -1,1 +1,1 @@
-var mnemonic = "dawn innocent staff trend kingdom dismiss figure ribbon document post route clarify";
+var mnemonic = "police angle wine melt waste quality inhale deposit athlete grass oppose control";

@@ -1,1 +1,1 @@
-var mnemonic = "warm truly inject slight project canvas squeeze bar attitude raccoon best ball";
+var mnemonic = "glance slot method clay orphan apple sauce cancel fun merit wink accuse";

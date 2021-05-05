@@ -1,1 +1,1 @@
-var mnemonic = "picnic spice piano finish stairs during harsh card major chase design spatial";
+var mnemonic = "only brand trophy rose comic mutual impose ordinary tuition resist lonely firm";

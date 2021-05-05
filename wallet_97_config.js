@@ -1,1 +1,1 @@
-var mnemonic = "asthma august drastic profit guard fox job avocado promote oppose invest scrub";
+var mnemonic = "unique enact luxury guilt defense able fee reveal design stadium twelve news";

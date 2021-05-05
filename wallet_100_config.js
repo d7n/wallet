@@ -1,1 +1,1 @@
-var mnemonic = "dutch emerge student ride eyebrow bracket fancy hybrid live feed sign merge";
+var mnemonic = "copy sibling intact sleep funny planet resource insane load net okay off";

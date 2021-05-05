@@ -1,1 +1,1 @@
-var mnemonic = "twist method coil stuff gate person print slogan admit drink build crash";
+var mnemonic = "whale brisk december brave repeat curve script endorse gain abstract entry amazing";

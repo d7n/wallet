@@ -1,1 +1,1 @@
-var mnemonic = "enjoy net deliver wrist aspect scout fit panel resemble assume gas solid";
+var mnemonic = "awake pave smoke end soul settle phrase chimney system exact syrup cactus";

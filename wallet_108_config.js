@@ -1,1 +1,1 @@
-var mnemonic = "trap crystal soda occur gorilla sand trial olive require decide panther swallow";
+var mnemonic = "leopard sting animal trumpet piano wing short problem lobster gossip shock teach";

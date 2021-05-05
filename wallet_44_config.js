@@ -1,1 +1,1 @@
-var mnemonic = "detect alter diagram acquire dinner rough inhale above nephew such depend once";
+var mnemonic = "hen slight exit resemble victory caution energy route swarm pioneer decrease sign";

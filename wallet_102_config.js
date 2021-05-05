@@ -1,1 +1,1 @@
-var mnemonic = "outer urban hybrid aspect purchase grape cheese eye certain verb valley yellow";
+var mnemonic = "honey boost series never wealth yellow another board learn soccer slot doll";

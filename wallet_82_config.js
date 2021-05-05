@@ -1,1 +1,1 @@
-var mnemonic = "puzzle mule video exotic marble discover draft fall disorder syrup control couple";
+var mnemonic = "cycle wash road scan lake aware census camp axis tomorrow resist reject";

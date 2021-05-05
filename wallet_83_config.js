@@ -1,1 +1,1 @@
-var mnemonic = "knock retire original arm reflect annual father spy horn traffic engine breeze";
+var mnemonic = "board worry essay habit pioneer ramp axis tank can series unfair draw";

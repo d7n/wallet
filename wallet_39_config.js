@@ -1,1 +1,1 @@
-var mnemonic = "profit ketchup render spy cereal reflect abuse dumb dwarf total giggle tortoise";
+var mnemonic = "digital exotic rookie team avocado soldier minute cart panda scare gas arrange";

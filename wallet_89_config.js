@@ -1,1 +1,1 @@
-var mnemonic = "soup predict dose clog inform eight mechanic slow panic cradle mix explain";
+var mnemonic = "deal twist situate latin alley appear author domain noodle grace sail novel";

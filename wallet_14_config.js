@@ -1,1 +1,1 @@
-var mnemonic = "faint way spare inside text paddle valid vintage bitter develop fame swing";
+var mnemonic = "diet actress run awful acquire zoo faculty abstract creek situate post bike";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz noise message clinic cigar bridge bargain power zone sweet slice reform";
+var mnemonic = "degree document toward aunt position shed oyster execute raw vapor collect jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "portion walnut between sniff angry coyote grab combine two hello purse bread";
+var mnemonic = "govern grow already elder off live erosion convince twenty pig dream acquire";

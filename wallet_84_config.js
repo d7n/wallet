@@ -1,1 +1,1 @@
-var mnemonic = "era confirm credit desk cannon bargain unusual blame depth solution electric chase";
+var mnemonic = "insane repair document tower pyramid outer level donor pigeon toilet invest mountain";

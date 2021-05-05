@@ -1,1 +1,1 @@
-var mnemonic = "vivid dog sting bag fall this easily embark finger receive elevator use";
+var mnemonic = "pupil minor attack address jeans enforce work reform advice barrel select smart";

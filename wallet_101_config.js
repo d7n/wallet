@@ -1,1 +1,1 @@
-var mnemonic = "lucky step tip car orange jewel parent wasp soda snow monitor immune";
+var mnemonic = "fire hobby pill drum october drink thrive peanut capital lunch image flock";

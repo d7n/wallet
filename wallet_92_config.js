@@ -1,1 +1,1 @@
-var mnemonic = "deer master type update lamp visa valley exist liar solar liquid find";
+var mnemonic = "squirrel alley term sorry tuition demise announce mix prevent abandon bomb aim";

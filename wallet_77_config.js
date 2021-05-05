@@ -1,1 +1,1 @@
-var mnemonic = "notice crime seven island aim charge impact display quarter tragic engine myself";
+var mnemonic = "exchange exchange narrow song ship space sunny name rude moment hazard chef";

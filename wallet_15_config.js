@@ -1,1 +1,1 @@
-var mnemonic = "wrap heart field truth manage clerk buffalo gauge sweet upgrade portion vivid";
+var mnemonic = "cannon mystery sketch diet submit surge sudden cousin pause quiz jacket icon";

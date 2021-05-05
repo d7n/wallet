@@ -1,1 +1,1 @@
-var mnemonic = "glove talk aspect december busy wheel echo spare man island lift pizza";
+var mnemonic = "clerk journey stumble guilt spare trash napkin pause comic feature regret carry";

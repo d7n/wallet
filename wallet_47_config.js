@@ -1,1 +1,1 @@
-var mnemonic = "miss point pipe lava eyebrow kitten okay present wage addict south scorpion";
+var mnemonic = "wink radar thrive dress spare chapter any daring balcony one fine immune";

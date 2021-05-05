@@ -1,1 +1,1 @@
-var mnemonic = "ice october uncover december outer certain spoil burden world link nominee agent";
+var mnemonic = "nominee month chief there nerve copy library remind bronze grow program chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "sentence shrimp hard neither tuna stay develop flee attract hundred crunch doll";
+var mnemonic = "place bread question unfair grit pear first assume cruise aunt fancy label";

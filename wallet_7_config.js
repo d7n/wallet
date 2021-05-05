@@ -1,1 +1,1 @@
-var mnemonic = "describe lyrics exchange true grunt mind cube humor cradle sweet violin moment";
+var mnemonic = "cage amateur hire grape accuse enter badge olympic nasty pact lake grace";

@@ -1,1 +1,1 @@
-var mnemonic = "vintage idea bullet suggest globe shrimp toe drive fresh siege again uncover";
+var mnemonic = "illness find movie zero spider desk fringe night raccoon average vault monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm sorry zone arrow end keen cinnamon garbage later gather picnic torch";
+var mnemonic = "deer until onion pepper focus flock sound august scale board stuff patrol";

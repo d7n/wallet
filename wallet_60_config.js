@@ -1,1 +1,1 @@
-var mnemonic = "toddler sister liquid coconut shed gravity cart aim across wet crouch pool";
+var mnemonic = "melody clerk alert guide orient turkey time into gain unaware foster dust";

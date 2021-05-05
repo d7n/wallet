@@ -1,1 +1,1 @@
-var mnemonic = "volume frame forest profit acoustic unable language describe cage vendor impulse leader";
+var mnemonic = "resource country cloud cry cricket dolphin verb ribbon express nuclear exercise blame";

@@ -1,1 +1,1 @@
-var mnemonic = "vague diamond anger theory large atom design road struggle obtain tip century";
+var mnemonic = "smile hammer forward erase kangaroo trust stuff item garlic gold volume always";

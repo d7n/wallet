@@ -1,1 +1,1 @@
-var mnemonic = "utility frost solve issue soft post memory adjust patient vague vital reform";
+var mnemonic = "merit bonus bright sure cool lamp story suit valve curve keen dawn";

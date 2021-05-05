@@ -1,1 +1,1 @@
-var mnemonic = "reopen muscle canal phone firm endless vessel recall giant hold fun dignity";
+var mnemonic = "faculty pretty supreme east practice nothing eight symbol bounce awful green decade";

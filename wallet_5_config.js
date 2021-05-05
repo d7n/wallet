@@ -1,1 +1,1 @@
-var mnemonic = "discover buzz valley flat true train flower twin swarm square kangaroo shy";
+var mnemonic = "crowd egg furnace net correct allow rotate desert violin stem scene peasant";

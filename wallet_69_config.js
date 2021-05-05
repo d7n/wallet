@@ -1,1 +1,1 @@
-var mnemonic = "obscure perfect envelope web between claw brother carry place pony stem expect";
+var mnemonic = "monitor trip alter sport tray lonely goat broom dial record kidney wood";

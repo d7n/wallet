@@ -1,1 +1,1 @@
-var mnemonic = "erupt drip gun favorite lyrics sand select universe program aunt indicate common";
+var mnemonic = "where pig party goddess deer switch water flush abstract delay force aim";

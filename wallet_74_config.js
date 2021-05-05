@@ -1,1 +1,1 @@
-var mnemonic = "suit across blouse giggle debris royal need antenna belt drama better useless";
+var mnemonic = "topple sight return long common track clean major close budget leave whip";

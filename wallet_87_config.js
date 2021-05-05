@@ -1,1 +1,1 @@
-var mnemonic = "horn juice cash genius protect example what behave cost adapt legend copper";
+var mnemonic = "able assume tower improve ordinary raven hotel hire rocket view stomach dune";

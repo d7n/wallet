@@ -1,1 +1,1 @@
-var mnemonic = "merry one dad behave piano retire nurse city acoustic water armor abandon";
+var mnemonic = "state blossom ill travel ghost media distance wasp early profit bonus sketch";

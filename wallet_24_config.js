@@ -1,1 +1,1 @@
-var mnemonic = "crater embody notable because barrel help rebuild raw leisure toss brave hawk";
+var mnemonic = "peasant mix friend jelly lobster negative control double inner remember wine december";

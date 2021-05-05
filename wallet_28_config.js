@@ -1,1 +1,1 @@
-var mnemonic = "much arch food broccoli armed brick mention margin nominee viable across black";
+var mnemonic = "expose absorb wrap square session will jelly demise thing during liquid key";

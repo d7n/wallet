@@ -1,1 +1,1 @@
-var mnemonic = "try garage doctor isolate output cloud divert orchard donkey select erosion pulse";
+var mnemonic = "flat employ update base swim ignore announce swallow idle supply minute long";

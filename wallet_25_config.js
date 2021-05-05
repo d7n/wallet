@@ -1,1 +1,1 @@
-var mnemonic = "side wild sense derive staff danger torch parrot artist panic radio modify";
+var mnemonic = "repeat tag tourist tent circle fury torch gym broken aerobic skull kiss";

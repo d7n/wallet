@@ -1,1 +1,1 @@
-var mnemonic = "style genius expose they harsh bright usage air scheme casino phone garage";
+var mnemonic = "hip coin hole bicycle crunch frown page fix coffee image potato talk";

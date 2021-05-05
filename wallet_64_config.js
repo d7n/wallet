@@ -1,1 +1,1 @@
-var mnemonic = "escape advance hard quiz author pond vicious bulk decline abstract jealous under";
+var mnemonic = "knife bar next dial goddess harbor artefact save north recall song endless";

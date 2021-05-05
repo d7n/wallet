@@ -1,1 +1,1 @@
-var mnemonic = "column safe youth project try add mixture net staff category lab then";
+var mnemonic = "long heart learn equip defy enter humor believe love senior grow glass";

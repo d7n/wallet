@@ -1,1 +1,1 @@
-var mnemonic = "express blind custom latin ceiling canal matter shield network try swallow slogan";
+var mnemonic = "wagon enter hour stool stay rely foam marine unit image useless front";

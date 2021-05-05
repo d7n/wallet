@@ -1,1 +1,1 @@
-var mnemonic = "front abstract fragile public health blue hurdle gauge absurd primary sock fuel";
+var mnemonic = "logic mobile plastic couple fluid rose title buddy mind icon rug oppose";

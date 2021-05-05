@@ -1,1 +1,1 @@
-var mnemonic = "concert flower crop genuine series city trial idea cup neglect lemon cluster";
+var mnemonic = "song release dog end custom else high slight slow snake scissors hold";

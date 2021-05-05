@@ -1,1 +1,1 @@
-var mnemonic = "bulb barely pupil found gloom planet tongue general layer domain online evoke";
+var mnemonic = "scout barrel enhance panel fiber flat peasant affair apple divide concert wide";

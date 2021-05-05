@@ -1,1 +1,1 @@
-var mnemonic = "supply tube twist ride ordinary south rabbit custom glad region copper purchase";
+var mnemonic = "dial canvas farm hair diary skull pudding deny hello ribbon pelican injury";

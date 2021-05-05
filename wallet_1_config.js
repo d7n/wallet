@@ -1,1 +1,1 @@
-var mnemonic = "quality candy office leaf urge cage tray ocean edit aspect island explain";
+var mnemonic = "whale stamp bring select hard lunch three episode tank vapor useless basic";

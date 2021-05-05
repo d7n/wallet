@@ -1,1 +1,1 @@
-var mnemonic = "trash minute must phone hair maid wrong poverty now occur swamp country";
+var mnemonic = "despair city achieve vital apart addict point tumble symbol actual dwarf else";

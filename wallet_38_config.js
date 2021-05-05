@@ -1,1 +1,1 @@
-var mnemonic = "good shiver this approve hurdle car journey oppose make reduce soft normal";
+var mnemonic = "witness echo donor purity middle master office idle amused patrol hood dawn";

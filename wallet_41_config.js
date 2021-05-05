@@ -1,1 +1,1 @@
-var mnemonic = "walnut crash net insect hard broom extra random surround economy antenna faint";
+var mnemonic = "sugar giggle canyon sense ahead kick giggle possible poem unhappy anchor fantasy";

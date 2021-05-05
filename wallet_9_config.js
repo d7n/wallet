@@ -1,1 +1,1 @@
-var mnemonic = "spirit sport sword receive split need swallow excuse kick air movie flag";
+var mnemonic = "near agent city settle able laundry unfold fabric tenant buddy story pride";

@@ -1,1 +1,1 @@
-var mnemonic = "regret garment damp hope behind youth shy stereo judge next innocent trash";
+var mnemonic = "ladder aware confirm flavor dismiss maple add glove hundred balcony turn want";

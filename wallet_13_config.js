@@ -1,1 +1,1 @@
-var mnemonic = "ask syrup violin lawsuit list joy again unhappy cross sponsor guitar smoke";
+var mnemonic = "ankle concert board program friend prize matrix tower fat expose try option";

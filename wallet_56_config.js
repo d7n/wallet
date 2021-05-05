@@ -1,1 +1,1 @@
-var mnemonic = "paper ocean combine sniff casual engine agent angry where soccer judge ready";
+var mnemonic = "device swear height chimney apple together garbage trim brave under uncle rent";

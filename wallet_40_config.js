@@ -1,1 +1,1 @@
-var mnemonic = "crane neutral attend dish front idle purpose crew rail coil chunk acquire";
+var mnemonic = "essay quote face sick sick forget elite vessel orchard green warrior coil";

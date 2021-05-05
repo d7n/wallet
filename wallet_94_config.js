@@ -1,1 +1,1 @@
-var mnemonic = "whale inspire silly shallow catalog move satoshi deliver column scheme marriage exchange";
+var mnemonic = "mix guilt spring body depart cloud result month initial arrow voyage physical";

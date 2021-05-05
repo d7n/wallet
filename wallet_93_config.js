@@ -1,1 +1,1 @@
-var mnemonic = "cause tone canoe speak once tourist recycle believe faith season repair million";
+var mnemonic = "square deer emotion real reduce cool sustain potato cycle tilt setup wide";

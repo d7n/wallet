@@ -1,1 +1,1 @@
-var mnemonic = "crucial poem select panther over total melody tent giggle swing ski runway";
+var mnemonic = "adult pole october fiction laundry tornado nasty share jelly song grit parent";

@@ -1,1 +1,1 @@
-var mnemonic = "party radar essay foam noble hawk voice annual glide letter rough gauge";
+var mnemonic = "awesome light scene emotion strong save robust balance drift budget south short";

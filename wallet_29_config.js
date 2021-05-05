@@ -1,1 +1,1 @@
-var mnemonic = "brisk display account limit orange morning tiny genre west genius relax woman";
+var mnemonic = "erase sheriff then elevator float crisp royal reunion half improve sphere render";

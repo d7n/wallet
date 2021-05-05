@@ -1,1 +1,1 @@
-var mnemonic = "join lemon deputy shuffle path coyote chest course step betray person stereo";
+var mnemonic = "surprise phone decide load barrel dinner zero meadow frost drink wrist retreat";

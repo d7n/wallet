@@ -1,1 +1,1 @@
-var mnemonic = "blur unusual path essence tumble fluid false pupil patient vivid mass sphere";
+var mnemonic = "video mixed wreck system impose teach tonight flush frost size bus episode";

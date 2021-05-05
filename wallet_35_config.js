@@ -1,1 +1,1 @@
-var mnemonic = "clock worry achieve possible palm senior quiz brain quick nephew spread scrub";
+var mnemonic = "stomach start note kid meadow entire annual bullet answer post wedding clarify";

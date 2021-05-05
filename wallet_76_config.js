@@ -1,1 +1,1 @@
-var mnemonic = "pig citizen card uncle erode retreat angle shop laundry census duty helmet";
+var mnemonic = "village toss sure crime car peasant snow junk fetch hollow shove estate";

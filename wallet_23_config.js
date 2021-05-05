@@ -1,1 +1,1 @@
-var mnemonic = "sadness cloud drum alarm vital clarify poverty knee museum satoshi little scrub";
+var mnemonic = "rude online coil lucky scrap yard race senior disagree dad whip toward";
