@@ -1,1 +1,1 @@
-var mnemonic = "recipe canoe brisk question maid best apple olympic amazing cement result toss";
+var mnemonic = "help tell opera mind reflect humor story worry frequent traffic crane sword";

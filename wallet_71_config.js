@@ -1,1 +1,1 @@
-var mnemonic = "damage favorite spend raccoon error best three wash gather camp swarm raw";
+var mnemonic = "spell income diesel rice giant armor bullet scare tent faculty case wash";

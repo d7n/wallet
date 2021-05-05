@@ -1,1 +1,1 @@
-var mnemonic = "mimic wear excess suspect unveil canvas riot upper knock odor salad time";
+var mnemonic = "patch leader cloud universe write cheap lobster unveil trust section noodle dilemma";

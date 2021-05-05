@@ -1,1 +1,1 @@
-var mnemonic = "riot adjust ceiling action celery anger gaze border powder glance advance design";
+var mnemonic = "indicate tornado sponsor fault device quick essence kiss liquid law cost lobster";

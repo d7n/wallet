@@ -1,1 +1,1 @@
-var mnemonic = "spend purity season chaos service crack seven asthma lunar laptop girl south";
+var mnemonic = "provide west text enable mean autumn control wild useful idle web enroll";

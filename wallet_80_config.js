@@ -1,1 +1,1 @@
-var mnemonic = "limb family day clever gap welcome rigid few render right blade anxiety";
+var mnemonic = "spell soda shove increase myth finger deputy panic wrestle seek tomorrow clarify";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar tonight brisk index evoke cricket top kingdom ball basket scout jungle";
+var mnemonic = "embrace oppose marriage bench come creek enjoy hollow subway cattle achieve quote";

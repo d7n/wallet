@@ -1,1 +1,1 @@
-var mnemonic = "kiwi stand flush rebel ticket knife post kite icon slam window play";
+var mnemonic = "sport churn melt spray girl dynamic pilot quality thunder dragon amount news";

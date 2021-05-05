@@ -1,1 +1,1 @@
-var mnemonic = "road demise deny lamp bridge ten gap salon shock stock call hover";
+var mnemonic = "gun fiscal seminar limit shove scrap custom chapter sadness strategy lecture glimpse";

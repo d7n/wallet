@@ -1,1 +1,1 @@
-var mnemonic = "scatter response vault moment cage misery juice layer gauge vital parade tragic";
+var mnemonic = "champion hood father frequent canyon half husband wall fashion simple avocado income";

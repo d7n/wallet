@@ -1,1 +1,1 @@
-var mnemonic = "hood raven panic across three message supply practice duck enact gallery south";
+var mnemonic = "bulb silly canal age asset before intact crash coil emerge charge carbon";

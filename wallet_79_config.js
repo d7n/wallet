@@ -1,1 +1,1 @@
-var mnemonic = "envelope dune affair gown execute trust disorder marriage nasty mystery situate drive";
+var mnemonic = "aim develop lyrics range legend twelve whisper lawsuit rate pipe bachelor village";

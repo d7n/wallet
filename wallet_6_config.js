@@ -1,1 +1,1 @@
-var mnemonic = "hidden hurt monster link guide someone twist athlete cause razor smooth custom";
+var mnemonic = "picnic hundred hurdle rebel protect timber promote outside bunker also warfare true";

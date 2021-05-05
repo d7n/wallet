@@ -1,1 +1,1 @@
-var mnemonic = "donate kite one enroll cherry sick razor virtual enter pole sea uphold";
+var mnemonic = "trap census buzz help favorite average song nice float raise call motor";

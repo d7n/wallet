@@ -1,1 +1,1 @@
-var mnemonic = "breeze upon grid raccoon family sail price develop true match nurse assault";
+var mnemonic = "oil stove prosper flash dove runway labor enact pencil mushroom junk caution";

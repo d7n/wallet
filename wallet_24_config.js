@@ -1,1 +1,1 @@
-var mnemonic = "between spirit piano this pigeon maple move series inside tent stereo lawn";
+var mnemonic = "mixed useless all crisp easy attract palm destroy uphold month message legal";

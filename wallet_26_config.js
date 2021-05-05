@@ -1,1 +1,1 @@
-var mnemonic = "effort upgrade vocal broccoli health cupboard decide chaos uncle april blossom direct";
+var mnemonic = "rookie morning math picture rocket print inner select champion farm unaware remove";

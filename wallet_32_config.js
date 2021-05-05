@@ -1,1 +1,1 @@
-var mnemonic = "another destroy school only panther aerobic benefit witness flock save fresh endless";
+var mnemonic = "accident congress utility combine total wisdom question nature suspect journey wrap quality";

@@ -1,1 +1,1 @@
-var mnemonic = "genre era unit consider rule arm toy recall word beyond vanish tone";
+var mnemonic = "ice unable element maid midnight spirit holiday creek cabin bridge tube spring";

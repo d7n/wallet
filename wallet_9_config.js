@@ -1,1 +1,1 @@
-var mnemonic = "grid amused into ladder country egg round planet impact close tower robust";
+var mnemonic = "glass bless three chest smart security jelly exit forget era reform beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "pair six question push amazing reveal fly fee identify melt refuse actor";
+var mnemonic = "sail voice arm disease action law tunnel level green measure churn hard";

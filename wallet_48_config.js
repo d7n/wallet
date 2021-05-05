@@ -1,1 +1,1 @@
-var mnemonic = "afford ghost canoe unfold initial clinic sheriff shaft step female door model";
+var mnemonic = "inflict oven hospital unhappy slow gold zebra liquid garage satisfy aisle payment";

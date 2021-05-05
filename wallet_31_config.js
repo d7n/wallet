@@ -1,1 +1,1 @@
-var mnemonic = "help panda bread subway chief announce mutual huge muscle slender answer confirm";
+var mnemonic = "kidney hint rail wish author narrow reopen scorpion family flat select bundle";

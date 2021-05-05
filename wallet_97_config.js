@@ -1,1 +1,1 @@
-var mnemonic = "window motion once surface because choice inflict gorilla bamboo recall debate flock";
+var mnemonic = "crew box since narrow execute extend test design stuff inside verify gown";

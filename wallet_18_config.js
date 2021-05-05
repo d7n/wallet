@@ -1,1 +1,1 @@
-var mnemonic = "inmate before syrup this hungry abandon opera obvious unusual card dinosaur heart";
+var mnemonic = "gas banana front match bag broccoli advice cricket clerk barrel stereo column";

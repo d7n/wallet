@@ -1,1 +1,1 @@
-var mnemonic = "hand merry exclude shield crack onion subject twenty gaze social off roast";
+var mnemonic = "stadium clump occur puzzle virtual hungry twice zebra length picnic warfare make";

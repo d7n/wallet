@@ -1,1 +1,1 @@
-var mnemonic = "snow rural club use chat focus feel test potato choice blade gate";
+var mnemonic = "bless wagon symptom maximum addict say airport you bargain want puzzle acid";

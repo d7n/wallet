@@ -1,1 +1,1 @@
-var mnemonic = "reopen gap drip process medal lazy deny try forward please endorse bag";
+var mnemonic = "globe mountain aunt adapt able loop abandon maid reopen trouble tired negative";

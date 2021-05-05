@@ -1,1 +1,1 @@
-var mnemonic = "farm because wait lion sausage hurry suffer wedding rigid bulk harbor sight";
+var mnemonic = "bronze promote pause anchor village segment nut obscure menu garage ready price";

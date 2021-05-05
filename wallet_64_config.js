@@ -1,1 +1,1 @@
-var mnemonic = "tide visa update minimum glory right subway method antenna bless enforce initial";
+var mnemonic = "uphold shield sea mirror code nice moment stable water lyrics taxi notice";

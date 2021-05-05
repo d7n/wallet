@@ -1,1 +1,1 @@
-var mnemonic = "candy task spatial dash rug note craft album develop network worth dad";
+var mnemonic = "regret unfair poverty hat resource wisdom eyebrow spirit tiger police negative letter";

@@ -1,1 +1,1 @@
-var mnemonic = "donor earth once panel pioneer rival office cost embark taxi small pig";
+var mnemonic = "travel kingdom bracket pen code health girl term cart drift anger pretty";

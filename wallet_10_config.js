@@ -1,1 +1,1 @@
-var mnemonic = "unfold shock protect ahead rely tooth venue loop indoor smart asthma poet";
+var mnemonic = "search squirrel inner swallow menu aunt angle limit manual slice soap wasp";

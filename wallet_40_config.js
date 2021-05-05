@@ -1,1 +1,1 @@
-var mnemonic = "copper elder asset wave meat shop recycle head rice arena skate jeans";
+var mnemonic = "lock morning claw orient miss remind rescue pink kiwi east vehicle grunt";

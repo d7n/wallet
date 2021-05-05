@@ -1,1 +1,1 @@
-var mnemonic = "depart lady orphan elegant mix relax apart mansion deposit ocean layer ramp";
+var mnemonic = "twelve decrease ski shoe invite hospital bread club style exist mouse capable";

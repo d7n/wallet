@@ -1,1 +1,1 @@
-var mnemonic = "execute desk inflict glad knife cruise toss level crack lottery dog noble";
+var mnemonic = "symptom inform derive motor truck wasp correct shaft verb illegal still grow";

@@ -1,1 +1,1 @@
-var mnemonic = "because space faint toe erase finger analyst ribbon promote vapor mansion trouble";
+var mnemonic = "sphere agent flee quality render lazy render cross pyramid chest code curious";

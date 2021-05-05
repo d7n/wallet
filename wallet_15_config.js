@@ -1,1 +1,1 @@
-var mnemonic = "corn stairs pupil rough sea unable acquire soap draw avoid sound tail";
+var mnemonic = "case laptop auto uncle fork edit pool item stage upset battle birth";

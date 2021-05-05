@@ -1,1 +1,1 @@
-var mnemonic = "addict decade hidden nothing toss sure uncle degree claw rigid casual chimney";
+var mnemonic = "filter glory various update wide motor velvet tennis pond hurt garage over";

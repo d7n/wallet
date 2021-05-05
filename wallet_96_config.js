@@ -1,1 +1,1 @@
-var mnemonic = "sure lawn kiwi echo soap broken just brief pluck sting scrap private";
+var mnemonic = "witness client wet neither laugh spider camp health remind remain allow coin";

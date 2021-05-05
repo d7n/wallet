@@ -1,1 +1,1 @@
-var mnemonic = "phrase honey sausage garbage taste strike rare number gallery eager syrup keep";
+var mnemonic = "inch scrap swap main athlete naive bonus detail stairs stadium reveal dry";

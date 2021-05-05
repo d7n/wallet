@@ -1,1 +1,1 @@
-var mnemonic = "venue depend replace ill planet method cube fantasy mention spring dash tag";
+var mnemonic = "hollow cruise stick dynamic dress interest keep lottery almost knock anxiety uniform";

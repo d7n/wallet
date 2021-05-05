@@ -1,1 +1,1 @@
-var mnemonic = "garage frost pretty absurd weasel worth select intact news adapt apple crack";
+var mnemonic = "adjust injury castle silk unlock rice tuna pitch doll drill fall attack";

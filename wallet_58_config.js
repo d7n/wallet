@@ -1,1 +1,1 @@
-var mnemonic = "view fat produce slide absorb cry avocado fancy ranch correct garment hard";
+var mnemonic = "similar network mule donate frog pumpkin tuition repair quiz author head swarm";

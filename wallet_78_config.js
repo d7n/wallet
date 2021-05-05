@@ -1,1 +1,1 @@
-var mnemonic = "achieve walk depend cart rent ball drive immense aisle ostrich benefit acquire";
+var mnemonic = "talk this spawn grocery bullet identify student ceiling kit sorry giggle acquire";

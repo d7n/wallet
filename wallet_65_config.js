@@ -1,1 +1,1 @@
-var mnemonic = "mind split safe cargo dismiss category pledge purchase use audit river clap";
+var mnemonic = "piece debate price oval gasp best analyst trouble degree install shoe ring";

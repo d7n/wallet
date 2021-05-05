@@ -1,1 +1,1 @@
-var mnemonic = "flip sort pause robust luxury mass address inform used beauty stone penalty";
+var mnemonic = "major love gain zebra ceiling earn sort wheel resemble time clean width";

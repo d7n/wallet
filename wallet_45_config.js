@@ -1,1 +1,1 @@
-var mnemonic = "vast friend divide slide return security veteran dirt demand century family lazy";
+var mnemonic = "deputy staff inspire young evidence alcohol ancient blur olive scorpion path shallow";

@@ -1,1 +1,1 @@
-var mnemonic = "blade idea deer craft soup runway muffin creek worry talent park dragon";
+var mnemonic = "deposit sight mansion develop negative foster tissue grab vendor resemble rug dignity";

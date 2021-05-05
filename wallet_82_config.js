@@ -1,1 +1,1 @@
-var mnemonic = "assault wrestle soul anchor subway battle gown inspire room rely pill expect";
+var mnemonic = "analyst pencil inch amount mean giant brand derive awful meadow tissue aspect";

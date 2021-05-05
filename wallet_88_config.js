@@ -1,1 +1,1 @@
-var mnemonic = "claw lemon rigid vivid wrong mobile repeat bench confirm camera cable lunch";
+var mnemonic = "fresh material toilet grain nest oval avocado average master property silent kidney";

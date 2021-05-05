@@ -1,1 +1,1 @@
-var mnemonic = "action build ladder idle glide analyst label release beyond conduct mass moral";
+var mnemonic = "predict enrich hawk decline cross gentle olympic sad entry taste video clay";

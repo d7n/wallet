@@ -1,1 +1,1 @@
-var mnemonic = "fresh minor shock jungle frog match remove excite truck umbrella hungry begin";
+var mnemonic = "drift render food flag sketch much program prevent front around puzzle film";

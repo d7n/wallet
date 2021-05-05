@@ -1,1 +1,1 @@
-var mnemonic = "endorse source aware space suffer excess idea annual expire minimum cupboard perfect";
+var mnemonic = "inspire main call spare erosion mammal october elevator enroll patch blanket sure";

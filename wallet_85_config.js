@@ -1,1 +1,1 @@
-var mnemonic = "control mercy fatal awful keen beach dizzy cupboard salute share artefact head";
+var mnemonic = "fashion carbon brown endorse earth village knife cage transfer auction solution pipe";

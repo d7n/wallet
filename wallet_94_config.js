@@ -1,1 +1,1 @@
-var mnemonic = "autumn lift wide knock cat connect crime canvas sunset syrup neutral label";
+var mnemonic = "nation wrist twist muffin upgrade maze unhappy napkin forum move mad maximum";

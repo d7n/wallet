@@ -1,1 +1,1 @@
-var mnemonic = "crop mention stamp sample super escape involve vault square word balcony lazy";
+var mnemonic = "gym problem apple infant curve raw secret surprise width special quick tray";

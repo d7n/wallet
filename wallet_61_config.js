@@ -1,1 +1,1 @@
-var mnemonic = "turkey derive tissue dash crater drive target mobile issue shadow year glove";
+var mnemonic = "bitter mad into embark phone shoulder ivory into shy shed era trip";

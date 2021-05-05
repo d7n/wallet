@@ -1,1 +1,1 @@
-var mnemonic = "apology ride usage stairs law spend strong clap guard clock bitter denial";
+var mnemonic = "sing bitter entire loyal defy trash fence person social stay fat artefact";

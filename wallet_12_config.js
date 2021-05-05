@@ -1,1 +1,1 @@
-var mnemonic = "icon direct creek bike fun category cat winter assist razor toilet unaware";
+var mnemonic = "actor wrong pave engine divorce ancient rather receive west worth sing photo";

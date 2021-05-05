@@ -1,1 +1,1 @@
-var mnemonic = "short float pet check multiply auction item absent math slide when chronic";
+var mnemonic = "behave smoke payment poverty walnut naive arm field shadow drop secret extra";

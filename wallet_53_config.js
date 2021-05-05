@@ -1,1 +1,1 @@
-var mnemonic = "you people churn vendor biology course liar jewel myself tree toward state";
+var mnemonic = "stone desk tape glue walnut craft win clinic hill napkin vessel bulb";

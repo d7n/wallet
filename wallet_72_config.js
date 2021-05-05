@@ -1,1 +1,1 @@
-var mnemonic = "scene embark clump bomb theory brass universe repair tornado want strong only";
+var mnemonic = "orbit ignore lawsuit simple glad detail until grape enrich essence awkward slice";

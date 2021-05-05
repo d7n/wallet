@@ -1,1 +1,1 @@
-var mnemonic = "congress predict sponsor dream identify side danger link bamboo load rebuild entry";
+var mnemonic = "execute slam pair jealous ring nominee library country live upon maze dismiss";

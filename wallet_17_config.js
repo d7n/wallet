@@ -1,1 +1,1 @@
-var mnemonic = "cruel anchor pitch sea cover awesome addict spatial drive amazing alley accident";
+var mnemonic = "vendor crop candy citizen range session toe slot tissue dragon parent copy";

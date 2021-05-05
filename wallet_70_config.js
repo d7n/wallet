@@ -1,1 +1,1 @@
-var mnemonic = "bus stand inch dinner amazing awkward illness flash unaware universe two allow";
+var mnemonic = "this tissue become kiss afraid large february finger buyer firm evoke stove";

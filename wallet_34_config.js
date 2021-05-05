@@ -1,1 +1,1 @@
-var mnemonic = "fit cake cushion kind castle enter glad square slide seed fortune another";
+var mnemonic = "camp dizzy tower squirrel wheat soul cupboard ring lawn perfect catch state";

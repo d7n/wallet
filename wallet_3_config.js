@@ -1,1 +1,1 @@
-var mnemonic = "path vicious baby century area pear cruel gentle copy scrub blossom primary";
+var mnemonic = "can alien budget seed tackle maze rubber hurdle observe ladder hawk genre";

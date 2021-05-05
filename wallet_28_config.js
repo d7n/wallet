@@ -1,1 +1,1 @@
-var mnemonic = "kiss doctor purse insect fury cry add submit congress hire trip symptom";
+var mnemonic = "vintage cancel enough various neutral dynamic aisle humble robot swing economy auction";

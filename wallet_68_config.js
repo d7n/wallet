@@ -1,1 +1,1 @@
-var mnemonic = "aim seat mushroom guard stamp black roof merry liar cinnamon north melody";
+var mnemonic = "letter parrot creek uniform seed version feature paddle vendor toast upgrade field";

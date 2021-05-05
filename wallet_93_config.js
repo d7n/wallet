@@ -1,1 +1,1 @@
-var mnemonic = "come analyst useless popular fee monitor mail blanket search vocal inform search";
+var mnemonic = "flame extend coconut thrive stumble record tribe spatial sword toy senior steak";

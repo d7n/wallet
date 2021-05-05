@@ -1,1 +1,1 @@
-var mnemonic = "culture story brave ketchup merit region turn rhythm subway empty motor letter";
+var mnemonic = "seminar return south resemble wait banana lion salon barrel below tired good";

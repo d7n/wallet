@@ -1,1 +1,1 @@
-var mnemonic = "light cannon use romance glass argue clap business image bounce beyond recipe";
+var mnemonic = "dose choice drill swear ready uphold upper school annual ice stumble cute";

@@ -1,1 +1,1 @@
-var mnemonic = "code gauge bean search way riot hint wide viable soda already innocent";
+var mnemonic = "recipe connect trend enjoy pink punch mistake wise execute grace cannon drama";

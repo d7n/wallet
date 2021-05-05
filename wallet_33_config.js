@@ -1,1 +1,1 @@
-var mnemonic = "farm visit mixture rare upper such success subject object fat brave tumble";
+var mnemonic = "fuel blue daughter floor chase robust panel field icon town lady release";

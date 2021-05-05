@@ -1,1 +1,1 @@
-var mnemonic = "dog intact certain boost cousin casino candy disorder enable chimney pipe sword";
+var mnemonic = "memory between hockey shield inside flame keen promote curve mix number fetch";

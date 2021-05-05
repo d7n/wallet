@@ -1,1 +1,1 @@
-var mnemonic = "aim machine admit giggle float various work once fix merit detect want";
+var mnemonic = "orient below practice famous monitor desert runway indicate canyon grab usage moral";

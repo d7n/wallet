@@ -1,1 +1,1 @@
-var mnemonic = "hour renew nominee enforce answer oak success penalty happy wealth display venture";
+var mnemonic = "access across sun manual rough mouse can crater school lock genre check";

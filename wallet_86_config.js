@@ -1,1 +1,1 @@
-var mnemonic = "hello donor injury sheriff acoustic angry exercise gate label public meadow pretty";
+var mnemonic = "female winter spot shove assist taxi critic hire spike drop goddess female";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol slice piano mobile alpha problem cube dirt code jar alcohol spot";
+var mnemonic = "share real shield battle excite glare educate error arch token chaos scissors";

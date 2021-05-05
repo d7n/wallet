@@ -1,1 +1,1 @@
-var mnemonic = "scatter apple pottery bus wise wrong differ wire local volcano gorilla loan";
+var mnemonic = "suggest season dance tennis turtle possible vehicle frame retreat remember hotel throw";
