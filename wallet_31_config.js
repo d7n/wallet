@@ -1,1 +1,1 @@
-var mnemonic = "crush calm mimic camera address capable gaze language purse name lens picnic";
+var mnemonic = "machine unveil denial spatial canvas control push system senior twenty victory govern";

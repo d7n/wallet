@@ -1,1 +1,1 @@
-var mnemonic = "sing fashion process pool pumpkin inject report skill elevator sponsor skull energy";
+var mnemonic = "explain figure alarm salute walk old goat rare punch figure view fame";

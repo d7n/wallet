@@ -1,1 +1,1 @@
-var mnemonic = "better intact receive pulp swap tide clinic fluid party excuse walnut supreme";
+var mnemonic = "develop youth appear afford bar scrub rival wave brother memory that nation";

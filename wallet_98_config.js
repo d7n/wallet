@@ -1,1 +1,1 @@
-var mnemonic = "tail deny fluid ordinary quantum any rain object depth acquire great code";
+var mnemonic = "garment prosper april useful pattern slim decrease grant brass plug life pioneer";

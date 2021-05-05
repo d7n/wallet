@@ -1,1 +1,1 @@
-var mnemonic = "between tiny segment flash one scatter inherit basket february soap chapter fancy";
+var mnemonic = "supreme labor episode early private romance cement hobby copy size obscure depart";

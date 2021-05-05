@@ -1,1 +1,1 @@
-var mnemonic = "canvas video rare sheriff embody body loop beauty away win design resist";
+var mnemonic = "match zoo indoor picture figure certain surprise endorse hospital melt require gun";

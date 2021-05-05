@@ -1,1 +1,1 @@
-var mnemonic = "lunar tribe duck all uncover myth bone spring corn copper cost two";
+var mnemonic = "ostrich jeans weather deposit fiction fever someone maximum market hen crouch model";

@@ -1,1 +1,1 @@
-var mnemonic = "food spray danger party between assist theory twice another panda discover ill";
+var mnemonic = "sunny swamp various hub hole sorry repeat spatial wealth hip pink search";

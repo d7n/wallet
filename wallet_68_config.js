@@ -1,1 +1,1 @@
-var mnemonic = "breeze romance beauty tree initial south across want physical parrot wet project";
+var mnemonic = "route damp nephew harsh tobacco book cluster trigger dose sustain truly wood";

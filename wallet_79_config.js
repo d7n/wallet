@@ -1,1 +1,1 @@
-var mnemonic = "when remind obey obvious soccer avoid purity curtain matrix ring negative speak";
+var mnemonic = "agree mixed era forward soup regular visa motor sudden room shuffle taste";

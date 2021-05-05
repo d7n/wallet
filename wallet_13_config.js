@@ -1,1 +1,1 @@
-var mnemonic = "firm arrest orbit relax spoil ball topple retire orient gown inherit ugly";
+var mnemonic = "age peace eyebrow vague copper youth pistol year another shoulder flash industry";

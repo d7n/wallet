@@ -1,1 +1,1 @@
-var mnemonic = "lab jacket jaguar weather cliff grain jar bleak copy bundle ahead movie";
+var mnemonic = "pool just junior identify zebra million main ribbon talk purse recipe pilot";

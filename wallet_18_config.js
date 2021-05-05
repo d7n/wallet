@@ -1,1 +1,1 @@
-var mnemonic = "guilt prefer atom erode street sweet jungle marriage taxi atom direct brain";
+var mnemonic = "tumble nominee arena era young awful aspect royal cotton legal enemy buyer";

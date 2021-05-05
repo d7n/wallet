@@ -1,1 +1,1 @@
-var mnemonic = "motion differ miracle confirm token cotton table farm wise clarify arena region";
+var mnemonic = "uphold settle gun bean stage deposit mom noodle attend warfare wage lobster";

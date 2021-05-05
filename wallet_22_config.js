@@ -1,1 +1,1 @@
-var mnemonic = "wealth royal umbrella drip labor search broom warm join aim catalog error";
+var mnemonic = "eager moment view arm place book midnight agent jewel cry celery ready";

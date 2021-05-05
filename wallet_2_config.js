@@ -1,1 +1,1 @@
-var mnemonic = "mammal buyer injury planet credit valid all trash document quality wing inhale";
+var mnemonic = "sample regular awkward alone ship staff resist near kit clown butter okay";

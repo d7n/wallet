@@ -1,1 +1,1 @@
-var mnemonic = "grow hold pipe drama plug opinion tonight chicken rug better child smoke";
+var mnemonic = "runway lyrics tonight climb symptom collect cash insane property wealth quick resist";

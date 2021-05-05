@@ -1,1 +1,1 @@
-var mnemonic = "business paddle possible early garbage lunar buddy proof spot couch hungry flat";
+var mnemonic = "empty gravity day abuse fix wife virtual another divorce gauge truck make";

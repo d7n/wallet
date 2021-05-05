@@ -1,1 +1,1 @@
-var mnemonic = "grunt benefit dog eight menu boy call derive amused neutral slam cycle";
+var mnemonic = "twist tell join enemy saddle decade turn correct hope hurdle suspect have";

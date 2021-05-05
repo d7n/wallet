@@ -1,1 +1,1 @@
-var mnemonic = "gold soda test inherit rare prevent meadow you picnic exhibit argue hurdle";
+var mnemonic = "increase tunnel entire slim tissue cement law rose name moral birth arrest";

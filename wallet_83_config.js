@@ -1,1 +1,1 @@
-var mnemonic = "human release host transfer hungry there brisk fever bridge shallow draft avocado";
+var mnemonic = "blouse umbrella horn tool near damage sauce slow truck female sunset toss";

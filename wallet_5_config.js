@@ -1,1 +1,1 @@
-var mnemonic = "equal water club avocado race any gate physical hover system find movie";
+var mnemonic = "salt hollow brave cabin require round fall endless raw tooth zebra banana";

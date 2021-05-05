@@ -1,1 +1,1 @@
-var mnemonic = "liberty like frame liberty tray turtle dry accident boost because canal churn";
+var mnemonic = "rose copper carpet blade crack coin spawn toast use luggage lava pumpkin";

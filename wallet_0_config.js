@@ -1,1 +1,1 @@
-var mnemonic = "accuse company also scan usage idle fever cry reduce already water judge";
+var mnemonic = "local marine develop leaf barrel dress critic they giant joke friend virus";

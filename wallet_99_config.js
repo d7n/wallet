@@ -1,1 +1,1 @@
-var mnemonic = "roast cement pitch output parrot rubber bright ride awful focus damp draft";
+var mnemonic = "method climb bread term genius garage text van able erode quit motion";

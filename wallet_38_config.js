@@ -1,1 +1,1 @@
-var mnemonic = "nation barrel wife logic pool summer decade crack yard north asset analyst";
+var mnemonic = "trap prepare spring frog heavy real hope yard danger panel tray small";

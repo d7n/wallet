@@ -1,1 +1,1 @@
-var mnemonic = "game mad kitchen doll unhappy actress deputy swing mystery remain flavor void";
+var mnemonic = "young whale quantum hour paddle enroll refuse suit artwork payment walnut traffic";

@@ -1,1 +1,1 @@
-var mnemonic = "advance stem make dress raise economy fashion pencil ship moon umbrella naive";
+var mnemonic = "story endorse deputy scan divert account soap casual love pottery moment tortoise";

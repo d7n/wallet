@@ -1,1 +1,1 @@
-var mnemonic = "cry invite comic earn try cricket siege near fiber vault panther share";
+var mnemonic = "section wrist twice iron region pumpkin anxiety master sing prefer eagle bundle";

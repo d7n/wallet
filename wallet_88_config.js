@@ -1,1 +1,1 @@
-var mnemonic = "replace lend mom wagon profit cloud elevator weekend moment equip female before";
+var mnemonic = "dry waste cross system shoe amused true venture thumb lesson dinner defense";

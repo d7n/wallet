@@ -1,1 +1,1 @@
-var mnemonic = "syrup oak demand mango blame thought iron panda angry ship retire crazy";
+var mnemonic = "pen embrace attack auction one review elevator hurry burst fault elite fantasy";

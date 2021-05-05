@@ -1,1 +1,1 @@
-var mnemonic = "sunset dignity thrive quarter tail silent donkey blanket candy deposit defy apple";
+var mnemonic = "gain core marriage confirm hope hybrid correct you green trend jelly mango";

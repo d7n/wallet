@@ -1,1 +1,1 @@
-var mnemonic = "foam memory cattle elevator wink want yard wife goose welcome oval table";
+var mnemonic = "verb twist large fatigue track jazz type furnace doll black easy hope";

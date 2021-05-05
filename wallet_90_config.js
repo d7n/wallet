@@ -1,1 +1,1 @@
-var mnemonic = "narrow safe roast play best virus fit oil merit motion limit robust";
+var mnemonic = "fresh rug hollow student conduct rug diet swear skin add lion quiz";

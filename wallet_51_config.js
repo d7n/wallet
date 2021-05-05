@@ -1,1 +1,1 @@
-var mnemonic = "hungry firm illness risk harsh huge mushroom media penalty happy provide item";
+var mnemonic = "rapid envelope scrap rigid soon over anxiety kidney easy abuse asthma else";

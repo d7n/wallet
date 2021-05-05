@@ -1,1 +1,1 @@
-var mnemonic = "nut stamp produce clump lesson alcohol boat width hood behind concert all";
+var mnemonic = "worth name choice song magnet toddler tiger consider midnight taste avocado upgrade";

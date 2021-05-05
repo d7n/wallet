@@ -1,1 +1,1 @@
-var mnemonic = "cry sunset profit account rhythm public picture case picture twenty angle street";
+var mnemonic = "goddess tip release purpose mirror novel desk cook void license crowd yellow";

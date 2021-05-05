@@ -1,1 +1,1 @@
-var mnemonic = "stool citizen hunt lady jar absorb hold tribe embrace best property index";
+var mnemonic = "bacon diet canal horse true kitchen sight junior circle test pledge brother";

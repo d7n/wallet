@@ -1,1 +1,1 @@
-var mnemonic = "hen erode present rose ancient foster detect note stove repeat maximum draft";
+var mnemonic = "jaguar attitude chronic motor tell hair post guess armed despair doll skill";

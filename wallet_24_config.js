@@ -1,1 +1,1 @@
-var mnemonic = "divert zoo police almost parrot place can utility embody property turkey zebra";
+var mnemonic = "over vapor pear add junk smile punch screen bench coral shock innocent";

@@ -1,1 +1,1 @@
-var mnemonic = "addict security rally quick address eagle either still select divert memory finger";
+var mnemonic = "fox firm uphold connect object frog mask shop glove hen time toss";

@@ -1,1 +1,1 @@
-var mnemonic = "topple cause lesson lounge material crime mandate balance extra orphan year pull";
+var mnemonic = "truck blue nature swim detail furnace elevator hole enemy cement urban arrange";

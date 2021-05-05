@@ -1,1 +1,1 @@
-var mnemonic = "sock render math hammer delay victory bless wing weird gloom spirit museum";
+var mnemonic = "inspire lucky million swap fall ocean raw elbow nominee lunar edit paddle";

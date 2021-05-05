@@ -1,1 +1,1 @@
-var mnemonic = "myself daughter depth lounge athlete rally fee size arrest fever soldier there";
+var mnemonic = "comic aunt virtual spin toilet power assume pride recycle retire shoulder excite";

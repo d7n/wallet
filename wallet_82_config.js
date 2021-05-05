@@ -1,1 +1,1 @@
-var mnemonic = "enable sick choose stove evil exotic pride pilot gold endless virtual praise";
+var mnemonic = "material auto radar rate ladder open kitten admit copper genuine joy clinic";

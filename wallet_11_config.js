@@ -1,1 +1,1 @@
-var mnemonic = "obey question tiger afraid corn mind skull fine suffer dish scrub repair";
+var mnemonic = "dirt castle oval danger near salad cage old budget earth elite path";

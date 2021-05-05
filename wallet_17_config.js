@@ -1,1 +1,1 @@
-var mnemonic = "economy team type walnut engine flip energy tide eyebrow immune gun blouse";
+var mnemonic = "symbol error hunt clay spider dinosaur submit pear brain when another begin";

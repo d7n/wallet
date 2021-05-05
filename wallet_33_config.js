@@ -1,1 +1,1 @@
-var mnemonic = "little lawn staff search kitchen quit woman sleep robust energy high strategy";
+var mnemonic = "stone delay cross keep anxiety script return pretty wagon message rent hidden";

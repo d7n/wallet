@@ -1,1 +1,1 @@
-var mnemonic = "lunar exile shed business butter best custom foot inherit hill online debate";
+var mnemonic = "gate humor pulp six call consider avocado machine biology novel job ridge";

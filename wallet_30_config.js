@@ -1,1 +1,1 @@
-var mnemonic = "tuna project reform reveal accuse card fox accuse whale hover elegant base";
+var mnemonic = "glide dream old minimum mesh dragon paddle seed permit dune scout squeeze";

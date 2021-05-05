@@ -1,1 +1,1 @@
-var mnemonic = "what laptop inflict tide rail churn teach chief need type mercy web";
+var mnemonic = "chronic market grit mosquito prepare sustain upgrade olive heavy market spell cup";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse stairs know impulse fan fluid strike paper material cousin legal blast";
+var mnemonic = "exclude learn humor magic tray camera reject fiscal reduce wrong company shadow";

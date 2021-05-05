@@ -1,1 +1,1 @@
-var mnemonic = "quick wing lazy legend autumn gospel will define isolate age squirrel entire";
+var mnemonic = "oblige buddy cause arctic royal basket magnet arrive today luggage figure toy";

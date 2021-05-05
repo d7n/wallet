@@ -1,1 +1,1 @@
-var mnemonic = "kingdom elder ozone grant ordinary certain medal real garage conduct genre color";
+var mnemonic = "relief control creek civil wrong pride want name crouch robust anchor primary";

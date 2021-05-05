@@ -1,1 +1,1 @@
-var mnemonic = "boost horse raccoon other buyer garment hand where flavor future lemon behave";
+var mnemonic = "artwork acquire fiction rude meat mystery addict fruit chest arena winner angry";

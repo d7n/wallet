@@ -1,1 +1,1 @@
-var mnemonic = "refuse ostrich actress pluck cube crystal story cart announce explain moment recall";
+var mnemonic = "stove grit grain twenty choice mesh beef actress month brief biology short";

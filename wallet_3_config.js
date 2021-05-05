@@ -1,1 +1,1 @@
-var mnemonic = "rebuild unusual antenna cement summer insect sketch promote all number budget exchange";
+var mnemonic = "slot found devote antique industry harbor bachelor city arena grid symptom length";

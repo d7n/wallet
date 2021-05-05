@@ -1,1 +1,1 @@
-var mnemonic = "notable inform hunt someone victory require bean weather trouble manage useless elite";
+var mnemonic = "cat warm finish slim security army october air piano host they goose";

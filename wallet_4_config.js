@@ -1,1 +1,1 @@
-var mnemonic = "explain network loan render fox crime cloth camp warm frost sunny wash";
+var mnemonic = "text ill shop next gesture bacon purity arena soldier remember scrap fiscal";

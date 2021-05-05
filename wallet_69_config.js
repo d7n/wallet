@@ -1,1 +1,1 @@
-var mnemonic = "output absorb tennis reopen force message use treat aspect also possible divorce";
+var mnemonic = "document rate jungle raw umbrella access chair grocery cement tomorrow air gain";

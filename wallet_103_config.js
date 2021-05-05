@@ -1,1 +1,1 @@
-var mnemonic = "milk digital save museum supply super account also rally argue ring talent";
+var mnemonic = "case asthma basket card ladder trial sunny measure enroll concert garage member";

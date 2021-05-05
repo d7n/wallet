@@ -1,1 +1,1 @@
-var mnemonic = "invite donkey pattern mask torch certain pioneer other report head sunny burden";
+var mnemonic = "library soap fine front empower grass hedgehog world degree win fade kingdom";

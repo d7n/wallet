@@ -1,1 +1,1 @@
-var mnemonic = "margin cover faith suffer spray pretty punch old surprise unique access put";
+var mnemonic = "general globe soldier one door fox sport plunge depend arena ring bulk";

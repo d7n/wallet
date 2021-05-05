@@ -1,1 +1,1 @@
-var mnemonic = "glass hollow prevent right senior develop window fall clutch pitch erode kiss";
+var mnemonic = "wreck square omit tree satoshi error effort unhappy tumble almost catalog unlock";

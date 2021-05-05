@@ -1,1 +1,1 @@
-var mnemonic = "clarify bounce doctor pull industry unit flush assault snap tuition comfort net";
+var mnemonic = "harbor couch medal cargo spin offer stamp world engine floor decline hobby";

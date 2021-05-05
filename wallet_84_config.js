@@ -1,1 +1,1 @@
-var mnemonic = "fringe rocket body update trigger custom display bulk laugh gloom what laptop";
+var mnemonic = "unable entry display wife life plastic clerk nominee primary that leave feature";

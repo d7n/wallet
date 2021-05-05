@@ -1,1 +1,1 @@
-var mnemonic = "all surprise bundle actress become boy often cause wine sentence park maximum";
+var mnemonic = "acquire hold camp wine deer latin beauty east exit mail usual walnut";

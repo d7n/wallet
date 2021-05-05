@@ -1,1 +1,1 @@
-var mnemonic = "enemy accuse parent seminar nature usage school verb story trust twenty mirror";
+var mnemonic = "section quiz foster able post air ability harsh decade salad luggage couch";

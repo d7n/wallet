@@ -1,1 +1,1 @@
-var mnemonic = "bulb hat disorder lock smoke field assume ask thrive next sniff kitten";
+var mnemonic = "inform coin ability share simple stadium fly loop tribe menu general fever";

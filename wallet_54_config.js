@@ -1,1 +1,1 @@
-var mnemonic = "hard outside injury reunion arrive orchard detect thunder curve style immense head";
+var mnemonic = "hip thrive later gate duck nest need spider steak sheriff essay chunk";

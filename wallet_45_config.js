@@ -1,1 +1,1 @@
-var mnemonic = "income differ know imitate chicken gadget rate canoe sugar picnic certain unit";
+var mnemonic = "limit fault cannon van wet borrow kid eye small also middle flight";

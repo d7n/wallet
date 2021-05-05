@@ -1,1 +1,1 @@
-var mnemonic = "advance speak bird gallery car hope chef mixed auto aunt spend lava";
+var mnemonic = "tennis allow neglect wink jealous doll tuna film civil pumpkin moral wasp";

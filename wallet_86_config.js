@@ -1,1 +1,1 @@
-var mnemonic = "minimum can mention section stove anger verify noise medal patrol tragic breeze";
+var mnemonic = "announce tent prison between seat pumpkin grocery target exotic winner off blouse";

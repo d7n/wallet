@@ -1,1 +1,1 @@
-var mnemonic = "cheese fee machine twin follow monkey beef piece elder marriage jaguar tomato";
+var mnemonic = "cradle exotic dentist coin high scorpion purity bomb basic zoo scare puppy";

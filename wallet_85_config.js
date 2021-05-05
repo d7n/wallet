@@ -1,1 +1,1 @@
-var mnemonic = "year ivory ancient muscle slush damage resource trial pioneer victory disorder bike";
+var mnemonic = "pattern tell black crack turn chunk squirrel park tenant alert furnace two";

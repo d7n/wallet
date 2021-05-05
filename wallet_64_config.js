@@ -1,1 +1,1 @@
-var mnemonic = "civil mixed render fruit ask share brick rent hungry risk maze vanish";
+var mnemonic = "baby daring vendor youth memory brain frequent flavor educate tilt ability violin";

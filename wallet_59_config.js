@@ -1,1 +1,1 @@
-var mnemonic = "lend busy brick pupil impose section punch stay parent habit effort cancel";
+var mnemonic = "spray razor news deer delay lyrics effort truck cabin captain ceiling upset";

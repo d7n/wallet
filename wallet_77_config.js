@@ -1,1 +1,1 @@
-var mnemonic = "marine board math woman obscure key evil wait correct logic enhance asset";
+var mnemonic = "replace select seat demand spend life whisper invite increase add error alien";

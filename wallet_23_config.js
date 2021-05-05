@@ -1,1 +1,1 @@
-var mnemonic = "boss drum obtain method pill palm abuse volume layer humor theory copper";
+var mnemonic = "have blood tail stairs onion prison supply coyote raw lazy keep maple";

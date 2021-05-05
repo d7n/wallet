@@ -1,1 +1,1 @@
-var mnemonic = "town exist example cousin jaguar sort judge weapon decade garment busy chat";
+var mnemonic = "romance napkin average normal cupboard excess south cereal juice wisdom bus special";

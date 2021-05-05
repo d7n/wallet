@@ -1,1 +1,1 @@
-var mnemonic = "toast author fold install silent grab tennis crumble book mixed depth size";
+var mnemonic = "aisle apple educate text dinosaur dizzy casino forget involve dice setup final";

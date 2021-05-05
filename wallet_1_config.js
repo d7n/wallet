@@ -1,1 +1,1 @@
-var mnemonic = "jealous addict envelope undo burger common anxiety fashion also hundred neutral float";
+var mnemonic = "drop dolphin inside brother daring unusual permit drastic shrimp remind unlock equip";

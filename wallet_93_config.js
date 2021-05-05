@@ -1,1 +1,1 @@
-var mnemonic = "tragic image climb tomato ramp wrap voice mother lecture defense street radio";
+var mnemonic = "sand acoustic arrive cereal prepare slice tonight siege siege rocket seminar cream";

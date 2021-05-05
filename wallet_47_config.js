@@ -1,1 +1,1 @@
-var mnemonic = "girl blood pony exile reward runway nothing toward pen govern carbon viable";
+var mnemonic = "mixture drift coyote prosper attack ticket van become steel salad limit theory";

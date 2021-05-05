@@ -1,1 +1,1 @@
-var mnemonic = "drive exclude quarter when spot cabin narrow fruit must must split six";
+var mnemonic = "tortoise fall ketchup kiss remain inside claim wrestle skill green section parade";

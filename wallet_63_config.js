@@ -1,1 +1,1 @@
-var mnemonic = "toast summer night potato hill sea twenty wrestle undo carpet mass amused";
+var mnemonic = "slice merge chunk swarm scene emerge kidney oak screen urban dentist useful";

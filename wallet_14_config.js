@@ -1,1 +1,1 @@
-var mnemonic = "analyst arm near crystal critic ball sauce lunar picnic cushion estate broom";
+var mnemonic = "know naive close gossip traffic lemon speak liberty adapt uniform length super";

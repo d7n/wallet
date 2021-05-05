@@ -1,1 +1,1 @@
-var mnemonic = "daughter radio afford mix garment material defense atom cable hour tag unhappy";
+var mnemonic = "water bid enemy oven jungle antenna tongue depend siege craft refuse evolve";

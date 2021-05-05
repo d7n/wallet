@@ -1,1 +1,1 @@
-var mnemonic = "lobster clarify lunch nasty faith online improve gas prosper dumb violin limit";
+var mnemonic = "news liquid rail famous sword cloth effort another gain ostrich zoo climb";

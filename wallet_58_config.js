@@ -1,1 +1,1 @@
-var mnemonic = "field pony nation hole video slice mutual advance example kind pipe fiction";
+var mnemonic = "success voyage climb earn rose silver sure apple trick measure ozone giggle";

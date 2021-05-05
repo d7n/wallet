@@ -1,1 +1,1 @@
-var mnemonic = "soccer more bachelor occur section ladder system medal fit alter usage cliff";
+var mnemonic = "abuse away film blur develop model unhappy segment dog double salad dad";

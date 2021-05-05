@@ -1,1 +1,1 @@
-var mnemonic = "time sleep ridge prison order better venture industry insane collect balance child";
+var mnemonic = "almost core already sand property wise sauce notice torch interest bless exist";
