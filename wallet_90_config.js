@@ -1,1 +1,1 @@
-var mnemonic = "panic able trend spare truth senior defense gun powder bracket analyst foster";
+var mnemonic = "arrest speak police tower round rhythm improve flash elder dynamic bird hair";

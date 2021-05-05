@@ -1,1 +1,1 @@
-var mnemonic = "jazz crash cute sick mule kite soft carbon slim swear disagree enroll";
+var mnemonic = "tiger document march bulb survey decrease nation easily code capital whale grocery";

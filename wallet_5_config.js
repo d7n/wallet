@@ -1,1 +1,1 @@
-var mnemonic = "number suit else electric harbor small such coral broom such mind few";
+var mnemonic = "desert dinosaur wage achieve tortoise general bright neck patient magic praise pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "hint connect need mixture balance manage tenant victory endorse call special crystal";
+var mnemonic = "dwarf original curve vivid hungry latin crystal season suffer tray dish link";

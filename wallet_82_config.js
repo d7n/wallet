@@ -1,1 +1,1 @@
-var mnemonic = "useless isolate upgrade era refuse detail excite coast abstract old pepper uniform";
+var mnemonic = "weekend real swear devote original human sting resemble breeze path version off";

@@ -1,1 +1,1 @@
-var mnemonic = "cash flush town exit mixed love quiz umbrella foot click luxury cake";
+var mnemonic = "brand cover bless lizard goose teach kitchen office drop pool boring aunt";

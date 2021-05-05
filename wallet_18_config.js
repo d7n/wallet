@@ -1,1 +1,1 @@
-var mnemonic = "practice review evolve river blade spike dizzy stairs cinnamon apple grief when";
+var mnemonic = "shell lounge skull present urge unknown wage inspire mushroom antique urge present";

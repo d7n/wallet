@@ -1,1 +1,1 @@
-var mnemonic = "giraffe coconut section toward goat defense wagon perfect wear puppy immune mother";
+var mnemonic = "push welcome endless rent narrow piece spell always chicken suspect nest hope";

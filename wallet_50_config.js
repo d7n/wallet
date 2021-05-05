@@ -1,1 +1,1 @@
-var mnemonic = "option fiscal student suffer neglect vague funny private intact learn buddy across";
+var mnemonic = "attitude churn skill fork receive core thing occur muffin torch nothing joy";

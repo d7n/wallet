@@ -1,1 +1,1 @@
-var mnemonic = "today vapor proud oblige explain save cricket injury year trend worth cargo";
+var mnemonic = "gadget unhappy parrot eyebrow wash remove family item convince sad pave okay";

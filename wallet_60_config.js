@@ -1,1 +1,1 @@
-var mnemonic = "list blush spoil auto winter raccoon spare offer reopen dove try island";
+var mnemonic = "kind any crucial brick tower crush office castle caution little uphold clever";

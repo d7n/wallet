@@ -1,1 +1,1 @@
-var mnemonic = "hockey abstract glory bottom caught fall jaguar human aspect achieve clump quote";
+var mnemonic = "bean general that churn flag lizard arena radar crazy draw picnic rabbit";

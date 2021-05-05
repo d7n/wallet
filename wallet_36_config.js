@@ -1,1 +1,1 @@
-var mnemonic = "robust barrel town close state impact ceiling audit grocery salt direct whisper";
+var mnemonic = "arrive ankle size rail typical lab citizen prosper aware same elephant fever";

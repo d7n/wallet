@@ -1,1 +1,1 @@
-var mnemonic = "assume end region engage loud inside era hen twenty fine member float";
+var mnemonic = "rigid absorb famous junk flag lawn wink frame filter dog panel depend";

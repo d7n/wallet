@@ -1,1 +1,1 @@
-var mnemonic = "skill humble bag core adult merry profit seat pull taste daughter rabbit";
+var mnemonic = "original glad tattoo dice cry verify explain divorce garlic unaware panic limit";

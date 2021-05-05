@@ -1,1 +1,1 @@
-var mnemonic = "traffic funny layer fine educate scatter wish vocal flush they refuse screen";
+var mnemonic = "put love guide prize judge wear pact token resemble eternal wrong puzzle";

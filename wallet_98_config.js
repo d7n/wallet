@@ -1,1 +1,1 @@
-var mnemonic = "domain soon ivory pledge buddy powder cigar fame dad second pumpkin valley";
+var mnemonic = "often mosquito squirrel vivid step news discover wonder rude innocent blind orient";

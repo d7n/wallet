@@ -1,1 +1,1 @@
-var mnemonic = "zoo recycle plate easy mule stand alarm save disagree envelope inflict wolf";
+var mnemonic = "surge furnace sauce come hill ugly summer nasty rifle fiber legend subject";

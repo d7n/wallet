@@ -1,1 +1,1 @@
-var mnemonic = "erupt error border bar rich appear maid waste scheme soda math powder";
+var mnemonic = "license auction flock viable eyebrow found potato produce buddy truly tone soft";

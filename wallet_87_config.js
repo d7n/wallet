@@ -1,1 +1,1 @@
-var mnemonic = "sphere relax glow immune fee peace shoot ghost tube earth noodle must";
+var mnemonic = "gift tobacco space divert cannon make impact comic fence envelope cry pilot";

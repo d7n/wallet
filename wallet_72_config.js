@@ -1,1 +1,1 @@
-var mnemonic = "syrup south mesh topic cousin ramp vast smart distance street minute despair";
+var mnemonic = "mobile such runway offer demand calm matrix woman liquid sauce include science";

@@ -1,1 +1,1 @@
-var mnemonic = "client spike jar over chat risk thank romance left tomato lake embrace";
+var mnemonic = "ocean shop cluster elbow afraid scrap forget hub until fury easy resource";

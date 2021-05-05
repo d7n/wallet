@@ -1,1 +1,1 @@
-var mnemonic = "zebra word avoid topic champion buddy foster jar faith turkey tomorrow seminar";
+var mnemonic = "core mandate provide novel wrap drastic ordinary lab toilet exchange mystery home";

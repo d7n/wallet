@@ -1,1 +1,1 @@
-var mnemonic = "supreme enforce crush snow marble predict rose upon state crunch harsh identify";
+var mnemonic = "crater excess powder cinnamon angry ranch rebel sword edit lesson image marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "adapt crazy size what scare luxury mechanic velvet sea city frozen dose";
+var mnemonic = "design control left final skate tattoo artist despair floor option return unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "sing reopen involve shock provide answer leg fabric laundry pigeon entire creek";
+var mnemonic = "drill accident cave domain current uncle employ grace mosquito lab fine holiday";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum mutual luggage hungry disease student cluster swing method stock topple media";
+var mnemonic = "approve believe filter reward image drastic interest step express what match one";

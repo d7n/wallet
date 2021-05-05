@@ -1,1 +1,1 @@
-var mnemonic = "beyond angle reason edit order palm abstract utility visa dentist sound grain";
+var mnemonic = "buyer room defense year rose inhale together phone casual adjust hard drift";

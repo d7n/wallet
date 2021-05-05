@@ -1,1 +1,1 @@
-var mnemonic = "chief differ try endless struggle abstract art off behave village urban income";
+var mnemonic = "room wine ranch board cushion jungle once miss travel planet demand coin";

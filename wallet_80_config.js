@@ -1,1 +1,1 @@
-var mnemonic = "abstract sing east nominee half bright gospel tongue vibrant price bracket talent";
+var mnemonic = "rare job daring sock model borrow glide fabric filter embody maple act";

@@ -1,1 +1,1 @@
-var mnemonic = "glass cement soft lazy bottom fetch domain icon era raccoon angle time";
+var mnemonic = "forest traffic arm time crumble wise salt forward rescue kitten furnace salute";

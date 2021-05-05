@@ -1,1 +1,1 @@
-var mnemonic = "sail skate soul flock solid tobacco pepper life lava fog dash anxiety";
+var mnemonic = "movie velvet scale gather aware turkey awkward satoshi profit answer shoulder rather";

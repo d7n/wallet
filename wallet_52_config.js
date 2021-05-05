@@ -1,1 +1,1 @@
-var mnemonic = "cliff chief situate giraffe soap property predict knife theory rescue pool dash";
+var mnemonic = "sing hammer liar grape soft boost pilot observe edit next hospital assault";

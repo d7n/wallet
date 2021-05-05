@@ -1,1 +1,1 @@
-var mnemonic = "trust fun key wage about buyer usual property suspect lava marble educate";
+var mnemonic = "strong mix bind jealous focus orchard empower tenant card under month rain";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion palm unique quality snow anger scrap actual audit chicken walnut execute";
+var mnemonic = "acid useless vapor lawsuit club cabin unfold brief laundry wear foil text";

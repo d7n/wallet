@@ -1,1 +1,1 @@
-var mnemonic = "dish that skin audit inject sauce cycle grain column daughter solve solar";
+var mnemonic = "kiss anchor asthma lesson fault smart rail minimum thank supreme annual team";

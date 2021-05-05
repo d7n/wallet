@@ -1,1 +1,1 @@
-var mnemonic = "access text garment bar yard course sorry repeat enable group dirt tuition";
+var mnemonic = "silver debate antenna jeans oyster supply phrase bless glory eyebrow accident thing";

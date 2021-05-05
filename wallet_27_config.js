@@ -1,1 +1,1 @@
-var mnemonic = "maid market tone rescue title alien fantasy enough inflict scorpion shed scale";
+var mnemonic = "nation when giant mountain swarm edit cotton duck online universe source million";

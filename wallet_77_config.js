@@ -1,1 +1,1 @@
-var mnemonic = "february tower base old sort matter youth approve series occur teach paper";
+var mnemonic = "cluster income type student clip school armor captain moral fantasy alone develop";

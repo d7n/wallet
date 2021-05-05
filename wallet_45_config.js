@@ -1,1 +1,1 @@
-var mnemonic = "tiger family consider slim glance west acid erode situate tongue total maple";
+var mnemonic = "pass title scan tomorrow midnight celery unaware foil vanish popular sign trap";

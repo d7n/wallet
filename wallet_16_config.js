@@ -1,1 +1,1 @@
-var mnemonic = "then cherry mule mystery urban blind guide matrix solve link sort harbor";
+var mnemonic = "chalk stock acid moment shiver bubble oak attitude like roast pottery own";

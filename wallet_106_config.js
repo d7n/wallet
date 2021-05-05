@@ -1,1 +1,1 @@
-var mnemonic = "sail autumn lemon abstract doll language sample retreat milk couch fuel jungle";
+var mnemonic = "absorb refuse roast gown tomato destroy romance upon balcony bronze unusual uniform";

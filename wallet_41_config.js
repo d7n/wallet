@@ -1,1 +1,1 @@
-var mnemonic = "sample shiver april knee idea bridge sing mushroom wreck vintage expect bus";
+var mnemonic = "blanket remove bottom chuckle urban owner frog tobacco obey shaft pill bird";

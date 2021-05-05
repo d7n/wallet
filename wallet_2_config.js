@@ -1,1 +1,1 @@
-var mnemonic = "hard moral reopen category mail surge rifle ostrich street stable theory come";
+var mnemonic = "response swallow inch destroy liberty carbon jaguar slab guilt deputy guitar round";

@@ -1,1 +1,1 @@
-var mnemonic = "issue crucial habit runway express success member globe volcano skirt shock fresh";
+var mnemonic = "behave pond junior smart glance sport defense casual spell sport refuse debris";

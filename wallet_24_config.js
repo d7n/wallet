@@ -1,1 +1,1 @@
-var mnemonic = "guitar onion matrix march drip reduce main stand clinic fruit blame never";
+var mnemonic = "swift gift metal absurd gain web north inner thought rebel book deal";

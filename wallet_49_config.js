@@ -1,1 +1,1 @@
-var mnemonic = "number buddy eight afraid federal rabbit arm eye sea expose lawn federal";
+var mnemonic = "cream glide exact soon same junior demand lecture bleak wagon uniform canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "discover actual kid grief match awesome brother humor oak broom drift acid";
+var mnemonic = "stumble pave verb shock pretty firm assume enroll smile supreme tilt garden";

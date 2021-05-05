@@ -1,1 +1,1 @@
-var mnemonic = "april tower prefer thrive vendor damp bitter horn remove wife brother chicken";
+var mnemonic = "deposit medal giant hub admit great token plug speed awful deal card";

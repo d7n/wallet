@@ -1,1 +1,1 @@
-var mnemonic = "fine pause mom legal lawsuit nation nasty dawn minute want draw gesture";
+var mnemonic = "carry renew task bring club fiction shock nothing remind monster divert fuel";

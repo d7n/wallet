@@ -1,1 +1,1 @@
-var mnemonic = "because eternal twist soda opinion gloom labor siren roof safe monitor range";
+var mnemonic = "scare snap nephew bless traffic card silk east minimum aisle decrease bus";

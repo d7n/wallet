@@ -1,1 +1,1 @@
-var mnemonic = "pole hunt suspect zone income hidden century bleak ocean subject gloom round";
+var mnemonic = "paddle zero one leave phrase river exit rack bring toilet rain cat";

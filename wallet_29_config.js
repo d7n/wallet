@@ -1,1 +1,1 @@
-var mnemonic = "can void lawsuit across size tribe toss assist still mix panic nature";
+var mnemonic = "sleep assume aspect change fold total catalog purity garage patch truck flower";

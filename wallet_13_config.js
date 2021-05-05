@@ -1,1 +1,1 @@
-var mnemonic = "advice vendor vague bullet goose satoshi industry case game exile airport member";
+var mnemonic = "eyebrow future cricket color when roast crew modify laptop garden page three";

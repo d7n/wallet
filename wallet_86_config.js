@@ -1,1 +1,1 @@
-var mnemonic = "sun vast broken disorder drink wine protect blade human put double label";
+var mnemonic = "come idea error rough jeans primary session play change pact wife correct";

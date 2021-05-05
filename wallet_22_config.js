@@ -1,1 +1,1 @@
-var mnemonic = "list palm spy family upset glove fat prepare girl olympic also share";
+var mnemonic = "tower debate caught proof because total upset film spike deal season shadow";

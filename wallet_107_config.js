@@ -1,1 +1,1 @@
-var mnemonic = "valid merry athlete stable rail turkey husband inform river pink among suggest";
+var mnemonic = "pupil spin avoid horror twin child van domain secret inch vehicle page";

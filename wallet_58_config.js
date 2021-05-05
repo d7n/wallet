@@ -1,1 +1,1 @@
-var mnemonic = "above swallow rib believe people pluck inflict second field slice rubber swift";
+var mnemonic = "exhibit auto slim forward pig source know always hole section push sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "toward bench badge ketchup print label small gather foster any vote merit";
+var mnemonic = "wrap host expire hurt wash seed unlock fix melody juice shy seek";

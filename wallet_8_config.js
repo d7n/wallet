@@ -1,1 +1,1 @@
-var mnemonic = "vocal glance actual earth prevent faith desert credit topic battle miracle few";
+var mnemonic = "glue match crowd soda secret pizza tell nothing inmate prison item submit";

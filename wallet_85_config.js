@@ -1,1 +1,1 @@
-var mnemonic = "phrase advice snap enforce later grunt cluster churn clock rhythm review life";
+var mnemonic = "suit birth glare valid shy rail blast local involve eternal market peanut";

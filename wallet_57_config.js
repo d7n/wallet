@@ -1,1 +1,1 @@
-var mnemonic = "camera device achieve impose welcome until afraid off safe earth muffin twin";
+var mnemonic = "enable machine advice long dinosaur swing fragile youth sting gaze settle act";

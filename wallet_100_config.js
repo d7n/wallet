@@ -1,1 +1,1 @@
-var mnemonic = "swing actress multiply sea common burst ice husband cloud now accident awkward";
+var mnemonic = "enough high winner envelope foot seat please ready theme diamond holiday solve";

@@ -1,1 +1,1 @@
-var mnemonic = "shoulder joy cupboard panel height burger attitude link inch hill empty motion";
+var mnemonic = "orange kick creek upon paddle luggage slot unaware enrich slow salt furnace";

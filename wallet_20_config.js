@@ -1,1 +1,1 @@
-var mnemonic = "omit upgrade census essence include debris auto appear tumble deposit belt hazard";
+var mnemonic = "oppose certain protect bless truly example dilemma artefact zebra oxygen reduce alarm";

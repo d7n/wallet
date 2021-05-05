@@ -1,1 +1,1 @@
-var mnemonic = "sight minimum decide humor grief night rich narrow reward top drill impulse";
+var mnemonic = "wine auction margin strike wheat veteran burst venue little response large whisper";

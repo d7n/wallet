@@ -1,1 +1,1 @@
-var mnemonic = "resource renew achieve whale glance vocal number fence motion seat first shoot";
+var mnemonic = "rice lizard weather act remain sustain blast slab autumn reveal crawl output";

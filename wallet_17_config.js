@@ -1,1 +1,1 @@
-var mnemonic = "kiwi open large open father inmate reveal approve advance vapor badge gain";
+var mnemonic = "tortoise badge prison merry wasp team banana wine bullet small minute model";

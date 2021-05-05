@@ -1,1 +1,1 @@
-var mnemonic = "velvet friend immense ostrich alert cruel hazard gap margin swap crucial apple";
+var mnemonic = "tonight nature never economy trim twist honey surround amazing oblige that shine";

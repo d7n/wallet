@@ -1,1 +1,1 @@
-var mnemonic = "lazy trip damage lazy luggage cactus grass enrich circle heart exist strike";
+var mnemonic = "wide extra luxury face valid climb excite zone provide flock six arrest";

@@ -1,1 +1,1 @@
-var mnemonic = "brown curious glimpse struggle permit tube hurry mirror vendor asset december jeans";
+var mnemonic = "execute inside example tank adjust domain quick advice reject apology segment royal";

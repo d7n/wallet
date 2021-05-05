@@ -1,1 +1,1 @@
-var mnemonic = "drive visual shiver exclude regular front grit trap local cost patrol merit";
+var mnemonic = "magnet portion egg list way indoor eyebrow pizza slogan stand island filter";

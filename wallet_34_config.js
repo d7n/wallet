@@ -1,1 +1,1 @@
-var mnemonic = "ginger school annual curtain absent welcome laptop oblige thing enjoy emotion input";
+var mnemonic = "conduct awkward have keep pause behave original ugly rather pact uncover result";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil return duck arrange uncle typical promote island sense hood trick invite";
+var mnemonic = "alien lava merry aerobic sting omit dutch fine crisp report opinion rhythm";

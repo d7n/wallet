@@ -1,1 +1,1 @@
-var mnemonic = "year orchard spawn page furnace cable leaf poverty giraffe race comic offer";
+var mnemonic = "shine shaft trust game scout bundle blame empower album birth month social";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum neglect drill web major able rhythm leaf blouse slim film ancient";
+var mnemonic = "story equal robot improve either sibling route melody mushroom stay join smile";

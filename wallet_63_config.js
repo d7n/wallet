@@ -1,1 +1,1 @@
-var mnemonic = "cage draft result open light head coin fatal pitch crush grocery drop";
+var mnemonic = "private metal drum fitness figure caution consider option quiz act crystal vast";

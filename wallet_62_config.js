@@ -1,1 +1,1 @@
-var mnemonic = "citizen okay caught nasty churn physical sugar cement early scrap electric monitor";
+var mnemonic = "market pave return rent jealous beauty cruise jar rose client tissue lyrics";

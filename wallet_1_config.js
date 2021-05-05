@@ -1,1 +1,1 @@
-var mnemonic = "clarify bone host afford hat day supreme season ball net spatial steel";
+var mnemonic = "purchase interest ship tribe critic fuel comfort donate gift rebuild security federal";

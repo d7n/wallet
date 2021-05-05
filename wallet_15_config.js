@@ -1,1 +1,1 @@
-var mnemonic = "brain desert asset velvet neglect mushroom betray awkward bacon person ankle husband";
+var mnemonic = "argue away arrange laugh gadget toss random similar text burden renew empower";

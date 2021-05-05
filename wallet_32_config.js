@@ -1,1 +1,1 @@
-var mnemonic = "situate job unable doll horn smoke siren you slice announce robot window";
+var mnemonic = "bone job empower about electric before ready track venue wheat cheap index";

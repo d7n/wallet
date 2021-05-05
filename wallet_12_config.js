@@ -1,1 +1,1 @@
-var mnemonic = "panda still video feel pool success author major camera enter inquiry grace";
+var mnemonic = "develop fetch want point image erase include relax boring syrup pass evolve";

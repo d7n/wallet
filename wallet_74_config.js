@@ -1,1 +1,1 @@
-var mnemonic = "fat tobacco insane nurse clutch meat slab royal glance struggle diesel gift";
+var mnemonic = "grace force inhale naive faculty friend jar seminar inch jealous provide venue";

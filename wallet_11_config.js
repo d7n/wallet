@@ -1,1 +1,1 @@
-var mnemonic = "fatal oven secret asset february prison feel cheese brief garbage robot dwarf";
+var mnemonic = "pear volume jaguar lottery off warfare patch arrow blue oak talk wide";

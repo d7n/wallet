@@ -1,1 +1,1 @@
-var mnemonic = "fun poverty acid rival inject such prevent boost aunt demand prosper donate";
+var mnemonic = "kangaroo regular chimney daring pulse youth violin garage come lift include reflect";

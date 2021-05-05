@@ -1,1 +1,1 @@
-var mnemonic = "frog cousin proud index attract simple tuna agent pause liberty limit tail";
+var mnemonic = "program vintage cactus thunder cry tomorrow addict gentle mammal else infant certain";

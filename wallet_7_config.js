@@ -1,1 +1,1 @@
-var mnemonic = "farm convince tray mail february eagle neither tray useless various permit play";
+var mnemonic = "butter cruel trash home grocery book grow youth online unaware voice resource";

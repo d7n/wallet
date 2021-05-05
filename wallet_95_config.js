@@ -1,1 +1,1 @@
-var mnemonic = "float fun volume dad private delay call model amateur vanish marriage tonight";
+var mnemonic = "bless pony syrup quality olympic size divorce hunt magic impact island insane";

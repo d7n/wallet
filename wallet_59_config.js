@@ -1,1 +1,1 @@
-var mnemonic = "embark upset security goat patch size supreme spatial athlete waste drive addict";
+var mnemonic = "ready clarify water direct say rich slice party trouble fossil hover project";

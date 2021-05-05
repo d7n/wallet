@@ -1,1 +1,1 @@
-var mnemonic = "brother tail puzzle review donate grow marriage pig spice unhappy arrive ahead";
+var mnemonic = "deer actor lake brass setup cancel pitch ten trim arch embrace pattern";

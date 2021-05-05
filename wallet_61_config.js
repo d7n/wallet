@@ -1,1 +1,1 @@
-var mnemonic = "inherit couch neutral inquiry cable lens picnic genuine judge jeans item crash";
+var mnemonic = "sibling range dust buffalo impact frown young summer truth attack combine stomach";

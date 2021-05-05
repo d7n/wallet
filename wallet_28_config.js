@@ -1,1 +1,1 @@
-var mnemonic = "try radio tone gadget cage month dice luxury clap clown chest gown";
+var mnemonic = "utility trophy diesel keen sail lobster visit sure source unique soccer that";

@@ -1,1 +1,1 @@
-var mnemonic = "hollow forum asthma dance elevator furnace neutral obey animal tissue more vital";
+var mnemonic = "begin wolf detect small egg erode office iron about tree alarm estate";

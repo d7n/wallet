@@ -1,1 +1,1 @@
-var mnemonic = "miracle holiday chimney powder process wrap congress step bean custom health cupboard";
+var mnemonic = "amazing mother silver obey permit drum exhaust lake review average client hour";

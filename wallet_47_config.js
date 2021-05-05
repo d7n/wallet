@@ -1,1 +1,1 @@
-var mnemonic = "lawn fan sing rich style reward mandate march effort gesture approve tortoise";
+var mnemonic = "tongue endless curtain mansion ensure reopen shift skate surprise inject unlock piece";

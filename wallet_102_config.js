@@ -1,1 +1,1 @@
-var mnemonic = "mechanic whisper dad viable spot curtain guard skate pig bring oil tide";
+var mnemonic = "trophy reveal present three monitor resist high panther nest gun unhappy opinion";

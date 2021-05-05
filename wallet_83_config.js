@@ -1,1 +1,1 @@
-var mnemonic = "topple absorb finish screen remain mammal belt slot raven recycle evil wood";
+var mnemonic = "cross island success boy chief mention birth lonely obvious pond illness horse";

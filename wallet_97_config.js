@@ -1,1 +1,1 @@
-var mnemonic = "gate deliver asset nominee blood velvet finger enemy wasp feel weasel subway";
+var mnemonic = "demise audit lamp chef endless silver memory harsh mandate actor word mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny gown risk civil toss post liquid maze grief capable planet collect";
+var mnemonic = "until alone session brain auction broken pumpkin destroy page make bargain satoshi";
