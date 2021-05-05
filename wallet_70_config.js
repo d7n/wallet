@@ -1,1 +1,1 @@
-var mnemonic = "evil chest knock during behind pigeon around wear file coral around magnet";
+var mnemonic = "gap lamp marine gentle girl myself noble face taxi chest hybrid eternal";

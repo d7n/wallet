@@ -1,1 +1,1 @@
-var mnemonic = "angry noodle route tourist slight close broom utility found drive sugar fan";
+var mnemonic = "right expose exotic grocery urban conduct nest satisfy key satisfy east brisk";

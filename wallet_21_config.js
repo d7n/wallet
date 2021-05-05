@@ -1,1 +1,1 @@
-var mnemonic = "virus dentist situate success worth pledge win sail grab fragile squirrel answer";
+var mnemonic = "mistake oppose identify engage magnet error banana husband sudden nothing world cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "such net gauge monitor edge kite mind long museum alley walk sketch";
+var mnemonic = "crop gain great fun fat judge pattern night reopen earn machine actual";

@@ -1,1 +1,1 @@
-var mnemonic = "merit eager age salute desert cliff lounge indoor daring spider plug tortoise";
+var mnemonic = "try repair win essay stand mimic catalog oval weapon banana mutual tree";

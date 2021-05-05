@@ -1,1 +1,1 @@
-var mnemonic = "laundry vacant pool catalog lazy claim property wage emotion promote rib impact";
+var mnemonic = "grunt raven unusual acquire exact bonus clerk ice soap pond combine make";

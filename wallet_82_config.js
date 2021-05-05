@@ -1,1 +1,1 @@
-var mnemonic = "broken forum water parrot velvet remain decline marriage energy glare slight tomato";
+var mnemonic = "month army barely grab then leader gossip talent funny survey question shove";

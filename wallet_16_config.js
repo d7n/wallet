@@ -1,1 +1,1 @@
-var mnemonic = "throw chimney admit bid hungry answer flee board demise train endless dog";
+var mnemonic = "clap viable pact ranch gather final sad angle uncle cause own treat";

@@ -1,1 +1,1 @@
-var mnemonic = "poet photo elephant switch live speed denial apple unusual piano dwarf grit";
+var mnemonic = "maple endorse enrich sorry type film raven sight invest crunch jump midnight";

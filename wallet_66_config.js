@@ -1,1 +1,1 @@
-var mnemonic = "crush drift point tomorrow swallow pet about ice refuse grass rally violin";
+var mnemonic = "crop donkey invite flat come matter text guess bridge curious burden pony";

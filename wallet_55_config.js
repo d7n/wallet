@@ -1,1 +1,1 @@
-var mnemonic = "discover citizen spoon village return venue sadness poem blast frog dress crawl";
+var mnemonic = "wrestle sport video urban arrive robust almost island one marble run word";

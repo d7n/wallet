@@ -1,1 +1,1 @@
-var mnemonic = "virus audit spy click bone solar unit install clerk enter foot grief";
+var mnemonic = "whale win spray van impose swear stamp myself race file assault edit";

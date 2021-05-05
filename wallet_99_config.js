@@ -1,1 +1,1 @@
-var mnemonic = "rotate moon select degree erase stairs silk family cliff danger swap bus";
+var mnemonic = "drum dash catch hill novel rich coin unveil canyon crucial pitch swallow";

@@ -1,1 +1,1 @@
-var mnemonic = "sure tube topple turtle advance crime opinion sure soap carry flip speak";
+var mnemonic = "alone predict retreat viable hidden future pitch give daughter kangaroo visual stock";

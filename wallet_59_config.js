@@ -1,1 +1,1 @@
-var mnemonic = "normal flavor invite cover range page valley load near wolf resource inside";
+var mnemonic = "situate embark ozone claim hole green announce awful force various bargain base";

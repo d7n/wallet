@@ -1,1 +1,1 @@
-var mnemonic = "brave mouse hamster group jazz spend forget grain cry enjoy scout proof";
+var mnemonic = "element also roof blossom squeeze image ocean together floor task joy salad";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing dignity stand twenty carbon fat sad flock girl search above equip";
+var mnemonic = "civil champion marble mixed rack left prosper artefact mystery keep erupt narrow";

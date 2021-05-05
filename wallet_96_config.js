@@ -1,1 +1,1 @@
-var mnemonic = "pond build soft husband hobby clock join glare slide slot garbage rapid";
+var mnemonic = "one winter police thunder repair make caution hunt peace word sibling truck";

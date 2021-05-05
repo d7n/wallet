@@ -1,1 +1,1 @@
-var mnemonic = "any oil obtain disease lift tennis write spatial lonely grace frozen kiwi";
+var mnemonic = "woman fix author dish ride dial together swift sorry super level fortune";

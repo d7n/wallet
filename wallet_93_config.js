@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow virus volcano stone address snack friend year finish help know bag";
+var mnemonic = "famous melody genius element pact close cloud jeans slow outer woman baby";

@@ -1,1 +1,1 @@
-var mnemonic = "husband please shell electric win flip grow mean payment nose soldier seminar";
+var mnemonic = "expire critic youth busy clinic lemon smooth chef major stand unlock pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "hollow dinner camera step dawn noodle leaf front cancel bomb short easy";
+var mnemonic = "scatter race clip furnace army corn remain hen park tobacco girl sell";

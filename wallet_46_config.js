@@ -1,1 +1,1 @@
-var mnemonic = "silent push where curtain umbrella fan uphold example thunder chunk flash goat";
+var mnemonic = "craft stock autumn example extra raise amount chat broken chunk typical misery";

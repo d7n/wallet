@@ -1,1 +1,1 @@
-var mnemonic = "world bench glance motor shop kiss fuel lobster federal loyal exact orange";
+var mnemonic = "program clarify rubber fatal identify spin patrol trap burst wish foam local";

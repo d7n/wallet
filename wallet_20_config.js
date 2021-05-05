@@ -1,1 +1,1 @@
-var mnemonic = "nephew rebuild manual tip theory clog deny inform sponsor park trigger market";
+var mnemonic = "mountain wage embody alcohol later seek shoe cement knock patrol novel effort";

@@ -1,1 +1,1 @@
-var mnemonic = "nature ship diesel hour critic radar narrow alarm borrow allow snake faint";
+var mnemonic = "kit sense kiss layer decade female mosquito tuna tattoo silver van foot";

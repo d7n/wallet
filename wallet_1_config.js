@@ -1,1 +1,1 @@
-var mnemonic = "worry fashion bone win sponsor tone zoo action account drastic lock gas";
+var mnemonic = "squirrel elbow client powder model differ because crystal picnic mammal border desert";

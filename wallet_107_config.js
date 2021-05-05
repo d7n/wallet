@@ -1,1 +1,1 @@
-var mnemonic = "public vast now rigid six foam meat multiply skull inflict either initial";
+var mnemonic = "sister target about undo tourist industry foot time image chase equip opinion";

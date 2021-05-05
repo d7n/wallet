@@ -1,1 +1,1 @@
-var mnemonic = "join either wish wine fuel neglect company twenty early teach seed rubber";
+var mnemonic = "stem fence pill message patrol adult opinion will step upon occur choice";

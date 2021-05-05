@@ -1,1 +1,1 @@
-var mnemonic = "raise spice ghost appear trip fork normal sorry plug frown best curtain";
+var mnemonic = "tone snap claw captain blossom bronze stamp hundred trade prosper distance charge";

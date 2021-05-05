@@ -1,1 +1,1 @@
-var mnemonic = "digital win tube jump smooth zebra seven mystery force monkey domain jaguar";
+var mnemonic = "bonus defy crazy film pride daughter unable romance model alert robust near";

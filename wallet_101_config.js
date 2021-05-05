@@ -1,1 +1,1 @@
-var mnemonic = "bag tone moon park pond helmet trumpet label noodle mom upon memory";
+var mnemonic = "wasp blouse race crisp image deposit humor rescue angle smart arch merge";

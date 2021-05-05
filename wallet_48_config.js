@@ -1,1 +1,1 @@
-var mnemonic = "sauce april police near obvious flash mule penalty awesome puppy hospital electric";
+var mnemonic = "palace legal enact achieve slush excuse science year ethics electric harvest raccoon";

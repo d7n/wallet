@@ -1,1 +1,1 @@
-var mnemonic = "glide flight approve shove light body leave service flat child dinner post";
+var mnemonic = "ready cover deputy near fade theory clog pluck aerobic measure fresh settle";

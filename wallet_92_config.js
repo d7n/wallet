@@ -1,1 +1,1 @@
-var mnemonic = "month ribbon puppy give feed hero fall certain office visual cry decide";
+var mnemonic = "inch filter surprise claw brave neglect sand slight wrong goddess give route";

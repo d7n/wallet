@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur estate poet rough artist cement reject genius boil work shy rich";
+var mnemonic = "awake level mansion medal culture hunt scale abuse own elephant clerk purpose";

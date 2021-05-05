@@ -1,1 +1,1 @@
-var mnemonic = "wheel setup yard obey float tribe rifle announce excite anxiety embark mix";
+var mnemonic = "energy useless vocal method excess upon group riot cargo van rose calm";

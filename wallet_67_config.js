@@ -1,1 +1,1 @@
-var mnemonic = "strong food head crash odor witness general motor bacon vessel loyal fury";
+var mnemonic = "oppose pig neither zebra pioneer crane liar art reopen joy video speed";

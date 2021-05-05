@@ -1,1 +1,1 @@
-var mnemonic = "wasp wave code appear famous auction this tiger frequent trust fox venture";
+var mnemonic = "rabbit mad easily fine game truth dinner chest oil season sand chase";

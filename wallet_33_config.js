@@ -1,1 +1,1 @@
-var mnemonic = "video busy script cactus forum raw custom excess praise universe frozen recycle";
+var mnemonic = "fade hire monster announce equal panther siege sheriff always recipe immune regret";

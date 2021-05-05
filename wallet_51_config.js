@@ -1,1 +1,1 @@
-var mnemonic = "hurry own vast mad uncle wrong install boy blind estate oil excuse";
+var mnemonic = "merit certain stool actress drop grace sense elephant metal skirt write combine";

@@ -1,1 +1,1 @@
-var mnemonic = "tone divert lizard mad enter symptom cigar sand truck spread injury flight";
+var mnemonic = "opinion fix jeans walk antenna kit fiction problem visit quarter civil proud";

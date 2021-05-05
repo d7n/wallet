@@ -1,1 +1,1 @@
-var mnemonic = "discover behind actress message twenty wild mask deliver prepare assist old april";
+var mnemonic = "fresh feature joke melody unique kite purity review final dilemma satoshi clap";

@@ -1,1 +1,1 @@
-var mnemonic = "damage install whale town result pilot toddler lecture again flee emerge wrong";
+var mnemonic = "bubble drill hood tuna fog soul hedgehog small essence grit split anger";

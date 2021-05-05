@@ -1,1 +1,1 @@
-var mnemonic = "surface curtain belt winter dash horse bus axis junior hammer question gas";
+var mnemonic = "grunt bubble nephew onion bread frown path load maximum dwarf lounge mango";

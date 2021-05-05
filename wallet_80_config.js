@@ -1,1 +1,1 @@
-var mnemonic = "yellow shoot village stamp brave possible arctic burger amount eternal lizard subject";
+var mnemonic = "target pact north tiger cabbage surprise enjoy account goat share liberty melt";

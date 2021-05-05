@@ -1,1 +1,1 @@
-var mnemonic = "gesture apart own guard can feature swap subway matter pulp veteran retreat";
+var mnemonic = "six brief elbow alter card empty access myth doll cereal cushion wage";

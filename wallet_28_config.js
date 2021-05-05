@@ -1,1 +1,1 @@
-var mnemonic = "embark color coffee stuff area repeat forest safe sheriff fruit rice fortune";
+var mnemonic = "juice sunset mosquito hybrid call museum drive neutral empower physical ginger siege";

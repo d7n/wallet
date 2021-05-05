@@ -1,1 +1,1 @@
-var mnemonic = "fish sand menu toilet enforce eternal alpha clump verb into solid cousin";
+var mnemonic = "number gesture unaware trick life public thank sure force viable cube vibrant";

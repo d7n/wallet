@@ -1,1 +1,1 @@
-var mnemonic = "armor primary van pass ship celery music shuffle clever price nice lava";
+var mnemonic = "choice assume apart wrap recycle eager crazy force drastic blast elder work";

@@ -1,1 +1,1 @@
-var mnemonic = "artefact tourist cricket miracle jungle expect frown lens fury tortoise pioneer push";
+var mnemonic = "strategy comic cluster sand client noise accuse employ type combine urban very";

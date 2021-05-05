@@ -1,1 +1,1 @@
-var mnemonic = "image evidence peanut odor slight weekend twice poverty dog test first marble";
+var mnemonic = "labor section wet glimpse pen rule addict basic ensure flower muffin autumn";

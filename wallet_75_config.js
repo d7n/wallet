@@ -1,1 +1,1 @@
-var mnemonic = "put charge slide final age tag floor talk staff panic nose pond";
+var mnemonic = "inside bargain payment door aisle open chaos web venue awkward sausage mind";

@@ -1,1 +1,1 @@
-var mnemonic = "enough coil license roast recall behind champion machine program focus buyer beauty";
+var mnemonic = "fetch cable spring area divert vapor pony garlic sadness unit ancient three";

@@ -1,1 +1,1 @@
-var mnemonic = "obscure naive strike snap merge enjoy result plate awesome rapid other smooth";
+var mnemonic = "fork best garden clinic neutral power summer tribe mixed supply scissors flee";

@@ -1,1 +1,1 @@
-var mnemonic = "payment chaos cook use minimum blush humble help zero recycle people man";
+var mnemonic = "mystery tuna thrive joke draw crush push evidence until essay spirit remember";

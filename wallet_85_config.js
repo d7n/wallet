@@ -1,1 +1,1 @@
-var mnemonic = "advice wear glove few engine ritual laptop negative flame midnight vote write";
+var mnemonic = "basket knife squeeze stairs approve soap finger ill horror approve myself sample";

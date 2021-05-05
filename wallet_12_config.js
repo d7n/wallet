@@ -1,1 +1,1 @@
-var mnemonic = "lemon tattoo such wood build thunder twist alien envelope ribbon shrimp atom";
+var mnemonic = "round resist benefit faculty square damp dismiss current brick camera step soft";

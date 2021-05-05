@@ -1,1 +1,1 @@
-var mnemonic = "series lizard young skill exotic survey agent genre pipe dentist oil poverty";
+var mnemonic = "cloth glass cruise symptom help hawk juice topple evidence shoot comfort teach";

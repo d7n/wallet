@@ -1,1 +1,1 @@
-var mnemonic = "orange office series success main spy protect rug seek own tiger soon";
+var mnemonic = "acquire fortune vivid lobster afraid boss virtual sting frequent train picture pudding";

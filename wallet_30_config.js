@@ -1,1 +1,1 @@
-var mnemonic = "fresh boring method bounce sadness barrel slice blouse laundry animal beach rookie";
+var mnemonic = "sunny coconut crazy nurse garden urban marine call account stone fine ball";

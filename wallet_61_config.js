@@ -1,1 +1,1 @@
-var mnemonic = "main fence path staff fossil design capable nothing fault vicious comfort east";
+var mnemonic = "version melt dawn absurd also flight shrimp same need athlete exhaust nest";

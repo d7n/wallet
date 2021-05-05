@@ -1,1 +1,1 @@
-var mnemonic = "clean space involve move magnet bargain list sword bronze river state domain";
+var mnemonic = "glide exist hamster shoulder sell buddy rebel earn spawn clarify lounge donkey";

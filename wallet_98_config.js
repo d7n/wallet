@@ -1,1 +1,1 @@
-var mnemonic = "hour ranch country tooth put powder bamboo uniform duty curious between torch";
+var mnemonic = "giant safe trick account puppy mimic else length yard symbol pyramid ill";

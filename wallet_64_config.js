@@ -1,1 +1,1 @@
-var mnemonic = "core odor energy initial balcony enter kite brisk sad defy viable grain";
+var mnemonic = "dumb globe million lion author sponsor flat alcohol prefer affair news rice";

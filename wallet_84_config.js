@@ -1,1 +1,1 @@
-var mnemonic = "fuel filter crew click point street mechanic primary tag weekend alcohol vacuum";
+var mnemonic = "gap select tray brown hollow bamboo arch never tunnel gun paddle hair";

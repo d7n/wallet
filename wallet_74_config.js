@@ -1,1 +1,1 @@
-var mnemonic = "promote between fringe fashion you subject bulb peasant owner despair sustain next";
+var mnemonic = "staff valley edge crack pave pass another olive tomorrow camp exclude sample";

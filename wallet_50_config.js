@@ -1,1 +1,1 @@
-var mnemonic = "immune siege space useless marble hen sugar prefer hotel rain sibling narrow";
+var mnemonic = "hair hint grid coach myth twelve earth vacuum reward collect wasp symbol";

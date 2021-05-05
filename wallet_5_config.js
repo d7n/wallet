@@ -1,1 +1,1 @@
-var mnemonic = "bar found possible elevator month bus tenant fury visit whip sad able";
+var mnemonic = "polar fragile sniff fringe angle host prepare all tomorrow lens evidence enforce";

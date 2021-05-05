@@ -1,1 +1,1 @@
-var mnemonic = "staff scale truly canvas rhythm sun trick midnight rack nurse leopard banana";
+var mnemonic = "now fork interest drastic ability mystery bicycle future zebra crisp dutch blanket";

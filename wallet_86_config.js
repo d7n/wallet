@@ -1,1 +1,1 @@
-var mnemonic = "tuition ensure zoo chef gather sudden street because noodle broom garbage vapor";
+var mnemonic = "quarter vague soon tackle shiver emerge gravity surge birth keen curious tent";

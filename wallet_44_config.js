@@ -1,1 +1,1 @@
-var mnemonic = "crisp settle honey volcano please narrow trade else banner heart cage fiction";
+var mnemonic = "voyage ensure notice broccoli federal garbage shoulder resource sugar swamp boss arrest";

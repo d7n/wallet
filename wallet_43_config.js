@@ -1,1 +1,1 @@
-var mnemonic = "neglect slab hood glance strong element fee harvest skate sort mobile acquire";
+var mnemonic = "peasant begin praise gun arch proud canyon sick enrich flock stove metal";

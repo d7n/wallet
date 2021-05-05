@@ -1,1 +1,1 @@
-var mnemonic = "disagree solar pupil vanish erase seek edge lunch capital whip achieve endless";
+var mnemonic = "early combine sock bird debate expand fire chapter round stumble child try";

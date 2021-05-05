@@ -1,1 +1,1 @@
-var mnemonic = "snap glue walnut expect exit short hamster find stamp spider output bone";
+var mnemonic = "neutral glance check only kick toe series diary provide hobby market abstract";

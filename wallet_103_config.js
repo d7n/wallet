@@ -1,1 +1,1 @@
-var mnemonic = "coil eager narrow tube daring range manual warfare alley exchange vocal police";
+var mnemonic = "about desk later teach defy giraffe miss chief purse document path brush";

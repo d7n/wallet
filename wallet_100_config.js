@@ -1,1 +1,1 @@
-var mnemonic = "chunk wasp warrior bundle brush text text figure scissors fold buddy swift";
+var mnemonic = "tobacco style clerk they bomb stone view canoe humble stadium dignity explain";

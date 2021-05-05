@@ -1,1 +1,1 @@
-var mnemonic = "grant rate spider flower bracket cook near hover boy green brass other";
+var mnemonic = "urban face rabbit core layer test empower drill ring rapid law illness";

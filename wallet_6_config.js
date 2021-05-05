@@ -1,1 +1,1 @@
-var mnemonic = "neutral focus language cup admit orient embrace dog boy easily fashion goddess";
+var mnemonic = "liberty goat coach brave curious element pepper level damp wing surround change";

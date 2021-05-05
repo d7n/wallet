@@ -1,1 +1,1 @@
-var mnemonic = "nature like undo entry industry six head feed giraffe favorite forget point";
+var mnemonic = "correct surge junk boil enact six treat skin hire begin crater brisk";

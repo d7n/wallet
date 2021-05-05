@@ -1,1 +1,1 @@
-var mnemonic = "gentle talent session melt hope brown remove flavor sunny eternal rail hungry";
+var mnemonic = "horn expire pitch laundry budget squirrel climb sample jeans smoke outer trim";

@@ -1,1 +1,1 @@
-var mnemonic = "misery hotel walk guilt slot army thumb embrace broken tree refuse protect";
+var mnemonic = "festival eight flush soon message close lazy ankle avoid very sting shoe";

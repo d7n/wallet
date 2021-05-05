@@ -1,1 +1,1 @@
-var mnemonic = "metal depend ecology guard source panic present either almost ripple ring exist";
+var mnemonic = "vendor hurt possible doctor sister buyer mule barely cherry humble gallery document";

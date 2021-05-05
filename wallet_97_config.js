@@ -1,1 +1,1 @@
-var mnemonic = "have stay armor vacant test reason talk duty ladder wolf faith blood";
+var mnemonic = "gentle age warfare honey garment famous laugh pupil window color rent carry";

@@ -1,1 +1,1 @@
-var mnemonic = "huge total spawn alpha consider kiss play spawn pear icon orchard foil";
+var mnemonic = "design sudden cigar ivory outside wrestle angle assist indicate wealth palace mountain";

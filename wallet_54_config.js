@@ -1,1 +1,1 @@
-var mnemonic = "soccer sunset jazz someone angry fancy fame battle exact piano bone dismiss";
+var mnemonic = "wash pen educate original glare glow holiday wrong myself outside appear isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "solve target diet mask grab entire onion little margin bachelor planet during";
+var mnemonic = "piece excuse fire check fish unfair into thumb stove dismiss trophy soul";

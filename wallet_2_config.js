@@ -1,1 +1,1 @@
-var mnemonic = "vintage poet toast equip planet brown insect thumb rebel claim task beauty";
+var mnemonic = "oxygen dinosaur combine near often evoke palm uncover plunge trade genuine member";
