@@ -1,1 +1,1 @@
-var mnemonic = "cherry foam obscure riot turkey stock thought spider hint must bright quantum";
+var mnemonic = "online million regret pass blossom plug rubber earth want mom nurse mechanic";

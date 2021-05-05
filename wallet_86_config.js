@@ -1,1 +1,1 @@
-var mnemonic = "property clutch ticket oblige kick spin worth keen lazy common muscle clown";
+var mnemonic = "glad genius oppose uphold winter code same stick mistake jar run parent";

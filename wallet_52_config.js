@@ -1,1 +1,1 @@
-var mnemonic = "banner blush occur recipe gift dove stomach switch shadow wise width half";
+var mnemonic = "amateur away opera latin system doctor rich next salon shrug panel owner";

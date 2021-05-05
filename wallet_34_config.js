@@ -1,1 +1,1 @@
-var mnemonic = "eye track enter drip duck north surface legend suit useless april mail";
+var mnemonic = "mystery pencil drip miracle clutch acoustic pulse pulse just symbol radar slot";

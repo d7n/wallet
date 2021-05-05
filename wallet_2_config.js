@@ -1,1 +1,1 @@
-var mnemonic = "rail pair already sock train someone labor resist clean bag cruel oven";
+var mnemonic = "popular goose clutch clinic escape seed maid gadget silent wise knife choice";

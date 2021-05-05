@@ -1,1 +1,1 @@
-var mnemonic = "sweet term deer lock amount cream fabric gorilla blur bounce profit belt";
+var mnemonic = "gown fold access foil ginger promote region open moon casino confirm hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "version rain repair ginger slam memory crawl gesture fortune rescue leave stay";
+var mnemonic = "explain daring panda clap sort combine skin hand clock muffin payment urge";

@@ -1,1 +1,1 @@
-var mnemonic = "real risk quick height dragon peace cannon rocket resemble dinosaur kiss carbon";
+var mnemonic = "asset settle document cannon praise maid unable episode parent laugh hill solid";

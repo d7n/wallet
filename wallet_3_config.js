@@ -1,1 +1,1 @@
-var mnemonic = "grape puppy artwork brand short toilet category oxygen frequent oblige begin stick";
+var mnemonic = "load horn youth quiz loop impose bean place insane peace key pepper";

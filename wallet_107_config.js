@@ -1,1 +1,1 @@
-var mnemonic = "web car fiber wise regret slush yard habit loop slot cart culture";
+var mnemonic = "mule swap since recipe biology organ middle assist scrap crunch inside burst";

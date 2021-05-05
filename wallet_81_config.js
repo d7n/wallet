@@ -1,1 +1,1 @@
-var mnemonic = "announce salt spoil token blossom sweet wave total wise artefact smooth file";
+var mnemonic = "empower eye upgrade boss school urban labor spray message victory buddy above";

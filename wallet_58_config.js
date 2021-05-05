@@ -1,1 +1,1 @@
-var mnemonic = "cage settle spatial innocent comfort candy evoke script claw iron spice siren";
+var mnemonic = "stamp silver few fiscal page floor convince abandon dust sugar real crater";

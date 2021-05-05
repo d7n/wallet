@@ -1,1 +1,1 @@
-var mnemonic = "sick section ghost spider mammal squeeze swim transfer sound impose nose dynamic";
+var mnemonic = "chimney swarm trash jump ball stock endless meadow lady chunk fatigue scheme";

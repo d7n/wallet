@@ -1,1 +1,1 @@
-var mnemonic = "they ignore cruise bundle diamond sustain average tackle own joke twelve music";
+var mnemonic = "tortoise elite sing mandate hard ugly frame mistake notice clap myself orchard";

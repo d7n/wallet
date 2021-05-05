@@ -1,1 +1,1 @@
-var mnemonic = "number inside warfare review ask sing shoe need parade crowd step indoor";
+var mnemonic = "proof question spy embrace fire impose genius novel arena crazy company protect";

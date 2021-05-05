@@ -1,1 +1,1 @@
-var mnemonic = "humble olive panther enroll proof stand engine nation dynamic paper candy true";
+var mnemonic = "syrup rabbit pause gather satisfy female salon surround similar cushion desk crumble";

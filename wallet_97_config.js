@@ -1,1 +1,1 @@
-var mnemonic = "fish skate brain champion cousin lottery width crisp chef visa turn slot";
+var mnemonic = "dismiss sunny anxiety life head because large inquiry catalog ski olympic swift";

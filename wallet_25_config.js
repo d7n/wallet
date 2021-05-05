@@ -1,1 +1,1 @@
-var mnemonic = "action bitter then square bundle mass female open bamboo chicken stamp stem";
+var mnemonic = "tree bird defy winner shoe kick horse want talent flush cave arrest";

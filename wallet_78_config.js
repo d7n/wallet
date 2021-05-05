@@ -1,1 +1,1 @@
-var mnemonic = "lizard wash unlock bracket ribbon acquire ghost inquiry aspect innocent scissors pet";
+var mnemonic = "lecture gasp culture captain inmate nurse dawn unveil kidney taste purse soul";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase afraid live drum suffer notable buffalo oblige shoot slender ill version";
+var mnemonic = "label train maximum must fun cram strong inmate banner success lazy fade";

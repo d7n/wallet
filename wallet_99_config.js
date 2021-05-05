@@ -1,1 +1,1 @@
-var mnemonic = "busy hair profit kidney include horn erase ribbon flag police foot hip";
+var mnemonic = "tomato atom roast recycle pyramid net deal clutch just piece spice battle";

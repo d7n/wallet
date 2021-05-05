@@ -1,1 +1,1 @@
-var mnemonic = "blade fever soft orient festival cradle glimpse grab radio critic father skate";
+var mnemonic = "derive cloud machine raw month rural great tag egg few obvious pink";

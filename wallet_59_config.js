@@ -1,1 +1,1 @@
-var mnemonic = "convince slide buzz orchard venture garden one patch jealous monitor promote floor";
+var mnemonic = "trick globe fix cheese visit ladder exclude resist dolphin cat luggage razor";

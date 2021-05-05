@@ -1,1 +1,1 @@
-var mnemonic = "universe pink purity feel sheriff curious main cost code morning always yard";
+var mnemonic = "hobby smile fiction mirror pigeon jewel coral theory evoke step very behind";

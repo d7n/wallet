@@ -1,1 +1,1 @@
-var mnemonic = "library immense boss quick knock busy weekend nephew genuine trap harvest hospital";
+var mnemonic = "veteran tragic audit define omit mask auto lift critic grape indicate giggle";

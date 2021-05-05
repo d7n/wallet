@@ -1,1 +1,1 @@
-var mnemonic = "excess carpet bus behind camera panel pattern culture spread rhythm improve gown";
+var mnemonic = "used legal faith north talk crouch inform river digital double goddess trade";

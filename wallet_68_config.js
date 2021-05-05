@@ -1,1 +1,1 @@
-var mnemonic = "across old demise upset theme squirrel stuff blouse arena panic dynamic scatter";
+var mnemonic = "traffic clean ancient clump front marriage soda giggle nation slice achieve make";

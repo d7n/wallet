@@ -1,1 +1,1 @@
-var mnemonic = "need giggle address distance arch medal easy session monster already enhance absent";
+var mnemonic = "tone universe harsh behave cool genuine grab shed emerge soul wool conduct";

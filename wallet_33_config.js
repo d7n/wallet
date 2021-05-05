@@ -1,1 +1,1 @@
-var mnemonic = "mirror junior woman agree wash simple shock wink theme best summer city";
+var mnemonic = "orphan danger choice crouch scatter pigeon tongue sister luxury able grass hello";

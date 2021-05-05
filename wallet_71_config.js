@@ -1,1 +1,1 @@
-var mnemonic = "old anxiety elephant solution attract measure grid cabin clutch black stuff bleak";
+var mnemonic = "puppy edit session learn pill toe gravity hurry eternal million barely father";

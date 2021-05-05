@@ -1,1 +1,1 @@
-var mnemonic = "deposit despair token between swear unknown thrive bid dish feel tourist trophy";
+var mnemonic = "sun shadow alcohol huge gesture slow holiday model leave south slight green";

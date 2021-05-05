@@ -1,1 +1,1 @@
-var mnemonic = "worry vibrant knock enroll vast laptop fine lunch such write alone fatigue";
+var mnemonic = "planet jealous destroy orbit jaguar increase size design submit profit result spatial";

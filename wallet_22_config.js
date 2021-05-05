@@ -1,1 +1,1 @@
-var mnemonic = "mistake omit alone special fetch rent face element section antenna code best";
+var mnemonic = "merit illness reveal ghost choose best deer cheese cool culture army together";

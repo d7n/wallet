@@ -1,1 +1,1 @@
-var mnemonic = "dragon flee busy duty warrior creek alcohol type apart live insane left";
+var mnemonic = "raccoon work vivid ill cloth deal annual rate any tissue cat stadium";

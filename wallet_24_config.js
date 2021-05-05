@@ -1,1 +1,1 @@
-var mnemonic = "pigeon lemon buffalo decade sick leg embark ordinary chaos naive survey ripple";
+var mnemonic = "gaze winner alien obey also elite actress solar double pair sport north";

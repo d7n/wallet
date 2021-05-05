@@ -1,1 +1,1 @@
-var mnemonic = "special layer warfare pond snow wire brand empower stone essay own funny";
+var mnemonic = "sudden gather code copy stumble hole code wisdom crunch jacket salad forget";

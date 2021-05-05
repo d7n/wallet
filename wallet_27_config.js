@@ -1,1 +1,1 @@
-var mnemonic = "siren action suit theme this liquid live good miracle swim step brick";
+var mnemonic = "pull height above fiscal problem agent term task police shrimp rotate glass";

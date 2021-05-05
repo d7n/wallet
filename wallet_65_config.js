@@ -1,1 +1,1 @@
-var mnemonic = "found document bind pig tired fiscal cherry elbow excess race begin expose";
+var mnemonic = "clump fuel wire female hurt jeans animal situate bicycle flavor mimic bulb";

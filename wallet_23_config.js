@@ -1,1 +1,1 @@
-var mnemonic = "cereal seed company pool debate raise music kitten home toilet awake solar";
+var mnemonic = "urge join hello profit husband peasant crowd rigid injury video coyote reunion";

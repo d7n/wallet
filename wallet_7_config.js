@@ -1,1 +1,1 @@
-var mnemonic = "pottery resource detect theory squeeze naive artist glow tonight search duck wife";
+var mnemonic = "huge napkin uniform link relax stem ability oxygen maximum equal destroy eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "inch amazing velvet unknown custom usual regular cabin bunker innocent boy judge";
+var mnemonic = "mind unveil surround enhance truck amazing tired stairs enhance kiss cave upon";

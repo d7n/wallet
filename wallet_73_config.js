@@ -1,1 +1,1 @@
-var mnemonic = "arctic cram plunge amazing lucky scorpion convince service possible satoshi abstract either";
+var mnemonic = "symbol inside cart dial secret table mail manual aspect settle poet card";

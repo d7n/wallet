@@ -1,1 +1,1 @@
-var mnemonic = "walk renew that wheel immune master panther chat install viable chase extend";
+var mnemonic = "horror sense peace neither strong ice sure into flock gospel gospel flat";

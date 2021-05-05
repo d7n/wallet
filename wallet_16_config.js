@@ -1,1 +1,1 @@
-var mnemonic = "seven suspect plug rebel point make image broom click lazy sweet void";
+var mnemonic = "goddess sell gain tonight stumble major model nurse essence million crisp color";

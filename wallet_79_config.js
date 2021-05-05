@@ -1,1 +1,1 @@
-var mnemonic = "picnic entry album boil push arrow source impose wet invite indoor story";
+var mnemonic = "sick abuse husband humble hood vicious lounge swarm panel wolf strategy cage";

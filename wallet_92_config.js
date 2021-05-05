@@ -1,1 +1,1 @@
-var mnemonic = "scheme puzzle rhythm shine party depart unable pause spring develop public hungry";
+var mnemonic = "fever output swarm cupboard rookie avoid doll prefer silk shallow snap always";

@@ -1,1 +1,1 @@
-var mnemonic = "close gaze pull hero pyramid choice spread extra clap fabric balance suit";
+var mnemonic = "pigeon add arch bone blur few voyage drift recipe combine brand tomorrow";

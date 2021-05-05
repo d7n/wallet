@@ -1,1 +1,1 @@
-var mnemonic = "alpha elephant drink kitchen lumber voyage august dignity bag popular ostrich require";
+var mnemonic = "prison ten toss hero kiwi wheel portion dilemma sick clever any inspire";

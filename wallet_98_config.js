@@ -1,1 +1,1 @@
-var mnemonic = "also make sausage female strategy purse usual quality win frown pumpkin aspect";
+var mnemonic = "select game beauty liquid goat trick poet dial blind teach attitude melody";

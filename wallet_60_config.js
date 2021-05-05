@@ -1,1 +1,1 @@
-var mnemonic = "expect eyebrow blouse spirit mutual kidney luxury owner blast thought illness inspire";
+var mnemonic = "bridge ring tree cute dignity very timber vehicle enough item hard aspect";

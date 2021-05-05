@@ -1,1 +1,1 @@
-var mnemonic = "scene auto buyer grape beyond gas sight leg sand question laugh orchard";
+var mnemonic = "volume reject attitude ask false liquid august total icon equip brain dizzy";

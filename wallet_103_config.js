@@ -1,1 +1,1 @@
-var mnemonic = "behave fetch tool lazy coin link discover dove music kidney wing ocean";
+var mnemonic = "monster fold attack boat vanish weird little paper van hip across produce";

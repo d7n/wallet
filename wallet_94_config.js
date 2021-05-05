@@ -1,1 +1,1 @@
-var mnemonic = "faint sort dismiss cattle parrot peasant image replace stone slot naive pet";
+var mnemonic = "protect clip wage dolphin friend anxiety slice throw marriage cliff release taste";

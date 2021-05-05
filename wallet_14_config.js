@@ -1,1 +1,1 @@
-var mnemonic = "tiger chuckle cool glory video space satoshi dial slab extra you essence";
+var mnemonic = "industry humor middle sing horror kitchen impulse book then quality retreat around";

@@ -1,1 +1,1 @@
-var mnemonic = "legal envelope obtain account kingdom satisfy deputy spare crucial fluid axis fluid";
+var mnemonic = "pair sorry cake volcano visa bitter bind volcano loop gown salon travel";

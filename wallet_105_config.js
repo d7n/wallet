@@ -1,1 +1,1 @@
-var mnemonic = "dress panel length ketchup modify page river reduce great hobby cousin immense";
+var mnemonic = "soccer help lawsuit nut enroll squeeze defense gospel silk innocent amount husband";

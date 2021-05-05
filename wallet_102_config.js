@@ -1,1 +1,1 @@
-var mnemonic = "differ envelope door uncover capable puppy fall unique more cost diary lumber";
+var mnemonic = "enter neck hobby ball hello depart soldier shock cry reward spatial wood";

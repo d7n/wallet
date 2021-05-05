@@ -1,1 +1,1 @@
-var mnemonic = "regular consider cook machine subject cable gospel gauge acquire canal inner such";
+var mnemonic = "robot speed erase face whip village hip near shove unable royal flame";

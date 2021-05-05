@@ -1,1 +1,1 @@
-var mnemonic = "security vacuum race outdoor muscle wife erupt shock top tiger black alter";
+var mnemonic = "fan flash soda write candy apology slush twenty ghost stuff tray eyebrow";

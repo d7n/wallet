@@ -1,1 +1,1 @@
-var mnemonic = "wink match install inhale smoke couple pitch faculty infant verb panther garlic";
+var mnemonic = "topic must plate picnic shed panic exist rely hint valid industry vacuum";

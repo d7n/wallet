@@ -1,1 +1,1 @@
-var mnemonic = "oak lemon gift exotic mail daughter search plug arrange shop bitter change";
+var mnemonic = "kick sort expose doctor leave fan promote please proud airport kingdom roof";

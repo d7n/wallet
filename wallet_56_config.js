@@ -1,1 +1,1 @@
-var mnemonic = "tip wing useless sleep supreme vacant butter struggle song game powder sadness";
+var mnemonic = "lottery guide daughter ostrich right slender item address bike wink crouch midnight";

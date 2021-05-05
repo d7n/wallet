@@ -1,1 +1,1 @@
-var mnemonic = "gesture cattle awful kitchen swim tobacco brisk candy result verb salad wink";
+var mnemonic = "scorpion motor cube mango fat still calm guess tape amused found matrix";

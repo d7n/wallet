@@ -1,1 +1,1 @@
-var mnemonic = "tip giant okay arena veteran oppose basket cement clarify away cool again";
+var mnemonic = "stable before evolve consider page gentle noise imitate glass gift hub orient";

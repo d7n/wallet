@@ -1,1 +1,1 @@
-var mnemonic = "sleep scare tray vague length dumb more victory crater snow food copper";
+var mnemonic = "oak reveal mechanic slender blossom jewel venue someone stuff young buyer laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "aim develop aunt anxiety raw captain sense belt collect strong phrase fluid";
+var mnemonic = "trophy misery diary embark science neck toy thunder mom glimpse naive curious";

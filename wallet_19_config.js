@@ -1,1 +1,1 @@
-var mnemonic = "enemy uphold depth panther seven provide tray reopen stamp nation allow open";
+var mnemonic = "afraid age skate right situate calm park couch machine visual mosquito guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "travel angry champion liberty boy remain sting endorse acoustic share useful critic";
+var mnemonic = "leaf thing fly famous pride flee lift never cry mesh stable tower";

@@ -1,1 +1,1 @@
-var mnemonic = "example smooth seminar taste rather soul avoid brand bronze must private industry";
+var mnemonic = "wing mobile flavor giraffe favorite copy practice napkin another coconut wreck taste";

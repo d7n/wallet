@@ -1,1 +1,1 @@
-var mnemonic = "alert hurdle mutual mobile voice puppy inhale latin winter sunset sponsor indicate";
+var mnemonic = "delay practice purity group nose treat vapor decorate ability fitness quit caution";

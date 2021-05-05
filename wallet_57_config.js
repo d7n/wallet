@@ -1,1 +1,1 @@
-var mnemonic = "impose plastic section joke across prepare april celery soap must nice divide";
+var mnemonic = "exotic assist group trash one guilt wrong large project gas area fatigue";

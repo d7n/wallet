@@ -1,1 +1,1 @@
-var mnemonic = "jeans advance champion jazz excuse park famous case input shield write asthma";
+var mnemonic = "actor local sister collect gift humble inquiry arrive cereal sweet issue nephew";

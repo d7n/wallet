@@ -1,1 +1,1 @@
-var mnemonic = "elder pill stumble century engine survey rural adapt region tourist style cry";
+var mnemonic = "clap orphan upon original daughter thrive kingdom utility sort song hybrid analyst";

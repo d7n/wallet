@@ -1,1 +1,1 @@
-var mnemonic = "cube isolate abuse boost next team leisure topic canoe accuse permit describe";
+var mnemonic = "else armed coral simple wall drama crop arrow sister sample mango marine";

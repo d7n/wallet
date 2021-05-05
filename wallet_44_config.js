@@ -1,1 +1,1 @@
-var mnemonic = "soccer off coral predict pole canvas cinnamon good arch coral worth admit";
+var mnemonic = "square minimum coconut empower custom taste viable news stem horror pyramid afford";

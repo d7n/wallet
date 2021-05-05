@@ -1,1 +1,1 @@
-var mnemonic = "iron silk meat spray north damp hockey ankle tumble drive system fatigue";
+var mnemonic = "face voyage install arrange save mule write truth chat panther medal virtual";

@@ -1,1 +1,1 @@
-var mnemonic = "fragile enroll floor barely muscle chapter fabric between destroy throw still tennis";
+var mnemonic = "polar struggle fresh pig muffin pupil close welcome trade total where cash";

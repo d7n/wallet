@@ -1,1 +1,1 @@
-var mnemonic = "vacuum mother upon pattern jump token version grass february rice captain remind";
+var mnemonic = "diesel name aerobic wrap busy caution derive second liar toilet battle body";

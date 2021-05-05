@@ -1,1 +1,1 @@
-var mnemonic = "push south flee town weasel habit calm honey orange undo gaze body";
+var mnemonic = "job runway shaft slim ranch brief garment above useless plate approve term";

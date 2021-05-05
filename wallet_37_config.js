@@ -1,1 +1,1 @@
-var mnemonic = "torch joy march amount machine rose resemble athlete behave cancel reason mimic";
+var mnemonic = "ability canyon spoil door improve suggest scare blame hurry dawn walk dust";

@@ -1,1 +1,1 @@
-var mnemonic = "table ski mixed absurd below ketchup enhance super connect party access spike";
+var mnemonic = "shaft umbrella twin combine garden erode drop wide six naive table trick";

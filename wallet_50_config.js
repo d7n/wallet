@@ -1,1 +1,1 @@
-var mnemonic = "daughter team tip come belt upgrade kitten process win hollow match strategy";
+var mnemonic = "ritual defy express pattern near expose brief thrive staff winter gun split";

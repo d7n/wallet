@@ -1,1 +1,1 @@
-var mnemonic = "bacon worry gun pottery prison heart tool bird hard curious craft scrap";
+var mnemonic = "nominee never shaft auction possible arrange beach buffalo amount much obtain best";

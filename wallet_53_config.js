@@ -1,1 +1,1 @@
-var mnemonic = "praise vapor barrel tiny crisp tide drill stock club daring grab delay";
+var mnemonic = "carpet cactus bless enough man ability voice spot wish ripple rubber kangaroo";

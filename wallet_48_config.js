@@ -1,1 +1,1 @@
-var mnemonic = "outer crawl asthma couch joke relax omit puzzle kiwi blush cruel way";
+var mnemonic = "fruit mask spy top business pear tray initial venue unit crane convince";

@@ -1,1 +1,1 @@
-var mnemonic = "wink actress spot width cousin hazard hamster pause guitar various pitch brave";
+var mnemonic = "liberty adapt unfold flash vendor breeze wish arrow scout hurry letter creek";

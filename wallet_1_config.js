@@ -1,1 +1,1 @@
-var mnemonic = "occur below salon remind artefact kiwi law imitate convince elite busy filter";
+var mnemonic = "gain spread indoor retire render end fall innocent banner vehicle review sock";

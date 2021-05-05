@@ -1,1 +1,1 @@
-var mnemonic = "rookie warm always tray broken muscle private question debate edit speak picture";
+var mnemonic = "champion consider hard popular hidden inspire artist slot tail purchase hybrid expose";

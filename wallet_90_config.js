@@ -1,1 +1,1 @@
-var mnemonic = "inherit enter laundry cherry moral loop ugly shrimp lesson idle earn cinnamon";
+var mnemonic = "door remember bean mutual mobile solid motion erode park wrist airport allow";

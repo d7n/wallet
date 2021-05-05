@@ -1,1 +1,1 @@
-var mnemonic = "situate rapid romance install pottery armed employ over now young shy knock";
+var mnemonic = "horn special begin slab bulk erupt churn amateur victory opera calm scatter";

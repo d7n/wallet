@@ -1,1 +1,1 @@
-var mnemonic = "brave sound nephew vendor assault sting section upper style fix hover beach";
+var mnemonic = "occur cluster result ranch inject clown work spatial concert jealous top hammer";

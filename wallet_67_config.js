@@ -1,1 +1,1 @@
-var mnemonic = "fever diagram harbor carry laundry coast awesome rail fame round used oak";
+var mnemonic = "awesome physical review antenna wire bright inside crash solution behind bring friend";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital purchase public pudding town shuffle buyer dance isolate seven globe artist";
+var mnemonic = "rapid enough loyal mixture bamboo club vapor harsh artwork nothing hub bulk";
