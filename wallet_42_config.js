@@ -1,1 +1,1 @@
-var mnemonic = "pill sick alone place average trick lens hold club beyond absurd portion";
+var mnemonic = "account around onion side thumb room farm surge wage coin monkey flee";

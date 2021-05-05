@@ -1,1 +1,1 @@
-var mnemonic = "blind depth shop cotton sword trend alpha project afraid foil tornado weasel";
+var mnemonic = "fruit floor sponsor tongue budget scan squeeze strategy buffalo describe seven valid";

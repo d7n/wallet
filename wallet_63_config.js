@@ -1,1 +1,1 @@
-var mnemonic = "rotate supreme thumb similar moment firm spend filter educate blanket cinnamon runway";
+var mnemonic = "practice machine tackle column stool addict fat pelican teach crouch blood october";

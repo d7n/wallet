@@ -1,1 +1,1 @@
-var mnemonic = "course boss position planet project spare rabbit normal boat imitate honey major";
+var mnemonic = "erode upper usage alley cruise accident laptop estate earth review language emotion";

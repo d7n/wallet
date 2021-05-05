@@ -1,1 +1,1 @@
-var mnemonic = "december you agent gossip normal fatigue hurdle member crunch install spatial hybrid";
+var mnemonic = "much polar viable equal ivory practice filter jewel visual obtain taxi add";

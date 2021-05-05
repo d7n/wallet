@@ -1,1 +1,1 @@
-var mnemonic = "robot trophy loan annual odor focus tide easy hood room matter interest";
+var mnemonic = "shallow pepper range harsh whale describe lamp robot illegal chapter truth govern";

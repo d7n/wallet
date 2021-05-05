@@ -1,1 +1,1 @@
-var mnemonic = "bitter food horror glimpse faculty busy key champion amazing urge powder scout";
+var mnemonic = "lesson arrow setup agent wealth wolf surface oxygen sure script diesel ostrich";

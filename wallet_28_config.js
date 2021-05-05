@@ -1,1 +1,1 @@
-var mnemonic = "pilot february device tooth insect advice hotel nose exact expire journey swift";
+var mnemonic = "novel also mistake fly rough length wheat giggle beef dignity mechanic cinnamon";

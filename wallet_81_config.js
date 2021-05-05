@@ -1,1 +1,1 @@
-var mnemonic = "swear fun sponsor manage normal inch inflict patch album cement mercy sweet";
+var mnemonic = "foster bright scatter invest twelve access fringe figure patch cargo group weasel";

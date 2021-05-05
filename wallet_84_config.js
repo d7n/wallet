@@ -1,1 +1,1 @@
-var mnemonic = "sea print viable impulse grape increase trap walnut agent welcome high sunset";
+var mnemonic = "dragon palace harsh faint kid same eye burst choice kitchen siren know";

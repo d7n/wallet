@@ -1,1 +1,1 @@
-var mnemonic = "cheap victory nerve crime success odor rhythm segment diary angle custom sick";
+var mnemonic = "frozen pitch sight company father actor mandate amount dust pool evidence jungle";

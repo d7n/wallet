@@ -1,1 +1,1 @@
-var mnemonic = "guitar foam duty always mirror helmet define have major choice dream hundred";
+var mnemonic = "broom proof click dumb vague cake sunny enjoy ramp exile gun fat";

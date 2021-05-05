@@ -1,1 +1,1 @@
-var mnemonic = "test spell evidence oblige accuse speed dynamic dove silver slam adjust farm";
+var mnemonic = "crane bridge grape buffalo trigger awkward riot strong kid void noodle horse";

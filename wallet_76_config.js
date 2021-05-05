@@ -1,1 +1,1 @@
-var mnemonic = "confirm person student faint blossom inherit much style drive picnic grain idea";
+var mnemonic = "wheat thunder ski jump armor business common phrase proud patient way spike";

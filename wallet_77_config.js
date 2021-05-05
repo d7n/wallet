@@ -1,1 +1,1 @@
-var mnemonic = "face toilet they culture ghost worth collect aunt truck trade match length";
+var mnemonic = "pattern transfer blur bracket forest siege latin genre hunt connect protect frog";

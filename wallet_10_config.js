@@ -1,1 +1,1 @@
-var mnemonic = "famous wool joy agree gadget sight album kingdom best inject fashion draw";
+var mnemonic = "strike birth timber dolphin sentence kiss wrong size milk focus motion seek";

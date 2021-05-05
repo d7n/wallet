@@ -1,1 +1,1 @@
-var mnemonic = "engine shy fresh steak cricket since holiday strategy fossil tragic resemble rose";
+var mnemonic = "warrior knife monster suit wall service dinner solve front reflect unveil charge";

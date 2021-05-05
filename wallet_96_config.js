@@ -1,1 +1,1 @@
-var mnemonic = "potato kind author mail vocal write tunnel blast erase unhappy fitness spend";
+var mnemonic = "prison crazy leisure enrich pupil retreat pause toe female morning put panel";

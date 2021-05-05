@@ -1,1 +1,1 @@
-var mnemonic = "snake person fan arch skirt coach pencil day forward virtual salad quiz";
+var mnemonic = "measure horn small resource rally hamster nurse fun goddess license seminar funny";

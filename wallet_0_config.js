@@ -1,1 +1,1 @@
-var mnemonic = "radar road doctor hawk kitten decline gaze cup divide useless pulse breeze";
+var mnemonic = "pulp unaware future list bless physical vicious door peasant winter worry modify";

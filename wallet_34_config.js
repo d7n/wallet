@@ -1,1 +1,1 @@
-var mnemonic = "belt hunt verb matrix explain author distance steak one fog gas riot";
+var mnemonic = "notice razor carbon round crystal apple actor sign kitten clap soul theory";

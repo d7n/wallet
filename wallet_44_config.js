@@ -1,1 +1,1 @@
-var mnemonic = "domain local marriage sort decrease diamond behind author prevent cannon suspect parade";
+var mnemonic = "pulse basket invite flip burger illegal trumpet win pepper fish labor violin";

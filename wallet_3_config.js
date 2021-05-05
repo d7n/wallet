@@ -1,1 +1,1 @@
-var mnemonic = "fatigue vintage journey ask snake split knife explain island angle soft rescue";
+var mnemonic = "guide hollow spider there awake idea icon series bind reject unique track";

@@ -1,1 +1,1 @@
-var mnemonic = "odor night section disease stadium special paddle artwork sadness release diary symptom";
+var mnemonic = "arm elegant fossil vivid manage survey height short rice acid gentle ability";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty put canal cause deputy pelican detect much income sock net palm";
+var mnemonic = "candy busy blame knee stairs powder regular bid disorder elegant way crater";

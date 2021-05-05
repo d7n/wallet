@@ -1,1 +1,1 @@
-var mnemonic = "layer seek gate mother notable siege session burst social fuel witness error";
+var mnemonic = "retire album era plastic leg brand smooth enough open empower desk false";

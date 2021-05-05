@@ -1,1 +1,1 @@
-var mnemonic = "oxygen stage trim evil quarter cannon brown good long code butter dance";
+var mnemonic = "crunch bring uniform invest purchase rifle sad blood capable worry shell black";

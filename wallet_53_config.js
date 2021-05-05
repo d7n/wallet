@@ -1,1 +1,1 @@
-var mnemonic = "cabin dose soon idle cave infant mosquito pause airport employ delay plastic";
+var mnemonic = "fog step always exile lava angry caution answer tackle state left few";

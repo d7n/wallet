@@ -1,1 +1,1 @@
-var mnemonic = "airport raw learn dignity stairs sketch casino veteran nuclear record country metal";
+var mnemonic = "civil rain wing release novel boat fame tattoo pass congress spirit gain";

@@ -1,1 +1,1 @@
-var mnemonic = "sample use luxury clock shed six shaft honey peace cute hawk cousin";
+var mnemonic = "car method rely wild define tower stock gossip never cherry kingdom wealth";

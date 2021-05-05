@@ -1,1 +1,1 @@
-var mnemonic = "local auction access negative raccoon toast badge word stock delay glove scatter";
+var mnemonic = "kid hire blind twice session water someone best eye fluid narrow differ";

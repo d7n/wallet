@@ -1,1 +1,1 @@
-var mnemonic = "firm eight mirror analyst athlete dune oblige guilt derive theme cousin organ";
+var mnemonic = "exhaust exclude search moon crawl lucky dream swear feed host salt organ";

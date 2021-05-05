@@ -1,1 +1,1 @@
-var mnemonic = "sick noise animal tattoo reform where follow ramp energy parrot budget awful";
+var mnemonic = "key cheap turtle dove better bright obey mesh manage lecture screen entire";

@@ -1,1 +1,1 @@
-var mnemonic = "settle essence long blossom asset cushion elegant scare position legal attract field";
+var mnemonic = "absurd bachelor either cotton advance future code capable dose pill three grape";

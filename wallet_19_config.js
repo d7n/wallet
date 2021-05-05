@@ -1,1 +1,1 @@
-var mnemonic = "carry crush mouse sight increase believe shadow shaft time main wave riot";
+var mnemonic = "because achieve cabin visual hire punch lazy tribe install pepper february able";

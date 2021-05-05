@@ -1,1 +1,1 @@
-var mnemonic = "pupil mobile forget damp address kitten problem layer confirm mother pizza sea";
+var mnemonic = "vessel orbit patrol coffee vague next employ trigger chronic time wish quarter";

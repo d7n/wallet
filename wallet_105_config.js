@@ -1,1 +1,1 @@
-var mnemonic = "castle wave beach recipe romance banana permit popular inform hat elephant cement";
+var mnemonic = "hold sand regular now real march mosquito door body turkey lion inflict";

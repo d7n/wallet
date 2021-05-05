@@ -1,1 +1,1 @@
-var mnemonic = "valve hammer pole tank ecology mystery retire stairs ketchup child matter virus";
+var mnemonic = "crater file monkey galaxy clown danger boil ship peasant corn kid robust";

@@ -1,1 +1,1 @@
-var mnemonic = "know comfort area cake thing action chimney raise crisp pioneer dial release";
+var mnemonic = "bring ski auto tube steel decade two injury coconut top talk width";

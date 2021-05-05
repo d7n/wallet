@@ -1,1 +1,1 @@
-var mnemonic = "split pair print material gaze mimic cart unaware exhaust toward spawn heavy";
+var mnemonic = "wave they dish dwarf dove need orchard vibrant hour column when unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "betray six blade search oblige degree blanket speed left shuffle vintage cancel";
+var mnemonic = "host hobby main vivid team bachelor juice slogan hover simple oak fluid";

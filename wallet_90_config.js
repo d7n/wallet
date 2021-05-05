@@ -1,1 +1,1 @@
-var mnemonic = "plate fringe chest avoid fury tank shift air cabin coffee way clever";
+var mnemonic = "robot badge wash reduce inquiry rug amused gift kingdom stamp fold assault";

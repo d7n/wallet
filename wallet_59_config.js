@@ -1,1 +1,1 @@
-var mnemonic = "grow diamond annual tag payment narrow dragon history gain pencil spin social";
+var mnemonic = "they zero hospital toy ladder now switch token bomb stem tray daughter";

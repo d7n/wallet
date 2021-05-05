@@ -1,1 +1,1 @@
-var mnemonic = "scorpion remove scatter idea open cool brain panda document scrub repeat build";
+var mnemonic = "fine leisure bottom roof common day afford spatial spy universe noodle decide";

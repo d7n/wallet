@@ -1,1 +1,1 @@
-var mnemonic = "once fruit among duck law web wagon portion strong spatial easy feel";
+var mnemonic = "memory kite endless choice upon phrase trade myself capable barrel below flip";

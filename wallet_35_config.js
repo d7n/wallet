@@ -1,1 +1,1 @@
-var mnemonic = "crane text nice transfer circle frame giggle magnet typical hollow gesture provide";
+var mnemonic = "edit risk zebra grow cloud educate lens expect slight shine alert door";

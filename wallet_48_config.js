@@ -1,1 +1,1 @@
-var mnemonic = "fever fantasy edge original fresh broccoli faith riot refuse device woman album";
+var mnemonic = "wrong flower wrestle cotton flight material wood super belt ocean ethics immense";

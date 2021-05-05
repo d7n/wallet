@@ -1,1 +1,1 @@
-var mnemonic = "what humble ask food error organ address change scene smart sleep village";
+var mnemonic = "share cliff choose ghost attack night february burst access check moral recipe";

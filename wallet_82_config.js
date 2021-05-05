@@ -1,1 +1,1 @@
-var mnemonic = "ladder cupboard carpet keen giraffe bunker obscure mouse attack nurse rubber grief";
+var mnemonic = "chronic mouse choose head cup head poet act task track carbon direct";

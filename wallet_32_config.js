@@ -1,1 +1,1 @@
-var mnemonic = "purchase shift diet joke sure aunt job mad expire pen render road";
+var mnemonic = "shop knife crouch mention first exhibit torch mixed thrive ticket rebel volcano";

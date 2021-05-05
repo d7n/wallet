@@ -1,1 +1,1 @@
-var mnemonic = "toward ethics scene van merit drastic hurdle license ripple home action cupboard";
+var mnemonic = "stem portion fury various tourist hair ability tenant kitchen motion tunnel dance";

@@ -1,1 +1,1 @@
-var mnemonic = "just sheriff misery medal object whip until waste frown eye razor purity";
+var mnemonic = "skate flame add country tiny demand hand universe congress endless negative inch";

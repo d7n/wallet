@@ -1,1 +1,1 @@
-var mnemonic = "october coin disagree prefer glove salt road find country column sausage over";
+var mnemonic = "hole prosper short oven trouble oven estate goose neither problem often green";

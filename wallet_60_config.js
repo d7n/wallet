@@ -1,1 +1,1 @@
-var mnemonic = "tired damp fruit knock clutch they man author meat also month net";
+var mnemonic = "skin loyal canvas mixed scheme cook author crucial jar joy manage ribbon";

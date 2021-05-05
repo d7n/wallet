@@ -1,1 +1,1 @@
-var mnemonic = "story exchange squeeze cigar knife job boil sure judge update actress example";
+var mnemonic = "right merit clock original rich hole cereal lend host door sight icon";

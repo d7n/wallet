@@ -1,1 +1,1 @@
-var mnemonic = "inspire name polar body tape unable avoid category betray lyrics old rate";
+var mnemonic = "sentence vote find cluster kind plug pattern rare stadium screen recipe antique";

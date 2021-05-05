@@ -1,1 +1,1 @@
-var mnemonic = "quality salute ship demand cinnamon flip invite wagon duck pet tortoise nothing";
+var mnemonic = "process stay slab all celery category build chalk jar fiber turn soon";

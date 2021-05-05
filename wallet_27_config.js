@@ -1,1 +1,1 @@
-var mnemonic = "smoke cement park chicken arrive wage upgrade together swarm unaware dolphin test";
+var mnemonic = "record puzzle worth surge because fatal gaze rug under position express salt";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion tenant health thumb film celery act stamp undo yellow water general";
+var mnemonic = "special leg they loud design dice orange sadness wish abuse volume language";

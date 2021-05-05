@@ -1,1 +1,1 @@
-var mnemonic = "defense latin casual liar belt west mean mask cool resource owner mean";
+var mnemonic = "hip empty hello enroll spin sister picture boil music auction purse tattoo";

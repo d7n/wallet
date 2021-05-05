@@ -1,1 +1,1 @@
-var mnemonic = "fun cotton nothing snake round rival diagram door device current dry network";
+var mnemonic = "solve purity before mango jewel clay decide pony lady welcome below saddle";

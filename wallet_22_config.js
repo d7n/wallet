@@ -1,1 +1,1 @@
-var mnemonic = "great quarter naive maple powder winner joke spell mass december battle paddle";
+var mnemonic = "creek stereo awake disagree clump category kid suit spawn noise planet account";

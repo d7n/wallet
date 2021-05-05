@@ -1,1 +1,1 @@
-var mnemonic = "erupt scorpion plate flag dinner glad first protect tragic next churn present";
+var mnemonic = "duty jump main example member glass circle board source woman uncle toy";

@@ -1,1 +1,1 @@
-var mnemonic = "disease interest need artefact inquiry wife weasel toilet guide fiber very scatter";
+var mnemonic = "regular actual shove view blur shiver strike finger whip search tank shallow";

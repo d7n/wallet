@@ -1,1 +1,1 @@
-var mnemonic = "license base exhaust depend ripple issue month tower broom sun mirror print";
+var mnemonic = "forest luxury mouse success magnet receive okay size lyrics hundred ghost pave";

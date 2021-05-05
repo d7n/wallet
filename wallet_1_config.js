@@ -1,1 +1,1 @@
-var mnemonic = "mesh carbon carpet panda benefit regular hungry boring soap limit ethics timber";
+var mnemonic = "entry correct fringe there napkin feed autumn prison disagree idle produce knee";

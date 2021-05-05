@@ -1,1 +1,1 @@
-var mnemonic = "receive cruel neutral vivid grocery misery various surround blade symbol way water";
+var mnemonic = "rookie view excess wish laptop child kid ability tissue measure message amateur";

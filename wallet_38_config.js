@@ -1,1 +1,1 @@
-var mnemonic = "drive nature undo advice soon chicken hope federal display link song daring";
+var mnemonic = "hungry report scout flee citizen dash never mean another ripple fix enter";

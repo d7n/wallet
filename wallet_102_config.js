@@ -1,1 +1,1 @@
-var mnemonic = "level flame fan odor diesel measure forum canvas motor artist enable error";
+var mnemonic = "lift right great story jump memory torch battle clinic ship boost already";

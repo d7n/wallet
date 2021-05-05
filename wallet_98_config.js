@@ -1,1 +1,1 @@
-var mnemonic = "okay light vivid trash fortune bracket harsh credit enrich twist bunker mixture";
+var mnemonic = "course lawsuit light yellow nation topple example seek parade blanket message walk";

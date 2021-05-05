@@ -1,1 +1,1 @@
-var mnemonic = "moon sense laugh chapter strong ridge cannon tunnel visa digital doll bamboo";
+var mnemonic = "hurry oven silly dirt embark ocean evil fiscal mouse host swap rare";

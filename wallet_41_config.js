@@ -1,1 +1,1 @@
-var mnemonic = "salon shoe isolate yellow alley refuse then family table uniform rule arrow";
+var mnemonic = "alpha castle hold adjust solve rally maid reform push social decade apart";

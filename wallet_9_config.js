@@ -1,1 +1,1 @@
-var mnemonic = "idle major early loan sand joke glow resource ignore sense pitch bread";
+var mnemonic = "valve wedding question width kiss wage smart utility smoke street explain skull";

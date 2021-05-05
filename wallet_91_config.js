@@ -1,1 +1,1 @@
-var mnemonic = "lamp olive mom cliff napkin cargo quit prosper axis front boring color";
+var mnemonic = "online portion language expose wine nest offer load usage move frame move";

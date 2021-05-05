@@ -1,1 +1,1 @@
-var mnemonic = "beauty negative need physical piece help wage huge ordinary sure copy hurdle";
+var mnemonic = "audit warm fossil toy high amateur fine razor charge type episode hat";

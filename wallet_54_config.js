@@ -1,1 +1,1 @@
-var mnemonic = "certain prize umbrella swing drift trim gather blush zero produce life what";
+var mnemonic = "oxygen eyebrow witness stock moon soup obscure bean joy soda blanket thank";

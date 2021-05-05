@@ -1,1 +1,1 @@
-var mnemonic = "lamp advance resist security vacuum offer buffalo carry common crime tower often";
+var mnemonic = "decrease picture theme crack steel gauge hotel purity cradle shoe more buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator barely must ranch display cloth unlock frog exit small just little";
+var mnemonic = "company ride differ impact damage coyote fun cave toast female success angry";

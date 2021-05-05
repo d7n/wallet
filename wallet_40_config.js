@@ -1,1 +1,1 @@
-var mnemonic = "post spot apple warm punch local adjust wisdom cable social device strike";
+var mnemonic = "soup search member field crane marble ethics weather sister very naive drop";

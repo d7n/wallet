@@ -1,1 +1,1 @@
-var mnemonic = "love rain garbage range give dune tent warm anger wonder zoo inch";
+var mnemonic = "parade marriage album area cattle nothing genre main island aware someone bench";

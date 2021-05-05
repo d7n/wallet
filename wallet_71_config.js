@@ -1,1 +1,1 @@
-var mnemonic = "curious teach they point found sea resist item lady gentle wine bunker";
+var mnemonic = "more collect jealous survey wet digital goat rifle lend waste slight corn";

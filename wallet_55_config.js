@@ -1,1 +1,1 @@
-var mnemonic = "river near snap magic two tray denial change toy rely act item";
+var mnemonic = "vessel winner song essence fuel shop curtain among topic minute jeans front";

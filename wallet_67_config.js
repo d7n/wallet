@@ -1,1 +1,1 @@
-var mnemonic = "drill talk onion behave green tube myself depend response wife senior settle";
+var mnemonic = "volcano payment drill calm frozen truth economy powder slide recipe wrist bless";

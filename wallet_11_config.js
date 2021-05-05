@@ -1,1 +1,1 @@
-var mnemonic = "debate write jeans annual skate large wreck nature cannon define try spider";
+var mnemonic = "multiply brick hobby evolve private select because retreat shoulder fossil donor glimpse";

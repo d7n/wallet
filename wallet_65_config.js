@@ -1,1 +1,1 @@
-var mnemonic = "episode develop ripple predict drink hope angle prefer replace run accident gravity";
+var mnemonic = "nephew shaft adjust crazy future great object ribbon alley actor bacon dutch";

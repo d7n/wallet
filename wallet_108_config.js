@@ -1,1 +1,1 @@
-var mnemonic = "space magnet example soon fish laptop gather pupil present ability vote length";
+var mnemonic = "company short congress pistol kingdom gravity paper fabric fatal debate train goddess";

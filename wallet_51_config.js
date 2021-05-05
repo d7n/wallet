@@ -1,1 +1,1 @@
-var mnemonic = "maze race knee need easy enter ugly pill number pink flight tenant";
+var mnemonic = "grape cancel swarm naive want calm shed tide panel sure wrap vacant";

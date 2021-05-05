@@ -1,1 +1,1 @@
-var mnemonic = "rigid deal praise apple orphan this behind tortoise proud indoor voyage cabbage";
+var mnemonic = "torch actress jealous cycle fancy venture version fish theme inform trim number";

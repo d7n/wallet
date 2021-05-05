@@ -1,1 +1,1 @@
-var mnemonic = "idea pepper bike filter pair peace spend make entry detect slab jeans";
+var mnemonic = "response antique hundred salon gloom vault alpha level visa window bronze absorb";

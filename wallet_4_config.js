@@ -1,1 +1,1 @@
-var mnemonic = "color excess tail robot omit solid runway maple confirm wave era diesel";
+var mnemonic = "step inflict gallery witness hood slow grant habit acquire hill confirm aunt";

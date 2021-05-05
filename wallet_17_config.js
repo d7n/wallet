@@ -1,1 +1,1 @@
-var mnemonic = "drama phrase thunder guitar casual salute major husband uncle spare garage title";
+var mnemonic = "lawn photo fury scrub afraid pitch lamp capital silent resource amazing awesome";
