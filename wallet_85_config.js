@@ -1,1 +1,1 @@
-var mnemonic = "miss spy among mechanic general shoot tired return scene weekend view elephant";
+var mnemonic = "cable canvas year jar bone entire path small club enrich shock emerge";

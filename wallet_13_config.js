@@ -1,1 +1,1 @@
-var mnemonic = "cage short all rose primary report uniform local coast urban thrive habit";
+var mnemonic = "anxiety name flock business receive demand evoke empty ghost simple empty beyond";

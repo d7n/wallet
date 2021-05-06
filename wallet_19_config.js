@@ -1,1 +1,1 @@
-var mnemonic = "loud canal envelope direct guide gain rebuild rely cushion there staff slow";
+var mnemonic = "rookie end timber icon mercy wine fish laptop tiger demise already clever";

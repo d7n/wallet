@@ -1,1 +1,1 @@
-var mnemonic = "short learn stadium scissors athlete dose afford awful dizzy menu dish head";
+var mnemonic = "transfer mule dash bachelor strong segment cigar recall busy aisle like grab";

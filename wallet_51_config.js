@@ -1,1 +1,1 @@
-var mnemonic = "awkward blossom path useful state dove twist melt autumn journey faint unfair";
+var mnemonic = "box flame mind inmate panel chef document where phrase mule achieve dolphin";

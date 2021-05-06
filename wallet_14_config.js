@@ -1,1 +1,1 @@
-var mnemonic = "avoid symptom donkey volume music sing talk stem tired client six injury";
+var mnemonic = "ordinary slogan bone caught obey stamp imitate february please forget breeze hundred";

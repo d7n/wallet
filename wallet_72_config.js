@@ -1,1 +1,1 @@
-var mnemonic = "post transfer daring spend genuine legend zone neck method aisle cactus embark";
+var mnemonic = "pause like boil token solar apology column crumble whisper almost evoke code";

@@ -1,1 +1,1 @@
-var mnemonic = "gold join arch since pupil point push spirit couch cry average permit";
+var mnemonic = "hint omit random acid east monkey pool valid toss universe assume puppy";

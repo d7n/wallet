@@ -1,1 +1,1 @@
-var mnemonic = "scrub negative cigar hamster velvet dial warm bitter now village sorry cream";
+var mnemonic = "bread excuse distance seven teach satisfy casino explain nephew grid call wood";

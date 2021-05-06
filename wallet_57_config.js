@@ -1,1 +1,1 @@
-var mnemonic = "test moon age one subject guide fringe bubble cactus anger law analyst";
+var mnemonic = "board dog squirrel museum spice service penalty ice crystal pitch crazy year";

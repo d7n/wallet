@@ -1,1 +1,1 @@
-var mnemonic = "reject review royal conduct timber type increase erosion fold embark margin essence";
+var mnemonic = "ketchup trick denial match orchard flame cotton target wall refuse action allow";

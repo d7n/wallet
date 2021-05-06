@@ -1,1 +1,1 @@
-var mnemonic = "rookie beyond almost dress change artwork curious green strong power latin february";
+var mnemonic = "tuition soon come lamp tree busy bicycle argue clutch art upset addict";

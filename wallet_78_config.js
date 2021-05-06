@@ -1,1 +1,1 @@
-var mnemonic = "liberty burst raw seat mention used salmon garage love over quote advice";
+var mnemonic = "device reopen slot success pulse dune nose thunder wash fringe foil gym";

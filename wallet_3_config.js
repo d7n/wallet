@@ -1,1 +1,1 @@
-var mnemonic = "globe lounge mesh sponsor skirt fever december charge reunion method slice promote";
+var mnemonic = "venue fit actual survey multiply sight claw ethics twenty picture atom rate";

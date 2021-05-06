@@ -1,1 +1,1 @@
-var mnemonic = "sentence absurd into erosion use age weekend consider end pattern exchange twenty";
+var mnemonic = "ginger visual caution dignity casual skull anger airport light dismiss cute rookie";

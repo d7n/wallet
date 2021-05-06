@@ -1,1 +1,1 @@
-var mnemonic = "champion satisfy obvious expand bomb tonight shop waste escape mirror disorder job";
+var mnemonic = "jacket replace erupt liquid fantasy myth year lonely flavor depart pizza coach";

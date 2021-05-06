@@ -1,1 +1,1 @@
-var mnemonic = "beach sick level rapid special plug bless grid tobacco harbor bright describe";
+var mnemonic = "already roof web bright pet coral wet clean milk gravity exact pretty";

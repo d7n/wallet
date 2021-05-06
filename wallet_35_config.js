@@ -1,1 +1,1 @@
-var mnemonic = "exact limit during reject timber shoe ordinary age vessel better ugly shoe";
+var mnemonic = "path knee elder visit perfect tone village wool glory public village vocal";

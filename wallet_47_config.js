@@ -1,1 +1,1 @@
-var mnemonic = "spike walnut shoe host dose foot fatigue rough inherit unlock melt glad";
+var mnemonic = "spread dream push industry lava inherit behave glory fresh develop round caution";

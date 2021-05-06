@@ -1,1 +1,1 @@
-var mnemonic = "wolf among soup cactus bracket kidney human spot trip shy rail doll";
+var mnemonic = "similar dry lock voice baby steel hub often catalog vivid famous shadow";

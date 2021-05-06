@@ -1,1 +1,1 @@
-var mnemonic = "worth churn mean position ancient calm latin clinic rural indoor bid dust";
+var mnemonic = "accident scissors tooth scissors stomach hub trash worth deputy access myth drama";

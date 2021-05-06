@@ -1,1 +1,1 @@
-var mnemonic = "essay master pool orbit echo holiday federal display panther polar tank raw";
+var mnemonic = "raccoon segment one film lizard same brain sample few shaft globe fashion";

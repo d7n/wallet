@@ -1,1 +1,1 @@
-var mnemonic = "inch improve day little nuclear fan expose warfare photo blade trumpet auction";
+var mnemonic = "swing crouch carbon acoustic pull tide animal wreck tissue cream slot book";

@@ -1,1 +1,1 @@
-var mnemonic = "visual family double fly two dial clinic young slight jaguar album iron";
+var mnemonic = "guilt shuffle aspect iron loyal circle rotate aim yellow essence depart lobster";

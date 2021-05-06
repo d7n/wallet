@@ -1,1 +1,1 @@
-var mnemonic = "group surge kingdom isolate price pact half velvet human deputy tell vacant";
+var mnemonic = "order purse shallow require student seed tent outer beauty surround hat husband";

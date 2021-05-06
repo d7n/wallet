@@ -1,1 +1,1 @@
-var mnemonic = "random reflect trouble tiny usual castle tell want dolphin element birth come";
+var mnemonic = "tenant muscle celery blind decrease north left rare cake crack sure dial";

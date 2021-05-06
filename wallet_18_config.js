@@ -1,1 +1,1 @@
-var mnemonic = "ketchup toe plate nothing canoe speak struggle high poverty rice power rate";
+var mnemonic = "salad transfer pistol next yellow step math flower run peanut plug swamp";

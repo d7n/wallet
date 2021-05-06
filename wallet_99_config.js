@@ -1,1 +1,1 @@
-var mnemonic = "evil edit that burst that review supply oil around mobile sight acquire";
+var mnemonic = "fruit impose credit design dove problem guilt rack mom reflect cave rebel";

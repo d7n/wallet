@@ -1,1 +1,1 @@
-var mnemonic = "basket spend disorder olive coin anxiety source truck ramp hotel lens pistol";
+var mnemonic = "safe sudden tube ready trumpet winner include where various fury surprise transfer";

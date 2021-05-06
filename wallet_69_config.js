@@ -1,1 +1,1 @@
-var mnemonic = "ostrich ready cliff rabbit doll fragile deal east ribbon same humor win";
+var mnemonic = "radio kid teach glow snow summer culture demise item pupil stove egg";

@@ -1,1 +1,1 @@
-var mnemonic = "machine photo illegal budget joke cheese ginger add brick behave vote fish";
+var mnemonic = "error ignore umbrella smoke cancel problem song spot feel pioneer program rally";

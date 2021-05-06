@@ -1,1 +1,1 @@
-var mnemonic = "between flush capable tape forum umbrella shove lizard tissue craft rural drink";
+var mnemonic = "length age jungle tell genre faint junk hurdle bread lava unusual recycle";

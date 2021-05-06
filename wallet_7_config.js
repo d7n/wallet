@@ -1,1 +1,1 @@
-var mnemonic = "earth field sketch brush session always minor ask avoid sorry ecology payment";
+var mnemonic = "alter piece novel debate diamond lock essence sleep reveal either dish autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover oxygen buffalo tube page front fat interest taxi armed little deposit";
+var mnemonic = "target comfort stereo cannon grocery vacant sand display universe potato they thrive";

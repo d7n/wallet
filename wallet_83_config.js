@@ -1,1 +1,1 @@
-var mnemonic = "cool sentence candy wrist van once word pizza bus sick kit silent";
+var mnemonic = "flag orbit deal pig clap comfort hobby joy virus patch vibrant drop";

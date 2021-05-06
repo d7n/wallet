@@ -1,1 +1,1 @@
-var mnemonic = "vanish what awful picture truly primary annual cave pole future raccoon win";
+var mnemonic = "way crazy lyrics yard box outdoor average strong arrest river digital elbow";

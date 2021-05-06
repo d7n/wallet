@@ -1,1 +1,1 @@
-var mnemonic = "castle nut drip link cake false pelican task embrace order host man";
+var mnemonic = "sketch room benefit about patient club lecture upper forget hurt hurt ugly";

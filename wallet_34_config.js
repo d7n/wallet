@@ -1,1 +1,1 @@
-var mnemonic = "scrub entry foster reduce plug local gold slab faculty lady furnace hobby";
+var mnemonic = "notice awesome cruise brief census into good slogan please token drink hire";

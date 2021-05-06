@@ -1,1 +1,1 @@
-var mnemonic = "onion crisp unable bunker bubble noodle debate bulb defy slide old jaguar";
+var mnemonic = "describe grid rule dog clog between plate bacon dish nephew tree mimic";

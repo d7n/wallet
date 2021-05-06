@@ -1,1 +1,1 @@
-var mnemonic = "disorder test vintage cousin inner tattoo jump fancy clap unlock pond know";
+var mnemonic = "slot slender thumb milk risk trick exile three clog when chase erupt";

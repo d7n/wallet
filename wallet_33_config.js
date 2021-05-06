@@ -1,1 +1,1 @@
-var mnemonic = "clog asthma exhibit shuffle shoe spring convince caution traffic holiday tomorrow gravity";
+var mnemonic = "arch smooth tool sight balance audit scare potato win mule below photo";

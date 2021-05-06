@@ -1,1 +1,1 @@
-var mnemonic = "duty head exit bright melody wink choose employ level tenant year stumble";
+var mnemonic = "clip destroy fire ordinary solar body betray sport shine forest kiss trial";

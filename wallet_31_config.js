@@ -1,1 +1,1 @@
-var mnemonic = "stereo blame guide soup weekend vehicle harvest version since movie describe rival";
+var mnemonic = "use soap alarm please solid carry cousin body patrol okay busy steak";

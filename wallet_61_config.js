@@ -1,1 +1,1 @@
-var mnemonic = "invest hurdle enlist grief secret write bomb gauge say cross erode conduct";
+var mnemonic = "blouse traffic whale tilt essay wash convince message valid isolate truck hybrid";

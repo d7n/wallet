@@ -1,1 +1,1 @@
-var mnemonic = "ride vapor soldier escape mountain skirt powder over coyote session enforce vocal";
+var mnemonic = "wheel large increase lock swamp immune review knife sausage wink flash private";

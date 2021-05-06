@@ -1,1 +1,1 @@
-var mnemonic = "rule category require gold cradle pact draw topic ivory item broken cook";
+var mnemonic = "era easily depart truth tent tip gold curve talent hamster quit tag";

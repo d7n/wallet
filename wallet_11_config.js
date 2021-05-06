@@ -1,1 +1,1 @@
-var mnemonic = "solid park camp tooth battle caution wrong powder liar pole island found";
+var mnemonic = "frown blur airport own lizard mixed exchange blue void color cluster fortune";

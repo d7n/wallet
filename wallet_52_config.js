@@ -1,1 +1,1 @@
-var mnemonic = "quiz loyal reflect pyramid cream twice tower human suspect mobile social final";
+var mnemonic = "peace forum until loud act peanut drink post achieve mammal because aisle";

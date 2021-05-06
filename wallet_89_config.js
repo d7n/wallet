@@ -1,1 +1,1 @@
-var mnemonic = "method seed tiny old olive cradle current stock spoil liar dignity nature";
+var mnemonic = "heart boat cat bright involve property dry ginger notable address mutual fluid";

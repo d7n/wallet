@@ -1,1 +1,1 @@
-var mnemonic = "myself dust name wife gate exhaust gasp leg dragon night grab clutch";
+var mnemonic = "warrior moon advance leisure once lounge layer barrel ostrich case special soon";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid fog toddler biology crater keen first olympic toy ride paper ride";
+var mnemonic = "place inmate unveil net again state liar panel purpose steel camp trend";

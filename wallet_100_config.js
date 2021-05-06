@@ -1,1 +1,1 @@
-var mnemonic = "noble just churn riot friend reflect weird push inspire evidence describe balance";
+var mnemonic = "damage myth multiply next brass sight involve invite charge lonely unhappy wire";

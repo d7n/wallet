@@ -1,1 +1,1 @@
-var mnemonic = "scatter junior eight crawl walk security response harbor sell addict secret brown";
+var mnemonic = "process pretty wife magnet garlic staff obscure oblige ordinary gather keen wife";

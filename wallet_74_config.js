@@ -1,1 +1,1 @@
-var mnemonic = "reform regret wish better absent long account toward muffin pigeon bottom cool";
+var mnemonic = "tent sudden party blast ugly work above dilemma love robust infant slot";

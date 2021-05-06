@@ -1,1 +1,1 @@
-var mnemonic = "disease afraid skill misery box raise space hood pulp echo case slim";
+var mnemonic = "vault globe amazing room switch pulse almost mobile marriage asthma critic crew";

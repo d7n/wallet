@@ -1,1 +1,1 @@
-var mnemonic = "night civil scrap faculty execute town lion young anchor net spread brisk";
+var mnemonic = "yard charge category photo index squirrel impulse analyst system document sport control";

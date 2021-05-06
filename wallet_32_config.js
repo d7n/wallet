@@ -1,1 +1,1 @@
-var mnemonic = "series silk pulse spy friend owner noise eye only stairs stove jealous";
+var mnemonic = "neglect alter drama initial scorpion category gym green dust river describe sudden";

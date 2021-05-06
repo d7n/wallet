@@ -1,1 +1,1 @@
-var mnemonic = "effort suspect run inflict reject budget spatial session require interest pole calm";
+var mnemonic = "excess list purchase dream yard donkey sentence awkward crunch weekend frost error";

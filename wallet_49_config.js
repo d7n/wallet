@@ -1,1 +1,1 @@
-var mnemonic = "novel cluster robust filter never among sister company hurdle access inspire orphan";
+var mnemonic = "midnight bring direct burst timber risk giant wealth famous view loud among";

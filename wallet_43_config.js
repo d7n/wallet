@@ -1,1 +1,1 @@
-var mnemonic = "horse accident weekend middle share service suggest ill cash hidden end cry";
+var mnemonic = "crash pride chimney quote enjoy next carbon side tomorrow street immense rare";

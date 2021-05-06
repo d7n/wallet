@@ -1,1 +1,1 @@
-var mnemonic = "thank ramp estate brief bid maid blouse bone execute grain open issue";
+var mnemonic = "blur tiger admit narrow someone leg green company ridge gaze rug love";

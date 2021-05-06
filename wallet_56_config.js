@@ -1,1 +1,1 @@
-var mnemonic = "liquid lend vault moon light usage add hero output grunt slab lunch";
+var mnemonic = "wise general margin turtle room glare vintage umbrella provide dinner charge february";

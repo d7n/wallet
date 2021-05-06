@@ -1,1 +1,1 @@
-var mnemonic = "sniff gravity stick bottom multiply pact stay asthma sheriff truth biology iron";
+var mnemonic = "practice hair say young warfare utility kite top cotton zone quarter install";

@@ -1,1 +1,1 @@
-var mnemonic = "future buddy width grief future evil trumpet topple adapt offer thrive lecture";
+var mnemonic = "innocent predict pledge evidence moon repair man whale sting way renew paddle";

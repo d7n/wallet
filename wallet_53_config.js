@@ -1,1 +1,1 @@
-var mnemonic = "emerge custom actual demand fan weekend mask protect royal satoshi scout icon";
+var mnemonic = "diamond volcano suggest pepper talent wink double insect olive ladder minor job";

@@ -1,1 +1,1 @@
-var mnemonic = "daring climb win supreme crouch appear save olive amateur hour stumble flight";
+var mnemonic = "canyon ski loop cool mixed way erase entry web ocean occur romance";

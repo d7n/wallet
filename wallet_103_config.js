@@ -1,1 +1,1 @@
-var mnemonic = "six flee canyon skirt region book staff choice submit diesel february panel";
+var mnemonic = "alone labor ignore arena cram fossil dance fossil jazz collect reward fringe";

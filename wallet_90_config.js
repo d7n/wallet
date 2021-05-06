@@ -1,1 +1,1 @@
-var mnemonic = "carbon label moral sense agent hero bike twist viable ginger oak negative";
+var mnemonic = "mammal lamp certain jaguar asthma race mountain awake cause hobby spoon release";

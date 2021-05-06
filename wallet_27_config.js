@@ -1,1 +1,1 @@
-var mnemonic = "indicate large beyond lucky govern double join crack pilot alert unfold creek";
+var mnemonic = "digital you moral donkey jealous river wide cream yellow federal dose path";

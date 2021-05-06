@@ -1,1 +1,1 @@
-var mnemonic = "tackle main title improve junior parade ten wink hill system throw rural";
+var mnemonic = "leave bounce fabric umbrella first grid fan shoot album cycle olive debate";

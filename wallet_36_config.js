@@ -1,1 +1,1 @@
-var mnemonic = "spoil today goose candy license this arrest phrase ordinary damage offer speed";
+var mnemonic = "exercise eternal camp cherry skate foot slot cost genius denial ribbon anchor";

@@ -1,1 +1,1 @@
-var mnemonic = "cheese margin topic long tired garden culture stomach try cash inquiry imitate";
+var mnemonic = "buddy coffee industry main mistake okay amount frequent axis whip vintage lock";

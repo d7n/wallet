@@ -1,1 +1,1 @@
-var mnemonic = "gas still unveil curious verify unit carbon task season verify oil audit";
+var mnemonic = "tomato lamp half glue random print still frozen pilot drill vast glare";

@@ -1,1 +1,1 @@
-var mnemonic = "genuine help street legal alter wool chronic film smooth hotel man dizzy";
+var mnemonic = "poverty option sad infant finger crowd tunnel broom laptop bunker fitness captain";

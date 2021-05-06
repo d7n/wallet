@@ -1,1 +1,1 @@
-var mnemonic = "snow avocado prison wide slender boy retire swing bundle hungry field kitchen";
+var mnemonic = "observe adapt deer measure meadow neutral render actor marble breeze drum neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate shell expose van hub loop gown logic foster open utility improve";
+var mnemonic = "hen exclude twin poet trial cupboard episode second wife supreme meat dirt";

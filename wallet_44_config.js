@@ -1,1 +1,1 @@
-var mnemonic = "stamp invest giraffe phrase around help claim doctor coil can nice prevent";
+var mnemonic = "crash favorite two gesture flee repeat effort beauty creek huge tide base";

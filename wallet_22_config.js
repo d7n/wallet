@@ -1,1 +1,1 @@
-var mnemonic = "throw galaxy biology toss minute lemon choice shiver drift logic coach clutch";
+var mnemonic = "coffee replace police open select announce choose strategy congress recipe merit walnut";

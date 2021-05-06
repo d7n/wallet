@@ -1,1 +1,1 @@
-var mnemonic = "area used stage usage bring will soccer museum tornado business join hard";
+var mnemonic = "turtle indoor coffee essence air toward spy ritual canal crystal pioneer either";

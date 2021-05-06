@@ -1,1 +1,1 @@
-var mnemonic = "wealth core gauge fetch sustain flat chicken notable cloud lend orphan bulb";
+var mnemonic = "clutch tent coast shiver high clinic gloom organ census zebra mouse fossil";

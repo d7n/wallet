@@ -1,1 +1,1 @@
-var mnemonic = "slender lucky wet current tornado echo filter forum social ranch body aunt";
+var mnemonic = "adult wrong actor lock stable apology case junior system wear only table";

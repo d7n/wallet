@@ -1,1 +1,1 @@
-var mnemonic = "erase carbon gate buffalo tonight vanish key faculty index hole fluid source";
+var mnemonic = "rescue couch genuine sound enlist length view silver derive silver turkey steak";

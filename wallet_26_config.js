@@ -1,1 +1,1 @@
-var mnemonic = "tattoo tomato fog receive fish school slim alter rubber ocean radio evidence";
+var mnemonic = "gain light cool debris doll core cattle panic sausage nothing extra again";

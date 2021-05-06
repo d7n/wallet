@@ -1,1 +1,1 @@
-var mnemonic = "fame right knock patient smile before flavor brain snack kite engage there";
+var mnemonic = "banner mutual dawn size select happy fatal gesture truck charge despair clog";

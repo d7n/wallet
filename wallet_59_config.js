@@ -1,1 +1,1 @@
-var mnemonic = "run pear dutch soda impulse trade hedgehog typical spider usage text leisure";
+var mnemonic = "claim funny bike chief purity valley nature provide fancy live immense snow";

@@ -1,1 +1,1 @@
-var mnemonic = "empower repeat tiger solar receive boost skirt enforce color bitter monitor fuel";
+var mnemonic = "price disagree leave girl grant paddle oppose valid paper weekend actual fruit";

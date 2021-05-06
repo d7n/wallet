@@ -1,1 +1,1 @@
-var mnemonic = "pony venture junk pretty opera grow brief call paper fly sign target";
+var mnemonic = "gadget motor flight sign forget knock quote check tobacco raccoon bubble comfort";

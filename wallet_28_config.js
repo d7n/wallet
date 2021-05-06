@@ -1,1 +1,1 @@
-var mnemonic = "thrive violin weekend unique control coffee zone spirit bike material local ecology";
+var mnemonic = "hard satoshi body menu jelly venture aisle finger blind phone error bean";

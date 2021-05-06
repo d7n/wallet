@@ -1,1 +1,1 @@
-var mnemonic = "rent volume popular switch regret remove sibling brush walk stock vast pull";
+var mnemonic = "solar clever clarify ordinary siren denial isolate mimic submit manage game carbon";
