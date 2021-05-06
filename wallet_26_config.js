@@ -1,1 +1,1 @@
-var mnemonic = "stove document spawn call bubble chase ocean advance staff genre word confirm";
+var mnemonic = "twist olympic turn frown rotate ozone unhappy expose swing toward one clinic";

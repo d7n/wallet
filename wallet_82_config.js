@@ -1,1 +1,1 @@
-var mnemonic = "vast brother green noise area glory pledge shove lake route capital kitten";
+var mnemonic = "aware six advice stadium bomb involve profit depend mesh discover name hand";

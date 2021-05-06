@@ -1,1 +1,1 @@
-var mnemonic = "flight behind parent feature style solution scorpion buzz scissors cat initial alarm";
+var mnemonic = "topple iron mail obscure powder vacant raven cupboard stumble truly vault fox";

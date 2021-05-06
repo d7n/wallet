@@ -1,1 +1,1 @@
-var mnemonic = "wealth resemble dry word casino correct banner powder clerk river advance carpet";
+var mnemonic = "bulb income bus exist skate jacket rule note brand cycle recipe belt";

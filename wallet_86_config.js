@@ -1,1 +1,1 @@
-var mnemonic = "dumb squirrel retreat basic primary comic kitchen tired laugh swallow goose useful";
+var mnemonic = "wood warm scale exit behind exhaust multiply spoon jaguar identify primary crisp";

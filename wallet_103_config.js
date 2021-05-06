@@ -1,1 +1,1 @@
-var mnemonic = "opinion blush debris shaft clutch cave current lottery dirt welcome pattern admit";
+var mnemonic = "blade tunnel squeeze damage announce treat profit hammer pet elite cinnamon trip";

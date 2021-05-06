@@ -1,1 +1,1 @@
-var mnemonic = "exhaust mother memory notice fiber game avoid punch menu merry magic marine";
+var mnemonic = "dizzy final caught better that vendor ripple involve exercise breeze hire ripple";

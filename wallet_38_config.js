@@ -1,1 +1,1 @@
-var mnemonic = "scare border around large kangaroo trumpet fantasy change journey coffee pepper entry";
+var mnemonic = "champion aim clown what fluid debate slender dolphin beauty impact key absent";

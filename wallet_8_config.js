@@ -1,1 +1,1 @@
-var mnemonic = "price parade debate ability reunion size creek earth airport recall can call";
+var mnemonic = "long soft lab board sphere iron credit style survey student call copper";

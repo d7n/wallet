@@ -1,1 +1,1 @@
-var mnemonic = "license alter vague lottery oyster clip snack turn march steel height deposit";
+var mnemonic = "pipe tray loop give armed thought anxiety turtle nephew able turn million";

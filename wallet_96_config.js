@@ -1,1 +1,1 @@
-var mnemonic = "arena gym public deal possible imitate question pull motion lava spy grit";
+var mnemonic = "search trip witness syrup original wolf skate document left another kitten enrich";

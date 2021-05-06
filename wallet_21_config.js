@@ -1,1 +1,1 @@
-var mnemonic = "balance mammal town dad limit matter unfair clip nephew enroll news detail";
+var mnemonic = "nest gaze cable february equip name canyon cup cool other ensure cake";

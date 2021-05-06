@@ -1,1 +1,1 @@
-var mnemonic = "copper park bicycle trumpet suffer inherit jump soccer exotic fine utility vintage";
+var mnemonic = "behind ordinary latin pet equip act fiction flame remind reject tackle always";

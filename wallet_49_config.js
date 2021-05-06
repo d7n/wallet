@@ -1,1 +1,1 @@
-var mnemonic = "survey vital lawsuit mango gown awesome critic swift pulse tone knock noble";
+var mnemonic = "suit orchard awake vendor mercy burden age hurt glass portion turtle wheat";

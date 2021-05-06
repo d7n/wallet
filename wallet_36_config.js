@@ -1,1 +1,1 @@
-var mnemonic = "slow empty dilemma impact measure settle stumble beach crouch aspect chat column";
+var mnemonic = "annual evidence helmet rate benefit riot remove deposit weekend square will jewel";

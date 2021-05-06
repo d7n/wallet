@@ -1,1 +1,1 @@
-var mnemonic = "usage market jeans head volcano silk garlic shrimp deliver notice asthma express";
+var mnemonic = "future join expand walk fine liquid busy royal melody cotton giraffe spawn";

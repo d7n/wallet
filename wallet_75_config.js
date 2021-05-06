@@ -1,1 +1,1 @@
-var mnemonic = "still hard sail bargain ignore pudding whale suggest giraffe core area humble";
+var mnemonic = "claim dove calm match duty join noodle joke aunt suspect copper penalty";

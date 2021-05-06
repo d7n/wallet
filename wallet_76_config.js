@@ -1,1 +1,1 @@
-var mnemonic = "oppose olive uniform rose vintage okay nice soldier immune smart layer donkey";
+var mnemonic = "scrap mango rally another cinnamon rare squeeze jar pass expire raise robust";

@@ -1,1 +1,1 @@
-var mnemonic = "image desert business test melody liar march vivid zone section coyote damage";
+var mnemonic = "salt student sample setup crime leopard local grant blue helmet pig voice";

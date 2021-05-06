@@ -1,1 +1,1 @@
-var mnemonic = "pitch patch climb bacon renew fluid market undo nice fame mom bunker";
+var mnemonic = "device knife certain pause fox region client assist hurt grow siege session";

@@ -1,1 +1,1 @@
-var mnemonic = "delay original canal funny garage various problem replace soul chalk blame leaf";
+var mnemonic = "pilot cable grunt top olive feature achieve middle evil best bomb drink";

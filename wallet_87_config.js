@@ -1,1 +1,1 @@
-var mnemonic = "admit actual luxury aerobic suggest dream glory brick pizza valve soap chase";
+var mnemonic = "slab meadow version gallery primary dust poem latin glare poem grocery end";

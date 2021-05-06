@@ -1,1 +1,1 @@
-var mnemonic = "such affair brown memory scrap debris hockey slam because hill van cream";
+var mnemonic = "iron mosquito because crash grief glove palace energy blame place speak age";

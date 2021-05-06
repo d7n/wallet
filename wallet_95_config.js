@@ -1,1 +1,1 @@
-var mnemonic = "client donkey horror girl depth reject music leave bachelor prison latin coconut";
+var mnemonic = "august plunge impulse fence inch raise run bike agree morning clean faith";

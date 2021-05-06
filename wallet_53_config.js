@@ -1,1 +1,1 @@
-var mnemonic = "device regular rookie marriage able text wine twin primary limb enrich load";
+var mnemonic = "sibling coach idle topple blue monitor reunion absent funny enough large coil";

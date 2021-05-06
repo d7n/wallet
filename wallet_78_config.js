@@ -1,1 +1,1 @@
-var mnemonic = "peanut birth pelican genuine garden slight race assault napkin toy jacket vicious";
+var mnemonic = "hat exit eye fog dinosaur public route cabin loud coin rose push";

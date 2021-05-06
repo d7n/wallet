@@ -1,1 +1,1 @@
-var mnemonic = "renew soda wise little media real quit buffalo regular allow horn venture";
+var mnemonic = "family very inflict island monitor rely exist burden force suffer obtain maid";

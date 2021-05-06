@@ -1,1 +1,1 @@
-var mnemonic = "moral rescue page fade improve cup thought effort model caution mixture program";
+var mnemonic = "tiny grain hurry proof muffin ask buyer shock view relax hospital shine";

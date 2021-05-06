@@ -1,1 +1,1 @@
-var mnemonic = "drift cost champion pottery chronic cup item table candy victory arrive detect";
+var mnemonic = "nuclear uncover laundry squeeze dentist elder mercy remember prefer gallery gravity wise";

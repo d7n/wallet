@@ -1,1 +1,1 @@
-var mnemonic = "space ignore hole pitch bicycle perfect tree right pudding inspire estate frown";
+var mnemonic = "inspire boss alcohol double diamond borrow recycle flower casino pair tobacco auto";

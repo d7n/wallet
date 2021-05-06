@@ -1,1 +1,1 @@
-var mnemonic = "prize village wait sibling fortune story smile street lottery assist submit father";
+var mnemonic = "dose more staff silent useless tilt reveal define profit hire sock gift";

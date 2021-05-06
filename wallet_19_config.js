@@ -1,1 +1,1 @@
-var mnemonic = "convince typical timber despair shop foam hedgehog town spend tube off hope";
+var mnemonic = "valley nest attract float bundle blouse accident kit busy island east primary";

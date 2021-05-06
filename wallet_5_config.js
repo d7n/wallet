@@ -1,1 +1,1 @@
-var mnemonic = "name fun subway icon vague salt rabbit announce okay ordinary seek sock";
+var mnemonic = "angle bulb idea pair peasant obvious old replace crumble charge tattoo tomato";

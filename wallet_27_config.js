@@ -1,1 +1,1 @@
-var mnemonic = "basic glass rotate earth veteran select lawn enrich term lottery dress skate";
+var mnemonic = "misery census dress metal sudden bubble lawsuit service town network patch ask";

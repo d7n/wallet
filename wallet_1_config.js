@@ -1,1 +1,1 @@
-var mnemonic = "rather crash rifle pledge century devote extend anger exit indicate elephant gauge";
+var mnemonic = "chronic beef annual adapt weather spice industry ensure act cattle december topple";

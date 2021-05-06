@@ -1,1 +1,1 @@
-var mnemonic = "faculty follow belt tunnel feel blast phone road source grow invite win";
+var mnemonic = "prison disagree once gap cabin lazy pledge rotate grain canoe depart resemble";

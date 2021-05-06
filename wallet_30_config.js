@@ -1,1 +1,1 @@
-var mnemonic = "among focus first private indicate join catalog bottom add champion clutch benefit";
+var mnemonic = "globe nothing lion pepper exhibit name lunch burger ginger worry tone adapt";

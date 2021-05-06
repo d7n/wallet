@@ -1,1 +1,1 @@
-var mnemonic = "myself bright filter thumb palace damp scrap prosper hood green print host";
+var mnemonic = "sorry ghost cable slice judge innocent brisk nephew west hungry embody sphere";

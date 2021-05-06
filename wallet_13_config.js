@@ -1,1 +1,1 @@
-var mnemonic = "diagram regular text habit what end reflect essay draw cook west limb";
+var mnemonic = "loud session veteran stay spike secret pluck license receive project defy fuel";

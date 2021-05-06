@@ -1,1 +1,1 @@
-var mnemonic = "image scout smart shaft fire possible dilemma lumber victory paper critic silly";
+var mnemonic = "breeze unknown front elbow inquiry slide palace syrup ride involve mandate bind";

@@ -1,1 +1,1 @@
-var mnemonic = "pilot glue eight ketchup economy library hazard tenant hero clown fossil oak";
+var mnemonic = "bacon digital card finish trouble oxygen good awesome memory twice shield win";

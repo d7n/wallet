@@ -1,1 +1,1 @@
-var mnemonic = "congress hockey pattern pear please tornado neutral correct tube fix weapon enforce";
+var mnemonic = "skin concert shock donate inhale recipe silk decade gossip clutch victory betray";

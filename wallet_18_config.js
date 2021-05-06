@@ -1,1 +1,1 @@
-var mnemonic = "panther forum gadget describe simple mistake trade cry mule cluster skin bind";
+var mnemonic = "inject ripple acquire steel universe make prosper blush report subway welcome youth";

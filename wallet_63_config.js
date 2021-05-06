@@ -1,1 +1,1 @@
-var mnemonic = "deposit vessel code pledge lobster run learn swift laundry violin bomb demand";
+var mnemonic = "aim hurry once busy school punch arrow twin insane bird trash spot";

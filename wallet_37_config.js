@@ -1,1 +1,1 @@
-var mnemonic = "universe piano north liberty believe talk prepare gap book orchard parrot apple";
+var mnemonic = "reflect fuel ensure female chase neck cupboard rail smoke must grocery glance";

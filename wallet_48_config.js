@@ -1,1 +1,1 @@
-var mnemonic = "better voice image buffalo priority feel woman wrong rifle base reveal theory";
+var mnemonic = "keep report time loud innocent shrimp tone lizard useful cage current flag";

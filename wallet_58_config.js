@@ -1,1 +1,1 @@
-var mnemonic = "urge also car lemon jazz angry coin divorce buzz grief sound strong";
+var mnemonic = "ankle vocal blanket logic grunt dice camera actor drama sound aisle wrong";

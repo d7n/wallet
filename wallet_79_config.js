@@ -1,1 +1,1 @@
-var mnemonic = "sad march hello royal subway mean give require invest club possible dry";
+var mnemonic = "sustain cherry myself stumble wreck suffer scene this slow able symbol divert";

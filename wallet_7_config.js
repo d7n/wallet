@@ -1,1 +1,1 @@
-var mnemonic = "near banner weasel garage square jungle pizza scissors abandon pass lyrics drop";
+var mnemonic = "deal survey cool deal ecology album resemble negative conduct worth embrace health";

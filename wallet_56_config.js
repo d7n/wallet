@@ -1,1 +1,1 @@
-var mnemonic = "earth grant lawn panda gravity bundle state appear thank broken unlock mule";
+var mnemonic = "success corn execute vast rely donate sadness soap evidence best obscure aim";

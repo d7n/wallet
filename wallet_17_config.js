@@ -1,1 +1,1 @@
-var mnemonic = "oppose relief arrange travel excite marble skirt stem actress skill stay buddy";
+var mnemonic = "attitude august better maple bonus cabbage decorate merry strike giggle swamp muscle";

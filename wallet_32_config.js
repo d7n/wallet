@@ -1,1 +1,1 @@
-var mnemonic = "alien check display wet garlic example enter year estate unique depart never";
+var mnemonic = "capable patrol amused annual vital off brick library category punch leisure rose";

@@ -1,1 +1,1 @@
-var mnemonic = "siren noble hundred accident thank budget anxiety rough dose label seat shrug";
+var mnemonic = "network public kiwi antique gaze valid coyote smart uncle govern capable lobster";

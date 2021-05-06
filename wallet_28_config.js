@@ -1,1 +1,1 @@
-var mnemonic = "will similar legend cause country exit behave stone cup plate size topple";
+var mnemonic = "ribbon unveil ice burger royal duty borrow fee joy body math apple";

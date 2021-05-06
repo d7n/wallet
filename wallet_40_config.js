@@ -1,1 +1,1 @@
-var mnemonic = "visa unveil army van tobacco question pull poem inquiry slide cousin vacuum";
+var mnemonic = "transfer buffalo crouch describe soldier march mansion wonder across silent august knock";

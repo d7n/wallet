@@ -1,1 +1,1 @@
-var mnemonic = "festival tattoo twin outside belt innocent immense old economy twenty unusual hammer";
+var mnemonic = "aware kid identify faith virtual knock jungle bright exercise jazz edit couple";

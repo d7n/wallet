@@ -1,1 +1,1 @@
-var mnemonic = "eager code club rigid dance course vendor about mouse large intact wire";
+var mnemonic = "federal inject web glove ski siege quick goddess junk rack define bottom";

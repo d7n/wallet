@@ -1,1 +1,1 @@
-var mnemonic = "later kitchen earth depth expose flip effort scout inspire basic metal air";
+var mnemonic = "exhaust slice ethics capital run comic chef trophy fresh vessel hybrid health";

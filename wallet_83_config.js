@@ -1,1 +1,1 @@
-var mnemonic = "gift brave divide hello grab poem kiwi surround hold cargo diary imitate";
+var mnemonic = "fence remember balance crunch kid possible double october issue rubber soft remember";

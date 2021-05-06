@@ -1,1 +1,1 @@
-var mnemonic = "security language garden organ chat blossom mom express wife kick snow evoke";
+var mnemonic = "glare pink tip race obey army dwarf alert shallow ball into thank";

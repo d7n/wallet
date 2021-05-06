@@ -1,1 +1,1 @@
-var mnemonic = "found detail walk vanish exotic laptop hammer track trade buffalo uncover hero";
+var mnemonic = "ten property shrimp rose input motion lake raven crush coast repair still";

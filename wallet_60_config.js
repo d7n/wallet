@@ -1,1 +1,1 @@
-var mnemonic = "holiday stuff provide shrug machine virus gas season pull bench program shell";
+var mnemonic = "jar erupt ocean undo good enable plunge defy real love entire taste";

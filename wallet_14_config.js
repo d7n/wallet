@@ -1,1 +1,1 @@
-var mnemonic = "try pitch vital render lunar cannon coil custom provide earth target nature";
+var mnemonic = "ginger afford shaft safe turtle bundle edge aspect arch tower year ride";

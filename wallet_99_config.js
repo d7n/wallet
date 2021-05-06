@@ -1,1 +1,1 @@
-var mnemonic = "embody bulb elbow senior raise avocado elite often early ensure fit equip";
+var mnemonic = "vicious rescue carry balance peanut sick dinosaur security display ankle panda grape";

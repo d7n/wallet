@@ -1,1 +1,1 @@
-var mnemonic = "book vibrant egg skate delay rich harbor civil champion plate custom boss";
+var mnemonic = "hand copy panda symbol bitter seek life arrange tooth ramp tape nasty";

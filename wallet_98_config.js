@@ -1,1 +1,1 @@
-var mnemonic = "cat object turkey spatial circle slice virtual mammal meadow present entire element";
+var mnemonic = "oblige unveil jelly tortoise popular arena unit spend viable zoo oblige donkey";

@@ -1,1 +1,1 @@
-var mnemonic = "volcano romance goose valve paper front idle cotton cement split eight way";
+var mnemonic = "clay awesome welcome veteran dumb fiction legal jaguar blanket face tiger invite";

@@ -1,1 +1,1 @@
-var mnemonic = "kit bike wool engine found water swift boring head stairs nurse smooth";
+var mnemonic = "joy jungle student aim trumpet mother deliver deny merit quiz march hat";

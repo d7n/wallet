@@ -1,1 +1,1 @@
-var mnemonic = "simple unusual system typical year trap also bird arrest forward door alien";
+var mnemonic = "surround prevent arrow success wealth token make crowd force horn pizza joke";

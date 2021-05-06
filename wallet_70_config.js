@@ -1,1 +1,1 @@
-var mnemonic = "cover today vital drum find window win prepare exclude midnight receive border";
+var mnemonic = "save hover wave memory shy view cushion brown route office adjust better";

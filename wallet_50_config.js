@@ -1,1 +1,1 @@
-var mnemonic = "chunk valid front confirm expect mass gold digital apology lazy misery carbon";
+var mnemonic = "wing twelve olive siren stone spawn bounce supply journey panic brief word";

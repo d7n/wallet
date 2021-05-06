@@ -1,1 +1,1 @@
-var mnemonic = "piece answer mystery employ giggle stand absorb smile long recipe august treat";
+var mnemonic = "kiss voice brisk dilemma liberty assume ahead cook squirrel stable riot doll";

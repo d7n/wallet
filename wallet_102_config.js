@@ -1,1 +1,1 @@
-var mnemonic = "river flavor pistol system nasty echo one orphan dinosaur acoustic tackle cricket";
+var mnemonic = "install output useless loan need shaft brain faint shop hour brass resist";

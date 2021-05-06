@@ -1,1 +1,1 @@
-var mnemonic = "leaf curious skull badge scheme behave yellow shallow tiny snap spread chaos";
+var mnemonic = "truck pause poverty error crumble clap nominee truck glance rigid assume narrow";

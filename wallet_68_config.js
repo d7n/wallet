@@ -1,1 +1,1 @@
-var mnemonic = "damp conduct question crazy size guitar knife gallery thumb obscure thank spare";
+var mnemonic = "dash real resist head jacket absorb utility boat budget autumn scrub nuclear";

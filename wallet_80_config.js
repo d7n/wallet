@@ -1,1 +1,1 @@
-var mnemonic = "admit labor peace olive december explain trim collect viable glow derive view";
+var mnemonic = "main lava shy yard onion rate play buzz learn wrong this vague";

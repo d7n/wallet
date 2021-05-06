@@ -1,1 +1,1 @@
-var mnemonic = "goose carry wash outdoor innocent mushroom swear curious chef side eight genius";
+var mnemonic = "lamp august invest engage boil length vacuum churn scatter peanut produce give";

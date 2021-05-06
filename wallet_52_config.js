@@ -1,1 +1,1 @@
-var mnemonic = "gesture trigger fork then luggage cross monster comic enjoy degree index mammal";
+var mnemonic = "noise glow suffer hire taxi vast picnic network crush buzz right improve";

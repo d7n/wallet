@@ -1,1 +1,1 @@
-var mnemonic = "special custom swarm stomach neutral math mushroom debris soldier spin amazing enough";
+var mnemonic = "quote deputy market town tent today layer iron silk quarter brief human";

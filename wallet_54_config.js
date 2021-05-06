@@ -1,1 +1,1 @@
-var mnemonic = "borrow ball core book know physical come blind february pattern guitar patch";
+var mnemonic = "wasp large hand sick detail trigger diet connect cram eyebrow donkey large";

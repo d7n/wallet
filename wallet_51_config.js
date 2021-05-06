@@ -1,1 +1,1 @@
-var mnemonic = "air walnut world such able vivid thought shrimp horse soul convince fortune";
+var mnemonic = "people always mention uncle priority saddle donor excite sing drop culture year";

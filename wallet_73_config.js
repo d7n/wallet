@@ -1,1 +1,1 @@
-var mnemonic = "opinion initial clerk middle entry maximum bonus board auto make media abandon";
+var mnemonic = "love someone put chicken armor away oppose tonight little joke need runway";

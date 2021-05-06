@@ -1,1 +1,1 @@
-var mnemonic = "elite hold disorder fortune define sample unaware slam normal surface common rubber";
+var mnemonic = "orchard sunset file way cereal alone shallow perfect horror pass volume analyst";

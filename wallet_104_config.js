@@ -1,1 +1,1 @@
-var mnemonic = "trigger since chief slender bounce salute rebel bird soccer wheat vicious this";
+var mnemonic = "refuse width lamp grant farm frozen now pass match fringe tower crowd";

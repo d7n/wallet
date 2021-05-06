@@ -1,1 +1,1 @@
-var mnemonic = "you enable course leader oppose myself route shield risk emotion siege scare";
+var mnemonic = "tragic boost pride scorpion school page hungry bright cattle sauce acquire sad";
