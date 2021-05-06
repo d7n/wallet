@@ -1,1 +1,1 @@
-var mnemonic = "canoe panic deliver clutch dutch setup fish save inhale basic flush ugly";
+var mnemonic = "audit scatter wood exhaust occur machine flame balance found endless cause smile";

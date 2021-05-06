@@ -1,1 +1,1 @@
-var mnemonic = "empower rigid emerge ten say forum pond wreck rely blanket shed destroy";
+var mnemonic = "route effort job raw modify help dog goose switch setup route refuse";

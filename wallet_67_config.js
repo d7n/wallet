@@ -1,1 +1,1 @@
-var mnemonic = "unique mushroom farm ugly uncle mansion exhaust perfect range family kiss vacant";
+var mnemonic = "merry category wash expire off ten grief profit noble term suffer hello";

@@ -1,1 +1,1 @@
-var mnemonic = "case mad patient cupboard swarm excuse grief wire scan absorb arch much";
+var mnemonic = "era produce bulk say hurt fatal welcome detect project glad win subway";

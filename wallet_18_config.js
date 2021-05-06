@@ -1,1 +1,1 @@
-var mnemonic = "emotion glow clean weapon put person chief earth cross anchor stable reopen";
+var mnemonic = "spirit awake stage tiny virtual earth sight wasp ritual awesome pig mass";

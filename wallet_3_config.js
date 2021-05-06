@@ -1,1 +1,1 @@
-var mnemonic = "table recipe accident nerve move tray punch lava parade exact battle group";
+var mnemonic = "thumb cement hub pipe practice invest august sun miracle vehicle acoustic parrot";

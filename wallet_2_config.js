@@ -1,1 +1,1 @@
-var mnemonic = "blood depart shine card resemble truly fluid maze version credit that ancient";
+var mnemonic = "cable meadow spring secret draw mention erode remind gospel wage talk few";

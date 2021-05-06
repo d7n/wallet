@@ -1,1 +1,1 @@
-var mnemonic = "cute scrub snake record raise retire bring swamp merry shift office giraffe";
+var mnemonic = "radio matrix cliff ball retreat east below fee track chat mushroom alter";

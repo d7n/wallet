@@ -1,1 +1,1 @@
-var mnemonic = "people wait beef eagle purchase tenant category bunker document clog cake effort";
+var mnemonic = "episode fragile bone flavor extend spy toy usual travel view keen amazing";

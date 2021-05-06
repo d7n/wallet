@@ -1,1 +1,1 @@
-var mnemonic = "antique snack rug inflict plunge culture lesson joke soap pupil trophy juice";
+var mnemonic = "disagree forward mind vicious crash scatter drastic resist maze arrest parrot camp";

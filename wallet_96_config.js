@@ -1,1 +1,1 @@
-var mnemonic = "orient table slam essay barrel floor vault inside rate upgrade weapon black";
+var mnemonic = "bonus stuff voice happy search aim notice oyster assist face abuse media";

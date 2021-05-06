@@ -1,1 +1,1 @@
-var mnemonic = "gather curve clean matter attend suffer relax issue own else pluck obtain";
+var mnemonic = "few luggage gate infant indoor throw behind habit clock defense rule awake";

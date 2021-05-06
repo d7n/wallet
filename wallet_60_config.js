@@ -1,1 +1,1 @@
-var mnemonic = "sustain lounge dial edit venue rifle tonight gesture vocal action rug blind";
+var mnemonic = "blood ski nurse leisure october cover sustain blanket amount diary morning decorate";

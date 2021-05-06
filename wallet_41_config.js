@@ -1,1 +1,1 @@
-var mnemonic = "thumb cheese pumpkin brave pig catalog snake tragic party follow supreme potato";
+var mnemonic = "blouse pluck what dove car metal analyst rubber forest elder good cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery rapid news shoulder exotic elevator waste fashion exist kidney valid worry";
+var mnemonic = "foot erode soft clump hotel drink coyote response genuine bird sand display";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt angle piece purity tattoo column lobster cycle asthma shield fiscal dress";
+var mnemonic = "rotate high system potato modify anger tornado mention cover sting modify hobby";

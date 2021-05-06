@@ -1,1 +1,1 @@
-var mnemonic = "jazz carry video soup lyrics kid shoe hint retire critic boss knock";
+var mnemonic = "stamp pitch chaos pledge brief pact liar antenna collect capable fly measure";

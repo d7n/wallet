@@ -1,1 +1,1 @@
-var mnemonic = "deny doll radar confirm motor minute urban mistake endless spring reduce stove";
+var mnemonic = "mirror fee drama symbol health access spoil area poverty unfold math airport";

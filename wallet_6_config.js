@@ -1,1 +1,1 @@
-var mnemonic = "dumb veteran fault sponsor provide left crane couch length blade wasp hamster";
+var mnemonic = "special audit garlic coffee duty topic next security various match pulse learn";

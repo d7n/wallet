@@ -1,1 +1,1 @@
-var mnemonic = "flavor arrest assault today royal solid tackle flat identify cricket when material";
+var mnemonic = "hold develop corn coin side museum zone rail spot winter rifle prepare";

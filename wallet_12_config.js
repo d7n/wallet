@@ -1,1 +1,1 @@
-var mnemonic = "essay sphere pioneer pride behave average tiny eight fantasy token noodle already";
+var mnemonic = "melody visit various movie vibrant push canoe window review oval combine spot";

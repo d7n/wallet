@@ -1,1 +1,1 @@
-var mnemonic = "toast example dream garment pause famous tooth much zero judge lock caution";
+var mnemonic = "tone slab voyage resist dawn tank ecology inmate sentence sound crazy alarm";

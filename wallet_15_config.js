@@ -1,1 +1,1 @@
-var mnemonic = "tissue hover silly cross jump traffic advice garden pyramid mass lumber acquire";
+var mnemonic = "aim gun craft leaf broccoli copper exact trophy machine pink urge gift";

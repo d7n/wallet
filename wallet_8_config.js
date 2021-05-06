@@ -1,1 +1,1 @@
-var mnemonic = "clutch item option hungry then stay sound nice build muffin please bulb";
+var mnemonic = "tackle have outside drill text unique thing egg stone antique kingdom song";

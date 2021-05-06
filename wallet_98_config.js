@@ -1,1 +1,1 @@
-var mnemonic = "jacket dose radar south notable message tenant undo alone liberty vote angle";
+var mnemonic = "middle license make light jealous success scatter dry warrior gather arrest winner";

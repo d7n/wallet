@@ -1,1 +1,1 @@
-var mnemonic = "behind trust come correct inside elegant horn chaos weird word drastic night";
+var mnemonic = "wood object buyer gentle require holiday comfort zebra ancient victory grab grit";

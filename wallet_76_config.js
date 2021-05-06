@@ -1,1 +1,1 @@
-var mnemonic = "salt pepper cross secret hybrid spy kid clip section sun leave young";
+var mnemonic = "eyebrow boss wedding soccer shy energy mixed move beyond clog still text";

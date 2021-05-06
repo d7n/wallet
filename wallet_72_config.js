@@ -1,1 +1,1 @@
-var mnemonic = "own discover disagree uncle keep code nuclear ride cute frequent vital furnace";
+var mnemonic = "flush bargain arena affair test shiver genre shrug tissue catalog kit frown";

@@ -1,1 +1,1 @@
-var mnemonic = "fall angle pupil swarm fabric athlete place tip exhaust reason switch autumn";
+var mnemonic = "indoor absorb fix way fruit jump imitate shallow example saddle coast evolve";

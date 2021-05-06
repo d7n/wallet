@@ -1,1 +1,1 @@
-var mnemonic = "trust fragile yard doctor giant minor mansion stairs play accident sudden menu";
+var mnemonic = "basic humor slight there vacuum loud defense dwarf bless pioneer item dog";

@@ -1,1 +1,1 @@
-var mnemonic = "clog mango antique stem crucial recycle enact stand force begin rough hip";
+var mnemonic = "naive only misery inject present ramp riot business various arena random rule";

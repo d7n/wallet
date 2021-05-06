@@ -1,1 +1,1 @@
-var mnemonic = "kidney razor sort issue quiz vacuum sock meadow world damp charge solution";
+var mnemonic = "permit grape usual slot grit hammer obtain major buyer theme fit pledge";

@@ -1,1 +1,1 @@
-var mnemonic = "water onion ill artefact cargo again ripple post palace error post slight";
+var mnemonic = "original clutch language fashion jacket trumpet key wage hour canal pause medal";

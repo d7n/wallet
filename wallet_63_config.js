@@ -1,1 +1,1 @@
-var mnemonic = "knee trick this wall claw mystery century void traffic duck nuclear pole";
+var mnemonic = "type track surround ivory check impulse sunny example game sell parade potato";

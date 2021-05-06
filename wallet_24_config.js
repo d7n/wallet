@@ -1,1 +1,1 @@
-var mnemonic = "treat nurse gate donor lady strategy sand relief letter general bean auto";
+var mnemonic = "quote evil tired segment write helmet blame once lunar barrel either avocado";

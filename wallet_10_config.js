@@ -1,1 +1,1 @@
-var mnemonic = "satisfy settle vendor wing vacant rookie angle upon they honey wasp flat";
+var mnemonic = "wrap insane identify novel walnut empty radio rocket render tornado laundry six";

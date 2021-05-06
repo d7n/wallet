@@ -1,1 +1,1 @@
-var mnemonic = "motion fury sting unique extra myth motion lake coral cheese mimic embrace";
+var mnemonic = "finish theory slow resist snack damage lucky board glide shrug wide story";

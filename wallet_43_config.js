@@ -1,1 +1,1 @@
-var mnemonic = "you load team surge love vault lunch either notable walk reject fit";
+var mnemonic = "inject rich valid lumber toe spin pistol useful solar inquiry panda core";

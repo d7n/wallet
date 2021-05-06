@@ -1,1 +1,1 @@
-var mnemonic = "confirm capital tape tunnel tongue repair antique gallery pioneer sadness venture evoke";
+var mnemonic = "country kingdom swear easily surround elegant weasel cancel actual crash begin roof";

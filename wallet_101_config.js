@@ -1,1 +1,1 @@
-var mnemonic = "defense vague pistol door false magnet congress boring banner wine canoe piano";
+var mnemonic = "purchase muscle language hurdle media cousin gadget panther good equal income index";

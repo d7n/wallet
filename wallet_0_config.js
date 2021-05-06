@@ -1,1 +1,1 @@
-var mnemonic = "liar fame high patch rhythm south sport one uniform rhythm unfold jar";
+var mnemonic = "pull audit act tone eyebrow type truck city bean acquire run afraid";

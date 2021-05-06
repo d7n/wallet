@@ -1,1 +1,1 @@
-var mnemonic = "neutral around debris matter provide suffer grant soft tortoise angle desert badge";
+var mnemonic = "earth ankle arm crane fiction notable capital artefact praise boat prosper kitchen";

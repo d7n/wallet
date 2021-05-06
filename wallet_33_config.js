@@ -1,1 +1,1 @@
-var mnemonic = "absent muffin giant birth skirt endorse wash stock method around below family";
+var mnemonic = "simple improve worry oyster kitten cluster position bike lucky tattoo ribbon vote";

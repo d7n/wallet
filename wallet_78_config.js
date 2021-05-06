@@ -1,1 +1,1 @@
-var mnemonic = "champion fantasy cement place meat wife give kit remain pilot film possible";
+var mnemonic = "feed dirt border hidden again unknown defy drop hungry mixture visual salute";

@@ -1,1 +1,1 @@
-var mnemonic = "favorite culture blade half rotate wrong truth screen bring valid giraffe forest";
+var mnemonic = "girl labor curtain moral easily leader second claw bottom grape exhibit cluster";

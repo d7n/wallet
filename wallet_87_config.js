@@ -1,1 +1,1 @@
-var mnemonic = "right subway album panda blanket always panda maze more arrange measure coyote";
+var mnemonic = "when normal egg enforce much era simple turtle basic alarm arrow demand";

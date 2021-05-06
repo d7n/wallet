@@ -1,1 +1,1 @@
-var mnemonic = "biology resemble exchange heart ghost acoustic thought rely degree change upon glory";
+var mnemonic = "gesture cream escape problem timber exercise problem force absurd edge unlock pyramid";

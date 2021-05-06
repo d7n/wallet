@@ -1,1 +1,1 @@
-var mnemonic = "puzzle forest shrug hood mosquito theory bunker wink bacon divorce input rude";
+var mnemonic = "please segment emerge dismiss ostrich loud juice alpha garment noodle tribe absurd";

@@ -1,1 +1,1 @@
-var mnemonic = "prison dirt volume warrior talent elbow lens pipe crew worry october cool";
+var mnemonic = "horror ritual deal depend legend armor junk hat sugar upgrade era fuel";

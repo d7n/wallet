@@ -1,1 +1,1 @@
-var mnemonic = "reform belt dumb search rent enlist blind walnut copper turkey maze output";
+var mnemonic = "devote slab letter donor follow medal blood stable escape armor once cereal";

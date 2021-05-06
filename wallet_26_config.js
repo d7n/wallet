@@ -1,1 +1,1 @@
-var mnemonic = "early brisk exotic document army faculty member rural unhappy reunion hunt mirror";
+var mnemonic = "skate exclude parade cool detail grit arrive pact inflict thrive invite corn";

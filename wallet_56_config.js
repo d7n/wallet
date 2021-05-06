@@ -1,1 +1,1 @@
-var mnemonic = "slight run transfer describe dove indoor fringe sad dice fury move staff";
+var mnemonic = "tattoo torch daughter sail entry decade dynamic inject say answer crop ecology";

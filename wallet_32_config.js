@@ -1,1 +1,1 @@
-var mnemonic = "comfort economy disorder isolate next mango claim only ahead step owner cry";
+var mnemonic = "aspect debris convince chunk silver lonely middle turn balance energy angle spoon";

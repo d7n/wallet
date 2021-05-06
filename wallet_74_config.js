@@ -1,1 +1,1 @@
-var mnemonic = "seek kitchen quarter raise win bind phone abstract object dust share ticket";
+var mnemonic = "call special cabbage either flip rack march profit welcome slow appear rally";

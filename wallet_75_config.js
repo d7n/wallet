@@ -1,1 +1,1 @@
-var mnemonic = "affair wagon fall fix nest phone width banana game nest ankle inner";
+var mnemonic = "lake cushion allow siren extend network federal impact pumpkin boil pair state";

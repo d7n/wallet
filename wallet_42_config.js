@@ -1,1 +1,1 @@
-var mnemonic = "fury stereo rhythm tilt deal citizen practice must noodle blade laptop surface";
+var mnemonic = "ankle require volcano pave adult usage remove sad hand drive girl original";

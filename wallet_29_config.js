@@ -1,1 +1,1 @@
-var mnemonic = "mixture gain surface ensure affair air tray spray awake release smoke stand";
+var mnemonic = "minimum bring oppose cat just phrase shove barrel olive disorder cattle nurse";

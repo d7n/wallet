@@ -1,1 +1,1 @@
-var mnemonic = "fish crumble plate trick mimic joy number hospital kiss already brass fitness";
+var mnemonic = "rent vast diagram stick knee expose curve kind used monkey frame caught";

@@ -1,1 +1,1 @@
-var mnemonic = "else renew border high only above cancel author vocal force man leaf";
+var mnemonic = "street toddler frequent grant grain bag awesome tank scheme culture spice intact";

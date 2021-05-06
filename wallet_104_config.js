@@ -1,1 +1,1 @@
-var mnemonic = "tray wealth release boy voice text utility square expect tragic keen edit";
+var mnemonic = "speed security core enjoy midnight swallow relief bracket because catch shallow chair";

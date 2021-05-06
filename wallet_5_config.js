@@ -1,1 +1,1 @@
-var mnemonic = "company address such slot donkey warm model spider gesture squirrel scrub marble";
+var mnemonic = "learn valid uncle card age rabbit jar prize trap aisle ancient blame";

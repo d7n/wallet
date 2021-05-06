@@ -1,1 +1,1 @@
-var mnemonic = "survey predict pony stamp edit marriage winter hammer outdoor visa neither acid";
+var mnemonic = "recall used cart mercy exit vicious world way enforce style uphold lift";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire express ladder wall seminar capital bulb situate alley vendor style game";
+var mnemonic = "advance hurt spoon easy movie trick expire aware choice sorry salad finger";

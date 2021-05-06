@@ -1,1 +1,1 @@
-var mnemonic = "message man draft invite body whisper bus arrest favorite blouse fitness edit";
+var mnemonic = "opera flee flat embark harvest business spoil update exercise result south old";

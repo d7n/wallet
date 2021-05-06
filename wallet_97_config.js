@@ -1,1 +1,1 @@
-var mnemonic = "fog crowd name false awful noise chalk tag relief control eyebrow advice";
+var mnemonic = "cake town parrot invite game leg marble valley evolve shift give rebel";

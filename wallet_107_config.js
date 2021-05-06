@@ -1,1 +1,1 @@
-var mnemonic = "carbon glad soon dial divorce quick august adapt rich hint nasty like";
+var mnemonic = "uphold speak front expand tunnel marine youth fringe physical husband age buzz";

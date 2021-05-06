@@ -1,1 +1,1 @@
-var mnemonic = "teach squirrel quantum fine alpha advance supreme direct balance rigid upper source";
+var mnemonic = "double panel belt wreck garlic wrap culture usage blossom pioneer polar purse";

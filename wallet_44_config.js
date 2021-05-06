@@ -1,1 +1,1 @@
-var mnemonic = "oxygen snap romance mail obey burst goose gold silk faculty joke turtle";
+var mnemonic = "lawn sword napkin subway net nice torch couple chair praise kite reject";

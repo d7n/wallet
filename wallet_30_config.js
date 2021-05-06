@@ -1,1 +1,1 @@
-var mnemonic = "note sausage laundry indicate also job appear danger elbow crack include final";
+var mnemonic = "crush decline whip escape crucial whisper idle interest village belt castle among";

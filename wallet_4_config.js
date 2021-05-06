@@ -1,1 +1,1 @@
-var mnemonic = "horn join tornado clap shaft quantum assist heavy wasp soda click payment";
+var mnemonic = "ranch outer start north clerk any pride cruel toward educate kit badge";

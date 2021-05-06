@@ -1,1 +1,1 @@
-var mnemonic = "then annual rent stereo march main damage curious pumpkin captain ostrich pig";
+var mnemonic = "atom crop garbage silver elder canal mass stomach furnace street truck index";

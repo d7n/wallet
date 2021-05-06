@@ -1,1 +1,1 @@
-var mnemonic = "potato have bubble obscure hurdle possible grain culture door pelican trash face";
+var mnemonic = "butter about rally until discover history peanut access prize aerobic obey elite";

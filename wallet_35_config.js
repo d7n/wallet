@@ -1,1 +1,1 @@
-var mnemonic = "wedding bicycle chaos swap lounge core shuffle capital castle cradle good patient";
+var mnemonic = "pretty december leisure nurse ribbon decade cross require coast morning intact vacant";

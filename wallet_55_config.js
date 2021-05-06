@@ -1,1 +1,1 @@
-var mnemonic = "affair orchard runway alter grace voice flip wheat club hunt behave face";
+var mnemonic = "clinic into menu prevent slush behind truly awesome diamond floor burst subway";

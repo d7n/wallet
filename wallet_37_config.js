@@ -1,1 +1,1 @@
-var mnemonic = "position next old brisk label horror glide depth cradle into elevator choose";
+var mnemonic = "join short keen keep share coach valid monster aunt chair indoor make";

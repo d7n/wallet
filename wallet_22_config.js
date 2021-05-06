@@ -1,1 +1,1 @@
-var mnemonic = "rack forum erase salute sun leave camera appear salad school menu bird";
+var mnemonic = "timber achieve garlic require kidney vapor clarify venue oppose edit burst tennis";

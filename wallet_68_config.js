@@ -1,1 +1,1 @@
-var mnemonic = "below scene cash spoon crazy fiscal true gospel home lecture doll strike";
+var mnemonic = "pumpkin place arrange crystal multiply boost collect smile actor march actor bid";

@@ -1,1 +1,1 @@
-var mnemonic = "tube afraid oil resist sleep illness lend fatal hill tattoo settle sing";
+var mnemonic = "lunar embody spoil quiz motor fitness salute cream nature title gas rare";

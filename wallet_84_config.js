@@ -1,1 +1,1 @@
-var mnemonic = "town move amount actor dune lumber diagram come hobby stadium vacuum rice";
+var mnemonic = "rug pattern memory raven ripple multiply aware forward someone fox still best";

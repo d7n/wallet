@@ -1,1 +1,1 @@
-var mnemonic = "innocent athlete smooth volume sponsor peasant upgrade practice any tobacco rural pause";
+var mnemonic = "warfare topple bamboo asset grace jelly side smooth warm float always autumn";

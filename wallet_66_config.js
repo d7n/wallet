@@ -1,1 +1,1 @@
-var mnemonic = "oyster artefact manage hover armed vocal trip small sword parade museum scale";
+var mnemonic = "appear steel swamp between acid print spray injury evolve hollow goddess check";

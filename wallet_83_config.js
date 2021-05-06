@@ -1,1 +1,1 @@
-var mnemonic = "door disagree silk prevent biology describe under chair jump become sudden abuse";
+var mnemonic = "raven sight display warrior maximum company high fuel dad language spike note";

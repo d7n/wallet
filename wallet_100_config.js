@@ -1,1 +1,1 @@
-var mnemonic = "motor satisfy shoulder entire true primary unaware treat cotton pattern unit fine";
+var mnemonic = "inside blood control amazing light card special mass faith hope six traffic";

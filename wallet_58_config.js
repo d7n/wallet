@@ -1,1 +1,1 @@
-var mnemonic = "scare twenty end print exotic urge prevent annual ozone farm caution toast";
+var mnemonic = "point grow damage oval approve dignity minimum matrix wet stick lend option";

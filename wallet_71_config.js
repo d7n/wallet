@@ -1,1 +1,1 @@
-var mnemonic = "before border feel column shield margin spend robot wing leader sister forest";
+var mnemonic = "bleak cactus throw spatial sand order omit surround soap gauge can search";

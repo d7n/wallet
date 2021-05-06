@@ -1,1 +1,1 @@
-var mnemonic = "wire spring cool promote drama eye kit record promote hire give piece";
+var mnemonic = "parade debate fragile feel twin moment certain latin cherry club stadium law";
