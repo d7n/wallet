@@ -1,1 +1,1 @@
-var mnemonic = "stable task novel govern demand extra palm reward dust where sound faint";
+var mnemonic = "horse biology little assume anger motor regret vendor faith erupt piece because";

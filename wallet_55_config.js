@@ -1,1 +1,1 @@
-var mnemonic = "depend evoke exchange monkey armed solar speak this clown endless hip dwarf";
+var mnemonic = "fly kidney dawn innocent like vague faculty tribe velvet nephew good glow";

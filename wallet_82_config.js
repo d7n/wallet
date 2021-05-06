@@ -1,1 +1,1 @@
-var mnemonic = "dress miracle nasty source bicycle egg empower approve noble sunset couch bar";
+var mnemonic = "true weekend senior answer exchange account ready young tilt roof delay fever";

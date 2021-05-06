@@ -1,1 +1,1 @@
-var mnemonic = "wise genre surprise tip street spray plate outside sign lounge concert width";
+var mnemonic = "wine record atom spare latin gown hotel monitor forward seek hotel broom";

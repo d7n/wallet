@@ -1,1 +1,1 @@
-var mnemonic = "grain tourist stumble gas rotate slice trouble universe gas balance rifle phrase";
+var mnemonic = "indoor vacant parrot elephant party sheriff endorse cereal captain radio letter antique";

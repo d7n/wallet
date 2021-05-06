@@ -1,1 +1,1 @@
-var mnemonic = "onion coil wash town follow merge soul equip suggest immune what crawl";
+var mnemonic = "silver derive alpha repeat tornado tree right pave sphere dish apple busy";

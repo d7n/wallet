@@ -1,1 +1,1 @@
-var mnemonic = "please wine senior luggage trade lake census sort account miss purpose describe";
+var mnemonic = "inhale elegant monster lava rural fashion still subway stable donor town deliver";

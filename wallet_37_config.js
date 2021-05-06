@@ -1,1 +1,1 @@
-var mnemonic = "rule sister portion magnet peanut clap gospel ostrich bunker review broccoli away";
+var mnemonic = "athlete upgrade express violin useless exact turkey buzz anxiety tower limb act";

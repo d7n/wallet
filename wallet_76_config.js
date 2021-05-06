@@ -1,1 +1,1 @@
-var mnemonic = "scissors lava abandon turkey giraffe lunch jaguar saddle report monster pig gold";
+var mnemonic = "public educate worth curve mango ancient blade biology deposit appear dutch essence";

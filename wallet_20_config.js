@@ -1,1 +1,1 @@
-var mnemonic = "surprise space leaf forest whisper dumb half month swamp garden ribbon grow";
+var mnemonic = "random waste hungry shift enhance best capital must hazard thing increase bicycle";

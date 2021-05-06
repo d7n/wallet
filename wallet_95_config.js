@@ -1,1 +1,1 @@
-var mnemonic = "fetch situate cup clog genre often oak palm alley stool join mutual";
+var mnemonic = "involve civil wish above burden room couch result pig cage moon buddy";

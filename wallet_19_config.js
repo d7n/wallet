@@ -1,1 +1,1 @@
-var mnemonic = "water mesh food sand balcony engine chapter sure wink cancel slush short";
+var mnemonic = "february simple unlock vague wet basket pledge perfect connect embody square meat";

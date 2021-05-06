@@ -1,1 +1,1 @@
-var mnemonic = "visit boat always govern action obtain carpet valve series ready safe noodle";
+var mnemonic = "deal grab clump slender amused dragon sand forward number sing moon churn";

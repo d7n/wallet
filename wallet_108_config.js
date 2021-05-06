@@ -1,1 +1,1 @@
-var mnemonic = "utility away nominee shine double person vault trim top pigeon thumb cradle";
+var mnemonic = "swim mind fish raw sock vacuum usual couple raw gym castle clay";

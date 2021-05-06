@@ -1,1 +1,1 @@
-var mnemonic = "weapon scare pigeon lunar other remember frozen thank leg tomato fiscal step";
+var mnemonic = "raise anger wonder design exercise notable elder upper hill cube year follow";

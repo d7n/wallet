@@ -1,1 +1,1 @@
-var mnemonic = "exact fire police vanish fish spell amused sleep topple throw rival butter";
+var mnemonic = "verify witness bus hurt safe clinic armor food bright damp junk plug";

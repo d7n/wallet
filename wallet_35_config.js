@@ -1,1 +1,1 @@
-var mnemonic = "brisk order blue finger betray brother excess thrive planet rescue omit carbon";
+var mnemonic = "catalog okay whip print dolphin donate cotton apology burden donate menu random";

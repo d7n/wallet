@@ -1,1 +1,1 @@
-var mnemonic = "filter teach before grain pioneer video tray vote also erosion oyster hen";
+var mnemonic = "enemy orbit tobacco glare force define debate tape crowd trouble scatter unique";

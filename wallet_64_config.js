@@ -1,1 +1,1 @@
-var mnemonic = "soul brown sunset imitate august weird ecology achieve water adult error normal";
+var mnemonic = "give twin eye autumn defy west debate key size whisper absent memory";

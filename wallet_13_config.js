@@ -1,1 +1,1 @@
-var mnemonic = "rhythm merge size track security area insect squeeze green oval captain aunt";
+var mnemonic = "soft alarm cupboard jelly rack iron begin basket public shoulder subject effort";

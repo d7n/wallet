@@ -1,1 +1,1 @@
-var mnemonic = "globe firm betray pool excuse actor exist letter syrup kangaroo rebel minor";
+var mnemonic = "spatial carpet use balcony when fever mind appear trust chunk floor moral";

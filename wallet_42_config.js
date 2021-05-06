@@ -1,1 +1,1 @@
-var mnemonic = "focus pizza measure online refuse option laugh surge chef cherry celery autumn";
+var mnemonic = "improve sugar seek logic rival trigger oil guilt faculty output skin hat";

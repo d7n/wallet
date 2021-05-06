@@ -1,1 +1,1 @@
-var mnemonic = "negative senior flight aisle tip galaxy disagree round chest ankle item three";
+var mnemonic = "tackle jelly ignore scrub loan material hurt soap earth glass person shove";

@@ -1,1 +1,1 @@
-var mnemonic = "normal behind margin unique pudding fancy swing dawn junk limb cram someone";
+var mnemonic = "floor across alpha connect build require orange slight total spread manual struggle";

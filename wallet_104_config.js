@@ -1,1 +1,1 @@
-var mnemonic = "town invest shove deal pledge fold pink surge cruise meat easily swim";
+var mnemonic = "grow fragile seven ridge cinnamon blossom mesh office balcony bicycle try start";

@@ -1,1 +1,1 @@
-var mnemonic = "stand stable clean sea pretty outside neutral wave grid pizza any exact";
+var mnemonic = "destroy between belt moment option despair rifle wait charge knife pledge drama";

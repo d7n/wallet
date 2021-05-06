@@ -1,1 +1,1 @@
-var mnemonic = "guard average soon liar squirrel leave baby dolphin iron fiber pact question";
+var mnemonic = "believe outdoor error stick primary explain crystal kid gasp favorite forward glare";

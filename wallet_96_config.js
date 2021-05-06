@@ -1,1 +1,1 @@
-var mnemonic = "short rubber nominee ocean immune minimum agent chest amused scissors occur drink";
+var mnemonic = "target kid require sample unfair file fuel hammer source trouble cabbage divide";

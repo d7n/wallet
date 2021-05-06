@@ -1,1 +1,1 @@
-var mnemonic = "keep exhaust dawn trend acoustic lyrics join outside concert kick bomb photo";
+var mnemonic = "visa drill sound vintage loyal tennis absorb fine load grab brave thought";

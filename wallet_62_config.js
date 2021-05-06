@@ -1,1 +1,1 @@
-var mnemonic = "staff dry father echo poet tank tomorrow resemble plate brand toward bullet";
+var mnemonic = "poverty slow run fever example comic nerve same egg draw recycle lunch";

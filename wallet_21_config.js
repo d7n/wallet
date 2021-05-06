@@ -1,1 +1,1 @@
-var mnemonic = "doll empty chuckle trumpet offer sing pause garlic garlic faculty question develop";
+var mnemonic = "expose emerge trigger dynamic stomach room isolate truth advance rhythm cabbage ancient";

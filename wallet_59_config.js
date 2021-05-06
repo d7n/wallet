@@ -1,1 +1,1 @@
-var mnemonic = "flash fit pull pride beauty blast finger wasp lamp another omit citizen";
+var mnemonic = "cabin rabbit stable affair rule flag hip rather pink arrow gorilla crystal";

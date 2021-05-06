@@ -1,1 +1,1 @@
-var mnemonic = "march stumble ketchup drink toss goddess bullet used arctic flee jelly sleep";
+var mnemonic = "claim unit damage this token mean entire click movie question dog indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "casual canoe timber sick pass involve job core label hire sustain ostrich";
+var mnemonic = "elegant title link agree average purpose illegal shoe illegal bunker member trial";

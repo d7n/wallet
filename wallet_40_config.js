@@ -1,1 +1,1 @@
-var mnemonic = "apart token ready ceiling burst rabbit essay floor mixed air victory hold";
+var mnemonic = "flavor under old twenty acid oxygen retreat swamp monster saddle method vanish";

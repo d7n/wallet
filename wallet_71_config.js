@@ -1,1 +1,1 @@
-var mnemonic = "during gas source lecture rich crash slot hybrid diet civil tuition thing";
+var mnemonic = "struggle betray tuition into render betray raise skin tragic shrug cycle cannon";

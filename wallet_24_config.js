@@ -1,1 +1,1 @@
-var mnemonic = "client buddy round truth useful stand rule myself scout observe asthma dune";
+var mnemonic = "satisfy soccer hard debris wool iron wool rough order run hamster ten";

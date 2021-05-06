@@ -1,1 +1,1 @@
-var mnemonic = "core display inmate winner artefact season library swim favorite secret view mimic";
+var mnemonic = "wisdom sugar library sniff stadium ride zero apple shove behave motor reopen";

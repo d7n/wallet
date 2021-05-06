@@ -1,1 +1,1 @@
-var mnemonic = "arch abuse zoo farm truly olympic shove urge solar run impose shaft";
+var mnemonic = "tiger timber bag crash certain inmate diamond host scrub smart mind tornado";

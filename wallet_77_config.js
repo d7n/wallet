@@ -1,1 +1,1 @@
-var mnemonic = "wagon jazz dream great quick cloth slush total desk depend hover survey";
+var mnemonic = "devote narrow evil actress clock neck lady sport congress ketchup lift brain";

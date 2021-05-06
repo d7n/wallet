@@ -1,1 +1,1 @@
-var mnemonic = "grab hard axis again warfare copy moral wolf say copper mail seek";
+var mnemonic = "meadow sheriff pitch victory civil zebra edge flash illness gas response option";

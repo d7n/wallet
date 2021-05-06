@@ -1,1 +1,1 @@
-var mnemonic = "sound emerge real model viable feature include they place mirror moon win";
+var mnemonic = "grit local cook mango picnic lunch filter museum stool act usage pottery";

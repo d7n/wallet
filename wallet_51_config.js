@@ -1,1 +1,1 @@
-var mnemonic = "flame prepare humor cry during ghost forget hazard iron captain know drama";
+var mnemonic = "rice basic inform dune debate empty stamp error tuna lucky repeat duty";

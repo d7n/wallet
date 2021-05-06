@@ -1,1 +1,1 @@
-var mnemonic = "illness pulse diet blast kangaroo shadow easily book stool tail stairs ketchup";
+var mnemonic = "say antenna satoshi forward bridge eyebrow mobile luggage flee put abuse upon";

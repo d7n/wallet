@@ -1,1 +1,1 @@
-var mnemonic = "athlete second choose beauty name code floor glad client convince fun exile";
+var mnemonic = "notice job muscle police dismiss couch borrow mammal cup awake present autumn";

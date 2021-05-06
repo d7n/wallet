@@ -1,1 +1,1 @@
-var mnemonic = "snap six clean rude cousin dance crime rescue blue ordinary nothing rather";
+var mnemonic = "flash another angle future dry logic unable advance connect nominee pioneer fame";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn angry arrange wrestle throw live virtual divide dragon nose virus current";
+var mnemonic = "pool want pretty identify fatigue welcome beach bronze knee rookie boil organ";

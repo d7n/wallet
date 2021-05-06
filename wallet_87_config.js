@@ -1,1 +1,1 @@
-var mnemonic = "quiz arrive robot little breeze violin exhibit lock vehicle recycle couch power";
+var mnemonic = "able butter rival prepare armed pole coral glad layer nephew broken violin";

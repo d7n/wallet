@@ -1,1 +1,1 @@
-var mnemonic = "problem couch omit century need candy target empty style over either protect";
+var mnemonic = "fuel stock heart genuine other negative provide act ankle monkey soccer private";

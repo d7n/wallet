@@ -1,1 +1,1 @@
-var mnemonic = "stove jar old pencil friend mystery city waste oval hair together agree";
+var mnemonic = "mechanic west angle about north length vague either hamster vague bracket lock";

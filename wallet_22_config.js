@@ -1,1 +1,1 @@
-var mnemonic = "polar asthma toy together bird awesome credit develop seek skirt must basic";
+var mnemonic = "shoe major alarm history struggle monster appear inherit spatial rigid vehicle pumpkin";

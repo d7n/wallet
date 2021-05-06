@@ -1,1 +1,1 @@
-var mnemonic = "federal trigger wisdom fiscal present venture index author minimum basic hope blush";
+var mnemonic = "gasp useful amused then police razor diamond profit emotion fly salon easy";

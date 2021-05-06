@@ -1,1 +1,1 @@
-var mnemonic = "calm feed speak alien level print gospel light word atom old shock";
+var mnemonic = "brick obvious elephant owner garden garlic alter chef vanish athlete measure reform";

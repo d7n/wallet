@@ -1,1 +1,1 @@
-var mnemonic = "trouble sad bracket spirit february duty retreat oak uncover similar hurdle lawn";
+var mnemonic = "hedgehog flash trophy good hamster extra judge vendor intact thought build guilt";

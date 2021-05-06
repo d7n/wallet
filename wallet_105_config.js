@@ -1,1 +1,1 @@
-var mnemonic = "enough beauty betray village stuff crash tattoo peanut distance electric draft foot";
+var mnemonic = "attend decide one drift almost comfort cinnamon illness secret end ancient thunder";

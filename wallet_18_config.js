@@ -1,1 +1,1 @@
-var mnemonic = "buyer other federal delay lion entry calm road hero bring rely benefit";
+var mnemonic = "loud bulb already antique prepare describe bring brush bike trend once quiz";

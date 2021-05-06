@@ -1,1 +1,1 @@
-var mnemonic = "dog stairs predict master wedding assume reflect reunion worth bomb reveal odor";
+var mnemonic = "wise distance dose stay cattle expose yard capital zone shine engine remain";

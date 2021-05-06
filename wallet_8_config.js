@@ -1,1 +1,1 @@
-var mnemonic = "rapid burst rural leader smoke idle trial one raccoon pear kidney gun";
+var mnemonic = "decline exhaust venue any bench soldier soon cheese injury mind shiver host";

@@ -1,1 +1,1 @@
-var mnemonic = "leg library siege wasp rose gorilla journey air response end place grit";
+var mnemonic = "ketchup bulb original explain clutch jealous thumb federal order cereal excuse essay";

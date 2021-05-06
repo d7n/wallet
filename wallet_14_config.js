@@ -1,1 +1,1 @@
-var mnemonic = "someone utility fashion title decline grunt hope pig dwarf distance teach slice";
+var mnemonic = "ritual couple select devote patrol endorse paper math garage company lemon gold";

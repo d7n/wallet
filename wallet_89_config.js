@@ -1,1 +1,1 @@
-var mnemonic = "fog noble wide celery web better until pair park slam mask whip";
+var mnemonic = "opinion vague situate lumber depend buyer chase wave enjoy oval pipe tooth";

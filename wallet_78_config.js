@@ -1,1 +1,1 @@
-var mnemonic = "fashion sleep thumb street club scheme medal aim divorce half luxury urban";
+var mnemonic = "monster large change scare sock roof peasant charge analyst aerobic alone idea";

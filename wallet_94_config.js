@@ -1,1 +1,1 @@
-var mnemonic = "exile error wealth tribe weasel twenty problem wealth glory general try oppose";
+var mnemonic = "amazing code canal chat humor illegal glare shoe flower melt pass breeze";

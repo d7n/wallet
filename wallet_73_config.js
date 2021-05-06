@@ -1,1 +1,1 @@
-var mnemonic = "utility spring surge shift innocent nephew bonus egg ecology tissue area autumn";
+var mnemonic = "immense turkey baby glove twelve payment butter ahead suggest aerobic deal calm";

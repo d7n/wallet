@@ -1,1 +1,1 @@
-var mnemonic = "apology someone liberty layer base differ powder gentle alter near absent vessel";
+var mnemonic = "extra crop kingdom visa more hawk robust flip width worth decrease invest";

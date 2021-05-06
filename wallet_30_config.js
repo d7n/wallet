@@ -1,1 +1,1 @@
-var mnemonic = "this fog lonely clever sibling need return olympic retire syrup raccoon liquid";
+var mnemonic = "luxury brand run vehicle fuel leaf hope duty tell double rigid gym";

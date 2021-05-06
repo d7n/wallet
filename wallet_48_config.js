@@ -1,1 +1,1 @@
-var mnemonic = "valid eyebrow mixture flag junior girl umbrella tone bachelor razor man glass";
+var mnemonic = "survey crew radio impulse edge tray joy wool maid trash mercy stamp";

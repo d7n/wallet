@@ -1,1 +1,1 @@
-var mnemonic = "tiger opinion endorse fade dawn until rival planet metal side decorate short";
+var mnemonic = "flock lonely flash leisure chase hold weird meadow normal occur ten coil";

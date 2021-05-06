@@ -1,1 +1,1 @@
-var mnemonic = "horror tortoise delay bicycle today teach issue auction blossom shrimp ready fragile";
+var mnemonic = "common uncover movie garbage machine food gold aspect surprise burst fee method";

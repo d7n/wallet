@@ -1,1 +1,1 @@
-var mnemonic = "twenty motion edge page degree prefer price hover sleep pattern curious loyal";
+var mnemonic = "sound pipe trick spring critic mixed unfair clinic satisfy buddy drum fish";

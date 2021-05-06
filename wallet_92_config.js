@@ -1,1 +1,1 @@
-var mnemonic = "hybrid sauce flame love solve hedgehog island blast kid popular mesh unique";
+var mnemonic = "theme spy fire elephant control shield place give grain luxury oil copper";

@@ -1,1 +1,1 @@
-var mnemonic = "day antique kitchen connect valve crop gap annual funny usage eight skirt";
+var mnemonic = "input that eye transfer average smoke copper rent fat lucky virus bike";

@@ -1,1 +1,1 @@
-var mnemonic = "poem vicious lava reason tail damage situate thing blanket crowd diagram lyrics";
+var mnemonic = "onion combine burst require pudding danger wolf figure pig window diesel aunt";

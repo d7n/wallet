@@ -1,1 +1,1 @@
-var mnemonic = "install auto rate purpose top total siren sample sea tool summer blood";
+var mnemonic = "rotate fix leader hire floor celery arrest drastic dash crucial rough world";

@@ -1,1 +1,1 @@
-var mnemonic = "client suffer knock glow slam mask salmon found hurdle diesel test thank";
+var mnemonic = "elite wise eagle federal rebel glove fatal bachelor onion genius uncover reward";

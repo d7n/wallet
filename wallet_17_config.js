@@ -1,1 +1,1 @@
-var mnemonic = "alley glove orange lumber oxygen warm void camp online ocean victory cage";
+var mnemonic = "siege rack slogan search wrestle nuclear success entry dizzy goat round negative";

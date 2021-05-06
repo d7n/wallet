@@ -1,1 +1,1 @@
-var mnemonic = "weather gallery depth decade desk zoo real miss cactus enhance repair same";
+var mnemonic = "olive cage dutch feature gossip fantasy census book stuff multiply rapid pact";

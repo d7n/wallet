@@ -1,1 +1,1 @@
-var mnemonic = "circle lake track catalog camera helmet pig pepper guard unhappy prize door";
+var mnemonic = "fun cousin hard excite verb open sugar grape net device cream pioneer";

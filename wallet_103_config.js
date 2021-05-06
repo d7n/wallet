@@ -1,1 +1,1 @@
-var mnemonic = "title winner save minor unique already define absent average ladder champion direct";
+var mnemonic = "focus course cruise try boil endless possible uncover elder aware puzzle acoustic";

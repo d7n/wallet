@@ -1,1 +1,1 @@
-var mnemonic = "spider exist soda amused warfare ginger sibling clay core wreck fiber gap";
+var mnemonic = "kick monkey library physical bargain tide piece virtual pistol brother sand execute";

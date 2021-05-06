@@ -1,1 +1,1 @@
-var mnemonic = "conduct cabin mixture mystery swear visit guide come alarm ethics level model";
+var mnemonic = "mosquito trip idle obvious use maid ripple wasp pigeon other ship scan";

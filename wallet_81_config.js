@@ -1,1 +1,1 @@
-var mnemonic = "leader raise cluster skirt rich moral devote argue foam age away spawn";
+var mnemonic = "arena pipe antenna eye faculty switch depth wonder result matter area antique";

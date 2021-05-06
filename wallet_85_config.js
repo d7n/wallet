@@ -1,1 +1,1 @@
-var mnemonic = "legend soul section romance address into nose chicken tent quarter coach sauce";
+var mnemonic = "purse iron ethics fantasy slice true word razor rigid traffic animal sniff";

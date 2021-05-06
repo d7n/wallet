@@ -1,1 +1,1 @@
-var mnemonic = "traffic soul spell surface angle dad fetch poem glide dial live dry";
+var mnemonic = "light twenty hurry force neutral angle club primary journey wrestle peace tide";

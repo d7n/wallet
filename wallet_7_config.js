@@ -1,1 +1,1 @@
-var mnemonic = "betray reunion between slot crash valid fetch box area creek nurse sight";
+var mnemonic = "wear master cargo miracle today metal snack toe artwork pledge spirit relax";

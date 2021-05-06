@@ -1,1 +1,1 @@
-var mnemonic = "spice category summer much floor enter push excite kitchen drift episode live";
+var mnemonic = "sand chase six sketch favorite sock useless defense globe alien horn develop";

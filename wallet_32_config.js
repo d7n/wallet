@@ -1,1 +1,1 @@
-var mnemonic = "sunset mansion bracket sport address rain start fury lecture object october rotate";
+var mnemonic = "twenty lesson cherry reunion web rigid aware edge dinosaur trigger whip copper";

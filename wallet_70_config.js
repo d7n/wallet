@@ -1,1 +1,1 @@
-var mnemonic = "unfair orbit stool casino excite disagree scene advice start oppose fiber umbrella";
+var mnemonic = "phone punch sock utility remind wage cupboard sight repeat gym prepare winter";

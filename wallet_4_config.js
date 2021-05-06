@@ -1,1 +1,1 @@
-var mnemonic = "elbow silver umbrella evoke model scout bullet refuse vehicle mean describe jelly";
+var mnemonic = "update rug inch smoke sweet coffee jazz scheme joke gold glide bullet";

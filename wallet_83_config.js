@@ -1,1 +1,1 @@
-var mnemonic = "absurd soap link gentle seek spray mystery erode exercise guess merry pulp";
+var mnemonic = "viable moment elder shed spring uphold strike panda bike palace knock tourist";
