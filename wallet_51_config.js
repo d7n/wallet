@@ -1,1 +1,1 @@
-var mnemonic = "weekend clerk frozen knee scatter minor deposit figure final program crack clever";
+var mnemonic = "force attend curious wreck flush letter circle patient fly price essay joy";

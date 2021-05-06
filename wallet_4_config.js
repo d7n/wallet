@@ -1,1 +1,1 @@
-var mnemonic = "atom sphere myth venue senior north name panic leader laptop hamster account";
+var mnemonic = "upon scatter trouble diesel fuel keep mobile wink boost tooth chuckle crew";

@@ -1,1 +1,1 @@
-var mnemonic = "fine drip decorate badge load whale margin layer runway layer volcano beef";
+var mnemonic = "use bring bitter stairs write build jeans gospel radar excess rain rule";

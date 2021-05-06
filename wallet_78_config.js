@@ -1,1 +1,1 @@
-var mnemonic = "fame pet fox decide song orchard noodle tell check museum frown recycle";
+var mnemonic = "tail mutual simple govern oblige flush snake ignore depend demand draft either";

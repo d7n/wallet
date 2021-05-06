@@ -1,1 +1,1 @@
-var mnemonic = "uphold title margin universe rural sort job desert call cash provide mansion";
+var mnemonic = "portion hour hedgehog modify ugly easy carry involve video utility gift truth";

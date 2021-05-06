@@ -1,1 +1,1 @@
-var mnemonic = "fit owner taxi farm tail advance sand tool produce escape evidence alpha";
+var mnemonic = "nothing envelope orbit coach resemble panther goddess dawn comfort media rent frame";

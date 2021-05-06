@@ -1,1 +1,1 @@
-var mnemonic = "great help limit what army grab patch liquid thank infant canyon flower";
+var mnemonic = "reform tilt hurt adapt arch witness bachelor black banana couch spider gravity";

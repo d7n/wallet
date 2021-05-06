@@ -1,1 +1,1 @@
-var mnemonic = "space when nose program buddy library discover slender okay vendor captain tilt";
+var mnemonic = "boss oak trumpet member because orbit frozen coin infant fox east major";

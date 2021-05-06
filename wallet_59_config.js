@@ -1,1 +1,1 @@
-var mnemonic = "sugar flag beef pen slot wasp catalog moral mushroom witness banner defy";
+var mnemonic = "sleep danger engage lemon swamp ramp other key arm smile run auto";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol gospel drill holiday brother print wink stem stand punch ordinary alpha";
+var mnemonic = "avoid left aim nest february mask family stomach inherit seek always budget";

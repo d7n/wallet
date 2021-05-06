@@ -1,1 +1,1 @@
-var mnemonic = "execute essay resist panda trick sibling casino reveal tissue daring about kangaroo";
+var mnemonic = "rotate wing divorce innocent expand security very teach talent delay initial wealth";

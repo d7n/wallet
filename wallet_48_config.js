@@ -1,1 +1,1 @@
-var mnemonic = "any couple vintage weather shrug beef inject vicious peace vocal lottery adjust";
+var mnemonic = "monster bomb field join phone saddle follow neglect protect employ absorb check";

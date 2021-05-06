@@ -1,1 +1,1 @@
-var mnemonic = "jeans orange symptom evil physical spider nice thunder tell umbrella shaft target";
+var mnemonic = "pumpkin banner cargo know shoot peasant inform wide gym pass artist course";

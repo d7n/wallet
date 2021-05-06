@@ -1,1 +1,1 @@
-var mnemonic = "outside lake gravity legend crack step boy pool kick shaft jungle borrow";
+var mnemonic = "identify mammal text addict future today acquire coin menu audit parade harbor";

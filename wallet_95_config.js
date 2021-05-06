@@ -1,1 +1,1 @@
-var mnemonic = "suffer defense busy deal top have aunt modify hour gauge warm safe";
+var mnemonic = "runway viable bracket term town caution coconut uniform lake insane owner awful";

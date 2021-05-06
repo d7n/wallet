@@ -1,1 +1,1 @@
-var mnemonic = "coast pave ahead island soul devote bulk cabbage public capable easy behave";
+var mnemonic = "walk melt midnight entire choice walnut quiz detail stomach journey crowd aim";

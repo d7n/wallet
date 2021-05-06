@@ -1,1 +1,1 @@
-var mnemonic = "situate drink amazing bamboo license start girl dynamic dinosaur multiply favorite sort";
+var mnemonic = "party smart churn wrap argue holiday dust minor prison install save second";

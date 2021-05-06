@@ -1,1 +1,1 @@
-var mnemonic = "pitch save sentence enrich alien screen moral drill envelope earn short typical";
+var mnemonic = "hawk dad member desk conduct plate clown orient endorse fish unique palace";

@@ -1,1 +1,1 @@
-var mnemonic = "pink admit kit wall level security cabin marriage claw bomb swarm bag";
+var mnemonic = "enter tent leave innocent acquire summer forward novel thought again address shrimp";

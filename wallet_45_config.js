@@ -1,1 +1,1 @@
-var mnemonic = "bullet rent crunch lift hobby dog coffee arrow design exhibit night slow";
+var mnemonic = "sign hip liquid mail concert paper vocal soup elite six fire ill";

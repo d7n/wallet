@@ -1,1 +1,1 @@
-var mnemonic = "pond citizen chunk base turn cactus frozen ankle fiscal theme donkey lonely";
+var mnemonic = "into orphan chef damp hundred original west embark rib patient fox horse";

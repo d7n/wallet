@@ -1,1 +1,1 @@
-var mnemonic = "silk copper finish poet deal account conduct actress gym canal unlock observe";
+var mnemonic = "bronze various daughter congress usual normal trigger utility man edge traffic general";

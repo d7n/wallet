@@ -1,1 +1,1 @@
-var mnemonic = "awkward plunge protect maid board sad pulse fragile garment gadget glow jaguar";
+var mnemonic = "ribbon apart valley name alien orphan dad pond deputy faint decade analyst";

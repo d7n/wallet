@@ -1,1 +1,1 @@
-var mnemonic = "expand must primary aerobic suggest shove space person total tongue silver ready";
+var mnemonic = "ready giraffe unit kitchen know enhance waste lab bachelor behave rely mesh";

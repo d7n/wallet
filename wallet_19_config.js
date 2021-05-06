@@ -1,1 +1,1 @@
-var mnemonic = "lottery dad board equal depend sad blood host phone prize vacuum dignity";
+var mnemonic = "debris champion pact device fancy shine rug steel intact history intact dizzy";

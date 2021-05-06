@@ -1,1 +1,1 @@
-var mnemonic = "huge weather either toddler other solve immune scheme dizzy wait defy clap";
+var mnemonic = "boat harvest kiss dolphin syrup muffin cry now rug position field foil";

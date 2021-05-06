@@ -1,1 +1,1 @@
-var mnemonic = "lobster input above match apology fiction author wolf elephant pen brain useful";
+var mnemonic = "clutch accuse forest taste claw hurdle tonight journey parrot assist wear ill";

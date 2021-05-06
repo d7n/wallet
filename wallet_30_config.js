@@ -1,1 +1,1 @@
-var mnemonic = "bid tornado tank double guard jazz cause special collect soldier business wise";
+var mnemonic = "soon below group story zebra wash release faith city type basic mosquito";

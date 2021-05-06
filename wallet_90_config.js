@@ -1,1 +1,1 @@
-var mnemonic = "laundry tissue timber column equip usage swing seed sentence human source grit";
+var mnemonic = "maid pulp match emerge gasp select reward crash chat alien sketch thumb";

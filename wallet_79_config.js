@@ -1,1 +1,1 @@
-var mnemonic = "front unknown enforce flower adapt pass monitor bus special hidden accident truth";
+var mnemonic = "armor grape fatal sad brick track permit century ketchup trial mixed region";

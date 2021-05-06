@@ -1,1 +1,1 @@
-var mnemonic = "tent special blouse crucial cream trend dinosaur clean rely trouble cheese toilet";
+var mnemonic = "replace item doll output soda goat model festival vicious cable exercise unfair";

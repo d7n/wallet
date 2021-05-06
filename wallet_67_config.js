@@ -1,1 +1,1 @@
-var mnemonic = "oval napkin unknown hazard slush robot pistol sock gather fly exotic toss";
+var mnemonic = "cover earn dad wheel physical rigid bicycle game draw eye cereal bread";

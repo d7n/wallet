@@ -1,1 +1,1 @@
-var mnemonic = "excite detect hurt exact gift conduct frame surface normal inner memory try";
+var mnemonic = "display develop weekend online special recipe chat cement place patrol acquire final";

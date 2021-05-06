@@ -1,1 +1,1 @@
-var mnemonic = "mouse bulb cancel among avocado peasant boil angle churn bench traffic into";
+var mnemonic = "involve tooth keep analyst track crater flag left hybrid expose tongue amused";

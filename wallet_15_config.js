@@ -1,1 +1,1 @@
-var mnemonic = "woman knock dutch long transfer unfair rail exist oak enact start window";
+var mnemonic = "easily silly change tuition trap symptom layer chase across original clog camera";

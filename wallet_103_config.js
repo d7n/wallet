@@ -1,1 +1,1 @@
-var mnemonic = "flavor funny beyond omit suit narrow disagree solid inspire scissors liquid someone";
+var mnemonic = "stem give virtual run tag envelope phrase glare sting account cradle lecture";

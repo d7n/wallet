@@ -1,1 +1,1 @@
-var mnemonic = "wrist birth pudding witness prison deposit book hair collect sad island magic";
+var mnemonic = "special sea young around way priority peanut defense impulse potato west catch";

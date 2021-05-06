@@ -1,1 +1,1 @@
-var mnemonic = "remind globe double doll segment vanish hold saddle half cat current museum";
+var mnemonic = "negative gas learn humor foot select dolphin winter entire push pool one";

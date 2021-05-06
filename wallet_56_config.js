@@ -1,1 +1,1 @@
-var mnemonic = "able eye depend illness code ordinary regret ordinary supreme popular depth labor";
+var mnemonic = "carpet ticket tree negative about unveil choice beef tattoo skate banner weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "sound couple exact wall night polar expose slot fantasy angry moon globe";
+var mnemonic = "loud sand rail glue dentist couch miss museum enlist kick travel dad";

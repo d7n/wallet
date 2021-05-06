@@ -1,1 +1,1 @@
-var mnemonic = "dumb girl clap fork bottom solar moral soldier tree razor drink document";
+var mnemonic = "shy affair grant arch dog rose drama direct okay stairs script gossip";

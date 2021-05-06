@@ -1,1 +1,1 @@
-var mnemonic = "smile nation puppy idle ethics abstract escape siege spy hood upset push";
+var mnemonic = "wrist satisfy tell program scrap asset wreck ladder correct decorate dumb century";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby steak emerge regular hunt minor margin what horse addict when knee";
+var mnemonic = "flip nice youth box update write treat kiss absorb cotton divert arctic";

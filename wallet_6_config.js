@@ -1,1 +1,1 @@
-var mnemonic = "term summer world moon surprise section race gown glow ostrich danger clump";
+var mnemonic = "fantasy blanket armor method catalog stone noise blue ordinary charge baby staff";

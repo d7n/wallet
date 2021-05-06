@@ -1,1 +1,1 @@
-var mnemonic = "because phone skate warm skirt feel dinosaur stay vendor found speed room";
+var mnemonic = "crawl lawsuit moral parent distance title excite kit stamp quantum still large";

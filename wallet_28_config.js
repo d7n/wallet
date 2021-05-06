@@ -1,1 +1,1 @@
-var mnemonic = "march vacant spy helmet rate day session consider smooth brief hidden curve";
+var mnemonic = "return announce ticket audit struggle survey below person cart lion buffalo evoke";

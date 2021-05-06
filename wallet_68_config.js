@@ -1,1 +1,1 @@
-var mnemonic = "jealous round auto security topple zebra stone spider bargain decline exit suffer";
+var mnemonic = "orphan define pledge adjust stairs crisp entry frame brick device atom lesson";

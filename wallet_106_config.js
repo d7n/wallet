@@ -1,1 +1,1 @@
-var mnemonic = "horse leaf audit first win minor choice friend rather vivid one planet";
+var mnemonic = "office stool year cage duty trash mobile assist once install nurse hair";

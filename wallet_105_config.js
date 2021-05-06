@@ -1,1 +1,1 @@
-var mnemonic = "purse vicious cruise tragic end middle dress shy slice viable artist canoe";
+var mnemonic = "dwarf dream other life talk brain duty element chunk concert review answer";

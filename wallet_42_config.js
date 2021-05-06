@@ -1,1 +1,1 @@
-var mnemonic = "blush wise luxury ski fancy pony action burger plug robust promote nasty";
+var mnemonic = "wine buddy arrest endless naive mandate apple order reveal noodle original lyrics";

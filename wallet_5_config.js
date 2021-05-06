@@ -1,1 +1,1 @@
-var mnemonic = "brick usual program town casual daring cabin snake rocket evolve obscure minute";
+var mnemonic = "shaft muffin search spirit biology sign sad employ health candy feel like";

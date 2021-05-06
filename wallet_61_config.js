@@ -1,1 +1,1 @@
-var mnemonic = "assume depart charge silver old juice option idle evolve income cook kiwi";
+var mnemonic = "below old rent tiger lyrics nature illegal dinner one shaft skin puppy";

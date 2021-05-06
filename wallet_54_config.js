@@ -1,1 +1,1 @@
-var mnemonic = "impulse mixture secret hobby eye second pudding final bamboo transfer broccoli armor";
+var mnemonic = "theme draw demise bubble clarify paper kitten open medal salon shop under";

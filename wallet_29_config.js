@@ -1,1 +1,1 @@
-var mnemonic = "mixture attitude flavor venture fantasy dinosaur detail task double split gun object";
+var mnemonic = "fluid disagree walk magnet forward basic change coast grit alone orchard riot";

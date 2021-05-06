@@ -1,1 +1,1 @@
-var mnemonic = "shuffle sport planet frozen inhale noodle able slush cruise breeze toy force";
+var mnemonic = "hawk peanut cup enable large item beauty topic bamboo job budget know";

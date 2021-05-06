@@ -1,1 +1,1 @@
-var mnemonic = "ignore forest prosper noodle casual various fish find supply bright price cave";
+var mnemonic = "portion siege humble spider lion solar napkin slow ocean view salute ignore";

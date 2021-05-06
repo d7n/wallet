@@ -1,1 +1,1 @@
-var mnemonic = "afraid volcano stem analyst asthma curious boat shuffle photo joke tribe eager";
+var mnemonic = "student abstract coil buyer device choose hard baby emerge shove waste crystal";

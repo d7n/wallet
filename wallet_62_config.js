@@ -1,1 +1,1 @@
-var mnemonic = "rely brave imitate program pet license sudden hospital achieve top much exit";
+var mnemonic = "uncover next ocean tenant endless season come rough cube artwork future tennis";

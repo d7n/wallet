@@ -1,1 +1,1 @@
-var mnemonic = "claim also isolate excuse crack where record beach mouse able timber embrace";
+var mnemonic = "pilot uncover fabric thunder oxygen alert unit final wrestle release paddle lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "regret cat monkey awake shiver vendor alcohol vocal sniff fancy detect purchase";
+var mnemonic = "kid fantasy crush cannon attend amount cement island vessel ostrich voyage shoe";

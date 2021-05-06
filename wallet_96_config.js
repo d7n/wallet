@@ -1,1 +1,1 @@
-var mnemonic = "buzz radar office easy equal invest scene fork feature good review allow";
+var mnemonic = "exile hobby school convince poverty medal any erode latin slender gap error";

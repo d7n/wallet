@@ -1,1 +1,1 @@
-var mnemonic = "room craft peanut car split ocean case wonder slogan parade canoe word";
+var mnemonic = "assault salad deer loud turtle symbol unfold rabbit topple marriage present agree";

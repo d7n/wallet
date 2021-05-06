@@ -1,1 +1,1 @@
-var mnemonic = "search daring perfect reward method renew cheap pig air very awake guilt";
+var mnemonic = "sword resist lumber else squirrel image suit ivory wall sick use teach";

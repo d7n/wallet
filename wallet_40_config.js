@@ -1,1 +1,1 @@
-var mnemonic = "rate glide mail donate fit pyramid goat margin essence whale festival cruise";
+var mnemonic = "sunny sock nut picnic pear name pony protect pony key zoo consider";

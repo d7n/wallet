@@ -1,1 +1,1 @@
-var mnemonic = "reflect energy poverty neutral notable dune major promote furnace practice problem private";
+var mnemonic = "urban gas sort phrase hurt bubble moral explain lucky rhythm glue pear";

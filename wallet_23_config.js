@@ -1,1 +1,1 @@
-var mnemonic = "ceiling brother library tornado festival actor midnight drastic swift damage other erase";
+var mnemonic = "rude segment frame open hawk tomorrow inject share feel column gas loop";

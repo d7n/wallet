@@ -1,1 +1,1 @@
-var mnemonic = "nasty leopard never job eagle region height arch quality grid cash slice";
+var mnemonic = "fresh claim wet misery chase action service sniff west diagram guide hour";

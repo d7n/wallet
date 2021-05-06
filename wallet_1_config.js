@@ -1,1 +1,1 @@
-var mnemonic = "firm apology differ firm member snow buyer dash ladder carry protect conduct";
+var mnemonic = "any gaze uncover monkey account funny dial upon winner warm slim brush";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar trigger fiscal surge flock excite culture maple frozen barely pool alter";
+var mnemonic = "casino cash unit marble ten genius gospel involve hedgehog husband shield alert";

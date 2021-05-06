@@ -1,1 +1,1 @@
-var mnemonic = "essay this decade step blur head convince sleep traffic dog regret double";
+var mnemonic = "coyote rail symbol diesel purchase arctic lunar crew veteran soap doll earth";

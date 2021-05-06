@@ -1,1 +1,1 @@
-var mnemonic = "middle space hedgehog journey close possible spider mechanic strong winter satoshi gallery";
+var mnemonic = "course magic wrist soda embrace later slogan pipe stable clown build together";

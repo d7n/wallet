@@ -1,1 +1,1 @@
-var mnemonic = "twelve jaguar spike horn cash sunny hard surface spare knife romance robot";
+var mnemonic = "actress shell dentist orange era giant rule uniform damp bulk giant empower";

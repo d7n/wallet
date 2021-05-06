@@ -1,1 +1,1 @@
-var mnemonic = "birth useless obtain swallow upon dilemma nice despair avoid meat face lamp";
+var mnemonic = "game plastic harbor rookie armed fly skate abandon gas tower bleak royal";

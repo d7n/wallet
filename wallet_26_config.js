@@ -1,1 +1,1 @@
-var mnemonic = "hidden forum six poet truck course velvet result amused announce anchor side";
+var mnemonic = "elbow pigeon input space wood negative need isolate apart crop gadget assist";

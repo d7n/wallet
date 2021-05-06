@@ -1,1 +1,1 @@
-var mnemonic = "torch axis myth time stairs few awful double category amount steak speak";
+var mnemonic = "mercy vibrant table drastic relax gallery wire scare busy response document farm";

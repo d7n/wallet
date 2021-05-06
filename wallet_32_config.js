@@ -1,1 +1,1 @@
-var mnemonic = "rent flash mesh fun unfold market wash normal pair taxi inject large";
+var mnemonic = "daughter soft street deny lock castle adult buyer obvious amount stereo office";

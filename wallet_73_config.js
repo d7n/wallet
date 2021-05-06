@@ -1,1 +1,1 @@
-var mnemonic = "between match other adult jeans phone wasp valve effort civil garlic excess";
+var mnemonic = "oxygen flag border wear please devote police focus differ casual unveil lemon";

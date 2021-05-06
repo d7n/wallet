@@ -1,1 +1,1 @@
-var mnemonic = "depart muscle glide bring junior play sample aisle divide canoe song finger";
+var mnemonic = "injury gather skill pyramid noise tiger cover ridge sample ill key evidence";

@@ -1,1 +1,1 @@
-var mnemonic = "extra recycle congress audit above what wish wheel swarm kind silver black";
+var mnemonic = "item direct manage hazard tent gain base certain volume claw roast humble";

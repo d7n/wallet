@@ -1,1 +1,1 @@
-var mnemonic = "volcano gun consider spot wheat close target gadget town develop unique fog";
+var mnemonic = "advice panda angry illness wink dawn genre treat sugar select space oval";

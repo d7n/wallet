@@ -1,1 +1,1 @@
-var mnemonic = "miracle student civil birth fluid deputy strategy shy stone wrist exit toddler";
+var mnemonic = "door hold sugar transfer during curious subject trim cute spoil sell half";

@@ -1,1 +1,1 @@
-var mnemonic = "print what output ostrich what drift lemon frozen tilt review veteran turn";
+var mnemonic = "pottery almost memory hand maze rally indoor survey sound design foil fish";

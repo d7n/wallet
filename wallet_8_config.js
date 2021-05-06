@@ -1,1 +1,1 @@
-var mnemonic = "enrich among arm conduct ask drive quick hockey often solution helmet leader";
+var mnemonic = "ribbon castle pulse fragile bid thunder manual trip double symbol fan author";

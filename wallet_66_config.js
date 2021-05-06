@@ -1,1 +1,1 @@
-var mnemonic = "aspect tenant damage fortune unfair rally eagle emotion aerobic crush unlock furnace";
+var mnemonic = "army hawk sample toward shoot robot merit novel pyramid brick auction wool";
