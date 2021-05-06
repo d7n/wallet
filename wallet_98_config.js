@@ -1,1 +1,1 @@
-var mnemonic = "weapon glass write satisfy alcohol brush make outdoor minimum nerve educate enforce";
+var mnemonic = "smooth dog tourist manual obtain motor business brisk cloud stone force element";

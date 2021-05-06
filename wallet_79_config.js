@@ -1,1 +1,1 @@
-var mnemonic = "close voyage vessel thumb february pupil hockey garment ball unfair drive remind";
+var mnemonic = "toy ring pluck blood unable daughter orphan ghost pact wash board agent";

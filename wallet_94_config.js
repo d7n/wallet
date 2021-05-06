@@ -1,1 +1,1 @@
-var mnemonic = "random slice zebra jealous donor right federal song health twin iron limb";
+var mnemonic = "ranch brown sponsor decade pizza sort girl buyer rival elevator guilt sock";

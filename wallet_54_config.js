@@ -1,1 +1,1 @@
-var mnemonic = "upgrade turkey detail final level ride derive abandon fire health lonely private";
+var mnemonic = "join label choose cargo cloud lock curtain arch sphere reform slice invite";

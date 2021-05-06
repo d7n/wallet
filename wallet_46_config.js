@@ -1,1 +1,1 @@
-var mnemonic = "focus south mean tiger bid smooth chest advance lunar key air prevent";
+var mnemonic = "know neither toward ahead fossil harsh twice warfare attend deposit anger rhythm";

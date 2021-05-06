@@ -1,1 +1,1 @@
-var mnemonic = "ostrich machine young bunker dream gaze discover real settle recipe earn dream";
+var mnemonic = "intact illness effort increase dilemma valve intact oppose umbrella inquiry globe toe";

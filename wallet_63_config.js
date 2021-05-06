@@ -1,1 +1,1 @@
-var mnemonic = "fantasy cancel suffer cricket credit laptop kingdom trouble thunder wheel mechanic photo";
+var mnemonic = "gas wine combine enter drastic always hover secret snap busy earth daughter";

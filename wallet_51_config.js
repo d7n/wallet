@@ -1,1 +1,1 @@
-var mnemonic = "endorse swap approve art bright toy alarm wealth twelve file corn announce";
+var mnemonic = "rocket bird horror begin category lab hurt exchange sting drift poem old";

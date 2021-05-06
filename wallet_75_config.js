@@ -1,1 +1,1 @@
-var mnemonic = "nerve plastic success riot enforce exercise mobile client retreat man split clinic";
+var mnemonic = "dish fault region emerge sort limit scare jelly funny level school future";

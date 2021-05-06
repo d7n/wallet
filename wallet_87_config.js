@@ -1,1 +1,1 @@
-var mnemonic = "cube nothing bench chest tobacco fortune home fruit success salad tribe index";
+var mnemonic = "pigeon work tone treat shield tired write obey fee tornado toy wide";

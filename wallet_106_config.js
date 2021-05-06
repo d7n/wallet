@@ -1,1 +1,1 @@
-var mnemonic = "water identify become trash step bleak sword scatter finish custom midnight endorse";
+var mnemonic = "boy direct alarm job strong robust expose warm genius sister task enhance";

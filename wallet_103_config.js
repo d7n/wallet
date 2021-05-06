@@ -1,1 +1,1 @@
-var mnemonic = "sea vault toy skull proud friend ship notice lake select wild wife";
+var mnemonic = "seminar update deal vague hundred lonely major corn patch cereal fitness garlic";

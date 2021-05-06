@@ -1,1 +1,1 @@
-var mnemonic = "mountain velvet piece remember width head unknown among desert all hidden note";
+var mnemonic = "bus sell together human ginger grid purpose captain vanish horror reveal asset";

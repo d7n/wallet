@@ -1,1 +1,1 @@
-var mnemonic = "toy adjust talent genuine also dinner illegal beef wheat occur educate upset";
+var mnemonic = "friend swing warm cherry equip scan property notice case harvest marble diet";

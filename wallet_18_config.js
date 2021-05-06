@@ -1,1 +1,1 @@
-var mnemonic = "outer base lottery select evidence peace salute choose drip reason hammer distance";
+var mnemonic = "infant actual pave eye lion again glimpse ancient ethics pear brief pudding";

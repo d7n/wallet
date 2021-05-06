@@ -1,1 +1,1 @@
-var mnemonic = "dolphin leaf dentist drip want this field fluid news core toilet pair";
+var mnemonic = "idle rally cloud soap mother alarm boy have fragile exchange manual social";

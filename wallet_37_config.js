@@ -1,1 +1,1 @@
-var mnemonic = "horse afraid shy wait unit remind blush trap second grunt sock iron";
+var mnemonic = "slender emerge gravity vapor circle equip exercise reveal brush act same soul";

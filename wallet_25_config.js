@@ -1,1 +1,1 @@
-var mnemonic = "sweet toe home very poem silly achieve mistake bounce onion physical flush";
+var mnemonic = "fringe buzz salute size spatial bunker jewel garage oblige elbow lab ship";

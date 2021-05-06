@@ -1,1 +1,1 @@
-var mnemonic = "rubber alert boss snake copper escape vivid maze monkey under trip spoon";
+var mnemonic = "cabin loyal slight moral slender occur skate crush coil rack state cherry";

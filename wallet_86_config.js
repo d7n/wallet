@@ -1,1 +1,1 @@
-var mnemonic = "lend atom small search guess purity system anxiety account walnut man letter";
+var mnemonic = "hollow buffalo drift ostrich enter bus elevator time canal casual win wealth";

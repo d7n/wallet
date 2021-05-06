@@ -1,1 +1,1 @@
-var mnemonic = "social flight culture jaguar reunion regular under style eternal volcano change anger";
+var mnemonic = "issue abstract choice blast catch multiply miracle cabin label kind dice convince";

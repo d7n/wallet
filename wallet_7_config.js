@@ -1,1 +1,1 @@
-var mnemonic = "apple horse lizard copy indicate royal relax pair hazard toilet language apart";
+var mnemonic = "toy enter chef range poem rib luggage increase venture script season square";

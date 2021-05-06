@@ -1,1 +1,1 @@
-var mnemonic = "donor festival speed session enjoy hover purpose onion prevent country price route";
+var mnemonic = "pledge auto used pull drip leaf stage chat pool spin liquid essay";

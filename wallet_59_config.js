@@ -1,1 +1,1 @@
-var mnemonic = "anxiety begin green slab river height decorate quiz portion fox vapor rookie";
+var mnemonic = "pizza entry drum era sail reform million endless kiss earn offer lumber";

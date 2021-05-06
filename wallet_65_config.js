@@ -1,1 +1,1 @@
-var mnemonic = "ripple stock off stable glad suit knock absurd inquiry put evidence hurt";
+var mnemonic = "submit near dwarf menu distance coconut ocean love turkey guess rely vanish";

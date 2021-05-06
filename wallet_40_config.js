@@ -1,1 +1,1 @@
-var mnemonic = "bring embark square crush witness hungry essay famous bind shrug glare soda";
+var mnemonic = "sword jealous skate sign animal sadness rail outdoor rigid mobile gaze basket";

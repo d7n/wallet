@@ -1,1 +1,1 @@
-var mnemonic = "company cargo mutual lava provide afraid mutual session kingdom relax stadium eye";
+var mnemonic = "crystal crunch custom spider elevator push transfer edit wash edge pioneer bench";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce asthma describe same magnet cabin tackle nothing enforce choose pipe elevator";
+var mnemonic = "leaf cycle key hammer endless cotton slide scorpion piano coffee snack portion";

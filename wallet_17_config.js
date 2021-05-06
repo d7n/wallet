@@ -1,1 +1,1 @@
-var mnemonic = "puppy thing student suspect tiny forum shy jelly garment ten asset clinic";
+var mnemonic = "bread play scout useless media cake sentence aerobic sun mutual dizzy expose";

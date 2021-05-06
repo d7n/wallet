@@ -1,1 +1,1 @@
-var mnemonic = "plate ecology sudden betray grow rate shove obscure focus click hen mechanic";
+var mnemonic = "favorite skate void west neutral list soccer chunk false midnight soap order";

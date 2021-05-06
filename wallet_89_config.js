@@ -1,1 +1,1 @@
-var mnemonic = "treat violin act vanish shoulder subject job clip auto thunder tourist risk";
+var mnemonic = "claim brick come kind live season video junk swim feed test shell";

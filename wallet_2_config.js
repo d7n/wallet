@@ -1,1 +1,1 @@
-var mnemonic = "park perfect extend world cruel fun humble swing medal produce decide whisper";
+var mnemonic = "achieve tenant gown pottery social good blanket delay inspire winter general opera";

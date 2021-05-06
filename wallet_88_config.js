@@ -1,1 +1,1 @@
-var mnemonic = "bonus one wage draw token kite bronze odor tag vessel mountain hill";
+var mnemonic = "thumb imitate release beef draft force grace suit yellow orchard slush ill";

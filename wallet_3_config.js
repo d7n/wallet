@@ -1,1 +1,1 @@
-var mnemonic = "cover forest logic direct envelope song cook craft present disorder viable glimpse";
+var mnemonic = "float cabin put theme ethics rough beauty sail you rely trial document";

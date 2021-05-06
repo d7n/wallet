@@ -1,1 +1,1 @@
-var mnemonic = "media humor mechanic exchange unfold issue cause produce merit timber client please";
+var mnemonic = "obtain point dinner soda talk asset impulse daughter stove head drip action";

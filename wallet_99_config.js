@@ -1,1 +1,1 @@
-var mnemonic = "type appear oven transfer vacant garlic alien tool globe sadness lyrics wild";
+var mnemonic = "usage apology open special stadium seat frequent access debate slush fine virtual";

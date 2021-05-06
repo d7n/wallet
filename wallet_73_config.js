@@ -1,1 +1,1 @@
-var mnemonic = "render scheme allow please crew autumn economy kiwi danger soap ginger fade";
+var mnemonic = "color route whale endless loan evolve dynamic planet satoshi rebel penalty novel";

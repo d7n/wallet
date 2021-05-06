@@ -1,1 +1,1 @@
-var mnemonic = "music accident kiwi shield border fatal among gossip exist dilemma arrow merit";
+var mnemonic = "pepper middle appear prefer search act flavor rabbit frown title festival slam";

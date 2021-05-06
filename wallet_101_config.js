@@ -1,1 +1,1 @@
-var mnemonic = "useless push like emerge slender matter debate purity depth output asthma similar";
+var mnemonic = "glove ride wrestle planet isolate ginger possible march hawk gift income aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "inch winner announce coconut inflict goat know party worry ship cause pupil";
+var mnemonic = "alarm siege drill great bunker nose night stable over maple curve drink";

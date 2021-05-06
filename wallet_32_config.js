@@ -1,1 +1,1 @@
-var mnemonic = "cotton knife pyramid crumble describe ready gallery foam journey friend syrup ticket";
+var mnemonic = "album feed ride junior tomato right deliver idea worth control alert dove";

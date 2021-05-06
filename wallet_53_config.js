@@ -1,1 +1,1 @@
-var mnemonic = "mad tonight elevator armor cherry twenty caution once pair position song addict";
+var mnemonic = "elder helmet until hockey kitten gift ahead acoustic kit midnight initial spice";

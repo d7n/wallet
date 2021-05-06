@@ -1,1 +1,1 @@
-var mnemonic = "drift outside pet wheel another gap cabbage shield jelly rotate unfold soccer";
+var mnemonic = "bracket asthma problem manual search group wrap ritual marriage indoor farm valve";

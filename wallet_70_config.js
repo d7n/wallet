@@ -1,1 +1,1 @@
-var mnemonic = "indicate ancient web waste stone video company cat kick silk equip dizzy";
+var mnemonic = "lounge kitchen night filter dog knock select cave ignore crunch seminar hood";

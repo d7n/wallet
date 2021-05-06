@@ -1,1 +1,1 @@
-var mnemonic = "birth midnight various siren melody crush gloom divide light crucial appear forest";
+var mnemonic = "joy worry extend pulp cave chuckle issue enough risk rice small burger";

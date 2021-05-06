@@ -1,1 +1,1 @@
-var mnemonic = "heart eagle menu poet inhale timber brand upset predict mushroom shiver pride";
+var mnemonic = "odor trophy forum other surprise valve cancel pitch census toss alley topple";

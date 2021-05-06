@@ -1,1 +1,1 @@
-var mnemonic = "whisper warrior hip naive lonely stand cinnamon brave diamond neglect arrange pool";
+var mnemonic = "harsh layer ethics sure tip horror assist cotton shrug morning company promote";

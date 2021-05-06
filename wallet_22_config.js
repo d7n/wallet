@@ -1,1 +1,1 @@
-var mnemonic = "pelican artefact blanket winner attract slender muffin opera ancient trouble minimum length";
+var mnemonic = "slender wasp inner derive chunk goat suggest alcohol spider mask mom model";

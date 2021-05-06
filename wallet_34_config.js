@@ -1,1 +1,1 @@
-var mnemonic = "program dizzy dilemma glad push alley twelve episode erupt desk subject race";
+var mnemonic = "able region blur muffin wisdom method unable oven aisle cigar apple opinion";

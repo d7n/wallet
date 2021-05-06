@@ -1,1 +1,1 @@
-var mnemonic = "raccoon three pause alpha about object tell quick surge service popular result";
+var mnemonic = "canyon judge brass saddle spider federal december forget baby flame bus flower";

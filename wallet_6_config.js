@@ -1,1 +1,1 @@
-var mnemonic = "cream friend engage poet hybrid soon chuckle notable glad breeze february day";
+var mnemonic = "there miracle number cousin energy reason twin road rather clog hold dwarf";

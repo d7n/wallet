@@ -1,1 +1,1 @@
-var mnemonic = "onion bird inch stand defense gospel lawsuit vacant witness plate crop praise";
+var mnemonic = "burst burger coin glimpse eternal cloth anchor hospital robot shed later direct";

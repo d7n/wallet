@@ -1,1 +1,1 @@
-var mnemonic = "route panda addict topple submit expand more sport intact notable donate cabin";
+var mnemonic = "position coach suggest walk metal chef notice cream light fine unlock shaft";

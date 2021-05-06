@@ -1,1 +1,1 @@
-var mnemonic = "cloth injury clump cattle turkey blossom burden auction pass network chief replace";
+var mnemonic = "crash tunnel ability grape play few ticket crawl sure length toe sponsor";

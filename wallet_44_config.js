@@ -1,1 +1,1 @@
-var mnemonic = "neck deposit shop cool timber mandate fitness fetch exit above ostrich butter";
+var mnemonic = "desert jar review twice task write science keen palm cigar can history";

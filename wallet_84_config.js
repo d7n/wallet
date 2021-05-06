@@ -1,1 +1,1 @@
-var mnemonic = "tilt deal chapter wish evoke vacant spirit neglect cycle device delay rely";
+var mnemonic = "wild proof program happy peasant craft put betray deliver orchard atom pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "walnut blue olympic member wrong viable job number crumble direct faith quarter";
+var mnemonic = "comfort hundred tiny syrup poverty insect special write draft name divorce episode";

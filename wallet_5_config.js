@@ -1,1 +1,1 @@
-var mnemonic = "trend fork suit cluster debate dream party sort alter loan jump bright";
+var mnemonic = "bargain ritual gap raise first media series fortune immune ask segment apple";

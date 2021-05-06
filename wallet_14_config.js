@@ -1,1 +1,1 @@
-var mnemonic = "keep advance angle elephant item account spider surface bulk raven actress task";
+var mnemonic = "hen tragic half base gold bicycle cable unique top fitness divide tail";

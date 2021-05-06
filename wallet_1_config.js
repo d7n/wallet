@@ -1,1 +1,1 @@
-var mnemonic = "monkey velvet twice sting rigid echo leave where off hen van vapor";
+var mnemonic = "skull economy nurse breeze type destroy coil hurdle february cross case valley";

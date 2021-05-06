@@ -1,1 +1,1 @@
-var mnemonic = "cattle super width stand ball battle stem business card brand express exact";
+var mnemonic = "delay amazing essay science scatter pink umbrella search custom drastic cheese weekend";

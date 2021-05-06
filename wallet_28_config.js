@@ -1,1 +1,1 @@
-var mnemonic = "unfair among december nasty nerve scene advance lake idea apart kiwi cannon";
+var mnemonic = "orphan exhibit beach dawn earth security dizzy guess mechanic regular bicycle label";

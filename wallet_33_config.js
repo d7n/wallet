@@ -1,1 +1,1 @@
-var mnemonic = "hollow pear occur swap few arrange dilemma nation hint inmate comic educate";
+var mnemonic = "aspect sentence rack squeeze live truth olive good fox ordinary bid arena";

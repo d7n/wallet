@@ -1,1 +1,1 @@
-var mnemonic = "analyst soup mistake mimic march favorite weapon escape bid curtain quality deputy";
+var mnemonic = "issue brown notice balance reason north volcano wool muscle manual jungle they";

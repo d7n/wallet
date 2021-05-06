@@ -1,1 +1,1 @@
-var mnemonic = "lucky rotate brick now blade top waste saddle future lion path matter";
+var mnemonic = "text chair input thank accident sibling margin service edge chimney angle pluck";

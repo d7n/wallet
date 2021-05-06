@@ -1,1 +1,1 @@
-var mnemonic = "manage raccoon place world only reveal dress cause bacon electric oyster day";
+var mnemonic = "chaos fat swamp tiger filter toward endorse clerk boost okay help indoor";

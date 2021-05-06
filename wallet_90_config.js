@@ -1,1 +1,1 @@
-var mnemonic = "coconut maid pass where shine small nation cushion metal soft erode brother";
+var mnemonic = "intact onion bright pumpkin bring sudden click ginger reduce spice ritual glue";

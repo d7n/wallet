@@ -1,1 +1,1 @@
-var mnemonic = "deliver excuse assume festival scare afraid copy confirm peanut salt market gentle";
+var mnemonic = "siege theme nice pride blade blanket robot banana equal menu carry credit";

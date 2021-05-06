@@ -1,1 +1,1 @@
-var mnemonic = "trial game deer critic spawn desert album under destroy sauce juice source";
+var mnemonic = "jungle awful ecology foster useless whisper system flash often deer clump stamp";

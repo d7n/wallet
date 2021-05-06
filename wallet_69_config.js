@@ -1,1 +1,1 @@
-var mnemonic = "into setup reduce supreme depth mass street uncle decorate average year awesome";
+var mnemonic = "february moment orbit miracle voyage rich account year atom stadium yellow ill";

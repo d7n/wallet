@@ -1,1 +1,1 @@
-var mnemonic = "someone swing ridge circle shuffle say menu during one waste open piece";
+var mnemonic = "jungle system destroy wrap soda whale erupt destroy giraffe awful outer seed";

@@ -1,1 +1,1 @@
-var mnemonic = "august because milk box reason surprise coach argue abandon about plunge kiss";
+var mnemonic = "stone drive then raccoon deer thing heart fury alien age fatal shoulder";

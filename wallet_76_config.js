@@ -1,1 +1,1 @@
-var mnemonic = "stem erode tissue useful pair square roast fine winner staff okay under";
+var mnemonic = "green shift leader reward brush manage excite usage ski either focus august";

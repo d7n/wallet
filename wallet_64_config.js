@@ -1,1 +1,1 @@
-var mnemonic = "negative monster humor desk warfare toss quick slim own hen green fury";
+var mnemonic = "aware dawn drive direct cheese moral conduct roof urge job kiss accident";

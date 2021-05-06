@@ -1,1 +1,1 @@
-var mnemonic = "clump rice dragon ranch injury gold tuition solar pull awkward hybrid brain";
+var mnemonic = "oblige buffalo cliff indicate dismiss liar skill stove wave claw also critic";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy chaos paper vehicle excess evoke black arch father helmet check cattle";
+var mnemonic = "arctic shock toss skate clump inmate obey unhappy recycle fatigue work tank";

@@ -1,1 +1,1 @@
-var mnemonic = "motor weird fun muscle vessel curtain easy indicate half clever alter canoe";
+var mnemonic = "satoshi idle decide bench zero kind online photo okay accuse mixed panic";

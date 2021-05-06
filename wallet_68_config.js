@@ -1,1 +1,1 @@
-var mnemonic = "snack proof ice like twin rate start runway sister garage verb alert";
+var mnemonic = "divert weapon divorce rapid antique embrace local winner wreck since tag exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus volume pulse awful whip foot bench iron claim broken fence apple";
+var mnemonic = "gas property panic over bitter antique agree sport patch domain marine fork";

@@ -1,1 +1,1 @@
-var mnemonic = "boss satisfy defense chef neither train sister token plate mansion time erase";
+var mnemonic = "rookie stove jaguar figure bonus tool citizen artwork symbol laundry swallow notice";

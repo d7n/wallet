@@ -1,1 +1,1 @@
-var mnemonic = "gold fault animal violin glue truly mom duck sibling meat melt comfort";
+var mnemonic = "people alter cash balcony steel stable call wink gesture toe flame bench";

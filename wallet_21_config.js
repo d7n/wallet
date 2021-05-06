@@ -1,1 +1,1 @@
-var mnemonic = "disease add deposit misery bomb brown protect phrase fetch bottom sister phone";
+var mnemonic = "scheme require fringe angry drill creek capital become minor mind neglect there";

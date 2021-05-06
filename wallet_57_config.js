@@ -1,1 +1,1 @@
-var mnemonic = "tuition slight crater smoke clog north alcohol fade snake scissors injury witness";
+var mnemonic = "blast coin devote wink intact hedgehog scout afraid clip clip pencil filter";

@@ -1,1 +1,1 @@
-var mnemonic = "brain begin insect warfare during trend thumb spoon auto unusual liberty begin";
+var mnemonic = "window differ jar off damage door sell equip raccoon size way love";

@@ -1,1 +1,1 @@
-var mnemonic = "weird legend parent cool minor wisdom lecture cattle bleak beauty medal wall";
+var mnemonic = "air below review one vehicle viable emerge tide punch have cluster digital";

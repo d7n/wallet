@@ -1,1 +1,1 @@
-var mnemonic = "alpha pink file select phone rose bright lecture wrong spatial odor drift";
+var mnemonic = "ugly cause flower rent salute wisdom tip cannon thunder win ribbon waste";

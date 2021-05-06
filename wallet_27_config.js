@@ -1,1 +1,1 @@
-var mnemonic = "thought badge cream over siege resource yellow van diary warm razor suffer";
+var mnemonic = "illness pill please shoot real illegal between gospel upgrade run develop gauge";

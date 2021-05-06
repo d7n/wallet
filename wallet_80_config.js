@@ -1,1 +1,1 @@
-var mnemonic = "brush glow fork outside jump dance space rib fringe pipe number field";
+var mnemonic = "vessel major deny chief honey put ritual bar illegal banana giggle jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "now bracket daughter curve taxi solution purse balcony supply sight excuse blossom";
+var mnemonic = "fan agent inner like lumber sponsor north wrestle eyebrow harsh praise identify";

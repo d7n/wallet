@@ -1,1 +1,1 @@
-var mnemonic = "donate company rally guard clerk town lava system inform room lens flush";
+var mnemonic = "drive boy rebuild mercy fruit eyebrow car rely photo scrap cube tissue";

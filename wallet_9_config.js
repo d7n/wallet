@@ -1,1 +1,1 @@
-var mnemonic = "silk giant sock clown bacon swear practice hand pistol medal reveal fossil";
+var mnemonic = "puzzle crisp rebel crew negative typical matter cute moon remove pass banana";

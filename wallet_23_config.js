@@ -1,1 +1,1 @@
-var mnemonic = "toe ketchup nurse artist canvas special enhance where viable apology layer liquid";
+var mnemonic = "knock category nut science stand clutch rhythm muffin love salt december laptop";
