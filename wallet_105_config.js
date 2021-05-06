@@ -1,1 +1,1 @@
-var mnemonic = "cheese latin crush vital harbor bench gun history west pretty wisdom melody";
+var mnemonic = "sniff gravity stick bottom multiply pact stay asthma sheriff truth biology iron";

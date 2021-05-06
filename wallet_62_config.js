@@ -1,1 +1,1 @@
-var mnemonic = "inspire horse twin risk neck pottery radio pact cruel wisdom satisfy liberty";
+var mnemonic = "slender lucky wet current tornado echo filter forum social ranch body aunt";

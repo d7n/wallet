@@ -1,1 +1,1 @@
-var mnemonic = "dose blind between camera luggage benefit melt black art public athlete avocado";
+var mnemonic = "short learn stadium scissors athlete dose afford awful dizzy menu dish head";

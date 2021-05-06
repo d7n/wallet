@@ -1,1 +1,1 @@
-var mnemonic = "exhibit federal six shield paddle kit misery vehicle stable aunt purity inspire";
+var mnemonic = "group surge kingdom isolate price pact half velvet human deputy tell vacant";

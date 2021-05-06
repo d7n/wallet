@@ -1,1 +1,1 @@
-var mnemonic = "educate hockey empty cup world unhappy stock artefact inflict blue ladder patrol";
+var mnemonic = "robust affair cover property usage pair wood acquire auto name teach crunch";

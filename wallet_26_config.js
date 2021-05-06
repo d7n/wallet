@@ -1,1 +1,1 @@
-var mnemonic = "length area tree success spread imitate north ten emerge embody pioneer kingdom";
+var mnemonic = "tattoo tomato fog receive fish school slim alter rubber ocean radio evidence";

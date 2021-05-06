@@ -1,1 +1,1 @@
-var mnemonic = "document unveil rather distance clock lens boss omit receive vicious trigger merge";
+var mnemonic = "basket spend disorder olive coin anxiety source truck ramp hotel lens pistol";

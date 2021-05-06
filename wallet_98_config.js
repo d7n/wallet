@@ -1,1 +1,1 @@
-var mnemonic = "employ skill tide because horse accident spatial elbow lawn match finger parade";
+var mnemonic = "mandate shell expose van hub loop gown logic foster open utility improve";

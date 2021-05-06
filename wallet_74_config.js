@@ -1,1 +1,1 @@
-var mnemonic = "hundred side immune rabbit ivory attitude rather fiction duck aspect depend frozen";
+var mnemonic = "reform regret wish better absent long account toward muffin pigeon bottom cool";

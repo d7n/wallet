@@ -1,1 +1,1 @@
-var mnemonic = "guard display destroy pretty expect engage very outdoor orchard garment repair child";
+var mnemonic = "super identify erode conduct region umbrella train pupil vacant column drum uncle";

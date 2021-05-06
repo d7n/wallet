@@ -1,1 +1,1 @@
-var mnemonic = "chapter height embrace hero grief marine monster cause measure divert hair citizen";
+var mnemonic = "ketchup toe plate nothing canoe speak struggle high poverty rice power rate";

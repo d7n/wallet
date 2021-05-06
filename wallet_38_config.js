@@ -1,1 +1,1 @@
-var mnemonic = "velvet before control edge burger drum quantum inner treat mountain picture lake";
+var mnemonic = "cheese margin topic long tired garden culture stomach try cash inquiry imitate";

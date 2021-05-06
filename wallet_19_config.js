@@ -1,1 +1,1 @@
-var mnemonic = "winter eye decrease bulk flush behind print cake review floor youth tool";
+var mnemonic = "loud canal envelope direct guide gain rebuild rely cushion there staff slow";

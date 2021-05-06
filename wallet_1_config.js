@@ -1,1 +1,1 @@
-var mnemonic = "keep buzz glory fossil denial income seat oyster fury blouse battle pilot";
+var mnemonic = "quick rack zone math switch adjust moment damp goat empower gossip property";

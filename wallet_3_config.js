@@ -1,1 +1,1 @@
-var mnemonic = "pelican erase scissors legend culture punch dust usual ladder tomato pumpkin enlist";
+var mnemonic = "globe lounge mesh sponsor skirt fever december charge reunion method slice promote";

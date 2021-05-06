@@ -1,1 +1,1 @@
-var mnemonic = "advance illegal into debris tail dirt cereal field gate age spot all";
+var mnemonic = "fame right knock patient smile before flavor brain snack kite engage there";

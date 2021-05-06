@@ -1,1 +1,1 @@
-var mnemonic = "educate unaware donor brisk focus arctic maple lucky nephew educate light spice";
+var mnemonic = "solid park camp tooth battle caution wrong powder liar pole island found";

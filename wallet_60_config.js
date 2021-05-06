@@ -1,1 +1,1 @@
-var mnemonic = "nation frog tomorrow cover lobster scorpion muscle board morning treat sort spend";
+var mnemonic = "reject review royal conduct timber type increase erosion fold embark margin essence";

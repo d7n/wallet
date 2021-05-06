@@ -1,1 +1,1 @@
-var mnemonic = "violin cube yellow extra oblige alley until sad assume bottom rigid twist";
+var mnemonic = "avoid symptom donkey volume music sing talk stem tired client six injury";

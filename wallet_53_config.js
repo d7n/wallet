@@ -1,1 +1,1 @@
-var mnemonic = "educate shadow artwork give tail nice arrive future isolate fence veteran craft";
+var mnemonic = "emerge custom actual demand fan weekend mask protect royal satoshi scout icon";

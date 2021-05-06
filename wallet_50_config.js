@@ -1,1 +1,1 @@
-var mnemonic = "stove pupil actual jar gossip civil twist consider census course lion cliff";
+var mnemonic = "fee moment local car marine virus possible tumble uncle wink brain century";

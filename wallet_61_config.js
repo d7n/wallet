@@ -1,1 +1,1 @@
-var mnemonic = "crystal pilot marine attack wine garage imitate tail thrive chimney clarify grace";
+var mnemonic = "invest hurdle enlist grief secret write bomb gauge say cross erode conduct";

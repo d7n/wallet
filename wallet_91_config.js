@@ -1,1 +1,1 @@
-var mnemonic = "bracket borrow sadness cloth lava balcony news exit noise trouble buffalo peasant";
+var mnemonic = "erase carbon gate buffalo tonight vanish key faculty index hole fluid source";

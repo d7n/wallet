@@ -1,1 +1,1 @@
-var mnemonic = "radio winter want acoustic physical tank arctic tuition despair solid jungle final";
+var mnemonic = "ride vapor soldier escape mountain skirt powder over coyote session enforce vocal";

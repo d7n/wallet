@@ -1,1 +1,1 @@
-var mnemonic = "effort length attract cannon music despair feed banner reform evidence begin arm";
+var mnemonic = "tackle main title improve junior parade ten wink hill system throw rural";

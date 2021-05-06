@@ -1,1 +1,1 @@
-var mnemonic = "wrist ability erosion disorder buyer barely zebra gesture ketchup annual economy gadget";
+var mnemonic = "liquid lend vault moon light usage add hero output grunt slab lunch";

@@ -1,1 +1,1 @@
-var mnemonic = "drum mystery state margin mercy head sad audit screen more model close";
+var mnemonic = "cage short all rose primary report uniform local coast urban thrive habit";

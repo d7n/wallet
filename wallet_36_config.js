@@ -1,1 +1,1 @@
-var mnemonic = "pluck ceiling vocal rifle purse segment area public long various dog improve";
+var mnemonic = "spoil today goose candy license this arrest phrase ordinary damage offer speed";

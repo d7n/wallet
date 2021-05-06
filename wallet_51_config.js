@@ -1,1 +1,1 @@
-var mnemonic = "rally vessel bamboo scheme type arm caught quiz kiwi vanish half void";
+var mnemonic = "awkward blossom path useful state dove twist melt autumn journey faint unfair";

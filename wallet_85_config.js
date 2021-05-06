@@ -1,1 +1,1 @@
-var mnemonic = "much shiver popular faculty raw verb rural clump whale opera web because";
+var mnemonic = "miss spy among mechanic general shoot tired return scene weekend view elephant";

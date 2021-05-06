@@ -1,1 +1,1 @@
-var mnemonic = "hybrid photo earn crawl stamp someone useful fine web sister detail lab";
+var mnemonic = "stereo blame guide soup weekend vehicle harvest version since movie describe rival";

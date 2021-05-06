@@ -1,1 +1,1 @@
-var mnemonic = "armor scan dice success correct swear east snack document inspire confirm script";
+var mnemonic = "gold join arch since pupil point push spirit couch cry average permit";

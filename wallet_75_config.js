@@ -1,1 +1,1 @@
-var mnemonic = "blind ecology winner wife beef phone use tourist pencil furnace rifle there";
+var mnemonic = "rule category require gold cradle pact draw topic ivory item broken cook";

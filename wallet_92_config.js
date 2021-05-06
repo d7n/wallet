@@ -1,1 +1,1 @@
-var mnemonic = "black risk athlete decline talk repeat congress over guess filter color lottery";
+var mnemonic = "snow avocado prison wide slender boy retire swing bundle hungry field kitchen";

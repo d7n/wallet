@@ -1,1 +1,1 @@
-var mnemonic = "peace shed license slow panel blame tide box mule vicious system among";
+var mnemonic = "quiz loyal reflect pyramid cream twice tower human suspect mobile social final";

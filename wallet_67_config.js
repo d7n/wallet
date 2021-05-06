@@ -1,1 +1,1 @@
-var mnemonic = "attitude road faint place usage carpet desert piece update drum plunge acoustic";
+var mnemonic = "disease afraid skill misery box raise space hood pulp echo case slim";

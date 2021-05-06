@@ -1,1 +1,1 @@
-var mnemonic = "denial matrix frozen cave afford reflect figure second transfer super brain orange";
+var mnemonic = "matrix equal mercy hole holiday monster abandon rare convince drill crazy blush";

@@ -1,1 +1,1 @@
-var mnemonic = "tip myself taxi earn paddle exile check hip favorite wife source hybrid";
+var mnemonic = "list verb donate asthma virtual unaware outer lyrics expand avoid calm two";

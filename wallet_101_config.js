@@ -1,1 +1,1 @@
-var mnemonic = "limit enjoy volume upon climb adult mixture shoot casino round kite apart";
+var mnemonic = "scatter junior eight crawl walk security response harbor sell addict secret brown";

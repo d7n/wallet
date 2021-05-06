@@ -1,1 +1,1 @@
-var mnemonic = "language cupboard receive music another pause device kit mushroom bundle puppy cabin";
+var mnemonic = "scrub negative cigar hamster velvet dial warm bitter now village sorry cream";

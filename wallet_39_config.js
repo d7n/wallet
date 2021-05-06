@@ -1,1 +1,1 @@
-var mnemonic = "elder umbrella spoon region half holiday deposit flash choice news dawn wash";
+var mnemonic = "worth churn mean position ancient calm latin clinic rural indoor bid dust";

@@ -1,1 +1,1 @@
-var mnemonic = "alter achieve act fabric drive crash soup motion twenty spice wasp marriage";
+var mnemonic = "horse accident weekend middle share service suggest ill cash hidden end cry";

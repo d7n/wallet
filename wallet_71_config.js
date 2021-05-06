@@ -1,1 +1,1 @@
-var mnemonic = "again coyote world tape prepare wall oval happy fringe limb scan valley";
+var mnemonic = "crawl foil path crunch novel two eight wash guitar type suggest lens";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon garlic kingdom label coach figure cause entire eager patch curious open";
+var mnemonic = "pony venture junk pretty opera grow brief call paper fly sign target";

@@ -1,1 +1,1 @@
-var mnemonic = "farm genius scorpion blush gaze shallow afford kangaroo blind scrub boring maximum";
+var mnemonic = "machine photo illegal budget joke cheese ginger add brick behave vote fish";

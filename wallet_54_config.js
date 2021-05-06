@@ -1,1 +1,1 @@
-var mnemonic = "adapt sibling unaware fatigue vault joy castle fuel carpet labor dinner recycle";
+var mnemonic = "wolf among soup cactus bracket kidney human spot trip shy rail doll";

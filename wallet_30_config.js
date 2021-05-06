@@ -1,1 +1,1 @@
-var mnemonic = "piano rate echo beauty skate arrange stairs thumb actress pluck mule inhale";
+var mnemonic = "grab cool urban junior fatal step fun resource share review frame chicken";

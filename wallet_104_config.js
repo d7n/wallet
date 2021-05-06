@@ -1,1 +1,1 @@
-var mnemonic = "admit keen potato result shaft hole track nature tuition glimpse motor lumber";
+var mnemonic = "inch improve day little nuclear fan expose warfare photo blade trumpet auction";

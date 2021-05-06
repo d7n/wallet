@@ -1,1 +1,1 @@
-var mnemonic = "donkey chronic cabbage appear young argue tourist ahead reduce garbage silent between";
+var mnemonic = "wealth core gauge fetch sustain flat chicken notable cloud lend orphan bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder put pear fatigue damage bacon apple morning flower height eye stamp";
+var mnemonic = "exact limit during reject timber shoe ordinary age vessel better ugly shoe";

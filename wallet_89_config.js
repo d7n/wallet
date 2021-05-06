@@ -1,1 +1,1 @@
-var mnemonic = "lamp film decade much shine casual neutral space help title strategy this";
+var mnemonic = "method seed tiny old olive cradle current stock spoil liar dignity nature";

@@ -1,1 +1,1 @@
-var mnemonic = "review joy mesh life tumble blue door quiz vibrant analyst praise order";
+var mnemonic = "series silk pulse spy friend owner noise eye only stairs stove jealous";

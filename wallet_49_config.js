@@ -1,1 +1,1 @@
-var mnemonic = "skill fan area brother volcano basic eye giraffe door already hockey piece";
+var mnemonic = "novel cluster robust filter never among sister company hurdle access inspire orphan";

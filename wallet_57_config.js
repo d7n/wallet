@@ -1,1 +1,1 @@
-var mnemonic = "pistol property cabin couch fire warm help length remain bullet slogan field";
+var mnemonic = "test moon age one subject guide fringe bubble cactus anger law analyst";

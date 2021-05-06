@@ -1,1 +1,1 @@
-var mnemonic = "cake keep cable effort pill public protect crater produce loop negative fantasy";
+var mnemonic = "memory network system taxi garden whisper ketchup copper private scale crunch candy";

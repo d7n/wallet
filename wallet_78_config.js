@@ -1,1 +1,1 @@
-var mnemonic = "boat jeans cruise toddler actual swing piece phrase assault have chicken basket";
+var mnemonic = "liberty burst raw seat mention used salmon garage love over quote advice";

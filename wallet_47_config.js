@@ -1,1 +1,1 @@
-var mnemonic = "develop disagree refuse edge gasp frost ability diagram ranch occur flash robot";
+var mnemonic = "spike walnut shoe host dose foot fatigue rough inherit unlock melt glad";

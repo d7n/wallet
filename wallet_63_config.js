@@ -1,1 +1,1 @@
-var mnemonic = "blur price vibrant clutch pond pave page fold marble awkward history napkin";
+var mnemonic = "vanish what awful picture truly primary annual cave pole future raccoon win";

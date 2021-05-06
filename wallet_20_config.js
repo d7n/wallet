@@ -1,1 +1,1 @@
-var mnemonic = "pull where ancient pull move join review wall day ecology abandon figure";
+var mnemonic = "duty head exit bright melody wink choose employ level tenant year stumble";

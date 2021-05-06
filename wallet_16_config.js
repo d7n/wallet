@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog segment blur poet enforce wide boil soul certain carry crop sample";
+var mnemonic = "future buddy width grief future evil trumpet topple adapt offer thrive lecture";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle okay cute scout million capital stadium zebra milk narrow scheme since";
+var mnemonic = "general attitude bulb area bracket tongue patrol quote mixture fat hurry left";

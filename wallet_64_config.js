@@ -1,1 +1,1 @@
-var mnemonic = "rare city sunset tone demise morning guide veteran disease tourist vicious hero";
+var mnemonic = "gas still unveil curious verify unit carbon task season verify oil audit";

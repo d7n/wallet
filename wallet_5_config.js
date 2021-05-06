@@ -1,1 +1,1 @@
-var mnemonic = "grow wrap degree eye silly assist screen search spell picnic mask ancient";
+var mnemonic = "room health maze exercise mirror skate debris physical soap liar area syrup";

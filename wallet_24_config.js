@@ -1,1 +1,1 @@
-var mnemonic = "rival small draw beef secret embrace seat skirt scare weekend devote gap";
+var mnemonic = "essay master pool orbit echo holiday federal display panther polar tank raw";

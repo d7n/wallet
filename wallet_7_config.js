@@ -1,1 +1,1 @@
-var mnemonic = "always define agent never barely puppy tag park victory doll oval unhappy";
+var mnemonic = "earth field sketch brush session always minor ask avoid sorry ecology payment";

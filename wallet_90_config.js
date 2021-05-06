@@ -1,1 +1,1 @@
-var mnemonic = "height secret throw faint cream destroy legal wagon weather naive weird opinion";
+var mnemonic = "carbon label moral sense agent hero bike twist viable ginger oak negative";

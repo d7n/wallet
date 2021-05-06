@@ -1,1 +1,1 @@
-var mnemonic = "hollow enlist laundry wise quick gown hammer virus exhaust ordinary find piece";
+var mnemonic = "thrive violin weekend unique control coffee zone spirit bike material local ecology";

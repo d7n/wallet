@@ -1,1 +1,1 @@
-var mnemonic = "soul mystery dutch special amount neither future stereo plunge wonder palace actress";
+var mnemonic = "myself dust name wife gate exhaust gasp leg dragon night grab clutch";

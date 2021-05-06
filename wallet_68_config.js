@@ -1,1 +1,1 @@
-var mnemonic = "right trouble sleep ready wrong anger modify wrong spoon lizard monster appear";
+var mnemonic = "castle nut drip link cake false pelican task embrace order host man";

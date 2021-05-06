@@ -1,1 +1,1 @@
-var mnemonic = "valve duck annual bridge maze loan exotic stand staff mean grit focus";
+var mnemonic = "sentence absurd into erosion use age weekend consider end pattern exchange twenty";

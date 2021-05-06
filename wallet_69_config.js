@@ -1,1 +1,1 @@
-var mnemonic = "wine odor one alert forum lobster surprise labor sand peanut ozone voyage";
+var mnemonic = "ostrich ready cliff rabbit doll fragile deal east ribbon same humor win";

@@ -1,1 +1,1 @@
-var mnemonic = "kid trend ramp engine siren flat engine hurt gesture eager problem index";
+var mnemonic = "onion crisp unable bunker bubble noodle debate bulb defy slide old jaguar";

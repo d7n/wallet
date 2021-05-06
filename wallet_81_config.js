@@ -1,1 +1,1 @@
-var mnemonic = "embark nasty hello ecology edit vacuum blanket physical evil empower fever stove";
+var mnemonic = "champion satisfy obvious expand bomb tonight shop waste escape mirror disorder job";

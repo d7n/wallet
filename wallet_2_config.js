@@ -1,1 +1,1 @@
-var mnemonic = "sea find act fee matrix gesture fish shield diesel horn water label";
+var mnemonic = "rent volume popular switch regret remove sibling brush walk stock vast pull";

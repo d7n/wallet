@@ -1,1 +1,1 @@
-var mnemonic = "teach capital awkward million credit real gravity dress rose adjust april type";
+var mnemonic = "angry horse slab crisp radio volcano dutch family cannon soul empower match";

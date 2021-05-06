@@ -1,1 +1,1 @@
-var mnemonic = "right wedding lemon embrace scout mixture loyal yard race merry chase sign";
+var mnemonic = "between flush capable tape forum umbrella shove lizard tissue craft rural drink";

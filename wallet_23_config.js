@@ -1,1 +1,1 @@
-var mnemonic = "knee wing nephew riot empower target bless popular track wet soldier venue";
+var mnemonic = "disorder test vintage cousin inner tattoo jump fancy clap unlock pond know";

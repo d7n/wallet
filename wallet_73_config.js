@@ -1,1 +1,1 @@
-var mnemonic = "august crush rubber wagon join fragile exhaust aerobic expire prosper farm exit";
+var mnemonic = "effort suspect run inflict reject budget spatial session require interest pole calm";

@@ -1,1 +1,1 @@
-var mnemonic = "vocal mandate endless control warfare distance fix elbow loop dove region pupil";
+var mnemonic = "noise spirit canal cloth man shed law retire movie code purchase weapon";

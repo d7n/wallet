@@ -1,1 +1,1 @@
-var mnemonic = "same sheriff arena fancy fossil fruit during grant menu stumble mutual orange";
+var mnemonic = "empower repeat tiger solar receive boost skirt enforce color bitter monitor fuel";

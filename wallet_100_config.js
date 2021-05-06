@@ -1,1 +1,1 @@
-var mnemonic = "dirt busy vital stick stamp luggage wage tuna world cherry cart rural";
+var mnemonic = "noble just churn riot friend reflect weird push inspire evidence describe balance";

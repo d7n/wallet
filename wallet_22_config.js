@@ -1,1 +1,1 @@
-var mnemonic = "combine flavor duty turn giant error spot devote glad harvest science arrest";
+var mnemonic = "throw galaxy biology toss minute lemon choice shiver drift logic coach clutch";

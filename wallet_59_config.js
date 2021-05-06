@@ -1,1 +1,1 @@
-var mnemonic = "immense bracket spice elegant flee mask snap health else affair idea travel";
+var mnemonic = "run pear dutch soda impulse trade hedgehog typical spider usage text leisure";

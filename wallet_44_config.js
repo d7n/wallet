@@ -1,1 +1,1 @@
-var mnemonic = "curious essence cattle autumn cause now pepper noble garment draw hello front";
+var mnemonic = "stamp invest giraffe phrase around help claim doctor coil can nice prevent";

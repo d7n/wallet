@@ -1,1 +1,1 @@
-var mnemonic = "siren effort become into wash debate embody aunt beach cotton damp carry";
+var mnemonic = "post transfer daring spend genuine legend zone neck method aisle cactus embark";

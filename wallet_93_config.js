@@ -1,1 +1,1 @@
-var mnemonic = "icon ivory baby cricket garbage else lady ice artwork dizzy student robust";
+var mnemonic = "ski slam copper original rabbit clutch great fever artist drama tilt simple";

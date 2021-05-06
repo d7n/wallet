@@ -1,1 +1,1 @@
-var mnemonic = "invite crucial measure arrange spider absorb screen tent myth refuse sing faint";
+var mnemonic = "aware frequent pledge twenty people cushion student circle quantum cliff thrive govern";
