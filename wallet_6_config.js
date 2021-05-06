@@ -1,1 +1,1 @@
-var mnemonic = "fiber round fly future winner hard trigger behave hat mention print solve";
+var mnemonic = "circle orbit powder east coyote torch rent gun kick invite bright faith";

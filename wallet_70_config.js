@@ -1,1 +1,1 @@
-var mnemonic = "fragile attract question coil cluster relax about document head spell panel exact";
+var mnemonic = "dress salon what inch nerve siren plug essay powder forward engage pig";

@@ -1,1 +1,1 @@
-var mnemonic = "scrap large lens life select man culture brief dress topic victory combine";
+var mnemonic = "shell unknown picture gaze walnut include vendor autumn curious grab ostrich wreck";

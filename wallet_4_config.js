@@ -1,1 +1,1 @@
-var mnemonic = "wrestle excuse empty head mom car inject toward refuse invite march rich";
+var mnemonic = "boat crane meat adjust boil renew episode until carbon invest stone title";

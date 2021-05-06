@@ -1,1 +1,1 @@
-var mnemonic = "curtain meadow special anger inform copy pelican foot remind regret toddler cause";
+var mnemonic = "window clerk call agent bleak copy letter three mixed lunar scorpion come";

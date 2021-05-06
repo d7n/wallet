@@ -1,1 +1,1 @@
-var mnemonic = "jungle rebel satoshi muffin frequent cigar inmate surprise round donor order burden";
+var mnemonic = "farm shine chuckle reduce deer bronze guard sunset bacon sand august oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "task tortoise win love title host modify gallery almost such pelican adjust";
+var mnemonic = "mutual foil analyst anger reject neutral meat control nurse funny leisure arctic";

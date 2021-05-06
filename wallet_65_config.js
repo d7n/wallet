@@ -1,1 +1,1 @@
-var mnemonic = "globe unfair punch rain razor senior program common carry olympic range bunker";
+var mnemonic = "dress mouse dilemma rally ugly shoot young arena bean embody fire border";

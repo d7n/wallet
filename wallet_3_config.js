@@ -1,1 +1,1 @@
-var mnemonic = "swing bright job nature segment true police theory unhappy embody math absent";
+var mnemonic = "latin safe fuel sock ivory reveal grow act company swim potato arrest";

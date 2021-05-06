@@ -1,1 +1,1 @@
-var mnemonic = "alone knee churn output tool sick egg parade thumb scare plastic axis";
+var mnemonic = "cannon drift certain harsh van dizzy antenna surround door pull canoe dentist";

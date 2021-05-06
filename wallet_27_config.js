@@ -1,1 +1,1 @@
-var mnemonic = "impose evolve merit resist excess bubble phone kiss rely slim add cash";
+var mnemonic = "program blouse sunset supply share brand check village bundle sun pet gasp";

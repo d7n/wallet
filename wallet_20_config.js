@@ -1,1 +1,1 @@
-var mnemonic = "hover dish aisle exact film race barrel narrow sample must clinic tide";
+var mnemonic = "sorry any develop virtual upset impulse wire such wonder simple tackle wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "weather cost cereal dog lottery track nose pull page wall reform rude";
+var mnemonic = "adult tired art eternal unable library bunker baby unknown lecture burden phrase";

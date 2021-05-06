@@ -1,1 +1,1 @@
-var mnemonic = "carpet toward theory abuse stuff defy door attitude poverty portion evidence lens";
+var mnemonic = "usage penalty mom method dumb better harbor dismiss emerge peanut congress choose";

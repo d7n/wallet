@@ -1,1 +1,1 @@
-var mnemonic = "control duty near gallery cave slide decline giraffe outdoor alarm apart clarify";
+var mnemonic = "expect gym devote collect cement expand click boat recall grief melt clever";

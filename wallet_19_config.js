@@ -1,1 +1,1 @@
-var mnemonic = "stand solar invite bird used deposit media process close hole squeeze process";
+var mnemonic = "east diary begin denial cabbage coffee heavy twin giraffe other virus law";

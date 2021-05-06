@@ -1,1 +1,1 @@
-var mnemonic = "picture cause air there tray rain vanish flock hood source ice develop";
+var mnemonic = "tray dawn much hungry meadow project feel focus dawn reduce awkward gift";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige hello kick minor amateur art menu session quiz lunch bracket produce";
+var mnemonic = "joy chronic fat apology slogan asset render regret thing tuna argue gate";

@@ -1,1 +1,1 @@
-var mnemonic = "boy order deal search dutch sponsor broccoli side cycle various talent wish";
+var mnemonic = "hold pulp involve canvas fan vote into conduct gospel dismiss crouch curtain";

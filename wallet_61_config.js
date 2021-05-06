@@ -1,1 +1,1 @@
-var mnemonic = "oil because key arrow faint text tornado fluid breeze duck depend keep";
+var mnemonic = "initial abstract cabbage city segment interest close equal feel segment top present";

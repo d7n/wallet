@@ -1,1 +1,1 @@
-var mnemonic = "general urban under craft faculty lab father grunt strike dynamic famous make";
+var mnemonic = "mother analyst siege fuel initial relief silent joke service found quit inside";

@@ -1,1 +1,1 @@
-var mnemonic = "apology arch unveil during young pond oxygen nice weapon gentle law salt";
+var mnemonic = "tiny want grocery teach van note oak motor coffee shine edge payment";

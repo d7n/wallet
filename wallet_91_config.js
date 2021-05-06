@@ -1,1 +1,1 @@
-var mnemonic = "decrease satoshi blossom sport unusual hold purity rail crouch lake day lumber";
+var mnemonic = "injury sick awake ribbon hub wide cradle visit veteran dry gloom crowd";

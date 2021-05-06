@@ -1,1 +1,1 @@
-var mnemonic = "book sign believe family eye harsh impose absent news network health replace";
+var mnemonic = "shoulder cradle company sing chimney advice catalog fame flower bench furnace journey";

@@ -1,1 +1,1 @@
-var mnemonic = "act toy enrich evolve expect defy october boy auction replace candy obvious";
+var mnemonic = "subject stereo pyramid ship city follow grab april rally mean glove cry";

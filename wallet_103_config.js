@@ -1,1 +1,1 @@
-var mnemonic = "emerge crowd flag regret upper point pig occur tail invest analyst together";
+var mnemonic = "rifle dragon grid toe bullet grace song top judge south return matrix";

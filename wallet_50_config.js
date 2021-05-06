@@ -1,1 +1,1 @@
-var mnemonic = "margin domain talk argue legal industry box hire bottom chuckle forward hire";
+var mnemonic = "lobster key act have view hospital scrub clerk pumpkin help deposit flock";

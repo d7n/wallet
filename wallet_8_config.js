@@ -1,1 +1,1 @@
-var mnemonic = "switch rebel path shadow fabric roast pull wave question apology armed dumb";
+var mnemonic = "judge main dawn pulse airport rib aerobic happy fall snack wrist race";

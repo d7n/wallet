@@ -1,1 +1,1 @@
-var mnemonic = "better unfair door escape tool prize quantum frequent bracket wrestle stumble company";
+var mnemonic = "frequent dry isolate butter fever sphere safe crush rose amazing bind view";

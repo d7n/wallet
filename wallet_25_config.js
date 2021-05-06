@@ -1,1 +1,1 @@
-var mnemonic = "trip hero notable eager inhale message only rhythm couple kitten execute jeans";
+var mnemonic = "timber vague turn day key beach rigid swamp picnic scout ugly guitar";

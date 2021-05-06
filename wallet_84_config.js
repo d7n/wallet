@@ -1,1 +1,1 @@
-var mnemonic = "soul walk library matrix exhaust public orient toss bronze grit palm abandon";
+var mnemonic = "fringe example inflict infant bulk mandate other fat cheese picture ghost vocal";

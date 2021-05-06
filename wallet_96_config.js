@@ -1,1 +1,1 @@
-var mnemonic = "credit oblige excuse sugar demand shoulder home bounce civil often axis solution";
+var mnemonic = "modify lizard twelve olympic switch sudden dog also pyramid slight kite cloth";

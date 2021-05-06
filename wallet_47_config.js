@@ -1,1 +1,1 @@
-var mnemonic = "call index accident deer invite sound spring couple noodle rib cabin they";
+var mnemonic = "popular solar page blur add awkward tongue obtain have drill ready climb";

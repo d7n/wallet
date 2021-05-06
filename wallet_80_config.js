@@ -1,1 +1,1 @@
-var mnemonic = "online coach blur absurd refuse long slam harvest vibrant erosion banana rookie";
+var mnemonic = "pride illegal jaguar that shrimp word reward toward deliver horn inquiry build";

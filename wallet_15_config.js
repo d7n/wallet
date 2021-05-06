@@ -1,1 +1,1 @@
-var mnemonic = "sorry canoe motor release super birth comfort gather nut sun gas flip";
+var mnemonic = "mammal water tired clean cushion supply document click electric used smart attract";

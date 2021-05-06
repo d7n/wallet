@@ -1,1 +1,1 @@
-var mnemonic = "bind woman scout laugh sing enable boost cargo author armed fiscal pull";
+var mnemonic = "increase bubble write dentist prepare dolphin glance raw reflect enlist damp arm";

@@ -1,1 +1,1 @@
-var mnemonic = "chief skill beyond cruise gloom result latin slab inner elegant champion sign";
+var mnemonic = "mosquito basket must fine bachelor misery track cross fringe deal pattern gain";

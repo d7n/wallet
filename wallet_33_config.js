@@ -1,1 +1,1 @@
-var mnemonic = "draw spoil salmon calm gun force choose habit cash gas physical inch";
+var mnemonic = "prize satisfy uniform gravity marine now special occur scatter hand flag nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "invite never hotel civil scatter dismiss priority damp scissors elevator glow rent";
+var mnemonic = "vital spin error social park gas object sick tourist pony typical jungle";

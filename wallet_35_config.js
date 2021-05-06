@@ -1,1 +1,1 @@
-var mnemonic = "subway student number gadget before cream brother liberty depth satisfy convince grow";
+var mnemonic = "happy indoor squirrel city machine woman basket toilet can erase blame side";

@@ -1,1 +1,1 @@
-var mnemonic = "style leader shuffle boost odor age humble space shock thank flee leisure";
+var mnemonic = "ladder addict canal cushion obey helmet access scrub slice extend diet oil";

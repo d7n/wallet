@@ -1,1 +1,1 @@
-var mnemonic = "ring arena gauge doll flower piece camp loop dust business bean evoke";
+var mnemonic = "blind chalk stairs crop state exchange repeat athlete athlete forward chair sorry";

@@ -1,1 +1,1 @@
-var mnemonic = "expose hover struggle income they accident box attitude write spring hen motor";
+var mnemonic = "laptop auto rose lucky erupt child clutch tell office cruel any harvest";

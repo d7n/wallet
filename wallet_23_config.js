@@ -1,1 +1,1 @@
-var mnemonic = "matrix soldier horror beach lumber canoe goat blossom project need clinic build";
+var mnemonic = "pair pigeon report absent there cotton oppose phrase join jacket reward deal";

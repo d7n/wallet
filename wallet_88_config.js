@@ -1,1 +1,1 @@
-var mnemonic = "peanut wealth pool cable tank chimney hybrid clap under chat canvas violin";
+var mnemonic = "release waste fatal ripple lyrics nerve dry prison grunt crunch image snow";

@@ -1,1 +1,1 @@
-var mnemonic = "session kiss soda build during message dismiss liquid kidney mansion correct soul";
+var mnemonic = "expire stool identify wage critic announce category bachelor abstract few citizen another";

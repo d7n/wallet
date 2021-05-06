@@ -1,1 +1,1 @@
-var mnemonic = "roof able timber digital night place entire utility hero craft habit exotic";
+var mnemonic = "ostrich champion burst innocent page canal trouble clap physical thank social unit";

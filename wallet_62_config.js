@@ -1,1 +1,1 @@
-var mnemonic = "make old trap lesson fine assist flat magnet acquire submit spawn enough";
+var mnemonic = "apple category weapon grape deliver bomb identify drop dice solid okay junk";

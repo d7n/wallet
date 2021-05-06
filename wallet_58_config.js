@@ -1,1 +1,1 @@
-var mnemonic = "idle cruise elephant awake shaft say high icon soup knee gaze direct";
+var mnemonic = "monitor romance genius any rapid federal flat cry regular nut position address";

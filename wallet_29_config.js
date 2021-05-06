@@ -1,1 +1,1 @@
-var mnemonic = "celery brand gaze brain rural next comfort boring tackle height machine decrease";
+var mnemonic = "trial then tuna learn steel cereal smoke ceiling busy hole tobacco rival";

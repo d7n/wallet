@@ -1,1 +1,1 @@
-var mnemonic = "exchange salad heavy explain armor valley dust short glove deputy album idle";
+var mnemonic = "bacon edge title clever design nuclear adult emerge flat nest fox senior";

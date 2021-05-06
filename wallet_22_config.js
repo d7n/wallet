@@ -1,1 +1,1 @@
-var mnemonic = "novel clarify smile arrest basic razor retire gain train sing pizza noodle";
+var mnemonic = "collect humble sign yellow corn jeans prosper coin room parrot involve render";

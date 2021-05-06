@@ -1,1 +1,1 @@
-var mnemonic = "film then casino trigger evolve oppose blind tower race gadget sunny mystery";
+var mnemonic = "involve moon birth razor face physical design moral bring fence miracle life";

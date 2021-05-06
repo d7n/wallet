@@ -1,1 +1,1 @@
-var mnemonic = "nose chair infant loyal erupt stuff pumpkin curious stand oxygen setup laptop";
+var mnemonic = "loan spread regular once fox pair miracle retire history acquire spell liberty";

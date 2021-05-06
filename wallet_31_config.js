@@ -1,1 +1,1 @@
-var mnemonic = "october reward street thrive amused pool innocent bind clean gather mesh kind";
+var mnemonic = "pattern ticket bag weird humble option garage kitten domain rib below thank";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble soon sort primary glance inside melody diary chef duty sponsor paddle";
+var mnemonic = "ocean swing capital addict blast donor bubble race path trial modify fresh";

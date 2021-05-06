@@ -1,1 +1,1 @@
-var mnemonic = "exile collect rather seek eyebrow practice topic wreck cigar brisk bag penalty";
+var mnemonic = "success ready kiwi repair dinosaur document quality december slam dress foam often";

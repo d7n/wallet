@@ -1,1 +1,1 @@
-var mnemonic = "clever essay practice surround north chapter today sad live venue unit sister";
+var mnemonic = "neither library menu negative peanut rose tiger student bag coach enforce labor";

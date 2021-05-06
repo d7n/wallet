@@ -1,1 +1,1 @@
-var mnemonic = "child rich pool vault token idea retire flush road rich segment chapter";
+var mnemonic = "always solar domain recall brick tool tank bleak expose tribe clerk bag";

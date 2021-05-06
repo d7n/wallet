@@ -1,1 +1,1 @@
-var mnemonic = "devote hair join pretty asthma ozone census program bundle survey benefit tissue";
+var mnemonic = "chapter fit knife melt drama vocal divorce grain object paper theory era";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle green iron reveal age decorate skate uniform patrol shop address calm";
+var mnemonic = "goddess dirt second engine gloom fat jump country duty marriage grape acid";

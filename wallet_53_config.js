@@ -1,1 +1,1 @@
-var mnemonic = "shy female unfair slot magnet latin inflict fetch clap steak apple virus";
+var mnemonic = "result filter inherit guess sister example sausage sorry grace brother supply craft";

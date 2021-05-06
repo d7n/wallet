@@ -1,1 +1,1 @@
-var mnemonic = "scan guard place message holiday judge neglect fit arrest humor fossil repair";
+var mnemonic = "tilt fire win train wing crowd clap zoo such enhance company much";

@@ -1,1 +1,1 @@
-var mnemonic = "pudding also crater exhaust supply hockey barely trap labor outer divide simple";
+var mnemonic = "original plastic series gun link loyal interest trim tuition concert below cactus";

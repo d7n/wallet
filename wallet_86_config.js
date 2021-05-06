@@ -1,1 +1,1 @@
-var mnemonic = "canal one hurry enemy curious nominee actress enroll wrist fence label dynamic";
+var mnemonic = "camp genius zone review kind style gap insect town evil diagram repair";

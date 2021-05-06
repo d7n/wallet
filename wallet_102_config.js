@@ -1,1 +1,1 @@
-var mnemonic = "health brown play maze special auction dice gain ranch again pet element";
+var mnemonic = "add liar message trouble remember blast between light increase fish two east";

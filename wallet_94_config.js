@@ -1,1 +1,1 @@
-var mnemonic = "maze desert vibrant coconut ability worth enroll extra giant state scatter spend";
+var mnemonic = "traffic deliver electric entire happy poet need spatial praise toy evidence drum";

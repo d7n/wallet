@@ -1,1 +1,1 @@
-var mnemonic = "client oblige nurse embody acid artefact slogan onion history physical truck brush";
+var mnemonic = "summer leisure pottery sponsor monster duty legal settle ask base vibrant sample";

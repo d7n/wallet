@@ -1,1 +1,1 @@
-var mnemonic = "garment ticket eagle skin scene left endless stage sibling bonus nasty music";
+var mnemonic = "soccer water faint peasant pelican disagree sad country tuition inquiry twelve cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "else floor decorate sentence dove mutual copy fix pioneer survey humor dizzy";
+var mnemonic = "saddle evil dragon slice step allow idle black battle drum various chunk";

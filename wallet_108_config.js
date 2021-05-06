@@ -1,1 +1,1 @@
-var mnemonic = "hope wing electric walk wrestle garlic cart roof lemon force later dinosaur";
+var mnemonic = "rural blame roof spray source ribbon boss envelope say manual need claim";

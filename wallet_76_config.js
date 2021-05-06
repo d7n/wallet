@@ -1,1 +1,1 @@
-var mnemonic = "robot just tissue subway shrug pulp load bar unusual tattoo year cricket";
+var mnemonic = "dress diesel element gown game bike charge useful bacon isolate pioneer voyage";

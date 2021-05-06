@@ -1,1 +1,1 @@
-var mnemonic = "skull umbrella aisle have brother analyst airport urge menu repair also thrive";
+var mnemonic = "vault initial visa crew month sound friend feature pattern arrange advance cattle";

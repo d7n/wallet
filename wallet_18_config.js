@@ -1,1 +1,1 @@
-var mnemonic = "better palace lyrics panda click dawn noodle sport dress face force during";
+var mnemonic = "leopard arena there junior reward fruit blossom celery then coyote gown humble";

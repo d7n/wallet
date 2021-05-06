@@ -1,1 +1,1 @@
-var mnemonic = "holiday test plunge derive fine ten inflict pelican trigger venue buffalo cat";
+var mnemonic = "slush obscure park update parent rhythm save stock until stock gun host";

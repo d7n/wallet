@@ -1,1 +1,1 @@
-var mnemonic = "offer poverty proud december pledge airport profit false someone cherry slender margin";
+var mnemonic = "host seek excuse bird chair venue tail leopard worth tomorrow fire usage";

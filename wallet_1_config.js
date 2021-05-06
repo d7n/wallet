@@ -1,1 +1,1 @@
-var mnemonic = "host travel horse budget today number muffin silent project pluck material deal";
+var mnemonic = "manual token desk clarify balcony unable seven wrist avoid method filter novel";

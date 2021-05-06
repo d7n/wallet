@@ -1,1 +1,1 @@
-var mnemonic = "rib uniform head ladder deposit champion keep prison outdoor parent faculty lend";
+var mnemonic = "company expire supply noodle chair near good patient accident kidney ribbon orient";

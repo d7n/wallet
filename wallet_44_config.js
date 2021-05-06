@@ -1,1 +1,1 @@
-var mnemonic = "bird dwarf hurt crystal tongue afraid main wreck rival lonely fish easy";
+var mnemonic = "demise cushion drama worry assume clerk sure snow assault warrior soft episode";

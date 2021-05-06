@@ -1,1 +1,1 @@
-var mnemonic = "rely pigeon bitter degree toward jelly wife suit badge cloth nose quality";
+var mnemonic = "general lava talk axis casino alley science diet common only tide wire";

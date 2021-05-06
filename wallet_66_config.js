@@ -1,1 +1,1 @@
-var mnemonic = "knife omit salon best unfair attitude balcony pipe trial cat shadow exchange";
+var mnemonic = "option label holiday loop unknown weapon remind fossil humor chunk pride universe";

@@ -1,1 +1,1 @@
-var mnemonic = "enact outer boil method spirit draft athlete finish crowd traffic unable attack";
+var mnemonic = "minute hover finish design biology over live purity hotel mixture tortoise damage";

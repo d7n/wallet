@@ -1,1 +1,1 @@
-var mnemonic = "service nice original below control pair broken cat abuse mad shed warrior";
+var mnemonic = "swap barrel album glow paper obscure direct diesel garlic senior neck total";

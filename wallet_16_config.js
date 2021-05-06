@@ -1,1 +1,1 @@
-var mnemonic = "chaos pave royal uncle mention voyage large skull uncover unfold piano hybrid";
+var mnemonic = "crush fiscal only weapon ring goat eye belt fiscal envelope dish banner";

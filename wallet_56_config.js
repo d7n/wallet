@@ -1,1 +1,1 @@
-var mnemonic = "mercy pupil fabric push endless offer fiction top curious absurd runway endless";
+var mnemonic = "artwork coffee knife peanut soul setup tunnel example foil spatial magic jewel";

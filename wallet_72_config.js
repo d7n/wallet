@@ -1,1 +1,1 @@
-var mnemonic = "version harvest believe grow ivory gorilla off enjoy sphere blue switch claw";
+var mnemonic = "thank attract render laundry segment scatter during proof panda ribbon replace air";

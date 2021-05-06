@@ -1,1 +1,1 @@
-var mnemonic = "void match raven diary taxi unaware soon spawn vehicle web north thought";
+var mnemonic = "connect better cost cart practice chief immense slim impulse window deny turn";

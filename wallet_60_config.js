@@ -1,1 +1,1 @@
-var mnemonic = "brand hint target cabin clutch toss hard final smile expect evidence gas";
+var mnemonic = "genius dance spoon artefact endorse chalk club excess butter adjust strategy abstract";

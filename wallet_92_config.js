@@ -1,1 +1,1 @@
-var mnemonic = "hawk garment rail upon caution grape equip silent carpet skirt cricket suffer";
+var mnemonic = "learn mother orange female worry apple media soccer fetch muffin dance follow";

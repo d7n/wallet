@@ -1,1 +1,1 @@
-var mnemonic = "dilemma decrease punch above south book brief term video ecology bargain expire";
+var mnemonic = "gain wage angry artefact empty harsh sketch combine broom soldier warrior half";

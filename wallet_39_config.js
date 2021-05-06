@@ -1,1 +1,1 @@
-var mnemonic = "transfer rate brain crowd decrease hero host vibrant rocket promote ocean manual";
+var mnemonic = "evolve net damage guitar balance fiber poverty twice grant frame off unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "extend raw renew robot champion inject clever someone label cat waste provide";
+var mnemonic = "lesson pass someone ice gold action dog response jar fantasy crater possible";

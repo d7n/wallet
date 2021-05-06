@@ -1,1 +1,1 @@
-var mnemonic = "blur hood acoustic blame cloth army path robust use solution right happy";
+var mnemonic = "slim minute luggage earn donor margin immune goat act indoor picture access";

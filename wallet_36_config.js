@@ -1,1 +1,1 @@
-var mnemonic = "dinner sample middle funny differ dragon floor fade include kitchen usual wave";
+var mnemonic = "video disagree upon early profit style dilemma nasty leg depth visual order";

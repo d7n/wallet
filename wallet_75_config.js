@@ -1,1 +1,1 @@
-var mnemonic = "feed impulse girl ethics session okay person pear floor axis enhance elevator";
+var mnemonic = "fall leisure that lift thrive chalk water more right topple want kind";
