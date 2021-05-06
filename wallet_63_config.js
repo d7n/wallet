@@ -1,1 +1,1 @@
-var mnemonic = "thank hamster cluster swing stand desert cube fit egg gloom forget tennis";
+var mnemonic = "hope champion view flock only claw road steel whisper tongue champion slice";

@@ -1,1 +1,1 @@
-var mnemonic = "energy join crazy warm degree inhale angle dragon helmet brief diagram misery";
+var mnemonic = "crisp steel surprise cause smart spoon crystal polar morning okay enroll kitchen";

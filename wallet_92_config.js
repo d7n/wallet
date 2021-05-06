@@ -1,1 +1,1 @@
-var mnemonic = "fog source rather fine judge destroy fluid rare balance update off upper";
+var mnemonic = "rent breeze response valley march bargain odor repair huge harsh light behave";

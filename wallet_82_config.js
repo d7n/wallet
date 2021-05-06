@@ -1,1 +1,1 @@
-var mnemonic = "fan wheat maid blanket lobster history luxury crucial inquiry buffalo shallow elephant";
+var mnemonic = "kitchen half box weird green law sleep history parrot secret barrel visual";

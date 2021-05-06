@@ -1,1 +1,1 @@
-var mnemonic = "version scan soap enrich office people prize toward rent video van found";
+var mnemonic = "mom property visa name prepare vintage bullet dial frost describe buddy sea";

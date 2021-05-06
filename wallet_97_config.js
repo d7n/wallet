@@ -1,1 +1,1 @@
-var mnemonic = "silver coffee energy limit climb forget home maze stock gun food pool";
+var mnemonic = "ice crawl vehicle upper miracle absurd dilemma ketchup since shoulder juice crowd";

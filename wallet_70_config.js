@@ -1,1 +1,1 @@
-var mnemonic = "bring verb cheese crash boring clock stay chief decline diagram huge melt";
+var mnemonic = "tuition obscure curious cinnamon joke cover original cross drastic fury debris frost";

@@ -1,1 +1,1 @@
-var mnemonic = "stereo emotion also digital canal curious soccer stomach verb bulk mandate belt";
+var mnemonic = "early anger blade elevator patient treat angry screen muffin inside exercise favorite";

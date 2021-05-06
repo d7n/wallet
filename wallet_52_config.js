@@ -1,1 +1,1 @@
-var mnemonic = "broccoli spice scale click pizza trial crawl learn noise float soap pudding";
+var mnemonic = "garlic drum banner music absorb injury coconut enhance wall lucky crew book";

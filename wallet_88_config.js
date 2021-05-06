@@ -1,1 +1,1 @@
-var mnemonic = "weekend wink depth drastic car believe topic razor grape call lunch kick";
+var mnemonic = "chair memory attract trip soccer tired life quick life way burst absurd";

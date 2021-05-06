@@ -1,1 +1,1 @@
-var mnemonic = "crouch box issue property owner father chest shop guess educate nominee tuition";
+var mnemonic = "salt pioneer buzz now elephant dynamic stumble tube smile snap cat fly";

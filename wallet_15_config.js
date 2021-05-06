@@ -1,1 +1,1 @@
-var mnemonic = "gift title seat that smooth ritual runway large crucial emerge fame tunnel";
+var mnemonic = "retreat raw raw stone erase try release rich never enable predict seek";

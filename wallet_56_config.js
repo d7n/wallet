@@ -1,1 +1,1 @@
-var mnemonic = "leg address obscure swamp welcome quantum dwarf symbol bless ancient response remove";
+var mnemonic = "cook utility attend chalk ride bench tail galaxy sniff mercy erode belt";

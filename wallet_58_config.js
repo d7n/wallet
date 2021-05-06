@@ -1,1 +1,1 @@
-var mnemonic = "truck sausage galaxy hurt umbrella advice ostrich chief fee sample pyramid scale";
+var mnemonic = "zebra insect install congress witness favorite govern now refuse shaft word scheme";

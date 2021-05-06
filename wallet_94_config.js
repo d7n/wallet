@@ -1,1 +1,1 @@
-var mnemonic = "label blade modify clarify outside orbit rice client soup chalk bottom garbage";
+var mnemonic = "desk track endorse file common protect fly awake firm joke inquiry spell";

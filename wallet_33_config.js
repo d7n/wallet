@@ -1,1 +1,1 @@
-var mnemonic = "imitate crucial host crunch reward glad dog long cloth velvet dry maximum";
+var mnemonic = "leave swamp income board bar decrease tell decade slam uncover atom album";

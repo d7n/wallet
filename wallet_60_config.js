@@ -1,1 +1,1 @@
-var mnemonic = "vague april sniff ridge mad mechanic unique chicken life wait window music";
+var mnemonic = "lonely circle goddess swear foam galaxy bike spike receive canal defense error";

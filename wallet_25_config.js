@@ -1,1 +1,1 @@
-var mnemonic = "fee beef dragon mother this wet broom dragon minute real ignore emerge";
+var mnemonic = "round theme pond very morning caught kidney stove marble ozone nut pluck";

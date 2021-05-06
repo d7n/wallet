@@ -1,1 +1,1 @@
-var mnemonic = "embrace author risk settle pupil couple tag require physical across dizzy salon";
+var mnemonic = "marine garbage fire essence pulse ceiling innocent sword matrix mistake wide flavor";

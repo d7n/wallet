@@ -1,1 +1,1 @@
-var mnemonic = "educate truck future affair together gospel moon holiday rocket dutch enable thought";
+var mnemonic = "force board flash traffic ice state labor cover board fiction urban rigid";

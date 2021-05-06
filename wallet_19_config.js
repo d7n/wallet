@@ -1,1 +1,1 @@
-var mnemonic = "dish topple borrow hedgehog effort sound hover swap month oven viable basic";
+var mnemonic = "meadow size reduce decline blood tomorrow assault senior express inhale scrub make";

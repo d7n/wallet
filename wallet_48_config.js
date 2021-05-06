@@ -1,1 +1,1 @@
-var mnemonic = "culture elite athlete nice harsh subject bomb scissors license wood hen practice";
+var mnemonic = "seven donkey become motion blame snack slight photo churn aunt legal donkey";

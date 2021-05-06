@@ -1,1 +1,1 @@
-var mnemonic = "script gate muffin update over bitter express adult fault gain rough seven";
+var mnemonic = "clog point patrol crawl burden current wage world crash cross rural obscure";

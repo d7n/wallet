@@ -1,1 +1,1 @@
-var mnemonic = "fantasy coast upper plug gym pluck asset beach keen vital insect drift";
+var mnemonic = "alert grit fabric top senior uniform solar barrel error know retire knee";

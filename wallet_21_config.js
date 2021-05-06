@@ -1,1 +1,1 @@
-var mnemonic = "script verb fruit wild sweet pretty bamboo edit salad frequent flash cactus";
+var mnemonic = "floor diet camera solve erase canoe amateur best van oil chef woman";

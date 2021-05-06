@@ -1,1 +1,1 @@
-var mnemonic = "bundle resist include slot curious rural next farm plastic insane auto toe";
+var mnemonic = "pluck weasel short chronic deputy snack glad setup spider swear depend fly";

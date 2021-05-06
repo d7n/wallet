@@ -1,1 +1,1 @@
-var mnemonic = "nurse popular paper sad jump six nose liberty stadium clutch lady author";
+var mnemonic = "live trigger solution rule gaze delay solid rabbit jelly brave sign exercise";

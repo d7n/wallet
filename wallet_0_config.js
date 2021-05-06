@@ -1,1 +1,1 @@
-var mnemonic = "fitness once admit pass crumble horror tray fabric category position collect swift";
+var mnemonic = "scissors lawsuit useful lonely mistake cat meat brave avocado buyer august sock";

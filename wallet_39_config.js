@@ -1,1 +1,1 @@
-var mnemonic = "hurdle dirt eye rare often invest over crowd asset link ketchup spread";
+var mnemonic = "replace define rival custom welcome glue mercy better consider screen grit join";

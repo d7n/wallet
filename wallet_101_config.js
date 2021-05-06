@@ -1,1 +1,1 @@
-var mnemonic = "ginger boat truck evoke hotel west voice health toddler paddle drip enroll";
+var mnemonic = "bulk shuffle common better loop bronze way load elephant auto thrive victory";

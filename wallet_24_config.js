@@ -1,1 +1,1 @@
-var mnemonic = "cost debris talent hero side torch tragic science wet marriage border pet";
+var mnemonic = "wing surge answer dignity rebuild copy random wealth credit genius leopard age";

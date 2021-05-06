@@ -1,1 +1,1 @@
-var mnemonic = "spy wash festival pave fossil prize hawk when breeze lawn version federal";
+var mnemonic = "fortune now moon hope frozen struggle bicycle hockey pulp clutch rocket any";

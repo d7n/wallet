@@ -1,1 +1,1 @@
-var mnemonic = "vivid stand state bid tortoise slim patrol say tone tone survey music";
+var mnemonic = "drum earth dish frown cute judge couch secret save robot can swing";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle donor kidney brain cat unfold bean trash truth divert fuel mass";
+var mnemonic = "pencil sight tortoise lake wool verify box palm matrix crystal chaos extend";

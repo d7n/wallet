@@ -1,1 +1,1 @@
-var mnemonic = "display unfair estate abstract weapon knee off gift mimic announce arrive body";
+var mnemonic = "armed inch vanish never wolf repeat cool royal silver nominee viable record";

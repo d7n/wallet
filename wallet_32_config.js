@@ -1,1 +1,1 @@
-var mnemonic = "siege clinic clinic afford staff super master report head chimney yellow auction";
+var mnemonic = "fabric regular kiwi estate weasel indoor hammer play harsh wall ball moral";

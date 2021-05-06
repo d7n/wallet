@@ -1,1 +1,1 @@
-var mnemonic = "radio churn screen bachelor apart test kitchen alter upon camera timber scout";
+var mnemonic = "reduce festival acoustic oyster direct faith blade spice recall manage alarm bike";

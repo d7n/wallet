@@ -1,1 +1,1 @@
-var mnemonic = "hazard swim peasant solar rail neck tip holiday apology scan betray room";
+var mnemonic = "treat science diesel swing cram sick lesson auto hire bulk design genius";

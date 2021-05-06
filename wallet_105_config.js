@@ -1,1 +1,1 @@
-var mnemonic = "shiver suggest pond travel donor box oak news calm soda certain keen";
+var mnemonic = "bar jump wool argue thought equip sport ordinary observe decrease jeans miss";

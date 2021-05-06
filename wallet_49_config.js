@@ -1,1 +1,1 @@
-var mnemonic = "witness key barrel already radar board soup mushroom trophy globe carpet large";
+var mnemonic = "betray return disease poet issue unusual scan cabbage tray token pet around";

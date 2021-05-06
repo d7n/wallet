@@ -1,1 +1,1 @@
-var mnemonic = "rigid gorilla bonus case rival rule fold artwork ugly arch chase moral";
+var mnemonic = "cash inspire sudden youth swift hill thing peanut shield human trip mad";

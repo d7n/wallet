@@ -1,1 +1,1 @@
-var mnemonic = "agent same silk tourist forest blood innocent inner chronic street exotic nature";
+var mnemonic = "begin keep dizzy twelve east creek fame surround emotion nuclear taste strategy";

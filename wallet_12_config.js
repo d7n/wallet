@@ -1,1 +1,1 @@
-var mnemonic = "day kitchen taste nice couch record merry nose guilt garden weasel inquiry";
+var mnemonic = "turkey under neutral army mother settle debate floor drama useful modify timber";

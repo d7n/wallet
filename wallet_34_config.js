@@ -1,1 +1,1 @@
-var mnemonic = "execute swing benefit deal potato embrace timber panda any plunge museum nut";
+var mnemonic = "close repeat search actual month minor spell coral heavy happy cry few";

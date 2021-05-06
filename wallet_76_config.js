@@ -1,1 +1,1 @@
-var mnemonic = "noble aim nut crucial soup cube boost human matrix near cherry glass";
+var mnemonic = "lemon list evolve zone trade shove romance window duck above code escape";

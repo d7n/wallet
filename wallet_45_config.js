@@ -1,1 +1,1 @@
-var mnemonic = "banner cycle enhance stumble impact denial use sand pig twenty entire world";
+var mnemonic = "derive father hollow glow scout ribbon scale expose foil crack west unfair";

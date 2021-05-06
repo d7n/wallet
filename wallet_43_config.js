@@ -1,1 +1,1 @@
-var mnemonic = "prison age woman distance disagree exact unable else buzz soft piano uniform";
+var mnemonic = "ten whisper seven eight purity delay ball club local stage worth sister";

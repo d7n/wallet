@@ -1,1 +1,1 @@
-var mnemonic = "latin someone fault soap lunch airport island setup wagon tenant ahead call";
+var mnemonic = "gap rib divorce shell begin dolphin alpha grab garbage kid script unusual";

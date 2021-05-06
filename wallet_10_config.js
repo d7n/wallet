@@ -1,1 +1,1 @@
-var mnemonic = "lawn spice improve length pet proof spoon vital pumpkin horror cheap detect";
+var mnemonic = "antenna roast elbow error first differ soul bless quarter tent clay aisle";

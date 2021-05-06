@@ -1,1 +1,1 @@
-var mnemonic = "leisure seminar truck deputy ocean stick plunge rhythm inflict bronze bird mobile";
+var mnemonic = "wrist connect sustain source vague car any broom ordinary novel close gospel";

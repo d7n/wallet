@@ -1,1 +1,1 @@
-var mnemonic = "foam page resource tent flip cup begin poem caught fiber lab lobster";
+var mnemonic = "they over zone game sniff place lunch hard air avoid chat chair";

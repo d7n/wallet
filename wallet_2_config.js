@@ -1,1 +1,1 @@
-var mnemonic = "inform awkward ski cabin oval cover agree box owner service orchard embrace";
+var mnemonic = "lend joke usual rookie lizard broom escape glare scrub danger bind consider";

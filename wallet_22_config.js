@@ -1,1 +1,1 @@
-var mnemonic = "fox result erode force boat grid language penalty oppose upper learn bike";
+var mnemonic = "kick alter defense object shop found chef humor issue truth nature brand";

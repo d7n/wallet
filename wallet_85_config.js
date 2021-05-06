@@ -1,1 +1,1 @@
-var mnemonic = "ankle ability vast region acid win patrol next right smooth finger industry";
+var mnemonic = "magnet trophy sick coin journey wave harbor upper pipe point mutual that";

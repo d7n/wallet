@@ -1,1 +1,1 @@
-var mnemonic = "lyrics city female bridge boost parrot bicycle ostrich stay envelope erupt rice";
+var mnemonic = "narrow super code hover reveal supply wise key obscure extend release damage";

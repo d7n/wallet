@@ -1,1 +1,1 @@
-var mnemonic = "reason pact kingdom stairs flee current reject trumpet loan pizza mimic frame";
+var mnemonic = "pluck end copper shuffle blossom bring limb rib cake maximum rely tortoise";

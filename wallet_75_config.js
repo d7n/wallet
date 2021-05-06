@@ -1,1 +1,1 @@
-var mnemonic = "spoon desert breeze skill dirt wheat yellow certain shuffle vault liberty reveal";
+var mnemonic = "vicious beauty tray ramp junk spring coast live history prize source traffic";

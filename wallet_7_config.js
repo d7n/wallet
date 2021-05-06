@@ -1,1 +1,1 @@
-var mnemonic = "space hidden dog dolphin system anger between lobster polar glory winter add";
+var mnemonic = "fever crumble neck canoe surface fuel mimic sense valve core income convince";

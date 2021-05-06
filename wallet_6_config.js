@@ -1,1 +1,1 @@
-var mnemonic = "inner good vivid define sure major tonight honey sauce cover rally educate";
+var mnemonic = "target broccoli seven garage connect monitor pig music marine expire problem curve";

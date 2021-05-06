@@ -1,1 +1,1 @@
-var mnemonic = "century various snow rail ticket damage differ science lesson when cage sunny";
+var mnemonic = "siege cage number lens marine demise dizzy leopard original ritual meat tonight";

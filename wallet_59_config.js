@@ -1,1 +1,1 @@
-var mnemonic = "slab ceiling attract elder noise jazz boring observe endless matrix crumble carry";
+var mnemonic = "adapt carpet common legend prepare tobacco gadget copper day arena doctor fun";

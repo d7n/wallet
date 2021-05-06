@@ -1,1 +1,1 @@
-var mnemonic = "inner marriage very candy calm bamboo casino real file minute cricket patrol";
+var mnemonic = "setup spy region oyster legend walnut fatigue extra foster step corn inside";

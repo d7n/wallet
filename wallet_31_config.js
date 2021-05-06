@@ -1,1 +1,1 @@
-var mnemonic = "fantasy curious source edge infant network sudden goddess sausage debris camp wish";
+var mnemonic = "giggle verify fury pencil awake awake sleep patient fame today pepper crystal";

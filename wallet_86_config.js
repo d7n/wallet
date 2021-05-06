@@ -1,1 +1,1 @@
-var mnemonic = "immune impulse tomorrow sing tent account place decline length solar stem cross";
+var mnemonic = "vicious skate display coin bench yard zoo eternal sound canvas mind enhance";

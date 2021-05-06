@@ -1,1 +1,1 @@
-var mnemonic = "pact elevator tortoise ankle deposit weird remind resemble blossom drip silly mind";
+var mnemonic = "discover special borrow uphold also refuse virus raccoon member affair reunion solve";

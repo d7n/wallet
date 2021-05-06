@@ -1,1 +1,1 @@
-var mnemonic = "nation bid evolve embody book sadness outer torch dutch fee spare ozone";
+var mnemonic = "will actress expand depth identify cart account supply exact ridge rapid defense";

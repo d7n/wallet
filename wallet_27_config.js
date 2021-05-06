@@ -1,1 +1,1 @@
-var mnemonic = "genre ripple correct right image chef oblige circle topple neglect clown sting";
+var mnemonic = "pond diagram furnace sphere shield lamp average soap vote vast legend note";

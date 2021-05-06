@@ -1,1 +1,1 @@
-var mnemonic = "stable next vessel auction advice sight shoulder flash equip code basket all";
+var mnemonic = "minor miss vacant skin saddle student yard defy under pioneer remind globe";

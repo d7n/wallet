@@ -1,1 +1,1 @@
-var mnemonic = "attitude little among shadow bless trend angle glide example long mother empty";
+var mnemonic = "champion spot shadow dial soccer now toss discover access road task axis";

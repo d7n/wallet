@@ -1,1 +1,1 @@
-var mnemonic = "during gaze lend ahead tooth unlock whale aisle roof bar letter stone";
+var mnemonic = "key empower immense pencil magic drop weekend cattle pattern myself aisle tray";

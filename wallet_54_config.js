@@ -1,1 +1,1 @@
-var mnemonic = "leopard high garlic lunch sell forest lesson stay silver stomach atom acquire";
+var mnemonic = "angry rapid panther flee focus bitter impose detail priority leg inhale festival";

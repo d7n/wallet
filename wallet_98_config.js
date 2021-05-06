@@ -1,1 +1,1 @@
-var mnemonic = "become cake saddle kiwi replace marble tent ocean public lion depart sheriff";
+var mnemonic = "gorilla company chaos panther buyer bottom annual clap card van pistol weekend";

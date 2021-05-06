@@ -1,1 +1,1 @@
-var mnemonic = "soon wait gift bean trick print wreck magic produce reform interest inside";
+var mnemonic = "dose reform crystal goat suspect smoke tube theme slight alter joke culture";

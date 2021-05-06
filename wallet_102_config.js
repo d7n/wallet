@@ -1,1 +1,1 @@
-var mnemonic = "mule arm evoke drum april chicken member airport marriage jacket meat witness";
+var mnemonic = "member huge range climb oxygen fix multiply layer shift draft myself crop";

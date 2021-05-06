@@ -1,1 +1,1 @@
-var mnemonic = "sauce embark conduct acoustic grain supply law flip level crew eagle satoshi";
+var mnemonic = "boost public crater still flock deposit artist gentle involve spoon oxygen deny";

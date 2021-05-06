@@ -1,1 +1,1 @@
-var mnemonic = "today assist enjoy cook zoo sustain mammal length theme window expire original";
+var mnemonic = "zone render reunion come defense cream this exhaust mixture famous type life";

@@ -1,1 +1,1 @@
-var mnemonic = "body olympic rapid crouch speed catch velvet gravity whisper gasp cannon worth";
+var mnemonic = "fury unknown deer mother attract swim clap donor expand novel latin unhappy";

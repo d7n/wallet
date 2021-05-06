@@ -1,1 +1,1 @@
-var mnemonic = "example limb cradle resource noise vehicle fossil seed icon twenty lesson blanket";
+var mnemonic = "bar onion copper try during chair smoke segment guess peasant chimney dismiss";

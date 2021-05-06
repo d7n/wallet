@@ -1,1 +1,1 @@
-var mnemonic = "employ swift depend maid view deer valid engage owner absent unusual success";
+var mnemonic = "vacant news orient sponsor solid purchase exact circle stock endorse garden economy";

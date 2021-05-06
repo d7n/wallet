@@ -1,1 +1,1 @@
-var mnemonic = "shine unaware rose equal filter educate mass broken ceiling fog veteran tuition";
+var mnemonic = "energy source bubble liquid scatter zebra thank demise want that fetch emerge";

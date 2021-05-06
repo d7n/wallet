@@ -1,1 +1,1 @@
-var mnemonic = "distance grit aspect panther try review either urban margin accident addict renew";
+var mnemonic = "useful act juice empty fan biology ketchup casual edge olympic accuse drill";

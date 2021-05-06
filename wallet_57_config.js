@@ -1,1 +1,1 @@
-var mnemonic = "label fan sauce material antique quote notice deer onion focus echo beach";
+var mnemonic = "warfare eye faith exercise curious lottery guilt hunt split isolate roast income";

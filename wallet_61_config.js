@@ -1,1 +1,1 @@
-var mnemonic = "absorb flock saddle cherry allow click human mouse play bird museum broom";
+var mnemonic = "cause reduce garbage style frozen roast position input claw host target push";

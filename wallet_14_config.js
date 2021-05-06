@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow power wisdom suggest echo napkin anchor solar ten number ask engage";
+var mnemonic = "travel process current tennis start mandate double since also daughter main evolve";

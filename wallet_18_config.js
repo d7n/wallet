@@ -1,1 +1,1 @@
-var mnemonic = "tray abuse draft attack point kiss magic route culture slight chuckle divorce";
+var mnemonic = "lamp crop chronic fiber champion talent remain interest twelve edge forum buzz";

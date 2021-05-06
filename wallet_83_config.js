@@ -1,1 +1,1 @@
-var mnemonic = "globe oxygen wheel van midnight honey cake fish oven select tonight trial";
+var mnemonic = "cloud remember road because render hedgehog oyster run change thumb anchor miss";

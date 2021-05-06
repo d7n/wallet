@@ -1,1 +1,1 @@
-var mnemonic = "bone exhibit east copy merry rival fan east section sausage inner noble";
+var mnemonic = "again grab senior legend satoshi siren minor lecture wisdom noodle trick velvet";

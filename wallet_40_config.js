@@ -1,1 +1,1 @@
-var mnemonic = "amateur lucky slim discover term duck drip pact merge okay person strong";
+var mnemonic = "quarter bunker mask once sense vintage gym celery asthma palm piano cinnamon";

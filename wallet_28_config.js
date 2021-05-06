@@ -1,1 +1,1 @@
-var mnemonic = "dance people lumber sweet stumble pepper scan analyst cry excuse intact mad";
+var mnemonic = "fever sniff beach economy predict possible multiply donate air juice excite patch";

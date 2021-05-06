@@ -1,1 +1,1 @@
-var mnemonic = "tuna receive crouch chef vault hollow ozone wage book question giggle sand";
+var mnemonic = "expose mom march chronic great stadium very remember edge test dinner train";

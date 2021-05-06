@@ -1,1 +1,1 @@
-var mnemonic = "document shy hand bind gold swift employ merge limit great wash plug";
+var mnemonic = "gas rally organ buddy border exchange uncover gadget level category knock flip";

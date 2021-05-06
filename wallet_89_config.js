@@ -1,1 +1,1 @@
-var mnemonic = "gather raven actual wall stamp tail divorce video youth once what sun";
+var mnemonic = "engage level cup symptom forum around into pyramid avocado resource audit dignity";

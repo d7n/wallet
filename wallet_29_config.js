@@ -1,1 +1,1 @@
-var mnemonic = "fortune mail clap speed tomato moon eye husband they supreme congress team";
+var mnemonic = "actor space rose clown woman april despair volume ecology funny token night";

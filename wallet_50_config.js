@@ -1,1 +1,1 @@
-var mnemonic = "coast degree carbon bring session genuine faith vehicle ranch detect upset pencil";
+var mnemonic = "interest debris display tag net page vehicle focus segment junior onion fever";

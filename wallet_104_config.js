@@ -1,1 +1,1 @@
-var mnemonic = "guilt bacon mandate nothing stuff burden wise reward issue invite dismiss suffer";
+var mnemonic = "welcome scissors ask kitten birth plate weekend extra morning bamboo plate wisdom";
