@@ -1,1 +1,1 @@
-var mnemonic = "engage desk bottom capital champion arctic agree old giggle limit space tonight";
+var mnemonic = "fury stereo rhythm tilt deal citizen practice must noodle blade laptop surface";

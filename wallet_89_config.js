@@ -1,1 +1,1 @@
-var mnemonic = "around obvious inhale blur face source push fox select ranch nice gravity";
+var mnemonic = "message man draft invite body whisper bus arrest favorite blouse fitness edit";

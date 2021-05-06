@@ -1,1 +1,1 @@
-var mnemonic = "excite coast sheriff call news mixed hair dune light sample normal eyebrow";
+var mnemonic = "mixture gain surface ensure affair air tray spray awake release smoke stand";

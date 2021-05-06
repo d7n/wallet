@@ -1,1 +1,1 @@
-var mnemonic = "useful deliver youth spatial inform grief silent beach warrior walk lake follow";
+var mnemonic = "tube afraid oil resist sleep illness lend fatal hill tattoo settle sing";

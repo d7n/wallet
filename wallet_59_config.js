@@ -1,1 +1,1 @@
-var mnemonic = "say security long pioneer empower digital impact ketchup goddess exercise matrix voice";
+var mnemonic = "person motion west sound kick tag fluid give either security fix fee";

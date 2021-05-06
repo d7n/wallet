@@ -1,1 +1,1 @@
-var mnemonic = "kite hammer demand bike sketch inquiry broccoli clever output element catch midnight";
+var mnemonic = "champion fantasy cement place meat wife give kit remain pilot film possible";

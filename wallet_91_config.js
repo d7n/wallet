@@ -1,1 +1,1 @@
-var mnemonic = "label actor hover hurt loop corn innocent expect device reform slush nose";
+var mnemonic = "wrong sadness rack minimum sorry pet grab oval trumpet such behind loyal";

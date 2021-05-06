@@ -1,1 +1,1 @@
-var mnemonic = "focus alcohol rhythm goddess need response crater silly brief about purse jeans";
+var mnemonic = "case mad patient cupboard swarm excuse grief wire scan absorb arch much";

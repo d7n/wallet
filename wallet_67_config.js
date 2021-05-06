@@ -1,1 +1,1 @@
-var mnemonic = "need resemble brush whip tennis road deal ethics build whisper tip twelve";
+var mnemonic = "unique mushroom farm ugly uncle mansion exhaust perfect range family kiss vacant";

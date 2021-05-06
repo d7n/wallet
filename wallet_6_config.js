@@ -1,1 +1,1 @@
-var mnemonic = "next riot magnet opera comfort puzzle age giraffe talk life display token";
+var mnemonic = "dumb veteran fault sponsor provide left crane couch length blade wasp hamster";

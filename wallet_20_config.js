@@ -1,1 +1,1 @@
-var mnemonic = "era loan convince nut teach because venue media black year gather goose";
+var mnemonic = "gather curve clean matter attend suffer relax issue own else pluck obtain";

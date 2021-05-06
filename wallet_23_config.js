@@ -1,1 +1,1 @@
-var mnemonic = "side unable better sample dance flee offer result budget tell hollow have";
+var mnemonic = "travel wave option depend sponsor mind cash peace squeeze cash adult grocery";

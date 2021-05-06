@@ -1,1 +1,1 @@
-var mnemonic = "split nerve puzzle medal please chalk subway sick fantasy february antenna team";
+var mnemonic = "wire spring cool promote drama eye kit record promote hire give piece";

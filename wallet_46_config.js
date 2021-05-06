@@ -1,1 +1,1 @@
-var mnemonic = "gorilla simple object clutch vivid major agree fox divide minor burden prefer";
+var mnemonic = "motion fury sting unique extra myth motion lake coral cheese mimic embrace";

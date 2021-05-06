@@ -1,1 +1,1 @@
-var mnemonic = "virtual adult sister dinosaur desert gift clown buzz tonight reason panel border";
+var mnemonic = "average head gain bronze bag attend spare benefit evolve length fox glide";

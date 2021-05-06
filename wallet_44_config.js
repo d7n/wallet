@@ -1,1 +1,1 @@
-var mnemonic = "spell repeat where decide admit insect silk tiny enforce coral dinosaur coach";
+var mnemonic = "oxygen snap romance mail obey burst goose gold silk faculty joke turtle";

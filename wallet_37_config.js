@@ -1,1 +1,1 @@
-var mnemonic = "physical farm ignore fan immense lava mirror style joy foil radio defy";
+var mnemonic = "position next old brisk label horror glide depth cradle into elevator choose";

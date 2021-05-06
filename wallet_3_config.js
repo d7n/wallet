@@ -1,1 +1,1 @@
-var mnemonic = "joy illegal melody short card fox flee physical beyond item quick venture";
+var mnemonic = "table recipe accident nerve move tray punch lava parade exact battle group";

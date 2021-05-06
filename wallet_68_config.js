@@ -1,1 +1,1 @@
-var mnemonic = "gym boost old flock auto turtle public phone olympic light garlic plunge";
+var mnemonic = "below scene cash spoon crazy fiscal true gospel home lecture doll strike";

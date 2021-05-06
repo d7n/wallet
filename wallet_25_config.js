@@ -1,1 +1,1 @@
-var mnemonic = "style close domain bracket fragile scheme film bless liberty cloth blast wet";
+var mnemonic = "trust fragile yard doctor giant minor mansion stairs play accident sudden menu";

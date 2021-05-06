@@ -1,1 +1,1 @@
-var mnemonic = "thought venture hotel predict grocery increase naive bleak symptom two lunar cherry";
+var mnemonic = "neutral around debris matter provide suffer grant soft tortoise angle desert badge";

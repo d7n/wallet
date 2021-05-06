@@ -1,1 +1,1 @@
-var mnemonic = "upset funny match neglect wonder tomato leader insect theory rib roof wool";
+var mnemonic = "clog mango antique stem crucial recycle enact stand force begin rough hip";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm muscle suit dinner catch chaos pistol eyebrow oven uphold replace sport";
+var mnemonic = "liar fame high patch rhythm south sport one uniform rhythm unfold jar";

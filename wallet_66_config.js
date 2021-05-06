@@ -1,1 +1,1 @@
-var mnemonic = "potato green obey warfare later dune brand replace shove rubber beef marble";
+var mnemonic = "oyster artefact manage hover armed vocal trip small sword parade museum scale";

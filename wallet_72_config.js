@@ -1,1 +1,1 @@
-var mnemonic = "exercise decade husband scan carry box craft earth neglect cactus exchange modify";
+var mnemonic = "own discover disagree uncle keep code nuclear ride cute frequent vital furnace";

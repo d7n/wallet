@@ -1,1 +1,1 @@
-var mnemonic = "add utility situate anchor organ cave evidence shrimp unique punch foster violin";
+var mnemonic = "people wait beef eagle purchase tenant category bunker document clog cake effort";

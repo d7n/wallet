@@ -1,1 +1,1 @@
-var mnemonic = "web crystal bring knee erase confirm silver embrace develop cloud syrup tattoo";
+var mnemonic = "favorite culture blade half rotate wrong truth screen bring valid giraffe forest";

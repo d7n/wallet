@@ -1,1 +1,1 @@
-var mnemonic = "before position diet raccoon section sock border admit horse neutral alpha column";
+var mnemonic = "reform camp improve tooth sauce ready ahead knee library swim armor face";

@@ -1,1 +1,1 @@
-var mnemonic = "opera lizard curious urge concert infant peasant humor mobile outdoor sad diet";
+var mnemonic = "rack forum erase salute sun leave camera appear salad school menu bird";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy meat marriage hint panel human post erosion pumpkin market special sock";
+var mnemonic = "salt sibling keep member soup card humble fade gorilla earth castle shadow";

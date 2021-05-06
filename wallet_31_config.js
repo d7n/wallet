@@ -1,1 +1,1 @@
-var mnemonic = "amused exist human other organ resist scorpion truck final spider elegant cancel";
+var mnemonic = "lobster crowd man body relief install replace donkey letter fringe bachelor cram";

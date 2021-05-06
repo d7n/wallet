@@ -1,1 +1,1 @@
-var mnemonic = "ramp memory diamond lab trouble blanket clever legend hub fabric coin rabbit";
+var mnemonic = "reform belt dumb search rent enlist blind walnut copper turkey maze output";

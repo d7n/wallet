@@ -1,1 +1,1 @@
-var mnemonic = "choose say brand share okay opera scan damp credit soldier slush among";
+var mnemonic = "slight run transfer describe dove indoor fringe sad dice fury move staff";

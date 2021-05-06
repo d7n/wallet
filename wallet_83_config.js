@@ -1,1 +1,1 @@
-var mnemonic = "favorite galaxy edge alert evil pottery tower imitate merit fork wink expire";
+var mnemonic = "door disagree silk prevent biology describe under chair jump become sudden abuse";

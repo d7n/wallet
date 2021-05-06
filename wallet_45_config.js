@@ -1,1 +1,1 @@
-var mnemonic = "treat turn arrive donkey pencil tuition mixture venture table pyramid vague awful";
+var mnemonic = "hunt angle piece purity tattoo column lobster cycle asthma shield fiscal dress";

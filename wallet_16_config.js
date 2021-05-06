@@ -1,1 +1,1 @@
-var mnemonic = "copper describe confirm arrow marble bargain kangaroo install orchard regret thrive force";
+var mnemonic = "later frame drive witness wood adjust narrow fog produce math order employ";

@@ -1,1 +1,1 @@
-var mnemonic = "pair review relax curious end dwarf avocado clever unit wide visual soft";
+var mnemonic = "guide predict comfort weapon funny pilot upset isolate school suffer super strategy";

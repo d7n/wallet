@@ -1,1 +1,1 @@
-var mnemonic = "fringe innocent health jelly master pen unfold claw tackle rebuild affair famous";
+var mnemonic = "note sausage laundry indicate also job appear danger elbow crack include final";

@@ -1,1 +1,1 @@
-var mnemonic = "cool survey render tape auto eager cruise stay combine wall giant smoke";
+var mnemonic = "survey predict pony stamp edit marriage winter hammer outdoor visa neither acid";

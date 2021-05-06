@@ -1,1 +1,1 @@
-var mnemonic = "supreme amused safe crucial few diary absorb actual grace gun luxury news";
+var mnemonic = "affair wagon fall fix nest phone width banana game nest ankle inner";

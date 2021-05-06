@@ -1,1 +1,1 @@
-var mnemonic = "garbage vote daughter test gift fitness opera short more post among body";
+var mnemonic = "burger name portion wasp maple crystal quantum iron domain bronze action swear";

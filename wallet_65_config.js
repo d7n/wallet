@@ -1,1 +1,1 @@
-var mnemonic = "dragon embrace lab stick virtual ready system follow answer old hub between";
+var mnemonic = "antique snack rug inflict plunge culture lesson joke soap pupil trophy juice";

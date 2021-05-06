@@ -1,1 +1,1 @@
-var mnemonic = "album truth bleak wheat flavor mixture hybrid address oval stairs slow napkin";
+var mnemonic = "comfort economy disorder isolate next mango claim only ahead step owner cry";

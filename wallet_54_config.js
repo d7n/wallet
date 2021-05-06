@@ -1,1 +1,1 @@
-var mnemonic = "crowd inquiry gas scrub high rebuild tomato clog expire idea clap shield";
+var mnemonic = "water onion ill artefact cargo again ripple post palace error post slight";

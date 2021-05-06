@@ -1,1 +1,1 @@
-var mnemonic = "tongue mother artefact convince delay invite vendor merge asset expand gesture candy";
+var mnemonic = "company address such slot donkey warm model spider gesture squirrel scrub marble";

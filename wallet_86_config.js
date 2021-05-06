@@ -1,1 +1,1 @@
-var mnemonic = "eager baby egg next rural coast debris infant decorate group guilt kind";
+var mnemonic = "jazz carry video soup lyrics kid shoe hint retire critic boss knock";

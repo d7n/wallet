@@ -1,1 +1,1 @@
-var mnemonic = "color column ridge offer stool vocal swap ritual three gym word caught";
+var mnemonic = "kidney razor sort issue quiz vacuum sock meadow world damp charge solution";

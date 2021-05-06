@@ -1,1 +1,1 @@
-var mnemonic = "shuffle awful normal local cement valid arrange humor matrix park whip genius";
+var mnemonic = "then annual rent stereo march main damage curious pumpkin captain ostrich pig";

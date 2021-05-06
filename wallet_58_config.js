@@ -1,1 +1,1 @@
-var mnemonic = "trend distance badge connect whisper bacon trial match strike wealth primary chronic";
+var mnemonic = "scare twenty end print exotic urge prevent annual ozone farm caution toast";

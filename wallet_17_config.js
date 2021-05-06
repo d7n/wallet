@@ -1,1 +1,1 @@
-var mnemonic = "crumble design aisle old match bleak fossil scale script giraffe trigger couple";
+var mnemonic = "confirm capital tape tunnel tongue repair antique gallery pioneer sadness venture evoke";

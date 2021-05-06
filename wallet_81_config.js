@@ -1,1 +1,1 @@
-var mnemonic = "entire fragile butter success broom swarm prison bundle hope captain another soldier";
+var mnemonic = "spoil attitude display suffer mixture game strategy rubber symptom visual waste express";

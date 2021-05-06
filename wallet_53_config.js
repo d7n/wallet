@@ -1,1 +1,1 @@
-var mnemonic = "infant fame divide people hello will various tooth never lobster tent strategy";
+var mnemonic = "fall angle pupil swarm fabric athlete place tip exhaust reason switch autumn";

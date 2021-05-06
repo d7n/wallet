@@ -1,1 +1,1 @@
-var mnemonic = "custom recall able vital uniform clap job strike bamboo negative winner attack";
+var mnemonic = "tray wealth release boy voice text utility square expect tragic keen edit";

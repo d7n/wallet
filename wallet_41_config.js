@@ -1,1 +1,1 @@
-var mnemonic = "estate when drop pact stable insane three nation velvet private jar obvious";
+var mnemonic = "thumb cheese pumpkin brave pig catalog snake tragic party follow supreme potato";

@@ -1,1 +1,1 @@
-var mnemonic = "gauge math moon orange inquiry middle fatigue tiger card cheese daring method";
+var mnemonic = "soup switch unlock ivory alien raven dragon walnut used worth amazing comic";

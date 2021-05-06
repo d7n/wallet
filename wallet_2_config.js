@@ -1,1 +1,1 @@
-var mnemonic = "royal equip drink knock clinic charge coffee nominee moral pool ivory foam";
+var mnemonic = "blood depart shine card resemble truly fluid maze version credit that ancient";

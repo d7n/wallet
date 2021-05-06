@@ -1,1 +1,1 @@
-var mnemonic = "burden street grocery flight box clerk refuse service better hurry butter angry";
+var mnemonic = "deny doll radar confirm motor minute urban mistake endless spring reduce stove";

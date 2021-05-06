@@ -1,1 +1,1 @@
-var mnemonic = "fold afford kite heart trial tobacco maximum wife off shock october moon";
+var mnemonic = "orient table slam essay barrel floor vault inside rate upgrade weapon black";

@@ -1,1 +1,1 @@
-var mnemonic = "give raven skirt sibling robot fee sun ethics stereo people jacket verb";
+var mnemonic = "sustain lounge dial edit venue rifle tonight gesture vocal action rug blind";

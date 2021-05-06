@@ -1,1 +1,1 @@
-var mnemonic = "route reform scene good sheriff bracket digital tooth charge beef various casual";
+var mnemonic = "acquire express ladder wall seminar capital bulb situate alley vendor style game";

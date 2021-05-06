@@ -1,1 +1,1 @@
-var mnemonic = "habit evolve select rotate man wire resist camera concert gallery inch size";
+var mnemonic = "behind trust come correct inside elegant horn chaos weird word drastic night";

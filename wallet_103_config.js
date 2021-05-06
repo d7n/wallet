@@ -1,1 +1,1 @@
-var mnemonic = "feed gorilla air alcohol health van grass main logic feel dress vapor";
+var mnemonic = "toast example dream garment pause famous tooth much zero judge lock caution";

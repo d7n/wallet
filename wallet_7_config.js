@@ -1,1 +1,1 @@
-var mnemonic = "primary unable end jazz license kitten crop collect energy climb unit cannon";
+var mnemonic = "prison dirt volume warrior talent elbow lens pipe crew worry october cool";

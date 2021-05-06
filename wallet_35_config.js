@@ -1,1 +1,1 @@
-var mnemonic = "person robot music deer easily license angle orchard employ stem assume jeans";
+var mnemonic = "wedding bicycle chaos swap lounge core shuffle capital castle cradle good patient";

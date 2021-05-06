@@ -1,1 +1,1 @@
-var mnemonic = "reflect memory term language hurt cliff distance alley office clerk siren reform";
+var mnemonic = "puzzle forest shrug hood mosquito theory bunker wink bacon divorce input rude";

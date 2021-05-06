@@ -1,1 +1,1 @@
-var mnemonic = "ketchup resource decade exotic trumpet price dose ice monitor bullet secret rack";
+var mnemonic = "affair orchard runway alter grace voice flip wheat club hunt behave face";

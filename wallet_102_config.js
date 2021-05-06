@@ -1,1 +1,1 @@
-var mnemonic = "forward fever title embody husband thought argue busy issue spoil debate right";
+var mnemonic = "knife apple skin odor panic jealous good satoshi exhaust bean escape vault";

@@ -1,1 +1,1 @@
-var mnemonic = "alley foster culture orange rare powder reopen athlete keen wide little method";
+var mnemonic = "jar dial worth country raven clown hurry fade high enough work pear";

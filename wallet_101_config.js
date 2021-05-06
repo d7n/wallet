@@ -1,1 +1,1 @@
-var mnemonic = "drive give indicate reunion attitude tackle else burger skirt century rude example";
+var mnemonic = "defense vague pistol door false magnet congress boring banner wine canoe piano";

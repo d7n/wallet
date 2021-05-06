@@ -1,1 +1,1 @@
-var mnemonic = "mean gym apple cake agree define ginger robust device horn ability cherry";
+var mnemonic = "canoe panic deliver clutch dutch setup fish save inhale basic flush ugly";

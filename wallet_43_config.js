@@ -1,1 +1,1 @@
-var mnemonic = "floor border bomb frog stomach strong okay stool thrive lazy cruel able";
+var mnemonic = "you load team surge love vault lunch either notable walk reject fit";

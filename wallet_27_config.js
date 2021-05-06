@@ -1,1 +1,1 @@
-var mnemonic = "bring ketchup unveil congress high company exhaust save degree guess blast gate";
+var mnemonic = "ability inch cruise spawn accuse phrase donkey globe crop step gift group";

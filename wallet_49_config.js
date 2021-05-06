@@ -1,1 +1,1 @@
-var mnemonic = "indoor cycle awkward title office legal bacon manage grace exist author share";
+var mnemonic = "violin coast rude luxury ancient pony cinnamon region salt sunset sword used";

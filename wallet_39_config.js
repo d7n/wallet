@@ -1,1 +1,1 @@
-var mnemonic = "candy sea smooth vicious slam improve negative bean dragon cost shield turn";
+var mnemonic = "spirit grief enjoy dragon alert plastic refuse impose flame useless trophy broom";

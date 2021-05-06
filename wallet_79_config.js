@@ -1,1 +1,1 @@
-var mnemonic = "february glide number dish swap raw glad wink plate harvest merge chair";
+var mnemonic = "lottery rapid news shoulder exotic elevator waste fashion exist kidney valid worry";

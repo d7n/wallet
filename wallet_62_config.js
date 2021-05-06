@@ -1,1 +1,1 @@
-var mnemonic = "odor peanut fuel craft myself cave jewel broccoli toilet dish lunar legal";
+var mnemonic = "head they convince vendor hover idle vacant object process among polar piano";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge ecology borrow tree wall include note slush cook keep decorate define";
+var mnemonic = "cute scrub snake record raise retire bring swamp merry shift office giraffe";

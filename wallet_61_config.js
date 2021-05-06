@@ -1,1 +1,1 @@
-var mnemonic = "tray air funny boss survey senior ignore engine then crew catch task";
+var mnemonic = "dust mechanic rice feed flower media surprise roast dash alone donkey device";

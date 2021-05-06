@@ -1,1 +1,1 @@
-var mnemonic = "daughter shoe drip child host ill anger wheel dinner bamboo junior never";
+var mnemonic = "flavor arrest assault today royal solid tackle flat identify cricket when material";

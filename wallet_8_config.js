@@ -1,1 +1,1 @@
-var mnemonic = "interest figure remove buyer camera stay crew scrap castle leopard wolf relief";
+var mnemonic = "clutch item option hungry then stay sound nice build muffin please bulb";

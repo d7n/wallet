@@ -1,1 +1,1 @@
-var mnemonic = "veteran fish industry brain angry novel strong siege churn lock wife below";
+var mnemonic = "biology resemble exchange heart ghost acoustic thought rely degree change upon glory";

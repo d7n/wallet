@@ -1,1 +1,1 @@
-var mnemonic = "mimic velvet unfair banana explain tool fold truth guitar point drink marine";
+var mnemonic = "main erode any fiscal shallow kitten reflect hint spin city word tissue";

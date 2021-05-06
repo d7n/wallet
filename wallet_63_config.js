@@ -1,1 +1,1 @@
-var mnemonic = "mirror mask chief problem puppy drill absurd sure fire pact mail hurry";
+var mnemonic = "knee trick this wall claw mystery century void traffic duck nuclear pole";

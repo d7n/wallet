@@ -1,1 +1,1 @@
-var mnemonic = "hamster among similar barely dizzy stable clock victory crazy era spike catalog";
+var mnemonic = "empower rigid emerge ten say forum pond wreck rely blanket shed destroy";

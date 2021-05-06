@@ -1,1 +1,1 @@
-var mnemonic = "record million flat cross tackle ostrich usual capital ship hamster merge three";
+var mnemonic = "horn join tornado clap shaft quantum assist heavy wasp soda click payment";

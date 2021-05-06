@@ -1,1 +1,1 @@
-var mnemonic = "joke apple welcome attack blouse punch sweet chief fiction there rack ghost";
+var mnemonic = "jacket dose radar south notable message tenant undo alone liberty vote angle";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant text demise leopard loud party legal wet same direct race duck";
+var mnemonic = "satisfy settle vendor wing vacant rookie angle upon they honey wasp flat";

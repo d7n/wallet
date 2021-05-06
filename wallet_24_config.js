@@ -1,1 +1,1 @@
-var mnemonic = "sausage stable armed cable regret shrug render rice wagon echo indicate author";
+var mnemonic = "treat nurse gate donor lady strategy sand relief letter general bean auto";

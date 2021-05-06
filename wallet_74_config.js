@@ -1,1 +1,1 @@
-var mnemonic = "body burger dance second toast lab arena gravity stool smooth tuition antenna";
+var mnemonic = "seek kitchen quarter raise win bind phone abstract object dust share ticket";

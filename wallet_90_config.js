@@ -1,1 +1,1 @@
-var mnemonic = "trend hospital vocal poet valid pulse brick purchase group act rich dress";
+var mnemonic = "potato have bubble obscure hurdle possible grain culture door pelican trash face";
