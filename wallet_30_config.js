@@ -1,1 +1,1 @@
-var mnemonic = "segment envelope inner robust current census empower south logic long race carbon";
+var mnemonic = "stable next vessel auction advice sight shoulder flash equip code basket all";

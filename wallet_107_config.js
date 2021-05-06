@@ -1,1 +1,1 @@
-var mnemonic = "little into build just lumber valley front summer grain admit mistake skirt";
+var mnemonic = "soon wait gift bean trick print wreck magic produce reform interest inside";

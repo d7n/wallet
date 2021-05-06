@@ -1,1 +1,1 @@
-var mnemonic = "pyramid soft ridge critic always panther boat room truck nothing renew flip";
+var mnemonic = "fee beef dragon mother this wet broom dragon minute real ignore emerge";

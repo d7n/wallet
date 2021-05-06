@@ -1,1 +1,1 @@
-var mnemonic = "spend bonus chaos student usual resemble traffic noodle over return step trick";
+var mnemonic = "immune impulse tomorrow sing tent account place decline length solar stem cross";

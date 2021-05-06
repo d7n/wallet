@@ -1,1 +1,1 @@
-var mnemonic = "talk element alter belt page grief curtain catch board board pet point";
+var mnemonic = "you local need report clarify fatal pluck glass gate day brave cool";

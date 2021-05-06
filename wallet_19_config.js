@@ -1,1 +1,1 @@
-var mnemonic = "tag select antique palace little lock model artefact local card used bike";
+var mnemonic = "dish topple borrow hedgehog effort sound hover swap month oven viable basic";

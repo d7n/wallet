@@ -1,1 +1,1 @@
-var mnemonic = "amazing accuse reflect vivid subway helmet credit account forum boil hundred toy";
+var mnemonic = "stereo emotion also digital canal curious soccer stomach verb bulk mandate belt";

@@ -1,1 +1,1 @@
-var mnemonic = "empower tribe pretty autumn panic truth capable delay tent blade ginger sketch";
+var mnemonic = "vivid stand state bid tortoise slim patrol say tone tone survey music";

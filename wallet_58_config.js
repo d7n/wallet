@@ -1,1 +1,1 @@
-var mnemonic = "churn vivid action harvest ketchup nice net bunker citizen essay mistake strategy";
+var mnemonic = "truck sausage galaxy hurt umbrella advice ostrich chief fee sample pyramid scale";

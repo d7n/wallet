@@ -1,1 +1,1 @@
-var mnemonic = "attract orange alley oyster inhale inhale clean tissue shadow rude knife another";
+var mnemonic = "ticket popular month thank confirm fossil title happy perfect exact snow biology";

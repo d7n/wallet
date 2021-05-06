@@ -1,1 +1,1 @@
-var mnemonic = "prison sign visit anger minimum bring junior bunker peanut problem exotic body";
+var mnemonic = "siege clinic clinic afford staff super master report head chimney yellow auction";

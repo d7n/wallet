@@ -1,1 +1,1 @@
-var mnemonic = "reject foot brown correct welcome brief blossom cactus obscure endorse current gasp";
+var mnemonic = "inner marriage very candy calm bamboo casino real file minute cricket patrol";

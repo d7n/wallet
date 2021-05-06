@@ -1,1 +1,1 @@
-var mnemonic = "spend scheme reform whip roof swallow crush garage sad mixed diet giant";
+var mnemonic = "fantasy curious source edge infant network sudden goddess sausage debris camp wish";

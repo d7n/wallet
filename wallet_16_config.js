@@ -1,1 +1,1 @@
-var mnemonic = "team winter soldier cause trend parade credit mixture history vapor island salute";
+var mnemonic = "agent same silk tourist forest blood innocent inner chronic street exotic nature";

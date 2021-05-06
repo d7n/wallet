@@ -1,1 +1,1 @@
-var mnemonic = "shift afford tobacco lizard salmon gap spare giant exist rigid artist swing";
+var mnemonic = "fox result erode force boat grid language penalty oppose upper learn bike";

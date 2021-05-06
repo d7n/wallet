@@ -1,1 +1,1 @@
-var mnemonic = "potato glass furnace husband foster media drill stumble always point also orbit";
+var mnemonic = "flag quantum fortune record sheriff surround crash dream sick crisp bicycle bounce";

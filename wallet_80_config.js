@@ -1,1 +1,1 @@
-var mnemonic = "change bless cancel hurry now cage fiction surge crop salon sample nasty";
+var mnemonic = "display unfair estate abstract weapon knee off gift mimic announce arrive body";

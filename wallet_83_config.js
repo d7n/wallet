@@ -1,1 +1,1 @@
-var mnemonic = "casino today amazing galaxy ring bulk employ picnic space find pact lecture";
+var mnemonic = "globe oxygen wheel van midnight honey cake fish oven select tonight trial";

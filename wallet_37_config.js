@@ -1,1 +1,1 @@
-var mnemonic = "truly derive cereal tent mutual ensure squirrel boat husband sport cool friend";
+var mnemonic = "play prosper vehicle mean flock next flee still just dose dwarf shrimp";

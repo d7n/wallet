@@ -1,1 +1,1 @@
-var mnemonic = "hand rebuild friend travel syrup world clay style hamster faith top mad";
+var mnemonic = "inner good vivid define sure major tonight honey sauce cover rally educate";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard just surface silent abuse open lecture clinic amateur east people bid";
+var mnemonic = "spy wash festival pave fossil prize hawk when breeze lawn version federal";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling else lab great satoshi vital lunch manage person creek coffee bleak";
+var mnemonic = "weekend wink depth drastic car believe topic razor grape call lunch kick";

@@ -1,1 +1,1 @@
-var mnemonic = "divorce labor cushion consider floor stuff silver lake scatter program join alone";
+var mnemonic = "reason pact kingdom stairs flee current reject trumpet loan pizza mimic frame";

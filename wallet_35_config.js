@@ -1,1 +1,1 @@
-var mnemonic = "task mixed erosion book advance vintage obscure glue sustain say invest flee";
+var mnemonic = "shine unaware rose equal filter educate mass broken ceiling fog veteran tuition";

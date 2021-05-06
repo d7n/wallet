@@ -1,1 +1,1 @@
-var mnemonic = "holiday coil install road airport weasel detail have twist liberty unique claim";
+var mnemonic = "ankle ability vast region acid win patrol next right smooth finger industry";

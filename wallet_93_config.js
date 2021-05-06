@@ -1,1 +1,1 @@
-var mnemonic = "silly cat smoke trumpet upper public torch boat patch worth bulk joy";
+var mnemonic = "latin someone fault soap lunch airport island setup wagon tenant ahead call";

@@ -1,1 +1,1 @@
-var mnemonic = "such short vapor teach permit wild ignore ticket cruise cricket prison any";
+var mnemonic = "hurdle dirt eye rare often invest over crowd asset link ketchup spread";

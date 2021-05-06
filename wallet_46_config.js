@@ -1,1 +1,1 @@
-var mnemonic = "hood toddler lamp drama cradle ivory rookie panther van hollow run edit";
+var mnemonic = "nation bid evolve embody book sadness outer torch dutch fee spare ozone";

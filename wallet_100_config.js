@@ -1,1 +1,1 @@
-var mnemonic = "warrior heavy census film always brave girl wave fatigue lottery easy cherry";
+var mnemonic = "wisdom defy false reject crack decade excuse sort twice water crop wrap";

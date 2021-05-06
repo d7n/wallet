@@ -1,1 +1,1 @@
-var mnemonic = "young immense matter blur village shell steak jacket movie ribbon sister nominee";
+var mnemonic = "mule arm evoke drum april chicken member airport marriage jacket meat witness";

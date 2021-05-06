@@ -1,1 +1,1 @@
-var mnemonic = "possible right exclude tomato tribe you emerge during area taste income walnut";
+var mnemonic = "body olympic rapid crouch speed catch velvet gravity whisper gasp cannon worth";

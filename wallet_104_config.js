@@ -1,1 +1,1 @@
-var mnemonic = "artist loan seed always dwarf left lonely sadness appear foot peanut rent";
+var mnemonic = "guilt bacon mandate nothing stuff burden wise reward issue invite dismiss suffer";

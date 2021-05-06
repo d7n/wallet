@@ -1,1 +1,1 @@
-var mnemonic = "swear anchor soldier start monkey cancel loud term away project page alcohol";
+var mnemonic = "distance grit aspect panther try review either urban margin accident addict renew";

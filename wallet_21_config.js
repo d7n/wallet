@@ -1,1 +1,1 @@
-var mnemonic = "become weapon faculty cover table already smooth rough dawn rebel poverty pluck";
+var mnemonic = "script verb fruit wild sweet pretty bamboo edit salad frequent flash cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "worry damp famous run purse fetch can summer strategy voyage eye source";
+var mnemonic = "embark wing observe better walnut arm risk feed cart force attitude congress";

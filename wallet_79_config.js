@@ -1,1 +1,1 @@
-var mnemonic = "chapter upgrade upon security airport comic cash detect cube away profit meadow";
+var mnemonic = "embrace author risk settle pupil couple tag require physical across dizzy salon";

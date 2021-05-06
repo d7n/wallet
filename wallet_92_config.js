@@ -1,1 +1,1 @@
-var mnemonic = "master cricket hawk friend sausage riot time fan route wish conduct mule";
+var mnemonic = "fog source rather fine judge destroy fluid rare balance update off upper";

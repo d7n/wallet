@@ -1,1 +1,1 @@
-var mnemonic = "vendor pair vocal egg bridge blind slow rough lawsuit seed aerobic error";
+var mnemonic = "cost debris talent hero side torch tragic science wet marriage border pet";

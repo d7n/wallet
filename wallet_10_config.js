@@ -1,1 +1,1 @@
-var mnemonic = "bicycle humor brand regret culture tourist speed broom night north legend split";
+var mnemonic = "lawn spice improve length pet proof spoon vital pumpkin horror cheap detect";

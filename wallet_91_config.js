@@ -1,1 +1,1 @@
-var mnemonic = "dad minimum craft apart ghost ghost silly wash blur auction nurse miss";
+var mnemonic = "leisure seminar truck deputy ocean stick plunge rhythm inflict bronze bird mobile";

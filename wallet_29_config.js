@@ -1,1 +1,1 @@
-var mnemonic = "butter confirm major smile future rapid debate work talk hotel blame bike";
+var mnemonic = "fortune mail clap speed tomato moon eye husband they supreme congress team";

@@ -1,1 +1,1 @@
-var mnemonic = "inner choose spirit expand bulk erase athlete thought vanish crazy multiply round";
+var mnemonic = "scene home rate town copper brass fade clap address select unfair rural";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn subject awesome divert fiber gauge crawl tower drive peanut bicycle scissors";
+var mnemonic = "bundle resist include slot curious rural next farm plastic insane auto toe";

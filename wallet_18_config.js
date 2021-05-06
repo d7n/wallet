@@ -1,1 +1,1 @@
-var mnemonic = "soap draft file pizza tomorrow fluid such fortune amazing common cost omit";
+var mnemonic = "tray abuse draft attack point kiss magic route culture slight chuckle divorce";

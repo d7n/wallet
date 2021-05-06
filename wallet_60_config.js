@@ -1,1 +1,1 @@
-var mnemonic = "behind extend cattle box image area room denial job find roast phone";
+var mnemonic = "vague april sniff ridge mad mechanic unique chicken life wait window music";

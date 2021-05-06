@@ -1,1 +1,1 @@
-var mnemonic = "describe scrap orbit emerge wagon express grass ghost nest betray target valley";
+var mnemonic = "employ swift depend maid view deer valid engage owner absent unusual success";

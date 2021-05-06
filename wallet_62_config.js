@@ -1,1 +1,1 @@
-var mnemonic = "meat feel fault hill chief rely leader caution jump captain debris middle";
+var mnemonic = "target involve frown shy gorilla knock series novel safe govern town destroy";

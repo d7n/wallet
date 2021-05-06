@@ -1,1 +1,1 @@
-var mnemonic = "snack dove source budget muffin circle salon check prevent employ goose team";
+var mnemonic = "copper member park cannon rather any envelope poet duty frame border stone";

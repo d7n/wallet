@@ -1,1 +1,1 @@
-var mnemonic = "evil wet believe bean logic brown riot furnace pigeon replace island skull";
+var mnemonic = "genre ripple correct right image chef oblige circle topple neglect clown sting";

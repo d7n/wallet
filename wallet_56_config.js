@@ -1,1 +1,1 @@
-var mnemonic = "dinner blame travel camp rather patrol second fire flee remember melody dismiss";
+var mnemonic = "leg address obscure swamp welcome quantum dwarf symbol bless ancient response remove";

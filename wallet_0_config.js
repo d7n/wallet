@@ -1,1 +1,1 @@
-var mnemonic = "off lonely obey shop december glove inform sausage genre choose damage gesture";
+var mnemonic = "fitness once admit pass crumble horror tray fabric category position collect swift";

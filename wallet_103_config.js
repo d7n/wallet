@@ -1,1 +1,1 @@
-var mnemonic = "park seminar giant minute chicken rather mail deputy power color soft interest";
+var mnemonic = "script gate muffin update over bitter express adult fault gain rough seven";

@@ -1,1 +1,1 @@
-var mnemonic = "game predict acoustic pond away bullet mango label filter candy faith topple";
+var mnemonic = "prison age woman distance disagree exact unable else buzz soft piano uniform";

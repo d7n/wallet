@@ -1,1 +1,1 @@
-var mnemonic = "gate throw badge sadness stone scrap remove magic share draft donate rally";
+var mnemonic = "imitate crucial host crunch reward glad dog long cloth velvet dry maximum";

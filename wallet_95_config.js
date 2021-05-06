@@ -1,1 +1,1 @@
-var mnemonic = "offer nut inmate motor wrist spy knee usage find say bone grass";
+var mnemonic = "during gaze lend ahead tooth unlock whale aisle roof bar letter stone";

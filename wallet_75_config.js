@@ -1,1 +1,1 @@
-var mnemonic = "tray diamond future live scrub doll lumber runway bulb rough lock come";
+var mnemonic = "spoon desert breeze skill dirt wheat yellow certain shuffle vault liberty reveal";

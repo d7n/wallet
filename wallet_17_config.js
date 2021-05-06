@@ -1,1 +1,1 @@
-var mnemonic = "coffee exercise hammer stand jeans replace liar exhaust loud tiger head pond";
+var mnemonic = "add inquiry give address special unaware reunion chair trim shy fly wave";

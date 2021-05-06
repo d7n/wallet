@@ -1,1 +1,1 @@
-var mnemonic = "opera street rule earth bunker nasty clap emotion winter power virus custom";
+var mnemonic = "hazard swim peasant solar rail neck tip holiday apology scan betray room";

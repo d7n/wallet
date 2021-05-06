@@ -1,1 +1,1 @@
-var mnemonic = "clerk forum razor dance armor improve hedgehog little board shuffle host depth";
+var mnemonic = "energy join crazy warm degree inhale angle dragon helmet brief diagram misery";

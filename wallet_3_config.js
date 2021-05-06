@@ -1,1 +1,1 @@
-var mnemonic = "key crater term stamp flavor way canvas gravity brush alpha fabric jazz";
+var mnemonic = "today assist enjoy cook zoo sustain mammal length theme window expire original";

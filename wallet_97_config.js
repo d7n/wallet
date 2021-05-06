@@ -1,1 +1,1 @@
-var mnemonic = "rhythm super parent family tomorrow rebuild inner enter modify pride guitar heart";
+var mnemonic = "silver coffee energy limit climb forget home maze stock gun food pool";

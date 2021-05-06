@@ -1,1 +1,1 @@
-var mnemonic = "much accident shrug garbage correct long milk find rifle grain toss diagram";
+var mnemonic = "educate truck future affair together gospel moon holiday rocket dutch enable thought";

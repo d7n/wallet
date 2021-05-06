@@ -1,1 +1,1 @@
-var mnemonic = "giraffe pet opera dish canvas ticket purchase bus swear airport bamboo junk";
+var mnemonic = "provide panda dizzy radar celery cactus fancy anger foster monkey island orphan";

@@ -1,1 +1,1 @@
-var mnemonic = "repair theory roof rocket yard pond jeans arctic deer famous conduct cup";
+var mnemonic = "attitude little among shadow bless trend angle glide example long mother empty";

@@ -1,1 +1,1 @@
-var mnemonic = "giraffe suspect picture spray fitness dutch face enroll panic polar way either";
+var mnemonic = "eyebrow power wisdom suggest echo napkin anchor solar ten number ask engage";

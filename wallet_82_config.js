@@ -1,1 +1,1 @@
-var mnemonic = "trim brush capital sponsor else farm simple bitter theory voyage tiny cluster";
+var mnemonic = "fan wheat maid blanket lobster history luxury crucial inquiry buffalo shallow elephant";

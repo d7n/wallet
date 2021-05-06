@@ -1,1 +1,1 @@
-var mnemonic = "vast wink lazy purse dove abuse strong wash school treat depart slab";
+var mnemonic = "bring verb cheese crash boring clock stay chief decline diagram huge melt";

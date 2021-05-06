@@ -1,1 +1,1 @@
-var mnemonic = "pink vocal pave pledge couple build ticket bonus direct coil earn movie";
+var mnemonic = "example limb cradle resource noise vehicle fossil seed icon twenty lesson blanket";

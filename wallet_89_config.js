@@ -1,1 +1,1 @@
-var mnemonic = "arena day display divide will praise violin tonight cloud sweet rather behind";
+var mnemonic = "gather raven actual wall stamp tail divorce video youth once what sun";

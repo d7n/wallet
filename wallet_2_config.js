@@ -1,1 +1,1 @@
-var mnemonic = "melody laptop name protect blush medal shiver nut dilemma exhibit true clip";
+var mnemonic = "inform awkward ski cabin oval cover agree box owner service orchard embrace";

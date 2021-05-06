@@ -1,1 +1,1 @@
-var mnemonic = "pupil regret evidence orchard gown syrup kit base educate cigar pizza swap";
+var mnemonic = "sauce embark conduct acoustic grain supply law flip level crew eagle satoshi";

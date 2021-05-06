@@ -1,1 +1,1 @@
-var mnemonic = "select brush harvest journey present dad road involve swim spoil direct act";
+var mnemonic = "foam page resource tent flip cup begin poem caught fiber lab lobster";

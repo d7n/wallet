@@ -1,1 +1,1 @@
-var mnemonic = "utility physical above behave blossom jacket fluid gap small trick witness goose";
+var mnemonic = "label blade modify clarify outside orbit rice client soup chalk bottom garbage";

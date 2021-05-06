@@ -1,1 +1,1 @@
-var mnemonic = "bicycle snow spoil meat ivory zero toss thrive clinic chicken invest sting";
+var mnemonic = "lyrics city female bridge boost parrot bicycle ostrich stay envelope erupt rice";

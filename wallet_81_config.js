@@ -1,1 +1,1 @@
-var mnemonic = "flag plastic milk napkin awesome keen razor december blast region transfer gaze";
+var mnemonic = "century various snow rail ticket damage differ science lesson when cage sunny";

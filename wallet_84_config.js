@@ -1,1 +1,1 @@
-var mnemonic = "series place occur vault flight magic cheese sphere sound loop ride wool";
+var mnemonic = "tuna receive crouch chef vault hollow ozone wage book question giggle sand";

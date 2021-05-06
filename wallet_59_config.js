@@ -1,1 +1,1 @@
-var mnemonic = "boat anger caution two race clerk popular citizen forward sea also riot";
+var mnemonic = "slab ceiling attract elder noise jazz boring observe endless matrix crumble carry";

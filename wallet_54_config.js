@@ -1,1 +1,1 @@
-var mnemonic = "action shove neither range million arrow soon urban hair valid utility drop";
+var mnemonic = "leopard high garlic lunch sell forest lesson stay silver stomach atom acquire";

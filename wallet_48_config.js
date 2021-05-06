@@ -1,1 +1,1 @@
-var mnemonic = "shield reform suggest use bind regret guitar gloom wood clutch cabin torch";
+var mnemonic = "culture elite athlete nice harsh subject bomb scissors license wood hen practice";

@@ -1,1 +1,1 @@
-var mnemonic = "album luxury execute strike embrace north ankle excess knife until digital candy";
+var mnemonic = "crouch box issue property owner father chest shop guess educate nominee tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "feed put celery cloth protect cream brief perfect pumpkin spare depend begin";
+var mnemonic = "struggle donor kidney brain cat unfold bean trash truth divert fuel mass";

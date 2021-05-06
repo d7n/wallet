@@ -1,1 +1,1 @@
-var mnemonic = "type stand expand chimney twin auction hedgehog trigger robust bar swear element";
+var mnemonic = "version scan soap enrich office people prize toward rent video van found";

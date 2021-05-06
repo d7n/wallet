@@ -1,1 +1,1 @@
-var mnemonic = "giraffe time visit jaguar stay okay kind emerge grief clump olive broken";
+var mnemonic = "shiver suggest pond travel donor box oak news calm soda certain keen";

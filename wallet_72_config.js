@@ -1,1 +1,1 @@
-var mnemonic = "rotate garden viable weapon orange review endless deny aerobic middle dentist mouse";
+var mnemonic = "radio churn screen bachelor apart test kitchen alter upon camera timber scout";
