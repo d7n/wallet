@@ -1,1 +1,1 @@
-var mnemonic = "slush mercy episode rally shop winner wire flip shadow melt hundred horse";
+var mnemonic = "drama innocent around toast exist boy glide text tooth glare property swap";

@@ -1,1 +1,1 @@
-var mnemonic = "project monkey possible mystery render buffalo myth elder depart remind license term";
+var mnemonic = "jungle nothing angry ridge crawl useful fine crouch remind rhythm pudding link";

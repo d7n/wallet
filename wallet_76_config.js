@@ -1,1 +1,1 @@
-var mnemonic = "render palm fix grant swamp help manage inject august shed noble journey";
+var mnemonic = "detect maximum wing tumble antique pattern vote arena exhaust file local walnut";

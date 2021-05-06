@@ -1,1 +1,1 @@
-var mnemonic = "pelican blouse major pencil unfold burst merry govern demise artwork debris spy";
+var mnemonic = "culture elevator escape someone race crush web core miracle shell razor found";

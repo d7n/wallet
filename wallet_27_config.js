@@ -1,1 +1,1 @@
-var mnemonic = "enjoy wedding aunt attract van cook kitten final shuffle scout step session";
+var mnemonic = "fork risk final dirt idle phone response finish rare chuckle grass naive";

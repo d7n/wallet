@@ -1,1 +1,1 @@
-var mnemonic = "employ improve winner metal lazy type prosper beauty direct reform favorite scare";
+var mnemonic = "since distance angle blast express riot tent intact churn obey snow tomorrow";

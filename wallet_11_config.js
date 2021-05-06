@@ -1,1 +1,1 @@
-var mnemonic = "game call force mystery snack faith suspect fiber miracle will earn leisure";
+var mnemonic = "multiply skull gauge envelope inquiry alcohol hungry text decade soda very drill";

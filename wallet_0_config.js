@@ -1,1 +1,1 @@
-var mnemonic = "engage receive segment describe pluck brave aspect enrich faculty drift control ecology";
+var mnemonic = "slush begin weird true letter judge mandate situate fan person fit present";

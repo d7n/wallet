@@ -1,1 +1,1 @@
-var mnemonic = "hub bus market kidney topple vague hat situate blue athlete crime kingdom";
+var mnemonic = "crane history true crane because arch fluid unfair view kite dentist oven";

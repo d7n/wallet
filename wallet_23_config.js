@@ -1,1 +1,1 @@
-var mnemonic = "smoke scatter dog mass bulk pyramid blood hair improve canyon prison loop";
+var mnemonic = "sing off tribe price flee rescue apple fiber stove camera left cream";

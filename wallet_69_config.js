@@ -1,1 +1,1 @@
-var mnemonic = "sausage jelly tuition addict certain oak student give rebuild alien end foil";
+var mnemonic = "boost silly unknown typical mountain endless angle tragic stock essence bean destroy";

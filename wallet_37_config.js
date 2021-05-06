@@ -1,1 +1,1 @@
-var mnemonic = "three addict outside leaf mad canvas dilemma rabbit soul exotic rabbit include";
+var mnemonic = "page rescue ordinary photo orbit pretty put album high action next tip";

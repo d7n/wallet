@@ -1,1 +1,1 @@
-var mnemonic = "key wrist air indicate upper scale strategy useless ship document click cabin";
+var mnemonic = "tumble always novel repair sting chaos lumber hope goose wrist shadow ugly";

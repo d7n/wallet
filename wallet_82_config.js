@@ -1,1 +1,1 @@
-var mnemonic = "lunch mass junk coast feel medal wash day can odor pyramid inflict";
+var mnemonic = "bargain student notable embrace prepare vital hunt wing ticket often source genre";

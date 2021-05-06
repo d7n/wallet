@@ -1,1 +1,1 @@
-var mnemonic = "liquid room afford false banana rifle march scatter this harsh alley copper";
+var mnemonic = "aspect globe mercy horror noise garden ability repair tonight recall hood recipe";

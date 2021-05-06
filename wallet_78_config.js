@@ -1,1 +1,1 @@
-var mnemonic = "raise lunch dog spice gauge loan hill burst evolve maple chase office";
+var mnemonic = "second emotion custom opera mass laundry legend ride beef ripple obscure august";

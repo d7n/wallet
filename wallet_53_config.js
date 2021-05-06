@@ -1,1 +1,1 @@
-var mnemonic = "chase despair kiss raise motion economy acquire kid exhaust egg boss swamp";
+var mnemonic = "stick charge jeans cabbage mule next barrel already outdoor such crowd sound";

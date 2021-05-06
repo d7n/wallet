@@ -1,1 +1,1 @@
-var mnemonic = "also state soup cheese solid damp inhale scrub pass situate social struggle";
+var mnemonic = "intact march mobile join review derive twist ready afraid carbon apart cream";

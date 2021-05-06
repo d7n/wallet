@@ -1,1 +1,1 @@
-var mnemonic = "valley convince capital grocery fold humor regular sunny access secret trophy method";
+var mnemonic = "above panther lens excess ocean smoke useless legend foster order bulk beef";

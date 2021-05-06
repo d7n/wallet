@@ -1,1 +1,1 @@
-var mnemonic = "wait balance basket youth lazy glance able beyond regret test path matter";
+var mnemonic = "music fever churn project mass calm inform oxygen unhappy judge lawn foil";

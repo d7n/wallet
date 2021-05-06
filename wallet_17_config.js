@@ -1,1 +1,1 @@
-var mnemonic = "eight wing maze thought bread carry hand believe enroll rice practice lounge";
+var mnemonic = "proud review cloud tide silk neither tobacco ethics body news month room";

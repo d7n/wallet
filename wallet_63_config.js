@@ -1,1 +1,1 @@
-var mnemonic = "left cliff party cash autumn unknown twin thank glare cancel increase exhaust";
+var mnemonic = "ozone cotton smart usual curtain throw curtain photo okay limb security cannon";

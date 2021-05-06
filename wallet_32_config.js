@@ -1,1 +1,1 @@
-var mnemonic = "alien vibrant follow lonely trick wrong wise soda health stomach fashion describe";
+var mnemonic = "stuff remember pudding lucky hidden staff impact replace turkey pepper joke rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "snow drop radio someone text useless public steak canal bacon two more";
+var mnemonic = "fury tower earn section gesture heart click tube draft abstract rate prize";

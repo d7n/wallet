@@ -1,1 +1,1 @@
-var mnemonic = "turkey drift dynamic inquiry envelope bronze isolate please regret soda exhaust believe";
+var mnemonic = "board frozen act tuition spatial describe moral access tube penalty grace magnet";

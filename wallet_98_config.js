@@ -1,1 +1,1 @@
-var mnemonic = "gadget garlic park leisure spot attract refuse iron journey modify gas must";
+var mnemonic = "dolphin extend federal update second correct tackle furnace code palace smoke roof";

@@ -1,1 +1,1 @@
-var mnemonic = "delay prevent month erode wheat olive garden nose letter patient advice chair";
+var mnemonic = "taxi faculty avoid major blast gloom moral negative legal express first urge";

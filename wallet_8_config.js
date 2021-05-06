@@ -1,1 +1,1 @@
-var mnemonic = "crystal proud gesture method forum round fine senior private immune tragic excess";
+var mnemonic = "merry link bubble predict high royal patrol forest fiction zone plate derive";

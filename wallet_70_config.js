@@ -1,1 +1,1 @@
-var mnemonic = "ozone forget behave trust galaxy shoulder day course mammal cave broccoli monkey";
+var mnemonic = "comfort pride era motor vault suspect travel diary ready west casual wrap";

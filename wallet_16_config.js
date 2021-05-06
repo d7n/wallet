@@ -1,1 +1,1 @@
-var mnemonic = "kite wild catch argue copy chest amateur honey supply knee divide panda";
+var mnemonic = "wave canvas gasp delay boil glow explain twist squirrel person object usual";

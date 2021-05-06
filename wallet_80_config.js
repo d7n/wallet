@@ -1,1 +1,1 @@
-var mnemonic = "sport relief festival ribbon blade kind account tenant grow primary acoustic visit";
+var mnemonic = "life glance space section divorce sibling panel zebra word genius trigger clap";

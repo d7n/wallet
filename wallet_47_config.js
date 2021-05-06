@@ -1,1 +1,1 @@
-var mnemonic = "genuine cool whisper blue warfare auction mirror sunny great pottery either raw";
+var mnemonic = "diagram point century vanish universe pilot march chair smart hope faith denial";

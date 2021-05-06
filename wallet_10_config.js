@@ -1,1 +1,1 @@
-var mnemonic = "yellow junk demand bread silk guard error talk wine muscle track lizard";
+var mnemonic = "armor scissors ritual hire type obscure build sustain squirrel air december rate";

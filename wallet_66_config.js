@@ -1,1 +1,1 @@
-var mnemonic = "brave lounge music acid trap satoshi scout pilot charge parade little sauce";
+var mnemonic = "feed casual visit pottery claim upgrade lazy friend blast uniform govern universe";

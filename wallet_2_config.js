@@ -1,1 +1,1 @@
-var mnemonic = "ask special deposit govern ill receive angle they disorder census joy twist";
+var mnemonic = "topple enemy claim casual supreme garlic fruit young actual blur student castle";

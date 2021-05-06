@@ -1,1 +1,1 @@
-var mnemonic = "nothing observe pretty embody owner symptom cake steel topic silver video emerge";
+var mnemonic = "confirm ecology screen boring genre month bulb earth air vote tunnel cousin";

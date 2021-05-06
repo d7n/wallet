@@ -1,1 +1,1 @@
-var mnemonic = "bind until theme monkey language object parade kingdom harsh quiz fringe faculty";
+var mnemonic = "degree clever deer diet glass roast wet obey happy kiss beach distance";

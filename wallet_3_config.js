@@ -1,1 +1,1 @@
-var mnemonic = "glimpse fine luggage unlock pupil stock basic trust wrap public olympic coffee";
+var mnemonic = "inquiry act copy arrange rely frog snow attack fine meat horror narrow";

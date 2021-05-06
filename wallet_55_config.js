@@ -1,1 +1,1 @@
-var mnemonic = "connect fury job immense crane soft sleep balcony sure upon ticket there";
+var mnemonic = "demise wear attitude arctic skirt sort purchase cargo dad nominee cable silk";

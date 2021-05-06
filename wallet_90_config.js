@@ -1,1 +1,1 @@
-var mnemonic = "churn ice price cotton tuna blossom potato eager jacket lava claim antenna";
+var mnemonic = "pig cheese melody exhaust boil violin cement hub fiber mutual author very";

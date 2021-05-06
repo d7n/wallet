@@ -1,1 +1,1 @@
-var mnemonic = "taxi lucky beyond solve relax argue alter hint night field thunder cheap";
+var mnemonic = "follow trend effort brief salmon crew display slush liar raven share mirror";

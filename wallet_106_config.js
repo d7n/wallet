@@ -1,1 +1,1 @@
-var mnemonic = "hybrid snow slim vapor dinosaur act copy maid garlic lottery gospel slush";
+var mnemonic = "duty panel stadium wool bind little float pizza bottom tank blur force";

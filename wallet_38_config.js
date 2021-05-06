@@ -1,1 +1,1 @@
-var mnemonic = "pause edge guitar punch vapor finger laundry route size walk share ethics";
+var mnemonic = "cigar market agent layer fog sample afford train trend unfold impose dawn";

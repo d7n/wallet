@@ -1,1 +1,1 @@
-var mnemonic = "chest update caution meat company insane awkward warm sport industry edge mountain";
+var mnemonic = "sting exact certain business solar notice clutch patrol destroy sustain drama velvet";

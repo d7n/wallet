@@ -1,1 +1,1 @@
-var mnemonic = "employ floor hope casino snap warfare reveal airport napkin kidney sustain alarm";
+var mnemonic = "melt behave drama bachelor demand veteran expand boost year anger end urban";

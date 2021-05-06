@@ -1,1 +1,1 @@
-var mnemonic = "chapter blast short about coconut volume butter meadow helmet antenna basket type";
+var mnemonic = "team oval machine wagon broccoli parent mirror radar agent then quick hero";

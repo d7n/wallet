@@ -1,1 +1,1 @@
-var mnemonic = "link regret spend busy casual fitness reward ethics click gossip claw giggle";
+var mnemonic = "alter bone force kitchen warrior script remember rate decide anxiety wear energy";

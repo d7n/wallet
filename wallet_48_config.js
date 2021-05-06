@@ -1,1 +1,1 @@
-var mnemonic = "vibrant scissors circle harsh drill relief hope prevent lyrics pause company utility";
+var mnemonic = "more hunt simple joke wonder hen wife indoor silly vivid solution just";

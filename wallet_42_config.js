@@ -1,1 +1,1 @@
-var mnemonic = "deer lawsuit scare hello head east just fog combine nurse office caught";
+var mnemonic = "into problem clarify brain fun oak ordinary action earn galaxy shed street";

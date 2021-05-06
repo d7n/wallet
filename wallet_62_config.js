@@ -1,1 +1,1 @@
-var mnemonic = "dance derive term era screen van destroy guess raven trial half summer";
+var mnemonic = "guitar shoulder diesel divert grant enemy left vote legend romance liar strike";

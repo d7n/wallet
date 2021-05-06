@@ -1,1 +1,1 @@
-var mnemonic = "breeze cupboard skull idea key axis shoulder direct dumb wisdom flat addict";
+var mnemonic = "rhythm spoil excess tackle disease captain bottom because business frequent coast custom";

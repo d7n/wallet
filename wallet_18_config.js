@@ -1,1 +1,1 @@
-var mnemonic = "pistol alter faith goat field gasp uncle mountain nominee lend control digital";
+var mnemonic = "absurd lift harbor basic across busy warrior crumble side laugh gather cause";

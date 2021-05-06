@@ -1,1 +1,1 @@
-var mnemonic = "luggage traffic ivory alien pause attitude siren clog nothing isolate empower sword";
+var mnemonic = "enforce purity bird potato online mule addict night popular annual salt home";

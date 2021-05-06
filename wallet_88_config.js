@@ -1,1 +1,1 @@
-var mnemonic = "mystery put stuff faint wine half eagle wash floor abandon clarify quit";
+var mnemonic = "violin peasant arm nut clog slice ethics pitch permit south field exit";

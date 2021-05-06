@@ -1,1 +1,1 @@
-var mnemonic = "confirm table alert divorce modify weather satoshi mansion expect route volcano confirm";
+var mnemonic = "miss identify bonus drama forest social bounce fit soul great spider still";

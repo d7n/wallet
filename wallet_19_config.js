@@ -1,1 +1,1 @@
-var mnemonic = "clean hold shed party august truly banner post carpet dutch noodle gravity";
+var mnemonic = "equal club nasty breeze arrive wisdom cricket lyrics plug ski toast suffer";

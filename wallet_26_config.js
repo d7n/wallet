@@ -1,1 +1,1 @@
-var mnemonic = "shrug zone lemon ladder picnic drill affair expire face rifle anger budget";
+var mnemonic = "roast host age congress orbit lake crash anchor month course sudden crowd";

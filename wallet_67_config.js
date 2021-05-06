@@ -1,1 +1,1 @@
-var mnemonic = "alter income nephew fortune excite history analyst put globe recall weird scale";
+var mnemonic = "update arrive blanket biology base glass much brick satisfy start evidence sight";

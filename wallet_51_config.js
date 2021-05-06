@@ -1,1 +1,1 @@
-var mnemonic = "ecology target jungle mimic canyon empower liberty motion chair plunge token much";
+var mnemonic = "trend shoot speak insane reunion mad hair coast exist merge toe similar";

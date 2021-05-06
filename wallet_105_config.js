@@ -1,1 +1,1 @@
-var mnemonic = "real grape general lizard hub salon supply cause double middle submit illegal";
+var mnemonic = "knee nephew make ordinary inch melody question height arm cry weapon spatial";

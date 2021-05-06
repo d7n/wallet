@@ -1,1 +1,1 @@
-var mnemonic = "gentle drill industry object day pride together brisk kite because melody broken";
+var mnemonic = "audit waste wonder canoe update wheel people panther dolphin grape board slim";

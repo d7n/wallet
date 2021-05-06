@@ -1,1 +1,1 @@
-var mnemonic = "inquiry private parent fun business extend parrot eternal panda flight seat sausage";
+var mnemonic = "pair diesel innocent lonely pulp desk door horn seminar solar ride lyrics";

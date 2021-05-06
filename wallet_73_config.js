@@ -1,1 +1,1 @@
-var mnemonic = "predict happy snap index sphere summer hockey chair trend raise secret clutch";
+var mnemonic = "equal skill aisle copper ginger vacuum east turtle grocery lesson race sun";

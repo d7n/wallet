@@ -1,1 +1,1 @@
-var mnemonic = "radar spy ritual dice adapt voyage slush loan anxiety chest indicate knife";
+var mnemonic = "gate awake ugly midnight slow force vendor alter recall subject box foster";

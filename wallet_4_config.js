@@ -1,1 +1,1 @@
-var mnemonic = "kid drastic often upon correct elegant balance voice tell remember engine verify";
+var mnemonic = "metal leave moon among jacket radio edit dose short axis uniform clock";

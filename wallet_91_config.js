@@ -1,1 +1,1 @@
-var mnemonic = "barrel pattern genius rich sibling release island rabbit casino antique crane much";
+var mnemonic = "stumble wage shove six hello slab system member fold amount neck glass";

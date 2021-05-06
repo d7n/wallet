@@ -1,1 +1,1 @@
-var mnemonic = "install secret power shoe easily catalog craft describe virus hope sun health";
+var mnemonic = "wear vehicle borrow name endorse festival ivory civil private basic joy range";

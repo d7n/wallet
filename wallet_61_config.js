@@ -1,1 +1,1 @@
-var mnemonic = "apart agent boring elder income diesel excess wife awake sentence above syrup";
+var mnemonic = "burden artefact visit party table moon call security library eagle yard dinner";

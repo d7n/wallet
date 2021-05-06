@@ -1,1 +1,1 @@
-var mnemonic = "child gate wing try copper false spare walnut fit survey wash dolphin";
+var mnemonic = "insane asthma name abandon disagree way orphan recall better balcony wild water";

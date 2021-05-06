@@ -1,1 +1,1 @@
-var mnemonic = "keen forward rally sing ketchup afford vocal modify street medal capital clock";
+var mnemonic = "able spirit fox tackle rely hip develop fantasy ritual panel web october";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic legal proof hint chef captain song inherit cherry glory evolve chunk";
+var mnemonic = "sleep visit lazy panel nature pet memory lunar accuse document tower dolphin";

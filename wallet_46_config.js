@@ -1,1 +1,1 @@
-var mnemonic = "scheme moon because toy use monster extra ignore place skull assist provide";
+var mnemonic = "check pass border present six file doll cheap sketch uncover already cross";

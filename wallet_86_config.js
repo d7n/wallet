@@ -1,1 +1,1 @@
-var mnemonic = "core boil weasel boil mystery coast arena gallery off cousin diamond high";
+var mnemonic = "wall party mechanic humor company glove student only gadget type topple top";

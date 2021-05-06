@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow humble purchase assault scrap alarm area surface room merge mirror where";
+var mnemonic = "goat tray cactus game receive slim save thrive travel response glow judge";

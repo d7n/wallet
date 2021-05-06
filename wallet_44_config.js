@@ -1,1 +1,1 @@
-var mnemonic = "pride twist auction match gather bullet veteran acquire song below olympic wood";
+var mnemonic = "orient thank canal glide lion wrestle panda south wall amazing whisper polar";

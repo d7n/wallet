@@ -1,1 +1,1 @@
-var mnemonic = "obtain wool village blossom draw spatial brown cage discover hurdle item sleep";
+var mnemonic = "like alpha bright oven reward dose width cabin polar menu mouse clock";

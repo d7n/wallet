@@ -1,1 +1,1 @@
-var mnemonic = "tone aunt add math page glimpse field arctic arena strategy bench mosquito";
+var mnemonic = "monitor company race world panel tribe three conduct have drift brisk crystal";

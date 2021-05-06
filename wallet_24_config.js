@@ -1,1 +1,1 @@
-var mnemonic = "machine silver race anxiety actress rapid drum output turtle equal hour will";
+var mnemonic = "lion sing space opera chunk cliff similar thought resource minor royal follow";

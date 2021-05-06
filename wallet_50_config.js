@@ -1,1 +1,1 @@
-var mnemonic = "liberty alcohol already eight settle razor gasp choose pulse grunt bacon chalk";
+var mnemonic = "acquire love polar expire fossil index lazy obvious man sausage meadow loan";

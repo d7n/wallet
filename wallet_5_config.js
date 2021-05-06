@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog bacon remove wink grape slight job pond pitch birth client utility";
+var mnemonic = "tank danger knee balance disease ginger tomato advance end muffin midnight faint";

@@ -1,1 +1,1 @@
-var mnemonic = "dinner symptom fee onion rigid trade collect perfect burden actor tip tuna";
+var mnemonic = "occur mosquito come creek blood dentist infant soup boy stage mad buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "horror hair tent goat manage clutch adapt hollow march friend easy palace";
+var mnemonic = "brush virus mom two lake client entry young keep rough lunar frame";

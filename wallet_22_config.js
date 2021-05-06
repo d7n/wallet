@@ -1,1 +1,1 @@
-var mnemonic = "vacant critic ready fan skill ranch vessel nature churn jelly vendor address";
+var mnemonic = "elite victory rough monkey very fiction will increase victory birth fiction opinion";

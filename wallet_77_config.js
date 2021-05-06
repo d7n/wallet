@@ -1,1 +1,1 @@
-var mnemonic = "dismiss recycle survey utility blame split harvest setup eagle admit employ arctic";
+var mnemonic = "armor tomato hard wisdom injury patient repeat hollow cement diesel awful rhythm";

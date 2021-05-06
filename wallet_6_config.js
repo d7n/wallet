@@ -1,1 +1,1 @@
-var mnemonic = "seminar maid motor lava throw speed ahead reflect whip goose admit year";
+var mnemonic = "manual damage happy box together opinion mixed panel voice hazard exotic gesture";

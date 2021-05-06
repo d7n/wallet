@@ -1,1 +1,1 @@
-var mnemonic = "evoke buffalo patient endless jelly festival artwork tuna hill dragon orbit infant";
+var mnemonic = "maximum hospital seven service direct insect bind mail tell size current cup";
