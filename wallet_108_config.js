@@ -1,1 +1,1 @@
-var mnemonic = "palm coconut help approve almost panda civil forest business fit denial decrease";
+var mnemonic = "prize pink fuel butter leave blood coffee collect bonus web fold ring";

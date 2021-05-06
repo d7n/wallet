@@ -1,1 +1,1 @@
-var mnemonic = "vicious jeans number catch recall sort topple flush favorite salmon remember strike";
+var mnemonic = "hub grow witness spray rhythm giant range hundred noble firm use toward";

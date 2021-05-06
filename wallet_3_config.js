@@ -1,1 +1,1 @@
-var mnemonic = "bomb argue tuition delay brand wonder cluster fetch champion candy solar inspire";
+var mnemonic = "panic ancient please coconut inhale can sphere company rigid have friend swift";

@@ -1,1 +1,1 @@
-var mnemonic = "glue bubble bacon utility gown obscure brush violin argue holiday powder phone";
+var mnemonic = "image jar fetch amateur remove envelope old betray ring flag visa tribe";

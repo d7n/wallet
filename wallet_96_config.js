@@ -1,1 +1,1 @@
-var mnemonic = "kid position bind scissors truly delay coil park resource cash build duty";
+var mnemonic = "horse above enable address wedding enough slam hockey loud prepare engine home";

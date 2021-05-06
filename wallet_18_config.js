@@ -1,1 +1,1 @@
-var mnemonic = "invest smooth focus owner frequent gallery walk detect execute post boss gentle";
+var mnemonic = "hill city add harsh visit build camera fork smooth reject aerobic picture";

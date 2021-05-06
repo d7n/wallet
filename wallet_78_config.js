@@ -1,1 +1,1 @@
-var mnemonic = "prefer join cram fit sign seven post twice apart suspect gold palace";
+var mnemonic = "accident brain gesture nasty about cloth diet leg tornado recipe hospital upper";

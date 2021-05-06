@@ -1,1 +1,1 @@
-var mnemonic = "frown champion adapt blood head empty mouse heart forum camp winner post";
+var mnemonic = "type inmate reject wrap matrix hybrid never vault february owner lawn auto";

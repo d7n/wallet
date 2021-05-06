@@ -1,1 +1,1 @@
-var mnemonic = "vanish monkey garment exchange nephew school marble dice okay eagle hurt slice";
+var mnemonic = "winter disagree crane universe economy track enact portion toilet wait oven never";

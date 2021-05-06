@@ -1,1 +1,1 @@
-var mnemonic = "snap banana simple city off tenant dinner sustain easily pill puppy boy";
+var mnemonic = "among priority sleep orbit strong math toe lend elegant vague perfect attend";

@@ -1,1 +1,1 @@
-var mnemonic = "appear student magic find palm agree victory century convince daring number blame";
+var mnemonic = "blame uphold flavor oval caught enable sort noble aunt kind mail dawn";

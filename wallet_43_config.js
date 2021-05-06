@@ -1,1 +1,1 @@
-var mnemonic = "civil language swift crawl couch ribbon daring once scatter under senior match";
+var mnemonic = "near man open unfold credit coin north replace puzzle ten luxury lawsuit";

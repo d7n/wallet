@@ -1,1 +1,1 @@
-var mnemonic = "glare bulb castle pet library era avocado subway citizen lobster grace client";
+var mnemonic = "impulse target panda eight digital find extra gloom round solve fork couch";

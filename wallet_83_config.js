@@ -1,1 +1,1 @@
-var mnemonic = "welcome nominee hundred renew truly uncle long region bicycle tape pass team";
+var mnemonic = "involve extra unhappy mixed witness loud monitor file gorilla iron lend sustain";

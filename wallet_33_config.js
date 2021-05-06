@@ -1,1 +1,1 @@
-var mnemonic = "auction infant august giant mother spice fish miracle eyebrow people much shrug";
+var mnemonic = "shoe mother quarter army first prevent pause sunset answer goddess adult force";

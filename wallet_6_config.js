@@ -1,1 +1,1 @@
-var mnemonic = "enroll arena print portion romance easily degree tag elegant comic sadness mother";
+var mnemonic = "still toast throw wink fatal unit blind bag grace crash special inmate";

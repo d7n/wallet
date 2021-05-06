@@ -1,1 +1,1 @@
-var mnemonic = "coach slot harbor such chronic grid fade rough roast fortune again bitter";
+var mnemonic = "burst plate soup else atom forget auction insane panda shy vintage horror";

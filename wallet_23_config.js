@@ -1,1 +1,1 @@
-var mnemonic = "celery lion trouble fiber result universe grain notice fringe world seek aware";
+var mnemonic = "spice crack hobby make chimney bike genuine fine glory coffee above poet";

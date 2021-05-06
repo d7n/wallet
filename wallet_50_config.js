@@ -1,1 +1,1 @@
-var mnemonic = "luxury pitch custom cricket slender duck scene own promote someone tuna scare";
+var mnemonic = "dumb coconut recipe company fringe axis hold fire diagram still clap despair";

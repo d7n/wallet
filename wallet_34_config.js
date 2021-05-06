@@ -1,1 +1,1 @@
-var mnemonic = "position sort infant chair orphan scare riot laundry fine anchor cinnamon egg";
+var mnemonic = "display element remove history predict decrease tissue express wish ocean basket stool";

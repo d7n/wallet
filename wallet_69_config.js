@@ -1,1 +1,1 @@
-var mnemonic = "conduct snake version echo hazard alter current west march jungle midnight snake";
+var mnemonic = "topic green exact deer dog pistol reveal carbon gauge feed bunker sweet";

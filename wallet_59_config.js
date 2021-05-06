@@ -1,1 +1,1 @@
-var mnemonic = "head gold point noble sock limb remain victory news hand deliver swing";
+var mnemonic = "magic habit beauty what atom cannon chronic lamp scheme car fee test";

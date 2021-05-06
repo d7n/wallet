@@ -1,1 +1,1 @@
-var mnemonic = "wasp evolve bundle fashion oval chief south connect seminar palace empower exhaust";
+var mnemonic = "insane holiday enable pelican upset timber inspire version caution spider tone guide";

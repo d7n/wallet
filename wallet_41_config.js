@@ -1,1 +1,1 @@
-var mnemonic = "decline enough rare luxury same trouble perfect intact slab small meadow any";
+var mnemonic = "swear cricket whale diet ivory kind test gown portion together media peasant";

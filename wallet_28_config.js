@@ -1,1 +1,1 @@
-var mnemonic = "eternal great lady typical reject slight average raw boil trust truck clay";
+var mnemonic = "ranch fit excite wood bacon table admit stool follow infant disagree note";

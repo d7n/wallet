@@ -1,1 +1,1 @@
-var mnemonic = "pink ripple own truth attitude slam park unlock usage wisdom eye syrup";
+var mnemonic = "camp fault bamboo urge target visual state cage awkward fall spice afraid";

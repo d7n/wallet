@@ -1,1 +1,1 @@
-var mnemonic = "runway describe frozen stove gym trim panda label hamster over rose join";
+var mnemonic = "snap prevent real length rubber turkey puppy cousin tiger orange interest arrest";

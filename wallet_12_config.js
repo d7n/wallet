@@ -1,1 +1,1 @@
-var mnemonic = "oblige feed lawn interest warrior olympic require name initial average dwarf trigger";
+var mnemonic = "silk decide rack clinic claw hello own muffin group chest kitchen diary";

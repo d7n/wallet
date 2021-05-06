@@ -1,1 +1,1 @@
-var mnemonic = "patrol load hamster wet same siren room oval tip artefact pilot skin";
+var mnemonic = "discover alien limb buyer noble exotic away puzzle trash burden kick quit";

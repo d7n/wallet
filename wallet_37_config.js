@@ -1,1 +1,1 @@
-var mnemonic = "blind run pink library super middle common invest edge crowd slim piece";
+var mnemonic = "glove away filter digital add curious atom winner virtual bleak snack middle";

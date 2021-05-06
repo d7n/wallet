@@ -1,1 +1,1 @@
-var mnemonic = "purse unaware tragic vivid toward fitness learn lab island tribe van alley";
+var mnemonic = "forest soul wood evoke job rug arm horn mimic jewel turtle emotion";

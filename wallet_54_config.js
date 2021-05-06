@@ -1,1 +1,1 @@
-var mnemonic = "time try tower candy fossil awake height huge keen behind prize mouse";
+var mnemonic = "spirit typical boil hour marine unknown smart disagree tired stuff word quick";

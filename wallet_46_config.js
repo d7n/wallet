@@ -1,1 +1,1 @@
-var mnemonic = "smart mixture animal diesel until tiny use exotic praise blush cloth dismiss";
+var mnemonic = "usual capable scale please anger remain matrix setup earth panther board engage";

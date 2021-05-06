@@ -1,1 +1,1 @@
-var mnemonic = "deny faculty basket material comic cinnamon planet west zone bright mystery defense";
+var mnemonic = "soda strike end train brown usual magic cement pool edit clog ordinary";

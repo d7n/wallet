@@ -1,1 +1,1 @@
-var mnemonic = "list ranch crack minimum assist ride shallow arrive pact limit sphere domain";
+var mnemonic = "belt select group journey action scrap language twenty afraid sick settle surge";

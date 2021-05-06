@@ -1,1 +1,1 @@
-var mnemonic = "various soup crazy snake clarify bridge cradle keep school recall practice three";
+var mnemonic = "draft adapt indicate useless learn round bracket strong evidence funny crazy option";

@@ -1,1 +1,1 @@
-var mnemonic = "helmet elder hidden eyebrow mirror joke layer unlock program runway brass weekend";
+var mnemonic = "trophy near monitor glance december reward atom burden dwarf daring brain economy";

@@ -1,1 +1,1 @@
-var mnemonic = "until rebel lumber gravity once deer upper until bread warfare chair elder";
+var mnemonic = "history found couple frequent stove little bless deer advice document fringe hint";

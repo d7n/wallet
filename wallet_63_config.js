@@ -1,1 +1,1 @@
-var mnemonic = "clown gasp minor electric paddle purity pen grab aunt gas pitch desk";
+var mnemonic = "avocado shed pulp matter uncle grief gossip pull sleep aerobic surge ski";

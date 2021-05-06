@@ -1,1 +1,1 @@
-var mnemonic = "bachelor critic side motion sea bronze sorry camera razor toss leg reflect";
+var mnemonic = "execute crime safe toe kiss carry grit silk magic leaf moment renew";

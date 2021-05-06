@@ -1,1 +1,1 @@
-var mnemonic = "keep science fat desert fence broom hawk enact rain use screen public";
+var mnemonic = "shoe rate open runway elbow pistol payment convince glad flash cycle sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle absorb brush december soon butter explain young hurt middle ignore prison";
+var mnemonic = "debate armor deputy supply style cigar ghost satisfy direct churn senior between";

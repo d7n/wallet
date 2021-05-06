@@ -1,1 +1,1 @@
-var mnemonic = "club confirm equal sadness rail master random buddy guide wage change melt";
+var mnemonic = "dust purity crisp animal wink riot manual thing cinnamon love elegant monitor";

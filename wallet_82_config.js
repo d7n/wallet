@@ -1,1 +1,1 @@
-var mnemonic = "link eager supreme country vote fiction pluck electric goat victory shoulder vessel";
+var mnemonic = "sniff twin actual jelly cannon someone spider brown add improve immense jelly";

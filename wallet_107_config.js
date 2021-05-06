@@ -1,1 +1,1 @@
-var mnemonic = "retreat spell above crawl frog aerobic supply wish below cheese badge cart";
+var mnemonic = "liar smile pond wasp arrange initial radio gather girl mention consider pipe";

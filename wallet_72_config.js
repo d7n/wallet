@@ -1,1 +1,1 @@
-var mnemonic = "share inside bitter boost bargain chronic exile language win ball cash obey";
+var mnemonic = "unlock bamboo crush foot strategy innocent forest chunk control galaxy update repeat";

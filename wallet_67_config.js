@@ -1,1 +1,1 @@
-var mnemonic = "hill good wheat afford prepare organ federal worth move pet celery exercise";
+var mnemonic = "small lucky umbrella amazing exclude nice hockey follow rebel chronic occur miss";

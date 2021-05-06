@@ -1,1 +1,1 @@
-var mnemonic = "smooth wall resist loan obvious dove penalty zero ecology industry scatter cactus";
+var mnemonic = "cotton gas meadow stable strategy guilt monitor fatigue suit bag verify emotion";

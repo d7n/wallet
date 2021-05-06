@@ -1,1 +1,1 @@
-var mnemonic = "match crisp warrior library ready decorate wing mystery cream load boil guard";
+var mnemonic = "this valve tiger labor uphold family toe duck solar worry suspect jazz";

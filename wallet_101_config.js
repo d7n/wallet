@@ -1,1 +1,1 @@
-var mnemonic = "unaware home glory topple canoe buyer garlic rule trip sibling tower recall";
+var mnemonic = "vocal antenna armed vivid run vital glow vanish scout demise million hard";

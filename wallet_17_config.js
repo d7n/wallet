@@ -1,1 +1,1 @@
-var mnemonic = "fresh almost next elevator foil spread save grape act identify age thunder";
+var mnemonic = "kiss stove wisdom man final alarm surround target syrup layer stairs solar";

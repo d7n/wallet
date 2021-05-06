@@ -1,1 +1,1 @@
-var mnemonic = "vintage lottery foster interest reward snap coin blame extend because priority keep";
+var mnemonic = "runway prison promote midnight typical funny question inherit youth ask brown gasp";

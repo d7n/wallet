@@ -1,1 +1,1 @@
-var mnemonic = "general end three august jaguar poem miracle shift update decorate flush person";
+var mnemonic = "stable elbow normal two memory hamster mesh pulp mixture dress name injury";

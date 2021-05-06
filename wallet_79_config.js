@@ -1,1 +1,1 @@
-var mnemonic = "swap symbol stove such blast fabric other duty exercise allow obtain neutral";
+var mnemonic = "grid strong topple almost other vanish bronze hero category hand square crash";

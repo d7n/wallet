@@ -1,1 +1,1 @@
-var mnemonic = "total bacon gate love relief remain drop universe range lend motion this";
+var mnemonic = "intact cage obscure yellow gain symptom siege help warrior inhale drink trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost cement rhythm wasp pen survey pill bind swim huge crash ancient";
+var mnemonic = "oak stone figure finger egg ethics emotion hollow jelly voyage obtain person";

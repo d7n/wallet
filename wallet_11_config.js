@@ -1,1 +1,1 @@
-var mnemonic = "dish beyond fade develop nut design require fury panel banana abandon flight";
+var mnemonic = "rough quiz board fish bubble evidence genuine minute extend discover cotton feature";

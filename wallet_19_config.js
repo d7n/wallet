@@ -1,1 +1,1 @@
-var mnemonic = "security ill fault palm guitar drift soup lawsuit uncover fire barrel garage";
+var mnemonic = "ceiling simple all discover rubber domain sadness heavy rain suspect village jaguar";

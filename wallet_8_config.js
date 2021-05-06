@@ -1,1 +1,1 @@
-var mnemonic = "yard scorpion response render accident chicken useful pencil tent enroll burst weapon";
+var mnemonic = "canyon reveal base salute bright enable pear chimney body scissors flight axis";

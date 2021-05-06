@@ -1,1 +1,1 @@
-var mnemonic = "tackle erosion ability spare ten yard put antique hour safe share strong";
+var mnemonic = "advance leisure labor either cousin flight nest blame like voyage vendor drink";

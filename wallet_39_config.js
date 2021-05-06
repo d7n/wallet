@@ -1,1 +1,1 @@
-var mnemonic = "bag iron false busy invest occur morning general spirit sausage detail october";
+var mnemonic = "release resource enable dinosaur harbor hybrid noodle motor rack weapon please hurdle";

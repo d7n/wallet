@@ -1,1 +1,1 @@
-var mnemonic = "awkward pupil regular train other hand trumpet pelican utility shove repeat senior";
+var mnemonic = "logic pony portion engage final magnet height pen bubble cruel soda benefit";

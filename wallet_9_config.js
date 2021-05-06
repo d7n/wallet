@@ -1,1 +1,1 @@
-var mnemonic = "reveal diary wall hollow lemon few eagle snap next option clever stable";
+var mnemonic = "ill combine since wear girl fever hybrid bird local actual cute tribe";

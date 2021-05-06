@@ -1,1 +1,1 @@
-var mnemonic = "avoid when badge honey drill pink image butter impact mule depth minor";
+var mnemonic = "cinnamon novel correct nice jump omit hat decorate there attract inner quality";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis weekend promote fresh talent humor salmon inspire junk myself pet impulse";
+var mnemonic = "normal mosquito stumble ten lizard range change puppy ordinary miracle settle identify";

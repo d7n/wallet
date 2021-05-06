@@ -1,1 +1,1 @@
-var mnemonic = "sand junk blade shadow click crop absent leaf certain denial fade labor";
+var mnemonic = "slow badge deny grass moral setup first until spin orphan bundle attack";

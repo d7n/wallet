@@ -1,1 +1,1 @@
-var mnemonic = "spy grocery coin hat junk tower bitter mistake quiz use retreat problem";
+var mnemonic = "fashion until harvest buzz yard frozen rice wreck segment slush head nuclear";

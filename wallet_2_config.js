@@ -1,1 +1,1 @@
-var mnemonic = "vivid enjoy grow tattoo admit unfold index item rather salon evoke member";
+var mnemonic = "shop range mutual stuff army visual unfold across hundred maze decide frost";

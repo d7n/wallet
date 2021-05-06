@@ -1,1 +1,1 @@
-var mnemonic = "imitate outside cradle tongue install source web easily travel armor icon bus";
+var mnemonic = "same luxury use oil ten area fly wave conduct left glove click";

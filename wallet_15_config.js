@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin giraffe wave aisle frown harbor guess what limb indoor lonely excess";
+var mnemonic = "hamster exit sponsor air provide average disagree emotion honey unable flavor blade";

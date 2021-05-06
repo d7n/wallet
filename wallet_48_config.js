@@ -1,1 +1,1 @@
-var mnemonic = "agree roast auction scorpion subway offer wolf smile horn helmet this liar";
+var mnemonic = "october valve gas rival affair bonus setup victory joke cannon only orphan";

@@ -1,1 +1,1 @@
-var mnemonic = "left science race jealous turkey nut warrior unable weekend upper upset yellow";
+var mnemonic = "develop fetch truth obtain ordinary pottery vintage library crack kitten domain lunch";

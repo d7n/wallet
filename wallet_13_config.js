@@ -1,1 +1,1 @@
-var mnemonic = "arm beach ginger soup shift deliver spoon galaxy column impact asthma rocket";
+var mnemonic = "submit asset dream cancel august carpet donkey front hurt dismiss clever victory";

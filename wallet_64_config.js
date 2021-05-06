@@ -1,1 +1,1 @@
-var mnemonic = "capable anxiety ski beauty charge install sport remove hammer bulk rich clog";
+var mnemonic = "start swallow canoe they fiction wash cave capable hill soccer sadness still";

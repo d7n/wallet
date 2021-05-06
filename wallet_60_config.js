@@ -1,1 +1,1 @@
-var mnemonic = "orient bright vapor video useful biology bar royal notice frequent correct renew";
+var mnemonic = "dad soap reject napkin ozone usage table blouse tape couple hour venue";

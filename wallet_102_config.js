@@ -1,1 +1,1 @@
-var mnemonic = "actress undo loyal merit people leave addict crane write quiz inside close";
+var mnemonic = "identify icon column exact future bag manual season alert grid broken miss";

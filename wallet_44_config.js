@@ -1,1 +1,1 @@
-var mnemonic = "seminar very essence betray lazy peace park word beach express chief flee";
+var mnemonic = "render stool ramp laptop pen boat wreck simple relief cancel submit glare";

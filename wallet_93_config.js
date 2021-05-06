@@ -1,1 +1,1 @@
-var mnemonic = "call fame economy shed unique level budget zero next custom hat rural";
+var mnemonic = "atom lemon system inform swing project excuse inmate private silly trouble route";

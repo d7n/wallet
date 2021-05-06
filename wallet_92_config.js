@@ -1,1 +1,1 @@
-var mnemonic = "silver quick inject cradle toilet lecture sight adapt brisk increase display sudden";
+var mnemonic = "mango swift home put rubber piece divert nuclear sunny juice fury width";

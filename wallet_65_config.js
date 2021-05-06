@@ -1,1 +1,1 @@
-var mnemonic = "inquiry wood frown fetch diagram panic huge cram volume kind security reveal";
+var mnemonic = "voice oval abandon employ dose glide aspect this hundred live cigar joy";

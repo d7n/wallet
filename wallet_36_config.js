@@ -1,1 +1,1 @@
-var mnemonic = "general armed asthma lock joy cushion gaze soap total switch brown weekend";
+var mnemonic = "buzz detect hat vital law sunset drift drum vital rural history bitter";

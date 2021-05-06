@@ -1,1 +1,1 @@
-var mnemonic = "oppose vibrant size gentle window oyster latin language lawsuit tenant popular sleep";
+var mnemonic = "toast adapt little endless program fiction subway soap ensure similar gadget wife";

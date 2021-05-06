@@ -1,1 +1,1 @@
-var mnemonic = "oyster upon task slot knee reform repair either actual trial muffin typical";
+var mnemonic = "castle include okay coin kick novel harvest faint cup secret voice uniform";

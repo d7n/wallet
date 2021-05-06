@@ -1,1 +1,1 @@
-var mnemonic = "gossip wagon camp suffer ocean salt bleak riot afford false shield flush";
+var mnemonic = "zoo turtle afraid term cotton deer void wreck toe upon comic scorpion";

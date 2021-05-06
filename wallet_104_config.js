@@ -1,1 +1,1 @@
-var mnemonic = "crater rubber fun donate whip merit carbon reflect media blind yard october";
+var mnemonic = "youth announce improve outer manage monitor impulse certain speed speed crowd double";

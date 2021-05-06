@@ -1,1 +1,1 @@
-var mnemonic = "indicate wave impose culture belt found alone box spend buyer subject wise";
+var mnemonic = "father student ugly mandate knife spice fitness coffee celery fabric recycle skin";

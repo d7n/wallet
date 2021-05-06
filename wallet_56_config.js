@@ -1,1 +1,1 @@
-var mnemonic = "warm door fix because theory reform expose cable already critic style exit";
+var mnemonic = "egg melt lens hood total ski fun brick car transfer mad giggle";

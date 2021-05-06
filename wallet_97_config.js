@@ -1,1 +1,1 @@
-var mnemonic = "roof border tomato during camp silent decide ranch oppose large play patient";
+var mnemonic = "young travel mobile answer cotton panel muffin lawsuit naive lobster gloom area";

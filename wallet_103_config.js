@@ -1,1 +1,1 @@
-var mnemonic = "kitten rug hockey spare beauty life minor decide scale scrap notice fence";
+var mnemonic = "busy ancient report acid round february goddess season act above clever strike";

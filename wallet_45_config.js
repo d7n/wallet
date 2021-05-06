@@ -1,1 +1,1 @@
-var mnemonic = "avoid business pipe shield lend thumb boil hello panic elite lion gesture";
+var mnemonic = "bread gesture wage install festival demand dizzy margin fork gift coach canal";

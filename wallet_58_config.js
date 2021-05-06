@@ -1,1 +1,1 @@
-var mnemonic = "inject raw minute jungle defense powder inside journey focus venture uncle water";
+var mnemonic = "drink loop evidence pig armor bleak column like salad drastic wife spot";
