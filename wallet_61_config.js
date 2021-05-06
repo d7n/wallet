@@ -1,1 +1,1 @@
-var mnemonic = "surface game pattern surface innocent toast drastic extra bag fork fall border";
+var mnemonic = "interest glory lend drive insane matrix medal dry dune local cherry lava";

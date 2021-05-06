@@ -1,1 +1,1 @@
-var mnemonic = "rough labor turtle enrich bean industry farm improve amazing smart glimpse chunk";
+var mnemonic = "reward pipe stadium join estate school rough emerge remind width video throw";

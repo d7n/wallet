@@ -1,1 +1,1 @@
-var mnemonic = "bid sad lesson mandate number trophy distance build core pull resist soft";
+var mnemonic = "purity peanut acoustic stay fantasy gift describe creek holiday audit best sock";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn absorb tube rebel inflict answer shove rib art toddler net nuclear";
+var mnemonic = "spy trend roof patch drama permit crucial jeans blanket sea furnace bar";

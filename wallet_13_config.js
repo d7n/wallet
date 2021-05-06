@@ -1,1 +1,1 @@
-var mnemonic = "what comic coin casino cherry misery code park stool board twelve wrap";
+var mnemonic = "radar cabin gallery history access desk vintage junk base expand tube burst";

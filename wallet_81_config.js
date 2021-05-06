@@ -1,1 +1,1 @@
-var mnemonic = "scissors boy canal chef lady impact animal hill inside piano high make";
+var mnemonic = "lemon crush uniform portion spray pledge intact unlock spare fruit rotate muffin";

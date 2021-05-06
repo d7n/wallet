@@ -1,1 +1,1 @@
-var mnemonic = "shop infant build cluster this pole edge race idea panic north smart";
+var mnemonic = "boss hockey rhythm mask mask hamster ahead strike space buyer wife trial";

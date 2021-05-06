@@ -1,1 +1,1 @@
-var mnemonic = "resource control paddle october want false milk citizen choose grape desert sound";
+var mnemonic = "relief kind elite lady fish mosquito quality system iron argue eight cigar";

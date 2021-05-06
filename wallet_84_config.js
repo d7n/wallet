@@ -1,1 +1,1 @@
-var mnemonic = "alone master load describe skirt pill buddy adjust refuse yard angry foot";
+var mnemonic = "olympic brick patch exhaust describe true rather neither exit boy blossom duck";

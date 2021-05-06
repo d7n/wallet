@@ -1,1 +1,1 @@
-var mnemonic = "nut season again hand gate ivory wink oval water nice salmon elegant";
+var mnemonic = "can wet garment glance trend range ceiling summer until february stairs artefact";

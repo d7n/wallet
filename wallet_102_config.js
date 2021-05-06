@@ -1,1 +1,1 @@
-var mnemonic = "frost limb valley balcony around cousin garden truck equal crisp icon insect";
+var mnemonic = "either fragile equip useful alien client enrich capable wire judge diet school";

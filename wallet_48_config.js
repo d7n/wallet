@@ -1,1 +1,1 @@
-var mnemonic = "cancel scan bundle world tennis solve gospel borrow six marriage thunder endorse";
+var mnemonic = "inquiry tail mixed rabbit cook property oak special bottom defy pistol pizza";

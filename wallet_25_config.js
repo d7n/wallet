@@ -1,1 +1,1 @@
-var mnemonic = "zone finger wine mandate grass misery patient minor into nut right absorb";
+var mnemonic = "receive comic flush security innocent actor sunny level home buffalo renew lawsuit";

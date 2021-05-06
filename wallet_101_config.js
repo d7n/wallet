@@ -1,1 +1,1 @@
-var mnemonic = "glass length crime repair chief identify item ring convince rubber certain good";
+var mnemonic = "van early trial theme essay vintage mix frequent attract clown elegant typical";

@@ -1,1 +1,1 @@
-var mnemonic = "priority truth portion fun prison dress delay fitness cigar much deny fine";
+var mnemonic = "pill loyal that lounge sun pear type joke perfect parade muffin teach";

@@ -1,1 +1,1 @@
-var mnemonic = "boss whale setup involve balance cherry solution gesture fire dragon tool stool";
+var mnemonic = "worry derive stay stove virtual gate weasel van proud orange pupil coil";

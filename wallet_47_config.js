@@ -1,1 +1,1 @@
-var mnemonic = "priority refuse change blame kid chaos reunion magnet stuff silent basic reward";
+var mnemonic = "cry kingdom vault curve burger stove crowd quarter inject bring spray betray";

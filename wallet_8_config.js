@@ -1,1 +1,1 @@
-var mnemonic = "fan shrimp close race kitchen orange mosquito choose left library actress embrace";
+var mnemonic = "ordinary wait despair rigid ostrich trend hold author pool debate mirror man";

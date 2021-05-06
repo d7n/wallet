@@ -1,1 +1,1 @@
-var mnemonic = "crisp runway wreck veteran certain recycle humor flat element awful image knock";
+var mnemonic = "silly police such smooth throw bachelor rotate source group merit trade paddle";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual reopen bird file caught various cinnamon bring mushroom fantasy surround chuckle";
+var mnemonic = "disease amazing convince inspire demise obey bench gate expose sort wisdom kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard jar track kid worry guard replace pigeon unit tip rug exit";
+var mnemonic = "soup patient sheriff loyal clump gold canal pond office decorate sunny lab";

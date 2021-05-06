@@ -1,1 +1,1 @@
-var mnemonic = "basket west valve mad rib kidney gown asthma apple embody all verb";
+var mnemonic = "enter truly elevator soup toss gun syrup solution develop bubble viable gallery";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn chuckle because tornado frequent yellow rhythm quantum invest trigger flag pole";
+var mnemonic = "gloom isolate chicken virus digital express time magnet seed kidney size evolve";

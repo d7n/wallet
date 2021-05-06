@@ -1,1 +1,1 @@
-var mnemonic = "click pencil chase danger unaware crush expose pipe hope cave dream deposit";
+var mnemonic = "false legal speak youth about prize blur margin edit nephew icon vapor";

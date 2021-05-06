@@ -1,1 +1,1 @@
-var mnemonic = "report tip group lounge latin unusual chef angry notice wide jeans chest";
+var mnemonic = "happy crew insane random staff thrive swim excuse empower strike author trap";

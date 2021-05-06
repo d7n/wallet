@@ -1,1 +1,1 @@
-var mnemonic = "promote term merit team evidence tackle cheap interest eager sample alpha fatigue";
+var mnemonic = "soft faculty crop similar certain marble amount broccoli recycle thumb stand cave";

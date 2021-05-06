@@ -1,1 +1,1 @@
-var mnemonic = "number cricket drink layer consider carpet wolf what cereal cotton repeat stay";
+var mnemonic = "donor swift below pride release cannon where access cheap palace still aspect";

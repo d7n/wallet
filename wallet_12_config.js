@@ -1,1 +1,1 @@
-var mnemonic = "motion reunion erase suspect minimum tent tornado west vapor firm crater equip";
+var mnemonic = "mouse mammal spirit tomato viable together razor zero man strategy health bag";

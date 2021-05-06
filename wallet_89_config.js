@@ -1,1 +1,1 @@
-var mnemonic = "senior smart glance dream same scale reward will axis whisper man token";
+var mnemonic = "diary sadness school patch jeans grant fall mind hammer merit mother series";

@@ -1,1 +1,1 @@
-var mnemonic = "crane cave text build glory reveal chest minute grow clutch way wealth";
+var mnemonic = "approve long soldier suit trust tooth fruit spoon cinnamon excess already balance";

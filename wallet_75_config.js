@@ -1,1 +1,1 @@
-var mnemonic = "spy weasel detail drum trumpet latin ancient zone there lounge ship result";
+var mnemonic = "media blossom define glide reward renew canyon settle response cute play fantasy";

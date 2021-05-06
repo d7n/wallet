@@ -1,1 +1,1 @@
-var mnemonic = "unlock magic raven taste rug unaware melt royal exhaust faint airport mass";
+var mnemonic = "genius supreme track siege stable layer obvious victory knee amateur derive cupboard";

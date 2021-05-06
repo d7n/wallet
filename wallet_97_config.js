@@ -1,1 +1,1 @@
-var mnemonic = "spring foot banana mushroom suit duty armed table year armor aim axis";
+var mnemonic = "kit border trash demand truck grace junior obtain poet marble cave tomato";

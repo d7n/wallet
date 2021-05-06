@@ -1,1 +1,1 @@
-var mnemonic = "menu gauge job gasp olympic moon crisp drama scorpion amused used strike";
+var mnemonic = "unit stone pole blind album century drill duck aspect common congress logic";

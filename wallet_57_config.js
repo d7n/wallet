@@ -1,1 +1,1 @@
-var mnemonic = "siege mirror reflect eyebrow pizza solar list afford harvest dragon sad elder";
+var mnemonic = "refuse sense slide plate laugh act wonder electric cabin culture library stand";

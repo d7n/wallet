@@ -1,1 +1,1 @@
-var mnemonic = "involve laugh advance error say differ avoid trust physical baby blur match";
+var mnemonic = "still hawk involve walk federal very barely flush attitude shield skin more";

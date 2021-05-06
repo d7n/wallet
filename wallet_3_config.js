@@ -1,1 +1,1 @@
-var mnemonic = "charge stairs mesh zone siege shove damage hundred extra soup visit fork";
+var mnemonic = "error grow upset raw patient slender coil fault near drift music burden";

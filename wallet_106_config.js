@@ -1,1 +1,1 @@
-var mnemonic = "virus chaos prefer squeeze flag slight hurt pitch oval text dust over";
+var mnemonic = "letter cute zone consider key loyal space soda curious away juice lobster";

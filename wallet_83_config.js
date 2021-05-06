@@ -1,1 +1,1 @@
-var mnemonic = "practice duck apart fire auction city tower captain produce coyote hundred ordinary";
+var mnemonic = "west silent ship oblige upset defy february nation develop street air ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "split heart copy error firm capital occur mean marine crunch pepper off";
+var mnemonic = "banana tooth record elite filter merge swap subject fiction increase enable figure";

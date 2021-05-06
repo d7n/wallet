@@ -1,1 +1,1 @@
-var mnemonic = "love solve spray auction category canyon nuclear token popular split brand animal";
+var mnemonic = "mass together inhale minor trade change apple chase shine canyon evoke toe";

@@ -1,1 +1,1 @@
-var mnemonic = "shell all word ladder thrive hurdle stock magic dance fix sleep south";
+var mnemonic = "zero wage fossil table buzz kind entry keen trade mixed where solar";

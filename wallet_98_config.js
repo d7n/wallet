@@ -1,1 +1,1 @@
-var mnemonic = "siren orchard wagon weird risk sample broken bind magic butter spatial sea";
+var mnemonic = "palace kangaroo umbrella bird tide car muffin whisper water destroy month dune";

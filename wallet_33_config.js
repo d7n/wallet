@@ -1,1 +1,1 @@
-var mnemonic = "first amateur maid own forest replace child nephew vote vivid column patch";
+var mnemonic = "foam bird feel amazing obtain employ cactus call easy marriage crisp print";

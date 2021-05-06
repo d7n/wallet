@@ -1,1 +1,1 @@
-var mnemonic = "radar arm chalk stone jacket found butter umbrella purity moon normal urge";
+var mnemonic = "eight wedding portion elephant staff live limit suit believe kid enable victory";

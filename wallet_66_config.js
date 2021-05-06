@@ -1,1 +1,1 @@
-var mnemonic = "install team love dinner half olympic tube camera poet venture occur cushion";
+var mnemonic = "liquid badge spawn shadow tide night capital child endorse despair wagon elder";

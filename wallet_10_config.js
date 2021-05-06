@@ -1,1 +1,1 @@
-var mnemonic = "hero skate hire battle viable blast donkey sleep stable average window bunker";
+var mnemonic = "bamboo whisper fly symptom one violin grunt invest truly fashion cattle item";

@@ -1,1 +1,1 @@
-var mnemonic = "marble tiger unhappy hurry segment confirm brain retreat mutual clean make nation";
+var mnemonic = "mix party civil message scheme inject forward balance choice kingdom column episode";

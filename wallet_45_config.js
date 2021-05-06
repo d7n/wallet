@@ -1,1 +1,1 @@
-var mnemonic = "road change female spray doctor coil cushion receive verb gossip autumn fiber";
+var mnemonic = "road island scheme park wonder sell hero random welcome valley shove dwarf";

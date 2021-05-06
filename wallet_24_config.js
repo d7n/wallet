@@ -1,1 +1,1 @@
-var mnemonic = "tell blind resource farm angry bachelor spice lady sign suit survey fantasy";
+var mnemonic = "rely defy raw wrap file business avoid anger negative nerve glare indoor";

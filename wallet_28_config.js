@@ -1,1 +1,1 @@
-var mnemonic = "disagree novel media require domain cement confirm wrist number sort oblige embody";
+var mnemonic = "dumb lazy obscure shoulder current tomato forest paddle zero illness insane warm";

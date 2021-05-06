@@ -1,1 +1,1 @@
-var mnemonic = "length access foster census joke suggest pave congress fitness apart cost sibling";
+var mnemonic = "come horn dove minute anger thumb crash divide ethics ramp unfair icon";

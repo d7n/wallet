@@ -1,1 +1,1 @@
-var mnemonic = "shoulder wire east muscle excite put casino tank profit mutual hamster police";
+var mnemonic = "purchase rail aunt bench surge exist donate proof fit patient seminar suffer";

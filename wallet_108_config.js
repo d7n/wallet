@@ -1,1 +1,1 @@
-var mnemonic = "bunker october mansion blush hint unusual mango delay night expand loan during";
+var mnemonic = "illegal forum document slot gasp immune bargain stage tag advance amazing tip";

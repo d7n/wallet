@@ -1,1 +1,1 @@
-var mnemonic = "camera trial omit pizza make ball shed uniform summer bag clap rigid";
+var mnemonic = "bargain nut choose antique master furnace guilt remind appear ribbon drip night";

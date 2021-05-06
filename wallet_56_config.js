@@ -1,1 +1,1 @@
-var mnemonic = "name brown royal hunt economy welcome banner garlic release process smile spot";
+var mnemonic = "try sad choose submit jeans piano bag pipe whisper better badge exotic";

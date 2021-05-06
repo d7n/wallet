@@ -1,1 +1,1 @@
-var mnemonic = "bid vintage start leaf cable one lens pride cancel inflict debris face";
+var mnemonic = "slab network actress emotion cannon color tent hunt fox adjust cigar credit";

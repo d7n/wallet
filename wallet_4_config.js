@@ -1,1 +1,1 @@
-var mnemonic = "mouse tobacco crush fiscal security noble palm lecture digital object grape mechanic";
+var mnemonic = "around vague dutch nurse brother hood panther sniff timber kidney unfair velvet";

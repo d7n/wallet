@@ -1,1 +1,1 @@
-var mnemonic = "yellow stable later occur dial call often giraffe enemy fiction opera curve";
+var mnemonic = "frog hole mixture disease snap play sauce antique sick blanket welcome ill";

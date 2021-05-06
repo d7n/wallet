@@ -1,1 +1,1 @@
-var mnemonic = "permit square pepper client switch law odor post flame buyer adjust reopen";
+var mnemonic = "dune rug tissue cigar elevator record rail feel walnut prevent elite proud";

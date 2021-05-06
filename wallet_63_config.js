@@ -1,1 +1,1 @@
-var mnemonic = "lunch vast release cupboard west twin garbage chimney ring kind buyer slam";
+var mnemonic = "gown axis helmet kit sugar raven rug typical more around release excite";

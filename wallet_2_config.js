@@ -1,1 +1,1 @@
-var mnemonic = "cupboard pave april ability young prison moral feature gold town air brick";
+var mnemonic = "first topic physical balcony try leaf hand royal unaware suggest clutch debate";

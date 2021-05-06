@@ -1,1 +1,1 @@
-var mnemonic = "plug tenant hospital invest brother usual bacon crane path grow wolf purity";
+var mnemonic = "great rack decide glare machine grocery anxiety sword rail tortoise clinic bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing rigid unlock very devote gauge season donate victory record promote cushion";
+var mnemonic = "wing disagree firm inquiry program pass legal chair pulse equip run avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe blood element excess move sketch clutch live frame illegal drink soccer";
+var mnemonic = "ordinary position leg whale grape garbage elegant predict spy borrow eight engine";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry blind humor dry bamboo nose decade team orange crash few kiwi";
+var mnemonic = "core hockey canoe child fix aunt base wire ostrich despair prison february";

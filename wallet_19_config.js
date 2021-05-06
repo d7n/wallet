@@ -1,1 +1,1 @@
-var mnemonic = "bleak ski purse cram ten floor various reject juice group glare join";
+var mnemonic = "exhibit rib curtain furnace model cliff panda heavy poem upon sad chronic";

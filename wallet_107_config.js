@@ -1,1 +1,1 @@
-var mnemonic = "airport valid ridge valley spy pause winner industry earth crop soldier reform";
+var mnemonic = "clown jacket sword purpose course bird custom entry arrow kite cruel shift";

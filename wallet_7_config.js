@@ -1,1 +1,1 @@
-var mnemonic = "ship hotel patient bike raccoon uncover camp neither setup tomorrow rain boss";
+var mnemonic = "family grocery laundry youth aware silent twist school coconut case husband gentle";

@@ -1,1 +1,1 @@
-var mnemonic = "hood soon allow extend sudden erosion ladder skirt display tomorrow permit sand";
+var mnemonic = "dose conduct unlock ghost observe weasel hybrid exact real dinosaur unusual quantum";

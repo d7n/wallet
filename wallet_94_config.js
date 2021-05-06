@@ -1,1 +1,1 @@
-var mnemonic = "model firm tiger scatter smoke inner mystery spring consider member deliver century";
+var mnemonic = "festival farm series clip oppose truly step inquiry rookie exotic recycle humor";

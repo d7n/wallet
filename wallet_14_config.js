@@ -1,1 +1,1 @@
-var mnemonic = "shop welcome unveil route mesh spirit robot gasp hip napkin venture critic";
+var mnemonic = "sheriff action galaxy pond stool tragic size flee wealth tent glass divorce";

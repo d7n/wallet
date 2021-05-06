@@ -1,1 +1,1 @@
-var mnemonic = "during over lawsuit olympic hedgehog lounge cupboard speak drama bachelor bone coast";
+var mnemonic = "noise fabric rescue odor drastic defense dumb vote nation chalk busy napkin";

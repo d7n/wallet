@@ -1,1 +1,1 @@
-var mnemonic = "spatial repair arrange end member mention circle noise unique inject canyon giant";
+var mnemonic = "increase mule kiwi lucky salon cushion dream immune light quiz thank luggage";

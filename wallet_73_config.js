@@ -1,1 +1,1 @@
-var mnemonic = "sheriff chair toy oppose midnight arm peace garden damp food reflect patch";
+var mnemonic = "beef kingdom where extra certain blast trust rather coyote foam obscure vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "learn tail tumble human hospital quit indoor roof oven aim project reveal";
+var mnemonic = "speed organ debris sunset wheel actor glass life cycle leave weird execute";

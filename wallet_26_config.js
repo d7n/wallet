@@ -1,1 +1,1 @@
-var mnemonic = "expand assist brief guide bicycle upset toy strategy version program day awkward";
+var mnemonic = "hamster cinnamon victory anchor client any danger wasp iron bullet fiction render";

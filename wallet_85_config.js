@@ -1,1 +1,1 @@
-var mnemonic = "online present rather review inquiry example embark bunker mountain exchange remember broken";
+var mnemonic = "light uncle bone scrub breeze bottom tomorrow rib come wild lyrics tortoise";

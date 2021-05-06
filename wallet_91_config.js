@@ -1,1 +1,1 @@
-var mnemonic = "wink fly belt enlist offer winter potato skin tobacco average salt doll";
+var mnemonic = "oak eager doctor seed system test feature snack blush cushion absurd dismiss";

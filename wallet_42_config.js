@@ -1,1 +1,1 @@
-var mnemonic = "liberty dolphin shed ahead ready maple panda churn runway million symptom month";
+var mnemonic = "average tooth myth bring inquiry panic flush garden pen circle truck audit";

@@ -1,1 +1,1 @@
-var mnemonic = "immense trumpet decade include retire immune tennis basket brother solve tube kitchen";
+var mnemonic = "chronic under cushion half armor chicken educate diary swing deposit marine differ";

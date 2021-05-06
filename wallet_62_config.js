@@ -1,1 +1,1 @@
-var mnemonic = "snack dynamic seven shell solar miracle witness blouse glove ranch lecture card";
+var mnemonic = "run card wrong carry warfare law search transfer cheese color soccer catalog";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet current foot tongue model lawsuit cage audit cycle deputy butter account";
+var mnemonic = "quote siege blade cupboard airport thing universe attract exist bird cereal march";

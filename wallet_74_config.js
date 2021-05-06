@@ -1,1 +1,1 @@
-var mnemonic = "diesel wall thought bid half furnace drift mandate shell confirm empower stamp";
+var mnemonic = "slab alert gate join normal claim marble marriage search face illegal worth";

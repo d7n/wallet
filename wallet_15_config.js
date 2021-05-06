@@ -1,1 +1,1 @@
-var mnemonic = "cruise grief meadow trip flash pave scorpion public man tattoo fruit cancel";
+var mnemonic = "extend fluid foil cat comfort aware urge firm piece camera churn popular";

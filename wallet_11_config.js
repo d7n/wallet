@@ -1,1 +1,1 @@
-var mnemonic = "note govern hello early green deliver jump enjoy robust element bargain caution";
+var mnemonic = "nice evidence tower output volume among mixture door memory winter steel trouble";

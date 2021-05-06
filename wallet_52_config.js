@@ -1,1 +1,1 @@
-var mnemonic = "orient phrase below blood divide luggage barely exhaust remain exotic trap shiver";
+var mnemonic = "pull gain horror together city raw stomach process follow excite senior spatial";
