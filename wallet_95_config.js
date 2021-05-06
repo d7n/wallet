@@ -1,1 +1,1 @@
-var mnemonic = "lab brisk escape clock vote spread wife stand army toast craft gloom";
+var mnemonic = "fresh tomorrow gallery cute aware silver neglect direct vendor neither victory museum";

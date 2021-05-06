@@ -1,1 +1,1 @@
-var mnemonic = "movie silver elevator endorse rely dial cinnamon force acid pink poverty below";
+var mnemonic = "steak decide moral border wise bottom hospital street outdoor picture mix clap";

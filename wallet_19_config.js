@@ -1,1 +1,1 @@
-var mnemonic = "all solar remind ivory broken clap various bright vacant close movie first";
+var mnemonic = "velvet grow priority charge rice noodle bid venture march share galaxy sorry";

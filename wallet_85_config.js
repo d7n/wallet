@@ -1,1 +1,1 @@
-var mnemonic = "item purse aisle onion cable rescue police rare clock raven answer filter";
+var mnemonic = "immense emotion feature swift movie slice garment route slide asthma anchor butter";

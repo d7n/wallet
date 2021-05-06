@@ -1,1 +1,1 @@
-var mnemonic = "soft acoustic frog scare expect soap frequent region nut sustain priority seven";
+var mnemonic = "blossom differ dolphin pumpkin health gun review picture wrist like give spike";

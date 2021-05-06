@@ -1,1 +1,1 @@
-var mnemonic = "put car eternal robot flower fan day excess faint salon quantum pig";
+var mnemonic = "february village warm frog actor tornado brush sick faculty usual ethics drive";

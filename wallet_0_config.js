@@ -1,1 +1,1 @@
-var mnemonic = "mistake cage insect document opinion apple wage prepare ripple exclude grass wing";
+var mnemonic = "creek matter caution diet glow coast climb cousin print scatter artefact holiday";

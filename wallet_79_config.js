@@ -1,1 +1,1 @@
-var mnemonic = "mother flush october aisle receive goddess route castle north sick square another";
+var mnemonic = "car alpha exist spray captain famous reveal body exhibit under ask mosquito";

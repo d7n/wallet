@@ -1,1 +1,1 @@
-var mnemonic = "myth notice spread lend rug wild reveal ignore naive into title faith";
+var mnemonic = "kingdom eagle resemble ancient bridge design early run bomb youth indoor lady";

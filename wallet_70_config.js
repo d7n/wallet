@@ -1,1 +1,1 @@
-var mnemonic = "grass potato crime case helmet kiwi chicken state illness fitness idle hard";
+var mnemonic = "deposit salute cake timber hello logic panda trial pencil fury gauge ahead";

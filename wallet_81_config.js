@@ -1,1 +1,1 @@
-var mnemonic = "similar unique fluid eye taxi meadow cushion bounce equip ivory title embody";
+var mnemonic = "crystal repair castle cinnamon argue welcome account prepare since light glare impose";

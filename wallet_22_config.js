@@ -1,1 +1,1 @@
-var mnemonic = "toy spike wild cost holiday spin gravity between absurd focus piece chaos";
+var mnemonic = "fit kite lobster betray provide roof once fan unknown piano indoor slight";

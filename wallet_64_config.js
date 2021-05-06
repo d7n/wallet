@@ -1,1 +1,1 @@
-var mnemonic = "cement famous echo outdoor noise march emotion comic funny benefit drink rebel";
+var mnemonic = "erode card kid photo dish horse lion punch absent fortune brother very";

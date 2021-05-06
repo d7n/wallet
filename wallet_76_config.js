@@ -1,1 +1,1 @@
-var mnemonic = "bean security income ordinary young drama drama lumber earth sister save brother";
+var mnemonic = "figure distance purse hen material street elder trip huge now pupil spike";

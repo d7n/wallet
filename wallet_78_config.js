@@ -1,1 +1,1 @@
-var mnemonic = "ranch vague people tower chef army trigger naive select episode length write";
+var mnemonic = "ship brass emerge heart output slim foot drum month snack guitar solar";

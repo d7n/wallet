@@ -1,1 +1,1 @@
-var mnemonic = "screen human solve shuffle leader thing arrange either lunar buddy invest over";
+var mnemonic = "wise isolate casual tunnel chicken author size fade wheel argue room pioneer";

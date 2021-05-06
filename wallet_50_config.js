@@ -1,1 +1,1 @@
-var mnemonic = "tape mule clever adult weapon demand mushroom real vivid caught ridge fetch";
+var mnemonic = "teach surprise where great expand fog real lizard math jelly beef scrub";

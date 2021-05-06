@@ -1,1 +1,1 @@
-var mnemonic = "increase garage birth brown define second subject truly movie combine auto rent";
+var mnemonic = "sport destroy fantasy direct parent spoil come isolate thumb fluid bid donkey";

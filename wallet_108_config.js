@@ -1,1 +1,1 @@
-var mnemonic = "robust fetch detail symptom leopard whip snack grief knife word expose item";
+var mnemonic = "wasp impose midnight stable isolate opera sure modify hello crumble alert hospital";

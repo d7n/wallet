@@ -1,1 +1,1 @@
-var mnemonic = "favorite depart nothing toilet video control chief fringe next miracle always good";
+var mnemonic = "quote surround garage second life crumble cliff someone country funny pact another";

@@ -1,1 +1,1 @@
-var mnemonic = "seek drift arrest bachelor rural reduce wish argue snow camp swear round";
+var mnemonic = "craft noodle coral onion walnut cotton employ click trend evidence human worth";

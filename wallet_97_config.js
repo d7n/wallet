@@ -1,1 +1,1 @@
-var mnemonic = "silly suit fold bracket adapt rely bike panel valley absent gloom alarm";
+var mnemonic = "lift math addict favorite brown long rain forget minor title sell cable";

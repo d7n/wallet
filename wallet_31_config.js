@@ -1,1 +1,1 @@
-var mnemonic = "genre surface direct super false wine portion maid prefer stay torch security";
+var mnemonic = "skill fame police address scare jacket push mango cover segment truth wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic pipe enroll child vivid story smoke this festival upgrade disease title";
+var mnemonic = "remind else pill poem camp edge north dice need rebel typical image";

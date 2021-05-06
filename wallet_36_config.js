@@ -1,1 +1,1 @@
-var mnemonic = "anchor cigar pride mandate parade dove cactus degree fold casino raccoon gauge";
+var mnemonic = "best tower short emerge such certain dune loop jeans lake maid powder";

@@ -1,1 +1,1 @@
-var mnemonic = "drip art enough legal scrap knife park hard about news race client";
+var mnemonic = "year mesh ordinary foster object curious exhibit dynamic civil call select math";

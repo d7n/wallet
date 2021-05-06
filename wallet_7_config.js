@@ -1,1 +1,1 @@
-var mnemonic = "grunt skirt easy remain oval action endless blur humble grunt sunset weekend";
+var mnemonic = "regret release tiger mesh group hedgehog coyote guess cool antique left hope";

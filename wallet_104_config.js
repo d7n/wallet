@@ -1,1 +1,1 @@
-var mnemonic = "achieve balcony globe cabin remember canvas panic reunion dignity become cruise annual";
+var mnemonic = "stereo bulk shock peasant label drum around position lunch sad surprise nice";

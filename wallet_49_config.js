@@ -1,1 +1,1 @@
-var mnemonic = "clever phrase game raven cup glare awake wrong potato whale need brief";
+var mnemonic = "ahead tragic notable carry detect glide school cable stadium grocery clock problem";

@@ -1,1 +1,1 @@
-var mnemonic = "provide skin lemon real real sunset sock weapon left dirt butter harsh";
+var mnemonic = "enable party venue avoid dentist runway play february spoon cruel fold lamp";

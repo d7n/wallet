@@ -1,1 +1,1 @@
-var mnemonic = "abandon trip spot green giant surface profit hurdle allow ranch term summer";
+var mnemonic = "vault radar dragon cute control change island proud alien blade castle duck";

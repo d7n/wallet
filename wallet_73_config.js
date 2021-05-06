@@ -1,1 +1,1 @@
-var mnemonic = "hollow cover spawn guess valve hamster process venue strong vicious onion steel";
+var mnemonic = "undo acoustic beef nature aware caution boring fox mammal then useless turkey";

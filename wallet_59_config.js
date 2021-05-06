@@ -1,1 +1,1 @@
-var mnemonic = "way trick chimney offer innocent earth dawn bottom staff assist economy awesome";
+var mnemonic = "jewel eight trouble tattoo stove because rule solid beach pumpkin goose pioneer";

@@ -1,1 +1,1 @@
-var mnemonic = "soap equal point old eager bring bench chat fun frown reunion pizza";
+var mnemonic = "flip almost feature fall sustain chase ginger lecture keen other stumble almost";

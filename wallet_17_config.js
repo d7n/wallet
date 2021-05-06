@@ -1,1 +1,1 @@
-var mnemonic = "mushroom range ranch barely melt hole kid mom day master column earth";
+var mnemonic = "orchard defense job gossip name step vital that fire during glance zoo";

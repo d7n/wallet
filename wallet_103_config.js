@@ -1,1 +1,1 @@
-var mnemonic = "maze spoon exit assume cool adjust salute tone isolate bubble riot seat";
+var mnemonic = "belt carry cherry female fluid rural gorilla laundry symptom teach shoot teach";

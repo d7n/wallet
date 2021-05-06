@@ -1,1 +1,1 @@
-var mnemonic = "multiply magic what manual slight car vapor problem ignore emerge engage fee";
+var mnemonic = "novel melody congress year reason feed relax ten alcohol little duty hour";

@@ -1,1 +1,1 @@
-var mnemonic = "crash inflict fancy ceiling head chief upset little cover demise law impose";
+var mnemonic = "craft leopard cloth snow bid monster donor museum dwarf female swap monkey";

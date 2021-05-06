@@ -1,1 +1,1 @@
-var mnemonic = "notice appear wink casino dry opera toddler crazy estate wait gallery habit";
+var mnemonic = "disease slot zebra reward engine phrase parade drift vibrant thank calm erase";

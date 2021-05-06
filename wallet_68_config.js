@@ -1,1 +1,1 @@
-var mnemonic = "uncle sight shoulder pumpkin match like grocery exile ordinary keen hotel ready";
+var mnemonic = "owner rib flip range season arm pulp dry wreck finger amateur south";

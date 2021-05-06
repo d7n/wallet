@@ -1,1 +1,1 @@
-var mnemonic = "need medal globe goddess mercy assist obvious vibrant sibling menu pen urge";
+var mnemonic = "raise pistol economy column invite type quality chronic country agree pencil minute";

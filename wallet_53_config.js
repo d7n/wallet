@@ -1,1 +1,1 @@
-var mnemonic = "brown lava limit pulp cactus rely mad window nuclear reunion ahead tool";
+var mnemonic = "mosquito empower fatal dream already wave walk twelve common roof lunar judge";

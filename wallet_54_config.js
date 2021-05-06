@@ -1,1 +1,1 @@
-var mnemonic = "pencil infant job govern pride glory truth frost fancy only used fever";
+var mnemonic = "film always pause garage online mass hungry width clinic candy rigid teach";

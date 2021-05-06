@@ -1,1 +1,1 @@
-var mnemonic = "august orphan train album leaf hand solve glance crowd guide license hurt";
+var mnemonic = "immense proof mandate mosquito embark dumb metal word shiver shy defy open";

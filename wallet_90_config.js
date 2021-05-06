@@ -1,1 +1,1 @@
-var mnemonic = "trash uncover large rookie patrol day torch panic gaze science state matrix";
+var mnemonic = "detail dash panic valley shoot pledge switch segment silent scout milk fresh";

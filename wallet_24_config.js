@@ -1,1 +1,1 @@
-var mnemonic = "law head improve calm attitude mandate inquiry crystal stable slim light table";
+var mnemonic = "spray relief doll know actor humble traffic nerve theme history endorse awake";

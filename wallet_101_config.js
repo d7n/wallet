@@ -1,1 +1,1 @@
-var mnemonic = "inhale embark much visa adjust shuffle cheese unhappy female fluid where unit";
+var mnemonic = "undo sea supply comic morning way attack country twelve modify fat time";

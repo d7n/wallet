@@ -1,1 +1,1 @@
-var mnemonic = "wink lazy pencil impact wheat any basic cereal flee current pistol shiver";
+var mnemonic = "chat tray damage leaf news thumb gossip pact future object talk second";

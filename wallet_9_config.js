@@ -1,1 +1,1 @@
-var mnemonic = "logic comic cruise race twin budget tree venue spread cost opinion hurry";
+var mnemonic = "gold pioneer law tragic true market load rebel limit awkward carry theory";

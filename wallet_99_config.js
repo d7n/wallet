@@ -1,1 +1,1 @@
-var mnemonic = "abstract service spend tonight arch price couch share kingdom frost grit sphere";
+var mnemonic = "lava blur shop gaze danger crop style rhythm champion visit height mistake";

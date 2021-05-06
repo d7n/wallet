@@ -1,1 +1,1 @@
-var mnemonic = "access mass program alpha lab soul similar client believe security trial soul";
+var mnemonic = "tomato mercy pyramid flower price unique addict rough canal layer vivid struggle";

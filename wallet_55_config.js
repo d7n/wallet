@@ -1,1 +1,1 @@
-var mnemonic = "drift hockey balcony middle drama aisle arena cliff this icon relax demand";
+var mnemonic = "attend metal usual guess wet sniff click puppy valid endorse gown pig";

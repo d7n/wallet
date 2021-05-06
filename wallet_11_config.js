@@ -1,1 +1,1 @@
-var mnemonic = "junior clarify employ glare forward address puppy master cart also fold entire";
+var mnemonic = "clip debate vanish video move craft chimney cake high clay skirt provide";

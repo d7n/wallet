@@ -1,1 +1,1 @@
-var mnemonic = "twin labor need toward verb taste truck curve still fix blur science";
+var mnemonic = "eye lazy gorilla craft supreme where dolphin find auction hotel seed swing";

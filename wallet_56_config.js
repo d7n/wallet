@@ -1,1 +1,1 @@
-var mnemonic = "chimney dizzy custom coil math theory solid avocado sister gain slide place";
+var mnemonic = "bounce away blame artist have judge saddle panel clever guide tattoo parrot";

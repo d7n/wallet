@@ -1,1 +1,1 @@
-var mnemonic = "bacon direct census hat glory improve denial blush voice since law symbol";
+var mnemonic = "illegal bronze enroll skirt else regular amazing burst hire artefact ahead squirrel";

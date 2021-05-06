@@ -1,1 +1,1 @@
-var mnemonic = "learn quick finger produce tilt require usual team primary ready danger captain";
+var mnemonic = "jacket report river angry hip garment hub test throw decide club dial";

@@ -1,1 +1,1 @@
-var mnemonic = "category help emerge cinnamon rule pave judge card relax craft now lonely";
+var mnemonic = "memory vacant luxury robust dynamic symptom company online crawl gorilla expire extra";

@@ -1,1 +1,1 @@
-var mnemonic = "close increase path adapt beyond fat surround camera sadness capital have head";
+var mnemonic = "blossom legal table sphere lunar casino mention style dumb couch remind spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "master wild need trash enough pencil mind width elephant crumble effort hole";
+var mnemonic = "visa satisfy chronic caught soccer fix code plunge find giggle moment excuse";

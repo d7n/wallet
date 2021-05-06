@@ -1,1 +1,1 @@
-var mnemonic = "narrow evoke message guilt chimney chase shell liberty bronze defense height scrub";
+var mnemonic = "garlic else truth castle trend bitter motor play slight agree ticket alien";

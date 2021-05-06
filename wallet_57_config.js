@@ -1,1 +1,1 @@
-var mnemonic = "trade couple network fix ginger skate copy banana town sting subway wasp";
+var mnemonic = "scrap thank mercy easy type furnace certain much video various cradle unaware";

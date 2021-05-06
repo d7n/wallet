@@ -1,1 +1,1 @@
-var mnemonic = "better want taste loyal survey flag sun energy stereo bag firm copper";
+var mnemonic = "exchange off include apology stove outer crime wisdom night bundle sting call";

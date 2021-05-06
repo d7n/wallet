@@ -1,1 +1,1 @@
-var mnemonic = "tooth raw office wall fork tree eight dragon accident injury armor learn";
+var mnemonic = "badge festival code minimum powder use adjust found chair segment plug glimpse";

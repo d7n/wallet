@@ -1,1 +1,1 @@
-var mnemonic = "duty source quarter dove dinner jacket hobby leopard enough fame enforce idea";
+var mnemonic = "moon chronic twelve require soccer will purse jaguar achieve absent account sleep";

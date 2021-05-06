@@ -1,1 +1,1 @@
-var mnemonic = "plate envelope very joke body peace kiwi minute diesel wheat arrow put";
+var mnemonic = "aspect exhibit uniform cute donate evolve extend chicken fence text once wise";

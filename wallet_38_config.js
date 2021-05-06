@@ -1,1 +1,1 @@
-var mnemonic = "angle rebel prize aim broccoli quiz shiver area neglect evolve harsh keen";
+var mnemonic = "alcohol trade depth left buzz because vanish mail cactus concert future famous";

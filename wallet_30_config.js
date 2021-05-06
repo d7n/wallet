@@ -1,1 +1,1 @@
-var mnemonic = "pistol civil service cannon grow shrug file consider tide bring scene loop";
+var mnemonic = "hurt lock electric sea story expand void proof before clutch excuse comic";

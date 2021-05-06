@@ -1,1 +1,1 @@
-var mnemonic = "asset cost tent buddy neglect wool liar dilemma used rescue around shoulder";
+var mnemonic = "uphold thrive orange sponsor earn phrase dance cancel ill patch slim explain";

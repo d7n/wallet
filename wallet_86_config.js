@@ -1,1 +1,1 @@
-var mnemonic = "access angry exist trumpet ahead family indicate lemon pistol shoulder pet submit";
+var mnemonic = "diary worth canvas mosquito web give tackle picture piano sick gossip inquiry";

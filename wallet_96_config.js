@@ -1,1 +1,1 @@
-var mnemonic = "slide wire suspect obtain hope crush clump vocal trick supply kitten faculty";
+var mnemonic = "sad noble person lab egg industry hundred eye mechanic toward wrist oxygen";

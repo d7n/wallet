@@ -1,1 +1,1 @@
-var mnemonic = "into sample clerk mom actor broken curve cheese joy shallow festival pole";
+var mnemonic = "dinner enable explain balance shine wide slight album congress skate despair flavor";

@@ -1,1 +1,1 @@
-var mnemonic = "drill jungle oval bird nuclear build grit inner hub chunk allow scale";
+var mnemonic = "pilot fold junk risk approve decline run gain casino must lava use";

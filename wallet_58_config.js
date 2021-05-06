@@ -1,1 +1,1 @@
-var mnemonic = "whale tourist unhappy frequent humble bamboo grocery nuclear blind mystery cash era";
+var mnemonic = "reward gauge bonus dish never reason antique camera twice chase chunk defense";

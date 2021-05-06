@@ -1,1 +1,1 @@
-var mnemonic = "notable life noise creek blue replace van boy act unique myth bargain";
+var mnemonic = "switch same enemy uncover bottom misery view crane wink aim card drama";

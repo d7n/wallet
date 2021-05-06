@@ -1,1 +1,1 @@
-var mnemonic = "will void limb release express sentence giggle wall absent giant base famous";
+var mnemonic = "culture month sugar age mask kitchen mammal frame senior sport school roof";

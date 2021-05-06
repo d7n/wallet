@@ -1,1 +1,1 @@
-var mnemonic = "ensure animal text oil mechanic guard poem poem celery clay cycle behave";
+var mnemonic = "tuition fiscal merry cook diagram sugar survey captain miracle poverty alley high";

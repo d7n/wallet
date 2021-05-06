@@ -1,1 +1,1 @@
-var mnemonic = "replace term ridge saddle defense speak suggest else service unfair maze ordinary";
+var mnemonic = "nasty broccoli slogan alarm margin problem cover orbit trash predict public proof";

@@ -1,1 +1,1 @@
-var mnemonic = "sister seat ski wild cupboard monitor fish inhale guard wash true expose";
+var mnemonic = "buddy nuclear scout foam decline salmon disease success noble pet release junior";

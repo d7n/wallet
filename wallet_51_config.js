@@ -1,1 +1,1 @@
-var mnemonic = "coconut rotate patch horror super frame royal sand toward behave park elevator";
+var mnemonic = "hidden sad raw indicate pig expand shallow alley list arrange crazy off";

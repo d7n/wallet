@@ -1,1 +1,1 @@
-var mnemonic = "usual mother wagon cross float toe entire mutual special trip diary horn";
+var mnemonic = "solid already beach carbon offer check success boat coyote okay canyon core";

@@ -1,1 +1,1 @@
-var mnemonic = "diagram front valve jump winner venture type illness gesture pioneer company motor";
+var mnemonic = "inject march attack phrase shrug warfare addict canal reveal clog nerve fiction";

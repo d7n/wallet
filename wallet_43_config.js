@@ -1,1 +1,1 @@
-var mnemonic = "margin nurse fold ceiling oyster filter sketch shop liquid animal sun replace";
+var mnemonic = "word rescue trust visa wife add mix solid manage bean orient mass";

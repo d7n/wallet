@@ -1,1 +1,1 @@
-var mnemonic = "someone crack task diet hotel comic mistake spring eyebrow equip foster drastic";
+var mnemonic = "target nerve water uncover wall genius squeeze nurse puzzle coast knock mass";
