@@ -1,1 +1,1 @@
-var mnemonic = "ancient stone battle about sheriff firm between funny very degree foster marine";
+var mnemonic = "sweet provide visual uphold place like help festival traffic output depart exercise";

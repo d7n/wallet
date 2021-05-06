@@ -1,1 +1,1 @@
-var mnemonic = "music oak wood urban stuff struggle exile fatal sport sick foot turtle";
+var mnemonic = "clap loud subway vivid turkey camp dream miss produce cry repair habit";

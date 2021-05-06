@@ -1,1 +1,1 @@
-var mnemonic = "razor master sail joy wreck midnight menu staff destroy coil choose retreat";
+var mnemonic = "frozen inside verb risk damp speed question daughter start fire steak crash";

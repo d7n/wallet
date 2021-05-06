@@ -1,1 +1,1 @@
-var mnemonic = "quarter heavy split vintage film spin priority tragic unaware diamond eternal immune";
+var mnemonic = "combine forget wasp orient brief siren disorder sweet goat attitude power thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "produce acoustic fashion crunch shove asthma burden kite lucky piece shrimp sea";
+var mnemonic = "struggle expire atom accident pretty salad census journey refuse what rely cabin";

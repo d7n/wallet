@@ -1,1 +1,1 @@
-var mnemonic = "noble egg garment victory silent evidence release enforce used rib struggle rotate";
+var mnemonic = "toy burst suspect glance have horse keen april peanut chair film crumble";

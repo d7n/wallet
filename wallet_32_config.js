@@ -1,1 +1,1 @@
-var mnemonic = "toast only voice gauge return expect health clap taxi electric lyrics anger";
+var mnemonic = "various smile yellow joke dry dumb just sock lemon similar clarify real";

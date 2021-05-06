@@ -1,1 +1,1 @@
-var mnemonic = "month jelly coral crop give bread park wine item depart such reflect";
+var mnemonic = "skull valley spray exercise disorder comfort select economy page million movie post";

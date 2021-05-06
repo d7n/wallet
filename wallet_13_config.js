@@ -1,1 +1,1 @@
-var mnemonic = "antenna question popular abandon tattoo useless answer deposit cabin morning hotel tennis";
+var mnemonic = "fresh hunt army strategy better woman jump script bacon view cross tribe";

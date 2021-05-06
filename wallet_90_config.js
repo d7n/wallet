@@ -1,1 +1,1 @@
-var mnemonic = "choose picnic trim winter firm doll chimney pudding medal egg addict material";
+var mnemonic = "nose this airport repeat enforce sibling bamboo subject intact fade shrug zoo";

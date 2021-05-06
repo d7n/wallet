@@ -1,1 +1,1 @@
-var mnemonic = "fee road load august save inner scene seek army medal trigger bargain";
+var mnemonic = "fan vintage topple become caution tobacco oyster mad expose snack admit parrot";

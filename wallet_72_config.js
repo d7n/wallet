@@ -1,1 +1,1 @@
-var mnemonic = "robust okay dynamic stomach million spoil hazard bundle ship gown grape throw";
+var mnemonic = "month define voyage clip shoulder add lonely either drastic gather slogan supply";

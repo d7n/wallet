@@ -1,1 +1,1 @@
-var mnemonic = "treat glimpse unknown beauty magnet slab destroy cause grit blouse light correct";
+var mnemonic = "panda stock daring price shoot accident fence acid close toy settle embody";

@@ -1,1 +1,1 @@
-var mnemonic = "top blouse wing machine broken joke denial embrace slow consider harvest just";
+var mnemonic = "file tongue budget physical stadium garbage worth comic afraid owner tenant define";

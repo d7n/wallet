@@ -1,1 +1,1 @@
-var mnemonic = "accident excite chef pudding label innocent marine chat blush warfare ready noodle";
+var mnemonic = "produce dutch warm demise wreck oil country shift usage income cake wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "settle mosquito sibling hunt vital betray scatter circle crush topple furnace basic";
+var mnemonic = "void bar human ridge tattoo risk token save twelve stand extra rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle lizard column subway notice place inspire gloom slot collect decade joy";
+var mnemonic = "excite world engine repair cube crazy number soccer picnic trophy perfect argue";

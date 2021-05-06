@@ -1,1 +1,1 @@
-var mnemonic = "kick language alpha spoon simple plate meat twice obey place they mirror";
+var mnemonic = "cousin buffalo receive equip mountain that cook garment cry thought erode rail";

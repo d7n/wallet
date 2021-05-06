@@ -1,1 +1,1 @@
-var mnemonic = "round drive sail tuition tissue illegal patrol wage rib artist rebuild list";
+var mnemonic = "ahead layer ramp illegal keen satoshi ask second twist draw staff cousin";

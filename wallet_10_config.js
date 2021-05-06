@@ -1,1 +1,1 @@
-var mnemonic = "gravity mechanic oxygen tourist kick front carbon salute vintage text bid twice";
+var mnemonic = "infant witness image renew ordinary tribe armed unfold team decade tree match";

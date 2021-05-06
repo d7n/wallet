@@ -1,1 +1,1 @@
-var mnemonic = "leader question guide spray rate couple lonely sunset wool what practice valid";
+var mnemonic = "eternal end stay apple island shop detect olive regret conduct design wave";

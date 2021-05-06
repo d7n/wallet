@@ -1,1 +1,1 @@
-var mnemonic = "exhaust decade session design key butter polar sunset emerge gauge visit tribe";
+var mnemonic = "oppose choose body claw negative fatigue unusual left dream cluster cabbage boy";

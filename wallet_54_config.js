@@ -1,1 +1,1 @@
-var mnemonic = "brave crater buyer topic ability arctic between voice game tube west high";
+var mnemonic = "hamster gown excuse collect bus fence immune skate brick monster foster resist";

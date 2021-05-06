@@ -1,1 +1,1 @@
-var mnemonic = "evoke sad own heart lemon dune winter grain half couch under sketch";
+var mnemonic = "argue month country clip stage immense talk wheel gate kitchen mom dolphin";

@@ -1,1 +1,1 @@
-var mnemonic = "van build rely wink mother zoo loop auto leisure flat rocket private";
+var mnemonic = "catch group obscure patrol foam disease forward dial vault monkey leaf donate";

@@ -1,1 +1,1 @@
-var mnemonic = "above drill comfort chuckle parent predict foil notable husband dignity design nature";
+var mnemonic = "replace post alone aisle auto combine upset goddess tribe labor broom raven";

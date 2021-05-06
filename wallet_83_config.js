@@ -1,1 +1,1 @@
-var mnemonic = "hat poverty topple dog snap rug power adult witness present attend govern";
+var mnemonic = "hint address outer village affair vehicle carbon smart casual session mention shuffle";

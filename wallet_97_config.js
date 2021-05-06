@@ -1,1 +1,1 @@
-var mnemonic = "connect ten draft champion wagon advance cute lady circle foil level latin";
+var mnemonic = "slide remind mom polar luggage shrimp eyebrow equip town dilemma suggest inch";

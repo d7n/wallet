@@ -1,1 +1,1 @@
-var mnemonic = "jealous muscle vicious rug scale detect library sing cherry sword situate gap";
+var mnemonic = "maid turkey say culture negative rely phone pioneer daring robust catalog level";

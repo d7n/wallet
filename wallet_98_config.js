@@ -1,1 +1,1 @@
-var mnemonic = "blossom bring tomato tenant slender palace favorite struggle seed connect extra element";
+var mnemonic = "valve release dawn motion twelve minute slender planet attend visual six start";

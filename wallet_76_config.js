@@ -1,1 +1,1 @@
-var mnemonic = "abstract portion village ivory puzzle space muffin screen thrive below need despair";
+var mnemonic = "master ivory resemble chuckle joy host finish estate ask regret lonely century";

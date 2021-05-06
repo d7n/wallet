@@ -1,1 +1,1 @@
-var mnemonic = "cook buzz middle deal senior claw park place blade route increase such";
+var mnemonic = "ticket keep patient cousin high kind rose artefact jacket vehicle fork little";

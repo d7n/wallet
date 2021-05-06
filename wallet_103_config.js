@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog copy crime spell chat leaf raw scatter fame girl cupboard drop";
+var mnemonic = "frame travel capital advance length help exact bone empower potato execute volume";

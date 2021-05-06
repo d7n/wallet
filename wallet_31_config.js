@@ -1,1 +1,1 @@
-var mnemonic = "raise text icon young this rent wage waste lemon disease nothing knock";
+var mnemonic = "renew bamboo scatter odor vault pig eagle absorb isolate boring rhythm ordinary";

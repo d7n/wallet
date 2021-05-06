@@ -1,1 +1,1 @@
-var mnemonic = "oxygen praise radio ecology photo plunge review shine water vibrant proud liberty";
+var mnemonic = "earth inner habit elite payment case supply talk kiss elbow deal original";

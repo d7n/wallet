@@ -1,1 +1,1 @@
-var mnemonic = "catch mammal math such thunder federal sunny exit slush debate system frozen";
+var mnemonic = "lonely place health small add silent leave guard regular rice lava blur";

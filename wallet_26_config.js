@@ -1,1 +1,1 @@
-var mnemonic = "chat tent search own equal basic winter federal tiny language cash huge";
+var mnemonic = "pencil owner dragon minor remember notice salmon owner notable victory mad north";

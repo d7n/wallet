@@ -1,1 +1,1 @@
-var mnemonic = "worry column engine valve course mass write tomorrow option repair coral endorse";
+var mnemonic = "ecology alone amused potato nuclear equal door raw skirt woman boat hip";

@@ -1,1 +1,1 @@
-var mnemonic = "identify police prosper range flight flip away sun top involve divorce mean";
+var mnemonic = "head hurdle opinion panda vast ankle system heart target street subject ostrich";

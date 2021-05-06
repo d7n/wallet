@@ -1,1 +1,1 @@
-var mnemonic = "nut auto disorder arch direct forward subway suspect narrow modify economy crisp";
+var mnemonic = "grain february corn wasp imitate leisure luggage wide rate tree chunk post";

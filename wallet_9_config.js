@@ -1,1 +1,1 @@
-var mnemonic = "canyon fabric fee mushroom jump tool across cute bomb apart grief maze";
+var mnemonic = "teach diagram cheap lounge clean priority rocket exit crack profit wage creek";

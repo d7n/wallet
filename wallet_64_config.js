@@ -1,1 +1,1 @@
-var mnemonic = "sunset jump good fragile there throw also dad aisle weather network cement";
+var mnemonic = "guess bronze member wasp total learn outside punch ripple torch evoke hour";

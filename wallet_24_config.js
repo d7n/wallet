@@ -1,1 +1,1 @@
-var mnemonic = "thing february area sign bounce pilot dial inquiry hole waste pear reward";
+var mnemonic = "hen either wool knock elephant bleak visit idle expect reduce claw maze";

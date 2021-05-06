@@ -1,1 +1,1 @@
-var mnemonic = "lemon reform close air vast screen lucky tragic awake better source sight";
+var mnemonic = "camera merit wage gather rebuild method angle talk drastic fiber worth ostrich";

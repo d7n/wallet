@@ -1,1 +1,1 @@
-var mnemonic = "brisk ceiling symbol design hobby zoo nasty essay they future giggle post";
+var mnemonic = "physical inhale tell manage wet edit scheme decade spell arctic emotion glow";

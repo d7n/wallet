@@ -1,1 +1,1 @@
-var mnemonic = "calm rural struggle edit upper border screen energy rich wheat record drift";
+var mnemonic = "pretty illegal buddy discover lava lonely put video neutral explain feel motor";

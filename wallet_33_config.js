@@ -1,1 +1,1 @@
-var mnemonic = "number coast this salad rival vintage mail renew believe escape home recall";
+var mnemonic = "pen utility post morning snake slender alter leader rapid furnace master protect";

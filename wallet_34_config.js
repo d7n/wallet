@@ -1,1 +1,1 @@
-var mnemonic = "quick peasant divorce eagle spider clarify erode bone luggage runway tilt cake";
+var mnemonic = "barrel clutch merge mail ignore visit unknown oven water upset acquire fiber";

@@ -1,1 +1,1 @@
-var mnemonic = "capable nerve gun oak soldier north gap denial shrug sponsor father axis";
+var mnemonic = "height cake end carpet price fish upset tattoo february august donkey story";

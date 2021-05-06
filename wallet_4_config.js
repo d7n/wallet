@@ -1,1 +1,1 @@
-var mnemonic = "rally decrease mimic shove soldier because width sea casino across december same";
+var mnemonic = "step shell elite audit birth avocado lift arctic begin spike foster alone";

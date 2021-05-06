@@ -1,1 +1,1 @@
-var mnemonic = "heart change vapor relax jealous void stay alter van close lumber crash";
+var mnemonic = "smoke feed oak remember traffic earn round wolf learn nasty balcony wasp";

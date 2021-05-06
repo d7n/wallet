@@ -1,1 +1,1 @@
-var mnemonic = "retreat nephew edit indoor observe valid depart hybrid glow wave day eager";
+var mnemonic = "base common ostrich discover biology castle elder cabin ski lab trouble era";

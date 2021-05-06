@@ -1,1 +1,1 @@
-var mnemonic = "cactus pair attitude relief now expand science city great relief unable ranch";
+var mnemonic = "minor disease pepper stock soldier audit guitar correct subject style essay truth";

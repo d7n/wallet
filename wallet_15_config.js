@@ -1,1 +1,1 @@
-var mnemonic = "segment zone hawk fee clog feed capital ten throw brass despair unique";
+var mnemonic = "scrap decide seed file broccoli quiz rice sand aerobic pudding minute jump";

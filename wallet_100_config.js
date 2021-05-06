@@ -1,1 +1,1 @@
-var mnemonic = "injury sweet number retreat fork clinic flip ginger double method segment siege";
+var mnemonic = "window oyster good winter rib gas bring exit order quantum spoon force";

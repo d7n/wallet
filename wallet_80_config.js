@@ -1,1 +1,1 @@
-var mnemonic = "gospel entry much bus like rhythm lazy rude quarter sister wealth caution";
+var mnemonic = "vanish skate vocal rack bone guide laundry garden approve base cross obey";

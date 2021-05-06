@@ -1,1 +1,1 @@
-var mnemonic = "valley rhythm text olive soup faith toy there supply evolve ten dwarf";
+var mnemonic = "carry erase spice harvest brown duck custom tray certain winter alley test";

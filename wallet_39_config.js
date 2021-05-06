@@ -1,1 +1,1 @@
-var mnemonic = "october face bronze jacket fancy embark velvet coach naive tired fox body";
+var mnemonic = "head please coconut wrestle verify divorce divide seek nasty ghost board album";

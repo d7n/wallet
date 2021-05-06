@@ -1,1 +1,1 @@
-var mnemonic = "antique wife inspire maid exile clay permit shy fiscal shadow twist slow";
+var mnemonic = "sniff all admit hint party oblige edge embrace draft major horror tribe";

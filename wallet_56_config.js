@@ -1,1 +1,1 @@
-var mnemonic = "elbow enhance twelve reopen click gorilla chest museum rude black foil vote";
+var mnemonic = "gossip doctor pause alcohol elbow absorb episode trap entire champion mechanic auto";

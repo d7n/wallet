@@ -1,1 +1,1 @@
-var mnemonic = "pilot invite bring skirt detail need steel chef budget similar valve coconut";
+var mnemonic = "decade shy list easily rigid grit sleep soda umbrella echo brand scene";

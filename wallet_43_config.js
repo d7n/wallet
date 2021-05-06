@@ -1,1 +1,1 @@
-var mnemonic = "chase silent boss virus catch section city sting onion enough palm prosper";
+var mnemonic = "thumb riot solve bulk quit loop front blade update abuse brass cloud";

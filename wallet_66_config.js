@@ -1,1 +1,1 @@
-var mnemonic = "concert gold enough umbrella ignore reunion chuckle machine upset swarm misery hybrid";
+var mnemonic = "lunar equal give settle blouse depth easily kiss tree army arrow jar";

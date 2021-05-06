@@ -1,1 +1,1 @@
-var mnemonic = "fatigue rubber decide half dose nerve topple ozone room truly fancy fitness";
+var mnemonic = "unable butter north discover unveil text science enforce legend pudding assume topic";

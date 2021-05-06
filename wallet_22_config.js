@@ -1,1 +1,1 @@
-var mnemonic = "have they tonight improve attitude best awkward orient save glove budget error";
+var mnemonic = "off fatigue wine enforce soap stumble muffin review silk gesture beach satoshi";

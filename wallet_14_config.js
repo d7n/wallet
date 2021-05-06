@@ -1,1 +1,1 @@
-var mnemonic = "visit fury april easily saddle clap limb narrow route caution swing wasp";
+var mnemonic = "mad unfold puzzle casual school neck fantasy observe chief spot any various";

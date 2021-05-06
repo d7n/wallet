@@ -1,1 +1,1 @@
-var mnemonic = "bounce draw ribbon motion grain dose little final old fantasy muscle crumble";
+var mnemonic = "swear absorb glimpse torch scare buddy switch insane sun typical birth client";

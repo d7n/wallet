@@ -1,1 +1,1 @@
-var mnemonic = "radar price sheriff cancel firm cannon marriage ripple chase churn task female";
+var mnemonic = "minute humble initial dismiss deal novel priority must burger diary magic pulse";

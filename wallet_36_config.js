@@ -1,1 +1,1 @@
-var mnemonic = "renew hole erosion paper artefact coconut sudden resemble task music elite elevator";
+var mnemonic = "motion parrot increase also use gas feed cup state area copy float";

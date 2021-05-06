@@ -1,1 +1,1 @@
-var mnemonic = "harvest labor trouble venue monster only rally rule tonight toe spawn vital";
+var mnemonic = "rule arrow copy sheriff magnet banana maze school reflect expect cloud refuse";

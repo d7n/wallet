@@ -1,1 +1,1 @@
-var mnemonic = "sadness mind settle cart question tone wear party innocent lion virus milk";
+var mnemonic = "grass vessel camp bachelor spider update tide wall enjoy country smoke iron";

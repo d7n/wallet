@@ -1,1 +1,1 @@
-var mnemonic = "smooth pretty electric turn visa fly record square voyage excite allow duty";
+var mnemonic = "cloth repair giggle chef hard range safe index fat bright lock fiber";

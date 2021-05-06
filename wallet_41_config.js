@@ -1,1 +1,1 @@
-var mnemonic = "jeans develop alert dynamic juice imitate fish draft pumpkin bacon barrel cabbage";
+var mnemonic = "comic chimney opinion sentence isolate clip plunge door morning special food wing";

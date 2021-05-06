@@ -1,1 +1,1 @@
-var mnemonic = "mass crop salon hawk evoke coconut annual rapid wet jungle blanket analyst";
+var mnemonic = "judge maid sure always syrup exchange design arena update gather hurdle throw";

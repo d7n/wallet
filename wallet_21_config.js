@@ -1,1 +1,1 @@
-var mnemonic = "antenna kit ride dry that bean sea chef solution energy capable essence";
+var mnemonic = "mechanic raven torch ghost depend husband decorate mixture pave fly sponsor ankle";

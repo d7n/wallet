@@ -1,1 +1,1 @@
-var mnemonic = "vicious van suggest donate custom ceiling soft disease turkey chalk priority broken";
+var mnemonic = "bench screen someone shoulder oven pattern waste burger banner rural slim random";

@@ -1,1 +1,1 @@
-var mnemonic = "element grief peanut figure refuse goddess blade error kingdom intact enjoy movie";
+var mnemonic = "country list scare review accident vendor poem globe park tragic rain fantasy";

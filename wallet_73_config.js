@@ -1,1 +1,1 @@
-var mnemonic = "armor chapter inner chief weird debris hundred perfect bubble artwork impulse bargain";
+var mnemonic = "track swarm pride sadness list riot spare market supply love shoot rail";

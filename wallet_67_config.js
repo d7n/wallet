@@ -1,1 +1,1 @@
-var mnemonic = "miracle frost chapter vanish oppose dragon hospital struggle animal gentle insane warm";
+var mnemonic = "ethics inform upper during organ umbrella west snake floor later poem service";

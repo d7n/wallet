@@ -1,1 +1,1 @@
-var mnemonic = "rotate number unknown author sock story ability behind door arm bean size";
+var mnemonic = "sport nice interest axis type decide build hill memory shed regular fine";

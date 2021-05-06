@@ -1,1 +1,1 @@
-var mnemonic = "toe party birth jar mad snap nose liquid correct assist jelly cattle";
+var mnemonic = "jump analyst toe join forum obvious derive poem half spend device rural";

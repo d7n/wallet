@@ -1,1 +1,1 @@
-var mnemonic = "state chalk person dust claw symptom bachelor hint process cool fantasy foil";
+var mnemonic = "attract robust humble more marriage addict escape bag wash sort frost useless";

@@ -1,1 +1,1 @@
-var mnemonic = "anger bright end mimic fashion cream series team coil script exit purse";
+var mnemonic = "present spy october crystal tiger illegal shuffle bag hamster category mercy camp";

@@ -1,1 +1,1 @@
-var mnemonic = "flip marine slogan moral loyal opinion lemon floor guide trust middle disorder";
+var mnemonic = "already bird volcano ability elder two feel balcony pulse aware chapter resemble";

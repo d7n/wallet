@@ -1,1 +1,1 @@
-var mnemonic = "ladder repair clock garlic pride cream goose stock happy case exist divert";
+var mnemonic = "when measure island hunt dawn about chef shiver prefer genuine crystal term";

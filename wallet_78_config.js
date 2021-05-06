@@ -1,1 +1,1 @@
-var mnemonic = "clog minor frog include magnet ritual actor loyal off alley roof shed";
+var mnemonic = "august lumber news funny proud move group hotel round flame wire topic";

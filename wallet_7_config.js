@@ -1,1 +1,1 @@
-var mnemonic = "forward arrange month crime miracle utility feature cigar trend tank exchange front";
+var mnemonic = "purse outer hunt solution install elbow moral wall pulp lemon sorry sick";

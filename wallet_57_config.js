@@ -1,1 +1,1 @@
-var mnemonic = "fold drift fence nominee middle odor elegant blind acoustic claw letter robot";
+var mnemonic = "oval weird cry strong napkin useless clog end kangaroo power good excite";

@@ -1,1 +1,1 @@
-var mnemonic = "barely army era together tonight more salad disagree fence soft beef brown";
+var mnemonic = "appear cloth gain adapt envelope apart chimney episode spray bless moment until";

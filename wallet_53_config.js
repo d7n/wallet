@@ -1,1 +1,1 @@
-var mnemonic = "diagram lawn shrug thunder vacant tumble goat grid market salmon chat toss";
+var mnemonic = "hub abandon dress ostrich various cute awake settle rib primary fiber pony";

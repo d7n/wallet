@@ -1,1 +1,1 @@
-var mnemonic = "hungry pen limit warfare afraid spare nice connect animal coach spice chef";
+var mnemonic = "mistake caught fork depart nose where road escape invite pottery blood shy";
