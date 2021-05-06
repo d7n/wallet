@@ -1,1 +1,1 @@
-var mnemonic = "assault salad deer loud turtle symbol unfold rabbit topple marriage present agree";
+var mnemonic = "chaos pave royal uncle mention voyage large skull uncover unfold piano hybrid";

@@ -1,1 +1,1 @@
-var mnemonic = "oxygen flag border wear please devote police focus differ casual unveil lemon";
+var mnemonic = "jungle rebel satoshi muffin frequent cigar inmate surprise round donor order burden";

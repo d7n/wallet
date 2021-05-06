@@ -1,1 +1,1 @@
-var mnemonic = "armor grape fatal sad brick track permit century ketchup trial mixed region";
+var mnemonic = "carpet toward theory abuse stuff defy door attitude poverty portion evidence lens";

@@ -1,1 +1,1 @@
-var mnemonic = "carpet ticket tree negative about unveil choice beef tattoo skate banner weapon";
+var mnemonic = "mercy pupil fabric push endless offer fiction top curious absurd runway endless";

@@ -1,1 +1,1 @@
-var mnemonic = "game plastic harbor rookie armed fly skate abandon gas tower bleak royal";
+var mnemonic = "margin domain talk argue legal industry box hire bottom chuckle forward hire";

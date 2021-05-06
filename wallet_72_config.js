@@ -1,1 +1,1 @@
-var mnemonic = "clutch accuse forest taste claw hurdle tonight journey parrot assist wear ill";
+var mnemonic = "version harvest believe grow ivory gorilla off enjoy sphere blue switch claw";

@@ -1,1 +1,1 @@
-var mnemonic = "stem give virtual run tag envelope phrase glare sting account cradle lecture";
+var mnemonic = "emerge crowd flag regret upper point pig occur tail invest analyst together";

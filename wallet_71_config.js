@@ -1,1 +1,1 @@
-var mnemonic = "replace item doll output soda goat model festival vicious cable exercise unfair";
+var mnemonic = "lamp pyramid differ slice gallery payment digital minute tattoo release swear rug";

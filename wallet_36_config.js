@@ -1,1 +1,1 @@
-var mnemonic = "hawk peanut cup enable large item beauty topic bamboo job budget know";
+var mnemonic = "dinner sample middle funny differ dragon floor fade include kitchen usual wave";

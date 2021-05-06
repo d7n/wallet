@@ -1,1 +1,1 @@
-var mnemonic = "loud sand rail glue dentist couch miss museum enlist kick travel dad";
+var mnemonic = "act toy enrich evolve expect defy october boy auction replace candy obvious";

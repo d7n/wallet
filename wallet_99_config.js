@@ -1,1 +1,1 @@
-var mnemonic = "ready giraffe unit kitchen know enhance waste lab bachelor behave rely mesh";
+var mnemonic = "general urban under craft faculty lab father grunt strike dynamic famous make";

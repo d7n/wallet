@@ -1,1 +1,1 @@
-var mnemonic = "offer canoe camp relief pave curious trial security denial rifle amateur reason";
+var mnemonic = "pudding also crater exhaust supply hockey barely trap labor outer divide simple";

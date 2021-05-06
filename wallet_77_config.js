@@ -1,1 +1,1 @@
-var mnemonic = "special sea young around way priority peanut defense impulse potato west catch";
+var mnemonic = "crumble oppose wet push detail dentist lift impulse popular proof drive hammer";

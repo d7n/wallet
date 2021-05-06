@@ -1,1 +1,1 @@
-var mnemonic = "bronze various daughter congress usual normal trigger utility man edge traffic general";
+var mnemonic = "globe unfair punch rain razor senior program common carry olympic range bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing envelope orbit coach resemble panther goddess dawn comfort media rent frame";
+var mnemonic = "garment ticket eagle skin scene left endless stage sibling bonus nasty music";

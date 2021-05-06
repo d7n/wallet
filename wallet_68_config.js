@@ -1,1 +1,1 @@
-var mnemonic = "orphan define pledge adjust stairs crisp entry frame brick device atom lesson";
+var mnemonic = "skull umbrella aisle have brother analyst airport urge menu repair also thrive";

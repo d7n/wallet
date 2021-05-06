@@ -1,1 +1,1 @@
-var mnemonic = "oppose dolphin stand illness fashion loan pudding muscle tissue actress negative cement";
+var mnemonic = "health brown play maze special auction dice gain ranch again pet element";

@@ -1,1 +1,1 @@
-var mnemonic = "size fatal dragon patrol faint scheme diesel play question chat fury later";
+var mnemonic = "peanut wealth pool cable tank chimney hybrid clap under chat canvas violin";

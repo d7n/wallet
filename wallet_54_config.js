@@ -1,1 +1,1 @@
-var mnemonic = "theme draw demise bubble clarify paper kitten open medal salon shop under";
+var mnemonic = "devote hair join pretty asthma ozone census program bundle survey benefit tissue";

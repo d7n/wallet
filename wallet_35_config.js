@@ -1,1 +1,1 @@
-var mnemonic = "portion hour hedgehog modify ugly easy carry involve video utility gift truth";
+var mnemonic = "subway student number gadget before cream brother liberty depth satisfy convince grow";

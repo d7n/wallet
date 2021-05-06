@@ -1,1 +1,1 @@
-var mnemonic = "dwarf dream other life talk brain duty element chunk concert review answer";
+var mnemonic = "clever essay practice surround north chapter today sad live venue unit sister";

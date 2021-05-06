@@ -1,1 +1,1 @@
-var mnemonic = "fresh claim wet misery chase action service sniff west diagram guide hour";
+var mnemonic = "robot just tissue subway shrug pulp load bar unusual tattoo year cricket";

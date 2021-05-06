@@ -1,1 +1,1 @@
-var mnemonic = "fluid disagree walk magnet forward basic change coast grit alone orchard riot";
+var mnemonic = "celery brand gaze brain rural next comfort boring tackle height machine decrease";

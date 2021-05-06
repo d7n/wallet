@@ -1,1 +1,1 @@
-var mnemonic = "sword resist lumber else squirrel image suit ivory wall sick use teach";
+var mnemonic = "muscle green iron reveal age decorate skate uniform patrol shop address calm";

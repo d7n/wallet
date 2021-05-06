@@ -1,1 +1,1 @@
-var mnemonic = "student abstract coil buyer device choose hard baby emerge shove waste crystal";
+var mnemonic = "tumble soon sort primary glance inside melody diary chef duty sponsor paddle";

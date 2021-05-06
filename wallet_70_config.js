@@ -1,1 +1,1 @@
-var mnemonic = "armor always domain lunar manual silk crowd spot rare meat column palace";
+var mnemonic = "fragile attract question coil cluster relax about document head spell panel exact";

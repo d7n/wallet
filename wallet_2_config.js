@@ -1,1 +1,1 @@
-var mnemonic = "enter tent leave innocent acquire summer forward novel thought again address shrimp";
+var mnemonic = "bind woman scout laugh sing enable boost cargo author armed fiscal pull";

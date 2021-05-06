@@ -1,1 +1,1 @@
-var mnemonic = "wrist satisfy tell program scrap asset wreck ladder correct decorate dumb century";
+var mnemonic = "hawk garment rail upon caution grape equip silent carpet skirt cricket suffer";

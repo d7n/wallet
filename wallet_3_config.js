@@ -1,1 +1,1 @@
-var mnemonic = "involve tooth keep analyst track crater flag left hybrid expose tongue amused";
+var mnemonic = "swing bright job nature segment true police theory unhappy embody math absent";

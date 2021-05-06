@@ -1,1 +1,1 @@
-var mnemonic = "rose detail mosquito rebuild west crucial dance recycle any artwork useful echo";
+var mnemonic = "never enforce detail useful poem walnut dolphin load wagon curtain veteran phrase";

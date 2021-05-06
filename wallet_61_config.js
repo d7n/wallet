@@ -1,1 +1,1 @@
-var mnemonic = "below old rent tiger lyrics nature illegal dinner one shaft skin puppy";
+var mnemonic = "oil because key arrow faint text tornado fluid breeze duck depend keep";

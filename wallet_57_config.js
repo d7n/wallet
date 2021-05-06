@@ -1,1 +1,1 @@
-var mnemonic = "shy affair grant arch dog rose drama direct okay stairs script gossip";
+var mnemonic = "expose hover struggle income they accident box attitude write spring hen motor";

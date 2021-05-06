@@ -1,1 +1,1 @@
-var mnemonic = "ribbon apart valley name alien orphan dad pond deputy faint decade analyst";
+var mnemonic = "strike soul actor anchor fortune wool flame stadium toddler shell yard arena";

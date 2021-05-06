@@ -1,1 +1,1 @@
-var mnemonic = "music squirrel spend unhappy vague novel mix hip view castle beauty kite";
+var mnemonic = "ring arena gauge doll flower piece camp loop dust business bean evoke";

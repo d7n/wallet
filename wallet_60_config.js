@@ -1,1 +1,1 @@
-var mnemonic = "civil giant comfort decrease abstract forum cloud emotion few boss atom program";
+var mnemonic = "brand hint target cabin clutch toss hard final smile expect evidence gas";

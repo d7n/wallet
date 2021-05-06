@@ -1,1 +1,1 @@
-var mnemonic = "mercy vibrant table drastic relax gallery wire scare busy response document farm";
+var mnemonic = "session kiss soda build during message dismiss liquid kidney mansion correct soul";

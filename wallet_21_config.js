@@ -1,1 +1,1 @@
-var mnemonic = "opera minute question fork route sea erupt bag run record crime alien";
+var mnemonic = "extend raw renew robot champion inject clever someone label cat waste provide";

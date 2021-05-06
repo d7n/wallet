@@ -1,1 +1,1 @@
-var mnemonic = "coyote rail symbol diesel purchase arctic lunar crew veteran soap doll earth";
+var mnemonic = "better palace lyrics panda click dawn noodle sport dress face force during";

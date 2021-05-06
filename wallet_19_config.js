@@ -1,1 +1,1 @@
-var mnemonic = "debris champion pact device fancy shine rug steel intact history intact dizzy";
+var mnemonic = "stand solar invite bird used deposit media process close hole squeeze process";

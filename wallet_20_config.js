@@ -1,1 +1,1 @@
-var mnemonic = "course magic wrist soda embrace later slogan pipe stable clown build together";
+var mnemonic = "hover dish aisle exact film race barrel narrow sample must clinic tide";

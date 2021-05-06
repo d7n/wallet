@@ -1,1 +1,1 @@
-var mnemonic = "party smart churn wrap argue holiday dust minor prison install save second";
+var mnemonic = "roof able timber digital night place entire utility hero craft habit exotic";

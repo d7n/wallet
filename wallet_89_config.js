@@ -1,1 +1,1 @@
-var mnemonic = "round chimney original deal peanut battle pear tenant crane decade raw under";
+var mnemonic = "book sign believe family eye harsh impose absent news network health replace";

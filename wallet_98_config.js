@@ -1,1 +1,1 @@
-var mnemonic = "walk melt midnight entire choice walnut quiz detail stomach journey crowd aim";
+var mnemonic = "trigger radar hill unveil theory choice dolphin oak uniform family physical silly";

@@ -1,1 +1,1 @@
-var mnemonic = "behave sister usage medal noble boil mechanic clown slice hip blood lyrics";
+var mnemonic = "better unfair door escape tool prize quantum frequent bracket wrestle stumble company";

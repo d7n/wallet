@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin banner cargo know shoot peasant inform wide gym pass artist course";
+var mnemonic = "void match raven diary taxi unaware soon spawn vehicle web north thought";

@@ -1,1 +1,1 @@
-var mnemonic = "tail mutual simple govern oblige flush snake ignore depend demand draft either";
+var mnemonic = "add caught wreck rotate pause script square window once tumble stool tourist";

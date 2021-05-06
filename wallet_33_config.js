@@ -1,1 +1,1 @@
-var mnemonic = "ticket coil put fruit shell february civil glance sister army yellow sniff";
+var mnemonic = "draw spoil salmon calm gun force choose habit cash gas physical inch";

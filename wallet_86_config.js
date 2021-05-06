@@ -1,1 +1,1 @@
-var mnemonic = "injury gather skill pyramid noise tiger cover ridge sample ill key evidence";
+var mnemonic = "canal one hurry enemy curious nominee actress enroll wrist fence label dynamic";

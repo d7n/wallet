@@ -1,1 +1,1 @@
-var mnemonic = "any gaze uncover monkey account funny dial upon winner warm slim brush";
+var mnemonic = "host travel horse budget today number muffin silent project pluck material deal";

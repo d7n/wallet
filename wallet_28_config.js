@@ -1,1 +1,1 @@
-var mnemonic = "return announce ticket audit struggle survey below person cart lion buffalo evoke";
+var mnemonic = "dilemma decrease punch above south book brief term video ecology bargain expire";

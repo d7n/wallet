@@ -1,1 +1,1 @@
-var mnemonic = "shaft muffin search spirit biology sign sad employ health candy feel like";
+var mnemonic = "rely pigeon bitter degree toward jelly wife suit badge cloth nose quality";

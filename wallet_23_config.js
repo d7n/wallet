@@ -1,1 +1,1 @@
-var mnemonic = "rude segment frame open hawk tomorrow inject share feel column gas loop";
+var mnemonic = "matrix soldier horror beach lumber canoe goat blossom project need clinic build";

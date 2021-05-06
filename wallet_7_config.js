@@ -1,1 +1,1 @@
-var mnemonic = "urban gas sort phrase hurt bubble moral explain lucky rhythm glue pear";
+var mnemonic = "merge present naive van cart drum drastic faith wisdom trust strategy travel";

@@ -1,1 +1,1 @@
-var mnemonic = "order win unlock drink wild vital choose under horn soccer steak mobile";
+var mnemonic = "october reward street thrive amused pool innocent bind clean gather mesh kind";

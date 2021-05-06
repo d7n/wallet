@@ -1,1 +1,1 @@
-var mnemonic = "display develop weekend online special recipe chat cement place patrol acquire final";
+var mnemonic = "curtain meadow special anger inform copy pelican foot remind regret toddler cause";

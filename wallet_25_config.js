@@ -1,1 +1,1 @@
-var mnemonic = "strategy split inject escape pole assume sword flee suggest maple photo monster";
+var mnemonic = "trip hero notable eager inhale message only rhythm couple kitten execute jeans";

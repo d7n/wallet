@@ -1,1 +1,1 @@
-var mnemonic = "avoid left aim nest february mask family stomach inherit seek always budget";
+var mnemonic = "feed impulse girl ethics session okay person pear floor axis enhance elevator";

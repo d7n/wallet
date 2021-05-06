@@ -1,1 +1,1 @@
-var mnemonic = "auction unfold tackle check lens base lava win sword advance crawl priority";
+var mnemonic = "unable six tunnel onion spring gauge planet ritual visit dragon engage merit";

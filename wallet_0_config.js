@@ -1,1 +1,1 @@
-var mnemonic = "boss oak trumpet member because orbit frozen coin infant fox east major";
+var mnemonic = "invite never hotel civil scatter dismiss priority damp scissors elevator glow rent";

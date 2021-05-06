@@ -1,1 +1,1 @@
-var mnemonic = "runway viable bracket term town caution coconut uniform lake insane owner awful";
+var mnemonic = "apology arch unveil during young pond oxygen nice weapon gentle law salt";

@@ -1,1 +1,1 @@
-var mnemonic = "easily silly change tuition trap symptom layer chase across original clog camera";
+var mnemonic = "sorry canoe motor release super birth comfort gather nut sun gas flip";

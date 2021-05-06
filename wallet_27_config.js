@@ -1,1 +1,1 @@
-var mnemonic = "ribbon rich approve canoe safe valid inform before protect oil scan direct";
+var mnemonic = "impose evolve merit resist excess bubble phone kiss rely slim add cash";

@@ -1,1 +1,1 @@
-var mnemonic = "wine buddy arrest endless naive mandate apple order reveal noodle original lyrics";
+var mnemonic = "chief skill beyond cruise gloom result latin slab inner elegant champion sign";

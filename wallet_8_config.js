@@ -1,1 +1,1 @@
-var mnemonic = "ribbon castle pulse fragile bid thunder manual trip double symbol fan author";
+var mnemonic = "switch rebel path shadow fabric roast pull wave question apology armed dumb";

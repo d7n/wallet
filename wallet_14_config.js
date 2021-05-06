@@ -1,1 +1,1 @@
-var mnemonic = "identify mammal text addict future today acquire coin menu audit parade harbor";
+var mnemonic = "child rich pool vault token idea retire flush road rich segment chapter";

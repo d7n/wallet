@@ -1,1 +1,1 @@
-var mnemonic = "army hawk sample toward shoot robot merit novel pyramid brick auction wool";
+var mnemonic = "knife omit salon best unfair attitude balcony pipe trial cat shadow exchange";

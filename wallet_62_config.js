@@ -1,1 +1,1 @@
-var mnemonic = "uncover next ocean tenant endless season come rough cube artwork future tennis";
+var mnemonic = "make old trap lesson fine assist flat magnet acquire submit spawn enough";

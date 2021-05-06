@@ -1,1 +1,1 @@
-var mnemonic = "actress shell dentist orange era giant rule uniform damp bulk giant empower";
+var mnemonic = "task tortoise win love title host modify gallery almost such pelican adjust";

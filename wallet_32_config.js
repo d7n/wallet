@@ -1,1 +1,1 @@
-var mnemonic = "daughter soft street deny lock castle adult buyer obvious amount stereo office";
+var mnemonic = "client oblige nurse embody acid artefact slogan onion history physical truck brush";

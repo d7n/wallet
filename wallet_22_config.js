@@ -1,1 +1,1 @@
-var mnemonic = "dentist father myself false expose miss alone common notable exhaust primary this";
+var mnemonic = "novel clarify smile arrest basic razor retire gain train sing pizza noodle";

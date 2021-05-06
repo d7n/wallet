@@ -1,1 +1,1 @@
-var mnemonic = "sunny sock nut picnic pear name pony protect pony key zoo consider";
+var mnemonic = "hope aerobic garden oil calm left radio inflict beef way text print";

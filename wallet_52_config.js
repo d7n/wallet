@@ -1,1 +1,1 @@
-var mnemonic = "boat harvest kiss dolphin syrup muffin cry now rug position field foil";
+var mnemonic = "nose chair infant loyal erupt stuff pumpkin curious stand oxygen setup laptop";

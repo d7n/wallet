@@ -1,1 +1,1 @@
-var mnemonic = "rotate wing divorce innocent expand security very teach talent delay initial wealth";
+var mnemonic = "enact outer boil method spirit draft athlete finish crowd traffic unable attack";

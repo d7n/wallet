@@ -1,1 +1,1 @@
-var mnemonic = "sleep danger engage lemon swamp ramp other key arm smile run auto";
+var mnemonic = "service nice original below control pair broken cat abuse mad shed warrior";

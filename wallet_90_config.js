@@ -1,1 +1,1 @@
-var mnemonic = "maid pulp match emerge gasp select reward crash chat alien sketch thumb";
+var mnemonic = "theory cabin regular evolve mechanic cream thought corn episode skill assist dawn";

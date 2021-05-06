@@ -1,1 +1,1 @@
-var mnemonic = "advice panda angry illness wink dawn genre treat sugar select space oval";
+var mnemonic = "decrease satoshi blossom sport unusual hold purity rail crouch lake day lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "office stool year cage duty trash mobile assist once install nurse hair";
+var mnemonic = "film then casino trigger evolve oppose blind tower race gadget sunny mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "upon scatter trouble diesel fuel keep mobile wink boost tooth chuckle crew";
+var mnemonic = "wrestle excuse empty head mom car inject toward refuse invite march rich";

@@ -1,1 +1,1 @@
-var mnemonic = "kid fantasy crush cannon attend amount cement island vessel ostrich voyage shoe";
+var mnemonic = "soul walk library matrix exhaust public orient toss bronze grit palm abandon";

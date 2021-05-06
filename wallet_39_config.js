@@ -1,1 +1,1 @@
-var mnemonic = "pottery almost memory hand maze rally indoor survey sound design foil fish";
+var mnemonic = "transfer rate brain crowd decrease hero host vibrant rocket promote ocean manual";

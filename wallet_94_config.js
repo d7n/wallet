@@ -1,1 +1,1 @@
-var mnemonic = "spice crisp destroy gorilla hint human head adjust vehicle festival close suggest";
+var mnemonic = "maze desert vibrant coconut ability worth enroll extra giant state scatter spend";

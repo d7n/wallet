@@ -1,1 +1,1 @@
-var mnemonic = "item direct manage hazard tent gain base certain volume claw roast humble";
+var mnemonic = "oblige hello kick minor amateur art menu session quiz lunch bracket produce";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget planet artwork patient kind asthma fire boil rough absurd pony other";
+var mnemonic = "call index accident deer invite sound spring couple noodle rib cabin they";

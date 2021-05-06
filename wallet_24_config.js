@@ -1,1 +1,1 @@
-var mnemonic = "portion siege humble spider lion solar napkin slow ocean view salute ignore";
+var mnemonic = "scan guard place message holiday judge neglect fit arrest humor fossil repair";

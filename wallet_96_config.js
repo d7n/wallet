@@ -1,1 +1,1 @@
-var mnemonic = "exile hobby school convince poverty medal any erode latin slender gap error";
+var mnemonic = "credit oblige excuse sugar demand shoulder home bounce civil often axis solution";

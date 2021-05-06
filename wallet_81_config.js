@@ -1,1 +1,1 @@
-var mnemonic = "flip nice youth box update write treat kiss absorb cotton divert arctic";
+var mnemonic = "blur hood acoustic blame cloth army path robust use solution right happy";

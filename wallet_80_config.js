@@ -1,1 +1,1 @@
-var mnemonic = "forget laugh rug adjust cricket salad royal rack base raise antique move";
+var mnemonic = "online coach blur absurd refuse long slam harvest vibrant erosion banana rookie";

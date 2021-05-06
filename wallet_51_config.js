@@ -1,1 +1,1 @@
-var mnemonic = "force attend curious wreck flush letter circle patient fly price essay joy";
+var mnemonic = "exchange salad heavy explain armor valley dust short glove deputy album idle";

@@ -1,1 +1,1 @@
-var mnemonic = "soon below group story zebra wash release faith city type basic mosquito";
+var mnemonic = "virus burst yellow legend spread confirm round oxygen gown thought outer portion";

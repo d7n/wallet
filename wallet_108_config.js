@@ -1,1 +1,1 @@
-var mnemonic = "beef have ensure alarm blood badge iron mesh stem snack describe student";
+var mnemonic = "hope wing electric walk wrestle garlic cart roof lemon force later dinosaur";
