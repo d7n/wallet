@@ -1,1 +1,1 @@
-var mnemonic = "forget cart immune around width pottery skirt weapon island cannon enact normal";
+var mnemonic = "response impact foil kiss tornado shoulder fan elite web grain suggest dizzy";

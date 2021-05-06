@@ -1,1 +1,1 @@
-var mnemonic = "merry used illness unhappy canal erosion object bus security dirt age cigar";
+var mnemonic = "voice jump actual connect check build foil love tragic habit quarter inner";

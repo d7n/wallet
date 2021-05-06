@@ -1,1 +1,1 @@
-var mnemonic = "measure joy depend elder develop allow borrow give arctic inside mammal debate";
+var mnemonic = "outdoor remember unfair tree wagon fish candy super coil skill surface about";

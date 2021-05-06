@@ -1,1 +1,1 @@
-var mnemonic = "valve crash art genius tortoise afraid sense cement fringe lake wave knife";
+var mnemonic = "describe obey quit hour carry dirt raise grant tail cotton minimum rough";

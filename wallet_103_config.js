@@ -1,1 +1,1 @@
-var mnemonic = "aim echo reason push ignore dragon same glad upon hub woman either";
+var mnemonic = "famous aerobic fatigue street height tent pen bubble cause property memory infant";

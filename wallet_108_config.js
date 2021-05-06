@@ -1,1 +1,1 @@
-var mnemonic = "toy scrap near blade vicious snake glad dinosaur stumble music often valley";
+var mnemonic = "plate harsh defense lawn lady satisfy uphold hour home outdoor volcano sniff";

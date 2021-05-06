@@ -1,1 +1,1 @@
-var mnemonic = "rabbit asset width hub dish maid arrow radio thrive season tuition harvest";
+var mnemonic = "arrest jelly skate found edit arena neglect immense law click enroll violin";

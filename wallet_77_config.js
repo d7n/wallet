@@ -1,1 +1,1 @@
-var mnemonic = "catch bicycle swap roast stick journey liberty prevent visit wrap enrich behind";
+var mnemonic = "worry gun fitness road cycle hen mass shop success soup rich code";

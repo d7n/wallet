@@ -1,1 +1,1 @@
-var mnemonic = "target convince glory leg achieve appear glimpse ceiling mix sign upset roof";
+var mnemonic = "harbor pulse gesture naive receive wink mask stem account paper goat success";

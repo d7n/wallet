@@ -1,1 +1,1 @@
-var mnemonic = "torch hold energy patrol inner lens acoustic remain fiction solution curious move";
+var mnemonic = "soon drastic discover kiwi hawk width select mutual can kiwi strike example";

@@ -1,1 +1,1 @@
-var mnemonic = "coffee video basic negative boat still private supply suspect volcano awake pony";
+var mnemonic = "mixed rhythm science judge silk pet mansion toward used develop punch frown";

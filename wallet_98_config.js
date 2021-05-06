@@ -1,1 +1,1 @@
-var mnemonic = "screen ceiling leaf tongue lawsuit kid prepare sport diamond spatial zero explain";
+var mnemonic = "attitude chat donor gospel tree vacant three endless onion tennis rifle better";

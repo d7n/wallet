@@ -1,1 +1,1 @@
-var mnemonic = "phrase rally confirm eyebrow bench category stem reason hard cousin afford burden";
+var mnemonic = "brisk narrow category riot above ice coral lobster volume toss picnic unusual";

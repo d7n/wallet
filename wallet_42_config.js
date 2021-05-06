@@ -1,1 +1,1 @@
-var mnemonic = "million mirror advice boy come chapter picnic eager laugh butter lesson crawl";
+var mnemonic = "lounge grocery clutch famous kangaroo budget flower cry clump glad town property";

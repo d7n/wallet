@@ -1,1 +1,1 @@
-var mnemonic = "mountain glad turkey mass shove call struggle mix broccoli hamster negative silent";
+var mnemonic = "lens slab grief expect original page circle speak poverty human memory sponsor";

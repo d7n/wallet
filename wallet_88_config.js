@@ -1,1 +1,1 @@
-var mnemonic = "satoshi sweet panel pull sure obscure discover fruit amount invest donkey click";
+var mnemonic = "typical depart iron around van current exchange cigar outdoor harbor limit genius";

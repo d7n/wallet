@@ -1,1 +1,1 @@
-var mnemonic = "account smart boost mutual stadium describe spell company trouble tumble maid jaguar";
+var mnemonic = "produce frost head tunnel hospital flower garment wealth purse saddle stock fault";

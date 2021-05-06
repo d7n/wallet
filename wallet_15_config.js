@@ -1,1 +1,1 @@
-var mnemonic = "sadness wash kick iron wire height sea romance card flag vital destroy";
+var mnemonic = "merge popular tobacco hub today renew smile mix load winner nasty cake";

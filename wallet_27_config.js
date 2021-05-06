@@ -1,1 +1,1 @@
-var mnemonic = "enter between pilot orphan shaft old laugh spray rebuild cushion easy master";
+var mnemonic = "lounge pair embrace milk release shallow conduct shoulder symptom dress involve punch";

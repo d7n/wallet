@@ -1,1 +1,1 @@
-var mnemonic = "never february seek present wish drastic acid target pluck alert apart galaxy";
+var mnemonic = "pelican trim muscle toast bridge jazz comic device normal churn sail safe";

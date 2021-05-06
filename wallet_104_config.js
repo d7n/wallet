@@ -1,1 +1,1 @@
-var mnemonic = "protect cup gold shock hen wet text fame rail either wagon emerge";
+var mnemonic = "congress device mesh arena basic shift rural public fault elder elbow dentist";

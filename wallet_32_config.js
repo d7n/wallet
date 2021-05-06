@@ -1,1 +1,1 @@
-var mnemonic = "join artist safe spray six increase mansion wing vault social style used";
+var mnemonic = "isolate mechanic hour myth tragic general bid arctic comic brother legal uphold";

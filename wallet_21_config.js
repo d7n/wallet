@@ -1,1 +1,1 @@
-var mnemonic = "rose atom catch ice wool special tag yellow smoke chair pottery imitate";
+var mnemonic = "hobby rail team whisper border stage inhale history unit edit panel help";

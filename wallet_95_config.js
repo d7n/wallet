@@ -1,1 +1,1 @@
-var mnemonic = "fetch vocal scout mosquito arrow salon spoon jacket dove foster resource diesel";
+var mnemonic = "film save group achieve torch share tube viable plate balcony absent gorilla";

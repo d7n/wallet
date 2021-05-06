@@ -1,1 +1,1 @@
-var mnemonic = "galaxy radio lens reward walnut nice harsh kitchen card forest eternal simple";
+var mnemonic = "faint great focus alone drive relief uniform fine chair burger chaos pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "reason notable cupboard tongue adapt net oven belt reform basic vocal joy";
+var mnemonic = "job fringe loan vacuum fan nest open perfect void glad morning recipe";

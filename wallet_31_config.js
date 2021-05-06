@@ -1,1 +1,1 @@
-var mnemonic = "confirm age kick salon episode solid spatial settle impact duck horror mosquito";
+var mnemonic = "unable interest thing input exist current illegal balance live flip neither beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "around kiss east claw buzz ethics spirit erase cruise hurdle easy napkin";
+var mnemonic = "leopard crater bonus mom tower pact rocket film office debris history leader";

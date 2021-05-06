@@ -1,1 +1,1 @@
-var mnemonic = "desert tomato shop miss lock pipe safe swing drive deer solar pair";
+var mnemonic = "onion able wrist protect safe law account trap label page have shed";

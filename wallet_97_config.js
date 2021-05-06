@@ -1,1 +1,1 @@
-var mnemonic = "other vague vault visa until hawk soft impose treat fuel merit sense";
+var mnemonic = "patch omit salon crater trigger diamond swim disagree topple hope style shed";

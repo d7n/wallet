@@ -1,1 +1,1 @@
-var mnemonic = "uniform accuse say food rose help shed wait maximum west exercise survey";
+var mnemonic = "like plunge identify burst inform buyer tooth book awkward dune process add";

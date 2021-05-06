@@ -1,1 +1,1 @@
-var mnemonic = "chimney six message dress salute fiber head lady fire silver crazy borrow";
+var mnemonic = "theme fade hip lawn calm ketchup someone top order kiss alien hire";

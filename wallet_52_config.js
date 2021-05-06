@@ -1,1 +1,1 @@
-var mnemonic = "fortune keep arena grunt claim drama floor benefit private exclude stairs convince";
+var mnemonic = "clay movie bind talk office aunt uncover fiber shift language ensure history";

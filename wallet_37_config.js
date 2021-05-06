@@ -1,1 +1,1 @@
-var mnemonic = "bike wood soon high faculty rebuild immune elegant artwork miss cool dance";
+var mnemonic = "volume runway luxury quality tissue barrel brick never slow museum universe spend";

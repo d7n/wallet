@@ -1,1 +1,1 @@
-var mnemonic = "club volume plastic worry kangaroo pencil misery zoo hammer firm cushion weather";
+var mnemonic = "gift rain spider citizen fever bar object cart wet fatigue auto vicious";

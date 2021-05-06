@@ -1,1 +1,1 @@
-var mnemonic = "wage trouble slam omit couch asset infant bounce bless hockey random observe";
+var mnemonic = "own rose spread cherry thought warrior danger emotion rifle garbage comfort hole";

@@ -1,1 +1,1 @@
-var mnemonic = "debate soul entry smart virtual hold moment minor net ranch hat return";
+var mnemonic = "winter harbor refuse ribbon hair juice critic note agent derive around leaf";

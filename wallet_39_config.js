@@ -1,1 +1,1 @@
-var mnemonic = "lizard ask display remind breeze wash ivory electric input fine festival bid";
+var mnemonic = "ancient cloth imitate intact news right plate stadium theme country prevent wisdom";

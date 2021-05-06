@@ -1,1 +1,1 @@
-var mnemonic = "combine okay engage right era exist office supply jazz degree child noodle";
+var mnemonic = "trust crash bundle office ball hip awful route impact tongue shine team";

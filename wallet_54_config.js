@@ -1,1 +1,1 @@
-var mnemonic = "label shy clip arrow scrub tiny abstract champion cheese ridge surprise powder";
+var mnemonic = "owner chase reason expand churn silver tell announce bag void fox public";

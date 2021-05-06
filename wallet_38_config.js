@@ -1,1 +1,1 @@
-var mnemonic = "lottery method aspect describe wing fever busy tiny jungle culture trip foil";
+var mnemonic = "crowd drill they inform tag health lab bean power erase notice know";

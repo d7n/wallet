@@ -1,1 +1,1 @@
-var mnemonic = "vapor ugly flee tape sad when above soda spawn success spike immune";
+var mnemonic = "caught chase good soda thunder eagle detail penalty force square heavy ancient";

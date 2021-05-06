@@ -1,1 +1,1 @@
-var mnemonic = "hub uniform uncle entire master rare nephew offer cupboard robust stable unveil";
+var mnemonic = "zero erosion loyal welcome dinner total silver sausage diary bulb quantum curtain";

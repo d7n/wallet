@@ -1,1 +1,1 @@
-var mnemonic = "input faith adjust auto express enroll gun cherry card soup focus margin";
+var mnemonic = "social put oppose alter action estate clog leader prize artwork alcohol silent";

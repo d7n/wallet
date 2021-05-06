@@ -1,1 +1,1 @@
-var mnemonic = "fit always exit scrub usual fuel mercy gap hunt tooth wrong must";
+var mnemonic = "parent wing pizza grant brisk mad off wage vehicle alone guitar giraffe";

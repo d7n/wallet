@@ -1,1 +1,1 @@
-var mnemonic = "rack play tired absorb post spawn lab spice market knee photo build";
+var mnemonic = "expand position rigid legend target behind release habit remember tennis air boss";

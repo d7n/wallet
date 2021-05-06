@@ -1,1 +1,1 @@
-var mnemonic = "skate river mesh slice limit edit coyote cart rent quick vintage perfect";
+var mnemonic = "language solar sauce guide nephew cave cupboard either when comic neck robot";

@@ -1,1 +1,1 @@
-var mnemonic = "run swamp boss script excess law vague flower trophy around aware uncover";
+var mnemonic = "until donor black make pipe inflict robust toward glass split food wash";

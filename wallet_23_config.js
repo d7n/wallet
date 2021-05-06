@@ -1,1 +1,1 @@
-var mnemonic = "kiss sound network reveal cash guilt differ flame snack hint family scissors";
+var mnemonic = "sadness noodle potato nephew exile layer buyer honey glimpse argue violin trend";

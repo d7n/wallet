@@ -1,1 +1,1 @@
-var mnemonic = "marine gauge west nephew one cabin advice space aspect hunt pluck this";
+var mnemonic = "cat cost ladder cliff great subway cruel recipe size position submit shaft";

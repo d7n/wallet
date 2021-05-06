@@ -1,1 +1,1 @@
-var mnemonic = "high valve member baby proud vapor divert honey tackle spell reject spell";
+var mnemonic = "consider okay mystery truck angle around culture ghost carbon evoke virus coyote";

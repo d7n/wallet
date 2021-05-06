@@ -1,1 +1,1 @@
-var mnemonic = "screen quick phrase uncle loud iron morning ivory model nephew weapon math";
+var mnemonic = "evidence harvest side hard focus buzz shy tomorrow pave seminar rocket tobacco";

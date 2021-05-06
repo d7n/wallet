@@ -1,1 +1,1 @@
-var mnemonic = "skate asset alien car exhaust snow since tribe pelican lift hybrid object";
+var mnemonic = "drip gym return claim bread chief funny image voice safe tackle clutch";

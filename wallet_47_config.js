@@ -1,1 +1,1 @@
-var mnemonic = "apology pilot load hair usage rapid reason debris great silk color table";
+var mnemonic = "peace bomb human text nature achieve fun gallery slight parade salute foil";

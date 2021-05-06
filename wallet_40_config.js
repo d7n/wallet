@@ -1,1 +1,1 @@
-var mnemonic = "escape rally blue text faculty quit secret chimney fatigue choice elite fragile";
+var mnemonic = "shaft trouble crowd train wire convince monster coral midnight crowd build early";

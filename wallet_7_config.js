@@ -1,1 +1,1 @@
-var mnemonic = "obey inflict pool coin income december worth second small sense transfer rigid";
+var mnemonic = "scene snack volcano light admit present lady project close term twice pool";

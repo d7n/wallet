@@ -1,1 +1,1 @@
-var mnemonic = "hair arch drama upgrade traffic satisfy tag school blast gap marriage praise";
+var mnemonic = "coffee tuna day city defy educate broccoli autumn ready gallery episode bonus";

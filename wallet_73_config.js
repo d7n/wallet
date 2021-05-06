@@ -1,1 +1,1 @@
-var mnemonic = "peace spirit neck inflict divide year relax chase lesson dash illness guide";
+var mnemonic = "either bachelor cannon purse ice inquiry arctic fall glad fitness coin stairs";

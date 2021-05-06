@@ -1,1 +1,1 @@
-var mnemonic = "scheme lake antique parrot symptom check apple flat thunder library balance above";
+var mnemonic = "ball senior letter raven avocado hungry regret salad runway distance sniff prevent";

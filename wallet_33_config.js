@@ -1,1 +1,1 @@
-var mnemonic = "beauty round limb diet fuel pass burden cricket corn game emotion october";
+var mnemonic = "hire submit float parade panel parrot forward paddle tool ancient awake cross";

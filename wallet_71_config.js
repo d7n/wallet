@@ -1,1 +1,1 @@
-var mnemonic = "brick trumpet swift wet myth defy phrase road symbol horn rapid verify";
+var mnemonic = "alone dynamic cradle cherry huge emerge dignity payment unique rabbit rebuild lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "shy agent addict fame swamp web spider width keep muffin empower cushion";
+var mnemonic = "tumble crime penalty rotate economy lyrics right master fork timber unfair east";

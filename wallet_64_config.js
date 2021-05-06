@@ -1,1 +1,1 @@
-var mnemonic = "cart bitter viable orchard often clever circle cry duty prison immense conduct";
+var mnemonic = "business cup sibling provide cinnamon tomato hobby abandon melt torch grid recall";

@@ -1,1 +1,1 @@
-var mnemonic = "wise month call snake segment waste poem business wood subject perfect trick";
+var mnemonic = "inch raccoon pottery split enlist tiny engine survey legal game problem siren";

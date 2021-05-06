@@ -1,1 +1,1 @@
-var mnemonic = "enjoy power orbit then beach robot renew state congress excuse collect speed";
+var mnemonic = "swamp spell glove write region sting stone luxury frozen fox plate repair";

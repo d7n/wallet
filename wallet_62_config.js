@@ -1,1 +1,1 @@
-var mnemonic = "merge antenna dune write clap plastic people orphan girl render tornado wave";
+var mnemonic = "this enhance depth shallow pride label trigger aim claim chimney eight bless";

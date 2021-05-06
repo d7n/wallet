@@ -1,1 +1,1 @@
-var mnemonic = "comic dilemma reason loud club famous impose drum snap unaware coral today";
+var mnemonic = "broccoli quote dwarf hazard way humble indoor shell degree garlic adapt immune";

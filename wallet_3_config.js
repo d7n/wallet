@@ -1,1 +1,1 @@
-var mnemonic = "dawn crop member sadness arch business spirit gold fun grain deliver ribbon";
+var mnemonic = "bless bread valley town about firm fortune involve antenna stock duty sad";

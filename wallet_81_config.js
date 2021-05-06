@@ -1,1 +1,1 @@
-var mnemonic = "human route sing ability solve judge devote evidence picture call harvest raccoon";
+var mnemonic = "render spread tower faint adjust abandon subway quantum diagram burden total motion";

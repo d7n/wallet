@@ -1,1 +1,1 @@
-var mnemonic = "climb city exhibit earth battle enhance spend squirrel ridge trial cabbage car";
+var mnemonic = "will broom absorb moment annual pony solve ridge echo clap slush surface";

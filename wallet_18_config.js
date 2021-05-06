@@ -1,1 +1,1 @@
-var mnemonic = "cram lift attend oak answer loan once visa connect amateur island general";
+var mnemonic = "charge food state wrong ginger drop divert divide clog client next eight";

@@ -1,1 +1,1 @@
-var mnemonic = "little napkin night clever rabbit empower timber argue tray august arrange gorilla";
+var mnemonic = "mule eager struggle strong wait note speak resource sheriff ripple choose detect";

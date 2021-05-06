@@ -1,1 +1,1 @@
-var mnemonic = "tiny summer assume predict pair quality pool mountain identify forget spin maid";
+var mnemonic = "unique inform traffic address smooth crush fresh tumble riot impulse between bomb";

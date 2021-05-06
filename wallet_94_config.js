@@ -1,1 +1,1 @@
-var mnemonic = "animal now salon army address evidence employ glow excuse deputy enforce absorb";
+var mnemonic = "lucky body physical agree gun hidden pitch lottery illness cabin shove sight";

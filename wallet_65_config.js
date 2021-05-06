@@ -1,1 +1,1 @@
-var mnemonic = "crowd fog grow unveil cart audit supreme foot accuse rigid pencil angry";
+var mnemonic = "drift clean route smoke choice toward sunset voyage coach audit derive long";

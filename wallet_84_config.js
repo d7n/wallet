@@ -1,1 +1,1 @@
-var mnemonic = "napkin weather fiscal local sugar legal jacket hobby find ramp dignity pony";
+var mnemonic = "grass muffin quantum hair ice wood intact there tongue ghost camp labor";

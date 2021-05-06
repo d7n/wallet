@@ -1,1 +1,1 @@
-var mnemonic = "reward seven acid spell lizard wait uncle clown diet exhaust near farm";
+var mnemonic = "vacant special alone fabric blood rough buddy final vote shine injury carry";

@@ -1,1 +1,1 @@
-var mnemonic = "initial slight few office raw salute someone steel situate armor bamboo exhaust";
+var mnemonic = "column crystal infant mouse image quiz surprise box chat collect rival mutual";

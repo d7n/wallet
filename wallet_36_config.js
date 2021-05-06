@@ -1,1 +1,1 @@
-var mnemonic = "output lounge rookie coach pattern surface echo beef document sudden oxygen approve";
+var mnemonic = "razor arrive desert agree tower explain team person peasant fold essence bind";

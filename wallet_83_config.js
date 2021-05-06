@@ -1,1 +1,1 @@
-var mnemonic = "device exhaust merge multiply peanut wave guide range neither treat twice switch";
+var mnemonic = "eager ahead alpha resource ripple conduct riot glide jeans category loud ten";

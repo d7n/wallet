@@ -1,1 +1,1 @@
-var mnemonic = "matter person nature slender innocent crunch buddy minor august rib honey asset";
+var mnemonic = "recycle eye believe flash evil employ wild blue book chair derive abstract";

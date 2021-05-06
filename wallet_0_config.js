@@ -1,1 +1,1 @@
-var mnemonic = "earth oak blanket clock gesture diamond brief enable proud zoo cry push";
+var mnemonic = "express various birth beauty host hard sign enforce chunk win river ordinary";

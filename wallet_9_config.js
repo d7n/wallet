@@ -1,1 +1,1 @@
-var mnemonic = "olympic kiwi flash dust rescue rice height electric trust speak immune truck";
+var mnemonic = "snow orbit reduce robust father core dish tide gospel grape silly manual";

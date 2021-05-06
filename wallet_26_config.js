@@ -1,1 +1,1 @@
-var mnemonic = "enact carbon clever jelly tribe ceiling program priority hour world era suffer";
+var mnemonic = "dynamic decade enemy shoe layer live brother witness trim tumble net bus";

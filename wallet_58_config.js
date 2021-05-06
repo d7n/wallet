@@ -1,1 +1,1 @@
-var mnemonic = "case agree polar arena produce diamond pride fatigue gain tray net crucial";
+var mnemonic = "bus scissors desert aim series toss ginger disorder exit kidney hood pupil";

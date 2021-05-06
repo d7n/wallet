@@ -1,1 +1,1 @@
-var mnemonic = "beauty exit tonight author index inspire bacon real saddle relax say parrot";
+var mnemonic = "consider carbon village weather ozone blast feed knock wage sudden baby nature";

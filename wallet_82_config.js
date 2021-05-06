@@ -1,1 +1,1 @@
-var mnemonic = "secret visa mutual beach source exact access extra aspect sausage dawn warm";
+var mnemonic = "rescue history afford august increase tornado village minor pool chimney index innocent";

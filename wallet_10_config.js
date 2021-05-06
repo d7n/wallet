@@ -1,1 +1,1 @@
-var mnemonic = "just say property refuse hazard acquire security stomach forum merit danger veteran";
+var mnemonic = "subway cute bullet various van toilet that tunnel pledge tomorrow crash law";

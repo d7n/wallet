@@ -1,1 +1,1 @@
-var mnemonic = "lava blade fault finger shop tourist fan rigid injury ecology rebel off";
+var mnemonic = "forest slam animal way fatal gap glue will one fatal permit castle";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol alarm gravity primary cage ostrich address replace offer super exercise regret";
+var mnemonic = "produce spirit broccoli image truck time explain hint party prefer solid pulse";

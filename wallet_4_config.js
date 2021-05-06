@@ -1,1 +1,1 @@
-var mnemonic = "nerve client photo police dismiss trap blouse effort reveal check aspect know";
+var mnemonic = "dutch dizzy equal wait glass canvas indicate ensure tuition feel valve merge";
