@@ -1,1 +1,1 @@
-var mnemonic = "violin peasant arm nut clog slice ethics pitch permit south field exit";
+var mnemonic = "quote lift unveil cup chef canyon skull mushroom hamster cliff drive super";

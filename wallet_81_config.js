@@ -1,1 +1,1 @@
-var mnemonic = "occur mosquito come creek blood dentist infant soup boy stage mad buyer";
+var mnemonic = "wrestle segment corn notable spawn fine poem reveal lizard digital way pet";

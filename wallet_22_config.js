@@ -1,1 +1,1 @@
-var mnemonic = "elite victory rough monkey very fiction will increase victory birth fiction opinion";
+var mnemonic = "thunder plastic bomb spot poem goose gravity demise spawn choice spice year";

@@ -1,1 +1,1 @@
-var mnemonic = "second own humor illness suffer memory wing zebra piano box rate place";
+var mnemonic = "iron favorite analyst friend cage jaguar scissors board glad cube lawn angry";

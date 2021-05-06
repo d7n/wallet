@@ -1,1 +1,1 @@
-var mnemonic = "gate awake ugly midnight slow force vendor alter recall subject box foster";
+var mnemonic = "pattern home turtle cook pulse smile away damp match grape muscle body";

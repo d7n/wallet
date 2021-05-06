@@ -1,1 +1,1 @@
-var mnemonic = "duty panel stadium wool bind little float pizza bottom tank blur force";
+var mnemonic = "argue scout argue because elegant trouble tray shallow gas wrong suit lesson";

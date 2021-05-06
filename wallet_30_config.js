@@ -1,1 +1,1 @@
-var mnemonic = "culture elevator escape someone race crush web core miracle shell razor found";
+var mnemonic = "reveal bird cloth swarm ring hold hour want situate humble bullet calm";

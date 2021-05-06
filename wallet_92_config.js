@@ -1,1 +1,1 @@
-var mnemonic = "design spoon wheel pizza above mad history arrive noble shrimp bread faith";
+var mnemonic = "clip client clock spider palm express modify flip where warrior kidney water";

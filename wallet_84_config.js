@@ -1,1 +1,1 @@
-var mnemonic = "above panther lens excess ocean smoke useless legend foster order bulk beef";
+var mnemonic = "tiger frozen liquid menu thumb seed reflect pulse offer column pen biology";

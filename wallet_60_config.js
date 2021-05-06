@@ -1,1 +1,1 @@
-var mnemonic = "funny club useful warrior vivid awesome awake total sport current history coach";
+var mnemonic = "attend crawl behind feed snap lock knife mass multiply volcano door network";

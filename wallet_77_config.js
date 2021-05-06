@@ -1,1 +1,1 @@
-var mnemonic = "armor tomato hard wisdom injury patient repeat hollow cement diesel awful rhythm";
+var mnemonic = "surface film toast toward island until balcony scrap ski month focus tide";

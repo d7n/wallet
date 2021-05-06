@@ -1,1 +1,1 @@
-var mnemonic = "rhythm spoil excess tackle disease captain bottom because business frequent coast custom";
+var mnemonic = "solid step welcome grain day this frame friend side action parent strong";

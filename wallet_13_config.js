@@ -1,1 +1,1 @@
-var mnemonic = "guilt jump cool garage poem symbol memory canyon web echo domain offer";
+var mnemonic = "enforce blast present deposit mask bicycle leopard mad tattoo firm suggest black";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore focus pupil divert asset rabbit powder between estate spoon damp symbol";
+var mnemonic = "love brain usual grass dignity lemon require owner omit quiz usage any";

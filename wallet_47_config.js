@@ -1,1 +1,1 @@
-var mnemonic = "diagram point century vanish universe pilot march chair smart hope faith denial";
+var mnemonic = "feel earn proud two tomorrow blade educate claw paddle muscle alley novel";

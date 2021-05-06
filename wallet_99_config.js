@@ -1,1 +1,1 @@
-var mnemonic = "aspect globe mercy horror noise garden ability repair tonight recall hood recipe";
+var mnemonic = "sentence provide vapor muscle brick recall into gallery genre eight fence eye";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar market agent layer fog sample afford train trend unfold impose dawn";
+var mnemonic = "drift outside spatial butter cash stage dash bike know fade planet devote";

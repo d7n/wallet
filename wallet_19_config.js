@@ -1,1 +1,1 @@
-var mnemonic = "equal club nasty breeze arrive wisdom cricket lyrics plug ski toast suffer";
+var mnemonic = "drip into lend scissors piece bless blanket debate drum cherry pear absent";

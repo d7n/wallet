@@ -1,1 +1,1 @@
-var mnemonic = "tumble always novel repair sting chaos lumber hope goose wrist shadow ugly";
+var mnemonic = "tool spell all already stay pill shoe deer chase clock donor seminar";

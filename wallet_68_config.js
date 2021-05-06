@@ -1,1 +1,1 @@
-var mnemonic = "monitor company race world panel tribe three conduct have drift brisk crystal";
+var mnemonic = "prevent sure civil typical museum deputy fault slab rib script visit general";

@@ -1,1 +1,1 @@
-var mnemonic = "like alpha bright oven reward dose width cabin polar menu mouse clock";
+var mnemonic = "guitar curve sell candy credit pill verify search dirt vacuum bone disagree";

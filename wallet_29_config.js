@@ -1,1 +1,1 @@
-var mnemonic = "intact march mobile join review derive twist ready afraid carbon apart cream";
+var mnemonic = "about spider tourist retire wife agent couple vessel boring jewel avoid festival";

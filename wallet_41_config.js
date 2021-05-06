@@ -1,1 +1,1 @@
-var mnemonic = "alter bone force kitchen warrior script remember rate decide anxiety wear energy";
+var mnemonic = "name predict lawn bundle able harvest volcano movie mass sun canyon swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "bid regret scorpion oil illegal dog horse arena tattoo hen frost icon";
+var mnemonic = "say rail tide use involve battle spell flee artwork aware speed left";

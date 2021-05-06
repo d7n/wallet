@@ -1,1 +1,1 @@
-var mnemonic = "feed casual visit pottery claim upgrade lazy friend blast uniform govern universe";
+var mnemonic = "convince tool item oak enact garlic cabbage brush quick awake excite bunker";

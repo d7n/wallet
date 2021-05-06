@@ -1,1 +1,1 @@
-var mnemonic = "page rescue ordinary photo orbit pretty put album high action next tip";
+var mnemonic = "verify suffer cotton average decline success coconut occur viable magic produce describe";

@@ -1,1 +1,1 @@
-var mnemonic = "stuff remember pudding lucky hidden staff impact replace turkey pepper joke rifle";
+var mnemonic = "bachelor mutual hero atom rely suffer frame pony payment relax bleak step";

@@ -1,1 +1,1 @@
-var mnemonic = "trend shoot speak insane reunion mad hair coast exist merge toe similar";
+var mnemonic = "fragile decide manual actress book search patient collect mammal ghost thunder gospel";

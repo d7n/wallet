@@ -1,1 +1,1 @@
-var mnemonic = "fork risk final dirt idle phone response finish rare chuckle grass naive";
+var mnemonic = "leave grit supreme tornado public gas cake badge yellow engage until shop";

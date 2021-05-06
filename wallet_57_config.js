@@ -1,1 +1,1 @@
-var mnemonic = "team oval machine wagon broccoli parent mirror radar agent then quick hero";
+var mnemonic = "delay tired enough flock vote crunch rail debate palm spoil during worth";

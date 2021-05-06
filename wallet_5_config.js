@@ -1,1 +1,1 @@
-var mnemonic = "tank danger knee balance disease ginger tomato advance end muffin midnight faint";
+var mnemonic = "eyebrow auction bamboo option pass approve jewel input valid stereo trash assume";

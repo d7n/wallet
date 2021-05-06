@@ -1,1 +1,1 @@
-var mnemonic = "butter vivid toe regret scrub bus wish nice typical ready garment lesson";
+var mnemonic = "mutual behave alert disease inform inject river autumn income civil dumb unfold";

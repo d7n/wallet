@@ -1,1 +1,1 @@
-var mnemonic = "bind buddy spirit label diagram beef december volume habit anxiety more space";
+var mnemonic = "course critic candy film task pact excess escape chat rather summer misery";

@@ -1,1 +1,1 @@
-var mnemonic = "fury tower earn section gesture heart click tube draft abstract rate prize";
+var mnemonic = "lend plunge poem sound robot hill tragic plastic type equal sudden marriage";

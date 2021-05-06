@@ -1,1 +1,1 @@
-var mnemonic = "confirm ecology screen boring genre month bulb earth air vote tunnel cousin";
+var mnemonic = "will save text open next tomorrow trial logic balance display swift ticket";

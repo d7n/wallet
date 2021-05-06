@@ -1,1 +1,1 @@
-var mnemonic = "since distance angle blast express riot tent intact churn obey snow tomorrow";
+var mnemonic = "sing assist half front shell then frown frost diesel seat dolphin letter";

@@ -1,1 +1,1 @@
-var mnemonic = "music fever churn project mass calm inform oxygen unhappy judge lawn foil";
+var mnemonic = "behind scare average west goddess nasty fork notable loyal stable measure label";

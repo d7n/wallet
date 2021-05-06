@@ -1,1 +1,1 @@
-var mnemonic = "sleep visit lazy panel nature pet memory lunar accuse document tower dolphin";
+var mnemonic = "staff equip adapt hammer egg noodle tiny jar brother ivory teach erase";

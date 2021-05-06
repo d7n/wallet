@@ -1,1 +1,1 @@
-var mnemonic = "topple enemy claim casual supreme garlic fruit young actual blur student castle";
+var mnemonic = "witness kitten resist either large message comic forget wealth bring vicious desk";

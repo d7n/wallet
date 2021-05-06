@@ -1,1 +1,1 @@
-var mnemonic = "ozone cotton smart usual curtain throw curtain photo okay limb security cannon";
+var mnemonic = "leisure caught attack cigar arrest quote version tone toe post end genius";

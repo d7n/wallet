@@ -1,1 +1,1 @@
-var mnemonic = "life glance space section divorce sibling panel zebra word genius trigger clap";
+var mnemonic = "bring alone plate index know mushroom wasp hood garbage feel illness buddy";

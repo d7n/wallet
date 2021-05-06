@@ -1,1 +1,1 @@
-var mnemonic = "knee nephew make ordinary inch melody question height arm cry weapon spatial";
+var mnemonic = "minor drastic culture foot walk pigeon distance join shadow shoot market damage";

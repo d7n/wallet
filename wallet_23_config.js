@@ -1,1 +1,1 @@
-var mnemonic = "sing off tribe price flee rescue apple fiber stove camera left cream";
+var mnemonic = "sweet peace famous frost clown outer fine furnace frog festival flee wonder";

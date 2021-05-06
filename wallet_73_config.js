@@ -1,1 +1,1 @@
-var mnemonic = "equal skill aisle copper ginger vacuum east turtle grocery lesson race sun";
+var mnemonic = "virtual zone already capable coffee describe merry easy physical image derive depend";

@@ -1,1 +1,1 @@
-var mnemonic = "boost silly unknown typical mountain endless angle tragic stock essence bean destroy";
+var mnemonic = "ankle rich credit shine extra romance hen push member devote camp rib";

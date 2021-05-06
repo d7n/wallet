@@ -1,1 +1,1 @@
-var mnemonic = "audit waste wonder canoe update wheel people panther dolphin grape board slim";
+var mnemonic = "twenty youth dinosaur dismiss surprise course year tiger wine logic later slush";

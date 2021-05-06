@@ -1,1 +1,1 @@
-var mnemonic = "proud review cloud tide silk neither tobacco ethics body news month room";
+var mnemonic = "expand father pizza various daring urge trial bunker salad festival pumpkin script";

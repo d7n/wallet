@@ -1,1 +1,1 @@
-var mnemonic = "able spirit fox tackle rely hip develop fantasy ritual panel web october";
+var mnemonic = "exercise embody leader arrange kid repair obey outer trend energy off couch";

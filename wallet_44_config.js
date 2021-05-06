@@ -1,1 +1,1 @@
-var mnemonic = "orient thank canal glide lion wrestle panda south wall amazing whisper polar";
+var mnemonic = "garlic skate slam erupt tray prosper mesh mixed live master orient budget";

@@ -1,1 +1,1 @@
-var mnemonic = "degree clever deer diet glass roast wet obey happy kiss beach distance";
+var mnemonic = "level begin turn zone soup tool armor soda frequent shoulder stay battle";

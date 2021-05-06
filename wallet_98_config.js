@@ -1,1 +1,1 @@
-var mnemonic = "dolphin extend federal update second correct tackle furnace code palace smoke roof";
+var mnemonic = "fancy dawn resource finish attack desk mushroom clinic blame auto refuse multiply";

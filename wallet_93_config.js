@@ -1,1 +1,1 @@
-var mnemonic = "jungle nothing angry ridge crawl useful fine crouch remind rhythm pudding link";
+var mnemonic = "before page wing place potato carpet warfare history learn drama pitch unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort pride era motor vault suspect travel diary ready west casual wrap";
+var mnemonic = "invest improve poem nuclear erode danger depth sad sunny elite arrange property";

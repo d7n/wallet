@@ -1,1 +1,1 @@
-var mnemonic = "simple credit feed record rookie energy bachelor error scan morning device drop";
+var mnemonic = "turtle rather this crash space outdoor cost layer enact travel monitor identify";

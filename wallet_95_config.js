@@ -1,1 +1,1 @@
-var mnemonic = "melt behave drama bachelor demand veteran expand boost year anger end urban";
+var mnemonic = "middle dove inner indoor coach off slide symptom twice squeeze pet wild";

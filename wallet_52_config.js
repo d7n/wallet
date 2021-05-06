@@ -1,1 +1,1 @@
-var mnemonic = "wear vehicle borrow name endorse festival ivory civil private basic joy range";
+var mnemonic = "gun certain useless crane kingdom rate cage hire chef position sand original";

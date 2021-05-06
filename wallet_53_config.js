@@ -1,1 +1,1 @@
-var mnemonic = "stick charge jeans cabbage mule next barrel already outdoor such crowd sound";
+var mnemonic = "model chair profit onion gap stage else advice breeze nut hello lyrics";

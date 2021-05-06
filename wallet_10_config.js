@@ -1,1 +1,1 @@
-var mnemonic = "armor scissors ritual hire type obscure build sustain squirrel air december rate";
+var mnemonic = "good dolphin universe critic outside country meat goat remind fresh cloud dentist";

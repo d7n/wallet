@@ -1,1 +1,1 @@
-var mnemonic = "bargain student notable embrace prepare vital hunt wing ticket often source genre";
+var mnemonic = "few limit coin oven pledge region exhaust fetch slim cigar small essay";

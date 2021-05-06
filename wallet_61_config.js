@@ -1,1 +1,1 @@
-var mnemonic = "burden artefact visit party table moon call security library eagle yard dinner";
+var mnemonic = "cash famous ginger crane now glory horn pelican garden hobby stomach castle";

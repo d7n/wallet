@@ -1,1 +1,1 @@
-var mnemonic = "more hunt simple joke wonder hen wife indoor silly vivid solution just";
+var mnemonic = "exercise valve tonight satoshi afford achieve raven admit network fox peanut dignity";

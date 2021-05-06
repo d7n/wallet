@@ -1,1 +1,1 @@
-var mnemonic = "lion sing space opera chunk cliff similar thought resource minor royal follow";
+var mnemonic = "guess noise ten turtle ensure alcohol response tribe panther matrix junior perfect";

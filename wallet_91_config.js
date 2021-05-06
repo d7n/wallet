@@ -1,1 +1,1 @@
-var mnemonic = "stumble wage shove six hello slab system member fold amount neck glass";
+var mnemonic = "detect crater town blossom bleak oppose animal series mean burst audit sausage";

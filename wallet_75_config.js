@@ -1,1 +1,1 @@
-var mnemonic = "brush virus mom two lake client entry young keep rough lunar frame";
+var mnemonic = "style iron idea reflect you fit awkward cupboard stereo hat clerk fury";

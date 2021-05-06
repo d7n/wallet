@@ -1,1 +1,1 @@
-var mnemonic = "metal leave moon among jacket radio edit dose short axis uniform clock";
+var mnemonic = "knock stadium panel wear owner early person merry guide father antique bird";

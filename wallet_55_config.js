@@ -1,1 +1,1 @@
-var mnemonic = "demise wear attitude arctic skirt sort purchase cargo dad nominee cable silk";
+var mnemonic = "forward close point trumpet leg arrange apart scare holiday ceiling range cube";

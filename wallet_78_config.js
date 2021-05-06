@@ -1,1 +1,1 @@
-var mnemonic = "second emotion custom opera mass laundry legend ride beef ripple obscure august";
+var mnemonic = "idea noodle taste until city inhale vote foster obscure march patch extend";

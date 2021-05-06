@@ -1,1 +1,1 @@
-var mnemonic = "pair diesel innocent lonely pulp desk door horn seminar solar ride lyrics";
+var mnemonic = "poem solve space involve quit access text turtle song vast innocent usual";

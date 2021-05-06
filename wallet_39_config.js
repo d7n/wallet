@@ -1,1 +1,1 @@
-var mnemonic = "chase smoke digital purchase slab autumn fault nurse luxury limit razor ritual";
+var mnemonic = "over draft exhibit unit stone silver used cage basket tribe outdoor alcohol";

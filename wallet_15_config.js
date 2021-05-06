@@ -1,1 +1,1 @@
-var mnemonic = "exhibit taste clever ask unit wear wink age zoo mobile rule once";
+var mnemonic = "enter capable entire fame cargo excess quality gym metal frame then area";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden road fog aware arch text point minor excite dish text shrug";
+var mnemonic = "drink pet artefact govern coral mosquito siege profit opinion canyon spoon slogan";

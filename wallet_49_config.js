@@ -1,1 +1,1 @@
-var mnemonic = "sting exact certain business solar notice clutch patrol destroy sustain drama velvet";
+var mnemonic = "desert vast asset affair holiday play peace actor card insect sugar boring";

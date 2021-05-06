@@ -1,1 +1,1 @@
-var mnemonic = "grass tell myself entire pizza weekend during dial rather confirm tumble labor";
+var mnemonic = "pave click acoustic legal finish tray hospital debris hat argue excuse profit";

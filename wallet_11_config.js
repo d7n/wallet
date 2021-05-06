@@ -1,1 +1,1 @@
-var mnemonic = "multiply skull gauge envelope inquiry alcohol hungry text decade soda very drill";
+var mnemonic = "tortoise quality fruit stick only normal fee require basic truck enforce taste";

@@ -1,1 +1,1 @@
-var mnemonic = "manual damage happy box together opinion mixed panel voice hazard exotic gesture";
+var mnemonic = "range defense ritual birth city force quick ginger birth mesh crystal century";

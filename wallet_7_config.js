@@ -1,1 +1,1 @@
-var mnemonic = "board frozen act tuition spatial describe moral access tube penalty grace magnet";
+var mnemonic = "ten tray pipe best soda brass keen enhance dynamic abuse cactus height";

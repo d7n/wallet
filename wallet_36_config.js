@@ -1,1 +1,1 @@
-var mnemonic = "chief famous pink penalty lava report write omit average learn soap pink";
+var mnemonic = "say jewel unknown brisk little chronic truck leisure feel bottom brief rain";

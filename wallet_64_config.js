@@ -1,1 +1,1 @@
-var mnemonic = "follow trend effort brief salmon crew display slush liar raven share mirror";
+var mnemonic = "wreck noise vast rebel critic metal ask zoo wide umbrella sphere exile";

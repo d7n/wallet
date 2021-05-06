@@ -1,1 +1,1 @@
-var mnemonic = "guitar shoulder diesel divert grant enemy left vote legend romance liar strike";
+var mnemonic = "search brick share attend surge auto nominee art piano govern heavy host";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum hospital seven service direct insect bind mail tell size current cup";
+var mnemonic = "obscure grain pig then resist unfair rebuild task leader flock sand rifle";

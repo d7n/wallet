@@ -1,1 +1,1 @@
-var mnemonic = "drama innocent around toast exist boy glide text tooth glare property swap";
+var mnemonic = "auction twist cherry cruel divorce color genius episode brown amazing achieve autumn";

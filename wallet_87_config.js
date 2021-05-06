@@ -1,1 +1,1 @@
-var mnemonic = "enable choice destroy matter expire spy define legal cement couple street street";
+var mnemonic = "olive warm auction fox isolate cannon project dish nerve meadow sister text";

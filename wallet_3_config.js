@@ -1,1 +1,1 @@
-var mnemonic = "inquiry act copy arrange rely frog snow attack fine meat horror narrow";
+var mnemonic = "illegal dinner race vessel awkward volcano cloth rally update attract raw ethics";

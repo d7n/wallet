@@ -1,1 +1,1 @@
-var mnemonic = "wall party mechanic humor company glove student only gadget type topple top";
+var mnemonic = "elite echo album balcony glue host divorce arena leg abuse same idle";

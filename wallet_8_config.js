@@ -1,1 +1,1 @@
-var mnemonic = "merry link bubble predict high royal patrol forest fiction zone plate derive";
+var mnemonic = "crush couch box connect blue night fiscal satoshi welcome veteran bracket visual";

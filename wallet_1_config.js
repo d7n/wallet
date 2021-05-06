@@ -1,1 +1,1 @@
-var mnemonic = "during evidence doll tribe allow correct style vintage observe orchard modify dish";
+var mnemonic = "spawn east life ready page media drama client impose jewel clip later";

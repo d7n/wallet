@@ -1,1 +1,1 @@
-var mnemonic = "update arrive blanket biology base glass much brick satisfy start evidence sight";
+var mnemonic = "bomb wolf tilt ripple fiction visa garage document curve blossom chat mix";

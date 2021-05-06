@@ -1,1 +1,1 @@
-var mnemonic = "doll advance woman point disorder club strong search gun suffer stem worth";
+var mnemonic = "ski emerge buffalo loyal oven pepper mosquito search gym fever moment spider";

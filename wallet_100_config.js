@@ -1,1 +1,1 @@
-var mnemonic = "then aware allow toward deliver mosquito hood able crew inspire apple between";
+var mnemonic = "drift lottery age decade observe nuclear double snow you paper behind blossom";

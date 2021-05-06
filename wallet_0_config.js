@@ -1,1 +1,1 @@
-var mnemonic = "slush begin weird true letter judge mandate situate fan person fit present";
+var mnemonic = "stereo spread draft priority turtle smart model wing rally outside antenna shadow";
