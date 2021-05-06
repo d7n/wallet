@@ -1,1 +1,1 @@
-var mnemonic = "leave tuna era section wasp easy sort marble million outdoor tower mass";
+var mnemonic = "payment warfare west mouse reopen wolf market cushion amazing wrap mean portion";

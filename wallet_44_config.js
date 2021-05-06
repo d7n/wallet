@@ -1,1 +1,1 @@
-var mnemonic = "issue bless math side nasty artwork innocent moral surge virtual dog night";
+var mnemonic = "often neither hint hunt casual grass slender practice cigar spike one coil";

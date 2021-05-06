@@ -1,1 +1,1 @@
-var mnemonic = "horror speak fitness swim lecture gauge addict section give ecology combine pride";
+var mnemonic = "uphold knee alley patch sail pizza element resource sure shock slot connect";

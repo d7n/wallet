@@ -1,1 +1,1 @@
-var mnemonic = "wonder invest despair isolate pill inmate know dash whisper border giant wink";
+var mnemonic = "grape afraid vocal guard try almost just flower dream calm pride educate";

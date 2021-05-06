@@ -1,1 +1,1 @@
-var mnemonic = "message inquiry approve surface control enact sudden journey wonder dragon spring prize";
+var mnemonic = "fuel rocket dirt win wonder beef nation click involve retreat entry tunnel";

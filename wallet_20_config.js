@@ -1,1 +1,1 @@
-var mnemonic = "empty rule math priority cabbage garlic rural pause say title miss oxygen";
+var mnemonic = "fit brain erosion advice gadget fruit symptom shop wrestle cotton vendor joke";

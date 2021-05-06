@@ -1,1 +1,1 @@
-var mnemonic = "news fringe bid crisp cigar degree tag pelican reform gauge fresh foster";
+var mnemonic = "tiger inch spread swamp process syrup fame science flight actress tennis color";

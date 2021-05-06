@@ -1,1 +1,1 @@
-var mnemonic = "stay master regret zoo usual robot soon enact bleak traffic bullet habit";
+var mnemonic = "luggage april artefact salon identify fresh hobby venue lock nut nose damp";

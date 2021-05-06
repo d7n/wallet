@@ -1,1 +1,1 @@
-var mnemonic = "comfort carbon tip section below boat excuse blue shiver foster fall trumpet";
+var mnemonic = "detail off acoustic law direct vessel labor erode fever dance wild frequent";

@@ -1,1 +1,1 @@
-var mnemonic = "immune fame key economy short distance point gold time appear point pride";
+var mnemonic = "account apology genius light permit manual kite armor video amazing spare owner";

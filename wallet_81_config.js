@@ -1,1 +1,1 @@
-var mnemonic = "other mutual plunge vote soft dignity cross turn female rigid hurry source";
+var mnemonic = "gun test filter fitness critic mimic romance purity mad glue impact tobacco";

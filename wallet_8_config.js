@@ -1,1 +1,1 @@
-var mnemonic = "useless tuna panda culture fresh network series noodle balcony bundle way frog";
+var mnemonic = "abandon brain knife find open spot safe census opera peace family wage";

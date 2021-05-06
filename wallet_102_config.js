@@ -1,1 +1,1 @@
-var mnemonic = "blind just raw obtain flame add injury bless require large coil cable";
+var mnemonic = "abandon vote can close glide ridge auction corn impulse dice cave agent";

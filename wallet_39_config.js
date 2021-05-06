@@ -1,1 +1,1 @@
-var mnemonic = "witness federal identify device response shrimp senior scene feed tiger skull era";
+var mnemonic = "call raven license accident doctor swing story ride stone unknown gravity banana";

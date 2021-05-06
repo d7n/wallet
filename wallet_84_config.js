@@ -1,1 +1,1 @@
-var mnemonic = "luggage north render west legend oval armor phone speak chuckle border people";
+var mnemonic = "old fantasy risk frown produce impose guess bean chaos topple kiss script";

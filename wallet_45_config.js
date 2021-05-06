@@ -1,1 +1,1 @@
-var mnemonic = "mansion bleak spread post guess layer faint cherry pair rate antenna eye";
+var mnemonic = "blur bulb cat garlic amateur rookie truth ecology execute attract peanut auto";

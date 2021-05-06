@@ -1,1 +1,1 @@
-var mnemonic = "river toast poverty alien famous aerobic pudding end entry unit name divert";
+var mnemonic = "purpose rather token dizzy blood army dice sell come student velvet cycle";

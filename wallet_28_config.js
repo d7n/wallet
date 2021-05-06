@@ -1,1 +1,1 @@
-var mnemonic = "party enter head cake fitness wasp try magic repair client judge pulse";
+var mnemonic = "resemble jump squeeze force lizard index sadness topple vast crystal humble fine";

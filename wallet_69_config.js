@@ -1,1 +1,1 @@
-var mnemonic = "shadow young wire tag pretty stumble host twelve lunch strategy alarm ordinary";
+var mnemonic = "report rural belt viable soap hawk plunge zone flame life crisp win";

@@ -1,1 +1,1 @@
-var mnemonic = "panic train half hurt pole search shift hedgehog village rigid arrive mechanic";
+var mnemonic = "wash melody crime castle cotton hen roast castle child divorce sight kite";

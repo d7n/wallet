@@ -1,1 +1,1 @@
-var mnemonic = "boy flight grit book figure one antenna uphold journey guilt remind word";
+var mnemonic = "library nurse raccoon often earth exchange fiscal galaxy recall maximum sadness debris";

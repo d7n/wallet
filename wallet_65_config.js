@@ -1,1 +1,1 @@
-var mnemonic = "long style ordinary egg spice deer adult assist fine update coconut sheriff";
+var mnemonic = "crew iron awesome grid scissors buzz ladder route witness weird cause wild";

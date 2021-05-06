@@ -1,1 +1,1 @@
-var mnemonic = "journey fetch mail later feature battle rapid patch warm vacuum enjoy sunset";
+var mnemonic = "industry voice camera run simple asset picnic side shell journey plate beyond";

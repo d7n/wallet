@@ -1,1 +1,1 @@
-var mnemonic = "tiny guard domain toy dash increase opera like picture pill usual coconut";
+var mnemonic = "vivid input foam entry science slush awkward badge pretty wheat pioneer sign";

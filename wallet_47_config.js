@@ -1,1 +1,1 @@
-var mnemonic = "soup either print shove cushion only original effort sense street crop furnace";
+var mnemonic = "sniff basic ozone upon record able mirror once rain suspect attitude device";

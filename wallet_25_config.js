@@ -1,1 +1,1 @@
-var mnemonic = "gift medal swamp boat advice female pioneer early warm easily sunny people";
+var mnemonic = "race treat blind pupil depart romance tube dolphin size purse bulb glance";

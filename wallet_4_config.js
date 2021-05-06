@@ -1,1 +1,1 @@
-var mnemonic = "foot exile fame ready night foot mobile leaf outdoor soap fashion vehicle";
+var mnemonic = "dad want swear upgrade hundred volume run stage grant nominee eye guide";

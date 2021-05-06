@@ -1,1 +1,1 @@
-var mnemonic = "fit slow claim thunder tourist lock void person solution boost olympic churn";
+var mnemonic = "elephant sentence sentence any sample clap combine clip reopen resource shy match";

@@ -1,1 +1,1 @@
-var mnemonic = "gain travel trophy point follow swallow south put join negative wash debris";
+var mnemonic = "urban broken pulp panther almost width leisure raven shield banner lunch shaft";

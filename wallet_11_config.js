@@ -1,1 +1,1 @@
-var mnemonic = "arrive valid curve rigid wall junk kiss hotel leaf huge alone tired";
+var mnemonic = "negative order napkin device celery identify decide elite tone just arrange initial";

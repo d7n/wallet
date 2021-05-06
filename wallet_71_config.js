@@ -1,1 +1,1 @@
-var mnemonic = "miss glare carbon baby point session silver twelve today together spread position";
+var mnemonic = "creek unusual attend focus clog attend job mystery illegal need reform prosper";

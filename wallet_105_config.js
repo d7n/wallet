@@ -1,1 +1,1 @@
-var mnemonic = "trumpet assume wool antique depart potato rally produce casino jump feed piece";
+var mnemonic = "shadow fatigue jungle title dawn warrior possible alpha fatigue load pet unable";

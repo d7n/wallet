@@ -1,1 +1,1 @@
-var mnemonic = "awful wink grow patient melt lemon taxi tornado tuna pelican film impose";
+var mnemonic = "buyer hood edit artist cage judge similar similar host turtle search icon";

@@ -1,1 +1,1 @@
-var mnemonic = "unable narrow lawsuit faculty achieve razor gesture voice rescue gospel busy wreck";
+var mnemonic = "square clinic favorite accident blush allow slim scrub consider stereo guard dose";

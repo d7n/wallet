@@ -1,1 +1,1 @@
-var mnemonic = "quantum swing make rough uphold cluster damage coyote cannon question motion family";
+var mnemonic = "leg wrist math trumpet page response glory shiver next upgrade fog work";

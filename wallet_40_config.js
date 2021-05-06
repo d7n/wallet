@@ -1,1 +1,1 @@
-var mnemonic = "brown shuffle behave ecology rough tired toy hamster mail hamster secret secret";
+var mnemonic = "hotel remove minute copy ancient ice plate dwarf street giant disease rib";

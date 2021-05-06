@@ -1,1 +1,1 @@
-var mnemonic = "hollow nothing erode friend stem humble phrase armed chalk entire benefit trigger";
+var mnemonic = "midnight peanut legend undo crack dry trash inform sell garlic plug adapt";

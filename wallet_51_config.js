@@ -1,1 +1,1 @@
-var mnemonic = "joke laugh also game wave elbow bring weather guitar snake tiny predict";
+var mnemonic = "shrimp right method stand skin sun busy robot green prize slogan price";

@@ -1,1 +1,1 @@
-var mnemonic = "extend coconut make public same network impulse cabbage swear have spray million";
+var mnemonic = "amount team dice knee olive rabbit neglect spend vault blade brisk tribe";

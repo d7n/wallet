@@ -1,1 +1,1 @@
-var mnemonic = "amount foster recipe bullet skate impulse mule guilt iron give dizzy escape";
+var mnemonic = "machine head close cake cook outer company brief glimpse repair hood frozen";

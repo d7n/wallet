@@ -1,1 +1,1 @@
-var mnemonic = "senior minimum tell net sister enjoy polar tag afford atom eight whale";
+var mnemonic = "street addict eight urge tree cross unfair clap conduct olympic inch pelican";

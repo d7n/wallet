@@ -1,1 +1,1 @@
-var mnemonic = "better remain flee pen visit property citizen physical decide carpet useful april";
+var mnemonic = "merge woman strong must obey force shrug fox bridge speak sick stock";

@@ -1,1 +1,1 @@
-var mnemonic = "almost crumble ensure all wish organ exclude paper enter purpose unique crash";
+var mnemonic = "boy motion marine journey paddle spring memory reunion sort surge feel cricket";

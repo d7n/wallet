@@ -1,1 +1,1 @@
-var mnemonic = "jacket farm elevator board all arm joy wreck during choice little action";
+var mnemonic = "census below pulp pact enroll vessel true focus volume theory volume stumble";

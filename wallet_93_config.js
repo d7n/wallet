@@ -1,1 +1,1 @@
-var mnemonic = "frog lemon welcome casual extra saddle same plunge cannon protect faint wedding";
+var mnemonic = "cup often pulse space rotate harbor protect payment various absurd torch rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow cross what daughter corn embark winner spot online tennis owner spawn";
+var mnemonic = "scan vivid jaguar attend ramp pitch soon wheel rookie crop pen mango";

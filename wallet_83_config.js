@@ -1,1 +1,1 @@
-var mnemonic = "ancient purse spot piano long beach stadium cart suspect notice brick faith";
+var mnemonic = "hello only mother bright custom betray join item blade blanket world feel";

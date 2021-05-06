@@ -1,1 +1,1 @@
-var mnemonic = "duck scout resist original brick rookie grass rare pyramid already frog special";
+var mnemonic = "lemon eight hurdle sausage involve park code siege potato embark annual gun";

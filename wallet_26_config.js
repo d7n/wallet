@@ -1,1 +1,1 @@
-var mnemonic = "upon balance tank ability nothing ocean fix effort fence bomb awful congress";
+var mnemonic = "portion tonight moral cover settle parent dismiss guitar enable flock wire destroy";

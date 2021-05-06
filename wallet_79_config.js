@@ -1,1 +1,1 @@
-var mnemonic = "forward half seminar ticket empty shine tennis match million party carpet affair";
+var mnemonic = "rose verify brand adult club rate fox trip diamond loan earth chapter";

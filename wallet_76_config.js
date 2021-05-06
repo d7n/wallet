@@ -1,1 +1,1 @@
-var mnemonic = "head upgrade venture swift verify bronze abuse clog magic damp garage sunny";
+var mnemonic = "sweet swear pottery music rebel lab cloth tide virtual rebel juice become";

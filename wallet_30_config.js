@@ -1,1 +1,1 @@
-var mnemonic = "expire series peasant ridge clinic history decline novel brick kid orchard fatigue";
+var mnemonic = "extra swing radio brisk work appear govern snake music inhale sell demise";

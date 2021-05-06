@@ -1,1 +1,1 @@
-var mnemonic = "hour virus language assault pupil witness dragon unit credit cheese napkin scheme";
+var mnemonic = "cheap issue when try flat anchor breeze robust shift please law wisdom";

@@ -1,1 +1,1 @@
-var mnemonic = "fashion genuine huge setup trick shrug shallow proof stomach voyage extend noodle";
+var mnemonic = "victory hero wedding market analyst scan easily enforce crisp wash portion shrug";

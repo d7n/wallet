@@ -1,1 +1,1 @@
-var mnemonic = "hip outside very wealth taste input time guard unlock replace all team";
+var mnemonic = "robot random kitten dry estate setup essay canvas arm laundry mutual innocent";

@@ -1,1 +1,1 @@
-var mnemonic = "segment outdoor shoe talk slush tip love awesome mechanic source rural sand";
+var mnemonic = "pet celery dust frozen artist rib hundred save region sister slender sign";

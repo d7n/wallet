@@ -1,1 +1,1 @@
-var mnemonic = "motor body add chapter weekend disagree decide fee system echo describe promote";
+var mnemonic = "weekend balance three talent crew coconut jelly still action web reform predict";

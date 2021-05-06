@@ -1,1 +1,1 @@
-var mnemonic = "disagree vault sleep text artwork latin banana flock loud small industry cute";
+var mnemonic = "draft bracket hero fetch gauge much gather flower misery copy citizen raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "reject broom broom proud tackle sure kite mix panda motor coral vapor";
+var mnemonic = "typical reflect width slim oval library alert file strike nephew regret best";

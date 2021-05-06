@@ -1,1 +1,1 @@
-var mnemonic = "slide rural angle wide pool flight illness tumble rain announce meadow neglect";
+var mnemonic = "noise long knock sugar possible vote dragon version video relax mushroom symptom";

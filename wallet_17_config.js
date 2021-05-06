@@ -1,1 +1,1 @@
-var mnemonic = "obey helmet summer vocal animal jazz harvest floor fiscal grocery flee such";
+var mnemonic = "deputy grief access leg casual six school rate lazy apple drift champion";

@@ -1,1 +1,1 @@
-var mnemonic = "portion dice scout afford subway exchange morning mirror spike hover enroll food";
+var mnemonic = "logic brother solve tell erupt advice detect appear flag ensure ridge skin";

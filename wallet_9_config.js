@@ -1,1 +1,1 @@
-var mnemonic = "junior safe wrestle scrub rotate muscle beauty duty twelve case donor person";
+var mnemonic = "crumble gaze decade lucky pretty pepper cement shaft fade eagle thought wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "gap copy rocket original power correct laugh venue mouse any spoil pole";
+var mnemonic = "force ancient please wild panda swear public use shaft net wrap drill";

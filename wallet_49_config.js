@@ -1,1 +1,1 @@
-var mnemonic = "ski sibling loud clever century student observe boil service banner siren fashion";
+var mnemonic = "object moral betray heart picture gadget enforce outside snap plate army cruel";

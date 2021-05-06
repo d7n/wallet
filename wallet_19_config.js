@@ -1,1 +1,1 @@
-var mnemonic = "filter palace tone prosper correct lottery glove tongue mystery rapid scissors off";
+var mnemonic = "snake unfair present display wage tent duck hamster fruit latin lake fit";

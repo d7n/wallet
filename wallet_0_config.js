@@ -1,1 +1,1 @@
-var mnemonic = "humor learn tide giraffe require glance torch pipe glow damp unhappy next";
+var mnemonic = "fix family kitten special useful wagon neither print knock apology voyage liar";

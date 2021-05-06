@@ -1,1 +1,1 @@
-var mnemonic = "crumble base section just pride chicken language lonely fury into wise melody";
+var mnemonic = "december canoe wave smoke enable genre width wall interest favorite kid sudden";

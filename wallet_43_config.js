@@ -1,1 +1,1 @@
-var mnemonic = "because state cave veteran quick enjoy either habit isolate expect switch notable";
+var mnemonic = "already alcohol accident bless original envelope clutch screen wolf mammal law tray";

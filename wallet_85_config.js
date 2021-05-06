@@ -1,1 +1,1 @@
-var mnemonic = "absorb border follow cycle doctor salon front twelve burst nice tunnel visa";
+var mnemonic = "raw sail weapon result grace material earn fortune theme swing shell rely";

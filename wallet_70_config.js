@@ -1,1 +1,1 @@
-var mnemonic = "field blur lion shock spice satoshi august act small peasant simple diet";
+var mnemonic = "dinner silly embrace stick replace scene bean pet estate pattern stage income";

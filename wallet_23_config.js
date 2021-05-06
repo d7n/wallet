@@ -1,1 +1,1 @@
-var mnemonic = "river great mountain casino focus engage story wear original alien visa raccoon";
+var mnemonic = "jazz dilemma relax section unfold average wrestle gossip tackle vendor economy tuna";

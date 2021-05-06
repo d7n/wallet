@@ -1,1 +1,1 @@
-var mnemonic = "sunset unfair dentist hobby interest paper crisp suffer piano hover deal arch";
+var mnemonic = "pond chimney crouch glove apology swim gesture salon speak husband stereo zoo";

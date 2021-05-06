@@ -1,1 +1,1 @@
-var mnemonic = "bulb hip across remove muscle lecture minor solution life unable salute kiwi";
+var mnemonic = "elephant asthma robust element black write borrow foil pupil arctic thought rely";

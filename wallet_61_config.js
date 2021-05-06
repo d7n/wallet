@@ -1,1 +1,1 @@
-var mnemonic = "crystal typical forget now elite amateur strike day simple coin lion reward";
+var mnemonic = "expire salon little agent common craft rib sad fox miracle wing drift";

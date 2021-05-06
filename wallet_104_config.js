@@ -1,1 +1,1 @@
-var mnemonic = "master copper retreat pyramid auction floor flag verify fever flat plug label";
+var mnemonic = "repeat valid broken ensure diesel voyage pretty slow fire time warm around";

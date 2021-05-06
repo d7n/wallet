@@ -1,1 +1,1 @@
-var mnemonic = "admit candy prevent lion double history knife latin arrest enroll human nerve";
+var mnemonic = "please either domain liar couch divert road situate morning hair tray exotic";

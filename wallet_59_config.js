@@ -1,1 +1,1 @@
-var mnemonic = "equip false video upon utility control long require tongue cube seminar equal";
+var mnemonic = "soft arrow audit region present firm resemble nest pretty rack project crazy";

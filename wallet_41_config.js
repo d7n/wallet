@@ -1,1 +1,1 @@
-var mnemonic = "swamp illegal borrow quit paper mansion near spawn mom ball harsh morning";
+var mnemonic = "myth orange usage video harsh people effort together seven you drastic error";

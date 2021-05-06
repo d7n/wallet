@@ -1,1 +1,1 @@
-var mnemonic = "uncover art kingdom scrap spirit among clerk poverty useless month inner enact";
+var mnemonic = "stand code rookie explain simple enemy wire term cattle dose faith sleep";

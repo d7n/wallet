@@ -1,1 +1,1 @@
-var mnemonic = "dolphin there cake wild early current quit another sister wing flame rifle";
+var mnemonic = "coral shell outside machine disorder fit happy hundred leave mystery material summer";

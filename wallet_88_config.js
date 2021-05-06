@@ -1,1 +1,1 @@
-var mnemonic = "remind shift month wire actor deer wrong mouse cross couple liberty outside";
+var mnemonic = "agree catalog play mouse brick broom bounce often surprise cancel gallery fame";

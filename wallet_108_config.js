@@ -1,1 +1,1 @@
-var mnemonic = "receive absorb oil initial wear attitude boy license year squirrel ridge robot";
+var mnemonic = "impose dolphin recall name slice divide noble mind warfare equal romance doctor";

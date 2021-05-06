@@ -1,1 +1,1 @@
-var mnemonic = "rent leopard above digital wrap brisk utility fresh sibling police rent busy";
+var mnemonic = "ask wheat album rain joke cinnamon oppose crisp simple man lucky bean";

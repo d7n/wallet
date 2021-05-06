@@ -1,1 +1,1 @@
-var mnemonic = "injury hover gallery crash click twenty hope gadget damage assist three orchard";
+var mnemonic = "clog ask run bless solar salmon artist merry jeans spoon install lunar";

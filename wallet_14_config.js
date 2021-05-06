@@ -1,1 +1,1 @@
-var mnemonic = "indoor reopen broken clay despair ranch budget bread blossom vague maximum wisdom";
+var mnemonic = "consider excess ridge loud race style drive tube there consider midnight exchange";

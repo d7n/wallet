@@ -1,1 +1,1 @@
-var mnemonic = "evidence panther convince acquire tongue federal put galaxy obtain nominee envelope setup";
+var mnemonic = "whip fury clump differ ripple hero benefit eternal deposit velvet family item";

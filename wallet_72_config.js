@@ -1,1 +1,1 @@
-var mnemonic = "struggle robot soon quote enlist network warm thrive arena engage lobster bridge";
+var mnemonic = "make drum hero ancient runway outer uncle stadium model focus nature battle";

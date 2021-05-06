@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog digital purse cross weekend scene urban poverty theme wink mean either";
+var mnemonic = "hobby dry vapor person brain vibrant act meat swarm worry income rent";

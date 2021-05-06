@@ -1,1 +1,1 @@
-var mnemonic = "relax endorse wish length image series priority cricket crowd guess next soccer";
+var mnemonic = "luggage submit defy stay exhaust glide lecture sentence denial boring dizzy tank";

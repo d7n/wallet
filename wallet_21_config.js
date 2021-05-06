@@ -1,1 +1,1 @@
-var mnemonic = "viable divert provide bomb attitude badge glance box ketchup civil welcome cargo";
+var mnemonic = "slam diet giraffe whip youth love rival because rich one puzzle damp";
