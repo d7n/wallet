@@ -1,1 +1,1 @@
-var mnemonic = "turkey under neutral army mother settle debate floor drama useful modify timber";
+var mnemonic = "radar spy ritual dice adapt voyage slush loan anxiety chest indicate knife";

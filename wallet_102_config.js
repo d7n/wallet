@@ -1,1 +1,1 @@
-var mnemonic = "member huge range climb oxygen fix multiply layer shift draft myself crop";
+var mnemonic = "mimic goddess extend split vapor weasel parrot oak eight kingdom present fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "harbor cute they once museum remain discover report estate return tomorrow soon";
+var mnemonic = "taxi lucky beyond solve relax argue alter hint night field thunder cheap";

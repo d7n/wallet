@@ -1,1 +1,1 @@
-var mnemonic = "gap rib divorce shell begin dolphin alpha grab garbage kid script unusual";
+var mnemonic = "project monkey possible mystery render buffalo myth elder depart remind license term";

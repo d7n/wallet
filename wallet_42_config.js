@@ -1,1 +1,1 @@
-var mnemonic = "boost public crater still flock deposit artist gentle involve spoon oxygen deny";
+var mnemonic = "deer lawsuit scare hello head east just fog combine nurse office caught";

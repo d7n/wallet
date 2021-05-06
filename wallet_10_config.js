@@ -1,1 +1,1 @@
-var mnemonic = "antenna roast elbow error first differ soul bless quarter tent clay aisle";
+var mnemonic = "yellow junk demand bread silk guard error talk wine muscle track lizard";

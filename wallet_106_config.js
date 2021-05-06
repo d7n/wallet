@@ -1,1 +1,1 @@
-var mnemonic = "tenant push govern ocean weird immune pear cave faint catalog confirm isolate";
+var mnemonic = "hybrid snow slim vapor dinosaur act copy maid garlic lottery gospel slush";

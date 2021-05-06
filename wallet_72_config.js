@@ -1,1 +1,1 @@
-var mnemonic = "reduce festival acoustic oyster direct faith blade spice recall manage alarm bike";
+var mnemonic = "wait balance basket youth lazy glance able beyond regret test path matter";

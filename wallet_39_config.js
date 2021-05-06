@@ -1,1 +1,1 @@
-var mnemonic = "replace define rival custom welcome glue mercy better consider screen grit join";
+var mnemonic = "boss process heart erase indicate area worth say ship frog movie record";

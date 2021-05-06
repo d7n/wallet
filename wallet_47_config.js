@@ -1,1 +1,1 @@
-var mnemonic = "two pact seed artist ride three same wasp settle mountain hero upon";
+var mnemonic = "genuine cool whisper blue warfare auction mirror sunny great pottery either raw";

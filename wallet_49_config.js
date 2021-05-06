@@ -1,1 +1,1 @@
-var mnemonic = "betray return disease poet issue unusual scan cabbage tray token pet around";
+var mnemonic = "chest update caution meat company insane awkward warm sport industry edge mountain";

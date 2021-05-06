@@ -1,1 +1,1 @@
-var mnemonic = "rent breeze response valley march bargain odor repair huge harsh light behave";
+var mnemonic = "empower zero crush version card kingdom seat toe stamp execute shove fit";

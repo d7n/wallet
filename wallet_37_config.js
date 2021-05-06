@@ -1,1 +1,1 @@
-var mnemonic = "humble save dish choose genre town math pupil torch yard enter elder";
+var mnemonic = "three addict outside leaf mad canvas dilemma rabbit soul exotic rabbit include";

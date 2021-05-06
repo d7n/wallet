@@ -1,1 +1,1 @@
-var mnemonic = "discover special borrow uphold also refuse virus raccoon member affair reunion solve";
+var mnemonic = "alter income nephew fortune excite history analyst put globe recall weird scale";

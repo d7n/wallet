@@ -1,1 +1,1 @@
-var mnemonic = "chair memory attract trip soccer tired life quick life way burst absurd";
+var mnemonic = "mystery put stuff faint wine half eagle wash floor abandon clarify quit";

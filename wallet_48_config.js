@@ -1,1 +1,1 @@
-var mnemonic = "seven donkey become motion blame snack slight photo churn aunt legal donkey";
+var mnemonic = "vibrant scissors circle harsh drill relief hope prevent lyrics pause company utility";

@@ -1,1 +1,1 @@
-var mnemonic = "minor miss vacant skin saddle student yard defy under pioneer remind globe";
+var mnemonic = "pelican blouse major pencil unfold burst merry govern demise artwork debris spy";

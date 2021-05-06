@@ -1,1 +1,1 @@
-var mnemonic = "zone render reunion come defense cream this exhaust mixture famous type life";
+var mnemonic = "glimpse fine luggage unlock pupil stock basic trust wrap public olympic coffee";

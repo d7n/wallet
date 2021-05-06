@@ -1,1 +1,1 @@
-var mnemonic = "gas rally organ buddy border exchange uncover gadget level category knock flip";
+var mnemonic = "dismiss recycle survey utility blame split harvest setup eagle admit employ arctic";

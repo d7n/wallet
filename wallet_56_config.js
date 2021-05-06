@@ -1,1 +1,1 @@
-var mnemonic = "cook utility attend chalk ride bench tail galaxy sniff mercy erode belt";
+var mnemonic = "party tattoo phrase tooth error virus layer summer shrug dismiss snap feel";

@@ -1,1 +1,1 @@
-var mnemonic = "they over zone game sniff place lunch hard air avoid chat chair";
+var mnemonic = "boost invite once grief snap soul love brand valve sock copy kiss";

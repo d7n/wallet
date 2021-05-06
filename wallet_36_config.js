@@ -1,1 +1,1 @@
-var mnemonic = "pluck weasel short chronic deputy snack glad setup spider swear depend fly";
+var mnemonic = "mobile inside certain page chronic volcano disorder lonely ivory merit emerge salmon";

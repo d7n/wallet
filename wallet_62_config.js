@@ -1,1 +1,1 @@
-var mnemonic = "inmate side melt sorry much fold abstract biology mesh tribe cram phrase";
+var mnemonic = "dance derive term era screen van destroy guess raven trial half summer";

@@ -1,1 +1,1 @@
-var mnemonic = "expose mom march chronic great stadium very remember edge test dinner train";
+var mnemonic = "valley convince capital grocery fold humor regular sunny access secret trophy method";

@@ -1,1 +1,1 @@
-var mnemonic = "key empower immense pencil magic drop weekend cattle pattern myself aisle tray";
+var mnemonic = "employ floor hope casino snap warfare reveal airport napkin kidney sustain alarm";

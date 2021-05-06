@@ -1,1 +1,1 @@
-var mnemonic = "vicious skate display coin bench yard zoo eternal sound canvas mind enhance";
+var mnemonic = "core boil weasel boil mystery coast arena gallery off cousin diamond high";

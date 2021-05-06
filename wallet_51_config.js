@@ -1,1 +1,1 @@
-var mnemonic = "gauge genre face nice buzz little spider video wrong alien expect fiscal";
+var mnemonic = "ecology target jungle mimic canyon empower liberty motion chair plunge token much";

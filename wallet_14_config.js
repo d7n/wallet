@@ -1,1 +1,1 @@
-var mnemonic = "travel process current tennis start mandate double since also daughter main evolve";
+var mnemonic = "hub bus market kidney topple vague hat situate blue athlete crime kingdom";

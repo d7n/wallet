@@ -1,1 +1,1 @@
-var mnemonic = "floor diet camera solve erase canoe amateur best van oil chef woman";
+var mnemonic = "key wrist air indicate upper scale strategy useless ship document click cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "desk track endorse file common protect fly awake firm joke inquiry spell";
+var mnemonic = "obtain wool village blossom draw spatial brown cage discover hurdle item sleep";

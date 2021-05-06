@@ -1,1 +1,1 @@
-var mnemonic = "kitchen half box weird green law sleep history parrot secret barrel visual";
+var mnemonic = "lunch mass junk coast feel medal wash day can odor pyramid inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "setup spy region oyster legend walnut fatigue extra foster step corn inside";
+var mnemonic = "raise lunch dog spice gauge loan hill burst evolve maple chase office";

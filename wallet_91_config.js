@@ -1,1 +1,1 @@
-var mnemonic = "wrist connect sustain source vague car any broom ordinary novel close gospel";
+var mnemonic = "barrel pattern genius rich sibling release island rabbit casino antique crane much";

@@ -1,1 +1,1 @@
-var mnemonic = "alert grit fabric top senior uniform solar barrel error know retire knee";
+var mnemonic = "hybrid birth gallery glad nasty blind release prefer oval alien crane throw";

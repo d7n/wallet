@@ -1,1 +1,1 @@
-var mnemonic = "club civil tide coil insane hand live proud virtual nuclear month silk";
+var mnemonic = "tenant before emotion jar dust garlic dolphin hire person advice zero same";

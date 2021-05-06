@@ -1,1 +1,1 @@
-var mnemonic = "drum earth dish frown cute judge couch secret save robot can swing";
+var mnemonic = "pause edge guitar punch vapor finger laundry route size walk share ethics";

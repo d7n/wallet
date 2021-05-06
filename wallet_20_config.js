@@ -1,1 +1,1 @@
-var mnemonic = "pluck end copper shuffle blossom bring limb rib cake maximum rely tortoise";
+var mnemonic = "thrive injury off catch design city ridge document echo social legal flight";

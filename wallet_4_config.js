@@ -1,1 +1,1 @@
-var mnemonic = "useful act juice empty fan biology ketchup casual edge olympic accuse drill";
+var mnemonic = "kid drastic often upon correct elegant balance voice tell remember engine verify";

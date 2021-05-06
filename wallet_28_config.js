@@ -1,1 +1,1 @@
-var mnemonic = "fever sniff beach economy predict possible multiply donate air juice excite patch";
+var mnemonic = "confirm table alert divorce modify weather satoshi mansion expect route volcano confirm";

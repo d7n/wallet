@@ -1,1 +1,1 @@
-var mnemonic = "gorilla company chaos panther buyer bottom annual clap card van pistol weekend";
+var mnemonic = "gadget garlic park leisure spot attract refuse iron journey modify gas must";

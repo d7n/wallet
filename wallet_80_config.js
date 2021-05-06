@@ -1,1 +1,1 @@
-var mnemonic = "armed inch vanish never wolf repeat cool royal silver nominee viable record";
+var mnemonic = "sport relief festival ribbon blade kind account tenant grow primary acoustic visit";

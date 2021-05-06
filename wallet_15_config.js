@@ -1,1 +1,1 @@
-var mnemonic = "retreat raw raw stone erase try release rich never enable predict seek";
+var mnemonic = "learn educate kidney vague rib powder flower all sock switch devote marble";

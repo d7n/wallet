@@ -1,1 +1,1 @@
-var mnemonic = "cause reduce garbage style frozen roast position input claw host target push";
+var mnemonic = "apart agent boring elder income diesel excess wife awake sentence above syrup";

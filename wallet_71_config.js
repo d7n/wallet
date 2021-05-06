@@ -1,1 +1,1 @@
-var mnemonic = "champion spot shadow dial soccer now toss discover access road task axis";
+var mnemonic = "tomorrow humble purchase assault scrap alarm area surface room merge mirror where";

@@ -1,1 +1,1 @@
-var mnemonic = "adapt carpet common legend prepare tobacco gadget copper day arena doctor fun";
+var mnemonic = "inquiry private parent fun business extend parrot eternal panda flight seat sausage";

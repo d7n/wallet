@@ -1,1 +1,1 @@
-var mnemonic = "siege cage number lens marine demise dizzy leopard original ritual meat tonight";
+var mnemonic = "dinner symptom fee onion rigid trade collect perfect burden actor tip tuna";

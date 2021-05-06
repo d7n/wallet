@@ -1,1 +1,1 @@
-var mnemonic = "crisp steel surprise cause smart spoon crystal polar morning okay enroll kitchen";
+var mnemonic = "nose blame text mosquito slab gun supply such aspect mass grid hole";

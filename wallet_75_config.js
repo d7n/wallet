@@ -1,1 +1,1 @@
-var mnemonic = "vicious beauty tray ramp junk spring coast live history prize source traffic";
+var mnemonic = "horror hair tent goat manage clutch adapt hollow march friend easy palace";

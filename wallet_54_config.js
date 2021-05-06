@@ -1,1 +1,1 @@
-var mnemonic = "angry rapid panther flee focus bitter impose detail priority leg inhale festival";
+var mnemonic = "enter mind boil order chalk practice special section wood empower inhale belt";

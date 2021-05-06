@@ -1,1 +1,1 @@
-var mnemonic = "salt pioneer buzz now elephant dynamic stumble tube smile snap cat fly";
+var mnemonic = "crystal proud gesture method forum round fine senior private immune tragic excess";

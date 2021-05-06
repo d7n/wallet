@@ -1,1 +1,1 @@
-var mnemonic = "vacant news orient sponsor solid purchase exact circle stock endorse garden economy";
+var mnemonic = "close frame web aerobic pen fault across ozone rather type sample decorate";

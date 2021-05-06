@@ -1,1 +1,1 @@
-var mnemonic = "warfare eye faith exercise curious lottery guilt hunt split isolate roast income";
+var mnemonic = "chapter blast short about coconut volume butter meadow helmet antenna basket type";

@@ -1,1 +1,1 @@
-var mnemonic = "lamp crop chronic fiber champion talent remain interest twelve edge forum buzz";
+var mnemonic = "pistol alter faith goat field gasp uncle mountain nominee lend control digital";

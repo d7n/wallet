@@ -1,1 +1,1 @@
-var mnemonic = "early anger blade elevator patient treat angry screen muffin inside exercise favorite";
+var mnemonic = "game call force mystery snack faith suspect fiber miracle will earn leisure";

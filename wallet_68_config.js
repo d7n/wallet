@@ -1,1 +1,1 @@
-var mnemonic = "treat science diesel swing cram sick lesson auto hire bulk design genius";
+var mnemonic = "tone aunt add math page glimpse field arctic arena strategy bench mosquito";

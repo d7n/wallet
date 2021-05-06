@@ -1,1 +1,1 @@
-var mnemonic = "pencil sight tortoise lake wool verify box palm matrix crystal chaos extend";
+var mnemonic = "hedgehog bacon remove wink grape slight job pond pitch birth client utility";

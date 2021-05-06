@@ -1,1 +1,1 @@
-var mnemonic = "bulk shuffle common better loop bronze way load elephant auto thrive victory";
+var mnemonic = "gentle drill industry object day pride together brisk kite because melody broken";

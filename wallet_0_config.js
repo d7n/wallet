@@ -1,1 +1,1 @@
-var mnemonic = "scissors lawsuit useful lonely mistake cat meat brave avocado buyer august sock";
+var mnemonic = "engage receive segment describe pluck brave aspect enrich faculty drift control ecology";

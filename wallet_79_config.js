@@ -1,1 +1,1 @@
-var mnemonic = "marine garbage fire essence pulse ceiling innocent sword matrix mistake wide flavor";
+var mnemonic = "vessel weather give better roof matrix feed rotate mesh luxury behind shoulder";

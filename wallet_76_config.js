@@ -1,1 +1,1 @@
-var mnemonic = "lemon list evolve zone trade shove romance window duck above code escape";
+var mnemonic = "render palm fix grant swamp help manage inject august shed noble journey";

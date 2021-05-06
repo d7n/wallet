@@ -1,1 +1,1 @@
-var mnemonic = "fortune now moon hope frozen struggle bicycle hockey pulp clutch rocket any";
+var mnemonic = "shrug zone lemon ladder picnic drill affair expire face rifle anger budget";

@@ -1,1 +1,1 @@
-var mnemonic = "close repeat search actual month minor spell coral heavy happy cry few";
+var mnemonic = "child gate wing try copper false spare walnut fit survey wash dolphin";

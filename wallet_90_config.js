@@ -1,1 +1,1 @@
-var mnemonic = "force board flash traffic ice state labor cover board fiction urban rigid";
+var mnemonic = "churn ice price cotton tuna blossom potato eager jacket lava claim antenna";

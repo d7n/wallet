@@ -1,1 +1,1 @@
-var mnemonic = "interest debris display tag net page vehicle focus segment junior onion fever";
+var mnemonic = "liberty alcohol already eight settle razor gasp choose pulse grunt bacon chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "again grab senior legend satoshi siren minor lecture wisdom noodle trick velvet";
+var mnemonic = "link regret spend busy casual fitness reward ethics click gossip claw giggle";

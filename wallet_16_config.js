@@ -1,1 +1,1 @@
-var mnemonic = "begin keep dizzy twelve east creek fame surround emotion nuclear taste strategy";
+var mnemonic = "kite wild catch argue copy chest amateur honey supply knee divide panda";

@@ -1,1 +1,1 @@
-var mnemonic = "welcome scissors ask kitten birth plate weekend extra morning bamboo plate wisdom";
+var mnemonic = "nice salon body category various spatial much plastic notable tooth gospel wait";

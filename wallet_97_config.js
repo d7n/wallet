@@ -1,1 +1,1 @@
-var mnemonic = "ice crawl vehicle upper miracle absurd dilemma ketchup since shoulder juice crowd";
+var mnemonic = "nothing observe pretty embody owner symptom cake steel topic silver video emerge";

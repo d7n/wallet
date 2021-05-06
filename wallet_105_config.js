@@ -1,1 +1,1 @@
-var mnemonic = "bar jump wool argue thought equip sport ordinary observe decrease jeans miss";
+var mnemonic = "real grape general lizard hub salon supply cause double middle submit illegal";

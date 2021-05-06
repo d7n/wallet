@@ -1,1 +1,1 @@
-var mnemonic = "target broccoli seven garage connect monitor pig music marine expire problem curve";
+var mnemonic = "seminar maid motor lava throw speed ahead reflect whip goose admit year";

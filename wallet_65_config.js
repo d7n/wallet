@@ -1,1 +1,1 @@
-var mnemonic = "power kidney sand olive defense bag seed circle cousin rather fee steak";
+var mnemonic = "employ improve winner metal lazy type prosper beauty direct reform favorite scare";

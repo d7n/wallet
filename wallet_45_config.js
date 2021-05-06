@@ -1,1 +1,1 @@
-var mnemonic = "derive father hollow glow scout ribbon scale expose foil crack west unfair";
+var mnemonic = "evoke buffalo patient endless jelly festival artwork tuna hill dragon orbit infant";

@@ -1,1 +1,1 @@
-var mnemonic = "hope champion view flock only claw road steel whisper tongue champion slice";
+var mnemonic = "left cliff party cash autumn unknown twin thank glare cancel increase exhaust";

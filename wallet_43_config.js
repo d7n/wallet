@@ -1,1 +1,1 @@
-var mnemonic = "ten whisper seven eight purity delay ball club local stage worth sister";
+var mnemonic = "bind until theme monkey language object parade kingdom harsh quiz fringe faculty";

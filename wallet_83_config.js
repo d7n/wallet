@@ -1,1 +1,1 @@
-var mnemonic = "cloud remember road because render hedgehog oyster run change thumb anchor miss";
+var mnemonic = "yard analyst genuine never you lizard ignore refuse deny harsh decide input";

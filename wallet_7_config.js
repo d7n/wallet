@@ -1,1 +1,1 @@
-var mnemonic = "fever crumble neck canoe surface fuel mimic sense valve core income convince";
+var mnemonic = "turkey drift dynamic inquiry envelope bronze isolate please regret soda exhaust believe";

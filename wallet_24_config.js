@@ -1,1 +1,1 @@
-var mnemonic = "wing surge answer dignity rebuild copy random wealth credit genius leopard age";
+var mnemonic = "machine silver race anxiety actress rapid drum output turtle equal hour will";

@@ -1,1 +1,1 @@
-var mnemonic = "will actress expand depth identify cart account supply exact ridge rapid defense";
+var mnemonic = "scheme moon because toy use monster extra ignore place skull assist provide";

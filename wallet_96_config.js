@@ -1,1 +1,1 @@
-var mnemonic = "erase snake place face burst zoo movie way unit host verify waste";
+var mnemonic = "copper quantum garden milk steak envelope hawk magic plate wet burger buzz";

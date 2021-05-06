@@ -1,1 +1,1 @@
-var mnemonic = "leave swamp income board bar decrease tell decade slam uncover atom album";
+var mnemonic = "luggage traffic ivory alien pause attitude siren clog nothing isolate empower sword";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic drum banner music absorb injury coconut enhance wall lucky crew book";
+var mnemonic = "install secret power shoe easily catalog craft describe virus hope sun health";

@@ -1,1 +1,1 @@
-var mnemonic = "mom property visa name prepare vintage bullet dial frost describe buddy sea";
+var mnemonic = "chase despair kiss raise motion economy acquire kid exhaust egg boss swamp";

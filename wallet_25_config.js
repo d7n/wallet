@@ -1,1 +1,1 @@
-var mnemonic = "round theme pond very morning caught kidney stove marble ozone nut pluck";
+var mnemonic = "real crisp online oil syrup gown turn edit blast answer cradle funny";

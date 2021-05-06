@@ -1,1 +1,1 @@
-var mnemonic = "fabric regular kiwi estate weasel indoor hammer play harsh wall ball moral";
+var mnemonic = "alien vibrant follow lonely trick wrong wise soda health stomach fashion describe";

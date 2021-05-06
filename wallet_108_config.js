@@ -1,1 +1,1 @@
-var mnemonic = "cash inspire sudden youth swift hill thing peanut shield human trip mad";
+var mnemonic = "snow drop radio someone text useless public steak canal bacon two more";

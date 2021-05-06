@@ -1,1 +1,1 @@
-var mnemonic = "lend joke usual rookie lizard broom escape glare scrub danger bind consider";
+var mnemonic = "ask special deposit govern ill receive angle they disorder census joy twist";

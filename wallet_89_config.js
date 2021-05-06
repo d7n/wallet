@@ -1,1 +1,1 @@
-var mnemonic = "engage level cup symptom forum around into pyramid avocado resource audit dignity";
+var mnemonic = "keen forward rally sing ketchup afford vocal modify street medal capital clock";

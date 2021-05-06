@@ -1,1 +1,1 @@
-var mnemonic = "lonely circle goddess swear foam galaxy bike spike receive canal defense error";
+var mnemonic = "voyage allow stage online attitude two aim similar hamster review truck you";

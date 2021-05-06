@@ -1,1 +1,1 @@
-var mnemonic = "bar onion copper try during chair smoke segment guess peasant chimney dismiss";
+var mnemonic = "pride twist auction match gather bullet veteran acquire song below olympic wood";

@@ -1,1 +1,1 @@
-var mnemonic = "invite task leopard skirt accident tank brisk medal concert share skin aerobic";
+var mnemonic = "liquid room afford false banana rifle march scatter this harsh alley copper";
