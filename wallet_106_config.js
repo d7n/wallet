@@ -1,1 +1,1 @@
-var mnemonic = "vehicle want blame congress foam throw art foster basic cotton dynamic rib";
+var mnemonic = "virus chaos prefer squeeze flag slight hurt pitch oval text dust over";

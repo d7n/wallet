@@ -1,1 +1,1 @@
-var mnemonic = "curtain tiny evoke fan usual monitor upon arrow already zero place valley";
+var mnemonic = "board upgrade duck scorpion wheat bid lyrics have mandate lounge shrug eyebrow";

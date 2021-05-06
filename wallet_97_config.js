@@ -1,1 +1,1 @@
-var mnemonic = "square clinic favorite accident blush allow slim scrub consider stereo guard dose";
+var mnemonic = "spring foot banana mushroom suit duty armed table year armor aim axis";

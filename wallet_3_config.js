@@ -1,1 +1,1 @@
-var mnemonic = "exercise fat agent bleak cement rebel broccoli minimum enroll zone surface match";
+var mnemonic = "charge stairs mesh zone siege shove damage hundred extra soup visit fork";

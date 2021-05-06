@@ -1,1 +1,1 @@
-var mnemonic = "amount team dice knee olive rabbit neglect spend vault blade brisk tribe";
+var mnemonic = "proud wife priority doll leave neglect surprise hockey humor naive tuna error";

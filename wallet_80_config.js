@@ -1,1 +1,1 @@
-var mnemonic = "leg wrist math trumpet page response glory shiver next upgrade fog work";
+var mnemonic = "crane cave text build glory reveal chest minute grow clutch way wealth";

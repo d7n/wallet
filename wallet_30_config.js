@@ -1,1 +1,1 @@
-var mnemonic = "extra swing radio brisk work appear govern snake music inhale sell demise";
+var mnemonic = "radar arm chalk stone jacket found butter umbrella purity moon normal urge";

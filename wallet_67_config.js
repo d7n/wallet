@@ -1,1 +1,1 @@
-var mnemonic = "entry observe film person fire bicycle lawn sniff slab eagle retire swap";
+var mnemonic = "length access foster census joke suggest pave congress fitness apart cost sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "ask wheat album rain joke cinnamon oppose crisp simple man lucky bean";
+var mnemonic = "virtual reopen bird file caught various cinnamon bring mushroom fantasy surround chuckle";

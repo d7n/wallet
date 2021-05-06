@@ -1,1 +1,1 @@
-var mnemonic = "abandon vote can close glide ridge auction corn impulse dice cave agent";
+var mnemonic = "frost limb valley balcony around cousin garden truck equal crisp icon insect";

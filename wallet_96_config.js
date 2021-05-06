@@ -1,1 +1,1 @@
-var mnemonic = "logic brother solve tell erupt advice detect appear flag ensure ridge skin";
+var mnemonic = "marble tiger unhappy hurry segment confirm brain retreat mutual clean make nation";

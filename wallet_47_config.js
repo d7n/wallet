@@ -1,1 +1,1 @@
-var mnemonic = "sniff basic ozone upon record able mirror once rain suspect attitude device";
+var mnemonic = "priority refuse change blame kid chaos reunion magnet stuff silent basic reward";

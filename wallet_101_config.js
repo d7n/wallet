@@ -1,1 +1,1 @@
-var mnemonic = "lemon eight hurdle sausage involve park code siege potato embark annual gun";
+var mnemonic = "glass length crime repair chief identify item ring convince rubber certain good";

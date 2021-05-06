@@ -1,1 +1,1 @@
-var mnemonic = "snake divide reform camp file grunt decide bronze this valley gesture acquire";
+var mnemonic = "immense trumpet decade include retire immune tennis basket brother solve tube kitchen";

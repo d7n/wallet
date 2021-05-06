@@ -1,1 +1,1 @@
-var mnemonic = "crew iron awesome grid scissors buzz ladder route witness weird cause wild";
+var mnemonic = "hazard jar track kid worry guard replace pigeon unit tip rug exit";

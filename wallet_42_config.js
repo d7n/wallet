@@ -1,1 +1,1 @@
-var mnemonic = "census below pulp pact enroll vessel true focus volume theory volume stumble";
+var mnemonic = "liberty dolphin shed ahead ready maple panda churn runway million symptom month";

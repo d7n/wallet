@@ -1,1 +1,1 @@
-var mnemonic = "dinner silly embrace stick replace scene bean pet estate pattern stage income";
+var mnemonic = "shoulder wire east muscle excite put casino tank profit mutual hamster police";

@@ -1,1 +1,1 @@
-var mnemonic = "stand code rookie explain simple enemy wire term cattle dose faith sleep";
+var mnemonic = "autumn absorb tube rebel inflict answer shove rib art toddler net nuclear";

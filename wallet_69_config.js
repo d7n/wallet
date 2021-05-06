@@ -1,1 +1,1 @@
-var mnemonic = "report rural belt viable soap hawk plunge zone flame life crisp win";
+var mnemonic = "magnet current foot tongue model lawsuit cage audit cycle deputy butter account";

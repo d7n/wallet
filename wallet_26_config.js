@@ -1,1 +1,1 @@
-var mnemonic = "portion tonight moral cover settle parent dismiss guitar enable flock wire destroy";
+var mnemonic = "expand assist brief guide bicycle upset toy strategy version program day awkward";

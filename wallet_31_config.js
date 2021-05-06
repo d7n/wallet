@@ -1,1 +1,1 @@
-var mnemonic = "luggage april artefact salon identify fresh hobby venue lock nut nose damp";
+var mnemonic = "permit square pepper client switch law odor post flame buyer adjust reopen";

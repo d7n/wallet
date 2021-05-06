@@ -1,1 +1,1 @@
-var mnemonic = "hello only mother bright custom betray join item blade blanket world feel";
+var mnemonic = "practice duck apart fire auction city tower captain produce coyote hundred ordinary";

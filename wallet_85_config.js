@@ -1,1 +1,1 @@
-var mnemonic = "raw sail weapon result grace material earn fortune theme swing shell rely";
+var mnemonic = "online present rather review inquiry example embark bunker mountain exchange remember broken";

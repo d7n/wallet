@@ -1,1 +1,1 @@
-var mnemonic = "consider excess ridge loud race style drive tube there consider midnight exchange";
+var mnemonic = "shop welcome unveil route mesh spirit robot gasp hip napkin venture critic";

@@ -1,1 +1,1 @@
-var mnemonic = "agree catalog play mouse brick broom bounce often surprise cancel gallery fame";
+var mnemonic = "solve rack reopen provide excess wild nurse save stay rack crew edge";

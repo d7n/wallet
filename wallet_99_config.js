@@ -1,1 +1,1 @@
-var mnemonic = "payment warfare west mouse reopen wolf market cushion amazing wrap mean portion";
+var mnemonic = "almost stem absent squeeze advice output web execute swallow hand swim thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel rocket dirt win wonder beef nation click involve retreat entry tunnel";
+var mnemonic = "spawn chuckle because tornado frequent yellow rhythm quantum invest trigger flag pole";

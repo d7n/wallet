@@ -1,1 +1,1 @@
-var mnemonic = "grape afraid vocal guard try almost just flower dream calm pride educate";
+var mnemonic = "senior smart glance dream same scale reward will axis whisper man token";

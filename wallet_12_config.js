@@ -1,1 +1,1 @@
-var mnemonic = "machine head close cake cook outer company brief glimpse repair hood frozen";
+var mnemonic = "motion reunion erase suspect minimum tent tornado west vapor firm crater equip";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet swear pottery music rebel lab cloth tide virtual rebel juice become";
+var mnemonic = "priority truth portion fun prison dress delay fitness cigar much deny fine";

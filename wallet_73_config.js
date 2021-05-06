@@ -1,1 +1,1 @@
-var mnemonic = "vivid input foam entry science slush awkward badge pretty wheat pioneer sign";
+var mnemonic = "sheriff chair toy oppose midnight arm peace garden damp food reflect patch";

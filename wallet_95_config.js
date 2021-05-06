@@ -1,1 +1,1 @@
-var mnemonic = "typical reflect width slim oval library alert file strike nephew regret best";
+var mnemonic = "during over lawsuit olympic hedgehog lounge cupboard speak drama bachelor bone coast";

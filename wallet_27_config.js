@@ -1,1 +1,1 @@
-var mnemonic = "tone indicate ladder you tower absent grace valid behave cream swear bronze";
+var mnemonic = "spatial repair arrange end member mention circle noise unique inject canyon giant";

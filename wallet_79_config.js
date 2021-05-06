@@ -1,1 +1,1 @@
-var mnemonic = "rose verify brand adult club rate fox trip diamond loan earth chapter";
+var mnemonic = "basket west valve mad rib kidney gown asthma apple embody all verb";

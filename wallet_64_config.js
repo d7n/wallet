@@ -1,1 +1,1 @@
-var mnemonic = "uphold knee alley patch sail pizza element resource sure shock slot connect";
+var mnemonic = "hood soon allow extend sudden erosion ladder skirt display tomorrow permit sand";

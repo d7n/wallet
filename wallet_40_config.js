@@ -1,1 +1,1 @@
-var mnemonic = "hotel remove minute copy ancient ice plate dwarf street giant disease rib";
+var mnemonic = "report tip group lounge latin unusual chef angry notice wide jeans chest";

@@ -1,1 +1,1 @@
-var mnemonic = "shield humble claim breeze wasp math news return extra consider garlic come";
+var mnemonic = "one input train kit obey giant velvet smile fault tackle chef potato";

@@ -1,1 +1,1 @@
-var mnemonic = "purpose rather token dizzy blood army dice sell come student velvet cycle";
+var mnemonic = "love solve spray auction category canyon nuclear token popular split brand animal";

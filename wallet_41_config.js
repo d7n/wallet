@@ -1,1 +1,1 @@
-var mnemonic = "myth orange usage video harsh people effort together seven you drastic error";
+var mnemonic = "ensure dust climb spread rescue oyster ramp buddy caution reduce bus siren";

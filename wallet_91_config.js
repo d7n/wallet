@@ -1,1 +1,1 @@
-var mnemonic = "noise long knock sugar possible vote dragon version video relax mushroom symptom";
+var mnemonic = "wink fly belt enlist offer winter potato skin tobacco average salt doll";

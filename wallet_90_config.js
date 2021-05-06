@@ -1,1 +1,1 @@
-var mnemonic = "december canoe wave smoke enable genre width wall interest favorite kid sudden";
+var mnemonic = "base ripple hen because income excuse stem upon border clap forward solid";

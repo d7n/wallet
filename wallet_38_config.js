@@ -1,1 +1,1 @@
-var mnemonic = "account apology genius light permit manual kite armor video amazing spare owner";
+var mnemonic = "seek width liquid used furnace animal budget blossom bag library allow pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "street addict eight urge tree cross unfair clap conduct olympic inch pelican";
+var mnemonic = "ship hotel patient bike raccoon uncover camp neither setup tomorrow rain boss";

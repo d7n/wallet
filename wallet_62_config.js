@@ -1,1 +1,1 @@
-var mnemonic = "merge woman strong must obey force shrug fox bridge speak sick stock";
+var mnemonic = "snack dynamic seven shell solar miracle witness blouse glove ranch lecture card";

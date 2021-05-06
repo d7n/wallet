@@ -1,1 +1,1 @@
-var mnemonic = "problem ripple misery quick mandate click prize ghost sentence morning ramp night";
+var mnemonic = "name brown royal hunt economy welcome banner garlic release process smile spot";

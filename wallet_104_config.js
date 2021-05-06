@@ -1,1 +1,1 @@
-var mnemonic = "repeat valid broken ensure diesel voyage pretty slow fire time warm around";
+var mnemonic = "promote term merit team evidence tackle cheap interest eager sample alpha fatigue";

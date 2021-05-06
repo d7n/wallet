@@ -1,1 +1,1 @@
-var mnemonic = "call raven license accident doctor swing story ride stone unknown gravity banana";
+var mnemonic = "canoe blood element excess move sketch clutch live frame illegal drink soccer";

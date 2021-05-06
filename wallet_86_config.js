@@ -1,1 +1,1 @@
-var mnemonic = "cruel history picture security hungry drift junk mistake task kit expose name";
+var mnemonic = "match empower figure moral tape pig fog ask tide during leader sphere";

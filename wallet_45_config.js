@@ -1,1 +1,1 @@
-var mnemonic = "blur bulb cat garlic amateur rookie truth ecology execute attract peanut auto";
+var mnemonic = "road change female spray doctor coil cushion receive verb gossip autumn fiber";

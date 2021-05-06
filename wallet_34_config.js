@@ -1,1 +1,1 @@
-var mnemonic = "industry voice camera run simple asset picnic side shell journey plate beyond";
+var mnemonic = "hen blouse onion habit elbow bullet apart sea rare two share mind";

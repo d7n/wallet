@@ -1,1 +1,1 @@
-var mnemonic = "fit brain erosion advice gadget fruit symptom shop wrestle cotton vendor joke";
+var mnemonic = "resource control paddle october want false milk citizen choose grape desert sound";

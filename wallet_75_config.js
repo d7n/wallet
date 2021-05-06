@@ -1,1 +1,1 @@
-var mnemonic = "buyer hood edit artist cage judge similar similar host turtle search icon";
+var mnemonic = "spy weasel detail drum trumpet latin ancient zone there lounge ship result";

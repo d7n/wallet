@@ -1,1 +1,1 @@
-var mnemonic = "clog ask run bless solar salmon artist merry jeans spoon install lunar";
+var mnemonic = "menu gauge job gasp olympic moon crisp drama scorpion amused used strike";

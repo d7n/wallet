@@ -1,1 +1,1 @@
-var mnemonic = "elephant asthma robust element black write borrow foil pupil arctic thought rely";
+var mnemonic = "language cross floor clown option sadness aim long soap differ bid corn";

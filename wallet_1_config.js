@@ -1,1 +1,1 @@
-var mnemonic = "weekend balance three talent crew coconut jelly still action web reform predict";
+var mnemonic = "unlock magic raven taste rug unaware melt royal exhaust faint airport mass";

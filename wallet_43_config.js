@@ -1,1 +1,1 @@
-var mnemonic = "already alcohol accident bless original envelope clutch screen wolf mammal law tray";
+var mnemonic = "grief device couple patrol matrix wine select furnace boil sustain purchase life";

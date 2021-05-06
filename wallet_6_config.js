@@ -1,1 +1,1 @@
-var mnemonic = "pond chimney crouch glove apology swim gesture salon speak husband stereo zoo";
+var mnemonic = "crisp runway wreck veteran certain recycle humor flat element awful image knock";

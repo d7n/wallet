@@ -1,1 +1,1 @@
-var mnemonic = "make drum hero ancient runway outer uncle stadium model focus nature battle";
+var mnemonic = "olympic oblige frost mom talent accident frame renew gold artefact garlic birth";

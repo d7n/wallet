@@ -1,1 +1,1 @@
-var mnemonic = "jazz dilemma relax section unfold average wrestle gossip tackle vendor economy tuna";
+var mnemonic = "number cricket drink layer consider carpet wolf what cereal cotton repeat stay";

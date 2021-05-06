@@ -1,1 +1,1 @@
-var mnemonic = "abandon brain knife find open spot safe census opera peace family wage";
+var mnemonic = "fan shrimp close race kitchen orange mosquito choose left library actress embrace";

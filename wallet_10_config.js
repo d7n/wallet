@@ -1,1 +1,1 @@
-var mnemonic = "cheap issue when try flat anchor breeze robust shift please law wisdom";
+var mnemonic = "hero skate hire battle viable blast donkey sleep stable average window bunker";

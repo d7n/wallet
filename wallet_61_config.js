@@ -1,1 +1,1 @@
-var mnemonic = "expire salon little agent common craft rib sad fox miracle wing drift";
+var mnemonic = "surface game pattern surface innocent toast drastic extra bag fork fall border";

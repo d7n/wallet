@@ -1,1 +1,1 @@
-var mnemonic = "shrimp right method stand skin sun busy robot green prize slogan price";
+var mnemonic = "inquiry blind humor dry bamboo nose decade team orange crash few kiwi";

@@ -1,1 +1,1 @@
-var mnemonic = "victory hero wedding market analyst scan easily enforce crisp wash portion shrug";
+var mnemonic = "first amateur maid own forest replace child nephew vote vivid column patch";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby dry vapor person brain vibrant act meat swarm worry income rent";
+var mnemonic = "model firm tiger scatter smoke inner mystery spring consider member deliver century";

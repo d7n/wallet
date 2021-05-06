@@ -1,1 +1,1 @@
-var mnemonic = "boy motion marine journey paddle spring memory reunion sort surge feel cricket";
+var mnemonic = "plug tenant hospital invest brother usual bacon crane path grow wolf purity";

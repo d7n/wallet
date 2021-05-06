@@ -1,1 +1,1 @@
-var mnemonic = "draft bracket hero fetch gauge much gather flower misery copy citizen raccoon";
+var mnemonic = "cruise grief meadow trip flash pave scorpion public man tattoo fruit cancel";

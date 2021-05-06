@@ -1,1 +1,1 @@
-var mnemonic = "robot random kitten dry estate setup essay canvas arm laundry mutual innocent";
+var mnemonic = "boss whale setup involve balance cherry solution gesture fire dragon tool stool";

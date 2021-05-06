@@ -1,1 +1,1 @@
-var mnemonic = "fix family kitten special useful wagon neither print knock apology voyage liar";
+var mnemonic = "follow truly usage stand hammer analyst hospital oval diesel junior royal card";

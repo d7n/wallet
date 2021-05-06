@@ -1,1 +1,1 @@
-var mnemonic = "dad want swear upgrade hundred volume run stage grant nominee eye guide";
+var mnemonic = "mouse tobacco crush fiscal security noble palm lecture digital object grape mechanic";

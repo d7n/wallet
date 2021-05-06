@@ -1,1 +1,1 @@
-var mnemonic = "library nurse raccoon often earth exchange fiscal galaxy recall maximum sadness debris";
+var mnemonic = "cupboard pave april ability young prison moral feature gold town air brick";

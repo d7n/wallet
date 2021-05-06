@@ -1,1 +1,1 @@
-var mnemonic = "coral shell outside machine disorder fit happy hundred leave mystery material summer";
+var mnemonic = "install team love dinner half olympic tube camera poet venture occur cushion";

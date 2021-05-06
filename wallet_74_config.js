@@ -1,1 +1,1 @@
-var mnemonic = "danger pride scheme equal opinion side plunge point very oil system tent";
+var mnemonic = "diesel wall thought bid half furnace drift mandate shell confirm empower stamp";

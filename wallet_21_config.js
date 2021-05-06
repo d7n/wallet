@@ -1,1 +1,1 @@
-var mnemonic = "slam diet giraffe whip youth love rival because rich one puzzle damp";
+var mnemonic = "bid vintage start leaf cable one lens pride cancel inflict debris face";

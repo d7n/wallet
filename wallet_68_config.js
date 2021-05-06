@@ -1,1 +1,1 @@
-var mnemonic = "wash melody crime castle cotton hen roast castle child divorce sight kite";
+var mnemonic = "bid sad lesson mandate number trophy distance build core pull resist soft";

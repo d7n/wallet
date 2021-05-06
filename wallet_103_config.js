@@ -1,1 +1,1 @@
-var mnemonic = "cave illness rally tower citizen estate buffalo subway fit inch use address";
+var mnemonic = "hover slender wild obscure scrub viable vast task shiver art exercise bus";

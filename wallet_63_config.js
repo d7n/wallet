@@ -1,1 +1,1 @@
-var mnemonic = "elephant sentence sentence any sample clap combine clip reopen resource shy match";
+var mnemonic = "lunch vast release cupboard west twin garbage chimney ring kind buyer slam";

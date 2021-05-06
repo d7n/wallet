@@ -1,1 +1,1 @@
-var mnemonic = "solve forward tone expect lawsuit bench bargain feel zebra shoot admit father";
+var mnemonic = "nothing rigid unlock very devote gauge season donate victory record promote cushion";

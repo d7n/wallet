@@ -1,1 +1,1 @@
-var mnemonic = "tomato double large rally struggle cream buzz country art average arm table";
+var mnemonic = "what comic coin casino cherry misery code park stool board twelve wrap";

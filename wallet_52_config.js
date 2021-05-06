@@ -1,1 +1,1 @@
-var mnemonic = "midnight peanut legend undo crack dry trash inform sell garlic plug adapt";
+var mnemonic = "orient phrase below blood divide luggage barely exhaust remain exotic trap shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "force ancient please wild panda swear public use shaft net wrap drill";
+var mnemonic = "shell all word ladder thrive hurdle stock magic dance fix sleep south";

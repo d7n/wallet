@@ -1,1 +1,1 @@
-var mnemonic = "tiger inch spread swamp process syrup fame science flight actress tennis color";
+var mnemonic = "okay august depart gloom educate welcome deputy knock wood logic grace fabric";

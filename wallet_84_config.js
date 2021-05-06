@@ -1,1 +1,1 @@
-var mnemonic = "old fantasy risk frown produce impose guess bean chaos topple kiss script";
+var mnemonic = "alone master load describe skirt pill buddy adjust refuse yard angry foot";

@@ -1,1 +1,1 @@
-var mnemonic = "negative order napkin device celery identify decide elite tone just arrange initial";
+var mnemonic = "note govern hello early green deliver jump enjoy robust element bargain caution";

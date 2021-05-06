@@ -1,1 +1,1 @@
-var mnemonic = "scan vivid jaguar attend ramp pitch soon wheel rookie crop pen mango";
+var mnemonic = "camera trial omit pizza make ball shed uniform summer bag clap rigid";
