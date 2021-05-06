@@ -1,1 +1,1 @@
-var mnemonic = "monitor romance genius any rapid federal flat cry regular nut position address";
+var mnemonic = "consider stone regret track rate only drama stereo key elegant energy mom";

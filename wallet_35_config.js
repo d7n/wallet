@@ -1,1 +1,1 @@
-var mnemonic = "happy indoor squirrel city machine woman basket toilet can erase blame side";
+var mnemonic = "insane trap express soft beach stuff fresh grab good hip core genuine";

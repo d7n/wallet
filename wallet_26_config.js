@@ -1,1 +1,1 @@
-var mnemonic = "cannon drift certain harsh van dizzy antenna surround door pull canoe dentist";
+var mnemonic = "unfair grant core rib extra skirt truth hair congress silver huge unaware";

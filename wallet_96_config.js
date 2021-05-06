@@ -1,1 +1,1 @@
-var mnemonic = "modify lizard twelve olympic switch sudden dog also pyramid slight kite cloth";
+var mnemonic = "place clutch apple decrease bid flip shed ice side document maid slush";

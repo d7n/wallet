@@ -1,1 +1,1 @@
-var mnemonic = "pair pigeon report absent there cotton oppose phrase join jacket reward deal";
+var mnemonic = "unable steak evoke minute crack account recall section armor amount blade account";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster key act have view hospital scrub clerk pumpkin help deposit flock";
+var mnemonic = "fringe change brother wet dinner hamster print promote over sort view grid";

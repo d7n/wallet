@@ -1,1 +1,1 @@
-var mnemonic = "hover gallery stamp crunch put sting fog faint display panther floor master";
+var mnemonic = "shift pink depth power better rifle guess bless butter ozone camera conduct";

@@ -1,1 +1,1 @@
-var mnemonic = "collect humble sign yellow corn jeans prosper coin room parrot involve render";
+var mnemonic = "board month alter estate cloth bargain orphan genuine throw illegal nut expose";

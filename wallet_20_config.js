@@ -1,1 +1,1 @@
-var mnemonic = "sorry any develop virtual upset impulse wire such wonder simple tackle wrist";
+var mnemonic = "have body bullet deliver train scrap friend warfare fantasy oyster wide crisp";

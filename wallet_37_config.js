@@ -1,1 +1,1 @@
-var mnemonic = "original plastic series gun link loyal interest trim tuition concert below cactus";
+var mnemonic = "crush area next material album arctic mosquito accuse captain problem style noise";

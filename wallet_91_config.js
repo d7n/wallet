@@ -1,1 +1,1 @@
-var mnemonic = "injury sick awake ribbon hub wide cradle visit veteran dry gloom crowd";
+var mnemonic = "text abuse grid piece glimpse jazz skin champion quote latin satisfy iron";

@@ -1,1 +1,1 @@
-var mnemonic = "ocean swing capital addict blast donor bubble race path trial modify fresh";
+var mnemonic = "victory badge soft actual gossip swear deny desert lens grape grid gym";

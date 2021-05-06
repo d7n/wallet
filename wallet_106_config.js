@@ -1,1 +1,1 @@
-var mnemonic = "involve moon birth razor face physical design moral bring fence miracle life";
+var mnemonic = "swing regret print elder search when before reject deputy guilt escape arm";

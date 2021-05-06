@@ -1,1 +1,1 @@
-var mnemonic = "mutual foil analyst anger reject neutral meat control nurse funny leisure arctic";
+var mnemonic = "ball paper awesome kiwi special blanket unveil okay magnet police dentist luxury";

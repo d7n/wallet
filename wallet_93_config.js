@@ -1,1 +1,1 @@
-var mnemonic = "expire stool identify wage critic announce category bachelor abstract few citizen another";
+var mnemonic = "book kid atom wasp clean nerve large betray finish region guard alone";

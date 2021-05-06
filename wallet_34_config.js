@@ -1,1 +1,1 @@
-var mnemonic = "ladder addict canal cushion obey helmet access scrub slice extend diet oil";
+var mnemonic = "fly quarter derive egg sure nest rhythm cause potato mistake armor rich";

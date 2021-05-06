@@ -1,1 +1,1 @@
-var mnemonic = "gain wage angry artefact empty harsh sketch combine broom soldier warrior half";
+var mnemonic = "divide omit laptop frequent beauty shoot gold ticket board scissors outside basic";

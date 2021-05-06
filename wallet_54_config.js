@@ -1,1 +1,1 @@
-var mnemonic = "chapter fit knife melt drama vocal divorce grain object paper theory era";
+var mnemonic = "life vital mention tip pizza hamster lobster laundry disease fade chief embrace";

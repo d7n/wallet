@@ -1,1 +1,1 @@
-var mnemonic = "manual token desk clarify balcony unable seven wrist avoid method filter novel";
+var mnemonic = "palm hub fuel wage shrug upgrade day flash cargo throw often spirit";

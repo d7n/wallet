@@ -1,1 +1,1 @@
-var mnemonic = "boat crane meat adjust boil renew episode until carbon invest stone title";
+var mnemonic = "correct deputy hurdle host item rural once amazing library correct water few";

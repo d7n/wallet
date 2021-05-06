@@ -1,1 +1,1 @@
-var mnemonic = "popular solar page blur add awkward tongue obtain have drill ready climb";
+var mnemonic = "canoe filter length ugly genius village science hair cousin sketch total motion";

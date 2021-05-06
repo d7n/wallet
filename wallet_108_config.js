@@ -1,1 +1,1 @@
-var mnemonic = "rural blame roof spray source ribbon boss envelope say manual need claim";
+var mnemonic = "kite agent volume resource wedding intact club mass fortune nice jazz setup";

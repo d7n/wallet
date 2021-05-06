@@ -1,1 +1,1 @@
-var mnemonic = "frequent alter rigid elevator ability guilt nothing use clean buddy word mask";
+var mnemonic = "cook spell wedding impose cave annual address crowd expose industry slim cake";

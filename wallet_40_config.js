@@ -1,1 +1,1 @@
-var mnemonic = "police dry anxiety thank top mouse across problem athlete settle gate guard";
+var mnemonic = "lock arena wealth peace juice napkin silent north myself insane proud fit";

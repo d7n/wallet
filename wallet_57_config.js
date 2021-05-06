@@ -1,1 +1,1 @@
-var mnemonic = "laptop auto rose lucky erupt child clutch tell office cruel any harvest";
+var mnemonic = "sick gather ethics purpose auction fresh leisure squeeze ozone aspect outdoor resist";

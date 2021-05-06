@@ -1,1 +1,1 @@
-var mnemonic = "mosquito basket must fine bachelor misery track cross fringe deal pattern gain";
+var mnemonic = "olive negative write hammer brand obvious voice scrap explain raccoon earth defy";

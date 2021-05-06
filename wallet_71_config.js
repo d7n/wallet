@@ -1,1 +1,1 @@
-var mnemonic = "orchard file firm inspire brave deposit season imitate gesture collect north quantum";
+var mnemonic = "vacuum fancy relax october heart state tower romance mansion ability input clay";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess dirt second engine gloom fat jump country duty marriage grape acid";
+var mnemonic = "surge pioneer winner indoor lab insane flag betray blast unveil vanish wealth";

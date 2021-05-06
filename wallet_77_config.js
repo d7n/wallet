@@ -1,1 +1,1 @@
-var mnemonic = "alert search first useful master enable gospel uncle tired heart always danger";
+var mnemonic = "lift village opinion key menu alley future venue provide medal ivory confirm";

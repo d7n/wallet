@@ -1,1 +1,1 @@
-var mnemonic = "vital spin error social park gas object sick tourist pony typical jungle";
+var mnemonic = "nuclear scout green address sauce weird only mind mother rule number goddess";

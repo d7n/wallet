@@ -1,1 +1,1 @@
-var mnemonic = "lesson pass someone ice gold action dog response jar fantasy crater possible";
+var mnemonic = "witness coffee faith prison faith struggle aware major winter cost awful similar";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle evil dragon slice step allow idle black battle drum various chunk";
+var mnemonic = "shoot wish annual prize settle radio dad unhappy scorpion chuckle strike patient";

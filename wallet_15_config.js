@@ -1,1 +1,1 @@
-var mnemonic = "mammal water tired clean cushion supply document click electric used smart attract";
+var mnemonic = "mix bright office replace chat capital junior shoulder panel engage gentle wear";

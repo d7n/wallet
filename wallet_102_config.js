@@ -1,1 +1,1 @@
-var mnemonic = "add liar message trouble remember blast between light increase fish two east";
+var mnemonic = "practice clown copper fortune slide belt develop tray alert affair pencil fatal";

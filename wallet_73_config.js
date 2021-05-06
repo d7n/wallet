@@ -1,1 +1,1 @@
-var mnemonic = "farm shine chuckle reduce deer bronze guard sunset bacon sand august oxygen";
+var mnemonic = "eye exhaust popular card tongue boil mule minute gallery border link dune";

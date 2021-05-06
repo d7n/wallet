@@ -1,1 +1,1 @@
-var mnemonic = "ostrich champion burst innocent page canal trouble clap physical thank social unit";
+var mnemonic = "web achieve regret bulk fox document spin wall refuse employ flavor degree";

@@ -1,1 +1,1 @@
-var mnemonic = "fall leisure that lift thrive chalk water more right topple want kind";
+var mnemonic = "cry success dumb ramp shoe slot giant test mandate anxiety lonely absorb";

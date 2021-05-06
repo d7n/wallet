@@ -1,1 +1,1 @@
-var mnemonic = "tiny want grocery teach van note oak motor coffee shine edge payment";
+var mnemonic = "glue dad gate enlist oyster release frozen enrich caught pair slim gloom";

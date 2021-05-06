@@ -1,1 +1,1 @@
-var mnemonic = "minute hover finish design biology over live purity hotel mixture tortoise damage";
+var mnemonic = "toddler topic stock organ spirit surround alarm flight wild multiply plastic there";

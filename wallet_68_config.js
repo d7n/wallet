@@ -1,1 +1,1 @@
-var mnemonic = "vault initial visa crew month sound friend feature pattern arrange advance cattle";
+var mnemonic = "mutual print borrow turtle impulse airport fatigue lady visa chat cargo budget";

@@ -1,1 +1,1 @@
-var mnemonic = "connect better cost cart practice chief immense slim impulse window deny turn";
+var mnemonic = "tortoise drama add parrot near nation asset author wild asthma vacant give";

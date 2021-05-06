@@ -1,1 +1,1 @@
-var mnemonic = "circle orbit powder east coyote torch rent gun kick invite bright faith";
+var mnemonic = "canal spell rebel office put dumb wedding fold inside gospel nation airport";

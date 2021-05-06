@@ -1,1 +1,1 @@
-var mnemonic = "always solar domain recall brick tool tank bleak expose tribe clerk bag";
+var mnemonic = "tuition bright run version explain unknown grab easy spy inner genre goose";

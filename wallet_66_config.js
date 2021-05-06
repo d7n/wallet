@@ -1,1 +1,1 @@
-var mnemonic = "option label holiday loop unknown weapon remind fossil humor chunk pride universe";
+var mnemonic = "release celery use decide cargo lonely bulb sponsor local magic addict depart";

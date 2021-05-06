@@ -1,1 +1,1 @@
-var mnemonic = "pact judge burger diary obscure gas indoor large breeze pet tail tortoise";
+var mnemonic = "unaware clerk plug bamboo extra release snack adult arch infant crush patient";

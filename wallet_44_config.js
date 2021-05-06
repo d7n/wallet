@@ -1,1 +1,1 @@
-var mnemonic = "demise cushion drama worry assume clerk sure snow assault warrior soft episode";
+var mnemonic = "guilt mistake vault rose despair fiction tiny equal window donor depart swamp";

@@ -1,1 +1,1 @@
-var mnemonic = "release waste fatal ripple lyrics nerve dry prison grunt crunch image snow";
+var mnemonic = "deliver behind parade boy melody pig add response chief coin pistol corn";

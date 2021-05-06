@@ -1,1 +1,1 @@
-var mnemonic = "increase bubble write dentist prepare dolphin glance raw reflect enlist damp arm";
+var mnemonic = "ill tired target street angry engage fly lady hope combine write shed";

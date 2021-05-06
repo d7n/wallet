@@ -1,1 +1,1 @@
-var mnemonic = "trial then tuna learn steel cereal smoke ceiling busy hole tobacco rival";
+var mnemonic = "defense caution salmon human cry virus satisfy unveil remove catch illegal tribe";

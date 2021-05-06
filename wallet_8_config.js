@@ -1,1 +1,1 @@
-var mnemonic = "judge main dawn pulse airport rib aerobic happy fall snack wrist race";
+var mnemonic = "festival deposit confirm seminar amount butter slush window image citizen reduce drink";

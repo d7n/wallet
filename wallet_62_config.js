@@ -1,1 +1,1 @@
-var mnemonic = "apple category weapon grape deliver bomb identify drop dice solid okay junk";
+var mnemonic = "river arrange brave minimum income wheel garbage fatigue expand link mirror pill";

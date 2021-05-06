@@ -1,1 +1,1 @@
-var mnemonic = "fringe example inflict infant bulk mandate other fat cheese picture ghost vocal";
+var mnemonic = "list goose omit fitness between clarify wild book reduce isolate federal distance";

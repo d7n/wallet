@@ -1,1 +1,1 @@
-var mnemonic = "apart frown elder pole stone legend sail whisper habit argue core answer";
+var mnemonic = "hero aware country target panda film digital hamster husband across remind settle";

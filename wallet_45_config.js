@@ -1,1 +1,1 @@
-var mnemonic = "tray dawn much hungry meadow project feel focus dawn reduce awkward gift";
+var mnemonic = "miracle clutch pause simple lake convince metal broccoli empty start radar drill";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern ticket bag weird humble option garage kitten domain rib below thank";
+var mnemonic = "digital face laptop grief boring brick struggle breeze giggle error lumber waste";

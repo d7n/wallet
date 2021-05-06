@@ -1,1 +1,1 @@
-var mnemonic = "prize satisfy uniform gravity marine now special occur scatter hand flag nephew";
+var mnemonic = "clutch six movie destroy height because gun divert silver found visit slide";

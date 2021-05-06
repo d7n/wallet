@@ -1,1 +1,1 @@
-var mnemonic = "dress diesel element gown game bike charge useful bacon isolate pioneer voyage";
+var mnemonic = "ostrich saddle frog drift west foster state skin youth target swear heavy";

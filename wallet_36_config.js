@@ -1,1 +1,1 @@
-var mnemonic = "video disagree upon early profit style dilemma nasty leg depth visual order";
+var mnemonic = "nurse fix pond inch slow decade shiver industry legend tackle bar fashion";

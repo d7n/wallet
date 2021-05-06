@@ -1,1 +1,1 @@
-var mnemonic = "summer leisure pottery sponsor monster duty legal settle ask base vibrant sample";
+var mnemonic = "bitter cargo soft path cram execute couch bind path scene mystery parrot";

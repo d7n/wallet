@@ -1,1 +1,1 @@
-var mnemonic = "rifle dragon grid toe bullet grace song top judge south return matrix";
+var mnemonic = "blossom shoe sword quote clap diesel heart play desert decline velvet silk";

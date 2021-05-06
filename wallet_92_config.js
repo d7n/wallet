@@ -1,1 +1,1 @@
-var mnemonic = "learn mother orange female worry apple media soccer fetch muffin dance follow";
+var mnemonic = "brisk frost embrace remove soft item field jaguar usage giraffe mean person";

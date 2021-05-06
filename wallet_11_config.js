@@ -1,1 +1,1 @@
-var mnemonic = "merry urge unit keen cloud maximum vessel edit ridge alley hope review";
+var mnemonic = "sunny focus tourist nephew mail junior empower spray gesture improve town promote";

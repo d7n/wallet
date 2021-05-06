@@ -1,1 +1,1 @@
-var mnemonic = "pride illegal jaguar that shrimp word reward toward deliver horn inquiry build";
+var mnemonic = "huge situate apart mobile addict gap surge doctor accuse broccoli escape remove";

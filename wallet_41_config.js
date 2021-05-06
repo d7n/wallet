@@ -1,1 +1,1 @@
-var mnemonic = "blind chalk stairs crop state exchange repeat athlete athlete forward chair sorry";
+var mnemonic = "lizard like logic useless drip fire supreme account virtual surface laugh blind";

@@ -1,1 +1,1 @@
-var mnemonic = "slush obscure park update parent rhythm save stock until stock gun host";
+var mnemonic = "warm cruel identify catalog egg pear advance twin limit basic plate work";

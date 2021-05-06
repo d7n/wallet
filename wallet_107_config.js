@@ -1,1 +1,1 @@
-var mnemonic = "hold pulp involve canvas fan vote into conduct gospel dismiss crouch curtain";
+var mnemonic = "bid very legal lawsuit refuse royal talk echo ocean dinner assault tongue";

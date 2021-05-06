@@ -1,1 +1,1 @@
-var mnemonic = "host seek excuse bird chair venue tail leopard worth tomorrow fire usage";
+var mnemonic = "margin evolve sting visa steel angry inmate foster toy express van hour";

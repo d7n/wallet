@@ -1,1 +1,1 @@
-var mnemonic = "soccer water faint peasant pelican disagree sad country tuition inquiry twelve cheap";
+var mnemonic = "tag chicken save spoil broom chunk furnace income embody sign toward region";

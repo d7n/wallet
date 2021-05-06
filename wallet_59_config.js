@@ -1,1 +1,1 @@
-var mnemonic = "swap barrel album glow paper obscure direct diesel garlic senior neck total";
+var mnemonic = "island isolate urge below melody erode moon suspect clerk donor hold talk";

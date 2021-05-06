@@ -1,1 +1,1 @@
-var mnemonic = "dress mouse dilemma rally ugly shoot young arena bean embody fire border";
+var mnemonic = "kick coil orbit broccoli ketchup delay camp quiz category stock among two";

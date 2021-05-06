@@ -1,1 +1,1 @@
-var mnemonic = "loan spread regular once fox pair miracle retire history acquire spell liberty";
+var mnemonic = "liar voyage walk start still shoot slender essence cliff other wine spell";

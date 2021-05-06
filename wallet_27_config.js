@@ -1,1 +1,1 @@
-var mnemonic = "program blouse sunset supply share brand check village bundle sun pet gasp";
+var mnemonic = "embody violin sample group display theory trip decorate lemon cabin often evoke";

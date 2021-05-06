@@ -1,1 +1,1 @@
-var mnemonic = "company expire supply noodle chair near good patient accident kidney ribbon orient";
+var mnemonic = "galaxy couch cruel audit enroll busy slice run reflect crowd demand carry";

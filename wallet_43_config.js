@@ -1,1 +1,1 @@
-var mnemonic = "catch tone critic brush impact grass unique day buddy trap verify slim";
+var mnemonic = "shop tape escape flip habit junk anchor answer pipe trumpet wisdom case";

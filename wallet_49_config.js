@@ -1,1 +1,1 @@
-var mnemonic = "joy chronic fat apology slogan asset render regret thing tuna argue gate";
+var mnemonic = "soap access off piano appear bamboo float supreme inject benefit pink ginger";

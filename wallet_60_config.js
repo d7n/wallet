@@ -1,1 +1,1 @@
-var mnemonic = "genius dance spoon artefact endorse chalk club excess butter adjust strategy abstract";
+var mnemonic = "assault bitter spy stage culture bridge second busy busy text foil hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "thank attract render laundry segment scatter during proof panda ribbon replace air";
+var mnemonic = "rural fun category suffer boost glare tooth primary brown dress clock twist";

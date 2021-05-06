@@ -1,1 +1,1 @@
-var mnemonic = "crush fiscal only weapon ring goat eye belt fiscal envelope dish banner";
+var mnemonic = "culture initial rubber alert egg logic enrich exit rack base sign apple";

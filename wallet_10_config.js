@@ -1,1 +1,1 @@
-var mnemonic = "frequent dry isolate butter fever sphere safe crush rose amazing bind view";
+var mnemonic = "say draft opinion girl day torch about theory story view anger off";

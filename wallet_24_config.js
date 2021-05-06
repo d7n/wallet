@@ -1,1 +1,1 @@
-var mnemonic = "tilt fire win train wing crowd clap zoo such enhance company much";
+var mnemonic = "twist unique grape view manual network program list night door confirm meat";

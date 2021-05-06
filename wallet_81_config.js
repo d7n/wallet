@@ -1,1 +1,1 @@
-var mnemonic = "slim minute luggage earn donor margin immune goat act indoor picture access";
+var mnemonic = "pill course shoulder blue kiwi cheese gold task mirror rebel box defense";

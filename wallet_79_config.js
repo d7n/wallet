@@ -1,1 +1,1 @@
-var mnemonic = "usage penalty mom method dumb better harbor dismiss emerge peanut congress choose";
+var mnemonic = "cherry worry kitten recall access popular exclude knife worry glad toddler vicious";

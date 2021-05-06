@@ -1,1 +1,1 @@
-var mnemonic = "latin safe fuel sock ivory reveal grow act company swim potato arrest";
+var mnemonic = "genuine maid slot venue embrace observe deer slab develop borrow put banana";

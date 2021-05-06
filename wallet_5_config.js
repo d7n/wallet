@@ -1,1 +1,1 @@
-var mnemonic = "general lava talk axis casino alley science diet common only tide wire";
+var mnemonic = "near device surprise make entire pottery mercy better mix duty lesson sad";

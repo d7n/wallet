@@ -1,1 +1,1 @@
-var mnemonic = "subject stereo pyramid ship city follow grab april rally mean glove cry";
+var mnemonic = "solid universe canvas kitten shrimp use surge because text cruise luxury cement";
