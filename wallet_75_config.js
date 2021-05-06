@@ -1,1 +1,1 @@
-var mnemonic = "era easily depart truth tent tip gold curve talent hamster quit tag";
+var mnemonic = "bulb hedgehog field wagon seat vendor undo february leg sick frown real";

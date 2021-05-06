@@ -1,1 +1,1 @@
-var mnemonic = "transfer mule dash bachelor strong segment cigar recall busy aisle like grab";
+var mnemonic = "hood filter proud tape project unfold gossip ostrich hedgehog grape purpose enough";

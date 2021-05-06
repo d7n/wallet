@@ -1,1 +1,1 @@
-var mnemonic = "royal cushion quality penalty quote corn tissue spoon sugar interest limit lunar";
+var mnemonic = "venue scene urge fancy menu spring charge diary general jeans mountain banner";

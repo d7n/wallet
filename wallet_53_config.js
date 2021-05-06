@@ -1,1 +1,1 @@
-var mnemonic = "diamond volcano suggest pepper talent wink double insect olive ladder minor job";
+var mnemonic = "mango act fancy drill sign super argue ring column skull knee uncle";

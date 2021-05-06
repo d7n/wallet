@@ -1,1 +1,1 @@
-var mnemonic = "diagram start couple inmate net quality moon exclude will analyst urge provide";
+var mnemonic = "key exist surge differ unable describe treat lawsuit cloud drop sign pilot";

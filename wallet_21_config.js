@@ -1,1 +1,1 @@
-var mnemonic = "target comfort stereo cannon grocery vacant sand display universe potato they thrive";
+var mnemonic = "exile interest lumber void obey hunt giant skin cover wrist gain scare";

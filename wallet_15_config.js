@@ -1,1 +1,1 @@
-var mnemonic = "ridge market weasel wink know corn budget pet weasel food erode mix";
+var mnemonic = "life oil avocado where combine diesel question surprise sheriff hamster fatal north";

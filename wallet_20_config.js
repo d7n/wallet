@@ -1,1 +1,1 @@
-var mnemonic = "clip destroy fire ordinary solar body betray sport shine forest kiss trial";
+var mnemonic = "gather inspire flush erase room wine all siren giant age away dream";

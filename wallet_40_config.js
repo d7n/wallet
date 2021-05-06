@@ -1,1 +1,1 @@
-var mnemonic = "gadget motor flight sign forget knock quote check tobacco raccoon bubble comfort";
+var mnemonic = "point adapt fine despair develop horror excuse bacon science bulb beef bachelor";

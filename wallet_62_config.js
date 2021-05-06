@@ -1,1 +1,1 @@
-var mnemonic = "adult wrong actor lock stable apology case junior system wear only table";
+var mnemonic = "veteran kiwi blame robot fiscal fiber swift scare sunny alpha math reject";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy coffee industry main mistake okay amount frequent axis whip vintage lock";
+var mnemonic = "voice real draw random gift vocal range useful photo side frequent special";

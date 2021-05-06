@@ -1,1 +1,1 @@
-var mnemonic = "innocent predict pledge evidence moon repair man whale sting way renew paddle";
+var mnemonic = "liquid ozone wing opinion cry leave fox frost onion wrap initial amount";

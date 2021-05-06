@@ -1,1 +1,1 @@
-var mnemonic = "place inmate unveil net again state liar panel purpose steel camp trend";
+var mnemonic = "knife ghost blossom swift one gentle dose slender rain chair carry merit";

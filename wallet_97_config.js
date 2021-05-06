@@ -1,1 +1,1 @@
-var mnemonic = "reform tattoo jewel anxiety obtain chase actor safe smooth cruise foil draw";
+var mnemonic = "grain milk bacon recall wisdom bird useless film voice refuse grit funny";

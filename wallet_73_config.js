@@ -1,1 +1,1 @@
-var mnemonic = "excess list purchase dream yard donkey sentence awkward crunch weekend frost error";
+var mnemonic = "turtle cool race giant shiver accuse marriage city cream excuse news tobacco";

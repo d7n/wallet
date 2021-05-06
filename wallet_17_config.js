@@ -1,1 +1,1 @@
-var mnemonic = "blur tiger admit narrow someone leg green company ridge gaze rug love";
+var mnemonic = "obvious audit tired false love student dawn risk noodle fantasy mesh balance";

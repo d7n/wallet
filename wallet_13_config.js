@@ -1,1 +1,1 @@
-var mnemonic = "anxiety name flock business receive demand evoke empty ghost simple empty beyond";
+var mnemonic = "picnic capital food release climb smart obey hat velvet oven loud matrix";

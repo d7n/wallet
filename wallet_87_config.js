@@ -1,1 +1,1 @@
-var mnemonic = "turtle indoor coffee essence air toward spy ritual canal crystal pioneer either";
+var mnemonic = "combine hen measure stereo struggle key park adult alter reflect guitar ticket";

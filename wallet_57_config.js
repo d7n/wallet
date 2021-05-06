@@ -1,1 +1,1 @@
-var mnemonic = "board dog squirrel museum spice service penalty ice crystal pitch crazy year";
+var mnemonic = "shock tree napkin fever month bind catalog afford glue fog sphere much";

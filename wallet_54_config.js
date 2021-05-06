@@ -1,1 +1,1 @@
-var mnemonic = "similar dry lock voice baby steel hub often catalog vivid famous shadow";
+var mnemonic = "person eagle knife govern awkward fruit above pledge end front trade farm";

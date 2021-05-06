@@ -1,1 +1,1 @@
-var mnemonic = "tomato lamp half glue random print still frozen pilot drill vast glare";
+var mnemonic = "harbor strategy indicate stomach prison rich culture eyebrow rifle arrow sketch jump";

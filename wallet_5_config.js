@@ -1,1 +1,1 @@
-var mnemonic = "roast furnace orbit never list surround area inhale rely spider empty omit";
+var mnemonic = "elder pumpkin misery clay essay math movie ridge ostrich day flame cup";

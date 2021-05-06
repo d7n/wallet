@@ -1,1 +1,1 @@
-var mnemonic = "fruit impose credit design dove problem guilt rack mom reflect cave rebel";
+var mnemonic = "jar rather payment pull evil require wolf cherry device when receive camp";

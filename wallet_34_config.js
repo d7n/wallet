@@ -1,1 +1,1 @@
-var mnemonic = "notice awesome cruise brief census into good slogan please token drink hire";
+var mnemonic = "tortoise salute bounce beyond road base onion crouch young bring side human";

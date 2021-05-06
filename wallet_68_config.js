@@ -1,1 +1,1 @@
-var mnemonic = "sketch room benefit about patient club lecture upper forget hurt hurt ugly";
+var mnemonic = "awful tell series donate business foster grace fitness decline initial ginger police";

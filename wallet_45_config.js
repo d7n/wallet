@@ -1,1 +1,1 @@
-var mnemonic = "safe sudden tube ready trumpet winner include where various fury surprise transfer";
+var mnemonic = "loyal install agent medal ticket scout hockey annual blur clerk volume tell";

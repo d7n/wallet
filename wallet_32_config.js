@@ -1,1 +1,1 @@
-var mnemonic = "neglect alter drama initial scorpion category gym green dust river describe sudden";
+var mnemonic = "crucial fabric dirt stuff industry zebra enough quality firm social true animal";

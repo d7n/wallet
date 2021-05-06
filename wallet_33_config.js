@@ -1,1 +1,1 @@
-var mnemonic = "arch smooth tool sight balance audit scare potato win mule below photo";
+var mnemonic = "desk coast symptom metal tongue scout put enforce ship impulse today find";

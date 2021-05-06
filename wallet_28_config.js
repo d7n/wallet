@@ -1,1 +1,1 @@
-var mnemonic = "hard satoshi body menu jelly venture aisle finger blind phone error bean";
+var mnemonic = "maze manage expire dinner snack lend bid dust talent control seven ecology";

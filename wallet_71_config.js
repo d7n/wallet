@@ -1,1 +1,1 @@
-var mnemonic = "buddy obey bench traffic scrap tennis valve brisk marine column edit pledge";
+var mnemonic = "sight warfare wife inhale drip aisle evolve identify ready lunch time fiction";

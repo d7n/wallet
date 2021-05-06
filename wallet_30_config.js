@@ -1,1 +1,1 @@
-var mnemonic = "behind odor silver summer work dilemma scrub pencil mechanic profit differ galaxy";
+var mnemonic = "twelve slide security sail galaxy warm inspire crane cage unhappy explain hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "radio kid teach glow snow summer culture demise item pupil stove egg";
+var mnemonic = "pink hip coral shiver spatial voice junk jar magnet special length borrow";

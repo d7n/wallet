@@ -1,1 +1,1 @@
-var mnemonic = "observe adapt deer measure meadow neutral render actor marble breeze drum neutral";
+var mnemonic = "skirt elder squirrel pig open west million expose fee abandon adult shop";

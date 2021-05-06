@@ -1,1 +1,1 @@
-var mnemonic = "solar clever clarify ordinary siren denial isolate mimic submit manage game carbon";
+var mnemonic = "catalog owner differ never gate double pig public spatial rotate test deliver";

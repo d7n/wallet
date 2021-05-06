@@ -1,1 +1,1 @@
-var mnemonic = "clutch tent coast shiver high clinic gloom organ census zebra mouse fossil";
+var mnemonic = "stage youth kind glory abuse exist derive dismiss income shy crane crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "midnight bring direct burst timber risk giant wealth famous view loud among";
+var mnemonic = "raw exhaust crack gate digital kit foil obvious shoe coach chapter giraffe";

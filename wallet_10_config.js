@@ -1,1 +1,1 @@
-var mnemonic = "close minute maze daughter toddler example frost timber utility spider remove hero";
+var mnemonic = "degree poet solve renew person champion knee pelican siren brief tunnel delay";

@@ -1,1 +1,1 @@
-var mnemonic = "ginger visual caution dignity casual skull anger airport light dismiss cute rookie";
+var mnemonic = "height give used symbol dynamic nasty barrel bottom box ridge trade actual";

@@ -1,1 +1,1 @@
-var mnemonic = "leave sugar canoe coil fossil kingdom reduce truck hobby child trust exotic";
+var mnemonic = "nurse retire enable run inherit unique equip blade maid doll leisure normal";

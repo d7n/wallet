@@ -1,1 +1,1 @@
-var mnemonic = "canyon ski loop cool mixed way erase entry web ocean occur romance";
+var mnemonic = "direct patrol label obey two sibling fence token total box coral end";

@@ -1,1 +1,1 @@
-var mnemonic = "vault globe amazing room switch pulse almost mobile marriage asthma critic crew";
+var mnemonic = "need autumn asset afford poem curious owner client runway glare impact chunk";

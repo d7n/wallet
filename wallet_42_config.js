@@ -1,1 +1,1 @@
-var mnemonic = "warrior moon advance leisure once lounge layer barrel ostrich case special soon";
+var mnemonic = "door goddess public crowd artefact swamp skill auto replace key roast rely";

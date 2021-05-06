@@ -1,1 +1,1 @@
-var mnemonic = "tent sudden party blast ugly work above dilemma love robust infant slot";
+var mnemonic = "power divide jar matrix floor shine tongue seed extend galaxy fan increase";

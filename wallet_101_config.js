@@ -1,1 +1,1 @@
-var mnemonic = "process pretty wife magnet garlic staff obscure oblige ordinary gather keen wife";
+var mnemonic = "curve plate slot loud velvet fish aim park admit slice atom talk";

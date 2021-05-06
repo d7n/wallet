@@ -1,1 +1,1 @@
-var mnemonic = "poverty option sad infant finger crowd tunnel broom laptop bunker fitness captain";
+var mnemonic = "tortoise page model volcano helmet raven crush ill balance pyramid profit hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "sphere number source horse eagle resource conduct census tilt toast screen want";
+var mnemonic = "crazy antenna tree live engine figure way never other sick task lemon";

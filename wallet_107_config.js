@@ -1,1 +1,1 @@
-var mnemonic = "order purse shallow require student seed tent outer beauty surround hat husband";
+var mnemonic = "hour abuse boost clean teach furnace clap prevent solve plunge fancy service";

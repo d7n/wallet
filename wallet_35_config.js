@@ -1,1 +1,1 @@
-var mnemonic = "path knee elder visit perfect tone village wool glory public village vocal";
+var mnemonic = "planet noodle jacket jacket wall labor rare bring garment custom whip excess";

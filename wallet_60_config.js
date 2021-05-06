@@ -1,1 +1,1 @@
-var mnemonic = "ketchup trick denial match orchard flame cotton target wall refuse action allow";
+var mnemonic = "wild panic memory hotel endorse act bonus session duty upper enter shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "cable canvas year jar bone entire path small club enrich shock emerge";
+var mnemonic = "crowd humble rifle eagle kingdom gold range paper exhaust board uphold canvas";

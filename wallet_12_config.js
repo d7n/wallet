@@ -1,1 +1,1 @@
-var mnemonic = "tuition soon come lamp tree busy bicycle argue clutch art upset addict";
+var mnemonic = "enrich copper health romance claim alcohol supply weather promote vicious crash test";

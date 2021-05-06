@@ -1,1 +1,1 @@
-var mnemonic = "dry language orchard abandon cube purpose section bid soccer float eager disease";
+var mnemonic = "strategy matrix bleak rent stomach celery elbow shiver valley hurt crunch rib";

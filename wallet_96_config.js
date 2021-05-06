@@ -1,1 +1,1 @@
-var mnemonic = "assume filter lawsuit hotel quarter glide slab usage supply guilt bunker snack";
+var mnemonic = "gift thrive connect curtain drink host limb dismiss verb notable eyebrow job";

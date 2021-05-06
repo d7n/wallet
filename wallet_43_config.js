@@ -1,1 +1,1 @@
-var mnemonic = "crash pride chimney quote enjoy next carbon side tomorrow street immense rare";
+var mnemonic = "aerobic report note skin order expect useful issue range oxygen wife give";

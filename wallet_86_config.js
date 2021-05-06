@@ -1,1 +1,1 @@
-var mnemonic = "already roof web bright pet coral wet clean milk gravity exact pretty";
+var mnemonic = "rigid motor bonus dose pear section equip attract basic foster shield receive";

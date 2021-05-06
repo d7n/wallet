@@ -1,1 +1,1 @@
-var mnemonic = "wise general margin turtle room glare vintage umbrella provide dinner charge february";
+var mnemonic = "merge daring spoon photo raise omit fix robust country avocado thumb sheriff";

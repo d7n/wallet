@@ -1,1 +1,1 @@
-var mnemonic = "blouse traffic whale tilt essay wash convince message valid isolate truck hybrid";
+var mnemonic = "assist mandate awkward chunk little audit random page marble wife report all";

@@ -1,1 +1,1 @@
-var mnemonic = "coffee replace police open select announce choose strategy congress recipe merit walnut";
+var mnemonic = "license deny extra sister toast palace globe chunk avocado notice innocent tree";

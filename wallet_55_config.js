@@ -1,1 +1,1 @@
-var mnemonic = "journey soul alone trial repair cream bamboo reunion balcony drop horror february";
+var mnemonic = "globe model tooth hobby rate dust snow danger manual dress nut match";

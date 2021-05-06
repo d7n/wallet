@@ -1,1 +1,1 @@
-var mnemonic = "exercise eternal camp cherry skate foot slot cost genius denial ribbon anchor";
+var mnemonic = "resist gorilla only omit result behind cost tribe donate mistake bring later";

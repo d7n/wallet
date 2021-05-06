@@ -1,1 +1,1 @@
-var mnemonic = "length age jungle tell genre faint junk hurdle bread lava unusual recycle";
+var mnemonic = "juice brown feature add solution sting laugh start winner region cradle tail";

@@ -1,1 +1,1 @@
-var mnemonic = "soft worry exist spray axis cool firm deal century select myth disorder";
+var mnemonic = "puzzle atom tragic bench laptop clutch mansion have fun crunch foster diamond";

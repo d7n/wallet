@@ -1,1 +1,1 @@
-var mnemonic = "hen exclude twin poet trial cupboard episode second wife supreme meat dirt";
+var mnemonic = "puzzle typical glad brief speed tunnel cupboard razor defense verify shoe fetch";

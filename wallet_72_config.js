@@ -1,1 +1,1 @@
-var mnemonic = "pause like boil token solar apology column crumble whisper almost evoke code";
+var mnemonic = "bus horn curious update ring street dolphin section water involve phone use";

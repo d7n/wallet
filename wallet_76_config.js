@@ -1,1 +1,1 @@
-var mnemonic = "head funny garment mother will effort fortune crunch nuclear ready payment drop";
+var mnemonic = "modify sentence believe cloud empty typical genius derive valve like maid industry";

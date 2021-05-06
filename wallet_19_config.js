@@ -1,1 +1,1 @@
-var mnemonic = "rookie end timber icon mercy wine fish laptop tiger demise already clever";
+var mnemonic = "lawsuit right weather honey tell maid camera swamp need oval drop pear";

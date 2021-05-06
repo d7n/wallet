@@ -1,1 +1,1 @@
-var mnemonic = "hint omit random acid east monkey pool valid toss universe assume puppy";
+var mnemonic = "physical upon skate vintage movie version raw category tilt cushion axis term";

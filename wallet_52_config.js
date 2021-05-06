@@ -1,1 +1,1 @@
-var mnemonic = "peace forum until loud act peanut drink post achieve mammal because aisle";
+var mnemonic = "coach favorite maximum wonder language eager trophy rookie metal cheap weekend cabbage";

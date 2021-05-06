@@ -1,1 +1,1 @@
-var mnemonic = "banner mutual dawn size select happy fatal gesture truck charge despair clog";
+var mnemonic = "mango drive candy clump essence phrase leopard capable sketch ski pill power";

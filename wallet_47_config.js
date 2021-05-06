@@ -1,1 +1,1 @@
-var mnemonic = "spread dream push industry lava inherit behave glory fresh develop round caution";
+var mnemonic = "bone riot unfold girl witness exercise pool pioneer pact purpose forward devote";

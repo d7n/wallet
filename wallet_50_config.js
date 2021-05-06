@@ -1,1 +1,1 @@
-var mnemonic = "wool walk broccoli piece bar other fresh glass retire educate volume decorate";
+var mnemonic = "runway mesh patch giggle scene real caution empower wrestle spoon labor game";

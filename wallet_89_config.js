@@ -1,1 +1,1 @@
-var mnemonic = "heart boat cat bright involve property dry ginger notable address mutual fluid";
+var mnemonic = "remove inhale hover cycle shed ski session derive pelican desert parrot liquid";

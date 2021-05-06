@@ -1,1 +1,1 @@
-var mnemonic = "accident scissors tooth scissors stomach hub trash worth deputy access myth drama";
+var mnemonic = "ocean device use indicate mass position truly door clock social transfer entire";

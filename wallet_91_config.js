@@ -1,1 +1,1 @@
-var mnemonic = "rescue couch genuine sound enlist length view silver derive silver turkey steak";
+var mnemonic = "tower sign era tuna text begin gather worth apple render fix guitar";

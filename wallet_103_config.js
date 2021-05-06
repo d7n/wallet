@@ -1,1 +1,1 @@
-var mnemonic = "alone labor ignore arena cram fossil dance fossil jazz collect reward fringe";
+var mnemonic = "learn tobacco man huge work hope border october stay scheme panel secret";

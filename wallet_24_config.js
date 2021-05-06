@@ -1,1 +1,1 @@
-var mnemonic = "raccoon segment one film lizard same brain sample few shaft globe fashion";
+var mnemonic = "acid always grit wink avoid target season joke verb direct meat flock";

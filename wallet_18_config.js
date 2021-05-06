@@ -1,1 +1,1 @@
-var mnemonic = "salad transfer pistol next yellow step math flower run peanut plug swamp";
+var mnemonic = "video net layer fitness two knock kite vote rookie waste shoot over";

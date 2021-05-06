@@ -1,1 +1,1 @@
-var mnemonic = "crash favorite two gesture flee repeat effort beauty creek huge tide base";
+var mnemonic = "load chief traffic magic drama ghost popular door way hire burger favorite";

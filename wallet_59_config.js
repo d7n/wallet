@@ -1,1 +1,1 @@
-var mnemonic = "claim funny bike chief purity valley nature provide fancy live immense snow";
+var mnemonic = "hazard shift toast wink dance dress method fault furnace menu soldier rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "bread excuse distance seven teach satisfy casino explain nephew grid call wood";
+var mnemonic = "sunny tornado rice lazy panic gap captain hospital reform material ready turtle";

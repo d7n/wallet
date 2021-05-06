@@ -1,1 +1,1 @@
-var mnemonic = "gain light cool debris doll core cattle panic sausage nothing extra again";
+var mnemonic = "state waste ethics pull galaxy hand awful segment swear adult monkey unveil";

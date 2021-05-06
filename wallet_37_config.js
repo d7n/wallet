@@ -1,1 +1,1 @@
-var mnemonic = "remain slam model main fame rocket close rural state option tackle increase";
+var mnemonic = "sister cycle limit code company planet drastic palm waste enact giant post";

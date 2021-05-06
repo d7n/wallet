@@ -1,1 +1,1 @@
-var mnemonic = "digital you moral donkey jealous river wide cream yellow federal dose path";
+var mnemonic = "kangaroo guard spread dinosaur empty glimpse census topic risk inside hospital soldier";

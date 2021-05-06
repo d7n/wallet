@@ -1,1 +1,1 @@
-var mnemonic = "pattern mechanic runway battle smoke exile side glimpse render early dog thumb";
+var mnemonic = "birth used horror profit camera conduct pottery canyon beauty silent fancy initial";

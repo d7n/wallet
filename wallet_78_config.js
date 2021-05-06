@@ -1,1 +1,1 @@
-var mnemonic = "device reopen slot success pulse dune nose thunder wash fringe foil gym";
+var mnemonic = "inquiry access burden safe gate during slush sniff hedgehog gospel endorse panic";

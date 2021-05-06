@@ -1,1 +1,1 @@
-var mnemonic = "practice hair say young warfare utility kite top cotton zone quarter install";
+var mnemonic = "yard virtual grief pair one vast quote this achieve vibrant height walk";

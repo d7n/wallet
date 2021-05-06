@@ -1,1 +1,1 @@
-var mnemonic = "tenant muscle celery blind decrease north left rare cake crack sure dial";
+var mnemonic = "pizza develop hurry gorilla tape detect afford hamster front indoor icon glimpse";

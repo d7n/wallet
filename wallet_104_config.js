@@ -1,1 +1,1 @@
-var mnemonic = "swing crouch carbon acoustic pull tide animal wreck tissue cream slot book";
+var mnemonic = "benefit scene thought advice dismiss meadow run grape middle equal supply eyebrow";

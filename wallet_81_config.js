@@ -1,1 +1,1 @@
-var mnemonic = "jacket replace erupt liquid fantasy myth year lonely flavor depart pizza coach";
+var mnemonic = "size sign gauge gloom speed network kingdom easy profit good credit sample";
