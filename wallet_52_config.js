@@ -1,1 +1,1 @@
-var mnemonic = "pull gain horror together city raw stomach process follow excite senior spatial";
+var mnemonic = "vintage sell floor guide gym enable own license chuckle host peace level";

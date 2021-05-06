@@ -1,1 +1,1 @@
-var mnemonic = "media blossom define glide reward renew canyon settle response cute play fantasy";
+var mnemonic = "nuclear trap brand cage opinion orient word point later lobster uncover silk";

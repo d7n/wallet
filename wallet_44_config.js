@@ -1,1 +1,1 @@
-var mnemonic = "banana tooth record elite filter merge swap subject fiction increase enable figure";
+var mnemonic = "wave slam wrestle liberty opera helmet blur together collect jump calm brick";

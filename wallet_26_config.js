@@ -1,1 +1,1 @@
-var mnemonic = "hamster cinnamon victory anchor client any danger wasp iron bullet fiction render";
+var mnemonic = "unaware gas oak leaf jealous arm lamp coach rally visa logic grief";

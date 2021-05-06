@@ -1,1 +1,1 @@
-var mnemonic = "chronic under cushion half armor chicken educate diary swing deposit marine differ";
+var mnemonic = "okay tray smart month pottery relief ordinary weekend topple devote toddler dry";

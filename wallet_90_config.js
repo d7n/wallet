@@ -1,1 +1,1 @@
-var mnemonic = "lumber excuse maple imitate tube syrup shoe eyebrow route ceiling enable memory";
+var mnemonic = "wreck opera universe lens suggest camp gallery bronze outside outer gas degree";

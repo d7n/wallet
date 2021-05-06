@@ -1,1 +1,1 @@
-var mnemonic = "noise fabric rescue odor drastic defense dumb vote nation chalk busy napkin";
+var mnemonic = "fault such keep comfort fluid celery borrow rotate empty mesh opera swing";

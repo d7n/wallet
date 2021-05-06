@@ -1,1 +1,1 @@
-var mnemonic = "inquiry tail mixed rabbit cook property oak special bottom defy pistol pizza";
+var mnemonic = "young advice right process skill hybrid pitch duty shrug grain boss cream";

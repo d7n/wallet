@@ -1,1 +1,1 @@
-var mnemonic = "either fragile equip useful alien client enrich capable wire judge diet school";
+var mnemonic = "wish taxi comfort animal ozone unit replace own shrug arena skirt hover";

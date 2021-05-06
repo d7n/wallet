@@ -1,1 +1,1 @@
-var mnemonic = "dumb lazy obscure shoulder current tomato forest paddle zero illness insane warm";
+var mnemonic = "dinosaur chuckle grit pause vessel drink tag jewel layer build wonder output";

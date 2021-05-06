@@ -1,1 +1,1 @@
-var mnemonic = "pigeon secret garlic elegant leisure muffin prefer front empower benefit tortoise index";
+var mnemonic = "option hint obtain open arrange sea season base moment grain finish bleak";

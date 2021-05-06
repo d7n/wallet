@@ -1,1 +1,1 @@
-var mnemonic = "zero wage fossil table buzz kind entry keen trade mixed where solar";
+var mnemonic = "island fault three master follow polar arena draft echo empty bicycle sword";

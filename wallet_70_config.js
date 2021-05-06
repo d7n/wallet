@@ -1,1 +1,1 @@
-var mnemonic = "purchase rail aunt bench surge exist donate proof fit patient seminar suffer";
+var mnemonic = "diagram inside response weather satisfy season evoke ability custom amused stereo cave";

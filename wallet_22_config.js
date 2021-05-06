@@ -1,1 +1,1 @@
-var mnemonic = "false legal speak youth about prize blur margin edit nephew icon vapor";
+var mnemonic = "garlic step popular daughter balcony document laugh make reopen thing attract unhappy";

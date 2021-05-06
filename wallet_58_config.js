@@ -1,1 +1,1 @@
-var mnemonic = "great rack decide glare machine grocery anxiety sword rail tortoise clinic bicycle";
+var mnemonic = "toss wealth kitchen year dose doctor excite divert tuna involve because animal";

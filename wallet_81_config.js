@@ -1,1 +1,1 @@
-var mnemonic = "lemon crush uniform portion spray pledge intact unlock spare fruit rotate muffin";
+var mnemonic = "act trim cash pattern net athlete noodle another smooth suffer need proud";

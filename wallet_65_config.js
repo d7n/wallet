@@ -1,1 +1,1 @@
-var mnemonic = "soup patient sheriff loyal clump gold canal pond office decorate sunny lab";
+var mnemonic = "then achieve execute pole chapter tank local hawk quarter laptop toast such";

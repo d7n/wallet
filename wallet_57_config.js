@@ -1,1 +1,1 @@
-var mnemonic = "refuse sense slide plate laugh act wonder electric cabin culture library stand";
+var mnemonic = "endless two federal sunset stand cradle apple fortune session woman stumble cloth";

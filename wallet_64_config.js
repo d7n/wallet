@@ -1,1 +1,1 @@
-var mnemonic = "dose conduct unlock ghost observe weasel hybrid exact real dinosaur unusual quantum";
+var mnemonic = "stock void unable whale excess giggle device quick credit great disorder focus";

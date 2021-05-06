@@ -1,1 +1,1 @@
-var mnemonic = "silly police such smooth throw bachelor rotate source group merit trade paddle";
+var mnemonic = "inject below decline mountain grocery car jungle great forward educate increase post";

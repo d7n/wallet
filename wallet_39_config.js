@@ -1,1 +1,1 @@
-var mnemonic = "ordinary position leg whale grape garbage elegant predict spy borrow eight engine";
+var mnemonic = "pipe design raven super sudden skate eyebrow wet ripple ability judge verify";

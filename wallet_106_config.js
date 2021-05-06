@@ -1,1 +1,1 @@
-var mnemonic = "letter cute zone consider key loyal space soda curious away juice lobster";
+var mnemonic = "since mechanic joy wolf enter tortoise cinnamon cheese round must fold table";

@@ -1,1 +1,1 @@
-var mnemonic = "palace kangaroo umbrella bird tide car muffin whisper water destroy month dune";
+var mnemonic = "frown test farm detect bamboo ice blade badge sustain leisure pelican long";

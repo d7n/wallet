@@ -1,1 +1,1 @@
-var mnemonic = "relief kind elite lady fish mosquito quality system iron argue eight cigar";
+var mnemonic = "focus clip consider bone hundred river diary talent loyal diesel ugly junior";

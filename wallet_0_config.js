@@ -1,1 +1,1 @@
-var mnemonic = "fit blood innocent velvet company dish mother stone easily defense proud rib";
+var mnemonic = "protect slender enrich patient theory benefit bus oblige notable section empty flower";

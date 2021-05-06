@@ -1,1 +1,1 @@
-var mnemonic = "kit border trash demand truck grace junior obtain poet marble cave tomato";
+var mnemonic = "coin pyramid reform obtain scan tree bundle disease much bleak dust gun";

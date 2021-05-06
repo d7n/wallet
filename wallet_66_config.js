@@ -1,1 +1,1 @@
-var mnemonic = "liquid badge spawn shadow tide night capital child endorse despair wagon elder";
+var mnemonic = "jar physical tribe mistake artwork plunge scheme help nice outside gloom frog";

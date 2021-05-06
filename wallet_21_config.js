@@ -1,1 +1,1 @@
-var mnemonic = "slab network actress emotion cannon color tent hunt fox adjust cigar credit";
+var mnemonic = "radar region legal language forget cradle chronic mutual minor recall fine science";

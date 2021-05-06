@@ -1,1 +1,1 @@
-var mnemonic = "swift ridge heart track school horror tomato album measure baby deposit math";
+var mnemonic = "mixture inmate interest skin approve creek fog dragon divert size frog bus";

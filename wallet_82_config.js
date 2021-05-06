@@ -1,1 +1,1 @@
-var mnemonic = "grass heart elegant vague wink paddle myself spare morning clarify table hint";
+var mnemonic = "lawsuit nuclear salt ritual begin input reunion inspire lecture stay expand vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain nut choose antique master furnace guilt remind appear ribbon drip night";
+var mnemonic = "nature remove beauty often hazard bulb pattern true indoor skull timber adapt";

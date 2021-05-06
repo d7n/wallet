@@ -1,1 +1,1 @@
-var mnemonic = "ozone absent equip protect fossil blush kind segment awful essence inherit distance";
+var mnemonic = "lamp vacuum vanish riot egg close behave hundred auction voyage heart view";

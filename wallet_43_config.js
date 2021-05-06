@@ -1,1 +1,1 @@
-var mnemonic = "exotic boss knee save honey stamp olympic square rally trash sadness daughter";
+var mnemonic = "trim turkey lecture wear check shoe smooth oppose jar female soul skill";

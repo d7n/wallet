@@ -1,1 +1,1 @@
-var mnemonic = "wing disagree firm inquiry program pass legal chair pulse equip run avocado";
+var mnemonic = "patch rubber during cactus expand solar access amused believe beyond total limit";

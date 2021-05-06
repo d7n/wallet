@@ -1,1 +1,1 @@
-var mnemonic = "dance omit error globe gasp require lunch erase autumn excuse afraid vehicle";
+var mnemonic = "false bottom around horn library crunch frequent system fuel boy cabbage move";

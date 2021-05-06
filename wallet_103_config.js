@@ -1,1 +1,1 @@
-var mnemonic = "mule tragic worry solution tiny start model aim gift same six message";
+var mnemonic = "afford later federal scare pledge script aisle nose mass message media present";

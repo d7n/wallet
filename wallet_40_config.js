@@ -1,1 +1,1 @@
-var mnemonic = "happy crew insane random staff thrive swim excuse empower strike author trap";
+var mnemonic = "reflect essence base below melody lizard lounge elegant dignity ritual often grit";

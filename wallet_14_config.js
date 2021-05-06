@@ -1,1 +1,1 @@
-var mnemonic = "sheriff action galaxy pond stool tragic size flee wealth tent glass divorce";
+var mnemonic = "pupil earth wreck public panel chase sorry rival pepper pelican dry bachelor";

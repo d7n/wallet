@@ -1,1 +1,1 @@
-var mnemonic = "mix party civil message scheme inject forward balance choice kingdom column episode";
+var mnemonic = "ordinary lounge present title universe amused place unveil guard wet cousin swift";

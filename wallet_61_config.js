@@ -1,1 +1,1 @@
-var mnemonic = "interest glory lend drive insane matrix medal dry dune local cherry lava";
+var mnemonic = "deny practice belt comfort town museum crash remain benefit foster visa differ";

@@ -1,1 +1,1 @@
-var mnemonic = "someone oven giraffe purpose jungle wish cotton gentle drama hood expect dove";
+var mnemonic = "baby unit alley only glide alter pelican speak child ship design push";

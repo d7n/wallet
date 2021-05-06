@@ -1,1 +1,1 @@
-var mnemonic = "can wet garment glance trend range ceiling summer until february stairs artefact";
+var mnemonic = "visa sadness biology excuse aspect junior illegal flight own cat praise dragon";

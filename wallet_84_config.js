@@ -1,1 +1,1 @@
-var mnemonic = "olympic brick patch exhaust describe true rather neither exit boy blossom duck";
+var mnemonic = "bonus patch beauty derive good actress old gate faculty cattle virtual estate";

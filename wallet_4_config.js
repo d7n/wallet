@@ -1,1 +1,1 @@
-var mnemonic = "around vague dutch nurse brother hood panther sniff timber kidney unfair velvet";
+var mnemonic = "parade satoshi enroll hard impulse struggle blade blouse creek charge resemble skirt";

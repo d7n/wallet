@@ -1,1 +1,1 @@
-var mnemonic = "bamboo whisper fly symptom one violin grunt invest truly fashion cattle item";
+var mnemonic = "neutral economy ugly harbor cable giant match bean anger crazy rabbit repeat";

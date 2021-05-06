@@ -1,1 +1,1 @@
-var mnemonic = "foam bird feel amazing obtain employ cactus call easy marriage crisp print";
+var mnemonic = "farm arena pattern special jeans walnut leisure grunt ripple impact deliver ensure";

@@ -1,1 +1,1 @@
-var mnemonic = "first topic physical balcony try leaf hand royal unaware suggest clutch debate";
+var mnemonic = "trick sample property giant organ donkey civil crowd hair stereo burden wedding";

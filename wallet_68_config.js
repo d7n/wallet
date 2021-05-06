@@ -1,1 +1,1 @@
-var mnemonic = "purity peanut acoustic stay fantasy gift describe creek holiday audit best sock";
+var mnemonic = "mosquito aunt session major retreat remember coyote glimpse legal warm hope steel";

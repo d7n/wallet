@@ -1,1 +1,1 @@
-var mnemonic = "dune rug tissue cigar elevator record rail feel walnut prevent elite proud";
+var mnemonic = "muffin flower want road whale horn betray install welcome frame bean huge";

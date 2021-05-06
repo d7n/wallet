@@ -1,1 +1,1 @@
-var mnemonic = "mass together inhale minor trade change apple chase shine canyon evoke toe";
+var mnemonic = "rude fluid vanish canvas robot lazy flee laugh sauce grow power agent";

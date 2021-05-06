@@ -1,1 +1,1 @@
-var mnemonic = "mouse mammal spirit tomato viable together razor zero man strategy health bag";
+var mnemonic = "sense guide more pudding room world february virus cost bounce plate major";

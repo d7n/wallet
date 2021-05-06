@@ -1,1 +1,1 @@
-var mnemonic = "rely defy raw wrap file business avoid anger negative nerve glare indoor";
+var mnemonic = "police artefact glue siege orbit robot color bubble mother welcome wreck knife";

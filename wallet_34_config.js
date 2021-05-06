@@ -1,1 +1,1 @@
-var mnemonic = "exit deputy force social plastic still pill weasel twin daughter cluster lab";
+var mnemonic = "box flame bright frozen vocal dilemma make wink hold elevator budget achieve";

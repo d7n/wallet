@@ -1,1 +1,1 @@
-var mnemonic = "nice evidence tower output volume among mixture door memory winter steel trouble";
+var mnemonic = "vault crisp era basic jealous risk rifle equal lumber earth identify mountain";

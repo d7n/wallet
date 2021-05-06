@@ -1,1 +1,1 @@
-var mnemonic = "genius supreme track siege stable layer obvious victory knee amateur derive cupboard";
+var mnemonic = "clinic poet drift size hour laundry certain emotion learn grant cushion floor";

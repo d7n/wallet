@@ -1,1 +1,1 @@
-var mnemonic = "boss hockey rhythm mask mask hamster ahead strike space buyer wife trial";
+var mnemonic = "piece bike swift grocery luggage split cheese upon crack mean view acoustic";

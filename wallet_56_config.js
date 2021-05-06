@@ -1,1 +1,1 @@
-var mnemonic = "try sad choose submit jeans piano bag pipe whisper better badge exotic";
+var mnemonic = "subject laundry coil bonus oven increase drama amateur deal winter raccoon mistake";

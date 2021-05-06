@@ -1,1 +1,1 @@
-var mnemonic = "west silent ship oblige upset defy february nation develop street air ocean";
+var mnemonic = "until chapter labor appear gaze often caught salmon hybrid speak squeeze alone";

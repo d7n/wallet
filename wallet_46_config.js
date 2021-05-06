@@ -1,1 +1,1 @@
-var mnemonic = "unit stone pole blind album century drill duck aspect common congress logic";
+var mnemonic = "else hope fog autumn tennis uncover curious earth pottery dash lunar repair";

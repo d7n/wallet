@@ -1,1 +1,1 @@
-var mnemonic = "receive comic flush security innocent actor sunny level home buffalo renew lawsuit";
+var mnemonic = "history output thing police bunker visual artist element melt term rail brass";

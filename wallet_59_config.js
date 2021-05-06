@@ -1,1 +1,1 @@
-var mnemonic = "left shy bracket net seek gentle devote alert smooth hybrid one green";
+var mnemonic = "ecology squeeze wheel click security sudden soul jacket idle empty pole behind";

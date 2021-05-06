@@ -1,1 +1,1 @@
-var mnemonic = "worry derive stay stove virtual gate weasel van proud orange pupil coil";
+var mnemonic = "keen tag cloud hybrid force harvest issue depart neutral cushion fold laundry";

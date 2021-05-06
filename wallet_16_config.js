@@ -1,1 +1,1 @@
-var mnemonic = "park cannon six anxiety guard later solid become pepper throw consider trash";
+var mnemonic = "melody garden clump general finger arctic isolate regret jar decorate six mule";

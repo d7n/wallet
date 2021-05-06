@@ -1,1 +1,1 @@
-var mnemonic = "still hawk involve walk federal very barely flush attitude shield skin more";
+var mnemonic = "negative wood media wagon fantasy divide sort dance issue believe cream wagon";

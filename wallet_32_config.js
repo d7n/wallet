@@ -1,1 +1,1 @@
-var mnemonic = "spy trend roof patch drama permit crucial jeans blanket sea furnace bar";
+var mnemonic = "lake debate garbage civil step six anchor give mail trap turtle wage";

@@ -1,1 +1,1 @@
-var mnemonic = "beef kingdom where extra certain blast trust rather coyote foam obscure vessel";
+var mnemonic = "style seed bundle margin once globe later smooth direct virtual suffer expect";

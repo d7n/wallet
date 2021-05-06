@@ -1,1 +1,1 @@
-var mnemonic = "quote siege blade cupboard airport thing universe attract exist bird cereal march";
+var mnemonic = "mind decade junior knock grief blush glad borrow thought right donate shove";

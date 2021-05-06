@@ -1,1 +1,1 @@
-var mnemonic = "slab alert gate join normal claim marble marriage search face illegal worth";
+var mnemonic = "riot rely walnut degree song search believe napkin weasel uncover viable frozen";

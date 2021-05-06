@@ -1,1 +1,1 @@
-var mnemonic = "van early trial theme essay vintage mix frequent attract clown elegant typical";
+var mnemonic = "assist garment alter harsh satoshi index napkin credit inject amount east retire";

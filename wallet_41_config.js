@@ -1,1 +1,1 @@
-var mnemonic = "can range hello nice abandon vocal seed moon try short grocery faith";
+var mnemonic = "potato frog mosquito cable grass cabbage poem behave tuna enjoy magnet bag";

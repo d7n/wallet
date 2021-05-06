@@ -1,1 +1,1 @@
-var mnemonic = "family grocery laundry youth aware silent twist school coconut case husband gentle";
+var mnemonic = "town second forward labor ceiling maple monitor emotion detail jacket domain menu";

@@ -1,1 +1,1 @@
-var mnemonic = "increase mule kiwi lucky salon cushion dream immune light quiz thank luggage";
+var mnemonic = "swear business orbit woman language private stairs balcony few fringe canvas spirit";

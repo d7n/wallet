@@ -1,1 +1,1 @@
-var mnemonic = "error grow upset raw patient slender coil fault near drift music burden";
+var mnemonic = "cereal crash staff fiction brave zoo cushion rather network area derive true";

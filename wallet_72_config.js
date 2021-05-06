@@ -1,1 +1,1 @@
-var mnemonic = "proud expand picture ridge candy found lens into soup expand mirror dash";
+var mnemonic = "shove youth orchard pony clog junior route ladder cotton motion angle fluid";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal forum document slot gasp immune bargain stage tag advance amazing tip";
+var mnemonic = "ahead weasel hotel type local assume mirror seminar pass salt vivid veteran";

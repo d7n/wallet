@@ -1,1 +1,1 @@
-var mnemonic = "stable avocado olive appear must jazz arch used twin bonus reopen giggle";
+var mnemonic = "tenant best click reflect make ripple enjoy middle wife reform verb breeze";

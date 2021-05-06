@@ -1,1 +1,1 @@
-var mnemonic = "diary sadness school patch jeans grant fall mind hammer merit mother series";
+var mnemonic = "noble violin benefit nothing border catch oven bring decorate drink mirror plunge";

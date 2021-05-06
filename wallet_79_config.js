@@ -1,1 +1,1 @@
-var mnemonic = "enter truly elevator soup toss gun syrup solution develop bubble viable gallery";
+var mnemonic = "capital cart garage rookie sunset rhythm armor royal hurdle trade area solar";

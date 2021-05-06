@@ -1,1 +1,1 @@
-var mnemonic = "soft faculty crop similar certain marble amount broccoli recycle thumb stand cave";
+var mnemonic = "fork install fantasy certain tired idle wall level cream supply horse mirror";

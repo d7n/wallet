@@ -1,1 +1,1 @@
-var mnemonic = "come horn dove minute anger thumb crash divide ethics ramp unfair icon";
+var mnemonic = "today stumble scale diesel august pole weather close economy ketchup century decade";

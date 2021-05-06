@@ -1,1 +1,1 @@
-var mnemonic = "radar cabin gallery history access desk vintage junk base expand tube burst";
+var mnemonic = "bus lab wrestle mobile jewel display marine copper broccoli oak fetch trip";

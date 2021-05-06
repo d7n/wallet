@@ -1,1 +1,1 @@
-var mnemonic = "exhibit rib curtain furnace model cliff panda heavy poem upon sad chronic";
+var mnemonic = "hammer reopen resist race moment weird bamboo squeeze post fever dolphin metal";

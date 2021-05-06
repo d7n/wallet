@@ -1,1 +1,1 @@
-var mnemonic = "sibling tunnel try dolphin valley hospital hero stock forest sure busy century";
+var mnemonic = "glass ketchup use recycle camera blanket marble dove inquiry denial pipe average";

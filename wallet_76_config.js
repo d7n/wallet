@@ -1,1 +1,1 @@
-var mnemonic = "pill loyal that lounge sun pear type joke perfect parade muffin teach";
+var mnemonic = "habit wedding identify turkey snack blast toddler share include sister author amateur";

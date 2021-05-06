@@ -1,1 +1,1 @@
-var mnemonic = "donor swift below pride release cannon where access cheap palace still aspect";
+var mnemonic = "primary monkey slot raven trash elegant find lunch orange void clinic brother";
