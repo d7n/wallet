@@ -1,1 +1,1 @@
-var mnemonic = "item wall allow resemble very cloud sugar taxi want public claw liquid";
+var mnemonic = "session reopen kid reason domain praise coin stay shallow fresh stable direct";

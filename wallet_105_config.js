@@ -1,1 +1,1 @@
-var mnemonic = "broom muffin hazard catch vibrant fork poverty measure wealth upon lava skate";
+var mnemonic = "amount write prize doll wheat own blouse clap action output involve lawsuit";

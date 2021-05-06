@@ -1,1 +1,1 @@
-var mnemonic = "tube rotate world multiply south phrase boss orchard split arrow derive song";
+var mnemonic = "pepper mad maximum van home doll polar critic machine cliff absurd prevent";

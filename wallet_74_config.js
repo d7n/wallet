@@ -1,1 +1,1 @@
-var mnemonic = "room curve opera blanket lamp allow margin squeeze indoor steak story scan";
+var mnemonic = "brick arrange surprise lazy betray pattern enhance adult piece assault fog return";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual tone walnut cram coach planet shaft dash punch sense dial goose";
+var mnemonic = "access always example climb vapor cricket snake ankle sound scrub link arctic";

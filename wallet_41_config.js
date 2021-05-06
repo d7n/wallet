@@ -1,1 +1,1 @@
-var mnemonic = "blind shove valve ivory hill inspire forum good cart special seek drive";
+var mnemonic = "seven feed year remember raise wide common strategy matrix another loud sadness";

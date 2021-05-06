@@ -1,1 +1,1 @@
-var mnemonic = "dutch across sock attend unaware illegal upset forest useless mosquito nation filter";
+var mnemonic = "pizza lunch eagle train pond leopard control suggest twice addict tower coral";

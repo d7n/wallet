@@ -1,1 +1,1 @@
-var mnemonic = "urban camp baby output sister chaos margin cherry creek arm ginger harbor";
+var mnemonic = "sock choose rent stable churn until inform promote text token river joy";

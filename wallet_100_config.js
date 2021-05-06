@@ -1,1 +1,1 @@
-var mnemonic = "unit height between demise pony cash assist shove praise cat usual perfect";
+var mnemonic = "scrap yellow flag embark again unhappy cross please sock blush cinnamon luxury";

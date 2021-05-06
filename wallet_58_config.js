@@ -1,1 +1,1 @@
-var mnemonic = "aerobic clown baby slim health salute rural depth glue joy stay evoke";
+var mnemonic = "tourist master travel spin stem smoke jar sea device moment object skate";

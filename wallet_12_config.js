@@ -1,1 +1,1 @@
-var mnemonic = "junk wolf play exchange trip yard clump vanish unfair actress online antenna";
+var mnemonic = "sort elevator planet popular hello boat muscle shaft laptop carry program lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "inherit draft next copper mask account notable concert kiwi desk best hole";
+var mnemonic = "sample drive zoo crawl lazy spread demise wall novel pelican erode warm";

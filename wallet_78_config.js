@@ -1,1 +1,1 @@
-var mnemonic = "odor expose dash furnace maze wolf all cotton patient soup main apple";
+var mnemonic = "want human brisk powder anxiety again mercy more nose divide another dish";

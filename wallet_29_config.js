@@ -1,1 +1,1 @@
-var mnemonic = "unit valid jelly reject master dress report climb vote venue occur anxiety";
+var mnemonic = "green patient breeze cram town awesome possible elegant satisfy attack repeat forum";

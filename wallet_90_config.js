@@ -1,1 +1,1 @@
-var mnemonic = "moon sugar bleak nephew almost salute detail appear apology domain goat spin";
+var mnemonic = "gesture tuition ready gaze install test impulse address rice pill noble lunar";

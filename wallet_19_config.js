@@ -1,1 +1,1 @@
-var mnemonic = "benefit boat major chief feel exclude office click spin country vault detect";
+var mnemonic = "stage know helmet lava upper base huge wire alley diesel engine raven";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm puzzle hard ability valid swing cigar funny mechanic story bread slow";
+var mnemonic = "attack broken dinosaur artwork buffalo spice unique bone avocado slow style result";

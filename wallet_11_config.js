@@ -1,1 +1,1 @@
-var mnemonic = "plunge radio couple chuckle virus style trap laugh coast ethics yard deposit";
+var mnemonic = "will fall clay demand idea fold voyage letter desert spring leave shove";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy undo message merit loop harvest ring shoulder fatigue door summer evoke";
+var mnemonic = "detail country virtual finish journey ankle parent need cute frown aim punch";

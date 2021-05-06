@@ -1,1 +1,1 @@
-var mnemonic = "device exit person spoon belt toilet jealous zone hazard monster asset gown";
+var mnemonic = "onion lend shine round smile income one artwork divert leader owner crumble";

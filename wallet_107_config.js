@@ -1,1 +1,1 @@
-var mnemonic = "pet quarter car tiny uncover leave unlock lend hobby scrub state hello";
+var mnemonic = "inquiry invite shove candy put dose satisfy crew autumn olive garden doll";

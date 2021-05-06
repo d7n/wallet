@@ -1,1 +1,1 @@
-var mnemonic = "soda hobby earth false noble decade under immune flag thumb verb employ";
+var mnemonic = "maple roof bus nominee upper inquiry pattern about census visa dash wrap";

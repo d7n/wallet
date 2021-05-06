@@ -1,1 +1,1 @@
-var mnemonic = "exile siren never useless where drift middle foster palace jelly hungry shoe";
+var mnemonic = "vacuum empty such judge anxiety stairs fury dune circle item undo radar";

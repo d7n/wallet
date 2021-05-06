@@ -1,1 +1,1 @@
-var mnemonic = "sick ribbon lunar rug mirror rude adjust cluster add very spring enroll";
+var mnemonic = "horse feed false open jar author twin blame number soda fly where";

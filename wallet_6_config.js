@@ -1,1 +1,1 @@
-var mnemonic = "tenant dinosaur metal capable inch above ladder submit train aim laptop evil";
+var mnemonic = "draw orchard renew salon lumber easy clerk embark modify large undo expire";

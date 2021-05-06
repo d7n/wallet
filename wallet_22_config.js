@@ -1,1 +1,1 @@
-var mnemonic = "predict loan roof unhappy pelican oval limb endless margin north spike dismiss";
+var mnemonic = "better autumn across notice joy drive dirt connect onion cliff toy label";

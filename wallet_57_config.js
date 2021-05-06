@@ -1,1 +1,1 @@
-var mnemonic = "beef fan jacket organ erode ancient height vessel boss window empty have";
+var mnemonic = "rule equip quit habit soup piece produce oxygen bulb outdoor scatter satisfy";

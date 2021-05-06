@@ -1,1 +1,1 @@
-var mnemonic = "sauce wood enrich motor fetch vivid provide edge wisdom energy speak minimum";
+var mnemonic = "group grab alien state novel labor essence build omit helmet door more";

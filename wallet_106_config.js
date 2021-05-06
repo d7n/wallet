@@ -1,1 +1,1 @@
-var mnemonic = "skate cluster tackle risk exile farm dice rigid liar tired animal treat";
+var mnemonic = "month vast hawk oval vapor veteran wild cage engine divert much arena";

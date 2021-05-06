@@ -1,1 +1,1 @@
-var mnemonic = "cream fluid huge voyage name verb pear shuffle energy fat sure edge";
+var mnemonic = "sense amazing exercise inform avocado route question upset egg bag bubble river";

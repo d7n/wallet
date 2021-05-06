@@ -1,1 +1,1 @@
-var mnemonic = "wet saddle barely hotel tobacco you cake milk jazz dynamic gift tenant";
+var mnemonic = "height void secret birth manage isolate defense acoustic virtual private fatal strike";

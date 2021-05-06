@@ -1,1 +1,1 @@
-var mnemonic = "bright ladder forget excite custom pull under winner any auto change beach";
+var mnemonic = "nice ski used series valve spell medal custom need pig diesel impact";

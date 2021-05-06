@@ -1,1 +1,1 @@
-var mnemonic = "label stumble garment icon chat scare flower toward lunar velvet dose food";
+var mnemonic = "produce brisk prosper select please together program random fragile cargo hero subject";

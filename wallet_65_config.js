@@ -1,1 +1,1 @@
-var mnemonic = "drama transfer menu use fiction enter taste attract catch jelly weird shoe";
+var mnemonic = "ecology ghost impose return luxury fiction foam dynamic stomach circle crucial actress";

@@ -1,1 +1,1 @@
-var mnemonic = "select arm slot fame increase follow bonus beauty eye ethics artefact kite";
+var mnemonic = "powder despair video clip fashion history zoo bachelor agree monster joke clarify";

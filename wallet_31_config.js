@@ -1,1 +1,1 @@
-var mnemonic = "impose blanket clerk visit roof promote pass deer spawn member pole rotate";
+var mnemonic = "route vicious extend baby patient ocean aware online tail sugar surface endless";

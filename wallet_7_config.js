@@ -1,1 +1,1 @@
-var mnemonic = "dream flame ask symbol hurt earth duck broom copy run victory account";
+var mnemonic = "destroy chest cargo decade grain million magic lumber wave grid tourist fix";

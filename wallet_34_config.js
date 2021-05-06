@@ -1,1 +1,1 @@
-var mnemonic = "cross opinion shy behave aisle impulse kind range nothing honey off repair";
+var mnemonic = "permit dilemma animal coil diesel spy swamp risk diary rebel ill what";

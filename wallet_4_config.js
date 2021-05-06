@@ -1,1 +1,1 @@
-var mnemonic = "review solve nuclear dolphin book night exercise gas eternal warm chalk donkey";
+var mnemonic = "idea chronic tip tray grace carry tissue oppose credit loud sheriff candy";

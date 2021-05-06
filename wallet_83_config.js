@@ -1,1 +1,1 @@
-var mnemonic = "fly orbit hybrid convince first quality lyrics come subway exile clutch mystery";
+var mnemonic = "term world mother hill music firm knife any correct analyst neutral deal";

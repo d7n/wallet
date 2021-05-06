@@ -1,1 +1,1 @@
-var mnemonic = "year section smooth turtle picture analyst adapt basic devote robust energy isolate";
+var mnemonic = "country angle satoshi engage text gold vacant lunar toe tomorrow tool science";

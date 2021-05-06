@@ -1,1 +1,1 @@
-var mnemonic = "deliver soft noise repair unique clip kick popular state crazy broken talent";
+var mnemonic = "mule pill torch link flavor aisle beyond coconut hundred field jacket ice";

@@ -1,1 +1,1 @@
-var mnemonic = "that broccoli yard essence very obtain grid dynamic twice gesture artist media";
+var mnemonic = "popular random crane saddle atom shop fly mandate during cash ability chapter";

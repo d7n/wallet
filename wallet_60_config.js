@@ -1,1 +1,1 @@
-var mnemonic = "century file match dynamic carry fire practice gold jelly bunker toward auto";
+var mnemonic = "dad divert hawk speak peanut wise alley miracle orchard eight include right";

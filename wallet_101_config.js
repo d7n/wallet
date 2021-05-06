@@ -1,1 +1,1 @@
-var mnemonic = "rose item bunker ticket expose cycle liquid very hidden evolve egg milk";
+var mnemonic = "exchange season slice help little appear swing become pill attitude title brown";

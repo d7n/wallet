@@ -1,1 +1,1 @@
-var mnemonic = "couple brave tragic vast empty half increase prison pull cook settle mirror";
+var mnemonic = "glue solar reject penalty bachelor match worth resist manual health diagram damp";

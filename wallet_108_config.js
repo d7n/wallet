@@ -1,1 +1,1 @@
-var mnemonic = "divorce banner derive someone poet drive useless mirror say tortoise boat garlic";
+var mnemonic = "shoe tenant photo language bring census fence cactus anchor coach act private";

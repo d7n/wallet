@@ -1,1 +1,1 @@
-var mnemonic = "smooth canal episode student exclude unhappy solution cash puppy grass kiss tumble";
+var mnemonic = "humble chase snack fun year next ordinary spot pear ivory alert boy";

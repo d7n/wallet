@@ -1,1 +1,1 @@
-var mnemonic = "cousin domain deliver miracle uncover detail daughter gap gospel stick tooth error";
+var mnemonic = "awful draft camera evidence athlete maple trouble attitude coin arch magnet thing";

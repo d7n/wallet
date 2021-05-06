@@ -1,1 +1,1 @@
-var mnemonic = "tunnel payment lecture reveal shed mystery fun monkey improve glad cruise legal";
+var mnemonic = "cat stove crowd elbow affair drive balance ramp spoon muffin kind wink";

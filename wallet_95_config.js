@@ -1,1 +1,1 @@
-var mnemonic = "crumble one walnut between observe early alone peanut license book open chat";
+var mnemonic = "affair scrub floor hen two cause cash provide ocean ball reunion brisk";

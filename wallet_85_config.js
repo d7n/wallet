@@ -1,1 +1,1 @@
-var mnemonic = "pen eyebrow verify there beef analyst pond album genius sunset enact body";
+var mnemonic = "mechanic citizen insane kid doctor move update hazard drill rural rapid slush";

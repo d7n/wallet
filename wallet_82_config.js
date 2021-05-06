@@ -1,1 +1,1 @@
-var mnemonic = "swarm indoor hour dove address lawn acquire upgrade travel fantasy grow mistake";
+var mnemonic = "sleep forward ranch weird nice spy address erosion genuine slight spell spot";

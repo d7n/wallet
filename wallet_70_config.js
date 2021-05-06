@@ -1,1 +1,1 @@
-var mnemonic = "clip ribbon course lunch able sibling index remove skull december clip frost";
+var mnemonic = "program erase gesture pudding warrior couple rent swim scissors flash custom voice";

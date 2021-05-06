@@ -1,1 +1,1 @@
-var mnemonic = "alarm alone online speed moon edge salt woman hour inform tired defy";
+var mnemonic = "neglect riot price core pistol quick check child ladder pistol ritual such";

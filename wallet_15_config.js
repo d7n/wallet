@@ -1,1 +1,1 @@
-var mnemonic = "robust forest naive world tackle thing hazard soldier mother catalog addict seven";
+var mnemonic = "reunion laundry cluster blast dice island click early unique salt sister random";

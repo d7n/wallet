@@ -1,1 +1,1 @@
-var mnemonic = "flush eager pause burger asthma faculty admit mom social code spot pioneer";
+var mnemonic = "flee ready whale illegal blouse labor provide token gas flush vibrant derive";

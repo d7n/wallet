@@ -1,1 +1,1 @@
-var mnemonic = "gossip village worth inflict drill absurd child vacuum club kid adjust suffer";
+var mnemonic = "west random false tiger approve defense model sword business hire found mercy";

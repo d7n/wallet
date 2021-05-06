@@ -1,1 +1,1 @@
-var mnemonic = "soul vacuum upset town hobby adult couple illness odor song vicious nurse";
+var mnemonic = "tortoise clean settle river squeeze shine deputy slide soon lawsuit bone flavor";

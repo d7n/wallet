@@ -1,1 +1,1 @@
-var mnemonic = "alarm version orchard tortoise spin moral mansion test minimum drum toward uphold";
+var mnemonic = "tail goddess bike animal tree thing public enact result lottery crawl square";

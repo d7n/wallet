@@ -1,1 +1,1 @@
-var mnemonic = "marriage crush lift voyage electric skill crisp impact design possible brother absorb";
+var mnemonic = "prison badge stem vocal turkey tower fan project enjoy finish gauge rack";

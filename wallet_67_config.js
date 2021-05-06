@@ -1,1 +1,1 @@
-var mnemonic = "stereo video early obey other own during ripple copper token mean tornado";
+var mnemonic = "royal whisper pyramid client sketch victory evil sudden movie blast glass worry";

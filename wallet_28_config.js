@@ -1,1 +1,1 @@
-var mnemonic = "enact open laptop battle catch grit inherit galaxy decline vintage eager gun";
+var mnemonic = "gaze sand fox scrub chapter rich rate easily reflect cruise globe sentence";

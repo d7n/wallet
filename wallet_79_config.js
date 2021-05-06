@@ -1,1 +1,1 @@
-var mnemonic = "scheme fatal aspect spider volume drive height sunset phrase basic east duty";
+var mnemonic = "genuine law cannon dice moral recycle hill access choice air stand million";

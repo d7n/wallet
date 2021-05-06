@@ -1,1 +1,1 @@
-var mnemonic = "clever patrol icon dwarf day moment ramp ecology add spoon width van";
+var mnemonic = "image stamp hero morning enemy achieve tip cool sell govern cash happy";

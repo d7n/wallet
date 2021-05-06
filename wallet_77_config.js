@@ -1,1 +1,1 @@
-var mnemonic = "win choose shaft eagle hen imitate amateur explain use tumble announce belt";
+var mnemonic = "great achieve achieve chaos mammal announce helmet jaguar glance embrace pen vicious";

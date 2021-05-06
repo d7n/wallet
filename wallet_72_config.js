@@ -1,1 +1,1 @@
-var mnemonic = "put divide wife dice warrior point benefit upset city hybrid ready still";
+var mnemonic = "seminar rain property glow pill attack curtain uncover reason sauce canyon country";

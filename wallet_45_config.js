@@ -1,1 +1,1 @@
-var mnemonic = "benefit cream few hole wife monkey tired poet tool model element slow";
+var mnemonic = "jacket dizzy swing intact spend trust impose ritual another bag weapon sun";

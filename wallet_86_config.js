@@ -1,1 +1,1 @@
-var mnemonic = "chalk frequent harvest whale another vast style swamp trial swarm expire decade";
+var mnemonic = "plate useless excess runway device depth loan oven exercise firm aisle romance";

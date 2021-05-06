@@ -1,1 +1,1 @@
-var mnemonic = "exercise case tiger imitate oil thing ice flavor sibling limb congress subway";
+var mnemonic = "zebra snake push canyon fitness weird solve beef science afraid card era";

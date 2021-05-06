@@ -1,1 +1,1 @@
-var mnemonic = "notable clock extra lucky deliver draft boil barrel release pudding glow talent";
+var mnemonic = "bag grace public rookie give pond trigger rug outside basic aerobic airport";

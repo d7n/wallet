@@ -1,1 +1,1 @@
-var mnemonic = "mean resemble gather tail car extend escape twelve frog orphan spatial gift";
+var mnemonic = "dune connect cause grunt razor struggle horn happy extra square game size";

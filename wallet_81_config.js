@@ -1,1 +1,1 @@
-var mnemonic = "sick space volcano enlist nose upset jazz midnight level test pool symptom";
+var mnemonic = "hollow sort stamp female logic keep bachelor fiction unlock section cart athlete";

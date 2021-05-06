@@ -1,1 +1,1 @@
-var mnemonic = "degree solar robust negative auto repeat project couple vital verify raw wife";
+var mnemonic = "music legend client promote bid horn ahead talent oak this window toward";

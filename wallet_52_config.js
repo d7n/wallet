@@ -1,1 +1,1 @@
-var mnemonic = "super interest pistol mouse adapt rapid iron farm below evil camp couple";
+var mnemonic = "bottom february never real strike upgrade code hamster attitude project devote field";

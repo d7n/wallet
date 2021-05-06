@@ -1,1 +1,1 @@
-var mnemonic = "renew rude floor gold annual horror minor harvest negative analyst caution target";
+var mnemonic = "stool price spoon swamp annual brain oppose panel moon mystery hunt merge";

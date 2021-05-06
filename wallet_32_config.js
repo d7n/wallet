@@ -1,1 +1,1 @@
-var mnemonic = "page exist unaware cancel insane sudden icon weather affair vendor truth useless";
+var mnemonic = "buzz couch hair expand document speak catch result tree prepare abstract slam";

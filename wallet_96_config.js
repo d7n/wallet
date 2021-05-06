@@ -1,1 +1,1 @@
-var mnemonic = "minimum north scare finger add exile slim super valley deposit viable belt";
+var mnemonic = "enroll depth dolphin empower sick crazy cool blood few stage balance crash";

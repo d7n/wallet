@@ -1,1 +1,1 @@
-var mnemonic = "fossil garlic elder vibrant drill couch toy buddy beyond hockey bronze combine";
+var mnemonic = "health village buffalo side three kitchen silly eager improve thing offer fit";

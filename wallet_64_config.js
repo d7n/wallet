@@ -1,1 +1,1 @@
-var mnemonic = "original whip idle derive scene fiscal inhale input finish best awkward purchase";
+var mnemonic = "spike small spatial whisper suffer banana zone middle decline session model color";

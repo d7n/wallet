@@ -1,1 +1,1 @@
-var mnemonic = "evoke shield maple wink notable scrap column pause assist quantum bullet wear";
+var mnemonic = "goose planet fringe secret gloom robot fashion coil desk slot lonely volcano";

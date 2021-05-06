@@ -1,1 +1,1 @@
-var mnemonic = "vacuum diamond yard antenna exclude leader effort empty cream armed old stadium";
+var mnemonic = "mean update carpet zero differ below assume mail page destroy foot embody";

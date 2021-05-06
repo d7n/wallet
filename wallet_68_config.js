@@ -1,1 +1,1 @@
-var mnemonic = "key music box awkward author enhance project century marriage exile invest mixture";
+var mnemonic = "grow fitness minute fiber ivory energy umbrella whisper october sea always bacon";

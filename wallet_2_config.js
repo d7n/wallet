@@ -1,1 +1,1 @@
-var mnemonic = "solid twelve version pizza virtual wine pill rival viable engine fiber man";
+var mnemonic = "citizen nature approve focus dwarf donate fit control bounce snow garage attend";

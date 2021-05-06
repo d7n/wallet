@@ -1,1 +1,1 @@
-var mnemonic = "concert club lab parade spell orbit tiny powder chef rain letter orange";
+var mnemonic = "void also travel dizzy bleak distance increase faith soul scrap loan carpet";

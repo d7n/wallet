@@ -1,1 +1,1 @@
-var mnemonic = "iron bullet glance chalk mimic mail drill math custom cabin security someone";
+var mnemonic = "blue sting tell supreme lucky unaware physical wink potato shoe enact uncle";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic relief spray sweet fox device joke arrange toss mad wage forum";
+var mnemonic = "gentle slow fix sentence burst awkward canal lottery twist refuse swamp pitch";

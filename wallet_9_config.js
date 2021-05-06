@@ -1,1 +1,1 @@
-var mnemonic = "lion topic canoe toilet globe never main solar grow chicken lunar canvas";
+var mnemonic = "delay bacon enrich timber average spatial false swing sausage category plate second";

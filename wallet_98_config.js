@@ -1,1 +1,1 @@
-var mnemonic = "later coil caution control risk sting bacon merry twelve husband dawn ladder";
+var mnemonic = "best force chair during age neutral very east inflict thumb notice quarter";
