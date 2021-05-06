@@ -1,1 +1,1 @@
-var mnemonic = "security february pair key toast rule lizard always pair item wise bag";
+var mnemonic = "useful acoustic relax example risk scene gorilla avocado boy mercy life copper";

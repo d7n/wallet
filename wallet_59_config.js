@@ -1,1 +1,1 @@
-var mnemonic = "roast mean move derive hungry quality luxury join donor crisp runway snake";
+var mnemonic = "peace mobile donkey tail flash guess stadium brisk foster produce liberty dwarf";

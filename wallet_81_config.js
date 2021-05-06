@@ -1,1 +1,1 @@
-var mnemonic = "wrong forget weapon decline comic hamster amateur rally match silent scan mad";
+var mnemonic = "script bright other afraid school sad card fresh chef fiber refuse better";

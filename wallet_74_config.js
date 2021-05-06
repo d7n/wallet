@@ -1,1 +1,1 @@
-var mnemonic = "balance brave helmet build symbol bench floor visit worry local jazz leopard";
+var mnemonic = "piano zebra visa hollow lemon enhance mix ice nuclear viable bitter side";

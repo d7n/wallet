@@ -1,1 +1,1 @@
-var mnemonic = "hammer help vacant upset junior swim pave today myself cinnamon train short";
+var mnemonic = "way coil fatal maze legal reject cattle reunion barely quarter income decide";

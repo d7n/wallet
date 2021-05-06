@@ -1,1 +1,1 @@
-var mnemonic = "donkey cart cart uncle cherry fuel close force resist route tourist air";
+var mnemonic = "cattle follow fee quarter black just misery size truck team field during";

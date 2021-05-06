@@ -1,1 +1,1 @@
-var mnemonic = "neither cherry husband yard retreat idle unique supreme pink ocean maple above";
+var mnemonic = "hospital smooth patient speak cause camera glass neutral orange disagree hub noble";

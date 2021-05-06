@@ -1,1 +1,1 @@
-var mnemonic = "present track proud across kangaroo bench turtle bonus problem soccer future snack";
+var mnemonic = "useful census price face main noble deliver destroy cover lawn uniform dutch";

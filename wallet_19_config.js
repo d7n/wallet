@@ -1,1 +1,1 @@
-var mnemonic = "two language cloud crush found clog deer galaxy grunt vintage alcohol judge";
+var mnemonic = "peanut pill runway puzzle lens random quit enact fire march cheese often";

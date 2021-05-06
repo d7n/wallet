@@ -1,1 +1,1 @@
-var mnemonic = "timber enable know hard sphere craft fine trust snack like ring guide";
+var mnemonic = "number badge govern double frog burger sunny combine hundred merge match service";

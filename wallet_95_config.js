@@ -1,1 +1,1 @@
-var mnemonic = "dance wolf pottery twin dentist milk organ venue talent owner hat spike";
+var mnemonic = "dinner gentle oven awake quit volcano jacket name auction short sting wear";

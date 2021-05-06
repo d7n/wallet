@@ -1,1 +1,1 @@
-var mnemonic = "initial wink olympic game affair arrive bring police spread barrel void clip";
+var mnemonic = "average grace embody brain neither release session dentist pull salmon magnet girl";

@@ -1,1 +1,1 @@
-var mnemonic = "problem sock often inside heart bulb zebra sister crouch flight magnet glance";
+var mnemonic = "cradle topple grocery tooth wheel burden supreme bullet scheme gorilla way valley";

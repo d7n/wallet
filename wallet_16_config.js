@@ -1,1 +1,1 @@
-var mnemonic = "swift cost large churn arena rival divorce among snap embark embrace benefit";
+var mnemonic = "behind forum wide thought patrol camera illegal oval attitude tone post pull";

@@ -1,1 +1,1 @@
-var mnemonic = "salt remember glove toward film camp accident mass laundry dutch air liquid";
+var mnemonic = "devote donate kitten arctic one first half jungle gold relief hold infant";

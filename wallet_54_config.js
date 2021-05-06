@@ -1,1 +1,1 @@
-var mnemonic = "mixed relax hungry page rail will enact member success open judge filter";
+var mnemonic = "dog grain hen jealous cup neither marble resemble entry rule unlock weird";

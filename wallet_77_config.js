@@ -1,1 +1,1 @@
-var mnemonic = "inspire tissue broom bag ginger file garbage finger cherry hint true will";
+var mnemonic = "hat list crater junk display mom become crazy confirm accident gaze cactus";

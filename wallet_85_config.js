@@ -1,1 +1,1 @@
-var mnemonic = "unfold silent hockey basket film helmet worry divide special hour whisper mad";
+var mnemonic = "vast dry angry afford toy run vintage poem shiver metal noble picnic";

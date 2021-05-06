@@ -1,1 +1,1 @@
-var mnemonic = "voice bracket bid matrix aware such gather modify bone rival absurd embark";
+var mnemonic = "rapid egg exchange inject traffic lobster whisper grid utility ancient render spend";

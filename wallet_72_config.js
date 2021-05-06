@@ -1,1 +1,1 @@
-var mnemonic = "draw uphold head price mesh banana involve cover cute ramp mixed record";
+var mnemonic = "undo permit suffer type dish attract health news heart sport frog oil";

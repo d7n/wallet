@@ -1,1 +1,1 @@
-var mnemonic = "amount detail deliver caution master matrix ghost tornado pass capital awesome maple";
+var mnemonic = "present observe planet any quiz topic bachelor begin hybrid ridge segment reduce";

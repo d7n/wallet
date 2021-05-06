@@ -1,1 +1,1 @@
-var mnemonic = "sphere input bean reform seminar erode project pipe between potato unit swamp";
+var mnemonic = "sauce tattoo average dream coach width diesel hurdle behind cannon leg tiger";

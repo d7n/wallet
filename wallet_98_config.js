@@ -1,1 +1,1 @@
-var mnemonic = "tackle hen smooth yellow wedding cactus brand snow trumpet nation space weather";
+var mnemonic = "action wrestle antique shrug truly lady run help employ discover soda person";

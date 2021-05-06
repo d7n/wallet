@@ -1,1 +1,1 @@
-var mnemonic = "verify typical author code foster fame photo visa physical impose soft ceiling";
+var mnemonic = "siege river quarter shop behave tent normal audit vanish couple match cigar";

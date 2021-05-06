@@ -1,1 +1,1 @@
-var mnemonic = "dial dog energy baby crowd fire arctic barrel unit enjoy flame wedding";
+var mnemonic = "rent loan risk general census gown artwork jealous promote ahead wait treat";

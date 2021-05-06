@@ -1,1 +1,1 @@
-var mnemonic = "error also host scorpion enough mention achieve execute rather fog access dizzy";
+var mnemonic = "relief paper educate begin talk muscle daring trumpet nuclear vintage hotel stuff";

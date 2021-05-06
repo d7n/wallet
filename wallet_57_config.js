@@ -1,1 +1,1 @@
-var mnemonic = "middle element alien detect sugar below wood joy kangaroo laundry pair brief";
+var mnemonic = "bundle bike glory analyst disagree farm polar sign hard smile gym empower";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur doctor celery real top deer laugh top tide strategy one finish";
+var mnemonic = "account popular water firm improve garbage estate nature beauty disorder north cushion";

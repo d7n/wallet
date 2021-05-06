@@ -1,1 +1,1 @@
-var mnemonic = "carry room produce exchange glare velvet cliff notice tag together virus choose";
+var mnemonic = "wrestle nerve hurry horse believe dash obvious drop tenant thumb walk extra";

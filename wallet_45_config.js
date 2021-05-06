@@ -1,1 +1,1 @@
-var mnemonic = "client firm panic waste miss palace ketchup hurdle pyramid supply visa kingdom";
+var mnemonic = "file true sponsor bid local funny toss require rocket clock opera hold";

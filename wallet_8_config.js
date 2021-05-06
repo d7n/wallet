@@ -1,1 +1,1 @@
-var mnemonic = "mandate width science salad mesh fall field unknown decide emotion bomb gauge";
+var mnemonic = "chat inquiry athlete patch robot damp life produce elbow gorilla wild shoot";

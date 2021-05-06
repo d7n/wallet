@@ -1,1 +1,1 @@
-var mnemonic = "matter afford orient north lyrics order scorpion stable chicken fork situate private";
+var mnemonic = "gold fine brass remember detail wash ecology athlete diary nation twelve treat";

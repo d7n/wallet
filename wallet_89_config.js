@@ -1,1 +1,1 @@
-var mnemonic = "notable valid meat uncover month family approve easily crew black foam music";
+var mnemonic = "fiction alley loyal fee home friend try long pass struggle reflect away";

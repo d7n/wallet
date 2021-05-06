@@ -1,1 +1,1 @@
-var mnemonic = "knife recall crazy creek then soda capital spider prefer regular volume screen";
+var mnemonic = "apple hunt father phrase behind elephant vital fever glance price eight hazard";

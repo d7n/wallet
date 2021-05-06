@@ -1,1 +1,1 @@
-var mnemonic = "lion critic cotton seed shield this step suggest swift pencil grab gauge";
+var mnemonic = "pet tragic hurry now crew monster awake hair under palace cry fox";

@@ -1,1 +1,1 @@
-var mnemonic = "rack give rural grit age like now afraid parrot switch march bundle";
+var mnemonic = "under ceiling decorate volume enter spoil resource person diamond inject task country";

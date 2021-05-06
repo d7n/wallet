@@ -1,1 +1,1 @@
-var mnemonic = "impulse search settle again attack pistol grief grain quiz hire swap antique";
+var mnemonic = "situate cattle divorce urge promote age fine will holiday grape pave child";

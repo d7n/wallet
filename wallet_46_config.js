@@ -1,1 +1,1 @@
-var mnemonic = "hidden blade artist address uncover plug abandon winter cream fun hard myself";
+var mnemonic = "odor trouble egg spin stereo trumpet evil easily lesson average absent tank";

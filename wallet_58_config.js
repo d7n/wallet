@@ -1,1 +1,1 @@
-var mnemonic = "garden chief off until ostrich exchange border insane pool conduct aim step";
+var mnemonic = "hedgehog burden west quit normal lemon bargain alert damage panther life original";

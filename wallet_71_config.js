@@ -1,1 +1,1 @@
-var mnemonic = "swamp ski venture creek group lady verify fence kingdom salon truck page";
+var mnemonic = "arm cargo demise spatial misery private lesson script rebel rubber vehicle powder";

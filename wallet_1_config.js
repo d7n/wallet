@@ -1,1 +1,1 @@
-var mnemonic = "harbor glow grid vehicle nephew phrase state maze install rabbit simple issue";
+var mnemonic = "feed hat jewel skin army proud video base avoid minor grant average";

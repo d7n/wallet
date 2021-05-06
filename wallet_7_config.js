@@ -1,1 +1,1 @@
-var mnemonic = "trigger trash topic fiscal sea acoustic sister neither artwork good voice mutual";
+var mnemonic = "deliver radio clerk street relax sphere scene heart taxi radar apple arch";

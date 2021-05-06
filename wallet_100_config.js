@@ -1,1 +1,1 @@
-var mnemonic = "flash panic trust fault bar renew random december horse pact crystal clock";
+var mnemonic = "equip inject quote enemy then special scan deliver unfold pig balcony half";

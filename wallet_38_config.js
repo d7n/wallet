@@ -1,1 +1,1 @@
-var mnemonic = "edge lend minimum observe planet toddler attract ketchup pilot polar come grief";
+var mnemonic = "sport scrub pizza first erode asset journey mercy monitor bacon question umbrella";

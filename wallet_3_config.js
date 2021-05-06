@@ -1,1 +1,1 @@
-var mnemonic = "hidden adult reflect crazy swim identify neither spend club october thought mercy";
+var mnemonic = "govern dutch initial defense coach climb metal upon dash armor later small";

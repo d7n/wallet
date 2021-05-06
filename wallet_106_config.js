@@ -1,1 +1,1 @@
-var mnemonic = "draw caught mosquito aspect fog swarm mechanic delay funny skill high patch";
+var mnemonic = "six fancy lava number olive bubble spoon carry host village beach grow";

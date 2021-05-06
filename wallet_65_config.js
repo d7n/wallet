@@ -1,1 +1,1 @@
-var mnemonic = "egg remember ankle velvet hybrid lady case couch milk physical tribe amount";
+var mnemonic = "quote achieve shoot bone cave cover faculty blast quiz train crowd stock";

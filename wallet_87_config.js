@@ -1,1 +1,1 @@
-var mnemonic = "feel song glimpse brown promote elder skirt kid bridge buzz sheriff erupt";
+var mnemonic = "address youth buyer east toe world cotton teach bar fat cruel island";

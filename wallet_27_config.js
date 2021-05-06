@@ -1,1 +1,1 @@
-var mnemonic = "surprise cry become page daughter same wisdom frown ramp blind claw nothing";
+var mnemonic = "breeze walnut nation clerk inmate assume clump shoulder pause tunnel jelly satoshi";

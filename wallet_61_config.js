@@ -1,1 +1,1 @@
-var mnemonic = "mechanic lecture impulse agree breeze drip enroll clerk topic history improve rabbit";
+var mnemonic = "notable tissue pole unaware half human moral brain stereo gaze squirrel grief";

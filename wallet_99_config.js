@@ -1,1 +1,1 @@
-var mnemonic = "upset assume when elevator maple road quote jaguar need bounce state rose";
+var mnemonic = "cargo entire hobby practice climb depend help tent merit float eager air";

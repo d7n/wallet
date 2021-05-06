@@ -1,1 +1,1 @@
-var mnemonic = "undo chapter cart fog recall rocket vintage jazz youth glad forward debris";
+var mnemonic = "soul student minor ice dilemma library close where amateur tobacco inherit leg";

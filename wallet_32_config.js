@@ -1,1 +1,1 @@
-var mnemonic = "erase hamster egg alley lazy kitten best mango genius point rack offer";
+var mnemonic = "width alarm trap scout jump enroll eight width absorb bridge eternal mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "derive october talk gorilla delay fade aisle dawn arch decade maze loud";
+var mnemonic = "reunion early night limit enrich rule basic inflict skin ask private december";

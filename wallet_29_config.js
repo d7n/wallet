@@ -1,1 +1,1 @@
-var mnemonic = "image exact train unaware reveal another nest trouble title usual express quantum";
+var mnemonic = "use flower trend mushroom easy because enter comfort lend leaf thrive link";

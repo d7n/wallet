@@ -1,1 +1,1 @@
-var mnemonic = "talk truth act medal session chicken rhythm survey brush fix smile force";
+var mnemonic = "minimum police salute prosper insane token cupboard valve sand sunset control elevator";

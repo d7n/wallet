@@ -1,1 +1,1 @@
-var mnemonic = "calm gift kangaroo face upgrade easily casino muscle angry pony zero enjoy";
+var mnemonic = "stove spirit tuna please lock scrap gold lazy promote differ already mouse";

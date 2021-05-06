@@ -1,1 +1,1 @@
-var mnemonic = "find pioneer produce present aunt author pulp recipe cattle worry book select";
+var mnemonic = "exhaust toss century symptom wedding only advice nephew panda pool chimney game";

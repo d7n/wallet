@@ -1,1 +1,1 @@
-var mnemonic = "awesome clean dose special company true again face library urge battle nose";
+var mnemonic = "sister umbrella appear blast render glimpse ribbon profit nephew achieve announce ready";

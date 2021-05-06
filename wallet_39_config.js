@@ -1,1 +1,1 @@
-var mnemonic = "board speed okay possible pilot sniff advance leisure draw guide merge damage";
+var mnemonic = "add home balcony tip fence such maple buyer toss gadget damp monkey";

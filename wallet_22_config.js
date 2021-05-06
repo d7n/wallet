@@ -1,1 +1,1 @@
-var mnemonic = "nasty gate stable initial okay wine salute shaft very stamp permit space";
+var mnemonic = "vessel street once stove mind minute permit math latin first promote isolate";

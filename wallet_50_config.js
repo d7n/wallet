@@ -1,1 +1,1 @@
-var mnemonic = "patient afford pond auto rely file marriage rude glow truth coil pull";
+var mnemonic = "identify beach idle claim pair away anchor sleep brush gossip east law";

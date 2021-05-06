@@ -1,1 +1,1 @@
-var mnemonic = "twist educate join day midnight grant pipe coconut matter pulse naive bar";
+var mnemonic = "void rack absent fault wave brisk salute roast old hold green silly";

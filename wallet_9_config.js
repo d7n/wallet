@@ -1,1 +1,1 @@
-var mnemonic = "pill leader milk mountain address bargain clump home invite pill obey like";
+var mnemonic = "can carry adapt anchor monster useful vocal eight myself media afford then";

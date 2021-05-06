@@ -1,1 +1,1 @@
-var mnemonic = "slow usual either neutral addict crazy project gallery join sell balcony panic";
+var mnemonic = "bomb party rifle trade siren mistake hotel orphan text curtain cup royal";

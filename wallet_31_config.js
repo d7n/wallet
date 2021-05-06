@@ -1,1 +1,1 @@
-var mnemonic = "item shock tuna owner glimpse sport access bronze negative front rapid rely";
+var mnemonic = "eager average vintage multiply pioneer mushroom time indoor blade salute thing matter";

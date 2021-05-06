@@ -1,1 +1,1 @@
-var mnemonic = "million globe nuclear robust hour employ wasp million elevator traffic invest essence";
+var mnemonic = "allow uniform arrange civil clog hotel birth nice snack shy solve online";

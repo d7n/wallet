@@ -1,1 +1,1 @@
-var mnemonic = "trash gap twelve keep sheriff deny attack second pear culture inform baby";
+var mnemonic = "dish wedding pass meat already custom indoor arena you foil anxiety snap";

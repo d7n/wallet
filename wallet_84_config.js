@@ -1,1 +1,1 @@
-var mnemonic = "crucial absorb wide original fit negative foot sight carbon fiber plunge sustain";
+var mnemonic = "slim mention doctor snack month coin review high beef ill turtle wing";

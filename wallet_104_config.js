@@ -1,1 +1,1 @@
-var mnemonic = "foster long goddess group fuel brown industry below drive hawk increase tower";
+var mnemonic = "dial skill liberty leisure field knee achieve veteran music renew spell because";

@@ -1,1 +1,1 @@
-var mnemonic = "toe office disorder butter slim retreat panel source pizza lumber write develop";
+var mnemonic = "salad dumb extend alert smoke hub mirror problem proof alert tackle define";

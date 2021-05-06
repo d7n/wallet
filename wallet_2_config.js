@@ -1,1 +1,1 @@
-var mnemonic = "click october door mirror innocent crystal alter soccer frozen bottom fashion fox";
+var mnemonic = "cattle range clap pond noise join security badge vessel sadness narrow van";

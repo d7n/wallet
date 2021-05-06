@@ -1,1 +1,1 @@
-var mnemonic = "stable forget thing turtle six august monkey stuff winter copy dizzy picnic";
+var mnemonic = "talk acid logic response real filter sketch indoor average clog junior salt";

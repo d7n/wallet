@@ -1,1 +1,1 @@
-var mnemonic = "case clever check note image decrease trophy dolphin venue fork rookie cause";
+var mnemonic = "biology bounce oil faith hybrid lunar rule chief twist allow plunge pipe";

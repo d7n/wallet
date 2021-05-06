@@ -1,1 +1,1 @@
-var mnemonic = "scorpion age collect busy motion achieve cancel casual bachelor ritual they siren";
+var mnemonic = "jar orient present prison ecology avocado spot relief desert wagon spoon tuition";

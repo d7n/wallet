@@ -1,1 +1,1 @@
-var mnemonic = "measure nation demand run drum cup define vanish conduct orphan agent giggle";
+var mnemonic = "unhappy whisper spike seek force deliver alert invite cat run grief input";

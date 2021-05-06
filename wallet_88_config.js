@@ -1,1 +1,1 @@
-var mnemonic = "glow crowd change cage taste lottery action over describe pole maximum access";
+var mnemonic = "void shiver cost universe aspect cannon empty lizard know penalty city hamster";

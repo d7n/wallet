@@ -1,1 +1,1 @@
-var mnemonic = "alone raw coach excite easy inform famous model neutral bomb fruit hidden";
+var mnemonic = "meat decide birth endorse scare inmate into desk result lion identify evolve";

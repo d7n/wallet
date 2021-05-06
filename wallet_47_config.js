@@ -1,1 +1,1 @@
-var mnemonic = "lobster fork metal rent tourist review evoke animal food major stamp cash";
+var mnemonic = "clump weasel style idle grace moment high achieve outer symptom drum split";

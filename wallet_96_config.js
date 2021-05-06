@@ -1,1 +1,1 @@
-var mnemonic = "stairs family marriage security news electric elite basket cluster drama diesel update";
+var mnemonic = "artist paddle rough fish power sentence dust coil treat chair stick approve";

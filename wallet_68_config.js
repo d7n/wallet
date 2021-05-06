@@ -1,1 +1,1 @@
-var mnemonic = "laptop blade dry sad camp south afford vintage street diagram mind drip";
+var mnemonic = "crucial marine tomorrow suit dove brush label core awake valve clap insane";

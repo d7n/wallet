@@ -1,1 +1,1 @@
-var mnemonic = "explain scene found scissors female fox camp pact knee mom sad ridge";
+var mnemonic = "amazing wall ivory exotic lumber daughter mushroom exist senior acquire link fringe";

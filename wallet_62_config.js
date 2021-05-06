@@ -1,1 +1,1 @@
-var mnemonic = "echo valve plug attend february lecture fold source before vapor grow age";
+var mnemonic = "able fiber kingdom broom morning coconut remove soda bus marriage pull mammal";

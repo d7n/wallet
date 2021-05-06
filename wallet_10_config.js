@@ -1,1 +1,1 @@
-var mnemonic = "distance culture subway provide fiction shell knee beyond ski voyage voice grape";
+var mnemonic = "radio length flush random approve resist pole disease aisle ritual kiwi antenna";

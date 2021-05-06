@@ -1,1 +1,1 @@
-var mnemonic = "attract embark genuine layer mosquito wedding frame minor deliver parrot gate spell";
+var mnemonic = "puzzle buzz mouse manage easy enforce double scatter stem also tip opera";

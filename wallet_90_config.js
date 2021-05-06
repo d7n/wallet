@@ -1,1 +1,1 @@
-var mnemonic = "tragic answer drum salon mask coconut spend ship puzzle hope man loyal";
+var mnemonic = "lava theory notice sustain onion find donkey shuffle useful outside pig answer";

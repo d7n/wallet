@@ -1,1 +1,1 @@
-var mnemonic = "wave element receive upper mom barely crunch shine invest divorce base barely";
+var mnemonic = "beach vacuum cluster accident divert wish match grace spell autumn host auction";
