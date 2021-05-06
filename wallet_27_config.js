@@ -1,1 +1,1 @@
-var mnemonic = "illness pill please shoot real illegal between gospel upgrade run develop gauge";
+var mnemonic = "surprise cry become page daughter same wisdom frown ramp blind claw nothing";

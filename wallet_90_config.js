@@ -1,1 +1,1 @@
-var mnemonic = "intact onion bright pumpkin bring sudden click ginger reduce spice ritual glue";
+var mnemonic = "tragic answer drum salon mask coconut spend ship puzzle hope man loyal";

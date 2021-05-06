@@ -1,1 +1,1 @@
-var mnemonic = "know neither toward ahead fossil harsh twice warfare attend deposit anger rhythm";
+var mnemonic = "hidden blade artist address uncover plug abandon winter cream fun hard myself";

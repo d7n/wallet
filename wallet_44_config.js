@@ -1,1 +1,1 @@
-var mnemonic = "desert jar review twice task write science keen palm cigar can history";
+var mnemonic = "timber enable know hard sphere craft fine trust snack like ring guide";

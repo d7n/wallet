@@ -1,1 +1,1 @@
-var mnemonic = "smooth dog tourist manual obtain motor business brisk cloud stone force element";
+var mnemonic = "tackle hen smooth yellow wedding cactus brand snow trumpet nation space weather";

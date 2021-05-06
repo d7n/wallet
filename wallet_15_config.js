@@ -1,1 +1,1 @@
-var mnemonic = "toe series change hair silver pass aware hawk glide business large venue";
+var mnemonic = "segment pelican sibling thrive fiber stem forum rude farm wage exit train";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel major deny chief honey put ritual bar illegal banana giggle jaguar";
+var mnemonic = "salt remember glove toward film camp accident mass laundry dutch air liquid";

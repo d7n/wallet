@@ -1,1 +1,1 @@
-var mnemonic = "pigeon work tone treat shield tired write obey fee tornado toy wide";
+var mnemonic = "feel song glimpse brown promote elder skirt kid bridge buzz sheriff erupt";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge auto used pull drip leaf stage chat pool spin liquid essay";
+var mnemonic = "wave element receive upper mom barely crunch shine invest divorce base barely";

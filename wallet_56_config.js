@@ -1,1 +1,1 @@
-var mnemonic = "window differ jar off damage door sell equip raccoon size way love";
+var mnemonic = "security february pair key toast rule lizard always pair item wise bag";

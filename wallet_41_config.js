@@ -1,1 +1,1 @@
-var mnemonic = "convince void nuclear cloud drift stick faint lemon burst proof decline suggest";
+var mnemonic = "inhale history mechanic minimum vocal shy history album avocado demand good uniform";

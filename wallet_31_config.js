@@ -1,1 +1,1 @@
-var mnemonic = "recall noise model penalty choose legend eye genuine this alpha finger force";
+var mnemonic = "item shock tuna owner glimpse sport access bronze negative front rapid rely";

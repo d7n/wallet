@@ -1,1 +1,1 @@
-var mnemonic = "course vote dash memory siren rough evolve diary summer bus shoulder pond";
+var mnemonic = "garden chief off until ostrich exchange border insane pool conduct aim step";

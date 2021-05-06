@@ -1,1 +1,1 @@
-var mnemonic = "achieve tenant gown pottery social good blanket delay inspire winter general opera";
+var mnemonic = "click october door mirror innocent crystal alter soccer frozen bottom fashion fox";

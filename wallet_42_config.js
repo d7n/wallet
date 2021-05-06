@@ -1,1 +1,1 @@
-var mnemonic = "bracket asthma problem manual search group wrap ritual marriage indoor farm valve";
+var mnemonic = "impulse search settle again attack pistol grief grain quiz hire swap antique";

@@ -1,1 +1,1 @@
-var mnemonic = "people alter cash balcony steel stable call wink gesture toe flame bench";
+var mnemonic = "dance wolf pottery twin dentist milk organ venue talent owner hat spike";

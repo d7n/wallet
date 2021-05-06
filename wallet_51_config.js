@@ -1,1 +1,1 @@
-var mnemonic = "rocket bird horror begin category lab hurt exchange sting drift poem old";
+var mnemonic = "amount detail deliver caution master matrix ghost tornado pass capital awesome maple";

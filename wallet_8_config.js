@@ -1,1 +1,1 @@
-var mnemonic = "shoe truth network three sun silver discover caught junk ancient blood alter";
+var mnemonic = "mandate width science salad mesh fall field unknown decide emotion bomb gauge";

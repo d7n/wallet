@@ -1,1 +1,1 @@
-var mnemonic = "boy direct alarm job strong robust expose warm genius sister task enhance";
+var mnemonic = "draw caught mosquito aspect fog swarm mechanic delay funny skill high patch";

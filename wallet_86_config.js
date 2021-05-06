@@ -1,1 +1,1 @@
-var mnemonic = "hollow buffalo drift ostrich enter bus elevator time canal casual win wealth";
+var mnemonic = "alone raw coach excite easy inform famous model neutral bomb fruit hidden";

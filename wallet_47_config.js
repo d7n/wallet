@@ -1,1 +1,1 @@
-var mnemonic = "favorite skate void west neutral list soccer chunk false midnight soap order";
+var mnemonic = "lobster fork metal rent tourist review evoke animal food major stamp cash";

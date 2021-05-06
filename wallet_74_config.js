@@ -1,1 +1,1 @@
-var mnemonic = "drive boy rebuild mercy fruit eyebrow car rely photo scrap cube tissue";
+var mnemonic = "balance brave helmet build symbol bench floor visit worry local jazz leopard";

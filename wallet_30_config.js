@@ -1,1 +1,1 @@
-var mnemonic = "coral sun law faith will draw advice expose debris post guitar bulk";
+var mnemonic = "hurdle chunk stamp extra illness index lend pet reward grief route disorder";

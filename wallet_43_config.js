@@ -1,1 +1,1 @@
-var mnemonic = "siege theme nice pride blade blanket robot banana equal menu carry credit";
+var mnemonic = "save pave oyster magnet already grain palm scout whip cash inmate pumpkin";

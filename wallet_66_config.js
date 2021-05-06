@@ -1,1 +1,1 @@
-var mnemonic = "text chair input thank accident sibling margin service edge chimney angle pluck";
+var mnemonic = "stable forget thing turtle six august monkey stuff winter copy dizzy picnic";

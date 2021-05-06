@@ -1,1 +1,1 @@
-var mnemonic = "join label choose cargo cloud lock curtain arch sphere reform slice invite";
+var mnemonic = "mixed relax hungry page rail will enact member success open judge filter";

@@ -1,1 +1,1 @@
-var mnemonic = "aware dawn drive direct cheese moral conduct roof urge job kiss accident";
+var mnemonic = "initial wink olympic game affair arrive bring police spread barrel void clip";

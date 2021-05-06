@@ -1,1 +1,1 @@
-var mnemonic = "clever notice shaft wet select volume eyebrow satisfy essence crane kick latin";
+var mnemonic = "inspire tissue broom bag ginger file garbage finger cherry hint true will";

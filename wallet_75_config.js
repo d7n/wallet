@@ -1,1 +1,1 @@
-var mnemonic = "dish fault region emerge sort limit scare jelly funny level school future";
+var mnemonic = "talk truth act medal session chicken rhythm survey brush fix smile force";

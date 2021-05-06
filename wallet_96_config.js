@@ -1,1 +1,1 @@
-var mnemonic = "claim simple occur cupboard room rabbit post dilemma heavy despair unable kitten";
+var mnemonic = "stairs family marriage security news electric elite basket cluster drama diesel update";

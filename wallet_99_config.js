@@ -1,1 +1,1 @@
-var mnemonic = "usage apology open special stadium seat frequent access debate slush fine virtual";
+var mnemonic = "upset assume when elevator maple road quote jaguar need bounce state rose";

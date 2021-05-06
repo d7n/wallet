@@ -1,1 +1,1 @@
-var mnemonic = "issue brown notice balance reason north volcano wool muscle manual jungle they";
+var mnemonic = "neither cherry husband yard retreat idle unique supreme pink ocean maple above";

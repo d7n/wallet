@@ -1,1 +1,1 @@
-var mnemonic = "bread play scout useless media cake sentence aerobic sun mutual dizzy expose";
+var mnemonic = "knife recall crazy creek then soda capital spider prefer regular volume screen";

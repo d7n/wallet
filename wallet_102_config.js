@@ -1,1 +1,1 @@
-var mnemonic = "jungle system destroy wrap soda whale erupt destroy giraffe awful outer seed";
+var mnemonic = "around harvest mandate habit age fame mixture core pole rule blossom capable";

@@ -1,1 +1,1 @@
-var mnemonic = "fan agent inner like lumber sponsor north wrestle eyebrow harsh praise identify";
+var mnemonic = "draw uphold head price mesh banana involve cover cute ramp mixed record";

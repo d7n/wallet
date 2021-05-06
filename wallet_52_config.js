@@ -1,1 +1,1 @@
-var mnemonic = "burst burger coin glimpse eternal cloth anchor hospital robot shed later direct";
+var mnemonic = "tooth torch grain casual crash advice echo debris degree law logic weapon";

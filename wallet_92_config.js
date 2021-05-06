@@ -1,1 +1,1 @@
-var mnemonic = "crash tunnel ability grape play few ticket crawl sure length toe sponsor";
+var mnemonic = "sphere input bean reform seminar erode project pipe between potato unit swamp";

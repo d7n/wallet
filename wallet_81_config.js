@@ -1,1 +1,1 @@
-var mnemonic = "enemy pyramid gadget talent actress bundle lava prize blade kick dish mask";
+var mnemonic = "wrong forget weapon decline comic hamster amateur rally match silent scan mad";

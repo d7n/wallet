@@ -1,1 +1,1 @@
-var mnemonic = "puzzle crisp rebel crew negative typical matter cute moon remove pass banana";
+var mnemonic = "pill leader milk mountain address bargain clump home invite pill obey like";

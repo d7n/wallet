@@ -1,1 +1,1 @@
-var mnemonic = "obtain point dinner soda talk asset impulse daughter stove head drip action";
+var mnemonic = "donkey cart cart uncle cherry fuel close force resist route tourist air";

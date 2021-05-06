@@ -1,1 +1,1 @@
-var mnemonic = "friend swing warm cherry equip scan property notice case harvest marble diet";
+var mnemonic = "try when buffalo ostrich unveil puppy slight clay hybrid funny effort fork";

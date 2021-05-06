@@ -1,1 +1,1 @@
-var mnemonic = "cabin loyal slight moral slender occur skate crush coil rack state cherry";
+var mnemonic = "sense insane develop planet right void stage fame civil veteran curve hedgehog";

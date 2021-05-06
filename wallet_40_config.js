@@ -1,1 +1,1 @@
-var mnemonic = "sword jealous skate sign animal sadness rail outdoor rigid mobile gaze basket";
+var mnemonic = "post obey wage inspire best hair legal write news little suit table";

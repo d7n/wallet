@@ -1,1 +1,1 @@
-var mnemonic = "satoshi idle decide bench zero kind online photo okay accuse mixed panic";
+var mnemonic = "echo valve plug attend february lecture fold source before vapor grow age";

@@ -1,1 +1,1 @@
-var mnemonic = "toy ring pluck blood unable daughter orphan ghost pact wash board agent";
+var mnemonic = "bargain market mansion image key goddess toss grab leisure chase lucky better";

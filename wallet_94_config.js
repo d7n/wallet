@@ -1,1 +1,1 @@
-var mnemonic = "ranch brown sponsor decade pizza sort girl buyer rival elevator guilt sock";
+var mnemonic = "verify typical author code foster fame photo visa physical impose soft ceiling";

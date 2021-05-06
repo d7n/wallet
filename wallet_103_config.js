@@ -1,1 +1,1 @@
-var mnemonic = "seminar update deal vague hundred lonely major corn patch cereal fitness garlic";
+var mnemonic = "awesome clean dose special company true again face library urge battle nose";

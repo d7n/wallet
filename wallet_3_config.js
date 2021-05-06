@@ -1,1 +1,1 @@
-var mnemonic = "float cabin put theme ethics rough beauty sail you rely trial document";
+var mnemonic = "hidden adult reflect crazy swim identify neither spend club october thought mercy";

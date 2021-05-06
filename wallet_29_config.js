@@ -1,1 +1,1 @@
-var mnemonic = "alarm siege drill great bunker nose night stable over maple curve drink";
+var mnemonic = "image exact train unaware reveal another nest trouble title usual express quantum";

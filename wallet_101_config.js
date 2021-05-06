@@ -1,1 +1,1 @@
-var mnemonic = "glove ride wrestle planet isolate ginger possible march hawk gift income aisle";
+var mnemonic = "explain scene found scissors female fox camp pact knee mom sad ridge";

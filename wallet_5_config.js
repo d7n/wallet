@@ -1,1 +1,1 @@
-var mnemonic = "bargain ritual gap raise first media series fortune immune ask segment apple";
+var mnemonic = "lion critic cotton seed shield this step suggest swift pencil grab gauge";

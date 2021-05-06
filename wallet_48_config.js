@@ -1,1 +1,1 @@
-var mnemonic = "gas property panic over bitter antique agree sport patch domain marine fork";
+var mnemonic = "panther comfort tornado coach bachelor bulk rain surge barely rose client shadow";

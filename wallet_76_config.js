@@ -1,1 +1,1 @@
-var mnemonic = "green shift leader reward brush manage excite usage ski either focus august";
+var mnemonic = "find pioneer produce present aunt author pulp recipe cattle worry book select";

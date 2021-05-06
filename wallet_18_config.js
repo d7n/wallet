@@ -1,1 +1,1 @@
-var mnemonic = "infant actual pave eye lion again glimpse ancient ethics pear brief pudding";
+var mnemonic = "derive october talk gorilla delay fade aisle dawn arch decade maze loud";

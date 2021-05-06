@@ -1,1 +1,1 @@
-var mnemonic = "slender wasp inner derive chunk goat suggest alcohol spider mask mom model";
+var mnemonic = "nasty gate stable initial okay wine salute shaft very stamp permit space";

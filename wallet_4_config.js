@@ -1,1 +1,1 @@
-var mnemonic = "sand laundry scatter valley crisp dizzy normal sausage decrease script engine cage";
+var mnemonic = "measure nation demand run drum cup define vanish conduct orphan agent giggle";

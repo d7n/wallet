@@ -1,1 +1,1 @@
-var mnemonic = "there miracle number cousin energy reason twin road rather clog hold dwarf";
+var mnemonic = "problem sock often inside heart bulb zebra sister crouch flight magnet glance";

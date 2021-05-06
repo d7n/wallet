@@ -1,1 +1,1 @@
-var mnemonic = "thumb imitate release beef draft force grace suit yellow orchard slush ill";
+var mnemonic = "glow crowd change cage taste lottery action over describe pole maximum access";

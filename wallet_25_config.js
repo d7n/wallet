@@ -1,1 +1,1 @@
-var mnemonic = "fringe buzz salute size spatial bunker jewel garage oblige elbow lab ship";
+var mnemonic = "toe office disorder butter slim retreat panel source pizza lumber write develop";

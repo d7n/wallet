@@ -1,1 +1,1 @@
-var mnemonic = "submit near dwarf menu distance coconut ocean love turkey guess rely vanish";
+var mnemonic = "egg remember ankle velvet hybrid lady case couch milk physical tribe amount";

@@ -1,1 +1,1 @@
-var mnemonic = "intact illness effort increase dilemma valve intact oppose umbrella inquiry globe toe";
+var mnemonic = "two language cloud crush found clog deer galaxy grunt vintage alcohol judge";

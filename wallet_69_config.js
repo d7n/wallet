@@ -1,1 +1,1 @@
-var mnemonic = "february moment orbit miracle voyage rich account year atom stadium yellow ill";
+var mnemonic = "million globe nuclear robust hour employ wasp million elevator traffic invest essence";

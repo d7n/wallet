@@ -1,1 +1,1 @@
-var mnemonic = "canyon judge brass saddle spider federal december forget baby flame bus flower";
+var mnemonic = "edge lend minimum observe planet toddler attract ketchup pilot polar come grief";

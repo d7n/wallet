@@ -1,1 +1,1 @@
-var mnemonic = "arctic shock toss skate clump inmate obey unhappy recycle fatigue work tank";
+var mnemonic = "flash panic trust fault bar renew random december horse pact crystal clock";

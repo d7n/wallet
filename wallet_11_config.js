@@ -1,1 +1,1 @@
-var mnemonic = "idle rally cloud soap mother alarm boy have fragile exchange manual social";
+var mnemonic = "matter afford orient north lyrics order scorpion stable chicken fork situate private";

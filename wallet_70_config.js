@@ -1,1 +1,1 @@
-var mnemonic = "lounge kitchen night filter dog knock select cave ignore crunch seminar hood";
+var mnemonic = "music secret short argue matrix render alley sausage impact six toward rifle";

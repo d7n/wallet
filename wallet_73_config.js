@@ -1,1 +1,1 @@
-var mnemonic = "color route whale endless loan evolve dynamic planet satoshi rebel penalty novel";
+var mnemonic = "six man increase absorb system response clay scrub just leopard wedding vote";

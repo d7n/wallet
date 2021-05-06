@@ -1,1 +1,1 @@
-var mnemonic = "chaos fat swamp tiger filter toward endorse clerk boost okay help indoor";
+var mnemonic = "armor hero exile camera betray first autumn flip face hawk beef tragic";

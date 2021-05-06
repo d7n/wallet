@@ -1,1 +1,1 @@
-var mnemonic = "divert weapon divorce rapid antique embrace local winner wreck since tag exclude";
+var mnemonic = "laptop blade dry sad camp south afford vintage street diagram mind drip";

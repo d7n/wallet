@@ -1,1 +1,1 @@
-var mnemonic = "gas wine combine enter drastic always hover secret snap busy earth daughter";
+var mnemonic = "attract embark genuine layer mosquito wedding frame minor deliver parrot gate spell";

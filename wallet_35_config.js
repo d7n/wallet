@@ -1,1 +1,1 @@
-var mnemonic = "pepper middle appear prefer search act flavor rabbit frown title festival slam";
+var mnemonic = "undo chapter cart fog recall rocket vintage jazz youth glad forward debris";

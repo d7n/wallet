@@ -1,1 +1,1 @@
-var mnemonic = "pizza entry drum era sail reform million endless kiss earn offer lumber";
+var mnemonic = "roast mean move derive hungry quality luxury join donor crisp runway snake";

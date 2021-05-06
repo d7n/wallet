@@ -1,1 +1,1 @@
-var mnemonic = "rookie stove jaguar figure bonus tool citizen artwork symbol laundry swallow notice";
+var mnemonic = "scorpion age collect busy motion achieve cancel casual bachelor ritual they siren";

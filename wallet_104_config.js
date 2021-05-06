@@ -1,1 +1,1 @@
-var mnemonic = "harsh layer ethics sure tip horror assist cotton shrug morning company promote";
+var mnemonic = "foster long goddess group fuel brown industry below drive hawk increase tower";

@@ -1,1 +1,1 @@
-var mnemonic = "joy worry extend pulp cave chuckle issue enough risk rice small burger";
+var mnemonic = "client firm panic waste miss palace ketchup hurdle pyramid supply visa kingdom";

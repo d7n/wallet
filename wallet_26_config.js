@@ -1,1 +1,1 @@
-var mnemonic = "position coach suggest walk metal chef notice cream light fine unlock shaft";
+var mnemonic = "trash gap twelve keep sheriff deny attack second pear culture inform baby";

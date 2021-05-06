@@ -1,1 +1,1 @@
-var mnemonic = "gesture dynamic gauge soap drift fine payment blast year among grow bulk";
+var mnemonic = "case clever check note image decrease trophy dolphin venue fork rookie cause";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect sentence rack squeeze live truth olive good fox ordinary bid arena";
+var mnemonic = "amateur doctor celery real top deer laugh top tide strategy one finish";

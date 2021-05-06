@@ -1,1 +1,1 @@
-var mnemonic = "claim brick come kind live season video junk swim feed test shell";
+var mnemonic = "notable valid meat uncover month family approve easily crew black foam music";

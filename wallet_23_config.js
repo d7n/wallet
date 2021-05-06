@@ -1,1 +1,1 @@
-var mnemonic = "knock category nut science stand clutch rhythm muffin love salt december laptop";
+var mnemonic = "twist educate join day midnight grant pipe coconut matter pulse naive bar";

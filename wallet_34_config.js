@@ -1,1 +1,1 @@
-var mnemonic = "able region blur muffin wisdom method unable oven aisle cigar apple opinion";
+var mnemonic = "shoot chunk expand replace assist wrestle manage quiz volcano leaf object raw";

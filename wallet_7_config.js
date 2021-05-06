@@ -1,1 +1,1 @@
-var mnemonic = "toy enter chef range poem rib luggage increase venture script season square";
+var mnemonic = "trigger trash topic fiscal sea acoustic sister neither artwork good voice mutual";

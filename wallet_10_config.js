@@ -1,1 +1,1 @@
-var mnemonic = "bus sell together human ginger grid purpose captain vanish horror reveal asset";
+var mnemonic = "distance culture subway provide fiction shell knee beyond ski voyage voice grape";

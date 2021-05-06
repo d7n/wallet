@@ -1,1 +1,1 @@
-var mnemonic = "skull economy nurse breeze type destroy coil hurdle february cross case valley";
+var mnemonic = "harbor glow grid vehicle nephew phrase state maze install rabbit simple issue";

@@ -1,1 +1,1 @@
-var mnemonic = "delay amazing essay science scatter pink umbrella search custom drastic cheese weekend";
+var mnemonic = "siren protect salad airport ready jump knife female sheriff drama negative strong";
