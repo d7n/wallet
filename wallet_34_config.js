@@ -1,1 +1,1 @@
-var mnemonic = "exchange off include apology stove outer crime wisdom night bundle sting call";
+var mnemonic = "hair host exile wait nut weasel reflect cruise garbage decide bicycle capital";

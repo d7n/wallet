@@ -1,1 +1,1 @@
-var mnemonic = "clip debate vanish video move craft chimney cake high clay skirt provide";
+var mnemonic = "surprise merit enroll exist fashion loud mercy empower grape series rich human";

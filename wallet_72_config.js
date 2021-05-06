@@ -1,1 +1,1 @@
-var mnemonic = "tomato mercy pyramid flower price unique addict rough canal layer vivid struggle";
+var mnemonic = "drill juice forget crawl palace myself autumn cabin fence cricket peanut laugh";

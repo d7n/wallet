@@ -1,1 +1,1 @@
-var mnemonic = "reward gauge bonus dish never reason antique camera twice chase chunk defense";
+var mnemonic = "marble tape quantum tank warfare cinnamon crush protect dove stick fish staff";

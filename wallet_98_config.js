@@ -1,1 +1,1 @@
-var mnemonic = "gown ankle property adjust say enter situate zoo fiscal bubble final fox";
+var mnemonic = "shield someone banner miss govern virus security check elephant this donor water";

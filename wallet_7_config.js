@@ -1,1 +1,1 @@
-var mnemonic = "regret release tiger mesh group hedgehog coyote guess cool antique left hope";
+var mnemonic = "own donor day repeat ugly drum choose gospel audit check clock climb";

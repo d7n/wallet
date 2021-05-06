@@ -1,1 +1,1 @@
-var mnemonic = "fit kite lobster betray provide roof once fan unknown piano indoor slight";
+var mnemonic = "social fame analyst usage poem prevent basket light nation cool walk hero";

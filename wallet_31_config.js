@@ -1,1 +1,1 @@
-var mnemonic = "skill fame police address scare jacket push mango cover segment truth wasp";
+var mnemonic = "travel stage naive steak know swamp merry mobile hard glad sentence element";

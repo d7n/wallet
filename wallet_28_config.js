@@ -1,1 +1,1 @@
-var mnemonic = "blossom differ dolphin pumpkin health gun review picture wrist like give spike";
+var mnemonic = "adjust chimney zero episode chair bread document slim chef kiss mom armed";

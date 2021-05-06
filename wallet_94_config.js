@@ -1,1 +1,1 @@
-var mnemonic = "switch same enemy uncover bottom misery view crane wink aim card drama";
+var mnemonic = "enrich ski stomach moon bamboo dwarf ugly warfare prize draw hole mind";

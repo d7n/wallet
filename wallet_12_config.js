@@ -1,1 +1,1 @@
-var mnemonic = "february village warm frog actor tornado brush sick faculty usual ethics drive";
+var mnemonic = "perfect level drip exclude vessel recipe analyst hub laugh casino verb example";

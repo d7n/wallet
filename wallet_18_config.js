@@ -1,1 +1,1 @@
-var mnemonic = "quote surround garage second life crumble cliff someone country funny pact another";
+var mnemonic = "proof mind resemble exact deliver area use ugly stay sleep solve around";

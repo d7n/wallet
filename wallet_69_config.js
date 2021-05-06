@@ -1,1 +1,1 @@
-var mnemonic = "disease slot zebra reward engine phrase parade drift vibrant thank calm erase";
+var mnemonic = "west gym skirt loyal donor receive believe maple spatial loud weather submit";

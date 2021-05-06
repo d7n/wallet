@@ -1,1 +1,1 @@
-var mnemonic = "hidden sad raw indicate pig expand shallow alley list arrange crazy off";
+var mnemonic = "have label piece address crash olive trumpet humble ill denial mean hover";

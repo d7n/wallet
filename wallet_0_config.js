@@ -1,1 +1,1 @@
-var mnemonic = "creek matter caution diet glow coast climb cousin print scatter artefact holiday";
+var mnemonic = "word spoon source wife dinosaur wolf diary shop outside retire pass cupboard";

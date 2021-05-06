@@ -1,1 +1,1 @@
-var mnemonic = "orchard defense job gossip name step vital that fire during glance zoo";
+var mnemonic = "soccer coast bulk village dish color scene hungry ginger two nice honey";

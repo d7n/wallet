@@ -1,1 +1,1 @@
-var mnemonic = "ahead tragic notable carry detect glide school cable stadium grocery clock problem";
+var mnemonic = "finish endless heart divorce among glance repair fancy surround brand genre grow";

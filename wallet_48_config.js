@@ -1,1 +1,1 @@
-var mnemonic = "eye lazy gorilla craft supreme where dolphin find auction hotel seed swing";
+var mnemonic = "dizzy snake bonus stage grief egg elevator absurd parent liquid paper black";

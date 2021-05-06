@@ -1,1 +1,1 @@
-var mnemonic = "visa satisfy chronic caught soccer fix code plunge find giggle moment excuse";
+var mnemonic = "require dog later lock scene rice remind filter license fringe rookie tomorrow";

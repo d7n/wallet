@@ -1,1 +1,1 @@
-var mnemonic = "target nerve water uncover wall genius squeeze nurse puzzle coast knock mass";
+var mnemonic = "connect region onion scorpion hat glide pink stool brief hungry hip stuff";

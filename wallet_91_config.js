@@ -1,1 +1,1 @@
-var mnemonic = "airport seat retreat expose stock measure tape harbor abstract metal sadness nasty";
+var mnemonic = "vacuum arctic uncle earth apart furnace step client device mesh soldier veteran";

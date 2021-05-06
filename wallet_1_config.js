@@ -1,1 +1,1 @@
-var mnemonic = "kingdom eagle resemble ancient bridge design early run bomb youth indoor lady";
+var mnemonic = "ladder famous fatal uncle jealous curious embrace couch umbrella fit mimic join";

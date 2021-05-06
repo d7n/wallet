@@ -1,1 +1,1 @@
-var mnemonic = "solid already beach carbon offer check success boat coyote okay canyon core";
+var mnemonic = "owner hurt fitness width mosquito blade reveal team tortoise urge oxygen own";

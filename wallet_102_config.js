@@ -1,1 +1,1 @@
-var mnemonic = "hold split hidden bleak document bitter device festival october dust exercise wasp";
+var mnemonic = "will siege tomorrow daring erupt deer napkin state ready black sick concert";

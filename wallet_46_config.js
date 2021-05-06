@@ -1,1 +1,1 @@
-var mnemonic = "fault grab shed child naive notable urge main magic vintage glove index";
+var mnemonic = "depart increase depth juice first awake mouse build romance hire invite home";

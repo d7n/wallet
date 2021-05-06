@@ -1,1 +1,1 @@
-var mnemonic = "fresh tomorrow gallery cute aware silver neglect direct vendor neither victory museum";
+var mnemonic = "water odor thumb valley shrimp boss until account praise enroll lesson quality";

@@ -1,1 +1,1 @@
-var mnemonic = "teach surprise where great expand fog real lizard math jelly beef scrub";
+var mnemonic = "lunch select pistol swap tooth inflict outside donkey flush move digital father";

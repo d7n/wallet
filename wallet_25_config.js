@@ -1,1 +1,1 @@
-var mnemonic = "dinner enable explain balance shine wide slight album congress skate despair flavor";
+var mnemonic = "rapid brown auction nasty kiwi six salute gift area practice miss company";

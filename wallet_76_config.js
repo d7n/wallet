@@ -1,1 +1,1 @@
-var mnemonic = "figure distance purse hen material street elder trip huge now pupil spike";
+var mnemonic = "exercise mirror dumb soccer utility breeze virus wheel spin true accuse weird";

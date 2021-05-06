@@ -1,1 +1,1 @@
-var mnemonic = "slight track tragic ketchup genius just pattern goose include guitar abandon minute";
+var mnemonic = "maid oven brave please conduct riot rally attract metal fox blue exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "wise isolate casual tunnel chicken author size fade wheel argue room pioneer";
+var mnemonic = "depart mask kid move remember guitar hero track task stove diamond volcano";

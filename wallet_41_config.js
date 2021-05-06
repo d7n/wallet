@@ -1,1 +1,1 @@
-var mnemonic = "sport destroy fantasy direct parent spoil come isolate thumb fluid bid donkey";
+var mnemonic = "cloth chase seat slide acquire vault umbrella outside abstract upper task exotic";

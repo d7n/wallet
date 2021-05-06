@@ -1,1 +1,1 @@
-var mnemonic = "cheese lumber garden bright crime method token fossil sock project museum sweet";
+var mnemonic = "goat whisper inspire price chicken between depend random dog setup noodle cushion";

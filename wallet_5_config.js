@@ -1,1 +1,1 @@
-var mnemonic = "north supreme turkey brisk cricket state close race deputy trip twist initial";
+var mnemonic = "hurdle mammal hover refuse universe used upper force dignity fitness nut drill";

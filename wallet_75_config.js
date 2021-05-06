@@ -1,1 +1,1 @@
-var mnemonic = "moon chronic twelve require soccer will purse jaguar achieve absent account sleep";
+var mnemonic = "feature uncover gym bargain task dial excess burden solid universe twice recipe";

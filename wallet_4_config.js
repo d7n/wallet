@@ -1,1 +1,1 @@
-var mnemonic = "immense proof mandate mosquito embark dumb metal word shiver shy defy open";
+var mnemonic = "area arm advice sponsor long grocery evoke main violin process differ arch";

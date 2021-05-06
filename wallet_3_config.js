@@ -1,1 +1,1 @@
-var mnemonic = "pilot fold junk risk approve decline run gain casino must lava use";
+var mnemonic = "camera gift uncle beach luggage rebuild market feed among praise rebuild lend";

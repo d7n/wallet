@@ -1,1 +1,1 @@
-var mnemonic = "apology hedgehog exist aspect health urban wild conduct borrow wait secret add";
+var mnemonic = "scale near tortoise can scan draw shoe repeat index south flash vessel";

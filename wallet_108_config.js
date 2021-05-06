@@ -1,1 +1,1 @@
-var mnemonic = "wasp impose midnight stable isolate opera sure modify hello crumble alert hospital";
+var mnemonic = "winner chunk cable autumn deal surround flat acid blanket document mutual select";

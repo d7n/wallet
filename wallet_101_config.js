@@ -1,1 +1,1 @@
-var mnemonic = "undo sea supply comic morning way attack country twelve modify fat time";
+var mnemonic = "capital feature inmate copper slight elevator ketchup despair enemy cool able concert";

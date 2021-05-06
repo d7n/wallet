@@ -1,1 +1,1 @@
-var mnemonic = "steak decide moral border wise bottom hospital street outdoor picture mix clap";
+var mnemonic = "pear clinic junk onion arctic service history kangaroo fan brief chair drama";

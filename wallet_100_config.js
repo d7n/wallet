@@ -1,1 +1,1 @@
-var mnemonic = "nasty broccoli slogan alarm margin problem cover orbit trash predict public proof";
+var mnemonic = "laundry slot husband gold primary carry traffic bonus owner buddy fly ethics";

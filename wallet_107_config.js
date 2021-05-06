@@ -1,1 +1,1 @@
-var mnemonic = "novel melody congress year reason feed relax ten alcohol little duty hour";
+var mnemonic = "company deal endorse milk item night hazard execute spend fame notice run";

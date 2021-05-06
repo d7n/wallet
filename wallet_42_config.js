@@ -1,1 +1,1 @@
-var mnemonic = "inject march attack phrase shrug warfare addict canal reveal clog nerve fiction";
+var mnemonic = "panel reveal gold know reunion sock game undo metal wealth elbow express";

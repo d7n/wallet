@@ -1,1 +1,1 @@
-var mnemonic = "history arctic razor wide assume student grow frost either together goose door";
+var mnemonic = "cotton fatal effort lucky rice shop diary butter flag hybrid fever agree";

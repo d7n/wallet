@@ -1,1 +1,1 @@
-var mnemonic = "tuition fiscal merry cook diagram sugar survey captain miracle poverty alley high";
+var mnemonic = "grass tooth hint point input brother consider humble open patient now zone";

@@ -1,1 +1,1 @@
-var mnemonic = "spend push daughter question garage click switch pulse guilt sight three biology";
+var mnemonic = "essence abandon alarm wood effort fade save entire permit ethics tuition merry";

@@ -1,1 +1,1 @@
-var mnemonic = "spare ice spring misery teach blur total crowd labor vibrant glimpse taxi";
+var mnemonic = "power antenna bright easily reflect acquire sight bubble box syrup video among";

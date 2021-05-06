@@ -1,1 +1,1 @@
-var mnemonic = "uphold thrive orange sponsor earn phrase dance cancel ill patch slim explain";
+var mnemonic = "antique learn vague knife visual trick season tennis abandon borrow clean guard";

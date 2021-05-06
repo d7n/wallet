@@ -1,1 +1,1 @@
-var mnemonic = "tonight park card help pigeon total flock chicken strong random carpet small";
+var mnemonic = "odor shiver orchard review random weasel purse taste curious castle stereo parrot";

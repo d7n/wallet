@@ -1,1 +1,1 @@
-var mnemonic = "ship brass emerge heart output slim foot drum month snack guitar solar";
+var mnemonic = "slender grunt seek ivory asthma roast tongue total solution nasty chronic rough";

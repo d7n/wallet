@@ -1,1 +1,1 @@
-var mnemonic = "stereo bulk shock peasant label drum around position lunch sad surprise nice";
+var mnemonic = "height hospital furnace dragon tree slice canvas crush vacant school artefact remind";

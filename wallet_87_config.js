@@ -1,1 +1,1 @@
-var mnemonic = "critic program cloud topic river rich return debris receive cereal robust scheme";
+var mnemonic = "myself list fury pulse mean vendor filter crawl garment label liberty rapid";

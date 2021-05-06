@@ -1,1 +1,1 @@
-var mnemonic = "inch wise piece fringe ritual put scout often venture also toss burden";
+var mnemonic = "learn elbow clean check amazing debris turn awake equal dash park home";

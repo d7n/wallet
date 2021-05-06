@@ -1,1 +1,1 @@
-var mnemonic = "federal stereo hurdle opinion pipe vapor focus chunk journey silent knife rug";
+var mnemonic = "cool poem tide wing girl tower chair loop lobster maze punch gun";

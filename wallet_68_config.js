@@ -1,1 +1,1 @@
-var mnemonic = "owner rib flip range season arm pulp dry wreck finger amateur south";
+var mnemonic = "prevent act creek friend alcohol cross thank escape sauce exchange nasty angry";

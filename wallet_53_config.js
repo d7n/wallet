@@ -1,1 +1,1 @@
-var mnemonic = "mosquito empower fatal dream already wave walk twelve common roof lunar judge";
+var mnemonic = "snap orient pigeon fade matter figure ticket vacuum weapon kind fat nation";

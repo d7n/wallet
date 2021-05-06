@@ -1,1 +1,1 @@
-var mnemonic = "car alpha exist spray captain famous reveal body exhibit under ask mosquito";
+var mnemonic = "hard kite bamboo farm change sleep hundred embark grid enhance wheel burst";

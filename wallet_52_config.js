@@ -1,1 +1,1 @@
-var mnemonic = "raise pistol economy column invite type quality chronic country agree pencil minute";
+var mnemonic = "gorilla purpose ship kiwi thunder negative bonus early blast myth angry junior";

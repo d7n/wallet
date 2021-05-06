@@ -1,1 +1,1 @@
-var mnemonic = "lava blur shop gaze danger crop style rhythm champion visit height mistake";
+var mnemonic = "capable quick diesel stem device nice drop cement word attack renew wheel";

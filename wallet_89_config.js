@@ -1,1 +1,1 @@
-var mnemonic = "nature ordinary judge bundle play lens random dignity ship twenty expect brick";
+var mnemonic = "this float mass degree math protect reveal virtual nose lucky wave mother";

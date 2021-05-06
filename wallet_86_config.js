@@ -1,1 +1,1 @@
-var mnemonic = "diary worth canvas mosquito web give tackle picture piano sick gossip inquiry";
+var mnemonic = "finish powder club muscle protect switch survey roast caught zoo explain dismiss";

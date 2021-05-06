@@ -1,1 +1,1 @@
-var mnemonic = "sad noble person lab egg industry hundred eye mechanic toward wrist oxygen";
+var mnemonic = "frog goat reopen peanut wink shop snow thrive pause interest invest neutral";

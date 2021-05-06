@@ -1,1 +1,1 @@
-var mnemonic = "culture month sugar age mask kitchen mammal frame senior sport school roof";
+var mnemonic = "march arch card trust dwarf small grow involve improve elder weasel endless";

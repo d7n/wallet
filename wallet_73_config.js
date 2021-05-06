@@ -1,1 +1,1 @@
-var mnemonic = "undo acoustic beef nature aware caution boring fox mammal then useless turkey";
+var mnemonic = "hover kite spread final once segment feature meat ignore name fiber movie";

@@ -1,1 +1,1 @@
-var mnemonic = "best tower short emerge such certain dune loop jeans lake maid powder";
+var mnemonic = "draw place talent dizzy wisdom travel easily stick cart cement call doll";

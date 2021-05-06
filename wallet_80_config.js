@@ -1,1 +1,1 @@
-var mnemonic = "remind else pill poem camp edge north dice need rebel typical image";
+var mnemonic = "hero normal never party giant wreck debris between train human bid nurse";

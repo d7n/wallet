@@ -1,1 +1,1 @@
-var mnemonic = "seminar artwork knee wisdom uphold lift sponsor sunset chunk desert melt fade";
+var mnemonic = "refuse clarify portion magnet athlete maze churn pride choice man slogan canvas";

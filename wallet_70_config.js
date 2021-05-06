@@ -1,1 +1,1 @@
-var mnemonic = "deposit salute cake timber hello logic panda trial pencil fury gauge ahead";
+var mnemonic = "will suggest shift until orange scout person august cart entire brown cousin";

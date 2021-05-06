@@ -1,1 +1,1 @@
-var mnemonic = "attend metal usual guess wet sniff click puppy valid endorse gown pig";
+var mnemonic = "jacket seat yellow orphan phrase comfort message regular push food cage visit";

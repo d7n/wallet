@@ -1,1 +1,1 @@
-var mnemonic = "boss share satoshi salmon pretty vivid phone north pitch pond reunion length";
+var mnemonic = "same tree disagree simple safe rigid desert attract jewel crouch orange family";

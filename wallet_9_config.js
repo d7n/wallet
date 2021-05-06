@@ -1,1 +1,1 @@
-var mnemonic = "gold pioneer law tragic true market load rebel limit awkward carry theory";
+var mnemonic = "excite brown climb razor heavy ribbon danger host once useless dish episode";

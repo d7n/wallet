@@ -1,1 +1,1 @@
-var mnemonic = "lift math addict favorite brown long rain forget minor title sell cable";
+var mnemonic = "fuel shed swift dad illegal pizza tornado stem lawn earth can whale";

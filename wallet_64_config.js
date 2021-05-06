@@ -1,1 +1,1 @@
-var mnemonic = "erode card kid photo dish horse lion punch absent fortune brother very";
+var mnemonic = "reunion success dish normal consider turtle island uncle fence outer rocket brush";

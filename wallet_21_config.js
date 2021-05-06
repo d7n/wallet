@@ -1,1 +1,1 @@
-var mnemonic = "regret above decide image amused enlist culture trophy now have wealth drop";
+var mnemonic = "shoot bundle negative planet group buyer turtle river apart globe among neglect";

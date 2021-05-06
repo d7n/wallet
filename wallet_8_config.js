@@ -1,1 +1,1 @@
-var mnemonic = "wing smart summer example disease brave apple put own luxury husband any";
+var mnemonic = "nest region swear crowd hub wool fancy warfare forward rare art dune";

@@ -1,1 +1,1 @@
-var mnemonic = "enable party venue avoid dentist runway play february spoon cruel fold lamp";
+var mnemonic = "sound twin alone tornado agree version apart saddle found market state one";

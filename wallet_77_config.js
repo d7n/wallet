@@ -1,1 +1,1 @@
-var mnemonic = "flip almost feature fall sustain chase ginger lecture keen other stumble almost";
+var mnemonic = "suggest wreck seminar exit sunset search gap jeans nose evidence myself sure";

@@ -1,1 +1,1 @@
-var mnemonic = "craft noodle coral onion walnut cotton employ click trend evidence human worth";
+var mnemonic = "object main address company high force example grant prepare fee census opinion";

@@ -1,1 +1,1 @@
-var mnemonic = "scrap thank mercy easy type furnace certain much video various cradle unaware";
+var mnemonic = "anger peanut runway caution year fragile blame teach panic muscle peanut vicious";

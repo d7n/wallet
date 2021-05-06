@@ -1,1 +1,1 @@
-var mnemonic = "below double moral book tent entire lumber elbow angry tide injury glance";
+var mnemonic = "autumn photo kingdom spatial dry humble close side victory machine neglect ten";

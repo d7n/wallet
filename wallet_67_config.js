@@ -1,1 +1,1 @@
-var mnemonic = "sleep accident latin reward rifle improve kitchen top stairs case destroy connect";
+var mnemonic = "globe area violin yellow winner fame party arch maximum match crash kit";

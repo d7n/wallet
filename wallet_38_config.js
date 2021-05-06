@@ -1,1 +1,1 @@
-var mnemonic = "alcohol trade depth left buzz because vanish mail cactus concert future famous";
+var mnemonic = "icon setup tenant elevator accident right cement soap forum salute blouse turn";

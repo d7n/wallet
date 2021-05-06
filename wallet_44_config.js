@@ -1,1 +1,1 @@
-var mnemonic = "badge festival code minimum powder use adjust found chair segment plug glimpse";
+var mnemonic = "large mouse diet timber dentist across valley upgrade trash angle bind rocket";

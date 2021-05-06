@@ -1,1 +1,1 @@
-var mnemonic = "jacket report river angry hip garment hub test throw decide club dial";
+var mnemonic = "truth girl twelve clown initial movie drip write march clay toe kiwi";

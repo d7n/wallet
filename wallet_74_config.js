@@ -1,1 +1,1 @@
-var mnemonic = "aspect exhibit uniform cute donate evolve extend chicken fence text once wise";
+var mnemonic = "better victory social memory gym mountain mammal pipe harsh detect invest try";

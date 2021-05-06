@@ -1,1 +1,1 @@
-var mnemonic = "crystal repair castle cinnamon argue welcome account prepare since light glare impose";
+var mnemonic = "transfer actual midnight review possible parent gossip yellow express involve dream wedding";

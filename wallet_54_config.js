@@ -1,1 +1,1 @@
-var mnemonic = "film always pause garage online mass hungry width clinic candy rigid teach";
+var mnemonic = "promote venture creek maze country wife tiger apple walk forum grocery few";

@@ -1,1 +1,1 @@
-var mnemonic = "chat tray damage leaf news thumb gossip pact future object talk second";
+var mnemonic = "deputy grace twelve chef output snake noodle special base draw horse tip";

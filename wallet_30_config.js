@@ -1,1 +1,1 @@
-var mnemonic = "hurt lock electric sea story expand void proof before clutch excuse comic";
+var mnemonic = "army record super twin ask enroll flame antique race liquid thing raven";
