@@ -1,1 +1,1 @@
-var mnemonic = "runway mesh patch giggle scene real caution empower wrestle spoon labor game";
+var mnemonic = "inspire scorpion divide grow oval urge ready merge key donkey asset chaos";

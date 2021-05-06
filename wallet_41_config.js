@@ -1,1 +1,1 @@
-var mnemonic = "sunny tornado rice lazy panic gap captain hospital reform material ready turtle";
+var mnemonic = "cancel thrive diamond payment beauty surface patrol wish remind squeeze rebuild symbol";

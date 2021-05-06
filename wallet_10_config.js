@@ -1,1 +1,1 @@
-var mnemonic = "degree poet solve renew person champion knee pelican siren brief tunnel delay";
+var mnemonic = "favorite advance board large private slab radio black taste flight hamster coast";

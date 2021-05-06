@@ -1,1 +1,1 @@
-var mnemonic = "enrich copper health romance claim alcohol supply weather promote vicious crash test";
+var mnemonic = "there ensure genuine garment survey jealous february mask cigar smooth depend bachelor";

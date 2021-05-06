@@ -1,1 +1,1 @@
-var mnemonic = "crazy antenna tree live engine figure way never other sick task lemon";
+var mnemonic = "quick bone donkey tomorrow girl dolphin arm gallery typical middle tower curve";

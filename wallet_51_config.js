@@ -1,1 +1,1 @@
-var mnemonic = "donate hidden rather voyage material monkey ticket also alter museum pistol quarter";
+var mnemonic = "business smart tribe easily supreme echo trial reform guide pioneer matter dirt";

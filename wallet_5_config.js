@@ -1,1 +1,1 @@
-var mnemonic = "elder pumpkin misery clay essay math movie ridge ostrich day flame cup";
+var mnemonic = "arena suggest during syrup myself accident leaf bullet bullet defense ability hundred";

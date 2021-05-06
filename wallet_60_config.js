@@ -1,1 +1,1 @@
-var mnemonic = "wild panic memory hotel endorse act bonus session duty upper enter shoot";
+var mnemonic = "foam silly shrimp please planet panic phone hill vital plate immense steel";

@@ -1,1 +1,1 @@
-var mnemonic = "birth used horror profit camera conduct pottery canyon beauty silent fancy initial";
+var mnemonic = "high meadow album spoil very matrix decide car end ball skirt joy";

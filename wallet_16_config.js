@@ -1,1 +1,1 @@
-var mnemonic = "liquid ozone wing opinion cry leave fox frost onion wrap initial amount";
+var mnemonic = "puzzle hope agent razor pelican found sleep borrow stool zoo observe coconut";

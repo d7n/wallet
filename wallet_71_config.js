@@ -1,1 +1,1 @@
-var mnemonic = "sight warfare wife inhale drip aisle evolve identify ready lunch time fiction";
+var mnemonic = "engine cat tent sleep category uncle beach into broccoli angle fox pride";

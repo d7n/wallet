@@ -1,1 +1,1 @@
-var mnemonic = "once buzz already planet acid potato oppose disease want worry pony chapter";
+var mnemonic = "oil winner uniform mountain robot section else seminar surge spy coconut lock";

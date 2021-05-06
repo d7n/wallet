@@ -1,1 +1,1 @@
-var mnemonic = "acid always grit wink avoid target season joke verb direct meat flock";
+var mnemonic = "twice smoke liquid bunker ball enter possible version special empty praise estate";

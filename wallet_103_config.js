@@ -1,1 +1,1 @@
-var mnemonic = "learn tobacco man huge work hope border october stay scheme panel secret";
+var mnemonic = "edit old average exist unfold cup large vivid hunt skin scissors employ";

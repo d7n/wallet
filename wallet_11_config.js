@@ -1,1 +1,1 @@
-var mnemonic = "stumble judge box column must you suspect cat novel island goat endorse";
+var mnemonic = "story peasant stereo snap black chimney dinosaur replace link tunnel apple all";

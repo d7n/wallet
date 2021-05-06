@@ -1,1 +1,1 @@
-var mnemonic = "pizza develop hurry gorilla tape detect afford hamster front indoor icon glimpse";
+var mnemonic = "debris style save raise only video bounce belt siren rough stable barrel";

@@ -1,1 +1,1 @@
-var mnemonic = "donkey rail elegant safe guess wage buddy either hawk amused antenna total";
+var mnemonic = "cloth useless jungle jewel nest head chase dismiss room early arch frozen";

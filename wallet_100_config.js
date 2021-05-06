@@ -1,1 +1,1 @@
-var mnemonic = "inspire erode dune slush hour auction patch disagree angle monitor donkey pink";
+var mnemonic = "say fatal pizza flash lemon illness load patrol scatter unit sunset vibrant";

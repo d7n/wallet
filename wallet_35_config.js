@@ -1,1 +1,1 @@
-var mnemonic = "planet noodle jacket jacket wall labor rare bring garment custom whip excess";
+var mnemonic = "chapter curtain west endorse version cost leisure fat crack grow account foam";

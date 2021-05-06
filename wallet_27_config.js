@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo guard spread dinosaur empty glimpse census topic risk inside hospital soldier";
+var mnemonic = "lady swift reject face shy decide plate sausage wonder flame prefer divert";

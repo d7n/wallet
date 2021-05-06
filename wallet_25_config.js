@@ -1,1 +1,1 @@
-var mnemonic = "physical upon skate vintage movie version raw category tilt cushion axis term";
+var mnemonic = "left swift route snake shuffle orphan question absorb easy next lyrics response";

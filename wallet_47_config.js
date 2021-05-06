@@ -1,1 +1,1 @@
-var mnemonic = "bone riot unfold girl witness exercise pool pioneer pact purpose forward devote";
+var mnemonic = "supreme blouse duck account pulse pave chimney join possible property veteran silver";

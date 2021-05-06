@@ -1,1 +1,1 @@
-var mnemonic = "remove inhale hover cycle shed ski session derive pelican desert parrot liquid";
+var mnemonic = "family direct uncover sustain thumb peasant memory fragile gather funny trust inner";

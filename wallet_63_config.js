@@ -1,1 +1,1 @@
-var mnemonic = "sense worry melt tribe share indoor tell broccoli hub problem clump bless";
+var mnemonic = "power guitar inflict describe skin cousin crowd protect field tortoise present claim";

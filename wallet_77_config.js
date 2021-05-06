@@ -1,1 +1,1 @@
-var mnemonic = "direct patrol label obey two sibling fence token total box coral end";
+var mnemonic = "throw portion witness seven give chat skirt toddler minute cricket lazy switch";

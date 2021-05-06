@@ -1,1 +1,1 @@
-var mnemonic = "gather inspire flush erase room wine all siren giant age away dream";
+var mnemonic = "loyal idea custom eyebrow motor sugar cram will orphan liar shoot few";

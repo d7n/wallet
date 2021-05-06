@@ -1,1 +1,1 @@
-var mnemonic = "hole dizzy grid ordinary cost utility ancient clump limit bring sock wealth";
+var mnemonic = "spice kind infant prosper wheat magic double fan diamond truly little check";

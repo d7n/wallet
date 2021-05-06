@@ -1,1 +1,1 @@
-var mnemonic = "venue scene urge fancy menu spring charge diary general jeans mountain banner";
+var mnemonic = "version home region have amount minute wild space diamond south patrol flavor";

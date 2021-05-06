@@ -1,1 +1,1 @@
-var mnemonic = "point adapt fine despair develop horror excuse bacon science bulb beef bachelor";
+var mnemonic = "social price current emotion proud lab shop income wheat build rotate present";

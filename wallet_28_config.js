@@ -1,1 +1,1 @@
-var mnemonic = "maze manage expire dinner snack lend bid dust talent control seven ecology";
+var mnemonic = "proud since impulse attract tired aware update boost text sauce urban boring";

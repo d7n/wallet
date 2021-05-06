@@ -1,1 +1,1 @@
-var mnemonic = "bus horn curious update ring street dolphin section water involve phone use";
+var mnemonic = "pretty demise vote twice bulk farm success common dawn lazy response jeans";

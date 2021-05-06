@@ -1,1 +1,1 @@
-var mnemonic = "stage youth kind glory abuse exist derive dismiss income shy crane crunch";
+var mnemonic = "rent clump shoot science guilt bronze child brief dumb atom ridge chef";

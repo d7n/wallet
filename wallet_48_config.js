@@ -1,1 +1,1 @@
-var mnemonic = "regret identify room fish resource glory give bicycle consider muffin once runway";
+var mnemonic = "rebel radio chimney sustain verb fiber local light great saddle spider spawn";

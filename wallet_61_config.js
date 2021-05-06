@@ -1,1 +1,1 @@
-var mnemonic = "assist mandate awkward chunk little audit random page marble wife report all";
+var mnemonic = "jacket despair already issue gym lawn siren update ivory toddler drop town";

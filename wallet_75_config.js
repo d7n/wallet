@@ -1,1 +1,1 @@
-var mnemonic = "bulb hedgehog field wagon seat vendor undo february leg sick frown real";
+var mnemonic = "photo square visit usual nephew banner midnight account cube canyon toy pelican";

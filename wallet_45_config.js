@@ -1,1 +1,1 @@
-var mnemonic = "loyal install agent medal ticket scout hockey annual blur clerk volume tell";
+var mnemonic = "twenty worth nerve panic elegant enlist type diamond normal ability insect test";

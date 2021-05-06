@@ -1,1 +1,1 @@
-var mnemonic = "sister cycle limit code company planet drastic palm waste enact giant post";
+var mnemonic = "steak cage dismiss atom picture toy fix skate stadium phone birth reform";

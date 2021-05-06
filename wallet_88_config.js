@@ -1,1 +1,1 @@
-var mnemonic = "hood filter proud tape project unfold gossip ostrich hedgehog grape purpose enough";
+var mnemonic = "guide depend happy hero diamond give sauce result vehicle sail alarm style";

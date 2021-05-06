@@ -1,1 +1,1 @@
-var mnemonic = "awful tell series donate business foster grace fitness decline initial ginger police";
+var mnemonic = "panda ten salon cart pledge rescue rail hope wear verify noodle move";

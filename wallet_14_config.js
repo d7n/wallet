@@ -1,1 +1,1 @@
-var mnemonic = "cable comic bunker receive valid lady urge trial high anger tree federal";
+var mnemonic = "couch cancel employ budget hard scene canal setup deer pyramid antique steel";

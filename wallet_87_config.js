@@ -1,1 +1,1 @@
-var mnemonic = "combine hen measure stereo struggle key park adult alter reflect guitar ticket";
+var mnemonic = "normal hurt crop tackle bar reunion target nasty tourist load miss clean";

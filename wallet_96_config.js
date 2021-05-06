@@ -1,1 +1,1 @@
-var mnemonic = "gift thrive connect curtain drink host limb dismiss verb notable eyebrow job";
+var mnemonic = "when tortoise tongue vessel fortune sign nominee flock range acid immense during";

@@ -1,1 +1,1 @@
-var mnemonic = "harbor strategy indicate stomach prison rich culture eyebrow rifle arrow sketch jump";
+var mnemonic = "valve wrong finger system sport galaxy nature hockey hungry label vital rug";

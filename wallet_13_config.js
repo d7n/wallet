@@ -1,1 +1,1 @@
-var mnemonic = "picnic capital food release climb smart obey hat velvet oven loud matrix";
+var mnemonic = "elevator little angry dust welcome indoor dirt van cloth office equal puppy";

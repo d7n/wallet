@@ -1,1 +1,1 @@
-var mnemonic = "knife ghost blossom swift one gentle dose slender rain chair carry merit";
+var mnemonic = "silly picnic name educate grid pelican style pottery ketchup night heavy sight";

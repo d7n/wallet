@@ -1,1 +1,1 @@
-var mnemonic = "exile interest lumber void obey hunt giant skin cover wrist gain scare";
+var mnemonic = "laundry gun possible resource option wise mail chair slender emotion various appear";

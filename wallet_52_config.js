@@ -1,1 +1,1 @@
-var mnemonic = "coach favorite maximum wonder language eager trophy rookie metal cheap weekend cabbage";
+var mnemonic = "predict hurdle corn virtual rare limb enable frost ecology top festival approve";

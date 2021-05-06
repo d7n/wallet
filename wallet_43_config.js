@@ -1,1 +1,1 @@
-var mnemonic = "aerobic report note skin order expect useful issue range oxygen wife give";
+var mnemonic = "nose rent purse elder mass either nerve amount swarm above now marine";

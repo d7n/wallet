@@ -1,1 +1,1 @@
-var mnemonic = "key exist surge differ unable describe treat lawsuit cloud drop sign pilot";
+var mnemonic = "exhaust address spare legend street weird problem obtain woman action goat auto";

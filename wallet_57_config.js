@@ -1,1 +1,1 @@
-var mnemonic = "shock tree napkin fever month bind catalog afford glue fog sphere much";
+var mnemonic = "school between express song material amazing future toddler joy question runway recipe";

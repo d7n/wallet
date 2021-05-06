@@ -1,1 +1,1 @@
-var mnemonic = "hazard shift toast wink dance dress method fault furnace menu soldier rescue";
+var mnemonic = "acoustic swallow gossip tail pitch harsh bitter patient donor strong come soda";

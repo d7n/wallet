@@ -1,1 +1,1 @@
-var mnemonic = "door goddess public crowd artefact swamp skill auto replace key roast rely";
+var mnemonic = "thumb smart solid lawn boat tragic bird wedding absent solution exercise attract";

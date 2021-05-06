@@ -1,1 +1,1 @@
-var mnemonic = "curve plate slot loud velvet fish aim park admit slice atom talk";
+var mnemonic = "certain cluster crack system leopard find sphere arrow vote kite switch debris";

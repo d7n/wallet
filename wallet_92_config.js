@@ -1,1 +1,1 @@
-var mnemonic = "skirt elder squirrel pig open west million expose fee abandon adult shop";
+var mnemonic = "captain seek cat metal remain bind slush shed rose million snow expire";

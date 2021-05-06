@@ -1,1 +1,1 @@
-var mnemonic = "person eagle knife govern awkward fruit above pledge end front trade farm";
+var mnemonic = "bitter bottom open bulb squeeze skirt music pigeon flip run fish monkey";

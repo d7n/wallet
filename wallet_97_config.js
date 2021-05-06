@@ -1,1 +1,1 @@
-var mnemonic = "grain milk bacon recall wisdom bird useless film voice refuse grit funny";
+var mnemonic = "model grief smooth tongue rifle bicycle avoid source pluck jar sad ranch";

@@ -1,1 +1,1 @@
-var mnemonic = "globe model tooth hobby rate dust snow danger manual dress nut match";
+var mnemonic = "horse client rate eyebrow fancy kind tobacco extra person random upon merry";

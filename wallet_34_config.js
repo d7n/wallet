@@ -1,1 +1,1 @@
-var mnemonic = "tortoise salute bounce beyond road base onion crouch young bring side human";
+var mnemonic = "track visit glimpse topic mercy coin laundry document unaware toddler benefit worth";

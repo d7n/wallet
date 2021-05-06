@@ -1,1 +1,1 @@
-var mnemonic = "video net layer fitness two knock kite vote rookie waste shoot over";
+var mnemonic = "labor slight memory cargo horn recycle anger current ensure veteran health track";

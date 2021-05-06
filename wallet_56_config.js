@@ -1,1 +1,1 @@
-var mnemonic = "merge daring spoon photo raise omit fix robust country avocado thumb sheriff";
+var mnemonic = "ride begin pass dizzy anchor marine staff dignity chest dress force couple";

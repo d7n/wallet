@@ -1,1 +1,1 @@
-var mnemonic = "mango act fancy drill sign super argue ring column skull knee uncle";
+var mnemonic = "genre cart client razor season feel envelope initial tongue combine curious tennis";

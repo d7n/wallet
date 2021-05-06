@@ -1,1 +1,1 @@
-var mnemonic = "depth muscle bike rain cloud gadget draft odor raise dog fabric unfold";
+var mnemonic = "bitter decide poverty antenna license echo nominee hobby bridge clap sea olive";

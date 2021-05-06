@@ -1,1 +1,1 @@
-var mnemonic = "desk coast symptom metal tongue scout put enforce ship impulse today find";
+var mnemonic = "that poem cheap puppy route bronze comic knee tenant salon build royal";

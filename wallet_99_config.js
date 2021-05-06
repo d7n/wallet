@@ -1,1 +1,1 @@
-var mnemonic = "jar rather payment pull evil require wolf cherry device when receive camp";
+var mnemonic = "parade vintage common globe sample canoe comic brown dove sweet pigeon replace";

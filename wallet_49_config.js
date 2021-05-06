@@ -1,1 +1,1 @@
-var mnemonic = "raw exhaust crack gate digital kit foil obvious shoe coach chapter giraffe";
+var mnemonic = "gap cotton replace unfair skate swallow capable surface time comfort chat head";

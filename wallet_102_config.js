@@ -1,1 +1,1 @@
-var mnemonic = "nurse retire enable run inherit unique equip blade maid doll leisure normal";
+var mnemonic = "risk thank wet bring antique retreat dawn husband fluid pool hunt owner";

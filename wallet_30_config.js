@@ -1,1 +1,1 @@
-var mnemonic = "twelve slide security sail galaxy warm inspire crane cage unhappy explain hidden";
+var mnemonic = "price stand link catch kidney tower slogan pipe human okay deer text";

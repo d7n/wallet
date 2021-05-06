@@ -1,1 +1,1 @@
-var mnemonic = "obvious audit tired false love student dawn risk noodle fantasy mesh balance";
+var mnemonic = "latin run age myself hurt neck news message fold merit anxiety spawn";

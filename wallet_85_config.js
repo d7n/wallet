@@ -1,1 +1,1 @@
-var mnemonic = "crowd humble rifle eagle kingdom gold range paper exhaust board uphold canvas";
+var mnemonic = "pitch addict fluid hero slender promote antenna denial metal empty bind soccer";

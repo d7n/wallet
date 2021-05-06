@@ -1,1 +1,1 @@
-var mnemonic = "ocean device use indicate mass position truly door clock social transfer entire";
+var mnemonic = "will suspect story wall brisk spatial peasant amazing this market hello talent";

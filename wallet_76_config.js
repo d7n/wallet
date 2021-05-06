@@ -1,1 +1,1 @@
-var mnemonic = "modify sentence believe cloud empty typical genius derive valve like maid industry";
+var mnemonic = "ladder margin armor elbow dizzy shield install useless frequent oven party organ";

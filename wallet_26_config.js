@@ -1,1 +1,1 @@
-var mnemonic = "state waste ethics pull galaxy hand awful segment swear adult monkey unveil";
+var mnemonic = "used simple lobster visit similar message drift digital tuna provide sugar brass";

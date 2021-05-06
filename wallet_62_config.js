@@ -1,1 +1,1 @@
-var mnemonic = "veteran kiwi blame robot fiscal fiber swift scare sunny alpha math reject";
+var mnemonic = "near equip march tornado carpet myth owner huge impact junior glow sail";

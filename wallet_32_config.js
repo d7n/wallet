@@ -1,1 +1,1 @@
-var mnemonic = "crucial fabric dirt stuff industry zebra enough quality firm social true animal";
+var mnemonic = "bulb ecology allow bundle sentence want either review load light review common";

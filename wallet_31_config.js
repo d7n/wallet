@@ -1,1 +1,1 @@
-var mnemonic = "meadow almost grid confirm federal slide final decorate talk receive measure drastic";
+var mnemonic = "gap case twist giant reunion naive chimney stereo sense harsh medal obtain";

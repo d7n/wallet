@@ -1,1 +1,1 @@
-var mnemonic = "puzzle typical glad brief speed tunnel cupboard razor defense verify shoe fetch";
+var mnemonic = "clog strike carry note deal cherry pride rifle erosion crouch velvet priority";

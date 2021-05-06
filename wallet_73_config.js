@@ -1,1 +1,1 @@
-var mnemonic = "turtle cool race giant shiver accuse marriage city cream excuse news tobacco";
+var mnemonic = "fix fitness calm hollow hammer prosper bundle film live help warfare talk";

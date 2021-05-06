@@ -1,1 +1,1 @@
-var mnemonic = "inquiry access burden safe gate during slush sniff hedgehog gospel endorse panic";
+var mnemonic = "diagram grant evoke hand cigar also toss oven chalk fatal night steel";

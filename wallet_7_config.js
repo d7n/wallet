@@ -1,1 +1,1 @@
-var mnemonic = "foil pass rice balcony time palace limit enjoy emerge kind dinosaur upgrade";
+var mnemonic = "regular celery truly tornado surround gap love river sugar march laugh army";

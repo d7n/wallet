@@ -1,1 +1,1 @@
-var mnemonic = "usage program person will video vessel frame onion lava flame car pilot";
+var mnemonic = "jazz riot sorry clean verb order explain wood resource fancy vague faculty";

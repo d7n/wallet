@@ -1,1 +1,1 @@
-var mnemonic = "tortoise page model volcano helmet raven crush ill balance pyramid profit hospital";
+var mnemonic = "animal state invite reunion buzz flower cruel current bonus real uniform scout";

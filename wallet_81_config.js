@@ -1,1 +1,1 @@
-var mnemonic = "size sign gauge gloom speed network kingdom easy profit good credit sample";
+var mnemonic = "demise else general clump prevent tube boss clip caution goat solution badge";

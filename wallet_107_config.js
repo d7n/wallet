@@ -1,1 +1,1 @@
-var mnemonic = "hour abuse boost clean teach furnace clap prevent solve plunge fancy service";
+var mnemonic = "mammal merit belt empower small normal simple motor wool grain random poet";

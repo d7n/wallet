@@ -1,1 +1,1 @@
-var mnemonic = "catalog owner differ never gate double pig public spatial rotate test deliver";
+var mnemonic = "focus style badge gentle pony tip buddy rate produce item palm twin";

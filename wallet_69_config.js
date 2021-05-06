@@ -1,1 +1,1 @@
-var mnemonic = "pink hip coral shiver spatial voice junk jar magnet special length borrow";
+var mnemonic = "digital worth patient rain inspire aunt genre point enhance polar spread fury";

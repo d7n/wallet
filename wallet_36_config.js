@@ -1,1 +1,1 @@
-var mnemonic = "resist gorilla only omit result behind cost tribe donate mistake bring later";
+var mnemonic = "valley unusual vendor forum forget ranch key check lucky way give smart";

@@ -1,1 +1,1 @@
-var mnemonic = "power divide jar matrix floor shine tongue seed extend galaxy fan increase";
+var mnemonic = "sphere forget call anchor supply method blood autumn whisper marine foam armor";

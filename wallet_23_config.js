@@ -1,1 +1,1 @@
-var mnemonic = "chest park ceiling churn author casual myself cactus fault laundry fortune purse";
+var mnemonic = "safe any shiver book venture ice busy satisfy coral banana birth egg";

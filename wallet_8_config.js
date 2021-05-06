@@ -1,1 +1,1 @@
-var mnemonic = "replace hotel corn ship grace voice news option injury bulb fly critic";
+var mnemonic = "sure future fringe sauce globe consider survey frown balance hold baby action";

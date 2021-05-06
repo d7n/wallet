@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit right weather honey tell maid camera swamp need oval drop pear";
+var mnemonic = "tone tunnel general student used reopen turkey plug donor impulse sing replace";

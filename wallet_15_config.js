@@ -1,1 +1,1 @@
-var mnemonic = "life oil avocado where combine diesel question surprise sheriff hamster fatal north";
+var mnemonic = "hurdle gather elephant doctor oak arch hurry diet power habit foot bitter";

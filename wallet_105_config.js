@@ -1,1 +1,1 @@
-var mnemonic = "yard virtual grief pair one vast quote this achieve vibrant height walk";
+var mnemonic = "slide tourist base raccoon close coil aspect cactus begin island purity secret";

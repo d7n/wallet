@@ -1,1 +1,1 @@
-var mnemonic = "load chief traffic magic drama ghost popular door way hire burger favorite";
+var mnemonic = "clerk negative captain punch spirit twelve post empower clown afford spoon trophy";

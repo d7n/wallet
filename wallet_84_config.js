@@ -1,1 +1,1 @@
-var mnemonic = "juice brown feature add solution sting laugh start winner region cradle tail";
+var mnemonic = "sun butter scissors aunt bulk remove upset enjoy hunt satisfy knock grocery";
