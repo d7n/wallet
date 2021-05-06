@@ -1,1 +1,1 @@
-var mnemonic = "accident brain gesture nasty about cloth diet leg tornado recipe hospital upper";
+var mnemonic = "boat jeans cruise toddler actual swing piece phrase assault have chicken basket";

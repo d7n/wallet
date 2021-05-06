@@ -1,1 +1,1 @@
-var mnemonic = "vocal antenna armed vivid run vital glow vanish scout demise million hard";
+var mnemonic = "limit enjoy volume upon climb adult mixture shoot casino round kite apart";

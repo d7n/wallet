@@ -1,1 +1,1 @@
-var mnemonic = "dumb coconut recipe company fringe axis hold fire diagram still clap despair";
+var mnemonic = "stove pupil actual jar gossip civil twist consider census course lion cliff";

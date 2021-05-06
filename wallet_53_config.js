@@ -1,1 +1,1 @@
-var mnemonic = "winter disagree crane universe economy track enact portion toilet wait oven never";
+var mnemonic = "educate shadow artwork give tail nice arrive future isolate fence veteran craft";

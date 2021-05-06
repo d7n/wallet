@@ -1,1 +1,1 @@
-var mnemonic = "advance leisure labor either cousin flight nest blame like voyage vendor drink";
+var mnemonic = "abandon garlic kingdom label coach figure cause entire eager patch curious open";

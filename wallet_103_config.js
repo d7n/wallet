@@ -1,1 +1,1 @@
-var mnemonic = "busy ancient report acid round february goddess season act above clever strike";
+var mnemonic = "twice civil movie spice mind hole sample nerve say crop mask theory";

@@ -1,1 +1,1 @@
-var mnemonic = "normal mosquito stumble ten lizard range change puppy ordinary miracle settle identify";
+var mnemonic = "paper wise alter empower pond coconut outside device over cereal place maximum";

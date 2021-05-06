@@ -1,1 +1,1 @@
-var mnemonic = "hill city add harsh visit build camera fork smooth reject aerobic picture";
+var mnemonic = "chapter height embrace hero grief marine monster cause measure divert hair citizen";

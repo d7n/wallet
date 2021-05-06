@@ -1,1 +1,1 @@
-var mnemonic = "burst plate soup else atom forget auction insane panda shy vintage horror";
+var mnemonic = "piano rate echo beauty skate arrange stairs thumb actress pluck mule inhale";

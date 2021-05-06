@@ -1,1 +1,1 @@
-var mnemonic = "identify icon column exact future bag manual season alert grid broken miss";
+var mnemonic = "affair ask manual stool rent prepare return pudding position dry road cushion";

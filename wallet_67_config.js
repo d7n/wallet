@@ -1,1 +1,1 @@
-var mnemonic = "small lucky umbrella amazing exclude nice hockey follow rebel chronic occur miss";
+var mnemonic = "attitude road faint place usage carpet desert piece update drum plunge acoustic";

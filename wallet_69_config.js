@@ -1,1 +1,1 @@
-var mnemonic = "topic green exact deer dog pistol reveal carbon gauge feed bunker sweet";
+var mnemonic = "wine odor one alert forum lobster surprise labor sand peanut ozone voyage";

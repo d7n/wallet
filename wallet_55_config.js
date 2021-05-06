@@ -1,1 +1,1 @@
-var mnemonic = "debate armor deputy supply style cigar ghost satisfy direct churn senior between";
+var mnemonic = "cake keep cable effort pill public protect crater produce loop negative fantasy";

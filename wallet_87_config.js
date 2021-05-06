@@ -1,1 +1,1 @@
-var mnemonic = "type inmate reject wrap matrix hybrid never vault february owner lawn auto";
+var mnemonic = "scissors ride badge venue process dignity little stereo ill absurd base lion";

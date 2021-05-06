@@ -1,1 +1,1 @@
-var mnemonic = "sniff twin actual jelly cannon someone spider brown add improve immense jelly";
+var mnemonic = "valve duck annual bridge maze loan exotic stand staff mean grit focus";

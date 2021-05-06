@@ -1,1 +1,1 @@
-var mnemonic = "runway prison promote midnight typical funny question inherit youth ask brown gasp";
+var mnemonic = "peace shed license slow panel blame tide box mule vicious system among";

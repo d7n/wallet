@@ -1,1 +1,1 @@
-var mnemonic = "among priority sleep orbit strong math toe lend elegant vague perfect attend";
+var mnemonic = "cherry globe mobile shop resemble crane target stem repeat army wash bulk";

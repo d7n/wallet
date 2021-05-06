@@ -1,1 +1,1 @@
-var mnemonic = "spice crack hobby make chimney bike genuine fine glory coffee above poet";
+var mnemonic = "knee wing nephew riot empower target bless popular track wet soldier venue";

@@ -1,1 +1,1 @@
-var mnemonic = "duty obtain credit marine fashion like security shield pony badge ask express";
+var mnemonic = "velvet before control edge burger drum quantum inner treat mountain picture lake";

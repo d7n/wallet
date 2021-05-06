@@ -1,1 +1,1 @@
-var mnemonic = "draft adapt indicate useless learn round bracket strong evidence funny crazy option";
+var mnemonic = "august crush rubber wagon join fragile exhaust aerobic expire prosper farm exit";

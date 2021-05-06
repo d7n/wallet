@@ -1,1 +1,1 @@
-var mnemonic = "stable elbow normal two memory hamster mesh pulp mixture dress name injury";
+var mnemonic = "violin cube yellow extra oblige alley until sad assume bottom rigid twist";

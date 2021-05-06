@@ -1,1 +1,1 @@
-var mnemonic = "casual federal cry loan planet pair aware welcome device swim limb recall";
+var mnemonic = "combine flavor duty turn giant error spot devote glad harvest science arrest";

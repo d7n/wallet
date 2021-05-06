@@ -1,1 +1,1 @@
-var mnemonic = "father student ugly mandate knife spice fitness coffee celery fabric recycle skin";
+var mnemonic = "hundred side immune rabbit ivory attitude rather fiction duck aspect depend frozen";

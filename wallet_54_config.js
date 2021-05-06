@@ -1,1 +1,1 @@
-var mnemonic = "spirit typical boil hour marine unknown smart disagree tired stuff word quick";
+var mnemonic = "adapt sibling unaware fatigue vault joy castle fuel carpet labor dinner recycle";

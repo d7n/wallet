@@ -1,1 +1,1 @@
-var mnemonic = "refuse invest rug base scheme group dentist worry leopard twist olympic shine";
+var mnemonic = "hybrid photo earn crawl stamp someone useful fine web sister detail lab";

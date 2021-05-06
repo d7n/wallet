@@ -1,1 +1,1 @@
-var mnemonic = "avocado shed pulp matter uncle grief gossip pull sleep aerobic surge ski";
+var mnemonic = "blur price vibrant clutch pond pave page fold marble awkward history napkin";

@@ -1,1 +1,1 @@
-var mnemonic = "october valve gas rival affair bonus setup victory joke cannon only orphan";
+var mnemonic = "radio winter want acoustic physical tank arctic tuition despair solid jungle final";

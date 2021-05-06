@@ -1,1 +1,1 @@
-var mnemonic = "submit asset dream cancel august carpet donkey front hurt dismiss clever victory";
+var mnemonic = "drum mystery state margin mercy head sad audit screen more model close";

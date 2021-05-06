@@ -1,1 +1,1 @@
-var mnemonic = "mind address melody avoid ice tip truck depend sick tourist junk trim";
+var mnemonic = "begin edge meadow wealth multiply hole topic battle dumb crawl pizza school";

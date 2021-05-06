@@ -1,1 +1,1 @@
-var mnemonic = "feel raw fossil dentist supply bid good wash confirm loop yard adapt";
+var mnemonic = "rally vessel bamboo scheme type arm caught quiz kiwi vanish half void";

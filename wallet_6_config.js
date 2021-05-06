@@ -1,1 +1,1 @@
-var mnemonic = "still toast throw wink fatal unit blind bag grace crash special inmate";
+var mnemonic = "effort length attract cannon music despair feed banner reform evidence begin arm";

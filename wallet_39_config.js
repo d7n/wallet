@@ -1,1 +1,1 @@
-var mnemonic = "release resource enable dinosaur harbor hybrid noodle motor rack weapon please hurdle";
+var mnemonic = "elder umbrella spoon region half holiday deposit flash choice news dawn wash";

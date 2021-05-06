@@ -1,1 +1,1 @@
-var mnemonic = "panic ancient please coconut inhale can sphere company rigid have friend swift";
+var mnemonic = "pelican erase scissors legend culture punch dust usual ladder tomato pumpkin enlist";

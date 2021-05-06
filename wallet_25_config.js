@@ -1,1 +1,1 @@
-var mnemonic = "develop fetch truth obtain ordinary pottery vintage library crack kitten domain lunch";
+var mnemonic = "armor scan dice success correct swear east snack document inspire confirm script";

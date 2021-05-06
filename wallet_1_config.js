@@ -1,1 +1,1 @@
-var mnemonic = "orphan edit old sniff moral track tube paper unique solid more ordinary";
+var mnemonic = "keep buzz glory fossil denial income seat oyster fury blouse battle pilot";

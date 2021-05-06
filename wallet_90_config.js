@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon novel correct nice jump omit hat decorate there attract inner quality";
+var mnemonic = "height secret throw faint cream destroy legal wagon weather naive weird opinion";

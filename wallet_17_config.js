@@ -1,1 +1,1 @@
-var mnemonic = "kiss stove wisdom man final alarm surround target syrup layer stairs solar";
+var mnemonic = "only family over loop mule movie planet excuse joke feature clap season";

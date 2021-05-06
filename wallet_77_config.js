@@ -1,1 +1,1 @@
-var mnemonic = "this valve tiger labor uphold family toe duck solar worry suspect jazz";
+var mnemonic = "gown voyage fire actual give solution answer breeze cherry excuse runway bleak";

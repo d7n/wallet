@@ -1,1 +1,1 @@
-var mnemonic = "mango swift home put rubber piece divert nuclear sunny juice fury width";
+var mnemonic = "black risk athlete decline talk repeat congress over guess filter color lottery";

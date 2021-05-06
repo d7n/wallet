@@ -1,1 +1,1 @@
-var mnemonic = "dad soap reject napkin ozone usage table blouse tape couple hour venue";
+var mnemonic = "nation frog tomorrow cover lobster scorpion muscle board morning treat sort spend";

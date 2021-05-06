@@ -1,1 +1,1 @@
-var mnemonic = "young travel mobile answer cotton panel muffin lawsuit naive lobster gloom area";
+var mnemonic = "teach capital awkward million credit real gravity dress rose adjust april type";

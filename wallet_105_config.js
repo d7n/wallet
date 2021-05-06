@@ -1,1 +1,1 @@
-var mnemonic = "blame uphold flavor oval caught enable sort noble aunt kind mail dawn";
+var mnemonic = "cheese latin crush vital harbor bench gun history west pretty wisdom melody";

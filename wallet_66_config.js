@@ -1,1 +1,1 @@
-var mnemonic = "slow badge deny grass moral setup first until spin orphan bundle attack";
+var mnemonic = "beyond spell aerobic puppy upper glance observe neither ski table soft bring";

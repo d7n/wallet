@@ -1,1 +1,1 @@
-var mnemonic = "discover alien limb buyer noble exotic away puzzle trash burden kick quit";
+var mnemonic = "grow wrap degree eye silly assist screen search spell picnic mask ancient";

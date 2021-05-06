@@ -1,1 +1,1 @@
-var mnemonic = "tomato just harvest opinion express amazing beach edge below decline involve quantum";
+var mnemonic = "crystal pilot marine attack wine garage imitate tail thrive chimney clarify grace";

@@ -1,1 +1,1 @@
-var mnemonic = "have laundry letter false surface enable identify jungle fringe business strike follow";
+var mnemonic = "much shiver popular faculty raw verb rural clump whale opera web because";

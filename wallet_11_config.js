@@ -1,1 +1,1 @@
-var mnemonic = "rough quiz board fish bubble evidence genuine minute extend discover cotton feature";
+var mnemonic = "educate unaware donor brisk focus arctic maple lucky nephew educate light spice";

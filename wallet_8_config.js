@@ -1,1 +1,1 @@
-var mnemonic = "canyon reveal base salute bright enable pear chimney body scissors flight axis";
+var mnemonic = "promote glove airport year exact fee cradle local table label board vibrant";

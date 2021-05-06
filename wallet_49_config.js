@@ -1,1 +1,1 @@
-var mnemonic = "fashion until harvest buzz yard frozen rice wreck segment slush head nuclear";
+var mnemonic = "skill fan area brother volcano basic eye giraffe door already hockey piece";

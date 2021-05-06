@@ -1,1 +1,1 @@
-var mnemonic = "ceiling simple all discover rubber domain sadness heavy rain suspect village jaguar";
+var mnemonic = "winter eye decrease bulk flush behind print cake review floor youth tool";

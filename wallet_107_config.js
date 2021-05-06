@@ -1,1 +1,1 @@
-var mnemonic = "liar smile pond wasp arrange initial radio gather girl mention consider pipe";
+var mnemonic = "exhibit federal six shield paddle kit misery vehicle stable aunt purity inspire";

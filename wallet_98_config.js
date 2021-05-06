@@ -1,1 +1,1 @@
-var mnemonic = "impulse target panda eight digital find extra gloom round solve fork couch";
+var mnemonic = "employ skill tide because horse accident spatial elbow lawn match finger parade";

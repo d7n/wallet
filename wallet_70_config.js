@@ -1,1 +1,1 @@
-var mnemonic = "execute crime safe toe kiss carry grit silk magic leaf moment renew";
+var mnemonic = "invite crucial measure arrange spider absorb screen tent myth refuse sing faint";

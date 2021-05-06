@@ -1,1 +1,1 @@
-var mnemonic = "nature upset antenna hour improve glove edge innocent broccoli stick maximum adapt";
+var mnemonic = "pull where ancient pull move join review wall day ecology abandon figure";

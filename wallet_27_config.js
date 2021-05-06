@@ -1,1 +1,1 @@
-var mnemonic = "sail caught avocado become bench noise skirt logic head observe problem depart";
+var mnemonic = "jeans token student stool lobster recipe fly blossom whisper patch dress gather";

@@ -1,1 +1,1 @@
-var mnemonic = "insane holiday enable pelican upset timber inspire version caution spider tone guide";
+var mnemonic = "disorder put pear fatigue damage bacon apple morning flower height eye stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "ill combine since wear girl fever hybrid bird local actual cute tribe";
+var mnemonic = "farm genius scorpion blush gaze shallow afford kangaroo blind scrub boring maximum";

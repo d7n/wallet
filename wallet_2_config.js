@@ -1,1 +1,1 @@
-var mnemonic = "shop range mutual stuff army visual unfold across hundred maze decide frost";
+var mnemonic = "sea find act fee matrix gesture fish shield diesel horn water label";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo turtle afraid term cotton deer void wreck toe upon comic scorpion";
+var mnemonic = "length area tree success spread imitate north ten emerge embody pioneer kingdom";

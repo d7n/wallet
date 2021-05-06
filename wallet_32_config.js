@@ -1,1 +1,1 @@
-var mnemonic = "around coast payment monster usage tragic visit acid verify country evil now";
+var mnemonic = "review joy mesh life tumble blue door quiz vibrant analyst praise order";

@@ -1,1 +1,1 @@
-var mnemonic = "husband filter aunt doctor actual hybrid wage juice unknown dragon shy fever";
+var mnemonic = "embark nasty hello ecology edit vacuum blanket physical evil empower fever stove";

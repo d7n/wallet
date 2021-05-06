@@ -1,1 +1,1 @@
-var mnemonic = "prize pink fuel butter leave blood coffee collect bonus web fold ring";
+var mnemonic = "donkey chronic cabbage appear young argue tourist ahead reduce garbage silent between";

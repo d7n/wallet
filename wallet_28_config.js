@@ -1,1 +1,1 @@
-var mnemonic = "ranch fit excite wood bacon table admit stool follow infant disagree note";
+var mnemonic = "hollow enlist laundry wise quick gown hammer virus exhaust ordinary find piece";

@@ -1,1 +1,1 @@
-var mnemonic = "shoe rate open runway elbow pistol payment convince glad flash cycle sleep";
+var mnemonic = "right wedding lemon embrace scout mixture loyal yard race merry chase sign";

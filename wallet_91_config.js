@@ -1,1 +1,1 @@
-var mnemonic = "image jar fetch amateur remove envelope old betray ring flag visa tribe";
+var mnemonic = "bracket borrow sadness cloth lava balcony news exit noise trouble buffalo peasant";

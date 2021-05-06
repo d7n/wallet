@@ -1,1 +1,1 @@
-var mnemonic = "hamster exit sponsor air provide average disagree emotion honey unable flavor blade";
+var mnemonic = "educate hockey empty cup world unhappy stock artefact inflict blue ladder patrol";

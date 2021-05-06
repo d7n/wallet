@@ -1,1 +1,1 @@
-var mnemonic = "hub grow witness spray rhythm giant range hundred noble firm use toward";
+var mnemonic = "right trouble sleep ready wrong anger modify wrong spoon lizard monster appear";

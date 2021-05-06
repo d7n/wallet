@@ -1,1 +1,1 @@
-var mnemonic = "egg melt lens hood total ski fun brick car transfer mad giggle";
+var mnemonic = "wrist ability erosion disorder buyer barely zebra gesture ketchup annual economy gadget";

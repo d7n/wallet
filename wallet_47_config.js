@@ -1,1 +1,1 @@
-var mnemonic = "soda strike end train brown usual magic cement pool edit clog ordinary";
+var mnemonic = "develop disagree refuse edge gasp frost ability diagram ranch occur flash robot";

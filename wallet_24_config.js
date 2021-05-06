@@ -1,1 +1,1 @@
-var mnemonic = "praise harsh liquid bean upgrade desk match echo puzzle cheap gaze unfair";
+var mnemonic = "rival small draw beef secret embrace seat skirt scare weekend devote gap";

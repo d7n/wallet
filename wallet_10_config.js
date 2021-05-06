@@ -1,1 +1,1 @@
-var mnemonic = "intact cage obscure yellow gain symptom siege help warrior inhale drink trophy";
+var mnemonic = "guard display destroy pretty expect engage very outdoor orchard garment repair child";

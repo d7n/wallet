@@ -1,1 +1,1 @@
-var mnemonic = "camp fault bamboo urge target visual state cage awkward fall spice afraid";
+var mnemonic = "advance illegal into debris tail dirt cereal field gate age spot all";

@@ -1,1 +1,1 @@
-var mnemonic = "sketch voice tomato busy hen essence clerk mosquito glow armed lawn pair";
+var mnemonic = "dirt busy vital stick stamp luggage wage tuna world cherry cart rural";

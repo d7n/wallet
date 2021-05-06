@@ -1,1 +1,1 @@
-var mnemonic = "same luxury use oil ten area fly wave conduct left glove click";
+var mnemonic = "soul mystery dutch special amount neither future stereo plunge wonder palace actress";

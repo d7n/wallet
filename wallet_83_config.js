@@ -1,1 +1,1 @@
-var mnemonic = "involve extra unhappy mixed witness loud monitor file gorilla iron lend sustain";
+var mnemonic = "shoot net pair liar motor advance guard coral never illness merry void";

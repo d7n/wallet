@@ -1,1 +1,1 @@
-var mnemonic = "grid strong topple almost other vanish bronze hero category hand square crash";
+var mnemonic = "tip myself taxi earn paddle exile check hip favorite wife source hybrid";

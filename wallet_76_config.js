@@ -1,1 +1,1 @@
-var mnemonic = "defy share ribbon cave pulp nasty equal crystal used pond focus share";
+var mnemonic = "beyond unusual increase stuff immense staff castle dish height elevator rifle fringe";

@@ -1,1 +1,1 @@
-var mnemonic = "drink loop evidence pig armor bleak column like salad drastic wife spot";
+var mnemonic = "barrel excite empty second announce cattle cushion kingdom kangaroo comic dumb winter";

@@ -1,1 +1,1 @@
-var mnemonic = "render stool ramp laptop pen boat wreck simple relief cancel submit glare";
+var mnemonic = "curious essence cattle autumn cause now pepper noble garment draw hello front";

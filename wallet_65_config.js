@@ -1,1 +1,1 @@
-var mnemonic = "voice oval abandon employ dose glide aspect this hundred live cigar joy";
+var mnemonic = "over response link matrix axis shock ready object tank loud world few";

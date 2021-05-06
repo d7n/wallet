@@ -1,1 +1,1 @@
-var mnemonic = "belt select group journey action scrap language twenty afraid sick settle surge";
+var mnemonic = "color celery point donate split bulk design pet fiction coin deputy urban";

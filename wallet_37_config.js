@@ -1,1 +1,1 @@
-var mnemonic = "glove away filter digital add curious atom winner virtual bleak snack middle";
+var mnemonic = "giggle okay cute scout million capital stadium zebra milk narrow scheme since";

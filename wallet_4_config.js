@@ -1,1 +1,1 @@
-var mnemonic = "oak stone figure finger egg ethics emotion hollow jelly voyage obtain person";
+var mnemonic = "coast great boy member private debate wrist disease laptop vintage love athlete";

@@ -1,1 +1,1 @@
-var mnemonic = "best picnic fiscal despair legend devote mistake nature glass tower actress dentist";
+var mnemonic = "inspire horse twin risk neck pottery radio pact cruel wisdom satisfy liberty";

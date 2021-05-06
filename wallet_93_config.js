@@ -1,1 +1,1 @@
-var mnemonic = "atom lemon system inform swing project excuse inmate private silly trouble route";
+var mnemonic = "icon ivory baby cricket garbage else lady ice artwork dizzy student robust";

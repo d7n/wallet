@@ -1,1 +1,1 @@
-var mnemonic = "surround such country peace kidney secret uncle miracle risk scout judge account";
+var mnemonic = "pistol property cabin couch fire warm help length remain bullet slogan field";

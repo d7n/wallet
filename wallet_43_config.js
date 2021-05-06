@@ -1,1 +1,1 @@
-var mnemonic = "near man open unfold credit coin north replace puzzle ten luxury lawsuit";
+var mnemonic = "alter achieve act fabric drive crash soup motion twenty spice wasp marriage";

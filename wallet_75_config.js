@@ -1,1 +1,1 @@
-var mnemonic = "toast adapt little endless program fiction subway soap ensure similar gadget wife";
+var mnemonic = "blind ecology winner wife beef phone use tourist pencil furnace rifle there";

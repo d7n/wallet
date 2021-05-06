@@ -1,1 +1,1 @@
-var mnemonic = "forest soul wood evoke job rug arm horn mimic jewel turtle emotion";
+var mnemonic = "always define agent never barely puppy tag park victory doll oval unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "horse above enable address wedding enough slam hockey loud prepare engine home";
+var mnemonic = "denial matrix frozen cave afford reflect figure second transfer super brain orange";

@@ -1,1 +1,1 @@
-var mnemonic = "logic pony portion engage final magnet height pen bubble cruel soda benefit";
+var mnemonic = "coffee child tooth flame crane wagon address farm giant rely forum bread";
