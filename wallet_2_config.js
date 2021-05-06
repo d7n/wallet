@@ -1,1 +1,1 @@
-var mnemonic = "park dwarf code result chapter turn girl hospital size negative gauge erase";
+var mnemonic = "pink admit kit wall level security cabin marriage claw bomb swarm bag";

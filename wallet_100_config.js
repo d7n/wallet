@@ -1,1 +1,1 @@
-var mnemonic = "poverty idea avocado funny basic twist trigger wink list dentist typical quality";
+var mnemonic = "fit owner taxi farm tail advance sand tool produce escape evidence alpha";

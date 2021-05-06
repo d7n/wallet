@@ -1,1 +1,1 @@
-var mnemonic = "write neglect please camera palm time nature remind quick bird enough lunar";
+var mnemonic = "situate drink amazing bamboo license start girl dynamic dinosaur multiply favorite sort";

@@ -1,1 +1,1 @@
-var mnemonic = "sand evolve foil entire elevator denial plastic elder primary sheriff oyster cycle";
+var mnemonic = "fame pet fox decide song orchard noodle tell check museum frown recycle";

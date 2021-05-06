@@ -1,1 +1,1 @@
-var mnemonic = "cage impose coral resemble void brave pattern treat fine ritual sister parent";
+var mnemonic = "lottery dad board equal depend sad blood host phone prize vacuum dignity";

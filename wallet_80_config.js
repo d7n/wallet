@@ -1,1 +1,1 @@
-var mnemonic = "lizard tattoo delay chunk possible guard conduct rough nature impose noise crack";
+var mnemonic = "real notice engine blanket potato excess fence abstract labor armor excess scorpion";

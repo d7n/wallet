@@ -1,1 +1,1 @@
-var mnemonic = "major twelve game merit emotion agent amount describe pupil track tomorrow impact";
+var mnemonic = "rent flash mesh fun unfold market wash normal pair taxi inject large";

@@ -1,1 +1,1 @@
-var mnemonic = "moral leaf club barrel van again shell auction fabric fashion thank leave";
+var mnemonic = "outside lake gravity legend crack step boy pool kick shaft jungle borrow";

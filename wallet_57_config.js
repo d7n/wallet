@@ -1,1 +1,1 @@
-var mnemonic = "convince eagle helmet diagram vast inspire kitten heavy rude wide butter warrior";
+var mnemonic = "dumb girl clap fork bottom solar moral soldier tree razor drink document";

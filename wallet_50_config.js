@@ -1,1 +1,1 @@
-var mnemonic = "blast cargo safe million violin torch viable eye garden shop oil anger";
+var mnemonic = "birth useless obtain swallow upon dilemma nice despair avoid meat face lamp";

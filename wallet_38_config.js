@@ -1,1 +1,1 @@
-var mnemonic = "arch various accident dune nephew veteran load certain dish click recycle gallery";
+var mnemonic = "afraid volcano stem analyst asthma curious boat shuffle photo joke tribe eager";

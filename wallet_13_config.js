@@ -1,1 +1,1 @@
-var mnemonic = "method useless tube embark brass wife limb steak mouse brother price choice";
+var mnemonic = "search daring perfect reward method renew cheap pig air very awake guilt";

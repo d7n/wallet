@@ -1,1 +1,1 @@
-var mnemonic = "betray wrist oven nest sibling surprise awful ocean upset display chef universe";
+var mnemonic = "bread valve write leader tongue tumble journey shoulder busy question neutral run";

@@ -1,1 +1,1 @@
-var mnemonic = "age syrup call famous milk exercise neck goat snap luxury evoke season";
+var mnemonic = "any couple vintage weather shrug beef inject vicious peace vocal lottery adjust";

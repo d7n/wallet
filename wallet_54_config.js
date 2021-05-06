@@ -1,1 +1,1 @@
-var mnemonic = "paper island audit garbage custom taste unlock list gun song cage blast";
+var mnemonic = "impulse mixture secret hobby eye second pudding final bamboo transfer broccoli armor";

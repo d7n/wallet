@@ -1,1 +1,1 @@
-var mnemonic = "drastic bulb crew young punch minor render opera hand twice salon half";
+var mnemonic = "car scrap sunny wedding repeat anxiety family dilemma zebra cheese local rebel";

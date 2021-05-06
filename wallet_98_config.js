@@ -1,1 +1,1 @@
-var mnemonic = "kidney across net destroy negative track naive minimum arrow security manual alarm";
+var mnemonic = "coast pave ahead island soul devote bulk cabbage public capable easy behave";

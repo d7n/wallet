@@ -1,1 +1,1 @@
-var mnemonic = "oblige elder kid urban junior vessel clay region garage because script alpha";
+var mnemonic = "regret cat monkey awake shiver vendor alcohol vocal sniff fancy detect purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "glory net gravity armed drill throw clock mistake accuse receive piece green";
+var mnemonic = "brick usual program town casual daring cabin snake rocket evolve obscure minute";

@@ -1,1 +1,1 @@
-var mnemonic = "record grunt baby quick major master hidden swarm green scale minor foot";
+var mnemonic = "switch palm jar dragon never prize define half human elephant cart plate";

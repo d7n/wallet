@@ -1,1 +1,1 @@
-var mnemonic = "pelican little mom spirit slight turtle hungry history hood drama replace magnet";
+var mnemonic = "mouse bulb cancel among avocado peasant boil angle churn bench traffic into";

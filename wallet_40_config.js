@@ -1,1 +1,1 @@
-var mnemonic = "voyage raise comic world side more purchase rigid follow equal open tank";
+var mnemonic = "rate glide mail donate fit pyramid goat margin essence whale festival cruise";

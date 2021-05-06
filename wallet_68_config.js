@@ -1,1 +1,1 @@
-var mnemonic = "hour either scrub inner goose enjoy essay afraid special champion nature child";
+var mnemonic = "jealous round auto security topple zebra stone spider bargain decline exit suffer";

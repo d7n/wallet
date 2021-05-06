@@ -1,1 +1,1 @@
-var mnemonic = "paddle behind chase cause profit weekend box borrow mandate dry orange twenty";
+var mnemonic = "tilt shoot medal hurry able escape scrub drive ticket calm actor hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "scan wave achieve army ethics plunge clog gas horse tiny flock father";
+var mnemonic = "during soccer bulk helmet portion bridge foot solution idea cover van office";

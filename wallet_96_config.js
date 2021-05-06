@@ -1,1 +1,1 @@
-var mnemonic = "run answer below burger industry crane police hover ask orchard cherry view";
+var mnemonic = "buzz radar office easy equal invest scene fork feature good review allow";

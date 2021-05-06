@@ -1,1 +1,1 @@
-var mnemonic = "essence tone melt build boat crucial creek best deal journey vintage citizen";
+var mnemonic = "purse vicious cruise tragic end middle dress shy slice viable artist canoe";

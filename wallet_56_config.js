@@ -1,1 +1,1 @@
-var mnemonic = "dinner dust girl tonight clutch decrease below fury intact rare chimney dress";
+var mnemonic = "able eye depend illness code ordinary regret ordinary supreme popular depth labor";

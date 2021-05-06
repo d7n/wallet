@@ -1,1 +1,1 @@
-var mnemonic = "trophy glad box result mammal inner lunch ski blouse foster unusual armor";
+var mnemonic = "depart muscle glide bring junior play sample aisle divide canoe song finger";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic actual few reunion genuine issue steel boss entry sunset nest junk";
+var mnemonic = "reflect energy poverty neutral notable dune major promote furnace practice problem private";

@@ -1,1 +1,1 @@
-var mnemonic = "cook track neutral cram control winner penalty fat garlic address globe zone";
+var mnemonic = "essay this decade step blur head convince sleep traffic dog regret double";

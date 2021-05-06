@@ -1,1 +1,1 @@
-var mnemonic = "true occur spatial echo barely dance music spy sustain thumb submit happy";
+var mnemonic = "jeans orange symptom evil physical spider nice thunder tell umbrella shaft target";

@@ -1,1 +1,1 @@
-var mnemonic = "own brother reason rigid toddler crunch goose fever until pistol lucky snap";
+var mnemonic = "pond citizen chunk base turn cactus frozen ankle fiscal theme donkey lonely";

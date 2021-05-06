@@ -1,1 +1,1 @@
-var mnemonic = "subway alter version silk crater frame penalty sunny extend use pool dog";
+var mnemonic = "horse leaf audit first win minor choice friend rather vivid one planet";

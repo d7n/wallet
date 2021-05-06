@@ -1,1 +1,1 @@
-var mnemonic = "spend sorry guard cannon inquiry flush anchor elevator pride faint genre subway";
+var mnemonic = "naive enlist keen fan other treat staff just era open stairs universe";

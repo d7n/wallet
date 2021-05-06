@@ -1,1 +1,1 @@
-var mnemonic = "carry ill crush axis review debris learn laundry soul pass never flame";
+var mnemonic = "assume depart charge silver old juice option idle evolve income cook kiwi";

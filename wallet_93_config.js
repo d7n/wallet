@@ -1,1 +1,1 @@
-var mnemonic = "battle soul frozen dumb stool estate clap success expect miss marine hover";
+var mnemonic = "torch axis myth time stairs few awful double category amount steak speak";

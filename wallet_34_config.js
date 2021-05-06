@@ -1,1 +1,1 @@
-var mnemonic = "laugh suit script pen busy style deny place cabbage tip fashion include";
+var mnemonic = "great help limit what army grab patch liquid thank infant canyon flower";

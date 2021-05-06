@@ -1,1 +1,1 @@
-var mnemonic = "alert broken material paddle before awful learn sadness hedgehog thumb basic upgrade";
+var mnemonic = "execute essay resist panda trick sibling casino reveal tissue daring about kangaroo";

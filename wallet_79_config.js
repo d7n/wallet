@@ -1,1 +1,1 @@
-var mnemonic = "sentence miracle among head virus apology lonely tunnel sample wealth one blossom";
+var mnemonic = "front unknown enforce flower adapt pass monitor bus special hidden accident truth";

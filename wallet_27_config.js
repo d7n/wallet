@@ -1,1 +1,1 @@
-var mnemonic = "stage hip cereal reform spatial fork mistake cry wheat foster attend romance";
+var mnemonic = "coin vintage brand gain rapid rural demand intact caution vibrant pond foster";

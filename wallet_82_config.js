@@ -1,1 +1,1 @@
-var mnemonic = "liar social oblige stem twist pause banana winter make taste danger month";
+var mnemonic = "excite detect hurt exact gift conduct frame surface normal inner memory try";

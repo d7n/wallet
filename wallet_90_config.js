@@ -1,1 +1,1 @@
-var mnemonic = "income expand quote same chimney museum knee mesh toilet awake stock large";
+var mnemonic = "laundry tissue timber column equip usage swing seed sentence human source grit";

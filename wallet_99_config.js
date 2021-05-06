@@ -1,1 +1,1 @@
-var mnemonic = "ticket void pizza winner unit clerk night moment milk item assist weasel";
+var mnemonic = "expand must primary aerobic suggest shove space person total tongue silver ready";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual trade focus library planet oxygen about scorpion couple impact hello cave";
+var mnemonic = "twelve jaguar spike horn cash sunny hard surface spare knife romance robot";

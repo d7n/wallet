@@ -1,1 +1,1 @@
-var mnemonic = "click network hundred grunt task champion job volume mixed offer twist have";
+var mnemonic = "flavor funny beyond omit suit narrow disagree solid inspire scissors liquid someone";

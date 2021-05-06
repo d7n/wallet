@@ -1,1 +1,1 @@
-var mnemonic = "jacket swift jar airport sword useful kit equal dance exile garage manual";
+var mnemonic = "autumn pig curious small develop world clarify wife bicycle ticket faculty monkey";

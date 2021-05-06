@@ -1,1 +1,1 @@
-var mnemonic = "wagon capital giraffe margin like drop boost crop destroy island sausage scout";
+var mnemonic = "room craft peanut car split ocean case wonder slogan parade canoe word";

@@ -1,1 +1,1 @@
-var mnemonic = "evil want benefit harbor detail spider skate tattoo veteran awful unique mixture";
+var mnemonic = "firm apology differ firm member snow buyer dash ladder carry protect conduct";

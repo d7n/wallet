@@ -1,1 +1,1 @@
-var mnemonic = "relax fabric cave fetch degree nature olive target present banana chapter casual";
+var mnemonic = "enrich among arm conduct ask drive quick hockey often solution helmet leader";

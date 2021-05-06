@@ -1,1 +1,1 @@
-var mnemonic = "deal morning original ladder fan ill boring biology venture group blanket winter";
+var mnemonic = "harsh decade cage wave laptop echo marble phone mimic cricket kiwi sun";

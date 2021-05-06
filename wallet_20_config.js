@@ -1,1 +1,1 @@
-var mnemonic = "middle guide other doll library feel train matter trap around grocery tattoo";
+var mnemonic = "middle space hedgehog journey close possible spider mechanic strong winter satoshi gallery";

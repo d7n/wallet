@@ -1,1 +1,1 @@
-var mnemonic = "caution leopard pull wine consider tag piece describe sound ensure hour gorilla";
+var mnemonic = "woman knock dutch long transfer unfair rail exist oak enact start window";

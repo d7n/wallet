@@ -1,1 +1,1 @@
-var mnemonic = "neck victory unlock fury busy tone panda cry daring author early harbor";
+var mnemonic = "ignore forest prosper noodle casual various fish find supply bright price cave";

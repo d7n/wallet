@@ -1,1 +1,1 @@
-var mnemonic = "sample tenant surface kingdom seek fit mask already gift kind twist kangaroo";
+var mnemonic = "bid tornado tank double guard jazz cause special collect soldier business wise";

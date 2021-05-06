@@ -1,1 +1,1 @@
-var mnemonic = "plastic aim economy drama collect mom argue maple soccer narrow boss fuel";
+var mnemonic = "term summer world moon surprise section race gown glow ostrich danger clump";

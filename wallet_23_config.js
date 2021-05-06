@@ -1,1 +1,1 @@
-var mnemonic = "any panic reflect height letter project image physical tree curve vapor grit";
+var mnemonic = "ceiling brother library tornado festival actor midnight drastic swift damage other erase";

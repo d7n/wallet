@@ -1,1 +1,1 @@
-var mnemonic = "inhale angle shy much relax drastic myth sight garbage list hybrid regret";
+var mnemonic = "claim also isolate excuse crack where record beach mouse able timber embrace";

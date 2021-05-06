@@ -1,1 +1,1 @@
-var mnemonic = "air actual conduct wise capital all car horror hospital eyebrow frown monster";
+var mnemonic = "expect effort diagram swamp cram also champion any grace armed slam hero";

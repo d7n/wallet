@@ -1,1 +1,1 @@
-var mnemonic = "huge garden maid certain autumn suspect marriage auction among wing talent ranch";
+var mnemonic = "include accuse blush render embody pupil harvest february switch stadium input way";

@@ -1,1 +1,1 @@
-var mnemonic = "afford universe voice column zoo rocket issue link bamboo dignity whip ready";
+var mnemonic = "always giant poet royal purpose candy letter piece never october fat dinner";

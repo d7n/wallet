@@ -1,1 +1,1 @@
-var mnemonic = "wisdom science alter ozone together open web leader ozone ensure aerobic sick";
+var mnemonic = "mixture attitude flavor venture fantasy dinosaur detail task double split gun object";

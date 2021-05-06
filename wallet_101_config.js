@@ -1,1 +1,1 @@
-var mnemonic = "scan diary gaze crime best basic baby tree chapter best length traffic";
+var mnemonic = "spot sense salmon fever seat mirror unaware crush erosion hotel upon chimney";

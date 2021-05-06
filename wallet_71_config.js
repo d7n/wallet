@@ -1,1 +1,1 @@
-var mnemonic = "leader lunar peanut uncle dawn together pretty world leader speak tennis creek";
+var mnemonic = "tent special blouse crucial cream trend dinosaur clean rely trouble cheese toilet";

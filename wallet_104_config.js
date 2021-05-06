@@ -1,1 +1,1 @@
-var mnemonic = "horn runway total diagram skin comic flat girl endless solar faith gas";
+var mnemonic = "sound couple exact wall night polar expose slot fantasy angry moon globe";

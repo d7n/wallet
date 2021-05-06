@@ -1,1 +1,1 @@
-var mnemonic = "screen task salad teach dog home else debris fit pole place debris";
+var mnemonic = "atom sphere myth venue senior north name panic leader laptop hamster account";

@@ -1,1 +1,1 @@
-var mnemonic = "super goddess junk success elegant flash under uniform diet vote poet matrix";
+var mnemonic = "suffer defense busy deal top have aunt modify hour gauge warm safe";

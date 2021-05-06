@@ -1,1 +1,1 @@
-var mnemonic = "reason october fancy pluck army frame collect change rude glad deputy busy";
+var mnemonic = "between match other adult jeans phone wasp valve effort civil garlic excess";

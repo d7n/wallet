@@ -1,1 +1,1 @@
-var mnemonic = "lemon road level okay bar endorse coral twist excite unable adjust desert";
+var mnemonic = "uphold title margin universe rural sort job desert call cash provide mansion";

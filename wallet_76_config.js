@@ -1,1 +1,1 @@
-var mnemonic = "father acoustic juice security blur lake index proud fashion estate media awake";
+var mnemonic = "nasty leopard never job eagle region height arch quality grid cash slice";

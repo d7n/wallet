@@ -1,1 +1,1 @@
-var mnemonic = "elbow tool strong knee rice great pudding clarify annual kick fold alley";
+var mnemonic = "huge weather either toddler other solve immune scheme dizzy wait defy clap";

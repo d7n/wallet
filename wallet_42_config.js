@@ -1,1 +1,1 @@
-var mnemonic = "omit diagram peanut plug nerve when market swamp chef open velvet harbor";
+var mnemonic = "blush wise luxury ski fancy pony action burger plug robust promote nasty";

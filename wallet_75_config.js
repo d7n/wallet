@@ -1,1 +1,1 @@
-var mnemonic = "manual budget also profit assist cream robust diamond obvious capital strike make";
+var mnemonic = "alcohol gospel drill holiday brother print wink stem stand punch ordinary alpha";

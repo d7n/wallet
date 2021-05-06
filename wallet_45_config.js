@@ -1,1 +1,1 @@
-var mnemonic = "shallow announce dress warm once brother raise kick impose require better bronze";
+var mnemonic = "bullet rent crunch lift hobby dog coffee arrow design exhibit night slow";

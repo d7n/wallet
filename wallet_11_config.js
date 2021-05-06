@@ -1,1 +1,1 @@
-var mnemonic = "slush easily weasel involve favorite input amused actress correct sick ecology water";
+var mnemonic = "awkward plunge protect maid board sad pulse fragile garment gadget glow jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "green grid pretty genius tuition industry mechanic venture swarm catch erase wife";
+var mnemonic = "cigar trigger fiscal surge flock excite culture maple frozen barely pool alter";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil dismiss flight chef else illness weekend route satisfy critic airport robot";
+var mnemonic = "pitch save sentence enrich alien screen moral drill envelope earn short typical";

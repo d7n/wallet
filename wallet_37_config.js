@@ -1,1 +1,1 @@
-var mnemonic = "benefit agent anchor bitter senior wrap rail step trust blur coast breeze";
+var mnemonic = "situate figure gallery scatter rather depth art vehicle nature math glow piano";

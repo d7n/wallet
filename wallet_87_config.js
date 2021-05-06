@@ -1,1 +1,1 @@
-var mnemonic = "release people smooth move moment together fall inflict post grain coast smoke";
+var mnemonic = "because phone skate warm skirt feel dinosaur stay vendor found speed room";

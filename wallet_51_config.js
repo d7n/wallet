@@ -1,1 +1,1 @@
-var mnemonic = "script swear design example immense divide invest flip mushroom idea exhibit cloth";
+var mnemonic = "weekend clerk frozen knee scatter minor deposit figure final program crack clever";

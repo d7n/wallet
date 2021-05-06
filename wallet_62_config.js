@@ -1,1 +1,1 @@
-var mnemonic = "expect whale trash canyon motor alert shell jeans diamond chest safe tip";
+var mnemonic = "rely brave imitate program pet license sudden hospital achieve top much exit";

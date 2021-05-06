@@ -1,1 +1,1 @@
-var mnemonic = "index tube myself install base stem student census actual armor position deny";
+var mnemonic = "oval napkin unknown hazard slush robot pistol sock gather fly exotic toss";

@@ -1,1 +1,1 @@
-var mnemonic = "pluck glory slam river pill chunk glass forum casino firm deposit alpha";
+var mnemonic = "space when nose program buddy library discover slender okay vendor captain tilt";

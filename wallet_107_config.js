@@ -1,1 +1,1 @@
-var mnemonic = "mutual scene gorilla present heavy artwork electric switch please fatigue tennis battle";
+var mnemonic = "remind globe double doll segment vanish hold saddle half cat current museum";

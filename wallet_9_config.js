@@ -1,1 +1,1 @@
-var mnemonic = "supply obey useless usage must cousin load boss bone slam bacon match";
+var mnemonic = "fine drip decorate badge load whale margin layer runway layer volcano beef";

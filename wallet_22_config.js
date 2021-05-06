@@ -1,1 +1,1 @@
-var mnemonic = "robot monkey radar apology country web cage charge loan coast effort pact";
+var mnemonic = "jacket insane dutch humble leopard adapt nerve glide armor horror spatial panel";

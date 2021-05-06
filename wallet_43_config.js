@@ -1,1 +1,1 @@
-var mnemonic = "minor assault enough elder month quick daughter finish state perfect lazy avoid";
+var mnemonic = "skate outdoor weasel damp traffic twenty gas select coral ramp salute smile";

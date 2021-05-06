@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit faculty broken lounge erosion bargain carpet load napkin story humble around";
+var mnemonic = "night best trick village eyebrow silly define action protect tuna cycle submit";

@@ -1,1 +1,1 @@
-var mnemonic = "slam dumb cool afford trick exhibit december swift emotion melody polar wrestle";
+var mnemonic = "march vacant spy helmet rate day session consider smooth brief hidden curve";

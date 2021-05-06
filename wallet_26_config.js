@@ -1,1 +1,1 @@
-var mnemonic = "upgrade gate garlic half wing phone rate success damage exist come boost";
+var mnemonic = "hidden forum six poet truck course velvet result amused announce anchor side";
