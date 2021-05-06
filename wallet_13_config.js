@@ -1,1 +1,1 @@
-var mnemonic = "tackle maximum airport degree word crouch price arm vanish vote benefit odor";
+var mnemonic = "sick ribbon lunar rug mirror rude adjust cluster add very spring enroll";

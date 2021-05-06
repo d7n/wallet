@@ -1,1 +1,1 @@
-var mnemonic = "innocent family sister series fish nature adjust high input actress scheme oval";
+var mnemonic = "that broccoli yard essence very obtain grid dynamic twice gesture artist media";

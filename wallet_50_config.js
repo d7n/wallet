@@ -1,1 +1,1 @@
-var mnemonic = "water nephew else fish slogan burger wisdom age property victory route castle";
+var mnemonic = "fossil garlic elder vibrant drill couch toy buddy beyond hockey bronze combine";

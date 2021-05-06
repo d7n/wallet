@@ -1,1 +1,1 @@
-var mnemonic = "dog ethics nose blush useless skull erode dove refuse wish fork board";
+var mnemonic = "label stumble garment icon chat scare flower toward lunar velvet dose food";

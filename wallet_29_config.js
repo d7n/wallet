@@ -1,1 +1,1 @@
-var mnemonic = "surge sword shoulder toddler useful palace obvious fluid law special phone slot";
+var mnemonic = "unit valid jelly reject master dress report climb vote venue occur anxiety";

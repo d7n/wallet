@@ -1,1 +1,1 @@
-var mnemonic = "rule peace meat leg shell infant onion shove night rabbit yard license";
+var mnemonic = "evoke shield maple wink notable scrap column pause assist quantum bullet wear";

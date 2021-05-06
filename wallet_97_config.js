@@ -1,1 +1,1 @@
-var mnemonic = "upgrade gaze figure derive lecture menu dolphin suggest school wave gauge tenant";
+var mnemonic = "degree solar robust negative auto repeat project couple vital verify raw wife";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel unknown orbit find nasty grace equal brass aunt card fish tired";
+var mnemonic = "crumble one walnut between observe early alone peanut license book open chat";

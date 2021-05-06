@@ -1,1 +1,1 @@
-var mnemonic = "boat brush cruel grace warm curtain result chronic world cage angry luxury";
+var mnemonic = "sick space volcano enlist nose upset jazz midnight level test pool symptom";

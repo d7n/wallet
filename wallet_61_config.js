@@ -1,1 +1,1 @@
-var mnemonic = "together tattoo stay exit rice dog table relief finish start eye sausage";
+var mnemonic = "soul vacuum upset town hobby adult couple illness odor song vicious nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise coin raw odor hockey kite obscure joke split rhythm grain gauge";
+var mnemonic = "moon sugar bleak nephew almost salute detail appear apology domain goat spin";

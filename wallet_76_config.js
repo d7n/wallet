@@ -1,1 +1,1 @@
-var mnemonic = "beauty pond script reform bunker arrow long twin peasant giant engage nut";
+var mnemonic = "express cargo banner verb write script junior ask inject bless try program";

@@ -1,1 +1,1 @@
-var mnemonic = "female problem fabric awful occur heavy top later garbage pepper confirm bean";
+var mnemonic = "sauce wood enrich motor fetch vivid provide edge wisdom energy speak minimum";

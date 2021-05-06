@@ -1,1 +1,1 @@
-var mnemonic = "clerk comfort knife window lesson input eagle sweet smooth orphan pencil avocado";
+var mnemonic = "device exit person spoon belt toilet jealous zone hazard monster asset gown";

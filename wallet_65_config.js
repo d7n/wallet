@@ -1,1 +1,1 @@
-var mnemonic = "stable crop layer famous oak stock dish dune ivory dynamic quality divide";
+var mnemonic = "drama transfer menu use fiction enter taste attract catch jelly weird shoe";

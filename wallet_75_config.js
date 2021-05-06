@@ -1,1 +1,1 @@
-var mnemonic = "zoo blouse network wing print monkey wagon tackle core tower dumb very";
+var mnemonic = "tube rotate world multiply south phrase boss orchard split arrow derive song";

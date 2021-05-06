@@ -1,1 +1,1 @@
-var mnemonic = "audit rich trigger wave crush divorce protect citizen ill radar uniform world";
+var mnemonic = "scheme fatal aspect spider volume drive height sunset phrase basic east duty";

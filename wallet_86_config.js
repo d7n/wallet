@@ -1,1 +1,1 @@
-var mnemonic = "spider history meadow bag mad unhappy card craft merge seat before oak";
+var mnemonic = "chalk frequent harvest whale another vast style swamp trial swarm expire decade";

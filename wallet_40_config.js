@@ -1,1 +1,1 @@
-var mnemonic = "sea almost riot orchard heart business blood mad vehicle street eagle state";
+var mnemonic = "clever patrol icon dwarf day moment ramp ecology add spoon width van";

@@ -1,1 +1,1 @@
-var mnemonic = "during session cost renew absurd drive typical mind asthma destroy famous term";
+var mnemonic = "iron bullet glance chalk mimic mail drill math custom cabin security someone";

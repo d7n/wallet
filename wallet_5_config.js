@@ -1,1 +1,1 @@
-var mnemonic = "ugly butter subject dune bracket owner pull damage nominee blame cart humor";
+var mnemonic = "deliver soft noise repair unique clip kick popular state crazy broken talent";

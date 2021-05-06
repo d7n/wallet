@@ -1,1 +1,1 @@
-var mnemonic = "slide lottery theme tail peanut spend crisp example flower ramp fantasy stable";
+var mnemonic = "dutch across sock attend unaware illegal upset forest useless mosquito nation filter";

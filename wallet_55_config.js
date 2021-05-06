@@ -1,1 +1,1 @@
-var mnemonic = "position write notable finish job near maze average leader glory control admit";
+var mnemonic = "drastic relief spray sweet fox device joke arrange toss mad wage forum";

@@ -1,1 +1,1 @@
-var mnemonic = "fossil enrich mansion common wage thought horror survey genre spin unusual uphold";
+var mnemonic = "moral hand thank bar gas gorilla limb zebra water hover stairs lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "always nest pottery yard stage common dismiss limit foster process lucky enough";
+var mnemonic = "key music box awkward author enhance project century marriage exile invest mixture";

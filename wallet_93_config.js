@@ -1,1 +1,1 @@
-var mnemonic = "inside milk mango force kid umbrella recycle gap whisper physical surprise please";
+var mnemonic = "concert club lab parade spell orbit tiny powder chef rain letter orange";

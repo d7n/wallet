@@ -1,1 +1,1 @@
-var mnemonic = "dumb bench auction naive holiday pulp slush enrich abandon shoot ensure issue";
+var mnemonic = "rose item bunker ticket expose cycle liquid very hidden evolve egg milk";

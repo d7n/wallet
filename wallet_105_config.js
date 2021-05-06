@@ -1,1 +1,1 @@
-var mnemonic = "shove purity cannon labor screen sample biology dance recycle addict protect adult";
+var mnemonic = "broom muffin hazard catch vibrant fork poverty measure wealth upon lava skate";

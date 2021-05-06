@@ -1,1 +1,1 @@
-var mnemonic = "diesel whale market harsh margin boat magic program license nominee boy story";
+var mnemonic = "benefit cream few hole wife monkey tired poet tool model element slow";

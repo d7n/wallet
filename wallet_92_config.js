@@ -1,1 +1,1 @@
-var mnemonic = "spare captain hamster turtle amount west retreat orchard element quote warrior success";
+var mnemonic = "place alone steel faculty right stable must chunk advice pizza salmon unique";

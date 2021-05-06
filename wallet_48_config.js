@@ -1,1 +1,1 @@
-var mnemonic = "rally melt brother depart tortoise aspect flavor exclude suggest fatigue muscle chronic";
+var mnemonic = "exercise case tiger imitate oil thing ice flavor sibling limb congress subway";

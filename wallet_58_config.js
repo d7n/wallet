@@ -1,1 +1,1 @@
-var mnemonic = "defy student inner gloom foam breeze square science bid soldier lecture smoke";
+var mnemonic = "aerobic clown baby slim health salute rural depth glue joy stay evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "element gift waste depart between reward pluck alcohol female now little hurt";
+var mnemonic = "accuse carry fox gain shock weapon east govern vehicle foster own require";

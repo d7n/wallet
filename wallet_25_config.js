@@ -1,1 +1,1 @@
-var mnemonic = "replace tuition hazard ancient public between feel balance draft long injury ladder";
+var mnemonic = "fence divide salmon little differ predict jump danger kingdom before soul pioneer";

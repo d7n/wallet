@@ -1,1 +1,1 @@
-var mnemonic = "word target length toast keep sleep own six punch detect claw nation";
+var mnemonic = "job play comic rhythm praise slogan grief silver property amused road merge";

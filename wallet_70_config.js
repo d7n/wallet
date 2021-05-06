@@ -1,1 +1,1 @@
-var mnemonic = "prefer topple ill ladder office believe elbow catalog noise output boat either";
+var mnemonic = "clip ribbon course lunch able sibling index remove skull december clip frost";

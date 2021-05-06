@@ -1,1 +1,1 @@
-var mnemonic = "woman upgrade brain cannon afraid hill steak deposit approve awesome undo slush";
+var mnemonic = "notable clock extra lucky deliver draft boil barrel release pudding glow talent";

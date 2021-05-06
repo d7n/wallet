@@ -1,1 +1,1 @@
-var mnemonic = "ivory theory level clean match find soccer alien dress choice artist zone";
+var mnemonic = "enact open laptop battle catch grit inherit galaxy decline vintage eager gun";

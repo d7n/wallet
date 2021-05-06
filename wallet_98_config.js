@@ -1,1 +1,1 @@
-var mnemonic = "you venue slush kit female distance cover science kite globe twelve diesel";
+var mnemonic = "later coil caution control risk sting bacon merry twelve husband dawn ladder";

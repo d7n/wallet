@@ -1,1 +1,1 @@
-var mnemonic = "domain common certain catch you fix damage cost rabbit later benefit green";
+var mnemonic = "flush eager pause burger asthma faculty admit mom social code spot pioneer";

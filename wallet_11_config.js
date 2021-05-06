@@ -1,1 +1,1 @@
-var mnemonic = "denial nation custom notable olympic jungle anxiety reform office wave absorb upper";
+var mnemonic = "plunge radio couple chuckle virus style trap laugh coast ethics yard deposit";

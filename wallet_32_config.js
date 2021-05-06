@@ -1,1 +1,1 @@
-var mnemonic = "million click pioneer lamp trick spin horn ceiling drum cabbage enjoy shuffle";
+var mnemonic = "page exist unaware cancel insane sudden icon weather affair vendor truth useless";

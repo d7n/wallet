@@ -1,1 +1,1 @@
-var mnemonic = "agree warm orbit apology food armor input length chimney beach gate spare";
+var mnemonic = "couple brave tragic vast empty half increase prison pull cook settle mirror";

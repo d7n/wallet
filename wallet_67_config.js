@@ -1,1 +1,1 @@
-var mnemonic = "pupil pink never opera tube what gospel bacon demand learn style parade";
+var mnemonic = "stereo video early obey other own during ripple copper token mean tornado";

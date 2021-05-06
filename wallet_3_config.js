@@ -1,1 +1,1 @@
-var mnemonic = "gaze raise floor session hurt industry rail sock kind account summer vacuum";
+var mnemonic = "inherit draft next copper mask account notable concert kiwi desk best hole";

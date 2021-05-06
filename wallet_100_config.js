@@ -1,1 +1,1 @@
-var mnemonic = "tone merge popular draw miracle firm mean pill grit open flee catalog";
+var mnemonic = "unit height between demise pony cash assist shove praise cat usual perfect";

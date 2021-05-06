@@ -1,1 +1,1 @@
-var mnemonic = "wrist congress chest bag error street prosper blame upset shift brief slush";
+var mnemonic = "swarm indoor hour dove address lawn acquire upgrade travel fantasy grow mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "tide present blast bind cousin loud puzzle lamp address series quality long";
+var mnemonic = "vacuum diamond yard antenna exclude leader effort empty cream armed old stadium";

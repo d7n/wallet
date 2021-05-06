@@ -1,1 +1,1 @@
-var mnemonic = "damp until then deposit small enhance achieve tuition spike common will nothing";
+var mnemonic = "tunnel payment lecture reveal shed mystery fun monkey improve glad cruise legal";

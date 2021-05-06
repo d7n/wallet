@@ -1,1 +1,1 @@
-var mnemonic = "start problem universe speak chuckle open volume chicken improve fuel uncle engine";
+var mnemonic = "cross opinion shy behave aisle impulse kind range nothing honey off repair";

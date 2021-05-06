@@ -1,1 +1,1 @@
-var mnemonic = "crunch rally pilot sell address paddle hard awake coral other taste winter";
+var mnemonic = "wet saddle barely hotel tobacco you cake milk jazz dynamic gift tenant";

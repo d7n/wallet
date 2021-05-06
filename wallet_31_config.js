@@ -1,1 +1,1 @@
-var mnemonic = "caught tornado name clinic aware spoil name three thunder people pitch seat";
+var mnemonic = "impose blanket clerk visit roof promote pass deer spawn member pole rotate";

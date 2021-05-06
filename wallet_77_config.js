@@ -1,1 +1,1 @@
-var mnemonic = "mix vague anger poet ecology cross roof famous coffee grunt marriage drama";
+var mnemonic = "win choose shaft eagle hen imitate amateur explain use tumble announce belt";

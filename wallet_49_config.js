@@ -1,1 +1,1 @@
-var mnemonic = "excuse loud album lumber dust bread middle lucky nurse wire october copy";
+var mnemonic = "smooth canal episode student exclude unhappy solution cash puppy grass kiss tumble";

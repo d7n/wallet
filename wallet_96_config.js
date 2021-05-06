@@ -1,1 +1,1 @@
-var mnemonic = "atom paper luggage safe laundry sight candy shift honey denial stove ribbon";
+var mnemonic = "minimum north scare finger add exile slim super valley deposit viable belt";

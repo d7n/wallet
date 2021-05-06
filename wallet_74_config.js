@@ -1,1 +1,1 @@
-var mnemonic = "obscure skull vote divide bar hen sustain gasp giggle prevent future shaft";
+var mnemonic = "room curve opera blanket lamp allow margin squeeze indoor steak story scan";

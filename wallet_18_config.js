@@ -1,1 +1,1 @@
-var mnemonic = "bounce review chase captain someone desk hammer episode crop original exhaust weather";
+var mnemonic = "auto clown exist wagon grant undo city original alien goat enjoy bronze";

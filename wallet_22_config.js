@@ -1,1 +1,1 @@
-var mnemonic = "orange pill game dolphin fault spend faint used grain appear aim expire";
+var mnemonic = "predict loan roof unhappy pelican oval limb endless margin north spike dismiss";

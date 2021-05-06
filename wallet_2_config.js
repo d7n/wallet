@@ -1,1 +1,1 @@
-var mnemonic = "wife tool drastic token radar enemy fringe carpet limb gossip supreme adult";
+var mnemonic = "solid twelve version pizza virtual wine pill rival viable engine fiber man";

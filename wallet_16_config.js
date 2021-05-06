@@ -1,1 +1,1 @@
-var mnemonic = "celery lawn rural seat earn bind vast glove animal swallow dynamic deputy";
+var mnemonic = "vendor school birth deny stairs tenant stone giant autumn pear mixed flee";

@@ -1,1 +1,1 @@
-var mnemonic = "merry castle humor enable shy umbrella inspire replace jungle quiz twice basket";
+var mnemonic = "skate cluster tackle risk exile farm dice rigid liar tired animal treat";

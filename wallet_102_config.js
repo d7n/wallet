@@ -1,1 +1,1 @@
-var mnemonic = "gravity destroy trap famous riot between wood spawn play twenty federal satoshi";
+var mnemonic = "exile siren never useless where drift middle foster palace jelly hungry shoe";

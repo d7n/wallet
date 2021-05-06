@@ -1,1 +1,1 @@
-var mnemonic = "essence estate obscure true meat boat weekend climb arrest barely glad hood";
+var mnemonic = "put valid network short hat movie diesel axis enemy wolf donor frown";

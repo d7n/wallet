@@ -1,1 +1,1 @@
-var mnemonic = "peasant annual artist gadget mountain april above lock possible stool doctor mountain";
+var mnemonic = "soda hobby earth false noble decade under immune flag thumb verb employ";

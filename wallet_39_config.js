@@ -1,1 +1,1 @@
-var mnemonic = "bomb kit gravity company craft pony property gap network cactus ten satisfy";
+var mnemonic = "dream junior female keep empty gauge eager primary title cushion unveil control";

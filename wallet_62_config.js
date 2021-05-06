@@ -1,1 +1,1 @@
-var mnemonic = "tuition prison front novel penalty able cash target opera season pretty view";
+var mnemonic = "year section smooth turtle picture analyst adapt basic devote robust energy isolate";

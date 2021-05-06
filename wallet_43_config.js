@@ -1,1 +1,1 @@
-var mnemonic = "giggle gain spice attack coin afraid raven nuclear hill tennis globe achieve";
+var mnemonic = "item wall allow resemble very cloud sugar taxi want public claw liquid";

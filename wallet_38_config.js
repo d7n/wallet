@@ -1,1 +1,1 @@
-var mnemonic = "fame room lucky series airport dutch pigeon plunge catalog buyer silver spring";
+var mnemonic = "notice chef tiny zone rich before nose family fatal myth magnet evidence";

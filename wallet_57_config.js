@@ -1,1 +1,1 @@
-var mnemonic = "play dismiss original chronic will ticket knock course history pause wolf expect";
+var mnemonic = "beef fan jacket organ erode ancient height vessel boss window empty have";

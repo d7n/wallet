@@ -1,1 +1,1 @@
-var mnemonic = "virus cry flip pig adapt chaos glimpse divert name goddess vibrant describe";
+var mnemonic = "put divide wife dice warrior point benefit upset city hybrid ready still";

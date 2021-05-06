@@ -1,1 +1,1 @@
-var mnemonic = "sauce excite dash live lens assist tomato tackle load deliver budget emotion";
+var mnemonic = "original whip idle derive scene fiscal inhale input finish best awkward purchase";

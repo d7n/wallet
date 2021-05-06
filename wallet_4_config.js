@@ -1,1 +1,1 @@
-var mnemonic = "smoke jacket just maid foster unique chat able goat sport problem car";
+var mnemonic = "review solve nuclear dolphin book night exercise gas eternal warm chalk donkey";

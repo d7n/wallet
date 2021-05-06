@@ -1,1 +1,1 @@
-var mnemonic = "employ duck crime saddle fog enact garden daughter lady spy blast pond";
+var mnemonic = "bronze burger yellow junk buddy aim fat same debate gate hire science";

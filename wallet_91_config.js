@@ -1,1 +1,1 @@
-var mnemonic = "cannon put bicycle elegant snake improve snake flame spider crane match six";
+var mnemonic = "enact dignity risk mule talent umbrella sheriff churn dawn forest increase water";

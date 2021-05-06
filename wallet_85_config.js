@@ -1,1 +1,1 @@
-var mnemonic = "tobacco zone vault world maximum moral sphere ceiling whip often frequent plate";
+var mnemonic = "pen eyebrow verify there beef analyst pond album genius sunset enact body";

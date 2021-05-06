@@ -1,1 +1,1 @@
-var mnemonic = "coin unique indicate rigid globe bargain evolve stable gap exist link wrist";
+var mnemonic = "rhythm puzzle hard ability valid swing cigar funny mechanic story bread slow";

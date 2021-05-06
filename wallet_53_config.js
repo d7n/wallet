@@ -1,1 +1,1 @@
-var mnemonic = "dawn ritual chuckle desk just vague invest brown talk dance potato into";
+var mnemonic = "cream fluid huge voyage name verb pear shuffle energy fat sure edge";

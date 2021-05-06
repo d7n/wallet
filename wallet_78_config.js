@@ -1,1 +1,1 @@
-var mnemonic = "fog wood deer illness action solid bullet write menu kite bicycle wealth";
+var mnemonic = "odor expose dash furnace maze wolf all cotton patient soup main apple";

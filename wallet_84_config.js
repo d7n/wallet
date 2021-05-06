@@ -1,1 +1,1 @@
-var mnemonic = "tuition fade blouse clump apology lake myth couple fantasy label merit program";
+var mnemonic = "quit mechanic token behind advice thing cake blood gallery number west annual";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff know jazz expand fury ramp bracket nation ginger connect ripple slight";
+var mnemonic = "mean resemble gather tail car extend escape twelve frog orphan spatial gift";

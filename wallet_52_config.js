@@ -1,1 +1,1 @@
-var mnemonic = "blossom pact alley fatigue subway affair praise maximum crucial endless average property";
+var mnemonic = "super interest pistol mouse adapt rapid iron farm below evil camp couple";

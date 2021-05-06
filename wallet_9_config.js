@@ -1,1 +1,1 @@
-var mnemonic = "casual slide traffic fix add eight fatal blur slow luxury impulse engine";
+var mnemonic = "lion topic canoe toilet globe never main solar grow chicken lunar canvas";
