@@ -1,1 +1,1 @@
-var mnemonic = "farm arena pattern special jeans walnut leisure grunt ripple impact deliver ensure";
+var mnemonic = "hollow pear occur swap few arrange dilemma nation hint inmate comic educate";

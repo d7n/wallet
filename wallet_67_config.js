@@ -1,1 +1,1 @@
-var mnemonic = "today stumble scale diesel august pole weather close economy ketchup century decade";
+var mnemonic = "trial game deer critic spawn desert album under destroy sauce juice source";

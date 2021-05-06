@@ -1,1 +1,1 @@
-var mnemonic = "mosquito aunt session major retreat remember coyote glimpse legal warm hope steel";
+var mnemonic = "snack proof ice like twin rate start runway sister garage verb alert";

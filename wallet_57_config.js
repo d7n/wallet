@@ -1,1 +1,1 @@
-var mnemonic = "endless two federal sunset stand cradle apple fortune session woman stumble cloth";
+var mnemonic = "tuition slight crater smoke clog north alcohol fade snake scissors injury witness";

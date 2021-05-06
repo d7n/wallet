@@ -1,1 +1,1 @@
-var mnemonic = "young advice right process skill hybrid pitch duty shrug grain boss cream";
+var mnemonic = "bonus volume pulse awful whip foot bench iron claim broken fence apple";

@@ -1,1 +1,1 @@
-var mnemonic = "vault crisp era basic jealous risk rifle equal lumber earth identify mountain";
+var mnemonic = "dolphin leaf dentist drip want this field fluid news core toilet pair";

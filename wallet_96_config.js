@@ -1,1 +1,1 @@
-var mnemonic = "ordinary lounge present title universe amused place unveil guard wet cousin swift";
+var mnemonic = "return nice symbol fence afford fluid forget olympic guard unveil ensure iron";

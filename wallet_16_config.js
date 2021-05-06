@@ -1,1 +1,1 @@
-var mnemonic = "melody garden clump general finger arctic isolate regret jar decorate six mule";
+var mnemonic = "junk slim mechanic bamboo faith hidden wait initial access will kidney biology";

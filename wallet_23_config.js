@@ -1,1 +1,1 @@
-var mnemonic = "primary monkey slot raven trash elegant find lunch orange void clinic brother";
+var mnemonic = "toe ketchup nurse artist canvas special enhance where viable apology layer liquid";

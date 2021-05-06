@@ -1,1 +1,1 @@
-var mnemonic = "habit wedding identify turkey snack blast toddler share include sister author amateur";
+var mnemonic = "stem erode tissue useful pair square roast fine winner staff okay under";

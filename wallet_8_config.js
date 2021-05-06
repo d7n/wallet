@@ -1,1 +1,1 @@
-var mnemonic = "grit west direct disorder problem loyal kitten hello price judge vote method";
+var mnemonic = "faculty bench pear arm truth alien media lady another city derive trigger";

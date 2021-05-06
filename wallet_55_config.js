@@ -1,1 +1,1 @@
-var mnemonic = "comic join way head gentle brand eager coyote skirt balcony dinner top";
+var mnemonic = "rubber alert boss snake copper escape vivid maze monkey under trip spoon";

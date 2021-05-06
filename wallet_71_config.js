@@ -1,1 +1,1 @@
-var mnemonic = "visa sadness biology excuse aspect junior illegal flight own cat praise dragon";
+var mnemonic = "august because milk box reason surprise coach argue abandon about plunge kiss";

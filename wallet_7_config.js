@@ -1,1 +1,1 @@
-var mnemonic = "town second forward labor ceiling maple monitor emotion detail jacket domain menu";
+var mnemonic = "apple horse lizard copy indicate royal relax pair hazard toilet language apart";

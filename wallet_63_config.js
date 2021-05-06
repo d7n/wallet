@@ -1,1 +1,1 @@
-var mnemonic = "same lava page session inject salmon burden supply blanket friend gap sign";
+var mnemonic = "fantasy cancel suffer cricket credit laptop kingdom trouble thunder wheel mechanic photo";

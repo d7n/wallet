@@ -1,1 +1,1 @@
-var mnemonic = "ecology squeeze wheel click security sudden soul jacket idle empty pole behind";
+var mnemonic = "anxiety begin green slab river height decorate quiz portion fox vapor rookie";

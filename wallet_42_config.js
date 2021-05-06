@@ -1,1 +1,1 @@
-var mnemonic = "owner moment panic tonight daughter draw venue must forum shadow use fortune";
+var mnemonic = "drift outside pet wheel another gap cabbage shield jelly rotate unfold soccer";

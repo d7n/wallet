@@ -1,1 +1,1 @@
-var mnemonic = "riot rely walnut degree song search believe napkin weasel uncover viable frozen";
+var mnemonic = "donate company rally guard clerk town lava system inform room lens flush";

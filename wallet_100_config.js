@@ -1,1 +1,1 @@
-var mnemonic = "false bottom around horn library crunch frequent system fuel boy cabbage move";
+var mnemonic = "puppy chaos paper vehicle excess evoke black arch father helmet check cattle";

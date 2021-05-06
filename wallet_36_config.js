@@ -1,1 +1,1 @@
-var mnemonic = "invest axis oven derive lady rare walnut menu shift follow lamp crucial";
+var mnemonic = "live alley twelve dove kind fog shoe hollow puppy trap depth usage";

@@ -1,1 +1,1 @@
-var mnemonic = "parade satoshi enroll hard impulse struggle blade blouse creek charge resemble skirt";
+var mnemonic = "narrow judge result about remind hair breeze inform urban unfair shop moon";

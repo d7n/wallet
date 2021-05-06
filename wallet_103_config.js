@@ -1,1 +1,1 @@
-var mnemonic = "afford later federal scare pledge script aisle nose mass message media present";
+var mnemonic = "sea vault toy skull proud friend ship notice lake select wild wife";

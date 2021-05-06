@@ -1,1 +1,1 @@
-var mnemonic = "repair lemon pelican total patrol sudden bunker muscle visa notice business salad";
+var mnemonic = "plate ecology sudden betray grow rate shove obscure focus click hen mechanic";

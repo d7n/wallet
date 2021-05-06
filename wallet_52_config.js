@@ -1,1 +1,1 @@
-var mnemonic = "vintage sell floor guide gym enable own license chuckle host peace level";
+var mnemonic = "onion bird inch stand defense gospel lawsuit vacant witness plate crop praise";

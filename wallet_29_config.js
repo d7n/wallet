@@ -1,1 +1,1 @@
-var mnemonic = "rude fluid vanish canvas robot lazy flee laugh sauce grow power agent";
+var mnemonic = "inch winner announce coconut inflict goat know party worry ship cause pupil";

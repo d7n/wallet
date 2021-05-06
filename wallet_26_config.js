@@ -1,1 +1,1 @@
-var mnemonic = "unaware gas oak leaf jealous arm lamp coach rally visa logic grief";
+var mnemonic = "route panda addict topple submit expand more sport intact notable donate cabin";

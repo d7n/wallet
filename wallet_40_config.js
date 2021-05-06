@@ -1,1 +1,1 @@
-var mnemonic = "reflect essence base below melody lizard lounge elegant dignity ritual often grit";
+var mnemonic = "bring embark square crush witness hungry essay famous bind shrug glare soda";

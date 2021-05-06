@@ -1,1 +1,1 @@
-var mnemonic = "course angle bracket ripple exhaust skirt bag guess coral card clock cinnamon";
+var mnemonic = "castle tourist gasp merit enlist gap mammal era object short curious bind";

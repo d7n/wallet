@@ -1,1 +1,1 @@
-var mnemonic = "hammer reopen resist race moment weird bamboo squeeze post fever dolphin metal";
+var mnemonic = "ostrich machine young bunker dream gaze discover real settle recipe earn dream";

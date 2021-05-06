@@ -1,1 +1,1 @@
-var mnemonic = "captain flag dilemma brush glue color spring behave work vast harbor feel";
+var mnemonic = "envelope stem cross deposit spring shell follow trial fragile battle rare short";

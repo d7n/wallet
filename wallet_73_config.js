@@ -1,1 +1,1 @@
-var mnemonic = "style seed bundle margin once globe later smooth direct virtual suffer expect";
+var mnemonic = "render scheme allow please crew autumn economy kiwi danger soap ginger fade";

@@ -1,1 +1,1 @@
-var mnemonic = "option hint obtain open arrange sea season base moment grain finish bleak";
+var mnemonic = "puppy thing student suspect tiny forum shy jelly garment ten asset clinic";

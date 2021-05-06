@@ -1,1 +1,1 @@
-var mnemonic = "swear business orbit woman language private stairs balcony few fringe canvas spirit";
+var mnemonic = "thought badge cream over siege resource yellow van diary warm razor suffer";

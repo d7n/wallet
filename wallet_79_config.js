@@ -1,1 +1,1 @@
-var mnemonic = "capital cart garage rookie sunset rhythm armor royal hurdle trade area solar";
+var mnemonic = "close voyage vessel thumb february pupil hockey garment ball unfair drive remind";

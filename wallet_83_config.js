@@ -1,1 +1,1 @@
-var mnemonic = "until chapter labor appear gaze often caught salmon hybrid speak squeeze alone";
+var mnemonic = "donor festival speed session enjoy hover purpose onion prevent country price route";

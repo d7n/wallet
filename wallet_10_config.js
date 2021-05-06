@@ -1,1 +1,1 @@
-var mnemonic = "neutral economy ugly harbor cable giant match bean anger crazy rabbit repeat";
+var mnemonic = "mountain velvet piece remember width head unknown among desert all hidden note";

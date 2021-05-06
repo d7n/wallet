@@ -1,1 +1,1 @@
-var mnemonic = "toss wealth kitchen year dose doctor excite divert tuna involve because animal";
+var mnemonic = "visit school van apple tired radio give judge hole visit exclude grid";

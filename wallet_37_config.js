@@ -1,1 +1,1 @@
-var mnemonic = "census current pelican right engine random lazy addict struggle ski snake naive";
+var mnemonic = "horse afraid shy wait unit remind blush trap second grunt sock iron";

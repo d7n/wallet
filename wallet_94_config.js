@@ -1,1 +1,1 @@
-var mnemonic = "absent segment garment monster sauce junior skill sea relief feed fault candy";
+var mnemonic = "random slice zebra jealous donor right federal song health twin iron limb";

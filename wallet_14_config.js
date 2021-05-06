@@ -1,1 +1,1 @@
-var mnemonic = "pupil earth wreck public panel chase sorry rival pepper pelican dry bachelor";
+var mnemonic = "keep advance angle elephant item account spider surface bulk raven actress task";

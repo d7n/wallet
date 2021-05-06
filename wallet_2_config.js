@@ -1,1 +1,1 @@
-var mnemonic = "trick sample property giant organ donkey civil crowd hair stereo burden wedding";
+var mnemonic = "park perfect extend world cruel fun humble swing medal produce decide whisper";

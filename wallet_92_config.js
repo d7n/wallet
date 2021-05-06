@@ -1,1 +1,1 @@
-var mnemonic = "nature remove beauty often hazard bulb pattern true indoor skull timber adapt";
+var mnemonic = "cloth injury clump cattle turkey blossom burden auction pass network chief replace";

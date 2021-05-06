@@ -1,1 +1,1 @@
-var mnemonic = "diagram inside response weather satisfy season evoke ability custom amused stereo cave";
+var mnemonic = "indicate ancient web waste stone video company cat kick silk equip dizzy";

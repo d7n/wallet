@@ -1,1 +1,1 @@
-var mnemonic = "wreck opera universe lens suggest camp gallery bronze outside outer gas degree";
+var mnemonic = "coconut maid pass where shine small nation cushion metal soft erode brother";

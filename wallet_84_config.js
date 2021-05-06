@@ -1,1 +1,1 @@
-var mnemonic = "bonus patch beauty derive good actress old gate faculty cattle virtual estate";
+var mnemonic = "tilt deal chapter wish evoke vacant spirit neglect cycle device delay rely";

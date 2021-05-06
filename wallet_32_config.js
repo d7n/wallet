@@ -1,1 +1,1 @@
-var mnemonic = "lake debate garbage civil step six anchor give mail trap turtle wage";
+var mnemonic = "cotton knife pyramid crumble describe ready gallery foam journey friend syrup ticket";

@@ -1,1 +1,1 @@
-var mnemonic = "light scare debate during monkey else pigeon fetch burger random they tunnel";
+var mnemonic = "nation rural cost scatter spoon valid census misery inflict alone surface detect";

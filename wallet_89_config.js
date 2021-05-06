@@ -1,1 +1,1 @@
-var mnemonic = "noble violin benefit nothing border catch oven bring decorate drink mirror plunge";
+var mnemonic = "treat violin act vanish shoulder subject job clip auto thunder tourist risk";

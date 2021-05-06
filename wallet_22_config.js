@@ -1,1 +1,1 @@
-var mnemonic = "garlic step popular daughter balcony document laugh make reopen thing attract unhappy";
+var mnemonic = "pelican artefact blanket winner attract slender muffin opera ancient trouble minimum length";

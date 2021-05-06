@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur chuckle grit pause vessel drink tag jewel layer build wonder output";
+var mnemonic = "unfair among december nasty nerve scene advance lake idea apart kiwi cannon";

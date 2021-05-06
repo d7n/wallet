@@ -1,1 +1,1 @@
-var mnemonic = "funny mosquito accident same light symptom hungry crisp wonder olive wedding kit";
+var mnemonic = "upgrade turkey detail final level ride derive abandon fire health lonely private";

@@ -1,1 +1,1 @@
-var mnemonic = "frown test farm detect bamboo ice blade badge sustain leisure pelican long";
+var mnemonic = "weapon glass write satisfy alcohol brush make outdoor minimum nerve educate enforce";

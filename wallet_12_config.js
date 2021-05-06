@@ -1,1 +1,1 @@
-var mnemonic = "sense guide more pudding room world february virus cost bounce plate major";
+var mnemonic = "cattle super width stand ball battle stem business card brand express exact";

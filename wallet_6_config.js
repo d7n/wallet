@@ -1,1 +1,1 @@
-var mnemonic = "inject below decline mountain grocery car jungle great forward educate increase post";
+var mnemonic = "cream friend engage poet hybrid soon chuckle notable glad breeze february day";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise hammer pelican kitchen obey obscure garbage sphere document toy like lawsuit";
+var mnemonic = "silk giant sock clown bacon swear practice hand pistol medal reveal fossil";

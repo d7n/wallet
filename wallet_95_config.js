@@ -1,1 +1,1 @@
-var mnemonic = "fault such keep comfort fluid celery borrow rotate empty mesh opera swing";
+var mnemonic = "gold fault animal violin glue truly mom duck sibling meat melt comfort";

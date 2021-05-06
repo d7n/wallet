@@ -1,1 +1,1 @@
-var mnemonic = "baby unit alley only glide alter pelican speak child ship design push";
+var mnemonic = "raccoon three pause alpha about object tell quick surge service popular result";

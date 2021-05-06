@@ -1,1 +1,1 @@
-var mnemonic = "jar physical tribe mistake artwork plunge scheme help nice outside gloom frog";
+var mnemonic = "lucky rotate brick now blade top waste saddle future lion path matter";

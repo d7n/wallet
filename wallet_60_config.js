@@ -1,1 +1,1 @@
-var mnemonic = "tenant best click reflect make ripple enjoy middle wife reform verb breeze";
+var mnemonic = "social flight culture jaguar reunion regular under style eternal volcano change anger";

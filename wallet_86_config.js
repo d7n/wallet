@@ -1,1 +1,1 @@
-var mnemonic = "mixture inmate interest skin approve creek fog dragon divert size frog bus";
+var mnemonic = "lend atom small search guess purity system anxiety account walnut man letter";

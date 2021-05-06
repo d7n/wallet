@@ -1,1 +1,1 @@
-var mnemonic = "negative wood media wagon fantasy divide sort dance issue believe cream wagon";
+var mnemonic = "clump rice dragon ranch injury gold tuition solar pull awkward hybrid brain";

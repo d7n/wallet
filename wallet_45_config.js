@@ -1,1 +1,1 @@
-var mnemonic = "duty basic neither burger ice jacket stomach pluck avocado rapid extend corn";
+var mnemonic = "birth midnight various siren melody crush gloom divide light crucial appear forest";

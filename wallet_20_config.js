@@ -1,1 +1,1 @@
-var mnemonic = "focus clip consider bone hundred river diary talent loyal diesel ugly junior";
+var mnemonic = "analyst soup mistake mimic march favorite weapon escape bid curtain quality deputy";

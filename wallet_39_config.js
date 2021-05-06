@@ -1,1 +1,1 @@
-var mnemonic = "pipe design raven super sudden skate eyebrow wet ripple ability judge verify";
+var mnemonic = "walnut blue olympic member wrong viable job number crumble direct faith quarter";

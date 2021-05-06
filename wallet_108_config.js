@@ -1,1 +1,1 @@
-var mnemonic = "ahead weasel hotel type local assume mirror seminar pass salt vivid veteran";
+var mnemonic = "company cargo mutual lava provide afraid mutual session kingdom relax stadium eye";

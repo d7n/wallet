@@ -1,1 +1,1 @@
-var mnemonic = "deny practice belt comfort town museum crash remain benefit foster visa differ";
+var mnemonic = "alpha pink file select phone rose bright lecture wrong spatial odor drift";

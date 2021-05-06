@@ -1,1 +1,1 @@
-var mnemonic = "wish taxi comfort animal ozone unit replace own shrug arena skirt hover";
+var mnemonic = "someone swing ridge circle shuffle say menu during one waste open piece";

@@ -1,1 +1,1 @@
-var mnemonic = "island fault three master follow polar arena draft echo empty bicycle sword";
+var mnemonic = "jacket slot genuine save energy crawl acoustic tomorrow mandate soon ordinary comic";

@@ -1,1 +1,1 @@
-var mnemonic = "depend space suffer shift injury alcohol usage edge test story wrestle sound";
+var mnemonic = "weird legend parent cool minor wisdom lecture cattle bleak beauty medal wall";

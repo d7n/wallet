@@ -1,1 +1,1 @@
-var mnemonic = "radar region legal language forget cradle chronic mutual minor recall fine science";
+var mnemonic = "disease add deposit misery bomb brown protect phrase fetch bottom sister phone";

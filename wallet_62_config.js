@@ -1,1 +1,1 @@
-var mnemonic = "swift actor evoke cover remove grunt pave chat century sand cargo act";
+var mnemonic = "motor weird fun muscle vessel curtain easy indicate half clever alter canoe";

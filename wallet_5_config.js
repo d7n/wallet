@@ -1,1 +1,1 @@
-var mnemonic = "sad bench reopen confirm episode juice canoe immune reflect fluid quit figure";
+var mnemonic = "trend fork suit cluster debate dream party sort alter loan jump bright";

@@ -1,1 +1,1 @@
-var mnemonic = "shove youth orchard pony clog junior route ladder cotton motion angle fluid";
+var mnemonic = "now bracket daughter curve taxi solution purse balcony supply sight excuse blossom";

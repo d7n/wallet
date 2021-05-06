@@ -1,1 +1,1 @@
-var mnemonic = "box flame bright frozen vocal dilemma make wink hold elevator budget achieve";
+var mnemonic = "program dizzy dilemma glad push alley twelve episode erupt desk subject race";

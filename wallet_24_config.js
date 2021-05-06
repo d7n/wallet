@@ -1,1 +1,1 @@
-var mnemonic = "police artefact glue siege orbit robot color bubble mother welcome wreck knife";
+var mnemonic = "bounce asthma describe same magnet cabin tackle nothing enforce choose pipe elevator";

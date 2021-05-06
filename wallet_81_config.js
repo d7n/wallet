@@ -1,1 +1,1 @@
-var mnemonic = "act trim cash pattern net athlete noodle another smooth suffer need proud";
+var mnemonic = "verb later monitor lamp warrior fun tail arena share dolphin gift owner";

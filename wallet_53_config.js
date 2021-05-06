@@ -1,1 +1,1 @@
-var mnemonic = "patch rubber during cactus expand solar access amused believe beyond total limit";
+var mnemonic = "mad tonight elevator armor cherry twenty caution once pair position song addict";

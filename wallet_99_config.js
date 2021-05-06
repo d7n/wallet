@@ -1,1 +1,1 @@
-var mnemonic = "glass ketchup use recycle camera blanket marble dove inquiry denial pipe average";
+var mnemonic = "type appear oven transfer vacant garlic alien tool globe sadness lyrics wild";

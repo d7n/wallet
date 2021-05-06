@@ -1,1 +1,1 @@
-var mnemonic = "assist garment alter harsh satoshi index napkin credit inject amount east retire";
+var mnemonic = "useless push like emerge slender matter debate purity depth output asthma similar";

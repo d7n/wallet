@@ -1,1 +1,1 @@
-var mnemonic = "potato frog mosquito cable grass cabbage poem behave tuna enjoy magnet bag";
+var mnemonic = "mistake elite say labor other purchase talent fringe dutch jacket clump catalog";

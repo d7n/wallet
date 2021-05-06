@@ -1,1 +1,1 @@
-var mnemonic = "nuclear trap brand cage opinion orient word point later lobster uncover silk";
+var mnemonic = "nerve plastic success riot enforce exercise mobile client retreat man split clinic";

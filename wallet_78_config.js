@@ -1,1 +1,1 @@
-var mnemonic = "keen tag cloud hybrid force harvest issue depart neutral cushion fold laundry";
+var mnemonic = "manage raccoon place world only reveal dress cause bacon electric oyster day";

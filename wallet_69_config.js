@@ -1,1 +1,1 @@
-var mnemonic = "mind decade junior knock grief blush glad borrow thought right donate shove";
+var mnemonic = "into setup reduce supreme depth mass street uncle decorate average year awesome";

@@ -1,1 +1,1 @@
-var mnemonic = "else hope fog autumn tennis uncover curious earth pottery dash lunar repair";
+var mnemonic = "focus south mean tiger bid smooth chest advance lunar key air prevent";

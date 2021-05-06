@@ -1,1 +1,1 @@
-var mnemonic = "offer fox giraffe mobile survey mixed romance project sort damage link flight";
+var mnemonic = "endorse swap approve art bright toy alarm wealth twelve file corn announce";

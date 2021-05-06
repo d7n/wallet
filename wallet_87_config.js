@@ -1,1 +1,1 @@
-var mnemonic = "okay tray smart month pottery relief ordinary weekend topple devote toddler dry";
+var mnemonic = "cube nothing bench chest tobacco fortune home fruit success salad tribe index";

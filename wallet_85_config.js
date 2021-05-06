@@ -1,1 +1,1 @@
-var mnemonic = "ceiling drill swap limit cross black destroy squeeze among hunt flat interest";
+var mnemonic = "romance punch combine february thank alcohol ride rookie throw then famous eyebrow";

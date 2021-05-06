@@ -1,1 +1,1 @@
-var mnemonic = "piece bike swift grocery luggage split cheese upon crack mean view acoustic";
+var mnemonic = "heart eagle menu poet inhale timber brand upset predict mushroom shiver pride";

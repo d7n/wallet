@@ -1,1 +1,1 @@
-var mnemonic = "protect slender enrich patient theory benefit bus oblige notable section empty flower";
+var mnemonic = "hawk put erase child increase knock camera student depend ice piano list";

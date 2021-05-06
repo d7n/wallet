@@ -1,1 +1,1 @@
-var mnemonic = "muffin flower want road whale horn betray install welcome frame bean huge";
+var mnemonic = "false three hen meadow write language genuine example gospel brown dwarf ghost";
