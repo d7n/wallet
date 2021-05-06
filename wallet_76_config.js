@@ -1,1 +1,1 @@
-var mnemonic = "coffee tuna day city defy educate broccoli autumn ready gallery episode bonus";
+var mnemonic = "play chuckle state crucial position lamp maximum museum scrub earth radar fuel";

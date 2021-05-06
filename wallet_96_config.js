@@ -1,1 +1,1 @@
-var mnemonic = "winter harbor refuse ribbon hair juice critic note agent derive around leaf";
+var mnemonic = "jealous divorce extend power end acid donor lemon change brush march arrive";

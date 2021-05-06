@@ -1,1 +1,1 @@
-var mnemonic = "render spread tower faint adjust abandon subway quantum diagram burden total motion";
+var mnemonic = "stay canvas often choice release artist goose typical valid river soccer elder";

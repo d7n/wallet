@@ -1,1 +1,1 @@
-var mnemonic = "lucky body physical agree gun hidden pitch lottery illness cabin shove sight";
+var mnemonic = "hood endorse filter unknown maple veteran permit glide garment hungry ripple daring";

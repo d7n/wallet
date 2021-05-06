@@ -1,1 +1,1 @@
-var mnemonic = "cat cost ladder cliff great subway cruel recipe size position submit shaft";
+var mnemonic = "attend enter knock mansion usage cover concert atom exotic rather multiply plastic";

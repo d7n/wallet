@@ -1,1 +1,1 @@
-var mnemonic = "forest slam animal way fatal gap glue will one fatal permit castle";
+var mnemonic = "current neglect evidence truth dentist access song oxygen actress trumpet place aware";

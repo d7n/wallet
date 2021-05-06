@@ -1,1 +1,1 @@
-var mnemonic = "drift clean route smoke choice toward sunset voyage coach audit derive long";
+var mnemonic = "bulb puppy poem arctic split outer patient alarm bag rice fluid right";

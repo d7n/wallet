@@ -1,1 +1,1 @@
-var mnemonic = "oxygen this frequent come essence verify biology burst obtain rapid airport utility";
+var mnemonic = "huge cruel liberty pet ride clinic stem cost relax snake index peace";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness noodle potato nephew exile layer buyer honey glimpse argue violin trend";
+var mnemonic = "exact pause effort glide steak fog area mix emerge wine plug desert";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli quote dwarf hazard way humble indoor shell degree garlic adapt immune";
+var mnemonic = "comfort morning joy ask cram guess report small sunset vault scheme normal";

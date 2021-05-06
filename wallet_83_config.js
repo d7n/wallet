@@ -1,1 +1,1 @@
-var mnemonic = "eager ahead alpha resource ripple conduct riot glide jeans category loud ten";
+var mnemonic = "bulk prosper devote olympic fun surface toward check emerge rail giraffe peasant";

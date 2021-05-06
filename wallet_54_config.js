@@ -1,1 +1,1 @@
-var mnemonic = "owner chase reason expand churn silver tell announce bag void fox public";
+var mnemonic = "engine key team sun short clock raccoon tip until tooth seminar edit";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel rebel slow prepare naive hybrid churn galaxy scorpion person style alter";
+var mnemonic = "vibrant issue cricket bulk entry enter shock biology kiwi zoo slide balcony";

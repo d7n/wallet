@@ -1,1 +1,1 @@
-var mnemonic = "razor arrive desert agree tower explain team person peasant fold essence bind";
+var mnemonic = "harvest truck muffin spin cliff real wire lamp noise add regular music";

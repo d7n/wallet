@@ -1,1 +1,1 @@
-var mnemonic = "faint great focus alone drive relief uniform fine chair burger chaos pulse";
+var mnemonic = "peanut clarify isolate floor west hunt exact memory purchase crowd enforce promote";

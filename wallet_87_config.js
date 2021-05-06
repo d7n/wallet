@@ -1,1 +1,1 @@
-var mnemonic = "tumble crime penalty rotate economy lyrics right master fork timber unfair east";
+var mnemonic = "uphold canvas drama potato human access any defy insane brick science crop";

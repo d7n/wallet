@@ -1,1 +1,1 @@
-var mnemonic = "picnic sustain dragon produce book object figure hunt bundle chief garment desert";
+var mnemonic = "please sweet antenna reopen rug nature other camp ball roof trend ready";

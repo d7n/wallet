@@ -1,1 +1,1 @@
-var mnemonic = "crowd drill they inform tag health lab bean power erase notice know";
+var mnemonic = "voice jaguar garbage trust tunnel thing smart force unlock approve canvas naive";

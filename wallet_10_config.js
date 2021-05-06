@@ -1,1 +1,1 @@
-var mnemonic = "subway cute bullet various van toilet that tunnel pledge tomorrow crash law";
+var mnemonic = "tag today tree sustain rifle robust bike loyal mask era response promote";

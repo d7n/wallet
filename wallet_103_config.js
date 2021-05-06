@@ -1,1 +1,1 @@
-var mnemonic = "famous aerobic fatigue street height tent pen bubble cause property memory infant";
+var mnemonic = "real over smoke ancient lounge plate can better impose spawn empty slide";

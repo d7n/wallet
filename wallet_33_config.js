@@ -1,1 +1,1 @@
-var mnemonic = "hire submit float parade panel parrot forward paddle tool ancient awake cross";
+var mnemonic = "describe bird ensure action common deny letter attract fine race betray act";

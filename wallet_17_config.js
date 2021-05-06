@@ -1,1 +1,1 @@
-var mnemonic = "accident kingdom planet wage duty fantasy wrong insect please image antenna sock";
+var mnemonic = "subway pride circle palace produce expose popular assist trick require fancy chat";

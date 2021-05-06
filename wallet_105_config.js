@@ -1,1 +1,1 @@
-var mnemonic = "will broom absorb moment annual pony solve ridge echo clap slush surface";
+var mnemonic = "kit slab income term gossip stadium truth private pear famous accident season";

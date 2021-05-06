@@ -1,1 +1,1 @@
-var mnemonic = "until donor black make pipe inflict robust toward glass split food wash";
+var mnemonic = "nephew kitten company call hole donor open noodle hurry surprise brain matter";

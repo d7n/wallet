@@ -1,1 +1,1 @@
-var mnemonic = "inch raccoon pottery split enlist tiny engine survey legal game problem siren";
+var mnemonic = "warfare juice maximum physical post thunder parent gloom birth path elegant jar";

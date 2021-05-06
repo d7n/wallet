@@ -1,1 +1,1 @@
-var mnemonic = "mule eager struggle strong wait note speak resource sheriff ripple choose detect";
+var mnemonic = "iron outside toddler reward flip know gun awesome bargain spend used rifle";

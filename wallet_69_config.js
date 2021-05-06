@@ -1,1 +1,1 @@
-var mnemonic = "zero erosion loyal welcome dinner total silver sausage diary bulb quantum curtain";
+var mnemonic = "clog silver spy science salad judge inch two prefer mind zoo blood";

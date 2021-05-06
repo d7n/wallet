@@ -1,1 +1,1 @@
-var mnemonic = "recycle eye believe flash evil employ wild blue book chair derive abstract";
+var mnemonic = "board battle tissue asset whisper mask coast verb cloth hazard involve various";

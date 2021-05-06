@@ -1,1 +1,1 @@
-var mnemonic = "high course soup half canvas garden october mail dust patrol stand jazz";
+var mnemonic = "fence tree cram lemon slush major narrow drill way rubber day dinner";

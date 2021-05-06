@@ -1,1 +1,1 @@
-var mnemonic = "dutch dizzy equal wait glass canvas indicate ensure tuition feel valve merge";
+var mnemonic = "thunder dance turn history holiday weird next only before resemble early riot";

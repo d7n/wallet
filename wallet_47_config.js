@@ -1,1 +1,1 @@
-var mnemonic = "peace bomb human text nature achieve fun gallery slight parade salute foil";
+var mnemonic = "broccoli accuse vault bacon daughter edit limit ribbon cricket vacuum camera scatter";

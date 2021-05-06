@@ -1,1 +1,1 @@
-var mnemonic = "consider carbon village weather ozone blast feed knock wage sudden baby nature";
+var mnemonic = "human hybrid stuff kit broccoli make matrix abuse gauge split wall memory";

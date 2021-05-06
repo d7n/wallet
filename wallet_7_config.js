@@ -1,1 +1,1 @@
-var mnemonic = "scene snack volcano light admit present lady project close term twice pool";
+var mnemonic = "hour ten allow profit wrong pull nephew author abstract electric venue fly";

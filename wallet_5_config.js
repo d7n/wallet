@@ -1,1 +1,1 @@
-var mnemonic = "consider okay mystery truck angle around culture ghost carbon evoke virus coyote";
+var mnemonic = "promote claim install festival chaos decorate humble pipe guide caught wonder quality";

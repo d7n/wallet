@@ -1,1 +1,1 @@
-var mnemonic = "dynamic decade enemy shoe layer live brother witness trim tumble net bus";
+var mnemonic = "harbor must ripple chimney quit body income hammer carry december shuffle again";

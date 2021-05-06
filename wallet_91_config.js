@@ -1,1 +1,1 @@
-var mnemonic = "vacant special alone fabric blood rough buddy final vote shine injury carry";
+var mnemonic = "tennis black ugly robust unusual sketch hundred walnut another when ozone cover";

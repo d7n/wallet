@@ -1,1 +1,1 @@
-var mnemonic = "lazy tobacco enact empty expand dream swap kiwi easy spring crop reduce";
+var mnemonic = "rack auction mad avoid just truck verb pitch slight winner debris virus";

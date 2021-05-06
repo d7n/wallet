@@ -1,1 +1,1 @@
-var mnemonic = "plate harsh defense lawn lady satisfy uphold hour home outdoor volcano sniff";
+var mnemonic = "anxiety replace bamboo salt inch pelican add entire whale flower prevent maximum";

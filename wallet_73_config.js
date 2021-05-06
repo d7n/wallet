@@ -1,1 +1,1 @@
-var mnemonic = "either bachelor cannon purse ice inquiry arctic fall glad fitness coin stairs";
+var mnemonic = "month rough wine rate snap virus lottery barely jump use normal stadium";

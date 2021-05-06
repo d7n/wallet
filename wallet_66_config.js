@@ -1,1 +1,1 @@
-var mnemonic = "own rose spread cherry thought warrior danger emotion rifle garbage comfort hole";
+var mnemonic = "save vibrant ankle manage boost leopard primary priority clump list toward fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "bus scissors desert aim series toss ginger disorder exit kidney hood pupil";
+var mnemonic = "clutch blanket size mix song pool better pony smile claw window office";

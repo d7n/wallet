@@ -1,1 +1,1 @@
-var mnemonic = "snow orbit reduce robust father core dish tide gospel grape silly manual";
+var mnemonic = "core auction fix sausage click tool trumpet stool control ceiling student city";

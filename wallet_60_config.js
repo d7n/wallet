@@ -1,1 +1,1 @@
-var mnemonic = "sauce enable lumber stem pride region random armor onion scene reveal humble";
+var mnemonic = "easily note couch ahead problem luggage identify fat scare same ozone tone";

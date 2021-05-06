@@ -1,1 +1,1 @@
-var mnemonic = "lounge grocery clutch famous kangaroo budget flower cry clump glad town property";
+var mnemonic = "pelican super pretty clever pretty latin size crew type reveal property couple";

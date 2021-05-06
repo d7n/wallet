@@ -1,1 +1,1 @@
-var mnemonic = "express various birth beauty host hard sign enforce chunk win river ordinary";
+var mnemonic = "razor link alone song slight grace repair cement company rare notable cat";

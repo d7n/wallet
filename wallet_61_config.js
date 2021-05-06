@@ -1,1 +1,1 @@
-var mnemonic = "arrest jelly skate found edit arena neglect immense law click enroll violin";
+var mnemonic = "arrange write upon avocado toilet earn oil soft index sketch pudding minimum";

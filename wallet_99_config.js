@@ -1,1 +1,1 @@
-var mnemonic = "mixed rhythm science judge silk pet mansion toward used develop punch frown";
+var mnemonic = "kick strong idea era exact vintage dragon transfer borrow artist urge snake";

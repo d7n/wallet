@@ -1,1 +1,1 @@
-var mnemonic = "job fringe loan vacuum fan nest open perfect void glad morning recipe";
+var mnemonic = "piano seminar boost region secret accident employ agree million labor begin smoke";

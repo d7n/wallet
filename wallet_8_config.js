@@ -1,1 +1,1 @@
-var mnemonic = "trust crash bundle office ball hip awful route impact tongue shine team";
+var mnemonic = "strong dizzy lesson target roast fall odor sadness feel kind north mesh";

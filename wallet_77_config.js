@@ -1,1 +1,1 @@
-var mnemonic = "worry gun fitness road cycle hen mass shop success soup rich code";
+var mnemonic = "dizzy car shallow nice van item october tuition tiny impact stairs beef";

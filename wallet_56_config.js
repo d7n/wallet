@@ -1,1 +1,1 @@
-var mnemonic = "drip gym return claim bread chief funny image voice safe tackle clutch";
+var mnemonic = "ribbon frequent shoot witness reason dove pair sorry connect disorder sign empower";

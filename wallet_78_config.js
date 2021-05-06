@@ -1,1 +1,1 @@
-var mnemonic = "leopard crater bonus mom tower pact rocket film office debris history leader";
+var mnemonic = "rebel cloud bench volcano crack spray jar vanish dry check reject price";

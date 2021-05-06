@@ -1,1 +1,1 @@
-var mnemonic = "order replace blame much oven arm casual defy impulse length front host";
+var mnemonic = "way hood all scene reason frown mutual around unknown foam sting journey";

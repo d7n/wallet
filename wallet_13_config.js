@@ -1,1 +1,1 @@
-var mnemonic = "voice jump actual connect check build foil love tragic habit quarter inner";
+var mnemonic = "rubber middle dynamic nest host seek brown because silk pretty misery that";

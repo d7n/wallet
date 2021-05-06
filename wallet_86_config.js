@@ -1,1 +1,1 @@
-var mnemonic = "produce frost head tunnel hospital flower garment wealth purse saddle stock fault";
+var mnemonic = "metal course side ostrich trick sunny sugar hello roast enjoy debate define";

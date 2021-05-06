@@ -1,1 +1,1 @@
-var mnemonic = "social put oppose alter action estate clog leader prize artwork alcohol silent";
+var mnemonic = "tooth spoil skirt globe slot split symptom candy hospital entry side device";

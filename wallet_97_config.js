@@ -1,1 +1,1 @@
-var mnemonic = "patch omit salon crater trigger diamond swim disagree topple hope style shed";
+var mnemonic = "grocery text media route clown bench gallery nest page burst card monster";

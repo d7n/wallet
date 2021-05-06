@@ -1,1 +1,1 @@
-var mnemonic = "blush mandate guide another office limit code theory piano silly strong awake";
+var mnemonic = "ordinary crucial assist today erosion walnut prepare once gain aim goose flee";

@@ -1,1 +1,1 @@
-var mnemonic = "produce spirit broccoli image truck time explain hint party prefer solid pulse";
+var mnemonic = "term lake spider option bone guide love detect capital slot wild rather";

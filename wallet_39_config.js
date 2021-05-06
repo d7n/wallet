@@ -1,1 +1,1 @@
-var mnemonic = "ancient cloth imitate intact news right plate stadium theme country prevent wisdom";
+var mnemonic = "fox beef system pair shove erupt version ready absurd paddle maze bid";

@@ -1,1 +1,1 @@
-var mnemonic = "merge popular tobacco hub today renew smile mix load winner nasty cake";
+var mnemonic = "maid chief first fluid advance fall light rack gadget retreat kid alert";

@@ -1,1 +1,1 @@
-var mnemonic = "response impact foil kiss tornado shoulder fan elite web grain suggest dizzy";
+var mnemonic = "supply leg spread comfort inject artefact october wish icon alpha oxygen antique";

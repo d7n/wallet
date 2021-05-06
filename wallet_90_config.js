@@ -1,1 +1,1 @@
-var mnemonic = "expand position rigid legend target behind release habit remember tennis air boss";
+var mnemonic = "design often sample citizen snap hospital piece finish scare erase donkey verify";

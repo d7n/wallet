@@ -1,1 +1,1 @@
-var mnemonic = "theme fade hip lawn calm ketchup someone top order kiss alien hire";
+var mnemonic = "inspire suggest purchase human shove cotton fiscal amazing crisp vague tonight marble";

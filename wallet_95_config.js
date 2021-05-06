@@ -1,1 +1,1 @@
-var mnemonic = "film save group achieve torch share tube viable plate balcony absent gorilla";
+var mnemonic = "skill lock loyal tiny cannon federal fetch pull entry gadget surface fun";

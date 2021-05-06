@@ -1,1 +1,1 @@
-var mnemonic = "lens slab grief expect original page circle speak poverty human memory sponsor";
+var mnemonic = "toss width summer suffer timber gasp suggest never concert acoustic awkward join";

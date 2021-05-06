@@ -1,1 +1,1 @@
-var mnemonic = "volume runway luxury quality tissue barrel brick never slow museum universe spend";
+var mnemonic = "town good rough raw season hawk arrow oil rapid trouble front melody";

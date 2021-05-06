@@ -1,1 +1,1 @@
-var mnemonic = "gold fatigue current worth blanket catch sauce emotion member silver senior rose";
+var mnemonic = "balance cruel sustain economy hill skill degree spray traffic other interest fan";

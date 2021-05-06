@@ -1,1 +1,1 @@
-var mnemonic = "language solar sauce guide nephew cave cupboard either when comic neck robot";
+var mnemonic = "retreat royal face link female index interest milk expose sugar gadget hip";

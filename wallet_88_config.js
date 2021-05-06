@@ -1,1 +1,1 @@
-var mnemonic = "typical depart iron around van current exchange cigar outdoor harbor limit genius";
+var mnemonic = "style dress across violin steak will trap diesel word auction mean paper";

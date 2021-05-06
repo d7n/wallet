@@ -1,1 +1,1 @@
-var mnemonic = "congress device mesh arena basic shift rural public fault elder elbow dentist";
+var mnemonic = "primary prevent glimpse february patch delay crater beauty round armor rocket north";

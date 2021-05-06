@@ -1,1 +1,1 @@
-var mnemonic = "soon drastic discover kiwi hawk width select mutual can kiwi strike example";
+var mnemonic = "mammal disorder pull assume awake custom space topic indicate track keen flavor";

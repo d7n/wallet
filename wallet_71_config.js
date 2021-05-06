@@ -1,1 +1,1 @@
-var mnemonic = "alone dynamic cradle cherry huge emerge dignity payment unique rabbit rebuild lumber";
+var mnemonic = "scrub kick forward farm diet august critic cinnamon protect drive tongue beef";

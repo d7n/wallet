@@ -1,1 +1,1 @@
-var mnemonic = "ship eight relief ensure mouse beach gather group marble apart enemy minimum";
+var mnemonic = "dose boss say sign slam vanish alcohol swarm cargo useful consider uphold";

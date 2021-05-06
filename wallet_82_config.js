@@ -1,1 +1,1 @@
-var mnemonic = "rescue history afford august increase tornado village minor pool chimney index innocent";
+var mnemonic = "below snap asthma glimpse doll license brain tape kiwi inhale ranch case";

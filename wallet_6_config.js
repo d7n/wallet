@@ -1,1 +1,1 @@
-var mnemonic = "onion able wrist protect safe law account trap label page have shed";
+var mnemonic = "unveil horn twice flame group buffalo brother abuse weather usage town kitchen";

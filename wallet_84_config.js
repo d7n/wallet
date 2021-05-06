@@ -1,1 +1,1 @@
-var mnemonic = "grass muffin quantum hair ice wood intact there tongue ghost camp labor";
+var mnemonic = "manage husband ripple plastic gold cluster lonely field fitness basket never save";

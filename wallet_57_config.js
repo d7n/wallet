@@ -1,1 +1,1 @@
-var mnemonic = "parent wing pizza grant brisk mad off wage vehicle alone guitar giraffe";
+var mnemonic = "couch basket major hair lazy drastic cross teach hat earn type hammer";

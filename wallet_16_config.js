@@ -1,1 +1,1 @@
-var mnemonic = "column crystal infant mouse image quiz surprise box chat collect rival mutual";
+var mnemonic = "define lobster wrong amateur neglect great play neutral danger require round young";

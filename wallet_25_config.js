@@ -1,1 +1,1 @@
-var mnemonic = "robot utility lonely nation clown robust uniform attract perfect slow matter path";
+var mnemonic = "evil pyramid once acquire hero cream bounce electric glad emerge wool plastic";

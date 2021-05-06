@@ -1,1 +1,1 @@
-var mnemonic = "charge food state wrong ginger drop divert divide clog client next eight";
+var mnemonic = "person garment volume silver toss napkin check alter cup shoot license six";

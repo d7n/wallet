@@ -1,1 +1,1 @@
-var mnemonic = "security eyebrow size actual crunch ketchup clean dune develop elevator crouch van";
+var mnemonic = "maze guard crisp shuffle neglect people promote armor solution mass busy sure";

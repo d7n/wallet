@@ -1,1 +1,1 @@
-var mnemonic = "shaft trouble crowd train wire convince monster coral midnight crowd build early";
+var mnemonic = "member social fitness attend hope wasp come repair security dinosaur manual amount";

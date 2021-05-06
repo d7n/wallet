@@ -1,1 +1,1 @@
-var mnemonic = "portion thumb orange pyramid chuckle obvious home sentence silent photo refuse canyon";
+var mnemonic = "make noodle feel collect donkey pigeon dream swim puppy example impact orange";
