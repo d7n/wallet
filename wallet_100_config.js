@@ -1,1 +1,1 @@
-var mnemonic = "laundry slot husband gold primary carry traffic bonus owner buddy fly ethics";
+var mnemonic = "poverty idea avocado funny basic twist trigger wink list dentist typical quality";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion success dish normal consider turtle island uncle fence outer rocket brush";
+var mnemonic = "gauge final family exist reflect stand select play high anxiety case cotton";

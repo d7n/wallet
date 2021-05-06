@@ -1,1 +1,1 @@
-var mnemonic = "large mouse diet timber dentist across valley upgrade trash angle bind rocket";
+var mnemonic = "drastic bulb crew young punch minor render opera hand twice salon half";

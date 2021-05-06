@@ -1,1 +1,1 @@
-var mnemonic = "water odor thumb valley shrimp boss until account praise enroll lesson quality";
+var mnemonic = "super goddess junk success elegant flash under uniform diet vote poet matrix";

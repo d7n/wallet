@@ -1,1 +1,1 @@
-var mnemonic = "trim apology now erode palace popular trust lens suit capable debris virus";
+var mnemonic = "income expand quote same chimney museum knee mesh toilet awake stock large";

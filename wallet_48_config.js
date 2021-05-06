@@ -1,1 +1,1 @@
-var mnemonic = "dizzy snake bonus stage grief egg elevator absurd parent liquid paper black";
+var mnemonic = "age syrup call famous milk exercise neck goat snap luxury evoke season";

@@ -1,1 +1,1 @@
-var mnemonic = "object main address company high force example grant prepare fee census opinion";
+var mnemonic = "any panic reflect height letter project image physical tree curve vapor grit";

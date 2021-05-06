@@ -1,1 +1,1 @@
-var mnemonic = "globe area violin yellow winner fame party arch maximum match crash kit";
+var mnemonic = "index tube myself install base stem student census actual armor position deny";

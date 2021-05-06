@@ -1,1 +1,1 @@
-var mnemonic = "twin front fiscal worry spice boring holiday honey wall inmate pony melt";
+var mnemonic = "wine under skirt diagram remain depth hunt ostrich color damp paddle note";

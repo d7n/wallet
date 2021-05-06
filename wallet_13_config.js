@@ -1,1 +1,1 @@
-var mnemonic = "aunt agent fatigue body main noble hood nose merry dish hope captain";
+var mnemonic = "method useless tube embark brass wife limb steak mouse brother price choice";

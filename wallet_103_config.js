@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow charge quit verify extra life breeze eye found tourist volume ghost";
+var mnemonic = "click network hundred grunt task champion job volume mixed offer twist have";

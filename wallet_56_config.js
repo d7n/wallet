@@ -1,1 +1,1 @@
-var mnemonic = "much connect crack ticket never myself fruit embrace snow enforce depart quarter";
+var mnemonic = "dinner dust girl tonight clutch decrease below fury intact rare chimney dress";

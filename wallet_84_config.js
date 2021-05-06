@@ -1,1 +1,1 @@
-var mnemonic = "pear clinic junk onion arctic service history kangaroo fan brief chair drama";
+var mnemonic = "oblige elder kid urban junior vessel clay region garage because script alpha";

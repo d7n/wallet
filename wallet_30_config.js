@@ -1,1 +1,1 @@
-var mnemonic = "army record super twin ask enroll flame antique race liquid thing raven";
+var mnemonic = "sample tenant surface kingdom seek fit mask already gift kind twist kangaroo";

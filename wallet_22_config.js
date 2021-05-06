@@ -1,1 +1,1 @@
-var mnemonic = "social fame analyst usage poem prevent basket light nation cool walk hero";
+var mnemonic = "robot monkey radar apology country web cage charge loan coast effort pact";

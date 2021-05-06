@@ -1,1 +1,1 @@
-var mnemonic = "refuse clarify portion magnet athlete maze churn pride choice man slogan canvas";
+var mnemonic = "upgrade gate garlic half wing phone rate success damage exist come boost";

@@ -1,1 +1,1 @@
-var mnemonic = "frog goat reopen peanut wink shop snow thrive pause interest invest neutral";
+var mnemonic = "run answer below burger industry crane police hover ask orchard cherry view";

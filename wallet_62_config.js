@@ -1,1 +1,1 @@
-var mnemonic = "state spend install person era opera neither medal universe indicate dignity forget";
+var mnemonic = "expect whale trash canyon motor alert shell jeans diamond chest safe tip";

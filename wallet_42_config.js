@@ -1,1 +1,1 @@
-var mnemonic = "panel reveal gold know reunion sock game undo metal wealth elbow express";
+var mnemonic = "omit diagram peanut plug nerve when market swamp chef open velvet harbor";

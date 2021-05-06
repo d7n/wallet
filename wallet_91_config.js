@@ -1,1 +1,1 @@
-var mnemonic = "vacuum arctic uncle earth apart furnace step client device mesh soldier veteran";
+var mnemonic = "shy stairs midnight seek rude stick spike put pudding long dumb estate";

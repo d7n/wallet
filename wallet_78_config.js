@@ -1,1 +1,1 @@
-var mnemonic = "slender grunt seek ivory asthma roast tongue total solution nasty chronic rough";
+var mnemonic = "sand evolve foil entire elevator denial plastic elder primary sheriff oyster cycle";

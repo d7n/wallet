@@ -1,1 +1,1 @@
-var mnemonic = "winner chunk cable autumn deal surround flat acid blanket document mutual select";
+var mnemonic = "jacket swift jar airport sword useful kit equal dance exile garage manual";

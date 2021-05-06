@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog street target stairs life style father ostrich fire foster sudden tired";
+var mnemonic = "lemon road level okay bar endorse coral twist excite unable adjust desert";

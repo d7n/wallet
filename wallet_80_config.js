@@ -1,1 +1,1 @@
-var mnemonic = "hero normal never party giant wreck debris between train human bid nurse";
+var mnemonic = "lizard tattoo delay chunk possible guard conduct rough nature impose noise crack";

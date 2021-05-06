@@ -1,1 +1,1 @@
-var mnemonic = "this float mass degree math protect reveal virtual nose lucky wave mother";
+var mnemonic = "air actual conduct wise capital all car horror hospital eyebrow frown monster";

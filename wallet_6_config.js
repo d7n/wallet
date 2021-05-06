@@ -1,1 +1,1 @@
-var mnemonic = "agent initial grit firm believe sense warm joke program nuclear journey scatter";
+var mnemonic = "plastic aim economy drama collect mom argue maple soccer narrow boss fuel";

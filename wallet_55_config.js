@@ -1,1 +1,1 @@
-var mnemonic = "jacket seat yellow orphan phrase comfort message regular push food cage visit";
+var mnemonic = "true occur spatial echo barely dance music spy sustain thumb submit happy";

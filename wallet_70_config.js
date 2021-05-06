@@ -1,1 +1,1 @@
-var mnemonic = "will suggest shift until orange scout person august cart entire brown cousin";
+var mnemonic = "record grunt baby quick major master hidden swarm green scale minor foot";

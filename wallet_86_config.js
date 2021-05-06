@@ -1,1 +1,1 @@
-var mnemonic = "finish powder club muscle protect switch survey roast caught zoo explain dismiss";
+var mnemonic = "trophy glad box result mammal inner lunch ski blouse foster unusual armor";

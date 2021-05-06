@@ -1,1 +1,1 @@
-var mnemonic = "power antenna bright easily reflect acquire sight bubble box syrup video among";
+var mnemonic = "leader lunar peanut uncle dawn together pretty world leader speak tennis creek";

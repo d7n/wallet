@@ -1,1 +1,1 @@
-var mnemonic = "siren anger next report tilt fresh large shoulder hurry man sense oppose";
+var mnemonic = "wagon capital giraffe margin like drop boost crop destroy island sausage scout";

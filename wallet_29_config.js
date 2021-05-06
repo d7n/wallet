@@ -1,1 +1,1 @@
-var mnemonic = "antique learn vague knife visual trick season tennis abandon borrow clean guard";
+var mnemonic = "wisdom science alter ozone together open web leader ozone ensure aerobic sick";

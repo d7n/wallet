@@ -1,1 +1,1 @@
-var mnemonic = "path sad gown saddle cause divorce climb timber envelope duty humble river";
+var mnemonic = "neck victory unlock fury busy tone panda cry daring author early harbor";

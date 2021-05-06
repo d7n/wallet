@@ -1,1 +1,1 @@
-var mnemonic = "myself list fury pulse mean vendor filter crawl garment label liberty rapid";
+var mnemonic = "release people smooth move moment together fall inflict post grain coast smoke";

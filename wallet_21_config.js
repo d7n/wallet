@@ -1,1 +1,1 @@
-var mnemonic = "shoot bundle negative planet group buyer turtle river apart globe among neglect";
+var mnemonic = "betray wrist oven nest sibling surprise awful ocean upset display chef universe";

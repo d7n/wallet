@@ -1,1 +1,1 @@
-var mnemonic = "shield someone banner miss govern virus security check elephant this donor water";
+var mnemonic = "kidney across net destroy negative track naive minimum arrow security manual alarm";

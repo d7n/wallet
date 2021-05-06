@@ -1,1 +1,1 @@
-var mnemonic = "ladder famous fatal uncle jealous curious embrace couch umbrella fit mimic join";
+var mnemonic = "evil want benefit harbor detail spider skate tattoo veteran awful unique mixture";

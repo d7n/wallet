@@ -1,1 +1,1 @@
-var mnemonic = "cool poem tide wing girl tower chair loop lobster maze punch gun";
+var mnemonic = "inhale angle shy much relax drastic myth sight garbage list hybrid regret";

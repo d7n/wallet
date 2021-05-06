@@ -1,1 +1,1 @@
-var mnemonic = "gorilla purpose ship kiwi thunder negative bonus early blast myth angry junior";
+var mnemonic = "elbow tool strong knee rice great pudding clarify annual kick fold alley";

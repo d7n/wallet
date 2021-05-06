@@ -1,1 +1,1 @@
-var mnemonic = "depart increase depth juice first awake mouse build romance hire invite home";
+var mnemonic = "write neglect please camera palm time nature remind quick bird enough lunar";

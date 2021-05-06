@@ -1,1 +1,1 @@
-var mnemonic = "prevent act creek friend alcohol cross thank escape sauce exchange nasty angry";
+var mnemonic = "hour either scrub inner goose enjoy essay afraid special champion nature child";

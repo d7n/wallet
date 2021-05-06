@@ -1,1 +1,1 @@
-var mnemonic = "suggest wreck seminar exit sunset search gap jeans nose evidence myself sure";
+var mnemonic = "dignity inspire obtain eager actor guitar captain bounce radio neutral inhale remember";

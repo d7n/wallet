@@ -1,1 +1,1 @@
-var mnemonic = "word spoon source wife dinosaur wolf diary shop outside retire pass cupboard";
+var mnemonic = "pluck glory slam river pill chunk glass forum casino firm deposit alpha";

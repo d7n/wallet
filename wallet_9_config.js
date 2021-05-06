@@ -1,1 +1,1 @@
-var mnemonic = "excite brown climb razor heavy ribbon danger host once useless dish episode";
+var mnemonic = "supply obey useless usage must cousin load boss bone slam bacon match";

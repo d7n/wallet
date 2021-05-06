@@ -1,1 +1,1 @@
-var mnemonic = "october lava essence trust garbage mix hidden until idea double layer indoor";
+var mnemonic = "benefit agent anchor bitter senior wrap rail step trust blur coast breeze";

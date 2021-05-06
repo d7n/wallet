@@ -1,1 +1,1 @@
-var mnemonic = "hair host exile wait nut weasel reflect cruise garbage decide bicycle capital";
+var mnemonic = "laugh suit script pen busy style deny place cabbage tip fashion include";

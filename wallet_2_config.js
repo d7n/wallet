@@ -1,1 +1,1 @@
-var mnemonic = "sound twin alone tornado agree version apart saddle found market state one";
+var mnemonic = "park dwarf code result chapter turn girl hospital size negative gauge erase";

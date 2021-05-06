@@ -1,1 +1,1 @@
-var mnemonic = "own donor day repeat ugly drum choose gospel audit check clock climb";
+var mnemonic = "arctic actual few reunion genuine issue steel boss entry sunset nest junk";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy grace twelve chef output snake noodle special base draw horse tip";
+var mnemonic = "eagle camp damp wheel mass review oak flash spatial sunset spirit receive";

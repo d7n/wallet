@@ -1,1 +1,1 @@
-var mnemonic = "better victory social memory gym mountain mammal pipe harsh detect invest try";
+var mnemonic = "alert broken material paddle before awful learn sadness hedgehog thumb basic upgrade";

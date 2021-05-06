@@ -1,1 +1,1 @@
-var mnemonic = "runway border quote friend name gym cable reduce pull section frog grow";
+var mnemonic = "summer tape move hire wet ozone pen home spray kid youth good";

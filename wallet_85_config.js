@@ -1,1 +1,1 @@
-var mnemonic = "assist uncle fortune razor feed galaxy hidden rib manual file lava series";
+var mnemonic = "spoil dismiss flight chef else illness weekend route satisfy critic airport robot";

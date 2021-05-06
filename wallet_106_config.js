@@ -1,1 +1,1 @@
-var mnemonic = "great predict subway motor dilemma vote alley agree agree argue typical ketchup";
+var mnemonic = "subway alter version silk crater frame penalty sunny extend use pool dog";

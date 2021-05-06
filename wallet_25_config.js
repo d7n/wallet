@@ -1,1 +1,1 @@
-var mnemonic = "rapid brown auction nasty kiwi six salute gift area practice miss company";
+var mnemonic = "slush volcano mountain connect hurt harvest sail chicken snack pole odor change";

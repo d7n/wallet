@@ -1,1 +1,1 @@
-var mnemonic = "odor shiver orchard review random weasel purse taste curious castle stereo parrot";
+var mnemonic = "essence tone melt build boat crucial creek best deal journey vintage citizen";

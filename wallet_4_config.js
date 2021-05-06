@@ -1,1 +1,1 @@
-var mnemonic = "area arm advice sponsor long grocery evoke main violin process differ arch";
+var mnemonic = "screen task salad teach dog home else debris fit pole place debris";

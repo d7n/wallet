@@ -1,1 +1,1 @@
-var mnemonic = "maid oven brave please conduct riot rally attract metal fox blue exercise";
+var mnemonic = "fee change secret subway basket brown pupil mimic lake honey unknown valve";

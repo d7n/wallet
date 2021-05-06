@@ -1,1 +1,1 @@
-var mnemonic = "scale near tortoise can scan draw shoe repeat index south flash vessel";
+var mnemonic = "moral leaf club barrel van again shell auction fabric fashion thank leave";

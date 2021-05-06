@@ -1,1 +1,1 @@
-var mnemonic = "dumb plunge siren tiny nice wisdom shell cabbage shrimp work mobile away";
+var mnemonic = "carry ill crush axis review debris learn laundry soul pass never flame";

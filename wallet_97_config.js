@@ -1,1 +1,1 @@
-var mnemonic = "fuel shed swift dad illegal pizza tornado stem lawn earth can whale";
+var mnemonic = "deal morning original ladder fan ill boring biology venture group blanket winter";

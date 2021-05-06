@@ -1,1 +1,1 @@
-var mnemonic = "snap orient pigeon fade matter figure ticket vacuum weapon kind fat nation";
+var mnemonic = "green grid pretty genius tuition industry mechanic venture swarm catch erase wife";

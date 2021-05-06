@@ -1,1 +1,1 @@
-var mnemonic = "transfer actual midnight review possible parent gossip yellow express involve dream wedding";
+var mnemonic = "artwork case lesson green gesture expose chicken fork inside fat furnace riot";

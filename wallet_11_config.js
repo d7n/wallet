@@ -1,1 +1,1 @@
-var mnemonic = "surprise merit enroll exist fashion loud mercy empower grape series rich human";
+var mnemonic = "slush easily weasel involve favorite input amused actress correct sick ecology water";

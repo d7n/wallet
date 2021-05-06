@@ -1,1 +1,1 @@
-var mnemonic = "grab vacant host seed barrel obtain sad used correct raise gesture earth";
+var mnemonic = "minor assault enough elder month quick daughter finish state perfect lazy avoid";

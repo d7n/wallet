@@ -1,1 +1,1 @@
-var mnemonic = "shadow scare gift test slice post matrix strike fabric rubber feel lend";
+var mnemonic = "list prepare improve maple mandate chuckle rely expire right age next pizza";

@@ -1,1 +1,1 @@
-var mnemonic = "travel stage naive steak know swamp merry mobile hard glad sentence element";
+var mnemonic = "soccer bullet toward cradle embark pudding joy tunnel history myself virtual absorb";

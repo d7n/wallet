@@ -1,1 +1,1 @@
-var mnemonic = "anger peanut runway caution year fragile blame teach panic muscle peanut vicious";
+var mnemonic = "convince eagle helmet diagram vast inspire kitten heavy rude wide butter warrior";

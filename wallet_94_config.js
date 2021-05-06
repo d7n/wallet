@@ -1,1 +1,1 @@
-var mnemonic = "enrich ski stomach moon bamboo dwarf ugly warfare prize draw hole mind";
+var mnemonic = "vapor way region horn crater roast place throw smile discover mountain rule";

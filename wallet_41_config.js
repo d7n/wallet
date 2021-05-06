@@ -1,1 +1,1 @@
-var mnemonic = "cloth chase seat slide acquire vault umbrella outside abstract upper task exotic";
+var mnemonic = "afford universe voice column zoo rocket issue link bamboo dignity whip ready";

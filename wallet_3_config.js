@@ -1,1 +1,1 @@
-var mnemonic = "camera gift uncle beach luggage rebuild market feed among praise rebuild lend";
+var mnemonic = "pelican little mom spirit slight turtle hungry history hood drama replace magnet";

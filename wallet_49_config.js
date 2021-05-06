@@ -1,1 +1,1 @@
-var mnemonic = "finish endless heart divorce among glance repair fancy surround brand genre grow";
+var mnemonic = "mansion ivory connect meat viable obtain chase light protect toward angle ladder";

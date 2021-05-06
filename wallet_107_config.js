@@ -1,1 +1,1 @@
-var mnemonic = "company deal endorse milk item night hazard execute spend fame notice run";
+var mnemonic = "mutual scene gorilla present heavy artwork electric switch please fatigue tennis battle";

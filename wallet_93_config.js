@@ -1,1 +1,1 @@
-var mnemonic = "autumn photo kingdom spatial dry humble close side victory machine neglect ten";
+var mnemonic = "battle soul frozen dumb stool estate clap success expect miss marine hover";

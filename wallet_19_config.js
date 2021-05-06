@@ -1,1 +1,1 @@
-var mnemonic = "father shell bronze betray awful trick glide sunset eye about hint because";
+var mnemonic = "cage impose coral resemble void brave pattern treat fine ritual sister parent";

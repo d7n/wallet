@@ -1,1 +1,1 @@
-var mnemonic = "promote venture creek maze country wife tiger apple walk forum grocery few";
+var mnemonic = "paper island audit garbage custom taste unlock list gun song cage blast";

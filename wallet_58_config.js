@@ -1,1 +1,1 @@
-var mnemonic = "marble tape quantum tank warfare cinnamon crush protect dove stick fish staff";
+var mnemonic = "own brother reason rigid toddler crunch goose fever until pistol lucky snap";

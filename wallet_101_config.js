@@ -1,1 +1,1 @@
-var mnemonic = "capital feature inmate copper slight elevator ketchup despair enemy cool able concert";
+var mnemonic = "scan diary gaze crime best basic baby tree chapter best length traffic";

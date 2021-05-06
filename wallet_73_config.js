@@ -1,1 +1,1 @@
-var mnemonic = "hover kite spread final once segment feature meat ignore name fiber movie";
+var mnemonic = "reason october fancy pluck army frame collect change rude glad deputy busy";

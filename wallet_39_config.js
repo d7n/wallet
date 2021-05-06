@@ -1,1 +1,1 @@
-var mnemonic = "grass tooth hint point input brother consider humble open patient now zone";
+var mnemonic = "rough volume crumble vibrant remind spread crunch kitchen run sponsor orange surprise";

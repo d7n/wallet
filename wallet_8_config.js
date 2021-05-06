@@ -1,1 +1,1 @@
-var mnemonic = "nest region swear crowd hub wool fancy warfare forward rare art dune";
+var mnemonic = "relax fabric cave fetch degree nature olive target present banana chapter casual";

@@ -1,1 +1,1 @@
-var mnemonic = "capable quick diesel stem device nice drop cement word attack renew wheel";
+var mnemonic = "ticket void pizza winner unit clerk night moment milk item assist weasel";

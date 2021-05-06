@@ -1,1 +1,1 @@
-var mnemonic = "depart mask kid move remember guitar hero track task stove diamond volcano";
+var mnemonic = "lawsuit faculty broken lounge erosion bargain carpet load napkin story humble around";

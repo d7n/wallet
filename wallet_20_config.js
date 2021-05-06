@@ -1,1 +1,1 @@
-var mnemonic = "truth girl twelve clown initial movie drip write march clay toe kiwi";
+var mnemonic = "middle guide other doll library feel train matter trap around grocery tattoo";

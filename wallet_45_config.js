@@ -1,1 +1,1 @@
-var mnemonic = "cotton fatal effort lucky rice shop diary butter flag hybrid fever agree";
+var mnemonic = "shallow announce dress warm once brother raise kick impose require better bronze";

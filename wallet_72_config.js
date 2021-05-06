@@ -1,1 +1,1 @@
-var mnemonic = "drill juice forget crawl palace myself autumn cabin fence cricket peanut laugh";
+var mnemonic = "flight art over grab silver cannon load stamp rose toast soldier valve";

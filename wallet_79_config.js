@@ -1,1 +1,1 @@
-var mnemonic = "hard kite bamboo farm change sleep hundred embark grid enhance wheel burst";
+var mnemonic = "sentence miracle among head virus apology lonely tunnel sample wealth one blossom";

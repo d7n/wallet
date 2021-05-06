@@ -1,1 +1,1 @@
-var mnemonic = "draw place talent dizzy wisdom travel easily stick cart cement call doll";
+var mnemonic = "execute claw perfect churn senior fog easy post feel coyote olympic daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer coast bulk village dish color scene hungry ginger two nice honey";
+var mnemonic = "spend sorry guard cannon inquiry flush anchor elevator pride faint genre subway";

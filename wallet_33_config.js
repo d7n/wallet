@@ -1,1 +1,1 @@
-var mnemonic = "goat whisper inspire price chicken between depend random dog setup noodle cushion";
+var mnemonic = "scan wave achieve army ethics plunge clog gas horse tiny flock father";

@@ -1,1 +1,1 @@
-var mnemonic = "learn elbow clean check amazing debris turn awake equal dash park home";
+var mnemonic = "virtual trade focus library planet oxygen about scorpion couple impact hello cave";

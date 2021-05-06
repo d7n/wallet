@@ -1,1 +1,1 @@
-var mnemonic = "hurdle mammal hover refuse universe used upper force dignity fitness nut drill";
+var mnemonic = "glory net gravity armed drill throw clock mistake accuse receive piece green";
