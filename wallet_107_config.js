@@ -1,1 +1,1 @@
-var mnemonic = "inquiry invite shove candy put dose satisfy crew autumn olive garden doll";
+var mnemonic = "reveal shaft borrow under cable solve bridge task kitchen stem pitch make";

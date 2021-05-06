@@ -1,1 +1,1 @@
-var mnemonic = "better autumn across notice joy drive dirt connect onion cliff toy label";
+var mnemonic = "derive evil nut demise light ski tongue nephew vibrant price jazz stay";

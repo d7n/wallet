@@ -1,1 +1,1 @@
-var mnemonic = "detail country virtual finish journey ankle parent need cute frown aim punch";
+var mnemonic = "mountain waste roast check say slam aisle left behind field isolate message";

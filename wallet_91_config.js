@@ -1,1 +1,1 @@
-var mnemonic = "scorpion vocal fox property obtain service wonder perfect seven knife enact crane";
+var mnemonic = "truck lottery child rifle cannon yard reopen day word give danger defense";

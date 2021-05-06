@@ -1,1 +1,1 @@
-var mnemonic = "tail goddess bike animal tree thing public enact result lottery crawl square";
+var mnemonic = "spin engine room shock among black glass gospel clap network fatal fever";

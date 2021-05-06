@@ -1,1 +1,1 @@
-var mnemonic = "health village buffalo side three kitchen silly eager improve thing offer fit";
+var mnemonic = "ridge cup text regret happy dinner school green post grass fever picture";

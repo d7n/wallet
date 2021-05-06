@@ -1,1 +1,1 @@
-var mnemonic = "idea chronic tip tray grace carry tissue oppose credit loud sheriff candy";
+var mnemonic = "banana tissue slam devote decade pluck slender recipe olympic used filter boil";

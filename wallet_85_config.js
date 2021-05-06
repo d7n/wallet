@@ -1,1 +1,1 @@
-var mnemonic = "mechanic citizen insane kid doctor move update hazard drill rural rapid slush";
+var mnemonic = "pole rocket tag turn wild old game right control draft sport spin";

@@ -1,1 +1,1 @@
-var mnemonic = "soon march seat clarify kangaroo bounce hello about present light flame sword";
+var mnemonic = "water problem off film spin brave crucial company slide lobster when mail";

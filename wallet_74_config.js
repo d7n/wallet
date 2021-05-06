@@ -1,1 +1,1 @@
-var mnemonic = "brick arrange surprise lazy betray pattern enhance adult piece assault fog return";
+var mnemonic = "jacket river dinner mango erase nature praise juice stomach debris fabric leisure";

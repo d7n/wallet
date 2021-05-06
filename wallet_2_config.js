@@ -1,1 +1,1 @@
-var mnemonic = "citizen nature approve focus dwarf donate fit control bounce snow garage attend";
+var mnemonic = "glove ritual right settle fiber off hair latin someone orient icon hybrid";

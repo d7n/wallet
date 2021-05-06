@@ -1,1 +1,1 @@
-var mnemonic = "amount write prize doll wheat own blouse clap action output involve lawsuit";
+var mnemonic = "neutral voyage lion own orient setup unusual palm news collect wheat appear";

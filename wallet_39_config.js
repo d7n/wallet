@@ -1,1 +1,1 @@
-var mnemonic = "work tent mimic miracle speak question pretty dice develop shaft bike arrive";
+var mnemonic = "topic drastic spoon place regret invest weekend obtain loud travel casual genuine";

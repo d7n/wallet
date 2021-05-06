@@ -1,1 +1,1 @@
-var mnemonic = "group grab alien state novel labor essence build omit helmet door more";
+var mnemonic = "yellow pyramid master tragic spot scan donate pencil corn law inside spirit";

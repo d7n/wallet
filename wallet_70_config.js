@@ -1,1 +1,1 @@
-var mnemonic = "program erase gesture pudding warrior couple rent swim scissors flash custom voice";
+var mnemonic = "category first accuse carry visit virus wrist caution exhaust hero around oppose";

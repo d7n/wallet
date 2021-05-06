@@ -1,1 +1,1 @@
-var mnemonic = "west random false tiger approve defense model sword business hire found mercy";
+var mnemonic = "clay style anger crew claim acquire kingdom bomb certain turn casual neck";

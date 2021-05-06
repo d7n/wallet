@@ -1,1 +1,1 @@
-var mnemonic = "pizza lunch eagle train pond leopard control suggest twice addict tower coral";
+var mnemonic = "gasp cliff crisp oil bomb relax damp fancy fame double move traffic";

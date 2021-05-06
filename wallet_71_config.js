@@ -1,1 +1,1 @@
-var mnemonic = "cool bag exist seek six patch save afford gift knife opinion athlete";
+var mnemonic = "afraid rice between sibling velvet strike hospital wide model opinion obey company";

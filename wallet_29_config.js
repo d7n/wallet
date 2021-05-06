@@ -1,1 +1,1 @@
-var mnemonic = "green patient breeze cram town awesome possible elegant satisfy attack repeat forum";
+var mnemonic = "giraffe load laundry swing artefact soft soap ask entry want long pond";

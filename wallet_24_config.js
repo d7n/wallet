@@ -1,1 +1,1 @@
-var mnemonic = "infant nose panic fiscal setup parade start science door before large pigeon";
+var mnemonic = "strike witness rose various issue height retreat turkey card scissors pilot dose";

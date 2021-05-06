@@ -1,1 +1,1 @@
-var mnemonic = "delay bacon enrich timber average spatial false swing sausage category plate second";
+var mnemonic = "entire creek traffic that category oppose legend pen negative season task bicycle";

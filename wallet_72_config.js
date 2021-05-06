@@ -1,1 +1,1 @@
-var mnemonic = "seminar rain property glow pill attack curtain uncover reason sauce canyon country";
+var mnemonic = "demise deputy seven usage advance problem shove door quick hand nut pepper";

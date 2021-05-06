@@ -1,1 +1,1 @@
-var mnemonic = "term world mother hill music firm knife any correct analyst neutral deal";
+var mnemonic = "tree lecture clump grunt dash celery glare hotel build minimum glare safe";

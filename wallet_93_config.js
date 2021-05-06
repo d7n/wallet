@@ -1,1 +1,1 @@
-var mnemonic = "void also travel dizzy bleak distance increase faith soul scrap loan carpet";
+var mnemonic = "chunk earth render blind merge price choice rent account math major indicate";

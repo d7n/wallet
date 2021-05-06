@@ -1,1 +1,1 @@
-var mnemonic = "dune connect cause grunt razor struggle horn happy extra square game size";
+var mnemonic = "pitch draft juice caution swing scheme humble step file taste purity region";

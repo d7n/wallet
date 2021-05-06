@@ -1,1 +1,1 @@
-var mnemonic = "mule pill torch link flavor aisle beyond coconut hundred field jacket ice";
+var mnemonic = "catalog kidney spoil hybrid size wash blast twist electric trick flavor cricket";

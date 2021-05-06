@@ -1,1 +1,1 @@
-var mnemonic = "ecology ghost impose return luxury fiction foam dynamic stomach circle crucial actress";
+var mnemonic = "topic rebuild tortoise steak twenty middle weasel nature debris near hub armed";

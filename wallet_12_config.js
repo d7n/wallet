@@ -1,1 +1,1 @@
-var mnemonic = "sort elevator planet popular hello boat muscle shaft laptop carry program lucky";
+var mnemonic = "cliff truly swing impose smart pudding gun assist inspire fancy risk motion";

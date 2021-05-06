@@ -1,1 +1,1 @@
-var mnemonic = "gentle slow fix sentence burst awkward canal lottery twist refuse swamp pitch";
+var mnemonic = "fever clean push coil student weapon sheriff holiday ability risk sauce symptom";

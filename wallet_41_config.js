@@ -1,1 +1,1 @@
-var mnemonic = "seven feed year remember raise wide common strategy matrix another loud sadness";
+var mnemonic = "conduct slush argue plug orbit output initial assist toast cute dinner guess";

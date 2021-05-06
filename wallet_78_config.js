@@ -1,1 +1,1 @@
-var mnemonic = "want human brisk powder anxiety again mercy more nose divide another dish";
+var mnemonic = "practice broken parrot ancient fancy leader conduct water few sword glory wage";

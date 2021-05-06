@@ -1,1 +1,1 @@
-var mnemonic = "prison badge stem vocal turkey tower fan project enjoy finish gauge rack";
+var mnemonic = "goat fury chunk visual mandate young extend exercise lend pioneer minor hybrid";

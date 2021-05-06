@@ -1,1 +1,1 @@
-var mnemonic = "exchange season slice help little appear swing become pill attitude title brown";
+var mnemonic = "barely palace spoon romance sauce web surprise lawn pilot diary market flat";

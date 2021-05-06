@@ -1,1 +1,1 @@
-var mnemonic = "zebra snake push canyon fitness weird solve beef science afraid card era";
+var mnemonic = "fancy simple attend nut universe cash worth satoshi file sure jar board";

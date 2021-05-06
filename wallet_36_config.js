@@ -1,1 +1,1 @@
-var mnemonic = "bag grace public rookie give pond trigger rug outside basic aerobic airport";
+var mnemonic = "warm clarify soft hollow achieve skirt chronic lesson shoot drip roast inner";

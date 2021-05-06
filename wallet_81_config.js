@@ -1,1 +1,1 @@
-var mnemonic = "hollow sort stamp female logic keep bachelor fiction unlock section cart athlete";
+var mnemonic = "muffin room lobster churn notice ride better chase open journey error silver";

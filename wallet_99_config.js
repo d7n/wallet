@@ -1,1 +1,1 @@
-var mnemonic = "produce brisk prosper select please together program random fragile cargo hero subject";
+var mnemonic = "allow pioneer pepper umbrella coach apart limb happy clog scare vast tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "humble chase snack fun year next ordinary spot pear ivory alert boy";
+var mnemonic = "drop luxury another man gym auto world rotate cactus switch output puzzle";

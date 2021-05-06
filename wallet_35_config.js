@@ -1,1 +1,1 @@
-var mnemonic = "water zone enable blade garbage buzz stable parrot vault debate head worry";
+var mnemonic = "keen ecology auction erosion kidney exact boat faculty elevator join mystery balance";

@@ -1,1 +1,1 @@
-var mnemonic = "powder despair video clip fashion history zoo bachelor agree monster joke clarify";
+var mnemonic = "source unlock twist thumb curious spatial radio junk such snack kiwi merge";

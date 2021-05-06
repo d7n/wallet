@@ -1,1 +1,1 @@
-var mnemonic = "height void secret birth manage isolate defense acoustic virtual private fatal strike";
+var mnemonic = "kitten tourist capable blanket boss furnace canyon focus panther bargain doctor neck";

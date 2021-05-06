@@ -1,1 +1,1 @@
-var mnemonic = "bottom february never real strike upgrade code hamster attitude project devote field";
+var mnemonic = "sport valve avoid garbage outdoor husband army diary copper alter attack crack";

@@ -1,1 +1,1 @@
-var mnemonic = "nice ski used series valve spell medal custom need pig diesel impact";
+var mnemonic = "bottom north ketchup good dizzy place refuse define frame pause opera science";

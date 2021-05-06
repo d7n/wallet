@@ -1,1 +1,1 @@
-var mnemonic = "hybrid super neck liberty provide someone can curtain tortoise live express badge";
+var mnemonic = "claim cash theme illegal total buddy fine jazz have foot scare cousin";

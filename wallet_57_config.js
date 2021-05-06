@@ -1,1 +1,1 @@
-var mnemonic = "rule equip quit habit soup piece produce oxygen bulb outdoor scatter satisfy";
+var mnemonic = "when few drop general define mammal manage tool mistake naive forget slender";

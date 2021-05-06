@@ -1,1 +1,1 @@
-var mnemonic = "describe hole mixture tent health safe flock super dress jungle actual rally";
+var mnemonic = "town circle involve divide knee correct forget round bonus divorce genius budget";

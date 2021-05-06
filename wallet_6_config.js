@@ -1,1 +1,1 @@
-var mnemonic = "draw orchard renew salon lumber easy clerk embark modify large undo expire";
+var mnemonic = "subject worth hero pudding cover outdoor split sing load hazard soft detail";

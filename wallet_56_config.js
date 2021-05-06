@@ -1,1 +1,1 @@
-var mnemonic = "flee ready whale illegal blouse labor provide token gas flush vibrant derive";
+var mnemonic = "situate faculty elevator scale home orphan nasty toy repair few access april";

@@ -1,1 +1,1 @@
-var mnemonic = "destroy chest cargo decade grain million magic lumber wave grid tourist fix";
+var mnemonic = "kind young fashion entire veteran error forest tree afraid depart speed crazy";

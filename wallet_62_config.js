@@ -1,1 +1,1 @@
-var mnemonic = "country angle satoshi engage text gold vacant lunar toe tomorrow tool science";
+var mnemonic = "august paddle uniform pear daring blade ahead puzzle chat target mystery ecology";

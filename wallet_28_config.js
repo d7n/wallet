@@ -1,1 +1,1 @@
-var mnemonic = "gaze sand fox scrub chapter rich rate easily reflect cruise globe sentence";
+var mnemonic = "farm ready before cement phone trip weasel clap artefact buzz change depart";

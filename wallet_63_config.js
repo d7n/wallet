@@ -1,1 +1,1 @@
-var mnemonic = "hub bamboo bird oil upset inside author fruit scan way exchange duty";
+var mnemonic = "label again maximum picnic struggle case cereal duty stool diesel submit strategy";

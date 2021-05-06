@@ -1,1 +1,1 @@
-var mnemonic = "tourist master travel spin stem smoke jar sea device moment object skate";
+var mnemonic = "must wine goat churn fish verb lyrics fold better glue trigger valve";

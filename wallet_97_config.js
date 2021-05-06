@@ -1,1 +1,1 @@
-var mnemonic = "music legend client promote bid horn ahead talent oak this window toward";
+var mnemonic = "vast lemon clock ranch abuse above critic item fine romance sense impose";

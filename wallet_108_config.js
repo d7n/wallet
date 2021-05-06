@@ -1,1 +1,1 @@
-var mnemonic = "shoe tenant photo language bring census fence cactus anchor coach act private";
+var mnemonic = "know donor sport walk liar reduce broom parade shy happy pink bomb";

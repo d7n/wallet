@@ -1,1 +1,1 @@
-var mnemonic = "clean interest nice together agent grace indoor chuckle solve night twin bamboo";
+var mnemonic = "tree term fall east banana walk expire almost vacuum pepper magnet million";

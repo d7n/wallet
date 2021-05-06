@@ -1,1 +1,1 @@
-var mnemonic = "goose planet fringe secret gloom robot fashion coil desk slot lonely volcano";
+var mnemonic = "clean coast earn wealth time purity pudding infant involve curious dove review";

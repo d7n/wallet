@@ -1,1 +1,1 @@
-var mnemonic = "forum siren load fantasy such sport digital retreat drip acoustic skin exotic";
+var mnemonic = "choose history what goose travel snack then spare poem junior maid dwarf";

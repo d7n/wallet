@@ -1,1 +1,1 @@
-var mnemonic = "sock choose rent stable churn until inform promote text token river joy";
+var mnemonic = "comfort ring claw cricket actual talk fiscal jealous jealous better plunge unique";

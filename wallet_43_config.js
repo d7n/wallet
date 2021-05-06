@@ -1,1 +1,1 @@
-var mnemonic = "session reopen kid reason domain praise coin stay shallow fresh stable direct";
+var mnemonic = "east noodle into business silver general relax broom blood talk sell ensure";

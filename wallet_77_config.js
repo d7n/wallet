@@ -1,1 +1,1 @@
-var mnemonic = "great achieve achieve chaos mammal announce helmet jaguar glance embrace pen vicious";
+var mnemonic = "page profit print square common lemon uphold become verify area now boy";

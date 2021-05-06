@@ -1,1 +1,1 @@
-var mnemonic = "pepper mad maximum van home doll polar critic machine cliff absurd prevent";
+var mnemonic = "shoulder remember hundred near vapor hospital defense rail disease explain enrich dash";

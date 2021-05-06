@@ -1,1 +1,1 @@
-var mnemonic = "neglect riot price core pistol quick check child ladder pistol ritual such";
+var mnemonic = "head diary knock addict appear dry weapon retreat motor nuclear grace bar";

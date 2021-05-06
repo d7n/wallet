@@ -1,1 +1,1 @@
-var mnemonic = "sample drive zoo crawl lazy spread demise wall novel pelican erode warm";
+var mnemonic = "great uncover decide leave decline either fabric clean dinner sphere ancient eternal";

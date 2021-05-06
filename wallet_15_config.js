@@ -1,1 +1,1 @@
-var mnemonic = "reunion laundry cluster blast dice island click early unique salt sister random";
+var mnemonic = "lava kiss fantasy penalty fat grit nut example object elephant ramp balcony";

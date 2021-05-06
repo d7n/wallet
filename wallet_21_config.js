@@ -1,1 +1,1 @@
-var mnemonic = "popular random crane saddle atom shop fly mandate during cash ability chapter";
+var mnemonic = "hurdle deer will head jungle shrug sibling artefact blame pen donkey wonder";

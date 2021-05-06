@@ -1,1 +1,1 @@
-var mnemonic = "stuff border fork tobacco capital decide way impose economy dirt mountain vague";
+var mnemonic = "bone birth offer verb butter cost recycle figure north blossom brain enforce";

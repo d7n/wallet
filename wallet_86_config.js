@@ -1,1 +1,1 @@
-var mnemonic = "plate useless excess runway device depth loan oven exercise firm aisle romance";
+var mnemonic = "witness hybrid aware juice bid hard then girl swap oven front afford";

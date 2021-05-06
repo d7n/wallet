@@ -1,1 +1,1 @@
-var mnemonic = "spike small spatial whisper suffer banana zone middle decline session model color";
+var mnemonic = "reunion seat purchase pear conduct wheel unlock vault receive fade wheel swift";

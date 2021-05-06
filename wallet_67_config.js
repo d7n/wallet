@@ -1,1 +1,1 @@
-var mnemonic = "royal whisper pyramid client sketch victory evil sudden movie blast glass worry";
+var mnemonic = "defense pretty one fancy gadget exhibit way unfair agent tilt gadget weekend";

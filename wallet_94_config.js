@@ -1,1 +1,1 @@
-var mnemonic = "maple roof bus nominee upper inquiry pattern about census visa dash wrap";
+var mnemonic = "idle one course logic local pig twelve soda happy audit lizard long";

@@ -1,1 +1,1 @@
-var mnemonic = "awful draft camera evidence athlete maple trouble attitude coin arch magnet thing";
+var mnemonic = "addict burger there hero animal mimic prison word stand phrase energy noodle";

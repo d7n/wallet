@@ -1,1 +1,1 @@
-var mnemonic = "mean update carpet zero differ below assume mail page destroy foot embody";
+var mnemonic = "absent note saddle parrot deliver ostrich absurd chuckle ten bench rate couple";

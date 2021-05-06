@@ -1,1 +1,1 @@
-var mnemonic = "curious smile minute fiscal ancient amount crawl already hire vibrant sign coin";
+var mnemonic = "pass doctor bar knee prefer debris smile stuff frozen monitor pyramid sick";

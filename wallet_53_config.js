@@ -1,1 +1,1 @@
-var mnemonic = "sense amazing exercise inform avocado route question upset egg bag bubble river";
+var mnemonic = "demise unaware arctic fortune man model six salt web capable damp desert";

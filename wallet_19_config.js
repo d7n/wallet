@@ -1,1 +1,1 @@
-var mnemonic = "stage know helmet lava upper base huge wire alley diesel engine raven";
+var mnemonic = "dentist become cute update dragon obscure flush laugh minimum midnight gloom loyal";

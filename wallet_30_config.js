@@ -1,1 +1,1 @@
-var mnemonic = "another term bundle keen dynamic trim knock cake hour mercy mixed only";
+var mnemonic = "bamboo enlist pumpkin video palm attack second circle isolate harbor join enter";

@@ -1,1 +1,1 @@
-var mnemonic = "stool price spoon swamp annual brain oppose panel moon mystery hunt merge";
+var mnemonic = "ensure brush talent fluid true attract allow note swim height apart grant";

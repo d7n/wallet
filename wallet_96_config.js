@@ -1,1 +1,1 @@
-var mnemonic = "enroll depth dolphin empower sick crazy cool blood few stage balance crash";
+var mnemonic = "glass faith silent park category frown spy utility daring antenna trip tube";

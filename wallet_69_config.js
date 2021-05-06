@@ -1,1 +1,1 @@
-var mnemonic = "much stable glimpse dinner athlete art bracket swarm embark feature economy private";
+var mnemonic = "hood margin advice cool solution sock link account artist fly usage purity";

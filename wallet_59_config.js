@@ -1,1 +1,1 @@
-var mnemonic = "onion lend shine round smile income one artwork divert leader owner crumble";
+var mnemonic = "stock blue slam chaos quick sauce neither culture voice lazy vicious remember";

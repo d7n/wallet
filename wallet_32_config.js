@@ -1,1 +1,1 @@
-var mnemonic = "buzz couch hair expand document speak catch result tree prepare abstract slam";
+var mnemonic = "width problem camera melt fox bench become swarm salad way song any";

@@ -1,1 +1,1 @@
-var mnemonic = "genuine law cannon dice moral recycle hill access choice air stand million";
+var mnemonic = "pepper illegal give fever rubber episode sunny you during possible vague around";

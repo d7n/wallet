@@ -1,1 +1,1 @@
-var mnemonic = "gesture tuition ready gaze install test impulse address rice pill noble lunar";
+var mnemonic = "town broom drip organ warm cricket original negative rate miss tiny box";

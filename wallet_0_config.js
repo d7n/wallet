@@ -1,1 +1,1 @@
-var mnemonic = "brother panel insect inmate case culture away unveil doll gallery mushroom image";
+var mnemonic = "hood remove witness view exist affair begin sad okay drama cattle grunt";

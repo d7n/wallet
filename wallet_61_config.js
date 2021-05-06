@@ -1,1 +1,1 @@
-var mnemonic = "tortoise clean settle river squeeze shine deputy slide soon lawsuit bone flavor";
+var mnemonic = "fantasy erase bounce axis dwarf flame loan hill renew gallery pass label";
