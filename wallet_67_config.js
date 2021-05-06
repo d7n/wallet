@@ -1,1 +1,1 @@
-var mnemonic = "dawn make engage balcony answer design rent sight net gun board machine";
+var mnemonic = "need resemble brush whip tennis road deal ethics build whisper tip twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "grocery text media route clown bench gallery nest page burst card monster";
+var mnemonic = "giggle december mix diamond suffer bone crouch bomb dress fork capital settle";

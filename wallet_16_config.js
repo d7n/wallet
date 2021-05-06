@@ -1,1 +1,1 @@
-var mnemonic = "define lobster wrong amateur neglect great play neutral danger require round young";
+var mnemonic = "copper describe confirm arrow marble bargain kangaroo install orchard regret thrive force";

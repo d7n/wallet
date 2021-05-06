@@ -1,1 +1,1 @@
-var mnemonic = "clog silver spy science salad judge inch two prefer mind zoo blood";
+var mnemonic = "pair review relax curious end dwarf avocado clever unit wide visual soft";

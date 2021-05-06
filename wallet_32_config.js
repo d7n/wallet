@@ -1,1 +1,1 @@
-var mnemonic = "they brand oblige basket unable motion chief two enforce coconut spell insane";
+var mnemonic = "album truth bleak wheat flavor mixture hybrid address oval stairs slow napkin";

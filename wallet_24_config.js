@@ -1,1 +1,1 @@
-var mnemonic = "maze guard crisp shuffle neglect people promote armor solution mass busy sure";
+var mnemonic = "sausage stable armed cable regret shrug render rice wagon echo indicate author";

@@ -1,1 +1,1 @@
-var mnemonic = "sentence tired found water impose inside truly egg also twin daring vendor";
+var mnemonic = "odor peanut fuel craft myself cave jewel broccoli toilet dish lunar legal";

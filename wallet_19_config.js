@@ -1,1 +1,1 @@
-var mnemonic = "child woman ride all cabbage ability evoke pilot song mesh sting inch";
+var mnemonic = "thought venture hotel predict grocery increase naive bleak symptom two lunar cherry";

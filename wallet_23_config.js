@@ -1,1 +1,1 @@
-var mnemonic = "exact pause effort glide steak fog area mix emerge wine plug desert";
+var mnemonic = "side unable better sample dance flee offer result budget tell hollow have";

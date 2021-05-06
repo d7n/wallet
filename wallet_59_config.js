@@ -1,1 +1,1 @@
-var mnemonic = "way hood all scene reason frown mutual around unknown foam sting journey";
+var mnemonic = "say security long pioneer empower digital impact ketchup goddess exercise matrix voice";

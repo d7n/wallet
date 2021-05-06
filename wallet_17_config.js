@@ -1,1 +1,1 @@
-var mnemonic = "subway pride circle palace produce expose popular assist trick require fancy chat";
+var mnemonic = "crumble design aisle old match bleak fossil scale script giraffe trigger couple";

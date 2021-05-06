@@ -1,1 +1,1 @@
-var mnemonic = "metal course side ostrich trick sunny sugar hello roast enjoy debate define";
+var mnemonic = "eager baby egg next rural coast debris infant decorate group guilt kind";

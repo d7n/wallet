@@ -1,1 +1,1 @@
-var mnemonic = "manage husband ripple plastic gold cluster lonely field fitness basket never save";
+var mnemonic = "deposit jealous announce trust planet old absorb body knock head worry bread";

@@ -1,1 +1,1 @@
-var mnemonic = "supply leg spread comfort inject artefact october wish icon alpha oxygen antique";
+var mnemonic = "color column ridge offer stool vocal swap ritual three gym word caught";

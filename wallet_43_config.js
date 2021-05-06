@@ -1,1 +1,1 @@
-var mnemonic = "vibrant issue cricket bulk entry enter shock biology kiwi zoo slide balcony";
+var mnemonic = "floor border bomb frog stomach strong okay stool thrive lazy cruel able";

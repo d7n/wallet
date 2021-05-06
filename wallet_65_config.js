@@ -1,1 +1,1 @@
-var mnemonic = "bulb puppy poem arctic split outer patient alarm bag rice fluid right";
+var mnemonic = "dragon embrace lab stick virtual ready system follow answer old hub between";

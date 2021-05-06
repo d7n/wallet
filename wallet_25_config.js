@@ -1,1 +1,1 @@
-var mnemonic = "evil pyramid once acquire hero cream bounce electric glad emerge wool plastic";
+var mnemonic = "style close domain bracket fragile scheme film bless liberty cloth blast wet";

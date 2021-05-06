@@ -1,1 +1,1 @@
-var mnemonic = "iron outside toddler reward flip know gun awesome bargain spend used rifle";
+var mnemonic = "body burger dance second toast lab arena gravity stool smooth tuition antenna";

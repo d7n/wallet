@@ -1,1 +1,1 @@
-var mnemonic = "tennis black ugly robust unusual sketch hundred walnut another when ozone cover";
+var mnemonic = "label actor hover hurt loop corn innocent expect device reform slush nose";

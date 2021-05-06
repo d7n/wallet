@@ -1,1 +1,1 @@
-var mnemonic = "dose boss say sign slam vanish alcohol swarm cargo useful consider uphold";
+var mnemonic = "upset funny match neglect wonder tomato leader insect theory rib roof wool";

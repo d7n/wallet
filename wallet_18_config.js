@@ -1,1 +1,1 @@
-var mnemonic = "person garment volume silver toss napkin check alter cup shoot license six";
+var mnemonic = "attack teach settle sunny buffalo spell devote purity wild pretty virtual impact";

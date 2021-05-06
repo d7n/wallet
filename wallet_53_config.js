@@ -1,1 +1,1 @@
-var mnemonic = "equal goose cause avoid nation client school local use swim panel suffer";
+var mnemonic = "infant fame divide people hello will various tooth never lobster tent strategy";

@@ -1,1 +1,1 @@
-var mnemonic = "razor link alone song slight grace repair cement company rare notable cat";
+var mnemonic = "confirm muscle suit dinner catch chaos pistol eyebrow oven uphold replace sport";

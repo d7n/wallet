@@ -1,1 +1,1 @@
-var mnemonic = "inspire suggest purchase human shove cotton fiscal amazing crisp vague tonight marble";
+var mnemonic = "fringe innocent health jelly master pen unfold claw tackle rebuild affair famous";

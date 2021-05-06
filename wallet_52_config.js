@@ -1,1 +1,1 @@
-var mnemonic = "brisk range endorse sell cupboard toward pattern giggle notice provide begin hire";
+var mnemonic = "burden street grocery flight box clerk refuse service better hurry butter angry";

@@ -1,1 +1,1 @@
-var mnemonic = "cry slow estate vague slogan situate broccoli palm exact cereal list promote";
+var mnemonic = "era loan convince nut teach because venue media black year gather goose";

@@ -1,1 +1,1 @@
-var mnemonic = "fox beef system pair shove erupt version ready absurd paddle maze bid";
+var mnemonic = "candy sea smooth vicious slam improve negative bean dragon cost shield turn";

@@ -1,1 +1,1 @@
-var mnemonic = "time plug false size recall old essence possible hobby silver crew kangaroo";
+var mnemonic = "veteran fish industry brain angry novel strong siege churn lock wife below";

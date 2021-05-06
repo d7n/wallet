@@ -1,1 +1,1 @@
-var mnemonic = "rack auction mad avoid just truck verb pitch slight winner debris virus";
+var mnemonic = "gorilla simple object clutch vivid major agree fox divide minor burden prefer";

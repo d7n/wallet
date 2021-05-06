@@ -1,1 +1,1 @@
-var mnemonic = "clutch blanket size mix song pool better pony smile claw window office";
+var mnemonic = "trend distance badge connect whisper bacon trial match strike wealth primary chronic";

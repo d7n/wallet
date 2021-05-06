@@ -1,1 +1,1 @@
-var mnemonic = "fence tree cram lemon slush major narrow drill way rubber day dinner";
+var mnemonic = "drive give indicate reunion attitude tackle else burger skirt century rude example";

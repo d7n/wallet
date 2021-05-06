@@ -1,1 +1,1 @@
-var mnemonic = "skill lock loyal tiny cannon federal fetch pull entry gadget surface fun";
+var mnemonic = "hamster among similar barely dizzy stable clock victory crazy era spike catalog";

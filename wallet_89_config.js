@@ -1,1 +1,1 @@
-var mnemonic = "fury kitten wild control uncle wool supply worth panther real bar shallow";
+var mnemonic = "around obvious inhale blur face source push fox select ranch nice gravity";

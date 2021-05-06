@@ -1,1 +1,1 @@
-var mnemonic = "kit slab income term gossip stadium truth private pear famous accident season";
+var mnemonic = "route reform scene good sheriff bracket digital tooth charge beef various casual";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort morning joy ask cram guess report small sunset vault scheme normal";
+var mnemonic = "estate when drop pact stable insane three nation velvet private jar obvious";

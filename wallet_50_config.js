@@ -1,1 +1,1 @@
-var mnemonic = "distance front buffalo train blossom you rally tuna sniff hobby bring pledge";
+var mnemonic = "ramp memory diamond lab trouble blanket clever legend hub fabric coin rabbit";

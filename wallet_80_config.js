@@ -1,1 +1,1 @@
-var mnemonic = "peanut clarify isolate floor west hunt exact memory purchase crowd enforce promote";
+var mnemonic = "again accuse tip tourist random turtle space toddler scissors vendor demise oak";

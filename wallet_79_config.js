@@ -1,1 +1,1 @@
-var mnemonic = "retreat royal face link female index interest milk expose sugar gadget hip";
+var mnemonic = "february glide number dish swap raw glad wink plate harvest merge chair";

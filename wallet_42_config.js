@@ -1,1 +1,1 @@
-var mnemonic = "pelican super pretty clever pretty latin size crew type reveal property couple";
+var mnemonic = "engage desk bottom capital champion arctic agree old giggle limit space tonight";

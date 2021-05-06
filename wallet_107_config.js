@@ -1,1 +1,1 @@
-var mnemonic = "please sweet antenna reopen rug nature other camp ball roof trend ready";
+var mnemonic = "milk ghost demand leopard diet million major pattern talk such quantum baby";

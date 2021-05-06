@@ -1,1 +1,1 @@
-var mnemonic = "promote claim install festival chaos decorate humble pipe guide caught wonder quality";
+var mnemonic = "tongue mother artefact convince delay invite vendor merge asset expand gesture candy";

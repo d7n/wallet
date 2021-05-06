@@ -1,1 +1,1 @@
-var mnemonic = "stay canvas often choice release artist goose typical valid river soccer elder";
+var mnemonic = "entire fragile butter success broom swarm prison bundle hope captain another soldier";

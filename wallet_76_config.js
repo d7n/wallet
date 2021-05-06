@@ -1,1 +1,1 @@
-var mnemonic = "play chuckle state crucial position lamp maximum museum scrub earth radar fuel";
+var mnemonic = "atom caught shoot question much tumble mobile misery cute card guilt hair";

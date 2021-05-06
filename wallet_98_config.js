@@ -1,1 +1,1 @@
-var mnemonic = "skin usage hamster caught swarm flame title squeeze mad exit collect worry";
+var mnemonic = "joke apple welcome attack blouse punch sweet chief fiction there rack ghost";

@@ -1,1 +1,1 @@
-var mnemonic = "sister mosquito genius topple eyebrow car hero gesture provide typical lizard gasp";
+var mnemonic = "opera lizard curious urge concert infant peasant humor mobile outdoor sad diet";

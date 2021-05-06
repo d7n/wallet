@@ -1,1 +1,1 @@
-var mnemonic = "real over smoke ancient lounge plate can better impose spawn empty slide";
+var mnemonic = "feed gorilla air alcohol health van grass main logic feel dress vapor";

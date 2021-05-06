@@ -1,1 +1,1 @@
-var mnemonic = "broccoli accuse vault bacon daughter edit limit ribbon cricket vacuum camera scatter";
+var mnemonic = "visit coyote cricket flock six skirt vapor saddle weird invite coral rail";

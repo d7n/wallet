@@ -1,1 +1,1 @@
-var mnemonic = "make noodle feel collect donkey pigeon dream swim puppy example impact orange";
+var mnemonic = "exercise decade husband scan carry box craft earth neglect cactus exchange modify";

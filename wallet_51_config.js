@@ -1,1 +1,1 @@
-var mnemonic = "mammal disorder pull assume awake custom space topic indicate track keen flavor";
+var mnemonic = "before position diet raccoon section sock border admit horse neutral alpha column";

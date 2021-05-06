@@ -1,1 +1,1 @@
-var mnemonic = "rubber middle dynamic nest host seek brown because silk pretty misery that";
+var mnemonic = "useful deliver youth spatial inform grief silent beach warrior walk lake follow";

@@ -1,1 +1,1 @@
-var mnemonic = "save vibrant ankle manage boost leopard primary priority clump list toward fitness";
+var mnemonic = "potato green obey warfare later dune brand replace shove rubber beef marble";

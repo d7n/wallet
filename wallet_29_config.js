@@ -1,1 +1,1 @@
-var mnemonic = "balance cruel sustain economy hill skill degree spray traffic other interest fan";
+var mnemonic = "excite coast sheriff call news mixed hair dune light sample normal eyebrow";

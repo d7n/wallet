@@ -1,1 +1,1 @@
-var mnemonic = "voice jaguar garbage trust tunnel thing smart force unlock approve canvas naive";
+var mnemonic = "focus alcohol rhythm goddess need response crater silly brief about purse jeans";

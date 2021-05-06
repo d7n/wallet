@@ -1,1 +1,1 @@
-var mnemonic = "nephew kitten company call hole donor open noodle hurry surprise brain matter";
+var mnemonic = "spell repeat where decide admit insect silk tiny enforce coral dinosaur coach";

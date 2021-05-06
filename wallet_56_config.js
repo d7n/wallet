@@ -1,1 +1,1 @@
-var mnemonic = "ribbon frequent shoot witness reason dove pair sorry connect disorder sign empower";
+var mnemonic = "choose say brand share okay opera scan damp credit soldier slush among";

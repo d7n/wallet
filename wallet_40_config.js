@@ -1,1 +1,1 @@
-var mnemonic = "member social fitness attend hope wasp come repair security dinosaur manual amount";
+var mnemonic = "virtual adult sister dinosaur desert gift clown buzz tonight reason panel border";

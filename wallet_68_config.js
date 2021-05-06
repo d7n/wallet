@@ -1,1 +1,1 @@
-var mnemonic = "fatal unable junior hockey clarify giraffe obscure floor say ten electric amount";
+var mnemonic = "gym boost old flock auto turtle public phone olympic light garlic plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "term lake spider option bone guide love detect capital slot wild rather";
+var mnemonic = "mimic velvet unfair banana explain tool fold truth guitar point drink marine";

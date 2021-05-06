@@ -1,1 +1,1 @@
-var mnemonic = "human hybrid stuff kit broccoli make matrix abuse gauge split wall memory";
+var mnemonic = "royal equip drink knock clinic charge coffee nominee moral pool ivory foam";

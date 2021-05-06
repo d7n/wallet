@@ -1,1 +1,1 @@
-var mnemonic = "primary prevent glimpse february patch delay crater beauty round armor rocket north";
+var mnemonic = "custom recall able vital uniform clap job strike bamboo negative winner attack";

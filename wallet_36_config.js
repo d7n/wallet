@@ -1,1 +1,1 @@
-var mnemonic = "harvest truck muffin spin cliff real wire lamp noise add regular music";
+var mnemonic = "split nerve puzzle medal please chalk subway sick fantasy february antenna team";

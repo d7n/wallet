@@ -1,1 +1,1 @@
-var mnemonic = "harbor must ripple chimney quit body income hammer carry december shuffle again";
+var mnemonic = "north glue spatial diary recall genius despair taste clean powder share onion";

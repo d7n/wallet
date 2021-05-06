@@ -1,1 +1,1 @@
-var mnemonic = "month rough wine rate snap virus lottery barely jump use normal stadium";
+var mnemonic = "assist skull sad solution orange gas decline joy name custom unfold yard";

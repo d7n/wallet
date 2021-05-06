@@ -1,1 +1,1 @@
-var mnemonic = "strong dizzy lesson target roast fall odor sadness feel kind north mesh";
+var mnemonic = "interest figure remove buyer camera stay crew scrap castle leopard wolf relief";

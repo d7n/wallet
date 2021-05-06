@@ -1,1 +1,1 @@
-var mnemonic = "core auction fix sausage click tool trumpet stool control ceiling student city";
+var mnemonic = "habit evolve select rotate man wire resist camera concert gallery inch size";

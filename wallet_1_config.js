@@ -1,1 +1,1 @@
-var mnemonic = "version margin famous flip envelope true inside swift maple ensure arm fluid";
+var mnemonic = "gauge math moon orange inquiry middle fatigue tiger card cheese daring method";

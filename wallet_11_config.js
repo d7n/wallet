@@ -1,1 +1,1 @@
-var mnemonic = "drastic tail receive sibling balcony discover mystery crystal what woman hood razor";
+var mnemonic = "cool survey render tape auto eager cruise stay combine wall giant smoke";

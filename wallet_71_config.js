@@ -1,1 +1,1 @@
-var mnemonic = "scrub kick forward farm diet august critic cinnamon protect drive tongue beef";
+var mnemonic = "category april illegal access patch hotel coral reform youth exact warfare tongue";

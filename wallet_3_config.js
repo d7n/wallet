@@ -1,1 +1,1 @@
-var mnemonic = "usual version fancy exhibit blue rocket undo area another forest wire cancel";
+var mnemonic = "joy illegal melody short card fox flee physical beyond item quick venture";

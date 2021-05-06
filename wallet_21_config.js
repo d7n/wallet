@@ -1,1 +1,1 @@
-var mnemonic = "repeat december program security light weasel umbrella canvas brief document provide mix";
+var mnemonic = "mean gym apple cake agree define ginger robust device horn ability cherry";

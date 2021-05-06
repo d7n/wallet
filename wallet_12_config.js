@@ -1,1 +1,1 @@
-var mnemonic = "ordinary crucial assist today erosion walnut prepare once gain aim goose flee";
+var mnemonic = "trade giraffe witness clown gadget squeeze local gate slot edge senior fiber";

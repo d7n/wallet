@@ -1,1 +1,1 @@
-var mnemonic = "jealous divorce extend power end acid donor lemon change brush march arrive";
+var mnemonic = "fold afford kite heart trial tobacco maximum wife off shock october moon";

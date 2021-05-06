@@ -1,1 +1,1 @@
-var mnemonic = "toss width summer suffer timber gasp suggest never concert acoustic awkward join";
+var mnemonic = "machine tip close change useless brain company album august item wheel phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "board battle tissue asset whisper mask coast verb cloth hazard involve various";
+var mnemonic = "ketchup resource decade exotic trumpet price dose ice monitor bullet secret rack";

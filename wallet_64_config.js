@@ -1,1 +1,1 @@
-var mnemonic = "clay happy gather move level define clerk news industry trade swarm inform";
+var mnemonic = "reflect memory term language hurt cliff distance alley office clerk siren reform";

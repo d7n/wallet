@@ -1,1 +1,1 @@
-var mnemonic = "attend enter knock mansion usage cover concert atom exotic rather multiply plastic";
+var mnemonic = "rocket guilt matrix gesture grape lyrics pitch forget daring tissue slow never";

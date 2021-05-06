@@ -1,1 +1,1 @@
-var mnemonic = "dizzy car shallow nice van item october tuition tiny impact stairs beef";
+var mnemonic = "shuffle awful normal local cement valid arrange humor matrix park whip genius";

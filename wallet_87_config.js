@@ -1,1 +1,1 @@
-var mnemonic = "uphold canvas drama potato human access any defy insane brick science crop";
+var mnemonic = "cabin actual divide great submit shoe critic wasp guide better usage over";

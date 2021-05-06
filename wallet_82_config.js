@@ -1,1 +1,1 @@
-var mnemonic = "below snap asthma glimpse doll license brain tape kiwi inhale ranch case";
+var mnemonic = "soon stumble rug among dumb inch sudden tribe ceiling secret hire amazing";

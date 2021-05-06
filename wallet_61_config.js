@@ -1,1 +1,1 @@
-var mnemonic = "arrange write upon avocado toilet earn oil soft index sketch pudding minimum";
+var mnemonic = "tray air funny boss survey senior ignore engine then crew catch task";

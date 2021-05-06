@@ -1,1 +1,1 @@
-var mnemonic = "easily note couch ahead problem luggage identify fat scare same ozone tone";
+var mnemonic = "give raven skirt sibling robot fee sun ethics stereo people jacket verb";

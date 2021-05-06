@@ -1,1 +1,1 @@
-var mnemonic = "tag today tree sustain rifle robust bike loyal mask era response promote";
+var mnemonic = "peasant text demise leopard loud party legal wet same direct race duck";

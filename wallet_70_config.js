@@ -1,1 +1,1 @@
-var mnemonic = "abandon wreck cycle cattle shed wine result corn fetch lesson matrix chef";
+var mnemonic = "ball fresh car siege clog seek vote web urban tent mule burst";

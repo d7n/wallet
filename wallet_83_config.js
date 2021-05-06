@@ -1,1 +1,1 @@
-var mnemonic = "bulk prosper devote olympic fun surface toward check emerge rail giraffe peasant";
+var mnemonic = "favorite galaxy edge alert evil pottery tower imitate merit fork wink expire";

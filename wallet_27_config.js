@@ -1,1 +1,1 @@
-var mnemonic = "issue nerve spread april afraid little expect bird rebel police shock tomato";
+var mnemonic = "bring ketchup unveil congress high company exhaust save degree guess blast gate";

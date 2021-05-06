@@ -1,1 +1,1 @@
-var mnemonic = "unveil horn twice flame group buffalo brother abuse weather usage town kitchen";
+var mnemonic = "next riot magnet opera comfort puzzle age giraffe talk life display token";

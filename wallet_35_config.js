@@ -1,1 +1,1 @@
-var mnemonic = "sugar pilot always ensure chalk angry ice finger harsh jar want jungle";
+var mnemonic = "person robot music deer easily license angle orchard employ stem assume jeans";

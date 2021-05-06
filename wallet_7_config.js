@@ -1,1 +1,1 @@
-var mnemonic = "hour ten allow profit wrong pull nephew author abstract electric venue fly";
+var mnemonic = "primary unable end jazz license kitten crop collect energy climb unit cannon";
