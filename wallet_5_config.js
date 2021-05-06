@@ -1,1 +1,1 @@
-var mnemonic = "indoor vacant parrot elephant party sheriff endorse cereal captain radio letter antique";
+var mnemonic = "ugly butter subject dune bracket owner pull damage nominee blame cart humor";

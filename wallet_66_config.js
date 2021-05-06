@@ -1,1 +1,1 @@
-var mnemonic = "enemy orbit tobacco glare force define debate tape crowd trouble scatter unique";
+var mnemonic = "female problem fabric awful occur heavy top later garbage pepper confirm bean";

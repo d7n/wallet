@@ -1,1 +1,1 @@
-var mnemonic = "fuel stock heart genuine other negative provide act ankle monkey soccer private";
+var mnemonic = "tuition fade blouse clump apology lake myth couple fantasy label merit program";

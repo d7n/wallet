@@ -1,1 +1,1 @@
-var mnemonic = "burst dream lawn knife virus exist memory quiz liar hole scissors frown";
+var mnemonic = "fame room lucky series airport dutch pigeon plunge catalog buyer silver spring";

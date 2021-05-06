@@ -1,1 +1,1 @@
-var mnemonic = "give twin eye autumn defy west debate key size whisper absent memory";
+var mnemonic = "sauce excite dash live lens assist tomato tackle load deliver budget emotion";

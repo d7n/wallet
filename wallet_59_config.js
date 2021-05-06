@@ -1,1 +1,1 @@
-var mnemonic = "cabin rabbit stable affair rule flag hip rather pink arrow gorilla crystal";
+var mnemonic = "clerk comfort knife window lesson input eagle sweet smooth orphan pencil avocado";

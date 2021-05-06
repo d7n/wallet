@@ -1,1 +1,1 @@
-var mnemonic = "crazy earth mixture winner damage fatigue discover manage runway airport doctor quit";
+var mnemonic = "merry castle humor enable shy umbrella inspire replace jungle quiz twice basket";

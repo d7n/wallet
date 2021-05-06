@@ -1,1 +1,1 @@
-var mnemonic = "visa drill sound vintage loyal tennis absorb fine load grab brave thought";
+var mnemonic = "obscure skull vote divide bar hen sustain gasp giggle prevent future shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual couple select devote patrol endorse paper math garage company lemon gold";
+var mnemonic = "slide lottery theme tail peanut spend crisp example flower ramp fantasy stable";

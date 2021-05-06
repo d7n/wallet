@@ -1,1 +1,1 @@
-var mnemonic = "swim mind fish raw sock vacuum usual couple raw gym castle clay";
+var mnemonic = "uncle crawl wife rather city belt morning tag pigeon coconut dance canyon";

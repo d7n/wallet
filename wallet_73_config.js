@@ -1,1 +1,1 @@
-var mnemonic = "immense turkey baby glove twelve payment butter ahead suggest aerobic deal calm";
+var mnemonic = "crunch rally pilot sell address paddle hard awake coral other taste winter";

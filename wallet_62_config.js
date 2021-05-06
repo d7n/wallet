@@ -1,1 +1,1 @@
-var mnemonic = "poverty slow run fever example comic nerve same egg draw recycle lunch";
+var mnemonic = "tuition prison front novel penalty able cash target opera season pretty view";

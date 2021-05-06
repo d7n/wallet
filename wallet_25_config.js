@@ -1,1 +1,1 @@
-var mnemonic = "convince skill lounge abuse biology chief minute name region proud isolate fever";
+var mnemonic = "replace tuition hazard ancient public between feel balance draft long injury ladder";

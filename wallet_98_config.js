@@ -1,1 +1,1 @@
-var mnemonic = "notice job muscle police dismiss couch borrow mammal cup awake present autumn";
+var mnemonic = "you venue slush kit female distance cover science kite globe twelve diesel";

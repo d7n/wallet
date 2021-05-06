@@ -1,1 +1,1 @@
-var mnemonic = "survey crew radio impulse edge tray joy wool maid trash mercy stamp";
+var mnemonic = "rally melt brother depart tortoise aspect flavor exclude suggest fatigue muscle chronic";

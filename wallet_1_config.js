@@ -1,1 +1,1 @@
-var mnemonic = "input that eye transfer average smoke copper rent fat lucky virus bike";
+var mnemonic = "tide present blast bind cousin loud puzzle lamp address series quality long";

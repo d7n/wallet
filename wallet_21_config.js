@@ -1,1 +1,1 @@
-var mnemonic = "expose emerge trigger dynamic stomach room isolate truth advance rhythm cabbage ancient";
+var mnemonic = "innocent family sister series fish nature adjust high input actress scheme oval";

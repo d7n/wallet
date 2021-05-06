@@ -1,1 +1,1 @@
-var mnemonic = "devote narrow evil actress clock neck lady sport congress ketchup lift brain";
+var mnemonic = "mix vague anger poet ecology cross roof famous coffee grunt marriage drama";

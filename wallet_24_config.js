@@ -1,1 +1,1 @@
-var mnemonic = "satisfy soccer hard debris wool iron wool rough order run hamster ten";
+var mnemonic = "fossil enrich mansion common wage thought horror survey genre spin unusual uphold";

@@ -1,1 +1,1 @@
-var mnemonic = "shoe major alarm history struggle monster appear inherit spatial rigid vehicle pumpkin";
+var mnemonic = "orange pill game dolphin fault spend faint used grain appear aim expire";

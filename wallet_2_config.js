@@ -1,1 +1,1 @@
-var mnemonic = "light twenty hurry force neutral angle club primary journey wrestle peace tide";
+var mnemonic = "wife tool drastic token radar enemy fringe carpet limb gossip supreme adult";

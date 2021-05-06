@@ -1,1 +1,1 @@
-var mnemonic = "athlete upgrade express violin useless exact turkey buzz anxiety tower limb act";
+var mnemonic = "parrot throw express gloom poet random cargo pledge illness rural undo member";

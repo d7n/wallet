@@ -1,1 +1,1 @@
-var mnemonic = "silver derive alpha repeat tornado tree right pave sphere dish apple busy";
+var mnemonic = "adapt move section forum uncover link blade foot nest gasp expect duty";

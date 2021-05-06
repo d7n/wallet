@@ -1,1 +1,1 @@
-var mnemonic = "phone punch sock utility remind wage cupboard sight repeat gym prepare winter";
+var mnemonic = "prefer topple ill ladder office believe elbow catalog noise output boat either";

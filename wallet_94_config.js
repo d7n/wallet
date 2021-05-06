@@ -1,1 +1,1 @@
-var mnemonic = "amazing code canal chat humor illegal glare shoe flower melt pass breeze";
+var mnemonic = "peasant annual artist gadget mountain april above lock possible stool doctor mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "grain melt genuine dance dolphin sentence reason speed round alcohol crumble split";
+var mnemonic = "diesel whale market harsh margin boat magic program license nominee boy story";

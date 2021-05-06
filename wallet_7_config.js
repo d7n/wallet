@@ -1,1 +1,1 @@
-var mnemonic = "wear master cargo miracle today metal snack toe artwork pledge spirit relax";
+var mnemonic = "dog speed order brown problem cabin beef project city divert scrap error";

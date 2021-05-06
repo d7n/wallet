@@ -1,1 +1,1 @@
-var mnemonic = "update rug inch smoke sweet coffee jazz scheme joke gold glide bullet";
+var mnemonic = "smoke jacket just maid foster unique chat able goat sport problem car";

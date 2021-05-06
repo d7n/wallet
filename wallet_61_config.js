@@ -1,1 +1,1 @@
-var mnemonic = "kick monkey library physical bargain tide piece virtual pistol brother sand execute";
+var mnemonic = "together tattoo stay exit rice dog table relief finish start eye sausage";

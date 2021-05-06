@@ -1,1 +1,1 @@
-var mnemonic = "swamp dice easy fuel wife carpet dinner peasant panel battle number risk";
+var mnemonic = "ivory theory level clean match find soccer alien dress choice artist zone";

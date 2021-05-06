@@ -1,1 +1,1 @@
-var mnemonic = "fly kidney dawn innocent like vague faculty tribe velvet nephew good glow";
+var mnemonic = "position write notable finish job near maze average leader glory control admit";

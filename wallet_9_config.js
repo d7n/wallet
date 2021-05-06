@@ -1,1 +1,1 @@
-var mnemonic = "destroy between belt moment option despair rifle wait charge knife pledge drama";
+var mnemonic = "casual slide traffic fix add eight fatal blur slow luxury impulse engine";

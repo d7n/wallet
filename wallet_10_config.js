@@ -1,1 +1,1 @@
-var mnemonic = "tackle jelly ignore scrub loan material hurt soap earth glass person shove";
+var mnemonic = "begin brief mixture staff crane bone barrel open switch left assist casino";

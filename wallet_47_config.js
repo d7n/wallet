@@ -1,1 +1,1 @@
-var mnemonic = "spatial carpet use balcony when fever mind appear trust chunk floor moral";
+var mnemonic = "patrol mobile tube foot effort color virus fancy trust arm vicious art";

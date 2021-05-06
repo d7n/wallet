@@ -1,1 +1,1 @@
-var mnemonic = "attend decide one drift almost comfort cinnamon illness secret end ancient thunder";
+var mnemonic = "shove purity cannon labor screen sample biology dance recycle addict protect adult";

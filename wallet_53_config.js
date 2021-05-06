@@ -1,1 +1,1 @@
-var mnemonic = "inhale elegant monster lava rural fashion still subway stable donor town deliver";
+var mnemonic = "dawn ritual chuckle desk just vague invest brown talk dance potato into";

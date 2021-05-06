@@ -1,1 +1,1 @@
-var mnemonic = "raise anger wonder design exercise notable elder upper hill cube year follow";
+var mnemonic = "bomb kit gravity company craft pony property gap network cactus ten satisfy";

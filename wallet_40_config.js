@@ -1,1 +1,1 @@
-var mnemonic = "flavor under old twenty acid oxygen retreat swamp monster saddle method vanish";
+var mnemonic = "sea almost riot orchard heart business blood mad vehicle street eagle state";

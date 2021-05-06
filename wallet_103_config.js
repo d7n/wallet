@@ -1,1 +1,1 @@
-var mnemonic = "focus course cruise try boil endless possible uncover elder aware puzzle acoustic";
+var mnemonic = "deer script mobile sail truly model connect assist treat position capable script";

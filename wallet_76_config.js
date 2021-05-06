@@ -1,1 +1,1 @@
-var mnemonic = "public educate worth curve mango ancient blade biology deposit appear dutch essence";
+var mnemonic = "beauty pond script reform bunker arrow long twin peasant giant engage nut";

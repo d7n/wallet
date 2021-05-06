@@ -1,1 +1,1 @@
-var mnemonic = "crisp suit expand power virtual length frozen easily this slogan route miss";
+var mnemonic = "drum like draw expand flavor hedgehog planet between kick combine exclude final";

@@ -1,1 +1,1 @@
-var mnemonic = "flock lonely flash leisure chase hold weird meadow normal occur ten coil";
+var mnemonic = "dumb bench auction naive holiday pulp slush enrich abandon shoot ensure issue";

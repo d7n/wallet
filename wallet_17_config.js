@@ -1,1 +1,1 @@
-var mnemonic = "siege rack slogan search wrestle nuclear success entry dizzy goat round negative";
+var mnemonic = "gold submit afraid away chapter argue canyon chunk diet visa federal advice";

@@ -1,1 +1,1 @@
-var mnemonic = "soft alarm cupboard jelly rack iron begin basket public shoulder subject effort";
+var mnemonic = "tackle maximum airport degree word crouch price arm vanish vote benefit odor";

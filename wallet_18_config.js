@@ -1,1 +1,1 @@
-var mnemonic = "loud bulb already antique prepare describe bring brush bike trend once quiz";
+var mnemonic = "bounce review chase captain someone desk hammer episode crop original exhaust weather";

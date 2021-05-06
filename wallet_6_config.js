@@ -1,1 +1,1 @@
-var mnemonic = "mosquito trip idle obvious use maid ripple wasp pigeon other ship scan";
+var mnemonic = "camera curious predict dawn fly extend update access journey team hammer private";

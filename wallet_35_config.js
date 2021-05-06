@@ -1,1 +1,1 @@
-var mnemonic = "catalog okay whip print dolphin donate cotton apology burden donate menu random";
+var mnemonic = "boring hunt border reduce inside urge history bicycle patch repair fine glad";

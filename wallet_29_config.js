@@ -1,1 +1,1 @@
-var mnemonic = "tiger timber bag crash certain inmate diamond host scrub smart mind tornado";
+var mnemonic = "surge sword shoulder toddler useful palace obvious fluid law special phone slot";

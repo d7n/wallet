@@ -1,1 +1,1 @@
-var mnemonic = "wisdom sugar library sniff stadium ride zero apple shove behave motor reopen";
+var mnemonic = "blame section cotton decorate symbol patch fog fringe supply royal remind blade";

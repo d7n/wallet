@@ -1,1 +1,1 @@
-var mnemonic = "believe outdoor error stick primary explain crystal kid gasp favorite forward glare";
+var mnemonic = "woman upgrade brain cannon afraid hill steak deposit approve awesome undo slush";

@@ -1,1 +1,1 @@
-var mnemonic = "volume prison negative grace vital wave silk this panic west appear salt";
+var mnemonic = "giggle gain spice attack coin afraid raven nuclear hill tennis globe achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "fun cousin hard excite verb open sugar grape net device cream pioneer";
+var mnemonic = "essence estate obscure true meat boat weekend climb arrest barely glad hood";

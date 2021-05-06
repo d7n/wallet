@@ -1,1 +1,1 @@
-var mnemonic = "rotate fix leader hire floor celery arrest drastic dash crucial rough world";
+var mnemonic = "zoo blouse network wing print monkey wagon tackle core tower dumb very";

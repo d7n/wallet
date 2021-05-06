@@ -1,1 +1,1 @@
-var mnemonic = "sound pipe trick spring critic mixed unfair clinic satisfy buddy drum fish";
+var mnemonic = "virus cry flip pig adapt chaos glimpse divert name goddess vibrant describe";

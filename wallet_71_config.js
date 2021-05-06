@@ -1,1 +1,1 @@
-var mnemonic = "struggle betray tuition into render betray raise skin tragic shrug cycle cannon";
+var mnemonic = "derive umbrella guide fade blind unable pear cement neither brand spell quantum";

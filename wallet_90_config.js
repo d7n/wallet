@@ -1,1 +1,1 @@
-var mnemonic = "home joke much grass learn mask field print coffee slam taste wreck";
+var mnemonic = "tortoise coin raw odor hockey kite obscure joke split rhythm grain gauge";

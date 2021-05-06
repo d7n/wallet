@@ -1,1 +1,1 @@
-var mnemonic = "wine record atom spare latin gown hotel monitor forward seek hotel broom";
+var mnemonic = "start problem universe speak chuckle open volume chicken improve fuel uncle engine";

@@ -1,1 +1,1 @@
-var mnemonic = "sand chase six sketch favorite sock useless defense globe alien horn develop";
+var mnemonic = "believe hollow satisfy minor teach vibrant attend ethics reward close wrong great";

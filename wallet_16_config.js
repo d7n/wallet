@@ -1,1 +1,1 @@
-var mnemonic = "sight knife hover autumn mean route nose anger bullet swamp deer rural";
+var mnemonic = "celery lawn rural seat earn bind vast glove animal swallow dynamic deputy";

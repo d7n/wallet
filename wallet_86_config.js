@@ -1,1 +1,1 @@
-var mnemonic = "verify witness bus hurt safe clinic armor food bright damp junk plug";
+var mnemonic = "spider history meadow bag mad unhappy card craft merge seat before oak";

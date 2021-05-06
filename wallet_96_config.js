@@ -1,1 +1,1 @@
-var mnemonic = "target kid require sample unfair file fuel hammer source trouble cabbage divide";
+var mnemonic = "atom paper luggage safe laundry sight candy shift honey denial stove ribbon";

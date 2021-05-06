@@ -1,1 +1,1 @@
-var mnemonic = "extra crop kingdom visa more hawk robust flip width worth decrease invest";
+var mnemonic = "rule peace meat leg shell infant onion shove night rabbit yard license";

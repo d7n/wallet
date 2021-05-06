@@ -1,1 +1,1 @@
-var mnemonic = "skill faith hood text amateur october note cycle level orbit today route";
+var mnemonic = "damp until then deposit small enhance achieve tuition spike common will nothing";

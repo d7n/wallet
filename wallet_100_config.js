@@ -1,1 +1,1 @@
-var mnemonic = "olive cage dutch feature gossip fantasy census book stuff multiply rapid pact";
+var mnemonic = "tone merge popular draw miracle firm mean pill grit open flee catalog";

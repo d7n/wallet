@@ -1,1 +1,1 @@
-var mnemonic = "elegant title link agree average purpose illegal shoe illegal bunker member trial";
+var mnemonic = "always nest pottery yard stage common dismiss limit foster process lucky enough";

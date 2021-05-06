@@ -1,1 +1,1 @@
-var mnemonic = "opinion vague situate lumber depend buyer chase wave enjoy oval pipe tooth";
+var mnemonic = "word target length toast keep sleep own six punch detect claw nation";

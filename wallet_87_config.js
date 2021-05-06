@@ -1,1 +1,1 @@
-var mnemonic = "able butter rival prepare armed pole coral glad layer nephew broken violin";
+var mnemonic = "sheriff know jazz expand fury ramp bracket nation ginger connect ripple slight";

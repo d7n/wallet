@@ -1,1 +1,1 @@
-var mnemonic = "elite wise eagle federal rebel glove fatal bachelor onion genius uncover reward";
+var mnemonic = "blossom pact alley fatigue subway affair praise maximum crucial endless average property";

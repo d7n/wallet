@@ -1,1 +1,1 @@
-var mnemonic = "random waste hungry shift enhance best capital must hazard thing increase bicycle";
+var mnemonic = "apology nature slender sand walk roast follow proof matrix forward fit lyrics";

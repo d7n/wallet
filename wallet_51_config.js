@@ -1,1 +1,1 @@
-var mnemonic = "rice basic inform dune debate empty stamp error tuna lucky repeat duty";
+var mnemonic = "sweet salmon excuse coral scan cage tonight senior sand sweet guide nation";

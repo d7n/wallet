@@ -1,1 +1,1 @@
-var mnemonic = "wise distance dose stay cattle expose yard capital zone shine engine remain";
+var mnemonic = "gaze raise floor session hurt industry rail sock kind account summer vacuum";

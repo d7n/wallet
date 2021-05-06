@@ -1,1 +1,1 @@
-var mnemonic = "arena pipe antenna eye faculty switch depth wonder result matter area antique";
+var mnemonic = "boat brush cruel grace warm curtain result chronic world cage angry luxury";

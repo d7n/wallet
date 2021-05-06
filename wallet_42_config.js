@@ -1,1 +1,1 @@
-var mnemonic = "improve sugar seek logic rival trigger oil guilt faculty output skin hat";
+var mnemonic = "often illegal venue pattern happy slow aisle inside hamster special pig clutch";

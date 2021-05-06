@@ -1,1 +1,1 @@
-var mnemonic = "horse biology little assume anger motor regret vendor faith erupt piece because";
+var mnemonic = "inside milk mango force kid umbrella recycle gap whisper physical surprise please";

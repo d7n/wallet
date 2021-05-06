@@ -1,1 +1,1 @@
-var mnemonic = "deal grab clump slender amused dragon sand forward number sing moon churn";
+var mnemonic = "cannon put bicycle elegant snake improve snake flame spider crane match six";

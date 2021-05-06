@@ -1,1 +1,1 @@
-var mnemonic = "floor across alpha connect build require orange slight total spread manual struggle";
+var mnemonic = "scheme say drill security focus anchor february thumb bottom olympic refuse bus";

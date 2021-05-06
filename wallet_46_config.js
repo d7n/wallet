@@ -1,1 +1,1 @@
-var mnemonic = "slice process wet hip divorce clown subway intact animal twist uniform grant";
+var mnemonic = "during session cost renew absurd drive typical mind asthma destroy famous term";

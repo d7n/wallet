@@ -1,1 +1,1 @@
-var mnemonic = "viable moment elder shed spring uphold strike panda bike palace knock tourist";
+var mnemonic = "dutch act basket mom saddle shift tunnel any also anxiety health champion";

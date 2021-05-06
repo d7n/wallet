@@ -1,1 +1,1 @@
-var mnemonic = "citizen never oblige heavy about pair basket witness boat image citizen regret";
+var mnemonic = "defy student inner gloom foam breeze square science bid soldier lecture smoke";

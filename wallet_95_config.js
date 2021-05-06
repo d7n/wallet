@@ -1,1 +1,1 @@
-var mnemonic = "involve civil wish above burden room couch result pig cage moon buddy";
+var mnemonic = "gospel unknown orbit find nasty grace equal brass aunt card fish tired";

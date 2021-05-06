@@ -1,1 +1,1 @@
-var mnemonic = "february simple unlock vague wet basket pledge perfect connect embody square meat";
+var mnemonic = "detect net cup ethics pledge blue tank menu ahead market mom gas";

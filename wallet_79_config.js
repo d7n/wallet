@@ -1,1 +1,1 @@
-var mnemonic = "frequent pig deny surge grit cram south cage decade clap gate jeans";
+var mnemonic = "audit rich trigger wave crush divorce protect citizen ill radar uniform world";

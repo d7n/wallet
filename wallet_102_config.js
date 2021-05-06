@@ -1,1 +1,1 @@
-var mnemonic = "garage horn circle talent balcony motion laugh people try front hockey save";
+var mnemonic = "gravity destroy trap famous riot between wood spawn play twenty federal satoshi";

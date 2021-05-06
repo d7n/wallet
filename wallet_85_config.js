@@ -1,1 +1,1 @@
-var mnemonic = "purse iron ethics fantasy slice true word razor rigid traffic animal sniff";
+var mnemonic = "tobacco zone vault world maximum moral sphere ceiling whip often frequent plate";

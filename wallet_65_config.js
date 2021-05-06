@@ -1,1 +1,1 @@
-var mnemonic = "meadow sheriff pitch victory civil zebra edge flash illness gas response option";
+var mnemonic = "stable crop layer famous oak stock dish dune ivory dynamic quality divide";

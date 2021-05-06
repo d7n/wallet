@@ -1,1 +1,1 @@
-var mnemonic = "better cradle increase wood method slender snow ability visual radio shuffle anxiety";
+var mnemonic = "twice true tag together decorate immune fabric chunk artist universe session book";

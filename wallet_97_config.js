@@ -1,1 +1,1 @@
-var mnemonic = "say antenna satoshi forward bridge eyebrow mobile luggage flee put abuse upon";
+var mnemonic = "upgrade gaze figure derive lecture menu dolphin suggest school wave gauge tenant";

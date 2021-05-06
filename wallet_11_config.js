@@ -1,1 +1,1 @@
-var mnemonic = "gasp useful amused then police razor diamond profit emotion fly salon easy";
+var mnemonic = "denial nation custom notable olympic jungle anxiety reform office wave absorb upper";

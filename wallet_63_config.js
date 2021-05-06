@@ -1,1 +1,1 @@
-var mnemonic = "flash another angle future dry logic unable advance connect nominee pioneer fame";
+var mnemonic = "employ duck crime saddle fog enact garden daughter lady spy blast pond";

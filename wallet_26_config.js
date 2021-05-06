@@ -1,1 +1,1 @@
-var mnemonic = "pool want pretty identify fatigue welcome beach bronze knee rookie boil organ";
+var mnemonic = "agree warm orbit apology food armor input length chimney beach gate spare";

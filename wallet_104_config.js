@@ -1,1 +1,1 @@
-var mnemonic = "grow fragile seven ridge cinnamon blossom mesh office balcony bicycle try start";
+var mnemonic = "teach option city sad warfare shadow able soft bacon fiction topic predict";

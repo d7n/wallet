@@ -1,1 +1,1 @@
-var mnemonic = "spray impose fiber mammal laugh gentle talk best clock rabbit again frame";
+var mnemonic = "leader story buyer engine stool sugar garment tattoo tuna economy pen wonder";

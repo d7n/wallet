@@ -1,1 +1,1 @@
-var mnemonic = "mechanic west angle about north length vague either hamster vague bracket lock";
+var mnemonic = "play dismiss original chronic will ticket knock course history pause wolf expect";
