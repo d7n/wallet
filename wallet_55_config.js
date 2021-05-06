@@ -1,1 +1,1 @@
-var mnemonic = "horse client rate eyebrow fancy kind tobacco extra person random upon merry";
+var mnemonic = "stairs wash relax poem ginger december improve craft destroy horn attract march";

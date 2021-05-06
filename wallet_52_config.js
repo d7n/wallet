@@ -1,1 +1,1 @@
-var mnemonic = "predict hurdle corn virtual rare limb enable frost ecology top festival approve";
+var mnemonic = "insect lesson visit clump evoke axis achieve few piece life convince web";

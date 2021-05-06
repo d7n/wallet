@@ -1,1 +1,1 @@
-var mnemonic = "power guitar inflict describe skin cousin crowd protect field tortoise present claim";
+var mnemonic = "tunnel volcano pottery sauce vivid hedgehog apple honey all merge adjust more";

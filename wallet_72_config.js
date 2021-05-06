@@ -1,1 +1,1 @@
-var mnemonic = "pretty demise vote twice bulk farm success common dawn lazy response jeans";
+var mnemonic = "upset canal kangaroo nerve hood tiger start bulb cave meadow annual mind";

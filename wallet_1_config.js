@@ -1,1 +1,1 @@
-var mnemonic = "thank prosper smoke mail minor exile orphan hat sea cushion smoke ginger";
+var mnemonic = "rocket cream drift educate weird again leaf dial gold curious direct dress";

@@ -1,1 +1,1 @@
-var mnemonic = "photo square visit usual nephew banner midnight account cube canyon toy pelican";
+var mnemonic = "duty update trust loan cream confirm cloud build forget lift cost wasp";

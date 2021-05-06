@@ -1,1 +1,1 @@
-var mnemonic = "supreme blouse duck account pulse pave chimney join possible property veteran silver";
+var mnemonic = "pass clerk replace slight purchase run situate accuse comic dragon fancy boy";

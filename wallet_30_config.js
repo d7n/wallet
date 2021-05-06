@@ -1,1 +1,1 @@
-var mnemonic = "price stand link catch kidney tower slogan pipe human okay deer text";
+var mnemonic = "way exhaust measure stool eagle flight soup wonder pyramid diamond surge physical";

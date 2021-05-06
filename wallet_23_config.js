@@ -1,1 +1,1 @@
-var mnemonic = "safe any shiver book venture ice busy satisfy coral banana birth egg";
+var mnemonic = "arena sunset orbit grant buzz hood dirt pet arctic disorder bubble salute";

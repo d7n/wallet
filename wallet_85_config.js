@@ -1,1 +1,1 @@
-var mnemonic = "pitch addict fluid hero slender promote antenna denial metal empty bind soccer";
+var mnemonic = "scrap section anger chunk primary offer lecture juice grain current voice extra";

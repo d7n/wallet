@@ -1,1 +1,1 @@
-var mnemonic = "deer patch lazy end swear off resource magnet claw pull road hard";
+var mnemonic = "face shock matrix table party chat admit rifle weasel wire skill uphold";

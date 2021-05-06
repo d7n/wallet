@@ -1,1 +1,1 @@
-var mnemonic = "business smart tribe easily supreme echo trial reform guide pioneer matter dirt";
+var mnemonic = "scout rapid car tongue hurdle trash together siege wash plastic budget disease";

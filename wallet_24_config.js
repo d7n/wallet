@@ -1,1 +1,1 @@
-var mnemonic = "twice smoke liquid bunker ball enter possible version special empty praise estate";
+var mnemonic = "secret battle group urban repair trial feed treat stove timber town fashion";

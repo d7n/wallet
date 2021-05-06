@@ -1,1 +1,1 @@
-var mnemonic = "wall clock vicious extra bullet belt desk pencil bracket cheese dragon guess";
+var mnemonic = "beyond stairs width become clog visit session faculty future drink brief real";

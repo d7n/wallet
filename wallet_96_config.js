@@ -1,1 +1,1 @@
-var mnemonic = "when tortoise tongue vessel fortune sign nominee flock range acid immense during";
+var mnemonic = "buddy mass melt bid hero federal struggle moment burst verify brief name";

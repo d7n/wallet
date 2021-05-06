@@ -1,1 +1,1 @@
-var mnemonic = "steak cage dismiss atom picture toy fix skate stadium phone birth reform";
+var mnemonic = "viable wild town slice hybrid pink around village outdoor lesson toast happy";

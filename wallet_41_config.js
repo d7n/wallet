@@ -1,1 +1,1 @@
-var mnemonic = "cancel thrive diamond payment beauty surface patrol wish remind squeeze rebuild symbol";
+var mnemonic = "jeans provide topple depart term love bronze fluid time nominee relief sustain";

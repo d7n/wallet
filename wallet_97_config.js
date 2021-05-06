@@ -1,1 +1,1 @@
-var mnemonic = "model grief smooth tongue rifle bicycle avoid source pluck jar sad ranch";
+var mnemonic = "bring eye orient inch exhaust region city park pepper shell crush useless";

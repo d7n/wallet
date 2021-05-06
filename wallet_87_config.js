@@ -1,1 +1,1 @@
-var mnemonic = "normal hurt crop tackle bar reunion target nasty tourist load miss clean";
+var mnemonic = "absurd garment glad surge earth fame correct hurt peace olympic inch spice";

@@ -1,1 +1,1 @@
-var mnemonic = "wait tongue cloud equal defense lucky pulp unaware purity note custom gloom";
+var mnemonic = "shoe left process private mixture slush neck ski useless gown loud oil";

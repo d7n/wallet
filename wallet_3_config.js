@@ -1,1 +1,1 @@
-var mnemonic = "oil winner uniform mountain robot section else seminar surge spy coconut lock";
+var mnemonic = "perfect never layer poem clump unknown blade lens bounce ring tomato client";

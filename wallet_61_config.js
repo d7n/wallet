@@ -1,1 +1,1 @@
-var mnemonic = "jacket despair already issue gym lawn siren update ivory toddler drop town";
+var mnemonic = "coral novel one grant tag grace focus tissue laptop identify couch rapid";

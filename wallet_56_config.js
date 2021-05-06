@@ -1,1 +1,1 @@
-var mnemonic = "ride begin pass dizzy anchor marine staff dignity chest dress force couple";
+var mnemonic = "inside grow museum fortune pony bounce crop scare enough bottom scrub attend";

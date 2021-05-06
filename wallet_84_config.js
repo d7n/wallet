@@ -1,1 +1,1 @@
-var mnemonic = "sun butter scissors aunt bulk remove upset enjoy hunt satisfy knock grocery";
+var mnemonic = "angle laptop defense scan coral promote lion crucial quality season tobacco claw";

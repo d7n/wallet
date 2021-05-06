@@ -1,1 +1,1 @@
-var mnemonic = "clerk negative captain punch spirit twelve post empower clown afford spoon trophy";
+var mnemonic = "input crouch silver window mass six comfort wool shine what payment kiss";

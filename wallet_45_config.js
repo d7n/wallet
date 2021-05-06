@@ -1,1 +1,1 @@
-var mnemonic = "twenty worth nerve panic elegant enlist type diamond normal ability insect test";
+var mnemonic = "bunker shrimp fox wasp rose current sentence merry arctic marriage drip recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "labor slight memory cargo horn recycle anger current ensure veteran health track";
+var mnemonic = "require runway february repair boost airport lamp pottery vacuum click yard click";

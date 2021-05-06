@@ -1,1 +1,1 @@
-var mnemonic = "family direct uncover sustain thumb peasant memory fragile gather funny trust inner";
+var mnemonic = "bread earth above idle engage insane until ride athlete garlic can photo";

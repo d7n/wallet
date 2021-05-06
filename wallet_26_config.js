@@ -1,1 +1,1 @@
-var mnemonic = "used simple lobster visit similar message drift digital tuna provide sugar brass";
+var mnemonic = "upon embrace obey melody blush camp deny knock like grab tenant parade";

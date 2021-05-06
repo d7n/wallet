@@ -1,1 +1,1 @@
-var mnemonic = "near equip march tornado carpet myth owner huge impact junior glow sail";
+var mnemonic = "easy surround remain idle chunk cause kangaroo vault soldier lamp unlock tunnel";

@@ -1,1 +1,1 @@
-var mnemonic = "evil obtain item ladder lumber police happy purity fiber kidney exact market";
+var mnemonic = "stove off embark alert vast wall prepare ugly arm setup arrest input";

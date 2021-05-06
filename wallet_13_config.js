@@ -1,1 +1,1 @@
-var mnemonic = "elevator little angry dust welcome indoor dirt van cloth office equal puppy";
+var mnemonic = "design gospel pistol silver original husband brick predict stand mechanic document kidney";

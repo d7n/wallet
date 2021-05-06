@@ -1,1 +1,1 @@
-var mnemonic = "there ensure genuine garment survey jealous february mask cigar smooth depend bachelor";
+var mnemonic = "bulb multiply quantum all flower pet there minute wife report first pair";

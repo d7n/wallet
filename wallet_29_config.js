@@ -1,1 +1,1 @@
-var mnemonic = "animal state invite reunion buzz flower cruel current bonus real uniform scout";
+var mnemonic = "hawk earn diet window fringe inmate domain blur miss clean human profit";

@@ -1,1 +1,1 @@
-var mnemonic = "exhaust address spare legend street weird problem obtain woman action goat auto";
+var mnemonic = "female song elite tennis host rabbit wire baby olympic explain fruit razor";

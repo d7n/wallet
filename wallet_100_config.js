@@ -1,1 +1,1 @@
-var mnemonic = "say fatal pizza flash lemon illness load patrol scatter unit sunset vibrant";
+var mnemonic = "share amount result glare whisper luggage balance bring either mosquito master report";

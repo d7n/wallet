@@ -1,1 +1,1 @@
-var mnemonic = "will suspect story wall brisk spatial peasant amazing this market hello talent";
+var mnemonic = "rule solve arrive wall exact cable join panic hill cake rib raise";

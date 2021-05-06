@@ -1,1 +1,1 @@
-var mnemonic = "across pilot long snow age sketch garment breeze rule turtle taste mixed";
+var mnemonic = "flock idle decade swarm evil skin place imitate cliff color asset hello";

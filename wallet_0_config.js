@@ -1,1 +1,1 @@
-var mnemonic = "quick bone donkey tomorrow girl dolphin arm gallery typical middle tower curve";
+var mnemonic = "plate actor gossip rug cement october squirrel okay grant brush pupil barrel";

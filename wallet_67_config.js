@@ -1,1 +1,1 @@
-var mnemonic = "place perfect camp lesson remind soup jewel question tortoise movie pill noise";
+var mnemonic = "stem grit flag candy banana front castle asset garlic spice supreme remove";

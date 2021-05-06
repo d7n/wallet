@@ -1,1 +1,1 @@
-var mnemonic = "favorite advance board large private slab radio black taste flight hamster coast";
+var mnemonic = "jump stumble weird deliver dolphin actual rescue album infant gentle hope giant";

@@ -1,1 +1,1 @@
-var mnemonic = "arena suggest during syrup myself accident leaf bullet bullet defense ability hundred";
+var mnemonic = "tumble hockey buzz enlist spoon exile push copy loud ladder youth wonder";

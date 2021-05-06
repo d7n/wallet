@@ -1,1 +1,1 @@
-var mnemonic = "bulb ecology allow bundle sentence want either review load light review common";
+var mnemonic = "swift suffer wrist certain pool manage yellow crack orient wheel glance episode";

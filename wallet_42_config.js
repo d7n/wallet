@@ -1,1 +1,1 @@
-var mnemonic = "thumb smart solid lawn boat tragic bird wedding absent solution exercise attract";
+var mnemonic = "panel else cabbage suffer keep gun execute moon earth matter arrange two";

@@ -1,1 +1,1 @@
-var mnemonic = "nose rent purse elder mass either nerve amount swarm above now marine";
+var mnemonic = "timber slow shallow cabin rug bomb toast title hammer copper arrest victory";

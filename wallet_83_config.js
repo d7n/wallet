@@ -1,1 +1,1 @@
-var mnemonic = "wasp cupboard plastic ozone mutual disorder club garlic clinic climb track clump";
+var mnemonic = "glad ginger dose nurse crater indicate quit payment cabin put snack link";

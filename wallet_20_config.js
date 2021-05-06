@@ -1,1 +1,1 @@
-var mnemonic = "loyal idea custom eyebrow motor sugar cram will orphan liar shoot few";
+var mnemonic = "mobile caution bamboo salute grunt thunder matter lift long velvet car joke";

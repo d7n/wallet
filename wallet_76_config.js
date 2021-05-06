@@ -1,1 +1,1 @@
-var mnemonic = "ladder margin armor elbow dizzy shield install useless frequent oven party organ";
+var mnemonic = "sibling diamond random inflict random rich noodle addict spend industry method put";

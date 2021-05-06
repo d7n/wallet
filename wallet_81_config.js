@@ -1,1 +1,1 @@
-var mnemonic = "demise else general clump prevent tube boss clip caution goat solution badge";
+var mnemonic = "hurdle sad deputy license base priority pride odor coin tortoise shine minute";

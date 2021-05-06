@@ -1,1 +1,1 @@
-var mnemonic = "payment leisure strong illegal sort tree someone noise clip clog marriage worry";
+var mnemonic = "bracket absurd rely boost another radar planet fox sphere general side term";

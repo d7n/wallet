@@ -1,1 +1,1 @@
-var mnemonic = "track visit glimpse topic mercy coin laundry document unaware toddler benefit worth";
+var mnemonic = "turn order sound spice pony vivid escape swing enroll eager pigeon final";

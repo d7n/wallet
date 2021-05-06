@@ -1,1 +1,1 @@
-var mnemonic = "story peasant stereo snap black chimney dinosaur replace link tunnel apple all";
+var mnemonic = "brown depend iron people solid veteran piano used invite depart omit lawsuit";

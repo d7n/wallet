@@ -1,1 +1,1 @@
-var mnemonic = "tone tunnel general student used reopen turkey plug donor impulse sing replace";
+var mnemonic = "ability fluid drum antenna sauce silly match gloom grain bargain thunder east";

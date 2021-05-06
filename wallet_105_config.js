@@ -1,1 +1,1 @@
-var mnemonic = "slide tourist base raccoon close coil aspect cactus begin island purity secret";
+var mnemonic = "emerge goddess skirt pelican train sign remind police hen able traffic level";

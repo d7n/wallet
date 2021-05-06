@@ -1,1 +1,1 @@
-var mnemonic = "hurdle gather elephant doctor oak arch hurry diet power habit foot bitter";
+var mnemonic = "chaos success kangaroo arrest sign aisle fever agree seven fly step release";

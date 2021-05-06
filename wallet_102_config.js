@@ -1,1 +1,1 @@
-var mnemonic = "risk thank wet bring antique retreat dawn husband fluid pool hunt owner";
+var mnemonic = "collect hundred cupboard install spy left kangaroo post dragon siege chronic voyage";

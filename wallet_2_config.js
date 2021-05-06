@@ -1,1 +1,1 @@
-var mnemonic = "focus style badge gentle pony tip buddy rate produce item palm twin";
+var mnemonic = "renew twice sun error minor write toss visual honey hood world bind";

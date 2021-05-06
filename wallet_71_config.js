@@ -1,1 +1,1 @@
-var mnemonic = "engine cat tent sleep category uncle beach into broccoli angle fox pride";
+var mnemonic = "culture logic display noodle attend peanut grow sudden crane salmon tide tackle";

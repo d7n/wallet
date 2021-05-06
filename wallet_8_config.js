@@ -1,1 +1,1 @@
-var mnemonic = "sure future fringe sauce globe consider survey frown balance hold baby action";
+var mnemonic = "truck wrestle attitude fuel suit asset repeat demand scissors machine silver mass";

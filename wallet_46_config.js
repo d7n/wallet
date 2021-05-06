@@ -1,1 +1,1 @@
-var mnemonic = "park satoshi people glare ice forget tennis wash mom start toward bless";
+var mnemonic = "decline bike repeat review whisper auction order lunch grow bundle reveal route";

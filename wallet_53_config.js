@@ -1,1 +1,1 @@
-var mnemonic = "genre cart client razor season feel envelope initial tongue combine curious tennis";
+var mnemonic = "asset seven mammal burst give future crash balcony cake stamp marble awful";

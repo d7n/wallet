@@ -1,1 +1,1 @@
-var mnemonic = "sphere forget call anchor supply method blood autumn whisper marine foam armor";
+var mnemonic = "strike tail affair flip confirm autumn coconut faculty team aspect pipe alien";

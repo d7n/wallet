@@ -1,1 +1,1 @@
-var mnemonic = "valve wrong finger system sport galaxy nature hockey hungry label vital rug";
+var mnemonic = "citizen easy teach lake magnet defense fringe echo very funny panther small";

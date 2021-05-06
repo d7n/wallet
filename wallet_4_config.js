@@ -1,1 +1,1 @@
-var mnemonic = "debris style save raise only video bounce belt siren rough stable barrel";
+var mnemonic = "solid capital detail reveal regular horn success combine rare decorate about slide";

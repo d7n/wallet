@@ -1,1 +1,1 @@
-var mnemonic = "puzzle hope agent razor pelican found sleep borrow stool zoo observe coconut";
+var mnemonic = "push scale sword middle forum welcome stomach tattoo mutual message ceiling dinner";

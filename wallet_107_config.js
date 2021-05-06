@@ -1,1 +1,1 @@
-var mnemonic = "mammal merit belt empower small normal simple motor wool grain random poet";
+var mnemonic = "uncle number melody prevent canvas gun robot april device bone afford blue";

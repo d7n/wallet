@@ -1,1 +1,1 @@
-var mnemonic = "latin run age myself hurt neck news message fold merit anxiety spawn";
+var mnemonic = "wave elbow good worry brief dinner smart yellow vacant usage dynamic horse";

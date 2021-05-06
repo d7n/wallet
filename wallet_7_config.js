@@ -1,1 +1,1 @@
-var mnemonic = "regular celery truly tornado surround gap love river sugar march laugh army";
+var mnemonic = "loop chronic maple table gauge domain case clown run exclude enroll under";

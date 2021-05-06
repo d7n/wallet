@@ -1,1 +1,1 @@
-var mnemonic = "chapter curtain west endorse version cost leisure fat crack grow account foam";
+var mnemonic = "help rebuild among olive chef reward inner stairs torch usual gift erase";

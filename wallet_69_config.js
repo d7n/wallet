@@ -1,1 +1,1 @@
-var mnemonic = "digital worth patient rain inspire aunt genre point enhance polar spread fury";
+var mnemonic = "owner route corn document defy fantasy reunion divorce cream useful enact ten";

@@ -1,1 +1,1 @@
-var mnemonic = "panda ten salon cart pledge rescue rail hope wear verify noodle move";
+var mnemonic = "solar craft warrior pond lecture tackle sand hunt property barrel salt gun";

@@ -1,1 +1,1 @@
-var mnemonic = "parade vintage common globe sample canoe comic brown dove sweet pigeon replace";
+var mnemonic = "cactus thrive egg over ensure bus cargo helmet risk kangaroo oppose custom";

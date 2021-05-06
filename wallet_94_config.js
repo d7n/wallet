@@ -1,1 +1,1 @@
-var mnemonic = "jazz riot sorry clean verb order explain wood resource fancy vague faculty";
+var mnemonic = "once coil dawn void tooth force desk follow short ordinary warrior tired";

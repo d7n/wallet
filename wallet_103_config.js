@@ -1,1 +1,1 @@
-var mnemonic = "edit old average exist unfold cup large vivid hunt skin scissors employ";
+var mnemonic = "gauge mountain prosper domain grid opinion cover hire supply romance senior turn";

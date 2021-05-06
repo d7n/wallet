@@ -1,1 +1,1 @@
-var mnemonic = "rebel radio chimney sustain verb fiber local light great saddle spider spawn";
+var mnemonic = "invest lens goddess upgrade cram mesh carbon pear indicate vivid fun forest";

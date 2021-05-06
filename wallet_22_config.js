@@ -1,1 +1,1 @@
-var mnemonic = "resist brush team arctic between mask sibling hint differ garden magnet okay";
+var mnemonic = "gallery answer tuition unfair problem moral want circle bulk team patrol pipe";

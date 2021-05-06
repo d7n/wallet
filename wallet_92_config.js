@@ -1,1 +1,1 @@
-var mnemonic = "captain seek cat metal remain bind slush shed rose million snow expire";
+var mnemonic = "stumble resource alley spirit flush erosion office multiply young effort guard jar";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny lumber carbon left enhance typical ethics arctic call exclude razor emerge";
+var mnemonic = "suspect profit hour moment gain cream fresh purpose like mad arrest try";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry gun possible resource option wise mail chair slender emotion various appear";
+var mnemonic = "pole genuine hold invite afraid exit collect sun view sausage blossom fruit";

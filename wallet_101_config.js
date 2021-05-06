@@ -1,1 +1,1 @@
-var mnemonic = "certain cluster crack system leopard find sphere arrow vote kite switch debris";
+var mnemonic = "lecture fossil amused kitchen spray issue oval brush alter ask chronic throw";

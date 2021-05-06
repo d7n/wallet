@@ -1,1 +1,1 @@
-var mnemonic = "inspire scorpion divide grow oval urge ready merge key donkey asset chaos";
+var mnemonic = "enjoy crater limb dynamic similar leave swift tilt horror poverty vote surprise";

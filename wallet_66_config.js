@@ -1,1 +1,1 @@
-var mnemonic = "peace group quarter project talent extra pencil provide chief dumb ability penalty";
+var mnemonic = "bag spike joke recipe blanket culture episode divert gaze bless flag walk";

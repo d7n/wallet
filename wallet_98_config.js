@@ -1,1 +1,1 @@
-var mnemonic = "clog strike carry note deal cherry pride rifle erosion crouch velvet priority";
+var mnemonic = "bus spray beyond sniff clip melody clay urban tomato bottom wait online";

@@ -1,1 +1,1 @@
-var mnemonic = "armor custom neglect venue luxury violin uncle smoke chicken sauce excuse toilet";
+var mnemonic = "urge orange knife senior run cattle above donkey crew knife fall outer";

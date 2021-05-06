@@ -1,1 +1,1 @@
-var mnemonic = "gap case twist giant reunion naive chimney stereo sense harsh medal obtain";
+var mnemonic = "window scale salon luxury belt alley view amount fold gift empty eagle";

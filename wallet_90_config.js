@@ -1,1 +1,1 @@
-var mnemonic = "bitter decide poverty antenna license echo nominee hobby bridge clap sea olive";
+var mnemonic = "rare car pair unusual wrist flat clip great improve gap scheme hockey";

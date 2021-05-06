@@ -1,1 +1,1 @@
-var mnemonic = "gap cotton replace unfair skate swallow capable surface time comfort chat head";
+var mnemonic = "skill vanish bottom afford next federal immense hockey twist upset room patrol";

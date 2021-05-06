@@ -1,1 +1,1 @@
-var mnemonic = "proud since impulse attract tired aware update boost text sauce urban boring";
+var mnemonic = "faith poet visa grass chaos burger wave army ride memory middle fit";

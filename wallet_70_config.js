@@ -1,1 +1,1 @@
-var mnemonic = "high meadow album spoil very matrix decide car end ball skirt joy";
+var mnemonic = "dutch gasp soft say wheat true thing account deputy sword duck brown";
