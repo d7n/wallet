@@ -1,1 +1,1 @@
-var mnemonic = "month define voyage clip shoulder add lonely either drastic gather slogan supply";
+var mnemonic = "twenty motion edge page degree prefer price hover sleep pattern curious loyal";

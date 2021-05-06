@@ -1,1 +1,1 @@
-var mnemonic = "lunar equal give settle blouse depth easily kiss tree army arrow jar";
+var mnemonic = "filter teach before grain pioneer video tray vote also erosion oyster hen";

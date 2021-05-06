@@ -1,1 +1,1 @@
-var mnemonic = "valve release dawn motion twelve minute slender planet attend visual six start";
+var mnemonic = "athlete second choose beauty name code floor glad client convince fun exile";

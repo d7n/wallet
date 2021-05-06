@@ -1,1 +1,1 @@
-var mnemonic = "minute humble initial dismiss deal novel priority must burger diary magic pulse";
+var mnemonic = "conduct cabin mixture mystery swear visit guide come alarm ethics level model";

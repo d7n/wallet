@@ -1,1 +1,1 @@
-var mnemonic = "comic chimney opinion sentence isolate clip plunge door morning special food wing";
+var mnemonic = "leg library siege wasp rose gorilla journey air response end place grit";

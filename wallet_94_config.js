@@ -1,1 +1,1 @@
-var mnemonic = "diary item toast palace isolate buyer shield advance girl object spread never";
+var mnemonic = "exile error wealth tribe weasel twenty problem wealth glory general try oppose";

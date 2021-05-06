@@ -1,1 +1,1 @@
-var mnemonic = "gift elite story reject first divorce elegant frame force used ramp victory";
+var mnemonic = "flash fit pull pride beauty blast finger wasp lamp another omit citizen";

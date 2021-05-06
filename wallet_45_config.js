@@ -1,1 +1,1 @@
-var mnemonic = "catch group obscure patrol foam disease forward dial vault monkey leaf donate";
+var mnemonic = "journey certain category emerge goat truck pilot buddy mirror maximum vague point";

@@ -1,1 +1,1 @@
-var mnemonic = "head hurdle opinion panda vast ankle system heart target street subject ostrich";
+var mnemonic = "alley glove orange lumber oxygen warm void camp online ocean victory cage";

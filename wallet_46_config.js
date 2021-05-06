@@ -1,1 +1,1 @@
-var mnemonic = "replace post alone aisle auto combine upset goddess tribe labor broom raven";
+var mnemonic = "gadget wide cricket swamp pottery impulse such chapter leisure void blouse trade";

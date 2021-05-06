@@ -1,1 +1,1 @@
-var mnemonic = "clip wonder uphold pause vacuum awake gym refuse syrup crater nice spy";
+var mnemonic = "short rubber nominee ocean immune minimum agent chest amused scissors occur drink";

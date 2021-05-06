@@ -1,1 +1,1 @@
-var mnemonic = "jump analyst toe join forum obvious derive poem half spend device rural";
+var mnemonic = "shoulder impose ten choose avoid buddy chunk better cost float diamond inform";

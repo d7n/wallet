@@ -1,1 +1,1 @@
-var mnemonic = "present spy october crystal tiger illegal shuffle bag hamster category mercy camp";
+var mnemonic = "spider exist soda amused warfare ginger sibling clay core wreck fiber gap";

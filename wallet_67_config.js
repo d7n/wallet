@@ -1,1 +1,1 @@
-var mnemonic = "ethics inform upper during organ umbrella west snake floor later poem service";
+var mnemonic = "march stumble ketchup drink toss goddess bullet used arctic flee jelly sleep";

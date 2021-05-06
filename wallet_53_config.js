@@ -1,1 +1,1 @@
-var mnemonic = "hub abandon dress ostrich various cute awake settle rib primary fiber pony";
+var mnemonic = "please wine senior luggage trade lake census sort account miss purpose describe";

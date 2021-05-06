@@ -1,1 +1,1 @@
-var mnemonic = "olive menu conduct impact flight motion output need expire sphere possible barely";
+var mnemonic = "unfair orbit stool casino excite disagree scene advice start oppose fiber umbrella";

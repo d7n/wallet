@@ -1,1 +1,1 @@
-var mnemonic = "window oyster good winter rib gas bring exit order quantum spoon force";
+var mnemonic = "weather gallery depth decade desk zoo real miss cactus enhance repair same";

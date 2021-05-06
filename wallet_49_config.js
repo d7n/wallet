@@ -1,1 +1,1 @@
-var mnemonic = "country list scare review accident vendor poem globe park tragic rain fantasy";
+var mnemonic = "horror tortoise delay bicycle today teach issue auction blossom shrimp ready fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "grass vessel camp bachelor spider update tide wall enjoy country smoke iron";
+var mnemonic = "during gas source lecture rich crash slot hybrid diet civil tuition thing";

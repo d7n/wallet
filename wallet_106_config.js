@@ -1,1 +1,1 @@
-var mnemonic = "camera merit wage gather rebuild method angle talk drastic fiber worth ostrich";
+var mnemonic = "click food require canoe chief conduct bid onion lens dirt dial bulk";

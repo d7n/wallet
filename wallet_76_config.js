@@ -1,1 +1,1 @@
-var mnemonic = "master ivory resemble chuckle joy host finish estate ask regret lonely century";
+var mnemonic = "scissors lava abandon turkey giraffe lunch jaguar saddle report monster pig gold";

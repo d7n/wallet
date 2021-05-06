@@ -1,1 +1,1 @@
-var mnemonic = "head please coconut wrestle verify divorce divide seek nasty ghost board album";
+var mnemonic = "weapon scare pigeon lunar other remember frozen thank leg tomato fiscal step";

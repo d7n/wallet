@@ -1,1 +1,1 @@
-var mnemonic = "cousin buffalo receive equip mountain that cook garment cry thought erode rail";
+var mnemonic = "grab hard axis again warfare copy moral wolf say copper mail seek";

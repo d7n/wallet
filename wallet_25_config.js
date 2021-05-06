@@ -1,1 +1,1 @@
-var mnemonic = "base common ostrich discover biology castle elder cabin ski lab trouble era";
+var mnemonic = "rail tail supreme jaguar next depend name mystery steak moon misery fault";

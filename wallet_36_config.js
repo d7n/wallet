@@ -1,1 +1,1 @@
-var mnemonic = "motion parrot increase also use gas feed cup state area copy float";
+var mnemonic = "guard average soon liar squirrel leave baby dolphin iron fiber pact question";

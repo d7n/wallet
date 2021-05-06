@@ -1,1 +1,1 @@
-var mnemonic = "scrap decide seed file broccoli quiz rice sand aerobic pudding minute jump";
+var mnemonic = "sound emerge real model viable feature include they place mirror moon win";

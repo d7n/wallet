@@ -1,1 +1,1 @@
-var mnemonic = "mobile donor rebuild current tuna picnic waste baby tube season general side";
+var mnemonic = "utility away nominee shine double person vault trim top pigeon thumb cradle";

@@ -1,1 +1,1 @@
-var mnemonic = "oval weird cry strong napkin useless clog end kangaroo power good excite";
+var mnemonic = "stove jar old pencil friend mystery city waste oval hair together agree";

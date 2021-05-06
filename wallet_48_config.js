@@ -1,1 +1,1 @@
-var mnemonic = "void bar human ridge tattoo risk token save twelve stand extra rapid";
+var mnemonic = "valid eyebrow mixture flag junior girl umbrella tone bachelor razor man glass";

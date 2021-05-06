@@ -1,1 +1,1 @@
-var mnemonic = "off fatigue wine enforce soap stumble muffin review silk gesture beach satoshi";
+var mnemonic = "polar asthma toy together bird awesome credit develop seek skirt must basic";

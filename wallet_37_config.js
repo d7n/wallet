@@ -1,1 +1,1 @@
-var mnemonic = "ticket keep patient cousin high kind rose artefact jacket vehicle fork little";
+var mnemonic = "rule sister portion magnet peanut clap gospel ostrich bunker review broccoli away";

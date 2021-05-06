@@ -1,1 +1,1 @@
-var mnemonic = "argue month country clip stage immense talk wheel gate kitchen mom dolphin";
+var mnemonic = "visit boat always govern action obtain carpet valve series ready safe noodle";

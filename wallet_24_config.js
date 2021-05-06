@@ -1,1 +1,1 @@
-var mnemonic = "hen either wool knock elephant bleak visit idle expect reduce claw maze";
+var mnemonic = "client buddy round truth useful stand rule myself scout observe asthma dune";

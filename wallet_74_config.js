@@ -1,1 +1,1 @@
-var mnemonic = "still hope profit innocent mail option champion loyal airport also possible camera";
+var mnemonic = "keep exhaust dawn trend acoustic lyrics join outside concert kick bomb photo";

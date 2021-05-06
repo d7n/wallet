@@ -1,1 +1,1 @@
-var mnemonic = "skull valley spray exercise disorder comfort select economy page million movie post";
+var mnemonic = "merge maximum what asset attitude twenty butter doctor avocado private smoke man";

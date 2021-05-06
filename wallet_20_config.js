@@ -1,1 +1,1 @@
-var mnemonic = "cloth repair giggle chef hard range safe index fat bright lock fiber";
+var mnemonic = "surprise space leaf forest whisper dumb half month swamp garden ribbon grow";

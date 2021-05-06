@@ -1,1 +1,1 @@
-var mnemonic = "almost twelve genre throw habit like shiver century kidney mutual strike floor";
+var mnemonic = "leader raise cluster skirt rich moral devote argue foam age away spawn";

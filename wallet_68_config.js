@@ -1,1 +1,1 @@
-var mnemonic = "unable butter north discover unveil text science enforce legend pudding assume topic";
+var mnemonic = "casual canoe timber sick pass involve job core label hire sustain ostrich";

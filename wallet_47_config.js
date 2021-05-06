@@ -1,1 +1,1 @@
-var mnemonic = "combine ginger disagree today alpha lonely fetch either exhaust embrace clean scare";
+var mnemonic = "globe firm betray pool excuse actor exist letter syrup kangaroo rebel minor";

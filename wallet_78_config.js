@@ -1,1 +1,1 @@
-var mnemonic = "august lumber news funny proud move group hotel round flame wire topic";
+var mnemonic = "fashion sleep thumb street club scheme medal aim divorce half luxury urban";

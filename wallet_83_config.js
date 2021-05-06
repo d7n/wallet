@@ -1,1 +1,1 @@
-var mnemonic = "hint address outer village affair vehicle carbon smart casual session mention shuffle";
+var mnemonic = "absurd soap link gentle seek spray mystery erode exercise guess merry pulp";

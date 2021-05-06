@@ -1,1 +1,1 @@
-var mnemonic = "guess bronze member wasp total learn outside punch ripple torch evoke hour";
+var mnemonic = "soul brown sunset imitate august weird ecology achieve water adult error normal";

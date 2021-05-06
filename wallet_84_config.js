@@ -1,1 +1,1 @@
-var mnemonic = "social route truly marble segment salt velvet atom jelly broccoli stable leaf";
+var mnemonic = "problem couch omit century need candy target empty style over either protect";

@@ -1,1 +1,1 @@
-var mnemonic = "entry pelican anxiety item foster anxiety excuse bamboo number upset lounge omit";
+var mnemonic = "hybrid sauce flame love solve hedgehog island blast kid popular mesh unique";

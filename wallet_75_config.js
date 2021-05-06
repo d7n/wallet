@@ -1,1 +1,1 @@
-var mnemonic = "combine forget wasp orient brief siren disorder sweet goat attitude power thunder";
+var mnemonic = "install auto rate purpose top total siren sample sea tool summer blood";

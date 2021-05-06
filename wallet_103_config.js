@@ -1,1 +1,1 @@
-var mnemonic = "frame travel capital advance length help exact bone empower potato execute volume";
+var mnemonic = "title winner save minor unique already define absent average ladder champion direct";

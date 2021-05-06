@@ -1,1 +1,1 @@
-var mnemonic = "attract robust humble more marriage addict escape bag wash sort frost useless";
+var mnemonic = "focus pizza measure online refuse option laugh surge chef cherry celery autumn";

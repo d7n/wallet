@@ -1,1 +1,1 @@
-var mnemonic = "gossip doctor pause alcohol elbow absorb episode trap entire champion mechanic auto";
+var mnemonic = "calm feed speak alien level print gospel light word atom old shock";

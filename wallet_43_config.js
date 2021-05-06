@@ -1,1 +1,1 @@
-var mnemonic = "thumb riot solve bulk quit loop front blade update abuse brass cloud";
+var mnemonic = "pitch load cousin wait next hawk road school like install fire crop";

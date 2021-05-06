@@ -1,1 +1,1 @@
-var mnemonic = "sweet provide visual uphold place like help festival traffic output depart exercise";
+var mnemonic = "depend evoke exchange monkey armed solar speak this clown endless hip dwarf";

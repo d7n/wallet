@@ -1,1 +1,1 @@
-var mnemonic = "struggle expire atom accident pretty salad census journey refuse what rely cabin";
+var mnemonic = "onion coil wash town follow merge soul equip suggest immune what crawl";

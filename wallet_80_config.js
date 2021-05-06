@@ -1,1 +1,1 @@
-var mnemonic = "vanish skate vocal rack bone guide laundry garden approve base cross obey";
+var mnemonic = "dose juice people hurt zone fruit master tilt omit kitchen crucial fashion";

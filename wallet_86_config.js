@@ -1,1 +1,1 @@
-var mnemonic = "excite world engine repair cube crazy number soccer picnic trophy perfect argue";
+var mnemonic = "exact fire police vanish fish spell amused sleep topple throw rival butter";

@@ -1,1 +1,1 @@
-var mnemonic = "minor disease pepper stock soldier audit guitar correct subject style essay truth";
+var mnemonic = "brisk order blue finger betray brother excess thrive planet rescue omit carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology alone amused potato nuclear equal door raw skirt woman boat hip";
+var mnemonic = "fog noble wide celery web better until pair park slam mask whip";

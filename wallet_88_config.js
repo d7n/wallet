@@ -1,1 +1,1 @@
-var mnemonic = "earth inner habit elite payment case supply talk kiss elbow deal original";
+var mnemonic = "normal behind margin unique pudding fancy swing dawn junk limb cram someone";

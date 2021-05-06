@@ -1,1 +1,1 @@
-var mnemonic = "mechanic raven torch ghost depend husband decorate mixture pave fly sponsor ankle";
+var mnemonic = "doll empty chuckle trumpet offer sing pause garlic garlic faculty question develop";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely place health small add silent leave guard regular rice lava blur";
+var mnemonic = "spice category summer much floor enter push excite kitchen drift episode live";

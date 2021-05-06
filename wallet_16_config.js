@@ -1,1 +1,1 @@
-var mnemonic = "clap loud subway vivid turkey camp dream miss produce cry repair habit";
+var mnemonic = "apple dune slender choice behind brother crunch artist quarter income okay knee";

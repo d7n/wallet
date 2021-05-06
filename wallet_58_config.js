@@ -1,1 +1,1 @@
-var mnemonic = "frozen inside verb risk damp speed question daughter start fire steak crash";
+var mnemonic = "picnic earn sort curious fancy sign canvas consider salute legend ability curious";

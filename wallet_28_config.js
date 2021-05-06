@@ -1,1 +1,1 @@
-var mnemonic = "myth blush hungry coil file coast carpet merge prepare wage script patient";
+var mnemonic = "save promote tired battle wink famous salute insect paper lobster dignity man";

@@ -1,1 +1,1 @@
-var mnemonic = "infant witness image renew ordinary tribe armed unfold team decade tree match";
+var mnemonic = "negative senior flight aisle tip galaxy disagree round chest ankle item three";

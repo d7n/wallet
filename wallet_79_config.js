@@ -1,1 +1,1 @@
-var mnemonic = "bench screen someone shoulder oven pattern waste burger banner rural slim random";
+var mnemonic = "tongue access second catalog cabin cute search iron sustain essay clay genuine";

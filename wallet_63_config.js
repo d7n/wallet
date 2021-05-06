@@ -1,1 +1,1 @@
-var mnemonic = "swear absorb glimpse torch scare buddy switch insane sun typical birth client";
+var mnemonic = "snap six clean rude cousin dance crime rescue blue ordinary nothing rather";

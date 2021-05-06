@@ -1,1 +1,1 @@
-var mnemonic = "fresh hunt army strategy better woman jump script bacon view cross tribe";
+var mnemonic = "rhythm merge size track security area insect squeeze green oval captain aunt";

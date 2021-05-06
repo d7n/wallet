@@ -1,1 +1,1 @@
-var mnemonic = "marriage adapt little change project come enroll marine gift camera laptop bring";
+var mnemonic = "staff dry father echo poet tank tomorrow resemble plate brand toward bullet";

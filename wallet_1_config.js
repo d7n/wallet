@@ -1,1 +1,1 @@
-var mnemonic = "height cake end carpet price fish upset tattoo february august donkey story";
+var mnemonic = "day antique kitchen connect valve crop gap annual funny usage eight skirt";

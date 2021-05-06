@@ -1,1 +1,1 @@
-var mnemonic = "refuse slot state chalk suggest crime cliff sword ship brick analyst hockey";
+var mnemonic = "poem vicious lava reason tail damage situate thing blanket crowd diagram lyrics";

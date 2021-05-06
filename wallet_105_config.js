@@ -1,1 +1,1 @@
-var mnemonic = "carry erase spice harvest brown duck custom tray certain winter alley test";
+var mnemonic = "enough beauty betray village stuff crash tattoo peanut distance electric draft foot";

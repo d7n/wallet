@@ -1,1 +1,1 @@
-var mnemonic = "hamster gown excuse collect bus fence immune skate brick monster foster resist";
+var mnemonic = "circle lake track catalog camera helmet pig pepper guard unhappy prize door";

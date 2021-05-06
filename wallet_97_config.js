@@ -1,1 +1,1 @@
-var mnemonic = "slide remind mom polar luggage shrimp eyebrow equip town dilemma suggest inch";
+var mnemonic = "illness pulse diet blast kangaroo shadow easily book stool tail stairs ketchup";

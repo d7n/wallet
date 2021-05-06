@@ -1,1 +1,1 @@
-var mnemonic = "mistake caught fork depart nose where road escape invite pottery blood shy";
+var mnemonic = "tiger opinion endorse fade dawn until rival planet metal side decorate short";

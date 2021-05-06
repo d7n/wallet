@@ -1,1 +1,1 @@
-var mnemonic = "produce dutch warm demise wreck oil country shift usage income cake wrist";
+var mnemonic = "town invest shove deal pledge fold pink surge cruise meat easily swim";

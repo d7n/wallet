@@ -1,1 +1,1 @@
-var mnemonic = "track swarm pride sadness list riot spare market supply love shoot rail";
+var mnemonic = "utility spring surge shift innocent nephew bonus egg ecology tissue area autumn";

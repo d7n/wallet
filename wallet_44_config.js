@@ -1,1 +1,1 @@
-var mnemonic = "appear cloth gain adapt envelope apart chimney episode spray bless moment until";
+var mnemonic = "wife decade cargo left client fog phrase slush pen quality clog tomato";

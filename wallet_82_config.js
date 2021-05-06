@@ -1,1 +1,1 @@
-var mnemonic = "fan vintage topple become caution tobacco oyster mad expose snack admit parrot";
+var mnemonic = "dress miracle nasty source bicycle egg empower approve noble sunset couch bar";

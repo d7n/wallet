@@ -1,1 +1,1 @@
-var mnemonic = "eternal end stay apple island shop detect olive regret conduct design wave";
+var mnemonic = "arch abuse zoo farm truly olympic shove urge solar run impose shaft";

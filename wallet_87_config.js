@@ -1,1 +1,1 @@
-var mnemonic = "awesome cram simple spike uphold dance agree charge car erase lift shop";
+var mnemonic = "quiz arrive robot little breeze violin exhibit lock vehicle recycle couch power";

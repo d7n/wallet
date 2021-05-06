@@ -1,1 +1,1 @@
-var mnemonic = "pencil owner dragon minor remember notice salmon owner notable victory mad north";
+var mnemonic = "lawn angry arrange wrestle throw live virtual divide dragon nose virus current";

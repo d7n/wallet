@@ -1,1 +1,1 @@
-var mnemonic = "smoke feed oak remember traffic earn round wolf learn nasty balcony wasp";
+var mnemonic = "buyer other federal delay lion entry calm road hero bring rely benefit";
