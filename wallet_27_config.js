@@ -1,1 +1,1 @@
-var mnemonic = "breeze walnut nation clerk inmate assume clump shoulder pause tunnel jelly satoshi";
+var mnemonic = "basic glass rotate earth veteran select lawn enrich term lottery dress skate";

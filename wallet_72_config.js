@@ -1,1 +1,1 @@
-var mnemonic = "undo permit suffer type dish attract health news heart sport frog oil";
+var mnemonic = "sadness always bleak neither avocado bread chunk crunch hint vague receive jump";

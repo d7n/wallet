@@ -1,1 +1,1 @@
-var mnemonic = "notable tissue pole unaware half human moral brain stereo gaze squirrel grief";
+var mnemonic = "inside monster guide weapon brush option shove shove unit dignity arch play";

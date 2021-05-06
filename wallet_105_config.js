@@ -1,1 +1,1 @@
-var mnemonic = "relief paper educate begin talk muscle daring trumpet nuclear vintage hotel stuff";
+var mnemonic = "nephew supply beyond joy tragic october piano knife beach yellow feel library";

@@ -1,1 +1,1 @@
-var mnemonic = "govern dutch initial defense coach climb metal upon dash armor later small";
+var mnemonic = "security language garden organ chat blossom mom express wife kick snow evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "hat list crater junk display mom become crazy confirm accident gaze cactus";
+var mnemonic = "book vibrant egg skate delay rich harbor civil champion plate custom boss";

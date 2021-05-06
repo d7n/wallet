@@ -1,1 +1,1 @@
-var mnemonic = "error journey student coral milk rare liar energy rhythm picnic cement draw";
+var mnemonic = "river flavor pistol system nasty echo one orphan dinosaur acoustic tackle cricket";

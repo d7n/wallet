@@ -1,1 +1,1 @@
-var mnemonic = "sister umbrella appear blast render glimpse ribbon profit nephew achieve announce ready";
+var mnemonic = "opinion blush debris shaft clutch cave current lottery dirt welcome pattern admit";

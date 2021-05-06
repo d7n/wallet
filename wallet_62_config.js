@@ -1,1 +1,1 @@
-var mnemonic = "able fiber kingdom broom morning coconut remove soda bus marriage pull mammal";
+var mnemonic = "moral rescue page fade improve cup thought effort model caution mixture program";

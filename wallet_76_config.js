@@ -1,1 +1,1 @@
-var mnemonic = "exhaust toss century symptom wedding only advice nephew panda pool chimney game";
+var mnemonic = "oppose olive uniform rose vintage okay nice soldier immune smart layer donkey";

@@ -1,1 +1,1 @@
-var mnemonic = "sport scrub pizza first erode asset journey mercy monitor bacon question umbrella";
+var mnemonic = "scare border around large kangaroo trumpet fantasy change journey coffee pepper entry";

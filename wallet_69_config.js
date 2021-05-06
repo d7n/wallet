@@ -1,1 +1,1 @@
-var mnemonic = "allow uniform arrange civil clog hotel birth nice snack shy solve online";
+var mnemonic = "image scout smart shaft fire possible dilemma lumber victory paper critic silly";

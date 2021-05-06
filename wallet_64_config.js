@@ -1,1 +1,1 @@
-var mnemonic = "average grace embody brain neither release session dentist pull salmon magnet girl";
+var mnemonic = "simple unusual system typical year trap also bird arrest forward door alien";

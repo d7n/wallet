@@ -1,1 +1,1 @@
-var mnemonic = "differ search receive hover owner topple hamster various equal ancient alley salmon";
+var mnemonic = "better voice image buffalo priority feel woman wrong rifle base reveal theory";

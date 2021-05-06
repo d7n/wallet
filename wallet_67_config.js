@@ -1,1 +1,1 @@
-var mnemonic = "mansion fix nice clog carry cigar pretty trumpet disorder yellow pet slide";
+var mnemonic = "drift tray toe naive gallery stage radar middle focus move surface interest";

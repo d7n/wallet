@@ -1,1 +1,1 @@
-var mnemonic = "dog grain hen jealous cup neither marble resemble entry rule unlock weird";
+var mnemonic = "borrow ball core book know physical come blind february pattern guitar patch";

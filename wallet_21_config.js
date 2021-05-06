@@ -1,1 +1,1 @@
-var mnemonic = "stove spirit tuna please lock scrap gold lazy promote differ already mouse";
+var mnemonic = "balance mammal town dad limit matter unfair clip nephew enroll news detail";

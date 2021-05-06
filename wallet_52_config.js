@@ -1,1 +1,1 @@
-var mnemonic = "size coast era midnight cinnamon guitar ready bachelor caution argue team onion";
+var mnemonic = "gesture trigger fork then luggage cross monster comic enjoy degree index mammal";

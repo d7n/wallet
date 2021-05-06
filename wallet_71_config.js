@@ -1,1 +1,1 @@
-var mnemonic = "arm cargo demise spatial misery private lesson script rebel rubber vehicle powder";
+var mnemonic = "speak affair broccoli sun neglect million safe fine panel this inner already";

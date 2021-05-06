@@ -1,1 +1,1 @@
-var mnemonic = "void rack absent fault wave brisk salute roast old hold green silly";
+var mnemonic = "volcano romance goose valve paper front idle cotton cement split eight way";

@@ -1,1 +1,1 @@
-var mnemonic = "can carry adapt anchor monster useful vocal eight myself media afford then";
+var mnemonic = "expect program crime explain credit kite enjoy frown parent grocery patient more";

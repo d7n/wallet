@@ -1,1 +1,1 @@
-var mnemonic = "bomb party rifle trade siren mistake hotel orphan text curtain cup royal";
+var mnemonic = "observe final agent chair awful puzzle erase pulp tackle popular era please";

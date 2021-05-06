@@ -1,1 +1,1 @@
-var mnemonic = "crucial marine tomorrow suit dove brush label core awake valve clap insane";
+var mnemonic = "damp conduct question crazy size guitar knife gallery thumb obscure thank spare";

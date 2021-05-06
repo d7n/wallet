@@ -1,1 +1,1 @@
-var mnemonic = "situate cattle divorce urge promote age fine will holiday grape pave child";
+var mnemonic = "you enable course leader oppose myself route shield risk emotion siege scare";

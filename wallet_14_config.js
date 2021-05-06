@@ -1,1 +1,1 @@
-var mnemonic = "acid mammal twenty truck unit club claim immense dumb quick roast chief";
+var mnemonic = "try pitch vital render lunar cannon coil custom provide earth target nature";

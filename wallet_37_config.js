@@ -1,1 +1,1 @@
-var mnemonic = "rent loan risk general census gown artwork jealous promote ahead wait treat";
+var mnemonic = "universe piano north liberty believe talk prepare gap book orchard parrot apple";

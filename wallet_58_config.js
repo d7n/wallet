@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog burden west quit normal lemon bargain alert damage panther life original";
+var mnemonic = "urge also car lemon jazz angry coin divorce buzz grief sound strong";

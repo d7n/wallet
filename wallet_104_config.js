@@ -1,1 +1,1 @@
-var mnemonic = "dial skill liberty leisure field knee achieve veteran music renew spell because";
+var mnemonic = "trigger since chief slender bounce salute rebel bird soccer wheat vicious this";

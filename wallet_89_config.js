@@ -1,1 +1,1 @@
-var mnemonic = "fiction alley loyal fee home friend try long pass struggle reflect away";
+var mnemonic = "awake divert there hole result congress spider shed salon notice audit candy";

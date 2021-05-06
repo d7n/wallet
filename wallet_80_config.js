@@ -1,1 +1,1 @@
-var mnemonic = "devote donate kitten arctic one first half jungle gold relief hold infant";
+var mnemonic = "admit labor peace olive december explain trim collect viable glow derive view";

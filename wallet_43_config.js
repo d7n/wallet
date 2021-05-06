@@ -1,1 +1,1 @@
-var mnemonic = "excuse believe ranch mango powder jewel scale badge rocket satoshi cream olympic";
+var mnemonic = "space ignore hole pitch bicycle perfect tree right pudding inspire estate frown";

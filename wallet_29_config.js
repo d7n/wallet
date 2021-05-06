@@ -1,1 +1,1 @@
-var mnemonic = "use flower trend mushroom easy because enter comfort lend leaf thrive link";
+var mnemonic = "renew soda wise little media real quit buffalo regular allow horn venture";

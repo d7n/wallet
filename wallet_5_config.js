@@ -1,1 +1,1 @@
-var mnemonic = "pet tragic hurry now crew monster awake hair under palace cry fox";
+var mnemonic = "name fun subway icon vague salt rabbit announce okay ordinary seek sock";

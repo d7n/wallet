@@ -1,1 +1,1 @@
-var mnemonic = "oblige kingdom under response method seminar firm moment helmet survey spin envelope";
+var mnemonic = "come unhappy dash eight warrior rebel carpet enact soup model grape second";

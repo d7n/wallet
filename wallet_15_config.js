@@ -1,1 +1,1 @@
-var mnemonic = "dutch wood fine glad weird zebra timber satoshi clay casino soda column";
+var mnemonic = "festival tattoo twin outside belt innocent immense old economy twenty unusual hammer";

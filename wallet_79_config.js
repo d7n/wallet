@@ -1,1 +1,1 @@
-var mnemonic = "spoil stable differ capable country meadow again response upgrade indoor trophy regular";
+var mnemonic = "sad march hello royal subway mean give require invest club possible dry";

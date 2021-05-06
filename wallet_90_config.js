@@ -1,1 +1,1 @@
-var mnemonic = "lava theory notice sustain onion find donkey shuffle useful outside pig answer";
+var mnemonic = "siren noble hundred accident thank budget anxiety rough dose label seat shrug";

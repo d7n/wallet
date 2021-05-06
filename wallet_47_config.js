@@ -1,1 +1,1 @@
-var mnemonic = "clump weasel style idle grace moment high achieve outer symptom drum split";
+var mnemonic = "copper park bicycle trumpet suffer inherit jump soccer exotic fine utility vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "loop trial true abandon neck other time distance suspect town coyote latin";
+var mnemonic = "roast supply loan dinner menu crash animal scorpion fall avoid stuff section";

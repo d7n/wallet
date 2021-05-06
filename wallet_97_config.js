@@ -1,1 +1,1 @@
-var mnemonic = "jar orient present prison ecology avocado spot relief desert wagon spoon tuition";
+var mnemonic = "kit bike wool engine found water swift boring head stairs nurse smooth";

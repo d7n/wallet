@@ -1,1 +1,1 @@
-var mnemonic = "file true sponsor bid local funny toss require rocket clock opera hold";
+var mnemonic = "pool end theory maple annual fabric produce clarify vendor present dilemma crush";

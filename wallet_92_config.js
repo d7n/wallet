@@ -1,1 +1,1 @@
-var mnemonic = "sauce tattoo average dream coach width diesel hurdle behind cannon leg tiger";
+var mnemonic = "into yellow dish boy knife ball vacant spike jungle derive garage potato";

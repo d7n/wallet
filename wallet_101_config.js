@@ -1,1 +1,1 @@
-var mnemonic = "amazing wall ivory exotic lumber daughter mushroom exist senior acquire link fringe";
+var mnemonic = "expire until jazz various aim flavor nothing ten panel network odor mystery";

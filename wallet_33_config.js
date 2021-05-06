@@ -1,1 +1,1 @@
-var mnemonic = "account popular water firm improve garbage estate nature beauty disorder north cushion";
+var mnemonic = "judge outdoor waste puppy flame erode figure pistol caught sponsor impact quit";

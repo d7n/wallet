@@ -1,1 +1,1 @@
-var mnemonic = "nothing faith because list turn margin machine enrich random arrow segment mule";
+var mnemonic = "peanut birth pelican genuine garden slight race assault napkin toy jacket vicious";

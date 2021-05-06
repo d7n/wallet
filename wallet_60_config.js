@@ -1,1 +1,1 @@
-var mnemonic = "way coil fatal maze legal reject cattle reunion barely quarter income decide";
+var mnemonic = "holiday stuff provide shrug machine virus gas season pull bench program shell";

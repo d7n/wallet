@@ -1,1 +1,1 @@
-var mnemonic = "cradle topple grocery tooth wheel burden supreme bullet scheme gorilla way valley";
+var mnemonic = "leaf curious skull badge scheme behave yellow shallow tiny snap spread chaos";

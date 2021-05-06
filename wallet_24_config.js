@@ -1,1 +1,1 @@
-var mnemonic = "damp process way magnet smooth exact skill guard antenna ribbon point thunder";
+var mnemonic = "usage market jeans head volcano silk garlic shrimp deliver notice asthma express";

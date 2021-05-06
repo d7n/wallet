@@ -1,1 +1,1 @@
-var mnemonic = "odor trouble egg spin stereo trumpet evil easily lesson average absent tank";
+var mnemonic = "soul chicken include swift danger raw under obvious true aerobic industry abandon";

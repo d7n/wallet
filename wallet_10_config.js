@@ -1,1 +1,1 @@
-var mnemonic = "radio length flush random approve resist pole disease aisle ritual kiwi antenna";
+var mnemonic = "exhaust mother memory notice fiber game avoid punch menu merry magic marine";

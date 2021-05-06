@@ -1,1 +1,1 @@
-var mnemonic = "six fancy lava number olive bubble spoon carry host village beach grow";
+var mnemonic = "later kitchen earth depth expose flip effort scout inspire basic metal air";

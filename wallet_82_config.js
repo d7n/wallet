@@ -1,1 +1,1 @@
-var mnemonic = "cattle follow fee quarter black just misery size truck team field during";
+var mnemonic = "vast brother green noise area glory pledge shove lake route capital kitten";

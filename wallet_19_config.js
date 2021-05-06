@@ -1,1 +1,1 @@
-var mnemonic = "peanut pill runway puzzle lens random quit enact fire march cheese often";
+var mnemonic = "convince typical timber despair shop foam hedgehog town spend tube off hope";

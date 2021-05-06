@@ -1,1 +1,1 @@
-var mnemonic = "chat inquiry athlete patch robot damp life produce elbow gorilla wild shoot";
+var mnemonic = "price parade debate ability reunion size creek earth airport recall can call";

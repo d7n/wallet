@@ -1,1 +1,1 @@
-var mnemonic = "hospital smooth patient speak cause camera glass neutral orange disagree hub noble";
+var mnemonic = "wealth resemble dry word casino correct banner powder clerk river advance carpet";

@@ -1,1 +1,1 @@
-var mnemonic = "present observe planet any quiz topic bachelor begin hybrid ridge segment reduce";
+var mnemonic = "air walnut world such able vivid thought shrimp horse soul convince fortune";

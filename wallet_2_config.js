@@ -1,1 +1,1 @@
-var mnemonic = "cattle range clap pond noise join security badge vessel sadness narrow van";
+var mnemonic = "pitch patch climb bacon renew fluid market undo nice fame mom bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "vital column decrease unveil shop toast lawn crater helmet drink neck robust";
+var mnemonic = "device regular rookie marriage able text wine twin primary limb enrich load";

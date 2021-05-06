@@ -1,1 +1,1 @@
-var mnemonic = "equip inject quote enemy then special scan deliver unfold pig balcony half";
+var mnemonic = "special custom swarm stomach neutral math mushroom debris soldier spin amazing enough";

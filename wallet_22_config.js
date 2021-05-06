@@ -1,1 +1,1 @@
-var mnemonic = "vessel street once stove mind minute permit math latin first promote isolate";
+var mnemonic = "elite hold disorder fortune define sample unaware slam normal surface common rubber";

@@ -1,1 +1,1 @@
-var mnemonic = "bundle bike glory analyst disagree farm polar sign hard smile gym empower";
+var mnemonic = "myself bright filter thumb palace damp scrap prosper hood green print host";

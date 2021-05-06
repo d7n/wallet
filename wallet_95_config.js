@@ -1,1 +1,1 @@
-var mnemonic = "dinner gentle oven awake quit volcano jacket name auction short sting wear";
+var mnemonic = "client donkey horror girl depth reject music leave bachelor prison latin coconut";

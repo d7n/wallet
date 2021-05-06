@@ -1,1 +1,1 @@
-var mnemonic = "drift joke arrive jazz lift olive law electric robust surround repeat win";
+var mnemonic = "pilot glue eight ketchup economy library hazard tenant hero clown fossil oak";

@@ -1,1 +1,1 @@
-var mnemonic = "dish wedding pass meat already custom indoor arena you foil anxiety snap";
+var mnemonic = "stove document spawn call bubble chase ocean advance staff genre word confirm";

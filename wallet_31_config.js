@@ -1,1 +1,1 @@
-var mnemonic = "eager average vintage multiply pioneer mushroom time indoor blade salute thing matter";
+var mnemonic = "nest trouble naive genre pepper baby differ miss reject joy note tag";

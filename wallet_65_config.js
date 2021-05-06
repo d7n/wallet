@@ -1,1 +1,1 @@
-var mnemonic = "quote achieve shoot bone cave cover faculty blast quiz train crowd stock";
+var mnemonic = "found detail walk vanish exotic laptop hammer track trade buffalo uncover hero";

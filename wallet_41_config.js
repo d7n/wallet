@@ -1,1 +1,1 @@
-var mnemonic = "march stable member test bomb replace purse wage dawn stable trade banana";
+var mnemonic = "prize village wait sibling fortune story smile street lottery assist submit father";

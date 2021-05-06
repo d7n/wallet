@@ -1,1 +1,1 @@
-var mnemonic = "gold fine brass remember detail wash ecology athlete diary nation twelve treat";
+var mnemonic = "license alter vague lottery oyster clip snack turn march steel height deposit";

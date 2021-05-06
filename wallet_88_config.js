@@ -1,1 +1,1 @@
-var mnemonic = "void shiver cost universe aspect cannon empty lizard know penalty city hamster";
+var mnemonic = "faculty follow belt tunnel feel blast phone road source grow invite win";

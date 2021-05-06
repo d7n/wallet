@@ -1,1 +1,1 @@
-var mnemonic = "identify beach idle claim pair away anchor sleep brush gossip east law";
+var mnemonic = "chunk valid front confirm expect mass gold digital apology lazy misery carbon";

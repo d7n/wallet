@@ -1,1 +1,1 @@
-var mnemonic = "feed hat jewel skin army proud video base avoid minor grant average";
+var mnemonic = "rather crash rifle pledge century devote extend anger exit indicate elephant gauge";

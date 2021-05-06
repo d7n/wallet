@@ -1,1 +1,1 @@
-var mnemonic = "peace mobile donkey tail flash guess stadium brisk foster produce liberty dwarf";
+var mnemonic = "glass rose trade shop disorder siren flock round bullet worth spy agent";

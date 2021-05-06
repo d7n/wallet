@@ -1,1 +1,1 @@
-var mnemonic = "rapid egg exchange inject traffic lobster whisper grid utility ancient render spend";
+var mnemonic = "survey vital lawsuit mango gown awesome critic swift pulse tone knock noble";

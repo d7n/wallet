@@ -1,1 +1,1 @@
-var mnemonic = "talk acid logic response real filter sketch indoor average clog junior salt";
+var mnemonic = "flight behind parent feature style solution scorpion buzz scissors cat initial alarm";

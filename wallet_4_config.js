@@ -1,1 +1,1 @@
-var mnemonic = "unhappy whisper spike seek force deliver alert invite cat run grief input";
+var mnemonic = "calm west knock spoil car curious kick mutual seminar notice knee head";

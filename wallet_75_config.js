@@ -1,1 +1,1 @@
-var mnemonic = "minimum police salute prosper insane token cupboard valve sand sunset control elevator";
+var mnemonic = "still hard sail bargain ignore pudding whale suggest giraffe core area humble";

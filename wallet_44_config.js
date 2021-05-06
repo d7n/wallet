@@ -1,1 +1,1 @@
-var mnemonic = "number badge govern double frog burger sunny combine hundred merge match service";
+var mnemonic = "eager code club rigid dance course vendor about mouse large intact wire";

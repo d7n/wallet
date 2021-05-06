@@ -1,1 +1,1 @@
-var mnemonic = "winter stuff scrap task empty famous flavor tail witness rubber myth sunny";
+var mnemonic = "among focus first private indicate join catalog bottom add champion clutch benefit";

@@ -1,1 +1,1 @@
-var mnemonic = "meat decide birth endorse scare inmate into desk result lion identify evolve";
+var mnemonic = "dumb squirrel retreat basic primary comic kitchen tired laugh swallow goose useful";

@@ -1,1 +1,1 @@
-var mnemonic = "catalog used pond pear lucky wagon tongue search salon shaft fortune brass";
+var mnemonic = "opinion initial clerk middle entry maximum bonus board auto make media abandon";

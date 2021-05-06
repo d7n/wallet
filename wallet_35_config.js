@@ -1,1 +1,1 @@
-var mnemonic = "soul student minor ice dilemma library close where amateur tobacco inherit leg";
+var mnemonic = "piece answer mystery employ giggle stand absorb smile long recipe august treat";

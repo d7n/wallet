@@ -1,1 +1,1 @@
-var mnemonic = "wrestle nerve hurry horse believe dash obvious drop tenant thumb walk extra";
+var mnemonic = "jewel whisper mango august ball denial today jeans sugar kitchen steel quarter";

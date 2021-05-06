@@ -1,1 +1,1 @@
-var mnemonic = "biology bounce oil faith hybrid lunar rule chief twist allow plunge pipe";
+var mnemonic = "goose carry wash outdoor innocent mushroom swear curious chef side eight genius";

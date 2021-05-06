@@ -1,1 +1,1 @@
-var mnemonic = "reunion early night limit enrich rule basic inflict skin ask private december";
+var mnemonic = "panther forum gadget describe simple mistake trade cry mule cluster skin bind";

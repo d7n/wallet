@@ -1,1 +1,1 @@
-var mnemonic = "salad dumb extend alert smoke hub mirror problem proof alert tackle define";
+var mnemonic = "deal lesson wing pumpkin random decline cube fossil yard office snake wire";

@@ -1,1 +1,1 @@
-var mnemonic = "under ceiling decorate volume enter spoil resource person diamond inject task country";
+var mnemonic = "spawn fatal enact transfer flower steak conduct between fiscal govern lounge diet";

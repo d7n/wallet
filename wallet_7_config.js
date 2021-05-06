@@ -1,1 +1,1 @@
-var mnemonic = "deliver radio clerk street relax sphere scene heart taxi radar apple arch";
+var mnemonic = "near banner weasel garage square jungle pizza scissors abandon pass lyrics drop";

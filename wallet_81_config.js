@@ -1,1 +1,1 @@
-var mnemonic = "script bright other afraid school sad card fresh chef fiber refuse better";
+var mnemonic = "spread panel parent vote side trouble tray swarm boost purpose runway amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "piano zebra visa hollow lemon enhance mix ice nuclear viable bitter side";
+var mnemonic = "drift cost champion pottery chronic cup item table candy victory arrive detect";

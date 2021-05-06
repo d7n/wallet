@@ -1,1 +1,1 @@
-var mnemonic = "badge peace width cube chuckle delay reopen satisfy inner print episode orange";
+var mnemonic = "congress hockey pattern pear please tornado neutral correct tube fix weapon enforce";

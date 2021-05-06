@@ -1,1 +1,1 @@
-var mnemonic = "hockey text party nerve modify diamond feel tuna start chaos stereo become";
+var mnemonic = "cover today vital drum find window win prepare exclude midnight receive border";

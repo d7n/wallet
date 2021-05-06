@@ -1,1 +1,1 @@
-var mnemonic = "address youth buyer east toe world cotton teach bar fat cruel island";
+var mnemonic = "admit actual luxury aerobic suggest dream glory brick pizza valve soap chase";

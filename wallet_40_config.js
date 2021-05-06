@@ -1,1 +1,1 @@
-var mnemonic = "lottery orphan verify animal truth human when quantum fan output lawsuit trade";
+var mnemonic = "visa unveil army van tobacco question pull poem inquiry slide cousin vacuum";

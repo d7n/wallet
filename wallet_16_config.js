@@ -1,1 +1,1 @@
-var mnemonic = "behind forum wide thought patrol camera illegal oval attitude tone post pull";
+var mnemonic = "image desert business test melody liar march vivid zone section coyote damage";

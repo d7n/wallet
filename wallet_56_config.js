@@ -1,1 +1,1 @@
-var mnemonic = "useful acoustic relax example risk scene gorilla avocado boy mercy life copper";
+var mnemonic = "earth grant lawn panda gravity bundle state appear thank broken unlock mule";

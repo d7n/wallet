@@ -1,1 +1,1 @@
-var mnemonic = "vast dry angry afford toy run vintage poem shiver metal noble picnic";
+var mnemonic = "december rival home amount virus board battle island shock because void vast";
