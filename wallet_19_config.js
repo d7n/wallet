@@ -1,1 +1,1 @@
-var mnemonic = "ability fluid drum antenna sauce silly match gloom grain bargain thunder east";
+var mnemonic = "tag select antique palace little lock model artefact local card used bike";

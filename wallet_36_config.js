@@ -1,1 +1,1 @@
-var mnemonic = "must soon rookie cable wish cheese setup scissors crane defense cute gather";
+var mnemonic = "spawn subject awesome divert fiber gauge crawl tower drive peanut bicycle scissors";

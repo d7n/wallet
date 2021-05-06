@@ -1,1 +1,1 @@
-var mnemonic = "face shock matrix table party chat admit rifle weasel wire skill uphold";
+var mnemonic = "offer nut inmate motor wrist spy knee usage find say bone grass";

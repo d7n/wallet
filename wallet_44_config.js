@@ -1,1 +1,1 @@
-var mnemonic = "input crouch silver window mass six comfort wool shine what payment kiss";
+var mnemonic = "pink vocal pave pledge couple build ticket bonus direct coil earn movie";

@@ -1,1 +1,1 @@
-var mnemonic = "jump stumble weird deliver dolphin actual rescue album infant gentle hope giant";
+var mnemonic = "bicycle humor brand regret culture tourist speed broom night north legend split";

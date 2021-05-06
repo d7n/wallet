@@ -1,1 +1,1 @@
-var mnemonic = "emerge goddess skirt pelican train sign remind police hen able traffic level";
+var mnemonic = "giraffe time visit jaguar stay okay kind emerge grief clump olive broken";

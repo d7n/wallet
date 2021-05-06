@@ -1,1 +1,1 @@
-var mnemonic = "share amount result glare whisper luggage balance bring either mosquito master report";
+var mnemonic = "warrior heavy census film always brave girl wave fatigue lottery easy cherry";

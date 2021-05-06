@@ -1,1 +1,1 @@
-var mnemonic = "exhaust project rare october trouble endless border fatigue risk awful gorilla mix";
+var mnemonic = "boat anger caution two race clerk popular citizen forward sea also riot";

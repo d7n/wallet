@@ -1,1 +1,1 @@
-var mnemonic = "window scale salon luxury belt alley view amount fold gift empty eagle";
+var mnemonic = "spend scheme reform whip roof swallow crush garage sad mixed diet giant";

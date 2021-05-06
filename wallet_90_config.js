@@ -1,1 +1,1 @@
-var mnemonic = "rare car pair unusual wrist flat clip great improve gap scheme hockey";
+var mnemonic = "much accident shrug garbage correct long milk find rifle grain toss diagram";

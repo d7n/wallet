@@ -1,1 +1,1 @@
-var mnemonic = "owner route corn document defy fantasy reunion divorce cream useful enact ten";
+var mnemonic = "inner choose spirit expand bulk erase athlete thought vanish crazy multiply round";

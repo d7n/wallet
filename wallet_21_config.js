@@ -1,1 +1,1 @@
-var mnemonic = "pole genuine hold invite afraid exit collect sun view sausage blossom fruit";
+var mnemonic = "become weapon faculty cover table already smooth rough dawn rebel poverty pluck";

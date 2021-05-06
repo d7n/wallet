@@ -1,1 +1,1 @@
-var mnemonic = "panel else cabbage suffer keep gun execute moon earth matter arrange two";
+var mnemonic = "pupil regret evidence orchard gown syrup kit base educate cigar pizza swap";

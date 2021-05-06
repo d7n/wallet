@@ -1,1 +1,1 @@
-var mnemonic = "push host great average quiz gallery left uphold twenty hybrid loyal wreck";
+var mnemonic = "behind extend cattle box image area room denial job find roast phone";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos success kangaroo arrest sign aisle fever agree seven fly step release";
+var mnemonic = "glance share jacket provide frost tape venue hire soccer middle upon north";

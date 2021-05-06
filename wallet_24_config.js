@@ -1,1 +1,1 @@
-var mnemonic = "secret battle group urban repair trial feed treat stove timber town fashion";
+var mnemonic = "vendor pair vocal egg bridge blind slow rough lawsuit seed aerobic error";

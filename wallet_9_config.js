@@ -1,1 +1,1 @@
-var mnemonic = "country hotel setup rail lounge focus unveil romance tattoo number ignore brain";
+var mnemonic = "select brush harvest journey present dad road involve swim spoil direct act";

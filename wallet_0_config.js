@@ -1,1 +1,1 @@
-var mnemonic = "plate actor gossip rug cement october squirrel okay grant brush pupil barrel";
+var mnemonic = "off lonely obey shop december glove inform sausage genre choose damage gesture";

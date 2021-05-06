@@ -1,1 +1,1 @@
-var mnemonic = "skill vanish bottom afford next federal immense hockey twist upset room patrol";
+var mnemonic = "alley chair position smart turtle hire beauty remind inflict food grid setup";

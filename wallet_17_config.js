@@ -1,1 +1,1 @@
-var mnemonic = "wave elbow good worry brief dinner smart yellow vacant usage dynamic horse";
+var mnemonic = "coffee exercise hammer stand jeans replace liar exhaust loud tiger head pond";

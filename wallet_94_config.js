@@ -1,1 +1,1 @@
-var mnemonic = "once coil dawn void tooth force desk follow short ordinary warrior tired";
+var mnemonic = "utility physical above behave blossom jacket fluid gap small trick witness goose";

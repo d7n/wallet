@@ -1,1 +1,1 @@
-var mnemonic = "gallery answer tuition unfair problem moral want circle bulk team patrol pipe";
+var mnemonic = "shift afford tobacco lizard salmon gap spare giant exist rigid artist swing";

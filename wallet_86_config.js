@@ -1,1 +1,1 @@
-var mnemonic = "suspect profit hour moment gain cream fresh purpose like mad arrest try";
+var mnemonic = "spend bonus chaos student usual resemble traffic noodle over return step trick";

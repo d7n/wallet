@@ -1,1 +1,1 @@
-var mnemonic = "suffer ugly olive ice legend ensure mixture aim also extra erase differ";
+var mnemonic = "hand rebuild friend travel syrup world clay style hamster faith top mad";

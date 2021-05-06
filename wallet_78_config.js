@@ -1,1 +1,1 @@
-var mnemonic = "west sketch spin bind point canal traffic dress company nothing dawn filter";
+var mnemonic = "reject foot brown correct welcome brief blossom cactus obscure endorse current gasp";

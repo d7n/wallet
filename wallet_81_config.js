@@ -1,1 +1,1 @@
-var mnemonic = "hurdle sad deputy license base priority pride odor coin tortoise shine minute";
+var mnemonic = "flag plastic milk napkin awesome keen razor december blast region transfer gaze";

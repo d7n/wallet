@@ -1,1 +1,1 @@
-var mnemonic = "swift suffer wrist certain pool manage yellow crack orient wheel glance episode";
+var mnemonic = "prison sign visit anger minimum bring junior bunker peanut problem exotic body";

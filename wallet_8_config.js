@@ -1,1 +1,1 @@
-var mnemonic = "truck wrestle attitude fuel suit asset repeat demand scissors machine silver mass";
+var mnemonic = "album luxury execute strike embrace north ankle excess knife until digital candy";

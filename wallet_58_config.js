@@ -1,1 +1,1 @@
-var mnemonic = "female song elite tennis host rabbit wire baby olympic explain fruit razor";
+var mnemonic = "churn vivid action harvest ketchup nice net bunker citizen essay mistake strategy";

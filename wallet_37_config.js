@@ -1,1 +1,1 @@
-var mnemonic = "viable wild town slice hybrid pink around village outdoor lesson toast happy";
+var mnemonic = "truly derive cereal tent mutual ensure squirrel boat husband sport cool friend";

@@ -1,1 +1,1 @@
-var mnemonic = "bag spike joke recipe blanket culture episode divert gaze bless flag walk";
+var mnemonic = "possible right exclude tomato tribe you emerge during area taste income walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "stumble resource alley spirit flush erosion office multiply young effort guard jar";
+var mnemonic = "master cricket hawk friend sausage riot time fan route wish conduct mule";

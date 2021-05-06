@@ -1,1 +1,1 @@
-var mnemonic = "arena sunset orbit grant buzz hood dirt pet arctic disorder bubble salute";
+var mnemonic = "middle rice bunker sad stable mirror letter beef animal vintage country cinnamon";

@@ -1,1 +1,1 @@
-var mnemonic = "bus spray beyond sniff clip melody clay urban tomato bottom wait online";
+var mnemonic = "pen meadow miss shallow merge crater brass seed gentle toast ladder prevent";

@@ -1,1 +1,1 @@
-var mnemonic = "wait ecology mansion rail desert blame diesel canyon milk patient general minimum";
+var mnemonic = "sibling else lab great satoshi vital lunch manage person creek coffee bleak";

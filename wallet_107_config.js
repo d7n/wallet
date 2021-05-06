@@ -1,1 +1,1 @@
-var mnemonic = "uncle number melody prevent canvas gun robot april device bone afford blue";
+var mnemonic = "little into build just lumber valley front summer grain admit mistake skirt";

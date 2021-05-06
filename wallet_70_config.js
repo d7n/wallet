@@ -1,1 +1,1 @@
-var mnemonic = "dutch gasp soft say wheat true thing account deputy sword duck brown";
+var mnemonic = "vast wink lazy purse dove abuse strong wash school treat depart slab";

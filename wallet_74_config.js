@@ -1,1 +1,1 @@
-var mnemonic = "strike tail affair flip confirm autumn coconut faculty team aspect pipe alien";
+var mnemonic = "clerk forum razor dance armor improve hedgehog little board shuffle host depth";

@@ -1,1 +1,1 @@
-var mnemonic = "gauge mountain prosper domain grid opinion cover hire supply romance senior turn";
+var mnemonic = "park seminar giant minute chicken rather mail deputy power color soft interest";

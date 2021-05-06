@@ -1,1 +1,1 @@
-var mnemonic = "push scale sword middle forum welcome stomach tattoo mutual message ceiling dinner";
+var mnemonic = "team winter soldier cause trend parade credit mixture history vapor island salute";

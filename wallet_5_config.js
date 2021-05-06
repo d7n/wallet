@@ -1,1 +1,1 @@
-var mnemonic = "tumble hockey buzz enlist spoon exile push copy loud ladder youth wonder";
+var mnemonic = "feed put celery cloth protect cream brief perfect pumpkin spare depend begin";

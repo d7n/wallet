@@ -1,1 +1,1 @@
-var mnemonic = "beyond stairs width become clog visit session faculty future drink brief real";
+var mnemonic = "empower tribe pretty autumn panic truth capable delay tent blade ginger sketch";

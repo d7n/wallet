@@ -1,1 +1,1 @@
-var mnemonic = "march pigeon resource trim clean liar supreme denial scorpion seven private shoot";
+var mnemonic = "action shove neither range million arrow soon urban hair valid utility drop";

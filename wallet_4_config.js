@@ -1,1 +1,1 @@
-var mnemonic = "solid capital detail reveal regular horn success combine rare decorate about slide";
+var mnemonic = "swear anchor soldier start monkey cancel loud term away project page alcohol";

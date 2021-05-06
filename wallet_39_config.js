@@ -1,1 +1,1 @@
-var mnemonic = "rule solve arrive wall exact cable join panic hill cake rib raise";
+var mnemonic = "such short vapor teach permit wild ignore ticket cruise cricket prison any";

@@ -1,1 +1,1 @@
-var mnemonic = "stem grit flag candy banana front castle asset garlic spice supreme remove";
+var mnemonic = "manual duty laptop old extend around hood climb hour elbow hawk slight";

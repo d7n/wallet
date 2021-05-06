@@ -1,1 +1,1 @@
-var mnemonic = "timber slow shallow cabin rug bomb toast title hammer copper arrest victory";
+var mnemonic = "game predict acoustic pond away bullet mango label filter candy faith topple";

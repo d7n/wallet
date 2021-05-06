@@ -1,1 +1,1 @@
-var mnemonic = "flock idle decade swarm evil skin place imitate cliff color asset hello";
+var mnemonic = "dad minimum craft apart ghost ghost silly wash blur auction nurse miss";

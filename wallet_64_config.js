@@ -1,1 +1,1 @@
-var mnemonic = "citizen easy teach lake magnet defense fringe echo very funny panther small";
+var mnemonic = "talk element alter belt page grief curtain catch board board pet point";

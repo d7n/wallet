@@ -1,1 +1,1 @@
-var mnemonic = "invest lens goddess upgrade cram mesh carbon pear indicate vivid fun forest";
+var mnemonic = "shield reform suggest use bind regret guitar gloom wood clutch cabin torch";

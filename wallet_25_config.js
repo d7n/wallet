@@ -1,1 +1,1 @@
-var mnemonic = "misery shiver gadget print find pulp shadow exhaust empty season round post";
+var mnemonic = "pyramid soft ridge critic always panther boat room truck nothing renew flip";

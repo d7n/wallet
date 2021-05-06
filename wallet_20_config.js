@@ -1,1 +1,1 @@
-var mnemonic = "mobile caution bamboo salute grunt thunder matter lift long velvet car joke";
+var mnemonic = "divorce labor cushion consider floor stuff silver lake scatter program join alone";

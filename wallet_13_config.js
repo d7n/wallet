@@ -1,1 +1,1 @@
-var mnemonic = "design gospel pistol silver original husband brick predict stand mechanic document kidney";
+var mnemonic = "describe scrap orbit emerge wagon express grass ghost nest betray target valley";

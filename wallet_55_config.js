@@ -1,1 +1,1 @@
-var mnemonic = "stairs wash relax poem ginger december improve craft destroy horn attract march";
+var mnemonic = "snack dove source budget muffin circle salon check prevent employ goose team";

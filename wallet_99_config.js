@@ -1,1 +1,1 @@
-var mnemonic = "cactus thrive egg over ensure bus cargo helmet risk kangaroo oppose custom";
+var mnemonic = "alley zone purpose volcano zone spatial photo yellow tourist wedding dilemma alarm";

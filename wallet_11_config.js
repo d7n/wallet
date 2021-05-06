@@ -1,1 +1,1 @@
-var mnemonic = "brown depend iron people solid veteran piano used invite depart omit lawsuit";
+var mnemonic = "amazing accuse reflect vivid subway helmet credit account forum boil hundred toy";

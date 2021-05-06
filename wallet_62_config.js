@@ -1,1 +1,1 @@
-var mnemonic = "easy surround remain idle chunk cause kangaroo vault soldier lamp unlock tunnel";
+var mnemonic = "meat feel fault hill chief rely leader caution jump captain debris middle";

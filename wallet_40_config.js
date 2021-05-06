@@ -1,1 +1,1 @@
-var mnemonic = "gather jeans festival smile ability income picture top shoe prosper deny coach";
+var mnemonic = "deny dust nominee clever result junior lion poem okay coach auction pencil";

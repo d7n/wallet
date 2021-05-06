@@ -1,1 +1,1 @@
-var mnemonic = "upon embrace obey melody blush camp deny knock like grab tenant parade";
+var mnemonic = "cupboard just surface silent abuse open lecture clinic amateur east people bid";

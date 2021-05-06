@@ -1,1 +1,1 @@
-var mnemonic = "bread earth above idle engage insane until ride athlete garlic can photo";
+var mnemonic = "arena day display divide will praise violin tonight cloud sweet rather behind";

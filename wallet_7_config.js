@@ -1,1 +1,1 @@
-var mnemonic = "loop chronic maple table gauge domain case clown run exclude enroll under";
+var mnemonic = "scrub daring shoe water help vendor sorry very health urban tray laundry";

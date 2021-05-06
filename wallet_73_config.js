@@ -1,1 +1,1 @@
-var mnemonic = "feed into olive elbow auto possible winner bind swallow various cradle gun";
+var mnemonic = "bicycle snow spoil meat ivory zero toss thrive clinic chicken invest sting";

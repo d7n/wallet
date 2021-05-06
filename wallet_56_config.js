@@ -1,1 +1,1 @@
-var mnemonic = "inside grow museum fortune pony bounce crop scare enough bottom scrub attend";
+var mnemonic = "dinner blame travel camp rather patrol second fire flee remember melody dismiss";

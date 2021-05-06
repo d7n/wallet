@@ -1,1 +1,1 @@
-var mnemonic = "pass clerk replace slight purchase run situate accuse comic dragon fancy boy";
+var mnemonic = "potato glass furnace husband foster media drill stumble always point also orbit";

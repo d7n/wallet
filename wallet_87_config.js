@@ -1,1 +1,1 @@
-var mnemonic = "absurd garment glad surge earth fame correct hurt peace olympic inch spice";
+var mnemonic = "stem chronic tunnel repeat aunt target curve basic ocean robot wrap cloud";

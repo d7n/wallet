@@ -1,1 +1,1 @@
-var mnemonic = "upset canal kangaroo nerve hood tiger start bulb cave meadow annual mind";
+var mnemonic = "rotate garden viable weapon orange review endless deny aerobic middle dentist mouse";

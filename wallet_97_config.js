@@ -1,1 +1,1 @@
-var mnemonic = "bring eye orient inch exhaust region city park pepper shell crush useless";
+var mnemonic = "rhythm super parent family tomorrow rebuild inner enter modify pride guitar heart";

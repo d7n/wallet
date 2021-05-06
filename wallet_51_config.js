@@ -1,1 +1,1 @@
-var mnemonic = "scout rapid car tongue hurdle trash together siege wash plastic budget disease";
+var mnemonic = "exhaust draw century matter cover radio goddess brisk offer cave orphan bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "help rebuild among olive chef reward inner stairs torch usual gift erase";
+var mnemonic = "task mixed erosion book advance vintage obscure glue sustain say invest flee";

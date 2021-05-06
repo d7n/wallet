@@ -1,1 +1,1 @@
-var mnemonic = "off gospel ecology sudden imitate identify balcony harsh chalk paddle arrow shift";
+var mnemonic = "inch return orbit gauge nuclear theory say plug wrist divorce knock refuse";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk earn diet window fringe inmate domain blur miss clean human profit";
+var mnemonic = "butter confirm major smile future rapid debate work talk hotel blame bike";

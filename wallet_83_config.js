@@ -1,1 +1,1 @@
-var mnemonic = "glad ginger dose nurse crater indicate quit payment cabin put snack link";
+var mnemonic = "casino today amazing galaxy ring bulk employ picnic space find pact lecture";

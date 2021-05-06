@@ -1,1 +1,1 @@
-var mnemonic = "medal rough bread cabin knock unknown fancy bunker multiply also reopen there";
+var mnemonic = "buyer general crew wrap invite morning cement erosion gas fog seat coil";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy mass melt bid hero federal struggle moment burst verify brief name";
+var mnemonic = "slow initial garage will protect night summer match alcohol critic conduct hire";

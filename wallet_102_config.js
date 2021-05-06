@@ -1,1 +1,1 @@
-var mnemonic = "collect hundred cupboard install spy left kangaroo post dragon siege chronic voyage";
+var mnemonic = "young immense matter blur village shell steak jacket movie ribbon sister nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "require runway february repair boost airport lamp pottery vacuum click yard click";
+var mnemonic = "soap draft file pizza tomorrow fluid such fortune amazing common cost omit";

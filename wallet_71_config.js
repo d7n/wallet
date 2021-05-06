@@ -1,1 +1,1 @@
-var mnemonic = "culture logic display noodle attend peanut grow sudden crane salmon tide tackle";
+var mnemonic = "repair theory roof rocket yard pond jeans arctic deer famous conduct cup";

@@ -1,1 +1,1 @@
-var mnemonic = "way exhaust measure stool eagle flight soup wonder pyramid diamond surge physical";
+var mnemonic = "segment envelope inner robust current census empower south logic long race carbon";

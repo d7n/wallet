@@ -1,1 +1,1 @@
-var mnemonic = "renew twice sun error minor write toss visual honey hood world bind";
+var mnemonic = "melody laptop name protect blush medal shiver nut dilemma exhibit true clip";

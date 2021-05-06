@@ -1,1 +1,1 @@
-var mnemonic = "enjoy crater limb dynamic similar leave swift tilt horror poverty vote surprise";
+var mnemonic = "film exhibit april anger extra embody tooth frequent regret gun auto fuel";

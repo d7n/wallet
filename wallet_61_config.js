@@ -1,1 +1,1 @@
-var mnemonic = "coral novel one grant tag grace focus tissue laptop identify couch rapid";
+var mnemonic = "child cricket match clerk elegant tribe audit multiply finish wasp betray punch";

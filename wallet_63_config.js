@@ -1,1 +1,1 @@
-var mnemonic = "tunnel volcano pottery sauce vivid hedgehog apple honey all merge adjust more";
+var mnemonic = "swift cherry addict cram lens memory target mesh have attitude also business";

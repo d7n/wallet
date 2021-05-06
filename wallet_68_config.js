@@ -1,1 +1,1 @@
-var mnemonic = "solar craft warrior pond lecture tackle sand hunt property barrel salt gun";
+var mnemonic = "opera street rule earth bunker nasty clap emotion winter power virus custom";

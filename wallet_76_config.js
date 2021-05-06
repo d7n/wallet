@@ -1,1 +1,1 @@
-var mnemonic = "sibling diamond random inflict random rich noodle addict spend industry method put";
+var mnemonic = "plate bind winter cup wine cover absurd coconut chaos rebuild initial divide";

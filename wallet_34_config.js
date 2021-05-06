@@ -1,1 +1,1 @@
-var mnemonic = "turn order sound spice pony vivid escape swing enroll eager pigeon final";
+var mnemonic = "mango move borrow floor process birth twist still chest impact federal receive";

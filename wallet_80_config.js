@@ -1,1 +1,1 @@
-var mnemonic = "gasp donor dog brass ability stereo junk voice super visit medal camp";
+var mnemonic = "change bless cancel hurry now cage fiction surge crop salon sample nasty";
