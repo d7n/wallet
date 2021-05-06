@@ -1,1 +1,1 @@
-var mnemonic = "rotate high system potato modify anger tornado mention cover sting modify hobby";
+var mnemonic = "tomato never prevent click need volcano warm shadow grab three sphere snake";

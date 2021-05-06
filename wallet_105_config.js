@@ -1,1 +1,1 @@
-var mnemonic = "advance hurt spoon easy movie trick expire aware choice sorry salad finger";
+var mnemonic = "notable faculty junior fruit regular advance dove section between pave safe shoe";

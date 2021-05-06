@@ -1,1 +1,1 @@
-var mnemonic = "diet spray fragile core allow tag tuna scene legend win parent toast";
+var mnemonic = "abandon trip spot green giant surface profit hurdle allow ranch term summer";

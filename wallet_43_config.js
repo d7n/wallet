@@ -1,1 +1,1 @@
-var mnemonic = "inject rich valid lumber toe spin pistol useful solar inquiry panda core";
+var mnemonic = "margin nurse fold ceiling oyster filter sketch shop liquid animal sun replace";

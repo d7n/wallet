@@ -1,1 +1,1 @@
-var mnemonic = "raven sight display warrior maximum company high fuel dad language spike note";
+var mnemonic = "what light group divert cool syrup camp gather sauce narrow antique gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "turn report bitter street announce donate ivory luxury hunt wife clinic mansion";
+var mnemonic = "way trick chimney offer innocent earth dawn bottom staff assist economy awesome";

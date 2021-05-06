@@ -1,1 +1,1 @@
-var mnemonic = "tone slab voyage resist dawn tank ecology inmate sentence sound crazy alarm";
+var mnemonic = "maze spoon exit assume cool adjust salute tone isolate bubble riot seat";

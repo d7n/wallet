@@ -1,1 +1,1 @@
-var mnemonic = "basic humor slight there vacuum loud defense dwarf bless pioneer item dog";
+var mnemonic = "into sample clerk mom actor broken curve cheese joy shallow festival pole";

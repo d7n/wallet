@@ -1,1 +1,1 @@
-var mnemonic = "naive only misery inject present ramp riot business various arena random rule";
+var mnemonic = "raw identify three nose cereal mobile swift valve body wrist worth shine";

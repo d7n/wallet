@@ -1,1 +1,1 @@
-var mnemonic = "pretty december leisure nurse ribbon decade cross require coast morning intact vacant";
+var mnemonic = "sister seat ski wild cupboard monitor fish inhale guard wash true expose";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk trigger coin cash nice divert chunk day journey this oven buzz";
+var mnemonic = "coconut rotate patch horror super frame royal sand toward behave park elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare topple bamboo asset grace jelly side smooth warm float always autumn";
+var mnemonic = "traffic pipe enroll child vivid story smoke this festival upgrade disease title";

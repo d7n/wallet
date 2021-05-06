@@ -1,1 +1,1 @@
-var mnemonic = "south pride odor east okay stomach design net kiss original loyal actor";
+var mnemonic = "close increase path adapt beyond fat surround camera sadness capital have head";

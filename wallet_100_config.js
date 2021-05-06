@@ -1,1 +1,1 @@
-var mnemonic = "inside blood control amazing light card special mass faith hope six traffic";
+var mnemonic = "replace term ridge saddle defense speak suggest else service unfair maze ordinary";

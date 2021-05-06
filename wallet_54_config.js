@@ -1,1 +1,1 @@
-var mnemonic = "original clutch language fashion jacket trumpet key wage hour canal pause medal";
+var mnemonic = "pencil infant job govern pride glory truth frost fancy only used fever";

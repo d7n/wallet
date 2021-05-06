@@ -1,1 +1,1 @@
-var mnemonic = "parade debate fragile feel twin moment certain latin cherry club stadium law";
+var mnemonic = "anchor cigar pride mandate parade dove cactus degree fold casino raccoon gauge";

@@ -1,1 +1,1 @@
-var mnemonic = "rug pattern memory raven ripple multiply aware forward someone fox still best";
+var mnemonic = "movie silver elevator endorse rely dial cinnamon force acid pink poverty below";

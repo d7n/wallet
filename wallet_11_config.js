@@ -1,1 +1,1 @@
-var mnemonic = "recall used cart mercy exit vicious world way enforce style uphold lift";
+var mnemonic = "junior clarify employ glare forward address puppy master cart also fold entire";

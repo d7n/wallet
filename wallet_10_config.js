@@ -1,1 +1,1 @@
-var mnemonic = "wrap insane identify novel walnut empty radio rocket render tornado laundry six";
+var mnemonic = "usual mother wagon cross float toe entire mutual special trip diary horn";

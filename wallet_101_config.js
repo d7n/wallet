@@ -1,1 +1,1 @@
-var mnemonic = "purchase muscle language hurdle media cousin gadget panther good equal income index";
+var mnemonic = "inhale embark much visa adjust shuffle cheese unhappy female fluid where unit";

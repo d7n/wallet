@@ -1,1 +1,1 @@
-var mnemonic = "spirit awake stage tiny virtual earth sight wasp ritual awesome pig mass";
+var mnemonic = "favorite depart nothing toilet video control chief fringe next miracle always good";

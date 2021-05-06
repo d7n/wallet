@@ -1,1 +1,1 @@
-var mnemonic = "cake town parrot invite game leg marble valley evolve shift give rebel";
+var mnemonic = "silly suit fold bracket adapt rely bike panel valley absent gloom alarm";

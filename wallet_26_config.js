@@ -1,1 +1,1 @@
-var mnemonic = "skate exclude parade cool detail grit arrive pact inflict thrive invite corn";
+var mnemonic = "dash bounce tell burger practice legend vintage glow chat come space sad";

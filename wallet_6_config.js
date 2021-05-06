@@ -1,1 +1,1 @@
-var mnemonic = "special audit garlic coffee duty topic next security various match pulse learn";
+var mnemonic = "drip art enough legal scrap knife park hard about news race client";

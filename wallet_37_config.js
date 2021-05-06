@@ -1,1 +1,1 @@
-var mnemonic = "join short keen keep share coach valid monster aunt chair indoor make";
+var mnemonic = "edit auto truth outer notable future say shrug ability blanket approve sausage";

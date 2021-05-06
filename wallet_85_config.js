@@ -1,1 +1,1 @@
-var mnemonic = "gesture cream escape problem timber exercise problem force absurd edge unlock pyramid";
+var mnemonic = "item purse aisle onion cable rescue police rare clock raven answer filter";

@@ -1,1 +1,1 @@
-var mnemonic = "swift school unable afford hazard tomato local fiber enemy common can reward";
+var mnemonic = "genre surface direct super false wine portion maid prefer stay torch security";

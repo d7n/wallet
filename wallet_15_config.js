@@ -1,1 +1,1 @@
-var mnemonic = "aim gun craft leaf broccoli copper exact trophy machine pink urge gift";
+var mnemonic = "will void limb release express sentence giggle wall absent giant base famous";

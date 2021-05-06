@@ -1,1 +1,1 @@
-var mnemonic = "atom crop garbage silver elder canal mass stomach furnace street truck index";
+var mnemonic = "soap equal point old eager bring bench chat fun frown reunion pizza";

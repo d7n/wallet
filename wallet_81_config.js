@@ -1,1 +1,1 @@
-var mnemonic = "pony seminar exercise lock prosper ten bird poverty gold april upon axis";
+var mnemonic = "similar unique fluid eye taxi meadow cushion bounce equip ivory title embody";

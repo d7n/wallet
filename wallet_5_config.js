@@ -1,1 +1,1 @@
-var mnemonic = "learn valid uncle card age rabbit jar prize trap aisle ancient blame";
+var mnemonic = "win correct bring caution orchard extra tornado strategy mistake fiber risk shove";

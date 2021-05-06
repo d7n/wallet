@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow boss wedding soccer shy energy mixed move beyond clog still text";
+var mnemonic = "bean security income ordinary young drama drama lumber earth sister save brother";

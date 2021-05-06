@@ -1,1 +1,1 @@
-var mnemonic = "hidden spatial assault post renew explain dove cigar potato avocado olympic void";
+var mnemonic = "myth notice spread lend rug wild reveal ignore naive into title faith";

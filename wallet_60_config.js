@@ -1,1 +1,1 @@
-var mnemonic = "blood ski nurse leisure october cover sustain blanket amount diary morning decorate";
+var mnemonic = "vanish merry swift orange doll cushion level lend pledge blossom woman cost";

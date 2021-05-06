@@ -1,1 +1,1 @@
-var mnemonic = "indoor absorb fix way fruit jump imitate shallow example saddle coast evolve";
+var mnemonic = "brown lava limit pulp cactus rely mad window nuclear reunion ahead tool";

@@ -1,1 +1,1 @@
-var mnemonic = "afford test bottom physical exact awesome before jaguar hair endless music team";
+var mnemonic = "actress film audit during tiger barrel genuine slow aunt blood lonely split";

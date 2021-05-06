@@ -1,1 +1,1 @@
-var mnemonic = "thumb cement hub pipe practice invest august sun miracle vehicle acoustic parrot";
+var mnemonic = "drill jungle oval bird nuclear build grit inner hub chunk allow scale";

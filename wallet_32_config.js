@@ -1,1 +1,1 @@
-var mnemonic = "aspect debris convince chunk silver lonely middle turn balance energy angle spoon";
+var mnemonic = "drum world example false potato resist valve crater life text there hello";

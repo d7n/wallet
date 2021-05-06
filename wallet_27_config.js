@@ -1,1 +1,1 @@
-var mnemonic = "gorilla angry belt argue avoid enhance claw company shed fold void penalty";
+var mnemonic = "someone crack task diet hotel comic mistake spring eyebrow equip foster drastic";

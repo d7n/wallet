@@ -1,1 +1,1 @@
-var mnemonic = "rent vast diagram stick knee expose curve kind used monkey frame caught";
+var mnemonic = "notable life noise creek blue replace van boy act unique myth bargain";

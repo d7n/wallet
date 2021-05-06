@@ -1,1 +1,1 @@
-var mnemonic = "crush decline whip escape crucial whisper idle interest village belt castle among";
+var mnemonic = "pistol civil service cannon grow shrug file consider tide bring scene loop";

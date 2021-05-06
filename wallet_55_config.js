@@ -1,1 +1,1 @@
-var mnemonic = "clinic into menu prevent slush behind truly awesome diamond floor burst subway";
+var mnemonic = "drift hockey balcony middle drama aisle arena cliff this icon relax demand";

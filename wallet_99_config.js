@@ -1,1 +1,1 @@
-var mnemonic = "hold develop corn coin side museum zone rail spot winter rifle prepare";
+var mnemonic = "abstract service spend tonight arch price couch share kingdom frost grit sphere";

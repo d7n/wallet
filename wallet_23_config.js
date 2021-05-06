@@ -1,1 +1,1 @@
-var mnemonic = "magic wonder payment gap cloth area jewel color core perfect fabric jeans";
+var mnemonic = "seek drift arrest bachelor rural reduce wish argue snow camp swear round";

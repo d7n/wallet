@@ -1,1 +1,1 @@
-var mnemonic = "seat find divide wish fit old exile home air resist receive debate";
+var mnemonic = "clever phrase game raven cup glare awake wrong potato whale need brief";

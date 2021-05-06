@@ -1,1 +1,1 @@
-var mnemonic = "flush bargain arena affair test shiver genre shrug tissue catalog kit frown";
+var mnemonic = "access mass program alpha lab soul similar client believe security trial soul";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn sword napkin subway net nice torch couple chair praise kite reject";
+var mnemonic = "tooth raw office wall fork tree eight dragon accident injury armor learn";

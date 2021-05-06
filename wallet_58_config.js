@@ -1,1 +1,1 @@
-var mnemonic = "point grow damage oval approve dignity minimum matrix wet stick lend option";
+var mnemonic = "whale tourist unhappy frequent humble bamboo grocery nuclear blind mystery cash era";

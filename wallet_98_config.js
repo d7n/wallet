@@ -1,1 +1,1 @@
-var mnemonic = "middle license make light jealous success scatter dry warrior gather arrest winner";
+var mnemonic = "lock razor stairs stool lawn above indoor burden correct kingdom indoor model";

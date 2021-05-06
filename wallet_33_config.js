@@ -1,1 +1,1 @@
-var mnemonic = "simple improve worry oyster kitten cluster position bike lucky tattoo ribbon vote";
+var mnemonic = "animal great pelican stick attack learn segment crane gospel key correct nuclear";

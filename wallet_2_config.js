@@ -1,1 +1,1 @@
-var mnemonic = "cable meadow spring secret draw mention erode remind gospel wage talk few";
+var mnemonic = "provide skin lemon real real sunset sock weapon left dirt butter harsh";

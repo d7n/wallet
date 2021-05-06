@@ -1,1 +1,1 @@
-var mnemonic = "route effort job raw modify help dog goose switch setup route refuse";
+var mnemonic = "lab brisk escape clock vote spread wife stand army toast craft gloom";

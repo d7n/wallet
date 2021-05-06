@@ -1,1 +1,1 @@
-var mnemonic = "ankle require volcano pave adult usage remove sad hand drive girl original";
+var mnemonic = "diagram front valve jump winner venture type illness gesture pioneer company motor";

@@ -1,1 +1,1 @@
-var mnemonic = "foot erode soft clump hotel drink coyote response genuine bird sand display";
+var mnemonic = "mother flush october aisle receive goddess route castle north sick square another";

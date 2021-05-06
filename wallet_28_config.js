@@ -1,1 +1,1 @@
-var mnemonic = "radio matrix cliff ball retreat east below fee track chat mushroom alter";
+var mnemonic = "soft acoustic frog scare expect soap frequent region nut sustain priority seven";

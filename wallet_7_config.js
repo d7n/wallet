@@ -1,1 +1,1 @@
-var mnemonic = "horror ritual deal depend legend armor junk hat sugar upgrade era fuel";
+var mnemonic = "grunt skirt easy remain oval action endless blur humble grunt sunset weekend";

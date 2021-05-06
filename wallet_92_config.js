@@ -1,1 +1,1 @@
-var mnemonic = "quality wave used weasel valve few join solid object cash badge maple";
+var mnemonic = "winter distance verify focus globe welcome cousin rather torch cycle spoon point";

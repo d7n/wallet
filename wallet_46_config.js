@@ -1,1 +1,1 @@
-var mnemonic = "finish theory slow resist snack damage lucky board glide shrug wide story";
+var mnemonic = "sheriff half gospel vault auto oil parade crater snake small blur enroll";

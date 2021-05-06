@@ -1,1 +1,1 @@
-var mnemonic = "hover usage attract equip negative burden unknown diagram now spend correct arena";
+var mnemonic = "crash inflict fancy ceiling head chief upset little cover demise law impose";

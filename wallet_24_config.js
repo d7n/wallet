@@ -1,1 +1,1 @@
-var mnemonic = "quote evil tired segment write helmet blame once lunar barrel either avocado";
+var mnemonic = "law head improve calm attitude mandate inquiry crystal stable slim light table";

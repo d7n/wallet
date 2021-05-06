@@ -1,1 +1,1 @@
-var mnemonic = "bonus stuff voice happy search aim notice oyster assist face abuse media";
+var mnemonic = "slide wire suspect obtain hope crush clump vocal trick supply kitten faculty";

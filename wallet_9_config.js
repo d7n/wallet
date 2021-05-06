@@ -1,1 +1,1 @@
-var mnemonic = "wood object buyer gentle require holiday comfort zebra ancient victory grab grit";
+var mnemonic = "logic comic cruise race twin budget tree venue spread cost opinion hurry";

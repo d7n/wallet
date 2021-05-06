@@ -1,1 +1,1 @@
-var mnemonic = "maple poet raise token level way dinosaur achieve cannon orphan canal gadget";
+var mnemonic = "screen human solve shuffle leader thing arrange either lunar buddy invest over";

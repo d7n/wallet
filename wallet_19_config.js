@@ -1,1 +1,1 @@
-var mnemonic = "earth ankle arm crane fiction notable capital artefact praise boat prosper kitchen";
+var mnemonic = "all solar remind ivory broken clap various bright vacant close movie first";

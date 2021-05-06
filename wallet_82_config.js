@@ -1,1 +1,1 @@
-var mnemonic = "double panel belt wreck garlic wrap culture usage blossom pioneer polar purse";
+var mnemonic = "multiply lobster organ okay right control shallow trumpet rough sort engage garden";

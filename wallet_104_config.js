@@ -1,1 +1,1 @@
-var mnemonic = "speed security core enjoy midnight swallow relief bracket because catch shallow chair";
+var mnemonic = "achieve balcony globe cabin remember canvas panic reunion dignity become cruise annual";

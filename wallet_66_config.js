@@ -1,1 +1,1 @@
-var mnemonic = "appear steel swamp between acid print spray injury evolve hollow goddess check";
+var mnemonic = "master wild need trash enough pencil mind width elephant crumble effort hole";

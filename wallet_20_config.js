@@ -1,1 +1,1 @@
-var mnemonic = "few luggage gate infant indoor throw behind habit clock defense rule awake";
+var mnemonic = "learn quick finger produce tilt require usual team primary ready danger captain";

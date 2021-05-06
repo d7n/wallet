@@ -1,1 +1,1 @@
-var mnemonic = "merry category wash expire off ten grief profit noble term suffer hello";
+var mnemonic = "beef code black olive soap move stool broccoli swim cloud hotel example";

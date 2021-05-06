@@ -1,1 +1,1 @@
-var mnemonic = "lunar embody spoil quiz motor fitness salute cream nature title gas rare";
+var mnemonic = "category help emerge cinnamon rule pave judge card relax craft now lonely";

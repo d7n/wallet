@@ -1,1 +1,1 @@
-var mnemonic = "lock maze movie ride kitten since gather purpose potato sea increase mansion";
+var mnemonic = "notice appear wink casino dry opera toddler crazy estate wait gallery habit";

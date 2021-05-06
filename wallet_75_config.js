@@ -1,1 +1,1 @@
-var mnemonic = "lake cushion allow siren extend network federal impact pumpkin boil pair state";
+var mnemonic = "duty source quarter dove dinner jacket hobby leopard enough fame enforce idea";

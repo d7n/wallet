@@ -1,1 +1,1 @@
-var mnemonic = "girl labor curtain moral easily leader second claw bottom grape exhibit cluster";
+var mnemonic = "trade couple network fix ginger skate copy banana town sting subway wasp";

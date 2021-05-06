@@ -1,1 +1,1 @@
-var mnemonic = "please segment emerge dismiss ostrich loud juice alpha garment noodle tribe absurd";
+var mnemonic = "cement famous echo outdoor noise march emotion comic funny benefit drink rebel";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty sport betray ritual avocado arch end crater hunt cattle position lunar";
+var mnemonic = "diamond tree lunar merry verb polar ramp ritual perfect welcome opera tuna";

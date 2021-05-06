@@ -1,1 +1,1 @@
-var mnemonic = "sheriff pig tuition wagon equip door bright alcohol student nation segment certain";
+var mnemonic = "better want taste loyal survey flag sun energy stereo bag firm copper";

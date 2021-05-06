@@ -1,1 +1,1 @@
-var mnemonic = "permit grape usual slot grit hammer obtain major buyer theme fit pledge";
+var mnemonic = "appear drop museum mercy have figure charge disorder scheme birth tonight tackle";

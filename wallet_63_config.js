@@ -1,1 +1,1 @@
-var mnemonic = "type track surround ivory check impulse sunny example game sell parade potato";
+var mnemonic = "error brick ask cat soccer donor mimic aim federal borrow whisper inspire";

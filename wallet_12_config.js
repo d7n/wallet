@@ -1,1 +1,1 @@
-var mnemonic = "melody visit various movie vibrant push canoe window review oval combine spot";
+var mnemonic = "put car eternal robot flower fan day excess faint salon quantum pig";

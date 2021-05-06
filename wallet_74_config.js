@@ -1,1 +1,1 @@
-var mnemonic = "call special cabbage either flip rack march profit welcome slow appear rally";
+var mnemonic = "plate envelope very joke body peace kiwi minute diesel wheat arrow put";

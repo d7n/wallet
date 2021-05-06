@@ -1,1 +1,1 @@
-var mnemonic = "minimum bring oppose cat just phrase shove barrel olive disorder cattle nurse";
+var mnemonic = "asset cost tent buddy neglect wool liar dilemma used rescue around shoulder";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch outer start north clerk any pride cruel toward educate kit badge";
+var mnemonic = "august orphan train album leaf hand solve glance crowd guide license hurt";

@@ -1,1 +1,1 @@
-var mnemonic = "opera flee flat embark harvest business spoil update exercise result south old";
+var mnemonic = "bundle dignity supply select soccer solve cinnamon identify tank fatigue february shuffle";

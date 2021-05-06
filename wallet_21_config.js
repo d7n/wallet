@@ -1,1 +1,1 @@
-var mnemonic = "audit scatter wood exhaust occur machine flame balance found endless cause smile";
+var mnemonic = "forget surge despair east series oyster pretty cable slam drastic pottery teach";

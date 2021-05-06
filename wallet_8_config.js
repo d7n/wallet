@@ -1,1 +1,1 @@
-var mnemonic = "tackle have outside drill text unique thing egg stone antique kingdom song";
+var mnemonic = "tank disease kick siren debris hat buddy wheat now cricket excess burst";

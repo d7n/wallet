@@ -1,1 +1,1 @@
-var mnemonic = "empower table solid steel mosquito such hello cruel mosquito silk cattle moon";
+var mnemonic = "wink lazy pencil impact wheat any basic cereal flee current pistol shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin place arrange crystal multiply boost collect smile actor march actor bid";
+var mnemonic = "uncle sight shoulder pumpkin match like grocery exile ordinary keen hotel ready";
