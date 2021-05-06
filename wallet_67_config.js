@@ -1,1 +1,1 @@
-var mnemonic = "defense pretty one fancy gadget exhibit way unfair agent tilt gadget weekend";
+var mnemonic = "roof atom want mass pizza castle silly pear caught pioneer magic crowd";

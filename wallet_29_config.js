@@ -1,1 +1,1 @@
-var mnemonic = "giraffe load laundry swing artefact soft soap ask entry want long pond";
+var mnemonic = "agree junk misery stool number cover become grit suit maid develop disagree";

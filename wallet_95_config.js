@@ -1,1 +1,1 @@
-var mnemonic = "museum flock garlic fortune isolate wealth brick arrest pepper cost night jewel";
+var mnemonic = "worry quality mammal barrel daring myself casino oak switch honey reason rigid";

@@ -1,1 +1,1 @@
-var mnemonic = "grab raccoon pattern neglect curious scout derive bike peace barrel victory cruel";
+var mnemonic = "coffee click release source pear token season person admit grain honey decorate";

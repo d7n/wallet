@@ -1,1 +1,1 @@
-var mnemonic = "nominee strong check hundred artwork embody wreck heart wet film salad route";
+var mnemonic = "insect anger rug hospital example spatial mango warm library ankle today day";

@@ -1,1 +1,1 @@
-var mnemonic = "afraid rice between sibling velvet strike hospital wide model opinion obey company";
+var mnemonic = "fork exit leg degree forget attend purity trust settle umbrella upgrade embody";

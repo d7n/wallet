@@ -1,1 +1,1 @@
-var mnemonic = "lava kiss fantasy penalty fat grit nut example object elephant ramp balcony";
+var mnemonic = "vast age actress silver famous group gap either label lucky fix roast";

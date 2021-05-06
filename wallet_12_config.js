@@ -1,1 +1,1 @@
-var mnemonic = "cliff truly swing impose smart pudding gun assist inspire fancy risk motion";
+var mnemonic = "grief hope movie fiscal define tennis water someone ability humor burden enrich";

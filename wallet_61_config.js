@@ -1,1 +1,1 @@
-var mnemonic = "fantasy erase bounce axis dwarf flame loan hill renew gallery pass label";
+var mnemonic = "music arrive ride piece crew proof endorse idle hour favorite tube curve";

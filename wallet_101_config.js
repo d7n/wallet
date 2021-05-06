@@ -1,1 +1,1 @@
-var mnemonic = "barely palace spoon romance sauce web surprise lawn pilot diary market flat";
+var mnemonic = "present sheriff worry quantum stumble swear bachelor cost shrug length teach injury";

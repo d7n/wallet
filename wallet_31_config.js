@@ -1,1 +1,1 @@
-var mnemonic = "maze scheme smoke client frequent cluster crush wire multiply tired sense bulb";
+var mnemonic = "inherit alarm fiber glove sun slender roof lucky chair crumble unaware empower";

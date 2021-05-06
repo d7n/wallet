@@ -1,1 +1,1 @@
-var mnemonic = "situate faculty elevator scale home orphan nasty toy repair few access april";
+var mnemonic = "duty legend romance iron shine aisle vendor option tube load critic liar";

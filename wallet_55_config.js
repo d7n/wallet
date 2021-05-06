@@ -1,1 +1,1 @@
-var mnemonic = "fever clean push coil student weapon sheriff holiday ability risk sauce symptom";
+var mnemonic = "liquid rather wrist blue pass wolf certain foil omit city book elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "kind young fashion entire veteran error forest tree afraid depart speed crazy";
+var mnemonic = "friend reward tube inherit twenty world lawn broken wish oven nurse say";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion seat purchase pear conduct wheel unlock vault receive fade wheel swift";
+var mnemonic = "remain fish desk shaft oyster husband switch dove host cross buzz culture";

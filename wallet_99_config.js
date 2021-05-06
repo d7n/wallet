@@ -1,1 +1,1 @@
-var mnemonic = "allow pioneer pepper umbrella coach apart limb happy clog scare vast tourist";
+var mnemonic = "mix usage problem tennis power vintage original turtle orbit kidney small sun";

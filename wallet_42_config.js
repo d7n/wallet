@@ -1,1 +1,1 @@
-var mnemonic = "cart brain shed increase access fly proud half divert abandon peace setup";
+var mnemonic = "require rhythm define apart hurry small hello among shell raise trick royal";

@@ -1,1 +1,1 @@
-var mnemonic = "ensure brush talent fluid true attract allow note swim height apart grant";
+var mnemonic = "uphold game purse easy road hurry march success net surge delay enlist";

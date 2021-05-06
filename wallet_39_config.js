@@ -1,1 +1,1 @@
-var mnemonic = "topic drastic spoon place regret invest weekend obtain loud travel casual genuine";
+var mnemonic = "wasp daughter asset rug roof cabbage pond chase matrix gossip devote dry";

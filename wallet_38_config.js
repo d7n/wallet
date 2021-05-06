@@ -1,1 +1,1 @@
-var mnemonic = "tree term fall east banana walk expire almost vacuum pepper magnet million";
+var mnemonic = "lyrics catalog slender live hawk fan fiction pencil damage crime ladder garden";

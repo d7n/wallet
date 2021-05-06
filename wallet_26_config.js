@@ -1,1 +1,1 @@
-var mnemonic = "benefit wish excess fancy latin travel crunch usual scatter violin hurdle image";
+var mnemonic = "hour tool check wine gentle ten educate fall clarify argue great dice";

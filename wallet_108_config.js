@@ -1,1 +1,1 @@
-var mnemonic = "know donor sport walk liar reduce broom parade shy happy pink bomb";
+var mnemonic = "series alcohol rebuild rule elevator bone buyer jelly funny dynamic great version";

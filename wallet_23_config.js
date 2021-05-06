@@ -1,1 +1,1 @@
-var mnemonic = "autumn bike elder gas initial slim jaguar team jazz chaos chunk season";
+var mnemonic = "accuse wool cloth size urban estate happy seek airport fly keep twist";

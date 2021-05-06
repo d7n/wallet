@@ -1,1 +1,1 @@
-var mnemonic = "idle one course logic local pig twelve soda happy audit lizard long";
+var mnemonic = "help agree pride prevent where fold gun great ranch satisfy clever badge";

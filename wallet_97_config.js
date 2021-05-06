@@ -1,1 +1,1 @@
-var mnemonic = "vast lemon clock ranch abuse above critic item fine romance sense impose";
+var mnemonic = "crime wire end light basic popular engine leisure ecology collect grunt always";

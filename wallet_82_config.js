@@ -1,1 +1,1 @@
-var mnemonic = "sleep police mushroom beyond chief same fringe author coin render team world";
+var mnemonic = "treat orphan dumb that affair erase february empty kiwi task science focus";

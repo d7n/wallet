@@ -1,1 +1,1 @@
-var mnemonic = "farm ready before cement phone trip weasel clap artefact buzz change depart";
+var mnemonic = "ice convince census chief hungry jaguar harvest tobacco soap maple citizen grid";

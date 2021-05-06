@@ -1,1 +1,1 @@
-var mnemonic = "pepper illegal give fever rubber episode sunny you during possible vague around";
+var mnemonic = "awkward school odor direct youth recipe cram wolf casual cable moment predict";

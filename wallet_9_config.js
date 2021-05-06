@@ -1,1 +1,1 @@
-var mnemonic = "entire creek traffic that category oppose legend pen negative season task bicycle";
+var mnemonic = "example guard stumble planet few learn nut chalk grow gym raw property";

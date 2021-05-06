@@ -1,1 +1,1 @@
-var mnemonic = "width problem camera melt fox bench become swarm salad way song any";
+var mnemonic = "polar divide state win volume spy glare equal urge call second barrel";

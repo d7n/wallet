@@ -1,1 +1,1 @@
-var mnemonic = "goat fury chunk visual mandate young extend exercise lend pioneer minor hybrid";
+var mnemonic = "blur few ketchup ill danger twelve convince extra program orphan own force";

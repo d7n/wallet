@@ -1,1 +1,1 @@
-var mnemonic = "milk test enjoy quiz welcome pipe fame require nasty timber boring hint";
+var mnemonic = "wedding trust jealous buffalo basket crane foil fantasy brief alien hamster clay";

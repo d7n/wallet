@@ -1,1 +1,1 @@
-var mnemonic = "comfort ring claw cricket actual talk fiscal jealous jealous better plunge unique";
+var mnemonic = "enroll space toddler vintage front fish velvet vague horse legal solve impose";

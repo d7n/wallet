@@ -1,1 +1,1 @@
-var mnemonic = "topic rebuild tortoise steak twenty middle weasel nature debris near hub armed";
+var mnemonic = "label already faith expose swing legal resource lend glide gas zone issue";

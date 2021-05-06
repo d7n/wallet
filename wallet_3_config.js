@@ -1,1 +1,1 @@
-var mnemonic = "great uncover decide leave decline either fabric clean dinner sphere ancient eternal";
+var mnemonic = "chuckle alcohol rug dose talk twelve blue spoon move consider tray spice";

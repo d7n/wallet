@@ -1,1 +1,1 @@
-var mnemonic = "banana tissue slam devote decade pluck slender recipe olympic used filter boil";
+var mnemonic = "spare cattle mean electric transfer gift toy game leopard mixed afford result";

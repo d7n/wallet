@@ -1,1 +1,1 @@
-var mnemonic = "clay style anger crew claim acquire kingdom bomb certain turn casual neck";
+var mnemonic = "book struggle loyal knock unaware pull verify armed scrap arctic family dance";

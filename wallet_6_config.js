@@ -1,1 +1,1 @@
-var mnemonic = "subject worth hero pudding cover outdoor split sing load hazard soft detail";
+var mnemonic = "famous parade idle news nurse relax knife neither oil cry axis among";

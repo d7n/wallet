@@ -1,1 +1,1 @@
-var mnemonic = "must wine goat churn fish verb lyrics fold better glue trigger valve";
+var mnemonic = "jeans expect leader sunset hat milk vote raccoon park between enable harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "divert ripple catch theory glow nose sunset side lion chief tilt salute";
+var mnemonic = "teach jelly know brass shove degree erupt legal hungry market trap model";

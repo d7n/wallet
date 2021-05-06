@@ -1,1 +1,1 @@
-var mnemonic = "bamboo enlist pumpkin video palm attack second circle isolate harbor join enter";
+var mnemonic = "enroll minor office blouse nice situate taste wedding choose scale glide gloom";

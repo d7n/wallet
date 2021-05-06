@@ -1,1 +1,1 @@
-var mnemonic = "add barely color foam weapon clap region shaft salad idea muscle jeans";
+var mnemonic = "sea age choice apart steel become series light river harsh young physical";

@@ -1,1 +1,1 @@
-var mnemonic = "kitten tourist capable blanket boss furnace canyon focus panther bargain doctor neck";
+var mnemonic = "wheel oxygen carbon image hybrid oven list coil foil zebra juice next";

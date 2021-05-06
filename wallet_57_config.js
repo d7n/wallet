@@ -1,1 +1,1 @@
-var mnemonic = "when few drop general define mammal manage tool mistake naive forget slender";
+var mnemonic = "ticket reunion again room valve place frost next airport siren mix parrot";

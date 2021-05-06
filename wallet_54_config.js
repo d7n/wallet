@@ -1,1 +1,1 @@
-var mnemonic = "cricket elegant abstract busy news celery crisp seven fork grant term above";
+var mnemonic = "boring much dilemma exact broken exist stock legend gain civil must situate";

@@ -1,1 +1,1 @@
-var mnemonic = "august paddle uniform pear daring blade ahead puzzle chat target mystery ecology";
+var mnemonic = "interest spice host custom bar film swift radio popular shoot game mountain";

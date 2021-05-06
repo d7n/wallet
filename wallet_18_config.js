@@ -1,1 +1,1 @@
-var mnemonic = "town circle involve divide knee correct forget round bonus divorce genius budget";
+var mnemonic = "outer tell shuffle ramp answer whisper erupt sadness buyer market grocery fall";

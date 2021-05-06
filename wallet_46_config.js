@@ -1,1 +1,1 @@
-var mnemonic = "record know pen antique outside head trim relief job mirror relax silver";
+var mnemonic = "soldier scare tornado company glass yard public illness sport sorry vote melt";

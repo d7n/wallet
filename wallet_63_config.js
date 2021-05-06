@@ -1,1 +1,1 @@
-var mnemonic = "label again maximum picnic struggle case cereal duty stool diesel submit strategy";
+var mnemonic = "clip gap annual elephant shallow game census retire direct giant cigar decrease";

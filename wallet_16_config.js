@@ -1,1 +1,1 @@
-var mnemonic = "vendor laugh certain shoulder other taste town run cruel clog canoe dynamic";
+var mnemonic = "spike resemble act palace custom meadow conduct slim duty walk child area";

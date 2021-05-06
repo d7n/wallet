@@ -1,1 +1,1 @@
-var mnemonic = "source unlock twist thumb curious spatial radio junk such snack kiwi merge";
+var mnemonic = "butter jeans illness captain hero basic survey crisp father gorilla finish stock";

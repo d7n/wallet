@@ -1,1 +1,1 @@
-var mnemonic = "practice broken parrot ancient fancy leader conduct water few sword glory wage";
+var mnemonic = "trumpet direct embody subject duck someone flee height poet subject brave priority";

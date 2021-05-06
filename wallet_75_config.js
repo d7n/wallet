@@ -1,1 +1,1 @@
-var mnemonic = "shoulder remember hundred near vapor hospital defense rail disease explain enrich dash";
+var mnemonic = "eager kick goat language admit nose blossom impose enforce ability drill blouse";

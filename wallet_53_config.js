@@ -1,1 +1,1 @@
-var mnemonic = "demise unaware arctic fortune man model six salt web capable damp desert";
+var mnemonic = "garden crane write wasp problem rate enjoy above waste weekend few cross";

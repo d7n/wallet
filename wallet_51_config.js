@@ -1,1 +1,1 @@
-var mnemonic = "head diary knock addict appear dry weapon retreat motor nuclear grace bar";
+var mnemonic = "art lottery angle mask alley fatal wink index craft pumpkin hard swarm";

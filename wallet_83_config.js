@@ -1,1 +1,1 @@
-var mnemonic = "tree lecture clump grunt dash celery glare hotel build minimum glare safe";
+var mnemonic = "kiwi spy donkey truth host execute lab talk hollow rocket source better";

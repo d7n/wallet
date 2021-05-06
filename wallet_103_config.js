@@ -1,1 +1,1 @@
-var mnemonic = "water problem off film spin brave crucial company slide lobster when mail";
+var mnemonic = "ride hip dust panic govern jump material year dose bunker tail under";

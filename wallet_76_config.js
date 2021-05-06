@@ -1,1 +1,1 @@
-var mnemonic = "choose history what goose travel snack then spare poem junior maid dwarf";
+var mnemonic = "scatter broccoli bundle isolate road quantum interest catch heart poverty lock crane";

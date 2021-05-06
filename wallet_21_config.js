@@ -1,1 +1,1 @@
-var mnemonic = "hurdle deer will head jungle shrug sibling artefact blame pen donkey wonder";
+var mnemonic = "talk gate egg add weird apple network wish diesel ready barely volume";

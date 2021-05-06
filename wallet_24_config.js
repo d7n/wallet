@@ -1,1 +1,1 @@
-var mnemonic = "strike witness rose various issue height retreat turkey card scissors pilot dose";
+var mnemonic = "keen same push early ethics certain board term move awkward thing cannon";

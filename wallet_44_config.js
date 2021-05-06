@@ -1,1 +1,1 @@
-var mnemonic = "wasp gap wire globe spy bounce horn swarm scrap yard embark panel";
+var mnemonic = "kidney adult census february cross member sister review crisp mutual blood page";

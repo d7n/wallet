@@ -1,1 +1,1 @@
-var mnemonic = "bottom north ketchup good dizzy place refuse define frame pause opera science";
+var mnemonic = "bottom know chaos space novel harbor universe bulb van spawn shine science";

@@ -1,1 +1,1 @@
-var mnemonic = "drip change fit gesture develop hill abandon grant exercise install brisk still";
+var mnemonic = "biology radar lonely enlist photo oppose like rookie move basket obey august";

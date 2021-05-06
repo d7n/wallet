@@ -1,1 +1,1 @@
-var mnemonic = "defy risk argue crowd habit suggest allow broken lizard sand again clarify";
+var mnemonic = "essay glue inner business half occur vocal certain poet bag inhale chef";

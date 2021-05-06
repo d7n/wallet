@@ -1,1 +1,1 @@
-var mnemonic = "demise deputy seven usage advance problem shove door quick hand nut pepper";
+var mnemonic = "pony country venue walnut toy tiger imitate must load hello orient poem";

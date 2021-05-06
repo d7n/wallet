@@ -1,1 +1,1 @@
-var mnemonic = "glass faith silent park category frown spy utility daring antenna trip tube";
+var mnemonic = "hungry regret organ bamboo exhaust train above soup people balcony rice ribbon";

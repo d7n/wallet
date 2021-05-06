@@ -1,1 +1,1 @@
-var mnemonic = "drop luxury another man gym auto world rotate cactus switch output puzzle";
+var mnemonic = "gentle strong material liar dilemma online weekend cable remain garbage nation brown";

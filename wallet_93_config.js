@@ -1,1 +1,1 @@
-var mnemonic = "chunk earth render blind merge price choice rent account math major indicate";
+var mnemonic = "twice calm drive mercy blind stick brass lucky special account stumble fossil";

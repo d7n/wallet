@@ -1,1 +1,1 @@
-var mnemonic = "ridge cup text regret happy dinner school green post grass fever picture";
+var mnemonic = "sock swarm simple sword before poem attract security unit erosion boy address";

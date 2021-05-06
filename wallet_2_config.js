@@ -1,1 +1,1 @@
-var mnemonic = "glove ritual right settle fiber off hair latin someone orient icon hybrid";
+var mnemonic = "ghost frequent box problem conduct furnace inch milk punch misery render vacuum";

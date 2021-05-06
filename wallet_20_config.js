@@ -1,1 +1,1 @@
-var mnemonic = "spin engine room shock among black glass gospel clap network fatal fever";
+var mnemonic = "volcano path shoot express dismiss nephew focus dove amazing blood cost early";

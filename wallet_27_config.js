@@ -1,1 +1,1 @@
-var mnemonic = "bone birth offer verb butter cost recycle figure north blossom brain enforce";
+var mnemonic = "laundry voyage repeat toe bubble tortoise prefer air palace boil diamond text";

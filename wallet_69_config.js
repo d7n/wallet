@@ -1,1 +1,1 @@
-var mnemonic = "hood margin advice cool solution sock link account artist fly usage purity";
+var mnemonic = "comic odor sail average wool panel wolf oppose wrist fantasy there style";

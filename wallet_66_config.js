@@ -1,1 +1,1 @@
-var mnemonic = "yellow pyramid master tragic spot scan donate pencil corn law inside spirit";
+var mnemonic = "account hair kingdom hat liquid margin together board record donkey team honey";

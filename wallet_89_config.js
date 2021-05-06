@@ -1,1 +1,1 @@
-var mnemonic = "claim cash theme illegal total buddy fine jazz have foot scare cousin";
+var mnemonic = "ship stock spray hard silver fossil camp verb south link memory attack";

@@ -1,1 +1,1 @@
-var mnemonic = "pole rocket tag turn wild old game right control draft sport spin";
+var mnemonic = "remain movie couch sword question craft vast damp note comic table mistake";

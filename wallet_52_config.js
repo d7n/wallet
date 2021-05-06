@@ -1,1 +1,1 @@
-var mnemonic = "sport valve avoid garbage outdoor husband army diary copper alter attack crack";
+var mnemonic = "kid surprise aunt violin lend reward link stick scrap wave step stamp";

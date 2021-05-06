@@ -1,1 +1,1 @@
-var mnemonic = "warm clarify soft hollow achieve skirt chronic lesson shoot drip roast inner";
+var mnemonic = "nephew grit reduce venture proof boost love pencil memory topple among buyer";

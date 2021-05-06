@@ -1,1 +1,1 @@
-var mnemonic = "movie blanket recall subway number cost exact code popular season undo earn";
+var mnemonic = "pigeon speed fun police powder wall soldier caught field sugar guilt right";

@@ -1,1 +1,1 @@
-var mnemonic = "brown ride cargo artist tortoise test chief strong bonus network monitor roast";
+var mnemonic = "voyage similar flame canvas august device coast wasp horror public goose mesh";

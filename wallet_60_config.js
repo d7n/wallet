@@ -1,1 +1,1 @@
-var mnemonic = "age biology chimney east another sorry govern infant uncover carbon prize elder";
+var mnemonic = "trick glare vicious curtain balcony input position cousin struggle manage notice media";

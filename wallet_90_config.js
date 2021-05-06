@@ -1,1 +1,1 @@
-var mnemonic = "town broom drip organ warm cricket original negative rate miss tiny box";
+var mnemonic = "artwork fix sniff loud portion pond fork jungle alpha way mouse melody";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist become cute update dragon obscure flush laugh minimum midnight gloom loyal";
+var mnemonic = "garlic chest all brisk balcony planet galaxy basic train bundle abstract meat";

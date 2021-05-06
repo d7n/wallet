@@ -1,1 +1,1 @@
-var mnemonic = "muffin room lobster churn notice ride better chase open journey error silver";
+var mnemonic = "bring tiny fun income ladder month sense any monitor again mirror foster";

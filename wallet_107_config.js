@@ -1,1 +1,1 @@
-var mnemonic = "reveal shaft borrow under cable solve bridge task kitchen stem pitch make";
+var mnemonic = "frost public humor unit valve busy fox brick okay scare polar theme";

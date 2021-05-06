@@ -1,1 +1,1 @@
-var mnemonic = "destroy tank injury awkward double street danger team rate inspire flash journey";
+var mnemonic = "casual make figure brother arrange creek boost despair ghost theme unveil child";

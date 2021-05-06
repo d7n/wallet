@@ -1,1 +1,1 @@
-var mnemonic = "category first accuse carry visit virus wrist caution exhaust hero around oppose";
+var mnemonic = "give play worth desert track cliff eye amazing radar april mule observe";

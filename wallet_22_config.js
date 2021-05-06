@@ -1,1 +1,1 @@
-var mnemonic = "derive evil nut demise light ski tongue nephew vibrant price jazz stay";
+var mnemonic = "smooth road region screen dry toilet visual odor scorpion object amused net";
