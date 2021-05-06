@@ -1,1 +1,1 @@
-var mnemonic = "federal inject web glove ski siege quick goddess junk rack define bottom";
+var mnemonic = "barely army era together tonight more salad disagree fence soft beef brown";

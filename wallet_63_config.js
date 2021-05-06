@@ -1,1 +1,1 @@
-var mnemonic = "aim hurry once busy school punch arrow twin insane bird trash spot";
+var mnemonic = "bounce draw ribbon motion grain dose little final old fantasy muscle crumble";

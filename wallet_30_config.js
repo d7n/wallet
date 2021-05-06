@@ -1,1 +1,1 @@
-var mnemonic = "globe nothing lion pepper exhibit name lunch burger ginger worry tone adapt";
+var mnemonic = "flip marine slogan moral loyal opinion lemon floor guide trust middle disorder";

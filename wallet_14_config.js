@@ -1,1 +1,1 @@
-var mnemonic = "ginger afford shaft safe turtle bundle edge aspect arch tower year ride";
+var mnemonic = "visit fury april easily saddle clap limb narrow route caution swing wasp";

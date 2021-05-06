@@ -1,1 +1,1 @@
-var mnemonic = "lamp august invest engage boil length vacuum churn scatter peanut produce give";
+var mnemonic = "evoke sad own heart lemon dune winter grain half couch under sketch";

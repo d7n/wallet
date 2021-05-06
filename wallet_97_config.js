@@ -1,1 +1,1 @@
-var mnemonic = "joy jungle student aim trumpet mother deliver deny merit quiz march hat";
+var mnemonic = "connect ten draft champion wagon advance cute lady circle foil level latin";

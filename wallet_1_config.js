@@ -1,1 +1,1 @@
-var mnemonic = "chronic beef annual adapt weather spice industry ensure act cattle december topple";
+var mnemonic = "capable nerve gun oak soldier north gap denial shrug sponsor father axis";

@@ -1,1 +1,1 @@
-var mnemonic = "hat exit eye fog dinosaur public route cabin loud coin rose push";
+var mnemonic = "clog minor frog include magnet ritual actor loyal off alley roof shed";

@@ -1,1 +1,1 @@
-var mnemonic = "option hamster relief uncover flash crop panther liar reunion hollow nut retreat";
+var mnemonic = "canyon fabric fee mushroom jump tool across cute bomb apart grief maze";

@@ -1,1 +1,1 @@
-var mnemonic = "jar erupt ocean undo good enable plunge defy real love entire taste";
+var mnemonic = "catch mammal math such thunder federal sunny exit slush debate system frozen";

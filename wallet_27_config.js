@@ -1,1 +1,1 @@
-var mnemonic = "misery census dress metal sudden bubble lawsuit service town network patch ask";
+var mnemonic = "mass crop salon hawk evoke coconut annual rapid wet jungle blanket analyst";

@@ -1,1 +1,1 @@
-var mnemonic = "main lava shy yard onion rate play buzz learn wrong this vague";
+var mnemonic = "gospel entry much bus like rhythm lazy rude quarter sister wealth caution";

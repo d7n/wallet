@@ -1,1 +1,1 @@
-var mnemonic = "device knife certain pause fox region client assist hurt grow siege session";
+var mnemonic = "brisk ceiling symbol design hobby zoo nasty essay they future giggle post";

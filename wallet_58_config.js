@@ -1,1 +1,1 @@
-var mnemonic = "ankle vocal blanket logic grunt dice camera actor drama sound aisle wrong";
+var mnemonic = "razor master sail joy wreck midnight menu staff destroy coil choose retreat";

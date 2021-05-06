@@ -1,1 +1,1 @@
-var mnemonic = "sorry ghost cable slice judge innocent brisk nephew west hungry embody sphere";
+var mnemonic = "fold drift fence nominee middle odor elegant blind acoustic claw letter robot";

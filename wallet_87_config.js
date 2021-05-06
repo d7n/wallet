@@ -1,1 +1,1 @@
-var mnemonic = "slab meadow version gallery primary dust poem latin glare poem grocery end";
+var mnemonic = "ship core venue gesture gold scrub retire describe copy dog vivid tenant";

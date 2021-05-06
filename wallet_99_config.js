@@ -1,1 +1,1 @@
-var mnemonic = "vicious rescue carry balance peanut sick dinosaur security display ankle panda grape";
+var mnemonic = "try insect bone stadium reduce appear enlist evoke century pitch mail rich";

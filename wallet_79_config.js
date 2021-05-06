@@ -1,1 +1,1 @@
-var mnemonic = "sustain cherry myself stumble wreck suffer scene this slow able symbol divert";
+var mnemonic = "vicious van suggest donate custom ceiling soft disease turkey chalk priority broken";

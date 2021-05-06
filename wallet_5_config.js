@@ -1,1 +1,1 @@
-var mnemonic = "angle bulb idea pair peasant obvious old replace crumble charge tattoo tomato";
+var mnemonic = "treat glimpse unknown beauty magnet slab destroy cause grit blouse light correct";

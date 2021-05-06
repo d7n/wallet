@@ -1,1 +1,1 @@
-var mnemonic = "topple iron mail obscure powder vacant raven cupboard stumble truly vault fox";
+var mnemonic = "concert gold enough umbrella ignore reunion chuckle machine upset swarm misery hybrid";

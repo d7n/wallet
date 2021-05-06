@@ -1,1 +1,1 @@
-var mnemonic = "nuclear uncover laundry squeeze dentist elder mercy remember prefer gallery gravity wise";
+var mnemonic = "taste summer stick segment nice matter produce pair canyon evidence toast kit";

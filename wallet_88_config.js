@@ -1,1 +1,1 @@
-var mnemonic = "prison disagree once gap cabin lazy pledge rotate grain canoe depart resemble";
+var mnemonic = "oxygen praise radio ecology photo plunge review shine water vibrant proud liberty";

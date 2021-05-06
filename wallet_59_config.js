@@ -1,1 +1,1 @@
-var mnemonic = "flavor siege manual decline tackle clock fog combine hospital glow bean acoustic";
+var mnemonic = "assume insect aware trouble list world seed shuffle flash exist sustain cabbage";

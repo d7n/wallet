@@ -1,1 +1,1 @@
-var mnemonic = "hand copy panda symbol bitter seek life arrange tooth ramp tape nasty";
+var mnemonic = "nut auto disorder arch direct forward subway suspect narrow modify economy crisp";

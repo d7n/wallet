@@ -1,1 +1,1 @@
-var mnemonic = "skin concert shock donate inhale recipe silk decade gossip clutch victory betray";
+var mnemonic = "harvest labor trouble venue monster only rally rule tonight toe spawn vital";

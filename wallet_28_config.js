@@ -1,1 +1,1 @@
-var mnemonic = "ribbon unveil ice burger royal duty borrow fee joy body math apple";
+var mnemonic = "wage body blouse cloud always equip essay height unit faith alley hidden";

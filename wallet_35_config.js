@@ -1,1 +1,1 @@
-var mnemonic = "kiss voice brisk dilemma liberty assume ahead cook squirrel stable riot doll";
+var mnemonic = "cactus pair attitude relief now expand science city great relief unable ranch";

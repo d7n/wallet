@@ -1,1 +1,1 @@
-var mnemonic = "bacon digital card finish trouble oxygen good awesome memory twice shield win";
+var mnemonic = "bread usual series now infant rug admit spread calm modify door mystery";

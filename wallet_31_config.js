@@ -1,1 +1,1 @@
-var mnemonic = "term salon eight tonight panther disease two glory soup love toward cinnamon";
+var mnemonic = "raise text icon young this rent wage waste lemon disease nothing knock";

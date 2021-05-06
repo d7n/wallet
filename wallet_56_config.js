@@ -1,1 +1,1 @@
-var mnemonic = "success corn execute vast rely donate sadness soap evidence best obscure aim";
+var mnemonic = "elbow enhance twelve reopen click gorilla chest museum rude black foil vote";

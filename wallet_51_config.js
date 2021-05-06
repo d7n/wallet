@@ -1,1 +1,1 @@
-var mnemonic = "people always mention uncle priority saddle donor excite sing drop culture year";
+var mnemonic = "noble egg garment victory silent evidence release enforce used rib struggle rotate";

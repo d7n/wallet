@@ -1,1 +1,1 @@
-var mnemonic = "inspire boss alcohol double diamond borrow recycle flower casino pair tobacco auto";
+var mnemonic = "chase silent boss virus catch section city sting onion enough palm prosper";

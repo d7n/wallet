@@ -1,1 +1,1 @@
-var mnemonic = "aunt trouble donate curtain rare forest vacuum hire mix eyebrow unusual permit";
+var mnemonic = "excess win giraffe sauce provide mad myself govern please flush gospel pull";

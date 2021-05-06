@@ -1,1 +1,1 @@
-var mnemonic = "behind ordinary latin pet equip act fiction flame remind reject tackle always";
+var mnemonic = "foil wild affair path robot exit soap option october typical normal car";

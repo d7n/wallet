@@ -1,1 +1,1 @@
-var mnemonic = "inject ripple acquire steel universe make prosper blush report subway welcome youth";
+var mnemonic = "heart change vapor relax jealous void stay alter van close lumber crash";

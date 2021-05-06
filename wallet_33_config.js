@@ -1,1 +1,1 @@
-var mnemonic = "trouble print claw into brand object file wisdom beach security explain thumb";
+var mnemonic = "number coast this salad rival vintage mail renew believe escape home recall";

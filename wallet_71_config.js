@@ -1,1 +1,1 @@
-var mnemonic = "poet main angry mean daring emerge dentist famous audit quote magic feed";
+var mnemonic = "sadness mind settle cart question tone wear party innocent lion virus milk";

@@ -1,1 +1,1 @@
-var mnemonic = "reflect fuel ensure female chase neck cupboard rail smoke must grocery glance";
+var mnemonic = "cook buzz middle deal senior claw park place blade route increase such";

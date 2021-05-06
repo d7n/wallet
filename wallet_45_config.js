@@ -1,1 +1,1 @@
-var mnemonic = "kidney arch inherit genius cart refuse village guard adapt kiwi balcony century";
+var mnemonic = "van build rely wink mother zoo loop auto leisure flat rocket private";

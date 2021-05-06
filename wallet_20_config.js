@@ -1,1 +1,1 @@
-var mnemonic = "bulb income bus exist skate jacket rule note brand cycle recipe belt";
+var mnemonic = "smooth pretty electric turn visa fly record square voyage excite allow duty";

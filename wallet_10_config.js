@@ -1,1 +1,1 @@
-var mnemonic = "dizzy final caught better that vendor ripple involve exercise breeze hire ripple";
+var mnemonic = "gravity mechanic oxygen tourist kick front carbon salute vintage text bid twice";

@@ -1,1 +1,1 @@
-var mnemonic = "noise glow suffer hire taxi vast picnic network crush buzz right improve";
+var mnemonic = "jealous muscle vicious rug scale detect library sing cherry sword situate gap";

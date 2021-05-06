@@ -1,1 +1,1 @@
-var mnemonic = "loud session veteran stay spike secret pluck license receive project defy fuel";
+var mnemonic = "antenna question popular abandon tattoo useless answer deposit cabin morning hotel tennis";

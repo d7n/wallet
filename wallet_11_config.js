@@ -1,1 +1,1 @@
-var mnemonic = "pipe tray loop give armed thought anxiety turtle nephew able turn million";
+var mnemonic = "salon ensure hedgehog soup mention across employ become sing wine double smoke";

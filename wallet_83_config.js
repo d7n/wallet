@@ -1,1 +1,1 @@
-var mnemonic = "fence remember balance crunch kid possible double october issue rubber soft remember";
+var mnemonic = "hat poverty topple dog snap rug power adult witness present attend govern";

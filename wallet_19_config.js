@@ -1,1 +1,1 @@
-var mnemonic = "valley nest attract float bundle blouse accident kit busy island east primary";
+var mnemonic = "round drive sail tuition tissue illegal patrol wage rib artist rebuild list";

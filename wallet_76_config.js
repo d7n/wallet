@@ -1,1 +1,1 @@
-var mnemonic = "scrap mango rally another cinnamon rare squeeze jar pass expire raise robust";
+var mnemonic = "abstract portion village ivory puzzle space muffin screen thrive below need despair";

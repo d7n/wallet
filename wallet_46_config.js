@@ -1,1 +1,1 @@
-var mnemonic = "bundle three rocket struggle reunion indicate road drop crouch glimpse idea crack";
+var mnemonic = "above drill comfort chuckle parent predict foil notable husband dignity design nature";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze unknown front elbow inquiry slide palace syrup ride involve mandate bind";
+var mnemonic = "antique wife inspire maid exile clay permit shy fiscal shadow twist slow";

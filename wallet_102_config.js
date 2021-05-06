@@ -1,1 +1,1 @@
-var mnemonic = "install output useless loan need shaft brain faint shop hour brass resist";
+var mnemonic = "toe party birth jar mad snap nose liquid correct assist jelly cattle";

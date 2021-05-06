@@ -1,1 +1,1 @@
-var mnemonic = "apology sting pulp chimney shaft two girl shell awful trend push step";
+var mnemonic = "floor feature luxury disorder ethics garment soul once swallow gasp paddle wealth";

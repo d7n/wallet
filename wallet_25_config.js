@@ -1,1 +1,1 @@
-var mnemonic = "success join dizzy flash actress asset sting pact test badge say time";
+var mnemonic = "retreat nephew edit indoor observe valid depart hybrid glow wave day eager";

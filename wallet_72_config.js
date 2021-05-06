@@ -1,1 +1,1 @@
-var mnemonic = "rail joy rapid neglect grain liquid false recipe feature lady isolate magic";
+var mnemonic = "robust okay dynamic stomach million spoil hazard bundle ship gown grape throw";

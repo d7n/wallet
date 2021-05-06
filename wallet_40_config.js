@@ -1,1 +1,1 @@
-var mnemonic = "transfer buffalo crouch describe soldier march mansion wonder across silent august knock";
+var mnemonic = "top blouse wing machine broken joke denial embrace slow consider harvest just";

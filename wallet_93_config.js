@@ -1,1 +1,1 @@
-var mnemonic = "ready mind camera broken elder trip hamster tell plunge better pulp disorder";
+var mnemonic = "ladder repair clock garlic pride cream goose stock happy case exist divert";

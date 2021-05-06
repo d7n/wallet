@@ -1,1 +1,1 @@
-var mnemonic = "family very inflict island monitor rely exist burden force suffer obtain maid";
+var mnemonic = "leader question guide spray rate couple lonely sunset wool what practice valid";

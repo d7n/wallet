@@ -1,1 +1,1 @@
-var mnemonic = "surround prevent arrow success wealth token make crowd force horn pizza joke";
+var mnemonic = "sunset jump good fragile there throw also dad aisle weather network cement";

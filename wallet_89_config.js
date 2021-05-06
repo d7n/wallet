@@ -1,1 +1,1 @@
-var mnemonic = "history turkey turn catch half wink bubble emotion ghost observe easy taxi";
+var mnemonic = "worry column engine valve course mass write tomorrow option repair coral endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "join leopard athlete emotion cash nephew crowd venue stay coach remain hope";
+var mnemonic = "valley rhythm text olive soup faith toy there supply evolve ten dwarf";

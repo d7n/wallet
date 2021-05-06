@@ -1,1 +1,1 @@
-var mnemonic = "welcome stone hold brick tornado obvious fix action glue ramp myth local";
+var mnemonic = "miracle frost chapter vanish oppose dragon hospital struggle animal gentle insane warm";

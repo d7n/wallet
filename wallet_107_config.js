@@ -1,1 +1,1 @@
-var mnemonic = "blade ridge pioneer steel raw fault between lumber enable unit total craft";
+var mnemonic = "produce acoustic fashion crunch shove asthma burden kite lucky piece shrimp sea";

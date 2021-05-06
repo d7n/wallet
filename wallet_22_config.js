@@ -1,1 +1,1 @@
-var mnemonic = "orchard sunset file way cereal alone shallow perfect horror pass volume analyst";
+var mnemonic = "have they tonight improve attitude best awkward orient save glove budget error";

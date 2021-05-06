@@ -1,1 +1,1 @@
-var mnemonic = "glare pink tip race obey army dwarf alert shallow ball into thank";
+var mnemonic = "pilot invite bring skirt detail need steel chef budget similar valve coconut";

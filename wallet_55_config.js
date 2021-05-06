@@ -1,1 +1,1 @@
-var mnemonic = "actress sound address genre kitchen position unhappy claim increase erase person skill";
+var mnemonic = "ancient stone battle about sheriff firm between funny very degree foster marine";

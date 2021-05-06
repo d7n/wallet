@@ -1,1 +1,1 @@
-var mnemonic = "truck pause poverty error crumble clap nominee truck glance rigid assume narrow";
+var mnemonic = "radar price sheriff cancel firm cannon marriage ripple chase churn task female";

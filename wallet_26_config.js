@@ -1,1 +1,1 @@
-var mnemonic = "twist olympic turn frown rotate ozone unhappy expose swing toward one clinic";
+var mnemonic = "chat tent search own equal basic winter federal tiny language cash huge";

@@ -1,1 +1,1 @@
-var mnemonic = "wing twelve olive siren stone spawn bounce supply journey panic brief word";
+var mnemonic = "color kingdom borrow axis wife vanish design exchange vast tribe grow adult";

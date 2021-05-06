@@ -1,1 +1,1 @@
-var mnemonic = "aware six advice stadium bomb involve profit depend mesh discover name hand";
+var mnemonic = "fee road load august save inner scene seek army medal trigger bargain";

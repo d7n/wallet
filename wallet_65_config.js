@@ -1,1 +1,1 @@
-var mnemonic = "ten property shrimp rose input motion lake raven crush coast repair still";
+var mnemonic = "kick language alpha spoon simple plate meat twice obey place they mirror";

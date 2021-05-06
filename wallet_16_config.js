@@ -1,1 +1,1 @@
-var mnemonic = "salt student sample setup crime leopard local grant blue helmet pig voice";
+var mnemonic = "music oak wood urban stuff struggle exile fatal sport sick foot turtle";

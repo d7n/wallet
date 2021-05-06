@@ -1,1 +1,1 @@
-var mnemonic = "champion aim clown what fluid debate slender dolphin beauty impact key absent";
+var mnemonic = "month jelly coral crop give bread park wine item depart such reflect";

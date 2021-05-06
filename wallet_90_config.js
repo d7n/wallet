@@ -1,1 +1,1 @@
-var mnemonic = "network public kiwi antique gaze valid coyote smart uncle govern capable lobster";
+var mnemonic = "choose picnic trim winter firm doll chimney pudding medal egg addict material";

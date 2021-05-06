@@ -1,1 +1,1 @@
-var mnemonic = "sibling coach idle topple blue monitor reunion absent funny enough large coil";
+var mnemonic = "diagram lawn shrug thunder vacant tumble goat grid market salmon chat toss";

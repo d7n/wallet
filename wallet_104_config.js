@@ -1,1 +1,1 @@
-var mnemonic = "refuse width lamp grant farm frozen now pass match fringe tower crowd";
+var mnemonic = "accident excite chef pudding label innocent marine chat blush warfare ready noodle";

@@ -1,1 +1,1 @@
-var mnemonic = "aware kid identify faith virtual knock jungle bright exercise jazz edit couple";
+var mnemonic = "segment zone hawk fee clog feed capital ten throw brass despair unique";

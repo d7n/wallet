@@ -1,1 +1,1 @@
-var mnemonic = "annual evidence helmet rate benefit riot remove deposit weekend square will jewel";
+var mnemonic = "renew hole erosion paper artefact coconut sudden resemble task music elite elevator";

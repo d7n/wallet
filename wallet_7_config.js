@@ -1,1 +1,1 @@
-var mnemonic = "deal survey cool deal ecology album resemble negative conduct worth embrace health";
+var mnemonic = "forward arrange month crime miracle utility feature cigar trend tank exchange front";

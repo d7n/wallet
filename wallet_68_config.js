@@ -1,1 +1,1 @@
-var mnemonic = "dash real resist head jacket absorb utility boat budget autumn scrub nuclear";
+var mnemonic = "fatigue rubber decide half dose nerve topple ozone room truly fancy fitness";

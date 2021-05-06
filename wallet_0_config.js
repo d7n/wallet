@@ -1,1 +1,1 @@
-var mnemonic = "fault cattle indicate imitate away assist march tomato canyon found blind notice";
+var mnemonic = "calm rural struggle edit upper border screen energy rich wheat record drift";

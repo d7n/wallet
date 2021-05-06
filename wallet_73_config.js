@@ -1,1 +1,1 @@
-var mnemonic = "love someone put chicken armor away oppose tonight little joke need runway";
+var mnemonic = "armor chapter inner chief weird debris hundred perfect bubble artwork impulse bargain";

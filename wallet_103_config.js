@@ -1,1 +1,1 @@
-var mnemonic = "blade tunnel squeeze damage announce treat profit hammer pet elite cinnamon trip";
+var mnemonic = "hedgehog copy crime spell chat leaf raw scatter fame girl cupboard drop";

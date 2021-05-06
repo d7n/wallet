@@ -1,1 +1,1 @@
-var mnemonic = "august plunge impulse fence inch raise run bike agree morning clean faith";
+var mnemonic = "tuna phone merry bridge sister glove hungry stone number siege suffer glory";

@@ -1,1 +1,1 @@
-var mnemonic = "keep report time loud innocent shrimp tone lizard useful cage current flag";
+var mnemonic = "settle mosquito sibling hunt vital betray scatter circle crush topple furnace basic";

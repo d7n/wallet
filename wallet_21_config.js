@@ -1,1 +1,1 @@
-var mnemonic = "nest gaze cable february equip name canyon cup cool other ensure cake";
+var mnemonic = "antenna kit ride dry that bean sea chef solution energy capable essence";

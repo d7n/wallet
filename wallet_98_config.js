@@ -1,1 +1,1 @@
-var mnemonic = "oblige unveil jelly tortoise popular arena unit spend viable zoo oblige donkey";
+var mnemonic = "blossom bring tomato tenant slender palace favorite struggle seed connect extra element";

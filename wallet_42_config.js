@@ -1,1 +1,1 @@
-var mnemonic = "tragic boost pride scorpion school page hungry bright cattle sauce acquire sad";
+var mnemonic = "state chalk person dust claw symptom bachelor hint process cool fantasy foil";

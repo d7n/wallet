@@ -1,1 +1,1 @@
-var mnemonic = "wood warm scale exit behind exhaust multiply spoon jaguar identify primary crisp";
+var mnemonic = "uncle lizard column subway notice place inspire gloom slot collect decade joy";

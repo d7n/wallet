@@ -1,1 +1,1 @@
-var mnemonic = "wasp large hand sick detail trigger diet connect cram eyebrow donkey large";
+var mnemonic = "brave crater buyer topic ability arctic between voice game tube west high";

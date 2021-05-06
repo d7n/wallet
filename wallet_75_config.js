@@ -1,1 +1,1 @@
-var mnemonic = "claim dove calm match duty join noodle joke aunt suspect copper penalty";
+var mnemonic = "quarter heavy split vintage film spin priority tragic unaware diamond eternal immune";

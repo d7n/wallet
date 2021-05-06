@@ -1,1 +1,1 @@
-var mnemonic = "save hover wave memory shy view cushion brown route office adjust better";
+var mnemonic = "leader enrich dynamic chicken inquiry army code enroll mix bomb bronze leg";

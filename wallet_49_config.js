@@ -1,1 +1,1 @@
-var mnemonic = "suit orchard awake vendor mercy burden age hurt glass portion turtle wheat";
+var mnemonic = "element grief peanut figure refuse goddess blade error kingdom intact enjoy movie";

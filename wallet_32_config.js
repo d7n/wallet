@@ -1,1 +1,1 @@
-var mnemonic = "capable patrol amused annual vital off brick library category punch leisure rose";
+var mnemonic = "toast only voice gauge return expect health clap taxi electric lyrics anger";

@@ -1,1 +1,1 @@
-var mnemonic = "quote deputy market town tent today layer iron silk quarter brief human";
+var mnemonic = "injury sweet number retreat fork clinic flip ginger double method segment siege";

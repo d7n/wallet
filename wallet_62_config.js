@@ -1,1 +1,1 @@
-var mnemonic = "tiny grain hurry proof muffin ask buyer shock view relax hospital shine";
+var mnemonic = "again chimney response tired load inhale stool magnet whip quantum much lawn";

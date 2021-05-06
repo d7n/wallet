@@ -1,1 +1,1 @@
-var mnemonic = "story deputy urge gospel paper enrich impact deer hedgehog interest social round";
+var mnemonic = "rally decrease mimic shove soldier because width sea casino across december same";

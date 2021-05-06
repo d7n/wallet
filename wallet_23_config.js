@@ -1,1 +1,1 @@
-var mnemonic = "clay awesome welcome veteran dumb fiction legal jaguar blanket face tiger invite";
+var mnemonic = "exhaust decade session design key butter polar sunset emerge gauge visit tribe";
