@@ -1,1 +1,1 @@
-var mnemonic = "pigeon speed fun police powder wall soldier caught field sugar guilt right";
+var mnemonic = "position sort infant chair orphan scare riot laundry fine anchor cinnamon egg";

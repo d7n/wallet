@@ -1,1 +1,1 @@
-var mnemonic = "roof atom want mass pizza castle silly pear caught pioneer magic crowd";
+var mnemonic = "hill good wheat afford prepare organ federal worth move pet celery exercise";

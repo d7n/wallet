@@ -1,1 +1,1 @@
-var mnemonic = "large sun wrestle slight push jacket scatter category funny skill arrange rice";
+var mnemonic = "head gold point noble sock limb remain victory news hand deliver swing";

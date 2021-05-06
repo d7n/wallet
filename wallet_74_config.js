@@ -1,1 +1,1 @@
-var mnemonic = "proud pear hero lyrics total wreck repair hello ugly board attack vocal";
+var mnemonic = "indicate wave impose culture belt found alone box spend buyer subject wise";

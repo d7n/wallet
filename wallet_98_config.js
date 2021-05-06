@@ -1,1 +1,1 @@
-var mnemonic = "coffee click release source pear token season person admit grain honey decorate";
+var mnemonic = "glare bulb castle pet library era avocado subway citizen lobster grace client";

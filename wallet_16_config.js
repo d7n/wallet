@@ -1,1 +1,1 @@
-var mnemonic = "spike resemble act palace custom meadow conduct slim duty walk child area";
+var mnemonic = "runway describe frozen stove gym trim panda label hamster over rose join";

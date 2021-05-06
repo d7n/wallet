@@ -1,1 +1,1 @@
-var mnemonic = "bottom know chaos space novel harbor universe bulb van spawn shine science";
+var mnemonic = "fresh almost next elevator foil spread save grape act identify age thunder";

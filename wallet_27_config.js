@@ -1,1 +1,1 @@
-var mnemonic = "laundry voyage repeat toe bubble tortoise prefer air palace boil diamond text";
+var mnemonic = "fun shell detect curve bomb payment despair crack castle civil midnight desert";

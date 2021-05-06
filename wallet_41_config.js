@@ -1,1 +1,1 @@
-var mnemonic = "craft choose give female gentle time board wheat saddle adjust hybrid filter";
+var mnemonic = "decline enough rare luxury same trouble perfect intact slab small meadow any";

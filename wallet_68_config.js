@@ -1,1 +1,1 @@
-var mnemonic = "biology radar lonely enlist photo oppose like rookie move basket obey august";
+var mnemonic = "vicious jeans number catch recall sort topple flush favorite salmon remember strike";

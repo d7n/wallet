@@ -1,1 +1,1 @@
-var mnemonic = "casual make figure brother arrange creek boost despair ghost theme unveil child";
+var mnemonic = "actress undo loyal merit people leave addict crane write quiz inside close";

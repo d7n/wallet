@@ -1,1 +1,1 @@
-var mnemonic = "ghost frequent box problem conduct furnace inch milk punch misery render vacuum";
+var mnemonic = "vivid enjoy grow tattoo admit unfold index item rather salon evoke member";

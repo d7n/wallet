@@ -1,1 +1,1 @@
-var mnemonic = "will art quantum chronic test above tuna panic spider improve obey ripple";
+var mnemonic = "frown champion adapt blood head empty mouse heart forum camp winner post";

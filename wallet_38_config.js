@@ -1,1 +1,1 @@
-var mnemonic = "lyrics catalog slender live hawk fan fiction pencil damage crime ladder garden";
+var mnemonic = "file world ball pyramid item harsh drum hint photo garage feature canyon";

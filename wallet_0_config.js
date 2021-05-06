@@ -1,1 +1,1 @@
-var mnemonic = "rescue great hammer video husband rubber carbon sustain emerge ring memory glare";
+var mnemonic = "ranch bounce orient sound scene rate exercise eternal submit loan confirm business";

@@ -1,1 +1,1 @@
-var mnemonic = "crime wire end light basic popular engine leisure ecology collect grunt always";
+var mnemonic = "roof border tomato during camp silent decide ranch oppose large play patient";

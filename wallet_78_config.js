@@ -1,1 +1,1 @@
-var mnemonic = "trumpet direct embody subject duck someone flee height poet subject brave priority";
+var mnemonic = "prefer join cram fit sign seven post twice apart suspect gold palace";

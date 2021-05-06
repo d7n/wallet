@@ -1,1 +1,1 @@
-var mnemonic = "trick glare vicious curtain balcony input position cousin struggle manage notice media";
+var mnemonic = "orient bright vapor video useful biology bar royal notice frequent correct renew";

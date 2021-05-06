@@ -1,1 +1,1 @@
-var mnemonic = "double monitor garage snow rent prevent film cousin proof rescue trumpet scene";
+var mnemonic = "patrol load hamster wet same siren room oval tip artefact pilot skin";

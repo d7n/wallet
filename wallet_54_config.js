@@ -1,1 +1,1 @@
-var mnemonic = "boring much dilemma exact broken exist stock legend gain civil must situate";
+var mnemonic = "time try tower candy fossil awake height huge keen behind prize mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "pill dance throw violin hip account antenna lazy happy focus mistake sail";
+var mnemonic = "yard scorpion response render accident chicken useful pencil tent enroll burst weapon";

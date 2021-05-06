@@ -1,1 +1,1 @@
-var mnemonic = "buddy inherit evidence caution stem another resemble grant thank frown machine draw";
+var mnemonic = "general end three august jaguar poem miracle shift update decorate flush person";

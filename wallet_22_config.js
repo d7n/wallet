@@ -1,1 +1,1 @@
-var mnemonic = "smooth road region screen dry toilet visual odor scorpion object amused net";
+var mnemonic = "tube sibling orbit shallow clock list aim youth member forest glove wrong";

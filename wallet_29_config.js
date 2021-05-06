@@ -1,1 +1,1 @@
-var mnemonic = "agree junk misery stool number cover become grit suit maid develop disagree";
+var mnemonic = "list ranch crack minimum assist ride shallow arrive pact limit sphere domain";

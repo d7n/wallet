@@ -1,1 +1,1 @@
-var mnemonic = "vast age actress silver famous group gap either label lucky fix roast";
+var mnemonic = "pumpkin giraffe wave aisle frown harbor guess what limb indoor lonely excess";

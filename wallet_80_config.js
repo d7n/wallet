@@ -1,1 +1,1 @@
-var mnemonic = "model later base hurry abuse bracket include horse soccer giraffe give display";
+var mnemonic = "smooth wall resist loan obvious dove penalty zero ecology industry scatter cactus";

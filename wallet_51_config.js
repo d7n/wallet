@@ -1,1 +1,1 @@
-var mnemonic = "art lottery angle mask alley fatal wink index craft pumpkin hard swarm";
+var mnemonic = "damage foam scheme scrap injury energy recipe swallow session hard second act";

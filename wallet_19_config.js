@@ -1,1 +1,1 @@
-var mnemonic = "garlic chest all brisk balcony planet galaxy basic train bundle abstract meat";
+var mnemonic = "security ill fault palm guitar drift soup lawsuit uncover fire barrel garage";

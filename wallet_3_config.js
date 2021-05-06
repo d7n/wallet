@@ -1,1 +1,1 @@
-var mnemonic = "chuckle alcohol rug dose talk twelve blue spoon move consider tray spice";
+var mnemonic = "bomb argue tuition delay brand wonder cluster fetch champion candy solar inspire";

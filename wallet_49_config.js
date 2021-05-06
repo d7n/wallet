@@ -1,1 +1,1 @@
-var mnemonic = "gentle strong material liar dilemma online weekend cable remain garbage nation brown";
+var mnemonic = "spy grocery coin hat junk tower bitter mistake quiz use retreat problem";

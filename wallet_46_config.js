@@ -1,1 +1,1 @@
-var mnemonic = "soldier scare tornado company glass yard public illness sport sorry vote melt";
+var mnemonic = "smart mixture animal diesel until tiny use exotic praise blush cloth dismiss";

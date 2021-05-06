@@ -1,1 +1,1 @@
-var mnemonic = "mushroom exclude prefer bus focus ride various uncover tunnel sausage harvest maple";
+var mnemonic = "build lecture enable boil blast audit arch range afraid tide type pumpkin";

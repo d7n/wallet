@@ -1,1 +1,1 @@
-var mnemonic = "group wrist very rifle sand hamster snow glow route oyster gas sunset";
+var mnemonic = "change dice sound client surface opera order lounge remind usual play lunch";

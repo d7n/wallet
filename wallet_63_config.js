@@ -1,1 +1,1 @@
-var mnemonic = "clip gap annual elephant shallow game census retire direct giant cigar decrease";
+var mnemonic = "clown gasp minor electric paddle purity pen grab aunt gas pitch desk";

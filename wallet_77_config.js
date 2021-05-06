@@ -1,1 +1,1 @@
-var mnemonic = "purity vivid venture cheese kiss excuse jar flash cannon gold afraid patient";
+var mnemonic = "match crisp warrior library ready decorate wing mystery cream load boil guard";

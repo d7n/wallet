@@ -1,1 +1,1 @@
-var mnemonic = "spare cattle mean electric transfer gift toy game leopard mixed afford result";
+var mnemonic = "ghost cement rhythm wasp pen survey pill bind swim huge crash ancient";

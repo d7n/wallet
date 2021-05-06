@@ -1,1 +1,1 @@
-var mnemonic = "worry quality mammal barrel daring myself casino oak switch honey reason rigid";
+var mnemonic = "pink ripple own truth attitude slam park unlock usage wisdom eye syrup";

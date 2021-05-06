@@ -1,1 +1,1 @@
-var mnemonic = "uphold game purse easy road hurry march success net surge delay enlist";
+var mnemonic = "total bacon gate love relief remain drop universe range lend motion this";

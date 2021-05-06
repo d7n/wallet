@@ -1,1 +1,1 @@
-var mnemonic = "essay glue inner business half occur vocal certain poet bag inhale chef";
+var mnemonic = "dish beyond fade develop nut design require fury panel banana abandon flight";

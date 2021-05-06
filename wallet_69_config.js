@@ -1,1 +1,1 @@
-var mnemonic = "comic odor sail average wool panel wolf oppose wrist fantasy there style";
+var mnemonic = "conduct snake version echo hazard alter current west march jungle midnight snake";

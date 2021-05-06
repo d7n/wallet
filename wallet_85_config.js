@@ -1,1 +1,1 @@
-var mnemonic = "remain movie couch sword question craft vast damp note comic table mistake";
+var mnemonic = "inmate core six dress virtual urban slice recipe effort peasant knee joke";

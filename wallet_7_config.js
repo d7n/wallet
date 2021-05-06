@@ -1,1 +1,1 @@
-var mnemonic = "friend reward tube inherit twenty world lawn broken wish oven nurse say";
+var mnemonic = "purse unaware tragic vivid toward fitness learn lab island tribe van alley";

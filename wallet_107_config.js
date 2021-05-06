@@ -1,1 +1,1 @@
-var mnemonic = "frost public humor unit valve busy fox brick okay scare polar theme";
+var mnemonic = "retreat spell above crawl frog aerobic supply wish below cheese badge cart";

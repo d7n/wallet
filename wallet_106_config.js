@@ -1,1 +1,1 @@
-var mnemonic = "wedding trust jealous buffalo basket crane foil fantasy brief alien hamster clay";
+var mnemonic = "tennis weekend promote fresh talent humor salmon inspire junk myself pet impulse";

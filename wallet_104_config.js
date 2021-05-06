@@ -1,1 +1,1 @@
-var mnemonic = "book struggle loyal knock unaware pull verify armed scrap arctic family dance";
+var mnemonic = "crater rubber fun donate whip merit carbon reflect media blind yard october";

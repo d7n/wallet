@@ -1,1 +1,1 @@
-var mnemonic = "treat orphan dumb that affair erase february empty kiwi task science focus";
+var mnemonic = "link eager supreme country vote fiction pluck electric goat victory shoulder vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "screen require skate jar address turkey barely picture spread aisle glow human";
+var mnemonic = "left science race jealous turkey nut warrior unable weekend upper upset yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket reunion again room valve place frost next airport siren mix parrot";
+var mnemonic = "network bachelor manage tissue forest trap rack eternal tunnel warm message produce";

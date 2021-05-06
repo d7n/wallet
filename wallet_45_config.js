@@ -1,1 +1,1 @@
-var mnemonic = "sea age choice apart steel become series light river harsh young physical";
+var mnemonic = "avoid business pipe shield lend thumb boil hello panic elite lion gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward school odor direct youth recipe cram wolf casual cable moment predict";
+var mnemonic = "swap symbol stove such blast fabric other duty exercise allow obtain neutral";

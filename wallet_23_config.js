@@ -1,1 +1,1 @@
-var mnemonic = "accuse wool cloth size urban estate happy seek airport fly keep twist";
+var mnemonic = "celery lion trouble fiber result universe grain notice fringe world seek aware";

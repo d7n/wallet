@@ -1,1 +1,1 @@
-var mnemonic = "famous parade idle news nurse relax knife neither oil cry axis among";
+var mnemonic = "enroll arena print portion romance easily degree tag elegant comic sadness mother";

@@ -1,1 +1,1 @@
-var mnemonic = "polar divide state win volume spy glare equal urge call second barrel";
+var mnemonic = "finish matrix discover hawk discover escape point kiwi oppose pause myself exotic";

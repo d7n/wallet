@@ -1,1 +1,1 @@
-var mnemonic = "artwork fix sniff loud portion pond fork jungle alpha way mouse melody";
+var mnemonic = "avoid when badge honey drill pink image butter impact mule depth minor";

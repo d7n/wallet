@@ -1,1 +1,1 @@
-var mnemonic = "scatter broccoli bundle isolate road quantum interest catch heart poverty lock crane";
+var mnemonic = "essay ribbon rug knock assume south tuna process door hill attitude pluck";

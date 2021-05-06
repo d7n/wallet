@@ -1,1 +1,1 @@
-var mnemonic = "keen same push early ethics certain board term move awkward thing cannon";
+var mnemonic = "bulb ancient fiction page crunch derive fossil skirt subway exchange autumn foam";

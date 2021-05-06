@@ -1,1 +1,1 @@
-var mnemonic = "twice calm drive mercy blind stick brass lucky special account stumble fossil";
+var mnemonic = "call fame economy shed unique level budget zero next custom hat rural";

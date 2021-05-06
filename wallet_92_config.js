@@ -1,1 +1,1 @@
-var mnemonic = "region thumb occur hold laptop humble smoke desert inform matter wise tide";
+var mnemonic = "silver quick inject cradle toilet lecture sight adapt brisk increase display sudden";

@@ -1,1 +1,1 @@
-var mnemonic = "intact usage bachelor exotic seed lion height ribbon scatter vacant hockey snap";
+var mnemonic = "appear student magic find palm agree victory century convince daring number blame";

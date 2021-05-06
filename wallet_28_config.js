@@ -1,1 +1,1 @@
-var mnemonic = "ice convince census chief hungry jaguar harvest tobacco soap maple citizen grid";
+var mnemonic = "eternal great lady typical reject slight average raw boil trust truck clay";

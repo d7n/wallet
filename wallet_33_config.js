@@ -1,1 +1,1 @@
-var mnemonic = "gentle must scare ladder wire boy force rabbit begin cat leaf lawn";
+var mnemonic = "auction infant august giant mother spice fish miracle eyebrow people much shrug";

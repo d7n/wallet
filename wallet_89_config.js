@@ -1,1 +1,1 @@
-var mnemonic = "ship stock spray hard silver fossil camp verb south link memory attack";
+var mnemonic = "party silent session mind attract maid reunion flee crowd transfer lake rain";

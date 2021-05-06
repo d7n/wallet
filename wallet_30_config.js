@@ -1,1 +1,1 @@
-var mnemonic = "enroll minor office blouse nice situate taste wedding choose scale glide gloom";
+var mnemonic = "coach slot harbor such chronic grid fade rough roast fortune again bitter";

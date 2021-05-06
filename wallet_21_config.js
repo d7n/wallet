@@ -1,1 +1,1 @@
-var mnemonic = "talk gate egg add weird apple network wish diesel ready barely volume";
+var mnemonic = "helmet elder hidden eyebrow mirror joke layer unlock program runway brass weekend";

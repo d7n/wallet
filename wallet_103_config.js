@@ -1,1 +1,1 @@
-var mnemonic = "ride hip dust panic govern jump material year dose bunker tail under";
+var mnemonic = "kitten rug hockey spare beauty life minor decide scale scrap notice fence";

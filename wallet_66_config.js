@@ -1,1 +1,1 @@
-var mnemonic = "account hair kingdom hat liquid margin together board record donkey team honey";
+var mnemonic = "sand junk blade shadow click crop absent leaf certain denial fade labor";

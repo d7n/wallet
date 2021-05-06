@@ -1,1 +1,1 @@
-var mnemonic = "blur few ketchup ill danger twelve convince extra program orphan own force";
+var mnemonic = "oyster upon task slot knee reform repair either actual trial muffin typical";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid rather wrist blue pass wolf certain foil omit city book elephant";
+var mnemonic = "hurdle absorb brush december soon butter explain young hurt middle ignore prison";

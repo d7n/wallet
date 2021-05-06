@@ -1,1 +1,1 @@
-var mnemonic = "inherit alarm fiber glove sun slender roof lucky chair crumble unaware empower";
+var mnemonic = "pet cloth delay pledge gallery pair donor bring save broom danger manage";

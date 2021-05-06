@@ -1,1 +1,1 @@
-var mnemonic = "present sheriff worry quantum stumble swear bachelor cost shrug length teach injury";
+var mnemonic = "unaware home glory topple canoe buyer garlic rule trip sibling tower recall";

@@ -1,1 +1,1 @@
-var mnemonic = "series alcohol rebuild rule elevator bone buyer jelly funny dynamic great version";
+var mnemonic = "palm coconut help approve almost panda civil forest business fit denial decrease";

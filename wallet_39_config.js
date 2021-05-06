@@ -1,1 +1,1 @@
-var mnemonic = "wasp daughter asset rug roof cabbage pond chase matrix gossip devote dry";
+var mnemonic = "bag iron false busy invest occur morning general spirit sausage detail october";

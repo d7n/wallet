@@ -1,1 +1,1 @@
-var mnemonic = "fork exit leg degree forget attend purity trust settle umbrella upgrade embody";
+var mnemonic = "until rebel lumber gravity once deer upper until bread warfare chair elder";

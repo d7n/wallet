@@ -1,1 +1,1 @@
-var mnemonic = "duty legend romance iron shine aisle vendor option tube load critic liar";
+var mnemonic = "warm door fix because theory reform expose cable already critic style exit";

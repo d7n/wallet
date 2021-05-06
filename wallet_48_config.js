@@ -1,1 +1,1 @@
-var mnemonic = "hello catalog cabin rifle switch they car slab fever music north fresh";
+var mnemonic = "agree roast auction scorpion subway offer wolf smile horn helmet this liar";

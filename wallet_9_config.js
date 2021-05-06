@@ -1,1 +1,1 @@
-var mnemonic = "example guard stumble planet few learn nut chalk grow gym raw property";
+var mnemonic = "reveal diary wall hollow lemon few eagle snap next option clever stable";

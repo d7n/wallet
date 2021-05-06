@@ -1,1 +1,1 @@
-var mnemonic = "outer tell shuffle ramp answer whisper erupt sadness buyer market grocery fall";
+var mnemonic = "invest smooth focus owner frequent gallery walk detect execute post boss gentle";

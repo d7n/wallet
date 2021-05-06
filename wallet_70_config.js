@@ -1,1 +1,1 @@
-var mnemonic = "give play worth desert track cliff eye amazing radar april mule observe";
+var mnemonic = "bachelor critic side motion sea bronze sorry camera razor toss leg reflect";

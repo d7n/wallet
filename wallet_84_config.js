@@ -1,1 +1,1 @@
-var mnemonic = "voyage similar flame canvas august device coast wasp horror public goose mesh";
+var mnemonic = "keep science fat desert fence broom hawk enact rain use screen public";

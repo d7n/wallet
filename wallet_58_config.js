@@ -1,1 +1,1 @@
-var mnemonic = "jeans expect leader sunset hat milk vote raccoon park between enable harbor";
+var mnemonic = "inject raw minute jungle defense powder inside journey focus venture uncle water";

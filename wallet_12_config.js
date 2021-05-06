@@ -1,1 +1,1 @@
-var mnemonic = "grief hope movie fiscal define tennis water someone ability humor burden enrich";
+var mnemonic = "oblige feed lawn interest warrior olympic require name initial average dwarf trigger";

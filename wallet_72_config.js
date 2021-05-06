@@ -1,1 +1,1 @@
-var mnemonic = "pony country venue walnut toy tiger imitate must load hello orient poem";
+var mnemonic = "share inside bitter boost bargain chronic exile language win ball cash obey";

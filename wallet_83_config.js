@@ -1,1 +1,1 @@
-var mnemonic = "kiwi spy donkey truth host execute lab talk hollow rocket source better";
+var mnemonic = "welcome nominee hundred renew truly uncle long region bicycle tape pass team";

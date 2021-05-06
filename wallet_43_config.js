@@ -1,1 +1,1 @@
-var mnemonic = "festival garbage mask north error labor bitter solar artist husband dial vanish";
+var mnemonic = "civil language swift crawl couch ribbon daring once scatter under senior match";

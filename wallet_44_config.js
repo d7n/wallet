@@ -1,1 +1,1 @@
-var mnemonic = "kidney adult census february cross member sister review crisp mutual blood page";
+var mnemonic = "seminar very essence betray lazy peace park word beach express chief flee";

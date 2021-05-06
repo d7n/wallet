@@ -1,1 +1,1 @@
-var mnemonic = "music arrive ride piece crew proof endorse idle hour favorite tube curve";
+var mnemonic = "endless kiss decrease still ability avocado museum august clump genius key sign";

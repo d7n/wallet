@@ -1,1 +1,1 @@
-var mnemonic = "nephew grit reduce venture proof boost love pencil memory topple among buyer";
+var mnemonic = "general armed asthma lock joy cushion gaze soap total switch brown weekend";
