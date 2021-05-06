@@ -1,1 +1,1 @@
-var mnemonic = "nurse fix pond inch slow decade shiver industry legend tackle bar fashion";
+var mnemonic = "rent leopard above digital wrap brisk utility fresh sibling police rent busy";

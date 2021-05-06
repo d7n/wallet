@@ -1,1 +1,1 @@
-var mnemonic = "muffin flower proud south gesture holiday nephew leader amused practice cluster unit";
+var mnemonic = "ability type gloom floor denial wing wide pledge grab fault ancient wool";

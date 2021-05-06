@@ -1,1 +1,1 @@
-var mnemonic = "essence punch choose wide sweet code current extend prize gift captain slot";
+var mnemonic = "junior safe wrestle scrub rotate muscle beauty duty twelve case donor person";

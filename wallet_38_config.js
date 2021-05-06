@@ -1,1 +1,1 @@
-var mnemonic = "victory badge soft actual gossip swear deny desert lens grape grid gym";
+var mnemonic = "immune fame key economy short distance point gold time appear point pride";

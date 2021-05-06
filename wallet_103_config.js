@@ -1,1 +1,1 @@
-var mnemonic = "blossom shoe sword quote clap diesel heart play desert decline velvet silk";
+var mnemonic = "bubble purse island either craft message brother filter certain element concert service";

@@ -1,1 +1,1 @@
-var mnemonic = "consider stone regret track rate only drama stereo key elegant energy mom";
+var mnemonic = "almost crumble ensure all wish organ exclude paper enter purpose unique crash";

@@ -1,1 +1,1 @@
-var mnemonic = "near device surprise make entire pottery mercy better mix duty lesson sad";
+var mnemonic = "leader acid screen super lecture core survey spoil hockey kid indoor note";

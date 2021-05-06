@@ -1,1 +1,1 @@
-var mnemonic = "tortoise drama add parrot near nation asset author wild asthma vacant give";
+var mnemonic = "merit museum denial inject force purpose duck empower sleep gold paddle sheriff";

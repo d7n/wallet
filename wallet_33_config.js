@@ -1,1 +1,1 @@
-var mnemonic = "clutch six movie destroy height because gun divert silver found visit slide";
+var mnemonic = "fashion genuine huge setup trick shrug shallow proof stomach voyage extend noodle";

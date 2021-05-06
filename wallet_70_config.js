@@ -1,1 +1,1 @@
-var mnemonic = "order link dilemma clap silver stable left then lyrics anger draw craft";
+var mnemonic = "field blur lion shock spice satoshi august act small peasant simple diet";

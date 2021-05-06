@@ -1,1 +1,1 @@
-var mnemonic = "shoot wish annual prize settle radio dad unhappy scorpion chuckle strike patient";
+var mnemonic = "duck scout resist original brick rookie grass rare pyramid already frog special";

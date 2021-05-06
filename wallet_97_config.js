@@ -1,1 +1,1 @@
-var mnemonic = "galaxy couch cruel audit enroll busy slice run reflect crowd demand carry";
+var mnemonic = "unable narrow lawsuit faculty achieve razor gesture voice rescue gospel busy wreck";

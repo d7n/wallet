@@ -1,1 +1,1 @@
-var mnemonic = "adapt void medal nation dumb grape fence twelve broccoli twist snap angle";
+var mnemonic = "wonder invest despair isolate pill inmate know dash whisper border giant wink";

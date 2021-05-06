@@ -1,1 +1,1 @@
-var mnemonic = "list goose omit fitness between clarify wild book reduce isolate federal distance";
+var mnemonic = "luggage north render west legend oval armor phone speak chuckle border people";

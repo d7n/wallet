@@ -1,1 +1,1 @@
-var mnemonic = "sick gather ethics purpose auction fresh leisure squeeze ozone aspect outdoor resist";
+var mnemonic = "evidence panther convince acquire tongue federal put galaxy obtain nominee envelope setup";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry worry kitten recall access popular exclude knife worry glad toddler vicious";
+var mnemonic = "forward half seminar ticket empty shine tennis match million party carpet affair";

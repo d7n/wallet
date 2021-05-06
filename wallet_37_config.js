@@ -1,1 +1,1 @@
-var mnemonic = "crush area next material album arctic mosquito accuse captain problem style noise";
+var mnemonic = "print pencil twenty bunker radio marble myself margin next order mind tomorrow";

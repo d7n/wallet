@@ -1,1 +1,1 @@
-var mnemonic = "boss permit pen trick myth sick dog spare route fury inch modify";
+var mnemonic = "expire series peasant ridge clinic history decline novel brick kid orchard fatigue";

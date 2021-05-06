@@ -1,1 +1,1 @@
-var mnemonic = "bid very legal lawsuit refuse royal talk echo ocean dinner assault tongue";
+var mnemonic = "gain travel trophy point follow swallow south put join negative wash debris";

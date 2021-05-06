@@ -1,1 +1,1 @@
-var mnemonic = "ball paper awesome kiwi special blanket unveil okay magnet police dentist luxury";
+var mnemonic = "ancient purse spot piano long beach stadium cart suspect notice brick faith";

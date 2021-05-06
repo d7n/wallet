@@ -1,1 +1,1 @@
-var mnemonic = "jaguar bless indicate drift squirrel catch oxygen eyebrow magnet lesson glove strike";
+var mnemonic = "hip outside very wealth taste input time guard unlock replace all team";

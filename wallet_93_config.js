@@ -1,1 +1,1 @@
-var mnemonic = "book kid atom wasp clean nerve large betray finish region guard alone";
+var mnemonic = "frog lemon welcome casual extra saddle same plunge cannon protect faint wedding";

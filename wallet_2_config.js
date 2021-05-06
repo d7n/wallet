@@ -1,1 +1,1 @@
-var mnemonic = "ill tired target street angry engage fly lady hope combine write shed";
+var mnemonic = "boy flight grit book figure one antenna uphold journey guilt remind word";

@@ -1,1 +1,1 @@
-var mnemonic = "twice oil offer piece tissue walnut vacant hint repair train glue vehicle";
+var mnemonic = "badge lucky alone visit actor fantasy radio endless tide blue comfort stomach";

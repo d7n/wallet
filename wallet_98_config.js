@@ -1,1 +1,1 @@
-var mnemonic = "awesome initial warrior sad captain rose duty cattle decorate clump prevent pet";
+var mnemonic = "admit candy prevent lion double history knife latin arrest enroll human nerve";

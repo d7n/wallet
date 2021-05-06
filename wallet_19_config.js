@@ -1,1 +1,1 @@
-var mnemonic = "spare sleep mushroom panda syrup milk vital broccoli fresh become envelope fork";
+var mnemonic = "filter palace tone prosper correct lottery glove tongue mystery rapid scissors off";

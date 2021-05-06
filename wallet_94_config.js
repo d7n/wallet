@@ -1,1 +1,1 @@
-var mnemonic = "tumble vibrant impact enable lecture fun father scissors path amused catalog pepper";
+var mnemonic = "hedgehog digital purse cross weekend scene urban poverty theme wink mean either";

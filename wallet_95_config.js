@@ -1,1 +1,1 @@
-var mnemonic = "glue dad gate enlist oyster release frozen enrich caught pair slim gloom";
+var mnemonic = "reject broom broom proud tackle sure kite mix panda motor coral vapor";

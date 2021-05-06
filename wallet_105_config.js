@@ -1,1 +1,1 @@
-var mnemonic = "duty intact special shrimp exact drive rent typical boost review myself sad";
+var mnemonic = "trumpet assume wool antique depart potato rally produce casino jump feed piece";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware clerk plug bamboo extra release snack adult arch infant crush patient";
+var mnemonic = "obey helmet summer vocal animal jazz harvest floor fiscal grocery flee such";

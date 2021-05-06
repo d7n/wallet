@@ -1,1 +1,1 @@
-var mnemonic = "have body bullet deliver train scrap friend warfare fantasy oyster wide crisp";
+var mnemonic = "empty rule math priority cabbage garlic rural pause say title miss oxygen";

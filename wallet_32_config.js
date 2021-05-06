@@ -1,1 +1,1 @@
-var mnemonic = "bitter cargo soft path cram execute couch bind path scene mystery parrot";
+var mnemonic = "uncover art kingdom scrap spirit among clerk poverty useless month inner enact";

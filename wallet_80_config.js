@@ -1,1 +1,1 @@
-var mnemonic = "huge situate apart mobile addict gap surge doctor accuse broccoli escape remove";
+var mnemonic = "quantum swing make rough uphold cluster damage coyote cannon question motion family";

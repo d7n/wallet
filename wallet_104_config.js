@@ -1,1 +1,1 @@
-var mnemonic = "solid universe canvas kitten shrimp use surge because text cruise luxury cement";
+var mnemonic = "master copper retreat pyramid auction floor flag verify fever flat plug label";

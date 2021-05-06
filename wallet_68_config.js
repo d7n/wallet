@@ -1,1 +1,1 @@
-var mnemonic = "mutual print borrow turtle impulse airport fatigue lady visa chat cargo budget";
+var mnemonic = "panic train half hurt pole search shift hedgehog village rigid arrive mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "shop tape escape flip habit junk anchor answer pipe trumpet wisdom case";
+var mnemonic = "because state cave veteran quick enjoy either habit isolate expect switch notable";

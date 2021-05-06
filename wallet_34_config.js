@@ -1,1 +1,1 @@
-var mnemonic = "fly quarter derive egg sure nest rhythm cause potato mistake armor rich";
+var mnemonic = "journey fetch mail later feature battle rapid patch warm vacuum enjoy sunset";

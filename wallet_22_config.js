@@ -1,1 +1,1 @@
-var mnemonic = "board month alter estate cloth bargain orphan genuine throw illegal nut expose";
+var mnemonic = "segment outdoor shoe talk slush tip love awesome mechanic source rural sand";

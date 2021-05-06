@@ -1,1 +1,1 @@
-var mnemonic = "miracle clutch pause simple lake convince metal broccoli empty start radar drill";
+var mnemonic = "mansion bleak spread post guess layer faint cherry pair rate antenna eye";

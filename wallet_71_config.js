@@ -1,1 +1,1 @@
-var mnemonic = "vacuum fancy relax october heart state tower romance mansion ability input clay";
+var mnemonic = "miss glare carbon baby point session silver twelve today together spread position";

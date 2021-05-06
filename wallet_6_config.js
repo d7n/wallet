@@ -1,1 +1,1 @@
-var mnemonic = "canal spell rebel office put dumb wedding fold inside gospel nation airport";
+var mnemonic = "sunset unfair dentist hobby interest paper crisp suffer piano hover deal arch";

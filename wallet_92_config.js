@@ -1,1 +1,1 @@
-var mnemonic = "brisk frost embrace remove soft item field jaguar usage giraffe mean person";
+var mnemonic = "shallow cross what daughter corn embark winner spot online tennis owner spawn";

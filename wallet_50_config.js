@@ -1,1 +1,1 @@
-var mnemonic = "fringe change brother wet dinner hamster print promote over sort view grid";
+var mnemonic = "bulb hip across remove muscle lecture minor solution life unable salute kiwi";

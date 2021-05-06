@@ -1,1 +1,1 @@
-var mnemonic = "river arrange brave minimum income wheel garbage fatigue expand link mirror pill";
+var mnemonic = "better remain flee pen visit property citizen physical decide carpet useful april";

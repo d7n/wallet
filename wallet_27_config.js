@@ -1,1 +1,1 @@
-var mnemonic = "embody violin sample group display theory trip decorate lemon cabin often evoke";
+var mnemonic = "style pudding indoor reopen angle remember key cram hint water inflict around";

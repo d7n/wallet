@@ -1,1 +1,1 @@
-var mnemonic = "life vital mention tip pizza hamster lobster laundry disease fade chief embrace";
+var mnemonic = "news fringe bid crisp cigar degree tag pelican reform gauge fresh foster";

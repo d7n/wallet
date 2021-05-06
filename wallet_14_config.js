@@ -1,1 +1,1 @@
-var mnemonic = "tuition bright run version explain unknown grab easy spy inner genre goose";
+var mnemonic = "indoor reopen broken clay despair ranch budget bread blossom vague maximum wisdom";

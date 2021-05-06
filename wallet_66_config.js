@@ -1,1 +1,1 @@
-var mnemonic = "release celery use decide cargo lonely bulb sponsor local magic addict depart";
+var mnemonic = "dolphin there cake wild early current quit another sister wing flame rifle";

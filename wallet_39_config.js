@@ -1,1 +1,1 @@
-var mnemonic = "vivid inflict kiwi evoke barrel rug ocean roof mule ball phrase flame";
+var mnemonic = "witness federal identify device response shrimp senior scene feed tiger skull era";

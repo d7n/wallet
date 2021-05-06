@@ -1,1 +1,1 @@
-var mnemonic = "place clutch apple decrease bid flip shed ice side document maid slush";
+var mnemonic = "portion dice scout afford subway exchange morning mirror spike hover enroll food";

@@ -1,1 +1,1 @@
-var mnemonic = "culture initial rubber alert egg logic enrich exit rack base sign apple";
+var mnemonic = "spider universe buyer wool riot message never cabbage scatter dismiss clever viable";

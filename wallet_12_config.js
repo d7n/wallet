@@ -1,1 +1,1 @@
-var mnemonic = "olive act gather focus security album assault text bamboo thumb october weird";
+var mnemonic = "amount foster recipe bullet skate impulse mule guilt iron give dizzy escape";

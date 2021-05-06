@@ -1,1 +1,1 @@
-var mnemonic = "twist unique grape view manual network program list night door confirm meat";
+var mnemonic = "relax endorse wish length image series priority cricket crowd guess next soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "spot industry unusual method coach knife aisle apart oyster blind hurdle step";
+var mnemonic = "fit slow claim thunder tourist lock void person solution boost olympic churn";

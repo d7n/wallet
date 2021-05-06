@@ -1,1 +1,1 @@
-var mnemonic = "agent material hurdle dentist panther glass soup vapor hover wasp bag run";
+var mnemonic = "joke laugh also game wave elbow bring weather guitar snake tiny predict";

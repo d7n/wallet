@@ -1,1 +1,1 @@
-var mnemonic = "unfair grant core rib extra skirt truth hair congress silver huge unaware";
+var mnemonic = "upon balance tank ability nothing ocean fix effort fence bomb awful congress";

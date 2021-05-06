@@ -1,1 +1,1 @@
-var mnemonic = "mix bright office replace chat capital junior shoulder panel engage gentle wear";
+var mnemonic = "disagree vault sleep text artwork latin banana flock loud small industry cute";

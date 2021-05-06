@@ -1,1 +1,1 @@
-var mnemonic = "liar voyage walk start still shoot slender essence cliff other wine spell";
+var mnemonic = "hollow nothing erode friend stem humble phrase armed chalk entire benefit trigger";

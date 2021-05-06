@@ -1,1 +1,1 @@
-var mnemonic = "shift pink depth power better rifle guess bless butter ozone camera conduct";
+var mnemonic = "crumble base section just pride chicken language lonely fury into wise melody";

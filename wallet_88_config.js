@@ -1,1 +1,1 @@
-var mnemonic = "deliver behind parade boy melody pig add response chief coin pistol corn";
+var mnemonic = "remind shift month wire actor deer wrong mouse cross couple liberty outside";

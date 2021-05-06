@@ -1,1 +1,1 @@
-var mnemonic = "say draft opinion girl day torch about theory story view anger off";
+var mnemonic = "hour virus language assault pupil witness dragon unit credit cheese napkin scheme";

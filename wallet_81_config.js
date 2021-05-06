@@ -1,1 +1,1 @@
-var mnemonic = "pill course shoulder blue kiwi cheese gold task mirror rebel box defense";
+var mnemonic = "other mutual plunge vote soft dignity cross turn female rigid hurry source";

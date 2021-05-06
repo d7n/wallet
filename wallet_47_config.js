@@ -1,1 +1,1 @@
-var mnemonic = "canoe filter length ugly genius village science hair cousin sketch total motion";
+var mnemonic = "soup either print shove cushion only original effort sense street crop furnace";

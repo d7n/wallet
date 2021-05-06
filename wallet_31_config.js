@@ -1,1 +1,1 @@
-var mnemonic = "digital face laptop grief boring brick struggle breeze giggle error lumber waste";
+var mnemonic = "stay master regret zoo usual robot soon enact bleak traffic bullet habit";

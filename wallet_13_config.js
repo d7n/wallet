@@ -1,1 +1,1 @@
-var mnemonic = "surge pioneer winner indoor lab insane flag betray blast unveil vanish wealth";
+var mnemonic = "spray work sing join emerge medal drop wish build become advance perfect";

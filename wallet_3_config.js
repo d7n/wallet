@@ -1,1 +1,1 @@
-var mnemonic = "genuine maid slot venue embrace observe deer slab develop borrow put banana";
+var mnemonic = "chief heart wood rescue error razor orchard fresh slight sunny distance arm";

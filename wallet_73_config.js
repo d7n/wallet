@@ -1,1 +1,1 @@
-var mnemonic = "eye exhaust popular card tongue boil mule minute gallery border link dune";
+var mnemonic = "tiny guard domain toy dash increase opera like picture pill usual coconut";

@@ -1,1 +1,1 @@
-var mnemonic = "divide omit laptop frequent beauty shoot gold ticket board scissors outside basic";
+var mnemonic = "party enter head cake fitness wasp try magic repair client judge pulse";

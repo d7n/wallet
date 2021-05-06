@@ -1,1 +1,1 @@
-var mnemonic = "leave capital useful sport lounge borrow between bubble cover alter man input";
+var mnemonic = "senior minimum tell net sister enjoy polar tag afford atom eight whale";

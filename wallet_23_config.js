@@ -1,1 +1,1 @@
-var mnemonic = "unable steak evoke minute crack account recall section armor amount blade account";
+var mnemonic = "river great mountain casino focus engage story wear original alien visa raccoon";

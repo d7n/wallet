@@ -1,1 +1,1 @@
-var mnemonic = "palm hub fuel wage shrug upgrade day flash cargo throw often spirit";
+var mnemonic = "motor body add chapter weekend disagree decide fee system echo describe promote";

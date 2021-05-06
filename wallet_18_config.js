@@ -1,1 +1,1 @@
-var mnemonic = "stomach calm great canvas winner vapor ahead hour electric apple column chunk";
+var mnemonic = "comfort carbon tip section below boat excuse blue shiver foster fall trumpet";

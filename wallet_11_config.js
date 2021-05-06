@@ -1,1 +1,1 @@
-var mnemonic = "sunny focus tourist nephew mail junior empower spray gesture improve town promote";
+var mnemonic = "arrive valid curve rigid wall junk kiss hotel leaf huge alone tired";

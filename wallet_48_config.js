@@ -1,1 +1,1 @@
-var mnemonic = "margin evolve sting visa steel angry inmate foster toy express van hour";
+var mnemonic = "snack copy onion camera seed erupt chef orchard canoe verb course rug";

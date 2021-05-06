@@ -1,1 +1,1 @@
-var mnemonic = "island isolate urge below melody erode moon suspect clerk donor hold talk";
+var mnemonic = "equip false video upon utility control long require tongue cube seminar equal";

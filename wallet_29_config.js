@@ -1,1 +1,1 @@
-var mnemonic = "defense caution salmon human cry virus satisfy unveil remove catch illegal tribe";
+var mnemonic = "river toast poverty alien famous aerobic pudding end entry unit name divert";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse setup sight palm hair garden garage weapon business crime orient sell";
+var mnemonic = "gift medal swamp boat advice female pioneer early warm easily sunny people";

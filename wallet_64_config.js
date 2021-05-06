@@ -1,1 +1,1 @@
-var mnemonic = "palace ethics aspect upper hero corn prize retire pyramid account supreme mercy";
+var mnemonic = "horror speak fitness swim lecture gauge addict section give ecology combine pride";

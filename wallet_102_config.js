@@ -1,1 +1,1 @@
-var mnemonic = "practice clown copper fortune slide belt develop tray alert affair pencil fatal";
+var mnemonic = "blind just raw obtain flame add injury bless require large coil cable";

@@ -1,1 +1,1 @@
-var mnemonic = "lock arena wealth peace juice napkin silent north myself insane proud fit";
+var mnemonic = "brown shuffle behave ecology rough tired toy hamster mail hamster secret secret";

@@ -1,1 +1,1 @@
-var mnemonic = "lizard like logic useless drip fire supreme account virtual surface laugh blind";
+var mnemonic = "swamp illegal borrow quit paper mansion near spawn mom ball harsh morning";

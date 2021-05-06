@@ -1,1 +1,1 @@
-var mnemonic = "bread bring huge hard rent glide nose hedgehog earth wisdom ahead fog";
+var mnemonic = "supreme announce term poet amount black cigar kind swamp original food stadium";

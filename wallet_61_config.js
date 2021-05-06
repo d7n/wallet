@@ -1,1 +1,1 @@
-var mnemonic = "beyond tennis jealous time assault hire connect just illegal turkey catch share";
+var mnemonic = "crystal typical forget now elite amateur strike day simple coin lion reward";

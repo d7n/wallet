@@ -1,1 +1,1 @@
-var mnemonic = "kick coil orbit broccoli ketchup delay camp quiz category stock among two";
+var mnemonic = "long style ordinary egg spice deer adult assist fine update coconut sheriff";

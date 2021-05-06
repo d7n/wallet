@@ -1,1 +1,1 @@
-var mnemonic = "kite agent volume resource wedding intact club mass fortune nice jazz setup";
+var mnemonic = "receive absorb oil initial wear attitude boy license year squirrel ridge robot";

@@ -1,1 +1,1 @@
-var mnemonic = "rural fun category suffer boost glare tooth primary brown dress clock twist";
+var mnemonic = "struggle robot soon quote enlist network warm thrive arena engage lobster bridge";

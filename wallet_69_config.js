@@ -1,1 +1,1 @@
-var mnemonic = "song december bounce ugly floor crumble cream spider sunset glow keen intact";
+var mnemonic = "shadow young wire tag pretty stumble host twelve lunch strategy alarm ordinary";

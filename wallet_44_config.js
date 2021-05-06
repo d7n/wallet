@@ -1,1 +1,1 @@
-var mnemonic = "guilt mistake vault rose despair fiction tiny equal window donor depart swamp";
+var mnemonic = "issue bless math side nasty artwork innocent moral surge virtual dog night";
