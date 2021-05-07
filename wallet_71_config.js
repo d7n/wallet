@@ -1,1 +1,1 @@
-var mnemonic = "daughter walk maze bag hand ocean hundred salmon black cool dinner canyon";
+var mnemonic = "state boy crazy gold wave travel hat invest enact pizza special already";

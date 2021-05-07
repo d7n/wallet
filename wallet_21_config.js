@@ -1,1 +1,1 @@
-var mnemonic = "bacon venue attitude label thought future gesture dwarf mushroom employ region sausage";
+var mnemonic = "humble indicate desk casino middle lift bike wall step spend island stumble";

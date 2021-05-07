@@ -1,1 +1,1 @@
-var mnemonic = "vapor judge orchard public already carry february simple window peanut glance range";
+var mnemonic = "carry fringe hidden convince food egg icon answer already oxygen bamboo void";

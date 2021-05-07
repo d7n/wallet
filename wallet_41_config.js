@@ -1,1 +1,1 @@
-var mnemonic = "anxiety talk tuna history merit yard release ketchup ice improve mesh essence";
+var mnemonic = "movie horror forget kid fragile fall combine lounge orphan someone stem tortoise";

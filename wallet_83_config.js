@@ -1,1 +1,1 @@
-var mnemonic = "focus loud wreck magic promote lonely motion quote clip seven hamster motion";
+var mnemonic = "exercise surround control sell left mutual subject regular sample drum lemon tooth";

@@ -1,1 +1,1 @@
-var mnemonic = "sail bracket liar ranch marble bicycle mandate admit sadness city detail brown";
+var mnemonic = "edit bring universe useless fly act monkey hill fish hand field program";

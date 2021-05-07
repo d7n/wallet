@@ -1,1 +1,1 @@
-var mnemonic = "fashion dolphin time desk kind lava twelve impulse fuel weapon manage buyer";
+var mnemonic = "tiger defy crater approve latin depart bird knife secret change agree play";

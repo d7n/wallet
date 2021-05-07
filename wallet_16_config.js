@@ -1,1 +1,1 @@
-var mnemonic = "mix run whisper pupil tornado puzzle anxiety grit trap minor corn isolate";
+var mnemonic = "inmate high system orbit model man talent machine jar agree tree surge";

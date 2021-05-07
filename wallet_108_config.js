@@ -1,1 +1,1 @@
-var mnemonic = "social chimney scatter leg clap merit snake master evolve harvest copy shield";
+var mnemonic = "argue health since round jazz torch topple enjoy price famous shallow risk";

@@ -1,1 +1,1 @@
-var mnemonic = "festival false height deer online sunny trigger guard nut renew six hammer";
+var mnemonic = "rate machine promote common few cotton way surround law insect element feed";

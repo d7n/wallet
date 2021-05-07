@@ -1,1 +1,1 @@
-var mnemonic = "shadow drive option drama rib pizza verb tray endless typical trade paddle";
+var mnemonic = "round across relief intact ivory spoon matrix street shadow brother horn pyramid";

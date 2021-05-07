@@ -1,1 +1,1 @@
-var mnemonic = "blast match fiction ability winner near tobacco barrel damage hobby blind novel";
+var mnemonic = "track page universe melt remind boy finish match bulk dry again proof";

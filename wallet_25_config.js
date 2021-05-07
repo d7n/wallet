@@ -1,1 +1,1 @@
-var mnemonic = "fiber what blast actor myself network tape volcano sand announce install wrong";
+var mnemonic = "olive chuckle release palace bonus awkward devote goose dust swap infant scare";

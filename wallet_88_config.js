@@ -1,1 +1,1 @@
-var mnemonic = "keen biology pulse whale bleak push gospel twin thunder life verify uphold";
+var mnemonic = "file twice exhibit dentist accident ensure couple shuffle dignity midnight kid fit";

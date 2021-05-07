@@ -1,1 +1,1 @@
-var mnemonic = "crunch marine stage scheme noise install hamster gloom swear alley art category";
+var mnemonic = "hair tag fee organ romance draft cage fashion end range dinner say";

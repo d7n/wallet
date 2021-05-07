@@ -1,1 +1,1 @@
-var mnemonic = "attack ready exile door frequent matter source already off swarm long mutual";
+var mnemonic = "smile candy chalk still story embark broom fatigue require put grain client";

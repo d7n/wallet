@@ -1,1 +1,1 @@
-var mnemonic = "female clever girl concert quit garage decline myself now present reveal grunt";
+var mnemonic = "dwarf jazz session actor breeze baby joy still ill enrich pen interest";

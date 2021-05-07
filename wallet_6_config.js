@@ -1,1 +1,1 @@
-var mnemonic = "maid finger essence slender shrug earth shrug adjust grief riot room school";
+var mnemonic = "auction oven license own iron crystal always entire kiss drastic focus jungle";

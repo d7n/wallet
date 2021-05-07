@@ -1,1 +1,1 @@
-var mnemonic = "dog spirit excess pioneer media maze thunder distance tornado naive fluid diary";
+var mnemonic = "snack wish fortune kangaroo draw club arrange grocery addict guess salon relief";

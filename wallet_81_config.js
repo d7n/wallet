@@ -1,1 +1,1 @@
-var mnemonic = "dynamic sausage neutral next off shed ripple shove ranch nose can bus";
+var mnemonic = "ankle toast tumble tide fitness ankle diamond end oval select expand ginger";

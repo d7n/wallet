@@ -1,1 +1,1 @@
-var mnemonic = "antique occur olive metal border grass column bulb cover sadness cool donor";
+var mnemonic = "hammer invite hungry amateur cherry main genius hamster clerk dawn great calm";

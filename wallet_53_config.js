@@ -1,1 +1,1 @@
-var mnemonic = "swift spot giant hockey waste sauce mosquito song insect timber dentist stone";
+var mnemonic = "gas fine bubble soft relax rack design glow custom sail casino stage";

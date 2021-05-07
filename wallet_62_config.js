@@ -1,1 +1,1 @@
-var mnemonic = "turtle soda excess online dress forest fame voice pact mad prize horn";
+var mnemonic = "fiber lunar wrap olive gospel liar quit frown raw sauce control style";

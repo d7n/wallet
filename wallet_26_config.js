@@ -1,1 +1,1 @@
-var mnemonic = "shoot view museum unaware general scissors mountain length umbrella tiger today zoo";
+var mnemonic = "panic cake creek olive main rifle kid coconut arena deny tired junior";

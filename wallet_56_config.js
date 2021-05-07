@@ -1,1 +1,1 @@
-var mnemonic = "blind wave latin puppy pill lock kitten broom silly inch caution accuse";
+var mnemonic = "grab spring teach patch praise rare coil garden settle scissors zebra vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "margin noise sure genre loan casual jazz match pool mammal tobacco secret";
+var mnemonic = "cherry please horror dizzy verb demand gloom solution churn narrow reflect moon";

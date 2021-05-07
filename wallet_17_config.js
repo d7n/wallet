@@ -1,1 +1,1 @@
-var mnemonic = "autumn crouch grocery better weasel strike witness rib glory blade solution brisk";
+var mnemonic = "wet left any diagram hedgehog smooth core proud fringe awake corn install";

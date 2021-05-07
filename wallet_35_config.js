@@ -1,1 +1,1 @@
-var mnemonic = "pride cluster asset glass hollow assume divide picnic universe card club resource";
+var mnemonic = "valid december bulk film debate attract measure cloth cable present goat scan";

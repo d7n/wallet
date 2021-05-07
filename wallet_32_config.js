@@ -1,1 +1,1 @@
-var mnemonic = "now neutral peace advice measure effort clip layer club recall artwork market";
+var mnemonic = "simple crater harsh stock verb during stock debate lawn blanket width enough";

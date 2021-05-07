@@ -1,1 +1,1 @@
-var mnemonic = "siren venture choice regret fork inner sell bamboo ridge cross student mushroom";
+var mnemonic = "become physical affair quarter hybrid glare giggle derive hand jaguar silent card";

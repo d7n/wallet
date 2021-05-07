@@ -1,1 +1,1 @@
-var mnemonic = "sell involve execute coyote bracket woman element example humor grid idea harvest";
+var mnemonic = "arrange lava elegant caught motor potato post rule mesh recycle win mouse";

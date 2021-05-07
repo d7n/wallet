@@ -1,1 +1,1 @@
-var mnemonic = "figure inherit size present fish bulb plunge share that more range ritual";
+var mnemonic = "royal suit involve soccer concert dwarf property distance rookie gap shoulder adapt";

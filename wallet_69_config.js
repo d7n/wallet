@@ -1,1 +1,1 @@
-var mnemonic = "coffee pony gorilla subway wash differ midnight ladder panel critic acquire host";
+var mnemonic = "vibrant term badge mirror nation goddess scissors ice project jewel vital sudden";

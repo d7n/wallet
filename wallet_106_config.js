@@ -1,1 +1,1 @@
-var mnemonic = "sketch excite audit flip smoke ocean pony size fall virtual merge hill";
+var mnemonic = "sock pelican aspect cushion excite way pyramid slight multiply fee amazing candy";

@@ -1,1 +1,1 @@
-var mnemonic = "room install practice guess empower erase wedding swim cause flame urge major";
+var mnemonic = "focus song area option capital essence scan best manual thank state ten";

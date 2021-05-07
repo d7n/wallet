@@ -1,1 +1,1 @@
-var mnemonic = "tenant churn onion together feed flock cherry uncover course length pause region";
+var mnemonic = "bleak endorse bounce major dust betray umbrella jealous obey twenty donate monster";

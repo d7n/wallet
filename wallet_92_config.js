@@ -1,1 +1,1 @@
-var mnemonic = "promote proud good asset pole desk link paper panther cupboard egg patrol";
+var mnemonic = "staff latin sight fall other fire hockey hair tuna lyrics term stairs";

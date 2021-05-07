@@ -1,1 +1,1 @@
-var mnemonic = "summer invite hungry talk radio word three noble doctor muscle citizen grid";
+var mnemonic = "grape inhale penalty unable elevator appear cheese duck twin fee stereo battle";

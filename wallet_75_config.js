@@ -1,1 +1,1 @@
-var mnemonic = "example language scene lecture scheme cinnamon cement come ankle barrel fresh decline";
+var mnemonic = "neutral two cube gown renew loud exist popular visa tongue still virus";

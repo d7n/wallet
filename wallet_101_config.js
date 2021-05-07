@@ -1,1 +1,1 @@
-var mnemonic = "edit inquiry unfair elder detect thought gospel swarm benefit cheese jazz ethics";
+var mnemonic = "unknown dwarf soldier infant team shuffle basket slide layer build company pledge";

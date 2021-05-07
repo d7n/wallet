@@ -1,1 +1,1 @@
-var mnemonic = "hire dice ordinary pause trial sorry moral junk series taste length candy";
+var mnemonic = "sun float glad plate universe corn around private income bargain youth stomach";

@@ -1,1 +1,1 @@
-var mnemonic = "frost butter evoke sting roast culture flame scorpion object crop expect poet";
+var mnemonic = "tip antenna bachelor large teach video grid what prefer promote dose board";

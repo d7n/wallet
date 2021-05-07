@@ -1,1 +1,1 @@
-var mnemonic = "situate wear evoke vocal twist man blood already goddess tortoise exhaust afraid";
+var mnemonic = "quarter veteran title pattern ladder power basket utility cake throw page luxury";

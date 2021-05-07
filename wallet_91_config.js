@@ -1,1 +1,1 @@
-var mnemonic = "trash learn estate renew test comic border laugh fresh near ghost rug";
+var mnemonic = "safe squeeze wait goat measure accuse theory fringe fine atom slender stool";

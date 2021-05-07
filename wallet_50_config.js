@@ -1,1 +1,1 @@
-var mnemonic = "can palm engine bike problem sail speed genre bag path logic inquiry";
+var mnemonic = "practice never bomb laptop steel access require gloom expire panel multiply era";

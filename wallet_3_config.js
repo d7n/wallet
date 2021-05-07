@@ -1,1 +1,1 @@
-var mnemonic = "tongue useful column aspect catalog jealous heart quality box fall debris slab";
+var mnemonic = "figure boil bracket art about upgrade gesture hurry chaos jungle adult donate";

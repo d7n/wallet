@@ -1,1 +1,1 @@
-var mnemonic = "first badge couch anxiety pear nuclear priority easily hole auction oppose wet";
+var mnemonic = "strategy love bubble begin forward country junior crumble naive leader onion fiber";

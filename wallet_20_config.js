@@ -1,1 +1,1 @@
-var mnemonic = "donate dwarf team often merry maze long escape order town warrior oven";
+var mnemonic = "series must tissue notice humor tourist antenna wrestle off enroll scout exhaust";

@@ -1,1 +1,1 @@
-var mnemonic = "armor awake range salon office agree soft follow legend flame wedding eager";
+var mnemonic = "blush march wash prosper depend climb clutch essay abuse comfort have warfare";

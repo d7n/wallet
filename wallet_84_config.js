@@ -1,1 +1,1 @@
-var mnemonic = "loop dignity carbon truly satisfy usage stable gorilla yard hill agree caution";
+var mnemonic = "impose dream decorate secret cabin diamond unknown indicate future toast capital pumpkin";

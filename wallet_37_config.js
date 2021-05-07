@@ -1,1 +1,1 @@
-var mnemonic = "bag frost old runway sure bus mouse pipe suffer tell wish case";
+var mnemonic = "obey million sick ugly prefer video exit inquiry stuff senior village oil";

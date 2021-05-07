@@ -1,1 +1,1 @@
-var mnemonic = "decline waste drastic arrow face release icon deputy cake hair spirit width";
+var mnemonic = "security recipe photo insane expire drip clump mutual blind deputy industry grape";

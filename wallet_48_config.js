@@ -1,1 +1,1 @@
-var mnemonic = "expose yellow method confirm autumn attack pottery betray crunch dinner feature jazz";
+var mnemonic = "spread spring spray upset pear stable magnet evidence teach example talent idea";

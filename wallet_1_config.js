@@ -1,1 +1,1 @@
-var mnemonic = "skate inmate client ticket raccoon oven produce volume spring leave pumpkin hen";
+var mnemonic = "there drive bubble shy rough cradle creek enact lunch expose rare mean";

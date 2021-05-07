@@ -1,1 +1,1 @@
-var mnemonic = "sustain you guess measure travel erode whale together exile edit flag equip";
+var mnemonic = "pen doll truck chunk all wreck arm current admit guess fetch wrist";

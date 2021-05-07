@@ -1,1 +1,1 @@
-var mnemonic = "rice spider enough diet peace canyon beach kidney spike busy bird join";
+var mnemonic = "fiction warrior shaft alcohol version okay build tool surprise weasel crime endorse";

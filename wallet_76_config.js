@@ -1,1 +1,1 @@
-var mnemonic = "urge leg office scissors logic spread home imitate jacket fresh play shed";
+var mnemonic = "biology anger select false gate vintage high math spy rely crime audit";

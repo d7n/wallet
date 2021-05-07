@@ -1,1 +1,1 @@
-var mnemonic = "ordinary drop sing glue recall feel drip own heart random mind language";
+var mnemonic = "asset minimum asthma key nice win birth soul genuine child list deputy";

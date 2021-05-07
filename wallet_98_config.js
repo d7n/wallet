@@ -1,1 +1,1 @@
-var mnemonic = "year nerve voice cram captain piece razor blossom hurt people salon awake";
+var mnemonic = "giggle example flower alert shove midnight charge giant armed clap waste waste";

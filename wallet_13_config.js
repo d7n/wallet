@@ -1,1 +1,1 @@
-var mnemonic = "bright near orchard eagle silent citizen nothing better fix despair robot dizzy";
+var mnemonic = "warm coyote edit fire vintage run devote frost input ranch used moment";

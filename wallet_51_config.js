@@ -1,1 +1,1 @@
-var mnemonic = "bounce subject trash verify omit onion dwarf helmet gadget crush laundry erase";
+var mnemonic = "enable venue useless web upset deposit thrive noise swear swarm used wreck";

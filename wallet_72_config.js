@@ -1,1 +1,1 @@
-var mnemonic = "good lizard milk cage guitar physical punch decrease miracle limb hub tower";
+var mnemonic = "have dress pepper violin make physical usage mass erosion drum sheriff shoulder";

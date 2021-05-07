@@ -1,1 +1,1 @@
-var mnemonic = "cave scare screen meat else sick avocado predict ranch middle negative typical";
+var mnemonic = "secret health discover bright toast brass code mother clinic pistol labor more";

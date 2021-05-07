@@ -1,1 +1,1 @@
-var mnemonic = "enlist rare hawk bitter street glove spider dial judge buddy duty silver";
+var mnemonic = "supreme clump slim history kiwi item length tackle day crop certain pig";

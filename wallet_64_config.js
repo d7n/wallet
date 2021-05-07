@@ -1,1 +1,1 @@
-var mnemonic = "prepare attitude sing announce hat idle ramp tooth wealth input tonight adapt";
+var mnemonic = "random camera prize slush festival swarm wage multiply few child legal hood";

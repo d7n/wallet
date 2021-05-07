@@ -1,1 +1,1 @@
-var mnemonic = "long dinner strike obey coil kit question cook lab manual assist dentist";
+var mnemonic = "beach rather great person imitate security visit talk sound grid comic phone";

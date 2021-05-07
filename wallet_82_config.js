@@ -1,1 +1,1 @@
-var mnemonic = "allow auto season nose behave shove split social lady inspire total weasel";
+var mnemonic = "shift demise bring what prefer lab embrace rally upset settle under degree";

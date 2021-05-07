@@ -1,1 +1,1 @@
-var mnemonic = "era trim asset human family fall logic sound put life ocean certain";
+var mnemonic = "buffalo siren proof loud hard forest erosion hospital view robust sure meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "casino twist broom rescue jelly tuition flip same hospital month excite obscure";
+var mnemonic = "bottom razor lemon main drill hello sample elegant blossom debate embrace broom";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket scan wall warrior grid drastic digital inform strategy unlock poverty response";
+var mnemonic = "culture what bicycle athlete zero sun sort until pottery section pipe rabbit";

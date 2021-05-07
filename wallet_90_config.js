@@ -1,1 +1,1 @@
-var mnemonic = "wise tourist inside vast early rare window sting garage rain chase object";
+var mnemonic = "shrug river vehicle merry public palace edit act grab say joke dry";

@@ -1,1 +1,1 @@
-var mnemonic = "pluck grief sea bridge share input consider term knee you jazz awkward";
+var mnemonic = "system mirror kingdom skin scare era column favorite mad explain occur achieve";

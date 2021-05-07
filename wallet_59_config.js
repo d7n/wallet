@@ -1,1 +1,1 @@
-var mnemonic = "vote advance network boss festival benefit weird that soccer bag ask loop";
+var mnemonic = "first minor obey material machine fossil august merit still dirt inhale usual";

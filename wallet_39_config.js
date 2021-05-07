@@ -1,1 +1,1 @@
-var mnemonic = "story tape turn second agree sheriff crop crazy round lazy melody add";
+var mnemonic = "million wolf birth simple lemon salt faith keen patch weekend all appear";

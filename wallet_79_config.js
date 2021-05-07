@@ -1,1 +1,1 @@
-var mnemonic = "day skin brother accuse city buddy drill diary smooth pet neither vendor";
+var mnemonic = "nominee second much sick tuition add rescue barrel loop safe skin tired";

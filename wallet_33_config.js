@@ -1,1 +1,1 @@
-var mnemonic = "glow neglect timber blanket sure music dentist have educate oppose hospital child";
+var mnemonic = "vote whale rose stable traffic include yellow height genre funny obvious face";

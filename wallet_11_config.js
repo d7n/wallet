@@ -1,1 +1,1 @@
-var mnemonic = "bonus memory dumb tumble warm clarify stone hope quality inside confirm fault";
+var mnemonic = "rigid silk embrace board roof empower fever hybrid boat club course access";

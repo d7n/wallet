@@ -1,1 +1,1 @@
-var mnemonic = "prize gloom video follow arch stable fitness nuclear public butter raise aerobic";
+var mnemonic = "absurd dog neither battle seven wealth fuel curious response cloud flag bring";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow unique require library range shell drift good knee prevent zero ill";
+var mnemonic = "rescue coffee settle action liar erode remain dad peace detect start relief";

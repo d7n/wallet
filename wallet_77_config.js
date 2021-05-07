@@ -1,1 +1,1 @@
-var mnemonic = "betray pen top super aspect cabbage marine donor maze language satisfy expand";
+var mnemonic = "blame original liar tragic disease script roof fancy flame wool quote receive";

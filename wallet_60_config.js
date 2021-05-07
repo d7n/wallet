@@ -1,1 +1,1 @@
-var mnemonic = "wood draft hope raw phrase finish throw lonely crash shrug change early";
+var mnemonic = "turtle snap shallow frown ripple roast zebra solar orphan melody morning size";

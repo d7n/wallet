@@ -1,1 +1,1 @@
-var mnemonic = "pass major behind evil match mail cool immense wet divide digital knock";
+var mnemonic = "wool nuclear voyage delay method harvest muffin chef runway dial mass unusual";

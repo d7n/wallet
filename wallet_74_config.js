@@ -1,1 +1,1 @@
-var mnemonic = "about kite stadium bachelor vague crush dwarf leg quote engage image come";
+var mnemonic = "lesson immense wait result law social month machine notice page brick pause";

@@ -1,1 +1,1 @@
-var mnemonic = "joy invest utility entire shallow immune burst coffee velvet grunt voice before";
+var mnemonic = "twin match spawn average person upon panther tortoise rotate photo bridge ostrich";

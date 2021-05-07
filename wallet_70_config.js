@@ -1,1 +1,1 @@
-var mnemonic = "road later coconut crowd drink prefer cool aware grow velvet idle bonus";
+var mnemonic = "puppy other muffin gospel piece card laugh bind series frame picture matter";

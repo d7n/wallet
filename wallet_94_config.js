@@ -1,1 +1,1 @@
-var mnemonic = "inquiry sauce derive such toward melt before box error slush pony weekend";
+var mnemonic = "hockey load hand image chronic long ramp slim setup similar argue size";

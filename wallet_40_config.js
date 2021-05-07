@@ -1,1 +1,1 @@
-var mnemonic = "hundred local mirror goose mom symptom pause mass song record venue pelican";
+var mnemonic = "jewel lake private mixture impact prosper normal run exhibit squeeze say child";

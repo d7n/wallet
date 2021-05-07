@@ -1,1 +1,1 @@
-var mnemonic = "educate initial amount involve infant foil siege vague length arrow lizard modify";
+var mnemonic = "mimic sort picture basket adult mobile size trumpet prefer vessel chunk engage";

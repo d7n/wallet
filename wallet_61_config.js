@@ -1,1 +1,1 @@
-var mnemonic = "happy glimpse easily relax title veteran couch piece office furnace tortoise tuna";
+var mnemonic = "myth agree enjoy predict patrol steak dinner copy shoulder share nuclear black";

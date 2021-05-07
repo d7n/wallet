@@ -1,1 +1,1 @@
-var mnemonic = "crumble clerk tobacco lumber wish coyote attend bicycle wrong pair hurt hybrid";
+var mnemonic = "vapor usage shiver depend fire sausage cheese ill ridge armed anchor clutch";

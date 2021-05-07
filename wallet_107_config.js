@@ -1,1 +1,1 @@
-var mnemonic = "multiply young immense exclude dress shuffle media gesture offer jaguar thank mobile";
+var mnemonic = "erode garbage unfair cricket ketchup napkin blood oyster pen day cruise notice";

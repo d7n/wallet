@@ -1,1 +1,1 @@
-var mnemonic = "tattoo giraffe blame misery force essence tenant tennis adapt shove parade fragile";
+var mnemonic = "bicycle rule candy priority kit breeze soup excuse label patient resist audit";

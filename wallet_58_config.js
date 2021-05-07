@@ -1,1 +1,1 @@
-var mnemonic = "source image husband sport exact scale tide frozen almost auto avoid apology";
+var mnemonic = "seed family toe lucky state despair leg gaze obtain sister initial acid";

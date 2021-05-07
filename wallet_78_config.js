@@ -1,1 +1,1 @@
-var mnemonic = "punch satisfy armed basic nominee foam rug actor middle uniform aware broccoli";
+var mnemonic = "champion club lava absent skull plug exclude undo salon chief harvest intact";
