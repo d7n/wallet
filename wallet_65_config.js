@@ -1,1 +1,1 @@
-var mnemonic = "oil labor penalty joke poet open unfair bubble silly chaos battle version";
+var mnemonic = "antique occur olive metal border grass column bulb cover sadness cool donor";

@@ -1,1 +1,1 @@
-var mnemonic = "vote repair forward human canal latin city category bundle salute avoid jacket";
+var mnemonic = "gaze lawn spoil boring bulb quit avocado end pottery universe shadow office";

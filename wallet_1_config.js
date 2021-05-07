@@ -1,1 +1,1 @@
-var mnemonic = "bullet sphere vivid infant fuel saddle author debris enough settle glue minimum";
+var mnemonic = "skate inmate client ticket raccoon oven produce volume spring leave pumpkin hen";

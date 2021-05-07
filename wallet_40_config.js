@@ -1,1 +1,1 @@
-var mnemonic = "glare silly true hospital dune auto sunset autumn prosper save mushroom icon";
+var mnemonic = "hundred local mirror goose mom symptom pause mass song record venue pelican";

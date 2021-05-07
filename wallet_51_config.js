@@ -1,1 +1,1 @@
-var mnemonic = "century grace start depend between face undo ghost cloud blush material slide";
+var mnemonic = "bounce subject trash verify omit onion dwarf helmet gadget crush laundry erase";

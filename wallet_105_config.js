@@ -1,1 +1,1 @@
-var mnemonic = "team relief shoe subway often misery fold pond elegant train segment catalog";
+var mnemonic = "vapor judge orchard public already carry february simple window peanut glance range";

@@ -1,1 +1,1 @@
-var mnemonic = "believe fog room ride fox lesson weather sock water just beach author";
+var mnemonic = "allow auto season nose behave shove split social lady inspire total weasel";

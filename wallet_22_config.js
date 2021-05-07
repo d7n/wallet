@@ -1,1 +1,1 @@
-var mnemonic = "napkin stomach vicious enough hair opinion inch follow trash law glad farm";
+var mnemonic = "orphan obscure flame arrange fog universe into color faith legend noodle sorry";

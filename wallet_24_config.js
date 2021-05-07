@@ -1,1 +1,1 @@
-var mnemonic = "elite also bulk wet slim aerobic pride jealous early duck message mad";
+var mnemonic = "attack ready exile door frequent matter source already off swarm long mutual";

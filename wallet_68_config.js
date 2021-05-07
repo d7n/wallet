@@ -1,1 +1,1 @@
-var mnemonic = "math depend book bird seek audit elevator core math salt staff bid";
+var mnemonic = "armor awake range salon office agree soft follow legend flame wedding eager";

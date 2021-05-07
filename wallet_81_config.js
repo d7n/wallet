@@ -1,1 +1,1 @@
-var mnemonic = "gas vibrant minor chest curve august quiz ordinary ugly south nurse globe";
+var mnemonic = "dynamic sausage neutral next off shed ripple shove ranch nose can bus";

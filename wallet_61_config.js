@@ -1,1 +1,1 @@
-var mnemonic = "obey post pattern unique sadness warrior promote swear beauty film process crazy";
+var mnemonic = "happy glimpse easily relax title veteran couch piece office furnace tortoise tuna";

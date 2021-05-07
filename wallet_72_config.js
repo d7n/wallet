@@ -1,1 +1,1 @@
-var mnemonic = "lion file danger panel fatigue frozen credit olympic collect husband green police";
+var mnemonic = "good lizard milk cage guitar physical punch decrease miracle limb hub tower";

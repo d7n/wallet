@@ -1,1 +1,1 @@
-var mnemonic = "tuna mistake tail champion include member soap below again attend bamboo buffalo";
+var mnemonic = "shoot view museum unaware general scissors mountain length umbrella tiger today zoo";

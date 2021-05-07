@@ -1,1 +1,1 @@
-var mnemonic = "remove denial visa claim faint ski pulse uniform must priority unique adult";
+var mnemonic = "wood draft hope raw phrase finish throw lonely crash shrug change early";

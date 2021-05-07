@@ -1,1 +1,1 @@
-var mnemonic = "stage gate position oblige purse code upgrade fatal maze august dust roof";
+var mnemonic = "prepare attitude sing announce hat idle ramp tooth wealth input tonight adapt";

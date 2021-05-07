@@ -1,1 +1,1 @@
-var mnemonic = "pony rich diary company brother frost car talk game wire puppy crunch";
+var mnemonic = "loan salute boost random bid midnight rule squeeze phone spider fire kit";

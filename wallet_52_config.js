@@ -1,1 +1,1 @@
-var mnemonic = "barely eyebrow solar differ reason sorry bright capable bless evidence luxury excuse";
+var mnemonic = "weasel forest neither clump educate rate blossom fame duty movie reflect tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "vanish spider clump oyster social legend frost pool wait jazz two utility";
+var mnemonic = "motion setup yellow toilet swift reduce supreme prefer pass update push health";

@@ -1,1 +1,1 @@
-var mnemonic = "glad print scatter dolphin lonely industry armed type raise arch vote visa";
+var mnemonic = "fox flee fringe warrior position total congress equal side merry lunar witness";

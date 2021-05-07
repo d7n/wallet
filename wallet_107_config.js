@@ -1,1 +1,1 @@
-var mnemonic = "axis ocean lion grunt noise few link depend pulse basket ship off";
+var mnemonic = "multiply young immense exclude dress shuffle media gesture offer jaguar thank mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "shock spatial find crumble play ability corn drip powder annual antenna ivory";
+var mnemonic = "hire dice ordinary pause trial sorry moral junk series taste length candy";

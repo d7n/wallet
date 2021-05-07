@@ -1,1 +1,1 @@
-var mnemonic = "mosquito camera stadium amateur basket vast rate toward guess across crunch black";
+var mnemonic = "siren venture choice regret fork inner sell bamboo ridge cross student mushroom";

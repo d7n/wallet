@@ -1,1 +1,1 @@
-var mnemonic = "card ahead ostrich mosquito silk valid noodle old sort nuclear exchange eye";
+var mnemonic = "tenant churn onion together feed flock cherry uncover course length pause region";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter season flush assume ivory resist crunch estate round torch toast box";
+var mnemonic = "donate dwarf team often merry maze long escape order town warrior oven";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble soap term blanket piece clinic genre vessel airport rotate fossil author";
+var mnemonic = "cave scare screen meat else sick avocado predict ranch middle negative typical";

@@ -1,1 +1,1 @@
-var mnemonic = "shell energy clever desert where axis route conduct velvet practice wealth chicken";
+var mnemonic = "room install practice guess empower erase wedding swim cause flame urge major";

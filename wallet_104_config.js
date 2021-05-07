@@ -1,1 +1,1 @@
-var mnemonic = "erode sweet glance fly saddle view indoor cargo thought hockey knife enlist";
+var mnemonic = "discover ecology recipe beauty apart employ gate delay when barrel network family";

@@ -1,1 +1,1 @@
-var mnemonic = "like throw eye coach polar spot salon attitude cattle ability will despair";
+var mnemonic = "pass major behind evil match mail cool immense wet divide digital knock";

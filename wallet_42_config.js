@@ -1,1 +1,1 @@
-var mnemonic = "weird injury describe dice team grocery column ticket present invite about earth";
+var mnemonic = "spike office engine strong decrease jeans jungle word orange mercy weather dose";

@@ -1,1 +1,1 @@
-var mnemonic = "minor deputy metal cover cousin embrace goddess hamster gesture best evoke walnut";
+var mnemonic = "figure inherit size present fish bulb plunge share that more range ritual";

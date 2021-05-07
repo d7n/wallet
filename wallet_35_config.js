@@ -1,1 +1,1 @@
-var mnemonic = "blanket captain slow then remove tooth material endorse knock purse you spin";
+var mnemonic = "pride cluster asset glass hollow assume divide picnic universe card club resource";

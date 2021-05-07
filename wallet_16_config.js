@@ -1,1 +1,1 @@
-var mnemonic = "rain right smoke because breeze kingdom juice labor broccoli more gaze hedgehog";
+var mnemonic = "mix run whisper pupil tornado puzzle anxiety grit trap minor corn isolate";

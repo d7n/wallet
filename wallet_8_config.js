@@ -1,1 +1,1 @@
-var mnemonic = "owner local razor sense fever salad van harbor wing again seat chalk";
+var mnemonic = "summer invite hungry talk radio word three noble doctor muscle citizen grid";

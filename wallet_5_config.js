@@ -1,1 +1,1 @@
-var mnemonic = "letter aisle dignity torch key install street range above kitten ready blouse";
+var mnemonic = "rice spider enough diet peace canyon beach kidney spike busy bird join";

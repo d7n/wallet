@@ -1,1 +1,1 @@
-var mnemonic = "tennis segment genius island minimum uncover april tooth festival daughter joy uncover";
+var mnemonic = "edit inquiry unfair elder detect thought gospel swarm benefit cheese jazz ethics";

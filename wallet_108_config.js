@@ -1,1 +1,1 @@
-var mnemonic = "begin exercise adult nut diesel fever tobacco flight crucial expect govern slam";
+var mnemonic = "social chimney scatter leg clap merit snake master evolve harvest copy shield";

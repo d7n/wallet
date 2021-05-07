@@ -1,1 +1,1 @@
-var mnemonic = "bounce false nasty current voyage saddle lunar squeeze unfold laundry primary magic";
+var mnemonic = "shadow drive option drama rib pizza verb tray endless typical trade paddle";

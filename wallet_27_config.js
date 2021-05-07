@@ -1,1 +1,1 @@
-var mnemonic = "frozen abandon case core motor payment window liquid more brisk kitchen fashion";
+var mnemonic = "brand fat poem oven tissue add steak rate theory accident chase there";

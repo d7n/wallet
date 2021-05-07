@@ -1,1 +1,1 @@
-var mnemonic = "penalty soap awkward garbage venture there flip disagree neither bag chapter kitchen";
+var mnemonic = "ticket scan wall warrior grid drastic digital inform strategy unlock poverty response";

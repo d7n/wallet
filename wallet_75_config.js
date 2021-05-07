@@ -1,1 +1,1 @@
-var mnemonic = "medal wine thought bachelor audit practice talk dog wood captain fire phone";
+var mnemonic = "example language scene lecture scheme cinnamon cement come ankle barrel fresh decline";

@@ -1,1 +1,1 @@
-var mnemonic = "glare imitate park check found slide home shy surface divert rival magnet";
+var mnemonic = "crunch marine stage scheme noise install hamster gloom swear alley art category";

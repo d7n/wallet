@@ -1,1 +1,1 @@
-var mnemonic = "salad alien rain exhibit exercise very attract hover coin kite imitate blind";
+var mnemonic = "enlist rare hawk bitter street glove spider dial judge buddy duty silver";

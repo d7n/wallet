@@ -1,1 +1,1 @@
-var mnemonic = "toy worry marriage empty cupboard flock join jungle finish tiny gossip myself";
+var mnemonic = "now neutral peace advice measure effort clip layer club recall artwork market";

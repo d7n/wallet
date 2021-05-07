@@ -1,1 +1,1 @@
-var mnemonic = "grunt laundry fantasy drastic supreme brick network evolve elevator cupboard capital useful";
+var mnemonic = "track risk churn cabbage enjoy dizzy cause frozen chief crash digital print";

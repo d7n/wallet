@@ -1,1 +1,1 @@
-var mnemonic = "midnight lamp eye enrich obtain raccoon media spare suspect sun humor rack";
+var mnemonic = "promote proud good asset pole desk link paper panther cupboard egg patrol";

@@ -1,1 +1,1 @@
-var mnemonic = "animal umbrella enter tip project dry cost spice digital blade put this";
+var mnemonic = "long dinner strike obey coil kit question cook lab manual assist dentist";

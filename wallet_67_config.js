@@ -1,1 +1,1 @@
-var mnemonic = "chalk ring child reveal steak across naive document review still quiz annual";
+var mnemonic = "sail bracket liar ranch marble bicycle mandate admit sadness city detail brown";

@@ -1,1 +1,1 @@
-var mnemonic = "battle pig travel subject empty analyst beauty reason slice sword dawn powder";
+var mnemonic = "era trim asset human family fall logic sound put life ocean certain";

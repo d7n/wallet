@@ -1,1 +1,1 @@
-var mnemonic = "order current wash until valve bright country update cost exercise legal ahead";
+var mnemonic = "anxiety talk tuna history merit yard release ketchup ice improve mesh essence";

@@ -1,1 +1,1 @@
-var mnemonic = "hover glory keen high park disagree fog raven extra danger mechanic jump";
+var mnemonic = "road later coconut crowd drink prefer cool aware grow velvet idle bonus";

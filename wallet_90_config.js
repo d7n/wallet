@@ -1,1 +1,1 @@
-var mnemonic = "obey game green file accuse laugh silk survey midnight theme voyage salt";
+var mnemonic = "wise tourist inside vast early rare window sting garage rain chase object";

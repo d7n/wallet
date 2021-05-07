@@ -1,1 +1,1 @@
-var mnemonic = "glue sun fossil drive best canoe wrap meat dentist power robust private";
+var mnemonic = "sustain you guess measure travel erode whale together exile edit flag equip";

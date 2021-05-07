@@ -1,1 +1,1 @@
-var mnemonic = "worth shoe input dutch force month claim where luxury flash wheat exotic";
+var mnemonic = "inquiry sauce derive such toward melt before box error slush pony weekend";

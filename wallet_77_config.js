@@ -1,1 +1,1 @@
-var mnemonic = "vote gentle metal sense forward south junk office fatigue crumble brain client";
+var mnemonic = "betray pen top super aspect cabbage marine donor maze language satisfy expand";

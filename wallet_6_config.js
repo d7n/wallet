@@ -1,1 +1,1 @@
-var mnemonic = "vehicle inquiry effort super main bean quarter help company judge thank bundle";
+var mnemonic = "maid finger essence slender shrug earth shrug adjust grief riot room school";

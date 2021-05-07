@@ -1,1 +1,1 @@
-var mnemonic = "slender lounge fitness chapter category intact pepper update remember tool offer matter";
+var mnemonic = "trash learn estate renew test comic border laugh fresh near ghost rug";

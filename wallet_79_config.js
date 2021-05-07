@@ -1,1 +1,1 @@
-var mnemonic = "bean piano bind sheriff laptop abstract escape jeans syrup alarm human smooth";
+var mnemonic = "day skin brother accuse city buddy drill diary smooth pet neither vendor";

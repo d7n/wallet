@@ -1,1 +1,1 @@
-var mnemonic = "impact mercy panda paper inject unit around satoshi foot story frog clip";
+var mnemonic = "prize gloom video follow arch stable fitness nuclear public butter raise aerobic";

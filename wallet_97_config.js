@@ -1,1 +1,1 @@
-var mnemonic = "scheme replace ancient stick rich toast problem casino gun nation will busy";
+var mnemonic = "dog spirit excess pioneer media maze thunder distance tornado naive fluid diary";

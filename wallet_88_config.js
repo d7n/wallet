@@ -1,1 +1,1 @@
-var mnemonic = "pull hollow boy inside mercy tray demise arch dash wisdom various pioneer";
+var mnemonic = "keen biology pulse whale bleak push gospel twin thunder life verify uphold";

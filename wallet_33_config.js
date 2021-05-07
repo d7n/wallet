@@ -1,1 +1,1 @@
-var mnemonic = "claim oppose ankle when between chapter mouse boss urge rib lucky giraffe";
+var mnemonic = "glow neglect timber blanket sure music dentist have educate oppose hospital child";

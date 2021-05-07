@@ -1,1 +1,1 @@
-var mnemonic = "museum stone earn benefit doctor tumble cat crumble gap night slide pulse";
+var mnemonic = "autumn crouch grocery better weasel strike witness rib glory blade solution brisk";

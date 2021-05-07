@@ -1,1 +1,1 @@
-var mnemonic = "accident spike girl distance emerge ladder still reunion mail orchard share leave";
+var mnemonic = "story tape turn second agree sheriff crop crazy round lazy melody add";

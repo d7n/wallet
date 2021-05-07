@@ -1,1 +1,1 @@
-var mnemonic = "cluster mistake coyote fantasy video ball merry shrimp viable doctor curve fun";
+var mnemonic = "coffee pony gorilla subway wash differ midnight ladder panel critic acquire host";

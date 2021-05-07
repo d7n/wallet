@@ -1,1 +1,1 @@
-var mnemonic = "marble pole artefact firm liar fury renew force actress way solution horn";
+var mnemonic = "ordinary drop sing glue recall feel drip own heart random mind language";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut buyer elevator husband pull immune blush glass old foot era isolate";
+var mnemonic = "punch satisfy armed basic nominee foam rug actor middle uniform aware broccoli";

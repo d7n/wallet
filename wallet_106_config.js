@@ -1,1 +1,1 @@
-var mnemonic = "arrest hour relief always foam seed panther pretty predict craft lawsuit angle";
+var mnemonic = "sketch excite audit flip smoke ocean pony size fall virtual merge hill";

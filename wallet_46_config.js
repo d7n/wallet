@@ -1,1 +1,1 @@
-var mnemonic = "siege asthma ankle dash tone castle various garage sword exercise ivory fiction";
+var mnemonic = "decline waste drastic arrow face release icon deputy cake hair spirit width";

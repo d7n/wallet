@@ -1,1 +1,1 @@
-var mnemonic = "fortune satisfy forum fee once mail level broccoli weather unusual hint scrap";
+var mnemonic = "first badge couch anxiety pear nuclear priority easily hole auction oppose wet";

@@ -1,1 +1,1 @@
-var mnemonic = "wolf crumble domain walnut taste final judge author exile private follow eagle";
+var mnemonic = "casino twist broom rescue jelly tuition flip same hospital month excite obscure";

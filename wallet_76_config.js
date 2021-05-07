@@ -1,1 +1,1 @@
-var mnemonic = "surge trust unveil nation lyrics family flee live property ripple young quarter";
+var mnemonic = "urge leg office scissors logic spread home imitate jacket fresh play shed";

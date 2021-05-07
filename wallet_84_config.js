@@ -1,1 +1,1 @@
-var mnemonic = "round draft nasty south crunch tribe aim toy glove rhythm illegal buzz";
+var mnemonic = "loop dignity carbon truly satisfy usage stable gorilla yard hill agree caution";

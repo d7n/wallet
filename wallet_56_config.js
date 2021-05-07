@@ -1,1 +1,1 @@
-var mnemonic = "speak torch small favorite cycle rich sail tourist wall slab response affair";
+var mnemonic = "blind wave latin puppy pill lock kitten broom silly inch caution accuse";

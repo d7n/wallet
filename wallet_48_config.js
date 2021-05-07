@@ -1,1 +1,1 @@
-var mnemonic = "arch hazard girl cost share slam globe above brisk media midnight salute";
+var mnemonic = "expose yellow method confirm autumn attack pottery betray crunch dinner feature jazz";

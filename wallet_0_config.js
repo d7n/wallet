@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit strategy multiply favorite gentle neutral maple motor level secret cute forward";
+var mnemonic = "shallow unique require library range shell drift good knee prevent zero ill";

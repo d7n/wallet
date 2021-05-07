@@ -1,1 +1,1 @@
-var mnemonic = "scissors patient flower medal copper curtain earth farm salmon minimum common shine";
+var mnemonic = "daughter walk maze bag hand ocean hundred salmon black cool dinner canyon";

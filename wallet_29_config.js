@@ -1,1 +1,1 @@
-var mnemonic = "scout just stadium ski fresh flavor risk govern coral captain flash poverty";
+var mnemonic = "female clever girl concert quit garage decline myself now present reveal grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "region dumb truth sketch multiply live health length umbrella above jewel blur";
+var mnemonic = "bag frost old runway sure bus mouse pipe suffer tell wish case";

@@ -1,1 +1,1 @@
-var mnemonic = "divorce awake spray message say make double flat peasant midnight tide range";
+var mnemonic = "fiber what blast actor myself network tape volcano sand announce install wrong";

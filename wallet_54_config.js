@@ -1,1 +1,1 @@
-var mnemonic = "quarter ketchup clutch post mistake fashion annual salad proof mystery legal leave";
+var mnemonic = "situate wear evoke vocal twist man blood already goddess tortoise exhaust afraid";

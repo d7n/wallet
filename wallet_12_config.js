@@ -1,1 +1,1 @@
-var mnemonic = "maximum stumble shoot brown modify ozone vital sunset remain busy dance song";
+var mnemonic = "lunar extend receive raven business blur drastic notable child add crack scorpion";

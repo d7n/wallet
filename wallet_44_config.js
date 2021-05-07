@@ -1,1 +1,1 @@
-var mnemonic = "drip table piano inspire blade frozen season join ridge approve neutral fan";
+var mnemonic = "joy invest utility entire shallow immune burst coffee velvet grunt voice before";

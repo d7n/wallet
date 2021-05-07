@@ -1,1 +1,1 @@
-var mnemonic = "bachelor trust before tower pool ugly time topic verb rain novel spatial";
+var mnemonic = "focus loud wreck magic promote lonely motion quote clip seven hamster motion";

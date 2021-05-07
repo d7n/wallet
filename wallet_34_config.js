@@ -1,1 +1,1 @@
-var mnemonic = "chunk ramp immense copy fat possible belt exclude promote act rough extra";
+var mnemonic = "frost butter evoke sting roast culture flame scorpion object crop expect poet";

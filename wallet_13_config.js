@@ -1,1 +1,1 @@
-var mnemonic = "unaware have film feed zero cotton such knock funny battle use silver";
+var mnemonic = "bright near orchard eagle silent citizen nothing better fix despair robot dizzy";

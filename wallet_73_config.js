@@ -1,1 +1,1 @@
-var mnemonic = "cousin enjoy play cute game enhance wood zero battle tourist unlock raven";
+var mnemonic = "educate initial amount involve infant foil siege vague length arrow lizard modify";

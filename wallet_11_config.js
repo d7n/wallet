@@ -1,1 +1,1 @@
-var mnemonic = "public orange ladder random pencil keen fun actress original ladder mammal hybrid";
+var mnemonic = "bonus memory dumb tumble warm clarify stone hope quality inside confirm fault";

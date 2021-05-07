@@ -1,1 +1,1 @@
-var mnemonic = "denial hamster impose toilet just search idle cube steel fat consider disagree";
+var mnemonic = "tattoo giraffe blame misery force essence tenant tennis adapt shove parade fragile";

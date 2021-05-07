@@ -1,1 +1,1 @@
-var mnemonic = "few road elephant tennis ensure evidence resist hospital slam wolf poem tower";
+var mnemonic = "pluck grief sea bridge share input consider term knee you jazz awkward";
