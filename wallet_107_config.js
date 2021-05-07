@@ -1,1 +1,1 @@
-var mnemonic = "refuse citizen season stay rich stock blast crouch basket weekend hold picnic";
+var mnemonic = "fiction high hospital dash brand because ready admit town teach drink chief";

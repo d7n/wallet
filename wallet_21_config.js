@@ -1,1 +1,1 @@
-var mnemonic = "boat spice february possible wide gift enough more fiscal screen tail equip";
+var mnemonic = "index tip prefer dash require dismiss wage urge token replace chalk ivory";

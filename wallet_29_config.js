@@ -1,1 +1,1 @@
-var mnemonic = "long once capital fade increase aim adapt common faith release cake loyal";
+var mnemonic = "soap poet arena spider canvas select enable jewel limb arm leaf summer";

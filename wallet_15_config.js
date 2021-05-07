@@ -1,1 +1,1 @@
-var mnemonic = "dash sight suit cupboard scale meat rich matter broccoli latin program hip";
+var mnemonic = "crop fuel hotel prefer interest test food retire monster naive grit clean";

@@ -1,1 +1,1 @@
-var mnemonic = "network elder domain water tooth demand smart artefact add erupt omit certain";
+var mnemonic = "venue virus rescue where imitate noodle army peace tray stuff suit drift";

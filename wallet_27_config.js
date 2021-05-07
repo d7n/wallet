@@ -1,1 +1,1 @@
-var mnemonic = "lend drastic above broken quantum rigid quiz exhibit dinner script recall record";
+var mnemonic = "state region nice symptom kind echo gorilla rescue vivid floor expect antique";

@@ -1,1 +1,1 @@
-var mnemonic = "invest service design what mandate punch welcome sand daughter sight suit tooth";
+var mnemonic = "hollow grow diary control theory lava wealth dynamic teach biology want vibrant";

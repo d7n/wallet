@@ -1,1 +1,1 @@
-var mnemonic = "room reform concert pill also web plunge just hazard tomorrow utility subject";
+var mnemonic = "tuition pull slogan ankle essay advice pattern radio clever kidney pass affair";

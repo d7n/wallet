@@ -1,1 +1,1 @@
-var mnemonic = "remain orchard half clump fame bleak blade trigger cheese guitar one gravity";
+var mnemonic = "door table estate coyote seven hood citizen cereal scan unique seven mean";

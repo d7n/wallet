@@ -1,1 +1,1 @@
-var mnemonic = "wire popular usage resemble goat polar captain stage ivory industry afraid acid";
+var mnemonic = "apple season spot anger cram remind bounce cream verify fiber ritual dune";

@@ -1,1 +1,1 @@
-var mnemonic = "track despair final laptop target thing slam journey traffic company cabbage speed";
+var mnemonic = "month goddess sad pulse claw nasty uniform risk indicate tomato mother about";

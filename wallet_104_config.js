@@ -1,1 +1,1 @@
-var mnemonic = "rather worry expire gloom visa ready slab mother surface exotic help juice";
+var mnemonic = "afraid culture kid knife toss lift soup weekend impose cabbage bid brave";

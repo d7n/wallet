@@ -1,1 +1,1 @@
-var mnemonic = "sketch useless heart option element like derive butter scissors negative glare hill";
+var mnemonic = "birth advance viable hurdle snack token obtain juice secret joy baby demise";

@@ -1,1 +1,1 @@
-var mnemonic = "firm smooth mistake spring vehicle monitor arena february ensure duty arrest cube";
+var mnemonic = "panda educate mouse pipe illness achieve feel pupil jeans famous mix august";

@@ -1,1 +1,1 @@
-var mnemonic = "board gallery educate net build earn steel medal isolate tomorrow little concert";
+var mnemonic = "garment profit unit series trumpet into dentist strike skirt assault throw current";

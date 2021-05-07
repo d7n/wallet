@@ -1,1 +1,1 @@
-var mnemonic = "unfair machine master faith include bar net want mask dinner camp car";
+var mnemonic = "cereal curtain unfair disorder fly hello oil coffee miss endless vanish grab";

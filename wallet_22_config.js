@@ -1,1 +1,1 @@
-var mnemonic = "attend gauge document ahead differ stereo someone venue hobby any smile satisfy";
+var mnemonic = "venture visual visual trigger swim father sadness such happy gasp kitchen floor";

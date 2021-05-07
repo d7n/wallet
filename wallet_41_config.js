@@ -1,1 +1,1 @@
-var mnemonic = "toast square neither educate laundry beyond inmate theory goat system anchor feature";
+var mnemonic = "library advance car magic diet fan dizzy scrap desert salute cage frame";

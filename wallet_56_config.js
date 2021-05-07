@@ -1,1 +1,1 @@
-var mnemonic = "motion shop used ramp airport pole curtain prize error debate novel general";
+var mnemonic = "indicate toddler shield example brain width genius earn lemon assault churn palm";

@@ -1,1 +1,1 @@
-var mnemonic = "total sing burst settle load bulk iron soul bread obtain leader divorce";
+var mnemonic = "matrix dutch scorpion grant woman wave heavy fruit mind huge all yellow";

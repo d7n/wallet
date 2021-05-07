@@ -1,1 +1,1 @@
-var mnemonic = "unhappy mutual license chuckle left behave law renew sad kind media basic";
+var mnemonic = "grocery actress vote pretty cake myth denial nut hungry trip army boy";

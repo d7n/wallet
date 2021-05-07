@@ -1,1 +1,1 @@
-var mnemonic = "term step teach boy key left crush notable stand citizen giraffe laptop";
+var mnemonic = "pause false suggest remember pattern lawsuit glide boss expire small width easy";

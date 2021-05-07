@@ -1,1 +1,1 @@
-var mnemonic = "come carbon hero scan unfair agree empty slogan deliver olive rely inch";
+var mnemonic = "young unaware unable ten obtain skin fat above pyramid patient neck hen";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic turtle gather two maid poet gaze host company plunge drip tortoise";
+var mnemonic = "faith duty notable clutch fan peanut glow pact squeeze hood indicate curve";

@@ -1,1 +1,1 @@
-var mnemonic = "segment silent miracle adjust prevent galaxy outdoor stable expand service squeeze clever";
+var mnemonic = "catalog actor have bullet joke over transfer salmon kite abstract park spend";

@@ -1,1 +1,1 @@
-var mnemonic = "purse civil ball visual turkey slice skill pupil view occur marble enroll";
+var mnemonic = "nice clap material property umbrella thrive broom alien banner razor echo uniform";

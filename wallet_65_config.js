@@ -1,1 +1,1 @@
-var mnemonic = "use shadow shallow layer car eager kiss speed mechanic fold ticket vacant";
+var mnemonic = "over zebra enact marine million guilt cause awake apart rebuild pioneer radar";

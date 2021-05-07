@@ -1,1 +1,1 @@
-var mnemonic = "broom route betray fantasy risk sail sail supreme fish myself ship earth";
+var mnemonic = "govern submit ramp junk surprise tube stove build magnet stomach female correct";

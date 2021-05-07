@@ -1,1 +1,1 @@
-var mnemonic = "loud rather repair what ramp biology found apart clutch twenty junior cushion";
+var mnemonic = "ill final minute tuition control lawn point home decrease loud measure solution";

@@ -1,1 +1,1 @@
-var mnemonic = "practice knife awkward kitchen crumble prepare ivory forget citizen essence acoustic shift";
+var mnemonic = "live sword assault around primary gap shiver ivory deposit calm exclude wage";

@@ -1,1 +1,1 @@
-var mnemonic = "fabric give onion refuse clarify motion advice hurdle hazard bright donate mandate";
+var mnemonic = "canal record smile tiny bar hundred sphere genre monkey earn weekend income";

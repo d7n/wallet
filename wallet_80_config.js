@@ -1,1 +1,1 @@
-var mnemonic = "diary addict duck capital wear energy panel artwork squirrel hill rough evoke";
+var mnemonic = "infant tuna garlic level east there frame empty era goat pen nut";

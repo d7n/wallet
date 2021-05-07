@@ -1,1 +1,1 @@
-var mnemonic = "cook core much mail gravity angry sand barrel category gorilla season tongue";
+var mnemonic = "about radar bar achieve fault civil forget weird mom cement type wisdom";

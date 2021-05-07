@@ -1,1 +1,1 @@
-var mnemonic = "fame dumb teach allow usual sick witness yard adult slim slight suffer";
+var mnemonic = "plunge umbrella combine fiscal radar detect whisper mercy anxiety myth spin expire";

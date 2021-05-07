@@ -1,1 +1,1 @@
-var mnemonic = "journey festival umbrella warfare field actual praise path anger virtual input gas";
+var mnemonic = "supply nurse mesh latin wealth label diesel minor undo hold acid panda";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic congress dial again spell alcohol hurdle chef fancy try extra vessel";
+var mnemonic = "property deal total reward access pole cost trial another cliff long system";

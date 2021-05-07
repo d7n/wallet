@@ -1,1 +1,1 @@
-var mnemonic = "friend weekend magic bamboo worth run easily liquid brand skin trap weasel";
+var mnemonic = "either pony ecology normal true worth replace basic dinosaur boss firm slow";

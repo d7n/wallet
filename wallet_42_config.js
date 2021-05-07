@@ -1,1 +1,1 @@
-var mnemonic = "tone dog inquiry beef comic symptom put vanish another reunion color tent";
+var mnemonic = "limb glow receive attract mistake lounge wise say barely extend room budget";

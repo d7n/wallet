@@ -1,1 +1,1 @@
-var mnemonic = "feed strong license token piano eager runway apology sadness room age shallow";
+var mnemonic = "angry laptop rifle property say unit script zone dad amateur paddle caught";

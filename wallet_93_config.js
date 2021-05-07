@@ -1,1 +1,1 @@
-var mnemonic = "winter decorate grape radar warrior media solve come abuse ginger state parrot";
+var mnemonic = "grit cereal jeans cabin notable west simple nice truck sound snake metal";

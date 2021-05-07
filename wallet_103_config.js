@@ -1,1 +1,1 @@
-var mnemonic = "response neck army boil barely evolve toddler install twenty agent boss march";
+var mnemonic = "sentence wire define pioneer celery file amazing dune much satisfy chief ahead";

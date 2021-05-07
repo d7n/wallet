@@ -1,1 +1,1 @@
-var mnemonic = "dizzy evoke alone raven chef invite knee market flavor airport earth leg";
+var mnemonic = "fiction sugar wife myth hat dragon rough cube dial combine swift list";

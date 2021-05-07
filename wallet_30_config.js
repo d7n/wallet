@@ -1,1 +1,1 @@
-var mnemonic = "inform cram indicate voice jungle hotel hobby gadget tilt voyage whale vicious";
+var mnemonic = "gasp deny lecture museum execute fiction patch area warrior actor suggest around";

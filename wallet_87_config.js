@@ -1,1 +1,1 @@
-var mnemonic = "owner bus nut bag kingdom tackle industry bamboo glare poverty despair team";
+var mnemonic = "nurse pet kangaroo index absent major awkward check proud try sausage shy";

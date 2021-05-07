@@ -1,1 +1,1 @@
-var mnemonic = "protect wreck forest vapor this broken car cinnamon struggle pottery into mercy";
+var mnemonic = "honey novel kite own autumn busy asthma orange call monkey vicious know";

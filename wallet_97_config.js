@@ -1,1 +1,1 @@
-var mnemonic = "sausage grid repeat wealth quarter regret blame isolate remain brother exotic park";
+var mnemonic = "chest ring knock dose lava either setup profit curtain drill room enforce";

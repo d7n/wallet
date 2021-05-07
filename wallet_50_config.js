@@ -1,1 +1,1 @@
-var mnemonic = "great early oval sound october lobster useless potato upon pause rib ribbon";
+var mnemonic = "comic turkey flag door photo nation lazy mutual provide favorite brush boy";

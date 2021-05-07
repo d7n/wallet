@@ -1,1 +1,1 @@
-var mnemonic = "nose spot good pact pledge luggage false scorpion cable area empower quarter";
+var mnemonic = "segment buffalo certain oven attend swim inner trophy plug clerk fortune crouch";

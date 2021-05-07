@@ -1,1 +1,1 @@
-var mnemonic = "beyond beef fiscal wife arctic rather circle coyote patch replace virtual clean";
+var mnemonic = "close resource garbage industry song betray survey critic silly spell scale cactus";

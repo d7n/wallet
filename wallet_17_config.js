@@ -1,1 +1,1 @@
-var mnemonic = "viable horror surface outdoor pony project rather nasty business kidney warm monkey";
+var mnemonic = "depth proof cook piece cost craft tent illegal agree ceiling section reason";

@@ -1,1 +1,1 @@
-var mnemonic = "off struggle team century swamp rural strategy split taste claw laugh amazing";
+var mnemonic = "brass appear admit mouse harvest humble sorry merge acid basket universe surround";

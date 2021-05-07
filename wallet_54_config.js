@@ -1,1 +1,1 @@
-var mnemonic = "fury dolphin ring tray cool moment winter squirrel dress web decide power";
+var mnemonic = "surround kind pause cheap trust pool seek cabbage dwarf trend chronic wash";

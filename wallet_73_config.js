@@ -1,1 +1,1 @@
-var mnemonic = "nothing ketchup chief require palace march rib brave grow neither start gossip";
+var mnemonic = "enact exit vehicle weapon margin jelly cricket unfold resemble solve warfare trigger";

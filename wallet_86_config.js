@@ -1,1 +1,1 @@
-var mnemonic = "mass romance master useful tower involve about circle regret depth eager quantum";
+var mnemonic = "fee refuse media sample usual spice imitate amount betray art syrup book";

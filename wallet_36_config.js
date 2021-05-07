@@ -1,1 +1,1 @@
-var mnemonic = "verb stage census clump domain local eagle power bottom across depth fiber";
+var mnemonic = "around salute intact guess valid twice erase win mixed blast nurse scatter";

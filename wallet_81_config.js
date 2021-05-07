@@ -1,1 +1,1 @@
-var mnemonic = "lecture lemon have payment wild humor sea ripple sunset hire photo focus";
+var mnemonic = "foam liquid wage tiger chronic carbon indoor segment marble upper other jewel";

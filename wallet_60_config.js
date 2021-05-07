@@ -1,1 +1,1 @@
-var mnemonic = "fee choice word seven turtle enjoy crouch office tonight engine blush banner";
+var mnemonic = "balcony index security pear provide orange loud green ocean oppose spoon flight";

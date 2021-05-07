@@ -1,1 +1,1 @@
-var mnemonic = "enough salt inflict credit tissue illegal client mistake width glad vacant split";
+var mnemonic = "silk limb guitar parent exercise alley build dwarf soup correct because cart";

@@ -1,1 +1,1 @@
-var mnemonic = "wine pluck knee wreck jungle pitch oyster case panel radio small enact";
+var mnemonic = "evil verb canal beauty upset equip symptom goat together congress urge limb";

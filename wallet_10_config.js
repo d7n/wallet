@@ -1,1 +1,1 @@
-var mnemonic = "brand traffic second little avocado angle stove pear wool melt enact voice";
+var mnemonic = "craft jungle animal brush envelope want float normal oak swim leg equal";

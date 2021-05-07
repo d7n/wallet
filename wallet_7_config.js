@@ -1,1 +1,1 @@
-var mnemonic = "lobster bargain replace finger unit advice dish dwarf marble scatter lyrics august";
+var mnemonic = "swamp general color just cloth economy below check print hazard annual acquire";

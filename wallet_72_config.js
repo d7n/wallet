@@ -1,1 +1,1 @@
-var mnemonic = "egg prevent lucky unit budget improve tourist shoulder elder shed defense nephew";
+var mnemonic = "aspect release expose brand kid payment sadness stable hospital dry random empty";

@@ -1,1 +1,1 @@
-var mnemonic = "hen athlete slide bulb timber super disagree enact spoon panic mutual debate";
+var mnemonic = "pitch oxygen fire giraffe pencil thumb bitter load execute trophy screen word";

@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit wrong erosion slide resemble ozone kitten hammer eager insane dash acquire";
+var mnemonic = "limb tree party used scissors lounge analyst column rent glare scare cool";

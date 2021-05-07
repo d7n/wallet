@@ -1,1 +1,1 @@
-var mnemonic = "royal miss tell legend income benefit strike there diagram crop quantum rescue";
+var mnemonic = "purpose abstract heavy way example sustain skin cotton humble ahead milk crack";

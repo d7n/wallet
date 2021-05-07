@@ -1,1 +1,1 @@
-var mnemonic = "stick distance name canoe spring owner bunker action mutual perfect gravity animal";
+var mnemonic = "purity gun quick inherit worth cake scorpion pledge impose clay dentist near";

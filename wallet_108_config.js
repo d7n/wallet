@@ -1,1 +1,1 @@
-var mnemonic = "extra focus drink unit long market cup member bench account frequent diet";
+var mnemonic = "anchor enjoy evoke shoe sketch kid know face market devote that crane";

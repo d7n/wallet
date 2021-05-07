@@ -1,1 +1,1 @@
-var mnemonic = "wise winter length tide assist artist diet gown venue innocent hat hint";
+var mnemonic = "pelican maple lunch real subject connect best kick bless trophy adapt festival";

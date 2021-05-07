@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow novel forum gap advance unusual text burger art dog park couch";
+var mnemonic = "staff purpose upset bottom skull champion smart entry excite mammal tired base";

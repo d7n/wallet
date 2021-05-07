@@ -1,1 +1,1 @@
-var mnemonic = "paper horror valve decrease curious scare oil chicken bid magnet win shove";
+var mnemonic = "tube crunch yellow cable apart basic acoustic ripple quiz planet select involve";

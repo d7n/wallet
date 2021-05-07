@@ -1,1 +1,1 @@
-var mnemonic = "bacon source level food music feel fringe three soul parade stem fortune";
+var mnemonic = "dawn unlock balcony faint strike material force team trust viable author pig";

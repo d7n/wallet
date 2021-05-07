@@ -1,1 +1,1 @@
-var mnemonic = "zebra frost swim insect connect bus oven run fluid normal element okay";
+var mnemonic = "swift peanut present travel race chapter remind you approve lecture portion hole";

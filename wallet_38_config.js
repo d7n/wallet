@@ -1,1 +1,1 @@
-var mnemonic = "timber away mimic burden very virus bleak order portion envelope journey valley";
+var mnemonic = "account buzz comfort pupil mushroom trigger upset dish tomato over typical mask";

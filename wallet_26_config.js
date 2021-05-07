@@ -1,1 +1,1 @@
-var mnemonic = "common ocean armed print stomach tube trade foster panic outdoor sign execute";
+var mnemonic = "result famous extra garage party left topic antenna fatal require embrace angry";

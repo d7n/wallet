@@ -1,1 +1,1 @@
-var mnemonic = "adapt stone claim card toe gentle label rely achieve vintage endless race";
+var mnemonic = "lady media already chef iron million bullet cry drift pig punch divert";

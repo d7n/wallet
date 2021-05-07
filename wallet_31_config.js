@@ -1,1 +1,1 @@
-var mnemonic = "option lens raw virtual ignore cost topple web safe happy season evidence";
+var mnemonic = "describe burden marriage shallow destroy dance evoke trap arrow news crawl tooth";

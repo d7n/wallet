@@ -1,1 +1,1 @@
-var mnemonic = "bomb action question dose priority camp title pluck sword worry change tray";
+var mnemonic = "congress fashion rail tilt cupboard squirrel distance palace zoo iron odor clarify";

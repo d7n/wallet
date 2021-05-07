@@ -1,1 +1,1 @@
-var mnemonic = "oxygen review island other pluck panda dignity host electric garment exotic cruise";
+var mnemonic = "survey school shuffle combine car grain vault magnet since deer tissue giraffe";

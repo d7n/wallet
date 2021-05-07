@@ -1,1 +1,1 @@
-var mnemonic = "wisdom hold cousin craft album candy toy fit argue story awkward system";
+var mnemonic = "inform crunch kangaroo one cruel puzzle story ranch oppose mind slam swift";

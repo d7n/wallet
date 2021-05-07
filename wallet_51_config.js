@@ -1,1 +1,1 @@
-var mnemonic = "area tackle acoustic champion region genuine atom artwork search swarm pig steak";
+var mnemonic = "click act lend toddler grief scrub dad enforce weather fine raven tail";

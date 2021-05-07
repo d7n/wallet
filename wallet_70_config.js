@@ -1,1 +1,1 @@
-var mnemonic = "dinner remind prefer genuine carpet arrive post income bargain initial road verify";
+var mnemonic = "viable wing bottom excess inner carry cotton accident rookie spin portion unfold";

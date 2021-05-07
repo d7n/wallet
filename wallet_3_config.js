@@ -1,1 +1,1 @@
-var mnemonic = "stumble kid acid area badge bike another wait advance canal hope minute";
+var mnemonic = "infant cigar neck soda sport pull disorder camp behind bomb memory float";

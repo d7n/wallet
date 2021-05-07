@@ -1,1 +1,1 @@
-var mnemonic = "vivid sponsor impose glass learn idle minute wrist enroll strike dial lion";
+var mnemonic = "tilt horse avoid fitness total bus capable quote shoulder either give dignity";

@@ -1,1 +1,1 @@
-var mnemonic = "tree people apart veteran gain lazy enable armor quality boat fossil pact";
+var mnemonic = "suggest unit leg mystery bunker pistol screen inform invite raw marble club";

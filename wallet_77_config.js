@@ -1,1 +1,1 @@
-var mnemonic = "similar diet skull spot arrange black diagram tuition nose riot viable mimic";
+var mnemonic = "happy quick gain crunch episode remind oppose ability make wonder eternal kitten";

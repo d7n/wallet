@@ -1,1 +1,1 @@
-var mnemonic = "tube surge track found minor vanish medal depart catalog camera steel elegant";
+var mnemonic = "bar used spring cabbage hunt grid discover tiny spread fame kiwi crystal";

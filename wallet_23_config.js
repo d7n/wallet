@@ -1,1 +1,1 @@
-var mnemonic = "breeze tray loop range provide time width minimum hood toe hat protect";
+var mnemonic = "such dry boost prefer pilot divorce powder suggest sure income subway place";

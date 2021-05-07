@@ -1,1 +1,1 @@
-var mnemonic = "choice bacon miss evil coral lonely fiscal broccoli raise narrow pond tone";
+var mnemonic = "speak already away protect loyal fiber neither helmet wage gravity prepare photo";

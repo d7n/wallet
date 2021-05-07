@@ -1,1 +1,1 @@
-var mnemonic = "thrive park tomato develop chicken attack shaft gather grass scrub chicken visit";
+var mnemonic = "mandate citizen appear camera fiscal speak help orange mercy ice shoot distance";
