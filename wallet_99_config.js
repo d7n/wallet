@@ -1,1 +1,1 @@
-var mnemonic = "lemon pair relax comfort call dash jealous ethics depend tooth project photo";
+var mnemonic = "real rug feel marble chimney manual vanish scan later bronze hunt improve";

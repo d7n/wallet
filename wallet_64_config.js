@@ -1,1 +1,1 @@
-var mnemonic = "emerge mother achieve fame moment relief job tip jewel marriage refuse exact";
+var mnemonic = "gentle cloth body struggle develop broom animal climb quit depart that school";

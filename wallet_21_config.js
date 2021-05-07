@@ -1,1 +1,1 @@
-var mnemonic = "wreck repair author canvas edit grow immune entry surge verb recipe idea";
+var mnemonic = "lend weasel uniform draw cereal large trip panda demand crime taxi rose";

@@ -1,1 +1,1 @@
-var mnemonic = "rocket borrow trophy sleep shoulder hurt basic apology axis program defy frequent";
+var mnemonic = "flat cheap raw amazing source sell hill pen mass mushroom awesome bamboo";

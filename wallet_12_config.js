@@ -1,1 +1,1 @@
-var mnemonic = "awake rather capable wear achieve length exhibit circle fun promote spare blur";
+var mnemonic = "cereal oyster urge brand shuffle modify expand almost ceiling stay guess coast";

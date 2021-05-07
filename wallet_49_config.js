@@ -1,1 +1,1 @@
-var mnemonic = "judge elbow velvet unhappy strategy unlock soul wagon confirm online chaos blood";
+var mnemonic = "escape trim exhibit work magic attract cargo funny salon attract ostrich regular";

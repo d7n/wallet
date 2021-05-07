@@ -1,1 +1,1 @@
-var mnemonic = "cup dilemma actor fury aspect hood ball atom kid trim trouble quick";
+var mnemonic = "pottery belt solid rural thrive cup sketch relax lift seven scrap during";

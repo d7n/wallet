@@ -1,1 +1,1 @@
-var mnemonic = "need credit mixture record penalty mutual expose bike key direct minute unveil";
+var mnemonic = "snake steel private alert screen clay plastic skin stereo lobster promote rifle";

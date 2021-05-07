@@ -1,1 +1,1 @@
-var mnemonic = "false employ equip rally vivid unit peasant undo salute outdoor dumb tone";
+var mnemonic = "purchase popular wrestle bulk skill camera steak black upgrade length wear satoshi";

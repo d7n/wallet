@@ -1,1 +1,1 @@
-var mnemonic = "gorilla shock pilot copper rival barely winner awful smooth index stone you";
+var mnemonic = "diesel stock multiply lunar there sudden pear shine symbol sick ticket advice";

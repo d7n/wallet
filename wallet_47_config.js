@@ -1,1 +1,1 @@
-var mnemonic = "merry soldier desk equip coral casino reform guitar carry volume brain nasty";
+var mnemonic = "scrap move fun clown remind fashion flavor ivory popular ribbon horse virtual";

@@ -1,1 +1,1 @@
-var mnemonic = "unable stereo venture giraffe monitor useless express banana future avoid evolve visit";
+var mnemonic = "old evolve busy crew scrap essay fee warfare economy pony meat try";

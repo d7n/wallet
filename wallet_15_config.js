@@ -1,1 +1,1 @@
-var mnemonic = "rabbit educate surprise neither dinosaur invite shy gasp slush invest during cause";
+var mnemonic = "this hybrid this dog forget inner trip ozone clean pledge copper test";

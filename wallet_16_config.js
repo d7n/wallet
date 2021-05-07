@@ -1,1 +1,1 @@
-var mnemonic = "roast dad banner puppy much relief game double seminar improve three infant";
+var mnemonic = "enjoy garbage pink rude solid age pen jungle blouse grit crumble ten";

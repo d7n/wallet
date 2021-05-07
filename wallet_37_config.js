@@ -1,1 +1,1 @@
-var mnemonic = "other heavy trim edit chronic either right logic toe senior funny cry";
+var mnemonic = "coach undo jacket casual parrot badge picture thing matrix chalk pepper minute";

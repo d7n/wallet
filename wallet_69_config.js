@@ -1,1 +1,1 @@
-var mnemonic = "choose wrist entire balance frost tattoo tongue hope bargain turtle situate fabric";
+var mnemonic = "bless purse paddle always guide token when cage raccoon off manage accuse";

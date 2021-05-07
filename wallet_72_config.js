@@ -1,1 +1,1 @@
-var mnemonic = "shoot shed industry kiwi pizza life tube gym lava ribbon describe wait";
+var mnemonic = "else tongue inject brand clinic public forest dust tonight foster tower zebra";

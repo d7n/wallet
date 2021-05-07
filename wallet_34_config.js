@@ -1,1 +1,1 @@
-var mnemonic = "regret capital begin rubber upper column forward false win embark maple net";
+var mnemonic = "betray uniform train festival vintage puzzle client define utility ancient income sad";

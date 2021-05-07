@@ -1,1 +1,1 @@
-var mnemonic = "dust point stem raise build dry cushion panda clarify network right theme";
+var mnemonic = "similar exercise board stand crystal kangaroo fade amount drift sentence charge couple";

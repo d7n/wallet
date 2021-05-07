@@ -1,1 +1,1 @@
-var mnemonic = "remain warfare umbrella virus winter grace walnut collect embark occur ill shoulder";
+var mnemonic = "admit jeans satisfy social lend else rug disagree board upon narrow breeze";

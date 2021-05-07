@@ -1,1 +1,1 @@
-var mnemonic = "fly region provide quote decline label erupt nature junior hungry version perfect";
+var mnemonic = "million pioneer praise filter bus smooth skirt voice flavor retire coach chronic";

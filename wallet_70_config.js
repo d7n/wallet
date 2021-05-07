@@ -1,1 +1,1 @@
-var mnemonic = "bean noble sock oblige pupil prison margin young ghost conduct path surface";
+var mnemonic = "main talent area swift plug south early short cover weapon taxi front";

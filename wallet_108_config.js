@@ -1,1 +1,1 @@
-var mnemonic = "copy hurt rocket hurry shine alarm foil upgrade current glory because dash";
+var mnemonic = "accident family leaf acid grid multiply adjust arrow orient agree afford minor";

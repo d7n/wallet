@@ -1,1 +1,1 @@
-var mnemonic = "ability erupt chef ketchup marriage upon height icon beauty manage kingdom plug";
+var mnemonic = "trial lawsuit genius process ancient scare brain dilemma attract size blossom plastic";

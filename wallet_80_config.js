@@ -1,1 +1,1 @@
-var mnemonic = "abstract tiger dash upon truth nuclear when liberty transfer session black eyebrow";
+var mnemonic = "stand moment width grant rigid attract oven blade farm logic rabbit woman";

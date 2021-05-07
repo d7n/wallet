@@ -1,1 +1,1 @@
-var mnemonic = "rhythm unique satoshi key leopard harvest when idea cancel differ ability lawsuit";
+var mnemonic = "river extend problem early surprise know speak follow pass setup wing seed";

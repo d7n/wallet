@@ -1,1 +1,1 @@
-var mnemonic = "maximum travel genuine alone theory prepare midnight task pulp annual arm aerobic";
+var mnemonic = "business other zebra lesson gossip project smooth range february clown insect bright";

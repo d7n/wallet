@@ -1,1 +1,1 @@
-var mnemonic = "thunder august drip winter frame surround animal science absent truck movie story";
+var mnemonic = "foil setup gap guilt science doctor rescue fun essay view icon hazard";

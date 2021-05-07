@@ -1,1 +1,1 @@
-var mnemonic = "wire catch also taxi other polar youth village indoor rail buffalo desert";
+var mnemonic = "fashion indoor consider mango unveil slam fun fortune lottery cradle fatal shop";

@@ -1,1 +1,1 @@
-var mnemonic = "blush embark guilt range lake smile shoe moral glad north comfort fog";
+var mnemonic = "kingdom insect innocent fade vague obscure host avocado upon puppy ahead note";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort aim matter cricket try tip domain update couple cricket copper ladder";
+var mnemonic = "asthma favorite become orchard model history outdoor boring fabric slush dentist trust";

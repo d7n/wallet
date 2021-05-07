@@ -1,1 +1,1 @@
-var mnemonic = "mass ketchup salon used quiz van magnet uphold never among slide stage";
+var mnemonic = "sudden disagree pioneer legend wheel woman butter forget state stereo unusual winner";

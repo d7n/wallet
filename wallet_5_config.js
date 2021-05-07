@@ -1,1 +1,1 @@
-var mnemonic = "flag cupboard inmate hero ready talk shoulder attack blind cart duck merit";
+var mnemonic = "outside arch cage change nature thought earth weather mirror laundry seed stable";

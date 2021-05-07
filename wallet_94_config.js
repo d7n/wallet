@@ -1,1 +1,1 @@
-var mnemonic = "toward flee clerk flat scrap intact risk pony party gown area any";
+var mnemonic = "bitter okay steak aunt orchard proud claim impulse transfer timber sugar life";

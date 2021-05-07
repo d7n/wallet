@@ -1,1 +1,1 @@
-var mnemonic = "boss moral captain rib bubble spy soldier actress fat gain brass asthma";
+var mnemonic = "bright tissue exchange throw clog thank ankle wrestle cattle turtle afraid reduce";

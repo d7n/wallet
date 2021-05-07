@@ -1,1 +1,1 @@
-var mnemonic = "immense pink neutral sketch box narrow fresh around daughter rather damp permit";
+var mnemonic = "food consider proof simple castle feature slide science twist federal punch connect";

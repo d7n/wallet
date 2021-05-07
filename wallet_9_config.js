@@ -1,1 +1,1 @@
-var mnemonic = "lawn cross mix exit inflict magic drive circle cheap pig pink mammal";
+var mnemonic = "rice earn tide deputy left indoor trouble endless extend honey estate dad";

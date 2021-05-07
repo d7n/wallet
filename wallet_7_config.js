@@ -1,1 +1,1 @@
-var mnemonic = "toddler shallow vendor surprise mouse magnet lock upon pull cat season trim";
+var mnemonic = "disagree admit theme pattern hood blame maid jaguar hundred develop sun quick";

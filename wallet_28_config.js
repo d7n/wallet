@@ -1,1 +1,1 @@
-var mnemonic = "guide input until room expire phone try valley want pyramid myth draft";
+var mnemonic = "toddler lumber science thunder ticket lyrics point mix appear this isolate rather";

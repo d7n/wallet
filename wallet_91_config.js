@@ -1,1 +1,1 @@
-var mnemonic = "knock green thrive human debris power fly fog media six about tragic";
+var mnemonic = "position tag winter identify luggage kiwi random catch wrist index satisfy future";

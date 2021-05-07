@@ -1,1 +1,1 @@
-var mnemonic = "broccoli lady hollow kit asthma wool tuition ankle choose cargo bacon child";
+var mnemonic = "sun buyer grace envelope genuine whip logic betray step magic voyage diagram";

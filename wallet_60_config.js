@@ -1,1 +1,1 @@
-var mnemonic = "inner public soap major business drastic car wave capital also rule visit";
+var mnemonic = "tone message income donkey lawn emotion fog inform seek couple question engage";

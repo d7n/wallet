@@ -1,1 +1,1 @@
-var mnemonic = "number grid bullet still wait mango grant salad virtual supreme brick smoke";
+var mnemonic = "scrap vintage horror reunion maple atom tag vague capital junior glide loud";

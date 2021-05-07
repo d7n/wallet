@@ -1,1 +1,1 @@
-var mnemonic = "rug candy thing social cradle breeze tray coyote season answer brother quality";
+var mnemonic = "flash globe quote pave hat fee fix squeeze library sunny blame symbol";

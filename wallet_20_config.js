@@ -1,1 +1,1 @@
-var mnemonic = "mammal comic open useless era green pull same faculty acid erase duck";
+var mnemonic = "digital suggest setup notice fee plastic canvas soon interest brief code idea";

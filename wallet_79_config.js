@@ -1,1 +1,1 @@
-var mnemonic = "pass unveil staff release giggle tent denial student skin assist neutral adult";
+var mnemonic = "salmon frog achieve shine ritual one level mirror inch observe response canoe";

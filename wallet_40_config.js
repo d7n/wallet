@@ -1,1 +1,1 @@
-var mnemonic = "bonus square boss visit echo curious receive arrest screen service cinnamon soldier";
+var mnemonic = "shy banner dinner direct gain team attitude illness survey staff robot hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "fall any fortune intact brass thing insane actor traffic popular robust other";
+var mnemonic = "real vintage uncover raccoon occur sibling blast until portion local obey sword";

@@ -1,1 +1,1 @@
-var mnemonic = "deer general observe lottery hat increase leader hub secret script danger eagle";
+var mnemonic = "accident struggle return rubber strategy south near disease pride slush bleak truck";

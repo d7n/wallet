@@ -1,1 +1,1 @@
-var mnemonic = "talent found usual observe tobacco smooth use accident drive body special desk";
+var mnemonic = "wreck mass tomato nuclear nephew pretty sell fork box trust fossil paddle";

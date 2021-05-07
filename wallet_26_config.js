@@ -1,1 +1,1 @@
-var mnemonic = "tower frame shy lecture hill embark memory warm filter thumb pretty daring";
+var mnemonic = "exercise stuff media giant volume response mixture endorse tiger enforce diamond sea";

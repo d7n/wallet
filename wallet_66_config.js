@@ -1,1 +1,1 @@
-var mnemonic = "used fever quantum velvet slice deposit eager zoo pizza stereo assume toward";
+var mnemonic = "spin pony cupboard cook avoid unusual pass metal sunset regular candy crystal";

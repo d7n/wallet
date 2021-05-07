@@ -1,1 +1,1 @@
-var mnemonic = "furnace deliver hope midnight brave custom warrior tide ugly split excess coil";
+var mnemonic = "portion click tattoo fossil birth mandate staff cruel regret boring lift ladder";

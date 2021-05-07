@@ -1,1 +1,1 @@
-var mnemonic = "ride swim trust black naive artwork forum warm million illness horn abstract";
+var mnemonic = "treat enemy maple install pear pizza liar pool zebra public beauty rice";

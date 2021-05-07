@@ -1,1 +1,1 @@
-var mnemonic = "enroll type resemble fish rabbit slender drama labor coach earth crowd sick";
+var mnemonic = "steel cereal hurt excuse voyage blame dance robust section cargo quote trend";

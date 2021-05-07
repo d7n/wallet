@@ -1,1 +1,1 @@
-var mnemonic = "alpha leaf bottom render coast squirrel arena ribbon age lemon woman jeans";
+var mnemonic = "fat chaos bachelor obey magic social know nasty pumpkin claw pride fuel";

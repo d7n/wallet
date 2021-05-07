@@ -1,1 +1,1 @@
-var mnemonic = "major prepare silent object staff effort square pistol camera brick roast into";
+var mnemonic = "spoil view place add someone shrug peace cram mandate tool prize devote";

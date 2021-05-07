@@ -1,1 +1,1 @@
-var mnemonic = "act action doctor boss spy pilot benefit flat afford ivory finish world";
+var mnemonic = "lounge fine gasp sea jacket cancel purpose grant off success record nation";

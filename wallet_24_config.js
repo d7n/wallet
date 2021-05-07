@@ -1,1 +1,1 @@
-var mnemonic = "cake bring between pool fancy round quality real alert fix journey winter";
+var mnemonic = "degree pottery tray capable brave burst police angle slab sword exercise prepare";

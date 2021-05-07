@@ -1,1 +1,1 @@
-var mnemonic = "sure balcony ugly random seminar question case top car anchor barely rebuild";
+var mnemonic = "border pattern mutual poverty aware ethics portion initial claw treat load empower";

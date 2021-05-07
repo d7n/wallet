@@ -1,1 +1,1 @@
-var mnemonic = "whale syrup rapid imitate document energy talent west admit hurt federal boil";
+var mnemonic = "kidney tape area extra lunch among solar index double taxi black reward";

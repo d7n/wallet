@@ -1,1 +1,1 @@
-var mnemonic = "vacuum save purpose focus logic unfold leaf sword time flower input actual";
+var mnemonic = "spare service hurt sudden onion genius stable dream begin spell man meat";

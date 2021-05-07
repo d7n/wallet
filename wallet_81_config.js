@@ -1,1 +1,1 @@
-var mnemonic = "sick quality skate slush index chronic wood water spirit slice adapt recipe";
+var mnemonic = "setup fog decade favorite village town wolf claim second budget write region";

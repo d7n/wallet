@@ -1,1 +1,1 @@
-var mnemonic = "where pool rice upgrade jar devote boy theory sell have position age";
+var mnemonic = "iron ladder educate call ancient crisp medal digital rigid miracle grunt side";

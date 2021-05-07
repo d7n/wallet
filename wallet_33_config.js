@@ -1,1 +1,1 @@
-var mnemonic = "already cradle gas genius print cotton sauce unusual camp property tool theory";
+var mnemonic = "filter raccoon quiz blood able try include stay insect attract exercise column";

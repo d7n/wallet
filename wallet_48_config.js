@@ -1,1 +1,1 @@
-var mnemonic = "gold hockey fresh mountain smile first trick end special recipe dynamic clever";
+var mnemonic = "nose absent canyon chat zebra two inform ship stage second trial zone";

@@ -1,1 +1,1 @@
-var mnemonic = "security spice witness toy notice motor rule end bamboo pole harbor despair";
+var mnemonic = "between uphold puppy tenant pool domain uphold soldier educate galaxy secret venture";

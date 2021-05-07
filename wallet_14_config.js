@@ -1,1 +1,1 @@
-var mnemonic = "skate meat town curious walk say zone also album floor mad brother";
+var mnemonic = "type elevator will winner dice kangaroo total cheap piano frost pigeon motor";

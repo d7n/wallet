@@ -1,1 +1,1 @@
-var mnemonic = "about predict worth apology energy seed cat fossil topple judge novel main";
+var mnemonic = "few shop kiss shove kit rug document any deal youth broken refuse";

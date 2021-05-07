@@ -1,1 +1,1 @@
-var mnemonic = "give pledge usage window blur feature setup loop weekend echo fetch build";
+var mnemonic = "affair tail dismiss person emerge believe hotel water stool impulse system pulp";

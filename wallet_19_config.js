@@ -1,1 +1,1 @@
-var mnemonic = "grant salon digital smile poverty zoo little pattern marine police damp goat";
+var mnemonic = "friend cruise corn glow sustain bid until autumn legend climb flock jar";

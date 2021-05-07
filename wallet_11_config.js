@@ -1,1 +1,1 @@
-var mnemonic = "fee evolve crucial hat about village index poverty country harbor convince rebel";
+var mnemonic = "intact verify joy laptop feel unlock into quarter around dad pencil industry";

@@ -1,1 +1,1 @@
-var mnemonic = "solar fetch solid clean bean honey crumble employ lens tape suffer season";
+var mnemonic = "reject awkward north tomorrow female dress double merit core body bounce sugar";

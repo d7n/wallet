@@ -1,1 +1,1 @@
-var mnemonic = "camera coast title keep section debate win mouse office seven learn anxiety";
+var mnemonic = "march arrange breeze coconut tissue month clip genius enjoy party snake raccoon";

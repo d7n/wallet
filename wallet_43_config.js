@@ -1,1 +1,1 @@
-var mnemonic = "elite census tiny ostrich member moon body pumpkin slush crawl violin patient";
+var mnemonic = "tunnel entire imitate frame pond champion excuse saddle decrease grant anxiety oppose";

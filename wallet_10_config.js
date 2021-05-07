@@ -1,1 +1,1 @@
-var mnemonic = "teach situate logic offer champion sunny bottom deal warrior monkey hamster point";
+var mnemonic = "wish first edge plate frog magnet retreat caution shy spider engine vocal";

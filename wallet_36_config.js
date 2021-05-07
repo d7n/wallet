@@ -1,1 +1,1 @@
-var mnemonic = "debate secret eager squirrel sea text glow direct glory stadium keen swift";
+var mnemonic = "prosper ship wine nature feed quick file eyebrow drift tornado mandate assault";

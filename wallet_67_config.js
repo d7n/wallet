@@ -1,1 +1,1 @@
-var mnemonic = "logic kitten oil more rebuild choose vague reform guide ladder space please";
+var mnemonic = "cliff video spell swing teach elegant bike achieve area hour action usage";

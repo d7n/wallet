@@ -1,1 +1,1 @@
-var mnemonic = "leopard rubber tornado spoil napkin lecture empower lounge access tree fever cycle";
+var mnemonic = "gospel runway spot planet ability deputy final diary galaxy raccoon inner release";

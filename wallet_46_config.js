@@ -1,1 +1,1 @@
-var mnemonic = "notice hazard follow urge monkey shop escape obtain country spell about atom";
+var mnemonic = "noble leaf meadow drum hurt diagram pen oil fancy farm scan movie";

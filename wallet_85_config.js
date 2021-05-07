@@ -1,1 +1,1 @@
-var mnemonic = "lab success flight cool dumb traffic own pond alcohol claim badge general";
+var mnemonic = "moment able useless pyramid lake stage bachelor mask what empower bounce spoon";

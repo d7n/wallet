@@ -1,1 +1,1 @@
-var mnemonic = "veteran innocent response beef include thumb exclude museum animal eyebrow rhythm tiger";
+var mnemonic = "garage token install swap drift mountain warfare saddle apple style find able";

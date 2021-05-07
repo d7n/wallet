@@ -1,1 +1,1 @@
-var mnemonic = "lobster into range mouse market sphere clump shrimp fresh strategy glimpse awake";
+var mnemonic = "honey excess clog culture cover sorry cigar lobster advance document crunch loan";

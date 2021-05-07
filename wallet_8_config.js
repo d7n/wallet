@@ -1,1 +1,1 @@
-var mnemonic = "rice rough fence spawn case truck riot divert garlic enroll polar jungle";
+var mnemonic = "matrix field squirrel reward soup arm expect hold gap auction level bamboo";
