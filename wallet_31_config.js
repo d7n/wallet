@@ -1,1 +1,1 @@
-var mnemonic = "struggle rack pudding hotel royal crumble melody visa innocent inhale more display";
+var mnemonic = "tattoo chunk annual dinosaur toy hundred wrist lift ridge obey reveal six";

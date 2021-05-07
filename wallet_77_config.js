@@ -1,1 +1,1 @@
-var mnemonic = "you cousin prize promote brisk match wear render total relief resemble elegant";
+var mnemonic = "wash ring nest arrive course grass barrel harvest jump slide plunge disagree";

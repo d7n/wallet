@@ -1,1 +1,1 @@
-var mnemonic = "safe shallow twist whisper pizza build purchase seven option happy three parade";
+var mnemonic = "puzzle ozone ordinary jungle crew height torch marriage sign phone giraffe skate";

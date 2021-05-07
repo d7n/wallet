@@ -1,1 +1,1 @@
-var mnemonic = "fold puzzle child tomato expire little urban second true dove sister smile";
+var mnemonic = "around satisfy hammer earth spike zone cycle aware cactus true hurry grant";

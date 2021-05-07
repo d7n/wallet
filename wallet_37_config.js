@@ -1,1 +1,1 @@
-var mnemonic = "door outer rude runway senior coconut side calm nut fiction glass toy";
+var mnemonic = "crazy weasel kingdom feel stamp web refuse number wife asthma ivory witness";

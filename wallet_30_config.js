@@ -1,1 +1,1 @@
-var mnemonic = "swing differ marine marble choose father walnut drive large notable narrow scan";
+var mnemonic = "survey combine sing radar message bone youth tackle choice lonely pet jeans";

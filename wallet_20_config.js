@@ -1,1 +1,1 @@
-var mnemonic = "cage learn fatigue swift enough vintage silly bag viable pipe dash blanket";
+var mnemonic = "leg okay camp sound run forward cliff bacon coin soup bacon program";

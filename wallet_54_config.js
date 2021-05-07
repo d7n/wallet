@@ -1,1 +1,1 @@
-var mnemonic = "just arena maze chat tired toddler soon shove expire escape rain kidney";
+var mnemonic = "amateur middle name intact trap junk frequent smoke bean harbor feature survey";

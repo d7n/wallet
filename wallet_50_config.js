@@ -1,1 +1,1 @@
-var mnemonic = "balance grace spread barrel narrow mandate fuel kick satoshi tail casual pill";
+var mnemonic = "puppy spray enjoy jar interest embody key dirt insect exercise inquiry kind";

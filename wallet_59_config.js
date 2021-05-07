@@ -1,1 +1,1 @@
-var mnemonic = "sniff club degree twin govern image clog staff donate guard anxiety glance";
+var mnemonic = "build interest round milk strategy cram minor lounge error embody skull garden";

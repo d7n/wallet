@@ -1,1 +1,1 @@
-var mnemonic = "fruit crucial flip offer genuine win canvas urban funny program famous will";
+var mnemonic = "fiber practice attack marriage cheese banana hidden roast urban potato fee degree";

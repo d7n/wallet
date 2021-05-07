@@ -1,1 +1,1 @@
-var mnemonic = "neither forget shove park claw require music miracle animal cherry course join";
+var mnemonic = "rice illness tongue toy exit true setup dune lumber danger lazy bonus";

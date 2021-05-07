@@ -1,1 +1,1 @@
-var mnemonic = "rack oval valve dance forward hawk shrimp fiscal symptom battle liar cargo";
+var mnemonic = "reason brush enroll gown laugh token also pepper caution cube diesel uniform";

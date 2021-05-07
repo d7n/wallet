@@ -1,1 +1,1 @@
-var mnemonic = "dance project lesson stock stem what notice cheese cargo problem west beauty";
+var mnemonic = "sail wish across flight boost mistake glimpse lunar morning auto utility gentle";

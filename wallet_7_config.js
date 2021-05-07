@@ -1,1 +1,1 @@
-var mnemonic = "slice autumn nerve best blame seven above muffin senior forest two inhale";
+var mnemonic = "eternal elephant reward drastic shield monkey violin slow fold shine mango tattoo";

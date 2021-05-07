@@ -1,1 +1,1 @@
-var mnemonic = "harvest latin defense disease cool elder burger average modify wheel ramp slogan";
+var mnemonic = "despair prison elite peanut few zero chest grief police cricket napkin task";

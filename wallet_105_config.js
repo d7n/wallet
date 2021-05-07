@@ -1,1 +1,1 @@
-var mnemonic = "someone flight bicycle pill drastic game another vessel penalty explain dutch bone";
+var mnemonic = "north arrive bone unlock feed pumpkin charge daughter consider innocent office public";

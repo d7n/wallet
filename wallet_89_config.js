@@ -1,1 +1,1 @@
-var mnemonic = "october east dilemma ice either acid range doll pill people raven couple";
+var mnemonic = "bread return strong quote swallow hub enable film peasant liar estate desert";

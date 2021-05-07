@@ -1,1 +1,1 @@
-var mnemonic = "rent advance master enhance hello tray example turtle crew also toy spin";
+var mnemonic = "napkin acid thank chair smart remember amused cause trash invite theme task";

@@ -1,1 +1,1 @@
-var mnemonic = "peace fun disease device cook early until post scheme degree dismiss obvious";
+var mnemonic = "much reform window isolate sunny action approve addict earn dumb tube love";

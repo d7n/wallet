@@ -1,1 +1,1 @@
-var mnemonic = "hope viable balance leave inform waste cancel despair brown treat crazy artwork";
+var mnemonic = "horse slow wise visa meat volcano gaze table champion material vendor domain";

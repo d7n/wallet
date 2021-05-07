@@ -1,1 +1,1 @@
-var mnemonic = "inflict modify present enlist ordinary neutral sting find flavor hurdle valid dutch";
+var mnemonic = "planet mixture merry seminar below legal fossil demise fortune shoe strike situate";

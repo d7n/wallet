@@ -1,1 +1,1 @@
-var mnemonic = "early badge face boy stamp click peasant chest close top borrow together";
+var mnemonic = "crater design joy later false provide tragic slight nest innocent hungry harvest";

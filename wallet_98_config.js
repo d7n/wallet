@@ -1,1 +1,1 @@
-var mnemonic = "fade spell coast fade own oak sibling when receive small habit heavy";
+var mnemonic = "jealous cage meadow wagon famous iron expect call manual cream bounce tool";

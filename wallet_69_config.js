@@ -1,1 +1,1 @@
-var mnemonic = "cute all kite bar picture business globe mixture copper school yellow elegant";
+var mnemonic = "vicious amazing canvas orbit word once antique conduct dune siren brush lonely";

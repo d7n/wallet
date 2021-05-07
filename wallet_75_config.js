@@ -1,1 +1,1 @@
-var mnemonic = "display glass side risk baby health dolphin subway chunk hybrid surface ostrich";
+var mnemonic = "pond accuse average party debris divert vanish rice rescue delay glove relax";

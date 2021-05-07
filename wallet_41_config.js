@@ -1,1 +1,1 @@
-var mnemonic = "unaware scare empower leave style toast goat sort lake era property clutch";
+var mnemonic = "fury review gather spoon flee install ten develop swarm dolphin display sunny";

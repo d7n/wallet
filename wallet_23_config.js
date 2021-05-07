@@ -1,1 +1,1 @@
-var mnemonic = "blossom stuff quality about lend moon act cash obtain learn phrase wall";
+var mnemonic = "best purchase swear boil lunch whisper above december bubble detail bamboo stairs";

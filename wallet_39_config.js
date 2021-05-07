@@ -1,1 +1,1 @@
-var mnemonic = "jump juice shove mushroom process talk escape obvious phone dose victory ladder";
+var mnemonic = "observe curtain flash diary subway combine weird camp now laugh carbon orbit";

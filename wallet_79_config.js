@@ -1,1 +1,1 @@
-var mnemonic = "kitchen spawn script catch casual deal now cabin good panic joke title";
+var mnemonic = "clock borrow keen boil must frequent before blood suspect forum enemy frame";

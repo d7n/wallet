@@ -1,1 +1,1 @@
-var mnemonic = "satoshi tower shy obvious find ice final upper hobby arrive hip fog";
+var mnemonic = "history scatter young tide cycle sight clarify unlock camera wire kit digital";

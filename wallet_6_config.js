@@ -1,1 +1,1 @@
-var mnemonic = "spy business engage increase general century kid electric aim leader stumble grace";
+var mnemonic = "girl tomato wedding retire actor lock wild motion stereo start spider property";

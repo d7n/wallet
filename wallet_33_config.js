@@ -1,1 +1,1 @@
-var mnemonic = "under image donate arrest antenna month image gossip wrist box dust keen";
+var mnemonic = "chief inch rocket time mule cargo delay cabin ticket box hybrid wear";

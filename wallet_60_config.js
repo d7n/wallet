@@ -1,1 +1,1 @@
-var mnemonic = "circle soon van fiber dose jar logic broom room kangaroo winter adapt";
+var mnemonic = "rocket artist reform afraid bring idle buzz flat wedding cake eagle sweet";

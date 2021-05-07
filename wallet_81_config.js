@@ -1,1 +1,1 @@
-var mnemonic = "order sunset snow razor illness shrug work globe debris switch junk stem";
+var mnemonic = "bronze captain enemy dress pistol ask bridge ring fall wool pelican sort";

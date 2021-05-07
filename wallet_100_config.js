@@ -1,1 +1,1 @@
-var mnemonic = "degree velvet sponsor sword defy round direct shock tiger define lumber clump";
+var mnemonic = "cherry accident debate initial life adult taste expand book beef one reward";

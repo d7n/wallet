@@ -1,1 +1,1 @@
-var mnemonic = "cotton impulse dragon glass tackle cliff blame raw expand absurd atom spare";
+var mnemonic = "coil remind universe harvest insane bottom absurd train despair trend witness absent";

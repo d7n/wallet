@@ -1,1 +1,1 @@
-var mnemonic = "notice shrimp glove invite arch jazz bacon baby travel orient uphold provide";
+var mnemonic = "urge scheme maid donor before salmon decide brand toe matter assume abandon";

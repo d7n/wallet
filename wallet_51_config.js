@@ -1,1 +1,1 @@
-var mnemonic = "circle chair mammal senior endless domain diesel season predict lunch amateur text";
+var mnemonic = "ginger voyage mistake slow buffalo midnight cloud view rate mimic stock fire";

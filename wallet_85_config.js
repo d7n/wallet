@@ -1,1 +1,1 @@
-var mnemonic = "cliff civil already promote vessel pumpkin isolate access into prison panda young";
+var mnemonic = "trade dwarf clean source seat behind shaft chair plate valve attack peasant";

@@ -1,1 +1,1 @@
-var mnemonic = "skin river thought catalog garment young cabbage ridge lady action bargain thrive";
+var mnemonic = "exhibit one impact search wisdom neglect bargain pretty cabin voyage athlete share";

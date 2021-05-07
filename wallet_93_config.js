@@ -1,1 +1,1 @@
-var mnemonic = "daughter mirror impact life main maid public unlock cry rare razor term";
+var mnemonic = "fortune joke head horn dismiss manage hen keen acquire where tribe bargain";

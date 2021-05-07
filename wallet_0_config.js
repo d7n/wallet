@@ -1,1 +1,1 @@
-var mnemonic = "cheap foil rotate border measure future baby phrase artist reveal conduct hurry";
+var mnemonic = "panther erode hood immense tape gloom impulse armed pass glory dog theory";

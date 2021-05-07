@@ -1,1 +1,1 @@
-var mnemonic = "boring scatter chuckle sport welcome decade ticket october strategy anger coffee expire";
+var mnemonic = "cable kidney improve siege tell accident guitar caution finger material organ can";

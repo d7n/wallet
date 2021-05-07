@@ -1,1 +1,1 @@
-var mnemonic = "fortune behave payment carbon pole update skate dish happy notice glory glimpse";
+var mnemonic = "recipe symbol camp setup olive cause cream opinion season vague original debate";

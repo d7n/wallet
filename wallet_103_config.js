@@ -1,1 +1,1 @@
-var mnemonic = "bomb require jeans silly ahead useless floor dentist pride shield fix calm";
+var mnemonic = "exchange grass tail chaos position mass obvious imitate much arrest reason trial";

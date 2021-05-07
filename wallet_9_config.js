@@ -1,1 +1,1 @@
-var mnemonic = "total replace magic trick mask crane exist park envelope charge length utility";
+var mnemonic = "industry awake swallow sword gesture recall wool camera raven vehicle rubber hundred";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon setup move useful prefer october aware involve benefit stove under height";
+var mnemonic = "maple identify cabbage coyote chef coach daring spirit old arrest sun ethics";

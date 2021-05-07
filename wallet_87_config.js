@@ -1,1 +1,1 @@
-var mnemonic = "ethics aspect stick music coral crash what easy artwork atom shallow gas";
+var mnemonic = "talk rack creek obtain recycle open series start month combine transfer exact";

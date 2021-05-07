@@ -1,1 +1,1 @@
-var mnemonic = "frown olive spice angry shy base glue joy nephew truly jealous skate";
+var mnemonic = "deny wrong try flash balcony few inspire olympic oxygen luxury draw upon";

@@ -1,1 +1,1 @@
-var mnemonic = "rate report entire also install common oxygen appear enlist modify laundry invest";
+var mnemonic = "this crew mixture shy wife pear stumble buyer possible mom sport ensure";

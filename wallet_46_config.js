@@ -1,1 +1,1 @@
-var mnemonic = "deposit maze child harbor round olympic puzzle ancient amazing learn inner shove";
+var mnemonic = "banana vendor wrong polar keep hawk assault rail mercy poet dust peace";

@@ -1,1 +1,1 @@
-var mnemonic = "civil august lend famous spawn word ritual blade aerobic health barrel basic";
+var mnemonic = "crew kiss tilt debate cook situate message motor crash prevent ill quantum";

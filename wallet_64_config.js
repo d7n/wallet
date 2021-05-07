@@ -1,1 +1,1 @@
-var mnemonic = "forward candy gentle chuckle luggage bubble aisle average stool attract moon offer";
+var mnemonic = "arrest image shove fresh coin elevator giggle annual erode whale aerobic whip";

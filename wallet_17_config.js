@@ -1,1 +1,1 @@
-var mnemonic = "disagree caught inject cable able health please flush gallery culture soap rescue";
+var mnemonic = "midnight vibrant foam page response emerge fuel candy left woman hill milk";

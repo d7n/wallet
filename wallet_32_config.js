@@ -1,1 +1,1 @@
-var mnemonic = "fashion monster expand stem decorate oblige lake gym sword sketch claim endless";
+var mnemonic = "immune spoil south dish sad language proud trim unhappy soccer drama gold";

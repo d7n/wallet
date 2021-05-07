@@ -1,1 +1,1 @@
-var mnemonic = "powder absent mesh path symptom limb slush trigger hood spawn indicate fury";
+var mnemonic = "zero comfort owner notice multiply tell move pudding ramp arena patrol strike";

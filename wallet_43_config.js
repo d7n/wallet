@@ -1,1 +1,1 @@
-var mnemonic = "final water potato earth visual easily enlist more elevator three decorate lift";
+var mnemonic = "relief minor magic talk collect dismiss master bonus short guilt roast sense";

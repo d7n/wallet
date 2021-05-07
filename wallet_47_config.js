@@ -1,1 +1,1 @@
-var mnemonic = "side equip ecology pitch snow twenty raw diagram vanish cable visual seven";
+var mnemonic = "drink junk retreat bottom that bounce member envelope time near swallow cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "sure evolve give bridge weekend body crumble table leisure alcohol inform universe";
+var mnemonic = "vanish trouble observe cement pill belt merge goat account chunk bone rifle";

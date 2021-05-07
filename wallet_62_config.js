@@ -1,1 +1,1 @@
-var mnemonic = "basket virus voyage arch normal sponsor census surround reform immense meadow wealth";
+var mnemonic = "share frog strike project between brother click brick virtual iron disorder advice";

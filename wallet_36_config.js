@@ -1,1 +1,1 @@
-var mnemonic = "proof fatal magic fault drop festival update option kingdom forget caught tribe";
+var mnemonic = "few engine type visit submit cheese foam mesh feed small claim auto";

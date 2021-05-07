@@ -1,1 +1,1 @@
-var mnemonic = "roast half language pulse shallow frequent limb tuna pizza proud park target";
+var mnemonic = "entry give resemble behind prefer submit simple easy sponsor access decide love";

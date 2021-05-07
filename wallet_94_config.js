@@ -1,1 +1,1 @@
-var mnemonic = "amateur genre maze umbrella lunar immune veteran vibrant plastic acoustic head fault";
+var mnemonic = "odor skate delay reason review season dutch trophy win still visit shield";

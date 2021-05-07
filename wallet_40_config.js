@@ -1,1 +1,1 @@
-var mnemonic = "vacant hotel despair ensure subway apart panel ceiling include cargo bag kitten";
+var mnemonic = "little awful abuse near sell item best warrior flip cook version start";

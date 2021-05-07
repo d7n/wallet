@@ -1,1 +1,1 @@
-var mnemonic = "umbrella mesh match weekend father crystal husband morning group actor history humor";
+var mnemonic = "liberty trigger main uphold sugar mix divert evolve fence wheat acoustic tobacco";

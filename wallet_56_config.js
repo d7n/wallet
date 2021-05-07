@@ -1,1 +1,1 @@
-var mnemonic = "token potato ring fruit minute recycle suffer music matrix magnet belt soup";
+var mnemonic = "absorb present hood humble wink hire squeeze hungry acid thrive still bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "mirror witness tiger remove school tiny trip say have expire hotel whip";
+var mnemonic = "breeze mirror verify wedding diary say record hurdle cluster link want swing";

@@ -1,1 +1,1 @@
-var mnemonic = "wisdom develop beach regret rhythm country tornado physical gaze opera twist output";
+var mnemonic = "record february load exhaust provide jaguar diary physical bread link confirm interest";

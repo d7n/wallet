@@ -1,1 +1,1 @@
-var mnemonic = "festival utility mechanic fresh jungle wrap drill diesel path boy raccoon fiction";
+var mnemonic = "pelican door stock tooth prevent satisfy able erode impact element unlock idle";

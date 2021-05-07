@@ -1,1 +1,1 @@
-var mnemonic = "mixed amateur snake such crime smart file income labor oval mass royal";
+var mnemonic = "vicious twenty bleak dawn oxygen luxury hen forest record awkward club entire";

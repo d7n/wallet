@@ -1,1 +1,1 @@
-var mnemonic = "music escape prison mom select soon true slab mushroom return other jaguar";
+var mnemonic = "jewel mad explain there sock great great weekend water diet limit debate";

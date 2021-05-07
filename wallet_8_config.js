@@ -1,1 +1,1 @@
-var mnemonic = "online fragile report miracle canal element frequent beach funny chunk about van";
+var mnemonic = "cry rubber absurd galaxy anchor glance congress know paddle frog join summer";

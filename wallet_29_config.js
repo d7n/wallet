@@ -1,1 +1,1 @@
-var mnemonic = "neutral angry access science fog female shift genre jacket radar half body";
+var mnemonic = "input deer tape elder strike island mean system lunar fence glow cruel";

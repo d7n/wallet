@@ -1,1 +1,1 @@
-var mnemonic = "solution evolve multiply coffee wall tip eagle across reunion stumble giggle curtain";
+var mnemonic = "screen play label audit birth humble fine shy flavor thunder cactus recall";

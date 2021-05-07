@@ -1,1 +1,1 @@
-var mnemonic = "decline time chaos runway gospel sea slab carry century leave bomb client";
+var mnemonic = "then service sock sound reflect leg pill force capable inhale define matrix";

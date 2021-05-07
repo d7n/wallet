@@ -1,1 +1,1 @@
-var mnemonic = "credit security turtle country abandon market badge comfort keen ribbon hip bundle";
+var mnemonic = "dilemma avocado alarm sponsor excuse news melody denial brand hospital museum abstract";

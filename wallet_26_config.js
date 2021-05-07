@@ -1,1 +1,1 @@
-var mnemonic = "clog scare ask over arctic gold oxygen gospel recipe day salon method";
+var mnemonic = "inform middle ugly rate remember erode bundle stage dress credit mandate can";

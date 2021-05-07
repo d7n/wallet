@@ -1,1 +1,1 @@
-var mnemonic = "round palm source labor amazing wish tunnel north asset story seed toss";
+var mnemonic = "kidney attend ugly marine wise soft nature save zone corn cruel orange";

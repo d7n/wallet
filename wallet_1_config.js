@@ -1,1 +1,1 @@
-var mnemonic = "address innocent enjoy veteran method sponsor stamp situate crumble cruise round hero";
+var mnemonic = "pill slice jacket pride city duty plunge scene train flower account mango";

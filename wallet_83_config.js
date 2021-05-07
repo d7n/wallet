@@ -1,1 +1,1 @@
-var mnemonic = "ask giant diagram dinner world cheap sad double shrug cruise sauce old";
+var mnemonic = "grit future grunt meat humble isolate clinic bottom faint fade resist churn";

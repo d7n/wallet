@@ -1,1 +1,1 @@
-var mnemonic = "erupt friend vendor timber remember dizzy canal load practice priority ship excess";
+var mnemonic = "ill rocket able toilet rabbit jelly soda hip ski draft hope tattoo";

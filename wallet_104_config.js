@@ -1,1 +1,1 @@
-var mnemonic = "artist identify toddler unhappy silk toilet pupil memory tobacco online valve dragon";
+var mnemonic = "busy pear stem topic afford turn there liberty mention note whisper brown";

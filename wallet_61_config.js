@@ -1,1 +1,1 @@
-var mnemonic = "riot void clap happy hand glide wear caught nephew announce will install";
+var mnemonic = "dash evil blossom start zone appear knee grape school law message text";

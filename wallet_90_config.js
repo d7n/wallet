@@ -1,1 +1,1 @@
-var mnemonic = "beauty example surge power switch nominee craft clown birth cabbage search warrior";
+var mnemonic = "quick bright lecture uncover sister dust cradle message expire clean position curve";

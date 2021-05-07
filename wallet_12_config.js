@@ -1,1 +1,1 @@
-var mnemonic = "myself sugar clarify eternal one favorite wine creek bicycle holiday way client";
+var mnemonic = "clerk dizzy arctic peace town fatigue surge notable quiz orchard cricket black";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow huge real worth cable assume until father gossip client garden write";
+var mnemonic = "sting easily brass bacon average come aunt second current already zone clump";

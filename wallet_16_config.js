@@ -1,1 +1,1 @@
-var mnemonic = "cry fall push offer weasel mad sign cattle arrest tone road business";
+var mnemonic = "dutch immense excite ski pool coin medal try steak unit sun shrug";
