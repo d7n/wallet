@@ -1,1 +1,1 @@
-var mnemonic = "aisle inside excuse park arrange olympic when valid loud universe multiply absorb";
+var mnemonic = "pluck wage silver heavy giant axis left seven build resemble athlete vintage";

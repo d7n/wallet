@@ -1,1 +1,1 @@
-var mnemonic = "issue uphold secret entire mutual fine weekend vault trip hover seek shove";
+var mnemonic = "venue sauce already vessel measure erupt toss elbow plunge limit bomb furnace";

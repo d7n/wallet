@@ -1,1 +1,1 @@
-var mnemonic = "wedding rich steel moral boat include anchor range like beauty pull silly";
+var mnemonic = "flame prevent any educate number once fatigue autumn prepare expire cool way";

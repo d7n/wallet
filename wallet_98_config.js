@@ -1,1 +1,1 @@
-var mnemonic = "trick skin sight fabric harvest truly drip trumpet source student air return";
+var mnemonic = "tonight major cotton mercy solve math dish vacuum sugar olive lesson globe";

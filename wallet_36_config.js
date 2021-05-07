@@ -1,1 +1,1 @@
-var mnemonic = "coil day shoot butter unable nothing review silent illegal outdoor just tone";
+var mnemonic = "claim climb raw cover bacon credit teach often logic real claim federal";

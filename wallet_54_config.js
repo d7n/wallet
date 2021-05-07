@@ -1,1 +1,1 @@
-var mnemonic = "lyrics pottery rescue cause bachelor someone parade usage express direct gold brush";
+var mnemonic = "body build crouch suspect sibling genuine raccoon cream since worth agree innocent";

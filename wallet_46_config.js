@@ -1,1 +1,1 @@
-var mnemonic = "cannon mango salute arena era again inquiry net nest author adult smile";
+var mnemonic = "coin fence turkey pigeon win sunny people orphan explain interest curious acoustic";

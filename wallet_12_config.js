@@ -1,1 +1,1 @@
-var mnemonic = "basket super canoe tomato summer hamster knee behave theory favorite silent wood";
+var mnemonic = "crumble dish pledge entire rookie put apology fabric provide enhance alter spell";

@@ -1,1 +1,1 @@
-var mnemonic = "amount old depend easily fog situate laugh paper mask world wolf orchard";
+var mnemonic = "warrior giggle review script age skin help devote wash hen pulp engine";

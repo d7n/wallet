@@ -1,1 +1,1 @@
-var mnemonic = "admit seat fame school mosquito ball bright whip unusual hammer robot usage";
+var mnemonic = "energy bargain crime area coach erase panther catalog depend search demand shield";

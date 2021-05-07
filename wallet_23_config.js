@@ -1,1 +1,1 @@
-var mnemonic = "subject cake stadium danger planet wife title grocery family address purity sure";
+var mnemonic = "ostrich now wrist faint auto lab always toy juice reflect ancient economy";

@@ -1,1 +1,1 @@
-var mnemonic = "side drastic cinnamon sure list alley tomorrow total lend exit satisfy pen";
+var mnemonic = "knee kit blast fresh then grunt project snake poet immune coconut fold";

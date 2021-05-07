@@ -1,1 +1,1 @@
-var mnemonic = "half kingdom clutch gas embark slab cigar seven solid cart borrow curve";
+var mnemonic = "demand news income mutual idea punch chalk donkey remind omit differ ask";

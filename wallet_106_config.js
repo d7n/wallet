@@ -1,1 +1,1 @@
-var mnemonic = "tackle require fresh pole salon salon boil walnut try attitude curve roast";
+var mnemonic = "sausage park custom second earn athlete wagon copy jelly enroll floor chuckle";

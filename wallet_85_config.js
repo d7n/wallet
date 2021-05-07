@@ -1,1 +1,1 @@
-var mnemonic = "rescue dress such derive venue sound gesture argue patch member guide nose";
+var mnemonic = "pipe foot spawn scout total vibrant gallery tuna wedding shallow cup skate";

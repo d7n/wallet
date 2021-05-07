@@ -1,1 +1,1 @@
-var mnemonic = "advice bulk cabin surprise merge solid race ensure air jar figure match";
+var mnemonic = "prefer coral shield unlock cliff amateur kick south razor excite slight kid";

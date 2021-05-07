@@ -1,1 +1,1 @@
-var mnemonic = "because viable little garment language predict people settle debris exhibit camp route";
+var mnemonic = "unfold language hotel word march enhance image top dial monkey hotel path";

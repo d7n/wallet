@@ -1,1 +1,1 @@
-var mnemonic = "onion evolve face hire usual wagon market quote bench merge bomb human";
+var mnemonic = "reflect you wide faith movie east call snap flight mechanic legend light";

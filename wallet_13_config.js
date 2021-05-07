@@ -1,1 +1,1 @@
-var mnemonic = "junior jelly mystery mention foster main same mammal item aim source search";
+var mnemonic = "bounce limb repeat vacant fitness trust pole brand hungry saddle polar robust";

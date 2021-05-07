@@ -1,1 +1,1 @@
-var mnemonic = "pledge head despair seed rifle visual foster tide surround february correct evil";
+var mnemonic = "front hip giraffe crop lawsuit hidden comic display invite monster rich injury";

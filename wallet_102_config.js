@@ -1,1 +1,1 @@
-var mnemonic = "convince file prevent repeat lion gospel nature same rotate today prize call";
+var mnemonic = "lumber goddess atom grief world judge option kid decorate curve innocent canvas";

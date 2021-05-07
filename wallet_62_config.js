@@ -1,1 +1,1 @@
-var mnemonic = "pledge coin image click pink gauge ribbon mesh correct cash case school";
+var mnemonic = "meadow dream nominee spatial ethics jar mother dance guilt cloud nominee noble";

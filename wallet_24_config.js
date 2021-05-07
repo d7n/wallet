@@ -1,1 +1,1 @@
-var mnemonic = "bacon chair away pigeon almost wedding hour unlock copy tourist oblige roof";
+var mnemonic = "evoke distance fog grocery behind tiger height clay curve lab clump stick";

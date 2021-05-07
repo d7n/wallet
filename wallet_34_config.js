@@ -1,1 +1,1 @@
-var mnemonic = "fine labor extra gasp useless parent you subway stomach couch print aspect";
+var mnemonic = "cross recipe someone dream rigid pull learn render legal begin future unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "bottom road cement fuel piano march swamp prefer velvet grant owner whip";
+var mnemonic = "protect sad raccoon risk pipe collect ramp notable power garlic mosquito comfort";

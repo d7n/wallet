@@ -1,1 +1,1 @@
-var mnemonic = "evoke occur term impact then chalk awesome sound elder prison squeeze kangaroo";
+var mnemonic = "guitar ritual fly garment trophy mesh retire hamster leisure avocado nature jeans";

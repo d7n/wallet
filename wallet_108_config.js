@@ -1,1 +1,1 @@
-var mnemonic = "fantasy bag tone begin weasel hunt tenant cry barely forget hair ivory";
+var mnemonic = "update pledge comic vanish smooth zone naive raven kingdom text injury cigar";

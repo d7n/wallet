@@ -1,1 +1,1 @@
-var mnemonic = "giant aerobic food result focus refuse humble rapid column inch supply great";
+var mnemonic = "great inform country enter fuel render click quit hen renew buffalo million";

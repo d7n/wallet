@@ -1,1 +1,1 @@
-var mnemonic = "album sphere wrist flee stool journey section senior tumble squeeze draft stand";
+var mnemonic = "decide burst push spin brush summer universe name possible glow school insane";

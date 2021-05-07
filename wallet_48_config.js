@@ -1,1 +1,1 @@
-var mnemonic = "mention lava dry develop under satoshi imitate this puppy utility warm evil";
+var mnemonic = "famous work diamond record mirror scheme unfold trade spy twenty normal trick";

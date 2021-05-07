@@ -1,1 +1,1 @@
-var mnemonic = "direct artwork duty label blur punch flame nation busy scrap pottery guilt";
+var mnemonic = "hat retreat tumble tobacco bullet capital resource absurd auction beach call say";

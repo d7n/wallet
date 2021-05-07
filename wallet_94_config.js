@@ -1,1 +1,1 @@
-var mnemonic = "fun era dial frown ginger reveal sister guilt property menu water finger";
+var mnemonic = "annual race stadium orchard chalk crush crime frame winner later monkey setup";

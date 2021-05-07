@@ -1,1 +1,1 @@
-var mnemonic = "pink because foster below away strike fragile atom grain library remember sense";
+var mnemonic = "glance fiction wrong lock bind upset chat portion hello radio dinosaur wing";

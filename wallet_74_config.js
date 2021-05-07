@@ -1,1 +1,1 @@
-var mnemonic = "interest bachelor split parade village gun measure labor loyal recall flip silent";
+var mnemonic = "apple treat omit midnight glimpse bunker matrix burden large pipe athlete fancy";

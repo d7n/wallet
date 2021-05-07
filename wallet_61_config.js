@@ -1,1 +1,1 @@
-var mnemonic = "casual cluster ability road motion believe crane lottery when foster slow cart";
+var mnemonic = "account dad rabbit much conduct bachelor jazz other maximum host vote page";

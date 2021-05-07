@@ -1,1 +1,1 @@
-var mnemonic = "census private journey dynamic silk advance social depth panic hawk neglect detect";
+var mnemonic = "frown waste print cruel region brisk coast lesson acid fossil miss luxury";

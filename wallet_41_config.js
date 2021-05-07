@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon lawsuit airport dose bubble unable track vivid october enter magnet physical";
+var mnemonic = "minimum divert trial hundred art dove kitten brief album snap alarm primary";

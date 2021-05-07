@@ -1,1 +1,1 @@
-var mnemonic = "summer snap glare benefit skate pupil galaxy glass quit eternal aerobic welcome";
+var mnemonic = "burger book alien measure key rice couple loop palm room suffer cruel";

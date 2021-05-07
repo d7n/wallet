@@ -1,1 +1,1 @@
-var mnemonic = "slender bean daughter fortune plunge edge over salt polar donate hurry enact";
+var mnemonic = "nuclear foster blush carpet beef huge program since wolf jar hip seat";

@@ -1,1 +1,1 @@
-var mnemonic = "school vivid review sword lunch blossom hospital note cream gravity review casual";
+var mnemonic = "mule average good huge step empty whisper double radio rural tone wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "service helmet arch upset drama joy worry one trash magic cloth hospital";
+var mnemonic = "million alone subway unfair clock empty board fury describe busy purse snow";

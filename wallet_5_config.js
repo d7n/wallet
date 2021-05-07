@@ -1,1 +1,1 @@
-var mnemonic = "brave occur popular leisure wheel club end hard repair cost shrug expose";
+var mnemonic = "banana struggle market village grab walk patch hero hair play speak purse";

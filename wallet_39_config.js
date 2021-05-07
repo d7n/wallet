@@ -1,1 +1,1 @@
-var mnemonic = "pattern mother sock innocent dismiss melody alert traffic bread food echo spoil";
+var mnemonic = "lumber ahead already rabbit benefit avoid repeat guard cactus zoo card canoe";

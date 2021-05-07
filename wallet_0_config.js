@@ -1,1 +1,1 @@
-var mnemonic = "consider among whisper giggle toast pause tell school build squirrel carpet actress";
+var mnemonic = "dismiss mobile top critic hazard moon clean impulse fresh combine cousin trial";

@@ -1,1 +1,1 @@
-var mnemonic = "code exchange current swarm organ harbor push release monitor tent coffee area";
+var mnemonic = "mail shrimp furnace knife custom anchor physical manual search balcony over kitchen";

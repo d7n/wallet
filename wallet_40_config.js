@@ -1,1 +1,1 @@
-var mnemonic = "still blossom erosion bird lumber same old stamp vibrant blade cable ring";
+var mnemonic = "party park bitter door material artefact online force resource click rare cable";

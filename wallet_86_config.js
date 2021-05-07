@@ -1,1 +1,1 @@
-var mnemonic = "awesome life casual battle donate panic census ball ugly town hobby mimic";
+var mnemonic = "pig vague rhythm risk leopard three amateur trash inch army injury tail";

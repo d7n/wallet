@@ -1,1 +1,1 @@
-var mnemonic = "advice outer weapon little pattern judge fog project region swap off body";
+var mnemonic = "loyal month into tenant assume turn floor actress process mean combine excuse";

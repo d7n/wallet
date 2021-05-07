@@ -1,1 +1,1 @@
-var mnemonic = "output travel borrow try poet giggle embark uncle figure sense habit spend";
+var mnemonic = "tide toilet genius fat ten system finger prosper credit express absurd often";

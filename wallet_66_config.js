@@ -1,1 +1,1 @@
-var mnemonic = "embark ticket alpha check torch fiscal curtain smooth blind relief sentence cradle";
+var mnemonic = "obey lunch mesh borrow chronic special holiday cancel mention choice field latin";

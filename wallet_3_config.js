@@ -1,1 +1,1 @@
-var mnemonic = "tennis resist veteran chat chef know visual ball achieve turtle toe spin";
+var mnemonic = "normal trophy spatial slogan naive egg lawn pencil aerobic decide tuna casino";

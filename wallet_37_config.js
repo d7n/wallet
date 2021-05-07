@@ -1,1 +1,1 @@
-var mnemonic = "fit dinosaur taste wide submit question basket corn board vacuum hand exclude";
+var mnemonic = "adapt amount screen spice still clip shock coast prosper blanket excuse equal";

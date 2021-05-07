@@ -1,1 +1,1 @@
-var mnemonic = "weather upper crawl neglect cruise snake laugh nose topic away scissors swift";
+var mnemonic = "final omit day shoot tobacco course parade grunt behind wire notable truck";

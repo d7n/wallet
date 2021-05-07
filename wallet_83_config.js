@@ -1,1 +1,1 @@
-var mnemonic = "oak attitude alone matter bomb traffic glad water excuse zebra sport emotion";
+var mnemonic = "unusual only stairs general sign approve awake evoke public dose clever disagree";

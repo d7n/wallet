@@ -1,1 +1,1 @@
-var mnemonic = "squeeze course wheel zero debris crowd improve sock lottery hedgehog sudden blossom";
+var mnemonic = "twist lyrics brand oyster version kid quote always rose member huge taxi";

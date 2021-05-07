@@ -1,1 +1,1 @@
-var mnemonic = "arrange course book people relief mercy truck base that scare curtain high";
+var mnemonic = "viable steel release blanket finish sad delay fit dad say trumpet result";

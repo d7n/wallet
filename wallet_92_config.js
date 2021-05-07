@@ -1,1 +1,1 @@
-var mnemonic = "recycle flag vanish hollow bind boil view door also float upset doll";
+var mnemonic = "suit wrestle middle ability visa build vendor insane attract column chair sauce";

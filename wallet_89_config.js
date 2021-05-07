@@ -1,1 +1,1 @@
-var mnemonic = "fiscal mention link jewel blind fold receive clog donkey crystal display thrive";
+var mnemonic = "blossom pear illness shallow plug fiscal brave capital blush tiny peanut motion";

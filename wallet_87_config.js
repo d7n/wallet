@@ -1,1 +1,1 @@
-var mnemonic = "myth broken solve outside final issue fire uncle detect weapon blind rely";
+var mnemonic = "oval alarm anchor lift ancient person combine wear mutual ghost drive like";

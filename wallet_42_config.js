@@ -1,1 +1,1 @@
-var mnemonic = "mass float claw maze business base liar seat exercise table finger oil";
+var mnemonic = "early lemon wasp minute emerge limb drama chat grow accuse execute lion";

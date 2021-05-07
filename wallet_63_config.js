@@ -1,1 +1,1 @@
-var mnemonic = "flush frog velvet time beach sketch girl stable leaf cube under energy";
+var mnemonic = "myth spread inform reward wagon step reopen garden flavor basic always goat";

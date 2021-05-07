@@ -1,1 +1,1 @@
-var mnemonic = "boost base bean weekend crazy drive gossip morning duck coconut question rebuild";
+var mnemonic = "have detail you celery crop one angry wine since uncle rug able";

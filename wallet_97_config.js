@@ -1,1 +1,1 @@
-var mnemonic = "plug creek inquiry there marble filter chicken kitten cupboard vacant victory egg";
+var mnemonic = "unveil artefact lion economy hen next arrow wedding cloud wedding spend avoid";

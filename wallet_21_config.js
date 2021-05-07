@@ -1,1 +1,1 @@
-var mnemonic = "plunge castle tag document roof case degree slam initial found invest crouch";
+var mnemonic = "service winner tiger fabric analyst merit reform mixed keep misery also horror";

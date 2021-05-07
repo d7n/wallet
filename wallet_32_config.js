@@ -1,1 +1,1 @@
-var mnemonic = "black train ridge grocery erase orbit cream mean spin rescue cost boy";
+var mnemonic = "can thought salt reject cotton matrix emotion phrase town battle hundred exhaust";

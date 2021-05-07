@@ -1,1 +1,1 @@
-var mnemonic = "mesh fee pilot dry enroll hurt lizard labor lobster test govern defense";
+var mnemonic = "parade birth slab echo kiss satisfy dial fiber young bacon lock humble";

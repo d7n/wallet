@@ -1,1 +1,1 @@
-var mnemonic = "betray cruel forum swift vicious hammer toilet unaware craft dinosaur country home";
+var mnemonic = "man combine ostrich unusual salad soda lucky awesome eternal message risk pig";

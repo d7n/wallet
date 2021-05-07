@@ -1,1 +1,1 @@
-var mnemonic = "essence cycle atom rookie bless layer theory kitten sketch reunion rate kind";
+var mnemonic = "jump blue upon move van corn mistake angle green injury valve exact";

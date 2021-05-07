@@ -1,1 +1,1 @@
-var mnemonic = "million harsh ghost across draft various undo fan over attend garbage garage";
+var mnemonic = "stick voice tunnel team ship flavor deal fatal capable scrap spare mass";

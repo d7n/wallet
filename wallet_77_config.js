@@ -1,1 +1,1 @@
-var mnemonic = "royal radio alert index learn forward shock tongue immense strategy meat distance";
+var mnemonic = "coil two alert labor want switch debris zebra admit allow oven slim";

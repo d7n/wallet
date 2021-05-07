@@ -1,1 +1,1 @@
-var mnemonic = "imitate stove rug follow wolf speed future exclude wealth half inner execute";
+var mnemonic = "negative service unfold frost ceiling nice tongue bright cat bird edge level";

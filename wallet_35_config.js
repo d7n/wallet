@@ -1,1 +1,1 @@
-var mnemonic = "ask across sting clock obvious course person squirrel tennis disorder inspire space";
+var mnemonic = "poet elder fog warm final violin unable once wash minimum noble naive";

@@ -1,1 +1,1 @@
-var mnemonic = "ocean crunch mango distance hungry better pudding flat maid lunch issue timber";
+var mnemonic = "shuffle delay duty tackle medal trial reduce target object true similar dirt";

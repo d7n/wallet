@@ -1,1 +1,1 @@
-var mnemonic = "hotel evolve company power jealous flower need valve copy sing oxygen buddy";
+var mnemonic = "nephew black client taste hurdle olympic fortune egg source canal loop clog";

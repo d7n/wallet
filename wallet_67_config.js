@@ -1,1 +1,1 @@
-var mnemonic = "casual slide other rude sick adjust unlock north deliver jaguar lecture tomato";
+var mnemonic = "require grant protect penalty repair script tattoo occur crew candy blast echo";

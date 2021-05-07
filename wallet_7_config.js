@@ -1,1 +1,1 @@
-var mnemonic = "need sense similar island example give laundry screen dolphin struggle family emerge";
+var mnemonic = "roof welcome husband soon toast clean bag attend stage inject kangaroo spell";

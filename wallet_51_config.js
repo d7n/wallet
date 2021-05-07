@@ -1,1 +1,1 @@
-var mnemonic = "cheap safe erosion main food mesh ostrich upset punch organ isolate erupt";
+var mnemonic = "upset inmate invite sausage pretty carry sing winter skate cute wolf minimum";

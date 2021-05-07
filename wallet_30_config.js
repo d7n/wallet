@@ -1,1 +1,1 @@
-var mnemonic = "they venue siege essence inquiry near come shove primary oil disease craft";
+var mnemonic = "bean pair hazard mom humor arch rally attitude recall speak stuff gift";

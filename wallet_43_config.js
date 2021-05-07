@@ -1,1 +1,1 @@
-var mnemonic = "upon mountain luxury supply canal aim planet cinnamon enemy balance top canal";
+var mnemonic = "unusual topple such hope isolate despair holiday glance more yellow deputy cattle";

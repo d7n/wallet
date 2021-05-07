@@ -1,1 +1,1 @@
-var mnemonic = "ugly minute clever decade ignore actress wage fence consider hedgehog fatal leader";
+var mnemonic = "risk country local weapon peanut tip helmet mask economy miss artwork bundle";

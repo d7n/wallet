@@ -1,1 +1,1 @@
-var mnemonic = "junk fiber arena shrimp false reveal pattern velvet recall bus evolve swap";
+var mnemonic = "gospel permit boring juice midnight quality resist water island horn bind flock";

@@ -1,1 +1,1 @@
-var mnemonic = "avoid text senior autumn addict doctor unique syrup alone stool accuse caught";
+var mnemonic = "someone current frost hire real myself bonus wife cycle about hybrid royal";

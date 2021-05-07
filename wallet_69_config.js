@@ -1,1 +1,1 @@
-var mnemonic = "year arm silk attend goat lucky oxygen cook mouse dove floor table";
+var mnemonic = "oil edit indoor range add ugly shed orbit enroll alarm depend doctor";

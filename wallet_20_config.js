@@ -1,1 +1,1 @@
-var mnemonic = "ivory venture tomorrow pave quick banner inhale join member purchase mango obtain";
+var mnemonic = "hybrid census empty enforce lake bar inherit ritual concert pepper regular rebel";

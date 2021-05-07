@@ -1,1 +1,1 @@
-var mnemonic = "suit code arch real banner poem humble version near flush theme false";
+var mnemonic = "often club climb wealth deputy ivory attitude animal fold benefit lizard tone";

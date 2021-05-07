@@ -1,1 +1,1 @@
-var mnemonic = "leg mango under shrimp access soldier match settle capital width gauge sight";
+var mnemonic = "clip rude economy detect forget snake gym oppose mouse story trim voice";

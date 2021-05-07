@@ -1,1 +1,1 @@
-var mnemonic = "behind tomorrow thing tuition glance practice urban view inside together supply rough";
+var mnemonic = "caution quick admit amateur tomato where bundle suggest fold biology gate cricket";

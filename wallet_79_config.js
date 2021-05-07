@@ -1,1 +1,1 @@
-var mnemonic = "favorite shoe solution clock away situate rebuild enter vote verb spider skin";
+var mnemonic = "patrol pigeon educate pizza trouble valid sport sing clarify lazy acoustic muffin";

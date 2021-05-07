@@ -1,1 +1,1 @@
-var mnemonic = "output miss lazy clever dice favorite beyond lounge purse this near sadness";
+var mnemonic = "scan pretty embrace apple morning word grow come during they domain orchard";

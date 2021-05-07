@@ -1,1 +1,1 @@
-var mnemonic = "attack inhale torch baby replace robust video discover obvious advance hero climb";
+var mnemonic = "cigar captain elder hub dry wrap flight fine path miracle embody future";
