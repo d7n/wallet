@@ -1,1 +1,1 @@
-var mnemonic = "twist pen elephant grocery prosper install mesh armor hybrid library cart public";
+var mnemonic = "soldier torch gentle mouse quick wood dolphin rhythm wagon oblige mutual dentist";

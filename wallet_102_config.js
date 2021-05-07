@@ -1,1 +1,1 @@
-var mnemonic = "swing width wink arm security display table owner dwarf skin rhythm duty";
+var mnemonic = "panic age present denial police state vacuum common theme virtual you broccoli";

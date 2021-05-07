@@ -1,1 +1,1 @@
-var mnemonic = "above measure shaft corn arctic rice orbit top front oblige leopard mechanic";
+var mnemonic = "crumble legal speed piano hat outdoor balcony winter glad sell tone oxygen";

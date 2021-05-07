@@ -1,1 +1,1 @@
-var mnemonic = "grit novel other enroll border proof crane normal mango august mountain waste";
+var mnemonic = "faith motor struggle elevator mosquito pond gaze forest bronze monster arena man";

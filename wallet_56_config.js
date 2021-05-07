@@ -1,1 +1,1 @@
-var mnemonic = "need fan delay secret loyal brother cable cousin twist seat remember box";
+var mnemonic = "field rain exchange claw throw mystery tilt heavy normal vehicle tool person";

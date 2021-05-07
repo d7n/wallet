@@ -1,1 +1,1 @@
-var mnemonic = "error cinnamon crash drop mesh route father will false gym valley unveil";
+var mnemonic = "basket ocean arch undo scorpion purity accident frown comfort such disagree water";

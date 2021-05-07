@@ -1,1 +1,1 @@
-var mnemonic = "peanut check found naive push tide gain latin rally fury early enough";
+var mnemonic = "fragile resource lens people strong infant already buffalo decide dash gravity group";

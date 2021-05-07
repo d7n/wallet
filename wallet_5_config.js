@@ -1,1 +1,1 @@
-var mnemonic = "kid survey direct orchard game initial invite scatter process shy promote lizard";
+var mnemonic = "shove faith fatal unveil employ mercy stick journey comic wood coyote harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "list energy property own stem pact antique bring cushion naive snow yard";
+var mnemonic = "clarify firm risk novel tobacco choose eternal foil daring process clever scene";

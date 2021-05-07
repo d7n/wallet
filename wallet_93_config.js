@@ -1,1 +1,1 @@
-var mnemonic = "game father fabric wish deal secret badge oval order bicycle exchange photo";
+var mnemonic = "winter audit stand company crystal vital inside cable stem gauge aware donate";

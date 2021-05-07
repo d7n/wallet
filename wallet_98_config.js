@@ -1,1 +1,1 @@
-var mnemonic = "case sun prefer parent strike target rare share turkey access demand owner";
+var mnemonic = "sorry intact steak obtain moment jealous yellow pigeon detect upset random carpet";

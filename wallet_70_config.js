@@ -1,1 +1,1 @@
-var mnemonic = "speed trophy drink innocent select wolf include vague column dry bomb possible";
+var mnemonic = "cherry aisle farm mistake velvet almost give century release awkward picnic another";

@@ -1,1 +1,1 @@
-var mnemonic = "cause auto picture street brother student globe execute sock shift warm swamp";
+var mnemonic = "chaos around exercise entry breeze wide bamboo shove cannon vendor chef rifle";

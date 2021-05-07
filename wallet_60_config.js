@@ -1,1 +1,1 @@
-var mnemonic = "cloth display orient bounce pulse duty empower enlist stool injury lunch design";
+var mnemonic = "boring fantasy donkey miracle pair parade flower mind immense theory energy right";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic night eyebrow dentist defense stone science couch noble tonight velvet paper";
+var mnemonic = "measure deliver fatal blast rubber analyst assault dune win leisure attitude meat";

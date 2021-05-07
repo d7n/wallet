@@ -1,1 +1,1 @@
-var mnemonic = "envelope install gas belt human there sudden palm limb critic vanish relax";
+var mnemonic = "fame few virtual believe notice put unknown rib purity abstract someone stadium";

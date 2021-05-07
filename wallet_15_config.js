@@ -1,1 +1,1 @@
-var mnemonic = "family spend dial large crawl ranch april month visa yard twice cube";
+var mnemonic = "grit disagree chase abandon spice win boil wedding install engage sample bacon";

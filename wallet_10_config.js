@@ -1,1 +1,1 @@
-var mnemonic = "want wage vicious color dish weekend delay hen angry level poem remove";
+var mnemonic = "village actor filter unfair crash liberty media mom achieve pupil flock discover";

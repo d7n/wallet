@@ -1,1 +1,1 @@
-var mnemonic = "mobile wrist prosper canal when emerge betray sphere alert extend bid erupt";
+var mnemonic = "glass mask useful kangaroo receive alpha shield satoshi test artwork fatigue puppy";

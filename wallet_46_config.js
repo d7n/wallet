@@ -1,1 +1,1 @@
-var mnemonic = "welcome away useless give layer gloom park digital dove spread connect injury";
+var mnemonic = "ladder tomato file next today snake aunt able learn praise stand castle";

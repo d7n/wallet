@@ -1,1 +1,1 @@
-var mnemonic = "vacant view crew clown category online inherit enemy illness ostrich phone couple";
+var mnemonic = "foot analyst pool eight equal pretty bind acid van smooth wink audit";

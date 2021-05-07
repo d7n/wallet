@@ -1,1 +1,1 @@
-var mnemonic = "clerk clip achieve damp empty scheme actor endorse want negative apple category";
+var mnemonic = "wide spin hidden game romance embody monkey intact art similar wheat special";

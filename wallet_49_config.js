@@ -1,1 +1,1 @@
-var mnemonic = "elevator cart nose olympic torch force radio custom client rich abuse obey";
+var mnemonic = "chief inject sail oppose improve juice else blanket thrive diagram universe suggest";

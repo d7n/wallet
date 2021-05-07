@@ -1,1 +1,1 @@
-var mnemonic = "turn door special mixture outdoor mix trouble frog shine record card square";
+var mnemonic = "sunset walnut essence senior wire creek essence must wise cricket invite swap";

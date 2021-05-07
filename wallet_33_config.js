@@ -1,1 +1,1 @@
-var mnemonic = "carbon push away delay craft item casino remind dose arena illness filter";
+var mnemonic = "video situate faint pilot dose crane three gallery glance focus hole trip";

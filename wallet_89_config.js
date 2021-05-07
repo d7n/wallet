@@ -1,1 +1,1 @@
-var mnemonic = "weird valley either purchase depth profit elevator fantasy rely emerge roast picture";
+var mnemonic = "mom kind chicken stamp demand cactus gas ceiling ivory ancient hero news";

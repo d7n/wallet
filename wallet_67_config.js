@@ -1,1 +1,1 @@
-var mnemonic = "matrix edge unable soccer nerve napkin news lawn onion major wear odor";
+var mnemonic = "forest below police smooth fish rather thought pull rib snack depart snow";

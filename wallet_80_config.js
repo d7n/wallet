@@ -1,1 +1,1 @@
-var mnemonic = "salmon chief kite error equal era patient cover response subject indoor funny";
+var mnemonic = "sport spawn rack boil auto limb repeat october voice leader strike tent";

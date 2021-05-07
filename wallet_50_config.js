@@ -1,1 +1,1 @@
-var mnemonic = "arm school sell cluster sustain virtual mention zero avocado guard raise biology";
+var mnemonic = "pipe dirt help solution camera involve wink ghost unknown scatter mention total";

@@ -1,1 +1,1 @@
-var mnemonic = "false next notable coconut cat prefer knee fiscal perfect stem zebra document";
+var mnemonic = "exchange again clarify voyage air plastic machine recycle neutral attack wild weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "risk runway carry oxygen upon armor banner great cross curtain blood brick";
+var mnemonic = "shed employ pupil patrol glare away hobby loud push goat level spin";

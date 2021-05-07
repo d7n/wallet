@@ -1,1 +1,1 @@
-var mnemonic = "maid honey clap repeat bacon food deposit estate rally push clerk know";
+var mnemonic = "result output poet rural place index glare common real digital junior fun";

@@ -1,1 +1,1 @@
-var mnemonic = "glue city expire unable crucial thumb address expose system mechanic lunch interest";
+var mnemonic = "smooth venture toss barrel maze fashion exercise dentist depend wonder poet legal";

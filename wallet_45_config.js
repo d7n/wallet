@@ -1,1 +1,1 @@
-var mnemonic = "pluck wide decline have garment high squirrel viable world illness danger click";
+var mnemonic = "illness drama airport leopard forward identify pilot copper swap violin cake useless";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt strategy joy alpha scan indicate index supreme divide cost measure hunt";
+var mnemonic = "sentence wool story century strike wink benefit stadium sample unable leopard label";

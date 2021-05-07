@@ -1,1 +1,1 @@
-var mnemonic = "language dawn flip lock report asset define shrimp divide two reduce test";
+var mnemonic = "latin nut flat tool rubber media surge gold basic hold endless nest";

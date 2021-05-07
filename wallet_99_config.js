@@ -1,1 +1,1 @@
-var mnemonic = "future install punch dynamic arrange oblige ordinary jewel dynamic boat whisper improve";
+var mnemonic = "shuffle reward expose doll clerk glass lecture shuffle food any hero empty";

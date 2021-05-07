@@ -1,1 +1,1 @@
-var mnemonic = "other reflect frost ramp balcony inner scene kiss turtle exhibit lyrics biology";
+var mnemonic = "logic trend length core series water gate achieve purpose guide soda tooth";

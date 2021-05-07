@@ -1,1 +1,1 @@
-var mnemonic = "anxiety amazing soda famous unable immune bar spider mixed flee act senior";
+var mnemonic = "gesture slab mandate pelican power sustain marble guilt hold unfold case enemy";

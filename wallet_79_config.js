@@ -1,1 +1,1 @@
-var mnemonic = "north grace torch swim tide twenty avocado easily aunt bamboo owner mirror";
+var mnemonic = "simple then village spread spoil wall camp quote vintage decide fall original";

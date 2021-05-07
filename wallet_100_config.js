@@ -1,1 +1,1 @@
-var mnemonic = "social interest brick hospital squeeze ask ostrich lazy notice render hope erase";
+var mnemonic = "inner talk fun broken keep option clerk damage echo helmet cook olympic";

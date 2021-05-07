@@ -1,1 +1,1 @@
-var mnemonic = "resist wasp enemy elbow plastic flash robot faculty wrong pear dice toy";
+var mnemonic = "group choose interest mushroom chief timber pair grief siege throw main slush";

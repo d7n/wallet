@@ -1,1 +1,1 @@
-var mnemonic = "venue window follow belt parent reform lonely finger uniform vanish virtual maze";
+var mnemonic = "endless own cement web open blue bench sport hat art aisle solar";

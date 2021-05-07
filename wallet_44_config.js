@@ -1,1 +1,1 @@
-var mnemonic = "tag devote lunch seminar city hour senior over initial tired cream elite";
+var mnemonic = "slice put fire prize sustain cause destroy door rich trip cinnamon moon";

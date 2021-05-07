@@ -1,1 +1,1 @@
-var mnemonic = "maze obscure mesh prepare cover satoshi penalty hamster clutch group resource among";
+var mnemonic = "defense arm guitar family wasp shrimp abstract victory usual nurse also gap";

@@ -1,1 +1,1 @@
-var mnemonic = "valve saddle clip blood lawn distance job scorpion neck name already flash";
+var mnemonic = "sentence fork clutch pencil ivory butter hire curve pluck glory north garage";

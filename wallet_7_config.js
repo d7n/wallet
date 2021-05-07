@@ -1,1 +1,1 @@
-var mnemonic = "trash net bird powder knock daring payment suggest excuse ski ball swim";
+var mnemonic = "bench airport cloth select want amused vendor educate divorce album frequent attend";

@@ -1,1 +1,1 @@
-var mnemonic = "occur fan tumble custom primary reason destroy light world poet remove stock";
+var mnemonic = "laugh spoon galaxy scheme hint tool visa broken gospel position notice journey";

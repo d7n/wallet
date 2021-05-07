@@ -1,1 +1,1 @@
-var mnemonic = "metal human system velvet enlist wine innocent idle shock employ share glue";
+var mnemonic = "worry repeat olive iron success gentle twist treat victory into can deputy";

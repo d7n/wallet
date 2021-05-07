@@ -1,1 +1,1 @@
-var mnemonic = "hair camera interest screen matter kite unveil camp profit flush glue coyote";
+var mnemonic = "bean fabric receive inquiry bacon flash apart elite panther post dial illness";

@@ -1,1 +1,1 @@
-var mnemonic = "much view service scare laugh harsh consider today lyrics toddler donor crucial";
+var mnemonic = "embark inform theory that glare shallow jelly ancient reward rate note soccer";

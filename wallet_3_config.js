@@ -1,1 +1,1 @@
-var mnemonic = "flash fly oblige base area such wasp lab drop garage dignity nose";
+var mnemonic = "double hill acoustic negative dawn slice hour own essence spy question lens";

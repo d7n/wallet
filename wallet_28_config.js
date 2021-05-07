@@ -1,1 +1,1 @@
-var mnemonic = "fragile pudding ribbon electric shadow visit useful space remain bacon load setup";
+var mnemonic = "worth lemon private program wife copy nest husband planet photo lobster apology";

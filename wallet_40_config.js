@@ -1,1 +1,1 @@
-var mnemonic = "defy ribbon actual move donate coyote pause will pudding custom current liar";
+var mnemonic = "paper heavy skin movie lunch nose cabbage whale whip can predict leisure";

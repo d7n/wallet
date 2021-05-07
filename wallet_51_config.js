@@ -1,1 +1,1 @@
-var mnemonic = "minor please float ahead satisfy course loan dash length win build retire";
+var mnemonic = "cradle census culture future agree swarm scatter gas rural cargo awful estate";

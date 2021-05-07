@@ -1,1 +1,1 @@
-var mnemonic = "behind robust lunch orphan cattle awkward swim mammal gather day submit age";
+var mnemonic = "couple female ability myth ugly turkey bronze wedding suspect craft winter fine";

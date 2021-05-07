@@ -1,1 +1,1 @@
-var mnemonic = "patrol dinosaur monkey trial science salute enhance hint version undo conduct guide";
+var mnemonic = "hybrid scout year regular soldier ridge vocal laundry little combine ribbon disagree";

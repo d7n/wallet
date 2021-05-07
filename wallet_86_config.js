@@ -1,1 +1,1 @@
-var mnemonic = "organ fold ancient transfer knife pen copy execute spend envelope old increase";
+var mnemonic = "marble ghost another behind remove badge problem monitor area giraffe silent again";

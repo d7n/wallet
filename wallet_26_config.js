@@ -1,1 +1,1 @@
-var mnemonic = "trophy section bless cricket wine injury notice undo silk viable glow need";
+var mnemonic = "finger foot cycle fiction tuition ridge real happy task hole cushion carbon";

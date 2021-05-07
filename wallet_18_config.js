@@ -1,1 +1,1 @@
-var mnemonic = "spirit mammal abandon powder tortoise accident piano spot steak express pride slight";
+var mnemonic = "scare rocket snack dial exchange silent peanut frog monkey upon loan neutral";

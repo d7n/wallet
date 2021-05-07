@@ -1,1 +1,1 @@
-var mnemonic = "water pulp dune nominee keen album age robust draw school magnet father";
+var mnemonic = "aunt number category work dynamic pass worth disagree figure firm mirror runway";

@@ -1,1 +1,1 @@
-var mnemonic = "culture cement rain type entire sheriff rookie sweet october clay dismiss again";
+var mnemonic = "ability mansion same nut child deposit aspect sure crazy exercise memory crystal";

@@ -1,1 +1,1 @@
-var mnemonic = "travel ability amount swing toss legend fatal embrace foster pioneer wonder auto";
+var mnemonic = "income fade volcano slow bean begin oyster mom people weasel major all";

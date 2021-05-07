@@ -1,1 +1,1 @@
-var mnemonic = "sing gain gesture shaft pride cat salad devote boy very gas room";
+var mnemonic = "drop supply pig bronze coffee survey frown blush caution steak anger sentence";

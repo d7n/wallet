@@ -1,1 +1,1 @@
-var mnemonic = "message usual barely someone suit error tourist decide sword witness struggle wool";
+var mnemonic = "head lazy mammal clarify bulb lab tube test exercise sand photo shed";

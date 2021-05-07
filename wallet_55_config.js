@@ -1,1 +1,1 @@
-var mnemonic = "ginger auction unhappy sick chalk sphere egg lock mean rule drive release";
+var mnemonic = "coral later cover mad consider hen topic pilot intact cigar twenty welcome";

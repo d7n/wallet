@@ -1,1 +1,1 @@
-var mnemonic = "pledge rule define achieve sphere inherit bar couch stable gorilla potato romance";
+var mnemonic = "meat window priority mango feature jump diet split rigid north scout garbage";

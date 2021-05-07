@@ -1,1 +1,1 @@
-var mnemonic = "stand movie behave smart horn toward walnut stumble lunch still guard panther";
+var mnemonic = "grief where cruise nurse happy retire build tongue solar find weapon ripple";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer profit price stereo meat fine wait treat shaft solid bridge first";
+var mnemonic = "cross joy eyebrow foster angle document educate exclude track start order video";

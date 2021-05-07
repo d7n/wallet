@@ -1,1 +1,1 @@
-var mnemonic = "genuine claw pigeon flag cricket duty square dawn lecture theory pride asset";
+var mnemonic = "offer mask phrase copper more flock figure one popular vicious position amount";

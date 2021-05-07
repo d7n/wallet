@@ -1,1 +1,1 @@
-var mnemonic = "paddle imitate addict peanut cereal object place boy saddle path mammal fabric";
+var mnemonic = "clinic scout spring abstract alpha wink stamp powder river scheme employ lion";

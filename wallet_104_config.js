@@ -1,1 +1,1 @@
-var mnemonic = "leader advance liquid barely before wheel eagle auction donate cement soda cabin";
+var mnemonic = "rabbit toast outer moon joy goose ritual clock moment sweet assist post";

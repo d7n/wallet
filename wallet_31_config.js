@@ -1,1 +1,1 @@
-var mnemonic = "speak distance height accuse clock ready cluster alter used eyebrow adult reward";
+var mnemonic = "open social clap whisper good craft head pitch coyote skirt dignity fiction";

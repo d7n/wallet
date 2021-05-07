@@ -1,1 +1,1 @@
-var mnemonic = "father ship muscle save dry fiscal miracle solar brain magic before soldier";
+var mnemonic = "auction elephant brave zero fit myth spread stereo observe acoustic museum six";

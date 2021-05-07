@@ -1,1 +1,1 @@
-var mnemonic = "mom random fluid suit blame slice flat east abstract foam hour front";
+var mnemonic = "artwork guilt jungle vague give bacon prevent bridge decide mention unknown surge";

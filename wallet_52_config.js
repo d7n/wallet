@@ -1,1 +1,1 @@
-var mnemonic = "matrix hedgehog security raise language motor tennis loyal twice slot extra tell";
+var mnemonic = "wool chronic report opera merit blossom become shoulder valve culture year city";

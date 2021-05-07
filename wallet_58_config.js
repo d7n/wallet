@@ -1,1 +1,1 @@
-var mnemonic = "federal parrot property rather body flash decide print remain behind treat tongue";
+var mnemonic = "acoustic shrimp animal quick omit decorate chicken garden mountain dizzy song bleak";

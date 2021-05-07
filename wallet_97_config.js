@@ -1,1 +1,1 @@
-var mnemonic = "spin calm once air illness bird pipe jealous fury also analyst buddy";
+var mnemonic = "leopard employ morning actor industry team grow cash crawl envelope spawn shock";

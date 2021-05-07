@@ -1,1 +1,1 @@
-var mnemonic = "giant bright design glass ozone neglect supply chicken ocean pet hard goddess";
+var mnemonic = "grain test vacuum tonight assist flower various clock kiwi safe weapon kind";

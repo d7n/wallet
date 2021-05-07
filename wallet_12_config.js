@@ -1,1 +1,1 @@
-var mnemonic = "planet stereo move seek giggle normal sauce rubber sock banner unfold pact";
+var mnemonic = "slide armor owner hero wish obvious hedgehog acid want candy power venture";

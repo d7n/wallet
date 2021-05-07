@@ -1,1 +1,1 @@
-var mnemonic = "prefer helmet night city way buzz unaware rain buffalo lend stay meat";
+var mnemonic = "ceiling question common april usual coffee spawn unveil save glad turn ribbon";

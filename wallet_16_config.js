@@ -1,1 +1,1 @@
-var mnemonic = "video shoulder around mobile faint envelope all news mean depend save aisle";
+var mnemonic = "detect mango proof faith truth million minor call expose special mobile stay";

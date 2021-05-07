@@ -1,1 +1,1 @@
-var mnemonic = "tourist stereo castle wet wealth duck sing sell seminar focus mimic educate";
+var mnemonic = "moment blush dish account expire main treat crouch awkward danger cloud average";

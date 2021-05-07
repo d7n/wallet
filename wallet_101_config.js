@@ -1,1 +1,1 @@
-var mnemonic = "trial display atom beauty limit steel craft purity wet soft indoor file";
+var mnemonic = "blind put hockey flame tonight approve keen erupt puzzle promote shoot orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "teach company special afraid between rule fox edit deal party direct advance";
+var mnemonic = "clarify party obscure rain burden estate silver blade vault upset hybrid aim";

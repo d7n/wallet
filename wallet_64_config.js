@@ -1,1 +1,1 @@
-var mnemonic = "verb ski solution screen metal major design canoe rail jump visa round";
+var mnemonic = "lonely bonus engine matrix eyebrow wink fit arrest pattern blind stem scatter";

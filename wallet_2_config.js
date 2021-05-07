@@ -1,1 +1,1 @@
-var mnemonic = "time there walk quit victory around bundle camp twice soap trend hobby";
+var mnemonic = "rocket select mountain obey fruit square common soccer soft weekend own hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden demise crop organ enjoy exit economy circle length law game earth";
+var mnemonic = "aunt monster scorpion stem tooth sting matter cinnamon ethics essay valid dune";

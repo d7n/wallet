@@ -1,1 +1,1 @@
-var mnemonic = "worry box popular name rain patient depend eager winner join cycle remind";
+var mnemonic = "drift flock scan cabin say clump crater aunt sheriff emotion capable retreat";
