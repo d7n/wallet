@@ -1,1 +1,1 @@
-var mnemonic = "crouch update business pluck reunion search soft magic sort tube tragic steak";
+var mnemonic = "like throw eye coach polar spot salon attitude cattle ability will despair";

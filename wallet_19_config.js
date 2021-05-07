@@ -1,1 +1,1 @@
-var mnemonic = "distance know palace tide elephant hotel bamboo plastic biology alarm dish misery";
+var mnemonic = "shock spatial find crumble play ability corn drip powder annual antenna ivory";

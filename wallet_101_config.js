@@ -1,1 +1,1 @@
-var mnemonic = "entry disorder drum head custom west priority ostrich great sight cigar front";
+var mnemonic = "tennis segment genius island minimum uncover april tooth festival daughter joy uncover";

@@ -1,1 +1,1 @@
-var mnemonic = "update work wide hammer expire obey laptop wolf grass universe quantum grace";
+var mnemonic = "scheme replace ancient stick rich toast problem casino gun nation will busy";

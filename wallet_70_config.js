@@ -1,1 +1,1 @@
-var mnemonic = "raccoon carry staff sting energy sense note comic rate album adult glass";
+var mnemonic = "hover glory keen high park disagree fog raven extra danger mechanic jump";

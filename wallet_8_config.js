@@ -1,1 +1,1 @@
-var mnemonic = "index catalog decade sphere snack right electric tomorrow minor pupil damage teach";
+var mnemonic = "owner local razor sense fever salad van harbor wing again seat chalk";

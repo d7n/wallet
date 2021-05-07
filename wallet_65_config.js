@@ -1,1 +1,1 @@
-var mnemonic = "trap find record sell wife rare era hedgehog office trade glad alcohol";
+var mnemonic = "oil labor penalty joke poet open unfair bubble silly chaos battle version";

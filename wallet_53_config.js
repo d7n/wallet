@@ -1,1 +1,1 @@
-var mnemonic = "truly chest rug analyst amused brave stage isolate often coyote protect exotic";
+var mnemonic = "collect agent pattern wood journey obscure wet salad wait mistake hungry limit";

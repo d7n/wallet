@@ -1,1 +1,1 @@
-var mnemonic = "flee edge practice fantasy tonight climb emerge call rug smoke pattern document";
+var mnemonic = "bean piano bind sheriff laptop abstract escape jeans syrup alarm human smooth";

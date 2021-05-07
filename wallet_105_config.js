@@ -1,1 +1,1 @@
-var mnemonic = "enroll because deputy refuse utility thank miss biology example cluster alarm board";
+var mnemonic = "team relief shoe subway often misery fold pond elegant train segment catalog";

@@ -1,1 +1,1 @@
-var mnemonic = "police empower shy club runway adjust outdoor process lyrics increase alpha seek";
+var mnemonic = "marble pole artefact firm liar fury renew force actress way solution horn";

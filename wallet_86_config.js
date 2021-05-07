@@ -1,1 +1,1 @@
-var mnemonic = "neutral easily blur crowd spatial drip toe evil place bridge field rice";
+var mnemonic = "pony rich diary company brother frost car talk game wire puppy crunch";

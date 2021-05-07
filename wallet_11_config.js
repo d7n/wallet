@@ -1,1 +1,1 @@
-var mnemonic = "deer toy alter danger fiber wall bicycle can gospel travel army egg";
+var mnemonic = "public orange ladder random pencil keen fun actress original ladder mammal hybrid";

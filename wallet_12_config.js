@@ -1,1 +1,1 @@
-var mnemonic = "snake cement scout local crazy champion tongue fragile syrup drama online citizen";
+var mnemonic = "maximum stumble shoot brown modify ozone vital sunset remain busy dance song";

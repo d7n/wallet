@@ -1,1 +1,1 @@
-var mnemonic = "gas load razor million patient fan tent lounge draw mistake release spend";
+var mnemonic = "remove denial visa claim faint ski pulse uniform must priority unique adult";

@@ -1,1 +1,1 @@
-var mnemonic = "shiver gap tide oak concert distance spatial among cabbage pull antique client";
+var mnemonic = "toy worry marriage empty cupboard flock join jungle finish tiny gossip myself";

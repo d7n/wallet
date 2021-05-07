@@ -1,1 +1,1 @@
-var mnemonic = "town spell parade beach lake glue occur twist mass wink rude plate";
+var mnemonic = "vote repair forward human canal latin city category bundle salute avoid jacket";

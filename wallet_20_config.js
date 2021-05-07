@@ -1,1 +1,1 @@
-var mnemonic = "warrior vocal item unable huge pair upset debate receive whip history yellow";
+var mnemonic = "quarter season flush assume ivory resist crunch estate round torch toast box";

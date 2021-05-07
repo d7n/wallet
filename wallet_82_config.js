@@ -1,1 +1,1 @@
-var mnemonic = "bulb amateur oven foster toast filter assault armed talk bubble cycle sauce";
+var mnemonic = "believe fog room ride fox lesson weather sock water just beach author";

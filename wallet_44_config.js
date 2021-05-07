@@ -1,1 +1,1 @@
-var mnemonic = "door knee grit uncle reform such cloth curious long wheat chapter true";
+var mnemonic = "drip table piano inspire blade frozen season join ridge approve neutral fan";

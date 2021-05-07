@@ -1,1 +1,1 @@
-var mnemonic = "bicycle mammal paper arrow model stomach estate inhale salad gift axis unveil";
+var mnemonic = "obey post pattern unique sadness warrior promote swear beauty film process crazy";

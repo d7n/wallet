@@ -1,1 +1,1 @@
-var mnemonic = "lazy clutch exhibit dirt scene marriage tent tail human explain toast away";
+var mnemonic = "home spike pull fit figure cement trust ordinary point appear identify return";

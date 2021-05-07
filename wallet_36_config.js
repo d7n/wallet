@@ -1,1 +1,1 @@
-var mnemonic = "they claw ozone draft weasel bread project reject inspire tired diet general";
+var mnemonic = "glue sun fossil drive best canoe wrap meat dentist power robust private";

@@ -1,1 +1,1 @@
-var mnemonic = "will disease lunch payment rhythm vessel boil appear sustain shrimp since topic";
+var mnemonic = "vehicle inquiry effort super main bean quarter help company judge thank bundle";

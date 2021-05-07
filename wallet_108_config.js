@@ -1,1 +1,1 @@
-var mnemonic = "curtain attend ethics injury vibrant clock cage slight glue assist soup barrel";
+var mnemonic = "begin exercise adult nut diesel fever tobacco flight crucial expect govern slam";

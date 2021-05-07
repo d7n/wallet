@@ -1,1 +1,1 @@
-var mnemonic = "stock float time ankle quiz slogan assume argue liberty ability crisp salon";
+var mnemonic = "grunt laundry fantasy drastic supreme brick network evolve elevator cupboard capital useful";

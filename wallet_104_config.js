@@ -1,1 +1,1 @@
-var mnemonic = "narrow tonight negative gift govern popular peasant nominee rule kiwi bridge swift";
+var mnemonic = "erode sweet glance fly saddle view indoor cargo thought hockey knife enlist";

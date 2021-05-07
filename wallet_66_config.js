@@ -1,1 +1,1 @@
-var mnemonic = "rotate youth bounce oppose apple whisper cannon spike cereal season table object";
+var mnemonic = "penalty soap awkward garbage venture there flip disagree neither bag chapter kitchen";

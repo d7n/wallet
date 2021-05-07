@@ -1,1 +1,1 @@
-var mnemonic = "only limit chest expand document model fancy piece turtle extra sound hill";
+var mnemonic = "glare silly true hospital dune auto sunset autumn prosper save mushroom icon";

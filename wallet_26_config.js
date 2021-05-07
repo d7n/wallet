@@ -1,1 +1,1 @@
-var mnemonic = "diet sketch couch lift write blouse piano goose menu defense walk idle";
+var mnemonic = "tuna mistake tail champion include member soap below again attend bamboo buffalo";

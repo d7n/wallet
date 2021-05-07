@@ -1,1 +1,1 @@
-var mnemonic = "initial happy two borrow finger urge absurd tumble champion picnic noise buddy";
+var mnemonic = "fury ketchup gather pen initial give expect spoon token dry must edge";

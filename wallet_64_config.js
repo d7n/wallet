@@ -1,1 +1,1 @@
-var mnemonic = "gossip pelican jump price start beach catch fox abstract dutch wedding spread";
+var mnemonic = "stage gate position oblige purse code upgrade fatal maze august dust roof";

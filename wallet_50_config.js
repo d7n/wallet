@@ -1,1 +1,1 @@
-var mnemonic = "garage actual grit flame all torch idle evoke dizzy coral jacket relief";
+var mnemonic = "forward loop spin limb rookie beach sock jungle two crucial text high";

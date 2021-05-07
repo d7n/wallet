@@ -1,1 +1,1 @@
-var mnemonic = "anchor fault income photo bus coffee wave isolate all frown forest door";
+var mnemonic = "denial hamster impose toilet just search idle cube steel fat consider disagree";

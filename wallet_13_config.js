@@ -1,1 +1,1 @@
-var mnemonic = "lunar inflict armed baby interest engage drop plug elephant use advance moral";
+var mnemonic = "unaware have film feed zero cotton such knock funny battle use silver";

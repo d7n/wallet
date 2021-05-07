@@ -1,1 +1,1 @@
-var mnemonic = "dance action catalog depend drastic narrow unhappy differ seven hidden always grain";
+var mnemonic = "lawsuit strategy multiply favorite gentle neutral maple motor level secret cute forward";

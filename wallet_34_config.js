@@ -1,1 +1,1 @@
-var mnemonic = "honey choose health actress mimic urban sponsor galaxy shaft market reduce afford";
+var mnemonic = "chunk ramp immense copy fat possible belt exclude promote act rough extra";

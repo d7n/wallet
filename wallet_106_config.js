@@ -1,1 +1,1 @@
-var mnemonic = "into alter true garage cushion shoot exhibit neck fossil owner veteran welcome";
+var mnemonic = "arrest hour relief always foam seed panther pretty predict craft lawsuit angle";

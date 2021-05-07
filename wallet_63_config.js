@@ -1,1 +1,1 @@
-var mnemonic = "school bean length grunt property only evidence learn cycle lunar awesome sea";
+var mnemonic = "sample govern wash broom broken opinion lemon pause depart benefit edit addict";

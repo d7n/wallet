@@ -1,1 +1,1 @@
-var mnemonic = "riot imitate express wing essence gauge mobile giant pole hybrid window zebra";
+var mnemonic = "scout just stadium ski fresh flavor risk govern coral captain flash poverty";

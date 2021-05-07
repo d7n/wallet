@@ -1,1 +1,1 @@
-var mnemonic = "inject melt velvet unfold attitude manual unfold hobby impose mutual matrix range";
+var mnemonic = "worth shoe input dutch force month claim where luxury flash wheat exotic";

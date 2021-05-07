@@ -1,1 +1,1 @@
-var mnemonic = "suffer situate best museum into wealth expect ostrich pottery cricket satisfy armed";
+var mnemonic = "surge trust unveil nation lyrics family flee live property ripple young quarter";

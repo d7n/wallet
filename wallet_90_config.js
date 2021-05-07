@@ -1,1 +1,1 @@
-var mnemonic = "area dad nerve tent fade salt spider wing couch hand cycle shoulder";
+var mnemonic = "obey game green file accuse laugh silk survey midnight theme voyage salt";

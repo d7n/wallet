@@ -1,1 +1,1 @@
-var mnemonic = "brass shrimp ring jaguar rhythm basic crack reflect blush spin life actual";
+var mnemonic = "equip miss mesh cluster rhythm resist culture flight image barely dilemma bone";

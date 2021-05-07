@@ -1,1 +1,1 @@
-var mnemonic = "stomach universe announce script another cluster need mail arm stomach dinner position";
+var mnemonic = "exile song consider hen carbon clay jacket skull suffer cage pyramid fatal";

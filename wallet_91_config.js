@@ -1,1 +1,1 @@
-var mnemonic = "emotion mail like castle carry sketch dune alert bus grace clarify ten";
+var mnemonic = "slender lounge fitness chapter category intact pepper update remember tool offer matter";

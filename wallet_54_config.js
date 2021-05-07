@@ -1,1 +1,1 @@
-var mnemonic = "limb suspect predict clutch talk bag stamp magnet fury unveil hidden canyon";
+var mnemonic = "quarter ketchup clutch post mistake fashion annual salad proof mystery legal leave";

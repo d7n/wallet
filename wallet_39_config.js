@@ -1,1 +1,1 @@
-var mnemonic = "peanut maple tuna rocket buffalo ostrich spider hobby web cloud loop stable";
+var mnemonic = "accident spike girl distance emerge ladder still reunion mail orchard share leave";

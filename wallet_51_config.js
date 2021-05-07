@@ -1,1 +1,1 @@
-var mnemonic = "repair helmet target disorder dignity lawn solve shallow cargo other guide ticket";
+var mnemonic = "century grace start depend between face undo ghost cloud blush material slide";

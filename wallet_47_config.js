@@ -1,1 +1,1 @@
-var mnemonic = "enter near decorate walk endorse nurse glue naive pitch board account device";
+var mnemonic = "vanish spider clump oyster social legend frost pool wait jazz two utility";

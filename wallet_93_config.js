@@ -1,1 +1,1 @@
-var mnemonic = "multiply poverty regular news consider focus copper exotic festival present cause reward";
+var mnemonic = "salad alien rain exhibit exercise very attract hover coin kite imitate blind";

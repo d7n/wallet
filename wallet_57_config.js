@@ -1,1 +1,1 @@
-var mnemonic = "usual garbage car laugh express tape pistol remove talent garbage route opinion";
+var mnemonic = "impact mercy panda paper inject unit around satoshi foot story frog clip";

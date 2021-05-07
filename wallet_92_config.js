@@ -1,1 +1,1 @@
-var mnemonic = "neck chuckle arch unlock juice man awesome size speed high hawk key";
+var mnemonic = "midnight lamp eye enrich obtain raccoon media spare suspect sun humor rack";

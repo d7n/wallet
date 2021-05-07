@@ -1,1 +1,1 @@
-var mnemonic = "toss level attend volcano amateur cabbage asthma clean gallery affair enough admit";
+var mnemonic = "arch hazard girl cost share slam globe above brisk media midnight salute";

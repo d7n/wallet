@@ -1,1 +1,1 @@
-var mnemonic = "wool display wash viable expect youth switch nuclear gas bus rice predict";
+var mnemonic = "vote gentle metal sense forward south junk office fatigue crumble brain client";

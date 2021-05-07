@@ -1,1 +1,1 @@
-var mnemonic = "foot position nature access filter cheese argue ozone tiny conduct edge circle";
+var mnemonic = "museum stone earn benefit doctor tumble cat crumble gap night slide pulse";

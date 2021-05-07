@@ -1,1 +1,1 @@
-var mnemonic = "nuclear mammal seek parade zoo bright tooth educate either bundle tent chair";
+var mnemonic = "animal umbrella enter tip project dry cost spice digital blade put this";

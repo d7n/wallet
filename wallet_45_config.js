@@ -1,1 +1,1 @@
-var mnemonic = "ice lend increase easily joy since finger pet garment frost grace strategy";
+var mnemonic = "card ahead ostrich mosquito silk valid noodle old sort nuclear exchange eye";

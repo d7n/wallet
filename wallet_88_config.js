@@ -1,1 +1,1 @@
-var mnemonic = "garden engage patch accident tape flip garage upgrade vacant allow chef infant";
+var mnemonic = "pull hollow boy inside mercy tray demise arch dash wisdom various pioneer";

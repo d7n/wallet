@@ -1,1 +1,1 @@
-var mnemonic = "autumn case door balance dry citizen cross special example soft guess fade";
+var mnemonic = "bubble soap term blanket piece clinic genre vessel airport rotate fossil author";

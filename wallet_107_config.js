@@ -1,1 +1,1 @@
-var mnemonic = "nothing middle ribbon unit discover avoid describe dad resist resist pioneer spider";
+var mnemonic = "axis ocean lion grunt noise few link depend pulse basket ship off";

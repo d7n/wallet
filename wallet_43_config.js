@@ -1,1 +1,1 @@
-var mnemonic = "ignore valid level acquire witness ring cancel electric kangaroo sand match become";
+var mnemonic = "fortune satisfy forum fee once mail level broccoli weather unusual hint scrap";

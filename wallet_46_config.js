@@ -1,1 +1,1 @@
-var mnemonic = "immune off lion mad snap seed grace glass minor trumpet indoor gauge";
+var mnemonic = "siege asthma ankle dash tone castle various garage sword exercise ivory fiction";

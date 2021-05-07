@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow flame nurse wish broom skirt thank want patrol curious hidden nice";
+var mnemonic = "chalk ring child reveal steak across naive document review still quiz annual";

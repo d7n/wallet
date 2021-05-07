@@ -1,1 +1,1 @@
-var mnemonic = "spirit issue senior almost ranch ladder cricket have enhance citizen tilt bubble";
+var mnemonic = "round draft nasty south crunch tribe aim toy glove rhythm illegal buzz";

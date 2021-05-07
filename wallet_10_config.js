@@ -1,1 +1,1 @@
-var mnemonic = "garment rookie risk accuse steak medal vast basic fruit twin success service";
+var mnemonic = "predict cycle deer stage bachelor arctic mutual believe wild equip wave hamster";

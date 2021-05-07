@@ -1,1 +1,1 @@
-var mnemonic = "amount universe save extra focus into cram mechanic betray sustain planet awake";
+var mnemonic = "order current wash until valve bright country update cost exercise legal ahead";

@@ -1,1 +1,1 @@
-var mnemonic = "short milk bus sugar flock rich lock catch wonder wave object hobby";
+var mnemonic = "shell energy clever desert where axis route conduct velvet practice wealth chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "exercise sentence uphold still spot gym submit imitate lesson else opera other";
+var mnemonic = "blanket captain slow then remove tooth material endorse knock purse you spin";

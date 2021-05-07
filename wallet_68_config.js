@@ -1,1 +1,1 @@
-var mnemonic = "alpha beyond scorpion already blood idle output canoe purse album worry ladder";
+var mnemonic = "math depend book bird seek audit elevator core math salt staff bid";

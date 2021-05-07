@@ -1,1 +1,1 @@
-var mnemonic = "cabbage section parade runway warm hawk soul east uphold canvas cake rural";
+var mnemonic = "divorce awake spray message say make double flat peasant midnight tide range";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue gather option room foot bike bomb ankle ordinary exist shed erode";
+var mnemonic = "cluster mistake coyote fantasy video ball merry shrimp viable doctor curve fun";

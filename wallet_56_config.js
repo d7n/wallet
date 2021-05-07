@@ -1,1 +1,1 @@
-var mnemonic = "claim cable truth minimum magnet travel wing elevator artist mix practice save";
+var mnemonic = "speak torch small favorite cycle rich sail tourist wall slab response affair";

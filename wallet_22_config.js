@@ -1,1 +1,1 @@
-var mnemonic = "holiday chalk staff impact virus direct battle easily mushroom choose swamp fossil";
+var mnemonic = "napkin stomach vicious enough hair opinion inch follow trash law glad farm";

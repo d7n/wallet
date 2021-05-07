@@ -1,1 +1,1 @@
-var mnemonic = "pottery source mail liar update throw valve response vacuum humor endless lift";
+var mnemonic = "bachelor trust before tower pool ugly time topic verb rain novel spatial";

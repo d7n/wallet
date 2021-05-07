@@ -1,1 +1,1 @@
-var mnemonic = "country broken dust sun click wasp pond width sword drama luxury outdoor";
+var mnemonic = "bounce false nasty current voyage saddle lunar squeeze unfold laundry primary magic";

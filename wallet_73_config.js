@@ -1,1 +1,1 @@
-var mnemonic = "shock unhappy order oven recall walk minute open black bird face speed";
+var mnemonic = "cousin enjoy play cute game enhance wood zero battle tourist unlock raven";

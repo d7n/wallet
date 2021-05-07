@@ -1,1 +1,1 @@
-var mnemonic = "rifle twice friend error reopen shiver myself science stick despair couch illness";
+var mnemonic = "elite also bulk wet slim aerobic pride jealous early duck message mad";

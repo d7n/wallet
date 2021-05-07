@@ -1,1 +1,1 @@
-var mnemonic = "trophy erode victory index leaf leg broken art dad tape pride garage";
+var mnemonic = "glare imitate park check found slide home shy surface divert rival magnet";

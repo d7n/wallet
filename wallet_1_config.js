@@ -1,1 +1,1 @@
-var mnemonic = "safe document era when grain labor sheriff brief holiday venue all carpet";
+var mnemonic = "bullet sphere vivid infant fuel saddle author debris enough settle glue minimum";

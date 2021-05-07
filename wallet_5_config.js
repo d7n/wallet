@@ -1,1 +1,1 @@
-var mnemonic = "frame clump million pet jealous theory gorilla police lab hold enemy crucial";
+var mnemonic = "letter aisle dignity torch key install street range above kitten ready blouse";

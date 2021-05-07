@@ -1,1 +1,1 @@
-var mnemonic = "acoustic sudden arrange piano theory length hard grain try crew slice buffalo";
+var mnemonic = "glad print scatter dolphin lonely industry armed type raise arch vote visa";

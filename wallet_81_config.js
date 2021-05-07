@@ -1,1 +1,1 @@
-var mnemonic = "name gain media work nation drink style joke curve curious control firm";
+var mnemonic = "gas vibrant minor chest curve august quiz ordinary ugly south nurse globe";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover elite sea theory link shock feel strategy explain wasp exhibit kangaroo";
+var mnemonic = "peanut buyer elevator husband pull immune blush glass old foot era isolate";

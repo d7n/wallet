@@ -1,1 +1,1 @@
-var mnemonic = "husband reason reveal save survey bird tower foot invite other gain expose";
+var mnemonic = "battle pig travel subject empty analyst beauty reason slice sword dawn powder";
