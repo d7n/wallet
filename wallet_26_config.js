@@ -1,1 +1,1 @@
-var mnemonic = "result famous extra garage party left topic antenna fatal require embrace angry";
+var mnemonic = "hello nice copper negative arctic captain entire light brain exhaust laundry sound";

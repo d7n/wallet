@@ -1,1 +1,1 @@
-var mnemonic = "limb glow receive attract mistake lounge wise say barely extend room budget";
+var mnemonic = "coyote gloom faith aim note boring fox comic strike circle genre device";

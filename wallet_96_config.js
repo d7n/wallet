@@ -1,1 +1,1 @@
-var mnemonic = "month goddess sad pulse claw nasty uniform risk indicate tomato mother about";
+var mnemonic = "custom hunt remember blade excuse kitten top mixture fortune badge virtual kangaroo";

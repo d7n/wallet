@@ -1,1 +1,1 @@
-var mnemonic = "apple season spot anger cram remind bounce cream verify fiber ritual dune";
+var mnemonic = "pudding crunch balance blame cotton bird ivory hour choice bomb stick tired";

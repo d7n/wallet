@@ -1,1 +1,1 @@
-var mnemonic = "panda educate mouse pipe illness achieve feel pupil jeans famous mix august";
+var mnemonic = "gaze spawn vault prefer whale future light outdoor biology nominee sibling wash";

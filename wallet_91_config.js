@@ -1,1 +1,1 @@
-var mnemonic = "damage night mountain congress list field any tilt quit purity comic birth";
+var mnemonic = "hour curtain firm field banner dolphin oblige crew gate april model wolf";

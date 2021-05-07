@@ -1,1 +1,1 @@
-var mnemonic = "close resource garbage industry song betray survey critic silly spell scale cactus";
+var mnemonic = "thumb tilt mesh arrange stumble desert angle tray spawn angry pair tray";

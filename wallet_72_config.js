@@ -1,1 +1,1 @@
-var mnemonic = "aspect release expose brand kid payment sadness stable hospital dry random empty";
+var mnemonic = "festival clutch item tattoo angle salt will wrong equip cheese dutch session";

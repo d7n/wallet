@@ -1,1 +1,1 @@
-var mnemonic = "young unaware unable ten obtain skin fat above pyramid patient neck hen";
+var mnemonic = "abuse floor birth click decrease race hazard mad virus desert answer modify";

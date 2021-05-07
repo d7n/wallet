@@ -1,1 +1,1 @@
-var mnemonic = "honey novel kite own autumn busy asthma orange call monkey vicious know";
+var mnemonic = "relax vague service core chunk matrix afford kangaroo achieve reward segment busy";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix dutch scorpion grant woman wave heavy fruit mind huge all yellow";
+var mnemonic = "medal edit mechanic fashion tip flame situate super sure siren exclude top";

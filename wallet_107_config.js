@@ -1,1 +1,1 @@
-var mnemonic = "fiction high hospital dash brand because ready admit town teach drink chief";
+var mnemonic = "lizard mammal choose screen elite remain leader banner age element decrease galaxy";

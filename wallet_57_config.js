@@ -1,1 +1,1 @@
-var mnemonic = "supply nurse mesh latin wealth label diesel minor undo hold acid panda";
+var mnemonic = "task prefer beach flavor stove game clarify sponsor close concert trial master";

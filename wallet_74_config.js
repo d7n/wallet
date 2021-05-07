@@ -1,1 +1,1 @@
-var mnemonic = "brass appear admit mouse harvest humble sorry merge acid basket universe surround";
+var mnemonic = "twist call divide ready inmate lumber october during grape marine mesh regret";

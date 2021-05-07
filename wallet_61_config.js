@@ -1,1 +1,1 @@
-var mnemonic = "call credit slow defy avocado spring guilt diamond example romance spice slam";
+var mnemonic = "use until renew enough virus piece rather enough bike render welcome achieve";

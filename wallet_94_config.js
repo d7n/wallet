@@ -1,1 +1,1 @@
-var mnemonic = "inform crunch kangaroo one cruel puzzle story ranch oppose mind slam swift";
+var mnemonic = "basket voice stable faint hill fancy hill awful cabbage bag project comic";

@@ -1,1 +1,1 @@
-var mnemonic = "about radar bar achieve fault civil forget weird mom cement type wisdom";
+var mnemonic = "swim prepare ranch glue blanket response bid draft oxygen melody rail coyote";

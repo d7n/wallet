@@ -1,1 +1,1 @@
-var mnemonic = "swamp general color just cloth economy below check print hazard annual acquire";
+var mnemonic = "wife autumn company erase title degree party art future maze spoon clerk";

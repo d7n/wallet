@@ -1,1 +1,1 @@
-var mnemonic = "ill final minute tuition control lawn point home decrease loud measure solution";
+var mnemonic = "rebel strike hybrid enemy bone civil impact mosquito rude rocket sense scan";

@@ -1,1 +1,1 @@
-var mnemonic = "garment profit unit series trumpet into dentist strike skirt assault throw current";
+var mnemonic = "hand avocado capital scorpion super delay amazing inner dial fox crucial whip";

@@ -1,1 +1,1 @@
-var mnemonic = "birth advance viable hurdle snack token obtain juice secret joy baby demise";
+var mnemonic = "season add diary arctic wrestle swing staff valid infant include pass heavy";

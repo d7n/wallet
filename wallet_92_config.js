@@ -1,1 +1,1 @@
-var mnemonic = "door table estate coyote seven hood citizen cereal scan unique seven mean";
+var mnemonic = "armor crack party rebuild dinosaur diagram fancy top boring mutual execute mammal";

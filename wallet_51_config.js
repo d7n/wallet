@@ -1,1 +1,1 @@
-var mnemonic = "click act lend toddler grief scrub dad enforce weather fine raven tail";
+var mnemonic = "series message stage afford jeans govern side drive about manage brain tip";

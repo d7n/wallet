@@ -1,1 +1,1 @@
-var mnemonic = "swift peanut present travel race chapter remind you approve lecture portion hole";
+var mnemonic = "uncover true setup movie kite swap crisp grief good rookie wash swift";

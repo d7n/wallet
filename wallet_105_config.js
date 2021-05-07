@@ -1,1 +1,1 @@
-var mnemonic = "pelican maple lunch real subject connect best kick bless trophy adapt festival";
+var mnemonic = "boost expect pen path universe sick year unable egg lion unlock fold";

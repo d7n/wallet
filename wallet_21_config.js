@@ -1,1 +1,1 @@
-var mnemonic = "index tip prefer dash require dismiss wage urge token replace chalk ivory";
+var mnemonic = "little dust joy silk phone unusual orchard twice situate dirt feature stable";

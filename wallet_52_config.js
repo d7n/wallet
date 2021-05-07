@@ -1,1 +1,1 @@
-var mnemonic = "faith duty notable clutch fan peanut glow pact squeeze hood indicate curve";
+var mnemonic = "culture cannon father face sunny turkey choice robust object method check lava";

@@ -1,1 +1,1 @@
-var mnemonic = "angry laptop rifle property say unit script zone dad amateur paddle caught";
+var mnemonic = "symbol material rely air clog cash submit wrestle high hip spend estate";

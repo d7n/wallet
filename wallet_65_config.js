@@ -1,1 +1,1 @@
-var mnemonic = "over zebra enact marine million guilt cause awake apart rebuild pioneer radar";
+var mnemonic = "journey bless slim aisle receive wedding broccoli express jazz afraid program aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "plunge umbrella combine fiscal radar detect whisper mercy anxiety myth spin expire";
+var mnemonic = "exotic sphere talk arrange economy cattle seven metal leader unable guilt staff";

@@ -1,1 +1,1 @@
-var mnemonic = "describe burden marriage shallow destroy dance evoke trap arrow news crawl tooth";
+var mnemonic = "assault girl gorilla theory dirt machine wet essay bright parrot nurse hungry";

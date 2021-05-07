@@ -1,1 +1,1 @@
-var mnemonic = "comic turkey flag door photo nation lazy mutual provide favorite brush boy";
+var mnemonic = "way biology chair gap nut long vicious water share sail wish dutch";

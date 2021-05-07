@@ -1,1 +1,1 @@
-var mnemonic = "craft jungle animal brush envelope want float normal oak swim leg equal";
+var mnemonic = "cotton robot grass dismiss eager talk mammal hope rigid dwarf hub toy";

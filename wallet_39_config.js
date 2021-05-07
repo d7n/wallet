@@ -1,1 +1,1 @@
-var mnemonic = "check program city shoe view mimic shuffle useless thing exhibit fury uncover";
+var mnemonic = "inmate raven blame wonder cover ahead jacket rib story borrow window can";

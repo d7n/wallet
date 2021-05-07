@@ -1,1 +1,1 @@
-var mnemonic = "purity gun quick inherit worth cake scorpion pledge impose clay dentist near";
+var mnemonic = "moral game reveal afraid silk clump spend typical vibrant exhibit mad canoe";

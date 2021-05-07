@@ -1,1 +1,1 @@
-var mnemonic = "depth proof cook piece cost craft tent illegal agree ceiling section reason";
+var mnemonic = "busy unknown bean lyrics outer asset orient urban wild rebuild attitude company";

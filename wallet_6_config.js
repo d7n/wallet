@@ -1,1 +1,1 @@
-var mnemonic = "trap team assume range dynamic infant width below shift blur grab catalog";
+var mnemonic = "blanket bridge adapt into math clock bundle stand evil finish dial earn";

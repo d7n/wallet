@@ -1,1 +1,1 @@
-var mnemonic = "property deal total reward access pole cost trial another cliff long system";
+var mnemonic = "town grab auto seminar section nation trip soccer dove fever merit improve";

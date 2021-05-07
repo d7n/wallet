@@ -1,1 +1,1 @@
-var mnemonic = "infant tuna garlic level east there frame empty era goat pen nut";
+var mnemonic = "faint buffalo enroll brown assume federal lift bread term awesome lady bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "tube crunch yellow cable apart basic acoustic ripple quiz planet select involve";
+var mnemonic = "exact ski snap purpose mammal fade leaf suffer shop near announce memory";

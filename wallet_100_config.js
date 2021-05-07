@@ -1,1 +1,1 @@
-var mnemonic = "lady media already chef iron million bullet cry drift pig punch divert";
+var mnemonic = "stock north arrange spy label alcohol own used hour element tray price";

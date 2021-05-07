@@ -1,1 +1,1 @@
-var mnemonic = "pause false suggest remember pattern lawsuit glide boss expire small width easy";
+var mnemonic = "erosion unit access alter pitch regular glare network tilt else carbon smart";

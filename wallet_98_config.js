@@ -1,1 +1,1 @@
-var mnemonic = "catalog actor have bullet joke over transfer salmon kite abstract park spend";
+var mnemonic = "jewel plate rely tail banner cost arrest dish enough this exchange shuffle";

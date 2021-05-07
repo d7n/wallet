@@ -1,1 +1,1 @@
-var mnemonic = "state region nice symptom kind echo gorilla rescue vivid floor expect antique";
+var mnemonic = "orange garage error meat evoke bounce inside celery region broken evoke jelly";

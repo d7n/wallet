@@ -1,1 +1,1 @@
-var mnemonic = "tuition pull slogan ankle essay advice pattern radio clever kidney pass affair";
+var mnemonic = "describe tongue license obey inflict equal cabin strong appear copper bullet oblige";

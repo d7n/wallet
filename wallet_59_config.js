@@ -1,1 +1,1 @@
-var mnemonic = "evil verb canal beauty upset equip symptom goat together congress urge limb";
+var mnemonic = "remain empower turn asset polar slam feel cry job neither rapid salad";

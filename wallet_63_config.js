@@ -1,1 +1,1 @@
-var mnemonic = "venue virus rescue where imitate noodle army peace tray stuff suit drift";
+var mnemonic = "shock brown silly stage pottery dinosaur body sausage embrace effort luxury claim";

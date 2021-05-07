@@ -1,1 +1,1 @@
-var mnemonic = "cereal curtain unfair disorder fly hello oil coffee miss endless vanish grab";
+var mnemonic = "arena spider dignity rescue tongue try snake just latin turtle rare vicious";

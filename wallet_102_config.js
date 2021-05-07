@@ -1,1 +1,1 @@
-var mnemonic = "silk limb guitar parent exercise alley build dwarf soup correct because cart";
+var mnemonic = "ketchup abuse tilt hill stove daring choice peasant cruel ranch baby sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "venture visual visual trigger swim father sadness such happy gasp kitchen floor";
+var mnemonic = "mushroom moon twenty stumble cheap leg book subject drama false burden silent";

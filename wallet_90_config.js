@@ -1,1 +1,1 @@
-var mnemonic = "cook evil unfair where carry unique orbit blood tone cabin unhappy jungle";
+var mnemonic = "drink drama visa mean venue arctic fly tide inquiry near wisdom solution";

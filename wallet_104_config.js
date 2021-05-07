@@ -1,1 +1,1 @@
-var mnemonic = "afraid culture kid knife toss lift soup weekend impose cabbage bid brave";
+var mnemonic = "jacket pride pioneer idle intact useful reform music sun relax alley donkey";

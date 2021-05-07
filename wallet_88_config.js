@@ -1,1 +1,1 @@
-var mnemonic = "segment buffalo certain oven attend swim inner trophy plug clerk fortune crouch";
+var mnemonic = "kit all fork target recycle airport gesture sister blood problem deputy move";

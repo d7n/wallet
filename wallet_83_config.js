@@ -1,1 +1,1 @@
-var mnemonic = "congress fashion rail tilt cupboard squirrel distance palace zoo iron odor clarify";
+var mnemonic = "deposit author spirit deer siren hold exotic room stadium credit twice junior";

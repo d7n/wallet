@@ -1,1 +1,1 @@
-var mnemonic = "around salute intact guess valid twice erase win mixed blast nurse scatter";
+var mnemonic = "sing tired require image angry scout pen swallow flag crash rookie describe";

@@ -1,1 +1,1 @@
-var mnemonic = "surround kind pause cheap trust pool seek cabbage dwarf trend chronic wash";
+var mnemonic = "sentence labor yard old bird cup wood only chest diesel antenna wave";

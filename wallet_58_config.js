@@ -1,1 +1,1 @@
-var mnemonic = "govern submit ramp junk surprise tube stove build magnet stomach female correct";
+var mnemonic = "plunge valve sentence output pilot clump boil cover afraid fresh option tell";

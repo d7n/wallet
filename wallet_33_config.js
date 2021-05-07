@@ -1,1 +1,1 @@
-var mnemonic = "purpose abstract heavy way example sustain skin cotton humble ahead milk crack";
+var mnemonic = "sing chef raise entry bird speed cinnamon typical crowd paddle recall result";

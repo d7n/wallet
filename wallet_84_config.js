@@ -1,1 +1,1 @@
-var mnemonic = "burst portion pen whip shallow scale electric coyote damp business summer chapter";
+var mnemonic = "cousin excess erupt lizard sport resource theory giraffe endless glue fish spare";

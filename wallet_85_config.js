@@ -1,1 +1,1 @@
-var mnemonic = "echo give rural session shallow elevator alcohol unique toward balance coil father";
+var mnemonic = "toy hungry fabric fiscal garden shell eternal lazy labor ritual adult typical";

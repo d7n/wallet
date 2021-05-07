@@ -1,1 +1,1 @@
-var mnemonic = "viable wing bottom excess inner carry cotton accident rookie spin portion unfold";
+var mnemonic = "raw arch morning stamp obtain sword cost water frame voyage fashion wrap";

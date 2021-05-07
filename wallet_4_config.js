@@ -1,1 +1,1 @@
-var mnemonic = "speak already away protect loyal fiber neither helmet wage gravity prepare photo";
+var mnemonic = "design account retreat hungry blade build total dawn afford motor cherry cluster";

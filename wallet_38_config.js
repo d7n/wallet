@@ -1,1 +1,1 @@
-var mnemonic = "account buzz comfort pupil mushroom trigger upset dish tomato over typical mask";
+var mnemonic = "autumn essence victory exhaust jelly skin corn blossom random bar mistake aerobic";

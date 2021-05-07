@@ -1,1 +1,1 @@
-var mnemonic = "alien shuffle wet merry until enrich worry lyrics usual gap twin mirror";
+var mnemonic = "style skull luggage atom spatial depth cash six time kiss eagle carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "canal record smile tiny bar hundred sphere genre monkey earn weekend income";
+var mnemonic = "steak garage genre fuel avoid act decline afford mention spare nature final";

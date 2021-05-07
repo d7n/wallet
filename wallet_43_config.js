@@ -1,1 +1,1 @@
-var mnemonic = "suggest unit leg mystery bunker pistol screen inform invite raw marble club";
+var mnemonic = "tilt join whisper basket depth gown miss month dolphin hole road inject";

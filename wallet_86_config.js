@@ -1,1 +1,1 @@
-var mnemonic = "fee refuse media sample usual spice imitate amount betray art syrup book";
+var mnemonic = "inflict service fluid midnight rude chunk film panic token media wave wood";

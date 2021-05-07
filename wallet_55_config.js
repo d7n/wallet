@@ -1,1 +1,1 @@
-var mnemonic = "provide picture wise question spell math mimic snow include code coconut manual";
+var mnemonic = "trend tongue jelly artefact safe venture creek soccer stamp blood sadness motor";

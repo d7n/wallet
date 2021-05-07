@@ -1,1 +1,1 @@
-var mnemonic = "pitch oxygen fire giraffe pencil thumb bitter load execute trophy screen word";
+var mnemonic = "female appear tree regret wine solution service arrange myth skirt desk purchase";

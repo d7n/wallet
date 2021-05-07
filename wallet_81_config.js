@@ -1,1 +1,1 @@
-var mnemonic = "foam liquid wage tiger chronic carbon indoor segment marble upper other jewel";
+var mnemonic = "crystal biology april cage strong tail paper enact during library index oyster";

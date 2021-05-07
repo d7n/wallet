@@ -1,1 +1,1 @@
-var mnemonic = "indicate toddler shield example brain width genius earn lemon assault churn palm";
+var mnemonic = "once peace close market humble pledge rocket avocado air other multiply claim";

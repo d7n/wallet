@@ -1,1 +1,1 @@
-var mnemonic = "worry rain shy gadget erode tortoise tent north fitness meadow error fan";
+var mnemonic = "essence picnic armed stamp sail ski demise robot present hat capital shop";

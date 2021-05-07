@@ -1,1 +1,1 @@
-var mnemonic = "mandate citizen appear camera fiscal speak help orange mercy ice shoot distance";
+var mnemonic = "amount junior shy topple citizen actor blouse federal acquire other give expose";

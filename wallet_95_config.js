@@ -1,1 +1,1 @@
-var mnemonic = "hollow grow diary control theory lava wealth dynamic teach biology want vibrant";
+var mnemonic = "erode leg sand oyster arctic retreat pigeon intact common minor juice prepare";

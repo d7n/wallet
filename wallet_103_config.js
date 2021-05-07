@@ -1,1 +1,1 @@
-var mnemonic = "sentence wire define pioneer celery file amazing dune much satisfy chief ahead";
+var mnemonic = "upgrade struggle average cruise author meat bridge say small promote atom manage";

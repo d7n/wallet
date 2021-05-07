@@ -1,1 +1,1 @@
-var mnemonic = "tilt horse avoid fitness total bus capable quote shoulder either give dignity";
+var mnemonic = "father service dish olive hidden hair ozone immense rose veteran purse business";

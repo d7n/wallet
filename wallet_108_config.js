@@ -1,1 +1,1 @@
-var mnemonic = "anchor enjoy evoke shoe sketch kid know face market devote that crane";
+var mnemonic = "swear few solution risk seven oak code wing loyal develop aerobic win";

@@ -1,1 +1,1 @@
-var mnemonic = "country mouse cluster suspect squirrel whip grab pig cruise bread battle brand";
+var mnemonic = "talent rebuild inspire hard oblige there paper tornado menu ocean excess pair";

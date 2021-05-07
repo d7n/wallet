@@ -1,1 +1,1 @@
-var mnemonic = "bar used spring cabbage hunt grid discover tiny spread fame kiwi crystal";
+var mnemonic = "walnut trumpet uncover view toss transfer winner large disease mother brick awkward";

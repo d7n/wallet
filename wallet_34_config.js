@@ -1,1 +1,1 @@
-var mnemonic = "survey school shuffle combine car grain vault magnet since deer tissue giraffe";
+var mnemonic = "void pattern solution brand hire guilt easy turn head leg subject execute";

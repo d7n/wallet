@@ -1,1 +1,1 @@
-var mnemonic = "limb tree party used scissors lounge analyst column rent glare scare cool";
+var mnemonic = "subway erode peasant produce sketch hungry shuffle borrow slender cupboard off month";

@@ -1,1 +1,1 @@
-var mnemonic = "gasp deny lecture museum execute fiction patch area warrior actor suggest around";
+var mnemonic = "barrel maid clerk canal mixed celery live history away lake absorb type";

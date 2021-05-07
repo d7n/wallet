@@ -1,1 +1,1 @@
-var mnemonic = "chest ring knock dose lava either setup profit curtain drill room enforce";
+var mnemonic = "inquiry print hockey thank tomorrow liberty supreme edge route rich initial envelope";

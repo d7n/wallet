@@ -1,1 +1,1 @@
-var mnemonic = "never hint motor spend topic coach claim daring miss rose echo draft";
+var mnemonic = "mind senior jar gain ladder flavor spider basket survey either brisk dad";

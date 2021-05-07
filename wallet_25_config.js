@@ -1,1 +1,1 @@
-var mnemonic = "orphan accuse crop spot display goose tumble final cheese peasant romance strategy";
+var mnemonic = "version reopen key tell wink help code also glimpse blame frame allow";

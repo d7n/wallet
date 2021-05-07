@@ -1,1 +1,1 @@
-var mnemonic = "fabric moment brand keen vital unable behave vacuum struggle fog monitor prepare";
+var mnemonic = "thunder sadness famous worry crime source topple wild sad rude month benefit";

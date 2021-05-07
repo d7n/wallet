@@ -1,1 +1,1 @@
-var mnemonic = "infant cigar neck soda sport pull disorder camp behind bomb memory float";
+var mnemonic = "sad this capable vanish absent impact spoil case injury tribe manual bar";

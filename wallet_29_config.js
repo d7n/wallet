@@ -1,1 +1,1 @@
-var mnemonic = "soap poet arena spider canvas select enable jewel limb arm leaf summer";
+var mnemonic = "wood sadness safe actor scene fiscal time lobster open frog casino quality";

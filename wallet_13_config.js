@@ -1,1 +1,1 @@
-var mnemonic = "staff purpose upset bottom skull champion smart entry excite mammal tired base";
+var mnemonic = "method top cabbage open near boring cram exclude caution slab embody donate";

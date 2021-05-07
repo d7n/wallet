@@ -1,1 +1,1 @@
-var mnemonic = "nurse pet kangaroo index absent major awkward check proud try sausage shy";
+var mnemonic = "work zone pause maid pottery device legal rare learn hire pelican tip";
