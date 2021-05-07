@@ -1,1 +1,1 @@
-var mnemonic = "base orphan harbor cereal penalty engine tuition wire plunge magnet return car";
+var mnemonic = "april rose sorry wealth kingdom bubble throw sea apology gate warrior pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "sell proud inmate behind faculty stock brisk pudding switch walnut admit journey";
+var mnemonic = "able cup maximum mean visual canyon neutral diesel series tenant skin again";

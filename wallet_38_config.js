@@ -1,1 +1,1 @@
-var mnemonic = "first follow slight quality tortoise wait carbon toward area law tool element";
+var mnemonic = "pelican rocket devote pill fade speed subject vital occur number crush casino";

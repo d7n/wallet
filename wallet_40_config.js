@@ -1,1 +1,1 @@
-var mnemonic = "play leg minimum kind razor speed token journey worry obscure traffic pudding";
+var mnemonic = "kid lift model paper cushion banner mosquito drink panda net useful high";

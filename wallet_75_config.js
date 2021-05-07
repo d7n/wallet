@@ -1,1 +1,1 @@
-var mnemonic = "auto author beyond exercise edge correct tomato lucky save source aspect segment";
+var mnemonic = "welcome retire tongue bench result build satoshi pause argue milk album drip";

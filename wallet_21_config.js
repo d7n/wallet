@@ -1,1 +1,1 @@
-var mnemonic = "legal scan divide abandon file agent lobster loyal wire rescue cradle custom";
+var mnemonic = "swap benefit thunder scare scene keen miracle retreat idle evoke upset limit";

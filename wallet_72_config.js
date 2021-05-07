@@ -1,1 +1,1 @@
-var mnemonic = "town law stumble tattoo start road van jealous turkey mistake into cliff";
+var mnemonic = "easily wide roast junk can pill ethics random consider since reveal van";

@@ -1,1 +1,1 @@
-var mnemonic = "oven grape clump multiply million box miss attend pupil capital since piano";
+var mnemonic = "someone excuse shift clarify minimum goose olive mobile object hold trade umbrella";

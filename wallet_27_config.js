@@ -1,1 +1,1 @@
-var mnemonic = "run nut globe faith punch birth hybrid loyal pretty charge swamp civil";
+var mnemonic = "behave zoo camera wash exhibit snack job popular pause waste profit payment";

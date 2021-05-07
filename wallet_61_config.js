@@ -1,1 +1,1 @@
-var mnemonic = "unveil side march elbow will choice wish meat very expose flush memory";
+var mnemonic = "day wrist hole beach tree able light goat chuckle already dolphin shine";

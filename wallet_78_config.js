@@ -1,1 +1,1 @@
-var mnemonic = "ivory pudding skill burden people usual pelican carry uncover noise announce glass";
+var mnemonic = "unlock sweet eye situate member private shoe thrive one cereal special dirt";

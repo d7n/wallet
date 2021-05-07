@@ -1,1 +1,1 @@
-var mnemonic = "put fluid mandate casino amused discover dilemma depend account will craft silk";
+var mnemonic = "also ball tray rival rather renew correct again mind grief slice glance";

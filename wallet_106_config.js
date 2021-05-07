@@ -1,1 +1,1 @@
-var mnemonic = "disorder impose enable mystery beyond arch excite tail cloth rare coral quarter";
+var mnemonic = "clean satisfy foot drum uncover photo farm filter cargo hawk print drift";

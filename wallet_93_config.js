@@ -1,1 +1,1 @@
-var mnemonic = "hen poem pole later exchange skate medal crop stem sunset ready find";
+var mnemonic = "obey hand lonely sand floor divert arrive chef baby glimpse obvious globe";

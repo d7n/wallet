@@ -1,1 +1,1 @@
-var mnemonic = "goddess pulp differ trophy empty issue kingdom forward much board pole park";
+var mnemonic = "electric general elbow bean avocado load crawl unique journey legend health track";

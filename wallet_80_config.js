@@ -1,1 +1,1 @@
-var mnemonic = "drip emerge humble father scrub angry pizza canoe buyer panda web suspect";
+var mnemonic = "sunset child odor exhaust soup sweet sell cute spot lonely extend effort";

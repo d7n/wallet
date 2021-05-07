@@ -1,1 +1,1 @@
-var mnemonic = "abstract machine young ice bring plug stairs spider memory advance sunny popular";
+var mnemonic = "poverty illness cook hollow major stomach coach crush amused private lecture engage";

@@ -1,1 +1,1 @@
-var mnemonic = "predict glory era sleep injury document citizen economy normal mother sing crash";
+var mnemonic = "tone vague addict behind pupil siege ignore glass wide voice tip donor";

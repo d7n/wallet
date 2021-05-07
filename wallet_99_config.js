@@ -1,1 +1,1 @@
-var mnemonic = "print original typical gold urge fantasy enough frozen proud yellow close submit";
+var mnemonic = "energy tent capable debate electric symbol play oven asset acquire rally rain";

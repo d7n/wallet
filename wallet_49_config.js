@@ -1,1 +1,1 @@
-var mnemonic = "shy melody kit allow tortoise afraid master coffee rocket picnic luggage whisper";
+var mnemonic = "toast pole gossip title throw dose release liar divorce hockey goose juice";

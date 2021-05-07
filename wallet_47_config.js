@@ -1,1 +1,1 @@
-var mnemonic = "seek ankle bar increase supply donor cotton vehicle practice used pause universe";
+var mnemonic = "age immense ticket situate wonder pelican arch squeeze song foster pink rare";

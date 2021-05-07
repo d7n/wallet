@@ -1,1 +1,1 @@
-var mnemonic = "tongue reopen patient dad furnace laugh depth diary begin asset argue permit";
+var mnemonic = "duty also spoil pottery loop slow illegal one furnace sample lounge supply";

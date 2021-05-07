@@ -1,1 +1,1 @@
-var mnemonic = "mouse birth remind rude length endorse clever evoke humble detail happy panel";
+var mnemonic = "cliff salmon cabin sing antenna worry own recall scorpion add large source";

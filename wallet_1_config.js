@@ -1,1 +1,1 @@
-var mnemonic = "meat stuff cage lamp library erase face they glad fabric hospital approve";
+var mnemonic = "come fiscal banner someone image mechanic empty health strong reopen siege choose";

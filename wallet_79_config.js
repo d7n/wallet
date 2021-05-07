@@ -1,1 +1,1 @@
-var mnemonic = "omit bean elder diagram disease priority solution mind seek daughter worth pill";
+var mnemonic = "remind mouse roast lizard nut soul item arctic what estate duck romance";

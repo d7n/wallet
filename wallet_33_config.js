@@ -1,1 +1,1 @@
-var mnemonic = "survey else brother match win peasant enrich pelican dose reveal whip muscle";
+var mnemonic = "develop cherry purchase boat open crawl fuel between illness together rocket lesson";

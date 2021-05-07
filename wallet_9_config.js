@@ -1,1 +1,1 @@
-var mnemonic = "pet purpose runway afraid hill denial crawl essay task bachelor steel hedgehog";
+var mnemonic = "diamond question click layer grocery sibling long eager hood dawn banner one";

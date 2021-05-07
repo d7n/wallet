@@ -1,1 +1,1 @@
-var mnemonic = "early audit isolate detail force finish average prevent foster buyer faculty vague";
+var mnemonic = "video slide praise choice elegant badge squirrel absurd add orange parrot spread";

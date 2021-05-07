@@ -1,1 +1,1 @@
-var mnemonic = "wheat almost nature have piece vast egg train system dinosaur slam laundry";
+var mnemonic = "situate yard canoe vivid assume abandon desk square cabin exist spring lion";

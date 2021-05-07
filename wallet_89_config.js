@@ -1,1 +1,1 @@
-var mnemonic = "away disease crunch office corn below inject recycle cactus evoke clever tag";
+var mnemonic = "denial letter anchor cloud vicious volcano attack ship execute tube settle middle";

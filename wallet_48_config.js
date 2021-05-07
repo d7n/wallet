@@ -1,1 +1,1 @@
-var mnemonic = "female tiny bamboo joke plunge humble sock super language already retire achieve";
+var mnemonic = "social climb cube enforce invite put analyst pepper adapt endorse inform cute";

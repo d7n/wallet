@@ -1,1 +1,1 @@
-var mnemonic = "old more mystery fortune march order better cupboard office grocery wheat above";
+var mnemonic = "plunge special glare mandate depth spatial include myself holiday demand apart there";

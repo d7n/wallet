@@ -1,1 +1,1 @@
-var mnemonic = "below antenna legal culture canoe vault maximum harbor fatigue deny market fluid";
+var mnemonic = "decade act since disagree taste picture casual perfect develop wrap tunnel around";

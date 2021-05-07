@@ -1,1 +1,1 @@
-var mnemonic = "drip lobster box antique cannon benefit picture dose yard clap wait keep";
+var mnemonic = "olympic habit sad parrot fancy name original twin matrix retire web emerge";

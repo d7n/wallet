@@ -1,1 +1,1 @@
-var mnemonic = "middle march echo exercise hockey month glue mango afraid property skirt hockey";
+var mnemonic = "viable describe half protect mercy yellow mountain protect exchange security wish smart";

@@ -1,1 +1,1 @@
-var mnemonic = "tongue unfair napkin robot barrel spike recipe brave ability fog resemble twenty";
+var mnemonic = "ordinary pistol song weasel today human output split figure uphold sphere split";

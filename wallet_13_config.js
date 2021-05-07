@@ -1,1 +1,1 @@
-var mnemonic = "flower direct rose renew moral panel aisle leaf parade stove fitness bundle";
+var mnemonic = "vault rail open eight one layer walk attitude scale knee inhale wing";

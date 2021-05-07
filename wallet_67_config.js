@@ -1,1 +1,1 @@
-var mnemonic = "fatigue dove chunk novel satisfy alley patch giraffe move glare unknown much";
+var mnemonic = "mistake barrel volcano they stable endless walk vague ensure jungle crucial coin";

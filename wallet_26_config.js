@@ -1,1 +1,1 @@
-var mnemonic = "sphere robot typical before elevator year trumpet ill bone lift deny nothing";
+var mnemonic = "mention maple math frog unfold genius pistol indoor parade roof bonus predict";

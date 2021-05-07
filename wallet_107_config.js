@@ -1,1 +1,1 @@
-var mnemonic = "awkward jacket south gorilla online chest mad purity foster escape cinnamon oppose";
+var mnemonic = "senior luggage protect there mention cradle draw crop trust early inner obtain";

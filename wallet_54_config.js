@@ -1,1 +1,1 @@
-var mnemonic = "strong monster whale stick weasel lottery old they wrap strategy title drift";
+var mnemonic = "useless sniff deal rich prepare moment urban pyramid wide wolf turtle village";

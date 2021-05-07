@@ -1,1 +1,1 @@
-var mnemonic = "volume regret voyage decide few trial clerk soon vacuum stem car morning";
+var mnemonic = "family dune what bone cross shrug series promote soon permit betray orphan";

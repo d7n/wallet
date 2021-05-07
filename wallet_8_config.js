@@ -1,1 +1,1 @@
-var mnemonic = "team system debate surround derive order favorite honey engine neglect slogan divide";
+var mnemonic = "pepper scale okay hurry adult sauce little bus wealth push leg month";

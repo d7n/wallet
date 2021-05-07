@@ -1,1 +1,1 @@
-var mnemonic = "cause current height toe ride vehicle crush this goat ensure inject couple";
+var mnemonic = "bachelor fun light trigger oil approve sail network liquid hip crawl among";

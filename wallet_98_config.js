@@ -1,1 +1,1 @@
-var mnemonic = "vendor shaft link crack legend brass crowd swarm expand garage feature weapon";
+var mnemonic = "social girl canoe develop common excuse napkin nice crawl rhythm kick wrong";

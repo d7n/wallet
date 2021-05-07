@@ -1,1 +1,1 @@
-var mnemonic = "visa mushroom unusual child spot nice scout tide holiday genius blood three";
+var mnemonic = "trigger ordinary estate video behind moral month pizza champion tube whip garden";

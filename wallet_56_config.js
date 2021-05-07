@@ -1,1 +1,1 @@
-var mnemonic = "cool all during zebra vintage gain table bone club dignity ankle sign";
+var mnemonic = "piano fix pond become clay enter behave glide describe parade apple tobacco";

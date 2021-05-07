@@ -1,1 +1,1 @@
-var mnemonic = "uphold brick merge come clay artefact spirit drum dish truly chicken burst";
+var mnemonic = "near sniff glow mind fruit empty casino near cactus skirt waste tornado";

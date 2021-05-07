@@ -1,1 +1,1 @@
-var mnemonic = "shield draw junk airport turn sing slab frog cricket modify adapt virus";
+var mnemonic = "order mule grace build act project patrol weather creek chat better mouse";

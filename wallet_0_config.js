@@ -1,1 +1,1 @@
-var mnemonic = "check crop claw attitude indoor spatial venue note limit deposit potato party";
+var mnemonic = "shiver skill connect grass fabric aim use plunge cloth mother kiss choose";

@@ -1,1 +1,1 @@
-var mnemonic = "card hint rich time fiscal unknown survey impulse urge harsh genius slice";
+var mnemonic = "extra device nothing tooth purchase detect video eternal banner one level aim";

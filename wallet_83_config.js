@@ -1,1 +1,1 @@
-var mnemonic = "trumpet valve diet jazz session gauge blanket deliver cycle shoulder robot similar";
+var mnemonic = "mean family update illness edge bicycle cry roof spawn crumble crisp group";

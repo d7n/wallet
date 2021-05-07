@@ -1,1 +1,1 @@
-var mnemonic = "gate hurry vast hybrid energy middle entire enjoy purpose stereo bounce person";
+var mnemonic = "cabin regret vocal ugly brave group hope lobster silver wink harbor mouse";

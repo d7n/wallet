@@ -1,1 +1,1 @@
-var mnemonic = "dirt arm wire vast valid peasant spread deposit lift easily affair shoot";
+var mnemonic = "senior portion laundry shrug warfare rack question foot hurdle valid outer across";

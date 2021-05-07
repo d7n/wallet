@@ -1,1 +1,1 @@
-var mnemonic = "mountain carpet attitude addict unit other six tooth ring swap police surge";
+var mnemonic = "message cabin swing million guitar end pumpkin axis right ride blind domain";

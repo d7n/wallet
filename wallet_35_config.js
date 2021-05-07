@@ -1,1 +1,1 @@
-var mnemonic = "inside knock invite shed useless fall load scale avoid friend wise suit";
+var mnemonic = "tumble father gloom crack jealous exclude knock smoke bench genius burger twenty";

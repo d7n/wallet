@@ -1,1 +1,1 @@
-var mnemonic = "talent kit undo annual angle country bright argue case invite twist leg";
+var mnemonic = "corn secret neutral pistol ancient offer describe make sword always diary tree";

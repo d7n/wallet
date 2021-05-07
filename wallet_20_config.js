@@ -1,1 +1,1 @@
-var mnemonic = "unaware island require ride aspect helmet poverty degree churn blush face tenant";
+var mnemonic = "account certain chest wasp quiz rotate urban amateur reduce fiction about industry";

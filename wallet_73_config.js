@@ -1,1 +1,1 @@
-var mnemonic = "weasel lab youth come street cover remind victory speed obvious world coach";
+var mnemonic = "depend tuna release chuckle wage erase canvas wool armor pipe despair raw";

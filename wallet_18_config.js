@@ -1,1 +1,1 @@
-var mnemonic = "solve galaxy turtle unveil dial club draw pride sick kit ritual truly";
+var mnemonic = "leave mule clinic coin burger nephew true drive casual peace file weird";

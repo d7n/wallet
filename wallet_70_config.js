@@ -1,1 +1,1 @@
-var mnemonic = "frame clean cupboard gadget purchase fold kite cigar absorb coin actual tuition";
+var mnemonic = "liquid rotate rather offer response desert blossom ivory fine radar detail profit";

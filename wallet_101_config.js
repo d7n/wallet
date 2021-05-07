@@ -1,1 +1,1 @@
-var mnemonic = "defense glue melody december pottery giraffe edit high opinion slender civil box";
+var mnemonic = "era stuff roast train manual obey tobacco scale describe someone cabbage assault";

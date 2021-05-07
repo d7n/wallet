@@ -1,1 +1,1 @@
-var mnemonic = "price chest advance pelican spend warm country certain risk bullet unit ranch";
+var mnemonic = "frost note ladder burden vehicle slush large install infant chuckle scissors cart";

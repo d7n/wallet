@@ -1,1 +1,1 @@
-var mnemonic = "either will invite soda drama opinion corn blue library famous stone scheme";
+var mnemonic = "actress orchard hockey guilt final gentle glow gather until inner sun body";

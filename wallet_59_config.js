@@ -1,1 +1,1 @@
-var mnemonic = "master decorate pave situate purity tuition defy loud cheese feature giraffe elevator";
+var mnemonic = "produce season once lyrics torch install soldier decade forest year once news";

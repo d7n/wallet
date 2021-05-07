@@ -1,1 +1,1 @@
-var mnemonic = "egg maximum spoon wash tank benefit weather genuine valley gap echo shoulder";
+var mnemonic = "range pull poet ugly toilet celery flock during assist arrow blind hedgehog";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit library spend coral matter code aware butter mind era width october";
+var mnemonic = "bonus replace check fury camera will plunge false velvet twin popular success";

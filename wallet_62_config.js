@@ -1,1 +1,1 @@
-var mnemonic = "toddler theory later dwarf glimpse satisfy tongue wet deputy avoid attend announce";
+var mnemonic = "arrow bubble behind stable engage nut police ribbon mushroom defense unlock chief";

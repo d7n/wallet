@@ -1,1 +1,1 @@
-var mnemonic = "harsh dish frozen dove stool food truck blouse symbol matter accident crystal";
+var mnemonic = "panel mixture neither deal brick crucial oyster blush elite bid film garden";

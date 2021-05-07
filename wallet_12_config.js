@@ -1,1 +1,1 @@
-var mnemonic = "first cheese armed second hazard kitchen rail smart few build mule old";
+var mnemonic = "there ivory shadow crucial essence clarify bright keep behind improve tumble keen";

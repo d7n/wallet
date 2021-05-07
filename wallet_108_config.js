@@ -1,1 +1,1 @@
-var mnemonic = "recall orient tongue ill dumb cube museum other crop rival cream water";
+var mnemonic = "mass pencil vendor orphan police explain myself bench used object cash decide";

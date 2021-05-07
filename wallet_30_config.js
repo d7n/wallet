@@ -1,1 +1,1 @@
-var mnemonic = "stool bullet cabin chicken notice heart warrior rate lecture toy october girl";
+var mnemonic = "brown another umbrella extend script common chaos rough uphold buddy robot gold";

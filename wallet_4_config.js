@@ -1,1 +1,1 @@
-var mnemonic = "myth fashion team awful sell coil runway method vague fee fix hair";
+var mnemonic = "penalty spatial accuse wink nurse ring smile home main federal sting talent";

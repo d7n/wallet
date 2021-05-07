@@ -1,1 +1,1 @@
-var mnemonic = "situate flip delay enjoy inquiry recipe clever smoke version boy total next";
+var mnemonic = "firm muscle panda test ice autumn visa radar lawsuit heart since since";

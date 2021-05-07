@@ -1,1 +1,1 @@
-var mnemonic = "reason wall vacuum hawk drink inform duck vital fiscal half sell unique";
+var mnemonic = "pudding lounge bridge apart dress link ceiling wheat field dignity sugar shove";

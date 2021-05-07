@@ -1,1 +1,1 @@
-var mnemonic = "glove blur ketchup layer dress elephant boil student shell enact stay inherit";
+var mnemonic = "firm outside spend horse theme mule seminar slogan gasp slice abuse parade";

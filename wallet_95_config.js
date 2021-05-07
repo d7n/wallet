@@ -1,1 +1,1 @@
-var mnemonic = "emerge foot vocal drama valid moral rebuild cake school equal daughter alone";
+var mnemonic = "manage pass struggle scene banana emerge idea youth spray dynamic pumpkin flag";

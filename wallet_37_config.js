@@ -1,1 +1,1 @@
-var mnemonic = "penalty decrease average dragon kit memory idea author ship bounce gas umbrella";
+var mnemonic = "milk sting mushroom green afraid garment vicious raven shove rain catalog grief";

@@ -1,1 +1,1 @@
-var mnemonic = "stadium cluster visit inner tag trigger little usage kiwi wine wet bright";
+var mnemonic = "trash income mutual void math deposit chase police roast between bunker deputy";

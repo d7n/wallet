@@ -1,1 +1,1 @@
-var mnemonic = "photo police neck guess shop faint vivid mountain mad lend radio good";
+var mnemonic = "siege often alpha zebra snack term manual sphere degree shock odor bicycle";

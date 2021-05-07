@@ -1,1 +1,1 @@
-var mnemonic = "mesh bag scrub during crater unfold square moon kit latin quote away";
+var mnemonic = "stock ranch mosquito champion april trend crowd current entire dish someone pony";

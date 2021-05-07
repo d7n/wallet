@@ -1,1 +1,1 @@
-var mnemonic = "grape today unable oblige ticket toward shoe sing move unique famous clog";
+var mnemonic = "next vast pet inherit muscle kind liberty test opera poet polar cable";

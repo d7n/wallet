@@ -1,1 +1,1 @@
-var mnemonic = "physical hen camera this meat robust whale such glass kick often liquid";
+var mnemonic = "action reform strategy antenna tomorrow only narrow return observe apology huge warrior";

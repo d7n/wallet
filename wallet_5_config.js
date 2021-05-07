@@ -1,1 +1,1 @@
-var mnemonic = "round picnic nuclear tonight message sadness neck shaft hour prize ugly seek";
+var mnemonic = "cat unveil inside aunt spray remain click theory rain three season borrow";

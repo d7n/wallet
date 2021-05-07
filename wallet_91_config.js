@@ -1,1 +1,1 @@
-var mnemonic = "hole flag twelve dilemma genius night venue duck saddle speed invite empty";
+var mnemonic = "excess comfort under cigar maximum hold income tide wood trick sunset vacant";

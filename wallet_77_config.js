@@ -1,1 +1,1 @@
-var mnemonic = "embody bargain east frozen nature execute typical over trade inside impulse cost";
+var mnemonic = "tumble amateur calm barely humor fun never extend pilot host input wrap";

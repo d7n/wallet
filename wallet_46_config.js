@@ -1,1 +1,1 @@
-var mnemonic = "leader oak father century blur pave tomato brass luxury common usual arch";
+var mnemonic = "health attract enroll unfold skill edge choice sauce toy method rival monkey";

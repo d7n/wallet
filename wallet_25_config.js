@@ -1,1 +1,1 @@
-var mnemonic = "doctor annual boil chronic advance cruise coral wise winter hockey family olympic";
+var mnemonic = "object attend conduct volume later carry gentle bag lamp track dizzy bike";

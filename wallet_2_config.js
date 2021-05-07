@@ -1,1 +1,1 @@
-var mnemonic = "write scrub eyebrow bind kite relax manual erase elder aerobic dutch mix";
+var mnemonic = "vibrant chef narrow olive once glow skill actress produce card brave wheel";

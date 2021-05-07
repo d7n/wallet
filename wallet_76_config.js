@@ -1,1 +1,1 @@
-var mnemonic = "test wise leg recipe fury worth peace robot palm popular among stem";
+var mnemonic = "shine engage organ turkey exercise bonus tumble angle humor radar much plug";
