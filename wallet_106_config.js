@@ -1,1 +1,1 @@
-var mnemonic = "lesson word point stadium obvious apple walk hip twenty major tribe caution";
+var mnemonic = "puzzle trash wait valley never swarm twin floor cradle ethics job ethics";

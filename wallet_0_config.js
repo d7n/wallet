@@ -1,1 +1,1 @@
-var mnemonic = "during jealous lonely cry next raccoon eternal cook end pause reflect champion";
+var mnemonic = "choose bonus kick disorder cloud monitor track under fix purchase cabin exhaust";

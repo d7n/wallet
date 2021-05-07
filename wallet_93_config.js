@@ -1,1 +1,1 @@
-var mnemonic = "swing model anger giraffe bird alone anchor rail loud wrestle athlete once";
+var mnemonic = "gallery nation end outer home pioneer pen fantasy vault oak crop hen";

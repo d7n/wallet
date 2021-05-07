@@ -1,1 +1,1 @@
-var mnemonic = "flight clean rebuild novel funny know brand peanut draft flame jazz amount";
+var mnemonic = "gasp screen toward jazz ritual knife satoshi foam gas oppose glove jacket";

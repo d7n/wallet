@@ -1,1 +1,1 @@
-var mnemonic = "pig rookie marble latin soap input provide civil impose result tackle dinosaur";
+var mnemonic = "floor ensure improve private busy target achieve unable snow price flight hospital";

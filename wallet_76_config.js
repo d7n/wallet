@@ -1,1 +1,1 @@
-var mnemonic = "hurdle team country south sweet cinnamon payment grass mystery original pear sibling";
+var mnemonic = "gasp climb attract page mistake engine menu tumble number honey furnace hen";

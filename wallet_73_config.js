@@ -1,1 +1,1 @@
-var mnemonic = "survey six congress water aunt paper planet begin tree control shuffle cricket";
+var mnemonic = "wheat pair drill all mountain visa hello evolve tuna cruel trend dad";

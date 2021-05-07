@@ -1,1 +1,1 @@
-var mnemonic = "bronze upset cabbage wear music debris okay lunar horn game empty crisp";
+var mnemonic = "apart history boost obscure actress work goddess display ancient essay movie grunt";

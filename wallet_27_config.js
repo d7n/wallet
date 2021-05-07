@@ -1,1 +1,1 @@
-var mnemonic = "silver quick drama unlock piano joy public empty juice shadow dentist guard";
+var mnemonic = "anchor fault copy train reunion purchase small consider miss peasant slam point";

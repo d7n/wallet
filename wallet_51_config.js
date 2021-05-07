@@ -1,1 +1,1 @@
-var mnemonic = "unit odor mercy swing wreck dolphin float hope onion shy coast wheel";
+var mnemonic = "topple flavor fork rural crucial settle hundred syrup key example poem salt";

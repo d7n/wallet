@@ -1,1 +1,1 @@
-var mnemonic = "organ again style sample absurd pole sign fine about liquid box drip";
+var mnemonic = "canal connect season artist nest episode sock mean rebel siren trumpet vicious";

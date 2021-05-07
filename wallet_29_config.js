@@ -1,1 +1,1 @@
-var mnemonic = "pudding expose can swing snow devote calm hockey milk spike tunnel hunt";
+var mnemonic = "ecology square broom pottery shoulder effort govern problem fiction fetch much gossip";

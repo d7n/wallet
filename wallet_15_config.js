@@ -1,1 +1,1 @@
-var mnemonic = "spare finish syrup shell joy prevent confirm utility chunk burst pig reward";
+var mnemonic = "motor powder spice purity logic leg model middle turn multiply pig female";

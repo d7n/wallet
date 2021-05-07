@@ -1,1 +1,1 @@
-var mnemonic = "total wing few hollow item sad awkward science minor mushroom discover violin";
+var mnemonic = "gain fruit problem result salad barely select hip clinic describe orchard pride";

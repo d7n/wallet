@@ -1,1 +1,1 @@
-var mnemonic = "slow cute cousin claim develop truth plug cook annual noodle kind wasp";
+var mnemonic = "script vague jungle slot invite wrist shop chimney have orchard chat cry";

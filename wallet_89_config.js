@@ -1,1 +1,1 @@
-var mnemonic = "reunion feel net alert image bridge beach shadow divert recall chef adapt";
+var mnemonic = "menu spread another punch live pilot alter build mirror radar paper transfer";

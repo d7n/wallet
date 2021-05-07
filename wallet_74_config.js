@@ -1,1 +1,1 @@
-var mnemonic = "pet kitten perfect twin wrist slide width keep oven teach join hour";
+var mnemonic = "fragile unlock duck banner rich slow list age enroll used merit sausage";

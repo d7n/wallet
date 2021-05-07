@@ -1,1 +1,1 @@
-var mnemonic = "flame morning wisdom era april silly man access prefer acoustic possible stable";
+var mnemonic = "crunch remove combine version hen trash lawn concert fuel divorce frost visit";

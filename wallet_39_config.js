@@ -1,1 +1,1 @@
-var mnemonic = "ripple insect monster night tag apart island budget metal broken shadow sorry";
+var mnemonic = "penalty music empty excuse wide foot comic speak sudden hundred system head";

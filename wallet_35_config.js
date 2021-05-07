@@ -1,1 +1,1 @@
-var mnemonic = "barrel rifle dignity logic alcohol turtle foam shoot mammal rely noble island";
+var mnemonic = "profit uphold dream hood unhappy fork sibling scale cook sister arrive great";

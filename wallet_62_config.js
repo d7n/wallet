@@ -1,1 +1,1 @@
-var mnemonic = "denial snap awake myth rib dumb vintage thing maximum romance topic body";
+var mnemonic = "nuclear cotton conduct among twin magnet moon cricket hire found chunk theory";

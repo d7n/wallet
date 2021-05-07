@@ -1,1 +1,1 @@
-var mnemonic = "salt benefit fossil burden twenty silver glad letter winner spatial wool logic";
+var mnemonic = "prosper twenty update dream easy believe attend travel lens rather citizen pave";

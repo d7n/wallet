@@ -1,1 +1,1 @@
-var mnemonic = "oval grape umbrella few style cute plate clarify type envelope angle possible";
+var mnemonic = "kit budget gloom eyebrow siren burst hurt volume access curtain expect trade";

@@ -1,1 +1,1 @@
-var mnemonic = "snake benefit note damage uphold pepper ugly furnace harsh arrow yellow delay";
+var mnemonic = "where arch donor vendor cook humor give couch innocent cube gas behave";

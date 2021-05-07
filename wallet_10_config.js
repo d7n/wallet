@@ -1,1 +1,1 @@
-var mnemonic = "actual federal depart such govern laugh snap trade spawn foil zebra coconut";
+var mnemonic = "toilet penalty tornado recipe behind maximum eager crazy ivory track riot picture";

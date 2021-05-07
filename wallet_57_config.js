@@ -1,1 +1,1 @@
-var mnemonic = "update crop frozen project entry broom debate swamp penalty base ritual flag";
+var mnemonic = "museum baby kitten come symbol home essence express mansion various volume term";

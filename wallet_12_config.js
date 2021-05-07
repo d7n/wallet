@@ -1,1 +1,1 @@
-var mnemonic = "tube figure flower vehicle abstract fun pole evolve pass bright gravity sugar";
+var mnemonic = "hint hope unfold run industry grunt income casual evidence live army marine";

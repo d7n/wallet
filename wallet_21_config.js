@@ -1,1 +1,1 @@
-var mnemonic = "own income talk act brief tree sing stage setup save tuition cream";
+var mnemonic = "light same fresh planet female crumble thunder label victory gorilla message extend";

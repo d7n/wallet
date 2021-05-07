@@ -1,1 +1,1 @@
-var mnemonic = "pony actual spoon wine tone senior orbit coil garlic sun comic pelican";
+var mnemonic = "roast leisure bicycle bus material slab elegant chase round chase purchase village";

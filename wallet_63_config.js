@@ -1,1 +1,1 @@
-var mnemonic = "adapt love deliver proof flight club buddy acid ask lake exclude two";
+var mnemonic = "margin disease enforce profit eye young theory wisdom tunnel super school dirt";

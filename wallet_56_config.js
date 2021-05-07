@@ -1,1 +1,1 @@
-var mnemonic = "marine eager tool frequent ladder this witness edge luggage upgrade local medal";
+var mnemonic = "relief smooth glory unable weasel tunnel blast inform ceiling hundred scorpion tumble";

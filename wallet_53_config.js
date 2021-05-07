@@ -1,1 +1,1 @@
-var mnemonic = "slide toast early quality grass market then boost either multiply venue slush";
+var mnemonic = "shoulder iron they bag utility shy mass duck path super airport border";

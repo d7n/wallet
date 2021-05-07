@@ -1,1 +1,1 @@
-var mnemonic = "way direct zero step ethics grass bike walnut grocery topple pudding city";
+var mnemonic = "scorpion whip car box senior dwarf marble recipe sauce edge old deal";

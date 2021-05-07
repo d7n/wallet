@@ -1,1 +1,1 @@
-var mnemonic = "skill crazy neck ride phrase state agent wool bicycle frown issue farm";
+var mnemonic = "token unfair twice hurdle glass worry swear oyster tower chimney depth retire";

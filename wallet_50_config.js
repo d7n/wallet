@@ -1,1 +1,1 @@
-var mnemonic = "elder vessel absurd achieve pledge entry parade lift cube muscle output collect";
+var mnemonic = "doctor outside tag bargain unique use thunder curious galaxy yard half ball";

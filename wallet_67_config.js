@@ -1,1 +1,1 @@
-var mnemonic = "adult ski dry silver action position hand piano name ordinary pitch lab";
+var mnemonic = "leader aerobic okay addict radar story split tragic soccer gain cycle daughter";

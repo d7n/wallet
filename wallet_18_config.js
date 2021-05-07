@@ -1,1 +1,1 @@
-var mnemonic = "company language pull rose they either moon ridge someone news suit chef";
+var mnemonic = "odor spy wasp olympic worth trim volume shoot carry lens stumble symptom";

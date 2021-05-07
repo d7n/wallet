@@ -1,1 +1,1 @@
-var mnemonic = "essay help unveil skirt tower embody picnic laundry purchase toy cup skirt";
+var mnemonic = "code skin price rely govern base magnet lyrics zero twin silk elite";

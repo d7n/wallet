@@ -1,1 +1,1 @@
-var mnemonic = "robot copy erosion beef fall case either track fortune hidden suit balcony";
+var mnemonic = "obscure around crumble law awkward bread wing moon figure thumb better concert";

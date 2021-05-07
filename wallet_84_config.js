@@ -1,1 +1,1 @@
-var mnemonic = "program fan tip female february stereo friend vocal stuff rib pipe enrich";
+var mnemonic = "dinner thumb claim when aisle ocean shop pave bronze effort ball labor";

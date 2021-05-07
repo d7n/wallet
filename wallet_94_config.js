@@ -1,1 +1,1 @@
-var mnemonic = "buyer blanket artist awful senior mutual simple act art lonely company around";
+var mnemonic = "please major flock deer column sibling nominee over boss laundry clock blouse";

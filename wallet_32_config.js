@@ -1,1 +1,1 @@
-var mnemonic = "inhale finish kiss cradle purse envelope quantum joy sock wise verify wild";
+var mnemonic = "frown tone satisfy mom input polar arena vessel scan desert tobacco bike";

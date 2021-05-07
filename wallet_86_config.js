@@ -1,1 +1,1 @@
-var mnemonic = "dad direct autumn invite abandon interest bread hamster gown dry sauce route";
+var mnemonic = "convince train grid equal practice mass season skin humble sea provide setup";

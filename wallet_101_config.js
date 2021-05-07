@@ -1,1 +1,1 @@
-var mnemonic = "kick like badge flight enrich mind spider prefer play pulp scrub rent";
+var mnemonic = "surface split eyebrow liquid chronic window copper start limb decline swear arrange";

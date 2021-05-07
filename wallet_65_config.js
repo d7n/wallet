@@ -1,1 +1,1 @@
-var mnemonic = "banner believe fall safe patch drink grass arrange orbit situate certain kangaroo";
+var mnemonic = "farm govern sweet absurd inherit issue fiber truck betray school discover cement";

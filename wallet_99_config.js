@@ -1,1 +1,1 @@
-var mnemonic = "sunset execute flash cancel dose wolf print approve horror replace enact color";
+var mnemonic = "nerve pigeon vessel fashion gain wagon dove enact jealous minute crash tunnel";

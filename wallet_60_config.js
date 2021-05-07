@@ -1,1 +1,1 @@
-var mnemonic = "rate barely security void load cluster cushion blade mean shallow risk wing";
+var mnemonic = "check federal length gentle deposit maple smoke order true never slide depth";

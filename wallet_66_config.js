@@ -1,1 +1,1 @@
-var mnemonic = "kitchen upgrade slogan offer siren subject illness hope prosper clean split tag";
+var mnemonic = "produce puzzle raise embrace mandate congress repair close cry stairs crane model";

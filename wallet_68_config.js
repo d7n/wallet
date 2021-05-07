@@ -1,1 +1,1 @@
-var mnemonic = "alien item unique curious age seat switch sister innocent group case stumble";
+var mnemonic = "vast talent help text theme cage lemon battle immune wild accident quality";

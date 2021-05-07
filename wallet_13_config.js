@@ -1,1 +1,1 @@
-var mnemonic = "uniform juice cover market ghost before fancy gas earth inflict floor dove";
+var mnemonic = "carbon weather play dream now expire accuse snow bitter mandate garment region";

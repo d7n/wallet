@@ -1,1 +1,1 @@
-var mnemonic = "stuff rocket enough situate reveal game neutral best visa other walnut rocket";
+var mnemonic = "boring vintage library choice ginger cradle thank scout leopard planet neutral april";

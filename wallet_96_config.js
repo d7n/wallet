@@ -1,1 +1,1 @@
-var mnemonic = "crime slide liar spot pattern isolate dutch buddy glue turtle neutral behave";
+var mnemonic = "pioneer inside beyond music upon toss valve riot gesture feature lonely truck";

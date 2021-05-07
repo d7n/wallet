@@ -1,1 +1,1 @@
-var mnemonic = "differ tragic space leave connect more sausage ring balcony gun perfect attitude";
+var mnemonic = "pink mean cube aspect lottery resist party turn tiger author calm mad";

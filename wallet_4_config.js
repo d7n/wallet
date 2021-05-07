@@ -1,1 +1,1 @@
-var mnemonic = "outer board naive decorate glove shift awesome wall imitate idea athlete raven";
+var mnemonic = "off put meat boring betray debate patient utility cluster ready review today";

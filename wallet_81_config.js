@@ -1,1 +1,1 @@
-var mnemonic = "fire portion turtle stay base black gold task stool similar short sweet";
+var mnemonic = "stay chronic never never robust viable clarify coin similar maple combine today";

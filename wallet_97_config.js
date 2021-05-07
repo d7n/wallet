@@ -1,1 +1,1 @@
-var mnemonic = "battle slice city drip loud ring quarter female cinnamon melt dial dinosaur";
+var mnemonic = "leave spell crowd session know disorder deposit decline eight usage spider domain";

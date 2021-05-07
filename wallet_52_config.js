@@ -1,1 +1,1 @@
-var mnemonic = "salon rate pen camp bone author payment lend winter beauty improve mass";
+var mnemonic = "bacon price harbor woman funny ensure long census burst attend garbage cement";

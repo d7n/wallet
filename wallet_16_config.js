@@ -1,1 +1,1 @@
-var mnemonic = "rival purity coconut process frequent sweet adapt distance absurd digital scatter rule";
+var mnemonic = "balcony onion elder toss elder feature verify input unique lucky bamboo taxi";

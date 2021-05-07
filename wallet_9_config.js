@@ -1,1 +1,1 @@
-var mnemonic = "kitchen art design rescue core crash rather humor filter silver valid tail";
+var mnemonic = "unlock addict celery hobby vapor sugar tip execute cabbage spray canyon crack";

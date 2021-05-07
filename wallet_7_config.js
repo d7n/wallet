@@ -1,1 +1,1 @@
-var mnemonic = "stamp ability grain height sheriff mouse frame wrestle imitate universe gallery hundred";
+var mnemonic = "use mansion detail require chef section little miss leopard regret else sibling";

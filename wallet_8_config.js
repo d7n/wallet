@@ -1,1 +1,1 @@
-var mnemonic = "canoe veteran list armed drip oppose carbon joy either firm dignity source";
+var mnemonic = "index fish stay come combine elder around hover ozone tenant copper giant";

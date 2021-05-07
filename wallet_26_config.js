@@ -1,1 +1,1 @@
-var mnemonic = "shoulder huge valley couch swear used knee boil zoo tone double want";
+var mnemonic = "muffin coil famous remember board shop blast client adult call adult table";

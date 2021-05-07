@@ -1,1 +1,1 @@
-var mnemonic = "disagree banana gasp lend fish list tail mixture lawn oyster beach antique";
+var mnemonic = "essence gown coast tell lecture cousin cheap dilemma vague leg pencil pond";

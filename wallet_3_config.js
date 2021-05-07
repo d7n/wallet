@@ -1,1 +1,1 @@
-var mnemonic = "pear any behave nest breeze cement hand vapor hobby trend swamp aerobic";
+var mnemonic = "air output glance march diamond obscure toward finish that orchard bamboo hotel";

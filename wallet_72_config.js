@@ -1,1 +1,1 @@
-var mnemonic = "omit top what fence erode lunch surge repeat patch earn develop ship";
+var mnemonic = "hill filter team rate rebuild puppy change clap absent amount glory sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "stove coconut nice sing quick adjust wink bring proof produce village leave";
+var mnemonic = "maze panel soccer pluck tribe heavy prepare eyebrow holiday before knee heavy";

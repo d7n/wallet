@@ -1,1 +1,1 @@
-var mnemonic = "sniff employ apple inside foster smoke drum clap spare sport drop next";
+var mnemonic = "evoke small tuna crime use series attend hammer crack crack cricket two";

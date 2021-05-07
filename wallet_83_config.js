@@ -1,1 +1,1 @@
-var mnemonic = "dial orange once matter desert address asset hair fury axis unusual congress";
+var mnemonic = "filter august intact control guilt symbol milk injury talk child escape power";

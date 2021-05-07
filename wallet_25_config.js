@@ -1,1 +1,1 @@
-var mnemonic = "robust price senior crime stable cattle frown wait birth ghost poem traffic";
+var mnemonic = "remember empower tuna member witness divide ensure donkey volume portion glance manual";

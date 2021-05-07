@@ -1,1 +1,1 @@
-var mnemonic = "clerk tray patch session disorder goose drastic post casual item destroy dawn";
+var mnemonic = "away become piano invest elevator word burger cage wealth early calm zoo";

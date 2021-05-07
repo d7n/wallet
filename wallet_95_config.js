@@ -1,1 +1,1 @@
-var mnemonic = "yellow above under tilt sketch purpose melody idle ocean letter cook alter";
+var mnemonic = "kingdom fiscal opinion primary shadow stadium happy eyebrow gun jungle chat side";

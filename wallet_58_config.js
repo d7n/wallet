@@ -1,1 +1,1 @@
-var mnemonic = "milk mention length slab daughter quiz memory swing inflict hazard roast scale";
+var mnemonic = "idle venue evil whisper midnight human claw tissue parent humble miracle awesome";

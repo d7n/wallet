@@ -1,1 +1,1 @@
-var mnemonic = "muscle slush broken govern whisper feed youth enroll caution range prevent mandate";
+var mnemonic = "guitar icon group fork settle amused ability december plug volume trophy pig";

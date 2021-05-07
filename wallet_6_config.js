@@ -1,1 +1,1 @@
-var mnemonic = "example host sell mom clip erosion vacuum bike about immune code humor";
+var mnemonic = "slide bench assault age civil corn obscure siege end power alert arch";

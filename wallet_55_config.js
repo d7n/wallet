@@ -1,1 +1,1 @@
-var mnemonic = "happy arena claw entire property struggle basic relax street bachelor run matrix";
+var mnemonic = "miracle share unfair seed athlete tennis scatter toward tornado pottery nephew such";

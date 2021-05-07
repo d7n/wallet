@@ -1,1 +1,1 @@
-var mnemonic = "accuse mixture drink pool surround sea capital lock during capital language dynamic";
+var mnemonic = "type silk brick silk piano start athlete frame ankle broken peanut occur";

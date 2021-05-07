@@ -1,1 +1,1 @@
-var mnemonic = "creek add pupil unlock shift tool shiver review forget door master discover";
+var mnemonic = "clip double calm gaze awake plug tired spell slush neglect scan tell";

@@ -1,1 +1,1 @@
-var mnemonic = "apart unusual neither turn inmate leg pulse until rely aisle useful proof";
+var mnemonic = "enforce arrow armed miss provide use lunar boy clinic nation kid mom";

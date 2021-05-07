@@ -1,1 +1,1 @@
-var mnemonic = "cousin ozone crush flavor meat soda timber omit picture battle fall mother";
+var mnemonic = "verify evolve odor differ ski predict hungry cricket inmate cluster core suggest";

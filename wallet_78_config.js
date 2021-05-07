@@ -1,1 +1,1 @@
-var mnemonic = "initial please race ramp engage hamster syrup fiscal resource flush best human";
+var mnemonic = "rug parade blame category flock pilot try rack lunar anchor pig method";

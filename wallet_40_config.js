@@ -1,1 +1,1 @@
-var mnemonic = "box say dumb love hip action spider clean weather engine scrub zone";
+var mnemonic = "saddle exhibit pig renew veteran lazy thunder before release oblige fossil sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "casino brush mixed service clutch warrior define tag path dirt same imitate";
+var mnemonic = "antique diagram muffin mention glad merge enable catalog chunk sound acoustic fury";

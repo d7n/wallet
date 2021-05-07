@@ -1,1 +1,1 @@
-var mnemonic = "funny wage dinner panther future bus route stem begin health quarter leopard";
+var mnemonic = "banner property arrange history dumb better smile dog lady effort urge length";

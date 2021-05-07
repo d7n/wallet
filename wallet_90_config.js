@@ -1,1 +1,1 @@
-var mnemonic = "visa end convince space fiction man aspect endless logic bright fruit kitten";
+var mnemonic = "reject sweet search camp grid artist pledge sweet talk edit away cluster";

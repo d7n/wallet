@@ -1,1 +1,1 @@
-var mnemonic = "front father mesh domain supreme trash ship siege arena inch hire lava";
+var mnemonic = "resist jeans stick company color oval mixture matter cover choice cute split";

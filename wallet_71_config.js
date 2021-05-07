@@ -1,1 +1,1 @@
-var mnemonic = "lizard gasp way master crop west decide enlist shoulder taxi negative arch";
+var mnemonic = "kangaroo stadium easy bless shove uncover garment aspect nuclear endorse peasant ordinary";

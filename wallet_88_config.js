@@ -1,1 +1,1 @@
-var mnemonic = "south witness canvas erase game comic city undo drama sell loop solar";
+var mnemonic = "convince chunk yard bring endorse body replace proof lonely climb draw lottery";

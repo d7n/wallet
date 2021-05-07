@@ -1,1 +1,1 @@
-var mnemonic = "trade win ride helmet pig only hello near casual decorate toilet vicious";
+var mnemonic = "twenty valid truly river mother nothing party copy sand truth code unaware";

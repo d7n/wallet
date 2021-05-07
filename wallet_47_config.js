@@ -1,1 +1,1 @@
-var mnemonic = "grit scorpion cushion book also list loop expect there draw clever sphere";
+var mnemonic = "green shield jeans horn moment total cry uncle burden cereal trick bar";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom observe dilemma explain basket tower hospital misery mind tobacco social vessel";
+var mnemonic = "cheap timber matter cat bind essence save total job praise rally autumn";

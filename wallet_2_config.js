@@ -1,1 +1,1 @@
-var mnemonic = "metal quarter squirrel peasant capital forward crush caution alone debris say rabbit";
+var mnemonic = "venue keep gorilla climb fitness lens enforce turkey alcohol space bag vessel";

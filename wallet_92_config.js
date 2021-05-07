@@ -1,1 +1,1 @@
-var mnemonic = "artist pumpkin switch local chapter blush vicious expect oval burst biology spare";
+var mnemonic = "alert sun cook sword prefer brain pole potato payment child three autumn";

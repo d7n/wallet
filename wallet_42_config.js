@@ -1,1 +1,1 @@
-var mnemonic = "position swamp uphold salad good silver link trash seat cement math want";
+var mnemonic = "thunder report submit surge absent caution sunny charge paddle chase furnace life";

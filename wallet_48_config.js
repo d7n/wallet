@@ -1,1 +1,1 @@
-var mnemonic = "hungry subway clinic menu capital help region vanish message crouch service dance";
+var mnemonic = "october office figure protect farm neither visa cat foam energy salt fine";
