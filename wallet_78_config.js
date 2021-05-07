@@ -1,1 +1,1 @@
-var mnemonic = "million above snack tonight tribe install leg lock clinic box twist loud";
+var mnemonic = "rescue reduce chair picture blue air reward elite pig collect lyrics because";

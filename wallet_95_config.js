@@ -1,1 +1,1 @@
-var mnemonic = "crystal air tower audit either foster police plunge gain coyote spatial kitten";
+var mnemonic = "ritual replace squirrel morning dash memory ramp figure system obscure excuse pluck";

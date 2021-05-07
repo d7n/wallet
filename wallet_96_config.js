@@ -1,1 +1,1 @@
-var mnemonic = "dance bracket lounge bridge round text penalty march token response topic budget";
+var mnemonic = "ill click brass dune inner level solution three satoshi reject gun tip";

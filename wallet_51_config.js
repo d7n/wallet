@@ -1,1 +1,1 @@
-var mnemonic = "video abandon purpose festival farm expect author visit alone warm sauce fantasy";
+var mnemonic = "october radio dinner inner physical extra appear work farm laugh present solve";

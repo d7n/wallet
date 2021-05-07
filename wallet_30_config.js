@@ -1,1 +1,1 @@
-var mnemonic = "awful donkey reform dune chat bless voice trim invite beach odor poem";
+var mnemonic = "glance security wing flag black call grass mesh virtual smoke rule circle";

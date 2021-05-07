@@ -1,1 +1,1 @@
-var mnemonic = "cool mistake capital slush basic peasant myth coral garage patient ship minute";
+var mnemonic = "visual tilt ship exact gospel wealth hundred minimum aspect impulse lunar sock";

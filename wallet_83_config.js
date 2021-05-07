@@ -1,1 +1,1 @@
-var mnemonic = "journey agent similar lab portion order desk image alcohol stool tomato benefit";
+var mnemonic = "nuclear design oxygen carbon sponsor flat shift tornado immense clown expect sense";

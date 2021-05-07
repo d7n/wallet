@@ -1,1 +1,1 @@
-var mnemonic = "skate recycle energy toss lawsuit matter churn cattle focus lemon ginger rigid";
+var mnemonic = "convince success shoe glow obey antique coin trash case can toe remind";

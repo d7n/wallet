@@ -1,1 +1,1 @@
-var mnemonic = "vibrant execute enrich demise mule female steak gate yellow brand afford slice";
+var mnemonic = "skate brand liquid bonus slush stem include away swamp expect motor thing";

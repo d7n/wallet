@@ -1,1 +1,1 @@
-var mnemonic = "labor case other walk lab ozone physical turkey rigid naive embody sugar";
+var mnemonic = "seminar matrix choice ethics viable exit reflect rough loan like breeze inner";

@@ -1,1 +1,1 @@
-var mnemonic = "charge swing club issue session trash combine sing afford regret wire east";
+var mnemonic = "actress hat stone donor fury kite private cage push puzzle ensure cheap";

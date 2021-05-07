@@ -1,1 +1,1 @@
-var mnemonic = "base trigger save allow build piece extend gorilla whip buffalo tooth gossip";
+var mnemonic = "wink wheel swallow pave lounge twist choice target veteran picture century tuition";

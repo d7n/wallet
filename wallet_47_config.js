@@ -1,1 +1,1 @@
-var mnemonic = "brain athlete emotion model very merry race edge favorite park traffic nut";
+var mnemonic = "laugh output south tribe grid evoke uniform square cream air reflect alert";

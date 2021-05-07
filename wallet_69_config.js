@@ -1,1 +1,1 @@
-var mnemonic = "device quiz ticket extend then drive grit edit dynamic extend duck intact";
+var mnemonic = "idle age hedgehog crew east almost help skate scatter toss crawl near";

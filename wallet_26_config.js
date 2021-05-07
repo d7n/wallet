@@ -1,1 +1,1 @@
-var mnemonic = "cannon front express fancy gap salmon board awake situate tooth churn oven";
+var mnemonic = "equip harbor charge soccer pyramid leave march join kiss rabbit wool involve";

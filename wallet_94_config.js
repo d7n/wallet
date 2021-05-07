@@ -1,1 +1,1 @@
-var mnemonic = "magic extend churn kidney lab fabric panic shift winter rotate calm toward";
+var mnemonic = "speed wing loud blossom theory miracle column emotion garbage adjust rhythm account";

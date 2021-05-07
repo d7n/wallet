@@ -1,1 +1,1 @@
-var mnemonic = "debate grow deliver sister provide front draw turn usual stock attack similar";
+var mnemonic = "option mix pipe employ boat token version win waste six laugh step";

@@ -1,1 +1,1 @@
-var mnemonic = "artist before holiday wrist joke borrow letter suffer lava destroy pulp nature";
+var mnemonic = "cable weasel animal arctic fringe hair flat guess flame usage loop pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker borrow place crawl piece wrestle south mention fetch candy kitchen embrace";
+var mnemonic = "copy sure topple balance cupboard figure work foot you almost latin man";

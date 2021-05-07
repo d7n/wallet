@@ -1,1 +1,1 @@
-var mnemonic = "differ use reopen print lunar tired holiday calm execute network apology judge";
+var mnemonic = "lamp boring category element under note interest forum pottery inner slide strong";

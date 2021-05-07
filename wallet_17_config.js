@@ -1,1 +1,1 @@
-var mnemonic = "aspect table process noodle entry dress jelly perfect penalty elegant luggage sunny";
+var mnemonic = "duty forest space faint whale follow winter breeze boring erase marine kangaroo";

@@ -1,1 +1,1 @@
-var mnemonic = "come output exhaust vanish develop flag ahead prison choose wing bulk guitar";
+var mnemonic = "guitar reason awake leg dwarf pumpkin coach media include claim cargo weasel";

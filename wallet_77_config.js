@@ -1,1 +1,1 @@
-var mnemonic = "crater clean dawn ahead goddess produce popular price carbon fold abstract pole";
+var mnemonic = "blur grass lonely galaxy inmate autumn jealous badge journey pink public utility";

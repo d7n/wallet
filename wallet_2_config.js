@@ -1,1 +1,1 @@
-var mnemonic = "random maid wage economy inherit web pyramid bag salon execute edge arm";
+var mnemonic = "trophy sibling anxiety already either girl brick trial size logic frown erase";

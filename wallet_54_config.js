@@ -1,1 +1,1 @@
-var mnemonic = "nurse victory anxiety shuffle hover solve glance strong must arrest news evidence";
+var mnemonic = "mimic buffalo siege unusual adult bleak smoke left puzzle knife design theme";

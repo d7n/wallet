@@ -1,1 +1,1 @@
-var mnemonic = "spell sight bridge require point tennis fun front clever that receive bargain";
+var mnemonic = "direct tongue bean moon explain perfect text patrol draw able property useful";

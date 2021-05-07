@@ -1,1 +1,1 @@
-var mnemonic = "faculty trip club auto demand slight design transfer unveil song video avocado";
+var mnemonic = "small tree response spread proud upset citizen stove draft story congress soul";

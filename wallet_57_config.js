@@ -1,1 +1,1 @@
-var mnemonic = "voyage whisper salon little smart flip young party jeans heart enact lawsuit";
+var mnemonic = "beef sun giraffe voice patient universe swamp run snap tragic woman fiscal";

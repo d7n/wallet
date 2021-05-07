@@ -1,1 +1,1 @@
-var mnemonic = "trim cube rocket that job tank cousin fancy scale finish correct wolf";
+var mnemonic = "element prepare price admit like fine sister case manage bitter oak obtain";

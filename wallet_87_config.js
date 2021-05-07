@@ -1,1 +1,1 @@
-var mnemonic = "steak glad spice toy six smile danger expose auction cinnamon affair divert";
+var mnemonic = "ahead subway situate dove enroll wall salmon nasty utility crisp actress release";

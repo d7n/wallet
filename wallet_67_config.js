@@ -1,1 +1,1 @@
-var mnemonic = "swarm excess plug decorate pulp tunnel must front select captain crash group";
+var mnemonic = "monitor argue gap obtain account clever identify kidney repeat scene decline pelican";

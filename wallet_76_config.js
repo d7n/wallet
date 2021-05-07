@@ -1,1 +1,1 @@
-var mnemonic = "carpet wrap moment mixture detail traffic blue engage detect snow palace gravity";
+var mnemonic = "pelican knock address broccoli famous income carbon insane target wing anchor goat";

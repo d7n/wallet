@@ -1,1 +1,1 @@
-var mnemonic = "embrace hurdle short true youth kid fence pelican melt bitter topic attack";
+var mnemonic = "choice basket lecture draw humble hollow more favorite card shoot trim language";

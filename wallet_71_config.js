@@ -1,1 +1,1 @@
-var mnemonic = "joy picnic found talent enjoy chat element crawl drill slice journey green";
+var mnemonic = "add dice camp assume harvest old loyal kitchen valve town cricket use";

@@ -1,1 +1,1 @@
-var mnemonic = "police fantasy true speak city equal soccer carpet emotion advice convince jacket";
+var mnemonic = "disagree round gloom elevator rebel scare merry glove hammer typical brief master";

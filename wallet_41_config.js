@@ -1,1 +1,1 @@
-var mnemonic = "glove mule solid post barely absorb figure tilt journey latin put slight";
+var mnemonic = "law october arrest organ void insane auction slight green treat ghost reject";

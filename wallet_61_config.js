@@ -1,1 +1,1 @@
-var mnemonic = "tide crime cricket half festival income pledge hobby universe dry predict soft";
+var mnemonic = "piano mixed claim hamster jacket wage program brush citizen liberty lake fade";

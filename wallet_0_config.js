@@ -1,1 +1,1 @@
-var mnemonic = "oblige quality rescue high pony odor crash fold fit only boost pig";
+var mnemonic = "crazy amused science bottom rare boy chuckle child debate alert wrap rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "hungry roast square amateur deposit guard piano gossip casual swear truth muscle";
+var mnemonic = "benefit beauty anxiety fix employ govern pond catalog draw card decide symbol";

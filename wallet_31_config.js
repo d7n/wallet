@@ -1,1 +1,1 @@
-var mnemonic = "will duck display fold cram text onion trial ten title entry bulb";
+var mnemonic = "drill traffic equal mountain garage midnight aisle canal fox tone note clever";

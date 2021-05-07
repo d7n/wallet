@@ -1,1 +1,1 @@
-var mnemonic = "fiscal test approve parade diary lobster ghost nut change require race alone";
+var mnemonic = "bacon spawn record parade unaware cave gold choose spot soul room live";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp whale galaxy giggle price grid update vibrant accuse puzzle erupt judge";
+var mnemonic = "ice limit course rescue build daughter quarter teach bring perfect leader two";

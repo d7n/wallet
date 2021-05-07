@@ -1,1 +1,1 @@
-var mnemonic = "essay link dash success cherry mutual taste bleak ring cancel inner manage";
+var mnemonic = "buffalo solid wedding wage define appear abuse manage column oxygen pupil glare";

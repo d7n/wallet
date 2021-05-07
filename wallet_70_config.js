@@ -1,1 +1,1 @@
-var mnemonic = "ski level foam above behave carry tomato minor tool alpha squeeze bike";
+var mnemonic = "change already puppy involve vacuum oblige artefact coconut jump ginger ostrich unfold";

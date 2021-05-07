@@ -1,1 +1,1 @@
-var mnemonic = "index craft sting maid engine bracket cheese explain retreat wear vast scrub";
+var mnemonic = "guitar wolf pottery hen piece bag adapt stereo attract afford permit version";

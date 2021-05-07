@@ -1,1 +1,1 @@
-var mnemonic = "ramp lecture daring more pluck finish denial swim clump anchor define hint";
+var mnemonic = "radar wing reduce language number song trend increase card unaware floor sheriff";

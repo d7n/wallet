@@ -1,1 +1,1 @@
-var mnemonic = "domain vessel erode ridge viable lumber earth coral valve dog observe ritual";
+var mnemonic = "smart wrap sudden camp sure decorate stone relax divert zone luxury shoulder";

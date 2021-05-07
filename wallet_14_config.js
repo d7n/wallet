@@ -1,1 +1,1 @@
-var mnemonic = "fee unaware worry voyage dry say museum room weasel image alarm move";
+var mnemonic = "typical excess culture olympic dash noble garment hockey spell scale bomb fitness";

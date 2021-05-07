@@ -1,1 +1,1 @@
-var mnemonic = "practice outer text smile switch success camera model shove head auction myself";
+var mnemonic = "novel laundry arena rack boss stone list undo elbow glide weasel legend";

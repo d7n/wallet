@@ -1,1 +1,1 @@
-var mnemonic = "paddle shadow modify cushion super lab fog pave garlic exhibit change base";
+var mnemonic = "panda cigar neglect wife cancel camp gospel minute lottery divert tank congress";

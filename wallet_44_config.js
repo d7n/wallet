@@ -1,1 +1,1 @@
-var mnemonic = "guitar near random pull bachelor swear engine clump voice private hair topic";
+var mnemonic = "glide balance legend flag garage accuse immense hero yard multiply umbrella course";

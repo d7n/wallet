@@ -1,1 +1,1 @@
-var mnemonic = "robot retreat current elephant awake danger expose tired dust desert company will";
+var mnemonic = "nation snow vessel seat proof nuclear tiger cause arch retreat average shadow";

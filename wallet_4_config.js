@@ -1,1 +1,1 @@
-var mnemonic = "cave exit time enrich captain human mass arrive silent sniff tuition scheme";
+var mnemonic = "romance ridge echo solid inside glare humble follow sea unveil lyrics happy";

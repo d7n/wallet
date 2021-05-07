@@ -1,1 +1,1 @@
-var mnemonic = "shaft avoid above wink target nothing tortoise purity speak recipe spot teach";
+var mnemonic = "boat law limb wool echo disagree dolphin place million strategy wine animal";

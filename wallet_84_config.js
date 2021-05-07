@@ -1,1 +1,1 @@
-var mnemonic = "weird disorder misery bunker jewel ship inquiry ribbon kitchen useful venture satisfy";
+var mnemonic = "praise damage output recipe trumpet output forward cheese purse retire nasty symptom";

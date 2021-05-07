@@ -1,1 +1,1 @@
-var mnemonic = "quick cruise snake motion relief praise derive breeze weasel isolate bridge giggle";
+var mnemonic = "tide tent song fatal pattern pond nuclear embody scare acoustic crowd salute";

@@ -1,1 +1,1 @@
-var mnemonic = "bacon industry vibrant infant achieve sad burger much educate search neck conduct";
+var mnemonic = "bamboo cluster twist tray avocado mean ring combine allow dance shine debris";

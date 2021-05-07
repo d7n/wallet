@@ -1,1 +1,1 @@
-var mnemonic = "round hybrid recycle picture tomorrow short peace meat ridge rack fat magic";
+var mnemonic = "month early ordinary false drip pact desert fiber powder price exotic earth";

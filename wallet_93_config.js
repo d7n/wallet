@@ -1,1 +1,1 @@
-var mnemonic = "life flock knock fatal legend garage august post barely sign legend object";
+var mnemonic = "lesson sunset can pitch arctic steak badge today foam aerobic holiday filter";

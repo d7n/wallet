@@ -1,1 +1,1 @@
-var mnemonic = "movie pledge panic display interest swap sketch whip kitten sphere tomato cook";
+var mnemonic = "bring erode scan crouch position million trap candy rose above update shallow";

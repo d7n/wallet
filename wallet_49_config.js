@@ -1,1 +1,1 @@
-var mnemonic = "monitor age clean six movie tooth special derive giggle short crystal bulb";
+var mnemonic = "actress fork title illegal cricket squeeze sail middle elegant later concert chat";

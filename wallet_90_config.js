@@ -1,1 +1,1 @@
-var mnemonic = "neutral install merit curtain shaft purse crush faint perfect pizza away awkward";
+var mnemonic = "opinion vital web suspect federal actual vital size surround myself quiz virus";

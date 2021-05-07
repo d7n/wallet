@@ -1,1 +1,1 @@
-var mnemonic = "sense need hidden deny sadness scene prison spring accuse injury stumble street";
+var mnemonic = "wrist cement cactus glue vicious path squirrel radio clerk enact muscle perfect";

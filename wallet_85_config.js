@@ -1,1 +1,1 @@
-var mnemonic = "goat street permit huge mom path rate rack round resource finger menu";
+var mnemonic = "target urban guide pair physical endorse anger relax image tunnel express genuine";

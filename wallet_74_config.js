@@ -1,1 +1,1 @@
-var mnemonic = "that sauce company ball cheap play mandate miss group weekend bachelor else";
+var mnemonic = "yellow mail voyage act bright pulse embody razor salon one orchard neutral";

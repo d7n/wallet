@@ -1,1 +1,1 @@
-var mnemonic = "rabbit tree tackle orchard science budget lizard book choice gun shock dune";
+var mnemonic = "slam fatal pelican title test weather weird surge weird aisle pattern frozen";

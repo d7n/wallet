@@ -1,1 +1,1 @@
-var mnemonic = "siege patch flight fire satisfy toy absurd divorce snack day slow wage";
+var mnemonic = "expand voice check record work idea hold blossom case grass upgrade evoke";

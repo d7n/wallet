@@ -1,1 +1,1 @@
-var mnemonic = "special salt furnace slab few message wreck impulse opera market month blade";
+var mnemonic = "fit position cinnamon fantasy betray hip craft region unique jump grunt seat";

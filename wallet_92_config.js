@@ -1,1 +1,1 @@
-var mnemonic = "glad resist usual ankle agree shop resist lounge soldier fit suspect blast";
+var mnemonic = "lamp spice source patient park pact false culture brisk science fruit unique";

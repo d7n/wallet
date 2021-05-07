@@ -1,1 +1,1 @@
-var mnemonic = "minute never crumble diet bachelor march update moon suspect answer carbon shuffle";
+var mnemonic = "pilot worry issue skill edit group number online all clever rocket coyote";

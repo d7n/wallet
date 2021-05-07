@@ -1,1 +1,1 @@
-var mnemonic = "carpet sort stand cook receive open present clip virus build daring minor";
+var mnemonic = "match lottery stay radio innocent render verify pull shallow decade veteran quiz";

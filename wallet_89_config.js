@@ -1,1 +1,1 @@
-var mnemonic = "remain copper stock hamster ask heavy dash display timber suffer divide tell";
+var mnemonic = "squirrel age family oyster gun jealous dish wood pepper point ridge mimic";

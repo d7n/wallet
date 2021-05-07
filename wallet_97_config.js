@@ -1,1 +1,1 @@
-var mnemonic = "width apple faculty rebel roast curve avoid hard mango claim reform notice";
+var mnemonic = "exit knock auto remove census ankle phone moral album talk hover scare";

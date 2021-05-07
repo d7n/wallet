@@ -1,1 +1,1 @@
-var mnemonic = "present razor resist buyer pink degree sugar pull bench tortoise symbol choose";
+var mnemonic = "shiver build fly issue tunnel tooth among honey rigid skull catalog any";

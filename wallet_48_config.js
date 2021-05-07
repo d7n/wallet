@@ -1,1 +1,1 @@
-var mnemonic = "dwarf attend poem entry marine day north tilt clock need fabric define";
+var mnemonic = "scale pulp orphan enable crater blossom duck adjust cherry loyal bar school";

@@ -1,1 +1,1 @@
-var mnemonic = "service reveal employ dinner frown pave later sound outer census invest voice";
+var mnemonic = "eternal old treat chat kitten cause cruel oyster logic dizzy elbow table";

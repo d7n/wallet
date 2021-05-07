@@ -1,1 +1,1 @@
-var mnemonic = "decide today rotate material art involve avocado indicate pupil inform sure gentle";
+var mnemonic = "security gym turkey play divide smart era mango gravity wet across clever";

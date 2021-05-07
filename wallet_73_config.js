@@ -1,1 +1,1 @@
-var mnemonic = "excess suit pottery tell offer awful toe mango flip jelly song movie";
+var mnemonic = "grace tent ready defense veteran benefit couch rude slush success reveal clerk";

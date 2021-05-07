@@ -1,1 +1,1 @@
-var mnemonic = "picnic pigeon surge shield primary cricket assist dove mouse coil rabbit buddy";
+var mnemonic = "sponsor sudden gather fresh logic pet autumn elite maid scene crop face";

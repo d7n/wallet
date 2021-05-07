@@ -1,1 +1,1 @@
-var mnemonic = "couple soldier mutual awkward citizen desert rent brisk mule discover crater replace";
+var mnemonic = "wish embrace vacant brother core upset say cook pill waste outdoor color";

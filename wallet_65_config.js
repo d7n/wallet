@@ -1,1 +1,1 @@
-var mnemonic = "payment object mask season love special problem tooth elite crush check field";
+var mnemonic = "math laptop crack minor glance wet earth nerve virus jazz vital require";

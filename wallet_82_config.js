@@ -1,1 +1,1 @@
-var mnemonic = "asthma injury address original capital hold until divorce fitness token unknown valley";
+var mnemonic = "clarify camp pink middle accident head critic knee catch nest student drill";

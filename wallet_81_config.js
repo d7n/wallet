@@ -1,1 +1,1 @@
-var mnemonic = "final suggest wise patrol lucky hero grow visual stumble stamp tiny know";
+var mnemonic = "name cricket physical cream civil relief force gossip swift lazy claim first";

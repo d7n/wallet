@@ -1,1 +1,1 @@
-var mnemonic = "soft chapter sock twenty front version buyer glare height weapon empty rubber";
+var mnemonic = "soup bless quit section bread raccoon inject winter ten mushroom debris thought";

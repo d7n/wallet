@@ -1,1 +1,1 @@
-var mnemonic = "pulse sister alter dinner together farm grid perfect neither dutch festival salmon";
+var mnemonic = "aware large gravity family stage pave metal mention fork pact final crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "update warrior release element hello bunker flat art label punch want zoo";
+var mnemonic = "include ice front canal piece warfare whisper hood dolphin settle habit ocean";
