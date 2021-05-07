@@ -1,1 +1,1 @@
-var mnemonic = "onion point human inspire border silly senior pottery dress save charge ball";
+var mnemonic = "magic flavor calm aunt long purse battle visual tired industry chimney casino";

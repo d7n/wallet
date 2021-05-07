@@ -1,1 +1,1 @@
-var mnemonic = "mouse dizzy appear fruit tuna attitude ready hundred nature century boat finger";
+var mnemonic = "biology inmate vapor album nest alert disagree gate lucky upset battle insect";

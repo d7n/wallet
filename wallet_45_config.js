@@ -1,1 +1,1 @@
-var mnemonic = "great pole raccoon credit artist ring autumn inhale much fine refuse foam";
+var mnemonic = "range naive gun citizen doll bronze flip skill cabbage december borrow wealth";

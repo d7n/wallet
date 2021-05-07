@@ -1,1 +1,1 @@
-var mnemonic = "coffee board month dizzy valve because stool memory shrimp sadness force common";
+var mnemonic = "print ability elegant hotel pyramid tide candy front devote stomach ramp make";

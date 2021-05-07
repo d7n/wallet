@@ -1,1 +1,1 @@
-var mnemonic = "orchard cactus rude trade upon travel turn garlic bench object paper glory";
+var mnemonic = "army identify virtual occur cotton guard more scrap faith pulp bamboo expand";

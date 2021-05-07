@@ -1,1 +1,1 @@
-var mnemonic = "total unknown rubber muscle hill flip police sheriff giant spoon song hold";
+var mnemonic = "bronze soup cruel icon twist congress practice planet jeans range bubble speed";

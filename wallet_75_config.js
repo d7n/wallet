@@ -1,1 +1,1 @@
-var mnemonic = "pair party usage rose car little indoor off labor fish doll museum";
+var mnemonic = "million pudding direct warfare public mind hedgehog garden betray arctic science prevent";

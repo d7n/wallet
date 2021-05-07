@@ -1,1 +1,1 @@
-var mnemonic = "luggage spatial toilet law evil apple worry deal piece glance stumble scheme";
+var mnemonic = "render maid present manual delay laugh duty change trim tuna mountain lecture";

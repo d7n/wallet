@@ -1,1 +1,1 @@
-var mnemonic = "elder hat cage frame oak tree polar bike giant wear stumble noodle";
+var mnemonic = "version crawl spray foam buyer ivory dress disagree guess minor inform vital";

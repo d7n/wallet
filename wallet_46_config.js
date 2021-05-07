@@ -1,1 +1,1 @@
-var mnemonic = "frozen pizza boss siren lava kidney gravity journey plug success pair coral";
+var mnemonic = "inject vague weapon steel account oyster window safe daring obvious antique flee";

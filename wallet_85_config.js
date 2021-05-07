@@ -1,1 +1,1 @@
-var mnemonic = "deputy best cream distance taxi peace custom throw twin remember crater shed";
+var mnemonic = "invest pair fold alcohol wisdom pyramid fix crucial flush change bridge menu";

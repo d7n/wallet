@@ -1,1 +1,1 @@
-var mnemonic = "fury close saddle rail web fine clap emotion tennis nest matrix useless";
+var mnemonic = "height fantasy float debate submit legend gesture portion panic record track month";

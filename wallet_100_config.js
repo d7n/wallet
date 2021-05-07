@@ -1,1 +1,1 @@
-var mnemonic = "sunset rule artwork birth avoid expire genius license monitor tobacco forward later";
+var mnemonic = "chicken ocean add fortune icon ask shed public toddler hammer cherry parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "volcano office mom intact mass light elegant bulk glad canvas wire mention";
+var mnemonic = "argue glimpse alter become warm when behave three draw unveil swear dress";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve picture decide hire charge grace plastic city satisfy belt slow only";
+var mnemonic = "warrior rain stable circle slide mobile retire chest inner photo pool erosion";

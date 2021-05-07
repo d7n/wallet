@@ -1,1 +1,1 @@
-var mnemonic = "regular muscle height poet still famous chapter base frost maple obey that";
+var mnemonic = "shove hybrid ozone expire glimpse area draft ship okay clump phone glad";

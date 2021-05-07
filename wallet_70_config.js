@@ -1,1 +1,1 @@
-var mnemonic = "drama peace shaft unable invest woman library undo knock guitar rotate indoor";
+var mnemonic = "fiscal master cool flush swim maple keen forward mixture busy muscle thumb";

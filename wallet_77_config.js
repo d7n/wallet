@@ -1,1 +1,1 @@
-var mnemonic = "winner impact purse divide among capital asset because program inject bronze chat";
+var mnemonic = "author budget ozone observe original just slight save depart praise office sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "fun step fitness enable orient off adjust coffee wasp blade parrot outer";
+var mnemonic = "sort curtain attack monkey grace they connect history sort hill valve satoshi";

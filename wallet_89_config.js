@@ -1,1 +1,1 @@
-var mnemonic = "tragic rose ordinary language spice safe ability place security wink grace output";
+var mnemonic = "pond utility target apology purchase holiday vacant essay mule trick liberty call";

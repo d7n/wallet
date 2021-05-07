@@ -1,1 +1,1 @@
-var mnemonic = "warfare embrace tennis system garbage enroll heavy grid finger banana live melody";
+var mnemonic = "defy rifle amount early envelope coil ensure brief inquiry reward teach attack";

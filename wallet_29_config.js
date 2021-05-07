@@ -1,1 +1,1 @@
-var mnemonic = "exist salute kiwi foam jeans angle flock float style mail affair crack";
+var mnemonic = "foam goddess floor force author elephant educate search post artefact thought glow";

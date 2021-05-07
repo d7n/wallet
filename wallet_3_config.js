@@ -1,1 +1,1 @@
-var mnemonic = "erosion treat trophy find churn link gadget aerobic hip notice thank stone";
+var mnemonic = "resist alien paper impose smoke hope fire meadow assist system flame budget";

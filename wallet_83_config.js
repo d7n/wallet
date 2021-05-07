@@ -1,1 +1,1 @@
-var mnemonic = "advance dog miracle raise melody hidden rather airport seek mango sea twin";
+var mnemonic = "alter mule daughter party settle moon zero grant demise relief mixture ostrich";

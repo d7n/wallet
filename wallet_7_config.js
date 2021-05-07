@@ -1,1 +1,1 @@
-var mnemonic = "beauty asthma sport again solution close bounce balcony task air mushroom derive";
+var mnemonic = "find stage dry quit lecture width sea addict crack boss defy blur";

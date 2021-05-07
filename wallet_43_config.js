@@ -1,1 +1,1 @@
-var mnemonic = "identify employ guitar abuse crew anger entry good ripple ancient remove fat";
+var mnemonic = "avocado apart young label floor knock shoot road badge buzz attitude mystery";

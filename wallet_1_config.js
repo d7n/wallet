@@ -1,1 +1,1 @@
-var mnemonic = "army soccer portion attitude pumpkin chicken sheriff amused return hurt mobile photo";
+var mnemonic = "addict domain churn drastic vicious evidence strong priority master hamster review hope";

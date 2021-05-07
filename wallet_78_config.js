@@ -1,1 +1,1 @@
-var mnemonic = "chest admit believe easy fabric secret target wave inherit coil steak public";
+var mnemonic = "arrow catch reject subway spy wealth maze armor upper scout state artefact";

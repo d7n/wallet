@@ -1,1 +1,1 @@
-var mnemonic = "hen buzz seminar busy slim axis chuckle taste case access ritual version";
+var mnemonic = "lobster next engine ill detect speak quote sail accuse lucky season interest";

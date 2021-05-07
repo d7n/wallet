@@ -1,1 +1,1 @@
-var mnemonic = "magnet brain blade company sketch dragon armed knee oppose axis quick scrap";
+var mnemonic = "core expect output ankle witness owner enforce aspect observe possible social sheriff";

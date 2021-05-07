@@ -1,1 +1,1 @@
-var mnemonic = "bring mistake weapon when access neither twelve frost approve furnace crane display";
+var mnemonic = "bitter priority pet any snack squeeze body faint found anxiety quote expose";

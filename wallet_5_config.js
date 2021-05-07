@@ -1,1 +1,1 @@
-var mnemonic = "weapon receive seek moment seminar syrup deposit wrap dish left patch sudden";
+var mnemonic = "advance barrel fluid valley priority major proof neither vote vendor scout oak";

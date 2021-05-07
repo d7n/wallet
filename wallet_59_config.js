@@ -1,1 +1,1 @@
-var mnemonic = "latin farm depart repeat surge champion round chest discover jewel orbit decide";
+var mnemonic = "honey case deposit prison surface river decide olympic sentence chapter elegant senior";

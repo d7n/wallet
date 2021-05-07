@@ -1,1 +1,1 @@
-var mnemonic = "mammal slice aunt develop seed wood impose knock rug judge inmate stock";
+var mnemonic = "school wage little skirt dune bid execute bracket maple globe retire delay";

@@ -1,1 +1,1 @@
-var mnemonic = "visit avoid spider task capable pen effort noodle gloom drastic ivory oil";
+var mnemonic = "latin ignore dignity suggest eight since submit mouse cruel travel main rival";

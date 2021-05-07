@@ -1,1 +1,1 @@
-var mnemonic = "fluid pumpkin vendor clown estate student busy twist hint rose play mechanic";
+var mnemonic = "frost brother burger marble knee adult wine exhibit awesome burst sauce below";

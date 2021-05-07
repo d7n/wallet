@@ -1,1 +1,1 @@
-var mnemonic = "goddess hover bulb drip capital champion speed response height curtain tip initial";
+var mnemonic = "oppose crunch thumb cook disagree lend town goose birth foot chat mixture";

@@ -1,1 +1,1 @@
-var mnemonic = "actress clinic believe neither recycle gun board helmet kiwi stamp once shield";
+var mnemonic = "dirt warrior able near cattle embody search arrest club spoil trap grape";

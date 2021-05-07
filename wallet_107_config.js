@@ -1,1 +1,1 @@
-var mnemonic = "topple push share flavor reject depth loan scrap depend view eight topple";
+var mnemonic = "airport opinion bridge spike doll section disorder shell neck enjoy amateur people";

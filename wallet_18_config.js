@@ -1,1 +1,1 @@
-var mnemonic = "fog tiger draft cargo purpose relax steel orbit miracle solve curve idle";
+var mnemonic = "average drastic obtain kidney west radar protect vague unfair head thrive unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "work knee spring section square mimic stone fine empower popular target panic";
+var mnemonic = "fiber section say dizzy eager hockey box remove chimney sunset together series";

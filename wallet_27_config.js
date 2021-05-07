@@ -1,1 +1,1 @@
-var mnemonic = "borrow job captain stay flush balcony swear ability tag home right drive";
+var mnemonic = "office margin price stage gain correct profit pause innocent raccoon merge dirt";

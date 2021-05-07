@@ -1,1 +1,1 @@
-var mnemonic = "verify speed grocery essay face ethics immense patient tag width faculty special";
+var mnemonic = "guard glass whip accuse chair refuse assume evil coin venue recycle air";

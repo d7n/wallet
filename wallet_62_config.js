@@ -1,1 +1,1 @@
-var mnemonic = "sphere better ranch witness write decline enable budget silent mention drive enforce";
+var mnemonic = "provide beach south claim oppose hole release discover cattle faculty primary junior";

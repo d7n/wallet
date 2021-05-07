@@ -1,1 +1,1 @@
-var mnemonic = "rocket network glimpse little wink remove click sauce rigid annual unlock lake";
+var mnemonic = "okay street survey blade solid trust side toast flat visual trophy prison";

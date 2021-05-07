@@ -1,1 +1,1 @@
-var mnemonic = "purpose reward tiger provide staff quit certain gallery pitch cruel merge hammer";
+var mnemonic = "shrimp zero clown much garage orchard badge essence aware finish protect giant";

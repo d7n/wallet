@@ -1,1 +1,1 @@
-var mnemonic = "slush flee insane about hammer bone improve tide section enact plunge bulk";
+var mnemonic = "trim word silent faint weird duck immense price fancy shed material employ";

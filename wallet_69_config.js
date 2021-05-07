@@ -1,1 +1,1 @@
-var mnemonic = "item dragon desk between album black garage tiger want celery inner roast";
+var mnemonic = "burst fox broom raw deal use multiply welcome behind inquiry motor market";

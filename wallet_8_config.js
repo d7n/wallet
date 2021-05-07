@@ -1,1 +1,1 @@
-var mnemonic = "stay steel coast print sad symptom fruit bus garbage ask coach stairs";
+var mnemonic = "chimney infant neither sock grocery ticket ten throw ostrich cash local harvest";

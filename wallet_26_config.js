@@ -1,1 +1,1 @@
-var mnemonic = "useless labor canvas position bonus grape boss crunch field hill obvious donkey";
+var mnemonic = "student crew image opera can parrot about over tonight fancy desk power";

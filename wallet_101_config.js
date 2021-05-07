@@ -1,1 +1,1 @@
-var mnemonic = "install pyramid envelope retreat blue below torch habit civil remain range near";
+var mnemonic = "candy fork mom author blood detect bundle snack lunar song away holiday";

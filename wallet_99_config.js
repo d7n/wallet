@@ -1,1 +1,1 @@
-var mnemonic = "season mammal man check they legal chef crane alcohol cupboard pass can";
+var mnemonic = "auction brush gallery caught garage speak kick grow rate waste prize save";

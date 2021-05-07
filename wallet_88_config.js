@@ -1,1 +1,1 @@
-var mnemonic = "twin middle eternal spare dial sense layer mosquito hope pretty blanket chimney";
+var mnemonic = "turtle fog gallery brisk wealth soap session clarify better crop crop slender";

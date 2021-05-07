@@ -1,1 +1,1 @@
-var mnemonic = "need alert doll elder same fit radar clutch biology enough edit swallow";
+var mnemonic = "subway oval verb chief loan garment pigeon chuckle moon neglect young current";

@@ -1,1 +1,1 @@
-var mnemonic = "river planet shallow hammer frozen cry weapon story hamster below another this";
+var mnemonic = "auction side nest calm mammal track voyage expect conduct pride swear deliver";

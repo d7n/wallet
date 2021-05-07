@@ -1,1 +1,1 @@
-var mnemonic = "wrist frown life praise gain decide antique pepper solar mixture park rather";
+var mnemonic = "december icon lens settle close citizen bacon access kitchen alter sugar sleep";

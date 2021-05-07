@@ -1,1 +1,1 @@
-var mnemonic = "flock erupt tray rocket panel palace plastic tenant tone panda orient sentence";
+var mnemonic = "all april siren chuckle broom sustain shadow tennis sick welcome museum delay";

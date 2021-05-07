@@ -1,1 +1,1 @@
-var mnemonic = "put lawsuit rent opera hurt thing emotion tray lazy layer detect relief";
+var mnemonic = "crystal awkward blast ladder guilt foam indicate machine comic estate myself lesson";

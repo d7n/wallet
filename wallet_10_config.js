@@ -1,1 +1,1 @@
-var mnemonic = "critic lunch script vocal excess sunny spin skull example bag zone spin";
+var mnemonic = "slogan pottery flip render symptom trip bicycle hockey exist glove naive drink";

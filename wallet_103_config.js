@@ -1,1 +1,1 @@
-var mnemonic = "report judge glory toss nuclear wear thing oak blade govern antique tiny";
+var mnemonic = "expect hour better twin word public eternal peace grain toe math observe";

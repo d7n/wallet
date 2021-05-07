@@ -1,1 +1,1 @@
-var mnemonic = "green around wonder rival rival execute pattern boil permit hamster daughter excess";
+var mnemonic = "review sad resemble pass infant great sadness weird already virtual mountain protect";

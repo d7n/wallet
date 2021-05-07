@@ -1,1 +1,1 @@
-var mnemonic = "patch harsh home velvet lift slab humble edge mother syrup broccoli parent";
+var mnemonic = "fan total guilt velvet essay reduce dune taxi master month forum hockey";

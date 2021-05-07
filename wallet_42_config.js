@@ -1,1 +1,1 @@
-var mnemonic = "thank order session buyer ancient usage long antenna snap call bulk spice";
+var mnemonic = "violin wedding all labor image hospital need immense grace crush push inner";

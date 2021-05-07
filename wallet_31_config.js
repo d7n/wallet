@@ -1,1 +1,1 @@
-var mnemonic = "trap rally describe web bulb renew depart shell tool found million admit";
+var mnemonic = "surprise plug rug monitor tail pen element pioneer corn bar pioneer lamp";

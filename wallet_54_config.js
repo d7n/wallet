@@ -1,1 +1,1 @@
-var mnemonic = "flower put stamp example quality error hand grocery switch area oval wreck";
+var mnemonic = "strike flight aware weather text female soap oxygen want demise scale hover";

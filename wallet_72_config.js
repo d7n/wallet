@@ -1,1 +1,1 @@
-var mnemonic = "toast argue web vanish behind pride manage athlete theory cereal bunker cross";
+var mnemonic = "cry helmet orbit purity library setup start mention original outdoor candy round";

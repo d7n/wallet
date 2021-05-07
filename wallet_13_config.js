@@ -1,1 +1,1 @@
-var mnemonic = "panel drip noble next celery debate nest pair album diesel joke april";
+var mnemonic = "else half tower dance carry pizza cactus secret impose inform injury room";

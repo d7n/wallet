@@ -1,1 +1,1 @@
-var mnemonic = "grain merit review render crisp orphan vivid answer dismiss ordinary walk miss";
+var mnemonic = "tortoise sibling above kingdom major usage rich trumpet develop target jealous sustain";

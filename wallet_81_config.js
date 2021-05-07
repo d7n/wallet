@@ -1,1 +1,1 @@
-var mnemonic = "orange fetch erosion imitate modify grocery shove napkin sniff laptop found tourist";
+var mnemonic = "forward usual exile plunge spread major tide animal kitchen funny outer cherry";

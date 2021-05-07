@@ -1,1 +1,1 @@
-var mnemonic = "hundred satoshi faint draw rifle crawl frame song drill degree toast supply";
+var mnemonic = "lake exclude muscle address burger venture base excess dry gather jazz powder";

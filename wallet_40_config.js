@@ -1,1 +1,1 @@
-var mnemonic = "enact glance lawn canyon when current frequent dinner unique elegant myself secret";
+var mnemonic = "brief cover rice company range suit injury suffer ensure topic system illegal";

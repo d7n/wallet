@@ -1,1 +1,1 @@
-var mnemonic = "arm degree crisp excess viable faculty shaft mandate tiny coral require swim";
+var mnemonic = "youth away mirror hurry smooth antenna reunion capable similar infant clay identify";

@@ -1,1 +1,1 @@
-var mnemonic = "hour awful own agent tank later priority goose hurry symbol image laundry";
+var mnemonic = "crater discover unknown rescue eye true panic fog fruit skate actress chase";

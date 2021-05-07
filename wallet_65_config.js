@@ -1,1 +1,1 @@
-var mnemonic = "spoil absurd ankle design sell royal eyebrow play pattern drink noble random";
+var mnemonic = "card lion pattern source barely middle vocal fix goddess town sure exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual jaguar genius solve hole pipe bomb figure exist asset spider state";
+var mnemonic = "pear awful chaos obtain canyon change digital tube fault punch claim marine";

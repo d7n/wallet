@@ -1,1 +1,1 @@
-var mnemonic = "decrease hold manual tribe usage sorry egg sentence culture endorse rose task";
+var mnemonic = "warfare disease note dirt rifle move leaf home merge design explain minimum";

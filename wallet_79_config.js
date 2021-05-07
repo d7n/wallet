@@ -1,1 +1,1 @@
-var mnemonic = "discover main pilot escape bargain indicate top install clerk shed cupboard sight";
+var mnemonic = "ill matter involve sorry blast task sail drastic tank grow rescue okay";

@@ -1,1 +1,1 @@
-var mnemonic = "story typical wear slam predict erupt coffee truck oppose jealous margin congress";
+var mnemonic = "orchard celery text subway exclude bounce invest love agent pause network unusual";

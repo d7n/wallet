@@ -1,1 +1,1 @@
-var mnemonic = "negative melody bubble attitude budget reward nerve glare enact pledge decrease chat";
+var mnemonic = "discover deer butter icon best note rotate defense among wrist motion awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma obtain kiwi stairs extra joke saddle zone nation pool tide minute";
+var mnemonic = "brisk myself viable predict kingdom imitate struggle paper coast juice noodle river";

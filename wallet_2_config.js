@@ -1,1 +1,1 @@
-var mnemonic = "sleep buffalo tumble october thumb private replace diamond state cream used desk";
+var mnemonic = "sadness speed accuse aisle grocery essay candy gesture save girl stem brick";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch recall pluck math jaguar mistake sustain flash member frown pretty know";
+var mnemonic = "crouch wedding hat violin brain detail imitate basket middle mystery develop tobacco";

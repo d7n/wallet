@@ -1,1 +1,1 @@
-var mnemonic = "wife because genre desert jump humble lecture lobster claw almost material weasel";
+var mnemonic = "plastic return horror outer skate license mouse boss fire write annual wash";

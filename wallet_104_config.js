@@ -1,1 +1,1 @@
-var mnemonic = "hundred fuel fancy switch brush volume common mobile connect bracket man admit";
+var mnemonic = "garage gap regret tragic game salad twenty parent neutral public clean inform";

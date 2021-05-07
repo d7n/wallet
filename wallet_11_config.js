@@ -1,1 +1,1 @@
-var mnemonic = "alcohol quantum neglect crane sell peace doll transfer gasp school praise energy";
+var mnemonic = "dumb confirm step cheese lady toward equip erode cream wide country cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "more hazard kitchen level differ galaxy human card goose term toss defense";
+var mnemonic = "upper card anger awful amused timber virus forget together tackle live measure";

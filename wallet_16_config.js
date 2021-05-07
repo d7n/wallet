@@ -1,1 +1,1 @@
-var mnemonic = "infant object excess scheme hobby stamp hospital discover dentist fossil curtain brave";
+var mnemonic = "toy vast axis push autumn service ladder idea ankle heavy energy this";

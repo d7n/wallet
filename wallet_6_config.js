@@ -1,1 +1,1 @@
-var mnemonic = "dynamic super cable swamp country rough gauge weather craft tail trend inform";
+var mnemonic = "group photo engine ladder slow cram magic poem arch shiver cactus gain";

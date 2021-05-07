@@ -1,1 +1,1 @@
-var mnemonic = "foil cable yellow mean recall seven mystery merit member sphere spell prepare";
+var mnemonic = "explain wasp symptom dawn place rhythm wrestle olive ostrich knock entry dress";

@@ -1,1 +1,1 @@
-var mnemonic = "legend mercy sun scheme loyal reveal panda grass expire element crouch joy";
+var mnemonic = "menu pipe service next shallow novel profit depart pact juice worry when";
