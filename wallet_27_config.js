@@ -1,1 +1,1 @@
-var mnemonic = "dial gown mule spread sleep release source stuff paper ribbon finger gather";
+var mnemonic = "method mistake draft shrug result license junior shiver opinion girl ozone hero";

@@ -1,1 +1,1 @@
-var mnemonic = "blind outdoor valve enemy cage security room poem ice vibrant season decrease";
+var mnemonic = "forget cover side pelican draft shuffle test rude frown relief defense catalog";

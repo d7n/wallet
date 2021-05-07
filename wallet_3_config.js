@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon junk skin fire tell east sure almost pledge gaze lesson grape";
+var mnemonic = "now inquiry lazy scene pluck rough twenty brick diet major genius manual";

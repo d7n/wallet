@@ -1,1 +1,1 @@
-var mnemonic = "main section ordinary butter material bag lecture harbor matrix advance chair fluid";
+var mnemonic = "cute all kite bar picture business globe mixture copper school yellow elegant";

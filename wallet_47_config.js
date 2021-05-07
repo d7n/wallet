@@ -1,1 +1,1 @@
-var mnemonic = "hazard permit mercy flame devote puzzle impact chicken coral panther stove file";
+var mnemonic = "side equip ecology pitch snow twenty raw diagram vanish cable visual seven";

@@ -1,1 +1,1 @@
-var mnemonic = "second onion kid rough name pair example crouch success wash flip suggest";
+var mnemonic = "clog scare ask over arctic gold oxygen gospel recipe day salon method";

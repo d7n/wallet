@@ -1,1 +1,1 @@
-var mnemonic = "top rug off mosquito palm limit safe loud remain discover wine dry";
+var mnemonic = "total replace magic trick mask crane exist park envelope charge length utility";

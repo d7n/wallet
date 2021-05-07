@@ -1,1 +1,1 @@
-var mnemonic = "pledge atom gas vibrant mail demise verb teach skill fresh globe february";
+var mnemonic = "beauty example surge power switch nominee craft clown birth cabbage search warrior";

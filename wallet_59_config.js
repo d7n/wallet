@@ -1,1 +1,1 @@
-var mnemonic = "involve parrot design glide witness height coffee high carpet indoor spare jacket";
+var mnemonic = "sniff club degree twin govern image clog staff donate guard anxiety glance";

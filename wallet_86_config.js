@@ -1,1 +1,1 @@
-var mnemonic = "swamp casual absent dilemma shell hover critic random machine road laundry smooth";
+var mnemonic = "neither forget shove park claw require music miracle animal cherry course join";

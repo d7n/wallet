@@ -1,1 +1,1 @@
-var mnemonic = "process lock glide initial teach rain vehicle impulse absent runway balance grain";
+var mnemonic = "april vehicle skin antenna solid kite critic hotel chapter oven tragic mixed";

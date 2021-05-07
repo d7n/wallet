@@ -1,1 +1,1 @@
-var mnemonic = "maple shuffle hope icon chimney thunder sponsor quantum title ceiling army ring";
+var mnemonic = "actress decide prepare deal piano stereo grow tonight purse age all lunch";

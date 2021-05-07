@@ -1,1 +1,1 @@
-var mnemonic = "isolate tired vehicle seek devote edit rule undo grace brave bomb dirt";
+var mnemonic = "boring scatter chuckle sport welcome decade ticket october strategy anger coffee expire";

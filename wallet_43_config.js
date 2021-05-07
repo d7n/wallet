@@ -1,1 +1,1 @@
-var mnemonic = "tree sell skate enable auto damage obtain source limit size lizard inquiry";
+var mnemonic = "final water potato earth visual easily enlist more elevator three decorate lift";

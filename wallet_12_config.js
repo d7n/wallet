@@ -1,1 +1,1 @@
-var mnemonic = "ritual jealous couch fan share magic offer creek faint depart zone increase";
+var mnemonic = "myself sugar clarify eternal one favorite wine creek bicycle holiday way client";

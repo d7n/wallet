@@ -1,1 +1,1 @@
-var mnemonic = "senior cram climb expire split ancient expect social already whale coffee celery";
+var mnemonic = "umbrella mesh match weekend father crystal husband morning group actor history humor";

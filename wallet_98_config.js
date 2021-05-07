@@ -1,1 +1,1 @@
-var mnemonic = "record pilot priority daring expect utility fatigue wave market soda connect stairs";
+var mnemonic = "fade spell coast fade own oak sibling when receive small habit heavy";

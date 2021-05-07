@@ -1,1 +1,1 @@
-var mnemonic = "day exotic pioneer black pen pudding annual play symptom alcohol dentist neglect";
+var mnemonic = "forward candy gentle chuckle luggage bubble aisle average stool attract moon offer";

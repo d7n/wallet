@@ -1,1 +1,1 @@
-var mnemonic = "travel reopen family cherry solid favorite hood trap hero measure plug fat";
+var mnemonic = "decline time chaos runway gospel sea slab carry century leave bomb client";

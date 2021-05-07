@@ -1,1 +1,1 @@
-var mnemonic = "obvious fan thank lava limit share example caution stick vicious table vicious";
+var mnemonic = "reason snap predict bleak ship reject ring cup harvest august prepare torch";

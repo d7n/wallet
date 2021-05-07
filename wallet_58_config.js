@@ -1,1 +1,1 @@
-var mnemonic = "immense smooth aspect garment able liquid like vendor exit adult crash silver";
+var mnemonic = "roast half language pulse shallow frequent limb tuna pizza proud park target";

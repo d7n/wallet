@@ -1,1 +1,1 @@
-var mnemonic = "object october snow return that enlist wealth desk pencil mirror abandon rocket";
+var mnemonic = "ethics aspect stick music coral crash what easy artwork atom shallow gas";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty improve morning rug middle screen brisk clever over entry word comfort";
+var mnemonic = "round palm source labor amazing wish tunnel north asset story seed toss";

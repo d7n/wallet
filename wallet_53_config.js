@@ -1,1 +1,1 @@
-var mnemonic = "ocean satoshi fatal slab faith zero lawsuit key position trouble afraid adapt";
+var mnemonic = "civil august lend famous spawn word ritual blade aerobic health barrel basic";

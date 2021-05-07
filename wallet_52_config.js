@@ -1,1 +1,1 @@
-var mnemonic = "shuffle post toilet engage gaze cigar pulp transfer prepare blossom lumber canyon";
+var mnemonic = "festival utility mechanic fresh jungle wrap drill diesel path boy raccoon fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit solar token divorce section loyal crime stay dirt feature burger desert";
+var mnemonic = "degree velvet sponsor sword defy round direct shock tiger define lumber clump";

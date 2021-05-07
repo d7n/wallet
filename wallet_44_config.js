@@ -1,1 +1,1 @@
-var mnemonic = "vendor lizard dutch casual phone erupt network urban scout fan kitten faith";
+var mnemonic = "fold puzzle child tomato expire little urban second true dove sister smile";

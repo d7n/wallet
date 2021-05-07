@@ -1,1 +1,1 @@
-var mnemonic = "solid solid school juice audit clutch butter perfect dish canyon diet match";
+var mnemonic = "fashion monster expand stem decorate oblige lake gym sword sketch claim endless";

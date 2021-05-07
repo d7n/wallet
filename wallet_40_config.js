@@ -1,1 +1,1 @@
-var mnemonic = "cave romance funny scale acquire collect jaguar student strong crunch rate sphere";
+var mnemonic = "vacant hotel despair ensure subway apart panel ceiling include cargo bag kitten";

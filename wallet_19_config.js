@@ -1,1 +1,1 @@
-var mnemonic = "future search recipe choice certain banner turtle thing arrow lion rule sing";
+var mnemonic = "early badge face boy stamp click peasant chest close top borrow together";

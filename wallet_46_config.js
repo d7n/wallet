@@ -1,1 +1,1 @@
-var mnemonic = "strike comfort upper devote drink rough rubber account middle dirt original symptom";
+var mnemonic = "deposit maze child harbor round olympic puzzle ancient amazing learn inner shove";

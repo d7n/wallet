@@ -1,1 +1,1 @@
-var mnemonic = "priority maid recall elder cliff pupil nice draft occur vehicle endless fluid";
+var mnemonic = "trick ankle edit level candy decline indoor memory iron teach staff suggest";

@@ -1,1 +1,1 @@
-var mnemonic = "element number receive anchor loud castle fitness train mechanic whip rail box";
+var mnemonic = "online fragile report miracle canal element frequent beach funny chunk about van";

@@ -1,1 +1,1 @@
-var mnemonic = "anger focus fly vocal another panda twin smile receive draw book share";
+var mnemonic = "balance grace spread barrel narrow mandate fuel kick satoshi tail casual pill";

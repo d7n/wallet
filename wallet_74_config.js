@@ -1,1 +1,1 @@
-var mnemonic = "grant mountain soup scissors oxygen awful rather panel donor art betray assume";
+var mnemonic = "enough solar repeat season tortoise myth wire weird valid section neutral exhibit";

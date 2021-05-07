@@ -1,1 +1,1 @@
-var mnemonic = "noise pull keep fiber slight assume flee camp tool kitten later pen";
+var mnemonic = "cheap foil rotate border measure future baby phrase artist reveal conduct hurry";

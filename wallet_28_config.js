@@ -1,1 +1,1 @@
-var mnemonic = "dad night furnace destroy onion case talk client smart animal outer local";
+var mnemonic = "safe shallow twist whisper pizza build purchase seven option happy three parade";

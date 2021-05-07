@@ -1,1 +1,1 @@
-var mnemonic = "animal lion float teach coil section custom ice course idea jacket exotic";
+var mnemonic = "dance project lesson stock stem what notice cheese cargo problem west beauty";

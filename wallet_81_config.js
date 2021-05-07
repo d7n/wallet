@@ -1,1 +1,1 @@
-var mnemonic = "bracket horse blood monitor coil diesel elephant bridge title camp figure nasty";
+var mnemonic = "order sunset snow razor illness shrug work globe debris switch junk stem";

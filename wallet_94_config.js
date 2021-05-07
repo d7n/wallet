@@ -1,1 +1,1 @@
-var mnemonic = "model opera legend antique pet measure point own people borrow sniff unveil";
+var mnemonic = "amateur genre maze umbrella lunar immune veteran vibrant plastic acoustic head fault";

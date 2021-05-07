@@ -1,1 +1,1 @@
-var mnemonic = "spray baby mixed few fossil enact abuse possible hospital keen educate must";
+var mnemonic = "struggle rack pudding hotel royal crumble melody visa innocent inhale more display";

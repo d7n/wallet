@@ -1,1 +1,1 @@
-var mnemonic = "side vault render habit average satoshi crater possible series fatigue spare vehicle";
+var mnemonic = "bomb require jeans silly ahead useless floor dentist pride shield fix calm";

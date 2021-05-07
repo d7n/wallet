@@ -1,1 +1,1 @@
-var mnemonic = "pigeon name raven pole prepare entry veteran sorry flight clog crunch seminar";
+var mnemonic = "live purse sing woman swim myself harbor symbol dynamic receive soap quantum";

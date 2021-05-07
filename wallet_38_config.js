@@ -1,1 +1,1 @@
-var mnemonic = "tank north check scout describe valid term round reveal danger rotate neutral";
+var mnemonic = "cotton impulse dragon glass tackle cliff blame raw expand absurd atom spare";

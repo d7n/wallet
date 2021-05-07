@@ -1,1 +1,1 @@
-var mnemonic = "rapid clump else drum ghost frame orphan success subway plastic love reason";
+var mnemonic = "concert grow metal situate spy repeat feed foil waste express sugar treat";

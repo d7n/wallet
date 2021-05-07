@@ -1,1 +1,1 @@
-var mnemonic = "solar retreat grow inside olive all planet wall pipe man alien claw";
+var mnemonic = "ask giant diagram dinner world cheap sad double shrug cruise sauce old";

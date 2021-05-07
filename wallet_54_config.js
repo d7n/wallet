@@ -1,1 +1,1 @@
-var mnemonic = "tribe leg say unique few arrive mushroom oak combine crystal vote hidden";
+var mnemonic = "just arena maze chat tired toddler soon shove expire escape rain kidney";

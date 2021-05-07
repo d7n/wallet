@@ -1,1 +1,1 @@
-var mnemonic = "clarify ring liquid version avoid pond tourist error faith south day insect";
+var mnemonic = "yellow huge real worth cable assume until father gossip client garden write";

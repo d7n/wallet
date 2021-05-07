@@ -1,1 +1,1 @@
-var mnemonic = "rhythm limit ordinary glance love poverty disease yard model cost cabin quit";
+var mnemonic = "fortune behave payment carbon pole update skate dish happy notice glory glimpse";

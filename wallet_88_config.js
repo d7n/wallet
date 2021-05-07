@@ -1,1 +1,1 @@
-var mnemonic = "vapor just matrix pigeon cup action patrol start attract list code since";
+var mnemonic = "rack oval valve dance forward hawk shrimp fiscal symptom battle liar cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "hire neutral candy humor thrive hair sport ability matrix gasp dolphin fitness";
+var mnemonic = "october east dilemma ice either acid range doll pill people raven couple";

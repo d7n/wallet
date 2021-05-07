@@ -1,1 +1,1 @@
-var mnemonic = "spawn random model solution keen hill gorilla render music unaware alley tell";
+var mnemonic = "neutral angry access science fog female shift genre jacket radar half body";

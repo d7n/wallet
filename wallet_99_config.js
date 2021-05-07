@@ -1,1 +1,1 @@
-var mnemonic = "job couple render season history lobster that lucky helmet advice twice bone";
+var mnemonic = "wisdom develop beach regret rhythm country tornado physical gaze opera twist output";

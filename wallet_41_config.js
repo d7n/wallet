@@ -1,1 +1,1 @@
-var mnemonic = "message uncover ship rack vault luggage ketchup proud skill wasp tenant column";
+var mnemonic = "unaware scare empower leave style toast goat sort lake era property clutch";

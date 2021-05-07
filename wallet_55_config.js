@@ -1,1 +1,1 @@
-var mnemonic = "celery neglect novel range spoon message goat volcano derive alcohol crumble melt";
+var mnemonic = "album dismiss usage panic float drink road license magnet hunt useful spawn";

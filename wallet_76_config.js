@@ -1,1 +1,1 @@
-var mnemonic = "conduct prison leader bus nurse muscle betray comic stock push only tomato";
+var mnemonic = "lawsuit dry near damp useful drill cave lake acoustic debris hurt promote";

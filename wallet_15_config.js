@@ -1,1 +1,1 @@
-var mnemonic = "powder goat cook danger cupboard toy uniform harvest exit inherit decrease sad";
+var mnemonic = "notice shrimp glove invite arch jazz bacon baby travel orient uphold provide";

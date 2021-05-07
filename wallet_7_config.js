@@ -1,1 +1,1 @@
-var mnemonic = "monitor machine fashion spatial fatal expose valve gentle agree gospel spatial fox";
+var mnemonic = "slice autumn nerve best blame seven above muffin senior forest two inhale";

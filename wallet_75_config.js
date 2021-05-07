@@ -1,1 +1,1 @@
-var mnemonic = "harsh mother estate outdoor trust peasant tissue fall material enemy old shine";
+var mnemonic = "display glass side risk baby health dolphin subway chunk hybrid surface ostrich";

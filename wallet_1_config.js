@@ -1,1 +1,1 @@
-var mnemonic = "satisfy net burst kangaroo minute run virtual pen wrestle inspire brick excuse";
+var mnemonic = "address innocent enjoy veteran method sponsor stamp situate crumble cruise round hero";

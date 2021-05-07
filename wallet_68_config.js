@@ -1,1 +1,1 @@
-var mnemonic = "scare emerge can maid grow twelve print idle near solid kingdom topic";
+var mnemonic = "project wink shy traffic bike rug cinnamon just hour sure amount victory";

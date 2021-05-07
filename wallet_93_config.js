@@ -1,1 +1,1 @@
-var mnemonic = "erupt danger model throw trumpet candy hobby obey start wedding rotate garbage";
+var mnemonic = "daughter mirror impact life main maid public unlock cry rare razor term";

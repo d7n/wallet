@@ -1,1 +1,1 @@
-var mnemonic = "abuse plug unable gift viable artist ivory finger tooth merit naive giraffe";
+var mnemonic = "satoshi tower shy obvious find ice final upper hobby arrive hip fog";

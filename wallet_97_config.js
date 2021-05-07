@@ -1,1 +1,1 @@
-var mnemonic = "conduct mandate device clock cart cereal pipe course bubble cave hold scan";
+var mnemonic = "carbon setup move useful prefer october aware involve benefit stove under height";

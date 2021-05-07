@@ -1,1 +1,1 @@
-var mnemonic = "cruel myth month bird tomorrow inject swift shallow labor clown bless stay";
+var mnemonic = "rent advance master enhance hello tray example turtle crew also toy spin";

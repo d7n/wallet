@@ -1,1 +1,1 @@
-var mnemonic = "gasp fatal enter abstract maximum energy lady excess throw usage panic ring";
+var mnemonic = "proof fatal magic fault drop festival update option kingdom forget caught tribe";

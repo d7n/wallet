@@ -1,1 +1,1 @@
-var mnemonic = "butter rail pulse fatal praise diary cat night fan melt example shuffle";
+var mnemonic = "mirror witness tiger remove school tiny trip say have expire hotel whip";

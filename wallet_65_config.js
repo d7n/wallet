@@ -1,1 +1,1 @@
-var mnemonic = "lobster gate emerge velvet duck pistol follow iron motor holiday void square";
+var mnemonic = "powder network bus major lizard symbol solution sound online oxygen huge hole";

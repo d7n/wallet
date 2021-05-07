@@ -1,1 +1,1 @@
-var mnemonic = "lounge inch miracle erode erupt work round salon dress burger emotion task";
+var mnemonic = "rate report entire also install common oxygen appear enlist modify laundry invest";

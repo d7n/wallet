@@ -1,1 +1,1 @@
-var mnemonic = "wild cabbage awkward rude miracle ensure shaft drip final mansion diamond banner";
+var mnemonic = "circle chair mammal senior endless domain diesel season predict lunch amateur text";

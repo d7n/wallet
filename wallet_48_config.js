@@ -1,1 +1,1 @@
-var mnemonic = "flavor horror slow trap egg genre exit embark taxi latin warfare license";
+var mnemonic = "skin river thought catalog garment young cabbage ridge lady action bargain thrive";

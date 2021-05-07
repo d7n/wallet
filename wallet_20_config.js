@@ -1,1 +1,1 @@
-var mnemonic = "hen wild govern swallow mandate broken code monkey lobster expand place wasp";
+var mnemonic = "cage learn fatigue swift enough vintage silly bag viable pipe dash blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "blur slide wire adult team volume account clutch injury success supreme exchange";
+var mnemonic = "blossom stuff quality about lend moon act cash obtain learn phrase wall";

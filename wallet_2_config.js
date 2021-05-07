@@ -1,1 +1,1 @@
-var mnemonic = "fence knock tag seven twin timber throw region allow grit great hat";
+var mnemonic = "convince luggage tribe million arrive engine symbol skirt together spoil minimum win";

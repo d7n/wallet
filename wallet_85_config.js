@@ -1,1 +1,1 @@
-var mnemonic = "rebuild use cactus wire pole vehicle harsh write ankle range blur half";
+var mnemonic = "cliff civil already promote vessel pumpkin isolate access into prison panda young";

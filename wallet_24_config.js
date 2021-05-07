@@ -1,1 +1,1 @@
-var mnemonic = "scrap gadget dress milk candy corn travel boat taxi mule pumpkin apology";
+var mnemonic = "music escape prison mom select soon true slab mushroom return other jaguar";

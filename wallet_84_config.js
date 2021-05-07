@@ -1,1 +1,1 @@
-var mnemonic = "sister goddess elephant very angry question three weekend ivory sudden ritual park";
+var mnemonic = "chief edit vivid exclude educate choose payment lamp divorce hand rabbit fitness";

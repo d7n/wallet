@@ -1,1 +1,1 @@
-var mnemonic = "choose file scissors wise either domain puzzle coyote island force ribbon canyon";
+var mnemonic = "sure evolve give bridge weekend body crumble table leisure alcohol inform universe";

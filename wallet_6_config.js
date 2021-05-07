@@ -1,1 +1,1 @@
-var mnemonic = "swing wool stable banana tomorrow path cupboard either bamboo steak vibrant wise";
+var mnemonic = "spy business engage increase general century kid electric aim leader stumble grace";

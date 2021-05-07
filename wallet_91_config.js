@@ -1,1 +1,1 @@
-var mnemonic = "gold anchor under diary nut jealous diagram sibling vague swarm social monster";
+var mnemonic = "solution evolve multiply coffee wall tip eagle across reunion stumble giggle curtain";

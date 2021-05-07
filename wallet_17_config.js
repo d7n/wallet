@@ -1,1 +1,1 @@
-var mnemonic = "frame rival pelican balcony ethics latin tip digital slide allow shell smile";
+var mnemonic = "disagree caught inject cable able health please flush gallery culture soap rescue";

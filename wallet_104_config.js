@@ -1,1 +1,1 @@
-var mnemonic = "idle please state fence success raw miracle orchard shrimp fantasy attitude legal";
+var mnemonic = "artist identify toddler unhappy silk toilet pupil memory tobacco online valve dragon";

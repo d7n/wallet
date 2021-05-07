@@ -1,1 +1,1 @@
-var mnemonic = "armed cushion garlic comic decade cup junk check oil treat air trade";
+var mnemonic = "frown olive spice angry shy base glue joy nephew truly jealous skate";

@@ -1,1 +1,1 @@
-var mnemonic = "million nice dignity window page tag another exact feature bitter enable photo";
+var mnemonic = "harvest latin defense disease cool elder burger average modify wheel ramp slogan";

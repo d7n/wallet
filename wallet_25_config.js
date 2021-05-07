@@ -1,1 +1,1 @@
-var mnemonic = "isolate cram hurry away custom upset gossip carbon month expire evolve this";
+var mnemonic = "mixed amateur snake such crime smart file income labor oval mass royal";

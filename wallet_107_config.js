@@ -1,1 +1,1 @@
-var mnemonic = "valve expand glare gasp color trash baby kid alert enrich rate share";
+var mnemonic = "finger mixture trial differ urban legend used fat knock busy monster grant";

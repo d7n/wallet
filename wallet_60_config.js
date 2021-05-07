@@ -1,1 +1,1 @@
-var mnemonic = "squeeze camp color manage width crane acquire soup sick shaft ring female";
+var mnemonic = "circle soon van fiber dose jar logic broom room kangaroo winter adapt";

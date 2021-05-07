@@ -1,1 +1,1 @@
-var mnemonic = "happy bachelor woman media scatter cheap dismiss symbol capital become rotate scorpion";
+var mnemonic = "peace fun disease device cook early until post scheme degree dismiss obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "below rain submit borrow auction muffin man spike boat raw poet subject";
+var mnemonic = "door outer rude runway senior coconut side calm nut fiction glass toy";

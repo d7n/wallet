@@ -1,1 +1,1 @@
-var mnemonic = "jaguar orphan track loyal glove banana timber maple impose client around miss";
+var mnemonic = "swing differ marine marble choose father walnut drive large notable narrow scan";

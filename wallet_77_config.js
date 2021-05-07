@@ -1,1 +1,1 @@
-var mnemonic = "snap artist entire benefit cliff glue shift napkin wonder picnic viable unveil";
+var mnemonic = "you cousin prize promote brisk match wear render total relief resemble elegant";

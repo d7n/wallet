@@ -1,1 +1,1 @@
-var mnemonic = "orchard stamp stomach shoe town autumn impose increase garlic radar snap duty";
+var mnemonic = "park sick iron toy egg token soup outside seven apple over mirror";

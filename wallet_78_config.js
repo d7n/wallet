@@ -1,1 +1,1 @@
-var mnemonic = "tube diesel one humble deliver drop syrup shell roast nature antenna gown";
+var mnemonic = "erupt friend vendor timber remember dizzy canal load practice priority ship excess";

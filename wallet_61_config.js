@@ -1,1 +1,1 @@
-var mnemonic = "else glow enforce course drama air wisdom stage obey click interest shock";
+var mnemonic = "riot void clap happy hand glide wear caught nephew announce will install";
