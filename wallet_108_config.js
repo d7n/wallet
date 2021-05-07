@@ -1,1 +1,1 @@
-var mnemonic = "toilet output law deputy zebra light bike peace throw forum elephant melody";
+var mnemonic = "tell panel riot library mansion rail dwarf custom punch use south absorb";

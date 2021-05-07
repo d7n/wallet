@@ -1,1 +1,1 @@
-var mnemonic = "end insane curve unique diet train episode staff fruit rice describe calm";
+var mnemonic = "clarify ring liquid version avoid pond tourist error faith south day insect";

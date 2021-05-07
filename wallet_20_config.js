@@ -1,1 +1,1 @@
-var mnemonic = "dice ghost napkin wild indicate ahead lazy mountain ritual recipe eternal loan";
+var mnemonic = "hen wild govern swallow mandate broken code monkey lobster expand place wasp";

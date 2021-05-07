@@ -1,1 +1,1 @@
-var mnemonic = "shy negative occur pudding grunt legal turn heart spring sound oak engine";
+var mnemonic = "abuse plug unable gift viable artist ivory finger tooth merit naive giraffe";

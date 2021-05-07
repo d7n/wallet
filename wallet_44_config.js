@@ -1,1 +1,1 @@
-var mnemonic = "female artwork height episode flush census employ rescue coral crouch long pill";
+var mnemonic = "vendor lizard dutch casual phone erupt network urban scout fan kitten faith";

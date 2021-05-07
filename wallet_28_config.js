@@ -1,1 +1,1 @@
-var mnemonic = "sound initial erase girl pulse voice evoke mad avoid chat ozone busy";
+var mnemonic = "dad night furnace destroy onion case talk client smart animal outer local";

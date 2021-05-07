@@ -1,1 +1,1 @@
-var mnemonic = "basket marine fury harvest chair various balcony equip surround gold attitude stage";
+var mnemonic = "visual beef like inmate major borrow envelope fan ride below tissue chapter";

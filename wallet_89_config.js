@@ -1,1 +1,1 @@
-var mnemonic = "beyond few veteran behind learn onion fiscal soccer six box dilemma wrong";
+var mnemonic = "hire neutral candy humor thrive hair sport ability matrix gasp dolphin fitness";

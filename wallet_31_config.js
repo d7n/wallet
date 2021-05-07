@@ -1,1 +1,1 @@
-var mnemonic = "argue yellow affair thank protect crash achieve anchor aunt hobby alley smart";
+var mnemonic = "spray baby mixed few fossil enact abuse possible hospital keen educate must";

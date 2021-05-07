@@ -1,1 +1,1 @@
-var mnemonic = "kitten cousin tag ankle ozone extra under sugar siege local column into";
+var mnemonic = "model opera legend antique pet measure point own people borrow sniff unveil";

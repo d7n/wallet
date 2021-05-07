@@ -1,1 +1,1 @@
-var mnemonic = "evoke student faint grief alien child foam roast pride series wear brass";
+var mnemonic = "job couple render season history lobster that lucky helmet advice twice bone";

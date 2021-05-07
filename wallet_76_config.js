@@ -1,1 +1,1 @@
-var mnemonic = "seven grow vintage gravity crush foot frequent tenant pole fish sea box";
+var mnemonic = "conduct prison leader bus nurse muscle betray comic stock push only tomato";

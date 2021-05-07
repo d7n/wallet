@@ -1,1 +1,1 @@
-var mnemonic = "hint envelope address tell wish sphere minor pole virus ceiling few undo";
+var mnemonic = "pigeon name raven pole prepare entry veteran sorry flight clog crunch seminar";

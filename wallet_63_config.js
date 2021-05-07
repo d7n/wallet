@@ -1,1 +1,1 @@
-var mnemonic = "diamond broccoli young cannon carry sad garlic rug master few coyote spoon";
+var mnemonic = "lounge inch miracle erode erupt work round salon dress burger emotion task";

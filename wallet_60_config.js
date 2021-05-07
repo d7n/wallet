@@ -1,1 +1,1 @@
-var mnemonic = "rough vessel brass fortune reflect replace road resemble obey east mechanic student";
+var mnemonic = "squeeze camp color manage width crane acquire soup sick shaft ring female";

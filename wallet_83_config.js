@@ -1,1 +1,1 @@
-var mnemonic = "carbon gym balcony script foam athlete expire interest elite famous hunt seven";
+var mnemonic = "solar retreat grow inside olive all planet wall pipe man alien claw";

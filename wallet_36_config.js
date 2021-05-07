@@ -1,1 +1,1 @@
-var mnemonic = "hero creek sphere tragic arrow series dwarf mango bean always strong setup";
+var mnemonic = "gasp fatal enter abstract maximum energy lady excess throw usage panic ring";

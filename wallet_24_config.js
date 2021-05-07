@@ -1,1 +1,1 @@
-var mnemonic = "wrestle dilemma session attitude about taste naive fiction remain scare index taste";
+var mnemonic = "scrap gadget dress milk candy corn travel boat taxi mule pumpkin apology";

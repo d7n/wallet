@@ -1,1 +1,1 @@
-var mnemonic = "pluck indicate need labor garlic tip mango ripple success build cinnamon when";
+var mnemonic = "side vault render habit average satoshi crater possible series fatigue spare vehicle";

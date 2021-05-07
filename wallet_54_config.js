@@ -1,1 +1,1 @@
-var mnemonic = "lesson tourist result sure autumn focus endless cigar number firm country fetch";
+var mnemonic = "tribe leg say unique few arrive mushroom oak combine crystal vote hidden";

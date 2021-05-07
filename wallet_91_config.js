@@ -1,1 +1,1 @@
-var mnemonic = "panda anger jar fatal manage discover latin curve wood dry grape feed";
+var mnemonic = "gold anchor under diary nut jealous diagram sibling vague swarm social monster";

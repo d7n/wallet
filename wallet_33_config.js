@@ -1,1 +1,1 @@
-var mnemonic = "basket profit patch cradle ivory iron snow slender icon ripple dawn race";
+var mnemonic = "emotion avoid yellow below drill repair food erupt worry scan control toe";

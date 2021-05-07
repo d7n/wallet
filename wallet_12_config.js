@@ -1,1 +1,1 @@
-var mnemonic = "enemy shield wise erupt excite race bullet story breeze family accuse ready";
+var mnemonic = "ritual jealous couch fan share magic offer creek faint depart zone increase";

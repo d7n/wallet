@@ -1,1 +1,1 @@
-var mnemonic = "crucial grace fold page brother connect pioneer dilemma element filter modify imitate";
+var mnemonic = "frame rival pelican balcony ethics latin tip digital slide allow shell smile";

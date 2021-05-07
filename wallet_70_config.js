@@ -1,1 +1,1 @@
-var mnemonic = "faint abstract suit detail anxiety repeat major cave kick globe second tonight";
+var mnemonic = "blind outdoor valve enemy cage security room poem ice vibrant season decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster build giggle loop simple daughter ahead tape famous admit pool kit";
+var mnemonic = "valve expand glare gasp color trash baby kid alert enrich rate share";

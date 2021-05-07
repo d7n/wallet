@@ -1,1 +1,1 @@
-var mnemonic = "involve hello meat quit patient beef help vital stable tray pink slide";
+var mnemonic = "else glow enforce course drama air wisdom stage obey click interest shock";

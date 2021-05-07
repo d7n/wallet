@@ -1,1 +1,1 @@
-var mnemonic = "olympic long solution goose badge head path elephant horse canal valley point";
+var mnemonic = "involve parrot design glide witness height coffee high carpet indoor spare jacket";

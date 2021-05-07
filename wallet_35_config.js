@@ -1,1 +1,1 @@
-var mnemonic = "library crumble rebuild fix viable involve economy glare stage vague afraid innocent";
+var mnemonic = "stable swap movie sentence brother nation hello cart organ can faith keep";

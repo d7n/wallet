@@ -1,1 +1,1 @@
-var mnemonic = "erupt skate crouch tonight alley bubble adjust polar syrup seek meat seek";
+var mnemonic = "best tissue humble ancient spoon morning exchange boil canyon total exhibit guide";

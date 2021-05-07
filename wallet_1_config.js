@@ -1,1 +1,1 @@
-var mnemonic = "today hood cake history over across ocean festival narrow mystery act catalog";
+var mnemonic = "satisfy net burst kangaroo minute run virtual pen wrestle inspire brick excuse";

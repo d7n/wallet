@@ -1,1 +1,1 @@
-var mnemonic = "matter vanish brick fiber panic kidney flush popular evidence much wealth nice";
+var mnemonic = "travel reopen family cherry solid favorite hood trap hero measure plug fat";

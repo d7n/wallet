@@ -1,1 +1,1 @@
-var mnemonic = "doctor six knock boil bacon donate whale shrimp hint float chat friend";
+var mnemonic = "strike comfort upper devote drink rough rubber account middle dirt original symptom";

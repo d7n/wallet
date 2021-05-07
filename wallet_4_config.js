@@ -1,1 +1,1 @@
-var mnemonic = "task focus omit merit spin oval super enact release lounge toddler assist";
+var mnemonic = "cruel myth month bird tomorrow inject swift shallow labor clown bless stay";

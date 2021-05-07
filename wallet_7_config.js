@@ -1,1 +1,1 @@
-var mnemonic = "dizzy swear source race push recall joy lawn cigar crazy gloom spray";
+var mnemonic = "monitor machine fashion spatial fatal expose valve gentle agree gospel spatial fox";

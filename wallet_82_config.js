@@ -1,1 +1,1 @@
-var mnemonic = "account ill ecology crucial south carbon monster country cat enable cart uncle";
+var mnemonic = "million nice dignity window page tag another exact feature bitter enable photo";

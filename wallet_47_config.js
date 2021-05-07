@@ -1,1 +1,1 @@
-var mnemonic = "average heavy stumble match heart myself almost wheat approve differ learn shove";
+var mnemonic = "hazard permit mercy flame devote puzzle impact chicken coral panther stove file";

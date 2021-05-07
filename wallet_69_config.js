@@ -1,1 +1,1 @@
-var mnemonic = "wasp siren chimney member stay blade door predict swallow focus income smile";
+var mnemonic = "main section ordinary butter material bag lecture harbor matrix advance chair fluid";

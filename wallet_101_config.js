@@ -1,1 +1,1 @@
-var mnemonic = "dinner accuse devote elite mention educate army upset place double club pottery";
+var mnemonic = "orchard stamp stomach shoe town autumn impose increase garlic radar snap duty";

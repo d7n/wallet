@@ -1,1 +1,1 @@
-var mnemonic = "response afraid mesh tip stem profit mercy wear pioneer series assume chest";
+var mnemonic = "senior cram climb expire split ancient expect social already whale coffee celery";

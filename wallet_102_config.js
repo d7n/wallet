@@ -1,1 +1,1 @@
-var mnemonic = "tiny gadget brand subject coyote that puzzle jelly limb into surge enhance";
+var mnemonic = "differ suspect abuse hope purchase border embark swarm afraid glow praise canoe";

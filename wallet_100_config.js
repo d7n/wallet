@@ -1,1 +1,1 @@
-var mnemonic = "unknown mistake view wrestle shiver lock coral stove decline fee divorce party";
+var mnemonic = "lawsuit solar token divorce section loyal crime stay dirt feature burger desert";

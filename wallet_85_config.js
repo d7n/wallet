@@ -1,1 +1,1 @@
-var mnemonic = "few gift idle holiday exercise own bless conduct hybrid unable angry rail";
+var mnemonic = "rebuild use cactus wire pole vehicle harsh write ankle range blur half";

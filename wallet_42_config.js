@@ -1,1 +1,1 @@
-var mnemonic = "worry please icon motor identify illegal already position silk sheriff skin ghost";
+var mnemonic = "obvious fan thank lava limit share example caution stick vicious table vicious";

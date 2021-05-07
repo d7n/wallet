@@ -1,1 +1,1 @@
-var mnemonic = "busy quote pepper marine sister fault jar talent enjoy must leader puppy";
+var mnemonic = "tooth intact paper traffic gown ginger achieve develop found drama ensure illness";

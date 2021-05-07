@@ -1,1 +1,1 @@
-var mnemonic = "balance magnet nut sadness august long panther donor van divide vacant breeze";
+var mnemonic = "harsh mother estate outdoor trust peasant tissue fall material enemy old shine";

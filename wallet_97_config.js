@@ -1,1 +1,1 @@
-var mnemonic = "nose dance evoke world wing congress can census inch couch rival taxi";
+var mnemonic = "conduct mandate device clock cart cereal pipe course bubble cave hold scan";

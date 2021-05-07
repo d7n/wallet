@@ -1,1 +1,1 @@
-var mnemonic = "ring fine escape hazard arch virus room alarm little glow divide loyal";
+var mnemonic = "sister goddess elephant very angry question three weekend ivory sudden ritual park";

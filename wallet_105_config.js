@@ -1,1 +1,1 @@
-var mnemonic = "horn retreat build code dinosaur true siege pool park diary market where";
+var mnemonic = "banana jacket frost trend gown culture cigar betray solution pupil bid salute";

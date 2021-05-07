@@ -1,1 +1,1 @@
-var mnemonic = "lake stamp attitude brisk develop street biology setup pen tortoise comic consider";
+var mnemonic = "solid solid school juice audit clutch butter perfect dish canyon diet match";

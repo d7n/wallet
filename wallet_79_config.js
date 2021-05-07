@@ -1,1 +1,1 @@
-var mnemonic = "squirrel garlic alert nominee oval wink mirror increase salon dinosaur erase journey";
+var mnemonic = "oxygen sign lottery work edit maze eager number nothing genre true myth";

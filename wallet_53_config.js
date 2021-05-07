@@ -1,1 +1,1 @@
-var mnemonic = "pottery assume total entry feel rival very warm spring insane rotate license";
+var mnemonic = "ocean satoshi fatal slab faith zero lawsuit key position trouble afraid adapt";

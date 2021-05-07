@@ -1,1 +1,1 @@
-var mnemonic = "produce dial ranch immense repair eagle bird predict bench drive broccoli praise";
+var mnemonic = "rhythm limit ordinary glance love poverty disease yard model cost cabin quit";

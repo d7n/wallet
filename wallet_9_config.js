@@ -1,1 +1,1 @@
-var mnemonic = "spare artist distance federal quote marble ability picture embark brisk flee warfare";
+var mnemonic = "top rug off mosquito palm limit safe loud remain discover wine dry";

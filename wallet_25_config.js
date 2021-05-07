@@ -1,1 +1,1 @@
-var mnemonic = "arm act tip scale tell school exit snow balcony index pistol sign";
+var mnemonic = "isolate cram hurry away custom upset gossip carbon month expire evolve this";

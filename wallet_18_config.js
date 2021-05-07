@@ -1,1 +1,1 @@
-var mnemonic = "hammer bomb robust fork awake injury transfer radio friend question surge parrot";
+var mnemonic = "luggage stereo stick trap equip fresh loan drip zoo useful visit detect";

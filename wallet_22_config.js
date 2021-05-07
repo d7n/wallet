@@ -1,1 +1,1 @@
-var mnemonic = "force huge punch able obvious record nest height frog sauce sauce van";
+var mnemonic = "maple shuffle hope icon chimney thunder sponsor quantum title ceiling army ring";

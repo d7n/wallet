@@ -1,1 +1,1 @@
-var mnemonic = "either laundry mobile crowd more small craft arrow reunion pair loop cloud";
+var mnemonic = "celery neglect novel range spoon message goat volcano derive alcohol crumble melt";

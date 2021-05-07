@@ -1,1 +1,1 @@
-var mnemonic = "athlete gospel save swear weapon sight polar wink spin amazing canyon govern";
+var mnemonic = "alley actress wedding gold strike artwork cool sock comic often myself jar";

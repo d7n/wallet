@@ -1,1 +1,1 @@
-var mnemonic = "wealth merit occur blade dad envelope public buffalo virus rose unknown nose";
+var mnemonic = "fence knock tag seven twin timber throw region allow grit great hat";

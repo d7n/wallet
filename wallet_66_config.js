@@ -1,1 +1,1 @@
-var mnemonic = "lounge plug salute dune wool magnet jump item tilt spray veteran hamster";
+var mnemonic = "priority maid recall elder cliff pupil nice draft occur vehicle endless fluid";

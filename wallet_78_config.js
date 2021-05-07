@@ -1,1 +1,1 @@
-var mnemonic = "vintage camera tumble display material convince salon merge body desk reunion broken";
+var mnemonic = "tube diesel one humble deliver drop syrup shell roast nature antenna gown";

@@ -1,1 +1,1 @@
-var mnemonic = "weird oval rule success keep diamond refuse rate version mule donkey deputy";
+var mnemonic = "element number receive anchor loud castle fitness train mechanic whip rail box";

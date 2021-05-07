@@ -1,1 +1,1 @@
-var mnemonic = "advance flower come portion army eternal ridge share vital puzzle attend judge";
+var mnemonic = "second onion kid rough name pair example crouch success wash flip suggest";

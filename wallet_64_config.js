@@ -1,1 +1,1 @@
-var mnemonic = "olive salon repeat carry vacuum grace excuse robot mansion weather blast gift";
+var mnemonic = "day exotic pioneer black pen pudding annual play symptom alcohol dentist neglect";

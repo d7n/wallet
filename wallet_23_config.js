@@ -1,1 +1,1 @@
-var mnemonic = "inform canyon list repair void once prefer upper learn follow crack amount";
+var mnemonic = "blur slide wire adult team volume account clutch injury success supreme exchange";

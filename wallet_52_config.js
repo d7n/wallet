@@ -1,1 +1,1 @@
-var mnemonic = "vague prefer energy moon trigger myth amused village birth sing nature save";
+var mnemonic = "shuffle post toilet engage gaze cigar pulp transfer prepare blossom lumber canyon";

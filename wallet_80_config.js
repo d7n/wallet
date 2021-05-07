@@ -1,1 +1,1 @@
-var mnemonic = "run chalk secret snack arena put warfare social hello economy web someone";
+var mnemonic = "poverty improve morning rug middle screen brisk clever over entry word comfort";

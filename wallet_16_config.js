@@ -1,1 +1,1 @@
-var mnemonic = "student iron deputy unusual human hazard kangaroo much project artwork family penalty";
+var mnemonic = "cart design afraid give desk rifle soup work call copper general mimic";

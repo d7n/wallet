@@ -1,1 +1,1 @@
-var mnemonic = "grace huge divide chicken enemy vague magic original trade edge suit actress";
+var mnemonic = "snap artist entire benefit cliff glue shift napkin wonder picnic viable unveil";

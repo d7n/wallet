@@ -1,1 +1,1 @@
-var mnemonic = "sentence text right pledge divorce almost wood burden vacant soul flavor fix";
+var mnemonic = "powder goat cook danger cupboard toy uniform harvest exit inherit decrease sad";

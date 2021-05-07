@@ -1,1 +1,1 @@
-var mnemonic = "install lobster leader coil first fatal student brain unfold valve canoe inch";
+var mnemonic = "bracket horse blood monitor coil diesel elephant bridge title camp figure nasty";

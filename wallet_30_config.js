@@ -1,1 +1,1 @@
-var mnemonic = "turtle domain sausage flip tenant stand soup stay system stand dad brave";
+var mnemonic = "jaguar orphan track loyal glove banana timber maple impose client around miss";

@@ -1,1 +1,1 @@
-var mnemonic = "decrease fiscal punch obvious differ confirm opinion best misery purpose cotton net";
+var mnemonic = "vapor just matrix pigeon cup action patrol start attract list code since";

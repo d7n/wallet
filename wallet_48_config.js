@@ -1,1 +1,1 @@
-var mnemonic = "glide change delay popular vivid illegal estate digital usual athlete bench clerk";
+var mnemonic = "flavor horror slow trap egg genre exit embark taxi latin warfare license";

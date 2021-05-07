@@ -1,1 +1,1 @@
-var mnemonic = "pudding blue three suggest output trap remain cupboard tortoise elegant confirm bulk";
+var mnemonic = "tank north check scout describe valid term round reveal danger rotate neutral";

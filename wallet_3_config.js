@@ -1,1 +1,1 @@
-var mnemonic = "pink innocent wait arch relax scorpion special silk pink napkin elephant word";
+var mnemonic = "cinnamon junk skin fire tell east sure almost pledge gaze lesson grape";

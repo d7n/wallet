@@ -1,1 +1,1 @@
-var mnemonic = "guitar slender useless wage power rebuild truly shadow news abuse draw squirrel";
+var mnemonic = "tree sell skate enable auto damage obtain source limit size lizard inquiry";

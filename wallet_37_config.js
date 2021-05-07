@@ -1,1 +1,1 @@
-var mnemonic = "sea cargo banner horse cheese wish deliver tuition bless coin float permit";
+var mnemonic = "below rain submit borrow auction muffin man spike boat raw poet subject";

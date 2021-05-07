@@ -1,1 +1,1 @@
-var mnemonic = "labor benefit sock rotate bless amused actual cable toy find just inherit";
+var mnemonic = "visit art spawn biology fold evoke drink away salad polar heavy sort";

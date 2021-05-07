@@ -1,1 +1,1 @@
-var mnemonic = "shaft sunny theory skill pony wash round banner couple collect evil depart";
+var mnemonic = "future search recipe choice certain banner turtle thing arrow lion rule sing";

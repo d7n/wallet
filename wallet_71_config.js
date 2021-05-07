@@ -1,1 +1,1 @@
-var mnemonic = "rule electric diamond mosquito tiger drive dignity supply sustain voyage route market";
+var mnemonic = "armed cushion garlic comic decade cup junk check oil treat air trade";

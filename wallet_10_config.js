@@ -1,1 +1,1 @@
-var mnemonic = "rack glove special polar evolve property sound picture humble latin humor access";
+var mnemonic = "process lock glide initial teach rain vehicle impulse absent runway balance grain";

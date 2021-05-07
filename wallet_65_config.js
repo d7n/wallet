@@ -1,1 +1,1 @@
-var mnemonic = "demand funny tortoise page toward cloud obscure pudding unit first level walnut";
+var mnemonic = "lobster gate emerge velvet duck pistol follow iron motor holiday void square";

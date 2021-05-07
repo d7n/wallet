@@ -1,1 +1,1 @@
-var mnemonic = "remember steel impose evil hill dilemma patrol horror sunny media economy service";
+var mnemonic = "anger focus fly vocal another panda twin smile receive draw book share";

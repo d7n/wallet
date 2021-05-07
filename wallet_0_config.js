@@ -1,1 +1,1 @@
-var mnemonic = "hurdle gaze lobster genre define lake august wood play turkey side cage";
+var mnemonic = "noise pull keep fiber slight assume flee camp tool kitten later pen";

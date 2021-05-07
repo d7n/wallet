@@ -1,1 +1,1 @@
-var mnemonic = "motion salon nest oblige front crumble action zebra stool argue kite crop";
+var mnemonic = "message uncover ship rack vault luggage ketchup proud skill wasp tenant column";

@@ -1,1 +1,1 @@
-var mnemonic = "keen thunder kingdom tomato capital kite peanut address oppose direct blush erosion";
+var mnemonic = "choose file scissors wise either domain puzzle coyote island force ribbon canyon";
