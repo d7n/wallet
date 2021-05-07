@@ -1,1 +1,1 @@
-var mnemonic = "okay street survey blade solid trust side toast flat visual trophy prison";
+var mnemonic = "network apple daughter nut company weekend output toss verb method claw chief";

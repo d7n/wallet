@@ -1,1 +1,1 @@
-var mnemonic = "bitter priority pet any snack squeeze body faint found anxiety quote expose";
+var mnemonic = "devote core churn burger tattoo three forward happy kitten reflect device gun";

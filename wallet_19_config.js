@@ -1,1 +1,1 @@
-var mnemonic = "orchard celery text subway exclude bounce invest love agent pause network unusual";
+var mnemonic = "army half involve inside glory method wood gospel lawsuit brief fame soul";

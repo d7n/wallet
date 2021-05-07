@@ -1,1 +1,1 @@
-var mnemonic = "lobster next engine ill detect speak quote sail accuse lucky season interest";
+var mnemonic = "blush chronic eternal illegal mimic total potato rescue space answer above utility";

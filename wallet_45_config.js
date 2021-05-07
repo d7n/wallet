@@ -1,1 +1,1 @@
-var mnemonic = "range naive gun citizen doll bronze flip skill cabbage december borrow wealth";
+var mnemonic = "squirrel update renew egg junk bargain float air tobacco junk claw bring";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber section say dizzy eager hockey box remove chimney sunset together series";
+var mnemonic = "chase hockey depart galaxy magic trumpet move label inspire poverty trend pledge";

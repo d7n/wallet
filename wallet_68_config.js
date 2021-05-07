@@ -1,1 +1,1 @@
-var mnemonic = "upper card anger awful amused timber virus forget together tackle live measure";
+var mnemonic = "coast ghost vacant return endless option net enlist erase chase noise menu";

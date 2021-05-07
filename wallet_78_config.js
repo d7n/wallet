@@ -1,1 +1,1 @@
-var mnemonic = "arrow catch reject subway spy wealth maze armor upper scout state artefact";
+var mnemonic = "door siege order travel sing lonely buzz list auto help young load";

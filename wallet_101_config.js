@@ -1,1 +1,1 @@
-var mnemonic = "candy fork mom author blood detect bundle snack lunar song away holiday";
+var mnemonic = "jelly payment fatal sugar extend pepper find warm video great shell kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "ill matter involve sorry blast task sail drastic tank grow rescue okay";
+var mnemonic = "hammer nerve token cross hedgehog dry nasty roof ivory glue rely movie";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal awkward blast ladder guilt foam indicate machine comic estate myself lesson";
+var mnemonic = "wreck rate easy security annual drastic crowd devote street vocal curious about";

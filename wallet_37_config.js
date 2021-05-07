@@ -1,1 +1,1 @@
-var mnemonic = "december icon lens settle close citizen bacon access kitchen alter sugar sleep";
+var mnemonic = "goose truth enact present unlock blame diamond trouble law square slot oval";

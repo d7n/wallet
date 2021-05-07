@@ -1,1 +1,1 @@
-var mnemonic = "forward usual exile plunge spread major tide animal kitchen funny outer cherry";
+var mnemonic = "river pelican rescue hire denial brick grape analyst potato cherry end post";

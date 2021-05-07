@@ -1,1 +1,1 @@
-var mnemonic = "student crew image opera can parrot about over tonight fancy desk power";
+var mnemonic = "predict march piece inhale allow company bounce grid sell mystery lab observe";

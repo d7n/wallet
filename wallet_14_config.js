@@ -1,1 +1,1 @@
-var mnemonic = "explain wasp symptom dawn place rhythm wrestle olive ostrich knock entry dress";
+var mnemonic = "eager burger frog puppy obscure police fabric broccoli iron neck door solve";

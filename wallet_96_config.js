@@ -1,1 +1,1 @@
-var mnemonic = "trim word silent faint weird duck immense price fancy shed material employ";
+var mnemonic = "dress initial pass tray rude payment play capital tomato text nation salute";

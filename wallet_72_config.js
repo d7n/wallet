@@ -1,1 +1,1 @@
-var mnemonic = "cry helmet orbit purity library setup start mention original outdoor candy round";
+var mnemonic = "luggage rocket invest point zebra game kiss flee peanut tomorrow fee eagle";

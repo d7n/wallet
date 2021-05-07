@@ -1,1 +1,1 @@
-var mnemonic = "inject vague weapon steel account oyster window safe daring obvious antique flee";
+var mnemonic = "witness quality crisp night gravity embody goddess siege clap fatal kiss ahead";

@@ -1,1 +1,1 @@
-var mnemonic = "version crawl spray foam buyer ivory dress disagree guess minor inform vital";
+var mnemonic = "void satoshi wheat find episode cook repair social reopen under anger salon";

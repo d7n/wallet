@@ -1,1 +1,1 @@
-var mnemonic = "addict domain churn drastic vicious evidence strong priority master hamster review hope";
+var mnemonic = "north fee truly glow panel sport tower metal check hour still wire";

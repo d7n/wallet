@@ -1,1 +1,1 @@
-var mnemonic = "bronze elegant remain true avoid before scrub present nephew above quality glimpse";
+var mnemonic = "crunch item cradle honey predict clarify alter giraffe math pact hip fame";

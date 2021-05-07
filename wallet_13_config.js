@@ -1,1 +1,1 @@
-var mnemonic = "else half tower dance carry pizza cactus secret impose inform injury room";
+var mnemonic = "whisper kingdom layer satisfy cradle rifle uncover culture blind finish sock blade";

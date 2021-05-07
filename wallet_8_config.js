@@ -1,1 +1,1 @@
-var mnemonic = "chimney infant neither sock grocery ticket ten throw ostrich cash local harvest";
+var mnemonic = "pepper rebel pupil tide frost ocean achieve trash alarm shock myth connect";

@@ -1,1 +1,1 @@
-var mnemonic = "napkin one spike will sausage island hobby jeans chef maple friend usual";
+var mnemonic = "guide marine mosquito outer edge drill ecology magic dizzy lyrics weather fiction";

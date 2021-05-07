@@ -1,1 +1,1 @@
-var mnemonic = "office margin price stage gain correct profit pause innocent raccoon merge dirt";
+var mnemonic = "scare sail utility soda fork hole dose allow rain illness order image";

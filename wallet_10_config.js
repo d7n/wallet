@@ -1,1 +1,1 @@
-var mnemonic = "slogan pottery flip render symptom trip bicycle hockey exist glove naive drink";
+var mnemonic = "just body salmon merit evidence prevent report opinion fall forum loud civil";

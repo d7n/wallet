@@ -1,1 +1,1 @@
-var mnemonic = "dolphin visa skirt else toe put smooth income unaware voice core biology";
+var mnemonic = "monkey ring pulse visa figure venue book giant bundle truth wrap unfold";

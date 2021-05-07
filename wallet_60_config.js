@@ -1,1 +1,1 @@
-var mnemonic = "warrior rain stable circle slide mobile retire chest inner photo pool erosion";
+var mnemonic = "pretty crystal armor spawn horse dawn damp category inside utility already explain";

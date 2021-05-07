@@ -1,1 +1,1 @@
-var mnemonic = "brief cover rice company range suit injury suffer ensure topic system illegal";
+var mnemonic = "loan student animal globe dash grab erode library jewel few topic cement";

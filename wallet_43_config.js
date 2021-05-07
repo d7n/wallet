@@ -1,1 +1,1 @@
-var mnemonic = "avocado apart young label floor knock shoot road badge buzz attitude mystery";
+var mnemonic = "stand merry scorpion invest calm okay aware trick dwarf zoo social rocket";

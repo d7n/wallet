@@ -1,1 +1,1 @@
-var mnemonic = "crouch wedding hat violin brain detail imitate basket middle mystery develop tobacco";
+var mnemonic = "teach forest mobile click subway capital sunset apart first marble alcohol chief";

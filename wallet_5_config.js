@@ -1,1 +1,1 @@
-var mnemonic = "advance barrel fluid valley priority major proof neither vote vendor scout oak";
+var mnemonic = "exclude buzz act diesel mom wife poverty brand venue later pride people";

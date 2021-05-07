@@ -1,1 +1,1 @@
-var mnemonic = "discover deer butter icon best note rotate defense among wrist motion awkward";
+var mnemonic = "gather top squeeze wife version depth poverty father robot novel subject rookie";

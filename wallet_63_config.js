@@ -1,1 +1,1 @@
-var mnemonic = "grocery sudden kind drive twelve filter pool identify thank frame worry envelope";
+var mnemonic = "fade canvas announce decide snow mechanic quote crop depth sad junior length";

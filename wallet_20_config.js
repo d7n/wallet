@@ -1,1 +1,1 @@
-var mnemonic = "latin ignore dignity suggest eight since submit mouse cruel travel main rival";
+var mnemonic = "doll mixture naive pepper image cloud current crawl taxi whip inspire leg";

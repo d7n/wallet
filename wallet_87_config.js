@@ -1,1 +1,1 @@
-var mnemonic = "pear awful chaos obtain canyon change digital tube fault punch claim marine";
+var mnemonic = "anchor master flag wire clock soda buffalo tenant capable kitten faint mobile";

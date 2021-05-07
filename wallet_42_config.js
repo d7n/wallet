@@ -1,1 +1,1 @@
-var mnemonic = "violin wedding all labor image hospital need immense grace crush push inner";
+var mnemonic = "grab topic exile sun foster metal cliff infant smooth horn source donkey";

@@ -1,1 +1,1 @@
-var mnemonic = "two puzzle bird bonus episode shallow junior sustain shrug shed setup moral";
+var mnemonic = "spawn carry various venue special script piano dog mask carbon doll junk";

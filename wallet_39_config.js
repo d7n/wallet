@@ -1,1 +1,1 @@
-var mnemonic = "argue glimpse alter become warm when behave three draw unveil swear dress";
+var mnemonic = "total isolate devote meat dream foot gospel depth certain cupboard degree foster";

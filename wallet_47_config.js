@@ -1,1 +1,1 @@
-var mnemonic = "river enough million truck manage inquiry firm tumble arch smart ramp fork";
+var mnemonic = "frozen blind obscure begin assault pistol script quiz spare audit maid clutch";

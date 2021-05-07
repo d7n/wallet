@@ -1,1 +1,1 @@
-var mnemonic = "okay medal vicious bachelor verify virtual wisdom duck brief three canvas ginger";
+var mnemonic = "pigeon lens link cereal language wrestle unaware side rigid used attitude horse";

@@ -1,1 +1,1 @@
-var mnemonic = "menu pipe service next shallow novel profit depart pact juice worry when";
+var mnemonic = "suggest seed bar express rug gloom doctor infant humor damage improve answer";

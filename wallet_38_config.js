@@ -1,1 +1,1 @@
-var mnemonic = "doll inmate brain afraid drop add seed else empower clever luxury dice";
+var mnemonic = "web thrive wedding rule piano age reunion shine luggage melody crazy coast";

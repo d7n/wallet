@@ -1,1 +1,1 @@
-var mnemonic = "review sad resemble pass infant great sadness weird already virtual mountain protect";
+var mnemonic = "decade patch hand rain search already slot erupt bring half angle shaft";

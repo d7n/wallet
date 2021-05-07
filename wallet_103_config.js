@@ -1,1 +1,1 @@
-var mnemonic = "expect hour better twin word public eternal peace grain toe math observe";
+var mnemonic = "miss breeze barrel position lesson wire misery face ramp maple rain ring";

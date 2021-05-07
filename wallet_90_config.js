@@ -1,1 +1,1 @@
-var mnemonic = "guard glass whip accuse chair refuse assume evil coin venue recycle air";
+var mnemonic = "curious word field chuckle soda forum game leader swing area hurt duty";

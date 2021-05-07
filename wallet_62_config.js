@@ -1,1 +1,1 @@
-var mnemonic = "provide beach south claim oppose hole release discover cattle faculty primary junior";
+var mnemonic = "hill blast coin worth february estate clever capital fat scatter have genuine";

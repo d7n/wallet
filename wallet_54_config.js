@@ -1,1 +1,1 @@
-var mnemonic = "strike flight aware weather text female soap oxygen want demise scale hover";
+var mnemonic = "drip antique stick hamster pair leaf knife hobby hundred aim pattern thunder";

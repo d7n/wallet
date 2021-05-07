@@ -1,1 +1,1 @@
-var mnemonic = "sort curtain attack monkey grace they connect history sort hill valve satoshi";
+var mnemonic = "random gaze lion guard path conduct future ahead soon opera business merit";

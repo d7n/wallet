@@ -1,1 +1,1 @@
-var mnemonic = "bronze soup cruel icon twist congress practice planet jeans range bubble speed";
+var mnemonic = "settle math trade transfer nice sing diary other property limit boil canal";

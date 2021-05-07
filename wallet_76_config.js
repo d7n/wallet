@@ -1,1 +1,1 @@
-var mnemonic = "oppose crunch thumb cook disagree lend town goose birth foot chat mixture";
+var mnemonic = "car fine glance cupboard furnace orange despair raven few sport grape maximum";

@@ -1,1 +1,1 @@
-var mnemonic = "subway oval verb chief loan garment pigeon chuckle moon neglect young current";
+var mnemonic = "resemble food ball bus ice inch few canoe blur title cave wing";

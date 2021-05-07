@@ -1,1 +1,1 @@
-var mnemonic = "render maid present manual delay laugh duty change trim tuna mountain lecture";
+var mnemonic = "kind nature extra egg loud basic oyster topic code divide ozone average";

@@ -1,1 +1,1 @@
-var mnemonic = "biology inmate vapor album nest alert disagree gate lucky upset battle insect";
+var mnemonic = "movie pelican tourist sorry tool goddess panther icon trap flower source where";

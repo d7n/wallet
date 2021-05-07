@@ -1,1 +1,1 @@
-var mnemonic = "plastic return horror outer skate license mouse boss fire write annual wash";
+var mnemonic = "gadget notice monkey warfare expire cover bunker napkin bulb park debate jump";

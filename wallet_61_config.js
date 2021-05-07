@@ -1,1 +1,1 @@
-var mnemonic = "help paper execute leaf thing better track dad soup curtain symptom net";
+var mnemonic = "away device leisure flame fitness bind ostrich wonder bicycle wish grit like";

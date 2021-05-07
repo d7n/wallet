@@ -1,1 +1,1 @@
-var mnemonic = "find stage dry quit lecture width sea addict crack boss defy blur";
+var mnemonic = "story lemon skirt barrel truck shadow render tape unusual faint pet prevent";

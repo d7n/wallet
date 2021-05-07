@@ -1,1 +1,1 @@
-var mnemonic = "magic flavor calm aunt long purse battle visual tired industry chimney casino";
+var mnemonic = "post dignity tone zoo remind allow foster bunker expand state leaf cycle";

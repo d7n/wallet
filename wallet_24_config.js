@@ -1,1 +1,1 @@
-var mnemonic = "shrimp zero clown much garage orchard badge essence aware finish protect giant";
+var mnemonic = "end solution art egg clutch sock rude bitter follow rabbit sell into";

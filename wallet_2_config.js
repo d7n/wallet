@@ -1,1 +1,1 @@
-var mnemonic = "sadness speed accuse aisle grocery essay candy gesture save girl stem brick";
+var mnemonic = "piano clog just denial blue giggle dad journey female giant unable road";

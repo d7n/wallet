@@ -1,1 +1,1 @@
-var mnemonic = "resist alien paper impose smoke hope fire meadow assist system flame budget";
+var mnemonic = "camp better tonight patrol extra quarter add husband shrug end denial size";

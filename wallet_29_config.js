@@ -1,1 +1,1 @@
-var mnemonic = "foam goddess floor force author elephant educate search post artefact thought glow";
+var mnemonic = "awkward answer reform next dizzy voice swamp trip brief else present crack";

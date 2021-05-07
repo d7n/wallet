@@ -1,1 +1,1 @@
-var mnemonic = "alter mule daughter party settle moon zero grant demise relief mixture ostrich";
+var mnemonic = "glad soda select ginger bamboo pudding slot embark segment clarify love claim";

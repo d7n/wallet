@@ -1,1 +1,1 @@
-var mnemonic = "mango school economy adult medal moon page series someone exclude skull satisfy";
+var mnemonic = "dad silk celery trim slot tuna amused kit venture broom adjust potato";

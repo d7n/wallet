@@ -1,1 +1,1 @@
-var mnemonic = "author budget ozone observe original just slight save depart praise office sauce";
+var mnemonic = "soccer rescue divide letter balance tank cluster sister wine defy funny master";

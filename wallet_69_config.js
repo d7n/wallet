@@ -1,1 +1,1 @@
-var mnemonic = "burst fox broom raw deal use multiply welcome behind inquiry motor market";
+var mnemonic = "disease blush between liberty once choose jewel lend rescue year reason clutch";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare disease note dirt rifle move leaf home merge design explain minimum";
+var mnemonic = "coast ecology rescue business faint crew wear credit tiger teach young wonder";

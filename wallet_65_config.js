@@ -1,1 +1,1 @@
-var mnemonic = "card lion pattern source barely middle vocal fix goddess town sure exclude";
+var mnemonic = "biology drastic useless library pen demand bus space divide anxiety river any";

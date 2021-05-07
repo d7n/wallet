@@ -1,1 +1,1 @@
-var mnemonic = "finger west grocery autumn bird fossil film canal marriage hockey wheel slow";
+var mnemonic = "chimney all duck vault deposit actual flat unusual toddler hotel pluck child";

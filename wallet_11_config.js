@@ -1,1 +1,1 @@
-var mnemonic = "dumb confirm step cheese lady toward equip erode cream wide country cherry";
+var mnemonic = "amused hold green girl leader good globe cushion control board ocean used";

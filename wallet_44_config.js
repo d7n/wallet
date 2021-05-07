@@ -1,1 +1,1 @@
-var mnemonic = "alarm case siren stool amount tourist glass ivory ask truly range tent";
+var mnemonic = "gold wear gasp drill shop reflect easily discover track much sadness student";

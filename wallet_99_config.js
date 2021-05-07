@@ -1,1 +1,1 @@
-var mnemonic = "auction brush gallery caught garage speak kick grow rate waste prize save";
+var mnemonic = "skirt shove estate victory rescue dinner split stem mimic brush trigger weekend";

@@ -1,1 +1,1 @@
-var mnemonic = "turtle fog gallery brisk wealth soap session clarify better crop crop slender";
+var mnemonic = "crawl great crucial solar fish negative foil evidence damage pipe eager chat";

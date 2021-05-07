@@ -1,1 +1,1 @@
-var mnemonic = "airport opinion bridge spike doll section disorder shell neck enjoy amateur people";
+var mnemonic = "student feed limit news entire fix thank alcohol put swim canal creek";

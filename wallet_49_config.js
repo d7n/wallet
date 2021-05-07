@@ -1,1 +1,1 @@
-var mnemonic = "height fantasy float debate submit legend gesture portion panic record track month";
+var mnemonic = "group office future fuel airport kite minute october youth ugly cup music";

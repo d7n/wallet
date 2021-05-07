@@ -1,1 +1,1 @@
-var mnemonic = "school wage little skirt dune bid execute bracket maple globe retire delay";
+var mnemonic = "mad eagle agree verb today flush jaguar layer thing asthma vanish false";

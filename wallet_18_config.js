@@ -1,1 +1,1 @@
-var mnemonic = "average drastic obtain kidney west radar protect vague unfair head thrive unfold";
+var mnemonic = "credit beauty brown endorse bread genre flag shadow version maximum merry little";

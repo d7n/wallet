@@ -1,1 +1,1 @@
-var mnemonic = "youth away mirror hurry smooth antenna reunion capable similar infant clay identify";
+var mnemonic = "approve use card asset hotel push strong accident replace debate income kind";

@@ -1,1 +1,1 @@
-var mnemonic = "million pudding direct warfare public mind hedgehog garden betray arctic science prevent";
+var mnemonic = "radio dice horn radar elevator language chaos flip emerge battle guide flower";

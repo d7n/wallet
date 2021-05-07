@@ -1,1 +1,1 @@
-var mnemonic = "core expect output ankle witness owner enforce aspect observe possible social sheriff";
+var mnemonic = "arrow sell shoulder sword worry bunker three lift shaft fan only misery";

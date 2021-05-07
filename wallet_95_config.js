@@ -1,1 +1,1 @@
-var mnemonic = "frost brother burger marble knee adult wine exhibit awesome burst sauce below";
+var mnemonic = "lawn enter leave shrug evoke believe logic top force defense bargain vocal";

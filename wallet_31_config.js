@@ -1,1 +1,1 @@
-var mnemonic = "surprise plug rug monitor tail pen element pioneer corn bar pioneer lamp";
+var mnemonic = "age require gun emerge cloth frog fence decide junior roof casino color";

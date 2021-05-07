@@ -1,1 +1,1 @@
-var mnemonic = "garage gap regret tragic game salad twenty parent neutral public clean inform";
+var mnemonic = "jealous rely fringe detect arrest mail float hunt good idea try luggage";

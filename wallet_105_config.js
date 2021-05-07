@@ -1,1 +1,1 @@
-var mnemonic = "tortoise sibling above kingdom major usage rich trumpet develop target jealous sustain";
+var mnemonic = "duck horse enable alone relief kangaroo cabbage robot gas swarm wave oxygen";

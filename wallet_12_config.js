@@ -1,1 +1,1 @@
-var mnemonic = "grocery about cabbage cook later hub slot forest swarm indoor vivid express";
+var mnemonic = "reduce pool frown art nuclear hold sunset swing symptom myth notice flame";

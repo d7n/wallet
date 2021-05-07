@@ -1,1 +1,1 @@
-var mnemonic = "toy vast axis push autumn service ladder idea ankle heavy energy this";
+var mnemonic = "media nation spare virtual hurt juice elder anger this effort slam nice";

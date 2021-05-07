@@ -1,1 +1,1 @@
-var mnemonic = "dirt warrior able near cattle embody search arrest club spoil trap grape";
+var mnemonic = "heavy midnight brown dance puzzle wage ticket mix weapon grant update either";

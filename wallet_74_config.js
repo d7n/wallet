@@ -1,1 +1,1 @@
-var mnemonic = "crater discover unknown rescue eye true panic fog fruit skate actress chase";
+var mnemonic = "shine regret alley quote spoil web zoo arctic duck cinnamon stock cave";

@@ -1,1 +1,1 @@
-var mnemonic = "message nothing panel bomb ride doctor speak day satisfy world bicycle nasty";
+var mnemonic = "click early trust anxiety power village shoulder city dune cycle soccer debris";
