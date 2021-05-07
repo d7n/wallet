@@ -1,1 +1,1 @@
-var mnemonic = "pilot worry issue skill edit group number online all clever rocket coyote";
+var mnemonic = "trial display atom beauty limit steel craft purity wet soft indoor file";

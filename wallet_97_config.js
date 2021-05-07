@@ -1,1 +1,1 @@
-var mnemonic = "exit knock auto remove census ankle phone moral album talk hover scare";
+var mnemonic = "spin calm once air illness bird pipe jealous fury also analyst buddy";

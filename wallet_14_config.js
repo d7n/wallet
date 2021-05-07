@@ -1,1 +1,1 @@
-var mnemonic = "typical excess culture olympic dash noble garment hockey spell scale bomb fitness";
+var mnemonic = "teach company special afraid between rule fox edit deal party direct advance";

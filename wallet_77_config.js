@@ -1,1 +1,1 @@
-var mnemonic = "blur grass lonely galaxy inmate autumn jealous badge journey pink public utility";
+var mnemonic = "sudden demise crop organ enjoy exit economy circle length law game earth";

@@ -1,1 +1,1 @@
-var mnemonic = "choice basket lecture draw humble hollow more favorite card shoot trim language";
+var mnemonic = "want wage vicious color dish weekend delay hen angry level poem remove";

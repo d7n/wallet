@@ -1,1 +1,1 @@
-var mnemonic = "math laptop crack minor glance wet earth nerve virus jazz vital require";
+var mnemonic = "envelope install gas belt human there sudden palm limb critic vanish relax";

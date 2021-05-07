@@ -1,1 +1,1 @@
-var mnemonic = "banner shoulder donkey vendor critic cruise wild gasp unit spring catch mule";
+var mnemonic = "ramp alarm window item exclude ugly giggle govern vehicle tomato consider evil";

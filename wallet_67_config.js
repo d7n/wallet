@@ -1,1 +1,1 @@
-var mnemonic = "monitor argue gap obtain account clever identify kidney repeat scene decline pelican";
+var mnemonic = "matrix edge unable soccer nerve napkin news lawn onion major wear odor";

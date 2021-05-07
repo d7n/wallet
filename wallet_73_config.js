@@ -1,1 +1,1 @@
-var mnemonic = "grace tent ready defense veteran benefit couch rude slush success reveal clerk";
+var mnemonic = "memory dry erode risk awkward believe wheat cannon decrease obvious position blossom";

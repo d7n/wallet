@@ -1,1 +1,1 @@
-var mnemonic = "twin battle mutual anger exclude dentist exhibit uncle wolf stuff possible below";
+var mnemonic = "spend brand survey brown huge brother marriage forget tape fantasy eager swim";

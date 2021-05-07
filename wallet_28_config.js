@@ -1,1 +1,1 @@
-var mnemonic = "direct tongue bean moon explain perfect text patrol draw able property useful";
+var mnemonic = "fragile pudding ribbon electric shadow visit useful space remain bacon load setup";

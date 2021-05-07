@@ -1,1 +1,1 @@
-var mnemonic = "shiver build fly issue tunnel tooth among honey rigid skull catalog any";
+var mnemonic = "carbon push away delay craft item casino remind dose arena illness filter";

@@ -1,1 +1,1 @@
-var mnemonic = "fly deposit aerobic patient end doll home audit slam close stick exercise";
+var mnemonic = "message usual barely someone suit error tourist decide sword witness struggle wool";

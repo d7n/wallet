@@ -1,1 +1,1 @@
-var mnemonic = "yellow mail voyage act bright pulse embody razor salon one orchard neutral";
+var mnemonic = "pledge rule define achieve sphere inherit bar couch stable gorilla potato romance";

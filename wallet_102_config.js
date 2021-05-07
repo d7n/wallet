@@ -1,1 +1,1 @@
-var mnemonic = "near curtain promote heart phrase fuel arch pioneer era force fee omit";
+var mnemonic = "swing width wink arm security display table owner dwarf skin rhythm duty";

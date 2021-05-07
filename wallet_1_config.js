@@ -1,1 +1,1 @@
-var mnemonic = "bacon spawn record parade unaware cave gold choose spot soul room live";
+var mnemonic = "ugly art jungle govern lava soldier chapter mansion various gold bounce trust";

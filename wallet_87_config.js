@@ -1,1 +1,1 @@
-var mnemonic = "ahead subway situate dove enroll wall salmon nasty utility crisp actress release";
+var mnemonic = "peanut check found naive push tide gain latin rally fury early enough";

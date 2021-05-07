@@ -1,1 +1,1 @@
-var mnemonic = "aware large gravity family stage pave metal mention fork pact final crunch";
+var mnemonic = "verb ski solution screen metal major design canoe rail jump visa round";

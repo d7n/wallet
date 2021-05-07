@@ -1,1 +1,1 @@
-var mnemonic = "soup bless quit section bread raccoon inject winter ten mushroom debris thought";
+var mnemonic = "organ fold ancient transfer knife pen copy execute spend envelope old increase";

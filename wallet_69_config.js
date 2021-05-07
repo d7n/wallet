@@ -1,1 +1,1 @@
-var mnemonic = "idle age hedgehog crew east almost help skate scatter toss crawl near";
+var mnemonic = "maze obscure mesh prepare cover satoshi penalty hamster clutch group resource among";

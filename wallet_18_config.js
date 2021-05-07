@@ -1,1 +1,1 @@
-var mnemonic = "copy sure topple balance cupboard figure work foot you almost latin man";
+var mnemonic = "spirit mammal abandon powder tortoise accident piano spot steak express pride slight";

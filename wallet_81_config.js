@@ -1,1 +1,1 @@
-var mnemonic = "name cricket physical cream civil relief force gossip swift lazy claim first";
+var mnemonic = "risk runway carry oxygen upon armor banner great cross curtain blood brick";

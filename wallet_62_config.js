@@ -1,1 +1,1 @@
-var mnemonic = "radar wing reduce language number song trend increase card unaware floor sheriff";
+var mnemonic = "vacant view crew clown category online inherit enemy illness ostrich phone couple";

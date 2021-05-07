@@ -1,1 +1,1 @@
-var mnemonic = "nation snow vessel seat proof nuclear tiger cause arch retreat average shadow";
+var mnemonic = "video shoulder around mobile faint envelope all news mean depend save aisle";

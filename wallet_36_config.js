@@ -1,1 +1,1 @@
-var mnemonic = "include ice front canal piece warfare whisper hood dolphin settle habit ocean";
+var mnemonic = "grit novel other enroll border proof crane normal mango august mountain waste";

@@ -1,1 +1,1 @@
-var mnemonic = "fit position cinnamon fantasy betray hip craft region unique jump grunt seat";
+var mnemonic = "stand movie behave smart horn toward walnut stumble lunch still guard panther";

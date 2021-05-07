@@ -1,1 +1,1 @@
-var mnemonic = "drill traffic equal mountain garage midnight aisle canal fox tone note clever";
+var mnemonic = "speak distance height accuse clock ready cluster alter used eyebrow adult reward";

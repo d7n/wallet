@@ -1,1 +1,1 @@
-var mnemonic = "viable adult edge shiver fat time accident kangaroo frequent attract quit just";
+var mnemonic = "thing scare pattern session cash bag usual fog clump cigar census pass";

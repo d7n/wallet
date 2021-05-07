@@ -1,1 +1,1 @@
-var mnemonic = "praise damage output recipe trumpet output forward cheese purse retire nasty symptom";
+var mnemonic = "metal human system velvet enlist wine innocent idle shock employ share glue";

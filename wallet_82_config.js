@@ -1,1 +1,1 @@
-var mnemonic = "clarify camp pink middle accident head critic knee catch nest student drill";
+var mnemonic = "giant bright design glass ozone neglect supply chicken ocean pet hard goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty swarm wait skull dream seat saddle century later enroll tree mail";
+var mnemonic = "flash fly oblige base area such wasp lab drop garage dignity nose";

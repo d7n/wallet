@@ -1,1 +1,1 @@
-var mnemonic = "small tree response spread proud upset citizen stove draft story congress soul";
+var mnemonic = "arm school sell cluster sustain virtual mention zero avocado guard raise biology";

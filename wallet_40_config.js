@@ -1,1 +1,1 @@
-var mnemonic = "actress hat stone donor fury kite private cage push puzzle ensure cheap";
+var mnemonic = "defy ribbon actual move donate coyote pause will pudding custom current liar";

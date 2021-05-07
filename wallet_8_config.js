@@ -1,1 +1,1 @@
-var mnemonic = "collect drink mercy six print card suffer always fox saddle grocery menu";
+var mnemonic = "much view service scare laugh harsh consider today lyrics toddler donor crucial";

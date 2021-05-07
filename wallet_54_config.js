@@ -1,1 +1,1 @@
-var mnemonic = "mimic buffalo siege unusual adult bleak smoke left puzzle knife design theme";
+var mnemonic = "anxiety amazing soda famous unable immune bar spider mixed flee act senior";

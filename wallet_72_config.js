@@ -1,1 +1,1 @@
-var mnemonic = "option mix pipe employ boat token version win waste six laugh step";
+var mnemonic = "twist pen elephant grocery prosper install mesh armor hybrid library cart public";

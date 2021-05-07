@@ -1,1 +1,1 @@
-var mnemonic = "image turtle click roast tuition small general report gauge flock what feature";
+var mnemonic = "cause auto picture street brother student globe execute sock shift warm swamp";

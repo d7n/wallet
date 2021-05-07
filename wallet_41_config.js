@@ -1,1 +1,1 @@
-var mnemonic = "law october arrest organ void insane auction slight green treat ghost reject";
+var mnemonic = "rebuild resource panic force pair replace gather fox range throw cinnamon found";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson sunset can pitch arctic steak badge today foam aerobic holiday filter";
+var mnemonic = "game father fabric wish deal secret badge oval order bicycle exchange photo";

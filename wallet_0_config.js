@@ -1,1 +1,1 @@
-var mnemonic = "crazy amused science bottom rare boy chuckle child debate alert wrap rapid";
+var mnemonic = "clerk clip achieve damp empty scheme actor endorse want negative apple category";

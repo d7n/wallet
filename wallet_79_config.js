@@ -1,1 +1,1 @@
-var mnemonic = "element prepare price admit like fine sister case manage bitter oak obtain";
+var mnemonic = "north grace torch swim tide twenty avocado easily aunt bamboo owner mirror";

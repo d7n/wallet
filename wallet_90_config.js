@@ -1,1 +1,1 @@
-var mnemonic = "opinion vital web suspect federal actual vital size surround myself quiz virus";
+var mnemonic = "patrol dinosaur monkey trial science salute enhance hint version undo conduct guide";

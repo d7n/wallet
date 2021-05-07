@@ -1,1 +1,1 @@
-var mnemonic = "trophy sibling anxiety already either girl brick trial size logic frown erase";
+var mnemonic = "time there walk quit victory around bundle camp twice soap trend hobby";

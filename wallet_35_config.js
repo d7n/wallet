@@ -1,1 +1,1 @@
-var mnemonic = "security gym turkey play divide smart era mango gravity wet across clever";
+var mnemonic = "scare plate art vintage barely culture trip life image settle diamond glide";

@@ -1,1 +1,1 @@
-var mnemonic = "actress fork title illegal cricket squeeze sail middle elegant later concert chat";
+var mnemonic = "elevator cart nose olympic torch force radio custom client rich abuse obey";

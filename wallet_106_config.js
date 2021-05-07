@@ -1,1 +1,1 @@
-var mnemonic = "panda cigar neglect wife cancel camp gospel minute lottery divert tank congress";
+var mnemonic = "error cinnamon crash drop mesh route father will false gym valley unveil";

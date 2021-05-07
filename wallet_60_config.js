@@ -1,1 +1,1 @@
-var mnemonic = "online feed track mimic food method fine spell enable ankle rifle skull";
+var mnemonic = "cloth display orient bounce pulse duty empower enlist stool injury lunch design";

@@ -1,1 +1,1 @@
-var mnemonic = "visa young lion nothing report suggest awake matter cloud humor hammer tattoo";
+var mnemonic = "case sun prefer parent strike target rare share turkey access demand owner";

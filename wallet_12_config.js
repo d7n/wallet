@@ -1,1 +1,1 @@
-var mnemonic = "regret weapon busy frequent senior unit slide situate crane report spider index";
+var mnemonic = "planet stereo move seek giggle normal sauce rubber sock banner unfold pact";

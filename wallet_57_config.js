@@ -1,1 +1,1 @@
-var mnemonic = "beef sun giraffe voice patient universe swamp run snap tragic woman fiscal";
+var mnemonic = "sword clock soul choice believe pioneer right shoulder old innocent monster fortune";

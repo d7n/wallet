@@ -1,1 +1,1 @@
-var mnemonic = "lamp spice source patient park pact false culture brisk science fruit unique";
+var mnemonic = "list energy property own stem pact antique bring cushion naive snow yard";

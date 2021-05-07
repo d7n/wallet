@@ -1,1 +1,1 @@
-var mnemonic = "disagree round gloom elevator rebel scare merry glove hammer typical brief master";
+var mnemonic = "mom random fluid suit blame slice flat east abstract foam hour front";

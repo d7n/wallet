@@ -1,1 +1,1 @@
-var mnemonic = "private summer consider merry wrong churn double borrow hundred develop panther solid";
+var mnemonic = "hair camera interest screen matter kite unveil camp profit flush glue coyote";

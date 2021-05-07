@@ -1,1 +1,1 @@
-var mnemonic = "please plate large ship expand pool announce magic biology utility silk repair";
+var mnemonic = "sing gain gesture shaft pride cat salad devote boy very gas room";

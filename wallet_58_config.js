@@ -1,1 +1,1 @@
-var mnemonic = "guitar reason awake leg dwarf pumpkin coach media include claim cargo weasel";
+var mnemonic = "federal parrot property rather body flash decide print remain behind treat tongue";

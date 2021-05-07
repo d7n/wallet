@@ -1,1 +1,1 @@
-var mnemonic = "squirrel age family oyster gun jealous dish wood pepper point ridge mimic";
+var mnemonic = "weird valley either purchase depth profit elevator fantasy rely emerge roast picture";

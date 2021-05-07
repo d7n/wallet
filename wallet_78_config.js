@@ -1,1 +1,1 @@
-var mnemonic = "rescue reduce chair picture blue air reward elite pig collect lyrics because";
+var mnemonic = "define select adult umbrella key book olympic enlist coil right wet avoid";

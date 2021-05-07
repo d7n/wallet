@@ -1,1 +1,1 @@
-var mnemonic = "duty forest space faint whale follow winter breeze boring erase marine kangaroo";
+var mnemonic = "impulse exotic ugly laundry annual rule marble choice home bid eagle person";

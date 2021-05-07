@@ -1,1 +1,1 @@
-var mnemonic = "romance ridge echo solid inside glare humble follow sea unveil lyrics happy";
+var mnemonic = "valve copy obtain liar main tomorrow entry canvas lunar history ecology wink";

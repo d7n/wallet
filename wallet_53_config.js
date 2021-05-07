@@ -1,1 +1,1 @@
-var mnemonic = "guitar wolf pottery hen piece bag adapt stereo attract afford permit version";
+var mnemonic = "know interest globe genius cigar turkey among bless hair misery dust accuse";

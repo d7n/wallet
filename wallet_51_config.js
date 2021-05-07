@@ -1,1 +1,1 @@
-var mnemonic = "october radio dinner inner physical extra appear work farm laugh present solve";
+var mnemonic = "minor please float ahead satisfy course loan dash length win build retire";

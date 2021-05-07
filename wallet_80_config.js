@@ -1,1 +1,1 @@
-var mnemonic = "month early ordinary false drip pact desert fiber powder price exotic earth";
+var mnemonic = "salmon chief kite error equal era patient cover response subject indoor funny";

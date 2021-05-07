@@ -1,1 +1,1 @@
-var mnemonic = "laugh output south tribe grid evoke uniform square cream air reflect alert";
+var mnemonic = "paddle imitate addict peanut cereal object place boy saddle path mammal fabric";

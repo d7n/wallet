@@ -1,1 +1,1 @@
-var mnemonic = "buffalo solid wedding wage define appear abuse manage column oxygen pupil glare";
+var mnemonic = "welcome away useless give layer gloom park digital dove spread connect injury";

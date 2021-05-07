@@ -1,1 +1,1 @@
-var mnemonic = "match lottery stay radio innocent render verify pull shallow decade veteran quiz";
+var mnemonic = "language dawn flip lock report asset define shrimp divide two reduce test";

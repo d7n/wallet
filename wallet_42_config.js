@@ -1,1 +1,1 @@
-var mnemonic = "benefit beauty anxiety fix employ govern pond catalog draw card decide symbol";
+var mnemonic = "harsh celery tell album inside stove resist length blanket next able shift";

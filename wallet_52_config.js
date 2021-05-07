@@ -1,1 +1,1 @@
-var mnemonic = "begin tragic ancient muffin zero kick taxi oxygen able mail cabbage voyage";
+var mnemonic = "matrix hedgehog security raise language motor tennis loyal twice slot extra tell";

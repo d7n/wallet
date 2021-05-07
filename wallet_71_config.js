@@ -1,1 +1,1 @@
-var mnemonic = "add dice camp assume harvest old loyal kitchen valve town cricket use";
+var mnemonic = "glue city expire unable crucial thumb address expose system mechanic lunch interest";

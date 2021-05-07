@@ -1,1 +1,1 @@
-var mnemonic = "wave drop sweet venue sound key apology maple first child govern radar";
+var mnemonic = "ginger auction unhappy sick chalk sphere egg lock mean rule drive release";

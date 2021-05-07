@@ -1,1 +1,1 @@
-var mnemonic = "convince success shoe glow obey antique coin trash case can toe remind";
+var mnemonic = "false next notable coconut cat prefer knee fiscal perfect stem zebra document";

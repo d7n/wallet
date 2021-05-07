@@ -1,1 +1,1 @@
-var mnemonic = "expand voice check record work idea hold blossom case grass upgrade evoke";
+var mnemonic = "family spend dial large crawl ranch april month visa yard twice cube";

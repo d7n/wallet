@@ -1,1 +1,1 @@
-var mnemonic = "seminar matrix choice ethics viable exit reflect rough loan like breeze inner";
+var mnemonic = "travel ability amount swing toss legend fatal embrace foster pioneer wonder auto";

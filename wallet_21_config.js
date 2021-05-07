@@ -1,1 +1,1 @@
-var mnemonic = "prevent supply bridge excuse pink inflict enemy pilot blame scrap clerk diamond";
+var mnemonic = "pioneer profit price stereo meat fine wait treat shaft solid bridge first";

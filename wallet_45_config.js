@@ -1,1 +1,1 @@
-var mnemonic = "smart wrap sudden camp sure decorate stone relax divert zone luxury shoulder";
+var mnemonic = "pluck wide decline have garment high squirrel viable world illness danger click";

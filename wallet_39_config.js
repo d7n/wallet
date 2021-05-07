@@ -1,1 +1,1 @@
-var mnemonic = "toy about shadow captain august host move whip gas spin short toddler";
+var mnemonic = "grit exact curve sense brand barrel cup peace combine strike exercise fox";

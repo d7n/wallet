@@ -1,1 +1,1 @@
-var mnemonic = "equip harbor charge soccer pyramid leave march join kiss rabbit wool involve";
+var mnemonic = "trophy section bless cricket wine injury notice undo silk viable glow need";

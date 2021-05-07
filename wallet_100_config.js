@@ -1,1 +1,1 @@
-var mnemonic = "ice limit course rescue build daughter quarter teach bring perfect leader two";
+var mnemonic = "social interest brick hospital squeeze ask ostrich lazy notice render hope erase";

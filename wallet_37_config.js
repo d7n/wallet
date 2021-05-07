@@ -1,1 +1,1 @@
-var mnemonic = "skate brand liquid bonus slush stem include away swamp expect motor thing";
+var mnemonic = "worry box popular name rain patient depend eager winner join cycle remind";

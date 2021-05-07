@@ -1,1 +1,1 @@
-var mnemonic = "piano mixed claim hamster jacket wage program brush citizen liberty lake fade";
+var mnemonic = "behind robust lunch orphan cattle awkward swim mammal gather day submit age";

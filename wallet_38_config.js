@@ -1,1 +1,1 @@
-var mnemonic = "eternal old treat chat kitten cause cruel oyster logic dizzy elbow table";
+var mnemonic = "father ship muscle save dry fiscal miracle solar brain magic before soldier";

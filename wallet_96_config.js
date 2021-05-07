@@ -1,1 +1,1 @@
-var mnemonic = "ill click brass dune inner level solution three satoshi reject gun tip";
+var mnemonic = "venue window follow belt parent reform lonely finger uniform vanish virtual maze";

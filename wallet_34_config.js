@@ -1,1 +1,1 @@
-var mnemonic = "bamboo cluster twist tray avocado mean ring combine allow dance shine debris";
+var mnemonic = "prefer helmet night city way buzz unaware rain buffalo lend stay meat";

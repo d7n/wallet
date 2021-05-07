@@ -1,1 +1,1 @@
-var mnemonic = "slam fatal pelican title test weather weird surge weird aisle pattern frozen";
+var mnemonic = "tourist stereo castle wet wealth duck sing sell seminar focus mimic educate";

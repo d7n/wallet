@@ -1,1 +1,1 @@
-var mnemonic = "despair potato cloth curtain project execute oven phone human mercy chimney wolf";
+var mnemonic = "culture cement rain type entire sheriff rookie sweet october clay dismiss again";

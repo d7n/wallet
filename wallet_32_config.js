@@ -1,1 +1,1 @@
-var mnemonic = "bring erode scan crouch position million trap candy rose above update shallow";
+var mnemonic = "occur fan tumble custom primary reason destroy light world poet remove stock";

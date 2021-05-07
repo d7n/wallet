@@ -1,1 +1,1 @@
-var mnemonic = "target urban guide pair physical endorse anger relax image tunnel express genuine";
+var mnemonic = "maid honey clap repeat bacon food deposit estate rally push clerk know";
