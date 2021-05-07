@@ -1,1 +1,1 @@
-var mnemonic = "injury trophy pig pumpkin fit north hidden harvest end pretty sketch crouch";
+var mnemonic = "side drastic cinnamon sure list alley tomorrow total lend exit satisfy pen";

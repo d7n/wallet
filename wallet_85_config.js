@@ -1,1 +1,1 @@
-var mnemonic = "boost guess strong lens scissors mammal soda elbow glimpse settle primary awesome";
+var mnemonic = "rescue dress such derive venue sound gesture argue patch member guide nose";

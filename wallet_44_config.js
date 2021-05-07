@@ -1,1 +1,1 @@
-var mnemonic = "undo salon change grass agree top corn code stumble razor organ ignore";
+var mnemonic = "behind tomorrow thing tuition glance practice urban view inside together supply rough";

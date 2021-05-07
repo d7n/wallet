@@ -1,1 +1,1 @@
-var mnemonic = "maid drill elevator magic crystal coin buffalo crime diary fury bar hybrid";
+var mnemonic = "fuel exit turn violin annual tape gas short valley math erode order";

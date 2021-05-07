@@ -1,1 +1,1 @@
-var mnemonic = "erosion recall reason brick tide hospital keen license reject door food soccer";
+var mnemonic = "giant aerobic food result focus refuse humble rapid column inch supply great";

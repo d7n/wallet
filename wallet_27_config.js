@@ -1,1 +1,1 @@
-var mnemonic = "better return memory deputy cargo shy lunch cigar dash strong try rebuild";
+var mnemonic = "pledge head despair seed rifle visual foster tide surround february correct evil";

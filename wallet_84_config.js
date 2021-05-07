@@ -1,1 +1,1 @@
-var mnemonic = "issue travel fiber stove feel jar rapid belt foam scissors demand win";
+var mnemonic = "service helmet arch upset drama joy worry one trash magic cloth hospital";

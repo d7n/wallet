@@ -1,1 +1,1 @@
-var mnemonic = "eagle cup lecture truck another oxygen father snack fiscal feel initial prize";
+var mnemonic = "lyrics pottery rescue cause bachelor someone parade usage express direct gold brush";

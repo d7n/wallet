@@ -1,1 +1,1 @@
-var mnemonic = "helmet select embark left welcome upset help swing arrest raccoon bike rack";
+var mnemonic = "black train ridge grocery erase orbit cream mean spin rescue cost boy";

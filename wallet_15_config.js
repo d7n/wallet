@@ -1,1 +1,1 @@
-var mnemonic = "field fox arctic unhappy jeans shadow junior stereo rocket jelly denial ceiling";
+var mnemonic = "half kingdom clutch gas embark slab cigar seven solid cart borrow curve";

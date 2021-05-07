@@ -1,1 +1,1 @@
-var mnemonic = "awful quality thumb motion strategy transfer session okay crisp burst spoil flower";
+var mnemonic = "junk fiber arena shrimp false reveal pattern velvet recall bus evolve swap";

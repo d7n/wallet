@@ -1,1 +1,1 @@
-var mnemonic = "dizzy nice suggest august bundle october rely evolve echo ramp onion target";
+var mnemonic = "advice bulk cabin surprise merge solid race ensure air jar figure match";

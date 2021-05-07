@@ -1,1 +1,1 @@
-var mnemonic = "fever razor wide benefit hazard level wasp blast keep believe debate elder";
+var mnemonic = "upon mountain luxury supply canal aim planet cinnamon enemy balance top canal";

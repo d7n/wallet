@@ -1,1 +1,1 @@
-var mnemonic = "ring type burst album place annual normal token sibling hard punch fresh";
+var mnemonic = "tackle require fresh pole salon salon boil walnut try attitude curve roast";

@@ -1,1 +1,1 @@
-var mnemonic = "need attitude gadget manage special poverty invest speed punch eight boy warm";
+var mnemonic = "fine labor extra gasp useless parent you subway stomach couch print aspect";

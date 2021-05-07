@@ -1,1 +1,1 @@
-var mnemonic = "foster soda model twice grow mistake add shock educate pistol report blade";
+var mnemonic = "buddy bullet soup pink hurry galaxy cool helmet flash shove spawn ghost";

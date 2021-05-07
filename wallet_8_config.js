@@ -1,1 +1,1 @@
-var mnemonic = "hood ignore claim nuclear rich warm bubble fuel side join garage insect";
+var mnemonic = "arrange course book people relief mercy truck base that scare curtain high";

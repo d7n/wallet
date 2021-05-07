@@ -1,1 +1,1 @@
-var mnemonic = "planet summer stem spoil whale robot bird harvest vault hero river same";
+var mnemonic = "onion evolve face hire usual wagon market quote bench merge bomb human";

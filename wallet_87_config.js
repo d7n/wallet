@@ -1,1 +1,1 @@
-var mnemonic = "group tenant account poem artwork dilemma crowd decade security jar spot race";
+var mnemonic = "myth broken solve outside final issue fire uncle detect weapon blind rely";

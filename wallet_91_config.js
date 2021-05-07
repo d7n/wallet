@@ -1,1 +1,1 @@
-var mnemonic = "leopard essay gap theme license pen blur paper worry lecture bicycle unlock";
+var mnemonic = "school vivid review sword lunch blossom hospital note cream gravity review casual";

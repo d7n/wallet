@@ -1,1 +1,1 @@
-var mnemonic = "sight setup similar again emerge window lawsuit distance rich clown tail exit";
+var mnemonic = "ocean crunch mango distance hungry better pudding flat maid lunch issue timber";

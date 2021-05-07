@@ -1,1 +1,1 @@
-var mnemonic = "asset hollow two luxury one suit prize belt verb protect envelope cattle";
+var mnemonic = "coil day shoot butter unable nothing review silent illegal outdoor just tone";

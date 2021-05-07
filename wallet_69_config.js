@@ -1,1 +1,1 @@
-var mnemonic = "lady hard speed slam vault state middle question wage prefer hammer arrow";
+var mnemonic = "year arm silk attend goat lucky oxygen cook mouse dove floor table";

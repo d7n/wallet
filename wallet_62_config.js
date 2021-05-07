@@ -1,1 +1,1 @@
-var mnemonic = "flight smart afraid cotton hundred cargo shop fiction deposit army custom extend";
+var mnemonic = "pledge coin image click pink gauge ribbon mesh correct cash case school";

@@ -1,1 +1,1 @@
-var mnemonic = "focus cereal parrot author any language wink crop sight gift coffee funny";
+var mnemonic = "cheap safe erosion main food mesh ostrich upset punch organ isolate erupt";

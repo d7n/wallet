@@ -1,1 +1,1 @@
-var mnemonic = "news shine thank eternal blade defense quarter focus soft proof acid license";
+var mnemonic = "hand verb toilet can dentist orange warm live lumber allow boss joy";

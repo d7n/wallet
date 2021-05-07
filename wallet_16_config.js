@@ -1,1 +1,1 @@
-var mnemonic = "plate marine umbrella adjust approve pull file add swallow jelly swim hidden";
+var mnemonic = "magic vicious object tragic sense ugly affair divide flower trophy asthma primary";

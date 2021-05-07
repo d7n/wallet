@@ -1,1 +1,1 @@
-var mnemonic = "cigar illegal must auction shell joy digital awake oblige mystery nominee diesel";
+var mnemonic = "royal radio alert index learn forward shock tongue immense strategy meat distance";

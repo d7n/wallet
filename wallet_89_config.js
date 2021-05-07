@@ -1,1 +1,1 @@
-var mnemonic = "cherry pulp curve oven occur august pulse virus orchard bubble habit dance";
+var mnemonic = "fiscal mention link jewel blind fold receive clog donkey crystal display thrive";

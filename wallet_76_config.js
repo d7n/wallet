@@ -1,1 +1,1 @@
-var mnemonic = "clever own armor copper candy usage world dry viable place antenna wide";
+var mnemonic = "keep viable boat antenna armor spoon hello detect wait scrap depth coil";

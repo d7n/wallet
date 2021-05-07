@@ -1,1 +1,1 @@
-var mnemonic = "trigger fan slice reject pilot below focus speed weird salon news student";
+var mnemonic = "still blossom erosion bird lumber same old stamp vibrant blade cable ring";

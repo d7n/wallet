@@ -1,1 +1,1 @@
-var mnemonic = "mimic boss divorce still cash dignity dial spot pledge estate cancel share";
+var mnemonic = "oak attitude alone matter bomb traffic glad water excuse zebra sport emotion";

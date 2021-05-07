@@ -1,1 +1,1 @@
-var mnemonic = "short friend hello upon myth hero pull urban initial best visual winter";
+var mnemonic = "casual slide other rude sick adjust unlock north deliver jaguar lecture tomato";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost reason ribbon pet anxiety smooth off raccoon hip wet derive unique";
+var mnemonic = "census private journey dynamic silk advance social depth panic hawk neglect detect";

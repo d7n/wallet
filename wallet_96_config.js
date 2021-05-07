@@ -1,1 +1,1 @@
-var mnemonic = "same hybrid alcohol rural october image mule enable happy major token electric";
+var mnemonic = "toy tail top display grace surprise weekend super such slice person poverty";

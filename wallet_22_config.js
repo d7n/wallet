@@ -1,1 +1,1 @@
-var mnemonic = "scissors brand fury gorilla gallery siren intact badge explain cruel spike board";
+var mnemonic = "evoke occur term impact then chalk awesome sound elder prison squeeze kangaroo";

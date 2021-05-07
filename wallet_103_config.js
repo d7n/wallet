@@ -1,1 +1,1 @@
-var mnemonic = "library mesh fruit anger theory exercise wife vacuum initial vague atom pudding";
+var mnemonic = "output travel borrow try poet giggle embark uncle figure sense habit spend";

@@ -1,1 +1,1 @@
-var mnemonic = "novel license radar vast short patrol erupt shed way rate drift myself";
+var mnemonic = "essence cycle atom rookie bless layer theory kitten sketch reunion rate kind";

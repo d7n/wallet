@@ -1,1 +1,1 @@
-var mnemonic = "knife love gather cabbage raven narrow code boost nature capital about general";
+var mnemonic = "because viable little garment language predict people settle debris exhibit camp route";

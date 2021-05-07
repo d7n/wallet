@@ -1,1 +1,1 @@
-var mnemonic = "rack imitate alley turtle enough network awful expect bench peasant torch cry";
+var mnemonic = "squeeze course wheel zero debris crowd improve sock lottery hedgehog sudden blossom";

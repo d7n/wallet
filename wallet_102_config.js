@@ -1,1 +1,1 @@
-var mnemonic = "initial gesture gasp pilot loyal energy maze winner tilt quote chimney glue";
+var mnemonic = "convince file prevent repeat lion gospel nature same rotate today prize call";

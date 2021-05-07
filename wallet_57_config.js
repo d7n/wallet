@@ -1,1 +1,1 @@
-var mnemonic = "tower found enter option twin explain universe arch perfect report behind profit";
+var mnemonic = "betray cruel forum swift vicious hammer toilet unaware craft dinosaur country home";

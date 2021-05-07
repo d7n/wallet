@@ -1,1 +1,1 @@
-var mnemonic = "vault door raccoon peasant kidney pole blast plunge fatal opinion combine route";
+var mnemonic = "slender bean daughter fortune plunge edge over salt polar donate hurry enact";

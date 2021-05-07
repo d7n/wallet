@@ -1,1 +1,1 @@
-var mnemonic = "million first pumpkin nothing laugh syrup water donor boy drive easily virtual";
+var mnemonic = "pig fee pride ivory aerobic change year news hope inch baby fruit";

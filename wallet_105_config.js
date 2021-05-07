@@ -1,1 +1,1 @@
-var mnemonic = "charge final manual next dawn panther advance butter habit material ensure crash";
+var mnemonic = "hotel evolve company power jealous flower need valve copy sing oxygen buddy";

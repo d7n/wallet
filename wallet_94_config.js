@@ -1,1 +1,1 @@
-var mnemonic = "iron roast open marine wheel priority just rack slogan autumn bronze person";
+var mnemonic = "fun era dial frown ginger reveal sister guilt property menu water finger";

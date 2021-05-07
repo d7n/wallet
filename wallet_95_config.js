@@ -1,1 +1,1 @@
-var mnemonic = "skull razor junk blast february exchange aspect sustain immense alert ancient lend";
+var mnemonic = "crush drama coin evidence squirrel million loud stone gym when gesture tongue";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor ecology path pupil only claim opera mango cotton turkey breeze pudding";
+var mnemonic = "finish stuff lemon version atom twist tissue gasp attend legal bleak odor";

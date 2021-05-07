@@ -1,1 +1,1 @@
-var mnemonic = "news marble prefer month mushroom throw express main focus grit hammer guitar";
+var mnemonic = "recycle flag vanish hollow bind boil view door also float upset doll";

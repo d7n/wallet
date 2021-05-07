@@ -1,1 +1,1 @@
-var mnemonic = "subway board curious wall chest fruit poem female firm tackle slim deer";
+var mnemonic = "weather upper crawl neglect cruise snake laugh nose topic away scissors swift";

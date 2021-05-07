@@ -1,1 +1,1 @@
-var mnemonic = "ignore curve typical rally spin case vote budget earn addict elephant sample";
+var mnemonic = "general spoil track defense moral special antenna tobacco attract seed faith fancy";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder have alien visa suggest program wear vessel volume edge enjoy zero";
+var mnemonic = "ivory venture tomorrow pave quick banner inhale join member purchase mango obtain";

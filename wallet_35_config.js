@@ -1,1 +1,1 @@
-var mnemonic = "lend hockey typical enhance target annual dose loyal essence water infant inspire";
+var mnemonic = "ask across sting clock obvious course person squirrel tennis disorder inspire space";

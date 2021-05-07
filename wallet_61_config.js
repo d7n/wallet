@@ -1,1 +1,1 @@
-var mnemonic = "toddler force shiver abstract hint plug multiply transfer situate number venue stereo";
+var mnemonic = "casual cluster ability road motion believe crane lottery when foster slow cart";

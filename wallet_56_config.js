@@ -1,1 +1,1 @@
-var mnemonic = "intact leopard awake better idea curtain snake husband mechanic cart shed scorpion";
+var mnemonic = "code exchange current swarm organ harbor push release monitor tent coffee area";

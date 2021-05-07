@@ -1,1 +1,1 @@
-var mnemonic = "poet chronic anger better nature doll delay keep tip spatial biology cheap";
+var mnemonic = "cannon mango salute arena era again inquiry net nest author adult smile";

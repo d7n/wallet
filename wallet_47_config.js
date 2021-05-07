@@ -1,1 +1,1 @@
-var mnemonic = "loop length deposit cluster brand eight wrong inflict bring truth donkey impulse";
+var mnemonic = "imitate stove rug follow wolf speed future exclude wealth half inner execute";

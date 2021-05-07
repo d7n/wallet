@@ -1,1 +1,1 @@
-var mnemonic = "neutral switch slender please disease sweet slow nature route come rubber horror";
+var mnemonic = "tennis resist veteran chat chef know visual ball achieve turtle toe spin";

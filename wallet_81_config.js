@@ -1,1 +1,1 @@
-var mnemonic = "barely venue federal ivory aware blush escape what october express gun soup";
+var mnemonic = "leg mango under shrimp access soldier match settle capital width gauge sight";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch digital copy poem book disorder donate stool promote expect peace unfold";
+var mnemonic = "potato awesome cause minute kingdom drum reveal weird moon speak hundred picture";

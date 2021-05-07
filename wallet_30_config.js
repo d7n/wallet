@@ -1,1 +1,1 @@
-var mnemonic = "miss stem quality horse media summer grid angle still lecture agree seed";
+var mnemonic = "they venue siege essence inquiry near come shove primary oil disease craft";

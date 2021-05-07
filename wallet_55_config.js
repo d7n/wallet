@@ -1,1 +1,1 @@
-var mnemonic = "pioneer maximum load giant barely digital direct tell defy token axis possible";
+var mnemonic = "like hamster puppy crater airport birth moon math airport spawn pitch fog";

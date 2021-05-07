@@ -1,1 +1,1 @@
-var mnemonic = "current fancy tree life noise disorder domain nation odor deposit announce deputy";
+var mnemonic = "summer snap glare benefit skate pupil galaxy glass quit eternal aerobic welcome";

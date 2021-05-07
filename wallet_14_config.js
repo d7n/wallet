@@ -1,1 +1,1 @@
-var mnemonic = "smile advice will identify sibling guess year seven auto bamboo coin stuff";
+var mnemonic = "boost base bean weekend crazy drive gossip morning duck coconut question rebuild";

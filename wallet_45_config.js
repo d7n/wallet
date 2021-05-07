@@ -1,1 +1,1 @@
-var mnemonic = "noise burger title diet faint range engage daring rubber lock chase style";
+var mnemonic = "bottom road cement fuel piano march swamp prefer velvet grant owner whip";

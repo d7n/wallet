@@ -1,1 +1,1 @@
-var mnemonic = "ship legal similar permit flock merge forward carry weapon camera grass debate";
+var mnemonic = "brave occur popular leisure wheel club end hard repair cost shrug expose";

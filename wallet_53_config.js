@@ -1,1 +1,1 @@
-var mnemonic = "basic chief success vault toss man saddle disagree green deal tide believe";
+var mnemonic = "whisper initial outside direct hurt winner border topic fiction nation bid margin";

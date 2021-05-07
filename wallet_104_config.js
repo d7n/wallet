@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow disagree expire arrest envelope field denial orange mask monster flower income";
+var mnemonic = "issue uphold secret entire mutual fine weekend vault trip hover seek shove";

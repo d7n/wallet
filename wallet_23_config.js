@@ -1,1 +1,1 @@
-var mnemonic = "trick federal member enroll domain kangaroo corn journey involve limb assault acoustic";
+var mnemonic = "subject cake stadium danger planet wife title grocery family address purity sure";

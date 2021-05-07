@@ -1,1 +1,1 @@
-var mnemonic = "absurd public van border awful stove detail lake quiz kind secret attitude";
+var mnemonic = "album sphere wrist flee stool journey section senior tumble squeeze draft stand";

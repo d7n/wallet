@@ -1,1 +1,1 @@
-var mnemonic = "column galaxy tone cost enhance year inch family true travel orchard clog";
+var mnemonic = "suit code arch real banner poem humble version near flush theme false";

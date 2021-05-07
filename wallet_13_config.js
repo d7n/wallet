@@ -1,1 +1,1 @@
-var mnemonic = "dash object hole below panda captain gather walnut picture box insect leisure";
+var mnemonic = "junior jelly mystery mention foster main same mammal item aim source search";

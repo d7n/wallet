@@ -1,1 +1,1 @@
-var mnemonic = "scout phone wealth spoon leader assist junior mercy critic cliff order tribe";
+var mnemonic = "slush joy box destroy pig tomato buyer parrot drive puzzle armor scissors";

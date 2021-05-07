@@ -1,1 +1,1 @@
-var mnemonic = "clock typical favorite recall salmon world attend program only turn struggle process";
+var mnemonic = "favorite shoe solution clock away situate rebuild enter vote verb spider skin";

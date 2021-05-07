@@ -1,1 +1,1 @@
-var mnemonic = "lady inquiry universe ozone same music boat salad suggest fix timber culture";
+var mnemonic = "output miss lazy clever dice favorite beyond lounge purse this near sadness";

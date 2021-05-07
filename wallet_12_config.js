@@ -1,1 +1,1 @@
-var mnemonic = "wife uniform elephant gold giggle skirt lamp bargain often carbon canyon first";
+var mnemonic = "basket super canoe tomato summer hamster knee behave theory favorite silent wood";

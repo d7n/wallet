@@ -1,1 +1,1 @@
-var mnemonic = "alarm present must mom kitchen client chuckle focus early you art ketchup";
+var mnemonic = "plunge castle tag document roof case degree slam initial found invest crouch";

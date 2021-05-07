@@ -1,1 +1,1 @@
-var mnemonic = "wide boss pioneer riot anxiety velvet drift airport hammer brown mother begin";
+var mnemonic = "amount old depend easily fog situate laugh paper mask world wolf orchard";

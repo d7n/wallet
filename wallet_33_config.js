@@ -1,1 +1,1 @@
-var mnemonic = "clinic fold shop foil mammal mix young wood strike endorse brass coast";
+var mnemonic = "ugly minute clever decade ignore actress wage fence consider hedgehog fatal leader";

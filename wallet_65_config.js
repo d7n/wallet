@@ -1,1 +1,1 @@
-var mnemonic = "fun leader banner also forward real innocent blur rapid describe bronze inflict";
+var mnemonic = "strike comic stuff keep size coral broom trigger crime acid smart street";

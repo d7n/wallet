@@ -1,1 +1,1 @@
-var mnemonic = "table maid assault caught unhappy race alley collect mimic plug circle alley";
+var mnemonic = "pattern mother sock innocent dismiss melody alert traffic bread food echo spoil";

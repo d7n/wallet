@@ -1,1 +1,1 @@
-var mnemonic = "allow patient satisfy afford comfort change cave oil giraffe salt put lobster";
+var mnemonic = "fit dinosaur taste wide submit question basket corn board vacuum hand exclude";

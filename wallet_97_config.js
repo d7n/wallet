@@ -1,1 +1,1 @@
-var mnemonic = "omit coyote wish lecture stairs decrease term bomb divide quote swallow brother";
+var mnemonic = "plug creek inquiry there marble filter chicken kitten cupboard vacant victory egg";

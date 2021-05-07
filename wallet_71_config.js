@@ -1,1 +1,1 @@
-var mnemonic = "skate dignity slogan alone parent goddess high reject fabric chapter defense crucial";
+var mnemonic = "subject public tobacco hedgehog obtain private hill father win board pond alcohol";

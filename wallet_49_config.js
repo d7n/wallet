@@ -1,1 +1,1 @@
-var mnemonic = "tiger sort hidden desk diesel danger mention distance any because staff sort";
+var mnemonic = "attack inhale torch baby replace robust video discover obvious advance hero climb";

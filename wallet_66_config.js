@@ -1,1 +1,1 @@
-var mnemonic = "woman state ceiling gun genre word mom artwork bubble candy cherry cricket";
+var mnemonic = "embark ticket alpha check torch fiscal curtain smooth blind relief sentence cradle";

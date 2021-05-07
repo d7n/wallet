@@ -1,1 +1,1 @@
-var mnemonic = "vault cage slice split badge hub raccoon soup among fork crime artist";
+var mnemonic = "interest bachelor split parade village gun measure labor loyal recall flip silent";

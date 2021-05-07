@@ -1,1 +1,1 @@
-var mnemonic = "square seed luxury human will mobile change exercise runway surround truck relief";
+var mnemonic = "admit seat fame school mosquito ball bright whip unusual hammer robot usage";

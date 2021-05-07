@@ -1,1 +1,1 @@
-var mnemonic = "legend return differ caught grunt hair feature alpha approve lumber scrap palm";
+var mnemonic = "flush frog velvet time beach sketch girl stable leaf cube under energy";
