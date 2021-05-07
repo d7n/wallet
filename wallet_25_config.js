@@ -1,1 +1,1 @@
-var mnemonic = "chaos around exercise entry breeze wide bamboo shove cannon vendor chef rifle";
+var mnemonic = "job sad stadium window laugh spider dune bicycle fossil plug swallow air";

@@ -1,1 +1,1 @@
-var mnemonic = "village actor filter unfair crash liberty media mom achieve pupil flock discover";
+var mnemonic = "teach situate logic offer champion sunny bottom deal warrior monkey hamster point";

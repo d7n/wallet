@@ -1,1 +1,1 @@
-var mnemonic = "fragile resource lens people strong infant already buffalo decide dash gravity group";
+var mnemonic = "rug candy thing social cradle breeze tray coyote season answer brother quality";

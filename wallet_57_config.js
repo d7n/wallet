@@ -1,1 +1,1 @@
-var mnemonic = "despair battle half coil budget express wrestle used notice medal kit orphan";
+var mnemonic = "enroll type resemble fish rabbit slender drama labor coach earth crowd sick";

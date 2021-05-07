@@ -1,1 +1,1 @@
-var mnemonic = "grit disagree chase abandon spice win boil wedding install engage sample bacon";
+var mnemonic = "rabbit educate surprise neither dinosaur invite shy gasp slush invest during cause";

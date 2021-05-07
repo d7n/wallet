@@ -1,1 +1,1 @@
-var mnemonic = "drift flock scan cabin say clump crater aunt sheriff emotion capable retreat";
+var mnemonic = "other heavy trim edit chronic either right logic toe senior funny cry";

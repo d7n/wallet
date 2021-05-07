@@ -1,1 +1,1 @@
-var mnemonic = "moment blush dish account expire main treat crouch awkward danger cloud average";
+var mnemonic = "thunder august drip winter frame surround animal science absent truck movie story";

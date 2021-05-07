@@ -1,1 +1,1 @@
-var mnemonic = "mom kind chicken stamp demand cactus gas ceiling ivory ancient hero news";
+var mnemonic = "negative burst awful stone teach rule hotel cover educate people ready sound";

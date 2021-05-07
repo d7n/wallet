@@ -1,1 +1,1 @@
-var mnemonic = "cradle census culture future agree swarm scatter gas rural cargo awful estate";
+var mnemonic = "unable stereo venture giraffe monitor useless express banana future avoid evolve visit";

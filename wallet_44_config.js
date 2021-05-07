@@ -1,1 +1,1 @@
-var mnemonic = "slice put fire prize sustain cause destroy door rich trip cinnamon moon";
+var mnemonic = "atom rose float frown wolf onion civil denial insect token flavor key";

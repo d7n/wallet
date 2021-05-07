@@ -1,1 +1,1 @@
-var mnemonic = "ceiling question common april usual coffee spawn unveil save glad turn ribbon";
+var mnemonic = "regret capital begin rubber upper column forward false win embark maple net";

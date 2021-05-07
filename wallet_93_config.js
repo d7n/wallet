@@ -1,1 +1,1 @@
-var mnemonic = "winter audit stand company crystal vital inside cable stem gauge aware donate";
+var mnemonic = "payment weasel hen echo extend noise soccer hour panic hill truly bamboo";

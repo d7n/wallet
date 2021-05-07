@@ -1,1 +1,1 @@
-var mnemonic = "ladder cat adjust filter suggest report giggle stone weapon thrive black involve";
+var mnemonic = "security spice witness toy notice motor rule end bamboo pole harbor despair";

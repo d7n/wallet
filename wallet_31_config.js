@@ -1,1 +1,1 @@
-var mnemonic = "open social clap whisper good craft head pitch coyote skirt dignity fiction";
+var mnemonic = "usage wash left fatigue possible stuff stereo dinner alone plug donkey combine";

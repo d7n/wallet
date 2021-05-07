@@ -1,1 +1,1 @@
-var mnemonic = "inner talk fun broken keep option clerk damage echo helmet cook olympic";
+var mnemonic = "blush embark guilt range lake smile shoe moral glad north comfort fog";

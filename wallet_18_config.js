@@ -1,1 +1,1 @@
-var mnemonic = "scare rocket snack dial exchange silent peanut frog monkey upon loan neutral";
+var mnemonic = "silk owner tribe differ rate leave topple dry neither valid charge debris";

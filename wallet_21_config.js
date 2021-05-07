@@ -1,1 +1,1 @@
-var mnemonic = "cross joy eyebrow foster angle document educate exclude track start order video";
+var mnemonic = "wreck repair author canvas edit grow immune entry surge verb recipe idea";

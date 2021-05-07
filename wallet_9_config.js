@@ -1,1 +1,1 @@
-var mnemonic = "sick local divorce furnace client sunset gate jewel wise hockey element annual";
+var mnemonic = "lawn cross mix exit inflict magic drive circle cheap pig pink mammal";

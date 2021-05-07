@@ -1,1 +1,1 @@
-var mnemonic = "genius faculty debate sweet alpha illness version tomato life pulp chunk spot";
+var mnemonic = "copy hurt rocket hurry shine alarm foil upgrade current glory because dash";

@@ -1,1 +1,1 @@
-var mnemonic = "pipe dirt help solution camera involve wink ghost unknown scatter mention total";
+var mnemonic = "replace tribe art hidden opera puppy tired cause neglect smile hurry fortune";

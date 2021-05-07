@@ -1,1 +1,1 @@
-var mnemonic = "bench airport cloth select want amused vendor educate divorce album frequent attend";
+var mnemonic = "toddler shallow vendor surprise mouse magnet lock upon pull cat season trim";

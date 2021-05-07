@@ -1,1 +1,1 @@
-var mnemonic = "foot analyst pool eight equal pretty bind acid van smooth wink audit";
+var mnemonic = "leopard rubber tornado spoil napkin lecture empower lounge access tree fever cycle";

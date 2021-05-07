@@ -1,1 +1,1 @@
-var mnemonic = "income fade volcano slow bean begin oyster mom people weasel major all";
+var mnemonic = "fee evolve crucial hat about village index poverty country harbor convince rebel";

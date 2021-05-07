@@ -1,1 +1,1 @@
-var mnemonic = "soldier torch gentle mouse quick wood dolphin rhythm wagon oblige mutual dentist";
+var mnemonic = "shoot shed industry kiwi pizza life tube gym lava ribbon describe wait";

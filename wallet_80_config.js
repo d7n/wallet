@@ -1,1 +1,1 @@
-var mnemonic = "sport spawn rack boil auto limb repeat october voice leader strike tent";
+var mnemonic = "abstract tiger dash upon truth nuclear when liberty transfer session black eyebrow";

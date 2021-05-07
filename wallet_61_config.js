@@ -1,1 +1,1 @@
-var mnemonic = "couple female ability myth ugly turkey bronze wedding suspect craft winter fine";
+var mnemonic = "act action doctor boss spy pilot benefit flat afford ivory finish world";

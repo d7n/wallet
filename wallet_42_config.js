@@ -1,1 +1,1 @@
-var mnemonic = "blossom history museum lunch vast arena cliff weather giggle split pluck liberty";
+var mnemonic = "crack cheap argue column reason wash arch leaf grow strategy myth gather";

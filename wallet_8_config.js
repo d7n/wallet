@@ -1,1 +1,1 @@
-var mnemonic = "embark inform theory that glare shallow jelly ancient reward rate note soccer";
+var mnemonic = "rice rough fence spawn case truck riot divert garlic enroll polar jungle";

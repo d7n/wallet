@@ -1,1 +1,1 @@
-var mnemonic = "faith motor struggle elevator mosquito pond gaze forest bronze monster arena man";
+var mnemonic = "debate secret eager squirrel sea text glow direct glory stadium keen swift";

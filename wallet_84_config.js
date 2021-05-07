@@ -1,1 +1,1 @@
-var mnemonic = "worry repeat olive iron success gentle twist treat victory into can deputy";
+var mnemonic = "rhythm unique satoshi key leopard harvest when idea cancel differ ability lawsuit";

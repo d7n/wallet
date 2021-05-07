@@ -1,1 +1,1 @@
-var mnemonic = "paper heavy skin movie lunch nose cabbage whale whip can predict leisure";
+var mnemonic = "bonus square boss visit echo curious receive arrest screen service cinnamon soldier";

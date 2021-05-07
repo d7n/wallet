@@ -1,1 +1,1 @@
-var mnemonic = "meat window priority mango feature jump diet split rigid north scout garbage";
+var mnemonic = "fly region provide quote decline label erupt nature junior hungry version perfect";

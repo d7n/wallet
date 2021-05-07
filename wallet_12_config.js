@@ -1,1 +1,1 @@
-var mnemonic = "slide armor owner hero wish obvious hedgehog acid want candy power venture";
+var mnemonic = "awake rather capable wear achieve length exhibit circle fun promote spare blur";

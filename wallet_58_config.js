@@ -1,1 +1,1 @@
-var mnemonic = "acoustic shrimp animal quick omit decorate chicken garden mountain dizzy song bleak";
+var mnemonic = "lobster into range mouse market sphere clump shrimp fresh strategy glimpse awake";

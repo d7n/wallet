@@ -1,1 +1,1 @@
-var mnemonic = "clarify party obscure rain burden estate silver blade vault upset hybrid aim";
+var mnemonic = "skate meat town curious walk say zone also album floor mad brother";

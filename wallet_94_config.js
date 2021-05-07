@@ -1,1 +1,1 @@
-var mnemonic = "know welcome more bone urban model economy fever tragic tiger swear view";
+var mnemonic = "toward flee clerk flat scrap intact risk pony party gown area any";

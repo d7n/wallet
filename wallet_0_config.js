@@ -1,1 +1,1 @@
-var mnemonic = "wide spin hidden game romance embody monkey intact art similar wheat special";
+var mnemonic = "rocket borrow trophy sleep shoulder hurt basic apology axis program defy frequent";

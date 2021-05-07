@@ -1,1 +1,1 @@
-var mnemonic = "endless own cement web open blue bench sport hat art aisle solar";
+var mnemonic = "desk recipe trick copper sauce pizza female wait capital uniform citizen basket";

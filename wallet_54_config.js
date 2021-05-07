@@ -1,1 +1,1 @@
-var mnemonic = "gesture slab mandate pelican power sustain marble guilt hold unfold case enemy";
+var mnemonic = "vacuum save purpose focus logic unfold leaf sword time flower input actual";

@@ -1,1 +1,1 @@
-var mnemonic = "offer mask phrase copper more flock figure one popular vicious position amount";
+var mnemonic = "ride swim trust black naive artwork forum warm million illness horn abstract";

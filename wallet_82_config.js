@@ -1,1 +1,1 @@
-var mnemonic = "grain test vacuum tonight assist flower various clock kiwi safe weapon kind";
+var mnemonic = "dust point stem raise build dry cushion panda clarify network right theme";

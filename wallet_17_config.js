@@ -1,1 +1,1 @@
-var mnemonic = "margin grape lens ladder kitten chunk pigeon mobile pass balcony aspect scrap";
+var mnemonic = "major prepare silent object staff effort square pistol camera brick roast into";

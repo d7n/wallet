@@ -1,1 +1,1 @@
-var mnemonic = "morning pattern share veteran truly tongue puzzle august garden budget range merit";
+var mnemonic = "gold hockey fresh mountain smile first trick end special recipe dynamic clever";

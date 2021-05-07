@@ -1,1 +1,1 @@
-var mnemonic = "leopard employ morning actor industry team grow cash crawl envelope spawn shock";
+var mnemonic = "need credit mixture record penalty mutual expose bike key direct minute unveil";

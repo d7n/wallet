@@ -1,1 +1,1 @@
-var mnemonic = "finger foot cycle fiction tuition ridge real happy task hole cushion carbon";
+var mnemonic = "tower frame shy lecture hill embark memory warm filter thumb pretty daring";

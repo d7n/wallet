@@ -1,1 +1,1 @@
-var mnemonic = "worth lemon private program wife copy nest husband planet photo lobster apology";
+var mnemonic = "guide input until room expire phone try valley want pyramid myth draft";

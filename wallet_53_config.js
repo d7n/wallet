@@ -1,1 +1,1 @@
-var mnemonic = "tumble volume tumble talk nose drink six income want observe decade lunar";
+var mnemonic = "whale syrup rapid imitate document energy talent west admit hurt federal boil";

@@ -1,1 +1,1 @@
-var mnemonic = "forest below police smooth fish rather thought pull rib snack depart snow";
+var mnemonic = "logic kitten oil more rebuild choose vague reform guide ladder space please";

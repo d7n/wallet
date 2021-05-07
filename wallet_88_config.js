@@ -1,1 +1,1 @@
-var mnemonic = "aunt number category work dynamic pass worth disagree figure firm mirror runway";
+var mnemonic = "grape forward energy earn salmon amazing excuse festival picture deer thing lemon";

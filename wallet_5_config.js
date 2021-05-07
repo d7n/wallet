@@ -1,1 +1,1 @@
-var mnemonic = "shove faith fatal unveil employ mercy stick journey comic wood coyote harvest";
+var mnemonic = "flag cupboard inmate hero ready talk shoulder attack blind cart duck merit";

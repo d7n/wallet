@@ -1,1 +1,1 @@
-var mnemonic = "vocal biology random cage game elite zoo artwork fault tornado report raven";
+var mnemonic = "solar fetch solid clean bean honey crumble employ lens tape suffer season";

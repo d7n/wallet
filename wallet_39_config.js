@@ -1,1 +1,1 @@
-var mnemonic = "spirit script electric disease weasel box photo aunt excuse name trial gospel";
+var mnemonic = "lemon sibling woman above ready issue pumpkin actress faculty solid ring assume";

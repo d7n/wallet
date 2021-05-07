@@ -1,1 +1,1 @@
-var mnemonic = "fame few virtual believe notice put unknown rib purity abstract someone stadium";
+var mnemonic = "inject furnace great wing pyramid door notice shift cherry infant ramp ridge";

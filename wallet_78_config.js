@@ -1,1 +1,1 @@
-var mnemonic = "course member minimum elite blur resemble bachelor dutch guess state chase title";
+var mnemonic = "wire catch also taxi other polar youth village indoor rail buffalo desert";

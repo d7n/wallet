@@ -1,1 +1,1 @@
-var mnemonic = "cherry aisle farm mistake velvet almost give century release awkward picnic another";
+var mnemonic = "bean noble sock oblige pupil prison margin young ghost conduct path surface";

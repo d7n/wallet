@@ -1,1 +1,1 @@
-var mnemonic = "logic trend length core series water gate achieve purpose guide soda tooth";
+var mnemonic = "hobby eager subway slide medal tilt wolf hawk soccer vacuum reward leopard";

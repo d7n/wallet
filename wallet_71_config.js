@@ -1,1 +1,1 @@
-var mnemonic = "smooth venture toss barrel maze fashion exercise dentist depend wonder poet legal";
+var mnemonic = "deer general observe lottery hat increase leader hub secret script danger eagle";

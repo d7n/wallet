@@ -1,1 +1,1 @@
-var mnemonic = "boring fantasy donkey miracle pair parade flower mind immense theory energy right";
+var mnemonic = "inner public soap major business drastic car wave capital also rule visit";

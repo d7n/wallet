@@ -1,1 +1,1 @@
-var mnemonic = "song august rubber end honey fix little toss coconut reduce embark bamboo";
+var mnemonic = "attack custom accident century gospel woman mouse core notable try uniform quarter";

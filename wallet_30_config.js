@@ -1,1 +1,1 @@
-var mnemonic = "glass mask useful kangaroo receive alpha shield satoshi test artwork fatigue puppy";
+var mnemonic = "lunch craft depart treat grid blouse merit consider bullet lava wonder over";

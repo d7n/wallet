@@ -1,1 +1,1 @@
-var mnemonic = "video situate faint pilot dose crane three gallery glance focus hole trip";
+var mnemonic = "already cradle gas genius print cotton sauce unusual camp property tool theory";

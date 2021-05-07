@@ -1,1 +1,1 @@
-var mnemonic = "result output poet rural place index glare common real digital junior fun";
+var mnemonic = "lab success flight cool dumb traffic own pond alcohol claim badge general";

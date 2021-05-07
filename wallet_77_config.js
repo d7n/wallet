@@ -1,1 +1,1 @@
-var mnemonic = "aunt monster scorpion stem tooth sting matter cinnamon ethics essay valid dune";
+var mnemonic = "time rapid bone sign element lady include guilt program student list system";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic scout spring abstract alpha wink stamp powder river scheme employ lion";
+var mnemonic = "merry soldier desk equip coral casino reform guitar carry volume brain nasty";

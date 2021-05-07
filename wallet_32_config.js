@@ -1,1 +1,1 @@
-var mnemonic = "laugh spoon galaxy scheme hint tool visa broken gospel position notice journey";
+var mnemonic = "sure balcony ugly random seminar question case top car anchor barely rebuild";

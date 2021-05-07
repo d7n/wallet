@@ -1,1 +1,1 @@
-var mnemonic = "latin nut flat tool rubber media surge gold basic hold endless nest";
+var mnemonic = "elite census tiny ostrich member moon body pumpkin slush crawl violin patient";

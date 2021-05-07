@@ -1,1 +1,1 @@
-var mnemonic = "panic age present denial police state vacuum common theme virtual you broccoli";
+var mnemonic = "main finger anchor flee return argue fine outer method young gown judge";

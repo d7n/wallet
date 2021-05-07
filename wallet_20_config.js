@@ -1,1 +1,1 @@
-var mnemonic = "grief where cruise nurse happy retire build tongue solar find weapon ripple";
+var mnemonic = "mammal comic open useless era green pull same faculty acid erase duck";

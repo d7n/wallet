@@ -1,1 +1,1 @@
-var mnemonic = "hybrid scout year regular soldier ridge vocal laundry little combine ribbon disagree";
+var mnemonic = "cash need dinner mansion decorate vacuum sentence peasant engage trial crystal novel";

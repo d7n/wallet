@@ -1,1 +1,1 @@
-var mnemonic = "illness drama airport leopard forward identify pilot copper swap violin cake useless";
+var mnemonic = "cup dilemma actor fury aspect hood ball atom kid trim trouble quick";

@@ -1,1 +1,1 @@
-var mnemonic = "shed employ pupil patrol glare away hobby loud push goat level spin";
+var mnemonic = "sick quality skate slush index chronic wood water spirit slice adapt recipe";

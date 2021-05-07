@@ -1,1 +1,1 @@
-var mnemonic = "artwork guilt jungle vague give bacon prevent bridge decide mention unknown surge";
+var mnemonic = "alpha leaf bottom render coast squirrel arena ribbon age lemon woman jeans";

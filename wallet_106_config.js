@@ -1,1 +1,1 @@
-var mnemonic = "basket ocean arch undo scorpion purity accident frown comfort such disagree water";
+var mnemonic = "vacuum office since diesel mistake legend alcohol rail coconut rare soft elder";

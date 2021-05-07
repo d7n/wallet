@@ -1,1 +1,1 @@
-var mnemonic = "puppy patch noise credit oblige switch approve ladder dream silver pig across";
+var mnemonic = "broccoli lady hollow kit asthma wool tuition ankle choose cargo bacon child";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry intact steak obtain moment jealous yellow pigeon detect upset random carpet";
+var mnemonic = "talent found usual observe tobacco smooth use accident drive body special desk";

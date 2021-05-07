@@ -1,1 +1,1 @@
-var mnemonic = "wool chronic report opera merit blossom become shoulder valve culture year city";
+var mnemonic = "camera coast title keep section debate win mouse office seven learn anxiety";

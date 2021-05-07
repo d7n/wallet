@@ -1,1 +1,1 @@
-var mnemonic = "ability mansion same nut child deposit aspect sure crazy exercise memory crystal";
+var mnemonic = "immense pink neutral sketch box narrow fresh around daughter rather damp permit";

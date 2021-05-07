@@ -1,1 +1,1 @@
-var mnemonic = "drop supply pig bronze coffee survey frown blush caution steak anger sentence";
+var mnemonic = "grant salon digital smile poverty zoo little pattern marine police damp goat";

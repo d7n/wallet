@@ -1,1 +1,1 @@
-var mnemonic = "small window stick health appear flock property merge cancel nest shell love";
+var mnemonic = "false employ equip rally vivid unit peasant undo salute outdoor dumb tone";

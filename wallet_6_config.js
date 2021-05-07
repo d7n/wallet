@@ -1,1 +1,1 @@
-var mnemonic = "head lazy mammal clarify bulb lab tube test exercise sand photo shed";
+var mnemonic = "benefit spread price differ amazing depend glory frown violin mix clap dignity";

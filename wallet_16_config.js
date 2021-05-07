@@ -1,1 +1,1 @@
-var mnemonic = "detect mango proof faith truth million minor call expose special mobile stay";
+var mnemonic = "roast dad banner puppy much relief game double seminar improve three infant";

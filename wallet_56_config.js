@@ -1,1 +1,1 @@
-var mnemonic = "field rain exchange claw throw mystery tilt heavy normal vehicle tool person";
+var mnemonic = "achieve burst cheap glare pear inner zoo coffee list banana chimney action";

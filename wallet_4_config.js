@@ -1,1 +1,1 @@
-var mnemonic = "spring fix process throw ski cruel panther popular crawl mad dune volcano";
+var mnemonic = "make moon awkward crime apple exist vote disease envelope whip clap office";

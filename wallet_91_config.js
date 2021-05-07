@@ -1,1 +1,1 @@
-var mnemonic = "measure deliver fatal blast rubber analyst assault dune win leisure attitude meat";
+var mnemonic = "knock green thrive human debris power fly fog media six about tragic";

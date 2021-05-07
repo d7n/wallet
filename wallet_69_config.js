@@ -1,1 +1,1 @@
-var mnemonic = "defense arm guitar family wasp shrimp abstract victory usual nurse also gap";
+var mnemonic = "choose wrist entire balance frost tattoo tongue hope bargain turtle situate fabric";

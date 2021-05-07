@@ -1,1 +1,1 @@
-var mnemonic = "group choose interest mushroom chief timber pair grief siege throw main slush";
+var mnemonic = "veteran innocent response beef include thumb exclude museum animal eyebrow rhythm tiger";

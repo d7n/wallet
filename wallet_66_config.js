@@ -1,1 +1,1 @@
-var mnemonic = "crumble legal speed piano hat outdoor balcony winter glad sell tone oxygen";
+var mnemonic = "used fever quantum velvet slice deposit eager zoo pizza stereo assume toward";
