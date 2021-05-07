@@ -1,1 +1,1 @@
-var mnemonic = "this hybrid this dog forget inner trip ozone clean pledge copper test";
+var mnemonic = "team twice promote term foot mosquito firm loud similar sunset report hero";

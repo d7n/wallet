@@ -1,1 +1,1 @@
-var mnemonic = "real rug feel marble chimney manual vanish scan later bronze hunt improve";
+var mnemonic = "core first teach cook multiply usage hazard cabin flat innocent genre track";

@@ -1,1 +1,1 @@
-var mnemonic = "anger dismiss wreck shock school satoshi book input maid century quick seek";
+var mnemonic = "bridge bundle color vicious win bid robot rug twelve defense fit bulb";

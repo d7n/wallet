@@ -1,1 +1,1 @@
-var mnemonic = "ozone slight impact hair just biology grid width boost table task riot";
+var mnemonic = "hobby craft ability cheese party indicate floor great quantum chapter scrub dad";

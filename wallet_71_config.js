@@ -1,1 +1,1 @@
-var mnemonic = "accident struggle return rubber strategy south near disease pride slush bleak truck";
+var mnemonic = "nuclear hybrid start elite leg lonely produce armor loop help winner obey";

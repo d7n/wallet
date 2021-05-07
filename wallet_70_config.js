@@ -1,1 +1,1 @@
-var mnemonic = "main talent area swift plug south early short cover weapon taxi front";
+var mnemonic = "solid lens divorce avoid mean song swallow pepper clock tortoise flavor journey";

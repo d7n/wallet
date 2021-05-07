@@ -1,1 +1,1 @@
-var mnemonic = "art combine deputy idea near conduct twice fiction year skirt gesture leg";
+var mnemonic = "rocket fox enable consider medal dial taxi claw proof sort emotion broom";

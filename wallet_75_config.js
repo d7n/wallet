@@ -1,1 +1,1 @@
-var mnemonic = "fat chaos bachelor obey magic social know nasty pumpkin claw pride fuel";
+var mnemonic = "truth resist ship enact harbor permit decorate pig where delay ecology father";

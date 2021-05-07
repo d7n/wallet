@@ -1,1 +1,1 @@
-var mnemonic = "chronic clap ozone galaxy message swarm skin genius video enter lottery mom";
+var mnemonic = "wonder priority shock van inspire van average gown bird jar govern thank";

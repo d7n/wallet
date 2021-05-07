@@ -1,1 +1,1 @@
-var mnemonic = "lend weasel uniform draw cereal large trip panda demand crime taxi rose";
+var mnemonic = "armed lava start ripple video provide prize sting symptom fringe gather maple";

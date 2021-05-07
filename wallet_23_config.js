@@ -1,1 +1,1 @@
-var mnemonic = "iron ladder educate call ancient crisp medal digital rigid miracle grunt side";
+var mnemonic = "gown among agent tent panther exile theme rough arm cereal fatal dream";

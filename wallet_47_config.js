@@ -1,1 +1,1 @@
-var mnemonic = "scrap move fun clown remind fashion flavor ivory popular ribbon horse virtual";
+var mnemonic = "traffic license mandate topple three pizza enjoy crucial day elevator paper solar";

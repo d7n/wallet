@@ -1,1 +1,1 @@
-var mnemonic = "fashion indoor consider mango unveil slam fun fortune lottery cradle fatal shop";
+var mnemonic = "acquire deposit warm resource motion ladder reunion bargain bus ankle secret lift";

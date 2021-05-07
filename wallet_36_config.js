@@ -1,1 +1,1 @@
-var mnemonic = "prosper ship wine nature feed quick file eyebrow drift tornado mandate assault";
+var mnemonic = "erase defense concert enact chase force cinnamon noble sweet chunk plug dizzy";

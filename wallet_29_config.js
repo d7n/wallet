@@ -1,1 +1,1 @@
-var mnemonic = "reject awkward north tomorrow female dress double merit core body bounce sugar";
+var mnemonic = "shadow elephant front salon detail matter sunset flower solar begin swing staff";

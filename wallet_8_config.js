@@ -1,1 +1,1 @@
-var mnemonic = "matrix field squirrel reward soup arm expect hold gap auction level bamboo";
+var mnemonic = "addict person dawn such cupboard wear dose olive march when coin retreat";

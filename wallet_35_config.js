@@ -1,1 +1,1 @@
-var mnemonic = "sun buyer grace envelope genuine whip logic betray step magic voyage diagram";
+var mnemonic = "few boost camera spring sign episode business neglect short wolf build tourist";

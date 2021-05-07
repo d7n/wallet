@@ -1,1 +1,1 @@
-var mnemonic = "tunnel entire imitate frame pond champion excuse saddle decrease grant anxiety oppose";
+var mnemonic = "repeat junior youth beyond ice naive sleep crumble farm language oval tongue";

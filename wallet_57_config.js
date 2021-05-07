@@ -1,1 +1,1 @@
-var mnemonic = "steel cereal hurt excuse voyage blame dance robust section cargo quote trend";
+var mnemonic = "panther sauce brave bargain draft abstract solar south resist service wolf note";

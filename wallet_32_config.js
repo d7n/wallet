@@ -1,1 +1,1 @@
-var mnemonic = "border pattern mutual poverty aware ethics portion initial claw treat load empower";
+var mnemonic = "excite sweet rough quantum sudden sugar pass fan chief bundle reject crawl";

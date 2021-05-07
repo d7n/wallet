@@ -1,1 +1,1 @@
-var mnemonic = "foil setup gap guilt science doctor rescue fun essay view icon hazard";
+var mnemonic = "congress vault divide goose potato ensure maximum genius media agent ribbon hand";

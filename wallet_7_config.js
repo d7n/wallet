@@ -1,1 +1,1 @@
-var mnemonic = "disagree admit theme pattern hood blame maid jaguar hundred develop sun quick";
+var mnemonic = "slow congress copper ancient duty bundle taxi donkey pause paddle winner demise";

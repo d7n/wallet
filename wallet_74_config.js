@@ -1,1 +1,1 @@
-var mnemonic = "million pioneer praise filter bus smooth skirt voice flavor retire coach chronic";
+var mnemonic = "flat again amused jacket gadget gas cargo blade frost repeat moral van";

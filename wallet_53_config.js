@@ -1,1 +1,1 @@
-var mnemonic = "kidney tape area extra lunch among solar index double taxi black reward";
+var mnemonic = "chapter meat excess pigeon congress candy sketch hub know security tumble hood";

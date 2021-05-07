@@ -1,1 +1,1 @@
-var mnemonic = "digital suggest setup notice fee plastic canvas soon interest brief code idea";
+var mnemonic = "load police toast leg wage expire alpha welcome hip chair distance baby";

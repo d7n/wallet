@@ -1,1 +1,1 @@
-var mnemonic = "diesel stock multiply lunar there sudden pear shine symbol sick ticket advice";
+var mnemonic = "soap kiss fury capable ocean quality region champion permit opinion orange minor";

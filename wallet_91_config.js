@@ -1,1 +1,1 @@
-var mnemonic = "position tag winter identify luggage kiwi random catch wrist index satisfy future";
+var mnemonic = "quote certain rare fever thunder ugly clutch minimum differ patient guitar effort";

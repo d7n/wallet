@@ -1,1 +1,1 @@
-var mnemonic = "ketchup mountain update civil jeans actress canoe smoke sadness insect dance forest";
+var mnemonic = "invite soul coach magnet siren wire mercy smart combine supreme twice there";

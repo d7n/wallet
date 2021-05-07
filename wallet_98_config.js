@@ -1,1 +1,1 @@
-var mnemonic = "wreck mass tomato nuclear nephew pretty sell fork box trust fossil paddle";
+var mnemonic = "sword car spray glare horror quantum isolate minute uniform wine math pride";

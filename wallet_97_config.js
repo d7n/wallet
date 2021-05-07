@@ -1,1 +1,1 @@
-var mnemonic = "snake steel private alert screen clay plastic skin stereo lobster promote rifle";
+var mnemonic = "gravity repair spider process envelope assist toddler blame employ east barrel inch";

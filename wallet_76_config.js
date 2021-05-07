@@ -1,1 +1,1 @@
-var mnemonic = "seed donate target addict athlete village smoke tide tail above dutch people";
+var mnemonic = "frost initial neutral drink salt tenant gold behind cannon flock travel mechanic";

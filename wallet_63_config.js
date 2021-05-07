@@ -1,1 +1,1 @@
-var mnemonic = "admit jeans satisfy social lend else rug disagree board upon narrow breeze";
+var mnemonic = "shiver hurry thank make express relief symptom save original kind topic cancel";

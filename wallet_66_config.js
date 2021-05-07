@@ -1,1 +1,1 @@
-var mnemonic = "spin pony cupboard cook avoid unusual pass metal sunset regular candy crystal";
+var mnemonic = "fuel wood derive stable follow jeans jelly feed stove birth eagle trick";

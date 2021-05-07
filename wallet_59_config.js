@@ -1,1 +1,1 @@
-var mnemonic = "asthma favorite become orchard model history outdoor boring fabric slush dentist trust";
+var mnemonic = "suit gauge autumn sure chaos language myself aware name very estate kingdom";

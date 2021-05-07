@@ -1,1 +1,1 @@
-var mnemonic = "royal matter blue sheriff tunnel coyote judge unhappy wolf admit symbol carpet";
+var mnemonic = "later push shadow verify polar airport surface phone expect dress need hand";

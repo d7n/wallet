@@ -1,1 +1,1 @@
-var mnemonic = "bright tissue exchange throw clog thank ankle wrestle cattle turtle afraid reduce";
+var mnemonic = "accuse usual true speak letter category group random quiz novel imitate inflict";

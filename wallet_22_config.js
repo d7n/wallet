@@ -1,1 +1,1 @@
-var mnemonic = "garage token install swap drift mountain warfare saddle apple style find able";
+var mnemonic = "monitor black degree light lift daughter humor decade foster drill kidney salon";

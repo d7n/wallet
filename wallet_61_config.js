@@ -1,1 +1,1 @@
-var mnemonic = "lounge fine gasp sea jacket cancel purpose grant off success record nation";
+var mnemonic = "amazing certain calm turkey forward rent chunk water ghost airport hire lunch";

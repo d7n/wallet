@@ -1,1 +1,1 @@
-var mnemonic = "gentle cloth body struggle develop broom animal climb quit depart that school";
+var mnemonic = "thumb return sick mobile mixture scatter virtual casual pottery cup buzz skill";

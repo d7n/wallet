@@ -1,1 +1,1 @@
-var mnemonic = "affair tail dismiss person emerge believe hotel water stool impulse system pulp";
+var mnemonic = "load glad vanish morning vital team harbor emerge cage mistake build capital";

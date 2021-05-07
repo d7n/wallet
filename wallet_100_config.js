@@ -1,1 +1,1 @@
-var mnemonic = "kingdom insect innocent fade vague obscure host avocado upon puppy ahead note";
+var mnemonic = "worth blame pet alley require famous fantasy canoe arch purity around time";

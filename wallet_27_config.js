@@ -1,1 +1,1 @@
-var mnemonic = "business other zebra lesson gossip project smooth range february clown insect bright";
+var mnemonic = "taxi donkey timber deny sheriff issue silk someone awake swift leisure buzz";

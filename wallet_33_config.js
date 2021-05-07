@@ -1,1 +1,1 @@
-var mnemonic = "filter raccoon quiz blood able try include stay insect attract exercise column";
+var mnemonic = "urge exchange vacuum wage assist brief output tomorrow renew surprise game plug";

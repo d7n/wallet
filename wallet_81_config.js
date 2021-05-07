@@ -1,1 +1,1 @@
-var mnemonic = "setup fog decade favorite village town wolf claim second budget write region";
+var mnemonic = "ribbon tip unaware square cup angle coach gorilla trash pyramid canal path";

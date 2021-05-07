@@ -1,1 +1,1 @@
-var mnemonic = "friend cruise corn glow sustain bid until autumn legend climb flock jar";
+var mnemonic = "notice because tower virus object fire toe else cover crumble private worth";

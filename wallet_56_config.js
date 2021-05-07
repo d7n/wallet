@@ -1,1 +1,1 @@
-var mnemonic = "elephant wood alarm gun sell pilot detail siege enter flavor black current";
+var mnemonic = "slide smart family win jazz soldier melt forget renew first birth edge";

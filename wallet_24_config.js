@@ -1,1 +1,1 @@
-var mnemonic = "degree pottery tray capable brave burst police angle slab sword exercise prepare";
+var mnemonic = "husband approve ankle sad moon donkey glue fade pelican sponsor love zebra";

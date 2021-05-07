@@ -1,1 +1,1 @@
-var mnemonic = "pottery belt solid rural thrive cup sketch relax lift seven scrap during";
+var mnemonic = "oxygen crash sugar exhibit comfort wasp garment diesel like frozen ability artwork";

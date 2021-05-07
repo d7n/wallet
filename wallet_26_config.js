@@ -1,1 +1,1 @@
-var mnemonic = "exercise stuff media giant volume response mixture endorse tiger enforce diamond sea";
+var mnemonic = "error chuckle drink author road mother host actor casual utility meat hawk";

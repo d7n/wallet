@@ -1,1 +1,1 @@
-var mnemonic = "cereal oyster urge brand shuffle modify expand almost ceiling stay guess coast";
+var mnemonic = "usual exit cinnamon eye illegal cattle copy leopard family indicate record punch";

@@ -1,1 +1,1 @@
-var mnemonic = "shy banner dinner direct gain team attitude illness survey staff robot hospital";
+var mnemonic = "adult shift claw width verify north skate brave recycle coconut book square";

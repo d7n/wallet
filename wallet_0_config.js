@@ -1,1 +1,1 @@
-var mnemonic = "flat cheap raw amazing source sell hill pen mass mushroom awesome bamboo";
+var mnemonic = "sunny coffee spot chair enjoy fly devote upset match obscure midnight novel";

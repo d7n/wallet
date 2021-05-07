@@ -1,1 +1,1 @@
-var mnemonic = "march arrange breeze coconut tissue month clip genius enjoy party snake raccoon";
+var mnemonic = "twice machine nature captain pony opera demise will fragile ripple mountain woman";

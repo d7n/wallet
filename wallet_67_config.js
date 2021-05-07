@@ -1,1 +1,1 @@
-var mnemonic = "cliff video spell swing teach elegant bike achieve area hour action usage";
+var mnemonic = "shine bunker improve april proof curious gaze smile crisp fashion high occur";

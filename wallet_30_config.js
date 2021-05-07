@@ -1,1 +1,1 @@
-var mnemonic = "oppose glide mom blind broom primary already cricket imitate elegant scheme coconut";
+var mnemonic = "basic essay worth amateur better stadium again ill awkward cigar great velvet";

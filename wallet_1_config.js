@@ -1,1 +1,1 @@
-var mnemonic = "between uphold puppy tenant pool domain uphold soldier educate galaxy secret venture";
+var mnemonic = "high silk quantum desert emerge minute fitness audit library unfair liquid entire";

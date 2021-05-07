@@ -1,1 +1,1 @@
-var mnemonic = "cupboard acquire proof guilt mix ginger snap bean advice tunnel oak moment";
+var mnemonic = "daring shrug claw unaware proof letter document churn senior misery diet ball";

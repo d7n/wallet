@@ -1,1 +1,1 @@
-var mnemonic = "betray uniform train festival vintage puzzle client define utility ancient income sad";
+var mnemonic = "corn someone dose moment use wine second open enough repeat purse shell";

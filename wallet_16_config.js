@@ -1,1 +1,1 @@
-var mnemonic = "enjoy garbage pink rude solid age pen jungle blouse grit crumble ten";
+var mnemonic = "tattoo plate effort planet you stereo nation agree random normal student retire";

@@ -1,1 +1,1 @@
-var mnemonic = "wish first edge plate frog magnet retreat caution shy spider engine vocal";
+var mnemonic = "measure shrimp inquiry renew month harsh laugh gold inner warfare exchange wing";

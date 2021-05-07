@@ -1,1 +1,1 @@
-var mnemonic = "else tongue inject brand clinic public forest dust tonight foster tower zebra";
+var mnemonic = "rude tuna angry blouse prison soap ozone wasp moment air holiday crime";

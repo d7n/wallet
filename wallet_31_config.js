@@ -1,1 +1,1 @@
-var mnemonic = "clutch lion blast face chest dilemma useless prevent onion term reduce level";
+var mnemonic = "donor minimum cup mind fade album inherit steel analyst call involve ball";

@@ -1,1 +1,1 @@
-var mnemonic = "moment able useless pyramid lake stage bachelor mask what empower bounce spoon";
+var mnemonic = "follow certain work already elbow treat business satisfy zoo tooth leg congress";

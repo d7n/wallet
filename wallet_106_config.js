@@ -1,1 +1,1 @@
-var mnemonic = "another reopen worth reason animal curve main disease ride remember fog idea";
+var mnemonic = "sorry phrase gossip royal cargo jacket green open trust tail gun beauty";

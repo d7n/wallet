@@ -1,1 +1,1 @@
-var mnemonic = "nose absent canyon chat zebra two inform ship stage second trial zone";
+var mnemonic = "tooth attack still cereal load bid unfold enlist flavor essence cliff clump";

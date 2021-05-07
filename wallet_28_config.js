@@ -1,1 +1,1 @@
-var mnemonic = "toddler lumber science thunder ticket lyrics point mix appear this isolate rather";
+var mnemonic = "series flee twice obey exile depth blur rubber garlic october detail evil";

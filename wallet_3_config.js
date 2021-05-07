@@ -1,1 +1,1 @@
-var mnemonic = "trial lawsuit genius process ancient scare brain dilemma attract size blossom plastic";
+var mnemonic = "fault inmate guard divide prize express call genuine cigar alcohol profit top";

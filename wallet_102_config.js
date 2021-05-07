@@ -1,1 +1,1 @@
-var mnemonic = "tenant exist alpha gesture inhale addict easily option where report essay garlic";
+var mnemonic = "soldier response test advance air exact ladder science light depth uniform earn";

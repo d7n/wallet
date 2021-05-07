@@ -1,1 +1,1 @@
-var mnemonic = "tone message income donkey lawn emotion fog inform seek couple question engage";
+var mnemonic = "weapon mistake cool affair rotate power comfort normal wolf total crystal atom";

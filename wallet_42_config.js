@@ -1,1 +1,1 @@
-var mnemonic = "park drift team novel learn view jump bridge matrix anger brand forest";
+var mnemonic = "indoor fit hole logic idea ability dune fox alcohol pudding federal erosion";

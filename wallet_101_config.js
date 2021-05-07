@@ -1,1 +1,1 @@
-var mnemonic = "portion click tattoo fossil birth mandate staff cruel regret boring lift ladder";
+var mnemonic = "seek neutral rather swallow lake impose debris caught sponsor long time gather";

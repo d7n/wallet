@@ -1,1 +1,1 @@
-var mnemonic = "noble leaf meadow drum hurt diagram pen oil fancy farm scan movie";
+var mnemonic = "arrow crisp leopard pink elevator morning over firm barely shift model evidence";

@@ -1,1 +1,1 @@
-var mnemonic = "type elevator will winner dice kangaroo total cheap piano frost pigeon motor";
+var mnemonic = "velvet project trick enlist tomorrow picnic spot hidden hat review dry drastic";

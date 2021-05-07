@@ -1,1 +1,1 @@
-var mnemonic = "error ship squeeze version pizza maid deposit seed accuse same choose lumber";
+var mnemonic = "net clip evoke garage lyrics edit zoo razor science focus cry radio";

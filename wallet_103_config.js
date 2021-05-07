@@ -1,1 +1,1 @@
-var mnemonic = "decrease dumb front cancel enforce velvet enhance north vital west grunt brass";
+var mnemonic = "victory float work mansion claim fiction kick garlic wash close execute devote";

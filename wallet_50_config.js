@@ -1,1 +1,1 @@
-var mnemonic = "castle news trophy access art orchard fame must subject search embrace deposit";
+var mnemonic = "decorate physical ritual country exotic concert buyer cigar hand asset decade amazing";

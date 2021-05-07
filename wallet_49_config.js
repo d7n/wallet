@@ -1,1 +1,1 @@
-var mnemonic = "escape trim exhibit work magic attract cargo funny salon attract ostrich regular";
+var mnemonic = "novel address jump custom section industry inherit easily begin animal bamboo main";

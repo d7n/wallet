@@ -1,1 +1,1 @@
-var mnemonic = "purchase popular wrestle bulk skill camera steak black upgrade length wear satoshi";
+var mnemonic = "soon wisdom topic month ticket domain topic random device lunch relief puzzle";

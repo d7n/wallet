@@ -1,1 +1,1 @@
-var mnemonic = "stand moment width grant rigid attract oven blade farm logic rabbit woman";
+var mnemonic = "belt jealous lift catch more city slice motor jaguar rich cluster seek";

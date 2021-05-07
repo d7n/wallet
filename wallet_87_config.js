@@ -1,1 +1,1 @@
-var mnemonic = "flash globe quote pave hat fee fix squeeze library sunny blame symbol";
+var mnemonic = "tray accuse regret slide sort thumb tool vocal issue funny disorder awkward";

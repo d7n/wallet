@@ -1,1 +1,1 @@
-var mnemonic = "inner maze subject wire steel provide human rubber theme coin clown echo";
+var mnemonic = "alpha parent shuffle glide choose cinnamon winner gun bright bamboo fish exclude";

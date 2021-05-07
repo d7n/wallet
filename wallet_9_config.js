@@ -1,1 +1,1 @@
-var mnemonic = "rice earn tide deputy left indoor trouble endless extend honey estate dad";
+var mnemonic = "man anchor verify alone clerk common feature elevator little cage huge task";

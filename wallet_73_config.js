@@ -1,1 +1,1 @@
-var mnemonic = "vendor earn help design plunge rabbit resemble print quantum armed regular large";
+var mnemonic = "visit okay pumpkin borrow turtle heart victory street derive orient crowd rapid";

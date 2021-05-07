@@ -1,1 +1,1 @@
-var mnemonic = "outside arch cage change nature thought earth weather mirror laundry seed stable";
+var mnemonic = "vacant smoke sick list melody slot onion broken habit garage nest elevator";

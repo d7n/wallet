@@ -1,1 +1,1 @@
-var mnemonic = "spare service hurt sudden onion genius stable dream begin spell man meat";
+var mnemonic = "miracle first physical electric coyote select lion spread inch tank fade guide";

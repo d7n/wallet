@@ -1,1 +1,1 @@
-var mnemonic = "basic perfect guilt eagle final bracket comic tail lend project insect crucial";
+var mnemonic = "husband glance destroy pelican crane economy supreme unusual hungry hybrid gorilla ball";
