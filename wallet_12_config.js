@@ -1,1 +1,1 @@
-var mnemonic = "there ivory shadow crucial essence clarify bright keep behind improve tumble keen";
+var mnemonic = "duty noise short enough volcano bleak hole cry normal creek lyrics long";

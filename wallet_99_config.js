@@ -1,1 +1,1 @@
-var mnemonic = "energy tent capable debate electric symbol play oven asset acquire rally rain";
+var mnemonic = "labor jungle sand bag tell sad fault relief teach toe seek gauge";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic habit sad parrot fancy name original twin matrix retire web emerge";
+var mnemonic = "duty evil accident taste wisdom bulk culture betray sick embark clown bomb";

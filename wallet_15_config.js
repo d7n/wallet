@@ -1,1 +1,1 @@
-var mnemonic = "order mule grace build act project patrol weather creek chat better mouse";
+var mnemonic = "rich that parrot mushroom breeze run benefit jacket north position display argue";

@@ -1,1 +1,1 @@
-var mnemonic = "plunge special glare mandate depth spatial include myself holiday demand apart there";
+var mnemonic = "crater cupboard swing bitter recipe hawk lumber soda trip acoustic muffin oven";

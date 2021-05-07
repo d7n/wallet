@@ -1,1 +1,1 @@
-var mnemonic = "day wrist hole beach tree able light goat chuckle already dolphin shine";
+var mnemonic = "impose urge real purity measure notice comic scorpion price fog destroy alley";

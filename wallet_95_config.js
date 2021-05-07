@@ -1,1 +1,1 @@
-var mnemonic = "manage pass struggle scene banana emerge idea youth spray dynamic pumpkin flag";
+var mnemonic = "elder load wall produce lend video gloom fiber unable tip segment help";

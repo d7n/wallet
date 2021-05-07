@@ -1,1 +1,1 @@
-var mnemonic = "stone boring raccoon pill chief mystery crystal twice skin melt memory camera";
+var mnemonic = "six enforce live jungle unfair flock leisure vote total garlic crater person";

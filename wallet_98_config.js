@@ -1,1 +1,1 @@
-var mnemonic = "social girl canoe develop common excuse napkin nice crawl rhythm kick wrong";
+var mnemonic = "venture battle index runway tone year supreme teach diet oppose seminar unhappy";

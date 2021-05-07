@@ -1,1 +1,1 @@
-var mnemonic = "diamond question click layer grocery sibling long eager hood dawn banner one";
+var mnemonic = "juice orient dignity foster punch water squeeze film organ raccoon culture flee";

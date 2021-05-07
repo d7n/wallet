@@ -1,1 +1,1 @@
-var mnemonic = "shine engage organ turkey exercise bonus tumble angle humor radar much plug";
+var mnemonic = "vague fantasy please industry stereo army night vivid monster glory tongue lamp";

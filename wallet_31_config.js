@@ -1,1 +1,1 @@
-var mnemonic = "actress orchard hockey guilt final gentle glow gather until inner sun body";
+var mnemonic = "gate endless this friend tobacco soda gallery lounge strike sweet exile once";

@@ -1,1 +1,1 @@
-var mnemonic = "extra device nothing tooth purchase detect video eternal banner one level aim";
+var mnemonic = "canvas deposit juice soda pupil apart curve lizard middle federal nerve ripple";

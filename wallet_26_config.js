@@ -1,1 +1,1 @@
-var mnemonic = "mention maple math frog unfold genius pistol indoor parade roof bonus predict";
+var mnemonic = "era impose expire camp baby palm velvet concert fatigue rail you senior";

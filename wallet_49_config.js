@@ -1,1 +1,1 @@
-var mnemonic = "toast pole gossip title throw dose release liar divorce hockey goose juice";
+var mnemonic = "total chronic large job cloud fox enjoy engage warrior until turtle fortune";

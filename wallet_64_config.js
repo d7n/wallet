@@ -1,1 +1,1 @@
-var mnemonic = "firm muscle panda test ice autumn visa radar lawsuit heart since since";
+var mnemonic = "usual above easily kit nothing tip birth pipe illegal kiwi popular vehicle";

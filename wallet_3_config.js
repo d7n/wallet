@@ -1,1 +1,1 @@
-var mnemonic = "also ball tray rival rather renew correct again mind grief slice glance";
+var mnemonic = "seat tilt gasp network bronze account sister spike blade magic apple reopen";

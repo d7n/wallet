@@ -1,1 +1,1 @@
-var mnemonic = "general pause orphan buddy guess apple shuffle elbow wear audit horn grit";
+var mnemonic = "atom solve empty silk board decorate sustain snack pluck nest consider iron";

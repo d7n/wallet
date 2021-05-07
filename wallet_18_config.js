@@ -1,1 +1,1 @@
-var mnemonic = "leave mule clinic coin burger nephew true drive casual peace file weird";
+var mnemonic = "annual once middle habit police name hurt word laugh brief sorry clap";

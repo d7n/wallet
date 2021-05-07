@@ -1,1 +1,1 @@
-var mnemonic = "corn secret neutral pistol ancient offer describe make sword always diary tree";
+var mnemonic = "faculty orange essence session network pudding first armed sell across crush amused";

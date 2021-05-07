@@ -1,1 +1,1 @@
-var mnemonic = "able cup maximum mean visual canyon neutral diesel series tenant skin again";
+var mnemonic = "pony opera action spatial rocket legend hollow tiger glass kiss blast flight";

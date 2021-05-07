@@ -1,1 +1,1 @@
-var mnemonic = "vessel fan universe thrive absorb modify average shoulder frog park such before";
+var mnemonic = "lucky guard cigar bar resource scorpion steel arctic tool dirt mean orange";

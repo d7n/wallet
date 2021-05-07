@@ -1,1 +1,1 @@
-var mnemonic = "situate yard canoe vivid assume abandon desk square cabin exist spring lion";
+var mnemonic = "enrich receive upon delay taste confirm strong mimic comfort captain patient core";

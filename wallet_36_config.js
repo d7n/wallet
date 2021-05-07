@@ -1,1 +1,1 @@
-var mnemonic = "senior portion laundry shrug warfare rack question foot hurdle valid outer across";
+var mnemonic = "space bottom level way eagle armor pepper dove limit pause salmon emotion";

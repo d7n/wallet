@@ -1,1 +1,1 @@
-var mnemonic = "bachelor fun light trigger oil approve sail network liquid hip crawl among";
+var mnemonic = "disorder bless stuff famous baby sweet hobby feed stereo distance want display";

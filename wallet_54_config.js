@@ -1,1 +1,1 @@
-var mnemonic = "useless sniff deal rich prepare moment urban pyramid wide wolf turtle village";
+var mnemonic = "sand subway build security apart noble south seat sphere shoulder sunny junior";

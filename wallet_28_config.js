@@ -1,1 +1,1 @@
-var mnemonic = "tone vague addict behind pupil siege ignore glass wide voice tip donor";
+var mnemonic = "uphold bus wheat position elder tomato insect pencil permit rocket spice novel";

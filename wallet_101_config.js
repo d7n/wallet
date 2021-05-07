@@ -1,1 +1,1 @@
-var mnemonic = "era stuff roast train manual obey tobacco scale describe someone cabbage assault";
+var mnemonic = "govern almost olive brave hospital scissors write diagram warfare vintage alarm adult";

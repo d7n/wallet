@@ -1,1 +1,1 @@
-var mnemonic = "bonus replace check fury camera will plunge false velvet twin popular success";
+var mnemonic = "attract genius recall lift mystery smile shrug inherit benefit hand render depend";

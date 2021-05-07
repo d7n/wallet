@@ -1,1 +1,1 @@
-var mnemonic = "health attract enroll unfold skill edge choice sauce toy method rival monkey";
+var mnemonic = "caught raw length lab nose fatal skull citizen motion two chronic limb";

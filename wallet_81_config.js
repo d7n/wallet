@@ -1,1 +1,1 @@
-var mnemonic = "pudding lounge bridge apart dress link ceiling wheat field dignity sugar shove";
+var mnemonic = "ladder usual jewel salmon sibling glide village paddle shoot penalty second gown";

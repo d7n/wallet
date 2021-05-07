@@ -1,1 +1,1 @@
-var mnemonic = "excess comfort under cigar maximum hold income tide wood trick sunset vacant";
+var mnemonic = "book enact vote fun submit prepare clog mind gospel valley artefact replace";

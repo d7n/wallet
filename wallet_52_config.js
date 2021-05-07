@@ -1,1 +1,1 @@
-var mnemonic = "summer flush social west sight crazy endorse brush black tent field clip";
+var mnemonic = "final pig adapt around ceiling object solar race riot face theme tower";

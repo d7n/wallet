@@ -1,1 +1,1 @@
-var mnemonic = "age immense ticket situate wonder pelican arch squeeze song foster pink rare";
+var mnemonic = "minor biology citizen ocean wreck sample bread vendor bread coin page first";

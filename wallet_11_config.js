@@ -1,1 +1,1 @@
-var mnemonic = "gas nerve face meat dry economy drama grit gorilla differ foster proof";
+var mnemonic = "sea want sadness oblige obvious hold rule room catch rifle entry ritual";

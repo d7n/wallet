@@ -1,1 +1,1 @@
-var mnemonic = "senior luggage protect there mention cradle draw crop trust early inner obtain";
+var mnemonic = "comic lawn number essay spoon hello error bid state airport blind excite";

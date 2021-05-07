@@ -1,1 +1,1 @@
-var mnemonic = "exist bacon visa plug much cry dad jaguar cannon income rice card";
+var mnemonic = "rookie enrich field apart cover grace repair roof volcano museum increase small";

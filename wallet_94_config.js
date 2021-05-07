@@ -1,1 +1,1 @@
-var mnemonic = "panel mixture neither deal brick crucial oyster blush elite bid film garden";
+var mnemonic = "bridge promote pepper spirit nuclear dinner rail viable black mass feature couple";

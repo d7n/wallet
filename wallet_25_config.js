@@ -1,1 +1,1 @@
-var mnemonic = "object attend conduct volume later carry gentle bag lamp track dizzy bike";
+var mnemonic = "spirit dutch matrix market couch pause heart lizard certain rescue pipe rigid";

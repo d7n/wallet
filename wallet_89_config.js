@@ -1,1 +1,1 @@
-var mnemonic = "denial letter anchor cloud vicious volcano attack ship execute tube settle middle";
+var mnemonic = "forum lumber hero embody hundred movie off little drift civil embrace antique";

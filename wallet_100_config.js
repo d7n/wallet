@@ -1,1 +1,1 @@
-var mnemonic = "message cabin swing million guitar end pumpkin axis right ride blind domain";
+var mnemonic = "voice drift annual almost drama cheap city apology talent dawn isolate glass";

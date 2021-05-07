@@ -1,1 +1,1 @@
-var mnemonic = "duty also spoil pottery loop slow illegal one furnace sample lounge supply";
+var mnemonic = "joke figure vendor alien voice limb wisdom rib brand pyramid push cruise";

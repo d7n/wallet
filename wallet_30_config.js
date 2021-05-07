@@ -1,1 +1,1 @@
-var mnemonic = "brown another umbrella extend script common chaos rough uphold buddy robot gold";
+var mnemonic = "biology you unfold riot cycle cigar joke mansion mix shift call offer";

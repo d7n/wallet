@@ -1,1 +1,1 @@
-var mnemonic = "vault rail open eight one layer walk attitude scale knee inhale wing";
+var mnemonic = "good flee follow pipe problem expire stock minute wash void beyond weasel";

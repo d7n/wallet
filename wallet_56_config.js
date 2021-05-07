@@ -1,1 +1,1 @@
-var mnemonic = "piano fix pond become clay enter behave glide describe parade apple tobacco";
+var mnemonic = "cheese spare impose riot dove pluck winner oblige hurdle enlist dignity slight";

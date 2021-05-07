@@ -1,1 +1,1 @@
-var mnemonic = "social climb cube enforce invite put analyst pepper adapt endorse inform cute";
+var mnemonic = "approve only fiction unable budget add today elephant inquiry perfect twice embrace";

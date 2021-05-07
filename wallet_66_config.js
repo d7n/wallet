@@ -1,1 +1,1 @@
-var mnemonic = "whip require item flight move wide aim search network century render abstract";
+var mnemonic = "genuine unfair fruit ketchup envelope assume service spoon abandon diagram suspect agree";

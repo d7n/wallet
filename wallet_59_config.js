@@ -1,1 +1,1 @@
-var mnemonic = "produce season once lyrics torch install soldier decade forest year once news";
+var mnemonic = "demand solid again blanket canoe divide step hollow occur peace torch address";

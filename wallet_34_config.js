@@ -1,1 +1,1 @@
-var mnemonic = "next vast pet inherit muscle kind liberty test opera poet polar cable";
+var mnemonic = "pride various popular walk rib forget earn valve ordinary ritual dizzy repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "stock ranch mosquito champion april trend crowd current entire dish someone pony";
+var mnemonic = "turkey little easily appear purse shadow symbol stay bus cake relax tilt";

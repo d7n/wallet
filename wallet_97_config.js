@@ -1,1 +1,1 @@
-var mnemonic = "poverty illness cook hollow major stomach coach crush amused private lecture engage";
+var mnemonic = "size word gloom hope claim cricket orchard crop pigeon field obscure face";

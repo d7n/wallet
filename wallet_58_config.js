@@ -1,1 +1,1 @@
-var mnemonic = "electric general elbow bean avocado load crawl unique journey legend health track";
+var mnemonic = "heart envelope nothing divide hidden brief innocent quote obscure athlete grow shuffle";

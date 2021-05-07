@@ -1,1 +1,1 @@
-var mnemonic = "vibrant chef narrow olive once glow skill actress produce card brave wheel";
+var mnemonic = "breeze method abuse together mistake join harsh film forward danger demand rocket";

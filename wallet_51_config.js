@@ -1,1 +1,1 @@
-var mnemonic = "cabin regret vocal ugly brave group hope lobster silver wink harbor mouse";
+var mnemonic = "gospel thought cover version never tunnel ask vivid season believe output fun";

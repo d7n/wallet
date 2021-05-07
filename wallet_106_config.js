@@ -1,1 +1,1 @@
-var mnemonic = "clean satisfy foot drum uncover photo farm filter cargo hawk print drift";
+var mnemonic = "special brown proof easy genuine minimum rapid jelly private grant practice stadium";

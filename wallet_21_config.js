@@ -1,1 +1,1 @@
-var mnemonic = "swap benefit thunder scare scene keen miracle retreat idle evoke upset limit";
+var mnemonic = "impose whale pistol hard wagon car source energy high increase simple fence";

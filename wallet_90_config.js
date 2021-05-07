@@ -1,1 +1,1 @@
-var mnemonic = "firm outside spend horse theme mule seminar slogan gasp slice abuse parade";
+var mnemonic = "sting explain unlock coast furnace canal miss rich pulse now salad bridge";

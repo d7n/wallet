@@ -1,1 +1,1 @@
-var mnemonic = "pelican rocket devote pill fade speed subject vital occur number crush casino";
+var mnemonic = "argue smoke pony spike okay danger elite range route frame behave used";

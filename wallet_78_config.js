@@ -1,1 +1,1 @@
-var mnemonic = "unlock sweet eye situate member private shoe thrive one cereal special dirt";
+var mnemonic = "cream sorry clutch field portion nut kangaroo little paddle orient reopen security";

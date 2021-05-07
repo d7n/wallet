@@ -1,1 +1,1 @@
-var mnemonic = "obey hand lonely sand floor divert arrive chef baby glimpse obvious globe";
+var mnemonic = "nut teach keep garage cloth inhale sad teach burger festival lyrics often";

@@ -1,1 +1,1 @@
-var mnemonic = "trash income mutual void math deposit chase police roast between bunker deputy";
+var mnemonic = "flavor spawn moral loop crowd build gas float awesome walk bronze either";

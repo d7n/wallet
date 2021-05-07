@@ -1,1 +1,1 @@
-var mnemonic = "remind mouse roast lizard nut soul item arctic what estate duck romance";
+var mnemonic = "various relax quit time benefit risk model anger erosion resource cereal dance";

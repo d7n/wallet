@@ -1,1 +1,1 @@
-var mnemonic = "welcome retire tongue bench result build satoshi pause argue milk album drip";
+var mnemonic = "hawk bulk mix forward body hawk evoke similar chase chest search primary";

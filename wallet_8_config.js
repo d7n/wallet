@@ -1,1 +1,1 @@
-var mnemonic = "pepper scale okay hurry adult sauce little bus wealth push leg month";
+var mnemonic = "oil glad tiger found develop danger grab doctor ill because rough they";

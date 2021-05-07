@@ -1,1 +1,1 @@
-var mnemonic = "account certain chest wasp quiz rotate urban amateur reduce fiction about industry";
+var mnemonic = "detail pole antique before scout school muffin relief follow reunion lamp spy";

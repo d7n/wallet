@@ -1,1 +1,1 @@
-var mnemonic = "goat long tongue identify lecture wrap theory dynamic party donor citizen road";
+var mnemonic = "gorilla develop space slab fruit mom budget ordinary slice stumble wheat note";

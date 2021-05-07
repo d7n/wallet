@@ -1,1 +1,1 @@
-var mnemonic = "video slide praise choice elegant badge squirrel absurd add orange parrot spread";
+var mnemonic = "trigger work brick what laugh coil rich palm hybrid foam kiss alarm";

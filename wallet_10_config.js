@@ -1,1 +1,1 @@
-var mnemonic = "almost time whale venue deal also jaguar craft whisper brave tag muffin";
+var mnemonic = "soon faculty announce once antenna spy vivid twenty zone candy inch lion";

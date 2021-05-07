@@ -1,1 +1,1 @@
-var mnemonic = "cat unveil inside aunt spray remain click theory rain three season borrow";
+var mnemonic = "visual limit version recall infant wide cross initial sell kitten celery undo";

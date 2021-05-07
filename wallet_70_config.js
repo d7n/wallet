@@ -1,1 +1,1 @@
-var mnemonic = "liquid rotate rather offer response desert blossom ivory fine radar detail profit";
+var mnemonic = "fork insect letter debate glimpse year spider rate crush harvest cash range";

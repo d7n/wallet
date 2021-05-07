@@ -1,1 +1,1 @@
-var mnemonic = "near sniff glow mind fruit empty casino near cactus skirt waste tornado";
+var mnemonic = "knock truth opera barely mother uphold velvet runway dawn lyrics climb antenna";

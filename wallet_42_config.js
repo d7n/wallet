@@ -1,1 +1,1 @@
-var mnemonic = "decade act since disagree taste picture casual perfect develop wrap tunnel around";
+var mnemonic = "infant curve breeze lens sauce alarm december nut trip pass unhappy submit";

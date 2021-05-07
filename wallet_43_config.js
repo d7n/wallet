@@ -1,1 +1,1 @@
-var mnemonic = "action reform strategy antenna tomorrow only narrow return observe apology huge warrior";
+var mnemonic = "nothing sketch knife buddy brush group impulse rocket inform junk civil enroll";

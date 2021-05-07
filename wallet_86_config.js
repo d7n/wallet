@@ -1,1 +1,1 @@
-var mnemonic = "menu sunny chuckle device decade nothing orchard earn nature noodle axis cargo";
+var mnemonic = "asthma strategy luggage judge athlete struggle obvious march relax license ankle twin";

@@ -1,1 +1,1 @@
-var mnemonic = "brief october caught adapt shove speed mother kite frog surface throw exclude";
+var mnemonic = "tide way indicate quantum muffin demise true vicious chapter coconut city heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle marine thunder penalty manage very hen reason error change electric fame";
+var mnemonic = "humble labor buddy boat intact glove impulse jealous scatter gauge cereal powder";

@@ -1,1 +1,1 @@
-var mnemonic = "depend tuna release chuckle wage erase canvas wool armor pipe despair raw";
+var mnemonic = "demise cloud actor path guard ridge brush capital vanish robot dice can";

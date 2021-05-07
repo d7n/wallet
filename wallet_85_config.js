@@ -1,1 +1,1 @@
-var mnemonic = "gossip slush avocado found verb measure tackle floor margin brain shine ceiling";
+var mnemonic = "genre pizza basket lens current wish filter pact prison hybrid secret leopard";

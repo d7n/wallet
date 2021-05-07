@@ -1,1 +1,1 @@
-var mnemonic = "april rose sorry wealth kingdom bubble throw sea apology gate warrior pepper";
+var mnemonic = "will brand deputy town desk impulse antenna exact error sleep section wet";

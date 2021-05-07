@@ -1,1 +1,1 @@
-var mnemonic = "slight scorpion hockey still need reason enhance debate toilet castle apart moment";
+var mnemonic = "network meadow unique fine silly track skill achieve swamp turn flock whisper";

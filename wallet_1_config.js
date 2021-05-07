@@ -1,1 +1,1 @@
-var mnemonic = "come fiscal banner someone image mechanic empty health strong reopen siege choose";
+var mnemonic = "plastic coyote remember verify suspect text latin vacuum spawn report polar dance";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff salmon cabin sing antenna worry own recall scorpion add large source";
+var mnemonic = "dentist minute art boat buddy nature deposit write insect bulb release coyote";

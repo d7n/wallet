@@ -1,1 +1,1 @@
-var mnemonic = "kid lift model paper cushion banner mosquito drink panda net useful high";
+var mnemonic = "race cattle record empower friend poem have dish dad vast shift cruise";

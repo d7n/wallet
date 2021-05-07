@@ -1,1 +1,1 @@
-var mnemonic = "siege often alpha zebra snack term manual sphere degree shock odor bicycle";
+var mnemonic = "goose clip abandon pass math own blur flash eyebrow tourist answer unit";

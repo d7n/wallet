@@ -1,1 +1,1 @@
-var mnemonic = "daughter evil message enroll owner asset carbon visual matter purchase robot question";
+var mnemonic = "blouse leave broken body purity monitor talk frame lecture glimpse rack shoot";

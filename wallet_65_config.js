@@ -1,1 +1,1 @@
-var mnemonic = "ordinary pistol song weasel today human output split figure uphold sphere split";
+var mnemonic = "phone brown innocent hen office total security toss gym exchange height stock";

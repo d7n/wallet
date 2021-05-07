@@ -1,1 +1,1 @@
-var mnemonic = "someone excuse shift clarify minimum goose olive mobile object hold trade umbrella";
+var mnemonic = "harsh magnet better tape globe scissors impose faculty reopen absorb maximum stick";

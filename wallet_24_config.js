@@ -1,1 +1,1 @@
-var mnemonic = "trigger ordinary estate video behind moral month pizza champion tube whip garden";
+var mnemonic = "siren pink art travel mushroom release radio spice appear nephew door ripple";

@@ -1,1 +1,1 @@
-var mnemonic = "family dune what bone cross shrug series promote soon permit betray orphan";
+var mnemonic = "fiber truck axis below evil scheme dizzy team sun onion few dilemma";

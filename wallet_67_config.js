@@ -1,1 +1,1 @@
-var mnemonic = "mistake barrel volcano they stable endless walk vague ensure jungle crucial coin";
+var mnemonic = "home pet know chapter loan boy fiscal exhibit flip color tissue this";

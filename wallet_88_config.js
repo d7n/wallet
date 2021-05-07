@@ -1,1 +1,1 @@
-var mnemonic = "vital remember pave debris fork response cram warfare slab feel grow misery";
+var mnemonic = "day brief trap employ ritual razor sugar mountain ozone young artwork small";
