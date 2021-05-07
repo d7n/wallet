@@ -1,1 +1,1 @@
-var mnemonic = "very ticket guess ethics garment attack shadow upon hunt owner flower dilemma";
+var mnemonic = "mixture system leave punch salmon few organ flee debate long bottom absurd";

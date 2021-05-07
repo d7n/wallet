@@ -1,1 +1,1 @@
-var mnemonic = "produce consider asset surface evolve spirit mind accident panic six sun violin";
+var mnemonic = "session essence doll lake private humble fat erase disagree raise ring abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "undo absorb inform excuse dutch define decide lunch rich elevator pulse gather";
+var mnemonic = "doctor east version curtain fan claw spatial tag column hat festival arctic";

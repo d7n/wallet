@@ -1,1 +1,1 @@
-var mnemonic = "sketch mercy surface before mean print foam arena space neck pudding mule";
+var mnemonic = "satoshi put fabric letter already east clap hero excess foam stove garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "diagram suit traffic west super agent whip pair sad matrix label place";
+var mnemonic = "stock remove pistol forest much clerk police sugar brother dinner shop interest";

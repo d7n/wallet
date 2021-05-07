@@ -1,1 +1,1 @@
-var mnemonic = "cheap walk call crush exhaust cluster beach napkin hockey certain cloud can";
+var mnemonic = "raise way drift crush bring ski dawn permit act air there sniff";

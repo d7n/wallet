@@ -1,1 +1,1 @@
-var mnemonic = "tip tail bachelor crush supreme snack crack stomach ski vintage inspire another";
+var mnemonic = "sell crane electric throw earn suspect duck speak tiny club evidence lonely";

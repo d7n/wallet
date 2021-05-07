@@ -1,1 +1,1 @@
-var mnemonic = "alien bird scout under monitor bicycle chase clump flee theory exist ready";
+var mnemonic = "paddle milk float exchange clock bulk dismiss uphold aerobic once people coconut";

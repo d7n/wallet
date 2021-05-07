@@ -1,1 +1,1 @@
-var mnemonic = "eagle release glue card body cruise share sting hair burger whisper arrange";
+var mnemonic = "grid universe fossil faint umbrella balcony stage liberty narrow virtual suspect help";

@@ -1,1 +1,1 @@
-var mnemonic = "gym skate little slender kite online glide reason decorate danger cloth flash";
+var mnemonic = "alert liar march head consider cloud wire antenna buddy uphold debris skate";

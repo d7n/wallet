@@ -1,1 +1,1 @@
-var mnemonic = "that arrive doctor obscure unknown deny know creek depth improve atom gloom";
+var mnemonic = "pact advice citizen benefit symptom course satisfy stomach return quiz welcome method";

@@ -1,1 +1,1 @@
-var mnemonic = "combine success lunch whale side wing practice guess snow tank trap entry";
+var mnemonic = "despair guide inject click wedding reveal extra okay nest wisdom alcohol front";

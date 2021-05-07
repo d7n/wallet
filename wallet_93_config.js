@@ -1,1 +1,1 @@
-var mnemonic = "use judge myth artist deal luggage lunar outer kidney enroll moment eyebrow";
+var mnemonic = "knock affair moment gentle course reason trap young jar weather acoustic rib";

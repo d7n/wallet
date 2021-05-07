@@ -1,1 +1,1 @@
-var mnemonic = "chief type define shrimp coyote master include script eye spike risk cluster";
+var mnemonic = "lounge mechanic phrase garage critic pepper color youth street drive head wedding";

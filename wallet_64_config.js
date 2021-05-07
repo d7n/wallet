@@ -1,1 +1,1 @@
-var mnemonic = "retire inherit flee impact twelve curve setup country sense scout scissors spray";
+var mnemonic = "solid wedding leg soul unaware hood mimic sort undo avoid dove van";

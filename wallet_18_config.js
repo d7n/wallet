@@ -1,1 +1,1 @@
-var mnemonic = "error craft imitate census flight road caught alien casual shop bicycle version";
+var mnemonic = "random sniff maximum level pudding zone nothing speed dad fold coconut arm";

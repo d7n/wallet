@@ -1,1 +1,1 @@
-var mnemonic = "member deputy memory feel drama before input arm master truth ancient renew";
+var mnemonic = "angle useless gallery orient found dove success carbon winner tortoise lecture recycle";

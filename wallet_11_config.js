@@ -1,1 +1,1 @@
-var mnemonic = "topple metal cup ship enact spirit trust father quarter basket melody mean";
+var mnemonic = "assault club best upon pair car endless quote turtle hair crack raw";

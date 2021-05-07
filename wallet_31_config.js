@@ -1,1 +1,1 @@
-var mnemonic = "boring shift about nurse stick truth raven rural stick sure perfect nuclear";
+var mnemonic = "veteran quarter perfect antique dance equal nature caution favorite obvious album gospel";

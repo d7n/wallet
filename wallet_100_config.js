@@ -1,1 +1,1 @@
-var mnemonic = "easily gloom thing skin federal angle super balance champion bench rent luggage";
+var mnemonic = "endless expect cereal emerge list habit target weapon similar fine walnut pioneer";

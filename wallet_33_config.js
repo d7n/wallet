@@ -1,1 +1,1 @@
-var mnemonic = "cherry speak behind pretty fly width swim rate jungle right onion luggage";
+var mnemonic = "rookie fitness slim concert quote bright sheriff decide piano dumb exhaust once";

@@ -1,1 +1,1 @@
-var mnemonic = "pool isolate perfect habit agree flavor tattoo pudding flag actual ball sort";
+var mnemonic = "paper hunt aim curve aunt afraid problem pass wolf index horror trophy";

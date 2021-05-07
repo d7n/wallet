@@ -1,1 +1,1 @@
-var mnemonic = "dry river family world reason loan you large tiger energy crumble display";
+var mnemonic = "cargo episode bargain rather boil process clinic salon mind laundry outer across";

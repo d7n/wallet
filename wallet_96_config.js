@@ -1,1 +1,1 @@
-var mnemonic = "vibrant knife innocent enroll keen until mask tree neck link joke weapon";
+var mnemonic = "flat buzz island license antique access club typical basket camp abandon flight";

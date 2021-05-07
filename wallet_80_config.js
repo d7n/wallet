@@ -1,1 +1,1 @@
-var mnemonic = "hidden chuckle world theory staff wild margin solid eyebrow quick select axis";
+var mnemonic = "sand fresh sketch resist frog orchard above globe cream exotic nurse script";

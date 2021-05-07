@@ -1,1 +1,1 @@
-var mnemonic = "agree funny group tool tired awake lunch smart argue never stove gun";
+var mnemonic = "equal wisdom isolate trash hero face dinosaur salute home grant recall leg";

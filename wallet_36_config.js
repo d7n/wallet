@@ -1,1 +1,1 @@
-var mnemonic = "similar service sugar room bundle near young coil novel check pumpkin inch";
+var mnemonic = "brand grief vessel tragic senior case share because two view focus naive";

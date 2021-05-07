@@ -1,1 +1,1 @@
-var mnemonic = "design join quiz olympic gallery into ecology depart library luggage duck scan";
+var mnemonic = "indicate excite yellow hurt recall stem salon bridge together beyond student radio";

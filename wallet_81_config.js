@@ -1,1 +1,1 @@
-var mnemonic = "shoulder garment vanish mouse actress plastic wave recipe method basic unknown moon";
+var mnemonic = "own void crumble grid level harbor cereal rescue tuna spider invest whisper";

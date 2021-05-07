@@ -1,1 +1,1 @@
-var mnemonic = "envelope screen bean peace risk include more parrot gym check fork piece";
+var mnemonic = "chair fat deliver sleep warrior online electric noise bitter infant trim hazard";

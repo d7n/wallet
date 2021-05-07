@@ -1,1 +1,1 @@
-var mnemonic = "bargain viable tourist galaxy alpha source crumble cherry first rebuild result index";
+var mnemonic = "hood before organ thank soap secret move above core bulk lava trick";

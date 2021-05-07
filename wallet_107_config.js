@@ -1,1 +1,1 @@
-var mnemonic = "bread light loyal mail snap dignity abuse essence crater pluck fitness bean";
+var mnemonic = "chimney spoil decorate twin utility announce ordinary wood illegal picture birth venue";

@@ -1,1 +1,1 @@
-var mnemonic = "motor curtain divide seed metal day drama wrestle entry fuel fresh evolve";
+var mnemonic = "forum task ecology humble unfair maple come original artefact satisfy town chat";

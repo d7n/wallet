@@ -1,1 +1,1 @@
-var mnemonic = "various decorate nominee radar hundred praise inch layer toast emerge under reject";
+var mnemonic = "shiver ocean skull occur music leave coast alter bracket net impulse solid";

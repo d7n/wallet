@@ -1,1 +1,1 @@
-var mnemonic = "accident say denial exercise lock evidence payment atom boring creek actress scrub";
+var mnemonic = "avocado crash skin saddle same situate coil inject zebra buyer desk luggage";

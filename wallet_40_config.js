@@ -1,1 +1,1 @@
-var mnemonic = "rail cement celery debate spirit route elbow display menu sing joy delay";
+var mnemonic = "woman multiply cycle chase manage arena boat dilemma maximum profit foster team";

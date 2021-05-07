@@ -1,1 +1,1 @@
-var mnemonic = "asset december bless grief mistake gate fiction coach process crazy finger inject";
+var mnemonic = "unable city defy riot wrap payment giggle awful glass horror pave idle";

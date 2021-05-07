@@ -1,1 +1,1 @@
-var mnemonic = "tomato plug brand one promote custom share legend bonus deal explain day";
+var mnemonic = "shift bargain melody suffer stomach digital already crazy home sport primary agent";

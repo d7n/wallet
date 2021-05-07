@@ -1,1 +1,1 @@
-var mnemonic = "almost fly fetch hawk hold nothing tobacco trap crew beyond company fee";
+var mnemonic = "day crystal december nothing exclude capital syrup employ february abuse verb copy";

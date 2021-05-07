@@ -1,1 +1,1 @@
-var mnemonic = "demand main success convince custom junk purity royal fancy radio cup shed";
+var mnemonic = "scout enforce banana alley energy rescue you deposit away drastic quote call";

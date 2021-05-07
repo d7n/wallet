@@ -1,1 +1,1 @@
-var mnemonic = "flight broccoli fog file dish unable ocean retire silent nice steak crystal";
+var mnemonic = "inflict cover praise abandon surface siege sheriff anchor trust mystery street same";

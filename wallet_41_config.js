@@ -1,1 +1,1 @@
-var mnemonic = "hybrid way jump soon gesture crack business laundry rebel afford athlete scheme";
+var mnemonic = "cigar exact twelve blame volume first raccoon kind glance teach practice defy";

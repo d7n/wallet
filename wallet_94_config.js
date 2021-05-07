@@ -1,1 +1,1 @@
-var mnemonic = "churn crime group lawsuit fruit pioneer helmet loop weapon equip extra label";
+var mnemonic = "hidden rebuild cannon tennis zoo harsh flower practice stable blouse cushion mixed";

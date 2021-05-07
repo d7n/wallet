@@ -1,1 +1,1 @@
-var mnemonic = "apart elder century little main secret grit supply brand dream master bread";
+var mnemonic = "begin climb base bronze medal swap found bind vapor mandate color cereal";

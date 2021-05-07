@@ -1,1 +1,1 @@
-var mnemonic = "dust vibrant network kitchen sign frown boost caught prosper enemy involve arrow";
+var mnemonic = "truly chat clinic spike neglect slender pill crowd fruit skin access decade";

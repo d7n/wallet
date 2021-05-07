@@ -1,1 +1,1 @@
-var mnemonic = "divorce token visa ring then divorce critic speak present minute tide pet";
+var mnemonic = "scorpion couple correct vendor because pause gold decade swarm exact glide lab";

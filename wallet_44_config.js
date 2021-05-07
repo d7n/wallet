@@ -1,1 +1,1 @@
-var mnemonic = "butter basket frozen salute dizzy census dash mule add effort charge income";
+var mnemonic = "day pledge message minor ritual magnet coral power fit struggle asthma income";

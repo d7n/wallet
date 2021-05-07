@@ -1,1 +1,1 @@
-var mnemonic = "document acoustic wear speak either attack pony tribe welcome magnet add tongue";
+var mnemonic = "apple moon prevent melt minimum voice trash skin shrug rice arctic frown";

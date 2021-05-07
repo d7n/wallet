@@ -1,1 +1,1 @@
-var mnemonic = "senior giant dash bulb reform scout kind outer skill modify timber rain";
+var mnemonic = "amazing ecology copper priority kid wet forward tissue reveal pill rail chicken";

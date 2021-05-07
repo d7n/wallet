@@ -1,1 +1,1 @@
-var mnemonic = "frame moment tattoo remain crunch zero dilemma west lunch guilt seminar tray";
+var mnemonic = "already refuse scorpion include private axis bachelor van dove matrix hip enforce";

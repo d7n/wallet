@@ -1,1 +1,1 @@
-var mnemonic = "razor also puzzle crunch sample scrub thrive elder hold alpha resource expand";
+var mnemonic = "smoke sample just repeat eight throw volcano give festival field alone blood";

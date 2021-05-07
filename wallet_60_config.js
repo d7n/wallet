@@ -1,1 +1,1 @@
-var mnemonic = "cousin sniff upgrade legal master diesel polar nation hurt length blush series";
+var mnemonic = "runway task comfort order again portion misery employ police add detect enforce";

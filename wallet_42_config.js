@@ -1,1 +1,1 @@
-var mnemonic = "country jelly arctic wise edit sport bless guess lion useful select nice";
+var mnemonic = "car bag mail market primary scissors mountain virtual universe cry bachelor route";

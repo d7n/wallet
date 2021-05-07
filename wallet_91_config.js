@@ -1,1 +1,1 @@
-var mnemonic = "detail annual drama debris island until sauce parade nut apology power two";
+var mnemonic = "duck caught cash match laundry erase seminar rookie sadness bid faculty grace";

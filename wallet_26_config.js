@@ -1,1 +1,1 @@
-var mnemonic = "nest basket alter plug desert suffer idle size lazy kiwi local call";
+var mnemonic = "wall flash cactus wall hazard furnace brisk become dance pull paper absorb";

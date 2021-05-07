@@ -1,1 +1,1 @@
-var mnemonic = "garden silent elbow second position mandate hedgehog patient tent brave enact enough";
+var mnemonic = "whale trash enough observe fresh tortoise spell square spice measure ivory hungry";

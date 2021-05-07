@@ -1,1 +1,1 @@
-var mnemonic = "inherit foster tooth theory plate wire charge cotton network annual inquiry husband";
+var mnemonic = "material basic change success name cycle hello shy daring sea boat general";

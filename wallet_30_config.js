@@ -1,1 +1,1 @@
-var mnemonic = "fiction spring lobster mouse mistake van assault system shoe skate length ready";
+var mnemonic = "column plate mosquito vacuum dignity pulp clinic hotel february truth can minor";

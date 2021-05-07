@@ -1,1 +1,1 @@
-var mnemonic = "desert cruel spot idea satoshi pluck flavor please marriage win eye brush";
+var mnemonic = "grow rug great treat blush resemble lens famous hold hover fortune awful";

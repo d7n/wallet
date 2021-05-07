@@ -1,1 +1,1 @@
-var mnemonic = "employ scrub share frost grace bicycle thunder differ walk praise hat train";
+var mnemonic = "phrase purpose nature extra bone practice common mother success morning toilet toilet";

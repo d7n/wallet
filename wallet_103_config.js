@@ -1,1 +1,1 @@
-var mnemonic = "crawl smooth punch smile napkin pink mass scheme output story raven gate";
+var mnemonic = "hat rebel lemon honey provide dust marble arrest document nasty clip room";

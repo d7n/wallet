@@ -1,1 +1,1 @@
-var mnemonic = "large exit math domain skull know silent hockey zebra lift say illness";
+var mnemonic = "snack fault zero roast chimney smile bid cage endorse allow pink umbrella";

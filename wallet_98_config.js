@@ -1,1 +1,1 @@
-var mnemonic = "need day common current elevator auction cattle chronic earth ignore business alone";
+var mnemonic = "boy fork arrange ripple hockey caught bacon shuffle regret tide cash sell";

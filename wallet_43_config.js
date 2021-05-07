@@ -1,1 +1,1 @@
-var mnemonic = "leave unfold review cruise shaft say cradle rabbit erode woman pumpkin main";
+var mnemonic = "laptop chat material wedding beauty spot panther never leave play boat side";

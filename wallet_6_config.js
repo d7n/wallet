@@ -1,1 +1,1 @@
-var mnemonic = "total burst pool vendor husband stomach people media security brisk foster ostrich";
+var mnemonic = "useful symptom trust way answer topic kitten peace theme venue seed safe";

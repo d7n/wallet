@@ -1,1 +1,1 @@
-var mnemonic = "trumpet entire danger throw quality ivory year pilot toddler clean kiwi peanut";
+var mnemonic = "pistol genre dumb control drum length skirt chief amazing gap old virus";

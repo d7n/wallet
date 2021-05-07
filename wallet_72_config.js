@@ -1,1 +1,1 @@
-var mnemonic = "never custom razor turkey aerobic skull foam bleak steak own giant gate";
+var mnemonic = "axis turn inch excite gift balance coconut delay message what era bleak";

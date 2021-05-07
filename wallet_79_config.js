@@ -1,1 +1,1 @@
-var mnemonic = "trend hidden cricket canoe eight tray immune garment genuine canal feature eagle";
+var mnemonic = "dream season tree drink pair farm giggle cover then lamp short victory";

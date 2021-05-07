@@ -1,1 +1,1 @@
-var mnemonic = "pencil hospital bird retire depend valley dial wish satoshi fresh suit title";
+var mnemonic = "torch ghost clock gun ball stay tribe catalog enough embrace salon album";

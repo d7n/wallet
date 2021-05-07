@@ -1,1 +1,1 @@
-var mnemonic = "cactus jaguar agree culture spread race frog camera bubble record quarter boy";
+var mnemonic = "budget pact wheel spring spring security nice panel salad vault hip material";

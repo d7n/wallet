@@ -1,1 +1,1 @@
-var mnemonic = "wire chair accident appear sort sort ten coil absorb boost upgrade render";
+var mnemonic = "come follow opera clinic stairs clean balcony once sense device spatial service";

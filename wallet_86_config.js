@@ -1,1 +1,1 @@
-var mnemonic = "check supreme infant damage diet child perfect nice cart thing jeans pear";
+var mnemonic = "admit isolate vintage control dynamic script family rally control coconut army trust";

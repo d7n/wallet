@@ -1,1 +1,1 @@
-var mnemonic = "shaft baby lunar sample rule tuna purity tone lady doctor produce sort";
+var mnemonic = "aspect subject question execute blush kit combine judge miracle twenty bulk bracket";

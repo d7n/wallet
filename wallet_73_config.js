@@ -1,1 +1,1 @@
-var mnemonic = "enough guilt verify today bicycle boil awful gaze drastic connect govern elder";
+var mnemonic = "belt execute drastic rule luggage pen outside mouse include crumble apple remind";

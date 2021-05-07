@@ -1,1 +1,1 @@
-var mnemonic = "scale trip black capable search author school tiny pause certain hood nephew";
+var mnemonic = "foot glow february enroll vintage artist theory noise over potato raw joy";

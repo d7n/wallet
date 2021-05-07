@@ -1,1 +1,1 @@
-var mnemonic = "goat magnet birth custom husband host submit tone differ picture trash slab";
+var mnemonic = "timber want earn exist boat wagon valid erase grab before ozone height";

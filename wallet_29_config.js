@@ -1,1 +1,1 @@
-var mnemonic = "devote glory injury agent weasel multiply lunch quit seven rice sustain rally";
+var mnemonic = "inhale crazy news ride oyster worth social enter retire theme year man";

@@ -1,1 +1,1 @@
-var mnemonic = "remind square hole dress supply brother urge thumb little addict void tuition";
+var mnemonic = "real empower sing stomach chapter jewel quantum seven exchange dress sentence seminar";

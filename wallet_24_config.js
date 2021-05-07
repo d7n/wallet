@@ -1,1 +1,1 @@
-var mnemonic = "attack smoke loop rate scatter deputy fork ignore daughter hollow swear setup";
+var mnemonic = "staff cannon ball shell deposit interest again bunker floor toilet category shaft";

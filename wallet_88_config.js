@@ -1,1 +1,1 @@
-var mnemonic = "sail rescue can embody wolf bounce scatter own galaxy elevator iron mean";
+var mnemonic = "tragic amateur enroll next modify region unlock square mansion plug fluid during";

@@ -1,1 +1,1 @@
-var mnemonic = "awful turtle stay disorder language sea chat ball mango issue ship curtain";
+var mnemonic = "only creek lady blade climb narrow dance use ankle people kid scale";

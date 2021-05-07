@@ -1,1 +1,1 @@
-var mnemonic = "moment cube pride volume circle situate ugly indicate dwarf dry finger nose";
+var mnemonic = "erupt moon state gauge alert marine judge truck metal multiply adjust setup";

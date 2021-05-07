@@ -1,1 +1,1 @@
-var mnemonic = "short order cruise verify budget pond taxi memory motor seven twelve web";
+var mnemonic = "cross endless chair siren force illegal old bring fence prepare wage reunion";

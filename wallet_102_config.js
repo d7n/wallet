@@ -1,1 +1,1 @@
-var mnemonic = "fluid sadness nature hotel audit entry clown humor walk please ladder aunt";
+var mnemonic = "latin bitter letter magnet mystery leopard much cluster stable ancient fence snack";

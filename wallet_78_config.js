@@ -1,1 +1,1 @@
-var mnemonic = "multiply gym tackle tobacco silk arrange meat tribe adapt mandate sad eyebrow";
+var mnemonic = "switch burst basic prevent hope total creek claim rabbit fluid bitter cloth";

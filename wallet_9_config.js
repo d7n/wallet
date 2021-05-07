@@ -1,1 +1,1 @@
-var mnemonic = "phone certain enable weapon mechanic inflict nature skin twenty security legend add";
+var mnemonic = "siren daughter boss clip space patch throw dinosaur race crush rubber rare";

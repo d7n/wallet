@@ -1,1 +1,1 @@
-var mnemonic = "electric laptop damp asthma busy involve nasty month stool pulse leader lady";
+var mnemonic = "empower liquid devote fame grape cradle record teach fence all evil fragile";

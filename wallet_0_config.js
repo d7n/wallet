@@ -1,1 +1,1 @@
-var mnemonic = "hockey detect surge section squirrel coach segment fiscal rally cattle dish dinner";
+var mnemonic = "mountain caught silly solve side trick damp race bean trip snake stem";
