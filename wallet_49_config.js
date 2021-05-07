@@ -1,1 +1,1 @@
-var mnemonic = "total chronic large job cloud fox enjoy engage warrior until turtle fortune";
+var mnemonic = "fee remind mail crucial dance peace private yellow walnut frost multiply chuckle";

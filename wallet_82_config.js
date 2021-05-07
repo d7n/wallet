@@ -1,1 +1,1 @@
-var mnemonic = "gorilla develop space slab fruit mom budget ordinary slice stumble wheat note";
+var mnemonic = "alien bird scout under monitor bicycle chase clump flee theory exist ready";

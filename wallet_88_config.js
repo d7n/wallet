@@ -1,1 +1,1 @@
-var mnemonic = "day brief trap employ ritual razor sugar mountain ozone young artwork small";
+var mnemonic = "sail rescue can embody wolf bounce scatter own galaxy elevator iron mean";

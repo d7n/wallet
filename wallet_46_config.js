@@ -1,1 +1,1 @@
-var mnemonic = "caught raw length lab nose fatal skull citizen motion two chronic limb";
+var mnemonic = "frame moment tattoo remain crunch zero dilemma west lunch guilt seminar tray";

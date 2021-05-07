@@ -1,1 +1,1 @@
-var mnemonic = "betray antenna purpose famous tornado grunt rural success picnic pink picture clog";
+var mnemonic = "garden silent elbow second position mandate hedgehog patient tent brave enact enough";

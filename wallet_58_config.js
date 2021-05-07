@@ -1,1 +1,1 @@
-var mnemonic = "heart envelope nothing divide hidden brief innocent quote obscure athlete grow shuffle";
+var mnemonic = "pool isolate perfect habit agree flavor tattoo pudding flag actual ball sort";

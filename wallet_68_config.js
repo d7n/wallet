@@ -1,1 +1,1 @@
-var mnemonic = "admit flight brain smooth brass engine lunch double erosion indicate mesh funny";
+var mnemonic = "diagram suit traffic west super agent whip pair sad matrix label place";

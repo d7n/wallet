@@ -1,1 +1,1 @@
-var mnemonic = "hawk bulk mix forward body hawk evoke similar chase chest search primary";
+var mnemonic = "manual ghost tomorrow vote banner dose spike found click topple rural train";

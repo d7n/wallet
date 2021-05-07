@@ -1,1 +1,1 @@
-var mnemonic = "spirit dutch matrix market couch pause heart lizard certain rescue pipe rigid";
+var mnemonic = "tomato plug brand one promote custom share legend bonus deal explain day";

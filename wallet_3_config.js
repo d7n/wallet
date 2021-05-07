@@ -1,1 +1,1 @@
-var mnemonic = "seat tilt gasp network bronze account sister spike blade magic apple reopen";
+var mnemonic = "combine success lunch whale side wing practice guess snow tank trap entry";

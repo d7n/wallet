@@ -1,1 +1,1 @@
-var mnemonic = "six enforce live jungle unfair flock leisure vote total garlic crater person";
+var mnemonic = "butter basket frozen salute dizzy census dash mule add effort charge income";

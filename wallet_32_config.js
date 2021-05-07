@@ -1,1 +1,1 @@
-var mnemonic = "antique occur recall guilt embark prefer chest waste deny flat book child";
+var mnemonic = "electric laptop damp asthma busy involve nasty month stool pulse leader lady";

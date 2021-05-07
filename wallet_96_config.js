@@ -1,1 +1,1 @@
-var mnemonic = "garage frequent race lecture plunge hire swarm guitar index clog paddle vault";
+var mnemonic = "vibrant knife innocent enroll keen until mask tree neck link joke weapon";

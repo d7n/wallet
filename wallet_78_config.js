@@ -1,1 +1,1 @@
-var mnemonic = "cream sorry clutch field portion nut kangaroo little paddle orient reopen security";
+var mnemonic = "multiply gym tackle tobacco silk arrange meat tribe adapt mandate sad eyebrow";

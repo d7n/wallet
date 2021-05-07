@@ -1,1 +1,1 @@
-var mnemonic = "blouse leave broken body purity monitor talk frame lecture glimpse rack shoot";
+var mnemonic = "document acoustic wear speak either attack pony tribe welcome magnet add tongue";

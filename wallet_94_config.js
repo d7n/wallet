@@ -1,1 +1,1 @@
-var mnemonic = "bridge promote pepper spirit nuclear dinner rail viable black mass feature couple";
+var mnemonic = "churn crime group lawsuit fruit pioneer helmet loop weapon equip extra label";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel thought cover version never tunnel ask vivid season believe output fun";
+var mnemonic = "noble catalog hospital kangaroo same egg system behind elephant business define can";

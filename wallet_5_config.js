@@ -1,1 +1,1 @@
-var mnemonic = "visual limit version recall infant wide cross initial sell kitten celery undo";
+var mnemonic = "design join quiz olympic gallery into ecology depart library luggage duck scan";

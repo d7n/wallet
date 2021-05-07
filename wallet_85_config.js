@@ -1,1 +1,1 @@
-var mnemonic = "genre pizza basket lens current wish filter pact prison hybrid secret leopard";
+var mnemonic = "divorce token visa ring then divorce critic speak present minute tide pet";

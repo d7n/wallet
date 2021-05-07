@@ -1,1 +1,1 @@
-var mnemonic = "table warrior more solid slight empower multiply improve elder aware valve tool";
+var mnemonic = "asset december bless grief mistake gate fiction coach process crazy finger inject";

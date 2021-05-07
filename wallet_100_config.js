@@ -1,1 +1,1 @@
-var mnemonic = "voice drift annual almost drama cheap city apology talent dawn isolate glass";
+var mnemonic = "easily gloom thing skin federal angle super balance champion bench rent luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "good flee follow pipe problem expire stock minute wash void beyond weasel";
+var mnemonic = "goat magnet birth custom husband host submit tone differ picture trash slab";

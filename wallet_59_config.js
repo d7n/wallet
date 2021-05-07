@@ -1,1 +1,1 @@
-var mnemonic = "demand solid again blanket canoe divide step hollow occur peace torch address";
+var mnemonic = "ship beauty stand prosper point find minor predict sample such rigid recall";

@@ -1,1 +1,1 @@
-var mnemonic = "flower royal sponsor cloud network indoor breeze vehicle sad city permit inmate";
+var mnemonic = "dry river family world reason loan you large tiger energy crumble display";

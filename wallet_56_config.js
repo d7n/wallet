@@ -1,1 +1,1 @@
-var mnemonic = "cheese spare impose riot dove pluck winner oblige hurdle enlist dignity slight";
+var mnemonic = "gym skate little slender kite online glide reason decorate danger cloth flash";

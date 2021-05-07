@@ -1,1 +1,1 @@
-var mnemonic = "labor jungle sand bag tell sad fault relief teach toe seek gauge";
+var mnemonic = "wire chair accident appear sort sort ten coil absorb boost upgrade render";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh magnet better tape globe scissors impose faculty reopen absorb maximum stick";
+var mnemonic = "crawl smooth punch smile napkin pink mass scheme output story raven gate";

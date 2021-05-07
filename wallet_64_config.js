@@ -1,1 +1,1 @@
-var mnemonic = "usual above easily kit nothing tip birth pipe illegal kiwi popular vehicle";
+var mnemonic = "retire inherit flee impact twelve curve setup country sense scout scissors spray";

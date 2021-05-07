@@ -1,1 +1,1 @@
-var mnemonic = "pride various popular walk rib forget earn valve ordinary ritual dizzy repeat";
+var mnemonic = "cheap walk call crush exhaust cluster beach napkin hockey certain cloud can";

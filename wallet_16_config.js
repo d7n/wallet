@@ -1,1 +1,1 @@
-var mnemonic = "attract top quantum gallery hybrid million dish obey diet trick opinion office";
+var mnemonic = "agree funny group tool tired awake lunch smart argue never stove gun";

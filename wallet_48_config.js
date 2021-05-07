@@ -1,1 +1,1 @@
-var mnemonic = "approve only fiction unable budget add today elephant inquiry perfect twice embrace";
+var mnemonic = "apart elder century little main secret grit supply brand dream master bread";

@@ -1,1 +1,1 @@
-var mnemonic = "report tortoise excuse trash patch town rotate sock maple you wheel close";
+var mnemonic = "cactus jaguar agree culture spread race frog camera bubble record quarter boy";

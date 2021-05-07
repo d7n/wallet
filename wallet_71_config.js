@@ -1,1 +1,1 @@
-var mnemonic = "canvas deposit juice soda pupil apart curve lizard middle federal nerve ripple";
+var mnemonic = "claw toe organ young protect hill art soft faith habit all captain";

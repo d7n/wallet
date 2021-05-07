@@ -1,1 +1,1 @@
-var mnemonic = "fiber truck axis below evil scheme dizzy team sun onion few dilemma";
+var mnemonic = "moment cube pride volume circle situate ugly indicate dwarf dry finger nose";

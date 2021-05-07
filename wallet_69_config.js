@@ -1,1 +1,1 @@
-var mnemonic = "height wedding praise spell medal twist husband effort monkey embody lawsuit metal";
+var mnemonic = "various decorate nominee radar hundred praise inch layer toast emerge under reject";

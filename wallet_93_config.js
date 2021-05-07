@@ -1,1 +1,1 @@
-var mnemonic = "nut teach keep garage cloth inhale sad teach burger festival lyrics often";
+var mnemonic = "use judge myth artist deal luggage lunar outer kidney enroll moment eyebrow";

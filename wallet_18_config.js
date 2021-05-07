@@ -1,1 +1,1 @@
-var mnemonic = "annual once middle habit police name hurt word laugh brief sorry clap";
+var mnemonic = "error craft imitate census flight road caught alien casual shop bicycle version";

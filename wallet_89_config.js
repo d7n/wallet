@@ -1,1 +1,1 @@
-var mnemonic = "forum lumber hero embody hundred movie off little drift civil embrace antique";
+var mnemonic = "sketch mercy surface before mean print foam arena space neck pudding mule";

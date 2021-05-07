@@ -1,1 +1,1 @@
-var mnemonic = "detail pole antique before scout school muffin relief follow reunion lamp spy";
+var mnemonic = "silly prosper icon crawl please improve erase kid enter enter erupt matrix";

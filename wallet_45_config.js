@@ -1,1 +1,1 @@
-var mnemonic = "joke figure vendor alien voice limb wisdom rib brand pyramid push cruise";
+var mnemonic = "dust vibrant network kitchen sign frown boost caught prosper enemy involve arrow";

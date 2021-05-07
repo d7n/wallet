@@ -1,1 +1,1 @@
-var mnemonic = "vague fantasy please industry stereo army night vivid monster glory tongue lamp";
+var mnemonic = "envelope screen bean peace risk include more parrot gym check fork piece";

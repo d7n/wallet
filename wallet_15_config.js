@@ -1,1 +1,1 @@
-var mnemonic = "rich that parrot mushroom breeze run benefit jacket north position display argue";
+var mnemonic = "wide antenna figure foam ugly armor rescue flag client element vivid baby";

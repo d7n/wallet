@@ -1,1 +1,1 @@
-var mnemonic = "final pig adapt around ceiling object solar race riot face theme tower";
+var mnemonic = "bargain viable tourist galaxy alpha source crumble cherry first rebuild result index";

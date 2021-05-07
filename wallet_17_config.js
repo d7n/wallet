@@ -1,1 +1,1 @@
-var mnemonic = "goose clip abandon pass math own blur flash eyebrow tourist answer unit";
+var mnemonic = "inherit foster tooth theory plate wire charge cotton network annual inquiry husband";

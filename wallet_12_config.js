@@ -1,1 +1,1 @@
-var mnemonic = "duty noise short enough volcano bleak hole cry normal creek lyrics long";
+var mnemonic = "wage all cinnamon position globe fit rich possible pave have away text";

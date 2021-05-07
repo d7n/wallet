@@ -1,1 +1,1 @@
-var mnemonic = "member picnic topic cancel moral deliver olive jealous strong pulp deliver giant";
+var mnemonic = "hidden chuckle world theory staff wild margin solid eyebrow quick select axis";

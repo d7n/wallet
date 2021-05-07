@@ -1,1 +1,1 @@
-var mnemonic = "sting explain unlock coast furnace canal miss rich pulse now salad bridge";
+var mnemonic = "mind design vanish ten abandon twice flash peasant town enforce screen goddess";

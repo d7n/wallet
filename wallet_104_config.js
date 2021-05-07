@@ -1,1 +1,1 @@
-var mnemonic = "trigger work brick what laugh coil rich palm hybrid foam kiss alarm";
+var mnemonic = "large exit math domain skull know silent hockey zebra lift say illness";

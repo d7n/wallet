@@ -1,1 +1,1 @@
-var mnemonic = "width charge vivid romance box pitch olympic bargain deer swim ugly catch";
+var mnemonic = "cherry speak behind pretty fly width swim rate jungle right onion luggage";

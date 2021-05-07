@@ -1,1 +1,1 @@
-var mnemonic = "siren pink art travel mushroom release radio spice appear nephew door ripple";
+var mnemonic = "attack smoke loop rate scatter deputy fork ignore daughter hollow swear setup";

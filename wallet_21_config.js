@@ -1,1 +1,1 @@
-var mnemonic = "impose whale pistol hard wagon car source energy high increase simple fence";
+var mnemonic = "demand main success convince custom junk purity royal fancy radio cup shed";

@@ -1,1 +1,1 @@
-var mnemonic = "oil glad tiger found develop danger grab doctor ill because rough they";
+var mnemonic = "ability portion stadium baby decorate neglect space seek donkey people property violin";

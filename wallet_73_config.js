@@ -1,1 +1,1 @@
-var mnemonic = "demise cloud actor path guard ridge brush capital vanish robot dice can";
+var mnemonic = "enough guilt verify today bicycle boil awful gaze drastic connect govern elder";

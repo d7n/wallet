@@ -1,1 +1,1 @@
-var mnemonic = "flavor spawn moral loop crowd build gas float awesome walk bronze either";
+var mnemonic = "motor curtain divide seed metal day drama wrestle entry fuel fresh evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "special brown proof easy genuine minimum rapid jelly private grant practice stadium";
+var mnemonic = "member deputy memory feel drama before input arm master truth ancient renew";

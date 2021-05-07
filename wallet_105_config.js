@@ -1,1 +1,1 @@
-var mnemonic = "atom solve empty silk board decorate sustain snack pluck nest consider iron";
+var mnemonic = "scale trip black capable search author school tiny pause certain hood nephew";

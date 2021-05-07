@@ -1,1 +1,1 @@
-var mnemonic = "turkey little easily appear purse shadow symbol stay bus cake relax tilt";
+var mnemonic = "remind square hole dress supply brother urge thumb little addict void tuition";

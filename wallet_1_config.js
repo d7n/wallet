@@ -1,1 +1,1 @@
-var mnemonic = "plastic coyote remember verify suspect text latin vacuum spawn report polar dance";
+var mnemonic = "cart matrix fine best goose supply setup involve dish chat favorite grace";

@@ -1,1 +1,1 @@
-var mnemonic = "era impose expire camp baby palm velvet concert fatigue rail you senior";
+var mnemonic = "nest basket alter plug desert suffer idle size lazy kiwi local call";

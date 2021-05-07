@@ -1,1 +1,1 @@
-var mnemonic = "fork insect letter debate glimpse year spider rate crush harvest cash range";
+var mnemonic = "desert cruel spot idea satoshi pluck flavor please marriage win eye brush";

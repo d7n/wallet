@@ -1,1 +1,1 @@
-var mnemonic = "knock truth opera barely mother uphold velvet runway dawn lyrics climb antenna";
+var mnemonic = "undo absorb inform excuse dutch define decide lunch rich elevator pulse gather";

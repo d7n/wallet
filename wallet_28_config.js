@@ -1,1 +1,1 @@
-var mnemonic = "uphold bus wheat position elder tomato insect pencil permit rocket spice novel";
+var mnemonic = "jungle borrow auto woman upset reward pulp miss moon hammer conduct gentle";

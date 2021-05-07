@@ -1,1 +1,1 @@
-var mnemonic = "multiply runway slot dinosaur loud evidence goat thought debris maximum harsh enrich";
+var mnemonic = "almost fly fetch hawk hold nothing tobacco trap crew beyond company fee";

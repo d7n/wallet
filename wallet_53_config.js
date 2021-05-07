@@ -1,1 +1,1 @@
-var mnemonic = "attract genius recall lift mystery smile shrug inherit benefit hand render depend";
+var mnemonic = "shaft baby lunar sample rule tuna purity tone lady doctor produce sort";

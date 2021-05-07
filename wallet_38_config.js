@@ -1,1 +1,1 @@
-var mnemonic = "argue smoke pony spike okay danger elite range route frame behave used";
+var mnemonic = "flight broccoli fog file dish unable ocean retire silent nice steak crystal";

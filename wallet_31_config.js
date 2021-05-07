@@ -1,1 +1,1 @@
-var mnemonic = "gate endless this friend tobacco soda gallery lounge strike sweet exile once";
+var mnemonic = "boring shift about nurse stick truth raven rural stick sure perfect nuclear";

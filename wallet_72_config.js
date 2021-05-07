@@ -1,1 +1,1 @@
-var mnemonic = "scare prize upper scheme merit net donkey foster practice love useless soldier";
+var mnemonic = "never custom razor turkey aerobic skull foam bleak steak own giant gate";

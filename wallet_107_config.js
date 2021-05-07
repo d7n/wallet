@@ -1,1 +1,1 @@
-var mnemonic = "comic lawn number essay spoon hello error bid state airport blind excite";
+var mnemonic = "bread light loyal mail snap dignity abuse essence crater pluck fitness bean";

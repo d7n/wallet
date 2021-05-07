@@ -1,1 +1,1 @@
-var mnemonic = "disorder bless stuff famous baby sweet hobby feed stereo distance want display";
+var mnemonic = "cousin sniff upgrade legal master diesel polar nation hurt length blush series";

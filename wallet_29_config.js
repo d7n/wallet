@@ -1,1 +1,1 @@
-var mnemonic = "humble labor buddy boat intact glove impulse jealous scatter gauge cereal powder";
+var mnemonic = "devote glory injury agent weasel multiply lunch quit seven rice sustain rally";

@@ -1,1 +1,1 @@
-var mnemonic = "tide way indicate quantum muffin demise true vicious chapter coconut city heavy";
+var mnemonic = "total burst pool vendor husband stomach people media security brisk foster ostrich";

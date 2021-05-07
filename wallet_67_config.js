@@ -1,1 +1,1 @@
-var mnemonic = "home pet know chapter loan boy fiscal exhibit flip color tissue this";
+var mnemonic = "awful turtle stay disorder language sea chat ball mango issue ship curtain";

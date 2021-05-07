@@ -1,1 +1,1 @@
-var mnemonic = "elder load wall produce lend video gloom fiber unable tip segment help";
+var mnemonic = "safe cinnamon owner zoo grunt ticket become odor beach drive shrimp oval";

@@ -1,1 +1,1 @@
-var mnemonic = "venture battle index runway tone year supreme teach diet oppose seminar unhappy";
+var mnemonic = "need day common current elevator auction cattle chronic earth ignore business alone";

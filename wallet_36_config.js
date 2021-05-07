@@ -1,1 +1,1 @@
-var mnemonic = "space bottom level way eagle armor pepper dove limit pause salmon emotion";
+var mnemonic = "similar service sugar room bundle near young coil novel check pumpkin inch";

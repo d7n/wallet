@@ -1,1 +1,1 @@
-var mnemonic = "crater cupboard swing bitter recipe hawk lumber soda trip acoustic muffin oven";
+var mnemonic = "chief type define shrimp coyote master include script eye spike risk cluster";

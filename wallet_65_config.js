@@ -1,1 +1,1 @@
-var mnemonic = "phone brown innocent hen office total security toss gym exchange height stock";
+var mnemonic = "very ticket guess ethics garment attack shadow upon hunt owner flower dilemma";

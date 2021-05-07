@@ -1,1 +1,1 @@
-var mnemonic = "race cattle record empower friend poem have dish dad vast shift cruise";
+var mnemonic = "rail cement celery debate spirit route elbow display menu sing joy delay";

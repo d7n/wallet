@@ -1,1 +1,1 @@
-var mnemonic = "inject cliff jeans security fade poem gown catalog desk truly truly split";
+var mnemonic = "hockey detect surge section squirrel coach segment fiscal rally cattle dish dinner";

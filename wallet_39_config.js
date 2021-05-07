@@ -1,1 +1,1 @@
-var mnemonic = "duty evil accident taste wisdom bulk culture betray sick embark clown bomb";
+var mnemonic = "tip tail bachelor crush supreme snack crack stomach ski vintage inspire another";

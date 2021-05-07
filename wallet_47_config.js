@@ -1,1 +1,1 @@
-var mnemonic = "minor biology citizen ocean wreck sample bread vendor bread coin page first";
+var mnemonic = "razor also puzzle crunch sample scrub thrive elder hold alpha resource expand";

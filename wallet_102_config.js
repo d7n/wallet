@@ -1,1 +1,1 @@
-var mnemonic = "enrich receive upon delay taste confirm strong mimic comfort captain patient core";
+var mnemonic = "fluid sadness nature hotel audit entry clown humor walk please ladder aunt";

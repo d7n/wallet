@@ -1,1 +1,1 @@
-var mnemonic = "impose urge real purity measure notice comic scorpion price fog destroy alley";
+var mnemonic = "short order cruise verify budget pond taxi memory motor seven twelve web";

@@ -1,1 +1,1 @@
-var mnemonic = "lucky guard cigar bar resource scorpion steel arctic tool dirt mean orange";
+var mnemonic = "employ scrub share frost grace bicycle thunder differ walk praise hat train";

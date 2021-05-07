@@ -1,1 +1,1 @@
-var mnemonic = "sea want sadness oblige obvious hold rule room catch rifle entry ritual";
+var mnemonic = "topple metal cup ship enact spirit trust father quarter basket melody mean";

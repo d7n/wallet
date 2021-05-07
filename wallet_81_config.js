@@ -1,1 +1,1 @@
-var mnemonic = "ladder usual jewel salmon sibling glide village paddle shoot penalty second gown";
+var mnemonic = "shoulder garment vanish mouse actress plastic wave recipe method basic unknown moon";

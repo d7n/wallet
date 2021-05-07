@@ -1,1 +1,1 @@
-var mnemonic = "size word gloom hope claim cricket orchard crop pigeon field obscure face";
+var mnemonic = "hello pave direct useless indicate sudden arm absurd hunt math evoke number";

@@ -1,1 +1,1 @@
-var mnemonic = "book enact vote fun submit prepare clog mind gospel valley artefact replace";
+var mnemonic = "detail annual drama debris island until sauce parade nut apology power two";
