@@ -1,1 +1,1 @@
-var mnemonic = "net clip evoke garage lyrics edit zoo razor science focus cry radio";
+var mnemonic = "simple seven sunny boost moment album trumpet sample pool economy draft blur";

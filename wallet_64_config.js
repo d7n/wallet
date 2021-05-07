@@ -1,1 +1,1 @@
-var mnemonic = "thumb return sick mobile mixture scatter virtual casual pottery cup buzz skill";
+var mnemonic = "control zero liberty milk daring squirrel above pause salt glow cereal host";

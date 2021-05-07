@@ -1,1 +1,1 @@
-var mnemonic = "notice because tower virus object fire toe else cover crumble private worth";
+var mnemonic = "loyal build marriage lumber retreat coach sun silver bicycle twelve tray lunar";

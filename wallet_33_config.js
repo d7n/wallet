@@ -1,1 +1,1 @@
-var mnemonic = "urge exchange vacuum wage assist brief output tomorrow renew surprise game plug";
+var mnemonic = "ripple best receive alter room suffer brave start office exact piano boost";

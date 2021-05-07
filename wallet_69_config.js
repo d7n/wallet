@@ -1,1 +1,1 @@
-var mnemonic = "boss supply middle nuclear multiply kiwi exchange close column parrot three slow";
+var mnemonic = "scan tired merry seat observe bar cousin liar nuclear cupboard copy drop";

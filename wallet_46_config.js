@@ -1,1 +1,1 @@
-var mnemonic = "arrow crisp leopard pink elevator morning over firm barely shift model evidence";
+var mnemonic = "length okay flight denial mouse chest stamp talk response margin humor trim";

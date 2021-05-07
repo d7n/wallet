@@ -1,1 +1,1 @@
-var mnemonic = "panther sauce brave bargain draft abstract solar south resist service wolf note";
+var mnemonic = "embody cheap lobster utility rescue frame goat day require game absent siren";

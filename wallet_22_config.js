@@ -1,1 +1,1 @@
-var mnemonic = "monitor black degree light lift daughter humor decade foster drill kidney salon";
+var mnemonic = "task business nasty season kitchen flame oyster visual wrist month outer salad";

@@ -1,1 +1,1 @@
-var mnemonic = "twice machine nature captain pony opera demise will fragile ripple mountain woman";
+var mnemonic = "torch moon wear goose essay final domain there arctic advance review appear";

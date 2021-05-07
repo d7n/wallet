@@ -1,1 +1,1 @@
-var mnemonic = "victory float work mansion claim fiction kick garlic wash close execute devote";
+var mnemonic = "ski increase false farm pride prepare marine wire cheap path mandate nephew";

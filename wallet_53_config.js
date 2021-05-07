@@ -1,1 +1,1 @@
-var mnemonic = "chapter meat excess pigeon congress candy sketch hub know security tumble hood";
+var mnemonic = "test twist brown luxury sail steel impose episode share either beef august";

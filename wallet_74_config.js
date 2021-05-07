@@ -1,1 +1,1 @@
-var mnemonic = "flat again amused jacket gadget gas cargo blade frost repeat moral van";
+var mnemonic = "door leopard crack defense hard protect rate gown cattle situate pass vibrant";

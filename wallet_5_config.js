@@ -1,1 +1,1 @@
-var mnemonic = "vacant smoke sick list melody slot onion broken habit garage nest elevator";
+var mnemonic = "fiscal bid crater cube craft device mountain also bargain caught alley team";

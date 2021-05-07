@@ -1,1 +1,1 @@
-var mnemonic = "novel address jump custom section industry inherit easily begin animal bamboo main";
+var mnemonic = "pioneer inhale fancy rocket lizard cause weapon other display urban regular segment";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby craft ability cheese party indicate floor great quantum chapter scrub dad";
+var mnemonic = "economy coach true catch visa busy grow trash viable wave ginger vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "oxygen crash sugar exhibit comfort wasp garment diesel like frozen ability artwork";
+var mnemonic = "chief zero erosion general today among spawn remind cream nature confirm arctic";

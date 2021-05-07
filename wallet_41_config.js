@@ -1,1 +1,1 @@
-var mnemonic = "you tomorrow grid nephew orange bind flip screen two easy joke love";
+var mnemonic = "federal flower length pride electric circle diesel slot citizen shock dove awful";

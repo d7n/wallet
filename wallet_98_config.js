@@ -1,1 +1,1 @@
-var mnemonic = "sword car spray glare horror quantum isolate minute uniform wine math pride";
+var mnemonic = "elder lady unusual skate turn tornado proud appear range palm furnace flock";

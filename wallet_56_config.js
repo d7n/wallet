@@ -1,1 +1,1 @@
-var mnemonic = "slide smart family win jazz soldier melt forget renew first birth edge";
+var mnemonic = "appear wet call leaf bring animal post lobster junior bubble just debris";

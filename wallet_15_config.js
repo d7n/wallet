@@ -1,1 +1,1 @@
-var mnemonic = "team twice promote term foot mosquito firm loud similar sunset report hero";
+var mnemonic = "verify farm album unfair cigar barely attack debris hour tunnel typical foam";

@@ -1,1 +1,1 @@
-var mnemonic = "drill spray divorce employ negative isolate gym subject throw budget garlic pitch";
+var mnemonic = "concert traffic chef engage jewel castle patrol hobby twelve switch excess repair";

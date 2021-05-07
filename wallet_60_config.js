@@ -1,1 +1,1 @@
-var mnemonic = "weapon mistake cool affair rotate power comfort normal wolf total crystal atom";
+var mnemonic = "describe oyster muffin cause sun wage pink churn hour wire employ frequent";

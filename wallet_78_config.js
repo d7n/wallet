@@ -1,1 +1,1 @@
-var mnemonic = "acquire deposit warm resource motion ladder reunion bargain bus ankle secret lift";
+var mnemonic = "unveil ritual strong inquiry brand scene denial excite sample below enable radio";

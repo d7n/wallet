@@ -1,1 +1,1 @@
-var mnemonic = "shine bunker improve april proof curious gaze smile crisp fashion high occur";
+var mnemonic = "when speak year latin census camp delay sunset april club cave inch";

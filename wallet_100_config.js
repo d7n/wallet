@@ -1,1 +1,1 @@
-var mnemonic = "worth blame pet alley require famous fantasy canoe arch purity around time";
+var mnemonic = "large cross ship blanket upper slush kangaroo salad popular cloth frozen busy";

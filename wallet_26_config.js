@@ -1,1 +1,1 @@
-var mnemonic = "error chuckle drink author road mother host actor casual utility meat hawk";
+var mnemonic = "legal two mammal like accuse orange brisk abuse inspire winner fit inmate";

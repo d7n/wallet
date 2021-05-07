@@ -1,1 +1,1 @@
-var mnemonic = "camera volume museum correct decrease bread climb cycle candy punch infant olive";
+var mnemonic = "omit gentle sand wool normal jump elephant double post busy run mosquito";

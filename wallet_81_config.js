@@ -1,1 +1,1 @@
-var mnemonic = "ribbon tip unaware square cup angle coach gorilla trash pyramid canal path";
+var mnemonic = "rocket become finish impact rack either void flat bring siren eyebrow breeze";

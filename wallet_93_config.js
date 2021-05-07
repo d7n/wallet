@@ -1,1 +1,1 @@
-var mnemonic = "core syrup absorb adjust champion wool color zero charge select grow summer";
+var mnemonic = "erupt sketch knife card trade absorb powder merge ten roast mass this";

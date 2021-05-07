@@ -1,1 +1,1 @@
-var mnemonic = "congress vault divide goose potato ensure maximum genius media agent ribbon hand";
+var mnemonic = "despair finger tourist repair wear feed young truth bubble tunnel vote dry";

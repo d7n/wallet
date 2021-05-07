@@ -1,1 +1,1 @@
-var mnemonic = "rocket fox enable consider medal dial taxi claw proof sort emotion broom";
+var mnemonic = "light noodle depart jar plastic indicate daughter kite struggle medal token involve";

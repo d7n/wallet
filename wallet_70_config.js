@@ -1,1 +1,1 @@
-var mnemonic = "solid lens divorce avoid mean song swallow pepper clock tortoise flavor journey";
+var mnemonic = "badge chef outside glance wagon color alert find luggage hello atom earth";

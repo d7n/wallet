@@ -1,1 +1,1 @@
-var mnemonic = "mix furnace swim culture uncle view move trick jaguar asset embody sun";
+var mnemonic = "aerobic clinic business hen various blush powder release adjust skill enjoy card";

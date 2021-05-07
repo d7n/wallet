@@ -1,1 +1,1 @@
-var mnemonic = "few boost camera spring sign episode business neglect short wolf build tourist";
+var mnemonic = "neglect shoot wagon post turn identify city love oppose now worth draw";

@@ -1,1 +1,1 @@
-var mnemonic = "core first teach cook multiply usage hazard cabin flat innocent genre track";
+var mnemonic = "next fiber scrap athlete black sketch travel blue train control clog wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "excite sweet rough quantum sudden sugar pass fan chief bundle reject crawl";
+var mnemonic = "sport settle vicious rail cost maple actor reward apart punch ball stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "measure shrimp inquiry renew month harsh laugh gold inner warfare exchange wing";
+var mnemonic = "hint calm interest angry pen daring topic domain latin tribe angry group";

@@ -1,1 +1,1 @@
-var mnemonic = "tooth attack still cereal load bid unfold enlist flavor essence cliff clump";
+var mnemonic = "city blast inject cliff thumb aunt thunder normal average recycle language mirror";

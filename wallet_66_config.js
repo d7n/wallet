@@ -1,1 +1,1 @@
-var mnemonic = "fuel wood derive stable follow jeans jelly feed stove birth eagle trick";
+var mnemonic = "arm elegant regular spatial honey train clog equal lecture bench lunch brave";

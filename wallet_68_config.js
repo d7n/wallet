@@ -1,1 +1,1 @@
-var mnemonic = "remind season stool rhythm grant attack require weather gallery display transfer ready";
+var mnemonic = "depart pepper flavor nuclear shrug orient gold bicycle present cactus bracket short";

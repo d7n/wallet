@@ -1,1 +1,1 @@
-var mnemonic = "load glad vanish morning vital team harbor emerge cage mistake build capital";
+var mnemonic = "day magnet local help recall surge film insect fuel alone manage price";

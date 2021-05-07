@@ -1,1 +1,1 @@
-var mnemonic = "velvet project trick enlist tomorrow picnic spot hidden hat review dry drastic";
+var mnemonic = "present barely nephew adult cotton all author submit devote usual damp turn";

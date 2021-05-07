@@ -1,1 +1,1 @@
-var mnemonic = "buzz mixture intact canal olympic burst ribbon grace valid cupboard party panther";
+var mnemonic = "wasp world message real claim belt device boring lava educate duty animal";

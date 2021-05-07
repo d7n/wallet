@@ -1,1 +1,1 @@
-var mnemonic = "shiver hurry thank make express relief symptom save original kind topic cancel";
+var mnemonic = "planet color lyrics pistol swim vocal net crucial gun future fan unfold";

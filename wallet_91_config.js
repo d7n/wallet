@@ -1,1 +1,1 @@
-var mnemonic = "quote certain rare fever thunder ugly clutch minimum differ patient guitar effort";
+var mnemonic = "reject stand balance chair banana figure crazy tiny fantasy fossil nerve kiss";

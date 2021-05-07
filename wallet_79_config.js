@@ -1,1 +1,1 @@
-var mnemonic = "elder captain urge repair lawsuit nation mom unhappy wonder damage pool tomato";
+var mnemonic = "intact sort leg agree owner rifle nerve render expire public below crop";

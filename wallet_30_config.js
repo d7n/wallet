@@ -1,1 +1,1 @@
-var mnemonic = "basic essay worth amateur better stadium again ill awkward cigar great velvet";
+var mnemonic = "jungle kid session bunker gesture transfer ugly crucial chef cake second rotate";

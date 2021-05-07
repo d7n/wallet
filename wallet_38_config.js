@@ -1,1 +1,1 @@
-var mnemonic = "engine amateur skull upon put sustain autumn observe enter rebel bleak stick";
+var mnemonic = "illness sweet fluid tank inform able perfect essence leaf love dirt wait";

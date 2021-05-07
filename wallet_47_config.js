@@ -1,1 +1,1 @@
-var mnemonic = "traffic license mandate topple three pizza enjoy crucial day elevator paper solar";
+var mnemonic = "despair pole hand feed absorb bubble goose denial garment truth gauge detect";

@@ -1,1 +1,1 @@
-var mnemonic = "seek neutral rather swallow lake impose debris caught sponsor long time gather";
+var mnemonic = "dirt section blush pole bring category tool bulk language neutral milk myself";

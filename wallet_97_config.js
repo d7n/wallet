@@ -1,1 +1,1 @@
-var mnemonic = "gravity repair spider process envelope assist toddler blame employ east barrel inch";
+var mnemonic = "arrow parrot spatial inch spice ride super anxiety gift figure home logic";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow elephant front salon detail matter sunset flower solar begin swing staff";
+var mnemonic = "bonus cricket two anxiety dutch eyebrow forget example skin vacant grocery sting";

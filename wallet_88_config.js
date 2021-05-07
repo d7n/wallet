@@ -1,1 +1,1 @@
-var mnemonic = "later push shadow verify polar airport surface phone expect dress need hand";
+var mnemonic = "cannon tired issue focus bring advice rare drift eye parent worry chimney";

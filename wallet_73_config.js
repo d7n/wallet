@@ -1,1 +1,1 @@
-var mnemonic = "visit okay pumpkin borrow turtle heart victory street derive orient crowd rapid";
+var mnemonic = "choose offer excuse exchange today sister rival across what capable atom object";

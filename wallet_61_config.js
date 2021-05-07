@@ -1,1 +1,1 @@
-var mnemonic = "amazing certain calm turkey forward rent chunk water ghost airport hire lunch";
+var mnemonic = "clean pair hire choice favorite letter shuffle topic card over barrel grab";

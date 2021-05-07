@@ -1,1 +1,1 @@
-var mnemonic = "wonder priority shock van inspire van average gown bird jar govern thank";
+var mnemonic = "broken people purse coil warm couch special across exit love dress erase";

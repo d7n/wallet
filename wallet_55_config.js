@@ -1,1 +1,1 @@
-var mnemonic = "mobile napkin install tortoise absurd dignity citizen ice legend basic surround pen";
+var mnemonic = "usage release head suggest omit federal route enhance scene fitness alpha street";

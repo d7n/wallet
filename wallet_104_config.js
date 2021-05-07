@@ -1,1 +1,1 @@
-var mnemonic = "voice tiger lunar muffin expect core hotel auto hire move cricket chapter";
+var mnemonic = "cherry forest hub convince mask correct patch prepare dolphin brick found noise";

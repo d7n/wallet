@@ -1,1 +1,1 @@
-var mnemonic = "accuse usual true speak letter category group random quiz novel imitate inflict";
+var mnemonic = "language fiction pumpkin page laptop six crucial derive return practice wife junk";

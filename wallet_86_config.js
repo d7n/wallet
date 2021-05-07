@@ -1,1 +1,1 @@
-var mnemonic = "bridge bundle color vicious win bid robot rug twelve defense fit bulb";
+var mnemonic = "pull pottery whisper wear often swarm split parade attract flush suit economy";

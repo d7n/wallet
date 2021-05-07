@@ -1,1 +1,1 @@
-var mnemonic = "husband glance destroy pelican crane economy supreme unusual hungry hybrid gorilla ball";
+var mnemonic = "cart shoot tattoo piece drill opinion hint insane amazing build coin river";

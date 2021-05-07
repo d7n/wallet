@@ -1,1 +1,1 @@
-var mnemonic = "series flee twice obey exile depth blur rubber garlic october detail evil";
+var mnemonic = "figure intact drum twist involve vague bacon make shoot monkey ripple apart";

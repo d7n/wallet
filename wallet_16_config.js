@@ -1,1 +1,1 @@
-var mnemonic = "tattoo plate effort planet you stereo nation agree random normal student retire";
+var mnemonic = "fashion simple kiwi wet rescue gate reject panel equal pen again ice";

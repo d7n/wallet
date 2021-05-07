@@ -1,1 +1,1 @@
-var mnemonic = "decorate physical ritual country exotic concert buyer cigar hand asset decade amazing";
+var mnemonic = "find brand thumb round divide rival mistake doctor bachelor wash public clap";

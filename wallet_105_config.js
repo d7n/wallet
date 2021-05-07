@@ -1,1 +1,1 @@
-var mnemonic = "bread bird edge orange artwork never panel soul quarter pond craft mosquito";
+var mnemonic = "canal lawsuit over document sudden intact scan damage palace tiger urge roast";

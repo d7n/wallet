@@ -1,1 +1,1 @@
-var mnemonic = "cancel coral ceiling source eight play open proof dad student chapter cigar";
+var mnemonic = "parrot trash donkey garlic window memory another analyst rhythm spatial trigger wine";

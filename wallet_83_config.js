@@ -1,1 +1,1 @@
-var mnemonic = "soon wisdom topic month ticket domain topic random device lunch relief puzzle";
+var mnemonic = "soul image blame demand story begin control obtain spider faculty doctor suffer";

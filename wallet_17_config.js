@@ -1,1 +1,1 @@
-var mnemonic = "strike boy debris noise pear sock left hobby ripple crazy youth exclude";
+var mnemonic = "home basic valley dial essence celery ocean jeans task help curve either";

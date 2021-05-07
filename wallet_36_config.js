@@ -1,1 +1,1 @@
-var mnemonic = "erase defense concert enact chase force cinnamon noble sweet chunk plug dizzy";
+var mnemonic = "motion raven try credit obscure draft question upset meadow burden dawn gun";

@@ -1,1 +1,1 @@
-var mnemonic = "daring shrug claw unaware proof letter document churn senior misery diet ball";
+var mnemonic = "love elephant demand grunt injury limb involve envelope possible agree catch hurdle";

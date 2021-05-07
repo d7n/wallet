@@ -1,1 +1,1 @@
-var mnemonic = "indoor fit hole logic idea ability dune fox alcohol pudding federal erosion";
+var mnemonic = "leisure able biology include unfair gaze film cart coyote stamp cigar blue";

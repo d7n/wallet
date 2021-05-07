@@ -1,1 +1,1 @@
-var mnemonic = "notable camp draft rare basic affair chapter bronze rule satisfy crisp wool";
+var mnemonic = "inch noise occur disorder where labor onion found indicate piano caught able";

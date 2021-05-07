@@ -1,1 +1,1 @@
-var mnemonic = "load police toast leg wage expire alpha welcome hip chair distance baby";
+var mnemonic = "liberty scheme strike boost satisfy undo piece purity kick hurry author remind";

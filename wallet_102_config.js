@@ -1,1 +1,1 @@
-var mnemonic = "soldier response test advance air exact ladder science light depth uniform earn";
+var mnemonic = "sadness grass inform casual blade evil quiz type camera female hundred spike";

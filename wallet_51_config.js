@@ -1,1 +1,1 @@
-var mnemonic = "clog entry screen dad jar spoil chase clap property jazz fit put";
+var mnemonic = "dynamic soft route leopard affair kiss genre large flush sign silly sponsor";

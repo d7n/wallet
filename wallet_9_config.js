@@ -1,1 +1,1 @@
-var mnemonic = "man anchor verify alone clerk common feature elevator little cage huge task";
+var mnemonic = "script unfold mind swear column twenty void diet atom scatter someone sail";

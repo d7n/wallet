@@ -1,1 +1,1 @@
-var mnemonic = "donor minimum cup mind fade album inherit steel analyst call involve ball";
+var mnemonic = "matter express route output pen coil empty sense worry series path garment";

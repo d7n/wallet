@@ -1,1 +1,1 @@
-var mnemonic = "alpha parent shuffle glide choose cinnamon winner gun bright bamboo fish exclude";
+var mnemonic = "deliver entire limit crowd ranch total throw virus under rib race random";

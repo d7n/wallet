@@ -1,1 +1,1 @@
-var mnemonic = "suit gauge autumn sure chaos language myself aware name very estate kingdom";
+var mnemonic = "chat bottom clerk essay devote alone cactus address alter town uniform giggle";

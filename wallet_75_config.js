@@ -1,1 +1,1 @@
-var mnemonic = "truth resist ship enact harbor permit decorate pig where delay ecology father";
+var mnemonic = "uniform nephew recipe tag laugh tent spider sleep slow tiny theme talk";

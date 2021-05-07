@@ -1,1 +1,1 @@
-var mnemonic = "miracle first physical electric coyote select lion spread inch tank fade guide";
+var mnemonic = "allow bone satisfy offer burden window latin record couch kind orphan cannon";

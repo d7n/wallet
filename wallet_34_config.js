@@ -1,1 +1,1 @@
-var mnemonic = "corn someone dose moment use wine second open enough repeat purse shell";
+var mnemonic = "luggage bird inside city weekend spike chalk invite south melody neutral awful";

@@ -1,1 +1,1 @@
-var mnemonic = "invite soul coach magnet siren wire mercy smart combine supreme twice there";
+var mnemonic = "impact piano bomb marble source lock lens panic cube art memory trade";

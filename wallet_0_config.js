@@ -1,1 +1,1 @@
-var mnemonic = "sunny coffee spot chair enjoy fly devote upset match obscure midnight novel";
+var mnemonic = "safe wrong avoid dynamic purse light stable trend bacon museum candy eager";

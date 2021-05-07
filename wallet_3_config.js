@@ -1,1 +1,1 @@
-var mnemonic = "fault inmate guard divide prize express call genuine cigar alcohol profit top";
+var mnemonic = "apology sample street catch permit couch galaxy climb mean squirrel fix depend";

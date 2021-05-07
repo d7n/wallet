@@ -1,1 +1,1 @@
-var mnemonic = "slow congress copper ancient duty bundle taxi donkey pause paddle winner demise";
+var mnemonic = "clay seat library absorb myth juice expose sign melody need language repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "nuclear hybrid start elite leg lonely produce armor loop help winner obey";
+var mnemonic = "memory hobby great paper found abuse mirror shine group unusual push candy";

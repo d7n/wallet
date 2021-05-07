@@ -1,1 +1,1 @@
-var mnemonic = "axis dilemma apart payment salmon absent resemble crisp text sort labor tilt";
+var mnemonic = "nut kind sunset language erode claw better escape dentist discover huge tiger";

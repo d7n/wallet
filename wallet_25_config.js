@@ -1,1 +1,1 @@
-var mnemonic = "man inquiry erase tired rain ancient edit there doctor armor assist drive";
+var mnemonic = "entire sustain senior hungry switch appear deal spare candy gravity jelly great";
