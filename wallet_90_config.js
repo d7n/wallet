@@ -1,1 +1,1 @@
-var mnemonic = "quick bright lecture uncover sister dust cradle message expire clean position curve";
+var mnemonic = "cactus story run imitate rally basket action hedgehog stereo glory custom engine";

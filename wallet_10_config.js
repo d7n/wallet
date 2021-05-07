@@ -1,1 +1,1 @@
-var mnemonic = "winner illness smart fantasy desert solid stable noodle lesson monkey shoot uniform";
+var mnemonic = "erosion recall reason brick tide hospital keen license reject door food soccer";

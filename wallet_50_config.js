@@ -1,1 +1,1 @@
-var mnemonic = "puppy spray enjoy jar interest embody key dirt insect exercise inquiry kind";
+var mnemonic = "vault door raccoon peasant kidney pole blast plunge fatal opinion combine route";

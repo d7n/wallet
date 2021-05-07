@@ -1,1 +1,1 @@
-var mnemonic = "leg okay camp sound run forward cliff bacon coin soup bacon program";
+var mnemonic = "thunder have alien visa suggest program wear vessel volume edge enjoy zero";

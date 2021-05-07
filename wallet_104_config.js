@@ -1,1 +1,1 @@
-var mnemonic = "busy pear stem topic afford turn there liberty mention note whisper brown";
+var mnemonic = "eyebrow disagree expire arrest envelope field denial orange mask monster flower income";

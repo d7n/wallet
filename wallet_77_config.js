@@ -1,1 +1,1 @@
-var mnemonic = "wash ring nest arrive course grass barrel harvest jump slide plunge disagree";
+var mnemonic = "cigar illegal must auction shell joy digital awake oblige mystery nominee diesel";

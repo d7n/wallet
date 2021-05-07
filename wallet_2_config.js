@@ -1,1 +1,1 @@
-var mnemonic = "rocket grocery gather extend involve sniff dice anger fruit other chapter chase";
+var mnemonic = "bulk must hire glance field flame coin hobby prefer settle silent minute";

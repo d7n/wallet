@@ -1,1 +1,1 @@
-var mnemonic = "glad stairs gold skill gap oblige private solar snow scrub venue sound";
+var mnemonic = "same hybrid alcohol rural october image mule enable happy major token electric";

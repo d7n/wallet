@@ -1,1 +1,1 @@
-var mnemonic = "dilemma avocado alarm sponsor excuse news melody denial brand hospital museum abstract";
+var mnemonic = "news marble prefer month mushroom throw express main focus grit hammer guitar";

@@ -1,1 +1,1 @@
-var mnemonic = "eternal elephant reward drastic shield monkey violin slow fold shine mango tattoo";
+var mnemonic = "fragile ridge sense clog smart floor unusual hundred myth daring language logic";

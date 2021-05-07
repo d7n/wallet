@@ -1,1 +1,1 @@
-var mnemonic = "crime roof street cement session rate skate connect very taste reunion video";
+var mnemonic = "kite mimic whip dismiss wet live friend rude trip carpet make wait";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk dizzy arctic peace town fatigue surge notable quiz orchard cricket black";
+var mnemonic = "wife uniform elephant gold giggle skirt lamp bargain often carbon canyon first";

@@ -1,1 +1,1 @@
-var mnemonic = "used around assume repair rain vivid drama wrestle utility gorilla obtain civil";
+var mnemonic = "woman state ceiling gun genre word mom artwork bubble candy cherry cricket";

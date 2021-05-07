@@ -1,1 +1,1 @@
-var mnemonic = "chief inch rocket time mule cargo delay cabin ticket box hybrid wear";
+var mnemonic = "clinic fold shop foil mammal mix young wood strike endorse brass coast";

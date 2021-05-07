@@ -1,1 +1,1 @@
-var mnemonic = "reason brush enroll gown laugh token also pepper caution cube diesel uniform";
+var mnemonic = "rack imitate alley turtle enough network awful expect bench peasant torch cry";

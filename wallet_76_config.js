@@ -1,1 +1,1 @@
-var mnemonic = "grocery ozone tower spider into climb special rent worth patrol report dignity";
+var mnemonic = "clever own armor copper candy usage world dry viable place antenna wide";

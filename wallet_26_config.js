@@ -1,1 +1,1 @@
-var mnemonic = "inform middle ugly rate remember erode bundle stage dress credit mandate can";
+var mnemonic = "planet summer stem spoil whale robot bird harvest vault hero river same";

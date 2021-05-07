@@ -1,1 +1,1 @@
-var mnemonic = "pill slice jacket pride city duty plunge scene train flower account mango";
+var mnemonic = "crunch digital copy poem book disorder donate stool promote expect peace unfold";

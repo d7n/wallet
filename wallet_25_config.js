@@ -1,1 +1,1 @@
-var mnemonic = "vicious twenty bleak dawn oxygen luxury hen forest record awkward club entire";
+var mnemonic = "square seed luxury human will mobile change exercise runway surround truck relief";

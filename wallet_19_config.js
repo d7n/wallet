@@ -1,1 +1,1 @@
-var mnemonic = "crater design joy later false provide tragic slight nest innocent hungry harvest";
+var mnemonic = "anchor ecology path pupil only claim opera mango cotton turkey breeze pudding";

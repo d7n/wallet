@@ -1,1 +1,1 @@
-var mnemonic = "panther erode hood immense tape gloom impulse armed pass glory dog theory";
+var mnemonic = "choose illness time pretty silent relax rather arch east delay swarm flag";

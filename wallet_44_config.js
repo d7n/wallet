@@ -1,1 +1,1 @@
-var mnemonic = "around satisfy hammer earth spike zone cycle aware cactus true hurry grant";
+var mnemonic = "undo salon change grass agree top corn code stumble razor organ ignore";

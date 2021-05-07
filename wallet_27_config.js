@@ -1,1 +1,1 @@
-var mnemonic = "option fitness infant affair deputy shuffle scout october bottom fiction crane slush";
+var mnemonic = "better return memory deputy cargo shy lunch cigar dash strong try rebuild";

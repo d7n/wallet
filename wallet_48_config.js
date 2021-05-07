@@ -1,1 +1,1 @@
-var mnemonic = "exhibit one impact search wisdom neglect bargain pretty cabin voyage athlete share";
+var mnemonic = "office job horn elbow deny seed present target wood inmate state pumpkin";

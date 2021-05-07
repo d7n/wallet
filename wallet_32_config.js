@@ -1,1 +1,1 @@
-var mnemonic = "immune spoil south dish sad language proud trim unhappy soccer drama gold";
+var mnemonic = "helmet select embark left welcome upset help swing arrest raccoon bike rack";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch immense excite ski pool coin medal try steak unit sun shrug";
+var mnemonic = "plate marine umbrella adjust approve pull file add swallow jelly swim hidden";

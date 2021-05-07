@@ -1,1 +1,1 @@
-var mnemonic = "despair prison elite peanut few zero chest grief police cricket napkin task";
+var mnemonic = "sleep tongue depend type same pattern maid either guess earth truth casino";

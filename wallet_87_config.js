@@ -1,1 +1,1 @@
-var mnemonic = "talk rack creek obtain recycle open series start month combine transfer exact";
+var mnemonic = "group tenant account poem artwork dilemma crowd decade security jar spot race";

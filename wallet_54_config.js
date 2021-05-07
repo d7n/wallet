@@ -1,1 +1,1 @@
-var mnemonic = "amateur middle name intact trap junk frequent smoke bean harbor feature survey";
+var mnemonic = "eagle cup lecture truck another oxygen father snack fiscal feel initial prize";

@@ -1,1 +1,1 @@
-var mnemonic = "absorb present hood humble wink hire squeeze hungry acid thrive still bargain";
+var mnemonic = "intact leopard awake better idea curtain snake husband mechanic cart shed scorpion";

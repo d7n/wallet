@@ -1,1 +1,1 @@
-var mnemonic = "liberty trigger main uphold sugar mix divert evolve fence wheat acoustic tobacco";
+var mnemonic = "lady inquiry universe ozone same music boat salad suggest fix timber culture";

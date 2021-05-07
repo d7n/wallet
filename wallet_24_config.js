@@ -1,1 +1,1 @@
-var mnemonic = "jewel mad explain there sock great great weekend water diet limit debate";
+var mnemonic = "cry behind cushion purity romance horror cotton joke panel lizard float lecture";

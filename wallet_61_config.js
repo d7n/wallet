@@ -1,1 +1,1 @@
-var mnemonic = "dash evil blossom start zone appear knee grape school law message text";
+var mnemonic = "toddler force shiver abstract hint plug multiply transfer situate number venue stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "recipe symbol camp setup olive cause cream opinion season vague original debate";
+var mnemonic = "tiger sort hidden desk diesel danger mention distance any because staff sort";

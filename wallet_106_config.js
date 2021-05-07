@@ -1,1 +1,1 @@
-var mnemonic = "history scatter young tide cycle sight clarify unlock camera wire kit digital";
+var mnemonic = "ring type burst album place annual normal token sibling hard punch fresh";

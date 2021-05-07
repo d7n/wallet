@@ -1,1 +1,1 @@
-var mnemonic = "camp exit very analyst code brown autumn news shoulder scrub hotel onion";
+var mnemonic = "issue travel fiber stove feel jar rapid belt foam scissors demand win";

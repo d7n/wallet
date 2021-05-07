@@ -1,1 +1,1 @@
-var mnemonic = "then service sock sound reflect leg pill force capable inhale define matrix";
+var mnemonic = "alarm present must mom kitchen client chuckle focus early you art ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "record february load exhaust provide jaguar diary physical bread link confirm interest";
+var mnemonic = "dish survey write demand latin copper wild renew satisfy season cute athlete";

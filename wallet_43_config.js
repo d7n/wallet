@@ -1,1 +1,1 @@
-var mnemonic = "relief minor magic talk collect dismiss master bonus short guilt roast sense";
+var mnemonic = "fever razor wide benefit hazard level wasp blast keep believe debate elder";

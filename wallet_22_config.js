@@ -1,1 +1,1 @@
-var mnemonic = "clerk sight panic swarm evolve future fantasy sure visual pilot interest style";
+var mnemonic = "scissors brand fury gorilla gallery siren intact badge explain cruel spike board";

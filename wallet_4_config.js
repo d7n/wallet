@@ -1,1 +1,1 @@
-var mnemonic = "napkin acid thank chair smart remember amused cause trash invite theme task";
+var mnemonic = "maid drill elevator magic crystal coin buffalo crime diary fury bar hybrid";

@@ -1,1 +1,1 @@
-var mnemonic = "this crew mixture shy wife pear stumble buyer possible mom sport ensure";
+var mnemonic = "legend return differ caught grunt hair feature alpha approve lumber scrap palm";

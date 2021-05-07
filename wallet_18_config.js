@@ -1,1 +1,1 @@
-var mnemonic = "cover travel carpet history tornado huge reopen cement celery engine bulb jealous";
+var mnemonic = "novel license radar vast short patrol erupt shed way rate drift myself";

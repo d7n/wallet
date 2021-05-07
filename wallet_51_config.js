@@ -1,1 +1,1 @@
-var mnemonic = "ginger voyage mistake slow buffalo midnight cloud view rate mimic stock fire";
+var mnemonic = "focus cereal parrot author any language wink crop sight gift coffee funny";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire palm hunt youth super animal song frog skin winner such armor";
+var mnemonic = "fun leader banner also forward real innocent blur rapid describe bronze inflict";

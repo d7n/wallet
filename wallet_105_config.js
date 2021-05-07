@@ -1,1 +1,1 @@
-var mnemonic = "north arrive bone unlock feed pumpkin charge daughter consider innocent office public";
+var mnemonic = "charge final manual next dawn panther advance butter habit material ensure crash";

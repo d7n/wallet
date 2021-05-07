@@ -1,1 +1,1 @@
-var mnemonic = "industry awake swallow sword gesture recall wool camera raven vehicle rubber hundred";
+var mnemonic = "prevent firm goat law cigar wait filter noodle exercise hub hockey collect";

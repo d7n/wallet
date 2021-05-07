@@ -1,1 +1,1 @@
-var mnemonic = "trade dwarf clean source seat behind shaft chair plate valve attack peasant";
+var mnemonic = "boost guess strong lens scissors mammal soda elbow glimpse settle primary awesome";

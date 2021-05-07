@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur charge digital bulk play quit music eager captain erupt obey soldier";
+var mnemonic = "scout phone wealth spoon leader assist junior mercy critic cliff order tribe";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican door stock tooth prevent satisfy able erode impact element unlock idle";
+var mnemonic = "ghost reason ribbon pet anxiety smooth off raccoon hip wet derive unique";

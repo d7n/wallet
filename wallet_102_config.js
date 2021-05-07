@@ -1,1 +1,1 @@
-var mnemonic = "zero comfort owner notice multiply tell move pudding ramp arena patrol strike";
+var mnemonic = "initial gesture gasp pilot loyal energy maze winner tilt quote chimney glue";

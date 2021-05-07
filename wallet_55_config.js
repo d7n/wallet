@@ -1,1 +1,1 @@
-var mnemonic = "amount drastic humor light blood cloth three close act fire catch earn";
+var mnemonic = "pioneer maximum load giant barely digital direct tell defy token axis possible";

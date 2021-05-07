@@ -1,1 +1,1 @@
-var mnemonic = "horse slow wise visa meat volcano gaze table champion material vendor domain";
+var mnemonic = "tower found enter option twin explain universe arch perfect report behind profit";

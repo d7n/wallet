@@ -1,1 +1,1 @@
-var mnemonic = "fiber practice attack marriage cheese banana hidden roast urban potato fee degree";
+var mnemonic = "lend hockey typical enhance target annual dose loyal essence water infant inspire";

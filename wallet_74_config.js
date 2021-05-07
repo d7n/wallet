@@ -1,1 +1,1 @@
-var mnemonic = "sleep social brush liberty torch chimney delay october tunnel average position suffer";
+var mnemonic = "vault cage slice split badge hub raccoon soup among fork crime artist";

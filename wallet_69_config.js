@@ -1,1 +1,1 @@
-var mnemonic = "vicious amazing canvas orbit word once antique conduct dune siren brush lonely";
+var mnemonic = "lady hard speed slam vault state middle question wage prefer hammer arrow";

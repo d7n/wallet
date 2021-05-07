@@ -1,1 +1,1 @@
-var mnemonic = "screen play label audit birth humble fine shy flavor thunder cactus recall";
+var mnemonic = "leopard essay gap theme license pen blur paper worry lecture bicycle unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "bread return strong quote swallow hub enable film peasant liar estate desert";
+var mnemonic = "cherry pulp curve oven occur august pulse virus orchard bubble habit dance";

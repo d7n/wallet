@@ -1,1 +1,1 @@
-var mnemonic = "stamp garage usual level infant foster plunge orbit zoo defy divorce lady";
+var mnemonic = "wide boss pioneer riot anxiety velvet drift airport hammer brown mother begin";

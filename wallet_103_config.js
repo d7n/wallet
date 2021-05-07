@@ -1,1 +1,1 @@
-var mnemonic = "exchange grass tail chaos position mass obvious imitate much arrest reason trial";
+var mnemonic = "library mesh fruit anger theory exercise wife vacuum initial vague atom pudding";

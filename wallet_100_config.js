@@ -1,1 +1,1 @@
-var mnemonic = "cherry accident debate initial life adult taste expand book beef one reward";
+var mnemonic = "news shine thank eternal blade defense quarter focus soft proof acid license";

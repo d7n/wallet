@@ -1,1 +1,1 @@
-var mnemonic = "bronze captain enemy dress pistol ask bridge ring fall wool pelican sort";
+var mnemonic = "barely venue federal ivory aware blush escape what october express gun soup";

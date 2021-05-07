@@ -1,1 +1,1 @@
-var mnemonic = "input deer tape elder strike island mean system lunar fence glow cruel";
+var mnemonic = "drink adult wedding used electric put faculty merit stay planet stock dutch";

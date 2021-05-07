@@ -1,1 +1,1 @@
-var mnemonic = "tattoo chunk annual dinosaur toy hundred wrist lift ridge obey reveal six";
+var mnemonic = "column galaxy tone cost enhance year inch family true travel orchard clog";

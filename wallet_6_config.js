@@ -1,1 +1,1 @@
-var mnemonic = "girl tomato wedding retire actor lock wild motion stereo start spider property";
+var mnemonic = "awful quality thumb motion strategy transfer session okay crisp burst spoil flower";

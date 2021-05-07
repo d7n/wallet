@@ -1,1 +1,1 @@
-var mnemonic = "observe curtain flash diary subway combine weird camp now laugh carbon orbit";
+var mnemonic = "table maid assault caught unhappy race alley collect mimic plug circle alley";

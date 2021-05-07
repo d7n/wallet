@@ -1,1 +1,1 @@
-var mnemonic = "demand economy exercise prepare steel truly mandate key picnic acquire section find";
+var mnemonic = "absurd public van border awful stove detail lake quiz kind secret attitude";

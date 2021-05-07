@@ -1,1 +1,1 @@
-var mnemonic = "much reform window isolate sunny action approve addict earn dumb tube love";
+var mnemonic = "rural melt giggle layer vital they ankle merit robust better spell syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "funny tomato polar mesh follow interest bless vote iron inspire rapid ginger";
+var mnemonic = "ancient prepare light gym ball process hand prevent hood pluck resource science";

@@ -1,1 +1,1 @@
-var mnemonic = "bright spawn above tool fire mystery daring primary cool earn join wrestle";
+var mnemonic = "short friend hello upon myth hero pull urban initial best visual winter";

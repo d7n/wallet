@@ -1,1 +1,1 @@
-var mnemonic = "fury review gather spoon flee install ten develop swarm dolphin display sunny";
+var mnemonic = "method naive swap draw eye scrap resource gloom crane tip lady bacon";

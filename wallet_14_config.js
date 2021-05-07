@@ -1,1 +1,1 @@
-var mnemonic = "sail wish across flight boost mistake glimpse lunar morning auto utility gentle";
+var mnemonic = "smile advice will identify sibling guess year seven auto bamboo coin stuff";

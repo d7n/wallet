@@ -1,1 +1,1 @@
-var mnemonic = "crew kiss tilt debate cook situate message motor crash prevent ill quantum";
+var mnemonic = "basic chief success vault toss man saddle disagree green deal tide believe";

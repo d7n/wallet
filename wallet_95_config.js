@@ -1,1 +1,1 @@
-var mnemonic = "vanish trouble observe cement pill belt merge goat account chunk bone rifle";
+var mnemonic = "skull razor junk blast february exchange aspect sustain immense alert ancient lend";

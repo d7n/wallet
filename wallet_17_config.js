@@ -1,1 +1,1 @@
-var mnemonic = "midnight vibrant foam page response emerge fuel candy left woman hill milk";
+var mnemonic = "knife love gather cabbage raven narrow code boost nature capital about general";

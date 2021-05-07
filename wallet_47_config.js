@@ -1,1 +1,1 @@
-var mnemonic = "drink junk retreat bottom that bounce member envelope time near swallow cricket";
+var mnemonic = "loop length deposit cluster brand eight wrong inflict bring truth donkey impulse";

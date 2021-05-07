@@ -1,1 +1,1 @@
-var mnemonic = "share frog strike project between brother click brick virtual iron disorder advice";
+var mnemonic = "flight smart afraid cotton hundred cargo shop fiction deposit army custom extend";

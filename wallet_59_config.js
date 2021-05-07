@@ -1,1 +1,1 @@
-var mnemonic = "build interest round milk strategy cram minor lounge error embody skull garden";
+var mnemonic = "ignore curve typical rally spin case vote budget earn addict elephant sample";

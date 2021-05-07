@@ -1,1 +1,1 @@
-var mnemonic = "jealous cage meadow wagon famous iron expect call manual cream bounce tool";
+var mnemonic = "sad sing weasel once approve layer strong allow dream fruit tribe bounce";

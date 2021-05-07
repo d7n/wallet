@@ -1,1 +1,1 @@
-var mnemonic = "cry rubber absurd galaxy anchor glance congress know paddle frog join summer";
+var mnemonic = "hood ignore claim nuclear rich warm bubble fuel side join garage insect";

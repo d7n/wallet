@@ -1,1 +1,1 @@
-var mnemonic = "survey combine sing radar message bone youth tackle choice lonely pet jeans";
+var mnemonic = "miss stem quality horse media summer grid angle still lecture agree seed";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze mirror verify wedding diary say record hurdle cluster link want swing";
+var mnemonic = "dash object hole below panda captain gather walnut picture box insect leisure";

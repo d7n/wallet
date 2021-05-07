@@ -1,1 +1,1 @@
-var mnemonic = "odor skate delay reason review season dutch trophy win still visit shield";
+var mnemonic = "iron roast open marine wheel priority just rack slogan autumn bronze person";

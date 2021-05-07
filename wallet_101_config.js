@@ -1,1 +1,1 @@
-var mnemonic = "put execute lizard trick garment sustain together pudding frown limit play seminar";
+var mnemonic = "subway board curious wall chest fruit poem female firm tackle slim deer";

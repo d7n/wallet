@@ -1,1 +1,1 @@
-var mnemonic = "rocket artist reform afraid bring idle buzz flat wedding cake eagle sweet";
+var mnemonic = "dizzy nice suggest august bundle october rely evolve echo ramp onion target";
