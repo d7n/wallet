@@ -1,1 +1,1 @@
-var mnemonic = "vendor desert hurt coffee miss engage describe purse genuine install wire outside";
+var mnemonic = "card hint rich time fiscal unknown survey impulse urge harsh genius slice";

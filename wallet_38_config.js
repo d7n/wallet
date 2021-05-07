@@ -1,1 +1,1 @@
-var mnemonic = "solution indicate grain kitten mandate silk tag turn oblige razor math baby";
+var mnemonic = "first follow slight quality tortoise wait carbon toward area law tool element";

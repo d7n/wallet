@@ -1,1 +1,1 @@
-var mnemonic = "gesture steak before journey party boat festival pig wheat abuse gadget tonight";
+var mnemonic = "harsh dish frozen dove stool food truck blouse symbol matter accident crystal";

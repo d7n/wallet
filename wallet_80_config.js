@@ -1,1 +1,1 @@
-var mnemonic = "love rack urge merit october cigar build excuse opera culture baby between";
+var mnemonic = "drip emerge humble father scrub angry pizza canoe buyer panda web suspect";

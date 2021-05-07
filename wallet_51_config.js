@@ -1,1 +1,1 @@
-var mnemonic = "call desk nest property slam shoot bleak cave follow salmon motor humor";
+var mnemonic = "gate hurry vast hybrid energy middle entire enjoy purpose stereo bounce person";

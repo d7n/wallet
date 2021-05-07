@@ -1,1 +1,1 @@
-var mnemonic = "tag turkey onion message quantum various loop robust flame trigger way inquiry";
+var mnemonic = "auto author beyond exercise edge correct tomato lucky save source aspect segment";

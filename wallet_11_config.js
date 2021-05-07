@@ -1,1 +1,1 @@
-var mnemonic = "solve kiss idea art crop behave correct maple rural brother marble erosion";
+var mnemonic = "version high snap scrub immense puzzle uncle draft corn taste blur broom";

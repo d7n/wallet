@@ -1,1 +1,1 @@
-var mnemonic = "still random chase language chuckle above cannon rather offer over lyrics high";
+var mnemonic = "foster course love end warrior recycle tortoise bracket stereo witness napkin alone";

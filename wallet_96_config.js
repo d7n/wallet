@@ -1,1 +1,1 @@
-var mnemonic = "lizard rural accident timber alpha amazing language pond clarify laundry bamboo test";
+var mnemonic = "lizard neither oil action plug wrong coffee solar oil hint convince marine";

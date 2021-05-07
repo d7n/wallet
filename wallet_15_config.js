@@ -1,1 +1,1 @@
-var mnemonic = "benefit install tennis pitch enter safe pencil iron track author orange myself";
+var mnemonic = "shield draw junk airport turn sing slab frog cricket modify adapt virus";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney cheap item mix cup sketch meadow sunny flock giggle acoustic wealth";
+var mnemonic = "clerk pill bicycle language alien bike question miracle airport dwarf truck provide";

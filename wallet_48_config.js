@@ -1,1 +1,1 @@
-var mnemonic = "city impact tell bulk assault west artist garment purity auto honey actress";
+var mnemonic = "female tiny bamboo joke plunge humble sock super language already retire achieve";

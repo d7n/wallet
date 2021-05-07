@@ -1,1 +1,1 @@
-var mnemonic = "call price age rain later west muffin ribbon also boss where much";
+var mnemonic = "promote abuse pull begin syrup dizzy explain video jazz dress aware swarm";

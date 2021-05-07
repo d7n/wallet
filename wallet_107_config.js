@@ -1,1 +1,1 @@
-var mnemonic = "antenna armor cram spring arena mystery sustain rally royal sister twelve blast";
+var mnemonic = "awkward jacket south gorilla online chest mad purity foster escape cinnamon oppose";

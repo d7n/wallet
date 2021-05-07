@@ -1,1 +1,1 @@
-var mnemonic = "inside foil loud about certain dinner off spike fun scan punch once";
+var mnemonic = "abstract machine young ice bring plug stairs spider memory advance sunny popular";

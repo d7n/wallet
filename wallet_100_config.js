@@ -1,1 +1,1 @@
-var mnemonic = "guitar hundred clarify great two liberty seek tent page original hub pause";
+var mnemonic = "mountain carpet attitude addict unit other six tooth ring swap police surge";

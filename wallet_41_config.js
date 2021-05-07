@@ -1,1 +1,1 @@
-var mnemonic = "random riot concert faith smart pattern absorb rice desk leopard payment enemy";
+var mnemonic = "talent kit undo annual angle country bright argue case invite twist leg";

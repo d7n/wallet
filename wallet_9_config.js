@@ -1,1 +1,1 @@
-var mnemonic = "search alcohol during mom hero evidence crumble uniform ribbon absorb illegal sadness";
+var mnemonic = "pet purpose runway afraid hill denial crawl essay task bachelor steel hedgehog";

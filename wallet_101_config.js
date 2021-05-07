@@ -1,1 +1,1 @@
-var mnemonic = "put venture upgrade guitar burst strategy federal host lab trust honey shoot";
+var mnemonic = "defense glue melody december pottery giraffe edit high opinion slender civil box";

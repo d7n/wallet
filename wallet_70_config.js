@@ -1,1 +1,1 @@
-var mnemonic = "doctor symbol fan hair choose help oven common physical indoor excite decade";
+var mnemonic = "frame clean cupboard gadget purchase fold kite cigar absorb coin actual tuition";

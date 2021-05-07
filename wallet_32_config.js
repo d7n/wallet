@@ -1,1 +1,1 @@
-var mnemonic = "fish draw crater dog mystery bulk pledge dish soup borrow quantum pigeon";
+var mnemonic = "egg maximum spoon wash tank benefit weather genuine valley gap echo shoulder";

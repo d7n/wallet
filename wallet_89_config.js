@@ -1,1 +1,1 @@
-var mnemonic = "genuine curious hedgehog vibrant satisfy tilt picture enjoy traffic tooth sock advance";
+var mnemonic = "away disease crunch office corn below inject recycle cactus evoke clever tag";

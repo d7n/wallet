@@ -1,1 +1,1 @@
-var mnemonic = "paddle polar absent science verb churn depth transfer keen airport soup rather";
+var mnemonic = "physical hen camera this meat robust whale such glass kick often liquid";

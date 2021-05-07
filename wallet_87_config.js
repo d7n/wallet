@@ -1,1 +1,1 @@
-var mnemonic = "federal select glare media frame tornado frequent draw dust brick flag zone";
+var mnemonic = "mouse birth remind rude length endorse clever evoke humble detail happy panel";

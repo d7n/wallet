@@ -1,1 +1,1 @@
-var mnemonic = "urban hat gloom rifle finish leisure put inhale glad oppose pool crystal";
+var mnemonic = "unaware island require ride aspect helmet poverty degree churn blush face tenant";

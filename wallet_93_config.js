@@ -1,1 +1,1 @@
-var mnemonic = "motor effort fan series indicate author curtain travel girl major shoe busy";
+var mnemonic = "hen poem pole later exchange skate medal crop stem sunset ready find";

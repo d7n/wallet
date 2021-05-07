@@ -1,1 +1,1 @@
-var mnemonic = "effort script scout meat demise best nasty target few increase pact risk";
+var mnemonic = "master decorate pave situate purity tuition defy loud cheese feature giraffe elevator";

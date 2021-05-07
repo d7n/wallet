@@ -1,1 +1,1 @@
-var mnemonic = "ready zebra comic cry reopen tumble live kit plastic wealth hollow vessel";
+var mnemonic = "strong monster whale stick weasel lottery old they wrap strategy title drift";

@@ -1,1 +1,1 @@
-var mnemonic = "gather few differ inherit tornado place ability clarify volume ivory seat brisk";
+var mnemonic = "goddess pulp differ trophy empty issue kingdom forward much board pole park";

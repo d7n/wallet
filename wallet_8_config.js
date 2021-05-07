@@ -1,1 +1,1 @@
-var mnemonic = "vote surge liquid front token resource capable dentist deliver episode walk trick";
+var mnemonic = "team system debate surround derive order favorite honey engine neglect slogan divide";

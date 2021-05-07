@@ -1,1 +1,1 @@
-var mnemonic = "mosquito lonely comic wet shoulder little knee luggage body spread glass book";
+var mnemonic = "sell proud inmate behind faculty stock brisk pudding switch walnut admit journey";

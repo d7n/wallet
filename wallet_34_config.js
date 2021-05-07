@@ -1,1 +1,1 @@
-var mnemonic = "raise knife repeat sail snack warfare bracket share expire agree kitchen quantum";
+var mnemonic = "grape today unable oblige ticket toward shoe sing move unique famous clog";

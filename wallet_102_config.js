@@ -1,1 +1,1 @@
-var mnemonic = "cluster cactus plug throw husband submit elephant found sustain young ability silk";
+var mnemonic = "wheat almost nature have piece vast egg train system dinosaur slam laundry";

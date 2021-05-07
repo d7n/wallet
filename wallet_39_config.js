@@ -1,1 +1,1 @@
-var mnemonic = "make matter weapon include never phrase amazing net claw super kidney peanut";
+var mnemonic = "drip lobster box antique cannon benefit picture dose yard clap wait keep";

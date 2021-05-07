@@ -1,1 +1,1 @@
-var mnemonic = "leopard pipe agent speak minimum main smooth vapor pear metal key special";
+var mnemonic = "meat balance demand evoke own speak setup imitate million domain holiday dentist";

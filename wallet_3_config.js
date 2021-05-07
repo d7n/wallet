@@ -1,1 +1,1 @@
-var mnemonic = "success pull matter high glad copper retire life busy couch leg novel";
+var mnemonic = "put fluid mandate casino amused discover dilemma depend account will craft silk";

@@ -1,1 +1,1 @@
-var mnemonic = "bag roast purse world oppose evolve safe juice holiday subway dish suffer";
+var mnemonic = "play leg minimum kind razor speed token journey worry obscure traffic pudding";

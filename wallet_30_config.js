@@ -1,1 +1,1 @@
-var mnemonic = "dust witness poverty allow toe vast relax start heart humble taste use";
+var mnemonic = "stool bullet cabin chicken notice heart warrior rate lecture toy october girl";

@@ -1,1 +1,1 @@
-var mnemonic = "slide limit punch call reunion actual sound this glimpse slim alter mobile";
+var mnemonic = "cause current height toe ride vehicle crush this goat ensure inject couple";

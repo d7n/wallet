@@ -1,1 +1,1 @@
-var mnemonic = "lunar fossil gossip subway intact disagree foam violin orphan segment network child";
+var mnemonic = "weasel lab youth come street cover remind victory speed obvious world coach";

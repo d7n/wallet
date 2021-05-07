@@ -1,1 +1,1 @@
-var mnemonic = "brown radio position during next ask machine gorilla trouble lion snack gasp";
+var mnemonic = "unveil side march elbow will choice wish meat very expose flush memory";

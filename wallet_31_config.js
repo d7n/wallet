@@ -1,1 +1,1 @@
-var mnemonic = "sausage orbit cinnamon sail hybrid inject rib blanket add enter puppy opinion";
+var mnemonic = "either will invite soda drama opinion corn blue library famous stone scheme";

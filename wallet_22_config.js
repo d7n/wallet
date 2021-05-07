@@ -1,1 +1,1 @@
-var mnemonic = "dose audit shaft trouble episode enhance jeans forum proof hold wise van";
+var mnemonic = "pencil melt hen banner label toast arch fancy fade enforce lazy extend";

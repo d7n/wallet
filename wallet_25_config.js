@@ -1,1 +1,1 @@
-var mnemonic = "work pencil bamboo floor try imitate retreat elbow rhythm canvas magnet together";
+var mnemonic = "doctor annual boil chronic advance cruise coral wise winter hockey family olympic";

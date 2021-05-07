@@ -1,1 +1,1 @@
-var mnemonic = "mobile wish keen pottery glare captain degree keep aerobic own island trouble";
+var mnemonic = "limb beauty tobacco glory youth often file robust huge tuna boss rely";

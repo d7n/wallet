@@ -1,1 +1,1 @@
-var mnemonic = "mom rack off wise olympic else certain island cook prefer damp wide";
+var mnemonic = "recall orient tongue ill dumb cube museum other crop rival cream water";

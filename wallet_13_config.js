@@ -1,1 +1,1 @@
-var mnemonic = "leader jelly initial desk tooth produce smoke weather machine equip notable then";
+var mnemonic = "flower direct rose renew moral panel aisle leaf parade stove fitness bundle";

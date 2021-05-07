@@ -1,1 +1,1 @@
-var mnemonic = "move hunt reveal square thought orient bike boring tobacco awesome have dirt";
+var mnemonic = "print original typical gold urge fantasy enough frozen proud yellow close submit";

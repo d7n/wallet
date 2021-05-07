@@ -1,1 +1,1 @@
-var mnemonic = "neck best proof innocent armed ribbon census sort deputy aim tattoo script";
+var mnemonic = "force twenty pill ivory mammal tape fix unable train network enroll surprise";

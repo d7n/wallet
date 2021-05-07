@@ -1,1 +1,1 @@
-var mnemonic = "cluster defense struggle grit rule crane battle typical winner club cloud dial";
+var mnemonic = "uphold brick merge come clay artefact spirit drum dish truly chicken burst";

@@ -1,1 +1,1 @@
-var mnemonic = "message tomato another write infant kite pear couple language voyage vessel photo";
+var mnemonic = "middle march echo exercise hockey month glue mango afraid property skirt hockey";

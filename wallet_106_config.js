@@ -1,1 +1,1 @@
-var mnemonic = "strategy call must video desk normal mirror opera front differ boat earth";
+var mnemonic = "disorder impose enable mystery beyond arch excite tail cloth rare coral quarter";

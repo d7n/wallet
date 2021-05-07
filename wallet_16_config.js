@@ -1,1 +1,1 @@
-var mnemonic = "lab dutch ketchup limit sand fog promote write unfold vault toast venture";
+var mnemonic = "price chest advance pelican spend warm country certain risk bullet unit ranch";

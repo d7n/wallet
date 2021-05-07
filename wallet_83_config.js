@@ -1,1 +1,1 @@
-var mnemonic = "sudden prize upon access tragic want fee garlic rocket ensure fox love";
+var mnemonic = "trumpet valve diet jazz session gauge blanket deliver cycle shoulder robot similar";

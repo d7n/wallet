@@ -1,1 +1,1 @@
-var mnemonic = "tragic trade nuclear gaze item left goose distance disagree tourist sunset grid";
+var mnemonic = "vendor shaft link crack legend brass crowd swarm expand garage feature weapon";

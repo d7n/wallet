@@ -1,1 +1,1 @@
-var mnemonic = "find stadium chef sell ginger rescue easy cycle neutral below trophy room";
+var mnemonic = "fashion glad resource excuse wall dial repair shuffle reunion risk squeeze hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow dance depart hat tissue assault magic deliver steel file advice swap";
+var mnemonic = "write scrub eyebrow bind kite relax manual erase elder aerobic dutch mix";

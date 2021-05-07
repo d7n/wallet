@@ -1,1 +1,1 @@
-var mnemonic = "dawn knife today attract ask process typical tonight social omit slight rural";
+var mnemonic = "exact boost fruit brave version alpha time shaft into another month zoo";

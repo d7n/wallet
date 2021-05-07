@@ -1,1 +1,1 @@
-var mnemonic = "extra require sniff toe mix media table sketch skate night rookie puzzle";
+var mnemonic = "omit bean elder diagram disease priority solution mind seek daughter worth pill";

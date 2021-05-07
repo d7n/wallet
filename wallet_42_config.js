@@ -1,1 +1,1 @@
-var mnemonic = "whisper denial focus select stereo air conduct axis behind dune silk accuse";
+var mnemonic = "below antenna legal culture canoe vault maximum harbor fatigue deny market fluid";

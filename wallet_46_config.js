@@ -1,1 +1,1 @@
-var mnemonic = "harsh remember decade bird volume fury attack exit hint media best rule";
+var mnemonic = "leader oak father century blur pave tomato brass luxury common usual arch";

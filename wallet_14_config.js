@@ -1,1 +1,1 @@
-var mnemonic = "stay arrow sausage tool consider property jar slab rack medal control market";
+var mnemonic = "mesh bag scrub during crater unfold square moon kit latin quote away";

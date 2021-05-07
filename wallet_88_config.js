@@ -1,1 +1,1 @@
-var mnemonic = "before engine update midnight dutch tank super hotel immune thumb tent universe";
+var mnemonic = "bleak caution brother oppose letter subway result doctor rotate brass horror abstract";

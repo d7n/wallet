@@ -1,1 +1,1 @@
-var mnemonic = "burst swallow science crowd rare hire burst neutral cluster protect sustain artefact";
+var mnemonic = "reason wall vacuum hawk drink inform duck vital fiscal half sell unique";

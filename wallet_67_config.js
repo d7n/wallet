@@ -1,1 +1,1 @@
-var mnemonic = "excess chuckle ecology flag cradle miracle apple news slush world fringe sell";
+var mnemonic = "fatigue dove chunk novel satisfy alley patch giraffe move glare unknown much";

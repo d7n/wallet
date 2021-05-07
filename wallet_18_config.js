@@ -1,1 +1,1 @@
-var mnemonic = "fence ceiling chief certain art gas once stone license heavy awake cargo";
+var mnemonic = "solve galaxy turtle unveil dial club draw pride sick kit ritual truly";

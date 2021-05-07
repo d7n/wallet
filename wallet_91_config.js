@@ -1,1 +1,1 @@
-var mnemonic = "throw erosion quarter anger nest length sure receive random amateur raw alley";
+var mnemonic = "hole flag twelve dilemma genius night venue duck saddle speed invite empty";

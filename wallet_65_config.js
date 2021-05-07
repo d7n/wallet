@@ -1,1 +1,1 @@
-var mnemonic = "strong critic few entry valley baby maple flush office sibling bulk deal";
+var mnemonic = "tongue unfair napkin robot barrel spike recipe brave ability fog resemble twenty";

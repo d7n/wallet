@@ -1,1 +1,1 @@
-var mnemonic = "stem food inquiry peanut milk together when tuna garlic skill vocal gain";
+var mnemonic = "predict glory era sleep injury document citizen economy normal mother sing crash";

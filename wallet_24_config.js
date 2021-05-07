@@ -1,1 +1,1 @@
-var mnemonic = "pepper champion island appear aunt shock observe expect announce once gaze resist";
+var mnemonic = "visa mushroom unusual child spot nice scout tide holiday genius blood three";

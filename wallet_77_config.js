@@ -1,1 +1,1 @@
-var mnemonic = "job analyst together income awesome time clap universe silent off swear cancel";
+var mnemonic = "embody bargain east frozen nature execute typical over trade inside impulse cost";

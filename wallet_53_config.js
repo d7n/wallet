@@ -1,1 +1,1 @@
-var mnemonic = "spend kiwi version fire speak kind fly rough bridge jelly view link";
+var mnemonic = "rabbit library spend coral matter code aware butter mind era width october";

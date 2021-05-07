@@ -1,1 +1,1 @@
-var mnemonic = "coconut print addict elegant visual parade slab rival dolphin orange zone cupboard";
+var mnemonic = "crash when vital capital nature impulse swarm sister sudden adjust auction laptop";

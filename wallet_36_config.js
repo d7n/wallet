@@ -1,1 +1,1 @@
-var mnemonic = "lamp equal travel plastic inquiry monster stadium install enough chuckle myth model";
+var mnemonic = "dirt arm wire vast valid peasant spread deposit lift easily affair shoot";

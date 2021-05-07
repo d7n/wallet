@@ -1,1 +1,1 @@
-var mnemonic = "type shop field half mom often flavor snap easily bring baby soldier";
+var mnemonic = "round picnic nuclear tonight message sadness neck shaft hour prize ugly seek";

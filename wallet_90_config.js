@@ -1,1 +1,1 @@
-var mnemonic = "wife wool diamond pizza intact woman exit embark gadget before leopard loop";
+var mnemonic = "glove blur ketchup layer dress elephant boil student shell enact stay inherit";

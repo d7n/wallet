@@ -1,1 +1,1 @@
-var mnemonic = "drift salt stuff ivory letter donkey burden woman meadow nothing click february";
+var mnemonic = "sphere robot typical before elevator year trumpet ill bone lift deny nothing";

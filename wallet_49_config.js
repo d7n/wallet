@@ -1,1 +1,1 @@
-var mnemonic = "clump cactus visit buyer rent youth tag journey left runway bounce prison";
+var mnemonic = "shy melody kit allow tortoise afraid master coffee rocket picnic luggage whisper";

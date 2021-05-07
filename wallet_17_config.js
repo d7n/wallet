@@ -1,1 +1,1 @@
-var mnemonic = "kiwi neutral laptop mountain elegant donkey gallery novel west sad rate salon";
+var mnemonic = "photo police neck guess shop faint vivid mountain mad lend radio good";

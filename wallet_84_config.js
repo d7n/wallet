@@ -1,1 +1,1 @@
-var mnemonic = "material combine gun canvas actress illegal gym spatial height amused actual diamond";
+var mnemonic = "base orphan harbor cereal penalty engine tuition wire plunge magnet return car";

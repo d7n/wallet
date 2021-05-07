@@ -1,1 +1,1 @@
-var mnemonic = "husband damp bird step spy cabbage thumb jacket purity recall trap glad";
+var mnemonic = "myth fashion team awful sell coil runway method vague fee fix hair";

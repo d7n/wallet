@@ -1,1 +1,1 @@
-var mnemonic = "aerobic rain visa try velvet collect alter chief point river pig use";
+var mnemonic = "stadium cluster visit inner tag trigger little usage kiwi wine wet bright";

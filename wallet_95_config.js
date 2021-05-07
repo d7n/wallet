@@ -1,1 +1,1 @@
-var mnemonic = "screen riot offer horn dwarf armor thought glue forest host argue recycle";
+var mnemonic = "emerge foot vocal drama valid moral rebuild cake school equal daughter alone";

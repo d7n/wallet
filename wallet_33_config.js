@@ -1,1 +1,1 @@
-var mnemonic = "imitate convince boy keen place cram dirt clarify cash mule seven exchange";
+var mnemonic = "survey else brother match win peasant enrich pelican dose reveal whip muscle";

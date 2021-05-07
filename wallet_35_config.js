@@ -1,1 +1,1 @@
-var mnemonic = "glue joke pear scout claw zone hood bird talent silver sniff wrist";
+var mnemonic = "inside knock invite shed useless fall load scale avoid friend wise suit";

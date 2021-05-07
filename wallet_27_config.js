@@ -1,1 +1,1 @@
-var mnemonic = "athlete wife city flag mandate release elbow tomato usual course sheriff crawl";
+var mnemonic = "run nut globe faith punch birth hybrid loyal pretty charge swamp civil";

@@ -1,1 +1,1 @@
-var mnemonic = "fatal buffalo split verb luxury menu budget whip song excess glad nest";
+var mnemonic = "cool all during zebra vintage gain table bone club dignity ankle sign";

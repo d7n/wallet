@@ -1,1 +1,1 @@
-var mnemonic = "reveal steak guard force boy thrive decline imitate ocean advice mesh chair";
+var mnemonic = "today tide correct local train assist noble witness exhibit provide force river";

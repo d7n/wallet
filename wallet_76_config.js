@@ -1,1 +1,1 @@
-var mnemonic = "funny silver fluid rice elbow picture juice real skull piano leader amateur";
+var mnemonic = "test wise leg recipe fury worth peace robot palm popular among stem";

@@ -1,1 +1,1 @@
-var mnemonic = "issue autumn action guitar urge virus rally pyramid situate leave usage fence";
+var mnemonic = "tongue reopen patient dad furnace laugh depth diary begin asset argue permit";

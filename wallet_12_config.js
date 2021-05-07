@@ -1,1 +1,1 @@
-var mnemonic = "beach base yellow neck aisle absurd giggle switch else enact blast install";
+var mnemonic = "first cheese armed second hazard kitchen rail smart few build mule old";
