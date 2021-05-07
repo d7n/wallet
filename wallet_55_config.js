@@ -1,1 +1,1 @@
-var mnemonic = "ramp fancy this faculty weather pottery bleak edit script antique uphold simple";
+var mnemonic = "actor item canoe circle spy combine cable aisle sauce tortoise entry seed";

@@ -1,1 +1,1 @@
-var mnemonic = "twin address basket express purchase dog olive cloud crisp smart poem tackle";
+var mnemonic = "vault faith roast raccoon ask fire ribbon typical coach matter moral punch";

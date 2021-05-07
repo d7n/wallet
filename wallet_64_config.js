@@ -1,1 +1,1 @@
-var mnemonic = "leaf bone gorilla member morning lamp oppose raw wheel news flip roof";
+var mnemonic = "input mansion sunny grape syrup nerve sunset castle around inform save flock";

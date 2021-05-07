@@ -1,1 +1,1 @@
-var mnemonic = "vintage broom slice potato cliff vanish south unaware lens horn stairs owner";
+var mnemonic = "slush conduct deny raven trouble shrimp surface answer raw rude arrive profit";

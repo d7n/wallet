@@ -1,1 +1,1 @@
-var mnemonic = "foam donor clay slice deliver satoshi base unveil puzzle unable olive ecology";
+var mnemonic = "author field panda unique twice venture moment inject excite skull elegant inch";

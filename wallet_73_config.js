@@ -1,1 +1,1 @@
-var mnemonic = "cabin actor empty combine edge web meadow blood happy arrive advice rather";
+var mnemonic = "agree check twice hint now enable punch ride uncover huge eight learn";

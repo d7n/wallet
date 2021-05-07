@@ -1,1 +1,1 @@
-var mnemonic = "civil relax kid shrug invest one wrestle clown boss brown suit scatter";
+var mnemonic = "lion film boat now diamond giggle dove fault deer dismiss nasty trust";

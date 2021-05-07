@@ -1,1 +1,1 @@
-var mnemonic = "glimpse boss math valley barrel recipe situate six leaf require stove key";
+var mnemonic = "language umbrella fix regret hair pet bundle right total mean artist spike";

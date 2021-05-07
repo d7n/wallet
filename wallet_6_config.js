@@ -1,1 +1,1 @@
-var mnemonic = "obvious mistake swarm nuclear pond text bean speed estate custom real fancy";
+var mnemonic = "harbor clip soft label obscure manual found wonder garbage country winter youth";

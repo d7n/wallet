@@ -1,1 +1,1 @@
-var mnemonic = "army scale couch brush seed join finger document promote sad beach riot";
+var mnemonic = "plate trim saddle destroy remain spell mutual dice around tongue agree manage";

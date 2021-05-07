@@ -1,1 +1,1 @@
-var mnemonic = "snack inside mosquito much future adjust task auto dog web armed vault";
+var mnemonic = "reopen mirror domain about month mouse pudding entry major eagle blanket spirit";

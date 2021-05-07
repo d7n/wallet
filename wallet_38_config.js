@@ -1,1 +1,1 @@
-var mnemonic = "found cabin stairs prefer boss state jar abuse orange chicken artefact behind";
+var mnemonic = "innocent web orient route train small feature ghost fruit slow lamp limit";

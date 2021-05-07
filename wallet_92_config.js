@@ -1,1 +1,1 @@
-var mnemonic = "deposit twice piece friend eyebrow lottery toilet gate angry athlete fly cabin";
+var mnemonic = "harbor awake also silver domain flock upon almost effort hover damage silent";

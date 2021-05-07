@@ -1,1 +1,1 @@
-var mnemonic = "monkey usage dove upper misery garbage merge vast spider ticket promote ceiling";
+var mnemonic = "material know subject just celery anxiety have sketch forum equip artwork like";

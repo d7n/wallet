@@ -1,1 +1,1 @@
-var mnemonic = "scissors liberty scale bid defy wife warfare addict thought cruise topple paddle";
+var mnemonic = "six sorry detect panic snow fat depart notice dentist excuse kiss remind";

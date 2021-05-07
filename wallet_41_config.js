@@ -1,1 +1,1 @@
-var mnemonic = "visa short engage kite erode snow own citizen garbage only same indoor";
+var mnemonic = "arm runway cousin ten dinner arch there unveil razor inmate tuna tomato";

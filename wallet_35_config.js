@@ -1,1 +1,1 @@
-var mnemonic = "matter adapt buddy frost pupil word tip enter visit coin rich horror";
+var mnemonic = "novel common barrel canvas drop rally arctic concert dash student celery stool";

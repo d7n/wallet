@@ -1,1 +1,1 @@
-var mnemonic = "simple sunset consider average usage certain tackle father jar crew toss resist";
+var mnemonic = "fee thrive sing damp timber track protect illness scrap decide color enrich";

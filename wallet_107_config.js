@@ -1,1 +1,1 @@
-var mnemonic = "simple swap horror sense work carbon sudden learn chase attack armed ordinary";
+var mnemonic = "brick worth expect sense wet case fame mix engage east alert loyal";

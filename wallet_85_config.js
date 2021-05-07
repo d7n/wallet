@@ -1,1 +1,1 @@
-var mnemonic = "web harvest enact town age tuition sheriff deputy essence stay grief develop";
+var mnemonic = "fall normal orange gym inside hybrid trigger then kitten answer dress slogan";

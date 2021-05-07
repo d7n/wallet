@@ -1,1 +1,1 @@
-var mnemonic = "approve harsh ability luxury frame tomorrow clutch digital embody venue tobacco unhappy";
+var mnemonic = "once illegal truly wish dove limb butter promote blood snack apart pitch";

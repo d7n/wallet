@@ -1,1 +1,1 @@
-var mnemonic = "member change believe torch minute master alpha banner project hockey submit safe";
+var mnemonic = "adjust tilt profit water travel burger food smart noodle object label length";

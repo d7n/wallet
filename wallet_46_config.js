@@ -1,1 +1,1 @@
-var mnemonic = "together dune ghost art roof faculty dial leisure chicken dragon awake helmet";
+var mnemonic = "slight eyebrow hero citizen notice kitten audit protect sustain plunge load abstract";

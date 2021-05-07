@@ -1,1 +1,1 @@
-var mnemonic = "soap maple cram stock icon bargain nuclear cattle lumber fashion leg loan";
+var mnemonic = "dream dawn device tail switch ivory gun silver antenna life away obscure";

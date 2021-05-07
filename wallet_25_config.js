@@ -1,1 +1,1 @@
-var mnemonic = "shield slot essence teach shadow pill sweet roof umbrella borrow luggage helmet";
+var mnemonic = "twin exchange note page phrase random amazing device clay true alone inmate";

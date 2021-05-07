@@ -1,1 +1,1 @@
-var mnemonic = "audit short fringe sick myth garage remember kingdom output alley token destroy";
+var mnemonic = "stomach knife sight clump make daring dice bulb barely police mirror nose";

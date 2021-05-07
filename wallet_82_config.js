@@ -1,1 +1,1 @@
-var mnemonic = "price fame dirt month pride section laundry visit claim street finger proof";
+var mnemonic = "virtual fun duty timber dinner spider resemble worth term matter portion funny";

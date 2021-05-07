@@ -1,1 +1,1 @@
-var mnemonic = "muffin barrel tiny possible leopard input maze harvest bullet blue mixture seat";
+var mnemonic = "alert cigar sentence token sheriff unfold elevator congress wise pipe enlist bicycle";

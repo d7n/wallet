@@ -1,1 +1,1 @@
-var mnemonic = "sponsor learn rural copy alter cool clock subway profit deliver cancel hard";
+var mnemonic = "cotton shaft jump this economy club fossil front arch blast shock mad";

@@ -1,1 +1,1 @@
-var mnemonic = "tag strike spider gauge kite rich settle stool police glance science month";
+var mnemonic = "move moon bind pizza rescue weapon patrol what casino exclude ritual depend";

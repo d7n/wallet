@@ -1,1 +1,1 @@
-var mnemonic = "skirt injury sword paper boat kid special mystery act fame flash match";
+var mnemonic = "balance cram health trim auto true dress health mother task spell joke";

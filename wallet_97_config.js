@@ -1,1 +1,1 @@
-var mnemonic = "picnic host harbor best cushion skin weird soccer aunt ostrich road rotate";
+var mnemonic = "place curve link birth jazz decrease wisdom clarify bid enhance amount seven";

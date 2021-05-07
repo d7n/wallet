@@ -1,1 +1,1 @@
-var mnemonic = "drink equal air clean volcano unaware feel author alien rigid canoe cherry";
+var mnemonic = "media renew saddle expose crumble foam tribe pear ten polar tuna force";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon fluid peasant usage eyebrow portion region tourist base spoil small slam";
+var mnemonic = "verify height joy repair soft price ripple until enforce base robust believe";

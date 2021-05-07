@@ -1,1 +1,1 @@
-var mnemonic = "tide moral exotic miss deposit night ocean gadget sausage honey truth dawn";
+var mnemonic = "unknown grocery arrive vehicle orbit cruel praise connect public total quick bridge";

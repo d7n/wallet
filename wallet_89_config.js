@@ -1,1 +1,1 @@
-var mnemonic = "able angle mind olive blanket egg injury apology skirt ice nuclear tank";
+var mnemonic = "arena put unhappy rail stairs virus vibrant crawl verify slab radar code";

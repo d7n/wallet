@@ -1,1 +1,1 @@
-var mnemonic = "major cruel water excite local final shuffle rare exit debris promote effort";
+var mnemonic = "green tenant smile gentle base copper diagram minimum gap vendor horn blouse";

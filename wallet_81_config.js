@@ -1,1 +1,1 @@
-var mnemonic = "normal nerve scheme affair stem since aspect cluster apart steel merit grace";
+var mnemonic = "device lunch lawn nation often profit inside note head bonus avocado evidence";

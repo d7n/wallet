@@ -1,1 +1,1 @@
-var mnemonic = "kingdom choose win sail express survey island lobster female satoshi bus present";
+var mnemonic = "census actor car bright surface notice weekend shield prepare theory dish assault";

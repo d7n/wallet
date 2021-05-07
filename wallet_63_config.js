@@ -1,1 +1,1 @@
-var mnemonic = "update legal license tape wrist clever ten amazing bar rely name piano";
+var mnemonic = "knee liberty easily pony quiz angry type once flee alarm behave fun";

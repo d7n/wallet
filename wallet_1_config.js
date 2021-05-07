@@ -1,1 +1,1 @@
-var mnemonic = "document dove remember coral home recycle admit pledge sea tray taste recycle";
+var mnemonic = "margin grocery assist apart dad lamp hard obscure toast suspect junior trick";

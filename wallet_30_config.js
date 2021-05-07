@@ -1,1 +1,1 @@
-var mnemonic = "miss idea voice tackle tiger dinosaur fiber across narrow toward human account";
+var mnemonic = "grace cabbage cause nut leader river crew expand venue axis agree merit";

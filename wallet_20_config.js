@@ -1,1 +1,1 @@
-var mnemonic = "romance friend domain guilt indoor scene foster absurd cause often village exhibit";
+var mnemonic = "sound mixed stereo almost napkin segment tortoise century craft sea dragon deputy";

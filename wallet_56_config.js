@@ -1,1 +1,1 @@
-var mnemonic = "protect tent drop off catalog used basket thumb sphere biology input infant";
+var mnemonic = "donkey diamond noble impact jar ozone can lunch grant grab basic siege";

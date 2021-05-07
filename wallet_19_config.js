@@ -1,1 +1,1 @@
-var mnemonic = "question boy curtain odor runway canoe stove gesture walnut learn potato month";
+var mnemonic = "major giant risk ensure certain satisfy spirit thrive appear toast stock ridge";

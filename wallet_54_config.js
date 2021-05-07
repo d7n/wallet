@@ -1,1 +1,1 @@
-var mnemonic = "minor hope glad buzz reopen host lottery arrest oblige open casual daring";
+var mnemonic = "correct forward rigid noise tortoise wrong fashion plastic choose call tube weekend";

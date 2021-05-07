@@ -1,1 +1,1 @@
-var mnemonic = "around mammal icon decide daring task festival estate gap below unknown piano";
+var mnemonic = "wrist valve decline enjoy tragic range toilet fly soup dismiss all merry";

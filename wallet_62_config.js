@@ -1,1 +1,1 @@
-var mnemonic = "sponsor pave phone inspire elite normal opera rare three acquire initial position";
+var mnemonic = "gate clarify simple congress arrest glow future cement cook merge where holiday";

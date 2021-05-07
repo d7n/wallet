@@ -1,1 +1,1 @@
-var mnemonic = "doll doll one boat outdoor rebel swift pretty elbow session town perfect";
+var mnemonic = "auto leave pool crystal click prefer favorite pizza intact cabbage cruel media";

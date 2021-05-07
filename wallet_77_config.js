@@ -1,1 +1,1 @@
-var mnemonic = "refuse guess chaos fever accident cheese convince work fancy kid fiscal faculty";
+var mnemonic = "family atom update erase onion chef parrot solution view rose during unknown";

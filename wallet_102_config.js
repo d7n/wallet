@@ -1,1 +1,1 @@
-var mnemonic = "stage car season cricket plug kidney order crane moral hammer supply bean";
+var mnemonic = "old chuckle sword cannon vintage special flee problem portion furnace term slab";

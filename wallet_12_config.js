@@ -1,1 +1,1 @@
-var mnemonic = "silent oak enter caught oxygen wheat joy wash update eagle best load";
+var mnemonic = "humor total toilet universe virus napkin wheat doctor chief walk ribbon champion";

@@ -1,1 +1,1 @@
-var mnemonic = "false column car work enter tennis cupboard more crack eight eternal figure";
+var mnemonic = "submit canal panda element wild wife panic alley antenna urban annual run";

@@ -1,1 +1,1 @@
-var mnemonic = "patient arm dad vast federal early swear axis grape resemble spider barely";
+var mnemonic = "wall seven fish rich shiver snake hunt today grape project live fame";

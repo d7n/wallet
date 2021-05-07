@@ -1,1 +1,1 @@
-var mnemonic = "smile flame solar fork tuna impact vast rice clip master turkey nurse";
+var mnemonic = "lumber notable learn essence praise ahead cloud call armed journey globe budget";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin prosper flight rare wide fatal beach attract position expect lawsuit logic";
+var mnemonic = "process tail steak online control reward slide curious laundry arrive blast year";

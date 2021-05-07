@@ -1,1 +1,1 @@
-var mnemonic = "success eager broom hospital mobile major beauty skirt expect carry seed bar";
+var mnemonic = "satoshi item wild chunk choose noble muffin bread picture other mansion stem";

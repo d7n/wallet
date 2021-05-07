@@ -1,1 +1,1 @@
-var mnemonic = "layer prison lake peanut similar nose illness quote ugly frame settle venture";
+var mnemonic = "car step liar taste absorb patrol fury ankle crop walnut boy toss";

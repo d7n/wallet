@@ -1,1 +1,1 @@
-var mnemonic = "noble marine extend expand neck pause sibling buyer echo surprise foil grief";
+var mnemonic = "kid fluid ignore shine put profit apple say build adapt festival ghost";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage army aspect sugar horn prevent render venue surprise behave merit future";
+var mnemonic = "burger supreme unfair hover party explain fiction lemon hurdle friend faith earn";

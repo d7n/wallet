@@ -1,1 +1,1 @@
-var mnemonic = "diagram faith twenty human cat domain slim journey unfair uncover prepare congress";
+var mnemonic = "tail black cigar music random leave carpet idle design radio awake coin";

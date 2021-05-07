@@ -1,1 +1,1 @@
-var mnemonic = "invite ring connect away punch love isolate lucky transfer tree start apology";
+var mnemonic = "cry report tackle purpose month civil foil peace steak chest unit exhaust";

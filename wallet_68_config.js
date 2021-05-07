@@ -1,1 +1,1 @@
-var mnemonic = "sniff atom fiscal fun federal vapor equip settle leopard inhale face fade";
+var mnemonic = "yellow across inch phrase enjoy video summer select dune cloud social receive";

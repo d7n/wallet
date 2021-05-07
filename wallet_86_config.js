@@ -1,1 +1,1 @@
-var mnemonic = "kiss film jar draft resemble neither boat caught chef double trade heart";
+var mnemonic = "hamster decade police spend boring gown bullet beach write hip muscle marble";

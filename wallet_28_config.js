@@ -1,1 +1,1 @@
-var mnemonic = "attitude kitten october crisp theory agent fee wood wisdom drip mail exact";
+var mnemonic = "day piece away observe blue regular affair spawn elbow core broom educate";

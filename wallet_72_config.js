@@ -1,1 +1,1 @@
-var mnemonic = "bacon fancy lens baby into tomato spell beef sort moon disease story";
+var mnemonic = "increase member song tower speed switch panic drive wrap aware connect mesh";

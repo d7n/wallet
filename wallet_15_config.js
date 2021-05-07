@@ -1,1 +1,1 @@
-var mnemonic = "gown absent donor double rely include upper disagree hip stadium dish inform";
+var mnemonic = "finger awesome urban share culture cradle way family lock control saddle affair";

@@ -1,1 +1,1 @@
-var mnemonic = "latin welcome tooth clarify nest glance true dust receive spare depart poet";
+var mnemonic = "observe call near creek frown april peace sword ranch simple inhale cereal";

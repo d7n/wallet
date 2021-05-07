@@ -1,1 +1,1 @@
-var mnemonic = "truth rack permit tuition found liberty unknown coyote betray scissors good first";
+var mnemonic = "spike scorpion foster mango language tunnel amazing clay patrol gate about episode";

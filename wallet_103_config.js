@@ -1,1 +1,1 @@
-var mnemonic = "mushroom phrase nothing post truly rescue remember sand man fire level census";
+var mnemonic = "frozen problem regular awake become erosion fox box peasant situate strong input";

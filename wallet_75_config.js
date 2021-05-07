@@ -1,1 +1,1 @@
-var mnemonic = "desk equip gap inspire success wide cradle gallery real rotate sketch common";
+var mnemonic = "drum travel shoe miss little unusual science awake jazz kit butter novel";

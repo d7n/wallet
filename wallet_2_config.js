@@ -1,1 +1,1 @@
-var mnemonic = "reject menu cliff organ stock mushroom mesh civil girl husband patrol pride";
+var mnemonic = "trap state favorite fence suit swarm thank warm stay ten basic rug";

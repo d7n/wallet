@@ -1,1 +1,1 @@
-var mnemonic = "reunion spawn tissue excite remove ski winner man pool move device shop";
+var mnemonic = "few color organ flavor swamp neck control cruel hockey trial skull slice";

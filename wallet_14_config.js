@@ -1,1 +1,1 @@
-var mnemonic = "space mechanic reason bus fit foam hair borrow resource pink thing mountain";
+var mnemonic = "soldier alien embody grunt return remain kid fork powder night draft target";

@@ -1,1 +1,1 @@
-var mnemonic = "injury spawn fiscal upon clay alpha grocery sing margin dinner inquiry fatal";
+var mnemonic = "shed employ ketchup reunion tuna hurdle behind crash flush tuna caution sign";

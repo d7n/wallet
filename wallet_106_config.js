@@ -1,1 +1,1 @@
-var mnemonic = "bracket fragile recipe spoon manage title pen rebel guide entry tiny prepare";
+var mnemonic = "wide mosquito typical divide jealous stick core legend syrup any few leisure";

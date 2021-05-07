@@ -1,1 +1,1 @@
-var mnemonic = "neck deal nominee glass erode razor reduce monitor car erase monkey broken";
+var mnemonic = "come guilt protect nurse upon nerve flavor palace obey cost school season";

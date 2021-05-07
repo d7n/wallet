@@ -1,1 +1,1 @@
-var mnemonic = "settle horror regular scheme bronze blossom chef horse grit calm pet dish";
+var mnemonic = "cool struggle trophy pledge hill cave strike tissue giggle dish lazy silk";

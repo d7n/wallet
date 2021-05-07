@@ -1,1 +1,1 @@
-var mnemonic = "margin oven damp damp index window salad ring put into practice fault";
+var mnemonic = "person open finish develop daring sword waste ramp develop oxygen twist erase";

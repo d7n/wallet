@@ -1,1 +1,1 @@
-var mnemonic = "later close weasel harsh victory dilemma link clerk link remember wrist march";
+var mnemonic = "never discover fork barely paddle turn duck goat bus century poem brief";

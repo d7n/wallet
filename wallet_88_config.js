@@ -1,1 +1,1 @@
-var mnemonic = "nut unaware chair high obey plastic thing tumble shrug false garlic dynamic";
+var mnemonic = "edit relax caught fresh seven call outer asthma retire anchor nice profit";

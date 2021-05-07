@@ -1,1 +1,1 @@
-var mnemonic = "insane wolf gym cliff fetch student review skill expire divert visual gauge";
+var mnemonic = "flight monitor major unit rubber accident report wrap tomorrow tray become simple";

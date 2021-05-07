@@ -1,1 +1,1 @@
-var mnemonic = "risk cash maze target unhappy tilt wash stem drift tribe twelve august";
+var mnemonic = "puzzle hollow earn defense tube couch teach hope attack hire battle torch";

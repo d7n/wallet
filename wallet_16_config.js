@@ -1,1 +1,1 @@
-var mnemonic = "memory permit sure pipe place real strike desert garlic endorse duty movie";
+var mnemonic = "odor rotate riot wall slush flat velvet believe predict daring lunch old";

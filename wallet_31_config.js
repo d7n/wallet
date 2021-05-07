@@ -1,1 +1,1 @@
-var mnemonic = "upon bargain trial action scissors lake outside flock thrive tip siren tag";
+var mnemonic = "category print stem expire three recall hire tumble cube slab climb praise";

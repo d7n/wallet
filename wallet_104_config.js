@@ -1,1 +1,1 @@
-var mnemonic = "trim crime online mule still arrange fan napkin turtle main feature half";
+var mnemonic = "unveil online baby vacuum very host simple reveal rely arch drama kite";
