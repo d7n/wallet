@@ -1,1 +1,1 @@
-var mnemonic = "frame candy system roof shiver wild mixture because flower gospel often volcano";
+var mnemonic = "apart unusual neither turn inmate leg pulse until rely aisle useful proof";

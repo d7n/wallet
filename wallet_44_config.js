@@ -1,1 +1,1 @@
-var mnemonic = "affair east exhibit metal snack cup transfer hat other wisdom give wisdom";
+var mnemonic = "creek add pupil unlock shift tool shiver review forget door master discover";

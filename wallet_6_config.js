@@ -1,1 +1,1 @@
-var mnemonic = "bounce olympic royal series ship acoustic already bright inspire spot toilet machine";
+var mnemonic = "example host sell mom clip erosion vacuum bike about immune code humor";

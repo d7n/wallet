@@ -1,1 +1,1 @@
-var mnemonic = "assault clog visa noble oppose only wet proof senior demand quick mechanic";
+var mnemonic = "lesson word point stadium obvious apple walk hip twenty major tribe caution";

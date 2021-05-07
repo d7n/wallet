@@ -1,1 +1,1 @@
-var mnemonic = "divorce velvet actor atom horn park message myth region soul angry absent";
+var mnemonic = "muscle slush broken govern whisper feed youth enroll caution range prevent mandate";

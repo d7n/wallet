@@ -1,1 +1,1 @@
-var mnemonic = "two biology extra huge pioneer portion opera figure ketchup canoe digital stage";
+var mnemonic = "company language pull rose they either moon ridge someone news suit chef";

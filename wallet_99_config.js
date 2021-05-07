@@ -1,1 +1,1 @@
-var mnemonic = "alone canyon canyon glide exist artwork crew warm essence cluster upon escape";
+var mnemonic = "sunset execute flash cancel dose wolf print approve horror replace enact color";

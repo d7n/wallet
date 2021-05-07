@@ -1,1 +1,1 @@
-var mnemonic = "only stumble half method dolphin antenna often wrap cannon slogan early winter";
+var mnemonic = "normal industry today best clerk advice blood purity convince topic juice need";

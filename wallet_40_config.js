@@ -1,1 +1,1 @@
-var mnemonic = "audit adjust guide engage invest diamond plunge breeze gospel enlist fit erase";
+var mnemonic = "box say dumb love hip action spider clean weather engine scrub zone";

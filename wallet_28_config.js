@@ -1,1 +1,1 @@
-var mnemonic = "humor beef dose front portion dawn believe beauty good bulk pledge swap";
+var mnemonic = "improve library love trade sad faculty execute job possible another skill virtual";

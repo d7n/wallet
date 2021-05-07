@@ -1,1 +1,1 @@
-var mnemonic = "good tissue arm range tackle loan scene learn attend bulb child vapor";
+var mnemonic = "pony actual spoon wine tone senior orbit coil garlic sun comic pelican";

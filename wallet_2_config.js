@@ -1,1 +1,1 @@
-var mnemonic = "balcony define benefit prepare enemy enact wink version cloud expect intact jungle";
+var mnemonic = "metal quarter squirrel peasant capital forward crush caution alone debris say rabbit";

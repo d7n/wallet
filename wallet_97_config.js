@@ -1,1 +1,1 @@
-var mnemonic = "release insane boost expire mind train robust race original edge cherry proof";
+var mnemonic = "battle slice city drip loud ring quarter female cinnamon melt dial dinosaur";

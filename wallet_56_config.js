@@ -1,1 +1,1 @@
-var mnemonic = "spawn fix country gun digital solid gesture dirt nurse smart index broccoli";
+var mnemonic = "marine eager tool frequent ladder this witness edge luggage upgrade local medal";

@@ -1,1 +1,1 @@
-var mnemonic = "avocado appear pilot spell fox gauge peanut discover badge lunar marine script";
+var mnemonic = "tube figure flower vehicle abstract fun pole evolve pass bright gravity sugar";

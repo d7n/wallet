@@ -1,1 +1,1 @@
-var mnemonic = "actor panel float news salute base obtain olympic chaos bar member fury";
+var mnemonic = "initial please race ramp engage hamster syrup fiscal resource flush best human";

@@ -1,1 +1,1 @@
-var mnemonic = "degree junior caught predict movie road tortoise myth cup size beyond movie";
+var mnemonic = "way direct zero step ethics grass bike walnut grocery topple pudding city";

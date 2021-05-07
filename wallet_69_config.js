@@ -1,1 +1,1 @@
-var mnemonic = "work apart pilot reject scale license again stem squeeze peasant mix force";
+var mnemonic = "oval grape umbrella few style cute plate clarify type envelope angle possible";

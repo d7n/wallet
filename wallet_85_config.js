@@ -1,1 +1,1 @@
-var mnemonic = "decrease warrior crucial wet critic neck festival describe kind grab silk adult";
+var mnemonic = "dune you tag mention glue daughter indoor champion spawn type main burden";

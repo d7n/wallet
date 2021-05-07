@@ -1,1 +1,1 @@
-var mnemonic = "arrange eager insane jungle hen already cheese follow appear neglect tail mistake";
+var mnemonic = "essay help unveil skirt tower embody picnic laundry purchase toy cup skirt";

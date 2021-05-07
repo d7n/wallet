@@ -1,1 +1,1 @@
-var mnemonic = "ill extra slow camera twice when latin fetch amazing return milk eager";
+var mnemonic = "item snake october tilt title gate elephant tired surge grass false iron";

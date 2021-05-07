@@ -1,1 +1,1 @@
-var mnemonic = "negative mammal hunt aspect fall decide oil bulk medal february until before";
+var mnemonic = "happy arena claw entire property struggle basic relax street bachelor run matrix";

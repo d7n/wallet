@@ -1,1 +1,1 @@
-var mnemonic = "design novel wait swear caution edge tonight name animal match sword slide";
+var mnemonic = "spare finish syrup shell joy prevent confirm utility chunk burst pig reward";

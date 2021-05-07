@@ -1,1 +1,1 @@
-var mnemonic = "gown figure slot unfold mom retreat picture arrange float execute marine globe";
+var mnemonic = "milk mention length slab daughter quiz memory swing inflict hazard roast scale";

@@ -1,1 +1,1 @@
-var mnemonic = "peace nominee angle twist cruise blossom art then innocent wood balcony nominee";
+var mnemonic = "valve chase income slot funny monitor avoid tired gym easy girl maid";

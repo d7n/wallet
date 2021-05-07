@@ -1,1 +1,1 @@
-var mnemonic = "during bag trap when sausage little wave have plate sing trust fame";
+var mnemonic = "hurdle team country south sweet cinnamon payment grass mystery original pear sibling";

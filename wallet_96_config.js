@@ -1,1 +1,1 @@
-var mnemonic = "holiday uniform steel lonely vessel endless random element patient pig danger proof";
+var mnemonic = "crime slide liar spot pattern isolate dutch buddy glue turtle neutral behave";

@@ -1,1 +1,1 @@
-var mnemonic = "soul wish fade curious hub dinner civil ladder rabbit alert that pen";
+var mnemonic = "bronze upset cabbage wear music debris okay lunar horn game empty crisp";

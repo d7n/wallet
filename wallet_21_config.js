@@ -1,1 +1,1 @@
-var mnemonic = "frequent invite burst ramp strike feel firm word blade hockey flight envelope";
+var mnemonic = "own income talk act brief tree sing stage setup save tuition cream";

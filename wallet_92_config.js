@@ -1,1 +1,1 @@
-var mnemonic = "impact frequent love aisle december bring vote like develop battle replace result";
+var mnemonic = "artist pumpkin switch local chapter blush vicious expect oval burst biology spare";

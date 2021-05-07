@@ -1,1 +1,1 @@
-var mnemonic = "hour network suggest artist advance sauce episode duty tattoo glue delay abandon";
+var mnemonic = "rival purity coconut process frequent sweet adapt distance absurd digital scatter rule";

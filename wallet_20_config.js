@@ -1,1 +1,1 @@
-var mnemonic = "bonus avoid injury vault exchange cycle clutch submit scene negative write below";
+var mnemonic = "sniff employ apple inside foster smoke drum clap spare sport drop next";

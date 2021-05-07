@@ -1,1 +1,1 @@
-var mnemonic = "gorilla view gas equal coin addict day alley imitate when cupboard miracle";
+var mnemonic = "denial snap awake myth rib dumb vintage thing maximum romance topic body";

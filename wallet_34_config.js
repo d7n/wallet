@@ -1,1 +1,1 @@
-var mnemonic = "phrase payment time jealous dolphin soda child behave receive win allow juice";
+var mnemonic = "robot copy erosion beef fall case either track fortune hidden suit balcony";

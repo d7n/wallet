@@ -1,1 +1,1 @@
-var mnemonic = "visit minute blue foil turkey grit crazy trophy squirrel improve slight weasel";
+var mnemonic = "unit odor mercy swing wreck dolphin float hope onion shy coast wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "duck cake shoulder final mammal drop galaxy arrest muscle laundry pave battle";
+var mnemonic = "south witness canvas erase game comic city undo drama sell loop solar";

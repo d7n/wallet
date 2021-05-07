@@ -1,1 +1,1 @@
-var mnemonic = "ginger inject duty express ordinary casino curious message appear title bird flame";
+var mnemonic = "front father mesh domain supreme trash ship siege arena inch hire lava";

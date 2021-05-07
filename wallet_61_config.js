@@ -1,1 +1,1 @@
-var mnemonic = "sponsor romance arrow receive army rally action exhibit keen rain pass absorb";
+var mnemonic = "diesel pyramid foot laundry artefact sight pitch sunny decade clinic abstract say";

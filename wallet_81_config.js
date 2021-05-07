@@ -1,1 +1,1 @@
-var mnemonic = "cruise proud carry among couple legend rich yellow interest pioneer library pulp";
+var mnemonic = "fire portion turtle stay base black gold task stool similar short sweet";

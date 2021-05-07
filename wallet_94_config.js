@@ -1,1 +1,1 @@
-var mnemonic = "magnet birth miss area cousin calm fire sing subway cream congress move";
+var mnemonic = "buyer blanket artist awful senior mutual simple act art lonely company around";

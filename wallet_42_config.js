@@ -1,1 +1,1 @@
-var mnemonic = "asthma junk lunch author fault erupt tent example place twist shoe inhale";
+var mnemonic = "position swamp uphold salad good silver link trash seat cement math want";

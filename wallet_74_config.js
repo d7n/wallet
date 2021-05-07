@@ -1,1 +1,1 @@
-var mnemonic = "music body safe unaware rifle slab nest final crisp tomorrow raven renew";
+var mnemonic = "pet kitten perfect twin wrist slide width keep oven teach join hour";

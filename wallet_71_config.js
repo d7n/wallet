@@ -1,1 +1,1 @@
-var mnemonic = "history attitude water artefact dirt shift maximum catalog useful curious climb hope";
+var mnemonic = "lizard gasp way master crop west decide enlist shoulder taxi negative arch";

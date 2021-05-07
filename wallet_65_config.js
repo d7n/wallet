@@ -1,1 +1,1 @@
-var mnemonic = "heavy music drama lobster merge blush omit genre dog brief swarm review";
+var mnemonic = "banner believe fall safe patch drink grass arrange orbit situate certain kangaroo";

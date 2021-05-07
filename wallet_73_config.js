@@ -1,1 +1,1 @@
-var mnemonic = "quarter friend raw mansion mutual section grant enforce license verify logic spread";
+var mnemonic = "survey six congress water aunt paper planet begin tree control shuffle cricket";

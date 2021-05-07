@@ -1,1 +1,1 @@
-var mnemonic = "tide ill razor flat purpose vacuum cry news wine advice borrow minor";
+var mnemonic = "accuse mixture drink pool surround sea capital lock during capital language dynamic";

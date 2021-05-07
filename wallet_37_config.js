@@ -1,1 +1,1 @@
-var mnemonic = "satisfy chuckle ahead vehicle drop bracket custom camp okay crush drink achieve";
+var mnemonic = "slow cute cousin claim develop truth plug cook annual noodle kind wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "supply muscle scorpion eagle fantasy angry grit vendor device kitten puzzle outdoor";
+var mnemonic = "swing model anger giraffe bird alone anchor rail loud wrestle athlete once";

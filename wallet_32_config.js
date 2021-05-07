@@ -1,1 +1,1 @@
-var mnemonic = "short credit above ladder fuel gold believe sausage scorpion move prison atom";
+var mnemonic = "inhale finish kiss cradle purse envelope quantum joy sock wise verify wild";

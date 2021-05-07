@@ -1,1 +1,1 @@
-var mnemonic = "ridge picture owner lens regular track course before wire excuse illness vendor";
+var mnemonic = "total wing few hollow item sad awkward science minor mushroom discover violin";

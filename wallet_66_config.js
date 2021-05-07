@@ -1,1 +1,1 @@
-var mnemonic = "bag theory rely skate broccoli network food clown hidden distance sort toe";
+var mnemonic = "kitchen upgrade slogan offer siren subject illness hope prosper clean split tag";

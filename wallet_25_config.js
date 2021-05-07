@@ -1,1 +1,1 @@
-var mnemonic = "vocal pyramid sick hundred cabbage student review want into cave dream circle";
+var mnemonic = "robust price senior crime stable cattle frown wait birth ghost poem traffic";

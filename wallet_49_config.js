@@ -1,1 +1,1 @@
-var mnemonic = "act reject used spot account this inherit wing ginger panic just whale";
+var mnemonic = "organ again style sample absurd pole sign fine about liquid box drip";

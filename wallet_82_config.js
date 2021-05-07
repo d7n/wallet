@@ -1,1 +1,1 @@
-var mnemonic = "table clarify public enter champion have weird fog salmon near floor wisdom";
+var mnemonic = "skill crazy neck ride phrase state agent wool bicycle frown issue farm";

@@ -1,1 +1,1 @@
-var mnemonic = "ensure planet violin decrease success inform laptop nice object nest boss lake";
+var mnemonic = "kick like badge flight enrich mind spider prefer play pulp scrub rent";

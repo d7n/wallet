@@ -1,1 +1,1 @@
-var mnemonic = "return leopard head disorder brief rabbit ancient author indicate define fringe blade";
+var mnemonic = "funny wage dinner panther future bus route stem begin health quarter leopard";

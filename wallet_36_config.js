@@ -1,1 +1,1 @@
-var mnemonic = "click blue suffer swamp rule flight anger crush cinnamon normal trust road";
+var mnemonic = "cousin ozone crush flavor meat soda timber omit picture battle fall mother";

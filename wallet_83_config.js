@@ -1,1 +1,1 @@
-var mnemonic = "sing learn tone gallery alcohol surface forum already color easy estate soul";
+var mnemonic = "dial orange once matter desert address asset hair fury axis unusual congress";

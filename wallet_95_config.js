@@ -1,1 +1,1 @@
-var mnemonic = "hand step deliver figure equal first excess auction aspect soap original order";
+var mnemonic = "yellow above under tilt sketch purpose melody idle ocean letter cook alter";

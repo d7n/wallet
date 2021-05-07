@@ -1,1 +1,1 @@
-var mnemonic = "royal ability gain rude frown furnace aim together wheel bar income cotton";
+var mnemonic = "flight clean rebuild novel funny know brand peanut draft flame jazz amount";

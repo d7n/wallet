@@ -1,1 +1,1 @@
-var mnemonic = "horn sorry else sponsor venture position rough mixed accuse breeze cost fine";
+var mnemonic = "canoe veteran list armed drip oppose carbon joy either firm dignity source";

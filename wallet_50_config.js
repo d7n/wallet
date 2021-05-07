@@ -1,1 +1,1 @@
-var mnemonic = "consider belt mass topple surprise type increase rain pulp marble blur essence";
+var mnemonic = "elder vessel absurd achieve pledge entry parade lift cube muscle output collect";

@@ -1,1 +1,1 @@
-var mnemonic = "beauty fatigue merry test nurse income crouch patient survey wash midnight once";
+var mnemonic = "inherit praise tail air together unit unfair world spread quote dynamic pulse";

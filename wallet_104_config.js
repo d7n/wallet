@@ -1,1 +1,1 @@
-var mnemonic = "marble peasant side salute diet glass allow slow visit energy recycle favorite";
+var mnemonic = "pig rookie marble latin soap input provide civil impose result tackle dinosaur";

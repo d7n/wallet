@@ -1,1 +1,1 @@
-var mnemonic = "sibling soft business juice adapt address more short canyon casino rebel dish";
+var mnemonic = "adult ski dry silver action position hand piano name ordinary pitch lab";

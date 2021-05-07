@@ -1,1 +1,1 @@
-var mnemonic = "luggage thumb mimic need you vessel garbage direct adjust combine tilt penalty";
+var mnemonic = "reunion feel net alert image bridge beach shadow divert recall chef adapt";

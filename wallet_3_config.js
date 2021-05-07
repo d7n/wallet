@@ -1,1 +1,1 @@
-var mnemonic = "stay marine pair road venture match obey ethics stamp eight behave coral";
+var mnemonic = "pear any behave nest breeze cement hand vapor hobby trend swamp aerobic";

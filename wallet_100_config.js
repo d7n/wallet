@@ -1,1 +1,1 @@
-var mnemonic = "flee elegant detect rely betray tenant helmet basic lady ensure eternal now";
+var mnemonic = "slab inch bright cancel elegant check outdoor pause piano solve wisdom climb";

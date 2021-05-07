@@ -1,1 +1,1 @@
-var mnemonic = "rabbit spell sample wire cup lottery travel merge inquiry clog tiny push";
+var mnemonic = "rate barely security void load cluster cushion blade mean shallow risk wing";

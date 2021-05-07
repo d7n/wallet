@@ -1,1 +1,1 @@
-var mnemonic = "fall moment boy zone brief valley gown square rebel gentle case speed";
+var mnemonic = "like cancel toddler travel design affair catalog vote help pupil mixture public";

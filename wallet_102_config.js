@@ -1,1 +1,1 @@
-var mnemonic = "century mushroom ozone capable chuckle cradle need unlock mix flame shift chef";
+var mnemonic = "promote rough cradle steak split elbow iron citizen direct glare sadness wrestle";

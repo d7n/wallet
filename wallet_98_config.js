@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo illness section guide exit valid fame broken plate foil expand rather";
+var mnemonic = "entry pony matter puzzle crop diary room material clean enter neck train";

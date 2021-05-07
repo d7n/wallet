@@ -1,1 +1,1 @@
-var mnemonic = "where ski isolate green vote morning zone main isolate sketch copy rate";
+var mnemonic = "actual federal depart such govern laugh snap trade spawn foil zebra coconut";

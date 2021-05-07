@@ -1,1 +1,1 @@
-var mnemonic = "volcano wealth miracle collect sibling nation chaos receive until sustain year suit";
+var mnemonic = "pudding expose can swing snow devote calm hockey milk spike tunnel hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "fluid inside gossip across laugh utility clarify alert tornado chat circle scatter";
+var mnemonic = "shoulder huge valley couch swear used knee boil zoo tone double want";

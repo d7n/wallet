@@ -1,1 +1,1 @@
-var mnemonic = "crystal trip truck tomato recycle drift travel exist blossom legal stock razor";
+var mnemonic = "salt benefit fossil burden twenty silver glad letter winner spatial wool logic";

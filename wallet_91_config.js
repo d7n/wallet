@@ -1,1 +1,1 @@
-var mnemonic = "crash multiply essay slide pelican tank welcome whisper vehicle lonely symbol elephant";
+var mnemonic = "stuff rocket enough situate reveal game neutral best visa other walnut rocket";

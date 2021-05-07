@@ -1,1 +1,1 @@
-var mnemonic = "aunt crane melt bean clay save beauty balcony top tornado used person";
+var mnemonic = "adapt love deliver proof flight club buddy acid ask lake exclude two";

@@ -1,1 +1,1 @@
-var mnemonic = "attract easy atom surprise idea whip ice dignity idea guitar game collect";
+var mnemonic = "ripple insect monster night tag apart island budget metal broken shadow sorry";

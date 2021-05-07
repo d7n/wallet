@@ -1,1 +1,1 @@
-var mnemonic = "index screen giggle sentence weapon universe bounce obtain hat layer race genre";
+var mnemonic = "outer board naive decorate glove shift awesome wall imitate idea athlete raven";

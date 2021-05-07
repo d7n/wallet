@@ -1,1 +1,1 @@
-var mnemonic = "true dream dress ten hair now sleep quarter exit eagle panda extra";
+var mnemonic = "differ tragic space leave connect more sausage ring balcony gun perfect attitude";

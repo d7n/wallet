@@ -1,1 +1,1 @@
-var mnemonic = "point birth scale express ridge snack hungry jar because foam magic game";
+var mnemonic = "during jealous lonely cry next raccoon eternal cook end pause reflect champion";

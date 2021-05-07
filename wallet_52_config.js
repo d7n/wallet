@@ -1,1 +1,1 @@
-var mnemonic = "cigar case glove police damage pride ginger divide alcohol orbit best rule";
+var mnemonic = "salon rate pen camp bone author payment lend winter beauty improve mass";

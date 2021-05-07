@@ -1,1 +1,1 @@
-var mnemonic = "height student fold dash royal scout ghost genre front atom bone island";
+var mnemonic = "stamp ability grain height sheriff mouse frame wrestle imitate universe gallery hundred";

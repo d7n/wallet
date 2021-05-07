@@ -1,1 +1,1 @@
-var mnemonic = "exist real innocent kidney silver task rubber special sock blush stairs charge";
+var mnemonic = "program fan tip female february stereo friend vocal stuff rib pipe enrich";

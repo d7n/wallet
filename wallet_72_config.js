@@ -1,1 +1,1 @@
-var mnemonic = "side one crime visual announce phone same slam suggest fiber siren radar";
+var mnemonic = "omit top what fence erode lunch surge repeat patch earn develop ship";
