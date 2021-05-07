@@ -1,1 +1,1 @@
-var mnemonic = "door siege order travel sing lonely buzz list auto help young load";
+var mnemonic = "wild misery weather path account comfort about common practice law bike roast";

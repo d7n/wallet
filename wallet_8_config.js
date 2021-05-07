@@ -1,1 +1,1 @@
-var mnemonic = "pepper rebel pupil tide frost ocean achieve trash alarm shock myth connect";
+var mnemonic = "vapor solid old industry train obey subject derive museum habit fatal tape";

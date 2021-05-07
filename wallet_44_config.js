@@ -1,1 +1,1 @@
-var mnemonic = "gold wear gasp drill shop reflect easily discover track much sadness student";
+var mnemonic = "floor music diamond scene dolphin flower panther end pond one jar fit";

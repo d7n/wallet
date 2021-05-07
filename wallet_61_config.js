@@ -1,1 +1,1 @@
-var mnemonic = "away device leisure flame fitness bind ostrich wonder bicycle wish grit like";
+var mnemonic = "blanket wall reduce jaguar tattoo teach clever scan venue bleak escape like";

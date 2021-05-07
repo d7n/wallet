@@ -1,1 +1,1 @@
-var mnemonic = "crowd ahead cotton ten mom behave gold bachelor scheme link gain glad";
+var mnemonic = "shock candy method sudden answer radar sunset harsh ball icon skate cheap";

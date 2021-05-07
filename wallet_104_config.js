@@ -1,1 +1,1 @@
-var mnemonic = "jealous rely fringe detect arrest mail float hunt good idea try luggage";
+var mnemonic = "author dash deal coil tornado similar devote room since donor second kangaroo";

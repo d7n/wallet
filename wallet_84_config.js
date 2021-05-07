@@ -1,1 +1,1 @@
-var mnemonic = "heavy midnight brown dance puzzle wage ticket mix weapon grant update either";
+var mnemonic = "hip afford try siege inhale smoke close bulb sort nuclear today hotel";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow sell shoulder sword worry bunker three lift shaft fan only misery";
+var mnemonic = "notice wave month dwarf tuition better dynamic random group vacuum engine pipe";

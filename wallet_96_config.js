@@ -1,1 +1,1 @@
-var mnemonic = "dress initial pass tray rude payment play capital tomato text nation salute";
+var mnemonic = "noble electric usage galaxy choice sort depart victory forest tortoise congress other";

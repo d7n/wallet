@@ -1,1 +1,1 @@
-var mnemonic = "post dignity tone zoo remind allow foster bunker expand state leaf cycle";
+var mnemonic = "biology reject memory alien merry symbol trap enjoy make whale dignity foot";

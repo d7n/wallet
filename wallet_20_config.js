@@ -1,1 +1,1 @@
-var mnemonic = "doll mixture naive pepper image cloud current crawl taxi whip inspire leg";
+var mnemonic = "deny unique season rival trouble tomato siren brother super aunt copper ship";

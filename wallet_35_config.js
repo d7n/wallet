@@ -1,1 +1,1 @@
-var mnemonic = "approve use card asset hotel push strong accident replace debate income kind";
+var mnemonic = "session slogan bronze unknown soccer cactus organ weapon home knife logic leave";

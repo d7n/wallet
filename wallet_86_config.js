@@ -1,1 +1,1 @@
-var mnemonic = "that this catalog chest milk width receive chaos drill solve pig pistol";
+var mnemonic = "wall electric secret degree fun announce cram lend ozone youth bar network";

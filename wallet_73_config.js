@@ -1,1 +1,1 @@
-var mnemonic = "pudding squirrel fault fox obscure boss occur inherit tongue shift suit glow";
+var mnemonic = "inmate swarm legend amount trumpet aunt category wood shrug cereal throw danger";

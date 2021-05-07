@@ -1,1 +1,1 @@
-var mnemonic = "network apple daughter nut company weekend output toss verb method claw chief";
+var mnemonic = "narrow pottery pen giraffe acoustic hello label lab trust young empty mixture";

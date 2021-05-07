@@ -1,1 +1,1 @@
-var mnemonic = "duck horse enable alone relief kangaroo cabbage robot gas swarm wave oxygen";
+var mnemonic = "planet appear nerve real cycle receive family diesel name napkin pepper bless";

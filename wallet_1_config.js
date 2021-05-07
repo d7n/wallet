@@ -1,1 +1,1 @@
-var mnemonic = "north fee truly glow panel sport tower metal check hour still wire";
+var mnemonic = "label session just cube market capable salad emerge word pen shine text";

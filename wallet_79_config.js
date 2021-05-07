@@ -1,1 +1,1 @@
-var mnemonic = "hammer nerve token cross hedgehog dry nasty roof ivory glue rely movie";
+var mnemonic = "derive right witness fly company local light stumble physical hotel shop ski";

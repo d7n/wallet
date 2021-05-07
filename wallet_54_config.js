@@ -1,1 +1,1 @@
-var mnemonic = "drip antique stick hamster pair leaf knife hobby hundred aim pattern thunder";
+var mnemonic = "fork parent brisk climb supreme miss clog valid fruit second stumble garbage";

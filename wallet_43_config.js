@@ -1,1 +1,1 @@
-var mnemonic = "stand merry scorpion invest calm okay aware trick dwarf zoo social rocket";
+var mnemonic = "oven soccer people arrive cabin sail faint supreme curtain mechanic blue give";

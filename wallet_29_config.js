@@ -1,1 +1,1 @@
-var mnemonic = "awkward answer reform next dizzy voice swamp trip brief else present crack";
+var mnemonic = "elbow tomorrow between chuckle rebuild tuition agent pear drink area material wonder";

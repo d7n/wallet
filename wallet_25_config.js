@@ -1,1 +1,1 @@
-var mnemonic = "movie pelican tourist sorry tool goddess panther icon trap flower source where";
+var mnemonic = "inflict inmate address carry protect ability island note during language else under";

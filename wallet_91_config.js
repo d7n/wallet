@@ -1,1 +1,1 @@
-var mnemonic = "fuel host car rookie plug embody slush mind remain believe void bargain";
+var mnemonic = "reveal such diesel canyon equal submit bottom glass fatigue drink dice intact";

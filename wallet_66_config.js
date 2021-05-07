@@ -1,1 +1,1 @@
-var mnemonic = "resemble food ball bus ice inch few canoe blur title cave wing";
+var mnemonic = "prefer guide riot future talent patrol army night cinnamon dream lobster clean";

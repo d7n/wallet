@@ -1,1 +1,1 @@
-var mnemonic = "curious word field chuckle soda forum game leader swing area hurt duty";
+var mnemonic = "dose puzzle basket luxury potato rotate lounge swift net try famous vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "credit beauty brown endorse bread genre flag shadow version maximum merry little";
+var mnemonic = "before document barrel pitch razor that smile book lizard endorse random lunar";

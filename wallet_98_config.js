@@ -1,1 +1,1 @@
-var mnemonic = "dad silk celery trim slot tuna amused kit venture broom adjust potato";
+var mnemonic = "session city human state hospital mouse unit estate harbor benefit pride cook";

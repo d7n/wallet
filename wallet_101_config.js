@@ -1,1 +1,1 @@
-var mnemonic = "jelly payment fatal sugar extend pepper find warm video great shell kitchen";
+var mnemonic = "tired enroll cliff resist jacket wonder fossil orbit year swarm use deposit";

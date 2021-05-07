@@ -1,1 +1,1 @@
-var mnemonic = "wreck rate easy security annual drastic crowd devote street vocal curious about";
+var mnemonic = "swift prevent tag mistake scene nominee raccoon candy hawk ritual enjoy ostrich";

@@ -1,1 +1,1 @@
-var mnemonic = "web thrive wedding rule piano age reunion shine luggage melody crazy coast";
+var mnemonic = "slow child chimney strong panic chaos heavy immune dish code burst sign";

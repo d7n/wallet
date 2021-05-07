@@ -1,1 +1,1 @@
-var mnemonic = "predict march piece inhale allow company bounce grid sell mystery lab observe";
+var mnemonic = "ordinary pause that idle mind track gather umbrella situate sorry mixture butter";

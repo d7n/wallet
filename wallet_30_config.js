@@ -1,1 +1,1 @@
-var mnemonic = "engine boss midnight gym mimic train garbage obscure audit normal grass gloom";
+var mnemonic = "vivid weasel vicious upset gentle honey grain nothing around team raise suit";

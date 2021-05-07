@@ -1,1 +1,1 @@
-var mnemonic = "glad soda select ginger bamboo pudding slot embark segment clarify love claim";
+var mnemonic = "seven machine gesture spawn pen anchor keen gown exercise letter sorry grow";

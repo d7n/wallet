@@ -1,1 +1,1 @@
-var mnemonic = "sail pulp target sister comfort umbrella divorce shrimp soft calm soft find";
+var mnemonic = "recall allow forget link voyage trumpet program social feature cheese tray thunder";

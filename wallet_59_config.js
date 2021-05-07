@@ -1,1 +1,1 @@
-var mnemonic = "group provide eagle they wolf order range machine mention tomato harsh nest";
+var mnemonic = "marble loud crystal quiz amount search turkey deer unveil swing again also";

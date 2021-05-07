@@ -1,1 +1,1 @@
-var mnemonic = "ridge range plunge assault isolate mutual hurry avoid stand recycle test memory";
+var mnemonic = "rib rookie scare argue bulb syrup glove parade goddess bitter celery fetch";

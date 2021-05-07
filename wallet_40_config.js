@@ -1,1 +1,1 @@
-var mnemonic = "loan student animal globe dash grab erode library jewel few topic cement";
+var mnemonic = "exist face dune solution kitchen edit sell afraid doll tiger imitate add";

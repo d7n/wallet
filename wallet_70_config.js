@@ -1,1 +1,1 @@
-var mnemonic = "rebel quit month enact park rabbit bless first artefact roof guilt organ";
+var mnemonic = "umbrella answer cage brick flat action message guess inflict harsh inflict milk";

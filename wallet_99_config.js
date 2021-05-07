@@ -1,1 +1,1 @@
-var mnemonic = "skirt shove estate victory rescue dinner split stem mimic brush trigger weekend";
+var mnemonic = "wear smooth math muscle wish disease obtain wrestle kidney earn repeat rich";

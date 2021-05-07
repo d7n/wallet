@@ -1,1 +1,1 @@
-var mnemonic = "age require gun emerge cloth frog fence decide junior roof casino color";
+var mnemonic = "crew chat sample network three promote mushroom good wheat repair calm right";

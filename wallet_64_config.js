@@ -1,1 +1,1 @@
-var mnemonic = "teach forest mobile click subway capital sunset apart first marble alcohol chief";
+var mnemonic = "sauce wish trick turn tooth desert that surround daring lucky palm element";

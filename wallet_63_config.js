@@ -1,1 +1,1 @@
-var mnemonic = "fade canvas announce decide snow mechanic quote crop depth sad junior length";
+var mnemonic = "young arrange picture analyst orbit major pioneer bread panther execute arena hip";

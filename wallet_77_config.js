@@ -1,1 +1,1 @@
-var mnemonic = "soccer rescue divide letter balance tank cluster sister wine defy funny master";
+var mnemonic = "spend reflect knock antenna wealth dish cycle anxiety glory grid grow elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty crystal armor spawn horse dawn damp category inside utility already explain";
+var mnemonic = "offer lift pioneer whale crater remain turtle shell kit mom pluck danger";

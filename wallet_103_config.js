@@ -1,1 +1,1 @@
-var mnemonic = "miss breeze barrel position lesson wire misery face ramp maple rain ring";
+var mnemonic = "promote orbit cup razor boring marine tray april often demand claim tomato";

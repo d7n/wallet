@@ -1,1 +1,1 @@
-var mnemonic = "shine regret alley quote spoil web zoo arctic duck cinnamon stock cave";
+var mnemonic = "tag bargain loyal blast pig bus diesel avocado summer wise universe taste";

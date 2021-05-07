@@ -1,1 +1,1 @@
-var mnemonic = "coast ecology rescue business faint crew wear credit tiger teach young wonder";
+var mnemonic = "dune bamboo course slot tomorrow copy route horror network web coast owner";

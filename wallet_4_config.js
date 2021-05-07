@@ -1,1 +1,1 @@
-var mnemonic = "video twice earn shield cover funny puppy illness crunch menu together exhibit";
+var mnemonic = "antenna burger tribe very include donor mushroom build blur aisle cloth impulse";

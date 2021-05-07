@@ -1,1 +1,1 @@
-var mnemonic = "crunch item cradle honey predict clarify alter giraffe math pact hip fame";
+var mnemonic = "number glare spell smart tiger citizen tank alcohol confirm slide snow position";

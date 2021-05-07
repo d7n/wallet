@@ -1,1 +1,1 @@
-var mnemonic = "army half involve inside glory method wood gospel lawsuit brief fame soul";
+var mnemonic = "august lumber govern inject deposit material garbage push exit plug march cause";

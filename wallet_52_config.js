@@ -1,1 +1,1 @@
-var mnemonic = "suggest seed bar express rug gloom doctor infant humor damage improve answer";
+var mnemonic = "excite adult annual avoid woman story flavor disagree joke ride tourist erosion";

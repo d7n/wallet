@@ -1,1 +1,1 @@
-var mnemonic = "click early trust anxiety power village shoulder city dune cycle soccer debris";
+var mnemonic = "hotel number keep toe breeze over knee eight island service hundred film";

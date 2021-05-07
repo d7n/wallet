@@ -1,1 +1,1 @@
-var mnemonic = "champion fee ahead flee decrease meat inject voice upper square devote adapt";
+var mnemonic = "doll panther feed magnet exercise over either scissors equal skull fitness phrase";

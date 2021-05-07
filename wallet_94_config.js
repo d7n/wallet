@@ -1,1 +1,1 @@
-var mnemonic = "solution display liberty address category spirit slim grow hobby please impact urban";
+var mnemonic = "wheel use when bag owner faculty weapon guess grunt merge bargain absent";

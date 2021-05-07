@@ -1,1 +1,1 @@
-var mnemonic = "grab topic exile sun foster metal cliff infant smooth horn source donkey";
+var mnemonic = "broom various absorb express scene pill face fee question frost valve glimpse";

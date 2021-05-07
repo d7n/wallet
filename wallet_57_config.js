@@ -1,1 +1,1 @@
-var mnemonic = "chase hockey depart galaxy magic trumpet move label inspire poverty trend pledge";
+var mnemonic = "behave educate danger excess glare report box miracle crack proud evolve hotel";

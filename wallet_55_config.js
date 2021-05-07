@@ -1,1 +1,1 @@
-var mnemonic = "rug decline ginger ivory run define milk swear innocent manual monkey devote";
+var mnemonic = "twenty turtle abstract when side bundle gadget crime sibling party list video";

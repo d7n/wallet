@@ -1,1 +1,1 @@
-var mnemonic = "decade patch hand rain search already slot erupt bring half angle shaft";
+var mnemonic = "fortune lift position film measure loan provide pool coyote misery economy home";

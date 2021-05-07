@@ -1,1 +1,1 @@
-var mnemonic = "image weapon flee essence absurd effort annual leisure zone toy mind page";
+var mnemonic = "pulse lonely two record chef relief globe chimney dust luggage mom half";

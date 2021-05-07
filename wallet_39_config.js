@@ -1,1 +1,1 @@
-var mnemonic = "total isolate devote meat dream foot gospel depth certain cupboard degree foster";
+var mnemonic = "robot shoot satoshi moon replace faith glance gospel trip soda box more";

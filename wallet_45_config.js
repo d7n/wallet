@@ -1,1 +1,1 @@
-var mnemonic = "squirrel update renew egg junk bargain float air tobacco junk claw bring";
+var mnemonic = "all robust gossip valley piano catalog bubble easily thank enlist destroy prefer";

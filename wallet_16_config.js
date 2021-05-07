@@ -1,1 +1,1 @@
-var mnemonic = "media nation spare virtual hurt juice elder anger this effort slam nice";
+var mnemonic = "tackle goat news cactus jewel dream fatal drink dwarf pair puppy dream";

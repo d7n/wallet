@@ -1,1 +1,1 @@
-var mnemonic = "eager burger frog puppy obscure police fabric broccoli iron neck door solve";
+var mnemonic = "invite garment digital patch catch vanish tattoo canyon butter bring mixture happy";

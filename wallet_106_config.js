@@ -1,1 +1,1 @@
-var mnemonic = "chimney all duck vault deposit actual flat unusual toddler hotel pluck child";
+var mnemonic = "mixed august guilt dwarf lazy caught silver stamp water spike invest funny";

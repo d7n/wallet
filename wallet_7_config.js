@@ -1,1 +1,1 @@
-var mnemonic = "story lemon skirt barrel truck shadow render tape unusual faint pet prevent";
+var mnemonic = "grief eyebrow hotel sing combine drift radar rug produce fog approve crime";

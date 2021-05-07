@@ -1,1 +1,1 @@
-var mnemonic = "disease blush between liberty once choose jewel lend rescue year reason clutch";
+var mnemonic = "soul inflict away oxygen gallery mind kitchen door resemble myth man control";

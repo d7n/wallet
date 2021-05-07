@@ -1,1 +1,1 @@
-var mnemonic = "gather top squeeze wife version depth poverty father robot novel subject rookie";
+var mnemonic = "horror brave swift barely since dirt weather radar repair visit friend pudding";

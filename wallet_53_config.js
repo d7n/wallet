@@ -1,1 +1,1 @@
-var mnemonic = "blush chronic eternal illegal mimic total potato rescue space answer above utility";
+var mnemonic = "flip harsh rotate rain three blind huge pelican bachelor roast force lake";

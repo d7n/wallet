@@ -1,1 +1,1 @@
-var mnemonic = "scare sail utility soda fork hole dose allow rain illness order image";
+var mnemonic = "ridge verify world force siege limb analyst extra depend icon gauge because";

@@ -1,1 +1,1 @@
-var mnemonic = "biology drastic useless library pen demand bus space divide anxiety river any";
+var mnemonic = "toy diet awkward question capital decrease shell marriage prize magic imitate fox";

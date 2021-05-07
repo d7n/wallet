@@ -1,1 +1,1 @@
-var mnemonic = "pigeon lens link cereal language wrestle unaware side rigid used attitude horse";
+var mnemonic = "woman cool torch twin pumpkin cactus dinner collect divorce estate diagram umbrella";

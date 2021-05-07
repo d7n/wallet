@@ -1,1 +1,1 @@
-var mnemonic = "crawl great crucial solar fish negative foil evidence damage pipe eager chat";
+var mnemonic = "mystery pledge cover market wild wash obscure upset blouse early aerobic explain";

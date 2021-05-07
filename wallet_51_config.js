@@ -1,1 +1,1 @@
-var mnemonic = "guide marine mosquito outer edge drill ecology magic dizzy lyrics weather fiction";
+var mnemonic = "cash proud morning prosper impulse calm budget ostrich omit renew auction hood";

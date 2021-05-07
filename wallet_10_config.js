@@ -1,1 +1,1 @@
-var mnemonic = "just body salmon merit evidence prevent report opinion fall forum loud civil";
+var mnemonic = "beef minor shallow federal genius park earth blush shed pear lab solar";

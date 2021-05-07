@@ -1,1 +1,1 @@
-var mnemonic = "whisper kingdom layer satisfy cradle rifle uncover culture blind finish sock blade";
+var mnemonic = "enroll hire viable wisdom hub improve cloth hurry shoe agent rabbit crazy";

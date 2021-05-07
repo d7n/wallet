@@ -1,1 +1,1 @@
-var mnemonic = "settle math trade transfer nice sing diary other property limit boil canal";
+var mnemonic = "move priority faith fly female volume water pioneer capital grab cause future";

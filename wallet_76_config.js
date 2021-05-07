@@ -1,1 +1,1 @@
-var mnemonic = "car fine glance cupboard furnace orange despair raven few sport grape maximum";
+var mnemonic = "diesel dash traffic life again bunker goddess claim desert flat custom kiss";

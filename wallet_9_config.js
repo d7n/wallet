@@ -1,1 +1,1 @@
-var mnemonic = "mad eagle agree verb today flush jaguar layer thing asthma vanish false";
+var mnemonic = "reflect butter moment cook aspect erupt gas index about method mutual input";

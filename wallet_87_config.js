@@ -1,1 +1,1 @@
-var mnemonic = "anchor master flag wire clock soda buffalo tenant capable kitten faint mobile";
+var mnemonic = "behind force lake salad glue age else mutual magnet gorilla grit expire";

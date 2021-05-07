@@ -1,1 +1,1 @@
-var mnemonic = "camp better tonight patrol extra quarter add husband shrug end denial size";
+var mnemonic = "reason work twin boat runway desk road yard menu rookie balance absent";

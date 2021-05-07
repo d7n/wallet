@@ -1,1 +1,1 @@
-var mnemonic = "evidence body before orphan pupil theory seek address right poet pyramid young";
+var mnemonic = "minor thing prevent adult stool ozone devote garment pony mammal dawn film";

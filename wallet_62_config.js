@@ -1,1 +1,1 @@
-var mnemonic = "hill blast coin worth february estate clever capital fat scatter have genuine";
+var mnemonic = "bronze neutral jar hammer choice live shallow decline future climb code wrestle";
