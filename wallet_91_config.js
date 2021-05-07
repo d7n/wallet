@@ -1,1 +1,1 @@
-var mnemonic = "hour curtain firm field banner dolphin oblige crew gate april model wolf";
+var mnemonic = "pass artefact vacuum fringe bubble inner puppy eternal master federal enable desert";

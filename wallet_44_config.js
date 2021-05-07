@@ -1,1 +1,1 @@
-var mnemonic = "season add diary arctic wrestle swing staff valid infant include pass heavy";
+var mnemonic = "width inflict sadness urge fan obvious car genius able penalty execute knife";

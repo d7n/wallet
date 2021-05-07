@@ -1,1 +1,1 @@
-var mnemonic = "medal edit mechanic fashion tip flame situate super sure siren exclude top";
+var mnemonic = "purchase then elephant often critic hand casual run wise dish rib ski";

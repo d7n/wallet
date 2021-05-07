@@ -1,1 +1,1 @@
-var mnemonic = "toy hungry fabric fiscal garden shell eternal lazy labor ritual adult typical";
+var mnemonic = "lava gown viable prefer opinion burden excite polar rotate transfer interest accuse";

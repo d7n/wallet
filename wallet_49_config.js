@@ -1,1 +1,1 @@
-var mnemonic = "symbol material rely air clog cash submit wrestle high hip spend estate";
+var mnemonic = "ability fun unknown style note panic process warm dwarf absent rocket truth";

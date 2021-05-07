@@ -1,1 +1,1 @@
-var mnemonic = "armor crack party rebuild dinosaur diagram fancy top boring mutual execute mammal";
+var mnemonic = "swear use blush page hobby sketch fatigue squirrel uncover cherry fix april";

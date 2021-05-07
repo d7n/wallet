@@ -1,1 +1,1 @@
-var mnemonic = "essence picnic armed stamp sail ski demise robot present hat capital shop";
+var mnemonic = "liquid gorilla absorb dinner pigeon axis unfold try kit dentist tide parrot";

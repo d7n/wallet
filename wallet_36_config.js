@@ -1,1 +1,1 @@
-var mnemonic = "sing tired require image angry scout pen swallow flag crash rookie describe";
+var mnemonic = "erupt rough topple venture drink myth fish enact awesome under broccoli jar";

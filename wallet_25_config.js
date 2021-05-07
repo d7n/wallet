@@ -1,1 +1,1 @@
-var mnemonic = "version reopen key tell wink help code also glimpse blame frame allow";
+var mnemonic = "risk draw sorry render salon aware dog scan fault empower rural sword";

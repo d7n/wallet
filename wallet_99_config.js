@@ -1,1 +1,1 @@
-var mnemonic = "exotic sphere talk arrange economy cattle seven metal leader unable guilt staff";
+var mnemonic = "mixture absurd feed develop permit seed poem spatial matter federal eagle similar";

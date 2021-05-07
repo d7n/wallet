@@ -1,1 +1,1 @@
-var mnemonic = "uncover true setup movie kite swap crisp grief good rookie wash swift";
+var mnemonic = "cool notable nest door eight dinner gauge elbow path shoulder animal awful";

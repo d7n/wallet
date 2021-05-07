@@ -1,1 +1,1 @@
-var mnemonic = "erode leg sand oyster arctic retreat pigeon intact common minor juice prepare";
+var mnemonic = "daring rival shoulder bronze mention flower wealth daughter chaos limb helmet venue";

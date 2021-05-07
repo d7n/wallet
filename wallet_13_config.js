@@ -1,1 +1,1 @@
-var mnemonic = "method top cabbage open near boring cram exclude caution slab embody donate";
+var mnemonic = "decade seek cheap couch office enroll mercy pencil attend permit chalk grit";

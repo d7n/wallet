@@ -1,1 +1,1 @@
-var mnemonic = "father service dish olive hidden hair ozone immense rose veteran purse business";
+var mnemonic = "unfair blind walnut popular fee connect later siege flock apology weasel long";

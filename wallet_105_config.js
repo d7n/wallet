@@ -1,1 +1,1 @@
-var mnemonic = "boost expect pen path universe sick year unable egg lion unlock fold";
+var mnemonic = "claw network play wide must push attend sample off labor father viable";

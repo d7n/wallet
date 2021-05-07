@@ -1,1 +1,1 @@
-var mnemonic = "subway erode peasant produce sketch hungry shuffle borrow slender cupboard off month";
+var mnemonic = "history possible lottery file battle resist scout gap enemy river token gate";

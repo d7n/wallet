@@ -1,1 +1,1 @@
-var mnemonic = "walnut trumpet uncover view toss transfer winner large disease mother brick awkward";
+var mnemonic = "lion sick teach express biology embark document swap mammal lock put lounge";

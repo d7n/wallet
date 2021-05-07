@@ -1,1 +1,1 @@
-var mnemonic = "ethics negative ability afraid scissors stone tooth awesome net hundred tragic vapor";
+var mnemonic = "fame cactus pilot save suit image crisp shoe century brass alone game";

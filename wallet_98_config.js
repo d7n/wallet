@@ -1,1 +1,1 @@
-var mnemonic = "jewel plate rely tail banner cost arrest dish enough this exchange shuffle";
+var mnemonic = "differ oppose belt scare foil monitor still sting own diamond long learn";

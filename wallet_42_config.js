@@ -1,1 +1,1 @@
-var mnemonic = "coyote gloom faith aim note boring fox comic strike circle genre device";
+var mnemonic = "shift trip anger sudden wool dragon skull chapter kit bonus simple gravity";

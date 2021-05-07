@@ -1,1 +1,1 @@
-var mnemonic = "moral game reveal afraid silk clump spend typical vibrant exhibit mad canoe";
+var mnemonic = "oyster achieve this siege mushroom spoil hair spider toilet novel match swap";

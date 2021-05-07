@@ -1,1 +1,1 @@
-var mnemonic = "design account retreat hungry blade build total dawn afford motor cherry cluster";
+var mnemonic = "second trend arrive rely mirror siren brand income erode wine laugh edge";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder sadness famous worry crime source topple wild sad rude month benefit";
+var mnemonic = "adjust riot photo hard arrow theory abandon awesome guilt plunge team awesome";

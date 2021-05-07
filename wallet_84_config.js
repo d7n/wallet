@@ -1,1 +1,1 @@
-var mnemonic = "cousin excess erupt lizard sport resource theory giraffe endless glue fish spare";
+var mnemonic = "erosion naive reopen critic oblige paper dwarf donor jewel embark loud hold";

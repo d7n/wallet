@@ -1,1 +1,1 @@
-var mnemonic = "ketchup abuse tilt hill stove daring choice peasant cruel ranch baby sustain";
+var mnemonic = "before again motion cattle fluid prison tortoise civil tornado scare poet illness";

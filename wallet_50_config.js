@@ -1,1 +1,1 @@
-var mnemonic = "way biology chair gap nut long vicious water share sail wish dutch";
+var mnemonic = "pen edit turtle rack force chase carry best wasp steak venture able";

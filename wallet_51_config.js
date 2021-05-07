@@ -1,1 +1,1 @@
-var mnemonic = "series message stage afford jeans govern side drive about manage brain tip";
+var mnemonic = "arch awake uniform dizzy cupboard clinic ranch immense rookie high doll magnet";

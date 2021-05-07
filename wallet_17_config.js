@@ -1,1 +1,1 @@
-var mnemonic = "busy unknown bean lyrics outer asset orient urban wild rebuild attitude company";
+var mnemonic = "rice grid drum vivid glove monkey spatial margin noble stumble ramp grape";

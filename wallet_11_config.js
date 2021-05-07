@@ -1,1 +1,1 @@
-var mnemonic = "cargo february next caution rare slide own balcony diagram clay volume disagree";
+var mnemonic = "okay buddy learn cricket joy creek pepper jewel decline taste duck bubble";

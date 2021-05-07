@@ -1,1 +1,1 @@
-var mnemonic = "rebel strike hybrid enemy bone civil impact mosquito rude rocket sense scan";
+var mnemonic = "announce wreck daring salad trust lizard spend tonight blast rapid vital swamp";

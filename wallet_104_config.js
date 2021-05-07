@@ -1,1 +1,1 @@
-var mnemonic = "jacket pride pioneer idle intact useful reform music sun relax alley donkey";
+var mnemonic = "cricket ahead pass lift drink drive fan advance breeze boss hammer scatter";

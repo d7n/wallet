@@ -1,1 +1,1 @@
-var mnemonic = "sentence labor yard old bird cup wood only chest diesel antenna wave";
+var mnemonic = "shoot client army else tree chief morning pizza pill attend then two";

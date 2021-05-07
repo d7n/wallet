@@ -1,1 +1,1 @@
-var mnemonic = "tilt join whisper basket depth gown miss month dolphin hole road inject";
+var mnemonic = "test expect minor game oak liberty unable hat typical oyster notable illegal";

@@ -1,1 +1,1 @@
-var mnemonic = "doll blame miss august unlock boost satoshi edge swim cinnamon auto cool";
+var mnemonic = "rigid fantasy poem bean subway winter tomato reward spice asthma indoor giant";

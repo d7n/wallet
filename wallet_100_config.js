@@ -1,1 +1,1 @@
-var mnemonic = "stock north arrange spy label alcohol own used hour element tray price";
+var mnemonic = "cave bid nice recall payment visa sick boost grocery ordinary verify frog";

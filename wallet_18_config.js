@@ -1,1 +1,1 @@
-var mnemonic = "erosion unit access alter pitch regular glare network tilt else carbon smart";
+var mnemonic = "tornado artefact relief harbor feel tattoo faint tower scrap solve pen tank";

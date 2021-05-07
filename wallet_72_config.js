@@ -1,1 +1,1 @@
-var mnemonic = "festival clutch item tattoo angle salt will wrong equip cheese dutch session";
+var mnemonic = "cram write buzz wheel friend exile rebel island day album coral bread";

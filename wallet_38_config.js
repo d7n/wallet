@@ -1,1 +1,1 @@
-var mnemonic = "autumn essence victory exhaust jelly skin corn blossom random bar mistake aerobic";
+var mnemonic = "quality gun lumber exist topic minor sun gorilla two mandate spawn board";

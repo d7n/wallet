@@ -1,1 +1,1 @@
-var mnemonic = "curtain face ghost genius still false what dizzy oil venture senior scare";
+var mnemonic = "pond word potato design odor library into miracle milk sick peanut key";

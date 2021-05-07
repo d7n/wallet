@@ -1,1 +1,1 @@
-var mnemonic = "wife autumn company erase title degree party art future maze spoon clerk";
+var mnemonic = "friend joke eye wolf float field problem elite vintage captain verb energy";

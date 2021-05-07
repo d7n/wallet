@@ -1,1 +1,1 @@
-var mnemonic = "task prefer beach flavor stove game clarify sponsor close concert trial master";
+var mnemonic = "omit blossom present credit symbol fork put attract rib kiwi federal barrel";

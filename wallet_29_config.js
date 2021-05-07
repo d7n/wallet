@@ -1,1 +1,1 @@
-var mnemonic = "wood sadness safe actor scene fiscal time lobster open frog casino quality";
+var mnemonic = "toss orchard ghost panther cotton library hospital vocal shadow tragic favorite rather";

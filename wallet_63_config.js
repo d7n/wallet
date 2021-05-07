@@ -1,1 +1,1 @@
-var mnemonic = "shock brown silly stage pottery dinosaur body sausage embrace effort luxury claim";
+var mnemonic = "where note dog hamster genius vault error street bulb hybrid retire bulk";

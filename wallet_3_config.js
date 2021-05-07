@@ -1,1 +1,1 @@
-var mnemonic = "sad this capable vanish absent impact spoil case injury tribe manual bar";
+var mnemonic = "today silver orient eager girl elite soul steak finger unfold day hurdle";

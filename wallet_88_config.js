@@ -1,1 +1,1 @@
-var mnemonic = "kit all fork target recycle airport gesture sister blood problem deputy move";
+var mnemonic = "army summer embrace plastic reunion genuine salon naive speed install spider sword";

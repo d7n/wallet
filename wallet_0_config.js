@@ -1,1 +1,1 @@
-var mnemonic = "gaze spawn vault prefer whale future light outdoor biology nominee sibling wash";
+var mnemonic = "sting two smoke strong allow radar estate fiction tongue subject elevator grow";

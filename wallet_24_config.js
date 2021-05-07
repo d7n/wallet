@@ -1,1 +1,1 @@
-var mnemonic = "amount junior shy topple citizen actor blouse federal acquire other give expose";
+var mnemonic = "clever mix limb moment bag planet again rough rice prize wreck note";

@@ -1,1 +1,1 @@
-var mnemonic = "remain empower turn asset polar slam feel cry job neither rapid salad";
+var mnemonic = "huge spice fossil tongue gym organ opera easy inner digital social evidence";

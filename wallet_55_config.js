@@ -1,1 +1,1 @@
-var mnemonic = "trend tongue jelly artefact safe venture creek soccer stamp blood sadness motor";
+var mnemonic = "slam elevator book steak soul tissue park confirm tape race width wild";

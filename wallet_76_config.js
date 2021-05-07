@@ -1,1 +1,1 @@
-var mnemonic = "era sorry dolphin polar dutch fall trap enact lazy peace document element";
+var mnemonic = "pioneer what later skin rescue matter weapon cupboard vicious drift segment zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney charge surprise combine december increase bulk crime satisfy help toy bomb";
+var mnemonic = "fee glance despair pink gas almost hat lizard fringe quarter core sweet";

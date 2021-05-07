@@ -1,1 +1,1 @@
-var mnemonic = "relax vague service core chunk matrix afford kangaroo achieve reward segment busy";
+var mnemonic = "light gaze fortune rebel police cupboard approve cup hundred next inch liar";

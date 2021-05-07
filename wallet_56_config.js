@@ -1,1 +1,1 @@
-var mnemonic = "once peace close market humble pledge rocket avocado air other multiply claim";
+var mnemonic = "sea coast hurt carbon salute turtle carpet nerve sense shoot network nest";

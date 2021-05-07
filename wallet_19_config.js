@@ -1,1 +1,1 @@
-var mnemonic = "describe tongue license obey inflict equal cabin strong appear copper bullet oblige";
+var mnemonic = "cupboard negative tree tone paddle patient arrive equal degree mechanic poverty special";

@@ -1,1 +1,1 @@
-var mnemonic = "build brave input awake eye analyst language force vibrant guard security ticket";
+var mnemonic = "body route super circle glimpse winter rebuild blade crack donkey wool example";

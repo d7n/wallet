@@ -1,1 +1,1 @@
-var mnemonic = "swim prepare ranch glue blanket response bid draft oxygen melody rail coyote";
+var mnemonic = "kite loan wood couch bunker auction damage shuffle grab pelican essay distance";

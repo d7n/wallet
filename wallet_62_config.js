@@ -1,1 +1,1 @@
-var mnemonic = "couple basket bubble know primary sick reject concert federal mean caution ice";
+var mnemonic = "give flee dilemma age mention peace cost ritual soft lemon envelope dance";

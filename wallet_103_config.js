@@ -1,1 +1,1 @@
-var mnemonic = "upgrade struggle average cruise author meat bridge say small promote atom manage";
+var mnemonic = "jump viable various razor inch noodle video mutual boost glide endorse evidence";

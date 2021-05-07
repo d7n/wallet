@@ -1,1 +1,1 @@
-var mnemonic = "female appear tree regret wine solution service arrange myth skirt desk purchase";
+var mnemonic = "almost tone pact promote friend bounce earn nature slush blur walk culture";

@@ -1,1 +1,1 @@
-var mnemonic = "decline various seek pill identify arm office sell romance spirit replace shy";
+var mnemonic = "elevator across medal romance roof lamp draw bench edge dumb wisdom spoil";

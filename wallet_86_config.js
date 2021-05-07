@@ -1,1 +1,1 @@
-var mnemonic = "inflict service fluid midnight rude chunk film panic token media wave wood";
+var mnemonic = "cream vivid gossip wheel way enable uniform skate disease bench powder abandon";

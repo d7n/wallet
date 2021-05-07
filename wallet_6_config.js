@@ -1,1 +1,1 @@
-var mnemonic = "blanket bridge adapt into math clock bundle stand evil finish dial earn";
+var mnemonic = "tree web joy jungle bridge pumpkin oblige indicate bleak leaf noodle observe";

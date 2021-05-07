@@ -1,1 +1,1 @@
-var mnemonic = "arena spider dignity rescue tongue try snake just latin turtle rare vicious";
+var mnemonic = "marriage hungry immune gather demand parent october match harvest void nephew liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "lizard mammal choose screen elite remain leader banner age element decrease galaxy";
+var mnemonic = "fragile false virtual sister picnic van explain air embark mansion relax useless";

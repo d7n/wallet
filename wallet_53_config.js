@@ -1,1 +1,1 @@
-var mnemonic = "talent rebuild inspire hard oblige there paper tornado menu ocean excess pair";
+var mnemonic = "report human story repair basket collect renew cruel pull unhappy divert fuel";

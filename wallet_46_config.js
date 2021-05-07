@@ -1,1 +1,1 @@
-var mnemonic = "hand avocado capital scorpion super delay amazing inner dial fox crucial whip";
+var mnemonic = "era escape hazard top fade tuna hazard expire manual cigar actual behind";

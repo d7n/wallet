@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur photo advice waste shell recall smoke rally notable neck purity then";
+var mnemonic = "fluid very lumber upset lake laundry wait matter fine misery kitchen beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "orange garage error meat evoke bounce inside celery region broken evoke jelly";
+var mnemonic = "barely grow arctic glove raw myth senior bright summer pottery impact govern";

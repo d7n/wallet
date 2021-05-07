@@ -1,1 +1,1 @@
-var mnemonic = "deposit author spirit deer siren hold exotic room stadium credit twice junior";
+var mnemonic = "alarm brother toe quit enjoy effort sorry alcohol loan series color economy";

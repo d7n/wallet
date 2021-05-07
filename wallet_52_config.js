@@ -1,1 +1,1 @@
-var mnemonic = "culture cannon father face sunny turkey choice robust object method check lava";
+var mnemonic = "bid unhappy local hint clerk snack mystery mushroom prepare rigid force suffer";

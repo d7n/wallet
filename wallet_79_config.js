@@ -1,1 +1,1 @@
-var mnemonic = "badge task ecology casual trigger turtle ordinary auto logic torch fuel reform";
+var mnemonic = "struggle slice wasp coach quality segment dish gain rural viable person phone";

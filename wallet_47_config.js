@@ -1,1 +1,1 @@
-var mnemonic = "style skull luggage atom spatial depth cash six time kiss eagle carbon";
+var mnemonic = "just exact crash toss luxury provide oven sugar elegant similar usage roof";

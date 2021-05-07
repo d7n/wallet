@@ -1,1 +1,1 @@
-var mnemonic = "little dust joy silk phone unusual orchard twice situate dirt feature stable";
+var mnemonic = "ecology absurd hurdle rebel book toy shy caution wet taste track two";

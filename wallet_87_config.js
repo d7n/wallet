@@ -1,1 +1,1 @@
-var mnemonic = "work zone pause maid pottery device legal rare learn hire pelican tip";
+var mnemonic = "accident myth place inherit soup vessel domain clever message pet omit ticket";

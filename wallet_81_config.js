@@ -1,1 +1,1 @@
-var mnemonic = "crystal biology april cage strong tail paper enact during library index oyster";
+var mnemonic = "ketchup usage wool beauty dove spell verb present admit what edge hybrid";

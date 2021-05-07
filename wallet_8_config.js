@@ -1,1 +1,1 @@
-var mnemonic = "act begin physical strike mechanic ostrich festival cup attend opera chat scrub";
+var mnemonic = "room dinosaur sing bulk since hour flash genuine device sleep hat advance";

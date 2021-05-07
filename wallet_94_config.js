@@ -1,1 +1,1 @@
-var mnemonic = "basket voice stable faint hill fancy hill awful cabbage bag project comic";
+var mnemonic = "sun random voice skate destroy anger frost initial word test pudding fever";

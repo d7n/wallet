@@ -1,1 +1,1 @@
-var mnemonic = "abuse floor birth click decrease race hazard mad virus desert answer modify";
+var mnemonic = "will expire glory disagree pear matrix magic spray final rebuild alcohol notable";

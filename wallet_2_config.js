@@ -1,1 +1,1 @@
-var mnemonic = "wrist drip idle disease hill achieve sell noise shiver pause ten wreck";
+var mnemonic = "announce run tent present claw assume flock text era fashion inherit present";

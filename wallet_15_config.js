@@ -1,1 +1,1 @@
-var mnemonic = "jar twist emotion grief pear close defy gossip sheriff twice mouse develop";
+var mnemonic = "absent topic nice skin violin meadow human deposit art bunker gadget drama";

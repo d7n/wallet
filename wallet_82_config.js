@@ -1,1 +1,1 @@
-var mnemonic = "pudding crunch balance blame cotton bird ivory hour choice bomb stick tired";
+var mnemonic = "monster sauce spice correct bid spy inmate sunny cargo over note leave";

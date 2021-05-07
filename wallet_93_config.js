@@ -1,1 +1,1 @@
-var mnemonic = "other impose symbol public whisper brief mimic forum canoe tree castle debris";
+var mnemonic = "frame ring awful sand such scare claim noble pave clerk afraid magnet";

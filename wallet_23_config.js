@@ -1,1 +1,1 @@
-var mnemonic = "device remember clean crash renew double mind coral track phone sure assume";
+var mnemonic = "drastic walk belt drastic wink turkey inside gasp remain subway man marble";

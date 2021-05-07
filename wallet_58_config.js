@@ -1,1 +1,1 @@
-var mnemonic = "plunge valve sentence output pilot clump boil cover afraid fresh option tell";
+var mnemonic = "cloth nice rate off dream trade match escape pear iron bicycle acquire";

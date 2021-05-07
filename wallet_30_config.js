@@ -1,1 +1,1 @@
-var mnemonic = "barrel maid clerk canal mixed celery live history away lake absorb type";
+var mnemonic = "feed end staff near outdoor electric aware heavy act scout talent donate";

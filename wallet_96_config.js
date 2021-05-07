@@ -1,1 +1,1 @@
-var mnemonic = "custom hunt remember blade excuse kitten top mixture fortune badge virtual kangaroo";
+var mnemonic = "moral improve upgrade unhappy inquiry safe impact travel believe rough oil culture";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt slab congress group object save light away check biology motion holiday";
+var mnemonic = "lecture inner dragon custom thought isolate plug blood ice hope museum amateur";

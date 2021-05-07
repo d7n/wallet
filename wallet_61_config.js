@@ -1,1 +1,1 @@
-var mnemonic = "use until renew enough virus piece rather enough bike render welcome achieve";
+var mnemonic = "protect prefer crunch bright crisp maximum raven marble fruit surge exhibit genre";

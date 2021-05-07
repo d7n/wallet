@@ -1,1 +1,1 @@
-var mnemonic = "garbage pipe crater hill sorry rival caught wonder rude crack pledge order";
+var mnemonic = "neglect burden rack riot clock process summer yellow exit change guilt radio";

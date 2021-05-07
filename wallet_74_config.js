@@ -1,1 +1,1 @@
-var mnemonic = "twist call divide ready inmate lumber october during grape marine mesh regret";
+var mnemonic = "nominee fit that certain caught say bright police exist slam pizza melody";

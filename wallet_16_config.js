@@ -1,1 +1,1 @@
-var mnemonic = "mind senior jar gain ladder flavor spider basket survey either brisk dad";
+var mnemonic = "have timber still pave moon oblige suspect bid pistol iron ready hunt";

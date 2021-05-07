@@ -1,1 +1,1 @@
-var mnemonic = "cotton robot grass dismiss eager talk mammal hope rigid dwarf hub toy";
+var mnemonic = "exclude thought canoe foot onion choice urge creek lens young liquid suit";

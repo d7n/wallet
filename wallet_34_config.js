@@ -1,1 +1,1 @@
-var mnemonic = "void pattern solution brand hire guilt easy turn head leg subject execute";
+var mnemonic = "shift sustain uphold able boss dirt strategy blue phone airport bench venue";

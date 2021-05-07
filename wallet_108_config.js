@@ -1,1 +1,1 @@
-var mnemonic = "swear few solution risk seven oak code wing loyal develop aerobic win";
+var mnemonic = "grit cancel extra amateur guide orient usage myth visit spare december appear";

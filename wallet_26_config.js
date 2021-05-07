@@ -1,1 +1,1 @@
-var mnemonic = "hello nice copper negative arctic captain entire light brain exhaust laundry sound";
+var mnemonic = "fatal flower apart file donor catch giant picnic describe maid acid junior";

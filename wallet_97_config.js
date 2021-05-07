@@ -1,1 +1,1 @@
-var mnemonic = "inquiry print hockey thank tomorrow liberty supreme edge route rich initial envelope";
+var mnemonic = "naive humble bomb absorb cake excite habit inject nose push knife busy";
