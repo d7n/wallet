@@ -1,1 +1,1 @@
-var mnemonic = "hybrid interest limit chef only put olympic ridge enrich concert list border";
+var mnemonic = "bread auction thank have rubber marriage comic tumble blanket blade fossil photo";

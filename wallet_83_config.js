@@ -1,1 +1,1 @@
-var mnemonic = "exotic deliver cactus limb long genre coconut river border brush trim parrot";
+var mnemonic = "volcano ship zero young route duty metal nuclear distance rack draw size";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper evoke identify much sea move exotic verb adjust basket blood long";
+var mnemonic = "inspire meadow gown liberty bread captain repair script early pole property aerobic";

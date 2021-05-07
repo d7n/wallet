@@ -1,1 +1,1 @@
-var mnemonic = "disorder clerk stereo sorry already angle require ship yellow increase flip task";
+var mnemonic = "estate favorite neglect rich amount just mutual crew wreck potato save deliver";

@@ -1,1 +1,1 @@
-var mnemonic = "gossip slice undo flat shy carpet fossil lens wrestle average razor above";
+var mnemonic = "direct extend place usual liar curtain yard cup sheriff cost upon labor";

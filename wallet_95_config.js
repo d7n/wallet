@@ -1,1 +1,1 @@
-var mnemonic = "transfer possible tilt broccoli sight front entry engine top noble bicycle rude";
+var mnemonic = "dragon snow column civil punch snap girl betray notice hawk yard funny";

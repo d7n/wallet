@@ -1,1 +1,1 @@
-var mnemonic = "defy private among venue biology near describe repair web lava flip runway";
+var mnemonic = "awful oyster idle cream sail parent quiz charge worth approve chest picture";

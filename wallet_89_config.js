@@ -1,1 +1,1 @@
-var mnemonic = "coast blame mimic business hour bullet pattern noble brand slow toss electric";
+var mnemonic = "spawn speed rib apple observe scene when wise upon diet struggle gentle";

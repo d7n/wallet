@@ -1,1 +1,1 @@
-var mnemonic = "assume wet acquire box mutual ripple river antique asset deposit camp daughter";
+var mnemonic = "movie noise dream produce vault grocery eyebrow skirt proud ranch fossil asset";

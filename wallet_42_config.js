@@ -1,1 +1,1 @@
-var mnemonic = "strategy thrive admit nerve produce remain balance erosion van any human lucky";
+var mnemonic = "nothing summer public double clown seed noise flower concert exist whale crisp";

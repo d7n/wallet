@@ -1,1 +1,1 @@
-var mnemonic = "blood excite balcony inspire find broccoli hamster enable soon ecology worry hold";
+var mnemonic = "frost shoot glide spell champion egg debris neck jaguar leopard seminar gasp";

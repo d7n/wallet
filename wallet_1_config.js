@@ -1,1 +1,1 @@
-var mnemonic = "party involve word glow noodle nephew purse clump mind potato wise beauty";
+var mnemonic = "museum attend entire curtain tourist trade museum maximum ahead announce ecology wave";

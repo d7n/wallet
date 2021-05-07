@@ -1,1 +1,1 @@
-var mnemonic = "ripple use abuse pitch march answer detect rather claw announce debris vocal";
+var mnemonic = "will glide accident sugar sample ridge profit middle steak pizza smoke deny";

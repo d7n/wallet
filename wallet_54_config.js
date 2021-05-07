@@ -1,1 +1,1 @@
-var mnemonic = "donor type come knife depend clerk camera spawn link green another foil";
+var mnemonic = "visa hire monitor grief already matter crouch else army license clump lock";

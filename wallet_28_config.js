@@ -1,1 +1,1 @@
-var mnemonic = "burger trash horror hover twice butter dance acquire leopard embark chest asthma";
+var mnemonic = "column pill choice brown oblige century same range message mean canvas meat";

@@ -1,1 +1,1 @@
-var mnemonic = "piano loop twin access walnut salute theme lazy essay bundle gun only";
+var mnemonic = "bounce eye public path poet pool coil foil nature glue sugar smile";

@@ -1,1 +1,1 @@
-var mnemonic = "demand era flame region random nature lizard daughter burger easy extend lamp";
+var mnemonic = "arrest midnight despair expand limb afraid party skirt end distance pet hockey";

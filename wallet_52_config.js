@@ -1,1 +1,1 @@
-var mnemonic = "outer hobby fiber pool clip chase market fruit hero tomorrow monitor menu";
+var mnemonic = "leader noise champion dismiss title north main ostrich link health lunar upset";

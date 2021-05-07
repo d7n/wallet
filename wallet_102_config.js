@@ -1,1 +1,1 @@
-var mnemonic = "system road mistake essence liar envelope sniff spoon pill couch company exist";
+var mnemonic = "dial shed health afraid bind open camp miracle flat surge hungry illness";

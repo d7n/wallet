@@ -1,1 +1,1 @@
-var mnemonic = "market vanish black below bind tornado tilt intact slam snap find together";
+var mnemonic = "vapor sound hurdle room area hybrid hawk actor frog divorce patch power";

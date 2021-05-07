@@ -1,1 +1,1 @@
-var mnemonic = "fiction happy number muffin squirrel lawn female poet ride foam use system";
+var mnemonic = "misery flight damp frown outer excite tiger lift dignity horror crime type";

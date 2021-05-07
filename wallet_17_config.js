@@ -1,1 +1,1 @@
-var mnemonic = "tell match movie hen faith gym assume minor food memory ancient sight";
+var mnemonic = "ride extra visual sock lemon hurry hammer monster rather fiscal group ceiling";

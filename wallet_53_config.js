@@ -1,1 +1,1 @@
-var mnemonic = "leopard typical meadow club deny beef else seed then brick alarm sample";
+var mnemonic = "primary oval expand night diary early trash seed great denial window assist";

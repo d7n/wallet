@@ -1,1 +1,1 @@
-var mnemonic = "enable adult age galaxy either forum palm tattoo sell clay purchase project";
+var mnemonic = "lobster review expand torch act october estate twenty latin attend leader unaware";

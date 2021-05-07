@@ -1,1 +1,1 @@
-var mnemonic = "replace easily under column detail become visit game luxury adjust tuna defense";
+var mnemonic = "wash prevent deliver type person bargain inch purse obey machine worry provide";

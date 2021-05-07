@@ -1,1 +1,1 @@
-var mnemonic = "unaware scrub message wolf aerobic ahead issue once eyebrow under sword twelve";
+var mnemonic = "middle current profit auction tornado discover plunge story leader gold night virtual";

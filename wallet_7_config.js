@@ -1,1 +1,1 @@
-var mnemonic = "sniff example tourist giant hand pudding track illness talent language recipe forum";
+var mnemonic = "boat bulb write poverty prefer fabric soap hundred thing pretty lawn erupt";

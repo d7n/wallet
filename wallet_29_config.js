@@ -1,1 +1,1 @@
-var mnemonic = "robot duck require noble nation proud seek copper iron almost tone clown";
+var mnemonic = "element capable book girl taxi electric cave fan record assume coffee surface";

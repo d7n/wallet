@@ -1,1 +1,1 @@
-var mnemonic = "evolve kiss glance hip ill lobster ocean brand travel shock defy friend";
+var mnemonic = "alcohol uphold urge put gown hold gain stamp tuna seek animal inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "lab trip ankle donate ill senior story relief prepare ski apple blossom";
+var mnemonic = "blossom feel north fetch direct ribbon rubber tide melody saddle point forget";

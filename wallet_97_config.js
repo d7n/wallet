@@ -1,1 +1,1 @@
-var mnemonic = "clerk shoulder stage exhaust tumble scale pioneer soap source use acid click";
+var mnemonic = "awesome seat install crime uncover coyote suspect visa rail hollow toe album";

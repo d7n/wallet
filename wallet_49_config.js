@@ -1,1 +1,1 @@
-var mnemonic = "cannon select share ranch spare seat school check pear example drama soda";
+var mnemonic = "expire because lamp idle shell power step panel endorse limb become brick";

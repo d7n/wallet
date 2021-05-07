@@ -1,1 +1,1 @@
-var mnemonic = "pupil exhaust lottery tumble mutual senior feed between purity claim viable differ";
+var mnemonic = "flock whip soap brief cause motion achieve pelican choice transfer box mutual";

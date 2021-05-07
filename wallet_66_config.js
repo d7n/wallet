@@ -1,1 +1,1 @@
-var mnemonic = "arrange artist gym attitude author cigar output typical success judge movie forum";
+var mnemonic = "addict like into maple category soup filter coral trial tilt stairs hawk";

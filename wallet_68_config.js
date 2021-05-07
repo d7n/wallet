@@ -1,1 +1,1 @@
-var mnemonic = "cry merit virus year false media burst corn early brand warfare radar";
+var mnemonic = "admit please margin error build thumb present fuel chuckle lounge lens one";

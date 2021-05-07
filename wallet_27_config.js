@@ -1,1 +1,1 @@
-var mnemonic = "creek eternal apology lesson reflect vivid kick current coast van cabbage learn";
+var mnemonic = "rent antenna custom insect entry change cook next ecology various afford awake";

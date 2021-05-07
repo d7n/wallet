@@ -1,1 +1,1 @@
-var mnemonic = "anchor excite card inch pepper sing liar soccer train marble this suit";
+var mnemonic = "father daughter floor abandon dress birth maple safe bus merit jealous this";

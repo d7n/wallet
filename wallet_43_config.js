@@ -1,1 +1,1 @@
-var mnemonic = "relax sniff uphold wine lunch bind alarm mean drastic erode kingdom purpose";
+var mnemonic = "foot length soon innocent body load trap amused vintage person push cinnamon";

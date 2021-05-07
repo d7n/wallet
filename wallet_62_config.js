@@ -1,1 +1,1 @@
-var mnemonic = "check pool crack design couple ring turkey lift victory drama regular faculty";
+var mnemonic = "buzz bright hen subject party blood reform flag shell monkey uncover nut";

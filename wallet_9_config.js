@@ -1,1 +1,1 @@
-var mnemonic = "famous tunnel clerk auto wrist wet sense latin treat vocal music learn";
+var mnemonic = "system door hat pig park actor build true one tenant cat anxiety";

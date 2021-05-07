@@ -1,1 +1,1 @@
-var mnemonic = "neck fiscal vacant section tortoise embody toward zone wink develop toilet exhibit";
+var mnemonic = "ostrich canoe detect atom clean hold three palm tide core hero ritual";

@@ -1,1 +1,1 @@
-var mnemonic = "business output drill keen marriage badge retire tone pledge happy man tobacco";
+var mnemonic = "bunker cram curtain alert crucial spring know price volcano cement vote frog";

@@ -1,1 +1,1 @@
-var mnemonic = "twelve coach person acquire music debris capable dune such auction funny answer";
+var mnemonic = "exist outer vessel skill youth label upon enhance oil flame rookie warrior";

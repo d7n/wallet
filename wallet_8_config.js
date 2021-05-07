@@ -1,1 +1,1 @@
-var mnemonic = "fury scare neck mirror credit churn swap already detail accuse bid document";
+var mnemonic = "resemble clarify suspect until clinic moral ocean axis market change side kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel grief arch attend balcony purchase satisfy visit retire kiss cabbage dizzy";
+var mnemonic = "road album water glare hazard salon plastic scorpion arctic stock moon wrap";

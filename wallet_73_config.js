@@ -1,1 +1,1 @@
-var mnemonic = "review reopen gravity love hollow soup kiwi fresh engine witness vapor device";
+var mnemonic = "unveil general curtain stomach ready tank unusual hammer shoulder away heavy physical";

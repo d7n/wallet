@@ -1,1 +1,1 @@
-var mnemonic = "icon erosion valve divide pass divorce glory smoke helmet confirm science van";
+var mnemonic = "pull fiscal rapid luggage cute inside decorate vanish stairs video zone essay";

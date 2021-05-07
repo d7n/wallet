@@ -1,1 +1,1 @@
-var mnemonic = "tribe drink inch comic work bracket very april symptom mirror write rigid";
+var mnemonic = "install valley outdoor ecology lazy top pyramid wedding victory effort drive detect";

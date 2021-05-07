@@ -1,1 +1,1 @@
-var mnemonic = "possible tank glove noble task special pave above glimpse clarify square sleep";
+var mnemonic = "buddy blade cabin item limb domain carry bind crucial dismiss resource gospel";

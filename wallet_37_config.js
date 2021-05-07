@@ -1,1 +1,1 @@
-var mnemonic = "online view upgrade eagle live science boil demand example absorb injury occur";
+var mnemonic = "reunion tortoise bread book target spawn tail patch shop lunch sugar soft";

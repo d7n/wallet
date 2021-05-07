@@ -1,1 +1,1 @@
-var mnemonic = "duck stereo bitter near motor damp cabbage blanket pilot stock vacuum choose";
+var mnemonic = "melody purse theme trumpet employ enrich finger spell arrive tape emerge elbow";

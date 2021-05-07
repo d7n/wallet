@@ -1,1 +1,1 @@
-var mnemonic = "because title uniform label cluster grief clock damp capable picture cry popular";
+var mnemonic = "sword nest believe margin load naive major table clay learn sick broken";

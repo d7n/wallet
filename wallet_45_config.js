@@ -1,1 +1,1 @@
-var mnemonic = "pilot certain swift cross kite tissue faith veteran ice couch home have";
+var mnemonic = "because canyon voyage omit harvest bamboo comic trade party render sure frozen";

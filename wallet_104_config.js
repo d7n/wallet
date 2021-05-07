@@ -1,1 +1,1 @@
-var mnemonic = "edit execute pistol supreme biology lyrics cigar acoustic diesel mandate puppy shift";
+var mnemonic = "agent relief orient myself banner reform fresh dry comfort oak owner axis";

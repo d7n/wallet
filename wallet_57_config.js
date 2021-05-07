@@ -1,1 +1,1 @@
-var mnemonic = "good identify exist prosper notice winner broken heavy present deliver juice soup";
+var mnemonic = "cost poet board exact cushion clever legal erode safe basket guitar rhythm";

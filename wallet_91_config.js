@@ -1,1 +1,1 @@
-var mnemonic = "rally asset unveil oxygen piano eight laundry negative dinner paper body injury";
+var mnemonic = "unusual forest wait flash cigar urban chest leisure syrup curve special frame";

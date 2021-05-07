@@ -1,1 +1,1 @@
-var mnemonic = "symptom destroy token drum toddler meat gas fee large about estate citizen";
+var mnemonic = "tonight critic valid hundred puzzle lend crunch bench gloom fire select soon";

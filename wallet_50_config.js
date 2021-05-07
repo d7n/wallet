@@ -1,1 +1,1 @@
-var mnemonic = "runway carry elder chef lend sentence asset black salon coconut lazy rose";
+var mnemonic = "tape comic ivory then thank lesson bulk throw interest rug congress task";

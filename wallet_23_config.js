@@ -1,1 +1,1 @@
-var mnemonic = "social victory decorate learn universe tiger rally outside blanket narrow table local";
+var mnemonic = "weather remember carry frequent light arch flight fun smoke hammer wild allow";

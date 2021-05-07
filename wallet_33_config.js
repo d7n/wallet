@@ -1,1 +1,1 @@
-var mnemonic = "pave source taxi flame build tiger actress flavor stock shoot youth erosion";
+var mnemonic = "art alert sport usage shift execute hedgehog mirror same coil napkin boy";

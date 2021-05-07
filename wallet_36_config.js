@@ -1,1 +1,1 @@
-var mnemonic = "apology increase fence special battle pizza live tribe family surge embrace other";
+var mnemonic = "crush artwork print stick survey ability will super retire vital foam detail";

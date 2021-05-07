@@ -1,1 +1,1 @@
-var mnemonic = "swim oblige swallow again lake core welcome month license dose blind brief";
+var mnemonic = "genius captain pyramid famous egg pioneer captain ranch slender arm layer target";

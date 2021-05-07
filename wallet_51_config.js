@@ -1,1 +1,1 @@
-var mnemonic = "illegal good exact video ticket example solve vacuum piano cotton north light";
+var mnemonic = "prize usual reward dress tourist bone noodle sniff useful more frost earn";

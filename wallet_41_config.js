@@ -1,1 +1,1 @@
-var mnemonic = "candy ready liquid scrub nice visit gas business praise venue toast response";
+var mnemonic = "mercy raccoon idle symbol shuffle anxiety august cabin catalog find make piece";

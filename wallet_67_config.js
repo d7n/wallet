@@ -1,1 +1,1 @@
-var mnemonic = "involve maple exact arrange bunker drift expose stock endless bless eternal poet";
+var mnemonic = "bamboo bamboo void year disorder flee true prosper armed injury kitten decade";

@@ -1,1 +1,1 @@
-var mnemonic = "whisper blue during level stable message doll festival tongue accident journey civil";
+var mnemonic = "fabric torch around embrace midnight topic garbage sing can stairs coil gift";

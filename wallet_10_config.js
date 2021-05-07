@@ -1,1 +1,1 @@
-var mnemonic = "position fruit theme shock awake element own once learn wife silly file";
+var mnemonic = "light oppose dentist expand vote rebuild female hand draw please pluck lake";

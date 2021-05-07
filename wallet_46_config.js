@@ -1,1 +1,1 @@
-var mnemonic = "fault tuna elbow struggle hazard salad box rally drink donate hard large";
+var mnemonic = "lab symptom trial defy winner edge sadness hunt menu cream claim ignore";

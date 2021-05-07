@@ -1,1 +1,1 @@
-var mnemonic = "defy volcano movie absorb weird flavor chat exhaust drama hotel love bone";
+var mnemonic = "turkey anchor quit purse cycle hold tape idea speed donate morning obey";

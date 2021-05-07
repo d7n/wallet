@@ -1,1 +1,1 @@
-var mnemonic = "language repeat solar over west arm short ugly sock diagram insane journey";
+var mnemonic = "control ketchup rotate glass napkin cliff spike ill meadow canvas april pony";

@@ -1,1 +1,1 @@
-var mnemonic = "energy frozen double crumble opinion spray reject stock trip claim dignity dress";
+var mnemonic = "flame absorb immense poem curve library kitten gossip miracle car provide ticket";

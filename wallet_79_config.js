@@ -1,1 +1,1 @@
-var mnemonic = "minimum clinic moon scale primary rebel tonight vast notice rebel tag screen";
+var mnemonic = "shine recipe attract silk genre front only enhance cry chef found say";

@@ -1,1 +1,1 @@
-var mnemonic = "farm cheap crazy response cart key wash parent middle general cruise nature";
+var mnemonic = "humble dinosaur below size orphan earth decorate orbit enroll member book sniff";

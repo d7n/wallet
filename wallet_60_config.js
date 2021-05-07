@@ -1,1 +1,1 @@
-var mnemonic = "pull whisper october clarify grass ready bamboo lunar floor street canal topple";
+var mnemonic = "pig luggage purse goddess shift level seat start derive ladder like regular";

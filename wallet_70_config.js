@@ -1,1 +1,1 @@
-var mnemonic = "mimic mimic abstract opera remove save gap salon vendor aim describe winter";
+var mnemonic = "axis hip term have bag across acid choice invest balance grain dance";

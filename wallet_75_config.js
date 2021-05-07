@@ -1,1 +1,1 @@
-var mnemonic = "cousin actress fiction crane verb motion patrol kitten team relief else inner";
+var mnemonic = "evil enlist general awake gauge farm among minimum lock rose library kitten";

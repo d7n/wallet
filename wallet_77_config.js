@@ -1,1 +1,1 @@
-var mnemonic = "ripple crack wise craft steel ordinary turkey health heavy unknown amazing warm";
+var mnemonic = "inch decade knock three spy define coffee remain wise habit occur column";

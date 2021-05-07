@@ -1,1 +1,1 @@
-var mnemonic = "goat spatial midnight deer remove rich since wasp join enlist mass inside";
+var mnemonic = "victory mind wealth casino flower midnight glad call test rookie custom artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "food side floor celery stuff try panel pattern total tunnel swarm stem";
+var mnemonic = "rain choose exhibit wrist daring box famous pattern empower husband question april";

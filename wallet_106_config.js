@@ -1,1 +1,1 @@
-var mnemonic = "monitor act okay punch smoke dynamic festival same sad circle message enjoy";
+var mnemonic = "beach shift orphan grunt color warm end file hole bike orphan planet";

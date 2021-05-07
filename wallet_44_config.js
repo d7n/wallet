@@ -1,1 +1,1 @@
-var mnemonic = "peace sponsor galaxy anxiety peasant love subway office weapon nest cigar venture";
+var mnemonic = "off wave fiscal cash amazing uncover safe treat notable type west salon";

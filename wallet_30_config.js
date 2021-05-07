@@ -1,1 +1,1 @@
-var mnemonic = "awesome genuine true fuel deputy peasant garden airport hedgehog special drop vital";
+var mnemonic = "demise fun ostrich word medal dry begin help talk alter urban glance";

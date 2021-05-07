@@ -1,1 +1,1 @@
-var mnemonic = "embody first target hub because wool move wrong task flee alcohol hub";
+var mnemonic = "three device draw tide cover crystal receive once tip asset shuffle razor";

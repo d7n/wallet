@@ -1,1 +1,1 @@
-var mnemonic = "burger title robot congress uncle travel dial oxygen service citizen ribbon glow";
+var mnemonic = "badge cruise pelican two session ice good junior sheriff error clarify notable";

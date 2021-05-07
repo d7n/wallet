@@ -1,1 +1,1 @@
-var mnemonic = "offer veteran bone hand tornado any toast soda wheat stone thing raven";
+var mnemonic = "short kite brave worry genius good festival across when slot protect ostrich";

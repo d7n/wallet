@@ -1,1 +1,1 @@
-var mnemonic = "trade solar absent hammer cradle open hybrid supply view bicycle exile attract";
+var mnemonic = "stone infant door twelve fragile phrase east human sword involve december sorry";

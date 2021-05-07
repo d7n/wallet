@@ -1,1 +1,1 @@
-var mnemonic = "type fossil solve develop another wolf option cool loan machine refuse tell";
+var mnemonic = "zebra ladder file august law tail edge expose garage frame kid recall";

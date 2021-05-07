@@ -1,1 +1,1 @@
-var mnemonic = "tiny lens like sausage fresh state debris unusual hair bacon rookie label";
+var mnemonic = "plastic prepare raven drift news file attend ripple fruit wet grace weekend";

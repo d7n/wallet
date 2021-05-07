@@ -1,1 +1,1 @@
-var mnemonic = "sniff tooth vote maze combine near violin mule carry divert creek nurse";
+var mnemonic = "nothing lecture seed walnut spatial clever hospital flower love spy party memory";
