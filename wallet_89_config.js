@@ -1,1 +1,1 @@
-var mnemonic = "satoshi put fabric letter already east clap hero excess foam stove garbage";
+var mnemonic = "luggage thumb mimic need you vessel garbage direct adjust combine tilt penalty";

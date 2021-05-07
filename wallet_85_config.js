@@ -1,1 +1,1 @@
-var mnemonic = "scorpion couple correct vendor because pause gold decade swarm exact glide lab";
+var mnemonic = "decrease warrior crucial wet critic neck festival describe kind grab silk adult";

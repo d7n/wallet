@@ -1,1 +1,1 @@
-var mnemonic = "real empower sing stomach chapter jewel quantum seven exchange dress sentence seminar";
+var mnemonic = "tide ill razor flat purpose vacuum cry news wine advice borrow minor";

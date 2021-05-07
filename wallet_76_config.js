@@ -1,1 +1,1 @@
-var mnemonic = "chair fat deliver sleep warrior online electric noise bitter infant trim hazard";
+var mnemonic = "during bag trap when sausage little wave have plate sing trust fame";

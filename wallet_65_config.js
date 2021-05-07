@@ -1,1 +1,1 @@
-var mnemonic = "mixture system leave punch salmon few organ flee debate long bottom absurd";
+var mnemonic = "heavy music drama lobster merge blush omit genre dog brief swarm review";

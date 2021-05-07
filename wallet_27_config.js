@@ -1,1 +1,1 @@
-var mnemonic = "whale trash enough observe fresh tortoise spell square spice measure ivory hungry";
+var mnemonic = "lunar cable brave recall ordinary lawn romance link short become endorse worry";

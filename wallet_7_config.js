@@ -1,1 +1,1 @@
-var mnemonic = "forum task ecology humble unfair maple come original artefact satisfy town chat";
+var mnemonic = "height student fold dash royal scout ghost genre front atom bone island";

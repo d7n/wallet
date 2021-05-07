@@ -1,1 +1,1 @@
-var mnemonic = "hat rebel lemon honey provide dust marble arrest document nasty clip room";
+var mnemonic = "equip bar tattoo height giraffe firm bean vacant still state stereo flash";

@@ -1,1 +1,1 @@
-var mnemonic = "knock affair moment gentle course reason trap young jar weather acoustic rib";
+var mnemonic = "supply muscle scorpion eagle fantasy angry grit vendor device kitten puzzle outdoor";

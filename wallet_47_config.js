@@ -1,1 +1,1 @@
-var mnemonic = "smoke sample just repeat eight throw volcano give festival field alone blood";
+var mnemonic = "cushion nothing busy until damage traffic nasty render easily amateur cream series";

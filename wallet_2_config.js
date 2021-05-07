@@ -1,1 +1,1 @@
-var mnemonic = "sister clump involve urban rifle people tuna worth useful mushroom better work";
+var mnemonic = "balcony define benefit prepare enemy enact wink version cloud expect intact jungle";

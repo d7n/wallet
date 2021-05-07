@@ -1,1 +1,1 @@
-var mnemonic = "scrub benefit alone during into box judge strategy you ready connect nut";
+var mnemonic = "design novel wait swear caution edge tonight name animal match sword slide";

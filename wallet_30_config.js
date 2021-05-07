@@ -1,1 +1,1 @@
-var mnemonic = "column plate mosquito vacuum dignity pulp clinic hotel february truth can minor";
+var mnemonic = "only stumble half method dolphin antenna often wrap cannon slogan early winter";

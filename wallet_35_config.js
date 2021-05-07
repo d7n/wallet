@@ -1,1 +1,1 @@
-var mnemonic = "grid universe fossil faint umbrella balcony stage liberty narrow virtual suspect help";
+var mnemonic = "captain uncover chuckle stamp brain snow cliff fortune chief upset cushion blush";

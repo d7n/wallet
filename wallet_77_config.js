@@ -1,1 +1,1 @@
-var mnemonic = "budget pact wheel spring spring security nice panel salad vault hip material";
+var mnemonic = "neglect snake giraffe pole chimney arrow issue tenant divert glare leisure walk";

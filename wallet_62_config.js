@@ -1,1 +1,1 @@
-var mnemonic = "unable city defy riot wrap payment giggle awful glass horror pave idle";
+var mnemonic = "gorilla view gas equal coin addict day alley imitate when cupboard miracle";

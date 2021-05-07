@@ -1,1 +1,1 @@
-var mnemonic = "boy fork arrange ripple hockey caught bacon shuffle regret tide cash sell";
+var mnemonic = "kangaroo illness section guide exit valid fame broken plate foil expand rather";

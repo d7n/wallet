@@ -1,1 +1,1 @@
-var mnemonic = "only creek lady blade climb narrow dance use ankle people kid scale";
+var mnemonic = "sibling soft business juice adapt address more short canyon casino rebel dish";

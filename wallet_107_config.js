@@ -1,1 +1,1 @@
-var mnemonic = "chimney spoil decorate twin utility announce ordinary wood illegal picture birth venue";
+var mnemonic = "divorce velvet actor atom horn park message myth region soul angry absent";

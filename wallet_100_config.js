@@ -1,1 +1,1 @@
-var mnemonic = "endless expect cereal emerge list habit target weapon similar fine walnut pioneer";
+var mnemonic = "flee elegant detect rely betray tenant helmet basic lady ensure eternal now";

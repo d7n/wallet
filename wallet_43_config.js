@@ -1,1 +1,1 @@
-var mnemonic = "laptop chat material wedding beauty spot panther never leave play boat side";
+var mnemonic = "item oak arrow saddle connect nerve will fruit boat frame annual organ";

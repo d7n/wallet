@@ -1,1 +1,1 @@
-var mnemonic = "day pledge message minor ritual magnet coral power fit struggle asthma income";
+var mnemonic = "affair east exhibit metal snack cup transfer hat other wisdom give wisdom";

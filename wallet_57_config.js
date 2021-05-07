@@ -1,1 +1,1 @@
-var mnemonic = "lounge mechanic phrase garage critic pepper color youth street drive head wedding";
+var mnemonic = "height settle satoshi auto skin curtain bicycle siren crisp blush vintage limit";

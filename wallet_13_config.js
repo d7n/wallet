@@ -1,1 +1,1 @@
-var mnemonic = "timber want earn exist boat wagon valid erase grab before ozone height";
+var mnemonic = "leisure height dad until pact sick follow cruise bachelor rocket naive symbol";

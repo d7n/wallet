@@ -1,1 +1,1 @@
-var mnemonic = "runway erode cricket envelope camp dune better ill glue blanket bike south";
+var mnemonic = "where ski isolate green vote morning zone main isolate sketch copy rate";

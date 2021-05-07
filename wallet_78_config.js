@@ -1,1 +1,1 @@
-var mnemonic = "switch burst basic prevent hope total creek claim rabbit fluid bitter cloth";
+var mnemonic = "actor panel float news salute base obtain olympic chaos bar member fury";

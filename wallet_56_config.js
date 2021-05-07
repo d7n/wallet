@@ -1,1 +1,1 @@
-var mnemonic = "alert liar march head consider cloud wire antenna buddy uphold debris skate";
+var mnemonic = "spawn fix country gun digital solid gesture dirt nurse smart index broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "equal wisdom isolate trash hero face dinosaur salute home grant recall leg";
+var mnemonic = "hour network suggest artist advance sauce episode duty tattoo glue delay abandon";

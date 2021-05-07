@@ -1,1 +1,1 @@
-var mnemonic = "shiver ocean skull occur music leave coast alter bracket net impulse solid";
+var mnemonic = "work apart pilot reject scale license again stem squeeze peasant mix force";

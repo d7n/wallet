@@ -1,1 +1,1 @@
-var mnemonic = "scout enforce banana alley energy rescue you deposit away drastic quote call";
+var mnemonic = "frequent invite burst ramp strike feel firm word blade hockey flight envelope";

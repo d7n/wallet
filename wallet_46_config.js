@@ -1,1 +1,1 @@
-var mnemonic = "already refuse scorpion include private axis bachelor van dove matrix hip enforce";
+var mnemonic = "beauty fatigue merry test nurse income crouch patient survey wash midnight once";

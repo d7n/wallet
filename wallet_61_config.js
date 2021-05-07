@@ -1,1 +1,1 @@
-var mnemonic = "cross endless chair siren force illegal old bring fence prepare wage reunion";
+var mnemonic = "sponsor romance arrow receive army rally action exhibit keen rain pass absorb";

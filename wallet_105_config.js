@@ -1,1 +1,1 @@
-var mnemonic = "foot glow february enroll vintage artist theory noise over potato raw joy";
+var mnemonic = "already copper purity silver fuel flag kingdom enable armor gentle fetch dove";

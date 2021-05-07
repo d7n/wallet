@@ -1,1 +1,1 @@
-var mnemonic = "mountain caught silly solve side trick damp race bean trip snake stem";
+var mnemonic = "point birth scale express ridge snack hungry jar because foam magic game";

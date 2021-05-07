@@ -1,1 +1,1 @@
-var mnemonic = "erupt moon state gauge alert marine judge truck metal multiply adjust setup";
+var mnemonic = "consider belt mass topple surprise type increase rain pulp marble blur essence";

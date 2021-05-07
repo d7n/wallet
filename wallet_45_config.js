@@ -1,1 +1,1 @@
-var mnemonic = "truly chat clinic spike neglect slender pill crowd fruit skin access decade";
+var mnemonic = "old accuse grass sadness floor energy brand reveal almost slot farm make";

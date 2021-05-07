@@ -1,1 +1,1 @@
-var mnemonic = "pistol genre dumb control drum length skirt chief amazing gap old virus";
+var mnemonic = "negative mammal hunt aspect fall decide oil bulk medal february until before";

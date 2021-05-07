@@ -1,1 +1,1 @@
-var mnemonic = "shift bargain melody suffer stomach digital already crazy home sport primary agent";
+var mnemonic = "vocal pyramid sick hundred cabbage student review want into cave dream circle";

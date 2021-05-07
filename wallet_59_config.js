@@ -1,1 +1,1 @@
-var mnemonic = "myth surround kangaroo abstract deputy brave twenty moral situate key property document";
+var mnemonic = "process pass hair lumber excite praise unable dutch blame ability snake name";

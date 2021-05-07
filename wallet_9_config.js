@@ -1,1 +1,1 @@
-var mnemonic = "siren daughter boss clip space patch throw dinosaur race crush rubber rare";
+var mnemonic = "term biology mango salute art rigid ski winter blame name ozone frog";

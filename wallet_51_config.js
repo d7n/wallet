@@ -1,1 +1,1 @@
-var mnemonic = "series saddle provide symbol doll oppose cushion marine clump upgrade piece argue";
+var mnemonic = "visit minute blue foil turkey grit crazy trophy squirrel improve slight weasel";

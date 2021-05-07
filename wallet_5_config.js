@@ -1,1 +1,1 @@
-var mnemonic = "indicate excite yellow hurt recall stem salon bridge together beyond student radio";
+var mnemonic = "lesson tuna rally fine erupt bone essence coil congress buzz olive code";

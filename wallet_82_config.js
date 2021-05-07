@@ -1,1 +1,1 @@
-var mnemonic = "paddle milk float exchange clock bulk dismiss uphold aerobic once people coconut";
+var mnemonic = "table clarify public enter champion have weird fog salmon near floor wisdom";

@@ -1,1 +1,1 @@
-var mnemonic = "come follow opera clinic stairs clean balcony once sense device spatial service";
+var mnemonic = "alone canyon canyon glide exist artwork crew warm essence cluster upon escape";

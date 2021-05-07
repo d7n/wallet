@@ -1,1 +1,1 @@
-var mnemonic = "stock remove pistol forest much clerk police sugar brother dinner shop interest";
+var mnemonic = "trust feature blade display churn famous mail source history slide wreck term";

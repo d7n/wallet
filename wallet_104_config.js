@@ -1,1 +1,1 @@
-var mnemonic = "snack fault zero roast chimney smile bid cage endorse allow pink umbrella";
+var mnemonic = "marble peasant side salute diet glass allow slow visit energy recycle favorite";

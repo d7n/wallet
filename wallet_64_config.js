@@ -1,1 +1,1 @@
-var mnemonic = "solid wedding leg soul unaware hood mimic sort undo avoid dove van";
+var mnemonic = "large sauce decorate harbor sentence midnight sketch inform frown man renew manage";

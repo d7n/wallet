@@ -1,1 +1,1 @@
-var mnemonic = "develop alter road angry kitten burger upset rule real broccoli recipe slide";
+var mnemonic = "horn sorry else sponsor venture position rough mixed accuse breeze cost fine";

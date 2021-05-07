@@ -1,1 +1,1 @@
-var mnemonic = "cargo episode bargain rather boil process clinic salon mind laundry outer across";
+var mnemonic = "index screen giggle sentence weapon universe bounce obtain hat layer race genre";

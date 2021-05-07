@@ -1,1 +1,1 @@
-var mnemonic = "admit isolate vintage control dynamic script family rally control coconut army trust";
+var mnemonic = "crucial envelope easy puppy dynamic must coach pyramid truly fresh dentist artist";

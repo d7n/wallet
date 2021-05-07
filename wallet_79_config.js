@@ -1,1 +1,1 @@
-var mnemonic = "dream season tree drink pair farm giggle cover then lamp short victory";
+var mnemonic = "frame candy system roof shiver wild mixture because flower gospel often volcano";

@@ -1,1 +1,1 @@
-var mnemonic = "hood before organ thank soap secret move above core bulk lava trick";
+var mnemonic = "cigar case glove police damage pride ginger divide alcohol orbit best rule";

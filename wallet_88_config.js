@@ -1,1 +1,1 @@
-var mnemonic = "tragic amateur enroll next modify region unlock square mansion plug fluid during";
+var mnemonic = "duck cake shoulder final mammal drop galaxy arrest muscle laundry pave battle";

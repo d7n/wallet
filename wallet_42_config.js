@@ -1,1 +1,1 @@
-var mnemonic = "car bag mail market primary scissors mountain virtual universe cry bachelor route";
+var mnemonic = "asthma junk lunch author fault erupt tent example place twist shoe inhale";

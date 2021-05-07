@@ -1,1 +1,1 @@
-var mnemonic = "veteran quarter perfect antique dance equal nature caution favorite obvious album gospel";
+var mnemonic = "ridge picture owner lens regular track course before wire excuse illness vendor";

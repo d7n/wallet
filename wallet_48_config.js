@@ -1,1 +1,1 @@
-var mnemonic = "begin climb base bronze medal swap found bind vapor mandate color cereal";
+var mnemonic = "shell finish alien crash moment sausage kit season will exact fluid join";

@@ -1,1 +1,1 @@
-var mnemonic = "own void crumble grid level harbor cereal rescue tuna spider invest whisper";
+var mnemonic = "cruise proud carry among couple legend rich yellow interest pioneer library pulp";

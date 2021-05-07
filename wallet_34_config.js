@@ -1,1 +1,1 @@
-var mnemonic = "raise way drift crush bring ski dawn permit act air there sniff";
+var mnemonic = "phrase payment time jealous dolphin soda child behave receive win allow juice";

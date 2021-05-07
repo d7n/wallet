@@ -1,1 +1,1 @@
-var mnemonic = "angle useless gallery orient found dove success carbon winner tortoise lecture recycle";
+var mnemonic = "assault clog visa noble oppose only wet proof senior demand quick mechanic";

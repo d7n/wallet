@@ -1,1 +1,1 @@
-var mnemonic = "share quarter flavor inflict swift decade soup toe match come tonight same";
+var mnemonic = "act reject used spot account this inherit wing ginger panic just whale";

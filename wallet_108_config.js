@@ -1,1 +1,1 @@
-var mnemonic = "day crystal december nothing exclude capital syrup employ february abuse verb copy";
+var mnemonic = "alien release chaos panda text science monitor lunch brick narrow erosion grain";

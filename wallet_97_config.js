@@ -1,1 +1,1 @@
-var mnemonic = "mass echo wheat hint day blood rocket vivid snack wasp matter nephew";
+var mnemonic = "release insane boost expire mind train robust race original edge cherry proof";

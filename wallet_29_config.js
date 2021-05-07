@@ -1,1 +1,1 @@
-var mnemonic = "inhale crazy news ride oyster worth social enter retire theme year man";
+var mnemonic = "volcano wealth miracle collect sibling nation chaos receive until sustain year suit";

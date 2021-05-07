@@ -1,1 +1,1 @@
-var mnemonic = "useful symptom trust way answer topic kitten peace theme venue seed safe";
+var mnemonic = "bounce olympic royal series ship acoustic already bright inspire spot toilet machine";

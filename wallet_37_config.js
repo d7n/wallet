@@ -1,1 +1,1 @@
-var mnemonic = "amazing ecology copper priority kid wet forward tissue reveal pill rail chicken";
+var mnemonic = "satisfy chuckle ahead vehicle drop bracket custom camp okay crush drink achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "staff cannon ball shell deposit interest again bunker floor toilet category shaft";
+var mnemonic = "degree junior caught predict movie road tortoise myth cup size beyond movie";

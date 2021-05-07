@@ -1,1 +1,1 @@
-var mnemonic = "cave prefer combine wear broom pull solid leg matter goddess powder disagree";
+var mnemonic = "hand step deliver figure equal first excess auction aspect soap original order";

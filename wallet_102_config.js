@@ -1,1 +1,1 @@
-var mnemonic = "latin bitter letter magnet mystery leopard much cluster stable ancient fence snack";
+var mnemonic = "century mushroom ozone capable chuckle cradle need unlock mix flame shift chef";

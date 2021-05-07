@@ -1,1 +1,1 @@
-var mnemonic = "assault club best upon pair car endless quote turtle hair crack raw";
+var mnemonic = "ginger inject duty express ordinary casino curious message appear title bird flame";

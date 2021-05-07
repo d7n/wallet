@@ -1,1 +1,1 @@
-var mnemonic = "apple moon prevent melt minimum voice trash skin shrug rice arctic frown";
+var mnemonic = "impact frequent love aisle december bring vote like develop battle replace result";

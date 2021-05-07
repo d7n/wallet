@@ -1,1 +1,1 @@
-var mnemonic = "avocado crash skin saddle same situate coil inject zebra buyer desk luggage";
+var mnemonic = "ensure planet violin decrease success inform laptop nice object nest boss lake";

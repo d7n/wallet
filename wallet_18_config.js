@@ -1,1 +1,1 @@
-var mnemonic = "random sniff maximum level pudding zone nothing speed dad fold coconut arm";
+var mnemonic = "two biology extra huge pioneer portion opera figure ketchup canoe digital stage";

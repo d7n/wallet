@@ -1,1 +1,1 @@
-var mnemonic = "hidden rebuild cannon tennis zoo harsh flower practice stable blouse cushion mixed";
+var mnemonic = "magnet birth miss area cousin calm fire sing subway cream congress move";

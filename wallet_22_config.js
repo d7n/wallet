@@ -1,1 +1,1 @@
-var mnemonic = "someone envelope response rug vendor social margin hurt limb capital cruel resemble";
+var mnemonic = "royal ability gain rude frown furnace aim together wheel bar income cotton";

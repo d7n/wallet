@@ -1,1 +1,1 @@
-var mnemonic = "replace lizard novel category govern bottom island tiny ignore put fury present";
+var mnemonic = "humor beef dose front portion dawn believe beauty good bulk pledge swap";

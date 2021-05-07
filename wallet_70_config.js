@@ -1,1 +1,1 @@
-var mnemonic = "grow rug great treat blush resemble lens famous hold hover fortune awful";
+var mnemonic = "soul wish fade curious hub dinner civil ladder rabbit alert that pen";

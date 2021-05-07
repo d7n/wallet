@@ -1,1 +1,1 @@
-var mnemonic = "torch ghost clock gun ball stay tribe catalog enough embrace salon album";
+var mnemonic = "crystal trip truck tomato recycle drift travel exist blossom legal stock razor";

@@ -1,1 +1,1 @@
-var mnemonic = "runway task comfort order again portion misery employ police add detect enforce";
+var mnemonic = "rabbit spell sample wire cup lottery travel merge inquiry clog tiny push";

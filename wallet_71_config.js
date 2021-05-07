@@ -1,1 +1,1 @@
-var mnemonic = "alarm victory shed swift scrub library speak inner net film train burger";
+var mnemonic = "history attitude water artefact dirt shift maximum catalog useful curious climb hope";

@@ -1,1 +1,1 @@
-var mnemonic = "woman multiply cycle chase manage arena boat dilemma maximum profit foster team";
+var mnemonic = "audit adjust guide engage invest diamond plunge breeze gospel enlist fit erase";

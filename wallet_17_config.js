@@ -1,1 +1,1 @@
-var mnemonic = "material basic change success name cycle hello shy daring sea boat general";
+var mnemonic = "kitten mistake kick raven tail ahead hawk retreat stand jump shuffle poet";

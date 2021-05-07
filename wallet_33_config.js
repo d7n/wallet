@@ -1,1 +1,1 @@
-var mnemonic = "rookie fitness slim concert quote bright sheriff decide piano dumb exhaust once";
+var mnemonic = "true dream dress ten hair now sleep quarter exit eagle panda extra";

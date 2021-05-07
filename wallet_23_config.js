@@ -1,1 +1,1 @@
-var mnemonic = "doctor east version curtain fan claw spatial tag column hat festival arctic";
+var mnemonic = "good tissue arm range tackle loan scene learn attend bulb child vapor";
