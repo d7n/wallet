@@ -1,1 +1,1 @@
-var mnemonic = "eye purity term pill pony oblige honey dumb injury girl weather eye";
+var mnemonic = "client bleak ladder tape grunt exact museum mouse staff spot zebra rookie";

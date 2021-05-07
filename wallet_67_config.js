@@ -1,1 +1,1 @@
-var mnemonic = "clutch morning street dust match same project hire nut devote pretty pepper";
+var mnemonic = "violin order helmet health young hobby hurt shy chapter present member exist";

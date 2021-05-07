@@ -1,1 +1,1 @@
-var mnemonic = "liquid pear green fabric clap eternal cart soul youth heart try media";
+var mnemonic = "frown mule ask hub admit guard oven kid project joy prefer space";

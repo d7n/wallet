@@ -1,1 +1,1 @@
-var mnemonic = "web involve second universe trick gun spring clock farm core negative crowd";
+var mnemonic = "galaxy face net man deny country damp promote taxi recipe dance sock";

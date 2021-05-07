@@ -1,1 +1,1 @@
-var mnemonic = "melody void bridge original piece fence spice wild engine unfold luxury juice";
+var mnemonic = "sting arrive symbol picture rhythm dune sword loud parade dinner save credit";

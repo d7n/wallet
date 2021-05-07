@@ -1,1 +1,1 @@
-var mnemonic = "bargain decorate quote two enhance certain matter hidden cloth wise spawn such";
+var mnemonic = "morning caution clay merge rate hedgehog evolve element team absent rack base";

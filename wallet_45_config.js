@@ -1,1 +1,1 @@
-var mnemonic = "gift zoo region broccoli timber oyster vessel month detail shallow wool render";
+var mnemonic = "north couch wink divorce stock click debris spy quit medal match alone";

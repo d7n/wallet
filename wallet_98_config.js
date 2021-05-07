@@ -1,1 +1,1 @@
-var mnemonic = "receive fitness museum swear economy act garage arctic negative quote unable loud";
+var mnemonic = "slight fold gospel cloud predict chuckle year deny fashion message castle armed";

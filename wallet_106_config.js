@@ -1,1 +1,1 @@
-var mnemonic = "guard imitate useful enough vicious armed try sibling donate patrol absent dry";
+var mnemonic = "evidence second sunny hint render remember energy sea crop oppose enrich address";

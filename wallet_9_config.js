@@ -1,1 +1,1 @@
-var mnemonic = "case plate also decrease shadow effort ocean avocado infant penalty hub sphere";
+var mnemonic = "worth bonus assume dream liar scrub castle fix auction skull initial usual";

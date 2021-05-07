@@ -1,1 +1,1 @@
-var mnemonic = "wisdom wire gain visual cross lobster combine rebel silver since fortune equip";
+var mnemonic = "afraid art pool seek coral pulse real pass spoon concert damage wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "proof camera aware half carpet lab poem balance alarm correct gain action";
+var mnemonic = "guess together antenna mass tenant useful focus embark program uniform umbrella remember";

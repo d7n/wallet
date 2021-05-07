@@ -1,1 +1,1 @@
-var mnemonic = "dynamic welcome mango attack lunar road sorry latin fence spell luggage clerk";
+var mnemonic = "arch crawl bag purchase wagon flower purse gravity biology plastic rescue economy";

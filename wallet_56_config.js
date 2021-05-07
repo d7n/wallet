@@ -1,1 +1,1 @@
-var mnemonic = "involve stumble gown hobby current million switch gain grant domain scout private";
+var mnemonic = "apology tuna father skirt six coyote waste calm regret dinner crazy noble";

@@ -1,1 +1,1 @@
-var mnemonic = "make move plunge enter price suit dream grant pulp pair scatter battle";
+var mnemonic = "chalk jar traffic program tornado robot expose insect soccer jeans round unit";

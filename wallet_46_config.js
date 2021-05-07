@@ -1,1 +1,1 @@
-var mnemonic = "animal injury milk zebra harvest answer start raw axis drip ripple quarter";
+var mnemonic = "congress royal razor rule attend taxi area expect pulp pumpkin orange law";

@@ -1,1 +1,1 @@
-var mnemonic = "matter speed envelope balcony boy comic nut lamp zoo nothing refuse suspect";
+var mnemonic = "useful horse allow drastic paddle must label april unfold poverty cute art";

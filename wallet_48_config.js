@@ -1,1 +1,1 @@
-var mnemonic = "alley journey exercise bag very shy trial embrace visit salad extend west";
+var mnemonic = "friend year industry sock obtain involve elite stable question problem yard accident";

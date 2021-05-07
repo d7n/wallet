@@ -1,1 +1,1 @@
-var mnemonic = "ticket gym immense nose derive purpose shiver merge upper lady debate sheriff";
+var mnemonic = "nature they gospel flavor group sphere surge visual grace alpha aware trophy";

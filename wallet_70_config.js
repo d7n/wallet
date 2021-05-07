@@ -1,1 +1,1 @@
-var mnemonic = "almost dove mesh snow foster pony paper kiwi flock garage solar arrange";
+var mnemonic = "replace harbor oppose later uncover visa announce give pipe token palm crop";

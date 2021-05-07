@@ -1,1 +1,1 @@
-var mnemonic = "bomb coconut mansion notice tank duck sign slam wonder answer cabin caution";
+var mnemonic = "safe attend include sign hole kite office width vivid park pink report";

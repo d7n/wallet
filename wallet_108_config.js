@@ -1,1 +1,1 @@
-var mnemonic = "often leg title leader meat noodle law wire liberty material hidden wing";
+var mnemonic = "chase liquid also salmon have old travel essay science present stay museum";

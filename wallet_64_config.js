@@ -1,1 +1,1 @@
-var mnemonic = "grunt ice wonder reform cook movie minor monitor notable cruel advice taste";
+var mnemonic = "visual blanket jungle banana inspire amateur hawk human hope alone present rocket";

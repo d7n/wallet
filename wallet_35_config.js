@@ -1,1 +1,1 @@
-var mnemonic = "border loan tackle random boil mountain tower wage shock call vast brief";
+var mnemonic = "remain club fitness flame hurry catch child enough lock craft lawn sail";

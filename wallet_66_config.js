@@ -1,1 +1,1 @@
-var mnemonic = "such top pluck disease just armed unfair mean muffin language poem edge";
+var mnemonic = "ticket draft panel ridge void recycle candy night pretty wrist idea few";

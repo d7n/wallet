@@ -1,1 +1,1 @@
-var mnemonic = "cook decide under mansion thought shop steak grunt nothing hawk insect humor";
+var mnemonic = "during fragile curve actor soap person vessel frog hen keen wire tuna";

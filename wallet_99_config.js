@@ -1,1 +1,1 @@
-var mnemonic = "song base exercise crunch twenty foster coconut drastic patch total stage cram";
+var mnemonic = "peasant advance alter pioneer market surge draft wisdom boat muscle useful reject";

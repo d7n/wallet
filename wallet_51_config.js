@@ -1,1 +1,1 @@
-var mnemonic = "insane demise behave what galaxy ranch idea melt ball aisle enjoy girl";
+var mnemonic = "barely chunk unlock dizzy slush reason cost fatal anxiety vintage notice couch";

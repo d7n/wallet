@@ -1,1 +1,1 @@
-var mnemonic = "maze cruise window black vault dynamic wink mixed soft exclude reopen floor";
+var mnemonic = "frost beach hazard tribe bonus laundry giggle behave pyramid cycle enlist inside";

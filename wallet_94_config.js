@@ -1,1 +1,1 @@
-var mnemonic = "dune master disease bleak coast senior napkin blouse myself phrase invite nothing";
+var mnemonic = "camp prefer broccoli twelve current since bamboo misery project lawn angle age";

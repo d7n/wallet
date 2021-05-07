@@ -1,1 +1,1 @@
-var mnemonic = "inner elbow retire tomato casual box excite rule olympic churn spirit image";
+var mnemonic = "record trumpet ankle coast stadium rural better nest spirit equal clump foil";

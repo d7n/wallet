@@ -1,1 +1,1 @@
-var mnemonic = "neutral unfold blame year price seed grab circle license effort leopard hobby";
+var mnemonic = "rocket exist dune bean prevent voyage scare journey virtual family solid access";

@@ -1,1 +1,1 @@
-var mnemonic = "van stuff welcome sick clock excite assume mix cinnamon enough comfort eyebrow";
+var mnemonic = "ignore grass junior hundred dove vibrant kit observe spin boss pen distance";

@@ -1,1 +1,1 @@
-var mnemonic = "divert private garment angle swift animal rain fury similar author opera effort";
+var mnemonic = "push trust calm insane age aware explain claim struggle dumb orient protect";

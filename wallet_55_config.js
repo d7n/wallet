@@ -1,1 +1,1 @@
-var mnemonic = "canal ostrich feature song mixed music december note bag glory cliff toss";
+var mnemonic = "edit bacon place raccoon build train disease ranch material promote spice catalog";

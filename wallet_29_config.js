@@ -1,1 +1,1 @@
-var mnemonic = "fly lounge shy smooth admit number hidden expire nose tip mixture shoot";
+var mnemonic = "often position feed guilt cinnamon cement screen practice imitate depend mesh unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "pony arrest odor dinosaur museum cannon hurry grape wish promote project balcony";
+var mnemonic = "drift episode convince burger scale arrive same burger between tank organ bracket";

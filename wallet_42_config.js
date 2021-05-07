@@ -1,1 +1,1 @@
-var mnemonic = "wonder release energy loop gate route eager enact rally vibrant arrange punch";
+var mnemonic = "usage gun explain junior dizzy napkin siren chicken chronic luggage input enough";

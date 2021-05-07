@@ -1,1 +1,1 @@
-var mnemonic = "kit throw insane genre adapt bright radar laundry enact tag token economy";
+var mnemonic = "glide control siren save sock earth offer concert joy prize round illegal";

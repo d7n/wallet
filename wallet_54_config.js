@@ -1,1 +1,1 @@
-var mnemonic = "farm effort pause pyramid decide liberty below thought fever say differ wing";
+var mnemonic = "connect volume number fever culture improve check consider maid cabin love hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "earth leaf walk snap hour bench answer exist eyebrow giggle grape wisdom";
+var mnemonic = "enact breeze adapt lava clap leisure attract force together video nerve extra";

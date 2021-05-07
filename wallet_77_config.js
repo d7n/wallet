@@ -1,1 +1,1 @@
-var mnemonic = "door thing waste example tired ask coin pledge ghost size service web";
+var mnemonic = "slogan surround father gasp dream butter artefact cricket trap stove hunt clever";

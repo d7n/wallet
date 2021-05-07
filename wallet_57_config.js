@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow bench speak trade version then salmon annual chaos task spare pink";
+var mnemonic = "clarify hunt long brisk awake lonely middle orphan bubble jacket grab bitter";

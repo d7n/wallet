@@ -1,1 +1,1 @@
-var mnemonic = "train broom library biology purity vintage gather police climb minute caught surprise";
+var mnemonic = "gasp cannon immense apology cradle toe act jeans wait merry wool coconut";

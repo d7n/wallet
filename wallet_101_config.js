@@ -1,1 +1,1 @@
-var mnemonic = "develop rookie clap display list grain phrase melt involve annual observe wonder";
+var mnemonic = "loan fan rib wash file raw glory absorb wave noble ride extra";

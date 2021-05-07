@@ -1,1 +1,1 @@
-var mnemonic = "two exhibit beef era couple winter sausage anxiety bullet grocery attitude assault";
+var mnemonic = "oval fantasy hold mansion local life elbow gadget ordinary effort letter captain";

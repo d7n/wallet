@@ -1,1 +1,1 @@
-var mnemonic = "drop helmet forum benefit capable unfair shoe pave exist trophy feel waste";
+var mnemonic = "canyon among chaos forest alien female ritual educate lottery bracket pitch circle";

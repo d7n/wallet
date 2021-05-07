@@ -1,1 +1,1 @@
-var mnemonic = "jewel fun retreat vapor champion champion stomach fetch spin real hurry dream";
+var mnemonic = "unlock check jealous fiscal cruel minimum squirrel pattern sleep clutch ice monkey";

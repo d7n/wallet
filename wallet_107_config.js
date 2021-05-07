@@ -1,1 +1,1 @@
-var mnemonic = "dawn fatal sure hero enhance result mesh festival alcohol fade skin scissors";
+var mnemonic = "depend night shoulder fantasy misery memory ticket mosquito lobster aerobic language endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "throw draft will abuse toe lock say embark depend melody group learn";
+var mnemonic = "index flat diesel fitness silver column real virtual oyster situate focus guess";

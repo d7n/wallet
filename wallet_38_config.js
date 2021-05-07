@@ -1,1 +1,1 @@
-var mnemonic = "bleak fire expand bonus cook moral burst route speed loop typical repeat";
+var mnemonic = "junk design shadow start flat sausage elegant art scale float yard oyster";

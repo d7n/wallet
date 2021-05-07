@@ -1,1 +1,1 @@
-var mnemonic = "angry silly inherit awesome say early forget tell original emerge produce wealth";
+var mnemonic = "chief move occur fabric elevator mushroom castle minimum mushroom sun remain opera";

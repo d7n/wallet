@@ -1,1 +1,1 @@
-var mnemonic = "arm toilet ready quit blur sponsor name hotel weasel eyebrow simple green";
+var mnemonic = "soft happy copy glimpse neglect output narrow reflect certain language cloud wine";

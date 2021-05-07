@@ -1,1 +1,1 @@
-var mnemonic = "friend beyond piece ritual sweet mixed occur rookie sand mule ordinary clerk";
+var mnemonic = "area shift galaxy enroll claim please rate easily permit desert year icon";

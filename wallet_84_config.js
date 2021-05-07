@@ -1,1 +1,1 @@
-var mnemonic = "oil atom curious copy satoshi hire acoustic stem wedding bind hard know";
+var mnemonic = "remain sport anger fantasy inflict dish shove baby priority panel suit south";

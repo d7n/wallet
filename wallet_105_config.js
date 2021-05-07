@@ -1,1 +1,1 @@
-var mnemonic = "return chef eager dentist humor spot skill flock swamp pipe tunnel panther";
+var mnemonic = "crawl ski sustain harbor fitness picture quick stool vast another among fabric";

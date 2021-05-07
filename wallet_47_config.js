@@ -1,1 +1,1 @@
-var mnemonic = "post print ball buyer cotton ginger subject gospel bridge name frozen bag";
+var mnemonic = "loan duck audit twin nasty tomorrow island boss imitate ripple inspire boil";

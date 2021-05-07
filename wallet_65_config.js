@@ -1,1 +1,1 @@
-var mnemonic = "lens wage shaft evil apple magnet exhibit home panel opinion delay hurry";
+var mnemonic = "pumpkin decline divide permit mean region orbit skate husband corn cool satoshi";

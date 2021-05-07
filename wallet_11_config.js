@@ -1,1 +1,1 @@
-var mnemonic = "nothing erosion media author use pear trumpet phrase box candy water roast";
+var mnemonic = "must dune wife person monitor robot decide decide loud treat october vacant";

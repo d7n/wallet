@@ -1,1 +1,1 @@
-var mnemonic = "jelly machine early anger chunk napkin police piece addict prevent grape vast";
+var mnemonic = "carbon eight ancient blanket globe float obscure suspect tornado mail trick grab";

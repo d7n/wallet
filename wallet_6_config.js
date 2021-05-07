@@ -1,1 +1,1 @@
-var mnemonic = "aisle few engine dismiss rhythm patient auction actress avoid alert merit narrow";
+var mnemonic = "struggle shadow river piece bunker ring fame century upon dash invite must";

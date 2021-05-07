@@ -1,1 +1,1 @@
-var mnemonic = "frost cousin bonus equal inmate wrist ripple design kite reunion drum develop";
+var mnemonic = "crazy shed bachelor bulb unfair flock dog leave release then ghost sort";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown file voyage screen taste used occur record sadness sample crazy lady";
+var mnemonic = "frost eternal gain vacuum tent jewel merit woman frame soul chief junk";

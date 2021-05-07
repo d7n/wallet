@@ -1,1 +1,1 @@
-var mnemonic = "size express nose normal short animal ball search science fish misery modify";
+var mnemonic = "december medal ten ozone scissors globe cage cute inform accident trim busy";

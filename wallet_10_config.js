@@ -1,1 +1,1 @@
-var mnemonic = "wood onion average toast arm success chunk clip hand mail buddy slice";
+var mnemonic = "leisure lunch people open lift tank brother magic catch filter insane nest";

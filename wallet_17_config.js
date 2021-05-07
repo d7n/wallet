@@ -1,1 +1,1 @@
-var mnemonic = "what pumpkin text luxury village pigeon eyebrow punch lawn slide found repair";
+var mnemonic = "asset laptop essay safe grocery goose act load thank agent arctic foster";

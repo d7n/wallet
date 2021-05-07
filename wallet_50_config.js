@@ -1,1 +1,1 @@
-var mnemonic = "income modify breeze desk skill setup minimum cabin faculty clip banner device";
+var mnemonic = "sibling loud start tide slide uncle cook divorce pupil nurse uncover sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe anchor public punch sock best seek duck gesture tissue february trap";
+var mnemonic = "file glimpse glare brisk dog swift sudden leaf diary welcome chicken bounce";

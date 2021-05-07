@@ -1,1 +1,1 @@
-var mnemonic = "orphan patrol trumpet recycle total water settle sign adult buffalo protect curious";
+var mnemonic = "armed magic feed arch enact gate interest puppy candy lucky tower atom";

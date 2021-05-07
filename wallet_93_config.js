@@ -1,1 +1,1 @@
-var mnemonic = "van feed dawn west dragon lobster tank dial photo two obtain wagon";
+var mnemonic = "afford wheel craft move remember budget margin sting fire unfair ghost slice";

@@ -1,1 +1,1 @@
-var mnemonic = "close photo already hub ship balance split bulk across club brand margin";
+var mnemonic = "pigeon caught rate behave horror advice harbor witness book patrol toss fence";

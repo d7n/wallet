@@ -1,1 +1,1 @@
-var mnemonic = "fee flip duty main end relax engine gesture certain shop win raise";
+var mnemonic = "edge label hat vapor impact license horse luxury chef stage office where";

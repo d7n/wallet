@@ -1,1 +1,1 @@
-var mnemonic = "eager vault marble fine claw unable grass float shaft embrace garment thumb";
+var mnemonic = "foot silly decade frequent danger this actress quality wrong jar guess pumpkin";

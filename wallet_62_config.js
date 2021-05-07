@@ -1,1 +1,1 @@
-var mnemonic = "betray disagree wedding idea silent vivid gun warfare claim naive pistol chaos";
+var mnemonic = "path black whip ordinary always menu volume first dinner expose cube frog";

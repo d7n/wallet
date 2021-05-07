@@ -1,1 +1,1 @@
-var mnemonic = "wolf play pave abandon spy tuition loan frozen hobby garage elevator exotic";
+var mnemonic = "enact hundred dog tuna puzzle envelope impact result clever clown pepper flip";

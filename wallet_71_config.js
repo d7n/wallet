@@ -1,1 +1,1 @@
-var mnemonic = "fitness lazy exotic divert hotel twice man number spot omit figure buyer";
+var mnemonic = "mind pride level person inflict zero oak eyebrow supreme extra replace dial";

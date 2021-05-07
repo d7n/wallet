@@ -1,1 +1,1 @@
-var mnemonic = "black cable bench never have awesome reject lion month sniff govern again";
+var mnemonic = "scare peanut crater bunker bubble apart capable cup example stone off ticket";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty mad aerobic isolate dragon fire hawk opera forget three raven chest";
+var mnemonic = "raw rose age girl mother display congress arrange absent home slam surge";

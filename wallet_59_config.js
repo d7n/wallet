@@ -1,1 +1,1 @@
-var mnemonic = "faculty mean mom sphere picnic reward float voice hundred drive hotel build";
+var mnemonic = "emotion puzzle force fat advance bonus lemon magic miracle squeeze social sense";

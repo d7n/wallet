@@ -1,1 +1,1 @@
-var mnemonic = "awful mandate innocent video answer often rifle absurd adult rubber collect angry";
+var mnemonic = "clay used uniform image can over bulk lake spin credit lizard solution";

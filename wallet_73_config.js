@@ -1,1 +1,1 @@
-var mnemonic = "oyster outside huge common crazy plate sponsor furnace rapid observe street label";
+var mnemonic = "fire when lonely unveil solve rice believe garbage ribbon puppy bread uncle";

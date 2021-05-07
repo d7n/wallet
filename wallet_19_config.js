@@ -1,1 +1,1 @@
-var mnemonic = "gloom rate riot away pledge century ball jeans merge sleep flash pave";
+var mnemonic = "correct panda loan pitch talent monkey layer report fence panic sea choose";

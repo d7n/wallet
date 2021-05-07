@@ -1,1 +1,1 @@
-var mnemonic = "ball loud zero damage stone demise filter roast mixture replace true cabin";
+var mnemonic = "donkey tomorrow inquiry ketchup favorite photo spot employ tongue cute chef glue";

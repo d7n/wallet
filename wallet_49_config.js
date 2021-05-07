@@ -1,1 +1,1 @@
-var mnemonic = "candy coin wrap nothing call arrest history coral enjoy leave enroll permit";
+var mnemonic = "match gasp north anxiety what business wing skate web aware october blood";

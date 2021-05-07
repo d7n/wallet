@@ -1,1 +1,1 @@
-var mnemonic = "relax also fold kitten suggest magic path student enter rural edge debris";
+var mnemonic = "common dismiss gospel athlete vast zebra tiger stable innocent buffalo admit lock";

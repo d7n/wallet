@@ -1,1 +1,1 @@
-var mnemonic = "tourist boy uncover hip venue pair vintage divert fix oxygen nut finger";
+var mnemonic = "hockey tribe recall tourist modify grab differ ability punch deal daughter neglect";

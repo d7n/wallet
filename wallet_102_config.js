@@ -1,1 +1,1 @@
-var mnemonic = "ring wire purity erosion water twist exhibit reform infant swift diary twenty";
+var mnemonic = "hybrid desert tape route rail margin borrow foil grit bridge defense token";
