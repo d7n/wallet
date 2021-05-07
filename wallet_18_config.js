@@ -1,1 +1,1 @@
-var mnemonic = "ticket zone stem drip mesh stool fox venture ivory miss cost bind";
+var mnemonic = "chapter question buddy gift practice dirt celery combine favorite child merit keen";

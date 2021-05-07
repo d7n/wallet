@@ -1,1 +1,1 @@
-var mnemonic = "floor civil wait tunnel vivid enlist child cause someone manage wonder photo";
+var mnemonic = "develop acoustic capable dinner kind crater inform forget sphere father kite air";

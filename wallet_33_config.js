@@ -1,1 +1,1 @@
-var mnemonic = "fossil imitate gadget door gate hollow empty worth example divert attitude treat";
+var mnemonic = "labor govern cause crop develop day raven try hurdle pigeon castle rookie";

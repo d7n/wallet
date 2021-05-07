@@ -1,1 +1,1 @@
-var mnemonic = "stereo spread draft priority turtle smart model wing rally outside antenna shadow";
+var mnemonic = "slam caution entry olympic grit secret offer twenty congress stamp demand pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "verify suffer cotton average decline success coconut occur viable magic produce describe";
+var mnemonic = "wall cash emerge alarm culture foster badge circle ostrich sponsor reflect truly";

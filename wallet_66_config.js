@@ -1,1 +1,1 @@
-var mnemonic = "convince tool item oak enact garlic cabbage brush quick awake excite bunker";
+var mnemonic = "warm chef thrive person spy normal dinner arch suggest valley again adjust";

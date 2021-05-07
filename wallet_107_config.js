@@ -1,1 +1,1 @@
-var mnemonic = "pave click acoustic legal finish tray hospital debris hat argue excuse profit";
+var mnemonic = "marble vivid used aware surge bid coral heart raise office argue release";

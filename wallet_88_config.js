@@ -1,1 +1,1 @@
-var mnemonic = "quote lift unveil cup chef canyon skull mushroom hamster cliff drive super";
+var mnemonic = "action fossil token memory swing lizard mask dune hint divert ridge release";

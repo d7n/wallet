@@ -1,1 +1,1 @@
-var mnemonic = "feel earn proud two tomorrow blade educate claw paddle muscle alley novel";
+var mnemonic = "soup veteran palace wheat boss dog depth purpose claim innocent oven side";

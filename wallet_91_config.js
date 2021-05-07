@@ -1,1 +1,1 @@
-var mnemonic = "detect crater town blossom bleak oppose animal series mean burst audit sausage";
+var mnemonic = "noise jaguar prosper neck more pumpkin flat task phone myth whip fossil";

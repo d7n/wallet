@@ -1,1 +1,1 @@
-var mnemonic = "argue scout argue because elegant trouble tray shallow gas wrong suit lesson";
+var mnemonic = "head skill divide search upon sausage forum identify kit panic lunch found";

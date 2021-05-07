@@ -1,1 +1,1 @@
-var mnemonic = "leisure caught attack cigar arrest quote version tone toe post end genius";
+var mnemonic = "slight butter omit silver talk coyote strike tribe easily knee inject weird";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar curve sell candy credit pill verify search dirt vacuum bone disagree";
+var mnemonic = "allow advice garden crater soft pizza panther arrange quality marriage parrot idea";

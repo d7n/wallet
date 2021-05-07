@@ -1,1 +1,1 @@
-var mnemonic = "illegal dinner race vessel awkward volcano cloth rally update attract raw ethics";
+var mnemonic = "point leave exhaust open among bind beauty soft velvet hurdle duty suit";

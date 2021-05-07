@@ -1,1 +1,1 @@
-var mnemonic = "bomb wolf tilt ripple fiction visa garage document curve blossom chat mix";
+var mnemonic = "soccer puppy rally cinnamon disorder fish strategy top debris tortoise pet whisper";

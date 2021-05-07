@@ -1,1 +1,1 @@
-var mnemonic = "idea noodle taste until city inhale vote foster obscure march patch extend";
+var mnemonic = "outer leader concert switch small fabric stereo twelve bread odor remind garbage";

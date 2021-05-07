@@ -1,1 +1,1 @@
-var mnemonic = "style iron idea reflect you fit awkward cupboard stereo hat clerk fury";
+var mnemonic = "coil judge regular cream ball chuckle glimpse faculty guess fiber cement voice";

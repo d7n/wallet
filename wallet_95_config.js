@@ -1,1 +1,1 @@
-var mnemonic = "middle dove inner indoor coach off slide symptom twice squeeze pet wild";
+var mnemonic = "poverty stem mask tide style draw relief culture pitch verify wood sheriff";

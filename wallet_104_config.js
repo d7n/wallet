@@ -1,1 +1,1 @@
-var mnemonic = "drink pet artefact govern coral mosquito siege profit opinion canyon spoon slogan";
+var mnemonic = "flush exit grace sponsor already garment abandon net ten add change rather";

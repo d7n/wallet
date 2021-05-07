@@ -1,1 +1,1 @@
-var mnemonic = "say rail tide use involve battle spell flee artwork aware speed left";
+var mnemonic = "weather feature scrub worth excess discover blossom call thunder sheriff upgrade slot";

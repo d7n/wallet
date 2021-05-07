@@ -1,1 +1,1 @@
-var mnemonic = "clip client clock spider palm express modify flip where warrior kidney water";
+var mnemonic = "cheap slow month cloth social debate globe negative time control health reason";

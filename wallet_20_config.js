@@ -1,1 +1,1 @@
-var mnemonic = "iron favorite analyst friend cage jaguar scissors board glad cube lawn angry";
+var mnemonic = "subway clarify update mansion ill typical current rubber mean glad theory route";

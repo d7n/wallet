@@ -1,1 +1,1 @@
-var mnemonic = "about spider tourist retire wife agent couple vessel boring jewel avoid festival";
+var mnemonic = "clever sign mobile auction name high main trumpet traffic basic kidney mechanic";

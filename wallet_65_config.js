@@ -1,1 +1,1 @@
-var mnemonic = "sing assist half front shell then frown frost diesel seat dolphin letter";
+var mnemonic = "steel bullet omit happy client trend pencil mask decorate voice kitchen mesh";

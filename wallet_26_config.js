@@ -1,1 +1,1 @@
-var mnemonic = "visual envelope immense kid toilet crouch sibling animal embrace ramp leisure card";
+var mnemonic = "window work adult image hawk settle spot remind obey lift actor sound";

@@ -1,1 +1,1 @@
-var mnemonic = "fragile decide manual actress book search patient collect mammal ghost thunder gospel";
+var mnemonic = "practice clay bone silver problem venue infant slab trend minor clap artefact";

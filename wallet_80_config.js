@@ -1,1 +1,1 @@
-var mnemonic = "bring alone plate index know mushroom wasp hood garbage feel illness buddy";
+var mnemonic = "bright air arm void myself setup struggle black exhaust siren gate lend";

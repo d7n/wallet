@@ -1,1 +1,1 @@
-var mnemonic = "attend crawl behind feed snap lock knife mass multiply volcano door network";
+var mnemonic = "thumb card carpet truck fly inmate match lens like honey tree matrix";

@@ -1,1 +1,1 @@
-var mnemonic = "lend plunge poem sound robot hill tragic plastic type equal sudden marriage";
+var mnemonic = "begin fortune regular other exile riot feed slush sausage clump copper lake";

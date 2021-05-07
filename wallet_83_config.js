@@ -1,1 +1,1 @@
-var mnemonic = "hybrid tenant relax version identify silly prosper lab ethics recall quote afraid";
+var mnemonic = "pony another year solution spoil lottery diet wine second street silly winner";

@@ -1,1 +1,1 @@
-var mnemonic = "cash famous ginger crane now glory horn pelican garden hobby stomach castle";
+var mnemonic = "carry radar turkey draft grocery match wool arena mirror found slow toss";

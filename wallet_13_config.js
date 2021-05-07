@@ -1,1 +1,1 @@
-var mnemonic = "enforce blast present deposit mask bicycle leopard mad tattoo firm suggest black";
+var mnemonic = "exhaust trash elegant coconut together ability book vote question castle inspire topple";

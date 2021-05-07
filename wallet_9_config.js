@@ -1,1 +1,1 @@
-var mnemonic = "indoor snow future paper cube decade scheme supply jaguar aunt castle voice";
+var mnemonic = "collect try atom blossom trophy once vicious dilemma fiction angry shell intact";

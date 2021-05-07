@@ -1,1 +1,1 @@
-var mnemonic = "broken kangaroo antenna letter liquid space pottery hurt little host grid ranch";
+var mnemonic = "innocent deputy chase property waste estate chair scan leave weapon planet provide";

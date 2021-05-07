@@ -1,1 +1,1 @@
-var mnemonic = "wrestle segment corn notable spawn fine poem reveal lizard digital way pet";
+var mnemonic = "win juice apple merry zebra burden moment dignity patient useful gospel domain";

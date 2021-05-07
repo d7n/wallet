@@ -1,1 +1,1 @@
-var mnemonic = "say jewel unknown brisk little chronic truck leisure feel bottom brief rain";
+var mnemonic = "state cloud alter sing guilt orient symptom mother pistol virtual twist bullet";

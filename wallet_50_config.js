@@ -1,1 +1,1 @@
-var mnemonic = "effort boy burden puppy fiction mass much shy athlete later nose clarify";
+var mnemonic = "employ dust anchor elder gather pupil pull west entry bid voyage asthma";

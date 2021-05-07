@@ -1,1 +1,1 @@
-var mnemonic = "twenty youth dinosaur dismiss surprise course year tiger wine logic later slush";
+var mnemonic = "prepare ranch net improve mobile domain expand grab doll penalty about glimpse";

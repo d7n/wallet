@@ -1,1 +1,1 @@
-var mnemonic = "forward close point trumpet leg arrange apart scare holiday ceiling range cube";
+var mnemonic = "glass park either drive often primary luggage burst excite seminar tenant sample";

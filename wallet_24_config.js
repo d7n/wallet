@@ -1,1 +1,1 @@
-var mnemonic = "guess noise ten turtle ensure alcohol response tribe panther matrix junior perfect";
+var mnemonic = "like pole life faith away ocean fever woman horror exercise inherit icon";

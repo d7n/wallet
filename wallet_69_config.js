@@ -1,1 +1,1 @@
-var mnemonic = "ankle rich credit shine extra romance hen push member devote camp rib";
+var mnemonic = "balcony year aisle envelope eager jealous jungle false boring burden grass stable";

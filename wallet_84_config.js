@@ -1,1 +1,1 @@
-var mnemonic = "tiger frozen liquid menu thumb seed reflect pulse offer column pen biology";
+var mnemonic = "rival media length creek apart crowd deliver sunset increase afford charge tilt";

@@ -1,1 +1,1 @@
-var mnemonic = "poem solve space involve quit access text turtle song vast innocent usual";
+var mnemonic = "giraffe dentist heart hello maple female slot arch item bike brave flock";

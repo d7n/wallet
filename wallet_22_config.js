@@ -1,1 +1,1 @@
-var mnemonic = "thunder plastic bomb spot poem goose gravity demise spawn choice spice year";
+var mnemonic = "minute athlete vapor busy train tide fragile goddess fade blame better model";

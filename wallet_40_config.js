@@ -1,1 +1,1 @@
-var mnemonic = "auction twist cherry cruel divorce color genius episode brown amazing achieve autumn";
+var mnemonic = "confirm tourist climb rather since position wrong shallow together pledge square marine";

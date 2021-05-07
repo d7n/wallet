@@ -1,1 +1,1 @@
-var mnemonic = "gun certain useless crane kingdom rate cage hire chef position sand original";
+var mnemonic = "frequent sword whip proof debris matter toast pair confirm heavy section banana";

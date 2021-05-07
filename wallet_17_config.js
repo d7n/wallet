@@ -1,1 +1,1 @@
-var mnemonic = "expand father pizza various daring urge trial bunker salad festival pumpkin script";
+var mnemonic = "stone open hurdle mixed coral trash stomach seed artwork mean rocket erosion";

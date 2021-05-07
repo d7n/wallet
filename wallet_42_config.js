@@ -1,1 +1,1 @@
-var mnemonic = "ugly mammal sugar runway either because nephew clay budget panel noodle turtle";
+var mnemonic = "sick congress page soldier tower lunar evolve transfer uphold resemble cage say";

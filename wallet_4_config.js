@@ -1,1 +1,1 @@
-var mnemonic = "knock stadium panel wear owner early person merry guide father antique bird";
+var mnemonic = "tray clutch sudden gadget lawsuit consider conduct penalty girl casino error unfold";

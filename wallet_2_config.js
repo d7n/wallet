@@ -1,1 +1,1 @@
-var mnemonic = "witness kitten resist either large message comic forget wealth bring vicious desk";
+var mnemonic = "mirror fossil grocery steel shift leisure coconut often rent disorder page repair";

@@ -1,1 +1,1 @@
-var mnemonic = "level begin turn zone soup tool armor soda frequent shoulder stay battle";
+var mnemonic = "mad bless stool great segment anxiety daughter wealth gravity mammal pretty spider";

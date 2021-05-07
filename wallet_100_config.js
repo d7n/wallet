@@ -1,1 +1,1 @@
-var mnemonic = "drift lottery age decade observe nuclear double snow you paper behind blossom";
+var mnemonic = "blue deposit cruel coin glare badge mass focus long magnet hurdle cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "elite echo album balcony glue host divorce arena leg abuse same idle";
+var mnemonic = "ramp target slot illness toward imitate repair random dance skull tide credit";

@@ -1,1 +1,1 @@
-var mnemonic = "desert vast asset affair holiday play peace actor card insect sugar boring";
+var mnemonic = "gasp avocado asthma hint panic question couple candy pair spray replace flower";

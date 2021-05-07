@@ -1,1 +1,1 @@
-var mnemonic = "model chair profit onion gap stage else advice breeze nut hello lyrics";
+var mnemonic = "void kitchen winter soon erupt huge song evidence title figure deal order";

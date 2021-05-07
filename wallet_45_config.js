@@ -1,1 +1,1 @@
-var mnemonic = "obscure grain pig then resist unfair rebuild task leader flock sand rifle";
+var mnemonic = "leopard famous lift auto blast pioneer tool asset company hobby water render";

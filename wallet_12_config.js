@@ -1,1 +1,1 @@
-var mnemonic = "pattern home turtle cook pulse smile away damp match grape muscle body";
+var mnemonic = "chicken drop beauty name creek top denial album dutch final love steel";

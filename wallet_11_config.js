@@ -1,1 +1,1 @@
-var mnemonic = "tortoise quality fruit stick only normal fee require basic truck enforce taste";
+var mnemonic = "quote vote just asset mind round apology measure general march fitness right";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn east life ready page media drama client impose jewel clip later";
+var mnemonic = "input result ask begin april carpet swallow concert tilt color olive legal";

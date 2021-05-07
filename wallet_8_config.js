@@ -1,1 +1,1 @@
-var mnemonic = "crush couch box connect blue night fiscal satoshi welcome veteran bracket visual";
+var mnemonic = "impact couple muffin fly pizza come ecology together isolate damage bottom attend";

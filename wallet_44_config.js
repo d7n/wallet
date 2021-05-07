@@ -1,1 +1,1 @@
-var mnemonic = "garlic skate slam erupt tray prosper mesh mixed live master orient budget";
+var mnemonic = "visit disorder bid tobacco cluster unit enrich deer stock promote silly lecture";

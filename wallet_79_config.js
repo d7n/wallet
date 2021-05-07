@@ -1,1 +1,1 @@
-var mnemonic = "mutual behave alert disease inform inject river autumn income civil dumb unfold";
+var mnemonic = "undo main shallow scare dash walk suit arctic diagram video skull vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "exercise embody leader arrange kid repair obey outer trend energy off couch";
+var mnemonic = "gossip provide dune chief they tape divert metal off absurd enter guide";

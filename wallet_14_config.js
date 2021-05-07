@@ -1,1 +1,1 @@
-var mnemonic = "thrive panther heavy tattoo pepper virtual topple meadow student avoid crowd inquiry";
+var mnemonic = "lizard absent million two ecology birth weird donor mechanic sponsor during strike";

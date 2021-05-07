@@ -1,1 +1,1 @@
-var mnemonic = "will save text open next tomorrow trial logic balance display swift ticket";
+var mnemonic = "nothing border tattoo under team social unit soft muscle whisper govern crop";

@@ -1,1 +1,1 @@
-var mnemonic = "tool spell all already stay pill shoe deer chase clock donor seminar";
+var mnemonic = "clarify uncover primary model permit arena common liquid robust smooth alone divert";

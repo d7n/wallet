@@ -1,1 +1,1 @@
-var mnemonic = "few limit coin oven pledge region exhaust fetch slim cigar small essay";
+var mnemonic = "city fresh rule mixed love crash envelope movie struggle action month seek";

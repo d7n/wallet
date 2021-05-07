@@ -1,1 +1,1 @@
-var mnemonic = "olive warm auction fox isolate cannon project dish nerve meadow sister text";
+var mnemonic = "jewel later vendor special lawsuit slide wise fantasy original kingdom favorite valid";

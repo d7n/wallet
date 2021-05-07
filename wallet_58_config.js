@@ -1,1 +1,1 @@
-var mnemonic = "myth side milk correct often room awake raven frown torch six urban";
+var mnemonic = "rally grocery liar repeat bachelor radio dry canal vocal sister story grain";

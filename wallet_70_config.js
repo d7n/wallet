@@ -1,1 +1,1 @@
-var mnemonic = "invest improve poem nuclear erode danger depth sad sunny elite arrange property";
+var mnemonic = "million celery supreme child atom winter regular harvest pledge rotate useful ride";

@@ -1,1 +1,1 @@
-var mnemonic = "entry object cupboard injury novel spirit excite follow solution three relax diesel";
+var mnemonic = "maximum opinion income youth quick correct truly select surface predict luggage rely";

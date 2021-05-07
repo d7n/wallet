@@ -1,1 +1,1 @@
-var mnemonic = "staff equip adapt hammer egg noodle tiny jar brother ivory teach erase";
+var mnemonic = "pluck sauce author leg cook frost object million merge burger team render";

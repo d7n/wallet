@@ -1,1 +1,1 @@
-var mnemonic = "ten tray pipe best soda brass keen enhance dynamic abuse cactus height";
+var mnemonic = "ritual pet ice final boring immune canvas mountain planet hawk garden rotate";

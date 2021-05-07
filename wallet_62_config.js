@@ -1,1 +1,1 @@
-var mnemonic = "search brick share attend surge auto nominee art piano govern heavy host";
+var mnemonic = "fiction reform where dismiss harbor double nasty machine mix salon shy hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet peace famous frost clown outer fine furnace frog festival flee wonder";
+var mnemonic = "crack upgrade remind zero virtual sun rabbit dad rib film hollow skin";

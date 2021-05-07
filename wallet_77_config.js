@@ -1,1 +1,1 @@
-var mnemonic = "surface film toast toward island until balcony scrap ski month focus tide";
+var mnemonic = "float fix pluck leisure ticket sense basket swallow load protect grass any";

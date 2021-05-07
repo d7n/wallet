@@ -1,1 +1,1 @@
-var mnemonic = "drift outside spatial butter cash stage dash bike know fade planet devote";
+var mnemonic = "odor love illegal middle enemy naive bar voice stuff swallow dentist orbit";

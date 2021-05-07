@@ -1,1 +1,1 @@
-var mnemonic = "hire tone glad evolve gaze paper wear enrich month coconut inhale shrug";
+var mnemonic = "cook genuine grief hint snake famous drastic borrow vital shallow strategy betray";

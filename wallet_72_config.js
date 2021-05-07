@@ -1,1 +1,1 @@
-var mnemonic = "behind scare average west goddess nasty fork notable loyal stable measure label";
+var mnemonic = "raccoon tone brass dash grunt innocent episode thumb bullet situate divide install";

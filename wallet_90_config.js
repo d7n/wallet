@@ -1,1 +1,1 @@
-var mnemonic = "bar turn farm void heart fragile grid chicken olive whale weapon race";
+var mnemonic = "supply flash stone uncle short vast route fog share assume merry cargo";

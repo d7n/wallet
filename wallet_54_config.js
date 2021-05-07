@@ -1,1 +1,1 @@
-var mnemonic = "turtle rather this crash space outdoor cost layer enact travel monitor identify";
+var mnemonic = "pudding appear juice worry fun zone comfort shaft miracle spirit between mention";

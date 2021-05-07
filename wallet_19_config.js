@@ -1,1 +1,1 @@
-var mnemonic = "drip into lend scissors piece bless blanket debate drum cherry pear absent";
+var mnemonic = "pilot diet leader oak learn picnic hero connect market scale hawk alien";

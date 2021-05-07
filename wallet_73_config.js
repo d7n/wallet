@@ -1,1 +1,1 @@
-var mnemonic = "virtual zone already capable coffee describe merry easy physical image derive depend";
+var mnemonic = "oppose start people build visa lottery tiger pigeon soon absurd table gorilla";

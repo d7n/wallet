@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow auction bamboo option pass approve jewel input valid stereo trash assume";
+var mnemonic = "arch endorse plate member maximum twin wet farm derive atom draw burden";

@@ -1,1 +1,1 @@
-var mnemonic = "range defense ritual birth city force quick ginger birth mesh crystal century";
+var mnemonic = "swap helmet dad series what equal disorder agent kingdom bid monkey jewel";

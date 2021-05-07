@@ -1,1 +1,1 @@
-var mnemonic = "love brain usual grass dignity lemon require owner omit quiz usage any";
+var mnemonic = "antique loop disagree farm frozen winner dinosaur uniform deny coach sphere barely";

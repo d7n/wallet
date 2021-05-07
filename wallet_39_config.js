@@ -1,1 +1,1 @@
-var mnemonic = "over draft exhibit unit stone silver used cage basket tribe outdoor alcohol";
+var mnemonic = "chest thought normal aim embody armed matter force fossil palm trigger sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "wreck noise vast rebel critic metal ask zoo wide umbrella sphere exile";
+var mnemonic = "change fiber wash steak obvious panel globe swamp fitness clump fabric tone";

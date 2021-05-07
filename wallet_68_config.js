@@ -1,1 +1,1 @@
-var mnemonic = "prevent sure civil typical museum deputy fault slab rib script visit general";
+var mnemonic = "bid remove file yellow course crater engine kiwi senior penalty floor series";

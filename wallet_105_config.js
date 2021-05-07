@@ -1,1 +1,1 @@
-var mnemonic = "minor drastic culture foot walk pigeon distance join shadow shoot market damage";
+var mnemonic = "rural faculty fancy fruit undo grace predict engine welcome beef book hole";

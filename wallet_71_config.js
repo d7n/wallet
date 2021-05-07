@@ -1,1 +1,1 @@
-var mnemonic = "swim improve disease pencil famous fun dinosaur woman large exchange catalog evolve";
+var mnemonic = "tennis tunnel interest enjoy soap pen eagle food merry pill soft rifle";
