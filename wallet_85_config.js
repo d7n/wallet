@@ -1,1 +1,1 @@
-var mnemonic = "estate favorite neglect rich amount just mutual crew wreck potato save deliver";
+var mnemonic = "deputy best cream distance taxi peace custom throw twin remember crater shed";

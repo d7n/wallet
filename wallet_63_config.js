@@ -1,1 +1,1 @@
-var mnemonic = "pull fiscal rapid luggage cute inside decorate vanish stairs video zone essay";
+var mnemonic = "exercise power drip board empty decide join escape uncle debris advice name";

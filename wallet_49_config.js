@@ -1,1 +1,1 @@
-var mnemonic = "expire because lamp idle shell power step panel endorse limb become brick";
+var mnemonic = "fury close saddle rail web fine clap emotion tennis nest matrix useless";

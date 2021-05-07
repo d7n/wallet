@@ -1,1 +1,1 @@
-var mnemonic = "nothing lecture seed walnut spatial clever hospital flower love spy party memory";
+var mnemonic = "grain merit review render crisp orphan vivid answer dismiss ordinary walk miss";

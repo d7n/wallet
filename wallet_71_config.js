@@ -1,1 +1,1 @@
-var mnemonic = "movie noise dream produce vault grocery eyebrow skirt proud ranch fossil asset";
+var mnemonic = "few bus twelve tray exact canoe special true mistake gold violin tiger";

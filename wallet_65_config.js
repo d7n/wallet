@@ -1,1 +1,1 @@
-var mnemonic = "vapor sound hurdle room area hybrid hawk actor frog divorce patch power";
+var mnemonic = "spoil absurd ankle design sell royal eyebrow play pattern drink noble random";

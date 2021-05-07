@@ -1,1 +1,1 @@
-var mnemonic = "humble dinosaur below size orphan earth decorate orbit enroll member book sniff";
+var mnemonic = "aim card okay flash order deliver solid announce observe puppy detail initial";

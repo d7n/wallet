@@ -1,1 +1,1 @@
-var mnemonic = "primary oval expand night diary early trash seed great denial window assist";
+var mnemonic = "hen buzz seminar busy slim axis chuckle taste case access ritual version";

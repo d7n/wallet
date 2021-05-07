@@ -1,1 +1,1 @@
-var mnemonic = "stone infant door twelve fragile phrase east human sword involve december sorry";
+var mnemonic = "visit avoid spider task capable pen effort noodle gloom drastic ivory oil";

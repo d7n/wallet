@@ -1,1 +1,1 @@
-var mnemonic = "blossom feel north fetch direct ribbon rubber tide melody saddle point forget";
+var mnemonic = "alcohol quantum neglect crane sell peace doll transfer gasp school praise energy";

@@ -1,1 +1,1 @@
-var mnemonic = "dial shed health afraid bind open camp miracle flat surge hungry illness";
+var mnemonic = "green around wonder rival rival execute pattern boil permit hamster daughter excess";

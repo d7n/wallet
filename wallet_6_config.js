@@ -1,1 +1,1 @@
-var mnemonic = "security squeeze interest weird chaos twin size client vessel tuna injury episode";
+var mnemonic = "dynamic super cable swamp country rough gauge weather craft tail trend inform";

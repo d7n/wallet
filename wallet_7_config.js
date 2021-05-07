@@ -1,1 +1,1 @@
-var mnemonic = "boat bulb write poverty prefer fabric soap hundred thing pretty lawn erupt";
+var mnemonic = "beauty asthma sport again solution close bounce balcony task air mushroom derive";

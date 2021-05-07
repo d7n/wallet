@@ -1,1 +1,1 @@
-var mnemonic = "awesome seat install crime uncover coyote suspect visa rail hollow toe album";
+var mnemonic = "magnet brain blade company sketch dragon armed knee oppose axis quick scrap";

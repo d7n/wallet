@@ -1,1 +1,1 @@
-var mnemonic = "will glide accident sugar sample ridge profit middle steak pizza smoke deny";
+var mnemonic = "mouse dizzy appear fruit tuna attitude ready hundred nature century boat finger";

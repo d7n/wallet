@@ -1,1 +1,1 @@
-var mnemonic = "buzz bright hen subject party blood reform flag shell monkey uncover nut";
+var mnemonic = "sphere better ranch witness write decline enable budget silent mention drive enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "foot length soon innocent body load trap amused vintage person push cinnamon";
+var mnemonic = "identify employ guitar abuse crew anger entry good ripple ancient remove fat";

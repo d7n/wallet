@@ -1,1 +1,1 @@
-var mnemonic = "saddle unfair sudden toe outer reason wall outer video biology direct hand";
+var mnemonic = "ritual jaguar genius solve hole pipe bomb figure exist asset spider state";

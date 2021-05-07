@@ -1,1 +1,1 @@
-var mnemonic = "pig luggage purse goddess shift level seat start derive ladder like regular";
+var mnemonic = "nerve picture decide hire charge grace plastic city satisfy belt slow only";

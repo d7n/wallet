@@ -1,1 +1,1 @@
-var mnemonic = "father daughter floor abandon dress birth maple safe bus merit jealous this";
+var mnemonic = "patch harsh home velvet lift slab humble edge mother syrup broccoli parent";

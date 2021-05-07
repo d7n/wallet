@@ -1,1 +1,1 @@
-var mnemonic = "sword nest believe margin load naive major table clay learn sick broken";
+var mnemonic = "trap rally describe web bulb renew depart shell tool found million admit";

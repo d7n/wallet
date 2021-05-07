@@ -1,1 +1,1 @@
-var mnemonic = "demise fun ostrich word medal dry begin help talk alter urban glance";
+var mnemonic = "know oval drastic offer session have robot year gap waste trend mean";

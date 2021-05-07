@@ -1,1 +1,1 @@
-var mnemonic = "column pill choice brown oblige century same range message mean canvas meat";
+var mnemonic = "flock erupt tray rocket panel palace plastic tenant tone panda orient sentence";

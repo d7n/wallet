@@ -1,1 +1,1 @@
-var mnemonic = "plastic prepare raven drift news file attend ripple fruit wet grace weekend";
+var mnemonic = "arm degree crisp excess viable faculty shaft mandate tiny coral require swim";

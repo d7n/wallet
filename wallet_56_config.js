@@ -1,1 +1,1 @@
-var mnemonic = "inspire meadow gown liberty bread captain repair script early pole property aerobic";
+var mnemonic = "found spoon parent run patrol elite give liberty tornado select credit december";

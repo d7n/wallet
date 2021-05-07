@@ -1,1 +1,1 @@
-var mnemonic = "deliver alone cactus crane carbon mean humor siren silly talent protect immense";
+var mnemonic = "twin middle eternal spare dial sense layer mosquito hope pretty blanket chimney";

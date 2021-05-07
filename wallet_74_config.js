@@ -1,1 +1,1 @@
-var mnemonic = "direct extend place usual liar curtain yard cup sheriff cost upon labor";
+var mnemonic = "hour awful own agent tank later priority goose hurry symbol image laundry";

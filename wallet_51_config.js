@@ -1,1 +1,1 @@
-var mnemonic = "prize usual reward dress tourist bone noodle sniff useful more frost earn";
+var mnemonic = "media margin across rookie slam creek hobby inch tree frost course zebra";

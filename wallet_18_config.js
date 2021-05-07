@@ -1,1 +1,1 @@
-var mnemonic = "bread auction thank have rubber marriage comic tumble blanket blade fossil photo";
+var mnemonic = "fog tiger draft cargo purpose relax steel orbit miracle solve curve idle";

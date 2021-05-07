@@ -1,1 +1,1 @@
-var mnemonic = "install valley outdoor ecology lazy top pyramid wedding victory effort drive detect";
+var mnemonic = "garage retire oyster bounce crucial pledge brisk urban cricket ordinary grunt method";

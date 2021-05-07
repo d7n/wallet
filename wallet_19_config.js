@@ -1,1 +1,1 @@
-var mnemonic = "victory mind wealth casino flower midnight glad call test rookie custom artefact";
+var mnemonic = "story typical wear slam predict erupt coffee truck oppose jealous margin congress";

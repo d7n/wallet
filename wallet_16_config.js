@@ -1,1 +1,1 @@
-var mnemonic = "chimney sick either remove remove hire exclude cloth trial budget siege reunion";
+var mnemonic = "infant object excess scheme hobby stamp hospital discover dentist fossil curtain brave";

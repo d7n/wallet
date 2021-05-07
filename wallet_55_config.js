@@ -1,1 +1,1 @@
-var mnemonic = "picture arch retire biology axis tomorrow divorce rocket glow cup chef dry";
+var mnemonic = "warfare embrace tennis system garbage enroll heavy grid finger banana live melody";

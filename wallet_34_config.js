@@ -1,1 +1,1 @@
-var mnemonic = "tonight critic valid hundred puzzle lend crunch bench gloom fire select soon";
+var mnemonic = "orchard cactus rude trade upon travel turn garlic bench object paper glory";

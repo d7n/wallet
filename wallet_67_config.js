@@ -1,1 +1,1 @@
-var mnemonic = "bamboo bamboo void year disorder flee true prosper armed injury kitten decade";
+var mnemonic = "elder hat cage frame oak tree polar bike giant wear stumble noodle";

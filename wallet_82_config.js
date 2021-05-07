@@ -1,1 +1,1 @@
-var mnemonic = "misery flight damp frown outer excite tiger lift dignity horror crime type";
+var mnemonic = "total unknown rubber muscle hill flip police sheriff giant spoon song hold";

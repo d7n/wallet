@@ -1,1 +1,1 @@
-var mnemonic = "rent antenna custom insect entry change cook next ecology various afford awake";
+var mnemonic = "borrow job captain stay flush balcony swear ability tag home right drive";

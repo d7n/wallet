@@ -1,1 +1,1 @@
-var mnemonic = "unusual forest wait flash cigar urban chest leisure syrup curve special frame";
+var mnemonic = "coffee board month dizzy valve because stool memory shrimp sadness force common";

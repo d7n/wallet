@@ -1,1 +1,1 @@
-var mnemonic = "embark tonight destroy steak toward achieve junior roof attitude hen amateur yard";
+var mnemonic = "foil cable yellow mean recall seven mystery merit member sphere spell prepare";

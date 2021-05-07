@@ -1,1 +1,1 @@
-var mnemonic = "system door hat pig park actor build true one tenant cat anxiety";
+var mnemonic = "mammal slice aunt develop seed wood impose knock rug judge inmate stock";

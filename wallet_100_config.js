@@ -1,1 +1,1 @@
-var mnemonic = "lobster review expand torch act october estate twenty latin attend leader unaware";
+var mnemonic = "sunset rule artwork birth avoid expire genius license monitor tobacco forward later";

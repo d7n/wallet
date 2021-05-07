@@ -1,1 +1,1 @@
-var mnemonic = "analyst tube toddler then cloud myth measure danger please moral winner music";
+var mnemonic = "erosion treat trophy find churn link gadget aerobic hip notice thank stone";

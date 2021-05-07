@@ -1,1 +1,1 @@
-var mnemonic = "three device draw tide cover crystal receive once tip asset shuffle razor";
+var mnemonic = "purpose reward tiger provide staff quit certain gallery pitch cruel merge hammer";

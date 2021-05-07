@@ -1,1 +1,1 @@
-var mnemonic = "first quote enemy faint forget kitchen make access pig vanish nerve rail";
+var mnemonic = "install pyramid envelope retreat blue below torch habit civil remain range near";

@@ -1,1 +1,1 @@
-var mnemonic = "short kite brave worry genius good festival across when slot protect ostrich";
+var mnemonic = "oppose latin soldier unit feature copy nuclear panda cup angry index forum";

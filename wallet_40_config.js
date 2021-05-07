@@ -1,1 +1,1 @@
-var mnemonic = "employ dolphin fragile expect pact uphold forest divide blind legend lunar faculty";
+var mnemonic = "enact glance lawn canyon when current frequent dinner unique elegant myself secret";

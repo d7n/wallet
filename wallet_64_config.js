@@ -1,1 +1,1 @@
-var mnemonic = "bunker cram curtain alert crucial spring know price volcano cement vote frog";
+var mnemonic = "ranch recall pluck math jaguar mistake sustain flash member frown pretty know";

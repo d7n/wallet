@@ -1,1 +1,1 @@
-var mnemonic = "wash prevent deliver type person bargain inch purse obey machine worry provide";
+var mnemonic = "dilemma obtain kiwi stairs extra joke saddle zone nation pool tide minute";

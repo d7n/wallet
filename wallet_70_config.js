@@ -1,1 +1,1 @@
-var mnemonic = "axis hip term have bag across acid choice invest balance grain dance";
+var mnemonic = "drama peace shaft unable invest woman library undo knock guitar rotate indoor";

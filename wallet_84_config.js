@@ -1,1 +1,1 @@
-var mnemonic = "buddy blade cabin item limb domain carry bind crucial dismiss resource gospel";
+var mnemonic = "actress clinic believe neither recycle gun board helmet kiwi stamp once shield";

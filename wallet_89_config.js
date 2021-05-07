@@ -1,1 +1,1 @@
-var mnemonic = "spawn speed rib apple observe scene when wise upon diet struggle gentle";
+var mnemonic = "tragic rose ordinary language spice safe ability place security wink grace output";

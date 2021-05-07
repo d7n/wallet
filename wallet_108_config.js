@@ -1,1 +1,1 @@
-var mnemonic = "flock whip soap brief cause motion achieve pelican choice transfer box mutual";
+var mnemonic = "rocket network glimpse little wink remove click sauce rigid annual unlock lake";

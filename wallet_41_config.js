@@ -1,1 +1,1 @@
-var mnemonic = "mercy raccoon idle symbol shuffle anxiety august cabin catalog find make piece";
+var mnemonic = "negative melody bubble attitude budget reward nerve glare enact pledge decrease chat";

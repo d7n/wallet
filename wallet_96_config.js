@@ -1,1 +1,1 @@
-var mnemonic = "ostrich canoe detect atom clean hold three palm tide core hero ritual";
+var mnemonic = "slush flee insane about hammer bone improve tide section enact plunge bulk";

@@ -1,1 +1,1 @@
-var mnemonic = "genius captain pyramid famous egg pioneer captain ranch slender arm layer target";
+var mnemonic = "skate brother galaxy fetch animal increase clean naive enhance antenna certain voice";

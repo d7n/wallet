@@ -1,1 +1,1 @@
-var mnemonic = "badge cruise pelican two session ice good junior sheriff error clarify notable";
+var mnemonic = "wife because genre desert jump humble lecture lobster claw almost material weasel";

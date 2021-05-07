@@ -1,1 +1,1 @@
-var mnemonic = "inch decade knock three spy define coffee remain wise habit occur column";
+var mnemonic = "winner impact purse divide among capital asset because program inject bronze chat";

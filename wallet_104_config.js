@@ -1,1 +1,1 @@
-var mnemonic = "agent relief orient myself banner reform fresh dry comfort oak owner axis";
+var mnemonic = "hundred fuel fancy switch brush volume common mobile connect bracket man admit";

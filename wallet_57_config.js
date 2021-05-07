@@ -1,1 +1,1 @@
-var mnemonic = "cost poet board exact cushion clever legal erode safe basket guitar rhythm";
+var mnemonic = "work knee spring section square mimic stone fine empower popular target panic";

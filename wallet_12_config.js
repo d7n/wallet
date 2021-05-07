@@ -1,1 +1,1 @@
-var mnemonic = "bounce eye public path poet pool coil foil nature glue sugar smile";
+var mnemonic = "tooth account angle kangaroo almost latin receive someone shoot distance resist improve";

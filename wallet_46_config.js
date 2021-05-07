@@ -1,1 +1,1 @@
-var mnemonic = "lab symptom trial defy winner edge sadness hunt menu cream claim ignore";
+var mnemonic = "frozen pizza boss siren lava kidney gravity journey plug success pair coral";

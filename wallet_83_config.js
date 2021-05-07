@@ -1,1 +1,1 @@
-var mnemonic = "volcano ship zero young route duty metal nuclear distance rack draw size";
+var mnemonic = "advance dog miracle raise melody hidden rather airport seek mango sea twin";

@@ -1,1 +1,1 @@
-var mnemonic = "someone razor job fault jungle age link palace again emerge powder cancel";
+var mnemonic = "cheese retreat company witness decorate endless stomach juice method behind book general";

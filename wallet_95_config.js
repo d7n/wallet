@@ -1,1 +1,1 @@
-var mnemonic = "dragon snow column civil punch snap girl betray notice hawk yard funny";
+var mnemonic = "fluid pumpkin vendor clown estate student busy twist hint rose play mechanic";

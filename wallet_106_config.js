@@ -1,1 +1,1 @@
-var mnemonic = "beach shift orphan grunt color warm end file hole bike orphan planet";
+var mnemonic = "direct mirror credit merge also question dilemma gold rich select job purpose";

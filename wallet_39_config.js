@@ -1,1 +1,1 @@
-var mnemonic = "satoshi tomorrow elder exchange logic minor divide crisp bleak achieve truck rib";
+var mnemonic = "volcano office mom intact mass light elegant bulk glad canvas wire mention";

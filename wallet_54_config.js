@@ -1,1 +1,1 @@
-var mnemonic = "visa hire monitor grief already matter crouch else army license clump lock";
+var mnemonic = "flower put stamp example quality error hand grocery switch area oval wreck";

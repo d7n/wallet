@@ -1,1 +1,1 @@
-var mnemonic = "addict like into maple category soup filter coral trial tilt stairs hawk";
+var mnemonic = "need alert doll elder same fit radar clutch biology enough edit swallow";

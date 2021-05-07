@@ -1,1 +1,1 @@
-var mnemonic = "off wave fiscal cash amazing uncover safe treat notable type west salon";
+var mnemonic = "awesome butter patrol erode notable control depend roof inquiry brass scout screen";

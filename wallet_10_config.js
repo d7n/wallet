@@ -1,1 +1,1 @@
-var mnemonic = "light oppose dentist expand vote rebuild female hand draw please pluck lake";
+var mnemonic = "critic lunch script vocal excess sunny spin skull example bag zone spin";

@@ -1,1 +1,1 @@
-var mnemonic = "evil enlist general awake gauge farm among minimum lock rose library kitten";
+var mnemonic = "pair party usage rose car little indoor off labor fish doll museum";

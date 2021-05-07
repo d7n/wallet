@@ -1,1 +1,1 @@
-var mnemonic = "bench pause anger autumn tongue photo state strategy benefit solve exercise ugly";
+var mnemonic = "season mammal man check they legal chef crane alcohol cupboard pass can";

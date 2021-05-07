@@ -1,1 +1,1 @@
-var mnemonic = "ride extra visual sock lemon hurry hammer monster rather fiscal group ceiling";
+var mnemonic = "panel sand crouch pelican office before wheel double fetch faint better vote";

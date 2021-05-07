@@ -1,1 +1,1 @@
-var mnemonic = "control ketchup rotate glass napkin cliff spike ill meadow canvas april pony";
+var mnemonic = "toast argue web vanish behind pride manage athlete theory cereal bunker cross";

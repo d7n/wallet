@@ -1,1 +1,1 @@
-var mnemonic = "used credit library exotic adjust obtain final decline ensure upgrade topic ticket";
+var mnemonic = "report judge glory toss nuclear wear thing oak blade govern antique tiny";

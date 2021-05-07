@@ -1,1 +1,1 @@
-var mnemonic = "soccer ball own stock sorry deputy tent exotic fork possible gravity around";
+var mnemonic = "goddess hover bulb drip capital champion speed response height curtain tip initial";

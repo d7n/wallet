@@ -1,1 +1,1 @@
-var mnemonic = "arrest midnight despair expand limb afraid party skirt end distance pet hockey";
+var mnemonic = "chalk depend neck auto bamboo vehicle hotel begin route ripple sure almost";

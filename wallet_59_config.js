@@ -1,1 +1,1 @@
-var mnemonic = "print mimic ginger birth follow absent alert robust prefer fall visa order";
+var mnemonic = "latin farm depart repeat surge champion round chest discover jewel orbit decide";

@@ -1,1 +1,1 @@
-var mnemonic = "road album water glare hazard salon plastic scorpion arctic stock moon wrap";
+var mnemonic = "hundred satoshi faint draw rifle crawl frame song drill degree toast supply";

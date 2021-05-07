@@ -1,1 +1,1 @@
-var mnemonic = "nothing summer public double clown seed noise flower concert exist whale crisp";
+var mnemonic = "thank order session buyer ancient usage long antenna snap call bulk spice";

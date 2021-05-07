@@ -1,1 +1,1 @@
-var mnemonic = "crush artwork print stick survey ability will super retire vital foam detail";
+var mnemonic = "put lawsuit rent opera hurt thing emotion tray lazy layer detect relief";

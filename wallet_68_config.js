@@ -1,1 +1,1 @@
-var mnemonic = "admit please margin error build thumb present fuel chuckle lounge lens one";
+var mnemonic = "more hazard kitchen level differ galaxy human card goose term toss defense";

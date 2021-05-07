@@ -1,1 +1,1 @@
-var mnemonic = "reunion tortoise bread book target spawn tail patch shop lunch sugar soft";
+var mnemonic = "wrist frown life praise gain decide antique pepper solar mixture park rather";

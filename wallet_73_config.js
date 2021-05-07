@@ -1,1 +1,1 @@
-var mnemonic = "unveil general curtain stomach ready tank unusual hammer shoulder away heavy physical";
+var mnemonic = "river planet shallow hammer frozen cry weapon story hamster below another this";

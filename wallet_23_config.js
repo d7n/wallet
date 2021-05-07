@@ -1,1 +1,1 @@
-var mnemonic = "weather remember carry frequent light arch flight fun smoke hammer wild allow";
+var mnemonic = "fun step fitness enable orient off adjust coffee wasp blade parrot outer";

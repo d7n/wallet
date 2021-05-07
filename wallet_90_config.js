@@ -1,1 +1,1 @@
-var mnemonic = "melody purse theme trumpet employ enrich finger spell arrive tape emerge elbow";
+var mnemonic = "verify speed grocery essay face ethics immense patient tag width faculty special";

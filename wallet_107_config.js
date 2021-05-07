@@ -1,1 +1,1 @@
-var mnemonic = "frost shoot glide spell champion egg debris neck jaguar leopard seminar gasp";
+var mnemonic = "topple push share flavor reject depth loan scrap depend view eight topple";
