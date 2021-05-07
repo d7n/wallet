@@ -1,1 +1,1 @@
-var mnemonic = "argue health since round jazz torch topple enjoy price famous shallow risk";
+var mnemonic = "broccoli detail adjust potato urban couch stone decorate fashion weekend lava leader";

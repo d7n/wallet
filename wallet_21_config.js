@@ -1,1 +1,1 @@
-var mnemonic = "humble indicate desk casino middle lift bike wall step spend island stumble";
+var mnemonic = "trend raccoon fog seminar maze produce kingdom mammal text bike learn report";

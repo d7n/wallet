@@ -1,1 +1,1 @@
-var mnemonic = "gas young whisper siege foil exile fossil oak steak hungry toe crop";
+var mnemonic = "blood raven drill flag glue grape tail ready learn firm client blouse";

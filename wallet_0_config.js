@@ -1,1 +1,1 @@
-var mnemonic = "rescue coffee settle action liar erode remain dad peace detect start relief";
+var mnemonic = "use decrease trick lesson biology draw stand mention screen century vocal airport";

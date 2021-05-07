@@ -1,1 +1,1 @@
-var mnemonic = "there drive bubble shy rough cradle creek enact lunch expose rare mean";
+var mnemonic = "observe castle castle napkin true finger cheese sketch purity renew inspire dove";

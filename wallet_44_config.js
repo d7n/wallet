@@ -1,1 +1,1 @@
-var mnemonic = "twin match spawn average person upon panther tortoise rotate photo bridge ostrich";
+var mnemonic = "tray discover ability oil energy undo armor rice despair weather offer toast";

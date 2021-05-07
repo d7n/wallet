@@ -1,1 +1,1 @@
-var mnemonic = "rate machine promote common few cotton way surround law insect element feed";
+var mnemonic = "vault during squirrel letter dizzy morning lounge twin only blossom faint acid";

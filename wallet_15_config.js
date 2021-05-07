@@ -1,1 +1,1 @@
-var mnemonic = "secret health discover bright toast brass code mother clinic pistol labor more";
+var mnemonic = "february step pottery pear crime satisfy lamp assist excite goose friend this";

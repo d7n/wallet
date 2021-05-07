@@ -1,1 +1,1 @@
-var mnemonic = "hammer invite hungry amateur cherry main genius hamster clerk dawn great calm";
+var mnemonic = "rotate planet forest warrior december fiscal stable menu twenty wet wrong tent";

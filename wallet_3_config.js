@@ -1,1 +1,1 @@
-var mnemonic = "figure boil bracket art about upgrade gesture hurry chaos jungle adult donate";
+var mnemonic = "reunion pact path dial ignore castle lesson total season odor nation able";

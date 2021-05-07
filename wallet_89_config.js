@@ -1,1 +1,1 @@
-var mnemonic = "asset minimum asthma key nice win birth soul genuine child list deputy";
+var mnemonic = "pig kid narrow catch visit soup fee make biology voyage enact puppy";

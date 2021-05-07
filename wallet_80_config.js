@@ -1,1 +1,1 @@
-var mnemonic = "tiger defy crater approve latin depart bird knife secret change agree play";
+var mnemonic = "prosper comic eye cattle essay strike oblige female foster they rescue surge";

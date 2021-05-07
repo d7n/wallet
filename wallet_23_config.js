@@ -1,1 +1,1 @@
-var mnemonic = "beach rather great person imitate security visit talk sound grid comic phone";
+var mnemonic = "cloth occur gold parade favorite jacket bachelor foam pipe trash window honey";

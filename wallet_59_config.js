@@ -1,1 +1,1 @@
-var mnemonic = "first minor obey material machine fossil august merit still dirt inhale usual";
+var mnemonic = "project pear horse enroll rescue slot width eight casual hybrid boat picture";

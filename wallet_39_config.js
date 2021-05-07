@@ -1,1 +1,1 @@
-var mnemonic = "million wolf birth simple lemon salt faith keen patch weekend all appear";
+var mnemonic = "spell license ghost already copper gloom border window slab canyon priority kite";

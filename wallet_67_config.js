@@ -1,1 +1,1 @@
-var mnemonic = "edit bring universe useless fly act monkey hill fish hand field program";
+var mnemonic = "charge tell banner faith swap token goddess runway curve that become water";

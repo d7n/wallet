@@ -1,1 +1,1 @@
-var mnemonic = "vote whale rose stable traffic include yellow height genre funny obvious face";
+var mnemonic = "vendor vanish museum monitor ceiling elder you pudding coyote argue protect bullet";

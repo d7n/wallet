@@ -1,1 +1,1 @@
-var mnemonic = "movie horror forget kid fragile fall combine lounge orphan someone stem tortoise";
+var mnemonic = "demise lend light city treat mother photo first consider olympic clock pony";

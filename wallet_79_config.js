@@ -1,1 +1,1 @@
-var mnemonic = "nominee second much sick tuition add rescue barrel loop safe skin tired";
+var mnemonic = "domain income today boil spy neither produce stairs okay actress old used";

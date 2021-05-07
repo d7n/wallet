@@ -1,1 +1,1 @@
-var mnemonic = "cherry please horror dizzy verb demand gloom solution churn narrow reflect moon";
+var mnemonic = "pear armed either boil vintage tumble wish guilt maple congress fun rubber";

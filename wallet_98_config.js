@@ -1,1 +1,1 @@
-var mnemonic = "giggle example flower alert shove midnight charge giant armed clap waste waste";
+var mnemonic = "palm spray fire monitor snack print rubber license lucky vague merit idea";

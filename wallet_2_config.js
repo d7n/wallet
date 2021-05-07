@@ -1,1 +1,1 @@
-var mnemonic = "bottom razor lemon main drill hello sample elegant blossom debate embrace broom";
+var mnemonic = "fix dinner jelly melody urge wild enact lesson plunge garbage garden course";

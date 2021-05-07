@@ -1,1 +1,1 @@
-var mnemonic = "blame original liar tragic disease script roof fancy flame wool quote receive";
+var mnemonic = "believe segment flush permit push talk rather ahead biology amount demise friend";

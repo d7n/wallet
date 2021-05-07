@@ -1,1 +1,1 @@
-var mnemonic = "bicycle rule candy priority kit breeze soup excuse label patient resist audit";
+var mnemonic = "cushion faith outside breeze hotel describe horror crop spread enforce cry tonight";

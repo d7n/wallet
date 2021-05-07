@@ -1,1 +1,1 @@
-var mnemonic = "brass mail grab eyebrow left clutch carry oak trigger alone elite sentence";
+var mnemonic = "that stone rotate quit eight salmon winner cake soul gasp exist book";

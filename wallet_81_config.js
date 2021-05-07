@@ -1,1 +1,1 @@
-var mnemonic = "ankle toast tumble tide fitness ankle diamond end oval select expand ginger";
+var mnemonic = "alter strike flee december seven joy own insect else merry turn cry";

@@ -1,1 +1,1 @@
-var mnemonic = "myth agree enjoy predict patrol steak dinner copy shoulder share nuclear black";
+var mnemonic = "scissors become clinic duck spin sad squirrel fat glare token client riot";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd dog neither battle seven wealth fuel curious response cloud flag bring";
+var mnemonic = "lock uniform screen rebuild crater speak certain amused plate soda remind number";

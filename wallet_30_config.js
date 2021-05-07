@@ -1,1 +1,1 @@
-var mnemonic = "else title foam matrix game tilt fox enable apart hotel couple rabbit";
+var mnemonic = "check phone border fantasy debate dawn hawk reduce cargo yard debris shed";

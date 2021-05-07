@@ -1,1 +1,1 @@
-var mnemonic = "absurd busy gesture tongue regret refuse meadow assume dog school summer ritual";
+var mnemonic = "behave tornado badge prison course pill few crash glue chicken lecture lion";

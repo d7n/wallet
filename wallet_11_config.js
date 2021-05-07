@@ -1,1 +1,1 @@
-var mnemonic = "rigid silk embrace board roof empower fever hybrid boat club course access";
+var mnemonic = "teach stereo mountain eye kitchen slide sure omit unaware crane embody deer";

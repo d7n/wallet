@@ -1,1 +1,1 @@
-var mnemonic = "state boy crazy gold wave travel hat invest enact pizza special already";
+var mnemonic = "illegal mango lumber amount party sure mirror street stumble arrow else despair";

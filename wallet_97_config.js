@@ -1,1 +1,1 @@
-var mnemonic = "snack wish fortune kangaroo draw club arrange grocery addict guess salon relief";
+var mnemonic = "suffer also alpha shift give kidney phrase blast more pioneer melody fan";

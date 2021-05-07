@@ -1,1 +1,1 @@
-var mnemonic = "wet left any diagram hedgehog smooth core proud fringe awake corn install";
+var mnemonic = "second require radar review puppy door grief accuse cry wealth odor discover";

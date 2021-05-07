@@ -1,1 +1,1 @@
-var mnemonic = "bleak endorse bounce major dust betray umbrella jealous obey twenty donate monster";
+var mnemonic = "tattoo vacant donkey village develop grunt glow inmate absent alarm library kid";

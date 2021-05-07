@@ -1,1 +1,1 @@
-var mnemonic = "track page universe melt remind boy finish match bulk dry again proof";
+var mnemonic = "wedding dolphin maze average couple design outside ignore awkward clean junk soap";

@@ -1,1 +1,1 @@
-var mnemonic = "round across relief intact ivory spoon matrix street shadow brother horn pyramid";
+var mnemonic = "rack exile between brain laptop valid dry toe monkey tell speak vehicle";

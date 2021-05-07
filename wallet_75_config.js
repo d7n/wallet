@@ -1,1 +1,1 @@
-var mnemonic = "neutral two cube gown renew loud exist popular visa tongue still virus";
+var mnemonic = "tornado bless spoil tomorrow skull exhibit shield silly carbon disorder rescue pitch";

@@ -1,1 +1,1 @@
-var mnemonic = "pen doll truck chunk all wreck arm current admit guess fetch wrist";
+var mnemonic = "melody clump vault double again denial fall edge merge anchor income iron";

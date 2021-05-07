@@ -1,1 +1,1 @@
-var mnemonic = "lesson immense wait result law social month machine notice page brick pause";
+var mnemonic = "verb portion attract burst magic amount resource client wet illegal play canvas";

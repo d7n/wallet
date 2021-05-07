@@ -1,1 +1,1 @@
-var mnemonic = "vapor usage shiver depend fire sausage cheese ill ridge armed anchor clutch";
+var mnemonic = "inner ocean now immune stamp private find fitness group dinosaur admit stairs";

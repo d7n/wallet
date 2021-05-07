@@ -1,1 +1,1 @@
-var mnemonic = "strategy love bubble begin forward country junior crumble naive leader onion fiber";
+var mnemonic = "action devote tube mammal angle prison cause tag weird yellow unhappy pool";

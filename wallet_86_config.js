@@ -1,1 +1,1 @@
-var mnemonic = "polar best squeeze limb tone sugar bracket meat town eye soup give";
+var mnemonic = "cycle labor box match radar mobile badge depart apart need melody drum";

@@ -1,1 +1,1 @@
-var mnemonic = "obey million sick ugly prefer video exit inquiry stuff senior village oil";
+var mnemonic = "two rally weekend noodle skill nature broccoli cliff mistake together fall peanut";

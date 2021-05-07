@@ -1,1 +1,1 @@
-var mnemonic = "exercise surround control sell left mutual subject regular sample drum lemon tooth";
+var mnemonic = "unable deny drip uphold coil clever amused boost evidence double mushroom screen";

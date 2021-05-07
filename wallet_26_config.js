@@ -1,1 +1,1 @@
-var mnemonic = "panic cake creek olive main rifle kid coconut arena deny tired junior";
+var mnemonic = "space open dinner live sample frog omit tube question subway virus hurry";

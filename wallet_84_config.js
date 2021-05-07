@@ -1,1 +1,1 @@
-var mnemonic = "impose dream decorate secret cabin diamond unknown indicate future toast capital pumpkin";
+var mnemonic = "illness toast split chunk blanket snow salmon burst cart birth elbow spy";

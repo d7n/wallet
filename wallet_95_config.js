@@ -1,1 +1,1 @@
-var mnemonic = "jar token female enemy voyage badge tiny city blanket era achieve life";
+var mnemonic = "sea rule barely ready swarm orient boring mercy feature multiply list grow";

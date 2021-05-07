@@ -1,1 +1,1 @@
-var mnemonic = "series must tissue notice humor tourist antenna wrestle off enroll scout exhaust";
+var mnemonic = "panther exhaust where friend trash uncle leisure forget diagram path immense member";

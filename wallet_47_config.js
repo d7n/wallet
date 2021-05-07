@@ -1,1 +1,1 @@
-var mnemonic = "venue verify address road lunar expect you crush real diamond volume wet";
+var mnemonic = "cactus impact section spray second lonely west voice cricket power lock hello";

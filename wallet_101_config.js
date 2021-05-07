@@ -1,1 +1,1 @@
-var mnemonic = "unknown dwarf soldier infant team shuffle basket slide layer build company pledge";
+var mnemonic = "cover error trend what glove give join choice slush blind again squeeze";

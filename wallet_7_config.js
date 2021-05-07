@@ -1,1 +1,1 @@
-var mnemonic = "system mirror kingdom skin scare era column favorite mad explain occur achieve";
+var mnemonic = "leopard ankle twin love ordinary still dinosaur police poem remain shop royal";

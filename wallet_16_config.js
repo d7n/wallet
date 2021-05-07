@@ -1,1 +1,1 @@
-var mnemonic = "inmate high system orbit model man talent machine jar agree tree surge";
+var mnemonic = "farm comic brisk cover toss video teach across moral salmon sound come";

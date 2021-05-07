@@ -1,1 +1,1 @@
-var mnemonic = "spread spring spray upset pear stable magnet evidence teach example talent idea";
+var mnemonic = "icon laundry address teach save accuse tube start moral evil snack diet";

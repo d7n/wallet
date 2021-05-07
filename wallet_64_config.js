@@ -1,1 +1,1 @@
-var mnemonic = "random camera prize slush festival swarm wage multiply few child legal hood";
+var mnemonic = "spray raise sad trick powder second series pull cover thank recipe barely";

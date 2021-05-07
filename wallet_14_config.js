@@ -1,1 +1,1 @@
-var mnemonic = "wool nuclear voyage delay method harvest muffin chef runway dial mass unusual";
+var mnemonic = "science crush cat sail plate tonight tip snap derive animal shrimp arch";

@@ -1,1 +1,1 @@
-var mnemonic = "riot praise wrestle milk weapon link version sight loyal churn onion cost";
+var mnemonic = "picnic ill prevent mountain divert crazy feature museum moon boring latin proud";

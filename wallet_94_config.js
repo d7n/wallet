@@ -1,1 +1,1 @@
-var mnemonic = "hockey load hand image chronic long ramp slim setup similar argue size";
+var mnemonic = "tag romance more search maple exclude hurry dress destroy jazz alter bulb";

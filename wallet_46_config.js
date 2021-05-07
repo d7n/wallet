@@ -1,1 +1,1 @@
-var mnemonic = "security recipe photo insane expire drip clump mutual blind deputy industry grape";
+var mnemonic = "hollow program light cement laptop cook moon giraffe foot rare absorb peanut";

@@ -1,1 +1,1 @@
-var mnemonic = "practice never bomb laptop steel access require gloom expire panel multiply era";
+var mnemonic = "option problem circle cause faith cream collect boost radio rabbit arrow save";

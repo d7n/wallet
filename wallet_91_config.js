@@ -1,1 +1,1 @@
-var mnemonic = "safe squeeze wait goat measure accuse theory fringe fine atom slender stool";
+var mnemonic = "thunder midnight olympic snow notable cave suit identify party chest vague tragic";

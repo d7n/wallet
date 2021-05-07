@@ -1,1 +1,1 @@
-var mnemonic = "have dress pepper violin make physical usage mass erosion drum sheriff shoulder";
+var mnemonic = "truth impose mule infant identify finish rebuild wish bright hurt burden glow";

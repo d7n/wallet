@@ -1,1 +1,1 @@
-var mnemonic = "hair tag fee organ romance draft cage fashion end range dinner say";
+var mnemonic = "buyer mix kite brother goose bitter brief cupboard book wide random ridge";

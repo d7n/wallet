@@ -1,1 +1,1 @@
-var mnemonic = "sell praise love truck harsh believe divorce air radio joke educate license";
+var mnemonic = "pear dumb alone sight song olive win squirrel sauce foam loyal unit";

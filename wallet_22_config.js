@@ -1,1 +1,1 @@
-var mnemonic = "profit share pledge cake case nice glove impose puzzle play rather kidney";
+var mnemonic = "deputy cash work draft culture exclude flag couple write agent rate brass";

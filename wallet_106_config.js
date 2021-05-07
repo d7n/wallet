@@ -1,1 +1,1 @@
-var mnemonic = "sock pelican aspect cushion excite way pyramid slight multiply fee amazing candy";
+var mnemonic = "child sphere tilt tank occur blossom fly glass ship milk wave cool";

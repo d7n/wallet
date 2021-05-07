@@ -1,1 +1,1 @@
-var mnemonic = "royal suit involve soccer concert dwarf property distance rookie gap shoulder adapt";
+var mnemonic = "erase minute also wedding chunk wild juice catalog trouble know used author";

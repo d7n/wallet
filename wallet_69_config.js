@@ -1,1 +1,1 @@
-var mnemonic = "vibrant term badge mirror nation goddess scissors ice project jewel vital sudden";
+var mnemonic = "portion assist decade record regular cute cloth inject broom rent tunnel replace";

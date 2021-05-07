@@ -1,1 +1,1 @@
-var mnemonic = "staff latin sight fall other fire hockey hair tuna lyrics term stairs";
+var mnemonic = "fringe this bonus sand news sand cable renew chaos bacon idea when";

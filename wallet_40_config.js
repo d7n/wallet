@@ -1,1 +1,1 @@
-var mnemonic = "jewel lake private mixture impact prosper normal run exhibit squeeze say child";
+var mnemonic = "camera false like ladder slide pepper visual behave route learn senior nice";

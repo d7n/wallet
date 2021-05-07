@@ -1,1 +1,1 @@
-var mnemonic = "quarter veteran title pattern ladder power basket utility cake throw page luxury";
+var mnemonic = "coil grunt flight fly south celery belt accident fluid rate swear layer";

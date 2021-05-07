@@ -1,1 +1,1 @@
-var mnemonic = "olive chuckle release palace bonus awkward devote goose dust swap infant scare";
+var mnemonic = "slim erosion mother steel tower document drastic voyage lyrics huge tooth upset";

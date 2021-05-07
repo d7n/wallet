@@ -1,1 +1,1 @@
-var mnemonic = "shrug river vehicle merry public palace edit act grab say joke dry";
+var mnemonic = "eager note wave stone alpha spring wish lobster below gym misery match";

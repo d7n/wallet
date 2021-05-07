@@ -1,1 +1,1 @@
-var mnemonic = "become physical affair quarter hybrid glare giggle derive hand jaguar silent card";
+var mnemonic = "orbit hybrid around divorce firm crop cross short entire update note agree";

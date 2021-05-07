@@ -1,1 +1,1 @@
-var mnemonic = "real salon flat used humble distance father brand stock clever eagle frame";
+var mnemonic = "pool obey inject spoil coyote you margin another dinosaur song endless property";

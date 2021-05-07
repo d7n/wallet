@@ -1,1 +1,1 @@
-var mnemonic = "turtle snap shallow frown ripple roast zebra solar orphan melody morning size";
+var mnemonic = "portion response wait hold picnic menu sail topple clean clever mirror boat";

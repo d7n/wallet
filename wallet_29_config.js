@@ -1,1 +1,1 @@
-var mnemonic = "dwarf jazz session actor breeze baby joy still ill enrich pen interest";
+var mnemonic = "start two naive tuition exist text spike pool alcohol inject siren divert";

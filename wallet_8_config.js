@@ -1,1 +1,1 @@
-var mnemonic = "grape inhale penalty unable elevator appear cheese duck twin fee stereo battle";
+var mnemonic = "owner hand crash jelly exhaust issue ceiling eager bounce acquire luxury media";

@@ -1,1 +1,1 @@
-var mnemonic = "seed family toe lucky state despair leg gaze obtain sister initial acid";
+var mnemonic = "duty giggle rabbit quality inject loud clown glove borrow you major giant";

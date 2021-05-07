@@ -1,1 +1,1 @@
-var mnemonic = "simple crater harsh stock verb during stock debate lawn blanket width enough";
+var mnemonic = "follow senior volume economy ladder bomb fatal satoshi brown cream embark remain";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber lunar wrap olive gospel liar quit frown raw sauce control style";
+var mnemonic = "baby diagram palace nurse race wood arrange dirt room zone seed season";

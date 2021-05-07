@@ -1,1 +1,1 @@
-var mnemonic = "culture what bicycle athlete zero sun sort until pottery section pipe rabbit";
+var mnemonic = "catalog sunny open fever pipe thrive onion actual barrel ladder health write";

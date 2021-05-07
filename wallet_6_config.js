@@ -1,1 +1,1 @@
-var mnemonic = "auction oven license own iron crystal always entire kiss drastic focus jungle";
+var mnemonic = "husband then plate polar crumble weird vicious arch milk among shoulder ship";

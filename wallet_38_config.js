@@ -1,1 +1,1 @@
-var mnemonic = "arrange lava elegant caught motor potato post rule mesh recycle win mouse";
+var mnemonic = "expose bird snack spray aim quality hold wealth album siren away script";

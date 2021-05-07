@@ -1,1 +1,1 @@
-var mnemonic = "fiction warrior shaft alcohol version okay build tool surprise weasel crime endorse";
+var mnemonic = "twelve edit avoid orphan network reason frown security near expire chalk fashion";

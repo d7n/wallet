@@ -1,1 +1,1 @@
-var mnemonic = "enable venue useless web upset deposit thrive noise swear swarm used wreck";
+var mnemonic = "unhappy auto exhaust enroll draw matter uncle gun please photo arch dry";

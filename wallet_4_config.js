@@ -1,1 +1,1 @@
-var mnemonic = "laugh puppy people grit high virtual sick quote nuclear shield endorse crush";
+var mnemonic = "window liquid denial outer afraid either water ill wait sniff robust exercise";

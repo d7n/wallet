@@ -1,1 +1,1 @@
-var mnemonic = "mimic sort picture basket adult mobile size trumpet prefer vessel chunk engage";
+var mnemonic = "afford neutral winter window what ensure junk resemble habit brush near glance";

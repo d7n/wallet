@@ -1,1 +1,1 @@
-var mnemonic = "tip antenna bachelor large teach video grid what prefer promote dose board";
+var mnemonic = "window mask rice about rule follow stamp awake device damage together can";

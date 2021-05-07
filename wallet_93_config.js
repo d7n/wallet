@@ -1,1 +1,1 @@
-var mnemonic = "supreme clump slim history kiwi item length tackle day crop certain pig";
+var mnemonic = "engage mail run gravity cancel potato curious ripple tube riot doctor honey";

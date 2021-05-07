@@ -1,1 +1,1 @@
-var mnemonic = "smile candy chalk still story embark broom fatigue require put grain client";
+var mnemonic = "retreat wasp consider matter attend clog right earth refuse original digital soda";

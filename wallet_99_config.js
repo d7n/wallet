@@ -1,1 +1,1 @@
-var mnemonic = "buffalo siren proof loud hard forest erosion hospital view robust sure meadow";
+var mnemonic = "little popular exit column float royal sound hour struggle unfold tunnel future";
