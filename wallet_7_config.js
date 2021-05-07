@@ -1,1 +1,1 @@
-var mnemonic = "friend joke eye wolf float field problem elite vintage captain verb energy";
+var mnemonic = "guilt limb install ivory install proud way staff install gun equal demand";

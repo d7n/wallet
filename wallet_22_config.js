@@ -1,1 +1,1 @@
-var mnemonic = "olive gloom card ritual protect glance sphere exclude float park nation butter";
+var mnemonic = "wood gown degree magic chimney coast alter canal habit suggest drink inject";

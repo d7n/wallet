@@ -1,1 +1,1 @@
-var mnemonic = "test expect minor game oak liberty unable hat typical oyster notable illegal";
+var mnemonic = "carpet sort stand cook receive open present clip virus build daring minor";

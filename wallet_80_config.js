@@ -1,1 +1,1 @@
-var mnemonic = "album coin waste below mutual stone soul subject crew poverty staff repair";
+var mnemonic = "round hybrid recycle picture tomorrow short peace meat ridge rack fat magic";

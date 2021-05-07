@@ -1,1 +1,1 @@
-var mnemonic = "barely grow arctic glove raw myth senior bright summer pottery impact govern";
+var mnemonic = "skate recycle energy toss lawsuit matter churn cattle focus lemon ginger rigid";

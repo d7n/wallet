@@ -1,1 +1,1 @@
-var mnemonic = "marriage hungry immune gather demand parent october match harvest void nephew liberty";
+var mnemonic = "joy picnic found talent enjoy chat element crawl drill slice journey green";

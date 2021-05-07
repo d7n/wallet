@@ -1,1 +1,1 @@
-var mnemonic = "room dinosaur sing bulk since hour flash genuine device sleep hat advance";
+var mnemonic = "clump grief admit produce coral effort rather proud cage time narrow casino";

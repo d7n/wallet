@@ -1,1 +1,1 @@
-var mnemonic = "adjust riot photo hard arrow theory abandon awesome guilt plunge team awesome";
+var mnemonic = "charge swing club issue session trash combine sing afford regret wire east";

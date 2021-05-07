@@ -1,1 +1,1 @@
-var mnemonic = "feed end staff near outdoor electric aware heavy act scout talent donate";
+var mnemonic = "awful donkey reform dune chat bless voice trim invite beach odor poem";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic walk belt drastic wink turkey inside gasp remain subway man marble";
+var mnemonic = "nephew teach reopen dog submit visa fragile brick evolve motor arrive smile";

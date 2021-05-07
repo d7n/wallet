@@ -1,1 +1,1 @@
-var mnemonic = "decade seek cheap couch office enroll mercy pencil attend permit chalk grit";
+var mnemonic = "rabbit tree tackle orchard science budget lizard book choice gun shock dune";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard negative tree tone paddle patient arrive equal degree mechanic poverty special";
+var mnemonic = "chimney sound add zebra antenna leisure valley arena book door when taste";

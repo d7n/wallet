@@ -1,1 +1,1 @@
-var mnemonic = "absent topic nice skin violin meadow human deposit art bunker gadget drama";
+var mnemonic = "siege patch flight fire satisfy toy absurd divorce snack day slow wage";

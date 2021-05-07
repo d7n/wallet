@@ -1,1 +1,1 @@
-var mnemonic = "cram write buzz wheel friend exile rebel island day album coral bread";
+var mnemonic = "debate grow deliver sister provide front draw turn usual stock attack similar";

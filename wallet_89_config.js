@@ -1,1 +1,1 @@
-var mnemonic = "put select level food genre aunt style razor habit tuition solar build";
+var mnemonic = "remain copper stock hamster ask heavy dash display timber suffer divide tell";

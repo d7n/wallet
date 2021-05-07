@@ -1,1 +1,1 @@
-var mnemonic = "before again motion cattle fluid prison tortoise civil tornado scare poet illness";
+var mnemonic = "fetch high trigger decade human purchase rebuild sweet vicious one drill swim";

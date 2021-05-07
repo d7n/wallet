@@ -1,1 +1,1 @@
-var mnemonic = "cave bid nice recall payment visa sick boost grocery ordinary verify frog";
+var mnemonic = "crisp whale galaxy giggle price grid update vibrant accuse puzzle erupt judge";

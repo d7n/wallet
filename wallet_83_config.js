@@ -1,1 +1,1 @@
-var mnemonic = "alarm brother toe quit enjoy effort sorry alcohol loan series color economy";
+var mnemonic = "journey agent similar lab portion order desk image alcohol stool tomato benefit";

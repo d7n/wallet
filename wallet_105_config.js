@@ -1,1 +1,1 @@
-var mnemonic = "claw network play wide must push attend sample off labor father viable";
+var mnemonic = "sense need hidden deny sadness scene prison spring accuse injury stumble street";

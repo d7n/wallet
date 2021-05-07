@@ -1,1 +1,1 @@
-var mnemonic = "monster sauce spice correct bid spy inmate sunny cargo over note leave";
+var mnemonic = "asthma injury address original capital hold until divorce fitness token unknown valley";

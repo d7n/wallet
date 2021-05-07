@@ -1,1 +1,1 @@
-var mnemonic = "accident myth place inherit soup vessel domain clever message pet omit ticket";
+var mnemonic = "steak glad spice toy six smile danger expose auction cinnamon affair divert";

@@ -1,1 +1,1 @@
-var mnemonic = "cream vivid gossip wheel way enable uniform skate disease bench powder abandon";
+var mnemonic = "soft chapter sock twenty front version buyer glare height weapon empty rubber";

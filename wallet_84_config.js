@@ -1,1 +1,1 @@
-var mnemonic = "erosion naive reopen critic oblige paper dwarf donor jewel embark loud hold";
+var mnemonic = "weird disorder misery bunker jewel ship inquiry ribbon kitchen useful venture satisfy";

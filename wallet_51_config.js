@@ -1,1 +1,1 @@
-var mnemonic = "arch awake uniform dizzy cupboard clinic ranch immense rookie high doll magnet";
+var mnemonic = "video abandon purpose festival farm expect author visit alone warm sauce fantasy";

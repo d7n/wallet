@@ -1,1 +1,1 @@
-var mnemonic = "pioneer what later skin rescue matter weapon cupboard vicious drift segment zebra";
+var mnemonic = "carpet wrap moment mixture detail traffic blue engage detect snow palace gravity";

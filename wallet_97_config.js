@@ -1,1 +1,1 @@
-var mnemonic = "naive humble bomb absorb cake excite habit inject nose push knife busy";
+var mnemonic = "width apple faculty rebel roast curve avoid hard mango claim reform notice";

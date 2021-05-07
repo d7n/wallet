@@ -1,1 +1,1 @@
-var mnemonic = "bid unhappy local hint clerk snack mystery mushroom prepare rigid force suffer";
+var mnemonic = "brother infant sadness mimic exhibit cable rally sad wrong story start fury";

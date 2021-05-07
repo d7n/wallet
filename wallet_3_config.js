@@ -1,1 +1,1 @@
-var mnemonic = "today silver orient eager girl elite soul steak finger unfold day hurdle";
+var mnemonic = "text industry trial sort peasant brain shiver mirror offer angle coast ready";

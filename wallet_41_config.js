@@ -1,1 +1,1 @@
-var mnemonic = "fish boost entire diamond oval bracket hill fantasy jealous stereo lift chase";
+var mnemonic = "glove mule solid post barely absorb figure tilt journey latin put slight";

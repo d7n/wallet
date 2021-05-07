@@ -1,1 +1,1 @@
-var mnemonic = "huge spice fossil tongue gym organ opera easy inner digital social evidence";
+var mnemonic = "radio eagle ability bleak desk adjust page island provide mobile shock quick";

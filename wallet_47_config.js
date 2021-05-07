@@ -1,1 +1,1 @@
-var mnemonic = "just exact crash toss luxury provide oven sugar elegant similar usage roof";
+var mnemonic = "brain athlete emotion model very merry race edge favorite park traffic nut";

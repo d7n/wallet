@@ -1,1 +1,1 @@
-var mnemonic = "struggle slice wasp coach quality segment dish gain rural viable person phone";
+var mnemonic = "trim cube rocket that job tank cousin fancy scale finish correct wolf";

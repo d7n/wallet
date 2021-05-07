@@ -1,1 +1,1 @@
-var mnemonic = "fluid very lumber upset lake laundry wait matter fine misery kitchen beyond";
+var mnemonic = "quick cruise snake motion relief praise derive breeze weasel isolate bridge giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "fee glance despair pink gas almost hat lizard fringe quarter core sweet";
+var mnemonic = "indoor minimum rotate eyebrow cloth gaze phrase misery drum phrase spell barely";

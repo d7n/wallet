@@ -1,1 +1,1 @@
-var mnemonic = "fragile false virtual sister picnic van explain air embark mansion relax useless";
+var mnemonic = "vocal wall plunge write visual kangaroo syrup fresh denial guilt gallery winner";

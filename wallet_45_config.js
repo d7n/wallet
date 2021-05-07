@@ -1,1 +1,1 @@
-var mnemonic = "light gaze fortune rebel police cupboard approve cup hundred next inch liar";
+var mnemonic = "domain vessel erode ridge viable lumber earth coral valve dog observe ritual";

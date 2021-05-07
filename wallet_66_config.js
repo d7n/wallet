@@ -1,1 +1,1 @@
-var mnemonic = "liquid gorilla absorb dinner pigeon axis unfold try kit dentist tide parrot";
+var mnemonic = "practice outer text smile switch success camera model shove head auction myself";

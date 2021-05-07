@@ -1,1 +1,1 @@
-var mnemonic = "lava gown viable prefer opinion burden excite polar rotate transfer interest accuse";
+var mnemonic = "goat street permit huge mom path rate rack round resource finger menu";

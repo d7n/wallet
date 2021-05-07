@@ -1,1 +1,1 @@
-var mnemonic = "announce wreck daring salad trust lizard spend tonight blast rapid vital swamp";
+var mnemonic = "police fantasy true speak city equal soccer carpet emotion advice convince jacket";

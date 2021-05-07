@@ -1,1 +1,1 @@
-var mnemonic = "where note dog hamster genius vault error street bulb hybrid retire bulk";
+var mnemonic = "couple soldier mutual awkward citizen desert rent brisk mule discover crater replace";

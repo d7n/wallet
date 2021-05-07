@@ -1,1 +1,1 @@
-var mnemonic = "erupt rough topple venture drink myth fish enact awesome under broccoli jar";
+var mnemonic = "update warrior release element hello bunker flat art label punch want zoo";

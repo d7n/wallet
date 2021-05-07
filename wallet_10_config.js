@@ -1,1 +1,1 @@
-var mnemonic = "exclude thought canoe foot onion choice urge creek lens young liquid suit";
+var mnemonic = "embrace hurdle short true youth kid fence pelican melt bitter topic attack";

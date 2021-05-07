@@ -1,1 +1,1 @@
-var mnemonic = "tornado artefact relief harbor feel tattoo faint tower scrap solve pen tank";
+var mnemonic = "bunker borrow place crawl piece wrestle south mention fetch candy kitchen embrace";

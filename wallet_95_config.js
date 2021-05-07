@@ -1,1 +1,1 @@
-var mnemonic = "daring rival shoulder bronze mention flower wealth daughter chaos limb helmet venue";
+var mnemonic = "crystal air tower audit either foster police plunge gain coyote spatial kitten";

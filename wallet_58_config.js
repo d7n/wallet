@@ -1,1 +1,1 @@
-var mnemonic = "cloth nice rate off dream trade match escape pear iron bicycle acquire";
+var mnemonic = "come output exhaust vanish develop flag ahead prison choose wing bulk guitar";

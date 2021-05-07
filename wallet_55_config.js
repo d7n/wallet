@@ -1,1 +1,1 @@
-var mnemonic = "slam elevator book steak soul tissue park confirm tape race width wild";
+var mnemonic = "wide media soap upper episode purchase current virtual diet father laundry subway";

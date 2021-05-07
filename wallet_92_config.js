@@ -1,1 +1,1 @@
-var mnemonic = "swear use blush page hobby sketch fatigue squirrel uncover cherry fix april";
+var mnemonic = "glad resist usual ankle agree shop resist lounge soldier fit suspect blast";

@@ -1,1 +1,1 @@
-var mnemonic = "cricket ahead pass lift drink drive fan advance breeze boss hammer scatter";
+var mnemonic = "cool mistake capital slush basic peasant myth coral garage patient ship minute";

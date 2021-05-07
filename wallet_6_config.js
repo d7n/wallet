@@ -1,1 +1,1 @@
-var mnemonic = "tree web joy jungle bridge pumpkin oblige indicate bleak leaf noodle observe";
+var mnemonic = "badge champion use burden cook banana bronze flip vital debris swarm wing";

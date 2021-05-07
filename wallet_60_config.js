@@ -1,1 +1,1 @@
-var mnemonic = "lecture inner dragon custom thought isolate plug blood ice hope museum amateur";
+var mnemonic = "bracket target farm ring quick define protect mistake unit simple measure spoon";

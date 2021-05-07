@@ -1,1 +1,1 @@
-var mnemonic = "neglect burden rack riot clock process summer yellow exit change guilt radio";
+var mnemonic = "special salt furnace slab few message wreck impulse opera market month blade";

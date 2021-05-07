@@ -1,1 +1,1 @@
-var mnemonic = "lion sick teach express biology embark document swap mammal lock put lounge";
+var mnemonic = "device quiz ticket extend then drive grit edit dynamic extend duck intact";

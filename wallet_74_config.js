@@ -1,1 +1,1 @@
-var mnemonic = "nominee fit that certain caught say bright police exist slam pizza melody";
+var mnemonic = "that sauce company ball cheap play mandate miss group weekend bachelor else";

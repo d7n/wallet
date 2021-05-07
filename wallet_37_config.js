@@ -1,1 +1,1 @@
-var mnemonic = "rigid fantasy poem bean subway winter tomato reward spice asthma indoor giant";
+var mnemonic = "vibrant execute enrich demise mule female steak gate yellow brand afford slice";

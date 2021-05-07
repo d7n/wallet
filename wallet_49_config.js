@@ -1,1 +1,1 @@
-var mnemonic = "ability fun unknown style note panic process warm dwarf absent rocket truth";
+var mnemonic = "monitor age clean six movie tooth special derive giggle short crystal bulb";

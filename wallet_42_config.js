@@ -1,1 +1,1 @@
-var mnemonic = "shift trip anger sudden wool dragon skull chapter kit bonus simple gravity";
+var mnemonic = "hungry roast square amateur deposit guard piano gossip casual swear truth muscle";

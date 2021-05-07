@@ -1,1 +1,1 @@
-var mnemonic = "era escape hazard top fade tuna hazard expire manual cigar actual behind";
+var mnemonic = "essay link dash success cherry mutual taste bleak ring cancel inner manage";

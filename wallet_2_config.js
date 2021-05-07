@@ -1,1 +1,1 @@
-var mnemonic = "announce run tent present claw assume flock text era fashion inherit present";
+var mnemonic = "random maid wage economy inherit web pyramid bag salon execute edge arm";

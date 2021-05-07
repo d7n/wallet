@@ -1,1 +1,1 @@
-var mnemonic = "ketchup usage wool beauty dove spell verb present admit what edge hybrid";
+var mnemonic = "final suggest wise patrol lucky hero grow visual stumble stamp tiny know";

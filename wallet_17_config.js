@@ -1,1 +1,1 @@
-var mnemonic = "rice grid drum vivid glove monkey spatial margin noble stumble ramp grape";
+var mnemonic = "aspect table process noodle entry dress jelly perfect penalty elegant luggage sunny";

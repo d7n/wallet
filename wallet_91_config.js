@@ -1,1 +1,1 @@
-var mnemonic = "pass artefact vacuum fringe bubble inner puppy eternal master federal enable desert";
+var mnemonic = "armor twist spike various spell black captain tuition desk joy snow health";

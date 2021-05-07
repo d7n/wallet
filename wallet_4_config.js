@@ -1,1 +1,1 @@
-var mnemonic = "second trend arrive rely mirror siren brand income erode wine laugh edge";
+var mnemonic = "cave exit time enrich captain human mass arrive silent sniff tuition scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "sun random voice skate destroy anger frost initial word test pudding fever";
+var mnemonic = "magic extend churn kidney lab fabric panic shift winter rotate calm toward";

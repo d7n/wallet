@@ -1,1 +1,1 @@
-var mnemonic = "have timber still pave moon oblige suspect bid pistol iron ready hunt";
+var mnemonic = "robot retreat current elephant awake danger expose tired dust desert company will";

@@ -1,1 +1,1 @@
-var mnemonic = "fatal flower apart file donor catch giant picnic describe maid acid junior";
+var mnemonic = "cannon front express fancy gap salmon board awake situate tooth churn oven";

@@ -1,1 +1,1 @@
-var mnemonic = "omit blossom present credit symbol fork put attract rib kiwi federal barrel";
+var mnemonic = "voyage whisper salon little smart flip young party jeans heart enact lawsuit";

@@ -1,1 +1,1 @@
-var mnemonic = "clever mix limb moment bag planet again rough rice prize wreck note";
+var mnemonic = "clerk cycle nuclear round hard put disagree cook option endless eager fog";

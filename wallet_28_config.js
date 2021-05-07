@@ -1,1 +1,1 @@
-var mnemonic = "cool notable nest door eight dinner gauge elbow path shoulder animal awful";
+var mnemonic = "spell sight bridge require point tennis fun front clever that receive bargain";

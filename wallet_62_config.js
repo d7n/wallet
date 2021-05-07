@@ -1,1 +1,1 @@
-var mnemonic = "give flee dilemma age mention peace cost ritual soft lemon envelope dance";
+var mnemonic = "ramp lecture daring more pluck finish denial swim clump anchor define hint";

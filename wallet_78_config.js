@@ -1,1 +1,1 @@
-var mnemonic = "hobby budget pet buffalo broken salon donkey crash door inherit success lazy";
+var mnemonic = "million above snack tonight tribe install leg lock clinic box twist loud";

@@ -1,1 +1,1 @@
-var mnemonic = "sort fatigue prison tank other detect foot resist laptop usual cluster symptom";
+var mnemonic = "swarm excess plug decorate pulp tunnel must front select captain crash group";

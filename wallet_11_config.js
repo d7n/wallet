@@ -1,1 +1,1 @@
-var mnemonic = "okay buddy learn cricket joy creek pepper jewel decline taste duck bubble";
+var mnemonic = "labor case other walk lab ozone physical turkey rigid naive embody sugar";

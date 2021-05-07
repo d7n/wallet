@@ -1,1 +1,1 @@
-var mnemonic = "shift sustain uphold able boss dirt strategy blue phone airport bench venue";
+var mnemonic = "bacon industry vibrant infant achieve sad burger much educate search neck conduct";

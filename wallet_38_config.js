@@ -1,1 +1,1 @@
-var mnemonic = "quality gun lumber exist topic minor sun gorilla two mandate spawn board";
+var mnemonic = "service reveal employ dinner frown pave later sound outer census invest voice";

@@ -1,1 +1,1 @@
-var mnemonic = "fame cactus pilot save suit image crisp shoe century brass alone game";
+var mnemonic = "excess suit pottery tell offer awful toe mango flip jelly song movie";

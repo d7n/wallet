@@ -1,1 +1,1 @@
-var mnemonic = "leaf noble glove curve pelican gym retire velvet merge excess split desert";
+var mnemonic = "neutral install merit curtain shaft purse crush faint perfect pizza away awkward";

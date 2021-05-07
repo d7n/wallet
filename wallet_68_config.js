@@ -1,1 +1,1 @@
-var mnemonic = "pond word potato design odor library into miracle milk sick peanut key";
+var mnemonic = "path flash obscure bicycle sleep submit naive around armed spy ability student";

@@ -1,1 +1,1 @@
-var mnemonic = "jump viable various razor inch noodle video mutual boost glide endorse evidence";
+var mnemonic = "inspire parent problem fiber small olympic catalog injury wire artefact pilot oblige";

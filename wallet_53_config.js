@@ -1,1 +1,1 @@
-var mnemonic = "report human story repair basket collect renew cruel pull unhappy divert fuel";
+var mnemonic = "index craft sting maid engine bracket cheese explain retreat wear vast scrub";

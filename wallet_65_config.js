@@ -1,1 +1,1 @@
-var mnemonic = "mechanic kind endless state flag buffalo hungry soap daring update social bottom";
+var mnemonic = "payment object mask season love special problem tooth elite crush check field";

@@ -1,1 +1,1 @@
-var mnemonic = "history possible lottery file battle resist scout gap enemy river token gate";
+var mnemonic = "minute never crumble diet bachelor march update moon suspect answer carbon shuffle";

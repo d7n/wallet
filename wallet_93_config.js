@@ -1,1 +1,1 @@
-var mnemonic = "frame ring awful sand such scare claim noble pave clerk afraid magnet";
+var mnemonic = "life flock knock fatal legend garage august post barely sign legend object";

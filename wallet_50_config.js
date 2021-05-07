@@ -1,1 +1,1 @@
-var mnemonic = "pen edit turtle rack force chase carry best wasp steak venture able";
+var mnemonic = "faculty trip club auto demand slight design transfer unveil song video avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot client army else tree chief morning pizza pill attend then two";
+var mnemonic = "nurse victory anxiety shuffle hover solve glance strong must arrest news evidence";

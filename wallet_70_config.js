@@ -1,1 +1,1 @@
-var mnemonic = "pear frame ahead use fresh suspect inhale script awkward any diesel skin";
+var mnemonic = "ski level foam above behave carry tomato minor tool alpha squeeze bike";

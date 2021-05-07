@@ -1,1 +1,1 @@
-var mnemonic = "width inflict sadness urge fan obvious car genius able penalty execute knife";
+var mnemonic = "guitar near random pull bachelor swear engine clump voice private hair topic";

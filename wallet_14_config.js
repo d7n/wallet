@@ -1,1 +1,1 @@
-var mnemonic = "kite loan wood couch bunker auction damage shuffle grab pelican essay distance";
+var mnemonic = "fee unaware worry voyage dry say museum room weasel image alarm move";
