@@ -1,1 +1,1 @@
-var mnemonic = "picnic omit divorce leisure you wire offer best base upset raven people";
+var mnemonic = "garage actual grit flame all torch idle evoke dizzy coral jacket relief";

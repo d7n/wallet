@@ -1,1 +1,1 @@
-var mnemonic = "paddle hobby decorate injury bitter cute volcano salute course enact creek shallow";
+var mnemonic = "else brief elegant excuse never pudding weather genre away error essay mushroom";

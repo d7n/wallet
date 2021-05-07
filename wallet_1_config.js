@@ -1,1 +1,1 @@
-var mnemonic = "liar voice shell gate wrap casino someone renew pioneer nose sport drastic";
+var mnemonic = "safe document era when grain labor sheriff brief holiday venue all carpet";

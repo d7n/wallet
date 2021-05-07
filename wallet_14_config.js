@@ -1,1 +1,1 @@
-var mnemonic = "off join survey decorate outer chronic silver voice define educate work stomach";
+var mnemonic = "crouch update business pluck reunion search soft magic sort tube tragic steak";

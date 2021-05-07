@@ -1,1 +1,1 @@
-var mnemonic = "oval dumb cage order digital entire skirt welcome drama educate dawn display";
+var mnemonic = "door knee grit uncle reform such cloth curious long wheat chapter true";

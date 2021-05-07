@@ -1,1 +1,1 @@
-var mnemonic = "book forum parade man parrot finger west hedgehog section bleak spray found";
+var mnemonic = "husband reason reveal save survey bird tower foot invite other gain expose";

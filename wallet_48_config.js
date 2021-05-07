@@ -1,1 +1,1 @@
-var mnemonic = "patrol verify famous animal wish paddle make stadium material clinic pudding identify";
+var mnemonic = "toss level attend volcano amateur cabbage asthma clean gallery affair enough admit";

@@ -1,1 +1,1 @@
-var mnemonic = "recall peasant yard panel retire lecture horse prepare pool like early home";
+var mnemonic = "neutral easily blur crowd spatial drip toe evil place bridge field rice";

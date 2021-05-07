@@ -1,1 +1,1 @@
-var mnemonic = "nasty only maid ball quick calm panic into robust dinosaur cage duck";
+var mnemonic = "lazy clutch exhibit dirt scene marriage tent tail human explain toast away";

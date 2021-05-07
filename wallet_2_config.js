@@ -1,1 +1,1 @@
-var mnemonic = "west bitter home poem expose impose rhythm blame token woman cash water";
+var mnemonic = "amateur clerk utility menu office range chronic vanish vendor carry display flight";

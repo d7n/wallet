@@ -1,1 +1,1 @@
-var mnemonic = "squeeze urban become okay across tooth sound brick ramp mesh bid suit";
+var mnemonic = "police empower shy club runway adjust outdoor process lyrics increase alpha seek";

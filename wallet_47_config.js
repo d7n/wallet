@@ -1,1 +1,1 @@
-var mnemonic = "reject during volcano fold raise crouch turkey donor among deal cliff fog";
+var mnemonic = "enter near decorate walk endorse nurse glue naive pitch board account device";

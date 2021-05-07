@@ -1,1 +1,1 @@
-var mnemonic = "join change flavor brick camp draft extra token young transfer quick fade";
+var mnemonic = "rotate youth bounce oppose apple whisper cannon spike cereal season table object";

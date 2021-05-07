@@ -1,1 +1,1 @@
-var mnemonic = "spend jungle slot cup auction motor nose sea novel trouble hire ship";
+var mnemonic = "area dad nerve tent fade salt spider wing couch hand cycle shoulder";

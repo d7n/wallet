@@ -1,1 +1,1 @@
-var mnemonic = "filter jazz will consider drip skull quick inspire myself random strong depend";
+var mnemonic = "only limit chest expand document model fancy piece turtle extra sound hill";

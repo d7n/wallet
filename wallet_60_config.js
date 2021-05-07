@@ -1,1 +1,1 @@
-var mnemonic = "range kidney involve sibling cotton robust source motion bracket unique crater remove";
+var mnemonic = "gas load razor million patient fan tent lounge draw mistake release spend";

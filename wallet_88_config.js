@@ -1,1 +1,1 @@
-var mnemonic = "safe disorder response address jeans square switch world rhythm often siren style";
+var mnemonic = "garden engage patch accident tape flip garage upgrade vacant allow chef infant";

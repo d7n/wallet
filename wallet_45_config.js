@@ -1,1 +1,1 @@
-var mnemonic = "mesh chaos grief theme clap phone face must cruel elder gold omit";
+var mnemonic = "ice lend increase easily joy since finger pet garment frost grace strategy";

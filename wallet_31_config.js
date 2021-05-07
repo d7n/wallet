@@ -1,1 +1,1 @@
-var mnemonic = "december maid hub upon tuition picture cancel name calm proof raven chief";
+var mnemonic = "trophy erode victory index leaf leg broken art dad tape pride garage";

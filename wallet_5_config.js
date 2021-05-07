@@ -1,1 +1,1 @@
-var mnemonic = "three aisle always income bottom total purpose reveal soon whale invite various";
+var mnemonic = "frame clump million pet jealous theory gorilla police lab hold enemy crucial";

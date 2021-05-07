@@ -1,1 +1,1 @@
-var mnemonic = "nut run tower chicken genuine cat shoe brick indicate lizard pattern crop";
+var mnemonic = "impulse trip elephant nephew rubber prefer undo hen cross perfect ship remove";

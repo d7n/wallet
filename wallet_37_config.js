@@ -1,1 +1,1 @@
-var mnemonic = "there worry brick cigar hockey hold unveil such matrix clown rebel pyramid";
+var mnemonic = "annual mercy steak forward party orange trust pull whale shine life isolate";

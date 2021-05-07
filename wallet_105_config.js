@@ -1,1 +1,1 @@
-var mnemonic = "cotton menu frown inhale bone shift tongue cloth riot analyst barrel crisp";
+var mnemonic = "enroll because deputy refuse utility thank miss biology example cluster alarm board";

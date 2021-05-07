@@ -1,1 +1,1 @@
-var mnemonic = "pelican nominee dry flock inquiry end level brass angle believe simple document";
+var mnemonic = "crowd long until material gather month orbit team punch coin weapon dizzy";

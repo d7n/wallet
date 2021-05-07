@@ -1,1 +1,1 @@
-var mnemonic = "nerve lyrics account version express leisure scheme bar category warrior hockey wall";
+var mnemonic = "shock unhappy order oven recall walk minute open black bird face speed";

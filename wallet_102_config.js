@@ -1,1 +1,1 @@
-var mnemonic = "beauty morning swarm large latin tilt century fragile arch laundry extra drink";
+var mnemonic = "town spell parade beach lake glue occur twist mass wink rude plate";

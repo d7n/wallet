@@ -1,1 +1,1 @@
-var mnemonic = "frost affair toilet valley cook orient ignore chase when grass clump funny";
+var mnemonic = "token solar arrest sausage supreme super dish then odor duck equip dinner";

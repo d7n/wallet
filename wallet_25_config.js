@@ -1,1 +1,1 @@
-var mnemonic = "extra hat ring wrap miss bus grace illness guilt bike arena gap";
+var mnemonic = "cabbage section parade runway warm hawk soul east uphold canvas cake rural";

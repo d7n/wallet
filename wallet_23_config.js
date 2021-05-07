@@ -1,1 +1,1 @@
-var mnemonic = "cereal oval fine october tuna subject tent asthma document typical fringe excite";
+var mnemonic = "nuclear mammal seek parade zoo bright tooth educate either bundle tent chair";

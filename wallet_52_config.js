@@ -1,1 +1,1 @@
-var mnemonic = "ceiling act roast memory decorate stomach rice exile lazy ladder obscure document";
+var mnemonic = "display danger view bulb this mail curious old ginger tool shove regret";

@@ -1,1 +1,1 @@
-var mnemonic = "calm leisure prefer damp between vault basic afraid shield tower need clip";
+var mnemonic = "limb suspect predict clutch talk bag stamp magnet fury unveil hidden canyon";

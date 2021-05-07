@@ -1,1 +1,1 @@
-var mnemonic = "rocket verify cloud naive december soda acquire minute august bleak unlock sense";
+var mnemonic = "wool display wash viable expect youth switch nuclear gas bus rice predict";

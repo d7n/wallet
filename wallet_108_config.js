@@ -1,1 +1,1 @@
-var mnemonic = "pioneer spoon lift destroy utility weekend please mushroom roast six under aware";
+var mnemonic = "curtain attend ethics injury vibrant clock cage slight glue assist soup barrel";

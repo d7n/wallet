@@ -1,1 +1,1 @@
-var mnemonic = "audit critic coffee check feed account satoshi isolate main sadness crucial horn";
+var mnemonic = "stomach universe announce script another cluster need mail arm stomach dinner position";

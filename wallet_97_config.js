@@ -1,1 +1,1 @@
-var mnemonic = "vehicle actual ignore medal piano arrange noodle brush cluster spring tower hover";
+var mnemonic = "update work wide hammer expire obey laptop wolf grass universe quantum grace";

@@ -1,1 +1,1 @@
-var mnemonic = "blind divide toilet laugh odor collect birth river prevent leisure angry bird";
+var mnemonic = "bulb amateur oven foster toast filter assault armed talk bubble cycle sauce";

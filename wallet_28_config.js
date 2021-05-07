@@ -1,1 +1,1 @@
-var mnemonic = "upgrade equal harsh volcano uphold produce soccer toddler divert infant fresh sense";
+var mnemonic = "escape pepper gesture swamp above employ travel catalog wealth diagram try rent";

@@ -1,1 +1,1 @@
-var mnemonic = "call maple silk office tongue fatal jaguar two grocery acoustic cave cart";
+var mnemonic = "multiply poverty regular news consider focus copper exotic festival present cause reward";

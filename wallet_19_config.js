@@ -1,1 +1,1 @@
-var mnemonic = "equip mosquito educate lounge usual gloom inquiry sheriff kidney borrow exact echo";
+var mnemonic = "distance know palace tide elephant hotel bamboo plastic biology alarm dish misery";

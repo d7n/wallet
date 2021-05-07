@@ -1,1 +1,1 @@
-var mnemonic = "actress trap lawsuit jump wreck glass series wine force enough actress kind";
+var mnemonic = "inject melt velvet unfold attitude manual unfold hobby impose mutual matrix range";

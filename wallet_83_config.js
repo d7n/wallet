@@ -1,1 +1,1 @@
-var mnemonic = "remain couch emotion hurdle unknown adult medal armor dinner water wolf salon";
+var mnemonic = "pottery source mail liar update throw valve response vacuum humor endless lift";

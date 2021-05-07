@@ -1,1 +1,1 @@
-var mnemonic = "aunt blood panic reunion trick hospital turtle conduct creek wrestle game slight";
+var mnemonic = "acoustic sudden arrange piano theory length hard grain try crew slice buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "among comic address kiwi behind guard cabbage crunch goat thank crumble danger";
+var mnemonic = "amount universe save extra focus into cram mechanic betray sustain planet awake";

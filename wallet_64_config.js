@@ -1,1 +1,1 @@
-var mnemonic = "present weekend town another dress where episode photo scene impose prosper relax";
+var mnemonic = "gossip pelican jump price start beach catch fox abstract dutch wedding spread";

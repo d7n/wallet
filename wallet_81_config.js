@@ -1,1 +1,1 @@
-var mnemonic = "robot document mixture perfect half that laugh idle deny borrow print loud";
+var mnemonic = "name gain media work nation drink style joke curve curious control firm";

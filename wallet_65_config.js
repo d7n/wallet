@@ -1,1 +1,1 @@
-var mnemonic = "fix cancel hollow recipe mutual cousin similar person surround pipe tank inside";
+var mnemonic = "trap find record sell wife rare era hedgehog office trade glad alcohol";

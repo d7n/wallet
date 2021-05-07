@@ -1,1 +1,1 @@
-var mnemonic = "sea entire hill host valley avoid seat purchase possible vote addict train";
+var mnemonic = "warrior vocal item unable huge pair upset debate receive whip history yellow";

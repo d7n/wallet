@@ -1,1 +1,1 @@
-var mnemonic = "pipe elder pistol awful snake road sound dinosaur tell alert huge embody";
+var mnemonic = "nurse month paddle join practice cotton agree olympic chalk cup forward treat";

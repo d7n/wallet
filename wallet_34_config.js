@@ -1,1 +1,1 @@
-var mnemonic = "undo camp saddle couch hope solution sunny bulb oyster sun bunker orchard";
+var mnemonic = "honey choose health actress mimic urban sponsor galaxy shaft market reduce afford";

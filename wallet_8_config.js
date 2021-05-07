@@ -1,1 +1,1 @@
-var mnemonic = "slab atom fashion biology history job mind glance vivid need dice video";
+var mnemonic = "index catalog decade sphere snack right electric tomorrow minor pupil damage teach";

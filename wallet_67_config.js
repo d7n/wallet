@@ -1,1 +1,1 @@
-var mnemonic = "stool attack orchard federal wrap cancel analyst trade van educate sponsor web";
+var mnemonic = "tomorrow flame nurse wish broom skirt thank want patrol curious hidden nice";

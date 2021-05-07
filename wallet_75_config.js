@@ -1,1 +1,1 @@
-var mnemonic = "cute evidence chef dry boat check chase apple tourist romance swift weapon";
+var mnemonic = "fever inch fun empower lens differ vanish grit dish truck light one";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke ghost menu black knee crane pigeon couple round rib matter angry";
+var mnemonic = "holiday chalk staff impact virus direct battle easily mushroom choose swamp fossil";

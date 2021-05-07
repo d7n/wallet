@@ -1,1 +1,1 @@
-var mnemonic = "wealth day victory chuckle tourist sand return execute luxury produce also puppy";
+var mnemonic = "raccoon carry staff sting energy sense note comic rate album adult glass";

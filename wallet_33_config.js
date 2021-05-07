@@ -1,1 +1,1 @@
-var mnemonic = "meadow subway delay can adjust spirit setup aim ranch begin oval calm";
+var mnemonic = "there jewel harsh sort twist gravity vocal cat marriage soul region repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "antenna love evil arrest good bunker manage warm faculty crawl problem extra";
+var mnemonic = "ignore valid level acquire witness ring cancel electric kangaroo sand match become";

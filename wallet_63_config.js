@@ -1,1 +1,1 @@
-var mnemonic = "huge vacant utility picture erode item rookie coral story magic margin shoot";
+var mnemonic = "school bean length grunt property only evidence learn cycle lunar awesome sea";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic zone toilet resemble divert barrel athlete flip hedgehog banana trumpet item";
+var mnemonic = "tenant buyer near island accuse odor vintage buddy entry spy tornado update";

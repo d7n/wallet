@@ -1,1 +1,1 @@
-var mnemonic = "length steak merry shuffle start brush depend smoke topic people mass outdoor";
+var mnemonic = "gym juice scrap legal hospital ranch prevent spare unit vote goose salon";

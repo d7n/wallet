@@ -1,1 +1,1 @@
-var mnemonic = "fancy bone horror unit soap staff pumpkin mammal cereal solar husband traffic";
+var mnemonic = "emotion mail like castle carry sketch dune alert bus grace clarify ten";

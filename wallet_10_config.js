@@ -1,1 +1,1 @@
-var mnemonic = "also thank roof boss february online fetch remind blush shoulder glimpse sample";
+var mnemonic = "garment rookie risk accuse steak medal vast basic fruit twin success service";

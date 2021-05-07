@@ -1,1 +1,1 @@
-var mnemonic = "spell route story shoe photo legend siren wagon general live ensure fish";
+var mnemonic = "soul leg panel ritual egg tomato radio broccoli replace prevent include liar";

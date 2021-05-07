@@ -1,1 +1,1 @@
-var mnemonic = "dumb coffee green upgrade engage large alien result advance leave term vanish";
+var mnemonic = "fatigue gather option room foot bike bomb ankle ordinary exist shed erode";

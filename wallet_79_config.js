@@ -1,1 +1,1 @@
-var mnemonic = "kitchen sick hundred wreck rate six swarm across neck innocent cigar stock";
+var mnemonic = "flee edge practice fantasy tonight climb emerge call rug smoke pattern document";

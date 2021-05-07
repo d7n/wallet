@@ -1,1 +1,1 @@
-var mnemonic = "army trim rifle magnet vendor boost stairs impulse squirrel father bunker narrow";
+var mnemonic = "into alter true garage cushion shoot exhibit neck fossil owner veteran welcome";

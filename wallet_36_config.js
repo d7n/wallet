@@ -1,1 +1,1 @@
-var mnemonic = "like cinnamon grunt rebuild loyal noble congress online law now portion syrup";
+var mnemonic = "they claw ozone draft weasel bread project reject inspire tired diet general";

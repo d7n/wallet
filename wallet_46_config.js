@@ -1,1 +1,1 @@
-var mnemonic = "face feature volume trim enemy shrimp smooth pilot magnet soup duty myself";
+var mnemonic = "immune off lion mad snap seed grace glass minor trumpet indoor gauge";

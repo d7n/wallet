@@ -1,1 +1,1 @@
-var mnemonic = "cover erupt away make dad scale muffin smart salon cannon amazing skill";
+var mnemonic = "riot imitate express wing essence gauge mobile giant pole hybrid window zebra";

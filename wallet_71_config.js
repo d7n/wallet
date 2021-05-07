@@ -1,1 +1,1 @@
-var mnemonic = "essence assume enhance patrol general object dress gain grunt winter angry fall";
+var mnemonic = "slice venue universe tube modify stick venue purse place park essence patch";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle lizard whisper debate butter radar inch acoustic predict squirrel cook soup";
+var mnemonic = "short milk bus sugar flock rich lock catch wonder wave object hobby";

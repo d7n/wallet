@@ -1,1 +1,1 @@
-var mnemonic = "appear twin repair tourist draw stock short interest slight act excess hand";
+var mnemonic = "autumn case door balance dry citizen cross special example soft guess fade";

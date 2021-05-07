@@ -1,1 +1,1 @@
-var mnemonic = "they radio dwarf cabbage pumpkin skate burst surprise resemble bright mule ski";
+var mnemonic = "trophy trash wage sand add axis taxi federal salt skin walk lava";

@@ -1,1 +1,1 @@
-var mnemonic = "reward robot globe frown picture skill assault suspect drop erupt start piano";
+var mnemonic = "uncover elite sea theory link shock feel strategy explain wasp exhibit kangaroo";

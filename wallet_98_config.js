@@ -1,1 +1,1 @@
-var mnemonic = "mind soup hedgehog design tribe found comfort scale meadow egg vehicle sad";
+var mnemonic = "salmon buffalo flip wrist awake unit goose globe member immune easy caution";

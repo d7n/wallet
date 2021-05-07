@@ -1,1 +1,1 @@
-var mnemonic = "unaware filter doctor shift outdoor salt silly latin flip depart carbon report";
+var mnemonic = "wage ozone govern wild file hurt fall require quote battle reopen history";

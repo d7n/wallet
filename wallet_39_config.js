@@ -1,1 +1,1 @@
-var mnemonic = "vault smart horn gift erode silk rigid similar outside auction sibling federal";
+var mnemonic = "peanut maple tuna rocket buffalo ostrich spider hobby web cloud loop stable";

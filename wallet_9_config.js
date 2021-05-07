@@ -1,1 +1,1 @@
-var mnemonic = "eye robust outside dance uncover card shift transfer aim marine put amazing";
+var mnemonic = "lend perfect protect world electric fire dirt parade genius license retreat company";

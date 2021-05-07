@@ -1,1 +1,1 @@
-var mnemonic = "water setup bring again rival account peanut twin omit anchor match obscure";
+var mnemonic = "spirit issue senior almost ranch ladder cricket have enhance citizen tilt bubble";

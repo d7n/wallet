@@ -1,1 +1,1 @@
-var mnemonic = "verify abuse scatter rare quit scrap hurt faint right antenna name season";
+var mnemonic = "iron amateur useful engage bullet program chronic situate group energy cricket cost";

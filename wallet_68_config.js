@@ -1,1 +1,1 @@
-var mnemonic = "process also ocean rescue drift ice plug mosquito merit cinnamon nephew notable";
+var mnemonic = "alpha beyond scorpion already blood idle output canoe purse album worry ladder";

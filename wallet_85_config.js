@@ -1,1 +1,1 @@
-var mnemonic = "potato jeans leader goddess tumble disagree squirrel oil exotic jaguar visual pig";
+var mnemonic = "anchor fault income photo bus coffee wave isolate all frown forest door";

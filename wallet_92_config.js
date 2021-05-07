@@ -1,1 +1,1 @@
-var mnemonic = "ivory shiver oyster leopard limit winner fresh denial artwork worth digital voyage";
+var mnemonic = "neck chuckle arch unlock juice man awesome size speed high hawk key";

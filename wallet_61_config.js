@@ -1,1 +1,1 @@
-var mnemonic = "dove ginger student zoo public whale cube fan story scorpion vapor camp";
+var mnemonic = "bicycle mammal paper arrow model stomach estate inhale salad gift axis unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "frown dust desk settle tortoise attack nose program ceiling tent galaxy coyote";
+var mnemonic = "deer toy alter danger fiber wall bicycle can gospel travel army egg";

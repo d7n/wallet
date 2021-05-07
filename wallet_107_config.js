@@ -1,1 +1,1 @@
-var mnemonic = "design help kiss turtle dune front trim surprise iron engage ostrich oppose";
+var mnemonic = "nothing middle ribbon unit discover avoid describe dad resist resist pioneer spider";

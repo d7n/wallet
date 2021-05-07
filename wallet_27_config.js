@@ -1,1 +1,1 @@
-var mnemonic = "nose give north step laundry income crawl blossom life ignore ladder van";
+var mnemonic = "immense anchor party degree column plastic auto achieve charge brisk before sibling";

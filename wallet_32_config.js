@@ -1,1 +1,1 @@
-var mnemonic = "melt beach nature soldier flash bulb bounce melody bachelor draft room zebra";
+var mnemonic = "shiver gap tide oak concert distance spatial among cabbage pull antique client";

@@ -1,1 +1,1 @@
-var mnemonic = "drift online design alien replace soda rival helmet wife flock pipe mass";
+var mnemonic = "diet sketch couch lift write blouse piano goose menu defense walk idle";

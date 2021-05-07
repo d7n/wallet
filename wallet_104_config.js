@@ -1,1 +1,1 @@
-var mnemonic = "unfair dilemma chimney call marble edit bundle receive assault slight huge forest";
+var mnemonic = "narrow tonight negative gift govern popular peasant nominee rule kiwi bridge swift";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy elegant practice rent resource increase wing country thought spare identify remain";
+var mnemonic = "initial happy two borrow finger urge absurd tumble champion picnic noise buddy";

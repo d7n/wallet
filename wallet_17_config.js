@@ -1,1 +1,1 @@
-var mnemonic = "fit safe typical link coil thrive roast unveil involve body coil sing";
+var mnemonic = "foot position nature access filter cheese argue ozone tiny conduct edge circle";

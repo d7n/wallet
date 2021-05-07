@@ -1,1 +1,1 @@
-var mnemonic = "perfect snack force obvious office enforce walk together guide antenna breeze exist";
+var mnemonic = "exercise sentence uphold still spot gym submit imitate lesson else opera other";

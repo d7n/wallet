@@ -1,1 +1,1 @@
-var mnemonic = "bind lesson spoil stuff lizard polar invest elephant organ clay belt hand";
+var mnemonic = "egg upset couch cake table news walk possible true thumb admit bronze";

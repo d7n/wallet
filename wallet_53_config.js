@@ -1,1 +1,1 @@
-var mnemonic = "similar galaxy model lab violin level isolate focus antenna vital tree dance";
+var mnemonic = "truly chest rug analyst amused brave stage isolate often coyote protect exotic";

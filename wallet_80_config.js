@@ -1,1 +1,1 @@
-var mnemonic = "say hold dragon dignity exercise cube enrich film warfare river analyst oak";
+var mnemonic = "brass shrimp ring jaguar rhythm basic crack reflect blush spin life actual";
