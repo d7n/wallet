@@ -1,1 +1,1 @@
-var mnemonic = "hip afford try siege inhale smoke close bulb sort nuclear today hotel";
+var mnemonic = "material combine gun canvas actress illegal gym spatial height amused actual diamond";

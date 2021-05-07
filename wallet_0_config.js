@@ -1,1 +1,1 @@
-var mnemonic = "during hundred blame angle dynamic amazing spatial sphere above suit evoke bubble";
+var mnemonic = "wheel inspire fly inject warm rigid inflict fade one lucky doctor soon";

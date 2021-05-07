@@ -1,1 +1,1 @@
-var mnemonic = "doll panther feed magnet exercise over either scissors equal skull fitness phrase";
+var mnemonic = "raise knife repeat sail snack warfare bracket share expire agree kitchen quantum";

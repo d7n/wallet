@@ -1,1 +1,1 @@
-var mnemonic = "reflect butter moment cook aspect erupt gas index about method mutual input";
+var mnemonic = "search alcohol during mom hero evidence crumble uniform ribbon absorb illegal sadness";

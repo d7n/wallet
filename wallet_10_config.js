@@ -1,1 +1,1 @@
-var mnemonic = "beef minor shallow federal genius park earth blush shed pear lab solar";
+var mnemonic = "still random chase language chuckle above cannon rather offer over lyrics high";

@@ -1,1 +1,1 @@
-var mnemonic = "grief eyebrow hotel sing combine drift radar rug produce fog approve crime";
+var mnemonic = "aerobic rain visa try velvet collect alter chief point river pig use";

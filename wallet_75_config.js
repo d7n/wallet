@@ -1,1 +1,1 @@
-var mnemonic = "velvet trick reform junk oil grab place industry diet novel believe service";
+var mnemonic = "tag turkey onion message quantum various loop robust flame trigger way inquiry";

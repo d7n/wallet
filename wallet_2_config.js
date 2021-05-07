@@ -1,1 +1,1 @@
-var mnemonic = "payment merit empower sock appear subject gift still picture scatter thumb oval";
+var mnemonic = "swallow dance depart hat tissue assault magic deliver steel file advice swap";

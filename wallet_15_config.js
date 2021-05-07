@@ -1,1 +1,1 @@
-var mnemonic = "board injury junk jeans winner name ready soccer easy uncover soldier melody";
+var mnemonic = "benefit install tennis pitch enter safe pencil iron track author orange myself";

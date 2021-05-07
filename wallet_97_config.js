@@ -1,1 +1,1 @@
-var mnemonic = "notice wave month dwarf tuition better dynamic random group vacuum engine pipe";
+var mnemonic = "inside foil loud about certain dinner off spike fun scan punch once";

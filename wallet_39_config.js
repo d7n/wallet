@@ -1,1 +1,1 @@
-var mnemonic = "robot shoot satoshi moon replace faith glance gospel trip soda box more";
+var mnemonic = "make matter weapon include never phrase amazing net claw super kidney peanut";

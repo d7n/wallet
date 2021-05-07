@@ -1,1 +1,1 @@
-var mnemonic = "behind force lake salad glue age else mutual magnet gorilla grit expire";
+var mnemonic = "federal select glare media frame tornado frequent draw dust brick flag zone";

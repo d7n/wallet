@@ -1,1 +1,1 @@
-var mnemonic = "vivid weasel vicious upset gentle honey grain nothing around team raise suit";
+var mnemonic = "dust witness poverty allow toe vast relax start heart humble taste use";

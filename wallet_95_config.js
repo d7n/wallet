@@ -1,1 +1,1 @@
-var mnemonic = "clump narrow bind own upon return harvest arch moral fashion husband strategy";
+var mnemonic = "screen riot offer horn dwarf armor thought glue forest host argue recycle";

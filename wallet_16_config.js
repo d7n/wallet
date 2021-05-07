@@ -1,1 +1,1 @@
-var mnemonic = "tackle goat news cactus jewel dream fatal drink dwarf pair puppy dream";
+var mnemonic = "lab dutch ketchup limit sand fog promote write unfold vault toast venture";

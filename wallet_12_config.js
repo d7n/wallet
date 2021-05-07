@@ -1,1 +1,1 @@
-var mnemonic = "winner sunny mixture device tunnel unlock endorse verb credit mansion grace enhance";
+var mnemonic = "beach base yellow neck aisle absurd giggle switch else enact blast install";

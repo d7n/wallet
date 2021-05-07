@@ -1,1 +1,1 @@
-var mnemonic = "toy diet awkward question capital decrease shell marriage prize magic imitate fox";
+var mnemonic = "strong critic few entry valley baby maple flush office sibling bulk deal";

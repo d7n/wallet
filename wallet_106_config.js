@@ -1,1 +1,1 @@
-var mnemonic = "mixed august guilt dwarf lazy caught silver stamp water spike invest funny";
+var mnemonic = "strategy call must video desk normal mirror opera front differ boat earth";

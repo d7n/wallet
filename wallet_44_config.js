@@ -1,1 +1,1 @@
-var mnemonic = "floor music diamond scene dolphin flower panther end pond one jar fit";
+var mnemonic = "mobile wish keen pottery glare captain degree keep aerobic own island trouble";

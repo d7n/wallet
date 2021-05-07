@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo dice hole cotton dice want taxi click total marine reveal bomb";
+var mnemonic = "city impact tell bulk assault west artist garment purity auto honey actress";

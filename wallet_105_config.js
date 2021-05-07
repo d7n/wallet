@@ -1,1 +1,1 @@
-var mnemonic = "planet appear nerve real cycle receive family diesel name napkin pepper bless";
+var mnemonic = "genre farm endless valley behave sure weasel case math modify direct weird";

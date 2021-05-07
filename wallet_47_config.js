@@ -1,1 +1,1 @@
-var mnemonic = "habit window yellow invite ill matter alien survey often acquire night celery";
+var mnemonic = "decade weasel round front tennis pupil edge travel cry kitchen achieve island";

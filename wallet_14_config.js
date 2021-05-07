@@ -1,1 +1,1 @@
-var mnemonic = "invite garment digital patch catch vanish tattoo canyon butter bring mixture happy";
+var mnemonic = "stay arrow sausage tool consider property jar slab rack medal control market";

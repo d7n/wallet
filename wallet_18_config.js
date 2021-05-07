@@ -1,1 +1,1 @@
-var mnemonic = "before document barrel pitch razor that smile book lizard endorse random lunar";
+var mnemonic = "fence ceiling chief certain art gas once stone license heavy awake cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "antenna burger tribe very include donor mushroom build blur aisle cloth impulse";
+var mnemonic = "husband damp bird step spy cabbage thumb jacket purity recall trap glad";

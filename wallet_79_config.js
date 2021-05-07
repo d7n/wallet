@@ -1,1 +1,1 @@
-var mnemonic = "derive right witness fly company local light stumble physical hotel shop ski";
+var mnemonic = "extra require sniff toe mix media table sketch skate night rookie puzzle";

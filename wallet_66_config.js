@@ -1,1 +1,1 @@
-var mnemonic = "prefer guide riot future talent patrol army night cinnamon dream lobster clean";
+var mnemonic = "wife vibrant narrow awake twenty swear fault economy artefact margin drastic please";

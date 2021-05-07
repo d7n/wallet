@@ -1,1 +1,1 @@
-var mnemonic = "elbow tomorrow between chuckle rebuild tuition agent pear drink area material wonder";
+var mnemonic = "find stadium chef sell ginger rescue easy cycle neutral below trophy room";

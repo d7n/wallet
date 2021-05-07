@@ -1,1 +1,1 @@
-var mnemonic = "cushion feed fog supply seven type there evolve great object hat session";
+var mnemonic = "spoil doctor dolphin pepper abstract office grant manual orient vibrant busy another";

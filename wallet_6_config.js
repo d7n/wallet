@@ -1,1 +1,1 @@
-var mnemonic = "shock candy method sudden answer radar sunset harsh ball icon skate cheap";
+var mnemonic = "dawn knife today attract ask process typical tonight social omit slight rural";

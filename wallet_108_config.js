@@ -1,1 +1,1 @@
-var mnemonic = "narrow pottery pen giraffe acoustic hello label lab trust young empty mixture";
+var mnemonic = "mom rack off wise olympic else certain island cook prefer damp wide";

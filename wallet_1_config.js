@@ -1,1 +1,1 @@
-var mnemonic = "label session just cube market capable salad emerge word pen shine text";
+var mnemonic = "will talk craft rain glory unique guess myth grow wheat picnic script";

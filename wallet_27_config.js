@@ -1,1 +1,1 @@
-var mnemonic = "ridge verify world force siege limb analyst extra depend icon gauge because";
+var mnemonic = "athlete wife city flag mandate release elbow tomato usual course sheriff crawl";

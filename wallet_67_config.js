@@ -1,1 +1,1 @@
-var mnemonic = "comfort team drama property canal avoid gasp veteran have question quick message";
+var mnemonic = "excess chuckle ecology flag cradle miracle apple news slush world fringe sell";

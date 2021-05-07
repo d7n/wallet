@@ -1,1 +1,1 @@
-var mnemonic = "hotel number keep toe breeze over knee eight island service hundred film";
+var mnemonic = "fatal buffalo split verb luxury menu budget whip song excess glad nest";

@@ -1,1 +1,1 @@
-var mnemonic = "crew chat sample network three promote mushroom good wheat repair calm right";
+var mnemonic = "sausage orbit cinnamon sail hybrid inject rib blanket add enter puppy opinion";

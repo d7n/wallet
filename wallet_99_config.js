@@ -1,1 +1,1 @@
-var mnemonic = "wear smooth math muscle wish disease obtain wrestle kidney earn repeat rich";
+var mnemonic = "move hunt reveal square thought orient bike boring tobacco awesome have dirt";

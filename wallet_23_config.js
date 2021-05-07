@@ -1,1 +1,1 @@
-var mnemonic = "juice average speed march similar limit nurse ostrich buzz upgrade oil veteran";
+var mnemonic = "cluster defense struggle grit rule crane battle typical winner club cloud dial";

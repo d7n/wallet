@@ -1,1 +1,1 @@
-var mnemonic = "sauce wish trick turn tooth desert that surround daring lucky palm element";
+var mnemonic = "indicate escape crystal quiz road swift track stable reopen gallery rival rely";

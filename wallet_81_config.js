@@ -1,1 +1,1 @@
-var mnemonic = "rigid twice purse comic pencil awake roast project regret frost copper police";
+var mnemonic = "burst swallow science crowd rare hire burst neutral cluster protect sustain artefact";

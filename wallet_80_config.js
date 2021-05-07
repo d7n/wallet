@@ -1,1 +1,1 @@
-var mnemonic = "afford long trigger arrow section must major fatigue reform milk siege draft";
+var mnemonic = "love rack urge merit october cigar build excuse opera culture baby between";

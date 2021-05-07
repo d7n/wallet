@@ -1,1 +1,1 @@
-var mnemonic = "flip harsh rotate rain three blind huge pelican bachelor roast force lake";
+var mnemonic = "spend kiwi version fire speak kind fly rough bridge jelly view link";

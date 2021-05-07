@@ -1,1 +1,1 @@
-var mnemonic = "slow child chimney strong panic chaos heavy immune dish code burst sign";
+var mnemonic = "solution indicate grain kitten mandate silk tag turn oblige razor math baby";

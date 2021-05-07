@@ -1,1 +1,1 @@
-var mnemonic = "circle silly use mystery leopard movie shoot check rack van gaze salon";
+var mnemonic = "solve kiss idea art crop behave correct maple rural brother marble erosion";

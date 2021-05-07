@@ -1,1 +1,1 @@
-var mnemonic = "cash proud morning prosper impulse calm budget ostrich omit renew auction hood";
+var mnemonic = "call desk nest property slam shoot bleak cave follow salmon motor humor";

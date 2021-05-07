@@ -1,1 +1,1 @@
-var mnemonic = "inflict inmate address carry protect ability island note during language else under";
+var mnemonic = "work pencil bamboo floor try imitate retreat elbow rhythm canvas magnet together";

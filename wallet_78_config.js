@@ -1,1 +1,1 @@
-var mnemonic = "wild misery weather path account comfort about common practice law bike roast";
+var mnemonic = "liberty bleak moon pattern prevent use behind direct tongue depth nation cargo";

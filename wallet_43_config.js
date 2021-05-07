@@ -1,1 +1,1 @@
-var mnemonic = "oven soccer people arrive cabin sail faint supreme curtain mechanic blue give";
+var mnemonic = "paddle polar absent science verb churn depth transfer keen airport soup rather";

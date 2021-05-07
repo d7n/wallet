@@ -1,1 +1,1 @@
-var mnemonic = "tag bargain loyal blast pig bus diesel avocado summer wise universe taste";
+var mnemonic = "light gold buyer impact record identify concert wise syrup kidney argue twist";

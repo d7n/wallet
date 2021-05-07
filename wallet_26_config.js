@@ -1,1 +1,1 @@
-var mnemonic = "ordinary pause that idle mind track gather umbrella situate sorry mixture butter";
+var mnemonic = "drift salt stuff ivory letter donkey burden woman meadow nothing click february";

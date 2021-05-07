@@ -1,1 +1,1 @@
-var mnemonic = "twenty turtle abstract when side bundle gadget crime sibling party list video";
+var mnemonic = "mosquito lonely comic wet shoulder little knee luggage body spread glass book";

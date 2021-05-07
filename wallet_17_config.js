@@ -1,1 +1,1 @@
-var mnemonic = "boil prison sound all large ocean they pear mosquito leader bonus clock";
+var mnemonic = "kiwi neutral laptop mountain elegant donkey gallery novel west sad rate salon";

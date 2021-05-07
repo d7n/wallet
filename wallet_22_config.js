@@ -1,1 +1,1 @@
-var mnemonic = "biology reject memory alien merry symbol trap enjoy make whale dignity foot";
+var mnemonic = "dose audit shaft trouble episode enhance jeans forum proof hold wise van";

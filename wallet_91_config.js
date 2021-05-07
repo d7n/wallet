@@ -1,1 +1,1 @@
-var mnemonic = "reveal such diesel canyon equal submit bottom glass fatigue drink dice intact";
+var mnemonic = "throw erosion quarter anger nest length sure receive random amateur raw alley";

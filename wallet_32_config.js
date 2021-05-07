@@ -1,1 +1,1 @@
-var mnemonic = "cube purse pretty thrive cry hawk palace artwork luxury easy off arrange";
+var mnemonic = "fish draw crater dog mystery bulk pledge dish soup borrow quantum pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "dune cannon frost stamp water claim enforce predict achieve object honey idea";
+var mnemonic = "motor effort fan series indicate author curtain travel girl major shoe busy";

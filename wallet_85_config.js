@@ -1,1 +1,1 @@
-var mnemonic = "sudden awful car obvious oak start entire day dress since ethics october";
+var mnemonic = "neck best proof innocent armed ribbon census sort deputy aim tattoo script";

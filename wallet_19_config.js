@@ -1,1 +1,1 @@
-var mnemonic = "august lumber govern inject deposit material garbage push exit plug march cause";
+var mnemonic = "gold fragile among inflict unaware hub element exchange voyage describe you input";

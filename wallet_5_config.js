@@ -1,1 +1,1 @@
-var mnemonic = "clog manage flavor bone night clog remind trade mail rent heavy humor";
+var mnemonic = "type shop field half mom often flavor snap easily bring baby soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "wall electric secret degree fun announce cram lend ozone youth bar network";
+var mnemonic = "chimney cheap item mix cup sketch meadow sunny flock giggle acoustic wealth";

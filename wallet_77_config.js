@@ -1,1 +1,1 @@
-var mnemonic = "spend reflect knock antenna wealth dish cycle anxiety glory grid grow elephant";
+var mnemonic = "job analyst together income awesome time clap universe silent off swear cancel";

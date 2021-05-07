@@ -1,1 +1,1 @@
-var mnemonic = "reason work twin boat runway desk road yard menu rookie balance absent";
+var mnemonic = "success pull matter high glad copper retire life busy couch leg novel";

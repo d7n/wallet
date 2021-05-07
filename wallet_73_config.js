@@ -1,1 +1,1 @@
-var mnemonic = "inmate swarm legend amount trumpet aunt category wood shrug cereal throw danger";
+var mnemonic = "lunar fossil gossip subway intact disagree foam violin orphan segment network child";

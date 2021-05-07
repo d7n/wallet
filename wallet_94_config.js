@@ -1,1 +1,1 @@
-var mnemonic = "wheel use when bag owner faculty weapon guess grunt merge bargain absent";
+var mnemonic = "gesture steak before journey party boat festival pig wheat abuse gadget tonight";

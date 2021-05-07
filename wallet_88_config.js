@@ -1,1 +1,1 @@
-var mnemonic = "mystery pledge cover market wild wash obscure upset blouse early aerobic explain";
+var mnemonic = "before engine update midnight dutch tank super hotel immune thumb tent universe";

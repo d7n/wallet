@@ -1,1 +1,1 @@
-var mnemonic = "woman cool torch twin pumpkin cactus dinner collect divorce estate diagram umbrella";
+var mnemonic = "vendor desert hurt coffee miss engage describe purse genuine install wire outside";

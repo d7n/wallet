@@ -1,1 +1,1 @@
-var mnemonic = "cross plug major torch long name oppose pond barrel found degree bitter";
+var mnemonic = "pepper champion island appear aunt shock observe expect announce once gaze resist";

@@ -1,1 +1,1 @@
-var mnemonic = "rib rookie scare argue bulb syrup glove parade goddess bitter celery fetch";
+var mnemonic = "gather few differ inherit tornado place ability clarify volume ivory seat brisk";

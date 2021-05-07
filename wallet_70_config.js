@@ -1,1 +1,1 @@
-var mnemonic = "umbrella answer cage brick flat action message guess inflict harsh inflict milk";
+var mnemonic = "doctor symbol fan hair choose help oven common physical indoor excite decade";

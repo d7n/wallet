@@ -1,1 +1,1 @@
-var mnemonic = "high credit wide trim grape immune snack divorce enemy eight nice peanut";
+var mnemonic = "gym evidence cereal decrease outer hard sustain mountain genre wisdom test conduct";

@@ -1,1 +1,1 @@
-var mnemonic = "horror brave swift barely since dirt weather radar repair visit friend pudding";
+var mnemonic = "random riot concert faith smart pattern absorb rice desk leopard payment enemy";

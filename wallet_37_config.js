@@ -1,1 +1,1 @@
-var mnemonic = "answer news dog filter grit renew replace tattoo leisure story dress sport";
+var mnemonic = "paper bitter alert can wonder icon brisk code keen potato grape fox";

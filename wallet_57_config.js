@@ -1,1 +1,1 @@
-var mnemonic = "behave educate danger excess glare report box miracle crack proud evolve hotel";
+var mnemonic = "plunge satisfy combine gas sleep taste various south drill lake little emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel dash traffic life again bunker goddess claim desert flat custom kiss";
+var mnemonic = "funny silver fluid rice elbow picture juice real skull piano leader amateur";

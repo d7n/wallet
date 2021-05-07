@@ -1,1 +1,1 @@
-var mnemonic = "move priority faith fly female volume water pioneer capital grab cause future";
+var mnemonic = "coconut print addict elegant visual parade slab rival dolphin orange zone cupboard";

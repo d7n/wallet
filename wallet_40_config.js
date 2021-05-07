@@ -1,1 +1,1 @@
-var mnemonic = "exist face dune solution kitchen edit sell afraid doll tiger imitate add";
+var mnemonic = "bag roast purse world oppose evolve safe juice holiday subway dish suffer";

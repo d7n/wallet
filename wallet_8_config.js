@@ -1,1 +1,1 @@
-var mnemonic = "vapor solid old industry train obey subject derive museum habit fatal tape";
+var mnemonic = "vote surge liquid front token resource capable dentist deliver episode walk trick";

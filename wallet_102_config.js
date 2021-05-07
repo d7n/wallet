@@ -1,1 +1,1 @@
-var mnemonic = "fortune lift position film measure loan provide pool coyote misery economy home";
+var mnemonic = "cluster cactus plug throw husband submit elephant found sustain young ability silk";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce intact section smart merge swap melt reflect fury check edge belt";
+var mnemonic = "clump cactus visit buyer rent youth tag journey left runway bounce prison";

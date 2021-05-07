@@ -1,1 +1,1 @@
-var mnemonic = "promote orbit cup razor boring marine tray april often demand claim tomato";
+var mnemonic = "misery ahead funny assume lazy believe output box annual cigar door law";

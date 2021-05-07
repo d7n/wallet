@@ -1,1 +1,1 @@
-var mnemonic = "excite adult annual avoid woman story flavor disagree joke ride tourist erosion";
+var mnemonic = "call price age rain later west muffin ribbon also boss where much";

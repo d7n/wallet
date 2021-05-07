@@ -1,1 +1,1 @@
-var mnemonic = "seven machine gesture spawn pen anchor keen gown exercise letter sorry grow";
+var mnemonic = "sudden prize upon access tragic want fee garlic rocket ensure fox love";

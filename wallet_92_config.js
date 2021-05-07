@@ -1,1 +1,1 @@
-var mnemonic = "number glare spell smart tiger citizen tank alcohol confirm slide snow position";
+var mnemonic = "reveal steak guard force boy thrive decline imitate ocean advice mesh chair";

@@ -1,1 +1,1 @@
-var mnemonic = "light image ill stomach until assume rally metal act legend kitchen boil";
+var mnemonic = "antenna armor cram spring arena mystery sustain rally royal sister twelve blast";

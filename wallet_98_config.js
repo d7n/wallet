@@ -1,1 +1,1 @@
-var mnemonic = "session city human state hospital mouse unit estate harbor benefit pride cook";
+var mnemonic = "tragic trade nuclear gaze item left goose distance disagree tourist sunset grid";

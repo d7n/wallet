@@ -1,1 +1,1 @@
-var mnemonic = "author dash deal coil tornado similar devote room since donor second kangaroo";
+var mnemonic = "crazy wear start orange hat tent wage grit kangaroo joke kite avocado";

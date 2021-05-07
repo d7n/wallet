@@ -1,1 +1,1 @@
-var mnemonic = "fork parent brisk climb supreme miss clog valid fruit second stumble garbage";
+var mnemonic = "ready zebra comic cry reopen tumble live kit plastic wealth hollow vessel";

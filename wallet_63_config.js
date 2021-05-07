@@ -1,1 +1,1 @@
-var mnemonic = "young arrange picture analyst orbit major pioneer bread panther execute arena hip";
+var mnemonic = "expose winner property twenty wasp pumpkin donor input reason kid put camera";

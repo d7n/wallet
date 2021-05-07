@@ -1,1 +1,1 @@
-var mnemonic = "soul inflict away oxygen gallery mind kitchen door resemble myth man control";
+var mnemonic = "message tomato another write infant kite pear couple language voyage vessel photo";

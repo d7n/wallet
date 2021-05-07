@@ -1,1 +1,1 @@
-var mnemonic = "pulse lonely two record chef relief globe chimney dust luggage mom half";
+var mnemonic = "stem food inquiry peanut milk together when tuna garlic skill vocal gain";

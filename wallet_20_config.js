@@ -1,1 +1,1 @@
-var mnemonic = "deny unique season rival trouble tomato siren brother super aunt copper ship";
+var mnemonic = "urban hat gloom rifle finish leisure put inhale glad oppose pool crystal";

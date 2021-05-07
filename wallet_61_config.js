@@ -1,1 +1,1 @@
-var mnemonic = "blanket wall reduce jaguar tattoo teach clever scan venue bleak escape like";
+var mnemonic = "brown radio position during next ask machine gorilla trouble lion snack gasp";

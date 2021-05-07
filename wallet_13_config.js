@@ -1,1 +1,1 @@
-var mnemonic = "enroll hire viable wisdom hub improve cloth hurry shoe agent rabbit crazy";
+var mnemonic = "leader jelly initial desk tooth produce smoke weather machine equip notable then";
