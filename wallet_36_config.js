@@ -1,1 +1,1 @@
-var mnemonic = "state cloud alter sing guilt orient symptom mother pistol virtual twist bullet";
+var mnemonic = "foster foster ripple position accuse any place slender cycle ride expect monitor";

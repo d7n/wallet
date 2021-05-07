@@ -1,1 +1,1 @@
-var mnemonic = "mad bless stool great segment anxiety daughter wealth gravity mammal pretty spider";
+var mnemonic = "monster dwarf misery kangaroo mobile shuffle unlock track view series truly cereal";

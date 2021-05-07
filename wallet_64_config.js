@@ -1,1 +1,1 @@
-var mnemonic = "change fiber wash steak obvious panel globe swamp fitness clump fabric tone";
+var mnemonic = "board column reject ability orchard problem boss cry dial fat net balcony";

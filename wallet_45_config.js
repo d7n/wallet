@@ -1,1 +1,1 @@
-var mnemonic = "leopard famous lift auto blast pioneer tool asset company hobby water render";
+var mnemonic = "avoid kit impact ridge icon sheriff average deny mean rate defy negative";

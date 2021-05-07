@@ -1,1 +1,1 @@
-var mnemonic = "winner spin peace convince jeans grain human glory suit turn feature brain";
+var mnemonic = "coin relief egg cause rebuild ball poverty citizen current connect settle another";

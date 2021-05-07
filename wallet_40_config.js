@@ -1,1 +1,1 @@
-var mnemonic = "confirm tourist climb rather since position wrong shallow together pledge square marine";
+var mnemonic = "canal nut agent bubble spring video diary timber mistake cry clump view";

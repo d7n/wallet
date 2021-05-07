@@ -1,1 +1,1 @@
-var mnemonic = "rival media length creek apart crowd deliver sunset increase afford charge tilt";
+var mnemonic = "toddler venture lumber local enjoy vital strike laptop dad hero year minimum";

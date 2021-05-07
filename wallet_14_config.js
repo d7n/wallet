@@ -1,1 +1,1 @@
-var mnemonic = "lizard absent million two ecology birth weird donor mechanic sponsor during strike";
+var mnemonic = "slogan cherry hour choose pole edge disorder win secret expire shadow lyrics";

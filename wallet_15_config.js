@@ -1,1 +1,1 @@
-var mnemonic = "identify term have addict anxiety medal loud burst auction school robust bitter";
+var mnemonic = "various enact favorite remind embark coffee figure cave dog win among fence";

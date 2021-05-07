@@ -1,1 +1,1 @@
-var mnemonic = "blue deposit cruel coin glare badge mass focus long magnet hurdle cheese";
+var mnemonic = "local crack table win winner label dish offer garment basket mosquito aerobic";

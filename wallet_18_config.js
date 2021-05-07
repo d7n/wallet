@@ -1,1 +1,1 @@
-var mnemonic = "chapter question buddy gift practice dirt celery combine favorite child merit keen";
+var mnemonic = "pizza talent dress make hollow ocean slogan affair anger method outer intact";

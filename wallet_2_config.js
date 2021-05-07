@@ -1,1 +1,1 @@
-var mnemonic = "mirror fossil grocery steel shift leisure coconut often rent disorder page repair";
+var mnemonic = "define tired breeze blind idea shock code monster spirit talent chuckle run";

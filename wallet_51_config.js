@@ -1,1 +1,1 @@
-var mnemonic = "practice clay bone silver problem venue infant slab trend minor clap artefact";
+var mnemonic = "mango rack beach index banner zero bulb cushion zoo tree lyrics economy";

@@ -1,1 +1,1 @@
-var mnemonic = "pluck sauce author leg cook frost object million merge burger team render";
+var mnemonic = "elbow decide private march retreat release chronic chaos fetch glove shove trust";

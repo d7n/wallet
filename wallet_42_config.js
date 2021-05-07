@@ -1,1 +1,1 @@
-var mnemonic = "sick congress page soldier tower lunar evolve transfer uphold resemble cage say";
+var mnemonic = "anxiety vessel negative fog catch salad property bitter lend cargo hollow fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "wall cash emerge alarm culture foster badge circle ostrich sponsor reflect truly";
+var mnemonic = "screen hold arrive bacon churn garden hub daring deputy ancient crew bright";

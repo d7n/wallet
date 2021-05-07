@@ -1,1 +1,1 @@
-var mnemonic = "pudding appear juice worry fun zone comfort shaft miracle spirit between mention";
+var mnemonic = "toward adult garlic feed scrap absent blouse fire burst equip december ramp";

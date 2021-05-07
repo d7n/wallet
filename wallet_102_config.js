@@ -1,1 +1,1 @@
-var mnemonic = "develop acoustic capable dinner kind crater inform forget sphere father kite air";
+var mnemonic = "bone month pulse either team topple camp soccer diary race topic surface";

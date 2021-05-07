@@ -1,1 +1,1 @@
-var mnemonic = "thumb card carpet truck fly inmate match lens like honey tree matrix";
+var mnemonic = "include collect scissors clown echo shiver kick also radio hold super silver";

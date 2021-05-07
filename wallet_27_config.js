@@ -1,1 +1,1 @@
-var mnemonic = "expose small until maid pilot lake tribe impose humble faith sweet law";
+var mnemonic = "remove bridge win advice pill anxiety nerve accident item airport much ensure";

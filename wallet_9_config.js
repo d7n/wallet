@@ -1,1 +1,1 @@
-var mnemonic = "collect try atom blossom trophy once vicious dilemma fiction angry shell intact";
+var mnemonic = "reflect concert unusual ridge spice since light zoo heart empty boat advice";

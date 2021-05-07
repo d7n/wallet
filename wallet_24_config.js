@@ -1,1 +1,1 @@
-var mnemonic = "like pole life faith away ocean fever woman horror exercise inherit icon";
+var mnemonic = "market cliff please speak raccoon spray tool among guard buddy blast egg";

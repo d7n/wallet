@@ -1,1 +1,1 @@
-var mnemonic = "balcony year aisle envelope eager jealous jungle false boring burden grass stable";
+var mnemonic = "now raise gorilla hawk endless shy private color grocery firm surface soft";

@@ -1,1 +1,1 @@
-var mnemonic = "undo main shallow scare dash walk suit arctic diagram video skull vanish";
+var mnemonic = "various skirt canoe prepare banana horn primary sponsor search nature royal material";

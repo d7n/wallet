@@ -1,1 +1,1 @@
-var mnemonic = "gossip provide dune chief they tape divert metal off absurd enter guide";
+var mnemonic = "broccoli velvet place trip water judge flee alcohol change board derive punch";

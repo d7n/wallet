@@ -1,1 +1,1 @@
-var mnemonic = "knock oyster giggle balance wood around farm find mutual warfare final april";
+var mnemonic = "auction grant man purchase trash force swamp side pizza cruel license disorder";

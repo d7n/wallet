@@ -1,1 +1,1 @@
-var mnemonic = "innocent deputy chase property waste estate chair scan leave weapon planet provide";
+var mnemonic = "foot start loud limb kangaroo achieve unfair elegant tired galaxy wool jelly";

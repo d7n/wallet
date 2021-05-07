@@ -1,1 +1,1 @@
-var mnemonic = "head skill divide search upon sausage forum identify kit panic lunch found";
+var mnemonic = "bench diet argue asset change rebel day fit marriage pizza illness pact";

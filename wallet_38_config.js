@@ -1,1 +1,1 @@
-var mnemonic = "odor love illegal middle enemy naive bar voice stuff swallow dentist orbit";
+var mnemonic = "tilt draft rocket trophy orbit pioneer dignity sponsor hospital trip script paper";

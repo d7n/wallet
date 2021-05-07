@@ -1,1 +1,1 @@
-var mnemonic = "cook genuine grief hint snake famous drastic borrow vital shallow strategy betray";
+var mnemonic = "cloud topic palm essay wise avoid under orchard farm casino nest blush";

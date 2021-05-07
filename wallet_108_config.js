@@ -1,1 +1,1 @@
-var mnemonic = "begin fortune regular other exile riot feed slush sausage clump copper lake";
+var mnemonic = "ship vacuum dilemma keen antique situate glory close notable oven section ecology";

@@ -1,1 +1,1 @@
-var mnemonic = "antique loop disagree farm frozen winner dinosaur uniform deny coach sphere barely";
+var mnemonic = "volume fringe first age accuse video extra loud shiver slow tip curve";

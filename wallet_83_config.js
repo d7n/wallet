@@ -1,1 +1,1 @@
-var mnemonic = "pony another year solution spoil lottery diet wine second street silly winner";
+var mnemonic = "life brief modify loop enhance supply merry choose switch pitch wear great";

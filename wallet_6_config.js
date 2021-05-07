@@ -1,1 +1,1 @@
-var mnemonic = "swap helmet dad series what equal disorder agent kingdom bid monkey jewel";
+var mnemonic = "weapon photo dose forward team approve width sudden maple arrest wash float";

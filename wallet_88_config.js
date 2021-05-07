@@ -1,1 +1,1 @@
-var mnemonic = "action fossil token memory swing lizard mask dune hint divert ridge release";
+var mnemonic = "wet picture hair object pass glad skirt right minimum that chapter sport";

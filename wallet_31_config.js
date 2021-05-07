@@ -1,1 +1,1 @@
-var mnemonic = "process wisdom crop sting follow pull uphold beef dignity champion talk turtle";
+var mnemonic = "talent orphan arctic zoo romance emerge erupt churn carry spread turkey swing";

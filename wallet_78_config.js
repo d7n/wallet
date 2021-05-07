@@ -1,1 +1,1 @@
-var mnemonic = "outer leader concert switch small fabric stereo twelve bread odor remind garbage";
+var mnemonic = "dumb clarify fog wink acid drum kangaroo witness mad love frost rural";

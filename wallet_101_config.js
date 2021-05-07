@@ -1,1 +1,1 @@
-var mnemonic = "prepare ranch net improve mobile domain expand grab doll penalty about glimpse";
+var mnemonic = "company silly symbol today bind property dust gain level rural drink mushroom";

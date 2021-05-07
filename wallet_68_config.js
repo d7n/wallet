@@ -1,1 +1,1 @@
-var mnemonic = "bid remove file yellow course crater engine kiwi senior penalty floor series";
+var mnemonic = "earth debris stadium toss group direct auction spend until volcano cancel tilt";

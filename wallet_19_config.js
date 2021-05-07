@@ -1,1 +1,1 @@
-var mnemonic = "pilot diet leader oak learn picnic hero connect market scale hawk alien";
+var mnemonic = "endless sick faculty coconut two sniff bright distance adjust smart card inmate";

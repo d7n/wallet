@@ -1,1 +1,1 @@
-var mnemonic = "tray clutch sudden gadget lawsuit consider conduct penalty girl casino error unfold";
+var mnemonic = "voyage pause maze mercy wrong village bread hover foam circle regular pupil";

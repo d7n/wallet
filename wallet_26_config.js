@@ -1,1 +1,1 @@
-var mnemonic = "window work adult image hawk settle spot remind obey lift actor sound";
+var mnemonic = "final stay valid detail nest vendor olive grief crew cash walk public";

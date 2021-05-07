@@ -1,1 +1,1 @@
-var mnemonic = "exhaust trash elegant coconut together ability book vote question castle inspire topple";
+var mnemonic = "fitness smoke buffalo into ripple erosion reopen ride someone hockey uphold hybrid";

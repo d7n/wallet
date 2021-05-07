@@ -1,1 +1,1 @@
-var mnemonic = "city fresh rule mixed love crash envelope movie struggle action month seek";
+var mnemonic = "able scatter river hidden program image soft budget stomach case aspect employ";

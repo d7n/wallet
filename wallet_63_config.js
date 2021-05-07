@@ -1,1 +1,1 @@
-var mnemonic = "slight butter omit silver talk coyote strike tribe easily knee inject weird";
+var mnemonic = "visa half curtain inspire left equal actor pupil entry pill video cable";

@@ -1,1 +1,1 @@
-var mnemonic = "coil judge regular cream ball chuckle glimpse faculty guess fiber cement voice";
+var mnemonic = "hamster hire vacant mouse stool visa brother prize gym half bachelor mule";

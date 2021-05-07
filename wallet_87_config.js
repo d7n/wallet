@@ -1,1 +1,1 @@
-var mnemonic = "jewel later vendor special lawsuit slide wise fantasy original kingdom favorite valid";
+var mnemonic = "air hamster parade hundred client thought bounce focus excite travel bunker toilet";

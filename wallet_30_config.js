@@ -1,1 +1,1 @@
-var mnemonic = "unknown later fury enrich clown exercise upper layer setup violin bone raw";
+var mnemonic = "edge balcony cargo retire place congress skirt odor bread risk humble resist";

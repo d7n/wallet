@@ -1,1 +1,1 @@
-var mnemonic = "input result ask begin april carpet swallow concert tilt color olive legal";
+var mnemonic = "frame moral move sponsor kitchen champion supply risk rib black joy borrow";

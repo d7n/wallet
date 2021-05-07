@@ -1,1 +1,1 @@
-var mnemonic = "soup veteran palace wheat boss dog depth purpose claim innocent oven side";
+var mnemonic = "pilot entry pepper desert horn border network stick night icon flight oil";

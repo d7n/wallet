@@ -1,1 +1,1 @@
-var mnemonic = "carry radar turkey draft grocery match wool arena mirror found slow toss";
+var mnemonic = "develop cradle shoulder tiger source copy girl note blossom day turn vault";

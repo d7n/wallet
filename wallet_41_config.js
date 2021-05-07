@@ -1,1 +1,1 @@
-var mnemonic = "peasant diagram zoo equip music inherit camp settle estate fire clap cave";
+var mnemonic = "dress broken brother rigid eyebrow secret science slam cinnamon reveal snow mercy";

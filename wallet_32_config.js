@@ -1,1 +1,1 @@
-var mnemonic = "resemble erosion muscle bright identify lizard bag copper coach believe power sight";
+var mnemonic = "income simple vote upon lend uniform rude soda fatigue rebuild disorder need";

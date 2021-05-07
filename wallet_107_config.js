@@ -1,1 +1,1 @@
-var mnemonic = "marble vivid used aware surge bid coral heart raise office argue release";
+var mnemonic = "advice claw twin winner shell offer magic casual become century there hat";

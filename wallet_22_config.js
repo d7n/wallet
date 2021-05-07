@@ -1,1 +1,1 @@
-var mnemonic = "minute athlete vapor busy train tide fragile goddess fade blame better model";
+var mnemonic = "typical toe long ready kidney member brave kid uniform curious off dinosaur";

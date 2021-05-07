@@ -1,1 +1,1 @@
-var mnemonic = "nothing border tattoo under team social unit soft muscle whisper govern crop";
+var mnemonic = "abstract senior marriage simple sunny before dinosaur monster street bubble liberty inject";

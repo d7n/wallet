@@ -1,1 +1,1 @@
-var mnemonic = "tennis tunnel interest enjoy soap pen eagle food merry pill soft rifle";
+var mnemonic = "brush canyon twin exotic common there nuclear buddy century upgrade catalog song";

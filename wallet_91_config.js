@@ -1,1 +1,1 @@
-var mnemonic = "noise jaguar prosper neck more pumpkin flat task phone myth whip fossil";
+var mnemonic = "author peanut oppose pass oyster kitten crane shift captain just fabric atom";

@@ -1,1 +1,1 @@
-var mnemonic = "win juice apple merry zebra burden moment dignity patient useful gospel domain";
+var mnemonic = "shoot army either act box bamboo meadow suit click soda join long";

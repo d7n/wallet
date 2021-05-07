@@ -1,1 +1,1 @@
-var mnemonic = "quote vote just asset mind round apology measure general march fitness right";
+var mnemonic = "arctic rural mixture border position author tattoo hockey force travel mistake vapor";

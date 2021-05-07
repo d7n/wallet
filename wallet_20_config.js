@@ -1,1 +1,1 @@
-var mnemonic = "subway clarify update mansion ill typical current rubber mean glad theory route";
+var mnemonic = "conduct enough subject angry victory slogan ripple venture second erosion deer action";

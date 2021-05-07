@@ -1,1 +1,1 @@
-var mnemonic = "stone open hurdle mixed coral trash stomach seed artwork mean rocket erosion";
+var mnemonic = "check bag rhythm whale address infant seat ensure suspect capital seven glory";

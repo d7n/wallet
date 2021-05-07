@@ -1,1 +1,1 @@
-var mnemonic = "frequent sword whip proof debris matter toast pair confirm heavy section banana";
+var mnemonic = "join under gravity castle sleep protect beauty future blame they paddle cause";

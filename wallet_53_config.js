@@ -1,1 +1,1 @@
-var mnemonic = "void kitchen winter soon erupt huge song evidence title figure deal order";
+var mnemonic = "flee giant proof april glow moment cave foster bamboo fetch main curious";

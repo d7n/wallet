@@ -1,1 +1,1 @@
-var mnemonic = "raccoon tone brass dash grunt innocent episode thumb bullet situate divide install";
+var mnemonic = "hamster top eight hat into midnight behave island step someone chunk song";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight thought hand siege walnut reflect indoor steel movie answer nominee around";
+var mnemonic = "couch grace pulse endless girl gather rich junk cactus arctic awful tiny";

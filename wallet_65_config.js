@@ -1,1 +1,1 @@
-var mnemonic = "steel bullet omit happy client trend pencil mask decorate voice kitchen mesh";
+var mnemonic = "cloud episode boss second shock drama accident soda inquiry drastic furnace couple";

@@ -1,1 +1,1 @@
-var mnemonic = "visit disorder bid tobacco cluster unit enrich deer stock promote silly lecture";
+var mnemonic = "chair foster myth gap demise help grant skin person attack escape ice";

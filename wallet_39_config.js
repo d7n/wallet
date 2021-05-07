@@ -1,1 +1,1 @@
-var mnemonic = "chest thought normal aim embody armed matter force fossil palm trigger sustain";
+var mnemonic = "annual split supply nice bonus waste man inside face feature fiction will";

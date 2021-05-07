@@ -1,1 +1,1 @@
-var mnemonic = "rally grocery liar repeat bachelor radio dry canal vocal sister story grain";
+var mnemonic = "honey blouse vibrant width salon shell spin taxi juice dilemma whisper hat";

@@ -1,1 +1,1 @@
-var mnemonic = "labor govern cause crop develop day raven try hurdle pigeon castle rookie";
+var mnemonic = "rice flee two seminar discover learn attitude annual eternal type away warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "ramp target slot illness toward imitate repair random dance skull tide credit";
+var mnemonic = "minor butter alarm between age strategy thunder basic sick tape outdoor swim";

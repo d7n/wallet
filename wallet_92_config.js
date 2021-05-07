@@ -1,1 +1,1 @@
-var mnemonic = "cheap slow month cloth social debate globe negative time control health reason";
+var mnemonic = "soda assault ancient plastic viable speed lonely text item lab together student";

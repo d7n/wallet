@@ -1,1 +1,1 @@
-var mnemonic = "giraffe dentist heart hello maple female slot arch item bike brave flock";
+var mnemonic = "deny abandon wheat age oyster turkey dinner twenty love tag spell voyage";

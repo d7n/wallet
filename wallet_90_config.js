@@ -1,1 +1,1 @@
-var mnemonic = "supply flash stone uncle short vast route fog share assume merry cargo";
+var mnemonic = "eagle fossil lawn grace surprise appear bus hole manage because manual web";

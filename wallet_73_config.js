@@ -1,1 +1,1 @@
-var mnemonic = "oppose start people build visa lottery tiger pigeon soon absurd table gorilla";
+var mnemonic = "paddle ripple coral give pig where tooth camera public category invest ensure";

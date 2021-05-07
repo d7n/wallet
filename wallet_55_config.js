@@ -1,1 +1,1 @@
-var mnemonic = "glass park either drive often primary luggage burst excite seminar tenant sample";
+var mnemonic = "immense tide loan pink deputy mom immense aspect near opinion choose limit";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual pet ice final boring immune canvas mountain planet hawk garden rotate";
+var mnemonic = "weasel tired wait script student response loud battle little street slab prison";

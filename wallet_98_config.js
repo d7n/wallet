@@ -1,1 +1,1 @@
-var mnemonic = "average aisle oblige cliff equal antique raw symptom patient best nerve control";
+var mnemonic = "female occur clog thought thunder order junk earn soup tissue cost enable";

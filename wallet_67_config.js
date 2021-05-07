@@ -1,1 +1,1 @@
-var mnemonic = "soccer puppy rally cinnamon disorder fish strategy top debris tortoise pet whisper";
+var mnemonic = "post same hope cabin shaft shadow exotic coffee album name erase rib";

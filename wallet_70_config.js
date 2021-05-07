@@ -1,1 +1,1 @@
-var mnemonic = "million celery supreme child atom winter regular harvest pledge rotate useful ride";
+var mnemonic = "baby riot curve soccer govern regret finish better estate vital wealth hover";

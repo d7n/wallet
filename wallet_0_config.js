@@ -1,1 +1,1 @@
-var mnemonic = "slam caution entry olympic grit secret offer twenty congress stamp demand pigeon";
+var mnemonic = "oblige oppose portion shoot vacant hood tray vacant voice next fluid ski";

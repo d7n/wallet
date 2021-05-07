@@ -1,1 +1,1 @@
-var mnemonic = "impulse scene amount lawn way just arrow pill army fence ability wasp";
+var mnemonic = "code upset indicate elbow energy wall topic menu true width flash pass";

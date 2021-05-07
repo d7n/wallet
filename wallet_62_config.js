@@ -1,1 +1,1 @@
-var mnemonic = "fiction reform where dismiss harbor double nasty machine mix salon shy hospital";
+var mnemonic = "right nurse tell cement number pave because attitude weekend smoke silent clump";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify uncover primary model permit arena common liquid robust smooth alone divert";
+var mnemonic = "venture hour sand arch sunny enact battle turkey clean swing dice confirm";

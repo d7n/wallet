@@ -1,1 +1,1 @@
-var mnemonic = "maximum opinion income youth quick correct truly select surface predict luggage rely";
+var mnemonic = "globe gun index noise tonight seven banana easy busy deposit glory gorilla";

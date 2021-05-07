@@ -1,1 +1,1 @@
-var mnemonic = "clever sign mobile auction name high main trumpet traffic basic kidney mechanic";
+var mnemonic = "defy assume fossil turtle donate mammal soldier album mixture chimney skin cross";

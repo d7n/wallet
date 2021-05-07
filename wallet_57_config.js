@@ -1,1 +1,1 @@
-var mnemonic = "inspire wing merge juice gown reflect pool tiger item since review trade";
+var mnemonic = "emotion fish seven enjoy calm keen proud initial trim blossom fade honey";

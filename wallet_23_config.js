@@ -1,1 +1,1 @@
-var mnemonic = "crack upgrade remind zero virtual sun rabbit dad rib film hollow skin";
+var mnemonic = "sword crack outside pitch tuition measure pave patch canyon drama circle swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "chicken drop beauty name creek top denial album dutch final love steel";
+var mnemonic = "service budget kiss chicken mistake aware column enter then girl idea cram";
