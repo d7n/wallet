@@ -1,1 +1,1 @@
-var mnemonic = "outer dust album limit jacket clean find prefer orbit update address cook";
+var mnemonic = "goat spatial midnight deer remove rich since wasp join enlist mass inside";

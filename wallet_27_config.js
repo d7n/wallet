@@ -1,1 +1,1 @@
-var mnemonic = "pear dumb alone sight song olive win squirrel sauce foam loyal unit";
+var mnemonic = "creek eternal apology lesson reflect vivid kick current coast van cabbage learn";

@@ -1,1 +1,1 @@
-var mnemonic = "truth impose mule infant identify finish rebuild wish bright hurt burden glow";
+var mnemonic = "language repeat solar over west arm short ugly sock diagram insane journey";

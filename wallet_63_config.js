@@ -1,1 +1,1 @@
-var mnemonic = "vault during squirrel letter dizzy morning lounge twin only blossom faint acid";
+var mnemonic = "icon erosion valve divide pass divorce glory smoke helmet confirm science van";

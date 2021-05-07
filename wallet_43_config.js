@@ -1,1 +1,1 @@
-var mnemonic = "action devote tube mammal angle prison cause tag weird yellow unhappy pool";
+var mnemonic = "relax sniff uphold wine lunch bind alarm mean drastic erode kingdom purpose";

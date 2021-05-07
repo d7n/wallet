@@ -1,1 +1,1 @@
-var mnemonic = "tag romance more search maple exclude hurry dress destroy jazz alter bulb";
+var mnemonic = "anchor excite card inch pepper sing liar soccer train marble this suit";

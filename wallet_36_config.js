@@ -1,1 +1,1 @@
-var mnemonic = "melody clump vault double again denial fall edge merge anchor income iron";
+var mnemonic = "apology increase fence special battle pizza live tribe family surge embrace other";

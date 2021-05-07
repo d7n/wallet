@@ -1,1 +1,1 @@
-var mnemonic = "observe castle castle napkin true finger cheese sketch purity renew inspire dove";
+var mnemonic = "party involve word glow noodle nephew purse clump mind potato wise beauty";

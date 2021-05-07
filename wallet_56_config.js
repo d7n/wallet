@@ -1,1 +1,1 @@
-var mnemonic = "curious exchange obey judge dinner swamp unique estate ocean frequent inflict vacant";
+var mnemonic = "pepper evoke identify much sea move exotic verb adjust basket blood long";

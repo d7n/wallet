@@ -1,1 +1,1 @@
-var mnemonic = "hollow program light cement laptop cook moon giraffe foot rare absorb peanut";
+var mnemonic = "fault tuna elbow struggle hazard salad box rally drink donate hard large";

@@ -1,1 +1,1 @@
-var mnemonic = "fix dinner jelly melody urge wild enact lesson plunge garbage garden course";
+var mnemonic = "jaguar initial cage transfer bike over burden source urban point velvet crush";

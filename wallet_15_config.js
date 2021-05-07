@@ -1,1 +1,1 @@
-var mnemonic = "february step pottery pear crime satisfy lamp assist excite goose friend this";
+var mnemonic = "swim oblige swallow again lake core welcome month license dose blind brief";

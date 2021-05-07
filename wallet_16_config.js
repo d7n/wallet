@@ -1,1 +1,1 @@
-var mnemonic = "farm comic brisk cover toss video teach across moral salmon sound come";
+var mnemonic = "word entry swap book only picnic naive return odor silk change solution";

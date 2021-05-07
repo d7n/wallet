@@ -1,1 +1,1 @@
-var mnemonic = "suffer also alpha shift give kidney phrase blast more pioneer melody fan";
+var mnemonic = "clerk shoulder stage exhaust tumble scale pioneer soap source use acid click";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder midnight olympic snow notable cave suit identify party chest vague tragic";
+var mnemonic = "rally asset unveil oxygen piano eight laundry negative dinner paper body injury";

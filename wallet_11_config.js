@@ -1,1 +1,1 @@
-var mnemonic = "teach stereo mountain eye kitchen slide sure omit unaware crane embody deer";
+var mnemonic = "lab trip ankle donate ill senior story relief prepare ski apple blossom";

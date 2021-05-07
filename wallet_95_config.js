@@ -1,1 +1,1 @@
-var mnemonic = "sea rule barely ready swarm orient boring mercy feature multiply list grow";
+var mnemonic = "transfer possible tilt broccoli sight front entry engine top noble bicycle rude";

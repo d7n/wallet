@@ -1,1 +1,1 @@
-var mnemonic = "van acoustic situate eagle alert drama manual pink thrive oxygen grit dose";
+var mnemonic = "sniff tooth vote maze combine near violin mule carry divert creek nurse";

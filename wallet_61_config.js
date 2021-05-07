@@ -1,1 +1,1 @@
-var mnemonic = "scissors become clinic duck spin sad squirrel fat glare token client riot";
+var mnemonic = "type fossil solve develop another wolf option cool loan machine refuse tell";

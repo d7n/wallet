@@ -1,1 +1,1 @@
-var mnemonic = "broccoli detail adjust potato urban couch stone decorate fashion weekend lava leader";
+var mnemonic = "pupil exhaust lottery tumble mutual senior feed between purity claim viable differ";

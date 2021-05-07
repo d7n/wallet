@@ -1,1 +1,1 @@
-var mnemonic = "cheese town pulp rally safe text begin scan siege rhythm six public";
+var mnemonic = "tiny lens like sausage fresh state debris unusual hair bacon rookie label";

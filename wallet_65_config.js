@@ -1,1 +1,1 @@
-var mnemonic = "rotate planet forest warrior december fiscal stable menu twenty wet wrong tent";
+var mnemonic = "market vanish black below bind tornado tilt intact slam snap find together";

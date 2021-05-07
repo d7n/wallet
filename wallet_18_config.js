@@ -1,1 +1,1 @@
-var mnemonic = "behave tornado badge prison course pill few crash glue chicken lecture lion";
+var mnemonic = "hybrid interest limit chef only put olympic ridge enrich concert list border";

@@ -1,1 +1,1 @@
-var mnemonic = "second require radar review puppy door grief accuse cry wealth odor discover";
+var mnemonic = "tell match movie hen faith gym assume minor food memory ancient sight";

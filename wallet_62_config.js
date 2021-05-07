@@ -1,1 +1,1 @@
-var mnemonic = "baby diagram palace nurse race wood arrange dirt room zone seed season";
+var mnemonic = "check pool crack design couple ring turkey lift victory drama regular faculty";

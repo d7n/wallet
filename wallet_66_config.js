@@ -1,1 +1,1 @@
-var mnemonic = "catalog sunny open fever pipe thrive onion actual barrel ladder health write";
+var mnemonic = "arrange artist gym attitude author cigar output typical success judge movie forum";

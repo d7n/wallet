@@ -1,1 +1,1 @@
-var mnemonic = "tattoo vacant donkey village develop grunt glow inmate absent alarm library kid";
+var mnemonic = "pilot certain swift cross kite tissue faith veteran ice couch home have";

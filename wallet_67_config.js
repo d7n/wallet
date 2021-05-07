@@ -1,1 +1,1 @@
-var mnemonic = "charge tell banner faith swap token goddess runway curve that become water";
+var mnemonic = "involve maple exact arrange bunker drift expose stock endless bless eternal poet";

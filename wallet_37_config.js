@@ -1,1 +1,1 @@
-var mnemonic = "two rally weekend noodle skill nature broccoli cliff mistake together fall peanut";
+var mnemonic = "online view upgrade eagle live science boil demand example absorb injury occur";

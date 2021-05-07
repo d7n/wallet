@@ -1,1 +1,1 @@
-var mnemonic = "that stone rotate quit eight salmon winner cake soul gasp exist book";
+var mnemonic = "style doctor hole list tackle cart toe silver scrub spy wink eager";

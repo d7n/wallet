@@ -1,1 +1,1 @@
-var mnemonic = "palm spray fire monitor snack print rubber license lucky vague merit idea";
+var mnemonic = "defy private among venue biology near describe repair web lava flip runway";

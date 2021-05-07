@@ -1,1 +1,1 @@
-var mnemonic = "domain income today boil spy neither produce stairs okay actress old used";
+var mnemonic = "minimum clinic moon scale primary rebel tonight vast notice rebel tag screen";

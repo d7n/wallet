@@ -1,1 +1,1 @@
-var mnemonic = "husband then plate polar crumble weird vicious arch milk among shoulder ship";
+var mnemonic = "pistol capital volcano spare laptop can hedgehog dial bike auction gauge decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "slim erosion mother steel tower document drastic voyage lyrics huge tooth upset";
+var mnemonic = "ripple use abuse pitch march answer detect rather claw announce debris vocal";

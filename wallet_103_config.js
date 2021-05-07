@@ -1,1 +1,1 @@
-var mnemonic = "hard fashion analyst base firm screen august galaxy margin inner film usage";
+var mnemonic = "bus skate suggest during sign prize absurd reflect shoulder feature click model";

@@ -1,1 +1,1 @@
-var mnemonic = "spell license ghost already copper gloom border window slab canyon priority kite";
+var mnemonic = "arm wasp student outside empty piano client push spot garment lift problem";

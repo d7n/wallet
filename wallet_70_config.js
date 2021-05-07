@@ -1,1 +1,1 @@
-var mnemonic = "slim electric drip rule code rain amazing avocado path ritual violin gospel";
+var mnemonic = "mimic mimic abstract opera remove save gap salon vendor aim describe winter";

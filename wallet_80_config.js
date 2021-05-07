@@ -1,1 +1,1 @@
-var mnemonic = "prosper comic eye cattle essay strike oblige female foster they rescue surge";
+var mnemonic = "fuel grief arch attend balcony purchase satisfy visit retire kiss cabbage dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "tornado bless spoil tomorrow skull exhibit shield silly carbon disorder rescue pitch";
+var mnemonic = "cousin actress fiction crane verb motion patrol kitten team relief else inner";

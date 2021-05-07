@@ -1,1 +1,1 @@
-var mnemonic = "project pear horse enroll rescue slot width eight casual hybrid boat picture";
+var mnemonic = "asset acoustic loan van connect torch abandon base because sign picture announce";

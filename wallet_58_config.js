@@ -1,1 +1,1 @@
-var mnemonic = "duty giggle rabbit quality inject loud clown glove borrow you major giant";
+var mnemonic = "company alter reveal soda pilot tray vibrant merry coast enable skill car";

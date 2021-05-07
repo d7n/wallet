@@ -1,1 +1,1 @@
-var mnemonic = "follow senior volume economy ladder bomb fatal satoshi brown cream embark remain";
+var mnemonic = "farm cheap crazy response cart key wash parent middle general cruise nature";

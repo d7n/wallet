@@ -1,1 +1,1 @@
-var mnemonic = "vendor vanish museum monitor ceiling elder you pudding coyote argue protect bullet";
+var mnemonic = "pave source taxi flame build tiger actress flavor stock shoot youth erosion";

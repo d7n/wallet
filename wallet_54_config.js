@@ -1,1 +1,1 @@
-var mnemonic = "coil grunt flight fly south celery belt accident fluid rate swear layer";
+var mnemonic = "donor type come knife depend clerk camera spawn link green another foil";

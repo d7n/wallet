@@ -1,1 +1,1 @@
-var mnemonic = "cloth occur gold parade favorite jacket bachelor foam pipe trash window honey";
+var mnemonic = "social victory decorate learn universe tiger rally outside blanket narrow table local";

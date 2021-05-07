@@ -1,1 +1,1 @@
-var mnemonic = "twelve edit avoid orphan network reason frown security near expire chalk fashion";
+var mnemonic = "pig elegant subject genius dune tube advice pause february jump speak tube";

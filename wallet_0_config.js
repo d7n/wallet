@@ -1,1 +1,1 @@
-var mnemonic = "use decrease trick lesson biology draw stand mention screen century vocal airport";
+var mnemonic = "curve stage possible mechanic daughter brush range vacuum empty assault wasp valve";

@@ -1,1 +1,1 @@
-var mnemonic = "pool obey inject spoil coyote you margin another dinosaur song endless property";
+var mnemonic = "system road mistake essence liar envelope sniff spoon pill couch company exist";

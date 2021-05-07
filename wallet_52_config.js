@@ -1,1 +1,1 @@
-var mnemonic = "blood raven drill flag glue grape tail ready learn firm client blouse";
+var mnemonic = "outer hobby fiber pool clip chase market fruit hero tomorrow monitor menu";

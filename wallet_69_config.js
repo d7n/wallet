@@ -1,1 +1,1 @@
-var mnemonic = "portion assist decade record regular cute cloth inject broom rent tunnel replace";
+var mnemonic = "unaware scrub message wolf aerobic ahead issue once eyebrow under sword twelve";

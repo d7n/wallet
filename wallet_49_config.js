@@ -1,1 +1,1 @@
-var mnemonic = "kit away night armor brass pause wonder spring gun ensure report march";
+var mnemonic = "cannon select share ranch spare seat school check pear example drama soda";

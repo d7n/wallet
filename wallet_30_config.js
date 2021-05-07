@@ -1,1 +1,1 @@
-var mnemonic = "check phone border fantasy debate dawn hawk reduce cargo yard debris shed";
+var mnemonic = "awesome genuine true fuel deputy peasant garden airport hedgehog special drop vital";

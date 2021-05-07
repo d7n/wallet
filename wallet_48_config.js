@@ -1,1 +1,1 @@
-var mnemonic = "icon laundry address teach save accuse tube start moral evil snack diet";
+var mnemonic = "energy frozen double crumble opinion spray reject stock trip claim dignity dress";

@@ -1,1 +1,1 @@
-var mnemonic = "lock uniform screen rebuild crater speak certain amused plate soda remind number";
+var mnemonic = "good identify exist prosper notice winner broken heavy present deliver juice soup";

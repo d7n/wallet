@@ -1,1 +1,1 @@
-var mnemonic = "cycle labor box match radar mobile badge depart apart need melody drum";
+var mnemonic = "replace easily under column detail become visit game luxury adjust tuna defense";

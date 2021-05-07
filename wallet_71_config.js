@@ -1,1 +1,1 @@
-var mnemonic = "illegal mango lumber amount party sure mirror street stumble arrow else despair";
+var mnemonic = "assume wet acquire box mutual ripple river antique asset deposit camp daughter";

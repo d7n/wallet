@@ -1,1 +1,1 @@
-var mnemonic = "verify armor nose dove false parent gorilla course possible tissue unknown lawn";
+var mnemonic = "cry merit virus year false media burst corn early brand warfare radar";

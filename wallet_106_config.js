@@ -1,1 +1,1 @@
-var mnemonic = "child sphere tilt tank occur blossom fly glass ship milk wave cool";
+var mnemonic = "monitor act okay punch smoke dynamic festival same sad circle message enjoy";

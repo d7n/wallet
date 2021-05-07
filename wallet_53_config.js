@@ -1,1 +1,1 @@
-var mnemonic = "wrap pioneer cream toddler milk parent topic sketch ticket unfair tenant fortune";
+var mnemonic = "leopard typical meadow club deny beef else seed then brick alarm sample";

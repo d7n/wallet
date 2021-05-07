@@ -1,1 +1,1 @@
-var mnemonic = "cushion faith outside breeze hotel describe horror crop spread enforce cry tonight";
+var mnemonic = "disorder clerk stereo sorry already angle require ship yellow increase flip task";

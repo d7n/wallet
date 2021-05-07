@@ -1,1 +1,1 @@
-var mnemonic = "spray raise sad trick powder second series pull cover thank recipe barely";
+var mnemonic = "business output drill keen marriage badge retire tone pledge happy man tobacco";

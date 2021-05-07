@@ -1,1 +1,1 @@
-var mnemonic = "unhappy auto exhaust enroll draw matter uncle gun please photo arch dry";
+var mnemonic = "illegal good exact video ticket example solve vacuum piano cotton north light";

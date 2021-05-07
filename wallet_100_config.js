@@ -1,1 +1,1 @@
-var mnemonic = "inner ocean now immune stamp private find fitness group dinosaur admit stairs";
+var mnemonic = "enable adult age galaxy either forum palm tattoo sell clay purchase project";

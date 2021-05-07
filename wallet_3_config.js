@@ -1,1 +1,1 @@
-var mnemonic = "reunion pact path dial ignore castle lesson total season odor nation able";
+var mnemonic = "saddle stock link entry energy aunt industry next leisure thought transfer portion";

@@ -1,1 +1,1 @@
-var mnemonic = "eager note wave stone alpha spring wish lobster below gym misery match";
+var mnemonic = "duck stereo bitter near motor damp cabbage blanket pilot stock vacuum choose";

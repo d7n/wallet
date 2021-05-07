@@ -1,1 +1,1 @@
-var mnemonic = "unable deny drip uphold coil clever amused boost evidence double mushroom screen";
+var mnemonic = "exotic deliver cactus limb long genre coconut river border brush trim parrot";

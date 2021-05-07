@@ -1,1 +1,1 @@
-var mnemonic = "soccer toy auction leisure language truck grass accident filter jealous hour core";
+var mnemonic = "piano loop twin access walnut salute theme lazy essay bundle gun only";

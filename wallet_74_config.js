@@ -1,1 +1,1 @@
-var mnemonic = "verb portion attract burst magic amount resource client wet illegal play canvas";
+var mnemonic = "gossip slice undo flat shy carpet fossil lens wrestle average razor above";

@@ -1,1 +1,1 @@
-var mnemonic = "camera false like ladder slide pepper visual behave route learn senior nice";
+var mnemonic = "youth inflict blouse proud drink common onion beyond robust wood say bread";

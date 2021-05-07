@@ -1,1 +1,1 @@
-var mnemonic = "alter strike flee december seven joy own insect else merry turn cry";
+var mnemonic = "twelve coach person acquire music debris capable dune such auction funny answer";

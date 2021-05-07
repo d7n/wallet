@@ -1,1 +1,1 @@
-var mnemonic = "wait firm abstract ankle chase rent peasant quarter cart curtain disorder hotel";
+var mnemonic = "food side floor celery stuff try panel pattern total tunnel swarm stem";

@@ -1,1 +1,1 @@
-var mnemonic = "cover error trend what glove give join choice slush blind again squeeze";
+var mnemonic = "success teach boost fix room inform pride devote code play rebel similar";

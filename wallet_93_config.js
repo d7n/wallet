@@ -1,1 +1,1 @@
-var mnemonic = "engage mail run gravity cancel potato curious ripple tube riot doctor honey";
+var mnemonic = "tribe drink inch comic work bracket very april symptom mirror write rigid";

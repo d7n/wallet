@@ -1,1 +1,1 @@
-var mnemonic = "pear armed either boil vintage tumble wish guilt maple congress fun rubber";
+var mnemonic = "position fruit theme shock awake element own once learn wife silly file";

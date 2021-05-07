@@ -1,1 +1,1 @@
-var mnemonic = "space open dinner live sample frog omit tube question subway virus hurry";
+var mnemonic = "evolve kiss glance hip ill lobster ocean brand travel shock defy friend";

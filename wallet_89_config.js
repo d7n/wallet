@@ -1,1 +1,1 @@
-var mnemonic = "pig kid narrow catch visit soup fee make biology voyage enact puppy";
+var mnemonic = "coast blame mimic business hour bullet pattern noble brand slow toss electric";

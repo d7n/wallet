@@ -1,1 +1,1 @@
-var mnemonic = "rack exile between brain laptop valid dry toe monkey tell speak vehicle";
+var mnemonic = "neck fiscal vacant section tortoise embody toward zone wink develop toilet exhibit";

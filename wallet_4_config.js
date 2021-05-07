@@ -1,1 +1,1 @@
-var mnemonic = "window liquid denial outer afraid either water ill wait sniff robust exercise";
+var mnemonic = "demand era flame region random nature lizard daughter burger easy extend lamp";

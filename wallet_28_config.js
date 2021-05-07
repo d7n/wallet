@@ -1,1 +1,1 @@
-var mnemonic = "wedding dolphin maze average couple design outside ignore awkward clean junk soap";
+var mnemonic = "burger trash horror hover twice butter dance acquire leopard embark chest asthma";

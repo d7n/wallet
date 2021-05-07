@@ -1,1 +1,1 @@
-var mnemonic = "deputy cash work draft culture exclude flag couple write agent rate brass";
+var mnemonic = "whisper blue during level stable message doll festival tongue accident journey civil";

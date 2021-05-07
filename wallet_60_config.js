@@ -1,1 +1,1 @@
-var mnemonic = "portion response wait hold picnic menu sail topple clean clever mirror boat";
+var mnemonic = "pull whisper october clarify grass ready bamboo lunar floor street canal topple";

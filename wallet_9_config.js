@@ -1,1 +1,1 @@
-var mnemonic = "orbit hybrid around divorce firm crop cross short entire update note agree";
+var mnemonic = "famous tunnel clerk auto wrist wet sense latin treat vocal music learn";

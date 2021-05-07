@@ -1,1 +1,1 @@
-var mnemonic = "illness toast split chunk blanket snow salmon burst cart birth elbow spy";
+var mnemonic = "possible tank glove noble task special pave above glimpse clarify square sleep";

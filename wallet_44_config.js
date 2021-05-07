@@ -1,1 +1,1 @@
-var mnemonic = "tray discover ability oil energy undo armor rice despair weather offer toast";
+var mnemonic = "peace sponsor galaxy anxiety peasant love subway office weapon nest cigar venture";

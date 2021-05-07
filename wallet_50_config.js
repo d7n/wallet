@@ -1,1 +1,1 @@
-var mnemonic = "option problem circle cause faith cream collect boost radio rabbit arrow save";
+var mnemonic = "runway carry elder chef lend sentence asset black salon coconut lazy rose";

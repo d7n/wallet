@@ -1,1 +1,1 @@
-var mnemonic = "immune dragon year whisper gesture giggle omit nuclear warm thing amused sail";
+var mnemonic = "blood excite balcony inspire find broccoli hamster enable soon ecology worry hold";

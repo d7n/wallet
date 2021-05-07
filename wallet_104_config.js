@@ -1,1 +1,1 @@
-var mnemonic = "this deal crane elite absurd hat hundred gas cruise guide knock one";
+var mnemonic = "edit execute pistol supreme biology lyrics cigar acoustic diesel mandate puppy shift";

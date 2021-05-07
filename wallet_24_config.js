@@ -1,1 +1,1 @@
-var mnemonic = "retreat wasp consider matter attend clog right earth refuse original digital soda";
+var mnemonic = "embody first target hub because wool move wrong task flee alcohol hub";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe this bonus sand news sand cable renew chaos bacon idea when";
+var mnemonic = "silk feed bargain picture entire boss agent differ visit turn main stand";

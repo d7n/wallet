@@ -1,1 +1,1 @@
-var mnemonic = "start two naive tuition exist text spike pool alcohol inject siren divert";
+var mnemonic = "robot duck require noble nation proud seek copper iron almost tone clown";

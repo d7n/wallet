@@ -1,1 +1,1 @@
-var mnemonic = "window mask rice about rule follow stamp awake device damage together can";
+var mnemonic = "symptom destroy token drum toddler meat gas fee large about estate citizen";

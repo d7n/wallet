@@ -1,1 +1,1 @@
-var mnemonic = "party female cannon silk ensure bamboo inner drill child refuse exhaust oil";
+var mnemonic = "trap liquid help punch tourist fault major law light coffee brisk lazy";

@@ -1,1 +1,1 @@
-var mnemonic = "boost pitch elbow face cause culture merge mechanic ability leg crystal magic";
+var mnemonic = "open boring consider immense tail gain garage mule night loan pistol foam";

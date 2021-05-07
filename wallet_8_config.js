@@ -1,1 +1,1 @@
-var mnemonic = "owner hand crash jelly exhaust issue ceiling eager bounce acquire luxury media";
+var mnemonic = "fury scare neck mirror credit churn swap already detail accuse bid document";

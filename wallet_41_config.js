@@ -1,1 +1,1 @@
-var mnemonic = "demise lend light city treat mother photo first consider olympic clock pony";
+var mnemonic = "candy ready liquid scrub nice visit gas business praise venue toast response";
