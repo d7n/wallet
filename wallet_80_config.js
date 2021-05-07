@@ -1,1 +1,1 @@
-var mnemonic = "seat vacant group cute fashion bitter throw library section appear whale number";
+var mnemonic = "gold update solve explain verify weather parent acid crumble decide wide order";

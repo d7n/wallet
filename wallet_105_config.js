@@ -1,1 +1,1 @@
-var mnemonic = "voyage hair advice print turtle benefit crane light knife happy salad grace";
+var mnemonic = "surround spot order brush scrap siren scan require expose remember skill cotton";

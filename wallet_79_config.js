@@ -1,1 +1,1 @@
-var mnemonic = "lizard shoot phone immense leave turtle gun approve spike floor reward drip";
+var mnemonic = "weekend duty evoke slam height champion differ milk vacuum left december brisk";

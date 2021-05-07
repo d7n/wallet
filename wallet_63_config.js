@@ -1,1 +1,1 @@
-var mnemonic = "shaft develop cage entry media submit like garlic vendor thank poet sauce";
+var mnemonic = "oak quick perfect bind whip match modify wife cat want cheese capable";

@@ -1,1 +1,1 @@
-var mnemonic = "radio chaos stool nest regret push post drastic praise tiny love night";
+var mnemonic = "side brother chapter tomorrow pelican birth carry angry pave vast require lumber";

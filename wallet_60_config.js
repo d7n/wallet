@@ -1,1 +1,1 @@
-var mnemonic = "addict verb pizza quit stove smooth edit tobacco pigeon erupt evidence cruel";
+var mnemonic = "mouse zoo news object blanket unit toward desk leopard paper cart boring";

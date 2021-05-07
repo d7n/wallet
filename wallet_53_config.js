@@ -1,1 +1,1 @@
-var mnemonic = "firm letter flower error plate pond inside foam bind sea vague match";
+var mnemonic = "wreck chaos excess embody hospital journey lecture harvest amount spare kid setup";

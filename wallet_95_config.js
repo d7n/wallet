@@ -1,1 +1,1 @@
-var mnemonic = "garage never swear drift odor mirror pattern dismiss very absent bleak tennis";
+var mnemonic = "pottery cry ecology soon over gallery tray run cube boat aspect burden";

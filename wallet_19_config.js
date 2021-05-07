@@ -1,1 +1,1 @@
-var mnemonic = "burger genuine dawn labor size cancel gloom amateur casino age base budget";
+var mnemonic = "obscure move urban again mechanic chuckle nuclear hurry allow dwarf hurt gospel";

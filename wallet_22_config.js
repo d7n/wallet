@@ -1,1 +1,1 @@
-var mnemonic = "clog series sunny sugar snow zero quarter word motor rhythm thank baby";
+var mnemonic = "end tank enjoy outer cherry sort claw battle million monkey hundred quick";

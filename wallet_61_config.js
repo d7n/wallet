@@ -1,1 +1,1 @@
-var mnemonic = "head squeeze liar empty spy wave high wealth want exercise sauce scrub";
+var mnemonic = "across wreck party fall chronic index analyst feature hunt gorilla sign harsh";

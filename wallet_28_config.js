@@ -1,1 +1,1 @@
-var mnemonic = "south win reunion soon blanket thunder post great fabric fitness rookie march";
+var mnemonic = "vast fresh lunch rack bronze mobile path expose wife pizza slice chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "abuse never olive climb later test door fork cousin stem acid ancient";
+var mnemonic = "first talk scrap lens oppose action tube mix swarm code tornado search";

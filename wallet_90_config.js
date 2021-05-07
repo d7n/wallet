@@ -1,1 +1,1 @@
-var mnemonic = "jealous oven talk gather unlock chest budget camp glory fat bubble company";
+var mnemonic = "strategy stove tooth purpose wall unit endless happy camera flight album chaos";

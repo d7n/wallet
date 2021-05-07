@@ -1,1 +1,1 @@
-var mnemonic = "voice brick tumble remain witness shell antique hat tube usage elegant improve";
+var mnemonic = "moment tree steak remember always clog agent tail baby guide net enhance";

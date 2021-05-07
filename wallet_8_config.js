@@ -1,1 +1,1 @@
-var mnemonic = "choice hybrid mind frozen enact invest woman cabbage corn erase few office";
+var mnemonic = "pupil urge disorder marriage shift library liberty shrug wear stick country drastic";

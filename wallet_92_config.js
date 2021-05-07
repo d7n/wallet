@@ -1,1 +1,1 @@
-var mnemonic = "spell either inject ticket way north couple gesture brass lend make novel";
+var mnemonic = "devote orbit lend wash burst attitude goddess symptom pledge ball exotic pepper";

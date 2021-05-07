@@ -1,1 +1,1 @@
-var mnemonic = "improve deposit process swamp soon round shuffle jelly oxygen diet labor kangaroo";
+var mnemonic = "swing fortune educate leg bicycle unusual region repair siege almost economy confirm";

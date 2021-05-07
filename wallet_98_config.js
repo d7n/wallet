@@ -1,1 +1,1 @@
-var mnemonic = "siege average case wet boring until lamp then bleak small disagree certain";
+var mnemonic = "artwork moon correct crisp weapon crawl mammal tool attack salad setup cash";

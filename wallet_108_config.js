@@ -1,1 +1,1 @@
-var mnemonic = "camera fence tribe shiver expand trend onion inspire potato doll lottery struggle";
+var mnemonic = "stem armor celery panel churn warfare frown paper blame cruel mail clutch";

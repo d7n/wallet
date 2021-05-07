@@ -1,1 +1,1 @@
-var mnemonic = "match account possible flock detail door caution love keen special weekend quarter";
+var mnemonic = "whisper rely stove theory armor cigar prepare circle shaft put twin hundred";

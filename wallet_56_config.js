@@ -1,1 +1,1 @@
-var mnemonic = "cash december repair permit isolate common guide juice army basic organ party";
+var mnemonic = "town sentence inch crucial wood gasp pair aerobic purity sea ladder patient";

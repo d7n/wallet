@@ -1,1 +1,1 @@
-var mnemonic = "dash ivory hat tiger worth mechanic undo where card bus marble salt";
+var mnemonic = "virus donate vote tower silk sphere ivory shallow exact immense doctor august";

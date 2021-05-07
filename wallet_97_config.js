@@ -1,1 +1,1 @@
-var mnemonic = "figure loan wrong impact wrong home job shoot salmon margin imitate exercise";
+var mnemonic = "tornado reveal swim myself purpose blanket banner hole dirt rail alter dove";

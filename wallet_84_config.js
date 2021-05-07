@@ -1,1 +1,1 @@
-var mnemonic = "fall plunge junior erode mix love gentle vapor erase blood will grape";
+var mnemonic = "crouch wagon just leaf bachelor inquiry project essence stay ancient mango put";

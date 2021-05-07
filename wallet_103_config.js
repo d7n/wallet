@@ -1,1 +1,1 @@
-var mnemonic = "gold bargain story defy oak demand lock bag pencil nuclear next jewel";
+var mnemonic = "region music boy label mixed bright stomach excite roof will turn genuine";

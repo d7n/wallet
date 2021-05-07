@@ -1,1 +1,1 @@
-var mnemonic = "piece silly object cherry short pelican segment flee shoe panel ready wage";
+var mnemonic = "space gentle animal interest canvas couple duty enemy trash century salad doctor";

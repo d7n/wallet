@@ -1,1 +1,1 @@
-var mnemonic = "energy milk myself draft tackle gallery laundry crisp half mother market bonus";
+var mnemonic = "write hat absurd sugar coin adjust bulk derive drill pet expire razor";

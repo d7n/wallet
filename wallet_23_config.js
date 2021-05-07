@@ -1,1 +1,1 @@
-var mnemonic = "wisdom april jazz fish recycle swap only rapid luggage punch science always";
+var mnemonic = "near salad retreat obtain myself polar verify invest patch option wheel vintage";

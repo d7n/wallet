@@ -1,1 +1,1 @@
-var mnemonic = "merge intact mosquito fuel equip army lecture skull today pave flee raven";
+var mnemonic = "swap unhappy neither until release focus truth exile hint coast purpose junior";

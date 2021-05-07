@@ -1,1 +1,1 @@
-var mnemonic = "quick weather glow execute machine mind act blade dumb team dilemma outside";
+var mnemonic = "neglect palace prize street subway achieve supreme occur prize above boat unfair";

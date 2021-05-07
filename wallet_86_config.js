@@ -1,1 +1,1 @@
-var mnemonic = "tape merge found jealous matter antique write wait settle banana world segment";
+var mnemonic = "always type soft puzzle private fine guide physical sentence float regular brief";

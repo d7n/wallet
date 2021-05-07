@@ -1,1 +1,1 @@
-var mnemonic = "twice orbit engage example absurd post horse when boring mammal baby among";
+var mnemonic = "exotic speed media client smooth nurse coral taste pumpkin endless camp once";

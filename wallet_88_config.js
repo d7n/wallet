@@ -1,1 +1,1 @@
-var mnemonic = "bulb milk aerobic verify gap embark soldier amount jelly female couple people";
+var mnemonic = "negative rotate remove oak asthma remind dinner express shoulder eagle tree spring";

@@ -1,1 +1,1 @@
-var mnemonic = "siege oven rubber derive certain champion damp attend hedgehog leaf soccer runway";
+var mnemonic = "ketchup blur inherit short october spot number cherry energy tenant holiday market";

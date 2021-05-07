@@ -1,1 +1,1 @@
-var mnemonic = "very enforce vessel acid item engine liar pet diet slush vapor tomorrow";
+var mnemonic = "enforce spray blanket room can crisp sleep accident mirror drill tag dynamic";

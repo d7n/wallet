@@ -1,1 +1,1 @@
-var mnemonic = "business bacon boost bargain oxygen analyst pumpkin owner horse defy menu glimpse";
+var mnemonic = "wise acoustic second recycle burst eager sword bonus skull medal online loud";

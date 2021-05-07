@@ -1,1 +1,1 @@
-var mnemonic = "away slender dog tumble forum empty grunt city bacon track lake usage";
+var mnemonic = "save cry beyond ritual feed quote attract broom cabbage hover topic marble";

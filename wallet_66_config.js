@@ -1,1 +1,1 @@
-var mnemonic = "snack today cinnamon distance indicate merry pool worry analyst february rifle balance";
+var mnemonic = "unhappy situate pyramid same kind sadness alert verb laugh jealous economy feel";

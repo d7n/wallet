@@ -1,1 +1,1 @@
-var mnemonic = "verb margin answer fan wife kingdom estate badge stadium account tree fuel";
+var mnemonic = "adult never please host argue word sample twice comic ritual vault develop";

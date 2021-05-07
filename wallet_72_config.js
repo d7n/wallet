@@ -1,1 +1,1 @@
-var mnemonic = "tongue bench skill glow film blast syrup model amount armor saddle audit";
+var mnemonic = "dog double luxury field habit ostrich rescue trouble charge pride guess cigar";

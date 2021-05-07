@@ -1,1 +1,1 @@
-var mnemonic = "quality element spirit file alter current spring duty wide afraid antenna wild";
+var mnemonic = "mutual doll ridge rabbit detect ability exile replace net canoe stadium earn";

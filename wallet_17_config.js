@@ -1,1 +1,1 @@
-var mnemonic = "balance tragic trend remember ship sign wait dune sibling shrimp brisk electric";
+var mnemonic = "arrange salt behind annual misery despair drift gesture mimic lizard virus scissors";

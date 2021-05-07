@@ -1,1 +1,1 @@
-var mnemonic = "mountain unlock burst genre pole world zoo cluster observe soon oil later";
+var mnemonic = "aerobic liberty soda hollow earn later blade toe assume option crystal blame";

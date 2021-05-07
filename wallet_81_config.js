@@ -1,1 +1,1 @@
-var mnemonic = "fabric slogan dog industry violin fancy exchange quality month supply naive town";
+var mnemonic = "urban access draw alcohol future lawn festival romance swarm arrive increase short";

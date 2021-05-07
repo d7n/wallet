@@ -1,1 +1,1 @@
-var mnemonic = "journey depend earth calm globe fat hour turtle raven bleak siege scatter";
+var mnemonic = "robot actor hand crush bicycle mammal crisp size announce sport cargo twelve";

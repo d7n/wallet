@@ -1,1 +1,1 @@
-var mnemonic = "address journey movie attract flee dilemma forest quick state obtain giggle over";
+var mnemonic = "west outer piano liquid funny priority stove chief frost rude amount child";

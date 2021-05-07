@@ -1,1 +1,1 @@
-var mnemonic = "barrel unknown loop carry protect limit pyramid pet help boat gain ostrich";
+var mnemonic = "tobacco entry tooth youth pony provide certain observe pudding three above crack";

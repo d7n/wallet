@@ -1,1 +1,1 @@
-var mnemonic = "circle vast badge pause bundle negative lyrics waste garden join outside evidence";
+var mnemonic = "notice horn this tooth false coral radio champion siren various connect depth";

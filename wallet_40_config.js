@@ -1,1 +1,1 @@
-var mnemonic = "system discover armor oxygen mom craft pull front agent chalk just cry";
+var mnemonic = "captain pen friend uncle delay torch very hint easy exchange around parent";

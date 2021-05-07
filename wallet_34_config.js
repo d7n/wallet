@@ -1,1 +1,1 @@
-var mnemonic = "fabric trouble useless spare select direct foil cloth member abandon sample faith";
+var mnemonic = "toss bread angry easily lift eager matrix flight when cancel hockey picture";

@@ -1,1 +1,1 @@
-var mnemonic = "snack muscle legal cereal flee little cabin walnut rookie cost blood midnight";
+var mnemonic = "scrub valley need stomach federal cluster summer cause similar roast leader banana";

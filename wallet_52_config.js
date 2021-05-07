@@ -1,1 +1,1 @@
-var mnemonic = "fame mind upgrade zone purpose popular two smoke predict pull elegant brother";
+var mnemonic = "earth glow during purity transfer waste shallow wall witness stay know ancient";

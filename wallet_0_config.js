@@ -1,1 +1,1 @@
-var mnemonic = "wheel reward youth outdoor motion spawn elevator flavor among use prize swarm";
+var mnemonic = "water obscure bicycle surface issue virtual economy easily point gap raise current";

@@ -1,1 +1,1 @@
-var mnemonic = "thing chase brush rack reject tourist glow hammer news twice heavy narrow";
+var mnemonic = "dignity choice punch wear shiver boat lounge now kangaroo deer square shine";

@@ -1,1 +1,1 @@
-var mnemonic = "subway vibrant orphan street suffer priority wrong enlist impact cool repeat course";
+var mnemonic = "copy cart city guitar pride leopard beyond library combine wrong zebra situate";

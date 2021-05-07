@@ -1,1 +1,1 @@
-var mnemonic = "recall point occur one toilet actress kangaroo canvas thank horn awkward shed";
+var mnemonic = "seven board exhibit net unlock renew grunt find prefer rebel material need";

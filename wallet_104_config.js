@@ -1,1 +1,1 @@
-var mnemonic = "electric wood decade upon chef identify reason uncle trim private youth item";
+var mnemonic = "super path spike benefit surround theme amused ugly erosion frost seed daring";

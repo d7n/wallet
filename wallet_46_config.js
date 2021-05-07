@@ -1,1 +1,1 @@
-var mnemonic = "token load forget rule limit cook fog repeat danger wink wolf time";
+var mnemonic = "judge wear belt voyage execute misery movie page insane negative unusual master";

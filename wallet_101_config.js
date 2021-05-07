@@ -1,1 +1,1 @@
-var mnemonic = "donate century drama blast turkey hybrid embody check degree bread display ocean";
+var mnemonic = "skull cement lazy tenant staff link behave sword pipe budget skirt scrap";

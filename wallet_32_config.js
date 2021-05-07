@@ -1,1 +1,1 @@
-var mnemonic = "mad law year custom puzzle session ring similar level hazard derive surface";
+var mnemonic = "ecology century ocean vibrant also access soccer broom west father reason script";

@@ -1,1 +1,1 @@
-var mnemonic = "opera circle because arrive short decrease maple sail illegal vault dilemma inject";
+var mnemonic = "eagle almost actress gloom ranch garden erase mobile lion muffin van staff";

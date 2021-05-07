@@ -1,1 +1,1 @@
-var mnemonic = "stamp hybrid category supply hundred broom slot august van spot rich era";
+var mnemonic = "sister maple hip defy motor midnight sentence pipe unhappy walk apple speak";

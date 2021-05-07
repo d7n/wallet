@@ -1,1 +1,1 @@
-var mnemonic = "depart gasp baby hope rice scorpion exhibit action grape sort scorpion shaft";
+var mnemonic = "spoil tube member casino human siren depend mesh vanish ostrich arrange napkin";

@@ -1,1 +1,1 @@
-var mnemonic = "tag close select loyal machine knee process twenty fold shuffle kitten borrow";
+var mnemonic = "traffic lawsuit position around round square wheel frost minor pretty tragic dish";

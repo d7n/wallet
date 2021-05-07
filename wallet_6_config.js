@@ -1,1 +1,1 @@
-var mnemonic = "rug churn stable scare peasant victory dune cluster measure mouse letter velvet";
+var mnemonic = "glow slender blur canoe country pledge suffer false sniff between proud alpha";

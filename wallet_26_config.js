@@ -1,1 +1,1 @@
-var mnemonic = "top cloth write inner device super autumn forward grow there snap target";
+var mnemonic = "wire abandon affair labor club gate finger judge flight oxygen trash join";

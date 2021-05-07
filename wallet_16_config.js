@@ -1,1 +1,1 @@
-var mnemonic = "card kitchen tattoo salon fuel harvest field bronze city satoshi aunt slush";
+var mnemonic = "decorate notice load long trigger alarm elevator honey absorb lift lab crack";

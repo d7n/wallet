@@ -1,1 +1,1 @@
-var mnemonic = "section violin awkward agree tired type blue pony tenant life hour wear";
+var mnemonic = "good oblige agent path umbrella inhale ketchup beyond royal screen much pizza";

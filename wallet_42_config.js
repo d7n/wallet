@@ -1,1 +1,1 @@
-var mnemonic = "legal advance rival rib actress blanket illness soul flight level same steel";
+var mnemonic = "food bubble flock knife nurse bean length open symptom visual genuine jeans";

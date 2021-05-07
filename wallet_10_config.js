@@ -1,1 +1,1 @@
-var mnemonic = "badge tuna wall strong grass rapid gym rack volcano where excuse license";
+var mnemonic = "ten champion crisp lava call catch possible connect change peace evolve voice";

@@ -1,1 +1,1 @@
-var mnemonic = "sea lake safe horn village valley celery couple switch old birth midnight";
+var mnemonic = "affair hero move wild nothing artist inquiry bag infant collect since second";

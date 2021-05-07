@@ -1,1 +1,1 @@
-var mnemonic = "try subject review wing fresh lens point mule mouse moment kind fork";
+var mnemonic = "body mirror message moral rocket fury detail slab region hole add frog";

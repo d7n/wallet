@@ -1,1 +1,1 @@
-var mnemonic = "green frequent staff trim upset tourist field describe term snack stadium survey";
+var mnemonic = "turkey insane alien summer simple claim wide ceiling sentence settle essence toy";

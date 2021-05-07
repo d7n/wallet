@@ -1,1 +1,1 @@
-var mnemonic = "gauge enjoy frequent move dose worth exotic lounge depth person front interest";
+var mnemonic = "expire bargain between cruel toddler toss road grow want robot fashion doll";

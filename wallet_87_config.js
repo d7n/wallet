@@ -1,1 +1,1 @@
-var mnemonic = "prison invest vacuum umbrella neither rib rough crowd under genius never bridge";
+var mnemonic = "weapon viable fiscal copper wash edge decade drink youth document usage mail";

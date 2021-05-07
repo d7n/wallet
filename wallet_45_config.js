@@ -1,1 +1,1 @@
-var mnemonic = "below mercy inner hotel balcony muscle repeat iron odor stem draft spider";
+var mnemonic = "question update predict firm humble mansion sun hundred double hub play lizard";

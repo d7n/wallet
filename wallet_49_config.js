@@ -1,1 +1,1 @@
-var mnemonic = "square message scout circle discover plastic card remain stairs price vault dutch";
+var mnemonic = "bean possible member clog level hour ankle dose note husband custom veteran";

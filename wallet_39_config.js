@@ -1,1 +1,1 @@
-var mnemonic = "play little such benefit speak warfare exact nephew bike maple three aisle";
+var mnemonic = "enjoy hint brush paddle spike fee cruise sorry that whisper stage soft";

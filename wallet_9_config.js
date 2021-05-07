@@ -1,1 +1,1 @@
-var mnemonic = "castle cup age aim lobster profit physical chapter era near aware omit";
+var mnemonic = "lunch athlete swap senior depend kit fan catch orient month segment upon";

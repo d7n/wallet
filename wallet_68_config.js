@@ -1,1 +1,1 @@
-var mnemonic = "stereo poem mail latin insane start tribe purchase orient vacuum short plastic";
+var mnemonic = "approve day raccoon cute push forum first cereal outside possible siege absorb";

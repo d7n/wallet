@@ -1,1 +1,1 @@
-var mnemonic = "bracket depart blush yellow stem between chaos soft awful museum envelope panel";
+var mnemonic = "enough sure blanket donate idle water earth creek permit foam series love";

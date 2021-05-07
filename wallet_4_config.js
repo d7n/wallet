@@ -1,1 +1,1 @@
-var mnemonic = "topic stereo uniform ecology brother polar elevator obey crazy like edit blouse";
+var mnemonic = "pottery similar mouse bunker lunar mobile faith gospel marine call trick alley";

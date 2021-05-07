@@ -1,1 +1,1 @@
-var mnemonic = "humor empower cotton utility enforce prefer pool soldier kiss wage pony where";
+var mnemonic = "file primary spoil keen december proud choose brave film video melody trade";

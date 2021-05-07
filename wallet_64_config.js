@@ -1,1 +1,1 @@
-var mnemonic = "motion copy crowd ugly crucial hazard huge kitchen fade exhibit laundry shop";
+var mnemonic = "oil educate crazy three screen twenty level uphold pause beach clerk scheme";

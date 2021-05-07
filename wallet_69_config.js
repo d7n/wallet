@@ -1,1 +1,1 @@
-var mnemonic = "wash small swim charge clay figure black school inhale urge help deposit";
+var mnemonic = "silver payment during exchange novel horror work film frame flash clinic fantasy";

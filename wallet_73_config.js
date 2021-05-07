@@ -1,1 +1,1 @@
-var mnemonic = "sibling dentist stomach zoo page valve dove arrive accident drop absent picnic";
+var mnemonic = "north domain riot loan eye blouse concert index group change vanish general";

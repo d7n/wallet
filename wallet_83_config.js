@@ -1,1 +1,1 @@
-var mnemonic = "visual mercy anchor senior whisper involve child taste earn guitar tide swim";
+var mnemonic = "pond drip bike erosion hockey decorate name useless dream item border pear";

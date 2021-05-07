@@ -1,1 +1,1 @@
-var mnemonic = "torch monkey field card shuffle season where toe slot endorse apology essay";
+var mnemonic = "burden school battle place trick almost army stay impulse jungle apple hotel";

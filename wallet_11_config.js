@@ -1,1 +1,1 @@
-var mnemonic = "physical cross elephant dream better muscle shoulder two tell expand repeat erode";
+var mnemonic = "glide flip help another mobile funny paper sadness mad initial dumb victory";

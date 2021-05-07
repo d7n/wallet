@@ -1,1 +1,1 @@
-var mnemonic = "olympic rescue gain chief love length memory unfair dignity kit play carpet";
+var mnemonic = "stumble ask taxi surface minute rigid remain expose film weather space crawl";

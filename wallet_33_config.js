@@ -1,1 +1,1 @@
-var mnemonic = "letter pole early flame snake improve elephant maid clump ladder empty you";
+var mnemonic = "budget attend tonight park space abstract ship ramp awful drum river narrow";

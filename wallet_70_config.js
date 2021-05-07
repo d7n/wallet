@@ -1,1 +1,1 @@
-var mnemonic = "young infant vibrant relax supply lava patch gasp crime afford hub spoil";
+var mnemonic = "ancient stone glide finish grant delay soon cart utility solar hair manual";
