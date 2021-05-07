@@ -1,1 +1,1 @@
-var mnemonic = "green shield jeans horn moment total cry uncle burden cereal trick bar";
+var mnemonic = "audit short fringe sick myth garage remember kingdom output alley token destroy";

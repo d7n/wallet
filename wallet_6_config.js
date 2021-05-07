@@ -1,1 +1,1 @@
-var mnemonic = "slide bench assault age civil corn obscure siege end power alert arch";
+var mnemonic = "obvious mistake swarm nuclear pond text bean speed estate custom real fancy";

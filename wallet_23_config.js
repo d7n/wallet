@@ -1,1 +1,1 @@
-var mnemonic = "roast leisure bicycle bus material slab elegant chase round chase purchase village";
+var mnemonic = "patient arm dad vast federal early swear axis grape resemble spider barely";

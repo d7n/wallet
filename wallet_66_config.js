@@ -1,1 +1,1 @@
-var mnemonic = "produce puzzle raise embrace mandate congress repair close cry stairs crane model";
+var mnemonic = "omit squirrel exact pact daughter disorder enact web scale drill frequent race";

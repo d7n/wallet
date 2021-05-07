@@ -1,1 +1,1 @@
-var mnemonic = "kit budget gloom eyebrow siren burst hurt volume access curtain expect trade";
+var mnemonic = "shrimp clarify nasty just winter risk myself still cute vacant smart axis";

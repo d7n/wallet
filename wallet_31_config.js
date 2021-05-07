@@ -1,1 +1,1 @@
-var mnemonic = "gain fruit problem result salad barely select hip clinic describe orchard pride";
+var mnemonic = "upon bargain trial action scissors lake outside flock thrive tip siren tag";

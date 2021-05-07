@@ -1,1 +1,1 @@
-var mnemonic = "twice awesome defense tank verb donkey emerge afford evolve protect diary cushion";
+var mnemonic = "visa short engage kite erode snow own citizen garbage only same indoor";

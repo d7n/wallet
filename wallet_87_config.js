@@ -1,1 +1,1 @@
-var mnemonic = "prosper twenty update dream easy believe attend travel lens rather citizen pave";
+var mnemonic = "letter clog release unfair broom edge ignore depend eternal flock club bring";

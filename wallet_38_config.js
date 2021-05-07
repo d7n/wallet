@@ -1,1 +1,1 @@
-var mnemonic = "where arch donor vendor cook humor give couch innocent cube gas behave";
+var mnemonic = "found cabin stairs prefer boss state jar abuse orange chicken artefact behind";

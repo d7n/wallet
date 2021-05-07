@@ -1,1 +1,1 @@
-var mnemonic = "script vague jungle slot invite wrist shop chimney have orchard chat cry";
+var mnemonic = "weapon fluid peasant usage eyebrow portion region tourist base spoil small slam";

@@ -1,1 +1,1 @@
-var mnemonic = "farm govern sweet absurd inherit issue fiber truck betray school discover cement";
+var mnemonic = "tag strike spider gauge kite rich settle stool police glance science month";

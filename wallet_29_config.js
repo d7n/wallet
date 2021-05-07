@@ -1,1 +1,1 @@
-var mnemonic = "ecology square broom pottery shoulder effort govern problem fiction fetch much gossip";
+var mnemonic = "major cruel water excite local final shuffle rare exit debris promote effort";

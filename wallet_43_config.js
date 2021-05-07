@@ -1,1 +1,1 @@
-var mnemonic = "crunch remove combine version hen trash lawn concert fuel divorce frost visit";
+var mnemonic = "supply banner rubber clown nation dutch blush denial yellow cat must outside";

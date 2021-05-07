@@ -1,1 +1,1 @@
-var mnemonic = "balcony onion elder toss elder feature verify input unique lucky bamboo taxi";
+var mnemonic = "memory permit sure pipe place real strike desert garlic endorse duty movie";

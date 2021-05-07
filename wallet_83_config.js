@@ -1,1 +1,1 @@
-var mnemonic = "filter august intact control guilt symbol milk injury talk child escape power";
+var mnemonic = "vintage broom slice potato cliff vanish south unaware lens horn stairs owner";

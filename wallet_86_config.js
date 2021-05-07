@@ -1,1 +1,1 @@
-var mnemonic = "convince train grid equal practice mass season skin humble sea provide setup";
+var mnemonic = "kiss film jar draft resemble neither boat caught chef double trade heart";

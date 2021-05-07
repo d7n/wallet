@@ -1,1 +1,1 @@
-var mnemonic = "clap wheat candy wear cruel super turkey virus pen bottom board trend";
+var mnemonic = "success eager broom hospital mobile major beauty skirt expect carry seed bar";

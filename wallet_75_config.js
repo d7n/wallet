@@ -1,1 +1,1 @@
-var mnemonic = "banner property arrange history dumb better smile dog lady effort urge length";
+var mnemonic = "desk equip gap inspire success wide cradle gallery real rotate sketch common";

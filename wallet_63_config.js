@@ -1,1 +1,1 @@
-var mnemonic = "margin disease enforce profit eye young theory wisdom tunnel super school dirt";
+var mnemonic = "update legal license tape wrist clever ten amazing bar rely name piano";

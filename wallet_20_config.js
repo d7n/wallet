@@ -1,1 +1,1 @@
-var mnemonic = "evoke small tuna crime use series attend hammer crack crack cricket two";
+var mnemonic = "romance friend domain guilt indoor scene foster absurd cause often village exhibit";

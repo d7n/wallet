@@ -1,1 +1,1 @@
-var mnemonic = "pink mean cube aspect lottery resist party turn tiger author calm mad";
+var mnemonic = "noble marine extend expand neck pause sibling buyer echo surprise foil grief";

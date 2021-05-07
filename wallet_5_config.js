@@ -1,1 +1,1 @@
-var mnemonic = "dash tiger client moral express subject piece keep nut soon sauce negative";
+var mnemonic = "dinner color funny gentle milk mixture flush area huge burger captain assist";

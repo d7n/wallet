@@ -1,1 +1,1 @@
-var mnemonic = "idle venue evil whisper midnight human claw tissue parent humble miracle awesome";
+var mnemonic = "matrix slow pigeon knock label mixture digital again dentist trade system bread";

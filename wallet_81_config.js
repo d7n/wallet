@@ -1,1 +1,1 @@
-var mnemonic = "stay chronic never never robust viable clarify coin similar maple combine today";
+var mnemonic = "normal nerve scheme affair stem since aspect cluster apart steel merit grace";

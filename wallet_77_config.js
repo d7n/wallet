@@ -1,1 +1,1 @@
-var mnemonic = "reward point either umbrella drink dinosaur right gasp quit seek ancient lunch";
+var mnemonic = "refuse guess chaos fever accident cheese convince work fancy kid fiscal faculty";

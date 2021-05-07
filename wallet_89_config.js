@@ -1,1 +1,1 @@
-var mnemonic = "menu spread another punch live pilot alter build mirror radar paper transfer";
+var mnemonic = "able angle mind olive blanket egg injury apology skirt ice nuclear tank";

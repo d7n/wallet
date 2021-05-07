@@ -1,1 +1,1 @@
-var mnemonic = "canal connect season artist nest episode sock mean rebel siren trumpet vicious";
+var mnemonic = "invite ring connect away punch love isolate lucky transfer tree start apology";

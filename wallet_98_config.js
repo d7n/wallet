@@ -1,1 +1,1 @@
-var mnemonic = "tilt use bread valve knock bulb beauty soup praise spell fantasy bread";
+var mnemonic = "cousin prosper flight rare wide fatal beach attract position expect lawsuit logic";

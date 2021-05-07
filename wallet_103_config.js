@@ -1,1 +1,1 @@
-var mnemonic = "twenty valid truly river mother nothing party copy sand truth code unaware";
+var mnemonic = "mushroom phrase nothing post truly rescue remember sand man fire level census";

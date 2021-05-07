@@ -1,1 +1,1 @@
-var mnemonic = "cheap timber matter cat bind essence save total job praise rally autumn";
+var mnemonic = "question boy curtain odor runway canoe stove gesture walnut learn potato month";

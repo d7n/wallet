@@ -1,1 +1,1 @@
-var mnemonic = "apart history boost obscure actress work goddess display ancient essay movie grunt";
+var mnemonic = "false column car work enter tennis cupboard more crack eight eternal figure";

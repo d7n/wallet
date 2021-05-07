@@ -1,1 +1,1 @@
-var mnemonic = "fragile unlock duck banner rich slow list age enroll used merit sausage";
+var mnemonic = "mean agent regret easily search velvet yellow diet catalog cheese expand economy";

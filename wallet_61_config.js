@@ -1,1 +1,1 @@
-var mnemonic = "draft surround champion day always across gorilla spider album sick retire buyer";
+var mnemonic = "injury spawn fiscal upon clay alpha grocery sing margin dinner inquiry fatal";

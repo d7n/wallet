@@ -1,1 +1,1 @@
-var mnemonic = "off put meat boring betray debate patient utility cluster ready review today";
+var mnemonic = "settle horror regular scheme bronze blossom chef horse grit calm pet dish";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor outside tag bargain unique use thunder curious galaxy yard half ball";
+var mnemonic = "noble crystal silent portion twin above drill tape trim evoke inject pen";

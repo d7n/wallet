@@ -1,1 +1,1 @@
-var mnemonic = "clip double calm gaze awake plug tired spell slush neglect scan tell";
+var mnemonic = "margin oven damp damp index window salad ring put into practice fault";

@@ -1,1 +1,1 @@
-var mnemonic = "leave spell crowd session know disorder deposit decline eight usage spider domain";
+var mnemonic = "picnic host harbor best cushion skin weird soccer aunt ostrich road rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "resist jeans stick company color oval mixture matter cover choice cute split";
+var mnemonic = "scissors liberty scale bid defy wife warfare addict thought cruise topple paddle";

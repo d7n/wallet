@@ -1,1 +1,1 @@
-var mnemonic = "leader aerobic okay addict radar story split tragic soccer gain cycle daughter";
+var mnemonic = "tide moral exotic miss deposit night ocean gadget sausage honey truth dawn";

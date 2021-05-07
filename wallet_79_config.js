@@ -1,1 +1,1 @@
-var mnemonic = "enforce arrow armed miss provide use lunar boy clinic nation kid mom";
+var mnemonic = "kingdom choose win sail express survey island lobster female satoshi bus present";

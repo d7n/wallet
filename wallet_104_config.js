@@ -1,1 +1,1 @@
-var mnemonic = "floor ensure improve private busy target achieve unable snow price flight hospital";
+var mnemonic = "trim crime online mule still arrange fan napkin turtle main feature half";

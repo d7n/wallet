@@ -1,1 +1,1 @@
-var mnemonic = "toilet penalty tornado recipe behind maximum eager crazy ivory track riot picture";
+var mnemonic = "trouble lift near awkward book clutch swallow embody bronze tenant pass fan";

@@ -1,1 +1,1 @@
-var mnemonic = "unlock addict celery hobby vapor sugar tip execute cabbage spray canyon crack";
+var mnemonic = "shaft siren across purse fox exile power digital case civil forget excuse";

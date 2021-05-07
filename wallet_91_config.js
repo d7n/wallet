@@ -1,1 +1,1 @@
-var mnemonic = "boring vintage library choice ginger cradle thank scout leopard planet neutral april";
+var mnemonic = "glimpse boss math valley barrel recipe situate six leaf require stove key";

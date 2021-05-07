@@ -1,1 +1,1 @@
-var mnemonic = "wheat pair drill all mountain visa hello evolve tuna cruel trend dad";
+var mnemonic = "cabin actor empty combine edge web meadow blood happy arrive advice rather";

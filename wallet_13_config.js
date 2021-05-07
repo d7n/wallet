@@ -1,1 +1,1 @@
-var mnemonic = "carbon weather play dream now expire accuse snow bitter mandate garment region";
+var mnemonic = "pilot choice approve pledge green ahead accuse shine noble loan fringe puzzle";

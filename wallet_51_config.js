@@ -1,1 +1,1 @@
-var mnemonic = "topple flavor fork rural crucial settle hundred syrup key example poem salt";
+var mnemonic = "shoe ritual satoshi hour harvest coach funny truly camera orchard chunk trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery nation end outer home pioneer pen fantasy vault oak crop hen";
+var mnemonic = "truth rack permit tuition found liberty unknown coyote betray scissors good first";

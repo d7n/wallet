@@ -1,1 +1,1 @@
-var mnemonic = "air output glance march diamond obscure toward finish that orchard bamboo hotel";
+var mnemonic = "doll doll one boat outdoor rebel swift pretty elbow session town perfect";

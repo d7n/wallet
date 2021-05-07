@@ -1,1 +1,1 @@
-var mnemonic = "motor powder spice purity logic leg model middle turn multiply pig female";
+var mnemonic = "gown absent donor double rely include upper disagree hip stadium dish inform";

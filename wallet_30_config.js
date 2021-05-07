@@ -1,1 +1,1 @@
-var mnemonic = "come nerve toss gather kidney upon dynamic lumber rule hood road honey";
+var mnemonic = "miss idea voice tackle tiger dinosaur fiber across narrow toward human account";

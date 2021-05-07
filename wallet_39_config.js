@@ -1,1 +1,1 @@
-var mnemonic = "penalty music empty excuse wide foot comic speak sudden hundred system head";
+var mnemonic = "tube become easy shoulder good opinion chase correct december improve earn mountain";

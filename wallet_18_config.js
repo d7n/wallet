@@ -1,1 +1,1 @@
-var mnemonic = "odor spy wasp olympic worth trim volume shoot carry lens stumble symptom";
+var mnemonic = "soap maple cram stock icon bargain nuclear cattle lumber fashion leg loan";

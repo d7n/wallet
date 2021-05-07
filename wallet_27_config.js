@@ -1,1 +1,1 @@
-var mnemonic = "anchor fault copy train reunion purchase small consider miss peasant slam point";
+var mnemonic = "insane wolf gym cliff fetch student review skill expire divert visual gauge";

@@ -1,1 +1,1 @@
-var mnemonic = "essence gown coast tell lecture cousin cheap dilemma vague leg pencil pond";
+var mnemonic = "disorder love reform angry chest into random man bulk silk fault orange";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar icon group fork settle amused ability december plug volume trophy pig";
+var mnemonic = "simple swap horror sense work carbon sudden learn chase attack armed ordinary";

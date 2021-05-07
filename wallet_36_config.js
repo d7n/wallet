@@ -1,1 +1,1 @@
-var mnemonic = "verify evolve odor differ ski predict hungry cricket inmate cluster core suggest";
+var mnemonic = "rabbit know fluid auto sibling frog spike differ silent swear click cabbage";

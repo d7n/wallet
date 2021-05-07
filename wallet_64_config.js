@@ -1,1 +1,1 @@
-var mnemonic = "away become piano invest elevator word burger cage wealth early calm zoo";
+var mnemonic = "leaf bone gorilla member morning lamp oppose raw wheel news flip roof";

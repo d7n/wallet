@@ -1,1 +1,1 @@
-var mnemonic = "museum baby kitten come symbol home essence express mansion various volume term";
+var mnemonic = "gossip wash remove shoulder skate sadness flat rotate crumble jar melt transfer";

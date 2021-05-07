@@ -1,1 +1,1 @@
-var mnemonic = "reject sweet search camp grid artist pledge sweet talk edit away cluster";
+var mnemonic = "army scale couch brush seed join finger document promote sad beach riot";

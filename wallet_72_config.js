@@ -1,1 +1,1 @@
-var mnemonic = "hill filter team rate rebuild puppy change clap absent amount glory sauce";
+var mnemonic = "bacon fancy lens baby into tomato spell beef sort moon disease story";

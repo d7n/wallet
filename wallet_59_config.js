@@ -1,1 +1,1 @@
-var mnemonic = "maze panel soccer pluck tribe heavy prepare eyebrow holiday before knee heavy";
+var mnemonic = "enforce avoid unique drip still kind lake wheat result scheme soft garage";

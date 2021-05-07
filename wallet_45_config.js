@@ -1,1 +1,1 @@
-var mnemonic = "antique diagram muffin mention glad merge enable catalog chunk sound acoustic fury";
+var mnemonic = "skirt injury sword paper boat kid special mystery act fame flash match";

@@ -1,1 +1,1 @@
-var mnemonic = "gasp climb attract page mistake engine menu tumble number honey furnace hen";
+var mnemonic = "afraid silly poet around math bomb rack canyon motion deal can scorpion";

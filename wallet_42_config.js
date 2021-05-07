@@ -1,1 +1,1 @@
-var mnemonic = "thunder report submit surge absent caution sunny charge paddle chase furnace life";
+var mnemonic = "twin address basket express purchase dog olive cloud crisp smart poem tackle";

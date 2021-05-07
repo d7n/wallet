@@ -1,1 +1,1 @@
-var mnemonic = "sibling cargo lounge cereal lounge noble select solar word gain lunar hope";
+var mnemonic = "diagram faith twenty human cat domain slim journey unfair uncover prepare congress";

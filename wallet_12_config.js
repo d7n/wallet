@@ -1,1 +1,1 @@
-var mnemonic = "hint hope unfold run industry grunt income casual evidence live army marine";
+var mnemonic = "silent oak enter caught oxygen wheat joy wash update eagle best load";

@@ -1,1 +1,1 @@
-var mnemonic = "profit uphold dream hood unhappy fork sibling scale cook sister arrive great";
+var mnemonic = "matter adapt buddy frost pupil word tip enter visit coin rich horror";

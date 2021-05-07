@@ -1,1 +1,1 @@
-var mnemonic = "muffin coil famous remember board shop blast client adult call adult table";
+var mnemonic = "member change believe torch minute master alpha banner project hockey submit safe";

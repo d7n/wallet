@@ -1,1 +1,1 @@
-var mnemonic = "situate word impose point finger rib dose uphold better ladder hollow toss";
+var mnemonic = "minor hope glad buzz reopen host lottery arrest oblige open casual daring";

@@ -1,1 +1,1 @@
-var mnemonic = "index fish stay come combine elder around hover ozone tenant copper giant";
+var mnemonic = "monkey usage dove upper misery garbage merge vast spider ticket promote ceiling";

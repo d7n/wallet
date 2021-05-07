@@ -1,1 +1,1 @@
-var mnemonic = "relief smooth glory unable weasel tunnel blast inform ceiling hundred scorpion tumble";
+var mnemonic = "protect tent drop off catalog used basket thumb sphere biology input infant";

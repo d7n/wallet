@@ -1,1 +1,1 @@
-var mnemonic = "token unfair twice hurdle glass worry swear oyster tower chimney depth retire";
+var mnemonic = "price fame dirt month pride section laundry visit claim street finger proof";

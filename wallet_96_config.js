@@ -1,1 +1,1 @@
-var mnemonic = "pioneer inside beyond music upon toss valve riot gesture feature lonely truck";
+var mnemonic = "pair mad off purse patient apple tiger grace pig pigeon lion chest";

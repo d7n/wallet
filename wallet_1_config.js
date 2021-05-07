@@ -1,1 +1,1 @@
-var mnemonic = "code skin price rely govern base magnet lyrics zero twin silk elite";
+var mnemonic = "document dove remember coral home recycle admit pledge sea tray taste recycle";

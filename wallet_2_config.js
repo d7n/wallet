@@ -1,1 +1,1 @@
-var mnemonic = "venue keep gorilla climb fitness lens enforce turkey alcohol space bag vessel";
+var mnemonic = "reject menu cliff organ stock mushroom mesh civil girl husband patrol pride";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle exhibit pig renew veteran lazy thunder before release oblige fossil sleep";
+var mnemonic = "foam donor clay slice deliver satoshi base unveil puzzle unable olive ecology";

@@ -1,1 +1,1 @@
-var mnemonic = "earn damage rabbit merge urge runway faith deposit raw book violin trip";
+var mnemonic = "web harvest enact town age tuition sheriff deputy essence stay grief develop";

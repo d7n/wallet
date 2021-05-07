@@ -1,1 +1,1 @@
-var mnemonic = "please major flock deer column sibling nominee over boss laundry clock blouse";
+var mnemonic = "risk cash maze target unhappy tilt wash stem drift tribe twelve august";

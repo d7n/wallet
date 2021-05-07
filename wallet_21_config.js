@@ -1,1 +1,1 @@
-var mnemonic = "light same fresh planet female crumble thunder label victory gorilla message extend";
+var mnemonic = "simple sunset consider average usage certain tackle father jar crew toss resist";

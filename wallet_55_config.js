@@ -1,1 +1,1 @@
-var mnemonic = "miracle share unfair seed athlete tennis scatter toward tornado pottery nephew such";
+var mnemonic = "ramp fancy this faculty weather pottery bleak edit script antique uphold simple";

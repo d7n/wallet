@@ -1,1 +1,1 @@
-var mnemonic = "shoulder iron they bag utility shy mass duck path super airport border";
+var mnemonic = "snack inside mosquito much future adjust task auto dog web armed vault";

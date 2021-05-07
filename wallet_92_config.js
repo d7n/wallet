@@ -1,1 +1,1 @@
-var mnemonic = "alert sun cook sword prefer brain pole potato payment child three autumn";
+var mnemonic = "deposit twice piece friend eyebrow lottery toilet gate angry athlete fly cabin";

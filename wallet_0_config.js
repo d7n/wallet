@@ -1,1 +1,1 @@
-var mnemonic = "choose bonus kick disorder cloud monitor track under fix purchase cabin exhaust";
+var mnemonic = "april myself blanket curve sheriff feed this link reveal apart pioneer item";

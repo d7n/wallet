@@ -1,1 +1,1 @@
-var mnemonic = "nuclear cotton conduct among twin magnet moon cricket hire found chunk theory";
+var mnemonic = "sponsor pave phone inspire elite normal opera rare three acquire initial position";

@@ -1,1 +1,1 @@
-var mnemonic = "october office figure protect farm neither visa cat foam energy salt fine";
+var mnemonic = "neck deal nominee glass erode razor reduce monitor car erase monkey broken";
