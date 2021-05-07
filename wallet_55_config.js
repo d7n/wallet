@@ -1,1 +1,1 @@
-var mnemonic = "notice horn this tooth false coral radio champion siren various connect depth";
+var mnemonic = "frost affair toilet valley cook orient ignore chase when grass clump funny";

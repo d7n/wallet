@@ -1,1 +1,1 @@
-var mnemonic = "glow slender blur canoe country pledge suffer false sniff between proud alpha";
+var mnemonic = "bulk stereo aware endorse nature pistol clutch pattern supply attend evil run";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange salt behind annual misery despair drift gesture mimic lizard virus scissors";
+var mnemonic = "fit safe typical link coil thrive roast unveil involve body coil sing";

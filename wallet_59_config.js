@@ -1,1 +1,1 @@
-var mnemonic = "write hat absurd sugar coin adjust bulk derive drill pet expire razor";
+var mnemonic = "pipe elder pistol awful snake road sound dinosaur tell alert huge embody";

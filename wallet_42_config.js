@@ -1,1 +1,1 @@
-var mnemonic = "food bubble flock knife nurse bean length open symptom visual genuine jeans";
+var mnemonic = "length steak merry shuffle start brush depend smoke topic people mass outdoor";

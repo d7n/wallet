@@ -1,1 +1,1 @@
-var mnemonic = "leopard decade imitate gift earth egg dial valley caught purity fossil poverty";
+var mnemonic = "upset crystal fit exist spell motor elbow mystery upgrade certain entire govern";

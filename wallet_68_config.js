@@ -1,1 +1,1 @@
-var mnemonic = "approve day raccoon cute push forum first cereal outside possible siege absorb";
+var mnemonic = "process also ocean rescue drift ice plug mosquito merit cinnamon nephew notable";

@@ -1,1 +1,1 @@
-var mnemonic = "near salad retreat obtain myself polar verify invest patch option wheel vintage";
+var mnemonic = "cereal oval fine october tuna subject tent asthma document typical fringe excite";

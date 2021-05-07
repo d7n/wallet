@@ -1,1 +1,1 @@
-var mnemonic = "budget attend tonight park space abstract ship ramp awful drum river narrow";
+var mnemonic = "meadow subway delay can adjust spirit setup aim ranch begin oval calm";

@@ -1,1 +1,1 @@
-var mnemonic = "solution stone ticket portion husband forum cement picnic spot lizard kite shadow";
+var mnemonic = "pelican nominee dry flock inquiry end level brass angle believe simple document";

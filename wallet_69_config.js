@@ -1,1 +1,1 @@
-var mnemonic = "silver payment during exchange novel horror work film frame flash clinic fantasy";
+var mnemonic = "dumb coffee green upgrade engage large alien result advance leave term vanish";

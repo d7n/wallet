@@ -1,1 +1,1 @@
-var mnemonic = "weekend duty evoke slam height champion differ milk vacuum left december brisk";
+var mnemonic = "kitchen sick hundred wreck rate six swarm across neck innocent cigar stock";

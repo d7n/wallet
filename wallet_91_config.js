@@ -1,1 +1,1 @@
-var mnemonic = "sister maple hip defy motor midnight sentence pipe unhappy walk apple speak";
+var mnemonic = "fancy bone horror unit soap staff pumpkin mammal cereal solar husband traffic";

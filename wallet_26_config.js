@@ -1,1 +1,1 @@
-var mnemonic = "wire abandon affair labor club gate finger judge flight oxygen trash join";
+var mnemonic = "drift online design alien replace soda rival helmet wife flock pipe mass";

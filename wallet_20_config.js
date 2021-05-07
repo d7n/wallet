@@ -1,1 +1,1 @@
-var mnemonic = "scrub valley need stomach federal cluster summer cause similar roast leader banana";
+var mnemonic = "sea entire hill host valley avoid seat purchase possible vote addict train";

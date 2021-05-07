@@ -1,1 +1,1 @@
-var mnemonic = "aerobic liberty soda hollow earn later blade toe assume option crystal blame";
+var mnemonic = "extra hat ring wrap miss bus grace illness guilt bike arena gap";

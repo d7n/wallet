@@ -1,1 +1,1 @@
-var mnemonic = "ten champion crisp lava call catch possible connect change peace evolve voice";
+var mnemonic = "also thank roof boss february online fetch remind blush shoulder glimpse sample";

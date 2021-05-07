@@ -1,1 +1,1 @@
-var mnemonic = "middle aerobic kitchen topic rich improve pause crew climb silver depart settle";
+var mnemonic = "calm leisure prefer damp between vault basic afraid shield tower need clip";

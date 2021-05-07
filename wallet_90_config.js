@@ -1,1 +1,1 @@
-var mnemonic = "strategy stove tooth purpose wall unit endless happy camera flight album chaos";
+var mnemonic = "spend jungle slot cup auction motor nose sea novel trouble hire ship";

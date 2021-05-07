@@ -1,1 +1,1 @@
-var mnemonic = "vast fresh lunch rack bronze mobile path expose wife pizza slice chronic";
+var mnemonic = "upgrade equal harsh volcano uphold produce soccer toddler divert infant fresh sense";

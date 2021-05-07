@@ -1,1 +1,1 @@
-var mnemonic = "carbon supply regret return protect avocado race tape solar card divide screen";
+var mnemonic = "like cinnamon grunt rebuild loyal noble congress online law now portion syrup";

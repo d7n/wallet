@@ -1,1 +1,1 @@
-var mnemonic = "number race craft phrase memory fatal social quiz net beef eternal security";
+var mnemonic = "heavy elegant practice rent resource increase wing country thought spare identify remain";

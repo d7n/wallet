@@ -1,1 +1,1 @@
-var mnemonic = "save cry beyond ritual feed quote attract broom cabbage hover topic marble";
+var mnemonic = "december maid hub upon tuition picture cancel name calm proof raven chief";

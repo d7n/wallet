@@ -1,1 +1,1 @@
-var mnemonic = "gold update solve explain verify weather parent acid crumble decide wide order";
+var mnemonic = "say hold dragon dignity exercise cube enrich film warfare river analyst oak";

@@ -1,1 +1,1 @@
-var mnemonic = "file primary spoil keen december proud choose brave film video melody trade";
+var mnemonic = "perfect snack force obvious office enforce walk together guide antenna breeze exist";

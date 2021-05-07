@@ -1,1 +1,1 @@
-var mnemonic = "moment tree steak remember always clog agent tail baby guide net enhance";
+var mnemonic = "woman recycle side caught thought sample space vibrant wheel diagram permit account";

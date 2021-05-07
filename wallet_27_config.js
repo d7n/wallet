@@ -1,1 +1,1 @@
-var mnemonic = "eagle almost actress gloom ranch garden erase mobile lion muffin van staff";
+var mnemonic = "nose give north step laundry income crawl blossom life ignore ladder van";

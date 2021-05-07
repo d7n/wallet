@@ -1,1 +1,1 @@
-var mnemonic = "question update predict firm humble mansion sun hundred double hub play lizard";
+var mnemonic = "mesh chaos grief theme clap phone face must cruel elder gold omit";

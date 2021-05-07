@@ -1,1 +1,1 @@
-var mnemonic = "best finish grow art absent edit tree blood holiday oblige shaft poet";
+var mnemonic = "appear twin repair tourist draw stock short interest slight act excess hand";

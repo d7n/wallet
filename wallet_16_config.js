@@ -1,1 +1,1 @@
-var mnemonic = "decorate notice load long trigger alarm elevator honey absorb lift lab crack";
+var mnemonic = "they radio dwarf cabbage pumpkin skate burst surprise resemble bright mule ski";

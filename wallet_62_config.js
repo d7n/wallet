@@ -1,1 +1,1 @@
-var mnemonic = "enough sure blanket donate idle water earth creek permit foam series love";
+var mnemonic = "wrong grain donor praise surround inherit addict head reject turn isolate absent";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery similar mouse bunker lunar mobile faith gospel marine call trick alley";
+var mnemonic = "verify abuse scatter rare quit scrap hurt faint right antenna name season";

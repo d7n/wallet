@@ -1,1 +1,1 @@
-var mnemonic = "end tank enjoy outer cherry sort claw battle million monkey hundred quick";
+var mnemonic = "evoke ghost menu black knee crane pigeon couple round rib matter angry";

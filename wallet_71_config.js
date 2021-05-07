@@ -1,1 +1,1 @@
-var mnemonic = "enforce spray blanket room can crisp sleep accident mirror drill tag dynamic";
+var mnemonic = "essence assume enhance patrol general object dress gain grunt winter angry fall";

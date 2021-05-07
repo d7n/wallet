@@ -1,1 +1,1 @@
-var mnemonic = "whisper rely stove theory armor cigar prepare circle shaft put twin hundred";
+var mnemonic = "nasty only maid ball quick calm panic into robust dinosaur cage duck";

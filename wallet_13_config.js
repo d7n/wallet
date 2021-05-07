@@ -1,1 +1,1 @@
-var mnemonic = "burden school battle place trick almost army stay impulse jungle apple hotel";
+var mnemonic = "fetch actress imitate cradle shrug poem tooth client frown reopen print old";

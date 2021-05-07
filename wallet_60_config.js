@@ -1,1 +1,1 @@
-var mnemonic = "mouse zoo news object blanket unit toward desk leopard paper cart boring";
+var mnemonic = "range kidney involve sibling cotton robust source motion bracket unique crater remove";

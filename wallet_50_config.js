@@ -1,1 +1,1 @@
-var mnemonic = "clarify tornado rose day apart proud curve crumble spike monster ethics gaze";
+var mnemonic = "picnic omit divorce leisure you wire offer best base upset raven people";

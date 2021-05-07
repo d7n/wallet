@@ -1,1 +1,1 @@
-var mnemonic = "space gentle animal interest canvas couple duty enemy trash century salad doctor";
+var mnemonic = "welcome erosion loop error kind between struggle bone dish bulb can butter";

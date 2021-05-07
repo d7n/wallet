@@ -1,1 +1,1 @@
-var mnemonic = "urban access draw alcohol future lawn festival romance swarm arrive increase short";
+var mnemonic = "robot document mixture perfect half that laugh idle deny borrow print loud";

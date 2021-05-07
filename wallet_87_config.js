@@ -1,1 +1,1 @@
-var mnemonic = "weapon viable fiscal copper wash edge decade drink youth document usage mail";
+var mnemonic = "unaware filter doctor shift outdoor salt silly latin flip depart carbon report";

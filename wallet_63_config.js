@@ -1,1 +1,1 @@
-var mnemonic = "oak quick perfect bind whip match modify wife cat want cheese capable";
+var mnemonic = "huge vacant utility picture erode item rookie coral story magic margin shoot";

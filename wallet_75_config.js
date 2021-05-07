@@ -1,1 +1,1 @@
-var mnemonic = "exotic speed media client smooth nurse coral taste pumpkin endless camp once";
+var mnemonic = "cute evidence chef dry boat check chase apple tourist romance swift weapon";

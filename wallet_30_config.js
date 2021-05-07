@@ -1,1 +1,1 @@
-var mnemonic = "virus donate vote tower silk sphere ivory shallow exact immense doctor august";
+var mnemonic = "olympic zone toilet resemble divert barrel athlete flip hedgehog banana trumpet item";

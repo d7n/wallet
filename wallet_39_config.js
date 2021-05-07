@@ -1,1 +1,1 @@
-var mnemonic = "enjoy hint brush paddle spike fee cruise sorry that whisper stage soft";
+var mnemonic = "vault smart horn gift erode silk rigid similar outside auction sibling federal";

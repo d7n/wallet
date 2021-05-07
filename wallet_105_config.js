@@ -1,1 +1,1 @@
-var mnemonic = "surround spot order brush scrap siren scan require expose remember skill cotton";
+var mnemonic = "cotton menu frown inhale bone shift tongue cloth riot analyst barrel crisp";

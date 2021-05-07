@@ -1,1 +1,1 @@
-var mnemonic = "bean possible member clog level hour ankle dose note husband custom veteran";
+var mnemonic = "blouse plunge awkward alien slush school page valley either thumb bullet sing";

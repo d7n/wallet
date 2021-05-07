@@ -1,1 +1,1 @@
-var mnemonic = "first talk scrap lens oppose action tube mix swarm code tornado search";
+var mnemonic = "liar voice shell gate wrap casino someone renew pioneer nose sport drastic";

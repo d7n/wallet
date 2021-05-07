@@ -1,1 +1,1 @@
-var mnemonic = "negative rotate remove oak asthma remind dinner express shoulder eagle tree spring";
+var mnemonic = "safe disorder response address jeans square switch world rhythm often siren style";

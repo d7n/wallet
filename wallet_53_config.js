@@ -1,1 +1,1 @@
-var mnemonic = "wreck chaos excess embody hospital journey lecture harvest amount spare kid setup";
+var mnemonic = "similar galaxy model lab violin level isolate focus antenna vital tree dance";

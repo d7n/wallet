@@ -1,1 +1,1 @@
-var mnemonic = "earth glow during purity transfer waste shallow wall witness stay know ancient";
+var mnemonic = "ceiling act roast memory decorate stomach rice exile lazy ladder obscure document";

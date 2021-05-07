@@ -1,1 +1,1 @@
-var mnemonic = "judge wear belt voyage execute misery movie page insane negative unusual master";
+var mnemonic = "face feature volume trim enemy shrimp smooth pilot magnet soup duty myself";

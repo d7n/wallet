@@ -1,1 +1,1 @@
-var mnemonic = "paddle seat zone social vehicle swap junk minute assume work whale robust";
+var mnemonic = "nut run tower chicken genuine cat shoe brick indicate lizard pattern crop";

@@ -1,1 +1,1 @@
-var mnemonic = "obscure move urban again mechanic chuckle nuclear hurry allow dwarf hurt gospel";
+var mnemonic = "equip mosquito educate lounge usual gloom inquiry sheriff kidney borrow exact echo";

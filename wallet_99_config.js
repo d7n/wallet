@@ -1,1 +1,1 @@
-var mnemonic = "traffic lawsuit position around round square wheel frost minor pretty tragic dish";
+var mnemonic = "book forum parade man parrot finger west hedgehog section bleak spray found";

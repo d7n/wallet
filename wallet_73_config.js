@@ -1,1 +1,1 @@
-var mnemonic = "north domain riot loan eye blouse concert index group change vanish general";
+var mnemonic = "nerve lyrics account version express leisure scheme bar category warrior hockey wall";

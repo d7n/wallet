@@ -1,1 +1,1 @@
-var mnemonic = "neglect palace prize street subway achieve supreme occur prize above boat unfair";
+var mnemonic = "beauty morning swarm large latin tilt century fragile arch laundry extra drink";

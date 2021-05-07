@@ -1,1 +1,1 @@
-var mnemonic = "always type soft puzzle private fine guide physical sentence float regular brief";
+var mnemonic = "recall peasant yard panel retire lecture horse prepare pool like early home";

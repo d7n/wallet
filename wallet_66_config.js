@@ -1,1 +1,1 @@
-var mnemonic = "unhappy situate pyramid same kind sadness alert verb laugh jealous economy feel";
+var mnemonic = "join change flavor brick camp draft extra token young transfer quick fade";

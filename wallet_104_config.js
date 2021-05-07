@@ -1,1 +1,1 @@
-var mnemonic = "super path spike benefit surround theme amused ugly erosion frost seed daring";
+var mnemonic = "unfair dilemma chimney call marble edit bundle receive assault slight huge forest";

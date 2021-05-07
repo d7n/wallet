@@ -1,1 +1,1 @@
-var mnemonic = "artwork moon correct crisp weapon crawl mammal tool attack salad setup cash";
+var mnemonic = "mind soup hedgehog design tribe found comfort scale meadow egg vehicle sad";

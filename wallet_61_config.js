@@ -1,1 +1,1 @@
-var mnemonic = "across wreck party fall chronic index analyst feature hunt gorilla sign harsh";
+var mnemonic = "dove ginger student zoo public whale cube fan story scorpion vapor camp";

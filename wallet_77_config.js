@@ -1,1 +1,1 @@
-var mnemonic = "orphan casual sea custom cable forum slush find muscle canal asset cabbage";
+var mnemonic = "rocket verify cloud naive december soda acquire minute august bleak unlock sense";

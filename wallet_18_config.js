@@ -1,1 +1,1 @@
-var mnemonic = "tobacco entry tooth youth pony provide certain observe pudding three above crack";
+var mnemonic = "aunt blood panic reunion trick hospital turtle conduct creek wrestle game slight";

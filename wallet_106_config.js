@@ -1,1 +1,1 @@
-var mnemonic = "stumble ask taxi surface minute rigid remain expose film weather space crawl";
+var mnemonic = "army trim rifle magnet vendor boost stairs impulse squirrel father bunker narrow";

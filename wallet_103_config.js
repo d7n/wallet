@@ -1,1 +1,1 @@
-var mnemonic = "region music boy label mixed bright stomach excite roof will turn genuine";
+var mnemonic = "wrestle lizard whisper debate butter radar inch acoustic predict squirrel cook soup";

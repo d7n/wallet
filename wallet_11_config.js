@@ -1,1 +1,1 @@
-var mnemonic = "glide flip help another mobile funny paper sadness mad initial dumb victory";
+var mnemonic = "frown dust desk settle tortoise attack nose program ceiling tent galaxy coyote";

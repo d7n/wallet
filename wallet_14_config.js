@@ -1,1 +1,1 @@
-var mnemonic = "good oblige agent path umbrella inhale ketchup beyond royal screen much pizza";
+var mnemonic = "off join survey decorate outer chronic silver voice define educate work stomach";

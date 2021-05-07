@@ -1,1 +1,1 @@
-var mnemonic = "pottery cry ecology soon over gallery tray run cube boat aspect burden";
+var mnemonic = "spell route story shoe photo legend siren wagon general live ensure fish";

@@ -1,1 +1,1 @@
-var mnemonic = "comic beach weather budget base transfer ghost magnet course version mimic venture";
+var mnemonic = "oval dumb cage order digital entire skirt welcome drama educate dawn display";

@@ -1,1 +1,1 @@
-var mnemonic = "wise acoustic second recycle burst eager sword bonus skull medal online loud";
+var mnemonic = "blind divide toilet laugh odor collect birth river prevent leisure angry bird";

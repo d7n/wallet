@@ -1,1 +1,1 @@
-var mnemonic = "pond drip bike erosion hockey decorate name useless dream item border pear";
+var mnemonic = "remain couch emotion hurdle unknown adult medal armor dinner water wolf salon";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual doll ridge rabbit detect ability exile replace net canoe stadium earn";
+var mnemonic = "fix cancel hollow recipe mutual cousin similar person surround pipe tank inside";

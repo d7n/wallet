@@ -1,1 +1,1 @@
-var mnemonic = "spoil tube member casino human siren depend mesh vanish ostrich arrange napkin";
+var mnemonic = "bind lesson spoil stuff lizard polar invest elephant organ clay belt hand";

@@ -1,1 +1,1 @@
-var mnemonic = "dignity choice punch wear shiver boat lounge now kangaroo deer square shine";
+var mnemonic = "patrol verify famous animal wish paddle make stadium material clinic pudding identify";

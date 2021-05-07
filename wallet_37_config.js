@@ -1,1 +1,1 @@
-var mnemonic = "spice stem artefact owner stamp shop close plate alert capable very ladder";
+var mnemonic = "there worry brick cigar hockey hold unveil such matrix clown rebel pyramid";

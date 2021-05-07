@@ -1,1 +1,1 @@
-var mnemonic = "ketchup blur inherit short october spot number cherry energy tenant holiday market";
+var mnemonic = "plate emotion broccoli invite grace spare vast upset news pumpkin alpha increase";

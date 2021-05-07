@@ -1,1 +1,1 @@
-var mnemonic = "twenty height height invest labor start nephew zone mystery ordinary pledge beach";
+var mnemonic = "turkey deliver claw elbow series lumber torch clump ancient lawsuit ancient cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "dog double luxury field habit ostrich rescue trouble charge pride guess cigar";
+var mnemonic = "paddle hobby decorate injury bitter cute volcano salute course enact creek shallow";

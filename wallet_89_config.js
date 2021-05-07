@@ -1,1 +1,1 @@
-var mnemonic = "side brother chapter tomorrow pelican birth carry angry pave vast require lumber";
+var mnemonic = "squeeze urban become okay across tooth sound brick ramp mesh bid suit";

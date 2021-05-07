@@ -1,1 +1,1 @@
-var mnemonic = "crouch wagon just leaf bachelor inquiry project essence stay ancient mango put";
+var mnemonic = "water setup bring again rival account peanut twin omit anchor match obscure";

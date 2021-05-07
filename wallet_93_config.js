@@ -1,1 +1,1 @@
-var mnemonic = "noise capital tank horn chair nephew virus pear rival diary orphan occur";
+var mnemonic = "call maple silk office tongue fatal jaguar two grocery acoustic cave cart";

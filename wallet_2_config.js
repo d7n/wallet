@@ -1,1 +1,1 @@
-var mnemonic = "seven board exhibit net unlock renew grunt find prefer rebel material need";
+var mnemonic = "west bitter home poem expose impose rhythm blame token woman cash water";

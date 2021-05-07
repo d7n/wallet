@@ -1,1 +1,1 @@
-var mnemonic = "adult never please host argue word sample twice comic ritual vault develop";
+var mnemonic = "three aisle always income bottom total purpose reveal soon whale invite various";

@@ -1,1 +1,1 @@
-var mnemonic = "body mirror message moral rocket fury detail slab region hole add frog";
+var mnemonic = "potato jeans leader goddess tumble disagree squirrel oil exotic jaguar visual pig";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology century ocean vibrant also access soccer broom west father reason script";
+var mnemonic = "melt beach nature soldier flash bulb bounce melody bachelor draft room zebra";

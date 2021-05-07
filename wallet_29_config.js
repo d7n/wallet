@@ -1,1 +1,1 @@
-var mnemonic = "debris praise dial night average era turtle donor harsh rival neglect lemon";
+var mnemonic = "cover erupt away make dad scale muffin smart salon cannon amazing skill";

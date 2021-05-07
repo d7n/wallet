@@ -1,1 +1,1 @@
-var mnemonic = "turkey insane alien summer simple claim wide ceiling sentence settle essence toy";
+var mnemonic = "guard chimney blood bind elevator man empty position metal motion lyrics picnic";

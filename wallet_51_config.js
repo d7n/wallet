@@ -1,1 +1,1 @@
-var mnemonic = "expire bargain between cruel toddler toss road grow want robot fashion doll";
+var mnemonic = "spike slot child depart fan divide winter muffin similar phrase seminar obscure";

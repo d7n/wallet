@@ -1,1 +1,1 @@
-var mnemonic = "oil educate crazy three screen twenty level uphold pause beach clerk scheme";
+var mnemonic = "present weekend town another dress where episode photo scene impose prosper relax";

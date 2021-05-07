@@ -1,1 +1,1 @@
-var mnemonic = "chimney deliver palace cream plastic round enforce scissors inside school invite unusual";
+var mnemonic = "actress trap lawsuit jump wreck glass series wine force enough actress kind";

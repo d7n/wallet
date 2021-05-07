@@ -1,1 +1,1 @@
-var mnemonic = "pupil urge disorder marriage shift library liberty shrug wear stick country drastic";
+var mnemonic = "slab atom fashion biology history job mind glance vivid need dice video";

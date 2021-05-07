@@ -1,1 +1,1 @@
-var mnemonic = "swing fortune educate leg bicycle unusual region repair siege almost economy confirm";
+var mnemonic = "antenna love evil arrest good bunker manage warm faculty crawl problem extra";
