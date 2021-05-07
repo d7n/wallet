@@ -1,1 +1,1 @@
-var mnemonic = "hamster decade police spend boring gown bullet beach write hip muscle marble";
+var mnemonic = "mass romance master useful tower involve about circle regret depth eager quantum";

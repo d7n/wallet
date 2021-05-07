@@ -1,1 +1,1 @@
-var mnemonic = "adjust tilt profit water travel burger food smart noodle object label length";
+var mnemonic = "common ocean armed print stomach tube trade foster panic outdoor sign execute";

@@ -1,1 +1,1 @@
-var mnemonic = "wide mosquito typical divide jealous stick core legend syrup any few leisure";
+var mnemonic = "total sing burst settle load bulk iron soul bread obtain leader divorce";

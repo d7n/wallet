@@ -1,1 +1,1 @@
-var mnemonic = "wrist valve decline enjoy tragic range toilet fly soup dismiss all merry";
+var mnemonic = "thrive park tomato develop chicken attack shaft gather grass scrub chicken visit";

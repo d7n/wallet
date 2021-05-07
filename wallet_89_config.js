@@ -1,1 +1,1 @@
-var mnemonic = "arena put unhappy rail stairs virus vibrant crawl verify slab radar code";
+var mnemonic = "picnic congress dial again spell alcohol hurdle chef fancy try extra vessel";

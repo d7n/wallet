@@ -1,1 +1,1 @@
-var mnemonic = "place curve link birth jazz decrease wisdom clarify bid enhance amount seven";
+var mnemonic = "sausage grid repeat wealth quarter regret blame isolate remain brother exotic park";

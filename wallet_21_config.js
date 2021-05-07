@@ -1,1 +1,1 @@
-var mnemonic = "fee thrive sing damp timber track protect illness scrap decide color enrich";
+var mnemonic = "boat spice february possible wide gift enough more fiscal screen tail equip";

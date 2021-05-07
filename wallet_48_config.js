@@ -1,1 +1,1 @@
-var mnemonic = "come guilt protect nurse upon nerve flavor palace obey cost school season";
+var mnemonic = "stick distance name canoe spring owner bunker action mutual perfect gravity animal";

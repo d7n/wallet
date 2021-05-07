@@ -1,1 +1,1 @@
-var mnemonic = "few color organ flavor swamp neck control cruel hockey trial skull slice";
+var mnemonic = "oxygen review island other pluck panda dignity host electric garment exotic cruise";

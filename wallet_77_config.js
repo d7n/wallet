@@ -1,1 +1,1 @@
-var mnemonic = "family atom update erase onion chef parrot solution view rose during unknown";
+var mnemonic = "similar diet skull spot arrange black diagram tuition nose riot viable mimic";

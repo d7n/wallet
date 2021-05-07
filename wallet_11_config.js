@@ -1,1 +1,1 @@
-var mnemonic = "six sorry detect panic snow fat depart notice dentist excuse kiss remind";
+var mnemonic = "practice knife awkward kitchen crumble prepare ivory forget citizen essence acoustic shift";

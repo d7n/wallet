@@ -1,1 +1,1 @@
-var mnemonic = "process tail steak online control reward slide curious laundry arrive blast year";
+var mnemonic = "segment silent miracle adjust prevent galaxy outdoor stable expand service squeeze clever";

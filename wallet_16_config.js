@@ -1,1 +1,1 @@
-var mnemonic = "odor rotate riot wall slush flat velvet believe predict daring lunch old";
+var mnemonic = "current collect cross joy address movie laugh lens math hat season opera";

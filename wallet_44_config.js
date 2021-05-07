@@ -1,1 +1,1 @@
-var mnemonic = "person open finish develop daring sword waste ramp develop oxygen twist erase";
+var mnemonic = "sketch useless heart option element like derive butter scissors negative glare hill";

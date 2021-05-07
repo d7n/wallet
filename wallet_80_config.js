@@ -1,1 +1,1 @@
-var mnemonic = "never discover fork barely paddle turn duck goat bus century poem brief";
+var mnemonic = "diary addict duck capital wear energy panel artwork squirrel hill rough evoke";

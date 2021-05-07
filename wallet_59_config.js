@@ -1,1 +1,1 @@
-var mnemonic = "blush measure exact remove slow solve penalty wealth jazz essence tent canyon";
+var mnemonic = "wine pluck knee wreck jungle pitch oyster case panel radio small enact";

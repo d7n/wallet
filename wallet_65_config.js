@@ -1,1 +1,1 @@
-var mnemonic = "move moon bind pizza rescue weapon patrol what casino exclude ritual depend";
+var mnemonic = "use shadow shallow layer car eager kiss speed mechanic fold ticket vacant";

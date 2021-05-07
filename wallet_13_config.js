@@ -1,1 +1,1 @@
-var mnemonic = "alcohol oven step cloud grain business twelve old oblige knife knee dolphin";
+var mnemonic = "tomorrow novel forum gap advance unusual text burger art dog park couch";

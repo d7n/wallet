@@ -1,1 +1,1 @@
-var mnemonic = "cradle father shell sphere predict lawn fossil stick review pottery unique speak";
+var mnemonic = "hen athlete slide bulb timber super disagree enact spoon panic mutual debate";

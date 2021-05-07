@@ -1,1 +1,1 @@
-var mnemonic = "innocent web orient route train small feature ghost fruit slow lamp limit";
+var mnemonic = "timber away mimic burden very virus bleak order portion envelope journey valley";

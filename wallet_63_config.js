@@ -1,1 +1,1 @@
-var mnemonic = "knee liberty easily pony quiz angry type once flee alarm behave fun";
+var mnemonic = "network elder domain water tooth demand smart artefact add erupt omit certain";

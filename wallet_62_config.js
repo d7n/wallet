@@ -1,1 +1,1 @@
-var mnemonic = "gate clarify simple congress arrest glow future cement cook merge where holiday";
+var mnemonic = "heart check panda whisper project movie convince leopard skirt walk ecology thunder";

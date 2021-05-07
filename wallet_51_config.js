@@ -1,1 +1,1 @@
-var mnemonic = "liar budget inherit degree when stomach giraffe build canvas nothing oyster anger";
+var mnemonic = "area tackle acoustic champion region genuine atom artwork search swarm pig steak";

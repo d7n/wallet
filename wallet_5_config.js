@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow aim dilemma mobile million topic ordinary today just raven angle castle";
+var mnemonic = "dizzy evoke alone raven chef invite knee market flavor airport earth leg";

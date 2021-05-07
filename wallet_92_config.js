@@ -1,1 +1,1 @@
-var mnemonic = "harbor awake also silver domain flock upon almost effort hover damage silent";
+var mnemonic = "remain orchard half clump fame bleak blade trigger cheese guitar one gravity";

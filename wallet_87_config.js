@@ -1,1 +1,1 @@
-var mnemonic = "wool riot tell stuff tomorrow purity chair naive ignore bracket increase camera";
+var mnemonic = "owner bus nut bag kingdom tackle industry bamboo glare poverty despair team";

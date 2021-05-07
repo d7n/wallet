@@ -1,1 +1,1 @@
-var mnemonic = "puzzle hollow earn defense tube couch teach hope attack hire battle torch";
+var mnemonic = "wisdom hold cousin craft album candy toy fit argue story awkward system";

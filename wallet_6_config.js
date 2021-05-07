@@ -1,1 +1,1 @@
-var mnemonic = "harbor clip soft label obscure manual found wonder garbage country winter youth";
+var mnemonic = "tourist rate viable robust army tooth speed course rebuild hen enroll then";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown grocery arrive vehicle orbit cruel praise connect public total quick bridge";
+var mnemonic = "beyond beef fiscal wife arctic rather circle coyote patch replace virtual clean";

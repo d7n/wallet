@@ -1,1 +1,1 @@
-var mnemonic = "unveil online baby vacuum very host simple reveal rely arch drama kite";
+var mnemonic = "rather worry expire gloom visa ready slab mother surface exotic help juice";

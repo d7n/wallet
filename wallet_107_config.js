@@ -1,1 +1,1 @@
-var mnemonic = "brick worth expect sense wet case fame mix engage east alert loyal";
+var mnemonic = "refuse citizen season stay rich stock blast crouch basket weekend hold picnic";

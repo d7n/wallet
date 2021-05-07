@@ -1,1 +1,1 @@
-var mnemonic = "arm runway cousin ten dinner arch there unveil razor inmate tuna tomato";
+var mnemonic = "toast square neither educate laundry beyond inmate theory goat system anchor feature";

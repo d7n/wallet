@@ -1,1 +1,1 @@
-var mnemonic = "now talk sample cement math enemy tag stock patient coach about tiger";
+var mnemonic = "off struggle team century swamp rural strategy split taste claw laugh amazing";

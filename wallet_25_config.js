@@ -1,1 +1,1 @@
-var mnemonic = "twin exchange note page phrase random amazing device clay true alone inmate";
+var mnemonic = "metal use wage pause rural piece island add address poem apple coral";

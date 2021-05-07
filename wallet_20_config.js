@@ -1,1 +1,1 @@
-var mnemonic = "sound mixed stereo almost napkin segment tortoise century craft sea dragon deputy";
+var mnemonic = "mother master prize high tiger unlock table click blur mad glance route";

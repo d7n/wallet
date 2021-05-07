@@ -1,1 +1,1 @@
-var mnemonic = "cry report tackle purpose month civil foil peace steak chest unit exhaust";
+var mnemonic = "feed strong license token piano eager runway apology sadness room age shallow";

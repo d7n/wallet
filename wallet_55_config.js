@@ -1,1 +1,1 @@
-var mnemonic = "actor item canoe circle spy combine cable aisle sauce tortoise entry seed";
+var mnemonic = "foam embark render promote matrix cinnamon crater connect slab easy family trend";

@@ -1,1 +1,1 @@
-var mnemonic = "margin grocery assist apart dad lamp hard obscure toast suspect junior trick";
+var mnemonic = "bacon source level food music feel fringe three soul parade stem fortune";

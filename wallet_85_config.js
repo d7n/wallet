@@ -1,1 +1,1 @@
-var mnemonic = "fall normal orange gym inside hybrid trigger then kitten answer dress slogan";
+var mnemonic = "image vessel scrap brass click train require auto play expire achieve diagram";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow across inch phrase enjoy video summer select dune cloud social receive";
+var mnemonic = "friend weekend magic bamboo worth run easily liquid brand skin trap weasel";

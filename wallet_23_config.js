@@ -1,1 +1,1 @@
-var mnemonic = "wall seven fish rich shiver snake hunt today grape project live fame";
+var mnemonic = "breeze tray loop range provide time width minimum hood toe hat protect";

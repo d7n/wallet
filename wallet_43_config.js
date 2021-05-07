@@ -1,1 +1,1 @@
-var mnemonic = "slab fringe thank little fall poet blanket glide liar sand venue memory";
+var mnemonic = "tree people apart veteran gain lazy enable armor quality boat fossil pact";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual fun duty timber dinner spider resemble worth term matter portion funny";
+var mnemonic = "wire popular usage resemble goat polar captain stage ivory industry afraid acid";

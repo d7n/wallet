@@ -1,1 +1,1 @@
-var mnemonic = "correct forward rigid noise tortoise wrong fashion plastic choose call tube weekend";
+var mnemonic = "fury dolphin ring tray cool moment winter squirrel dress web decide power";

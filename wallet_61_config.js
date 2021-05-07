@@ -1,1 +1,1 @@
-var mnemonic = "shed employ ketchup reunion tuna hurdle behind crash flush tuna caution sign";
+var mnemonic = "typical erupt field wave useful split live thought board select garment okay";

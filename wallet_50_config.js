@@ -1,1 +1,1 @@
-var mnemonic = "umbrella negative fine truly master enact slide time bulb trigger stumble snow";
+var mnemonic = "great early oval sound october lobster useless potato upon pause rib ribbon";

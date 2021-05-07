@@ -1,1 +1,1 @@
-var mnemonic = "dream dawn device tail switch ivory gun silver antenna life away obscure";
+var mnemonic = "term step teach boy key left crush notable stand citizen giraffe laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "edit relax caught fresh seven call outer asthma retire anchor nice profit";
+var mnemonic = "nose spot good pact pledge luggage false scorpion cable area empower quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen mirror domain about month mouse pudding entry major eagle blanket spirit";
+var mnemonic = "anchor sea universe picnic current accuse enough nurse royal title robot goat";

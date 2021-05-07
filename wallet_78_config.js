@@ -1,1 +1,1 @@
-var mnemonic = "car step liar taste absorb patrol fury ankle crop walnut boy toss";
+var mnemonic = "paper horror valve decrease curious scare oil chicken bid magnet win shove";

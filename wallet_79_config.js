@@ -1,1 +1,1 @@
-var mnemonic = "census actor car bright surface notice weekend shield prepare theory dish assault";
+var mnemonic = "fix journey possible worth choice boss dash hub dignity salute cube fantasy";

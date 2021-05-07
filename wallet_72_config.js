@@ -1,1 +1,1 @@
-var mnemonic = "increase member song tower speed switch panic drive wrap aware connect mesh";
+var mnemonic = "egg prevent lucky unit budget improve tourist shoulder elder shed defense nephew";

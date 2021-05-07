@@ -1,1 +1,1 @@
-var mnemonic = "humor total toilet universe virus napkin wheat doctor chief walk ribbon champion";
+var mnemonic = "fabric give onion refuse clarify motion advice hurdle hazard bright donate mandate";

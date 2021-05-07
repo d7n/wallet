@@ -1,1 +1,1 @@
-var mnemonic = "spike scorpion foster mango language tunnel amazing clay patrol gate about episode";
+var mnemonic = "winter decorate grape radar warrior media solve come abuse ginger state parrot";

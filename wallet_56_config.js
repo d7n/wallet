@@ -1,1 +1,1 @@
-var mnemonic = "donkey diamond noble impact jar ozone can lunch grant grab basic siege";
+var mnemonic = "motion shop used ramp airport pole curtain prize error debate novel general";

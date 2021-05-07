@@ -1,1 +1,1 @@
-var mnemonic = "swing muscle muffin mobile tide chicken company diamond slot point denial swallow";
+var mnemonic = "verb stage census clump domain local eagle power bottom across depth fiber";

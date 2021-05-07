@@ -1,1 +1,1 @@
-var mnemonic = "truth notice quantum suggest glow leisure wise educate truth execute motion exotic";
+var mnemonic = "track despair final laptop target thing slam journey traffic company cabbage speed";

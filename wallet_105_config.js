@@ -1,1 +1,1 @@
-var mnemonic = "remind cute pink face sound use top kingdom sausage false sight reflect";
+var mnemonic = "wise winter length tide assist artist diet gown venue innocent hat hint";

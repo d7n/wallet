@@ -1,1 +1,1 @@
-var mnemonic = "soldier alien embody grunt return remain kid fork powder night draft target";
+var mnemonic = "cook core much mail gravity angry sand barrel category gorilla season tongue";

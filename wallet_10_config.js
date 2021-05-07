@@ -1,1 +1,1 @@
-var mnemonic = "boy reduce monitor planet transfer ride hero source mule exercise place victory";
+var mnemonic = "brand traffic second little avocado angle stove pear wool melt enact voice";

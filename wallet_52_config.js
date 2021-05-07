@@ -1,1 +1,1 @@
-var mnemonic = "once illegal truly wish dove limb butter promote blood snack apart pitch";
+var mnemonic = "mechanic turtle gather two maid poet gaze host company plunge drip tortoise";

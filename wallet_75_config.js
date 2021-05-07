@@ -1,1 +1,1 @@
-var mnemonic = "drum travel shoe miss little unusual science awake jazz kit butter novel";
+var mnemonic = "loud rather repair what ramp biology found apart clutch twenty junior cushion";

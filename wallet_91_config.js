@@ -1,1 +1,1 @@
-var mnemonic = "language umbrella fix regret hair pet bundle right total mean artist spike";
+var mnemonic = "valid assist garment category track cycle audit end remove ankle vault divorce";

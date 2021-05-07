@@ -1,1 +1,1 @@
-var mnemonic = "auto leave pool crystal click prefer favorite pizza intact cabbage cruel media";
+var mnemonic = "stumble kid acid area badge bike another wait advance canal hope minute";

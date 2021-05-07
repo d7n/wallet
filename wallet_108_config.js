@@ -1,1 +1,1 @@
-var mnemonic = "burger supreme unfair hover party explain fiction lemon hurdle friend faith earn";
+var mnemonic = "extra focus drink unit long market cup member bench account frequent diet";

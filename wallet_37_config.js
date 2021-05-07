@@ -1,1 +1,1 @@
-var mnemonic = "verify height joy repair soft price ripple until enforce base robust believe";
+var mnemonic = "jelly hawk bike useless album say shine december among gift bronze ripple";

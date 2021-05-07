@@ -1,1 +1,1 @@
-var mnemonic = "plate trim saddle destroy remain spell mutual dice around tongue agree manage";
+var mnemonic = "spray oven echo vibrant animal wheel fun copy hat rare nerve fix";

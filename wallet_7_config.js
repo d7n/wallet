@@ -1,1 +1,1 @@
-var mnemonic = "observe call near creek frown april peace sword ranch simple inhale cereal";
+var mnemonic = "lobster bargain replace finger unit advice dish dwarf marble scatter lyrics august";

@@ -1,1 +1,1 @@
-var mnemonic = "submit canal panda element wild wife panic alley antenna urban annual run";
+var mnemonic = "dinner remind prefer genuine carpet arrive post income bargain initial road verify";

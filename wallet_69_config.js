@@ -1,1 +1,1 @@
-var mnemonic = "select sun congress stay apart theme life digital castle number drama gun";
+var mnemonic = "tube surge track found minor vanish medal depart catalog camera steel elegant";

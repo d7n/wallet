@@ -1,1 +1,1 @@
-var mnemonic = "science kick toast tragic paddle nasty silent rookie model opinion mushroom admit";
+var mnemonic = "audit desk estate miss lady sugar coach dice title gospel swim path";

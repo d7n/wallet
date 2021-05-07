@@ -1,1 +1,1 @@
-var mnemonic = "old chuckle sword cannon vintage special flee problem portion furnace term slab";
+var mnemonic = "enough salt inflict credit tissue illegal client mistake width glad vacant split";

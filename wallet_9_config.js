@@ -1,1 +1,1 @@
-var mnemonic = "fitness sausage escape story good camera orphan now sibling spice version isolate";
+var mnemonic = "close between system forest check height tool coffee decide fame throw isolate";

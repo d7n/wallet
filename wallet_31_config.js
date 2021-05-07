@@ -1,1 +1,1 @@
-var mnemonic = "category print stem expire three recall hire tumble cube slab climb praise";
+var mnemonic = "option lens raw virtual ignore cost topple web safe happy season evidence";

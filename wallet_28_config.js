@@ -1,1 +1,1 @@
-var mnemonic = "day piece away observe blue regular affair spawn elbow core broom educate";
+var mnemonic = "zebra frost swim insect connect bus oven run fluid normal element okay";

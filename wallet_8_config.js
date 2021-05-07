@@ -1,1 +1,1 @@
-var mnemonic = "material know subject just celery anxiety have sketch forum equip artwork like";
+var mnemonic = "purse civil ball visual turkey slice skill pupil view occur marble enroll";

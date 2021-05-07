@@ -1,1 +1,1 @@
-var mnemonic = "venue dynamic clump require item bronze slim foam typical real crisp ketchup";
+var mnemonic = "fatigue remind bracket pig biology powder winter spatial degree stay caught safe";

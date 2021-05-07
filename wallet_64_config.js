@@ -1,1 +1,1 @@
-var mnemonic = "input mansion sunny grape syrup nerve sunset castle around inform save flock";
+var mnemonic = "vivid sponsor impose glass learn idle minute wrist enroll strike dial lion";

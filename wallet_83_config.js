@@ -1,1 +1,1 @@
-var mnemonic = "slush conduct deny raven trouble shrimp surface answer raw rude arrive profit";
+var mnemonic = "bomb action question dose priority camp title pluck sword worry change tray";

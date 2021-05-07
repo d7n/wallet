@@ -1,1 +1,1 @@
-var mnemonic = "device lunch lawn nation often profit inside note head bonus avocado evidence";
+var mnemonic = "lecture lemon have payment wild humor sea ripple sunset hire photo focus";

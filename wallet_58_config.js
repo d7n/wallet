@@ -1,1 +1,1 @@
-var mnemonic = "carry relax sight mammal section coffee library surprise point burden excess play";
+var mnemonic = "broom route betray fantasy risk sail sail supreme fish myself ship earth";

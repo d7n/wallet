@@ -1,1 +1,1 @@
-var mnemonic = "agree check twice hint now enable punch ride uncover huge eight learn";
+var mnemonic = "nothing ketchup chief require palace march rib brave grow neither start gossip";

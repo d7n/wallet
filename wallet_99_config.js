@@ -1,1 +1,1 @@
-var mnemonic = "media renew saddle expose crumble foam tribe pear ten polar tuna force";
+var mnemonic = "fame dumb teach allow usual sick witness yard adult slim slight suffer";

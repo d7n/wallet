@@ -1,1 +1,1 @@
-var mnemonic = "finger awesome urban share culture cradle way family lock control saddle affair";
+var mnemonic = "dash sight suit cupboard scale meat rich matter broccoli latin program hip";

@@ -1,1 +1,1 @@
-var mnemonic = "kid fluid ignore shine put profit apple say build adapt festival ghost";
+var mnemonic = "royal miss tell legend income benefit strike there diagram crop quantum rescue";

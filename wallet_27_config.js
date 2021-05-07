@@ -1,1 +1,1 @@
-var mnemonic = "flight monitor major unit rubber accident report wrap tomorrow tray become simple";
+var mnemonic = "lend drastic above broken quantum rigid quiz exhibit dinner script recall record";

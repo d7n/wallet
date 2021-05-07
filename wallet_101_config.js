@@ -1,1 +1,1 @@
-var mnemonic = "alert cigar sentence token sheriff unfold elevator congress wise pipe enlist bicycle";
+var mnemonic = "lawsuit wrong erosion slide resemble ozone kitten hammer eager insane dash acquire";

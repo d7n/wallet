@@ -1,1 +1,1 @@
-var mnemonic = "admit danger talent drip enjoy okay mix rotate dynamic seven enemy hill";
+var mnemonic = "journey festival umbrella warfare field actual praise path anger virtual input gas";

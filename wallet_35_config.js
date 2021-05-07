@@ -1,1 +1,1 @@
-var mnemonic = "novel common barrel canvas drop rally arctic concert dash student celery stool";
+var mnemonic = "come carbon hero scan unfair agree empty slogan deliver olive rely inch";

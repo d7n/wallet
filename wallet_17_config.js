@@ -1,1 +1,1 @@
-var mnemonic = "satoshi item wild chunk choose noble muffin bread picture other mansion stem";
+var mnemonic = "viable horror surface outdoor pony project rather nasty business kidney warm monkey";
