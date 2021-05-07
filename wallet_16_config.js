@@ -1,1 +1,1 @@
-var mnemonic = "east access lift april domain repair yellow decorate snack smart friend breeze";
+var mnemonic = "volume laptop magic spot analyst monkey pet profit glide unlock loan evil";

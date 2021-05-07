@@ -1,1 +1,1 @@
-var mnemonic = "pipe foot spawn scout total vibrant gallery tuna wedding shallow cup skate";
+var mnemonic = "throw draft will abuse toe lock say embark depend melody group learn";

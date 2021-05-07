@@ -1,1 +1,1 @@
-var mnemonic = "lumber ahead already rabbit benefit avoid repeat guard cactus zoo card canoe";
+var mnemonic = "unknown file voyage screen taste used occur record sadness sample crazy lady";

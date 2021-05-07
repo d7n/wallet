@@ -1,1 +1,1 @@
-var mnemonic = "loyal month into tenant assume turn floor actress process mean combine excuse";
+var mnemonic = "drop helmet forum benefit capable unfair shoe pave exist trophy feel waste";

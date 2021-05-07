@@ -1,1 +1,1 @@
-var mnemonic = "win horse smart pulse unhappy decide galaxy jealous antique van spot reward";
+var mnemonic = "lens wage shaft evil apple magnet exhibit home panel opinion delay hurry";

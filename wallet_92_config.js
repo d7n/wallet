@@ -1,1 +1,1 @@
-var mnemonic = "suit wrestle middle ability visa build vendor insane attract column chair sauce";
+var mnemonic = "fee flip duty main end relax engine gesture certain shop win raise";

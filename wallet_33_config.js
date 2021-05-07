@@ -1,1 +1,1 @@
-var mnemonic = "risk country local weapon peanut tip helmet mask economy miss artwork bundle";
+var mnemonic = "friend stem miss stadium oil color clap tired shift better core draft";

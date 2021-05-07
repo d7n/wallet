@@ -1,1 +1,1 @@
-var mnemonic = "glance fiction wrong lock bind upset chat portion hello radio dinosaur wing";
+var mnemonic = "van feed dawn west dragon lobster tank dial photo two obtain wagon";

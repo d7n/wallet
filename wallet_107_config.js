@@ -1,1 +1,1 @@
-var mnemonic = "pluck wage silver heavy giant axis left seven build resemble athlete vintage";
+var mnemonic = "dawn fatal sure hero enhance result mesh festival alcohol fade skin scissors";

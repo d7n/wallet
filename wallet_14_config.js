@@ -1,1 +1,1 @@
-var mnemonic = "have detail you celery crop one angry wine since uncle rug able";
+var mnemonic = "train broom library biology purity vintage gather police climb minute caught surprise";

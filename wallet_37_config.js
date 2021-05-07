@@ -1,1 +1,1 @@
-var mnemonic = "adapt amount screen spice still clip shock coast prosper blanket excuse equal";
+var mnemonic = "neutral unfold blame year price seed grab circle license effort leopard hobby";

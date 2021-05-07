@@ -1,1 +1,1 @@
-var mnemonic = "obey lunch mesh borrow chronic special holiday cancel mention choice field latin";
+var mnemonic = "such top pluck disease just armed unfair mean muffin language poem edge";

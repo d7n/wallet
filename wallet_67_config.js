@@ -1,1 +1,1 @@
-var mnemonic = "require grant protect penalty repair script tattoo occur crew candy blast echo";
+var mnemonic = "clutch morning street dust match same project hire nut devote pretty pepper";

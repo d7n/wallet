@@ -1,1 +1,1 @@
-var mnemonic = "negative service unfold frost ceiling nice tongue bright cat bird edge level";
+var mnemonic = "post print ball buyer cotton ginger subject gospel bridge name frozen bag";

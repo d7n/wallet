@@ -1,1 +1,1 @@
-var mnemonic = "crystal thought chalk series shrug remain pet tattoo that nation cream pulp";
+var mnemonic = "jewel fun retreat vapor champion champion stomach fetch spin real hurry dream";

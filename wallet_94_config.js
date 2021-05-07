@@ -1,1 +1,1 @@
-var mnemonic = "annual race stadium orchard chalk crush crime frame winner later monkey setup";
+var mnemonic = "dune master disease bleak coast senior napkin blouse myself phrase invite nothing";

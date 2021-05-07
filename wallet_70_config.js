@@ -1,1 +1,1 @@
-var mnemonic = "decide burst push spin brush summer universe name possible glow school insane";
+var mnemonic = "almost dove mesh snow foster pony paper kiwi flock garage solar arrange";

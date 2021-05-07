@@ -1,1 +1,1 @@
-var mnemonic = "someone current frost hire real myself bonus wife cycle about hybrid royal";
+var mnemonic = "jelly machine early anger chunk napkin police piece addict prevent grape vast";

@@ -1,1 +1,1 @@
-var mnemonic = "claim climb raw cover bacon credit teach often logic real claim federal";
+var mnemonic = "maze cruise window black vault dynamic wink mixed soft exclude reopen floor";

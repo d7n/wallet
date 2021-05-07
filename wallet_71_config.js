@@ -1,1 +1,1 @@
-var mnemonic = "face fire skull during trend clap idle village example swear era reject";
+var mnemonic = "fitness lazy exotic divert hotel twice man number spot omit figure buyer";

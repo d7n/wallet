@@ -1,1 +1,1 @@
-var mnemonic = "bounce limb repeat vacant fitness trust pole brand hungry saddle polar robust";
+var mnemonic = "erupt decrease wasp make judge series almost question shoot draw boring address";

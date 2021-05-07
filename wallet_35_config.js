@@ -1,1 +1,1 @@
-var mnemonic = "poet elder fog warm final violin unable once wash minimum noble naive";
+var mnemonic = "border loan tackle random boil mountain tower wage shock call vast brief";

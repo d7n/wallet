@@ -1,1 +1,1 @@
-var mnemonic = "protect sad raccoon risk pipe collect ramp notable power garlic mosquito comfort";
+var mnemonic = "gift zoo region broccoli timber oyster vessel month detail shallow wool render";

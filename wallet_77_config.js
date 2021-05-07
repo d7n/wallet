@@ -1,1 +1,1 @@
-var mnemonic = "coil two alert labor want switch debris zebra admit allow oven slim";
+var mnemonic = "door thing waste example tired ask coin pledge ghost size service web";

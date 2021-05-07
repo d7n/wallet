@@ -1,1 +1,1 @@
-var mnemonic = "tonight major cotton mercy solve math dish vacuum sugar olive lesson globe";
+var mnemonic = "receive fitness museum swear economy act garage arctic negative quote unable loud";

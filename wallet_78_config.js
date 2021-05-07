@@ -1,1 +1,1 @@
-var mnemonic = "burger book alien measure key rice couple loop palm room suffer cruel";
+var mnemonic = "black cable bench never have awesome reject lion month sniff govern again";

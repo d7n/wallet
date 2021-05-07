@@ -1,1 +1,1 @@
-var mnemonic = "boss vendor upset smile snow caution rail visit detect discover birth injury";
+var mnemonic = "wolf play pave abandon spy tuition loan frozen hobby garage elevator exotic";

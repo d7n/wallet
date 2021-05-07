@@ -1,1 +1,1 @@
-var mnemonic = "lumber goddess atom grief world judge option kid decorate curve innocent canvas";
+var mnemonic = "ring wire purity erosion water twist exhibit reform infant swift diary twenty";

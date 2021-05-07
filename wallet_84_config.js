@@ -1,1 +1,1 @@
-var mnemonic = "million alone subway unfair clock empty board fury describe busy purse snow";
+var mnemonic = "oil atom curious copy satoshi hire acoustic stem wedding bind hard know";

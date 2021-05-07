@@ -1,1 +1,1 @@
-var mnemonic = "account dad rabbit much conduct bachelor jazz other maximum host vote page";
+var mnemonic = "divert private garment angle swift animal rain fury similar author opera effort";

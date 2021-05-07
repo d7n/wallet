@@ -1,1 +1,1 @@
-var mnemonic = "unusual topple such hope isolate despair holiday glance more yellow deputy cattle";
+var mnemonic = "eager vault marble fine claw unable grass float shaft embrace garment thumb";

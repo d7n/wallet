@@ -1,1 +1,1 @@
-var mnemonic = "body build crouch suspect sibling genuine raccoon cream since worth agree innocent";
+var mnemonic = "farm effort pause pyramid decide liberty below thought fever say differ wing";

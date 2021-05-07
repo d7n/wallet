@@ -1,1 +1,1 @@
-var mnemonic = "upset inmate invite sausage pretty carry sing winter skate cute wolf minimum";
+var mnemonic = "insane demise behave what galaxy ranch idea melt ball aisle enjoy girl";

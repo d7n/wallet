@@ -1,1 +1,1 @@
-var mnemonic = "amused universe physical elegant donate wrestle barely wrestle damp canoe minimum congress";
+var mnemonic = "grunt ice wonder reform cook movie minor monitor notable cruel advice taste";

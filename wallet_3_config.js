@@ -1,1 +1,1 @@
-var mnemonic = "normal trophy spatial slogan naive egg lawn pencil aerobic decide tuna casino";
+var mnemonic = "remain action curtain trip december wine original grain have spray kiss immune";

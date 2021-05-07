@@ -1,1 +1,1 @@
-var mnemonic = "knee kit blast fresh then grunt project snake poet immune coconut fold";
+var mnemonic = "wisdom wire gain visual cross lobster combine rebel silver since fortune equip";

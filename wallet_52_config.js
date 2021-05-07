@@ -1,1 +1,1 @@
-var mnemonic = "frown waste print cruel region brisk coast lesson acid fossil miss luxury";
+var mnemonic = "ball loud zero damage stone demise filter roast mixture replace true cabin";

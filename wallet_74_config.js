@@ -1,1 +1,1 @@
-var mnemonic = "apple treat omit midnight glimpse bunker matrix burden large pipe athlete fancy";
+var mnemonic = "assault around sketch elephant outer rubber heart toilet maid gym grief cannon";

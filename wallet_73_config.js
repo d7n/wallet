@@ -1,1 +1,1 @@
-var mnemonic = "scan pretty embrace apple morning word grow come during they domain orchard";
+var mnemonic = "oyster outside huge common crazy plate sponsor furnace rapid observe street label";

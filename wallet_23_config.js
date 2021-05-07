@@ -1,1 +1,1 @@
-var mnemonic = "ostrich now wrist faint auto lab always toy juice reflect ancient economy";
+var mnemonic = "close photo already hub ship balance split bulk across club brand margin";

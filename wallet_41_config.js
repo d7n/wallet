@@ -1,1 +1,1 @@
-var mnemonic = "minimum divert trial hundred art dove kitten brief album snap alarm primary";
+var mnemonic = "ship neither kiwi post crucial effort potato honey bring analyst audit rent";

@@ -1,1 +1,1 @@
-var mnemonic = "bean pair hazard mom humor arch rally attitude recall speak stuff gift";
+var mnemonic = "inner elbow retire tomato casual box excite rule olympic churn spirit image";

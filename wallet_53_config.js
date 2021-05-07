@@ -1,1 +1,1 @@
-var mnemonic = "timber grief toss eagle satisfy prize kiss cheap learn hint catalog square";
+var mnemonic = "blossom salute slab soap afford foil monster between skate chaos rubber renew";

@@ -1,1 +1,1 @@
-var mnemonic = "mail shrimp furnace knife custom anchor physical manual search balcony over kitchen";
+var mnemonic = "involve stumble gown hobby current million switch gain grant domain scout private";

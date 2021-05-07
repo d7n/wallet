@@ -1,1 +1,1 @@
-var mnemonic = "nuclear foster blush carpet beef huge program since wolf jar hip seat";
+var mnemonic = "income modify breeze desk skill setup minimum cabin faculty clip banner device";

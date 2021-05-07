@@ -1,1 +1,1 @@
-var mnemonic = "guitar ritual fly garment trophy mesh retire hamster leisure avocado nature jeans";
+var mnemonic = "denial response win label naive carpet advance unfair hundred caught romance spy";

@@ -1,1 +1,1 @@
-var mnemonic = "venue sauce already vessel measure erupt toss elbow plunge limit bomb furnace";
+var mnemonic = "matter speed envelope balcony boy comic nut lamp zoo nothing refuse suspect";

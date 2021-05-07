@@ -1,1 +1,1 @@
-var mnemonic = "demand news income mutual idea punch chalk donkey remind omit differ ask";
+var mnemonic = "arm toilet ready quit blur sponsor name hotel weasel eyebrow simple green";

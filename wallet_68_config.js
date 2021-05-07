@@ -1,1 +1,1 @@
-var mnemonic = "wrist depth hybrid start grunt crumble strike skill never scrap clump sun";
+var mnemonic = "clip staff claw gift side defense spirit lawn grid female noise stable";

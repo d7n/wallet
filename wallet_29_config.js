@@ -1,1 +1,1 @@
-var mnemonic = "poverty head oval casino disease vibrant swap bracket copy forum clerk position";
+var mnemonic = "fly lounge shy smooth admit number hidden expire nose tip mixture shoot";

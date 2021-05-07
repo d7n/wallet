@@ -1,1 +1,1 @@
-var mnemonic = "parade birth slab echo kiss satisfy dial fiber young bacon lock humble";
+var mnemonic = "case plate also decrease shadow effort ocean avocado infant penalty hub sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow dream nominee spatial ethics jar mother dance guilt cloud nominee noble";
+var mnemonic = "betray disagree wedding idea silent vivid gun warfare claim naive pistol chaos";

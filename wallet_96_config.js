@@ -1,1 +1,1 @@
-var mnemonic = "demise way music pride pact cry spy athlete thumb wagon female romance";
+var mnemonic = "liquid pear green fabric clap eternal cart soul youth heart try media";

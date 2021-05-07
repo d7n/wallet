@@ -1,1 +1,1 @@
-var mnemonic = "front hip giraffe crop lawsuit hidden comic display invite monster rich injury";
+var mnemonic = "dynamic welcome mango attack lunar road sorry latin fence spell luggage clerk";

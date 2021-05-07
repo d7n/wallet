@@ -1,1 +1,1 @@
-var mnemonic = "early lemon wasp minute emerge limb drama chat grow accuse execute lion";
+var mnemonic = "wonder release energy loop gate route eager enact rally vibrant arrange punch";

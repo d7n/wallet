@@ -1,1 +1,1 @@
-var mnemonic = "unusual only stairs general sign approve awake evoke public dose clever disagree";
+var mnemonic = "dynamic daring december crouch chicken weapon keep album knock maze voyage obey";

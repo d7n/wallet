@@ -1,1 +1,1 @@
-var mnemonic = "blossom pear illness shallow plug fiscal brave capital blush tiny peanut motion";
+var mnemonic = "bomb coconut mansion notice tank duck sign slam wonder answer cabin caution";

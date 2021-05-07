@@ -1,1 +1,1 @@
-var mnemonic = "update pledge comic vanish smooth zone naive raven kingdom text injury cigar";
+var mnemonic = "often leg title leader meat noodle law wire liberty material hidden wing";

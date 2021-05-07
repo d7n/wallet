@@ -1,1 +1,1 @@
-var mnemonic = "spot dial balance pumpkin curious maid boat motion cry glory drift master";
+var mnemonic = "bleak fire expand bonus cook moral burst route speed loop typical repeat";

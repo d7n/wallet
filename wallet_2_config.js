@@ -1,1 +1,1 @@
-var mnemonic = "hat retreat tumble tobacco bullet capital resource absurd auction beach call say";
+var mnemonic = "orphan patrol trumpet recycle total water settle sign adult buffalo protect curious";

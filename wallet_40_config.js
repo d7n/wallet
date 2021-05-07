@@ -1,1 +1,1 @@
-var mnemonic = "party park bitter door material artefact online force resource click rare cable";
+var mnemonic = "size express nose normal short animal ball search science fish misery modify";

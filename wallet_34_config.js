@@ -1,1 +1,1 @@
-var mnemonic = "cross recipe someone dream rigid pull learn render legal begin future unaware";
+var mnemonic = "federal antenna slab fence very crazy useful forget own other stable describe";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb assist veteran usage paddle kind exercise quick river runway squeeze anxiety";
+var mnemonic = "canal ostrich feature song mixed music december note bag glory cliff toss";

@@ -1,1 +1,1 @@
-var mnemonic = "caution quick admit amateur tomato where bundle suggest fold biology gate cricket";
+var mnemonic = "earth leaf walk snap hour bench answer exist eyebrow giggle grape wisdom";

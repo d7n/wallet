@@ -1,1 +1,1 @@
-var mnemonic = "tide toilet genius fat ten system finger prosper credit express absurd often";
+var mnemonic = "frost cousin bonus equal inmate wrist ripple design kite reunion drum develop";

@@ -1,1 +1,1 @@
-var mnemonic = "draw tag unusual private disorder profit mother clarify retreat pelican jar skill";
+var mnemonic = "two exhibit beef era couple winter sausage anxiety bullet grocery attitude assault";

@@ -1,1 +1,1 @@
-var mnemonic = "oval alarm anchor lift ancient person combine wear mutual ghost drive like";
+var mnemonic = "tourist boy uncover hip venue pair vintage divert fix oxygen nut finger";

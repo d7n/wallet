@@ -1,1 +1,1 @@
-var mnemonic = "roof welcome husband soon toast clean bag attend stage inject kangaroo spell";
+var mnemonic = "melody void bridge original piece fence spice wild engine unfold luxury juice";

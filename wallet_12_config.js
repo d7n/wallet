@@ -1,1 +1,1 @@
-var mnemonic = "crumble dish pledge entire rookie put apology fabric provide enhance alter spell";
+var mnemonic = "nasty mad aerobic isolate dragon fire hawk opera forget three raven chest";

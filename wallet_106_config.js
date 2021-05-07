@@ -1,1 +1,1 @@
-var mnemonic = "sausage park custom second earn athlete wagon copy jelly enroll floor chuckle";
+var mnemonic = "guard imitate useful enough vicious armed try sibling donate patrol absent dry";

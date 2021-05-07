@@ -1,1 +1,1 @@
-var mnemonic = "service winner tiger fabric analyst merit reform mixed keep misery also horror";
+var mnemonic = "chuckle box balance umbrella camera youth hover egg hard sun model rich";

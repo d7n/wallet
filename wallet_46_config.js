@@ -1,1 +1,1 @@
-var mnemonic = "coin fence turkey pigeon win sunny people orphan explain interest curious acoustic";
+var mnemonic = "animal injury milk zebra harvest answer start raw axis drip ripple quarter";

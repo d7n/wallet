@@ -1,1 +1,1 @@
-var mnemonic = "energy bargain crime area coach erase panther catalog depend search demand shield";
+var mnemonic = "cook decide under mansion thought shop steak grunt nothing hawk insect humor";

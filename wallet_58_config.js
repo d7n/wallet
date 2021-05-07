@@ -1,1 +1,1 @@
-var mnemonic = "prosper express grow smart spin task plastic yellow story jewel hard merge";
+var mnemonic = "seminar today sign crazy intact muscle frost million sport scorpion desk genre";

@@ -1,1 +1,1 @@
-var mnemonic = "banana struggle market village grab walk patch hero hair play speak purse";
+var mnemonic = "angry silly inherit awesome say early forget tell original emerge produce wealth";

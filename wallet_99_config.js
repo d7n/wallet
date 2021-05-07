@@ -1,1 +1,1 @@
-var mnemonic = "stick voice tunnel team ship flavor deal fatal capable scrap spare mass";
+var mnemonic = "song base exercise crunch twenty foster coconut drastic patch total stage cram";

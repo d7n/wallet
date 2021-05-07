@@ -1,1 +1,1 @@
-var mnemonic = "cigar captain elder hub dry wrap flight fine path miracle embody future";
+var mnemonic = "candy coin wrap nothing call arrest history coral enjoy leave enroll permit";

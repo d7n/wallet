@@ -1,1 +1,1 @@
-var mnemonic = "reflect you wide faith movie east call snap flight mechanic legend light";
+var mnemonic = "proof camera aware half carpet lab poem balance alarm correct gain action";

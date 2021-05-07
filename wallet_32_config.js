@@ -1,1 +1,1 @@
-var mnemonic = "can thought salt reject cotton matrix emotion phrase town battle hundred exhaust";
+var mnemonic = "van stuff welcome sick clock excite assume mix cinnamon enough comfort eyebrow";

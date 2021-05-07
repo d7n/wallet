@@ -1,1 +1,1 @@
-var mnemonic = "oil edit indoor range add ugly shed orbit enroll alarm depend doctor";
+var mnemonic = "orphan spend borrow develop sad immune raven glimpse lounge guitar drink clutch";

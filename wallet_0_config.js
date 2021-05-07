@@ -1,1 +1,1 @@
-var mnemonic = "dismiss mobile top critic hazard moon clean impulse fresh combine cousin trial";
+var mnemonic = "exclude beef notable enforce purity fan stairs medal half rotate amused muffin";

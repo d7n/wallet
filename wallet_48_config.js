@@ -1,1 +1,1 @@
-var mnemonic = "famous work diamond record mirror scheme unfold trade spy twenty normal trick";
+var mnemonic = "alley journey exercise bag very shy trial embrace visit salad extend west";

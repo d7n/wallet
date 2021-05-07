@@ -1,1 +1,1 @@
-var mnemonic = "unveil artefact lion economy hen next arrow wedding cloud wedding spend avoid";
+var mnemonic = "version model unhappy gain congress follow snack fortune certain appear dog spirit";

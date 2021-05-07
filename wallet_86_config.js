@@ -1,1 +1,1 @@
-var mnemonic = "pig vague rhythm risk leopard three amateur trash inch army injury tail";
+var mnemonic = "bargain decorate quote two enhance certain matter hidden cloth wise spawn such";

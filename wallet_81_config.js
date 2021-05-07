@@ -1,1 +1,1 @@
-var mnemonic = "clip rude economy detect forget snake gym oppose mouse story trim voice";
+var mnemonic = "kit throw insane genre adapt bright radar laundry enact tag token economy";

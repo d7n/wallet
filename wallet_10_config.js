@@ -1,1 +1,1 @@
-var mnemonic = "great inform country enter fuel render click quit hen renew buffalo million";
+var mnemonic = "wood onion average toast arm success chunk clip hand mail buddy slice";

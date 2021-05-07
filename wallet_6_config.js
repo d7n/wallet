@@ -1,1 +1,1 @@
-var mnemonic = "gospel permit boring juice midnight quality resist water island horn bind flock";
+var mnemonic = "aisle few engine dismiss rhythm patient auction actress avoid alert merit narrow";

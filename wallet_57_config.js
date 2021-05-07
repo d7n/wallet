@@ -1,1 +1,1 @@
-var mnemonic = "man combine ostrich unusual salad soda lucky awesome eternal message risk pig";
+var mnemonic = "tomorrow bench speak trade version then salmon annual chaos task spare pink";

@@ -1,1 +1,1 @@
-var mnemonic = "never crawl lobster staff purpose sing matrix frown endless glad assume million";
+var mnemonic = "web involve second universe trick gun spring clock farm core negative crowd";

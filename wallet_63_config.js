@@ -1,1 +1,1 @@
-var mnemonic = "myth spread inform reward wagon step reopen garden flavor basic always goat";
+var mnemonic = "relax also fold kitten suggest magic path student enter rural edge debris";
