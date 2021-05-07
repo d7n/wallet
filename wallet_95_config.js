@@ -1,1 +1,1 @@
-var mnemonic = "drift episode convince burger scale arrive same burger between tank organ bracket";
+var mnemonic = "garage never swear drift odor mirror pattern dismiss very absent bleak tennis";

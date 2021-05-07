@@ -1,1 +1,1 @@
-var mnemonic = "enact hundred dog tuna puzzle envelope impact result clever clown pepper flip";
+var mnemonic = "wisdom social tired brisk blade later notable engine diary boss faint protect";

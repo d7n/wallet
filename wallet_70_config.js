@@ -1,1 +1,1 @@
-var mnemonic = "replace harbor oppose later uncover visa announce give pipe token palm crop";
+var mnemonic = "young infant vibrant relax supply lava patch gasp crime afford hub spoil";

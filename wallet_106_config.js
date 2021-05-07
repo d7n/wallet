@@ -1,1 +1,1 @@
-var mnemonic = "evidence second sunny hint render remember energy sea crop oppose enrich address";
+var mnemonic = "olympic rescue gain chief love length memory unfair dignity kit play carpet";

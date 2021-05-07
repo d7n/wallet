@@ -1,1 +1,1 @@
-var mnemonic = "donkey tomorrow inquiry ketchup favorite photo spot employ tongue cute chef glue";
+var mnemonic = "fame mind upgrade zone purpose popular two smoke predict pull elegant brother";

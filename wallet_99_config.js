@@ -1,1 +1,1 @@
-var mnemonic = "peasant advance alter pioneer market surge draft wisdom boat muscle useful reject";
+var mnemonic = "tag close select loyal machine knee process twenty fold shuffle kitten borrow";

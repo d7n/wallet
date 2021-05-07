@@ -1,1 +1,1 @@
-var mnemonic = "random panic pear suspect risk mansion dirt neck buffalo chicken soul birth";
+var mnemonic = "away slender dog tumble forum empty grunt city bacon track lake usage";

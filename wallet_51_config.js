@@ -1,1 +1,1 @@
-var mnemonic = "barely chunk unlock dizzy slush reason cost fatal anxiety vintage notice couch";
+var mnemonic = "gauge enjoy frequent move dose worth exotic lounge depth person front interest";

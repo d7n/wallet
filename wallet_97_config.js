@@ -1,1 +1,1 @@
-var mnemonic = "enrich vacuum august gasp minor heavy post desk warm embrace cloud bridge";
+var mnemonic = "figure loan wrong impact wrong home job shoot salmon margin imitate exercise";

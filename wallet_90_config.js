@@ -1,1 +1,1 @@
-var mnemonic = "clay used uniform image can over bulk lake spin credit lizard solution";
+var mnemonic = "jealous oven talk gather unlock chest budget camp glory fat bubble company";

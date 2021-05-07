@@ -1,1 +1,1 @@
-var mnemonic = "foot silly decade frequent danger this actress quality wrong jar guess pumpkin";
+var mnemonic = "improve deposit process swamp soon round shuffle jelly oxygen diet labor kangaroo";

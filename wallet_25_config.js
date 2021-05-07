@@ -1,1 +1,1 @@
-var mnemonic = "during fragile curve actor soap person vessel frog hen keen wire tuna";
+var mnemonic = "mountain unlock burst genre pole world zoo cluster observe soon oil later";

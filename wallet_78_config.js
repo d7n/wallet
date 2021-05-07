@@ -1,1 +1,1 @@
-var mnemonic = "scare peanut crater bunker bubble apart capable cup example stone off ticket";
+var mnemonic = "merge intact mosquito fuel equip army lecture skull today pave flee raven";

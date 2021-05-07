@@ -1,1 +1,1 @@
-var mnemonic = "plug camera hurt high whale depend nest engage sign dose excite little";
+var mnemonic = "depart gasp baby hope rice scorpion exhibit action grape sort scorpion shaft";

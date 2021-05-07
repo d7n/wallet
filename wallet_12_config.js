@@ -1,1 +1,1 @@
-var mnemonic = "raw rose age girl mother display congress arrange absent home slam surge";
+var mnemonic = "siege oven rubber derive certain champion damp attend hedgehog leaf soccer runway";

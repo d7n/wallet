@@ -1,1 +1,1 @@
-var mnemonic = "leisure lunch people open lift tank brother magic catch filter insane nest";
+var mnemonic = "badge tuna wall strong grass rapid gym rack volcano where excuse license";

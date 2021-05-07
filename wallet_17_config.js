@@ -1,1 +1,1 @@
-var mnemonic = "asset laptop essay safe grocery goose act load thank agent arctic foster";
+var mnemonic = "balance tragic trend remember ship sign wait dune sibling shrimp brisk electric";

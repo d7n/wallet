@@ -1,1 +1,1 @@
-var mnemonic = "bus peace bridge now mimic cabbage pony razor fever earn again rally";
+var mnemonic = "card kitchen tattoo salon fuel harvest field bronze city satoshi aunt slush";

@@ -1,1 +1,1 @@
-var mnemonic = "nature they gospel flavor group sphere surge visual grace alpha aware trophy";
+var mnemonic = "addict verb pizza quit stove smooth edit tobacco pigeon erupt evidence cruel";

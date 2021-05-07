@@ -1,1 +1,1 @@
-var mnemonic = "afraid art pool seek coral pulse real pass spoon concert damage wagon";
+var mnemonic = "south win reunion soon blanket thunder post great fabric fitness rookie march";

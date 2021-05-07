@@ -1,1 +1,1 @@
-var mnemonic = "worth bonus assume dream liar scrub castle fix auction skull initial usual";
+var mnemonic = "castle cup age aim lobster profit physical chapter era near aware omit";

@@ -1,1 +1,1 @@
-var mnemonic = "common dismiss gospel athlete vast zebra tiger stable innocent buffalo admit lock";
+var mnemonic = "shaft develop cage entry media submit like garlic vendor thank poet sauce";

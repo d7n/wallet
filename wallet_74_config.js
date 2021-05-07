@@ -1,1 +1,1 @@
-var mnemonic = "bulb absent diagram govern foam kitchen final galaxy warfare auction extend build";
+var mnemonic = "piece silly object cherry short pelican segment flee shoe panel ready wage";

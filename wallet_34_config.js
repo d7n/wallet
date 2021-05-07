@@ -1,1 +1,1 @@
-var mnemonic = "govern menu feel either genre diet barely box penalty swing utility tired";
+var mnemonic = "fabric trouble useless spare select direct foil cloth member abandon sample faith";

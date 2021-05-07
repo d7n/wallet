@@ -1,1 +1,1 @@
-var mnemonic = "oval fantasy hold mansion local life elbow gadget ordinary effort letter captain";
+var mnemonic = "abuse never olive climb later test door fork cousin stem acid ancient";

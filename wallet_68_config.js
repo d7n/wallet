@@ -1,1 +1,1 @@
-var mnemonic = "trigger bronze bid chaos lumber obtain history analyst music swap bag wolf";
+var mnemonic = "stereo poem mail latin insane start tribe purchase orient vacuum short plastic";

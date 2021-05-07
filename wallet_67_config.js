@@ -1,1 +1,1 @@
-var mnemonic = "violin order helmet health young hobby hurt shy chapter present member exist";
+var mnemonic = "address journey movie attract flee dilemma forest quick state obtain giggle over";

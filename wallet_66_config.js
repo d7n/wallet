@@ -1,1 +1,1 @@
-var mnemonic = "ticket draft panel ridge void recycle candy night pretty wrist idea few";
+var mnemonic = "snack today cinnamon distance indicate merry pool worry analyst february rifle balance";

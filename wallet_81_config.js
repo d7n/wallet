@@ -1,1 +1,1 @@
-var mnemonic = "glide control siren save sock earth offer concert joy prize round illegal";
+var mnemonic = "fabric slogan dog industry violin fancy exchange quality month supply naive town";

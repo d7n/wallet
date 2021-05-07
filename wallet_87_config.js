@@ -1,1 +1,1 @@
-var mnemonic = "hockey tribe recall tourist modify grab differ ability punch deal daughter neglect";
+var mnemonic = "prison invest vacuum umbrella neither rib rough crowd under genius never bridge";

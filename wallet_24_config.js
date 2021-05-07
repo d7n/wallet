@@ -1,1 +1,1 @@
-var mnemonic = "area shift galaxy enroll claim please rate easily permit desert year icon";
+var mnemonic = "subway pizza venue brand risk exhibit fire twin eternal another develop left";

@@ -1,1 +1,1 @@
-var mnemonic = "north couch wink divorce stock click debris spy quit medal match alone";
+var mnemonic = "below mercy inner hotel balcony muscle repeat iron odor stem draft spider";

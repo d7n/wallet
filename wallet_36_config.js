@@ -1,1 +1,1 @@
-var mnemonic = "frost beach hazard tribe bonus laundry giggle behave pyramid cycle enlist inside";
+var mnemonic = "satoshi usage badge spike modify knee buddy fame habit spirit deposit confirm";

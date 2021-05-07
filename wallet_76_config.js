@@ -1,1 +1,1 @@
-var mnemonic = "galaxy face net man deny country damp promote taxi recipe dance sock";
+var mnemonic = "voice brick tumble remain witness shell antique hat tube usage elegant improve";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling loud start tide slide uncle cook divorce pupil nurse uncover sugar";
+var mnemonic = "acoustic slight sunny oil vendor that warfare father month tornado ugly diesel";

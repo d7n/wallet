@@ -1,1 +1,1 @@
-var mnemonic = "client bleak ladder tape grunt exact museum mouse staff spot zebra rookie";
+var mnemonic = "bulb milk aerobic verify gap embark soldier amount jelly female couple people";

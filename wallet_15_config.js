@@ -1,1 +1,1 @@
-var mnemonic = "soft happy copy glimpse neglect output narrow reflect certain language cloud wine";
+var mnemonic = "dish move winner panther cash dignity ship survey firm cause suspect dismiss";

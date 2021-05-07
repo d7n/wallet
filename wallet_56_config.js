@@ -1,1 +1,1 @@
-var mnemonic = "apology tuna father skirt six coyote waste calm regret dinner crazy noble";
+var mnemonic = "cash december repair permit isolate common guide juice army basic organ party";

@@ -1,1 +1,1 @@
-var mnemonic = "record trumpet ankle coast stadium rural better nest spirit equal clump foil";
+var mnemonic = "dash ivory hat tiger worth mechanic undo where card bus marble salt";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk jar traffic program tornado robot expose insect soccer jeans round unit";
+var mnemonic = "topic stereo uniform ecology brother polar elevator obey crazy like edit blouse";

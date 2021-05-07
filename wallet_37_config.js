@@ -1,1 +1,1 @@
-var mnemonic = "rocket exist dune bean prevent voyage scare journey virtual family solid access";
+var mnemonic = "tornado asset major pioneer left shoe estate finish foam loyal online noodle";

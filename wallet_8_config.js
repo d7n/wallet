@@ -1,1 +1,1 @@
-var mnemonic = "file glimpse glare brisk dog swift sudden leaf diary welcome chicken bounce";
+var mnemonic = "choice hybrid mind frozen enact invest woman cabbage corn erase few office";

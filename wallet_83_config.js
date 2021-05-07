@@ -1,1 +1,1 @@
-var mnemonic = "resource fatigue oven observe east express pear luxury frequent alarm family prize";
+var mnemonic = "visual mercy anchor senior whisper involve child taste earn guitar tide swim";

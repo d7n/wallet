@@ -1,1 +1,1 @@
-var mnemonic = "loan duck audit twin nasty tomorrow island boss imitate ripple inspire boil";
+var mnemonic = "subway vibrant orphan street suffer priority wrong enlist impact cool repeat course";

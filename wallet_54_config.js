@@ -1,1 +1,1 @@
-var mnemonic = "connect volume number fever culture improve check consider maid cabin love hurdle";
+var mnemonic = "patch term lottery hire discover employ country badge permit route toddler idea";

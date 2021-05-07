@@ -1,1 +1,1 @@
-var mnemonic = "clarify hunt long brisk awake lonely middle orphan bubble jacket grab bitter";
+var mnemonic = "green frequent staff trim upset tourist field describe term snack stadium survey";

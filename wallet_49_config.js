@@ -1,1 +1,1 @@
-var mnemonic = "match gasp north anxiety what business wing skate web aware october blood";
+var mnemonic = "square message scout circle discover plastic card remain stairs price vault dutch";

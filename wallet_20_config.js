@@ -1,1 +1,1 @@
-var mnemonic = "begin broom gravity into deer before common cigar youth excess ball slight";
+var mnemonic = "snack muscle legal cereal flee little cabin walnut rookie cost blood midnight";

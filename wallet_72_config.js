@@ -1,1 +1,1 @@
-var mnemonic = "carbon eight ancient blanket globe float obscure suspect tornado mail trick grab";
+var mnemonic = "tongue bench skill glow film blast syrup model amount armor saddle audit";

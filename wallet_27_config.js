@@ -1,1 +1,1 @@
-var mnemonic = "arch crawl bag purchase wagon flower purse gravity biology plastic rescue economy";
+var mnemonic = "opera circle because arrive short decrease maple sail illegal vault dilemma inject";

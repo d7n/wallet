@@ -1,1 +1,1 @@
-var mnemonic = "correct panda loan pitch talent monkey layer report fence panic sea choose";
+var mnemonic = "burger genuine dawn labor size cancel gloom amateur casino age base budget";

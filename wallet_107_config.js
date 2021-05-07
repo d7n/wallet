@@ -1,1 +1,1 @@
-var mnemonic = "depend night shoulder fantasy misery memory ticket mosquito lobster aerobic language endorse";
+var mnemonic = "journey depend earth calm globe fat hour turtle raven bleak siege scatter";

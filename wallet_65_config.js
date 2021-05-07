@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin decline divide permit mean region orbit skate husband corn cool satoshi";
+var mnemonic = "quality element spirit file alter current spring duty wide afraid antenna wild";

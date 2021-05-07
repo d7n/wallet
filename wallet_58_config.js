@@ -1,1 +1,1 @@
-var mnemonic = "crater fiber sunset glimpse eternal wink peasant ethics wise jump arena duty";
+var mnemonic = "match account possible flock detail door caution love keen special weekend quarter";

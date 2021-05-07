@@ -1,1 +1,1 @@
-var mnemonic = "path black whip ordinary always menu volume first dinner expose cube frog";
+var mnemonic = "bracket depart blush yellow stem between chaos soft awful museum envelope panel";

@@ -1,1 +1,1 @@
-var mnemonic = "afford wheel craft move remember budget margin sting fire unfair ghost slice";
+var mnemonic = "elevator indoor useful lawsuit lake arrive auto maximum load harsh wasp main";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore grass junior hundred dove vibrant kit observe spin boss pen distance";
+var mnemonic = "mad law year custom puzzle session ring similar level hazard derive surface";

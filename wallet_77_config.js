@@ -1,1 +1,1 @@
-var mnemonic = "slogan surround father gasp dream butter artefact cricket trap stove hunt clever";
+var mnemonic = "marble dress sheriff manual tomorrow faculty cherry fault robust feel bamboo crop";

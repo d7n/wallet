@@ -1,1 +1,1 @@
-var mnemonic = "cave oval apart work album virtual grief enough poet cry museum material";
+var mnemonic = "twice orbit engage example absurd post horse when boring mammal baby among";

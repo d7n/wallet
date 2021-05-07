@@ -1,1 +1,1 @@
-var mnemonic = "remain sport anger fantasy inflict dish shove baby priority panel suit south";
+var mnemonic = "fall plunge junior erode mix love gentle vapor erase blood will grape";

@@ -1,1 +1,1 @@
-var mnemonic = "edit bacon place raccoon build train disease ranch material promote spice catalog";
+var mnemonic = "circle vast badge pause bundle negative lyrics waste garden join outside evidence";

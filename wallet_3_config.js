@@ -1,1 +1,1 @@
-var mnemonic = "lonely combine develop arrange oak six dog expose spoon total shell retire";
+var mnemonic = "demand direct brick slight job wait program void brother pole aerobic around";

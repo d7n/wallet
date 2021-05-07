@@ -1,1 +1,1 @@
-var mnemonic = "often position feed guilt cinnamon cement screen practice imitate depend mesh unfold";
+var mnemonic = "impact gravity baby news insane nasty safe acoustic twenty unable vote frame";

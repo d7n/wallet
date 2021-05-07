@@ -1,1 +1,1 @@
-var mnemonic = "edge label hat vapor impact license horse luxury chef stage office where";
+var mnemonic = "spell either inject ticket way north couple gesture brass lend make novel";

@@ -1,1 +1,1 @@
-var mnemonic = "frown mule ask hub admit guard oven kid project joy prefer space";
+var mnemonic = "drama quote bounce wrist sister industry canoe alone absent panic tomato praise";

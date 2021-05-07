@@ -1,1 +1,1 @@
-var mnemonic = "enact breeze adapt lava clap leisure attract force together video nerve extra";
+var mnemonic = "decorate crucial behind infant pyramid regular next scare toilet culture thrive unique";

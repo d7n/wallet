@@ -1,1 +1,1 @@
-var mnemonic = "video giggle account treat rare obey web talk glove sweet auction surge";
+var mnemonic = "firm letter flower error plate pond inside foam bind sea vague match";

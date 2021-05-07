@@ -1,1 +1,1 @@
-var mnemonic = "develop summer ask ozone pupil tumble nuclear brain express enrich they target";
+var mnemonic = "torch monkey field card shuffle season where toe slot endorse apology essay";

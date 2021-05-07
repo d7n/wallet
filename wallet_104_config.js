@@ -1,1 +1,1 @@
-var mnemonic = "useful horse allow drastic paddle must label april unfold poverty cute art";
+var mnemonic = "electric wood decade upon chef identify reason uncle trim private youth item";

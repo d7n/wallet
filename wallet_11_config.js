@@ -1,1 +1,1 @@
-var mnemonic = "must dune wife person monitor robot decide decide loud treat october vacant";
+var mnemonic = "physical cross elephant dream better muscle shoulder two tell expand repeat erode";

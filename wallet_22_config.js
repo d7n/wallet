@@ -1,1 +1,1 @@
-var mnemonic = "short cabin water frog exist cousin vicious become patient alert ranch already";
+var mnemonic = "clog series sunny sugar snow zero quarter word motor rhythm thank baby";

@@ -1,1 +1,1 @@
-var mnemonic = "safe attend include sign hole kite office width vivid park pink report";
+var mnemonic = "radio chaos stool nest regret push post drastic praise tiny love night";

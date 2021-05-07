@@ -1,1 +1,1 @@
-var mnemonic = "guess together antenna mass tenant useful focus embark program uniform umbrella remember";
+var mnemonic = "top cloth write inner device super autumn forward grow there snap target";

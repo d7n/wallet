@@ -1,1 +1,1 @@
-var mnemonic = "friend year industry sock obtain involve elite stable question problem yard accident";
+var mnemonic = "thing chase brush rack reject tourist glow hammer news twice heavy narrow";

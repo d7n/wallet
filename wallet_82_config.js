@@ -1,1 +1,1 @@
-var mnemonic = "canyon among chaos forest alien female ritual educate lottery bracket pitch circle";
+var mnemonic = "business bacon boost bargain oxygen analyst pumpkin owner horse defy menu glimpse";

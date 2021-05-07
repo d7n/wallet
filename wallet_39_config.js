@@ -1,1 +1,1 @@
-var mnemonic = "frost eternal gain vacuum tent jewel merit woman frame soul chief junk";
+var mnemonic = "play little such benefit speak warfare exact nephew bike maple three aisle";

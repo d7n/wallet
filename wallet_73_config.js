@@ -1,1 +1,1 @@
-var mnemonic = "fire when lonely unveil solve rice believe garbage ribbon puppy bread uncle";
+var mnemonic = "sibling dentist stomach zoo page valve dove arrive accident drop absent picnic";

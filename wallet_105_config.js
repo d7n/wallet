@@ -1,1 +1,1 @@
-var mnemonic = "crawl ski sustain harbor fitness picture quick stool vast another among fabric";
+var mnemonic = "voyage hair advice print turtle benefit crane light knife happy salad grace";

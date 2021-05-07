@@ -1,1 +1,1 @@
-var mnemonic = "motion bulb edge ski cactus humble puzzle dwarf office medal ozone snap";
+var mnemonic = "lizard shoot phone immense leave turtle gun approve spike floor reward drip";

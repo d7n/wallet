@@ -1,1 +1,1 @@
-var mnemonic = "armed magic feed arch enact gate interest puppy candy lucky tower atom";
+var mnemonic = "recall point occur one toilet actress kangaroo canvas thank horn awkward shed";

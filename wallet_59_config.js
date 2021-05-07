@@ -1,1 +1,1 @@
-var mnemonic = "emotion puzzle force fat advance bonus lemon magic miracle squeeze social sense";
+var mnemonic = "energy milk myself draft tackle gallery laundry crisp half mother market bonus";

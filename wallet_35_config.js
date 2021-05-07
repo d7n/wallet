@@ -1,1 +1,1 @@
-var mnemonic = "remain club fitness flame hurry catch child enough lock craft lawn sail";
+var mnemonic = "humor empower cotton utility enforce prefer pool soldier kiss wage pony where";

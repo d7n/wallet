@@ -1,1 +1,1 @@
-var mnemonic = "junk design shadow start flat sausage elegant art scale float yard oyster";
+var mnemonic = "turn what sight letter tumble silk idle resist divert banana harsh panther";

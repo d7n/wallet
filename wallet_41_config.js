@@ -1,1 +1,1 @@
-var mnemonic = "ivory tank claim mother phrase matter visual evil lunch ceiling jump father";
+var mnemonic = "sea lake safe horn village valley celery couple switch old birth midnight";

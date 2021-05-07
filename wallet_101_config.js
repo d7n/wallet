@@ -1,1 +1,1 @@
-var mnemonic = "loan fan rib wash file raw glory absorb wave noble ride extra";
+var mnemonic = "donate century drama blast turkey hybrid embody check degree bread display ocean";
