@@ -1,1 +1,1 @@
-var mnemonic = "board column reject ability orchard problem boss cry dial fat net balcony";
+var mnemonic = "olive salon repeat carry vacuum grace excuse robot mansion weather blast gift";

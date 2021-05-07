@@ -1,1 +1,1 @@
-var mnemonic = "wet picture hair object pass glad skirt right minimum that chapter sport";
+var mnemonic = "decrease fiscal punch obvious differ confirm opinion best misery purpose cotton net";

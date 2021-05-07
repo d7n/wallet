@@ -1,1 +1,1 @@
-var mnemonic = "various enact favorite remind embark coffee figure cave dog win among fence";
+var mnemonic = "sentence text right pledge divorce almost wood burden vacant soul flavor fix";

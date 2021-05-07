@@ -1,1 +1,1 @@
-var mnemonic = "broccoli velvet place trip water judge flee alcohol change board derive punch";
+var mnemonic = "beyond few veteran behind learn onion fiscal soccer six box dilemma wrong";

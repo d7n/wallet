@@ -1,1 +1,1 @@
-var mnemonic = "flee giant proof april glow moment cave foster bamboo fetch main curious";
+var mnemonic = "pottery assume total entry feel rival very warm spring insane rotate license";

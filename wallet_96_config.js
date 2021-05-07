@@ -1,1 +1,1 @@
-var mnemonic = "quantum lava flock wrap unfold kitchen better voice what luxury confirm border";
+var mnemonic = "about long nut minute list tourist message bargain birth street sample state";

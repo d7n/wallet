@@ -1,1 +1,1 @@
-var mnemonic = "deny abandon wheat age oyster turkey dinner twenty love tag spell voyage";
+var mnemonic = "olympic long solution goose badge head path elephant horse canal valley point";

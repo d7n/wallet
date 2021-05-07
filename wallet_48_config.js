@@ -1,1 +1,1 @@
-var mnemonic = "coin relief egg cause rebuild ball poverty citizen current connect settle another";
+var mnemonic = "glide change delay popular vivid illegal estate digital usual athlete bench clerk";

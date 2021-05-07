@@ -1,1 +1,1 @@
-var mnemonic = "soda assault ancient plastic viable speed lonely text item lab together student";
+var mnemonic = "energy concert hope diagram leave nasty guide test shaft office nut swap";

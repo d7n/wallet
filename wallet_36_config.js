@@ -1,1 +1,1 @@
-var mnemonic = "foster foster ripple position accuse any place slender cycle ride expect monitor";
+var mnemonic = "hero creek sphere tragic arrow series dwarf mango bean always strong setup";

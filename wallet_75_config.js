@@ -1,1 +1,1 @@
-var mnemonic = "hamster hire vacant mouse stool visa brother prize gym half bachelor mule";
+var mnemonic = "balance magnet nut sadness august long panther donor van divide vacant breeze";

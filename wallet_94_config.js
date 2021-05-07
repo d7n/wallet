@@ -1,1 +1,1 @@
-var mnemonic = "consider matrix window damp unit echo symbol palace law castle above drink";
+var mnemonic = "kitten cousin tag ankle ozone extra under sugar siege local column into";

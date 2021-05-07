@@ -1,1 +1,1 @@
-var mnemonic = "define tired breeze blind idea shock code monster spirit talent chuckle run";
+var mnemonic = "wealth merit occur blade dad envelope public buffalo virus rose unknown nose";

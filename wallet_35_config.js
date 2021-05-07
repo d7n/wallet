@@ -1,1 +1,1 @@
-var mnemonic = "couch grace pulse endless girl gather rich junk cactus arctic awful tiny";
+var mnemonic = "library crumble rebuild fix viable involve economy glare stage vague afraid innocent";

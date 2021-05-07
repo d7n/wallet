@@ -1,1 +1,1 @@
-var mnemonic = "market cliff please speak raccoon spray tool among guard buddy blast egg";
+var mnemonic = "wrestle dilemma session attitude about taste naive fiction remain scare index taste";

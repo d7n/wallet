@@ -1,1 +1,1 @@
-var mnemonic = "panda company whip bicycle receive cabbage happy crowd salmon truck float total";
+var mnemonic = "doctor six knock boil bacon donate whale shrimp hint float chat friend";

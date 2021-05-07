@@ -1,1 +1,1 @@
-var mnemonic = "various skirt canoe prepare banana horn primary sponsor search nature royal material";
+var mnemonic = "squirrel garlic alert nominee oval wink mirror increase salon dinosaur erase journey";

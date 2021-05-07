@@ -1,1 +1,1 @@
-var mnemonic = "toddler venture lumber local enjoy vital strike laptop dad hero year minimum";
+var mnemonic = "ring fine escape hazard arch virus room alarm little glow divide loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "rice flee two seminar discover learn attitude annual eternal type away warrior";
+var mnemonic = "basket profit patch cradle ivory iron snow slender icon ripple dawn race";

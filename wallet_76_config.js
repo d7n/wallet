@@ -1,1 +1,1 @@
-var mnemonic = "globe gun index noise tonight seven banana easy busy deposit glory gorilla";
+var mnemonic = "seven grow vintage gravity crush foot frequent tenant pole fish sea box";

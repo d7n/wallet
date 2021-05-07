@@ -1,1 +1,1 @@
-var mnemonic = "remove bridge win advice pill anxiety nerve accident item airport much ensure";
+var mnemonic = "jungle song weasel web tennis reform melt era tomorrow vague pride basket";

@@ -1,1 +1,1 @@
-var mnemonic = "defy assume fossil turtle donate mammal soldier album mixture chimney skin cross";
+var mnemonic = "message clog donate control infant prize fever define pond tree proud noble";

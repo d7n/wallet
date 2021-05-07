@@ -1,1 +1,1 @@
-var mnemonic = "weasel tired wait script student response loud battle little street slab prison";
+var mnemonic = "dizzy swear source race push recall joy lawn cigar crazy gloom spray";

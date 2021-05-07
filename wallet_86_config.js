@@ -1,1 +1,1 @@
-var mnemonic = "minor butter alarm between age strategy thunder basic sick tape outdoor swim";
+var mnemonic = "polar purchase duck catalog siege satoshi gap surge genius lava inmate problem";

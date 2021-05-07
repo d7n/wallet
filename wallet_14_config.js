@@ -1,1 +1,1 @@
-var mnemonic = "slogan cherry hour choose pole edge disorder win secret expire shadow lyrics";
+var mnemonic = "flag bar woman boring addict giggle brush giant joke among reopen summer";

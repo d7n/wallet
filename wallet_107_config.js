@@ -1,1 +1,1 @@
-var mnemonic = "advice claw twin winner shell offer magic casual become century there hat";
+var mnemonic = "oyster build giggle loop simple daughter ahead tape famous admit pool kit";

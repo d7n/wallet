@@ -1,1 +1,1 @@
-var mnemonic = "bench diet argue asset change rebel day fit marriage pizza illness pact";
+var mnemonic = "shy negative occur pudding grunt legal turn heart spring sound oak engine";

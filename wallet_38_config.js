@@ -1,1 +1,1 @@
-var mnemonic = "tilt draft rocket trophy orbit pioneer dignity sponsor hospital trip script paper";
+var mnemonic = "pudding blue three suggest output trap remain cupboard tortoise elegant confirm bulk";

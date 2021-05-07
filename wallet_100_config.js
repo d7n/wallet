@@ -1,1 +1,1 @@
-var mnemonic = "local crack table win winner label dish offer garment basket mosquito aerobic";
+var mnemonic = "unknown mistake view wrestle shiver lock coral stove decline fee divorce party";

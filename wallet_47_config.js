@@ -1,1 +1,1 @@
-var mnemonic = "pilot entry pepper desert horn border network stick night icon flight oil";
+var mnemonic = "average heavy stumble match heart myself almost wheat approve differ learn shove";

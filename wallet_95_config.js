@@ -1,1 +1,1 @@
-var mnemonic = "next sphere slight like express horn roof cradle force subject expect rib";
+var mnemonic = "keen thunder kingdom tomato capital kite peanut address oppose direct blush erosion";

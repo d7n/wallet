@@ -1,1 +1,1 @@
-var mnemonic = "oblige oppose portion shoot vacant hood tray vacant voice next fluid ski";
+var mnemonic = "hurdle gaze lobster genre define lake august wood play turkey side cage";

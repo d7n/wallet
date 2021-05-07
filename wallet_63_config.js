@@ -1,1 +1,1 @@
-var mnemonic = "visa half curtain inspire left equal actor pupil entry pill video cable";
+var mnemonic = "diamond broccoli young cannon carry sad garlic rug master few coyote spoon";

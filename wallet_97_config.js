@@ -1,1 +1,1 @@
-var mnemonic = "abstract senior marriage simple sunny before dinosaur monster street bubble liberty inject";
+var mnemonic = "nose dance evoke world wing congress can census inch couch rival taxi";

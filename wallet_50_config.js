@@ -1,1 +1,1 @@
-var mnemonic = "borrow drive choice desert embody cradle stadium bar earn double minute lens";
+var mnemonic = "remember steel impose evil hill dilemma patrol horror sunny media economy service";

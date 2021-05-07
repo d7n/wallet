@@ -1,1 +1,1 @@
-var mnemonic = "post same hope cabin shaft shadow exotic coffee album name erase rib";
+var mnemonic = "hint envelope address tell wish sphere minor pole virus ceiling few undo";

@@ -1,1 +1,1 @@
-var mnemonic = "cloud episode boss second shock drama accident soda inquiry drastic furnace couple";
+var mnemonic = "demand funny tortoise page toward cloud obscure pudding unit first level walnut";

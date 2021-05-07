@@ -1,1 +1,1 @@
-var mnemonic = "venture hour sand arch sunny enact battle turkey clean swing dice confirm";
+var mnemonic = "matter vanish brick fiber panic kidney flush popular evidence much wealth nice";

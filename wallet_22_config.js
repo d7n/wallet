@@ -1,1 +1,1 @@
-var mnemonic = "typical toe long ready kidney member brave kid uniform curious off dinosaur";
+var mnemonic = "force huge punch able obvious record nest height frog sauce sauce van";

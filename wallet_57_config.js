@@ -1,1 +1,1 @@
-var mnemonic = "emotion fish seven enjoy calm keen proud initial trim blossom fade honey";
+var mnemonic = "athlete gospel save swear weapon sight polar wink spin amazing canyon govern";

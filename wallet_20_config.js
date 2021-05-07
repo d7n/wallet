@@ -1,1 +1,1 @@
-var mnemonic = "conduct enough subject angry victory slogan ripple venture second erosion deer action";
+var mnemonic = "dice ghost napkin wild indicate ahead lazy mountain ritual recipe eternal loan";

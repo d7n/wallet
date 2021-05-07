@@ -1,1 +1,1 @@
-var mnemonic = "young knock stand nice jazz ability practice edge armor roast lava usual";
+var mnemonic = "arm act tip scale tell school exit snow balcony index pistol sign";

@@ -1,1 +1,1 @@
-var mnemonic = "life brief modify loop enhance supply merry choose switch pitch wear great";
+var mnemonic = "carbon gym balcony script foam athlete expire interest elite famous hunt seven";

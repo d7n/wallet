@@ -1,1 +1,1 @@
-var mnemonic = "annual split supply nice bonus waste man inside face feature fiction will";
+var mnemonic = "cabin tongue fold argue join entire job quarter menu coast push cable";

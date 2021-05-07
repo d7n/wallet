@@ -1,1 +1,1 @@
-var mnemonic = "hamster top eight hat into midnight behave island step someone chunk song";
+var mnemonic = "bleak guitar wood cargo impact illegal two addict maze frost identify silver";

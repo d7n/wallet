@@ -1,1 +1,1 @@
-var mnemonic = "air hamster parade hundred client thought bounce focus excite travel bunker toilet";
+var mnemonic = "account cruel resist leisure cancel brave isolate off cargo govern prefer buddy";

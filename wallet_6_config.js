@@ -1,1 +1,1 @@
-var mnemonic = "weapon photo dose forward team approve width sudden maple arrest wash float";
+var mnemonic = "receive account mansion catch youth celery consider idle blossom bacon barely easy";

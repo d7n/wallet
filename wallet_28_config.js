@@ -1,1 +1,1 @@
-var mnemonic = "foot start loud limb kangaroo achieve unfair elegant tired galaxy wool jelly";
+var mnemonic = "sound initial erase girl pulse voice evoke mad avoid chat ozone busy";

@@ -1,1 +1,1 @@
-var mnemonic = "code upset indicate elbow energy wall topic menu true width flash pass";
+var mnemonic = "rack glove special polar evolve property sound picture humble latin humor access";

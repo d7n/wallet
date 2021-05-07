@@ -1,1 +1,1 @@
-var mnemonic = "monster dwarf misery kangaroo mobile shuffle unlock track view series truly cereal";
+var mnemonic = "guitar slender useless wage power rebuild truly shadow news abuse draw squirrel";

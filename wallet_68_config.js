@@ -1,1 +1,1 @@
-var mnemonic = "earth debris stadium toss group direct auction spend until volcano cancel tilt";
+var mnemonic = "blush garment urge toast guilt build shoe wood nature hero visa ocean";

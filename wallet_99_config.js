@@ -1,1 +1,1 @@
-var mnemonic = "obtain swap sunny creek behave trial input curious bunker kid tone vintage";
+var mnemonic = "evoke student faint grief alien child foam roast pride series wear brass";

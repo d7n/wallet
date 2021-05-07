@@ -1,1 +1,1 @@
-var mnemonic = "able scatter river hidden program image soft budget stomach case aspect employ";
+var mnemonic = "account ill ecology crucial south carbon monster country cat enable cart uncle";

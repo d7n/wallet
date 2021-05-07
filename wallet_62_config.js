@@ -1,1 +1,1 @@
-var mnemonic = "right nurse tell cement number pave because attitude weekend smoke silent clump";
+var mnemonic = "labor benefit sock rotate bless amused actual cable toy find just inherit";

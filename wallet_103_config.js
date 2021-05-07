@@ -1,1 +1,1 @@
-var mnemonic = "imitate transfer main october flag cruise horn girl moment despair armor dream";
+var mnemonic = "pluck indicate need labor garlic tip mango ripple success build cinnamon when";

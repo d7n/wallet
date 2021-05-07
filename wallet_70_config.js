@@ -1,1 +1,1 @@
-var mnemonic = "baby riot curve soccer govern regret finish better estate vital wealth hover";
+var mnemonic = "faint abstract suit detail anxiety repeat major cave kick globe second tonight";

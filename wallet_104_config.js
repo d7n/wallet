@@ -1,1 +1,1 @@
-var mnemonic = "maid summer document guide pattern velvet bundle idea earn sniff desert program";
+var mnemonic = "envelope hidden come visit tobacco allow number give shift lab soft level";

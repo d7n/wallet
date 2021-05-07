@@ -1,1 +1,1 @@
-var mnemonic = "screen hold arrive bacon churn garden hub daring deputy ancient crew bright";
+var mnemonic = "sea cargo banner horse cheese wish deliver tuition bless coin float permit";

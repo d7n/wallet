@@ -1,1 +1,1 @@
-var mnemonic = "cloud topic palm essay wise avoid under orchard farm casino nest blush";
+var mnemonic = "student iron deputy unusual human hazard kangaroo much project artwork family penalty";

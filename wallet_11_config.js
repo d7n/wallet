@@ -1,1 +1,1 @@
-var mnemonic = "arctic rural mixture border position author tattoo hockey force travel mistake vapor";
+var mnemonic = "busy quote pepper marine sister fault jar talent enjoy must leader puppy";

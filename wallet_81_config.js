@@ -1,1 +1,1 @@
-var mnemonic = "shoot army either act box bamboo meadow suit click soda join long";
+var mnemonic = "install lobster leader coil first fatal student brain unfold valve canoe inch";

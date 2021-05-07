@@ -1,1 +1,1 @@
-var mnemonic = "honey blouse vibrant width salon shell spin taxi juice dilemma whisper hat";
+var mnemonic = "behave tide cluster over choose give post garlic exact federal pet horror";

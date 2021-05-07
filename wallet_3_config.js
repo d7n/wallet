@@ -1,1 +1,1 @@
-var mnemonic = "canyon decide hurdle kidney keep trade spread catalog enhance switch target gather";
+var mnemonic = "pink innocent wait arch relax scorpion special silk pink napkin elephant word";

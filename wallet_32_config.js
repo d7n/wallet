@@ -1,1 +1,1 @@
-var mnemonic = "income simple vote upon lend uniform rude soda fatigue rebuild disorder need";
+var mnemonic = "lake stamp attitude brisk develop street biology setup pen tortoise comic consider";

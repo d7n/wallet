@@ -1,1 +1,1 @@
-var mnemonic = "immense tide loan pink deputy mom immense aspect near opinion choose limit";
+var mnemonic = "either laundry mobile crowd more small craft arrow reunion pair loop cloud";

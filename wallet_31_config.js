@@ -1,1 +1,1 @@
-var mnemonic = "talent orphan arctic zoo romance emerge erupt churn carry spread turkey swing";
+var mnemonic = "argue yellow affair thank protect crash achieve anchor aunt hobby alley smart";

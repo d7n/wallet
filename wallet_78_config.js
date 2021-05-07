@@ -1,1 +1,1 @@
-var mnemonic = "dumb clarify fog wink acid drum kangaroo witness mad love frost rural";
+var mnemonic = "vintage camera tumble display material convince salon merge body desk reunion broken";

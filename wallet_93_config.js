@@ -1,1 +1,1 @@
-var mnemonic = "hair nuclear orient profit travel black unfair craft knee clarify virus ability";
+var mnemonic = "because power umbrella tragic float echo weasel client brother minor spoon negative";

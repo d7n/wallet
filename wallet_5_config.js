@@ -1,1 +1,1 @@
-var mnemonic = "slab monkey old token allow organ can cash rapid home enough acoustic";
+var mnemonic = "basket marine fury harvest chair various balcony equip surround gold attitude stage";

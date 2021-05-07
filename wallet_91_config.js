@@ -1,1 +1,1 @@
-var mnemonic = "author peanut oppose pass oyster kitten crane shift captain just fabric atom";
+var mnemonic = "panda anger jar fatal manage discover latin curve wood dry grape feed";

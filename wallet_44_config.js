@@ -1,1 +1,1 @@
-var mnemonic = "chair foster myth gap demise help grant skin person attack escape ice";
+var mnemonic = "female artwork height episode flush census employ rescue coral crouch long pill";

@@ -1,1 +1,1 @@
-var mnemonic = "brush canyon twin exotic common there nuclear buddy century upgrade catalog song";
+var mnemonic = "rule electric diamond mosquito tiger drive dignity supply sustain voyage route market";

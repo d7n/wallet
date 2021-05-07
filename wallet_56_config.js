@@ -1,1 +1,1 @@
-var mnemonic = "wink powder drift cloth cram wall edge battle evidence august earth banner";
+var mnemonic = "erupt skate crouch tonight alley bubble adjust polar syrup seek meat seek";

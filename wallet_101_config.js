@@ -1,1 +1,1 @@
-var mnemonic = "company silly symbol today bind property dust gain level rural drink mushroom";
+var mnemonic = "dinner accuse devote elite mention educate army upset place double club pottery";

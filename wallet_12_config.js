@@ -1,1 +1,1 @@
-var mnemonic = "service budget kiss chicken mistake aware column enter then girl idea cram";
+var mnemonic = "enemy shield wise erupt excite race bullet story breeze family accuse ready";

@@ -1,1 +1,1 @@
-var mnemonic = "toward adult garlic feed scrap absent blouse fire burst equip december ramp";
+var mnemonic = "lesson tourist result sure autumn focus endless cigar number firm country fetch";

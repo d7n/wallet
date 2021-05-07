@@ -1,1 +1,1 @@
-var mnemonic = "repair script liberty trial razor fresh mosquito skate axis ship material pole";
+var mnemonic = "grace huge divide chicken enemy vague magic original trade edge suit actress";

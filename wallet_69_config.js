@@ -1,1 +1,1 @@
-var mnemonic = "now raise gorilla hawk endless shy private color grocery firm surface soft";
+var mnemonic = "wasp siren chimney member stay blade door predict swallow focus income smile";

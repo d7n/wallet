@@ -1,1 +1,1 @@
-var mnemonic = "item pelican regular hundred canal joke dry leader wheat analyst mind behave";
+var mnemonic = "horn retreat build code dinosaur true siege pool park diary market where";

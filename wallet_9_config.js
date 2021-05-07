@@ -1,1 +1,1 @@
-var mnemonic = "reflect concert unusual ridge spice since light zoo heart empty boat advice";
+var mnemonic = "spare artist distance federal quote marble ability picture embark brisk flee warfare";

@@ -1,1 +1,1 @@
-var mnemonic = "check bag rhythm whale address infant seat ensure suspect capital seven glory";
+var mnemonic = "crucial grace fold page brother connect pioneer dilemma element filter modify imitate";

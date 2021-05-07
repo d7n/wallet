@@ -1,1 +1,1 @@
-var mnemonic = "paddle ripple coral give pig where tooth camera public category invest ensure";
+var mnemonic = "response afraid mesh tip stem profit mercy wear pioneer series assume chest";

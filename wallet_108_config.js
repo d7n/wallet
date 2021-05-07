@@ -1,1 +1,1 @@
-var mnemonic = "ship vacuum dilemma keen antique situate glory close notable oven section ecology";
+var mnemonic = "toilet output law deputy zebra light bike peace throw forum elephant melody";

@@ -1,1 +1,1 @@
-var mnemonic = "edge balcony cargo retire place congress skirt odor bread risk humble resist";
+var mnemonic = "turtle domain sausage flip tenant stand soup stay system stand dad brave";

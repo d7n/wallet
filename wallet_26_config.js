@@ -1,1 +1,1 @@
-var mnemonic = "final stay valid detail nest vendor olive grief crew cash walk public";
+var mnemonic = "advance flower come portion army eternal ridge share vital puzzle attend judge";

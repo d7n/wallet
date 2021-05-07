@@ -1,1 +1,1 @@
-var mnemonic = "anxiety vessel negative fog catch salad property bitter lend cargo hollow fossil";
+var mnemonic = "worry please icon motor identify illegal already position silk sheriff skin ghost";

@@ -1,1 +1,1 @@
-var mnemonic = "mango rack beach index banner zero bulb cushion zoo tree lyrics economy";
+var mnemonic = "reflect glove trap siren walnut void rigid winter art rail judge history";
