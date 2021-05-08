@@ -1,1 +1,1 @@
-var mnemonic = "region dragon render depth wide interest cup purse bundle royal spin cargo";
+var mnemonic = "scrap assist yard resemble fancy print violin screen parade market second rally";

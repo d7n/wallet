@@ -1,1 +1,1 @@
-var mnemonic = "damage material history transfer shadow dignity stomach wild credit stairs raccoon affair";
+var mnemonic = "violin cage lunar hockey hedgehog session beef bird input spirit bulb fiber";

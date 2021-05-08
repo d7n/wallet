@@ -1,1 +1,1 @@
-var mnemonic = "tray match embark fury bronze solution blast chuckle neck confirm because slam";
+var mnemonic = "used tape december source stumble lake true allow play giraffe credit cream";

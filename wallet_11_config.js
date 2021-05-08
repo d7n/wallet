@@ -1,1 +1,1 @@
-var mnemonic = "egg bubble indoor health accuse certain strike toward dizzy dry marine maze";
+var mnemonic = "tuna address bench chronic okay next lottery zoo payment hero okay involve";

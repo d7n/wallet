@@ -1,1 +1,1 @@
-var mnemonic = "airport unable success front hip verb limit spawn repeat essence duty evoke";
+var mnemonic = "walk lock donor narrow flee apple seminar build clown minimum second slot";

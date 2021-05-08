@@ -1,1 +1,1 @@
-var mnemonic = "coral bachelor harsh gas auction pigeon vault expire student acid stove usual";
+var mnemonic = "physical immune van achieve rug nurse fall flame note humor sustain combine";

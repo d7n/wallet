@@ -1,1 +1,1 @@
-var mnemonic = "error fruit service around rich express flame smooth where lazy lens universe";
+var mnemonic = "inject sausage insane axis topple asset nature minimum shift drum spatial invite";

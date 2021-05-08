@@ -1,1 +1,1 @@
-var mnemonic = "useful machine bless scrub ten write allow dwarf farm always train zero";
+var mnemonic = "nurse brother reward arch unfold advice village rib curve black text sponsor";

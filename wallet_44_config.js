@@ -1,1 +1,1 @@
-var mnemonic = "shock author rigid amazing odor stadium wheat push visual undo tortoise reopen";
+var mnemonic = "crush oppose device bitter deliver kiss amazing firm resemble clever seed damp";

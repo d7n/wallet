@@ -1,1 +1,1 @@
-var mnemonic = "glory oak move latin forum gentle great brass regret neglect muscle torch";
+var mnemonic = "pupil seminar desk fence rose mouse tornado segment owner copper original alien";

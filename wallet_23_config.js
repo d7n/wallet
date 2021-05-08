@@ -1,1 +1,1 @@
-var mnemonic = "gossip relief ivory put mail input olympic degree toilet flash victory mix";
+var mnemonic = "material loan horn song rate real verify episode pride pair paddle color";

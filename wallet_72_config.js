@@ -1,1 +1,1 @@
-var mnemonic = "vote burger worth hurry edge cushion video oil purse hole search stairs";
+var mnemonic = "rhythm gown fire venture very enter siege faculty blossom crime limit glance";

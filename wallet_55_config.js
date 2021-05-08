@@ -1,1 +1,1 @@
-var mnemonic = "exchange stick beyond february art deposit circle business develop plastic wait vicious";
+var mnemonic = "forest flame account since slow fox car grid initial lazy leisure hood";

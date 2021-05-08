@@ -1,1 +1,1 @@
-var mnemonic = "rack size sting burden assume exhaust fitness opinion pact warfare cruel elegant";
+var mnemonic = "south luxury satisfy ice sleep lamp strike snap parent aisle brown butter";

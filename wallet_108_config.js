@@ -1,1 +1,1 @@
-var mnemonic = "potato member monitor hedgehog slogan margin father lizard dilemma desert uncover junior";
+var mnemonic = "wagon project raccoon door elite code place swallow flavor three curve ivory";

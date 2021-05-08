@@ -1,1 +1,1 @@
-var mnemonic = "word resource grass range expect always bonus feel brief spoon team artist";
+var mnemonic = "clinic planet tomorrow prize glove view stem delay sense matrix stereo truly";

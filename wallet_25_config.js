@@ -1,1 +1,1 @@
-var mnemonic = "among tornado decade essay assist awful knee cereal power army monster iron";
+var mnemonic = "barrel dignity target group garden arrive useful legal discover multiply wrong prison";

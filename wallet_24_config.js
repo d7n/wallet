@@ -1,1 +1,1 @@
-var mnemonic = "leopard topic trumpet property maximum over fantasy fashion hurdle laugh goat century";
+var mnemonic = "ordinary inside robot nasty chuckle celery luggage defy main equal help relax";

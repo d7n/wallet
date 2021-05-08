@@ -1,1 +1,1 @@
-var mnemonic = "receive suggest surround old leaf dwarf able develop frown already share mandate";
+var mnemonic = "magnet better inflict skin renew vivid view seminar woman follow alien trend";

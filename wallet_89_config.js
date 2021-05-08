@@ -1,1 +1,1 @@
-var mnemonic = "brother pulp garage define baby detect expand jump deliver still quiz peace";
+var mnemonic = "purchase choose genre monitor unit tiny monster infant chunk march music napkin";

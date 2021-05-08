@@ -1,1 +1,1 @@
-var mnemonic = "middle exit tuna unit mirror sunny fox digital monkey foil liquid twenty";
+var mnemonic = "glow taxi host satoshi coach bird any sustain behind aware salmon few";

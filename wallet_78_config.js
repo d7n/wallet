@@ -1,1 +1,1 @@
-var mnemonic = "key judge mechanic lazy elbow genre ranch drill chalk bench fatal design";
+var mnemonic = "squeeze toss quarter mad blast syrup master tribe squeeze leaf nature economy";

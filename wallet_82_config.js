@@ -1,1 +1,1 @@
-var mnemonic = "conduct twin champion snap deliver cry uncover tray focus horror salmon voice";
+var mnemonic = "happy point text lens inflict awful carbon buzz dismiss bounce craft pill";

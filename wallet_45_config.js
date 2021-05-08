@@ -1,1 +1,1 @@
-var mnemonic = "okay bronze trick aerobic clever bamboo human cat antenna fame kiss inform";
+var mnemonic = "dirt anger dove increase between easily film slice cube occur snack engage";

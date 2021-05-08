@@ -1,1 +1,1 @@
-var mnemonic = "develop census hole innocent market odor dove erase stay throw shove smooth";
+var mnemonic = "breeze cactus use sense expand almost asset strong tennis security heavy cash";

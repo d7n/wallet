@@ -1,1 +1,1 @@
-var mnemonic = "grain awesome curious desk mail multiply rookie announce carbon illness ocean unusual";
+var mnemonic = "letter flock major hospital wrong roast banana fame combine divert shell usual";

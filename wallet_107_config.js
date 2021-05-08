@@ -1,1 +1,1 @@
-var mnemonic = "tumble daring roast equip praise issue drift mesh course river swamp move";
+var mnemonic = "normal wife fold used front wide action dilemma airport boss enough assume";

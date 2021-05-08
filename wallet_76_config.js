@@ -1,1 +1,1 @@
-var mnemonic = "parent easily credit reopen moral struggle prison tank card fluid boring jar";
+var mnemonic = "scan gravity boil hero snap scorpion ugly biology struggle mesh vivid impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "slam someone now chef strike vital catalog egg language orphan sausage amateur";
+var mnemonic = "glue nerve toast use differ tail embark cute taste sheriff level autumn";

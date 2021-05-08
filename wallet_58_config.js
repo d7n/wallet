@@ -1,1 +1,1 @@
-var mnemonic = "park health bring dirt either glory era provide measure space sound comfort";
+var mnemonic = "evoke crunch segment extend bunker cargo twelve purpose recipe convince vicious turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "north because famous middle squirrel slim barely inform resource bottom sense car";
+var mnemonic = "name dutch figure swing gauge thumb give basket trick skate mesh achieve";

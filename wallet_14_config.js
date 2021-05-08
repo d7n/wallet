@@ -1,1 +1,1 @@
-var mnemonic = "cute magnet execute rice have pill history tower dilemma since enforce ginger";
+var mnemonic = "position pave ostrich message craft sunset joke obvious proud neither sweet awful";

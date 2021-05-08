@@ -1,1 +1,1 @@
-var mnemonic = "inch spike jealous anger teach wire business road glass inquiry try spread";
+var mnemonic = "flag title step legal elephant script huge twenty flush exhibit welcome foil";

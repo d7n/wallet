@@ -1,1 +1,1 @@
-var mnemonic = "dream veteran yellow oven outdoor jeans theme skirt flat liberty couple exist";
+var mnemonic = "prosper snack bench wage tonight siege session hill nasty develop sight valid";

@@ -1,1 +1,1 @@
-var mnemonic = "priority final fatal retreat negative ranch slow recipe cube season vivid kid";
+var mnemonic = "jewel animal wink tornado debate country umbrella simple subject alley speed coconut";

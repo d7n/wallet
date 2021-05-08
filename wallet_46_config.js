@@ -1,1 +1,1 @@
-var mnemonic = "crunch network pepper empty glove present purchase fiscal abuse topic office history";
+var mnemonic = "surface husband negative double vendor anxiety vicious coin nation umbrella barrel illness";

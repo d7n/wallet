@@ -1,1 +1,1 @@
-var mnemonic = "crunch hint style early marriage into guilt spoil over gown inner orphan";
+var mnemonic = "simple magnet ethics accuse excuse exact vague nice sound stick useless peanut";

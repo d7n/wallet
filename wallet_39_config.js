@@ -1,1 +1,1 @@
-var mnemonic = "strategy steak coin forget leisure print abandon crouch vast device edge tiny";
+var mnemonic = "wasp capable venue tooth life walk elevator bronze tuna keep deputy index";

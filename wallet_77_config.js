@@ -1,1 +1,1 @@
-var mnemonic = "talk cry equip cabin move corn differ feel floor icon spoon off";
+var mnemonic = "subject flower lawsuit bomb motor reject broccoli portion among buyer shaft royal";

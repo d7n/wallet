@@ -1,1 +1,1 @@
-var mnemonic = "account doll item rail verify section weird bulk banana uncover copy debris";
+var mnemonic = "magic depend minute violin market they dinosaur dumb slab arrive donkey focus";

@@ -1,1 +1,1 @@
-var mnemonic = "attack table hybrid honey coin beef lab example know smile sense weather";
+var mnemonic = "client donor forest armor athlete leader vanish despair black mean soccer hurt";

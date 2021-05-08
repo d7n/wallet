@@ -1,1 +1,1 @@
-var mnemonic = "useful tell simple member build tube south size monitor friend believe bone";
+var mnemonic = "transfer father connect book cushion own antique movie hospital ceiling chapter post";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort soap view faith drop mention hub pulp choose donor sort help";
+var mnemonic = "rescue govern puppy term august lawsuit claim always amount mosquito lonely gather";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom despair bomb traffic dad process project already wasp patch slush element";
+var mnemonic = "company dawn blur ship sponsor task cover glass mean civil summer comic";

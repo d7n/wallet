@@ -1,1 +1,1 @@
-var mnemonic = "potato sting claim feel grow cruel coin fever famous august photo save";
+var mnemonic = "quiz metal drive infant mercy comic found like garden stem vibrant ginger";

@@ -1,1 +1,1 @@
-var mnemonic = "bulk story jacket still valve fall dice absent fog crisp renew echo";
+var mnemonic = "cinnamon dry disagree defy march harbor tuition mix poverty swallow alert fat";

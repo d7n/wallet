@@ -1,1 +1,1 @@
-var mnemonic = "other middle table provide cricket vehicle pledge metal neutral concert extra second";
+var mnemonic = "trophy start betray nice prison daughter cruise assist stove mix axis wool";

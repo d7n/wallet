@@ -1,1 +1,1 @@
-var mnemonic = "truck luggage diary diagram cute parent drive absorb body love stereo capable";
+var mnemonic = "unfold jungle they arrive work mountain inch aim wink quarter spider borrow";

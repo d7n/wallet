@@ -1,1 +1,1 @@
-var mnemonic = "copy place tennis bleak destroy tower wave action erupt despair leader captain";
+var mnemonic = "reduce action april ghost will fly expire ski prepare load skill term";

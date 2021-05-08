@@ -1,1 +1,1 @@
-var mnemonic = "network aware mixture wrap bag nut inch forum caught fetch attract hen";
+var mnemonic = "gauge trouble lift escape victory pottery later correct govern orient vote thumb";

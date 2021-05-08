@@ -1,1 +1,1 @@
-var mnemonic = "system syrup jazz enlist cotton fault deal clap satoshi credit extend enroll";
+var mnemonic = "camp goddess dust direct indoor robot clap cabin merry hamster letter arctic";

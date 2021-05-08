@@ -1,1 +1,1 @@
-var mnemonic = "settle pair estate eye series hole charge ghost pool case dumb judge";
+var mnemonic = "post virtual key lava rescue owner rib move gun basic earn broken";

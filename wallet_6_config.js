@@ -1,1 +1,1 @@
-var mnemonic = "busy december scene chaos knee critic until actress nerve device spy guess";
+var mnemonic = "dad toilet hotel method stadium enough wolf divide video right equip pole";

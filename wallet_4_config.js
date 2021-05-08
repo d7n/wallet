@@ -1,1 +1,1 @@
-var mnemonic = "shift erosion glove drama fantasy ritual then bean soft turn nasty coffee";
+var mnemonic = "shove slow document predict senior pottery now edge endless brave dignity whip";

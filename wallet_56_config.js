@@ -1,1 +1,1 @@
-var mnemonic = "elbow edge kangaroo wet fit gauge master debate equip approve eager canal";
+var mnemonic = "pledge slogan stomach wisdom talk consider grain law animal fiber spider okay";

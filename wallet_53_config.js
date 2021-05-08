@@ -1,1 +1,1 @@
-var mnemonic = "uniform next prize jewel cereal document number man ship dinner arch segment";
+var mnemonic = "inform boy acoustic host wagon brown scene special unlock degree question weasel";

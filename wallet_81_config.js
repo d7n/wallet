@@ -1,1 +1,1 @@
-var mnemonic = "rapid genius torch hat grunt road fatal patient kite grain venture derive";
+var mnemonic = "vivid vibrant athlete motion media thunder audit burden subject boss attack office";

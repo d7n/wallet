@@ -1,1 +1,1 @@
-var mnemonic = "other coach term fox begin sadness raise horror already soft lemon dice";
+var mnemonic = "truth scheme dance false saddle near universe sniff time guide ahead consider";

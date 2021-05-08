@@ -1,1 +1,1 @@
-var mnemonic = "avocado speak glass coral twenty safe embrace divert alarm useless join exercise";
+var mnemonic = "artefact sight victory adult biology cattle squeeze tattoo educate learn security machine";

@@ -1,1 +1,1 @@
-var mnemonic = "rely quote parent chimney century fatigue wine rule jealous stadium jazz situate";
+var mnemonic = "hero wave equip general swift reduce garage minimum upon ostrich indoor suspect";

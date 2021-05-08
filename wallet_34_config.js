@@ -1,1 +1,1 @@
-var mnemonic = "timber aware table gold shaft only stone village waste fade dirt summer";
+var mnemonic = "winner crush like van honey dial habit disorder learn vacuum outer fashion";

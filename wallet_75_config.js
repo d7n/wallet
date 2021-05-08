@@ -1,1 +1,1 @@
-var mnemonic = "fragile erupt green route dash fox canyon throw bar blossom october trend";
+var mnemonic = "fitness brief fury middle execute high attitude lucky sorry omit organ addict";

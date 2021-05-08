@@ -1,1 +1,1 @@
-var mnemonic = "manage express zero tone stay tide width carbon quality buzz pelican asthma";
+var mnemonic = "junk deposit stay trip reason unusual silent awful endorse enroll always brave";

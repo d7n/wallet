@@ -1,1 +1,1 @@
-var mnemonic = "guilt game dish science grief biology addict grab mean general puppy worry";
+var mnemonic = "total noodle tonight method endless inside verify mass bone tide document accuse";

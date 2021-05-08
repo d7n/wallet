@@ -1,1 +1,1 @@
-var mnemonic = "mansion joy evoke split web blame put photo silver inquiry test patch";
+var mnemonic = "replace pilot weasel various project flavor project icon violin arch verify horn";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow mosquito price evidence gallery discover wool fit enemy tribe diamond actress";
+var mnemonic = "basic priority upon bread scrap thing need beyond shop omit cupboard yard";

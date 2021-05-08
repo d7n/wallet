@@ -1,1 +1,1 @@
-var mnemonic = "over grace awful bleak subway gossip absorb school base protect aisle rice";
+var mnemonic = "spider label mask share dismiss perfect slogan more effort amused nut garden";

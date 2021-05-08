@@ -1,1 +1,1 @@
-var mnemonic = "oxygen such slab anger puzzle tuna calm slot bundle fly glimpse nerve";
+var mnemonic = "misery floor merit wrong avocado pear virus erode spatial marble mention object";

@@ -1,1 +1,1 @@
-var mnemonic = "please wait idle sell pencil fly rough deposit liberty salmon tree glory";
+var mnemonic = "idle almost lemon welcome beef absorb beef useful daring play reform mean";

@@ -1,1 +1,1 @@
-var mnemonic = "produce oyster random pigeon action position artwork movie act buffalo during insect";
+var mnemonic = "crew ranch deposit cherry youth crisp pear kite produce air stumble chuckle";

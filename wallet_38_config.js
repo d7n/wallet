@@ -1,1 +1,1 @@
-var mnemonic = "silver behind else labor rack kingdom question pact body length cement blossom";
+var mnemonic = "circle spell trash soft cradle sheriff mouse sight first they unaware improve";

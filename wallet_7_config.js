@@ -1,1 +1,1 @@
-var mnemonic = "elite hour frozen grant humble stamp yellow sort adjust blue blind art";
+var mnemonic = "grid agent egg obscure flame clay brand empower ride dilemma album live";

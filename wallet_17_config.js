@@ -1,1 +1,1 @@
-var mnemonic = "coyote dutch exhibit play wait nephew mushroom orchard scheme tag gain walk";
+var mnemonic = "wisdom derive urban trumpet strategy apple stock iron custom clarify result govern";

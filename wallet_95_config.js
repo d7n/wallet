@@ -1,1 +1,1 @@
-var mnemonic = "network budget hover genius merge breeze math only century occur inquiry lava";
+var mnemonic = "stand planet skirt veteran length gown stove assist spread swift desk endorse";

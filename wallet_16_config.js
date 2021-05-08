@@ -1,1 +1,1 @@
-var mnemonic = "symbol add equip route blur claw wash find steak video curtain normal";
+var mnemonic = "pulp december cube artefact unhappy quiz foster girl broom someone news cushion";

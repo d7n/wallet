@@ -1,1 +1,1 @@
-var mnemonic = "census infant rent gentle struggle merge kingdom casual ramp float prepare faith";
+var mnemonic = "orchard worth shield pistol loop little humble recall sad battle ocean keen";

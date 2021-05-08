@@ -1,1 +1,1 @@
-var mnemonic = "bomb bargain inherit guitar march park renew arrow father sorry tiny outdoor";
+var mnemonic = "vault gather method check gadget crisp resemble patrol must bleak twist kind";

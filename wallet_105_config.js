@@ -1,1 +1,1 @@
-var mnemonic = "hobby useful hard original spoil puppy identify story casual decide pride brass";
+var mnemonic = "sweet table decline detect noodle cry pupil donate glove flash enforce number";

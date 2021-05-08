@@ -1,1 +1,1 @@
-var mnemonic = "pulp act dream meat guide best cruel often bitter umbrella flight occur";
+var mnemonic = "file joy remind betray sphere potato bag chuckle crush indicate kit feel";

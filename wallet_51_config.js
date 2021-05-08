@@ -1,1 +1,1 @@
-var mnemonic = "glass casual eyebrow mushroom fire cabbage awesome drop lemon coast area buffalo";
+var mnemonic = "bag idle bomb pattern away remember laptop parade town verb school wolf";

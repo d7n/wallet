@@ -1,1 +1,1 @@
-var mnemonic = "spirit release maximum scatter produce junior bitter rookie loyal alarm hollow cannon";
+var mnemonic = "area sign dinosaur find drip lamp portion task champion rain language hood";

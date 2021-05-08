@@ -1,1 +1,1 @@
-var mnemonic = "dad oxygen achieve mushroom emerge country talk lazy hair outdoor truth plunge";
+var mnemonic = "gallery nice manual world little nation grape settle accuse split blouse tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "awful odor soon aim dove crush sail wave jazz suffer remember sister";
+var mnemonic = "tornado swear very absent wide shock wink style paper drip alert sorry";

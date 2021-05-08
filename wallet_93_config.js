@@ -1,1 +1,1 @@
-var mnemonic = "delay million snap always bullet bless antenna smile siege outer tissue sand";
+var mnemonic = "circle volume chat prefer age exact motion chair fiction humble pottery enter";

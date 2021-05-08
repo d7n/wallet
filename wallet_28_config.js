@@ -1,1 +1,1 @@
-var mnemonic = "offer convince isolate silver lounge broom lobster dolphin simple mango adapt idle";
+var mnemonic = "can boss bunker stomach engage chuckle address arch journey corn ice result";

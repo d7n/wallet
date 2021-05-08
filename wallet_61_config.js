@@ -1,1 +1,1 @@
-var mnemonic = "post crater floor torch oppose neither farm human cover glimpse palace local";
+var mnemonic = "verify ocean nest cereal defy life angry pull wrestle horn sample raven";

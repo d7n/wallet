@@ -1,1 +1,1 @@
-var mnemonic = "light animal twice enact ankle spot access actor absurd moment rather series";
+var mnemonic = "grit school venture flip basket leader choice finger paper wrap begin width";
