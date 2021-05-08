@@ -1,1 +1,1 @@
-var mnemonic = "wheel butter exercise artefact marble mansion genre permit lucky erase final foam";
+var mnemonic = "easy note object sand prefer kangaroo image include subject bike about emerge";

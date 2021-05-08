@@ -1,1 +1,1 @@
-var mnemonic = "mirror joke green token buyer unlock wear access already reflect regret grunt";
+var mnemonic = "final spawn leopard pizza betray copy strategy guess solid vacant that over";

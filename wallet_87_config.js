@@ -1,1 +1,1 @@
-var mnemonic = "wheel siren orient lab lawn bean north foot inside scatter stand wet";
+var mnemonic = "cream eyebrow arm rib pond round nest illegal catch wrestle miracle bridge";

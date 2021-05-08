@@ -1,1 +1,1 @@
-var mnemonic = "like nation mammal grant frozen nation bronze ozone tissue december liberty cry";
+var mnemonic = "donkey bomb minor mind venue title inside liberty tuition absorb robust during";

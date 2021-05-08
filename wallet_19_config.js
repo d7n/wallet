@@ -1,1 +1,1 @@
-var mnemonic = "hockey myth captain rug caught title time heavy transfer aware drip atom";
+var mnemonic = "brisk armor matrix rally shiver execute brass tunnel secret dolphin field talk";

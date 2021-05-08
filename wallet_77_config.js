@@ -1,1 +1,1 @@
-var mnemonic = "current idle athlete sport mountain occur news swim kiss demand cup ceiling";
+var mnemonic = "arctic foot repair cram siege cricket thank certain honey arrange future recall";

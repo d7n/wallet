@@ -1,1 +1,1 @@
-var mnemonic = "float worry drastic drop turkey bronze anxiety scare another army secret lake";
+var mnemonic = "stand day dust nature arrange chronic illegal again rather blade run permit";

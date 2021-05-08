@@ -1,1 +1,1 @@
-var mnemonic = "idle choice pill pill later flower evidence brain left sand visa genuine";
+var mnemonic = "guilt praise sunny nose immense subject hazard trumpet develop eagle oblige knife";

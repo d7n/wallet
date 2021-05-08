@@ -1,1 +1,1 @@
-var mnemonic = "toilet record whale visa estate swamp subway slot coil ocean energy govern";
+var mnemonic = "monster join record cigar begin breeze mango black around idea resource young";

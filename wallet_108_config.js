@@ -1,1 +1,1 @@
-var mnemonic = "profit movie ostrich clap wide goddess various under civil material tube squeeze";
+var mnemonic = "blossom fiction pulp army ceiling cheese glory left rigid feature garlic joke";

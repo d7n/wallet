@@ -1,1 +1,1 @@
-var mnemonic = "piece text series blood antenna link moment journey tumble garden pulp rhythm";
+var mnemonic = "toward story clinic maze fatal space bread good forest return like banner";

@@ -1,1 +1,1 @@
-var mnemonic = "survey wash acoustic silent coin token arrange hub decide dinosaur size flip";
+var mnemonic = "bounce camera invest unique famous castle cushion west setup laptop foster course";

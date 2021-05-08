@@ -1,1 +1,1 @@
-var mnemonic = "volume gain execute need evil hub wolf senior choice friend evoke shoe";
+var mnemonic = "among weather panda distance inside tonight amateur hire track eight team current";

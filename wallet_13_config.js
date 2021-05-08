@@ -1,1 +1,1 @@
-var mnemonic = "wise three spin say pledge spatial fat stamp follow equal once borrow";
+var mnemonic = "copper thumb stay two cereal family armor orphan nominee bar tone tumble";

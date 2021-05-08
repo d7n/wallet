@@ -1,1 +1,1 @@
-var mnemonic = "main abandon february act glory borrow mom hill venue hammer illness sweet";
+var mnemonic = "home hat inform civil review winter reopen matrix reject usual chef omit";

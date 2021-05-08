@@ -1,1 +1,1 @@
-var mnemonic = "below corn detect direct worth arrow print lyrics poem craft street sunny";
+var mnemonic = "thumb scheme coach sleep wire okay humor cluster mushroom gadget regret essay";

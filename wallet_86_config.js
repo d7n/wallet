@@ -1,1 +1,1 @@
-var mnemonic = "valley melody whisper melody private quick spy chimney general twice raven viable";
+var mnemonic = "soldier domain confirm mountain cricket add loud people salute disagree congress middle";

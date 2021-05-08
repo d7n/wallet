@@ -1,1 +1,1 @@
-var mnemonic = "result daring bench shy mercy ready asthma news prefer size law craft";
+var mnemonic = "bonus history become resist hobby crew gold road skirt gain pelican axis";

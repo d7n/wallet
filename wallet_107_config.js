@@ -1,1 +1,1 @@
-var mnemonic = "wave black mix ensure renew digital movie ask record jar female glance";
+var mnemonic = "rural author casual goose attack cushion faint bracket require kiwi undo bind";

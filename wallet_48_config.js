@@ -1,1 +1,1 @@
-var mnemonic = "opera problem soda spin cushion youth broccoli room hotel hub more maze";
+var mnemonic = "before good field trouble gown scan blue chunk typical coin drill birth";

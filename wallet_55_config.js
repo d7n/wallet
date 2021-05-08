@@ -1,1 +1,1 @@
-var mnemonic = "girl stuff carbon unlock entire excite inmate diagram nurse exhibit pride install";
+var mnemonic = "join coconut breeze believe program ahead glimpse saddle machine frown bean finger";

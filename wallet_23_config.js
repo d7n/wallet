@@ -1,1 +1,1 @@
-var mnemonic = "resemble swap replace lion girl noodle property word hire champion remind horn";
+var mnemonic = "dolphin speed copy afford shy trial firm bone dwarf reform truth scale";

@@ -1,1 +1,1 @@
-var mnemonic = "battle vague marble achieve wish danger rhythm valve next sphere cake there";
+var mnemonic = "plate mobile team road upgrade young put discover category erupt stay diary";

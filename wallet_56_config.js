@@ -1,1 +1,1 @@
-var mnemonic = "pond tomato enough note banner buyer warfare remember armed kite bike wall";
+var mnemonic = "twenty route method skate exit payment define hungry wrist wheat novel various";

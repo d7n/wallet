@@ -1,1 +1,1 @@
-var mnemonic = "empower tell verb gold giggle silent elder egg park mixed cricket diet";
+var mnemonic = "pond gentle science pitch valve control lock candy medal true cheap chaos";

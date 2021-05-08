@@ -1,1 +1,1 @@
-var mnemonic = "interest dilemma base connect kidney negative turkey food resource hope avoid text";
+var mnemonic = "timber famous critic proof dinner present mechanic high avocado twin indicate sunny";

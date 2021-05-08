@@ -1,1 +1,1 @@
-var mnemonic = "range isolate evil route visit tongue cannon sea canal tube pair two";
+var mnemonic = "weather also cherry music pause drink element talent item degree color photo";

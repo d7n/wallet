@@ -1,1 +1,1 @@
-var mnemonic = "tragic minimum garlic daring increase juice hen truck reward uncle tube fragile";
+var mnemonic = "orient tourist better help box nephew piece ice merit sea crop upgrade";

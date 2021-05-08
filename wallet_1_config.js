@@ -1,1 +1,1 @@
-var mnemonic = "cream empty thing embrace casino matter sudden gift version carry hover velvet";
+var mnemonic = "control teach sudden still glue device good faith exact print match sun";

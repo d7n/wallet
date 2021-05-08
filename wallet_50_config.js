@@ -1,1 +1,1 @@
-var mnemonic = "future sunset pull modify rally club expand glory retire unusual pave business";
+var mnemonic = "february above rail abuse stool accuse valley ritual rescue message green purpose";

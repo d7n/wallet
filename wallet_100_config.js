@@ -1,1 +1,1 @@
-var mnemonic = "ethics benefit blouse coyote moral receive spider butter carpet hollow museum oval";
+var mnemonic = "lawsuit hungry fiscal vault volcano tackle blossom awake shiver quality believe apology";

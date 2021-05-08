@@ -1,1 +1,1 @@
-var mnemonic = "matrix short toward stove cherry lunar cherry floor seed hedgehog wait regret";
+var mnemonic = "grow helmet false unfold prepare lift inspire someone video razor type base";

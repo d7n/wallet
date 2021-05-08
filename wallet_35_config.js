@@ -1,1 +1,1 @@
-var mnemonic = "use buzz process steak rack relax pledge shift century pink clarify vivid";
+var mnemonic = "satisfy sunset chimney fun rapid bulb broom ride flee wink brief want";

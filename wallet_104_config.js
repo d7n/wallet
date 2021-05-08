@@ -1,1 +1,1 @@
-var mnemonic = "desk hotel plastic bike remind any elbow dance erase black bachelor version";
+var mnemonic = "inquiry exact chair science panel armor learn immense process trophy accuse shine";

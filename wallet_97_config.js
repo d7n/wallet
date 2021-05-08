@@ -1,1 +1,1 @@
-var mnemonic = "plunge stable cream prepare enemy photo mention area senior demand bind decide";
+var mnemonic = "discover differ base catalog give smoke around state regret chase box patch";

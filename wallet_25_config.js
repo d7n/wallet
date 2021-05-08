@@ -1,1 +1,1 @@
-var mnemonic = "strike attract arrange spell parade mixed salute tooth upon identify tiny shed";
+var mnemonic = "jazz chef worry chronic forest tackle jealous two mass nurse tongue charge";

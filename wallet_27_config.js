@@ -1,1 +1,1 @@
-var mnemonic = "note buyer peasant detect divorce blue bottom voyage yellow slim girl father";
+var mnemonic = "inspire desk butter caught chat master issue wonder chest have music produce";

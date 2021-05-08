@@ -1,1 +1,1 @@
-var mnemonic = "habit attract gun among swallow fence shock fiber gas drum tunnel ugly";
+var mnemonic = "dune couple trip need able finish marriage bundle fee outer tail faint";

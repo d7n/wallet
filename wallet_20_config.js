@@ -1,1 +1,1 @@
-var mnemonic = "lens baby flower clutch need escape inspire mandate galaxy hub waste hair";
+var mnemonic = "thunder uniform today solid monster dinosaur umbrella steel clip uncle prepare lizard";

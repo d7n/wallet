@@ -1,1 +1,1 @@
-var mnemonic = "hurt lunar provide radio palm result left spare tuition orbit edge victory";
+var mnemonic = "nation surface lecture menu helmet senior address genius grass chef soft festival";

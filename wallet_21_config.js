@@ -1,1 +1,1 @@
-var mnemonic = "toss indicate best giggle victory pupil minute rapid retreat combine little there";
+var mnemonic = "oxygen kidney such all fade pizza industry object victory cloud gas diary";

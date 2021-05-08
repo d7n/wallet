@@ -1,1 +1,1 @@
-var mnemonic = "few unfair loop item throw neglect usual into oxygen tenant blur strong";
+var mnemonic = "furnace spin sister lonely piece enter cable blossom employ tortoise close liberty";

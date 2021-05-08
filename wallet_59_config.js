@@ -1,1 +1,1 @@
-var mnemonic = "digital cabin verb garlic october lemon grant bamboo suit cage mad raw";
+var mnemonic = "grant win still success slush lyrics thrive bubble interest hotel surge snack";

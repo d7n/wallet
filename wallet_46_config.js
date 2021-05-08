@@ -1,1 +1,1 @@
-var mnemonic = "labor surround cook grow mix sword tiger valid exercise limb proud arch";
+var mnemonic = "into afraid easily veteran scan cluster trend price employ noise various stand";

@@ -1,1 +1,1 @@
-var mnemonic = "myth load name wolf used trend become pudding reward moral bargain carry";
+var mnemonic = "riot immune adult salute use modify announce lemon supply priority arrow practice";

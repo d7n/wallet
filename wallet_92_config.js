@@ -1,1 +1,1 @@
-var mnemonic = "box mom leisure close run pause wasp shell critic miss tip congress";
+var mnemonic = "document left tool spread recall wine achieve uncover way damage actress gallery";

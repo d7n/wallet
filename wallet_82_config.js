@@ -1,1 +1,1 @@
-var mnemonic = "together pretty bench hover vague comfort fitness lecture price riot owner bind";
+var mnemonic = "dog solve resemble umbrella glue cabin swim nerve seat menu omit civil";

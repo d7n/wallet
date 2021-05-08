@@ -1,1 +1,1 @@
-var mnemonic = "black breeze approve drift source deposit punch engine skate endorse source pitch";
+var mnemonic = "want turtle parent unfold flower lock solid library injury wing enemy trial";

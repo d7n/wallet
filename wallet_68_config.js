@@ -1,1 +1,1 @@
-var mnemonic = "strong card idea dinner clarify cactus skate robot cool dizzy test upset";
+var mnemonic = "zero because curious cluster label alone blue siege sort wonder deer limit";

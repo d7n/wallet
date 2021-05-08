@@ -1,1 +1,1 @@
-var mnemonic = "blouse confirm junior decrease strike unaware duck soda tag apple fiber promote";
+var mnemonic = "able sea south gown cotton dash visa physical invite any clinic moon";

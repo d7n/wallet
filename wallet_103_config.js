@@ -1,1 +1,1 @@
-var mnemonic = "camp black biology fury junk injury senior cycle lizard disorder predict deal";
+var mnemonic = "click shiver attend rather degree depend jelly senior immense sunny eagle pluck";

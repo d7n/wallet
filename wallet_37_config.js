@@ -1,1 +1,1 @@
-var mnemonic = "limb beyond question sketch sister gossip order man prevent window cube response";
+var mnemonic = "emotion today crime bubble balance exile wagon wreck rifle latin laundry gown";

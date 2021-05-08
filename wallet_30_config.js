@@ -1,1 +1,1 @@
-var mnemonic = "remove sad melt outdoor notable used flame spider firm present volcano canal";
+var mnemonic = "jazz album general wise trumpet twist cat wrestle pepper account sausage day";

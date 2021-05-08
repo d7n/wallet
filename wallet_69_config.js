@@ -1,1 +1,1 @@
-var mnemonic = "exist duty system banana please address daring album fatigue frog trial reflect";
+var mnemonic = "rude ribbon chest stamp detail model letter burger era cause feel merge";

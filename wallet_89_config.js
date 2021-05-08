@@ -1,1 +1,1 @@
-var mnemonic = "region nest rally yellow broom around jazz diagram balance erupt announce repeat";
+var mnemonic = "exhaust twelve vote crew detect green bulb life odor retreat game return";

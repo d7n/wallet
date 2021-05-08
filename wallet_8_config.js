@@ -1,1 +1,1 @@
-var mnemonic = "quantum few song weather sibling cruel voice share arch alpha crush mechanic";
+var mnemonic = "wheat view void coyote oil nerve behind gravity retire brand approve valve";

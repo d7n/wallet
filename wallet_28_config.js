@@ -1,1 +1,1 @@
-var mnemonic = "ship box circle furnace weapon topple radar guide tackle core frequent gown";
+var mnemonic = "across stick rate vacant tomato flock road office afraid aerobic husband pride";

@@ -1,1 +1,1 @@
-var mnemonic = "asset region beef slight follow trash talent peace margin only open daughter";
+var mnemonic = "oven pole equip alone midnight paddle act artefact play floor energy rival";

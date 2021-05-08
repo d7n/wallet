@@ -1,1 +1,1 @@
-var mnemonic = "equip panic clinic diesel useless oven slab piece dumb alter organ genre";
+var mnemonic = "stereo deny chest text mesh humble report together certain flower swarm spend";

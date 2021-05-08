@@ -1,1 +1,1 @@
-var mnemonic = "tiny lava castle prepare monkey sock record kangaroo very erase eye assume";
+var mnemonic = "warfare bring combine arrest napkin image fade crush off indoor dose shell";

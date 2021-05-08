@@ -1,1 +1,1 @@
-var mnemonic = "renew train zone theory attend execute purse dad vessel again tree consider";
+var mnemonic = "legal solid benefit shallow sea gossip amateur artwork mammal quantum pipe axis";

@@ -1,1 +1,1 @@
-var mnemonic = "peace winner save motor ozone judge plug kick rescue youth speak play";
+var mnemonic = "cry sight accuse song bulk mountain genius turkey drill divide pretty episode";

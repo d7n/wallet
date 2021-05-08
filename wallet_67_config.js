@@ -1,1 +1,1 @@
-var mnemonic = "supreme lecture neither giraffe nest aspect drill idea social predict embrace canyon";
+var mnemonic = "mandate baby switch nurse grief outer rent thunder layer opinion bulb knee";

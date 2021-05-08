@@ -1,1 +1,1 @@
-var mnemonic = "canal cricket bleak culture love rude antique upgrade pencil napkin myth jealous";
+var mnemonic = "cry toast trade lava hand kiwi cabbage usage junior train swear gain";

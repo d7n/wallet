@@ -1,1 +1,1 @@
-var mnemonic = "nature thunder choice move orange theme earth expire neutral double layer disorder";
+var mnemonic = "govern better coral way kiss ancient shrug bundle truth height hour lab";

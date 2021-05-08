@@ -1,1 +1,1 @@
-var mnemonic = "repair auto ignore wagon purity other dream crowd stable empower tuna fury";
+var mnemonic = "story beef fork already miss citizen unusual thunder green rail sentence mean";

@@ -1,1 +1,1 @@
-var mnemonic = "carry demise earth guitar iron good orbit furnace angle bamboo tired embrace";
+var mnemonic = "under long vivid chimney hungry ice twenty always account arrow novel way";

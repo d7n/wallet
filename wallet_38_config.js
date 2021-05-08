@@ -1,1 +1,1 @@
-var mnemonic = "absorb spike become patient enroll alter funny soccer thrive stool destroy rib";
+var mnemonic = "cat hire viable soap hero blue timber funny multiply case another soda";

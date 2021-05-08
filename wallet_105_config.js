@@ -1,1 +1,1 @@
-var mnemonic = "sleep evolve series address school toddler stay series analyst water canvas silent";
+var mnemonic = "slide senior follow happy stove possible shaft trim humor ice fall cactus";

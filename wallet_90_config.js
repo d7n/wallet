@@ -1,1 +1,1 @@
-var mnemonic = "close envelope impact release you draw broom cattle issue ship release tell";
+var mnemonic = "shrug planet ski steak vast kid cheap curious inquiry time aisle jacket";

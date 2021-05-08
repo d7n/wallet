@@ -1,1 +1,1 @@
-var mnemonic = "cigar fish arm soft throw dinner phrase grid skirt logic buddy click";
+var mnemonic = "detect share lady welcome wait gorilla useless demise skin since mushroom man";

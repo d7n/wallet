@@ -1,1 +1,1 @@
-var mnemonic = "absent laptop blame prefer soft furnace child nice flush runway purchase relax";
+var mnemonic = "come nice disagree rose script urban shift tool forest donor mesh lumber";

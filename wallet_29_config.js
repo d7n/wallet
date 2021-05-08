@@ -1,1 +1,1 @@
-var mnemonic = "junk aunt detect stay seek tortoise butter double invest maze horror acid";
+var mnemonic = "sight letter razor chief range salt festival beyond peanut orange figure narrow";

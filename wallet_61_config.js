@@ -1,1 +1,1 @@
-var mnemonic = "ring detect always work second sample helmet worth topic trigger winter hire";
+var mnemonic = "voice erase chest early income cherry hair marriage earth truth exit inmate";

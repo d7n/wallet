@@ -1,1 +1,1 @@
-var mnemonic = "case paddle type question length economy patch sail uniform coach wise tobacco";
+var mnemonic = "damp bunker swallow spoil sea flock swap loop first enter turtle axis";

@@ -1,1 +1,1 @@
-var mnemonic = "select vehicle index group annual garbage claw wool latin window sail melody";
+var mnemonic = "forest desert muscle swarm core heart poet puppy glide march mouse goose";

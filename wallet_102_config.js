@@ -1,1 +1,1 @@
-var mnemonic = "appear wide wasp margin supply correct harsh six fever hybrid latin swarm";
+var mnemonic = "inflict mom slot distance inspire leg defense aspect arm shock sphere heart";

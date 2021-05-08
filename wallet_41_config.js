@@ -1,1 +1,1 @@
-var mnemonic = "rude response scrub magic tired holiday fiction magnet bench series seminar south";
+var mnemonic = "report congress water royal snap visit document shift inhale joke voyage club";

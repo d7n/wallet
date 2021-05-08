@@ -1,1 +1,1 @@
-var mnemonic = "august soap indicate current album wire you word park turn process replace";
+var mnemonic = "about broccoli chicken census room inhale rib merry notice thing loyal basic";

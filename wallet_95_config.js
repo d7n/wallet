@@ -1,1 +1,1 @@
-var mnemonic = "pony pact paper laundry require pull can hotel spare silly century pigeon";
+var mnemonic = "fringe knife evolve view together tortoise ramp shield derive marine hunt umbrella";

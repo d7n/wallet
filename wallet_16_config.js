@@ -1,1 +1,1 @@
-var mnemonic = "meadow furnace habit skate miss file turkey illegal reduce conduct push quarter";
+var mnemonic = "reopen stem hole album south light elite aisle risk anger actress post";

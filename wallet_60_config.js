@@ -1,1 +1,1 @@
-var mnemonic = "detail cycle liquid alien innocent grunt learn margin lava panic trim alcohol";
+var mnemonic = "mammal index deny help chalk frown science kiss hurry finger spawn exist";

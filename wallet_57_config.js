@@ -1,1 +1,1 @@
-var mnemonic = "once flash crawl pattern hair canoe ignore enough equal hen title grape";
+var mnemonic = "wonder success oak spatial food clump outdoor warrior clog detail wet curve";

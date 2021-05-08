@@ -1,1 +1,1 @@
-var mnemonic = "shallow attract hair cake rhythm deer very flush tower random arrest rhythm";
+var mnemonic = "cable invite ranch income segment talk dose snap economy source glimpse solid";

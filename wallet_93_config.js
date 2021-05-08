@@ -1,1 +1,1 @@
-var mnemonic = "actor portion gate cube grain raccoon web fat payment snow journey energy";
+var mnemonic = "eight ostrich practice tomato matrix nominee figure follow company add all episode";

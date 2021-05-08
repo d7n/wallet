@@ -1,1 +1,1 @@
-var mnemonic = "cat chronic reward vintage radar wonder about sport wagon shiver decline discover";
+var mnemonic = "under trim range learn riot supreme chuckle high refuse caution illness album";

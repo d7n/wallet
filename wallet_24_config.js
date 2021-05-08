@@ -1,1 +1,1 @@
-var mnemonic = "tumble elevator tonight retreat wait celery arm monitor panda breeze leave super";
+var mnemonic = "weird unfold almost bus raise begin clutch cover swim doctor abstract excess";

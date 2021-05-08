@@ -1,1 +1,1 @@
-var mnemonic = "collect pet motion ostrich foster mixed end fox hotel april pattern kick";
+var mnemonic = "industry among pencil couch bitter glow extend dolphin gloom holiday card protect";

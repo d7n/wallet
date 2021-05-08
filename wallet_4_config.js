@@ -1,1 +1,1 @@
-var mnemonic = "note much antique siege quiz spider drop ride floor october tiny material";
+var mnemonic = "design unaware dust tired provide various mix famous road orange leg arrest";
