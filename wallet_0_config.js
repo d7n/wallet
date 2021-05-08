@@ -1,1 +1,1 @@
-var mnemonic = "they online round ginger question heart assist aunt wonder surprise evil fluid";
+var mnemonic = "narrow slim wasp adjust swap game cable total lizard play chapter toast";

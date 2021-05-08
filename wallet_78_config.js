@@ -1,1 +1,1 @@
-var mnemonic = "decline draw volcano creek master practice soup tattoo original payment note update";
+var mnemonic = "three organ magnet six regular design helmet lift hip staff excess canyon";

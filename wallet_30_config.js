@@ -1,1 +1,1 @@
-var mnemonic = "anchor move below sun come bicycle question imitate direct nest nominee object";
+var mnemonic = "ceiling equip purpose again soda merit near fragile toward echo until cup";

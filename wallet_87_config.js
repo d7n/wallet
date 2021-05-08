@@ -1,1 +1,1 @@
-var mnemonic = "dirt gym penalty mean regret advance region risk increase detect capable discover";
+var mnemonic = "artist popular cousin gold dinner screen torch brick sail egg dentist peanut";

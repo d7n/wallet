@@ -1,1 +1,1 @@
-var mnemonic = "lab someone sauce magnet observe punch enjoy leaf artwork odor power sauce";
+var mnemonic = "symbol smoke blind ensure embrace blood magic ability tortoise laugh script skate";

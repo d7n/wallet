@@ -1,1 +1,1 @@
-var mnemonic = "slim ring will alone inspire spy north snow ahead lounge legal devote";
+var mnemonic = "pause blanket return entry smooth lucky giant loop define cruise night plate";

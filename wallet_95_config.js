@@ -1,1 +1,1 @@
-var mnemonic = "mother elegant trust deputy alert cart since armor still spy power fire";
+var mnemonic = "clay cave supreme cross plate wasp fiction crop friend minor country float";

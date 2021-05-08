@@ -1,1 +1,1 @@
-var mnemonic = "phone minimum sign million poem zoo quarter snake fire uncover race account";
+var mnemonic = "quantum remember nominee piano truly village avoid maple bag digital bar employ";

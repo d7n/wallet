@@ -1,1 +1,1 @@
-var mnemonic = "come rapid juice glimpse dad party paper female gossip lend below barely";
+var mnemonic = "crew start gift medal air frame birth romance wrap reject snow comic";

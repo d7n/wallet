@@ -1,1 +1,1 @@
-var mnemonic = "sing excess sleep gate connect worth brisk devote monster cactus name error";
+var mnemonic = "park hedgehog manual oblige diet spray smart collect access exit inflict mosquito";

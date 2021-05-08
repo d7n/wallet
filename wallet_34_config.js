@@ -1,1 +1,1 @@
-var mnemonic = "excuse identify chicken flag fly vibrant enroll great genre undo neither desk";
+var mnemonic = "canvas leaf virus tornado absent rug steel guitar convince rude come question";

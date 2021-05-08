@@ -1,1 +1,1 @@
-var mnemonic = "token season credit arena crisp steak diamond require grunt lake chest patch";
+var mnemonic = "else today mixture wear team wolf dilemma pledge height beauty ritual promote";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate critic room elite cable unveil enroll between observe cost birth breeze";
+var mnemonic = "blind lounge invite child text kidney motor ivory orient inside below piano";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic globe employ skin keep cycle phone report rice same deliver shock";
+var mnemonic = "midnight teach version ten van rookie fan exercise tunnel gadget desk offer";

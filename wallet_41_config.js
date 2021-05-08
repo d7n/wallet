@@ -1,1 +1,1 @@
-var mnemonic = "water dial analyst clutch move already deal quote field danger cluster again";
+var mnemonic = "easy alert hollow clay drum inmate coyote hazard jacket audit van above";

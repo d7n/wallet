@@ -1,1 +1,1 @@
-var mnemonic = "theory sibling umbrella mammal sniff destroy divide blame endless sign chuckle decorate";
+var mnemonic = "refuse exotic sock news laugh shy pitch grid zone gadget zone gravity";

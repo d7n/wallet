@@ -1,1 +1,1 @@
-var mnemonic = "elbow bullet inject quick supreme mom then climb picture abstract field palace";
+var mnemonic = "spring layer hair spirit sound dawn talent random fish top scatter sun";

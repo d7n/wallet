@@ -1,1 +1,1 @@
-var mnemonic = "fame asset critic lonely sorry bless process pioneer baby dial vast divide";
+var mnemonic = "farm pyramid leisure change glass grape hidden hat party tiny once educate";

@@ -1,1 +1,1 @@
-var mnemonic = "cotton intact orchard kid sport wife gain shy teach math journey blue";
+var mnemonic = "tape hurdle gather obscure oxygen once interest pill heart syrup flame project";

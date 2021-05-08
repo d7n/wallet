@@ -1,1 +1,1 @@
-var mnemonic = "cave can canyon indoor squirrel cricket humor vicious setup image combine globe";
+var mnemonic = "ugly tooth number east must route order absurd agree know avoid update";

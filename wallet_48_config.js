@@ -1,1 +1,1 @@
-var mnemonic = "ugly humble situate maid fall tube fee remember divorce maze noise bike";
+var mnemonic = "kitchen kiss script input repeat round draw twin blood horror series vapor";

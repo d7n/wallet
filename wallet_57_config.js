@@ -1,1 +1,1 @@
-var mnemonic = "grow draw volcano limit glimpse blue ordinary aspect name initial success year";
+var mnemonic = "fly muscle frog desert vendor concert income sunny remember genius develop expand";

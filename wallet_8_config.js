@@ -1,1 +1,1 @@
-var mnemonic = "possible dizzy idea current carpet bus nerve assist skirt surround gloom love";
+var mnemonic = "shrug mixture quantum morning bread include museum harvest hidden kiss oyster milk";

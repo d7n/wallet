@@ -1,1 +1,1 @@
-var mnemonic = "gown live card twin divide excite income bicycle make minute champion color";
+var mnemonic = "reason surround flavor voice purpose annual truck tackle axis helmet butter much";

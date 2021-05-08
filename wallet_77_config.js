@@ -1,1 +1,1 @@
-var mnemonic = "firm clutch spin puppy section visual orbit cheap fruit spirit lift million";
+var mnemonic = "trim sample force because enrich month novel mercy snake year swift hurt";

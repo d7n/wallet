@@ -1,1 +1,1 @@
-var mnemonic = "fee clown since art weasel post giraffe snow brave rigid pole mammal";
+var mnemonic = "direct check picnic already address pitch garage lend hood hour voyage soda";

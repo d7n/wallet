@@ -1,1 +1,1 @@
-var mnemonic = "pool banner broken birth weekend ordinary rail unveil smoke squirrel radio spatial";
+var mnemonic = "deputy cry goddess enroll kitchen casual thought easy current fitness civil bus";

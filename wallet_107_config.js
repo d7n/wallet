@@ -1,1 +1,1 @@
-var mnemonic = "train slight client flight nerve grape matter problem glad resemble impact response";
+var mnemonic = "uphold gate trial budget must fetch december happy nominee merge middle hip";

@@ -1,1 +1,1 @@
-var mnemonic = "drip culture balance mistake evoke luxury uniform chest unit measure regular horror";
+var mnemonic = "horror predict slice scale march lawn unique awful recycle raw theme gaze";

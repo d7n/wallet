@@ -1,1 +1,1 @@
-var mnemonic = "strategy salon advance butter snake elegant correct kid twin magnet blood home";
+var mnemonic = "heart seek ostrich inhale congress sword refuse initial slim minimum meadow record";

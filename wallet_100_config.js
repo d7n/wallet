@@ -1,1 +1,1 @@
-var mnemonic = "price rice aspect park inspire metal scrap dumb vivid federal plastic task";
+var mnemonic = "detail whale love luxury outside bonus typical broccoli erode lawn zebra bridge";

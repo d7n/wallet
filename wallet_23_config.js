@@ -1,1 +1,1 @@
-var mnemonic = "scrap city tree during rich target blush polar spoon table angry false";
+var mnemonic = "nothing spice dragon zoo develop hockey wrist tiny minor slide grocery scorpion";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet code together crop aisle valid tumble author material program raw keen";
+var mnemonic = "olympic once tragic size leg cheese off thing insect jacket daughter update";

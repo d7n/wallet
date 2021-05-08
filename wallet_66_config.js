@@ -1,1 +1,1 @@
-var mnemonic = "staff road reason uncover off cloud parrot goose sense exclude rule sand";
+var mnemonic = "emotion faith parade clog hip ticket arrow barely trophy noodle reveal regular";

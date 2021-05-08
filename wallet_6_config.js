@@ -1,1 +1,1 @@
-var mnemonic = "hole explain action enrich buyer dinner horror matrix poverty capable casino cinnamon";
+var mnemonic = "corn couple advance family task exhaust rate business abuse raven broccoli bamboo";

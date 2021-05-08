@@ -1,1 +1,1 @@
-var mnemonic = "vanish deal tilt column muffin steak device squeeze unfold envelope fiber action";
+var mnemonic = "parade certain media blossom update file yellow language photo ill huge market";

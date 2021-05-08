@@ -1,1 +1,1 @@
-var mnemonic = "sting resemble monster resemble urban switch silk type plate diet begin trigger";
+var mnemonic = "disagree soldier fog easy universe animal angry ostrich pause retire furnace beach";

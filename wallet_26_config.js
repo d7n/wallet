@@ -1,1 +1,1 @@
-var mnemonic = "film strong share boat measure omit jeans raccoon quit glide shine isolate";
+var mnemonic = "neck voice destroy broom rib proof empower frown catalog below basic worry";

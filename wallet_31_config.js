@@ -1,1 +1,1 @@
-var mnemonic = "thing ill long network since fruit nothing point cat worry rookie glare";
+var mnemonic = "void verify cloud shuffle spell drive eternal call other waste head quarter";

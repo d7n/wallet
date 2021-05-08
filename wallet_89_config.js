@@ -1,1 +1,1 @@
-var mnemonic = "father elbow aunt coach until focus disease enter window race easily choose";
+var mnemonic = "joy nice fly excite luggage firm food quiz arrow raise soft dream";

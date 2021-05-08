@@ -1,1 +1,1 @@
-var mnemonic = "win security wink often fit caution cave head economy lumber move cushion";
+var mnemonic = "artwork hobby camp arrange rug tackle skate defense know stone narrow dizzy";

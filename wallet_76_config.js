@@ -1,1 +1,1 @@
-var mnemonic = "build flame tooth accident wasp release hold loyal repeat color session universe";
+var mnemonic = "fish target inch squeeze february fitness mass sweet speed jealous seed april";

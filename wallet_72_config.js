@@ -1,1 +1,1 @@
-var mnemonic = "clock ready exchange tiny found cram goose breeze law bomb extra wrist";
+var mnemonic = "still dream giant hawk hub base volume volcano vote attack vivid crawl";

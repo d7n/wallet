@@ -1,1 +1,1 @@
-var mnemonic = "cereal tree crazy bachelor salon network movie damp pelican aisle host panda";
+var mnemonic = "acquire ice camp inmate hover transfer doll alert exclude where century decade";

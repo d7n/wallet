@@ -1,1 +1,1 @@
-var mnemonic = "universe orphan clock field cattle salon trap group reason camp riot news";
+var mnemonic = "typical side tongue group bid wing blind snow ginger resource remove genuine";

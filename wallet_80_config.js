@@ -1,1 +1,1 @@
-var mnemonic = "slush sausage kangaroo ginger present glimpse observe annual marriage vapor predict urge";
+var mnemonic = "sell divide heavy bonus only flower lizard memory lava vehicle lamp few";

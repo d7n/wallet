@@ -1,1 +1,1 @@
-var mnemonic = "session ticket draw pledge own certain cupboard man decide dance inner worth";
+var mnemonic = "apart ensure trend across wrap bless theme profit spoil fire vehicle sting";

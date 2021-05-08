@@ -1,1 +1,1 @@
-var mnemonic = "multiply palm upon victory lemon reopen color topple liquid visit chaos tortoise";
+var mnemonic = "anger fiscal argue during mouse have public clean saddle air spy illegal";

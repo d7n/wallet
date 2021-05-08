@@ -1,1 +1,1 @@
-var mnemonic = "guide confirm spatial symptom yellow pluck permit solid fire liberty hope small";
+var mnemonic = "sponsor throw ketchup horn you tennis certain broken raise swallow argue front";

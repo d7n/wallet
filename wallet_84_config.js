@@ -1,1 +1,1 @@
-var mnemonic = "toy stage hollow garage desk long food teach tip menu grit setup";
+var mnemonic = "typical spike island initial exchange depend vote clay collect body rally tone";

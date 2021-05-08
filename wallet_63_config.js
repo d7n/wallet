@@ -1,1 +1,1 @@
-var mnemonic = "want capital stairs travel ready lock carbon final shallow vintage announce dentist";
+var mnemonic = "stumble brain salmon balance park beach mountain spike six social now flavor";

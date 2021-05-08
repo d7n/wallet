@@ -1,1 +1,1 @@
-var mnemonic = "exercise shift aerobic pluck convince target swamp region brisk resist waste town";
+var mnemonic = "venue flight language strike tonight step brown address twelve creek polar dream";

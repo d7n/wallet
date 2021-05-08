@@ -1,1 +1,1 @@
-var mnemonic = "cause exhibit smile wave road disagree kitchen dentist shadow carpet pave casino";
+var mnemonic = "kiss infant bracket this general twin bicycle swift client harbor echo siren";

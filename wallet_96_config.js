@@ -1,1 +1,1 @@
-var mnemonic = "twelve guilt frame shoe shuffle rebel deer differ provide disease quote mixture";
+var mnemonic = "globe sentence vivid absorb erase dismiss cupboard hard odor safe cash ethics";

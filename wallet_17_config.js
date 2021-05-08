@@ -1,1 +1,1 @@
-var mnemonic = "plunge cruise bomb carry embrace flower galaxy wine spike dumb man orchard";
+var mnemonic = "pupil spare route labor among tomorrow require menu birth clarify own humble";

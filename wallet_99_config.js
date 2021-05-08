@@ -1,1 +1,1 @@
-var mnemonic = "rabbit advance mix response swarm price reform mobile poverty what sausage era";
+var mnemonic = "heart include puzzle immense early response net festival benefit inherit item acid";

@@ -1,1 +1,1 @@
-var mnemonic = "desk magic solve edit benefit pepper honey monster dad obscure slab industry";
+var mnemonic = "table always power term chest oil estate embark ring agent clever section";

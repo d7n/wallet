@@ -1,1 +1,1 @@
-var mnemonic = "universe gentle know shift exhaust napkin name strong notable bag rack library";
+var mnemonic = "rich delay lucky turn harvest caught amused demise tone avocado moon garbage";

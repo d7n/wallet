@@ -1,1 +1,1 @@
-var mnemonic = "into fashion shop expect random ill universe empower void upgrade erode grocery";
+var mnemonic = "already funny pretty cause hundred coral give stuff fence bulk yard belt";

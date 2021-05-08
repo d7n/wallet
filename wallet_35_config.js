@@ -1,1 +1,1 @@
-var mnemonic = "divorce cliff glimpse shoe immune traffic pond soap umbrella update panic floor";
+var mnemonic = "awesome enroll lab income mountain mouse claw dial gaze design glass hotel";

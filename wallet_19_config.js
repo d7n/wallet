@@ -1,1 +1,1 @@
-var mnemonic = "bus rabbit affair stumble tobacco true inmate blind embrace beyond mesh nuclear";
+var mnemonic = "shed tube speak scare suspect anxiety chicken salmon miracle stuff lawsuit spread";

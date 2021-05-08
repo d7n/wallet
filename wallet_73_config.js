@@ -1,1 +1,1 @@
-var mnemonic = "pill ten soda deer dad picture shift truly mutual world wolf excess";
+var mnemonic = "swim must hidden right close sustain iron home oppose awesome accident deny";

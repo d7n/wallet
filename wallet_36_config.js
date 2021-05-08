@@ -1,1 +1,1 @@
-var mnemonic = "cover dice sibling depart salon swim expose portion welcome fire crane refuse";
+var mnemonic = "blast asthma render curious crane kingdom when someone bus narrow increase dizzy";

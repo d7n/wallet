@@ -1,1 +1,1 @@
-var mnemonic = "cupboard account february width cereal fix moon monkey boil buffalo dutch dignity";
+var mnemonic = "deposit fix february blast hire hedgehog guard purpose task twenty canyon clown";

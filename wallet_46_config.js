@@ -1,1 +1,1 @@
-var mnemonic = "between month banner alert glass clutch again logic metal capable accuse dune";
+var mnemonic = "tape endless document hand insect tail village tube jewel nature sugar gate";

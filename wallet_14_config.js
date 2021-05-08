@@ -1,1 +1,1 @@
-var mnemonic = "fall casual rhythm crush topple orange mouse siren purity quote busy naive";
+var mnemonic = "nasty topic bonus gas slogan conduct general steel dry diesel thing energy";

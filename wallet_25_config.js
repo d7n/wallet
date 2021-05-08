@@ -1,1 +1,1 @@
-var mnemonic = "island trophy olympic genius bachelor estate then pluck protect pulp seed moment";
+var mnemonic = "birth enjoy claw symptom oyster accuse rival rail sorry crack void engine";

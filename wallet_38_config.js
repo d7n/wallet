@@ -1,1 +1,1 @@
-var mnemonic = "solid victory giant menu wool game toilet thrive foam indicate bunker rescue";
+var mnemonic = "mix sugar pitch else tone tenant brain practice odor banner arch then";

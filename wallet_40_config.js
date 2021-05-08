@@ -1,1 +1,1 @@
-var mnemonic = "gallery stock truck undo file travel knee artefact trick supreme poem nerve";
+var mnemonic = "ring token trash supreme finish badge attack vessel guess around join scrap";

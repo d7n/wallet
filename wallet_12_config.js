@@ -1,1 +1,1 @@
-var mnemonic = "other private deputy crystal flame lemon unusual shell soap pear ozone gorilla";
+var mnemonic = "jaguar moon senior shield fox proud toe apart slim lobster faint ethics";

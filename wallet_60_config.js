@@ -1,1 +1,1 @@
-var mnemonic = "parent myself fault bacon amused game grocery cloth inform topple pumpkin inch";
+var mnemonic = "tenant dignity buzz truck local mule cactus ecology hammer spirit thumb evoke";

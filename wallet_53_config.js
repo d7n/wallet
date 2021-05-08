@@ -1,1 +1,1 @@
-var mnemonic = "accuse torch stomach act jacket prevent catch better income melody nurse convince";
+var mnemonic = "photo patient ring price blade cake walnut drill invest head vote apart";

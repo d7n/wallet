@@ -1,1 +1,1 @@
-var mnemonic = "decide wage click tag little cactus pear galaxy media ribbon unveil lazy";
+var mnemonic = "secret need cigar chest security document mutual air submit original master truly";

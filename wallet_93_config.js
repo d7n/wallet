@@ -1,1 +1,1 @@
-var mnemonic = "curtain captain wink family thank hill moment degree tonight fuel discover demise";
+var mnemonic = "force taste grocery acid vote stock lens area drastic indicate mirror vault";

@@ -1,1 +1,1 @@
-var mnemonic = "nurse evidence volcano clinic chest priority olive cotton broccoli occur explain clip";
+var mnemonic = "thank install rich battle guess message iron thank thank subway that mimic";

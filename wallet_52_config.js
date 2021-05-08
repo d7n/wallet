@@ -1,1 +1,1 @@
-var mnemonic = "reason amount absorb charge flush leisure bamboo vital motion open feature priority";
+var mnemonic = "payment scatter decide trouble sister destroy joy noise crawl innocent basket question";

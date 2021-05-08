@@ -1,1 +1,1 @@
-var mnemonic = "kitchen fork salon setup length arctic match symbol chef swallow help airport";
+var mnemonic = "jar anger leave indicate wool village melody net two focus under crunch";

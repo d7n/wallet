@@ -1,1 +1,1 @@
-var mnemonic = "kiss wish pioneer post water kid infant office lawn enlist month slush";
+var mnemonic = "mixed stereo response process doll width weasel best notable square veteran scout";

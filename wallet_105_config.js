@@ -1,1 +1,1 @@
-var mnemonic = "collect trap ranch legend box edit element proud summer airport only piece";
+var mnemonic = "remain derive modify aware mercy orchard tunnel blossom zebra mimic auction tank";

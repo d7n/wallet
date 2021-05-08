@@ -1,1 +1,1 @@
-var mnemonic = "regret mistake science warrior mouse trap river appear detect door will aisle";
+var mnemonic = "timber appear famous title radar muffin prevent valve rare next range duck";

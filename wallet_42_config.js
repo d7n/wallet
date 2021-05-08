@@ -1,1 +1,1 @@
-var mnemonic = "puppy master tomorrow quarter join table please machine canal donate certain sentence";
+var mnemonic = "drama throw area truth duty more more loop meat snap uphold dish";

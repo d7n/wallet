@@ -1,1 +1,1 @@
-var mnemonic = "hub journey family morning maid town circle arrow theory decide motion equip";
+var mnemonic = "have best disorder small beauty face north truck hurt erupt pact mosquito";

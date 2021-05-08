@@ -1,1 +1,1 @@
-var mnemonic = "have poem mobile cat run resource load report bus slice scene cliff";
+var mnemonic = "monster hospital peasant capable salute target boss ship require order crystal behave";

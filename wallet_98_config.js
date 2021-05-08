@@ -1,1 +1,1 @@
-var mnemonic = "hire excuse will snake alter tongue song grocery tourist guilt episode issue";
+var mnemonic = "small allow rude pledge relief area mass candy detect sample brick sense";

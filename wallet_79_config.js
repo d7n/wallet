@@ -1,1 +1,1 @@
-var mnemonic = "frequent accuse session into hidden tomato envelope purchase hawk near release toward";
+var mnemonic = "still valid certain symbol skin novel abandon mixture idle cricket opera virus";

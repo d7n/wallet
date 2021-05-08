@@ -1,1 +1,1 @@
-var mnemonic = "matrix fire glance aware color endorse soap gas obscure powder style pottery";
+var mnemonic = "father phone castle vivid grow depth glow dust side pony erase jeans";

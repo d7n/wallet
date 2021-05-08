@@ -1,1 +1,1 @@
-var mnemonic = "first female gate update business tell cave eye chicken garlic topic snack";
+var mnemonic = "push trial rapid rabbit bulk cigar drill spike captain jar thank system";

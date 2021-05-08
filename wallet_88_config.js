@@ -1,1 +1,1 @@
-var mnemonic = "begin fee ozone silk crop agree text doctor only parent gadget stereo";
+var mnemonic = "ugly riot police clock library youth group icon document cash skate goddess";

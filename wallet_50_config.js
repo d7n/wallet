@@ -1,1 +1,1 @@
-var mnemonic = "ceiling husband friend feel quit latin method clap economy airport medal cloud";
+var mnemonic = "cry female wealth honey clog grocery can chapter card name laptop bracket";

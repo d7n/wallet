@@ -1,1 +1,1 @@
-var mnemonic = "modify culture minor funny during taste flee laptop chimney segment weasel expect";
+var mnemonic = "pill occur census sad possible just source scissors shuffle game proof roof";

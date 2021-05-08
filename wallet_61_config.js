@@ -1,1 +1,1 @@
-var mnemonic = "execute easily army relief imitate mesh famous replace random system delay essence";
+var mnemonic = "hockey rough hunt ghost reduce include primary save million theme myself click";
