@@ -1,1 +1,1 @@
-var mnemonic = "appear wet call leaf bring animal post lobster junior bubble just debris";
+var mnemonic = "push stomach high width sister slush reform drink around company flame sleep";

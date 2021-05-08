@@ -1,1 +1,1 @@
-var mnemonic = "nut kind sunset language erode claw better escape dentist discover huge tiger";
+var mnemonic = "object spider talent original holiday imitate very grab credit duty coin impulse";

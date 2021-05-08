@@ -1,1 +1,1 @@
-var mnemonic = "route blind quick two bench stereo crucial exile height bean happy magnet";
+var mnemonic = "bonus lonely tuna legal predict quarter million already december copper select risk";

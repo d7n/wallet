@@ -1,1 +1,1 @@
-var mnemonic = "ripple best receive alter room suffer brave start office exact piano boost";
+var mnemonic = "bench stem identify panda cushion coin health depart skill defy addict attack";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus cricket two anxiety dutch eyebrow forget example skin vacant grocery sting";
+var mnemonic = "clown slush topple good near tunnel convince lottery add affair legend access";

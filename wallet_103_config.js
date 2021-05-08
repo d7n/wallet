@@ -1,1 +1,1 @@
-var mnemonic = "ski increase false farm pride prepare marine wire cheap path mandate nephew";
+var mnemonic = "woman winter forget vibrant possible bundle never match enact economy industry video";

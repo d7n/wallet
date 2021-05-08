@@ -1,1 +1,1 @@
-var mnemonic = "concert traffic chef engage jewel castle patrol hobby twelve switch excess repair";
+var mnemonic = "increase today impact feature run access picture install stone express smoke churn";

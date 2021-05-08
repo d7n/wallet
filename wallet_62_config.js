@@ -1,1 +1,1 @@
-var mnemonic = "between educate guard patch oxygen child label palm observe card hamster alarm";
+var mnemonic = "plug solar honey inform select meat allow style summer true subway vessel";

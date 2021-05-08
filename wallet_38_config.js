@@ -1,1 +1,1 @@
-var mnemonic = "illness sweet fluid tank inform able perfect essence leaf love dirt wait";
+var mnemonic = "bread report wool problem extend marriage bitter normal letter expire fame action";

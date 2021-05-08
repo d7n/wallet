@@ -1,1 +1,1 @@
-var mnemonic = "yard page angle limb curious client asthma prepare wedding report demand review";
+var mnemonic = "slim hand mass entire alcohol design crystal ozone planet warfare scatter scan";

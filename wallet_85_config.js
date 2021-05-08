@@ -1,1 +1,1 @@
-var mnemonic = "nasty crawl achieve view cart unit stay under combine account april task";
+var mnemonic = "milk always ramp net wood during pumpkin royal valve animal gauge brass";

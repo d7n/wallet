@@ -1,1 +1,1 @@
-var mnemonic = "despair pole hand feed absorb bubble goose denial garment truth gauge detect";
+var mnemonic = "under because danger expose outdoor myself undo course drill pave galaxy pig";

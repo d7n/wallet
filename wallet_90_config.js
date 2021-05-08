@@ -1,1 +1,1 @@
-var mnemonic = "broken people purse coil warm couch special across exit love dress erase";
+var mnemonic = "decline board obey inside virtual pattern question rib grid critic talent outside";

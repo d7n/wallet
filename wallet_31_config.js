@@ -1,1 +1,1 @@
-var mnemonic = "matter express route output pen coil empty sense worry series path garment";
+var mnemonic = "noise car spot early position laundry ribbon solve cave crisp credit say";

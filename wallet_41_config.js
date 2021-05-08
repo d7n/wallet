@@ -1,1 +1,1 @@
-var mnemonic = "federal flower length pride electric circle diesel slot citizen shock dove awful";
+var mnemonic = "uncover pause remember attack pipe chaos guide exclude ocean december squirrel tape";

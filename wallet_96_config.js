@@ -1,1 +1,1 @@
-var mnemonic = "deliver entire limit crowd ranch total throw virus under rib race random";
+var mnemonic = "want fish series super spatial length figure plug cancel track inner carpet";

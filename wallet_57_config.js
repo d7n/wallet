@@ -1,1 +1,1 @@
-var mnemonic = "embody cheap lobster utility rescue frame goat day require game absent siren";
+var mnemonic = "hour shoe inherit soon claw episode injury teach bridge sign put gossip";

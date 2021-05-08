@@ -1,1 +1,1 @@
-var mnemonic = "love elephant demand grunt injury limb involve envelope possible agree catch hurdle";
+var mnemonic = "recycle beef phrase ethics fox effort chuckle welcome half shell improve puppy";

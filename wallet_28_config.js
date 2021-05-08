@@ -1,1 +1,1 @@
-var mnemonic = "figure intact drum twist involve vague bacon make shoot monkey ripple apart";
+var mnemonic = "club elevator brief ritual allow symbol about shield airport shadow cushion document";

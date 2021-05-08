@@ -1,1 +1,1 @@
-var mnemonic = "language fiction pumpkin page laptop six crucial derive return practice wife junk";
+var mnemonic = "enforce blossom sadness thank grocery remove limb street observe rose pipe slush";

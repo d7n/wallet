@@ -1,1 +1,1 @@
-var mnemonic = "memory hobby great paper found abuse mirror shine group unusual push candy";
+var mnemonic = "weekend child surface danger profit result regret design wise occur scrub cricket";

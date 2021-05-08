@@ -1,1 +1,1 @@
-var mnemonic = "control zero liberty milk daring squirrel above pause salt glow cereal host";
+var mnemonic = "blast library floor laugh castle alone increase surge ball what hip immune";

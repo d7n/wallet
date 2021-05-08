@@ -1,1 +1,1 @@
-var mnemonic = "depart pepper flavor nuclear shrug orient gold bicycle present cactus bracket short";
+var mnemonic = "agent brass valley retire clip blood kitchen renew address odor coffee amount";

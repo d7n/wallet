@@ -1,1 +1,1 @@
-var mnemonic = "fashion simple kiwi wet rescue gate reject panel equal pen again ice";
+var mnemonic = "ahead type priority draft easily box crisp lecture kind auction van trend";

@@ -1,1 +1,1 @@
-var mnemonic = "loyal build marriage lumber retreat coach sun silver bicycle twelve tray lunar";
+var mnemonic = "loud label undo notable helmet tilt crucial edge expose edit climb tape";

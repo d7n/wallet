@@ -1,1 +1,1 @@
-var mnemonic = "large cross ship blanket upper slush kangaroo salad popular cloth frozen busy";
+var mnemonic = "interest panda whale bulb fade bright style purse street quote obvious obscure";

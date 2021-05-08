@@ -1,1 +1,1 @@
-var mnemonic = "pull pottery whisper wear often swarm split parade attract flush suit economy";
+var mnemonic = "pluck believe topic tiny harsh flower run demand orbit exhaust luggage pepper";

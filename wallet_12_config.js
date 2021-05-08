@@ -1,1 +1,1 @@
-var mnemonic = "husband stage near word unhappy smart grief nephew wet jar mesh abuse";
+var mnemonic = "state attend tiger suffer weapon cousin deal green aunt envelope salon double";

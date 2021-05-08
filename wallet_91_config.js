@@ -1,1 +1,1 @@
-var mnemonic = "reject stand balance chair banana figure crazy tiny fantasy fossil nerve kiss";
+var mnemonic = "noble raise tattoo scout glance seminar omit ethics candy health slide simple";

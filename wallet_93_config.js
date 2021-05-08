@@ -1,1 +1,1 @@
-var mnemonic = "erupt sketch knife card trade absorb powder merge ten roast mass this";
+var mnemonic = "toward used method disease faculty endless sting squeeze palm monkey wise release";

@@ -1,1 +1,1 @@
-var mnemonic = "city blast inject cliff thumb aunt thunder normal average recycle language mirror";
+var mnemonic = "clean hill question oblige wear insect right sound glide vacant program among";

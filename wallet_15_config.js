@@ -1,1 +1,1 @@
-var mnemonic = "verify farm album unfair cigar barely attack debris hour tunnel typical foam";
+var mnemonic = "exchange tired economy ability orbit maximum mistake insect misery common gravity detect";

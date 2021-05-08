@@ -1,1 +1,1 @@
-var mnemonic = "motion raven try credit obscure draft question upset meadow burden dawn gun";
+var mnemonic = "nothing razor abandon paddle flight portion image minute harbor spoil sand hurt";

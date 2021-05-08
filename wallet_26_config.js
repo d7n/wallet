@@ -1,1 +1,1 @@
-var mnemonic = "legal two mammal like accuse orange brisk abuse inspire winner fit inmate";
+var mnemonic = "deputy gentle swarm discover kitchen basket lava fish doctor wide midnight group";

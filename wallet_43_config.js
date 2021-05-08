@@ -1,1 +1,1 @@
-var mnemonic = "erosion resemble shed begin split spray regular gain chair office segment guide";
+var mnemonic = "exist glance canal enrich manage acid illegal stumble drill town immense ivory";

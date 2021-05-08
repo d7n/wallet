@@ -1,1 +1,1 @@
-var mnemonic = "ski fiction powder endorse deny rigid require quiz absurd enrich middle involve";
+var mnemonic = "priority degree wing boring tired treat snack soft reflect rack life enable";

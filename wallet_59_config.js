@@ -1,1 +1,1 @@
-var mnemonic = "chat bottom clerk essay devote alone cactus address alter town uniform giggle";
+var mnemonic = "enough split ride whip heart weapon elevator sort squeeze wheel visual wisdom";

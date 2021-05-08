@@ -1,1 +1,1 @@
-var mnemonic = "claim shadow man pitch scrub fault absorb fury real public snap slush";
+var mnemonic = "celery gasp library fossil wheat machine boring fine waste shoulder alley resource";

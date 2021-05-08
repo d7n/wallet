@@ -1,1 +1,1 @@
-var mnemonic = "safe wrong avoid dynamic purse light stable trend bacon museum candy eager";
+var mnemonic = "tackle light gown enhance fat more wolf ahead route index brick horn";

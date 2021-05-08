@@ -1,1 +1,1 @@
-var mnemonic = "badge chef outside glance wagon color alert find luggage hello atom earth";
+var mnemonic = "rate modify eagle door ill almost food retire lounge infant century toward";

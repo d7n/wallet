@@ -1,1 +1,1 @@
-var mnemonic = "omit gentle sand wool normal jump elephant double post busy run mosquito";
+var mnemonic = "era trend three athlete barrel canoe patrol orbit tumble cruise dutch more";

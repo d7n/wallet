@@ -1,1 +1,1 @@
-var mnemonic = "sadness grass inform casual blade evil quiz type camera female hundred spike";
+var mnemonic = "canoe rigid child bullet clock color crunch cabbage reward short intact special";

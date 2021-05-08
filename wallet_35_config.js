@@ -1,1 +1,1 @@
-var mnemonic = "neglect shoot wagon post turn identify city love oppose now worth draw";
+var mnemonic = "image enemy walnut face year forum ranch jump kite brave sibling crumble";

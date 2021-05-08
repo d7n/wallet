@@ -1,1 +1,1 @@
-var mnemonic = "intact sort leg agree owner rifle nerve render expire public below crop";
+var mnemonic = "useful viable sauce melody camera wing tell canal hospital horn follow flee";

@@ -1,1 +1,1 @@
-var mnemonic = "script unfold mind swear column twenty void diet atom scatter someone sail";
+var mnemonic = "east coral spike unknown cram river session exercise actress move tornado butter";

@@ -1,1 +1,1 @@
-var mnemonic = "choose offer excuse exchange today sister rival across what capable atom object";
+var mnemonic = "burger juice radio lazy mother balance diamond judge possible calm produce spice";

@@ -1,1 +1,1 @@
-var mnemonic = "arm elegant regular spatial honey train clog equal lecture bench lunch brave";
+var mnemonic = "roof predict infant ugly output job angry group print margin banner violin";

@@ -1,1 +1,1 @@
-var mnemonic = "impact piano bomb marble source lock lens panic cube art memory trade";
+var mnemonic = "affair tray bunker move buzz noise together pond wave payment admit ticket";

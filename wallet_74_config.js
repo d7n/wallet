@@ -1,1 +1,1 @@
-var mnemonic = "door leopard crack defense hard protect rate gown cattle situate pass vibrant";
+var mnemonic = "animal night concert obscure reject rapid essence napkin resist laugh urge taxi";

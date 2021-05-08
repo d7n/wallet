@@ -1,1 +1,1 @@
-var mnemonic = "usage release head suggest omit federal route enhance scene fitness alpha street";
+var mnemonic = "horror canyon adjust carbon crane school struggle side ranch head reason found";

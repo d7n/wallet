@@ -1,1 +1,1 @@
-var mnemonic = "luggage bird inside city weekend spike chalk invite south melody neutral awful";
+var mnemonic = "camera cool review seven napkin error coral convince prison coffee sea hurdle";

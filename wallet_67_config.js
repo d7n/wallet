@@ -1,1 +1,1 @@
-var mnemonic = "when speak year latin census camp delay sunset april club cave inch";
+var mnemonic = "relief curious clutch process right budget caught impulse waste gospel surprise lens";

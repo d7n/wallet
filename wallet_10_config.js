@@ -1,1 +1,1 @@
-var mnemonic = "hint calm interest angry pen daring topic domain latin tribe angry group";
+var mnemonic = "oyster tiger oblige assist supreme right save left they glue valley arrest";

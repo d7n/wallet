@@ -1,1 +1,1 @@
-var mnemonic = "clean pair hire choice favorite letter shuffle topic card over barrel grab";
+var mnemonic = "hint spot banner leisure brown ice tool endorse girl lesson deposit critic";

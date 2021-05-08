@@ -1,1 +1,1 @@
-var mnemonic = "unveil ritual strong inquiry brand scene denial excite sample below enable radio";
+var mnemonic = "quarter grape region crush seek payment poverty tilt cloud castle left help";

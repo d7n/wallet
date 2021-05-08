@@ -1,1 +1,1 @@
-var mnemonic = "planet color lyrics pistol swim vocal net crucial gun future fan unfold";
+var mnemonic = "radio urge staff edit mistake fan nuclear crystal original mechanic paper horn";

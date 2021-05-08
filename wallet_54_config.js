@@ -1,1 +1,1 @@
-var mnemonic = "allow bone satisfy offer burden window latin record couch kind orphan cannon";
+var mnemonic = "volume limit spring squirrel quick success demand nature ketchup public dynamic cable";

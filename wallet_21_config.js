@@ -1,1 +1,1 @@
-var mnemonic = "athlete sort tissue bundle relax jewel among genuine awful raven program afford";
+var mnemonic = "will require join term faith pioneer slab arch cement until obey exist";

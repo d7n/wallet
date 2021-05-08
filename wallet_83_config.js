@@ -1,1 +1,1 @@
-var mnemonic = "soul image blame demand story begin control obtain spider faculty doctor suffer";
+var mnemonic = "siege trial beef right snap push parade neither number tent air general";

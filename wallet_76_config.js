@@ -1,1 +1,1 @@
-var mnemonic = "edge broom adult fantasy minimum yellow whale winner opera toss crisp focus";
+var mnemonic = "inhale debate property bring main acoustic ritual drip safe expire coast response";

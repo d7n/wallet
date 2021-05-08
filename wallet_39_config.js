@@ -1,1 +1,1 @@
-var mnemonic = "cart shoot tattoo piece drill opinion hint insane amazing build coin river";
+var mnemonic = "exit utility magnet alien vivid hollow curious confirm stool fabric tragic soft";

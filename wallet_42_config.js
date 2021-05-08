@@ -1,1 +1,1 @@
-var mnemonic = "leisure able biology include unfair gaze film cart coyote stamp cigar blue";
+var mnemonic = "slab bacon maid pudding lab leader load stool iron region around sheriff";

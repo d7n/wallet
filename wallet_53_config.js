@@ -1,1 +1,1 @@
-var mnemonic = "test twist brown luxury sail steel impose episode share either beef august";
+var mnemonic = "mistake boring orbit evoke metal monster pitch original aunt woman castle ladder";

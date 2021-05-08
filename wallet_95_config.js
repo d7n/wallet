@@ -1,1 +1,1 @@
-var mnemonic = "century twice later uniform correct genre earth patrol super child engine print";
+var mnemonic = "drop two gossip arrest clever taste bind fog identify regret dinner gospel";

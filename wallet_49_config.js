@@ -1,1 +1,1 @@
-var mnemonic = "pioneer inhale fancy rocket lizard cause weapon other display urban regular segment";
+var mnemonic = "outer thunder ceiling split orphan museum silk cheese churn leg luggage mercy";

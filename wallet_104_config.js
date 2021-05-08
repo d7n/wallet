@@ -1,1 +1,1 @@
-var mnemonic = "cherry forest hub convince mask correct patch prepare dolphin brick found noise";
+var mnemonic = "boss arm chief render hundred guard knee depart sting crack category giraffe";

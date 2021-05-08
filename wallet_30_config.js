@@ -1,1 +1,1 @@
-var mnemonic = "jungle kid session bunker gesture transfer ugly crucial chef cake second rotate";
+var mnemonic = "deny month reduce old dry force head mountain mask ride whisper festival";

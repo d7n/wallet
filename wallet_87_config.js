@@ -1,1 +1,1 @@
-var mnemonic = "valve double decorate maid club choice street salad patch crazy almost nerve";
+var mnemonic = "shy next salt idea quit lens pride festival busy mandate farm visual";

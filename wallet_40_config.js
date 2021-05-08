@@ -1,1 +1,1 @@
-var mnemonic = "obscure thought kangaroo infant soldier reunion pigeon upon present earn public volcano";
+var mnemonic = "section water stage use fury piece fetch casual shy parade novel another";

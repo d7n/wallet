@@ -1,1 +1,1 @@
-var mnemonic = "inch noise occur disorder where labor onion found indicate piano caught able";
+var mnemonic = "door clean rabbit equip play shy clog teach apple turtle season ship";

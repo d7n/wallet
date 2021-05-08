@@ -1,1 +1,1 @@
-var mnemonic = "reopen judge inflict evidence midnight exclude glide cushion modify desert belt hero";
+var mnemonic = "pet pear emerge client isolate sibling coast aerobic soccer slender coast gown";

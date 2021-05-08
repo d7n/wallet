@@ -1,1 +1,1 @@
-var mnemonic = "describe oyster muffin cause sun wage pink churn hour wire employ frequent";
+var mnemonic = "raccoon worry prosper comic pill early acquire pact spice animal scrub rocket";

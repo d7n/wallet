@@ -1,1 +1,1 @@
-var mnemonic = "torch moon wear goose essay final domain there arctic advance review appear";
+var mnemonic = "provide vote disagree nerve vanish trap remove program nasty diagram run group";

@@ -1,1 +1,1 @@
-var mnemonic = "economy coach true catch visa busy grow trash viable wave ginger vendor";
+var mnemonic = "trophy improve length second voice across toast orchard law infant science sniff";

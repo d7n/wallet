@@ -1,1 +1,1 @@
-var mnemonic = "clay seat library absorb myth juice expose sign melody need language repeat";
+var mnemonic = "tuna bulk absorb dumb trust forget produce human wash fire rival acquire";

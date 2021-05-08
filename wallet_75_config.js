@@ -1,1 +1,1 @@
-var mnemonic = "uniform nephew recipe tag laugh tent spider sleep slow tiny theme talk";
+var mnemonic = "project okay silent library parrot famous shove shield hybrid rail visual wet";

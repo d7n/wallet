@@ -1,1 +1,1 @@
-var mnemonic = "light noodle depart jar plastic indicate daughter kite struggle medal token involve";
+var mnemonic = "tree extend ticket parent sheriff trim feel waste hybrid rose crawl treat";

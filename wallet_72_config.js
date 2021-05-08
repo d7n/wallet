@@ -1,1 +1,1 @@
-var mnemonic = "muffin violin crunch absurd issue behind outer curve turtle join burger impulse";
+var mnemonic = "ordinary laugh survey tool immune liar void mango similar couple globe benefit";

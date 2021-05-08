@@ -1,1 +1,1 @@
-var mnemonic = "rotate zebra body final adjust gadget peace stereo tiny taxi tank badge";
+var mnemonic = "december absurd surround mind grant jungle stereo boil measure collect horror album";

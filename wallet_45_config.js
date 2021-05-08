@@ -1,1 +1,1 @@
-var mnemonic = "chief zero erosion general today among spawn remind cream nature confirm arctic";
+var mnemonic = "attitude resemble aware demand lunch funny quit token kite useful bracket harsh";

@@ -1,1 +1,1 @@
-var mnemonic = "parrot trash donkey garlic window memory another analyst rhythm spatial trigger wine";
+var mnemonic = "hat expand night slot oil boy test rebuild update jungle mirror peanut";

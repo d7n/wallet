@@ -1,1 +1,1 @@
-var mnemonic = "entire sustain senior hungry switch appear deal spare candy gravity jelly great";
+var mnemonic = "salon judge finger fossil word picture utility change scale blouse off vital";

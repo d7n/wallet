@@ -1,1 +1,1 @@
-var mnemonic = "day magnet local help recall surge film insect fuel alone manage price";
+var mnemonic = "master only thank maze involve square truth boost notable success message mesh";

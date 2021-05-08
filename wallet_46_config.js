@@ -1,1 +1,1 @@
-var mnemonic = "length okay flight denial mouse chest stamp talk response margin humor trim";
+var mnemonic = "skate vicious explain risk glance elegant sell agent input polar all surprise";

@@ -1,1 +1,1 @@
-var mnemonic = "next fiber scrap athlete black sketch travel blue train control clog wasp";
+var mnemonic = "derive butter same camp fine evoke milk tiger lens garlic carry boat";

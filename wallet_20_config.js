@@ -1,1 +1,1 @@
-var mnemonic = "liberty scheme strike boost satisfy undo piece purity kick hurry author remind";
+var mnemonic = "exercise focus plastic jungle category velvet wish detect car today sock nature";

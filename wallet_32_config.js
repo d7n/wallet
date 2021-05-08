@@ -1,1 +1,1 @@
-var mnemonic = "sport settle vicious rail cost maple actor reward apart punch ball stamp";
+var mnemonic = "clever awesome normal depart arrow west dilemma hidden repeat vital robust few";

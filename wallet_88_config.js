@@ -1,1 +1,1 @@
-var mnemonic = "cannon tired issue focus bring advice rare drift eye parent worry chimney";
+var mnemonic = "receive frequent away fresh gadget stool target human immune thank absurd plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "rocket become finish impact rack either void flat bring siren eyebrow breeze";
+var mnemonic = "turn sphere teach wall chaos cube frozen east private script defense paper";
