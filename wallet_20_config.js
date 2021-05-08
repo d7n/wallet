@@ -1,1 +1,1 @@
-var mnemonic = "black power lens purse tumble visa open taxi ship visa ribbon nut";
+var mnemonic = "entire toilet spare print walnut business agent rib tennis board drift major";

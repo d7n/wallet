@@ -1,1 +1,1 @@
-var mnemonic = "flag apple vague alley impose luxury security truly able region uniform pig";
+var mnemonic = "enroll tiny hospital below whisper suggest poverty saddle limit size bonus cluster";

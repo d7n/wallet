@@ -1,1 +1,1 @@
-var mnemonic = "famous baby extend lend remove gas air hour display talk catch diary";
+var mnemonic = "valid cabin balance vanish treat bean across turtle royal silent pepper wedding";

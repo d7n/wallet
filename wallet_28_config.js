@@ -1,1 +1,1 @@
-var mnemonic = "satisfy century magnet accuse siren bring gasp chalk manual turkey basket where";
+var mnemonic = "make fatal strategy multiply axis idea toddler smile endless hamster mouse soup";

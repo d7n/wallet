@@ -1,1 +1,1 @@
-var mnemonic = "deputy bracket rule issue cycle security collect roof beauty club stone actor";
+var mnemonic = "message sure upset link middle voice extra comic miss again rebuild pledge";

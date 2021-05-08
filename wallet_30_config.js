@@ -1,1 +1,1 @@
-var mnemonic = "flock century virtual process vague liberty claim news outer deal direct race";
+var mnemonic = "floor make twelve wrong make month market tilt kite horn remain long";

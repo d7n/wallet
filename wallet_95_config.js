@@ -1,1 +1,1 @@
-var mnemonic = "ball prosper frog domain road figure vivid make identify reject hole donkey";
+var mnemonic = "eight spike tank figure kid noble vibrant letter radio drive great program";

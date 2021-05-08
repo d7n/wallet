@@ -1,1 +1,1 @@
-var mnemonic = "fork material abuse giraffe bag illegal normal chaos mom beauty matter buzz";
+var mnemonic = "tiny accident negative token absorb sentence virtual bind annual law barrel first";

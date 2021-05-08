@@ -1,1 +1,1 @@
-var mnemonic = "glow rocket harsh fine uniform parrot echo dinosaur awake apart asthma swarm";
+var mnemonic = "welcome useful elder few shaft style almost spatial enemy gorilla caution into";

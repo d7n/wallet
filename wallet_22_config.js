@@ -1,1 +1,1 @@
-var mnemonic = "cabbage myth sea express unusual awake tilt list frown wheat december rabbit";
+var mnemonic = "captain scan execute nominee filter myself miracle cute system letter guilt relax";

@@ -1,1 +1,1 @@
-var mnemonic = "worth hat stone jump chuckle plug vacuum topic soft spy ghost fringe";
+var mnemonic = "alone pilot skin ugly truly license bubble surge melt material nominee jacket";

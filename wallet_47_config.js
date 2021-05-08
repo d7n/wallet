@@ -1,1 +1,1 @@
-var mnemonic = "enough today palm rude spoil margin knock scatter noise chalk proud wing";
+var mnemonic = "endless rebel panel arctic choice roof dust remember general suit essence woman";

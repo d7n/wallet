@@ -1,1 +1,1 @@
-var mnemonic = "lava phone forget half swear job helmet manual scrub more transfer before";
+var mnemonic = "knife jaguar fly project depart frog punch shy brick coral final smart";

@@ -1,1 +1,1 @@
-var mnemonic = "garden cotton empower doctor elephant lyrics silly summer giggle protect attract quiz";
+var mnemonic = "mass design inform quantum ill country expose dismiss online young learn chapter";

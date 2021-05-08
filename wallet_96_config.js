@@ -1,1 +1,1 @@
-var mnemonic = "foam elegant tongue control seat shadow pyramid solve what improve expand vehicle";
+var mnemonic = "identify random cherry rough topic truly valve flower dirt mutual blanket hockey";

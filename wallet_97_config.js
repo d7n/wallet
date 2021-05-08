@@ -1,1 +1,1 @@
-var mnemonic = "family gold trick picnic negative punch october pill mobile alter digital install";
+var mnemonic = "clutch spot gasp gas disagree observe salt scheme come peace emotion loan";

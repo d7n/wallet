@@ -1,1 +1,1 @@
-var mnemonic = "duty hurdle simple artefact exotic cruise help share aisle decide opera any";
+var mnemonic = "actress alone idle box physical rifle perfect bracket donor finger palm symbol";

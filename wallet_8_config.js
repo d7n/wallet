@@ -1,1 +1,1 @@
-var mnemonic = "menu wise space quote tragic betray betray gravity lemon book erupt prize";
+var mnemonic = "balance thumb crumble stuff trick defy depart urge utility van speak square";

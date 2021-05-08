@@ -1,1 +1,1 @@
-var mnemonic = "clarify family vanish tiny rude monster throw system shuffle illness today ceiling";
+var mnemonic = "clever unfold august room design salmon stomach subway tenant exit dinosaur fabric";

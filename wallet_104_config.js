@@ -1,1 +1,1 @@
-var mnemonic = "display yellow enter hockey gospel worth exit pen security law cinnamon stool";
+var mnemonic = "find dolphin type employ grow loan settle nation police nuclear outdoor online";

@@ -1,1 +1,1 @@
-var mnemonic = "purity disagree scatter trial muscle level much smart banana grief prevent paper";
+var mnemonic = "real random tent thrive symbol carbon social couple elevator screen matter gloom";

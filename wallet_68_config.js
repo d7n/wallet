@@ -1,1 +1,1 @@
-var mnemonic = "goddess feature pilot immune prison turn estate girl pigeon pony steak layer";
+var mnemonic = "smoke scene burger govern horn immense filter camp grain arena typical forget";

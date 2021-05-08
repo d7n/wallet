@@ -1,1 +1,1 @@
-var mnemonic = "bargain warfare screen offer double vacant keep giraffe verb board soup model";
+var mnemonic = "industry tennis taxi elder donor pitch demand thumb virus escape remember disease";

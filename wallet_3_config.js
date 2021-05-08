@@ -1,1 +1,1 @@
-var mnemonic = "gentle stem finish expect pride super work dust comfort harsh civil climb";
+var mnemonic = "pupil pioneer poverty comic afraid genius seat awesome valve foster fury ice";

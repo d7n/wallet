@@ -1,1 +1,1 @@
-var mnemonic = "nest dad tiny note history confirm surprise night trash fragile also quality";
+var mnemonic = "vital tower prevent wrap melt same swim transfer shine repair rug perfect";

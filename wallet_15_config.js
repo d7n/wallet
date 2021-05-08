@@ -1,1 +1,1 @@
-var mnemonic = "into ring palace vote menu civil equal boring absorb talk arctic three";
+var mnemonic = "cargo head auto tomato cage flip rich gossip typical ecology board shock";

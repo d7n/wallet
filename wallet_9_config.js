@@ -1,1 +1,1 @@
-var mnemonic = "curve lend live fat fiber armor hurt traffic opinion candy cloud robot";
+var mnemonic = "aerobic cradle couch purity planet diamond never bubble embark stock asthma employ";

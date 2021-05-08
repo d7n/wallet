@@ -1,1 +1,1 @@
-var mnemonic = "mountain news split claim dream lounge stamp put shy net year record";
+var mnemonic = "owner cousin seminar code attend ankle neglect position flavor tongue argue endless";

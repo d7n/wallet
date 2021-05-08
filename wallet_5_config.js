@@ -1,1 +1,1 @@
-var mnemonic = "fragile cotton cabbage beauty myself midnight accuse play sponsor river taxi sick";
+var mnemonic = "sample weasel warm combine chef unaware book slide easy crazy goose auto";

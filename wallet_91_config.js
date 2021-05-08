@@ -1,1 +1,1 @@
-var mnemonic = "wink twice veteran alone arena below ecology couch behind ball arm fancy";
+var mnemonic = "truly tuna trend dinner great material better mango rural strike beauty welcome";

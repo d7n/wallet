@@ -1,1 +1,1 @@
-var mnemonic = "search hurry rhythm leisure park table cry cricket burger energy work slow";
+var mnemonic = "dove uncover strategy library spray task junior pear idea bird pact sniff";

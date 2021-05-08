@@ -1,1 +1,1 @@
-var mnemonic = "put nerve beauty morning stable lyrics excess urge initial spirit dish solve";
+var mnemonic = "wealth mystery seat minute actual pig dolphin pitch order enact tuna rural";

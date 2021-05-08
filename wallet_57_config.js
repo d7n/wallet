@@ -1,1 +1,1 @@
-var mnemonic = "client viable basic page renew diesel robust drive produce tumble dutch vapor";
+var mnemonic = "advance relief parade repeat axis maze brain action thumb grid traffic oak";

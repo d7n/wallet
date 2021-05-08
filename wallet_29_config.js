@@ -1,1 +1,1 @@
-var mnemonic = "random flavor budget joy glide bunker club right congress face gold fiber";
+var mnemonic = "poet near tattoo song nice witness boss boss canvas upper object improve";

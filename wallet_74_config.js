@@ -1,1 +1,1 @@
-var mnemonic = "feature swarm best owner emerge kite poem deposit clog still dose memory";
+var mnemonic = "need awake text pelican suspect extend pride nerve cram atom distance rhythm";

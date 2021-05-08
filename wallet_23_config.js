@@ -1,1 +1,1 @@
-var mnemonic = "car visa rebel gospel sail chalk buffalo below advice attitude visit team";
+var mnemonic = "kitten nation decorate column race tilt own road expose project maple say";

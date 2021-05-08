@@ -1,1 +1,1 @@
-var mnemonic = "equal special remind rebuild daring fringe category wife slender feed develop scatter";
+var mnemonic = "surround long honey prison math pill gaze lazy fresh quote clip awful";

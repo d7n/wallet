@@ -1,1 +1,1 @@
-var mnemonic = "actual motor tube almost regular melt exact twice staff snow program bunker";
+var mnemonic = "gaze there embody require define chapter under double claw result master flavor";

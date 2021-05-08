@@ -1,1 +1,1 @@
-var mnemonic = "cancel they unfold fat pepper dad special write real exit east theme";
+var mnemonic = "negative stadium street aware curious model captain scissors nation glory because rhythm";

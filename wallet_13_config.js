@@ -1,1 +1,1 @@
-var mnemonic = "shoot pipe era ugly dragon enemy rather federal toilet tent review maple";
+var mnemonic = "scorpion way anchor image deer fantasy glimpse reunion pass beef bullet plug";

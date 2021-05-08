@@ -1,1 +1,1 @@
-var mnemonic = "entry tide blind gossip fire thumb flame enemy story soda panic seed";
+var mnemonic = "firm away aim asset all horror poverty champion ostrich october disagree poverty";

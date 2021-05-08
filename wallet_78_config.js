@@ -1,1 +1,1 @@
-var mnemonic = "guess crumble visit nothing tool broccoli file jeans case top gentle shed";
+var mnemonic = "zebra pill lake shuffle climb achieve where organ casino lesson seat embody";

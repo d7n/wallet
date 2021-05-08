@@ -1,1 +1,1 @@
-var mnemonic = "clap measure ivory close silk tiny input dish always buzz sword recycle";
+var mnemonic = "salt curve visa hurry alter story actress pulp guess between humor east";

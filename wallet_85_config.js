@@ -1,1 +1,1 @@
-var mnemonic = "business buyer box another zero addict utility process public feature render expose";
+var mnemonic = "bronze nerve salad glory loan frozen someone beauty car need pretty spring";

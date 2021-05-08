@@ -1,1 +1,1 @@
-var mnemonic = "fetch parrot anxiety you rescue trust riot spike wash napkin network bright";
+var mnemonic = "matter home two obey tomato october loyal elder actual fringe monster conduct";

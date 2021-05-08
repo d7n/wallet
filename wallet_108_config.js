@@ -1,1 +1,1 @@
-var mnemonic = "clap mother slide outer where flock tray talent habit roast rally adjust";
+var mnemonic = "spike risk robust mask cave foot any deal wonder illness naive ride";

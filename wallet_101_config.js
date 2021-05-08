@@ -1,1 +1,1 @@
-var mnemonic = "this upper siren vacuum fork bone amazing capable shock surprise soap blood";
+var mnemonic = "plastic tissue jaguar soul teach crew bottom fatal tide father use fade";

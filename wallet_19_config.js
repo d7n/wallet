@@ -1,1 +1,1 @@
-var mnemonic = "pen window deposit toward sister digital require horse piano culture weapon initial";
+var mnemonic = "control forum dose section art final clump ramp yellow foil violin oxygen";

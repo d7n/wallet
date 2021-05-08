@@ -1,1 +1,1 @@
-var mnemonic = "true used volume best middle silent brush split vague someone large fatal";
+var mnemonic = "dream resist puzzle flag midnight floor another real rhythm decrease screen island";

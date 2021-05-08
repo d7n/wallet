@@ -1,1 +1,1 @@
-var mnemonic = "usual merit legend video view awful same glide father people quit rabbit";
+var mnemonic = "cram juice engage pet august sense tiger ready dial absurd few next";

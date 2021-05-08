@@ -1,1 +1,1 @@
-var mnemonic = "poverty roof fault potato arrow wrong street velvet adult debris attend like";
+var mnemonic = "venue scrap acoustic short cute hazard refuse motion include forget enlist broom";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent fan drink upset gravity because letter degree glue lazy invest alone";
+var mnemonic = "december chronic fine notable panther already spoil feel stereo food arctic network";

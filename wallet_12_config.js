@@ -1,1 +1,1 @@
-var mnemonic = "together blame pill violin soon lion repeat fiber click mimic menu clap";
+var mnemonic = "slim spider desert brisk rally pitch warrior fatal flight mail east initial";

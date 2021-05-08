@@ -1,1 +1,1 @@
-var mnemonic = "silver urban panel detect stumble fantasy image palace sense negative clinic fresh";
+var mnemonic = "law dust man sponsor leaf shoot slot gain cloud zero mirror involve";

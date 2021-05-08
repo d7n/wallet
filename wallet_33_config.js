@@ -1,1 +1,1 @@
-var mnemonic = "later host attract face fashion scheme zebra husband sell hand shoot stick";
+var mnemonic = "solid tenant sun yard lounge plastic mountain satisfy lawsuit main barely void";

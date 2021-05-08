@@ -1,1 +1,1 @@
-var mnemonic = "offer sound income remain donate tonight hamster trim summer where buffalo exact";
+var mnemonic = "describe forward yellow collect orphan already sample bicycle youth female stool magic";

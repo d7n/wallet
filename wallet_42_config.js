@@ -1,1 +1,1 @@
-var mnemonic = "across holiday hospital quit find rich embark dentist acoustic face quarter lumber";
+var mnemonic = "quick ridge multiply token movie add giggle trouble asset pizza dish lamp";

@@ -1,1 +1,1 @@
-var mnemonic = "zero next want slow arena kite hotel issue food uniform fetch error";
+var mnemonic = "donkey autumn example melt interest design quit casual cable circle argue drum";

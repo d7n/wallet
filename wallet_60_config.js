@@ -1,1 +1,1 @@
-var mnemonic = "enable runway where conduct actress host until despair genius cattle uncle avocado";
+var mnemonic = "select history soldier celery follow world conduct review liar wing august dial";

@@ -1,1 +1,1 @@
-var mnemonic = "length submit bread powder tomato rib crime system arrive town tuition crisp";
+var mnemonic = "horn fence brief diesel chronic dentist course talent erosion wage stay course";

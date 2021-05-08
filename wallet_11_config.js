@@ -1,1 +1,1 @@
-var mnemonic = "staff wrist interest across monster economy squeeze display surround draw renew father";
+var mnemonic = "social current step update neck zoo cheese trophy silk must build copy";

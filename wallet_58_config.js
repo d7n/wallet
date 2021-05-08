@@ -1,1 +1,1 @@
-var mnemonic = "invest play powder range flush hybrid army poverty spell shy rail gasp";
+var mnemonic = "hammer mobile swallow erode hero prepare soldier walk shrug milk scale uphold";

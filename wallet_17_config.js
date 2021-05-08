@@ -1,1 +1,1 @@
-var mnemonic = "sign spoon dismiss fence blood matter amazing trophy such first change drill";
+var mnemonic = "people hazard burst use beauty hedgehog royal charge blind desk stomach dismiss";

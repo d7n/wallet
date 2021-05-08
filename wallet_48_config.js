@@ -1,1 +1,1 @@
-var mnemonic = "excite ketchup walnut space envelope clever wedding beach exhaust outer virus truth";
+var mnemonic = "tribe casino breeze duck mobile trumpet solid face affair shrug umbrella artwork";

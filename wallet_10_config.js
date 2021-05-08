@@ -1,1 +1,1 @@
-var mnemonic = "utility popular fiction type bind sausage habit sniff twist rigid blue amazing";
+var mnemonic = "ankle recipe net surprise word antenna injury fluid tray eight twist crisp";

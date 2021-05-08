@@ -1,1 +1,1 @@
-var mnemonic = "any frown glide regular negative ride swallow civil cake mask announce climb";
+var mnemonic = "whisper rigid rail neither wage window arctic liquid people tortoise bright ginger";

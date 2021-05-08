@@ -1,1 +1,1 @@
-var mnemonic = "behave galaxy toddler spice label eternal need explain verify trash dignity box";
+var mnemonic = "version blind treat rubber two cable medal stairs cable parent expand humor";

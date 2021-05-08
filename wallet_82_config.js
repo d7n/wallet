@@ -1,1 +1,1 @@
-var mnemonic = "enter satoshi ice flip control lens abstract require amateur door hair achieve";
+var mnemonic = "unveil rocket glance proud earn reward arrange duty beef junk injury mountain";

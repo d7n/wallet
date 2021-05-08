@@ -1,1 +1,1 @@
-var mnemonic = "pulp style tell that mansion orient end okay board voyage history shaft";
+var mnemonic = "ensure pioneer rely hire strike win accident ridge clerk spatial rhythm joke";

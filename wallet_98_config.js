@@ -1,1 +1,1 @@
-var mnemonic = "correct below dismiss pull trigger dinosaur life behave unaware try runway broom";
+var mnemonic = "cable vibrant surprise crime setup dice robust crucial bamboo virtual grow true";

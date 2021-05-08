@@ -1,1 +1,1 @@
-var mnemonic = "clap extra seven comic lunar sentence spy buyer damp frost balance blur";
+var mnemonic = "payment mask release beyond fly music legal latin gentle planet vote upgrade";

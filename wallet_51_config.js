@@ -1,1 +1,1 @@
-var mnemonic = "wish nuclear delay diamond spot chalk repeat biology prefer quick retire video";
+var mnemonic = "radar rubber never flower eternal click beef tragic adjust sustain gossip neglect";

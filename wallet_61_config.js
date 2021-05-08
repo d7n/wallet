@@ -1,1 +1,1 @@
-var mnemonic = "there giant machine debate ripple marble swing tissue gallery hope all happy";
+var mnemonic = "knee collect vessel sea pony fortune episode arctic way guitar pudding road";

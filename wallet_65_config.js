@@ -1,1 +1,1 @@
-var mnemonic = "flat also across swarm green budget lazy regular obscure spend film ski";
+var mnemonic = "pyramid shock purse phone crack fine table story seminar coin easy april";

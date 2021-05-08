@@ -1,1 +1,1 @@
-var mnemonic = "order depend fever repair cupboard position renew zero velvet vague ethics remain";
+var mnemonic = "morning husband flower tragic bone raw donate shine dice park lava reform";

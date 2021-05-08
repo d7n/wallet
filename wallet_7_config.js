@@ -1,1 +1,1 @@
-var mnemonic = "ankle pepper fence front issue glove artist utility system social before pact";
+var mnemonic = "gadget tattoo treat cushion bright main shoulder weird mind guide rescue airport";

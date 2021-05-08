@@ -1,1 +1,1 @@
-var mnemonic = "unfold remind pass rare crew fury pond require bus mystery fury action";
+var mnemonic = "certain vacuum void used test promote nurse rather bullet broom evidence lucky";

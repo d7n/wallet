@@ -1,1 +1,1 @@
-var mnemonic = "census owner ketchup suffer equip improve example harsh eagle boy puzzle waste";
+var mnemonic = "proof slim chunk drama volume trade hawk guard snake elegant rely degree";

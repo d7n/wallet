@@ -1,1 +1,1 @@
-var mnemonic = "together cram sound sibling banana today slam mandate farm action abstract random";
+var mnemonic = "great common catch liquid loan shed unable vague push liberty expose birth";

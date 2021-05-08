@@ -1,1 +1,1 @@
-var mnemonic = "purity decline original adjust cloud pill liar engage chase into sudden chef";
+var mnemonic = "speak amateur shop relax walk medal verify decade purse angle link beach";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract sound advice dress girl flag arrange problem host remember seven orchard";
+var mnemonic = "clock company coffee horn cupboard buyer expand liar intact common assault pond";

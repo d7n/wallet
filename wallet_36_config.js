@@ -1,1 +1,1 @@
-var mnemonic = "fog bind donor item vintage inch wing reopen add achieve trim scatter";
+var mnemonic = "pear cover away old eager february athlete symbol water can wheat nothing";

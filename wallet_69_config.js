@@ -1,1 +1,1 @@
-var mnemonic = "retire pear awful add entire music focus boost pyramid tortoise advance ozone";
+var mnemonic = "govern short dawn push earn useless close novel exhaust farm vast visa";

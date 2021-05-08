@@ -1,1 +1,1 @@
-var mnemonic = "upset estate lion glad again identify inmate budget want bulb brush door";
+var mnemonic = "fee symbol awesome very shell canal olive income slim wheat ketchup street";

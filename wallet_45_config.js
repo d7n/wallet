@@ -1,1 +1,1 @@
-var mnemonic = "nurse other basket cricket crouch dolphin traffic swap flat size wrap engine";
+var mnemonic = "mimic rule canyon sting depth attack buyer install blade zoo author lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive strategy rule tuna shield review nice tomato six bright ceiling supreme";
+var mnemonic = "cube exclude lamp monkey erase nature payment thank flash meat body wrap";

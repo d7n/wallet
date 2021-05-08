@@ -1,1 +1,1 @@
-var mnemonic = "sting fringe discover stone flock ship fan grace chat gentle blast scout";
+var mnemonic = "rabbit decade dune myth unknown valid anxiety render wood seminar tomorrow soda";

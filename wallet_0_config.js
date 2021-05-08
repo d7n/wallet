@@ -1,1 +1,1 @@
-var mnemonic = "artist animal negative possible icon egg trip account gospel sentence organ filter";
+var mnemonic = "deal patrol electric crowd dentist canal setup wedding pistol bike cinnamon squirrel";
