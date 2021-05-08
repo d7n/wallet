@@ -1,1 +1,1 @@
-var mnemonic = "large beef trend spirit heavy repeat panda carbon faculty special afraid bacon";
+var mnemonic = "glide urge virus extend act hurdle category genuine pair oil bubble hungry";

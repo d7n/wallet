@@ -1,1 +1,1 @@
-var mnemonic = "banana task evil captain echo neck wire pole end snack hundred thought";
+var mnemonic = "lawsuit vibrant error soft attract daughter stumble battle foster mouse man mad";

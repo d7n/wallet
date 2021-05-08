@@ -1,1 +1,1 @@
-var mnemonic = "rug kick solution elegant switch stamp movie raccoon diesel stomach gallery tip";
+var mnemonic = "evoke eagle outdoor payment pigeon drum rich pattern tip armor salon acquire";

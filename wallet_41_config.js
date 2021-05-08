@@ -1,1 +1,1 @@
-var mnemonic = "benefit digital inner bronze ride diamond oppose diagram measure dilemma open moral";
+var mnemonic = "hen program outdoor way roast knife engage riot curve rent alpha stone";

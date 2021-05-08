@@ -1,1 +1,1 @@
-var mnemonic = "sadness talent alien gentle runway alert embrace gloom team excuse neglect winter";
+var mnemonic = "fancy clown cover tomorrow turkey volcano spice quality purse people bundle shrug";

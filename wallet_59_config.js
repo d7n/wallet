@@ -1,1 +1,1 @@
-var mnemonic = "mistake liquid purse fuel city winter remain inject place pole lawn indoor";
+var mnemonic = "slide stand sunset lady march lyrics tragic history pudding monster income elbow";

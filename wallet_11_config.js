@@ -1,1 +1,1 @@
-var mnemonic = "resemble inhale poverty oyster chase nest over ability orchard fork ranch electric";
+var mnemonic = "cost detect reason finger olympic infant lawsuit pigeon middle bar have year";

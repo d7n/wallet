@@ -1,1 +1,1 @@
-var mnemonic = "route little slab retire breeze flash true coast angle run cargo jar";
+var mnemonic = "asset method bid decrease behind lock dream talk wasp brisk breeze inner";

@@ -1,1 +1,1 @@
-var mnemonic = "concert actual load profit oyster spice cheese unusual address captain flag wisdom";
+var mnemonic = "cream mobile exit kid around half deputy library extend credit machine cage";

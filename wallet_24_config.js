@@ -1,1 +1,1 @@
-var mnemonic = "twenty rain junior film replace moon certain toe hollow improve assist area";
+var mnemonic = "gasp father ready chef when element identify farm lemon voyage monkey tennis";

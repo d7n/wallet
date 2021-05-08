@@ -1,1 +1,1 @@
-var mnemonic = "fragile jaguar desert exchange couch math hurdle axis tone load gold current";
+var mnemonic = "allow clock decline empty section educate dolphin planet bronze fetch mandate olive";

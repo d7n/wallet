@@ -1,1 +1,1 @@
-var mnemonic = "poet pipe able endless nice hundred giraffe butter risk cross bulb wrestle";
+var mnemonic = "attack coral cement remove hill copy theme tackle duck naive high expose";

@@ -1,1 +1,1 @@
-var mnemonic = "volume town surge actor cross prevent gravity burger outside dad opera second";
+var mnemonic = "winner penalty strong tail science badge wait focus cash stable cheese pass";

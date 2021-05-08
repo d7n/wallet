@@ -1,1 +1,1 @@
-var mnemonic = "lazy journey injury sibling draw panda public champion east enough snake clap";
+var mnemonic = "slide orbit safe bag notable during today girl prison vanish frog supply";

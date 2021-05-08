@@ -1,1 +1,1 @@
-var mnemonic = "solid crazy soft demise swap vanish giraffe decline brother few lonely apart";
+var mnemonic = "gun leg census theory stamp glad alcohol carry link dish license hurry";

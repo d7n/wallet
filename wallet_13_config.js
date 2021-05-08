@@ -1,1 +1,1 @@
-var mnemonic = "lab swap volume vessel range farm multiply drama scare orbit weapon deal";
+var mnemonic = "country matrix have network material firm arctic bone frame embark mean gain";

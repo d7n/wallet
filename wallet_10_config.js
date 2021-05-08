@@ -1,1 +1,1 @@
-var mnemonic = "figure flame suit whisper team decide review magnet coil mercy spice improve";
+var mnemonic = "bottom skate paper metal boat venue topple dwarf cruel twist cigar error";

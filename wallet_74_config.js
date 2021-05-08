@@ -1,1 +1,1 @@
-var mnemonic = "candy cave child blood wrestle autumn match erode face draft tonight soon";
+var mnemonic = "next eagle forum ozone duck brown because ozone smooth tenant morning dragon";

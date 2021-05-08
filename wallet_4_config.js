@@ -1,1 +1,1 @@
-var mnemonic = "earn balance appear olympic lava web crystal only catch muscle ugly foot";
+var mnemonic = "leave process hint apple need buyer good random normal soda custom summer";

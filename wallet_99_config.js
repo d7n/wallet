@@ -1,1 +1,1 @@
-var mnemonic = "slender glory trim sausage abuse confirm habit enough empty holiday toast table";
+var mnemonic = "wisdom make canoe faint warfare craft radio coin current offer faint vehicle";

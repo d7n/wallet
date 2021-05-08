@@ -1,1 +1,1 @@
-var mnemonic = "gorilla ability hurry supreme pet glimpse reduce dose issue gown brown enemy";
+var mnemonic = "empty glad buzz movie color public enter injury siege cruise sand bike";

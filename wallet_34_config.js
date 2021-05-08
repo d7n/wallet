@@ -1,1 +1,1 @@
-var mnemonic = "mention wrestle stone glare rough level radar deer salon tobacco predict spread";
+var mnemonic = "head print royal time merry cigar live loop sound subject paddle forward";

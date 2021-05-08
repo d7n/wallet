@@ -1,1 +1,1 @@
-var mnemonic = "subway eye portion major win oppose bright street logic spare sick veteran";
+var mnemonic = "atom enlist cart glory vicious neglect paper damp ahead pink nut resist";

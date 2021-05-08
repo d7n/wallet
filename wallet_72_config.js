@@ -1,1 +1,1 @@
-var mnemonic = "slice thank october cargo cave useless duck remember swear make gloom online";
+var mnemonic = "obscure security envelope innocent prepare depend blame test list muffin oven arrive";

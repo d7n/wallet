@@ -1,1 +1,1 @@
-var mnemonic = "snake student trouble move suit display ladder board panda awesome title comic";
+var mnemonic = "conduct scene claim pool tuna catch forum net custom reward poem entry";

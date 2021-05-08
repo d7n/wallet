@@ -1,1 +1,1 @@
-var mnemonic = "ghost bring senior caution document barely nut myself exile device acoustic clay";
+var mnemonic = "buyer shadow fatal same accident addict pig lend measure hour blade tired";

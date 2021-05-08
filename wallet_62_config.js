@@ -1,1 +1,1 @@
-var mnemonic = "dignity knock witness chief novel elite nephew design smile illegal recall silent";
+var mnemonic = "economy east inherit travel sock sugar thought tiny equip ladder income okay";

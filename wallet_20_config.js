@@ -1,1 +1,1 @@
-var mnemonic = "genius access fit error priority possible anger weapon capital lesson above ankle";
+var mnemonic = "cable theory grid panel decline sting guide gather cushion leg parade latin";

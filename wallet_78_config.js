@@ -1,1 +1,1 @@
-var mnemonic = "stable twin link ranch come expect bless sustain view silly journey jealous";
+var mnemonic = "excite bubble tobacco sausage leave stomach blame tattoo foam brown kiss burden";

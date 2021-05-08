@@ -1,1 +1,1 @@
-var mnemonic = "useful destroy devote midnight verb shine chaos fitness reward acquire shadow bag";
+var mnemonic = "when coconut immune weapon indicate during sunny method pass decrease cushion depart";

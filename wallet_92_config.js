@@ -1,1 +1,1 @@
-var mnemonic = "dry cook hungry news bullet buyer daring educate mushroom ghost twist thunder";
+var mnemonic = "thought idle business winner labor humor damage arrow solution rely maple copy";

@@ -1,1 +1,1 @@
-var mnemonic = "behind come mean evil gold achieve vote salt direct illegal poverty steak";
+var mnemonic = "feature voice fat crowd book theory green accident fuel family ankle fork";

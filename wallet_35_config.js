@@ -1,1 +1,1 @@
-var mnemonic = "also analyst draw cargo acoustic retreat area comic already like aspect noodle";
+var mnemonic = "magic employ rather drum scene skate water dizzy room swallow pattern maximum";

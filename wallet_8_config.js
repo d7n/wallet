@@ -1,1 +1,1 @@
-var mnemonic = "damp among region upper spare address analyst shy plate vote visual mosquito";
+var mnemonic = "another clinic keen sleep hazard exchange narrow actual mass boy obscure clog";

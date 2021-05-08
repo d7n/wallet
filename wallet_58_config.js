@@ -1,1 +1,1 @@
-var mnemonic = "donor hat deer credit remove viable what output meat rare east install";
+var mnemonic = "breeze brief melody banner scissors pizza later bicycle alarm myth double diagram";

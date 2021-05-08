@@ -1,1 +1,1 @@
-var mnemonic = "surprise either budget front wet abuse inherit mix hamster year immune off";
+var mnemonic = "stomach year coffee holiday rally expect magnet squirrel live receive absorb door";

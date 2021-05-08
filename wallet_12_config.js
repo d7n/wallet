@@ -1,1 +1,1 @@
-var mnemonic = "moral broccoli lonely beach surface bottom erode excuse victory client civil culture";
+var mnemonic = "shop chapter monkey solar pudding movie cabbage addict amateur small good refuse";

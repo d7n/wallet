@@ -1,1 +1,1 @@
-var mnemonic = "diet frost coyote melt voice hollow plunge grass belt bean direct empower";
+var mnemonic = "because bunker shuffle above path fiscal copy leopard west sad nest divorce";

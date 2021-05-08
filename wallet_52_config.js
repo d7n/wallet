@@ -1,1 +1,1 @@
-var mnemonic = "spoil rally cloud mansion must mobile cradle swarm name nice deliver venue";
+var mnemonic = "wisdom inhale eternal glass confirm ethics exact permit curtain during sauce vanish";

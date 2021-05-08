@@ -1,1 +1,1 @@
-var mnemonic = "setup choice clarify skirt easy crystal vicious matter audit cave charge solar";
+var mnemonic = "crater tank merge canyon script spice crash pave moment else impact accident";

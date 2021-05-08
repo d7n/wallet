@@ -1,1 +1,1 @@
-var mnemonic = "hair blossom charge mountain repeat base earn repeat also mask repeat renew";
+var mnemonic = "lift awful slim gown rack assault immense swamp note goat caught near";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess zebra admit view circle dilemma assist young state punch stem supply";
+var mnemonic = "check mushroom giraffe unusual orange apart agree cabin flight duty liberty belt";

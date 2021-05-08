@@ -1,1 +1,1 @@
-var mnemonic = "magic derive trade auction fluid flavor pass actress cement whale tuition view";
+var mnemonic = "pony science present waste trim never tilt depth save dilemma visual subject";

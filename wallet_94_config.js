@@ -1,1 +1,1 @@
-var mnemonic = "member grant twin park boil lab turkey flush share attack quote gas";
+var mnemonic = "awful airport vault book sphere hazard school round walnut strike strong dinner";

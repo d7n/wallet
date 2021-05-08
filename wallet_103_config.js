@@ -1,1 +1,1 @@
-var mnemonic = "pond warfare orient wink airport treat layer soon media leader draw oxygen";
+var mnemonic = "comfort ankle beyond aware consider amazing soccer viable page remind better size";

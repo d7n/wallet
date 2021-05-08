@@ -1,1 +1,1 @@
-var mnemonic = "mobile flavor patrol vacant verify just quote blade crater person green fresh";
+var mnemonic = "garment wasp afford wash route inmate raw random season play actress wrong";

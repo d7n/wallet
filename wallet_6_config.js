@@ -1,1 +1,1 @@
-var mnemonic = "know shed market chunk spy light away sorry method clip once purse";
+var mnemonic = "suggest license nature egg people nothing girl pole chat know wrestle axis";

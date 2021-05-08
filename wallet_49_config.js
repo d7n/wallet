@@ -1,1 +1,1 @@
-var mnemonic = "section flag juice negative ten earth window library thing labor tenant answer";
+var mnemonic = "stem trick tail ankle absurd riot club dwarf board verify affair error";

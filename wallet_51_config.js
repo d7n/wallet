@@ -1,1 +1,1 @@
-var mnemonic = "whale universe resource thing lunch exhaust ski punch kick salmon title board";
+var mnemonic = "escape gate scale input erode initial patrol famous task rebel hazard skate";

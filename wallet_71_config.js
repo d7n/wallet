@@ -1,1 +1,1 @@
-var mnemonic = "give inflict rice napkin replace strike ripple bird sunny century pupil thing";
+var mnemonic = "hollow april isolate polar state exotic legal auction apology truth eyebrow pipe";

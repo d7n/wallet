@@ -1,1 +1,1 @@
-var mnemonic = "hip result cherry sort fit appear ancient ready noodle layer return lemon";
+var mnemonic = "faint clutch orange credit fiber attack brass problem inform segment increase group";

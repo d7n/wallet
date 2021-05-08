@@ -1,1 +1,1 @@
-var mnemonic = "sentence hip close brass pony address pause raccoon popular awful fee eyebrow";
+var mnemonic = "icon cotton abuse sad sing abuse viable resemble grow return yellow plastic";

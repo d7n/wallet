@@ -1,1 +1,1 @@
-var mnemonic = "scene salad behind survey kid success skin zero employ all bronze web";
+var mnemonic = "stereo spread illness normal balcony always treat brother weird myself jeans fitness";

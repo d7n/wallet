@@ -1,1 +1,1 @@
-var mnemonic = "leader give sadness camera future mesh bomb keep text deputy lesson pond";
+var mnemonic = "empower debate swift chest yellow project doll charge once item dad tip";

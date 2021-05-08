@@ -1,1 +1,1 @@
-var mnemonic = "giant slab another sword more this ticket river female bronze arctic twelve";
+var mnemonic = "media color rice direct prosper equip surprise enjoy coin capital mansion post";

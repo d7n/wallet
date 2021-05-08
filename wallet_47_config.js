@@ -1,1 +1,1 @@
-var mnemonic = "silly captain design blouse between small around smooth barely extra wire sniff";
+var mnemonic = "shy much enroll square mansion twelve floor hotel silk crowd style phone";

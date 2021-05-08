@@ -1,1 +1,1 @@
-var mnemonic = "toy stage review scene cushion govern flat modify cliff shoulder erase good";
+var mnemonic = "inflict enhance false moral minor tiny stomach magnet forward collect discover bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "road cannon unveil twice tooth sentence away train toward require drop guitar";
+var mnemonic = "purse twist acid truck fetch junior purse excuse glare federal under deal";

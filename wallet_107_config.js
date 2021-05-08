@@ -1,1 +1,1 @@
-var mnemonic = "lottery sleep gasp course lemon visual sadness room chat behind fitness perfect";
+var mnemonic = "visual entire anchor pumpkin erode seminar also note taste nest call kangaroo";

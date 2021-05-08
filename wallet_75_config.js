@@ -1,1 +1,1 @@
-var mnemonic = "deal raccoon alcohol space gentle reform attend virus survey parent scrub stereo";
+var mnemonic = "sound elegant aisle priority apology section gossip rifle cream remember mutual awake";

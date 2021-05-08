@@ -1,1 +1,1 @@
-var mnemonic = "drama zone undo license relax gadget club you public vehicle crop torch";
+var mnemonic = "mobile country valley liquid desert crack item fatal clinic recipe capital actor";

@@ -1,1 +1,1 @@
-var mnemonic = "silver toss awake jazz leisure yellow inspire ability federal moon cloth olive";
+var mnemonic = "foil virus either catch now attitude morning dutch broken guide tool end";

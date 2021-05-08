@@ -1,1 +1,1 @@
-var mnemonic = "quantum whisper sample kit two denial luxury glass huge easy word obey";
+var mnemonic = "trouble boy lemon attitude middle place miracle gravity brick embody child benefit";

@@ -1,1 +1,1 @@
-var mnemonic = "advice unable fatigue lawn firm social alien brisk monitor obey submit dentist";
+var mnemonic = "gallery task metal hard chapter this reward buzz feel clarify daughter galaxy";

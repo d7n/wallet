@@ -1,1 +1,1 @@
-var mnemonic = "portion cram luggage idle soap pass dawn rely minimum weapon olive someone";
+var mnemonic = "turtle photo coconut snack dance taxi ranch stage tenant divide thank describe";

@@ -1,1 +1,1 @@
-var mnemonic = "tank wage green pen frost grace margin square lazy afraid weapon find";
+var mnemonic = "file sight trophy coach soup vivid sketch that raccoon harvest bar calm";

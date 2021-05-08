@@ -1,1 +1,1 @@
-var mnemonic = "name movie ceiling weapon mobile remember later jungle mango private enable surface";
+var mnemonic = "panther exhibit kitten rough obtain sample later discover any primary draw basket";

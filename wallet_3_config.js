@@ -1,1 +1,1 @@
-var mnemonic = "rapid pencil hunt emotion true later picture bike nasty bone liquid entire";
+var mnemonic = "forest cross health either beach rough primary hungry message orient art educate";

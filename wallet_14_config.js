@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo choice close denial together slow feel dove wonder seed kiwi still";
+var mnemonic = "merge proof odor key fetch pepper code reform hope typical never enforce";

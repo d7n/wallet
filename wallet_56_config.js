@@ -1,1 +1,1 @@
-var mnemonic = "suggest enemy regret mansion actual shuffle cook carbon wagon olympic dawn trip";
+var mnemonic = "search cross firm insane confirm help balance route rack task like joke";

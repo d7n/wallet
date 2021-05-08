@@ -1,1 +1,1 @@
-var mnemonic = "twin come adult remove current steak crowd index rain rhythm vendor yellow";
+var mnemonic = "mixture cotton plug entry mother cotton twist zone foil broccoli scheme cheese";

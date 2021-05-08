@@ -1,1 +1,1 @@
-var mnemonic = "require symbol unfold use define lyrics choice swear blame female toast badge";
+var mnemonic = "organ magic enforce short elbow time cream soup found civil narrow vibrant";

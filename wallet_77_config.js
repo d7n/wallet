@@ -1,1 +1,1 @@
-var mnemonic = "resist end radar aisle outside twelve repair member act end purchase boost";
+var mnemonic = "tomato feed obscure walnut bounce broom emerge wedding level add index spider";

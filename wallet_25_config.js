@@ -1,1 +1,1 @@
-var mnemonic = "choose dilemma tide pottery figure pyramid escape maximum middle milk north siren";
+var mnemonic = "salad idle window can double embark prepare venture method maid blast boil";

@@ -1,1 +1,1 @@
-var mnemonic = "finger slow burger room february devote require brain people win hen attack";
+var mnemonic = "exhibit future army wing gun neck mistake envelope inhale dwarf shop faint";

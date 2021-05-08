@@ -1,1 +1,1 @@
-var mnemonic = "clutch oven call response genre worry soda crash industry hire loud fury";
+var mnemonic = "caught crew slush speak truck animal grape forget crisp track habit biology";

@@ -1,1 +1,1 @@
-var mnemonic = "guard lawsuit prevent lumber brother unique tumble ocean antique crisp result scare";
+var mnemonic = "curve advance excess toddler pottery twist proof memory surprise acquire bulb tragic";

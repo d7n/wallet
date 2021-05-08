@@ -1,1 +1,1 @@
-var mnemonic = "hidden cycle trial cement powder mystery unable quality there warfare empty topple";
+var mnemonic = "roast toe collect response elegant hope disorder alcohol violin high dragon supply";

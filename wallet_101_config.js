@@ -1,1 +1,1 @@
-var mnemonic = "direct elephant chalk draft bicycle alone punch degree nice raise quality afraid";
+var mnemonic = "clarify keen steak crisp tiger stem upper bread wrestle tuna trim convince";

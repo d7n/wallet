@@ -1,1 +1,1 @@
-var mnemonic = "number ecology seek canoe afford demise pool siren volcano shift game dog";
+var mnemonic = "offer daughter home pulse tube eyebrow twelve anxiety outdoor captain peace mask";

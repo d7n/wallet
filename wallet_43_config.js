@@ -1,1 +1,1 @@
-var mnemonic = "mule worth black picnic private lens tuna ready lizard guess peace print";
+var mnemonic = "dream tomato taste long present pact replace genuine cart law suffer fluid";

@@ -1,1 +1,1 @@
-var mnemonic = "praise spy novel once march omit room hungry virus purse find clinic";
+var mnemonic = "baby remind medal section evoke hover radio deliver pause floor doctor assume";

@@ -1,1 +1,1 @@
-var mnemonic = "dwarf present alcohol wet guilt future face virus pupil wealth drum glimpse";
+var mnemonic = "margin express into acquire lab addict online despair thrive awake flock runway";

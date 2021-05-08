@@ -1,1 +1,1 @@
-var mnemonic = "roof salt decade bleak march fashion actor earth moral fancy crew keen";
+var mnemonic = "veteran climb mad flight bottom monitor invest mind check steak prevent rhythm";
