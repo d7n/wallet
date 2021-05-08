@@ -1,1 +1,1 @@
-var mnemonic = "ask cousin nose grace replace dream special hint mammal fall enlist erode";
+var mnemonic = "immense they real inner genuine govern they music review dirt talk volcano";

@@ -1,1 +1,1 @@
-var mnemonic = "tragic pelican stand desert pencil dutch expect use language stool grit hill";
+var mnemonic = "much bulb phrase vote powder manage assume prevent cause injury weather fantasy";

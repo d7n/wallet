@@ -1,1 +1,1 @@
-var mnemonic = "conduct good engine defy useful tragic quick century device armed random bike";
+var mnemonic = "tent tunnel athlete sense general initial today include crack wire acquire hope";

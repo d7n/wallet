@@ -1,1 +1,1 @@
-var mnemonic = "liquid subway helmet evidence fresh cross message journey brisk need message this";
+var mnemonic = "tape sustain basic again surround city okay diagram pistol jar time pelican";

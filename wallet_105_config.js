@@ -1,1 +1,1 @@
-var mnemonic = "team stamp double until embark busy delay weird false powder outdoor garlic";
+var mnemonic = "catch accident spread grocery mystery walk machine science matter type average twenty";

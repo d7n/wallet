@@ -1,1 +1,1 @@
-var mnemonic = "cream proud devote expose jealous meadow misery evolve party hotel ask civil";
+var mnemonic = "step donate crouch pact soul lamp comic rigid satisfy giraffe become jaguar";

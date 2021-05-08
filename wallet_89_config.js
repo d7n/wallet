@@ -1,1 +1,1 @@
-var mnemonic = "music thumb cable village rural donor twist copper inform assist shaft have";
+var mnemonic = "abuse security squirrel myself aware current also glimpse tray dinner hip remember";

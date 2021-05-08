@@ -1,1 +1,1 @@
-var mnemonic = "menu shadow figure bind remove dust someone anxiety marine situate scrap shoe";
+var mnemonic = "slush february trophy rate plug stem arrest similar husband october forward sand";

@@ -1,1 +1,1 @@
-var mnemonic = "relief year discover door balcony mad loan pulp bundle awesome inspire vote";
+var mnemonic = "turtle scare latin range size spice speak glare mom donkey federal equal";

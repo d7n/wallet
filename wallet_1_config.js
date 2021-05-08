@@ -1,1 +1,1 @@
-var mnemonic = "pelican enough pottery body journey first bind enter reason that dry cigar";
+var mnemonic = "music island tornado echo bounce betray inch bind elevator caught human method";

@@ -1,1 +1,1 @@
-var mnemonic = "forum link immense left few fiction swim slice fever adjust island drum";
+var mnemonic = "output hub total matter question plate luggage traffic neither benefit nice post";

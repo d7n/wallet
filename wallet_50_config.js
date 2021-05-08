@@ -1,1 +1,1 @@
-var mnemonic = "half kick recipe dish mass enough police fat loud rally fog example";
+var mnemonic = "shadow situate bamboo wine cube vendor tell private whale legal plug violin";

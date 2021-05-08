@@ -1,1 +1,1 @@
-var mnemonic = "artwork moon tenant suspect journey moral visit express smooth penalty snow bunker";
+var mnemonic = "alpha valve hockey guitar input awkward wing apart hat funny chunk nuclear";

@@ -1,1 +1,1 @@
-var mnemonic = "draft prosper enemy same symptom oval burst merit sound diagram raven beyond";
+var mnemonic = "solar marriage milk praise mirror draw chest lonely gentle spike mean refuse";

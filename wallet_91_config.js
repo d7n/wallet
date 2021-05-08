@@ -1,1 +1,1 @@
-var mnemonic = "income twenty control lottery leave waste journey submit nerve disease heavy autumn";
+var mnemonic = "box home pear dog injury sing olive organ rate liquid section baby";

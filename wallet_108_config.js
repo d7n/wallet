@@ -1,1 +1,1 @@
-var mnemonic = "bus spider trumpet cactus plug ride nasty demise chaos police hover news";
+var mnemonic = "patient stand attitude explain reflect tell clerk evolve rack view bubble suffer";

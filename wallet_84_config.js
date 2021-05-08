@@ -1,1 +1,1 @@
-var mnemonic = "climb sand dish sniff void husband gossip spoil drip program tourist box";
+var mnemonic = "across spatial draw moral scatter more narrow fruit occur pole globe clump";

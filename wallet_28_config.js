@@ -1,1 +1,1 @@
-var mnemonic = "pattern taste diary twist you bright blossom labor calm bronze runway zoo";
+var mnemonic = "bulb north state catalog wink blush lesson track federal satoshi beach crop";

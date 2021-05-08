@@ -1,1 +1,1 @@
-var mnemonic = "fiction funny pencil early draw bright sense fruit knee goat bundle supreme";
+var mnemonic = "hobby spawn buyer print head envelope slush twenty virtual print vapor bicycle";

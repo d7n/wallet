@@ -1,1 +1,1 @@
-var mnemonic = "opera gain winter maple tumble hungry lift arena chalk define outdoor basket";
+var mnemonic = "crack genre patrol auction radar blue exclude fence rifle uphold nerve basic";

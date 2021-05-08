@@ -1,1 +1,1 @@
-var mnemonic = "aware foot valid giggle mail ginger label praise clip inmate portion clean";
+var mnemonic = "border sight fever hamster cloth broccoli resemble that cycle merit farm turtle";

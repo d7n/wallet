@@ -1,1 +1,1 @@
-var mnemonic = "spike wrap produce myself trouble erupt swear tongue unable lobster next master";
+var mnemonic = "disagree student ripple baby neglect race scout remain dance holiday pride across";

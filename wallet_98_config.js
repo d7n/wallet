@@ -1,1 +1,1 @@
-var mnemonic = "tent wagon oval teach grocery ecology name alpha glory duty admit occur";
+var mnemonic = "carbon feature series good swing fitness nuclear monitor tank angry flight critic";

@@ -1,1 +1,1 @@
-var mnemonic = "result hint lion scorpion wrong use vapor jelly level tonight nominee elite";
+var mnemonic = "abuse dinner shy night pizza artist shield tower machine dress clerk tumble";

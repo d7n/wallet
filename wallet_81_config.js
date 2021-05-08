@@ -1,1 +1,1 @@
-var mnemonic = "toe angle sketch theory width save ready elder stamp collect image erosion";
+var mnemonic = "eye much level sugar head neglect wool alarm hand wall snack siren";

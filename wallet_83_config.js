@@ -1,1 +1,1 @@
-var mnemonic = "merge fog diesel liberty region beauty post insect detect choose fragile mind";
+var mnemonic = "opera erupt trade select erode hedgehog february position decorate satisfy color gate";

@@ -1,1 +1,1 @@
-var mnemonic = "few try sign snow yellow immense wing list include boring toilet mouse";
+var mnemonic = "dream exile stay glove scatter kind trip faith swing divide differ useful";

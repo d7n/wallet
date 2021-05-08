@@ -1,1 +1,1 @@
-var mnemonic = "zebra large stable differ stove chief talent promote fee marriage hub tone";
+var mnemonic = "toy romance memory candy bid menu royal chunk anxiety mountain depth amount";

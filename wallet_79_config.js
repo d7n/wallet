@@ -1,1 +1,1 @@
-var mnemonic = "promote must observe between sustain net million stable onion tourist track bulk";
+var mnemonic = "use plug approve spell correct noble choose bundle team number yard push";

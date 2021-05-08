@@ -1,1 +1,1 @@
-var mnemonic = "bar myself recipe clerk blue country bag lamp ceiling valve reject borrow";
+var mnemonic = "garden topic accident witness plate teach repeat public nation wedding slide enlist";

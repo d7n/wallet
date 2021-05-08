@@ -1,1 +1,1 @@
-var mnemonic = "case income december year tiny pledge force trial agent ripple height cloud";
+var mnemonic = "eager pulse spray until level domain rifle session topple chest fit dumb";

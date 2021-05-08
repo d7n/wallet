@@ -1,1 +1,1 @@
-var mnemonic = "spray grit lunch knee nut escape task slogan veteran hire horror machine";
+var mnemonic = "else nephew truth cash worry exist habit wrong tonight rather since casino";

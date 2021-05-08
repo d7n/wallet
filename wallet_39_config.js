@@ -1,1 +1,1 @@
-var mnemonic = "sure harbor multiply smooth turtle zero age save omit shine spy code";
+var mnemonic = "people runway flush lava violin dinner dignity drastic dirt pear bracket income";

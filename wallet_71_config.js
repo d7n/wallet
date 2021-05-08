@@ -1,1 +1,1 @@
-var mnemonic = "sweet eagle patch short script convince derive unaware mutual double onion trumpet";
+var mnemonic = "live clarify north sadness fix music coral jeans faith ticket wealth express";

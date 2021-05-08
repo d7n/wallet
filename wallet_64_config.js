@@ -1,1 +1,1 @@
-var mnemonic = "list short organ winter amount buyer crystal auto worth off job chronic";
+var mnemonic = "put dial expect sun image mesh injury umbrella latin option kind army";

@@ -1,1 +1,1 @@
-var mnemonic = "keen sheriff muscle home spray trial oblige number casino grant badge occur";
+var mnemonic = "vocal garage this spawn fox result banana patch burger entire weather call";

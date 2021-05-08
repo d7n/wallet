@@ -1,1 +1,1 @@
-var mnemonic = "baby sausage ticket album question bench south erode mosquito autumn wrap vehicle";
+var mnemonic = "gloom amazing turn tag umbrella gain small sister wet cup picnic practice";

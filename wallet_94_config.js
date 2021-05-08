@@ -1,1 +1,1 @@
-var mnemonic = "athlete draft tourist hockey attract skate truth join stage civil when august";
+var mnemonic = "obtain april equip oyster update bulb budget donor camera polar hammer weather";

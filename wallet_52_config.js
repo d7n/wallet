@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow switch coach nasty sock virus theory drastic parent destroy also poem";
+var mnemonic = "famous expect casual practice post urge vocal solar connect involve tree jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "seek awkward dance hundred vote object rug evidence wish whisper little range";
+var mnemonic = "treat mango aware relief fringe imitate success fold title window ball drop";

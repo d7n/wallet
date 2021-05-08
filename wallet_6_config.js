@@ -1,1 +1,1 @@
-var mnemonic = "habit dress rate furnace drive sunset harsh gloom question energy canyon chronic";
+var mnemonic = "dinosaur nice just home finger outer utility recipe school upgrade they have";

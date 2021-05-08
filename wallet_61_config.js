@@ -1,1 +1,1 @@
-var mnemonic = "believe party party peanut young round harvest risk lucky theory disagree helmet";
+var mnemonic = "hazard question connect supply sustain romance tool bicycle dynamic viable fan horse";

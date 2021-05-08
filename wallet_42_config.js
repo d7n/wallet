@@ -1,1 +1,1 @@
-var mnemonic = "budget rent spatial candy daring wear grit exotic spray route mushroom cost";
+var mnemonic = "horse vocal leisure auction lock luggage blur detail hour memory tilt income";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor round nation faculty bar possible cruise umbrella absorb spawn reflect exact";
+var mnemonic = "multiply secret aerobic venue neglect good match margin quiz escape orchard control";

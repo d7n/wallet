@@ -1,1 +1,1 @@
-var mnemonic = "lava page furnace syrup curve bargain total model mushroom knock volume social";
+var mnemonic = "cereal tragic monster impact evil slice axis come visa follow dose announce";

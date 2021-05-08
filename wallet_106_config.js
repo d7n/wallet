@@ -1,1 +1,1 @@
-var mnemonic = "swarm poverty come coconut impulse office rose puzzle team carry witness jazz";
+var mnemonic = "team fortune laugh dust crew net coral rather speak thumb dirt sight";

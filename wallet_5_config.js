@@ -1,1 +1,1 @@
-var mnemonic = "legal board exhibit edit spy acquire grunt fitness opinion spike major lottery";
+var mnemonic = "tackle review work climb tide this tuition orchard brown walnut slice chicken";

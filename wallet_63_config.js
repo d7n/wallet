@@ -1,1 +1,1 @@
-var mnemonic = "garden worry cat various pave soul midnight dignity kid oak improve talk";
+var mnemonic = "key minute pig client news choice job awesome dinosaur move glad patch";

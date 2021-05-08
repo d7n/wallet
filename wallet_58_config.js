@@ -1,1 +1,1 @@
-var mnemonic = "try apple soap bleak float gain music treat shock symbol turn oppose";
+var mnemonic = "priority explain supreme dry veteran evil sleep april salmon situate inspire blast";

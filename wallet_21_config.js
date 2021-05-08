@@ -1,1 +1,1 @@
-var mnemonic = "glove vague junior skin art short wine birth material book original know";
+var mnemonic = "region diamond issue half summer marine please draw midnight rubber cream view";

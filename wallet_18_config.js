@@ -1,1 +1,1 @@
-var mnemonic = "detect dignity shop acid depend push gift century broom jealous catch stable";
+var mnemonic = "will meat manage grief govern tone close village ball throw tone pencil";

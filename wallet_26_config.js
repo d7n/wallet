@@ -1,1 +1,1 @@
-var mnemonic = "because arctic party wine bridge regular rotate question remove curve cupboard seminar";
+var mnemonic = "welcome labor stage hotel earth hard bar chimney mountain flip alpha addict";

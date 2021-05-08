@@ -1,1 +1,1 @@
-var mnemonic = "insane knee sand shoulder bridge mandate start job end render copper pill";
+var mnemonic = "boring empty toy skull arm inmate fury toast scatter east urge toe";

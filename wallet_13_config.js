@@ -1,1 +1,1 @@
-var mnemonic = "coffee giggle arrive sand major evidence side reform suit sea ghost cry";
+var mnemonic = "jungle drastic lazy gadget tree apology wage letter moment entry seed certain";

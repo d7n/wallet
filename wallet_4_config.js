@@ -1,1 +1,1 @@
-var mnemonic = "obvious park pipe nut strike tunnel pigeon can holiday crucial change move";
+var mnemonic = "language swallow sunset click furnace addict thrive artist life crawl collect album";

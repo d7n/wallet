@@ -1,1 +1,1 @@
-var mnemonic = "bracket shiver isolate reopen lady cabin pluck zone team install pioneer extend";
+var mnemonic = "occur pass repeat bus comic kid weapon ask reflect mind labor inherit";

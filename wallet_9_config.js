@@ -1,1 +1,1 @@
-var mnemonic = "piece elder office refuse success vessel harsh toward accident reward clean just";
+var mnemonic = "wire rather gossip crater raw aerobic dad sibling address argue slim gaze";

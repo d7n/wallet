@@ -1,1 +1,1 @@
-var mnemonic = "beauty gym tone civil census tape catalog acid curve toy shock inject";
+var mnemonic = "crumble element taxi flip enrich rescue ribbon exotic trade notice night sock";

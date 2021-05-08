@@ -1,1 +1,1 @@
-var mnemonic = "build sniff way act spoil avocado post write fever filter oval unhappy";
+var mnemonic = "machine duty prevent dash exclude gym cash clerk hidden primary magic develop";

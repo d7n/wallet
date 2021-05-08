@@ -1,1 +1,1 @@
-var mnemonic = "dragon minute scatter steak admit disorder today device menu surface clinic festival";
+var mnemonic = "rebel ethics pair rapid wealth destroy dust chalk grow predict try pen";

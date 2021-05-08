@@ -1,1 +1,1 @@
-var mnemonic = "cheap fiction essence puzzle december wealth atom leaf scan water thought frown";
+var mnemonic = "adjust reflect fork brick runway banana million receive ahead repeat screen fault";

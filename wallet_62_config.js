@@ -1,1 +1,1 @@
-var mnemonic = "weird fever shoe then thank fever flush wrist reunion range parrot exact";
+var mnemonic = "sugar certain alley trap poet want oil boost welcome infant gift fit";

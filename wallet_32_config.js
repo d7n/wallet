@@ -1,1 +1,1 @@
-var mnemonic = "peace idle train cool leaf wood aisle rather punch reward like toward";
+var mnemonic = "gate symptom wheat improve can echo motor expire cabin jacket stairs lazy";

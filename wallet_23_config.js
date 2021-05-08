@@ -1,1 +1,1 @@
-var mnemonic = "goat usual reopen month student lawn hover someone prize female curious umbrella";
+var mnemonic = "divorce fire choice cool gossip evolve bar fever crazy must cabbage property";

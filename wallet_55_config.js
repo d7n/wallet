@@ -1,1 +1,1 @@
-var mnemonic = "climb enough describe world spare faculty aerobic slight wage rich net initial";
+var mnemonic = "hurdle chest fox pioneer ice swarm motor home because outer turn nominee";

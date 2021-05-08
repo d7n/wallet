@@ -1,1 +1,1 @@
-var mnemonic = "awkward witness adjust vault pen giggle question wild increase pretty trick journey";
+var mnemonic = "town warrior tiger long accuse mirror knee kite will shadow lake course";

@@ -1,1 +1,1 @@
-var mnemonic = "slow mountain impose autumn then spoil pond history siren cricket swarm casual";
+var mnemonic = "dumb festival grace demand tuition panda trick hen symbol ankle resist second";

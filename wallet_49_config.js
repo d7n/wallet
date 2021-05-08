@@ -1,1 +1,1 @@
-var mnemonic = "fiction devote region audit good another stage reunion alert seven cigar soda";
+var mnemonic = "cousin link gym hidden domain same pottery release buffalo hazard false opera";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch combine country bracket corn ozone door embody globe margin hill mosquito";
+var mnemonic = "connect trap purpose include witness cube egg soul enlist steel three corn";

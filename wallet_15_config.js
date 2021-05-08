@@ -1,1 +1,1 @@
-var mnemonic = "core mobile install lunar inject ring beyond black public finger hidden off";
+var mnemonic = "home cradle cook climb company spare flush vanish pass resemble taste flower";

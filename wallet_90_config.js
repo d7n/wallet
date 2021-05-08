@@ -1,1 +1,1 @@
-var mnemonic = "muffin knee champion occur history around half tongue advice blanket idle purse";
+var mnemonic = "limit crane child join swear you taste proof mother bean police evil";

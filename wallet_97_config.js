@@ -1,1 +1,1 @@
-var mnemonic = "attend misery rude fox unaware field fiction pretty candy engine submit gentle";
+var mnemonic = "later theory ability north balcony curtain much clever moon balance area blush";

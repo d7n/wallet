@@ -1,1 +1,1 @@
-var mnemonic = "drum relax skirt antenna genius crucial dumb army faith concert decide ripple";
+var mnemonic = "repeat drink wave quality lock depart lion prevent laundry size steak unusual";

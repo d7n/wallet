@@ -1,1 +1,1 @@
-var mnemonic = "area fire nominee today museum stereo excite mechanic thrive taste hockey tunnel";
+var mnemonic = "autumn horn desk best salad monster welcome shock bright quote walk price";

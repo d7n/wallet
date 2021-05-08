@@ -1,1 +1,1 @@
-var mnemonic = "tribe quick wise lemon sure toe enemy need panel outer cradle tornado";
+var mnemonic = "wealth stumble remind rough measure vibrant process soccer exile planet benefit debate";

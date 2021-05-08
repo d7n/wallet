@@ -1,1 +1,1 @@
-var mnemonic = "squeeze behind oil syrup fox fortune family bronze science torch shrimp exact";
+var mnemonic = "nephew adult lunch scissors easily boat clock silk parade absorb trip forest";

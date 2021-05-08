@@ -1,1 +1,1 @@
-var mnemonic = "spider spider absorb north cinnamon jacket isolate spy embrace length broken frame";
+var mnemonic = "own comfort south bird flame laugh kitchen gain mushroom tomorrow gather trial";

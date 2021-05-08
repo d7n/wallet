@@ -1,1 +1,1 @@
-var mnemonic = "aim vital detect poverty electric sign weekend wreck evidence assault grid grass";
+var mnemonic = "science dumb trigger shoulder orbit fringe razor vital party over dish devote";

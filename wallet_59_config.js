@@ -1,1 +1,1 @@
-var mnemonic = "orchard promote client avocado utility creek pill gadget avoid cactus organ cabbage";
+var mnemonic = "inherit chapter write interest bench song once prevent ski song deposit envelope";

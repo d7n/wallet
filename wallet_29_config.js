@@ -1,1 +1,1 @@
-var mnemonic = "orient analyst load myth income october skull galaxy tone shed priority rough";
+var mnemonic = "couple question reveal expose hamster wagon rural dinosaur grain wood gown strong";

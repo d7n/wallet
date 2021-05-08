@@ -1,1 +1,1 @@
-var mnemonic = "rather pig leaf raven auction age endorse sudden choose tuition again venture";
+var mnemonic = "drop random hello funny ball invite warfare insane egg winter evidence depth";

@@ -1,1 +1,1 @@
-var mnemonic = "income stable ugly motor garbage fence direct cousin song soup play zone";
+var mnemonic = "dog wrap twelve mixture feel turkey improve error village outer abstract table";

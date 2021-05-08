@@ -1,1 +1,1 @@
-var mnemonic = "again talk toilet laundry taste double noise bundle live wide stumble ginger";
+var mnemonic = "october unaware aspect busy detect rebel erosion result develop struggle sick armor";

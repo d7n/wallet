@@ -1,1 +1,1 @@
-var mnemonic = "matrix valid security rabbit blame body adapt outside gaze venue thunder scene";
+var mnemonic = "boat amused gossip spirit chalk cheap waste identify remember secret fine agree";
