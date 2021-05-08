@@ -1,1 +1,1 @@
-var mnemonic = "veteran table century glow eye picture maid injury unlock know much aisle";
+var mnemonic = "reflect catalog gauge guess govern math today debate follow news tennis column";

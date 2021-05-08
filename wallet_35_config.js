@@ -1,1 +1,1 @@
-var mnemonic = "analyst gap enact noodle elephant grape bench inform million inject pond book";
+var mnemonic = "trick recycle lesson sphere pelican core apart solid click pioneer cook pupil";

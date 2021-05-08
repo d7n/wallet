@@ -1,1 +1,1 @@
-var mnemonic = "display armor print dance spatial sick shoulder program normal main birth smile";
+var mnemonic = "trick concert noise side position whip oil soda pistol jealous ranch observe";

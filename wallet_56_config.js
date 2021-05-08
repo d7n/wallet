@@ -1,1 +1,1 @@
-var mnemonic = "huge whale lunar give lobster mansion humble employ involve avocado viable opinion";
+var mnemonic = "slight shiver garment alley dial love tattoo hurry across caught seven fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "truck food motor buyer jar system lab finish doll chaos ladder laugh";
+var mnemonic = "high parrot soldier firm frozen latin debris vessel foot tip include novel";

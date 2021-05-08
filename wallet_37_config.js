@@ -1,1 +1,1 @@
-var mnemonic = "chaos ridge differ neglect false stage crater provide festival extend away frost";
+var mnemonic = "torch disorder claim pave fault gravity tackle broccoli napkin jazz media attend";

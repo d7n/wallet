@@ -1,1 +1,1 @@
-var mnemonic = "blame enforce example clap stairs phone damp radio raccoon purchase sweet ketchup";
+var mnemonic = "payment bleak nasty unable erode aerobic crawl card hospital marriage found sign";

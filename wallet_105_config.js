@@ -1,1 +1,1 @@
-var mnemonic = "apology session loop monkey wave collect business pave away life crop abandon";
+var mnemonic = "satisfy canoe install physical jelly capital average sauce emerge sport walnut river";

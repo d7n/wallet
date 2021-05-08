@@ -1,1 +1,1 @@
-var mnemonic = "famous super all gift gaze pill fork electric core follow wild hope";
+var mnemonic = "nothing boil era cargo margin veteran siren camp slush warm climb spoon";

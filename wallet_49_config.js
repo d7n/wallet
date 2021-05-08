@@ -1,1 +1,1 @@
-var mnemonic = "tragic music edge loop churn broccoli general lunar suggest maple vibrant portion";
+var mnemonic = "chat borrow awesome figure sound flash forward light manual achieve cake beach";

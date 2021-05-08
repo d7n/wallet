@@ -1,1 +1,1 @@
-var mnemonic = "subway position detail mother inform shuffle palace thunder able illness cat domain";
+var mnemonic = "setup candy fever canoe humor shift suspect amateur you six frame muscle";

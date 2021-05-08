@@ -1,1 +1,1 @@
-var mnemonic = "please shadow pass kiss use park side appear kiss rate prevent acquire";
+var mnemonic = "goose joke phrase salute royal pumpkin safe enable approve crater eagle ribbon";

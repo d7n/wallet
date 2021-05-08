@@ -1,1 +1,1 @@
-var mnemonic = "one axis cheap clutch layer guide inquiry copper furnace during session initial";
+var mnemonic = "tape glow legend uncle annual grunt crunch discover canvas meat affair weapon";

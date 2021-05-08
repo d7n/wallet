@@ -1,1 +1,1 @@
-var mnemonic = "laugh fringe badge blue ghost want together manual metal cricket beauty knee";
+var mnemonic = "begin venture slight lemon consider joy expect cram vivid galaxy oyster purchase";

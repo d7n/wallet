@@ -1,1 +1,1 @@
-var mnemonic = "museum explain bundle picnic bargain snake globe spawn pony rule group saddle";
+var mnemonic = "budget crystal world because shy catalog leaf trust fee shrug barely swarm";

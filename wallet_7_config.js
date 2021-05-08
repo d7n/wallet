@@ -1,1 +1,1 @@
-var mnemonic = "area guilt group list ready erupt capital couple genre legend token couch";
+var mnemonic = "calm bargain shadow artwork find toast mask final job dial fruit shift";

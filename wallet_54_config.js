@@ -1,1 +1,1 @@
-var mnemonic = "deputy excite hobby inject ice sure color reunion super dumb gorilla advice";
+var mnemonic = "carry vacant what stuff verb theory fiscal bright tortoise penalty machine keen";

@@ -1,1 +1,1 @@
-var mnemonic = "patient flee pond scale maple course this hockey frog crystal verify bomb";
+var mnemonic = "crawl scissors reason symptom guilt cliff autumn window toilet couple battle toss";

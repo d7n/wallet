@@ -1,1 +1,1 @@
-var mnemonic = "manual violin oblige purse machine company absorb brain cherry diesel card alert";
+var mnemonic = "park water advice finger mimic else tribe venture game tunnel average food";

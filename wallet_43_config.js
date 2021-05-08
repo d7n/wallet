@@ -1,1 +1,1 @@
-var mnemonic = "goose call glove this noble buffalo spray miss network iron lemon hair";
+var mnemonic = "explain radio pink rather hen scan surface health search try toss country";

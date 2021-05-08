@@ -1,1 +1,1 @@
-var mnemonic = "spatial say minor share remember zone noise frame stereo tomorrow ability loyal";
+var mnemonic = "barely silver modify choice credit hockey mushroom hole sick sibling slight autumn";

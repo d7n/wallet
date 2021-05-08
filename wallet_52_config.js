@@ -1,1 +1,1 @@
-var mnemonic = "someone misery collect divorce quantum fine left summer gadget arrow weather noble";
+var mnemonic = "labor spend shallow subway thank volcano autumn adapt success wealth snack insane";

@@ -1,1 +1,1 @@
-var mnemonic = "page actual suggest panic snack time glove stove spoon noise horse month";
+var mnemonic = "puzzle monkey pulse work dizzy festival extra rose cost alarm main kidney";

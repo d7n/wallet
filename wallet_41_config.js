@@ -1,1 +1,1 @@
-var mnemonic = "cave obscure crunch main dish club wet become list theory turkey bitter";
+var mnemonic = "bike number drink reform unable secret gallery atom jeans cabin over review";

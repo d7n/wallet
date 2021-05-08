@@ -1,1 +1,1 @@
-var mnemonic = "since wood mean canyon analyst various type latin relief rule marriage door";
+var mnemonic = "damp carry suffer twist room crisp more luxury girl silly mule range";

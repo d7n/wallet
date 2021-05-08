@@ -1,1 +1,1 @@
-var mnemonic = "sphere champion road unhappy code jar arrest vehicle rack account shallow spend";
+var mnemonic = "grant clerk stick fire smile pizza concert educate key clown myself boost";

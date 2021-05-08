@@ -1,1 +1,1 @@
-var mnemonic = "measure focus funny magnet donkey empower bid record earth repair unknown laundry";
+var mnemonic = "nerve piano divert cruise scout wage wolf meadow witness wise dragon harsh";

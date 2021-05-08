@@ -1,1 +1,1 @@
-var mnemonic = "fragile bid before box march very talent universe hollow remind basic cattle";
+var mnemonic = "alley tiny other trumpet alone mango put dune fringe mom noise business";

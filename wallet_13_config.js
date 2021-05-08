@@ -1,1 +1,1 @@
-var mnemonic = "shy marine someone feel hover little junk illness chief ladder eagle sword";
+var mnemonic = "shell often screen save collect wedding debris argue amount tunnel require wine";

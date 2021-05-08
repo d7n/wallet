@@ -1,1 +1,1 @@
-var mnemonic = "scan violin various view dash carpet extra wall lamp furnace better develop";
+var mnemonic = "autumn identify topple simple soon shoe injury wisdom bar cotton figure hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk beef update burger simple purity brass critic endorse ankle ancient limb";
+var mnemonic = "supreme vital humor rain swarm extend remove envelope win during border denial";

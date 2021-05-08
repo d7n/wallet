@@ -1,1 +1,1 @@
-var mnemonic = "riot need wood hint cover grain rent flock defy source join achieve";
+var mnemonic = "shell horse blast blouse era nurse sing ladder satoshi fit figure alert";

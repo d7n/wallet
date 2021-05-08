@@ -1,1 +1,1 @@
-var mnemonic = "attend chicken burger tip cake hazard ocean kind strong cave extra immune";
+var mnemonic = "amount victory buffalo city often father case foil idle slush jungle hold";

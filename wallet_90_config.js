@@ -1,1 +1,1 @@
-var mnemonic = "tackle voice salon wolf weapon vocal anger cousin heart chest drift crush";
+var mnemonic = "almost peace world six resemble twice across blame ozone process rough indicate";

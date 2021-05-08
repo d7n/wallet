@@ -1,1 +1,1 @@
-var mnemonic = "enact doctor shine race clay stamp trigger retire special nest stool baby";
+var mnemonic = "quick absent visit slogan industry fossil model often mammal region vivid lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "long topic universe donkey bag minute ceiling heart abuse hello badge broom";
+var mnemonic = "legend guard illegal despair kid rural impose ripple mom cover attend become";

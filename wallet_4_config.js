@@ -1,1 +1,1 @@
-var mnemonic = "regret tree error sea position east void clarify oil lazy patient void";
+var mnemonic = "eternal duty guide drink domain torch excite fatal hurry rich major opera";

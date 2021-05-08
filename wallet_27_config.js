@@ -1,1 +1,1 @@
-var mnemonic = "gown teach tackle total cat cabbage puzzle potato ask depth tiger rug";
+var mnemonic = "system ribbon hurt usage lizard pattern wrestle genre rabbit race foot awful";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut soul issue smoke topple dumb stadium donor assault awful rack spell";
+var mnemonic = "use monkey already gap stairs ribbon ridge response acquire away lucky quiz";

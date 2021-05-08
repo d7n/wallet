@@ -1,1 +1,1 @@
-var mnemonic = "evolve liar crack fragile long install accuse pepper photo erase view risk";
+var mnemonic = "endless oppose cannon enact secret scorpion there mesh pepper insane domain coil";

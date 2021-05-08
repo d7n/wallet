@@ -1,1 +1,1 @@
-var mnemonic = "fly correct witness bird speed balcony use great pledge call alley iron";
+var mnemonic = "top sketch bright stomach title scare good quiz hope reason annual transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "useful head wrestle want pistol awkward laundry entire tired model various file";
+var mnemonic = "start lens force scrap laundry cube tomato garlic business work fork tank";

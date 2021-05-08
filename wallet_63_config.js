@@ -1,1 +1,1 @@
-var mnemonic = "music lab rather twelve boat purchase uncover lumber wait limit below manual";
+var mnemonic = "acid across moon fever initial pledge inside digital key now story wet";

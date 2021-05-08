@@ -1,1 +1,1 @@
-var mnemonic = "allow task lyrics zone cover auction hazard illness stereo life coast pet";
+var mnemonic = "person wait mandate desert seven foster illegal absorb traffic dolphin danger taste";

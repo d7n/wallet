@@ -1,1 +1,1 @@
-var mnemonic = "cancel letter insect clog daughter carpet number marine library mule common proof";
+var mnemonic = "vital list symbol sphere news dizzy blast surface tooth gravity crack walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "quote typical teach setup peasant swamp safe weird palace exhaust giraffe wisdom";
+var mnemonic = "hole subway design obvious picture lottery critic spell mutual hedgehog sting used";

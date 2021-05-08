@@ -1,1 +1,1 @@
-var mnemonic = "glimpse pet news anxiety salute liberty edge neglect shoe opera return sketch";
+var mnemonic = "spawn march total piano invest strike wrestle surprise then pull category rice";

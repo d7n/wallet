@@ -1,1 +1,1 @@
-var mnemonic = "wonder bonus later just erupt urban wrong hundred sudden knock arctic mango";
+var mnemonic = "agree crime gasp stairs cost super add arm submit duty victory nice";

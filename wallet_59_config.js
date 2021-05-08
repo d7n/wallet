@@ -1,1 +1,1 @@
-var mnemonic = "enact record keep leaf street own patrol love trend sniff sock sniff";
+var mnemonic = "ivory tonight true parrot jacket tube success online age blood rural awful";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget helmet web wide view jump blind nature broken liberty thing matrix";
+var mnemonic = "enrich mystery jealous saddle stumble fox city gas garage patrol armor hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "gossip icon melody main knife renew unique cream humor enough drum possible";
+var mnemonic = "flag subject suspect copy dial quarter defy aisle venue quote turtle grid";

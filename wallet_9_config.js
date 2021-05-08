@@ -1,1 +1,1 @@
-var mnemonic = "peanut wire indoor paddle marriage top mean peanut august pet riot clutch";
+var mnemonic = "found beach cancel praise equip crumble gospel express maximum logic embody orbit";

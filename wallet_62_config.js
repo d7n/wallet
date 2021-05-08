@@ -1,1 +1,1 @@
-var mnemonic = "clip favorite okay satoshi scorpion canoe spread phone merit maid sphere chat";
+var mnemonic = "voice convince melody loud cabbage error license stone squirrel armed tomorrow oval";

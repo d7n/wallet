@@ -1,1 +1,1 @@
-var mnemonic = "album deer verify link social session cat sweet genuine mimic throw seat";
+var mnemonic = "mutual offer lady certain mercy maximum gadget cat unveil swarm limit knee";

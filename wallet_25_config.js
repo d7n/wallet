@@ -1,1 +1,1 @@
-var mnemonic = "soccer diet middle update rookie smile wash hurry easy venture utility deliver";
+var mnemonic = "robust endorse utility chapter alarm syrup rude enroll sponsor banner deer squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain fringe aerobic boost tackle page laptop ripple tide nurse good mixture";
+var mnemonic = "expose sail talent physical truly impose middle ridge wonder pelican ripple series";

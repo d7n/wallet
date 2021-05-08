@@ -1,1 +1,1 @@
-var mnemonic = "aware enlist lounge rose save demise crime exhibit soap legal bitter venue";
+var mnemonic = "catch leg winner rely control coin riot horror mouse wool symbol legend";

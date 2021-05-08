@@ -1,1 +1,1 @@
-var mnemonic = "yellow unaware matter member kid ostrich crane point evidence park cargo release";
+var mnemonic = "exit employ satoshi inch hammer similar broccoli attend coral draft nephew hidden";

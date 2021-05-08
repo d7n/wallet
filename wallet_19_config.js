@@ -1,1 +1,1 @@
-var mnemonic = "bind symbol repair life immense answer salmon ecology ring gasp metal inquiry";
+var mnemonic = "saddle crack session session rocket person parent frost reduce public hobby review";

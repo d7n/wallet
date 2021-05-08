@@ -1,1 +1,1 @@
-var mnemonic = "minimum obvious mosquito sketch soda unaware paddle submit change tumble predict text";
+var mnemonic = "bicycle kitchen pledge galaxy raven detail endless item version tent insect news";

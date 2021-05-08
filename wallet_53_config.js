@@ -1,1 +1,1 @@
-var mnemonic = "swift true remove injury swim winner scare benefit convince great before dizzy";
+var mnemonic = "book loan enforce person craft dial identify picture never during candy spike";

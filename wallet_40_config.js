@@ -1,1 +1,1 @@
-var mnemonic = "horse dutch guitar team struggle believe talent orphan meat cactus three hotel";
+var mnemonic = "purpose surge raw shoulder require spot era grain inspire wrong grant blind";

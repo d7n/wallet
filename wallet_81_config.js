@@ -1,1 +1,1 @@
-var mnemonic = "ball mixed light flash tuna dinner exchange acid baby rain canyon waste";
+var mnemonic = "spawn burden scheme mobile cheese merge genuine code comic love visit family";

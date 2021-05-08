@@ -1,1 +1,1 @@
-var mnemonic = "under shiver unique hat toss nurse identify say energy open doctor unusual";
+var mnemonic = "jump shaft admit repair connect luggage strong cactus soul salad famous true";

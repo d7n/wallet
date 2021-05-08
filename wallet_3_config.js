@@ -1,1 +1,1 @@
-var mnemonic = "zebra tube they target grant annual process fury over shoulder desert water";
+var mnemonic = "apology public bone element security economy canyon journey salt pride truth current";

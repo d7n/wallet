@@ -1,1 +1,1 @@
-var mnemonic = "hurdle pony cram latin question dad wing civil judge someone ethics empower";
+var mnemonic = "client soldier traffic unit expect velvet empower void dignity urban mouse country";

@@ -1,1 +1,1 @@
-var mnemonic = "prosper aerobic vehicle want online stove bone crystal soft sudden basic napkin";
+var mnemonic = "prepare bubble venture bean risk hamster body person pigeon police state month";

@@ -1,1 +1,1 @@
-var mnemonic = "first occur hollow throw foil dad famous spray action reopen oven message";
+var mnemonic = "security case into sell lamp occur beef pear happy balcony hawk swing";

@@ -1,1 +1,1 @@
-var mnemonic = "badge general lazy rebuild clay ghost eye pulp evidence practice chicken solid";
+var mnemonic = "cook useless muscle venue flower wool way utility spatial cotton dose pride";

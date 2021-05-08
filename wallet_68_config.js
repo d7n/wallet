@@ -1,1 +1,1 @@
-var mnemonic = "wonder average what enable reveal pumpkin fragile blur toe mesh choice street";
+var mnemonic = "peace top power design clerk shrimp wrist machine buffalo summer hungry double";

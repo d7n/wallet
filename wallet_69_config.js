@@ -1,1 +1,1 @@
-var mnemonic = "kiwi lecture envelope wild lecture market push vessel swallow pyramid grid lawn";
+var mnemonic = "slab melody second island swap income common minute sunset riot rose ketchup";

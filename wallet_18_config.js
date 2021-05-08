@@ -1,1 +1,1 @@
-var mnemonic = "crush throw zoo firm gadget become fiscal hammer syrup episode deer around";
+var mnemonic = "jar behind sick index scrap load hint poet cactus foil able april";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious seminar certain alter venue need normal foil glove lend address fox";
+var mnemonic = "harsh combine hollow bulk file pumpkin tissue goose summer sphere beef flash";

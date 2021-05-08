@@ -1,1 +1,1 @@
-var mnemonic = "rural merry frown spread twist salute animal together please shy crowd kitten";
+var mnemonic = "vote shuffle cradle entire lazy option syrup author shift acoustic inmate butter";

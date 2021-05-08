@@ -1,1 +1,1 @@
-var mnemonic = "warfare range bunker cushion glide oil palm core burst flavor notable tomato";
+var mnemonic = "merry physical expand myself behave city image baby actor blossom disorder balance";

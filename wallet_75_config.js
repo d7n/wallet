@@ -1,1 +1,1 @@
-var mnemonic = "street word lizard survey warfare citizen ancient noodle food height marriage fly";
+var mnemonic = "leopard source cross basket menu food box warm hedgehog problem survey person";

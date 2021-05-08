@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo struggle embark glide van switch twelve trial open scissors wrap churn";
+var mnemonic = "box wide attend mouse soda hazard sport echo silk adult bacon trip";

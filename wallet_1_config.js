@@ -1,1 +1,1 @@
-var mnemonic = "feed click best vacant pet spell certain tired snack choose spawn ice";
+var mnemonic = "model weasel ecology exact project barely vacant knee grief midnight silent ski";

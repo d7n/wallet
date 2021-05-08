@@ -1,1 +1,1 @@
-var mnemonic = "police chest awful purse text loop wall nose resource soul garment outside";
+var mnemonic = "broom fancy shallow crisp kiss example federal labor force cube away parent";

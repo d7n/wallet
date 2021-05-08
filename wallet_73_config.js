@@ -1,1 +1,1 @@
-var mnemonic = "draft clinic witness awkward unusual kiss danger chalk physical vapor drive news";
+var mnemonic = "above trend account fade scatter describe notable pelican security orient hover cigar";

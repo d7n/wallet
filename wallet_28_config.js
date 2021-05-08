@@ -1,1 +1,1 @@
-var mnemonic = "flower domain damage close prize south lucky apple follow sponsor electric trigger";
+var mnemonic = "broken kit parade mother carbon effort alter usage slim depend day oyster";

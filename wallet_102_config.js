@@ -1,1 +1,1 @@
-var mnemonic = "sea vessel detail gravity grape curve employ agree hammer degree session one";
+var mnemonic = "lemon tragic gospel tourist dilemma barely obey believe valley afraid embody stuff";

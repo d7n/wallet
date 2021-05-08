@@ -1,1 +1,1 @@
-var mnemonic = "payment answer wall timber blue easy defense blouse dad palace jacket nothing";
+var mnemonic = "music into tube right olive myth truth believe case talk response weasel";

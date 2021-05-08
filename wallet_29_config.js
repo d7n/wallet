@@ -1,1 +1,1 @@
-var mnemonic = "like indicate tennis proud ordinary equal design educate fit scatter urban glare";
+var mnemonic = "drink list cereal patrol bullet bounce review basket begin beyond critic game";

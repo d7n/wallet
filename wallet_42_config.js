@@ -1,1 +1,1 @@
-var mnemonic = "dry number film industry visual avoid advance replace green merge ginger song";
+var mnemonic = "doll street gallery hill dawn cabin enter finger ask voice area cloth";

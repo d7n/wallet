@@ -1,1 +1,1 @@
-var mnemonic = "client name drip alter same rail onion bounce exile work addict pool";
+var mnemonic = "version cattle sport close casino mountain cheese false long satisfy twice spy";

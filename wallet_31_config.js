@@ -1,1 +1,1 @@
-var mnemonic = "citizen melody release buyer cluster under chair life defense burst sheriff junk";
+var mnemonic = "call ancient rich sell ready atom oven popular grace pact learn patrol";

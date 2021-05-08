@@ -1,1 +1,1 @@
-var mnemonic = "suffer swarm gauge account dutch fence best trend mandate protect install mutual";
+var mnemonic = "must reduce combine lend confirm trial solution drill damage tiny range sort";

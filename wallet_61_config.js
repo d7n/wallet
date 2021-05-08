@@ -1,1 +1,1 @@
-var mnemonic = "card silk vacant input undo own poet year rebuild impose catch twin";
+var mnemonic = "example exercise faint risk aisle sausage vapor flame wrist catch curtain silk";

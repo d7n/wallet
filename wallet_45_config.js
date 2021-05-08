@@ -1,1 +1,1 @@
-var mnemonic = "giraffe spray canyon sadness comfort mystery afraid marriage file pigeon kind sadness";
+var mnemonic = "question receive ability worth poem phrase collect rug midnight topple start pizza";

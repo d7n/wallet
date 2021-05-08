@@ -1,1 +1,1 @@
-var mnemonic = "hockey focus stamp senior erosion rail pluck certain bamboo lift nation tomorrow";
+var mnemonic = "across game connect lab divert pulse radar hand radio flower clutch kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "exhibit answer trust venue fortune label capital maid habit evidence stomach obvious";
+var mnemonic = "coral nice later shuffle undo burger exhibit saddle venue area column kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "step frame risk cupboard skirt enrich divorce vicious math report retire please";
+var mnemonic = "bag dirt window market print arena elder slam father present horn material";

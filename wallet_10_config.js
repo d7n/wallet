@@ -1,1 +1,1 @@
-var mnemonic = "purity clay iron level canal degree swarm warm frame tired love mutual";
+var mnemonic = "barrel course struggle blur nerve dinner arrest bachelor credit lyrics tattoo rural";

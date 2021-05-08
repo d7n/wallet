@@ -1,1 +1,1 @@
-var mnemonic = "drink street filter pool walk floor science energy blush receive juice rescue";
+var mnemonic = "strike wage flat odor choice lake lazy nut acquire claw rich divide";

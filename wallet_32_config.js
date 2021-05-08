@@ -1,1 +1,1 @@
-var mnemonic = "master laptop useless demise vast violin affair manage enlist great caution police";
+var mnemonic = "problem flip twin crunch embrace tragic usual axis refuse define push end";

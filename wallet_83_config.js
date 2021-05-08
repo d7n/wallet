@@ -1,1 +1,1 @@
-var mnemonic = "side seed exercise copper joy student skull tiger tone moral noodle orchard";
+var mnemonic = "until night enough cute try lend next uncle foil wood sniff elbow";
