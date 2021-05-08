@@ -1,1 +1,1 @@
-var mnemonic = "solution dinner matter around convince sadness plug float obtain puzzle myself chest";
+var mnemonic = "shallow scissors draw express sausage impose burden salmon rent boil submit caution";

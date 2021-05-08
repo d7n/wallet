@@ -1,1 +1,1 @@
-var mnemonic = "garment shrug chest kit rotate wing cotton memory between message arch rely";
+var mnemonic = "salon time donate document habit magnet ripple simple viable arrest pupil gun";

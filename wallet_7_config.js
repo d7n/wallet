@@ -1,1 +1,1 @@
-var mnemonic = "tape face tide idle topic film web atom penalty capable morning eye";
+var mnemonic = "friend patient balcony pioneer crack cloud oyster tenant pudding cube video design";

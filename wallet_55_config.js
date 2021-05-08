@@ -1,1 +1,1 @@
-var mnemonic = "alert wrist object parrot slender shy blast example naive patch insane tool";
+var mnemonic = "trim evolve bridge sorry youth ten keen safe steel ball rotate credit";

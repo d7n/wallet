@@ -1,1 +1,1 @@
-var mnemonic = "jeans charge allow unusual stand employ chest leave course hard original endorse";
+var mnemonic = "glare feed emerge device spin open casino wise stairs disagree member enough";

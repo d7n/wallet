@@ -1,1 +1,1 @@
-var mnemonic = "lecture breeze junk question innocent resemble one clean theory mother hand unhappy";
+var mnemonic = "fiber wage loud blast smart fruit tired predict basket raise field deny";

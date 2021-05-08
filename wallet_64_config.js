@@ -1,1 +1,1 @@
-var mnemonic = "dragon together spawn more begin odor engage strategy inherit kind force planet";
+var mnemonic = "fame squeeze arrive yard few lens neck very firm apology employ mention";

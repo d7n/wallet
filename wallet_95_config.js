@@ -1,1 +1,1 @@
-var mnemonic = "material place enough fork axis food script stand slim true nerve frog";
+var mnemonic = "estate stay people once vivid cactus deputy lemon short device sell neck";

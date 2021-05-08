@@ -1,1 +1,1 @@
-var mnemonic = "stove sword fame zebra tomorrow pass snack risk mixed normal rhythm rigid";
+var mnemonic = "jeans motion service lens rough echo pattern quit east grab veteran receive";

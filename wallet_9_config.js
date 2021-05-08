@@ -1,1 +1,1 @@
-var mnemonic = "aware own meat barrel retreat invite wedding matter kick insane zebra token";
+var mnemonic = "gas grape piano attend banana carpet toward crack avoid bottom insane pride";

@@ -1,1 +1,1 @@
-var mnemonic = "hip surface armed symptom powder isolate miss copper giant shove rule flash";
+var mnemonic = "stay kingdom shoulder damage delay praise depend trust company lock rebuild harvest";

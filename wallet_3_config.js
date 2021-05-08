@@ -1,1 +1,1 @@
-var mnemonic = "bring draw all book song off silk royal gown wet ski bench";
+var mnemonic = "oak mercy flame video parrot elephant tooth novel minor wonder intact border";

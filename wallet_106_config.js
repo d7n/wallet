@@ -1,1 +1,1 @@
-var mnemonic = "when bike task target menu general depth alpha love lamp sing monster";
+var mnemonic = "siege mobile satisfy salmon attitude mixture phrase gossip weekend happy flee embrace";

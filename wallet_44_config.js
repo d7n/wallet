@@ -1,1 +1,1 @@
-var mnemonic = "banner tumble jazz horse album violin apple behind mask naive health burden";
+var mnemonic = "rifle mouse eyebrow inform crowd never pulse arrest notice marble cart fiction";

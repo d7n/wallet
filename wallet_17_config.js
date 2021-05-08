@@ -1,1 +1,1 @@
-var mnemonic = "fringe member noodle pig debris february calm stock cigar toy relief message";
+var mnemonic = "super dignity cattle honey mesh barrel transfer cram round regret dizzy breeze";

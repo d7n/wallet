@@ -1,1 +1,1 @@
-var mnemonic = "only surround sausage stand flag miracle gloom deputy doctor trade venue pet";
+var mnemonic = "brother truly clerk coil quarter olympic wide hope tiger detail utility enter";

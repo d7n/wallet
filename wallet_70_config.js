@@ -1,1 +1,1 @@
-var mnemonic = "crazy accident donate summer expose morning inmate once patient humble sponsor metal";
+var mnemonic = "screen century child fabric second dose senior indicate skill impose liberty mixed";

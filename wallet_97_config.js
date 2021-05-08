@@ -1,1 +1,1 @@
-var mnemonic = "erode during corn elephant middle twelve box action jar erode trend drill";
+var mnemonic = "advance lottery saddle level ensure moment angle neck year fun used possible";

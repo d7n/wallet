@@ -1,1 +1,1 @@
-var mnemonic = "since pledge lock acoustic approve yellow avocado card buzz agent purity exotic";
+var mnemonic = "intact super deposit fine speed check merit raise excite grant truck elder";

@@ -1,1 +1,1 @@
-var mnemonic = "trap clump horse pink sponsor rack ketchup crouch repeat sadness mule cart";
+var mnemonic = "pact question mean hammer squeeze utility beach unaware spawn library crystal gravity";

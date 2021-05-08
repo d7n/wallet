@@ -1,1 +1,1 @@
-var mnemonic = "ill holiday void behave bundle donor wash steel crunch member muffin combine";
+var mnemonic = "cost guilt increase math that talk unaware habit target spoil just able";

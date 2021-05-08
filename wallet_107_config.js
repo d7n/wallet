@@ -1,1 +1,1 @@
-var mnemonic = "zero fish two price copy option sorry deputy tackle corn they vote";
+var mnemonic = "can enforce dinosaur title observe witness rely side coffee above medal sight";

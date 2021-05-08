@@ -1,1 +1,1 @@
-var mnemonic = "much derive cube timber also more trial upgrade music dose police increase";
+var mnemonic = "hospital kangaroo spawn sample obvious doll axis shift fortune side sting belt";

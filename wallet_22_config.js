@@ -1,1 +1,1 @@
-var mnemonic = "core hospital exotic glue will machine capital fun cage edit enhance benefit";
+var mnemonic = "aerobic betray beauty rather thumb man raise era loop antique various young";

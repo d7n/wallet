@@ -1,1 +1,1 @@
-var mnemonic = "mother core point marble benefit spell candy finger sport scale shift choose";
+var mnemonic = "climb flash exhibit album save treat fuel bird curtain flame hundred dry";

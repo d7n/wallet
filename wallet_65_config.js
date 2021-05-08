@@ -1,1 +1,1 @@
-var mnemonic = "unique reform change funny awkward question lamp mad term claw kiss disease";
+var mnemonic = "mirror hill mandate illness citizen need clerk simple segment series prevent disease";

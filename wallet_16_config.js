@@ -1,1 +1,1 @@
-var mnemonic = "sniff erode slender jelly drill napkin change price vacuum tilt depth rubber";
+var mnemonic = "rent foam banner hobby message weasel welcome season pig material dinosaur onion";

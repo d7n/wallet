@@ -1,1 +1,1 @@
-var mnemonic = "chair pulp genuine walnut metal myth wheel peanut claw dismiss employ ivory";
+var mnemonic = "future step visual bar lecture inside oyster culture can theme door boss";

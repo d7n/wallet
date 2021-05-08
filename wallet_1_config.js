@@ -1,1 +1,1 @@
-var mnemonic = "twenty judge glance such sound shock universe current lava tree blur curious";
+var mnemonic = "remain force jar arctic slush subject make this salad cry camera soft";

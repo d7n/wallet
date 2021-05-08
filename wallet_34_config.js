@@ -1,1 +1,1 @@
-var mnemonic = "small puzzle siren bean lottery educate kangaroo bone radar correct oppose marble";
+var mnemonic = "century direct field derive embark rail rate hour pigeon physical bargain height";

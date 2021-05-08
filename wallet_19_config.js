@@ -1,1 +1,1 @@
-var mnemonic = "harsh update file reveal sentence hat west inquiry rapid garlic icon media";
+var mnemonic = "present media crash company rather range mango bone vapor board sunset regular";

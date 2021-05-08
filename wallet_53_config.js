@@ -1,1 +1,1 @@
-var mnemonic = "tray basic oak genuine rather find scan benefit memory legal choose science";
+var mnemonic = "correct visual embark hobby tonight science swear biology member much home explain";

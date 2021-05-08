@@ -1,1 +1,1 @@
-var mnemonic = "happy reform veteran matrix affair clutch erosion attend gain peace violin inhale";
+var mnemonic = "fun salt run river barely rule square drift fan maid panda stand";

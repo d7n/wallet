@@ -1,1 +1,1 @@
-var mnemonic = "observe wonder seek isolate radio sing tortoise skirt route february oven identify";
+var mnemonic = "upgrade season right say immune coin come hat equal fury force biology";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest aisle only trash wonder accident also fork there video denial demise";
+var mnemonic = "aisle drip gravity rival canal wealth bottom dial belt spare address erode";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose gold awkward mouse network upon join lake agree gym outside bring";
+var mnemonic = "fever diamond cluster unique brown leaf need mistake skate gallery surge south";

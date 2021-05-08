@@ -1,1 +1,1 @@
-var mnemonic = "edge actress switch project capital feed fiber net flat walnut cook major";
+var mnemonic = "apart thank idea rib spoon melt bird plunge indicate lecture until intact";

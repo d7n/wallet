@@ -1,1 +1,1 @@
-var mnemonic = "worry jazz mind jelly layer bundle runway street marriage resource sponsor scout";
+var mnemonic = "abuse negative chair cup vapor deer travel satisfy lonely moon shiver pelican";

@@ -1,1 +1,1 @@
-var mnemonic = "mass grow auction matter bottom you cruel silly again draft snap quantum";
+var mnemonic = "soul detail crop romance cry lift frequent disorder you discover entire eagle";

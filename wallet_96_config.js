@@ -1,1 +1,1 @@
-var mnemonic = "hawk friend inquiry club leopard visa gallery kingdom coconut force claw regular";
+var mnemonic = "device collect brain table forum waste key excuse grab afford file pony";

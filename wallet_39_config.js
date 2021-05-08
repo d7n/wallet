@@ -1,1 +1,1 @@
-var mnemonic = "super lounge jazz route glance bar entire travel wasp chief pepper blanket";
+var mnemonic = "chair company wave laptop laugh early wave voyage journey caught forest unhappy";

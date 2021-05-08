@@ -1,1 +1,1 @@
-var mnemonic = "urban year lottery guide fragile comfort off gift critic arena cruel poem";
+var mnemonic = "pipe marine fitness clinic carpet cat adult fog dash effort galaxy oven";

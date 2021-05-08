@@ -1,1 +1,1 @@
-var mnemonic = "grape car job umbrella conduct midnight loop reason bullet wisdom stage utility";
+var mnemonic = "foam must warrior ice return behave clever robust injury thrive save tomorrow";

@@ -1,1 +1,1 @@
-var mnemonic = "runway dinosaur acoustic mean half hill lizard gossip ugly mobile unique absent";
+var mnemonic = "curtain furnace notable kidney mean parrot teach present quick donkey canyon brush";

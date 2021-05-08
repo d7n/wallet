@@ -1,1 +1,1 @@
-var mnemonic = "visit demise film leader height peanut trumpet rocket describe february abuse aspect";
+var mnemonic = "ceiling chicken tired gym pigeon giant elephant say today budget essence section";

@@ -1,1 +1,1 @@
-var mnemonic = "strong youth simple grid company depend federal will despair certain apart category";
+var mnemonic = "know olympic sad cabin inquiry aspect balance super swamp fatal price rival";

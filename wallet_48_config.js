@@ -1,1 +1,1 @@
-var mnemonic = "movie need estate law web tribe celery reunion kind offer pact come";
+var mnemonic = "basic fun right shuffle garment saddle panel reunion census puzzle twelve bag";

@@ -1,1 +1,1 @@
-var mnemonic = "top tone tilt flavor spatial remember black jazz cruel nice spice type";
+var mnemonic = "math kitchen local keep canvas hobby course sponsor myth vacant concert renew";

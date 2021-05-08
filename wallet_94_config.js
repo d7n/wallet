@@ -1,1 +1,1 @@
-var mnemonic = "dinner stumble coconut outdoor upset aisle gesture ivory express scissors clock fix";
+var mnemonic = "hammer comfort example theory lizard avocado control room alone august glimpse jacket";

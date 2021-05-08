@@ -1,1 +1,1 @@
-var mnemonic = "lucky mimic merit noodle talk chat heavy unknown roof panther crouch exhibit";
+var mnemonic = "dove matrix soldier aspect captain bamboo creek enact ocean gravity dog answer";

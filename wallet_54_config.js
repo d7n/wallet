@@ -1,1 +1,1 @@
-var mnemonic = "old live mistake uniform invest parade treat swamp must gap entry local";
+var mnemonic = "hill spawn primary walk crash culture drill digital hollow phone camera abuse";

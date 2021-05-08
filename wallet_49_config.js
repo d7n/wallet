@@ -1,1 +1,1 @@
-var mnemonic = "parade jump jacket receive chaos crew lunch divert royal scout clinic two";
+var mnemonic = "mule help lazy cousin paper shy wrestle they suit leopard belt target";

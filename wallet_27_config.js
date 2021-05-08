@@ -1,1 +1,1 @@
-var mnemonic = "surge luxury viable hat cup believe bright picnic labor into shift grid";
+var mnemonic = "diesel receive upgrade earth risk chunk drive duck harsh orphan bulk bonus";

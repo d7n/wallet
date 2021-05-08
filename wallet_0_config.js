@@ -1,1 +1,1 @@
-var mnemonic = "effort huge chest extend hole shrug hybrid merry perfect unfair tomorrow hover";
+var mnemonic = "bone depth fold angle clap dawn vivid stool pride win fitness hold";

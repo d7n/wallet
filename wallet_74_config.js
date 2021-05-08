@@ -1,1 +1,1 @@
-var mnemonic = "change trap panel penalty pool report asset decorate general join issue border";
+var mnemonic = "mixture catalog legend broccoli ensure happy picnic congress census orchard heavy result";

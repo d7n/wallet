@@ -1,1 +1,1 @@
-var mnemonic = "skull pluck vocal sell dinosaur scare suspect monkey project oven radio hub";
+var mnemonic = "abuse velvet hunt course spirit region scissors employ parade appear genuine beef";

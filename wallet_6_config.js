@@ -1,1 +1,1 @@
-var mnemonic = "when sad spare grow hedgehog large rebel slogan ensure side spare cry";
+var mnemonic = "essence ball man long legal wrong coach calm camera patch album movie";

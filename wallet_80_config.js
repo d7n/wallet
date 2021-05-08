@@ -1,1 +1,1 @@
-var mnemonic = "board horror leader toss mixed humor move cable security mammal spot knee";
+var mnemonic = "project major rain steak verify stove parent green inflict trip update approve";

@@ -1,1 +1,1 @@
-var mnemonic = "unable siege jump miracle cotton human tobacco sure tiger blade success dinosaur";
+var mnemonic = "cousin task during slender sponsor prison foot annual evil ancient bean million";

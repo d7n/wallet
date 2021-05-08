@@ -1,1 +1,1 @@
-var mnemonic = "better rapid trap swap pill regular family solution shaft crystal one involve";
+var mnemonic = "table affair island suffer venture genius moon soul census hill trip today";

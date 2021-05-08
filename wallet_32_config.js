@@ -1,1 +1,1 @@
-var mnemonic = "tiger route chuckle dice demand crouch apart bird affair gospel walk canyon";
+var mnemonic = "disease index illegal unique change denial mail actor margin risk dust review";

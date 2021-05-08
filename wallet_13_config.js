@@ -1,1 +1,1 @@
-var mnemonic = "lab drift put adult tape movie common patient know patient tortoise awesome";
+var mnemonic = "sunset milk mad boost ship symptom clever since parade chunk also melt";

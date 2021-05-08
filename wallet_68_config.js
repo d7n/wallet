@@ -1,1 +1,1 @@
-var mnemonic = "victory enable bike charge come debris census surround cloth ankle vintage nothing";
+var mnemonic = "axis smile surge scale race model coin tunnel lesson cherry harsh float";

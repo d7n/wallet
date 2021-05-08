@@ -1,1 +1,1 @@
-var mnemonic = "suit captain payment hub admit orient truck zebra lucky emotion almost deny";
+var mnemonic = "olympic lawn eagle vault someone report relax diamond slight umbrella such stool";

@@ -1,1 +1,1 @@
-var mnemonic = "noise kid kidney choose chef point basket episode nuclear bus assume agent";
+var mnemonic = "catch action stone trouble laugh hat quote display neutral fetch smart human";

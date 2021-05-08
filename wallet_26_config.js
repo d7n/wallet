@@ -1,1 +1,1 @@
-var mnemonic = "able traffic slot raven excess remember pluck become wine exact cute brown";
+var mnemonic = "enroll reduce extra spend elegant suit outdoor alien win increase illegal fiber";

@@ -1,1 +1,1 @@
-var mnemonic = "core weasel gravity jump impact muscle cruel swing fit party castle alone";
+var mnemonic = "cargo gun coil carbon naive crisp utility surprise festival portion toward transfer";

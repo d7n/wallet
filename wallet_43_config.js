@@ -1,1 +1,1 @@
-var mnemonic = "snake deer walk local skull cluster guard common ecology curious load swing";
+var mnemonic = "ice library pumpkin toward flag debris develop tip bone beyond endless major";

@@ -1,1 +1,1 @@
-var mnemonic = "decide decline lounge autumn shop vanish random planet raven elephant nature artefact";
+var mnemonic = "aisle mesh sphere girl innocent lazy please fiscal someone cloud initial disorder";

@@ -1,1 +1,1 @@
-var mnemonic = "shiver pen regular utility gentle quantum rebel success gold inner chunk stick";
+var mnemonic = "snap six jar exotic atom seek flavor siren identify crunch dinner rough";

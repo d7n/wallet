@@ -1,1 +1,1 @@
-var mnemonic = "face attend end forget repeat nice boss deputy vast typical throw toast";
+var mnemonic = "fantasy inch ramp gasp ticket depend clog zoo between business coil castle";

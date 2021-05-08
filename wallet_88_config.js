@@ -1,1 +1,1 @@
-var mnemonic = "caution planet tower seat keep defense motion real narrow divide apart melody";
+var mnemonic = "pet among year word wrong hobby connect animal flee whisper clay quantum";

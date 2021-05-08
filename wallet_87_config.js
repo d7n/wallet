@@ -1,1 +1,1 @@
-var mnemonic = "fault civil hunt mixed food music pluck vanish silver special coral float";
+var mnemonic = "disorder gorilla web upgrade tornado slender pretty glove rebel broom post cart";

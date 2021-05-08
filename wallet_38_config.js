@@ -1,1 +1,1 @@
-var mnemonic = "assist team dismiss inherit anger amount chunk then vanish will pistol omit";
+var mnemonic = "creek ball verb track attack sun artist output fit song treat style";

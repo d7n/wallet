@@ -1,1 +1,1 @@
-var mnemonic = "scrap afraid eye dress pull sun dignity mushroom rich zebra envelope valid";
+var mnemonic = "lottery today swap price castle thunder throw duck silent slight oval girl";

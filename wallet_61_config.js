@@ -1,1 +1,1 @@
-var mnemonic = "myself chimney sleep away useless physical alarm pistol polar flag skill truck";
+var mnemonic = "case sausage body salon advice april social load enforce hungry scout wild";

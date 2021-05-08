@@ -1,1 +1,1 @@
-var mnemonic = "empower enlist lucky maid link lazy dove excuse raven similar front allow";
+var mnemonic = "spread smooth scheme ahead focus figure beach canal column save slab random";

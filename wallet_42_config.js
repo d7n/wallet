@@ -1,1 +1,1 @@
-var mnemonic = "fury come video long upgrade lecture inner mango captain brisk popular maze";
+var mnemonic = "imitate despair bright test unveil shrimp parent dance fatigue canvas giggle brain";

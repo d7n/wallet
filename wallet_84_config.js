@@ -1,1 +1,1 @@
-var mnemonic = "expose inmate crush repair cover acoustic shuffle stumble toilet elegant giggle foot";
+var mnemonic = "erode universe wheat almost message kiss audit liar subway buzz sentence oblige";

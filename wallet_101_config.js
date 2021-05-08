@@ -1,1 +1,1 @@
-var mnemonic = "lobster lunch current wrestle sail intact connect place pledge hood donate tilt";
+var mnemonic = "garden arena know shiver quantum resemble expire start need moral stable purpose";

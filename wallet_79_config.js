@@ -1,1 +1,1 @@
-var mnemonic = "pilot service peasant memory sheriff tumble dignity what buyer scrap write reveal";
+var mnemonic = "pretty hockey balcony case boss chuckle swear page gallery check shock bitter";

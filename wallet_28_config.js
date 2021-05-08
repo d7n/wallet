@@ -1,1 +1,1 @@
-var mnemonic = "ritual achieve harbor liquid syrup pretty logic library fix reason orient pluck";
+var mnemonic = "upon second fashion fat length exchange web oval lava planet cheese jump";

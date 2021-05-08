@@ -1,1 +1,1 @@
-var mnemonic = "permit bread elephant attitude rhythm usage object neither recycle spring interest need";
+var mnemonic = "swear crunch prosper ordinary danger regret copper choose sauce cereal execute artefact";

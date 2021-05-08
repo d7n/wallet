@@ -1,1 +1,1 @@
-var mnemonic = "radar blame alone curious accuse dance grain need raise reward forget margin";
+var mnemonic = "debris cry poet time dad can thunder awake layer amount life twist";

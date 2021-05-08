@@ -1,1 +1,1 @@
-var mnemonic = "first build fitness boy drum project assault despair artist police give escape";
+var mnemonic = "bus glimpse walk rely job twice brown seat ill radar lyrics behave";
